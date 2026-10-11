@@ -104,7 +104,9 @@ The secretary shall have charge and custody of all records and documents of the 
 
 ## Article III — The Municipal Board
 
-Section **11.** _Constitution and organization of the municipal board—Compensation of members thereof._ -The municipal board shall be the legislative body of the city and shall be composed of the vice-mayor, who shall be its presiding officer, and eight councilors who shall be elected at large by popular vote during every election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. The said presiding officer shall vote only in case of tie. In case of sickness, absence, suspension or other temporary disability of any member of the board, or is necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute belonging to the same political party, who shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.
+### Section 11
+
+_Constitution and organization of the municipal board—Compensation of members thereof._ -The municipal board shall be the legislative body of the city and shall be composed of the vice-mayor, who shall be its presiding officer, and eight councilors who shall be elected at large by popular vote during every election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. The said presiding officer shall vote only in case of tie. In case of sickness, absence, suspension or other temporary disability of any member of the board, or is necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute belonging to the same political party, who shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.
 
 If any member of the municipal board should be a candidate for office in any election, he shall be disqualified to act with the board in the discharge of the duties conferred upon it relative to election matters, and in such case, the other members of the board shall discharge said duties without his assistance, or they may choose a disinterested elector of the city to act with the board in such matters in his stead.
 
@@ -733,7 +735,9 @@ _Reports to the mayor concerning schools—_ Construction and custody of school 
 
 ## Article XV — Transitory Provisions
 
-Section **90.** _Change of government._ -The city government provided for in this Charter shall be organized on such a date as may be fixed by the President of the Philippines.
+### Section 90
+
+_Change of government._ -The city government provided for in this Charter shall be organized on such a date as may be fixed by the President of the Philippines.
 
 The incumbent Mayor, Vice-Mayor and members of the Municipal Council of the Municipality of San Carlos shall continue in office as the Mayor, Vice-Mayor and members of the Municipal Board of the City respectively, until the expiration of their present terms of office.
 

@@ -291,9 +291,6 @@ Approved,
 </tr>
 </table>
 
-<table>
-</table>
-
 This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 6, 2013 and February 4, 2013, respectively.
 
 <table>

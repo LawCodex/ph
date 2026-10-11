@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 1052 — Providing for Temporary Special Disqualifications From Exercising the Right of Suffrage, and for Other Purposes"
+identifier: "Presidential Decree No. 1052"
+number: "1052"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-11-25
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_1052_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1052
+
+**Providing for Temporary Special Disqualifications From Exercising the Right of Suffrage, and for Other Purposes**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1052 November 25, 1976**
+
+PROVIDING FOR TEMPORARY SPECIAL DISQUALIFICATIONS FROM EXERCISING THE RIGHT OF SUFFRAGE, AND FOR OTHER PURPOSES
+
+WHEREAS, the right of suffrage, although a constitutional right, is not a natural right and its exercise may, for reasons of public policy, be limited by law;
+
+WHEREAS, in order to preserve the gains achieved under the regime of Martial Law, it is necessary to suspend the right of suffrage including the concomitant right to be voted to public office of persons who are detained for subversion, crimes against national security and certain crimes against public order.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:
+
+## Section 1
+
+Any person who is detained upon a finding of probable cause of subversion, any crime against national security or the following crimes against Public Order: Rebellion/Insurrection, Conspiracy and Proposal to Commit Rebellion/Insurrection, Disloyalty of Officials and employees, Inciting to Rebellion/Insurrection, Sedition, Conspiracy to Commit Sedition and Inciting to Sedition, shall automatically be temporarily disqualified from exercising the right to vote or be voted to a public office, such temporary disqualification to continue, despite the grant of a temporary release or a downgrading to House Arrest status, until such time as he shall have been acquitted by a competent court of the charge (s) against him is/are permanently dismissed; Provided, That administrative boards shall be constituted hereafter pursuant to rules and regulations which the Secretary of National Defense shall immediately promulgate, which boards shall recommend to the President of the Philippines the lifting of such temporary disqualification or its resumption; and Provided, finally, That such boards shall function under the administrative supervision of the Secretary of National Defense.
+
+## Section 2
+
+All laws, decrees, orders, instructions, rules and regulations which are inconsistent with this Decree are hereby repealed or modified accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 25th day of November, in the year of Our Lord, nineteen hundred and seventy-six.

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-. _Title._ – This Act shall be known as the "Higher Education Act of 1994".
+_Title._ – This Act shall be known as the "Higher Education Act of 1994".
 
 ## Section 2
 

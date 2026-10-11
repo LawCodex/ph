@@ -61,14 +61,14 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 10
 
-. A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
 
 ## Section 11
 
-. This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 12
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

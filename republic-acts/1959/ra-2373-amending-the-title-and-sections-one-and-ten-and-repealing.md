@@ -34,7 +34,7 @@ Section one of the same Act is amended to read as follows:
 
 ## Sec. 1
 
-. There is hereby granted and conceded to Mr. Ricardo P. Ocampo, residing at 140 C. Francisco, Makati, Rizal, Philippines, his successors or assigns, the temporary right and privilege of constructing, installing, establishing and operating in the Philippines and at such places as the grantee may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or any competent authority who is or shall be authorized now or in the future to give said approval, public coastal radio stations with the corresponding relay stations, and public fixed and public based and land mobile stations and radio-paging system for the reception and transmission of wireless messages on radiotelephony (voice) and/or radiotelegraphy, or both, within the Philippines and with vessels at sea and aircrafts over the air, irrespective of whether such vessels and aircrafts are within or without the Philippines."
+There is hereby granted and conceded to Mr. Ricardo P. Ocampo, residing at 140 C. Francisco, Makati, Rizal, Philippines, his successors or assigns, the temporary right and privilege of constructing, installing, establishing and operating in the Philippines and at such places as the grantee may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or any competent authority who is or shall be authorized now or in the future to give said approval, public coastal radio stations with the corresponding relay stations, and public fixed and public based and land mobile stations and radio-paging system for the reception and transmission of wireless messages on radiotelephony (voice) and/or radiotelegraphy, or both, within the Philippines and with vessels at sea and aircrafts over the air, irrespective of whether such vessels and aircrafts are within or without the Philippines."
 
 ## Section 3
 
@@ -42,7 +42,7 @@ Section ten of the same Act is amended to read as follows:
 
 ## Sec. 10
 
-. As a condition of the granting of this temporary permit the grantee shall execute a bond in favor of the Government of the Philippines in the sum of twenty-five thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this temporary permit. If, after three years from the date of the acceptance of this temporary permit, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+As a condition of the granting of this temporary permit the grantee shall execute a bond in favor of the Government of the Philippines in the sum of twenty-five thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this temporary permit. If, after three years from the date of the acceptance of this temporary permit, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 4
 

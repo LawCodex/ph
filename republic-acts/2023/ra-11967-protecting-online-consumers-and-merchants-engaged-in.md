@@ -328,17 +328,17 @@ The foregoing shall be submitted to the Bureau and must be accompanied by at lea
 
 ### Section 24
 
-. _Internal Redress Mechanism._ \- An aggrieved party shall avail of the internal redress mechanism of the digital platform, e-marketplace or e-retailer prior to the filing of a complaint before any court or appropriate government agency, or resorting to alternative dispute resolution. Such mechanism is deemed exhausted if the complaint remains unresolved after seven (7) calendar days from filing thereof.
+_Internal Redress Mechanism._ \- An aggrieved party shall avail of the internal redress mechanism of the digital platform, e-marketplace or e-retailer prior to the filing of a complaint before any court or appropriate government agency, or resorting to alternative dispute resolution. Such mechanism is deemed exhausted if the complaint remains unresolved after seven (7) calendar days from filing thereof.
 
 ### Section 25
 
-. _Primary Liability of E-retailers or Online Merchants._ \- The e-retailer or online merchant shall be primarily liable for indemnifying the online consumer in civil actions or administrative complaints arising from the internet transaction, without prejudice to the imposition of other penalties as may be appropriate under Section 29 of this Act and other laws.
+_Primary Liability of E-retailers or Online Merchants._ \- The e-retailer or online merchant shall be primarily liable for indemnifying the online consumer in civil actions or administrative complaints arising from the internet transaction, without prejudice to the imposition of other penalties as may be appropriate under Section 29 of this Act and other laws.
 
 The liability of the e-marketplace or digital platform shall be treated as one and the same as the online merchant upon a finding that both are the same entity.
 
 ### Section 26
 
-. _Subsidiary Liability of E-marketplace or Digital Platforms._ \- The e-marketplace or digital platform that facilitated the internet transaction subject to a civil action or administrative complaint shall be subsidiary liable to the online consumer if any of the following circumstances are present:
+_Subsidiary Liability of E-marketplace or Digital Platforms._ \- The e-marketplace or digital platform that facilitated the internet transaction subject to a civil action or administrative complaint shall be subsidiary liable to the online consumer if any of the following circumstances are present:
 
 (a) The digital platform or e-marketplace failed to exercise ordinary diligence in complying with its obligations under Sections 21 and 22 hereof, resulting in loss or damage to the online consumer; or
 
@@ -352,7 +352,7 @@ Digital platforms or e-marketplaces shall not be held liable for their reliance 
 
 ### Section 27
 
-. _Solidary Liability of E-marketplace or Digital Platform._ \- The e-marketplaces or digital platforms shall be solidarily liable if it fails, after notice, to act expeditiously to remove, or disable access to goods or services appearing on its platform that are prohibited by law, imminently injurious, unsafe, or dangerous.
+_Solidary Liability of E-marketplace or Digital Platform._ \- The e-marketplaces or digital platforms shall be solidarily liable if it fails, after notice, to act expeditiously to remove, or disable access to goods or services appearing on its platform that are prohibited by law, imminently injurious, unsafe, or dangerous.
 
 Liability under this section shall be without prejudice to the imposition of appropriate penalties under Section 29 of this Act or other laws.
 
@@ -360,7 +360,7 @@ Liability under this section shall be without prejudice to the imposition of app
 
 ### Section 28
 
-. _Damages._ \- The consumer may claim damages by filing a case before the court or the DTI within two (2) years form the time the cause of action arose. The right to damages under this section shall be governed by the Civil Code, Republic Act No. 7394, and other existing laws.
+_Damages._ \- The consumer may claim damages by filing a case before the court or the DTI within two (2) years form the time the cause of action arose. The right to damages under this section shall be governed by the Civil Code, Republic Act No. 7394, and other existing laws.
 
 ### Section 29
 
@@ -418,31 +418,31 @@ _Implementing Rules and Regulations._ \- Within ninety (90) days from the effect
 
 ### Section 32
 
-. _Transitory Provisions._ \- A transitory period of eighteen (18) months from the effectivity of this Act shall be provided to all affected online merchants, e-retailers, e-marketplaces, and digital platforms to comply with the requirements of the law.
+_Transitory Provisions._ \- A transitory period of eighteen (18) months from the effectivity of this Act shall be provided to all affected online merchants, e-retailers, e-marketplaces, and digital platforms to comply with the requirements of the law.
 
 ### Section 33
 
-. _Applicability of the Civil Code._ \- In construing the rights and responsibilities of the parties, the Civil Code provisions on sales, and obligations and contracts shall apply.
+_Applicability of the Civil Code._ \- In construing the rights and responsibilities of the parties, the Civil Code provisions on sales, and obligations and contracts shall apply.
 
 ### Section 34
 
-. _Interpretation._ \- In case of doubt, the provisions of this Act, including its implementing rules and regulations and subsequent issuances by the implementing agency, shall be construed in a manner that accords the highest respect for human dignity, consumer rights, and individual privacy.
+_Interpretation._ \- In case of doubt, the provisions of this Act, including its implementing rules and regulations and subsequent issuances by the implementing agency, shall be construed in a manner that accords the highest respect for human dignity, consumer rights, and individual privacy.
 
 ### Section 35
 
-. _Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
 ### Section 36
 
-. _Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ### Section 37
 
-. _Repealing Clause._ \- All laws, presidential decrees, executive orders, letters of instruction, and administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, letters of instruction, and administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
 
 ### Section 38
 
-. _Effectivity._ \- This Act shall take effect after fifteen (15) days following the completion of its publication in the Official gazette or in a newspaper of general circulation.
+_Effectivity._ \- This Act shall take effect after fifteen (15) days following the completion of its publication in the Official gazette or in a newspaper of general circulation.
 
 Approved,
 

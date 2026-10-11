@@ -1,0 +1,67 @@
+---
+title: "Presidential Decree No. 629 — Setting January 7 to 21, 1975 as the Period for Registration of Barangay Members for Purposes of The"
+identifier: "Presidential Decree No. 629"
+number: "629"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-01-04
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_629_1975.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 629
+
+**Setting January 7 to 21, 1975 as the Period for Registration of Barangay Members for Purposes of The**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 629 January 4, 1975**
+
+SETTING JANUARY 7 TO 21, 1975 AS THE PERIOD FOR REGISTRATION OF BARANGAY MEMBERS FOR PURPOSES OF THE JANUARY 30, 1975, REFERENDUM PRESCRIBING THE METHOD FOR SUCH REGISTRATION, AND APPROPRIATING FUNDS THEREFOR
+
+WHEREAS, a National Referendum will be held on January 30, 1975, as provided under Presidential Proclamation No. 1366 dated December 31, 1974;
+
+WHEREAS, in said referendum it is the duty and obligation of all citizens fifteen years of age or over, literate or illiterate to register and cast their votes; and
+
+WHEREAS, those who have since become qualified after the last National Referendum on July 27-28, 1973, should be registered as barangay members to enable them to cast their votes in the National Referendum of January 30, 1975;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree the following as part of the law of the land:
+
+## Section 1
+
+_Period of Registration._ January 7 to 21, 1975, is hereby declared as a period for the registration of members of barangays who were not registered in the July 27-28 (1973) National Referendum.
+
+## Section 2
+
+_Method of Registration._ The provisions of Presidential Decree No. 210 dated June 8, 1973, entitled "Providing For a System of Registration For Members of the Barangays (Citizens Assemblies)" as amended, shall govern the registration of barangay members herein provided, including its provisions on prohibited acts, imposition of penalties, prosecution of offenses, and jurisdiction of courts.
+
+## Section 3
+
+_List of Barangay Members._ The list of barangay members used in connection with the July 27-28, 1973 referendum shall be adopted for purposes of the January 30, 1975 National Referendum, with such additions, corrections or cancellations as may be proper in accordance with the pertinent provisions of existing laws or decrees.
+
+## Section 4
+
+_Promulgation of Rules and Regulations._ The Commission on Election shall promulgate such rules and regulations and prescribe and/or furnish such forms and reglementary periods for certain acts required herein to be performed.
+
+The Commission is also authorized to provide for the updating of lists and to promulgate rules concerning disputes over registration and other matters related to barangay affairs.
+
+The Commission on Elections may order the printing of forms by private firms, procure any supply, materials, equipment or service needed for the implementation of this Decree either by negotiation or through sealed quotation if it finds the requirements of public bidding impracticable to serve.
+
+The Commission may hire under contractual basis the services of personnel of this method is found to be more expedient and economical.
+
+Any provisions of existing laws to the contrary notwithstanding, the Commission on Election may require its officials and employees, and those assigned thereto, to work overtime in connection with the registration and the holding of the referendum after the required office hours on regular working days and on Saturdays, Sundays, holidays, and on scheduled rest days, and pay compensation therefor, including overtime services rendered in connection with this Decree, at the rate to be fixed by the Commission.
+
+## Section 5
+
+_Appropriations._ To implement the provisions of this Decree the amount of TWO MILLION SIX HUNDRED THOUSAND PESOS (P2,600,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.ITC©Lawphil
+
+## Section 6
+
+_Effectivity._ This Decree shall take effect immediately.
+
+Done in the City of Manila, this 4th day of January, in the year of Our Lord, nineteen hundred and seventy-five.

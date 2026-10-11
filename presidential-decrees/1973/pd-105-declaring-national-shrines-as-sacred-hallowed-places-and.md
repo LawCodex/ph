@@ -1,0 +1,38 @@
+---
+title: "Presidential Decree No. 105 — Declaring National Shrines as Sacred (Hallowed) Places and Prohibiting Desecration Thereof"
+identifier: "Presidential Decree No. 105"
+number: "105"
+type: decree
+jurisdiction: ph
+language: en
+date: 1973-01-24
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1973/pd_105_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 105
+
+**Declaring National Shrines as Sacred (Hallowed) Places and Prohibiting Desecration Thereof**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 105 January 24, 1973**
+
+DECLARING NATIONAL SHRINES AS SACRED (HALLOWED) PLACES AND PROHIBITING DESECRATION THEREOF
+
+WHEREAS, the Government of the Republic of the Philippines has declared certain places in the country as National Shrines because they were the sites of the birth, exile, imprisonment, detention or death of great and eminent leaders of the nation.
+
+WHEREAS, among these National Shrines are the birthplace of Dr. Jose Rizal in Calamba, Laguna, Talisay, Dapitan City, where the hero was exiled for four years, Fort Santiago, Manila, where he was imprisoned in 1896 prior to his execution; Talaga, Tanauan, Batangas where Apolinario Mabini was born, Pandacan, Manila, where Mabini's house in which he died, is located, and Aguinaldo Mansion in Kawit, Cavite, where General Emilio Aguinaldo, first President of the Philippines, was born, and where Philippine Independence was solemnly proclaimed on June 12, 1898, Batan, Aklan, where the "Code of Kalantiyaw" was promulgated in 1433, etc.
+
+WHEREAS, it is the policy of the Government to hold and keep said National Shrines as sacred and hallowed place.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, do hereby declare said National Shrines and others which may be proclaimed in the future as National Shrines to be hallowed places and the desecration of the same in the form of disturbing their peace and serenity by digging, excavating, defacing, causing unnecessary noise and committing unbecoming acts within the premises of said National Shrines, is hereby strictly prohibited.
+
+Any person who shall violate this Decree shall upon conviction, be punished by imprisonment for not less than ten (10) years or a fine not less than ten thousand pesos (P10,000) or both fine and imprisonment in the discretion of the court or tribunal concerned.
+
+This Decree is hereby made part of the law of the land and shall take effect immediately.
+
+Done in the City of Manila, this 24th day of January, in the year of Our Lord, nineteen hundred and seventy-three.

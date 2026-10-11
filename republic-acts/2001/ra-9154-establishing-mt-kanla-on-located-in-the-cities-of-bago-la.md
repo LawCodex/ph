@@ -73,568 +73,3369 @@ The boundaries of the Mt. Kanla-on Natural Park are hereby described as follows:
 
 Beginning at a point marked "1" on the map which is marked on plan N.P. or P.B.M. No. 4 between Negros Occidental and Negros Oriental under Pontevedra Cadastre No. 60, B.L. Case No. 2 of Negros Oriental;
 
-| | S 61º 40’ W | 277.22 m to point 2; |
-|---|---|---|
-| Thence, | S 61º 40’ W | 2,199.89 m to point 3; |
-| Thence, | N 19º 37’ E | 49.42 m to point 4; |
-| Thence, | N 09º 02’ E | 84.76 m to point 5; |
-| Thence, | N 20º 15’ E | 194.68 m to point 6; |
-| Thence, | N 17º 00’ E | 167.10 m to point 7; |
-| Thence, | N 24º 16’ E | 141.43 m to point 8; |
-| Thence, | N 01º 45’ W | 144.13 m to point 9; |
-| Thence, | N 33º 32’ E | 63.25 m to point 10; an old corner; |
-| Thence, | N 74º 15’ E | 102.25 m to point 11; |
-| Thence, | N 06º 16’ E | 147.10 m to point 12; |
-| Thence, | N 74º 16’ E | 157.88 m to point 13; |
-| Thence, | N 17º 04’ E | 112.39 m to point 14; |
-| Thence, | S 68º 37’ E | 45.40 m to point 15; |
-| Thence, | N 31º 51’ E | 283.07 m to point 16; |
-| Thence, | N 35º 52’ E | 133.47 m to point 17; |
-| Thence, | N 53º 28’ E | 60.50 m to point 18; |
-| Thence, | N 20º 46’ E | 231.62 m to point 19; |
-| Thence, | N 27º 51’ E | 134.43 m to point 20; |
-| Thence, | N 23º 18’ E | 93.26 m to point 21; |
-| Thence, | N 34º 12’ E | 205.86 m to point 22; |
-| Thence, | N 07º 37’ E | 50.05 m to point 23; |
-| Thence, | N 02º 57’ E | 231.63 m to point 24; |
-| Thence, | N 84º 47’ E | 144.74 m to point 25; |
-| Thence, | N 04º 29’ E | 177.03 m to point 26; |
-| Thence, | N 50º 59’ E | 52.86 m to point 27; |
-| Thence, | S 01º 37’ W | 193.01 m to point 28; |
-| Thence, | S 26º 57’ W | 116.23 m to point 29; |
-| Thence, | S 10º 17’ W | 96.45 m to point 30; |
-| Thence, | S 89º 12’ E | 110.45 m to point 31; |
-| Thence, | N 76º 12’ E | 90.83 m to point 32; an old corner; |
-| Thence, | N 87º 15’ E | 40.76 m to point 33; an old corner; |
-| Thence, | S 35º 56’ E | 28.39 m to point 34; |
-| Thence, | N 00º 02’ E | 77.39 m to point 35; |
-| Thence, | N 22º 17’ W | 456.63 m to point 36; |
-| Thence, | N 83º 24’ W | 37.01 m to point 37; |
-| Thence, | S 66º 45’ W | 80.83 m to point 38; |
-| Thence, | S 55º 18’ W | 276.92 m to point 39; |
-| Thence, | S 48º 43’ W | 70.25 m to point 40; |
-| Thence, | S 76º 13’ W | 393.06 m to point 41; |
-| Thence, | N 69º 12’ W | 101.39 m to point 42; |
-| Thence, | S 26º ’49 W | 224.42 m to point 43; |
-| Thence, | S 65º 17’ W | 129.26 m to point 44; |
-| Thence, | S 82º 49’ W | 127.98 m to point 45; |
-| Thence, | S 03º 11’ E | 311.03 m to point 46; |
-| Thence, | S 40º 02’ W | 93.85 m to point 47; |
-| Thence, | S 61º 24’ W | 351.83 m to point 48; |
-| Thence, | S 35º 58’ W | 240.39 m to point 49; |
-| Thence, | S 18º 24’ W | 154.32 m to point 50; |
-| Thence, | S 45º 06’ W | 37.47 m to point 51; an old corner; |
-| Thence, | N 85º 12’ W | 34.27 m to point 52; an old corner; |
-| Thence, | N 65º 50’ W | 45.67 m to point 53; P.L.S./B.L. on a rock; |
-| Thence, | N 46º 39’ W | 1,513.80 m to point 54; |
-| Thence, | N 20º 08’ W | 466.66 m to point 55; |
-| Thence, | S 58º 21’ W | 328.30 m to point 56; |
-| Thence, | N 49º 44’ W | 646.11 m to point 57; P.L.S./B.L. on a rock; |
-| Thence, | N 41º 34’ E | 167.92 m to point 58; |
-| Thence, | N 18º 58’ E | 131.50 m to point 59; |
-| Thence, | N 09º 04’ W | 85.69 m to point 60; |
-| Thence, | N 54º 15’ E | 164.47 m to point 61; |
-| Thence, | N 61º 56’ W | 161.18 m to point 62; P.L.S./B.L.; |
-| Thence, | N 35º 16’ E | 556.61 m to point 63; P.L.S./B.L.; |
-| Thence, | S 84º 33’ W | 141.22 m to point 64; P.L.S./B.L.; |
-| Thence, | S 58º 26’ W | 388.04 m to point 65; |
-| Thence, | N 67º 46’ W | 42.33 m to point 66; |
-| Thence, | N 09º 35’ E | 49.11 m to point 67; |
-| Thence, | N 00º 30’ W | 49.72 m to point 68; |
-| Thence, | N 35º 07’ E | 56.31 m to point 69; |
-| Thence, | N 22º 11’ E | 199.35 m to point 70; |
-| Thence, | N 02º 09’ E | 65.80 m to point 71; |
-| Thence, | N 31º 51’ E | 95.29 m to point 72; |
-| Thence, | N 00º 58’ W | 36.28 m to point 73; |
-| Thence, | N 59º 17’ W | 412.90 m to point 74; |
-| Thence, | N 82º 46’ W | 216.49 m to point 75; |
-| Thence, | N 18º 49’ E | 121.00 m to point 76; |
-| Thence, | N 86º 30’ W | 46.96 m to point 77; |
-| Thence, | S 59º 01’ W | 251.07 m to point 78; intersection; |
-| Thence, | S 40º 00’ W | 102.02 m to point 79; |
-| Thence, | S 50º 00’ W | 142.03 m to point 80; |
-| Thence, | S 63º 18’ W | 156.21 m to point 81; |
-| Thence, | S 79º 10’ W | 47.06 m to point 82; |
-| Thence, | S 54º 02’ W | 165.97 m to point 83; |
-| Thence, | S 09º 27’ W | 83.97 m to point 84; |
-| Thence, | S 14º 28’ W | 215.62 m to point 85; |
-| Thence, | S 03º 34’ E | 353.99 m to point 86; |
-| Thence, | S 52º 01’ W | 280.62 m to point 87; |
-| Thence, | S 26º 26’ W | 194.94 m to point 88; |
-| Thence, | S 14º 09’ W | 38.04 m to point 89; |
-| Thence, | N 13º 52’ W | 35.36 m to point 90; |
-| Thence, | N 17º 37’ E | 430.38 m to point 91; |
-| Thence, | N 05º 28’ E | 323.85 m to point 92; |
-| Thence, | N 18º 56’ W | 75.56 m to point 93; |
-| Thence, | N 03º 41’ E | 133.04 m to point 94 ; |
-| Thence, | N 47º 08’ E | 430.38 m to point 95; B.L. on a concrete monument; |
-| Thence, | N 31º 03’ W | 6.69 m to point 96; |
-| Thence, | S 78º 39’ W | 335.40 m to point 97; B.L. on a concrete monument; |
-| Thence, | S 24º 54’ W | 288.30 m to point 98; |
-| Thence, | S 41º 23’ W | 655.76 m to point 99; |
-| Thence, | S 42º 55’ W | 161.60 m to point 100; |
-| Thence, | N 67º 40’ W | 178.90 m to point 101; |
-| Thence, | N 82º 04’ W | 84.26 m to point 102; |
-| Thence, | N 30º 12’ W | 21.27 m to point 103; |
-| Thence, | N 47º 23’ E | 99.14 m to point 104; |
-| Thence, | N 81º 03’ W | 610.92 m to point 105; P.L.S./B.L. on a rock; |
-| Thence, | N 18º 01’ E | 290.52 m to point 106; P.L.S./B.L. on a rock; |
-| Thence, | N 60º 39’ E | 1,066.10 m to point 107; a monument; |
-| Thence, | N 69º 40’ W | 369.00 m to point 108; P.L.S./B.L.; |
-| Thence, | N 48º 52’ E | 480.61 m to point 109; a monument; |
-| Thence, | N 67º 52’ W | 371.08 m to point 110; a monument; |
-| Thence, | N 58º 06’ E | 89.57 m to point 111; P.L.S./B.L.; |
-| Thence, | S 72º 25’ W | 781.45 m to point 112; |
-| Thence, | N 29º 39’ W | 832.51 m to point 113; |
-| Thence, | N 64º 57’ W | 440.33 m to point 114; a monument; |
-| Thence, | N 14º 53’ W | 5289.75 m to point 115; a monument; |
-| Thence, | S 43º 33’ W | 274.46 m to point 116; |
-| Thence, | N 85º 57’ W | 596.27 m to point 117; a monument; |
-| Thence, | N 79º 10’ W | 39.72 m to point 118; |
-| Thence, | N 45º 44’ W | 106.41 m to point 119; a monument; |
-| Thence, | N 06º 22’ W | 17.95 m to point 120; |
-| Thence, | S 83º 53’ W | 629.50 m to point 121; |
-| Thence, | S 82º 52’ W | 178.78 m to point 122; M.B.M. #12; |
-| Thence, | S 71º 45’ W | 276.41 m to point 123; |
-| Thence, | N 72º 33’ W | 157.83 m to point 124; |
-| Thence, | N 50º 31’ E | 177.10 m to point 125; P.L.S./B.L.; |
-| Thence, | S 87º 59’ E | 275.20 m to point 126; |
-| Thence, | N 28º 05’ E | 321.56 m to point 127; P.L.S./B.L.; |
-| Thence, | N 53º 46’ E | 412.63 m to point 128; |
-| Thence, | N 61º 22’ E | 360.08 m to point 129; P.L.S./B.L. on a rock; |
-| Thence, | S 74º 14’ E | 435.24 m to point 130; |
-| Thence, | N 54º 21’ E | 407.58 m to point 131; |
-| Thence, | N 86º 40’ W | 494.60 m to point 132; P.L.S./B.L.; |
-| Thence, | S 60º 00’ W | 295.94 m to point 133; P.L.S./B.L. on a rock; |
-| Thence, | N 16º 20’ W | 328.07 m to point 134; |
-| Thence, | N 16º 20’ W | 347.45 m to point 135; P.L.S./B.L.; |
-| Thence, | N 58º 17’ E | 463.52 m to point 136; |
-| Thence, | N 41º 33’ E | 277.58 m to point 137; |
-| Thence, | N 15º 03’ E | 383.90 m to point 138; P.L.S./B.L.; |
-| Thence, | N 89º 26’ W | 341.78 m to point 139; |
-| Thence, | N 76º 17’ W | 218.04 m to point 140; P.L.S./B.L.; |
-| Thence, | N 88º 04’ W | 154.69 m to point 141; P.L.S./B.L.; |
-| Thence, | S 47º 18’ W | 222.00 m to point 142; P.L.S./B.L. on a rock; |
-| Thence, | S 15º 35’ W | 122.42 m to point 143; P.L.S./B.L.; |
-| Thence, | N 29º 33’ W | 1,059.37 m to point 144; |
-| Thence, | N 17º 48’ W | 39.99 m to point 145; South of Najalin River; |
-| Thence, | N 00º 43’ W | 82.18 m to point 146; |
-| Thence, | N 61º 17’ E | 159.24 m to point 147; |
-| Thence, | S 71º 05’ W | 171.91 m to point 148; |
-| Thence, | N 81º 58’ E | 179.76 m to point 149; |
-| Thence, | N 54º 14’ E | 33.76 m to point 150; |
-| Thence, | N 52º 34’ E | 267.29 m to point 151; |
-| Thence, | N 65º 26’ E | 294.80 m to point 152; |
-| Thence, | S 75º 55’ E | 290.31 m to point 153; |
-| Thence, | S 29º 06’ E | 75.65 m to point 154; |
-| Thence, | N 88º 26’ E | 172.74 m to point 155; |
-| Thence, | N 12º 59’ E | 381.95 m to point 156; |
-| Thence, | N 11º 40’ W | 59.33 m to point 157; |
-| Thence, | N 44º 41’ E | 5.19 m to point 158; |
-| Thence, | S 83º 12’ E | 36.24 m to point 159; |
-| Thence, | N 62º 30’ E | 105.59 m to point 160; |
-| Thence, | N 62º 07’ E | 49.17 m to point 161; |
-| Thence, | N 80º 35’ E | 21.51 m to point 162; |
-| Thence, | N 88º 20’ E | 82.34 m to point 163; |
-| Thence, | N 79º 35’ E | 19.78 m to point 164; |
-| Thence, | N 03º 45’ E | 9.32 m to point 165; |
-| Thence, | N 06º 24’ E | 129.80 m to point 166; |
-| Thence, | N 21º 24’ W | 39.08 m to point 167; |
-| Thence, | N 42º 02’ W | 487.60 m to point 168; |
-| Thence, | N 65º 20’ E | 172.12 m to point 169; |
-| Thence, | N 39º 33’ E | 24.97 m to point 170; |
-| Thence, | N 87º 50’ E | 16.61 m to point 171; P.L.S./B.L.; |
-| Thence, | N 30º 24’ E | 383.11 m to point 172; |
-| Thence, | S 63º 17’ W | 156.97 m to point 173; P.L.S./B.L.; |
-| Thence, | N 41º 11’ W | 422.41 m to point 174; |
-| Thence, | N 11º 40’ W | 128.84 m to point 175; |
-| Thence, | S 85º 40’ W | 215.22 m to point 176; P.L.S./B.L.; |
-| Thence, | N 27º 46’ E | 177.88 m to point 177; P.L.S./B.L.; |
-| Thence, | N 67º 26’ W | 110.96 m to point 178; |
-| Thence, | N 40º 20’ E | 274.86 m to point 179; |
-| Thence, | N 45º 23’ W | 59.65 m to point 180; |
-| Thence, | S 49º 25’ E | 67.93 m to point 181; |
-| Thence, | N 62º 08’ E | 78.54 m to point 182; a rock; |
-| Thence, | S 70º 32’ E | 30.30 m to point 183; P.L.S./B.L.; |
-| Thence, | S 50º 31’ E | 112.83 m to point 184; |
-| Thence, | S 82º 32’ E | 102.49 m to point 185; P.L.S./B.L.; |
-| Thence, | S 60º 48’ E | 97.35 m to point 186; a rock; |
-| Thence, | N 45º 43’ E | 179.43 m to point 187; |
-| Thence, | N 81º 36’ E | 67.21 m to point 188; |
-| Thence, | N 72º 50’ E | 212.30 m to point 189; a rock; |
-| Thence, | S 03º 43’ E | 11.57 m to point 190; |
-| Thence, | S 43º 36’ E | 142.76 m to point 191; P.L.S./B.L.; |
-| Thence, | S 76º 00’ E | 409.15 m to point 192; P.L.S./B.L.; |
-| Thence, | S 85º 19’ E | 661.85 m to point 193; |
-| Thence, | S 85º 19’ E | 95.00 m to point 194; |
-| Thence, | S 81º 24’ E | 312.72 m to point 195; P.L.S./B.L.; |
-| Thence, | N 06º 18’ E | 179.93 m to point 196; P.L.S./B.L.; |
-| Thence, | N 38º 19’ W | 482.93 m to point 197; |
-| Thence, | S 21º 42’ E | 387.25 m to point 198; |
-| Thence, | N 82º 54’ W | 706.42 m to point 199; |
-| Thence, | N 27º 19’ E | 320.54 m to point 200; |
-| Thence, | N 27º 19’ E | 220.00 m to point 201; |
-| Thence, | 63º 16’ W | 211.33 m to point 202; |
-| Thence, | 41º 29’ W | 31.17 m to point 203; |
-| Thence, | 53º 14’ E | 298.28 m to point 204; |
-| Thence, | N 62º 03’ | 424.43 m to point 205; |
-| Thence, | N 05º 12’ E | 572.38 m to point 206; |
-| Thence, | N 10º 17’ E | 42.99 m to point 207; |
-| Thence, | N 22º 25’ E | 373.82 m to point 208; |
-| Thence, | N 75º 47’ E | 244.19 m to point 209; |
-| Thence, | N 18º 33’ E | 38.03 m to point 210; |
-| Thence, | N 56º 48’ W | 459.05 m to point 211; |
-| Thence, | N 44º 55’ W | 76.51 m to point 212; |
-| Thence, | N 13º 12’ W | 107.36 m to point 213; |
-| Thence, | N 43º 30’ E | 143.37 m to point 214; |
-| Thence, | N 76º 53’ E | 14.59 m to point 215; |
-| Thence, | N 66º 29’ E | 783.04 m to point 216; |
-| Thence, | S 71º 26’ 59’’ | 888.69 m to point 217; |
-| Thence, | N 18º 30’ 00.110’’ W | 579.07 m to point 218; |
-| Thence, | N 87º 28’ 58’’ E | 410.05 m to point 219; |
-| Thence, | N 27º 37’ 59’’ E | 1,051.62 m to point 220; |
-| Thence, | S 60º 16’ 01’’ E | 673.44 m to point 221; |
-| Thence, | N 29º 08’ 59’’ E | 751.54 m to point 222; |
-| Thence, | N 60º 16’ 01’’ W | 599.55 m to point 223; |
-| Thence, | S 57º 18’ 06’’ W | 878.88 m to point 224; |
-| Thence, | N 21º 23’ 0’’ E | 53.15 m to point 225; |
-| Thence, | N 26º 49’ W | 53.32 m to point 226; |
-| Thence, | N 81º 56’ W | 141.88 m to point 227; |
-| Thence, | S 82º 20’ W | 65.65 m to point 228; |
-| Thence, | N 80º 48’ W | 32.98 m to point 229; |
-| Thence, | N 68º 01’ W | 74.48 m to point 230; |
-| Thence, | N 48º 39’ W | 99.47 m to point 231; |
-| Thence, | N 40º 53’ W | 97.88 m to point 232; |
-| Thence, | N 73º 54’ W | 52.72 m to point 233; |
-| Thence, | N 16º 54’ W | 18.04 m to point 234; |
-| Thence, | N 06º 09’ W | 79.11 m to point 235; |
-| Thence, | N 25º 21’ W | 71.92 m to point 236; |
-| Thence, | 29º 51’ W | 36.05 m to point 237; |
-| Thence, | 60º 19’ W | 61.60 m to point 238; |
-| Thence, | N 46º 26’ W | 23.38 m to point 239; |
-| Thence, | N 56º 47’ W | 41.81 m to point 240; |
-| Thence, | N 63º 56’ W | 26.84 m to point 241; |
-| Thence, | N 35º 46’ W | 74.34 m to point 242; |
-| Thence, | N 62º 52’ W | 45.00 m to point 243; |
-| Thence, | N 57º 13’ W | 20.00 m to point 244; |
-| Thence, | S 12º 12’ W | 10.31 m to point 245; |
-| Thence, | S 37º 45’ W | 49.22 m to point 246; |
-| Thence, | S 13º 57’ W | 57.94 m to point 247; |
-| Thence, | S 04º 11’ E | 37.95 m to point 248; |
-| Thence, | N 22º 48’ W | 64.32 m to point 249; |
-| Thence, | N 16º 53’ W | 76.16 m to point 250; |
-| Thence, | N 07º 27’ W | 89.53 m to point 251; |
-| Thence, | S 52º 25’ W | 574.10 m to point 252; |
-| Thence, | N 40º 26’ W | 160.62 m to point 253; |
-| Thence, | N 36º 17’ E | 535.68 m to point 254; |
-| Thence, | S 72º 00’ W | 83.32 m to point 255; |
-| Thence, | N 44º 09’ W | 52.90 m to point 256; |
-| Thence, | S 71º 01’ W | 142.28 m to point 257; |
-| Thence, | N 22º 09’ W | 75.72 m to point 258; |
-| Thence, | N 37º 17’ W | 142.28 m to point 259; |
-| Thence, | S 82º 53’ W | 90.96 m to point 260; |
-| Thence, | N 36º 36’ W | 83.41 m to point 261; |
-| Thence, | N 74º 12’ W | 128.09 m to point 262; |
-| Thence, | N 23º 21’ W | 76.11 m to point 263; |
-| Thence, | N 64º 59’ W | 70.85 m to point 264; |
-| Thence, | N 31º 22’ W | 128.03 m to point 265; |
-| Thence, | N 05º 04’ W | 27.98 m to point 266; |
-| Thence, | N 31º 40’ W | 163.02 m to point 267; |
-| Thence, | N 51º 42’ W | 62.55 m to point 268; |
-| Thence, | N 40º 55’ W | 136.12 m to point 269; |
-| Thence, | N 25º 24’ E | 16.42 m to point 270; |
-| Thence, | N 80º 15’ W | 53.15 m to point 271; |
-| Thence, | S 81º 14’ W | 120.87 m to point 272; |
-| Thence, | N 40º 40’ W | 44.24 m to point 273; |
-| Thence, | N 59º 40’ W | 75.62 m to point 274; |
-| Thence, | S 67º 47’ W | 24.40 m to point 275; |
-| Thence, | N 82º 44’ W | 50.73 m to point 276; |
-| Thence, | N 26º 30’ W | 45.71 m to point 277; |
-| Thence, | N 68º 13’ W | 54.28 m to point 278; |
-| Thence, | S 46º 36’ W | 61.98 m to point 279; |
-| Thence, | S 55º 40’ W | 40.58 m to point 280; |
-| Thence, | S 88º 22’ W | 52.72 m to point 281; |
-| Thence, | N 46º 45’ W | 89.71 m to point 282; |
-| Thence, | S 49º 14’ W | 90.10 m to point 283; |
-| Thence, | N 57º 07’ W | 68.15 m to point 284; |
-| Thence, | S 52º 18’ W | 18.54 m to point 285; |
-| Thence, | S 34º 02’ W | 54.45 m to point 286; |
-| Thence, | S 79º 08’ W | 62.01 m to point 287; |
-| Thence, | N 85º 30’ W | 157.04 m to point 288; |
-| Thence, | N 54º 33’ W | 98.18 m to point 289; |
-| Thence, | S 45º 33’ W | 40.41 m to point 290; |
-| Thence, | S 71º 20’ W | 44.20 m to point 291; |
-| Thence, | N 80º 44’ W | 55.92 m to point 292; |
-| Thence, | N 18º 10’ E | 77.89 m to point 293; |
-| Thence, | N 49º 00’ E | 52.52 m to point 294; |
-| Thence, | N 23º 00’ E | 41.06 m to point 295; |
-| Thence, | N 01º 47’ W | 28.83 m to point 296; |
-| Thence, | N 27º 26’ W | 56.84 m to point 297; |
-| Thence, | N 49º 31’ W | 40.40 m to point 298; |
-| Thence, | N 05º 09’ W | 65.10 m to point 299; |
-| Thence, | N 43º 07’ W | 65.22 m to point 300; |
-| Thence, | N 33º 15’ W | 56.52 m to point 301; |
-| Thence, | N 25º 55’ W | 41.54 m to point 302; |
-| Thence, | S 48º 23’ W | 79.17 m to point 303; |
-| Thence, | S 89º 38’ W | 38.18 m to point 304; |
-| Thence, | N 22º 14’ W | 24.89 m to point 305; |
-| Thence, | N 60º 37’ E | 185.48 m to point 306; |
-| Thence, | S 86º 40’ E | 358.03 m to point 307; |
-| Thence, | N 76º 47’ E | 1,062.80 m to point 308; |
-| Thence, | S 63º 25’ E | 1.492.83 m to point 309; |
-| Thence, | N 11º 41’ E | 305.44 m to point 310; |
-| Thence, | S 34º 24’ E | 33.24 m to point 311; |
-| Thence, | S 55º 32’ E | 84.54 m to point 312; |
-| Thence, | S 16º 04’ E | 40.37 m to point 313; |
-| Thence, | S 46º 29’ E | 81.81 m to point 314; |
-| Thence, | S 60º 04’ E | 92.76 m to point 315; |
-| Thence, | S 06º 07’ E | 71.84 m to point 316; |
-| Thence, | S 07º 14’ E | 131.42 m to point 317; |
-| Thence, | S 49º 55’ W | 56.84 m to point 318; |
-| Thence, | S 17º 42’ E | 88.09 m to point 319; |
-| Thence, | S 34º 29’ E | 123.84 m to point 320; |
-| Thence, | S 64º 05’ E | 187.32 m to point 321; |
-| Thence, | N 75º 49’ E | 221.64 m to point 322; |
-| Thence, | S 75º 88’ E | 29.06 m to point 323; |
-| Thence, | S 75º 56’ E | 75.00 m to point 324; |
-| Thence, | S 73º 52’ E | 99.94 m to point 325; |
-| Thence, | S 14º 24’ E | 82.34 m to point 326; |
-| Thence, | S 25º 22’ E | 68.65 m to point 327; |
-| Thence, | S 23º 08’ W | 45.12 m to point 328; |
-| Thence, | S 53º 05’ E | 75.14 m to point 329; |
-| Thence, | S 69º 55’ E | 89.86 m to point 330; |
-| Thence, | S 84º 41’ E | 152.13 m to point 331; |
-| Thence, | S 40º 39’ W | 206.90 m to point 332; |
-| Thence, | N 59º 26’ E | 224.48 m to point 333; |
-| Thence, | N 54º 24’ W | 110.65 m to point 334; |
-| Thence, | N 29º 59’ W | 168.88 m to point 335; |
-| Thence, | N 57º 51’ E | 40.38 m to point 336; |
-| Thence, | N 13º 41’ E | 33.15 m to point 337; |
-| Thence, | N 01º 00’ W | 26.52 m to point 338; |
-| Thence, | N 15º 03’ W | 16.53 m to point 339; |
-| Thence, | N 24º 58’ W | 10.85 m to point 340; |
-| Thence, | N 24º 58’ W | 10.00 m to point 341; |
-| Thence, | N 02º 11’ W | 47.81 m to point 342; |
-| Thence, | N 12º 05’ W | 36.03 m to point 343; |
-| Thence, | N 42º 43’ W | 42.37 m to point 344; |
-| Thence, | N 28º 14’ W | 45.13 m to point 345; |
-| Thence, | N 50º 27’ W | 46.14 m to point 346; |
-| Thence, | N 18º 34’ W | 27.99 m to point 347; |
-| Thence, | N 23º 02’ W | 23.82 m to point 348; |
-| Thence, | N 52º 36’ W | 17.74 m to point 349; |
-| Thence, | N 72º 55’ W | 27.78 m to point 350; |
-| Thence, | N 36º 17’ W | 30.16 m to point 351; |
-| Thence, | N 55º 14’ W | 62.33 m to point 352; |
-| Thence, | N 15º 29’ W | 25.00 m to point 353; |
-| Thence, | N 27º 27’ W | 47.57 m to point 354; |
-| Thence, | N 53º 45’ W | 88.70 m to point 355; |
-| Thence, | N 05º 40’ W | 46.02 m to point 356; |
-| Thence, | N 51º 00’ W | 46.76 m to point 357; |
-| Thence, | N 12º 25’ W | 77.07 m to point 358; |
-| Thence, | N 41º 49’ W | 30.62 m to point 359; |
-| Thence, | N 15º 36’ E | 44.00 m to point 360; |
-| Thence, | N 23º 49’ W | 79.29 m to point 361; |
-| Thence, | N 33º 47’ W | 48.94 m to point 362; |
-| Thence, | N 15º 07’ W | 57.16 m to point 363; |
-| Thence, | N 16º 26’ E | 42.16 m to point 364; |
-| Thence, | N 25º 39’ W | 47.89 m to point 365; |
-| Thence, | N 42º 14’ E | 37.41 m to point 366; |
-| Thence, | N 00º 17’ W | 21.66 m to point 367; |
-| Thence, | N 47º 39’ E | 31.70 m to point 368; |
-| Thence, | N 88º 50’ E | 13.26 m to point 369; |
-| Thence, | S 78º 38’ E | 303.42 m to point 370; |
-| Thence, | N 46º 36’ E | 185.07 m to point 371; |
-| Thence, | N 49º 06’ E | 163.19 m to point 372; |
-| Thence, | N 73º 46’ E | 34.45 m to point 373; |
-| Thence, | N 25º 21’ E | 147.97 m to point 374; |
-| Thence, | N 19º 31’ E | 394.78 m to point 375; |
-| Thence, | N 67º 22’ W | 466.71 m to point 376; |
-| Thence, | N 87º 36’ W | 141.88 m to point 377; |
-| Thence, | S 75º 32’ W | 18.49 m to point 378; |
-| Thence, | N 32º 07’ W | 81.79 m to point 379; |
-| Thence, | S 78º 59’ W | 47.00 m to point 380; |
-| Thence, | N 44º 52’ W | 37.43 m to point 381; |
-| Thence, | N 23º 16’ W | 58.06 m to point 382; |
-| Thence, | N 38º 04’ W | 65.54 m to point 383; |
-| Thence, | N 60º 03’ W | 46.42 m to point 384; |
-| Thence, | N 30º 15’ W | 19.95 m to point 385; |
-| Thence, | N 29º 08’ E | 35.18 m to point 386; |
-| Thence, | N 10º 08’ E | 41.83 m to point 387; |
-| Thence, | N 58º 04’ W | 39.48 m to point 388; |
-| Thence, | N 59º 25’ W | 32.48 m to point 389; |
-| Thence, | N 82º 26’ E | 382.30 m to point 390; |
-| Thence, | N 82º 26’ E | 242.00 m to point 391; |
-| Thence, | N 38º 33’ E | 866.76 m to point 392; |
-| Thence, | N 64º 13’ E | 29.53 m to point 393; |
-| Thence, | S 46º 56’ E | 45.14 m to point 394; |
-| Thence, | S 07º 28’ E | 64.35 m to point 395; |
-| Thence, | S 11º 54’ E | 85.23 m to point 396; |
-| Thence, | S 45º 34’ E | 85.13 m to point 397; |
-| Thence, | S 36º 48’ E | 235.38 m to point 398; |
-| Thence, | S 83º 15’ E | 66.10 m to point 399; |
-| Thence, | S 11º 58’ E | 75.02 m to point 400; |
-| Thence, | S 48º 21’ E | 57.51 m to point 401; |
-| Thence, | S 76º 38’ E | 211.24 m to point 402; |
-| Thence, | N 60º 06’ E | 228.22 m to point 403; |
-| Thence, | N 53º 27’ E | 93.78 m to point 404; |
-| Thence, | N 30º 13’ W | 35.60 m to point 405; |
-| Thence, | N 04º 02’ E | 246.29 m to point 406; |
-| Thence, | Due West, | 117.32 m to point 407; |
-| Thence, | N 22º 29’ W | 90.88 m to point 408; |
-| Thence, | N 00º 39’ E | 43.98 m to point 409; |
-| Thence, | S 07º 27’ E | 183.76 m to point 410; |
-| Thence, | N 65º 47’ E | 15.80 m to point 411; |
-| Thence, | N 51º 04’ W | 29.44 m to point 412; |
-| Thence, | N 14º 53’ E | 100.90 m to point 413; |
-| Thence, | N 33º 16’ E | 145.92 m to point 414; |
-| Thence, | N 14º 13’ E | 60.02 m to point 415; |
-| Thence, | N 36º 13’ E | 114.80 m to point 416; |
-| Thence, | N 22º 52’ W | 195.33 m to point 417; |
-| Thence, | N 21º 51’ E | 136.62 m to point 418; |
-| Thence, | N 72º 46’ E | 52.00 m to point 419; |
-| Thence, | N 13º 59’ W | 2,165.35 m to point 420; |
-| Thence, | N 68º 04’ E | 103.20 m to point 421; |
-| Thence, | S 56º 09’ E | 89.90 m to point 422; |
-| Thence, | S 45º 08’ E | 90.78 m to point 423; |
-| Thence, | S 77º 53’ E | 39.47 m to point 424; |
-| Thence, | N 79º 11’ E | 229.41 m to point 425; |
-| Thence, | N 72º 45’ E | 232.40 m to point 426; |
-| Thence, | N 62º 03’ E | 188.02 m to point 427; |
-| Thence, | N 83º 43’ E | 410.38 m to point 428; |
-| Thence, | N 18º 53’ W | 83.05 m to point 429; |
-| Thence, | N 12º 39’ E | 423.74 m to point 430; |
-| Thence, | S 54º 21’ E | 77.10 m to point 431; |
-| Thence, | N 37º 45’ E | 173.24 m to point 432; A monument P.L.S./B.L.; |
-| Thence, | S 67º 13’ E | 141.34 m to point 433; A monument P.L.S./B.L.; |
-| Thence, | S 32º 35’ E | 393.63 m to point 434; |
-| Thence, | S 17º 15’ E | 258.40 m to point 435; |
-| Thence, | S 82º 09’ E | 61.19 m to point 436; |
-| Thence, | N 79º 59’ E | 103.20 m to point 437; |
-| Thence, | N 56º 29’ E | 202.02 m to point 438; |
-| Thence, | S 67º 31’ E | 287.80 m to point 439; |
-| Thence, | S 16º 03’ E | 251.10 m to point 440; |
-| Thence, | S 38º 38’ E | 145.14 m to point 441; |
-| Thence, | N 85º 25’ E | 303.58 m to point 442; |
-| Thence, | S 56º 49’ E | 322.22 m to point 443; |
-| Thence, | N 86º 19’ E | 141.17 m to point 444; |
-| Thence, | N 27º 31’ E | 84.16 m to point 445; |
-| Thence, | N 79º 21’ E | 432.26 m to point 446; |
-| Thence, | S 41º 52’ E | 726.22 m to point 447; |
-| Thence, | S 44º 30’ E | 69.15 m to point 448; |
-| Thence, | S 73º 59’ E | 546.59 m to point 449; |
-| Thence, | S 47º 11’ E | 190.22 m to point 450; |
-| Thence, | S 74º 08’ E | 373.59 m to point 451; |
-| Thence, | N 71º 36’ E | 333.89 m to point 452; |
-| Thence, | S 51º 26’ E | 342.17 m to point 453; |
-| Thence, | S 29º 48’ E | 84.26 m to point 454; |
-| Thence, | S 84º 27’ E | 19.50 m to point 455; |
-| Thence, | S 66º 39’ E | 144.25 m to point 456; |
-| Thence, | S 34º 22’ E | 24.11 m to point 457; |
-| Thence, | S 42º 28’ E | 396.70 m to point 458; |
-| Thence, | S 73º 24’ E | 97.59 m to point 459; |
-| Thence, | N 89º 40’ E | 276.16 m to point 460; |
-| Thence, | S 14º 57’ E | 247.08 m to point 461; |
-| Thence, | S 37º 22’ W | 176.34 m to point 462; |
-| Thence, | S 27º 53’ W | 144.99 m to point 463; |
-| Thence, | N 60º 30’ E | 152.79 m to point 464; |
-| Thence, | N 89º 07’ E | 271.35 m to point 465; P.L.S./B.L. on a big rock; |
-| Thence, | S 72º 22’ E | 89.07 m to point 466; |
-| Thence, | S 84º 00’ E | 638.13 m to point 467; a monument; |
-| Thence, | N 39º 00’ E | 8.74 m to point 468; A monument; |
-| Thence, | S 45º 09’ E | 149.32 m to point 469; |
-| Thence, | N 04º 54’ W | 312.58 m to point 470; |
-| Thence, | N 49º 12’ E | 31.73 m to point 471; "x" mark on a rock; |
-| Thence, | N 29º 32’ E | 38.40 m to point 472; |
-| Thence, | N 54º 37’ E | 265.82 m to point 473; |
-| Thence, | S 70º 57’ E | 15.71 m to point 474; |
-| Thence, | S 80º 51’ E | 233.18 m to point 475; |
-| Thence, | S 25º 29’ E | 342.09 m to point 476; A monument; |
-| Thence, | S 44º 12’ E | 368.42 m to point 477; A monument; |
-| Thence, | S 44º 35’ E | 9.69 m to point 478; A monument; |
-| Thence, | S 48º 39’ E | 370.93 m to point 479; A monument; |
-| Thence, | N 63º 22’ E | 645.23 m to point 480; |
-| Thence, | N 72º 23’ E | 225 m to point 481; |
-| Thence, | N 69º 17’ E | 151.20 m to point 482; A monument; |
-| Thence, | S 87º 28’ E | 9.97 m to point 483; |
-| Thence, | N 84º 29’ E | 71.83 m to point 484; |
-| Thence, | S 64º 30’ E | 125.85 m to point 485; |
-| Thence, | S 69º 26’ W | 62.20 m to point 486; |
-| Thence, | S 73º 01’ E | 442.53 m to point 487; |
-| Thence, | S 00º 16’ W | 126.46 m to point 488; A monument; |
-| Thence, | S 35º 51’ W | 58.20 m to point 489; |
-| Thence, | S 17º 27’ W | 319.46 m to point 490; |
-| Thence, | S 32º 41’ E | 77.60 m to point 491; |
-| Thence, | S 57º 36’ E | 234.27 m to point 492; |
-| Thence, | N 81º 30’ E | 89.61 m to point 493; |
-| Thence, | S 89º 01’ E | 202.15 m to point 494; P.L.S./B.L. on a big rock; |
-| Thence, | S 81º 33’ E | 257.16 m to point 495; |
-| Thence, | S 30º 35’ E | 199.29 m to point 496; A monument; |
-| Thence, | S 38º 02’ E | 221.79 m to point 497; |
-| Thence, | S 84º 32’ E | 108.44 m to point 498; |
-| Thence, | S 78º 52’ E | 147.21 m to point 499; |
-| Thence, | S 47º 56’ E | 121.53 m to point 500; |
-| Thence, | S 28º 03’ E | 113.21 m to point 501; |
-| Thence, | S 66º 00’ E | 344.84 m to point 502; |
-| Thence, | S 66º 56’ E | 121.55 m to point 503; |
-| Thence, | S 09º 32’ E | 92.35 m to point 504; A monument M.C./F.Z. No. 2; |
-| Thence, | S 87º 33’ W | 97.00 m to point 505; |
-| Thence, | S 87º 33’ W | 1,858.22 m to point 506; A monument M.C./F.Z. No. 3; |
-| Thence, | S 00º 31’ W | 6,149.50 m to point 507; A monument M.C./F.Z. No. 4; |
-| Thence, | S 34º 32’ W | 48.98 m to point 508; A point along Lairanan River; |
-| Thence, | Due West upstream | 620.00 m to point 509; Of Lairanan River; |
-| Thence, | Due West upstream | 1,000.00 m to point 510; Of Lairanan River; |
-| Thence, | S 11º 00’ E | 300.00 m to point 511; |
-| Thence, | S 11º 00’ W | 238.00 m to point 512; |
-| Thence, | S 08º 00’ W | 450.00 m to point 513; |
-| Thence, | S 30º 00’ W | 350.00 m to point 514; |
-| Thence, | S 26º 08’ W | 238.00 m to point 515; |
-| Thence, | Southwest upstream | 425.00 m to point 516; Of Magalao Creek |
-| Thence, | S 67º 00’ E | 600.00 m to point 517; |
-| Thence, | S 30º 00’ W | 938.00 m to point 518; |
-| Thence, | S 76º 00’ W | 275 m to point 519; |
-| Thence, | S 20º 00’ W | 350.00 m to point 520; |
-| Thence, | S 02º 00’ E | 600.00 m to point 521; |
-| Thence, | S 43º 00’ W | 370.00 m to point 522; |
-| Thence, | S 21º 00’ W | 500.00 m to point 523; |
-| Thence, | S 33º 00’ W | 400.00 m to point 524; |
-| Thence, | S 14º 00’ W | 550.00 m to point 525; |
-| Thence, | S 34º 00’ E | 138.00 m to point 526; |
-| Thence, | N 63º 43’ W | 115.41 m to point 527; |
-| Thence, | N 61º 25’ W | 197.81 m to point 528; |
-| Thence, | N 60º 08’ W | 68.27 m to point 529; |
-| Thence, | N 44º 50’ W | 119.40 m to point 530; |
-| Thence, | S 69º 26’ W | 78.88 m to point 531; |
-| Thence, | N 74º 47’ W | 71.81 m to point 532; |
-| Thence, | S 67º 00’ E | 50.90 m to point 533; |
-| Thence, | N 60º 48’ W | 121.49 m to point 534; |
-| Thence, | N 68º 04’ W | 110.36 m to point 535; |
-| Thence, | N 22º 22’ W | 71.58 m to point 536; |
-| Thence, | S 86º 59’ W | 24.88 m to point 537; |
-| Thence, | S 18º 33’ W | 874.54 m to point 538; |
-| Thence, | S 36º 15’ W | 13.90 m to point 539; A creek; |
-| Thence, | S 41º 24’ E | 50.35 m to point 540; A creek; |
-| Thence, | S 31º 21’ E | 45.57 m to point 541; A creek; |
-| Thence, | S 12º 56’ E | 33 m to point 542; A creek; |
-| Thence, | S 22º 20’ E | 61.90 m to point 543; A creek; |
-| Thence, | S 54º 56’ E | 19.52 m to point 544; A creek; |
-| Thence, | S 05º 57’ W | 45.79 m to point 545; A creek; |
-| Thence, | S 02º 32’ W | 30.60 m to point 546; A creek; |
-| Thence, | S 18º 09’ E | 22.23 m to point 547; A creek; |
-| Thence, | S 21º 39’ W | 34.61 m to point 548; |
-| Thence, | S 42º 03’ E | 35.97 m to point 549; |
-| Thence, | S 33º 45’ E | 57.38 m to point 550; |
-| Thence, | S 15º 16’ W | 20.89 m to point 551; |
-| Thence, | S 42º 26’ E | 52.11 m to point 552; |
-| Thence, | S 57º 45’ E | 152.90 m to point 553; |
-| Thence, | N 49º 48’ E | 57.00 m to point 554; |
-| Thence, | N 64º 05’ E | 54.45 m to point 555; |
-| Thence, | S 25º 32’ E | 80.56 m to point 556; |
-| Thence, | S 57º 48’ E | 61.10 m to point 557; |
-| Thence, | S 55º 11’ E | 63.91 m to point 558; |
-| Thence, | S 64º 21’ W | 1,251.09 m to point 559; M.C./F.Z.; |
-| Thence, | S 30º 37’ W | 2,933.47 m to point 560; M.C./F.Z. No. 8; |
-| Thence, | S 36º 59’ E | 1,322.30 m to point 561; |
-| Thence, | S 61º 35’ W | 3,380.85 m to point 1, the point |
+S 61º 40’ W
+
+277.22 m to point 2;
+
+Thence,
+
+S 61º 40’ W
+
+2,199.89 m to point 3;
+
+Thence,
+
+N 19º 37’ E
+
+49.42 m to point 4;
+
+Thence,
+
+N 09º 02’ E
+
+84.76 m to point 5;
+
+Thence,
+
+N 20º 15’ E
+
+194.68 m to point 6;
+
+Thence,
+
+N 17º 00’ E
+
+167.10 m to point 7;
+
+Thence,
+
+N 24º 16’ E
+
+141.43 m to point 8;
+
+Thence,
+
+N 01º 45’ W
+
+144.13 m to point 9;
+
+Thence,
+
+N 33º 32’ E
+
+63.25 m to point 10; an old corner;
+
+Thence,
+
+N 74º 15’ E
+
+102.25 m to point 11;
+
+Thence,
+
+N 06º 16’ E
+
+147.10 m to point 12;
+
+Thence,
+
+N 74º 16’ E
+
+157.88 m to point 13;
+
+Thence,
+
+N 17º 04’ E
+
+112.39 m to point 14;
+
+Thence,
+
+S 68º 37’ E
+
+45.40 m to point 15;
+
+Thence,
+
+N 31º 51’ E
+
+283.07 m to point 16;
+
+Thence,
+
+N 35º 52’ E
+
+133.47 m to point 17;
+
+Thence,
+
+N 53º 28’ E
+
+60.50 m to point 18;
+
+Thence,
+
+N 20º 46’ E
+
+231.62 m to point 19;
+
+Thence,
+
+N 27º 51’ E
+
+134.43 m to point 20;
+
+Thence,
+
+N 23º 18’ E
+
+93.26 m to point 21;
+
+Thence,
+
+N 34º 12’ E
+
+205.86 m to point 22;
+
+Thence,
+
+N 07º 37’ E
+
+50.05 m to point 23;
+
+Thence,
+
+N 02º 57’ E
+
+231.63 m to point 24;
+
+Thence,
+
+N 84º 47’ E
+
+144.74 m to point 25;
+
+Thence,
+
+N 04º 29’ E
+
+177.03 m to point 26;
+
+Thence,
+
+N 50º 59’ E
+
+52.86 m to point 27;
+
+Thence,
+
+S 01º 37’ W
+
+193.01 m to point 28;
+
+Thence,
+
+S 26º 57’ W
+
+116.23 m to point 29;
+
+Thence,
+
+S 10º 17’ W
+
+96.45 m to point 30;
+
+Thence,
+
+S 89º 12’ E
+
+110.45 m to point 31;
+
+Thence,
+
+N 76º 12’ E
+
+90.83 m to point 32; an old corner;
+
+Thence,
+
+N 87º 15’ E
+
+40.76 m to point 33; an old corner;
+
+Thence,
+
+S 35º 56’ E
+
+28.39 m to point 34;
+
+Thence,
+
+N 00º 02’ E
+
+77.39 m to point 35;
+
+Thence,
+
+N 22º 17’ W
+
+456.63 m to point 36;
+
+Thence,
+
+N 83º 24’ W
+
+37.01 m to point 37;
+
+Thence,
+
+S 66º 45’ W
+
+80.83 m to point 38;
+
+Thence,
+
+S 55º 18’ W
+
+276.92 m to point 39;
+
+Thence,
+
+S 48º 43’ W
+
+70.25 m to point 40;
+
+Thence,
+
+S 76º 13’ W
+
+393.06 m to point 41;
+
+Thence,
+
+N 69º 12’ W
+
+101.39 m to point 42;
+
+Thence,
+
+S 26º ’49 W
+
+224.42 m to point 43;
+
+Thence,
+
+S 65º 17’ W
+
+129.26 m to point 44;
+
+Thence,
+
+S 82º 49’ W
+
+127.98 m to point 45;
+
+Thence,
+
+S 03º 11’ E
+
+311.03 m to point 46;
+
+Thence,
+
+S 40º 02’ W
+
+93.85 m to point 47;
+
+Thence,
+
+S 61º 24’ W
+
+351.83 m to point 48;
+
+Thence,
+
+S 35º 58’ W
+
+240.39 m to point 49;
+
+Thence,
+
+S 18º 24’ W
+
+154.32 m to point 50;
+
+Thence,
+
+S 45º 06’ W
+
+37.47 m to point 51; an old corner;
+
+Thence,
+
+N 85º 12’ W
+
+34.27 m to point 52; an old corner;
+
+Thence,
+
+N 65º 50’ W
+
+45.67 m to point 53; P.L.S./B.L. on a rock;
+
+Thence,
+
+N 46º 39’ W
+
+1,513.80 m to point 54;
+
+Thence,
+
+N 20º 08’ W
+
+466.66 m to point 55;
+
+Thence,
+
+S 58º 21’ W
+
+328.30 m to point 56;
+
+Thence,
+
+N 49º 44’ W
+
+646.11 m to point 57; P.L.S./B.L. on a rock;
+
+Thence,
+
+N 41º 34’ E
+
+167.92 m to point 58;
+
+Thence,
+
+N 18º 58’ E
+
+131.50 m to point 59;
+
+Thence,
+
+N 09º 04’ W
+
+85.69 m to point 60;
+
+Thence,
+
+N 54º 15’ E
+
+164.47 m to point 61;
+
+Thence,
+
+N 61º 56’ W
+
+161.18 m to point 62; P.L.S./B.L.;
+
+Thence,
+
+N 35º 16’ E
+
+556.61 m to point 63; P.L.S./B.L.;
+
+Thence,
+
+S 84º 33’ W
+
+141.22 m to point 64; P.L.S./B.L.;
+
+Thence,
+
+S 58º 26’ W
+
+388.04 m to point 65;
+
+Thence,
+
+N 67º 46’ W
+
+42.33 m to point 66;
+
+Thence,
+
+N 09º 35’ E
+
+49.11 m to point 67;
+
+Thence,
+
+N 00º 30’ W
+
+49.72 m to point 68;
+
+Thence,
+
+N 35º 07’ E
+
+56.31 m to point 69;
+
+Thence,
+
+N 22º 11’ E
+
+199.35 m to point 70;
+
+Thence,
+
+N 02º 09’ E
+
+65.80 m to point 71;
+
+Thence,
+
+N 31º 51’ E
+
+95.29 m to point 72;
+
+Thence,
+
+N 00º 58’ W
+
+36.28 m to point 73;
+
+Thence,
+
+N 59º 17’ W
+
+412.90 m to point 74;
+
+Thence,
+
+N 82º 46’ W
+
+216.49 m to point 75;
+
+Thence,
+
+N 18º 49’ E
+
+121.00 m to point 76;
+
+Thence,
+
+N 86º 30’ W
+
+46.96 m to point 77;
+
+Thence,
+
+S 59º 01’ W
+
+251.07 m to point 78; intersection;
+
+Thence,
+
+S 40º 00’ W
+
+102.02 m to point 79;
+
+Thence,
+
+S 50º 00’ W
+
+142.03 m to point 80;
+
+Thence,
+
+S 63º 18’ W
+
+156.21 m to point 81;
+
+Thence,
+
+S 79º 10’ W
+
+47.06 m to point 82;
+
+Thence,
+
+S 54º 02’ W
+
+165.97 m to point 83;
+
+Thence,
+
+S 09º 27’ W
+
+83.97 m to point 84;
+
+Thence,
+
+S 14º 28’ W
+
+215.62 m to point 85;
+
+Thence,
+
+S 03º 34’ E
+
+353.99 m to point 86;
+
+Thence,
+
+S 52º 01’ W
+
+280.62 m to point 87;
+
+Thence,
+
+S 26º 26’ W
+
+194.94 m to point 88;
+
+Thence,
+
+S 14º 09’ W
+
+38.04 m to point 89;
+
+Thence,
+
+N 13º 52’ W
+
+35.36 m to point 90;
+
+Thence,
+
+N 17º 37’ E
+
+430.38 m to point 91;
+
+Thence,
+
+N 05º 28’ E
+
+323.85 m to point 92;
+
+Thence,
+
+N 18º 56’ W
+
+75.56 m to point 93;
+
+Thence,
+
+N 03º 41’ E
+
+133.04 m to point 94 ;
+
+Thence,
+
+N 47º 08’ E
+
+430.38 m to point 95; B.L. on a concrete monument;
+
+Thence,
+
+N 31º 03’ W
+
+6.69 m to point 96;
+
+Thence,
+
+S 78º 39’ W
+
+335.40 m to point 97; B.L. on a concrete monument;
+
+Thence,
+
+S 24º 54’ W
+
+288.30 m to point 98;
+
+Thence,
+
+S 41º 23’ W
+
+655.76 m to point 99;
+
+Thence,
+
+S 42º 55’ W
+
+161.60 m to point 100;
+
+Thence,
+
+N 67º 40’ W
+
+178.90 m to point 101;
+
+Thence,
+
+N 82º 04’ W
+
+84.26 m to point 102;
+
+Thence,
+
+N 30º 12’ W
+
+21.27 m to point 103;
+
+Thence,
+
+N 47º 23’ E
+
+99.14 m to point 104;
+
+Thence,
+
+N 81º 03’ W
+
+610.92 m to point 105; P.L.S./B.L. on a rock;
+
+Thence,
+
+N 18º 01’ E
+
+290.52 m to point 106; P.L.S./B.L. on a rock;
+
+Thence,
+
+N 60º 39’ E
+
+1,066.10 m to point 107; a monument;
+
+Thence,
+
+N 69º 40’ W
+
+369.00 m to point 108; P.L.S./B.L.;
+
+Thence,
+
+N 48º 52’ E
+
+480.61 m to point 109; a monument;
+
+Thence,
+
+N 67º 52’ W
+
+371.08 m to point 110; a monument;
+
+Thence,
+
+N 58º 06’ E
+
+89.57 m to point 111; P.L.S./B.L.;
+
+Thence,
+
+S 72º 25’ W
+
+781.45 m to point 112;
+
+Thence,
+
+N 29º 39’ W
+
+832.51 m to point 113;
+
+Thence,
+
+N 64º 57’ W
+
+440.33 m to point 114; a monument;
+
+Thence,
+
+N 14º 53’ W
+
+5289.75 m to point 115; a monument;
+
+Thence,
+
+S 43º 33’ W
+
+274.46 m to point 116;
+
+Thence,
+
+N 85º 57’ W
+
+596.27 m to point 117; a monument;
+
+Thence,
+
+N 79º 10’ W
+
+39.72 m to point 118;
+
+Thence,
+
+N 45º 44’ W
+
+106.41 m to point 119; a monument;
+
+Thence,
+
+N 06º 22’ W
+
+17.95 m to point 120;
+
+Thence,
+
+S 83º 53’ W
+
+629.50 m to point 121;
+
+Thence,
+
+S 82º 52’ W
+
+178.78 m to point 122; M.B.M. #12;
+
+Thence,
+
+S 71º 45’ W
+
+276.41 m to point 123;
+
+Thence,
+
+N 72º 33’ W
+
+157.83 m to point 124;
+
+Thence,
+
+N 50º 31’ E
+
+177.10 m to point 125; P.L.S./B.L.;
+
+Thence,
+
+S 87º 59’ E
+
+275.20 m to point 126;
+
+Thence,
+
+N 28º 05’ E
+
+321.56 m to point 127; P.L.S./B.L.;
+
+Thence,
+
+N 53º 46’ E
+
+412.63 m to point 128;
+
+Thence,
+
+N 61º 22’ E
+
+360.08 m to point 129; P.L.S./B.L. on a rock;
+
+Thence,
+
+S 74º 14’ E
+
+435.24 m to point 130;
+
+Thence,
+
+N 54º 21’ E
+
+407.58 m to point 131;
+
+Thence,
+
+N 86º 40’ W
+
+494.60 m to point 132; P.L.S./B.L.;
+
+Thence,
+
+S 60º 00’ W
+
+295.94 m to point 133; P.L.S./B.L. on a rock;
+
+Thence,
+
+N 16º 20’ W
+
+328.07 m to point 134;
+
+Thence,
+
+N 16º 20’ W
+
+347.45 m to point 135; P.L.S./B.L.;
+
+Thence,
+
+N 58º 17’ E
+
+463.52 m to point 136;
+
+Thence,
+
+N 41º 33’ E
+
+277.58 m to point 137;
+
+Thence,
+
+N 15º 03’ E
+
+383.90 m to point 138; P.L.S./B.L.;
+
+Thence,
+
+N 89º 26’ W
+
+341.78 m to point 139;
+
+Thence,
+
+N 76º 17’ W
+
+218.04 m to point 140; P.L.S./B.L.;
+
+Thence,
+
+N 88º 04’ W
+
+154.69 m to point 141; P.L.S./B.L.;
+
+Thence,
+
+S 47º 18’ W
+
+222.00 m to point 142; P.L.S./B.L. on a rock;
+
+Thence,
+
+S 15º 35’ W
+
+122.42 m to point 143; P.L.S./B.L.;
+
+Thence,
+
+N 29º 33’ W
+
+1,059.37 m to point 144;
+
+Thence,
+
+N 17º 48’ W
+
+39.99 m to point 145; South of Najalin River;
+
+Thence,
+
+N 00º 43’ W
+
+82.18 m to point 146;
+
+Thence,
+
+N 61º 17’ E
+
+159.24 m to point 147;
+
+Thence,
+
+S 71º 05’ W
+
+171.91 m to point 148;
+
+Thence,
+
+N 81º 58’ E
+
+179.76 m to point 149;
+
+Thence,
+
+N 54º 14’ E
+
+33.76 m to point 150;
+
+Thence,
+
+N 52º 34’ E
+
+267.29 m to point 151;
+
+Thence,
+
+N 65º 26’ E
+
+294.80 m to point 152;
+
+Thence,
+
+S 75º 55’ E
+
+290.31 m to point 153;
+
+Thence,
+
+S 29º 06’ E
+
+75.65 m to point 154;
+
+Thence,
+
+N 88º 26’ E
+
+172.74 m to point 155;
+
+Thence,
+
+N 12º 59’ E
+
+381.95 m to point 156;
+
+Thence,
+
+N 11º 40’ W
+
+59.33 m to point 157;
+
+Thence,
+
+N 44º 41’ E
+
+5.19 m to point 158;
+
+Thence,
+
+S 83º 12’ E
+
+36.24 m to point 159;
+
+Thence,
+
+N 62º 30’ E
+
+105.59 m to point 160;
+
+Thence,
+
+N 62º 07’ E
+
+49.17 m to point 161;
+
+Thence,
+
+N 80º 35’ E
+
+21.51 m to point 162;
+
+Thence,
+
+N 88º 20’ E
+
+82.34 m to point 163;
+
+Thence,
+
+N 79º 35’ E
+
+19.78 m to point 164;
+
+Thence,
+
+N 03º 45’ E
+
+9.32 m to point 165;
+
+Thence,
+
+N 06º 24’ E
+
+129.80 m to point 166;
+
+Thence,
+
+N 21º 24’ W
+
+39.08 m to point 167;
+
+Thence,
+
+N 42º 02’ W
+
+487.60 m to point 168;
+
+Thence,
+
+N 65º 20’ E
+
+172.12 m to point 169;
+
+Thence,
+
+N 39º 33’ E
+
+24.97 m to point 170;
+
+Thence,
+
+N 87º 50’ E
+
+16.61 m to point 171; P.L.S./B.L.;
+
+Thence,
+
+N 30º 24’ E
+
+383.11 m to point 172;
+
+Thence,
+
+S 63º 17’ W
+
+156.97 m to point 173; P.L.S./B.L.;
+
+Thence,
+
+N 41º 11’ W
+
+422.41 m to point 174;
+
+Thence,
+
+N 11º 40’ W
+
+128.84 m to point 175;
+
+Thence,
+
+S 85º 40’ W
+
+215.22 m to point 176; P.L.S./B.L.;
+
+Thence,
+
+N 27º 46’ E
+
+177.88 m to point 177; P.L.S./B.L.;
+
+Thence,
+
+N 67º 26’ W
+
+110.96 m to point 178;
+
+Thence,
+
+N 40º 20’ E
+
+274.86 m to point 179;
+
+Thence,
+
+N 45º 23’ W
+
+59.65 m to point 180;
+
+Thence,
+
+S 49º 25’ E
+
+67.93 m to point 181;
+
+Thence,
+
+N 62º 08’ E
+
+78.54 m to point 182; a rock;
+
+Thence,
+
+S 70º 32’ E
+
+30.30 m to point 183; P.L.S./B.L.;
+
+Thence,
+
+S 50º 31’ E
+
+112.83 m to point 184;
+
+Thence,
+
+S 82º 32’ E
+
+102.49 m to point 185; P.L.S./B.L.;
+
+Thence,
+
+S 60º 48’ E
+
+97.35 m to point 186; a rock;
+
+Thence,
+
+N 45º 43’ E
+
+179.43 m to point 187;
+
+Thence,
+
+N 81º 36’ E
+
+67.21 m to point 188;
+
+Thence,
+
+N 72º 50’ E
+
+212.30 m to point 189; a rock;
+
+Thence,
+
+S 03º 43’ E
+
+11.57 m to point 190;
+
+Thence,
+
+S 43º 36’ E
+
+142.76 m to point 191; P.L.S./B.L.;
+
+Thence,
+
+S 76º 00’ E
+
+409.15 m to point 192; P.L.S./B.L.;
+
+Thence,
+
+S 85º 19’ E
+
+661.85 m to point 193;
+
+Thence,
+
+S 85º 19’ E
+
+95.00 m to point 194;
+
+Thence,
+
+S 81º 24’ E
+
+312.72 m to point 195; P.L.S./B.L.;
+
+Thence,
+
+N 06º 18’ E
+
+179.93 m to point 196; P.L.S./B.L.;
+
+Thence,
+
+N 38º 19’ W
+
+482.93 m to point 197;
+
+Thence,
+
+S 21º 42’ E
+
+387.25 m to point 198;
+
+Thence,
+
+N 82º 54’ W
+
+706.42 m to point 199;
+
+Thence,
+
+N 27º 19’ E
+
+320.54 m to point 200;
+
+Thence,
+
+N 27º 19’ E
+
+220.00 m to point 201;
+
+Thence,
+
+63º 16’ W
+
+211.33 m to point 202;
+
+Thence,
+
+41º 29’ W
+
+31.17 m to point 203;
+
+Thence,
+
+53º 14’ E
+
+298.28 m to point 204;
+
+Thence,
+
+N 62º 03’
+
+424.43 m to point 205;
+
+Thence,
+
+N 05º 12’ E
+
+572.38 m to point 206;
+
+Thence,
+
+N 10º 17’ E
+
+42.99 m to point 207;
+
+Thence,
+
+N 22º 25’ E
+
+373.82 m to point 208;
+
+Thence,
+
+N 75º 47’ E
+
+244.19 m to point 209;
+
+Thence,
+
+N 18º 33’ E
+
+38.03 m to point 210;
+
+Thence,
+
+N 56º 48’ W
+
+459.05 m to point 211;
+
+Thence,
+
+N 44º 55’ W
+
+76.51 m to point 212;
+
+Thence,
+
+N 13º 12’ W
+
+107.36 m to point 213;
+
+Thence,
+
+N 43º 30’ E
+
+143.37 m to point 214;
+
+Thence,
+
+N 76º 53’ E
+
+14.59 m to point 215;
+
+Thence,
+
+N 66º 29’ E
+
+783.04 m to point 216;
+
+Thence,
+
+S 71º 26’ 59’’
+
+888.69 m to point 217;
+
+Thence,
+
+N 18º 30’ 00.110’’ W
+
+579.07 m to point 218;
+
+Thence,
+
+N 87º 28’ 58’’ E
+
+410.05 m to point 219;
+
+Thence,
+
+N 27º 37’ 59’’ E
+
+1,051.62 m to point 220;
+
+Thence,
+
+S 60º 16’ 01’’ E
+
+673.44 m to point 221;
+
+Thence,
+
+N 29º 08’ 59’’ E
+
+751.54 m to point 222;
+
+Thence,
+
+N 60º 16’ 01’’ W
+
+599.55 m to point 223;
+
+Thence,
+
+S 57º 18’ 06’’ W
+
+878.88 m to point 224;
+
+Thence,
+
+N 21º 23’ 0’’ E
+
+53.15 m to point 225;
+
+Thence,
+
+N 26º 49’ W
+
+53.32 m to point 226;
+
+Thence,
+
+N 81º 56’ W
+
+141.88 m to point 227;
+
+Thence,
+
+S 82º 20’ W
+
+65.65 m to point 228;
+
+Thence,
+
+N 80º 48’ W
+
+32.98 m to point 229;
+
+Thence,
+
+N 68º 01’ W
+
+74.48 m to point 230;
+
+Thence,
+
+N 48º 39’ W
+
+99.47 m to point 231;
+
+Thence,
+
+N 40º 53’ W
+
+97.88 m to point 232;
+
+Thence,
+
+N 73º 54’ W
+
+52.72 m to point 233;
+
+Thence,
+
+N 16º 54’ W
+
+18.04 m to point 234;
+
+Thence,
+
+N 06º 09’ W
+
+79.11 m to point 235;
+
+Thence,
+
+N 25º 21’ W
+
+71.92 m to point 236;
+
+Thence,
+
+29º 51’ W
+
+36.05 m to point 237;
+
+Thence,
+
+60º 19’ W
+
+61.60 m to point 238;
+
+Thence,
+
+N 46º 26’ W
+
+23.38 m to point 239;
+
+Thence,
+
+N 56º 47’ W
+
+41.81 m to point 240;
+
+Thence,
+
+N 63º 56’ W
+
+26.84 m to point 241;
+
+Thence,
+
+N 35º 46’ W
+
+74.34 m to point 242;
+
+Thence,
+
+N 62º 52’ W
+
+45.00 m to point 243;
+
+Thence,
+
+N 57º 13’ W
+
+20.00 m to point 244;
+
+Thence,
+
+S 12º 12’ W
+
+10.31 m to point 245;
+
+Thence,
+
+S 37º 45’ W
+
+49.22 m to point 246;
+
+Thence,
+
+S 13º 57’ W
+
+57.94 m to point 247;
+
+Thence,
+
+S 04º 11’ E
+
+37.95 m to point 248;
+
+Thence,
+
+N 22º 48’ W
+
+64.32 m to point 249;
+
+Thence,
+
+N 16º 53’ W
+
+76.16 m to point 250;
+
+Thence,
+
+N 07º 27’ W
+
+89.53 m to point 251;
+
+Thence,
+
+S 52º 25’ W
+
+574.10 m to point 252;
+
+Thence,
+
+N 40º 26’ W
+
+160.62 m to point 253;
+
+Thence,
+
+N 36º 17’ E
+
+535.68 m to point 254;
+
+Thence,
+
+S 72º 00’ W
+
+83.32 m to point 255;
+
+Thence,
+
+N 44º 09’ W
+
+52.90 m to point 256;
+
+Thence,
+
+S 71º 01’ W
+
+142.28 m to point 257;
+
+Thence,
+
+N 22º 09’ W
+
+75.72 m to point 258;
+
+Thence,
+
+N 37º 17’ W
+
+142.28 m to point 259;
+
+Thence,
+
+S 82º 53’ W
+
+90.96 m to point 260;
+
+Thence,
+
+N 36º 36’ W
+
+83.41 m to point 261;
+
+Thence,
+
+N 74º 12’ W
+
+128.09 m to point 262;
+
+Thence,
+
+N 23º 21’ W
+
+76.11 m to point 263;
+
+Thence,
+
+N 64º 59’ W
+
+70.85 m to point 264;
+
+Thence,
+
+N 31º 22’ W
+
+128.03 m to point 265;
+
+Thence,
+
+N 05º 04’ W
+
+27.98 m to point 266;
+
+Thence,
+
+N 31º 40’ W
+
+163.02 m to point 267;
+
+Thence,
+
+N 51º 42’ W
+
+62.55 m to point 268;
+
+Thence,
+
+N 40º 55’ W
+
+136.12 m to point 269;
+
+Thence,
+
+N 25º 24’ E
+
+16.42 m to point 270;
+
+Thence,
+
+N 80º 15’ W
+
+53.15 m to point 271;
+
+Thence,
+
+S 81º 14’ W
+
+120.87 m to point 272;
+
+Thence,
+
+N 40º 40’ W
+
+44.24 m to point 273;
+
+Thence,
+
+N 59º 40’ W
+
+75.62 m to point 274;
+
+Thence,
+
+S 67º 47’ W
+
+24.40 m to point 275;
+
+Thence,
+
+N 82º 44’ W
+
+50.73 m to point 276;
+
+Thence,
+
+N 26º 30’ W
+
+45.71 m to point 277;
+
+Thence,
+
+N 68º 13’ W
+
+54.28 m to point 278;
+
+Thence,
+
+S 46º 36’ W
+
+61.98 m to point 279;
+
+Thence,
+
+S 55º 40’ W
+
+40.58 m to point 280;
+
+Thence,
+
+S 88º 22’ W
+
+52.72 m to point 281;
+
+Thence,
+
+N 46º 45’ W
+
+89.71 m to point 282;
+
+Thence,
+
+S 49º 14’ W
+
+90.10 m to point 283;
+
+Thence,
+
+N 57º 07’ W
+
+68.15 m to point 284;
+
+Thence,
+
+S 52º 18’ W
+
+18.54 m to point 285;
+
+Thence,
+
+S 34º 02’ W
+
+54.45 m to point 286;
+
+Thence,
+
+S 79º 08’ W
+
+62.01 m to point 287;
+
+Thence,
+
+N 85º 30’ W
+
+157.04 m to point 288;
+
+Thence,
+
+N 54º 33’ W
+
+98.18 m to point 289;
+
+Thence,
+
+S 45º 33’ W
+
+40.41 m to point 290;
+
+Thence,
+
+S 71º 20’ W
+
+44.20 m to point 291;
+
+Thence,
+
+N 80º 44’ W
+
+55.92 m to point 292;
+
+Thence,
+
+N 18º 10’ E
+
+77.89 m to point 293;
+
+Thence,
+
+N 49º 00’ E
+
+52.52 m to point 294;
+
+Thence,
+
+N 23º 00’ E
+
+41.06 m to point 295;
+
+Thence,
+
+N 01º 47’ W
+
+28.83 m to point 296;
+
+Thence,
+
+N 27º 26’ W
+
+56.84 m to point 297;
+
+Thence,
+
+N 49º 31’ W
+
+40.40 m to point 298;
+
+Thence,
+
+N 05º 09’ W
+
+65.10 m to point 299;
+
+Thence,
+
+N 43º 07’ W
+
+65.22 m to point 300;
+
+Thence,
+
+N 33º 15’ W
+
+56.52 m to point 301;
+
+Thence,
+
+N 25º 55’ W
+
+41.54 m to point 302;
+
+Thence,
+
+S 48º 23’ W
+
+79.17 m to point 303;
+
+Thence,
+
+S 89º 38’ W
+
+38.18 m to point 304;
+
+Thence,
+
+N 22º 14’ W
+
+24.89 m to point 305;
+
+Thence,
+
+N 60º 37’ E
+
+185.48 m to point 306;
+
+Thence,
+
+S 86º 40’ E
+
+358.03 m to point 307;
+
+Thence,
+
+N 76º 47’ E
+
+1,062.80 m to point 308;
+
+Thence,
+
+S 63º 25’ E
+
+1.492.83 m to point 309;
+
+Thence,
+
+N 11º 41’ E
+
+305.44 m to point 310;
+
+Thence,
+
+S 34º 24’ E
+
+33.24 m to point 311;
+
+Thence,
+
+S 55º 32’ E
+
+84.54 m to point 312;
+
+Thence,
+
+S 16º 04’ E
+
+40.37 m to point 313;
+
+Thence,
+
+S 46º 29’ E
+
+81.81 m to point 314;
+
+Thence,
+
+S 60º 04’ E
+
+92.76 m to point 315;
+
+Thence,
+
+S 06º 07’ E
+
+71.84 m to point 316;
+
+Thence,
+
+S 07º 14’ E
+
+131.42 m to point 317;
+
+Thence,
+
+S 49º 55’ W
+
+56.84 m to point 318;
+
+Thence,
+
+S 17º 42’ E
+
+88.09 m to point 319;
+
+Thence,
+
+S 34º 29’ E
+
+123.84 m to point 320;
+
+Thence,
+
+S 64º 05’ E
+
+187.32 m to point 321;
+
+Thence,
+
+N 75º 49’ E
+
+221.64 m to point 322;
+
+Thence,
+
+S 75º 88’ E
+
+29.06 m to point 323;
+
+Thence,
+
+S 75º 56’ E
+
+75.00 m to point 324;
+
+Thence,
+
+S 73º 52’ E
+
+99.94 m to point 325;
+
+Thence,
+
+S 14º 24’ E
+
+82.34 m to point 326;
+
+Thence,
+
+S 25º 22’ E
+
+68.65 m to point 327;
+
+Thence,
+
+S 23º 08’ W
+
+45.12 m to point 328;
+
+Thence,
+
+S 53º 05’ E
+
+75.14 m to point 329;
+
+Thence,
+
+S 69º 55’ E
+
+89.86 m to point 330;
+
+Thence,
+
+S 84º 41’ E
+
+152.13 m to point 331;
+
+Thence,
+
+S 40º 39’ W
+
+206.90 m to point 332;
+
+Thence,
+
+N 59º 26’ E
+
+224.48 m to point 333;
+
+Thence,
+
+N 54º 24’ W
+
+110.65 m to point 334;
+
+Thence,
+
+N 29º 59’ W
+
+168.88 m to point 335;
+
+Thence,
+
+N 57º 51’ E
+
+40.38 m to point 336;
+
+Thence,
+
+N 13º 41’ E
+
+33.15 m to point 337;
+
+Thence,
+
+N 01º 00’ W
+
+26.52 m to point 338;
+
+Thence,
+
+N 15º 03’ W
+
+16.53 m to point 339;
+
+Thence,
+
+N 24º 58’ W
+
+10.85 m to point 340;
+
+Thence,
+
+N 24º 58’ W
+
+10.00 m to point 341;
+
+Thence,
+
+N 02º 11’ W
+
+47.81 m to point 342;
+
+Thence,
+
+N 12º 05’ W
+
+36.03 m to point 343;
+
+Thence,
+
+N 42º 43’ W
+
+42.37 m to point 344;
+
+Thence,
+
+N 28º 14’ W
+
+45.13 m to point 345;
+
+Thence,
+
+N 50º 27’ W
+
+46.14 m to point 346;
+
+Thence,
+
+N 18º 34’ W
+
+27.99 m to point 347;
+
+Thence,
+
+N 23º 02’ W
+
+23.82 m to point 348;
+
+Thence,
+
+N 52º 36’ W
+
+17.74 m to point 349;
+
+Thence,
+
+N 72º 55’ W
+
+27.78 m to point 350;
+
+Thence,
+
+N 36º 17’ W
+
+30.16 m to point 351;
+
+Thence,
+
+N 55º 14’ W
+
+62.33 m to point 352;
+
+Thence,
+
+N 15º 29’ W
+
+25.00 m to point 353;
+
+Thence,
+
+N 27º 27’ W
+
+47.57 m to point 354;
+
+Thence,
+
+N 53º 45’ W
+
+88.70 m to point 355;
+
+Thence,
+
+N 05º 40’ W
+
+46.02 m to point 356;
+
+Thence,
+
+N 51º 00’ W
+
+46.76 m to point 357;
+
+Thence,
+
+N 12º 25’ W
+
+77.07 m to point 358;
+
+Thence,
+
+N 41º 49’ W
+
+30.62 m to point 359;
+
+Thence,
+
+N 15º 36’ E
+
+44.00 m to point 360;
+
+Thence,
+
+N 23º 49’ W
+
+79.29 m to point 361;
+
+Thence,
+
+N 33º 47’ W
+
+48.94 m to point 362;
+
+Thence,
+
+N 15º 07’ W
+
+57.16 m to point 363;
+
+Thence,
+
+N 16º 26’ E
+
+42.16 m to point 364;
+
+Thence,
+
+N 25º 39’ W
+
+47.89 m to point 365;
+
+Thence,
+
+N 42º 14’ E
+
+37.41 m to point 366;
+
+Thence,
+
+N 00º 17’ W
+
+21.66 m to point 367;
+
+Thence,
+
+N 47º 39’ E
+
+31.70 m to point 368;
+
+Thence,
+
+N 88º 50’ E
+
+13.26 m to point 369;
+
+Thence,
+
+S 78º 38’ E
+
+303.42 m to point 370;
+
+Thence,
+
+N 46º 36’ E
+
+185.07 m to point 371;
+
+Thence,
+
+N 49º 06’ E
+
+163.19 m to point 372;
+
+Thence,
+
+N 73º 46’ E
+
+34.45 m to point 373;
+
+Thence,
+
+N 25º 21’ E
+
+147.97 m to point 374;
+
+Thence,
+
+N 19º 31’ E
+
+394.78 m to point 375;
+
+Thence,
+
+N 67º 22’ W
+
+466.71 m to point 376;
+
+Thence,
+
+N 87º 36’ W
+
+141.88 m to point 377;
+
+Thence,
+
+S 75º 32’ W
+
+18.49 m to point 378;
+
+Thence,
+
+N 32º 07’ W
+
+81.79 m to point 379;
+
+Thence,
+
+S 78º 59’ W
+
+47.00 m to point 380;
+
+Thence,
+
+N 44º 52’ W
+
+37.43 m to point 381;
+
+Thence,
+
+N 23º 16’ W
+
+58.06 m to point 382;
+
+Thence,
+
+N 38º 04’ W
+
+65.54 m to point 383;
+
+Thence,
+
+N 60º 03’ W
+
+46.42 m to point 384;
+
+Thence,
+
+N 30º 15’ W
+
+19.95 m to point 385;
+
+Thence,
+
+N 29º 08’ E
+
+35.18 m to point 386;
+
+Thence,
+
+N 10º 08’ E
+
+41.83 m to point 387;
+
+Thence,
+
+N 58º 04’ W
+
+39.48 m to point 388;
+
+Thence,
+
+N 59º 25’ W
+
+32.48 m to point 389;
+
+Thence,
+
+N 82º 26’ E
+
+382.30 m to point 390;
+
+Thence,
+
+N 82º 26’ E
+
+242.00 m to point 391;
+
+Thence,
+
+N 38º 33’ E
+
+866.76 m to point 392;
+
+Thence,
+
+N 64º 13’ E
+
+29.53 m to point 393;
+
+Thence,
+
+S 46º 56’ E
+
+45.14 m to point 394;
+
+Thence,
+
+S 07º 28’ E
+
+64.35 m to point 395;
+
+Thence,
+
+S 11º 54’ E
+
+85.23 m to point 396;
+
+Thence,
+
+S 45º 34’ E
+
+85.13 m to point 397;
+
+Thence,
+
+S 36º 48’ E
+
+235.38 m to point 398;
+
+Thence,
+
+S 83º 15’ E
+
+66.10 m to point 399;
+
+Thence,
+
+S 11º 58’ E
+
+75.02 m to point 400;
+
+Thence,
+
+S 48º 21’ E
+
+57.51 m to point 401;
+
+Thence,
+
+S 76º 38’ E
+
+211.24 m to point 402;
+
+Thence,
+
+N 60º 06’ E
+
+228.22 m to point 403;
+
+Thence,
+
+N 53º 27’ E
+
+93.78 m to point 404;
+
+Thence,
+
+N 30º 13’ W
+
+35.60 m to point 405;
+
+Thence,
+
+N 04º 02’ E
+
+246.29 m to point 406;
+
+Thence,
+
+Due West,
+
+117.32 m to point 407;
+
+Thence,
+
+N 22º 29’ W
+
+90.88 m to point 408;
+
+Thence,
+
+N 00º 39’ E
+
+43.98 m to point 409;
+
+Thence,
+
+S 07º 27’ E
+
+183.76 m to point 410;
+
+Thence,
+
+N 65º 47’ E
+
+15.80 m to point 411;
+
+Thence,
+
+N 51º 04’ W
+
+29.44 m to point 412;
+
+Thence,
+
+N 14º 53’ E
+
+100.90 m to point 413;
+
+Thence,
+
+N 33º 16’ E
+
+145.92 m to point 414;
+
+Thence,
+
+N 14º 13’ E
+
+60.02 m to point 415;
+
+Thence,
+
+N 36º 13’ E
+
+114.80 m to point 416;
+
+Thence,
+
+N 22º 52’ W
+
+195.33 m to point 417;
+
+Thence,
+
+N 21º 51’ E
+
+136.62 m to point 418;
+
+Thence,
+
+N 72º 46’ E
+
+52.00 m to point 419;
+
+Thence,
+
+N 13º 59’ W
+
+2,165.35 m to point 420;
+
+Thence,
+
+N 68º 04’ E
+
+103.20 m to point 421;
+
+Thence,
+
+S 56º 09’ E
+
+89.90 m to point 422;
+
+Thence,
+
+S 45º 08’ E
+
+90.78 m to point 423;
+
+Thence,
+
+S 77º 53’ E
+
+39.47 m to point 424;
+
+Thence,
+
+N 79º 11’ E
+
+229.41 m to point 425;
+
+Thence,
+
+N 72º 45’ E
+
+232.40 m to point 426;
+
+Thence,
+
+N 62º 03’ E
+
+188.02 m to point 427;
+
+Thence,
+
+N 83º 43’ E
+
+410.38 m to point 428;
+
+Thence,
+
+N 18º 53’ W
+
+83.05 m to point 429;
+
+Thence,
+
+N 12º 39’ E
+
+423.74 m to point 430;
+
+Thence,
+
+S 54º 21’ E
+
+77.10 m to point 431;
+
+Thence,
+
+N 37º 45’ E
+
+173.24 m to point 432; A monument P.L.S./B.L.;
+
+Thence,
+
+S 67º 13’ E
+
+141.34 m to point 433; A monument P.L.S./B.L.;
+
+Thence,
+
+S 32º 35’ E
+
+393.63 m to point 434;
+
+Thence,
+
+S 17º 15’ E
+
+258.40 m to point 435;
+
+Thence,
+
+S 82º 09’ E
+
+61.19 m to point 436;
+
+Thence,
+
+N 79º 59’ E
+
+103.20 m to point 437;
+
+Thence,
+
+N 56º 29’ E
+
+202.02 m to point 438;
+
+Thence,
+
+S 67º 31’ E
+
+287.80 m to point 439;
+
+Thence,
+
+S 16º 03’ E
+
+251.10 m to point 440;
+
+Thence,
+
+S 38º 38’ E
+
+145.14 m to point 441;
+
+Thence,
+
+N 85º 25’ E
+
+303.58 m to point 442;
+
+Thence,
+
+S 56º 49’ E
+
+322.22 m to point 443;
+
+Thence,
+
+N 86º 19’ E
+
+141.17 m to point 444;
+
+Thence,
+
+N 27º 31’ E
+
+84.16 m to point 445;
+
+Thence,
+
+N 79º 21’ E
+
+432.26 m to point 446;
+
+Thence,
+
+S 41º 52’ E
+
+726.22 m to point 447;
+
+Thence,
+
+S 44º 30’ E
+
+69.15 m to point 448;
+
+Thence,
+
+S 73º 59’ E
+
+546.59 m to point 449;
+
+Thence,
+
+S 47º 11’ E
+
+190.22 m to point 450;
+
+Thence,
+
+S 74º 08’ E
+
+373.59 m to point 451;
+
+Thence,
+
+N 71º 36’ E
+
+333.89 m to point 452;
+
+Thence,
+
+S 51º 26’ E
+
+342.17 m to point 453;
+
+Thence,
+
+S 29º 48’ E
+
+84.26 m to point 454;
+
+Thence,
+
+S 84º 27’ E
+
+19.50 m to point 455;
+
+Thence,
+
+S 66º 39’ E
+
+144.25 m to point 456;
+
+Thence,
+
+S 34º 22’ E
+
+24.11 m to point 457;
+
+Thence,
+
+S 42º 28’ E
+
+396.70 m to point 458;
+
+Thence,
+
+S 73º 24’ E
+
+97.59 m to point 459;
+
+Thence,
+
+N 89º 40’ E
+
+276.16 m to point 460;
+
+Thence,
+
+S 14º 57’ E
+
+247.08 m to point 461;
+
+Thence,
+
+S 37º 22’ W
+
+176.34 m to point 462;
+
+Thence,
+
+S 27º 53’ W
+
+144.99 m to point 463;
+
+Thence,
+
+N 60º 30’ E
+
+152.79 m to point 464;
+
+Thence,
+
+N 89º 07’ E
+
+271.35 m to point 465; P.L.S./B.L. on a big rock;
+
+Thence,
+
+S 72º 22’ E
+
+89.07 m to point 466;
+
+Thence,
+
+S 84º 00’ E
+
+638.13 m to point 467; a monument;
+
+Thence,
+
+N 39º 00’ E
+
+8.74 m to point 468; A monument;
+
+Thence,
+
+S 45º 09’ E
+
+149.32 m to point 469;
+
+Thence,
+
+N 04º 54’ W
+
+312.58 m to point 470;
+
+Thence,
+
+N 49º 12’ E
+
+31.73 m to point 471; "x" mark on a rock;
+
+Thence,
+
+N 29º 32’ E
+
+38.40 m to point 472;
+
+Thence,
+
+N 54º 37’ E
+
+265.82 m to point 473;
+
+Thence,
+
+S 70º 57’ E
+
+15.71 m to point 474;
+
+Thence,
+
+S 80º 51’ E
+
+233.18 m to point 475;
+
+Thence,
+
+S 25º 29’ E
+
+342.09 m to point 476; A monument;
+
+Thence,
+
+S 44º 12’ E
+
+368.42 m to point 477; A monument;
+
+Thence,
+
+S 44º 35’ E
+
+9.69 m to point 478; A monument;
+
+Thence,
+
+S 48º 39’ E
+
+370.93 m to point 479; A monument;
+
+Thence,
+
+N 63º 22’ E
+
+645.23 m to point 480;
+
+Thence,
+
+N 72º 23’ E
+
+225 m to point 481;
+
+Thence,
+
+N 69º 17’ E
+
+151.20 m to point 482; A monument;
+
+Thence,
+
+S 87º 28’ E
+
+9.97 m to point 483;
+
+Thence,
+
+N 84º 29’ E
+
+71.83 m to point 484;
+
+Thence,
+
+S 64º 30’ E
+
+125.85 m to point 485;
+
+Thence,
+
+S 69º 26’ W
+
+62.20 m to point 486;
+
+Thence,
+
+S 73º 01’ E
+
+442.53 m to point 487;
+
+Thence,
+
+S 00º 16’ W
+
+126.46 m to point 488; A monument;
+
+Thence,
+
+S 35º 51’ W
+
+58.20 m to point 489;
+
+Thence,
+
+S 17º 27’ W
+
+319.46 m to point 490;
+
+Thence,
+
+S 32º 41’ E
+
+77.60 m to point 491;
+
+Thence,
+
+S 57º 36’ E
+
+234.27 m to point 492;
+
+Thence,
+
+N 81º 30’ E
+
+89.61 m to point 493;
+
+Thence,
+
+S 89º 01’ E
+
+202.15 m to point 494; P.L.S./B.L. on a big rock;
+
+Thence,
+
+S 81º 33’ E
+
+257.16 m to point 495;
+
+Thence,
+
+S 30º 35’ E
+
+199.29 m to point 496; A monument;
+
+Thence,
+
+S 38º 02’ E
+
+221.79 m to point 497;
+
+Thence,
+
+S 84º 32’ E
+
+108.44 m to point 498;
+
+Thence,
+
+S 78º 52’ E
+
+147.21 m to point 499;
+
+Thence,
+
+S 47º 56’ E
+
+121.53 m to point 500;
+
+Thence,
+
+S 28º 03’ E
+
+113.21 m to point 501;
+
+Thence,
+
+S 66º 00’ E
+
+344.84 m to point 502;
+
+Thence,
+
+S 66º 56’ E
+
+121.55 m to point 503;
+
+Thence,
+
+S 09º 32’ E
+
+92.35 m to point 504; A monument M.C./F.Z. No. 2;
+
+Thence,
+
+S 87º 33’ W
+
+97.00 m to point 505;
+
+Thence,
+
+S 87º 33’ W
+
+1,858.22 m to point 506; A monument M.C./F.Z. No. 3;
+
+Thence,
+
+S 00º 31’ W
+
+6,149.50 m to point 507; A monument M.C./F.Z. No. 4;
+
+Thence,
+
+S 34º 32’ W
+
+48.98 m to point 508; A point along Lairanan River;
+
+Thence,
+
+Due West upstream
+
+620.00 m to point 509; Of Lairanan River;
+
+Thence,
+
+Due West upstream
+
+1,000.00 m to point 510; Of Lairanan River;
+
+Thence,
+
+S 11º 00’ E
+
+300.00 m to point 511;
+
+Thence,
+
+S 11º 00’ W
+
+238.00 m to point 512;
+
+Thence,
+
+S 08º 00’ W
+
+450.00 m to point 513;
+
+Thence,
+
+S 30º 00’ W
+
+350.00 m to point 514;
+
+Thence,
+
+S 26º 08’ W
+
+238.00 m to point 515;
+
+Thence,
+
+Southwest upstream
+
+425.00 m to point 516; Of Magalao Creek
+
+Thence,
+
+S 67º 00’ E
+
+600.00 m to point 517;
+
+Thence,
+
+S 30º 00’ W
+
+938.00 m to point 518;
+
+Thence,
+
+S 76º 00’ W
+
+275 m to point 519;
+
+Thence,
+
+S 20º 00’ W
+
+350.00 m to point 520;
+
+Thence,
+
+S 02º 00’ E
+
+600.00 m to point 521;
+
+Thence,
+
+S 43º 00’ W
+
+370.00 m to point 522;
+
+Thence,
+
+S 21º 00’ W
+
+500.00 m to point 523;
+
+Thence,
+
+S 33º 00’ W
+
+400.00 m to point 524;
+
+Thence,
+
+S 14º 00’ W
+
+550.00 m to point 525;
+
+Thence,
+
+S 34º 00’ E
+
+138.00 m to point 526;
+
+Thence,
+
+N 63º 43’ W
+
+115.41 m to point 527;
+
+Thence,
+
+N 61º 25’ W
+
+197.81 m to point 528;
+
+Thence,
+
+N 60º 08’ W
+
+68.27 m to point 529;
+
+Thence,
+
+N 44º 50’ W
+
+119.40 m to point 530;
+
+Thence,
+
+S 69º 26’ W
+
+78.88 m to point 531;
+
+Thence,
+
+N 74º 47’ W
+
+71.81 m to point 532;
+
+Thence,
+
+S 67º 00’ E
+
+50.90 m to point 533;
+
+Thence,
+
+N 60º 48’ W
+
+121.49 m to point 534;
+
+Thence,
+
+N 68º 04’ W
+
+110.36 m to point 535;
+
+Thence,
+
+N 22º 22’ W
+
+71.58 m to point 536;
+
+Thence,
+
+S 86º 59’ W
+
+24.88 m to point 537;
+
+Thence,
+
+S 18º 33’ W
+
+874.54 m to point 538;
+
+Thence,
+
+S 36º 15’ W
+
+13.90 m to point 539; A creek;
+
+Thence,
+
+S 41º 24’ E
+
+50.35 m to point 540; A creek;
+
+Thence,
+
+S 31º 21’ E
+
+45.57 m to point 541; A creek;
+
+Thence,
+
+S 12º 56’ E
+
+33 m to point 542; A creek;
+
+Thence,
+
+S 22º 20’ E
+
+61.90 m to point 543; A creek;
+
+Thence,
+
+S 54º 56’ E
+
+19.52 m to point 544; A creek;
+
+Thence,
+
+S 05º 57’ W
+
+45.79 m to point 545; A creek;
+
+Thence,
+
+S 02º 32’ W
+
+30.60 m to point 546; A creek;
+
+Thence,
+
+S 18º 09’ E
+
+22.23 m to point 547; A creek;
+
+Thence,
+
+S 21º 39’ W
+
+34.61 m to point 548;
+
+Thence,
+
+S 42º 03’ E
+
+35.97 m to point 549;
+
+Thence,
+
+S 33º 45’ E
+
+57.38 m to point 550;
+
+Thence,
+
+S 15º 16’ W
+
+20.89 m to point 551;
+
+Thence,
+
+S 42º 26’ E
+
+52.11 m to point 552;
+
+Thence,
+
+S 57º 45’ E
+
+152.90 m to point 553;
+
+Thence,
+
+N 49º 48’ E
+
+57.00 m to point 554;
+
+Thence,
+
+N 64º 05’ E
+
+54.45 m to point 555;
+
+Thence,
+
+S 25º 32’ E
+
+80.56 m to point 556;
+
+Thence,
+
+S 57º 48’ E
+
+61.10 m to point 557;
+
+Thence,
+
+S 55º 11’ E
+
+63.91 m to point 558;
+
+Thence,
+
+S 64º 21’ W
+
+1,251.09 m to point 559; M.C./F.Z.;
+
+Thence,
+
+S 30º 37’ W
+
+2,933.47 m to point 560; M.C./F.Z. No. 8;
+
+Thence,
+
+S 36º 59’ E
+
+1,322.30 m to point 561;
+
+Thence,
+
+S 61º 35’ W
+
+3,380.85 m to point 1, the point
 
 of beginning at plan NP or P.B.M. No. 4 between Negros Occidental and Negros Orriental recorded in Pontevedra Cadastre No. 60, B.L. Case No. 2, Negros Orriental, containing an approximate total land area of 24,388 hectares.
 

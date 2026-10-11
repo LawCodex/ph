@@ -51,7 +51,7 @@ Section six of the same Act is amended to read as follows:
 
 ## Sec. 6
 
-. The grantee is authorized to enter into transportation contacts with the Philippine Government, including the carrying of mail, upon terms and conditions to be mutually agreed upon. The grantee shall give preferential consideration to contracts with the Philippine Government."
+The grantee is authorized to enter into transportation contacts with the Philippine Government, including the carrying of mail, upon terms and conditions to be mutually agreed upon. The grantee shall give preferential consideration to contracts with the Philippine Government."
 
 ## Section 5
 
@@ -59,7 +59,7 @@ Section twelve of the same Act is hereby amended to read as follows:
 
 ## Sec. 12
 
-. The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the operation of the service under the franchise hereby granted."
+The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the operation of the service under the franchise hereby granted."
 
 ## Section 6
 
@@ -73,7 +73,7 @@ Section fourteen of the same Act is amended to read as follows:
 
 ## Sec. 14
 
-. The grantee shall keep an account of the gross receipts, revenues or earnings of the business transacted by it and shall furnish to the Commissioner of Internal Revenue a report of such gross receipts, revenues or earnings quarterly, during the month next following the close of the quarter. For the purpose of verification of gross receipts, revenues or earnings and for assessment of the franchise tax due on such gross receipts, revenues or earnings as rendered to the Commissioner of Internal Revenue, all the books and accounts of the grantee shall be kept in the Philippines, and shall be subject to inspection by the Commissioner of Internal Revenue or his authorized representatives. The audit and approval of such accounts by the Commissioner of Internal Revenue shall be final and conclusive as to the determination of the amount of said gross receipts, revenues or earnings, except that the grantee shall have the right to appeal to the courts of the Republic of the Philippines in the manner provided for by the laws of the Republic of the Philippines.
+The grantee shall keep an account of the gross receipts, revenues or earnings of the business transacted by it and shall furnish to the Commissioner of Internal Revenue a report of such gross receipts, revenues or earnings quarterly, during the month next following the close of the quarter. For the purpose of verification of gross receipts, revenues or earnings and for assessment of the franchise tax due on such gross receipts, revenues or earnings as rendered to the Commissioner of Internal Revenue, all the books and accounts of the grantee shall be kept in the Philippines, and shall be subject to inspection by the Commissioner of Internal Revenue or his authorized representatives. The audit and approval of such accounts by the Commissioner of Internal Revenue shall be final and conclusive as to the determination of the amount of said gross receipts, revenues or earnings, except that the grantee shall have the right to appeal to the courts of the Republic of the Philippines in the manner provided for by the laws of the Republic of the Philippines.
 
 "the words ‘gross receipts’, ‘revenues’ and ‘earnings’ are herein defined as the total receipts obtained from transportation services or revenues derived from other services or earnings realized from the disposition of equipment by the grantee through its operation under this franchise."
 
@@ -83,7 +83,7 @@ Section seventeen of the same Act is amended to read as follows:
 
 ## Sec. 17
 
-. This franchise is granted with the understanding that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires."
+This franchise is granted with the understanding that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires."
 
 ## Section 9
 
@@ -91,7 +91,7 @@ Section eighteen of the same Act is amended to read as follows:
 
 ## Sec. 18
 
-. The term of this franchise shall be fifty years from the date of the acceptance of this Act by the grantee."
+The term of this franchise shall be fifty years from the date of the acceptance of this Act by the grantee."
 
 ## Section 10
 

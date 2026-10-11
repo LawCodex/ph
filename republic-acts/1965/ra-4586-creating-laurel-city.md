@@ -848,10 +848,10 @@ In case a higher rate or scale of salary for city officials is provided for unde
 
 ### Section 100
 
-. Any provision of law to the contrary notwithstanding, the present municipal waterworks system of the municipality shall be exclusively owned, operated and maintained by Laurel City.
+Any provision of law to the contrary notwithstanding, the present municipal waterworks system of the municipality shall be exclusively owned, operated and maintained by Laurel City.
 
 ### Section 101
 
-. This Act shall take effect on January sixteen, nineteen hundred sixty-six, if a majority of the voters of the Municipality of Batangas, Province of Batangas, votes in favor of the conversion of their municipality into a city as provided in this Act in a plebiscite which shall be held on the day of the general elections of nineteen hundred sixty-five, and the Commission on Elections shall prescribe the form of the ballot for this purpose.
+This Act shall take effect on January sixteen, nineteen hundred sixty-six, if a majority of the voters of the Municipality of Batangas, Province of Batangas, votes in favor of the conversion of their municipality into a city as provided in this Act in a plebiscite which shall be held on the day of the general elections of nineteen hundred sixty-five, and the Commission on Elections shall prescribe the form of the ballot for this purpose.
 
 Approved: June 19, 1965.

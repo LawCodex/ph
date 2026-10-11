@@ -1,0 +1,49 @@
+---
+title: "Presidential Decree No. 870 — Authorizing the Postmaster General to Act as Ex-Officio Collector of Customs, Amending for the Purpose Section 1139 of the Revised Administrative Code"
+identifier: "Presidential Decree No. 870"
+number: "870"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-01-06
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_870_1976.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 870
+
+**Authorizing the Postmaster General to Act as Ex-Officio Collector of Customs, Amending for the Purpose Section 1139 of the Revised Administrative Code**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 870 January 6, 1976**
+
+AUTHORIZING THE POSTMASTER GENERAL TO ACT AS EX-OFFICIO COLLECTOR OF CUSTOMS, AMENDING FOR THE PURPOSE SECTION 1139 OF THE REVISED ADMINISTRATIVE CODE
+
+WHEREAS, Section 1139 of the Revised Administrative Code, as amended, defining the general duties, powers and jurisdiction of the Bureau of Customs, provides, among others, that the said Bureau shall supervise and control the handling of foreign mails arriving in the Philippines for the purpose of collecting the lawful duty on dutiable articles thus imported and the prevention of smuggling through the mails;
+
+WHEREAS, there was pending before Congress, prior to the promulgation of Proclamation No. 1081, dated September 21, 1972, a bill proposing to transfer the function of the Bureau of Customs of the Bureau of Posts with respect to foreign parcels, which proposed measure is considered vital to the attainment of postal efficiency and progress and the national development program of the Government; and
+
+WHEREAS, there is now an urgent need to adopt a better and more effective system of control and supervision in the handling of foreign mails, particularly to pinpoint responsibility in case of loss or tampering of such mails, which would render the postal service more responsive to the requirements of the mailing public:
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:
+
+## Section 1
+
+Section 1139 of the Revised Administrative Code is hereby amended by deleting from the said Section paragraph (1) thereof which provides that "the supervision and control over the handling of foreign mails arriving in the Philippines, for the purpose of the collection of the lawful duty on dutiable articles thus imported and the prevention of smuggling through the medium of the mails" as part of the general jurisdiction of the Bureau of Customs.
+
+The function provided under the aforequoted paragraph (i), of Section 1139 of the Revised Administrative Code, is hereby transferred from the Bureau of Customs to the Bureau of Posts. For this purpose, the Postmaster General is authorized to act as ex-officio Collector of Customs for the postal service. As such, he shall enforce all laws and regulations governing the examination, assessment, and collection of customs duties over such foregoing mails or goods. He is authorized to designate his agents or representatives from competent postal employees and, when performing such additional duty, he shall be under the technical supervision of the Secretary of Finance.
+
+## Section 2
+
+After the promulgation of this Decree, the Postmaster General shall promptly assign the necessary number of qualified postal employees to undergo training in the Department of Finance or the Bureau of Customs on the examination and proper appraisal of the contents of foreign mails or postal parcels and assessment of customs duties and taxes thereon, before he and his authorized representatives shall be completed within six months from the start thereof.
+
+## Section 3
+
+Any provision of law inconsistent herewith are hereby repealed or amended accordingly. This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 6th day of January, in the year of Our Lord, nineteen hundred and seventy-six.

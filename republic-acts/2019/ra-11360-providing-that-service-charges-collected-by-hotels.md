@@ -68,8 +68,5 @@ This Act which is a consolidation of Senate Bill No. 1299 and House Bill No. 878
 
 Approved: AUG 07 2019
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

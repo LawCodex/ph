@@ -91,5 +91,52 @@ _Appropriations._ \- The sum of Ten billion nine hundred million pesos (P10,900,
 </tr>
 </table>
 
-<table><br/> <b>Section 2.</b> <i>Use of Funds</i> – The amount herein appropriated shall be used for the purposes indicated and subject to the applicable Special Provisions contained in Republic Act No. 8760, the FY 2000 General Appropriations Act (GAA), as reenacted: Provided, That the amount herein appropriated for the upgrading of salaries for the uniformed personnel of the Philippine National Police. The increase in veterans pensions, and the five percent (5%) increase in salaries of national government employees shall be effective July 1, 2001: Provided, further, That the amount herein appropriated for the Miscellaneous Personnel Benefits Fund shall be used in accordance with Special Provision No. 1 of said Fund in the FY 2000 GAA: Provided, finally, That the amount herein appropriated for Foreign-Assisted Projects Support Fund shall cover the deficiencies in funding requirements of on-going as well as news projects in FY 2001. <b>Section 3.</b> <i>Release of Funds.</i> – The amounts herein appropriated shall be released to the departments, bureaus, offices and agencies by the Department of Budget and Management (DBM) in accordance with budgeting laws, rules and regulations. <b>Section 4.</b> <i>Authority to Grant Five Percent (5%) Salary Increase to GOCCs and LGUS.</i> – Subject to the availability of funds, government-owned and/or controlled corporations (GOCCs) covered by Republic Act No. 6758 (the Compensation and Position Classification Act of 1989), as amended, and local government units (LGUs). are likewise authorized to grant similar increase in salary effective July 1, 2001 chargeable against their respective funds. <b>Section 5.</b> <i>Implementing Rules and Regulations.</i> - The DBM shall issue the necessary rules and regulations to implement the grant of the five percent (5%) salary increase and the upgrading of salaries of PNP uniformed personnel. <b>Section 6.</b> <i>Authority to Increase the Annual Budget of the Philippine National Oil Company (PNOC).</i> - The PNOC is hereby authorized to increase its annual budget for FY 2001 for an amount not exceeding the peso equivalent of US 190 million dollars to cover its investments in the Malampaya Deepwater Gas-to-Power Project and related expenses, including interest expense, taxes, fees, and other expenses, pertaining to financial and legal advisory services. <b>Section 7.</b> <i>Effectivity.</i> - This Act shall take effect upon its enactment into law, unless otherwise specified. Approved. Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand. <b>AQUILINO Q. PIMENTEL JR.</b><br/> President of the Senate <b></b>FELICIANO BELMONTE JR.<br/> Speaker of the House of Representatives This act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 31, 2001 and June 6, respectively. <b>LUTGARDO B. BARBO</b><br/> Secretary of the Senate <b></b>ROBERTO P. NAZARENO<br/> Secretary General<br/> House of Representatives Approved: <b></b>GLORIA MACAPAGAL-ARROYO<br/> President of the Philippines <br/> <br/>
-</table>
+## Section 2
+
+_Use of Funds_ – The amount herein appropriated shall be used for the purposes indicated and subject to the applicable Special Provisions contained in Republic Act No. 8760, the FY 2000 General Appropriations Act (GAA), as reenacted: Provided, That the amount herein appropriated for the upgrading of salaries for the uniformed personnel of the Philippine National Police. The increase in veterans pensions, and the five percent (5%) increase in salaries of national government employees shall be effective July 1, 2001: Provided, further, That the amount herein appropriated for the Miscellaneous Personnel Benefits Fund shall be used in accordance with Special Provision No. 1 of said Fund in the FY 2000 GAA: Provided, finally, That the amount herein appropriated for Foreign-Assisted Projects Support Fund shall cover the deficiencies in funding requirements of on-going as well as news projects in FY 2001.
+
+## Section 3
+
+_Release of Funds._ – The amounts herein appropriated shall be released to the departments, bureaus, offices and agencies by the Department of Budget and Management (DBM) in accordance with budgeting laws, rules and regulations.
+
+## Section 4
+
+_Authority to Grant Five Percent (5%) Salary Increase to GOCCs and LGUS._ – Subject to the availability of funds, government-owned and/or controlled corporations
+
+(GOCCs) covered by Republic Act No. 6758 (the Compensation and Position Classification Act of 1989), as amended, and local government units (LGUs). are likewise authorized to grant similar increase in salary effective July 1, 2001 chargeable against their respective funds.
+
+## Section 5
+
+_Implementing Rules and Regulations._ \- The DBM shall issue the necessary rules and regulations to implement the grant of the five percent (5%) salary increase and the upgrading of salaries of PNP uniformed personnel.
+
+## Section 6
+
+_Authority to Increase the Annual Budget of the Philippine National Oil Company (PNOC)._ \- The PNOC is hereby authorized to increase its annual budget for FY 2001 for an amount not exceeding the peso equivalent of US 190 million dollars to cover its investments in the Malampaya Deepwater Gas-to-Power Project and related expenses, including interest expense, taxes, fees, and other expenses, pertaining to financial and legal advisory services.
+
+## Section 7
+
+_Effectivity._ \- This Act shall take effect upon its enactment into law, unless otherwise specified.
+
+Approved.
+
+Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand.
+
+**AQUILINO Q. PIMENTEL JR.**
+President of the Senate
+
+FELICIANO BELMONTE JR.
+Speaker of the House of Representatives
+
+This act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 31, 2001 and June 6, respectively.
+
+**LUTGARDO B. BARBO**
+Secretary of the Senate
+
+ROBERTO P. NAZARENO
+Secretary General
+House of Representatives
+
+Approved:
+
+GLORIA MACAPAGAL-ARROYO
+President of the Philippines

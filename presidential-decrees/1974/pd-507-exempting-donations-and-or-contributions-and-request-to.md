@@ -1,0 +1,50 @@
+---
+title: "Presidential Decree No. 507 — Exempting Donations And/Or Contributions and Request to Social Welfare, Cultural and Charitable Institutions From Certain Taxes and Provincial Tax Allowance Therefor"
+identifier: "Presidential Decree No. 507"
+number: "507"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-07-16
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_507_1974.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 507
+
+**Exempting Donations And/Or Contributions and Request to Social Welfare, Cultural and Charitable Institutions From Certain Taxes and Provincial Tax Allowance Therefor**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 507 July 16, 1974**
+
+EXEMPTING DONATIONS AND/OR CONTRIBUTIONS AND REQUEST TO SOCIAL WELFARE, CULTURAL AND CHARITABLE INSTITUTIONS FROM CERTAIN TAXES AND PROVINCIAL TAX ALLOWANCE THEREFOR
+
+WHEREAS, non-profit social welfare, cultural and charitable institutions operate generally on funds generated through donations;
+
+WHEREAS, these non-profit institutions are viable instruments for social welfare and cultural development of the country;
+
+WHEREAS, the success of the mission of these institutions depends largely on the sufficiency of their financial resources; and
+
+WHEREAS, it is necessary to encourage donations to these institutions in order to enable them to acquire the necessary funds for their continue operations.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:
+
+## Section 1
+
+Any provision of law, decree, rules and regulations to the contrary notwithstanding, all gifts, bequests, donations and/or contributions to social welfare, cultural and charitable institutions, no part of the net income of which inures to the benefit of any individual, shall be exempt from the donor's and estate taxes and shall be deductible in full in computing the taxable net income of the donor. Provided, however, that not more than thirty per centum of said gifts and bequests shall be used by such donee for administration purposes.
+
+The Secretary of Finance, upon recommendation of the Commissioner of Internal Revenue, shall promulgate rules and regulations to implement this Decree.
+
+## Section 2
+
+All laws, decrees, orders, rules and regulations inconsistent herewith are hereby repealed and/or modified accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 16th day of July, in the year of Our Lord, nineteen hundred and seventy-four.

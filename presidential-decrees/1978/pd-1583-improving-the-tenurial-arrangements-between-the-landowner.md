@@ -1,0 +1,62 @@
+---
+title: "Presidential Decree No. 1583 — Improving the Tenurial Arrangements Between the Landowner and Tenants in Private Agricultural Lands Devoted to Crops Other Than Rice and Corn"
+identifier: "Presidential Decree No. 1583"
+number: "1583"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-06-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1583_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1583
+
+**Improving the Tenurial Arrangements Between the Landowner and Tenants in Private Agricultural Lands Devoted to Crops Other Than Rice and Corn**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1583**
+
+IMPROVING THE TENURIAL ARRANGEMENTS BETWEEN THE LANDOWNER AND TENANTS IN PRIVATE AGRICULTURAL LANDS DEVOTED TO CROPS OTHER THAN RICE AND CORN
+
+WHEREAS, it is the policy of the State to improve the relationship between landowner, landholder or legal possessor and tenant in agricultural lands for the upliftment of the economic and social life of the tenants;
+
+WHEREAS, in order to implement the above policy, and to ensure protection of the rights of tenants, further steps have to be taken to improve the status of farmers-tillers in agricultural lands or plantations devoted to crops other than rice or corn.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree as part of the law of the land, the following:
+
+## Section 1
+
+A Presidential Committee composed of the Minister of Agrarian Reform as Chairman, with the Minister of Agriculture and the Minister of Justice as members, is hereby created which shall have the principal responsibility to determine the classes or nature of relationships or arrangements where tenancy shall be considered to have been established by a farmer-tiller with the landowner, landholder or legal possessor.
+
+In cases where tenancy is said to exist, the tenant shall be entitled to the full protection and rights of tenants under Presidential Decree No. 1038 dated October 21, 1976.
+
+In addition, the Committee shall have the following functions:
+
+1\. Review and look deeper into the existing situations of tenant-tillers and recommend policies or courses of action to strengthen their tenurial security and
+
+2\. Undertake studies and perform such other tasks as may be necessary for the protection and improvement of the status of tenants in plantations devoted to crops other than rice and/or corn.
+
+The Committee may call upon any agency or instrumentality of the government for such assistance as may be necessary for the performance of its functions.
+
+## Section 2
+
+The plantation owner, landholder or legal possessor shall immediately determine and identify by a statement filed with the Ministry of Agrarian Reform the specific areas to be covered by tenancy for purposes of this Degree.
+
+## Section 3
+
+If for any reason, any section or provision of this Decree shall be declared unconstitutional or invalid, no other provision of this Decree shall be affected thereby.
+
+## Section 4
+
+All decrees, laws and orders, or provisions thereof inconsistent with this Decree, are hereby repealed and/or modified accordingly.
+
+## Section 5
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 11th day of June, in the year of Our Lord, Nineteen Hundred and Seventy-Eight.

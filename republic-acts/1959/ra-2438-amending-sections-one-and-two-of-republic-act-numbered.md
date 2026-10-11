@@ -28,11 +28,11 @@ Sections one and two of Republic Act Numbered Nineteen hundred sixty-five are he
 
 ## Sec. 1
 
-. There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in the Municipality of Dinalupihan, Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.
+There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in the Municipality of Dinalupihan, Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.
 
 ## Sec. 2
 
-. Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the Municipality of Dinalupihan of said province, as may be necessary and convenient for the establishment of the said school and of its farm site."
+Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the Municipality of Dinalupihan of said province, as may be necessary and convenient for the establishment of the said school and of its farm site."
 
 ## Section 2
 

@@ -200,24 +200,14 @@ Approved,
 
 This Act which is a consolidation of Senate Bill No. 2098 and House Bill No. 6276 was passed by the Senate of the Philippines and the House of Representatives on May 28, 2019 and May 29, 2019, respectively.
 
-<table>
-<tr>
-<td>(SGD.) <b>DANTE ROBERTO P. MALING</b><br/>Acting Secretary General House of Representatives</td>
-</tr>
-</table>
+(SGD.) **DANTE ROBERTO P. MALING**
+Acting Secretary General House of Representatives
 
-<table>
-<tr>
-<td>(SGD.) <b>MYRA MARIE D. VILLARICA</b></td>
-</tr>
-</table>
+(SGD.) **MYRA MARIE D. VILLARICA**
 
 Secretary of the Senate
 
 Approved: AUG 08 2019
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

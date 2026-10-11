@@ -48,7 +48,7 @@ No fees shall be charged by the grantee as the radio stations that may be establ
 
 ## Section 6-A
 
-. The grantee shall file a bond in the amount of fifty thousand pesos to guarantee the full compliance and fulfillment of the conditions under which this franchise is granted. If after four years from the date of the approval of this Act the grantee shall have fulfilled said conditions or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Government.
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee the full compliance and fulfillment of the conditions under which this franchise is granted. If after four years from the date of the approval of this Act the grantee shall have fulfilled said conditions or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Government.
 
 ## Section 7
 

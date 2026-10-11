@@ -222,7 +222,9 @@ All parcels of land belonging to the government and occupied by the Ifugao State
 
 _Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Ifugao State College of Agriculture and Forestry, except the sums needed to continue the operations of the existing high school/s. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Ifugao State University shall be included in the annual General Appropriations Act.
 
-**Section** 21\. _Development Plan, Management Audit, Organizational/ Administrative/Academic Structure._ \- Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
+## Section 21
+
+_Development Plan, Management Audit, Organizational/ Administrative/Academic Structure._ \- Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 1. Submit a five (5) year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to the DBM;
 

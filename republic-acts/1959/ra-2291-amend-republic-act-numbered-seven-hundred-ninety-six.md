@@ -29,7 +29,7 @@ Section one of Republic Act Numbered Seven hundred ninety-six is hereby amended 
 
 ## Sec. 1
 
-. Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Datu Tangurac Caorong, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, hear and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Kausuagan, Province of Lanao."
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Datu Tangurac Caorong, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, hear and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Kausuagan, Province of Lanao."
 
 ## Section 2
 

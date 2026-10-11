@@ -1,0 +1,34 @@
+---
+title: "Presidential Decree No. 1027 — Amending Section Sixteen of Presidential Decree Numbered Eight Hundred Five"
+identifier: "Presidential Decree No. 1027"
+number: "1027"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-09-22
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_1027_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1027
+
+**Amending Section Sixteen of Presidential Decree Numbered Eight Hundred Five**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1027**
+
+AMENDING SECTION SIXTEEN OF PRESIDENTIAL DECREE NUMBERED EIGHT HUNDRED FIVE
+
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, in order to effect minor amendments to existing law and correction of certain typographical errors therein, do hereby order and decree the following amendment of Section Sixteen of Presidential Decree No. 805 which shall read as follows:
+
+"SECTION 16. Exemption from Taxes. — Any provision of existing laws to the contrary notwithstanding, any donation, contribution, bequest, subsidy or financial aid which may be made to the Project shall be exempt from taxes of any kind, and shall constitute allowable deductions in full from the income of the donors for income tax purposes.
+
+"The assets of the Project and its commodity requirements procured from local and foreign suppliers shall be exempt from all taxes, duties, fees, charges, imposts, licenses and assessments, direct or indirect, imposed by the Republic of the Philippines or any political subdivision or taxing authority thereof."
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 22nd day of September in the year of Our Lord, nineteen hundred and seventy-six.

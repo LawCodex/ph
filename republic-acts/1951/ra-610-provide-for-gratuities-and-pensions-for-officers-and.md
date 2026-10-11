@@ -87,7 +87,7 @@ GENERAL PROVISIONS
 
 Determinations and redeterminations of the line of duty and service connection of the causative wounds, injuries, disease or sickness justifying the payment of any gratuity or pension under the provisions of this Act; of the entitlement or non-entitlement of any person to receive such gratuity or pension; of the several degrees of disability corresponding to each rate of disability pension specified in Section 5 of this Act; and of any other question necessary for carrying the provisions of this Act into effect, shall be made immediately prior to the honorable discharge and in accordance with rules and regulations to be prescribed by the President from time to time. The Philippine Veterans Board shall administer the funds appropriated to carry out the provisions of this Act.
 
-**Section** 7.
+## Section 7
 
 a. For the purposes of this Act, any person in the active service for ninety days or more shall be deemed to have been in sound physical and mental condition at the time of his entry into the active service except as to defects, infirmities, disorder or diseases noted and made of record at the time of such entry into the active service, or where the evidence or medical judgment clearly warrants a finding that the wound, injury, disease or sickness existed prior to entry into the active service. Wounds or injuries received, or sickness or disease incurred in the active service shall be presumed to have been received or incurred in line of duty in the absence of evidence to the contrary.
 

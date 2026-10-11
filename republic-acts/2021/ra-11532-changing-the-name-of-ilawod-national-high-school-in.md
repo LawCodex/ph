@@ -51,8 +51,5 @@ This Act which which originated in the House of Representatives was passed by th
 
 Approved: MAR 24 2021
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

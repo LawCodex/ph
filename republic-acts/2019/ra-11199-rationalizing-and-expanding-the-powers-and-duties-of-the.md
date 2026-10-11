@@ -389,7 +389,7 @@ _Dependents’ Pension._ \- Where monthly pension is payable on account of death
 
 ## Section 12-B
 
-. _Retirement Benefits._ -
+_Retirement Benefits._ -
 
 (a) A member who has paid at least one hundred twenty (120) monthly contributions prior to the semester of retirement and who: (1) has reached the age of sixty (60) years and is already separated from employment or has ceased to be self-employed; or (2) has reached the age of sixty-five (65) years, shall be entitled for as long as he lives to the monthly pension: _Provided,_ That he shall have the option to receive his first eighteen (18) monthly pensions in lump sum discounted at a preferential rate of interest to be determined by the SSS.
 

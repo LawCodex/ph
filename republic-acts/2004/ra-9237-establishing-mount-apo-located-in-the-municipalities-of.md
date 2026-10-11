@@ -612,4444 +612,4487 @@ BUFFER ZONE, PARCEL 2
 
 A parcel of land containing an area of 65,423,921.15 square meters, more or less, declared as Buffer Zone Parcel (2), beginning at a point marked "1" on the map and on the ground being identical to point 79 of the Mt. Apo Natural Park;
 
-<table>
-<tr>
-<td>CORNER</td>
-<td>LINE</td>
-<td>BEARING</td>
-<td>DISTANCE</td>
-<td>CORNER MONUMENT</td>
-<td>REFERENCE OR LOCATION</td>
-</tr>
-<tr>
-<td>1</td>
-<td>1</td>
-<td>S 08°17' W</td>
-<td>1,070.03 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>79, MANP</td>
-</tr>
-<tr>
-<td>2</td>
-<td>2</td>
-<td>N 43°20' W</td>
-<td>400.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>West bank of</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>Ruparan River</td>
-</tr>
-<tr>
-<td>3</td>
-<td>3</td>
-<td>N 43°20' W</td>
-<td>400.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On land planted</td>
-</tr>
-<tr>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>w/ sugarcane</td>
-</tr>
-<tr>
-<td>4</td>
-<td>4</td>
-<td>N 43°20' W</td>
-<td>400.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On land planted</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>w/ sugarcane</td>
-</tr>
-<tr>
-<td>5</td>
-<td>5</td>
-<td>N 43°20' W</td>
-<td>400.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>6</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>6</td>
-<td>N 43°20' W</td>
-<td>481.82 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>7</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>7</td>
-<td>N 64°55' W</td>
-<td>481.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>8</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>8</td>
-<td>N 37°49' W</td>
-<td>450.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>9</td>
-<td>N 37º49' W</td>
-<td>450.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>10</td>
-<td>N 37°49' W</td>
-<td>450.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>11</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>11</td>
-<td>N 37º49' W</td>
-<td>450.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>12</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td>12</td>
-<td>N 37°49' W</td>
-<td>513.33 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>13</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>unknown cr.</td>
-</tr>
-<tr>
-<td>13</td>
-<td>13</td>
-<td>N 52°51' W</td>
-<td>491.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>14</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>west of Guna River</td>
-</tr>
-<tr>
-<td>14</td>
-<td>14</td>
-<td>S 82°03' W</td>
-<td>370.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>15</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>west of Guna River</td>
-</tr>
-<tr>
-<td>15</td>
-<td>15</td>
-<td>S 82º03' W</td>
-<td>369.74 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>16</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>16</td>
-<td>N 56º46' W</td>
-<td>385.52 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>17</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>17</td>
-<td>S 13º22' W</td>
-<td>369.51 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>18</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>18</td>
-<td>S 55°35' W</td>
-<td>472.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>19</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>19</td>
-<td>S 55°35' W</td>
-<td>472.80 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>20</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>20</td>
-<td>N 86°04' W</td>
-<td>481.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>21</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>21</td>
-<td>21</td>
-<td>N 86º04' W</td>
-<td>480.59 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>22</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>22</td>
-<td>22</td>
-<td>N 67º37' W</td>
-<td>319.45 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>23</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>23</td>
-<td>23</td>
-<td>S 28°18' W</td>
-<td>474.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>24</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>24</td>
-<td>24</td>
-<td>S 28°18' W</td>
-<td>474.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>25</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>25</td>
-<td>25</td>
-<td>S 28º18' W</td>
-<td>473.60 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>26</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>26</td>
-<td>26</td>
-<td>S 44º36' W</td>
-<td>552.24 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>27</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>27</td>
-<td>27</td>
-<td>S 44°36' W</td>
-<td>552.24 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>28</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>28</td>
-<td>S 89°33' W</td>
-<td>556.05 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>29</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>29</td>
-<td>29</td>
-<td>S 89°33' W</td>
-<td>556.06 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>30</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>30</td>
-<td>30</td>
-<td>N 27°27' W</td>
-<td>457.18 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>31</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>31</td>
-<td>31</td>
-<td>N 70°38' W</td>
-<td>666.55 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>32</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>32</td>
-<td>32</td>
-<td>S 70°38' W</td>
-<td>405.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>33</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>33</td>
-<td>33</td>
-<td>S 70º38' W</td>
-<td>405.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>34</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>34</td>
-<td>34</td>
-<td>N 56°22' W</td>
-<td>576.53 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>35</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>35</td>
-<td>35</td>
-<td>N 23°06' W</td>
-<td>432.74 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>36</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>36</td>
-<td>36</td>
-<td>N 23°06' W</td>
-<td>432.74 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>37</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>37</td>
-<td>37</td>
-<td>N 57°13' W</td>
-<td>255.53 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>38</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>38</td>
-<td>38</td>
-<td>N 21°36' W</td>
-<td>597.70 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Moral</td>
-</tr>
-<tr>
-<td></td>
-<td>39</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>39</td>
-<td>39</td>
-<td>N 50°06' W</td>
-<td>544.26 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>40</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>40</td>
-<td>40</td>
-<td>N 50°06' W</td>
-<td>544.26 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>41</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>41</td>
-<td>41</td>
-<td>N 50°06' W</td>
-<td>544.26 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>42</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>42</td>
-<td>42</td>
-<td>N 54°41' W</td>
-<td>687.07 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>43</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>43</td>
-<td>43</td>
-<td>N 40°08' W</td>
-<td>679.01 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>44</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>44</td>
-<td>44</td>
-<td>S 88°21' W</td>
-<td>416.82 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>45</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>45</td>
-<td>45</td>
-<td>S 88°21' W</td>
-<td>416.82 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>46</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>46</td>
-<td>46</td>
-<td>N 50º51' W</td>
-<td>513.23 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>47</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>47</td>
-<td>47</td>
-<td>N 50°51' W</td>
-<td>513.24 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>48</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>48</td>
-<td>48</td>
-<td>N 07°01' W</td>
-<td>513.93 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>49</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>49</td>
-<td>49</td>
-<td>N 74º47' W</td>
-<td>387.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>50</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>50</td>
-<td>50</td>
-<td>N 45º52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>51</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>51</td>
-<td>51</td>
-<td>N 45°52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>52</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>52</td>
-<td>52</td>
-<td>N 45º52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>53</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>53</td>
-<td>53</td>
-<td>N 45º52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>54</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>54</td>
-<td>54</td>
-<td>N 45°52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>55</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>55</td>
-<td>55</td>
-<td>N 45°52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>56</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>56</td>
-<td>56</td>
-<td>N 45º52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-</tr>
-<tr>
-<td>57</td>
-<td>57</td>
-<td>N 45°52' E</td>
-<td>421.69 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>58</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>58</td>
-<td>58</td>
-<td>N 45°52' E</td>
-<td>421.75 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>59</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>59</td>
-<td>59</td>
-<td>N 52º38' W</td>
-<td>219.42 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Matanao</td>
-</tr>
-<tr>
-<td></td>
-<td>60</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>60</td>
-<td>60</td>
-<td>N 42º16' W</td>
-<td>325.45 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>61</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>61</td>
-<td>61</td>
-<td>N 37º50' W</td>
-<td>190.47 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>62</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>62</td>
-<td>62</td>
-<td>N 45°15' W</td>
-<td>335.05 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>63</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>63</td>
-<td>63</td>
-<td>N 16°52' W</td>
-<td>300.70 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>64</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>64</td>
-<td>64</td>
-<td>N 68°18' W</td>
-<td>239.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>65</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>65</td>
-<td>65</td>
-<td>N 64°30' W</td>
-<td>363.10 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>66</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>66</td>
-<td>66</td>
-<td>N 19°38' W</td>
-<td>372.02 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>67</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>67</td>
-<td>67</td>
-<td>N 56°38' W</td>
-<td>352.12 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>68</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>68</td>
-<td>68</td>
-<td>N 25°48' E</td>
-<td>544.59 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>69</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>69</td>
-<td>69</td>
-<td>N 41°01' E</td>
-<td>579.42 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>70</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>70</td>
-<td>70</td>
-<td>N 26°30' W</td>
-<td>374.40 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Darapuay</td>
-</tr>
-<tr>
-<td></td>
-<td>71</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>71</td>
-<td>71</td>
-<td>N 29°00' E</td>
-<td>322.11 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Darapuay</td>
-</tr>
-<tr>
-<td></td>
-<td>72</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>72</td>
-<td>72</td>
-<td>N 70°53' W</td>
-<td>145.26 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>73</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>73</td>
-<td>73</td>
-<td>N 74°20' W</td>
-<td>246.28 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>74</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>74</td>
-<td>74</td>
-<td>N 59°14' W</td>
-<td>226.30 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>75</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>75</td>
-<td>75</td>
-<td>S 60°53' W</td>
-<td>137.63 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>76</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>76</td>
-<td>76</td>
-<td>S 19°37' W</td>
-<td>241.07 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>77</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>77</td>
-<td>77</td>
-<td>N 52°34' W</td>
-<td>181.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>78</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>78</td>
-<td>78</td>
-<td>N 75°07' W</td>
-<td>227.31 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>79</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>79</td>
-<td>79</td>
-<td>N 76°43' W</td>
-<td>243.70 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>80</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>80</td>
-<td>80</td>
-<td>N 12°20' E</td>
-<td>322.03 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>81</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>81</td>
-<td>81</td>
-<td>N 06°19' W</td>
-<td>218.85 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>82</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>82</td>
-<td>82</td>
-<td>N 21º48' W</td>
-<td>339.70 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>83</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>83</td>
-<td>83</td>
-<td>N 66°29' W</td>
-<td>214.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>84</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>84</td>
-<td>84</td>
-<td>N 24º22' W</td>
-<td>228.13 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>85</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>85</td>
-<td>85</td>
-<td>N 59º57' W</td>
-<td>256.35 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>86</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>86</td>
-<td>86</td>
-<td>N 18°47' W</td>
-<td>306.65 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>87</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>87</td>
-<td>87</td>
-<td>S 29º29' W</td>
-<td>286.43 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>88</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>88</td>
-<td>88</td>
-<td>N 72º20' W</td>
-<td>358.85 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>89</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>89</td>
-<td>89</td>
-<td>N 81º33' W</td>
-<td>244.92 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>90</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>90</td>
-<td>90</td>
-<td>S 84º28' W</td>
-<td>223.56 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Bulatukan</td>
-</tr>
-<tr>
-<td></td>
-<td>91</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>91</td>
-<td>91</td>
-<td>S 78º36' W</td>
-<td>247.51 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>92</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>92</td>
-<td>92</td>
-<td>N 53°38' W</td>
-<td>228.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>93</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>93</td>
-<td>93</td>
-<td>N 44°45' W</td>
-<td>275.67 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>94</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>94</td>
-<td>94</td>
-<td>N 58°46' E</td>
-<td>574.34 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>95</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>95</td>
-<td>95</td>
-<td>N 13º32' E</td>
-<td>326.12 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>96</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>96</td>
-<td>96</td>
-<td>N 06º10' W</td>
-<td>223.82 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>97</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>97</td>
-<td>97</td>
-<td>N 61°40' E</td>
-<td>606.13 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>98</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>98</td>
-<td>98</td>
-<td>N 02°49' E</td>
-<td>334.72 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>99</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>99</td>
-<td>99</td>
-<td>N 38º06' W</td>
-<td>261.89 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>100</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>100</td>
-<td>100</td>
-<td>N 37°53' W</td>
-<td>295.47 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>101</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>101</td>
-<td>101</td>
-<td>N 22º23' W</td>
-<td>92.47 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>102</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>102</td>
-<td>102</td>
-<td>N 10°34' W</td>
-<td>226.44 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>103</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>103</td>
-<td>103</td>
-<td>N 10º56' W</td>
-<td>206.41 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>104</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>104</td>
-<td>104</td>
-<td>N 39°56' W</td>
-<td>147.19 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>105</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>105</td>
-<td>105</td>
-<td>N 13°11' W</td>
-<td>172.15 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>106</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>106</td>
-<td>106</td>
-<td>N 34°10' W</td>
-<td>163.59 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>107</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>107</td>
-<td>107</td>
-<td>N 31º31' W</td>
-<td>264.89 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>108</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>108</td>
-<td>108</td>
-<td>N 15º34' E</td>
-<td>189.16 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>109</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>109</td>
-<td>109</td>
-<td>N 23°09' E</td>
-<td>385.25 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>110</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>110</td>
-<td>110</td>
-<td>N 58º23' W</td>
-<td>120.01 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>111</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>111</td>
-<td>111</td>
-<td>N 34°14' W</td>
-<td>251.63 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>112</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>112</td>
-<td>112</td>
-<td>N 58°56' W</td>
-<td>180.44 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>113</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>113</td>
-<td>113</td>
-<td>N 34°28' E</td>
-<td>151.11 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>114</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>114</td>
-<td>114</td>
-<td>N 07°21' W</td>
-<td>264.73 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>115</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>115</td>
-<td>115</td>
-<td>N 03°15' E</td>
-<td>237.75 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>116</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>116</td>
-<td>116</td>
-<td>N 49º07' E</td>
-<td>209.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>117</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>117</td>
-<td>117</td>
-<td>N 25º45' E</td>
-<td>222.42 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>118</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>118</td>
-<td>118</td>
-<td>N 28º28' E</td>
-<td>116.28 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>119</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-</tr>
-<tr>
-<td>119</td>
-<td>119</td>
-<td>N 14º59' E</td>
-<td>104.64 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>120</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>120</td>
-<td>120</td>
-<td>N 06º57' E</td>
-<td>235.53 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>121</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>121</td>
-<td>121</td>
-<td>N 29º12' W</td>
-<td>177.93 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>122</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>122</td>
-<td>122</td>
-<td>N 66º00' W</td>
-<td>204.78 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>123</td>
-<td>123</td>
-<td>N 18º27' W</td>
-<td>171.50 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>124</td>
-<td>124</td>
-<td>N 46º55' W</td>
-<td>187.45 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>125</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>125</td>
-<td>125</td>
-<td>N 63º11' W</td>
-<td>106.18 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>126</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>126</td>
-<td>126</td>
-<td>N 00º15' E</td>
-<td>84.97 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>127</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>127</td>
-<td>127</td>
-<td>N 34º58' E</td>
-<td>465.16 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>128</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>128</td>
-<td>128</td>
-<td>N 32º48' E</td>
-<td>246.11 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>129</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>129</td>
-<td>129</td>
-<td>N 32º 29' E</td>
-<td>327.96 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>130</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>130</td>
-<td>130</td>
-<td>N 23º13' E</td>
-<td>409.96 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>131</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>131</td>
-<td>131</td>
-<td>N 35º11' E</td>
-<td>222.55 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>132</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>132</td>
-<td>132</td>
-<td>N 21º54' E</td>
-<td>352.23 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>133</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>133</td>
-<td>133</td>
-<td>N 25º01' W</td>
-<td>246.03 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>134</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>134</td>
-<td>134</td>
-<td>N 70º28' W</td>
-<td>158.87 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>135</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>135</td>
-<td>135</td>
-<td>N 36°21' W</td>
-<td>205.43 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>136</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>136</td>
-<td>136</td>
-<td>N 33°49' E</td>
-<td>320.92 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>137</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>137</td>
-<td>137</td>
-<td>N 36°48' W</td>
-<td>165.94 meters</td>
-<td>20C X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>138</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>138</td>
-<td>138</td>
-<td>N 02°55' E</td>
-<td>107.58 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>139</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>139</td>
-<td>139</td>
-<td>N 08°51' W</td>
-<td>63.27 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>140</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>140</td>
-<td>140</td>
-<td>N 27°50' W</td>
-<td>84.97 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>141</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-</tr>
-<tr>
-<td>141</td>
-<td>141</td>
-<td>N 54°42' E</td>
-<td>85.99 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Saging</td>
-</tr>
-<tr>
-<td></td>
-<td>142</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>142</td>
-<td>142</td>
-<td>N 51°47' W</td>
-<td>995.32 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Saging</td>
-</tr>
-<tr>
-<td></td>
-<td>143</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>143</td>
-<td>143</td>
-<td>S 52°57' W</td>
-<td>1,357.05 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Saging</td>
-</tr>
-<tr>
-<td></td>
-<td>144</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>144</td>
-<td>144</td>
-<td>N 39°41' W</td>
-<td>159.67 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>145</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>145</td>
-<td>145</td>
-<td>N 27°03' E</td>
-<td>537.59 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>146</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>146</td>
-<td>146</td>
-<td>N 44°55' E</td>
-<td>312.79 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>147</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>147</td>
-<td>147</td>
-<td>N 65°50' E</td>
-<td>356.78 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>148</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>148</td>
-<td>148</td>
-<td>N 26º31' E</td>
-<td>212.59 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>149</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>149</td>
-<td>149</td>
-<td>N 30°55' E</td>
-<td>342.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>150</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>150</td>
-<td>150</td>
-<td>N 48°37' E</td>
-<td>240.75 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>151</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>151</td>
-<td>151</td>
-<td>N 26º48' W</td>
-<td>269.36 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>152</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>152</td>
-<td>152</td>
-<td>N 35º43' E</td>
-<td>245.49 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>153</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>153</td>
-<td>153</td>
-<td>N 11°04' W</td>
-<td>254.86 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>154</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>154</td>
-<td>154</td>
-<td>N 15°08' W</td>
-<td>207.35 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>155</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>155</td>
-<td>155</td>
-<td>N 78°41' W</td>
-<td>598.44 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>156</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>156</td>
-<td>156</td>
-<td>N 01°02' W</td>
-<td>334.97 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>157</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>157</td>
-<td>157</td>
-<td>N 50°10' E</td>
-<td>267.83 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>158</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>158</td>
-<td>158</td>
-<td>N 42°16' E</td>
-<td>272.51 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>159</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>159</td>
-<td>159</td>
-<td>N 83°25' E</td>
-<td>294.48 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>160</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>160</td>
-<td>160</td>
-<td>N 46°43' E</td>
-<td>134.02 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>161</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>161</td>
-<td>161</td>
-<td>S 19°11' E</td>
-<td>202.00 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>162</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>162</td>
-<td>162</td>
-<td>S 01°34' W</td>
-<td>44.03 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>163</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>163</td>
-<td>163</td>
-<td>S 80º 57' W</td>
-<td>60.92 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>164</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>164</td>
-<td>164</td>
-<td>N 10°53' W</td>
-<td>39.72 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>165</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>165</td>
-<td>165</td>
-<td>N 84°14' W</td>
-<td>98.93 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>166</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>166</td>
-<td>166</td>
-<td>S 45°46' E</td>
-<td>30.96 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>167</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>167</td>
-<td>167</td>
-<td>S 12°33' W</td>
-<td>46.68 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>168</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>168</td>
-<td>168</td>
-<td>N 65°03' E</td>
-<td>38.04 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>169</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>169</td>
-<td>169</td>
-<td>N 87°09' E</td>
-<td>41.10 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>170</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>170</td>
-<td>170</td>
-<td>S 43º08' E</td>
-<td>30.14 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>171</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>171</td>
-<td>171</td>
-<td>S 67°04' E</td>
-<td>64.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>172</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-</tr>
-<tr>
-<td>172</td>
-<td>172</td>
-<td>S 70°40' E</td>
-<td>33.39 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>173</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>173</td>
-<td>173</td>
-<td>N 77°58' E</td>
-<td>23.84 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>174</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>174</td>
-<td>174</td>
-<td>S 71°30' E</td>
-<td>161.36 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>175</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>175</td>
-<td>175</td>
-<td>S 58°39' E</td>
-<td>157.27 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>176</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>176</td>
-<td>176</td>
-<td>S 78°44' E</td>
-<td>66.91 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>177</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>177</td>
-<td>177</td>
-<td>S 72°23' E</td>
-<td>64.58 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>178</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>178</td>
-<td>178</td>
-<td>S 79°12' E</td>
-<td>58.92 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>179</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>179</td>
-<td>179</td>
-<td>S 77°43' E</td>
-<td>67.98 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>180</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>180</td>
-<td>180</td>
-<td>S 68°51' E</td>
-<td>19.51 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>181</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>181</td>
-<td>181</td>
-<td>S 69°49' E</td>
-<td>50.09 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>182</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>182</td>
-<td>182</td>
-<td>N 50°04' E</td>
-<td>32.34 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>183</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>183</td>
-<td>183</td>
-<td>N 69°10' E</td>
-<td>20.28 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>184</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>184</td>
-<td>184</td>
-<td>S 58°54' E</td>
-<td>75.80 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>185</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>185</td>
-<td>185</td>
-<td>N 64º23' E</td>
-<td>57.60 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>186</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>186</td>
-<td>186</td>
-<td>S 43°04' E</td>
-<td>22.41 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>187</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>187</td>
-<td>187</td>
-<td>N 57º34' E</td>
-<td>24.58 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>188</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>188</td>
-<td>188</td>
-<td>S 53º42' E</td>
-<td>58.57 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>189</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>189</td>
-<td>189</td>
-<td>S 79°31' E</td>
-<td>13.17 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>190</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>190</td>
-<td>190</td>
-<td>N 62°55' E</td>
-<td>36.16 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>191</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>191</td>
-<td>191</td>
-<td>S 88°44' E</td>
-<td>117.56 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>192</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>192</td>
-<td>192</td>
-<td>N 67º40' E</td>
-<td>23.06 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>193</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>193</td>
-<td>193</td>
-<td>S 34°44' E</td>
-<td>27.89 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>194</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>194</td>
-<td>194</td>
-<td>S 48°29' E</td>
-<td>34.71 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>195</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>195</td>
-<td>195</td>
-<td>N 05°35' E</td>
-<td>37.85 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>196</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>196</td>
-<td>196</td>
-<td>N 03º17' E</td>
-<td>203.55 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>197</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>197</td>
-<td>197</td>
-<td>N 02°38' E</td>
-<td>196.27 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>198</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>198</td>
-<td>198</td>
-<td>S 88°10' E</td>
-<td>247.93 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>199</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>199</td>
-<td>199</td>
-<td>N 03°09' E</td>
-<td>203.35 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>200</td>
-<td>200</td>
-<td>S 89°45' E</td>
-<td>116.19 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>201</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>201</td>
-<td>201</td>
-<td>N 56º33' E</td>
-<td>342.40 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>202</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>202</td>
-<td>202</td>
-<td>N 17°37' W</td>
-<td>472.61 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>203</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>203</td>
-<td>203</td>
-<td>N 46°29' E</td>
-<td>325.93 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>204</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>204</td>
-<td>204</td>
-<td>N 37º54' E</td>
-<td>359.20 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>205</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>205</td>
-<td>205</td>
-<td>N 59º08' E</td>
-<td>507.88 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>206</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>206</td>
-<td>206</td>
-<td>N 56º13' E</td>
-<td>594.01 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On cultivated land</td>
-</tr>
-<tr>
-<td></td>
-<td>207</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>207</td>
-<td>207</td>
-<td>N 71º34' E</td>
-<td>920.68 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Bank of Marber</td>
-</tr>
-<tr>
-<td></td>
-<td>208</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>River</td>
-</tr>
-<tr>
-<td>208</td>
-<td>208</td>
-<td>N 74º38' E</td>
-<td>1,095.08 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>209</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>209</td>
-<td>209</td>
-<td>N 86º40' E</td>
-<td>480.75 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>210</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>210</td>
-<td>210</td>
-<td>N 34º45' E</td>
-<td>485.23 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>211</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>211</td>
-<td>211</td>
-<td>N 12°39' E</td>
-<td>511.75 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>212</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>212</td>
-<td>212</td>
-<td>N 81°02' E</td>
-<td>749.38 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>213</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>213</td>
-<td>213</td>
-<td>S 77°43' E</td>
-<td>695.02 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>214</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>214</td>
-<td>214</td>
-<td>N 55º19' E</td>
-<td>515.09 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>215</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>215</td>
-<td>215</td>
-<td>S 53°51' E</td>
-<td>502.87 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>216</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>216</td>
-<td>216</td>
-<td>S 52°03' E</td>
-<td>694.79 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>217</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>217</td>
-<td>217</td>
-<td>S 89°45' E</td>
-<td>507.80 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>218</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>218</td>
-<td>218</td>
-<td>S 44º09' E</td>
-<td>538.63 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>219</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>219</td>
-<td>219</td>
-<td>S 75°49' E</td>
-<td>746.71 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>220</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>220</td>
-<td>220</td>
-<td>N 61º12' E</td>
-<td>514.57 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>221</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>221</td>
-<td>221</td>
-<td>N 68°17' E</td>
-<td>511.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>222</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>222</td>
-<td>222</td>
-<td>N 14º33' E</td>
-<td>475.54 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Slope of ridge north</td>
-</tr>
-<tr>
-<td></td>
-<td>223</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>of Kabacan River</td>
-</tr>
-<tr>
-<td>223</td>
-<td>223</td>
-<td>N 34°18' E</td>
-<td>548.94 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>224</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>224</td>
-<td>224</td>
-<td>N 64°52' E</td>
-<td>484.01 meters</td>
-<td>20 CM X 20 CM</td>
-<td>On slope of ridge</td>
-</tr>
-<tr>
-<td></td>
-<td>225</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td></td>
-</tr>
-<tr>
-<td>225</td>
-<td>225</td>
-<td>S 23°16' W</td>
-<td>1,803.49 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>226</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>129, MANP</td>
-</tr>
-<tr>
-<td>226</td>
-<td>226</td>
-<td>S 83°22' W</td>
-<td>1,398.22 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>227</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>128, MANP</td>
-</tr>
-<tr>
-<td>227</td>
-<td>227</td>
-<td>N 67°46' W</td>
-<td>2,259.01 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>228</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>127, MANP</td>
-</tr>
-<tr>
-<td>228</td>
-<td>228</td>
-<td>S 71°09' W</td>
-<td>3,615.81 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>229</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>126, MANP</td>
-</tr>
-<tr>
-<td>229</td>
-<td>229</td>
-<td>S 51º09' E</td>
-<td>1,734.11 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>230</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>125, MANP</td>
-</tr>
-<tr>
-<td>230</td>
-<td>230</td>
-<td>S 09°47' W</td>
-<td>588.56 meters</td>
-<td>20 CM X 20 CM</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>231</td>
-<td></td>
-<td></td>
-<td>Conc. Monument</td>
-<td>224, MANP</td>
-</tr>
-<tr>
-<td>231</td>
-<td>231</td>
-<td>S 61º23' E</td>
-<td>751.84 meters</td>
-<td>A point</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>232</td>
-<td></td>
-<td></td>
-<td></td>
-<td>01 Geothermal Res.</td>
-</tr>
-<tr>
-<td>232</td>
-<td>232</td>
-<td>N 14º02' W</td>
-<td>371.07 meters</td>
-<td>A point</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>233</td>
-<td></td>
-<td></td>
-<td></td>
-<td>04 Geothermal Res.</td>
-</tr>
-<tr>
-<td>233</td>
-<td>233</td>
-<td>S 46°58' E</td>
-<td>615.63 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>234</td>
-<td></td>
-<td></td>
-<td></td>
-<td>119, MANP</td>
-</tr>
-<tr>
-<td>234</td>
-<td>234</td>
-<td>S 29°51' W</td>
-<td>92.42 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>235</td>
-<td></td>
-<td></td>
-<td></td>
-<td>118, MANP</td>
-</tr>
-<tr>
-<td>235</td>
-<td>235</td>
-<td>S 52º12' W</td>
-<td>620.00 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>236</td>
-<td></td>
-<td></td>
-<td></td>
-<td>117, MANP</td>
-</tr>
-<tr>
-<td>236</td>
-<td>236</td>
-<td>S 37º48' W</td>
-<td>820.00 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>237</td>
-<td></td>
-<td></td>
-<td></td>
-<td>116, MANP</td>
-</tr>
-<tr>
-<td>237</td>
-<td>237</td>
-<td>S 89°00' W</td>
-<td>1,633.62 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>238</td>
-<td></td>
-<td></td>
-<td></td>
-<td>115, MANP</td>
-</tr>
-<tr>
-<td>238</td>
-<td>238</td>
-<td>S 59º42' W</td>
-<td>558.32 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>239</td>
-<td></td>
-<td></td>
-<td></td>
-<td>114, MANP</td>
-</tr>
-<tr>
-<td>239</td>
-<td>239</td>
-<td>S 05°58' W</td>
-<td>788.39 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>240</td>
-<td></td>
-<td></td>
-<td></td>
-<td>113, MANP</td>
-</tr>
-<tr>
-<td>240</td>
-<td>240</td>
-<td>S 41°59' W</td>
-<td>598.15 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>241</td>
-<td></td>
-<td></td>
-<td></td>
-<td>112, MANP</td>
-</tr>
-<tr>
-<td>241</td>
-<td>241</td>
-<td>S 78°35' W</td>
-<td>281.30 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>242</td>
-<td></td>
-<td></td>
-<td></td>
-<td>111, MANP</td>
-</tr>
-<tr>
-<td>242</td>
-<td>242</td>
-<td>S 64º57' W</td>
-<td>510.64 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>243</td>
-<td></td>
-<td></td>
-<td></td>
-<td>110, MANP</td>
-</tr>
-<tr>
-<td>243</td>
-<td>243</td>
-<td>S 38°07' W</td>
-<td>293.20 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>244</td>
-<td></td>
-<td></td>
-<td></td>
-<td>109, MANP</td>
-</tr>
-<tr>
-<td>244</td>
-<td>244</td>
-<td>S 69°21' W</td>
-<td>487.24 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>245</td>
-<td></td>
-<td></td>
-<td></td>
-<td>108, MANP</td>
-</tr>
-<tr>
-<td>245</td>
-<td>245</td>
-<td>N 86º13' W</td>
-<td>971.65 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>246</td>
-<td></td>
-<td></td>
-<td></td>
-<td>107, MANP</td>
-</tr>
-<tr>
-<td>246</td>
-<td>246</td>
-<td>S 01°27' E</td>
-<td>417.96 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>247</td>
-<td></td>
-<td></td>
-<td></td>
-<td>106, MANP</td>
-</tr>
-<tr>
-<td>247</td>
-<td>247</td>
-<td>S 37°47' E</td>
-<td>506.92 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>248</td>
-<td></td>
-<td></td>
-<td></td>
-<td>105, MANP</td>
-</tr>
-<tr>
-<td>248</td>
-<td>248</td>
-<td>S 16°02' W</td>
-<td>1,893.96 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>249</td>
-<td></td>
-<td></td>
-<td></td>
-<td>104, MANP</td>
-</tr>
-<tr>
-<td>249</td>
-<td>249</td>
-<td>S 06°24' W</td>
-<td>1,348.10 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>250</td>
-<td></td>
-<td></td>
-<td></td>
-<td>103, MANP</td>
-</tr>
-<tr>
-<td>250</td>
-<td>250</td>
-<td>S 12°56' E</td>
-<td>2,053.92 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>251</td>
-<td></td>
-<td></td>
-<td></td>
-<td>102, MANP</td>
-</tr>
-<tr>
-<td>251</td>
-<td>251</td>
-<td>S 05°06' E</td>
-<td>2,161.48 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>252</td>
-<td></td>
-<td></td>
-<td></td>
-<td>101, MANP</td>
-</tr>
-<tr>
-<td>252</td>
-<td>252</td>
-<td>S 50°00' E</td>
-<td>1,791.19 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>253</td>
-<td></td>
-<td></td>
-<td></td>
-<td>100, MANP</td>
-</tr>
-<tr>
-<td>253</td>
-<td>253</td>
-<td>S 82°47' E</td>
-<td>672.03 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>254</td>
-<td></td>
-<td></td>
-<td></td>
-<td>99, MANP</td>
-</tr>
-<tr>
-<td>254</td>
-<td>254</td>
-<td>S 76°48' E</td>
-<td>320.53 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>255</td>
-<td></td>
-<td></td>
-<td></td>
-<td>98, MANP</td>
-</tr>
-<tr>
-<td>255</td>
-<td>255</td>
-<td>S 46°52' E</td>
-<td>542.18 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>256</td>
-<td></td>
-<td></td>
-<td></td>
-<td>97, MANP</td>
-</tr>
-<tr>
-<td>256</td>
-<td>256</td>
-<td>S 01°19' E</td>
-<td>1,032.99 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>257</td>
-<td></td>
-<td></td>
-<td></td>
-<td>96, MANP</td>
-</tr>
-<tr>
-<td>257</td>
-<td>257</td>
-<td>S 20°46' E</td>
-<td>3,193.79 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>258</td>
-<td></td>
-<td></td>
-<td></td>
-<td>95, MANP</td>
-</tr>
-<tr>
-<td>258</td>
-<td>258</td>
-<td>S 46°16' W</td>
-<td>2,359.62 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>259</td>
-<td></td>
-<td></td>
-<td></td>
-<td>94, MANP</td>
-</tr>
-<tr>
-<td>259</td>
-<td>259</td>
-<td>S 53°47' E</td>
-<td>3,390.96 meters</td>
-<td>STAKE</td>
-<td>Identical to cor:</td>
-</tr>
-<tr>
-<td></td>
-<td>260</td>
-<td></td>
-<td></td>
-<td></td>
-<td>93, MANP</td>
-</tr>
-<tr>
-<td>260</td>
-<td>260</td>
-<td>S 00°09' E</td>
-<td>487.82 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>261</td>
-<td></td>
-<td></td>
-<td></td>
-<td>92, MANP</td>
-</tr>
-<tr>
-<td>261</td>
-<td>261</td>
-<td>S 57°56' E</td>
-<td>564.60 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>262</td>
-<td></td>
-<td></td>
-<td></td>
-<td>91, MANP</td>
-</tr>
-<tr>
-<td>262</td>
-<td>262</td>
-<td>S 27º59' E</td>
-<td>1,076.23 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>263</td>
-<td></td>
-<td></td>
-<td></td>
-<td>90, MANP</td>
-</tr>
-<tr>
-<td>263</td>
-<td>263</td>
-<td>N 88°37' E</td>
-<td>352.11 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>264</td>
-<td></td>
-<td></td>
-<td></td>
-<td>89, MANP</td>
-</tr>
-<tr>
-<td>264</td>
-<td>264</td>
-<td>S 78°21' E</td>
-<td>767.59 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td>88, MANP</td>
-</tr>
-<tr>
-<td>265</td>
-<td>265</td>
-<td>N 82º42' E</td>
-<td>1,921.99 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>266</td>
-<td></td>
-<td></td>
-<td></td>
-<td>87, MANP</td>
-</tr>
-<tr>
-<td>266</td>
-<td>266</td>
-<td>S 84°54' E</td>
-<td>1,918.83 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>267</td>
-<td></td>
-<td></td>
-<td></td>
-<td>86, MANP</td>
-</tr>
-<tr>
-<td>267</td>
-<td>267</td>
-<td>N 26º19' E</td>
-<td>867.72 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>268</td>
-<td></td>
-<td></td>
-<td></td>
-<td>85, MANP</td>
-</tr>
-<tr>
-<td>268</td>
-<td>268</td>
-<td>N 52°09' E</td>
-<td>502.97 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>269</td>
-<td></td>
-<td></td>
-<td></td>
-<td>84, MANP</td>
-</tr>
-<tr>
-<td>269</td>
-<td>269</td>
-<td>S 89°34' E</td>
-<td>798.06 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>270</td>
-<td></td>
-<td></td>
-<td></td>
-<td>83, MANP</td>
-</tr>
-<tr>
-<td>270 270 N 61°39' E</td>
-<td>428.68 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>271</td>
-<td></td>
-<td></td>
-<td></td>
-<td>82, MANP</td>
-</tr>
-<tr>
-<td>271</td>
-<td>271</td>
-<td>S 86º49' E</td>
-<td>903.14 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>272</td>
-<td></td>
-<td></td>
-<td></td>
-<td>81, MANP</td>
-</tr>
-<tr>
-<td>272</td>
-<td>272</td>
-<td>S 43°58' E</td>
-<td>528.01 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>273</td>
-<td></td>
-<td></td>
-<td></td>
-<td>80, MANP</td>
-</tr>
-<tr>
-<td>273</td>
-<td>273</td>
-<td>S 42º21' E</td>
-<td>890.68 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>274</td>
-<td></td>
-<td></td>
-<td></td>
-<td>79, MANP</td>
-</tr>
-<tr>
-<td>274 274</td>
-<td>S 63º53' E</td>
-<td>1,223.94 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>275</td>
-<td></td>
-<td></td>
-<td></td>
-<td>78, MANP</td>
-</tr>
-<tr>
-<td>275</td>
-<td>275</td>
-<td>S 24°39' E</td>
-<td>672.95 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>276</td>
-<td></td>
-<td></td>
-<td></td>
-<td>77, MANP</td>
-</tr>
-<tr>
-<td>276 276</td>
-<td>S 36°01' E</td>
-<td>1,216.78 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>277</td>
-<td></td>
-<td></td>
-<td></td>
-<td>76, MANP</td>
-</tr>
-<tr>
-<td>277</td>
-<td>277</td>
-<td>S 49°54' E</td>
-<td>1,109.34 meters</td>
-<td>STAKE</td>
-<td>Identical to cor.</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>75, MANP</td>
-</tr>
-</table>
+CORNER
+
+LINE
+
+BEARING
+
+DISTANCE
+
+CORNER MONUMENT
+
+REFERENCE OR LOCATION
+
+1
+
+1
+
+S 08°17' W
+
+1,070.03 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+2
+
+Conc. Monument
+
+79, MANP
+
+2
+
+2
+
+N 43°20' W
+
+400.00 meters
+
+20 CM X 20 CM
+
+West bank of
+
+3
+
+Conc. Monument
+
+Ruparan River
+
+3
+
+3
+
+N 43°20' W
+
+400.00 meters
+
+20 CM X 20 CM
+
+On land planted
+
+4
+
+Conc. Monument
+
+w/ sugarcane
+
+4
+
+4
+
+N 43°20' W
+
+400.00 meters
+
+20 CM X 20 CM
+
+On land planted
+
+5
+
+Conc. Monument
+
+w/ sugarcane
+
+5
+
+5
+
+N 43°20' W
+
+400.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+6
+
+Conc. Monument
+
+6
+
+6
+
+N 43°20' W
+
+481.82 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+7
+
+Conc. Monument
+
+7
+
+7
+
+N 64°55' W
+
+481.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+8
+
+Conc. Monument
+
+8
+
+8
+
+N 37°49' W
+
+450.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+9
+
+Conc. Monument
+
+9
+
+9
+
+N 37º49' W
+
+450.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+10
+
+Conc. Monument
+
+10
+
+10
+
+N 37°49' W
+
+450.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+11
+
+Conc. Monument
+
+11
+
+11
+
+N 37º49' W
+
+450.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+12
+
+Conc. Monument
+
+12
+
+12
+
+N 37°49' W
+
+513.33 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+13
+
+Conc. Monument
+
+unknown cr.
+
+13
+
+13
+
+N 52°51' W
+
+491.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+14
+
+Conc. Monument
+
+west of Guna River
+
+14
+
+14
+
+S 82°03' W
+
+370.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+15
+
+Conc. Monument
+
+west of Guna River
+
+15
+
+15
+
+S 82º03' W
+
+369.74 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+16
+
+Conc. Monument
+
+16
+
+16
+
+N 56º46' W
+
+385.52 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+17
+
+Conc. Monument
+
+17
+
+17
+
+S 13º22' W
+
+369.51 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+18
+
+Conc. Monument
+
+18
+
+18
+
+S 55°35' W
+
+472.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+19
+
+Conc. Monument
+
+19
+
+19
+
+S 55°35' W
+
+472.80 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+20
+
+Conc. Monument
+
+20
+
+20
+
+N 86°04' W
+
+481.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+21
+
+Conc. Monument
+
+21
+
+21
+
+N 86º04' W
+
+480.59 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+22
+
+Conc. Monument
+
+22
+
+22
+
+N 67º37' W
+
+319.45 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+23
+
+Conc. Monument
+
+23
+
+23
+
+S 28°18' W
+
+474.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+24
+
+Conc. Monument
+
+24
+
+24
+
+S 28°18' W
+
+474.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+25
+
+Conc. Monument
+
+25
+
+25
+
+S 28º18' W
+
+473.60 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+26
+
+Conc. Monument
+
+26
+
+26
+
+S 44º36' W
+
+552.24 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+27
+
+Conc. Monument
+
+27
+
+27
+
+S 44°36' W
+
+552.24 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+28
+
+Conc. Monument
+
+28
+
+28
+
+S 89°33' W
+
+556.05 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+29
+
+Conc. Monument
+
+29
+
+29
+
+S 89°33' W
+
+556.06 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+30
+
+Conc. Monument
+
+30
+
+30
+
+N 27°27' W
+
+457.18 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+31
+
+Conc. Monument
+
+31
+
+31
+
+N 70°38' W
+
+666.55 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+32
+
+Conc. Monument
+
+32
+
+32
+
+S 70°38' W
+
+405.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+33
+
+Conc. Monument
+
+33
+
+33
+
+S 70º38' W
+
+405.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+34
+
+Conc. Monument
+
+34
+
+34
+
+N 56°22' W
+
+576.53 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+35
+
+Conc. Monument
+
+35
+
+35
+
+N 23°06' W
+
+432.74 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+36
+
+Conc. Monument
+
+36
+
+36
+
+N 23°06' W
+
+432.74 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+37
+
+Conc. Monument
+
+37
+
+37
+
+N 57°13' W
+
+255.53 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+38
+
+Conc. Monument
+
+38
+
+38
+
+N 21°36' W
+
+597.70 meters
+
+20 CM X 20 CM
+
+Bank of Moral
+
+39
+
+Conc. Monument
+
+River
+
+39
+
+39
+
+N 50°06' W
+
+544.26 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+40
+
+Conc. Monument
+
+40
+
+40
+
+N 50°06' W
+
+544.26 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+41
+
+Conc. Monument
+
+41
+
+41
+
+N 50°06' W
+
+544.26 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+42
+
+Conc. Monument
+
+42
+
+42
+
+N 54°41' W
+
+687.07 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+43
+
+Conc. Monument
+
+43
+
+43
+
+N 40°08' W
+
+679.01 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+44
+
+Conc. Monument
+
+44
+
+44
+
+S 88°21' W
+
+416.82 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+45
+
+Conc. Monument
+
+45
+
+45
+
+S 88°21' W
+
+416.82 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+46
+
+Conc. Monument
+
+46
+
+46
+
+N 50º51' W
+
+513.23 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+47
+
+Conc. Monument
+
+47
+
+47
+
+N 50°51' W
+
+513.24 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+48
+
+Conc. Monument
+
+48
+
+48
+
+N 07°01' W
+
+513.93 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+49
+
+Conc. Monument
+
+49
+
+49
+
+N 74º47' W
+
+387.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+50
+
+Conc. Monument
+
+50
+
+50
+
+N 45º52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+51
+
+Conc. Monument
+
+51
+
+51
+
+N 45°52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+52
+
+Conc. Monument
+
+52
+
+52
+
+N 45º52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+53
+
+Conc. Monument
+
+53
+
+53
+
+N 45º52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+54
+
+Conc. Monument
+
+54
+
+54
+
+N 45°52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+55
+
+Conc. Monument
+
+55
+
+55
+
+N 45°52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+56
+
+Conc. Monument
+
+56
+
+56
+
+N 45º52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+57
+
+Conc. Monument
+
+57
+
+57
+
+N 45°52' E
+
+421.69 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+58
+
+Conc. Monument
+
+58
+
+58
+
+N 45°52' E
+
+421.75 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+59
+
+Conc. Monument
+
+59
+
+59
+
+N 52º38' W
+
+219.42 meters
+
+20 CM X 20 CM
+
+Bank of Matanao
+
+60
+
+Conc. Monument
+
+River
+
+60
+
+60
+
+N 42º16' W
+
+325.45 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+61
+
+Conc. Monument
+
+61
+
+61
+
+N 37º50' W
+
+190.47 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+62
+
+Conc. Monument
+
+62
+
+62
+
+N 45°15' W
+
+335.05 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+63
+
+Conc. Monument
+
+63
+
+63
+
+N 16°52' W
+
+300.70 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+64
+
+Conc. Monument
+
+64
+
+64
+
+N 68°18' W
+
+239.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+65
+
+Conc. Monument
+
+65
+
+65
+
+N 64°30' W
+
+363.10 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+66
+
+Conc. Monument
+
+66
+
+66
+
+N 19°38' W
+
+372.02 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+67
+
+Conc. Monument
+
+67
+
+67
+
+N 56°38' W
+
+352.12 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+68
+
+Conc. Monument
+
+68
+
+68
+
+N 25°48' E
+
+544.59 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+69
+
+Conc. Monument
+
+69
+
+69
+
+N 41°01' E
+
+579.42 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+70
+
+Conc. Monument
+
+70
+
+70
+
+N 26°30' W
+
+374.40 meters
+
+20 CM X 20 CM
+
+Bank of Darapuay
+
+71
+
+Conc. Monument
+
+River
+
+71
+
+71
+
+N 29°00' E
+
+322.11 meters
+
+20 CM X 20 CM
+
+Bank of Darapuay
+
+72
+
+Conc. Monument
+
+River
+
+72
+
+72
+
+N 70°53' W
+
+145.26 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+73
+
+Conc. Monument
+
+73
+
+73
+
+N 74°20' W
+
+246.28 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+74
+
+Conc. Monument
+
+74
+
+74
+
+N 59°14' W
+
+226.30 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+75
+
+Conc. Monument
+
+75
+
+75
+
+S 60°53' W
+
+137.63 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+76
+
+Conc. Monument
+
+76
+
+76
+
+S 19°37' W
+
+241.07 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+77
+
+Conc. Monument
+
+77
+
+77
+
+N 52°34' W
+
+181.94 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+78
+
+Conc. Monument
+
+78
+
+78
+
+N 75°07' W
+
+227.31 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+79
+
+Conc. Monument
+
+79
+
+79
+
+N 76°43' W
+
+243.70 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+80
+
+Conc. Monument
+
+80
+
+80
+
+N 12°20' E
+
+322.03 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+81
+
+Conc. Monument
+
+81
+
+81
+
+N 06°19' W
+
+218.85 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+82
+
+Conc. Monument
+
+82
+
+82
+
+N 21º48' W
+
+339.70 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+83
+
+Conc. Monument
+
+83
+
+83
+
+N 66°29' W
+
+214.94 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+84
+
+Conc. Monument
+
+84
+
+84
+
+N 24º22' W
+
+228.13 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+85
+
+Conc. Monument
+
+85
+
+85
+
+N 59º57' W
+
+256.35 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+86
+
+Conc. Monument
+
+86
+
+86
+
+N 18°47' W
+
+306.65 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+87
+
+Conc. Monument
+
+87
+
+87
+
+S 29º29' W
+
+286.43 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+88
+
+Conc. Monument
+
+88
+
+88
+
+N 72º20' W
+
+358.85 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+89
+
+Conc. Monument
+
+89
+
+89
+
+N 81º33' W
+
+244.92 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+90
+
+Conc. Monument
+
+90
+
+90
+
+S 84º28' W
+
+223.56 meters
+
+20 CM X 20 CM
+
+Bank of Bulatukan
+
+91
+
+Conc. Monument
+
+River
+
+91
+
+91
+
+S 78º36' W
+
+247.51 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+92
+
+Conc. Monument
+
+92
+
+92
+
+N 53°38' W
+
+228.94 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+93
+
+Conc. Monument
+
+93
+
+93
+
+N 44°45' W
+
+275.67 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+94
+
+Conc. Monument
+
+94
+
+94
+
+N 58°46' E
+
+574.34 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+95
+
+Conc. Monument
+
+95
+
+95
+
+N 13º32' E
+
+326.12 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+96
+
+Conc. Monument
+
+96
+
+96
+
+N 06º10' W
+
+223.82 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+97
+
+Conc. Monument
+
+97
+
+97
+
+N 61°40' E
+
+606.13 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+98
+
+Conc. Monument
+
+98
+
+98
+
+N 02°49' E
+
+334.72 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+99
+
+Conc. Monument
+
+99
+
+99
+
+N 38º06' W
+
+261.89 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+100
+
+Conc. Monument
+
+100
+
+100
+
+N 37°53' W
+
+295.47 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+101
+
+Conc. Monument
+
+101
+
+101
+
+N 22º23' W
+
+92.47 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+102
+
+Conc. Monument
+
+102
+
+102
+
+N 10°34' W
+
+226.44 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+103
+
+Conc. Monument
+
+103
+
+103
+
+N 10º56' W
+
+206.41 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+104
+
+Conc. Monument
+
+104
+
+104
+
+N 39°56' W
+
+147.19 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+105
+
+Conc. Monument
+
+105
+
+105
+
+N 13°11' W
+
+172.15 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+106
+
+Conc. Monument
+
+106
+
+106
+
+N 34°10' W
+
+163.59 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+107
+
+Conc. Monument
+
+107
+
+107
+
+N 31º31' W
+
+264.89 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+108
+
+Conc. Monument
+
+108
+
+108
+
+N 15º34' E
+
+189.16 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+109
+
+Conc. Monument
+
+109
+
+109
+
+N 23°09' E
+
+385.25 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+110
+
+Conc. Monument
+
+110
+
+110
+
+N 58º23' W
+
+120.01 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+111
+
+Conc. Monument
+
+111
+
+111
+
+N 34°14' W
+
+251.63 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+112
+
+Conc. Monument
+
+112
+
+112
+
+N 58°56' W
+
+180.44 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+113
+
+Conc. Monument
+
+113
+
+113
+
+N 34°28' E
+
+151.11 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+114
+
+Conc. Monument
+
+114
+
+114
+
+N 07°21' W
+
+264.73 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+115
+
+Conc. Monument
+
+115
+
+115
+
+N 03°15' E
+
+237.75 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+116
+
+Conc. Monument
+
+116
+
+116
+
+N 49º07' E
+
+209.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+117
+
+Conc. Monument
+
+117
+
+117
+
+N 25º45' E
+
+222.42 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+118
+
+Conc. Monument
+
+118
+
+118
+
+N 28º28' E
+
+116.28 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+119
+
+Conc. Monument
+
+119
+
+119
+
+N 14º59' E
+
+104.64 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+120
+
+Conc. Monument
+
+120
+
+120
+
+N 06º57' E
+
+235.53 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+121
+
+Conc. Monument
+
+121
+
+121
+
+N 29º12' W
+
+177.93 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+122
+
+Conc. Monument
+
+122
+
+122
+
+N 66º00' W
+
+204.78 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+123
+
+Conc. Monument
+
+123
+
+123
+
+N 18º27' W
+
+171.50 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+124
+
+Conc. Monument
+
+124
+
+124
+
+N 46º55' W
+
+187.45 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+125
+
+Conc. Monument
+
+125
+
+125
+
+N 63º11' W
+
+106.18 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+126
+
+Conc. Monument
+
+126
+
+126
+
+N 00º15' E
+
+84.97 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+127
+
+Conc. Monument
+
+127
+
+127
+
+N 34º58' E
+
+465.16 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+128
+
+Conc. Monument
+
+128
+
+128
+
+N 32º48' E
+
+246.11 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+129
+
+Conc. Monument
+
+129
+
+129
+
+N 32º 29' E
+
+327.96 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+130
+
+Conc. Monument
+
+130
+
+130
+
+N 23º13' E
+
+409.96 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+131
+
+Conc. Monument
+
+131
+
+131
+
+N 35º11' E
+
+222.55 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+132
+
+Conc. Monument
+
+132
+
+132
+
+N 21º54' E
+
+352.23 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+133
+
+Conc. Monument
+
+133
+
+133
+
+N 25º01' W
+
+246.03 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+134
+
+Conc. Monument
+
+134
+
+134
+
+N 70º28' W
+
+158.87 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+135
+
+Conc. Monument
+
+135
+
+135
+
+N 36°21' W
+
+205.43 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+136
+
+Conc. Monument
+
+136
+
+136
+
+N 33°49' E
+
+320.92 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+137
+
+Conc. Monument
+
+137
+
+137
+
+N 36°48' W
+
+165.94 meters
+
+20C X 20 CM
+
+On cultivated land
+
+138
+
+Conc. Monument
+
+138
+
+138
+
+N 02°55' E
+
+107.58 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+139
+
+Conc. Monument
+
+139
+
+139
+
+N 08°51' W
+
+63.27 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+140
+
+Conc. Monument
+
+140
+
+140
+
+N 27°50' W
+
+84.97 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+141
+
+Conc. Monument
+
+141
+
+141
+
+N 54°42' E
+
+85.99 meters
+
+20 CM X 20 CM
+
+Bank of Saging
+
+142
+
+Conc. Monument
+
+River
+
+142
+
+142
+
+N 51°47' W
+
+995.32 meters
+
+20 CM X 20 CM
+
+Bank of Saging
+
+143
+
+Conc. Monument
+
+River
+
+143
+
+143
+
+S 52°57' W
+
+1,357.05 meters
+
+20 CM X 20 CM
+
+Bank of Saging
+
+144
+
+Conc. Monument
+
+River
+
+144
+
+144
+
+N 39°41' W
+
+159.67 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+145
+
+Conc. Monument
+
+145
+
+145
+
+N 27°03' E
+
+537.59 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+146
+
+Conc. Monument
+
+146
+
+146
+
+N 44°55' E
+
+312.79 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+147
+
+Conc. Monument
+
+147
+
+147
+
+N 65°50' E
+
+356.78 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+148
+
+Conc. Monument
+
+148
+
+148
+
+N 26º31' E
+
+212.59 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+149
+
+Conc. Monument
+
+149
+
+149
+
+N 30°55' E
+
+342.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+150
+
+Conc. Monument
+
+150
+
+150
+
+N 48°37' E
+
+240.75 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+151
+
+Conc. Monument
+
+151
+
+151
+
+N 26º48' W
+
+269.36 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+152
+
+Conc. Monument
+
+152
+
+152
+
+N 35º43' E
+
+245.49 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+153
+
+Conc. Monument
+
+153
+
+153
+
+N 11°04' W
+
+254.86 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+154
+
+Conc. Monument
+
+154
+
+154
+
+N 15°08' W
+
+207.35 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+155
+
+Conc. Monument
+
+155
+
+155
+
+N 78°41' W
+
+598.44 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+156
+
+Conc. Monument
+
+156
+
+156
+
+N 01°02' W
+
+334.97 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+157
+
+Conc. Monument
+
+157
+
+157
+
+N 50°10' E
+
+267.83 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+158
+
+Conc. Monument
+
+158
+
+158
+
+N 42°16' E
+
+272.51 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+159
+
+Conc. Monument
+
+159
+
+159
+
+N 83°25' E
+
+294.48 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+160
+
+Conc. Monument
+
+160
+
+160
+
+N 46°43' E
+
+134.02 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+161
+
+Conc. Monument
+
+161
+
+161
+
+S 19°11' E
+
+202.00 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+162
+
+Conc. Monument
+
+162
+
+162
+
+S 01°34' W
+
+44.03 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+163
+
+Conc. Monument
+
+163
+
+163
+
+S 80º 57' W
+
+60.92 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+164
+
+Conc. Monument
+
+164
+
+164
+
+N 10°53' W
+
+39.72 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+165
+
+Conc. Monument
+
+165
+
+165
+
+N 84°14' W
+
+98.93 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+166
+
+Conc. Monument
+
+166
+
+166
+
+S 45°46' E
+
+30.96 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+167
+
+Conc. Monument
+
+167
+
+167
+
+S 12°33' W
+
+46.68 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+168
+
+Conc. Monument
+
+168
+
+168
+
+N 65°03' E
+
+38.04 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+169
+
+Conc. Monument
+
+169
+
+169
+
+N 87°09' E
+
+41.10 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+170
+
+Conc. Monument
+
+170
+
+170
+
+S 43º08' E
+
+30.14 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+171
+
+Conc. Monument
+
+171
+
+171
+
+S 67°04' E
+
+64.94 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+172
+
+Conc. Monument
+
+172
+
+172
+
+S 70°40' E
+
+33.39 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+173
+
+Conc. Monument
+
+173
+
+173
+
+N 77°58' E
+
+23.84 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+174
+
+Conc. Monument
+
+174
+
+174
+
+S 71°30' E
+
+161.36 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+175
+
+Conc. Monument
+
+175
+
+175
+
+S 58°39' E
+
+157.27 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+176
+
+Conc. Monument
+
+176
+
+176
+
+S 78°44' E
+
+66.91 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+177
+
+Conc. Monument
+
+177
+
+177
+
+S 72°23' E
+
+64.58 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+178
+
+Conc. Monument
+
+178
+
+178
+
+S 79°12' E
+
+58.92 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+179
+
+Conc. Monument
+
+179
+
+179
+
+S 77°43' E
+
+67.98 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+180
+
+Conc. Monument
+
+180
+
+180
+
+S 68°51' E
+
+19.51 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+181
+
+Conc. Monument
+
+181
+
+181
+
+S 69°49' E
+
+50.09 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+182
+
+Conc. Monument
+
+182
+
+182
+
+N 50°04' E
+
+32.34 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+183
+
+Conc. Monument
+
+183
+
+183
+
+N 69°10' E
+
+20.28 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+184
+
+Conc. Monument
+
+184
+
+184
+
+S 58°54' E
+
+75.80 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+185
+
+Conc. Monument
+
+185
+
+185
+
+N 64º23' E
+
+57.60 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+186
+
+Conc. Monument
+
+186
+
+186
+
+S 43°04' E
+
+22.41 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+187
+
+Conc. Monument
+
+187
+
+187
+
+N 57º34' E
+
+24.58 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+188
+
+Conc. Monument
+
+188
+
+188
+
+S 53º42' E
+
+58.57 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+189
+
+Conc. Monument
+
+189
+
+189
+
+S 79°31' E
+
+13.17 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+190
+
+Conc. Monument
+
+190
+
+190
+
+N 62°55' E
+
+36.16 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+191
+
+Conc. Monument
+
+191
+
+191
+
+S 88°44' E
+
+117.56 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+192
+
+Conc. Monument
+
+192
+
+192
+
+N 67º40' E
+
+23.06 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+193
+
+Conc. Monument
+
+193
+
+193
+
+S 34°44' E
+
+27.89 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+194
+
+Conc. Monument
+
+194
+
+194
+
+S 48°29' E
+
+34.71 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+195
+
+Conc. Monument
+
+195
+
+195
+
+N 05°35' E
+
+37.85 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+196
+
+Conc. Monument
+
+196
+
+196
+
+N 03º17' E
+
+203.55 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+197
+
+Conc. Monument
+
+197
+
+197
+
+N 02°38' E
+
+196.27 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+198
+
+Conc. Monument
+
+198
+
+198
+
+S 88°10' E
+
+247.93 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+199
+
+Conc. Monument
+
+199
+
+199
+
+N 03°09' E
+
+203.35 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+200
+
+Conc. Monument
+
+200
+
+200
+
+S 89°45' E
+
+116.19 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+201
+
+Conc. Monument
+
+201
+
+201
+
+N 56º33' E
+
+342.40 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+202
+
+Conc. Monument
+
+202
+
+202
+
+N 17°37' W
+
+472.61 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+203
+
+Conc. Monument
+
+203
+
+203
+
+N 46°29' E
+
+325.93 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+204
+
+Conc. Monument
+
+204
+
+204
+
+N 37º54' E
+
+359.20 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+205
+
+Conc. Monument
+
+205
+
+205
+
+N 59º08' E
+
+507.88 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+206
+
+Conc. Monument
+
+206
+
+206
+
+N 56º13' E
+
+594.01 meters
+
+20 CM X 20 CM
+
+On cultivated land
+
+207
+
+Conc. Monument
+
+207
+
+207
+
+N 71º34' E
+
+920.68 meters
+
+20 CM X 20 CM
+
+Bank of Marber
+
+208
+
+Conc. Monument
+
+River
+
+208
+
+208
+
+N 74º38' E
+
+1,095.08 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+209
+
+Conc. Monument
+
+209
+
+209
+
+N 86º40' E
+
+480.75 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+210
+
+Conc. Monument
+
+210
+
+210
+
+N 34º45' E
+
+485.23 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+211
+
+Conc. Monument
+
+211
+
+211
+
+N 12°39' E
+
+511.75 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+212
+
+Conc. Monument
+
+212
+
+212
+
+N 81°02' E
+
+749.38 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+213
+
+Conc. Monument
+
+213
+
+213
+
+S 77°43' E
+
+695.02 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+214
+
+Conc. Monument
+
+214
+
+214
+
+N 55º19' E
+
+515.09 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+215
+
+Conc. Monument
+
+215
+
+215
+
+S 53°51' E
+
+502.87 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+216
+
+Conc. Monument
+
+216
+
+216
+
+S 52°03' E
+
+694.79 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+217
+
+Conc. Monument
+
+217
+
+217
+
+S 89°45' E
+
+507.80 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+218
+
+Conc. Monument
+
+218
+
+218
+
+S 44º09' E
+
+538.63 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+219
+
+Conc. Monument
+
+219
+
+219
+
+S 75°49' E
+
+746.71 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+220
+
+Conc. Monument
+
+220
+
+220
+
+N 61º12' E
+
+514.57 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+221
+
+Conc. Monument
+
+221
+
+221
+
+N 68°17' E
+
+511.94 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+222
+
+Conc. Monument
+
+222
+
+222
+
+N 14º33' E
+
+475.54 meters
+
+20 CM X 20 CM
+
+Slope of ridge north
+
+223
+
+Conc. Monument
+
+of Kabacan River
+
+223
+
+223
+
+N 34°18' E
+
+548.94 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+224
+
+Conc. Monument
+
+224
+
+224
+
+N 64°52' E
+
+484.01 meters
+
+20 CM X 20 CM
+
+On slope of ridge
+
+225
+
+Conc. Monument
+
+225
+
+225
+
+S 23°16' W
+
+1,803.49 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+226
+
+Conc. Monument
+
+129, MANP
+
+226
+
+226
+
+S 83°22' W
+
+1,398.22 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+227
+
+Conc. Monument
+
+128, MANP
+
+227
+
+227
+
+N 67°46' W
+
+2,259.01 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+228
+
+Conc. Monument
+
+127, MANP
+
+228
+
+228
+
+S 71°09' W
+
+3,615.81 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+229
+
+Conc. Monument
+
+126, MANP
+
+229
+
+229
+
+S 51º09' E
+
+1,734.11 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+230
+
+Conc. Monument
+
+125, MANP
+
+230
+
+230
+
+S 09°47' W
+
+588.56 meters
+
+20 CM X 20 CM
+
+Identical to cor.
+
+231
+
+Conc. Monument
+
+224, MANP
+
+231
+
+231
+
+S 61º23' E
+
+751.84 meters
+
+A point
+
+Identical to cor.
+
+232
+
+01 Geothermal Res.
+
+232
+
+232
+
+N 14º02' W
+
+371.07 meters
+
+A point
+
+Identical to cor.
+
+233
+
+04 Geothermal Res.
+
+233
+
+233
+
+S 46°58' E
+
+615.63 meters
+
+STAKE
+
+Identical to cor.
+
+234
+
+119, MANP
+
+234
+
+234
+
+S 29°51' W
+
+92.42 meters
+
+STAKE
+
+Identical to cor.
+
+235
+
+118, MANP
+
+235
+
+235
+
+S 52º12' W
+
+620.00 meters
+
+STAKE
+
+Identical to cor.
+
+236
+
+117, MANP
+
+236
+
+236
+
+S 37º48' W
+
+820.00 meters
+
+STAKE
+
+Identical to cor.
+
+237
+
+116, MANP
+
+237
+
+237
+
+S 89°00' W
+
+1,633.62 meters
+
+STAKE
+
+Identical to cor.
+
+238
+
+115, MANP
+
+238
+
+238
+
+S 59º42' W
+
+558.32 meters
+
+STAKE
+
+Identical to cor.
+
+239
+
+114, MANP
+
+239
+
+239
+
+S 05°58' W
+
+788.39 meters
+
+STAKE
+
+Identical to cor.
+
+240
+
+113, MANP
+
+240
+
+240
+
+S 41°59' W
+
+598.15 meters
+
+STAKE
+
+Identical to cor.
+
+241
+
+112, MANP
+
+241
+
+241
+
+S 78°35' W
+
+281.30 meters
+
+STAKE
+
+Identical to cor.
+
+242
+
+111, MANP
+
+242
+
+242
+
+S 64º57' W
+
+510.64 meters
+
+STAKE
+
+Identical to cor.
+
+243
+
+110, MANP
+
+243
+
+243
+
+S 38°07' W
+
+293.20 meters
+
+STAKE
+
+Identical to cor.
+
+244
+
+109, MANP
+
+244
+
+244
+
+S 69°21' W
+
+487.24 meters
+
+STAKE
+
+Identical to cor.
+
+245
+
+108, MANP
+
+245
+
+245
+
+N 86º13' W
+
+971.65 meters
+
+STAKE
+
+Identical to cor.
+
+246
+
+107, MANP
+
+246
+
+246
+
+S 01°27' E
+
+417.96 meters
+
+STAKE
+
+Identical to cor.
+
+247
+
+106, MANP
+
+247
+
+247
+
+S 37°47' E
+
+506.92 meters
+
+STAKE
+
+Identical to cor.
+
+248
+
+105, MANP
+
+248
+
+248
+
+S 16°02' W
+
+1,893.96 meters
+
+STAKE
+
+Identical to cor.
+
+249
+
+104, MANP
+
+249
+
+249
+
+S 06°24' W
+
+1,348.10 meters
+
+STAKE
+
+Identical to cor.
+
+250
+
+103, MANP
+
+250
+
+250
+
+S 12°56' E
+
+2,053.92 meters
+
+STAKE
+
+Identical to cor.
+
+251
+
+102, MANP
+
+251
+
+251
+
+S 05°06' E
+
+2,161.48 meters
+
+STAKE
+
+Identical to cor.
+
+252
+
+101, MANP
+
+252
+
+252
+
+S 50°00' E
+
+1,791.19 meters
+
+STAKE
+
+Identical to cor.
+
+253
+
+100, MANP
+
+253
+
+253
+
+S 82°47' E
+
+672.03 meters
+
+STAKE
+
+Identical to cor.
+
+254
+
+99, MANP
+
+254
+
+254
+
+S 76°48' E
+
+320.53 meters
+
+STAKE
+
+Identical to cor.
+
+255
+
+98, MANP
+
+255
+
+255
+
+S 46°52' E
+
+542.18 meters
+
+STAKE
+
+Identical to cor.
+
+256
+
+97, MANP
+
+256
+
+256
+
+S 01°19' E
+
+1,032.99 meters
+
+STAKE
+
+Identical to cor.
+
+257
+
+96, MANP
+
+257
+
+257
+
+S 20°46' E
+
+3,193.79 meters
+
+STAKE
+
+Identical to cor.
+
+258
+
+95, MANP
+
+258
+
+258
+
+S 46°16' W
+
+2,359.62 meters
+
+STAKE
+
+Identical to cor.
+
+259
+
+94, MANP
+
+259
+
+259
+
+S 53°47' E
+
+3,390.96 meters
+
+STAKE
+
+Identical to cor:
+
+260
+
+93, MANP
+
+260
+
+260
+
+S 00°09' E
+
+487.82 meters
+
+STAKE
+
+Identical to cor.
+
+261
+
+92, MANP
+
+261
+
+261
+
+S 57°56' E
+
+564.60 meters
+
+STAKE
+
+Identical to cor.
+
+262
+
+91, MANP
+
+262
+
+262
+
+S 27º59' E
+
+1,076.23 meters
+
+STAKE
+
+Identical to cor.
+
+263
+
+90, MANP
+
+263
+
+263
+
+N 88°37' E
+
+352.11 meters
+
+STAKE
+
+Identical to cor.
+
+264
+
+89, MANP
+
+264
+
+264
+
+S 78°21' E
+
+767.59 meters
+
+STAKE
+
+Identical to cor.
+
+265
+
+88, MANP
+
+265
+
+265
+
+N 82º42' E
+
+1,921.99 meters
+
+STAKE
+
+Identical to cor.
+
+266
+
+87, MANP
+
+266
+
+266
+
+S 84°54' E
+
+1,918.83 meters
+
+STAKE
+
+Identical to cor.
+
+267
+
+86, MANP
+
+267
+
+267
+
+N 26º19' E
+
+867.72 meters
+
+STAKE
+
+Identical to cor.
+
+268
+
+85, MANP
+
+268
+
+268
+
+N 52°09' E
+
+502.97 meters
+
+STAKE
+
+Identical to cor.
+
+269
+
+84, MANP
+
+269
+
+269
+
+S 89°34' E
+
+798.06 meters
+
+STAKE
+
+Identical to cor.
+
+270
+
+83, MANP
+
+270 270 N 61°39' E
+
+428.68 meters
+
+STAKE
+
+Identical to cor.
+
+271
+
+82, MANP
+
+271
+
+271
+
+S 86º49' E
+
+903.14 meters
+
+STAKE
+
+Identical to cor.
+
+272
+
+81, MANP
+
+272
+
+272
+
+S 43°58' E
+
+528.01 meters
+
+STAKE
+
+Identical to cor.
+
+273
+
+80, MANP
+
+273
+
+273
+
+S 42º21' E
+
+890.68 meters
+
+STAKE
+
+Identical to cor.
+
+274
+
+79, MANP
+
+274 274
+
+S 63º53' E
+
+1,223.94 meters
+
+STAKE
+
+Identical to cor.
+
+275
+
+78, MANP
+
+275
+
+275
+
+S 24°39' E
+
+672.95 meters
+
+STAKE
+
+Identical to cor.
+
+276
+
+77, MANP
+
+276 276
+
+S 36°01' E
+
+1,216.78 meters
+
+STAKE
+
+Identical to cor.
+
+277
+
+76, MANP
+
+277
+
+277
+
+S 49°54' E
+
+1,109.34 meters
+
+STAKE
+
+Identical to cor.
+
+1
+
+75, MANP
 
 A portion of land immediately adjacent to the PNOC Reservation Area outside the protected area and within the boundary of buffer zone parcel (2) as described in this section shall be allocated as an energy support zone for the sustenance of the existing geothermal installation to ensure the power security in the region. The boundary limits of the energy support zone shall be subject to ground delineation by the PAMB and said energy support zone shall be made part of the land use zoning of the park and its buffer zones: _Provided,_ That other land uses compatible with geothermal energy shall be allowed within the energy support zone: _Provided,_ further, That permits for geothermal activities within the energy support zone shall be secured pursuant to relevant forestry and environmental regulations: _Provided,_ however, That geothermal exploration within the energy support zone for the purpose of increasing the power capacity of the existing project shall only be allowed through a law passed by Congress: _Provided,_ finally, That areas through a law passed by Congress: _Provided,_ finally, That areas within the energy support zone which shall not be used directly for the development and utilization of geothermal energy shall remain under the control and jurisdiction of the PAMB.
 

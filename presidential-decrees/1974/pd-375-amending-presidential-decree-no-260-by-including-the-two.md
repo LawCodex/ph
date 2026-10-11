@@ -1,0 +1,33 @@
+---
+title: "Presidential Decree No. 375 — Amending Presidential Decree No. 260 By Including the Two Hundred-Year-Old Basilica of Taal, Batangas, and the Church of Sta. Maria, Ilocos Sur, Among the National Landmarks and Monuments Declared as National Shrines"
+identifier: "Presidential Decree No. 375"
+number: "375"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-01-14
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_375_1974.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 375
+
+**Amending Presidential Decree No. 260 By Including the Two Hundred-Year-Old Basilica of Taal, Batangas, and the Church of Sta. Maria, Ilocos Sur, Among the National Landmarks and Monuments Declared as National Shrines**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 375 January 14, 1974**
+
+AMENDING PRESIDENTIAL DECREE NO. 260 BY INCLUDING THE TWO HUNDRED-YEAR-OLD BASILICA OF TAAL, BATANGAS, AND THE CHURCH OF STA. MARIA, ILOCOS SUR, AMONG THE NATIONAL LANDMARKS AND MONUMENTS DECLARED AS NATIONAL SHRINES
+
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated 21 September 1972, as amended by Proclamation No. 1104 dated 17 January 1973 and General Order No. 1 dated 22 September 1972, do hereby amend Section 2 of Presidential Decree No. 260 dated August 1, 1973, to read as follows:
+
+"Sec. 2. The Barasoain Church in Malolos, Bulacan, Tirad Pass in Cervantes, Ilocos Sur, the Miagao Church in Miagao, Iloilo, the site of the Battle of Mactan on Mactan Island in Cebu, the San Sebastian Church in Quiapo, Manila, the Church and Convent of Santo Ni_o in Cebu City, the 200-year-old Basilica of Taal, Batangas and the Church of Sta. Maria, Ilocos Sur, are hereby declared as National Shrines Monuments and/or Landmarks in accordance with provisions of R.A. No. 4368 and their preservation, restoration and/or reconstruction shall be under the supervision and control of the National Historical Commission in collaboration with the Department of Tourism."
+
+This Decree shall form a part of the law of the land and shall take effect immediately. All laws, orders, rules and regulations which are inconsistent with this Decree are hereby repealed or modified accordingly.
+
+Done in the City of Manila, this 14th day of January, in the year of Our Lord, nineteen hundred and seventy-four.

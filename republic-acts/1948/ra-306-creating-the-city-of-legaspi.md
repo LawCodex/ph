@@ -765,6 +765,6 @@ _Representative district._ -Until otherwise provided by law, the City of Legaspi
 
 ### Section 92
 
-. _Effectivity._ — This Act shall take effect upon proclamation of the President of the Philippines.
+_Effectivity._ — This Act shall take effect upon proclamation of the President of the Philippines.
 
 Approved: June 18, 1948.

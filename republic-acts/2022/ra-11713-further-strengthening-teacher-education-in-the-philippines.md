@@ -382,7 +382,7 @@ _Separability Clause._ \- If any provision or part of this Act is declared inval
 
 ## Section 3
 
-. _Repealing Clause._ \- Republic Act No. 7784 andall other laws, executive orders, presidential decrees, administrative orders, rules and regulations, issuances, or parts thereof inconsistent with or contrary to the provisions of this Act are hereby repealed or amended accordingly.
+_Repealing Clause._ \- Republic Act No. 7784 andall other laws, executive orders, presidential decrees, administrative orders, rules and regulations, issuances, or parts thereof inconsistent with or contrary to the provisions of this Act are hereby repealed or amended accordingly.
 
 ## Section 4
 

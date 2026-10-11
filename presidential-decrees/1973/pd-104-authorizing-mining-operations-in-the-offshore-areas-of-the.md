@@ -1,0 +1,32 @@
+---
+title: "Presidential Decree No. 104 — Authorizing Mining Operations in the Offshore Areas of the Municipalities of Agoo and Sto. Tomas, Province of La Union"
+identifier: "Presidential Decree No. 104"
+number: "104"
+type: decree
+jurisdiction: ph
+language: en
+date: 1973-01-23
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1973/pd_104_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 104
+
+**Authorizing Mining Operations in the Offshore Areas of the Municipalities of Agoo and Sto. Tomas, Province of La Union**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 104 January 23, 1973**
+
+AUTHORIZING MINING OPERATIONS IN THE OFFSHORE AREAS OF THE MUNICIPALITIES OF AGOO AND STO. TOMAS, PROVINCE OF LA UNION
+
+By virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, I, FERDINAND E. MARCOS, President of the Philippines, do hereby authorize mining operations in the offshore areas of the municipalities of Agoo and Sto. Tomas, Province of La Union, subject to existing rules and regulations.
+
+Section 2 of Republic Act No. 4570 is hereby repealed.
+
+This Decree is hereby made part of the law of the land and shall take effect immediately.
+
+Done in the City of Manila, this 23rd day of January, in the year of Our Lord, nineteen hundred and seventy-three.

@@ -38,7 +38,7 @@ After the taking by Mr. Hans-Peter Smit of his Oath of Allegiance before an offi
 
 ## Section 3
 
-. Upon registration of the Oath of Allegiance, the Bureau of Immigration shall forthwith issue Mr. Hans-Peter Smit’s Certificate of Naturalization.
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall forthwith issue Mr. Hans-Peter Smit’s Certificate of Naturalization.
 
 ## Section 4
 

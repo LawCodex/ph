@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. The name of the Suop Elementary School in Barangay Igangon, Municipality of Asuncion, Province of Davao, is hereby changed to Igangon Elementary School.
+The name of the Suop Elementary School in Barangay Igangon, Municipality of Asuncion, Province of Davao, is hereby changed to Igangon Elementary School.
 
 ## Section 2
 

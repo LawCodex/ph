@@ -34,7 +34,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 _Title._ — This Act shall be known as the "Naga-Kabasalan Protected Landscape Act.”
 
-**Section** 2\. _Declaration of Policy._ — Cognizant of the profound impact of human activities on all components of the natural environment, it is hereby declared the policy of the State to secure for the Filipino people of present and future generations, the perpetual existence of all native plants and animals through the declaration of protected areas under the National Integrated Protected Areas System (NIPAS) within the classification of national park as provided for in the Constitution.
+### Section 2
+
+_Declaration of Policy._ — Cognizant of the profound impact of human activities on all components of the natural environment, it is hereby declared the policy of the State to secure for the Filipino people of present and future generations, the perpetual existence of all native plants and animals through the declaration of protected areas under the National Integrated Protected Areas System (NIPAS) within the classification of national park as provided for in the Constitution.
 
 In recognition of the richness of the biological resources, both flora and fauna, that are native and distinct to Naga and Kabasalan, as well as their aesthetic and ecological importance, a parcel of land located in the municipalities of Naga and Kabasalan in the Province of Zamboanga Sibugay, and covering the Tipan and Busyawan Watersheds, is hereby declared a protected area with the category of protected landscape, and shall hereinafter be referred to as the Naga-Kabasalan Protected Landscape (NKPL). As such, the State shall ensure the conservation, protection, management and rehabilitation of the area. It is likewise recognized that effective administration of this area is possible only through cooperation among national government, local government units (LGUs), concerned nongovernmental organizations (NGOs), private entities and local communities. The use and enjoyment of this area must be consistent with the principles of biological diversity and sustainable development.
 

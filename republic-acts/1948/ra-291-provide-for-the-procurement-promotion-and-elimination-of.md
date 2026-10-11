@@ -212,6 +212,6 @@ _Repeal of laws._ -All laws and regulations, or provisions thereof, inconsistent
 
 ## Section 15
 
-. _Date of effectivity._ -This Act shall take effect upon its approval.
+_Date of effectivity._ -This Act shall take effect upon its approval.
 
 Approved: June 16, 1948.

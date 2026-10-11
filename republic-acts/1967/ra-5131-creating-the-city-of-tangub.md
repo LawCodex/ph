@@ -754,11 +754,11 @@ _Change of status._ — The city government provided for in this Charter shall b
 
 ### Section 87
 
-. _Participation in election of provincial officials._ — The qualified voters of the City of Tangub shall be qualified and be entitled to vote in the election of Provincial Governor, Provincial Vice-Governor, and Members of the Provincial Board of the Province of Misamis Occidental.
+_Participation in election of provincial officials._ — The qualified voters of the City of Tangub shall be qualified and be entitled to vote in the election of Provincial Governor, Provincial Vice-Governor, and Members of the Provincial Board of the Province of Misamis Occidental.
 
 ### Section 88
 
-. _Congressional District._ — Until otherwise provided by law, the City of Tangub shall continue as part of the lone congressional district of the Province of Misamis Occidental.
+_Congressional District._ — Until otherwise provided by law, the City of Tangub shall continue as part of the lone congressional district of the Province of Misamis Occidental.
 
 ### Section 89
 

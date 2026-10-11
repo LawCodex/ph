@@ -834,19 +834,19 @@ _Dedication of streets, highways and other ways in subdivisions.—_ If the subd
 
 ### Section 100
 
-. _Representative district.—_ Unless otherwise provided by law, the City of San Carlos in Pangasinan shall continue as part of the second representative district of the Province of Pangasinan.
+_Representative district.—_ Unless otherwise provided by law, the City of San Carlos in Pangasinan shall continue as part of the second representative district of the Province of Pangasinan.
 
 ### Section 101
 
-. All existing barrio councils shall remain to exist in accordance with the provisions of the Barrio Charter, Republic Act Numbered Thirty-five hundred ninety.
+All existing barrio councils shall remain to exist in accordance with the provisions of the Barrio Charter, Republic Act Numbered Thirty-five hundred ninety.
 
 ### Section 102
 
-. _Separability clause.—_ If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
+_Separability clause.—_ If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
 
 ### Section 103
 
-. _Repealing clause.—_ All Acts, executive orders, administrative orders and proclamation or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+_Repealing clause.—_ All Acts, executive orders, administrative orders and proclamation or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Article XIX — Effectivity of this Act
 

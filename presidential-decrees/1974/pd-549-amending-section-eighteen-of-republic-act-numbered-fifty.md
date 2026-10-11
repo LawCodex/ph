@@ -1,0 +1,48 @@
+---
+title: "Presidential Decree No. 549 — Amending Section Eighteen of Republic Act Numbered Fifty-One Hundred and Eighty-Five to Place City Works Supervisors Directly Under the Supervision of City Engineers"
+identifier: "Presidential Decree No. 549"
+number: "549"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-09-05
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_549_1974.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 549
+
+**Amending Section Eighteen of Republic Act Numbered Fifty-One Hundred and Eighty-Five to Place City Works Supervisors Directly Under the Supervision of City Engineers**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 549 September 5, 1974**
+
+AMENDING SECTION EIGHTEEN OF REPUBLIC ACT NUMBERED FIFTY-ONE HUNDRED AND EIGHTY-FIVE TO PLACE CITY WORKS SUPERVISORS DIRECTLY UNDER THE SUPERVISION OF CITY ENGINEERS
+
+WHEREAS, the respective charters of all cities include a Department of Engineering headed by the city engineer as one of the departments of the city government;
+
+WHEREAS, these charters also provide that city engineers shall be responsible for undertaking all public works projects financed by city or local funds;
+
+WHEREAS, Republic Act No. 5185, otherwise known as the Decentralization Law, authorizes city governments to create the position of city public works supervisors, notwithstanding the fact that there is already a City Engineer;
+
+WHEREAS, by virtue of this authority, several city governments have created the position of city public works supervisors and assigning to this position all work provided by the city charters to be undertaken by the city engineer;
+
+WHEREAS, such a situation resulted in overlapping of functions, and in some instances the city engineer has been completely divested of his duties and responsibilities to undertake local projects as provided in the city charter;
+
+WHEREAS, this situation is not conducive to the best interests of the public, particularly the city residents.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, by virtue of the powers in me vested by the Constitution, do hereby promulgate this decree as part of the law of the land:
+
+## Section 1
+
+The provision of Section 18 of Republic Act No. 5185 to the contrary notwithstanding, the City Public Works Supervisor shall be under the direct supervision of the City Engineer.
+
+## Section 2
+
+This decree shall take effect immediately.
+
+Done in the City of Manila, this 5th day of September, in the year of Our Lord, nineteen hundred and seventy-four.

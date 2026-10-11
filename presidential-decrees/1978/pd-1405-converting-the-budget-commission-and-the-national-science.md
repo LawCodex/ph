@@ -1,0 +1,58 @@
+---
+title: "Presidential Decree No. 1405 — Converting the Budget Commission and the National Science Development Board Into Ministries"
+identifier: "Presidential Decree No. 1405"
+number: "1405"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-06-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1405_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1405
+
+**Converting the Budget Commission and the National Science Development Board Into Ministries**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1405**
+
+CONVERTING THE BUDGET COMMISSION AND THE NATIONAL SCIENCE DEVELOPMENT BOARD INTO MINISTRIES
+
+WHEREAS, the Philippines is undergoing a transition from a presidential to a parliamentary form of government;
+
+WHEREAS, this situation requires some adaptive changes in the structure of government; and
+
+WHEREAS, for this purpose, it is necessary to convert appropriate agencies into ministries.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+
+## Section 1
+
+The Budget Commission is hereby converted into the Ministry of the Budget which shall be under the Office of the President/Prime Minister, and the head thereof shall have the rank, status and qualifications of a Minister and be a member of the Cabinet.
+
+## Section 2
+
+The National Science Development Board is hereby converted into a ministry with the same name, and the head thereof shall have the rank, status and qualifications of a Minister and be a member of the Cabinet.
+
+## Section 3
+
+Except as above provided, the present organization of the above agencies shall remain the same, unless otherwise changed by law.
+
+## Section 4
+
+Should any provision of this Decree or any part thereof be declared unconstitutional, the remaining provisions or parts thereof shall continue to be valid and binding.
+
+## Section 5
+
+All laws, decrees, executive orders, rules and regulations which are inconsistent with this Decree are hereby repealed, altered or modified accordingly.
+
+## Section 6
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and seventy-eight.

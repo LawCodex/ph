@@ -28,77 +28,170 @@ The following items of appropriation under section one, subsection C, paragraph 
 
 "ANTIQUE
 
-| 48 | For the Tibiao Elementary School | P4,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>48</td>
+<td>For the Tibiao Elementary School</td>
+<td>P4,000.00</td> "jn"
+</tr>
+</table>
 
 "CEBU
 
-| 125 | For a water supply system, Ginatilan | 4,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>125</td>
+<td>For a water supply system, Ginatilan</td>
+<td>4,000.00</td> "jn"
+</tr>
+</table>
 
 "MANILA
 
-| 17 | For the construction of a fence around the M. Earnshaw Elementary School Punta, Sta. Ana | 7,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>17</td>
+<td>For the construction of a fence around the M. Earnshaw Elementary School Punta, Sta. Ana</td>
+<td>7,000.00</td> "jn"
+</tr>
+</table>
 
 "MARINDUQUE
 
-| 59 | For water works of Balanacan, Mogpog | 1,500.00 |
-|---|---|---|
+<table>
+<tr>
+<td>59</td>
+<td>For water works of Balanacan, Mogpog</td>
+<td>1,500.00</td> "jn"
+</tr>
+</table>
 
-| 60 | For construction of water tank and well in each of the island-barrios of Polo, Maniuaya and Mompong, Sta. Cruz at P1,000 each | 3,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>60</td>
+<td>For construction of water tank and well in each of the island-barrios of Polo, Maniuaya and Mompong, Sta. Cruz at P1,000 each</td>
+<td>3,000.00</td> "jn"
+</tr>
+</table>
 
 "OCCIDENTAL NEGROS
 
-| 54 | For the construction of one additional room in Jalandoon-Sison School Building, barrio Napoles, Bago | 2,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>54</td>
+<td>For the construction of one additional room in Jalandoon-Sison School Building, barrio Napoles, Bago</td>
+<td>2,000.00</td> "jn"
+</tr>
+</table>
 
 "PALAWAN
 
-| 1 | For the Aborlan-Cabigaan road, Aborlan | 10,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>1</td>
+<td>For the Aborlan-Cabigaan road, Aborlan</td>
+<td>10,000.00</td> "jn"
+</tr>
+</table>
 
 "PAMPANGA
 
-| 66 | For the construction of a school building in barrio Sta. Monica, Florida blanca | 2,000.00 |
-|---|---|---|
-| 67 | For the construction of additional room in the San Nicolas barrio school, Floridablanca | 2,000.00 |
+<table>
+<tr>
+<td>66</td>
+<td>For the construction of a school building in barrio Sta. Monica, Florida blanca</td>
+<td>2,000.00</td> "jn"
+</tr>
+<tr>
+<td>67</td>
+<td>For the construction of additional room in the San Nicolas barrio school, Floridablanca</td>
+<td>2,000.00</td> "jn"
+</tr>
+</table>
 
 "PANGASINAN
 
-| 24 | For the repair of the Quibaol, Talogtog Tumbar barrio road, Lingayen | 1,500.00 |
-|---|---|---|
-| 30 | For the repair of the Castillo Street, Lingayen | 500.00 |
-| 64 | For the Lopez Jaena-Pisoac barrio road via Palisoc Nandacan Sur, Bautista | 56.00 |
-| 64.a | For the Paz Street from the Provincial Road to the Municipal Cemetery | 1,744.00 |
-| 145 | For the construction of the Bued barrio road, Alaminos | 1,000.00 |
+<table>
+<tr>
+<td>24</td>
+<td>For the repair of the Quibaol, Talogtog Tumbar barrio road, Lingayen</td>
+<td>1,500.00</td> "jn"
+</tr>
+<tr>
+<td>30</td>
+<td>For the repair of the Castillo Street, Lingayen</td>
+<td>500.00</td> "jn"
+</tr>
+<tr>
+<td>64</td>
+<td>For the Lopez Jaena-Pisoac barrio road via Palisoc Nandacan Sur, Bautista</td>
+<td>56.00</td> "jn"
+</tr>
+<tr>
+<td>64.a</td>
+<td>For the Paz Street from the Provincial Road to the Municipal Cemetery</td>
+<td>1,744.00</td> "jn"
+</tr>
+<tr>
+<td>145</td>
+<td>For the construction of the Bued barrio road, Alaminos</td>
+<td>1,000.00</td> "jn"
+</tr>
+</table>
 
 "SAMAR
 
-| 81 | For the construction of the Sto. Niño shop building | 1,000.00 |
-|---|---|---|
+<table>
+<tr>
+<td>81</td>
+<td>For the construction of the Sto. Niño shop building</td>
+<td>1,000.00</td> "jn"
+</tr>
+</table>
 
 "SORSOGON
 
-| 46 | For the Provincial High School, including a granstand, Sorsogon | 1,500.00" |
-|---|---|---|
+<table>
+<tr>
+<td>46</td>
+<td>For the Provincial High School, including a granstand, Sorsogon</td>
+<td>1,500.00"</td> "jn"
+</tr>
+</table>
 
 ## Section 2
 
 The following items of appropriation under section 1, subsection C, paragraph (q) Commonwealth Act Numbered Three Hundred thirty are amended so as to read as follows:
 
-| "28. | Kabankalan-Tolong Road (Occidental Negros Inter-provincial Road) including road to Tablas Valley | 810,000.00" |
-|---|---|---|
-| "33. | Bukidnon-Davao road via Dankagan and Tugbok | 1,080,000.00 |
-| 33a. | Parua River control works, barrio Balutu, Conception, Tarlac | 20,000.00" |
+<table>
+<tr>
+<td>"28.</td>
+<td>Kabankalan-Tolong Road (Occidental Negros Inter-provincial Road) including road to Tablas Valley</td>
+<td>810,000.00"</td> "jn"
+</tr>
+<tr>
+<td>"33.</td>
+<td>Bukidnon-Davao road via Dankagan and Tugbok</td>
+<td>1,080,000.00</td> "jn"
+</tr>
+<tr>
+<td>33a.</td>
+<td>Parua River control works, barrio Balutu, Conception, Tarlac</td>
+<td>20,000.00"</td> "jn"
+</tr>
+</table>
 
 ## Section 3
 
 Paragraph (ff) under section one, subsection F. Miscellaneous, of Commonwealth Act Numbered Three hundred thirty is amended so as to read as follows:
 
-| "(ff) | For continuing the construction of the Dewey Boulevard Extension, Manila | P1,500,000.00" |
-|---|---|---|
+<table>
+<tr>
+<td>"(ff)</td>
+<td>For continuing the construction of the Dewey Boulevard Extension, Manila</td>
+<td>P1,500,000.00"</td> "jn"
+</tr>
+</table>
 
 ## Section 4
 

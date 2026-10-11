@@ -27,10 +27,10 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. The road from Canayaon Junction to Roxas Park in the Municipality of Garcia Hernandez, Province of Bohol, is hereby named as the Honorable Cruz, P. Ranario Avenue.
+The road from Canayaon Junction to Roxas Park in the Municipality of Garcia Hernandez, Province of Bohol, is hereby named as the Honorable Cruz, P. Ranario Avenue.
 
 ## Section 2
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: January 5, 1990.

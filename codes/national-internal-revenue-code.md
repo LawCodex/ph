@@ -2776,7 +2776,9 @@ The tax due on any such goods, products, machinery, equipment or other similar a
 
 (B) Rate and Basis of the Excise Tax on Imported Articles. - Unless otherwise specified imported articles shall be subject to the same rates and basis of excise taxes applicable to locally manufactured articles.
 
-**Section** 132\. Mode of Computing Contents of Cask or Package. - Every fractional part of a proof liter equal to or greater than a half liter in a cask or package containing more than one liter shall be taxed as a liter, and any smaller fractional part shall be exempt; but any package of spirits, the total content of which are less than a proof liter, shall be taxed as one liter.
+#### Section 132
+
+Mode of Computing Contents of Cask or Package. - Every fractional part of a proof liter equal to or greater than a half liter in a cask or package containing more than one liter shall be taxed as a liter, and any smaller fractional part shall be exempt; but any package of spirits, the total content of which are less than a proof liter, shall be taxed as one liter.
 
 ### CHAPTER II - EXEMPTION OR CONDITIONAL TAX-FREE REMOVAL OF CERTAIN ARTICLES
 

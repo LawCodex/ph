@@ -1,0 +1,32 @@
+---
+title: "Presidential Decree No. 404 — Amending Section 4 of Presidential Decree No. 356 DatedDecember 27, 1973"
+identifier: "Presidential Decree No. 404"
+number: "404"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-03-01
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_404_1974.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 404
+
+**Amending Section 4 of Presidential Decree No. 356 DatedDecember 27, 1973**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 404 March 1, 1974**
+
+AMENDING SECTION 4 OF PRESIDENTIAL DECREE NO. 356 DATED DECEMBER 27, 1973
+
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, do hereby amend Section 4 of Presidential Decree No. 356, entitled "CREATING THE PROVINCE OF BASILAN," to read as follows:
+
+"Sec. 4. The present elective officials of the Province of Zamboanga del Sur shall perform their duties as such officials in the newly created Province of Basilan until the officials of the latter shall have been duly appointed by the President: Provided, That the elective officials of the new province of Basilan shall consist of one provincial governor, three vice-governors and six board members. Such officials thus appointed shall hold office until their successors shall have been elected in the election for provincial and municipal officials following the issuance of this Decree and shall have qualified unless sooner removed at the pleasure of the President. Other appointive officials and employees as may be necessary to organize or to complete the government personnel of the province herein created shall be appointed as provided by law."
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 1st day of March, in the year of Our Lord, nineteen hundred and seventy-four.

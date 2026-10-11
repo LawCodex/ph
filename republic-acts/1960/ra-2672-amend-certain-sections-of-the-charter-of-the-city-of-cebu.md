@@ -35,7 +35,7 @@ Section thirty-three of the same Act, as amended, is further amended to read as 
 
 ## Sec. 33
 
-. _Assistant chief of police: Commissioned officers._ -There shall be an assistant chief of police whose duties shall be to act as chief of police in the absence or inability to act as the chief of police, and under the direction of such chief to look after the discipline of the police force and to perform such other duties as may be imposed upon him by the chief or prescribed by law or ordinance. He shall receive a salary of six thousand pesos per annum.
+_Assistant chief of police: Commissioned officers._ -There shall be an assistant chief of police whose duties shall be to act as chief of police in the absence or inability to act as the chief of police, and under the direction of such chief to look after the discipline of the police force and to perform such other duties as may be imposed upon him by the chief or prescribed by law or ordinance. He shall receive a salary of six thousand pesos per annum.
 
 "Commissioned officers under the police force shall receive salaries as follows: for major, four thousand eight hundred pesos per annum; for captain, four thousand two hundred pesos per annum; for first lieutenant, three thousand six hundred pesos per annum; and for second lieutenant, three thousand pesos per annum."
 

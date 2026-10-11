@@ -631,7 +631,7 @@ It shall be the duty of the city engineer to make the plans, specifications, and
 
 ### Section 69
 
-. _Publication of proposed ordinance levying special assessment._ —The proposed special assessment ordinance shall be published, with a list of the owners of the lands affected thereby, once a week for four consecutive weeks in any newspaper published in the city, one in English, one in Spanish, and one in the local dialect. The said ordinance in English, Spanish and the local dialect shall also be posted in places where public notices are generally posted in the city and also in the district or Section where the public improvement is constructed or contemplated to be constructed.
+_Publication of proposed ordinance levying special assessment._ —The proposed special assessment ordinance shall be published, with a list of the owners of the lands affected thereby, once a week for four consecutive weeks in any newspaper published in the city, one in English, one in Spanish, and one in the local dialect. The said ordinance in English, Spanish and the local dialect shall also be posted in places where public notices are generally posted in the city and also in the district or Section where the public improvement is constructed or contemplated to be constructed.
 
 The secretary of the city council shall, on application, furnish a copy of the proposed ordinance to each owner affected, or his agent and shall, if possible, send to all of them a copy of said proposed ordinance by ordinary mail or otherwise.
 
@@ -663,7 +663,9 @@ _Fixing of amount of special assessment._ —As soon as the ordinance is in full
 
 _Payment of special assessment._ —All sums due from any landowner or owners as the result of any action taken pursuant to this Act shall be payable to the city treasurer in the same manner as the annual ordinary tax levied upon real property, and shall be subject to the same penalties for delinquency and be enforced by the same means as said annual ordinary tax; and all said sums together with any of said penalties shall from the dates on which they are assessed, constitute special liens on said land, with the sole exception of the lien for the non-payment of the ordinary real property tax. If, upon recomputation of the amount of special assessment in accordance with the next preceding section, it appears that the landowner has paid more than what is correctly due from him, the amount paid in excess shall be refunded to him immediately upon demand; in the other case, the landowner shall have one year within which to pay without penalty the amount still due from him. Said period shall be counted from the date the landowner received the proper notice.
 
-**Section** 77\. Disposition of proceeds.—The proceeds of the special assessment and penalties thereon shall be applied exclusively to the purpose or purposes for which the assessments were levied. It shall be the duty of the city treasurer to turn over to the National Treasury all collections made by him from special assessment levies from national public works.
+### Section 77
+
+Disposition of proceeds.—The proceeds of the special assessment and penalties thereon shall be applied exclusively to the purpose or purposes for which the assessments were levied. It shall be the duty of the city treasurer to turn over to the National Treasury all collections made by him from special assessment levies from national public works.
 
 ARTICLE VIII.—Department of Engineering and Public Works
 
@@ -875,7 +877,7 @@ _The procurement office._ —If the city mayor should so request, the purchasing
 
 ### Section 106
 
-. _The Bureau of Public Schools._ —The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines. There shall be a city superintendent of schools who shall receive a salary as provided for in Republic Act Numbered Four thousand four hundred seventy-seven. He shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to schools of their divisions.
+_The Bureau of Public Schools._ —The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines. There shall be a city superintendent of schools who shall receive a salary as provided for in Republic Act Numbered Four thousand four hundred seventy-seven. He shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to schools of their divisions.
 
 The city council shall have the same powers in respect to the establishment of schools as are conferred by law on City Councils.
 

@@ -1,0 +1,40 @@
+---
+title: "Presidential Decree No. 573 — Granting Philippine Citizenship to Willie Ng"
+identifier: "Presidential Decree No. 573"
+number: "573"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-11-07
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_573_1974.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 573
+
+**Granting Philippine Citizenship to Willie Ng**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 573 November 7, 1974**
+
+GRANTING PHILIPPINE CITIZENSHIP TO WILLIE NG
+
+WHEREAS, Ng Lun Liu (baptized as William Ng), known as Willie Ng among newspapermen and editors, a Chinese national, was born in the Philippines and studied in local schools;
+
+WHEREAS, as a journalist he has shown to be an enterprising reporter of great objectivity and dedication and as a columnist of great wit and professional excellence;
+
+WHEREAS, he has demonstrated in his writings his concern for the country and his abiding faith in the goodness of our people;
+
+WHEREAS, by virtue of his invaluable services to journalism and in the cause against communism and subversive elements, Willie Ng has proven himself worthy of all the rights, privileges and prerogatives of a citizen of this country; and
+
+WHEREAS, Willie Ng has manifested his desire to become a Philippine citizen;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the grant of Philippine citizenship to Ng Lun Liu (baptized as William Ng) with all the rights, privileges and prerogatives appurtenant thereto.
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 7th day of November, in the year of Our Lord, nineteen hundred and seventy-four.

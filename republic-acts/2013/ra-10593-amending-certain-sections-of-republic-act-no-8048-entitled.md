@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-. Section 4 of Republic Act. No. 8048, also known as the "Coconut Preservation Act of 1995″, is hereby amended to read as follows:
+Section 4 of Republic Act. No. 8048, also known as the "Coconut Preservation Act of 1995″, is hereby amended to read as follows:
 
 "SEC. 4. _Prohibition._ – No coconut tree shall be cut except in the following cases and only after a permit had been issued therefor:
 

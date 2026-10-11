@@ -1,0 +1,40 @@
+---
+title: "Presidential Decree No. 983 — Amending Part XII, Chapter I, Article III, Section 2 of the Integrated Reorganization Plan Approved"
+identifier: "Presidential Decree No. 983"
+number: "983"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-08-18
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_983_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 983
+
+**Amending Part XII, Chapter I, Article III, Section 2 of the Integrated Reorganization Plan Approved**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 983 August 18, 1976**
+
+AMENDING PART XII, CHAPTER I, ARTICLE III, SECTION 2 OF THE INTEGRATED REORGANIZATION PLAN APPROVED UNDER PRESIDENTIAL DECREE NO. 1, DATED SEPTEMBER 24, 1972.
+
+By virtue of the powers vested in me by the Constitution, I, FERDINAND E. MARCOS, President of the Philippines, do hereby amend Part XII, Chapter I, Article III, Section 2 of the Integrated Reorganization Plan approved under Presidential Decree No. 1, dated September 24, 1972, to read as follows:
+
+## PART XII EDUCATION
+
+### CHAPTER I — DEPARTMENT OF EDUCATION AND CULTURE
+
+#### Article III — National Board of Education
+
+"Sec. 2. The National Board of Education shall have the Secretary of Education and Culture as the Chairman and the following as members: the Director-General of the National Economic and Development Authority; the Commissioner of the Budget; the President of the University of the Philippines; the Chairman of the National Science Development Board; the Undersecretary of Education and Culture; and three prominent citizen, at least one of whom shall represent non-governmental educational institutions. The prominent citizens appointed to the Board shall serve part-time for a period of six years: Provided, That in the first appointments, the appointment of one member shall be for two years, the second member for four years, and the third member for six years. The Director of the Bureau of Elementary Education, the Director of the Bureau of Secondary Education; and the Director of the Bureau of Higher Education shall also sit in the Board as non-voting members. The Chairman and members may receive per diems for actual attendance at meetings.
+
+Whenever a member of the Board is unable to attend Board meetings owing to illness, absence or other causes, he may designate a representative to attend Board meetings who may participate in the deliberation of the Board, but shall not have voting rights."
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 18th day of August, in the year of Our Lord, nineteen hundred and seventy-six.

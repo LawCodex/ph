@@ -112,6 +112,6 @@ This franchise shall not be interpreted to mean an exclusive grant of the privil
 
 ## Section 21
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

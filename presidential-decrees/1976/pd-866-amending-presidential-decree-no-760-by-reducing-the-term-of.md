@@ -1,0 +1,54 @@
+---
+title: "Presidential Decree No. 866 — Amending Presidential Decree No. 760 By Reducing the Term of the Lease or Charter Period to Not Less Than One Year, Deleting the Word \"Time\" in the Title and Body of the Decree, and Allowing Overseas Use in Certain Cases"
+identifier: "Presidential Decree No. 866"
+number: "866"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-01-02
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_866_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 866
+
+**Amending Presidential Decree No. 760 By Reducing the Term of the Lease or Charter Period to Not Less Than One Year, Deleting the Word "Time" in the Title and Body of the Decree, and Allowing Overseas Use in Certain Cases**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 866 January 2, 1976**
+
+AMENDING PRESIDENTIAL DECREE NO. 760 BY REDUCING THE TERM OF THE LEASE OR CHARTER PERIOD TO NOT LESS THAN ONE YEAR, DELETING THE WORD "TIME" IN THE TITLE AND BODY OF THE DECREE, AND ALLOWING OVERSEAS USE IN CERTAIN CASES
+
+WHEREAS, the use of the term "time charter" in the decree is too technical and restrictive as to exclude other forms of charter parties;
+
+WHEREAS, the requirement of "not less than five years" for the charter or lease period has deterred many a shipowner and/or charterer from availing of the incentives under this decree;
+
+WHEREAS, there is a need to give a certain degree of flexibility to the charter or lessee in the use of the vessel;
+
+WHEREAS, it is imperative to amend the decree accordingly so as to attain the objectives sought to be achieved by the same.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:
+
+## Section 1
+
+The title of Presidential Decree No. 760 is hereby amended to read as follows:
+
+"ALLOWING THE TEMPORARY REGISTRATION OF FOREIGN-OWNED VESSELS UNDER [TIME] CHARTER OR LEASE TO PHILIPPINE NATIONALS FOR USE IN THE PHILIPPINE COASTWISE TRADE SUBJECT TO CERTAIN CONDITIONS."
+
+## Section 2
+
+Section 1 of Presidential Decree No. 760 is hereby amended to read as follows:
+
+"Sec. 1. Any provision of law, decree, executive order, or rules and regulations to the contrary notwithstanding, any foreign-owned vessel under [time] charter or lease to a Philippine national, as the term is defined in Section 3 of Presidential Decree No. 474, may be issued a temporary certificate of Philippine registry by the Maritime Industry Authority: Provided, That the said charter or lease (1) has the prior written approval of the Maritime Industry Authority, (2) shall be valid and effective for a period of not less than [five] ONE YEAR, and (3) shall be used exclusively in the coastwide trade in the Philippines, UNLESS OTHERWISE PERMITTED BY THE MARITIME INDUSTRY AUTHORITY TO BE USED FOR OVERSEAS TRADE SUBJECT TO TERMS AND CONDITIONS IT MAY IMPOSE: Provided, further, That the operation of the vessel shall be entirely in the hands of Philippine nationals and free from any participation or interference from the alien owner, except insofar as such action shall be to directly protect his rights as owner thereof: Provided, finally, That the registered vessel shall be manned completely by a Filipino crew, except in the case of specialized fishing vessel.
+
+The effectivity of any charter or lease contract entered into pursuant to this Decree shall not extend beyond the year 1990, unless otherwise extended by the President of the Republic of the Philippines."
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 2nd day of January, in the year of Our Lord, nineteen hundred and seventy-six.

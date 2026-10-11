@@ -1,0 +1,61 @@
+---
+title: "Presidential Decree No. 1561 — Further Amending the Provisions of Presidential Decree Numbered Seven Hundred One By Increasing the Allotment for Maintenance of Barangay Roads"
+identifier: "Presidential Decree No. 1561"
+number: "1561"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-06-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1561_1978.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1561
+
+**Further Amending the Provisions of Presidential Decree Numbered Seven Hundred One By Increasing the Allotment for Maintenance of Barangay Roads**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1561**
+
+FURTHER AMENDING THE PROVISIONS OF PRESIDENTIAL DECREE NUMBERED SEVEN HUNDRED ONE BY INCREASING THE ALLOTMENT FOR MAINTENANCE OF BARANGAY ROADS
+
+WHEREAS, barangay roads maintained solely from funds allocated for the purpose from the Highway Special Fund as provided under Section 2 of Presidential Decree No. 701;
+
+WHEREAS, the amount of two thousand five hundred pesos (P2,500) allotted for the maintenance of barangay roads under Presidential Decree No. 701 was based on obtaining prices of construction materials in 1975;
+
+WHEREAS, in view of the continuing increase of prices of construction materials, the amount of P2,500 per kilometer for the maintenance of barangay roads has become inadequate to maintain such roads to make them passable throughout the year;
+
+WHEREAS, it is imperative that barangay roads be adequately maintained throughout the year because of their importance to the economy of the country as a means of transporting agricultural products to the poblacion and other centers; and
+
+WHEREAS, to attain this objective, it is necessary to provide adequate funds to maintain these barangay roads;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:
+
+## Section 1
+
+The provisions of Section 2 of PD 701 is hereby amended to read as follows:
+
+## Section 2
+
+Section 8, Article IV of Republic Act 917, as amended, is hereby further amended to add one subparagraph to allocate maintenance funds for feeder roads or Farm-to-Market Roads, to read as follows:
+
+"Section 8. National Aid Highway Maintenance Fund. The apportionment for national aid for maintenance of local roads shall be determined as follows:
+
+x x x x x x x x x
+
+(h) National aid for maintenance per physical kilometer of barangay roads shall be 40% of the current basic cost of maintenance for each equivalent maintenance kilometer (EMK) of national high ways, subject to availability of funds. The existence of barangay road is determined by the Barangay Council, verified by the Highway District/City Engineer and Highway Regional Director, recommended by the Director of Barangay Roads and approved by the Secretary of Public Highways or his designated representative."
+
+## Section 2
+
+All laws, rules and regulations inconsistent with the provisions of this decree are hereby amended, revoked or modified accordingly.
+
+## Section 3
+
+This decree shall take effect immediately.
+
+Done in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen, hundred and seventy-eight.

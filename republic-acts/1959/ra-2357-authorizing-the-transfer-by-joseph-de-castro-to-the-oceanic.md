@@ -40,13 +40,13 @@ Two new sections after section nine of the same Act are added to read as follows
 
 ## Section 9-A
 
-. (a) The grantee shall be liable to pay the same taxes on its real estate, buildings, and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
+(a) The grantee shall be liable to pay the same taxes on its real estate, buildings, and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
 
 "(b) The grantee shall further pay to the Treasurer of the Philippines each year, within ten days after the audit and approval of the accounts as prescribed in this Act, one and one-half per centum of all gross receipts from the business transacted in the Philippines under this franchise by the grantee.
 
 ## Section 9-B
 
-. (a) This franchise shall not take effect nor shall any powers thereunder be exercised by the grantee until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies or wave lengths to be used, and issued to the grantee a license for such use.
+(a) This franchise shall not take effect nor shall any powers thereunder be exercised by the grantee until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies or wave lengths to be used, and issued to the grantee a license for such use.
 
 "(b) The Secretary of Public Works and Communications, on reasonable notice to the grantee may at any time change or cancel, or modify, in whole or in part, any or all of the allotments of frequencies or wave lengths to be used. He may take such actions (1) whenever in his judgment such frequencies and wave lengths have been used, or there is danger that they will be used by the grantee to impair electrical communications, or stifle competition, or to obtain a monopoly in electrical communications, or o secure unreasonable rates for communications, or to violate otherwise the laws or public policy of the Philippine Republic;
 

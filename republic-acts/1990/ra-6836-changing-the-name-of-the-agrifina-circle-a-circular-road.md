@@ -27,10 +27,10 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. The name of the circular road located within the vicinity of Luneta Park, City of Manila, is hereby changed from Agrifina Circle to Teodoro F. Valencia Circle.
+The name of the circular road located within the vicinity of Luneta Park, City of Manila, is hereby changed from Agrifina Circle to Teodoro F. Valencia Circle.
 
 ## Section 2
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: January 5, 1990.

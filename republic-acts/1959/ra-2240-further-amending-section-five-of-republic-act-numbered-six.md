@@ -28,7 +28,7 @@ Section five of Republic Act Numbered Six hundred thirteen is hereby amended to 
 
 ## Sec. 5
 
-. The authority granted in this Act shall terminate on December thirty-one, nineteen hundred sixty-two, unless sooner terminated by concurrent resolution of Congress, except that as to offenses committed, or rights or liabilities incurred prior to such repeal or termination, the provisions of this Act and of the rules and regulations issued thereunder shall be treated as remaining in effect for the purpose of sustaining any suit, action or prosecution with respect to such rights, liabilities or offenses."
+The authority granted in this Act shall terminate on December thirty-one, nineteen hundred sixty-two, unless sooner terminated by concurrent resolution of Congress, except that as to offenses committed, or rights or liabilities incurred prior to such repeal or termination, the provisions of this Act and of the rules and regulations issued thereunder shall be treated as remaining in effect for the purpose of sustaining any suit, action or prosecution with respect to such rights, liabilities or offenses."
 
 ## Section 2
 

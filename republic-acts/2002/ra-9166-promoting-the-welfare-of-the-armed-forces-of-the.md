@@ -131,7 +131,7 @@ _Provided,_ That Civil Service Commission (CSC) qualification standards shall no
 
 ## Section 3
 
-. _Merit System._ \- The Department of National Defense (DND) shall establish a system which shall govern the selection, hiring, appointment, transfer, promotion or dismissal of all personnel and officers in the AFP. The system shall cover incentives to deserving soldiers and military personnel in the form of scholarship grants through coordination with the Department of Education (Dep Ed) and Commission on Higher Education (CHED), to their deserving children, hospital care, social services and other non-cash benefits aimed at strengthening professionalism and excellence in the AFP: _Provided,_ That under the scholarship program, children of prisoners of war or those missing in action and of those who were killed in action or otherwise died as a result of such service may be awarded scholarship grants.
+_Merit System._ \- The Department of National Defense (DND) shall establish a system which shall govern the selection, hiring, appointment, transfer, promotion or dismissal of all personnel and officers in the AFP. The system shall cover incentives to deserving soldiers and military personnel in the form of scholarship grants through coordination with the Department of Education (Dep Ed) and Commission on Higher Education (CHED), to their deserving children, hospital care, social services and other non-cash benefits aimed at strengthening professionalism and excellence in the AFP: _Provided,_ That under the scholarship program, children of prisoners of war or those missing in action and of those who were killed in action or otherwise died as a result of such service may be awarded scholarship grants.
 
 ## Section 4
 

@@ -29,7 +29,7 @@ Sections twenty-one hundred and seventy, twenty-one hundred and seventy-one, and
 
 ## Sec. 2170
 
-. _Classification of municipalities—Number of councilors._ -Municipalities are divided into seven classes, according to their income, as follows:
+_Classification of municipalities—Number of councilors._ -Municipalities are divided into seven classes, according to their income, as follows:
 
 "(a) First class: The municipalities that have obtained an average total revenue of three hundred thousand pesos or more per annum during the last four fiscal years, and shall have eight councilors;
 
@@ -49,11 +49,11 @@ Sections twenty-one hundred and seventy, twenty-one hundred and seventy-one, and
 
 ## Sec. 2171
 
-. _Classification of municipalities by the Secretary of Finance._ -Beginning July first, nineteen hundred and fifty-eight, and for each period of four consecutive fiscal years after said date, the Secretary of Finance shall classify all municipalities on the basis of their average annual income during the four consecutive fiscal years immediately preceding such classification in accordance with the provisions of the next preceding section as certified by the Auditor General.
+_Classification of municipalities by the Secretary of Finance._ -Beginning July first, nineteen hundred and fifty-eight, and for each period of four consecutive fiscal years after said date, the Secretary of Finance shall classify all municipalities on the basis of their average annual income during the four consecutive fiscal years immediately preceding such classification in accordance with the provisions of the next preceding section as certified by the Auditor General.
 
 ## Sec. 2184
 
-. _Maximum limit of salaries._ -Except as otherwise specially provided herein, the annual salaries of municipal officers shall not exceed the amounts here in below fixed:
+_Maximum limit of salaries._ -Except as otherwise specially provided herein, the annual salaries of municipal officers shall not exceed the amounts here in below fixed:
 
 "In municipalities of the first class that have obtained during the next preceding two fiscal years and average total annual revenue of one million four hundred thousand pesos or more (First-1): For the mayor, seven thousand eight hundred pesos; for the municipal treasurer, six thousand four hundred and eighty pesos; for the municipal secretary, four thousand two hundred pesos; for the chief of police, three thousand seven hundred and twenty pesos; and for the chief of municipal fire department, three thousand one hundred and twenty pesos.
 
@@ -93,7 +93,7 @@ Section twenty-two hundred and seventy-seven of the Revised Administrative Code 
 
 ## Sec. 2277-B
 
-. _Salaries of members of municipal fire department._ -The salaries of the chief and other members of the municipal fire department shall be fixed by the municipal council."
+_Salaries of members of municipal fire department._ -The salaries of the chief and other members of the municipal fire department shall be fixed by the municipal council."
 
 ## Section 4
 

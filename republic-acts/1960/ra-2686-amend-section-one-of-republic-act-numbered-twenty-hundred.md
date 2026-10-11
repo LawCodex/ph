@@ -28,7 +28,7 @@ Section one of Republic Act Numbered Twenty hundred fifty-two, providing for the
 
 ## Sec. 1
 
-. The President of the Philippines is hereby authorized to negotiate for the increase of the subscription of the Republic of the Philippines to the capital stock of the International Bank for Reconstruction and Development from fifty million to one hundred million United States dollars, and its quota in the International Monetary Fund from fifty million to seventy-five million United States dollars."
+The President of the Philippines is hereby authorized to negotiate for the increase of the subscription of the Republic of the Philippines to the capital stock of the International Bank for Reconstruction and Development from fifty million to one hundred million United States dollars, and its quota in the International Monetary Fund from fifty million to seventy-five million United States dollars."
 
 ## Section 2
 

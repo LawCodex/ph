@@ -28,7 +28,7 @@ T here shall be established, under the supervision of the Director of Public Sch
 
 ## Section 2
 
-. The Director of Public Schools, with the approval of the Secretary of Education, shall promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+The Director of Public Schools, with the approval of the Secretary of Education, shall promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

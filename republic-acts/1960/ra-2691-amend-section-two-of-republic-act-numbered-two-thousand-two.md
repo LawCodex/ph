@@ -28,7 +28,7 @@ Section two of Republic Act Numbered Two thousand two is amended to read as foll
 
 ## Sec. 2
 
-. The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirty, nineteen hundred and sixty-one. Thereafter, the necessary amount for the purpose shall be included in the General Appropriations Act of each year."
+The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirty, nineteen hundred and sixty-one. Thereafter, the necessary amount for the purpose shall be included in the General Appropriations Act of each year."
 
 ## Section 2
 

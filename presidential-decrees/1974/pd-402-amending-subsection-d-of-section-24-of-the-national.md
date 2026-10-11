@@ -1,0 +1,45 @@
+---
+title: "Presidential Decree No. 402 — Amending Subsection (D) of Section 24 of the National Internal Revenue Code, as Amended By Presidential Decree No. 369"
+identifier: "Presidential Decree No. 402"
+number: "402"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-03-01
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_402_1974.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 402
+
+**Amending Subsection (D) of Section 24 of the National Internal Revenue Code, as Amended By Presidential Decree No. 369**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 402 March 1, 1974**
+
+AMENDING SUBSECTION (d) OF SECTION 24 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED BY PRESIDENTIAL DECREE NO. 369
+
+WHEREAS, it is necessary to further amend the National Internal Revenue Code, as amended, in order to make it responsive to the requirements of the developing economy and encourage more capital investments for large projects;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby decree and order as follows:
+
+## Section 1
+
+Subsection (d) of Section 24 of the National Internal Revenue Code, as amended by Presidential Decree No. 369, is hereby further amended to read as follows:
+
+"(d) Rate of tax on certain dividends. Dividends received by a domestic or resident foreign corporation from a domestic corporation liable to tax under this Code shall be subject to tax at 8.75% on the total amount thereof, which shall be collected and paid as provided in Sections 53 and 54 of this Code."
+
+## Section 2
+
+All laws, rules and regulations which are inconsistent herewith are hereby repealed, modified and/or amended accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 1st day of March, in the year of Our Lord, nineteen hundred and seventy-four.

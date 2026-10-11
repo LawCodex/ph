@@ -86,7 +86,7 @@ _Administrative Supervision of the Board, Custodian of its Records, Secretariat 
 
 #### Section 9
 
-. _Powers and Duties of the Board._ \- The Board shall supervise and regulate the practice of the nursing profession and shall have the following powers, duties and functions:
+_Powers and Duties of the Board._ \- The Board shall supervise and regulate the practice of the nursing profession and shall have the following powers, duties and functions:
 
 (a) Conduct the licensure examination for nurses;
 

@@ -1,0 +1,47 @@
+---
+title: "Presidential Decree No. 1793 — Amending Section 5 of Republic Act No. 5980, as Amended, Otherwise Known as the \"Financing Company Act\""
+identifier: "Presidential Decree No. 1793"
+number: "1793"
+type: decree
+jurisdiction: ph
+language: en
+date: 1981-01-16
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1981/pd_1793_1981.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1793
+
+**Amending Section 5 of Republic Act No. 5980, as Amended, Otherwise Known as the "Financing Company Act"**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1793**
+
+AMENDING SECTION 5 OF REPUBLIC ACT NO. 5980, AS AMENDED, OTHERWISE KNOWN AS THE "FINANCING COMPANY ACT"
+
+WHEREAS, the Central Bank of the Philippines has been vested with the power to prescribe in consultation with the Securities and Exchange Commission, or change the purchase discount rates, fees and other charges of finance companies;
+
+WHEREAS, there is a need to vest upon the Central Bank of the Philippines the express authority to adopt a more flexible policy on such purchase discount rates, fees and other changes of finance companies that would be more responsive to the requirements of changing economic and social conditions.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the amendment of Republic Act No. 5980, as follows:
+
+## Section 1
+
+The first paragraph of Section 5 of Republic Act No. 5980 is hereby amended to read as follows:
+
+The Monetary Board of the Central Bank of the Philippines is hereby empowered, in consultation with the Securities and Exchange Commission, to prescribe the maximum rate or rates of purchase discounts, fees, service and other charges of financing companies, and to change, eliminate or grant exemptions from or suspend the effectivity of such rate(s) whenever warranted by prevailing economic and social conditions.
+
+## Section 2
+
+The provisions of laws, decrees, orders, rules and regulations or parts thereof, which are inconsistent with the provisions of this Decree are hereby repealed or modified accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila this 16th day of January in the year of Our Lord nineteen hundred and eighty-one.

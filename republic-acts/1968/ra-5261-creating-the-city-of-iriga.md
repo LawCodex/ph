@@ -839,15 +839,15 @@ _Representative district._ — Unless otherwise provided by law, the City of Iri
 
 ### Section 100
 
-. _Existence of Barrio Councils._ — All existing barrio councils shall continue to exist in accordance with the provisions of the Barrio Charter.
+_Existence of Barrio Councils._ — All existing barrio councils shall continue to exist in accordance with the provisions of the Barrio Charter.
 
 ### Section 101
 
-. _Separability clause._ — If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
+_Separability clause._ — If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
 
 ### Section 102
 
-. _Repealing clause._ — All Acts, executive orders, administrative orders and proclamations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+_Repealing clause._ — All Acts, executive orders, administrative orders and proclamations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Article XIX — Effectivity of this Act
 

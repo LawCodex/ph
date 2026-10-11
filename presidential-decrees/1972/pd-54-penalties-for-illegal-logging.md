@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 54 — Penalties for Illegal Logging"
+identifier: "Presidential Decree No. 54"
+number: "54"
+type: decree
+jurisdiction: ph
+language: en
+date: 1972-11-16
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1972/pd_54_1972.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 54
+
+**Penalties for Illegal Logging**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 54 November 16, 1972**
+
+PENALTIES FOR ILLEGAL LOGGING
+
+WHEREAS, Martial Law has been declared throughout the Philippines pursuant to Proclamation No. 1081, dated September 21, 1972;
+
+WHEREAS, one of the objectives of said Proclamation is the restoration of peace, order and tranquility throughout the country in order to give the peace loving inhabitants the chance to lead a peaceful, healthy, progressive life, socially, morally, economically and politically;
+
+WHEREAS, to attain such an objective, it is very necessary to protect the vital industries of the country from economic saboteurs and opportunities;
+
+WHEREAS, Philippine forest reserves, being among the most vital sources of logging and related industries connected with the local and international economic life of the nation, must be protected not only by the duly constituted authorities but by every citizen from being indiscriminately denuded or destroyed; to the detriment of the present and coming generations;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, in my capacity as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972 and Presidential Decree No. 1, dated September 24, 1972, do hereby order and decree; that any natural or juridicial person who directly or indirectly cuts, declares, classifies, possesses or exports logs in violation of existing laws, rules and regulations shall be penalized as follows:
+
+1\. Confiscation of the logs in question and payment of fine to be imposed in accordance with existing laws, rules and regulations and suspension of the license and permit to operate for six months during the cutting period, for the first offense.
+
+2\. Confiscation of the logs in question and payment of fine to be imposed in accordance with existing laws, rules and regulations; and immediate cancellation of the license and permit to operate; and arrest and detention of the offenders until ordered released by me or by my duly authorized representative, for the second offense.
+
+All laws, rules and regulations inconsistent herewith are hereby amended or modified accordingly.
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 16th day of November in the year of Our Lord, nineteen hundred and seventy-two.

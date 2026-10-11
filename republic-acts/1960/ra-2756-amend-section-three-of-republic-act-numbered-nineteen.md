@@ -28,7 +28,7 @@ Section three of Republic Act Numbered Nineteen hundred eighty-one is amended to
 
 ## Sec. 3
 
-. Such sum as may be necessary to carry out the purposes of this Act is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for the fiscal year ending June thirty, nineteen hundred sixty-one."
+Such sum as may be necessary to carry out the purposes of this Act is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for the fiscal year ending June thirty, nineteen hundred sixty-one."
 
 ## Section 2
 

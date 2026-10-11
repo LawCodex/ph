@@ -41,6 +41,6 @@ Section twenty-one of the Philippine Tariff Act of nineteen hundred and nine is 
 
 ## Section 4
 
-.When this Act shall have been approved by the President of the United States, as provided in section two, subsection (a), paragraph nine of the Act of Congress of March twenty-four, nineteen hundred and thirty-four,entitled "An Act to provide for the complete independence of the Philippine Islands, to provide for the adoption of a constitution and a form of government for the Philippine Islands, and for other purpose.s,'' such fact shall be made known by proclamation of the President of the Philippines, and this Act shall take effect on the date of said proclamation.
+When this Act shall have been approved by the President of the United States, as provided in section two, subsection (a), paragraph nine of the Act of Congress of March twenty-four, nineteen hundred and thirty-four,entitled "An Act to provide for the complete independence of the Philippine Islands, to provide for the adoption of a constitution and a form of government for the Philippine Islands, and for other purpose.s,'' such fact shall be made known by proclamation of the President of the Philippines, and this Act shall take effect on the date of said proclamation.
 
 Approved, Dec. 22, 1939,with the execution of Sec. 3.

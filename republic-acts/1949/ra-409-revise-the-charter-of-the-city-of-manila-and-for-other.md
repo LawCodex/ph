@@ -785,7 +785,7 @@ All contracts made and existing at the time of the approval of this Act in conne
 
 ### Section 100
 
-. The City of Manila is authorized to acquire private lands in the city and to subdivide the same into home lots for sale on easy terms to city residents, giving first priority to the bona fide tenants or occupants of said lands, and second priority to laborers and low-salaried employees. For the purpose of this section, the city may raise the necessary funds by appropriations of general funds, by securing loans or by issuing bonds, and, if necessary, may acquire the lands through expropriation proceedings in accordance with law, with the approval of the President. The lands acquired under this section shall be administered in the same manner as those mentioned in the section ninety-seven and the conditions prescribed in the proviso of section ninety-eight shall be applicable to the resale of the lands thus acquired.
+The City of Manila is authorized to acquire private lands in the city and to subdivide the same into home lots for sale on easy terms to city residents, giving first priority to the bona fide tenants or occupants of said lands, and second priority to laborers and low-salaried employees. For the purpose of this section, the city may raise the necessary funds by appropriations of general funds, by securing loans or by issuing bonds, and, if necessary, may acquire the lands through expropriation proceedings in accordance with law, with the approval of the President. The lands acquired under this section shall be administered in the same manner as those mentioned in the section ninety-seven and the conditions prescribed in the proviso of section ninety-eight shall be applicable to the resale of the lands thus acquired.
 
 ## Article XIX — Final Provisions
 
@@ -795,7 +795,7 @@ Elective members of the Municipal Board shall continue in office until the expir
 
 ### Section 102
 
-. Chapter Sixty of the Revised Administrative Code and all laws or parts of laws inconsistent with this Act are hereby repealed.
+Chapter Sixty of the Revised Administrative Code and all laws or parts of laws inconsistent with this Act are hereby repealed.
 
 ### Section 103
 

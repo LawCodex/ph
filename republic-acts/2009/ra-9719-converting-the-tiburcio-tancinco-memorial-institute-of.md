@@ -260,7 +260,7 @@ _Repealing Clause._ \- All laws, presidential decrees, executive orders, rules a
 
 ## Section 29
 
-. _Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
 
 Approved,
 

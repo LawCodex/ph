@@ -44,7 +44,7 @@ It shall be a State policy to recognize the equal rights and inherent human dign
 
 ## Section 3
 
-. _Definition of Terms._ \- As used in this Act:
+_Definition of Terms._ \- As used in this Act:
 
 (a) _Trafficking in Persons_ \- refers to the recruitment, transportation, transfer or harboring, or receipt of persons with or without the victim's consent or knowledge, within or across national borders by means of threat or use of force, or other forms of coercion, abduction, fraud, deception, abuse of power or of position, taking advantage of the vulnerability of the person, or, the giving or receiving of payments or benefits to achieve the consent of a person having control over another person for the purpose of exploitation which includes at a minimum, the exploitation or the prostitution of others or other forms of sexual exploitation, forced labor or services, slavery, servitude or the removal or sale of organs.
 
@@ -134,7 +134,7 @@ _Prosecution of Cases._ \- Any person who has personal knowledge of the commissi
 
 ## Section 9
 
-. _Venue._ \- A criminal action arising from violation of this Act shall be filed where the offense was committed, or where any of its elements occurred, or where the trafficked person actually resides at the time of the commission of the offense: _Provided_ , That the court where the criminal action is first filed shall acquire jurisdiction to the exclusion of other courts.
+_Venue._ \- A criminal action arising from violation of this Act shall be filed where the offense was committed, or where any of its elements occurred, or where the trafficked person actually resides at the time of the commission of the offense: _Provided_ , That the court where the criminal action is first filed shall acquire jurisdiction to the exclusion of other courts.
 
 ## Section 10
 

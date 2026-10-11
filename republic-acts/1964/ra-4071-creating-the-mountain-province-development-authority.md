@@ -109,27 +109,27 @@ _Power to issue bonds._ -Whenever the Board of Directors may deem it necessary f
 
 ### Section 10
 
-. _Bond limits._ -The bonds issued under this provision shall in no case exceed the amount of fifty million pesos: _Provided,_ That no single issue shall exceed ten million pesos and that no further issue shall be made if eighty per centum of the immediately preceding issue is not yet sold.
+_Bond limits._ -The bonds issued under this provision shall in no case exceed the amount of fifty million pesos: _Provided,_ That no single issue shall exceed ten million pesos and that no further issue shall be made if eighty per centum of the immediately preceding issue is not yet sold.
 
 The bond shall be issued in such amounts as will be needed at any one time, taking account the rate of which said bonds may be absorbed by the buying public and the fund requirements of projects ready for execution, and considering further a proper balance between productive and non-productive projects so that indication shall be held to the minimum.
 
 ### Section 11
 
-. _Forms, rates of interest, etc. of bonds._ -The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form, the rates of interest, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all bonds issued under the authority of this Act.
+_Forms, rates of interest, etc. of bonds._ -The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form, the rates of interest, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all bonds issued under the authority of this Act.
 
 The bonds issued by virtue of this Act may be made payable both as to principal and interest in Philippine currency or any readily convertible foreign currency. Said bonds shall be receivable as security in any transaction with the government in which such security is required.
 
 ### Section 12
 
-. _Exemption from tax._ -The Authority shall be exempt from all taxes incidental to its operation: _Provided,_ That is subsidiary corporations shall be subject to all said taxes five years after their establishment under a graduated scale as follows: twenty per centum of all said taxes during the sixth year, forty per centum of all said taxes during the seventh year, sixty per centum of all said taxes during the eight year, eighty per centum of all said taxes during the ninth year, and one hundred per centum of all said taxes during the tenth year, after their establishment. Such exemptions shall include any tax or fee imposed by the government on the sale, purchase or transfer of foreign exchange. All notes, bonds and debentures and other obligations issued by the Authority shall be exempt from all taxes as to principal and interest, except inheritance and gift taxes.
+_Exemption from tax._ -The Authority shall be exempt from all taxes incidental to its operation: _Provided,_ That is subsidiary corporations shall be subject to all said taxes five years after their establishment under a graduated scale as follows: twenty per centum of all said taxes during the sixth year, forty per centum of all said taxes during the seventh year, sixty per centum of all said taxes during the eight year, eighty per centum of all said taxes during the ninth year, and one hundred per centum of all said taxes during the tenth year, after their establishment. Such exemptions shall include any tax or fee imposed by the government on the sale, purchase or transfer of foreign exchange. All notes, bonds and debentures and other obligations issued by the Authority shall be exempt from all taxes as to principal and interest, except inheritance and gift taxes.
 
 ### Section 13
 
-. _Sinking fund._ -A sinking fund shall be established in such manner that the total annual contributions thereto, accrued at such rate of interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the bonds issued under this Act. Said fund shall be under the custody of the Central Bank of the Philippines which shall invest the same in such manner as the Monetary Board may approve; charge all expenses of such investments to said sinking fund, and credit the same with the interest on investments and other income belonging to it.
+_Sinking fund._ -A sinking fund shall be established in such manner that the total annual contributions thereto, accrued at such rate of interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the bonds issued under this Act. Said fund shall be under the custody of the Central Bank of the Philippines which shall invest the same in such manner as the Monetary Board may approve; charge all expenses of such investments to said sinking fund, and credit the same with the interest on investments and other income belonging to it.
 
 ### Section 14
 
-. _Guarantee by the government._ -The Republic of the Philippines hereby guarantees the payment by the Authority of both the principal and the interest of the bonds, debentures, collaterals, notes or such other obligations issued by the Authority by virtue of this Act, and shall pay such principal and interest in case the Authority fails to do so. In the event that the Authority shall be unable to pay the said principal and interest, the Secretary of Finance shall pay the amount thereof which is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, and thereupon, to the extent of the amounts so paid, the Government of the Republic of the Philippines shall succeed to all the rights of the holders of such bonds, debentures, collaterals, notes or other obligations, unless the sums so paid by the Republic of the Philippines shall be refunded by the Authority within a reasonable time.
+_Guarantee by the government._ -The Republic of the Philippines hereby guarantees the payment by the Authority of both the principal and the interest of the bonds, debentures, collaterals, notes or such other obligations issued by the Authority by virtue of this Act, and shall pay such principal and interest in case the Authority fails to do so. In the event that the Authority shall be unable to pay the said principal and interest, the Secretary of Finance shall pay the amount thereof which is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, and thereupon, to the extent of the amounts so paid, the Government of the Republic of the Philippines shall succeed to all the rights of the holders of such bonds, debentures, collaterals, notes or other obligations, unless the sums so paid by the Republic of the Philippines shall be refunded by the Authority within a reasonable time.
 
 ## Chapter V — Management and Personnel
 
@@ -175,11 +175,11 @@ _Board meetings._ -The Board shall meet as frequently as is necessary to perform
 
 ### Section 25
 
-. _Per diems._ -The members of the Board, except the Chairman-General Manager, shall receive for every meeting attended a per diem of one hundred pesos: _Provided,_ That in no case will the total amount received by each exceed the sum of one thousand pesos for any one month. Members of the Board shall be reimbursed by the Authority for actual expenses (including traveling and subsistence expenses) incurred by them in the performance of their duties.
+_Per diems._ -The members of the Board, except the Chairman-General Manager, shall receive for every meeting attended a per diem of one hundred pesos: _Provided,_ That in no case will the total amount received by each exceed the sum of one thousand pesos for any one month. Members of the Board shall be reimbursed by the Authority for actual expenses (including traveling and subsistence expenses) incurred by them in the performance of their duties.
 
 ### Section 26
 
-. _Powers of General Manager._ -The General Manager shall be the chief executive of the Authority. As such, he shall have the following powers and duties:
+_Powers of General Manager._ -The General Manager shall be the chief executive of the Authority. As such, he shall have the following powers and duties:
 
 (a) To prepare the agenda for the meeting of the Board and to submit for the consideration thereof the policies and measures which he believes to be necessary to carry out the purposes and provisions of this Act;
 
@@ -191,19 +191,19 @@ _Board meetings._ -The Board shall meet as frequently as is necessary to perform
 
 ### Section 27
 
-. _Qualifications of General Manager._ -In addition to the qualifications for director set forth in Section twenty of this Act, no person shall be appointed General Manager unless he be of demonstrated executive competence and experience in the field of public administration or the management of agricultural, industrial or commercial enterprises.
+_Qualifications of General Manager._ -In addition to the qualifications for director set forth in Section twenty of this Act, no person shall be appointed General Manager unless he be of demonstrated executive competence and experience in the field of public administration or the management of agricultural, industrial or commercial enterprises.
 
 ### Section 28
 
-. _Compensation._ -The General Manager shall receive a compensation of not exceeding twenty-four thousand pesos per annum which shall be charged against the Authority’s annual appropriation for operating expenses.
+_Compensation._ -The General Manager shall receive a compensation of not exceeding twenty-four thousand pesos per annum which shall be charged against the Authority’s annual appropriation for operating expenses.
 
 ### Section 29
 
-. _Residence requirement._ -The General Manager shall be required to reside in the vicinity of the Authority’s principal office. He shall be prohibited from engaging in any business, calling or profession during the whole period of his office.
+_Residence requirement._ -The General Manager shall be required to reside in the vicinity of the Authority’s principal office. He shall be prohibited from engaging in any business, calling or profession during the whole period of his office.
 
 ### Section 30
 
-. _Activities of the Authority: key officials._ -The activities of the Authority shall be carried out under the supervision of the General Manager through the following administrative officials who will be responsible directly to him:
+_Activities of the Authority: key officials._ -The activities of the Authority shall be carried out under the supervision of the General Manager through the following administrative officials who will be responsible directly to him:
 
 (a) An assistant General Manager who shall head a Department of Planning and Research.
 
@@ -215,23 +215,23 @@ _Board meetings._ -The Board shall meet as frequently as is necessary to perform
 
 ### Section 31
 
-. _Merit system._ -All officials, agents, and employees of the Authority shall be selected and appointed on the basis of merit and fitness in accordance with a comprehensive and progressive merit system to be established by the Authority immediately upon its organization and in accordance with Civil Service rules and regulations. The recruitment, transfer, promotion, and dismissal of all Authority personnel, including temporary workers, shall be governed by such merit system.
+_Merit system._ -All officials, agents, and employees of the Authority shall be selected and appointed on the basis of merit and fitness in accordance with a comprehensive and progressive merit system to be established by the Authority immediately upon its organization and in accordance with Civil Service rules and regulations. The recruitment, transfer, promotion, and dismissal of all Authority personnel, including temporary workers, shall be governed by such merit system.
 
 ### Section 32
 
-. _Appointment by Board._ -Division chiefs and officials of higher rank shall be appointed by the Board, upon recommendation of the General Manager.
+_Appointment by Board._ -Division chiefs and officials of higher rank shall be appointed by the Board, upon recommendation of the General Manager.
 
 ### Section 33
 
-. _Appointment by General Manager._ -Employees and officials below the rank of division chief shall be appointed to positions in the approved budget by the General Manager upon written recommendation of the head of the department concerned using as guide the standards set forth in the Authority’s merit system: _Provided,_ That the General Manager shall submit a quarterly report to the Board regarding personnel selection, placement and training.
+_Appointment by General Manager._ -Employees and officials below the rank of division chief shall be appointed to positions in the approved budget by the General Manager upon written recommendation of the head of the department concerned using as guide the standards set forth in the Authority’s merit system: _Provided,_ That the General Manager shall submit a quarterly report to the Board regarding personnel selection, placement and training.
 
 ### Section 34
 
-. _Minimum wage._ -All contracts entered into by the Authority which require the employment of persons shall contain provisions that not less than the minimum wage fixed by law or the current rate of wage of work of a similar nature prevailing in the vicinity where such work is to be done, whichever is higher, shall be paid to such persons so employed.
+_Minimum wage._ -All contracts entered into by the Authority which require the employment of persons shall contain provisions that not less than the minimum wage fixed by law or the current rate of wage of work of a similar nature prevailing in the vicinity where such work is to be done, whichever is higher, shall be paid to such persons so employed.
 
 ### Section 35
 
-. _Wage dispute._ -In the event any dispute arises as to what are the prevailing rates of wages for a particular work in a particular vicinity, the question shall be referred to the Secretary of Labor for determination, who shall give due regard to those rates which have been secured through collective bargaining by the representatives of employers and employees.
+_Wage dispute._ -In the event any dispute arises as to what are the prevailing rates of wages for a particular work in a particular vicinity, the question shall be referred to the Secretary of Labor for determination, who shall give due regard to those rates which have been secured through collective bargaining by the representatives of employers and employees.
 
 ### Section 36
 
@@ -249,32 +249,32 @@ _Plans to be formulated within one year._ -Upon its organization, the Authority 
 
 ### Section 39
 
-. _Approval of plans._ -Upon approval by the President of the plans and recommendations referred to in the next preceding section in accordance with Chapter II, Section 5 (a) of this Act, he shall direct the Authority to implement them with dispatch and efficiency. The President shall issue such executive orders or proclamations as may be necessary to reserve or transfer such lands or public property to the Authority as are needed by it to accomplish the purposes of this Act.
+_Approval of plans._ -Upon approval by the President of the plans and recommendations referred to in the next preceding section in accordance with Chapter II, Section 5 (a) of this Act, he shall direct the Authority to implement them with dispatch and efficiency. The President shall issue such executive orders or proclamations as may be necessary to reserve or transfer such lands or public property to the Authority as are needed by it to accomplish the purposes of this Act.
 
 ### Section 40
 
-. _Authority directly under President._ -Any provision of law to the contrary notwithstanding, the Authority shall operate as an independent corporation subject only to provision by the President of the Philippines.
+_Authority directly under President._ -Any provision of law to the contrary notwithstanding, the Authority shall operate as an independent corporation subject only to provision by the President of the Philippines.
 
 ### Section 41
 
-. _Supplies and services other than personal._ — All purchases of supplies or contracts for services, except for personal services, entered into by the Authority, shall be done only after the proper bidding is held: _Provided,_ That bidding shall not be required when: (1) an emergency, certified to by the General Manager, requires immediate delivery of the supplies or performance of the services; or (2) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed two thousand pesos in the case of services; in which case, such purchase or procurement may be made in the usual course of business: _Provided, further,_ That the Authority’s emergency purchase of supplies and services shall not exceed the amount of five thousand pesos for any one month: _Provided, finally,_ That in comparing bids and making awards, the Authority shall consider such factors as the cost and relative quality and adaptability of supplies or services; the bidders financial responsibility, skill, experience, integrity, and ability to furnish repairs and maintenance services; the time of delivery or performance offered; and the bidder’s compliance with the specifications desired.
+_Supplies and services other than personal._ — All purchases of supplies or contracts for services, except for personal services, entered into by the Authority, shall be done only after the proper bidding is held: _Provided,_ That bidding shall not be required when: (1) an emergency, certified to by the General Manager, requires immediate delivery of the supplies or performance of the services; or (2) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed two thousand pesos in the case of services; in which case, such purchase or procurement may be made in the usual course of business: _Provided, further,_ That the Authority’s emergency purchase of supplies and services shall not exceed the amount of five thousand pesos for any one month: _Provided, finally,_ That in comparing bids and making awards, the Authority shall consider such factors as the cost and relative quality and adaptability of supplies or services; the bidders financial responsibility, skill, experience, integrity, and ability to furnish repairs and maintenance services; the time of delivery or performance offered; and the bidder’s compliance with the specifications desired.
 
 ### Section 42
 
-. _Auditing._ — The General Auditing shall be ex officio auditor, in charge of the auditing office of the Authority. He shall appoint a representative who shall be the auditor thereof. The Auditor General shall, upon recommendation of the auditor of the Authority, appoint or remove personnel of the said auditing office in accordance with the Authority’s merit system. The operating expenses of this office and the salaries and traveling expenses of the officials and employees thereof shall be fixed by the Board and paid by the Authority. Such representative shall render a semestral report on the financial condition and operations of the Authority to the Auditor General and the Board. The Auditor General submit to the President and the Congress an annual report covering the financial condition and operation of the Authority.
+_Auditing._ — The General Auditing shall be ex officio auditor, in charge of the auditing office of the Authority. He shall appoint a representative who shall be the auditor thereof. The Auditor General shall, upon recommendation of the auditor of the Authority, appoint or remove personnel of the said auditing office in accordance with the Authority’s merit system. The operating expenses of this office and the salaries and traveling expenses of the officials and employees thereof shall be fixed by the Board and paid by the Authority. Such representative shall render a semestral report on the financial condition and operations of the Authority to the Auditor General and the Board. The Auditor General submit to the President and the Congress an annual report covering the financial condition and operation of the Authority.
 
 These auditing reports shall contain a statement of the resources and liabilities including earnings and expenses, the amount of paid-up capital stock, surplus, reserves and profits, as well as losses, bad debts and such other facts which, under auditing rules and regulations, are considered necessary to accurately describe the financial condition and operations of the Authority: _Provided,_ That before such reports are made, the Authority shall be given reasonable opportunity to examine the exceptions and criticisms of the auditor of the Authority or the Auditor General, as the case may be, to point out, explain or answer any inaccuracies therein, if any, and to file a statement which shall be appended by the auditor of the Authority and the Auditor General in their respective reports.
 
 ### Section 43
 
-. _Separability clause._ — The provisions of this Act are hereby declared to be separable, and in the event any one or more of such provisions are held unconstitutional, they shall affect the validity of other provisions.
+_Separability clause._ — The provisions of this Act are hereby declared to be separable, and in the event any one or more of such provisions are held unconstitutional, they shall affect the validity of other provisions.
 
 ### Section 44
 
-. __Laws repealed.__ — All Acts, charters, executive orders, administrative orders, rules and regulations, or parts thereof in conflict with this Act are hereby repealed or modified accordingly.
+__Laws repealed.__ — All Acts, charters, executive orders, administrative orders, rules and regulations, or parts thereof in conflict with this Act are hereby repealed or modified accordingly.
 
 ### Section 45
 
-. _Effectivity._ — This Act shall take effect upon its approval.
+_Effectivity._ — This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

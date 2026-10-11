@@ -1,0 +1,47 @@
+---
+title: "Presidential Decree No. 1269 — Further Amending Republic Act 6234 Entitled \"An Act Creating the Metropolitan Waterworks and Sewerage System and for Other Purposes,\" as Amended By Presidential Decree No. 425"
+identifier: "Presidential Decree No. 1269"
+number: "1269"
+type: decree
+jurisdiction: ph
+language: en
+date: 1977-12-22
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1977/pd_1269_1977.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1269
+
+**Further Amending Republic Act 6234 Entitled "An Act Creating the Metropolitan Waterworks and Sewerage System and for Other Purposes," as Amended By Presidential Decree No. 425**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1269**
+
+FURTHER AMENDING REPUBLIC ACT 6234 ENTITLED "AN ACT CREATING THE METROPOLITAN WATERWORKS AND SEWERAGE SYSTEM AND FOR OTHER PURPOSES," AS AMENDED BY PRESIDENTIAL DECREE NO. 425
+
+WHEREAS, Metropolitan Manila is a dynamic community experiencing continuous growth in terms of territory, population, and economic activity.
+
+WHEREAS, there is consequently a need to expand the territorial jurisdiction of the Metropolitan Waterworks and Sewerage System to male it responsive to the water supply and sewerage requirements of this expanding metropolis, as well as to effectivity provide these metropolitan services on an integrated basis.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree as part of the law of the land the following:
+
+## Section 1
+
+Section 2(c) of Republic Act 6234 is hereby amended by adding a paragraph which reads as follows:
+
+"The System shall also own and/or have jurisdiction, supervision and control over all waterworks and sewerage systems in Lungsod Silangan, Muntinlupa and, subject to the approval of the President, other areas that may come within the development path of the expanding Metropolitan Manila area, which areas the Board of the Metropolitan Waterworks and Sewerage System may, from time to time, determine and declare as contiguous to its service area and requiring immediate attention by the System, under such terms and condition as may be agreed upon by the parties concerned."
+
+## Section 2
+
+All provisions of existing laws, executive and administrative orders or parts thereof in conflict with this Decree are hereby modified and/or repealed accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+DONE in Metropolitan Manila, this 22nd day of December, in the year of Our Lord, nineteen hundred and seventy-seven.

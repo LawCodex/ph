@@ -30,8 +30,11 @@ WHEREAS, the service so unselfishly rendered by the said Brother H. Gabriel Conn
 
 That Dr. Patrick B. Connon, otherwise known as Brother H. Gabriel Connon, FSC, be, and he hereby is, declared, a citizen of the Philippines, with all the rights and privileges and prerogatives incident to, and conferred by, Filipino citizenship under the Constitution and laws of the Republic of the Philippines now or here after enacted.
 
-<table>Upon the taking and registration of the following oath of allegiance the said Dr. Patrick B. Connon, otherwise known as Brother H. Gabriel Connon, FSC, shall enter upon the full enjoyment of Filipino citizenship as herein provided: "I, _____________________________, do solemnly swear (or affirm) that I renounce absolutely and forever all allegiance or fidelity to any foreign prince, potentate, state or sovereignty, and particularly to the Government of the United States of which up to this time I am a subject or citizen; that I will support and defend the Constitution of the Philippines and that I will obey the laws, legal orders and decrees promulgated by the duly constituted authorities of the Republic of the Philippines; and I hereby declare that I recognize the supreme authority of the Government of the Republic of the Philippines and will maintain true faith and allegiance thereto; and that I impose this obligation upon myself voluntarily without mental reservation or purpose of evasion. "SO HELP ME GOD."
-</table>
+Upon the taking and registration of the following oath of allegiance the said Dr. Patrick B. Connon, otherwise known as Brother H. Gabriel Connon, FSC, shall enter upon the full enjoyment of Filipino citizenship as herein provided:
+
+"I, _____________________________, do solemnly swear (or affirm) that I renounce absolutely and forever all allegiance or fidelity to any foreign prince, potentate, state or sovereignty, and particularly to the Government of the United States of which up to this time I am a subject or citizen; that I will support and defend the Constitution of the Philippines and that I will obey the laws, legal orders and decrees promulgated by the duly constituted authorities of the Republic of the Philippines; and I hereby declare that I recognize the supreme authority of the Government of the Republic of the Philippines and will maintain true faith and allegiance thereto; and that I impose this obligation upon myself voluntarily without mental reservation or purpose of evasion.
+
+"SO HELP ME GOD."
 
 The oath of allegiance shall be recorded in the Civil Registry of the City of Manila within thirty days after the approval of this Act.
 

@@ -28,7 +28,7 @@ Section four of Reorganization Plan Numbered Ten is hereby amended to read as fo
 
 ## Sec. 4
 
-. The Council shall be composed of fourteen members as follows:
+The Council shall be composed of fourteen members as follows:
 
 "(a) A full-time Chairman with cabinet rank to be appointed by the President with the consent of the Commission on Appointments;
 

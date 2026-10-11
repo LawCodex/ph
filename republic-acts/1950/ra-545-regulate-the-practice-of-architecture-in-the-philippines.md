@@ -112,8 +112,31 @@ _Architects registered when this law is passed._ \- All architects registered at
 
 Exemption from registration. -
 
-<table>1. Any person residing in the Philippines may make plans and specifications for any of the following: (a) Any building in chartered cities or in municipalities with building ordinances, not exceeding the space requirement specified therein, as requiring the services of an architect. (b) Any building enlargement or alteration which is to be used for farm purpose only and costing not more than ten thousand pesos. (c) <i>Provided,</i> however, That nothing herein contains shall prevent any person from designing or directing the designing of buildings that are to be constructed for own personal use or for that of his family, unless sue buildings are intended for public employment, assembly or other occupancy by the public, in which case an architect shall be employed for the purpose: And provided, futher,That such person does not use the title architect or any title derived therefrom. 2. Nor shall anything in this Act prevent draftsmen, students, clerks-of-work, superintendents and other employees of those lawfully engaged in the practice of architecture under the provisions of this Act, from acting under the instruction, control or supervision of their employer. 3. Nor shall anything in this Act prevent professional civil, mechanical, electrical, mining and chemical engineers duly licensed or registered to practice their profession: <i>Provided,</i> however, Such persons do not use the designation "Architect". 4. Nor shall anything in this Act prevent persons, who prior to the approval of this Act, have been lawfully engaged in the practice of "Maestro de Obras" to continue as such, provided they shall not undertake the making of plans and supervision for the following classes of work: (a) Building of concrete whether reinforced or not. (b) Building of more than two stories. (c) Building with frames of structural steel. (d) Building of structures intended for public gathering or assemblies such as theaters, cinematographs, stadia, churches, or the structures of like nature. 5 Officers and enlisted men of the Armed Forces of the United States and the Philippines, and civilian officials and employees of the Government of the United States stationed in the Philippines, while engaged in the practice of architecture for the United States and/or the Philippines. 6 Architects employed by or under contract with the Government as experts, advisers or consultants, shall be given temporary license after submitting the necessary credentials and subject to the approval of the Board, for a period not to exceed six months, subject to renewals for a like period until his contract with the Government expires. Architects, shall not be allowed, if licensed in such capacity, to dedicate themselves to the private practice of architecture nor charge fees for services rendered except those received from the Government.
-</table>
+1\. Any person residing in the Philippines may make plans and specifications for any of the following:
+
+(a) Any building in chartered cities or in municipalities with building ordinances, not exceeding the space requirement specified therein, as requiring the services of an architect.
+
+(b) Any building enlargement or alteration which is to be used for farm purpose only and costing not more than ten thousand pesos.
+
+(c) _Provided,_ however, That nothing herein contains shall prevent any person from designing or directing the designing of buildings that are to be constructed for own personal use or for that of his family, unless sue buildings are intended for public employment, assembly or other occupancy by the public, in which case an architect shall be employed for the purpose: And provided, futher,That such person does not use the title architect or any title derived therefrom.
+
+2\. Nor shall anything in this Act prevent draftsmen, students, clerks-of-work, superintendents and other employees of those lawfully engaged in the practice of architecture under the provisions of this Act, from acting under the instruction, control or supervision of their employer.
+
+3\. Nor shall anything in this Act prevent professional civil, mechanical, electrical, mining and chemical engineers duly licensed or registered to practice their profession: _Provided,_ however, Such persons do not use the designation "Architect".
+
+4\. Nor shall anything in this Act prevent persons, who prior to the approval of this Act, have been lawfully engaged in the practice of "Maestro de Obras" to continue as such, provided they shall not undertake the making of plans and supervision for the following classes of work:
+
+(a) Building of concrete whether reinforced or not.
+
+(b) Building of more than two stories.
+
+(c) Building with frames of structural steel.
+
+(d) Building of structures intended for public gathering or assemblies such as theaters, cinematographs, stadia, churches, or the structures of like nature.
+
+5 Officers and enlisted men of the Armed Forces of the United States and the Philippines, and civilian officials and employees of the Government of the United States stationed in the Philippines, while engaged in the practice of architecture for the United States and/or the Philippines.
+
+6 Architects employed by or under contract with the Government as experts, advisers or consultants, shall be given temporary license after submitting the necessary credentials and subject to the approval of the Board, for a period not to exceed six months, subject to renewals for a like period until his contract with the Government expires. Architects, shall not be allowed, if licensed in such capacity, to dedicate themselves to the private practice of architecture nor charge fees for services rendered except those received from the Government.
 
 ### Section 17
 

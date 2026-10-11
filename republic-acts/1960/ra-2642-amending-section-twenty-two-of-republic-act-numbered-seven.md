@@ -28,7 +28,7 @@ Section twenty-two of Republic Act Numbered Seven hundred sixty, otherwise known
 
 ## Sec. 22
 
-. _The City Fiscal and Assistant City Fiscals_ -Powers and duties of the fiscal.— The Law Department of the city shall consist of a city fiscal and three assistant city fiscals who shall discharge their duties under the general supervision of the Secretary of Justice. The city fiscal and assistant city fiscals shall receive the salaries provided by existing laws.
+_The City Fiscal and Assistant City Fiscals_ -Powers and duties of the fiscal.— The Law Department of the city shall consist of a city fiscal and three assistant city fiscals who shall discharge their duties under the general supervision of the Secretary of Justice. The city fiscal and assistant city fiscals shall receive the salaries provided by existing laws.
 
 The city fiscal shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following general powers and duties:
 

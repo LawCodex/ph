@@ -432,6 +432,6 @@ _Seat of government of the city._ — The seat of government of the City of Basi
 
 ### Section 44
 
-. _Effectivity._ -This Act shall take effect upon its approval.
+_Effectivity._ -This Act shall take effect upon its approval.
 
 Approved: June 16, 1948.

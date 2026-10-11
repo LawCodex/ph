@@ -300,7 +300,7 @@ The final decree of the court shall in every case be the basis for the original 
 
 #### Section 52
 
-. In cadastral proceedings, instead of an application, an answer or claim may be filed with the same effect as in the procedure provided in the last preceding two sections.
+In cadastral proceedings, instead of an application, an answer or claim may be filed with the same effect as in the procedure provided in the last preceding two sections.
 
 #### Section 53
 

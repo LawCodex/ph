@@ -281,15 +281,15 @@ _Release of Funds._ Any provision of law to the contrary notwithstanding, the ap
 
 ## Section 27
 
-. _Disbursement of Funds._ All appropriated funds shall be disbursed only through the National Treasury and/or originally-chartered government-owned or controlled banks.
+_Disbursement of Funds._ All appropriated funds shall be disbursed only through the National Treasury and/or originally-chartered government-owned or controlled banks.
 
 ## Section 28
 
-. _Funding Contracts and Future Payment of Contractual Obligations._ Notwithstanding the availability of deferred payment terms, departments, bureaus, offices or agencies concerned, before entering into contracts involving the expenditure of public funds, including contracts for services or consultancy, contracts of lease, equipment rental, construction of partitions or improvements in leased buildings, or certification of availability of funds for the purpose from the agency Chief Accountant, subject to applicable rules and regulations as may be issued by the Department of Budget and Management and to Sections 46 and 64 of P.D No. 1177 (Secs. 40 and 58 of Book VI E.O No. 292) : **PROVIDED** , That the certification of availability of funds sufficient to cover the cost of the contracted activities shall be contained in and made part of the contract duly signed by the Chief Accountant of the contracting agency, as provided for by LOI No. 968. Departments, bureaus, offices or agencies, before entering into contracts for delivery of goods or services against future contracted amount for such goods or services out of the agency’s appropriations. No contracts shall be entered into nor work undertaken without such certification of funds availability.
+_Funding Contracts and Future Payment of Contractual Obligations._ Notwithstanding the availability of deferred payment terms, departments, bureaus, offices or agencies concerned, before entering into contracts involving the expenditure of public funds, including contracts for services or consultancy, contracts of lease, equipment rental, construction of partitions or improvements in leased buildings, or certification of availability of funds for the purpose from the agency Chief Accountant, subject to applicable rules and regulations as may be issued by the Department of Budget and Management and to Sections 46 and 64 of P.D No. 1177 (Secs. 40 and 58 of Book VI E.O No. 292) : **PROVIDED** , That the certification of availability of funds sufficient to cover the cost of the contracted activities shall be contained in and made part of the contract duly signed by the Chief Accountant of the contracting agency, as provided for by LOI No. 968. Departments, bureaus, offices or agencies, before entering into contracts for delivery of goods or services against future contracted amount for such goods or services out of the agency’s appropriations. No contracts shall be entered into nor work undertaken without such certification of funds availability.
 
 ## Section 29
 
-. _Service Contracts._ Departments, bureaus, offices or agencies of the national government are hereby authorized to enter into contracts with private firms; and non-governmental organizations for services related or incidental to their respective functions and operations, through public bidding or negotiated contracts, whenever it is impractical or more expensive for the government to directly undertake such flections and operations, subject to accounting and auditing rules and regulations: **PROVIDED** , That the execution of the service contracts shall not operate to automatically abolish or render vacant any existing occupied position in the contracting office or agency.
+_Service Contracts._ Departments, bureaus, offices or agencies of the national government are hereby authorized to enter into contracts with private firms; and non-governmental organizations for services related or incidental to their respective functions and operations, through public bidding or negotiated contracts, whenever it is impractical or more expensive for the government to directly undertake such flections and operations, subject to accounting and auditing rules and regulations: **PROVIDED** , That the execution of the service contracts shall not operate to automatically abolish or render vacant any existing occupied position in the contracting office or agency.
 
 PERSONAL SERVICES BENEFITS
 
@@ -341,7 +341,7 @@ Allowances of those officials who are receiving salaries from special accounts o
 
 ## Section 35
 
-. _Official Vehicles and Transport._ Government motor transportation may the used by the following officials, including those who may be specifically authorized by the President of the Philippines, the President of the Senate with respect to the Senate, and the Speaker, with respect to the House of Representatives, with costs chargeable to the appropriations authorized for their respective offices:
+_Official Vehicles and Transport._ Government motor transportation may the used by the following officials, including those who may be specifically authorized by the President of the Philippines, the President of the Senate with respect to the Senate, and the Speaker, with respect to the House of Representatives, with costs chargeable to the appropriations authorized for their respective offices:
 
 a. The President of the Philippines;
 

@@ -366,7 +366,7 @@ If no taxes shall have been paid upon the original assessment the taxpayer shall
 
 ### Section 52
 
-._Remission of tax by provincial board._ \- In case of a general failure of crops or great decrease in the price of products, or similar widespread disaster in any municipal or municipalities of a province, the provincial board of the same, by resolution passed prior to the first of January of any year, may remit, wholly or partially, the real property tax or the penalties thereon for the succeeding year in the municipality or municipalities affected by the disaster; but a resolution so disposing must clearly state the reasons for such remission and shall not take effect until approved by the Secretary of Finance.
+_Remission of tax by provincial board._ \- In case of a general failure of crops or great decrease in the price of products, or similar widespread disaster in any municipal or municipalities of a province, the provincial board of the same, by resolution passed prior to the first of January of any year, may remit, wholly or partially, the real property tax or the penalties thereon for the succeeding year in the municipality or municipalities affected by the disaster; but a resolution so disposing must clearly state the reasons for such remission and shall not take effect until approved by the Secretary of Finance.
 
 ### Section 53
 

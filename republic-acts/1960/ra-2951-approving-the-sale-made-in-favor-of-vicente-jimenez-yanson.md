@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. Subject to the terms and conditions prescribed in Section fifteen of Act numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, the sale made in favor of Vicente Jimenez Yanson by Hernani J. Jimenez of the latter’s franchise, granted under Republic Act Numbered Thirteen hundred fifty-two, to install, operate and maintain an electric light, heat and power system in the Municipality of La Carlota, Province of Negros Occidental, is approved.
+Subject to the terms and conditions prescribed in Section fifteen of Act numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, the sale made in favor of Vicente Jimenez Yanson by Hernani J. Jimenez of the latter’s franchise, granted under Republic Act Numbered Thirteen hundred fifty-two, to install, operate and maintain an electric light, heat and power system in the Municipality of La Carlota, Province of Negros Occidental, is approved.
 
 **Section** **2**. This Act shall take effect upon its approval.
 

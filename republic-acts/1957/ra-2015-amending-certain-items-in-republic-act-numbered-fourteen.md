@@ -33,11 +33,7 @@ Item (b), page eighty-six, group IV, subparagraph twenty-eight, for the City of 
 
 Item B-004.23, page 256-A, title B, appendix A of the same Act, is amended to read as follows:
 
-<table>
-<tr>
-<td>* * *</td>
-</tr>
-</table>
+* * *
 
 ## Section 3
 

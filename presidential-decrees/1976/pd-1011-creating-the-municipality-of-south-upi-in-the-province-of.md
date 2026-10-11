@@ -1,0 +1,60 @@
+---
+title: "Presidential Decree No. 1011 — Creating the Municipality of South Upi in the Province of Maguindanao"
+identifier: "Presidential Decree No. 1011"
+number: "1011"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-09-22
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_1011_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1011
+
+**Creating the Municipality of South Upi in the Province of Maguindanao**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1011 September 22, 1976**
+
+CREATING THE MUNICIPALITY OF SOUTH UPI IN THE PROVINCE OF MAGUINDANAO
+
+WHEREAS, self-reliant communities are a must in line with the intensified governmental development projects geared toward the hastening up of the pace of economic development throughout the land;
+
+WHEREAS, in the execution of said developmental programs, close supervision thereof by a well-equipped administrative machinery is necessary;
+
+WHEREAS, subject locality, if created into an independent municipality will redound and contribute greatly to the pacification drive in the area; and
+
+WHEREAS, the creation of the proposed municipality had been the clamor of the residents therein as same has been measured to insure the upliftment of their socio-economic well being;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree as part of the laws of the land, the following:
+
+## Section 1
+
+Barangays Looy, Bongo, Biarong, Lamud, Kigan, Pandan, Romongaob, Basak (Upi side), Pilar, San Jose and Itaw, all in the Municipality of Upi, Province of Maguindanao, are hereby detached and separated therefrom to form and constitute into a distinct and independent municipality which is created to be known as the Municipality of South Upi without affecting in any manner the legal existence of the mother municipality of Upi. The seat of government of the newly created municipality shall be in Barangay Looy.
+
+## Section 2
+
+Except as hereinafter provided, all provisions of law, now or hereafter applicable to regular municipalities shall be applicable to the Municipality of South Upi.
+
+## Section 3
+
+The present elective municipal officials of the Municipality of Upi shall continue to perform their duties as such officials in the newly created municipality until the officials of the latter shall have been appointed by the President. Such officials so appointed shall hold office until their successors shall have been elected in the regular elections for municipal officials following the issuance of this Decree and shall have qualified, unless sooner removed at the pleasure of the President. Such appointive officers and employees as may be necessary to organize and complete the government personnel of the Municipality of South Upi shall be appointed as provided for under existing laws.
+
+## Section 4
+
+Upon the effectivity of this Decree, the respective proportionate share of South Upi in the obligations, funds, assets and other property of the Municipality of Upi shall be transferred by the President to the newly created municipalities upon the recommendation of the Commission on Audit.
+
+## Section 5
+
+All laws or parts of laws as well as all executive orders and regulations inconsistent herewith are hereby repealed and/or modified accordingly.
+
+## Section 6
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 22nd day of September, in the year of Our Lord, nineteen hundred and seventy-six.

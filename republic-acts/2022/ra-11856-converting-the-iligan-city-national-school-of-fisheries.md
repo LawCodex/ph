@@ -260,11 +260,17 @@ _Appropriations._ \- The amount necessary to carry out the provisions of this Ac
 
 _Implementing Rules and Regulations._ \- Within sixty (60) days from the effectivity of this Act, the Board, in consultation with the CHED, shall formulate the rules and regulations to fully implement the provisions of this Act.
 
-**Section** 26\. _Separability Clause._ \- If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
+## Section 26
 
-**Section** 27\. _Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause._ \- If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
 
-**Section** 38\. _Effectivity._ \- This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+## Section 27
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 38
+
+_Effectivity._ \- This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

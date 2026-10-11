@@ -1,0 +1,38 @@
+---
+title: "Presidential Decree No. 1021 — Amending Section Nine of Presidential Decree Numbered Nine Hundred Ninety-Five"
+identifier: "Presidential Decree No. 1021"
+number: "1021"
+type: decree
+jurisdiction: ph
+language: en
+date: 1976-09-22
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1976/pd_1021_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1021
+
+**Amending Section Nine of Presidential Decree Numbered Nine Hundred Ninety-Five**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1021**
+
+AMENDING SECTION NINE OF PRESIDENTIAL DECREE NUMBERED NINE HUNDRED NINETY-FIVE
+
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, in order to effect needed corrections of certain typographical errors and minor amendments of existing law, do hereby order the following:
+
+## Section 1
+
+Section nine of Presidential Decree No. 995 is hereby amended to read as follows:
+
+"SEC. 9. Appropriations. - To meet the organizational as well as other expenses of the Batasan Bayan, the amount of Two Million Pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated. Thereafter, such sum as may be necessary for the purpose shall be included in the annual General Appropriations Decree."
+
+## Section 2
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 22nd day of September in the year of Our Lord, nineteen hundred and seventy-six.

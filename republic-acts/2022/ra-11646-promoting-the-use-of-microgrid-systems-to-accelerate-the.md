@@ -334,7 +334,7 @@ _Amendatory Clause._ – This Act amends Section 16(c) of Commonwealth Act No. 1
 
 ## Section 28
 
-. _Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+_Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 29
 

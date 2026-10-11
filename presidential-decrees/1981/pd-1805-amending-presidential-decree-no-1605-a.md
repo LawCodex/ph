@@ -1,0 +1,70 @@
+---
+title: "Presidential Decree No. 1805 — Amending Presidential Decree No. 1605-A"
+identifier: "Presidential Decree No. 1805"
+number: "1805"
+type: decree
+jurisdiction: ph
+language: en
+date: 1981-01-16
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1981/pd_1805_1981.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1805
+
+**Amending Presidential Decree No. 1605-A**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1805**
+
+AMENDING PRESIDENTIAL DECREE NO. 1605-A
+
+By virtue of the powers vested in me by the Constitution, I, FERDINAND E. MARCOS, President of the Philippines, do hereby order and decree:
+
+## Section 1
+
+Section 2 of Presidential Decree No. 1605-A is hereby amended to read as follows:
+
+"Sec. 2. Any person who violates any of the provisions of this Decree shall suffer the penalty of prision correccional in its maximum degree and a fine ranging from P10,000 to P100,000: Provided, That if the offender is a corporation, firm, partnership or association, the penalty shall be imposed upon the guilty officer or officers (as the case may be, of the corporation, firm, partnership or association) and if such officer or officers are aliens, he or they shall be deported without further proceedings by the Commission on Immigration and Deportation.
+
+Illegal constructions made in violation of this Decree may be ordered destroyed or demolished upon orders of the Philippine Tourism Authority, the Philippine Coast Guard, the Philippine Constabulary, the Integrated National Police, the Office of the President, the Ministry of Human Settlements or a Court of competent jurisdiction.
+
+Under no circumstance shall any new construction be made on the water edge. If constructions have already been made they shall be at a distance of 25 meters away from the high tide water mark under the trees without felling such trees.
+
+No permit for the construction of any wharf, marina, hotel, restaurants and other commercial structures in Puerto Galera shall be issued without prior approval of the Office of the President upon recommendation of the Philippine Tourism Authority."
+
+## Section 2
+
+Section 3 of the same Decree is hereby amended to read as follows:
+
+"Sec. 3. I hereby deputize the Philippine Constabulary, the University of the Philippines, Marine Biology Wardens, and the Special Committee to be appointed, to apprehend, to board, to inspect, to report or to take any action to prevent further deterioration and exploitation of any of the unique features of Puerto Galera and its enclosed coves.
+
+I enjoin all the following agencies to assist in the implementation of the provisions of this Decree:
+
+The Ministry of Human Settlements
+
+The Ministry of Tourism
+
+The Municipal Government of Puerto Galera
+
+The Provincial Government of Oriental Mindoro
+
+The Philippine Coast Guard
+
+The Philippine Constabulary
+
+The UP Biological Station Wardens"
+
+## Section 3
+
+All laws, decrees, orders, or regulations inconsistent with this Decree are hereby repealed, amended or modified accordingly.
+
+## Section 4
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 16th day of January in the year of Our Lord, nineteen hundred and eighty-one.

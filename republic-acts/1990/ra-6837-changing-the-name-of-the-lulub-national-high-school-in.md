@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. The name of the Lublub National High School in Barangay Purificacion D. Manfort, Municipality of Dumangas, Province of Iloilo, is hereby changed to Purificacion D. Monfort National School.
+The name of the Lublub National High School in Barangay Purificacion D. Manfort, Municipality of Dumangas, Province of Iloilo, is hereby changed to Purificacion D. Monfort National School.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ Section one of Republic Act Numbered Sixteen hundred and nine is amended to read
 
 ## Sec. 1
 
-. _Declaration of Policy._ -It is hereby declared to be the national policy to encourage the more rapid expansion of agricultural production, and to increase farm productivity by making available to the farmers adequate fertilizers at reasonable prices. As used in this Act, the term ‘farmers’ includes fishpond owners or operators."
+_Declaration of Policy._ -It is hereby declared to be the national policy to encourage the more rapid expansion of agricultural production, and to increase farm productivity by making available to the farmers adequate fertilizers at reasonable prices. As used in this Act, the term ‘farmers’ includes fishpond owners or operators."
 
 ## Section 2
 

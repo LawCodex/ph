@@ -28,7 +28,7 @@ Section one of Republic Act Numbered Twenty hundred eighty-eight is amended to r
 
 ## Sec. 1
 
-. The Mambusao High School in the Municipality of Mambusao, Province of Capiz, is hereby converted into a national agricultural school of the Iloilo National Agricultural School type, to be known as the Mambusao National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly."
+The Mambusao High School in the Municipality of Mambusao, Province of Capiz, is hereby converted into a national agricultural school of the Iloilo National Agricultural School type, to be known as the Mambusao National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly."
 
 ## Section 2
 

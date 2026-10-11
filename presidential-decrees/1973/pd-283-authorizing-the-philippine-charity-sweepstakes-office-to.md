@@ -1,0 +1,46 @@
+---
+title: "Presidential Decree No. 283 — Authorizing the Philippine Charity Sweepstakes Office to Hold a Lottery Draw On March 11, 1974, and Every Year Thereafter, Exclusively to Finance the Domiciliary Service of the Philippine Tuberculosis Society, Inc."
+identifier: "Presidential Decree No. 283"
+number: "283"
+type: decree
+jurisdiction: ph
+language: en
+date: 1973-08-31
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1973/pd_283_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 283
+
+**Authorizing the Philippine Charity Sweepstakes Office to Hold a Lottery Draw On March 11, 1974, and Every Year Thereafter, Exclusively to Finance the Domiciliary Service of the Philippine Tuberculosis Society, Inc.**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 283 August 31, 1973**
+
+AUTHORIZING THE PHILIPPINE CHARITY SWEEPSTAKES OFFICE TO HOLD A LOTTERY DRAW ON MARCH 11, 1974, AND EVERY YEAR THEREAFTER, EXCLUSIVELY TO FINANCE THE DOMICILIARY SERVICE OF THE PHILIPPINE TUBERCULOSIS SOCIETY, INC.
+
+WHEREAS, the Government is vigorously engaged in a continuing program to effectuate health and welfare reforms, and thus bring about the transformation of a New Society designed to improve the quality of life of every Filipino;
+
+WHEREAS, it is the avowed policy of the Government to bring health services within the reach of the masses;
+
+WHEREAS, the magnitude of the task requires collaboration and coordination between the Government and private health and civic agencies;
+
+WHEREAS, tuberculosis still ranks high as one of the most serious public health problems in every part of the world, including the Philippines;
+
+WHEREAS, the great efforts being undertaken to control tuberculosis through the medium of institutional care have not reached the majority of contagious tuberculosis cases scattered throughout the country;
+
+WHEREAS, in an efforts to overcome the above shortcomings, the Philippine Tuberculosis Society, Inc., has intensified its Domiciliary Service which brings free medical, social and education services to the homes of bedridden indigent patients including BCG vaccinations and tuberculin testing of contracts, especially the children, as a preventive measure;
+
+WHEREAS, permanence of the Domicialiary Service of the Philippine Tuberculosis Society, Inc., is vital to the national tuberculosis program of the country, as if affords a convenient substitute for hospital beds for TB cases; and
+
+WHEREAS, the full usefulness and benefits of said Domicialiary Service can only be extended to poverty-stricken TB sufferers upon availability of a stable and continuing fund;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, do hereby order that Republic Act No. 1169 entitled "An Act Providing for Charity Sweepstakes Horses Races and Lotteries" be, as it is hereby, amended, authorizing said Office to hold on March 11, 1974, and every year thereafter, a lottery draw the whole proceeds of which shall, after deducting the payment of the prizes and expenses, as provided in Republic Act No. 1169, be turned over to the Philippine Tuberculosis Society, Inc., to constitute a special fund to help defray the operational expenses of its Domicialiary Service.
+
+This Decree shall form part of the law of the land and shall take effect immediately.
+
+Done in the City of Manila, this 31st day of August, in the year of Our Lord, nineteen hundred and seventy-three.

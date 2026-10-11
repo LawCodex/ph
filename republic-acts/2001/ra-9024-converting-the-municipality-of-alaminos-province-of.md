@@ -37,7 +37,1997 @@ The City of Calamba. -The Municipality of Calamba shall be converted into a comp
 
 Bounded on the NW., along lines 1-2 by Barangay Dapdap, (City of Tagaytay); on the SW., along lines 2-3-4-5-6-7-8-9-10 by San Cristobal River (Barangay Kangaan, Municipality of Silang); on the SW. and NW., along lines 10-11-12-13-14-15-16-17-18-19- 20-21-22-23-24-25 by San Cristobal River (Barangay Guinting); on the SW., NW., and NE., along lines 25 to 57 by San Cristobal River (Barangay Casili); on the NW., NE., and: SW., along lines 57 to 94 by San Cristobal River (Barangay Pasong Anos); on the SW., NW., and NE., along lines 94 to 118 by San Cristobal River (Barangay Pittlano); on the NW., and NE., along lines 118 to 131 by San Cristobal River (Barangay Diezmo); along lines 131-132-133-134-135 by San Cristobal River (Barangay Pulo); on the NE., NW., and SE., along lines 135 to 144 by San Cristobal River (Barangay San Isidro); along lines 144 to 156 by San Cristobal River (Barangay Mamatid); on the NE., NW., SE., and SW., along lines 156 to 300 by Barangay Mamatid; all of Municipality of Cabuyao; on the NE., NW., SW., SE., along lines 300 to 418 by Laguna de Bay; on the SE., along lines 418 to 426 by Barangay Tadlak; along line 426-427 by Barangay Lalakay; on the SE., SW., along lines 427-428-429 by Forest Zone, all of Municipality of Los Baï¿½os; on the NW., SW., and SE., along lines 429 to 442 by Barangay San Rafael; on the SW., SE., and NW., along lines 442 to 492 by Siam-Siam River (Barangay Sta. Anastacia), both of Municipality of Sto. Tomas; on the SW., along lines 492-493-494 by Barangay Laurel; on the SE., along lines 494-495-496 by Barangay Malaking Pulo and Barangay Santol; along lines 496-497 by Barangay Suplang all in the Municipality of Tanauan along lines 497-498 by Barangay Tranaca of Municipality of Talisay; along line 498-1 by Barangay Kalaboso and City of Tagaytay.
 
-| thence N. 13 deg. 15' E., | 1,109.72 m. to point 2; | |---|---| | thence N. 80 deg. 23' E., | 38.24 m. to point 3; | | thence N. 59 deg. 49' W., | 100.51 m. to point 4, | | thence N. 25 deg. 19' E., | 45.56 m. to point 5; | | thence N. 16 deg. 18' W., | 46.47 m. to point 6; | | thence N. 2 deg. 01' W., | 73.82 m. to point 7; | | thence N. 55 deg. 25' W., | 43.19 m. to point 8; | | thence N. 21 deg. 12' W., | 44.39 m. to point 9; | | thence N. 00 deg. 50' E., | 101.32 m. to point 10; | | thence N. 25 deg. 41' W., | 52.71 m. to point 11; | | thence N. 17 deg. 47' E., | 39.63 m. to point 12; | | thence N. 16 deg. 15' W., | 100.50 m. to point 13; | | thence N. 63 deg. 36' W., | 33.54 m. to point 14; | | thence N. 15 deg. 57' E., | 72.80 m. to point 15; | | thence N. 47 deg. 44' W., | 74.33 m. to point 16; | | thence N. 13 deg. 10' E., | 241.35 m. to point 17; | | thence N. 66 deg. 02' E., | 49.24 m. to point 18; | | thence N. 1 deg. 58' W., | 145.09 m. to point 19; | | thence N. 48 deg. 22' W., | 60.21 m. to point 20; | | thence N. 7 deg. 36' W., | 75.66 m. to point 21; | | thence N. 79 deg. 19' E., | 53.94 m. to point 22; | | thence N. 21 deg. 03' E., | 214.31 m. to point 23; | | thence N. 65 deg. 18' W., | 95.75 m. to point 24; | | thence N. 19 deg. 29' W., | 68.95 m. to point 25; | | thence N. 49 deg. 11' W., | 145.34 m. to point 26; | | thence N. 28 deg. 22' E., | 56.82 m. to point 27; | | thence N. 26 deg. 24' W., | 126.07 m. to point 28; | | thence N. 5 deg. 43' E., | 50.25 m. to point 29; | | thence S. 30 deg. 15' E., | 69.46 m. to point 30; | | thence N. 6 deg. 01' E., | 95.52 m. to point 31; | | thence N. 32 deg. 16' E., | 112.36 m. to point 32; | | thence N. 21 deg. 48' E., | 134.63 m. to point 33; | | thence N. 38 deg. 17' E., | 121.04 m. to point 34; | | thence N. 61 deg. 11' E., | 114.13 m. to point 35; | | thence S. 86 deg. 11' E., | 75.17 m. to point 36; | | thence N. 55 deg. 50' E., | 169.19 m. to point 37; | | thence S. 81 deg. 28' E., | 101.12 m. to point 38; | | thence N. 5 deg. 17' E., | 271.15 m. to point 39; | | thence N. 17 deg. 56' E., | 178.68 m. to point 40; | | thence N. 22 deg. 39' W., | 124.62 m. to point 41; | | thence N. 24 deg. 24' E., | 263.18 m. to point 42; | | thence N. 57 deg. 44' E., | 112.36 m. to point 43; | | thence S. 74 deg. 29' E., | 93.41 m. to point 44; | | thence N. 60 deg. 15' E., | 120.93 m. to point 45; | | thence S. 59 deg. 02' E., | 145.77 m. to point 46; | | thence N. 44 deg. 32' E., | 85.56 m. to point 47; | | thence N. 19 deg. 28' W., | 105.00 m. to point 48; | | thence N. 18 deg. 26' E., | 94.87 m. to point 49; | | thence N. 66 deg. 42' E., | 391.95 m. to point 50; | | thence N. 29 deg. 59' E., | 150.08 m. to point 51; | | thence N. 5 deg. 12' W., | 165.68 m. to point 52; | | thence N. 43 deg. 55' E., | 187.42 m. to point 53; | | thence N. 6 deg. 20' E., | 135.83 m. to point 54; | | thence N. 76 deg. 22' E., | 160.72 m. to point 55; | | thence S. 87 deg. 57' E., | 140.09 m. to point 56; | | thence N. 1 deg. 16' W., | 225.06 m. to point 57; | | thence N. 22 deg. 23' E., | 91.92 m. to point 58; | | thence N. 81 deg. 52' E., | 70.71 m. to point 59; | | thence N. 18 deg. 26' E., | 79.06 m. to point 60; | | thence N. 73 deg. 37' E., | 88.60 m. to point 61; | | thence S. 63 deg. 26' E., | 55.90 m. to point 62; | | thence N. 54 deg. 41' E., | 147.06 m. to point 63; | | thence S. 60 deg. 15' E., | 120.93 m. to point 64; | | thence N. 53 deg. 45' E., | 93.01 m. to point 65; | | thence N. 86 deg. 49' E., | 90.14 m. to point 66; | | thence N. 68 deg. 12' E., | 107.70 m. to point 67; | | thence N. 38 deg. 40' E., | 96.05 m. to point 68; | | thence S. 79 deg. 19' E., | 269.68 m. to point 69; | | thence N. 7 deg. 30' E., | 191.64 m. to point 70; | | thence N. 81 deg. 28' E., | 101.12 m. to point 71; | | thence N. 15 deg. 57' W., | 145.60 m. to point 72; | | thence N. 58 deg. 47' E., | 192.94 m. to point 73; | | thence N. 35 deg. 50' W., | 111.02 m. to point 74; | | thence N. 49 deg. 24' E., | 46.10 m. to point 75; | | thence S. 56 deg. 19' E., | 90.14 m. to point 76; | | thence N. 39 deg. 17' E., | 71.06 m. to point 77; | | thence N. 75 deg. 23' W., | 118.25 m. to point 78; | | thence N. 21 deg. 02' E., | 69.64 m. to point 79; | | thence S. 69 deg. 41' E., | 143.96 m. to point 80; | | thence N. 33 deg. 41' E., | 90.14 m. to point 81; | | thence S. 86 deg. 25' W., | 80.16 m. to point 82; | | thence N. 21 deg. 48' W., | 53.85 m. to point 83; | | thence N. 45 deg. 00' E., | 56.57 m. to point 84; | | thence S. 85 deg. 36' E., | 65.19 m. to point 85; | | thence N. 6 deg. 20' W., | 45.28 m. to point 86; | | thence N. 62 deg. 42' W., | 174.43 m. to point 87; | | thence N. 15 deg. 15' W., | 57.01 m. to point 88; | | thence N. 81 deg. 52' E., | 70.71 m. to point 89; | | thence N. 3 deg. 28' E., | 33.06 m. to point 90; | | thence N. 62 deg. 42' W., | 69.77 m. to point 91; | | thence N. 33 deg. 41' E., | 72.11 m. to point 92; | | thence N. 74 deg. 13' E., | 239.01 m. to point 93; | | thence N. 29 deg. 21' E., | 183.53 m. to point 94; | | thence N. 13 deg. 34' W., | 149.16 m. to point 95; | | thence N. 47 deg. 03' E., | 198.12 m. to point 96; | | thence N. 14 deg. 02' E., | 82.46 m. to point 97; | | thence N. 72 deg. 11' E., | 147.05 m. to point 98; | | thence N. 52 deg. 36' E., | 214.01 m. to point 99; | | thence N. 61 deg. 23' E., | 187.95 m. to point 100; | | thence N. 34 deg. 46' E., | 426.09 m. to point 101; | | thence N. 57 deg. 22' E., | 194.73 m. to point 102; | | thence N. 77 deg. 47' E., | 174.96 m. to point 103; | | thence N. 49 deg. 40' E., | 295.14 m. to point 104; | | thence N. 75 deg. 08' E., | 202.78 m. to point 105; | | thence S. 76 deg. 53' E., | 198.18 m. to point 106; | | thence N. 60 deg. 42' E., | 177.75 m. to point 107; | | thence S. 88 deg. 11' E., | 346.17 m. to point 108; | | thence N. 56 deg. 59' E., | 310.10 m. to point 109; | | thence N. 62 deg. 41' E., | 540.28 m. to point 110; | | thence N. 35 deg. 49' E., | 164.03 m. to point 111; | | thence N. 68 deg. 45' E., | 231.76 m. to point 112; | | thence S. 75 deg. 58' E., | 82.46 m. to point 113; | | thence N. 71 deg. 34' E., | 252.98 m. to point 114; | | thence N. 27 deg. 06' E., | 241.51 m. to point 115; | | thence N. 54 deg. 41' E., | 147.05 m. to point 116; | | thence S. 40 deg. 06' E., | 124.20 m. to point 117; | | thence N. 76 deg. 14' E., | 252.24 m. to point 118; | | thence N. 53 deg. 22' E., | 243.00 m. to point 119; | | thence N. 83 deg. 27' E., | 437.86 m. to point 120; | | thence S. 56 deg. 19' E., | 72.11 m. to point 121; | | thence N. 75 deg. 58' E., | 288.62 m. to point 122;; | | thence N. 10 deg. 18' E., | 55.90 m. to point 123; | | thence N. 66 deg. 18' E., | 223.89 m. to point 124; | | thence S. 67 deg. 56' E., | 79.85 m. to point 125; | | thence N. 19 deg. 07' E., | 79.38 m. to point 126; | | thence N. 52 deg. 46' E., | 157.00 m. to point 127; | | thence N. 80 deg. 55' E., | 126.59 m. to point 128; | | thence N. 55 deg. 30' E., | 97.08 m. to point 129; | | thence N. 58 deg. 45' E., | 520.50 m. to point 130; | | thence N. 4 deg. 38' E., | 185.61 m. to point 131; | | thence N. 45 deg. 00' E., | 98.99 m. to point 132; | | thence N. 68 deg. 12' E., | 242.33 m. to point 133; | | thence S. 45 deg. 34' E., | 141.43 m. to point 134; | | thence N. 76 deg. 15' E., | 143.10 m. to point 135; | | thence S. 17 deg. 28' E., | 243.21 m. to point 136; | | thence S. 73 deg. 04' E., | 192.33 m. to point 137; | | thence S. 77 deg. 43' E., | 173.98 m. to point 138; | | thence S. 86 deg. 24' E., | 461.91 m. to point 139; | | thence N. 77 deg. 52' E., | 218.89 m. to point 140; | | thence S. 37 deg. 42' E., | 83.41 m. to point 141; | | thence S. 24 deg. 22' W., | 58.18 m. to point 142; | | thence S. 00 deg. 47' W., | 54.96 m. to point 143; | | thence S. 4 deg. 35' W., | 68.25 m. to point 144; | | thence S. 23 deg. 58' E., | 89.55 m. to point 145; | | thence S. 45 deg. 00' E., | 42.43 m. to point 146; | | thence N. 55 deg. 01' E., | 73.24 m. to point 147; | | thence N. 82 deg. 06' E., | 36.35 m. to point 148; | | thence S. 75 deg. 40' E., | 92.89 m. to point 149; | | thence S. 48 deg. 59' E., | 132.55 m. to point 150; | | thence N. 87 deg. 12' E., | 164.20 m. to point 151; | | thence S. 64 deg. 59' E., | 66.21 m. to point 152; | | thence S. 78 deg. 19' W., | 148.07 m. to point 153; | | thence S. 68 deg. 35' E., | 273.91 m. to point 154; | | thence S. 35 deg. 32' W., | 129.03 m. to point 155; | | thence S. 5 deg. 09' E., | 182.06 m. to point 156; | | thence S. 82 deg. 41' E., | 76.75 m. to point 157; | | thence N. 77 deg. 19' E., | 115.12 m. to point 158; | | thence S. 72 deg. 43' E., | 72.53 m. to point 159; | | thence S. 56 deg. 27' E., | 41.26 m. to point 160; | | thence S. 20 deg. 08' E., | 19.96 m. to point 161; | | thence S. 3 deg. 48' W., | 45.36 m. to point 162; | | hence S. 28 deg. 42' W., | 30.24 m. to point 163; | | thence S. 28 deg. 03' E., | 38.82 m. to point 164; | | thence S. 24 deg. 45' E., | 42.27 m. to point 165; | | thence S. 66 deg. 50' E., | 4.68 m. to point 166; | | thence N. 59 deg. 08' E., | 77.88 m. to point 167; | | thence N. 59 deg. 09' E., | 135.15 m. to point 168; | | thence N. 59 deg. 05' E., | 72.30 m. to point 169; | | thence N. 57 deg. 30' E., | 12.10 m. to point 170; | | thence N. 57 deg. 33' E., | 19.79 m. to point 171; | | thence N. 59 deg. 17' E., | 17.58 m. to point 172; | | thence N. 71 deg. 32' E., | 37.33 m. to point 173; | | thence N. 74 deg. 59' E., | 19.40 m. to point 174; | | thence N. 1 deg. 05' E., | 47.19 m. to point 175; | | thence S. 77 deg. 12' E., | 88.61 m. to point 176; | | thence N. 73 deg. 33' E., | 185.55 m. to point 177; | | thence N. 73 deg. 82' E., | 185.00 m. to point 178; | | thence N. 52 deg. 11' E., | 8.53 m. to point 179; | | thence N. 50 deg. 19' E., | 52.73 m. to point 180; | | thence N. 44 deg. 02' E., | 54.58 m. to point 181; | | thence N. 40 deg. 59' E., | 21.62 m. to point 182; | | thence N. 45 deg. 03' E., | 90.48 m. to point 183; | | thence S. 25 deg. 24' E., | 5.52 m. to point 184; | | thence N. 70 deg. 40' E., | 47.84 m. to point 185; | | thence N. 71 deg. 34' E., | 0.28 m. to point 186; | | thence N. 46 deg. 45' E., | 31.81 m. to point 187; | | thence N. 55 deg. 01' E., | 123.29 m. to point 188; | | thence N. 69 deg. 29' E., | 98.74 m. to point 189; | | thence N. 73 deg. 44' W., | 72.31 m. to point 190; | | thence N. 71 deg. 10' E., | 108.11 m. to point 191; | | thence N. 60 deg. 46' E., | 7.49 m. to point 192; | | thence N. 12 deg. 28' W., | 10.94 m. to point 193; | | thence N. 60 deg. 17' E., | 57.72 m. to point 194; | | thence N. 19 deg. 58' W., | 78.76 m. to point 195; | | thence S. 19 deg. 15' E., | 78.88 m. to point 196; | | thence N. 56 deg. 26' E., | 63.36 m. to point 197; | | thence N. 80 deg. 58' E., | 19.24 m. to point 198; | | thence N. 81 deg. 00' E., | 43.40 m. to point 199; | | thence N. 81 deg. 01' E., | 33.02 m. to point 200; | | thence N. 77 deg. 07' E., | 86.63 m. to point 201; | | thence S. 83 deg. 47' W., | 63.06 m. to point 202; | | thence N. 82 deg. 43' E., | 29.52 m. to point 203; | | thence N. 83 deg. 39' E., | 17.97 m. to point 204; | | thence N. 85 deg. 57' E., | 15.59 m. to point 205; | | thence N. 61 deg. 29' E., | 6.30 m. to point 206; | | thence S. 70 deg. 18' E., | 4.04 m. to point 207; | | thence S. 55 deg. 31' E., | 146.02 m. to point 208; | | thence N. 48 deg. 28' E., | 84.11 m. to point 209; | | thence N. 13 deg. 49' E., | 94.55 m. to point 210; | | thence N. 7 deg. 12' W., | 56.21 m. to point 211; | | thence N. 48 deg. 28' E., | 84.11 m. to point 212; | | thence N. 47 deg. 49' E., | 126.19 m. to point 213; | | thence N. 57 deg. 37' E., | 48.60 m. to point 214; | | thence S. 29 deg. 06' E., | 90.99 m. to point 215; | | thence S. 73 deg. 17' E., | 40.12 m. to point 216; | | thence N. 77 deg. 49' E., | 64.42 m. to point 217; | | thence N. 40 deg. 08' E., | 20.14 m. to point 218; | | thence N. 63 deg. 50' E., | 58.42 m. to point 219; | | thence N. 63 deg. 50' E., | 106.86 m. to point 220; | | thence N. 74 deg. 42' E., | 106.86 m. to point 221; | | thence N. 42 deg. 51' E., | 46.27 m. to point 222; | | thence N. 38 deg. 25' E., | 11.17 m. to point 223; | | thence N. 43 deg. 37' E., | 10.25 m. to point 224; | | thence N. 60 deg. 46' E., | 8.62 m. to point 225; | | thence N. 69 deg. 35' E., | 11.78 m. to point 226; | | thence N. 84 deg. 49' E., | 5.42 m. to point 227; | | thence S. 88 deg. 16' E., | 9.62 m. to point 228; | | thence S. 54 deg. 27' E., | 17.87 m. to point 229; | | thence N. 78 deg. 45' E., | 128.59 m. to point 230; | | thence S. 12 deg. 38' E., | 70.90 m. to point 231; | | thence N. 78 deg. 42' E., | 28.82 m. to point 232; | | thence N. 78 deg. 41' E., | 19.42 m. to point 233; | | thence N. 84 deg. 09' E., | 36.88 m. to point 234; | | thence S. 83 deg. 22' E., | 28.24 m. to point 235; | | thence N. 44 deg. 59' E., | 36.52 m. to point 236; | | thence N. 67 deg. 03' E., | 31.07 m. to point 237; | | thence N. 14 deg. 23' W., | 5.95 m. to point 238; | | thence N. 73 deg. 18' E., | 16.32 m. to point 239; | | thence N. 73 deg. 18' E., | 14.58 m. to point 240; | | thence N. 73 deg. 26' E., | 9.25 m. to point 241; | | thence N. 9 deg. 26' E., | 12.45 m. to point 242; | | thence S. 4 deg. 56' W., | 2.91 m. to point 243; | | thence N. 56 deg. 20' E., | 99.98 m. to point 244; | | thence N. 15 deg. 16' E., | 23.70 m. to point 245; | | thence N. 38 deg. 28' W., | 32.44 m. to point 246; | | thence N. 54 deg. 25' W., | 43.15 m. to point 247; | | thence S. 76 deg. 19' E., | 101.92 m. to point 248; | | thence S. 33 deg. 34' E., | 37.59 m. to point 249; | | thence S. 76 deg. 48' E., | 65.14 m. to point 250; | | thence N. 66 deg. 56' E., | 21.51 m. to point 251; | | thence N. 8 deg. 48' W., | 5.23 m. to point 252; | | thence N. 55 deg. 19' E., | 7.42 m. to point 253; | | thence N. 86 deg. 52' E., | 62.38 m. to point 254; | | thence S. 83 deg. 45' E., | 13.68 m. to point 255; | | thence S. 81 deg. 34' E., | 12.21 m. to point 256; | | thence S. 82 deg. 01' E., | 2.16 m. to point 257; | | thence S. 81 deg. 34' W., | 2.73 m. to point 258; | | thence S. 88 deg. 09' E., | 59.09 m. to point 259; | | thence S. 15 deg. 48' E., | 12.49 m. to point 260; | | thence N. 78 deg. 57' E., | 35.98 m. to point 261; | | thence N 72 deg. 23' E., | 16.46 m. to point 262; | | thence N. 56 deg. 19' E., | 15.67 m. to point 263; | | thence N. 64 deg. 20' E., | 39.01 m. to point 264; | | thence N. 83 deg. 06' E., | 66.29 m. to point 265; | | thence N. 3 deg. 44' W., | 18.11 m. to point 266; | | thence N. 29 deg. 10' E., | 29.22 m. to point 267; | | thence N. 8 deg. 22' W., | 31.43 m. to point 268; | | thence N. 87 deg. 08' E., | 26.35 m. to point 269; | | thence N. 65 deg. 50' E., | 46.84 m. to point 270; | | thence N. 54 deg. 32' E., | 10.49 m. to point 271; | | thence N. 73 deg. 33' E., | 27.01 m. to point 272; | | thence S. 82 deg. 20' W., | 258.53 m. to point 273; | | thence N. 34 deg. 54' W., | 37.16 m. to point 274; | | thence N. 41 deg. 12' E., | 11.74 m. to point 275; | | thence N. 84 deg. 03' E., | 341.49 m. to point 276; | | thence N. 59 deg. 24' E., | 27.62 m. to point 277; | | thence N. 76 deg. 05' E., | 7.15 m. to point 278; | | thence S. 88 deg. 08' E., | 5.84 m. to point 279; | | thence S. 80 deg. 12' E., | 11.11 m. to point 280; | | thence N. 40 deg. 03' E., | 10.55 m. to point 281; | | thence N. 61 deg. 00' E., | 16.67 m. to point 282; | | thence N. 51 deg. 00' E., | 16.75 m. to point 283; | | thence N. 4 deg. 29' E., | 15.09 m. to point 284; | | thence N. 10 deg. 31' E., | 14.04 m. to point 285; | | thence N. 49 deg. 31' E., | 6.38 m. to point 286; | | thence N. 32 deg. 28' E., | 6.61 m. to point 287; | | thence N. 49 deg. 48' E., | 17.51 m. to point 288; | | thence S. 88 deg. 09' E., | 13.33 m. to point 289; | | thence N. 23 deg. 17' E., | 14.32 m. to point 290; | | thence N. 51 deg. 18' E., | 9.85 m. to point 291; | | thence N. 48 deg. 41' E., | 13.24 m. to point 292; | | thence N. 56 deg. 17' E., | 16.16 m. to point 293; | | thence N. 66 deg. 20' E., | 18.41 m. to point 294; | | thence N. 80 deg. 23' E., | 21.42 m. to point 295; | | thence N. 67 deg. 57' E., | 21.60 m. to point 296; | | thence N. 67 deg. 55' E., | 6.81 m. to point 297; | | thence N. 66 deg. 46' E., | 100.34 m. to point 298; | | thence N. 65 deg. 14' E., | 70.40 m. to point 299; | | thence N. 66 deg. 10' E., | 50.00 m. to point 300; | | thence S. 29 deg. 27' E., | 200.44 m. to point 301; | | thence N. 84 deg. 23' E., | 170.78 m. to point 302; | | thence S. 69 deg. 04' E., | 160.80 m. to point 303; | | thence S. 10 deg. 25' E., | 12.94 m. to point 304; | | thence S. 80 deg. 29' E., | 56.76 m. to point 305; | | thence N. 3 deg. 49' W., | 7.21 m. to point 306; | | thence S. 69 deg. 42' E., | 154.87 m. to point 307; | | thence S. 78 deg. 36' E., | 171.88 m. to point 308; | | thence S. 68 deg. 00' E., | 256.56 m. to point 309; | | thence S. 69 deg. 28' E., | 86.52 m. to point 310; | | thence S. 32 deg. 44' E., | 81.03 m. to point 311; | | thence S. 89 deg. 35' E., | 73.46 m. to point 312; | | thence S. 44 deg. 30' E., | 180.38 m. to point 313; | | thence S. 50 deg. 24' E., | 123.44 m. to point 314; | | thence S. 57 deg. 36' W., | 92.50 m. to point 315; | | thence S. 27 deg. 04' E., | 10.26 m. to point 316; | | thence S. 19 deg. 55' E., | 119.93 m. to point 317; | | thence S. 20 deg. 46' W., | 106.78 m. to point 318; | | thence S. 03 deg. 58' E., | 13.31 m. to point 319; | | thence S. 62 deg. 48' W., | 31.19 m. to point 320; | | thence S. 12 deg. 59' E., | 24.25 m. to point 321; | | thence S. 22 deg. 00' E., | 44.29 m. to point 322; | | thence S. 12 deg. 38' E., | 122.92 m. to point 323; | | thence S. 10 deg. 02' E., | 10.22 m. to point 324; | | thence S. 8 deg. 05' E., | 96.63 m. to point 325; | | thence S. 8 deg. 50' E., | 39.15 m. to point 326; | | thence S. 38 deg. 21' W., | 15.14 m. to point 327; | | thence S. 6 deg. 59' W., | 103.33 m. to point 328; | | thence N. 89 deg. 17' E., | 16.02 m. to point 329; | | thence S. 10 deg. 29' E., | 77.29 m. to point 330; | | thence S. 53 deg. 41' W., | 14.30 m. to point 331; | | thence S. 33 deg. 41' E., | 96.82 m. to point 332; | | thence S. 16 deg. 30' E., | 71.86 m. to point 333; | | thence S. 6 deg. 12' E., | 69.46 m. to point 334; | | thence S. 72 deg. 58' W., | 56.53 m. to point 335; | | thence S. 36 deg. 35' E., | 95.65 m. to point 336; | | thence S. 26 deg. 51' E., | 58.60 m. to point 337; | | thence S. 29 deg. 07' E., | 93.44 m. to point 338; | | thence S. 26 deg. 11' E., | 8.16 m. to point 339; | | thence S. 26 deg. 10' E., | 322.03 m. to point 340; | | thence N. 70 deg. 57' E., | 1.47 m. to point 341; | | thence S. 9 deg. 40' E., | 95.14 m. to point 342; | | thence S. 86 deg. 01' W., | 52.32 m. to point 343; | | thence S. 33 deg. 35' E., | 88.61 m. to point 344; | | thence S. 49 deg. 21' E., | 72.62 m. to point 345; | | thence S. 7 deg. 11' W., | 75.97 m. to point 346; | | thence S. 11 deg. 34' E., | 105.21 m. to point 347; | | thence S. 31 deg. 26' W., | 151.57 m. to point 348; | | thence S. 76 deg. 12' W., | 117.39 m. to point 349; | | thence S. 61 deg. 00' W., | 115.49 m. to point 350; | | thence S. 56 deg. 19' W., | 126.19 m. to point 351; | | thence S. 41 deg. 41' W., | 97.94 m. to point 352; | | thence S. 39 deg. 31' W., | 125.73 m. to point 353; | | thence S. 44 deg. 11' W., | 147.80 m. to point 354; | | thence S. 36 deg. 39' W., | 53.60 m. to point 355; | | thence S. 31 deg. 10' W., | 144.92 m. to point 356; | | thence S. 10 deg. 07' W., | 113.77 m. to point 357; | | thence S. 23 deg. 08' W., | 165.60 m. to point 358; | | thence S. 2 deg. 23' E., | 137.54 m. to point 359; | | thence S. 71 deg. 42' E., | 47.53 m. to point 360; | | thence S. 58 deg. 32' E., | 136.41 m. to point 361; | | thence S. 11 deg. 35' E., | 171.60 m. to point 362; | | thence S. 4 deg. 55' E., | 205.56 m. to point 363; | | thence S. 4 deg. 56' E., | 203.98 m. to point 364; | | thence S. 4 deg. 55' E., | 276.47 m. to point 365; | | thence S. 53 deg. 55' W., | 165.18 m. to point 366; | | thence S. 53 deg. 50' W., | 164.82 m. to point 367; | | thence S. 54 deg. 16' W., | 175.55 m. to point 368; | | thence S. 26 deg. 56' W., | 199.08 m. to point 369; | | thence N. 27 deg. 29' W., | 200.12 m. to point 370; | | thence N. 27 deg. 24' W., | 218.53 m. to point 371; | | thence S. 76 deg. 57' W., | 174.90 m. to point 372; | | thence N. 78 deg. 29' W., | 110.22 m. to point 373; | | thence S. 71 deg. 10' W., | 182.78 m. to point 374; | | thence S. 38 deg. 40' W., | 83.24 m. to point 375; | | thence S. 74 deg. 17' E., | 66.48 m. to point 376; | | thence S. 74 deg. 50' W., | 110.86 m. to point 377; | | thence S. 69 deg. 31' W., | 80.06 m. to point 378; | | thence S. 5 deg. 19' W., | 86.37 m. to point 379; | | thence S. 16 deg. 21' E., | 95.88 m. to point 380; | | thence S. 14 deg. 49' W., | 125.16 m. to point 381; | | thence S. 29 deg. 07' E., | 80.43 m. to point 382; | | thence S. 0 deg. 46' E., | 370.03 m. to point 383; | | thence N. 15 deg. 58' E., | 279.80 m. to point 384; | | thence S. 88 deg. 52' E., | 64.50 m. to point 385; | | thence S. 21 deg. 49' E., | 59.24 m. to point 386; | | thence S. 24 deg. 15' E., | 99.81 m. to point 387; | | thence S. 24 deg. 56' E., | 78.29 m. to point 388; | | thence S. 12 deg. 36' E., | 87.10 m. to point 389; | | thence S. 49 deg. 41' E., | 86.56 m. to point 390; | | thence S. 33 deg. 41' E., | 187.49 m. to point 391; | | thence S. 20 deg. 03' E., | 134.13 m. to point 392; | | thence S. 65 deg. 31' E., | 110.98 m. to point 393; | | thence S. 29 deg. 58' E., | 128.13 m. to point 394; | | thence S. 56 deg. 28' E., | 99.57 m. to point 395; | | thence S. 60 deg. 08' E., | 116.47 m. to point 396; | | thence N. 76 deg. 21' E., | 105.99 m. to point 397; | | thence S. 60 deg. 02' E., | 128.13 m. to point 398; | | thence N. 69 deg. 27' E., | 136.70 m. to point 399; | | thence N. 64 deg. 10' E., | 176.66 m. to point 400; | | thence N. 79 deg. 48' E., | 141.23 m. to point 401; | | thence N. 64 deg. 53' E., | 160.15 m. to point 402; | | thence N. 48 deg. 19' E., | 109.79 m. to point 403; | | thence N. 44 deg. 01' E., | 165.49 m. to point 404; | | thence N. 24 deg. 04' E., | 112.81 m. to point 405; | | thence N. 62 deg. 16' E., | 109.59 m. to point 406; | | thence S. 82 deg. 08' E., | 211.19 m. to point 407; | | thence S. 35 deg. 44' E., | 70.21 m. to point 408; | | thence S. 36 deg. 48' E., | 173.60 m. to point 409; | | thence N. 75 deg. 09' E., | 136.56 m. to point 410; | | thence N. 79 deg. 58' E., | 166.54 m. to point 411; | | thence S. 85 deg. 11' E., | 202.71 m. to point 412; | | thence N. 74 deg. 48' E., | 167.87 m. to point 413; | | thence S. 73 deg. 57' E., | 235.16 m. to point 414; | | thence N. 75 deg. 55' W., | 267.03 m. to point 415; | | thence S. 82 deg. 23' E., | 498.39 m. to point 416; | | thence S. 86 deg. 38' E., | 85.15 m. to point 417; | | thence S. 76 deg. 50' E., | 158.30 m. to point 418; | | thence S. 36 deg. 23' W., | 35.19 m. to point 419; | | thence S. 19 deg. 09' W., | 215.30 m. to point 420; | | thence S. 17 deg. 22' W., | 10.38 m. to point 421; | | thence S. 16 deg. 16' W., | 461.07 m. to point 422; | | thence S. 17 deg. 17' W., | 170.92 m. to point 423; | | thence S. 19 deg. 09' W., | 61.46 m. to point 424; | | thence S. 19 deg. 08' W., | 98.64 m. to point 425; | | thence S. 16 deg. 42' W., | 691.60 m. to point 426; | | thence S. 11 deg. 22' W., | 583.30 m. to point 427; | | thence S. 11 deg. 15' W., | 3,507.37 m. to point 428; | | thence N. 80 deg. 14' W., | 2,232.31 m. to point 429; | | thence N. 42 deg. 13' E., | 12.54 m. to point 430; | | thence N. 80 deg. 34' W., | 151.11 m. to point 431; | | thence N. 80 deg. 34' W., | 211.85 m. to point 432; | | thence N. 79 deg. 53' W., | 222.50 m. to point 433; | | thence S. 19 deg. 06' W., | 9.37 m. to point 434; | | thence S. 7 deg. 17' W., | 0.47 m. to point 435; | | thence N. 78 deg. 47' W. | 205.54 m. to point 436; | | thence N. 80 deg. 08' W., | 69.85 m. to point 437; | | thence N. 80 deg. 08' W., | 200.03 m. to point 438; | | thence N. 80 deg. 08' W., | 232.32 m. to point 439; | | thence N. 80 deg. 08' W., | 89.54 m. to point 440; | | thence N. 80 deg. 08' W., | 126.24 m. to point 441; | | thence S. 46 deg. 09' W., | 20.72 m. to point 442; | | thence N. 80 deg. 13' W., | 330.94 m. to point 443; | | thence S. 86 deg. 09' W., | 66.09 m. to point 444; | | thence N. 66 deg. 35' W., | 78.52 m. to point 445; | | thence N. 84 deg. 12' W., | 225.36 m. to point 446; | | thence S. 81 deg. 41' W., | 137.16 m. to point 447; | | thence S. 0 deg. 01' E., | 22.00 m. to point 448; | | thence N. 37 deg. 00' W., | 62.99 m. to point 449; | | thence N. 48 deg. 00' W., | 38.00 m. to point 450; | | thence S. 60 deg. 00' W., | 65.01 m. to point 451; | | thence N. 11 deg. 00' W., | 65.00 m. to point 452; | | thence N. 89 deg. 03' W., | 45.00 m. to point 453; | | thence N. 79 deg. 00' W., | 93.01 m. to point 454; | | thence S. 79 deg. 00' W., | 102.99 m. to point 455; | | thence N. 71 deg. 00' W., | 100.00 m. to point 456; | | thence N. 80 deg. 00' W., | 90.01 m. to point 457; | | thence N. 61 deg. 00' W., | 184.00 m. to point 458; | | thence S. 74 deg. 00' W., | 110.00 m. to point 459; | | thence N. 77 deg. 00' W., | 319.99 m. to point 460; | | thence S. 15 deg. 57' W., | 36.46 m. to point 461; | | thence S. 70 deg. 56' W., | 165.51 m. to point 462; | | thence N. 20 deg. 00' W., | 75.01 m. to point 463; | | thence N. 78 deg. 00' W., | 65.00 m. to point 464; | | thence S. 36 deg. 13' W., | 58.30 m. to point 465; | | thence N. 30 deg. 59' W., | 51.29 m. to point 466; | | thence S. 69 deg. 47' W., | 99.94 m. to point 467; | | thence S. 13 deg. 00' W., | 8.89 m. to point 468; | | thence N. 36 deg. 12' W., | 54.46 m. to point 469; | | thence N. 63 deg. 30' W., | 49.43 m. to point 470; | | thence S. 70 deg. 41' W., | 31.09 m. to point 471; | | thence S. 25 deg. 77' W., | 33.16 m. to point 472; | | thence S. 16 deg. 28' W., | 54.51 m. to point 473; | | thence S. 5 deg. 59' W., | 35.56 m. to point 474; | | thence S. 2 deg. 10' E., | 27.79 m. to point 475; | | thence N. 13 deg. 56' W., | 63.43 m. to point 476; | | thence N. 78 deg. 59' W., | 5.49 m. to point 477; | | thence S. 55 deg. 06' W., | 60.06 m. to point 478; | | thence S. 36 deg. 16' W., | 31.51 m. to point 479; | | thence S. 71 deg. 32' W., | 43.06 m. to point 480; | | thence N. 77 deg. 26' W., | 69.62 m. to point 481; | | thence S. 69 deg. 52' W., | 78.85 m. to point 482; | | thence N. 68 deg. 30' W., | 62.61 m. to point 483; | | thence N. 80 deg. 11' W., | 129.30 m. to point 484; | | thence N. 48 deg. 21' W., | 81.62 m. to point 485; | | thence N. 73 deg. 30' W., | 95.15 m. to point 486; | | thence N. 7 deg. 20' W., | 143.28 m. to point 487; | | thence N. 70 deg. 00' W., | 41.00 m. to point 488; | | thence N. 24 deg. 00' E., | 44.00 m. to point 489; | | thence N. 39 deg. 01' W., | 96.01 m. to point 490; | | thence N. 62 deg. 22' W., | 209.76 m. to point 491; | | thence N. 62 deg. 23' W., | 85.00 m. to point 492; | | thence N. 75 deg. 28' W., | 1,495.48 m. to point 493; | | thence N. 70 deg. 10' W., | 1,980.55 m. to point 494; | | thence S. 87 deg. 02' W., | 1,727.70 m. to point 495; | | thence S. 83 deg. 54' W., | 927.41 m. to point 496; | | thence S. 83 deg. 55' W., | 1,971.59 m. to point 497: | | thence S. 79 deg. 05' W., | 837.70 m. to point 498; | | thence S. 71 deg. 00' W., | 2,813.60 m. to the point of beginning. |
+thence N. 13 deg. 15' E.,
+
+1,109.72 m. to point 2;
+
+thence N. 80 deg. 23' E.,
+
+38.24 m. to point 3;
+
+thence N. 59 deg. 49' W.,
+
+100.51 m. to point 4,
+
+thence N. 25 deg. 19' E.,
+
+45.56 m. to point 5;
+
+thence N. 16 deg. 18' W.,
+
+46.47 m. to point 6;
+
+thence N. 2 deg. 01' W.,
+
+73.82 m. to point 7;
+
+thence N. 55 deg. 25' W.,
+
+43.19 m. to point 8;
+
+thence N. 21 deg. 12' W.,
+
+44.39 m. to point 9;
+
+thence N. 00 deg. 50' E.,
+
+101.32 m. to point 10;
+
+thence N. 25 deg. 41' W.,
+
+52.71 m. to point 11;
+
+thence N. 17 deg. 47' E.,
+
+39.63 m. to point 12;
+
+thence N. 16 deg. 15' W.,
+
+100.50 m. to point 13;
+
+thence N. 63 deg. 36' W.,
+
+33.54 m. to point 14;
+
+thence N. 15 deg. 57' E.,
+
+72.80 m. to point 15;
+
+thence N. 47 deg. 44' W.,
+
+74.33 m. to point 16;
+
+thence N. 13 deg. 10' E.,
+
+241.35 m. to point 17;
+
+thence N. 66 deg. 02' E.,
+
+49.24 m. to point 18;
+
+thence N. 1 deg. 58' W.,
+
+145.09 m. to point 19;
+
+thence N. 48 deg. 22' W.,
+
+60.21 m. to point 20;
+
+thence N. 7 deg. 36' W.,
+
+75.66 m. to point 21;
+
+thence N. 79 deg. 19' E.,
+
+53.94 m. to point 22;
+
+thence N. 21 deg. 03' E.,
+
+214.31 m. to point 23;
+
+thence N. 65 deg. 18' W.,
+
+95.75 m. to point 24;
+
+thence N. 19 deg. 29' W.,
+
+68.95 m. to point 25;
+
+thence N. 49 deg. 11' W.,
+
+145.34 m. to point 26;
+
+thence N. 28 deg. 22' E.,
+
+56.82 m. to point 27;
+
+thence N. 26 deg. 24' W.,
+
+126.07 m. to point 28;
+
+thence N. 5 deg. 43' E.,
+
+50.25 m. to point 29;
+
+thence S. 30 deg. 15' E.,
+
+69.46 m. to point 30;
+
+thence N. 6 deg. 01' E.,
+
+95.52 m. to point 31;
+
+thence N. 32 deg. 16' E.,
+
+112.36 m. to point 32;
+
+thence N. 21 deg. 48' E.,
+
+134.63 m. to point 33;
+
+thence N. 38 deg. 17' E.,
+
+121.04 m. to point 34;
+
+thence N. 61 deg. 11' E.,
+
+114.13 m. to point 35;
+
+thence S. 86 deg. 11' E.,
+
+75.17 m. to point 36;
+
+thence N. 55 deg. 50' E.,
+
+169.19 m. to point 37;
+
+thence S. 81 deg. 28' E.,
+
+101.12 m. to point 38;
+
+thence N. 5 deg. 17' E.,
+
+271.15 m. to point 39;
+
+thence N. 17 deg. 56' E.,
+
+178.68 m. to point 40;
+
+thence N. 22 deg. 39' W.,
+
+124.62 m. to point 41;
+
+thence N. 24 deg. 24' E.,
+
+263.18 m. to point 42;
+
+thence N. 57 deg. 44' E.,
+
+112.36 m. to point 43;
+
+thence S. 74 deg. 29' E.,
+
+93.41 m. to point 44;
+
+thence N. 60 deg. 15' E.,
+
+120.93 m. to point 45;
+
+thence S. 59 deg. 02' E.,
+
+145.77 m. to point 46;
+
+thence N. 44 deg. 32' E.,
+
+85.56 m. to point 47;
+
+thence N. 19 deg. 28' W.,
+
+105.00 m. to point 48;
+
+thence N. 18 deg. 26' E.,
+
+94.87 m. to point 49;
+
+thence N. 66 deg. 42' E.,
+
+391.95 m. to point 50;
+
+thence N. 29 deg. 59' E.,
+
+150.08 m. to point 51;
+
+thence N. 5 deg. 12' W.,
+
+165.68 m. to point 52;
+
+thence N. 43 deg. 55' E.,
+
+187.42 m. to point 53;
+
+thence N. 6 deg. 20' E.,
+
+135.83 m. to point 54;
+
+thence N. 76 deg. 22' E.,
+
+160.72 m. to point 55;
+
+thence S. 87 deg. 57' E.,
+
+140.09 m. to point 56;
+
+thence N. 1 deg. 16' W.,
+
+225.06 m. to point 57;
+
+thence N. 22 deg. 23' E.,
+
+91.92 m. to point 58;
+
+thence N. 81 deg. 52' E.,
+
+70.71 m. to point 59;
+
+thence N. 18 deg. 26' E.,
+
+79.06 m. to point 60;
+
+thence N. 73 deg. 37' E.,
+
+88.60 m. to point 61;
+
+thence S. 63 deg. 26' E.,
+
+55.90 m. to point 62;
+
+thence N. 54 deg. 41' E.,
+
+147.06 m. to point 63;
+
+thence S. 60 deg. 15' E.,
+
+120.93 m. to point 64;
+
+thence N. 53 deg. 45' E.,
+
+93.01 m. to point 65;
+
+thence N. 86 deg. 49' E.,
+
+90.14 m. to point 66;
+
+thence N. 68 deg. 12' E.,
+
+107.70 m. to point 67;
+
+thence N. 38 deg. 40' E.,
+
+96.05 m. to point 68;
+
+thence S. 79 deg. 19' E.,
+
+269.68 m. to point 69;
+
+thence N. 7 deg. 30' E.,
+
+191.64 m. to point 70;
+
+thence N. 81 deg. 28' E.,
+
+101.12 m. to point 71;
+
+thence N. 15 deg. 57' W.,
+
+145.60 m. to point 72;
+
+thence N. 58 deg. 47' E.,
+
+192.94 m. to point 73;
+
+thence N. 35 deg. 50' W.,
+
+111.02 m. to point 74;
+
+thence N. 49 deg. 24' E.,
+
+46.10 m. to point 75;
+
+thence S. 56 deg. 19' E.,
+
+90.14 m. to point 76;
+
+thence N. 39 deg. 17' E.,
+
+71.06 m. to point 77;
+
+thence N. 75 deg. 23' W.,
+
+118.25 m. to point 78;
+
+thence N. 21 deg. 02' E.,
+
+69.64 m. to point 79;
+
+thence S. 69 deg. 41' E.,
+
+143.96 m. to point 80;
+
+thence N. 33 deg. 41' E.,
+
+90.14 m. to point 81;
+
+thence S. 86 deg. 25' W.,
+
+80.16 m. to point 82;
+
+thence N. 21 deg. 48' W.,
+
+53.85 m. to point 83;
+
+thence N. 45 deg. 00' E.,
+
+56.57 m. to point 84;
+
+thence S. 85 deg. 36' E.,
+
+65.19 m. to point 85;
+
+thence N. 6 deg. 20' W.,
+
+45.28 m. to point 86;
+
+thence N. 62 deg. 42' W.,
+
+174.43 m. to point 87;
+
+thence N. 15 deg. 15' W.,
+
+57.01 m. to point 88;
+
+thence N. 81 deg. 52' E.,
+
+70.71 m. to point 89;
+
+thence N. 3 deg. 28' E.,
+
+33.06 m. to point 90;
+
+thence N. 62 deg. 42' W.,
+
+69.77 m. to point 91;
+
+thence N. 33 deg. 41' E.,
+
+72.11 m. to point 92;
+
+thence N. 74 deg. 13' E.,
+
+239.01 m. to point 93;
+
+thence N. 29 deg. 21' E.,
+
+183.53 m. to point 94;
+
+thence N. 13 deg. 34' W.,
+
+149.16 m. to point 95;
+
+thence N. 47 deg. 03' E.,
+
+198.12 m. to point 96;
+
+thence N. 14 deg. 02' E.,
+
+82.46 m. to point 97;
+
+thence N. 72 deg. 11' E.,
+
+147.05 m. to point 98;
+
+thence N. 52 deg. 36' E.,
+
+214.01 m. to point 99;
+
+thence N. 61 deg. 23' E.,
+
+187.95 m. to point 100;
+
+thence N. 34 deg. 46' E.,
+
+426.09 m. to point 101;
+
+thence N. 57 deg. 22' E.,
+
+194.73 m. to point 102;
+
+thence N. 77 deg. 47' E.,
+
+174.96 m. to point 103;
+
+thence N. 49 deg. 40' E.,
+
+295.14 m. to point 104;
+
+thence N. 75 deg. 08' E.,
+
+202.78 m. to point 105;
+
+thence S. 76 deg. 53' E.,
+
+198.18 m. to point 106;
+
+thence N. 60 deg. 42' E.,
+
+177.75 m. to point 107;
+
+thence S. 88 deg. 11' E.,
+
+346.17 m. to point 108;
+
+thence N. 56 deg. 59' E.,
+
+310.10 m. to point 109;
+
+thence N. 62 deg. 41' E.,
+
+540.28 m. to point 110;
+
+thence N. 35 deg. 49' E.,
+
+164.03 m. to point 111;
+
+thence N. 68 deg. 45' E.,
+
+231.76 m. to point 112;
+
+thence S. 75 deg. 58' E.,
+
+82.46 m. to point 113;
+
+thence N. 71 deg. 34' E.,
+
+252.98 m. to point 114;
+
+thence N. 27 deg. 06' E.,
+
+241.51 m. to point 115;
+
+thence N. 54 deg. 41' E.,
+
+147.05 m. to point 116;
+
+thence S. 40 deg. 06' E.,
+
+124.20 m. to point 117;
+
+thence N. 76 deg. 14' E.,
+
+252.24 m. to point 118;
+
+thence N. 53 deg. 22' E.,
+
+243.00 m. to point 119;
+
+thence N. 83 deg. 27' E.,
+
+437.86 m. to point 120;
+
+thence S. 56 deg. 19' E.,
+
+72.11 m. to point 121;
+
+thence N. 75 deg. 58' E.,
+
+288.62 m. to point 122;;
+
+thence N. 10 deg. 18' E.,
+
+55.90 m. to point 123;
+
+thence N. 66 deg. 18' E.,
+
+223.89 m. to point 124;
+
+thence S. 67 deg. 56' E.,
+
+79.85 m. to point 125;
+
+thence N. 19 deg. 07' E.,
+
+79.38 m. to point 126;
+
+thence N. 52 deg. 46' E.,
+
+157.00 m. to point 127;
+
+thence N. 80 deg. 55' E.,
+
+126.59 m. to point 128;
+
+thence N. 55 deg. 30' E.,
+
+97.08 m. to point 129;
+
+thence N. 58 deg. 45' E.,
+
+520.50 m. to point 130;
+
+thence N. 4 deg. 38' E.,
+
+185.61 m. to point 131;
+
+thence N. 45 deg. 00' E.,
+
+98.99 m. to point 132;
+
+thence N. 68 deg. 12' E.,
+
+242.33 m. to point 133;
+
+thence S. 45 deg. 34' E.,
+
+141.43 m. to point 134;
+
+thence N. 76 deg. 15' E.,
+
+143.10 m. to point 135;
+
+thence S. 17 deg. 28' E.,
+
+243.21 m. to point 136;
+
+thence S. 73 deg. 04' E.,
+
+192.33 m. to point 137;
+
+thence S. 77 deg. 43' E.,
+
+173.98 m. to point 138;
+
+thence S. 86 deg. 24' E.,
+
+461.91 m. to point 139;
+
+thence N. 77 deg. 52' E.,
+
+218.89 m. to point 140;
+
+thence S. 37 deg. 42' E.,
+
+83.41 m. to point 141;
+
+thence S. 24 deg. 22' W.,
+
+58.18 m. to point 142;
+
+thence S. 00 deg. 47' W.,
+
+54.96 m. to point 143;
+
+thence S. 4 deg. 35' W.,
+
+68.25 m. to point 144;
+
+thence S. 23 deg. 58' E.,
+
+89.55 m. to point 145;
+
+thence S. 45 deg. 00' E.,
+
+42.43 m. to point 146;
+
+thence N. 55 deg. 01' E.,
+
+73.24 m. to point 147;
+
+thence N. 82 deg. 06' E.,
+
+36.35 m. to point 148;
+
+thence S. 75 deg. 40' E.,
+
+92.89 m. to point 149;
+
+thence S. 48 deg. 59' E.,
+
+132.55 m. to point 150;
+
+thence N. 87 deg. 12' E.,
+
+164.20 m. to point 151;
+
+thence S. 64 deg. 59' E.,
+
+66.21 m. to point 152;
+
+thence S. 78 deg. 19' W.,
+
+148.07 m. to point 153;
+
+thence S. 68 deg. 35' E.,
+
+273.91 m. to point 154;
+
+thence S. 35 deg. 32' W.,
+
+129.03 m. to point 155;
+
+thence S. 5 deg. 09' E.,
+
+182.06 m. to point 156;
+
+thence S. 82 deg. 41' E.,
+
+76.75 m. to point 157;
+
+thence N. 77 deg. 19' E.,
+
+115.12 m. to point 158;
+
+thence S. 72 deg. 43' E.,
+
+72.53 m. to point 159;
+
+thence S. 56 deg. 27' E.,
+
+41.26 m. to point 160;
+
+thence S. 20 deg. 08' E.,
+
+19.96 m. to point 161;
+
+thence S. 3 deg. 48' W.,
+
+45.36 m. to point 162;
+
+hence S. 28 deg. 42' W.,
+
+30.24 m. to point 163;
+
+thence S. 28 deg. 03' E.,
+
+38.82 m. to point 164;
+
+thence S. 24 deg. 45' E.,
+
+42.27 m. to point 165;
+
+thence S. 66 deg. 50' E.,
+
+4.68 m. to point 166;
+
+thence N. 59 deg. 08' E.,
+
+77.88 m. to point 167;
+
+thence N. 59 deg. 09' E.,
+
+135.15 m. to point 168;
+
+thence N. 59 deg. 05' E.,
+
+72.30 m. to point 169;
+
+thence N. 57 deg. 30' E.,
+
+12.10 m. to point 170;
+
+thence N. 57 deg. 33' E.,
+
+19.79 m. to point 171;
+
+thence N. 59 deg. 17' E.,
+
+17.58 m. to point 172;
+
+thence N. 71 deg. 32' E.,
+
+37.33 m. to point 173;
+
+thence N. 74 deg. 59' E.,
+
+19.40 m. to point 174;
+
+thence N. 1 deg. 05' E.,
+
+47.19 m. to point 175;
+
+thence S. 77 deg. 12' E.,
+
+88.61 m. to point 176;
+
+thence N. 73 deg. 33' E.,
+
+185.55 m. to point 177;
+
+thence N. 73 deg. 82' E.,
+
+185.00 m. to point 178;
+
+thence N. 52 deg. 11' E.,
+
+8.53 m. to point 179;
+
+thence N. 50 deg. 19' E.,
+
+52.73 m. to point 180;
+
+thence N. 44 deg. 02' E.,
+
+54.58 m. to point 181;
+
+thence N. 40 deg. 59' E.,
+
+21.62 m. to point 182;
+
+thence N. 45 deg. 03' E.,
+
+90.48 m. to point 183;
+
+thence S. 25 deg. 24' E.,
+
+5.52 m. to point 184;
+
+thence N. 70 deg. 40' E.,
+
+47.84 m. to point 185;
+
+thence N. 71 deg. 34' E.,
+
+0.28 m. to point 186;
+
+thence N. 46 deg. 45' E.,
+
+31.81 m. to point 187;
+
+thence N. 55 deg. 01' E.,
+
+123.29 m. to point 188;
+
+thence N. 69 deg. 29' E.,
+
+98.74 m. to point 189;
+
+thence N. 73 deg. 44' W.,
+
+72.31 m. to point 190;
+
+thence N. 71 deg. 10' E.,
+
+108.11 m. to point 191;
+
+thence N. 60 deg. 46' E.,
+
+7.49 m. to point 192;
+
+thence N. 12 deg. 28' W.,
+
+10.94 m. to point 193;
+
+thence N. 60 deg. 17' E.,
+
+57.72 m. to point 194;
+
+thence N. 19 deg. 58' W.,
+
+78.76 m. to point 195;
+
+thence S. 19 deg. 15' E.,
+
+78.88 m. to point 196;
+
+thence N. 56 deg. 26' E.,
+
+63.36 m. to point 197;
+
+thence N. 80 deg. 58' E.,
+
+19.24 m. to point 198;
+
+thence N. 81 deg. 00' E.,
+
+43.40 m. to point 199;
+
+thence N. 81 deg. 01' E.,
+
+33.02 m. to point 200;
+
+thence N. 77 deg. 07' E.,
+
+86.63 m. to point 201;
+
+thence S. 83 deg. 47' W.,
+
+63.06 m. to point 202;
+
+thence N. 82 deg. 43' E.,
+
+29.52 m. to point 203;
+
+thence N. 83 deg. 39' E.,
+
+17.97 m. to point 204;
+
+thence N. 85 deg. 57' E.,
+
+15.59 m. to point 205;
+
+thence N. 61 deg. 29' E.,
+
+6.30 m. to point 206;
+
+thence S. 70 deg. 18' E.,
+
+4.04 m. to point 207;
+
+thence S. 55 deg. 31' E.,
+
+146.02 m. to point 208;
+
+thence N. 48 deg. 28' E.,
+
+84.11 m. to point 209;
+
+thence N. 13 deg. 49' E.,
+
+94.55 m. to point 210;
+
+thence N. 7 deg. 12' W.,
+
+56.21 m. to point 211;
+
+thence N. 48 deg. 28' E.,
+
+84.11 m. to point 212;
+
+thence N. 47 deg. 49' E.,
+
+126.19 m. to point 213;
+
+thence N. 57 deg. 37' E.,
+
+48.60 m. to point 214;
+
+thence S. 29 deg. 06' E.,
+
+90.99 m. to point 215;
+
+thence S. 73 deg. 17' E.,
+
+40.12 m. to point 216;
+
+thence N. 77 deg. 49' E.,
+
+64.42 m. to point 217;
+
+thence N. 40 deg. 08' E.,
+
+20.14 m. to point 218;
+
+thence N. 63 deg. 50' E.,
+
+58.42 m. to point 219;
+
+thence N. 63 deg. 50' E.,
+
+106.86 m. to point 220;
+
+thence N. 74 deg. 42' E.,
+
+106.86 m. to point 221;
+
+thence N. 42 deg. 51' E.,
+
+46.27 m. to point 222;
+
+thence N. 38 deg. 25' E.,
+
+11.17 m. to point 223;
+
+thence N. 43 deg. 37' E.,
+
+10.25 m. to point 224;
+
+thence N. 60 deg. 46' E.,
+
+8.62 m. to point 225;
+
+thence N. 69 deg. 35' E.,
+
+11.78 m. to point 226;
+
+thence N. 84 deg. 49' E.,
+
+5.42 m. to point 227;
+
+thence S. 88 deg. 16' E.,
+
+9.62 m. to point 228;
+
+thence S. 54 deg. 27' E.,
+
+17.87 m. to point 229;
+
+thence N. 78 deg. 45' E.,
+
+128.59 m. to point 230;
+
+thence S. 12 deg. 38' E.,
+
+70.90 m. to point 231;
+
+thence N. 78 deg. 42' E.,
+
+28.82 m. to point 232;
+
+thence N. 78 deg. 41' E.,
+
+19.42 m. to point 233;
+
+thence N. 84 deg. 09' E.,
+
+36.88 m. to point 234;
+
+thence S. 83 deg. 22' E.,
+
+28.24 m. to point 235;
+
+thence N. 44 deg. 59' E.,
+
+36.52 m. to point 236;
+
+thence N. 67 deg. 03' E.,
+
+31.07 m. to point 237;
+
+thence N. 14 deg. 23' W.,
+
+5.95 m. to point 238;
+
+thence N. 73 deg. 18' E.,
+
+16.32 m. to point 239;
+
+thence N. 73 deg. 18' E.,
+
+14.58 m. to point 240;
+
+thence N. 73 deg. 26' E.,
+
+9.25 m. to point 241;
+
+thence N. 9 deg. 26' E.,
+
+12.45 m. to point 242;
+
+thence S. 4 deg. 56' W.,
+
+2.91 m. to point 243;
+
+thence N. 56 deg. 20' E.,
+
+99.98 m. to point 244;
+
+thence N. 15 deg. 16' E.,
+
+23.70 m. to point 245;
+
+thence N. 38 deg. 28' W.,
+
+32.44 m. to point 246;
+
+thence N. 54 deg. 25' W.,
+
+43.15 m. to point 247;
+
+thence S. 76 deg. 19' E.,
+
+101.92 m. to point 248;
+
+thence S. 33 deg. 34' E.,
+
+37.59 m. to point 249;
+
+thence S. 76 deg. 48' E.,
+
+65.14 m. to point 250;
+
+thence N. 66 deg. 56' E.,
+
+21.51 m. to point 251;
+
+thence N. 8 deg. 48' W.,
+
+5.23 m. to point 252;
+
+thence N. 55 deg. 19' E.,
+
+7.42 m. to point 253;
+
+thence N. 86 deg. 52' E.,
+
+62.38 m. to point 254;
+
+thence S. 83 deg. 45' E.,
+
+13.68 m. to point 255;
+
+thence S. 81 deg. 34' E.,
+
+12.21 m. to point 256;
+
+thence S. 82 deg. 01' E.,
+
+2.16 m. to point 257;
+
+thence S. 81 deg. 34' W.,
+
+2.73 m. to point 258;
+
+thence S. 88 deg. 09' E.,
+
+59.09 m. to point 259;
+
+thence S. 15 deg. 48' E.,
+
+12.49 m. to point 260;
+
+thence N. 78 deg. 57' E.,
+
+35.98 m. to point 261;
+
+thence N 72 deg. 23' E.,
+
+16.46 m. to point 262;
+
+thence N. 56 deg. 19' E.,
+
+15.67 m. to point 263;
+
+thence N. 64 deg. 20' E.,
+
+39.01 m. to point 264;
+
+thence N. 83 deg. 06' E.,
+
+66.29 m. to point 265;
+
+thence N. 3 deg. 44' W.,
+
+18.11 m. to point 266;
+
+thence N. 29 deg. 10' E.,
+
+29.22 m. to point 267;
+
+thence N. 8 deg. 22' W.,
+
+31.43 m. to point 268;
+
+thence N. 87 deg. 08' E.,
+
+26.35 m. to point 269;
+
+thence N. 65 deg. 50' E.,
+
+46.84 m. to point 270;
+
+thence N. 54 deg. 32' E.,
+
+10.49 m. to point 271;
+
+thence N. 73 deg. 33' E.,
+
+27.01 m. to point 272;
+
+thence S. 82 deg. 20' W.,
+
+258.53 m. to point 273;
+
+thence N. 34 deg. 54' W.,
+
+37.16 m. to point 274;
+
+thence N. 41 deg. 12' E.,
+
+11.74 m. to point 275;
+
+thence N. 84 deg. 03' E.,
+
+341.49 m. to point 276;
+
+thence N. 59 deg. 24' E.,
+
+27.62 m. to point 277;
+
+thence N. 76 deg. 05' E.,
+
+7.15 m. to point 278;
+
+thence S. 88 deg. 08' E.,
+
+5.84 m. to point 279;
+
+thence S. 80 deg. 12' E.,
+
+11.11 m. to point 280;
+
+thence N. 40 deg. 03' E.,
+
+10.55 m. to point 281;
+
+thence N. 61 deg. 00' E.,
+
+16.67 m. to point 282;
+
+thence N. 51 deg. 00' E.,
+
+16.75 m. to point 283;
+
+thence N. 4 deg. 29' E.,
+
+15.09 m. to point 284;
+
+thence N. 10 deg. 31' E.,
+
+14.04 m. to point 285;
+
+thence N. 49 deg. 31' E.,
+
+6.38 m. to point 286;
+
+thence N. 32 deg. 28' E.,
+
+6.61 m. to point 287;
+
+thence N. 49 deg. 48' E.,
+
+17.51 m. to point 288;
+
+thence S. 88 deg. 09' E.,
+
+13.33 m. to point 289;
+
+thence N. 23 deg. 17' E.,
+
+14.32 m. to point 290;
+
+thence N. 51 deg. 18' E.,
+
+9.85 m. to point 291;
+
+thence N. 48 deg. 41' E.,
+
+13.24 m. to point 292;
+
+thence N. 56 deg. 17' E.,
+
+16.16 m. to point 293;
+
+thence N. 66 deg. 20' E.,
+
+18.41 m. to point 294;
+
+thence N. 80 deg. 23' E.,
+
+21.42 m. to point 295;
+
+thence N. 67 deg. 57' E.,
+
+21.60 m. to point 296;
+
+thence N. 67 deg. 55' E.,
+
+6.81 m. to point 297;
+
+thence N. 66 deg. 46' E.,
+
+100.34 m. to point 298;
+
+thence N. 65 deg. 14' E.,
+
+70.40 m. to point 299;
+
+thence N. 66 deg. 10' E.,
+
+50.00 m. to point 300;
+
+thence S. 29 deg. 27' E.,
+
+200.44 m. to point 301;
+
+thence N. 84 deg. 23' E.,
+
+170.78 m. to point 302;
+
+thence S. 69 deg. 04' E.,
+
+160.80 m. to point 303;
+
+thence S. 10 deg. 25' E.,
+
+12.94 m. to point 304;
+
+thence S. 80 deg. 29' E.,
+
+56.76 m. to point 305;
+
+thence N. 3 deg. 49' W.,
+
+7.21 m. to point 306;
+
+thence S. 69 deg. 42' E.,
+
+154.87 m. to point 307;
+
+thence S. 78 deg. 36' E.,
+
+171.88 m. to point 308;
+
+thence S. 68 deg. 00' E.,
+
+256.56 m. to point 309;
+
+thence S. 69 deg. 28' E.,
+
+86.52 m. to point 310;
+
+thence S. 32 deg. 44' E.,
+
+81.03 m. to point 311;
+
+thence S. 89 deg. 35' E.,
+
+73.46 m. to point 312;
+
+thence S. 44 deg. 30' E.,
+
+180.38 m. to point 313;
+
+thence S. 50 deg. 24' E.,
+
+123.44 m. to point 314;
+
+thence S. 57 deg. 36' W.,
+
+92.50 m. to point 315;
+
+thence S. 27 deg. 04' E.,
+
+10.26 m. to point 316;
+
+thence S. 19 deg. 55' E.,
+
+119.93 m. to point 317;
+
+thence S. 20 deg. 46' W.,
+
+106.78 m. to point 318;
+
+thence S. 03 deg. 58' E.,
+
+13.31 m. to point 319;
+
+thence S. 62 deg. 48' W.,
+
+31.19 m. to point 320;
+
+thence S. 12 deg. 59' E.,
+
+24.25 m. to point 321;
+
+thence S. 22 deg. 00' E.,
+
+44.29 m. to point 322;
+
+thence S. 12 deg. 38' E.,
+
+122.92 m. to point 323;
+
+thence S. 10 deg. 02' E.,
+
+10.22 m. to point 324;
+
+thence S. 8 deg. 05' E.,
+
+96.63 m. to point 325;
+
+thence S. 8 deg. 50' E.,
+
+39.15 m. to point 326;
+
+thence S. 38 deg. 21' W.,
+
+15.14 m. to point 327;
+
+thence S. 6 deg. 59' W.,
+
+103.33 m. to point 328;
+
+thence N. 89 deg. 17' E.,
+
+16.02 m. to point 329;
+
+thence S. 10 deg. 29' E.,
+
+77.29 m. to point 330;
+
+thence S. 53 deg. 41' W.,
+
+14.30 m. to point 331;
+
+thence S. 33 deg. 41' E.,
+
+96.82 m. to point 332;
+
+thence S. 16 deg. 30' E.,
+
+71.86 m. to point 333;
+
+thence S. 6 deg. 12' E.,
+
+69.46 m. to point 334;
+
+thence S. 72 deg. 58' W.,
+
+56.53 m. to point 335;
+
+thence S. 36 deg. 35' E.,
+
+95.65 m. to point 336;
+
+thence S. 26 deg. 51' E.,
+
+58.60 m. to point 337;
+
+thence S. 29 deg. 07' E.,
+
+93.44 m. to point 338;
+
+thence S. 26 deg. 11' E.,
+
+8.16 m. to point 339;
+
+thence S. 26 deg. 10' E.,
+
+322.03 m. to point 340;
+
+thence N. 70 deg. 57' E.,
+
+1.47 m. to point 341;
+
+thence S. 9 deg. 40' E.,
+
+95.14 m. to point 342;
+
+thence S. 86 deg. 01' W.,
+
+52.32 m. to point 343;
+
+thence S. 33 deg. 35' E.,
+
+88.61 m. to point 344;
+
+thence S. 49 deg. 21' E.,
+
+72.62 m. to point 345;
+
+thence S. 7 deg. 11' W.,
+
+75.97 m. to point 346;
+
+thence S. 11 deg. 34' E.,
+
+105.21 m. to point 347;
+
+thence S. 31 deg. 26' W.,
+
+151.57 m. to point 348;
+
+thence S. 76 deg. 12' W.,
+
+117.39 m. to point 349;
+
+thence S. 61 deg. 00' W.,
+
+115.49 m. to point 350;
+
+thence S. 56 deg. 19' W.,
+
+126.19 m. to point 351;
+
+thence S. 41 deg. 41' W.,
+
+97.94 m. to point 352;
+
+thence S. 39 deg. 31' W.,
+
+125.73 m. to point 353;
+
+thence S. 44 deg. 11' W.,
+
+147.80 m. to point 354;
+
+thence S. 36 deg. 39' W.,
+
+53.60 m. to point 355;
+
+thence S. 31 deg. 10' W.,
+
+144.92 m. to point 356;
+
+thence S. 10 deg. 07' W.,
+
+113.77 m. to point 357;
+
+thence S. 23 deg. 08' W.,
+
+165.60 m. to point 358;
+
+thence S. 2 deg. 23' E.,
+
+137.54 m. to point 359;
+
+thence S. 71 deg. 42' E.,
+
+47.53 m. to point 360;
+
+thence S. 58 deg. 32' E.,
+
+136.41 m. to point 361;
+
+thence S. 11 deg. 35' E.,
+
+171.60 m. to point 362;
+
+thence S. 4 deg. 55' E.,
+
+205.56 m. to point 363;
+
+thence S. 4 deg. 56' E.,
+
+203.98 m. to point 364;
+
+thence S. 4 deg. 55' E.,
+
+276.47 m. to point 365;
+
+thence S. 53 deg. 55' W.,
+
+165.18 m. to point 366;
+
+thence S. 53 deg. 50' W.,
+
+164.82 m. to point 367;
+
+thence S. 54 deg. 16' W.,
+
+175.55 m. to point 368;
+
+thence S. 26 deg. 56' W.,
+
+199.08 m. to point 369;
+
+thence N. 27 deg. 29' W.,
+
+200.12 m. to point 370;
+
+thence N. 27 deg. 24' W.,
+
+218.53 m. to point 371;
+
+thence S. 76 deg. 57' W.,
+
+174.90 m. to point 372;
+
+thence N. 78 deg. 29' W.,
+
+110.22 m. to point 373;
+
+thence S. 71 deg. 10' W.,
+
+182.78 m. to point 374;
+
+thence S. 38 deg. 40' W.,
+
+83.24 m. to point 375;
+
+thence S. 74 deg. 17' E.,
+
+66.48 m. to point 376;
+
+thence S. 74 deg. 50' W.,
+
+110.86 m. to point 377;
+
+thence S. 69 deg. 31' W.,
+
+80.06 m. to point 378;
+
+thence S. 5 deg. 19' W.,
+
+86.37 m. to point 379;
+
+thence S. 16 deg. 21' E.,
+
+95.88 m. to point 380;
+
+thence S. 14 deg. 49' W.,
+
+125.16 m. to point 381;
+
+thence S. 29 deg. 07' E.,
+
+80.43 m. to point 382;
+
+thence S. 0 deg. 46' E.,
+
+370.03 m. to point 383;
+
+thence N. 15 deg. 58' E.,
+
+279.80 m. to point 384;
+
+thence S. 88 deg. 52' E.,
+
+64.50 m. to point 385;
+
+thence S. 21 deg. 49' E.,
+
+59.24 m. to point 386;
+
+thence S. 24 deg. 15' E.,
+
+99.81 m. to point 387;
+
+thence S. 24 deg. 56' E.,
+
+78.29 m. to point 388;
+
+thence S. 12 deg. 36' E.,
+
+87.10 m. to point 389;
+
+thence S. 49 deg. 41' E.,
+
+86.56 m. to point 390;
+
+thence S. 33 deg. 41' E.,
+
+187.49 m. to point 391;
+
+thence S. 20 deg. 03' E.,
+
+134.13 m. to point 392;
+
+thence S. 65 deg. 31' E.,
+
+110.98 m. to point 393;
+
+thence S. 29 deg. 58' E.,
+
+128.13 m. to point 394;
+
+thence S. 56 deg. 28' E.,
+
+99.57 m. to point 395;
+
+thence S. 60 deg. 08' E.,
+
+116.47 m. to point 396;
+
+thence N. 76 deg. 21' E.,
+
+105.99 m. to point 397;
+
+thence S. 60 deg. 02' E.,
+
+128.13 m. to point 398;
+
+thence N. 69 deg. 27' E.,
+
+136.70 m. to point 399;
+
+thence N. 64 deg. 10' E.,
+
+176.66 m. to point 400;
+
+thence N. 79 deg. 48' E.,
+
+141.23 m. to point 401;
+
+thence N. 64 deg. 53' E.,
+
+160.15 m. to point 402;
+
+thence N. 48 deg. 19' E.,
+
+109.79 m. to point 403;
+
+thence N. 44 deg. 01' E.,
+
+165.49 m. to point 404;
+
+thence N. 24 deg. 04' E.,
+
+112.81 m. to point 405;
+
+thence N. 62 deg. 16' E.,
+
+109.59 m. to point 406;
+
+thence S. 82 deg. 08' E.,
+
+211.19 m. to point 407;
+
+thence S. 35 deg. 44' E.,
+
+70.21 m. to point 408;
+
+thence S. 36 deg. 48' E.,
+
+173.60 m. to point 409;
+
+thence N. 75 deg. 09' E.,
+
+136.56 m. to point 410;
+
+thence N. 79 deg. 58' E.,
+
+166.54 m. to point 411;
+
+thence S. 85 deg. 11' E.,
+
+202.71 m. to point 412;
+
+thence N. 74 deg. 48' E.,
+
+167.87 m. to point 413;
+
+thence S. 73 deg. 57' E.,
+
+235.16 m. to point 414;
+
+thence N. 75 deg. 55' W.,
+
+267.03 m. to point 415;
+
+thence S. 82 deg. 23' E.,
+
+498.39 m. to point 416;
+
+thence S. 86 deg. 38' E.,
+
+85.15 m. to point 417;
+
+thence S. 76 deg. 50' E.,
+
+158.30 m. to point 418;
+
+thence S. 36 deg. 23' W.,
+
+35.19 m. to point 419;
+
+thence S. 19 deg. 09' W.,
+
+215.30 m. to point 420;
+
+thence S. 17 deg. 22' W.,
+
+10.38 m. to point 421;
+
+thence S. 16 deg. 16' W.,
+
+461.07 m. to point 422;
+
+thence S. 17 deg. 17' W.,
+
+170.92 m. to point 423;
+
+thence S. 19 deg. 09' W.,
+
+61.46 m. to point 424;
+
+thence S. 19 deg. 08' W.,
+
+98.64 m. to point 425;
+
+thence S. 16 deg. 42' W.,
+
+691.60 m. to point 426;
+
+thence S. 11 deg. 22' W.,
+
+583.30 m. to point 427;
+
+thence S. 11 deg. 15' W.,
+
+3,507.37 m. to point 428;
+
+thence N. 80 deg. 14' W.,
+
+2,232.31 m. to point 429;
+
+thence N. 42 deg. 13' E.,
+
+12.54 m. to point 430;
+
+thence N. 80 deg. 34' W.,
+
+151.11 m. to point 431;
+
+thence N. 80 deg. 34' W.,
+
+211.85 m. to point 432;
+
+thence N. 79 deg. 53' W.,
+
+222.50 m. to point 433;
+
+thence S. 19 deg. 06' W.,
+
+9.37 m. to point 434;
+
+thence S. 7 deg. 17' W.,
+
+0.47 m. to point 435;
+
+thence N. 78 deg. 47' W.
+
+205.54 m. to point 436;
+
+thence N. 80 deg. 08' W.,
+
+69.85 m. to point 437;
+
+thence N. 80 deg. 08' W.,
+
+200.03 m. to point 438;
+
+thence N. 80 deg. 08' W.,
+
+232.32 m. to point 439;
+
+thence N. 80 deg. 08' W.,
+
+89.54 m. to point 440;
+
+thence N. 80 deg. 08' W.,
+
+126.24 m. to point 441;
+
+thence S. 46 deg. 09' W.,
+
+20.72 m. to point 442;
+
+thence N. 80 deg. 13' W.,
+
+330.94 m. to point 443;
+
+thence S. 86 deg. 09' W.,
+
+66.09 m. to point 444;
+
+thence N. 66 deg. 35' W.,
+
+78.52 m. to point 445;
+
+thence N. 84 deg. 12' W.,
+
+225.36 m. to point 446;
+
+thence S. 81 deg. 41' W.,
+
+137.16 m. to point 447;
+
+thence S. 0 deg. 01' E.,
+
+22.00 m. to point 448;
+
+thence N. 37 deg. 00' W.,
+
+62.99 m. to point 449;
+
+thence N. 48 deg. 00' W.,
+
+38.00 m. to point 450;
+
+thence S. 60 deg. 00' W.,
+
+65.01 m. to point 451;
+
+thence N. 11 deg. 00' W.,
+
+65.00 m. to point 452;
+
+thence N. 89 deg. 03' W.,
+
+45.00 m. to point 453;
+
+thence N. 79 deg. 00' W.,
+
+93.01 m. to point 454;
+
+thence S. 79 deg. 00' W.,
+
+102.99 m. to point 455;
+
+thence N. 71 deg. 00' W.,
+
+100.00 m. to point 456;
+
+thence N. 80 deg. 00' W.,
+
+90.01 m. to point 457;
+
+thence N. 61 deg. 00' W.,
+
+184.00 m. to point 458;
+
+thence S. 74 deg. 00' W.,
+
+110.00 m. to point 459;
+
+thence N. 77 deg. 00' W.,
+
+319.99 m. to point 460;
+
+thence S. 15 deg. 57' W.,
+
+36.46 m. to point 461;
+
+thence S. 70 deg. 56' W.,
+
+165.51 m. to point 462;
+
+thence N. 20 deg. 00' W.,
+
+75.01 m. to point 463;
+
+thence N. 78 deg. 00' W.,
+
+65.00 m. to point 464;
+
+thence S. 36 deg. 13' W.,
+
+58.30 m. to point 465;
+
+thence N. 30 deg. 59' W.,
+
+51.29 m. to point 466;
+
+thence S. 69 deg. 47' W.,
+
+99.94 m. to point 467;
+
+thence S. 13 deg. 00' W.,
+
+8.89 m. to point 468;
+
+thence N. 36 deg. 12' W.,
+
+54.46 m. to point 469;
+
+thence N. 63 deg. 30' W.,
+
+49.43 m. to point 470;
+
+thence S. 70 deg. 41' W.,
+
+31.09 m. to point 471;
+
+thence S. 25 deg. 77' W.,
+
+33.16 m. to point 472;
+
+thence S. 16 deg. 28' W.,
+
+54.51 m. to point 473;
+
+thence S. 5 deg. 59' W.,
+
+35.56 m. to point 474;
+
+thence S. 2 deg. 10' E.,
+
+27.79 m. to point 475;
+
+thence N. 13 deg. 56' W.,
+
+63.43 m. to point 476;
+
+thence N. 78 deg. 59' W.,
+
+5.49 m. to point 477;
+
+thence S. 55 deg. 06' W.,
+
+60.06 m. to point 478;
+
+thence S. 36 deg. 16' W.,
+
+31.51 m. to point 479;
+
+thence S. 71 deg. 32' W.,
+
+43.06 m. to point 480;
+
+thence N. 77 deg. 26' W.,
+
+69.62 m. to point 481;
+
+thence S. 69 deg. 52' W.,
+
+78.85 m. to point 482;
+
+thence N. 68 deg. 30' W.,
+
+62.61 m. to point 483;
+
+thence N. 80 deg. 11' W.,
+
+129.30 m. to point 484;
+
+thence N. 48 deg. 21' W.,
+
+81.62 m. to point 485;
+
+thence N. 73 deg. 30' W.,
+
+95.15 m. to point 486;
+
+thence N. 7 deg. 20' W.,
+
+143.28 m. to point 487;
+
+thence N. 70 deg. 00' W.,
+
+41.00 m. to point 488;
+
+thence N. 24 deg. 00' E.,
+
+44.00 m. to point 489;
+
+thence N. 39 deg. 01' W.,
+
+96.01 m. to point 490;
+
+thence N. 62 deg. 22' W.,
+
+209.76 m. to point 491;
+
+thence N. 62 deg. 23' W.,
+
+85.00 m. to point 492;
+
+thence N. 75 deg. 28' W.,
+
+1,495.48 m. to point 493;
+
+thence N. 70 deg. 10' W.,
+
+1,980.55 m. to point 494;
+
+thence S. 87 deg. 02' W.,
+
+1,727.70 m. to point 495;
+
+thence S. 83 deg. 54' W.,
+
+927.41 m. to point 496;
+
+thence S. 83 deg. 55' W.,
+
+1,971.59 m. to point 497:
+
+thence S. 79 deg. 05' W.,
+
+837.70 m. to point 498;
+
+thence S. 71 deg. 00' W.,
+
+2,813.60 m. to the point of beginning.
 
 Containing an approximate area of fourteen thousand nine hundred fifty hectares (14,950) hectares including the area of 14,479 has, surveyed under Cad-154.
 

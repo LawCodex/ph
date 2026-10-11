@@ -61,10 +61,10 @@ Acceptance of this franchise shall be given in writing by the grantee within six
 
 ## Section 10
 
-. The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise, nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise, nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
 
 ## Section 11
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

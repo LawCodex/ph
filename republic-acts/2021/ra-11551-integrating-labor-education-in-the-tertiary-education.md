@@ -87,8 +87,5 @@ This Act which is a consolidation of Senate Bill No. 1513 and House Bill No. 446
 
 Approved: MAY 27 2021
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

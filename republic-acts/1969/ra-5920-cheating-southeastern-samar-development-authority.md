@@ -174,7 +174,7 @@ _Removal for .cause; courtesy resignation_.—A member of the Board may be suspe
 
 ### Section 24
 
-. _Board meetings_.—The Board shall meet as frequently as is necessary to perform its duties, but shall meet at least once every month. The Board shall be convoked by the Chairman or upon written request signed by a majority of the members.
+_Board meetings_.—The Board shall meet as frequently as is necessary to perform its duties, but shall meet at least once every month. The Board shall be convoked by the Chairman or upon written request signed by a majority of the members.
 
 ### Section 25
 
@@ -182,7 +182,7 @@ _Per diems_.—The members of the Board, except the Chairman-General Manager, sh
 
 ### Section 26
 
-. _Powers of General Manager_.—The General Manager shall be the chief executive of the Authority. As such, he shall have the following powers and duties:
+_Powers of General Manager_.—The General Manager shall be the chief executive of the Authority. As such, he shall have the following powers and duties:
 
 a) To prepare the agenda for the meetings of the Board and to submit for the consideration thereof the policies and measures which he believes to be necessary to carry out the purposes and provisions of this Act;
 

@@ -44,7 +44,7 @@ _Creation of the Film Development Council of the Philippines._ – To carry out 
 
 ## Section 3
 
-. **_Powers and Functions._** \- The Council shall have the following powers and functions:
+**_Powers and Functions._** \- The Council shall have the following powers and functions:
 
 1\. To establish and implement a Cinema Evaluation System in accordance with the criteria set forth in this Act;
 
@@ -114,7 +114,7 @@ _The Executive Director._ \- The Chairperson shall be assisted by an Executive D
 
 ## Section 9
 
-. **_Functions of the Chairperson._** \- The Chairperson shall have the following functions:
+**_Functions of the Chairperson._** \- The Chairperson shall have the following functions:
 
 1\. Execute and administer the policies, plans and programs approved by the council;
 

@@ -50,9 +50,13 @@ _Coverage._ \- The Authority shall cover all the provinces and cities of Regions
 
 X, XI, XII, Caraga and Autonomous Region in Muslim Mindanao (ARMM): Provided, That the Province of Palawan shall be included in its coverage only as it pertains to its involvement in the BIMP-EAGA.
 
-**Section** 5\. Principal Office and Term. - The Authority shall have its main office in Maramag, Bukidnon. It may establish area management offices (AMOs), if necessary, to achieve the objectives of this Act. The Authority shall also have a term of fifty (50) years from the effectivity of its Act and renewable for the same period unless otherwise provided by law.
+## Section 5
 
-**Section** 6\. Powers and Functions of the MinDA. - In the exercise of those activities which are Mindanao-wide and/or Mindanao-specific in character, the Authority shall have the following powers and functions:
+Principal Office and Term. - The Authority shall have its main office in Maramag, Bukidnon. It may establish area management offices (AMOs), if necessary, to achieve the objectives of this Act. The Authority shall also have a term of fifty (50) years from the effectivity of its Act and renewable for the same period unless otherwise provided by law.
+
+## Section 6
+
+Powers and Functions of the MinDA. - In the exercise of those activities which are Mindanao-wide and/or Mindanao-specific in character, the Authority shall have the following powers and functions:
 
 (a) Formulate an integrated development framework for Mindanao that is consistent with the peace and development initiatives of the national government, as far as practicable;
 

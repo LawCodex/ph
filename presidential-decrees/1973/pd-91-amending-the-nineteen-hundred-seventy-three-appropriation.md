@@ -1,0 +1,40 @@
+---
+title: "Presidential Decree No. 91 — Amending the Nineteen Hundred Seventy-Three Appropriation Act By Eliminating the Proviso in Section Five, Subsection Twenty, General Provisions"
+identifier: "Presidential Decree No. 91"
+number: "91"
+type: decree
+jurisdiction: ph
+language: en
+date: 1973-01-06
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1973/pd_91_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 91
+
+**Amending the Nineteen Hundred Seventy-Three Appropriation Act By Eliminating the Proviso in Section Five, Subsection Twenty, General Provisions**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 91 January 6, 1973**
+
+AMENDING THE NINETEEN HUNDRED SEVENTY-THREE APPROPRIATION ACT BY ELIMINATING THE PROVISO IN SECTION FIVE, SUBSECTION TWENTY, GENERAL PROVISIONS
+
+WHEREAS, Congress is passing the Nineteen Hundred Seventy Three General Appropriation Bill (H.B. No. 4900) has inserted a proviso in Section Five, Subsection Twenty of the General Appropriations, which reads:
+
+"(20) for the improvement of the life, living conditions and social economic opportunities of the National Minorities: PROVIDED, That the implementation of these objectives shall be under the control and supervision of the Commission on National Integration P2,000,000"
+
+WHEREAS, the proviso would place at the disposal of the Commission on National Integration the use of savings for purposes not originally contemplated to be undertaken by said Commission, and will if allowed to remain, affect the effective control, latitude and discretion given to the President in dealing with the affairs of the nation pursuant to General Order No. 1 dated September 22, 1972, in conjunction with Proclamation No. 1081, issued on September 21, 1972;
+
+WHEREAS, said proviso would place in a subordinate position the Office of the Presidential Assistant on National Minorities, who has the rank of a cabinet member, and who is heavily involved in improvement of the way of living of the National Minorities;
+
+WHEREAS, said proviso may well be productive of misunderstanding;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby decree said proviso deleted and of no effect.
+
+This decree shall take effect immediately and shall become part of the law of the land.
+
+Done in the City of Manila, this 6th day of January, in the year of Our Lord, nineteen hundred and seventy-three.

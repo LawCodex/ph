@@ -1,0 +1,36 @@
+---
+title: "Presidential Decree No. 1803 — Amending Presidential Decree No. 949 Dated June 17, 1976 By Reserving Certain Parcels of Land of the Private Domain Situated in the Municipality of Mariveles, Province of Bataan as Part of the Petrochemical Industrial Zone"
+identifier: "Presidential Decree No. 1803"
+number: "1803"
+type: decree
+jurisdiction: ph
+language: en
+date: 1981-01-16
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1981/pd_1803_1981.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1803
+
+**Amending Presidential Decree No. 949 Dated June 17, 1976 By Reserving Certain Parcels of Land of the Private Domain Situated in the Municipality of Mariveles, Province of Bataan as Part of the Petrochemical Industrial Zone**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1803**
+
+AMENDING PRESIDENTIAL DECREE NO. 949 DATED JUNE 17, 1976 BY RESERVING CERTAIN PARCELS OF LAND OF THE PRIVATE DOMAIN SITUATED IN THE MUNICIPALITY OF MARIVELES, PROVINCE OF BATAAN AS PART OF THE PETROCHEMICAL INDUSTRIAL ZONE
+
+WHEREAS, Presidential Decree No. 949, amending Proclamation No. 361 dated March 6, 1968 and Proclamation No. 630 dated November 29, 1969, declared that site at Lamao, Limay, Bataan described in the aforementioned Proclamations as petrochemical industrial zone.
+
+WHEREAS, it is necessary to include as part of the petrochemical industrial zone several parcels of land located in the Municipality of Mariveles, Province of Bataan.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby amend Presidential Decree No. 949 dated June 17, 1976, by enlarging the area reserved for the Petrochemical Industrial Zone under the administration, management and ownership of the Philippine National Oil Company, by including, as part thereof, certain parcels of land of the private domain situated in the Municipality of Mariveles, Province of Bataan, subject to private rights if any there be, and more particularly described as follows:
+
+Lot Nos. 412, 413, 414, 415, 468, 469, 469C, 476, 477, 500, 503, 504, 505, 685, 686, 687, 719, 723C, 724, 749, 750, 754, 829, 830A, 831 of the cadastral survey of Mariveles, containing an approximate area of ONE MILLION EIGHT HUNDRED EIGHTY THOUSAND FORTY FIVE (1,880,045) SQUARE METERS.
+
+IN WITNESS WHEREOF, I have hereunto set my hand and caused the seal of the Republic of the Philippines to be affixed.
+
+Done in the City of Manila, this 16th day of January in the year of Our Lord, nineteen hundred and eighty-one.

@@ -669,7 +669,7 @@ _The Assistant City Assessor._ -
 
 ### Section 31
 
-. _The City Accountant._ -
+_The City Accountant._ -
 
 1. The city accountant must be a citizen of the Philippines, a resident of the City, of good moral character and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least five (5) years immediately preceding the date of his appointment.
 

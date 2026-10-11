@@ -870,11 +870,11 @@ This will not affect and prejudice any existing franchise or any litigation pend
 
 ### Section 100
 
-. _Ordinances, etc., of the City to remain in force._ — All ordinances, resolutions, orders or other regulations of the municipality on the date of the approval of this Act shall continue in full force and effect until repealed, modified or superseded by the city council by ordinance.
+_Ordinances, etc., of the City to remain in force._ — All ordinances, resolutions, orders or other regulations of the municipality on the date of the approval of this Act shall continue in full force and effect until repealed, modified or superseded by the city council by ordinance.
 
 ### Section 101
 
-. _Ownership of waterworks, electric light and power and telephone systems, roads, streets, etc._ — Any provisions of law to the contrary notwithstanding, all existing waterworks, electric light and power, and/or telephone systems presently operated by the Municipality of General Santos shall be owned by the city, and revenues therefrom shall accrue to the general fund of the city.
+_Ownership of waterworks, electric light and power and telephone systems, roads, streets, etc._ — Any provisions of law to the contrary notwithstanding, all existing waterworks, electric light and power, and/or telephone systems presently operated by the Municipality of General Santos shall be owned by the city, and revenues therefrom shall accrue to the general fund of the city.
 
 All existing municipal and provincial roads, streets, bridges, docks, piers, wharves, machineries, equipment and other public works improvements shall be owned by the city, and all the funds and assets of the Municipality of General Santos shall be owned by the city and its liabilities shall be assumed by the city, any provision of law to the contrary notwithstanding.
 
@@ -886,22 +886,22 @@ _Change of Government._ — The incumbent mayor, vice-mayor, and members of the 
 
 ### Section 103
 
-. _Participation in election of provincial officials._ — The voters of the City of General Santos shall not be qualified and entitled to vote in the election for provincial officials of the Province of South Cotabato.
+_Participation in election of provincial officials._ — The voters of the City of General Santos shall not be qualified and entitled to vote in the election for provincial officials of the Province of South Cotabato.
 
 ### Section 104
 
-. _Congressional District._ — Until otherwise provided by law, the City of General Santos shall continue as part of the Lone Congressional District of the Province of South Cotabato.
+_Congressional District._ — Until otherwise provided by law, the City of General Santos shall continue as part of the Lone Congressional District of the Province of South Cotabato.
 
 ### Section 105
 
-. _Barrio Councils._ — All existing barrio councils shall remain to exist and govern in accordance with the provisions of the Barrio Charter, Republic Act Numbered Thirty-five hundred ninety.
+_Barrio Councils._ — All existing barrio councils shall remain to exist and govern in accordance with the provisions of the Barrio Charter, Republic Act Numbered Thirty-five hundred ninety.
 
 ### Section 106
 
-. _Separability Clause._ — If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
+_Separability Clause._ — If any part or section of this Charter should be declared unconstitutional, such declaration shall not invalidate the other provisions hereof.
 
 ### Section 107
 
-. _Effectivity._ — This Act shall take effect upon its approval.
+_Effectivity._ — This Act shall take effect upon its approval.
 
 Approved: June 15, 1968.

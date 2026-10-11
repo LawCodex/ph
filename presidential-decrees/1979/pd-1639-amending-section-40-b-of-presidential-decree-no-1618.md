@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 1639 — Amending Section 40 (B) of Presidential Decree No. 1618"
+identifier: "Presidential Decree No. 1639"
+number: "1639"
+type: decree
+jurisdiction: ph
+language: en
+date: 1979-09-20
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1979/pd_1639_1979.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1639
+
+**Amending Section 40 (B) of Presidential Decree No. 1618**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1639**
+
+AMENDING SECTION 40 (b) OF PRESIDENTIAL DECREE NO. 1618
+
+WHEREAS, in order to fully comply with the mandate of the people in Regions IX and XII expressed in the referendum-plebiscite of April 17, 1977, and to enhance the attainment of peace and order, the acceleration of socio-economic development, and the resettlement of displaced persons and families in the said regions, it is necessary that the reins of government shall at once be placed in the hands of the local officials of said Autonomous Regions;
+
+WHEREAS, to attain the above objective, there is a need to amend section 40(b) of Presidential Decree No. 1618.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following:
+
+## Section 1
+
+Section 40(b) of Presidential Decree No. 1618 is hereby amended to read as follows:
+
+"Sec. 40. . . . ."
+
+"(b) The Office of the Regional Commissioner in each of the Autonomous Regions is hereby abolished and its appropriations, properties, and assets and liabilities and such personnel as may be necessary, shall be transferred immediately to the Sangguniang Pampook which shall in turn transfer the same to the Lupong Tagapagpaganap Ng Pook immediately upon the organization of the latter."
+
+## Section 2
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, Philippines, this 20th day of September, in the year of Our Lord, nineteen hundred and seventy-nine.

@@ -1,0 +1,43 @@
+---
+title: "Presidential Decree No. 715 — Amending Commonwealth Act No. 108, as Amended, Otherwise Known as \"The Anti-Dummy Law\""
+identifier: "Presidential Decree No. 715"
+number: "715"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-05-28
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_715_1975.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 715
+
+**Amending Commonwealth Act No. 108, as Amended, Otherwise Known as "The Anti-Dummy Law"**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 715 May 28, 1975**
+
+AMENDING COMMONWEALTH ACT NO. 108, AS AMENDED, OTHERWISE KNOWN AS "THE ANTI-DUMMY LAW"
+
+WHEREAS, there have been conflicting interpretations as to whether Section 2-A of Commonwealth Act No. 108, as amended, otherwise known as the Anti-Dummy Law, allows aliens to become members of the board of directors or governing body of corporations or associations engaging in partially nationalized activities;
+
+WHEREAS, it is fair and equitable and in line with the constitutional policy expressed in Article XIV, Section 5 of the Constitution, that foreign investors be allowed limited representation in the governing board or body of corporations or associations in proportion to their allowable participation in the equity of the said entities;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+
+## Section 1
+
+Section 2-A of Commonwealth Act No. 108, as amended, is hereby further amended to read as follows:
+
+"Section 2-A. Any person, corporation, or association, which, having in its name or under its control, a right, franchise, privilege, property or business, the exercise or enjoyment of which is expressly reserved by the Constitution or the laws to citizens of the Philippines or of any other specific country, or to corporations or associations at least sixty per centum of the capital of which is owned by such citizens, permits or allows the use, exploitation or enjoyment thereof by a person, corporation or association not possessing the requisites prescribed by the Constitution or the laws of the Philippines; or leases, or in any other way, transfers or conveys said right, franchise, privilege, property or business to a person, corporation or association not otherwise qualified under the Constitution, or the provisions of the existing laws; or in any manner permits or allows any person, not possessing the qualifications required by the Constitution, or existing laws to acquire, use, exploit or enjoy a right, franchise, privilege, property or business, the exercise and enjoyment of which are expressly reserved by the Constitution or existing laws to citizens of the Philippines or of any other specific country, to intervene in the management, operation, administration or control thereof, whether as an officer, employee or laborer therein with or without remuneration except technical personnel whose employment may be specifically authorized by the Secretary of Justice, and any person who knowingly aids, assists, or abets in the planning, consummation or perpetration of any of the acts herein above enumerated shall be punished by imprisonment for not less than five nor more than fifteen years and by a fine of not less than the value of the right, franchise or privilege enjoyed or acquired in violation of the provisions hereof but in no case less than five thousand pesos: Provided, however, that the president, managers or persons in violating the provisions of this section shall be criminally liable in lieu thereof: Provided, further, That any person, corporation or association shall, in addition to the penalty imposed herein, forfeit such right, franchise, privilege and the property provisions of this Act; and Provided, finally, That the election of aliens as members of the board of directors or governing body of corporations or associations engaging in partially nationalized activities shall be allowed in proportion to their allowable participation or share in the capital of such entities.
+
+## Section 2
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 28th day of May, in the year of Our Lord, nineteen hundred and seventy-five.

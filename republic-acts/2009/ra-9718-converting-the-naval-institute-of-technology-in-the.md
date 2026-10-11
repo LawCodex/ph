@@ -190,7 +190,7 @@ _The Secretary of the University._ \- The Board shall appoint a Secretary, who s
 
 ## Section 14
 
-. _The Treasurer of the University._ \- The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
+_The Treasurer of the University._ \- The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
 
 ## Section 15
 

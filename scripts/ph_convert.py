@@ -94,7 +94,7 @@ PROV_RE2 = re.compile(
 
 PROV_ANY = re.compile(
     r"^\s*(?P<open>\*\*|__)?\s*(?P<label>(?:Section|SECTION|Sec\.|SEC\.|Sec|SEC|Article|ARTICLE|Art\.|ART\.)"
-    r"\s*[0-9]+(?:-?[A-Z](?![a-z]))?(?:-[0-9]+)?)\s*(?P<sep>\.|:|(?=\*\*))\s*(?P<close>\*\*|__)?")
+    r"\s*(?:\*\*|__)?\s*[0-9]+(?:-?[A-Z](?![a-z]))?(?:-[0-9]+)?)\s*(?P<sep>\\?\.|:|(?=\*\*))\s*(?P<close>\*\*|__)?")
 
 
 def match_provision(body):
@@ -104,13 +104,14 @@ def match_provision(body):
     rest = body[m.end():]
     if not m.group("open"):
         after = body[m.end("sep"):m.end("sep") + 1]
-        if m.group("sep") != "." or after not in (" ", "_", "*", "\n", ""):
+        if m.group("sep") not in (".", "\\.") or after not in (" ", "_", "*", "\n", ""):
             return None
     first, _, tail = rest.partition("\n")
     if m.group("open") and not m.group("close") and first.count("**") % 2 == 1:
         first = first.replace("**", "", 1)
     rest = (first + ("\n" + tail if tail else "")).strip()
-    label = normalize_ws(m.group("label"))
+    rest = re.sub(r"^\\?[.:]\s*", "", rest)
+    label = normalize_ws(strip_emph(m.group("label")))
     return label, rest
 
 
@@ -191,6 +192,9 @@ def table_is_simple(tbl):
             return False
         if c.find(["p", "br", "ul", "ol", "dir"]) and len(c.get_text(strip=True)) > 0 and len(c.find_all(["p", "br"])) > 1:
             return False
+    cell_txt = "".join(c.get_text("", strip=True) for c in tbl.find_all(["td", "th"]))
+    if len(re.sub(r"\s", "", cell_txt)) != len(re.sub(r"\s", "", tbl.get_text("", strip=True))):
+        return False
     n = {len(r.find_all(["td", "th"], recursive=False)) for r in rows}
     return len(n) == 1 and next(iter(n)) > 1
 
@@ -230,6 +234,11 @@ def extract_body(html):
     return soup, body, page_title
 
 
+def soup_new_div(tag):
+    from bs4 import Tag
+    return Tag(name="div")
+
+
 def _inner_table(tbl, body):
     for p in tbl.parents:
         if p is body:
@@ -241,6 +250,22 @@ def _inner_table(tbl, body):
 
 def body_to_markdown(body):
     tables = []
+    # unwrap layout tables (a single cell, or cells holding whole paragraphs of text)
+    changed = True
+    while changed:
+        changed = False
+        for tbl in body.find_all("table"):
+            cells = tbl.find_all(["td", "th"])
+            if len(cells) <= 1 or any(len(c.find_all("p")) >= 3 for c in cells) \
+                    or len(tbl.get_text(" ", strip=True)) > 20000:
+                for t in tbl.find_all(["tbody", "thead", "tfoot", "tr", "td", "th", "caption"]):
+                    if t.find_parent("table") is tbl:
+                        t.name = "div"
+                        t.attrs = {}
+                tbl.name = "div"
+                tbl.attrs = {}
+                changed = True
+                break
     # tables first (innermost-out handled by only top-level tables)
     for tbl in body.find_all("table"):
         if _inner_table(tbl, body):

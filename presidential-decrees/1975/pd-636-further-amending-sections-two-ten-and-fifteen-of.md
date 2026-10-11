@@ -1,0 +1,65 @@
+---
+title: "Presidential Decree No. 636 — Further Amending Sections Two, Ten and Fifteen of Presidential Decree Numbered Four Hundred and Fifty-Eight, as Amended, Creating the Department of Public Highways"
+identifier: "Presidential Decree No. 636"
+number: "636"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-01-07
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_636_1975.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 636
+
+**Further Amending Sections Two, Ten and Fifteen of Presidential Decree Numbered Four Hundred and Fifty-Eight, as Amended, Creating the Department of Public Highways**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 636 January 7, 1975**
+
+FURTHER AMENDING SECTIONS TWO, TEN AND FIFTEEN OF PRESIDENTIAL DECREE NUMBERED FOUR HUNDRED AND FIFTY-EIGHT, AS AMENDED, CREATING THE DEPARTMENT OF PUBLIC HIGHWAYS
+
+WHEREAS, there is urgent need for a Special Projects Service in the Department of Public Highways which shall be responsible for the management and implementation of all special projects financed wholly or in part by foreign loans;
+
+WHEREAS, there is likewise urgent need to provide the Bureau of Construction and Maintenance in the Department of Public Highways with an Administrative Division and the Bureau of Equipment with a Spare Parts Division;
+
+WHEREAS, the Secretary of Public Highways has strongly endorsed the creation of the foregoing offices in order to enable the Department to cope with its responsibilities and perform its function with increased effectiveness and efficiency;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order:
+
+## Section 1
+
+Section 2 of Presidential Decree No. 458, as amended, is hereby further amended to read as follows:
+
+## Section 2
+
+Organization of the Department of Public Highways. The Department of Public Highways, hereinafter called the Department, shall be composed of a Department Proper made up of the immediate Office of the Secretary, the Planning Service, the Administrative Service, the Financial and Management Service, the Project Execution Service and the Special Projects Service; two bureaus, namely: (a) the Bureau of Construction and Maintenance and (b) the Bureau of Equipment; and the Regional and District Offices.
+
+The Special Projects Service shall be headed by a Director and assisted by an Assistant Director to be appointed by the President upon recommendation of the Secretary of Public Highways."
+
+## Section 2
+
+The second paragraph of Section 10 of the same decree, as amended, is hereby amended to read as follows:
+
+"The Bureau shall be headed by a Director assisted by an Assistant Director. It shall be composed of the following divisions: (a) Design Division, (b) Construction Division, (c) Soils and Materials Division, (d) Maintenance Division and (e) Administration Division."
+
+## Section 3
+
+Section 15 of the same decree, as amended, is hereby amended to read as follows:
+
+"Sec. 15. Functions and composition of the Bureau of Equipment. The Bureau of Equipment shall be responsible for the management and control of all equipment belonging to the Department, including their repair, maintenance and allocation to the department field offices. It shall have an Administrative Division, a Financial and Management Division, a Planning Division, an Operations Division, Equipment Depots and Area Shops, and a Spare Parts Division."
+
+## Section 4
+
+All laws, decrees, rules and regulations inconsistent herewith are hereby repealed or modified accordingly.
+
+## Section 5
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 7th day of January, in the year of Our Lord, nineteen hundred and seventy-five.

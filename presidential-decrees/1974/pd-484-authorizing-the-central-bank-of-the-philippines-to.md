@@ -1,0 +1,47 @@
+---
+title: "Presidential Decree No. 484 — Authorizing the Central Bank of the Philippines to Establish and Operate a Security Printing Plant for the Printing of Bank Notes and for Other Purposes"
+identifier: "Presidential Decree No. 484"
+number: "484"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-06-18
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_484_1974.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 484
+
+**Authorizing the Central Bank of the Philippines to Establish and Operate a Security Printing Plant for the Printing of Bank Notes and for Other Purposes**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 484 June 18, 1974**
+
+AUTHORIZING THE CENTRAL BANK OF THE PHILIPPINES TO ESTABLISH AND OPERATE A SECURITY PRINTING PLANT FOR THE PRINTING OF BANK NOTES AND FOR OTHER PURPOSES
+
+WHEREAS, pursuant to Republic Act No. 4700, as amended by Republic Act No. 5183, entitled "An Act Providing for the Acquisition and Operation of a National Security Printing Plant and for Other Purposes," the printing of bank notes, among other security printing jobs enumerated therein shall be undertaken by the National Treasurer;
+
+WHEREAS, to date, the said national security printing plant, which should have become operational a few years ago pursuant to the said Act, has not been established;
+
+WHEREAS, considering its responsibility and authority over the currency issue of the country, in conjunction with its other functions and objectives, it is deemed appropriate that the Central Bank of the Philippines establish and operate the security printing plant for the printing of bank notes;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following:
+
+## Section 1
+
+The Central Bank of the Philippines is hereby authorized to operate a security printing plant for the printing of bank notes, as well as to undertake such other security printing work as the facilities of the plant would permit.
+
+## Section 2
+
+All acts, laws, executive orders, rules and regulations, or parts thereof, inconsistent with any of the provisions of this Decree are repealed or modified accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 18th day of June, in the year of Our Lord, nineteen hundred and seventy-four.

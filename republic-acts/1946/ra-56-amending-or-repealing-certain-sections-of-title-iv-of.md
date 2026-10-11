@@ -140,7 +140,7 @@ Section one hundred and forty-two of Commonwealth Act Numbered Four hundred and 
 
 ## Section 12
 
-. Section one hundred and forty-six of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
+Section one hundred and forty-six of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
 
 "Sec. 146. _Specific tax on cinematographic films._ — There shall be collected, once only, on cinematographic films imported into or manufactured in the Philippines the following taxes:
 

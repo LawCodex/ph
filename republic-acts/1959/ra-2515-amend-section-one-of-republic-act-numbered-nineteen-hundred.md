@@ -28,7 +28,7 @@ Section one of Republic Act Numbered Nineteen hundred seventy-two is amended to 
 
 ## Sec. 1
 
-. The barrios of Ibung and Bintawan, Municipality of Solano, Province of Nueva Vizcaya, are separated from said municipality and are constituted into a distinct and independent municipality to be known as the Municipality of Villa Verde, Province of Nueva Vizcaya, with the seat of government at the site of the present barrio of Bintawan: _Provided,_ However, That within a year from approval hereof, by a vote of two-third of all the members of the municipal council elected in the general elections of nineteen hundred and fifty-nine for local officials, such seat of government may be transferred to any other site."
+The barrios of Ibung and Bintawan, Municipality of Solano, Province of Nueva Vizcaya, are separated from said municipality and are constituted into a distinct and independent municipality to be known as the Municipality of Villa Verde, Province of Nueva Vizcaya, with the seat of government at the site of the present barrio of Bintawan: _Provided,_ However, That within a year from approval hereof, by a vote of two-third of all the members of the municipal council elected in the general elections of nineteen hundred and fifty-nine for local officials, such seat of government may be transferred to any other site."
 
 ## Section 2
 

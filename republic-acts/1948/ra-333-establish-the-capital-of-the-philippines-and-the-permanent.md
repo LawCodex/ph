@@ -101,6 +101,6 @@ All acts and executive orders or regulations, or parts thereof, inconsistent wit
 
 ## Section 14
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: July 17, 1948.

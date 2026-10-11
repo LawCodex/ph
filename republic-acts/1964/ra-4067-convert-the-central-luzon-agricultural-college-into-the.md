@@ -85,42 +85,42 @@ On or before the tenth day of August of each year, the Board of Regents shall fi
 
 ## Section 10
 
-. There shall be a university council, consisting of the President of the University and all instructors in the university holding the rank of professor, associate professor, or assistant professor. The council alone shall have the power to recommend students or others to be recipient of degrees. Through its president or committees it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Regents.
+There shall be a university council, consisting of the President of the University and all instructors in the university holding the rank of professor, associate professor, or assistant professor. The council alone shall have the power to recommend students or others to be recipient of degrees. Through its president or committees it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Regents.
 
 ## Section 11
 
-. The body of instructors of each college shall constitute its faculty, and as presiding officer of each faculty there shall be a dean elected from the members of such faculty by the Board of Regents on nomination by the President of the University. In the appointment of professors or other instructors of the university, no religious test shall be applied, nor shall the religious opinions or affiliation of the instructors of the university be made a matter of examination or inquiry: _Provided,_ However, That no instructor in the university shall inculcate sectarian tenets in any of the teachings, nor attempt, either directly or indirectly, under penalty of dismissal by the Board of Regents, to influence students or attendants at the university for or against any particular church or religious sect.
+The body of instructors of each college shall constitute its faculty, and as presiding officer of each faculty there shall be a dean elected from the members of such faculty by the Board of Regents on nomination by the President of the University. In the appointment of professors or other instructors of the university, no religious test shall be applied, nor shall the religious opinions or affiliation of the instructors of the university be made a matter of examination or inquiry: _Provided,_ However, That no instructor in the university shall inculcate sectarian tenets in any of the teachings, nor attempt, either directly or indirectly, under penalty of dismissal by the Board of Regents, to influence students or attendants at the university for or against any particular church or religious sect.
 
 ## Section 12
 
-. Professors and other regular instructors in the university shall be exempt as such from any civil service examination or regulation and from WAPCO rules and regulations as a requisite to appointment.
+Professors and other regular instructors in the university shall be exempt as such from any civil service examination or regulation and from WAPCO rules and regulations as a requisite to appointment.
 
 ## Section 13
 
-. There shall be a secretary of the university, appointed by the Board of Regents. He shall be the secretary of such board and also of the university, and shall keep such records of the university as may be designated by the board.
+There shall be a secretary of the university, appointed by the Board of Regents. He shall be the secretary of such board and also of the university, and shall keep such records of the university as may be designated by the board.
 
 ## Section 14
 
-. The Treasurer of the Philippines shall be ex-officio treasurer of the university, and all accounts and expenses thereof shall be audited by the Auditor General, and disbursements shall be made in accordance with the rules and regulations prescribed by him.
+The Treasurer of the Philippines shall be ex-officio treasurer of the university, and all accounts and expenses thereof shall be audited by the Auditor General, and disbursements shall be made in accordance with the rules and regulations prescribed by him.
 
 ## Section 15
 
-. Heads of bureaus and offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the University, such apparatus or supplies as may be needed by the university and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service. Employees so detailed shall perform such duty as is required under such detail, and the time so employed shall count as part of their regular official service.
+Heads of bureaus and offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the University, such apparatus or supplies as may be needed by the university and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service. Employees so detailed shall perform such duty as is required under such detail, and the time so employed shall count as part of their regular official service.
 
 ## Section 16
 
-. The President of the Philippines, the President of the Senate, and the Speaker of the House of Representatives shall constitute a board of visitors of the university, whose duty it shall be to attend the commencement exercises of the university, and to make visits at such other times as they may deem proper, to examine the property, course of study, discipline, the state of finances of the university, to inspect all books and accounts of the institution, and to make report to the Congress of the Philippines upon the same, with such recommendations as they favor.
+The President of the Philippines, the President of the Senate, and the Speaker of the House of Representatives shall constitute a board of visitors of the university, whose duty it shall be to attend the commencement exercises of the university, and to make visits at such other times as they may deem proper, to examine the property, course of study, discipline, the state of finances of the university, to inspect all books and accounts of the institution, and to make report to the Congress of the Philippines upon the same, with such recommendations as they favor.
 
 ## Section 17
 
-. The present faculty and employees of the former college, as well as the present buildings, equipment, and facilities shall be absorbed by the new university. Salaries of the personnel shall be adjusted at the discretion of the Board of Regents within the amount available for appropriation.
+The present faculty and employees of the former college, as well as the present buildings, equipment, and facilities shall be absorbed by the new university. Salaries of the personnel shall be adjusted at the discretion of the Board of Regents within the amount available for appropriation.
 
 ## Section 18
 
-. The sum of two million pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, as additional appropriation for the operation of the university to carry out the purposes of this Act and for the construction of the necessary building during the fiscal year nineteen hundred sixty-five. Such sums as may be necessary for the same purposes in subsequent years shall be included in the annual General Appropriations Act.
+The sum of two million pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, as additional appropriation for the operation of the university to carry out the purposes of this Act and for the construction of the necessary building during the fiscal year nineteen hundred sixty-five. Such sums as may be necessary for the same purposes in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 19
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

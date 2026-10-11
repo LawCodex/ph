@@ -347,7 +347,7 @@ CONFIDENTIAL INFORMATION
 
 ### Section 52
 
-. The Auditor-General and the other officers designated by him or by the President to inspect or investigate the condition of the Agricultural and Industrial Bank, shall not reveal to any person other than the President, the Secretary of Finance, and the Board of Directors the details of such inspection or investigation, nor shall they give any information relative to the funds or properties in its custody belonging to private individuals, corporations, or any other entity except by order of a court of competent jurisdiction.
+The Auditor-General and the other officers designated by him or by the President to inspect or investigate the condition of the Agricultural and Industrial Bank, shall not reveal to any person other than the President, the Secretary of Finance, and the Board of Directors the details of such inspection or investigation, nor shall they give any information relative to the funds or properties in its custody belonging to private individuals, corporations, or any other entity except by order of a court of competent jurisdiction.
 
 ## CHAPTER III.-Prohibition and Penalties
 
@@ -365,7 +365,7 @@ No fee, commission, gift, or charge of any kind shall be exacted, demanded, or p
 
 ### Section 56
 
-. Anyone who, for the purpose of obtaining, renewing, or increasing a loan or the extension of the period thereof in his own or another's behalf, should give out any false information with regard to the identity, situation, production, or value of the security, or with regard to a point which would affect the granting or denial of the loan, whether the latter has been consummated or not, and every officer or employee of the Agricultural and Industrial Bank, who, through connivance or negligence, should allow by action or omission such false information to pass unnoticed, thereby causing damage to the Bank or exposing the latter to the danger of suffering such damage, shall be punished with imprisonment for not less than three months nor more than three years, and a fine not less than the amount of the loan obtained or desired nor more than three times such amount.
+Anyone who, for the purpose of obtaining, renewing, or increasing a loan or the extension of the period thereof in his own or another's behalf, should give out any false information with regard to the identity, situation, production, or value of the security, or with regard to a point which would affect the granting or denial of the loan, whether the latter has been consummated or not, and every officer or employee of the Agricultural and Industrial Bank, who, through connivance or negligence, should allow by action or omission such false information to pass unnoticed, thereby causing damage to the Bank or exposing the latter to the danger of suffering such damage, shall be punished with imprisonment for not less than three months nor more than three years, and a fine not less than the amount of the loan obtained or desired nor more than three times such amount.
 
 ### Section 57
 

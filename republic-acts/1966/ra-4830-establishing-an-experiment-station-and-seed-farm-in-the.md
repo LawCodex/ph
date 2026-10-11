@@ -35,6 +35,8 @@ The Director of Plant Industry shall establish said experiment and seed farm on 
 
 The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said experiment station and seed farm during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
-**Section** 4\. This Act shall take effect upon its approval.
+## Section 4
+
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1966.

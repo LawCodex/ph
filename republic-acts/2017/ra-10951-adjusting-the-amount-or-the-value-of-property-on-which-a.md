@@ -979,15 +979,15 @@ _Repealing Clause._ \- All laws, executive orders, or administrative orders, rul
 
 ## Section 100
 
-. _Retroactive Effect._ \- This Act shall have retroactive effect to the extent that it is favorable to the accused or person serving sentence by final judgment.
+_Retroactive Effect._ \- This Act shall have retroactive effect to the extent that it is favorable to the accused or person serving sentence by final judgment.
 
 ## Section 101
 
-. _Transitory Provision; Applicability to Pending Cases._ \- For cases pending before the courts upon the effectivity of this Act where trial has already started, the courts hearing such cases shall not lose jurisdiction over the same by virtue of this Act.
+_Transitory Provision; Applicability to Pending Cases._ \- For cases pending before the courts upon the effectivity of this Act where trial has already started, the courts hearing such cases shall not lose jurisdiction over the same by virtue of this Act.
 
 ## Section 102
 
-. _Effectivity._ \- This Act shall take effect within fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+_Effectivity._ \- This Act shall take effect within fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

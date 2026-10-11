@@ -24,7 +24,7 @@ Be it enacted by the National Assembly of the Philippines:
 
 ### Section 1
 
-. This Act shall be known as the **_Charter of the City of San Pablo_**.
+This Act shall be known as the **_Charter of the City of San Pablo_**.
 
 ## ARTICLE 1. - GENERAL PROVISIONS
 
@@ -542,7 +542,7 @@ _Redemption of real property before sale._ \- After the title to the property sh
 
 ### Section 52
 
-._Notice of sale of real estate at public auction._ \- At any time after the forfeiture of any real estate shall have become absolute, the city treasurer, pursuant to the rules of procedure to be promulgated by the Department Head, may announce the sale at public auction of the real estate seized on account of delinquency in the payment of taxes thereon, for the redemption of which no r application has been filed. Such announcement shall be made by posting a notice for three consecutive weeks at'the main entrances of the city hall and of all the municipal buildings of the province, in either English or Spanish, and in the dialect commonly used in the locality, and by publishing the same once a week during three consecutive weeks in a newspaper of general circulation in "the city. Copies of such notice shall be sent immediately by registered mail to the delinquent tax-payer at the latter's home address, if known. The notice shall state the amount of the taxes and penalties so due, the time and place of sale,'the.name of the taxpayer against whom the taxes are levied, and the approximate area, the lot number and the location by district and street, and the street number and district or barrio where the real restate to be sold;is located.
+_Notice of sale of real estate at public auction._ \- At any time after the forfeiture of any real estate shall have become absolute, the city treasurer, pursuant to the rules of procedure to be promulgated by the Department Head, may announce the sale at public auction of the real estate seized on account of delinquency in the payment of taxes thereon, for the redemption of which no r application has been filed. Such announcement shall be made by posting a notice for three consecutive weeks at'the main entrances of the city hall and of all the municipal buildings of the province, in either English or Spanish, and in the dialect commonly used in the locality, and by publishing the same once a week during three consecutive weeks in a newspaper of general circulation in "the city. Copies of such notice shall be sent immediately by registered mail to the delinquent tax-payer at the latter's home address, if known. The notice shall state the amount of the taxes and penalties so due, the time and place of sale,'the.name of the taxpayer against whom the taxes are levied, and the approximate area, the lot number and the location by district and street, and the street number and district or barrio where the real restate to be sold;is located.
 
 ### Section 53
 

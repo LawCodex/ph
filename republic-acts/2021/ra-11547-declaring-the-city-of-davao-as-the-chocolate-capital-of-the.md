@@ -57,8 +57,5 @@ This Act was passed by the Senate of the Philippines as Senate Bill No. 1741 on 
 
 Approved: MAY 27 2021
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

@@ -45,7 +45,7 @@ It is further declared the policy of the State to provide effective mechanisms o
 
 ### Section 3
 
-. _Definitions._ As used in this Act, the following terms shall mean:
+_Definitions._ As used in this Act, the following terms shall mean:
 
 (a) Administer. – Any act of introducing any dangerous drug into the body of any person, with or without his/her knowledge, by injection, inhalation, ingestion or other means, or of committing any act of indispensable assistance to a person in administering a dangerous drug to himself/herself unless administered by a duly licensed practitioner for purposes of medication.
 
@@ -273,7 +273,7 @@ An additional penalty shall be imposed through the revocation of the license to 
 
 ### Section 18
 
-. _Unnecessary Prescription of Dangerous Drugs._ – The penalty of imprisonment ranging from twelve (12) years and one (1) day to twenty (20) years and a fine ranging from One hundred thousand pesos (P100,000.00) to Five hundred thousand pesos (P500,000.00) and the additional penalty of the revocation of his/her license to practice shall be imposed upon the practitioner, who shall prescribe any dangerous drug to any person whose physical or physiological condition does not require the use or in the dosage prescribed therein, as determined by the Board in consultation with recognized competent experts who are authorized representatives of professional organizations of practitioners, particularly those who are involved in the care of persons with severe pain.
+_Unnecessary Prescription of Dangerous Drugs._ – The penalty of imprisonment ranging from twelve (12) years and one (1) day to twenty (20) years and a fine ranging from One hundred thousand pesos (P100,000.00) to Five hundred thousand pesos (P500,000.00) and the additional penalty of the revocation of his/her license to practice shall be imposed upon the practitioner, who shall prescribe any dangerous drug to any person whose physical or physiological condition does not require the use or in the dosage prescribed therein, as determined by the Board in consultation with recognized competent experts who are authorized representatives of professional organizations of practitioners, particularly those who are involved in the care of persons with severe pain.
 
 ### Section 19
 
@@ -319,7 +319,7 @@ _Plea-Bargaining Provision._ – Any person charged under any provision of this 
 
 ### Section 24
 
-. _Non-Applicability of the Probation Law for Drug Traffickers and Pushers._ – Any person convicted for drug trafficking or pushing under this Act, regardless of the penalty imposed by the Court, cannot avail of the privilege granted by the Probation Law or Presidential Decree No. 968, as amended.
+_Non-Applicability of the Probation Law for Drug Traffickers and Pushers._ – Any person convicted for drug trafficking or pushing under this Act, regardless of the penalty imposed by the Court, cannot avail of the privilege granted by the Probation Law or Presidential Decree No. 968, as amended.
 
 ### Section 25
 
@@ -1338,116 +1338,163 @@ AND the salts of the drugs listed in this Schedule whenever the formation of suc
 
 LIST OF SUBSTANCES IN SCHEDULE I
 
-<table>
-<tr>
-<td>BROLAMFETAMINE (DOB)</td>
-<td><u>( </u>±)-4-Bromo-2,5-dimethoxy-<i>a-methylphenethylamine </i>Dimethoxybromoamphetamine</td>
-</tr>
-<tr>
-<td>CATHINONE</td>
-<td>(-)-(S)-2-Aminopropiophenone</td>
-</tr>
-<tr>
-<td>DET</td>
-<td>3-[2-(Diethylamino)ethyl)indole)</td>
-</tr>
-<tr>
-<td>DMA</td>
-<td>(±)-2,5-DIMETHOXY-<i>a</i>-methylphenethylamine 2,5 Dimethoxyamphetamine</td>
-</tr>
-<tr>
-<td>DMPH</td>
-<td>3-(1,2-Dimethylhepty)-7,8,9,-10-tetrahydro-6,6,9-trimethyl-6<i>H-</i>dibenzo[<i>b,d</i>]pyran-1-ol</td>
-</tr>
-<tr>
-<td>DMT</td>
-<td>3-[2-(Dimethylamino)ethyl]indole</td>
-</tr>
-<tr>
-<td>DOET</td>
-<td>(±)-4-Ethyl-2,5-dimethoxy-<i>a</i>-phorethylamine 2,5-Dimethoxy-4-ethylamphetamine</td>
-</tr>
-<tr>
-<td>ETICYCLIDINE (PCE)</td>
-<td><i>N </i>-Ethyl-1-phenylcyclohexylamine</td>
-</tr>
-<tr>
-<td>ETRYPAMINE</td>
-<td>3-(2-Aminobutyl)indole</td>
-</tr>
-<tr>
-<td>(+)-LYSERGIDE (LSD, LSD-25)</td>
-<td>9,10-Didehydro-<i>N,N</i>-diethyl-6-methylergoline-8b- carboxamide</td>
-</tr>
-<tr>
-<td>MDA</td>
-<td>(+)<i>-N</i>, a-Dimethyl-3,4-(methylene-dioxy)phenethylamine 3,4-Methylenedioxymethamphetamine</td>
-</tr>
-<tr>
-<td>MESCALINE</td>
-<td>3,4,5-Trimethoxyphenethylamine</td>
-</tr>
-<tr>
-<td>METHCATHINONE</td>
-<td>2-(Methylamino)-1-phenylpropan-1-one</td>
-</tr>
-<tr>
-<td>4-METHYLAMINOREX</td>
-<td>(+)-<i>cis</i>-2-Amino-4-methyl-5-phenyl-2-oxazoline</td>
-</tr>
-<tr>
-<td>MMDA</td>
-<td>2-Methoxy-<i>a</i>-methyl-4,5-(methylenedioxy)phenethylamine 5-Methoxy-3,4-methylenedioxyamphetamine</td>
-</tr>
-<tr>
-<td>N-ETHYL MDA</td>
-<td>(+)-N-Ethyl-<i>a-</i>methyl-3,4(methylenedioxy)phenethylamine 3-4-Methylenedioxy-N-ethylamphetamine</td>
-</tr>
-<tr>
-<td>N-HYDROXY MDA</td>
-<td>(+)-N-[<i>a</i>-Methyl-3,4-(methylenedioxy)phenethyl]-hydroxylamine</td>
-</tr>
-<tr>
-<td>PARAHEXYL</td>
-<td>3-Hexyl-7,8,9,10-tetrahydro-6,6,-9-trimethyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol</td>
-</tr>
-<tr>
-<td>PMA</td>
-<td><i>p </i>-Methoxy-a-methylphenethylamine Paramethoxyamphetamine</td>
-</tr>
-<tr>
-<td>PSILOCINE, PSILOTSIN</td>
-<td>3-[2-(Dimethylamino)ethyl]indol-4-ol</td>
-</tr>
-<tr>
-<td>PSILOCYBINE</td>
-<td>3-[2-(Dimethylamino)ethyl]indol-4-yl dihydrogen phosphate</td>
-</tr>
-<tr>
-<td>ROLICYCLIDINE (PHP, PCPY)</td>
-<td>1-(1-Phenylcyclohexyl)pyrrolidine</td>
-</tr>
-<tr>
-<td>STP, DOM</td>
-<td>2,5-Dimethoxy-<i>a</i>,4-dimethylphenethylamine</td>
-</tr>
-<tr>
-<td>TENAMFETAMINE (MDA)</td>
-<td><i>a </i>-Methyl-3,4-(methylenedioxy)phenethylamine Methylenedioxyamphetamine</td>
-</tr>
-<tr>
-<td>TENOCYCLIDINE (TCP)</td>
-<td>1-[1-(2-Thienyl)cyclohexyl]piperridine</td>
-</tr>
-<tr>
-<td>TETRAHYDROCANNABINOL</td>
-<td>- the following isomers and their stereochemical variants: 7,8,9,10-Tetrahydro-6,6,9-trimethyl-3-pentyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol (9<i>R,</i>10aR)-8,9,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol (6<i>aR</i>,9<i>R</i>,10a<i>R</i>)-6a,9,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol (6a<i>R</i>,10a<i>R</i>)-6a,7,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol (6a,7,8,9-Tetrahydro-6,6,9-trimethyl-3-pentyl-<i>6H</i>-dibenzo[<i>b,d</i>]pyran-1-ol (6a<i>R</i>,10a<i>R</i>)<i>-</i>6a,7,8,9,10,10a-Hexahydro-6,6,dimethyl-9-methylene-3-pentyl-<i>6H</i>-Dibenzo[<i>b,d</i>]pyran-1-ol</td>
-</tr>
-<tr>
-<td>TMA</td>
-<td>(±)-3,4,5-Trimethoxy-<i>a</i> – methylphenethylamine 3,4,5-Trimethoxyamphetamine 4-MIA-(<i>a</i>-methyl-4-methylthiophenethylamine)</td>
-</tr>
-</table>
+BROLAMFETAMINE (DOB)
+
+_
+
+(
+
+_ ±)-4-Bromo-2,5-dimethoxy-_a-methylphenethylamine_
+
+Dimethoxybromoamphetamine
+
+CATHINONE
+
+(-)-(S)-2-Aminopropiophenone
+
+DET
+
+3-[2-(Diethylamino)ethyl)indole)
+
+DMA
+
+(±)-2,5-DIMETHOXY-_a_ -methylphenethylamine
+
+2,5 Dimethoxyamphetamine
+
+DMPH
+
+3-(1,2-Dimethylhepty)-7,8,9,-10-tetrahydro-6,6,9-trimethyl-6 _H-_ dibenzo[_b,d_]pyran-1-ol
+
+DMT
+
+3-[2-(Dimethylamino)ethyl]indole
+
+DOET
+
+(±)-4-Ethyl-2,5-dimethoxy-_a_ -phorethylamine
+
+2,5-Dimethoxy-4-ethylamphetamine
+
+ETICYCLIDINE (PCE)
+
+_
+
+N
+
+_ -Ethyl-1-phenylcyclohexylamine
+
+ETRYPAMINE
+
+3-(2-Aminobutyl)indole
+
+(+)-LYSERGIDE (LSD, LSD-25)
+
+9,10-Didehydro-_N,N_ -diethyl-6-methylergoline-8b- carboxamide
+
+MDA
+
+(+)_-N_ , a-Dimethyl-3,4-(methylene-dioxy)phenethylamine
+
+3,4-Methylenedioxymethamphetamine
+
+MESCALINE
+
+3,4,5-Trimethoxyphenethylamine
+
+METHCATHINONE
+
+2-(Methylamino)-1-phenylpropan-1-one
+
+4-METHYLAMINOREX
+
+(+)-_cis_ -2-Amino-4-methyl-5-phenyl-2-oxazoline
+
+MMDA
+
+2-Methoxy-_a_ -methyl-4,5-(methylenedioxy)phenethylamine
+
+5-Methoxy-3,4-methylenedioxyamphetamine
+
+N-ETHYL MDA
+
+(+)-N-Ethyl-_a-_ methyl-3,4(methylenedioxy)phenethylamine
+
+3-4-Methylenedioxy-N-ethylamphetamine
+
+N-HYDROXY MDA
+
+(+)-N-[_a_ -Methyl-3,4-(methylenedioxy)phenethyl]-hydroxylamine
+
+PARAHEXYL
+
+3-Hexyl-7,8,9,10-tetrahydro-6,6,-9-trimethyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+PMA
+
+_
+
+p
+
+_ -Methoxy-a-methylphenethylamine
+
+Paramethoxyamphetamine
+
+PSILOCINE, PSILOTSIN
+
+3-[2-(Dimethylamino)ethyl]indol-4-ol
+
+PSILOCYBINE
+
+3-[2-(Dimethylamino)ethyl]indol-4-yl
+
+dihydrogen phosphate
+
+ROLICYCLIDINE (PHP, PCPY)
+
+1-(1-Phenylcyclohexyl)pyrrolidine
+
+STP, DOM
+
+2,5-Dimethoxy-_a_ ,4-dimethylphenethylamine
+
+TENAMFETAMINE (MDA)
+
+_
+
+a
+
+_ -Methyl-3,4-(methylenedioxy)phenethylamine
+
+Methylenedioxyamphetamine
+
+TENOCYCLIDINE (TCP)
+
+1-[1-(2-Thienyl)cyclohexyl]piperridine
+
+TETRAHYDROCANNABINOL
+
+\- the following isomers and their stereochemical variants:
+
+7,8,9,10-Tetrahydro-6,6,9-trimethyl-3-pentyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+(9 _R,_ 10aR)-8,9,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+(6 _aR_ ,9 _R_ ,10a _R_)-6a,9,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+(6a _R_ ,10a _R_)-6a,7,10,10a-Tetrahydro-6,6,9-trimethyl-3-pentyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+(6a,7,8,9-Tetrahydro-6,6,9-trimethyl-3-pentyl-_6H_ -dibenzo[_b,d_]pyran-1-ol
+
+(6a _R_ ,10a _R_)_-_ 6a,7,8,9,10,10a-Hexahydro-6,6,dimethyl-9-methylene-3-pentyl-_6H_ -Dibenzo[_b,d_]pyran-1-ol
+
+TMA
+
+(±)-3,4,5-Trimethoxy-_a_ – methylphenethylamine
+
+3,4,5-Trimethoxyamphetamine
+
+4-MIA-(_a_ -methyl-4-methylthiophenethylamine)
 
 The stereoisomers, unless specifically excepted, of substances in this Schedule, whenever the existence of such stereou\isomers is possible within the specific chemical designation.
 

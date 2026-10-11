@@ -1,0 +1,50 @@
+---
+title: "Presidential Decree No. 859 — Further Amending P.D. No. 107 By Reconstituting the Membership of the National Economic and Development Authority"
+identifier: "Presidential Decree No. 859"
+number: "859"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-12-23
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_859_1975.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 859
+
+**Further Amending P.D. No. 107 By Reconstituting the Membership of the National Economic and Development Authority**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 859**
+
+FURTHER AMENDING PRESIDENTIAL DECREE NO. 107 BY RECONSTITUTING THE MEMBERSHIP OF THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY
+
+WHEREAS, there is a need to further strengthen national development planning by securing the involvement of other departments of the government in the planning process;
+
+WHEREAS, it is exigent to harness the diplomatic arm of the government to enhance the attainment of national development objectives;
+
+WHEREAS, the maintenance of peace and order is principally enforced by the Department of National Defense, and is directly contributory to a successful implementation of economic and development plans, programs and projects;
+
+WHEREAS, in the formulation of national development plans, it is imperative also to secure the participation of the Department of Industry which is the primary policy, planning and implementing entity of the Executive branch of the government in the Development and expansion of industry.
+
+WHEREAS, to carry out the above objectives, it is necessary to reconstitute the membership of the National Economic and Development Authority (NEDA) by including therein the Secretary of National Defense and the Secretary of Foreign Affairs, and substituting the Secretary of Industry in lieu of the Chairman of the Board of Investments;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree the following as part of the law of the land:
+
+## Section 1
+
+Section 1 of Presidential Decree No. 107, as amended, is hereby further amended to read as follows:
+
+"Sec. 1. There is hereby created a National Economic and Development Authority to be composed of the President of the Philippines, as Chairman, and the Secretary of Economic Planning (Director-General of the Authority) the Secretary of Finance, the Secretary of Foreign Affairs, the Secretary of Agriculture, the Secretary of Trade, the Secretary of Public Works, Transportation and Communications, the Secretary of National Defense, the Secretary of Labor, the Secretary of Education and Culture, the Secretary of Industry, the Secretary of Natural Resources, the Secretary of Public Highways, the Commissioner of the Budget and the Governor of the Central Bank, as members, and who shall hold office at the pleasure of the President.
+
+The Authority may, in the discharge of its duties and functions, call upon any private person or representative of the private sector for such view or advice as may be pertinent to any matter under its consideration."
+
+## Section 2
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 23rd day of December, in the year of Our Lord, nineteen hundred and seventy-five.

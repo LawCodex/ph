@@ -28,7 +28,7 @@ Section one of Republic Act Numbered Seventeen hundred eighty-four is hereby ame
 
 ## Sec. 1
 
-. There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for the relief and aid of fire victims in Catbalogan, Province of Samar: _Provided,_ However, That out of the said sum, the amount of three million pesos shall be set aside and used for reclaiming foreshore lands bordering the Municipality of Catbalogan, Province of Samar. The remaining two million pesos shall be distributed by the Philippine National Red Cross as relief and aid to the fire victims in said municipality under such terms and conditions as may be just and equitable."
+There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for the relief and aid of fire victims in Catbalogan, Province of Samar: _Provided,_ However, That out of the said sum, the amount of three million pesos shall be set aside and used for reclaiming foreshore lands bordering the Municipality of Catbalogan, Province of Samar. The remaining two million pesos shall be distributed by the Philippine National Red Cross as relief and aid to the fire victims in said municipality under such terms and conditions as may be just and equitable."
 
 **Section** **2**. The said Act is hereby further amended by inserting two new sections between sections one and two thereof to read as follows:
 

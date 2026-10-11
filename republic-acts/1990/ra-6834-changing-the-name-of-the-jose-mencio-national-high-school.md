@@ -27,10 +27,10 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. The Jose Mencio National High School in the Municipality of Atok, Province of Benguet, shall hereafter be known as the Atok National High School.
+The Jose Mencio National High School in the Municipality of Atok, Province of Benguet, shall hereafter be known as the Atok National High School.
 
 ## Section 2
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: January 5, 1990.

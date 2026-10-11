@@ -796,7 +796,7 @@ _Reserve requirements._ -In order to control the volume of money created by the 
 
 #### Section 101
 
-. _Required reserves against peso deposits._ -The Monetary Board is authorized to prescribe and modify the minimum reserve ratios applicable to each class of peso deposits: _Provided,_ However, That such ratios shall not be less than five per cent (5%) or more than twenty-five per cent (25%) for time and saving deposits, and shall not be less than ten per cent (10%) or more than fifty per cent (50%) for demand deposits.
+_Required reserves against peso deposits._ -The Monetary Board is authorized to prescribe and modify the minimum reserve ratios applicable to each class of peso deposits: _Provided,_ However, That such ratios shall not be less than five per cent (5%) or more than twenty-five per cent (25%) for time and saving deposits, and shall not be less than ten per cent (10%) or more than fifty per cent (50%) for demand deposits.
 
 Notwithstanding the provisions of the preceding paragraph of this section, the Monetary Board may, in periods of inflation, prescribe higher reserve ratios, but not exceeding 100 per cent, for any future increase in the deposits of each bank above the amounts outstanding on the date on which the bank is notified of the requirement.
 
@@ -804,35 +804,35 @@ Whenever the reserve requirements established by the Monetary Board place any ba
 
 #### Section 102
 
-. _Required reserves against foreign currency deposits._ -The Monetary Board is similarly authorized to prescribe and modify the minimum reserve ratios applicable to deposits denominated in foreign currencies: _Provided,_ However, That such ratios may not be set below ten per cent (10%) or above one hundred per cent (100%), with respect to deposit liabilities in each foreign currency.
+_Required reserves against foreign currency deposits._ -The Monetary Board is similarly authorized to prescribe and modify the minimum reserve ratios applicable to deposits denominated in foreign currencies: _Provided,_ However, That such ratios may not be set below ten per cent (10%) or above one hundred per cent (100%), with respect to deposit liabilities in each foreign currency.
 
 The Monetary Board shall determine the form and the currency, either national or foreign, in which such reserves shall be maintained: _Provided,_ However, That any such requirements shall not preclude the banks from keeping a balanced position between their assets and liabilities in each of the foreign currencies in which they operate.
 
 #### Section 103
 
-. _Reserves against unused balances of overdraft lines._ -In order to facilitate Central Bank control over the volume of bank credit, the Monetary Board may establish minimum reserve requirements for unused balances of overdraft lines.
+_Reserves against unused balances of overdraft lines._ -In order to facilitate Central Bank control over the volume of bank credit, the Monetary Board may establish minimum reserve requirements for unused balances of overdraft lines.
 
 The powers of the Monetary Board to prescribe and modify reserve requirements against unused balances of overdraft lines shall be the same as its powers with respect to reserve requirements against demand deposits.
 
 #### Section 104
 
-. _Increase in reserve requirements._ -Whenever it becomes necessary, in the opinion of the Monetary Board, to increase reserve requirements against existing liabilities, the increase shall be made in a gradual manner and shall not exceed four percentage points in any thirty-day period. The banks shall be notified reasonably in advance of the date on which such increase is to become effective.
+_Increase in reserve requirements._ -Whenever it becomes necessary, in the opinion of the Monetary Board, to increase reserve requirements against existing liabilities, the increase shall be made in a gradual manner and shall not exceed four percentage points in any thirty-day period. The banks shall be notified reasonably in advance of the date on which such increase is to become effective.
 
 #### Section 105
 
-. _Computation on reserves._ -The reserve position of each bank shall be calculated daily on the basis of the amount, at the close of business for the day, of the bank’s reserves and the amount of its liability accounts against which reserves are required to be maintained.
+_Computation on reserves._ -The reserve position of each bank shall be calculated daily on the basis of the amount, at the close of business for the day, of the bank’s reserves and the amount of its liability accounts against which reserves are required to be maintained.
 
 For the purpose of computing the reserve position of each bank, its principal office in the Philippines and all its branches and agencies located therein shall be considered as a single unit.
 
 #### Section 106
 
-. _Reserve deficiencies._ -Whenever the reserve position of any bank, computed in the manner specified in the preceding section of this Act, is below the required minimum, the bank shall pay the Central Bank one-tenth of one per cent (1/10 of 1%) per day on the amount of the deficiency: _Provided,_ However, That banks shall ordinarily be permitted to offset any reserve deficiency occurring on one or more days of the week with any excess reserves which they may hold on other days of the same week and shall be required to pay the penalty only on the average daily deficiency during the week. In cases of abuse, the Monetary Board may deny any bank the privilege of offsetting reserve deficiencies in the aforesaid manner.
+_Reserve deficiencies._ -Whenever the reserve position of any bank, computed in the manner specified in the preceding section of this Act, is below the required minimum, the bank shall pay the Central Bank one-tenth of one per cent (1/10 of 1%) per day on the amount of the deficiency: _Provided,_ However, That banks shall ordinarily be permitted to offset any reserve deficiency occurring on one or more days of the week with any excess reserves which they may hold on other days of the same week and shall be required to pay the penalty only on the average daily deficiency during the week. In cases of abuse, the Monetary Board may deny any bank the privilege of offsetting reserve deficiencies in the aforesaid manner.
 
 If a bank chronically has a reserve deficiency, the Monetary Board may limit or prohibit the making of new loans or investments by the bank and may require that part or all of the net profits of the bank be assigned to surplus.
 
 #### Section 107
 
-. _Interbank settlements._ -The Central Bank shall provide facilities for interbank clearing.
+_Interbank settlements._ -The Central Bank shall provide facilities for interbank clearing.
 
 The deposit reserves maintained by the banks in the Central Bank, in accordance with the provisions of section 100, shall serve as a basis for the clearing of checks and the settlement of interbank balances, subject to such rules and regulations as the Monetary Board may issue with respect to such operations.
 
@@ -844,7 +844,7 @@ _Guiding principle._ -The Monetary Board shall use the powers granted to it unde
 
 #### Section 109
 
-. _Interest rates, commissions and charges._ -The Monetary Board may fix the maximum rates of interest which banks may pay on deposits and on any other obligations.
+_Interest rates, commissions and charges._ -The Monetary Board may fix the maximum rates of interest which banks may pay on deposits and on any other obligations.
 
 The Monetary Board may, within the limits prescribed in the Usury Law (Act No. 2655, as amended), fix the maximum rates of interest which banks may charge for different types of loans and for any other credit operations, or may fix the maximum differences which may exist between the interest or rediscount rates of the Central Bank and the rates which the banks may charge their customers if the respective credit documents are not to lose their eligibility for rediscount or advances in the Central Bank.
 
@@ -854,23 +854,23 @@ In order to avoid possible evasion of maximum interest rates set by the Monetary
 
 #### Section 110
 
-. _Margin requirements against letters of credit._ -In order to restrict the granting of bank credit for purposes which are contrary to the general welfare of the Philippines, the Monetary Board may at any time prescribe minimum cash margins for the opening of letters of credit, and may relate the size of the required margin to the nature of the transaction to be financed.
+_Margin requirements against letters of credit._ -In order to restrict the granting of bank credit for purposes which are contrary to the general welfare of the Philippines, the Monetary Board may at any time prescribe minimum cash margins for the opening of letters of credit, and may relate the size of the required margin to the nature of the transaction to be financed.
 
 The Board may particularly use its powers under this section to require high margins for the opening of letters of credit to finance the importation or luxuries or other non-essential goods, or to finance any goods the importation of which at the time is considered by the Monetary Board to be unduly prompted by speculative motives prejudicial to the interests of the Philippine economy.
 
 #### Section 111
 
-. _Required security against bank loans._ -In order to promote the liquidity and solvency of the banking system, or to influence the availability of bank credit for specific purposes, the Monetary Board may issue such regulations as it may deem necessary from time to time with respect to the maximum permissible maturities of the loans and investments which the banks may make, and the kind and amount of security to be required against the various types of credit operations of the banks.
+_Required security against bank loans._ -In order to promote the liquidity and solvency of the banking system, or to influence the availability of bank credit for specific purposes, the Monetary Board may issue such regulations as it may deem necessary from time to time with respect to the maximum permissible maturities of the loans and investments which the banks may make, and the kind and amount of security to be required against the various types of credit operations of the banks.
 
 #### Section 112
 
-. _Portfolio ceilings._ -Whenever the Monetary Board considers it advisable to prevent or check an expansion of bank credit, the Board may place an upper limit on the amount of loans and investments which the banks may hold, or may place a limit on the rate of increase of such assets within specified periods of time. The Monetary Board may apply such limits to the loans and investments of each bank or to specific categories thereof.
+_Portfolio ceilings._ -Whenever the Monetary Board considers it advisable to prevent or check an expansion of bank credit, the Board may place an upper limit on the amount of loans and investments which the banks may hold, or may place a limit on the rate of increase of such assets within specified periods of time. The Monetary Board may apply such limits to the loans and investments of each bank or to specific categories thereof.
 
 In no case shall the Monetary Board establish limits which are below the value of the loans or investments of the banks on the date on which they are notified of such restrictions. The restrictions shall be applied to all banks uniformly and without discrimination.
 
 #### Section 113
 
-. _Minimum capital ratios._ -In order to regulate the volume and distribution of bank credit, and to ensure the maintenance of bank capital and surplus at levels adequate to protect the depositors against risk of loss, the Monetary Board may prescribe minimum ratios which the capital and surplus of the banks must bear to the volume of their assets, or to specific categories thereof, and may alter said ratios whenever it deems it convenient so to do.
+_Minimum capital ratios._ -In order to regulate the volume and distribution of bank credit, and to ensure the maintenance of bank capital and surplus at levels adequate to protect the depositors against risk of loss, the Monetary Board may prescribe minimum ratios which the capital and surplus of the banks must bear to the volume of their assets, or to specific categories thereof, and may alter said ratios whenever it deems it convenient so to do.
 
 ### ARTICLE X — GOVERNMENT CREDIT INSTITUTIONS AS INSTRUMENTS OF THE NATIONAL MONETARY POLICY
 
@@ -890,29 +890,29 @@ _Designation of Central Bank as fiscal agent and banker of the Government._ -The
 
 #### Section 116
 
-. _Representation with the International Monetary Fund._ -The Central Bank of the Philippines shall represent the Government of the Philippines in all dealings, negotiations and transactions with the International Monetary Fund and shall carry such accounts as may result from Philippine membership in, or operations with, said Fund.
+_Representation with the International Monetary Fund._ -The Central Bank of the Philippines shall represent the Government of the Philippines in all dealings, negotiations and transactions with the International Monetary Fund and shall carry such accounts as may result from Philippine membership in, or operations with, said Fund.
 
 #### Section 117
 
-. _Representation with other financial institutions._ -The Central Bank may be authorized by the Government to represent it in dealings, negotiations or transactions with the International Bank for Reconstruction and Development and with other foreign or international financial institutions or agencies.
+_Representation with other financial institutions._ -The Central Bank may be authorized by the Government to represent it in dealings, negotiations or transactions with the International Bank for Reconstruction and Development and with other foreign or international financial institutions or agencies.
 
 #### Section 118
 
-. _Official deposits._ -The Central Bank shall be the official depository of the Government and its political subdivisions and instrumentalities: _Provided,_ However, That the Monetary Board may designate Government-owned banks and other banks incorporated in the Philippines to accept deposits from said entities, subject to such rules and regulations as the Board may prescribe.
+_Official deposits._ -The Central Bank shall be the official depository of the Government and its political subdivisions and instrumentalities: _Provided,_ However, That the Monetary Board may designate Government-owned banks and other banks incorporated in the Philippines to accept deposits from said entities, subject to such rules and regulations as the Board may prescribe.
 
 #### Section 119
 
-. _Fiscal operations._ -The Central Bank shall open a general cash account for the Treasurer of the Philippines, in which the liquid funds of the Government shall be deposited.
+_Fiscal operations._ -The Central Bank shall open a general cash account for the Treasurer of the Philippines, in which the liquid funds of the Government shall be deposited.
 
 Transfers of funds from this account to other accounts shall be made only upon order of the Treasurer of the Philippines.
 
 #### Section 120
 
-. _Other banks as agents of the Central Bank._ -In the performance of its functions as fiscal agent, the Central Bank may engage the services of the Philippine National Bank and of other domestic banks for operations in localities at home or abroad in which the Central Bank does not have offices or agencies adequately equipped to perform said operations: _Provided,_ However, That for fiscal operations in foreign countries, the Central Bank may engage the services of foreign banking and financial institutions.
+_Other banks as agents of the Central Bank._ -In the performance of its functions as fiscal agent, the Central Bank may engage the services of the Philippine National Bank and of other domestic banks for operations in localities at home or abroad in which the Central Bank does not have offices or agencies adequately equipped to perform said operations: _Provided,_ However, That for fiscal operations in foreign countries, the Central Bank may engage the services of foreign banking and financial institutions.
 
 #### Section 121
 
-. _Remuneration for services._ -The Central Bank shall not charge for services which it renders to the Government and to its political subdivisions and instrumentalities any rates, commissions or fees.
+_Remuneration for services._ -The Central Bank shall not charge for services which it renders to the Government and to its political subdivisions and instrumentalities any rates, commissions or fees.
 
 The Bank shall not pay interest on deposits of the Government or of its political subdivisions and instrumentalities.
 
@@ -926,7 +926,7 @@ _Issue of Government obligations._ -The issue of securities representing obligat
 
 #### Section 123
 
-. _Methods of placing Government securities._ -The Central Bank may place the securities to which the preceding section refers through direct sale to financial institutions and the public, through outright sale to syndicates, brokers or dealers for purposes of resale to the public for their own account, or through brokers or banks contracted to place the securities with the public for the account of the Central Bank.
+_Methods of placing Government securities._ -The Central Bank may place the securities to which the preceding section refers through direct sale to financial institutions and the public, through outright sale to syndicates, brokers or dealers for purposes of resale to the public for their own account, or through brokers or banks contracted to place the securities with the public for the account of the Central Bank.
 
 The Central Bank shall not be a member of any stock exchange or syndicate, but may intervene therein for the sole purpose of regulating their operations in the placing of Government securities.
 
@@ -934,7 +934,7 @@ The Government, or its respective subdivisions or instrumentalities, shall reimb
 
 #### Section 124
 
-. _Servicing and redemption of the public debt._ -The servicing and redemption of the public debt shall also be effected through the Central Bank.
+_Servicing and redemption of the public debt._ -The servicing and redemption of the public debt shall also be effected through the Central Bank.
 
 **B. Central Bank Support of the Government Securities Market**
 
@@ -950,7 +950,7 @@ The Monetary Board shall issue such regulations as may be necessary to implement
 
 #### Section 126
 
-. _Resources of the Securities Stabilization Fund._ -The resources of the Securities Stabilization Fund shall come from the following sources:
+_Resources of the Securities Stabilization Fund._ -The resources of the Securities Stabilization Fund shall come from the following sources:
 
 (a) Two million (₱2,000,000) pesos, which are hereby appropriated from the assets of the Exchange Standard Fund, as provided in section 134 of this Act, and such other appropriations as the Government may make from time to time;
 
@@ -960,7 +960,7 @@ The Monetary Board shall issue such regulations as may be necessary to implement
 
 #### Section 127
 
-. _Profits and losses of the Fund._ -The Securities Stabilization Fund shall retain any net profits which it may make on its operations, regardless of whether said profits arise from capital gains or from interest earnings. The Fund shall correspondingly bear any net losses which it may incur.
+_Profits and losses of the Fund._ -The Securities Stabilization Fund shall retain any net profits which it may make on its operations, regardless of whether said profits arise from capital gains or from interest earnings. The Fund shall correspondingly bear any net losses which it may incur.
 
 ### ARTICLE III — FUNCTIONS AS FINANCIAL ADVISOR OF THE GOVERNMENT
 
@@ -974,7 +974,7 @@ Whenever the Government, or any of its political subdivisions or instrumentaliti
 
 #### Section 129
 
-. _Representation on the National Economic Council._ -In order to assure effective coordination between the economic, financial and fiscal policies of the Government and the monetary, credit and exchange policies of the Central Bank, the Governor of the Central Bank shall be an ex-officio member of the National Economic Council.
+_Representation on the National Economic Council._ -In order to assure effective coordination between the economic, financial and fiscal policies of the Government and the monetary, credit and exchange policies of the Central Bank, the Governor of the Central Bank shall be an ex-officio member of the National Economic Council.
 
 ### ARTICLE I — PRIVILEGES
 
@@ -986,11 +986,11 @@ The exemptions authorized in the preceding paragraph of this section shall apply
 
 #### Section 131
 
-. _Exemption from customs duties._ -The importation and exportation by the Central Bank of notes and coins, and of gold and other metals to be used for purposes authorized under this Act, and the importation of all equipment needed for furnishing, equipping and operating the offices of the Bank, shall be fully exempt from all customs duties and consular fees and from all other taxes, assessments and charges related to such importation or exportation.
+_Exemption from customs duties._ -The importation and exportation by the Central Bank of notes and coins, and of gold and other metals to be used for purposes authorized under this Act, and the importation of all equipment needed for furnishing, equipping and operating the offices of the Bank, shall be fully exempt from all customs duties and consular fees and from all other taxes, assessments and charges related to such importation or exportation.
 
 #### Section 132
 
-. _Applicability of the Civil Service Law._ -Appointment in the Central Bank, except as to those which are policy-determining, primarily confidential or highly technical in nature, shall be made only according to the Civil Service Law and Regulations.
+_Applicability of the Civil Service Law._ -Appointment in the Central Bank, except as to those which are policy-determining, primarily confidential or highly technical in nature, shall be made only according to the Civil Service Law and Regulations.
 
 Officers and employees in the Central Bank, including all members of the Monetary Board, shall not engage directly or indirectly in partisan activities or take part in any election except to vote.
 
@@ -1028,7 +1028,7 @@ The Central Bank shall, as soon as practicable, exchange outstanding treasury ce
 
 #### Section 136
 
-. _Assumption by the Central Bank of the liability for treasury coins._ -On the date on which the Central Bank commences business, the total Philippine treasury coin issue, including coins dumped in Manila Bay but not yet salvaged, shall become a liability of the Bank. As a contra item against the liability thereby assumed there shall be set up on the books of the Central Bank an asset account in an amount equal to the face value of the total Philippine treasury coin issue. This account shall be called the "Account to Secure the Coinage."
+_Assumption by the Central Bank of the liability for treasury coins._ -On the date on which the Central Bank commences business, the total Philippine treasury coin issue, including coins dumped in Manila Bay but not yet salvaged, shall become a liability of the Bank. As a contra item against the liability thereby assumed there shall be set up on the books of the Central Bank an asset account in an amount equal to the face value of the total Philippine treasury coin issue. This account shall be called the "Account to Secure the Coinage."
 
 The Central Bank shall, as soon as practicable, exchange treasury coins in circulation for Central Bank coins in accordance with the procedure described in section 59 of this Act. When the Monetary Board has completed the exchange of treasury coins for its own coins and has thereby determined the precise amount of the liability which it originally assumed for the treasury coin issue, the outstanding amount of the Account to Secure the Coinage shall be reduced by the difference between the original amount of the Account and the amount of the liability as finally determined.
 
@@ -1050,18 +1050,18 @@ _Transfer of powers and functions of the Bureau of the Treasury to the Central B
 
 #### Section 139
 
-. _Transfer of authority, powers, and functions of the Bank Commissioner and the Bureau of Banking to the Central Bank._ -All authority now vested in the Bank Commissioner and the Bureau of Banking with respect to the establishment, operation or liquidation of banking and credit institutions, and branches or agencies thereof, and all other powers, duties and functions vested in the Bureau of Banking and Bank Commissioner which by the provisions of this Act shall be exercised by the Bank, are hereby transferred to the Central Bank.
+_Transfer of authority, powers, and functions of the Bank Commissioner and the Bureau of Banking to the Central Bank._ -All authority now vested in the Bank Commissioner and the Bureau of Banking with respect to the establishment, operation or liquidation of banking and credit institutions, and branches or agencies thereof, and all other powers, duties and functions vested in the Bureau of Banking and Bank Commissioner which by the provisions of this Act shall be exercised by the Bank, are hereby transferred to the Central Bank.
 
 #### Section 140
 
-. _Repeal of inconsistent laws._ -All laws, parts of laws, and any special charters, or parts thereof, of banking and financial institutions inconsistent herewith are hereby repealed.
+_Repeal of inconsistent laws._ -All laws, parts of laws, and any special charters, or parts thereof, of banking and financial institutions inconsistent herewith are hereby repealed.
 
 #### Section 141
 
-. _Exemption from restrictions on bank borrowing._ — The restrictions on bank borrowing which are contained in sections 6 and 7 of Act 3610 shall not apply to bank borrowings from the Central Bank.
+_Exemption from restrictions on bank borrowing._ — The restrictions on bank borrowing which are contained in sections 6 and 7 of Act 3610 shall not apply to bank borrowings from the Central Bank.
 
 #### Section 142
 
-. _Effectivity of this Act._ — This Act shall take effect upon approval. The Central Bank of the Philippines shall commence business upon organization of the Monetary Board and certification by the Secretary of Finance that the authorized capital of the Bank has been fully paid-in and that the Bank is ready for operation.
+_Effectivity of this Act._ — This Act shall take effect upon approval. The Central Bank of the Philippines shall commence business upon organization of the Monetary Board and certification by the Secretary of Finance that the authorized capital of the Bank has been fully paid-in and that the Bank is ready for operation.
 
 Approved: June 15, 1948.

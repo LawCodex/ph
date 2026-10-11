@@ -1,0 +1,58 @@
+---
+title: "Presidential Decree No. 1394 — Amending Presidential Decree No. 1193 By Authorizing the Tourist Duty Free Shops, Inc. to Establish Only the Customs Bonded Warehouse, Exempting It From the Duties and Taxes Imposed By Presidential Decrees Nos. 1352 and 1395, and for Other Purposes."
+identifier: "Presidential Decree No. 1394"
+number: "1394"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-05-31
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1394_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1394
+
+**Amending Presidential Decree No. 1193 By Authorizing the Tourist Duty Free Shops, Inc. to Establish Only the Customs Bonded Warehouse, Exempting It From the Duties and Taxes Imposed By Presidential Decrees Nos. 1352 and 1395, and for Other Purposes.**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1394**
+
+AMENDING PRESIDENTIAL DECREE NO. 1193 BY AUTHORIZING THE TOURIST DUTY FREE SHOPS, INC. TO ESTABLISH ONLY THE CUSTOMS BONDED WAREHOUSE, EXEMPTING IT FROM THE DUTIES AND TAXES IMPOSED BY PRESIDENTIAL DECREES NOS. 1352 AND 1395, AND FOR OTHER PURPOSES.
+
+WHEREAS, as a measure to promote tourism, the Tourist Duty Free Shops, Inc. has been authorized under Presidential Decree No. 1193 to establish and operate duty and tax free stores subject to certain conditions, rules and regulations as provided therein;
+
+WHEREAS, the nature of the business tourist duty free stores or enterprises requires the exemption of importations from customs duties and internal revenue taxes in order to be competitive with other tax-free stores elsewhere;
+
+WHEREAS, to enable the Tourist Duty Free Shops, Inc. to be much more price competitive by reducing its costs of operations, it is not necessary to require the establishment of a Customs Bonded Warehouse in each port of entry where it may wish to establish a sales/display area or counter;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+
+## Section 1
+
+Section 2 of Presidential Decree No. 1193 is hereby amended to read as follows:
+
+"Sec. 2. A Customs Bonded Warehouse shall first be established and operated by Tourist Duty Free Shops, Inc. to be used exclusively for the storage and safe-keeping of imported duty and tax free merchandise: Provided, That each sales/display area or counter established by Tourist Duty Free Shops, Inc. for sales or promotional purposes shall be considered as an extension of the Customs Bonded Warehouse: Provided, further, That the operation of such warehouse, sales and display areas/counters shall be under the control and supervision of the Bureau of Customs."
+
+## Section 2
+
+Section 6, paragraph b of the same Decree is hereby amended to read as follows:
+
+"b) Passengers of international flights or sea voyages, arriving from or departing for foreign countries, in local or foreign currency, in accordance with rules, regulations, and procedures promulgated by the Bureau of Customs and/or Central Bank of the Philippines."
+
+## Section 3
+
+Section 10 of Presidential Decree No. 1193 is hereby amended to read as follows:
+
+"Sec. 10. The Tourist Duty Free Shops, Inc. shall, in lieu of the payment of all business and income taxes, whether imposed by the national or local governments, pay annually seven per centum (7%) of its annual net sales, to be apportioned as follows: five per centum (5%) thereof to the Nutrition Center of the Philippines and/or other similar projects as may be directed by the President, and the balance to the national government.
+
+"It is understood that only the provisions of the Decree shall apply on matters of taxation with respect to the operations of the Tourist Duty Free Shops, Inc., any provision of Presidential Decree Nos. 1352 and 1395 or any other law to the contrary notwithstanding."
+
+## Section 4
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 31st day of May, in the year of Our Lord, nineteen hundred and seventy-eight.

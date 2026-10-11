@@ -1,0 +1,67 @@
+---
+title: "Presidential Decree No. 827 — Amending the Judiciary Act By Changing the Permanent Stations of District Judges of the Court of First Instance of Cavite"
+identifier: "Presidential Decree No. 827"
+number: "827"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-11-14
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_827_1975.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 827
+
+**Amending the Judiciary Act By Changing the Permanent Stations of District Judges of the Court of First Instance of Cavite**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 827**
+
+AMENDING THE JUDICIARY ACT BY CHANGING THE PERMANENT STATIONS OF DISTRICT JUDGES OF THE COURT OF FIRST INSTANCE OF CAVITE
+
+WHEREAS, Republic Act No. 296, as amended, otherwise known as Judiciary Act of 1958, the permanent station of Judges of the Court of First Instance of Cavite are as follows:
+
+One Judge, (Branch I) in the City of Trece Martires;
+
+Two Judges, (Branches II and III) in the City of Cavite;
+
+One Judge, (Branch IV) in the City of Tagaytay; and
+
+One Judge, (Branch V) in the Municipality of Bacoor, Province of Cavite;
+
+WHEREAS, the purpose for establishing the different branches of the Court of First Instance of Cavite in such Municipality and cities was to make the Courts more accessible to the inhabitants of Cavite Province, but such purpose has been frustrated because most practising lawyers of the Province reside in the City of Manila and nearby provinces and prefer to handle cases only in the more accessible Branches II, III, IV and V, thereby making it expensive and difficult for parties to bring their counsel to Trece Martires City and causing considerable delay in the disposition of cases in Branch I of the Court of First Instance of Cavite;
+
+WHEREAS, there is a great lack of available means of transportation and communication to and from the present seat of Branch I of the Court of First Instance of Cavite which further affects and hampers the efficient administration of justice in the province;
+
+WHEREAS, the Municipality of Naic is most ideal for the permanent station of Branch I taking into consideration its location and accessibility by transportation and communication to the different municipalities and city within the territorial jurisdiction of Branch I of the Court of First Instance of Cavite;
+
+WHEREAS, the local officials of the Municipality of Naic are willing to provide courtroom space, chamber and office for the judge and personnel of Branch I of the Court of First Instance of Cavite;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order as follows:
+
+## Section 1
+
+Section 52 of Judiciary Act of 1958 (Republic Act No. 296) as amended, is hereby further amended with respect to the five branches of the Court of First Instance of Cavite, to read as follows:
+
+"Sec. 52. Permanent Stations of District Judges. — . . .
+
+x x x x x x x x x
+
+"For the Seventh Judicial District, fifteen judges (Branches I, II, VI, VIII, X, XI, XIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV and XXVI) shall be stationed in the Municipality of Pasig, Province of Rizal; six judges (Branches III, VII, XXVII, XXVIII, XXIX and XXX) shall be stationed in Pasay City; seven judges (Branches IV, V, IX, XVI, XVII, XVIII and XXXI) in Quezon City; six judges (Branches XII, XIV, XXXII, XXXIII, XXXIV and XXXV) in Caloocan City; two judges (Branches XV and XXXVI) in the Municipality of Makati, Province of Rizal; two judges (Branches I and II) in the City of Puerto Princesa; one judge (Branch III) in the Municipality of Brooke's Point, Province of Palawan; one judge (Branch IV) in the Municipality of Coron, same province; two judges (Branches II and III) in the City of Cavite; one judge (Branch I) in the Municipality of Naic; one judge (Branch IV) in Tagaytay City and one judge (Branch V) in the Municipality of Bacoor, Province of Cavite."
+
+x x x x x x x x x
+
+## Section 2
+
+All provisions of existing laws, decrees, rules and regulations, contrary or inconsistent with the provisions of this Decree are hereby repealed or modified accordingly.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 17th day of November, in the year of Our Lord, nineteen hundred and seventy-five.

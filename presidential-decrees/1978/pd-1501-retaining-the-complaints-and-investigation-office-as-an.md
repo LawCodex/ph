@@ -1,0 +1,36 @@
+---
+title: "Presidential Decree No. 1501 — A Decree Retaining the Complaints and Investigation Office as An Agency Directly Under the Office of the President"
+identifier: "Presidential Decree No. 1501"
+number: "1501"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-06-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1501_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1501
+
+**A Decree Retaining the Complaints and Investigation Office as An Agency Directly Under the Office of the President**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1501**
+
+A DECREE RETAINING THE COMPLAINTS AND INVESTIGATION OFFICE AS AN AGENCY DIRECTLY UNDER THE OFFICE OF THE PRESIDENT
+
+WHEREAS, Letter of Implementation No. 42 dated 11 December 1975 provided that the Complaints and Investigation Office shall be deemed automatically abolished upon the creation of the Tanodbayan;
+
+WHEREAS, Presidential Decree No. 1, provided also for the abolition of the Complaints and Investigation Office and the transfer of its records, supplies, equipment and personnel to the Office of the Citizen's Counselor created under Republic Act No. 6028;
+
+WHEREAS, by virtue of the approval of the Philippine Constitution and pursuant to Section 6, Art. XIII thereof and to Sec. 21 of Presidential Decree No. 1487 creating the Office of the Tanodbayan, Republic Act No. 6028 is considered repealed;
+
+WHEREAS, even with the creation of the Office of the Tanodbayan, there is still a need to maintain an Agency in Malacañang to receive and act on complaints from the public filed directly with the Office of the President;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree that the Complaints and Investigation Office shall remain as such agency in the Office of the President, headed by the Chief, Complaints and Investigation Office, shall continue to exercise and perform all the duties and powers granted to it under Executive Order No. 4, Series of 1966, as amended.
+
+Done in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and seventy-eight.

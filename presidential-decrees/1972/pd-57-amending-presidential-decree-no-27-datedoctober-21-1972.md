@@ -1,0 +1,47 @@
+---
+title: "Presidential Decree No. 57 — Amending Presidential Decree No. 27 DatedOctober 21, 1972, Entitled, \"Decreeing the Emancipation of Tenant From the Bondage of the Soil Transferring to Them the Ownership of the Land They Till and Providing the Instruments and Mechanism Therefor.\""
+identifier: "Presidential Decree No. 57"
+number: "57"
+type: decree
+jurisdiction: ph
+language: en
+date: 1972-11-19
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1972/pd_57_1972.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 57
+
+**Amending Presidential Decree No. 27 DatedOctober 21, 1972, Entitled, "Decreeing the Emancipation of Tenant From the Bondage of the Soil Transferring to Them the Ownership of the Land They Till and Providing the Instruments and Mechanism Therefor."**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 57 November 19, 1972**
+
+AMENDING PRESIDENTIAL DECREE NO. 27 DATED OCTOBER 21, 1972, ENTITLED, "DECREEING THE EMANCIPATION OF TENANT FROM THE BONDAGE OF THE SOIL TRANSFERRING TO THEM THE OWNERSHIP OF THE LAND THEY TILL AND PROVIDING THE INSTRUMENTS AND MECHANISM THEREFOR."
+
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972 as amended, do hereby order, decree and make as part of the laws of the land the following measures:
+
+## Section 1
+
+To further accelerate the attainment of the objective set forth in the Presidential Decree No. 27, the following provisions are hereby incorporated, to wit;
+
+1\. The landowner shall be exempt from the capital gains tax on the proceeds of the amortizations paid him by the tenant-purchaser and likewise from income tax due on the securing interests paid as an addition to the total cost of the land.
+
+2\. The active participation of rural banks and all other financial institutions shall be required in order to provide immediate sources of funds to augment loans/credits to be made available to the tenants and/or farmers cooperatives inconsistent with the asserted implementation of the supervised credit program.
+
+3\. The Agricultural Guarantee Fund constituted under Section twelve of Republic Act 6390 for all its intent and purpose include the guarantee coverage to the participating financial institutions under the same terms and conditions allowed and applied to the rural banking system.
+
+4\. The existing agricultural guarantee loan funds wholly or partly contributed and/or funded by government agencies shall be integrated into the Agricultural Guarantee Fund, and shall be governed by the rules and regulations promulgated by the Agricultural Guarantee Fund Board established under Section thirteen of the mentioned Act.
+
+## Section 2
+
+All acts, orders, rules and regulations, or parts thereof, inconsistent herewith are amended or modified accordingly.
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 19th day of November, in the year of Our Lord, nineteen hundred and seventy-two.

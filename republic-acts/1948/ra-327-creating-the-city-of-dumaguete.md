@@ -433,11 +433,9 @@ _City assessor to authenticate lists of real estate assessed._ — The city asse
 
 "I hereby certify that the foregoing list contains a true statement of the piece or pieces of taxable real estate belonging to each person named in the list, and its true cash value, and that no real estate taxable by law in the City of Dumaguete has been omitted from the list, according to the best of my knowledge and belief.
 
-<table>
-<tr>
-<td>__________________________<br/>"(Signature)"<br/>"City Assessor"</td>
-</tr>
-</table>
+__________________________
+"(Signature)"
+"City Assessor"
 
 ### Section 37
 

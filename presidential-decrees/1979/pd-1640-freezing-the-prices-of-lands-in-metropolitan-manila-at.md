@@ -1,0 +1,49 @@
+---
+title: "Presidential Decree No. 1640 — Freezing the Prices of Lands in Metropolitan Manila At Current Market Value"
+identifier: "Presidential Decree No. 1640"
+number: "1640"
+type: decree
+jurisdiction: ph
+language: en
+date: 1979-09-21
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1979/pd_1640_1979.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1640
+
+**Freezing the Prices of Lands in Metropolitan Manila At Current Market Value**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1640**
+
+FREEZING THE PRICES OF LANDS IN METROPOLITAN MANILA AT CURRENT MARKET VALUE
+
+WHEREAS, Section 6, Art. II of the Constitution reads
+
+"Sec. 6. The State shall promote social justice to ensure the dignity, welfare, and security of all the people Towards this end, the State shall regulate the acquisition, ownership, use, enjoyment, and disposition of private property, and equitably diffuse property ownership and profits."
+
+WHEREAS, under Proclamation No. 1893, Metropolitan Manila was declared an urban land reform zone to prevent the unreasonable rise in the prices of lands in the area; and
+
+WHEREAS, to effectively carry out the aims and objectives of the urban land reform program in Metropolitan Manila, it is necessary to freeze the prices of lands until appropriate guidelines, rules and regulations shall have been adopted pursuant to Presidential Decree No. 1517 which proclaimed urban land reform in this country;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me under Section 6, Article II of the Constitution, do hereby order and decree.
+
+## Section 1
+
+Any provision of law to the contrary notwithstanding, the prices of lands within Metropolitan Manila, shall until further orders be frozen at current market value determined in accordance with Presidential Decree No. 76, as amended, and other pertinent laws, decrees, rules or regulations.
+
+## Section 2
+
+Any person who violates this Decree shall suffer the penalty provided under Section 21 of Presidential Decree No. 1517.
+
+## Section 3
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 21st day of September, in the year of Our Lord, nineteen hundred and seventy-nine.

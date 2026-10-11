@@ -939,7 +939,7 @@ _Enhancement of Technical Competence._ \- The PhilATOM shall establish rigorous 
 
 ### Section 54
 
-._PhilATOM Headquarters._ \- An area under the administration of the Bases Conversion and Development Authority (BCDA) within the Clark Special Economic Zone in Pampanga and Tarlac, may be leased exclusively for the PhilATOM based on the terms and conditions agreed upon by the BCDA and the PhilATOM, in accordance with existing laws, rules, and regulations; _Provided,_ That the PhilATOM shall establish additional offices in strategic areas as it may deem necessary; _Provided,_ further. That the boundaries and technical descriptions of these land areas shall be determined by an actual and joint group survey.
+_PhilATOM Headquarters._ \- An area under the administration of the Bases Conversion and Development Authority (BCDA) within the Clark Special Economic Zone in Pampanga and Tarlac, may be leased exclusively for the PhilATOM based on the terms and conditions agreed upon by the BCDA and the PhilATOM, in accordance with existing laws, rules, and regulations; _Provided,_ That the PhilATOM shall establish additional offices in strategic areas as it may deem necessary; _Provided,_ further. That the boundaries and technical descriptions of these land areas shall be determined by an actual and joint group survey.
 
 ### Section 55
 

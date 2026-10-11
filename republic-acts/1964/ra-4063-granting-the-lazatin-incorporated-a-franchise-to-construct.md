@@ -76,30 +76,30 @@ This franchise is granted with the understanding and upon the condition that all
 
 ## Section 10
 
-. The books and accounts of the grantee shall always be open to the inspection of the city treasurer and the city auditor of Angeles City or their authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer reports every six months in duplicate showing the gross receipts and the net receipts for the past six months and the general condition of the business, one of which shall be forwarded by the city treasurer to the Auditor General, who shall keep the same on file.
+The books and accounts of the grantee shall always be open to the inspection of the city treasurer and the city auditor of Angeles City or their authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer reports every six months in duplicate showing the gross receipts and the net receipts for the past six months and the general condition of the business, one of which shall be forwarded by the city treasurer to the Auditor General, who shall keep the same on file.
 
 ## Section 11
 
-. The grantee shall pay on his real estate, buildings, plant, machinery, and other personal property the same taxes as are now or may hereafter be required by law from other persons.
+The grantee shall pay on his real estate, buildings, plant, machinery, and other personal property the same taxes as are now or may hereafter be required by law from other persons.
 
 ## Section 12
 
-. The grantee herein shall not, without the approval of the Congress of the Philippines first had, lease, grant, sell, convey or give in usufruct this franchise and the property and rights acquired thereunder to any person or corporation: _Provided,_ That for the purpose of such lease, grant, sale, conveyance, or giving in usufruct, it shall be necessary to file in the office of the Secretary of Public Works and Communications an agreement in writing by which the person or corporation in whose favor such lease, grant, sale, conveyance, or giving in usufruct is made, shall bind himself to comply with all existing terms and conditions: _Provided, further,_ That in case of any national emergency affecting and endangering the public safety and order, the Government of the Philippines shall have the right to take possession of the water supply system as provided in this Act, and operate the same until such emergency shall have passed.
+The grantee herein shall not, without the approval of the Congress of the Philippines first had, lease, grant, sell, convey or give in usufruct this franchise and the property and rights acquired thereunder to any person or corporation: _Provided,_ That for the purpose of such lease, grant, sale, conveyance, or giving in usufruct, it shall be necessary to file in the office of the Secretary of Public Works and Communications an agreement in writing by which the person or corporation in whose favor such lease, grant, sale, conveyance, or giving in usufruct is made, shall bind himself to comply with all existing terms and conditions: _Provided, further,_ That in case of any national emergency affecting and endangering the public safety and order, the Government of the Philippines shall have the right to take possession of the water supply system as provided in this Act, and operate the same until such emergency shall have passed.
 
 ## Section 13
 
-. The Public Service Commission or its legal successor, after hearing the interested parties, upon notice and order in writing, shall have the power to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions thereof, unless such failure shall have been directly and primarily caused by the act of God, the public enemy, or force majeure. Against such declaration of forfeiture by the Public Service Commission or its legal successor, the grantee may apply for the remedies provided in Sections thirty-five and thirty-six of Commonwealth Act Numbered One hundred and forty-six, as amended.
+The Public Service Commission or its legal successor, after hearing the interested parties, upon notice and order in writing, shall have the power to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions thereof, unless such failure shall have been directly and primarily caused by the act of God, the public enemy, or force majeure. Against such declaration of forfeiture by the Public Service Commission or its legal successor, the grantee may apply for the remedies provided in Sections thirty-five and thirty-six of Commonwealth Act Numbered One hundred and forty-six, as amended.
 
 ## Section 14
 
-. It is expressly provided that in the event the National Government should desire to maintain and operate for itself the water system herein authorized, the grantee shall surrender his franchise and will turn over to the National Government the system and serviceable equipment therein, at cost, less reasonable depreciation.
+It is expressly provided that in the event the National Government should desire to maintain and operate for itself the water system herein authorized, the grantee shall surrender his franchise and will turn over to the National Government the system and serviceable equipment therein, at cost, less reasonable depreciation.
 
 ## Section 15
 
-. The franchise herein granted shall be subject to amendment, alteration or repeal by the Congress when the public so requires.
+The franchise herein granted shall be subject to amendment, alteration or repeal by the Congress when the public so requires.
 
 ## Section 16
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

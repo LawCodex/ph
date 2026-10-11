@@ -1,0 +1,43 @@
+---
+title: "Presidential Decree No. 489 — Authorizing \"The Eastern Extension Australasia and China Telegraph Company, Limited\" to Transfer the Franchise Granted to That Company Under Republic Act No. 808, as Amended By Republic Act No. 5002, to the Eastern Telecommunications Philippines, Inc."
+identifier: "Presidential Decree No. 489"
+number: "489"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-06-24
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_489_1974.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 489
+
+**Authorizing "The Eastern Extension Australasia and China Telegraph Company, Limited" to Transfer the Franchise Granted to That Company Under Republic Act No. 808, as Amended By Republic Act No. 5002, to the Eastern Telecommunications Philippines, Inc.**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 489 June 24, 1974**
+
+AUTHORIZING "THE EASTERN EXTENSION AUSTRALASIA AND CHINA TELEGRAPH COMPANY, LIMITED" TO TRANSFER THE FRANCHISE GRANTED TO THAT COMPANY UNDER REPUBLIC ACT NO. 808, AS AMENDED BY REPUBLIC ACT NO. 5002, TO THE EASTERN TELECOMMUNICATIONS PHILIPPINES, INC.
+
+WHEREAS, the Eastern Australasia and China Telegraph Company Ltd. is the holder of a franchise to land, construct, maintain and operate telecommunications systems... for the reception and transmission of messages between any points in the Philippines to points exterior thereto, including airplanes, airships or vessels even though such airplanes, airships or vessels may be located within territorial limits of the Philippines," under Republic Act No. 808, as amended by Republic Act No. 5002;
+
+WHEREAS, under Section 12 of Republic Act No. 808, as amended, which was approved and became effective on June 21, 1952, the franchise thus granted to the Eastern Extension Australasia and China Telegraph Company, Ltd. has a term of fifty (50) years which will expire only on June 21, 2002;
+
+WHEREAS, under Section 15 of the same Act, the Eastern Extension Australasia and China Telegraph Company, Ltd. is expressly prohibited from leasing, transferring, selling or assigning the franchise thus granted to it without the approval of the then Philippine Congress being first had;
+
+WHEREAS, the general policy of the State is to limit the grant of franchise, certificates or other forms of authorization for the operation of public utilities (such as a telecommunications carrier) only to citizens of the Philippines or to corporations or associations at least sixty per centum (60%) of the capital of which is owned by such citizens;
+
+WHEREAS, the Eastern Telecommunications Philippines, Inc. is a duly organized corporation existing under the laws of the Philippines, with at least 60% of its capital owned at all times by Filipino citizens;
+
+WHEREAS, in order to promote the achievement of the aforementioned policy it is necessary and desirable that the Eastern Extension Australasia and China Telegraph Company Ltd. be authorized to sell, transfer or assign the franchise granted to it under Republic Act No. 808, as amended, to the aforesaid Eastern Telecommunications Philippines, Inc.;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby authorize the Eastern Extension Australasia and China Telegraph Company Ltd. to sell, transfer or assign the franchise granted to it under Republic Act No. 808, as amended by Republic Act No. 5002, to the Eastern Telecommunications Philippines, Inc., a duly organized corporation existing under the laws of the Philippines, with at least 60% of its capital owned at all times by Filipino citizens, upon such terms and conditions as the said grantee and its prospective transferee may agree upon, subject to the provision of Section 15 of Republic Act No. 808, as amended.
+
+This Decree takes effect immediately.
+
+Done in the City of Manila, this 24th day of June, in the year of Our Lord, nineteen hundred and seventy-four.

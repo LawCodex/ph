@@ -61,22 +61,22 @@ The grantee shall keep a separate account of the gross receipts of the business 
 
 ## Section 10
 
-. As a condition of the granting of this temporary permit the grantee shall execute a bond in favor of the Government of the Philippines in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this temporary permit. If, after three years from the date of the acceptance of this temporary permit, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+As a condition of the granting of this temporary permit the grantee shall execute a bond in favor of the Government of the Philippines in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this temporary permit. If, after three years from the date of the acceptance of this temporary permit, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 11
 
-. Acceptance of this temporary permit shall be given in writing within six months after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications, the grantee shall be empowered to exercise the privilege granted thereby.
+Acceptance of this temporary permit shall be given in writing within six months after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications, the grantee shall be empowered to exercise the privilege granted thereby.
 
 ## Section 12
 
-. The grantee shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, or the rights or privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this temporary permit may be sold, transferred, or assigned, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, or the rights or privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this temporary permit may be sold, transferred, or assigned, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
 
 ## Section 13
 
-. This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 14
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

@@ -206,8 +206,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> B. - OFFICE OF THE PRESIDENT
-</table>
+B. - OFFICE OF THE PRESIDENT
 
 <table>
 <tr>
@@ -256,8 +255,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> C. - OFFICE OF THE VICE-PRESIDENT
-</table>
+C. - OFFICE OF THE VICE-PRESIDENT
 
 <table>
 <tr>
@@ -274,8 +272,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> D. - DEPARTMENT OF FOREIGN AFFAIRS
-</table>
+D. - DEPARTMENT OF FOREIGN AFFAIRS
 
 <table>
 <tr>
@@ -296,8 +293,12 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> SALARIES AND WAGES (v) PHILIPPINE LEGATION, BUENOS AIRES, ARGENTINA<br/>(Diplomatic Post, class II) <br/> THE MINISTER
-</table>
+SALARIES AND WAGES
+
+(v) PHILIPPINE LEGATION, BUENOS AIRES, ARGENTINA  
+(Diplomatic Post, class II)
+
+THE MINISTER
 
 <table>
 <tr>
@@ -369,8 +370,10 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> (w) PHILIPPINE MISSION IN TOKYO, JAPAN<br/>(Diplomatic Post, class II) <br/> THE MINISTER
-</table>
+(w) PHILIPPINE MISSION IN TOKYO, JAPAN  
+(Diplomatic Post, class II)
+
+THE MINISTER
 
 <table>
 <tr>
@@ -472,8 +475,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> (x) MISCELLANEOUS
-</table>
+(x) MISCELLANEOUS
 
 <table>
 <tr>
@@ -498,8 +500,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> (y) SUNDRY EXPENSES
-</table>
+(y) SUNDRY EXPENSES
 
 <table>
 <tr>
@@ -516,8 +517,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> (z) FURNITURE AND EQUIPMENT
-</table>
+(z) FURNITURE AND EQUIPMENT
 
 <table>
 <tr>
@@ -631,8 +631,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> E. - DEPARTMENT OF THE INTERIOR
-</table>
+E. - DEPARTMENT OF THE INTERIOR
 
 <table>
 <tr>
@@ -649,8 +648,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> F. - DEPARTMENT OF FINANCE
-</table>
+F. - DEPARTMENT OF FINANCE
 
 <table>
 <tr>
@@ -706,8 +704,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> G. - DEPARTMENT OF JUSTICE
-</table>
+G. - DEPARTMENT OF JUSTICE
 
 <table>
 <tr>
@@ -744,8 +741,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> I. - DEPARTMENT OF PUBLIC WORKS AND COMMUNICATIONS
-</table>
+I. - DEPARTMENT OF PUBLIC WORKS AND COMMUNICATIONS
 
 <table>
 <tr>
@@ -810,8 +806,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> J. - DEPARTMENT OF EDUCATION
-</table>
+J. - DEPARTMENT OF EDUCATION
 
 <table>
 <tr>
@@ -844,8 +839,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> L. - DEPARTMENT OF NATIONAL DEFENSE
-</table>
+L. - DEPARTMENT OF NATIONAL DEFENSE
 
 <table>
 <tr>
@@ -870,8 +864,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> M. - DEPARTMENT OF HEALTH
-</table>
+M. - DEPARTMENT OF HEALTH
 
 <table>
 <tr>
@@ -900,8 +893,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> N. - DEPARTMENT OF COMMERCE AND INDUSTRY
-</table>
+N. - DEPARTMENT OF COMMERCE AND INDUSTRY
 
 <table>
 <tr>
@@ -926,8 +918,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> O. - GENERAL AUDITING OFFICE
-</table>
+O. - GENERAL AUDITING OFFICE
 
 <table>
 <tr>
@@ -944,8 +935,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> R. - SUPREME COURT OF THE PHILIPPINES
-</table>
+R. - SUPREME COURT OF THE PHILIPPINES
 
 <table>
 <tr>
@@ -957,8 +947,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> S. - COURT OF APPEALS
-</table>
+S. - COURT OF APPEALS
 
 <table>
 <tr>
@@ -983,8 +972,7 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> T. - CONTINGENT FUNDS
-</table>
+T. - CONTINGENT FUNDS
 
 <table>
 <tr>
@@ -1002,5 +990,18 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> <b>Section 2.</b> The special and general provisions of Republic Act Numbered Three hundred twenty are hereby made applicable to the appropriations provided in this Act. <b>Section 3.</b> Section 5 of Republic Act Numbered Three hundred twenty as continued in force by Republic Act Numbered Four hundred twenty-four, is amended to read as follows: "Sec. 5. Authority to use savings. - The President of the Philippines is authorized to use any savings in the appropriations authorized in this Act for the Executive Departments, (1) for the payment of claims under section 699 of the Revised Administrative Code and the Workmen's Compensation Act, whichever is applicable, to officers, employees and laborers who died or were injured in line of duty; (2) for the commutation of the money value of the additional leave, extended leave, and accrued leave earned by American and deceased Filipino officers and employees, or by Filipino officers and employees separated from the service except for cause, for service rendered prior to November twenty-ninth, nineteen hundred and thirty-six; and (3) for the payment of salary increases of officials and employees of the National Government, resulting from the standardization of salaries or reclassification of provinces." <b>Section 4.</b> This Act shall take effect as of July first, nineteen hundred and forty-nine. Approved: April 28, 1950 <br/>
-</table>
+## Section 2
+
+The special and general provisions of Republic Act Numbered Three hundred twenty are hereby made applicable to the appropriations provided in this Act.
+
+## Section 3
+
+Section 5 of Republic Act Numbered Three hundred twenty as continued in force by Republic Act Numbered Four hundred twenty-four, is amended to read as follows:
+
+"Sec. 5. Authority to use savings. - The President of the Philippines is authorized to use any savings in the appropriations authorized in this Act for the Executive Departments, (1) for the payment of claims under section 699 of the Revised Administrative Code and the Workmen's Compensation Act, whichever is applicable, to officers, employees and laborers who died or were injured in line of duty; (2) for the commutation of the money value of the additional leave, extended leave, and accrued leave earned by American and deceased Filipino officers and employees, or by Filipino officers and employees separated from the service except for cause, for service rendered prior to November twenty-ninth, nineteen hundred and thirty-six; and (3) for the payment of salary increases of officials and employees of the National Government, resulting from the standardization of salaries or reclassification of provinces."
+
+## Section 4
+
+This Act shall take effect as of July first, nineteen hundred and forty-nine.
+
+Approved: April 28, 1950

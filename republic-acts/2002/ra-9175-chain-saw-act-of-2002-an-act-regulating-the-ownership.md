@@ -38,7 +38,7 @@ _Title._ \- This Act shall be known as the "Chain Saw Act of 2002".
 
 ## Section 3
 
-. _Definition of Terms._ \- As used in this Act, the term:
+_Definition of Terms._ \- As used in this Act, the term:
 
 (a) "Chain saw" shall refer to any portable power saw or similar cutting implement, rendered operative by an electric or internal combustion engine or similar means, that may be used for, but is not limited to, the felling of trees or the cutting of timber;
 
@@ -98,7 +98,7 @@ _Reward._ \- Any person who voluntarily gives information leading to the recover
 
 ## Section 9
 
-. _Authority of the Secretary._ \- To effectively implement the provisions of this Act, the Secretary shall issue the implementing rules and regulations within ninety (90) days upon approval of this Act. He shall likewise organize an office within the Department to ensure that requirements imposed by this Act may be complied with by qualified persons, within the shortest possible time, at the least possible expense.
+_Authority of the Secretary._ \- To effectively implement the provisions of this Act, the Secretary shall issue the implementing rules and regulations within ninety (90) days upon approval of this Act. He shall likewise organize an office within the Department to ensure that requirements imposed by this Act may be complied with by qualified persons, within the shortest possible time, at the least possible expense.
 
 In the Province of Palawan, the provisions of this Act shall be implemented by the Palawan Council for Sustainable Development pursuant to Republic Act No. 7611 or the Strategic Environmental Plan for Palawan.
 

@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 793 — Providing for the Recognition of Muslim Divorce"
+identifier: "Presidential Decree No. 793"
+number: "793"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-09-04
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_793_1975.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 793
+
+**Providing for the Recognition of Muslim Divorce**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 793 September 4, 1975**
+
+PROVIDING FOR THE RECOGNITION OF MUSLIM DIVORCE
+
+WHEREAS, the twenty-year period fixed in Republic Act No. 394 within which divorces among Muslims residing in non-Christian provinces in accordance with Muslim customs and practices shall be recognized expired on June 18, 1969;
+
+WHEREAS, since Muslim divorce is deeply imbedded in Muslim culture and as Muslims have taken for granted the continuity of the period of effectivity of Republic Act No. 394, the practice of obtaining Muslim divorces has gone on uninterruptedly in Muslim areas;
+
+WHEREAS, the Civil Code which does not recognize absolute divorce has become applicable to Muslim marriages upon the expiration of the period fixed in Republic Act No. 394 and this could generate complicated legal problems for the Muslim people and thus serve to undermine their faith in the Government's sincerity to bring about meaningful reforms for their welfare and common good;
+
+WHEREAS, in the interest of national unification, it therefore becomes imperative that Muslim divorce be given continued legal sanction.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree:
+
+## Section 1
+
+Divorce among Muslims residing in non-Christian provinces shall be recognized and be governed by Muslim customs and practices.
+
+## Section 2
+
+This Decree shall take effect as of June 19, 1969.
+
+Done in the City of Manila, this 4th day of September, in the year of Our Lord, nineteen hundred and seventy-five.

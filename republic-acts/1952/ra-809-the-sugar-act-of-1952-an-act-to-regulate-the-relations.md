@@ -88,7 +88,7 @@ If any provision of this Act, or the application thereof to any person or circum
 
 ## Section 11
 
-. In order to secure the correct weight of cane and the accurate sampling and analysis of the juice from which the quantity of sugar due the planters is obtained in the manufacture of sugar, and to insure that the laborers benefited by this law will have the full benefits due them, all mills are hereby required to install automatic equipment for the weighing of sugar-cane and sampling of planters' juice upon approval of this law.
+In order to secure the correct weight of cane and the accurate sampling and analysis of the juice from which the quantity of sugar due the planters is obtained in the manufacture of sugar, and to insure that the laborers benefited by this law will have the full benefits due them, all mills are hereby required to install automatic equipment for the weighing of sugar-cane and sampling of planters' juice upon approval of this law.
 
 ## Section 12
 

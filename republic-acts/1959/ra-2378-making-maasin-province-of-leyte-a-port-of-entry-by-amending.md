@@ -28,7 +28,7 @@ Section seven hundred one of Republic Act Numbered Nineteen hundred thirty-seven
 
 ## Sec. 701
 
-. _Collection Districts and Ports of Entry thereof._ -For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, Maasin and Batangas."
+_Collection Districts and Ports of Entry thereof._ -For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, Maasin and Batangas."
 
 ## Section 2
 

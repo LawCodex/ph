@@ -29,7 +29,7 @@ Section twenty-eight of Republic Act Numbered Two hundred and ninety-six, as ame
 
 ## Sec. 28
 
-. Qualifications and compensation of Justices of the Court of Appeals.— The Justices of the Court of Appeals shall have the same qualifications as those provided in the Constitution for members of the Supreme Court. The Presiding Justice of the Court of Appeals shall receive an annual compensation of nineteen thousand pesos, and each Associate Justice, an annual compensation of eighteen thousand pesos."
+Qualifications and compensation of Justices of the Court of Appeals.— The Justices of the Court of Appeals shall have the same qualifications as those provided in the Constitution for members of the Supreme Court. The Presiding Justice of the Court of Appeals shall receive an annual compensation of nineteen thousand pesos, and each Associate Justice, an annual compensation of eighteen thousand pesos."
 
 ## Section 2
 

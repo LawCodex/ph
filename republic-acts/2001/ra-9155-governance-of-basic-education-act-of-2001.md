@@ -27,11 +27,11 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ### Section 1
 
-. _Short Title._ \- This Act shall be known as the "Governance of Basic Education Act of 2001."
+_Short Title._ \- This Act shall be known as the "Governance of Basic Education Act of 2001."
 
 ### Section 2
 
-. _Declaration of Policy._ \- It is hereby declared the policy of the State to protect and promote the right of all citizens to quality basic education and to make such education accessible to all by providing all Filipino children a free and compulsory education in the elementary level and free education in the high school level. Such education shall also include alternative learning systems for out-of-school youth and adult learners. It shall be the goal of basic education to provide them with the skills, knowledge and values they need to become caring, seIf-reliant, productive and patriotic citizens.
+_Declaration of Policy._ \- It is hereby declared the policy of the State to protect and promote the right of all citizens to quality basic education and to make such education accessible to all by providing all Filipino children a free and compulsory education in the elementary level and free education in the high school level. Such education shall also include alternative learning systems for out-of-school youth and adult learners. It shall be the goal of basic education to provide them with the skills, knowledge and values they need to become caring, seIf-reliant, productive and patriotic citizens.
 
 The school shall be the heart of the formal education system. It is where children learn. Schools shall have a single aim of providing the best possible basic education for all learners.
 
@@ -41,7 +41,7 @@ The State shall encourage local initiatives for improving the quality of basic e
 
 ### Section 3
 
-. _Purposes and Objectives._ \- The purposes and objectives of this Act are:
+_Purposes and Objectives._ \- The purposes and objectives of this Act are:
 
 (a) To provide the framework for the governance of basic education which shall set the general directions for educational policies and standards and establish authority, accountability and responsibility for achieving higher learning outcomes;
 
@@ -59,7 +59,7 @@ The State shall encourage local initiatives for improving the quality of basic e
 
 ### Section 4
 
-. _Definition of Terms._ \- For purposes of this Act, the terms or phrases used shall mean or be understood as follows:
+_Definition of Terms._ \- For purposes of this Act, the terms or phrases used shall mean or be understood as follows:
 
 (a) _Alternative Learning System_ -is a parallel learning system to provide a viable alternative to the existing formal education instruction. It encompasses both the nonformal and informal sources of knowledge and skills;
 
@@ -101,11 +101,11 @@ _Principles of Shared Governance._ \- (a) Shared governance is a principle which
 
 ### Section 6
 
-. _Governance._ \- The Department of Education, Culture and Sports shall henceforth be called the Department of Education. It shall be vested with authority, accountability and responsibility for ensuring access to, promoting equity in, and improving the quality of basic education. Arts, culture and sports shall be as provided for in Sections 8 and 9 hereof.
+_Governance._ \- The Department of Education, Culture and Sports shall henceforth be called the Department of Education. It shall be vested with authority, accountability and responsibility for ensuring access to, promoting equity in, and improving the quality of basic education. Arts, culture and sports shall be as provided for in Sections 8 and 9 hereof.
 
 ### Section 7
 
-. _Powers, Duties and Functions._ \- The Secretary of the Department of Education shall exercise overall authority and supervision over the operations of the Department.
+_Powers, Duties and Functions._ \- The Secretary of the Department of Education shall exercise overall authority and supervision over the operations of the Department.
 
 A. National Level In addition to his/her powers under existing laws, the Secretary of Education shall have authority, accountability and responsibility for the following:
 
@@ -269,11 +269,11 @@ _Governance in the ARMM;_ \- The Regional Education Secretary for the Autonomous
 
 ### Section 14
 
-. _Rules and Regulations._ \- The Secretary of Education shall promulgate the implementing rules and regulations within ninety (90) days after the approval of this Act: _Provided,_ That the Secretary of Education shall fully implement the principle of shared governance within two (2) years after the approval of this Act.
+_Rules and Regulations._ \- The Secretary of Education shall promulgate the implementing rules and regulations within ninety (90) days after the approval of this Act: _Provided,_ That the Secretary of Education shall fully implement the principle of shared governance within two (2) years after the approval of this Act.
 
 ### Section 15
 
-. _Separability Clause._ \- If for any reason, any portion or provision of this Act shall be declared unconstitutional, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+_Separability Clause._ \- If for any reason, any portion or provision of this Act shall be declared unconstitutional, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
 
 ### Section 16
 

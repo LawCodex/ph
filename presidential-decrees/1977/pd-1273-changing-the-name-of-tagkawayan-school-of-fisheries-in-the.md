@@ -1,0 +1,42 @@
+---
+title: "Presidential Decree No. 1273 — Changing the Name of Tagkawayan School of Fisheries in the Municipality of Tagkawayan, Province of Quezon to Judge Guillermo Eleazar School of Fisheries"
+identifier: "Presidential Decree No. 1273"
+number: "1273"
+type: decree
+jurisdiction: ph
+language: en
+date: 1977-12-27
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1977/pd_1273_1977.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1273
+
+**Changing the Name of Tagkawayan School of Fisheries in the Municipality of Tagkawayan, Province of Quezon to Judge Guillermo Eleazar School of Fisheries**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1273**
+
+CHANGING THE NAME OF TAGKAWAYAN SCHOOL OF FISHERIES IN THE MUNICIPALITY OF TAGKAWAYAN, PROVINCE OF QUEZON TO JUDGE GUILLERMO ELEAZAR SCHOOL OF FISHERIES
+
+WHEREAS, the Tagkawayan School of Fisheries in the municipality of Tagkawayan, Province of Quezon, was established by Republic Act No. 4290 approved on June 19, 1965, to provide vocational fishery education for the people in its service area.
+
+WHEREAS, the school could not implement this goal without a suitable school site where its physical facilities and school activities can be adequately carried on, and
+
+WHEREAS, in consideration of the donation of the school site by the late JUDGE GUILLERMO ELEAZAR the school of fisheries to be established in the land so donated should be named in his memory and honor;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+
+## Section 1
+
+The name of the Tagkawayan School of Fisheries established in the Municipality of Tagkawayan, Province of Quezon, is hereby changed to Judge Guillermo Eleazar School of fisheries.
+
+## Section 2
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 27th day of December in the year of Our Lord nineteen hundred and seventy-seven.

@@ -188,6 +188,6 @@ All laws, parts of the laws, orders, ordinances, or regulations in conflict with
 
 ### Section 31
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

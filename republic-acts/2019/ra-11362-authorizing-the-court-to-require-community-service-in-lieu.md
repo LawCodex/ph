@@ -78,8 +78,5 @@ This Act was passed by the Senate of the Philippines as Senate Bill No. 2195 on 
 
 Approved: AUG 08 2019
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

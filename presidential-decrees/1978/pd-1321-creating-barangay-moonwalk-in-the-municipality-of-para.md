@@ -1,0 +1,60 @@
+---
+title: "Presidential Decree No. 1321 — Creating Barangay Moonwalk in the Municipality of Para&ntilde;aque, Metro Manila"
+identifier: "Presidential Decree No. 1321"
+number: "1321"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-04-03
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1321_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1321
+
+**Creating Barangay Moonwalk in the Municipality of Para&ntilde;aque, Metro Manila**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1321 April 3, 1978**
+
+CREATING BARANGAY MOONWALK IN THE MUNICIPALITY OF PARAÑAQUE, METRO MANILA
+
+WHEREAS, the fundamental aim of the State is to hasten up the pace of socio-economic development throughout the country;
+
+WHEREAS, the effective implementation of the declared programs of the government on development hinges primarily on the administrative efficiency of each and every local government units;
+
+WHEREAS, it has been the clamor of the residents of the proposed barangay with the conformity of the elective officials of the locality to create the new barangay so as to achieve a closer supervision of the execution of the development programs of the locality;
+
+WHEREAS, the creation of the proposed barangay will redound and contribute greatly to the upliftment of the socio-economic well-being of the residents therein;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree, as part of the law of the land, the following:
+
+## Section 1
+
+The following subdivisions known as Moonwalk Phase I and II, Bricktown, Phase 1, 2, and 3, and Multinational Village in Barangay Sto. Niño, in the Municipality of Parañaque, Metro Manila, is hereby detached and separated therefrom to form and constitute into a distinct and independent barangay which is created to be known as Barangay Moonwalk without affecting in any manner the legal existence of the mother barangay.
+
+## Section 2
+
+Except as hereinafter provided, all provisions of law, now or hereafter applicable to regular barangays, shall be applicable to Barangay Moonwalk.
+
+## Section 3
+
+The present elective barangay officials of Barangay Sto. Niño shall continue to perform their duties as such officials in the newly created Barangay Moonwalk until the barangay officials of said barangay shall have been appointed by the President. Such officials so appointed shall hold office until their successors shall have been elected in the regular elections for barangay officials following the issuance of this Decree and shall have qualified, unless sooner removed at the pleasure of the President. Such appointive officers and employees as maybe necessary to organize or complete the government personnel of Barangay Moonwalk shall be appointed as provided for under existing laws.
+
+## Section 4
+
+Upon the effectivity of this Decree, the proportionate share of Barangay Moonwalk in the obligations, funds, assets and other property of Barangay Sto. Niño shall be transferred by the President to the newly created barangay upon the recommendation of the Commission on Audit.
+
+## Section 5
+
+All laws or parts of laws as well as all executive orders or regulations, inconsistent herewith are hereby repealed or modified accordingly.
+
+## Section 6
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 3rd day of April, in the year of Our Lord, Nineteen Hundred and Seventy-Eight.

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-.Separation and Conversion into a National High School. - The Aurora National High School - Annex III in Barangay Puangi, Municipality of Dipaculao, Province of Aurora is hereby separated from the Aurora National High School and converted into an independent national high school to be known as **_Puangi National High School._**
+Separation and Conversion into a National High School. - The Aurora National High School - Annex III in Barangay Puangi, Municipality of Dipaculao, Province of Aurora is hereby separated from the Aurora National High School and converted into an independent national high school to be known as **_Puangi National High School._**
 
 ## Section 2
 

@@ -35,1635 +35,1631 @@ SUMMARY OF FY 1994 NEW APPROPRIATIONS
 
 (Amount, In thousand pesos)
 
-<table>
-<tr>
-<td colspan="2">I. CONGRESS OF THE PHILIPPINES</td>
-<td>1,784,832,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Senate</td>
-<td>472,000,000</td>
-</tr>
-<tr>
-<td colspan="2">A.1 Senate Electoral Tribunal</td>
-<td>27,713,000</td>
-</tr>
-<tr>
-<td colspan="2"><nobr>B. Commission on Appointments</nobr></td>
-<td>82,907,000</td>
-</tr>
-<tr>
-<td colspan="2"><nobr>C. House of Representatives</nobr></td>
-<td>1,171,924,000</td>
-</tr>
-<tr>
-<td colspan="2">C.1 House Electoral Tribunal</td>
-<td>30,288,000</td>
-</tr>
-<tr>
-<td colspan="2">II. OFFICE OF THE PRESIDENT</td>
-<td>611,749,002</td>
-</tr>
-<tr>
-<td colspan="2">A. The President's Offices</td>
-<td>611,749,002</td>
-</tr>
-<tr>
-<td colspan="2">III. OFFICE OF THE VICE-PRESIDENT</td>
-<td>45,363,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Vice-President</td>
-<td>45,363,000</td>
-</tr>
-<tr>
-<td colspan="2">IV. DEPARTMENT OF AGRARIAN REFORM</td>
-<td>827,716,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>827,716,000</td>
-</tr>
-<tr>
-<td colspan="2">V. DEPARTMENT OF AGRICULTURE</td>
-<td>6,430,469,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>5,972,162,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Agricultural Credit Policy Council</td>
-<td>75,730,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Fertilizer and Pesticide Authority</td>
-<td>15,804,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Fiber Industry Development Authority</td>
-<td>84,074,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Livestock Development Council</td>
-<td>8,978,000</td>
-</tr>
-<tr>
-<td colspan="2">F. National Agricultural and Fishery Council</td>
-<td>86,927,000</td>
-</tr>
-<tr>
-<td colspan="2">G. National Meat Inspection Commission</td>
-<td>43,170,000</td>
-</tr>
-<tr>
-<td colspan="2">H. National Nutrition Council</td>
-<td>28,787,000</td>
-</tr>
-<tr>
-<td colspan="2">I. National Stud Farm</td>
-<td>5,599,000</td>
-</tr>
-<tr>
-<td colspan="2">J. Philippine Carabao Center</td>
-<td>102,422,000</td>
-</tr>
-<tr>
-<td colspan="2">K. Sacobia Development Authority</td>
-<td>6,816,000</td>
-</tr>
-<tr>
-<td colspan="2">VI. DEPARTMENT OF BUDGET AND MANAGEMENT</td>
-<td>261,101,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>258,085,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Procurement Service</td>
-<td>3,016,000</td>
-</tr>
-<tr>
-<td colspan="2"><nobr> VII. DEPARTMENT OF EDUCATION, CULTURE AND SPORTS</nobr></td>
-<td>37,956,910,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>37,780,450,000</td>
-</tr>
-<tr>
-<td colspan="2">B. National Historical Institute</td>
-<td>49,295,000</td>
-</tr>
-<tr>
-<td colspan="2">C. National Library</td>
-<td>36,374,000</td>
-</tr>
-<tr>
-<td colspan="2">D. National Museum</td>
-<td>58,907,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Records Management and Archives Office</td>
-<td>20,099,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Philippine High School for the Arts</td>
-<td>11,785,000</td>
-</tr>
-<tr>
-<td colspan="2">VIII. STATE UNIVERSITIES AND COLLEGES</td>
-<td>6,078,360,000</td>
-</tr>
-<tr>
-<td colspan="2">A. NATIONAL CAPITAL REGION</td>
-<td>2,506,144,000</td>
-</tr>
-<tr>
-<td colspan="2"><nobr> A.1 Eulogio "Amang" Rodriguez Institute of Science and Technology</nobr></td>
-<td>47,069,000</td>
-</tr>
-<tr>
-<td colspan="2">A.2 Philippine Merchant Marine Academy</td>
-<td>42,217,000</td>
-</tr>
-<tr>
-<td colspan="2">A.3 Philippine Normal University</td>
-<td>104,607,000</td>
-</tr>
-<tr>
-<td colspan="2">A.4 Philippine State College of Aeronautics</td>
-<td>24,150,000</td>
-</tr>
-<tr>
-<td colspan="2">A.5 Polytechnic University of the Philippines</td>
-<td>257,420,000</td>
-</tr>
-<tr>
-<td colspan="2">A.6 Rizal Technological Colleges</td>
-<td>66,128,000</td>
-</tr>
-<tr>
-<td colspan="2">A.7 Technological University of the Philippines</td>
-<td>126,440,000</td>
-</tr>
-<tr>
-<td colspan="2">A.8 University of the Philippines System</td>
-<td>1,838,113,000</td>
-</tr>
-<tr>
-<td colspan="2">B. REGION I – ILOCOS</td>
-<td>416,955,000</td>
-</tr>
-<tr>
-<td colspan="2">B.1 Don Mariano Marcos Memorial State University</td>
-<td>158,354,000</td>
-</tr>
-<tr>
-<td colspan="2">B.2 Mariano Marcos State University</td>
-<td>98,735,000</td>
-</tr>
-<tr>
-<td colspan="2">B.3 Cotton Research and Development Institute</td>
-<td>19,955,000</td>
-</tr>
-<tr>
-<td colspan="2">B.4 Pangasinan State University</td>
-<td>75,216,000</td>
-</tr>
-<tr>
-<td colspan="2">B.5 University of Northern Philippines</td>
-<td>64,695,000</td>
-</tr>
-<tr>
-<td colspan="2">C. CORDILLERA ADMINISTRATIVE REGION</td>
-<td>139,874,000</td>
-</tr>
-<tr>
-<td colspan="2">C.1 Abra State Institute of Science and Technology</td>
-<td>16,900,000</td>
-</tr>
-<tr>
-<td colspan="2">C.2 Benguet State University</td>
-<td>60,545,000</td>
-</tr>
-<tr>
-<td colspan="2">C.3 Ifugao State College of Agriculture and Forestry</td>
-<td>23,683,000</td>
-</tr>
-<tr>
-<td colspan="2">C.4 Kalinga-Apayao State College</td>
-<td>13,447,000</td>
-</tr>
-<tr>
-<td colspan="2">C.5 Mt. Province State Polytechnic College</td>
-<td>25,299,000</td>
-</tr>
-<tr>
-<td colspan="2">D. REGION II - CAGAYAN VALLEY</td>
-<td>258,596,000</td>
-</tr>
-<tr>
-<td colspan="2">D.1 Cagayan State University</td>
-<td>102,872,000</td>
-</tr>
-<tr>
-<td colspan="2">D.2 Isabela State University</td>
-<td>88,602,000</td>
-</tr>
-<tr>
-<td colspan="2">D.3 Nueva Vizcaya State Institute of Technology</td>
-<td>35,955,000</td>
-</tr>
-<tr>
-<td colspan="2">D.4 Nueva Vizcaya State Polytechnic College</td>
-<td>19,765,000</td>
-</tr>
-<tr>
-<td colspan="2">D.5 Quirino State College</td>
-<td>11,402,000</td>
-</tr>
-<tr>
-<td colspan="2">E. REGION III - CENTRAL LUZON</td>
-<td>295,196,000</td>
-</tr>
-<tr>
-<td colspan="2">E.1 Bulacan College of Arts and Trades</td>
-<td>34,387,000</td>
-</tr>
-<tr>
-<td colspan="2">E.2 Central Luzon Polytechnic College</td>
-<td>42,922,000</td>
-</tr>
-<tr>
-<td colspan="2">E.3 Central Luzon State University</td>
-<td>86,616,000</td>
-</tr>
-<tr>
-<td colspan="2">E.4 Don Honorio Ventura College of Arts and Trades</td>
-<td>29,970,000</td>
-</tr>
-<tr>
-<td colspan="2">E.5 Pampanga Agricultural College</td>
-<td>26,806,000</td>
-</tr>
-<tr>
-<td colspan="2">E.6 Tarlac College of Agriculture</td>
-<td>28,624,000</td>
-</tr>
-<tr>
-<td colspan="2">E.7 Tarlac State University</td>
-<td>33,475,000</td>
-</tr>
-<tr>
-<td colspan="2">E.8 Western Luzon Agricultural College</td>
-<td>12,396,000</td>
-</tr>
-<tr>
-<td colspan="2">F. REGION IV - SOUTHERN TAGALOG AND PALAWAN</td>
-<td>306,096,000</td>
-</tr>
-<tr>
-<td colspan="2">F.1 Don Severino Agricultural College</td>
-<td>52,152,000</td>
-</tr>
-<tr>
-<td colspan="2">F.2 Laguna State Polytechnic College</td>
-<td>17,154,000</td>
-</tr>
-<tr>
-<td colspan="2">F.3 Marinduque State College</td>
-<td>19,910,000</td>
-</tr>
-<tr>
-<td colspan="2">F.4 Occidental Mindoro National College</td>
-<td>25,619,000</td>
-</tr>
-<tr>
-<td colspan="2">F.5 Pablo Borbon Memorial Institute of Technology</td>
-<td>32,054,000</td>
-</tr>
-<tr>
-<td colspan="2">F.6 Palawan National Agricultural College</td>
-<td>41,198,000</td>
-</tr>
-<tr>
-<td colspan="2">F.7 Palawan State College</td>
-<td>32,284,000</td>
-</tr>
-<tr>
-<td colspan="2">F.8 Rizal College of Agriculture and Technology</td>
-<td>32,893,000</td>
-</tr>
-<tr>
-<td colspan="2">F.9 Romblon State College</td>
-<td>19,627,000</td>
-</tr>
-<tr>
-<td colspan="2">F.10 Southern Luzon Polytechnic College</td>
-<td>33,205,000</td>
-</tr>
-<tr>
-<td colspan="2">G. REGION V- BICOL</td>
-<td>251,477,000</td>
-</tr>
-<tr>
-<td colspan="2">G.1 Bicol University</td>
-<td>111,094,000</td>
-</tr>
-<tr>
-<td colspan="2">G.2 Camarines Norte State College</td>
-<td>35,721,000</td>
-</tr>
-<tr>
-<td colspan="2">G.3 Camarines Sur Polytechnic College</td>
-<td>9,429,000</td>
-</tr>
-<tr>
-<td colspan="2">G.4 Camarines Sur State Agricultural College</td>
-<td>35,760,000</td>
-</tr>
-<tr>
-<td colspan="2">G.5 Catanduanes State College</td>
-<td>44,761,000</td>
-</tr>
-<tr>
-<td colspan="2">G.6 Partido State College</td>
-<td>14,712,000</td>
-</tr>
-<tr>
-<td colspan="2">H. REGION VI - WESTERN VISAYAS</td>
-<td>299,848,000</td>
-</tr>
-<tr>
-<td colspan="2">H.1 Aklan State College of Agriculture</td>
-<td>28,616,000</td>
-</tr>
-<tr>
-<td colspan="2">H.2 Iloilo State College of Fisheries</td>
-<td>24,139,000</td>
-</tr>
-<tr>
-<td colspan="2">H.3 Northern Iloilo Polytechnic State College</td>
-<td>35,577,000</td>
-</tr>
-<tr>
-<td colspan="2">H.4 Paglaum State College</td>
-<td>25,376,000</td>
-</tr>
-<tr>
-<td colspan="2">H.5 Panay State Polytechnic College</td>
-<td>37,615,000</td>
-</tr>
-<tr>
-<td colspan="2">H.6 Polytechnic State College of Antique</td>
-<td>15,265,000</td>
-</tr>
-<tr>
-<td colspan="2">H.7 West Visayas State University</td>
-<td>86,470,000</td>
-</tr>
-<tr>
-<td colspan="2">H.8 Western Visayas College of Science and Technology</td>
-<td>46,790,000</td>
-</tr>
-<tr>
-<td colspan="2">I. REGION VII - CENTRAL VISAYAS</td>
-<td>125,722,000</td>
-</tr>
-<tr>
-<td colspan="2">I.1 Cebu State College</td>
-<td>25,579,000</td>
-</tr>
-<tr>
-<td colspan="2">I.2 Cebu State College of Science and Technology</td>
-<td>70,244,000</td>
-</tr>
-<tr>
-<td colspan="2">I.3 Central Visayas Polytechnic College</td>
-<td>29,899,000</td>
-</tr>
-<tr>
-<td colspan="2">J. REGION VIII - EASTERN VISAYAS</td>
-<td>293,944,000</td>
-</tr>
-<tr>
-<td colspan="2">J.1 Eastern Samar State College</td>
-<td>26,254,000</td>
-</tr>
-<tr>
-<td colspan="2">J.2 Leyte Institute of Technology</td>
-<td>37,626,000</td>
-</tr>
-<tr>
-<td colspan="2">J.3 Leyte State College</td>
-<td>24,053,000</td>
-</tr>
-<tr>
-<td colspan="2">J.4 Naval Institute of Technology</td>
-<td>15,534,000</td>
-</tr>
-<tr>
-<td colspan="2">J.5 Palompon Institute of Technology</td>
-<td>21,653,000</td>
-</tr>
-<tr>
-<td colspan="2">J.6 Samar State Polytechnic College</td>
-<td>23,381,000</td>
-</tr>
-<tr>
-<td colspan="2">J.7 Tiburcio Tancinco Memorial Institute of Science and Technology</td>
-<td>13,031,000</td>
-</tr>
-<tr>
-<td colspan="2">J.8 University of Eastern Philippines</td>
-<td>39,768,000</td>
-</tr>
-<tr>
-<td colspan="2">J.9 Visayas State College of Agriculture</td>
-<td>86,224,000</td>
-</tr>
-<tr>
-<td colspan="2">J.10 Tomas Oppus Normal College</td>
-<td>6,420,000</td>
-</tr>
-<tr>
-<td colspan="2">K. REGION IX - WESTERN MINDANAO</td>
-<td>223,058,000</td>
-</tr>
-<tr>
-<td colspan="2">K.1 Basilan State College</td>
-<td>10,897,000</td>
-</tr>
-<tr>
-<td colspan="2">K.2 Sulu State College</td>
-<td>14,660,000</td>
-</tr>
-<tr>
-<td colspan="2">K.3 MSU-Tawi-Tawi College of Technology and Oceanography</td>
-<td>86,045,000</td>
-</tr>
-<tr>
-<td colspan="2">K.4 Tawi-Tawi Regional Agricultural College</td>
-<td>14,440,000</td>
-</tr>
-<tr>
-<td colspan="2">K.5 Western Mindanao State University</td>
-<td>64,391,000</td>
-</tr>
-<tr>
-<td colspan="2">K.6 Zamboanga State College of Marine Sciences and Technology</td>
-<td>32,625,000</td>
-</tr>
-<tr>
-<td colspan="2">L. REGION X - NORTHERN MINDANAO</td>
-<td>169,947,000</td>
-</tr>
-<tr>
-<td colspan="2">L.1 Bukidnon State College</td>
-<td>26,303,000</td>
-</tr>
-<tr>
-<td colspan="2">L.2 Central Mindanao University</td>
-<td>86,943,000</td>
-</tr>
-<tr>
-<td colspan="2">L.3 Mindanao Polytechnic State College</td>
-<td>33,200,000</td>
-</tr>
-<tr>
-<td colspan="2">L.4 Misamis Oriental State College of Agriculture and Technology</td>
-<td>10,656,000</td>
-</tr>
-<tr>
-<td colspan="2">L.5 Northern Mindanao State Institute of Science and Technology</td>
-<td>12,845,000</td>
-</tr>
-<tr>
-<td colspan="2">M. REGION XI - SOUTHEASTERN MINDANAO</td>
-<td>81,204,000</td>
-</tr>
-<tr>
-<td colspan="2">M.1 Davao Oriental State College of Science and Technology</td>
-<td>14,073,000</td>
-</tr>
-<tr>
-<td colspan="2"><nobr> M.2 Southern Philippines Agri-Business and Marine and Aquatic School of Technology</nobr></td>
-<td>14,272,000</td>
-</tr>
-<tr>
-<td colspan="2">M.3 University of Southeastern Philippines</td>
-<td>52,859,000</td>
-</tr>
-<tr>
-<td colspan="2">N. REGION XII - CENTRAL MINDANAO</td>
-<td>670,299,000</td>
-</tr>
-<tr>
-<td colspan="2">N.1 Cotabato Foundation College of Science and Technology</td>
-<td>27,130,000</td>
-</tr>
-<tr>
-<td colspan="2">N.2 Cotabato City State Polytechnic College</td>
-<td>20,396,000</td>
-</tr>
-<tr>
-<td colspan="2">N.3 Mindanao State University</td>
-<td>402,124,000</td>
-</tr>
-<tr>
-<td colspan="2">N.4 MSU-Iligan Institute of Technology</td>
-<td>120,956,000</td>
-</tr>
-<tr>
-<td colspan="2">N.5 University of Southern Mindanao</td>
-<td>72,255,000</td>
-</tr>
-<tr>
-<td colspan="2">N.6 Sultan Kudarat Polytechnic State College</td>
-<td>27,438,000</td>
-</tr>
-<tr>
-<td colspan="2">O. FACULTY AND STAFF AND DEVELOPMENT FUND</td>
-<td>40,000,000</td>
-</tr>
-<tr>
-<td colspan="2">IX. DEPARTMENT OF ENERGY</td>
-<td>293,867,000</td>
-</tr>
-<tr>
-<td colspan="2">X. DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES</td>
-<td>4,377,961,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>4,238,731,000</td>
-</tr>
-<tr>
-<td colspan="2">B. National Mapping and Resource Information Authority</td>
-<td>139,230,000</td>
-</tr>
-<tr>
-<td colspan="2">XI. DEPARTMENT OF FINANCE</td>
-<td>3,282,273,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>87,785,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Bureau of Customs</td>
-<td>765,650,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Bureau of Internal Revenue</td>
-<td>1,873,336,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Bureau of Local Government Finance</td>
-<td>197,006,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Bureau of the Treasury</td>
-<td>182,009,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Central Board of Assessment Appeals</td>
-<td>4,634,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Economic Intelligence and Investigation Bureau</td>
-<td>119,776,000</td>
-</tr>
-<tr>
-<td colspan="2">H. Fiscal Incentives Review Board</td>
-<td>419,000</td>
-</tr>
-<tr>
-<td colspan="2">I. Insurance Commission</td>
-<td>33,657,000</td>
-</tr>
-<tr>
-<td colspan="2">J. National Tax Research Center</td>
-<td>18,001,000</td>
-</tr>
-<tr>
-<td colspan="2">XII. DEPARTMENT OF FOREIGN AFFAIRS</td>
-<td>1,572,727,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>1,540,414,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Foreign Service Institute</td>
-<td>24,447,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Technical Cooperation Council of the Philippines</td>
-<td>2,117,000</td>
-</tr>
-<tr>
-<td colspan="2">D. UNESCO National Commission of the Philippines</td>
-<td>5,749,000</td>
-</tr>
-<tr>
-<td colspan="2">XIII DEPARTMENT OF HEALTH</td>
-<td>7,418,233,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>7,332,191,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Dangerous Drugs Board</td>
-<td>41,325,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Philippine Medical Care Commission</td>
-<td>44,717,000</td>
-</tr>
-<tr>
-<td colspan="2">XIV. DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT</td>
-<td>12,919,893,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>970,313,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Local Government Academy</td>
-<td>45,549,000</td>
-</tr>
-<tr>
-<td colspan="2">C. National Police Commission</td>
-<td>265,658,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Philippine National Police</td>
-<td>9,820,527,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Bureau of Fire Protection</td>
-<td>1,276,172,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Bureau of Jail Management and Penology</td>
-<td>426,802,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Philippine Public Safety College</td>
-<td>114,872,000</td>
-</tr>
-<tr>
-<td colspan="2">XV. DEPARTMENT OF JUSTICE</td>
-<td>2,212,182,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>821,729,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Bureau of Corrections</td>
-<td>262,423,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Public Attorney's Office</td>
-<td>264,911,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Bureau of Immigration</td>
-<td>80,577,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Commission on the Settlement of Land Problems</td>
-<td>22,899,000</td>
-</tr>
-<tr>
-<td colspan="2">F. National Bureau of Investigation</td>
-<td>303,026,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Land Registration Authority</td>
-<td>212,870,000</td>
-</tr>
-<tr>
-<td colspan="2">H. Office of the Government Corporate Counsel</td>
-<td>22,190,000</td>
-</tr>
-<tr>
-<td colspan="2">I. Office of the Solicitor General</td>
-<td>70,198,000</td>
-</tr>
-<tr>
-<td colspan="2">J. Parole and Probation Administration</td>
-<td>151,359,000</td>
-</tr>
-<tr>
-<td colspan="2">XVI. DEPARTMENT OF LABOR AND EMPLOYMENT</td>
-<td>1,771,421,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>843,821,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Institute for Labor Studies</td>
-<td>10,652,000</td>
-</tr>
-<tr>
-<td colspan="2">C. National Conciliation and Mediation Board</td>
-<td>54,165,000</td>
-</tr>
-<tr>
-<td colspan="2">D. National Labor Relations Commission</td>
-<td>145,714,000</td>
-</tr>
-<tr>
-<td colspan="2">E. National Manpower and Youth Council</td>
-<td>551,974,000</td>
-</tr>
-<tr>
-<td colspan="2">F. National Maritime Polytechnic</td>
-<td>20,203,000</td>
-</tr>
-<tr>
-<td colspan="2">G. National Wages and Productivity Commission</td>
-<td>50,306,000</td>
-</tr>
-<tr>
-<td colspan="2">H. Philippine Overseas Employment Administration</td>
-<td>94,586,000</td>
-</tr>
-<tr>
-<td colspan="2">XVII. DEPARTMENT OF NATIONAL DEFENSE</td>
-<td>22,694,974,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>88,751,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Armed Forces of the Philippines</td>
-<td>20,309,489,000</td>
-</tr>
-<tr>
-<td colspan="2">B.1 General Headquarters</td>
-<td>2,581,755,000</td>
-</tr>
-<tr>
-<td colspan="2">B.2 Philippine Air Force</td>
-<td>2,769,809,000</td>
-</tr>
-<tr>
-<td colspan="2">B.3 Philippine Army</td>
-<td>6,073,002,000</td>
-</tr>
-<tr>
-<td colspan="2">B.4 Philippine Navy</td>
-<td>3,384,820,000</td>
-</tr>
-<tr>
-<td colspan="2">B.5 Presidential Security Group</td>
-<td>169,781,000</td>
-</tr>
-<tr>
-<td colspan="2">B.6 Armed Forces of the Philippines Medical Center</td>
-<td>226,648,000</td>
-</tr>
-<tr>
-<td colspan="2">B.7 Citizen Armed Forces Geographical Units</td>
-<td>877,185,000</td>
-</tr>
-<tr>
-<td colspan="2">B.8 Philippine Military Academy</td>
-<td>241,512,000</td>
-</tr>
-<tr>
-<td colspan="2">B.9 AFP - Reservist and Retiree Affairs Program</td>
-<td>39,607,000</td>
-</tr>
-<tr>
-<td colspan="2">B.10 AFP Pension and Gratuity</td>
-<td>2,165,502,000</td>
-</tr>
-<tr>
-<td colspan="2">B.11 AFP Modernization Program</td>
-<td>1,779,868,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Government Arsenal</td>
-<td>160,086,000</td>
-</tr>
-<tr>
-<td colspan="2">D. National Defense College of the Philippines</td>
-<td>17,083,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Office of Civil Defense</td>
-<td>38,057,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Philippine Veterans Affairs Office</td>
-<td>2,081,508,000</td>
-</tr>
-<tr>
-<td colspan="2">F.1 Philippine Veterans Affairs Office (Proper)</td>
-<td>1,783,434,000</td>
-</tr>
-<tr>
-<td colspan="2">F.2 Military Shrine Services</td>
-<td>10,482,000</td>
-</tr>
-<tr>
-<td colspan="2">F.3 Veterans Memorial Medical Center</td>
-<td>287,592,000</td>
-</tr>
-<tr>
-<td colspan="2">XVIII. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS</td>
-<td>23,180,953,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>23,157,946,000</td>
-</tr>
-<tr>
-<td colspan="2">B. National Water Resources Board</td>
-<td>17,253,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Toll Regulatory Board</td>
-<td>5,754,000</td>
-</tr>
-<tr>
-<td colspan="2">XIX. DEPARTMENT OF SCIENCE AND TECHNOLOGY</td>
-<td>2,857,318,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>1,347,770,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Advanced Science and Technology Institute</td>
-<td>32,208,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Food and Nutrition Research Institute</td>
-<td>38,555,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Forest Products Research and Development Institute</td>
-<td>33,520,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Industrial Technology Development Institute</td>
-<td>98,249,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Metals Industry Research and Development Center</td>
-<td>68,126,000</td>
-</tr>
-<tr>
-<td colspan="2">G. National Academy of Science and Technology</td>
-<td>7,198,000</td>
-</tr>
-<tr>
-<td colspan="2">H. National Research Council of the Philippines</td>
-<td>14,030,000</td>
-</tr>
-<tr>
-<td colspan="2">I. Philippine Atmospheric, Geophysical and Astronomical Services Administration</td>
-<td>675,292,000</td>
-</tr>
-<tr>
-<td colspan="2">J. Philippine Council for Advanced Science and Technology Research and Development</td>
-<td>34,433,000</td>
-</tr>
-<tr>
-<td colspan="2">K. Philippine Council for Agriculture, Forestry and Natural Resources Research and Development</td>
-<td>75,223,000</td>
-</tr>
-<tr>
-<td colspan="2">L. Philippine Council for Aquatic and Marine Research and Development</td>
-<td>11,412,000</td>
-</tr>
-<tr>
-<td colspan="2">M. Philippine Council for Health Research and Development</td>
-<td>20,986,000</td>
-</tr>
-<tr>
-<td colspan="2">N. Philippine Council for Industry and Energy Research and Development</td>
-<td>18,481,000</td>
-</tr>
-<tr>
-<td colspan="2">O. Philippine Institute of Volcanology and Seismology</td>
-<td>53,778,000</td>
-</tr>
-<tr>
-<td colspan="2">P. Philippine Nuclear Research Institute</td>
-<td>69,241,000</td>
-</tr>
-<tr>
-<td colspan="2">Q. Philippine Science High School</td>
-<td>105,974,000</td>
-</tr>
-<tr>
-<td colspan="2">R. Philippine Textile Research Institute</td>
-<td>21,045,000</td>
-</tr>
-<tr>
-<td colspan="2">S. Science Education Institute</td>
-<td>88,741,000</td>
-</tr>
-<tr>
-<td colspan="2">T. Science and Technology Information Institute</td>
-<td>15,141,000</td>
-</tr>
-<tr>
-<td colspan="2">U. Technology Application and Promotion Institute</td>
-<td>27,915,000</td>
-</tr>
-<tr>
-<td colspan="2">XX. DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT</td>
-<td>774,315,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>756,029,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Council for the Welfare of Children and Youth</td>
-<td>4,831,000</td>
-</tr>
-<tr>
-<td colspan="2">C. National Council for the Welfare of Disabled Persons</td>
-<td>13,455,000</td>
-</tr>
-<tr>
-<td colspan="2">XXI. DEPARTMENT OF TOURISM</td>
-<td>384,206,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>282,011,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Intramuros Administration</td>
-<td>32,217,000</td>
-</tr>
-<tr>
-<td colspan="2">C. National Parks Development Committee</td>
-<td>69,978,000</td>
-</tr>
-<tr>
-<td colspan="2">XXII. DEPARTMENT OF TRADE AND INDUSTRY</td>
-<td>1,439,108,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>1,091,509,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Board of Investments</td>
-<td>146,024,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Bonded Export Marketing Board</td>
-<td>3,018,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Construction Industry Authority of the Philippines</td>
-<td>22,202,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Construction Manpower Development Foundation</td>
-<td>14,607,000</td>
-</tr>
-<tr>
-<td colspan="2">F. International Coffee Organization - Certifying Agency</td>
-<td>5,226,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Philippine Trade Training Center</td>
-<td>25,237,000</td>
-</tr>
-<tr>
-<td colspan="2">H. Product Development and Design Center of the Philippines</td>
-<td>131,285,000</td>
-</tr>
-<tr>
-<td colspan="2">XXIII. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS</td>
-<td>4,817,567,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary</td>
-<td>4,681,751,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Civil Aeronautics Board</td>
-<td>10,846,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Maritime Industry Authority</td>
-<td>60,428,000</td>
-</tr>
-<tr>
-<td colspan="2">D. National Telecommunications Commission</td>
-<td>58,334,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Office of Transportation Cooperatives</td>
-<td>6,208,000</td>
-</tr>
-<tr>
-<td colspan="2">XXIV. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY</td>
-<td>303,015,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Director-General</td>
-<td>215,906,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Commission on Population</td>
-<td>58,871,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Philippine National Volunteer Service Coordinating Agency</td>
-<td>5,556,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Tariff Commission</td>
-<td>22,682,000</td>
-</tr>
-<tr>
-<td colspan="2">XXV NATIONAL STATISTICAL COORDINATION BOARD</td>
-<td>339,636,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Secretary-General</td>
-<td>31,763,000</td>
-</tr>
-<tr>
-<td colspan="2">B. National Statistics Office</td>
-<td>302,321,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Statistical Research and Training Center</td>
-<td>5,552,000</td>
-</tr>
-<tr>
-<td colspan="2">XXVI. OFFICE OF THE PRESS SECRETARY</td>
-<td>475,795,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Office of the Press Secretary (Proper)</td>
-<td>51,358,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Bureau of Broadcast Services</td>
-<td>132,999,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Bureau of Communications Services</td>
-<td>13,146,000</td>
-</tr>
-<tr>
-<td colspan="2">D. National Printing Office</td>
-<td>100,742,000</td>
-</tr>
-<tr>
-<td colspan="2">E. News and Information Bureau</td>
-<td>49,524,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Philippine Information Agency</td>
-<td>95,941,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Presidential Broadcast Staff (RTVM)</td>
-<td>32,085,000</td>
-</tr>
-<tr>
-<td colspan="2">XXVII. OTHER EXECUTIVE OFFICES</td>
-<td>2,001,485,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Commission on the Filipino Language</td>
-<td>15,612,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Commission on Filipinos Overseas</td>
-<td>15,601,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Committee on Privatization</td>
-<td>874,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Cooperatives Development Authority</td>
-<td>196,033,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Energy Regulatory Board</td>
-<td>43,175,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Games and Amusements Board</td>
-<td>13,502,000</td>
-</tr>
-<tr>
-<td colspan="2">G. Government Corporate Monitoring and Coordinating Committee</td>
-<td>7,835,000</td>
-</tr>
-<tr>
-<td colspan="2">H. Housing and Land Use Regulatory Board</td>
-<td>61,572,000</td>
-</tr>
-<tr>
-<td colspan="2">I. Housing and Urban Development Coordinating Council</td>
-<td>124,906,000</td>
-</tr>
-<tr>
-<td colspan="2">J. Metropolitan Manila Authority</td>
-<td>132,897,000</td>
-</tr>
-<tr>
-<td colspan="2">K. Movie and Television Review and Classification Board</td>
-<td>6,445,000</td>
-</tr>
-<tr>
-<td colspan="2">L. National Commission on Culture and Arts</td>
-<td>45,302,000</td>
-</tr>
-<tr>
-<td colspan="2">M. National Commission on the Role of Filipino Women</td>
-<td>18,171,000</td>
-</tr>
-<tr>
-<td colspan="2">N. National Computer Center</td>
-<td>102,423,000</td>
-</tr>
-<tr>
-<td colspan="2">O. National Intelligence Coordinating Agency</td>
-<td>100,778,000</td>
-</tr>
-<tr>
-<td colspan="2">P. National Security Council</td>
-<td>57,714,000</td>
-</tr>
-<tr>
-<td colspan="2">Q. Office on Muslim Affairs</td>
-<td>106,609,000</td>
-</tr>
-<tr>
-<td colspan="2">R. Office for Northern Cultural Communities</td>
-<td>85,454,000</td>
-</tr>
-<tr>
-<td colspan="2">S. Office for Southern Cultural Communities</td>
-<td>96,642,000</td>
-</tr>
-<tr>
-<td colspan="2">T. Palawan Council for Sustainable Development Staff</td>
-<td>29,172,000</td>
-</tr>
-<tr>
-<td colspan="2">U. Philippine Gamefowl Commission</td>
-<td>4,238,000</td>
-</tr>
-<tr>
-<td colspan="2">V. Philippine Human Resource Development Center</td>
-<td>23,785,000</td>
-</tr>
-<tr>
-<td colspan="2">W. Philippine Racing Commission</td>
-<td>12,214,000</td>
-</tr>
-<tr>
-<td colspan="2">X. Philippine Sports Commission</td>
-<td>70,595,000</td>
-</tr>
-<tr>
-<td colspan="2">Y. Presidential Commission on Good Government</td>
-<td>83,528,000</td>
-</tr>
-<tr>
-<td colspan="2">Z. Presidential Commission for the Urban Poor</td>
-<td>29,213,000</td>
-</tr>
-<tr>
-<td colspan="2">AA. Presidential Committee on the Philippine Nuclear Power Plant</td>
-<td>271,660,000</td>
-</tr>
-<tr>
-<td colspan="2">BB. Presidential Council on Youth Affairs</td>
-<td>22,266,000</td>
-</tr>
-<tr>
-<td colspan="2">CC. Presidential Legislative Liaison Office</td>
-<td>15,432,000</td>
-</tr>
-<tr>
-<td colspan="2">DD. Presidential Management Staff</td>
-<td>74,219,000</td>
-</tr>
-<tr>
-<td colspan="2">EE. Securities and Exchange Commission</td>
-<td>119,533,000</td>
-</tr>
-<tr>
-<td colspan="2">FF. Videogram Regulatory Board</td>
-<td>14,085,000</td>
-</tr>
-<tr>
-<td colspan="2">XXVIII. JOINT LEGISLATIVE-EXECUTIVE COUNCILS</td>
-<td>3,064,001</td>
-</tr>
-<tr>
-<td colspan="2">A. Joint Legislative-Executive Foreign Debt Council</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">B. Legislative-Executive Development Advisory Council</td>
-<td>3,064,000</td>
-</tr>
-<tr>
-<td colspan="2">XXIX. THEJUDICIARY</td>
-<td>3,091,973,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Supreme Court of the Philippines and the Lower Courts</td>
-<td>2,764,303,000</td>
-</tr>
-<tr>
-<td colspan="2">A.1 Presidential Electoral Tribunal</td>
-<td>36,302,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Sandiganbayan</td>
-<td>41,158,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Court of Appeals</td>
-<td>235,983,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Court of Tax Appeals</td>
-<td>14,227,000</td>
-</tr>
-<tr>
-<td colspan="2">XXX. CONSTITUTIONAL OFFICES</td>
-<td>2,808,198,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Civil Service Commission</td>
-<td>229,454,000</td>
-</tr>
-<tr>
-<td colspan="2">A.1 Career Executive Service Board</td>
-<td>48,703,000</td>
-</tr>
-<tr>
-<td colspan="2">A.2 Professional Regulation Commission</td>
-<td>64,039,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Commission on Audit</td>
-<td>1,546,955,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Commission on Elections</td>
-<td>919,047,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXI. OFFICE OF THE OMBUDSMAN</td>
-<td>178,406,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXII. COMMISSION ON HUMAN RIGHTS</td>
-<td>101,465,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXIII. AUTONOMOUS REGIONS</td>
-<td>2,115,851,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Cordillera Administrative Region</td>
-<td>26,079,000</td>
-</tr>
-<tr>
-<td colspan="2">A.1 Cordillera Administrative Region (Proper)</td>
-<td>15,655,000</td>
-</tr>
-<tr>
-<td colspan="2">A.2 Kalinga Special Development Authority</td>
-<td>10,424,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Autonomous Regional Government in Muslim Mindanao</td>
-<td>2,089,772,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXIV. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS</td>
-<td>6,744,384,001</td>
-</tr>
-<tr>
-<td colspan="2">A. DEPARTMENT OF AGRICULTURE</td>
-<td>1,996,424,000</td>
-</tr>
-<tr>
-<td colspan="2">A.1 National Food Authority</td>
-<td>1,479,384,000</td>
-</tr>
-<tr>
-<td colspan="2">A.2 National Tobacco Administration</td>
-<td>107,963,000</td>
-</tr>
-<tr>
-<td colspan="2">A.3 Philippine Coconut Authority</td>
-<td>80,000,000</td>
-</tr>
-<tr>
-<td colspan="2">A.4 Philippine Fisheries Development Authority</td>
-<td>17,513,000</td>
-</tr>
-<tr>
-<td colspan="2">A.5 Philippine Rice Research Institute</td>
-<td>142,086,000</td>
-</tr>
-<tr>
-<td colspan="2">A.6 Quedan and Rural Credit Guarantee Corporation</td>
-<td>90,000,000</td>
-</tr>
-<tr>
-<td colspan="2">A.7 Sugar Regulatory Administration</td>
-<td>79,478,000</td>
-</tr>
-<tr>
-<td colspan="2">B. DEPARTMENT OF ENERGY</td>
-<td>1,408,918,000</td>
-</tr>
-<tr>
-<td colspan="2">B.1 National Electrification Administration</td>
-<td>588,918,000</td>
-</tr>
-<tr>
-<td colspan="2">B.2 National Power Corporation</td>
-<td>820,000,000</td>
-</tr>
-<tr>
-<td colspan="2">C. DEPARTMENT OF FINANCE</td>
-<td>150,000,000</td>
-</tr>
-<tr>
-<td colspan="2">C.1 Philippine Crop Insurance Corporation</td>
-<td>50,000,000</td>
-</tr>
-<tr>
-<td colspan="2">C.2 Philippine Export and Foreign Loan Guarantee Corporation</td>
-<td>100,000,000</td>
-</tr>
-<tr>
-<td colspan="2">D. DEPARTMENT OF HEALTH</td>
-<td>359,531,000</td>
-</tr>
-<tr>
-<td colspan="2">D.1 Lung Center of the Philippines</td>
-<td>83,835,000</td>
-</tr>
-<tr>
-<td colspan="2">D.2 National Kidney Institute</td>
-<td>95,000,000</td>
-</tr>
-<tr>
-<td colspan="2">D.3 Philippine Children's Medical Center</td>
-<td>93,196,000</td>
-</tr>
-<tr>
-<td colspan="2">D.4 Philippine Heart Center</td>
-<td>87,500,000</td>
-</tr>
-<tr>
-<td colspan="2">E. DEPARTMENT OF NATIONAL DEFENSE</td>
-<td>12,932,001</td>
-</tr>
-<tr>
-<td colspan="3">E.1 Philippine Veterans Assistance Commission</td>
-</tr>
-<tr>
-<td colspan="2">E.2 PHIVIDEC Industrial Authority</td>
-<td>12,932,000</td>
-</tr>
-<tr>
-<td colspan="2">F. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS</td>
-<td>539,206,000</td>
-</tr>
-<tr>
-<td colspan="2">F.1 Local Water Utilities Administration</td>
-<td>539,206,000</td>
-</tr>
-<tr>
-<td colspan="2">G. DEPARTMENT OF TOURISM</td>
-<td>66,273,000</td>
-</tr>
-<tr>
-<td colspan="2">G.1 Philippine Convention and Visitors Corporation</td>
-<td>66,273,000</td>
-</tr>
-<tr>
-<td colspan="2">H. DEPARTMENT OF TRADE AND INDUSTRY</td>
-<td>126,752,000</td>
-</tr>
-<tr>
-<td colspan="2">H.1 Center for International TradeExpositions and Missions</td>
-<td>64,042,000</td>
-</tr>
-<tr>
-<td colspan="2">H.2 Cottage Industry Technology Center</td>
-<td>8,310,000</td>
-</tr>
-<tr>
-<td colspan="2">H.3 Export Processing Zone Authority</td>
-<td>54,400,000</td>
-</tr>
-<tr>
-<td colspan="2">I. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS</td>
-<td>483,336,000</td>
-</tr>
-<tr>
-<td colspan="2">I.1 Light Rail Transit Authority</td>
-<td>46,237,000</td>
-</tr>
-<tr>
-<td colspan="2">I.2 Philippine National Railways</td>
-<td>437,099,000</td>
-</tr>
-<tr>
-<td colspan="2">J. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY</td>
-<td>15,000,000</td>
-</tr>
-<tr>
-<td colspan="2">J.1 Philippine Institute for Development Studies</td>
-<td>15,000,000</td>
-</tr>
-<tr>
-<td colspan="2">K. OFFICE OF THE PRESS SECRETARY</td>
-<td>90,000,000</td>
-</tr>
-<tr>
-<td colspan="2">K.1 People's Television Network, Incorporated</td>
-<td>90,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L. OTHER EXECUTIVE OFFICES</td>
-<td>1,476,047,000</td>
-</tr>
-<tr>
-<td colspan="2">L.1 Asset Privatization Trust</td>
-<td>21,600,000</td>
-</tr>
-<tr>
-<td colspan="2">L.2 Bases Conversion and Development Authority</td>
-<td>35,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L.3 Home Insurance and Guaranty Corporation</td>
-<td>300,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L.4 National Home Mortgage Finance Corporation</td>
-<td>472,600,000</td>
-</tr>
-<tr>
-<td colspan="2">L.5 National Housing Authority</td>
-<td>425,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L.6 Philippine Deposit Insurance Corporation</td>
-<td>10,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L.7 Philippine Retirement Authority</td>
-<td>7,000,000</td>
-</tr>
-<tr>
-<td colspan="2">L.8 Southern Philippines Development Authority</td>
-<td>7,920,000</td>
-</tr>
-<tr>
-<td colspan="2">L.9 Subic Bay Metropolitan Authority</td>
-<td>196,927,000</td>
-</tr>
-<tr>
-<td colspan="2">M. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS</td>
-<td>19,965,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXV. AGRARIAN REFORM FUND</td>
-<td>28,000,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Agrarian Reform Fund</td>
-<td>28,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXVI. ALLOCATIONS TO LOCAL GOVERNMENT UNITS</td>
-<td>49,462,997,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Internal Revenue Allotment</td>
-<td>46,753,000,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Magna Carta for Public Health Workers Devolved to LGUs</td>
-<td>662,000,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Special Shares of LGUs in the Proceeds of National Taxes</td>
-<td>1,468,000,000</td>
-</tr>
-<tr>
-<td colspan="2">D. Countrywide Industrialization Fund</td>
-<td>120,000,000</td>
-</tr>
-<tr>
-<td colspan="2">E. Local Officials Insurance Premium Fund</td>
-<td>47,000,000</td>
-</tr>
-<tr>
-<td colspan="2">F. Municipal Development Fund</td>
-<td>412,997,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXVII. AREA DEVELOPMENT ASSISTANCE FUND</td>
-<td>58,123,000</td>
-</tr>
-<tr>
-<td colspan="2">A. Aurora Integrated Area Development Project</td>
-<td>10,330,000</td>
-</tr>
-<tr>
-<td colspan="2">B. Bondoc Development Program</td>
-<td>9,642,000</td>
-</tr>
-<tr>
-<td colspan="2">C. Central Visayas Water and Sanitation Project</td>
-<td>38,151,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXVIII. CALAMITY FUND</td>
-<td>2,000,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XXXIX. COMPENSATION ADJUSTMENT FUND</td>
-<td>7,000,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XL. CONTINGENT FUND</td>
-<td>800,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XLI. COUNTRYWIDE DEVELOPMENT FUND</td>
-<td>2,977,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XLII. FOREIGN-ASSISTED PROJECTS SUPPORT FUND</td>
-<td>462,375,000</td>
-</tr>
-<tr>
-<td colspan="2">XLIII. GENERAL FUND ADJUSTMENTS</td>
-<td>207,500,000</td>
-</tr>
-<tr>
-<td colspan="2">XLIV. INTERNATIONAL COMMITMENTS FUND</td>
-<td>664,803,000</td>
-</tr>
-<tr>
-<td colspan="2">XLV. MISCELLANEOUS PERSONNEL BENEFITS FUND</td>
-<td>2,806,468,000</td>
-</tr>
-<tr>
-<td colspan="2">XLVI. NATIONAL UNIFICATION FUND</td>
-<td>200,000,000</td>
-</tr>
-<tr>
-<td colspan="2">XLVII. PROPERTY REPLACEMENT FUND</td>
-<td>47,500,000</td>
-</tr>
-<tr>
-<td colspan="2">XLVIII. APPROPRIATIONS FOR DEBT SERVICE</td>
-<td>86,323,438,000</td>
-</tr>
-<tr>
-<td colspan="2">XLIX. UNPROGRAMMED FUND</td>
-<td>7,500,000,000</td>
-</tr>
-<tr>
-<td colspan="2"><b>TOTAL NEW APPROPRIATIONS</b></td>
-<td><b>322,694,974,004</b></td>
-</tr>
-</table>
+I. CONGRESS OF THE PHILIPPINES
+
+1,784,832,000
+
+A. Senate
+
+472,000,000
+
+A.1 Senate Electoral Tribunal
+
+27,713,000
+
+B. Commission on Appointments
+
+82,907,000
+
+C. House of Representatives
+
+1,171,924,000
+
+C.1 House Electoral Tribunal
+
+30,288,000
+
+II. OFFICE OF THE PRESIDENT
+
+611,749,002
+
+A. The President's Offices
+
+611,749,002
+
+III. OFFICE OF THE VICE-PRESIDENT
+
+45,363,000
+
+A. Office of the Vice-President
+
+45,363,000
+
+IV. DEPARTMENT OF AGRARIAN REFORM
+
+827,716,000
+
+A. Office of the Secretary
+
+827,716,000
+
+V. DEPARTMENT OF AGRICULTURE
+
+6,430,469,000
+
+A. Office of the Secretary
+
+5,972,162,000
+
+B. Agricultural Credit Policy Council
+
+75,730,000
+
+C. Fertilizer and Pesticide Authority
+
+15,804,000
+
+D. Fiber Industry Development Authority
+
+84,074,000
+
+E. Livestock Development Council
+
+8,978,000
+
+F. National Agricultural and Fishery Council
+
+86,927,000
+
+G. National Meat Inspection Commission
+
+43,170,000
+
+H. National Nutrition Council
+
+28,787,000
+
+I. National Stud Farm
+
+5,599,000
+
+J. Philippine Carabao Center
+
+102,422,000
+
+K. Sacobia Development Authority
+
+6,816,000
+
+VI. DEPARTMENT OF BUDGET AND MANAGEMENT
+
+261,101,000
+
+A. Office of the Secretary
+
+258,085,000
+
+B. Procurement Service
+
+3,016,000
+
+VII. DEPARTMENT OF EDUCATION, CULTURE AND SPORTS
+
+37,956,910,000
+
+A. Office of the Secretary
+
+37,780,450,000
+
+B. National Historical Institute
+
+49,295,000
+
+C. National Library
+
+36,374,000
+
+D. National Museum
+
+58,907,000
+
+E. Records Management and Archives Office
+
+20,099,000
+
+F. Philippine High School for the Arts
+
+11,785,000
+
+VIII. STATE UNIVERSITIES AND COLLEGES
+
+6,078,360,000
+
+A. NATIONAL CAPITAL REGION
+
+2,506,144,000
+
+A.1 Eulogio "Amang" Rodriguez Institute of Science and Technology
+
+47,069,000
+
+A.2 Philippine Merchant Marine Academy
+
+42,217,000
+
+A.3 Philippine Normal University
+
+104,607,000
+
+A.4 Philippine State College of Aeronautics
+
+24,150,000
+
+A.5 Polytechnic University of the Philippines
+
+257,420,000
+
+A.6 Rizal Technological Colleges
+
+66,128,000
+
+A.7 Technological University of the Philippines
+
+126,440,000
+
+A.8 University of the Philippines System
+
+1,838,113,000
+
+B. REGION I – ILOCOS
+
+416,955,000
+
+B.1 Don Mariano Marcos Memorial State University
+
+158,354,000
+
+B.2 Mariano Marcos State University
+
+98,735,000
+
+B.3 Cotton Research and Development Institute
+
+19,955,000
+
+B.4 Pangasinan State University
+
+75,216,000
+
+B.5 University of Northern Philippines
+
+64,695,000
+
+C. CORDILLERA ADMINISTRATIVE REGION
+
+139,874,000
+
+C.1 Abra State Institute of Science and Technology
+
+16,900,000
+
+C.2 Benguet State University
+
+60,545,000
+
+C.3 Ifugao State College of Agriculture and Forestry
+
+23,683,000
+
+C.4 Kalinga-Apayao State College
+
+13,447,000
+
+C.5 Mt. Province State Polytechnic College
+
+25,299,000
+
+D. REGION II - CAGAYAN VALLEY
+
+258,596,000
+
+D.1 Cagayan State University
+
+102,872,000
+
+D.2 Isabela State University
+
+88,602,000
+
+D.3 Nueva Vizcaya State Institute of Technology
+
+35,955,000
+
+D.4 Nueva Vizcaya State Polytechnic College
+
+19,765,000
+
+D.5 Quirino State College
+
+11,402,000
+
+E. REGION III - CENTRAL LUZON
+
+295,196,000
+
+E.1 Bulacan College of Arts and Trades
+
+34,387,000
+
+E.2 Central Luzon Polytechnic College
+
+42,922,000
+
+E.3 Central Luzon State University
+
+86,616,000
+
+E.4 Don Honorio Ventura College of Arts and Trades
+
+29,970,000
+
+E.5 Pampanga Agricultural College
+
+26,806,000
+
+E.6 Tarlac College of Agriculture
+
+28,624,000
+
+E.7 Tarlac State University
+
+33,475,000
+
+E.8 Western Luzon Agricultural College
+
+12,396,000
+
+F. REGION IV - SOUTHERN TAGALOG AND PALAWAN
+
+306,096,000
+
+F.1 Don Severino Agricultural College
+
+52,152,000
+
+F.2 Laguna State Polytechnic College
+
+17,154,000
+
+F.3 Marinduque State College
+
+19,910,000
+
+F.4 Occidental Mindoro National College
+
+25,619,000
+
+F.5 Pablo Borbon Memorial Institute of Technology
+
+32,054,000
+
+F.6 Palawan National Agricultural College
+
+41,198,000
+
+F.7 Palawan State College
+
+32,284,000
+
+F.8 Rizal College of Agriculture and Technology
+
+32,893,000
+
+F.9 Romblon State College
+
+19,627,000
+
+F.10 Southern Luzon Polytechnic College
+
+33,205,000
+
+G. REGION V- BICOL
+
+251,477,000
+
+G.1 Bicol University
+
+111,094,000
+
+G.2 Camarines Norte State College
+
+35,721,000
+
+G.3 Camarines Sur Polytechnic College
+
+9,429,000
+
+G.4 Camarines Sur State Agricultural College
+
+35,760,000
+
+G.5 Catanduanes State College
+
+44,761,000
+
+G.6 Partido State College
+
+14,712,000
+
+H. REGION VI - WESTERN VISAYAS
+
+299,848,000
+
+H.1 Aklan State College of Agriculture
+
+28,616,000
+
+H.2 Iloilo State College of Fisheries
+
+24,139,000
+
+H.3 Northern Iloilo Polytechnic State College
+
+35,577,000
+
+H.4 Paglaum State College
+
+25,376,000
+
+H.5 Panay State Polytechnic College
+
+37,615,000
+
+H.6 Polytechnic State College of Antique
+
+15,265,000
+
+H.7 West Visayas State University
+
+86,470,000
+
+H.8 Western Visayas College of Science and Technology
+
+46,790,000
+
+I. REGION VII - CENTRAL VISAYAS
+
+125,722,000
+
+I.1 Cebu State College
+
+25,579,000
+
+I.2 Cebu State College of Science and Technology
+
+70,244,000
+
+I.3 Central Visayas Polytechnic College
+
+29,899,000
+
+J. REGION VIII - EASTERN VISAYAS
+
+293,944,000
+
+J.1 Eastern Samar State College
+
+26,254,000
+
+J.2 Leyte Institute of Technology
+
+37,626,000
+
+J.3 Leyte State College
+
+24,053,000
+
+J.4 Naval Institute of Technology
+
+15,534,000
+
+J.5 Palompon Institute of Technology
+
+21,653,000
+
+J.6 Samar State Polytechnic College
+
+23,381,000
+
+J.7 Tiburcio Tancinco Memorial Institute of Science and Technology
+
+13,031,000
+
+J.8 University of Eastern Philippines
+
+39,768,000
+
+J.9 Visayas State College of Agriculture
+
+86,224,000
+
+J.10 Tomas Oppus Normal College
+
+6,420,000
+
+K. REGION IX - WESTERN MINDANAO
+
+223,058,000
+
+K.1 Basilan State College
+
+10,897,000
+
+K.2 Sulu State College
+
+14,660,000
+
+K.3 MSU-Tawi-Tawi College of Technology and Oceanography
+
+86,045,000
+
+K.4 Tawi-Tawi Regional Agricultural College
+
+14,440,000
+
+K.5 Western Mindanao State University
+
+64,391,000
+
+K.6 Zamboanga State College of Marine Sciences and Technology
+
+32,625,000
+
+L. REGION X - NORTHERN MINDANAO
+
+169,947,000
+
+L.1 Bukidnon State College
+
+26,303,000
+
+L.2 Central Mindanao University
+
+86,943,000
+
+L.3 Mindanao Polytechnic State College
+
+33,200,000
+
+L.4 Misamis Oriental State College of Agriculture and Technology
+
+10,656,000
+
+L.5 Northern Mindanao State Institute of Science and Technology
+
+12,845,000
+
+M. REGION XI - SOUTHEASTERN MINDANAO
+
+81,204,000
+
+M.1 Davao Oriental State College of Science and Technology
+
+14,073,000
+
+M.2 Southern Philippines Agri-Business and Marine and Aquatic School of Technology
+
+14,272,000
+
+M.3 University of Southeastern Philippines
+
+52,859,000
+
+N. REGION XII - CENTRAL MINDANAO
+
+670,299,000
+
+N.1 Cotabato Foundation College of Science and Technology
+
+27,130,000
+
+N.2 Cotabato City State Polytechnic College
+
+20,396,000
+
+N.3 Mindanao State University
+
+402,124,000
+
+N.4 MSU-Iligan Institute of Technology
+
+120,956,000
+
+N.5 University of Southern Mindanao
+
+72,255,000
+
+N.6 Sultan Kudarat Polytechnic State College
+
+27,438,000
+
+O. FACULTY AND STAFF AND DEVELOPMENT FUND
+
+40,000,000
+
+IX. DEPARTMENT OF ENERGY
+
+293,867,000
+
+X. DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES
+
+4,377,961,000
+
+A. Office of the Secretary
+
+4,238,731,000
+
+B. National Mapping and Resource Information Authority
+
+139,230,000
+
+XI. DEPARTMENT OF FINANCE
+
+3,282,273,000
+
+A. Office of the Secretary
+
+87,785,000
+
+B. Bureau of Customs
+
+765,650,000
+
+C. Bureau of Internal Revenue
+
+1,873,336,000
+
+D. Bureau of Local Government Finance
+
+197,006,000
+
+E. Bureau of the Treasury
+
+182,009,000
+
+F. Central Board of Assessment Appeals
+
+4,634,000
+
+G. Economic Intelligence and Investigation Bureau
+
+119,776,000
+
+H. Fiscal Incentives Review Board
+
+419,000
+
+I. Insurance Commission
+
+33,657,000
+
+J. National Tax Research Center
+
+18,001,000
+
+XII. DEPARTMENT OF FOREIGN AFFAIRS
+
+1,572,727,000
+
+A. Office of the Secretary
+
+1,540,414,000
+
+B. Foreign Service Institute
+
+24,447,000
+
+C. Technical Cooperation Council of the Philippines
+
+2,117,000
+
+D. UNESCO National Commission of the Philippines
+
+5,749,000
+
+XIII DEPARTMENT OF HEALTH
+
+7,418,233,000
+
+A. Office of the Secretary
+
+7,332,191,000
+
+B. Dangerous Drugs Board
+
+41,325,000
+
+C. Philippine Medical Care Commission
+
+44,717,000
+
+XIV. DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT
+
+12,919,893,000
+
+A. Office of the Secretary
+
+970,313,000
+
+B. Local Government Academy
+
+45,549,000
+
+C. National Police Commission
+
+265,658,000
+
+D. Philippine National Police
+
+9,820,527,000
+
+E. Bureau of Fire Protection
+
+1,276,172,000
+
+F. Bureau of Jail Management and Penology
+
+426,802,000
+
+G. Philippine Public Safety College
+
+114,872,000
+
+XV. DEPARTMENT OF JUSTICE
+
+2,212,182,000
+
+A. Office of the Secretary
+
+821,729,000
+
+B. Bureau of Corrections
+
+262,423,000
+
+C. Public Attorney's Office
+
+264,911,000
+
+D. Bureau of Immigration
+
+80,577,000
+
+E. Commission on the Settlement of Land Problems
+
+22,899,000
+
+F. National Bureau of Investigation
+
+303,026,000
+
+G. Land Registration Authority
+
+212,870,000
+
+H. Office of the Government Corporate Counsel
+
+22,190,000
+
+I. Office of the Solicitor General
+
+70,198,000
+
+J. Parole and Probation Administration
+
+151,359,000
+
+XVI. DEPARTMENT OF LABOR AND EMPLOYMENT
+
+1,771,421,000
+
+A. Office of the Secretary
+
+843,821,000
+
+B. Institute for Labor Studies
+
+10,652,000
+
+C. National Conciliation and Mediation Board
+
+54,165,000
+
+D. National Labor Relations Commission
+
+145,714,000
+
+E. National Manpower and Youth Council
+
+551,974,000
+
+F. National Maritime Polytechnic
+
+20,203,000
+
+G. National Wages and Productivity Commission
+
+50,306,000
+
+H. Philippine Overseas Employment Administration
+
+94,586,000
+
+XVII. DEPARTMENT OF NATIONAL DEFENSE
+
+22,694,974,000
+
+A. Office of the Secretary
+
+88,751,000
+
+B. Armed Forces of the Philippines
+
+20,309,489,000
+
+B.1 General Headquarters
+
+2,581,755,000
+
+B.2 Philippine Air Force
+
+2,769,809,000
+
+B.3 Philippine Army
+
+6,073,002,000
+
+B.4 Philippine Navy
+
+3,384,820,000
+
+B.5 Presidential Security Group
+
+169,781,000
+
+B.6 Armed Forces of the Philippines Medical Center
+
+226,648,000
+
+B.7 Citizen Armed Forces Geographical Units
+
+877,185,000
+
+B.8 Philippine Military Academy
+
+241,512,000
+
+B.9 AFP - Reservist and Retiree Affairs Program
+
+39,607,000
+
+B.10 AFP Pension and Gratuity
+
+2,165,502,000
+
+B.11 AFP Modernization Program
+
+1,779,868,000
+
+C. Government Arsenal
+
+160,086,000
+
+D. National Defense College of the Philippines
+
+17,083,000
+
+E. Office of Civil Defense
+
+38,057,000
+
+F. Philippine Veterans Affairs Office
+
+2,081,508,000
+
+F.1 Philippine Veterans Affairs Office (Proper)
+
+1,783,434,000
+
+F.2 Military Shrine Services
+
+10,482,000
+
+F.3 Veterans Memorial Medical Center
+
+287,592,000
+
+XVIII. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS
+
+23,180,953,000
+
+A. Office of the Secretary
+
+23,157,946,000
+
+B. National Water Resources Board
+
+17,253,000
+
+C. Toll Regulatory Board
+
+5,754,000
+
+XIX. DEPARTMENT OF SCIENCE AND TECHNOLOGY
+
+2,857,318,000
+
+A. Office of the Secretary
+
+1,347,770,000
+
+B. Advanced Science and Technology Institute
+
+32,208,000
+
+C. Food and Nutrition Research Institute
+
+38,555,000
+
+D. Forest Products Research and Development Institute
+
+33,520,000
+
+E. Industrial Technology Development Institute
+
+98,249,000
+
+F. Metals Industry Research and Development Center
+
+68,126,000
+
+G. National Academy of Science and Technology
+
+7,198,000
+
+H. National Research Council of the Philippines
+
+14,030,000
+
+I. Philippine Atmospheric, Geophysical and Astronomical Services Administration
+
+675,292,000
+
+J. Philippine Council for Advanced Science and Technology Research and Development
+
+34,433,000
+
+K. Philippine Council for Agriculture, Forestry and Natural Resources Research and Development
+
+75,223,000
+
+L. Philippine Council for Aquatic and Marine Research and Development
+
+11,412,000
+
+M. Philippine Council for Health Research and Development
+
+20,986,000
+
+N. Philippine Council for Industry and Energy Research and Development
+
+18,481,000
+
+O. Philippine Institute of Volcanology and Seismology
+
+53,778,000
+
+P. Philippine Nuclear Research Institute
+
+69,241,000
+
+Q. Philippine Science High School
+
+105,974,000
+
+R. Philippine Textile Research Institute
+
+21,045,000
+
+S. Science Education Institute
+
+88,741,000
+
+T. Science and Technology Information Institute
+
+15,141,000
+
+U. Technology Application and Promotion Institute
+
+27,915,000
+
+XX. DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT
+
+774,315,000
+
+A. Office of the Secretary
+
+756,029,000
+
+B. Council for the Welfare of Children and Youth
+
+4,831,000
+
+C. National Council for the Welfare of Disabled Persons
+
+13,455,000
+
+XXI. DEPARTMENT OF TOURISM
+
+384,206,000
+
+A. Office of the Secretary
+
+282,011,000
+
+B. Intramuros Administration
+
+32,217,000
+
+C. National Parks Development Committee
+
+69,978,000
+
+XXII. DEPARTMENT OF TRADE AND INDUSTRY
+
+1,439,108,000
+
+A. Office of the Secretary
+
+1,091,509,000
+
+B. Board of Investments
+
+146,024,000
+
+C. Bonded Export Marketing Board
+
+3,018,000
+
+D. Construction Industry Authority of the Philippines
+
+22,202,000
+
+E. Construction Manpower Development Foundation
+
+14,607,000
+
+F. International Coffee Organization - Certifying Agency
+
+5,226,000
+
+G. Philippine Trade Training Center
+
+25,237,000
+
+H. Product Development and Design Center of the Philippines
+
+131,285,000
+
+XXIII. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS
+
+4,817,567,000
+
+A. Office of the Secretary
+
+4,681,751,000
+
+B. Civil Aeronautics Board
+
+10,846,000
+
+C. Maritime Industry Authority
+
+60,428,000
+
+D. National Telecommunications Commission
+
+58,334,000
+
+E. Office of Transportation Cooperatives
+
+6,208,000
+
+XXIV. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY
+
+303,015,000
+
+A. Office of the Director-General
+
+215,906,000
+
+B. Commission on Population
+
+58,871,000
+
+C. Philippine National Volunteer Service Coordinating Agency
+
+5,556,000
+
+D. Tariff Commission
+
+22,682,000
+
+XXV NATIONAL STATISTICAL COORDINATION BOARD
+
+339,636,000
+
+A. Office of the Secretary-General
+
+31,763,000
+
+B. National Statistics Office
+
+302,321,000
+
+C. Statistical Research and Training Center
+
+5,552,000
+
+XXVI. OFFICE OF THE PRESS SECRETARY
+
+475,795,000
+
+A. Office of the Press Secretary (Proper)
+
+51,358,000
+
+B. Bureau of Broadcast Services
+
+132,999,000
+
+C. Bureau of Communications Services
+
+13,146,000
+
+D. National Printing Office
+
+100,742,000
+
+E. News and Information Bureau
+
+49,524,000
+
+F. Philippine Information Agency
+
+95,941,000
+
+G. Presidential Broadcast Staff (RTVM)
+
+32,085,000
+
+XXVII. OTHER EXECUTIVE OFFICES
+
+2,001,485,000
+
+A. Commission on the Filipino Language
+
+15,612,000
+
+B. Commission on Filipinos Overseas
+
+15,601,000
+
+C. Committee on Privatization
+
+874,000
+
+D. Cooperatives Development Authority
+
+196,033,000
+
+E. Energy Regulatory Board
+
+43,175,000
+
+F. Games and Amusements Board
+
+13,502,000
+
+G. Government Corporate Monitoring and Coordinating Committee
+
+7,835,000
+
+H. Housing and Land Use Regulatory Board
+
+61,572,000
+
+I. Housing and Urban Development Coordinating Council
+
+124,906,000
+
+J. Metropolitan Manila Authority
+
+132,897,000
+
+K. Movie and Television Review and Classification Board
+
+6,445,000
+
+L. National Commission on Culture and Arts
+
+45,302,000
+
+M. National Commission on the Role of Filipino Women
+
+18,171,000
+
+N. National Computer Center
+
+102,423,000
+
+O. National Intelligence Coordinating Agency
+
+100,778,000
+
+P. National Security Council
+
+57,714,000
+
+Q. Office on Muslim Affairs
+
+106,609,000
+
+R. Office for Northern Cultural Communities
+
+85,454,000
+
+S. Office for Southern Cultural Communities
+
+96,642,000
+
+T. Palawan Council for Sustainable Development Staff
+
+29,172,000
+
+U. Philippine Gamefowl Commission
+
+4,238,000
+
+V. Philippine Human Resource Development Center
+
+23,785,000
+
+W. Philippine Racing Commission
+
+12,214,000
+
+X. Philippine Sports Commission
+
+70,595,000
+
+Y. Presidential Commission on Good Government
+
+83,528,000
+
+Z. Presidential Commission for the Urban Poor
+
+29,213,000
+
+AA. Presidential Committee on the Philippine Nuclear Power Plant
+
+271,660,000
+
+BB. Presidential Council on Youth Affairs
+
+22,266,000
+
+CC. Presidential Legislative Liaison Office
+
+15,432,000
+
+DD. Presidential Management Staff
+
+74,219,000
+
+EE. Securities and Exchange Commission
+
+119,533,000
+
+FF. Videogram Regulatory Board
+
+14,085,000
+
+XXVIII. JOINT LEGISLATIVE-EXECUTIVE COUNCILS
+
+3,064,001
+
+A. Joint Legislative-Executive Foreign Debt Council
+
+1
+
+B. Legislative-Executive Development Advisory Council
+
+3,064,000
+
+XXIX. THEJUDICIARY
+
+3,091,973,000
+
+A. Supreme Court of the Philippines and the Lower Courts
+
+2,764,303,000
+
+A.1 Presidential Electoral Tribunal
+
+36,302,000
+
+B. Sandiganbayan
+
+41,158,000
+
+C. Court of Appeals
+
+235,983,000
+
+D. Court of Tax Appeals
+
+14,227,000
+
+XXX. CONSTITUTIONAL OFFICES
+
+2,808,198,000
+
+A. Civil Service Commission
+
+229,454,000
+
+A.1 Career Executive Service Board
+
+48,703,000
+
+A.2 Professional Regulation Commission
+
+64,039,000
+
+B. Commission on Audit
+
+1,546,955,000
+
+C. Commission on Elections
+
+919,047,000
+
+XXXI. OFFICE OF THE OMBUDSMAN
+
+178,406,000
+
+XXXII. COMMISSION ON HUMAN RIGHTS
+
+101,465,000
+
+XXXIII. AUTONOMOUS REGIONS
+
+2,115,851,000
+
+A. Cordillera Administrative Region
+
+26,079,000
+
+A.1 Cordillera Administrative Region (Proper)
+
+15,655,000
+
+A.2 Kalinga Special Development Authority
+
+10,424,000
+
+B. Autonomous Regional Government in Muslim Mindanao
+
+2,089,772,000
+
+XXXIV. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS
+
+6,744,384,001
+
+A. DEPARTMENT OF AGRICULTURE
+
+1,996,424,000
+
+A.1 National Food Authority
+
+1,479,384,000
+
+A.2 National Tobacco Administration
+
+107,963,000
+
+A.3 Philippine Coconut Authority
+
+80,000,000
+
+A.4 Philippine Fisheries Development Authority
+
+17,513,000
+
+A.5 Philippine Rice Research Institute
+
+142,086,000
+
+A.6 Quedan and Rural Credit Guarantee Corporation
+
+90,000,000
+
+A.7 Sugar Regulatory Administration
+
+79,478,000
+
+B. DEPARTMENT OF ENERGY
+
+1,408,918,000
+
+B.1 National Electrification Administration
+
+588,918,000
+
+B.2 National Power Corporation
+
+820,000,000
+
+C. DEPARTMENT OF FINANCE
+
+150,000,000
+
+C.1 Philippine Crop Insurance Corporation
+
+50,000,000
+
+C.2 Philippine Export and Foreign Loan Guarantee Corporation
+
+100,000,000
+
+D. DEPARTMENT OF HEALTH
+
+359,531,000
+
+D.1 Lung Center of the Philippines
+
+83,835,000
+
+D.2 National Kidney Institute
+
+95,000,000
+
+D.3 Philippine Children's Medical Center
+
+93,196,000
+
+D.4 Philippine Heart Center
+
+87,500,000
+
+E. DEPARTMENT OF NATIONAL DEFENSE
+
+12,932,001
+
+E.1 Philippine Veterans Assistance Commission
+
+E.2 PHIVIDEC Industrial Authority
+
+12,932,000
+
+F. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS
+
+539,206,000
+
+F.1 Local Water Utilities Administration
+
+539,206,000
+
+G. DEPARTMENT OF TOURISM
+
+66,273,000
+
+G.1 Philippine Convention and Visitors Corporation
+
+66,273,000
+
+H. DEPARTMENT OF TRADE AND INDUSTRY
+
+126,752,000
+
+H.1 Center for International TradeExpositions and Missions
+
+64,042,000
+
+H.2 Cottage Industry Technology Center
+
+8,310,000
+
+H.3 Export Processing Zone Authority
+
+54,400,000
+
+I. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS
+
+483,336,000
+
+I.1 Light Rail Transit Authority
+
+46,237,000
+
+I.2 Philippine National Railways
+
+437,099,000
+
+J. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY
+
+15,000,000
+
+J.1 Philippine Institute for Development Studies
+
+15,000,000
+
+K. OFFICE OF THE PRESS SECRETARY
+
+90,000,000
+
+K.1 People's Television Network, Incorporated
+
+90,000,000
+
+L. OTHER EXECUTIVE OFFICES
+
+1,476,047,000
+
+L.1 Asset Privatization Trust
+
+21,600,000
+
+L.2 Bases Conversion and Development Authority
+
+35,000,000
+
+L.3 Home Insurance and Guaranty Corporation
+
+300,000,000
+
+L.4 National Home Mortgage Finance Corporation
+
+472,600,000
+
+L.5 National Housing Authority
+
+425,000,000
+
+L.6 Philippine Deposit Insurance Corporation
+
+10,000,000
+
+L.7 Philippine Retirement Authority
+
+7,000,000
+
+L.8 Southern Philippines Development Authority
+
+7,920,000
+
+L.9 Subic Bay Metropolitan Authority
+
+196,927,000
+
+M. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS
+
+19,965,000
+
+XXXV. AGRARIAN REFORM FUND
+
+28,000,000
+
+A. Agrarian Reform Fund
+
+28,000,000
+
+XXXVI. ALLOCATIONS TO LOCAL GOVERNMENT UNITS
+
+49,462,997,000
+
+A. Internal Revenue Allotment
+
+46,753,000,000
+
+B. Magna Carta for Public Health Workers Devolved to LGUs
+
+662,000,000
+
+C. Special Shares of LGUs in the Proceeds of National Taxes
+
+1,468,000,000
+
+D. Countrywide Industrialization Fund
+
+120,000,000
+
+E. Local Officials Insurance Premium Fund
+
+47,000,000
+
+F. Municipal Development Fund
+
+412,997,000
+
+XXXVII. AREA DEVELOPMENT ASSISTANCE FUND
+
+58,123,000
+
+A. Aurora Integrated Area Development Project
+
+10,330,000
+
+B. Bondoc Development Program
+
+9,642,000
+
+C. Central Visayas Water and Sanitation Project
+
+38,151,000
+
+XXXVIII. CALAMITY FUND
+
+2,000,000,000
+
+XXXIX. COMPENSATION ADJUSTMENT FUND
+
+7,000,000,000
+
+XL. CONTINGENT FUND
+
+800,000,000
+
+XLI. COUNTRYWIDE DEVELOPMENT FUND
+
+2,977,000,000
+
+XLII. FOREIGN-ASSISTED PROJECTS SUPPORT FUND
+
+462,375,000
+
+XLIII. GENERAL FUND ADJUSTMENTS
+
+207,500,000
+
+XLIV. INTERNATIONAL COMMITMENTS FUND
+
+664,803,000
+
+XLV. MISCELLANEOUS PERSONNEL BENEFITS FUND
+
+2,806,468,000
+
+XLVI. NATIONAL UNIFICATION FUND
+
+200,000,000
+
+XLVII. PROPERTY REPLACEMENT FUND
+
+47,500,000
+
+XLVIII. APPROPRIATIONS FOR DEBT SERVICE
+
+86,323,438,000
+
+XLIX. UNPROGRAMMED FUND
+
+7,500,000,000
+
+**TOTAL NEW APPROPRIATIONS**
+
+**322,694,974,004**
 
 GENERAL PROVISIONS
 
@@ -2046,7 +2042,7 @@ Agencies, however, may augment an item of expenditure within Maintenance and Oth
 
 ## Section 59
 
-. _Submission of Quarterly Reports._ Within thirty (30) days after the end of each quarter, each department, bureau, office or agency shall submit a quarterly report to the House Committee on Appropriations and the Senate Committee on Finance, copy furnished the Department of Budget and Management, the Commission on Audit, and the appropriate Committee Chairman of the House of Representatives on their cumulative allotments, obligations incurred/liquidated, total disbursements, unliquidated obligations, unobligated and unexpended balances, and the results of expended appropriations.
+_Submission of Quarterly Reports._ Within thirty (30) days after the end of each quarter, each department, bureau, office or agency shall submit a quarterly report to the House Committee on Appropriations and the Senate Committee on Finance, copy furnished the Department of Budget and Management, the Commission on Audit, and the appropriate Committee Chairman of the House of Representatives on their cumulative allotments, obligations incurred/liquidated, total disbursements, unliquidated obligations, unobligated and unexpended balances, and the results of expended appropriations.
 
 The quarterly report shall include detailed statements on the disbursements and utilization of appropriations for the purchase of motor vehicles and equipment, capital investment outlays, as well as appropriations earmarked and released for rentals, travels, petroleum, oil and lubricants, water, illumination and power services, and telephone and other communication services.
 

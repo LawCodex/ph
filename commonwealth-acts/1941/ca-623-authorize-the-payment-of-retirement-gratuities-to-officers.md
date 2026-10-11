@@ -24,7 +24,7 @@ Be it enacted by the National Assembly of the Philippines:
 
 ## Section 1
 
-. Sections one, two, four, and five of Act Numbered four thousand one hundred and eighty-three are amended to read as fellows;
+Sections one, two, four, and five of Act Numbered four thousand one hundred and eighty-three are amended to read as fellows;
 
 "**Section 1.** In order to grant a gratuity to provincial, municipal and city officers and employees Who resign or are separated from the service by reason of a reorganization thereof, the provincial boards, municipal aid city boards or councils may, with the approval of the Secretary of the Interior, retire their officers and employees, granting them, in consideration of satisfactory service rendered a gratuity equivalent to one month's salary for each year or fraction of a year of service, but not to exceed twenty-four months in any case, on the basis of the salary they receive at the time of leaving die service, to be paid monthly at the rate of thirty-three and one-third per centum of the monthly salary."
 

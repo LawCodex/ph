@@ -64,6 +64,6 @@ There is hereby appropriated out of the general funds in the National Treasury n
 
 ## Section 11
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1948.

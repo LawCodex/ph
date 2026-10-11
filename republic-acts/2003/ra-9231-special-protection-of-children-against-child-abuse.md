@@ -65,7 +65,7 @@ Section 2 of Republic Act No. 7610, as amended, otherwise known as the "Special 
 
 ## Section 3
 
-. The same Act, as amended, is hereby further amended by adding new sections to be denominated as Sections 12-A, 12-B, 12-C, and 12-D to read as follows:
+The same Act, as amended, is hereby further amended by adding new sections to be denominated as Sections 12-A, 12-B, 12-C, and 12-D to read as follows:
 
 "Sec. 2-A. _Hours of Work of a Working Child._ \- Under the exceptions provided in Section 12 of this Act, as amended:
 
@@ -159,7 +159,7 @@ The same Act is hereby further amended by adding a new section to be denominated
 
 ## Section 8
 
-. Section 27 of the same Act is hereby amended to read as follows:
+Section 27 of the same Act is hereby amended to read as follows:
 
 "Sec. 27. _Who May File a Complaint_ \- Complaints on cases of unlawful acts committed against children as enumerated herein may be filed by the following:
 

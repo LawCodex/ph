@@ -119,8 +119,5 @@ This Act which originated in the House of Representatives was passed by the Hous
 
 Approved: JUL 25 2019
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

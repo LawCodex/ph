@@ -1,0 +1,56 @@
+---
+title: "Presidential Decree No. 1525 — Establishing a School of Nursing and Midwifery in the Mariano Marcos Memorial Regional Hospital and Medical Center in Batac, Ilocos Norte"
+identifier: "Presidential Decree No. 1525"
+number: "1525"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-06-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1525_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1525
+
+**Establishing a School of Nursing and Midwifery in the Mariano Marcos Memorial Regional Hospital and Medical Center in Batac, Ilocos Norte**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1525**
+
+ESTABLISHING A SCHOOL OF NURSING AND MIDWIFERY IN THE MARIANO MARCOS MEMORIAL REGIONAL HOSPITAL AND MEDICAL CENTER IN BATAC, ILOCOS NORTE
+
+WHEREAS, one of the primary objectives of the national socio-economic development program of the New Society is to make health care services available to the Filipino people particularly those from the rural areas;
+
+WHEREAS, to realize this primary objective there is an urgent need for more nurses and midwives as providers of health care services working both independently and interdependently with physicians, social workers, physical therapists and other professional health workers to help the people achieve, maintain and regain health;
+
+WHEREAS, the cost of nursing education in cities and other urban areas has become prohibitive thereby depriving those who are in the provinces the opportunity to pursue this professions;
+
+WHEREAS, the Mariano Marcos Memorial Regional Hospital and Medical Center is ideally located to accommodate students from the provinces of Cagayan, Isabela, Nueva Viscaya, Ilocos Norte, Ilocos Sur, Abra and La Union; and
+
+WHEREAS, the said hospital has the necessary facilities for the establishment of a School of Nursing and Midwifery;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+
+## Section 1
+
+There is hereby established in the Mariano Marcos Memorial Regional Hospital and Medical Center in Batac, Ilocos Norte, a School of Nursing and Midwifery hereinafter referred to as Mariano Marcos Memorial Hospital School of Nursing;
+
+The School shall be headed by a Principal who is a holder of Master's Degree in Nursing Administration who shall be appointed by the Secretary of Health;
+
+## Section 2
+
+The organization and management of the said school shall be subject to the rules and regulations to be issued by the Secretary of Health;
+
+## Section 3
+
+The sum of two hundred thousand pesos is hereby appropriated out of the funds of the National Treasury, not otherwise appropriated to carry out the purposes of this decree for the current fiscal year. Thereafter, such sum as may be necessary for the operation of the school shall be included in the General Appropriations Decree.
+
+## Section 4
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and seventy-eight.

@@ -104,6 +104,6 @@ The sum herein appropriated shall not be released except upon the certification 
 
 ## Section 16
 
-. This Act shall take effect on July 1, 1949.
+This Act shall take effect on July 1, 1949.
 
 Approved: June 18, 1949.

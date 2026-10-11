@@ -119,6 +119,6 @@ Section eighty-one of the same Act is hereby amended to read as follows:
 
 ## Section 10
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 15, 1948.

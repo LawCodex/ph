@@ -1,0 +1,39 @@
+---
+title: "Presidential Decree No. 416 — Further Amending Presidential Decree No. 333, DatedNovember 26, 1973, as Amended By Presidential Decree Nos. 343 and 368"
+identifier: "Presidential Decree No. 416"
+number: "416"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-03-19
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_416_1974.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 416
+
+**Further Amending Presidential Decree No. 333, DatedNovember 26, 1973, as Amended By Presidential Decree Nos. 343 and 368**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 416 March 19, 1974**
+
+FURTHER AMENDING PRESIDENTIAL DECREE NO. 333, DATED NOVEMBER 26, 1973, AS AMENDED BY PRESIDENTIAL DECREE NOS. 343 AND 368
+
+As an emergency measure against the current international oil crisis, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, as amended, do hereby order, decree and amend Presidential Decree No. 333, as amended by Presidential Decree No. 343 and Presidential Decree No. 368, as follows:
+
+## Section 1
+
+Section 1 is hereby amended as follows:
+
+"Sec. 1. Any provision of existing law, executive or administrative order, or rule or regulation to the contrary notwithstanding, the importation, free from customs duties, or kerosene, diesels, liquified petroleum gas, fuel oil, aviation-turbo fuel, aviation gas, and other processed products as may be determined by the President upon certification of the Philippine National Oil Industry Commission shall be allowed until 30 June 1974 unless sooner terminated by the President."
+
+## Section 2
+
+This decree shall take effect immediately.
+
+Done in the City of Manila, this 19th day of March, in the year of Our Lord, nineteen hundred and seventy-four.

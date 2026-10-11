@@ -697,7 +697,7 @@ _Conduct of elections in Cebu._ -To carry out the purposes of the Election Law i
 
 ### Section 111
 
-. Assembly District-Provincial Capital-Until I otherwise provided by law, the City of Cebu shall continue as part of the Second Assembly District, and as the capital of the province.
+Assembly District-Provincial Capital-Until I otherwise provided by law, the City of Cebu shall continue as part of the Second Assembly District, and as the capital of the province.
 
 ### Section 112
 

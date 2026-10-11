@@ -47,9 +47,6 @@ Section 14(e) of Batas Pambansa Blg. 129, otherwise known as "The Judiciary Reor
 
 This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers of general circulation.
 
-<table>
-</table>
-
 Approved,
 
 | (Sgd.) JUAN PONCE ENRILE President of the Senate | (Sgd.) FELICIANO BELMONTE JR. Speaker of the House of Representatives |

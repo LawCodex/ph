@@ -72,6 +72,6 @@ This franchise shall not be interpreted to mean as exclusive grant of the privil
 
 ## Section 13
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

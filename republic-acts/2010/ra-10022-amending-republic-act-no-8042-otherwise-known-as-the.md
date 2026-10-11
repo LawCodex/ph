@@ -1337,11 +1337,15 @@ _Liability of Medical Clinic or Health Facility._ In case an OFW is found to be 
 
 Any DOH-accredited clinic which violates any provisions of this section shall, in addition to any other liability it may have incurred, suffer the penalty of revocation of its DOH-accredited if after investigation, the medical reason for repatriation could have been detected at the time of examination using the DOH PEME package as required by the employer/principal or the receiving country.
 
-**Section** 4\. Liability of Government Personnel for Nonfeasance and Malfeasance of their Duties under the Act.
+## Section 4
+
+Liability of Government Personnel for Nonfeasance and Malfeasance of their Duties under the Act.
 
 Any government official or employee who violates any provision of this Rule shall be removed or dismissed from service with disqualification to hold any appointive public office for five (5) years. Such penalty is without prejudice to any other liability which he/she may have incurred under existing laws, rules or regulations.
 
-**Section** 5\. Issuance of Guidelines.
+## Section 5
+
+Issuance of Guidelines.
 
 Within sixty (60) days from effectivity of these Rules, the DOH shall issue the pertinent guidelines to implement the provisions of this Rule.
 

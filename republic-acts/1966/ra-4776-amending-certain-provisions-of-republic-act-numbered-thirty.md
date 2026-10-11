@@ -489,7 +489,7 @@ The first paragraph of Section forty-one of the same Act is amended to read as f
 
 ### Section 39
 
-. Section forty-two of the same Act is amended to read as follows:
+Section forty-two of the same Act is amended to read as follows:
 
 "Sec. 42. _Assistant Chief of the Fire Department.—_ There shall be an assistant chief of the fire department whose duties shall be to act as chief in the absence or incapacity of the chief of the fire department, and, under the direction of the chief of the fire department, to look after the discipline of the fire force and perform such other duties as may be imposed upon him by the chief or prescribed by law or ordinance. He shall be appointed by the Mayor, upon the recommendation of the chief of fire department and shall receive a salary of not less than seven thousand two hundred pesos per annum."
 

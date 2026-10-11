@@ -178,6 +178,6 @@ _Application of Act._ -The provisions of this Act relating to surety bonds and t
 
 ## Section 29
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

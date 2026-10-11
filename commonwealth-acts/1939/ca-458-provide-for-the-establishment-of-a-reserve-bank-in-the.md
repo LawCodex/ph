@@ -356,7 +356,7 @@ FIDELITY INSURANCE OF OFFICERS AND EMPLOYEES
 
 ### Section 47
 
-. The officers and employees of the Reserve Bank and its branches and agencies, whose duties require the custody of funds or property for which they are accountable shall-be bounded and-their fidelity insured in accordance with the provisions of the Public Bonding Law.
+The officers and employees of the Reserve Bank and its branches and agencies, whose duties require the custody of funds or property for which they are accountable shall-be bounded and-their fidelity insured in accordance with the provisions of the Public Bonding Law.
 
 LIFE INSURANCE OF OFFICERS.AND EMPLOYEES
 
@@ -400,7 +400,7 @@ Any Governor, officer, agent or employee of the Reserve Bank or its branches, or
 
 ### Section 52
 
-. The Secretary of Finance, the Auditor General, and the Governors, officers and employees of the Reserve Bank, shall.not either directly or indirectly, for himself or as the representative or agent of others, borrow money from die Reserve Bank, nor shall become a guarantor, indorser, or surety for loans, discounts or rediscounts from the Reserve Bank to member banks or other persons, corporations or associations, or in any manner be an obligor for moneys borrowed of the Reserve Bank or loaned by it,. The office of those who violate the provisions of this section shall immediately be declared vacant,and the guilty shall be punished by imprisonment not exceeding five years and by a fine of not more than five thousand pesos.
+The Secretary of Finance, the Auditor General, and the Governors, officers and employees of the Reserve Bank, shall.not either directly or indirectly, for himself or as the representative or agent of others, borrow money from die Reserve Bank, nor shall become a guarantor, indorser, or surety for loans, discounts or rediscounts from the Reserve Bank to member banks or other persons, corporations or associations, or in any manner be an obligor for moneys borrowed of the Reserve Bank or loaned by it,. The office of those who violate the provisions of this section shall immediately be declared vacant,and the guilty shall be punished by imprisonment not exceeding five years and by a fine of not more than five thousand pesos.
 
 ### Section 53
 

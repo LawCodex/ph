@@ -29,7 +29,7 @@ Section one hundred thirty-three of Commonwealth Act Numbered Four hundred sixty
 
 ## Sec. 133
 
-. _Specific tax on distilled spirits._ -On distilled spirits there shall be collected subject to the provisions of section one hundred and twenty-eight of the Act, except as hereinafter provided, specific taxes as follows:
+_Specific tax on distilled spirits._ -On distilled spirits there shall be collected subject to the provisions of section one hundred and twenty-eight of the Act, except as hereinafter provided, specific taxes as follows:
 
 "(a) If produced from sap of the nipa, coconut, cassava, camote, or buri palm, or from the juice, syrup, or sugar of the cane, per proof liter, seventy centavos.
 
@@ -47,7 +47,7 @@ Section one hundred thirty-four of Commonwealth Act Numbered Four hundred sixty-
 
 ## Sec. 134
 
-. _Specific tax on wines._ -On wines and imitation wines there shall be collected, per liter of volume capacity, the following taxes:
+_Specific tax on wines._ -On wines and imitation wines there shall be collected, per liter of volume capacity, the following taxes:
 
 "(a) Sparkling wines, regardless of proof, twelve pesos.
 
@@ -63,7 +63,7 @@ Section one hundred thirty-five of Commonwealth Act Numbered Four hundred sixty-
 
 ## Sec 135
 
-. Specific tax on fermented liquors.— On beer, lager beer, ale, porter, and other fermented liquors (except tuba, basi, tapuy and similar domestic fermented liquors), there shall be collected, on each liter of volume capacity, twenty-five centavos."
+Specific tax on fermented liquors.— On beer, lager beer, ale, porter, and other fermented liquors (except tuba, basi, tapuy and similar domestic fermented liquors), there shall be collected, on each liter of volume capacity, twenty-five centavos."
 
 ## Section 4
 

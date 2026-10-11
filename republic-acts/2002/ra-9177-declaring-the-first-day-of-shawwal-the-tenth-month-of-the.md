@@ -36,7 +36,7 @@ The approximate date of these Islamic holidays may be determined in accordance w
 
 ## Section 2
 
-. Section 26, Chapter 7 of Executive Order No 292, otherwise known as the Revised Administrative Code of 1987 is hereby amended to read as follows:
+Section 26, Chapter 7 of Executive Order No 292, otherwise known as the Revised Administrative Code of 1987 is hereby amended to read as follows:
 
 ## Sec. 26
 

@@ -140,8 +140,5 @@ This Act which is a consolidation of House Bill No. 8512 and Senate Bill No. 202
 
 Approved: MAY 26 2021
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

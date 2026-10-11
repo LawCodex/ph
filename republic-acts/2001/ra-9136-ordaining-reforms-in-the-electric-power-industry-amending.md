@@ -850,7 +850,7 @@ The PSALM Corp. President shall be the Chief Executive Officer of PSALM Corp. an
 
 ### Section 54
 
-._Exemption from the Salary Standardization Law._ – The salaries and benefits of employees in the PSALM Corp. shall be exempt from Republic Act No. 6758 and shall be fixed by the PSALM Corp. Board.
+_Exemption from the Salary Standardization Law._ – The salaries and benefits of employees in the PSALM Corp. shall be exempt from Republic Act No. 6758 and shall be fixed by the PSALM Corp. Board.
 
 ### Section 55
 

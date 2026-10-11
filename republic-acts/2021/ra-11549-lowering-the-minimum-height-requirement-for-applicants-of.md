@@ -144,8 +144,5 @@ This Act which is a consolidation of House Bill No. 8261 and Senate Bill No. 156
 
 Approved: MAY 26 2021
 
-<table>
-<tr>
-<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
-</tr>
-</table>
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

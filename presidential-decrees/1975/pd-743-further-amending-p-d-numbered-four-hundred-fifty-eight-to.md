@@ -1,0 +1,58 @@
+---
+title: "Presidential Decree No. 743 — Further Amending P.D. Numbered Four Hundred Fifty-Eight to Create Two Positions of Assistant Secretary"
+identifier: "Presidential Decree No. 743"
+number: "743"
+type: decree
+jurisdiction: ph
+language: en
+date: 1975-07-09
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1975/pd_743_1975.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 743
+
+**Further Amending P.D. Numbered Four Hundred Fifty-Eight to Create Two Positions of Assistant Secretary**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 743 July 9, 1975**
+
+FURTHER AMENDING PRESIDENTIAL DECREE NUMBERED FOUR HUNDRED FIFTY-EIGHT TO CREATE TWO POSITIONS OF ASSISTANT SECRETARY
+
+WHEREAS, the functions and responsibilities of the Department of Public Highways, as created under Presidential Decree No. 458 and its subsequent amendments, have greatly expanded with the creation of the Bureau of Barangay Roads;
+
+WHEREAS, the present magnitude of work, functions and responsibilities of the Department demand closer supervision and coordination among the different bureaus, services, regions, district and city offices to further increase the efficiency of the organization;
+
+WHEREAS, in order to attain this objective, the Secretary of Public Highways recommends that it is necessary to create two positions of Assistant Secretary: one for administration, charged with the duty and responsibility of assisting the Secretary and the Undersecretary to supervise and coordinate administrative work and functions in all levels of the Department, to advise the Secretary and the Undersecretary of the administrative needs and requirements of the whole organization, as well as to assist in the formulation of policies, rules and regulations to improve the administrative organization of the Department; and the other for Planning and Operation charged with the duty of assisting the Secretary and the Undersecretary on the performance of their functions like reviewing long range and annual plans and programs, establishing project priorities and selecting capital projects for funding and execution, evaluating performance reports and integrating project implications for aggregative planning in supervising the technical organization of the Department, including bureaus, services, regions, district and city offices and advising the respective heads of said offices on the technical needs and deficiencies of their technical setup, and in the formulation of technical policies relative to planning, programming and operation.
+
+WHEREAS, the creation of these positions are warranted by the magnitude of work and responsibility of the Department;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, hereby order and decree:
+
+## Section 1
+
+The provisions of existing laws, rules and regulations to the contrary notwithstanding, the positions of Assistant Secretary for Administration and Assistant Secretary for Planning and Operation, both with the rank of a Director, are hereby created in the Department of Public Highways;
+
+## Section 2
+
+The Assistant Secretary for Administration shall have the following main functions: assist the Secretary and the Undersecretary in the supervision and coordination of all administrative functions of the Department; determine the administrative needs and requirements of all bureaus, services, regions, district and city offices under the Department; recommend remedial measures to improve the administrative organization, and assist the Secretary and the Undersecretary in the formulation of policies, rules and regulations pertaining to the administrative organization of the Department.
+
+The Assistant Secretary for Planning and Operation shall have the following main functions: assist the Secretary and the Undersecretary in the planning, supervision and coordination of all technical work in the bureaus, regions, district and city offices; assist the Secretary and the Undersecretary in determining the technical needs of each office under the Department, the proposed policies, rules and regulations for the efficient operation of the technical organization of the Department.
+
+## Section 3
+
+The Assistant Secretaries shall be appointed by the President upon recommendation of the Secretary of Public Highways.
+
+## Section 4
+
+All laws, decrees, rules and regulations, or parts thereof, as may be inconsistent herewith are hereby repealed or modified accordingly.
+
+## Section 5
+
+This Decree shall take effect immediately.
+
+DONE in the City of Manila, this 9th day of July, in the year of Our Lord, nineteen hundred and seventy-five.

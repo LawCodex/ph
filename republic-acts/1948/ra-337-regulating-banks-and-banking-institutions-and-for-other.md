@@ -572,6 +572,6 @@ Sections one hundred seventy-five to one hundred eighty-three and one hundred ni
 
 ### Section 91
 
-. This Act shall take effect on the same day that the Central Bank commences operation.
+This Act shall take effect on the same day that the Central Bank commences operation.
 
 Approved: July 24, 1948.

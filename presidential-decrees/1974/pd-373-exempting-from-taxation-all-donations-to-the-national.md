@@ -1,0 +1,50 @@
+---
+title: "Presidential Decree No. 373 — Exempting From Taxation All Donations to the National Museum, the National Library and the Archives of the National Historical Institute"
+identifier: "Presidential Decree No. 373"
+number: "373"
+type: decree
+jurisdiction: ph
+language: en
+date: 1974-01-09
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1974/pd_373_1974.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 373
+
+**Exempting From Taxation All Donations to the National Museum, the National Library and the Archives of the National Historical Institute**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 373 January 9, 1974**
+
+EXEMPTING FROM TAXATION ALL DONATIONS TO THE NATIONAL MUSEUM, THE NATIONAL LIBRARY AND THE ARCHIVES OF THE NATIONAL HISTORICAL INSTITUTE
+
+WHEREAS, museums, national libraries and archives depend mostly on donations for the support of their projects or the acquisition of items for their collections.
+
+WHEREAS, in most countries donations to museums, national libraries and archives are tax-exempt, like donations to charitable institutions.
+
+WHEREAS, many collectors have expressed willingness to donate items to the National Museum, the National Library and our archives under the National Historical Institute but are deterred by present taxation policies.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby decree, order and make part of the law of the land, the following:
+
+## Section 1
+
+All monetary contributions and the equivalent monetary value of works of art, manuscript, books or other articles of cultural, historical or scientific significance, donated to the National Museum, the National Library and the National Historical Institute, are tax exempt and deductible from the taxable income of the donor.
+
+## Section 2
+
+The Director of the National Museum, the Director of the National Library and the Chairman of the National Historical Institute, in the case of the national archives, are each hereby authorized to convene a panel of experts who shall pass on the merit of the item or items offered as donation to their respective collections and shall determine the valuation thereof.
+
+## Section 3
+
+All laws inconsistent with this Decree are hereby repealed or modified accordingly.
+
+## Section 4
+
+This Decree shall take effect immediately.
+
+Done in the City of Manila, this 9th day of January, 1974.

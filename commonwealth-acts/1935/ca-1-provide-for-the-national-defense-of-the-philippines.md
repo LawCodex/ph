@@ -390,7 +390,7 @@ All Filipinos are liable to military service.
 
 #### Section 52
 
-. The obligation to undergo military training shall begin with youth in school, commencing at the age of ten years and shall extend through his schooling until he shall reach the age of eighteen years. At this age he shall enter the Junior Reserve to which he shall be assigned until he is twenty-one years of age when he shall become subject to service with the colors, and thereafter with the Reserve Force until he shall reach fifty years of age. The training, which he may undergo prior to the calendar year in which he attains twenty-one years of age shall be termed “Preparatory Military Training."
+The obligation to undergo military training shall begin with youth in school, commencing at the age of ten years and shall extend through his schooling until he shall reach the age of eighteen years. At this age he shall enter the Junior Reserve to which he shall be assigned until he is twenty-one years of age when he shall become subject to service with the colors, and thereafter with the Reserve Force until he shall reach fifty years of age. The training, which he may undergo prior to the calendar year in which he attains twenty-one years of age shall be termed “Preparatory Military Training."
 
 All school girls shall receive such instruction and training as the Chief of Staff may deem necessary for auxiliary service.
 

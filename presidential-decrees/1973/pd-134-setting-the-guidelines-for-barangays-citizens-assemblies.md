@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 134 — Setting the Guidelines for Barangays' (Citizens' Assemblies) Participation on Local Issues"
+identifier: "Presidential Decree No. 134"
+number: "134"
+type: decree
+jurisdiction: ph
+language: en
+date: 1973-02-21
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1973/pd_134_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 134
+
+**Setting the Guidelines for Barangays' (Citizens' Assemblies) Participation on Local Issues**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 134 February 21, 1973**
+
+SETTING THE GUIDELINES FOR BARANGAYS' (CITIZENS' ASSEMBLIES) PARTICIPATION ON LOCAL ISSUES
+
+WHEREAS, the Office of the President and the Department of Local Government and Community Development have been receiving requests from various Barangays to hold referendums in their local units on local issues affecting their welfare;
+
+WHEREAS, pursuant to Presidential Decree No. 86 dated December 31, 1972, it is the policy of this government to broaden the base of citizen participation in the democratic process and to afford ample opportunities for the citizenry to express their views; and
+
+WHEREAS, citizen participation will make the local officials more responsive to the needs and views of our people in running the affairs of the local units;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, do hereby decree as part of the law of the land the following:
+
+1\. The Department of Local Government and Community Development is hereby directed to authorize and supervise the calling of the referendums in all local units and for this purpose request the participation of the Department of Education and Culture and other offices in the localities concerned in conducting the Barangays (Citizens' Assemblies);
+
+2\. A request to the Department of Local Government and Community Development to conduct a referendum on local issues affecting the local unit concerned may be initiated by a petition to conduct a referendum by at least one-fifth (1/5) of the members of the Barangay (Citizens' Assembly) of the local unit affected;
+
+3\. Upon receipt of this petition, the Department shall immediately prepare the questionaire in accordance with the local issues asked for in the petition and shall immediately notify the local unit concerned of the date and time when the referendum shall take place, giving at least ten (10) days from notice to the date of the referendum; and
+
+4\. When the local issue asked for in the petition involves the creation, division, merger, abolition or alteration of existing boundaries of local units, the Department of Local Government and Community Development, upon receipt of such petition, shall immediately forward the same to the President and, on the basis of merit, recommend the issuance of a presidential decree on the matter asked for, the effectivity of which is conditioned on the approval by the Barangay (Citizens' Assembly) in the referendum called for that purpose.
+
+5\. This Decree shall take effect immediately.
+
+Done in the City of Manila, this 21st day of February, in the year of Our Lord, nineteen hundred and seventy-three.

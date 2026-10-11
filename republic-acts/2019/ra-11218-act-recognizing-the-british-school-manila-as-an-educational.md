@@ -66,7 +66,7 @@ _Separability Clause._ \- If any clause, sentence, paragraph or part of this Act
 
 ## Section 7
 
-. _Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

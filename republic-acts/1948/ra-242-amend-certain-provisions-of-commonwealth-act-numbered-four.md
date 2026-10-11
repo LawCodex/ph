@@ -320,6 +320,6 @@ Article one hundred and twenty of Commonwealth Act Numbered Four hundred and eig
 
 ## Section 40
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 12, 1948.

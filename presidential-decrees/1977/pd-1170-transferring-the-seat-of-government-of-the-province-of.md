@@ -1,0 +1,48 @@
+---
+title: "Presidential Decree No. 1170 — Transferring the Seat of Government of the Province of Maguindanao From the Municipality of Maganoy to the Municipality of Sultan Kudarat"
+identifier: "Presidential Decree No. 1170"
+number: "1170"
+type: decree
+jurisdiction: ph
+language: en
+date: 1977-07-11
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1977/pd_1170_1977.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1170
+
+**Transferring the Seat of Government of the Province of Maguindanao From the Municipality of Maganoy to the Municipality of Sultan Kudarat**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1170**
+
+TRANSFERRING THE SEAT OF GOVERNMENT OF THE PROVINCE OF MAGUINDANAO FROM THE MUNICIPALITY OF MAGANOY TO THE MUNICIPALITY OF SULTAN KUDARAT
+
+WHEREAS, the present set of the provincial government of Maguindanao is not very accessible to the residents of the different municipalities therein;
+
+WHEREAS, the proposed seat of government at Sultan Kudarat is more accessible, being centrally located within the province;
+
+WHEREAS, the municipality of Sultan Kudarat has more facilities to offer, being near the Polloc Port and situated at the crossroads of national highways leading to Davao City, the two Lanaos and South Cotabato;
+
+WHEREAS, the people of Sultan Kudarat, their civic leaders and the different municipal mayors have expressed their desire that the transfer of the seat of government be made for the above reasons;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree;
+
+## Section 1
+
+The seat of government of the Province of Maguindanao is hereby transferred from the Municipality of Maganoy to the Municipality of Sultan Kudarat.
+
+## Section 2
+
+Presidential Decree No. 341 is hereby amended accordingly.
+
+## Section 3
+
+This decree takes effect immediately.
+
+DONE in the City of Manila, this 11th day of July, in the year of Our Lord, nineteen hundred and seventy-seven.

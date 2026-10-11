@@ -1,0 +1,60 @@
+---
+title: "Presidential Decree No. 40 — Establishing Basic Policies for the Electric Power Industry"
+identifier: "Presidential Decree No. 40"
+number: "40"
+type: decree
+jurisdiction: ph
+language: en
+date: 1972-11-07
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1972/pd_40_1972.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 40
+
+**Establishing Basic Policies for the Electric Power Industry**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 40 November 7, 1972**
+
+ESTABLISHING BASIC POLICIES FOR THE ELECTRIC POWER INDUSTRY
+
+WHEREAS, one of the primary concerns of the government in promoting the economic welfare of the people is to hasten the electrification of the entire country, more particularly the rural area; and
+
+WHEREAS, it is necessary to establish basic policies for the attainment of said objective;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and general Order No. 1, dated September 22, 1972, do hereby order and decree, as part of the law of the land, the following basic policies for the electric power industry:
+
+1\. The attainment of total electrification on an area coverage basis, which is a declared policy of the State, shall be effected primarily through:
+
+(a) The setting up of island grids with central/linked-up generation facilities.
+
+(b) The setting up of cooperatives for distribution of power.
+
+2\. The setting up of transmission line grids and the construction of associated generation facilities in Luzon, Mindanao and major islands of the country, including the Visayas, shall be the responsibility of the National Power Corporation (NPC) as the authorized implementing agency of the State.
+
+(a) Plant additions necessary to meet the increase in power demand of the area embraced by any grid set up by the NPC shall be constructed and owned by the NPC.
+
+(b) In areas not embraced by the NPC grid, the State shall permit cooperatives, private utilities and local governments to own and operate isolated grids and generation facilities, subject to State regulation.
+
+3\. The distribution of electric power by the NPC shall be undertaken by:
+
+(a) Cooperatives
+
+(b) Private utilities
+
+(c) Local governments
+
+(d) Other entities duly authorized subject to state regulation
+
+4\. Within the area embraced by a grid set up by the NPC, the State shall determine privately-owned generating facilities which should be permitted to remain in operation.
+
+5\. It is the ultimate objective of the State for the NPC to own and operate as a single integrated system all generating facilities supplying electric power to the entire area embraced by any grid set up by the NPC.
+
+6\. The Power Development Council shall be expanded and strengthened to make it more effective in the planning and implementation of power and electrification projects and in the re-direction of re-orientation of the various sectors of the industry towards national development goals.
+
+Done in the City of Manila, this 7th day of November, in the year of Our Lord, nineteen hundred and seventy-two.

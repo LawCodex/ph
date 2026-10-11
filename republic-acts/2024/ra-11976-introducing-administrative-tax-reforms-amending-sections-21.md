@@ -730,7 +730,7 @@ _Repealing Clause_. - All laws, decrees, executive orders, implementing rules an
 
 ## Section 51
 
-. _Effectivity_. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+_Effectivity_. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

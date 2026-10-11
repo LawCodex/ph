@@ -1,0 +1,53 @@
+---
+title: "Presidential Decree No. 1715 — Amending Presidential Decree No. 618 Which Amended Republic Act No. 1789, Otherwise Known as the Reparations Law"
+identifier: "Presidential Decree No. 1715"
+number: "1715"
+type: decree
+jurisdiction: ph
+language: en
+date: 1980-08-21
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1980/pd_1715_1980.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1715
+
+**Amending Presidential Decree No. 618 Which Amended Republic Act No. 1789, Otherwise Known as the Reparations Law**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1715**
+
+AMENDING PRESIDENTIAL DECREE NO. 618 WHICH AMENDED REPUBLIC ACT NO. 1789, OTHERWISE KNOWN AS THE REPARATIONS LAW
+
+WHEREAS, Presidential Decree No. 618 amended Section 12 of Republic Act No. 1789, as amended, otherwise known as the Reparations Law, to allow foreign equity not exceeding 30%, in recipient corporations or associations which have fully paid for the machinery and equipment granted under the said Act, subject to the approval of the President upon recommendation of the National Economic and Development Authority;
+
+WHEREAS, the minimum requirement of seventy per cent (70%) Filipino capitalization or stock ownership in said corporation had to be imposed because the benefit of using said machinery and equipment should accrue to Filipinos;
+
+WHEREAS, after continued use, said machinery and equipment have depreciated considerably since the bulk of these equipment were acquired in the early days of the reparations grant which started in 1956 and ended in 1976;
+
+WHEREAS, at preset time, these equipment may no longer have any meaningful value; and
+
+WHEREAS, in order to facilitate the entry of foreign investments in the said recipient corporations or associations in line with the government policy of encouraging foreign equity participation in certain areas of economic activity, the above limitation should be lifted since it serves no useful purpose.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers vested in me by the Constitution, do hereby decree and order, and make as part of the law of the land, the amendment of Section 12 of Republic Act No. 1789, as amended, as follows:
+
+## Section 1
+
+The fifth paragraph of Section 12 Republic Act No. 1789, as amended, is hereby amended to read as follows:
+
+"The contract of sale shall bear the conditions that no capital goods thus acquired shall be resold, leased or in any other manner disposed of except to Filipino citizens or to entities wholly owned by Filipino citizens who shall continue the utilization thereof in the projects for which the goods were originally intended or in similar projects included in the economic development program of a similar priority, subject, however, to the further condition that groups, associations and corporations which are recipient of such goods shall not permit any subsequent change in ownership or control as shall at any time thereafter change the control or ownership wholly held therein by Filipino citizens; Provided, however, That, subject to the approval of the Board of Investments, taking into account the condition of the equipment involved and criteria for the entry of foreign investment under Republic Act No. 5455, recipient corporations or associations which have fully paid for such goods may allow foreign equity participation therein when the same is necessary for further development and expansion.
+
+## Section 2
+
+All provisions of existing laws, decrees, orders, rules and regulations, or parts thereof, in conflict or inconsistent herewith, are repealed or modified accordingly.
+
+## Section 3
+
+This Decree shall take immediately.
+
+Done in the City of Manila, this 21st day of August, in the year of Our Lord, nineteen hundred and eighty.

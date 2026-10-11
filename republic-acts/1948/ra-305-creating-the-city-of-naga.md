@@ -471,11 +471,7 @@ _Oath to be taken by members of the Board of Tax Appeals._ — Before organizing
 
 \----------------------------------------------------
 
-<table>
-<tr>
-<td>"(Signature and title of officer administering oath)"</td>
-</tr>
-</table>
+"(Signature and title of officer administering oath)"
 
 ### Section 40
 

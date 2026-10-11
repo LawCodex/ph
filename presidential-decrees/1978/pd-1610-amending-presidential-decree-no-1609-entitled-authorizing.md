@@ -1,0 +1,44 @@
+---
+title: "Presidential Decree No. 1610 — Amending Presidential Decree No. 1609 Entitled Authorizing as An Emergency Measure the Importation, Free of Duties, of Liquefied Petroleum Gas"
+identifier: "Presidential Decree No. 1610"
+number: "1610"
+type: decree
+jurisdiction: ph
+language: en
+date: 1978-02-28
+status: unknown
+source: "https://lawphil.net/statutes/presdecs/pd1978/pd_1610_1978.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Presidential Decree No. 1610
+
+**Amending Presidential Decree No. 1609 Entitled Authorizing as An Emergency Measure the Importation, Free of Duties, of Liquefied Petroleum Gas**
+
+MALACAÑANG  
+M a n i l a
+
+**PRESIDENTIAL DECREE No. 1610**
+
+AMENDING PRESIDENTIAL DECREE NO. 1609 ENTITLED AUTHORIZING AS AN EMERGENCY MEASURE THE IMPORTATION, FREE OF DUTIES, OF LIQUEFIED PETROLEUM GAS
+
+WHEREAS, under Presidential Decree No. 1609 the importation free from customs duties of liquefied petroleum gas was authorized as an emergency measure;
+
+WHEREAS, the shortages in supply which were originally anticipated only in the case of liquefied petroleum gas supply appears to be graver and there are now similarly expected shortages in the supply of motor gasoline, naphtha, and natural gas liquids;
+
+WHEREAS, it is possible that shortages resulting from the disruptions in normal sources of supply might similarly affect other refined petroleum products, and it is necessary to provide a mechanism to allow the importation free from customs duties and other charges of other refined petroleum products, if and when shortages occur;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:
+
+## Section 1
+
+Section 1 of the Presidential Decree No. 1609 is hereby amended to read as follows:
+
+"Any provision of law, executive or administrative order, rule or regulation, to the contrary notwithstanding the importation free from customs duties and other importation taxes and charges of liquefied petroleum gas, motor gasoline, naphtha, and liquefied natural gas liquids by persons or entities duly authorized by the Bureau of Energy Utilization, shall be allowed for the duration of the present supply emergency or until the domestic prices of refined petroleum products shall have been adjusted. Similar importation free from customs duties and other importation taxes and charges for other petroleum products, the supply of which may become critical during the period of emergency, shall similarly be allowed when directed by the President of the Philippines upon recommendation of the Minister of Energy."
+
+## Section 2
+
+This Decree shall effect immediately.
+
+Done in the City of Manila this 28th day of February, in the year of Our Lord, nineteen hundred and seventy-nine.

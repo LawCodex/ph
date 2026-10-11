@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-. _Establishment._ — There is hereby established in the Province of Sultan Kudarat, with a central site and administration office in the Municipality of Tacurong (Sultan Kudarat Capital Site Extension), a college which shall be known as the Sultan Kudarat Polytechnic State College, hereinafter referred to as the College.
+_Establishment._ — There is hereby established in the Province of Sultan Kudarat, with a central site and administration office in the Municipality of Tacurong (Sultan Kudarat Capital Site Extension), a college which shall be known as the Sultan Kudarat Polytechnic State College, hereinafter referred to as the College.
 
 ## Section 2
 

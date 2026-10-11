@@ -33,6 +33,6 @@ Item (21), under "al. Nueva Vizcaya," section two of Republic Act Numbered Twelv
 
 ## Section 2
 
-. This Act shall take effect upon its approval.
+This Act shall take effect upon its approval.
 
 Approved: June 22, 1957.

@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 344 — Requiring Certain Persons and Entities to Report Stocks of Essential Building Materials, Food Commodities, and Food Containers"
+identifier: "Executive Order No. 344"
+number: "344"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1941-05-17
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1941/eo_344_1941.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1941/pdf/eo_344_1941.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 344
+
+**Requiring Certain Persons and Entities to Report Stocks of Essential Building Materials, Food Commodities, and Food Containers**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 344, May 21, 1941 ]
+
+REQUIRING CERTAIN PERSONS AND ENTITIES TO REPORT STOCKS OF ESSENTIAL BUILDING MATERIALS, FOOD COMMODITIES, AND FOOD CONTAINERS
+
+Pursuant to the authority vested in me by Commonwealth Act Numbered Six Hundred, and upon the recommendation of the National Emergency Commission, **I, MANUEL L. QUEZON** , President of the Philippines, do hereby order that:
+
+1\. All importers and distributors of building materials shall, within ten (10) days from the date this Order takes effect, and at the end of every month thereafter, or whenever called for, submit to the Industrial Production Administrator appointed under Executive Order Numbered Three Hundred thirty-five, dated April 1, 1941, a true and correct report of all building materials in their possession, as well as of those arriving under contract, such inventory to cover such categories of building materials as may be determined by the Industrial Production Administrator and to contain such data as may be required by him.
+
+2\. All merchants, warehousemen, factories, and such other persons or entities as may be required to do so by the Food Administrator appointed under Executive Order Numbered Three Hundred thirty-five, dated April 1, 1941, shall, within ten (10) days from the date this Order takes effect, and at the end of every month thereafter, or whenever called for, submit to the said Food Administrator a report of all their commodities, tin containers, sacks and sacking materials they may have on hand, the quantities they expect to receive during the next three months and their sources, and their intended disposition or use in a form, to be prescribed and issued for the purpose.
+
+Any violation of this Order shall be punished in accordance with Section 3 of Commonwealth Act Numbered Six Hundred.
+
+This order shall take effect on May 21st, 1941
+
+Done at the City of Baguio, this 17th day of May in the year of Our Lord, nineteen hundred and forty-one and of the Commonwealth of the Philippines, the sixth.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

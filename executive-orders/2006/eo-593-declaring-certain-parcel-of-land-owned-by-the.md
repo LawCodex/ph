@@ -1,0 +1,80 @@
+---
+title: "Executive Order No. 593 — Declaring Certain Parcel of Land Owned By the Telecommunications Office Situated in Aluba Hills, Macasandig, Cagayan De Oro City, Covered By Transfer Certificate of Title No. 10360 (Lot 2917-A, Cad-9856), as Housing Site and Providing for Its Development and Disposition in Favor of the Telof X Employees Housing Association (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 593"
+number: "593"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2006-12-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2006/eo_593_2006.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2006/pdf/eo_593_2006.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 593
+
+**Declaring Certain Parcel of Land Owned By the Telecommunications Office Situated in Aluba Hills, Macasandig, Cagayan De Oro City, Covered By Transfer Certificate of Title No. 10360 (Lot 2917-A, Cad-9856), as Housing Site and Providing for Its Development and Disposition in Favor of the Telof X Employees Housing Association (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 593
+
+DECLARING CERTAIN PARCEL OF LAND OWNED BY THE TELECOMMUNICATIONS OFFICE SITUATED IN ALUBA HILLS, MACASANDIG, CAGAYAN DE ORO CITY, COVERED BY TRANSFER CERTIFICATE OF TITLE NO. 10360 (LOT 2917-A, CAD-9856), AS HOUSING SITE AND PROVIDING FOR ITS DEVELOPMENT AND DISPOSITION IN FAVOR OF THE TELOF X EMPLOYEES HOUSING ASSOCIATION
+
+WHEREAS, it is the priority concern of the government to provide housing to homeless Filipinos in line with the Constitution and mandate of the state to protect and advance the right of the people to a balance and healthful ecology, decent living conditions and social justice;
+
+**WHEREAS,** Section 8 of Republic Act (RA) 7279, otherwise known as the Urban Development and Housing Act (UDHA) of 1992, provides that government-owned lands which have not been used for the purpose for which they were intended for the past ten (10) years from the effectivity of R.A. 7279 may be disposed of for socialized housing purposes;
+
+**WHEREAS,** government-owned lands as defined in the same section of the Act mentioned above include those owned or administered by the national government or any of its subdivisions, instrumentalities, or agencies, including government-owned or controlled corporations (GOCCs) and their subsidiaries;
+
+**WHEREAS,** Executive Order No. 131, s. of 2002, directs the national government or any of its subdivisions, instrumentalities, or agencies, including GOCCs and their subsidiaries, to give full support and cooperation to HUDCC in the disposition of government-owned lands defined in Section 8 of the Urban Development and Housing Act (UDHA) of 1992;
+
+**WHEREAS,** the Telecommunications Office (TELOF) formerly known as Bureau of Telecommunications (BOT) under the Commission on Information and Communication Technology, owns a parcel of land situated in Aluba Hills, Macasandig, Cagayan de Oro City covered by Transfer Certificate of Title (TCT) No. T-10360 (Lot 2917-A, Cad-9856) with an approximate land area of forty-one thousand four hundred sixty-five square meters (41,465 sq. m.) under the name of the Republic of the Philippines (Bureau of Telecommunications);
+
+**WHEREAS,** the TELOF has endorsed the segregation and disposition of approximately thirty-one thousand four hundred sixty-five square meters (31,465 sq. m.) of the property mentioned earlier, subject to final survey, as housing site for the members of the TELOF X Employees Housing Association;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby authorize and direct the following:
+
+## SECTION 1
+
+_Segregation and Disposition of Land as Housing Site._ The Telecommunications Office (TELOF) shall segregate and dispose THIRTY-ONE THOUSAND FOUR HUNDRED SIXTY-FIVE (31,465) square meters, more or less, of its land covered by Transfer Certificate of Title No. T-10360 (Lot 2917-A, Cad-9856) located in Aluba Hills, Macasandig, Cagayan De Oro City, as housing site for the TELOF X Employees Housing Association, subject to private rights, if there be any, road right of way requirements, and to final survey.
+
+## SECTION 2
+
+_Administration and Development._ The TELOF is hereby authorized to administer and develop the property to benefit the intended beneficiaries.
+
+## SECTION 3
+
+_Creation of the Inter-Agency (IAC)._ An Inter-Agency Committee shall be created, composed of the TELOF, as Chairman, the Housing and Urban Development Coordinating Council (HUDCC) as Co-Chairman, and the Department of Environment and Natural Resources (DENR) and representative of the TELOF X Employees Housing Association as members. The IAC shall formulate the Implementing Rules and Regulations (IRR) of this Executive Order.
+
+## SECTION 4
+
+_Funding Allocation._ The TELOF, as the administrator of the housing site, shall facilitate the allocation of a budget to implement this Order, taking into account the funding requirement for various activities to be undertaken in connection hereof. The TELOF is authorized to provide the corresponding funds for the site development cost and other logistical requirements of this project.
+
+## SECTION 5
+
+_Separability Clause._ In the event that any provision hereof is declared invalid by any competent court of tribunal, the other provisions shall remain in full force and effect.
+
+## SECTION 6
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+IN WITNESS THEREOF, I have hereunto set my hand and caused the seal of the Republic of the Philippines to be affixed.
+
+DONE in the City of Manila, this 15th day of December in the year of Our Lord, Two Thousand and Six.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary
+
+Source: Malacañang Records Office
+Office of the President of the Philippines. (2006). [Executive Order Nos. : 501 – 600]. Manila : Malacañang Records Office.

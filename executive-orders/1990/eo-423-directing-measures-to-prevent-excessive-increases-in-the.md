@@ -1,0 +1,92 @@
+---
+title: "Executive Order No. 423 — Directing measures to prevent excessive increases in the prices of certain prime commodities in the National Capital Region"
+identifier: "Executive Order No. 423"
+number: "423"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1990-10-04
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1990/eo_423_1990.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1990/pdf/eo_423_1990.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 423
+
+**Directing measures to prevent excessive increases in the prices of certain prime commodities in the National Capital Region**
+
+**EXECUTIVE ORDER NO. 423 October 4, 1990**
+
+DIRECTING MEASURES TO PREVENT EXCESSIVE INCREASES IN THE PRICES OF CERTAIN PRIME COMMODITIES IN THE NATIONAL CAPITAL REGION
+
+WHEREAS, to prevent unreasonable increase in the prices of certain prime commodities as a result of adjustments in the domestic petroleum prices and the rise in the peso to dollar exchange rate, and to protect the people from hoarding, profiteering, injurious speculations, manipulation of prices and other activities calculated to take advantage of the situation, certain measures must be undertaken;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Sec. 1
+
+The Secretary of Trade and Industry is hereby directed to impose price ceilings on certain commodities in the National Capital Region and to take such measures as may be appropriate to ensure the availability of, and reasonable prices of, said commodities.
+
+## Sec. 2
+
+The prime commodities and their respective price ceilings are hereby set as follows:
+
+COMMODITY PRICE CEILING
+
+1\. RICE
+
+Well Regular NFA Milled Milled
+
+Miller to Wholesaler P465/Bag P445/Bag or or P9.30/kl. P8.90/kl.
+
+Wholesaler to Retailer P475/Bag P455/Bag or or P9.50/kl. P9.20/kl.
+
+Retailer to Consumer P500/Bag P475/Bag P7.50/kl. or or P10.00/kl. P9.50/kl.
+
+2\. MILK
+
+Sweetened Filled (300 ML) P14.60/can
+
+Evap Filled (370) ML) 11.85/can
+
+Powdered Filled (180 GM) 15.70/can
+
+Powdered Filled (200 GM) 17.50/can
+
+3\. SUGAR
+
+Refined (Inclusive of 10% VAT) P15.90/kilo Brown (VAT-exempt) 11.80/kilo
+
+4\. PORK LIEMPO with skin P56.00/kilo
+
+5\. HARD FOUR (25 Kg. bag) P270.00
+
+6\. CHICKEN (Fully Dressed) P55.00/kilo
+
+7\. COOKING OIL (Single Refined) Lapad (354 Grams) P4.20 Long Neck (708 Grams) P8.40
+
+The prices of kerosene and liquified petroleum gas (LPG) shall be those set by the Energy Regulatory Board (ERB).
+
+## Sec. 3
+
+The Secretary of the Department of Trade and Industry is hereby authorized to review, adjust or revise the aforesaid price ceilings on the prime commodities covered as may be warranted, subject to the approval of the Office of the President.
+
+## Sec. 4
+
+The Department of Trade and Industry is hereby directed to implement this Executive Order, to impose penalties as are provided for under Executive Order No. 913, Series of 1983 as well as to institute criminal and civil prosecutions under applicable laws.
+
+## Sec. 5
+
+The Department of Trade and Industry is hereby authorized to mobilize and deputize all government agencies and instrumentalities including the local governments, Philippines Constabulary/Integrated National Police, and other law enforcement agencies to strictly implement this Executive Order.
+
+## Sec. 6
+
+The nationwide price ceilings on rice provided for under National Emergency Memorandum Order No. 29 and the ceilings of certain prime commodities set by the Department of Trade and Industry in the areas severely stricken by the recent earthquake in accordance with Executive Order No. 414, S. of 1990, shall remain in force except in the National Capital Region where the price ceilings have been adjusted. Transport and handling add-on costs shall be allowed upon review and approval by the Regional Task Forces.
+
+## Sec. 7
+
+This Executive Order shall take effect immediately upon publication in a newspaper of general circulation and shall remain in effect until revoked.
+
+DONE in the City of Manila, this 4th day of October in the year of Our Lord, nineteen hundred and ninety.

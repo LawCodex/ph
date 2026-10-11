@@ -1,0 +1,69 @@
+---
+title: "Executive Order No. 848 — Authorizing the Use of the Special Account in the General Fund (Fund 151) of the Department of Energy for Purposes as May Be Directed By the President of the Philippines (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 848"
+number: "848"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2009-10-13
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2009/eo_848_2009.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2009/pdf/eo_848_2009.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 848
+
+**Authorizing the Use of the Special Account in the General Fund (Fund 151) of the Department of Energy for Purposes as May Be Directed By the President of the Philippines (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 848, October 13, 2009 ]
+
+AUTHORIZING THE USE OF THE SPECIAL ACCOUNT IN THE GENERAL FUND (FUND 151) OF THE DEPARTMENT OF ENERGY FOR PURPOSES AS MAY BE DIRECTED BY THE PRESIDENT OF THE PHILIPPINES
+
+WHEREAS, the Department of Energy (DOE) is authorized to collect fees, revenue and receipts from any and all sources including receipts from service contracts and agreements such as application and processing fees, signature bonus, discovery bonus, production bonus, collection from concessionaires, representing unspent work obligations, fines and penalties, royalties, rentals, production share on service contracts and similar payments on exploration, development and exploitation of energy resources in accordance with Sections 3 and 8 of Presidential Decree (P.D.) No. 910 (Creating an Energy Development Board, Defining its Powers and Functions, Providing Funds, Therefor, and For Other Purposes);
+
+**WHEREAS,** the above-enumerated collections has been constituted as a Special Account in the General Fund – Fund 151 (SAGF-151) of the DOE to be used to finance energy resource development and exploration programs and projects of the government and for such other purposes as may be directed by the President of the Philippines pursuant to Section 8 of P.D. No. 910; and
+
+**WHEREAS,** the SAGF-151 of the DOE may be utilized only by the DOE for the above-mentioned purposes under existing budgeting, accounting and auditing laws, rules and regulations.
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Release of Funds._ The Department of Budget and Management (DBM) is hereby authorized to release funds, in such amount as may be necessary, from the SAGF-151 of the DOE, to the implementing agency (IA) concerned, for purposes as may be authorized by the President of the Philippines: _Provided,_ That the release of funds shall be subject to the following:
+
+a. Request for release of funds by the IA;
+
+b. Bureau of the Treasury (BTr) certification on the availability of funds deposited with the SAGF-151 of the DOE; and
+
+c. Existing laws and budgetary, accounting and auditing rules and regulations.
+
+## Section 2
+
+_Implementing Agency._ The IA shall be responsible for the implementation of the programs and projects, and its disbursements/expenditures shall be subject to applicable laws and budgeting, accounting and auditing rules and regulations.
+
+For recording purposes, the DBM shall authorize the IA to open and maintain a SAGF for the amounts released pursuant to this Executive Order (EO). In case the IA is a Local Government Unit, the SAGF shall be issued to DBM; and if the IA is a Government Owned or Controlled Corporation, the SAGF shall be issued to the BTr.
+
+## Section 3
+
+_Repealing Clause._ All EOs, rules, regulations and other issuances or parts thereof, which are inconsistent with the provisions of this EO, are hereby repealed or modified accordingly.
+
+## Section 4
+
+_Effectivity._ This EO shall take effect immediately.
+
+Done in the City of Manila, this 13th day of October, in the year of Our Lord, Two Thousand and Nine.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EDUARDO R. ERMITA**
+Executive Secretary

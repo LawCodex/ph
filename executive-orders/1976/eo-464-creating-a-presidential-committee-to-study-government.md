@@ -1,0 +1,77 @@
+---
+title: "Executive Order No. 464 — Creating a Presidential Committee to Study Government Corporations"
+identifier: "Executive Order No. 464"
+number: "464"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1976-04-28
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1976/eo_464_1976.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 464
+
+**Creating a Presidential Committee to Study Government Corporations**
+
+**EXECUTIVE ORDER NO. 464 April 28, 1976**
+
+CREATING A PRESIDENTIAL COMMITTEE TO STUDY GOVERNMENT CORPORATIONS
+
+WHEREAS, the reorganization of national government departments, bureaus, offices and agencies has already been completed, implemented, and is now operational;
+
+WHEREAS, the government-wide reorganization included the sector on government-owned or controlled corporations only on a very limited basis;
+
+WHEREAS, there is now a proliferation of government corporations engaged in major industrial, commercial, infrastructure, and social projects and activities which affect the pace and quality of national development;
+
+WHEREAS, the multiplicity of government corporations and their comprehensive involvement in national affairs create a very complex situation which demands a more rational approach towards the organization, management, and supervision of all government corporations; and
+
+WHEREAS, there is a need to provide central policy direction, coordinative and monitoring mechanism for government corporations in order to maximize their resource inputs and allow them to vigorously implement the government's socio-economic projects.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and direct the following:
+
+## Sec. 1
+
+There is hereby created a Presidential Committee to Study Government Corporations to be composed of the Chairman of the Presidential Commission on Reorganization, Commissioner of the Budget, Secretary of Economic Planning, Secretary of Finance, and Secretary of Justice. The President shall designate the chairman from among the members. To facilitate the work of the Committee, the Presidential Commission on Reorganization and the Budget Commission shall provide it with the necessary technical and administrative staff support.
+
+## Sec. 2
+
+The Committee shall conduct and prepare a comprehensive study, review and assessment of all government-owned or controlled corporations and to recommend policy measures that could provide the overall organization, management and supervision of all government corporations. Specifically, the Committee shall inter alia perform the following:
+
+(a) Define explicitly the government's philosophy or policy on the role and objectives of government corporations in the overall scheme of national development and their relationship vis-a-vis private enterprise;
+
+(b) Formulate criteria on the "entry and exit" of government corporations on specific fields of endeavor;
+
+(c) Provide specific guidelines for determining the appropriateness or suitability of adopting the corporate structure as against other forms of organization;
+
+(d) Provide a clearer definition, systematic scheme of classification, and a framework for the possibility of standardizing the powers and authority of government corporations;
+
+(e) Devise a suitable mechanism or arrangement for the efficient and effective supervision and coordination of all government corporations as would avoid overlapping of functions and further ensure the public accountability of government corporations;
+
+(f) Lay down the framework for the integration of the various activities of government corporations on such matters as the creation of subsidiaries, investments, capital transfers, resource allocation and issuance of bonds or securities;
+
+(g) Provide benchmarks or indicators for the appropriate and accurate evaluation of corporate performance as well as ensure a continuing system of feedback and information on government corporations;
+
+(h) Establish guidelines for internal operating policies to ensure that these are compatible among government corporations and with policies applicable to the national government structure;
+
+(i) Propose criteria for use in the composition and selection of members of boards of directors of government corporations; and
+
+(j) Recommend policies and measures for the rationalization of existing government corporations, including proposals for the merger, abolition and reorientation of such corporations as well as proposals for appropriate revisions in existing corporate charters as may be indicated by the findings.
+
+## Sec. 3
+
+The autonomy of government corporations decide on basic policy and other substantive matters in accordance with their charter including the management of their day-to-day operations shall be observed and upheld. Government corporations shall refer to and include all government-owned or controlled corporations, whether performing proprietary or governmental functions including government entities granted with corporate power and personality. Excluded from the study in the Committee are state colleges and universities which are already being studied by the Presidential Committee to Study State Higher Education, as well as local governments which are being studied in connection with the formulation of the Local Governments Code.
+
+## Sec. 4
+
+The Committee is empowered to create study groups or panels of experts as may be necessary; to call on any government entity, official or employee for assistance; to secure all pertinent documents, financial records, or papers; and to perform such other functions as would facilitate its work. All government corporations are specifically directed to extend the necessary cooperation and assistance to the Committee in the performance of its task.
+
+## Sec. 5
+
+An appropriation of P300,000.00 is authorized for the incurrence of operating and necessary expenditures in connection with its study of government corporations. The Committee is directed to submit its report and recommendations on or before December 31, 1976.
+
+This Order shall take effect immediately.
+
+Done in the City of Manila, this 28th day of April in the year of Our Lord, nineteen hundred and seventy-six.

@@ -1,0 +1,48 @@
+---
+title: "Executive Order No. 57 — Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines"
+identifier: "Executive Order No. 57"
+number: "57"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1963-11-24
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1963/eo_57_1963.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1963/pdf/eo_57_1963.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 57
+
+**Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines**
+
+MALACAÑANG  
+RESIDENCE OF THE PRESIDENT OF THE PHILIPPINES  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 57, November 24, 1963 ]
+
+**PROVIDING INSTRUCTIONS TO BE FOLLOWED IN THE CONDUCT OF PUBLIC AFFAIRS DURING THE TIME THAT THE PRESIDENT IS OUTSIDE THE PHILIPPINES.**
+
+The following instructions are hereby issued for the conduct of public affairs during the absence of the President from the Philippines , on the occasion of his official visit to the United Stated from November 24, 1963 , until he returns from abroad;
+
+1\. The President of the Philippines shall continue to exercise all functions of his office as enjoined by the Constitution and the laws, in the same manner as when he is within the national territory. The Executive Secretary shall, as heretofore, sign all papers that are ordinarily signed by him or under the authority of the President.
+
+2\. Each Secretary of Department shall attend to and decide matters which to his department and which under the law he may decide. On those matters which require approval of the President, in case urgent action is needed, such approval shall be obtained by radio. On the other departmental business which, although within the jurisdiction of a Secretary of Department, is of such importance as to affect the general policies of the Government and, therefore, should be the subject of consultation with the President, the Secretary concerned may communicate for such purpose with the President by radio or other convenient means of communication.
+
+3\. All official communications to the President, whether by letter or by radio, shall be transmitted through or by the Executive Secretary.
+
+4\. The Vice-President shall represent the President in social functions requiring the presence of the latter and shall preside over official ceremonies, receive and return the official calls of foreign dignitaries in behalf and in representation of the President, and on such occasions the Vice-President shall be entitled to the honors and courtesies due the President of the Philippines .
+
+Done in the City of Manila, this 24th of November, in the year of Our Lord, nineteen hundred and sixty-three.
+
+(Sgd.) **DIOSDADO MACAPAGAL**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **SALVADOR L. MARIÑO**
+Acting Executive Secretary

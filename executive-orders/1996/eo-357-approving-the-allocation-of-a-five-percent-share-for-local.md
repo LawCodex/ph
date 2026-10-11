@@ -1,0 +1,60 @@
+---
+title: "Executive Order No. 357 — Approving the allocation of a five percent share for local government units from the Lotto Charity Fund and providing the sharing scheme therefor"
+identifier: "Executive Order No. 357"
+number: "357"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1996-08-05
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1996/eo_357_1996.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1996/pdf/eo_357_1996.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 357
+
+**Approving the allocation of a five percent share for local government units from the Lotto Charity Fund and providing the sharing scheme therefor**
+
+EXECUTIVE ORDER NO. 357 August 5, 1996
+
+APPROVING THE ALLOCATION OF A FIVE PERCENT SHARE FOR LOCAL GOVERNMENT UNITS FROM THE LOTTO CHARITY FUND AND PROVIDING THE SHARING SCHEME THEREFOR
+
+WHEREAS, the Philippine Charity Sweepstakes Office (PCSO) is the principal government agency for raising and providing funds for health programs, medical assistance and services and charities of national character;
+
+WHEREAS, the PCSO is also the national agency responsible for operating and supervising the charity sweepstakes races, the lottery and other similar activities as a source of funds consistent with its charter;
+
+WHEREAS, the PCSO rules mandate the setting aside of thirty (30%) percent of its net receipts from its lotto operations as a Lotto Charity Fund;
+
+WHEREAS, the PCSO Board of Directors has resolved to grant five (5%) percent of the thirty (30%) percent Lotto Charity Fund in favor of the local government units where lotto tickets are sold;
+
+WHEREAS, Republic Act No. 1167 entitled "An Act Providing for Charity Sweepstakes, Horse Races and Lotteries" requires presidential approval for grants such as that made by the PCSO Board in favor of the local government units where lotto tickets are sold;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:
+
+## SECTION 1
+
+Approval of Five (5%) Percent Grant to LGUs. The grant of a five (5%) percent share from the thirty (30%) percent Lotto Charity Fund in favor of local government units where lotto tickets are sold, subject to the applicable provisions on the use thereof under RA No. 1167, is hereby approved.
+
+## SEC. 2
+
+Sharing of Funds by LGUs. The local government units entitled, under Section 1 hereof, to the five (5%) percent share in the Lotto Charity Fund shall receive the same in the following manner:
+
+1\. Municipalities C five (5%),percent to be shared on a 3:2 ratio between the municipality concerned and its province; and
+
+2\. Cities C five (5%) percent.
+
+## SEC. 3
+
+Drawdown Period's. For purposes of administrative facility, drawdowns by the local government units concerned shall be made on a semestral basis, i.e., every six (6) months.
+
+## SEC. 4
+
+Availment of the Five (5%) Percent Fund. Local non-governmental organizations (NGOs), institutions and agencies performing charity work shall, at the level of the proper LGU, have access to and may avail of the fund allocated to such LGU subject to limitations as to use as laid down in RA No. 1167.
+
+## SEC. 5
+
+Effectivity. This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 5th day of August in the year of Our Lord, Nineteen Hundred and Ninety-Six.

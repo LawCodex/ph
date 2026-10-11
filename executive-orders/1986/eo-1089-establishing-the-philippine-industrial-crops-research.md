@@ -1,0 +1,72 @@
+---
+title: "Executive Order No. 1089 — Establishing the Philippine Industrial Crops Research Institute At the University of Southern Mindanao, Kabacan, Cotabato"
+identifier: "Executive Order No. 1089"
+number: "1089"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1986-02-04
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1986/eo_1089_1986.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 1089
+
+**Establishing the Philippine Industrial Crops Research Institute At the University of Southern Mindanao, Kabacan, Cotabato**
+
+**EXECUTIVE ORDER NO. 1089 February 4, 1986**
+
+ESTABLISHING THE PHILIPPINE INDUSTRIAL CROPS RESEARCH INSTITUTE AT THE UNIVERSITY OF SOUTHERN MINDANAO, KABACAN, COTABATO
+
+WHEREAS, rubber, coffee, cacao, spices, ramie and kenaf and other industrial crops are very important crops providing farming opportunities and employment to hundreds of thousands of families in Mindanao;
+
+WHEREAS, these industrial crops have not been given sufficient attention in terms of research and development to assure their continuing programs and profitability;
+
+WHEREAS, these industrial crops have not been given sufficient attention in terms of research and development to assure their continuing programs and profitability;
+
+WHEREAS, the University of Southern Mindanao at Kabacan, Cotabato is ideally located to conduct research and development and extension for these industrial crops considering the University's highly trained manpower in the agricultural sciences and the availability of land resources to conduct research;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416, as amended, do hereby order the following:
+
+## Sec. 1
+
+Establishment. There is hereby established the Philippine Industrial; Crops Research Institute under the University of Southern Mindanao at Kabacan, Cotabato, hereinafter referred to as the Institute.
+
+## Sec. 2
+
+Purposes. The Institute shall develop, in coordination with the Philippine Council for Agriculture and Resources Research and Development (PCARRD), a national industrial crops research and development and extension program so as to sustain and improve further the production of rubber, coffee, cacao, ramie, kenaf, spices and other industrial crops.
+
+## Sec. 3
+
+Advisory Board. While the Institute is under the administrative supervision and control of the University of Southern Mindanao, the plans, programs and priorities of the Institute shall be approved by an Advisory Board composed of the following:
+
+a) The President, University of Southern Mindanao, as Chairman;
+
+b) The Executive Director, Philippine Council for Agriculture and Resources Research and Development (PCARRD), as Vice Chairman;
+
+c) The Regional Directors of the Ministry of Agriculture and Food and National Science and Technology Authority of Region XII;
+
+d) Two representatives of the private sector elected by the ex-officio members of the Board;
+
+e) The Director of the Institute as member and Secretary.
+
+## Sec. 4
+
+Director. The Institute shall be headed by a Director appointed by the Board of Regents of the University upon recommendation of the Advisory Board of the Institute.
+
+The Director shall be directly responsible to the Advisory Board for the over-all supervision and direction of the programs and activities of the Institute.
+
+## Sec. 5
+
+Appropriation. The Ministry of the Budget is hereby directed to release the amount of Five Million Pesos as the initial operating fund of the Institute for Fiscal Year 1986 to be drawn from the Special Activities Fund.
+
+Thereafter, the budget of the Institute shall be provided in the annual General Appropriations Act.
+
+## Sec. 6
+
+Effectivity. This Executive Order shall take effect immediately.
+
+Done in the City of Davao this 4th day of February, in the year of our Lord Nineteen Hundred and Eighty-six.

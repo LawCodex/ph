@@ -1,0 +1,45 @@
+---
+title: "Executive Order No. 115 — Reorganizing the Council of National Defense"
+identifier: "Executive Order No. 115"
+number: "115"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1955-05-27
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1955/eo_115_1955.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1955/pdf/eo_115_1955.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 115
+
+**Reorganizing the Council of National Defense**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 115, May 27, 1955 ]
+
+REORGANIZING THE COUNCIL OF NATIONAL DEFENSE
+
+Pursuant to the powers vested in me by law, **I, RAMON MAGSAYSAY** , President of the Philippines, do hereby create a National Security Council which shall be composed of the President, as Chairman, the Vice President, the President of the Senate, the Speaker of the House of Representatives, the members of the Cabinet, the Chief of Staff of the Armed Forces of the Philippines, the Undersecretary of Foreign Affairs, the National Civil Defense Administrator, the Chairman of the Committee on National Defense and Security of the Senate, the Chairman of the National Defense Committee of the House of Representatives, and the Chairman, respectively, of the Committees on Foreign Affairs of the Senate and of the House of Representatives.
+
+The Secretary of the Council shall be an officer of the Armed Forces of the Philippines to be designated by the President upon recommendation of the Secretary of National Defense.
+
+The Security Council shall advise the President on matters of national defense and security and shall make recommendations on such other subjects as the President may from time to time submit for study and consideration. It shall also perform the duties and functions provided in Executive Order No. 35, dated May 20, 1954.
+
+Executive Order No. 3, dated November 16, 1935; Executive Order No. 40, dated January 13, 1947; Executive Order No. 330, dated July 1, 1950; Executive Order No. 437, dated April 28, 1951; and Executive Order No. 576, dated March 23, 1953, and all other orders inconsistent herewith, are hereby repealed or modified accordingly.
+
+Done in the City of Manila, this 27th day of May, in the year of Our Lord, nineteen hundred and fifty-five, and of the Independence of the Philippines, the ninth.
+
+(Sgd.) **RAMON MAGSAYSAY**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **MARIANO YENKO, JR.**
+Assistant Executive Secretary

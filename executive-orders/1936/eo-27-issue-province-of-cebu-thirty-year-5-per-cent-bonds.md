@@ -1,0 +1,48 @@
+---
+title: "Executive Order No. 27 — Order of Issue, Province of Cebu Thirty-Year 5 Per Cent Bonds"
+identifier: "Executive Order No. 27"
+number: "27"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1936-05-04
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1936/eo_27_1936.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1936/pdf/eo_27_1936.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 27
+
+**Order of Issue, Province of Cebu Thirty-Year 5 Per Cent Bonds**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 27, May 04, 1936 ]
+
+**ORDER OF ISSUE, PROVINCE OF CEBU THIRTY-YEAR 5 PER CENT BONDS**
+
+**WHEREAS** Act Numbered Three thousand four hundred seventy-one authorizes the issue of Insular bonds in the amount of five hundred thousand pesos, the proceeds of the sale of which shall be used by the Commonwealth of the Philippines for the purchase of an equivalent par amount of bonds of the Province of Cebu to be issued for the purpose of raising funds for the construction of a provincial capitol building;
+
+**WHEREAS** the provincial board of Cebu, on the twenty-fifth day of November, nineteen hundred and thirty-five, by Resolution Numbered One thousand five hundred two, series of nineteen hundred and thirty-five, duly adopted, requested the issue and sale of bonds in the amount of five hundred thousand pesos, under the provisions of section one of Act Numbered Three thousand four hundred seventy-one;
+
+**WHEREAS** Act Numbered Three thousand seven hundred eleven, as amended by Act Numbered Four thousand two hundred forty-seven, authorizes the President of the Philippines, upon the recommendation of the Secretary of Finance, to issue in the name and on behalf of the Commonwealth of the Philippines the bonds authorized to be issued under section three of Act Numbered Three thousand four hundred seventy-one and to sell the said bonds in the Philippine Islands, thru the Insular Treasurer, upon such terms and conditions as in his judgment are most favorable to the Commonwealth of the Philippines; and
+
+**WHEREAS** the Secretary of Finance, in his indorsement dated April thirtieth, nineteen hundred and thirty-six, recommends the issue of Insular bonds authorized to be issued under Act Numbered Three thousand four hundred seventy-one in the amount of five hundred thousand pesos and the sale thereof in the Philippine Islands as prescribed in the said Act Numbered Three thousand seven hundred eleven, as amended by Act Numbered Four thousand two hundred forty-seven;
+
+**NOW, THEREFORE,** pursuant to the provisions of Act Numbered Three thousand four hundred seventy-one and of Act Numbered Three thousand seven hundred eleven, as amended by Act Numbered Four thousand two hundred forty-seven, above mentioned, I, Manuel L. Quezon, President of the Philippines, in the name and on behalf of the Commonwealth of the Philippines, hereby authorize the issuance of, and by these presents do issue, for sale in the Philippine Islands at public auction at not below par, Insular bonds in the amount of five hundred thousand pesos, Philippine currency, to bear the date of May fourth, nineteen hundred and thirty-six, payable thirty years after said date, with interest at the rate of five per centum per annum, payable semi-annually. The bonds shall be in the denominations of fifty pesos, or a multiple thereof, and may be coupon bonds or registered bonds, and shall be registered in the Treasury of the Philippines at Manila, where the principal and interest shall be payable in legal tender currency of the Philippines or its equivalent in legal tender currency of the United States, in the discretion of the Insular Treasurer.
+
+Done at the City of Manila, this fourth day of May, in the year of Our Lord, nineteen hundred and thirty-six, and of the Commonwealth of the Philippines, the first.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ELPIDIO QUIRINO**
+Secretary of the Interior

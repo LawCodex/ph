@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 527 — Administration of the Home Development Mutual Funds Created Under P.D. No. 1530"
+identifier: "Executive Order No. 527"
+number: "527"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1979-03-01
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1979/eo_527_1979.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 527
+
+**Administration of the Home Development Mutual Funds Created Under P.D. No. 1530**
+
+**EXECUTIVE ORDER NO. 527 March 1, 1979**
+
+ADMINISTRATION OF THE HOME DEVELOPMENT MUTUAL FUNDS CREATED UNDER P.D. NO. 1530
+
+WHEREAS, Presidential Decree No. 1530 has created the Home Development Mutual Funds for the purpose of assisting employees of both the government and the private sectors in acquiring or constructing their own homes;
+
+WHEREAS, the said Home Development Mutual Funds could not attain viability on their own and may only by harnessed fully if me get with other long-term funds;
+
+WHEREAS, the government has declared housing as a major national concern and has created a National Home Mortgage Finance Corporation which has been charged with the development of a secondary market for home mortgages and financial strategies to solve the housing problem;
+
+WHEREAS, there is an urgent need to consolidate all long-term, low-interest housing funds under the administration of a singular agency to support the National Shelter Program of the Ministry of Humans Settlements;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President and Prime Minister of the Republic of the Philippines, by virtue of the powers vested in me by the constitution, do hereby order:
+
+1\. The administration, custody, disposal and utilization of the Home Development mutual Funds created under Presidential Decree No. 1530 are transferred from the Government Service Insurance System (GSIS) and the Social Security System (SSS), respectively to the National Home Mortgage Finance Corporation (NHMFC), including the authority to promulgate the implementing rules and regulations pertaining to the aforesaid functions, transmittal of periodic collections by the GSIS and SSS, membership matters, privileges and benefits, and availment and enforcement of housing loans;
+
+2\. The GSIS and SSS shall continue with the collection of the said Funds and turnover the same periodically the NHMFC, which shall pay service fees for such collections, provided, however, that the fees shall not exceed 4% of the said Funds;
+
+3\. The NHMFC shall support the collection activities of the GSIS and SSS with a nationwide information and education campaign the cost of which shall not exceed 1/2% of the said funds;
+
+4\. This order shall take effect immediately.
+
+Done in the City of Manila, this 1st day of March, in the Year of Our Lord Nineteen Hundred and Seventy-Nine.

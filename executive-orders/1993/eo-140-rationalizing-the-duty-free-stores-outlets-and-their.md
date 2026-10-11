@@ -1,0 +1,64 @@
+---
+title: "Executive Order No. 140 — Rationalizing the Duty Free stores/outlets and their operations in the Philippines and for other purposes"
+identifier: "Executive Order No. 140"
+number: "140"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-11-30
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_140_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_140_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 140
+
+**Rationalizing the Duty Free stores/outlets and their operations in the Philippines and for other purposes**
+
+**EXECUTIVE ORDER NO. 140 November 30, 1993**
+
+RATIONALIZING THE DUTY FREE STORES/OUTLETS AND THEIR OPERATIONS IN THE PHILIPPINES AND FOR OTHER PURPOSES
+
+WHEREAS, duty free stores/outlets have proliferated in areas beyond international ports of entry and expanded product lines that broaden entry of duty free goods into the domestic economy with adverse effects on local enterprises in manufacturing and retailing;
+
+WHEREAS, Executive Order No. 68 imposes, effective April 1, 1993, an entrance fee of P50.00 on entry of all non-passengers to duty free shops operated by the Duty Free Philippines, to mobilize revenue for budgetary requirements and dampen access of non-passengers in order to mitigate adverse impact on local enterprises of large volume of duty free goods entered through duty free shops;
+
+WHEREAS, there is a further need to conduct a comprehensive study on the operational aspects of all duty free stores/outlets, including those in the Subic Special Economic Zone and the former Clark Air Base, in order to evolve a more wholistic policy approach thereon, but in the meantime, adopt certain measures to address the aforementioned problems;
+
+WHEREAS, the P50.00 entrance fee has not been imposed on other duty free shops operating in special economic zones which are Subic and Clark areas, to the disadvantage of Duty Free Philippines;
+
+WHEREAS, in the spirit of the forthcoming Christmas Season and in support of the government's Balikbayan Program, it is deemed appropriate to lift the P50.00 entrance fee presently imposed.
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order, as follows:
+
+## Sec. 1
+
+There shall be a moratorium on the establishment of duty free stores/outlets, except those to be situated at international ports of entry (such as the one at the Davao International Airport). This moratorium shall also apply to duty free store/outlets to be set-up at the Subic Special Economic Zone and/or the former Clark Air Base; and on proposals expanding any of the operational aspects of duty free stores/outlets (such as opening the stores to AFP personnel or retirees under the Philippine Retirement Program, increasing the shopping limits and/or extending the shopping time, among others).
+
+## Sec. 2
+
+Duty free stores/outlets which are not located in international ports of entry such as the Paskuhan Village at San Fernando, Pampanga and the one at the PICC shall be phased out.
+
+## Sec. 3
+
+The Duty Free Philippines shall limit advertisement for duty free shopping to international ports of entry, duty free stores/outlets/order centers, international airlines and travel agencies, as well as publications devoted to international travel and tourism, to avoid undue competition with domestic establishments and industries.
+
+## Sec. 4
+
+The Duty Free Philippines shall remit to the National Government an amount equivalent to 1.5 percent of its net sales.
+
+## Sec. 5
+
+The Department of Finance and the Department of Tourism, in coordination with other concerned government institutions and industry chambers/associations, shall conduct a comprehensive study with the end in view of formulating a wholistic policy approach on the operational aspects (such as kinds of goods to be sold, shopping time and limits, access to the public, acceptable currency, monitoring/reporting requirements, among others) of all duty free stores, including those in the Subic Special Economic Zone and the former Clark Air Base. The study shall be submitted to the Office of the President within one month's time after the effectivity of this Executive Order.
+
+## Sec. 6
+
+Executive Order No. 68 is hereby revoked.
+
+## Sec. 7
+
+This Executive Order shall take effect immediately.
+
+DONE, in the City of Manila, this 30th day of November, in the Year of Our Lord, Nineteen Hundred and Ninety-Three.

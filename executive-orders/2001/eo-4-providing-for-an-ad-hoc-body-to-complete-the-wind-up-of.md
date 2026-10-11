@@ -1,0 +1,69 @@
+---
+title: "Executive Order No. 4 — Providing for An Ad Hoc Body to Complete the Wind Up of Activities of the Mt. Pinatubo Assistance, Rehabilitation and Development Commission (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 4"
+number: "4"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2001-03-05
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2001/eo_4_2001.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2001/pdf/eo_4_2001.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 4
+
+**Providing for An Ad Hoc Body to Complete the Wind Up of Activities of the Mt. Pinatubo Assistance, Rehabilitation and Development Commission (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 4, March 5, 2001 ]
+
+PROVIDING FOR AN AD HOC BODY TO COMPLETE THE WIND UP OF ACTIVITIES OF THE MT. PINATUBO ASSISTANCE, REHABILITATION AND DEVELOPMENT COMMISSION
+
+WHEREAS, as stipulated under Republic Act 7637 and Proclamation No. 1201, the Mt. Pinatubo Assistance, Rehabilitation and Development Commission (MPC) shall expire by 31 December 2000;
+
+**WHEREAS,** under Executive Order 269 dated 19 July 2000, provisions were made to facilitate the wind-up of the MPC, primary of which was the designation of the Department of Budget and Management (DBM) as the lead agency of the Commission to supervise the closure of the MPC;
+
+**WHEREAS,** an Inter-Agency Committee has been ordered for creation under EO 269 for a period not exceeding one (1) year to assist the DBM in activities related to the winding up of the MPC;
+
+**WHEREAS,** there is a need for a body composed of the former MPC technical and administrative personnel to assist the Inter-Agency Committee and finish the winding-up activities of the MPC;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order and direct as follows:
+
+## Section 1
+
+A Task Force to Wind up MPC activities (Task Force) is hereby created as an ad hoc support body with the sole purpose of completing the wind-up of the MPC from 1 January to 31 March 2001. The Task Force will be under the direct supervision of the DBM.
+
+## Section 2
+
+The DBM is hereby authorized to retain the number of personnel necessary to complete the exit activities of the MPC under individual service contracts. All unutilized balances of the PARD funds allocated under RA 7637, to include appropriations, allotments and cash, are directed for transfer to the DBM, from which shall be drawn funds to support the operating expenses of the Task Force.
+
+## Section 3
+
+The remuneration of the former MPC personnel under the Task Force shall be pegged at their respective salary reckoned as of 31 December 2000.
+
+Upon submission of the terminal report of the MPC on or before 31 March 2001, the Task Force is hereby automatically deemed terminated.
+
+## Section 4
+
+All records, documents and data pertinent to the operations of the MPC shall be prepared for turnover by the Task Force to the DBM upon its termination.
+
+## Section 5
+
+This Order shall take effect immediately upon signing.
+
+Done in the City of Manila, this 5th day of March, in the year of Our Lord, two thousand and one.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **RENATO S. DE VILLA**
+Executive Secretary

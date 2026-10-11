@@ -1,0 +1,64 @@
+---
+title: "Executive Order No. 108 — Directing the Philippine Charity Sweepstakes Office to Set Aside a Portion of the Standby Fund Under Executive Order No. 201 (S. 2003) to Cover the Financial Requirements of the National Government’S Response to Cases of Covid-19 in the Country, Amending Eo No. 201 and for Other Purposes (Rodrigo Duterte)"
+identifier: "Executive Order No. 108"
+number: "108"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2020-03-14
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2020/eo_108_2020.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2020/pdf/eo_108_2020.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 108
+
+**Directing the Philippine Charity Sweepstakes Office to Set Aside a Portion of the Standby Fund Under Executive Order No. 201 (S. 2003) to Cover the Financial Requirements of the National Government’S Response to Cases of Covid-19 in the Country, Amending Eo No. 201 and for Other Purposes (Rodrigo Duterte)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 108, March 14, 2020 ]
+
+DIRECTING THE PHILIPPINE CHARITY SWEEPSTAKES OFFICE TO SET ASIDE A PORTION OF THE STANDBY FUND UNDER EXECUTIVE ORDER NO. 201 (S. 2003) TO COVER THE FINANCIAL REQUIREMENTS OF THE NATIONAL GOVERNMENT'S RESPONSE TO CASES OF COViD-19 IN THE COUNTRY. AMENDING EO NO. 201 AND FOR OTHER PURPOSES
+
+WHEREAS, Article II, Section 15 of the Constitution provides that the State shall protect and promote the right to health of the people and instill health consciousness among them;
+
+**WHEREAS,** Executive Order (EO) No. 201 (s. 2003) instituted measures to confine, restrict and prevent the further spread of the Severe Acute Respiratory Syndrome (SARS) outbreak, setting aside for said purpose an amount not exceeding £ 1 Billion from the funds of the Philippine Charity Sweepstakes Office (PCSO);
+
+**WHEREAS,** the Inter-Agency Task Force for the Management of Emerging Infectious Diseases (IATF-MEID) under EO No. 168 (s. 2014) is mandated to establish the systems and protocols necessary for the management of emerging infectious diseases in the country, such as COVID-19;
+
+**WHEREAS,** the Department of Health (DOH) has confirmed the first local transmission of COVID-19 in the country and has elevated the COVID-19 alert system to Code Red status;
+
+**WHEREAS,** through Board Resolution No. 0077 (s. 2020). the PCSO, in consultation with the DOH, resolved and recommended the utilization of fifty percent (50%) of the remainder of the standby fund under EO No. 201 to cover the financial requirements for the management of COVID-19 cases in the country; and
+
+**WHEREAS,** there is a need to mobilize resources in order to facilitate and amplify measures for the management of COViD-19 in the country;
+
+**NOW THEREFORE, I, RODRIGO ROA DUTERTE** , President of the Philippines. by virtue of the powers vested in me by the Constitution and existing laws, do hereby
+
+## Section 1
+
+The PCSO is hereby directed to set aside the amount of P420,585,000.00, corresponding to fifty percent (50%) of the remainder of the standby fund under Section 4 of EO No. 201. to cover the financial requirements for the treatment, containment, prevention and management of COVID-19 cases in the country. The other 50% shall continue to cover the funding necessary to respond to future cases of SARS in the Philippines.
+
+The _IATF-MEID._ through the DOH. shall coordinate with the PCSO relative to the release of the abovementioned funds, subject to applicable budgeting, accounting and auditing Saws, rules and regulations.
+
+## Section 2
+
+Except for the foregoing amendment, all other provisions of EO No. 201 shall remain in full force and effect.
+
+## Section 3
+
+This Order shall take effect immediately.
+
+**DONE,** in the City of Manila, this 14th day of March, in the year of Our Lord, Two Thousand Twenty.
+
+(SGD.) **RODRIGO ROA DUTERTE**
+
+By the President:
+
+(SGD.) **SALVADOR C. MEDIALDEA**
+Executive Secretary

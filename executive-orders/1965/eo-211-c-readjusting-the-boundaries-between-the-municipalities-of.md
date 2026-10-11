@@ -1,0 +1,43 @@
+---
+title: "Executive Order No. 211-C — Readjusting the Boundaries Between the Municipalities of Kumalarang and Maruing in the Province of Zamboanga Del Sur."
+identifier: "Executive Order No. 211-C"
+number: "211-C"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1965-11-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1965/eo_211-c_1965.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1965/pdf/eo_211-c_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 211-C
+
+**Readjusting the Boundaries Between the Municipalities of Kumalarang and Maruing in the Province of Zamboanga Del Sur.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 211-C, November 29, 1965 ]
+
+READJUSTING THE BOUNDARIES BETWEEN THE MUNICIPALITIES OF KUMALARANG AND MARUING IN THE PROVINCE OF ZAMBOANGA DEL SUR.
+
+Upon the recommendation of the Provincial Board of Zamboanga del Sur and pursuant to the provisions of Section 68 of the Revised Administrative Code, the boundaries between the municipalities of Kumalarang and Maruing in the province of Zamboanga del Sur are hereby readjusted as follows:
+
+“Beginning at point 1, the intersection of Buug-Kumalarang municipal boundary and the shoreline of Dumanguillas Bay; thence, due North until it intersects the Provincial boundary of Zamboanga del Sur and Zamboanga del Norte called point 2; thence, following the provincial boundary in Easterly direction with a distance of 9.5 kms. called point 3; thence, due South to the outlet of Lake Wood called point 4; thence, following Kumalarang river downstream to point 5, junction of Kumalarang and Gawil river; thence, in Southwest direction to Buyugan Primary School called point 6; thence, in straight Southwest direction to the mouth of Bualan river called point 7; thence, following the shoreline in a counter clockwise direction to point 1, the point of beginning.” (From the technical description prepared by the Office of the Highway District Engineer of Zamboanga del Sur based on Resolution No. 555, series of 1964 of the Provincial road of Zamboanga del Sur.)
+
+The readjustment herein made shall have the effect of amending Executive Order Nos. 356 and 96, series of 1959 and 1964, respectively, creating the municipalities of Kumalarang and Maruing, insofar as their boundaries are concerned.
+
+Done in the City of Manila, this 29th day of November, in the year of Our Lord, nineteen hundred and sixty-five.
+
+(Sgd.) **DIOSDADO MACAPAGAL**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **SALVADOR L. MARIÑO**
+Acting Executive Secretary

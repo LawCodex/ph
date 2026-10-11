@@ -1,0 +1,54 @@
+---
+title: "Executive Order No. 263 — Authorizing the Printing of the Dictionary and Grammar of the National Language, and Fixing the Day From Which Said Language Shall Be Used and Taught in the Public and Private Schools of the Philippines"
+identifier: "Executive Order No. 263"
+number: "263"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1940-04-01
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1940/eo_263_1940.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1940/pdf/eo_263_1940.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 263
+
+**Authorizing the Printing of the Dictionary and Grammar of the National Language, and Fixing the Day From Which Said Language Shall Be Used and Taught in the Public and Private Schools of the Philippines**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 263, April 01, 1940 ]
+
+AUTHORIZING THE PRINTING OF THE DICTIONARY AND GRAMMAR OF THE NATIONAL LANGUAGE, AND FIXING THE DAY FROM WHICH SAID LANGUAGE SHALL BE USED AND TAUGHT IN THE PUBLIC AND PRIVATE SCHOOLS OF THE PHILIPPINES
+
+WHEREAS, Executive Order No. 134, dated December 30, 1937, proclaimed Tagalog as the basis of the national language of the Philippines and decreed that said Executive Order shall take effect two years from the date of its promulgation;
+
+**WHEREAS,** Commonwealth Act No. 184, as amended by Commonwealth Act No. 333, provides, among other things, that:
+
+“Sec. 8. Upon the proclamation of the national language by the President of the Philippines, it shall be the duty of the Institute of National Language to prepare a dictionary and a grammar of the national language. x x x
+
+“Sec. 9. Not later than two years after the proclamation of the national language by the President of the Philippines, the Institute of National Language shall publish the dictionary and grammar of the national language prepared as provided for in the preceding section, and the President of the Philippines shall issue orders to the Department of Public Instruction to the effect that, beginning with a day to be fixed by the President of the Philippines, said national language shall be used and taught in all public and private schools of the Philippines, in accordance with the dictionary and grammar prepared and published by the Institute of National Language.”;
+
+**WHEREAS,** the Institute of National Language, pursuant to the provisions of the law quoted above, has prepared and submitted to the President of the Philippines “A Tagalog-English Vocabulary” and a grammar of the national language of the Philippines entitled “Ang Balarila ñg Wikang Pambansa“; and
+
+**WHEREAS,** the mandate contained in Section 3 of Article XIII of the Constitution of the Philippines, enjoining the adoption of a common national language based on one of the existing native languages, and the provisions of Commonwealth Act No. 184, as amended by Commonwealth Act No. 333, are imperative;
+
+**NOW, THEREFORE, I, MANUEL L. QUEZON** , President of the Philippines, by virtue of the powers vested in me by Commonwealth Act No. 184, as amended by Commonwealth Act No. 333, do hereby authorize the printing and publication of “A Tagalog-English Vocabulary” and a grammar of the national language of the Philippines entitled “Ang Balarila ñg Wikang Pambansa,” and direct that, beginning on the nineteenth day of June, nineteen hundred and forty, the national language of the Philippines shall be taught in all public and private schools of the country. The Secretary of Public Instruction shall, with the approval of the President of the Philippines, prepare the necessary rules and regulations to carry out this order into effect.
+
+In view of the fact that with the preparation and completion of “A Tagalog-English Vocabulary” and a grammar of the national language of the Philippines entitled “Ang Balarila ñg Wikang Pambansa,” the Institute of National Language has already performed the main duties imposed upon it by law, it will not be necessary for the Members of the Institute to hold further sessions, unless otherwise directed by the President.
+
+Done at the City of Manila, this 1st day of April, in the year of Our Lord, nineteen hundred and forty, and of the Commonwealth of the Philippines, the fifth.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

@@ -1,0 +1,126 @@
+---
+title: "Executive Order No. 101 — Creating an Inter-Agency Task Force on Zero Hunger (Rodrigo Duterte)"
+identifier: "Executive Order No. 101"
+number: "101"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2020-01-10
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2020/eo_101_2020.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2020/pdf/eo_101_2020.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 101
+
+**Creating an Inter-Agency Task Force on Zero Hunger (Rodrigo Duterte)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 101, January 10, 2020 ]
+
+CREATING AN INTER-AGENCY TASK FORCE ON ZERO HUNGER
+
+WHEREAS, Section 11, Article XIII of the Constitution provides that the State shall adopt an integrated and comprehensive approach to health development, which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost;
+
+**WHEREAS,** Paragraph 2, Article 11 of the Internatiohal Covenant on Economic, Social and Cultural Rights provides that States Parties recognize the fundamental right of everyone to be free from hunger, and shall take, individually and through international cooperation, measures to improve methods of production, conservation and distribution of food;
+
+**WHEREAS,** the United Nations 2030 Agenda for Sustainable Development identifies as Sustainable Development Goal No. 2, the objective of ending hunger, achieving food security and improved nutrition, and promoting sustainable agriculture;
+
+**WHEREAS,** involuntary hunger, food security, undemutrition, and child wasting, stunting and mortality, continue to be serious concerns in the country;
+
+**WHEREAS,** there is a need to carefully coordinate, rationalize, monitor and assess the efforts of concerned government agencies and instrumentalities to ensure a whole-of-government approach to eradicating hunger and achieving food security; and
+
+**WHEREAS,** Section 17, Article VII of the Constitution provides that the President shall have control of all executive departments, bureaus and offices, and shall ensure that the laws are faithfully executed;
+
+**NOW, THEREFORE, I, RODRIGO ROA DUTERTE** , President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+## Section 1
+
+_Creation of the Inter-Agency Task Force on Zero Hunger._ The Inter-Agency Task Force on Zero Hunger (Task Force) is hereby created, to be composed of the following:
+
+Chairperson: The Cabinet Secretary
+
+Vice Chairpersons: Secretary, Department of Social Welfare and Development
+
+Members: Secretary, Department of Agriculture
+
+Secretary, Department of Agrarian Reform
+
+Secretary, Department of Budget and Management
+
+Secretary, Department of Education
+
+Secretary, Department of Environment and Natural Resources
+
+Secretary, Department of Health
+
+Secretary, Department of Labor and Employment
+
+Secretary, Department of the Interior and Local Government
+
+Secretary, Department of Trade and Industry
+
+Secretary, Department of Science and Technology
+
+Secretary, Presidential Communications Operations Office
+
+Director General, National' Economic and Development Authority
+
+Chairperson, Commission on Higher Education
+
+The Task Force members may designate an alternate to represent their respective offices in their absence. Such alternate must be fully authorized to decide for and on behalf of the Task Force member.
+
+## Section 2
+
+_Powers and Functions of the Task Force._ The Task Force shall ensure that government policies, initiatives and projects on attaining zero hunger shall be coordinated, responsive and effective. Towards this end, the Task Force shall have the following powers and functions:
+
+a. Formulate a National Food Policy (NFP), which shall outline national priorities based on a comprehensive understanding of the problem of hunger and related issues, and shall provide a roadmap for achieving zero hunger, taking into consideration existing laws and issuances, as well as international law and treaty obligations. The NFP shall include initiatives for ending hunger, achieving food security, improving nutrition, and promoting sustainable agriculture;
+
+b. Coordinate and rationalize the efforts of concerned government agencies and instrumentalities to ensure a whole-of-govemment approach to attaining zero hunger;
+
+c. Monitor and evaluate, through the identification of key performance indicators, the government's progress in ending hunger, achieving food security, improving nutrition, and promoting sustainable agriculture;
+
+d. Create technical working groups from among its member-agencies to address particular concerns relative to the implementation of this Order;
+
+e. Prepare and submit to the President annual reports on the state of hunger, food security, nutrition and agricultural production in the country, as well as the Task Force's initiatives and recommendations relative thereto; and
+
+f. Perform such other functions as may be directed by the President.
+
+## Section 3
+
+_Secretariat._ The Task Force shall have a Secretariat to be composed of personnel from its member-agencies, which shall provide administrative, operational and technical assistance to the Task Force.
+
+## Section 4
+
+_Support of Government Agencies._ The Task Force may enlist the support and assistance of other government agencies and instrumentalities in the attainment of the objectives of this Order. Local government units are enjoined to render such necessary assistance to the Task Force in the implementation of this Order.
+
+## Section 5
+
+_Funding._ The initial funding requirements for the implementation of this Order shall be charged against the current appropriations of the member-agencies of the Task Force. The budgetary requirements for the succeeding years shall be included in the annual budget proposals of the concerned agencies.
+
+## Section 6
+
+_Separability._ If any provision of this Order is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in full force and effect.
+
+## Section 7
+
+_Repeal._ Orders and issuances inconsistent with this Order are hereby repealed or amended accordingly.
+
+## Section 8
+
+_Effectivity._ This Order shall take effect immediately.
+
+**DONE,** in the City of Manila, this 10th day of January, in the year of our Lord, Two Thousand and Twenty.
+
+(SGD.) **RODRIGO ROA DUTERTE**
+
+By the President:
+
+(SGD.) **SALVADOR C. MEDIALDEA**
+Executive Secretary

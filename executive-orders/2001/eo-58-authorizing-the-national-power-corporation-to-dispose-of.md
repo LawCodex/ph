@@ -1,0 +1,48 @@
+---
+title: "Executive Order No. 58 — Authorizing the National Power Corporation to Dispose of Its 1.6-Hectare Property Located in Sitio Pajo, Baesa, Quezon City to Its Bonafide Occupants (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 58"
+number: "58"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2001-12-05
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2001/eo_58_2001.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2001/pdf/eo_58_2001.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 58
+
+**Authorizing the National Power Corporation to Dispose of Its 1.6-Hectare Property Located in Sitio Pajo, Baesa, Quezon City to Its Bonafide Occupants (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 58, December 05, 2001 ]
+
+AUTHORIZING THE NATIONAL POWER CORPORATION TO DISPOSE OF ITS 1.6-HECTARE PROPERTY LOCATED IN SITIO PAJO, BAESA, QUEZON CITY TO ITS BONAFIDE OCCUPANTS
+
+WHEREAS, in line with the priority concern of the present Administration to provide housing to deserving landless and homeless families and ensure security of tenure of informal settler families occupying government lands which are no longer utilized for its intended purposes;
+
+**WHEREAS,** the National Power Corporation (NAPOCOR) owns a property in Sitio Pajo, Barangay Baesa, Quezon City consisting of 1.6 hectares covered by TCT No. 65721, which is being occupied by more or less 300 informal settler families;
+
+**WHEREAS,** the NAPOCOR has expressed its intention segregate and dispose of these properties to its present bonafide occupants under the socialized housing program of the government, as indicated in Resolution No. 99-03 of the NAPOCOR Board;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Philippines, by virtue of the powers vested in me by law, do hereby authorize NAPOCOR to effect the disposition of the above described property to benefit its bonafide occupants.
+
+It is hereby further ordered that an inter-agency committee be formed to formulate the implementing guidelines for the proper disposition of said property. The inter-agency committee shall be chaired by NAPOCOR and co-chaired by HUDCC, with the following as members: Presidential Commission for the Urban Poor (PCUP), Quezon City government, and People’s Organizations and Non-Government Organizations (POs and NGOs) as may be identified by the chair and co-chair.
+
+**IN WITNESS WHEREOF,** I have hereunto set my hand and caused the seal of the Republic of the Philippines to be affixed.
+
+Done in the City of Manila, this 5th day of December, in the year of Our Lord, two thousand and one.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(SGD.) **ALBERTO G. ROMULO**
+Executive Secretary

@@ -1,0 +1,46 @@
+---
+title: "Executive Order No. 129 — Creating the Municipality of New Corella in the Province of Davao"
+identifier: "Executive Order No. 129"
+number: "129"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1964-10-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1964/eo_129_1964.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1964/pdf/eo_129_1964.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 129
+
+**Creating the Municipality of New Corella in the Province of Davao**
+
+MALACAÑANG  
+RESIDENCE OF THE PRESIDENT OF THE PHILIPPINES  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 129, October 29, 1964 ]
+
+CREATING THE MUNICIPALITY OF NEW CORELLA IN THE PROVINCE OF DAVAO
+
+Pursuant to the provisions of section 68 of the Revised Administrative Code, there is hereby created in the province of Davao a new municipality to be known as New Corella, to consist of the barrios of New Corella, New Bohol, New Cortes, New Sambog, Del Pilar, Limba-an, Mesaoy, Camansi, Macgum, Sta. Cruz, and the sitios of Sawaon, San Roque, Caso-on, Maputi, Carcor, Sto. Niño, Viga, Casañgoy, Mandapa-an, New Anda, Dasing, Capatagan, Lunao, Cabidianan, Sambayon, Banglasan, and Kanikid, all of the municipality of Asuncion, said province, with the seat of government at the barrio of New Corella.
+
+The municipality of Asuncion shall have its present territory minus the portions thereof which are included in the territory of New Corella.
+
+The creation of this new municipality as proposed in House Bill No. 895 was approved by the House of Representatives.
+
+The municipality of New Corella shall begin to exist upon the appointment and qualification of the Mayor, Vice-Mayor, and a majority of the councilors thereof and upon the certification by the Secretary of Finance that said municipality is financially capable of providing for all the statutory obligations and ordinary essential services of a regular municipality and that the mother municipality of Asuncion after the segregation therefrom of the territory comprised in the municipality of New Corella can still maintain creditably its municipal government, meet all its statutory and contractual obligations, and provide for the essential municipal services.
+
+Done in the City of Manila, this 29th day of October, in the year of Our Lord, nineteen hundred and sixty-four.
+
+(Sgd.) **DIOSDADO MACAPAGAL**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JUAN S. CANCIO**
+Acting Assistant Executive Secretary

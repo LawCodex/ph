@@ -1,0 +1,49 @@
+---
+title: "Executive Order No. 81 — Creating the Purchasing Agency Revolving Fund and Setting Aside the Sum of Two-Hundred Thousand Pesos for Its Operation."
+identifier: "Executive Order No. 81"
+number: "81"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1945-12-18
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1945/eo_81_1945.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1945/pdf/eo_81_1945.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 81
+
+**Creating the Purchasing Agency Revolving Fund and Setting Aside the Sum of Two-Hundred Thousand Pesos for Its Operation.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 81, December 18, 1945 ]
+
+CREATING THE "PURCHASING AGENCY REVOLVING FUND" AND SETTING ASIDE THE SUM OF TWO-HUNDRED THOUSAND PESOS FOR ITS OPERATION.
+
+**WHEREAS,** the Purchasing Agency of the Government of the Commonwealth of the Philippines established in New York City, New York, U. S. A.; has been reopened effective as of June 1, 1945, by virtue of an Administrative Order dated July 30, 1945, in Washington, D. C., issued, pursuant to authority of the President of the Philippines, by the Secretary of Finance;
+
+**WHEREAS,** no appropriation has been provided in the National Budget for the fiscal year 1946 for the operating expenses of the Agency; and
+
+**WHEREAS,** by handling the purchase orders for various machineries, equipment, accessories, supplies and materials by the Government of the Commonwealth of the Philippines and its instrumentalities and agencies, including government-owned corporations, the said Purchasing Agency, by assessing a surcharge of not exceeding two per centum on the invoice value of such purchases, car operate on a self-supporting basis;
+
+**NOW, THEREFORE, I, SERGIO OSMEÑA** , President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws of the Philippines, do hereby set aside the sum of two hundred thousand pesos, or so touch thereof as may be necessary, out of any funds of the Government of the Commonwealth of the Philippines not otherwise appropriated, which shall constitute, together with all accretions thereto derived from operation and such sums as may hereafter be appropriated for the same purpose, a reimbursable fund which shall be designated as "Purchasing Agency Revolving Fund" to be expended under the supervision of the Secretary of Finance and subject to the approval of the President of the Philippines, for the operating expenses of the above-mentioned Purchasing Agency.
+
+The Secretary of Finance shall, after the close of each fiscal year, render a detailed report, covering the operation of this fund during the previous year, to the President of the Philippines. Any excess or portion thereof, over the amount herein set aside existing at the end of any fiscal year which, in the opinion of the Secretary of Finance, is not necessary for the operation of the service, shall revert to the General Fund in the National Treasury. The Secretary of Finance is hereby empowered to promulgate rules and regulations, from time to time, for carrying out the purposes of the Purchasing Agency of the Government of the Commonwealth of the Philippines in the United States of America.
+
+This Order shall take effect as of the opening of the aforesaid agency on June 1, 1945.
+
+Done at the City of Manila, this _18th_ day of December, in the year of Our Lord, nineteen hundred and forty-five, and of the Commonwealth of the Philippines, the eleventh.
+
+(Sgd.) **SERGIO OSMEÑA**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JOSE S. REYES**
+Secretary to the Presiden

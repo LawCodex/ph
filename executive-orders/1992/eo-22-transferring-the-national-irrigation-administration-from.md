@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 22 — Transferring the National Irrigation Administration From the Department of Public Works and Highways to the Office of the President"
+identifier: "Executive Order No. 22"
+number: "22"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1992-09-14
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1992/eo_22_1992.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1992/pdf/eo_22_1992.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 22
+
+**Transferring the National Irrigation Administration From the Department of Public Works and Highways to the Office of the President**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 22, September 14, 1992 ]
+
+TRANSFERRING THE NATIONAL IRRIGATION ADMINISTRATION FROM THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO THE OFFICE OF THE PRESIDENT
+
+WHEREAS, the mandate of the National Irrigation Administration (NIA) and the program of the government of expanding irrigated farmlands in order to better program the production of agricultural crops, increase the productivity of our farmers and ensure a stable supply of farm commodities could be better pursued, and coordination with the different departments and agencies of the government which need the services of the NIA could be properly handled, if the NIA is placed under the Office of the President;
+
+**WHEREAS,** the NIA is presently attached to the Department of Public Works and Highways pursuant to Section 25, Chapter 6, Title V; Book IV of Executive Order No. 292 dated July 25, 1987, otherwise known as the "Administrative Code of 1987;" and
+
+**WHEREAS,** Section 31, Chapter 10, Title III, Book III of the Administrative Code of the 1987 grants the President of the Philippines a continuing authority to reorganize the Office of the President by, among others, transferring any agency or function of any executive department to the Office of the President.
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order the transfer of the National Irrigation Administration from the Department of Public Works and Highways to the Office of the President.
+
+This Executive Order shall take effect upon its publication in at least one newspaper of general circulation in the Philippines.
+
+DONE in the City of Manila, this 14th day of September in the year of Our Lord, nineteen hundred and ninety-two.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **DIONISIO C. DE LA SERNA**
+Senior Deputy Executive Secretary

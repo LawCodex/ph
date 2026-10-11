@@ -1,0 +1,93 @@
+---
+title: "Executive Order No. 989 — Further Strengthening the Export Promotion Program Through the Institutionalization of Philippine Trade Exhibition Center"
+identifier: "Executive Order No. 989"
+number: "989"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1984-10-10
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1984/eo_989_1984.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 989
+
+**Further Strengthening the Export Promotion Program Through the Institutionalization of Philippine Trade Exhibition Center**
+
+**EXECUTIVE ORDER NO. 989 October 10, 1984**
+
+FURTHER STRENGTHENING THE EXPORT PROMOTION PROGRAM THROUGH THE INSTITUTIONALIZATION OF PHILIPPINE TRADE EXHIBITION CENTER
+
+WHEREAS, primary considerations in the development of the Philippine economy are the upgrading of the quality and increasing domestic and international trade in Philippine manufactured products; and
+
+WHEREAS, the Ministry of Trade and Industry is implementing programs for the improvement of the quality of locally manufactured products through raw material sourcing, technical assistance rendered by product specialist consultancies, marketing research, as well as generating foreign exchange income by increasing trade locally made goods in both domestic and international markets; and
+
+WHEREAS, the National Food Authority presently operates the Philippine Trade Exhibits, with facilities especially equipped for the holding of trade exhibitions for Philippine manufactured goods; and
+
+WHEREAS, the close coordination of the activities of the Ministry of Trade and Industry and the National Food Authority in projects designed for research, development and marketing of locally manufactured goods, especially in the exhibition of these products to the general public is best attained through the institutionalization of Philippine trade exhibits; and
+
+WHEREAS, the Development Bank of the Philippines, Central Bank, Land Bank, Philippines National Bank and the Government Service Insurance System have provided valuable contributions to the Philippine Trade Exhibits, the programs implemented for the development or trade in locally manufactured products; and
+
+WHEREAS, the Center for International Trade Expositions and Missions Inc., an agency of the Ministry of Trade and Industries is changed with the implementation of the Ministry's programs above-described, more specifically by conducting domestic and international trade expositions selling missions, market encounters and similar such activities and that said corporation has specially qualified personnel for the implementation for such projects; and
+
+WHEREAS, the use of the corporate vehicle is an efficient and effective mode for the implementation of the government's broad and extensive policies and projects for the development of locally manufactured goods and the increase in domestic and international trade thereof; and
+
+WHEREAS, the institutionalization of Philippine Trade Exhibit through the formation of a corporation dedicated to the implementation of the foregoing government polices and program will achieve the expeditious and cost effective implementation of the policies and programs;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and ordain;
+
+## Sec. 1
+
+There is hereby create a PHILIPPINE TRADE EXHIBITION CENTER, which shall institutionalize the holding of trade exhibits for the promotion of locally manufactured products and implement projects designed to upgrade the quality of such products to international standards, coordinate raw material sourcing, develop markets therefor and provide assistance to Philippine manufacturers in general.
+
+## Sec. 2
+
+Existing facilities of the Philippine Trade Exhibits located at Roxas Boulevard, Pasay City, Metro Manila, are hereby transferred to, and shall be the capital/equity contribution of the National Food Authority; the land-site of the Philippine Trade Center is hereby transferred to, and shall be part of the capital of the PHILIPPINE TRADE EXHIBITION CENTER, in consideration for which the government agencies in whose name the land-site is registered shall receive, as the other capital contributors, corresponding shares of stock.
+
+However, no obligation pertaining to the land-site and facilities transferred by virtue of this provision shall accrue to or become the liability of the PHILIPPINE TRADE EXHIBITION CENTER.
+
+The Ministry of Trade and Industry shall provide the initial operating capital to the PHILIPPINE TRADE EXHIBITION CENTER. For this purpose, the sum of SIXTEEN MILLION PESOS (P16,000,000.00) from the Garments and Textile Export Board's Special Account No. 151 is hereby transferred to the Center as a reimbursible advance fund construction, facility improvements and acquisition of equipment and the Budget Minister is directed to effect is immediate release.
+
+The capitalization of the Center shall be determined by its Board of Governors.
+
+## Sec. 3
+
+The Board of Governors of the PHILIPPINE TRADE EXHIBITION CENTER shall be composed of the following:
+
+1) The Minister of Human Settlements as Chairman
+
+2) The Minister of Trade and Industry as Vice Chairman.
+
+3) The Administrator of the National Food Authority.
+
+4) The Governor of the Central Bank of the Philippines.
+
+5) The President of the Philippine National Bank.
+
+6) The President of the Land Bank of the Philippines.
+
+7) The President of the General Manager of the Government Service Insurance System.
+
+8) The Administrator of the Social Security System, and
+
+9) A representative from the Private Sector to be appointed by the President of the Philippines.
+
+## Sec. 4
+
+The Board of Governors shall be the central policy-making body of the PHILIPPINE TRADE EXHIBITION CENTER. It shall formulate such rules and regulations to government its proceedings and those for the management of the Center.
+
+## Sec. 5
+
+The PHILIPPINE TRADE EXHIBITION CENTER shall be a corporate entity owned by the Philippine Government, attached to the Ministry of Trade and Industry.
+
+## Sec. 6
+
+Trade Center for International Trade Expositions and Missions, Inc. (CITEM), an agency of the Ministry of Trade and Industry, shall undertake the day-to-day management and operations of the Center.
+
+## Sec. 7
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila this 10th day of October, in the year of Our Lord, nineteen hundred and eighty-four.

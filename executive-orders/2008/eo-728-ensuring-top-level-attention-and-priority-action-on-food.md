@@ -1,0 +1,82 @@
+---
+title: "Executive Order No. 728 — Ensuring Top-Level Attention and Priority Action on Food and Energy Needs of the Nation (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 728"
+number: "728"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2008-06-02
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2008/eo_728_2008.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2008/pdf/eo_728_2008.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 728
+
+**Ensuring Top-Level Attention and Priority Action on Food and Energy Needs of the Nation (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 728, May 02, 2008 ]
+
+ENSURING TOP-LEVEL ATTENTION AND PRIORITY ACTION ON FOOD AND ENERGY NEEDS OF THE NATION
+
+WHEREAS, it is the policy of the government to ensure that every Filipino shall have food on their table especially the poorer sector of the society;
+
+**WHEREAS,** parallel with the programs on food security, the government is also given equal importance to the energy needs of the nation, including power sector reforms;
+
+**WHEREAS,** there is a need to create a council that will give top-level attention and priority action on food and energy needs of the nation;
+
+**WHEREAS,** Section 17, Article VII of the Constitution provides that the President shall have control of all executive departments, bureaus and offices and shall ensure that all laws be faithfully executed;
+
+**NOW, THEREFORE, I, GLORIA M. ARROYO** , President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and the law, do hereby order the following:
+
+## Section 1
+
+\- There is hereby created the National Food and Energy Council (NFEC or Council).
+
+## Section 2
+
+\- The NFEC is tasked with assessing the food and energy situation and prospects, and formulating, coordinating, undertaking, monitoring and/or adjusting major national long-term policies, programs and project as measures to ensure adequate, competitively priced supplies of food and energy for the nation, especially the very poor.
+
+## Section 3
+
+\- The Council shall include the President as Chair, the NEDA Secretary as Vice-Chair, the Secretaries of DA, DENR, DOE, NAPC, NSC and the NPC, PNOC, NFA heads as members.
+
+## Section 4
+
+\- The heads of relevant committees in Congress and representatives of sectoral groups, academe and other non-government organizations, may be invited as full members or observers.
+
+## Section 5
+
+\- The Council shall, among its other functions, make a five-year projection of supply, demand and prices of essential foodstuffs and energy sources, to be adjusted periodically, and with the targeted impact of policy actions incorporated in the forecasts.
+
+## Section 6
+
+\- The Council shall advise the President and Congress if and when the exercise of emergency presidential powers shall be required to address food and energy problems.
+
+## Section 7
+
+\- The Council on Climate Change, which will discuss similar issues and whose priority will need to be reconciled with food and energy, is hereby absorbed by the NFEC.
+
+## Section 8
+
+\- All other rules, regulations and issuances or parts thereof which are inconsistent with this Executive Order are hereby repealed or modified accordingly.
+
+## Section 9
+
+\- This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 2nd day of May, in the year of Our Lord, Two Thousand and Eight.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(Sgd.) **EDUARDO R. ERMITA**
+Executive Secretary

@@ -1,0 +1,62 @@
+---
+title: "Executive Order No. 728 — Retaining the Commission on Filipinos Overseas Under the Office of the President as a Critical Agency, Designating the Members of the Commission and Providing for the Organizational Guidelines of the Secretary of the Commission"
+identifier: "Executive Order No. 728"
+number: "728"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1981-09-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1981/eo_728_1981.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 728
+
+**Retaining the Commission on Filipinos Overseas Under the Office of the President as a Critical Agency, Designating the Members of the Commission and Providing for the Organizational Guidelines of the Secretary of the Commission**
+
+**EXECUTIVE ORDER NO. 728 September 12, 1981**
+
+RETAINING THE COMMISSION ON FILIPINOS OVERSEAS UNDER THE OFFICE OF THE PRESIDENT AS A CRITICAL AGENCY, DESIGNATING THE MEMBERS OF THE COMMISSION AND PROVIDING FOR THE ORGANIZATIONAL GUIDELINES OF THE SECRETARY OF THE COMMISSION
+
+WHEREAS, there is a steady and significant outflow of Filipino emigrants to foreign countries in response to economic opportunities and realities;
+
+WHEREAS, the Filipinos overseas are potential ambassadors of goodwill through whom accurate and up-to-date information about the Republic of the Philippines could be disseminated around the world;
+
+WHEREAS, it is the declared policy of the State to maintain close ties with Filipino emigrants and to promote their welfare;
+
+WHEREAS, Batas Pambansa 79 created the Commission on Filipinos Overseas to render effective the policy of the State;
+
+WHEREAS, Executive Order No. 708 transferred the Commission on Filipinos Overseas as an attached agency of the Ministry of Foreign Affairs;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and by Presidential Decree No. 830 and Presidential Decree No. 1416, as amended, do hereby order and ordain:
+
+## Sec. 1
+
+The Commission on Filipinos Overseas is retained directly under the supervision of the Office of the President of the Philippines and is hereby classified as a Critical Agency.
+
+## Sec. 2
+
+The Commission shall be composed of the Minister of Foreign Affairs as Chairman, the Minister of Trade and Industry as Vice-Chairman, the Minister of Labor and Employment, the Minister of Tourism, the Minister of Public Information, all of whom are ex officio members, and the Executive Director of the Commission.
+
+The Commission shall formulate the general policy guideline regarding Filipinos overseas and provide the functional direction of the Commission's activities and operations.
+
+## Sec. 3
+
+The executive responsibility shall be vested in the Secretariat headed by an Executive Director who shall be assisted by a Deputy Executive Director. The Secretariat shall have three technical offices, namely, Local Services Office, External Services and Projects Office, and the Management and Planning Office, and an Administrative Office, each of which shall be headed by a Director.
+
+## Sec. 4
+
+The Executive Director shall be in-charge of all operations of the Commission including those abroad and shall supervise its internal administration.
+
+## Sec. 5
+
+All laws, decrees, orders, proclamations, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Executive Order are hereby repealed and modified accordingly.
+
+## Sec. 6
+
+This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 12th day of September, in the year of Our Lord, nineteen hundred and eighty-one.

@@ -1,0 +1,53 @@
+---
+title: "Executive Order No. 673 — Enjoining the Widespread Application of Gasifier Equipment for Vehicles and Designating an Inter-Agency Committee to Oversee and Regulate Its Implementation"
+identifier: "Executive Order No. 673"
+number: "673"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1981-03-21
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1981/eo_673_1981.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 673
+
+**Enjoining the Widespread Application of Gasifier Equipment for Vehicles and Designating an Inter-Agency Committee to Oversee and Regulate Its Implementation**
+
+**EXECUTIVE ORDER NO. 673 March 21, 1981**
+
+ENJOINING THE WIDESPREAD APPLICATION OF GASIFIER EQUIPMENT FOR VEHICLES AND DESIGNATING AN INTER-AGENCY COMMITTEE TO OVERSEE AND REGULATE ITS IMPLEMENTATION
+
+WHEREAS, the inevitable increase in cost of petroleum fuels necessitates a search for alternative fuels for use in transport vehicles;
+
+WHEREAS, the gasifier equipment using charcoal as fuel has been proven technically feasible for vehicles and other applications such as irrigation and electricity generation;
+
+WHEREAS, the Farm Systems Development Corporation (FSDC) has been mandated under Executive Order No. 655 to act as lead agency for the widespread utilization of gasifier equipment for irrigation and other farm-related application and has itself tried the utilization of such equipment of transport vehicles;
+
+WHEREAS, the use of gasifier equipment to complement the use of traditional fuels in applications such as irrigation, electricity generation and transportation shall be henceforth promoted as an alternative energy source;
+
+WHEREAS, to assure the safety of public as well as to insure trouble-free operation of gasifier equipment, there is a need to improve safety measures in their production and use;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:
+
+Sec. I. The creation of an inter-agency committee composed of representatives from FSDC, PSB, and U.P. College of Engineering for the following purposes:
+
+a. To promote and encourage the installations of gasifier equipment on vehicles.
+
+b. Establish and implement procedures for quality control in the manufacture of gasifier equipment for vehicles.
+
+c. Register all gasifier equipment for motor vehicles.
+
+d. Monitor periodically gasifier operations in vehicles.
+
+Sec. II. The government financing institutions, namely: DBP, PNB, LBP shall develop and implement lending programs to finance the conversion of existing vehicles to gasifier equipment. Such programs shall provide for liberal lending terms to encourage the installation of gasifier equipment.
+
+Sec. III. All government agencies are directed to take steps to install gasifier equipment in existing government vehicles as well as to engage in tree farming programs to ensure adequate supply of charcoal for gasifier equipment.
+
+Sec. IV. The Ministry of Budget, shall, for this purpose, release the amount of TEN MILLION PESOS (P10M) to the Farm Systems Development Corporation (Lead Agency) for the initial implementation of the provisions of this Order.
+
+Sec. V. This Order shall take effect immediately.
+
+Done in the City of Manila, this 21st day of March, in the year of Our Lord, nineteen hundred and eighty-one.

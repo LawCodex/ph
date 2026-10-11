@@ -1,0 +1,126 @@
+---
+title: "Executive Order No. 180 — Devolving to the Autonomous Regional Government of the Autonomous Region in Muslim Mindanao Certain Powers and Functions of the Department of Trade and Industry, Amending for the Purpose Executive Order No. 481, and for Other Purposes (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 180"
+number: "180"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2003-02-27
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2003/eo_180_2003.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2003/pdf/eo_180_2003.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 180
+
+**Devolving to the Autonomous Regional Government of the Autonomous Region in Muslim Mindanao Certain Powers and Functions of the Department of Trade and Industry, Amending for the Purpose Executive Order No. 481, and for Other Purposes (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 180, February 27, 2003 ]
+
+DEVOLVING TO THE AUTONOMOUS REGIONAL GOVERNMENT OF THE AUTONOMOUS REGION IN MUSLIM MINDANAO CERTAIN POWERS AND FUNCTIONS OF THE DEPARTMENT OF TRADE AND INDUSTRY, AMENDING FOR THE PURPOSE EXECUTIVE ORDER NO. 481, AND FOR OTHER PURPOSES
+
+WHEREAS, Executive Order No. 481, Series of 1991, issued pursuant to Republic Act No. 6734, effected the devolution to the Autonomous Regional Government (ARG) of the Autonomous Region in Muslim Mindanao (ARMM) of certain powers and functions of the Department of Trade and Industry (DTI), including the control and supervision over its offices, programs and projects in the ARRM;
+
+**WHEREAS,** Republic Act No.9054 was enacted into law on March 31, 2001 in order to strengthen and expand the Organic Act for the ARMM, and the same was ratified on August 14, 2001 with the addition of the province of Basilan (except Isabela City) and the City of Marawi to the original four provinces comprising the ARMM;
+
+**WHEREAS,** it is the policy of the National Government of devolve, as far as practicable and consistent with the Constitution and RA 6734 as amended by RA 9054, as many functions and powers of national government agencies to the ARG;
+
+**WHEREAS,** the devolution of powers and functions of the National Government to the ARG is part of the government's peace process to find ways and means for a durable and lasting peace in Mindanao; and
+
+**WHEREAS,** the Oversight Committee created pursuant to RA 9054 deemed it imperative that there is a need to further devolve certain powers and functions of the DTI to the ARG.
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Technical Assistance._ The DTI shall continue to assist the ARG in facilitating the performance of the economic development mandate. The following bureaus of the DTI may be tapped to provide support and technical assistance to the ARG:
+
+a. Bureau of Export Trade Promotions (BETP);
+
+b. Bureau of International Trade Relations (BITR);
+
+c. Center for Industrial Competitiveness (CIC);
+
+d. Bureau of Import Service (BIS);
+
+e. Trade and Industry Information Center (TIIC);
+
+f. Bureau of Trade Regulations and Consumer Protection (BTRCP);
+
+g. Bureau of Small and Medium Enterprise Development (BSMED);
+
+h. Intellectual Property Office (IPO);
+
+i. Foreign Trade Service Corps (FTSC);
+
+j. Bureau of Domestic Trade (BDT);
+
+k. Bureau of Product Standards (BPS);
+
+l. Garments and Textile Export Board (GTEB);
+
+m. Philippine Trade Training Center (PTTC);
+
+n. Cottage Industry Technology Center (CITC); and
+
+o. Human Resource Development Service (HRDS)
+
+## Section 2
+
+Personnel. The following rules shall govern the personnel of the DTI assigned in the Province of Basilan and the City of Marawi:
+
+a. All plantilla positions, filled and unfilled effectively assigned to, or with the Province of Basilan, except Isabela City, and Marawi City as their official station, shall be placed immediately under the control and supervision of the ARG
+
+b. Personnel absorbed by the ARG shall retain their seniority rights, compensations, and other benefits in accordance with Civil Service laws, rules and regulations.
+
+c. Personnel declining to be absorbed by the ARG shall have the following options:
+
+c.1 _Retirement_ \- All affected personnel qualified for retirement may elect retirement, as may be provided under existing laws. All benefits, including payment of accrued leave credits, that may be lawfully given to affected employees by virtue of their transfer, retirement or separation from service shall be paid within one (1) month from the filing of the necessary clearance and other pertinent documents.
+
+c.2 _Transfer_ \- Affected personnel shall be given priority in hiring for existing vacant positions in other government agencies, subject to compliance with established qualification standards set by the receiving agencies.
+
+c.3 _Resignation_ \- Separated personnel not eligible for retirement under existing laws shall be entitled to all benefits provided under existing Civil Service Laws.
+
+## Section 3
+
+_Technical Assistance Defined._ Technical Assistance are those activities which "involve the introduction of methods, ideas and information aimed at improving the planning and implementation of a process, a project or a program as well as institution building, studies and training."
+
+Such assistance may take the form of consultancy service for detailed design, supervision of loan projects and strengthening of existing agencies, advisory and operational assistance for project preparation to help build pipeline of potential projects and induce investment financing by other financing and donors.
+
+## Section 4
+
+_Assets, Equipment and Budget._ All assets, equipment, budgetary allocation and properties being utilized or programmed for use for the Province of Basilan, and the City of Marawi shall be turned-over to the ARG of the ARMM.
+
+## Section 5
+
+_Implementing Rules and Regulations._ The DTI-National, in coordination with the ARG, shall formulate the _Implementing Rules and Regulations_ that will effectively carry out the provisions of this Executive Order within thirty (30) days from its effectivity.
+
+## Section 6
+
+_Date of Transfer._ The DTI shall effect full transfer of its functions, personnel, assets, equipment and budget within ninety (90) days following the effectivity of this Executive Order.
+
+## Section 7
+
+_Repealing Clause._ All laws, decrees, orders, rules and regulations and regulations and other issuances or parts thereof, which are inconsistent with this Executive Order are hereby repealed, modified and amended accordingly.
+
+## Section 8
+
+_Effectivity._ This Executive Order shall take effect fifteen (15) days after its publication in a national newspaper of general circulation and one local newspaper of general circulation in the ARMM.
+
+DONE in the City of Manila, this 27th day of February in the year of our Lord, two thousand three.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ALBERTO G. ROMULO**
+Executive Secretary

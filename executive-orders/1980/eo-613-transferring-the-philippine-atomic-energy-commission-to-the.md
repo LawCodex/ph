@@ -1,0 +1,49 @@
+---
+title: "Executive Order No. 613 — Transferring the Philippine Atomic Energy Commission to the Office of the President"
+identifier: "Executive Order No. 613"
+number: "613"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1980-08-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1980/eo_613_1980.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 613
+
+**Transferring the Philippine Atomic Energy Commission to the Office of the President**
+
+**EXECUTIVE ORDER NO. 613 August 15, 1980**
+
+TRANSFERRING THE PHILIPPINE ATOMIC ENERGY COMMISSION TO THE OFFICE OF THE PRESIDENT
+
+WHEREAS, Presidential Decree No. 1206, creating the Department (now Ministry) of Energy, transferred the Philippine Atomic Energy Commission (PAEC) from the Office of the President to the Ministry;
+
+WHEREAS, under the said decree, both PAEC which is the licensing agency for the use and operation of atomic energy facilities and materials and the National Power Corporation which operates the Bataan nuclear power plant are under the Ministry, a situation which should not be allowed to insure objectivity and effectiveness in nuclear power regulation and licensing operations;
+
+WHEREAS, considering further the highly strategic and critical importance of the regulatory functions of PAEC relative to the licensing and regulation of atomic energy facilities and materials and the use thereof to safeguard public health and safety, there is need to insure closer and more effective supervision of such functions by placing PAEC directly under the supervision and control of the Office of the President; and
+
+WHEREAS, under Presidential Decree No. 1416, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments.
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by the Presidential Decree No. 1416, do hereby order and ordain:
+
+## Sec. 1
+
+The Philippine Atomic Energy Commission is hereby transferred from the Ministry of Energy and placed under the supervision and control of the Office of the President. This transfer shall include applicable funds, and appropriations, records, equipment, property, facilities and personnel.
+
+## Sec. 2
+
+The Philippine Atomic Energy Commission shall, among its functions, be responsible for the promulgation and implementation of standards and guidelines for safeguarding public health and safety in the operation and use of atomic energy facilities, materials and processes. Any regulatory functions which the Ministry of Energy exercises in this area shall be transferred to the Philippine Atomic Energy Commission.
+
+## Sec. 3
+
+All laws, decrees, other issuances, and rules and regulations inconsistent herewith are hereby repealed or modified accordingly.
+
+## Sec. 4
+
+This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 15th day of August, in the year of Our Lord, nineteen hundred and eighty.

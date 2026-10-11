@@ -1,0 +1,121 @@
+---
+title: "Executive Order No. 108 — Creating the Central Visayas Water and Sanitation Project Project Management Unit, providing funds therefor, and for other purposes"
+identifier: "Executive Order No. 108"
+number: "108"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-07-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_108_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_108_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 108
+
+**Creating the Central Visayas Water and Sanitation Project Project Management Unit, providing funds therefor, and for other purposes**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 108, July 12, 1993 ]
+
+CREATING THE CENTRAL VISAYAS WATER AND SANITATION PROJECT PROJECT MANAGEMENT UNIT, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+WHEREAS, it is the policy of government to seek the development of the regions of the country consistent with the needs and aspirations of the people therein;
+
+**WHEREAS,** pursuant to this policy the Central Visayas Water and Sanitation Project (CVWSP) had been identified and planned by the Central Visayas Regional Development Council (RDC) with assistance from the Australian government to improve the health and living conditions of the poor people in the region through:
+
+a improved planning, implementation, maintenance and monitoring of water supply and sanitation facilities;
+
+b) increased coverage of potable water supply and safe sanitation by design, construction and rehabilitation of appropriate water supply and sanitation facilities; and
+
+c) community participation in all aspects of planning, implementation and monitoring of the projects;
+
+**WHEREAS,** the CVWSP is funded by a grant from the Australian government through the Australian International Development Assistance Bureau (AIDAB) and counterpart funds from the national government in accordance with the Memorandum of Understanding signed on December 21, 1990 between the respective governments of the Republic of the Philippines and Australia;
+
+**WHEREAS,** the CVWSP is being implemented for the Philippine government by the RDC in coordination with concerned regional line agencies and provincial government units involved in the CVWSP; and
+
+**WHEREAS,** to pursue the objectives of the CVWSP, a Project Management Unit has to be established in accordance with Section 14, Article X of the Constitution to serve as the coordinating arm of the RDC in the implementation of the project.
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Creation of the Central Visayas Water and Sanitation Project – Project Management Unit._ The Central Visayas Water and Sanitation Project – Project Management Unit (CVWSP-PMU) is hereby created under the RDC. The CVWSP-PMU shall have its principal office and address in Cebu City.
+
+## Section 2
+
+_Functions of the Central Visayas Water and Sanitation Project – Project Management Unit._ The CVWSP-PMU shall be responsible to the RDC for coordinating the implementation of the CVWSP. Specifically, it shall perform the following functions in cooperation with the Australian funded advisors assigned by AIDAB to the CVWSP:
+
+Develop and prescribed operating guidelines, policies and procedures for and generally oversee the coordination of the implementation of the CVWSP;
+
+Prepare an annual work plan and budget in accordance with the provisions set forth in the Memorandum of Agreement, Design Document and Project Implementation Document;
+
+Promote close coordination among regional line agencies and local government units in the planning, implementation, monitoring and evaluation of the CVWSP;
+
+Secure the counterpart funds from the national government including the contribution from concerned local government units, community beneficiaries and other entities necessary to augment the funding for the CVWSP;
+
+Coordinate the procurement of grant materials from the Government of Australia for use in the construction of water supply projects and sanitation facilities and be responsible for the storage and distribution of these materials to the different project sites; and
+
+Perform such other functions as necessary for timely and effective implementation of the CVWSP or as required by the RDC and the Office of the President.
+
+## Section 3
+
+_Project Governing Committees._ The CVWSP-PMU shall have a Project Governing Committee (PGC) that shall serve as the overall governing and policy making body for the CVWSP.
+
+## Section 4
+
+_Composition of the Committee._ The PGC shall be composed of the RDC Chairman as PGC Chairman and the following as members: RDC Co-Chairman, the respective Provincial Governors of Cebu, Bohol, Negros Oriental and Siquijor, the respective Regional Directors of NEDA, DBM, DILG, DOH and DENR, and four private sector representatives to be designated by the RDC.
+
+## Section 5
+
+_Functions, Powers and Responsibilities of the Project Governing Committee._ The PGC shall have the following functions:
+
+Develop and prescribe policies and guidelines for proper planning and implementation of the CVWSP;
+
+Review and approve the annual work program and budget required for submission to the RDC, Department of Budget and Management, and Congress for funding;
+
+Review and monitor the progress of implementation of the CVWSP and proposed necessary corrective measures to assure timely and effective implementation of project activities;
+
+Submit to the President through the RDC periodic and special reports relative to the progress of implementation of the CVWSP; and
+
+Perform such other related functions and adopt measures as may be necessary to ensure timely and effective implementation of the CVWSP.
+
+## Section 6
+
+_Central Visayas Water and Sanitation Project – Project Management Unit Staff._ The CVWSP-PMU shall be provided with the necessary technical and administrative staff as may be determined by the PGC and approved by the appropriate agencies. The staff shall be headed by an Executive Director appointed by the President upon recommendation of the RDC.
+
+## Section 7
+
+_Appropriations._ Such amounts as may be necessary for the operational requirements of the CVWSP-PMU and the required national government counterpart funds (capital outlay) for the construction of water supply projects and sanitation facilities as defined in the Memorandum of Understanding, Design Document, and Project Implementation Document shall henceforth be provided separately in the annual General Appropriations Act of the national government.
+
+Until such time that the annual budget for the operational requirements of the CVWSP-PMU, including the necessary counterpart funds for capital outlay, is not included in the annual General Appropriations Act, such requirements shall be taken from the Foreign Assisted Project Support Funds being provided for in the existing General Appropriations Act.
+
+The local government units, such as the province and municipalities that are included for coverage by the CVWSP, may by voluntary actions also contribute its local funds or secure funds from other sources to augment the budget for water supply and sanitation facilities, which are identified under this project for implementation in their localities.
+
+## Section 8
+
+_Duration of the Central Visayas Water and Sanitation Project – Project Management Unit._ The CVWSP-PMU shall operate from the date of the effectivity of this Executive Order to the project completion date prescribed in the Memorandum of Understanding, Design Document, and Project Implementation Document.
+
+## Section 9
+
+_Separability Clause._ Any provision of this Executive Order that may be declared unconstitutional shall not have the effect of nullifying the other provisions hereof; _Provided,_ that such remaining provisions can still stand and be given effect in their entirety to accomplish the objectives of the CVWSP.
+
+## Section 10
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 12th day of July in the year of Our Lord, Nineteen Hundred and Ninety-Three.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **TEOFISTO T. GUINGONA, JR.**
+Executive Secretary

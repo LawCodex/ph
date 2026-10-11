@@ -1,0 +1,60 @@
+---
+title: "Executive Order No. 645 — Amending Section 4 of Executive Order No. 423 Dated 18 September 2003 Which Prescribes the Rules and Procedures on the Review and Approval of All Government Contracts to Conform to Republic Act No. 9184 Otherwise Known as \"The Government Procurement Reform Act\" (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 645"
+number: "645"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2007-07-31
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2007/eo_645_2007.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2007/pdf/eo_645_2007.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 645
+
+**Amending Section 4 of Executive Order No. 423 Dated 18 September 2003 Which Prescribes the Rules and Procedures on the Review and Approval of All Government Contracts to Conform to Republic Act No. 9184 Otherwise Known as "The Government Procurement Reform Act" (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 645, July 31, 2007 ]
+
+AMENDING **Section** 4 OF EXECUTIVE ORDER NO. 423 DATED 18 SEPTEMBER 2003 WHICH PRESCRIBES THE RULES AND PROCEDURES ON THE REVIEW AND APPROVAL OF ALL GOVERNMENT CONTRACTS TO CONFORM TO REPUBLIC ACT NO. 9184 OTHERWISE KNOWN AS “THE GOVERNMENT PROCUREMENT REFORM ACT”
+
+WHEREAS, Section 4 of Executive Order 423 dated 18 September 2003 prescribes that in cases where government contracts amounting to at least P500 Million, the Head of the Procuring Entity is required to obtain an opinion and approval from the Government Procurement Policy Board and the Director-General of the National Economic and Development Authority before resorting to any of the alternative methods of procurement;
+
+**WHEREAS,** it has become necessary to amend Section 4 of Executive Order No. 423 dated 18 September 2003 to streamline and expedite procurement procedures for a more effective procurement system;
+
+**WHEREAS,** the Government Procurement Policy Board, in its Resolution No. 06-2006 dated 20 January 2006, recommends the issuance of this Executive Order;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO** , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby amend Section 4 of Executive Order No. 423 to read as follows:
+
+## Section 1
+
+Approval of Government Contracts Entered Into Through Alternative Methods of Procurement
+
+a. For Government Contracts Involving An Amount Of At Least Five Hundred Million Pesos (P500,000,000.00). Where the Head of the Procuring Entity has made a determination that a Government contract, including Government contracts required by law to be acted upon and/or approved by the President, involving an amount of at least Five Hundred Million Pesos (P500,000,000.00) falls under any of the exceptions from public bidding described in Section 3 hereof, the Head of the Procuring Entity shall, before proceeding with the alternative methods of procurement provided by law and applicable rules and regulations, obtain the approval of the Government Procurement Policy Board (GPPB) that said Government proposed procurement undertaking falls within the exceptions from public bidding and that the proposed specific alternative mode of procurement is appropriate.
+
+Except for Government contracts required by law to be acted upon and/or approved by the President, the Heads of the Procuring Entities, after obtaining the foregoing requirements, shall have full authority to give final approval and/or to enter into said Government contracts of their respective agencies, entered into through alternative methods of procurement allowed by law. _Provided,_ that the Head of the Procuring Entity certifies under oath that the contract has been entered into in faithful compliance with all applicable laws and regulations.
+
+## Section 2
+
+Except for the forgoing amendment, all other provisions of Executive Order No. 423 shall remain unchanged.
+
+## Section 3
+
+This Executive Order shall take effect immediately upon its publication in a national newspaper of general circulation.
+
+Done in the City of Manila this 31st day of July in the year of Our Lord, Two Thousand and Seven.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary

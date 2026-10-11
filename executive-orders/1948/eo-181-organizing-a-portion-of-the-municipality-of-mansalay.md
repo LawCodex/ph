@@ -1,0 +1,45 @@
+---
+title: "Executive Order No. 181 — Organizing a Portion of the Municipality of Mansalay, Province of Mindoro, Into An Independent Municipality Under the Name of Roxas"
+identifier: "Executive Order No. 181"
+number: "181"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1948-10-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1948/eo_181_1948.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1948/pdf/eo_181_1948.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 181
+
+**Organizing a Portion of the Municipality of Mansalay, Province of Mindoro, Into An Independent Municipality Under the Name of Roxas**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 181, October 15, 1948 ]
+
+ORGANIZING A PORTION OF THE MUNICIPALITY OF MANSALAY, PROVINCE OF MINDORO, INTO AN INDEPENDENT MUNICIPALITY UNDER THE NAME OF ROXAS.
+
+Upon the recommendation of the Secretary of the Interior, and pursuant to the provisions of section 68 of the Revised Administrative Code, the barrio of Paclasan, and the sitios of Cantil, Dangay, San Mariano, Libertad, Oyaw, Odiong, Victoria, Libtong Tigas, Dayhagan, San Aquilino, San Miguel, and San Isidro, all of the municipality of Mansalay, Province of Mindoro, are hereby organized into an independent municipality under the name of Roxas, with the seat of government at the barrio of Paclasan.
+
+The boundary which separates the municipality herein organized from the mother municipality of Mansalay shall be as follows:
+
+“From point X (center point of the street of the same shore line) on the plan; thence S48-30W .1,265 m. to the mouth of Ticling Greek; thence S53-20W 900 m. to south side of Tiding Creek, sitio Aluyan; thence N70-00W 2,100 m.; thence N50-00W 300 m. to the left wing of concrete dam of Mr. E. Panopio; thence 55. 00W 1,200 m, to the source of Ambongohan Creek marked X on Taloto Tree .50 m. in diameter; thence S82-30W: 460, m. to the leftwing of concrete dam of Mr. E, Madrid across the hank of Patay Creek; thence S57-00W 620 m. to Cupang Tree .70 m. in diameter; thence N70-00W following the course of Baroc Buhay River upstream.”
+
+The organization herein made shall take effect on November 15, 1948.
+
+Done in the City of Manila, this 15th day of October, in the year of Our Lord, nineteen hundred and forty-eight, and of the Independence of the Philippines, the third.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **TEODORO EVANGELISTA**
+Executive Secretary

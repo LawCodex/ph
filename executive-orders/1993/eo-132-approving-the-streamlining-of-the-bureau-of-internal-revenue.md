@@ -1,0 +1,114 @@
+---
+title: "Executive Order No. 132 — Approving the streamlining of the Bureau of Internal Revenue"
+identifier: "Executive Order No. 132"
+number: "132"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-10-26
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_132_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_132_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 132
+
+**Approving the streamlining of the Bureau of Internal Revenue**
+
+**EXECUTIVE ORDER NO. 132 October 26, 1993**
+
+APPROVING THE STREAMLINING OF THE BUREAU OF INTERNAL REVENUE
+
+WHEREAS, there is an urgent need for increased and efficient tax collection to support the economic development and growth of the Philippines;
+
+WHEREAS, to achieve this goal, it is imperative that the Bureau of Internal Revenue, the government office tasked with the administration and enforcement of Philippine tax laws, be strengthened in order to establish public confidence in, and obtain maximum voluntary compliance with, Philippines tax laws and their administration;
+
+WHEREAS, the streamlining of the organization and operations of the Bureau of Internal Revenue is necessary to decentralize its line functions, thereby strengthening its Regional and Revenue District Offices in the implementation and enforcement of tax laws;
+
+WHEREAS, under Section 20, Book III of Executive Order No. 292, (Revised Administrative Code), the President is empowered to exercise such other powers and functions vested in him which are provided for under the laws;
+
+WHEREAS, the President is empowered to approve changes in the reorganization under Section 63 of Executive Order No. 127 (Order reorganizing the Ministry of Finance) for the purpose of promoting efficiency and effectiveness in the delivery of public services;
+
+WHEREAS, under Section 48 of the General Provisions of Republic Act No. 7645 (General Appropriations Act for FY 1993), heads of departments, bureaus and agencies are directed to scale down, phase out or abolish activities no longer essential in the delivery of public services; and
+
+WHEREAS, under Section 62 of the General Provisions of Republic Act No. 7645, the President may direct changes in the organization and key positions in any department, bureau or agency.
+
+WHEREAS, as additional requirement for the fully integrated computerization of tax administration as recommended by the NEDA and approved by the President and the implementation of the 5-Year Bureau of Internal Revenue Computerization program requires the direction, supervision and coordination of a Deputy Commissioner;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Sec. 1
+
+Streamlining of the Organization Structure. The organization structure of the Bureau of Internal Revenue shall define clearly the functions and responsibilities of the National Office and those of the Regional Offices, as follows:
+
+1\. The National Office shall develop and formulate broad national tax administration policies and programs, for efficient and effective implementation of internal revenue laws and regulations and establish the general direction, guidance and control of the entire operations of internal revenue service. For this purpose, the following organizational changes are adopted:
+
+1.1 The existing functional groups in the Bureau are restructured to effect the functional reorientation of the Services and divisions under them.
+
+1.1.1 The Legal Service, which shall be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant, is placed directly under the Office of the Commissioner, together with the Legislative. Ruling and Research Division (being renamed as Law Division) and Appellate Division. The Prosecution Division and Litigation Division are merged into the Litigation and Prosecution Division, and the Personnel Inquiry Division is transferred from the Inspection Service to the Legal Service.
+
+1.1.2 The Intelligence and Investigation Office and the Inspection Service are abolish. An Intelligence and Investigation Service is hereby created to absorb the same functions of the abolished office and service. It shall be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant. It is attached directly to the Office of the Commissioner together with the Tax Fraud Division. The Internal Security Division is transferred from the abolished Inspection Service to the Intelligence and Investigation Service. The Fiscal Control Division is abolished and its functions are transferred to the Performance Monitoring Service and decentralized to the Regional Offices.
+
+1.2 The Assessment and Collection Group shall be renamed as the Operations Group and supervised by a Deputy Commissioner who shall be appointed by the President upon recommendation of the Secretary of Finance. This group shall be composed of the following Services, each Service to be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant.
+
+1.2.1 Assessment Service - The existing National Audit Review Division and Tax Credit/Refund Division are abolished and their functions are transferred to the Regional Offices. The Assessment Performance Control Division is renamed Assessment Performance Audit Division and transferred to the Performance Monitoring Service. The Assessment Programs Division, Asset Valuation Division and Audit Data Bank Division are created under the Assessment Service.
+
+1.2.2 Collection Service - The existing Collection Enforcement Division and Accounts Receivable/Billing Division are abolished and their functions are decentralized to the Revenue District Offices. The Collection Performance Evaluation Division is renamed Collection Performance Audit Division are transferred to the Performance Monitoring Service. The Withholding Tax Division is renamed Withholding Agents Monitoring Division under the Collection Service. The Revenue Accounting Division is transferred from the Financial Service to the Collection Service. The Collection Programs Division is created, and the Large Taxpayers Division is placed under the Collection Service.
+
+1.2.3 The Performance Monitoring Service is created under the Operations Group which shall be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant. The Regulatory Operations Monitoring Division is created under the Performance Monitoring Service. The Assessment Performance Audit Division and the Collection Performance Audit Division are included in this Service.
+
+1.2.4 The Exercise Tax Service and all the divisions under it and the Special Operations Service and all divisions under it, except the International Tax Affairs Division which is transferred to the Planning and Research Service, are abolished and their functions are decentralized to the Revenue District Offices.
+
+1.2.5 The Revenue Offices and Revenue District Offices shall report to this Group.
+
+1.3 The Information Systems Group is created which shall be headed and supervised by a Deputy Commissioner who shall be appointed by the President upon recommendation of the Secretary of Finance. This group shall be composed of the following Services, each Service to be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant.
+
+1.3.1 The Information Systems Operations Service is created with the following divisions: Network and Systems Operations Division, Document Processing Division and Field Technical Support Division.
+
+1.3.2 The Information Systems Development Service is created with the following divisions: Systems Acquisition Division, Application Design and Development Division, Systems Programming and Database Management Division and Quality Assurance Division.
+
+1.4 The Resource Management Group is created which shall be headed and supervised by a Deputy Commissioner who shall be appointed by the President upon recommendation of the Secretary of Finance. This Group shall be composed of the following Services, each to be headed by an Assistant Commissioner who shall be assisted by a Revenue Head Executive Assistant.
+
+1.4.1 The Planning and Research Service - which is renamed as Management Planning Service. The Planning and Research Division is renamed as the Planning Division. The Management Information and Data Control System Division and Public Information and Assistance Division are renamed Management Division and Public Information and Education Division, respectively. The Statistical Analysis Division is renamed Statistics Division and transferred to the Planning and Research Service from the Financial Service.
+
+1.4.2 The Financial Service and the Administrative Service are merged into the Financial and Administrative Service together with the following: Budget Division, Disbursement Accounting Division which is renamed Accounting Division, Records Division and Accountable Forms Division. The Property Division is merged with the General Services Division. The Procurement Division is created under the Financial and Administrative Service.
+
+1.4.3 The Human Resource Development Service is created and shall have the following divisions: Personnel Division, Career Development Division which is renamed Training Division and Medical and Dental Division which are transferred to the Human Resource Development Service from the abolished Administrative Service. The Career Management Division is created under the Human Resource Development Service.
+
+1.4.4 The Computer Information System Service and its four divisions are all abolished.
+
+2\. The Regional Offices shall directly execute the national policies and programs prescribed by the Central Office for the enforcement of the internal revenue laws of the Philippines. They shall have supervision and control over the Revenue District Offices and shall be responsible for directing and coordinating their operations within the region.
+
+2.1 The Regional Offices shall be composed of the Office of the Regional Director, Finance Division, Administrative Division, Legal Division, Assessment Division, Collection Division and Special Investigation Division.
+
+2.2 The Revenue District Offices shall implement programs, methods and procedures necessary for the efficient, effective and economical assessment and collection of internal revenue taxes in the revenue district in accordance with the policies, standards and guidelines prescribed by the Central Office and the Revenue Regional Office.
+
+## Sec. 2
+
+Redeployment of Personnel. The redeployment of officials and other personnel on the basis of the streamlining embodied in this Executive Order shall not result in the dislocation of existing personnel nor in the diminution of rank and compensation and shall take into account pertinent Civil Service Law and rules.
+
+The Bureau of Internal Revenue shall submit to the Department of Budget and Management the realigned staffing pattern that shall compliment its streamlined organization structure.
+
+## Sec. 3
+
+Policy of Non-Extension of Services Beyond Compulsory Retirement Age. It shall be the policy of the Bureau of Internal Revenue not to allow any extension of service beyond the compulsory age of retirement in order not to disrupt the revenue service career system.
+
+## Sec. 4
+
+Transfer of Presidential Appointees. The Commissioner of Internal Revenue is hereby authorized to transfer and assign appointees of the President to positions or assignments of equivalent rank in the Bureau if the exigencies of the service so require.
+
+## Sec. 5
+
+Funding, Funds needed to carry out the provisions of this Executive Order shall be taken from funds available in the Bureau of Internal Revenue.
+
+## Sec. 6
+
+Implementing Authority. The Commissioner of Internal Revenue with the approval of the Secretary of Finance shall issue the rules and regulations and other issuances as may be necessary to ensure the effective implementation of the provisions of this Executive Order.
+
+## Sec. 7
+
+Effectivity. This Executive Order shall take effect immediately.
+
+DONE in the City of Manila this 26th day of October in the Year of Our Lord, nineteen hundred and ninety three.

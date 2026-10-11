@@ -1,0 +1,115 @@
+---
+title: "Executive Order No. 41 — Law Enforcement Coordinating Committees shall continue to serve..."
+identifier: "Executive Order No. 41"
+number: "41"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1992-12-09
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1992/eo_41_1992.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1992/pdf/eo_41_1992.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 41
+
+**Law Enforcement Coordinating Committees shall continue to serve...**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 41, December 09, 1992 ]
+
+WHEREAS, the proper and prompt enforcement and effective executions of the laws of the land is the duty and responsibility of the Government;
+
+**WHEREAS,** closer cooperation and coordination must at all times be observed by all enforcement agencies of the government involved in the enforcement of general and special laws to insure unified direction and integration of effort throughout the country in the suppression of criminal activities on a day-to-day basis, particularly at the operating level;
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS** , President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and direct the following:
+
+## Section 1
+
+All existing law enforcement coordinating bodies known as the Law Enforcement Coordinating Committees created and constituted pursuant to Executive Order No. 829, dated September 11, 1982, at the national, regional and provincial level shall continue to serve as a venue for the coordination of all law enforcement activities of the various government law enforcement agencies.
+
+## Section 2
+
+The Law Enforcement Coordinating Committee at the national level is hereby reorganized and shall consist of but not limited to the following:
+
+Director General, PNP, as the Chairman;
+
+Director, National Bureau Of Investigation;
+
+Director, Economic Intelligence and Investigation Bureau;
+
+Executive Director, Dangerous Drug Board;
+
+Director, Bureau of Fisheries and Aquatic Resources;
+
+Commandant, Philippine Coast Guard;
+
+Commissioner, Bureau of Immigration and Deportation;
+
+Chief, Operations Control, National Intelligence Coordinating Agency; Commissioner, Bureau of Customs;
+
+Commissioner, Bureau of Internal Revenue;
+
+Director, Forest Management Bureau;
+
+General Manager, Philippine Ports Authority;
+
+Commanding General, Aviation Security Command;
+
+Director, Land Transportation Office;
+
+Director, Air Transportation Office;
+
+Commanding General, Civil Relations Service, AFP;
+
+General Manager, Ninoy Aquino International Airport;
+
+General Manager, Mactan-Cebu International Airport Authority; Administrator, EPZA (Export Processing Zone Authority);
+
+Vice-Chairman, NAPOLCOM; and
+
+Heads of All other National Government Agencies with Law Enforcement Functions as its members.
+
+## Section 3
+
+The Regional Law Enforcement Coordinating Committee is hereby reorganized and shall consist of the PNP Regional Director, who shall be the Chairman, and the heads/administrators of regional or field offices of government agencies mentioned in Section 2 of this Order, and the Peace and Order Coordinator of the region, as its members.
+
+## Section 4
+
+The provincial Law Enforcement Coordinating Committee is hereby reorganized and shall consist of the PNP Provincial Director, who shall be the Chairman, the heads of provincial field offices or stations of government agencies mentioned in Section 2 of this Order, and the Peace and Order Coordinator of the province as its members.
+
+## Section 5
+
+The Law Enforcement Coordination Committees at all levels shall each maintain a coordinating center through which it shall coordinate the day-to-day law enforcement activities of the various member agencies. However, the Office of the Secretariat, NALECC, shall be the National Coordinating Center which shall collate and monitor the activities of the Regional and Provincial Coordinating Committees.
+
+## Section 6
+
+Each Law Enforcement Coordinating Committee at all level shall meet at least once a month to discuss, monitor and assess the law enforcement programs of the government.
+
+## Section 7
+
+The Chairman, Peace and Order Council, shall issue appropriate rules and regulations in the implementation of this Executive Order.
+
+## Section 8
+
+All orders, issuances, rules and regulations or parts thereof which are inconsistent with this Executive Order are hereby revoked or modified accordingly.
+
+## Section 9
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 9th day of December in the year of Our Lord, Nineteen Hundred and Ninety Two.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EDELMIRO A. AMANTE, SR.**
+Executive Secretary

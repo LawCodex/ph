@@ -1,0 +1,87 @@
+---
+title: "Executive Order No. 358 — to Institutionalize a Ladderized Interface Between Technical-Vocational Education and Training (TVET) and Higher Education (HE) (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 358"
+number: "358"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2004-09-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2004/eo_358_2004.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2004/pdf/eo_358_2004.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 358
+
+**to Institutionalize a Ladderized Interface Between Technical-Vocational Education and Training (TVET) and Higher Education (HE) (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 358, September 15, 2004 ]
+
+TO INSTITUTIONALIZE A LADDERIZED INTERFACE BETWEEN TECHNICAL-VOCATIONAL EDUCATION AND TRAINING (TVET) AND HIGHER EDUCTION (HE)
+
+WHEREAS, the agenda of this administration prioritizes the creation of six to ten million jobs and the expansion of youth opportunities.
+
+**WHEREAS,** the present compartmentalization of TVET and HE hinders the recognition and accreditation of competence in technical-vocational skills HE and vice-versa:
+
+**NOW THEREFORE I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, doe hereby order the following:
+
+## Section 1
+
+The Technical Education and Skills Development Authority (TESDA) AND THE commission on Higher Education (CHED) in consultation with the concerned sectors and stakeholders shall develop and implement a unified national qualifications framework that establishes equivalency pathways and access ramps for a ladderized system allowing for easier transitions and progressions between TVET and HE.
+
+## Section 2
+
+The framework shall include as far as practicable but no limited to, the following unified qualification and articulation mechanisms: National System of Credit Transfer, Post-TVET Bridging Programs, System of Enhanced Equivalency. Adoption of Ladderized Curricula/Programs, Modularized Program Approach, Competency-Based Programs, Network of Dual-Sector Colleges or Universities, Accreditation Recognition of Prior Learning.
+
+## Section 3
+
+The Professional Regulatory Commission, Department of Labor and Employment, Department of Education, Department of Science and Technology, Department of Trade and Industry, and Department of Budget and Management shall extend to the TESDA and CHED the necessary support in the operationalization of unified national qualifications framework to be developed and implemented. Likewise, other agencies both in the public and private sectors, including non-governmental organizations, business groups, professional associations and similar entities both foreign and local may be tapped for consultations.
+
+## Section 4
+
+To ensure efficient and effective implementation. TESDA and CHED shall organize from their present staff complements a permanent Technical Secretariat. The Secretariat may contract the services of technical experts and authorities on relevant areas of concern such as equivalencies, accreditation, curriculum development, educational measurement and testing.
+
+## Section 5
+
+TESDA and CHED shall ensure that the system, implementing mechanism, policies, guidelines and other necessary procedures and documentation are completed within six (6) months from the issuance of this Executive Order. In addition, ninety (90) days after the completion and adoption of the system, the two agencies shall oversee the nationwide implementation of the framework in identified program areas and in selected or identified TVET and HE institutions. The equivalency pathways and access ramps shall provide for the transferability and or recognition, interface of credits, coursework and competencies between institutions.
+
+## Section 6
+
+TESDA and CHED shall jointly implement national piot programs based on the system to be developed in order to determine its fitness of purpose and relevance in the tertiary education sector and with the view of expanding the number and coverage of course involving TVET providers and HE institutions.
+
+## Section 7
+
+TESAD and CHED shall ensure regular and effective communication and feedback on the progress and accomplishments with respect to the implementation of this Executive Order.
+
+## Section 8
+
+The amount necessary for the development of the system shall source from the budgets and development funds of TESA and CHED. Both agencies are authorized to create special accounts for the purpose of implementing the system and the provisions of this Executive Order. As additional funding source, TESDA and CHED may tap international funding agencies for donations and grants.
+
+## Section 9
+
+If any provision of the Executive Order shall be held unconstitutional or invalid, the other provisions shall remain effective.
+
+## Section 10
+
+All orders, issuances, rules and regulations or p arts thereof inconsistent with this Executive Order are hereby repealed or modified accordingly.
+
+## Section 11
+
+this Executive Order shall take effect immediately.
+
+DONE in the City of Manila this 15th day of September, in the year of Our Lord, two thousand and four.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EDUARDO R. ERMITA**
+Executive Secretary

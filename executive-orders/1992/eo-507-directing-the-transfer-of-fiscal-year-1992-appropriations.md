@@ -1,0 +1,242 @@
+---
+title: "Executive Order No. 507 — Directing the Transfer of Fiscal Year 1992 Appropriations for Devolved Services and Facilities of Concerned National Government Departments and Agencies to the Internal Revenue Allotment, Enjoining Local Government Units to Revise Their 1992 Annual Budgets Accordingly and Instructing the Secretary of Budget and Management to Issue the Rules and Regulations to Be Observed for the Purpose, All Pursuant to the Provisions of the Local Government Code of 1992."
+identifier: "Executive Order No. 507"
+number: "507"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1992-02-24
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1992/eo_507_1992.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1992/pdf/eo_507_1992.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 507
+
+**Directing the Transfer of Fiscal Year 1992 Appropriations for Devolved Services and Facilities of Concerned National Government Departments and Agencies to the Internal Revenue Allotment, Enjoining Local Government Units to Revise Their 1992 Annual Budgets Accordingly and Instructing the Secretary of Budget and Management to Issue the Rules and Regulations to Be Observed for the Purpose, All Pursuant to the Provisions of the Local Government Code of 1992.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 507, February 24, 1992 ]
+
+DIRECTING THE TRANSFER OF FISCAL YEAR 1992 APPROPRIATIONS FOR DEVOLVED SERVICES AND FACILITIES OF CONCERNED NATIONAL GOVERNMENT DEPARTMENTS AND AGENCIES TO THE INTERNAL REVENUE ALLOTMENT, ENJOINING LOCAL GOVERNMENT UNITS TO REVISE THEIR 1992 ANNUAL BUDGETS ACCORDINGLY AND INSTRUCTING THE SECRETARY OF BUDGET AND MANAGEMENT TO ISSUE THE RULES AND REGULATIONS TO BE OBSERVED FOR THE PURPOSE, ALL PURSUANT TO THE PROVISIONS OF THE LOCAL GOVERNMENT CODE OF 1992.
+
+WHEREAS, Republic Act No. 7160 otherwise known as the Local Government Code of 1992 mandates the devolution to local government units within six months after its effectivity of responsibility over the provision of certain basic services and facilities presently exercised by national government agencies;
+
+**WHEREAS,** Section 204 of the said Code provides that the internal revenue allotment for fiscal year 1992 of local government units shall be thirty percent (30%) of the total collection in 1989 of national internal revenue taxes, equivalent to P24.48 Billion. inclusive of the cost of services and facilities devolved by the national government agencies;
+
+**WHEREAS,** Section 284 or the Code further provides that local government units shall, in addition to their respective shares to the P24.48 billion internal revenue allotment, be entitled to receive the amount equivalent to the personal services cost of devolved national government functions and facilities;
+
+**WHEREAS,** the General Appropriations Act of fiscal year 1992 expressly provides that the P18.08 billion direct appropriation for the internal revenue allotment of the local government units shall be augmented by P10 billion representing the cost of transferred functions from the national government agencies Including the cost of devolved personal services;
+
+**WHEREAS,** it is necessary that the appropriations for the devolved functions and facilities be transferred from the 1992 budgets of the devolution-affected national government agencies to the internal revenue allotment of local government units to conform with Section 284 of the Code;
+
+**WHEREAS,** it is imperative that the local government units revise their respective 1992 annual budgets to enable them to finance such devolved basic services and facilities as well as to satisfy the other requirements and limitations prescribed by the Code and in order to avoid any temporary delay in the delivery of basic services;
+
+**NOW THEREFORE, I, CORAZON C. AQUINO** , President of the Republic of the Philippines, by virtue of the powers vested in me by the law, upon the recommendation of the Oversight Committee created under Section 533 of the Code, do hereby order and direct:
+
+## Section 1
+
+Transfer of Appropriation for Devolved Services and Facilities to the Internal Revenue Allotment. Of the amounts appropriated under the 1992 General Appropriations Act for the following functions, projects and activities of indicated devolution-affected departments and agencies of the national government, such sums shall be transferred to the Internal revenue allotment of local government units as may be necessary to comply with the provisions of Section 284 of the Code:
+
+A. DEPARTMENT OF AGRARIAN REFORM
+
+a. Locally Funded Projects
+
+1\. Land and home development improvement projects
+
+B. DEPARTMENT OF AGRICULTURE
+
+a. Regional Operations Function/Activities:
+
+1\. Agricultural and fishery extension services
+
+2\. Regulation of agricultural and fishery activities
+
+3\. Conduct of agricultural and fishery research activities
+
+b. Locally-Funded Projects
+
+1\. Procurement and distribution of certified seeds
+
+2\. Purchase, expansion and conservation of breeding stocks
+
+3\. Construction, repair and rehabilitation of water impounding systems
+
+4\. Support to fishermen, including purchase of fishing nets and other materials
+
+C. DEPARTMENT OF BUDGET AND MANAGEMENT
+
+a. Regional Operations Function/Activities
+
+1\. Local government budget officers services
+
+D. DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES
+
+a. Regional Operations Function/Activities
+
+1\. Forest management services
+
+2\. Mine and geo-sciences services
+
+3\. Environmental management services
+
+b. Locally-Funded Projects
+
+1\. Reforestation projects
+
+i. New plantation establishment including provision for seedling production
+
+ii. Maintenance and protection of existing plantations
+
+2\. Integrated social forestry projects
+
+3\. Watershed rehabilitation projects
+
+E. DEPARTMENT OF HEALTH
+
+a. Regional Operations Functions/Activities
+
+1\. Extension of medical and health services through provincial health office, district, municipal and medicate community hospitals
+
+2\. Purchase of drugs and medicines
+
+3\. Implementation of primary health care program
+
+4\. Field health services
+
+5\. Aid to puericulture
+
+b. Locally-Funded Projects
+
+1\. Construction, repair, rehabilitation and renovation of provincial, district, municipal and medicate hospitals
+
+2\. Provision for the operation of 5-bed health infirmaries
+
+F. DEPARTMENT OF PUBLIC WORK AND HIGHHAYS
+
+a. Regional Operations Function/Activities
+
+1\. Repair and maintenance of infrastructure facilities and re1ated activities
+
+b. Locally-Funded Projects
+
+1\. Water supply projects
+
+2\. Communal irrigation projects
+
+G. DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT
+
+a. Regional Operations Function/Activities
+
+1\. Implementation of community-based program for rebel returnees
+
+b. Locally-Funded Projects
+
+1\. Provision for the operation of a day-care center in every barangay
+
+2\. Pilot community-based program for rebel returnees
+
+3\. Provision for poverty alleviation in low-income municipalities and depressed urban barangays
+
+H. DEPARTMENT OF TOURISM
+
+a. Regional Operations Function/Activities
+
+1\. Domestic tourism promotion
+
+2\. Tourism standard regulation
+
+I. DEPARTMENT OF TRADE AND INDUSTRY
+
+a. Regional Operations Function/Activities
+
+1\. Promotion and development of trade, industry and related institutional services
+
+J. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS
+
+a. Regional Operations Functions/Activities
+
+1\. Telecommunication services
+
+2\. Transportation franchising and regulatory services
+
+K. COOPERATIVES DEVELOPMENT AUTHORITY
+
+a. Promotion, development and regulation of cooperatives function
+
+b. Cooperatives field operation function
+
+L. HOUSING AND LAND USE REGULATORY BOARD
+
+a. Regulation of human settlements plans and programs function
+
+M. HOUSING AND URBAN DEVELOPMENT COORDINATING COUNCIL
+
+a. Coordination or policy formulation and monitoring of hous1ng activities
+
+N. PHILIPPINE GAMEFOWL COMMISSION
+
+a. Regulation and supervision of cockfighting function
+
+O. FUNCTIONS, PROJECTS AND ACTIVITIES OF OTHER DEPARTMENTS AND AGENCIES WHICH HAVE BEEN DEVOLVED INCLUDING BUT NOT LIMITED TO-
+
+a. Functions and locally-funded projects of the Commission on Population, Fiber Industry Development Authority, National Agricultural Fishery Council, Livestock Development Council and National Meat Inspection Commission; and,
+
+b. Location-specific national government offices, programs, projects and activities such as the Sacobia Development Authority and the Kalinga Special Development Authority, Development Coordinating Activities for Leyte and Samar by the Office of the President, the Nueva Ecija Integrated Rural Development Project and the Bula-Minalabac Integrated Development Project of the Department of Agrarian Reform and the Palawan Upland Support Services of the Department of Agriculture.
+
+## Section 2
+
+_Allocation of the Internal Revenue Allotment to Local Government Units._ The level of the Internal revenue allotment to be released to the local government units in 1992 shall be P28 billion. This amount shall be allocated among the provinces, cities, municipalities and barangays in accordance with the following arrangement and schedule:
+
+A. The P18.08 billion direct appropriation shall be immediately augmented by P1.63 billion representing the transferred appropriations for the devolved capital outlay projects, net of reserves, of the Department of Agrarian Reform (P0.01 billion), the Department of Agriculture (P0.05 billion), the Department of Environment and Natural Resources (P0.6 billion), the Department of Health (P0.05 billion), the Department of Public Works and Highways (P1.46 billion. The resulting P19.71 billion Internal revenue allotment shall be prorated in accordance with the formula prescribed under Section 284 of the Code and released to the concerned local government units on a quarterly basis.
+
+B. The P8.29 billion balance shall cover the cost of functions, projects and activities, inclusive of the personal services requirement, which shall be devolved by national government agencies within six months after the effectivity of the Code. This amount shall be apportioned among and released to local government units in accordance with the devolution process prescribed under Executive Order No. 305: _Provided,_ however, that this provision shall be effective only for Fiscal Year 1992, thereafter, appropriations for the cost of functions, projects and activities, inclusive of the personal services, of the devolved national government functions shall be provided for in the General Appropriations Act, after due consultations with the local government units and the national government agencies concerned.
+
+## Section 3
+
+_Preparation of Revised Local Annual Budgets for Fiscal Year 1992._ Local. Government Units shall revise their respective 1992 Annual Budgets which have been earlier enacted or deemed reenacted pursuant to the provisions of the repealed Presidential Decree No. 477 to reflect the following changes made by the Code:
+
+A. Any fund or resources available for the use of the local government units shall first be allocated for the following basic devolved services and facilities before applying the same to other items of expenditure:
+
+i. Construction, improvement, repair and maintenance of local roads;
+
+Construction and improvement or concrete barangay roads and multi-purpose pavements;
+
+ii. Payment or Personnel Economic Relief Allowance (PERA)in the amount of P500.00 a month per employee in accordance with the terms and conditions prescribed under the General Appropriations Act;
+
+Payment of honoraria or barangay chairmen not exceeding Pl,000 a month and of barangay councilors, treasurers and secretaries each not exceeding P600 per month including the Pl,000 Christmas bonus for each barangay chairman, councilor, treasurer and 8ecretary pur8uant to R.A. 7160;
+
+v. Land and home development improvement projects devolved by the Department of Agrarian Reform;
+
+vi. Procurement and distribution of certified seeds, purchase, expansion and conservation of breeding stocks, construction, repair and rehabilitation of water impounding systems and procurement or fishing net8 and other materia1s supportive or fishermen devolved by the Department of Agriculture;
+
+vii. Establishment of new forest plantations and maintenance and protection of existing forest plantations devolved by the Depart8ent of Environment and Natural Resources;
+
+ix. Construction, rehabilitation and repair of devolved provincial health office/district/municipal / medicate community hospitals and other facilities of the Department of Health, including purchase of medical equipment; and,
+
+x. Implementation of water supply and communal irrigation project8 devolved by the Department of Public Works and Highways;
+
+B. All other requirements and limitations provided for under Title Five of Book II of the Code shall be strictly observed.
+
+## Section 4
+
+_Implementing Rules and Regulations._ The Secretary of Budget and Management shall issue such rules and regulations as may be necessary to implement the provisions of this Order.
+
+## Section 5
+
+Effectivity, This Order shall take effect immediately.
+
+Done, in the City of Manila, this 24th day of February, in the year of our Lord, nineteen hundred and ninety two.
+
+(Sgd.) **CORAZON C. AQUINO**
+
+By the President:
+
+(Sgd.) **FRANKLIN M. DRILON**
+Executive Secretary

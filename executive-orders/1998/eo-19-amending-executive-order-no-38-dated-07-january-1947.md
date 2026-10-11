@@ -1,0 +1,66 @@
+---
+title: "Executive Order No. 19 — Amending Executive Order No. 38 dated 07 January 1947 entitled “Providing for the Coat of Arms, Seal and Flag of the President and Vice President of the Philippines”, as amended (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 19"
+number: "19"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1998-08-27
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1998/eo_19_1998.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1998/pdf/eo_19_1998.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 19
+
+**Amending Executive Order No. 38 dated 07 January 1947 entitled “Providing for the Coat of Arms, Seal and Flag of the President and Vice President of the Philippines”, as amended (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 19, August 27, 1998 ]
+
+AMENDING EXECUTIVE ORDER NO. 38 DATED 07 JANUARY 1947 ENTITLED “PROVIDING FOR THE COAT OF ARMS, SEAL AND FLAG OF THE PRESIDENT AND VICE PRESIDENT OF THE PHILIPPINES”, AS AMENDED
+
+WHEREAS, Executive Order No. 38 dated 07 January 1947 entitled “Providing for the Coat of Arms, Seal and Flag of the President and Vice President of the Philippines” adopted a Coat of Arms, Seal and Flag design which consist of the eight-rayed Philippine Sun, with a red equilateral triangle containing the traditional sea lion with a sword, and a mullet each at the corner of the three angles;
+
+**WHEREAS,** Section 2 thereof provides that the seal of the President of the Philippines shall consist of the Coat of Arms of the President of the Philippines, encircled by the words “Seal of the President of the Philippines”;
+
+**WHEREAS,** Executive Order 451 dated 04 July 1951 amended Executive Order No. 38 to specify that the color of the sun and the sea lion shall be in golden yellow and, additionally provide that the design shall be surrounded by stars forming an amulet in a number equivalent to the number of provinces of the Republic as of 04 July 1951;
+
+**WHEREAS,** from 1951 to the present, the total number of provinces has increased from fifty-one (51) to seventy-eight (78); and,
+
+**WHEREAS,** in view of the continuously changing number of provinces, there is need to regularly update the Presidential Seal and Flags to ensure that the number of stars in the amulet matches the number of provinces of the country at any given time.
+
+**NOW, THEREFORE, I, Joseph Ejercito Estrada,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:
+
+## Section 1
+
+Section 1 of E.O. No. 38, s. of 1947, is further amended to read as follows: “Section 1. The Coat of Arms of the President of the Philippines shall be of the following design:
+
+Shield: the eight-rayed Philippine sun ravonnant in golden yellow; on the center, an equilateral triangle in gules (red); overall the traditional sea lion of the Coat of Arms granted to the City of Manila in 1596, on guard with sword, or at hilt and one mullet in golden yellow in the corner of each of the three angles of the equilateral triangle: one mullet representing Luzon; one, Visayas; and another, Mindanao.
+
+The whole, surrounded by stars in the form of an amulet with one point of each star outward on the imaginary radiating center lines, the number of stars conforming to the number of provinces of the Republic at any given time.”
+
+## Section 2
+
+The Office of Presidential Protocol shall ensure that all concerned offices/units in the Office of the President shall comply with the provisions of this Order.
+
+## Section 3
+
+This Order shall take effect immediately.
+
+**DONE** in the City of Manila, this 27th day of August in the year of Our Lord, nineteen hundred and ninety eight.
+
+(SGD.) **JOSEPH EJERCITO ESTRADA**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RONALDO B. ZAMORA**
+Executive Secretary

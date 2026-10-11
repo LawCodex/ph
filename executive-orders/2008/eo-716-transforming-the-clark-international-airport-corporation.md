@@ -1,0 +1,105 @@
+---
+title: "Executive Order No. 716 — Transforming the Clark International Airport Corporation (CIAC) Into a Subsidiary of the Bases Conversion and Development Authority (BCDA), and Amending Executive Order No. 193 for This Purpose (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 716"
+number: "716"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2008-04-03
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2008/eo_716_2008.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2008/pdf/eo_716_2008.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 716
+
+**Transforming the Clark International Airport Corporation (CIAC) Into a Subsidiary of the Bases Conversion and Development Authority (BCDA), and Amending Executive Order No. 193 for This Purpose (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 716, April 03, 2008 ]
+
+TRANSFORMING THE CLARK INTERNATIONAL AIRPORT CORPORATION (CIAC) INTO A SUBSIDIARY OF THE BASES CONVERSION AND DEVELOPMENT AUTHORITY (BCDA), AND AMENDING EXECUTIVE ORDER NO. 193 FOR THIS PURPOSE
+
+WHEREAS, Executive Order No. 174, Series of 1994, designated the Clark Special Economic Zone as the future site of a premier international airport;
+
+**WHEREAS,** Executive Order No. 193, Series of 2003, established Clark International Airport Corporation (CIAC), as a subsidiary of Clark Development Corporation (CDC), to operate and manage the Clark Civil Aviation Complex, including the Diosdado Macapagal International Airport (DMIA);
+
+**WHEREAS,** Section 5 (f) of Republic Act 722/ grants BCDA the authority to construct, own, lease, operate and maintain public utilities as well as infrastructure;
+
+**WHEREAS,** CIAC was granted by the Clark Development Corporation a fifty (50) year franchise to operate the Clark Civil Aviation Complex-Diosdado Macapagal International Airport (DMIA);
+
+**WHEREAS,** the development of Clark to be a globally competitive international service and logistics center in the Asia-Pacific Region has been declared as one of the 10-point legacy agenda of this Administration;
+
+**WHEREAS,** the Department of Transportation and Communications (DOTC) pursuant to Executive Order No. 125, as amended by Executive Order No. 125-A Series of 1987, is the primary policy, planning, programming, coordinating, implementing, regulating and administrative entity of the Executive Branch of the government in the promotion, development and regulation of dependable and coordinated networks of transportation and communication systems as well as in the fast, safe, efficient and reliable postal transportation and communications services;
+
+**WHEREAS,** there is a need to transform CIAC into a subsidiary of BCDA to ensure that the development of the Clark Civil Aviation Complex-DMIA is aligned to the conversion program of BCDA;
+
+**WHEREAS,** there is a need to clarify the functions and jurisdiction of CDC and CIAC in order to create synergy between the two corporations;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAl-ARROYO,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+The Clark International Airport Corporation (CIAC) is hereby transformed from a subsidiary of Clark Development Corporation (CDC) to a subsidiary of the Bases Conversion and Development Authority (BCDA) to operate and manage the Clark Civil Aviation Complex (CCAC) defined herein. The ownership of CIAC shall revert to the BCDA which shall be the recipient of the dividends from CIAC.
+
+## Section 2
+
+CIAC shall be subject to the policy supervision of the Department of Transportation and Communications (DOTC).
+
+## Section 3
+
+CDC shall remain the implementing arm of BCDA within the Clark Freeport Zone and Clark Special Economic Zone, pursuant to Section 15 of RA 7227 and RA 9400.
+
+## Section 4
+
+Board of Directors. The powers of the CIAC shall be vested in and exercised by the Board of Directors which shall be composed of not more than nine (9) members,
+
+The Chairman and Members of the Board shall be nominated by the President of the Philippines,
+
+No person shall be nominated as a member of the Board of CIAC unless he is a Filipino citizen, of good moral character, and of recognized competence in relevant fields including but not limited to civil aviation, economics, finance, law, engineering or management
+
+## Section 5
+
+CIAC shall only engage in aviation, aviation-related services, and aviation-related logistics activities. All lease and business arrangements pertaining to the said services /activities shall now be solely undertaken by CIAC.
+
+## Section 6
+
+The Clark Civil Aviation Complex (CCAC) shall comprise the area of two thousand two hundred (2,200) hectares, and shall be under the jurisdiction of the CIAC.
+
+## Section 7
+
+The Clark Industrial Estate 5 (IE5) area measuring approximately 290 hectares is hereby declared a logistics center.
+
+The area of approximately 166.9 hectares within the IE5 area, which is bounded on the East by the East Perimeter Wall; on the West by the Subic-Ciark-Tarlac Expressway (SCTEX) Interchange; and on the North by the SCTEX Logistics Interchange, shall be under the jurisdiction of CIAC. The remaining areas shall be under the jurisdiction of CDC
+
+## Section 8
+
+The BCDA is hereby directed to prepare an implementing plan and take the necessary steps towards effecting the transformation of CIAC, as BCDA's subsidiary, pursuant to Section 16 of RA No. 7227, to include all aspects that will govern the relationships among BCDA, CDC and CIAC.
+
+## Section 9
+
+All heads of government departments, bureaus, offices, agencies, government owned and controlled corporations and instrumentalities are directed to fast-track the necessary approvals and assists the CIAC to expedite the implementation of the various projects and activities for the development of the Clark Civil Aviation Complex.
+
+## Section 10
+
+All other orders, issuances or portions thereof, which are inconsistent with this Executive Order are hereby revoked, amended or modified accordingly.
+
+## Section 11
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 3rd day of April in the year of Our Lord, Two Thousand and Eight.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(Sgd.) **EDUARDO R. ERMITA**
+Executive Secretary

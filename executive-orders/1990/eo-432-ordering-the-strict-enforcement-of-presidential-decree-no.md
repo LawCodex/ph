@@ -1,0 +1,44 @@
+---
+title: "Executive Order No. 432 — Ordering the strict enforcement of Presidential Decree No. 825 providing penalties for improper disposal of garbage and other forms of uncleanliness"
+identifier: "Executive Order No. 432"
+number: "432"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1990-10-23
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1990/eo_432_1990.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1990/pdf/eo_432_1990.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 432
+
+**Ordering the strict enforcement of Presidential Decree No. 825 providing penalties for improper disposal of garbage and other forms of uncleanliness**
+
+**EXECUTIVE ORDER NO. 432 October 23, 1990**
+
+ORDERING THE STRICT ENFORCEMENT OF PRESIDENTIAL DECREE NO. 825 PROVIDING PENALTIES FOR IMPROPER DISPOSAL OF GARBAGE AND OTHER FORMS OF UNCLEANLINESS
+
+WHEREAS, Presidential Decree No. 825 provides penalties for improper disposal of garbage and other forms of uncleanliness;
+
+WHEREAS, the implementation and enforcement of said Presidential Decree has been neglected through the years, and the garbage problem in the Metro Manila area has deteriorated to a critical level for one reason or another, foremost among which is lack of discipline and collective action among the citizenry in properly disposing of garbage, filth, and other waste matters;
+
+WHEREAS, there is an urgent need for the National Government to address anew the garbage problem in Metro Manila area and to awaken among our citizenry the self-discipline and collective action needed to solve this recurrent socio-environmental problem for the good of the country;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Sec. 1
+
+The provisions of Presidential Decree No. 825, providing penalties for improper disposal of garbage and other forms of uncleanliness, shall forthwith be strictly implemented and enforced by all law enforcement agencies and officers, particularly at the Barangay level. For this purpose, the Barangay may designate the Barangay Tanod as sanitary officers in the area, who shall be assisted and supported by the Metropolitan Manila Authority.
+
+## Sec. 2
+
+The Metropolitan Manila Authority shall ensure that the provisions of Presidential Decree No. 825 and of this Executive Order are faithfully and strictly implemented and enforced throughout Metro Manila area. The Metropolitan Authority may request the assistance and cooperation of all law enforcement agencies and government offices and instrumentalities, national and local, with the end in view of instilling discipline and collective action among the citizenry, in resolving the recurrent garbage problem.
+
+## Sec. 3
+
+This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 23rd day of October, in the year of Our Lord, nineteen hundred and ninety.

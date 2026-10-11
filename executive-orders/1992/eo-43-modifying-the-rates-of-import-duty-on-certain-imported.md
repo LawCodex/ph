@@ -1,0 +1,60 @@
+---
+title: "Executive Order No. 43 — Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1978, as Amended, in Order to Implement the 1991 and 1992 Philippine Programmes Submitted During the Third Asean Summit Providing a Minimum Level of 25% Margin of Preference to Certain Items Which Are in the Philippine Exclusion List and Deepening the Margins of Preference in Respect of Certain Items Which Are Under the Asean Preferential Trading Arrangements"
+identifier: "Executive Order No. 43"
+number: "43"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1992-12-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1992/eo_43_1992.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1992/pdf/eo_43_1992.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 43
+
+**Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1978, as Amended, in Order to Implement the 1991 and 1992 Philippine Programmes Submitted During the Third Asean Summit Providing a Minimum Level of 25% Margin of Preference to Certain Items Which Are in the Philippine Exclusion List and Deepening the Margins of Preference in Respect of Certain Items Which Are Under the Asean Preferential Trading Arrangements**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 43, December 29, 1992 ]
+
+MODIFYING THE RATES OF IMPORT DUTY ON CERTAIN IMPORTED ARTICLES AS PROVIDED UNDER THE TARIFF AND CUSTOMS CODE OF 1978, AS AMENDED, IN ORDER TO IMPLEMENT THE 1991 AND 1992 PHILIPPINE PROGRAMMES SUBMITTED DURING THE THIRD ASEAN SUMMIT PROVIDING A MINIMUM LEVEL OF 25% MARGIN OF PREFERENCE TO CERTAIN ITEMS WHICH ARE IN THE PHILIPPINE EXCLUSION LIST AND DEEPENING THE MARGINS OF PREFERENCE IN RESPECT OF CERTAIN ITEMS WHICH ARE UNDER THE ASEAN PREFERENTIAL TRADING ARRANGEMENTS
+
+Pursuant to the powers vested in me under Section 402 of the Tariff and Customs Code of 1978, as amended, I, **FIDEL V. RAMOS** , President of the Philippines, do hereby order:
+
+## Section 1
+
+The articles specifically listed in Annex "A" hereof as classified under Section 104 of the Tariff and Customs Code of 1978, as amended, shall be accorded a 25% Margin of Preference (MOP) as items being introduced into the ASEAN Preferential Trading Arrangements (PTA). In effect, such articles shall be subject to the Preferential Tariff for ASEAN in accordance with the schedule indicated in Columns 11-17 of said Annex "A".
+
+## Section 2
+
+Items listed in Annex "B" hereof as classified under Section 104 of the Tariff and Customs Code of 1978, as amended, shall be accorded additional MOPs as specified in Columns 11 and 12 of said Annex B. In effect, such articles shall be subject to the Preferential Tariff for ASEAN in accordance with the schedule indicated in Columns 13-19 of said Annex "B". These concessions were agreed upon during the Third ASEAN Summit and the Thirtieth Meeting of the Committee on Trade and Tourism (COTT).
+
+## Section 3
+
+In the event that any subsequent changes are made in the basic Philippine rate of duty on any of the abovementioned articles, such articles shall automatically be accorded the corresponding MOPs.
+
+## Section 4
+
+After the date of effectivity of this Executive Order, all the aforementioned articles entered or withdrawn from warehouses in the Philippines for consumption under the Rules of Origin as specified in the Agreement on ASEAN Preferential Trading Arrangements ratified on August 1, 1977.
+
+## Section 5
+
+This Executive Order shall take effect on 1 January 1993.
+
+Done in the City of Manila, this 29th day of December, in the year of Our Lord, nineteen hundred and ninety two.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EDELMIRO A. AMANTE, SR.**
+Executive Secretary

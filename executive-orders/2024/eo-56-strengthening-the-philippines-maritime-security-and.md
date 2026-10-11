@@ -1,0 +1,106 @@
+---
+title: "Executive Order No. 56 — Strengthening the Philippines’ Maritime Security and Maritime Domain Awareness (Ferdinand Marcos, Jr. Bongbong)"
+identifier: "Executive Order No. 56"
+number: "56"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2024-03-25
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2024/eo_56_2024.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2024/pdf/eo_56_2024.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 56
+
+**Strengthening the Philippines’ Maritime Security and Maritime Domain Awareness (Ferdinand Marcos, Jr. Bongbong)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 56, March 25, 2024 ]
+
+REGULATING THE ISSUANCE OF LOW-NUMBERED (PROTOCOL) LICENSE PLATES TO GOVERNMENT OFFICIALS
+
+WHEREAS, Executive Order (EO) No. 400 (s. 2005, as amended, authorizes the assignment and issuance of low-numbered (protocol) license plates to motor vehicles used by high-ranking govenrment officials;
+
+**WHEREAS,** it has been observed that complaints about the proliferation and unauthorized use of protocol license plates continue to increase over the years, threatening public safety and undermining the integrity of the vehicle registration system;
+
+**WHEREAS,** Section 1, Article XI of the Constitution provides that public office is a public trust, and public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives;
+
+**WHEREAS,** Republic Act (RA) No. 6713 or the "Code of Conduct and Ethical Standards for Public Officials and Employees" declares it a policy of the State to promote high standard of ethics in public service;
+
+**WHEREAS,** under RA No. 4136 or the "Land Transportation and Traffic Code," no person shall falsely or fraudulently represent as valid and in force any driver's license, badge, certificate, plate, tag, or permit which is delinquent and/or has been revoked or suspended;
+
+**WHEREAS,** Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus and offices, and the mandate to ensure faithful execution of laws;
+
+**NOW, THEREFORE, I, FERDINAND R. MARCOS, JR.,** President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+## Section 1
+
+_Government Officials Authorized to Use Protocol License Plates._ The following government officials are hereby authorized to use protocol license plates:
+
+| OFFICIALS | ASSIGNED NUMBER |
+|---|---|
+| President of the Republic of the Philippines | 1 and/or PANGULO |
+| Vice President of the Republic of the Philippines | 2 |
+| Senate President | 3 |
+| Speaker of the House of Representatives | 4 |
+| Chief Justice of the Supreme Court | 5 |
+| Cabinet Secretaries | 6 |
+| Senators | 7 |
+| Members of the House of Representatives | 8 |
+| Associate Justices of the Supreme Court | 9 |
+| Presiding Justice of the Court of Appeals (CA), Court of Tax Appeals (CTA) and Sandiganbayan, and Solicitor General | 10 |
+| Chairpersons of Constitutional Commissions and Ombudsman | 11 |
+| Chief of Staff of the Armed Forces of the Philippines and Chief of Philippines National Police | 14 |
+
+All other officials with equivalent rank as the above authorized officials may be allowed to use protocol license plates, upon the recommendation of the Land Transportation Office (LTO), approval of the Secretary of the Department of Transportation (DOTr), and based on the list of all officials with equivalent rank as the above authorized officials of the Department of Budget and Management.
+
+The Associate Justices of the CA, CTA, and Sandiganbayan may also be allowed to use protocol license plates upon the recommendation of the LTO and approval of the Secretary of the DOTr. However, this shall not be construed to authorize all other officials with equivalent rank as the Associate Justices of the CA, CTA and Sandiganbayan and below to use protocol license plates.
+
+## Section 2
+
+_Validity._ Protocol license plates issued to authorized officials shall be valid only during their incumbency and may only be used for motor vehicles duly registered in their name and/or officially assigned to them. For this purpose, all protocol license plates issued to authorized government officials shall be surrendered to the LTO upon retirement, resignation, separation from office, or end of term or tour of duty.
+
+All previously-issued protocol license plates issued pursuant to EO No. 400, as amended, except those issued to incumbent authorized officials under Section 1 hereof, are deemed expired. The LTO in coordination with concerned agencies, is hereby directed to revoke and/or confiscate all expired protocol license plates, subject to existing laws, rules and regulations.
+
+The assignment and/or transfer of protocol license plates to unauthorized persons and/or motor vehicles is strictly prohibited. Violation of this prohibition, as well as the unauthorized use of protocol license plates, shall be sufficient cause for the revocation of the herein granted authority, confiscation of issued protocol license plates, and imposition of appropriate penalty, including administrative sanction, pursuant to existing laws, rules and regulations.
+
+## Section 3
+
+_Quantity._ All authorized government officials may be allowed a maximum of two (2) pairs of protocol license plates. However, the President, Vice President, Senate President, Speaker of the House of Representatives, and Chief Justice of the Supreme Court may be allowed a maximum of three (3) pairs of protocol license plates.
+
+## Section 4
+
+_Registry of Protocol License Plates._ The DOTr is hereby directed to develop and maintain a registry of protocol license plates issued to all authorized government officials and/or motor vehicles.
+
+## Section 5
+
+_Implementing Guidelines._ Within thirty (30) days from the effectivity of this Order, the DOTr and LTO shall formulate and issue guidelines for the effective implementation hereof, which shall include the requirements and process for application, approval, issuance, return, and confiscation of protocol license plates, among other. The DOTr and LTO shall ensure that the Implementing Guidelines will not in any way expand the list of officials authorized to use protocol license plates.
+
+## Section 6
+
+_Separability._ If any any section or part of this Order is declared unconstitutional or invalid, the other sections or provisions not otherwise affected shall remain in full force and effect.
+
+## Section 7
+
+_Repeal._ EO NO. 400, as amended, is hereby repealed. All other issuances, orders, rules and regulations, or parts thereof that are inconsistent with this Order, are hereby repealed or modified accordingly.
+
+## Section 8
+
+_Effectivity._ This Order shall take effect immediately after its publication in the Official Gazette or in a newspaper of general circulation.
+
+DONE, in the City of Manila, this 25th day of March, in the year of our Lord, Two Thousand and Twenty-Four.
+
+(Sgd.) **FERDINAND R. MARCOS, JR.**
+
+By the President:
+
+(Sgd.) **LUCAS P. BERSAMIN**
+Executive Secretary

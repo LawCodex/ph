@@ -1,0 +1,84 @@
+---
+title: "Executive Order No. 464 — Establishing the relationship between the National Statistical Coordination Board and the Autonomous Regional Government in the Autonomous Region in Muslim Mindanao"
+identifier: "Executive Order No. 464"
+number: "464"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1991-05-17
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1991/eo_464_1991.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1991/pdf/eo_464_1991.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 464
+
+**Establishing the relationship between the National Statistical Coordination Board and the Autonomous Regional Government in the Autonomous Region in Muslim Mindanao**
+
+**EXECUTIVE ORDER NO. 464 May 17, 1991**
+
+ESTABLISHING THE RELATIONSHIP BETWEEN THE NATIONAL STATISTICAL COORDINATION BOARD AND THE AUTONOMOUS REGIONAL GOVERNMENT IN THE AUTONOMOUS REGION IN MUSLIM MINDANAO
+
+WHEREAS, the reliability, credibility and comparability of data have significant having on policy and decision making of the National Government;
+
+WHEREAS, the Philippine Statistical System (PSS) as defined in Executive Order No. 121, series of 1987, consists of a policy-making and coordinating body, a statistical research and training center, a general purpose statistical agency, and all departments, bureaus, offices, agencies and instrumentalities of the national and local governments and all government-owned and controlled corporations and their subsidiaries that are engaged in statistical activities either as their primary function or as part of their administrative and regulatory functions;
+
+WHEREAS, the coverage of the PSS cuts across all regions of the country, including the Autonomous Region in Muslim Mindanao (ARMM), in order to ensure the proper determination of the over-all picture of the country;
+
+WHEREAS, the National Statistical Coordination Board (NSCB) recognizes the distinct customs and traditions of the Muslims in matters of births, deaths and marriages;
+
+WHEREAS, Article XVI, Section 2, paragraph 3 (C) of Republic Act No. 6734 provides, among others, that the Regional Assembly shall enact further legislation regarding the registration of births, marriages and deaths in the Autonomous Region in Muslim Mindanao;
+
+WHEREAS, to ensure the proper and effective implementation of the above-mentioned functions, there is a need for coordinative efforts between the National Statistical Coordination Board (NSCB) and the Autonomous Regional Government (ARG);
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines by virtue of the powers vested in me by law, do hereby order;
+
+## Sec. 1
+
+The generation of statistics, such as population count and other demographic characteristics, labor, education, health, agriculture, and other general purpose data which are being used at the national level shall be the function of the National Statistics Office (NSO) and the National Statistical Coordination Board. "Generation of Statistics" shall mean (a) authority and responsibility to label as official statistics and/or identify statistics for official use; and (b) actual preparation and collection of primary statistics for planning purposes.
+
+## Sec. 2
+
+Regional departments of the Autonomous Regional Government shall be responsible for the actual gathering of specific statistics under technical supervision of the National Statistical Coordination Board (NSCB) for purposes of consistency and coordination.
+
+## Sec. 3
+
+The generation of vital statistics out of civil registration which is necessary in the projection of population data during intercensal years shall be carried out by the National Statistics Office (NSO).
+
+Furthermore, to ensure consistency in generating national figures for vital statistics, the existing standard form for registration shall also be the basis of the form to be used by the Local Registrars in the Autonomous Region in Muslims Mindanao (ARMM). The NSO through the Office of the Civil Registrar General shall provide technical assistance in establishing the system.
+
+## Sec. 4
+
+Pursuant to Presidential Decree No. 1083, the Clerks of Court of the Shari'ah District Court and the Shari'ah Circuit Court shall act as District and Circuits Registrars of marriages, divorces, revocations of divorces and conversions within their respective jurisdiction in the ARMM.
+
+The District Registrar shall exercise supervision over Circuit Registrars in every Shari'ah District. He shall be the custodian of the records sent by the Circuit Registrars and shall likewise send copies to the Office of the Civil Registrar General.
+
+In the registration of births, marriages and death, the Shari'ah law shall take precedence from the existing civil registry law. The applicability of other civil registry laws can be invoked only to the extent as may be consistent with Presidential Decree No. 1083. This being the case, the requirements as embodied in the Revised Administrative Code of 1987, as amended, and other related laws shall be considered as applicable only to non- Muslims within the ARMM.
+
+## Sec. 5
+
+The duties of the local civil registrars shall be performed by the treasurers of such other responsible public officers as may be designated by the Regional Governor in the municipalities, districts or cities within the ARMM, except those duties that are within the jurisdiction of the Shari'ah District Courts and the Shari'ah Circuit Courts. The local civil registrars shall be under the direction and supervision of the Civil Registrar- General.
+
+## Sec. 6
+
+For the generated statistics to be considered part of the Philippine Statistics System, the Autonomous Regional Government shall coordinate with the NSCB, Coordination shall be understood as that of conforming with such standards already set by the NSCB as minimum requirements.
+
+## Sec. 7
+
+The Philippine Statistical System shall provide for the statistical needs of the ARMM. The NSO shall establish a National Statistics Regional Office for the ARMM situated in the seat of the ARG. Since no transfer is to be effected, the NSO provincial staff with the ARMM shall be retained under the NSO.
+
+## Sec. 8
+
+As to the statistical operations of offices already transferred to the ARG, and with the Philippine Statistical System cutting across regional jurisdictions, such offices and agencies, including the local government units shall still be covered by the NSCB. Data generated at the varying levels shall be submitted to the NSCB for review and approval to be considered and incorporated into the official ARMM data base.
+
+## Sec. 9
+
+If, for any reason, any part or provision of this Executive Order shall be held unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+## Sec. 10
+
+This Executive Order shall take effect fifteen (15) days after its publication to a national newspaper of general circulation and one (1) local newspaper of general circulation in the ARMM.
+
+DONE in the City of Manila, this 17th day of May, in the year of Our Lord, nineteen hundred and ninety-one.

@@ -1,0 +1,55 @@
+---
+title: "Executive Order No. 102 — Ordering the Suspension of All Appointments of Special Agents of the Military Police Command, Including Those of the G-2 Service of the Military Police Command; of All Special Agents of the Provincial Governor, City or Municipal Mayors Within the Province of Cavite, and the Confiscation of Firearms Now in Their Possession"
+identifier: "Executive Order No. 102"
+number: "102"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1947-11-04
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1947/eo_102_1947.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1947/pdf/eo_102_1947.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 102
+
+**Ordering the Suspension of All Appointments of Special Agents of the Military Police Command, Including Those of the G-2 Service of the Military Police Command; of All Special Agents of the Provincial Governor, City or Municipal Mayors Within the Province of Cavite, and the Confiscation of Firearms Now in Their Possession**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 102, November 04, 1947 ]
+
+ORDERING THE SUSPENSION OF ALL APPOINTMENTS OF SPECIAL AGENTS OF THE MILITARY POLICE COMMAND, INCLUDING THOSE OF THE G-2 SERVICE OF THE MILITARY POLICE COMMAND; OF ALL SPECIAL AGENTS OF THE PROVINCIAL GOVERNOR, CITY OR MUNICIPAL MAYORS WITHIN THE PROVINCE OF CAVITE, AND THE CONFISCATION OF FIREARMS NOW IN THEIR POSSESSION.
+
+**WHEREAS,** there have been disturbances of peace and order in the City and Province of Cavite in which special agents are reported to have been involved;
+
+**WHEREAS,** it is necessary for the preservation of peace and order in the City and Province of Cavite that all appointments of special agents be suspended;
+
+**NOW, THEREFORE, I, MANUEL ROXAS** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order that:
+
+1\. All appointments of special agents of the MPC in the City and Province of Cavite, including those of the G-2 Service of the MPC, and of special agents of the Provincial Governor and city or municipal mayors in the Province of Cavite are hereby immediately suspended.
+
+2\. Any firearm now in the possession of such special agents should be duly surrendered to, or confiscated by, the authorities concerned, as the case may be.
+
+3\. The Provincial Commander of the Province of Cavite is hereby directed to disarm all special agents affected by this Order and to arrest those who may continue to exercise the functions thereof after this date.
+
+4\. Any intensive campaign should be waged for the arrest of any person carrying an unlicensed firearm found within the jurisdiction of the City and Province of Cavite.
+
+5\. No government officer shall henceforth issue any firearm permit or license to any person without obtaining the previous approval of the Office of the President.
+
+6\. This Order shall take effect immediately and shall continue in full force and effect until ten days after the elections.
+
+Done at the City of Manila, this 4th day of November, in the year of Our Lord, nineteen hundred and forty-seven, and of the Independence of the Philippines, the second.
+
+(Sgd.) **MANUEL ROXAS**
+President of the Philippines
+
+By the President:
+
+(SGD.) **N. ROXAS**
+Acting Chief of the Executive Office

@@ -1,0 +1,72 @@
+---
+title: "Executive Order No. 410 — Providing for new guidelines for the processing of applications for port zone delineation"
+identifier: "Executive Order No. 410"
+number: "410"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1990-07-03
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1990/eo_410_1990.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1990/pdf/eo_410_1990.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 410
+
+**Providing for new guidelines for the processing of applications for port zone delineation**
+
+**EXECUTIVE ORDER NO. 410 July 3, 1990**
+
+PROVIDING FOR NEW GUIDELINES FOR THE PROCESSING OF APPLICATIONS FOR PORT ZONE DELINEATION
+
+WHEREAS, Section 2, Article 11, of Presidential Decree No. 857, provides that:
+
+"Declaration of Policies and Objectives
+
+It is hereby declared to be the policy of the State to implement an integrated program for the planning, development, financing, and operation of Port or Port District for the entire country in accordance with the following objectives:
+
+c. To promote regional development through the dispersal of industries and commercial activities throughout the different regions.
+
+e) To redirect and reorganized port administration beyond its specific and traditional functions of harbor development and cargo handling operations to the broader functions of total port district development, including encouraging the full and efficient utilization of the Port's hinterland and tributary areas."
+
+WHEREAS, Sec. 5, Article IV, of Presidential Decree No. 857, further states that:
+
+"Port District. The Authority may, from time to time submit to the President through the National Economic and Development Authority, applications for the declaration of specific areas as Port Districts. Such applications shall be accompanied by a survey plan indicating the geographical location of the area or areas to be declared as Port District with their respective boundaries properly delineated."
+
+WHEREAS, consistent with the aforesaid policies and objectives, the Regional Development Councils may participate in the review and processing of applications for port zone delineation so that the same may be aligned with their respective regional development plans;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Sec. 1
+
+All applications for port zone delineation shall henceforth be reviewed by the Regional Development Councils covering the areas subject of the said applications.
+
+## Sec. 2
+
+The procedure in the processing of the applications for port zone delineation shall be as follows:
+
+(a) The Philippine Ports Authority shall consult the local government officials and the concerned Regional Development Council before conducting the detailed surveys on the subject areas.
+
+(b) The application shall be accompanied by a survey plan indicating the geographical location of the area to be delineated and the following data:
+
+(i) The development program for port facilities, including the project components, indicating the areas or locations thereof, and the basis of the program (e.g., master plans, feasibility studies, and pre-feasibility studies) including the status of program/project preparation/implementation; and
+
+(ii) inventory of existing land use and status of ownership of the areas under consideration.
+
+(c) Based on the submission of the Philippine Ports Authority, the concerned Regional Development Council shall review the consistency of the documents and data in the application in accordance with the implementing rules and regulations to be promulgated under this Executive Order.
+
+## Sec. 3
+
+Applications which are jointly recommended for approval by the Philippine Ports Authority and Regional Development Council shall be submitted directly to the Office of the President for the latter's consideration. Should conflicts occur between the application submitted by Philippine Ports Authority and the review or recommendation of the concerned Regional Development Council, the issues shall be forwarded to the NEDA infrastructure Committee for resolution prior to submission to the Office of the President.
+
+## Sec. 4
+
+The National Economic and Development Authority infrastructure Committee is hereby authorized to promulgate the implementing rules and regulations under this Executive Order.
+
+## Sec. 5
+
+The Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 3rd day of July, in the year of Our Lord, nineteen hundred and ninety.

@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 348 — Creating a Committee to Formulate a Comprehensive Plan for the Rebuilding of the Tondo Burnt Area of the City of Manila"
+identifier: "Executive Order No. 348"
+number: "348"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1941-05-24
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1941/eo_348_1941.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1941/pdf/eo_348_1941.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 348
+
+**Creating a Committee to Formulate a Comprehensive Plan for the Rebuilding of the Tondo Burnt Area of the City of Manila**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 348, May 24, 1941 ]
+
+**CREATING A COMMITTEE TO FORMULATE A COMPREHENSIVE PLAN FOR THE REBUILDING OF THE TONDO BURNT AREA OF THE CITY OF MANILA**
+
+**WHEREAS,** the fire disaster in Tondo, City of Manila, on May 3, 1941, was the biggest and most disastrous in that area and calls for the formulation of a comprehensive plan for the rebuilding of the affected area in such a manner as to reduce to fire hazard, improve the layout of the streets, and better the living conditions of the people residing there; and
+
+**WHEREAS,** since the fire area is near the reclaimed district in the North Harbor, it is obvious that such plans for rebuilding should take into account not only the needs of the Tondo district and the general plan for the development of the City of Manila but also the plan for the North Harbor district, including the reclaimed area;
+
+**NOW, THEREFORE, I, MANUEL L. QUEZON,** President of the Philippines, pursuant to the authority vested in me by law, do hereby appoint a committee to be composed of such members as the President may designate from time to time, to direct the formulation of a comprehensive plan for the rebuilding of the Tondo burnt area.
+
+This Committee, which shall meet at such places and times as may be designated by the Chairman, is hereby empowered to call on any official, office, branch or dependency of the Government for such data or assistance as may be required.
+
+The Committee shall report to the President as soon as possible, making recommendations on the plan which shall be adopted and the procedure most expeditious to carry out such recommendations.
+
+Done at the City of Manila, this 24th day of May, in the year of Our Lord, nineteen hundred and forty-one, and of the Commonwealth of the Philippines, the sixth.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

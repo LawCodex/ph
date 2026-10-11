@@ -1,0 +1,42 @@
+---
+title: "Executive Order No. 380 — Amending Further Paragraph 8 of Executive Order No. 354, Dated July 1, 1941, Entitled “Promulgating Certain Emergency Rules and Regulations Governing Electrical Communication and Radio Installation and Sale or Repair of Radio Apparatus,” as Amended By Executive Order No. 365, Dated August 29, 1941"
+identifier: "Executive Order No. 380"
+number: "380"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1941-12-11
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1941/eo_380_1941.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1941/pdf/eo_380_1941.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 380
+
+**Amending Further Paragraph 8 of Executive Order No. 354, Dated July 1, 1941, Entitled “Promulgating Certain Emergency Rules and Regulations Governing Electrical Communication and Radio Installation and Sale or Repair of Radio Apparatus,” as Amended By Executive Order No. 365, Dated August 29, 1941**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 380, December 11, 1941 ]
+
+AMENDING FURTHER PARAGRAPH 8 OF EXECUTIVE ORDER NO. 354, DATED JULY 1, 1941, ENTITLED “PROMULGATING CERTAIN EMERGENCY RULES AND REGULATIONS GOVERNING ELECTRICAL COMMUNICATION AND RADIO INSTALLATION AND SALE OR REPAIR OF RADIO APPARATUS,” AS AMENDED BY EXECUTIVE ORDER NO. 365, DATED AUGUST 29, 1941.
+
+Paragraph 8 of Executive Order No. 354, dated July 1, 1941, as amended by Executive Order No. 365, dated August 29, 1941, is hereby further amended so as to read as follows:
+
+“8. No amateur radio station licensee shall allow any third person to use his station except when owned and operated by a member of the U. S. Naval, the U. S. Military or the Philippine Army Service, and is strictly under the official supervision of either the District Communication Officer of the U. S. Navy, 16th Naval District, the Department Signal Officer, U. S. Army, or the Chief Signal Officer, Philippine Army, and is being used by either the U. S. Naval, the U. S. or the Philippine Army Communication Service as a monitoring station, in which case such station may be authorized by the Department of National Defense to permit members of the U. S. Naval Service, the U. S. Military Service, or the Philippine Army Service, to use it for third party communication.”
+
+Done at the City of Manila this 11th day of December, in the year of our Lord, nineteen hundred and forty-one, and of the Commonwealth of the Philippines, the seventh.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

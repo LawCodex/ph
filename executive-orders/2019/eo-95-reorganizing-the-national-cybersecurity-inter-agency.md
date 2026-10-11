@@ -1,0 +1,104 @@
+---
+title: "Executive Order No. 95 — Reorganizing the National Cybersecurity Inter-Agency Committee, Amending Executive Order No. 189 (S. 2015) and for Other Purposes (Rodrigo Duterte)"
+identifier: "Executive Order No. 95"
+number: "95"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2019-11-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2019/eo_95_2019.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2019/pdf/eo_95_2019.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 95
+
+**Reorganizing the National Cybersecurity Inter-Agency Committee, Amending Executive Order No. 189 (S. 2015) and for Other Purposes (Rodrigo Duterte)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 95, November 15, 2019 ]
+
+REORGANIZING THE NATIONAL CYBERSECURITY INTER- AGENCY COMMITTEE, AMENDING EXECUTIVE ORDER NO. 189 (S. 2015) AND FOR OTHER PURPOSES
+
+WHEREAS, Executive Order (EO) No. 189 (s. 2015) created the National Cybersecurity Inter-Agency Committee (NCIAC) chaired by the Executive Secretary, and co-chaired by the National Security Adviser and Director-General of the National Security Council (NSC) and the Secretary of the Department of Science and Technology (DOST);
+
+**WHEREAS,** the NCIAC is mandated to assess the vulnerabilities and risks of the country's cybersecurity, issue updated security protocols to all government employees, for the proper handling, distribution and storage of all forms of documents and communication, and enhance the public-private partnership to deter cyberattacks, minimize cyber risks and increase cyber resiliency;
+
+**WHEREAS,** Republic Act (RA) No. 10175 or the "Cybercrime Prevention Act of 2012," created the Cybercrime Investigation and Coordinating Center (CICC) with the mandate to coordinate the preparation of appropriate and effective measures to prevent and suppress cybercrime activities;
+
+**WHEREAS,** RA No. 10844, otherwise known as the "Department of Information and Communications Technology (DICT) Act of 2015," created the DICT and transferred to it all powers and functions related to cybersecurity, including the formulation of the National Cybersecurity Plan and the facilitation of international cooperation on intelligence regarding cybersecurity matters, and attached the CICC to the DICT for policy and program coordination;
+
+**WHEREAS,** Section 31, Chapter 10, Title III, Book III of EO No. 292 (s. 1987) or the "Administrative Code of 1987," provides that the President shall have continuing authority to reorganize the Executive Department in order to achieve simplicity, economy and efficiency; and
+
+**WHEREAS,** Section 17, Article VII of the Constitution provides that the President shall have control over all the executive departments, bureaus and offices, and shall ensure that the laws are faithfully executed;
+
+**NOW, THEREFORE, I, RODRIGO ROA DUTERTE** , President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+## Section 1
+
+_Reorganization of the NCIAC._ Section 1 of EO No. 189 is hereby amended to read as follows:
+
+"There is hereby created a National Cybersecurity Inter-Agency Committee, hereinafter referred to as 'Committee,' under the Office of the President, to be chaired by the Executive Secretary, co-chaired by the Director-General of the National Security Council and the Secretary of the Department of Information and Communications Technology, and shall further be composed of the following officials:
+
+Members:
+
+Secretary of the Department of Science and Technology;
+
+Secretary of the Department of Energy;
+
+Secretary of the Department of Finance;
+
+Secretary of the Department of Foreign Affairs;
+
+Secretary of the Department of the Interior and Local Government;
+
+Secretary of the Department of Justice;
+
+Secretary of the Department of National Defense;
+
+Secretary of the Department of Transportation;
+
+Secretary of the Presidential Communications Operations Office;
+
+Commissioner of the National Telecommunications Commission;
+
+Chairman of the National Privacy Commission;
+
+Executive Director of the Anti-Terrorism Council - Program Management Center;
+
+Executive Director of the Cybercrime Investigation and Coordinating Center; and
+
+Governor of the Bangko Sentral ng Pilipinas.
+
+The Committee may invite concerned public and private agencies or entities to participate, complement, and assist in the performance of its functions."
+
+## Section 2
+
+_NCIAC Secretariat._ The NCIAC shall have a Secretariat to be composed of officials from the member-agencies of the Committee. The Committee shall provide for the guidelines for the creation of the Secretariat, including the appropriate ranks of officials that shall comprise it.
+
+## Section 3
+
+_Separability._ If any provision of this Order is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in full force and effect.
+
+## Section 4
+
+_Repeal._ Pursuant to RA No. 10844, Sections 3, 4 and 5 of EO No. 189 are hereby repealed. Further, except to the extent modified by this Order, all other provisions of EO No. 189 shall remain valid and subsisting.
+
+## Section 5
+
+_Effectivity._ This Order shall take effect immediately.
+
+**DONE,** in the City of Manila, this 15 th day of November , in the year of our Lord, Two Thousand and Nineteen.
+
+(SGD.) **RODRIGO ROA DUTERTE**
+
+By the President:
+
+(SGD.) **SALVADOR C. MEDIALDEA**
+Executive Secretary

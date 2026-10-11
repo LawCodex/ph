@@ -1,0 +1,42 @@
+---
+title: "Executive Order No. 94 — Further Amending Executive Order No. 58, Dated August 16, 1954, So as to Include the Director of the Planning of the National Planning Commission as Member of the Commission for the Development and Maintenance of Corregidor and Bataan"
+identifier: "Executive Order No. 94"
+number: "94"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1955-02-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1955/eo_94_1955.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1955/pdf/eo_94_1955.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 94
+
+**Further Amending Executive Order No. 58, Dated August 16, 1954, So as to Include the Director of the Planning of the National Planning Commission as Member of the Commission for the Development and Maintenance of Corregidor and Bataan**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 94, February 07, 1955 ]
+
+FURTHER AMENDING EXECUTIVE ORDER NO. 58, DATED AUGUST 16, 1954, SO AS TO INCLUDE THE DIRECTOR OF PLANNING OF THE NATIONAL PLANNING COMMISSION AS MEMBER OF THE COMMISSION FOR THE DEVELOPMENT AND MAINTENANCE OF CORREGIDOR AND BATAAN.
+
+Paragraph 3 of Executive Order No. 58, dated August 16, 1954 as amended by Executive Order No. 87 dated January 5, 1955, is hereby further amended to read as follows:
+
+“3. The Commission shall be composed of the Secretary of National Defense, as Chairman, the Secretary of Agriculture and Natural Resources and the Secretary of Commerce and Industry, as Vice-Chairmen, the Secretary of Public Works and Communications, the Director of Planning of the National Planning Commission, the Chief of Staff of the Armed Forces of the Philippines, the Civil Aeronautics Administrator, the President of the Philippine Association, the President of the Philippine Tourist and Travel Association, the National Commander of the USAFFE Legion, the Supreme Councilor of the Defenders of Bataan and Corregidor and the Chairman of the Historical Markers Committee, as members.”
+
+Done in the City of Manila, this 7th day of February, in the year of Our Lord, nineteen hundred and fifty-five, and of the Independence of the Philippines, the ninth.
+
+(Sgd.) **RAMON MAGSAYSAY**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **FRED RUIZ CASTRO**
+Executive Secretary

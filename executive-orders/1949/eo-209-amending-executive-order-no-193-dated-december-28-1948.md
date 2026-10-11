@@ -1,0 +1,79 @@
+---
+title: "Executive Order No. 209 — Amending Executive Order No. 193, Dated December 28, 1948"
+identifier: "Executive Order No. 209"
+number: "209"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1949-03-30
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1949/eo_209_1949.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1949/pdf/eo_209_1949.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 209
+
+**Amending Executive Order No. 193, Dated December 28, 1948**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 209, March 30, 1949 ]
+
+AMENDING EXECUTIVE ORDER NO. 193, DATED DECEMBER 28, 1948.
+
+By virtue of the powers vested in me under Republic Act No, 330, entitled “An Act Authorizing the President of the Philippines to establish a system of import control by regulating imports of non-essential and luxury articles, creating an import control board, authorizing the issuance of rules and regulations to carry into effect such control, and penalizing violations of this Act,” **I, ELPIDIO QUIRINO** , President of the Philippines, do hereby order:
+
+## Section 1
+
+Effective May 1, 1949, Appendix A of Executive Order No. 193, dated December 28, 1948, is hereby amended so as to include in the list of luxury and non-essential articles the following: Under MISCELLANEOUS, 26.9 Onions, from May 1 to June 30; 26.10 Sugar; under PERFUMES and TOILET PREPARATIONS, 3.7 Powders, face (including perfumed talc) ; 3.12 other toilet preparations (including dentifrice).
+
+## Section 2
+
+Effective May 1, 1949, Appendix B of Executive Order No. 193, dated December 28, 1948, is hereby amended so as to include or substitute, as the case may be, in the schedule of percentage reductions prescribed therein the following: Onions, 90 per cent; Sugar, 90 per cent-Perfumed Talc face powder, 50 per cent; Dentifrice, 50 per cent; Matches costing more than P2 per gross, c. i. f. Philippines, 30 per cent; Rubber shoes costing more than P4.50 per pair, c. i. f. Philippines, 50 per cent.
+
+## Section 3
+
+The Import Control Board is hereby authorized to allow an importer to choose as basis for the determination of his quota, either his importation during the Base Period as specified in Appendix B of Executive Order No. 193, dated December 28, 1948, or two-thirds of his importation from July 1, 1947, to December 31, 1948.
+
+## Section 4
+
+The Import Control Board is hereby authorized to declare goods in dock, on lighter or on board an exporting vessel, on the date of effectivity of the Import Control Law as having left port on that date, and to allow the entry of goods that were already paid for, or in transit to port, prior to the effectivity of the Import Control Law, charging the same against the quotas of the importers and disposing of any excess over such quotas as the board may deem just and reasonable.
+
+## Section 5
+
+The Import Control Board is hereby authorized to define what articles come under the items listed in Appendix A and under the price limits set in Appendix B, of Executive Order No. 193, dated December 28, 1948.
+
+## Section 6
+
+The Import Control Board is hereby authorized to issue such supplementary rules and regulations as it may deem necessary to carry out the purposes of Executive Order No. 193, dated December 28, 1948, and its amendments.
+
+## Section 7
+
+The phrase “ports of embarkation” mentioned in section 13 of Executive Order No. 193, dated December 28, 1948, is hereby amended so as to read as follows: “ports of embarkation or countries of origin.”
+
+## Section 8
+
+All commodities mentioned in section 1 hereof leaving ports of embarkation or countries of origin after May 1, 1949, shall be subject to this Order.
+
+## Section 9
+
+Section 5 of Executive Order No. 193, dated December 28, 1948, is hereby amended to read as follows:
+
+“**Section 5.** Not more than 20 per cent of the quota fixed for each article shall be set aside, to be allocated exclusively to Filipino importers who had no importation during the base period mentioned in the next preceding section but have been registered subsequently as importers of such articles: _Provided,_ That alien importers who, after the base period, actually imported and still continue to import any controlled article may apply as new importers. No new importer shall receive a percentage allocation bigger than one fifth of the percentage allocated as quotas to the old importers. Applications for licenses to import any portion of this 20 per cent reserved quota, must be filed within one month from the date the quota is announced. Any part of this reserved quota not allocated or used shall be available for allocation to the old importers.”
+
+All provisions of this Order, except sections 1 and 2, shall take effect immediately.
+
+Done in the City of Manila, this 30th day of March, in the year of our Lord, nineteen hundred and forty-nine, and of the Independence of the Philippines, the third.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **TEODORO EVANGELISTA**
+Executive Secretary

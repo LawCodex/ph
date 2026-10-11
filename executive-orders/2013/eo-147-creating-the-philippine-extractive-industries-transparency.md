@@ -1,0 +1,140 @@
+---
+title: "Executive Order No. 147 — Creating the Philippine Extractive Industries Transparency Initiative"
+identifier: "Executive Order No. 147"
+number: "147"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2013-11-26
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2013/eo_147_2013.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2013/pdf/eo_147_2013.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 147
+
+**Creating the Philippine Extractive Industries Transparency Initiative**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 147
+
+CREATING THE PHILIPPINE EXTRACTIVE INDUSTRIES TRANSPARENCY INITIATIVE
+
+WHEREAS, Section 28, Article II of the Philippine Constitution states that subject to reasonable conditions prescribed by law, the State shall adopt and implement a policy of full public disclosure of all its transactions involving public interest;
+
+**WHEREAS,** Section 2 of Republic Act No. 7942, or the “Philippine Mining Act of 1995,” provides that it shall be the responsibility of the State to promote the rational exploration, development, utilization, and conservation of the country’s mineral resources through the combined efforts of government and the private sector in order to enhance national growth in a way that effectively safeguards the environment and protects the rights of affected communities;
+
+**WHEREAS,** pursuant to Section 14 of the Executive Order (EO) No. 79 (s. 2012), the Philippine government commits to participate in the Extractive Industries Transparency Initiative (EITI) that sets international standards for transparency and accountability in the extractive industries and in government;
+
+**WHEREAS,** the Philippine government is committed to ensure greater transparency and accountability in the extractive industries, specifically in the way the government collects, and companies pay taxes from extractive industries;
+
+**WHEREAS,** the EITI requires the creation of a body that will perform all the necessary functions and complete all the requirements of the EITI process to be a “compliant country”; and
+
+**WHEREAS,** the duty of the President under Section 17, Article VII of the Constitution includes the faithful execution of fundamental laws on public accountability and transparency.
+
+**NOW, THEREFORE, I, BENIGNO S. AQUINO III,** President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## SECTION 1
+
+_Instituting the Philippine Extractive Industries Transparency Initiative._ The Philippine Extractive Industries Transparency Initiative (hereinafter referred to as PH-EITI) is hereby instituted.
+
+## SECTION 2
+
+_Creation and Composition of the PH-EITI Multi-stakeholder Group._ In accordance with the EITI International Guidelines, the PH-EITI shall be implemented and operationalized through a multi-stakeholder group (MSG) and decision making body (hereinafter referred to as PH-EITI-MSG). It shall be headed by the Secretary of the DOF as the Chairperson who will be responsible for convening the group. It shall specifically consist of the following members:
+
+a. Five (5) Government Representatives chosen by the Mining Industry Coordinating Council (MICC), created pursuant to Section 9 of EO No. 79, which will include senior officials, duly deputized to represent their respective Secretaries; provided that, local government units shall be represented by the Union of Local Authorities of the Philippines;
+
+b. Five (5) Business Group Representatives; and
+
+c. Five (5) Civil Society Organizations (CSOs) Representatives.
+
+The Business Group and the CSOs shall each designate five (5) full and five (5) alternate representatives to the PH-EITI-MSG. Each organization, upon the decision of its members and through its own independent processes and governance mechanisms, can at any time replace their representatives in the PH-EITI-MSG; provided that such replacement shall only serve for the unexpired term of the representative replaced. Permanent and alternate members shall attend and participate in the PH-EITI-MSG meetings.
+
+## SECTION 3
+
+_Terms of the Members of PH-EITI MSG and Meetings._ All members of the PH-EITI-MSG shall serve for a term of three (3) years. Representatives may be re-appointed subject to the independent processes and governance mechanisms of their respective organizations. It shall be the responsibility of each sector to ensure the continuity of representation and institutional memory within the PH-EITI-MSG.
+
+The PH-EITI-MSG shall meet quarterly or as often as it may deem necessary. The quorum for such meetings shall require the presence of at least three (3) representatives each from the Government, the Business Group and the CSOs. The MSG shall make decisions by consensus.
+
+## SECTION 4
+
+_Mandates of the PH-EITI-MSG._ The PH-EITI-MSG shall have the following mandates:
+
+a. Ensure sustained political commitment for the initiative and mobilize resources to sustain its activities and goals;
+
+b. Set the strategic direction required for effectively implementing the initiative in the Philippines;
+
+c. Assess and seek the removal of barriers to its implementation;
+
+d. Set the scope of the EITI process; and
+
+e. Ensure that the initiative is effectively integrated in the reform process outlined under EO No. 79 and any other related government reform agenda.
+
+## SECTION 5
+
+_Powers and Functions of the PH-EITI MSG._ The PH-EITI-MSG shall have the following powers and functions:
+
+a. Ensure the commitment of the different stakeholders to the implementation of EITI;
+
+b. Define the strategic direction and scope of EITI in the Philippines;
+
+c. Craft, publish, review, and update a fully costed Country Work Plan in consultation with key PH-EITI stakeholders and oversee the implementation of the same;
+
+d. Produce all regular reports with contextual information about the extractive industries as may be required by PH-EITI implementation;
+
+e. Establish a mechanism for the EITI reconciliation process;
+
+f. Select and appoint an independent administrator/auditor to reconcile the government and industry reports;
+
+g. Direct and supervise the PH-EITI Secretariat in its various activities and establish its internal rules of procedure;
+
+h. Through its various members, conduct outreach to, and capability-building of, various sectors in support of the PH-EITI implementation at national and sub-national levels and communicate and build awareness about EITI and the progress of its implementation in the Philippines; and
+
+i. Perform such other functions as may be germane to the purpose for which it was created and consistent with this Order and the EITI Principles.
+
+## SECTION 6
+
+_PH-EITI Secretariat._ The PH-EITI shall be assisted by a PH-EITI Secretariat whose composition shall be determined by the Secretary of Finance, in consultation with the PH-EITI-MSG. It shall hold office in the DOF, or such other government or private facilities as may be determined by the PH-EITI-MSG.
+
+The PH-EITI Secretariat shall be composed of administrative and technical personnel as the PH-EITI-MSG may deem necessary to assist the PH-EITI-MSG in efficiently and effectively carrying out its powers and functions. The creation of additional plantillapositions and hiring of additional personnel to carry out the functions enumerated herein shall be authorized in coordination with, and subject to the approval of the Department of Budget and Management (DBM).
+
+## SECTION 7
+
+_Engagement of Consultants._ The PH-EITI shall have the authority to engage the services of consultants or advisers as it may deem necessary to accomplish its objectives.
+
+## SECTION 8
+
+_Creation of the PH-EITI Technical Working Group and Assistance to PH-EITI._ PH-EITI may create Technical Working Groups composed of departments, bureaus, offices, agencies or instrumentalities of the Government, including government-owned and controlled corporations, and representatives of the business sector and CSOs. All such agencies, offices, and representatives are hereby directed to extend such assistance and cooperation as the PH-EITI may need in the exercise of its powers, execution of its functions, and discharge of its duties and responsibilities.
+
+## SECTION 9
+
+_Funding._ Upon the effectivity of this Order, the amount necessary to carry out its implementation shall be charged against the budget of the DOF. Thereafter, appropriations for the PH-EITI implementation shall be included in the budget of the DOF.
+
+The PH-EITI shall have the authority to receive, disburse, and manage financial aid or grants from foreign and domestic entities to be utilized for the implementation of its objectives subject to the usual accounting and auditing rules and regulations.
+
+## SECTION 10
+
+_Separability._ If any provision of this Order is declared invalid or unconstitutional, the other provisions unaffected shall remain valid and subsisting.
+
+## SECTION 11
+
+_Repealing Clause._ All orders, proclamations, rules, regulations, or parts thereof, which are inconsistent with any of the provisions of this Order are hereby repealed or modified accordingly.
+
+## SECTION 12
+
+_Effectivity._ This Order shall take effect immediately upon publication in a newspaper of general circulation.
+
+DONE, in the City of Manila, this 26th day of November, in the year of our Lord, Two Thousand and Thirteen.
+
+(Sgd.) **BENIGNO S. AQUINO III**
+
+By the President:
+
+(Sgd.) **PAQUITO N OCHOA, JR.**
+Executive Secretary

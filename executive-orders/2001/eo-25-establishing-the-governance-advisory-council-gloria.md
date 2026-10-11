@@ -1,0 +1,97 @@
+---
+title: "Executive Order No. 25 — Establishing the Governance Advisory Council (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 25"
+number: "25"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2001-07-18
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2001/eo_25_2001.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2001/pdf/eo_25_2001.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 25
+
+**Establishing the Governance Advisory Council (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 25, July 18, 2001 ]
+
+ESTABLISHING THE GOVERNANCE ADVISORY COUNCIL
+
+WHEREAS, there is a need to formulate a national governance reform agenda, hereinafter referred to as the Governance Agenda, to promote the global competitiveness of the Philippines in order to gain a higher and more sustained level of confidence from local and foreign investors;
+
+**WHEREAS,** the business sector and civil society must take an active part in drawing up the Governance Agenda;
+
+**WHEREAS,** there must be serious efforts to align local corporate governance practices, both in the public and private sectors, with international standards and globally-accepted core principles of corporate governance consistent with the economic, social and political policies of the government;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Creation of a Governance Advisory Council._ There is hereby created a Governance Advisory Council, hereinafter referred to as the Council, which shall serve as an advisory body to the President with the principal function of formulating the Governance Agenda to promote the global competitiveness of the Philippines.
+
+The President shall appoint one (1) Chairperson and four (4) members to the Council, all of whom shall come from the private sector. The Chairperson and the members of the Council shall have a term of one (1) year, subject to a renewal or extension of their respective terms by the President.
+
+## Section 2
+
+_Staff Support to the Council._ The Council shall have a Secretariat headed by an Executive Director from the private sector appointed by the President for a term of one (1) year. The Secretariat shall render research, administrative and technical assistance to the Council.
+
+## Section 3
+
+_Functions._ The Council shall have the following functions:
+
+a. Formulate the Governance Agenda for submission to the President within six (6) months from the issuance of this Executive Order;
+
+b. Recommend policies, programs and courses of action to:
+
+i. Simplify the rules and regulations of select government agencies to raise their effectiveness and the standards of transparency and integrity in their dealings with the general public;
+
+ii. raise the standing of the Philippines in international rankings on transparency, business ethics and integrity of business and financial transactions; and
+
+iii. facilitate and expedite national and corporate governance reforms.
+
+c. Develop a criteria and system for the conferment of governance awards to deserving corporations, institutions and other entities from the public and private sectors;
+
+d. Develop a framework of cooperation that facilitates interaction between civil society, the business sector and the government for higher levels of observance of good governance principles and faster implementation of governance reforms;
+
+e. Promote governance reform initiatives undertaken by professional groups and strategic sectors aimed at raising the standards of professional practice; and
+
+f. Such other functions which the President may assign.
+
+## Section 4
+
+_Reports and Information Dissemination._
+
+a. Advisory Status. The Council shall submit regular reports on the progress of its activities directly to the President.
+
+b. Information Dissemination and Publication Program. The Council shall hold conferences, organize seminars, workshops and roundtable discussions and issue publications for the purpose of disseminating and making available the results of its studies and policy recommendations to the government, non-government organizations, educational and research institutions, the business community and the public in general.
+
+## Section 5
+
+_Technical Assistance from Government._ All government departments, agencies, bureaus, and offices are hereby directed to assist and cooperate with the members of the Council, its Secretariat and their authorized representatives and to grant them access to such information, data and records as are necessary for the fulfillment of their objective, in accordance with law.
+
+## Section 6
+
+_Funding._ The private sector, including private corporations, foundations and donor agencies, shall fund the operations and work of the Council. The Chairman and members of the Council, its Executive Director and Secretariat shall not receive any salary or fees from the government.
+
+## Section 7
+
+_Effectivity._ This Executive Order shall take effect immediately upon approval.
+
+City of Manila, July 18, 2001.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ALBERTO G. ROMULO**
+Executive Secretary

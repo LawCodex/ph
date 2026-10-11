@@ -1,0 +1,65 @@
+---
+title: "Executive Order No. 24 — Creating the National Advisory Health Council"
+identifier: "Executive Order No. 24"
+number: "24"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1946-11-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1946/eo_24_1946.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1946/pdf/eo_24_1946.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 24
+
+**Creating the National Advisory Health Council**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 24, November 12, 1946 ]
+
+CREATING THE NATIONAL ADVISORY HEALTH COUNCIL
+
+WHEREAS, the advise and counsel of capable and experienced men iin the fields of public health, sanitation and medicine are essential to enable the Administration to cope with the complex problems that the integrated health service has to solve and to evaluate medical progress;
+
+**NOW, THEREFORE, I, MANUEL ROXAS** , President of the Philippines, by virtue of the powers vested in me by law do hereby create a body to be known as the National Advisory Health Council to study problems of public health and sanitation and to make such recommendations as it may deem necessary for the improvement of public health and sanitation and the promotion of medical research. The Council shall be composed of the following:
+
+| The Secretary of Health and Public Welfare | Chairman |
+|---|---|
+| Director, Bureau of Quarantine Service | Member |
+| Chairman, Board of Medical Examiners | Member |
+| President, Philippine Medical Association | Member |
+| Dean, College of Medicine, University of the Philippines | Member |
+| Dean, College of Medicine, University of Santo Tomas | Member |
+| Dr. Florentino Herrera | Member |
+| Dr. Pedro Velasco | Member |
+| Dr. Lorenzo Macaisa | Member |
+| Dr. Antonio Fernando | Member |
+| Dr. Guillermo Rustia | Member |
+| Dr. Agustin Liboro | Member |
+
+The members of the Council, except the ex-officio members whose term shall be co-terminus with their tenure in their regular positions, shall serve without compensation for a period of one year.
+
+The Council may designate an executive secretary from among those already in the service under the Department of Health and Public Welfare who shall receive a per diem for each day of session to be determined by the Council with the approval of the President.
+
+The Council may appoint standing and special committee which shall be composed of members and/ or non-members of the Council.
+
+The Council shall meet on call of the Chairman as often as he may determine and shall submit to the President of the Philippines reports of its accomplishments and recommendations as often as it shall desire.
+
+The sum of Ten Thousand Pesos is hereby set aside from the appropriation authorized in item 8, page 36, Republic Act No.80, for the operating expenses of the Council.
+
+Done at the City of Manila, this 12th day of November, in the year of Our Lord, nineteen hundred and forty-six, and of the Independence of the Philippines, the first.
+
+(Sgd.) **MANUEL ROXAS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EMILIO ABELLO**
+Chief of the Executive Office

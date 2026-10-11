@@ -1,0 +1,97 @@
+---
+title: "Executive Order No. 338 — Creating An Anti-Economic Subversion Force to Be Known as Constabulary-Revenue-Customs Service Group"
+identifier: "Executive Order No. 338"
+number: "338"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1959-05-26
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1959/eo_338_1959.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1959/pdf/eo_338_1959.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 338
+
+**Creating An Anti-Economic Subversion Force to Be Known as Constabulary-Revenue-Customs Service Group**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 338, May 26, 1959 ]
+
+CREATING AN ANTI-ECONOMIC SUBVERSION FORCE TO BE KNOWN AS CONSTABULARY-REVENUE-CUSTOMS SERVICE GROUP
+
+WHEREAS, rampant violations of revenue and customs laws threaten the economic stability of the country and constitute a constant menace to the limited resources of the National Government; and
+
+**WHEREAS,** to meet this threat and menace, it is deemed necessary and expedient that the authority and powers of the Government be mobilized and placed under a unified supervision, coordination, and control;
+
+**NOW, THEREFORE, I, CARLOS P. GARCIA** , President of the Philippines, by virtue of the powers vested in me by laws, do hereby order:
+
+A. There is hereby created an Anti-Economic Subversion Force to be known as the Constabulary-Revenue-Customs Service Group (in short, to be identified as C-R-C). The Joint Team shall be composed of the Chief of the Philippine Constabulary, or any other person as the President may designate, as Chief Coordinator; a representative of the Secretary of Finance as Technical Coordinator; an Executive Coordinator to be designated by the President upon recommendation of the Chief of Constabulary; three Chief Operations Officers from each of the Philippine Constabulary, Bureau of Internal Revenue, and Bureau of Customs and one Constabulary Intelligence Officer, whose detail with the group shall be approved by the President upon the recommendation of each of their respective heads of offices: and other officials and employees of the Philippine Constabulary, Bureau of Internal Revenue, and Bureau of Customs, who from time to time may designated by the respective heads of offices concerned to compose the force or assist the force in its enforcement and investigation work.
+
+The powers and duties of this Group shall be as follows:
+
+1\. To detect violations of customs and revenue laws and regulations, and other penal violations in connection therewith;
+
+2\. To recommend the assessment and collection of taxes and duties which may be ascertained as a result of the operation of the Joint Force, and the prosecution of the parties involved for violation of the customs and revenue laws as well as the condemnation or seizure and forfeiture of merchandise, craft, and conveyances in accordance with customs laws and regulations;
+
+3\. To recommend remedial measures for the purpose of effecting expeditious collections of all taxes or duties legally due the government;
+
+4\. To extend assistance to the Bureau of Internal Revenue or the Bureau of Customs when requested by the respective heads of said offices.
+
+B. The Group shall coordinate the enforcement of the Philippine customs and internal revenue laws and regu­lations, including the apprehension and prosecution of violators thereof within the area of its operation. For this purpose, the Joint Force shall operate in all Philippine territories or jurisdictions outside customs zones, except in the area of operation for the President’s Law Enforce­ment Unit for Southern Philippines as provided in Exec­utive Order No. 293, dated April 10, 1958.
+
+1\. The CRC Service Group shall continually study ways and means to improve law enforcement in the areas of its operation and shall submit reports of its activities and recommendation to the President of the Philippines;
+
+2\. The group is hereby granted investigative powers under the provisions of Sections 71 and 580 of the Revised Administrative Code, including the power to summon witnesses and take testimony or evidence relative to its investigation;
+
+3\. The group shall initiate seizure and assessment proceedings, and its decision is reviewable by the appropriate Department Head at the instance of the party who may thereby be adversely affected;
+
+4\. The group shall maintain its office or headquarters at Camp Crame, Quezon City, or at such places as the Chief Coordinator shall designate;
+
+5\. The group may request assistance any time from any law-enforcing agency, and such assistance should be extended with the least practicable delay.
+
+C. For purposes of this order the Executive Coordinator and the Technical Coordinator shall have the following powers, duties, and functions:
+
+Executive Coordinator
+
+(1) To control, regulate, or direct the activities- of the Group on all matters involving its administration and operations to include:
+
+a. Intelligence effort to detect violations of customs and revenue laws and regulations, and other penal violations in connection therewith;
+
+b. Proper conduct of raid or exercise of visitorial powers of personnel vested with such authority;
+
+c. Systematic direction of investigation; and
+
+d. Prosecution.
+
+(2) To be responsible to the Chief Coordinator for the effective administration and operation of the group.
+
+(3) To maintain liaison with other law enforcing agencies to achieve coordination and cooperation.
+
+(4) To maintain statistical records of all data to facilitate intelligent analysis for effective campaign against economic saboteurs.
+
+(5) To render monthly efficiency report of the Operations Chiefs, Intelligence, Legal, and Administrative officers.
+
+Technical Coordinator
+
+(1) To exercise in the territory herein specified above, all the powers and duties vested by law in the Secretary of Finance, including other additional powers and duties as may be specifically delegated to him by said official;
+
+(2) To have authority to require the officers, agents, or deputies under the jurisdiction of the Department of Finance or head of an office under said Department to perform any duty or do any act which the Department Head or head of an office could lawfully require them to do.
+
+The Head of the Department and the chiefs of the bureaus or offices represented in the Joint Force shall extend their full and unqualified support and assistance to the Joint Force and to their representatives therein, and shall take immediate steps to carry out the purposes and intents of this Order within their respective organizations and capabilities.
+
+Done in the City of Manila, this 26th day of May, in the year of Our Lord, nineteen hundred and fifty-nine, and of the Independence of the Philippines, the thirteenth.
+
+(Sgd.) **CARLOS P. GARCIA**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JUAN C. PAJO**
+Executive Secretary

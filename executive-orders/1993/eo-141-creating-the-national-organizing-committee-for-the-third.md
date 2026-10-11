@@ -1,0 +1,60 @@
+---
+title: "Executive Order No. 141 — Creating the national organizing committee for the third ASEAN Meeting of Ministers Responsible for Information"
+identifier: "Executive Order No. 141"
+number: "141"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-12-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_141_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_141_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 141
+
+**Creating the national organizing committee for the third ASEAN Meeting of Ministers Responsible for Information**
+
+**EXECUTIVE ORDER NO. 141 December 7, 1993**
+
+CREATING THE NATIONAL ORGANIZING COMMITTEE FOR THE THIRD ASEAN MEETING OF MINISTERS RESPONSIBLE FOR INFORMATION
+
+WHEREAS, the Philippines, being an active and committed member of the Association of Southeast Asian Nations (ASEAN), subscribes to participation in all ASEAN meetings which make it possible for Philippine interests and concerns to be incorporated in major ASEAN decisions and programs;
+
+WHEREAS, the ASEAN Ministers Responsible for information at its Second Meeting held in 2 August 1991 in Kuala-Lumpur, Malaysia, agreed to hold the Third Meeting in Manila in 1993, thus it is now incumbent on the Philippine Government to undertake such preparations as are necessary to ensure the successful holding of the Meeting in Manila in 1993;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby create the National Organizing Committee for the Third ASEAN Meeting of Ministers Responsible for Information, hereinafter referred to as the Committee:
+
+The Chairman of the Committee shall be drawn from the Office of the Press Secretary and the Vice-Chairman from the Department of Foreign Affairs. Members of the Committee shall be from the Office of the Press Secretary:
+
+Philippine Information Agency
+
+People's Television Network Incorporated
+
+Bureau of Broadcast Services
+
+National Information Bureau
+
+Philippine News Agency
+
+In view of the financial and security requirements of the Meeting, the following departments shall also be members of the Committee:
+
+Department of Budget and Management
+
+Department of the Interior and Local Government -
+
+Philippine National Police (PNP)
+
+The Department Secretaries and Directors of the members of the Committee may designate their respective representatives to the Committee in the event that they will not be able to personally participate in the preparatory work and other responsibilities of the Committee.
+
+The Committee may invite special advisers as members of the Organizing Committee as deemed needed.
+
+The Committee is empowered to create a Secretariat and Sub-Committee call upon all other government and non-government and private agencies and individuals concerned to assist the Committee in its tasks.
+
+The Department of Budget and Management is hereby directed to immediately release the amount of TWO MILLION NINE HUNDRED SEVENTY ONE THOUSAND PESOS (P2,971,000.00) to the Office of the Press Secretary (OPS) to cover the operating expenses for the meeting chargeable against the CY 1993 International Commitments Funds and subject to the usual accounting and auditing rules and regulations
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 7th day of December, in the year of Our Lord, nineteen hundred and ninety three.

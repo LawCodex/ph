@@ -1,0 +1,72 @@
+---
+title: "Executive Order No. 558-A — Clarifying the Overall Framework in the Implementation of Government Credit Programs as Contemplated Under E.O. 558 Dated 8 August 2006 (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 558-A"
+number: "558-A"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2006-10-27
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2006/eo_558-a_2006.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2006/pdf/eo_558-a_2006.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 558-A
+
+**Clarifying the Overall Framework in the Implementation of Government Credit Programs as Contemplated Under E.O. 558 Dated 8 August 2006 (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 558-A
+
+CLARIFYING THE OVERALL FRAMEWORK IN THE IMPLEMENTATION OF GOVERNMENT CREDIT PROGRAMS AS CONTEMPLATED UNDER E.O. 558 DATED 8 AUGUST 2006
+
+I, GLORIA MACAPAGAL-ARROYO, by virtue of the powers vested in me by law do hereby order:
+
+## SECTION 1
+
+With reference to Executive Order No. 558 dated 8 August 2006 repealing Executive Order No. 138, dated August 10, 1999, the following directives clarifying the overall framework in the implementation of government credit programs are hereby promulgated:
+
+1\. Credit programs to be implemented under the auspices of EO 558 shall support the poverty alleviation thrusts of the government and shall focus only on the municipalities and barangays currently identified by the People’s Credit and Finance Corporation (PCFC) as areas where there are no identified and available participating financial institutions (PFIs) such as banks, cooperatives and non-governmental organizations that serve the needs of the poor and the marginalized sectors of the economy (to be subsequently referred to as “unserved areas”).
+
+2\. The Department of Social Welfare and Development (DSWD) shall immediately implement and provide the necessary credit assistance and other support services in the unserved areas:
+
+a. The livelihood support program to be provided by DSWD shall include social preparation and capacity building activities such as business development services to assist the targeted clientele to access financial assistance from PFIs at the soonest possible time.
+
+b. The DSWD shall provide livelihood credits based on interest rates comparable to those charged by Quedancor.
+
+c. The DSWD shall endeavor to simplify loan documentation and processes to ensure fast and timely approval of proposals and disbursement of proceeds.
+
+d. In complementing the livelihood support program of DSWD, the PCFC shall continuously exert all efforts in identifying and providing support to potential PFIs that will express interest and are willing to operate and provide the necessary financial services in the unserved areas.
+
+e. The PCFC shall monitor DSWD’s livelihood support program and shall submit periodic reports to the National Anti-Poverty Commission.
+
+3\. All other credit programs by government non-financial agencies (GNFAs) and government owned and controlled corporations (GOCCs) shall require specific approval by the President of the Philippines.
+
+4\. GNFAs and GOCCs are directed to continuously provide proactive support and technical assistance to enable micro and small enterprises to become viable and sustainable.
+
+## SECTION 2
+
+All orders, rules, regulations and issuances as parts thereof inconsistent with this Executive Order are hereby repealed, or modified accordingly.
+
+## SECTION 3
+
+This Executive Order shall take effect upon its publication in a national newspaper of general circulation.
+
+Done in the City of Manila, this 27th day of October in the year of Our Lord, Two Thousand and Six.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary
+
+Source: Malacañang Records Office
+Office of the President of the Philippines. (2006). [Executive Order Nos. : 501 – 600]. Manila : Malacañang Records Office.

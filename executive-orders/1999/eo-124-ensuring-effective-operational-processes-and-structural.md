@@ -1,0 +1,81 @@
+---
+title: "Executive Order No. 124 — Ensuring effective operational processes and structural arrangements in the Department of Trade and Industry (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 124"
+number: "124"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1999-07-19
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1999/eo_124_1999.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1999/pdf/eo_124_1999.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 124
+
+**Ensuring effective operational processes and structural arrangements in the Department of Trade and Industry (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 124, July 19, 1999 ]
+
+ENSURING EFFECTIVE OPERATIONAL PROCESSES AND STRUCTURAL ARRANGEMENTS IN THE DEPARTMENT OF TRADE AND INDUSTRY
+
+WHEREAS, the Department of Trade and Industry is the primary government agency mandated to coordinate, promote, facilitate and regulate trade, industry and investments;
+
+**WHEREAS,** with the inevitable emergence of global trade competition brought about by trade liberalization policies adopted in international treaties and agreements, to which the Philippines is a signatory, there is a compelling need to make the country internationally competitive;
+
+**WHEREAS,** the attainment of a high level of international competitiveness can best be achieved by strengthening trade and investment policies and promotions, including the implementation of trade-related aspects of intellectual property rights;
+
+**WHEREAS,** it is imperative to set-up an effective and streamlined organization in response to the department’s redefined concerns, program priorities and implementation strategies;
+
+**WHEREAS,** under Section 77 of the General Provisions of Republic Act No. 8745 (FY 1999) General Appropriations Act, the President may direct changes in the organization and key positions in any department, bureau or agency; and
+
+**WHEREAS,** Section 79 of the General Provisions of Republic Act No. 8745, directs heads of departments, bureaus and agencies to scale down, phase out or abolish activities no longer essential in the delivery of public services, and provides that the savings generated from the abolition, phasing out or scaling down of unnecessary activities may be used by the departments, bureaus, and agencies concerned for the augmentation of their respective programs, projects and activities.
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA** , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Functional Focus._ In the light of the efforts to improve the implementation of the mandate of the department, the Secretary of the Department of Trade and Industry shall accordingly effect policy, organization, functional and operational refocusing strategies that will address the following priority concerns:
+
+1.1 Trade Policy: The need to provide updated and on-going analysis and interpretation of and trade-related and investment policies taking into account laws and regulations as well as the country’s WTO and other international, regional or bilateral commitments, and ensure their implementation and enforcement;
+
+Promotion/Marketing: The need to market the country as an investment site for domestic as well as foreign direct investors, develop international competitiveness, increase exports/countertrade and promote domestic trade;
+
+Consumer Advocacy: The need to protect the rights of consumers and to make effective the system of enforcement/redress of consumers’ rights and grievances;
+
+1.4 Operations: The need to identify the key niches towards which programs and projects are designed and implemented; and
+
+Internal Administration and Finance : The need to upgrade the support services within the DTI in the areas of information technology, budgeting and financial planning, administration including legal expertise, human resource development, and public relations.
+
+## Section 2
+
+_Organizational and Operation Adjustments in the DTI._ To ensure that the above priority concerns will be effectively undertaken, the Secretary of the Department of Trade and Industry shall review the existing operational processes, systems and set-up, and determine the appropriate strategies and mechanisms, subject to existing organizational and staffing guidelines and standards. He is authorized to make operational/structural adjustments in the DTI as and when necessary, to achieve effectiveness and efficiency in accomplishing its mandate.
+
+## Section 3
+
+_Redeployment of Personnel._ As and when necessary, DTI personnel may be redeployed in accordance with the civil service rules and regulations and without diminution in rank or compensation of the affected personnel.
+
+## Section 4
+
+_Delegation of Authority._ Whenever he deems it necessary, the Secretary may designate Senior Undersecretaries of the Department as chief operating officers of various units within the Department. He is also authorized to deputize the Undersecretary concerned with multilateral trade as special trade negotiator when circumstances warrant.
+
+## Section 5
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 19th day of July, in the year of our Lord, nineteen hundred and ninety-nine.
+
+(SGD.) **JOSEPH EJERCITO ESTRADA**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RONALDO B. ZAMORA**
+Executive Secretary

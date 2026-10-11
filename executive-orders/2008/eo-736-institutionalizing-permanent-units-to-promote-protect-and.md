@@ -1,0 +1,90 @@
+---
+title: "Executive Order No. 736 — Institutionalizing Permanent Units to Promote, Protect and Enforce Intellectual Property Rights (Ipr) in Different Law Enforcement and Other Agencies Under the Coordination of the National Committee on Intellectual Property Rights (Ncipr) (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 736"
+number: "736"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2008-06-21
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2008/eo_736_2008.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2008/pdf/eo_736_2008.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 736
+
+**Institutionalizing Permanent Units to Promote, Protect and Enforce Intellectual Property Rights (Ipr) in Different Law Enforcement and Other Agencies Under the Coordination of the National Committee on Intellectual Property Rights (Ncipr) (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 736, June 21, 2008 ]
+
+INSTITUTIONALIZING PERMANENT UNITS TO PROMOTE, PROTECT AND ENFORCE INTELLECTUAL PROPERTY RIGHTS (IPR) IN DIFFERENT LAW ENFORCEMENT AND OTHER AGENCIES UNDER THE COORDINATION OF THE NATIONAL COMMITTEE ON INTELLECTUAL PROPERTY RIGHTS (NCIPR)
+
+WHEREAS, SEC. 10, Article XIV of the Constitution of the Republic of the Philippines recognizes the importance of science and technology for national development and progress and the need to prioritize research and development, invention and innovation, and their utilization by Filipinos;
+
+**WHEREAS,** SEC. 13, Article XIV of the Constitution provides that the State shall protect and secure the exclusive rights of scientists, inventors, artists, and other gifted citizens to their intellectual property and creations, particularly when beneficial to the people;
+
+**WHEREAS,** SEC. 2 of Republic Act No. 8293, otherwise known as the Intellectual Property Code of the Philippines, has declared that an effective intellectual and industrial property system is vital to the development of domestic and creative activity, facilitates transfer of technology, attracts foreign investments, and ensures market access for our products;
+
+**WHEREAS,** the same section further states that the use of intellectual property bears a social function and that the State shall promote the diffusion of knowledge and information for the promotion of national development and progress and the common good;
+
+**WHEREAS,** SEC. 31, Chapter 10, Title III, Book III of the Administrative Code of 1987 provides the President with continuing authority to organize the Office of the President;
+
+**WHEREAS,** Article VII, SEC. 17 of the Constitution provides that the President shall have control of all the executive departments, bureaus, and offices;
+
+**WHEREAS,** there is a need for a creation of an inter-agency group that will effectively formulate and implement plans and policies and strengthen the protection and enforcement of intellectual property rights in the country;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO** , President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and the laws do hereby order:
+
+## Section 1
+
+_Creation and Composition_ – The National Committee on Intellectual Property Rights (NCIPR) is hereby created. The Department of Trade and Industry (DTI) shall act as Chair, and Intellectual Property Office (IPO) as Vice-Chair. DTI and IPO shall continue to coordinate inter-agency efforts against piracy and counterfeiting.
+
+The other members of the NCIPR are: the Department of Justice (DOJ), Department of the Interior and Local Government (DILG), Bureau of Customs (BOC), National Telecommunications Commission (NTC), National Bureau of Investigation (NBI), Philippine National Police (PNP), Optical Media Board (OMB), National Book Development Board (NBDB), Bureau of Food and Drugs (BFAD) and other agencies to be determined by the Committee Chair.
+
+## Section 2
+
+_Intellectual Property Units_ – The NCIPR member agencies shall establish and institutionalize a permanent intellectual property unit with adequate personnel and budget allocation.
+
+## Section 3
+
+_Funding_ – Financial requirements that may be needed by the Committee shall be sourced out by the Department of Budget and Management from available funds of the concerned agencies forming part of the Committee, subject to the usual government accounting and auditing rules and regulations.
+
+## Section 4
+
+_Functions_ – As a strategic component for our country’s socio-economic development and global competitiveness, the NCIPR member agencies, through their intellectual property units, shall intensify the promotion, protection and enforcement of intellectual property rights in the country. The NCIPR is hereby directed to:
+
+a) Intensify public information and education campaign on the importance of IPR to national development and global competitiveness.
+
+b) Intensify regular and effective enforcement against IPR violations, and to allocate sufficient resources to ensure effective prosecution of pirates and counterfeiters.
+
+c) Maintain appropriate coordination with the Judiciary to ensure that courts are adequately skilled in intellectual property cases, and improve the adjudication of IP cases.
+
+d) Provide the Executive and the Legislative with policy and legislative proposals on IP laws, ensuring that these are in compliance with the country’s existing international obligations embodied in treaties and other agreements;
+
+e) Maintain a database and enforcement monitoring system, consolidate information and reports from other agencies, and submit quarterly reports to the President, and provide copies to the Executive Secretary and the Cabinet Secretary.
+
+The NCIPR shall coordinate with other government agencies and the private sector efforts to provide maximum benefits to Filipinos and ensure significant contributions to national development.
+
+## Section 5
+
+_Repealing Clause_ – All other issuances, orders, rules and regulations, or parts thereof, inconsistent with this Executive Order are hereby repealed or modified accordingly.
+
+## Section 6
+
+_Effectivity_ – This Executive Order shall take effect immediately upon approval.
+
+Done in the City of Manila, this 21st day of June, 2008.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary

@@ -1,0 +1,43 @@
+---
+title: "Executive Order No. 630 — Creating the Municipality of Culaba in the Province of Leyte"
+identifier: "Executive Order No. 630"
+number: "630"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1953-10-16
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1953/eo_630_1953.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1953/pdf/eo_630_1953.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 630
+
+**Creating the Municipality of Culaba in the Province of Leyte**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 630, October 16, 1953 ]
+
+CREATING THE MUNICIPALITY OF CULABA IN THE PROVINCE OF LEYTE
+
+Pursuant to the provisions of section sixty-eight of the Revised Administrative Code, there is hereby created in the Province of Leyte a municipality to be known as the municipality of Culaba to consist of the barrios of Culaba, which shall be the seat of government, Bool, Acaban, Habuhab and Pinamihagan, all of the municipality of Caibiran, same province.
+
+The municipality of Caibiran shall have its present territory minus the barrios enumerated above, which are included in the municipality of Culaba.
+
+The municipality of Culaba shall begin to exist upon the appointment and qualification of the mayor, vice-mayor and a majority of the councilors thereof, and upon the certification by the Secretary of Finance that said municipality is financially capable of implementing the provisions of the Minimum Wage Law and providing for all the statutory obligations and ordinary essential services of a regular municipality and that the mother municipality of Caibiran, after the segregation therefrom of the barrios comprised in the municipality of Culaba, can still maintain creditably its municipal government, meet all statutory obligations, and provide for essential municipal services.
+
+Done in the City of Manila, this 16th day of October, in the year of Our Lord, nineteen hundred and fifty-three, and of the Independence of the Philippines, the eighth.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **MARCIANO ROQUE**
+Acting Executive Secretary

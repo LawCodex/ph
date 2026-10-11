@@ -1,0 +1,52 @@
+---
+title: "Executive Order No. 306 — Instituting Measures to Promote Lawful Use of Government-Issued Identity Documents and Prevent Violations of Laws Involving False Names and Identities (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 306"
+number: "306"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2004-04-02
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2004/eo_306_2004.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2004/pdf/eo_306_2004.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 306
+
+**Instituting Measures to Promote Lawful Use of Government-Issued Identity Documents and Prevent Violations of Laws Involving False Names and Identities (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 306, April 02, 2004 ]
+
+INSTITUTING MEASURES TO PROMOTE LAWFUL USE OF GOVERNMENT-ISSUED IDENTITY DOCUMENTS AND PREVENT VIOLATIONS OF LAWS INVOLVING FALSE NAMES AND IDENTITIES
+
+WHEREAS, The department of Foreign Affairs (DFA) issues passports containing the Passport holder’s photograph and biographic data, pursuant to the Philippine Passport Act of 1996 (RA No. 8239), which provides that a passport is an official document that is superior to all other official documents; Whereas, the Land Transportation Office (LTO) issues driver’s licenses containing the license holder’s photograph and biographic data, and the Social Security System (SSS) issues identity cards containing the member’s photograph and biographic data; Whereas, The use of passports, driver’s licenses and identity cards issued by the above government agencies should be promoted and said identity documents should be used to prevent violations of the following laws involving false names and identities:
+
+(a) the Anti-Money Laundering Act of 2002 (Republic Act [RA] No. 9160, as amended), which requires banks and other covered institutions to established and record the true identity of their clients based on official documents; (b) the Revised Penal Code (Act of 3815, as amended) which penalizes the public use of a fictitious name for the purpose of concealing a crime, evading the execution of a judgment, or causing of damage (1st paragraph, Art 178), the concealment of a person’s true name and other personal circumstances (2nd paragraph, Art. 178), and the Act of defrauding another by using a fictitious name (4th paragraph, Art. 315); (c) the Civil Code of the Philippines (RA No. 386, as amended), which prohibits the use of different names and surnames, except for pen and stage names (Art. 379 and 380); (d) the Philippine Immigration Act of 1940 Commonwealth Act No. 613’ as amended), which penalizes any individual who shall be evade the immigration laws by appearing under an assumed or fictitious name (Sec. 45); (e) the Tax Reform Act of 1997 (RA8424), as amended, which made it unlawful for any person to enter any false or fictitious name in a taxpayer’s books of accounts or records; (f) Presidential Decree No. 1829, which penalizes any individual who shall knowingly or willfully obstruct, impede, frustrate or delay the apprehension of suspects and the investigation and prosecution of criminal cases by publicly using a fictitious name for the purpose of concealing a crime evading prosecution or the execution of a judgment, or concealing his true name and other personal circumstances for the same purpose (Sec. 1[d]); and (g) Commonwealth Act No. 142, as amended by RA No. 6085, which penalizes any person who shall use any name different from the one with which he was registered at birth in the office of the local civil registry, or with which he was baptized for the first time, or with which he was registered in the Bureau of Immigration, or such substitute name as may have been authorized by a competent court (Sec. 1);
+
+**NOW, THEREFORE I, GLORIA MACAPAGAL-ARROYO** , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order all government department and agencies to require, for transaction requiring the production of identity documents, Filipino citizens and resident aliens to present any of the following:
+
+1\. Valid Passport issued by the Department Foreign Affair (DFA);
+
+2\. Valid Driver’s License issued by the Land of Transportation Office (LTO);
+
+3\. Valid member’s identity card issued by the Social Security System (SSS); and
+
+4\. Valid "non-driver’s identity document (ID)" issued by LTO.
+
+Filipino citizens and resident aliens who do not possess any of the identity documents enumerated in paragraph (1) through (3) may apply with LTO for the issuance of a "non-driver’s identity document (ID)." All executive orders or issuances, or portion thereof, which are inconsistent with the Executive Order are hereby revoked, amended or modified accordingly. This Executive Order shall take effect immediately. City of Manila, April 2, 2004.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **ALBERTO G. ROMULO**
+Executive Secretary

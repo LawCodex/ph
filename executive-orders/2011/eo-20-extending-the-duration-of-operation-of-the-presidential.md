@@ -1,0 +1,70 @@
+---
+title: "Executive Order No. 20 — Extending the duration of operation of the Presidential Middle East Preparedness Committee (PMEPC) to June 30, 2011"
+identifier: "Executive Order No. 20"
+number: "20"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2011-01-06
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2011/eo_20_2011.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2011/pdf/eo_20_2011.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 20
+
+**Extending the duration of operation of the Presidential Middle East Preparedness Committee (PMEPC) to June 30, 2011**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 20, January 06, 2011 ]
+
+EXTENDING THE DURATION OF OPERATION OF THE PRESIDENTIAL MIDDLE EAST PREPAREDNESS COMMITTEE (PMECC) TO JUNE 30, 2011
+
+WHEREAS, the term of the Presidential Middle East Preparedness Committee (PMEPC) expires on December 31, 2010 pursuant to Executive Order (EO) No. 6 dated September 2, 2010;
+
+**WHEREAS,** tensions, political instability, and armed conflicts continue to exist in some countries of the Middle East and Africa that directly threaten the safety and security of thousand of Filipino workers in these countries;
+
+**WHEREAS,** there is a need for the PMEPC to continue to assess and monitor developments and monitor developments and update contingency measures to ensure the safety of Filipinos in the Middle East and Africa, prepare and establish a specific contingency plan each for the potential crises sin these countries;
+
+**WHEREAS,** there is an urgent need for the PMEPC to continue providing assistance to the Department of Foreign Affairs, in addressing the concerns of the Philippine Government about the piracy problem in Somalia where some Filipino sailors remain in captivity aboard their respective hijacked vessels near the shores of Somalia. Likewise, it is vital for the USN Fifth Fleet based in Manama, Bahrain, regarding measures to be taken by Filipino Seamen aboard ships passing through the Gulf of Aden and the Indian Ocean;
+
+**WHEREAS,** the PMEPC is tasked to provide continuing assistance to the Department of Foreign Affairs, as well as to other government agencies concerned with OFW safety, security, and protection, and in the formulation and implementation of policies, plans and modes of coordination in areas where there are significant presence of OFWs;
+
+**WHEREAS,** under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to reorganize the functions of the Office of the President.
+
+**NOW, THEREFORE, I,** BENIGNO S. AQUINO III, President of the Philippines, by virtue of the power vested in me by law, do hereby order the extension of operation of PMEPC to June 30, 2011 with Special Envoy Roy A. Cimatu, or unless otherwise directed by the President.
+
+## Section 1
+
+_Function_ – The PMEPC shall continue to exercise its functions and responsibilities as provided under EO 159 dated December 23, 2002, in relation to EO194 and EO 195, both dated April 14, 2003.
+
+## Section 2
+
+_Compositions_ – The membership of the Committee, as enumerated under Section 3 of EO 159, as amended by EO 722, is hereby retained.
+
+## Section 3
+
+_Funding_ – The PMEPC shall be provided with an allocation of Six Million (P6, 000, 000.00) Pesos, subject to the availability of funds, for its administrative and operational expenses, to be drawn from the contingency fund of the Office of the President, subject to the usual government accounting rules and regulations.
+
+## Section 4
+
+_Repeal_ – All other rules, regulations and issuances or parts thereof which are inconsistent with this Executive Order are hereby repealed or modified accordingly.
+
+## Section 5
+
+_Effectivity_ – This Order shall take effect immediately.
+
+DONE in the City of Manila, this 6th day of January in the Year of Our Lord, Two Thousand and Eleven.
+
+(SGD.) **BENIGNO S. AQUINO III**
+
+By the President:
+
+(SGD.) **PAQUITO N. OCHOA, JR.**
+Executive Secretary

@@ -1,0 +1,110 @@
+---
+title: "Executive Order No. 458 — Devolving the powers and functions of the Board of Investments over investments within the Autonomous Region in Muslim Mindanao to the Autonomous Regional Government and for other purposes"
+identifier: "Executive Order No. 458"
+number: "458"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1991-05-17
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1991/eo_458_1991.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1991/pdf/eo_458_1991.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 458
+
+**Devolving the powers and functions of the Board of Investments over investments within the Autonomous Region in Muslim Mindanao to the Autonomous Regional Government and for other purposes**
+
+**EXECUTIVE ORDER NO. 458 May 17, 1991**
+
+DEVOLVING THE POWERS AND FUNCTIONS OF THE BOARD OF INVESTMENTS OVER INVESTMENTS WITHIN THE AUTONOMOUS REGION IN MUSLIM MINDANAO TO THE AUTONOMOUS REGIONAL GOVERNMENT AND FOR OTHER PURPOSES
+
+WHEREAS, Section 27, Article XIII of Republic Act No. 6734, otherwise known as the Organic Act of the Autonomous Region in Muslim Mindanao (ARMM) provides that the Autonomous Regional Government (ARG) shall regulate and exercise authority over foreign investments within its jurisdiction in accordance with its goals and priorities subject, however, to the Constitution and national policies;
+
+WHEREAS, the Oversight Committee created under the said Organic Act has recommended that the Board of Investments devolve its powers and functions over investments within the ARMM to the Autonomous Regional Government;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Sec. 1
+
+Transfer of Powers and Functions. The following powers and functions of the Board of Investments (BOI) over investments within the Autonomous Region in Muslim Mindanao (ARMM) are hereby devolved to the Autonomous Regional Government (ARG):
+
+A. Approval/denial of applications for registration under the Omnibus Investments Code of 1987;
+
+B. Supervision of enterprises duly registered with the ARG, and including those enterprises previously registered with the Board of Investments;
+
+C. Cancellation of certificates of registration of enterprises registered with the ARG, and including those enterprises previously registered with the BOI;
+
+D. Evaluation of incentives to be availed by enterprises registered with the ARG;
+
+E. Take over the operations of the Regional Extension Offices of the BOI, pertaining to:
+
+1\. Evaluation of applications for registration;
+
+2\. Special tax credit on raw materials and supplies, net value earned and net local content and domestic capital equipment;
+
+3\. Employment of foreign nationals;
+
+4\. Income Tax holiday;
+
+5\. Reduced income tax; and
+
+6\. Supervision of registered projects.
+
+F. Assume promotion of investments within the ARMM consisted with the Investments Priorities Plan.
+
+G. Grant additional incentives, aside from those incentives under BOOK I- Title III, Article 39 of Executive Order No. 226, series of 1987, to wit:
+
+1\. Income tax holiday;
+
+2\. Additional deduction for labor expense.
+
+3\. Tax and duty exemptions on imported capital equipment;
+
+4\. Tax credits on domestic capital equipment;
+
+5\. Exemption from contractor's tax;
+
+6\. Simplification of Custom's procedures;
+
+7\. Understricted use of consigned equipment;
+
+8\. Employment of foreign nationals;
+
+9\. Exemption on breeding stocks and genetic materials;
+
+10\. Tax credit on domestic breeding stocks and genetic materials;
+
+11\. Tax credits for taxes and duties on raw materials;
+
+12\. Access to Bonded Manufacturing Trading Warehouse System;
+
+13\. Exemption from taxes and duties on imported spare parts; and
+
+14\. Exemption from wharfage due and export tax, duty, impost and fee.
+
+## Sec. 2
+
+Investment Priorities Plan. The ARG shall be guided by the annual Investments Priorities Plan in the determination of incentives to be granted to investors.
+
+## Sec. 3
+
+Regional Investment Priorities Plan. The ARG shall prepare a Regional Investment Priorities Plan consistent with Article 27 to 31, Chapter II of the Omnibus Investment Code of 1987.
+
+The preferred areas of investment to be listed in the Regional Investment Priorities Plan shall be based on long-run comparative advantage, taking into account the value of social objectives and employing economic criteria along with market, technical, and financial analysis. The Regional Investment Priorities Plan as formulated shall be integrated in the national Investment Priorities Plan upon the approval of the President.
+
+## Sec. 4
+
+Implementing Rules and Regulations. Pursuant to the powers and functions devolved to the ARG, it shall adopt the rules and procedures of the Board of Investments without prejudice to the promulgation of its own rules and regulations.
+
+## Sec. 5
+
+Technical Assistance. The Board of Investments shall provide technical assistance to the ARG in setting up the Regional Board of Investments Office and in the training of personnel which shall be a prerequisite before all applications shall be awarded to the ARG.
+
+## Sec. 6
+
+Effectivity. This Executive Order shall take effect fifteen (15) days after publication in one national newspaper of general circulation and one (1) local newspaper of general circulation in the ARMM.
+
+DONE if the City of Manila, this 17th day of May, in the year of Our Lord, nineteen hundred and ninety-one.

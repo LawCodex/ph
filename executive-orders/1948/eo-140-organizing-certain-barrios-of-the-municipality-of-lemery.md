@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 140 — Organizing Certain Barrios of the Municipality of Lemery, Province of Batangas, Into An Independent Municipality Under the Name of Pansipit"
+identifier: "Executive Order No. 140"
+number: "140"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1948-05-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1948/eo_140_1948.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1948/pdf/eo_140_1948.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 140
+
+**Organizing Certain Barrios of the Municipality of Lemery, Province of Batangas, Into An Independent Municipality Under the Name of Pansipit**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 140, May 12, 1948 ]
+
+ORGANIZING CERTAIN BARRIOS OF THE MUNICIPALITY OF LEMERY, PROVINCE OF BATANGAS, INTO AN INDEPENDENT MUNICIPALITY UNDER THE NAME OF PANSIPIT
+
+Upon the recommendation of the Secretary of the Interior, and pursuant to the provisions of section 68 of the Revised Administrative Code, the barrios of Balangon, Bañaga, Bangin, Bilibinuang, Coralnamunti, Guitna, Pamiga, Panghulan, Pansipit, Pooc and Subic, all of the municipality of Lemery, Province of Batangas, are hereby organized into an independent municipality under the name of Pansipit, with the seat of government at the barrio of Guitna.
+
+The municipality of Pansipit as herein organized shall consist of that portion of the municipality of Lemery, Province of Batangas, which is separated from the rest of the territory of the said municipality of Lemery by the following boundary:
+
+From a point where the waters of Lake Taal and the Pansipit River meet, going approximately southward, then southwestward, following the course of the Pansipit River to where this river meets the course of the stream locally known as Balangon; thence upstream following the course of Balangon Stream to its source somewhere on the slope of the ridge locally known as Balangon Ridge, which is a visible landmark separating the barrio of Balangon in the north from the barrio of Ayaoiyao in the south; thence following the Balangon Ridge in a more or less northwest direction to where it slopes down to the dry creek locally known as Kailong Creek; thence following the bed of this dry creek in a more or less north direction to the ridge locally known as Binigtal Ridge; thence in a more or less north direction, following this ridge to where it intersects the present boundary line between the municipality of Talisay and the municipality of Lemery, both of the Province of Batangas.
+
+The municipality of Lemery shall consist of its present territory minus the area comprised in the municipality of Pansipit.
+
+This organization shall take effect on July 1, 1948.
+
+Done in the City of Manila, this 12th day of May, in the year of Our Lord, nineteen hundred and forty-eight, and of the Independence of the Philippines, the second.
+
+(Sgd.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EMILIO ABELLO**
+Executive Secretary

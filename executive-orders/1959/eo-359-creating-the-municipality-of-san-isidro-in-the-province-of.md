@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 359 — Creating the Municipality of San Isidro in the Province of Surigao"
+identifier: "Executive Order No. 359"
+number: "359"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1959-10-09
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1959/eo_359_1959.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1959/pdf/eo_359_1959.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 359
+
+**Creating the Municipality of San Isidro in the Province of Surigao**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 359, October 09, 1959 ]
+
+CREATING THE MUNICIPALITY OF SAN ISIDRO IN THE PROVINCE OF SURIGAO
+
+Upon the recommendation of the Provincial Board of Surigao and pursuant to the provisions of section sixty-eight of the Revised Administrative Code, the barrios and sitios of San Isidro, Buhing Kalipay, Pacifico, Tambakan. Landahan, San Miguel Roxas, and Tigasao, all of the municipality of Numancia, province of Surigao, are hereby segregated from said municipality and organized into an independent municipality in said province, to, be known as the municipality of San Isidro with the seat of government at the barrio of San Isidro.
+
+The municipality of San Isidro as herein organized shall have the following boundaries:
+
+“Beginning at the point of intersection of the boundary of Pilar and Numancia, on Landahan River marked “A” on the map, on a northwesterly direction to a point at top of Magilo Mountain marked “B”, thence on a; northeasterly direction to the center-of rock called: Bil-at, along the. boundary line of Sapao- and Numancia, marked “C”, thence following the same boundary line of Sapao and Numancia on an easterly direction to point “D” the eastern territorial limit of Numancia, thence following the eastern territorial limit of Numancia on a southerly direction to point “E”, thence following the .boundary line of Numancia and Pilar on a westerly direction to point “A”, point of the beginning”. (This technical description is taken from the sketch or the map showing the territorial limits of the proposed municipality of San Isidro, prepared and submitted by the Office of the Highway District Engineer of the province of Surigao.)
+
+The municipality of Numancia shall have its present territory minus the portions thereof which are included in the territory of the municipality of San Isidro, as delimited above.
+
+The municipality of San Isidro shall begin to exist upon the appointment and qualification of the mayor, vice-mayor, and a majority of the councilors thereof but not earlier than January 1, 1960, and upon the certification by the Secretary of Finance that said municipality is financially capable of implementing the provisions of the Minimum Wage Law and providing for all the statutory obligations and ordinary essential services of a regular municipality and that the mother municipality of Numancia, after the segregation therefrom of the territory comprised in the municipality of San Isidro, can still maintain creditably its municipal government, meet all its statutory arid contractual obligations, and provide for the essential municipal services.
+
+Done in the City of Manila, this 9th day of October, in the year of Our Lord, nineteen hundred and fifty-nine, and of the Independence of the Philippines, the fourteenth.
+
+(SGD.) **CARLOS P. GARCIA**
+President of the Philippines
+
+By the President:
+
+(SGD.) **ENRIQUE C. QUEMA**
+Assistant Executive Secretary

@@ -1,0 +1,186 @@
+---
+title: "Executive Order No. 70 — Institutionalizing the Whole-Of-Nation Approach in Attaining Inclusive and Sustainable Peace, Creating a National Task Force to End Local Communist Armed Conflict, and Directing the Adoption of a National Peace Framework Published On: December 10, 2018"
+identifier: "Executive Order No. 70"
+number: "70"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2018-12-04
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2018/eo_70_2018.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2018/pdf/eo_70_2018.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 70
+
+**Institutionalizing the Whole-Of-Nation Approach in Attaining Inclusive and Sustainable Peace, Creating a National Task Force to End Local Communist Armed Conflict, and Directing the Adoption of a National Peace Framework Published On: December 10, 2018**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 70, December 04, 2018 ]
+
+INSTITUTIONALIZING THE WHOLE-OF-NATION APPROACH IN ATTAINING INCLUSIVE AND SUSTAINABLE PEACE, CREATING A NATIONAL TASK FORCE TO END LOCAL COMMUNIST ARMED CONFLICT, AND DIRECTING THE ADOPTION OF A NATIONAL PEACE FRAMEWORK
+
+WHEREAS, Article II of the 1987 Constitution provides for the following State principles and policies:
+
+i. The Philippines renounces war as an instrument of national policy;
+
+ii. The maintenance of peace and order, the protection of life, liberty, and property, and the promotion of the general welfare are essential for the enjoyment by all the people of the blessings of democracy; and
+
+iii. The State shall promote a just and dynamic social order that will ensure the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living, and an improved quality of life for all;
+
+**WHEREAS,** Executive Order No. 16 (s. 2017) adopted the National Security Policy 2017-2022, which calls for the end of all armed threats in the Philippines and recognizes that internal socio-political stability rests upon healing the rifts that divide the nation by promoting participatory governance, synergy of government development efforts, and enhancing the participation and responsibilities of local government units (LGUs):
+
+**WHEREAS,** one of the objectives of the Philippine Development Plan 2017- 2022 is to attain inclusive and sustainable peace through intensified development and other peace-building initiatives in conflict-affected and -vulnerable communities,
+
+**WHEREAS,** the Association of Southeast Asian Nations (ASEAN), through the Joint Communique of the 50 lth ASEAN Foreign Ministers meeting in Manila last 05 August 2017, reaffirmed the importance and effectiveness of the Whole-of-Nation approach as opposed to a purely military option in combating terrorism and violent extremism;
+
+**WHEREAS,** there is a need to reframe and refocus the government policy for achieving inclusive and sustainable peace by recognizing that insurgencies, internal disturbances and tensions, and other armed conflicts and threats are not only military and security concerns, but are symptomatic of broader social, economic and historical problems, such as poverty, historical injustice, social inequality, and lack of inclusivity, among others,
+
+**WHEREAS,** the Whole-of-Nation approach addresses the root causes of insurgencies, internal disturbances and tensions, and other armed conflicts and threats by prioritizing and harmonizing the delivery of basic services and social development packages by the government, facilitating societal inclusivity, and ensuring active participation of all sectors of the society in the pursuit of the country's peace agenda;
+
+**WHEREAS,** there is a need to create a national task force that will provide an efficient mechanism and structure for the implementation of the Whole-of-Nation approach to aid in the realization of the collective aspiration of the Filipino people to attain inclusive and sustainable peace;
+
+**WHEREAS,** to ensure comprehensive orchestration of related peace efforts and initiatives of national government agencies, local government units and various sectors of civil society, there is a need to formulate a National Peace Framework anchored on the Whole-of-Nation approach, which shall include, among others, a mechanism for local peace engagements or negotiations and interventions that is consistent with constitutional integrity and national sovereignty, responsive to local needs, and sensitive to realities on the ground; and
+
+**WHEREAS,** Section 17, Article VII of the 1987 Constitution vests in the President the power of control over all executive departments, bureaus and offices, as well as the mandate to ensure the faithful execution of laws;
+
+**NOW, THEREFORE, I, RODRIGO ROA DUTERTE** , President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+## Section 1
+
+_Institutionalizing the Whole-of-Nation Approach._ The Whole-of- Nation approach is hereby institutionalized as a government policy for the attainment of inclusive and sustainable peace. Towards this end, the Government shall prioritize and harmonize the delivery of basic services and social development packages in conflict-affected areas and -vulnerable communities, facilitate societal inclusivity, and ensure active participation of all sectors of society in the pursuit of the country's peace agenda.
+
+## Section 2
+
+_Creation of the National Task Force to End Local Communist Armed Conflict._ To ensure efficient and effective implementation of the Whole-of- Nation approach, a National Task Force to End Local Communist Armed Conflict (Task Force) is hereby created under the Office of the President (OP).
+
+## Section 3
+
+_Composition._ The Task Force shall be composed of the President of the Republic of the Philippines, as Chair; the National Security Adviser, as Vice- Chair; and the following as members;
+
+a. Secretary, Department of the Interior and Local Government,
+
+b. Secretary, Department of Justice,
+
+c. Secretary, Department of National Defense,
+
+d. Secretary. Department of Public Works and Highways;
+
+e. Secretary, Department of Budget and Management;
+
+f. Secretary, Department of Finance;
+
+g. Secretary, Department of Agrarian Reform;
+
+h. Secretary, Department of Social Welfare and Development;
+
+i. Secretary, Department of Education;
+
+j. Director General, National Economic and Development Authority;
+
+k. Director General, National Intelligence Coordinating Agency;
+
+l. Director General, Technical Education and Skills Development Authority:
+
+m. Presidential Adviser on the Peace Process;
+
+n. Presidential Adviser for Indigenous Peoples' Concerns;
+
+o. Chief of Staff, Armed Forces of the Philippines;
+
+p. Director General, Philippine National Police,
+
+q. Chairperson, National Commission on Indigenous Peoples,
+
+r. Secretary, Presidential Communications Operations Office, and
+
+s. Two (2) Representatives from the private sector.
+
+Except for the private sector representatives, the members may designate an alternate, with a rank not lower than an Assistant Secretary, to represent their respective offices in the Task Force, provided that the alternate must be fully authorized to decide on behalf of the member. The names of the alternates shall be submitted to the National Secretariat.
+
+The Private Sector Representatives, with a term of one (1) year each, shall be appointed by the President upon the recommendation of the Task Force.
+
+## Section 4
+
+_Powers and Functions._ The Task Force shall have the following powers and functions:
+
+a. Within six (6) months from the issuance of this Order, formulate and start to implement in coordination with relevant national government agencies, LGUs, the civil society and other stakeholders, a Whole-of-Nation approach-driven National Peace Framework (Framework);
+
+b. Ensure inter-agency convergence in the implementation of the Framework in conflict-affected and -vulnerable communities;
+
+c. Enlist the assistance of any department, bureau, office, agency, or instrumentality of the government, including LGUs, government-owned or -controlled corporations (GOCCs), and state universities and colleges (SUCs), in accordance with their respective mandates, in the implementation of the Framework;
+
+d. Evaluate, define, modify or integrate policies, programs and activities contained in the Framework;
+
+e. Organize ad hoc inter-agency and multi-sectoral clusters, councils, committees and groups in national, regional and local levels, or modify existing ones, whenever necessary, to fulfill its mandates;
+
+f. Develop strategic communication, advocacy, and peace constituency plans in case of ceasefire, as well as capacity-building measures, to enable local chief executives and local peace bodies to engage and facilitate local peace engagements or negotiations and interventions;
+
+g. Review the mandates and functions of offices undertaking peace efforts to avoid duplication of functions and programs, and submit its recommendation/s to the President for approval;
+
+h. As may be necessary, issue supplemental guidelines, protocols or policies in furtherance of this Order,
+
+i. Recommend to the Office of the Presidential Adviser on the Peace Process projects and conflict-affected areas where the PAyapa at MAsaganang PamayaNAn Program may be implemented, subject to the provisions of the General Appropriations Act; and
+
+j. Perform such other duties and functions as the President may direct.
+
+## Section 5
+
+_The National Peace Framework._ The Framework shall contain principles, policies, plans and programs that will bring inclusive and sustainable peace, and address the root causes of insurgencies, internal disturbances and tensions as well as other armed conflicts and threats in identified areas. The Framework shall be responsive to local needs and sensitive to realities on the ground. To this end, the Framework shall include a mechanism for localized peace engagements or negotiations and interventions that is nationally orchestrated, directed and supervised, while being locally implemented.
+
+## Section 6
+
+_Convergence._ All departments, bureaus, offices, agencies or instrumentalities of the government, including GOCCs and SUCs, are hereby directed to render the necessary support to the Task Force.
+
+The private sector, non-government organizations and other stakeholders are encouraged to participate in all peace-building programs, plans and activities, in the implementation of the Framework.
+
+## Section 7
+
+_National Secretariat._ The Task Force shall be assisted by a National Secretariat, headed by an Executive Director, who shall be appointed by the President with the rank of an Undersecretary. The Executive Director shall submit an organizational and staffing pattern of the Task Force National Secretariat to the DBM, within two (2) months from his/her appointment. Pending the approval of the organizational and staffing pattern, the Executive Director shall be assisted by personnel from the member-agencies of the Task Force under secondment, detail or other appropriate arrangement.
+
+## Section 8
+
+Functions of the National Secretariat. The National Secretariat shall have the following functions:
+
+a. Provide technical and effective administrative support and assistance to the Task Force in the performance of its tasks, coordinate with relevant agencies on the status of its plans and programs, and provide updates to the Task Force on the implementation of the Framework;
+
+b. Ensure that all policies, directives, plans and programs formulated by the Task Force are faithfully carried out; and
+
+c. Perform such other functions as may be directed by the Task Force.
+
+## Section 9
+
+_Funding._ The initial funding requirements for the implementation of this Order shall be charged against existing appropriations of member-agencies of the Task Force and such other appropriate funding sources as the DBM may identify, and when necessary, the Contingent Fund, subject to relevant laws, rules and regulations
+
+The succeeding year's appropriations for the operation of the National Secretariat shall be included in the budget proposal of the OP. The funding requirement for the implementation of the programs, plans and activities in the Framework shall be included in the respective annual budgets of the concerned agencies, subject to the usual budget preparation process.
+
+## Section 10
+
+_Sunset Clause._ The Task Force shall be rendered functus officio upon the accomplishment of the purposes for which it was created or unless sooner dissolved by the President.
+
+## Section 11
+
+_Separability._ In the event that any provision of this Order or any part hereof is declared invalid, illegal or unconstitutional, the provisions not thereby affected shall remain in force and effect.
+
+## Section 12
+
+_Repeal._ All orders, rules and regulations, and other issuances or parts thereof that are inconsistent with the provisions of this Order, are hereby repealed or modified accordingly.
+
+## Section 13
+
+_Effectivity,_ This Order shall take effect upon its publication in the Official Gazette or a newspaper of general circulation.
+
+**DONE,** in the City of Manila, this 4th day of December in the year of Our Lord, Two Thousand and Eighteen.
+
+(SGD.) **RODRIGO ROA DUTERTE**
+
+By the President:
+
+(SGD.) **SALVADOR C. MEDIALDEA**
+Executive Secretary

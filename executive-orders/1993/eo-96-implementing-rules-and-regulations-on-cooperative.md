@@ -1,0 +1,117 @@
+---
+title: "Executive Order No. 96 — Implementing rules and regulations on cooperative promotions, organization, development and supervision by Local Government Units"
+identifier: "Executive Order No. 96"
+number: "96"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-06-08
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_96_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_96_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 96
+
+**Implementing rules and regulations on cooperative promotions, organization, development and supervision by Local Government Units**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 96, June 8, 1993 ]
+
+IMPLEMENTING RULES AND REGULATIONS ON COOPERATIVE PROMOTIONS, ORGANIZATION, DEVELOPMENT AND SUPERVISION BY LOCAL GOVERNMENT UNITS
+
+WHEREAS, under Section 15, Article XII of the 1987 Constitution, “the Congress shall create an agency to promote the viability and growth of cooperatives as instruments for social justice and economic development;”
+
+**WHEREAS,** under Article 2 of Republic Act No. 6938, otherwise known as the Cooperative Code of the Philippines, “it is the declared policy of the State to foster the creation and growth of cooperatives as a practical vehicle for promoting self-reliance and harnessing people power towards the attainment of economic development and social justice;”
+
+**WHEREAS,** the Cooperative Development Authority (CDA) was created by virtue of the enactment of Republic Act No. 6939 with the power to register and regulate cooperatives and to adopt and implement national development plans for cooperative development;
+
+**WHEREAS,** the provisions and functions for the delivery of basic services to the people have been transferred to the local government units through Section 17 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991;
+
+**NOW, THEREFORE,** for and in consideration of the foregoing premises, the Cooperative Development Authority hereby promulgates the following implementing rules and regulations:
+
+## Section 1
+
+_Scope._ – These Rules and Regulations shall pertain to the functions and powers of the various local government units in relation to cooperatives operating within their area of jurisdiction.
+
+## Section 2
+
+_Statement of Policy._ – The local government units shall contribute to the development of cooperatives in their respective areas in accordance with the state policies on cooperatives prescribed in R.A. No. 6936 and R.A. No. 6939, and such cooperative development shall be coordinated by the CDA.
+
+## Section 3
+
+_State Policies on Cooperative Development._ – Local government units shall adhere to the following policies of the State on cooperative development:
+
+(a) The role of the State in cooperative development is promotion; the aim of cooperative promotion is the viability and growth of cooperatives as instruments of equity, social justice and economic development.
+
+(b) The State recognizes cooperatives as autonomous associations organized for the economic and social betterment of their members based on self-reliance and self-management.
+
+(c) The National Economic Development Authority (NEDA) shall include the growth and expansion of cooperatives as a major and indispensable component of national development plans. All departments, branches, subdivisions and instrumentalities of the Government shall promote the formation of cooperatives under their respective programs by providing them with appropriate and suitable incentives.
+
+(d) The State recognizes the cooperative sector as primarily responsible for the institutional development of cooperatives. Accordingly, the State recognizes the rights of the cooperative sector to initiate and foster within its own ranks cooperative promotion, organization, training, information gathering, audit and support services, with government assistance where necessary.
+
+(e) Government assistance to cooperatives shall be free from any restriction and conditionality that may in any manner infringe upon the objectives and character of cooperatives as provided in the Cooperative Code, maintain the policy of non-interference in the management and operation of cooperatives.
+
+## Section 4
+
+_Functions of the Local Government Units._ – The local government units, through the local chief executives, shall perform the following powers and functions in cooperative promotions, organization, regulation and development:
+
+(a) Appoint the local cooperative officer, at the discretion of the local chief executive, in accordance with Section 487, Article 17, Title Five, Book III of the Local Government Code;
+
+(b) Assist in the promotion and organization of cooperatives within their areas of jurisdiction with the assistance of other established cooperatives;
+
+(c) Assist the CDAs Cooperative Development Specialist in the evaluation of any proposed cooperatives economic survey, and requirements for registration, and recommend its registration or non-registration;
+
+(d) Assist in the following regulatory powers of the CDA:
+
+(1) Collection of annual reports and audited financial statements of cooperatives;
+
+(2) Mediation and conciliation of disputes between members of a cooperative operating within their area of jurisdiction;
+
+(3) Conduct preliminary investigation through a committee jointly created by the CDA and the local chief executive for violation of any provision of the Cooperative Code, R.A. No. 6939 and the _Implementing Rules and Regulations,_ and recommend the termination of its operation and cancellation of the certificate of registration; and
+
+(4) Monitor the compliance of cooperatives with the rules, regulations, and other issuances of the CDA including those reached through mediation and conciliation conferences and as a result of decisions of the CDA.
+
+(e) Initiate and implement a program for cooperative promotion and development in line with the national development plan on cooperatives within their jurisdiction;
+
+(f) Provide such information as required by the CDA as part of the research projects undertaken by the CDA.
+
+## Section 5
+
+_Functions of the CDA._ – The functions of the CDA shall be those set forth in the cooperative laws, and in particular, with those set forth in the cooperative laws, and in particular, with those of the local government units:
+
+(a) Conduct seminars and workshops for the training of local government officials and cooperative promotion, organization and development;
+
+(b) Develop such operating and training manuals as are necessary for cooperative promotion, organization and development as are required by the various local government units;
+
+(c) Provide information to the local government units on the policies and standards that have been formulated by the CDA concerning cooperatives;
+
+(d) Assist the local government units in the development of cooperatives in their locality;
+
+(e) Provide the local government units with updated lists of cooperatives operating within their jurisdiction; and
+
+(f) Coordinate the efforts of the private cooperative sector and the local government units for more effective and systematic cooperation between them.
+
+## Section 6
+
+_Memoranda of Agreement._ – The CDA, through its Extension Offices, and the LGU, upon request, may enter into Memoranda of Agreement with individual local government units to fully implement these rules and regulations and for other purposes not inconsistent with either the Cooperative Code or the Local Government Code. The secondment of any CDA employee to a local government unit may be done in accordance with existing policies and rules and regulations of the Civil Service Commission and the Commission on Audit.
+
+Approved by the CDA Board of Administrators, Quezon City, Philippines, January 12, 1993.
+
+Approved by the Oversight Committee, Manila, Philippines, March 31, 1993.
+
+DONE in the City of Manila this 8th day of June, in the year of Our Lord, nineteen hundred and ninety-three.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EDELMIRO A. AMANTE, SR.**
+Executive Secretary

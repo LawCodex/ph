@@ -1,0 +1,42 @@
+---
+title: "Executive Order No. 594 — Amending Executive Order No. 551, Dated December 9, 1952, Reducing the 1952 Taxes on All Real Properties Located in the City of Legaspi."
+identifier: "Executive Order No. 594"
+number: "594"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1953-05-21
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1953/eo_594_1953.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1953/pdf/eo_594_1953.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 594
+
+**Amending Executive Order No. 551, Dated December 9, 1952, Reducing the 1952 Taxes on All Real Properties Located in the City of Legaspi.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 594, May 21, 1953 ]
+
+AMENDING EXECUTIVE ORDER NO. 551, DATED DECEMBER 9, 1952, REDUCING THE 1952 TAXES ON ALL REAL PROPERTIES LOCATED IN THE CITY OF LEGASPI
+
+The public interest so requiring, I, **ELPIDIO QUIRINO** , President of the Philippines, by virtue of the powers vested in me by section 41 of Republic Act No. 306, as amended by Republic Act No. 457, and upon the recommendation of the. Secretary of Finance, do hereby remit the 50 per cent of the 1952 taxes on all real properties located in the City of Legaspi on condition that all the unpaid taxes and penalties corresponding to 1951 and previous years and the remaining 50 per cent of the 1952 taxes shall be paid on or before June 30, 1953.
+
+Executive Order No. 551, dated December 9, 1952, is hereby amended accordingly.
+
+Done in the City of Manila, this 21st day of May, in the year of Our Lord, nineteen hundred and fifty-three, and of the Independence of the Philippines, the seventh.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **MARCIANO ROQUE**
+Acting Executive Secretary

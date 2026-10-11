@@ -1,0 +1,93 @@
+---
+title: "Executive Order No. 590-A — Amending Executive Order No. 590 Dated 15 December 2006 on the Deactivation of the Armed Forces of the Philippines Retirement and Separation Benefits System By 31 December 2006, Directing the Transfer of Its Assets in Trust to a Government Financial Institution, and for Other Purposes (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 590-A"
+number: "590-A"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2007-01-31
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2007/eo_590-a_2007.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2007/pdf/eo_590-a_2007.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 590-A
+
+**Amending Executive Order No. 590 Dated 15 December 2006 on the Deactivation of the Armed Forces of the Philippines Retirement and Separation Benefits System By 31 December 2006, Directing the Transfer of Its Assets in Trust to a Government Financial Institution, and for Other Purposes (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 590-A, January 31, 2007 ]
+
+AMENDING EXECUTIVE ORDER NO. 590 DATED 15 DECEMBER 2006 ON THE DEACTIVATION OF THE ARMED FORCES OF THE PHILIPPINES RETIREMENT AND SEPARATION BENEFITS SYSTEM BY 31 DECEMBER 2006, DIRECTING THE TRANSFER OF ITS ASSETS IN TRUST TO A GOVERNMENT FINANCIAL INSTITUTION, AND FOR OTHER PURPOSES
+
+WHEREAS, the Armed Forces of the Philippines (“AFP”) Retirement and Separation Benefits System (“RSBS”) was established under Presidential Decree No. 361 (PD 361) issued on 30 December 1973 to provide for a funding system for the payment of retirement and separation benefits provided under existing laws to military personnel of the AFP;
+
+**WHEREAS,** under Section 5 of PD 361, as amended by Presidential Decree No. 1656 issued on 21 December 1979, the funds of RSBS shall be allowed to grow to be able to provide perpetually the fund requirement necessary to cover the retirement and separation benefits due to military personnel on a self-sustaining basis: _Provided,_ that prior to the time when perpetual self-sufficiency of the funds of the RSBS is attained as determined by actuarial evaluation, the yearly requirement for retirement and separation benefits of military personnel as provided under existing laws shall be funded out of the annual appropriations for the AFP;
+
+**WHEREAS,** based on the earlier evaluation and study of the actuarial life and financial status of RSBS, it was projected to attain self-sufficiency by the year 2058 and is projected to have an actuarial life of 32 years or until the year 2090;
+
+**WHEREAS,** after an exhaustive study and evaluation of the present financial and actuarial status of RSBS, the Secretaries of the Department of National Defense (DND), Department of Finance (DOF), and the Department of Budget and Management (DBM), together with the Chief of Staff, Armed Forces of the Philippines (CSAFP), have jointly recommended the deactivation and winding down of the RSBS on the ground that RSBS will not be able to attain self-sufficiency and its continued operations will be to the detriment of its members and the country.
+
+**WHEREAS,** in order to ensure that the funds of RSBS shall be preserved for the refund of the contributions of members and to meet all other obligations of RSBS as they become due, it is necessary to deactivate the operations of RSBS in an efficient and orderly manner;
+
+**WHEREAS,** there is a need to amend Executive Order No. 590 dated 15 December 2006 to further hasten the accomplishment of the objectives of the deactivation of the RSBS.
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO** , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+_Deactivation of the Armed Forces of the Philippines Retirement and Separation Benefits System._ \- The Armed Forces of the Philippines Retirement and Separation Benefits System, is hereby deactivated, effective 31 December 2006.
+
+## Section 2
+
+_Creation of the Cabinet Oversight Committee._ A Cabinet Oversight Committee is hereby created composed of the Secretary of National Defense, the Secretary of Finance, the Secretary of Budget and Management, and a representative from the Office of the President as designated by the President (hereinafter referred to as “COC”). The COC shall exercise oversight function on the final liquidation of assets and liabilities of the RSBS, the winding-down of its operations, and the retirement and separation of its personnel, in accordance with existing laws, rules and regulations, as well as the guidelines set forth in this Executive Order:
+
+## Section 3
+
+_Specific Guidelines for the Deactivation, Liquidation and Winding Down of RSBS._ \- The deactivation of RSBS, particularly with respect to the liquidation of its assets and liabilities, as well as the winding-down of its operations, shall be subject to the following guidelines:
+
+3.1 Due Diligence of RSBS and its Subsidiaries. In order to accurately determine the financial condition of RSBS, including all of its Subsidiaries, particularly with respect to the actual value of its assets and extent of its liabilities for purposes of liquidation, a due diligence review of the books of RSBS and its Subsidiaries shall be conducted;
+
+3.2 Transfer of Assets to a Government Financial Institution Preparatory to Liquidation and Winding-Down. - Upon determination of the net asset value of RSBS and its Subsidiaries, all the assets of the RSBS and its Subsidiaries shall be transferred to a Government Financial Institution (GFI) determined by the COC (hereinafter referred to as the “GFI Trustee”), for programmed liquidation as necessary until all RSBS assets are exhausted;
+
+3.3 Trust Account. The proceeds of the sale or liquidation of the transferred assets and other existing funds of RSBS and its Subsidiaries shall, together with all the mandatory contributions of military personnel collected by the AFP as prescribed under Section 4 of PD 361 consisting of five percent (5%) of their monthly base pay shall be remitted to a Trust Account to be established by the GFI Trustee for the purpose;
+
+3.4 Professional Trust Management of Members’ Contributions. The Funds in the Trust Account referred to in Section 3.3 hereof shall be placed under professional trust management of the GFI Trustee, or such other professional fund manager to be approved by the Cabinet Oversight Committee, subject to such investment guidelines as may be prescribed in the rules and regulations to be jointly issued by the DND, DOF and DBM to implement this Executive Order;
+
+3.5 Return of Members’ Contributions. The contributions of its members shall be returned to them in accordance with existing laws plus interest of six percent (6%) upon the retirement of its members to be paid from the funds in the Trust Account established under Section 3.3 hereof and shall be guaranteed by the National Government.
+
+## Section 4
+
+_Separation of RSBS Personnel._ All officers and employees of RSBS and its Subsidiaries affected by the deactivation of the RSBS shall be retired or separated from the service in accordance with existing laws.
+
+## Section 5
+
+_Assistance by the Government Corporate Counsel._ The Office of the Government Corporate Counsel (OGCC) is hereby directed to provide all the necessary assistance to the Cabinet Oversight Committee and/or any of its agencies relating to the deactivation of the RSBS as directed herein.
+
+## Section 6
+
+_New Philippine Military Retirement System._ The DND is hereby directed to complete the study and prepare a proposed legislation that shall establish and set up a new retirement and pension system for military personnel which shall provide among others strict guidelines on the organization and powers of its Governing Board in accordance with the best practices in good governance and provide clear investment parameters that its Governing Board can be allowed to undertake in the course of the management of its funds.
+
+## Section 7
+
+_Repeal._ All orders, issuances and regulations or parts thereof, which are inconsistent with this Executive Order are hereby revoked or modified accordingly.
+
+## Section 8
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 31st day of January in the year of our Lord Two Thousand and Seven.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary

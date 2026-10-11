@@ -1,0 +1,53 @@
+---
+title: "Executive Order No. 779 — Classifying the Organizational Structure of the Rural Workers Office in the Ministry of Labor and Employment and for Other Purposes"
+identifier: "Executive Order No. 779"
+number: "779"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1982-03-09
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1982/eo_779_1982.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 779
+
+**Classifying the Organizational Structure of the Rural Workers Office in the Ministry of Labor and Employment and for Other Purposes**
+
+**EXECUTIVE ORDER NO. 779 March 9, 1982**
+
+CLASSIFYING THE ORGANIZATIONAL STRUCTURE OF THE RURAL WORKERS OFFICE IN THE MINISTRY OF LABOR AND EMPLOYMENT AND FOR OTHER PURPOSES
+
+WHEREAS, the Rural Workers Office in the Ministry of Labor and Employment, is now faced with new and additional critical demands upon its services;
+
+WHEREAS, there is need to institute certain structural functional changes in the Rural Workers Office to enable it to respond to its increasingly complex role in the development of the welfare of rural workers, particularly the landless in line with the Philippine Government's commitments under ILO Convention 141;
+
+WHEREAS, during the National Tripartite Conference held on February 9, 10, 1982 at the Philippine Plaza Hotel, labor, management and government agreed to recommend the strengthening and elevation of the Rural Workers Office to the level of a Bureau in recognition of the increasing concern for the rural workers and the transfer of the seat of the regional office of the Ministry of Labor and Employment from Iloilo to Bacolod City;
+
+WHEREAS, under Presidential Decree No. 1416, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers and authority vested in me by the Constitution and Presidential Decree No. 1416, do hereby order and ordain:
+
+Article I. Bureau of Rural Workers
+
+1\. The Rural Workers Office in the Ministry of Labor and Employment is hereby classified as the Bureau of Rural Workers hereinafter referred to as the BUREAU;
+
+2\. The Minister of Labor and Employment shall continue to administer and use the Special Projects Fund under Presidential Decree 788, as amended by Presidential Decree 1365, for the operations and management of its Special Projects, subject to the provisions of Section 40 of P.D. 1177;
+
+3\. The Bureau in the exercise of its functions under P.D. 1365 shall continue to have technical control, and functional supervision over its programs.
+
+Article II. Transfer of Regional Seat from Iloilo to Bacolod City
+
+1\. The seat of the regional office of the Ministry of Labor and Employment in Region VI is hereby transferred from Iloilo to Bacolod City.
+
+Article III. Appropriation
+
+1\. The Ministry of the Budget shall make available such funds as may be adequate to meet the operational requirements of the reorganized set-up of the BUREAU carried out pursuant to this Executive Order.
+
+Article IV. Effectivity
+
+1\. This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 9th day of March, in the year of Our Lord, nineteen hundred and eighty-two.

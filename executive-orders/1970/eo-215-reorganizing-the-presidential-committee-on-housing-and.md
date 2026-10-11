@@ -1,0 +1,80 @@
+---
+title: "Executive Order No. 215 — Reorganizing the Presidential Committee on Housing and Urban Development Created Under Executive Order No. 135, Dated June 10, 1968, as Amended By Executive Order No. 161 Dated November 28, 1968, and Amending Executive Order No. 208, Dated February 9, 1970, Entitled “Strengthening the Cabinet to Make It More Effective Vehicle for the Attainment of Developmental Goals”"
+identifier: "Executive Order No. 215"
+number: "215"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1970-03-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1970/eo_215_1970.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1970/pdf/eo_215_1970.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 215
+
+**Reorganizing the Presidential Committee on Housing and Urban Development Created Under Executive Order No. 135, Dated June 10, 1968, as Amended By Executive Order No. 161 Dated November 28, 1968, and Amending Executive Order No. 208, Dated February 9, 1970, Entitled “Strengthening the Cabinet to Make It More Effective Vehicle for the Attainment of Developmental Goals”**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 215, March 07, 1970 ]
+
+**REORGANIZING THE PRESIDENTIAL COMMITTEE ON HOUSING AND URBAN DEVELOPMENT CREATED UNDER EXECUTIVE ORDER NO. 135, DATED JUNE 10, 1968, AS AMENDED BY EXECUTIVE ORDER NO. 161 DATED NOVEMBER 28, 1968, AND AMENDING EXECUTIVE ORDER NO. 208, DATED FEBRUARY 9, 1970, ENTITLED “STRENGTHENING THE CABINET TO MAKE IT MORE EFFECTIVE VEHICLE FOR THE ATTAINMENT OF DEVELOPMENTAL GOALS.”**
+
+**WHEREAS,** there is an increasing urgency of carrying out a national program of housing and resettlement for the homeless in our socially and economically depressed urban areas;
+
+**WHEREAS,** experience has proved that the Presidential Coordinating Committee on Housing and Urban Development as presently constituted tends to become unwieldy and this has raised a serious obstacle in the Committee’s performance of its function as the sole agency to coordinate the government effort on housing and urban development;
+
+**WHEREAS,** in order to make the Committee a more effective body for coordinating and expediting the national program for housing and urban resettlement, there is a need to reorganize the Committee such that its membership shall be strengthened and limited to a more manageable size; and
+
+**WHEREAS,** there is a continuing need for a coordinating committee pending the creation by legislation of a body to take charge of all matters concerning housing, urban resettlement and other related activity;
+
+**NOW, THEREFORE, I, FERDINAND E. MARCOS** , President of the Philippines, by virtue of the powers vested in me by law, do hereby reorganize the Presidential Coordinating Committee on Housing and Urban Development as follows:
+
+The name of the Presidential Coordinating Committee on Housing and Urban Development shall be changed to Presidential Committee on Housing and Urban Resettlement.
+
+The Committee shall be composed of the following members:
+
+| The Executive Secretary | Chairman |
+|---|---|
+| The Secretary of Health | Member |
+| The Secretary of National Defense | Member |
+| The Secretary of Social Welfare | Member |
+| The Governor, Land Authority | Member |
+| The General Manager, People's Homesite and Housing Corporation | Member |
+| The Secretary of Public Works and Communications | Member |
+| The Presidential Assistant on National Minorities | Member |
+| The Director-General, Presidential Economic Staff | Member |
+| The Presidential Assistant on Housing and Resettlement | Action Officer |
+
+As reorganized, the Committee, in addition to its responsibility to assume the coordination of all programs and projects concerning housing and urban resettlement, shall maintain continuous liaison and dialogue with the private sector, especially that portion thereof having to do with housing and urban resettlement, with a view to coordinate and integrate its efforts with that of the government in this area of activity.
+
+In the discharge of its functions and responsibilities, the Committee shall lay more emphasis and concentration on the social rather than the economic aspect of the housing and urban resettlement problem. It shall make studies and recommendations on how best to approach the problem from a social rather than economic perspective.
+
+It shall be the responsibility of the Action Officer to implement the policies enunciated and decisions made by the Committee. The Action Officer shall be assisted by a Technical Staff and Secretariat which shall provide technical and secretarial services to the Committee.
+
+The Technical Staff shall consist of representatives of the Committee Members and such additional technical personnel as may be selected by the Chairman of the Committee.
+
+Except for the change in the Action Officer and Technical Staff as hereinabove provided, the Secretariat of the Presidential Coordinating Committee on Housing and Urban Development, as presently organized, shall be maintained and shall continue to provide secretarial support to the new Committee created herein.
+
+In order to strengthen the position of the Presidential Assistant on Housing and Resettlement as Action Officer of the Committee vis-a-vis other government offices and agencies as well as the private sector, the Office of the Presidential Assistant on Housing and Resettlement Agency shall be reverted back as an office under the Office of the President together with its corresponding appropriations, equipment, property records and personnel. However, the Cabinet rank of the Presidential Assistant on Housing and Resettlement shall not be restored.
+
+All departments, bureaus, offices, agencies and instrumentalities of the government, including government-owned or controlled corporations, as well as local government entities, shall extend assistance to the Committee whenever such assistance is needed and requested.
+
+Executive Order No. 135, dated June 10, 1968, as amended by Executive Order No. 161, dated November 28, 1968, as well as Executive Order No. 208, dated February 9, 1970, and all other executive orders, administrative orders or proclamations contrary to or inconsistent herewith are hereby revoked or amended accordingly.
+
+Done in the City of Manila, this 7th day of March, in the year of Our Lord, nineteen hundred and seventy.
+
+(SGD.) **FERDINAND E. MARCOS**
+President of the Philippines
+
+By the President:
+
+(SGD.) **ALEJANDRO MELCHOR**
+Acting Executive Secretary

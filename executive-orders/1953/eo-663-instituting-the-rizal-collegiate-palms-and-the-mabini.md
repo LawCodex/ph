@@ -1,0 +1,63 @@
+---
+title: "Executive Order No. 663 — Instituting the Rizal Collegiate Palms and the Mabini Teachers Medal"
+identifier: "Executive Order No. 663"
+number: "663"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1953-12-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1953/eo_663_1953.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1953/pdf/eo_663_1953.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 663
+
+**Instituting the Rizal Collegiate Palms and the Mabini Teachers Medal**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 663, December 29, 1953 ]
+
+INSTITUTING THE RIZAL COLLEGIATE PALMS AND THE MABINI TEACHERS MEDAL
+
+WHEREAS, it is believed proper for the of the Republic of the Philippines to honor not only its military personnel but also other citizens who have rendered valuable service to their country in the field of education; and
+
+**WHEREAS,** one of the tangible ways of manifesting the Government’s appreciation is by bestowing orders, medals or decorations:
+
+**NOW, THEREFORE, I, ELPIDIO QUIRINO,** President of the Philippines, by virtue of the powers vested in me by law, do hereby institute the following annual decorations and medals:
+
+THE RIZAL COLLEGIATE PALMS
+
+This decoration shall be awarded annually only to citizens who have made distinct contribution to the field of higher education in the Philippines. Such award will not only give due recognition to the valuable service rendered by the recipients thereof but the same will also serve to perpetuate the memory of Dr. Jose Rizal, the renowned Filipino scholar, scientist, patriot and martyr.
+
+THE MABINI TEACHERS MEDAL
+
+This medal shall be awarded to those who have made noteworthy contribution to elementary and secondary education in the Philippines. This decoration will also serve to honor the memory of another Filipino patriot, Mabini, a humble teacher who was destined to guide his countrymen in one of the most critical periods la the country’s history.
+
+Although these annual awards are not of great intrinsic value or of rare metal, they may be considered one of the recipients’ most treasured possessions which they can transmit to their children and to their children’s children as a precious and cherished family heirloom.
+
+The number of Rizal Collegiate Palm annual awards shall not exceed six for any given year and that of Mabini Teachers Medals shall not be more than twelve, or a total of eighteen educational awards may be given annually.
+
+A committee shall be appointed by the President of the Philippines to take charge of screening the candidates for these annual awards.
+
+Of said awards, at least, two of each kind of medal shall be awarded for long, faithful and efficient services; one for extraordinary contribution to education irrespective of length of service; and one to those who are neither teachers, supervisors nor school administrators but who have made signal contribution to the program of education in the Philippines.
+
+These awards being the highest which a teacher may receive from the Government, only one medal of each class may be awarded to any one individual. However, in case of additional or subsequent citation, each awardee shall be permitted to attach one gold star to the ribbon of his medal for each additional or subsequent citation.
+
+Until Congress shall provide the necessary funds for these eighteen annual medal awards, the expenses needed to carry out the provisions of this Executive Order may be taken from the discretionary fund of the Office of the President.
+
+Done in the City of Manila, this 29th day of December, in the year of Our Lord, nineteen hundred and fifty-three, and of the Independence of the Philippines, the eighth.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **MARCIANO ROQUE**
+Acting Executive Secretary

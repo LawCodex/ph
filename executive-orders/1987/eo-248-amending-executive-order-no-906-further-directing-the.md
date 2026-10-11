@@ -1,0 +1,57 @@
+---
+title: "Executive Order No. 248 — Amending Executive Order No. 906, Further Directing the Review of the Progressive Car Manufacturing Program (Pcmp), and for Other Purposes"
+identifier: "Executive Order No. 248"
+number: "248"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1987-07-24
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1987/eo_248_1987.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1987/pdf/eo_248_1987.pdf"
+source_format: html
+note: "Issued by President Corazon C. Aquino in the exercise of legislative power (Freedom Constitution, Art. II s.1; 1987 Constitution, Art. XVIII s.6)"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 248
+
+**Amending Executive Order No. 906, Further Directing the Review of the Progressive Car Manufacturing Program (Pcmp), and for Other Purposes**
+
+**EXECUTIVE ORDER NO. 248 July 24, 1987**
+
+AMENDING EXECUTIVE ORDER NO. 906, FURTHER DIRECTING THE REVIEW OF THE PROGRESSIVE CAR MANUFACTURING PROGRAM (PCMP), AND FOR OTHER PURPOSES
+
+WHEREAS, Executive Order No. 906, issued on August 4, 1983, directed the review by the Board of Investments of the Progressive Car Manufacturing Program (PCMP);
+
+WHEREAS, as a result of its most recent review, the Board of Investments is formulating a Car Development Program ( P) together with a Commercial Vehicle Development Program (CVDP) to supplant the PCMP and the Progressive Truck Manufacturing Program (PTMP);
+
+WHEREAS, it is necessary to revise Executive Order No. 906 in order that the Government may adopt fundamental reforms in the PCMP;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order;
+
+## Sec. 1
+
+The Board of Investments shall, in consultation with the appropriate agencies, review and revise the Progressive Car Manufacturing Program as adopted in 1970, with the end objective of achieving an economic balance, considering technology development, increased domestic manufacturing activity, optimum use of existing domestic manufacturing facilities, foreign exchange savings and reasonable consumer prices.
+
+## Sec. 2
+
+Taking into consideration the end objective specified in Section 1 hereof, the Board of Investments shall recommend new guidelines for a Car Development Program ( P) which will include, among others, the number of participants. Based on the recommendations of the Board of Investments, the President shall promulgate the necessary guidelines.
+
+## Sec. 3
+
+The new guidelines shall further indicate the commitments of the participant/s as well as terms and conditions relative thereto.
+
+## Sec. 4
+
+The Board of Investments is likewise directed to review and revise the Progressive Truck Manufacturing Program (PTMP) with the objective of recommending new guidelines for a Commercial Vehicle Development Program (CVDP). Based on the recommendation of the Board of Investments, the President shall promulgate the necessary guidelines.
+
+## Sec. 5
+
+The Central Bank shall grant foreign exchange allocations to support the participant/s of the new programs upon the recommendation of the Board of Investments.
+
+## Sec. 6
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 24th day of July, in the year of Our Lord, Nineteen Hundred and Eighty-Seven.

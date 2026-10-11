@@ -1,0 +1,155 @@
+---
+title: "Executive Order No. 52 — Creating a youth environmental corps in all Katipunan ng Kabataan to be known as Green Brigade (GB) to promote environmental awareness and action among the Filipino youth; mandating the formulation of the National Youth Environmental Action Plan and for other purposes (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 52"
+number: "52"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1998-12-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1998/eo_52_1998.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1998/pdf/eo_52_1998.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 52
+
+**Creating a youth environmental corps in all Katipunan ng Kabataan to be known as Green Brigade (GB) to promote environmental awareness and action among the Filipino youth; mandating the formulation of the National Youth Environmental Action Plan and for other purposes (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 52, December 29, 1998 ]
+
+CREATING A YOUTH ENVIRONMENTAL CORPS IN ALL KATIPUNAN NG KABATAAN TO BE KNOWN AS GREEN BRIGADE (GB) TO PROMOTE ENVIRONMENTAL AWARENESS AND ACTION AMONG THE FILIPINO YOUTH; MANDATING THE FORMULATION OF THE NATIONAL YOUTH ENVIRONMENTAL ACTION PLAN AND FOR OTHER PURPOSES
+
+WHEREAS, the Constitution recognizes the right of the people to enjoy a healthful ecology in accordance with the rhythm and harmony of nature;
+
+**WHEREAS,** the Constitution recognizes the youth as having an indispensable role in nation-building, with a primordial stake in addressing present problems relating to environmental quality and healthful ecology;
+
+**WHEREAS,** it is recognized that the protection and conservation of the environment is best planned and implemented using a community-based approach;
+
+**WHEREAS,** the present generation has an obligation to ensure that future generations of Filipinos will enjoy a healthful environment;
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA** , President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order that:
+
+## Section 1
+
+_Creation._ — There is hereby created a youth environmental corps within the Katipunan ng Kabataan in all barangays of the country to be called Green Brigade (GB).
+
+**Section. 2.** _Composition and Structure_
+
+(a) The Green Brigade shall be composed of at least twenty-five (25) members of the Katipunan ng Kabataan in each barangay.
+
+(b) The Sangguniang Kabataan Council member shall elect among themselves the head of the GB of each Barangay. The GB secretary and GB treasurer who shall be elected among the members of the GB shall assist him. Appropriate committees and bodies shall also be constituted.
+
+## Section 3
+
+_Relationship with the Sangguniang Kabataan._ — The GB shall be deemed the Committee on Environment of the Sangguniang Kabataan of such barangay for purposes of funding and implementation of environment related projects.
+
+## Section 4
+
+_Funding Source for the Barangay GB._ — Subject to applicable budgetary laws, rules and regulations, ten percent (10%) of the annual budget of the Sangguniang Kabataan shall be automatically allocated for the operations of the GB. However, the GB may hold fund-raising activities for purposes of augmenting its funds, the proceeds of which shall be deemed as funds raised by the Sangguniang Kabataan under Section 426 (a) of Republic Act No. 7160.
+
+## Section 5
+
+_Powers and Functions of the Barangay GB._ — The GB of each barangay shall have the following powers and functions:
+
+(a) Formulate and implement the local youth environmental action plan which addresses the specific environmental concerns of the barangay. The local plan shall be in consonance with the plans and programs set forth in the National Youth Environmental Action Plan referred to in **Section 10.**
+
+(b) Undertake educational projects which will promote youth partnership in the sustainable development programs in the barangay including but not limited to environmental awareness campaigns, clean-up drives and tree planting activities and establish and maintain links with existing youth groups in the barangay for purposes of coordinated youth action relating to environmental protection and preservation.
+
+(c) Propose ordinances to Sangguniang Kabataan and/or the sanggunian of the local government unit toward the promotion of sustainable development and environmental protection and natural resources conservation/preservation.
+
+Such other powers and functions as may hereafter be provided or as may be necessary and incidental for the performance of its mandate.
+
+6\. **_Deputation of Barangay Green Brigade._** —
+
+There shall be a Deputized Environmental and Natural Resources Officer (DENRO) in every barangay. He/She shall be elected among the GB members provided that he/she is between 18 to 21 years old.
+
+The Green Brigade DENRO in every barangay shall assist the DENR in monitoring and reporting violations of environmental laws.
+
+7\. **_Municipal/City Green Brigade Federations._** —
+
+(a) The barangay Green Brigades through their chairpersons shall be organized into Municipal/City Green Brigade Federations. It shall automatically be chaired by the vice president of the Municipal or City SK Federation;
+
+(b) For purposes of funding and program implementation, the Green Brigade at the municipal/city level shall be deemed as the permanent Committee on the Environment of the Pederasyon ng Sangguniang Kabataan. The Pederasyon ng Sangguniang Kabataan shall provide such funds as may be necessary and adequate for the effective performance by the Municipality/City GB Federation of its functions as hereafter provided.
+
+## Section 8
+
+_Powers and Functions of the Municipal/City Green Brigade Federation_ — The Municipal/City GB Federation shall have the following powers and functions:
+
+(a) Formulate the municipal/city youth environmental action plans.
+
+(b) Enter into cooperative agreements with other youth groups in the area for purposes of coordination in the implementation of youth environmental actions;
+
+(c) Assist and monitor the activities and programs of Barangay Green Brigade.
+
+(d) Propose ordinances/resolutions to the Municipal/City Sangguniang Kabataan Federation or Municipal/City Council relations to environmental protection.
+
+(e) Such other power and functions as may hereafter be provided or as may be necessary or incidental to the performance of the mandate.
+
+## Section 9
+
+_Powers and Functions of the National GB Coordinating Committee._ —
+
+(a) There shall be a National GB Coordinating Committee (NGBCC) composed of the Chairman of NYC as overall coordinator and one (1) representative each from the DENR and the Department of Interior and Local Governments (DILG) with the rank of assistant secretary, the president of the Pambansang Pederasyon ng mga Sangguniang Kabataan, and two (2) youth environmental non-governmental organizations (NGOs) with a good record of community service as members.
+
+(b) The NGBCC shall be responsible for formulating the National Youth Environmental Action Plan within 60 days after the approval of the Executive Order. The NGBCC shall also coordinate and monitor the implementation of the NYEAP.
+
+(c) The National Youth Commission (NYC) shall serve as the secretariat of the NGBCC. It shall likewise provide technical and funding support for the meetings and operations of the NGBCC.
+
+## Section 10
+
+_National Youth Environmental Action Plan._ — The National Youth Environmental Action Plan (NYEAP) shall be the basis of local youth environmental action plans in barangays/cities/municipalities. The NYEAP shall include among others the following components:
+
+(a) Philosophy and Concept of Ecology and Sustainable Development.
+
+(b) Current State of the Environment of the Philippines.
+
+(c) Environmental Responsibilities, Functions and Rites of Youth and Youth DENRO.
+
+## Section 11
+
+_Reportorial Requirements._ —
+
+(a) All barangay GBs shall submit annual accomplishment and action reports to the Municipal/City GB Federations on or before the second week of December of each year, in time for the celebration of the “National Linggo ng Kabataan” pursuant to Republic Act No. 7160. Copies of these reports should likewise be submitted to the corresponding Sangguniang Kabataan or Pederasyon ng mga Sangguniang Kabataan.
+
+(b) The Municipal/City GB Federations shall have the responsibility of collating and compiling such reports and attaching these, or executive summaries thereof, to its own report to be submitted to the National Green Brigade Coordinating Committee.
+
+(c) The NGBCC through its Secretariat shall compile the reports from the Municipal/City GBs. Such reports shall be consolidated into the NGBCC’s annual national report that shall be submitted to the President on or before the end of March of the succeeding year.
+
+## Section 12
+
+_Institutional support and implementing rules._ —
+
+(a) All local government units and national government agencies, most especially the DENR, DILG and the NYC, shall cooperate to provide support for the formation and operations of the Barangays GBs and the Municipal/City GB Federations.
+
+(b) Pursuant to its powers and functions under Section 9 and 10 of Republic Act No. 8044, otherwise known as the Youth in Nation-Building Act, the NYC, in coordination and consultation with the DENR, DILG, and the Pambansang Pederasyon ng mga Sangguniang Kabataan, shall promulgate, not later than three (3) months from the effectivity of this Executive Order, the implementing rules to form and institutionalize the barangay GBs and the GB Federations at all levels as part of the Sangguniang
+
+(b) Kabataan pursuant to this Executive Order. In the formulation of such implementing rules, the provisions of Book VII, Chapter 2, Section 9(a) of Executive Order No. 292 (1987), otherwise known as the Revised Administrative Code of 1987, shall be fully observed.
+
+## Section 13
+
+_Funding support._ — The amount of five hundred thousand pesos (P500,000.00) is hereby set aside for the current year from the savings and reserves of the Office of the President and the Department of Budget and Management (DBM) for the organization, operationalization and institutionalization of the Green Brigades, Green Brigade Federations, and the NGBCC and for the formulation and promulgation of the implementing rules referred to in Section 13 above. Thereafter, the funds necessary to support the operations of the NGBCC and of the NYC as the NGBCC Secretariat in accordance with this Executive Order shall be included in the annual appropriations of the NYC.
+
+## Section 14
+
+_Repealing clause._ — All executive issuances, orders, rules and regulations inconsistent with this Executive Order are hereby revoked, amended or modified accordingly.
+
+## Section 15
+
+_Effectivity._ — This Executive Order takes effect immediately.
+
+**Done** in the City of Manila, this 29th day of December, in the year of Our Lord, nineteen hundred and ninety-eight.
+
+(SGD.) **JOSEPH EJERCITO ESTRADA**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RONALDO B. ZAMORA**
+Executive Secretary

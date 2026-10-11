@@ -1,0 +1,46 @@
+---
+title: "Executive Order No. 52 — Consolidation of Official Warehouse Receipt-Permit for Domestic Consumption or Emergency Reserve Sugar"
+identifier: "Executive Order No. 52"
+number: "52"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1936-09-08
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1936/eo_52_1936.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1936/pdf/eo_52_1936.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 52
+
+**Consolidation of Official Warehouse Receipt-Permit for Domestic Consumption or Emergency Reserve Sugar**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 52, September 08, 1936 ]
+
+**CONSOLIDATION OF OFFICIAL WAREHOUSE RECEIPT-PERMIT FOR DOMESTIC CONSUMPTION OR EMERGENCY RESERVE SUGAR**
+
+Pursuant to authority vested in me by Act Numbered Four thousand one hundred sixty-six, it is hereby ordered that:
+
+1\. A consolidated official warehouse receipt-permit for domestic consumption or emergency reserve sugar, covering the net weight, raw value, of the total amount of sugar comprising two or more individual allotments or planter’s rights may be issued by authorized permit agents of the Domestic Sugar Administration at the option of the mill company: _Provided,_ That if the quantity of sugar included for any planter is in excess of one hundred thirty-nine and forty-four-hundredths pounds, the mill company shall be required to possess written evidence to indicate the consent of such planter.
+
+2\. The consolidated official warehouse receipt-permit shall be prepared in accordance with the provisions set forth in subsections (a), (b), and (c) of Executive Order Numbered Seven hundred six, Baguio, April fifteenth, nineteen hundred and thirty-five, as amended by Executive Order Numbered Eight hundred fifteen, Manila, July twenty-sixth, nineteen hundred and thirty-five.
+
+3\. The provisions of Executive Order Numbered Seven hundred six, Baguio, April fifteenth, nineteen hundred and thirty-five, insofar as they concern domestic consumption or emergency reserve sugar are hereby modified so as to conform with this Executive Order.
+
+Done at the City of Manila, this eighth day of September, in the year of Our Lord, nineteen hundred and thirty-six, and of the Commonwealth of the Philippines, the first.
+
+**MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+**ELPIDIO QUIRINO**
+Secretary of the Interior

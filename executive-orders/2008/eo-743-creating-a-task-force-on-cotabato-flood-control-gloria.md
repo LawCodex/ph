@@ -1,0 +1,134 @@
+---
+title: "Executive Order No. 743 — Creating a Task Force on Cotabato Flood Control (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 743"
+number: "743"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2008-07-24
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2008/eo_743_2008.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2008/pdf/eo_743_2008.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 743
+
+**Creating a Task Force on Cotabato Flood Control (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 743, July 24, 2008 ]
+
+CREATING A TASK FORCE ON COTABATO FLOOD CONTROL
+
+WHEREAS, there is an urgent need for interventions to control the floods brought about by Typhoons Frank and Cosine in the provinces of North Cotabato, South Cotabato, Saranggani and Sultan Kudarat, as well as the City of Cotabato and parts of the Autonomous Region of Muslim Mindanao;
+
+**WHEREAS,** these areas are within the Lower Cotabato River Basin which are known to be prone to flooding as a result of the heavy siltation of the major rivers of the Mindanao River Basin and the Ligawasan Marsh;
+
+**WHEREAS,** under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has continuing authority to reorganize the Executive. Branch;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, do hereby order:
+
+## Section 1
+
+_Creation._ \- The Task Force on Cotabato Flood Control (Task Force) is hereby created.
+
+## Section 2
+
+_Mandate._ \- The Task Force shall integrate flood control efforts in the areas of the Autonomous Region of Muslim Mindanao (ARMM) and Region XII that were flooded by typhoons Frank and Cosme. It shall likewise ensure that public funds for Cotabato flood control shall be spent judiciously and effectively through efficient prioritization of programs and consistent monitoring of projects. It shall serve as the clearing house for all proposals related to Cotabato flood control. Upon consolidation and evaluation, it shall approve the appropriate requests. It shall notify the Department of Budget and Management (DBM) of its approval as basis for the release of the fund.
+
+## Section 3
+
+_Powers._ \- The Task Force shall have the following powers:
+
+a. To generate proposals from the implementing agencies for Cotabato flood control efforts as well as infrastructure support;
+
+b. To work with the Department of Public Works & Highways of the National Government and the ARMM for the important interventions that need to be implemented for Cotabato flood control;
+
+c. To work with the Regional Disaster Coordinating Council (RDCC) of the ARMM and the RDCC of Region XII on common or overlapping project activities related to Cotabato flood control;
+
+d. To regularly monitor the status of programs, projects and activities related to Cotabato flood control in the areas flooded by typhoons Frank and Cosme in the Cotabato River Basin to ensure their prompt and efficient execution;
+
+e. To recommend courses of action to ensure cohesiveness in objectives and coordinated action to improve the implementation of flood control repair and construction works and activities in said areas;
+
+f. To coordinate and consult with concerned national and local officials, both elective and appointive, as well as accredited non -government organizations in the prosecution of programs and projects;
+
+g. To mobilize the assistance and support of any government agency or instrumentality as well as civil society and donor community to address identified gaps and requirements in Cotabato flood control efforts; and
+
+h. To formulate policies, plans and programs for Cotabato flood control as well as infrastructure support with regard to flood control funds or funds for a similar purpose that may be allocated for Cotabato flood control.
+
+## Section 4
+
+_Composition._ \- The Task Force shall be composed of the following:
+
+a. A representative of civil society to be designated by the President of the Philippines as Chair of the Task Force;
+
+b. The Governor of the ARMM;
+
+c. The Chairman of the Region XII RDCCI;
+
+d. The Secretary of Public Works of ARMM; and
+
+e. The Regional Director of Region XII DPWH.
+
+## Section 5
+
+_Organization of the Secretariat._ \- The Task Force shall maintain a Secretariat to be headed by an Executive Director. It may request that personnel from different government agencies and instrumentalities be detailed by their respective heads.
+
+## Section 6
+
+_Assistance of Government Entities._ \- All departments, agencies, bureaus, offices and instrumentalities are hereby enjoined to extend full assistance and cooperation, and to provide necessary information and data to the Task Force.
+
+## Section 7
+
+_Secretariat._ -Technical and administrative personnel shall be provided the Task Force by member agencies on detail basis. The Executive Director shall have the following powers and functions:
+
+a. Administer and manage the day-to-day affairs and operations of the Task Force;
+
+b. Coordinate the activities of agencies and instrumentalities in the implementation of projects;
+
+c. Coordinate and liaise with accredited non-government organizations, international agencies and other groups or individuals involved in flood control;
+
+d. Conduct studies on flood control to minimize the adverse effects to lives, properties and livelihood of residents in the Cotabato River Basin that may be caused by similar floods;
+
+e. Work with the DPWH on engineering plans for Cotabato flood control;
+
+f. Monitor the implementation of projects and programs in connection with Cotabato flood control;
+
+g. Report to the Task Force, which shall meet at least monthly, on the status, situation and developments concerning projects and programs; and
+
+h. Perform such other functions as may be assigned by the President of the Philippines.
+
+## Section 8
+
+_Reportorial Requirements._ \- The Task Force shall submit to the DBM a quarterly report on the funds allocated indicating the amount released, obligated and disbursed for Construction or repair and reconstruction of infrastructure projects being financed, and the accomplishments for the expended appropriations.
+
+## Section 9
+
+_Term._ \- The Task Force shall exercise its powers and functions for a period of two (2) years unless otherwise directed by the President.
+
+## Section 10
+
+_Funding._ \- The funding for the administrative and operational expenses of the Task Force shall be sourced from the Contingent Fund.
+
+## Section 11
+
+_Repealing Clause._ \- All other executive issuances, rules and regulations or parts thereof that are inconsistent with the provisions of this Executive Order are hereby repealed, amended or modified accordingly.
+
+## Section 12
+
+_Effectivity._ -This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 24th day of July, in the year of Our Lord, Two Thousand and Eight.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(Sgd.) **EDUARDO R. ERMITA**
+Executive Secretary

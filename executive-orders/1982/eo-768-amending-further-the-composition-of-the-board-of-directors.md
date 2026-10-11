@@ -1,0 +1,40 @@
+---
+title: "Executive Order No. 768 — Amending Further the Composition of the Board of Directors of the Construction Industry Authority of the Philippines"
+identifier: "Executive Order No. 768"
+number: "768"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1982-01-19
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1982/eo_768_1982.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 768
+
+**Amending Further the Composition of the Board of Directors of the Construction Industry Authority of the Philippines**
+
+**EXECUTIVE ORDER NO. 768 January 19, 1982**
+
+AMENDING FURTHER THE COMPOSITION OF THE BOARD OF DIRECTORS OF THE CONSTRUCTION INDUSTRY AUTHORITY OF THE PHILIPPINES
+
+WHEREAS, the Construction Industry Authority of the Philippines (CIAP) was created under PD 1746 as amended to promote, accelerate and regulate the growth and development of the construction industry;
+
+WHEREAS, the participation of the Ministry of Labor and Employment (MOLE) and the Philippine Contractors' Association (PCA) are important in the implementation of the functions of CIAP; and
+
+WHEREAS, Presidential Decree No. 1416 grants continuing authority to the President of the Philippines to reorganize the national government.
+
+WHEREAS, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution do hereby order and ordain the following:
+
+## Sec. 1
+
+Section 1 of Presidential Decree No. 1746 is hereby amended to include the Minister of Labor and Employment and the President of the Philippine Contractors' Association.
+
+## Sec. 2
+
+Effectivity. This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 19th day of January, in the year of Our Lord, nineteen hundred and eighty two.

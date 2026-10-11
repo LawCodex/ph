@@ -1,0 +1,130 @@
+---
+title: "Executive Order No. 112 — Re-directing the functions and operations of the Department of National Defense (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 112"
+number: "112"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1999-06-18
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1999/eo_112_1999.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1999/pdf/eo_112_1999.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 112
+
+**Re-directing the functions and operations of the Department of National Defense (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 112, June 18, 1999 ]
+
+RE-DIRECTING THE FUNCTIONS AND OPERATIONS OF THE DEPARTMENT OF NATIONAL DEFENSE
+
+WHEREAS, under Section 15, Chapter I, Title VIII, Book IV of Executive Order No. 292 (Revised Administrative Code of 1987), the Department of National Defense (DND) is mandated to maximize its effectiveness for guarding against external and internal threats to national peace and security and provide support for social and economic development;
+
+**WHEREAS,** the DND is the primary government agency which supervises the Armed Forces of the Philippines (AFP), the Government Arsenal (GA), the Philippine Veterans Affairs Office (PVAO), the National Defense College of the Philippines (NDCP) and the Office of Civil Defense (OCD), as well as supervise and administer the AFP Modernization Program;
+
+**WHEREAS,** in view of these mandates, there is a need to refocus the functions of the existing organizational units, as well as the operational structures and reporting systems in the DND to make its organizational set-up and operational processes more efficient and effective and responsive to emerging defense concerns;
+
+**WHEREAS,** there is a need to re-cluster the existing bureaus and offices of the DND Proper to ensure accountability and establish a reporting system with clear lines of authority among the various offices in the Department as well as those in the Office of the Secretary of National Defense;
+
+**WHEREAS,** there is a need for the realignment of bureaus and offices to delineate responsibilities based on the following functional categories: operations; policy and strategic planning; and administration and finance in accordance with existing rules and regulations on the same;
+
+**WHEREAS,** under Section 20, Chapter 7, Title I, Book III of Executive Order No. 292, the President is empowered to exercise such powers and functions vested in him which are provided for under the laws;
+
+**WHEREAS,** under Section 77 of the General Provisions of Republic Act No. 8745 (FY 1999 General Appropriations Act), the President may direct changes in the organization and key positions in any department, bureau or agency; and
+
+**WHEREAS,** Section I.XLVIII of RA 8745 (1999 GAA) provides for an Organizational Fund (OAF) for the Department of National Defense under the Office of the Secretary;
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA** , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:
+
+## Section 1
+
+_Mandate._ — Consistent with the provisions of the Revised Administrative Code of 1987 (EO 292), the DND is hereby mandated to maximize its effectiveness for guarding against external and internal threats to national peace and security, promote the welfare of soldiers and veterans, and provide support for social and economic development.
+
+## Section 2
+
+_Roles._ — To fulfill its responsibilities under this mandate, the DND shall serve as:
+
+a) the lead line agency and authority in formulating the national defense-security policies, plans and programs on defense and security;
+
+b) the monitor and evaluator of the implementation of policies, plans and programs on defense and security;
+
+c) the administrator, of the National Disaster Coordinating Council (NDCC) special funds intended to assist Local Government Units (LGUs), communities, families and citizens affected by calamities and/or disasters;
+
+d) an innovator of new strategies on defense and security issues, including and pursuant to the national defense plan;
+
+e) an enabler of National Government Agencies (NGAs), local government units (LGUs), government-owned and controlled corporations (GOCCs), non-government organizations (NGOs), People's Organizations (POs), and other members of civil society in implementing civil defense and socio-economic development programs requiring defense and military assistance;
+
+f) an advocate for social and economic development concerns, to include resource and environmental protection and preservation up to the Exclusive Economic Zone (EEZ), emergency preparedness and mitigation, soldiers and veterans' welfare, and other similar concerns; and
+
+g) implementor of the country's international defense and security commitments based on defense and security treaties, cooperation agreements, international covenants, protocols and other similar arrangements.
+
+## Section 3
+
+_Functional Focus._ — To accomplish its mandate and roles, the Department shall:
+
+a) Formulate, develop and promote policies, plans, programs and projects in the field of defense, and in coordination with the NSC, in the field of security;
+
+b) Direct, plan and supervise the national defense program;
+
+c) Undertake researches and studies and adopt policies to ensure the effective implementation of the national defense plan and other related programs and projects;
+
+d) Exercise supervision and control over the Armed Forces of the Philippines, Government Arsenal, Office of Civil Defense, Philippine Veterans Affairs Office and the National Defense College of the Philippines;
+
+e) Supervise the setting of standards, accreditation and furnishing of technical assistance to institutions, organizations, corporations and persons engaged in emergency management or related development activities requiring defense and military assistance;
+
+f) Advocate for and disseminate information on defense-security issues;
+
+g) Provide augmentation funding and resources to partners in civil defense activities;
+
+h) In coordination with the Department of Foreign Affairs (DFA), implement, promote and maintain bilateral and multilateral linkages for defense and military cooperation that are initiated, negotiated, or concluded by the DFA; and
+
+i) Perform such other functions as may be provided by law.
+
+## Section 4
+
+_Preparation of a Rationalization and Organizational Adjustment Plan._ — In view of the functional and operational redirection in the DND, and to effect efficiency and effectiveness in its activities, the Department shall prepare a Rationalization and Organizational Adjustment Plan (ROAP) which shall be the basis of the operational and organizational adjustments. The ROAP shall provide the framework for the following:
+
+a) the clustering of bureaus and offices in ways that will ensure accountability;
+
+b) the establishment of a reporting system with clear lines of authority among the various offices in the Department as well as those in the Office of the Secretary of National Defense;
+
+c) the realignment of offices delineating responsibilities based on the functional, categories: operations; policy and strategic planning; and administration and finance in accordance with existing rules and regulations on the same; and
+
+d) the rationalization of the Department's staffing pattern, ensuring that the resulting revised staffing complement of the Department duly includes a rationalization and/or integration plan for the occupants of casual positions.
+
+The ROAP shall be submitted to the Department of Budget and Management (DBM) for approval prior to the implementation by the DND Secretary. The DBM, in this regard, is hereby authorized to create key positions and/or upgrade existing positions if found necessary.
+
+## Section 5
+
+_Redeployment of Personnel._ — As necessary, the existing personnel of the DND shall be redeployed in accordance with the requirements of the ROAP and existing civil service laws and rules. Such redeployment shall not result in the diminution in rank and compensation of affected personnel.
+
+## Section 6
+
+_Funding._ — The financial resources required to implement the Rationalization and Organizational Adjustment Plan shall be taken from funds available in the DND: _Provided,_ That the total cost of the approved staffing pattern shall not exceed the authorized appropriations of the agency for Personal Services, as well as the outlay for Personal Services under the existing Organizational Adjustment Fund (OAF) of RA 8745 (FY 1999 General Appropriations Act).
+
+## Section 7
+
+_Repealing Clause._ — All other Executive Orders and Issuances inconsistent with this Executive Order are hereby rescinded or modified accordingly.
+
+## Section 8
+
+_Separability Clause._ — If any provision of this Executive Order is held invalid, other provisions not affected thereby shall be valid and binding.
+
+## Section 9
+
+_Effectivity._ — This Executive Order shall take effect immediately.
+
+Adopted: 18 June 1999
+
+BY THE PRESIDENT:
+
+(SGD.) **RONALDO B. ZAMORA**
+Executive Secretary

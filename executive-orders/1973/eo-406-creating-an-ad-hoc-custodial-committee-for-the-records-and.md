@@ -1,0 +1,73 @@
+---
+title: "Executive Order No. 406 — Creating an Ad Hoc Custodial Committee for the Records and Property of the 1971 Constitutional Convention"
+identifier: "Executive Order No. 406"
+number: "406"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1973-02-19
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1973/eo_406_1973.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 406
+
+**Creating an Ad Hoc Custodial Committee for the Records and Property of the 1971 Constitutional Convention**
+
+**EXECUTIVE ORDER NO. 406 February 19, 1973**
+
+CREATING AN AD HOC CUSTODIAL COMMITTEE FOR THE RECORDS AND PROPERTY OF THE 1971 CONSTITUTIONAL CONVENTION
+
+WHEREAS, the President of the 1971 Constitutional Convention has created a four-member Custodial Body pursuant to Convention Resolution No. 32 approved by the Convention on November 28, 1972, which shall take charge, supervise and decide on all matters relative to the liquidation of the affairs of the Convention and the safekeeping and/or disposition of its historical records and properties in accordance with said Resolution;
+
+WHEREAS, the Custodial Body of the 1971 Constitutional Convention did not have enough time to wind up the affairs of the Convention not later than January 31, 1973, as provided in Presidential Decree No. 82 dated December 18, 1972; and
+
+WHEREAS, upon the ratification of the new Constitution of the Republic of the Philippines as announced in Proclamation No. 1102 issued on January 17, 1973, effective noon of the same date, the 1971 Constitutional Convention became functus officio, thereby necessitating the creation of an ad hoc body to take charge of the records and properties of the Constitutional Convention and the liquidation of the affairs thereof;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby create an ad hoc Custodial Committee composed of the following:
+
+Chairman GILBERTO M. DUAVIT
+
+Members:
+
+1\. Linda U. Ampatuan
+
+2\. Simplicio M. Apalisok
+
+3\. Salvador C. Balane
+
+4\. Manuel A. Concordia
+
+5\. Emilio M. de la Cruz II
+
+6\. Antonio M. de Guzman
+
+7\. Ramon C. Hortinela, Jr.
+
+8\. Jaime C. Opinion
+
+9\. Arturo F. Pacificador
+
+10\. Lininding P. Pangandaman
+
+11\. Ricardo V. Quintos
+
+12\. Valeriano C. Yancha
+
+Adviser DIOSDADO MACAPAGAL
+
+1\. The Committee shall take charge, supervise and decide on all matters relative to the liquidation of the affairs of the Constitutional Convention and the safekeeping and/or disposition of its historical records and properties.
+
+2\. The Committee may appoint its personnel, including its Secretary if necessary, and exercise such other powers as are necessary pursuant to its objectives and functions.
+
+3\. The Chairman, Members and Adviser of the Committee shall not receive salary for the performance of their duties.
+
+4\. The Committee may call upon any member of the 1971 Constitutional Convention, or any office or agency for assistance or the detail of needed personnel.
+
+5\. The Committee shall complete its work and cease to exist not later than June 30, 1973.
+
+This Order shall take effect immediately.
+
+Done in the City of Manila, this 19th day of February, in the year of Our Lord, nineteen hundred and seventy-three.

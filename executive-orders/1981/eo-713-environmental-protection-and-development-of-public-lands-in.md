@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 713 — Environmental Protection and Development of Public Lands in the Province of Bataan"
+identifier: "Executive Order No. 713"
+number: "713"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1981-07-30
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1981/eo_713_1981.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 713
+
+**Environmental Protection and Development of Public Lands in the Province of Bataan**
+
+**EXECUTIVE ORDER NO. 713 July 30, 1981**
+
+TO: The Minister of Human Settlements
+
+The Minister of Natural Resources
+
+The Executive Director, Commission on the Settlement of Land Problems
+
+The Governor of the Province of Bataan
+
+The Chief of Constabulary
+
+SUBJECT: Environmental Protection and Development of Public Lands in the Province of Bataan.
+
+In consonance with appropriate laws, decrees and orders, pertaining to the preservation of the integrity of the environment, including national parks, national shrines, forest and watershed reservations; in line with the plans and programs of the government to develop the full economic and environmental potential of the Province of Bataan; and in order to protect the various industrial, infrastructural, power, settlement, commemorative shrine, tourism, etc. complexes, areas, sites and improvements therein, all public lands, in particular national parks forest and watershed reservations and public forest lands, shall be developed and managed for the purposes they were established.
+
+All concerned are directed to cooperate in protecting and developing the aforecited public lands so that the improvement and conservation of these and surrounding areas are undertaken as an integrated and harmonious enterprise, with particular attention to the benefit of the inhabitants thereof may derive from such enterprise.
+
+In such public lands, therefore, corresponding and necessary ameliorating or improving practices, such as reforestation, shall be instituted; grass and forest fires shall be prevented; the ban on logging or the cutting of forest trees shall be implemented; and in appropriate uses of said land such as grazing, pasturing or cultivation or such destructive activities as kaingin making, which usually cause erosion, sedimentation, siltation, floods or droughts, shall be allowed. In such public lands, all illegal occupants, settlers or users, if any, shall be ejected and/or prosecuted, conformably with laws and regulations.
+
+However, in order not to unduly displace families living therein, if any, and in line with the compassionate attitude of the government, all concerned as well as their appropriate agencies are directed to formulate plans and programs that may assure productive livelihood to the same, including but not limited to the institution of integrating plans and programs for these families; Provided, That no single family shall be allowed or tolerated to continue cultivating, under the integrating plans and programs that may be devised, more than two hectares of such land; and Provided, That only those families qualified under the pertinent provisions of Presidential Decree No. 705, as amended, may be permitted to do such.
+
+Done in the City of Manila, this 30th day of July, in the year of Our Lord, nineteen hundred and eighty-one.

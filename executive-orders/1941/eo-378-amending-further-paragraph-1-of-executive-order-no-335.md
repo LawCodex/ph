@@ -1,0 +1,42 @@
+---
+title: "Executive Order No. 378 — Amending Further Paragraph (1) of Executive Order No. 335, Dated April 1, 1941, Creating a Civilian Emergency Administration"
+identifier: "Executive Order No. 378"
+number: "378"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1941-12-10
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1941/eo_378_1941.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1941/pdf/eo_378_1941.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 378
+
+**Amending Further Paragraph (1) of Executive Order No. 335, Dated April 1, 1941, Creating a Civilian Emergency Administration**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 378, December 10, 1941 ]
+
+AMENDING FURTHER PARAGRAPH (1) OF EXECUTIVE ORDER NO. 335, DATED APRIL 1, 1941, CREATING A CIVILIAN EMERGENCY ADMINISTRATION
+
+Paragraph (1) of Executive Order No. 335, dated April 1, 1941, as amended by Executive Order No. 355, dated July 2, 1941, is hereby further amended to read as follows:
+
+“1. The National Emergency Commission, composed of the Secretary of Department that the President may designate as Chairman and such members as may from time to time be appointed by the Chief Executive. This Commission shall, subject to the approval of the President, formulate and execute policies and plans for the protection and welfare of the civil population of the Philippines in extraordinary and emergency conditions. It shall have general supervision and control over the officials and organizations as authorized herein, in so far as their duties pertain to said Administration, and shall function through (1) The Manager, Philippine Red Cross; (2) a Director of Publicity and Propaganda; (3) a Food Administrator; (4) an Industrial Production Administrator; (5) a Fuel and Transportation Administrator; (6) a National Air Raid Warden; (7) a Director of Communications who shall all be ex officio members of the Commission.
+
+Done at the City of Manila, this 10th day of December, in the year of our Lord, nineteen hundred and forty-one, and of the Commonwealth of the Philippines, the seventh.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

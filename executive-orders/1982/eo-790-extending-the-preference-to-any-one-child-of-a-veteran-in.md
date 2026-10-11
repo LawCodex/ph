@@ -1,0 +1,36 @@
+---
+title: "Executive Order No. 790 — Extending the Preference to Any One Child of a Veteran in Civil Service Examinations"
+identifier: "Executive Order No. 790"
+number: "790"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1982-04-03
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1982/eo_790_1982.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 790
+
+**Extending the Preference to Any One Child of a Veteran in Civil Service Examinations**
+
+**EXECUTIVE ORDER NO. 790 April 3, 1982**
+
+EXTENDING THE PREFERENCE TO ANY ONE CHILD OF A VETERAN IN CIVIL SERVICE EXAMINATIONS
+
+WHEREAS, under Executive Order No. 132 s. of 1948, veteran preference rating in civil service examinations was granted as an act of recognition of the invaluable service of veterans to the country and conformably with the spirit of Republic Act No. 65, as amended;
+
+WHEREAS, on account of their age and/or lack of necessary qualifications many veterans failed to avail themselves of preference ratings in civil service examinations;
+
+WHEREAS, there are cases where the widow of a veteran or a wife of a disabled veteran cannot avail herself of preference rating on account of disqualification for appointment or disability;
+
+WHEREAS, the extension of this preference to any one child of a veteran may help him or her acquire a civil service eligibility that will enable him/her to join the government service;
+
+WHEREAS, under the present rules of the Civil Service such veteran preference is not extended to children of veterans;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby declare that veteran preference be extended to any one child of a veteran in civil service examinations in cases where the veteran himself or his wife failed to avail of such preference. The Civil Service Commission is hereby directed to amend its rules accordingly.
+
+Done in the City of Manila, this 3rd day of April in the year of Our Lord, nineteen hundred and eighty-two.

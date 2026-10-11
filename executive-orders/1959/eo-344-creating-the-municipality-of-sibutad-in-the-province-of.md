@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 344 — Creating the Municipality of Sibutad in the Province of Zamboanga Del Norte"
+identifier: "Executive Order No. 344"
+number: "344"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1959-07-09
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1959/eo_344_1959.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1959/pdf/eo_344_1959.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 344
+
+**Creating the Municipality of Sibutad in the Province of Zamboanga Del Norte**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 344, July 09, 1959 ]
+
+CREATING THE MUNICIPALITY OF SIBUTAD IN THE PROVINCE OF ZAMBOANGA DEL NORTE
+
+Pursuant to the provisions of section sixty-eight of the Revised Administrative Code, and upon recommendation of the Provincial Board of Zamboanga del Norte, the barrios of Sibutad, Marapong, Sipaloc, Libay, Sinipay, Canim, and Sawang and their respective sitios, all of the municipality of Dapitan, province of Zamboanga del Norte, are hereby segregated from said municipality and organized into an independent municipality to be known as the municipality of Sibutad with the seat of government at the barrio of Sibutad.
+
+The municipality of Sibutad as herein organized shall have the following boundaries:
+
+“From the point of Punta Silla in a straight line to the peak of Mt. Silla; thence in a straight line to the intersection of latitude 8° 40’; and longtitude 123° 28’; thence in a straight line to the crest of Tapie mountain; thence following the ridge of Kikit mountain range to the peak of Oyan mountain; thence due south until it intersects Dapitan River; thence following upstream the said river to the confluence of Sibutad River and Dapitan River; thence following upstream Sibutad River to the intersection of Tolon River and Sibutad River; thence following again upstream Tolon River until it intersects the municipal boundary of the municipality of Rizal; thence following the said boundary northward to Calube point; thence northwest following the shore line to the point of beginning, the point of Punta Silla. This includes the Island of Sinipay.” (This description is based on the technical description furnished by the District Engineer of Zamboanga del Norte.)
+
+The municipality of Dapitan shall have its present territory minus the portions thereof which are included in the municipality of Sibutad, as delimited above.
+
+The municipality of Sibutad shall begin to exist upon the appointment and qualification of the mayor, Vice-mayor, and a majority of the councilors thereof and upon the certification by the Secretary of Finance that said municipality is financially capable of implementing the provisions of the Minimum Wage Law and providing for all the statutory obligations and ordinary essential services of a regular municipality and that the mother municipality of Dapitan, after the segregation therefrom of the territory comprised in the municipality of Sibutad, can still maintain creditably its municipal government and provide for the essential municipal services.
+
+Done in the City of Manila, this 9th day of July, in the .year of Our Lord, nineteen hundred and fifty-nine, and of the Independence of the Philippines, the fourteenth
+
+(Sgd.) **CARLOS P. GARCIA**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JUAN C. PAJO**
+Executive Secretary

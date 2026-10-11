@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 104 — Coursing of Official Correspondence to the United States and to Foreign Countries"
+identifier: "Executive Order No. 104"
+number: "104"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1937-06-14
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1937/eo_104_1937.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1937/pdf/eo_104_1937.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 104
+
+**Coursing of Official Correspondence to the United States and to Foreign Countries**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 104, June 14, 1937 ]
+
+COURSING OF OFFICIAL CORRESPONDENCE TO THE UNITED STATES AND TO FOREIGN COUNTRIES
+
+In the interest of efficiency of service and uniformity, as well as to secure greater dispatch and to avoid confusion, **I, MANUEL L. QUEZON** , President of the Philippines, by virtue of the authority vested in me by law, do hereby order that in the future, all official communications from all bureaus, offices, agencies, and instrumentalities of the National Government, or of any provincial, municipal, or city government to the Office of the United States High Commissioner; to local offices or officers of the military and naval forces of the United States in the Philippines; to foreign consular officers or agents in the Philippines; and to persons corporations, offices, Bureaus, or departments in the United States or in foreign countries be sent to the Office of the President of the Philippines for transmittal to their destination through proper channels: _Provided,_ however, That in urgent cases where it is imperative to catch an outgoing mail steamer or mail the communication may be mailed direct and a copy thereof simultaneously sent to the Office of the President with a statement of such mailing and the date thereof.
+
+Executive Order Numbered One, series of nineteen hundred and seven, and its amendatory Executive Order Numbered Eight, series of nineteen hundred and seventeen, are hereby repealed.
+
+Done at the City of New York, U. S .A. (for the City of Manila), this fourteenth day of June, in the year Our Lord, nineteen hundred and thirty-seven, and of the Commonwealth of the Philippines, the second.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ELPIDIO QUIRINO**
+Secretary of the Interior

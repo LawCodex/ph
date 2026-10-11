@@ -1,0 +1,148 @@
+---
+title: "Executive Order No. 264 — Establishing the Information Technology and Electronic Commerce Council (ITECC) From the Merger of the National Information Technology Council (NITC) and the Electronic Commerce Promotion Council (ECPC) (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 264"
+number: "264"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2000-07-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2000/eo_264_2000.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2000/pdf/eo_264_2000.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 264
+
+**Establishing the Information Technology and Electronic Commerce Council (ITECC) From the Merger of the National Information Technology Council (NITC) and the Electronic Commerce Promotion Council (ECPC) (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 264, July 12, 2000 ]
+
+ESTABLISHING THE INFORMATION TECHNOLOGY AND ELECTRONIC COMMERCE COUNCIL (ITECC) FROM THE MERGER OF THE NATIONAL INFORMATION TECHNOLOGY COUNCIL (NITC) AND THE ELECTRONIC COMMERCE PROMOTION COUNCIL (ECPC)
+
+WHEREAS, the State recognizes the vital role of information and communication technology (ICT) in the continued revitalization of the Philippine economy, the competitiveness of local industries, and the achievement of national development goals;
+
+**WHEREAS,** electronic commerce, an ICT-driven activity, is revolutionizing global trade in both goods and services;
+
+**WHEREAS,** the purpose of the State is to provide the policy and institutional environment to ensure the long-term and dynamic use, application and exploitation of ICT in the achievement of national goals;
+
+**WHEREAS,** the State, while encouraging the widest participation from both the public and private sectors in national ICT and e-commerce initiatives, recognizes that the leadership and participation of the private sector will provide for the continuity of these initiatives;
+
+**WHEREAS,** the National Information Technology Council (NITC) created pursuant to Executive Order No. 190, dated 19 July 1994, reorganized pursuant to Executive Order No. 469, dated 23 February 1998, and revitalized pursuant to Executive Order No. 125, dated 19 July 1999, was designated as the highest planning and policy advisory body on information technology matters;
+
+**WHEREAS,** the Electronic Commerce Promotion Council (ECPC), created pursuant to Executive Order 468, dated 23 February 1998, was tasked to coordinate and enhance government and private sector partnership in the promotion and development of electronic commerce in the country;
+
+**WHEREAS,** there is an urgent need to merge the NITC and the ECPC to ensure a streamlined and focused formulation and implementation of ICT policy.
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA** , President of the Republic of the Philippines, by virtue of the power vested upon me by law, do hereby order:
+
+## Section 1
+
+Merging of the National Information Technology Council and the Electronic Commerce Promotion Council. The National Information Technology Council and the Electronic Commerce Promotion Council are hereby merged, and a new council is hereby established to be known as the Information Technology and Electronic Commerce Council (ITECC), hereinafter referred to as the Council. The Council shall be under the Office of the President.
+
+## Section 2
+
+_Functions._ ITECC shall have the following functions:
+
+a. Oversee the implementation and conduct periodic reviews and updating of the National Information Technology Action Agenda for the 21st Century (IT21), the Government Information Systems Plan (GISP), and their successor plans;
+
+b. Formulate a National Program and Strategy (NPS) for the promotion of E-Commerce in the country. The NPS for E-Commerce shall be consistent with IT21 and its successor plans;
+
+c. Advise the President and Congress on policies and plans relative to the development, promotion, and application of ICT and E-Commerce consistent with IT21 and its successor plans;
+
+d. Harmonize and coordinate all ICT and e-commerce public initiatives, programs, and projects to ensure their consistency with the goals of IT21, GISP, NPS and their successor plans;
+
+e. Promote strategic partnership and alliances among and between local and international ICT firms and institutions; R&D, educational and training institutions; and technology providers developers and manufacturers, to speed up industry growth;
+
+f. Assess, review and provide direction and support for continuing research on various relevant aspects of ICT and E-Commerce, including the assessment of the progress and problems thereof;
+
+g. Source necessary funds both from the private and public sectors to support the implementation of IT21, GISP, NPS, and their successor plans;
+
+h. Create and maintain a national database on IT as part of the national statistical system; and
+
+i. Perform such other functions as may be assigned by the President.
+
+## Section 3
+
+_Membership._ The Council shall be composed of eight (8) members from government and seven (7) members from the private sector as follows:
+
+Secretary, Department of Trade and Industry Chairman
+
+Secretary, Department of Science and Technology Co-Chair
+
+Private Sector Representative Co-Chair
+
+Secretary, Socio-Economic Planning and Director General, National Economic and Development Authority Member
+
+Secretary, Department of Transportation and Communications/National Telecommunications Commission Member
+
+Secretary, Department of Budget and Management Member
+
+Secretary, Department of Education, Culture and Sports Member
+
+Secretary, Department of the Interior and Local Government Member
+
+Managing Director, National Computer Center Member
+
+Six (6) other private sector representatives, who shall represent the academe, federations of private industries, and consumer groups directly related to ICT/e-commerce. Members
+
+Private sector representatives, including the Co-Chairperson, shall be appointed by the Council for a term not more than three (3) years each, which may be extended for another three-year period.
+
+## Section 4
+
+_Designation of Member’s Alternate._ Any member may designate a permanent alternate to the Council. Alternates of members from the government sector should have a rank not lower than an Assistant Secretary.
+
+## Section 5
+
+_Executive Committee._ An Executive Committee (ExCom) composed of three (3) members from government, specifically the Secretaries of the DTI, DOST and NEDA, or their alternates, and three (3) members from the private sector, is hereby created. The Council may authorize the ExCom to act on urgent concerns on its behalf.
+
+## Section 6
+
+_Committees/Working Groups and Expanded Private Sector Participation._ The Council may create, as may be necessary, sectoral and industry task forces, technical working groups, advisory bodies or committees, for the furtherance of its objectives. Additional private sector representatives, such as from the academe and federation of private sector representatives, such as from the academe and federation of private industries directly involved in ICT/e-Commerce, as well as other National Government Agencies (NGAs), LGUs and Government-Owned and Controlled Corporations (GOCCs), may be appointed to theses working groups. Government IT professionals shall also be tapped to participate in the work of the Council through these working groups.
+
+## Section 7
+
+_Meetings._ The Council shall meet at least once a month.
+
+## Section 8
+
+_Regular Conferences with the President._ The President shall preside over the Council at least three times a year or every fourth month.
+
+## Section 9
+
+_Secretariat._ A permanent secretariat shall be constituted to provide technical and administrative support to the Council. The secretariat shall be based at the DTI and shall be headed by an Executive Director to be appointed by the President upon the recommendation of the Council. Additional technical and administrative staff from members of the Council may also be detailed or seconded to the Secretariat as necessary.
+
+## Section 10
+
+_Role of National Government Agencies (NGAs), Local Government Units (LGUs), Government Owned and Controlled Corporations (GOCCs)._ All NGAs, LGUs and GOCCs shall actively support the Council in the discharge of its functions listed in Section 2 above.
+
+## Section 11
+
+_Funding._ To carry out the provisions of this Order, the Department of Budget and Management (DBM) shall release from the Organizational Adjustment Fund of the CY 2000 Budget P6.0 million for the Council’s July – December 2000 operational budget. The DBM shall include appropriations for the continued operations of the ITECC in the general appropriations for the continued operations of the ITECC in the general appropriations bill submitted to Congress for CY 2001 and subsequent years.
+
+## Section 12
+
+_Implementing Rules and Regulations._ The ITECC is hereby authorized to promulgate the necessary rules and regulations to implement this Executive Order. This shall include the determination and/or clarification of the functional relationship between the permanent secretariat of the Council and the National Computer Center.
+
+## Section 13
+
+_Repealing Clause._ EO No. 190 (s. 1994), EO No. 468 (s. 1998), EO No. 469 (s. 1998), and EO No. 125 (s. 1999) and all other executive issuances, rules and regulations or parts thereof that are inconsistent with the provisions of this Executive Order are hereby repealed, amended or modified accordingly.
+
+## Section 14
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+**DONE,** in the City of Manila, this 12th day of July in the year of our Lord, two thousand.
+
+(Sgd.) **JOSEPH EJERCITO ESTRADA**
+
+By the President:
+
+**RONALDO B. ZAMORA**
+Executive Secretary

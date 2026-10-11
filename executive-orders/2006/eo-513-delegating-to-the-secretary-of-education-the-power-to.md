@@ -1,0 +1,60 @@
+---
+title: "Executive Order No. 513 — Delegating to the Secretary of Education the Power to Exercise Oversight Function Over the Film Academy of Philippines and the Film Development Council of the Philippines (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 513"
+number: "513"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2006-03-10
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2006/eo_513_2006.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2006/pdf/eo_513_2006.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 513
+
+**Delegating to the Secretary of Education the Power to Exercise Oversight Function Over the Film Academy of Philippines and the Film Development Council of the Philippines (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 513
+
+DELEGATING TO THE SECRETARY OF EDUCATION THE POWER TO EXERCISE OVERSIGHT FUNCTION OVER THE FILM ACADEMY OF PHILIPPINES AND THE FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES
+
+WHEREAS, the Film Academy of the Philippines was established pursuant to Executive Order No. ("EO") 640-A, dated 05 January 1981, primarily to give due recognition, awards, distinction, appreciation and other forms of reward for significant efforts and accomplishments for the improvement and development of the motion picture art and science in the country;
+
+**WHEREAS,** the Film Development Council of the Philippines, on the other hand, was created pursuant to Republic Act No. ("RA") 9167, to establish and implement, among others, a Cinema Evaluation System in accordance with the criteria specified therein;
+
+**WHEREAS,** the Film Academy of the Philippines was placed under the now defunct Filipino Motion Picture Development Board created pursuant to EO 640-A (s. 1981), while the Film Development Council of the Philippines is placed under the Office of the President pursuant to Section 2 of RA 9167;
+
+**WHEREAS,** the Film Academy of the Philippines and the Film Development Council of the Philippines are offices subject to the executive power of the President as provided for under Section 1, Article VII of the Constitution and under Section 11, Chapter 3, Book II of Executive Order No. 292, otherwise known as the "Administrative Code of 1987?;
+
+**WHEREAS,** Section 17, Article VII of the Constitution provides that the President shall have control of all executive departments, bureaus and offices and shall ensure that all laws be faithfully executed;
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Republic of the Philippines, by virtue of the power vested in me, do hereby order:
+
+## SECTION 1
+
+_Delegation to the Secretary of Education._ The power of the President under Section 17, Article VII of the Constitution and as administrative head of the Government to exercise oversight function over the Film Academy of the Philippines and the Film Development Council of the Philippines is hereby delegated to the Secretary of Education.
+
+## SECTION 2
+
+_Repealing Clause._ All other executive issuances, rules and regulations or parts thereof which are inconsistent with the provisions of this Executive Order are hereby repealed, amended or modified accordingly.
+
+## SECTION 3
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 10th day of March in the year of Our Lord, two thousand and six.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary

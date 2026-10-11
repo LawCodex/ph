@@ -1,0 +1,232 @@
+---
+title: "Executive Order No. 851 — Reorganizing the Ministry of Health, Integrating the Components of Health Care Delivery Into Its Field Operations, and for Other Purposes"
+identifier: "Executive Order No. 851"
+number: "851"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1982-12-02
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1982/eo_851_1982.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 851
+
+**Reorganizing the Ministry of Health, Integrating the Components of Health Care Delivery Into Its Field Operations, and for Other Purposes**
+
+**EXECUTIVE ORDER NO. 851 December 2, 1982**
+
+REORGANIZING THE MINISTRY OF HEALTH, INTEGRATING THE COMPONENTS OF HEALTH CARE DELIVERY INTO ITS FIELD OPERATIONS, AND FOR OTHER PURPOSES
+
+WHEREAS, under the New Republic, national development shall be pursued with renewed dedication and greater determination through a more efficient, effective, and economical government;
+
+WHEREAS, the integration of the promotive, preventive, curative and rehabilitative components of health care delivery must be fully accomplished to ensure adequate health services for the entire population;
+
+WHEREAS, there is need to reorganize the Ministry of Health in order to accomplish this integration; and
+
+WHEREAS, under Presidential Decree No. 1416 as amended, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
+
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416 as amended, do hereby order and ordain:
+
+## Sec. 1
+
+The Ministry of Health, hereinafter referred to as the Ministry, shall be the ministry having primary responsibility for the formulation, planning implementation and coordination of policies and programs in the field of health. The primary function of the Ministry is the promotion, protection, and preservation of the health of the people, through efficient, effective, encompassing, equitable and adequate health services.
+
+The functions, authority and responsibilities of the Ministry shall be within the context of and subject to the constitutional mandate on the formulation of national guidelines and the control of the ministries by the President, the supervision of the ministries by the Prime Minister, and the responsibility to the Batasang Pambansa of the Prime Minister and the Cabinet for the general program of government.
+
+**A. ORGANIZATION OF THE MINISTRY**
+
+## Sec. 2
+
+The authority and responsibility for the exercise of the powers and the discharge of the functions of the Ministry shall be vested in the Minister of Health, hereinafter referred to as the Minister. He shall be assisted by such Deputy Ministers as may be appointed by the President. The Minister is authorized to determine and assign the respective functional areas of responsibility of the Deputy Ministers, should there be more than one: Provided, That such delineation of responsibilities shall cover the substantive functions and operations of the Ministry; and Provided further, That there shall be Deputy Minister for Administration and that the assignment of administrative responsibilities to any Deputy Minister shall be in addition to his substantive responsibilities.
+
+The Ministry shall be composed of the Ministry proper, staff and line bureaus, special projects, medical centers and special hospitals, and regional offices and their component units.
+
+## Sec. 3
+
+There is hereby created a Health Education and Manpower Development Service which shall assume the functions of the Office of Health Education and Personnel Training and those of the Medical Manpower Development Committee, both of which are hereby abolished. The new service shall also be responsible for providing the necessary staff support in the implementation of the Rural Health Practice Program. It shall absorb applicable functions, appropriations, records, equipment, property, and such personnel as may be necessary of the abolished units.
+
+## Sec. 4
+
+There is hereby created a Bureau of Food and Drugs which shall assume the functions of the Food and Drug Administration which is hereby abolished. The functions to be assumed by the Bureau shall not include those previous functions of the Narcotic Drugs Division of the Food and Drug Administration which have already been assumed by the Dangerous Drugs Board pursuant to Batas Pambansa Blg. 179.
+
+In addition to those functions transferred from the Food and Drug Administration, the Bureau shall have the authority to prescribe general standards and guidelines with respect to the veracity of nutritional and medicinal claims in the advertisement of food, drugs and cosmetics in the various media, to monitor such advertisements, and to call upon any erring manufacturer, distributor, or advertiser to desist from such inaccurate or misleading, nutritional or medicinal claims in their advertising. Should such manufacturer, distributor or advertiser refuse or fail to obey the desistance order issued by the Bureau, he shall be subject to the applicable penalties as may be prescribed by law and regulations.
+
+## Sec. 5
+
+The Bureau of Quarantine shall continue to perform its present functions, including supervision over rat proof zones in designated international ports and airports, and over medical examination of aliens for immigration purposes.
+
+The function of the Ministry regarding supervision over the sanitation of interisland vessels may be exercised by the Ministry through such of its field offices or the Bureau of Quarantine as it may indicate.
+
+## Sec. 6
+
+The staff bureaus and special projects enumerated under Section 8 hereunder may, operating through the Minister, directly exercise line functions in the National Capital Region; Provided, that written delegation of authority has been obtained from the Minister; Provided, further, that such an arrangement will be permissible only for as long as the regional office of the Ministry for the National Capital Region has not been established.
+
+## Sec. 7
+
+The Ministry proper shall be composed of the following units:
+
+(1) Office of the Minister
+
+(2) Planning Service
+
+(3) Financial and Management Service
+
+(4) Administrative Service
+
+(5) Disease Intelligence Center, which is hereby renamed Health Intelligence Service
+
+(6) Health Education and Manpower Development Service
+
+## Sec. 8
+
+The Minister shall exercise supervision and control over the following staff bureaus and special projects:
+
+(1) Bureau of Dental Health Services
+
+(2) Bureau of Foods and Drugs
+
+(3) Bureau of Health Services
+
+(4) Bureau of Medical Services
+
+(5) Bureau of Research and Laboratories
+
+(6) Dermatology Research and Training Project, which is hereby renamed Dermatology Research and Training Service
+
+(7) National Family Planning Office, which is hereby renamed Family Planning Service
+
+(8) Malaria Eradication Service
+
+(9) National Cancer Control Center, which is hereby renamed Cancer Control Center
+
+(10) National Nutrition Service, which is hereby renamed Nutrition Service
+
+(11) Radiation Health Office, which is hereby renamed Radiological Health Service
+
+(12) Schistosomiasis Control and Research Service
+
+## Sec. 9
+
+The Minster shall exercise supervision and control over the following line bureau:
+
+(1) Bureau of Quarantine
+
+## Sec. 10
+
+The Minister shall exercise supervision and control over the following medical centers, hospitals, and research institutes:
+
+(1) Jose R. Reyes Memorial Hospital, which is hereby renamed Jose R. Reyes Memorial Medical Center
+
+(2) Rizal Medical Center
+
+(3) Hospital ng Bagong Lipunan
+
+(4) Jose Fabella Memorial Hospital
+
+(5) National Children's Hospital
+
+(6) National Mental Hospital
+
+(7) National Orthopedic Hospital
+
+(8) Quirino Memorial General Hospital
+
+(9) San Lazaro Hospital
+
+(10) Research Institute for Tropical Medicine
+
+Medical centers and regional hospitals which are not listed above which are located outside of Metro Manila shall be under the supervision and control of the appropriate Regional Health Office.
+
+## Sec. 11
+
+The Minister shall exercise administrative supervision over the following entities:
+
+(1) Dangerous Drugs Board
+
+(2) Philippine Medical Care Commission
+
+(3) Schistosomiasis Control Council
+
+## Sec. 12
+
+The following corporation shall be attached to the Ministry for policy and program coordination:
+
+(1) Tondo General Hospital and Medical Center, which is hereby renamed Tondo Medical Center.
+
+**B. FIELD SERVICES OF THE MINISTRY**
+
+## Sec. 13
+
+Regional Health Offices.
+
+(1) The Ministry shall have such ministry-wide regional offices as may be necessary, under the supervision and control of the Minister, in accordance with Article I, Chapter III, Part II of the Integrated Reorganization Plan as amended. Each Regional Health Office shall be headed by a Regional Director assisted by an Assistant regional Director.
+
+The Regional Health Office shall be responsible for the field operations of the Ministry in the region and for providing the region with effective health and medical services, utilizing the Primary Health Care approach which provides that health and medical services shall be responsive to the prioritized needs of the community as expressed by its members, and which mandates community participation in the determination of its own health care requirements.
+
+The Regional Health Office shall have supervision and control over the Regional Hospital, over such medical centers as may exist in the region, and over the various provincial health offices in the region.
+
+(2) The Regional Hospital shall have as part of its integrated facilities such Regional Laboratories and Regional Mental Hospitals as may exist in the region, subject to the following provisions. The Regional Hospital shall be headed by a Chief of Regional Hospital, who shall be under the supervision and control of the Regional Director.
+
+The Regional Laboratory, formerly directly under the Regional/Health Office, shall be transferred to and made part of either the Regional Hospital or the Medical Center in the region, whichever is nearer in location, including applicable appropriations, records, equipment, property, and such personnel as may be necessary.
+
+(3) The line functions of the Family Planning Service, the Malaria Eradication Service, the Nutrition Service, and the Schistosomiasis Control and Research Service shall be integrated into the appropriate Regional Health Office, including applicable appropriations, records, equipment, property, and such personnel as may be necessary.
+
+## Sec. 14
+
+Provincial Health Offices.
+
+(1) The Provincial Health Office and the Provincial Hospital are hereby merged to constitute a new integrated Provincial Health Office. It shall be responsible for the complete integration of the promotive, preventive, curative, and rehabilitative components of health care delivery within the province, as provided by the National Government. It shall absorb the applicable functions, appropriations, records, equipment, and property of the merged units. The positions of Provincial Health Officer and Chief of the Provincial Hospital shall be merged into one position, and the staff of the new Office shall be a combination of the qualified personnel of the two merged offices. Neither the incumbent provincial health officer nor the incumbent head of the provincial hospital shall have a prior right to be appointed or assigned as head of the new integrated Provincial Health Office. The Provincial Health Office shall be under the supervision and control of the Regional Director.
+
+The Provincial Health Office shall exercise supervision and control over district hospitals and other field health units of the Ministry in the province, except those placed directly under the Office of the Minister under Section 10 hereof and the regional hospitals and medical centers under Section 13 (1) hereof. The provincial health officers and the assistant provincial health officers shall be appointed by the Minister of Health; Provided, That their assignments to particular provinces shall be made only upon consultation with the governor concerned. Their compensation shall be paid out of national funds.
+
+(2) The emergency hospitals, which shall henceforth be known as district hospitals, shall exercise supervision and control over all field health units in their respective areas as the first step in the implementation of the integrated concept of health and medical services in the province. The rural health units and specialized field health units, in addition to their present functions, shall serve as the outpatient services of the district hospitals in their respective areas. Barangay health stations shall in turn be considered as extensions of rural health units. Eventually, all personnel of field health units who are permanently assigned in the catchment areas thereof shall be absorbed by the district hospitals.
+
+(3) The functions of the Family Planning Service, the Malaria Eradication Service, the Nutrition Service, and the Schistosomiasis Control and Research Service, insofar as they pertain to field operations, shall be integrated into the Provincial Health Office within a period of two years after approval of the reorganization of the Ministry. This integration shall include applicable appropriations, records, equipment, property, and such personnel as may be necessary.
+
+## Sec. 14
+
+City Health Offices. The city health officers and the assistant city health officers shall be appointed by the Minister of Health; Provided, That their assignments to particular cities shall be made only upon consultation with the city mayor concerned. Their compensation shall be paid out of national funds.
+
+## Sec. 15
+
+Local Government Health Services. The provision by the Ministry of Health and Medical Services shall be without prejudice for any provincial or city government to establish its own health and medical services; Provided, That the Ministry shall provide the necessary technical supervision in the provision of such health and medical services by the provincial or city government.
+
+## Sec. 16
+
+The Minister shall have the authority to delegate such substantive and administrative powers and authorities as may be necessary to the heads of the Regional Health Offices, in addition to such administrative authorities as have been mandated for delegation for all Ministries by the President. The Minister shall also delegate such powers and authorities to the heads of the Provincial Health Offices and those of other subordinate units of the Regional Health Offices as in his judgment would make for a more efficient and effective administration of health and medical services.
+
+## Sec. 17
+
+The Minister is authorized to phase out the schools of nursing operated by the Ministry within a period of two years.
+
+## Sec. 18
+
+Appointments to supervisory positions in the field health services of the Ministry which are outside the scope of the Career Executive Service, such as provincial and city health officers and assistant provincial and city health officers, shall be made on a general basis. The Minister shall have the authority to indicate the specific assignments of the appointees, such as to a specific geographical area or a specific hospital facility, and to rotate or transfer them as necessary; Provided, That there shall be no diminution of their salaries as a result of such rotation or transfer.
+
+**C. MISCELLANEOUS PROVISIONS**
+
+## Sec. 19
+
+The Minister is hereby authorized to issue such orders, rules and regulations as may be necessary to implement the provisions of this Executive Order; Provided, that approval of the Office of Budget and Management is obtained relative to the new staffing pattern including appropriate salary rates, the organizational structure at divisional and lower levels, and the realignment of existing appropriations. The Minister may appoint qualified personnel to appropriate positions in the reorganized Ministry and those not so appointed are deemed laid off.
+
+## Sec. 20
+
+All those who are laid off under the provisions of this Executive Order shall be entitled to all benefits and gratuities provided under existing laws.
+
+## Sec. 21
+
+All laws, decrees, orders, proclamations, rules, regulations, or parts thereof, which are inconsistent with nay of the provisions of this Executive Order are hereby repealed or modified accordingly.
+
+## Sec. 22
+
+Any portion or provision of this Executive Order that may be declared unconstitutional shall not have the effect of nullifying the other provisions thereof; Provided, that such remaining portions can still stand and be given effect in their entirety to accomplish the objectives of this Executive Order.
+
+## Sec. 23
+
+This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 2nd day of December, in the year of Our Lord, nineteen hundred and eighty-two.

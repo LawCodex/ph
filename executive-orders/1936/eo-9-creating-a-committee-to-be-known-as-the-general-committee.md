@@ -1,0 +1,43 @@
+---
+title: "Executive Order No. 9 — Creating a Committee to Be Known as the General Committee of President Roosevelt’S Birthday Celebration"
+identifier: "Executive Order No. 9"
+number: "9"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1936-01-10
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1936/eo_9_1936.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1936/pdf/eo_9_1936.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 9
+
+**Creating a Committee to Be Known as the General Committee of President Roosevelt’S Birthday Celebration**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 9, January 10, 1936 ]
+
+**CREATING A COMMITTEE TO BE KNOWN AS THE GENERAL COMMITTEE OF PRESIDENT ROOSEVELT’S BIRTHDAY CELEBRATION**
+
+There is hereby created a committee to be known as the General Committee on President Roosevelt’s Birthday Celebration, to be composed of the following members:
+
+Honorable Juan Posadas, Chairman; Hon. Teofilo Sison; Mr. Arsenio N. Luz; Mr. Samuel Gaches; Dr. Tirso Abad; Gen. Basilio J. Valdes; Dr. Jose Fabella; Col. Paulino Santos; Father Henry C. Avery; Mrs. Jaime C. de Veyra; Miss Bessie A. Dwyer; Mrs. Pilar Hidalgo Lim; Mrs. Josefa Llanes Escoda; Judge Manuel Camus; Mr. E. S. Turner; Mr. E. E. Voss; Mrs. Asuncion A. Perez; Mrs. Geronima T. Pecson; Mrs. Josefa Jara Martinez; Miss Rosa Militar; Mr. H. M. Cavender; Mrs. J. J. Elizalde; Mr. Andres Soriano; Mr. Enrique Vasquez-Frada; Miss Guillermina Mendoza; Dr. Jorge Bocobo; Maj. J. E. H. Stevenot; Mr. Joaquin B. de Tavera; Miss Marguerite Wolfson; Miss Macaria Madrigal; Miss Maria Marta Albert; Miss Eloisa Burgos; Mr. Pedro Syquia; Mr. Alfonzo Sy Cip; Mr. Dee C. Chuan; Mr. S. Dazai; Mr. Alejandro Roces, Sr.; Mr. Roy C. Bennett; Mr. W. W. Larkin; Mr. Thomas J. Wolff; Mr. Salvador Araneta; Capt. J. V. Ogan, representing United States High Commissioner Murphy; Maj. C. H. Gerhardt, U. S. A., representing General Kilbourne; Lt. B. R. Harrison, U. S. N., representing Admiral Marquart; and Mr. Vicente Bunuan, Secretary.
+
+The Committee is created for the purpose of making arrangements for and attending to giving a ball in honor of President Roosevelt’s Birthday on January thirtieth, nineteen hundred and thirty-six, to raise funds for the promotion of research work in the control of poliomyelitis or infantile paralysis.
+
+Done at the City of Manila, this tenth day of January, in the year of Our Lord, nineteen hundred and thirty-six, and of the Commonwealth of the Philippines, the first.
+
+**MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+**TEOFILO SISON**
+Secretary of the Interior

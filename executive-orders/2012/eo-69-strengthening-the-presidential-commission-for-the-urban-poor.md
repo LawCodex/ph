@@ -1,0 +1,93 @@
+---
+title: "Executive Order No. 69 — Strengthening the Presidential Commission for the Urban Poor"
+identifier: "Executive Order No. 69"
+number: "69"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2012-03-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2012/eo_69_2012.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2012/pdf/eo_69_2012.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 69
+
+**Strengthening the Presidential Commission for the Urban Poor**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 69
+
+STRENGTHENING THE PRESIDENTIAL COMMISSION FOR THE URBAN POOR
+
+WHEREAS, Section 10, Article XIII of the 1987 Constitution provides that “Urban or rural poor dwellers shall not be evicted nor their dwellings demolished, except in accordance with law and in a just and humane manner;”
+
+**WHEREAS,** on 29 September 2011, the Commission on Human Rights (CHR) issued an “Advisory on the Right to Adequate Housing and Humane Treatment of Informal Settlers;”
+
+**WHEREAS,** Executive Order (EO) No. 82 (s. 1986), as amended, created the Presidential Commission for the Urban Poor (PCUP) under the Office of the President (OP) to coordinate the speedy implementation of government policies and programs for the urban poor;
+
+**WHEREAS,** Administrative Order (AO) No. 111 (s. 1989) directed concerned government departments, agencies and offices to coordinate with PCUP and actively participate in tri-sectoral dialogues and activities concerning the urban poor;
+
+**WHEREAS,** Republic Act (RA) No. 7279 otherwise known as the “Urban Development and Housing Act (UDHA) of 1992,” requires local government units (LGUs), in coordination with PCUP, to afford program beneficiaries an opportunity to be heard and to participate in the decision-making process over matters involving the protection and promotion of their collective interests;
+
+**WHEREAS,** Section 28 of RA No. 7279 and its implementing rules and regulations uphold the constitutionally-guaranteed rights of the homeless and underprivileged citizens;
+
+**WHEREAS,** EO No. 152 (s. 2002), as amended by EO No. 708 (s. 2008), directed PCUP to monitor all demolition and eviction activities involving the homeless and underprivileged citizens;
+
+**WHEREAS,** there is a need to strengthen the mandate of PCUP to achieve the strict observance of the law and the Ten-Point Covenant of the President with the urban poor;
+
+**WHEREAS,** EO No. 364 (s. 2004) placed PCUP under the supervision and control of the Department of Land Reform (DLR), now known as the Department of Agrarian Reform (DAR) by virtue of EO No. 456 (s. 2005). However, the concerns of the urban poor go beyond undertaking a continuing program of land reform and housing and shall therefore include the totality of all factors for decent living and support services designed to alleviate the plight of the urban poor; and
+
+**WHEREAS,** Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987 provides for the continuing authority of the President to reorganize the administrative structure of the OP.
+
+**NOW, THEREFORE, I, BENIGNO S. AQUINO III,** President of the Philippines, by virtue of the power vested in me by the Constitution and existing laws, do hereby order:
+
+## SECTION 1
+
+_Transfer of PCUP to the OP._ The PCUP shall be transferred to the OP to effectively coordinate, formulate, and evaluate policies and programs concerning the urban poor.
+
+## SECTION 2
+
+_Social Preparation Activities._ The PCUP shall undertake social preparation activities related to asset reform, human development and basic social services, employment and livelihood, and other programs of the government for the urban poor.
+
+## SECTION 3
+
+_Representation in HUDCC, Key Shelter Agencies (KSAs) and in Local Housing Boards._ The PCUP shall participate in policy discussions relating to the urban poor in board meetings of the Housing and Urban Development Coordinating Council (HUDCC), key shelter agencies (KSAs), Local Housing Boards (LHB) or other similar bodies.
+
+## SECTION 4
+
+_Institutional Arrangements and Support._ (1) The PCUP, HUDCC, Department of Social Welfare and Development (DWSD), Department of Justice (DOJ), Department of the Interior and Local Government (DILG) and the National Anti-Poverty Commission (NAPC), in coordination with the CHR, shall jointly formulate the necessary operational mechanisms and guidelines to ensure strict compliance with Section 28 of RA No. 7279, as well as the implementation of the provisions of this Order, within forty-five (45) days from the issuance hereof.
+
+(2) All other heads of departments, agencies, bureaus, and offices, including government-owned or controlled corporations, as well as local government units, civil society or people’s organizations, shall render full assistance and cooperation and provide such other information and data as may be required to carry out its functions pursuant to this Order.
+
+## SECTION 5
+
+_Submission of Periodic Reports._ The PCUP shall submit quarterly reports to the OP, relative to the status of compliance with the provisions of this Order and the pertinent provisions of the law governing eviction and demolition activities.
+
+## SECTION 6
+
+_Separability Clause._ If any provision of this EO is declared invalid or unconstitutional, the other provisions unaffected shall remain valid and subsisting.
+
+## SECTION 7
+
+_Repealing Clause._ All other executive issuances not consistent with the provisions of this order are hereby amended, modified, or repealed accordingly.
+
+## SECTION 8
+
+_Effectivlty Clause._ This EO shall take effect immediately upon its publication in a newspaper of general circulation.
+
+DONE, in the City of Manila, this 29th day of March, in the year of our Lord, Two Thousand and Twelve.
+
+(Sgd.) **BENIGNO S. AQUINO III**
+
+By the President:
+
+(Sgd.) **PAQUITO N. OCHOA, JR.**
+Executive Secretary

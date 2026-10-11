@@ -1,0 +1,49 @@
+---
+title: "Executive Order No. 23 — Providing An Award of One Hundred Thousand Pesos (P100,000.00) for the Best Method of Eradicating Rats By Means of Microorganism – Virus, Bacterium, Bacillus or Fungud – Not Dangerous to Human Beings, Animals and Plants."
+identifier: "Executive Order No. 23"
+number: "23"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1954-04-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1954/eo_23_1954.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1954/pdf/eo_23_1954.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 23
+
+**Providing An Award of One Hundred Thousand Pesos (P100,000.00) for the Best Method of Eradicating Rats By Means of Microorganism – Virus, Bacterium, Bacillus or Fungud – Not Dangerous to Human Beings, Animals and Plants.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 23, April 07, 1954 ]
+
+PROVIDING AN AWARD OF ONE HUNDRED THOUSAND PESOS (P100,000.00) FOR THE BEST METHOD OF ERADICATING RATS BY MEANS OF MICROORGANISM – VIRUS, BACTERIUM, BACILLUS OR FUNGUS – NOT DANGEROUS TO HUMAN BEINGS, ANIMALS AND PLANTS.
+
+WHEREAS, it is imperative that immediate steps be taken towards the protection of the life and health of the people and of the country’s agricultural crops and valuable plants from the scourge of animal pests that are a menace to society and a blight to the national economy; and
+
+**WHEREAS,** to give added impetus to the realization of this objective, it is advisable to enlist the support end assistance of every resident of this country by offering the best incentive designed to encourage and inspire his creative effort in this direction;
+
+**NOW, THEREFORE, I, RAMON MAGSAYSAY** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+1\. The sum of ₱100,000.00 is authorized to be paid out of any existing appropriations for the Executive Office that may be lawfully used for the purpose, as prize or award to any person who can discover any microorganism – virus, bacterium, bacillus or fungus – capable of killing outright and exterminating rats that spread disease or destroy agricultural crops, products, foods, clothing and plants essential to the national economy and useful to the life, health and well-being of the people.
+
+2\. The rat-killing microorganism, such as virus, bacterium, bacillus or fungus for which the prize should be awarded, shall not be dangerous or harmful to human beings, to livestock, to other valuable animals and plants.
+
+3\. A Committee is hereby created called Committee on the Rat Control Award, composed of the Secretary of Agriculture and Natural Resources, as Chairman, and the Secretary of Health and the Social Welfare Administrator, as members. This Committee is authorized to create a Beard of Judges composed of seven (7) competent scientists who will help the Committee determine and select the winner of the ₱100,000.00 herein authorized to be awarded. The Committee is also authorized to promulgate rules and regulations governing such award and to call upon any department, bureau, office, agency or instrumentality of the Government, including the government-owned or controlled corporations, for such assistance as it may require in determining and selecting the winner of the award in accordance with the provisions of this Order.
+
+Done in the City of Manila, this 7th day of April, in the year of Our Lord, nineteen hundred and fifty-four, and of the Independence of the Philippines, the eighth.
+
+(Sgd.) **RAMON MAGSAYSAY**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **FRED RUIZ CASTRO**
+Executive Secretary

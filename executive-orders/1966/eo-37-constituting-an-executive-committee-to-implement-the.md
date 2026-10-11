@@ -1,0 +1,56 @@
+---
+title: "Executive Order No. 37 — Constituting An Executive Committee to Implement the Provisions of Executive Order No. 180 Dated May 10, 1956, Re: Acquisition of Titles to Farm Lots Within the Mount Data National Park Reservation"
+identifier: "Executive Order No. 37"
+number: "37"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1966-08-01
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1966/eo_37_1966.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1966/pdf/eo_37_1966.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 37
+
+**Constituting An Executive Committee to Implement the Provisions of Executive Order No. 180 Dated May 10, 1956, Re: Acquisition of Titles to Farm Lots Within the Mount Data National Park Reservation**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 37, August 01, 1966 ]
+
+CONSTITUTING AN EXECUTIVE COMMITTEE TO IMPLEMENT THE PROVISIONS OF EXECUTIVE ORDER NO. 180 DATED MAY 10, 1956, RE: ACQUISITION OF TITLES TO FARM LOTS WITHIN THE MOUNT DATA NATIONAL PARK RESERVATION
+
+By virtue of the powers vested in me by law, **I, FERDINAND E. MARCOS** , President of the Philippines, do hereby create an Executive Committee composed of the following:
+
+| The Chairman, Mt. Province Development Authority | Chairman |
+|---|---|
+| The Director of Lands or his representative | Member |
+| The Director of Forestry or his representative | Member |
+| The Director of Soils or his representative | Member |
+| The Chairman, Anti-Dummy Board or his representative | Member |
+| The Director of Parks and Wildlife or his representative | Member |
+| The Commissioner of Internal Revenue or his representative | Member |
+| The Provincial Fiscal of Mountain Province | Member |
+| The PC Provincial Commander, Mountain Province | Member |
+
+which shall implement the provisions of Executive Order No. 180 dated May 10, 1956, including the determination of tracts which may be segregated from the Mt. Data National Park Reservation and the Central Cordillera Forest Reserve, the screening of applicants and the prosecution of violations of the Public Land Act, the Anti-Dummy Act and Internal Revenue Laws arising from the occupation and/or operation of farm lands within the aforesaid reservations.
+
+The Committee shall submit its report to the President on the initial implementation of the order within one month from the date hereof, together with a draft of proclamation segregating the tract or tracts from the two reservations.
+
+Sections 3 and 6 of Executive Order No. 180 dated May 10, 1956, are hereby amended accordingly.
+
+Done in the City of Manila, this 1st day of August, in the year of Our Lord, nineteen hundred and sixty-six.
+
+(SGD.) **FERDINAND E. MARCOS**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RAFAEL M. SALAS**
+Executive Secretary

@@ -1,0 +1,77 @@
+---
+title: "Executive Order No. 87 — Facilitating the importation of sugar (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 87"
+number: "87"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1999-04-01
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1999/eo_87_1999.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1999/pdf/eo_87_1999.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 87
+
+**Facilitating the importation of sugar (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 87, April 01, 1999 ]
+
+FACILITATING THE IMPORTATION OF SUGAR
+
+WHEREAS, the Administration, in line with its thrust to promote the interest of the poor, aims to ensure adequate food supply at prices affordable to the ordinary Filipino;
+
+**WHEREAS,** for the year 1999, there is an estimated shortage of some 500,000 metric tons (MT) of sugar due to the effects of the El Niño and La Niña phenomena;
+
+**WHEREAS,** to augment the 1999 Minimum Access Volume of 48,393 MT of sugar, there is need to immediately undertake additional importation to address the projected shortfall in supply and to ensure the stable price of sugar in the domestic market;
+
+**WHEREAS,** there is a pressing need to enhance the productivity and efficiency of the sugar industry, and of the whole agricultural sector to enable them to compete in the increasingly competitive global market;
+
+**WHEREAS,** the Bureau of Treasury has not been able to fully remit to the Agricultural Competitiveness Enhancement Fund (ACEF) the proceeds from the importation of the Minimum Access Volume (MAV) of agricultural products as mandated under the Agricultural Tariffication Act (RA 8178);
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:
+
+## Section 1
+
+_Importation of Sugar._ The government shall hereby facilitate the importation of sugar through the private sector. Moreover, the government shall facilitate the in-quota importation of 48,393 MT of sugar, through the NFA, under the 1999 MAV.
+
+The government shall also facilitate the conversion of sugar from “C” (reserve sugar) to “B” (domestic sugar).
+
+## Section 2
+
+_Committee on Sugar Conversion/Auction._ There is hereby created a Committee on Sugar Conversion/Auction which shall be headed by the DA, with the following as members: NEDA, DTI, DOF, SRA, and a representative each from the sugar planters’ group and the sugar millers’ group. The Committee is hereby authorized to determine the parameters and procedures on the importation of sugar by the private sector, and the collection and remittance of the fee for the conversion of sugar from “C” to “B”.
+
+## Section 3
+
+_Conduct of Auction for Sugar Conversion._ The conversion of “C” sugar to “B” sugar shall be done through an auction and shall be subject to the collection of a fee to be called the “Conversion Fee”.
+
+The “Conversion Fee” shall be remitted to the Bureau of Treasury and may be used to pay the arrears of government in the Agricultural Competitiveness Enhancement Fund.
+
+## Section 4
+
+_Reclassification of Sugar._ Pursuant to the parameters and procedures prepared by the Committee, the SRA shall implement the reclassification of sugar from “C” to “B”, and undertake the remittance of the Conversion Fee to the Bureau of Treasury.
+
+## Section 5
+
+_Reporting._ The SRA shall monitor the domestic sugar situation and shall submit through the Department of Agriculture, bi-monthly reports to the President on the matter.
+
+## Section 6
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, Philippines, this 1st day of April, in the year of our Lord, Nineteen Hundred and Ninety-Nine.
+
+(SGD.) **JOSEPH EJERCITO ESTRADA**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RONALDO B. ZAMORA**
+Executive Secretary

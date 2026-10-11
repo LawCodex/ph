@@ -1,0 +1,53 @@
+---
+title: "Executive Order No. 317 — Organizing the Department of Health and Public Welfare"
+identifier: "Executive Order No. 317"
+number: "317"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1941-01-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1941/eo_317_1941.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1941/pdf/eo_317_1941.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 317
+
+**Organizing the Department of Health and Public Welfare**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 317, January 07, 1941 ]
+
+ORGANIZING THE DEPARTMENT OF HEALTH AND PUBLIC WELFARE
+
+Pursuant to the provisions of Commonwealth Act No. 430, and by virtue of the powers conferred upon me by said Act, **I, MANUEL L. QUEZON** , President of the Philippines, do hereby authorize and direct the organization of the Department of Health and Public Welfare effective January 1, 1941.
+
+The Department of Health and Public Welfare shall be charged with the protection of the health of the people the maintenance of sanitary conditions, and the proper enforcement of the laws and regulations relative to health, sanitation, food, drugs and narcotics, slum housing, garbage disposal relief, and other social services, and for these purposes, it shall exercise executive supervision over the Bureau of Health; the Bureau of Public Welfare; the Bureau of Quarantine Service; the Board of Medical Examiners; the Board of Dental Examiners; the Board of Optical Examiners; the Board of Examiners for Nurses; the health departments of chartered cities; the provincial, city and municipal hospitals, dispensaries and clinics; the public markets and slaughterhouses; health resorts and establishments; and all charitable and relief agencies, including institutions for the care of the aged and/or infirm and of dependent, defective and/or delinquent children, supported, whether wholly or partially, by the Government or any of its branches or instrumentalities.
+
+The activities, functions, and duties of the Secretary of Public Instruction in connection with sanitation and health matters, whether imposed by law, executive order, or regulation, are hereby transferred to, and shall hereafter be performed by, the Secretary of Health and Public Welfare.
+
+The transfer to the Department of Health and Public Welfare of the bureaus, offices and services enumerated in the second paragraph hereof shall take effect as of January 1, 1941, or as soon thereafter as practicable, but not later than January 31, 1941.
+
+The necessary fund for the organization and establishment of the Office of the Secretary of Health and Public Welfare and for its maintenance until the next fiscal year shall be taken from the forced savings in salaries and wages and sundry expenses of the Bureaus and Offices of the Department of Public Instruction and shall be expended in accordance with a budget to be approved by the President.
+
+The unexpended balances of funds or appropriations and the personnel, equipment, materials, records and other properties pertaining to the bureaus, offices and services enumerated in the second paragraph are hereby transferred to the Department of Health and Public Welfare.
+
+The Auditor General and the Commissioner of the Budget shall make the necessary adjustments of the appropriations affected thereby.
+
+Upon the organization of the Department of Health and Public Welfare, the Office of the Commissioner of Health and Welfare, and the Council of Hygiene shall be abolished and their functions and duties transferred to said Department.
+
+Done at the City of Manila, this seventh day of January, in the year of Our Lord, nineteen hundred and forty-one and of the Commonwealth of the Philippines, the sixth.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JORGE B. VARGAS**
+Secretary to the President

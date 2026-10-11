@@ -1,0 +1,58 @@
+---
+title: "Executive Order No. 200 — Adjusting the Dividend Rate of the Development Bank of the Philippines (Dbp) on Its 2001 and 2002 Net Earnings Pursuant to Section 5 of Republic Act No. 7656 (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 200"
+number: "200"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2003-04-21
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2003/eo_200_2003.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2003/pdf/eo_200_2003.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 200
+
+**Adjusting the Dividend Rate of the Development Bank of the Philippines (Dbp) on Its 2001 and 2002 Net Earnings Pursuant to Section 5 of Republic Act No. 7656 (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 200, April 21, 2003 ]
+
+ADJUSTING THE DIVIDEND RATE OF THE DEVELOPMENT BANK OF THE PHILIPPINES (DBP) ON ITS 2001 AND 2002 NET EARNINGS PURSUANT TO SECTION 5 OF REPUBLIC ACT NO. 7656
+
+WHEREAS, under Section 1 of Republic Act No. 7656, it is the declared policy of the state that in order for the National Government to realize additional revenues, government owned and/or controlled corporations, without impairing their viability and the purposes for which they have been established, shall share a substantial amount of their net earnings to the National Government;
+
+**WHEREAS,** Section 5 of Republic Act No. 7656 provides that "in the interest of national economy and general welfare, the percentage of annual net earnings that shall be declared by a government owned and/or controlled corporation may be adjusted by the President of the Philippines upon recommendation by the Secretary of Finance";
+
+**WHEREAS,** to support the viability and mandate of the Development Bank of the Philippines, their liquidity, capital position, retained earnings and medium term plans and programs were considered in the determination of the reasonable dividend rate on its 2001 and 2002 net earnings; and
+
+**WHEREAS,** pursuant to Section 5 of RA 7656, the Secretary of Finance recommended the adjustment on the percentage of dividend rate for 2001 and 2002 net earnings that shall be declared by DBP to the National Government, in the interest of national economy and general welfare.
+
+**NOW, THEREFORE I, GLORIA MACAPAGAL-ARROYO** , President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+The percentage of dividends for year 2001 to be remitted by DBP to the National Government is adjusted to at least seven hundred fifty five million pesos (P755 M) or equivalent to 25% net earnings.
+
+## Section 2
+
+The percentage of dividends for year 2002 to be remitted by DBP to the National Government is adjusted to at least one billion pesos (P1 B) or equivalent to 23% of its 2002 net earnings.
+
+## Section 3
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 21ST day of April, in the year of our Lord, two thousand and three.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+
+By the President:
+
+(Sgd.) **ALBERTO G. ROMULO**
+Executive Secretary

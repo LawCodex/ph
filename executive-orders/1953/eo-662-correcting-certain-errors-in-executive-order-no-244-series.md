@@ -1,0 +1,49 @@
+---
+title: "Executive Order No. 662 — Correcting Certain Errors in Executive Order No. 244, Series of Nineteen Hundred Forty-Nine, Creating the Municipalities of Mobo, Baleno, Cawayan, Mandaon, Balud and Uson, in the Province of Masbate."
+identifier: "Executive Order No. 662"
+number: "662"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1953-12-23
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1953/eo_662_1953.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1953/pdf/eo_662_1953.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 662
+
+**Correcting Certain Errors in Executive Order No. 244, Series of Nineteen Hundred Forty-Nine, Creating the Municipalities of Mobo, Baleno, Cawayan, Mandaon, Balud and Uson, in the Province of Masbate.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 662, December 23, 1953 ]
+
+CORRECTING CERTAIN ERRORS IN EXECUTIVE ORDER NO. 244, SERIES OF NINETEEN HUNDRED FORTY-NINE, CREATING THE MUNICIPALITIES OF MOBO, BALENO, CAWAYAN, MANDAON, BALUD AND USON, IN THE PROVINCE OF MASBATE
+
+WHEREAS, it now appears that some errors were made in the specification of the barrios and sitios which should compose the municipalities of Cawayan anMandao as organized in Executive Order no. 244, series of 1949;
+
+**WHEREAS,** the Provincial Board of Masbate under its Resolution No. 169, series of 1949, recognizing such errors, has proposed the necessary correction by (a) striking out from said executive order the words “Nauco-Dacu” and “Manco-Diot” and inserting instead the words “Nauco-Dacu” and “Naro-Diot”, (b) taking away the barrio of Bara from the list of barrios of the municipality of Cawayan, so that the same shall remain in the municipality of Milagros in accordance with the original intention and (c) including the barrio of Cabitan in the list of barrios to compose the municipality of Mandaon, instead of allowing said barrio to remain under the municipality of Milagros and
+
+**WHEREAS,** a reference to the map reveals that “Nauco-Dacu” and “Naro-Diot” are much nearer to the poblacion of the municipality of Cawayan than to that of Milagros, that the barrio of Bara besides being nearer to the poblacion of the municipality of Milagros is more geographically a part of that municipality being on the Milagros side of the big river named Malbug forming the natural geographical boundary between the said municipality and the municipality of Cawayan, and that the barrio of Cabitan is only seven kilometers more or less from the poblacion fo Mandaon as against approximately twenty-four kilometers from the poblacion of Milagros;
+
+**NOW, THEREFORE,** in order to correct the errors just referred to, Executive Order No. 244, series of 1949 is hereby amended so that the second paragraph thereof shall read as follows:
+
+“The municipalities of Uson, Mobo and Balud, as herein organized, shall consist of the respective territories which the former municipalities of Uson, Mobo and Balud had at the time of their annexation to the municipalities of Dimasalang, Masbate and Milagros. The municipality of Baleno, as herein organized, shall consist of the territory which the former municipality of Baleno had at the time of its annexation to the municipality of Aroroy, plus the barrio of Magdalena of the municipality of Masbate. The municipality of Cawayan as herein constituted shall consist of the barrios and sitios of Naro-Dacu, Naro-Diot, Cobre, Piña, Guinlobngan, Gilotoñgan, Namatyan, Guiloñangan, Vegia, Bitlig, Recodo, Guiom, Campato, Lubigan, Cabayogan, Dalepi, Celodoño, Malbug, Bara, Naboyanan, Taberna, Mactan, Lagui-lagui, Nabayawan, Villahermosa, Polot, Bebejan, Calumpang, Palobandera, Cabug, Salvador, Matagbac, Cokok, Mahayahay, Panorama, Benteriales, Isok-dorang, Maihaw, Madbad, Tagaytay, Itombato, Segundo, Pin-as, Nabogtoan, Divisoria, Bongabon and Tobog, all in the municipality of Milagros. The municipality of Mandaon shall consist of the barrios and sitios of Mandaon, Nailaban, Maolingon, Tumalaytay, Bugtong, Alas, Tagpu, Nanipsan, Ayat, Gapus, Canomoy, Buri, Lo-oc, Cagmasoso and Palo Dacu, all in the municipality of Milagros.
+
+The amendment herein made shall take effect as of the dates Cawayan and Mandaon began to exist as independent municipalities.
+
+Done in the City of Manila, this 23rd day of December, in the year of Our Lord, nineteen hundred and fifty-three, and of the Independence of the Philippines, the eighth.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **MARCIANO ROQUE**
+Acting Executive Secretary

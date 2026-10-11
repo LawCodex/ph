@@ -1,0 +1,47 @@
+---
+title: "Executive Order No. 376 — Authorizing the Department of Social Welfare and Development to establish, manage and operate a skills training center for disabled and street children at the Elsie Gaches Village"
+identifier: "Executive Order No. 376"
+number: "376"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1996-10-29
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1996/eo_376_1996.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1996/pdf/eo_376_1996.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 376
+
+**Authorizing the Department of Social Welfare and Development to establish, manage and operate a skills training center for disabled and street children at the Elsie Gaches Village**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 376, October 29, 1996 ]
+
+AUTHORIZING THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT TO ESTABLISH, MANAGE AND OPERATE A SKILLS TRAINING CENTER FOR DISABLED AND STREET CHILDREN AT THE ELSIE GACHES VILLAGE
+
+WHEREAS, a parcel of land identified as Lot No. 1996 of the Muntinlupa Estate Subdivision, situated in Barrio Muntinlupa, Rizal (now Muntinlupa City), consisting of sixteen (16) hectares, more or less, together with all the buildings and improvements thereon, was donated by Mr. Samuel F. Gaches to the Commonwealth of the Philippines (Republic of the Philippines) on 19 December 1940;
+
+**WHEREAS,** the aforesaid Deed of Donation was executed subject to the conditions that the above described property shall be “FOR EXCLUSIVE BENEFIT OF THE COMMONWEALTH OF THE PHILIPPINES (REPUBLIC OF THE PHILIPPINES) TO BE USED AS HOSPITAL SITE FOR CRIPPLED CHILDREN, AND A HOME FOR THE POOR IN THEIR OLD AGE, OR FOR ANY OTHER PURPOSES OF THE SAME NATURE AS THE PRESIDENT OF THE PHILIPPINES MAY DETERMINE;”
+
+**WHEREAS,** it is the policy of the state to promote the well-being and total development of children and the youth, to protect them from exploitation, abuse, improper influence, hazards and other circumstances prejudicial to their physical, mental, emotional, social and moral development;
+
+**WHEREAS,** Republic Act No. 7610, otherwise known as the Special Protection of Children Against Child Abuse, Exploitation and Discrimination, was approved on 17 June 1992, which provides, among others, that the State shall protect and rehabilitate children gravely threatened or endangered by circumstances which will affect their survival and normal development and over which they have no control.
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS,** President of the Philippines, by virtue of the powers vested in me by law, do hereby authorize the Department of Social Welfare and Development to establish, manage and operate a Skills Training Center for the Street Children and Disabled Children, with the participation and involvement of Non-Governmental Organizations (NGOs) at the Elsie Gaches Village.
+
+Done in the City of Manila, this 29th day of October, in the year of Our Lord, nineteen hundred and ninety six.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **RUBEN D. TORRES**
+Executive Secretary

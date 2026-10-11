@@ -1,0 +1,64 @@
+---
+title: "Executive Order No. 27 — Reduction and condonation of real property taxes and interest/penalties assessed on the power generation facilities of independent power producers under build-operate-transfer contracts with government-owned or controlled corporations in the Province of Quezon"
+identifier: "Executive Order No. 27"
+number: "27"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2011-02-28
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2011/eo_27_2011.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2011/pdf/eo_27_2011.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 27
+
+**Reduction and condonation of real property taxes and interest/penalties assessed on the power generation facilities of independent power producers under build-operate-transfer contracts with government-owned or controlled corporations in the Province of Quezon**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER NO. 27
+
+REDUCTION AND CONDONATION OF REAL PROPERTY TAXES AND INTEREST/PENALTIES ASSESSED ON THE POWER GENERATION FACILITIES OF INDEPENDENT POWER PRODUCERS UNDER BUILD-OPERATE-TRANSFER CONTRACTS WITH GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS IN THE PROVINCE OF QUEZON
+
+WHEREAS, under Republic Act No. 7160 (“Local Government Code of 1991”), government-owned or controlled corporations (“GOCCs”) engaged in the generation and transmission of electricity enjoy a number of exemptions/privileges with respect to real property taxes, including an assessment level of 10% on all its lands, buildings, machineries and other improvements (Sections 216 and 218), as well as an exemption for all machinery and equipment that are actually, directly and exclusively used in the generation and transmission of electric power and machinery and equipment used for pollution control and environmental protection (Section 234);
+
+**WHEREAS,** the Province of Quezon has taken the position that Independent Power Producers (“IPPs”) in its territory which are not GOCCs are not entitled to the exemptions/privileges of GOCCs with respect to real property taxes on their property, machinery and equipment used in the generation and distribution of electric power, and is now poised to enforce collection of the real estate taxes from the IPPs located in the Province;
+
+**WHEREAS,** the payment of said real estate taxes by the affected IPPs, the obligation to pay some of which have been contractually assumed by the GOCCs and/or the National Government, threatens the financial stability of the GOCCs, the government’s fiscal consolidation efforts, and the stability of energy prices;
+
+**WHEREAS,** the forcible collection of the subject real property taxes by the local government units (“LGUs”) concerned will trigger massive direct liabilities on the part of NPC/PSALM, increase the cost of electricity, and may trigger further cross-defaults, and colossal economic losses across all sectors;
+
+**WHEREAS,** under Section 277 of Republic Act No. 7160, “the President of the Philippines may, when public interest so requires, condone or reduce the real property tax and interest for any year in any province or city or a municipality within the Metropolitan Manila Area.”
+
+**NOW, THEREFORE, I, BENIGNO S. AQUINO III,** President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## SECTION 1
+
+__All liabilities for real property tax on property, machinery and equipment (including any special levies accruing to the Special Education Fund) actually and directly used by IPPs for the production of electricity under Build-Operate-Transfer Contracts (whether denominated Power Purchase Agreements, Energy Conversion Agreements or other contractual agreements) with GOCCs, particularly the NPC and PSALM, assessed by the Province of Quezon for all years up to 2011, are hereby reduced to an amount equivalent to the tax due if computed based on an assessment level of fifteen percent (15%) of the fair market value of said property, machinery and equipment depreciated at the rate of two percent (2%) per annum, less any amounts already paid by the IPPs. All fines, penalties and interest on such deficiency real property tax liabilities are also hereby condoned and the concerned IPPs are relieved from payment thereof.
+
+## SECTION 2
+
+__All concerned departments, agencies and instrumentalities of the government, including GOCCs and LGUs, are hereby ordered to strictly comply with this Executive Order.
+
+## SECTION 3
+
+__All other rules, regulations and issuances or parts thereof which are inconsistent with this Executive Order are hereby repealed or modified accordingly.
+
+## SECTION 4
+
+__This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 28th day of February, in the year of our Lord, Two Thousand Eleven.
+
+(Sgd.) **BENIGNO S. AQUINO III**
+
+By the President:
+
+(Sgd.) **PAQUITO N. OCHOA, JR.**
+Executive Secretary

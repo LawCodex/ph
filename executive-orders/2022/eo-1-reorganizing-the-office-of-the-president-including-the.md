@@ -1,0 +1,98 @@
+---
+title: "Executive Order No. 1 — Reorganizing the Office of the President Including the Immediate Offices and Agencies Under or Attached to It, and the Common Staff Support System; Abolishing the Presidential Anti Corruption Commission and the Office of the Cabinet Secretary (Ferdinand Marcos, Jr. Bongbong)"
+identifier: "Executive Order No. 1"
+number: "1"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2022-06-30
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2022/eo_1_2022.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2022/pdf/eo_1_2022.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 1
+
+**Reorganizing the Office of the President Including the Immediate Offices and Agencies Under or Attached to It, and the Common Staff Support System; Abolishing the Presidential Anti Corruption Commission and the Office of the Cabinet Secretary (Ferdinand Marcos, Jr. Bongbong)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 1, June 30, 2022 ]
+
+REORGANIZING THE OFFICE OF THE PRESIDENT INCLUDING THE IMMEDIATE OFFICES AND AGENCIES UNDER OR ATTACHED TO IT, AND THE COMMON STAFF SUPPORT SYSTEM; ABOLISHING THE PRESIDENTIAL ANTI-CORRUPTION COMMISSION AND THE OFFICE OF THE CABINET SECRETARY
+
+WHEREAS, in the face of current health and fiscal crises, the Administration endeavors to achieve a comprehensive and meaningful recovery through a just allocation of resources and a simplified internal management and governance of the Office of the President and its immediate offices and common staff support system;
+
+**WHEREAS,** in order to achieve simplicity, economy and efficiency in the bureaucracy without effecting disruptions in internal management and general governance, the Administration shall streamline official processes and procedures by reorganizing the Office of the President proper and the various attached agencies and offices, by abolishing duplicated and overlapping official functions.
+
+**WHEREAS,** Article VII, Section 17 of the 1987 Constitution provides that the President shall have control of all the executive departments, bureaus and offices;
+
+**WHEREAS,** Section 31, Chapter 1o. Title III, Book III of Executive Order No. 292, or the Administrative Code of 1987, provides for the continuing authority of the President to reorganize the administrative structure of the Office of the President;
+
+**WHEREAS,** Presidential Decree No. 1416, Granting Continuing Authority to the President of the Philippines to Reorganize the National Government, as amended by Presidential Decree No. 1772, provides that the President of the Philippines shall have continuing authority to reorganize the administrative structure of the National Government and may, at his discretion, create, abolish, group, consolidate, merge or integrate entities, agencies, instrumentalities and units of the National Government, as well as expand, amend, change or otherwise modify their powers, functions and authorities;
+
+**WHEREAS,** Executive Order No. 43 series of 2017, creating the Presidential Anti-Corruption Commission, as amended by Executive Order No. 73 series of 2018, is exercising jurisdiction, powers and functions present in the inherent power of the President to discipline and remove public officials and employees, except those who are not otherwise subject to his disciplinary authority;
+
+**NOW, THEREFORE, I, FERDINAND R. MARCOS, JR.** , President of the Republic of the Philippines, by virtue of the powers vested in me by the law, do hereby order:
+
+## Section 1
+
+_Abolition of the Presidential Anti-Corruption Commission._ \- The Presidential Anti-Corruption Commission is hereby abolished and its jurisdiction, powers and functions shall be transferred to the Office of the Deputy Executive Secretary for Legal Affairs.
+
+The Deputy Executive Secretary for Legal Affairs shall make recommendations on matters requiring its action, to the Executive Secretary for approval, adoption or modification by the President.
+
+The Deputy Executive Secretary for Legal Affairs shall promulgate rules of procedure in administrative cases under its jurisdiction; Provided that the existing rules of procedure in administrative cases promulgated by the Presidential Anti-Corruption Commission shall remain in force, unless otherwise repealed or amended.
+
+## Section 2
+
+_Winding Up of Operations and Disposition of the Functions, Positions, Personnel, Assets and Liabilities of Presidential Anti-Corruption Commission._ \- The winding up of the operations and disposition of the functions, positions, personnel, assets and liabilities of the Presidential Anti-Corruption Commission shall be administered by the Executive Secretary.
+
+## Section 3
+
+Abolition of the Office of the Cabinet Secretary. - The Office of the Cabinet Secretary is hereby abolished. The existing Cabinet Secretariat shall be placed under the direct control and supervision of the Presidential Management Staff.
+
+The Cabinet Secretariat, in coordination with the Executive Secretary, shall assist the President in the establishment of agenda topics for Cabinet deliberations, or facilitate the discussion of cabinet meetings.
+
+## Section 4
+
+_Personnel Affected by the Abolition of the Presidential Anti-Corruption Commission and the Office of the Cabinet Secretary._ \- All personnel affected by the abolition of the Presidential Anti-Corruption Commission and the Office of the Cabinet Secretary may be allowed to avail of the benefits provided under existing laws, if applicable. The Department of Budget and Management is hereby ordered to release the corresponding fund as may be warranted, subject to existing civil service, budgeting, accounting and auditing laws and rules.
+
+## Section 5
+
+_Authority of the Executive Secretary over the attached agencies or offices and those under the Office of the President._ \- The Executive Secretary shall exercise supervision, control, and oversight functions, as the case may be, over all agencies and offices under and attached to the Office of the President.
+
+## Section 6
+
+_Common Staff Support System._ \- The Office of the Special Assistant to the President, the Presidential Advisers and Assistants, and the Presidential Management Staff shall coordinate with the Executive Secretary in providing staff support to the President.
+
+The Office of the Special Assistant to the President and the Presidential Management Staff shall provide support and assistance to the Executive Secretary in the overall management of the development process.
+
+## Section 7
+
+_The Presidential Adviser on Military and Police Affairs._ \- There shall be an Office of the Presidential Adviser on Military and Police Affairs which shall be under the administration of the Office of the Special Assistant to the President.
+
+## Section 8
+
+_Modification/Repealing Clause._ All Presidential proclamations, orders, instructions, rules and regulations, and other enactments or parts thereof which are in conflict with the provisions of this Executive Order are hereby modified or revoked;
+
+## Section 9
+
+_Separability Clause._ In the event that any provision of this Executive Order is held invalid or unconstitutional, the provisions not affected thereby shall remain in full force and effect.
+
+## Section 10
+
+_Effectivity._ This Order shall take effect immediately upon publication in the one (1) newspaper of general circulation.
+
+Done in the City of Manila, this 30th day of June, in the year of Our Lord, Two Thousand and Twenty Two.
+
+(SGD.) **FERDINAND R. MARCOS, JR.**
+
+By the President:
+
+(SGD.) **VICTOR D. RODRIGUEZ**
+Executive Secretary

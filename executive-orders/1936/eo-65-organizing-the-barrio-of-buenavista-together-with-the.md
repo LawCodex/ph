@@ -1,0 +1,43 @@
+---
+title: "Executive Order No. 65 — Organizing the Barrio of Buenavista, Together With the Sitios Belonging to the Said Barrio, Municipality of Butuan, Agusan, Into An Independent Municipality, Under the Name of Buenavista, With the Seat of Government in the Barrio of Buenavista"
+identifier: "Executive Order No. 65"
+number: "65"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1936-11-19
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1936/eo_65_1936.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1936/pdf/eo_65_1936.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 65
+
+**Organizing the Barrio of Buenavista, Together With the Sitios Belonging to the Said Barrio, Municipality of Butuan, Agusan, Into An Independent Municipality, Under the Name of Buenavista, With the Seat of Government in the Barrio of Buenavista**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 65, November 19, 1936 ]
+
+**ORGANIZING THE BARRIO OF BUENAVISTA, TOGETHER WITH THE SITIOS BELONGING TO THE SAID BARRIO, MUNICIPALITY OF BUTUAN, AGUSAN, INTO AN INDEPENDENT MUNICIPALITY, UNDER THE NAME OF BUENAVISTA, WITH THE SEAT OF GOVERNMENT IN THE BARRIO OF BUENAVISTA**
+
+Upon the recommendation of Honorable Apolonio D. Curato, Assemblyman for Agusan, and the Honorable, the Secretary of the Interior, and pursuant to the provisions of section sixty-eight of the Revised Administrative Code, the five municipalities of the Province of Agusan are hereby increased to six by separating the barrio of Buenavista, together with the sitios belonging to the said barrio from the present municipality of Butuan, and organizing the same into an independent municipality, under the name of Buenavista, with the seat of government at the barrio of Buenavista.
+
+The municipality of Butuan shall consist of its present territory less the territory comprised in the barrio of Buenavista, together with the sitios belonging to the said barrio. The new municipality shall consist of the territory comprised in the barrio of Buenavista, together with the sitios belonging to the said barrio.
+
+The organization herein made shall take effect on January first, nineteen hundred and thirty-seven.
+
+Done at the City of Manila, this nineteenth day of November, in the year of Our Lord, nineteen hundred and thirty-six, and of the Commonwealth of the Philippines, the second.
+
+**MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+**ELPIDIO QUIRINO**
+Secretary of the Interior

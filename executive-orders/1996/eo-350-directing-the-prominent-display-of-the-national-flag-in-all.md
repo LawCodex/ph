@@ -1,0 +1,44 @@
+---
+title: "Executive Order No. 350 — Directing the prominent display of the National Flag in all parks, buildings and establishments in preparation for the centennial of Philippine Independence in 1998"
+identifier: "Executive Order No. 350"
+number: "350"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1996-06-25
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1996/eo_350_1996.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1996/pdf/eo_350_1996.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 350
+
+**Directing the prominent display of the National Flag in all parks, buildings and establishments in preparation for the centennial of Philippine Independence in 1998**
+
+EXECUTIVE ORDER NO. 350 June 25, 1996
+
+DIRECTING THE PROMINENT DISPLAY OF THE NATIONAL FLAG IN ALL PARKS, BUILDINGS AND ESTABLISHMENTS IN PREPARATION FOR THE CENTENNIAL OF PHILIPPINE INDEPENDENCE IN 1998
+
+WHEREAS, the Philippines will commemorate the centennial of the proclamation of Philippine Independence on 12 June 1998;
+
+WHEREAS, the National Flag which symbolizes patriotism, love of country, and sense of nationhood of the Filipino people is a significant and instrumental means of raising the level of awareness of the people in the spirit of the coming centennial celebration of Philippine Independence;
+
+WHEREAS, Executive Order No. 179, series of 1994, mandated the prominent display of the National Flag in all public buildings, government institutions and official residences in commemoration of the first unfurling of the Philippine Flag on Philippine soil on 28 May 1898;
+
+WHEREAS, Executive Order No. 137, series of 1965, mandates the display of the National Flag on national holidays or special holidays, as the President may proclaim;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by the powers vested in me by law, do hereby order:
+
+## SECTION 1
+
+The National Flag shall henceforth be prominently displayed in all public buildings, schools, government offices including government owned or controlled corporations, public squares, parks and plazas, as well as in official residences. Wherever appropriate, or in very large buildings or establishments, two or more Flags shall be displayed. To give due honor and deference to this foremost symbol of the country, all concerned are directed to replace all faded, dilapidated and worn out Flags with new ones of prescribed sizes.
+
+The general public is likewise urged to join in this worthy endeavor of displaying the National Flag whenever practicable to show the Filipino spirit of patriotism and nationhood to the entire world community.
+
+SECTION. 2. All concerned agencies are authorized to allocate such amounts as may be necessary to defray the expenditures which may be incurred in the implementation of this Order, subject to the usual accounting and auditing rules and regulations.
+
+SECTION. 3. This Executive Order takes effect immediately.
+
+DONE in the City of Manila, this 25th day of June in the year of Our Lord, Nineteen Hundred and Ninety-Six.

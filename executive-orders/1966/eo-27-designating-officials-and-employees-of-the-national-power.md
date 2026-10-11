@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 27 — Designating Officials and Employees of the National Power Corporation as Deputy Forest Officers"
+identifier: "Executive Order No. 27"
+number: "27"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1966-06-07
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1966/eo_27_1966.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1966/pdf/eo_27_1966.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 27
+
+**Designating Officials and Employees of the National Power Corporation as Deputy Forest Officers**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 27, June 07, 1966 ]
+
+DESIGNATING OFFICIALS AND EMPLOYEES OF THE NATIONAL POWER CORPORATION AS DEPUTY FOREST OFFICERS
+
+By virtue of the powers vested in me by law, **I, FERDINAND E. MARCOS** , President of the Philippines, do hereby deputize all officials and employees of the National Power Corporation as forest officers of the Bureau of Forestry, clothed with all the powers conferred upon officials and employees of said Bureau by Sections 1818 and 2751 of the Revised Administrative Code, in watershed areas placed under the administration of the National Power Corporation by Proclamation No. 505 dated December 4, 1965, and all other watershed areas in the country.
+
+When enforcing forest laws and regulations, they shall be subject to the control and supervision of the Director of Forestry.
+
+Done in the City of Manila, this 7th day of June, in the year of Our Lord, nineteen hundred and sixty-six.
+
+(SGD.) **FERDINAND E. MARCOS**
+President of the Philippines
+
+By the President:
+
+(SGD.) **RAFAEL M. SALAS**
+Executive Secretary

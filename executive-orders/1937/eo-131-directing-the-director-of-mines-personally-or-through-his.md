@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 131 — Directing the Director of Mines Personally, or Through His Authorized Representatives, to Conduct Underground Mine Inspections in Representation of the Secretary of Labor."
+identifier: "Executive Order No. 131"
+number: "131"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1937-12-23
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1937/eo_131_1937.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1937/pdf/eo_131_1937.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 131
+
+**Directing the Director of Mines Personally, or Through His Authorized Representatives, to Conduct Underground Mine Inspections in Representation of the Secretary of Labor.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 131, December 23, 1937 ]
+
+DIRECTING THE DIRECTOR OF MINES PERSONALLY, OR THROUGH HIS AUTHORIZED REPRESENTATIVES, TO CONDUCT UNDERGROUND MINE INSPECTIONS IN REPRESENTATION OF THE SECRETARY OF LABOR
+
+I, MANUEL L. QUEZON, President of the Philippines, by virtue of the powers vested in me by law, do hereby order and direct that for the purpose of effectively enforcing the provisions of Commonwealth Act Numbered One hundred and four and the rules and regulations issued there under, the Director of Mines personally, or through his authorized representatives shall, for and in representation of the Secretary of Labor, inspect periodically all underground workings of mines, and shall report to the said Secretary of Labor for appropriate action any violations of the safety rules and regulations governing mining operations or any unsafe condition found to exist therein.
+
+The Director of Mines shall recommend from time to time to the Secretary of Labor, for consideration of the said Secretary and the Advisory Safety Council, any additions to, or changes in, the safety rules and regulations governing mining operations as he may find desirable.
+
+Done at the City of Manila, this twenty-third day of December, in the year of Our Lord, nineteen hundred and thirty-seven, and of the Commonwealth of the Philippines, the third.
+
+(Sgd.) **MANUEL L. QUEZON**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ELPIDIO QUIRINO**
+Secretary of the Interior

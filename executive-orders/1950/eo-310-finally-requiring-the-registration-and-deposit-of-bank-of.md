@@ -1,0 +1,55 @@
+---
+title: "Executive Order No. 310 — Finally Requiring the Registration and Deposit of Bank of the Philippine Islands Circulating Notes."
+identifier: "Executive Order No. 310"
+number: "310"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1950-04-22
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1950/eo_310_1950.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1950/pdf/eo_310_1950.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 310
+
+**Finally Requiring the Registration and Deposit of Bank of the Philippine Islands Circulating Notes.**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 310, April 22, 1950 ]
+
+FINALLY REQUIRING THE REGISTRATION AND DEPOSIT OF BANK OF THE PHILIPPINE ISLANDS CIRCULATING NOTES
+
+WHEREAS, a number of holders of Bank of the Philippine Islands circulating notes failed to register and deposit their holdings in accordance with the provisions of Executive Order No. 166, dated August 20, 1948;
+
+**WHEREAS,** after all the Bank of the Philippine Islands circulating notes registered and deposited under Executive Order No. 166 shall have been redeemed, there would be a balance in the amount of ₱13,935 still available for further redemption out of the sum reserved for the re­demption of Bank of the Philippine Islands circulating notes;
+
+**WHEREAS,** it is desirable to retire all Bank of the Philippine Islands circulating notes, including those that are still in the hands of the public; and
+
+**WHEREAS,** in order that a plan may be devised for carrying out the above purpose, it is necessary to determine the aggregate amount of unregistered and undeposited circulating notes of the Bank of the Philippine Islands still in the hands of the public;
+
+**NOW, THEREFORE, I, ELPIDIO QUIRINO,** President of the Philippines, by virtue of the powers in me vested by law, do hereby order and direct:
+
+1\. Within a period of three months from the date of this Order every holder of Bank of the Philippine Islands circulating notes not previously registered and deposited under Executive Order No. 166, dated August 20, 1948, shall present such circulating notes in his possession to the Treasurer of the Philippines who shall accept such notes, register and safely keep the same, and issue receipts therefor, stating the names arid addresses of the persons registering and depositing said notes, the serial numbers thereof, their denominations, the amount of each denomination and the total amount.
+
+2\. Within a period of one month from the termination of the final registration and deposit of unregistered Bank of the Philippine Islands circulating notes hereinabove provided, the Treasurer of the Philippines shall submit to the Secretary of Finance a report of the total amount of said circulating notes thus registered and deposited, and the Secretary of Finance shall forthwith submit a similar report to the President of the Philippines.
+
+3\. All Bank of the Philippine Islands circulating notes not registered and deposited as hereinabove provided within the period of three months from the date of this Order shall not thereafter be accepted for registration and deposit.
+
+4\. The Treasurer of the Philippines, with the approval of the Secretary of Finance, is hereby authorized to issue the necessary rules and regulations to give force and effect to the provisions of this Order.
+
+Done in the City of Baguio, this 22nd day of April, in the year of Our Lord, nineteen hundred and fifty, and of the Independence of the Philippines, the fourth.
+
+(SGD.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **TEODORO EVANGELISTA**
+Executive Secretary

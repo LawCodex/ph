@@ -1,0 +1,46 @@
+---
+title: "Executive Order No. 99 — Creating the Municipality of Sebaste in the Province of Antique"
+identifier: "Executive Order No. 99"
+number: "99"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1964-09-26
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1964/eo_99_1964.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1964/pdf/eo_99_1964.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 99
+
+**Creating the Municipality of Sebaste in the Province of Antique**
+
+MALACAÑANG  
+RESIDENCE OF THE PRESIDENT OF THE PHILIPPINES  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 99, September 26, 1964 ]
+
+CREATING THE MUNICIPALITY OF SEBASTE IN THE PROVINCE OF ANTIQUE
+
+Pursuant to the provisions of section 68 of the Revised Administrative Code, there is hereby created in the province of Antique, a municipality to be known as Sebaste to consist of the barrios of Callan, Naubon, Ydio, Sebaste, Abiera, Bacalan, Alegre, Arasasan, P. Javier, and Aguila, of the municipalities of Culasi and Pandan, with the seat of government at the barrio of Sebaste.
+
+The municipalities of Culasi and Pandan shall have their present territories minus the portions thereof which are included in the, municipality of Sebaste.
+
+The creation of this new municipality as proposed in House Bill No. 8178 was approved by the House of Representatives.
+
+The municipality of Sebaste shall begin to exist upon the appointment and qualification of the Mayor, Vice-Mayor, and a majority of the councilors thereof and upon the certification by the Secretary of Finance that said municipality is financially capable of providing for all the statutory obligations and ordinary essential services of a regular municipality and that the mother municipalities of Culasi and Pandan, after the segregation therefrom of the territory comprised in the municipality of Sebaste, can still maintain creditably their municipal governments, meet all their statutory and contractual obligations, and provide for the essential municipal services.
+
+Done in the City of Manila, this 26th day of September, in the year of Our Lord, nineteen hundred and sixty-four.
+
+(Sgd.) **DIOSDADO MACAPAGAL**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **JUAN S. CANCIO**
+Acting Assistant Executive Secretary

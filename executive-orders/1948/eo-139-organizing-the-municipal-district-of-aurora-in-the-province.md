@@ -1,0 +1,41 @@
+---
+title: "Executive Order No. 139 — Organizing the Municipal District of Aurora in the Province of Isabela Into a Regular Municipality Under the Same Name"
+identifier: "Executive Order No. 139"
+number: "139"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1948-05-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1948/eo_139_1948.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1948/pdf/eo_139_1948.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 139
+
+**Organizing the Municipal District of Aurora in the Province of Isabela Into a Regular Municipality Under the Same Name**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 139, May 12, 1948 ]
+
+ORGANIZING THE MUNICIPAL DISTRICT OF AURORA IN THE PROVINCE OF ISABELA INTO A REGULAR MUNICIPALITY UNDER THE SAME NAME
+
+Upon the recommendation of the Secretary of the Interior, and pursuant to the provisions of section 68 of the Revised Administrative Code, the municipal district of Aurora in the Province of Isabela is hereby organized into a regular municipality under the same name, with the seat of government at the present poblacion thereof.
+
+The organization herein made shall take effect on July 3, 1948.
+
+Done in the City of Manila, this 12th day of May, in the year of Our Lord, nineteen hundred and forty-eight, and of the Independence of the Philippines, the second.
+
+(Sgd.) **ELPIDIO QUIRINO**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EMILIO ABELLO**
+Executive Secretary

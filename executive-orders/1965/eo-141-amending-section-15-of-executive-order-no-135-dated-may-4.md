@@ -1,0 +1,43 @@
+---
+title: "Executive Order No. 141 — Amending Section 15 of Executive Order No. 135, Dated May 4, 1948, Entitled “Regulating the Establishment, Maintenance and Operation of Frontons and Basque Pelota Games (Jai-Alai)”"
+identifier: "Executive Order No. 141"
+number: "141"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1965-02-26
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1965/eo_141_1965.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1965/pdf/eo_141_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 141
+
+**Amending Section 15 of Executive Order No. 135, Dated May 4, 1948, Entitled “Regulating the Establishment, Maintenance and Operation of Frontons and Basque Pelota Games (Jai-Alai)”**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 141, February 26, 1965 ]
+
+AMENDING SECTION 15 OF EXECUTIVE ORDER NO. 135, DATED MAY 4, 1948, ENTITLED “REGULATING THE ESTABLISHMENT, MAINTENANCE AND OPERATION OF FRONTONS AND BASQUE PELOTA GAMES (JAI-ALAI)”
+
+By virtue of the powers vested in me by law, I, Diosdado Macapagal, President of the Philippines, do hereby amend Section 15 of Executive Order No. 135, dated May 4, 1948, to read as follows:
+
+“Sec. 15. Pelotaris, judges, referees, etc. shall be licensed.—No person or entity operating a basque pelota fronton, wherein games are played with betting, shall employ any pelotari, judge, or referee, superintendent of games (intendente), box office employees, cashiers, ticket takers, checkers, consolidators, sales clerks, supervisors and superintendents, ushers, doormen, gatekeepers, special policemen, security guards or any other official or employee whose duties are directly or indirectly connected with the operation or supervision of the games, unless such person has been duly licensed by the Games and Amusements Board. Such license shall be granted upon satisfactory proof that the applicant is in good health, knows the rules and usages of the game, and is a person of good moral character and undoubted honesty. In the case of pelotaris, such license shall be granted only upon the further condition that they are able to play the game with reasonable skill and with safety to themselves and to their opponents. The Games Amusements Board may further require other reasonable qualifications for applicants to a license not otherwise provided herein. Such license shall be obtained yearly.”
+
+The herein amendment to Section 15 of said Executive Order No. 135 shall take effect on January 1, 1965.
+
+**Done** in the City of Manila, this 26th day of February, in the year of Our Lord, nineteen hundred and sixty-five.
+
+(Sgd.) **DIOSDADO MACAPAGAL**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **RAMON A. DIAZ**
+Executive Secretary

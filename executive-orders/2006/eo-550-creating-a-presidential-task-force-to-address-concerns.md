@@ -1,0 +1,98 @@
+---
+title: "Executive Order No. 550 — Creating a Presidential Task Force to Address Concerns Arising From the Conduct of the National Council Licensure Examination (NCLEX) for Nurses in the Philippines (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 550"
+number: "550"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2006-07-31
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2006/eo_550_2006.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2006/pdf/eo_550_2006.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 550
+
+**Creating a Presidential Task Force to Address Concerns Arising From the Conduct of the National Council Licensure Examination (NCLEX) for Nurses in the Philippines (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER No. 550
+
+CREATING A PRESIDENTIAL TASK FORCE TO ADDRESS CONCERNS ARISING FROM THE CONDUCT OF THE NATIONAL COUNCIL LICENSURE EXAMINATION (NCLEX) FOR NURSES IN THE PHILIPPINES
+
+WHEREAS, the National Council Licensure Examination (NCLEX) for nurses is administered by the National Council of State Boards of Nursing (NCSBN) to determine those qualified to practice nursing in the United States at the entry level;
+
+**WHEREAS,** the NCSBN has authorized the conduct of the NCLEX in Hong Kong, London and Seoul in 2004, and further established additional test centers in Australia, Canada, Germany, India, Mexico and Taiwan in 2006;
+
+**WHEREAS,** the Philippines is the top origin country of foreign educated nurses taking the NCLEX, many of whom encounter financial hardship due to the cost of taking the examinations overseas;
+
+**WHEREAS,** Filipino nurses constitute 83% of foreign-educated nurses practicing in the United States of America and contribute positively to the good image of the Philippines through their hard work, dedication and ethic of care;
+
+**WHEREAS,** officers of the NCSBN visited the Philippines in March 2006 to assess the feasibility of establishing an NCLEX test center in the country;
+
+**WHEREAS,** the conduct of the NCLEX in the Philippines will open opportunities for qualified yet less fortunate Filipino nurses to take the NCLEX locally, and the savings from not having to travel abroad to take said exam may be devoted to test preparation;
+
+**WHEREAS,** the Philippine government fully supports the establishment of an NCLEX test center in the Philippines, and is prepared to provide assistance in terms of physical and examination security, as well as intellectual property protection through its agencies.
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO,** President of the Philippines, by virtue of the powers vested in me by law, do hereby order the creation of a Presidential Task Force on National Council Licensure Examination (NCLEX).
+
+## SECTION 1
+
+_Lead Agency._ The Commission on Filipinos Overseas (CFO), through its Chairman, shall be the lead agency in the NCLEX Task Force.
+
+## SECTION 2
+
+_Agency Support._ The CFO shall be supported by the following agencies, represented by an official with rank not below that of an Assistant Secretary, namely: Intellectual Property Office (IPO), Philippine National Police (PNP), Professional Regulation Commission (PRC), and the Philippine Nurses Association (PNA).
+
+The CFO shall serve as the Secretariat of the Task Force.
+
+## SECTION 3
+
+_Functions and Responsibilities._ The Task Force shall:
+
+a. Prepare an overall program that would consolidate existing government mechanisms to ensure protection of intellectual property rights and security of physical facilities of NCLEX test centers in the Philippines;
+
+b. Evaluate current procedures in resolving cases involving Filipino nurses and foreign nursing regulatory entities, and recommend proper measures to enhance existing grievance mechanisms;
+
+c. Coordinate and liaise with the National Council of State Boards of Nursing (NCSBN) in matters concerning the conduct of the NCLEX in the Philippines;
+
+d. Investigate and take specific action on reports of fraud or any related act that will compromise the integrity of the examinations, as referred by the NCSBN;
+
+e. Conduct consultations and information campaigns among nursing associations and other stakeholders to assist in preserving the integrity of local as well as foreign nursing licensure examinations conducted in the Philippines; and
+
+f. Perform other functions that will ensure the smooth and successful conduct of NCLEX in the Philippines.
+
+## SECTION 4
+
+_Government Support._ The Task Force is hereby authorized to call upon all other agencies whose assistance and support may be deemed necessary for the effective performance of all these functions, and said agencies are hereby directed to extend full cooperation thereto.
+
+## SECTION 5
+
+_Funding._ The Task Force shall receive an initial funding of Ten Million Pesos (PhP 10,000,000.00) which will be sourced from the President’s Social Fund in support of the projects, programs and activities related to its functions.
+
+## SECTION 6
+
+_Period of Existence._ The Task Force shall cease to exist after March 31, 2010 after submitting a final report to the Office of the President of all its activities, including an accounting of all moneys received and disbursed.
+
+## SECTION 7
+
+_Effectivity._ This Executive Order shall take effect immediately.
+
+Done, in the City of Manila, this 31st day of JULY in the year of Our Lord, Two Thousand and Six.
+
+(Sgd.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **EDUARDO R. ERMITA**
+Executive Secretary
+
+Source: Malacañang Records Office
+Office of the President of the Philippines. (2006). [Executive Order Nos. : 501 – 600]. Manila : Malacañang Records Office.

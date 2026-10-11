@@ -1,0 +1,65 @@
+---
+title: "Executive Order No. 39 — Increasing the Number of Barrios of the Municipal District of Banaue, Mountain Province, From Seven to Twelve"
+identifier: "Executive Order No. 39"
+number: "39"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1947-01-13
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1947/eo_39_1947.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1947/pdf/eo_39_1947.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 39
+
+**Increasing the Number of Barrios of the Municipal District of Banaue, Mountain Province, From Seven to Twelve**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 39, January 13, 1947 ]
+
+INCREASING THE NUMBER OF BARRIOS OF THE MUNICIPAL DISTRICT OF BANAUE, MOUNTAIN PROVINCE , FROM SEVEN TO TWELVE.
+
+Upon recommendation of the Secretary of the Interior and pursuant to the provisions of section 68 of the Revised Administrative Code, the seven barrios of the municipal district of Banaue, Mountain Province , as at present organized, are hereby increased to twelve, to wit:
+
+(1) Barrio Pasnacan, or the poblacion, which shall comprise the sitios of Aoan-iquid, Achog, Bin-ambiyo, Patilong, Atiw, Talogtog, Oliwoc, Ligligan, Alimit, Bayawan, Yayod, Angadal, Olditong, and Amballo.
+
+(2) Barrio of Bocos, which shall comprise the sitios of Pana-ngad, Pon-ab-aban, Awa, Tano, Iboc-ong, Nacbocan, Itidong, Joy-agan, Panalngan, Talboc, Nontamanaan, Motanglag, and Paltog.
+
+(3) Barrio of Hapao, which shall comprise the sitios of Togawi, Boco-2, Bucling, Ayangan, Nang-gulunan, Patpat, Bilong, Buckiawan, Tawal, Matucotque, Dayande, Ba-ang, Paniki, Bullanan, Amyong, Tabag, Patugong, Pilig, and Boco-1.
+
+(4) Barrio of Gohang, which shall comprise the sitios of Polis-Pass, Lubuong, Bontoc-on, Bangaan, Bongbongna, Lamagan, Dallagan, Bangawan, Oja, Hawangan and Ambalang.
+
+(5) Barrio of Cababuyan, which shall comprise the sitios of O-ong, Mungayan, Binalahan, Boco, Lic-iyon, Pitawan, Jacapon,Toddani, Mabolon, Pagayape, Tobitob, Jalichi and Uauaguen.
+
+(6) Barrio of Amganad, which shall comprise the sitios of Tam-an, Ducligan, Nahalngan, Pugo, Joyoc, Balawis, Amgade, Tocbaban, Lugo , Ibalanid, and Ponwagdan.
+
+(7) Barrio of Batad, which shall comprise the sitios of Naggol, Guinnao, Pattic, Jiguib, Bocos, Balihong, Agchao, Achattol, Tipid, Nabnong, and Tatawang.
+
+(8) Barrio of Cambulo, which shall comprise the sitios of Pula , Achel, Tao, Inhapod, Panabbol, Alimmong, Mattao, Had-ong, Amolja, Bayongen, Pa-o,and Banao.
+
+(9) Barrio of Ducligan which shall comprise the sitios of Palong, Tanao, Oyyod, Pannel,Ambajeyon, Hapao, Bannao, Patag, Ambaag, Natangod, Ayaj, Latipan, Ambawigan, and Jamalapa.
+
+(10) Barrio of Banga-an, which shall comprise the sitios of Batneg, Naggol, Buyo, Balloc, Anaba, Dalican, Paltog, Pedlan, Lao-ig, Pin-nong, Bullod, and Ayyong
+
+(11) Barrio of Kinakin, which shall comprise the sitios of Talog, Chuttal, and Opon.
+
+(12) Barrio of Poitan, which shall comprise the sitios of Pattog, Ingaan, Pinalajan, Baquengey, Patoc, Ba-e, Bayongen, and Nabian.
+
+The organization herein made shall take effect immediately.
+
+Done at the City of Manila, this 13th day of January, in the year of Our Lord, nineteen hundred and forty-seven, and of the Independence of the Philippines , the first.
+
+(Sgd.) **MANUEL ROXAS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EMILIO ABELLO**
+Chief of the Executive Office

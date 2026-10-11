@@ -1,0 +1,74 @@
+---
+title: "Executive Order No. 245 — Modifying the Rates of Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1978, as Amended, in Order to Implement the Preferential Tariff Rates on Certain Products Under the Asean Industrial Cooperation (Aico) Scheme, in Favor of Nissan Motor Philippines, Inc. (NISSAN) - (Coe No. Nissan/2003/5) (Gloria Macapagal-Arroyo)"
+identifier: "Executive Order No. 245"
+number: "245"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 2003-10-03
+status: unknown
+source: "https://lawphil.net/executive/execord/eo2003/eo_245_2003.html"
+source_pdf: "https://lawphil.net/executive/execord/eo2003/pdf/eo_245_2003.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 245
+
+**Modifying the Rates of Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1978, as Amended, in Order to Implement the Preferential Tariff Rates on Certain Products Under the Asean Industrial Cooperation (Aico) Scheme, in Favor of Nissan Motor Philippines, Inc. (NISSAN) - (Coe No. Nissan/2003/5) (Gloria Macapagal-Arroyo)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 245, October 03, 2003 ]
+
+MODIFYING THE RATES OF DUTY ON CERTAIN IMPORTED ARTICLES AS PROVIDED UNDER THE TARIFF AND CUSTOMS CODE OF 1978, AS AMENDED, IN ORDER TO IMPLEMENT THE PREFERENTIAL TARIFF RATES ON CERTAIN PRODUCTS UNDER THE ASEAN INDUSTRIAL COOPERTION (AICO) SCHEME, IN FAVOR OF NISSAN MOTOR PHILIPPINES, INC. (NISSAN) – (COE NO. NISSAN/2003/5)
+
+WHEREAS, the Philippines is a Contracting Party to the Basic Agreement on the ASEAN Industrial Cooperation Scheme signed in Singapore on 27 April 1996;
+
+**WHEREAS,** the Philippines is a participating country in the approved AICO Arrangements of Nissan Motor Philippines, Inc. along with Thailand;
+
+**WHEREAS,** under the Nissan AICO Arrangement, the Philippines (Nissan Motor Philippines, Inc.) will import from Thailand )Siam Nissan Automobile Co. Ltd.) certain original equipment manufacture (OEM) automotive parts/components for Nissan Sentra passenger cars (HS 8703.90 10). In exchange, Thailand will import from the Philippines complementary component parts for OEM Nissan Sunny passenger cars;
+
+**WHEREAS,** AICO Certificate of Eligibility No. Nissan/2003/5 was issued on 10 April 2003 in favor of the participating companies in the Nissan AICO Arrangement;
+
+**WHEREAS,** in consonance with Articles 5 and 7 of the Basic Agreement of the (AICO) Scheme, participating companies in the approved Nissan AICO Philippines and Thailand as participating countries.
+
+**NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO** , President of the Philippines, pursuant to the powers vested in me under Section 402 of the Tariff and Custom Code of the 1978, as amended, do hereby order:
+
+## Section 1
+
+The articles specifically listed in "Annex A" hereof, as classified under Section 104 of the Tariff and Custom Code of 1978, as amended, shall be accorded the AICO rate of 3% on parts/components of Nissan Sentra passenger cars (HS 8703.90) as specified in Column 6 thereof.
+
+## Section 2
+
+The AICO rate provided in Annex "A" shall be accorded to the AICO entity in Thailand (Siam Nissan Automobile Co. Ltd.) upon effectivity of this Executive Order.
+
+## Section 3
+
+In the event that any subsequent changes are made in the basic Most Favored Nation (MFN) Philippine rate of duty on any of the articles listed in Annex "A" to a rate lower than the AICO rate prescribed in Column 6 of Annex "A" such articles shall automatically be accorded the corresponding reduced rate of duty.
+
+## Section 4
+
+Upon the effectivity of this Executive Order, the articles specifically listed in the aforesaid Annex "A" which are entered or withdrawn from warehouses in the Philippines for consumption shall pay the applicable AICO preferential tariff rates specified under Section 1 hereof, subject to qualification under the rules of Origin for CEPT, as evidenced by the Certificate of Origin-Form "D".
+
+## Section 5
+
+Any revision to the part numbers and to the AICO company appearing in Column 4 and Column 5, respectively, of Annex "A" as well as in the pertinent Section of this Executive Order shall be communicated immediately to the Bureau of Customs by the Board of Investments within five (5) days after receipt of the official copy of the COE on the revised part number/s and/or change or addition of AICO company from the ASEAN Secretariat.
+
+## Section 6
+
+This Executive Order shall be effective immediately,
+
+DONE in the City of Manila, this 3rd day of October the year of our Lord, two thousand and three.
+
+(SGD.) **GLORIA MACAPAGAL-ARROYO**
+President of the Philippines
+
+By the President:
+
+(SGD.) **ALBERTO G. ROMULO**
+Executive Secretary

@@ -1,0 +1,73 @@
+---
+title: "Executive Order No. 292 — Constituting a consultative committee to advise the president in the appointment of Philippine National Police officials from the rank of senior superintendent to director general"
+identifier: "Executive Order No. 292"
+number: "292"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1996-01-12
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1996/eo_292_1996.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1996/pdf/eo_292_1996.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 292
+
+**Constituting a consultative committee to advise the president in the appointment of Philippine National Police officials from the rank of senior superintendent to director general**
+
+EXECUTIVE ORDER NO. 292 January 12, 1996
+
+CONSTITUTING A CONSULTATIVE COMMITTEE TO ADVISE THE PRESIDENT IN THE APPOINTMENT OF PHILIPPINE NATIONAL POLICE OFFICIALS FROM THE RANK OF SENIOR SUPERINTENDENT TO DIRECTOR GENERAL
+
+WHEREAS, the President is empowered under Republic Act No. 6975 to appoint Philippine National Police (PNP) officials from the rank of Senior Superintendent to Director General;
+
+**WHEREAS** , considering the highly sensitive nature of the said positions, it is imperative for the President, with the assistance of an outside advisory committee, to thoroughly evaluate and review the qualifications of the candidates for appointment to the said positions;
+
+**WHEREAS** , the Congress of the Philippines has expressed its desire and readiness to assist the President in the selection of the said PNP officials;
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+## Section 1
+
+A Consultative Committee to advise the President in the Appointment of PNP officials from the rank of Senior Superintendent to Director General is hereby constituted with the following as members:
+
+a. A Private Sector Representative to be designated by the President;
+
+b. Two (2) members of the Senate to be designated by the Senate President;
+
+c. Two (2) members of the House of Representatives to be designated by the Speaker of the House;
+
+d. The Chairman of the National Police Commission;
+
+e. The Presidential Adviser on Police Matters; and
+
+g. The Chief, Presidential Legal Counsel.
+
+The private sector representative shall chair the Committee.
+
+## Section 2
+
+Recommendations for appointment of PNP officers from the rank of Senior Superintendent to Deputy Director General shall be coursed by the PNP Director General to the President through the Consultative Committee. The Consultative Committee shall review and evaluate the proposed appointments and submit its recommendations to the President within thirty (30) from receipt of the same. Candidates for the position of Director General shall be evaluated and recommended to the President by the Consultative Committee within thirty (30) days from the time a vacancy occurs in the said Office.
+
+## Section 3
+
+The Consultative Committee is hereby authorized to constitute a Secretariat to be composed of employees detailed from member offices and other government agencies as may be deemed necessary by the Chairman of the Committee.
+
+The Committee is hereby empowered to require the assistance of all government offices in the exercise of its assigned functions.
+
+## Section 4
+
+The funds necessary for the implementation of this Order shall be sourced by the Department of Budget and Management in coordination with the Chairman of the Committee. Appropriations for the succeeding years shall be incorporated in the budget proposal of the Office of the President.
+
+## Section 5
+
+This Executive Order shall take effect immediately.
+
+**DONE** in the City of Manila, this 12th day of January in the year of Our Lord, Nineteen Hundred and Ninety-Six.
+
+By the President
+
+(Sgd.)**RUBEN D. TORRES**
+Executive Secretary

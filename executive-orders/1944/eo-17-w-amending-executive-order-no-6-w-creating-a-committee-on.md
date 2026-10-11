@@ -1,0 +1,46 @@
+---
+title: "Executive Order No. 17-W — Amending Executive Order No. 6-W Creating a Committee on Relief for Filipinos Stranded in the United States on Account of the War."
+identifier: "Executive Order No. 17-W"
+number: "17-W"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1944-08-30
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1944/eo_17-w_1944.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1944/pdf/eo_17-w_1944.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 17-W
+
+**Amending Executive Order No. 6-W Creating a Committee on Relief for Filipinos Stranded in the United States on Account of the War.**
+
+OFFICE OF THE PRESIDENT OF THE PHILIPPINES  
+WASHINGTON, D.C.
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 17-W, August 30, 1944 ]
+
+**AMENDING EXECUTIVE ORDER NO. 6-W CREATING A COMMITTEE ON RELIEF FOR FILIPINOS STRANDED IN THE UNITED STATES ON ACCOUNT OF THE WAR**
+
+By virtue of the powers vested in me by the Constitution and pursuant to the provisions of the Emergency Powers Law, I **SERGIO OSMEÑA,** President of the Philippines, do hereby create and constitute a Committee on Relief for Filipinos who are stranded in the United States on account of the war. The Committee shall composed of Honorable Ismael Mathay, Budget and Finance Commissioner, Chairman; Dr. Arturo B. Rotor, Secretary to the President; and Mr. Manuel A. Adeva, Chief, Nationals Division, Office of the Resident Commissioner of the Philippines to the United States, members. The duties and functions of the Committee will be as follows:
+
+1\. To study and pass upon all request for financial aid from Filipinos who are stranded in the United States.
+
+2\. To determine the form and amount of relief that should be given to these persons.
+
+3\. To aid them, through the Office of the Resident Commissioner, to obtain employment.
+
+4\. To review existing cases and recommend to the President such action as may be deemed proper to take in each case.
+
+This Committee has the authority to call upon any office or employee of the Commonwealth of the Philippines with the approval of the corresponding head or chief, for assistance in carrying out its functions.
+
+Executive Order Numbered 6-W, series of 1943, is hereby amended insofar as it is inconsistent herewith.
+
+Done at the City of Washington, District of Columbia, United States of America, this thirtieth day of August in the year of Our Lord, nineteen hundred and forty-four, and of the Commonwealth of the Philippines, the ninth.
+
+(Sgd.) **SERGIO OSMEÑA**
+President of the Philippines

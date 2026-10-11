@@ -1,0 +1,67 @@
+---
+title: "Executive Order No. 25 — Promulgating Rules and Regulations Concerning Currency, Books and Accounts of Banks and Their Branches and Agencies in the Provinces, Provincial, City and Municipal Treasuries and Other Government Accountable Offices and Debt Moratorium"
+identifier: "Executive Order No. 25"
+number: "25"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1944-11-18
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1944/eo_25_1944.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1944/pdf/eo_25_1944.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 25
+
+**Promulgating Rules and Regulations Concerning Currency, Books and Accounts of Banks and Their Branches and Agencies in the Provinces, Provincial, City and Municipal Treasuries and Other Government Accountable Offices and Debt Moratorium**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 25, November 18, 1944 ]
+
+PROMULGATING RULES AND REGULATIONS CONCERNING CURRENCY, BOOKS AND ACCOUNTS OF BANKS AND THEIR BRANCHES AND AGENCIES IN THE PROVINCES, PROVINCIAL, CITY AND MUNICIPAL TREASURIES AND OTHER GOVERNMENT ACCOUNTABLE OFFICES AND DEBT MORATORIUM
+
+**WHEREAS,** it is essential that the financial and monetary structure of the Commonwealth of the Philippines be maintained on a sound basis.
+
+**NOW, THEREFORE, I, SERGIO OSMEÑA,** President of the Philippines, by virtue of the powers vested in me by the Constitution and the laws of the Commonwealth of the Philippines, do hereby promulgate the following rules and regulations concerning currency, books and accounts and debt moratorium for all areas free from enemy occupation and control throughout the Philippines.
+
+I. CURRENCY
+
+1\. The new Victory Series of Philippine Treasury Certificates (Victory Pesos) and the Philippine coins identical to pre-war issue now in circulation will be legal tender.
+
+2\. All pre-war Philippine Treasury Certificates and coins will continue to be legal tender and may be exchanged at par for the Victory Pesos if so desired by the holders.
+
+3\. The rate of exchange will be two Victory Pesos for one United States dollar. Transactions at any other rate are prohibited.
+
+4\. For each province liberated from the enemy, an Emergency Currency Committee will be appointed by the United States Army and the Commonwealth Government to study, investigate and report on the bona-fide emergency currencies issued by duly authorized currency boards. The Committee will ascertain the extent of the authority given to such boards, the amount of emergency currency actually printed and issued, and will recommend as soon as possible the redemption of the currencies found to be legally issued. In case it is found out that in a given province more emergency currencies were in circulation than the amount actually authorized to be issued, the Committee will recommend what action shall be taken: _Provided,_ however,that counterfeit emergency currencies will not be redeemed.
+
+5\. The printing and issuance of additional emergency currencies are hereby prohibited.
+
+6\. Japanese currency, Philippine National Bank Notes (except duly authorized emergency issues), Notes of the Bank of the Philippine Islands, New Central Bank Notes and unauthorized emergency currencies are not legal tender. Transactions in these currencies are prohibited.
+
+II. BANKS, TREASURIES AND OTHER ACCOUNTABLE OFFICERS
+
+1\. The books of banks, their branches and agencies in the provinces, provincial, city and municipal treasuries and other government accountable officers will be sealed forthwith and existing accounts frozen, as of the date the province, city, or municipality is liberated from enemy occupation and control, pending further action by the Government. All books, accounts and previous records as closed shall become inactive, filed and preserved for reference and other purposes as may be required.
+
+2\. Provincial and municipal treasurers and other accountable officials will open new books of account as soon as their respective offices are duly reconstituted, observing strictly the existing accounting laws, rules and regulations pertaining to accounts and accounting system of the Commonwealth of the Philippines.
+
+3\. Provincial treasurers will accept for safekeeping new savings deposits in pre-war Philippine Treasury Certificates and Victory Pesos. Withdrawals in cash only of not less than one peso may be made from each savings account upon presentation of the deposit book. No interest will accrue on such deposit. In addition to opening new savings accounts, provincial treasuries will provide facilities for exchanging United States dollars for Victory Pesos.
+
+III. DEBT MORATORIUM
+
+1\. Payment of all debts and other monetary obligation contracted after December 31, 1941, except debts and other monetary obligations entered into in any area after declaration by Executive Order that such area has been freed from enemy occupation and control, is temporarily sus¬pended pending action by the Commonwealth Government.
+
+Done at the Seat of Government in the Field, this 18th day of November, in the year of Our Lord, nineteen hundred and forty-four, and of the Commonwealth of the Philippines, the tenth.
+
+(Sgd.) **SERGIO OSMEÑA**
+President of the Philippines
+
+BY THE PRESIDENT:
+
+(Sgd.) **ARTURO B. ROTOR**
+Secretary to the President

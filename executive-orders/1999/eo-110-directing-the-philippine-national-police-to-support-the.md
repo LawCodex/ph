@@ -1,0 +1,75 @@
+---
+title: "Executive Order No. 110 — Directing the Philippine National Police to support the Armed Forces of the Philippines in internal security operations for the suppression of insurgency and other serious threats to national security (Joseph Ejercito-Estrada)"
+identifier: "Executive Order No. 110"
+number: "110"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1999-06-15
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1999/eo_110_1999.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1999/pdf/eo_110_1999.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 110
+
+**Directing the Philippine National Police to support the Armed Forces of the Philippines in internal security operations for the suppression of insurgency and other serious threats to national security (Joseph Ejercito-Estrada)**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 110, June 15, 1999 ]
+
+DIRECTING THE PHILIPPINE NATIONAL POLICE TO SUPPORT THE ARMED FORCES OF THE PHILIPPINES IN INTERNAL SECURITY OPERATIONS FOR THE SUPPRESSION OF INSURGENCY AND OTHER SERIOUS THREATS TO NATIONAL SECURITY
+
+WHEREAS, Republic Act No. 8551, particularly Section 3 thereof, amending Section 12 of Republic Act No. 6975, has relieved the Department of the Interior and Local Government (DILG) of the primary responsibility on matters involving the suppression of insurgency and other serious threats to national security;
+
+**WHEREAS,** Section 3 of Republic Act No. 8551 further provides that the Philippine National Police (PNP) “shall, through information gathering and performance of its ordinary police functions, support the Armed Forces of the Philippines (AFP) on matters involving suppression of insurgency, except in cases where the President shall call on the PNP to support the AFP in combat operations”;
+
+**WHEREAS,** the National Democratic Front (NDF) has manifested its intention to resume armed struggle against the government and the Filipino people and the NDF negotiating panel has decided not to engage in further peace negotiations with the government;
+
+**WHEREAS,** as a result of the NDF termination of talks, the Central Committee of the Communist Party of the Philippines (CPP) has directed the New Peoples Army (NPA) to launch tactical offensives from its “guerilla fronts” in order to “capture weapons and deal blows against the Government”;
+
+**WHEREAS,** the NPA has started to undertake terroristic activities in several parts of the country;
+
+**WHEREAS,** while the AFP elements have been deployed to contain the insurgency problem throughout the country, there is need to continue mobilizing government resources to protect our people from the terroristic activities of the NPA and to preserve public order and safety;
+
+**WHEREAS,** the PNP is organized in the nature of a territorial force and, as such, has the presence of personnel in all the provinces, cities and municipalities of the country;
+
+**WHEREAS,** the National Peace and Order Council, in consultation with the Chairman of the Regional Peace and Order Councils, has recommended the utilization of the PNP in internal security operations against insurgency.
+
+**NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:
+
+## Section 1
+
+The PNP is hereby directed to support the AFP in internal security operations (ISO) for the suppression of insurgency and other serious threats to national security. For this purpose, the PNP is authorized to make appropriate adjustments in its organization subject to the approval of the National Police Commission.
+
+## Section 2
+
+There shall be established a joint AFP-PNP system which shall provide the mechanism, structure and procedures for the integrated assessment of the security situation and for the integrated planning, coordinating, implementation and monitoring of necessary measures aimed at enhancing the internal security of the state and its institutions.
+
+## Section 3
+
+The Department of National Defense and the Department of the Interior and Local Government shall jointly promulgate rules and regulations for the effective implementation of this Executive Order.
+
+## Section 4
+
+The initial funding requirements of the PNP to carry out the provisions of this Executive Order shall be jointly determined and recommended by the PNP and AFP for the approval of the President. The amount shall be drawn from the Contingent Fund and from other available funds in the CY 1998 and 1999 General Appropriations Act. For the succeeding years, the amount required shall be incorporated in the budget of PNP and the annual General Appropriations Act.
+
+## Section 5
+
+This Executive Order shall take effect immediately.
+
+DONE, in the City of Manila, this 15th day of June in the year of our Lord, Nineteen Hundred and Ninety-Nine.
+
+(Sgd.) **JOSEPH EJERCITO ESTRADA**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **RONALDO B. ZAMORA**
+Executive Secretary

@@ -1,0 +1,42 @@
+---
+title: "Executive Order No. 147 — Revoking Executive Order No. 124 Dated August 25, 1955, as Amended By Executive Order No. 125 Dated September 6, 1955, Segregating the Barrio of Bicos From the Municipality of Rizal, Province of Nueva Ecija, and Annexing the Same to the Municipality of Llanera, Same Province"
+identifier: "Executive Order No. 147"
+number: "147"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1955-12-28
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1955/eo_147_1955.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1955/pdf/eo_147_1955.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 147
+
+**Revoking Executive Order No. 124 Dated August 25, 1955, as Amended By Executive Order No. 125 Dated September 6, 1955, Segregating the Barrio of Bicos From the Municipality of Rizal, Province of Nueva Ecija, and Annexing the Same to the Municipality of Llanera, Same Province**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 147, December 28, 1955 ]
+
+REVOKING EXECUTIVE ORDER NO. 124 DATED AUGUST 25, 1955, AS AMENDED BY EXECUTIVE ORDER NO. 125 DATED SEPTEMBER 6, 1955, SEGREGATING THE BARRIO OF BICOS FROM THE MUNICIPALITY OF RIZAL, PROVINCE OF NUEVA ECIJA, AND ANNEXING THE SAME TO THE MUNICIPALITY OF LLANERA, SAME PROVINCE
+
+Pursuant to the powers vested in me by law, **I, RAMON MAGSAYSAY** , President of the Philippines, do hereby revoke Executive Order No. 124 dated August 25, 1955, as amended by Executive Order No. 125 dated September 6, 1955, segregating the barrio of Bicos from the municipality of Rizal, province of Nueva Ecija, and annexing the same to the municipality of Llanera, same province.
+
+This Order shall take effect immediately.
+
+Done in the City of Manila, this 28th day of December, in the year of Our Lord, nineteen hundred and fifty-five, and of the Independence of the Philippines, the tenth.
+
+(Sgd.) **RAMON MAGSAYSAY**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **MARIANO YENKO, JR.**
+Assistant Executive Secretary

@@ -1,0 +1,58 @@
+---
+title: "Executive Order No. 22 — Amending Paragraph (D), Section 5, of Executive Order No. 6, Dated July 17, 1946, Entitled “Promulgating Rules and Regulations Governing the Construction, Installation and Operation of Radio Transmitting Stations, Radio Receiving Stations for Commercial Purposes of Television or Radio Broadcasting Stations Under Temporary Permits Issued By the President.”"
+identifier: "Executive Order No. 22"
+number: "22"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1946-10-16
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1946/eo_22_1946.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1946/pdf/eo_22_1946.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 22
+
+**Amending Paragraph (D), Section 5, of Executive Order No. 6, Dated July 17, 1946, Entitled “Promulgating Rules and Regulations Governing the Construction, Installation and Operation of Radio Transmitting Stations, Radio Receiving Stations for Commercial Purposes of Television or Radio Broadcasting Stations Under Temporary Permits Issued By the President.”**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ EXECUTIVE ORDER NO. 22, October 16, 1946 ]
+
+AMENDING PARAGRAPH (d), SECTION 5, OF EXECUTIVE ORDER NO. 6, DATED JULY 17, 1946, ENTITLED “PROMULGATING RULES AND REGULATIONS GOVERNING THE CONSTRUCTION, INSTALLATION AND OPERATION OF RADIO TRANSMITTING STATIONS, RADIO RECEIVING STATIONS FOR COMMERCIAL PURPOSES OF TELEVISION OR RADIO BROADCASTING STATIONS UNDER TEMPORARY PERMITS ISSUED BY THE PRESIDENT.”
+
+Pursuant to the powers vested in me by law, **I, MANUEL ROXAS** , President of the Philippines, do hereby order:
+
+## Section 1
+
+Paragraph (d), section 5, of Executive Order No. 6, dated July 17, 1946, entitled “Promulgating rules and regulations governing the construction, installation and operation of radio transmitting stations, radio receiving stations for commercial purposes of television or radio broadcasting stations under temporary permits issued by the President,” is hereby amended to read as follows:
+
+“(d) The permittee shall pay the necessary radio station construction permit and station license fees as required by Act No. 3846, as amended, otherwise known as the Radio Control Law, and shall be liable to pay the same taxes on its real property as other persons or corporations are now or hereafter may be required by law to pay. In addition to the fees above mentioned, the following fees shall be paid by the applicant or permittee:
+
+1\. For filing an application for temporary permit to construct, install, establish and operate a radio station P50.00
+
+2\. For the issuance of a temporary permit to construct, install, establish and operate a radio station P100.00"
+
+## Section 2
+
+All holders of temporary permits heretofore issued by the Radio Permit Committee shall be subject to the payment of the fees prescribed in paragraph (d), section 5, of Executive Order No. 6, dated July 17, 1946, as amended by section 1 hereof.
+
+## Section 3
+
+This Order shall take effect as of August 26, 1946.
+
+Done at the City of Manila this 16th day of October, in the year of Our Lord, nineteen hundred and forty-six, and of the Independence of the Philippines, the first.
+
+(Sgd.) **MANUEL ROXAS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **EMILIO ABELLO**
+Chief of the Executive Office

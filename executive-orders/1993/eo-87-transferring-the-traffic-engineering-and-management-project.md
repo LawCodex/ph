@@ -1,0 +1,49 @@
+---
+title: "Executive Order No. 87 — Transferring the Traffic Engineering and Management-Project Management Office (TEAM-PMO) from the Department of Transportation and Communication to the Office of the President"
+identifier: "Executive Order No. 87"
+number: "87"
+type: executive_order
+jurisdiction: ph
+language: en
+date: 1993-05-06
+status: unknown
+source: "https://lawphil.net/executive/execord/eo1993/eo_87_1993.html"
+source_pdf: "https://lawphil.net/executive/execord/eo1993/pdf/eo_87_1993.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Executive Order No. 87
+
+**Transferring the Traffic Engineering and Management-Project Management Office (TEAM-PMO) from the Department of Transportation and Communication to the Office of the President**
+
+MALACAÑAN PALACE  
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+[ Executive Order No. 87, May 6, 1993 ]
+
+TRANSFERRING THE TRAFFIC ENGINEERING AND MANAGEMENT-PROJECT MANAGEMENT OFFICE (TEAM-PMO) FROM THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATION TO THE OFFICE OF THE PRESIDENT
+
+WHEREAS, the TEAM-PMO was originally under the supervision of the Department of Public Works and Highways by virtue of Loan Agreements between the Government of the Republic of the Philippines, on the one hand, and the Overseas Economic Cooperation Fund (OECF) and the International Bank for Reconstruction and Development (IBRD), on the other hand;
+
+**WHEREAS,** the TEAM-PMO is presently attached to the Department of Transportation and Communications as a result of a Memorandum of Agreement dated 16 April 1990 between the Department of Transportation and Communications and the Department of Public Works and Highways;
+
+**WHEREAS,** there is a need for the transfer of the TEAM-PMO from the Department of Transportation and Communications to the Office of the President in order for the TEAM-PMO to effectively discharge its functions; and
+
+**WHEREAS,** Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987 grants the President of the Philippines the continuing authority to reorganize the Office of the President by, among others, transferring any agency or function of any executive department to the Office of the President.
+
+**NOW, THEREFORE, I, FIDEL V. RAMOS,** President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the transfer of the Traffic Engineering and Management-Project Management Office from the Department of Transportation and Communications to the Office of the President.
+
+This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 6th day of May in the year of Our Lord, Nineteen Hundred and Ninety-Three.
+
+(Sgd.) **FIDEL V. RAMOS**
+President of the Philippines
+
+By the President:
+
+(Sgd.) **ANTONIO T. CARPIO**
+Chief Presidential Legal Counsel

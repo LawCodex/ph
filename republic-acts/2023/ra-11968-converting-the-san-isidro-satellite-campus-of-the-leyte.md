@@ -1,0 +1,96 @@
+---
+title: "Republic Act No. 11968 — An Act Converting the San Isidro Satellite Campus of the Leyte Normal University Located in the Municipality of San Isidro, Province of Leyte, Into a Regular Campus of the Leyte Normal University to Be Known as the Leyte Normal University-San Isidro Campus, and Appropriating Funds Therefor"
+identifier: "Republic Act No. 11968"
+number: "11968"
+type: act
+jurisdiction: ph
+language: en
+date: 2023-12-20
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2023/ra_11968_2023.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2023/pdf/ra_11968_2023.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11968
+
+**An Act Converting the San Isidro Satellite Campus of the Leyte Normal University Located in the Municipality of San Isidro, Province of Leyte, Into a Regular Campus of the Leyte Normal University to Be Known as the Leyte Normal University-San Isidro Campus, and Appropriating Funds Therefor**
+
+Nineteenth Congress  
+Second Regular Session
+
+[ REPUBLIC ACT NO. 11968, December 20, 2023 ]
+
+AN ACT CONVERTING THE SAN ISIDRO SATELLITE CAMPUS OF THE LEYTE NORMAL UNIVERSITY LOCATED IN THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF LEYTE, INTO A REGULAR CAMPUS OF THE LEYTE NORMAL UNIVERSITY TO BE KNOWN AS THE LEYTE NORMAL UNIVERSITY-SAN ISIDRO CAMPUS, AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Short Title._ \- This Act shall be known as the "Leyte Normal University (LNU)-San Isidro Campus Act".
+
+## Section 2
+
+_Conversion of LNU-San Isidro Campus into a Regular Campus._ \- The LNU-San Isidro Satellite Campus located in the Municipality of San Isidro, Province of Leyte, is hereby converted into a regular campus of the LNU to be known as the LNU-San Isidro Campus.
+
+## Section 3
+
+_General Mandate._ \- The LNU-San Isidro Campus shall offer short-term, technical-vocational, undergraduate, and graduate courses within its areas of competency and specialization, pursuant to the mandate of the LNU, and according to its capability as the Board of Regents, hereinafter referred to as the Board, may deem necessary for the accomplishment of its objectives, and those which respond to the human resource development needs of the Province of Leyte and Eastern Visayas Region.
+
+The LNU-San Isidro Campus shall be mandated to undertake research and extension services, and production activities in support of the socioeconomic development and to provide progressive leadership in these areas.
+
+## Section 4
+
+_Supervision and Management of LNU-San Isidro Campus._ \- The LNU-San Isidro Campus shall be headed by a Campus Administrator, to be appointed by the Board subject to the guidelines, qualifications, and standards set by the Board, and upon the recommendation of a search committee duly constituted for the purpose of selecting the Campus Administrator.
+
+## Section 5
+
+_Compliance with the Requirements of the Commission on Higher Education._ \- The LNU shall ensure the compliance of the LNU-San Isidro Campus with the policies, standards, and guidelines of the Commission on Higher Education (CHED) for the operation of regular campuses, including those related to the offering of courses and the introduction of new or revised programs prior to its conversion as a regular campus.
+
+## Section 6
+
+_Management of Personnel, Assets and Records of the Campus._ \- All assets, both real and personal, personnel, and records of the LNU-San Isidro Satellite Campus, as well as its liabilities or obligations, shall be transferred to the LNU. The positions, rights, and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a regular campus shall be respected.
+
+All parcels of land belonging to the government occupied by the LNU-San Isidro Satellite Campus shall be transferred to the LNU: _Provided,_ That should the campus or the LNU cease to exist or be abolished or should such aforementioned parcels of land be no longer needed by the LNY, the same shall revert to the local government unit concerned or the Republic of the Philippines, as the case may be.
+
+## Section 7
+
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.1aшphi1
+
+## Section 8
+
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act, including those required to fund the plantilla positions of teaching and non-teaching personnel of the LNU-San Isidro Campus, shall be included in the annual General Appropriations Act (GAA).
+
+The Municipality of San Isidro shall provide the same assistance until such time that the amount necessary for the continued operation and maintenance of the LNU-San Isidro Campus shall be included in the annual GAA.
+
+## Section 9
+
+_Implementing Rules and Regulations._ \- Within sixty (60) days from the effectivity of this Act, the Board shall, in consultation with the CHED, issue rules and regulations to implement the provisions of this Act.
+
+## Section 10
+
+_Separability Clause._ \- If, for any reason, any part or provisions of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+## Section 11
+
+_Repealing Clause._ \- All other laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are repealed or modified accordingly.
+
+## Section 12
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (SGD.) JUAN MIGUEL F. ZUBIRI President of the Senate | (SGD.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
+|---|---|
+
+This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 23, 2023, amended by the Senate of the Philippines on September 25, 2023, and which amendments were concurred in by the House of Representatives on September 27, 2023.
+
+| (SGD.) RENATO N. BANTUG, JR. Secretary of the Senate | (SGD.) REGINALD S. VELASCO Secretary General House of Representatives |
+|---|---|
+
+Approved: DEC 20 2023
+
+(SGD.) **FERDINAND ROMUALDEZ MARCOS JR.**
+President of the Philippines

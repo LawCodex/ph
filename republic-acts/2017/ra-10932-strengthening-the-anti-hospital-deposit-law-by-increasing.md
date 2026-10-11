@@ -1,0 +1,122 @@
+---
+title: "Republic Act No. 10932 — An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and..."
+identifier: "Republic Act No. 10932"
+number: "10932"
+type: act
+jurisdiction: ph
+language: en
+date: 2017-08-03
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2017/ra_10932_2017.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2017/pdf/ra_10932_2017.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 10932
+
+**An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and...**
+
+Seventeenth Congress  
+First Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.
+
+**REPUBLIC ACT No. 10932**
+
+An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Admintster Appropriate Initial Medical Treatment and Support in Emergency or Serious Cases, Amending for the Purpose Batas Pambansa Bilang 702, Otherwlse Known as "An Act Prohibiting the Demand of Deposits or Advance Payments for the Confinement or Treatment of Patients in Hospitals and Medical Clinics in Certain Cases", As Amended by Republic Act No. 8344, and for Other Purposes
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section 1 of Batas Pambansa Bilang 702, as amended, is hereby further amended to read as follows:
+
+"Sec. 1. In emergency or serious cases, it shall be unlawful for any proprietor, president, director, manager or any other officer and/or medical practitioner or employee of a hospital or medical clinic to request, solicit, demand or accept any deposit or any other form of advance payment as a prerequisite for administering basic emergency care to any patient, confinement or medical treatment of a patient in such hospital or medical clinic or to refuse to administer medical treatment and support as dictated by good practice of medicine to prevent death, or permanent disability, or in the case of a pregnant woman, permanent injury or loss of her unborn child, or noninstitutional delivery: _Provided,_ That by reason of inadequacy of the medical capabilities of the hospital or medical clinic, the attending physician may transfer the patient to a facility where the appropriate care can be given, after the patient or his next of kin consents to said transfer and after the receiving hospital or medical clinic agrees to the transfer: _Provided,_ however, That when the patient is unconscious, incapable of giving consent and/or unaccompanied, the physician can transfer the patient even without his consent: _Provided, further,_ That such transfer shall be done only after necessary emergency treatment and support have been administered to stabilize the patient and after it has been established that such transfer entails less risks than the patient’s continued confinement: _Provided,_ furthermore, That no hospital or clinic, after being informed of the medical indications for such transfer, shall refuse to receive the patient nor demand from the patient or his next of kin any deposit or advance payment: _Provided, finally,_ That strict compliance with the foregoing procedure on transfer shall not be construed as a refusal made punishable by this Act."
+
+## Section 2
+
+Section 2 of the same Act, as amended, is hereby further amended to read as follows:
+
+"Sec. 2. For purposes of this Act, the following definitions shall govern:
+
+"(a) _‘Emergency’_ – a condition or state of a patient wherein based on the objective findings of a prudent medical officer on duty for the day there is immediate danger and where delay in initial support and treatment may cause loss of life or cause permanent disability to the patient, or in the case of a pregnant woman, permanent injury or loss of her unborn child, or would result in a noninstitutional delivery.
+
+"(b) _‘Serious case’_ – refers to a condition of a patient characterized by gravity or danger wherein based on the objective findings of a prudent medical officer on duty for the day when left unattended to, may cause loss of life or cause permanent disability to the patient, or in the case of a pregnant woman, permanent injury or loss of her unborn child.
+
+"x x x
+
+"(i) _‘Basic emergency care’_ – the response to a situation where there is urgently required medical care and attention, and shall include procedures required for initial diagnosis, use of equipment and supplies in sufficiently addressing the emergency situation, considering the welfare of the patient. It also includes the necessary medical procedures and treatment administered to a woman in active labor to ensure the safe delivery of the newborn.
+
+"(j) ‘Noninstitutional delivery’ – the delivery of a newborn while in transit, outside of a health facility, after an initial consultation was done with a health facility."
+
+## Section 3
+
+Section 3 of the same Act, as amended, is hereby further amended to read as follows:
+
+"Sec. 3. After the hospital or medical clinic mentioned above shall have administered medical treatment and support, it may cause the transfer of the patient to an appropriate hospital consistent with the needs of the patient, especially in the case of poor or indigent patients.
+
+"Where there is no ambulance available for use by the hospital or medical clinic for the emergency transfer of the patient to a facility where the appropriate care shall be given, the local government unit (LGU) where the hospital or medical clinic is located must allow the free use of its emergency vehicle to transport the patient to the hospital or medical clinic where a continuation of care shall be given. The hospital or medical clinic must provide a staff nurse with advanced cardiovascular life support (ACLS) certification or its equivalent to accompany the patient in the emergency vehicle.
+
+"All hospitals are required to post at their entrance a notice indicating the classification level of the hospital as licensed by the Department of Health (DOH) and the list of medical services that the hospital is authorized to perform."
+
+## Section 4
+
+Section 4 of the same Act, as amended, is hereby further amended to read as follows:
+
+"Sec. 4. Any official, medical practitioner or employee of the hospital or medical clinic who violates the provisions of this Act shall, upon conviction by final judgment, be punished by imprisonment of not less than six (6) months and one (1) day but not more than two (2) years and four (4) months, or a fine of not less than One hundred thousand pesos (₱100,000.00), but not more than Three hundred thousand pesos (₱300,000.00) or both, at the discretion of the court: _Provided,_ however, That if such violation was committed pursuant to an established policy of the hospital or clinic or upon instruction of its management, the director or officer of such hospital or clinic responsible for the formulation and implementation of such policy shall, upon conviction by final judgment, suffer imprisonment of four (4) to six (6) years, or a fine of not less than Five hundred thousand pesos (₱500,000.00), but not more than One million pesos (₱1,000,000.00) or both, at the discretion of the court, without prejudice to damages that may be awarded to the patient-complainant: _Provided, further,_ That upon three (3) repeated violations committed pursuant to an established policy of the hospital or clinic or upon the instruction of its management, the health facility’s license to operate shall be revoked by the DOH. The president, chairman, board of directors, or trustees, and other officers of the health facility shall be solidarily liable for damages that may be awarded by the court to the patient-complainant."
+
+## Section 5
+
+New Sections 5, 6, 7 and 8 shall be inserted after Section 4 of Batas Pambansa Bilang 702, as amended, to read as follows:
+
+"Sec. 5. _Presumption of Liability._ \- In the event of death, permanent disability, serious impairment of the health condition of the patient-complainant, or in the case of a pregnant woman, permanent injury or loss of her unborn child, proceeding from the denial of his or her admission to a health facility pursuant to a policy or practice of demanding deposits or advance payments for confinement or treatment, a presumption of liability shall arise against the hospital, medical clinic, and the official, medical practitioner, or employee involved."
+
+"Sec. 6. _Health Facilities Oversight Board._ \- All complaints for violations of this Act against health facilities shall be filed initially with the Health Facilities Oversight Board under the Health Facilities and Services Regulatory Bureau (HFSRB) of the DOH. The Board shall be composed of a DOH representative with a minimum rank of director to serve as Chair, a representative from the Philippine Health Insurance Corporation (PhilHealth), a representative from the Philippine Medical Association (PMA), a representative from private health institutions, and three (3) representatives from nongovernment organizations (NGOs) advocating for patient’s rights and public health, one of whom should be a licensed physician.
+
+"The Board shall investigate the claim of the patient and after adjudication. impose administrative sanctions in accordance with this Act including the revocation of the health facility’s license.1awp++i1 On the basis of its own findings, the Board shall also facilitate the filing of the criminal case in the proper courts. This is without prejudice to the right of the patient-complainant to directly institute criminal proceedings in the courts."
+
+"Sec. 7. _PhilHealth Reimbursement of Basic Emergency Care._ \- PhilHealth shall reimburse the cost of basic emergency care and transportation services incurred by the hospital or medical clinic for the emergency medical services given to poor and indigent patients. Furthermore, the Philippine Charity Sweepstakes Office (PCSO) shall provide medical assistance for the basic emergency care needs of the poor and marginalized groups."
+
+"Sec. 8. _Tax Deductions._ \- Other expenses incurred by the hospital or medical clinic in providing basic emergency care to poor and indigent patients not reimbursed by PhilHealth shall be tax deductible."
+
+## Section 6
+
+Section 5 of the same Act, as amended, shall be renumbered as Section 9, and is hereby further amended to read as follows:
+
+"Sec. 9. _Implementing Rules and Regulations._ \- The DOH, in coordination with PhilHealth and the Bureau of Internal Revenue (BIR), and in consultation with NGOs advocating for patients rights and public health, shall promulgate the necessary rules and regulations to carry out the provisions of this Act within ninety (90) days from the effectivity thereof."
+
+## Section 7
+
+_Separability Clause._ \- If any part or provision of this Act is declared unconstitutional or invalid, other parts or provisions hereof which are not affected shall continue to be in full force and effect.
+
+## Section 8
+
+_Repealing Clause._ \- All laws, decrees, executive orders, statutes, provisions, regulations and other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 9
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+
+Approved,
+
+**PANTALEON D. ALVAREZ**
+Speaker of the House of Representatives
+
+**AQUILINO "KOKO" PIMENTEL**
+President of the Senate
+
+This Act which is a consolidation of Senate Bill No. 1353 and House Bill No. 5159 was finally passed by the Senate and the House of Representatives on May 24, 2017.
+
+**CESAR STRAIT PAREJA**
+Secretary General
+House of Representatives
+
+**LUTGARDO B. BARBO**
+Secretary of the Senate
+
+Approved: August 3, 2017
+
+(Sgd.) **RODRIGO ROA DUTERTE**
+President of the Philippines

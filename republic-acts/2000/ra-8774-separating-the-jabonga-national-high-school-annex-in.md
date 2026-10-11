@@ -1,0 +1,46 @@
+---
+title: "Republic Act No. 8774 — An Act Separating the Jabonga National High School Annex in Barangay Cuyago, Jabonga, Agusan del Norte from the Jabonga National High School in Barangay Poblacion, Jabonga, Agusan del Norte and Converting the same into an Independent National High School to be known as the Cuyago National High School and Appropriating Funds Therefor"
+identifier: "Republic Act No. 8774"
+number: "8774"
+type: act
+jurisdiction: ph
+language: en
+date: 2000-03-28
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2000/ra_8774_2000.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2000/pdf/ra_8774_2000.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 8774
+
+**An Act Separating the Jabonga National High School Annex in Barangay Cuyago, Jabonga, Agusan del Norte from the Jabonga National High School in Barangay Poblacion, Jabonga, Agusan del Norte and Converting the same into an Independent National High School to be known as the Cuyago National High School and Appropriating Funds Therefor**
+
+Eleventh Congress
+
+**REPUBLIC ACT No. 8774 March 28, 2000**
+
+AN ACT SEPARATING THE JABONGA NATIONAL HIGH SCHOOL ANNEX IN BARANGAY CUYAGO, JABONGA, AGUSAN DEL NORTE FROM THE JABONGA NATIONAL HIGH SCHOOL IN BARANGAY POBLACION, JABONGA, AGUSAN DEL NORTE AND CONVERTING THE SAME INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CUYAGO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+## SECTION 1
+
+The existing Jabonga National High School Annex in Barangay Cuyago, Jabonga, Agusan del Norte is hereby separated from the Jabonga National High School in Barangay Poblacion, Jabonga, Agusan del Norte and the same is hereby converted into a national high school to be known as the Cuyago National High School.
+
+## Section 2
+
+The Secretary of Education Culture and Sports - shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
+
+## Section 3
+
+All personnel, records, assets and properties, funds and obligations of the Jabonga National High School Annex are hereby transferred to the Cuyago National High School.
+
+## Section 4
+
+The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriation of the Jabonga National High School - Cuyago Annex. Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Cuyago National High School shall be included in the annual General Appropriations Act.
+
+## Section 5
+
+This Act shall take effect upon its approval.
+
+Approved, **March 28, 2000**

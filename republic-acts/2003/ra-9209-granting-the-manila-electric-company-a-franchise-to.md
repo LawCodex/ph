@@ -1,0 +1,132 @@
+---
+title: "Republic Act No. 9209 — An Act Granting the Manila Electric Company a Franchise to Construct, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the Cities/municipalities of Metro Manila, Bulacan, Cavite and Rizal, and Certain Cities/municipalities/barangays in Batangas, Laguna, Quezon and Pampanga"
+identifier: "Republic Act No. 9209"
+number: "9209"
+type: act
+jurisdiction: ph
+language: en
+date: 2003-06-09
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2003/ra_9209_2003.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2003/pdf/ra_9209_2003.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 9209
+
+**An Act Granting the Manila Electric Company a Franchise to Construct, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the Cities/municipalities of Metro Manila, Bulacan, Cavite and Rizal, and Certain Cities/municipalities/barangays in Batangas, Laguna, Quezon and Pampanga**
+
+Twelfth Congress  
+Second Regular Session
+
+Begun held in Metro Manila on Monday, the twenty-second day of July, two thousand two
+
+**REPUBLIC ACT NO. 9209 June 09, 2003**
+
+AN ACT GRANTING THE MANILA ELECTRIC COMPANY A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN A DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE CITIES/MUNICIPALITIES OF METRO MANILA, BULACAN, CAVITE AND RIZAL, AND CERTAIN CITIES/MUNICIPALITIES/BARANGAYS IN BATANGAS, LAGUNA, QUEZON AND PAMPANGA
+
+_Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:_
+
+## Section 1
+
+Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulation, there is hereby granted to Manila Electric Company (MERALCO), hereunder referred to as the grantee, its successors or assigns, a franchise to construct, operate and maintain in the public interest and commercial purposes, a distribution system for the conveyance of electric power to the end-users in the cities and municipalities of Caloocan, Las Pinas, Makati, Malabon, Mandaluyong, Manila, Marikina, Muntinlupa, Navotas, ParaÃ±aque, Pasay, Pasig, Pateros, Quezon City, San Juan, Taguig and Valenzuela of Metro Manila; cities and municipalities of Angat, Balagtas, Baliuag, Bocaue, Bulacan, Bustos, Calumpit, DoÃ±a R. Trinidad, Guiguinto. Hagonoy, Malolos, Marilao, Meycauayan, Norzagaray, Obando, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Jose del Monte, San Miguel, San Rafael and Sta. Maria, Province of Bulacan; cities and municipalities of Alfonso, Amadeo, Bacoor, Carmona, Cavite, Dasmarinas, Gen. Alvarez, Gen. E. Aguinaldo, Gen Trias, Imus, Indang, Kawit, Magallanes, Maragondon, Mendez NuÃ±ez, Naic, Noveleta, Rosario, Silang, Tagaytay, Tanza, Ternate and Trece Martires, Province of Cavite, cities and municipalities of Angono, Antipolo, Baras, Binangonan, Cainta, Cardona, Jala-Jala, Montalban, Morong, Pililla, San Mateo, Tanay, Taytay and Teresa, Province of Rizal; cities and municipalities of Alaminos, bay, BiÃ±an, Cabuyao, Calamba, Calauan, Liliw, Los BaÃ±os, Luisiana, Magdalena, Majayjay, Nagcarlan, Pila, Rosa and Victoria, Province of Laguna; cities and municipalities of Candelaria, Dolores, San Antonio, Sariaya, Tayabas and Tiaong, Province of Quezon; barangays of Balucuc and Concepcion in San Simon, Pampanga; and Barangays of Bahay Pare, Barangca, Dulong Ilog, Mangumbali, Mandili, Mapaniqui, Paligui, Pangclara, Pulong Gubat, Pulong Palazan, Salapungan, Vizal San Pablo, Vizal Santo Cristo and Vizal Sto. Nino in Candaba, Pampanga. As used in this Act, distribution system refers to the system of wires and associated facilities including sub-transmission lines belonging to a franchised distribution utility extending between the delivery point on the national transmission system or generating facility and the metering point/facility of the end-user.
+
+## Section 2
+
+Manner of Operations of Facilities. - All electric distribution facilities, lines, and systems for electric services owned, maintained, operated or managed by the grantee, its successors or assigns shall be operated and maintained at all times in a superior manner, and it shall be the duty of the grantee, its successors or assigns, whenever required to do so by the Energy Regulatory Commission, hereafter referred to as the ERC, or its legal successor, to modify, improve and change such facilities or systems in such manner and to such extent as the progress in science and improvement in the electric power services may render reasonable and proper. Whenever practicable and for purposes of maintaining order, safety and aesthetics along the highways, roads, streets, alleys or right-of-way, the grantee may allow the use of free spaces in its poles, facilities or right-of-way by interested parties upon reasonable compensation to the grantee considering costs incurred to accommodate and administer the use of the grantee's facilities by such parties. The ERC shall decide in case of dispute or disagreement between the parties.
+
+## Section 3
+
+Ingress and Egress. - For the purpose of erecting and maintaining poles and other supports for said facilities, wires or other conductors or for the purpose of laying and maintaining poles and other supports for said facilities, wires or other conductors or for the purpose of laying and maintaining said facilities, wires, cables, or other conductors, it shall be lawful for the grantee, its successors and assigns, with the prior approval of the Department of Public Works and Highways (DPWH) or the local government units (LGUs) concerned, as may be appropriate, to make excavations or lay conduits in any of the public places, highways, streets, lanes, alleys, avenues, sidewalk or bridges of said provinces: Provided, however, That any public place, highways, street, lane, avenue, sidewalk or bridge disturbed, altered or changed by reason of the erection of poles or other supports, or the laying of wires, other conductors or conduits, shall be immediately repaired and properly restored at the expense of the grantee, its successors and assigns, in accordance with the standards set by the DPWH and concerned LGUs.
+
+## Section 4
+
+Responsibility to the Public. - The grantee shall supply electricity to its captive market in the least cost manner. In the interest of the public good and as far as feasible and whenever required by the ERC, the grantee shall modify, improve or change its facilities, poles, lines, systems and equipment for the purpose of providing efficient and reliable service and reduced electricity costs. The grantee shall charge reasonable, just and competitive power rates for its services to all types of consumers within its franchised area in order that business and industries shall be able to compete. The grantee shall have the obligation to provide open and nondiscriminatory access to its distribution system and services for any end-user within its franchise area consistent with Republic Act No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001". The grantee shall not engage in any activity that will constitute an abuse of market power such as but not limited to, unfair trade practices, monopolistic schemes and any other activities that will hinder competitiveness or business and industries.
+
+## Section 5
+
+Rates for Services. - The retail rates to its captive market and charges for the distribution of electric power by the grantee to its end-users shall be regulated by and subject to the approval of the ERC. The grantee shall identify and segregate in its bill to the end-users the components of the retail rate pursuant to Republic Act No. 9136, unless otherwise amended. Such rates charged by the grantee to the end-users shall be made public and transparent. The grantee shall implement lifeline rate to marginalized end-users as mandated under Republic Act No. 9136.
+
+## Section 6
+
+Promotion of Consumer Interests. - The herein grantee shall establish a consumer desks that will handle consumer complaints and ensure adequate promotion of consumer interest. The grantee shall act with dispatch on all complaints brought before it.
+
+## Section 7
+
+Right of the Government. - A special right is hereby reserved to the President of the Philippines in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order to take over and operate the distribution system of the grantee or to authorize the temporary use and operation thereof by any agency/department of the government upon due compensation to the grantee for the use of the said distribution system during the period when they shall be operated.
+
+## Section 8
+
+Right of Eminent Domain. - Subject to the limitations and procedures prescribed by law, the grantee is authorized to exercise the right of eminent domain insofar as it may be reasonably necessary for the efficient maintenance and operation of services. The grantee is authorized to install and maintain its poles, wires and other facilities over and across public property, including streets, highways, forest reserves and other similar property of the government of the Philippines, its branches or any of its instrumentalities. The grantee may acquire such private property as is actually necessary for the realization of the purposes for which this is granted: Provided, That proper condemnation proceedings shall have been instituted and just compensation paid.
+
+## Section 9
+
+Term of Franchise. - This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled by Congress for any violation of the terms and/or provisions of the franchise herein granted.
+
+## Section 10
+
+Acceptance and Compliance. - Acceptance of this franchise shall be given in writing within sixty (60) days after the effectivity of this Act.
+
+## Section 11
+
+Warranty in Favor of National and Local Government.- The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or persons, caused by the construction, installation, operation and maintenance of the distribution system of the grantee.
+
+## Section 12
+
+Liability for Damages. - The grantee shall be liable for any injury and damage arising from or caused by accident to persons and property by reason of any defective construction under this franchise or of any neglect or omission to keep its poles and wires in a safe condition.
+
+## Section 13
+
+Sale, Lease, Transfer, Usufruct, Etc. - The grantee shall not lease, transfer, grant the usufruct of or sell this franchise or the rights and privileges acquired thereunder to any person, firm, company corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor shall the controlling interest of the grantee be transferred whether in whole or in part, and whether simultaneously or contemporaneously, to any such person, firm, company corporation or entity without the prior approval of the Congress of the Philippines, except to a wholly-owned subsidiary of the grantee or where the grantee is the surviving corporation: Provided,That any such transfer, sale or assignment is in accordance with the constitutional limitations. Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions and limitations of this Act.
+
+## Section 14
+
+Reportorial Requirement. - The grantee shall submit an annual report of finances and operations to the Congress of the Philippines.
+
+## Section 15
+
+Equality Clause. - In the event that any competing individual, partnership or corporation shall receive a similar permit or franchise with terms and/or provisions more favorable than those herein granted or which tend to place the herein grantee at any disadvantage, such terms and/or provisions shall be deemed part hereof and shall operate equally in favor of the herein grantees: Provided, That any terms and/or provisions herein granted shall likewise be enjoyed by the future grantees: Provided, however, That the foregoing shall neither apply to nor affect the provisions concerning territory covered by the franchise and the life-span of the franchise.
+
+## Section 16
+
+Applicability Clause.- The grantee shall comply with and be subject to the provisions of Commonwealth Act No. 146, as amended, otherwise known as the "Public Services Act" and Republic Act No. 9136.
+
+## Section 17
+
+Repealability and Nonexclusivity Clause. - This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 18
+
+Separability Clause. - If for any reason, any of the sections or provisions of this Act is declared unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+## Section 19
+
+Repealing Clause. - Acts 484 and 3648, as amended, Republic Act No. 3444 and all other laws, decrees, orders, resolutions, instructions and rules and regulations or parts thereof, which are consistent herewith, are hereby deemed repealed or modified accordingly.
+
+## Section 20
+
+Effectivity. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspaper of general circulation in the Philippines.
+
+Approved,
+
+<table>
+<tr>
+<td><b>FRANKLIN M. DRILON</b><br/>President of the Senate</td>
+<td><b>JOSE DE VENECIA JR.</b><br/>Speaker of the House of Representatives</td>
+</tr>
+</table>
+
+This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 13, 2002 and March 20, 2003, respectively.
+
+<table>
+<tr>
+<td><b>OSCAR G. YABES</b><br/>Secretary of Senate</td>
+<td><b>ROBERTO P. NAZARENO</b><br/>Secretary General<br/>House of Represenatives</td>
+</tr>
+</table>
+
+Approved: JUN 9 2003
+
+GLORIA MACAPAGAL-ARROYO  
+President of the Philippines

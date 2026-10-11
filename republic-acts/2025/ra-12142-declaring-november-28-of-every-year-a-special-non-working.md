@@ -1,0 +1,47 @@
+---
+title: "Republic Act No. 12142 — An Act Declaring November 28 of Every Year a Special Non-working Holiday in the Province of Sarangani in Commemoration of Its Foundation Anniversary"
+identifier: "Republic Act No. 12142"
+number: "12142"
+type: act
+jurisdiction: ph
+language: en
+date: 2025-03-27
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2025/ra_12142_2025.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2025/pdf/ra_12142_2025.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 12142
+
+**An Act Declaring November 28 of Every Year a Special Non-working Holiday in the Province of Sarangani in Commemoration of Its Foundation Anniversary**
+
+[ REPUBLIC ACT NO. 12142, March 27, 2025 ]
+
+AN ACT DECLARING NOVEMBER 28 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF SARANGANI IN COMMEMORATION OF ITS FOUNDATION DAY
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+November 28 of every year is hereby declared a special non-working holiday in the Province of Sarangani in commemoration of its foundation anniversary.
+
+## Section 2
+
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+
+Approved,
+
+| (SGD.) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (SGD.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
+|---|---|
+
+This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 21, 2022 and December 17, 2024, respectively.
+
+| (SGD.) RENATO N. BANTUG, JR. Secretary of the Senate | (SGD.) REGINALD S. VELASCO Secretary General House of Representatives |
+|---|---|
+
+Approved: MAR 27 2025
+
+(SGD.) **FERDINAND ROMUALDEZ MARCOS JR.**
+President of the Philippines

@@ -1,0 +1,142 @@
+---
+title: "Republic Act No. 11542 — An Act Granting the Highland Broadcasting Network Corp. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in Mindanao"
+identifier: "Republic Act No. 11542"
+number: "11542"
+type: act
+jurisdiction: ph
+language: en
+date: 2021-05-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2021/ra_11542_2021.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2021/pdf/ra_11542_2021.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11542
+
+**An Act Granting the Highland Broadcasting Network Corp. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in Mindanao**
+
+Eighteenth Congress  
+Second Regular Session  
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+[ REPUBLIC ACT NO. 11542, May 18, 2021 ]
+
+AN ACT GRANTING HIGHLAND BROADCASTING NETWORK CORP. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN MINDANAO
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Highland Broadcasting Network Corp., hereunder referred to as the grantee, its successors or assignees, a franchise to construct, install, operate, and maintain for commercial purposes and in the public interest, radio and television broadcasting stations in Mindanao, where frequencies and channels are still available for radio and television broadcasting, including digital television system, through microwave, satellite or whatever means, as well as the use of any new technology in television and radio systems, with the corresponding technological auxiliaries or facilities, special broadcast and other programs, and distribution services and relay stations.
+
+## Section 2
+
+_Manner of Operation of Stations or Facilities._ — The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own privilege to use its assigned wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
+
+## Section 3
+
+_Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+In case of any violation of the provisions of this franchise, the NTC shall have the authority to revoke or suspend, after due process, the permits or licenses it issued pursuant to the franchise. The NTC may recommend to Congress the revocation of the franchise for any violation of the provisions of this franchise.
+
+## Section 4
+
+_Responsibility to the Public._ \- The grantee shall provide, free of charge, adequate public service time which is reasonable and sufficient to enable the government, through the broadcasting stations or facilities of the grantee, to reach the pertinent populations or portions thereof, on important public issues and relay important public announcements and warnings concerning public emergencies and calamities, as necessity, urgency, or law may require; provide at all times sound and balanced programming; promote public participation; assist in the functions of public information and education; conform to the ethics of honest enterprise; promote audience sensibility and empowerment including closed captioning; and not use its stations or facilities for the broadcasting of obscene or indecent language, speech, act, or scene; or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of public interest; or to incite, encourage, or assist in subversive or treasonable acts.
+
+Public service time referred herein shall be equivalent to a maximum aggregate of ten percent (10%) of paid commercials or advertisements which shall be allocated based on need to the Executive and Legislative branches, the Judiciary, Constitution Commissions, and international humanitarian organizations duly recognized by statutes: _Provided,_ That the NTC shall increase the public service time in case of extreme emergency or calamity. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other similarly situated broadcast network franchise holders.
+
+Pursuant to Republic Act No. 8370, otherwise known as the "Children's Television Act of 1997", the grantee shall allot a minimum of fifteen percent (15%0 of the daily total air time of each broadcasting network or station to child-friendly shows within its regular programming.
+
+## Section 5
+
+_Right of the Government._ — The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
+
+A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
+
+## Section 6
+
+_Term of Franchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to comply with any of the following conditions:
+
+(a) Commencement of operations within three (3) years from the approval of its operating permit by the NTC;
+
+(b) Commencement of operations within five (5) years from the effectivity of this Act; and
+
+(c) Continuous operation for two (2) years.
+
+## Section 7
+
+_Renewal or Extension of Franchise._ \- The grantee shall apply for the renewal or extension of its franchise three (3) years before its expiration date which shall be reckoned fifteen (15) days after the publication of the franchise in the Official Gazette or in a newspaper of general circulation,
+
+## Section 8
+
+_Self-regulation by and Undertaking of the Grantee._ — The grantee shall not require any previous censorship of any speech, play, act, or scene, or other matter to be broadcast from its stations: _Provided,_ That the grantee, during any broadcast, shall cut off from the air the speech, play, act, or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: _Provided,_ further, That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
+
+## Section 9
+
+_Warranty in Favor of the National and Local Governments._ \- The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents causing injury to persons or damage to properties, during the construction or operation of the stations of the grantee.
+
+## Section 10
+
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ — The grantee shall create employment opportunities and shall allow on-the-job trainings in their franchise operations: Provided; That priority shall be accorded to the residents in areas where the principal office of the grantee is located: _Provided,_ further, That the grantee shall ensure that at least sixty percent (60%) of its employees are regular employees and in no case shall the percentage of contractual employees, job order and casual employees, and independent contractors combined, exceed forty percent (40%) of its total workforce: _Provided,_ finally, That the grantee shall comply with applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.
+
+The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to he Securities and Exchange Commission (SEC) annually. In addition, the grantee shall include in its annual report to Congress the number of trainees and workers whose employment status are made regular, and append the appropriate certificate from the Department of Labor and Employment attesting that it has complied with the employment requirement under this section.
+
+## Section 11
+
+_Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ \- The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation, or other commercial or legal entity, not merge with any other corporation or entity, nor shall the controlling interest of the grantee be transferred, simultaneously or contemporaneously, to any person, firm, company, corporation, or entity without the prior approval of the Congress. The grantee shall inform the Congress of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of the said transaction. Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which the this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
+
+## Section 12
+
+_Dispersal of Ownership._ \- In accordance with the constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) of its outstanding capital stocks, or a higher percentage that may hereafter be provided by law, in any securities exchange in the Philippines within five (5) years from the effectivity of this Act: _Provided,_ That in cases where public offer shares is not applicable, other methods of encouraging public participation by citizens and corporations operating public utilities must be implemented. Noncompliance therewith shall render the franchise ipso facto revoked.
+
+## Section 13
+
+_Reportorial Requirement._ — The grantee shall submit an annual report on its compliance with the terms and conditions of the franchise and on its operations to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on or before April 30 of every year during the term of its franchise.
+
+The annual report shall include an update on the roll-out, development, operation, or expansion of business; audited financial statements; latest General Information Sheet officially submitted to SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
+
+The reportorial compliance certificate issued by the Congress shall be required before any application for permit or certificate is accepted by the NTC.
+
+## Section 14
+
+_Fine._ — Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.
+
+## Section 15
+
+_Equality Clause._ — Any advantage, favor, privilege, exemption, or immunity granted under existing franchises, or which may hereafter be granted for radio and/or television broadcasting, upon prior review and approval of Congress, shall become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: _Provided,_ That the foregoing shall neither apply to nor affect the provisions of broadcasting franchises concerning territorial coverage, the term, or the type of service authorized under the franchise.
+
+## Section 16
+
+_Repeatability and Nonexclusivity Clause._ — This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 17
+
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
+
+## Section 18
+
+_Repealing Clause._ \- All laws, decrees, orders, resolutions, instructions, rules and regulations, and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+## Section 19
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (SGD.) VICENTE C. SOTTO III President of the Senate | (SGD.) LORD ALLAN JAY Q. VELASCO Speaker of the House of Representatives |
+|---|---|
+
+This Act which originated in the House of Representatives was passed by the House of Representatives on March 9, 2021, amended by the Senate of the Philippines on March 24, 2021, and which amendments were concurred in by the House of Representatives on March 25, 2021.
+
+| (SGD.) MYRA MARIE D. VILLARICA Secretary of the Senate | (SGD.) MARK LLANDRO L. MENDOZA Secretary General House of Representatives |
+|---|---|
+
+Approved: MAY 18 2021
+
+<table>
+<tr>
+<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
+</tr>
+</table>

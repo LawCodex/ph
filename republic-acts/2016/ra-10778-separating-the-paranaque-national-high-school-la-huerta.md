@@ -1,0 +1,68 @@
+---
+title: "Republic Act No. 10778 — An Act Separating the Parañaque National High School — La Huerta Annex in Barangay La Huerta, City of Parañaque, Metro Manila From the Parañaque National High School, Converting It Into An Independent National High School to Be Known as La Huerta National High School and Apporiating Funds Therefor"
+identifier: "Republic Act No. 10778"
+number: "10778"
+type: act
+jurisdiction: ph
+language: en
+date: 2016-05-03
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2016/ra_10778_2016.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2016/pdf/ra_10778_2016.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 10778
+
+**An Act Separating the Parañaque National High School — La Huerta Annex in Barangay La Huerta, City of Parañaque, Metro Manila From the Parañaque National High School, Converting It Into An Independent National High School to Be Known as La Huerta National High School and Apporiating Funds Therefor**
+
+Sixteenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.
+
+[ REPUBLIC ACT NO. 10778, May 03, 2016 ]
+
+AN ACT SEPARATING THE PARAÑAQUE NATIONAL HIGH SCHOOL — LA HUERTA ANNEX IN BARANGAY LA HUERTA, CITY OF PARAÑAQUE, METRO MANILA FROM THE PARAÑAQUE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS LA HUERTA NATIONAL HIGH SCHOOL AND APPORIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+The Parañaque Nationa High School — La Huerta Annex in Barangay La Huerta, City of Parañaque, Metro Manila is hereby separated from the Parañaque National High School and converted into an independent national high school to be known as La Huerta National High School.
+
+## Section 2
+
+All personnel, assets, liabilities and records of the Parañaque National High School — La Huerta Annex are hereby transferred to and absorbed by the La Huerta National School.
+
+## Section 3
+
+The Secretary of Education shall immediately include in the Department's program the operationalization of the La Huerta National High School, the initial funding of which shall be charged against the current year's appropriation of the Parañaque National High School — La Huerta Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriation Act.
+
+## Section 4
+
+The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.ℒαwρhi৷
+
+## Section 5
+
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (Sgd.) FRANKLIN M. DRILON President of the Senate | (Sgd.) FELICIANO BELMONTE JR. Speaker of the House of Representatives |
+|---|---|
+
+This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on February 23, 2015 and February 2, 2016, respectively.
+
+<table>
+<tr>
+<td>(Sgd.) <b>OSCAR G. YABES</b><br/>Secretary of the Senate</td>
+<td>(Sgd.) <b>MARILYN B. BARUA-YAP</b><br/>Secretary General<br/>House of Representatives</td>
+</tr>
+</table>
+
+Approved: MAY 03 2016
+
+(Sgd.) **BENIGNO S. AQUINO III**
+President of the Philippines

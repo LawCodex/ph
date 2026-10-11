@@ -1,0 +1,101 @@
+---
+title: "Republic Act No. 11194 — An Act Mandating the Conservation of Gabaldon School Buildings Nationwide , Providing Penalties for Violations, and Appropriating Funds Therefor"
+identifier: "Republic Act No. 11194"
+number: "11194"
+type: act
+jurisdiction: ph
+language: en
+date: 2019-01-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2019/ra_11194_2019.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2019/pdf/ra_11194_2019.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11194
+
+**An Act Mandating the Conservation of Gabaldon School Buildings Nationwide , Providing Penalties for Violations, and Appropriating Funds Therefor**
+
+Seventeenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+**REPUBLIC ACT No. 11194**
+
+**An Act Mandating the Conservation of Gabaldon School Buildings Nationwide _,_ Providing Penalties for Violations, and Appropriating Funds Therefor**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+_Short Title._ \- This Act shall be known as the "Gabaldon School Buildings Conservation Act".
+
+## Section 2
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to conserve and promote the country's historical and cultural heritage resources. Towards this end, it is shall strengthen its effort ad pursue a more proactive role in the conservation and restoration of built heritage, such as the Gabaldon school buildings, to preserve their architectural, historical, and social significance.
+
+## Section 3
+
+_Definition of Terms._ \- As used in this Act:
+
+(a) _Conservation_ refers to all processes and measures of maintaining the cultural significance of Gabaldon school buildings including preservation, restoration, reconstruction, protection, adaptation or any combination thereof; and
+
+(b) _Gabaldon school buildings_ refers to school buildings designed by American Architect William Parsons and funded through Act No. 1801, authored by Assemblyman Isauro Gabaldon.
+
+## Section 4
+
+_Gabaldon School Buildings as Cultural Properties._ \- All Gabaldon school buildings shall be recognized as built heritage and therefore be included as part of cultural properties under Republic Act No. 10066 or the National Cultural Heriotage Act of 2009. However, notwithstanding the provisions of this Act as well as the provisions of Republic Act No. 10066, no public school teacher shall be held liable for acts committed to cause or effect emergency repairs on such structures.
+
+## Section 5
+
+_Conservation of Gabaldon School Buildings._ \- The Department of Education (DepEd), in consultation with the National Commission for Culture and the Arts (NCCA), the National Historical Commission of the Philippines (NHCP), and the National Museum (NM), shall implement a program for the identification and conservation of all Gabaldon school buildings nationwide.
+
+For this purpose, an inventory of all Gabaldon school buildings, whether fully functional or condemned, in all pubic elementary and secondary schools, shall be jointly undertaken by the DepEd and the NCCA to determine the physical status of each structure, School heads shall submit to their respective Schools Division Superintendents, for appropriate action, a report indicating the existence of or any structural damage to any Gabaldon school building in schools under their respective supervisions.
+
+Local government units that have Gabaldon school buildings under their jurisdiction shall likewise adopt measures for the protection and conservation of these structures and shall provide the DepEd with the necessary assistance in the implementation of any conservation project.
+
+Any modification, alteration, destruction, demolition, or relocation of Gabaldon school buildings shall be strictly prohibited.1âwphi1 In cases where conservation measures are necessary, the DepEd, in coordination with the NCCA, the NHCP, and the NM, shall provide proper technical assistance to school heads to ensure that the original architectural design of the school building is maintained: _Provided, however,_ That, subject to the issuance of a permit from the NCCA, any modification or alteration of the original architectural design of Gabaldon school buildings may be allowed in public elementary and secondary schools where the exigency of constructing new school buildings is a priority in anticipation of the increase in student population by virtue of the implementation of Republic Act No. 10533, or the "Enhanced Basic Education Act of 2013": _Provided, further,_ That the façade and other distinct features of the original Gabaldon school buildings shall, as much as possible, be preserved.
+
+## Section 6
+
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the implementation of this Act, the initial funding if which shall be charge to the current year's appropriation of the DepEd. Thereafter, the amount necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+
+## Section 7
+
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the approval of this Act, the DepEd, in consultation with the NCCA, the NHCP, and the NM, shall formulate the rules and regulations implementing the provisions of this Act.
+
+## Section 8
+
+_Separability Clause._ \- If any provision of this Act is held invalid or unconstitutional, the other provisions not so declared shall remain in force and effect.
+
+## Section 9
+
+_Repealing Clause._ \- All laws, decrees, orders and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
+
+## Section 10
+
+_Effectivity._ \- This act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
+
+Approved,
+
+**VICENTE C. SOTTO III**
+President of the Senate
+
+**GLORIA MACAPAGAL-ARROYO**
+Speaker of the House of Representatives
+
+This Act which originated in the House of Representatives was passed by the House of Representatives on MAy 22, 2017, amended by the Senate on August 28, 2018, and which amendments were concurred in by the House of Representatives on November 21, 2018.
+
+**MYRA MARIE D. VILLARICA**
+Secretary of the Senate
+
+**DANTE ROBERTO P. MALING**
+Acting Secretary General
+House of Representatives
+
+Approved: January 18, 2019
+
+(Sgd.) **RODRIGO ROA DUTERTE**
+President of the Philippines

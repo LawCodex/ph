@@ -1,0 +1,144 @@
+---
+title: "Republic Act No. 10623 — An Act Amending Certain Provisions of Republic Act No. 7581, Entitled \"An Act Providing Protection to Consumers By Stabilizing the Prices of Basic Necessities and Prime Commodities and By Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions\" and for Other Purposes"
+identifier: "Republic Act No. 10623"
+number: "10623"
+type: act
+jurisdiction: ph
+language: en
+date: 2013-09-06
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2013/ra_10623_2013.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2013/pdf/ra_10623_2013.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 10623
+
+**An Act Amending Certain Provisions of Republic Act No. 7581, Entitled "An Act Providing Protection to Consumers By Stabilizing the Prices of Basic Necessities and Prime Commodities and By Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions" and for Other Purposes**
+
+Fifteenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.
+
+REPUBLIC ACT NO. 10623
+
+AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7581, ENTITLED "AN ACT PROVIDING PROTECTION TO CONSUMERS BY STABILIZING THE PRICES OF BASIC NECESSITIES AND PRIME COMMODITIES AND BY PRESCRIBING MEASURES AGAINST UNDUE PRICE INCREASES DURING EMERGENCY SITUATIONS AND LIKE OCCASIONS" AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Section 3(1) of Republic Act No. 7581, otherwise known as the "Price Act", is hereby amended to read as follows:
+
+"Section 3. _Definition of Terms._ – For purposes of this Act, the term:
+
+"(1) ‘Basic necessities’ are goods vital to the needs of consumers for their sustenance and existence in times of any of the cases provided under Section 6 or 7 of this Act such as, but not limited to, rice, corn, root crops, bread; fresh, dried or canned fish and other marine products; fresh pork, beef and poultry meat; fresh eggs; potable water in bottles and containers; fresh and processed milk; fresh vegetables and fruits; locally manufactured instant noodles; coffee; sugar; cooking oil; salt; laundry soap and detergents; firewood; charcoal; household liquefied petroleum gas (LPG) and kerosene; candles; drugs classified as essential by the Department of Health and such other goods as may be included under Section 4 of this Act;"
+
+## Section 2
+
+Section 3(8) of Republic Act No. 7581 is hereby amended to read as follows:
+
+"Section 3. _Definition of Terms._ –
+
+"x x x
+
+"(8) ‘Prime Commodities’ are goods not considered as basic necessities but are essential to consumers in times of any of the cases provided under Section 7 of this Act such as, but not limited to, flour; dried, processed or canned pork, beef and poultry meat; dairy products not falling under basic necessities; onions, garlic, vinegar, patis, soy sauce; toilet soap; fertilizer, pesticides and herbicides; poultry, livestock and fishery feeds and veterinary products; paper; school supplies; _nipa_ shingles; _sawali_ ; cement; clinker; GI sheets; hollow blocks; plywood; plyboard; construction nails; batteries; electrical supplies; light bulbs; steel wire; all drugs not classified as essential drugs by the Department of Health and such other goods as may be included under Section 4 of this Act."
+
+## Section 3
+
+Section 4 of Republic Act No. 7581 is hereby amended to read as follows:
+
+"Section 4. _Inclusion or Exclusion from the Coverage of this Act._ – Upon petition of the concerned parties or _motu proprio_ action from the concerned agency of the Price Coordinating Council and after public hearing, the implementing agency, with the approval of the President, may include in the definition of basic necessities or prime commodities types and brands of the goods or may exclude from the coverage of this Act, types or brands of the goods included in the definition of basic necessities and prime commodities, which may be deemed as nonessential goods or luxury goods: _Provided_ , That, any type or brand so excluded may be reinstated by the implementing agency during occasions of acute shortage in the supply of the basic necessity or prime commodity to which the excluded type or brand used to belong."
+
+## Section 4
+
+Section 6 of Republic Act No. 7581 is hereby amended to read as follows:
+
+"Section 6. _Automatic Price Control._ –
+
+"x x x
+
+"Unless sooner lifted by the President, price control of basic necessities under this section shall remain effective for the duration of the condition that brought it about, but not for more than sixty (60) days: _Provided_ , That, in the case of basic necessities that are wholly imported and deregulated under existing laws such as, but not limited to, household LPG and kerosene, price control thereon shall remain effective for a period of not more than fifteen (15) days, taking into consideration the current inventory or supply levels thereof."
+
+## Section 5
+
+Section 11 of Republic Act No. 7581 is hereby amended to read as follows:
+
+"Section 11. _Price Coordinating Council._ – There is hereby created a Price Coordinating Council, hereinafter referred to as the Council, to be composed of the following members:
+
+"(1) The Secretary of Trade and Industry, as chairman;
+
+"(2) The Secretary of Agriculture;
+
+"(3) The Secretary of Health;
+
+"(4) The Secretary of Environment and Natural Resources;
+
+"(5) The Secretary of Local Government;
+
+"(6) The Secretary of Transportation and Communications;
+
+"(7) The Secretary of Justice;
+
+"(8) The Secretary of Energy;
+
+"(9) The Director General of the National Economic and Development Authority;
+
+"(10) One (1) representative from the consumers’ sector;
+
+"(11) One (1) representative from the agricultural producers’ sector;
+
+"(12) One (1) representative from the trading sector; and
+
+"(13) One (1) representative from the manufacturers’ sector.
+
+"x x x."
+
+## Section 6
+
+Section 12(2) of Republic Act No. 7581 is hereby amended to read as follows:
+
+"Section 12. _Functions of the Price Coordinating Council._ –
+
+"x x x
+
+"(2) It shall report at least semi-annually to the President and to the Congress of the Philippines the status and progress of the programs, projects, and measures undertaken by each implementing department, agency or office as well as the comprehensive strategies developed by the Council to stabilize the prices of basic necessities and prime commodities. The report shall include goods that have been included or excluded from the list of basic necessities and prime commodities as provided for under Section 4 of this Act;
+
+"x x x."
+
+## Section 7
+
+_Implementing Rules and Regulations._ – The Department of Trade and Industry shall, in consultation with the members of the Price Coordinating Council and stakeholders, promulgate the necessary rules, regulations and procedures for the effective implementation of this Act within ninety (90) days upon its effectivity and shall monitor strict compliance therewith. They shall also review the existing implementing rules and regulations of Republic Act No. 7581 and revise its provisions as maybe appropriate.
+
+## Section 8
+
+_Repealing Clause._ – All laws, decrees, executive orders, issuances or regulations inconsistent with the provisions of this Act are hereby revised or amended accordingly.
+
+## Section 9
+
+_Separability Clause._ – If any part of this Act is declared unconstitutional or invalid, such parts or provisions hereof not so declared shall remain valid and subsisting.1âwphi1
+
+## Section 10
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the country.
+
+Approved,
+
+| (Sgd.) JINGGOY EJERCITO ESTRADA Acting Senate President | (Sgd.) FELICIANO BELMONTE JR. Speaker of the House of Representatives |
+|---|---|
+
+This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 5, 2013.
+
+<table>
+<tr>
+<td>(Sgd.) <b>EMMA LIRIO-REYES</b><br/>Secretary of the Senate</td>
+<td>(Sgd.) <b>MARILYN B. BARUA-YAP</b><br/>Secretary General<br/>House of Representatives</td>
+</tr>
+</table>
+
+Approved: SEP 06 2013
+
+**(Sgd.) BENIGNO S. AQUINO III**
+_President of the Philippines_

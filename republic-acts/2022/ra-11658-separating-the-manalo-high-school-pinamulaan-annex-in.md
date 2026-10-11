@@ -1,0 +1,64 @@
+---
+title: "Republic Act No. 11658 — An Act Separating the Manalo High School - Pinamulaan Annex in Barangay Pinamulaan, Municipality of Banisilan, Province of Cotabato from the Malinao High School, Converting it into an Independent National High School to be Known as Pinamulaan National High School, and Appropriating Funds Therefor"
+identifier: "Republic Act No. 11658"
+number: "11658"
+type: act
+jurisdiction: ph
+language: en
+date: 2022-03-11
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2022/ra_11658_2022.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2022/pdf/ra_11658_2022.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11658
+
+**An Act Separating the Manalo High School - Pinamulaan Annex in Barangay Pinamulaan, Municipality of Banisilan, Province of Cotabato from the Malinao High School, Converting it into an Independent National High School to be Known as Pinamulaan National High School, and Appropriating Funds Therefor**
+
+Eighteenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.
+
+[ REPUBLIC ACT NO. 11658, March 11, 2022 ]
+
+AN ACT SEPARATING THE MALINAO HIGH SCHOOL - PINAMULAAN EXTENSION IN BARANGAY PINAMULAAN, MUNICIPALITY OF BANISILAN, PROVINCE OF COTABATO FROM THE MALINAO HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PINAMULAAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_The Malinao High School - Pinamulaan Annex in Barangay Pinamulaan,_ Municipality of Banisilan, Province of Cotabato is hereby separated from the Malinao High School and converted into an independent national high school to be known as Panimulaan National High School.
+
+## Section 2
+
+All personnel, assets, liabilities and records of the Malinao High School -Pinamulaan Annex are hereby transferred to and absorbed by the Pinamulaan National High School.
+
+## Section 3
+
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Pinamulaan National High School, the initial funding of which shall be charged against the current year's appropriation of the Malinao High School - Pinamulaan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+## Section 4
+
+Within sixty (60) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.ℒαwρhi৷
+
+## Section 5
+
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (SGD.) VICENTE C. SOTTO III President of Senate | (SGD.) LORD ALLAN JAY Q. VELASCO Speaker of the House of Representatives |
+|---|---|
+
+This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 27, 2021 and December 13, 2021, respectively.
+
+| (SGD.) MYRA MARIE D. VILLARICA Secretary of Senate | (SGD.) MARK LLANDRO L. MENDOZA Secretary General House of Representatives |
+|---|---|
+
+Approved: MAR 11 2022
+
+(SGD.) **RODRIGO ROA DUTERTE**
+President of the Philippines

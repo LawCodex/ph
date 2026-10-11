@@ -1,0 +1,94 @@
+---
+title: "Republic Act No. 11551 — An Act Integrating Labor Education in the Tertiary Education Curriculum"
+identifier: "Republic Act No. 11551"
+number: "11551"
+type: act
+jurisdiction: ph
+language: en
+date: 2021-05-27
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2021/ra_11551_2021.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2021/pdf/ra_11551_2021.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11551
+
+**An Act Integrating Labor Education in the Tertiary Education Curriculum**
+
+Eighteenth Congress  
+Second Regular Session  
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+[ REPUBLIC ACT NO. 11551, May 27, 2021 ]
+
+AN ACT INTEGRATING LABOR EDUCATION IN THE TERTIARY EDUCATION CURRICULUM
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Short Title._ \- This Act shall be known as the "Labor Education Act".
+
+## Section 2
+
+_Declaration of Policy._ \- The State shall afford protection to labor, promote full employment, ensure equal work opportunities regardless of sex, race or creed, and regulate the relations between workers and employers. It shall assure the rights of workers to self-organization, collective bargaining, security of tenure, and just and humane conditions of work.
+
+To this end, the State shall put in place a mechanism to educate future workers, employers, and entrepreneurs, on their rights and responsibilities in promoting harmony in the workplace and social progress in the society.
+
+## Section 3
+
+_Definition of Terms._ \- As used in this Act, the following terms are defined as follows:
+
+(a) Tertiary Education Curriculum refers to the general education curriculum designed for students taking up courses in higher education institutions (HEIs) leading to a degree and nondegree diploma and certificate courses in technical­ vocational institutions (TVIs); and
+
+(b) Labor Education refers to the teaching of basic knowledge on labor rights and other skills relating to negotiation, fostering smooth interpersonal relations in the workplace, and mechanisms for redress of grievances and other concerns.
+
+## Section 4
+
+_Integration of Labor Education in Higher Education Curriculum._ \- All public and private higher education institutions (HEIs) shall integrate labor education as part of an elective course; and as far as practicable, hold a Labor Empowerment and Career Guidance conference which graduating students shall attend.
+
+The Commission on Higher Education (CHED), pursuant to its mandate under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994," shall develop the program to execute and implement this Act.**Section 5.** Integration of Labor Education in Technical and Vocational Education and Training (TVET) Curriculum. - All TVIs offering nondegree certificate and diploma courses ranging from one (1) to three (3) years shall integrate labor education as an elective course in the TVET curriculum.
+
+TVIs offering short-term courses ranging from one (1) month to less than one (1) year are encouraged to integrate labor education in the modular program of the TVET curriculum.ℒαwρhi৷
+
+The Technical Education and Skills Development Authority (TESDA), in partnership with the Department of Labor and Employment (DOLE), shall develop the appropriate modules of instructions and other relevant materials relating to labor education in TVIs.
+
+## Section 6
+
+_Curriculum Review._ \- The coverage and quality of labor education shall be included in comprehensive curriculum review to be conducted by the CHED and the TESDA
+
+## Section 7
+
+_Implementing Rules and Guidelines._ \- Within sixty (60) days from the effectivity of this Act, the CHED and the TESDA, in consultation with the DOLE and relevant stakeholders, shall formulate the rules and regulations to effectively implement the provisions of this Act.
+
+## Section 8
+
+_Separability Clause._ \- Any portion or provisions of this Act that may be declared unconstitutional or invalid shall not have the effect of nullifying other portions and provisions hereof as long as such remaining portions or provisions can still subsist and be given effect in their entirety.
+
+## Section 9
+
+_Repealing Clause._ \- All laws, decrees, executive orders, proclamations and administrative regulations, or any parts thereof inconsistent with the provisions of this Act are revoked, repealed or modified accordingly.
+
+## Section 10
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (SGD.) LORD ALLAN JAY Q. VELASCO Speaker of the House of Representatives | (SGD.) VICENTE C. SOTTO III President of the Senate |
+|---|---|
+
+This Act which is a consolidation of Senate Bill No. 1513 and House Bill No. 4466 was passed by the Senate of the Philippines and the House of Representatives on March 15, 2021.
+
+| (SGD.) MARK LLANDRO L. MENDOZA Secretary General House of Representatives | (SGD.) MYRA MARIE D. VILLARICA Secretary of the Senate |
+|---|---|
+
+Approved: MAY 27 2021
+
+<table>
+<tr>
+<td>(SGD.) <b>RODRIGO ROA DUTERTE</b><br/>President of the Philippines</td>
+</tr>
+</table>

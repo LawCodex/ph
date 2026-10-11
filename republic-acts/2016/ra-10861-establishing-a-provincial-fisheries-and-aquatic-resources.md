@@ -1,0 +1,78 @@
+---
+title: "Republic Act No. 10861 — An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in Each of the Provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar, and Appropriating Funds Therefor"
+identifier: "Republic Act No. 10861"
+number: "10861"
+type: act
+jurisdiction: ph
+language: en
+date: 2016-05-23
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2016/ra_10861_2016.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2016/pdf/ra_10861_2016.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 10861
+
+**An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in Each of the Provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar, and Appropriating Funds Therefor**
+
+Sixteenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.
+
+**REPUBLIC ACT No. 10861**
+
+AN ACT ESTABLISHING A PROVINCIAL FISHERIES AND AQUATIC RESOURCES TRAINING, DEVELOPMENT, AND PRODUCT CENTER IN EACH OF THE PROVINCES OF LEYTE, SOUTHERN LEYTE, BILIRAN, EASTERN SAMAR, SAMAR, AND NORTHERN SAMAR, AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## SECTION 1
+
+There shall be established in each of the provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA).
+
+The BFAR shall collaborate with, and tap the expertise, resources and facilities of, the state universities and colleges in the aforementioned provinces in the establishment, management and operation of these centers.
+
+## SECTION 2
+
+Each provincial center shall, at a minimum, provide onsite and online access to the following:
+
+(a) Applied technology for innovative and sustainable fish breeding and hatchery of high-value marine species;
+
+(b) Training activities and technical assistance to provide sustainable development and production support and education to fisherfolk;
+
+(c) Technical assistance for sustainable production and environmentally sound postharvest development services;
+
+(d) Technical assistance in the establishment, operation, enhancement and maintenance of government-operated marine sanctuaries, seaweed nurseries, seaweed processing plants, and mariculture park facilities;
+
+(e) Catalog, display, and promote local fisheries and aquatic products, and provide marketing and product distribution assistance to fisherfolk; and
+
+(f) Database of available insurance and credit assistance for fisherfolk, and local and international grants and scholarships for fisheries and aquatic resources studies and research.
+
+## SECTION 3
+
+The Secretary of Agriculture shall include in the Department’s programs the establishment of the Provincial Fisheries and Aquatic Resources Training, Development, and Product Centers, the funding of which shall be included in the annual General Appropriations Act. The local government units concerned shall set aside from any available local revenue an amount deemed appropriate to support the operation of these centers.
+
+## SECTION 4
+
+The Department of Agriculture, through the BFAR, shall issue rules and regulations necessary to carry out the purposes of this Act.1avvphi1
+
+## SECTION 5
+
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+Approved,
+
+| (Sgd.) FRANKLIN M. DRILON President of the Senate | (Sgd.) FELICIANO BELMONTE JR. Speaker of the House of Representatives |
+|---|---|
+
+This Act which originated in the House of Representatives was passed by the House of Representatives on September 14, 2015, amended by the Senate on February 1, 2016, and which amendments were concurred in by the House of Representatives on February 1, 2016.
+
+| (Sgd.) OSCAR G. YABES Secretary of the Senate | (Sgd.) MARILYN B. BARUA-YAP Secretary GeneralHouse of Representatives |
+|---|---|
+
+Approved: MAY 23 2016
+
+(Sgd.) **BENIGNO S. AQUINO, III**
+President of the Philippines

@@ -1,0 +1,149 @@
+---
+title: "Republic Act No. 12076 — An Act Establishing Evacuation Centers For Every City and Municipality, and Appropriating Funds Therefor ra2024/pdra_12076_2024.pdf"
+identifier: "Republic Act No. 12076"
+number: "12076"
+type: act
+jurisdiction: ph
+language: en
+date: 2024-12-06
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2024/ra_12076_2024.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 12076
+
+**An Act Establishing Evacuation Centers For Every City and Municipality, and Appropriating Funds Therefor ra2024/pdra_12076_2024.pdf**
+
+Nineteeth Congress  
+Third Regular Session
+
+[ REPUBLIC ACT NO. 12076, December 06, 2024 ]
+
+AN ACT ESTABLISHING EVACUATION CENTERS FOR EVERY CITY AND MUNICIPALITY , AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Short Title._ \- This Act shall be known as the "Ligtas Pinoy Centers Act."
+
+## Section 2
+
+_Declaration of Policy._ \- It shall be the policy of the State to uphold the constitutional right of the people to the protection of their life and property and the promotion of the general welfare. Towards this end, the State shall establish and maintain safe, fully equipped, and fully equipped, and fully operational evacuation centers responsive to human-induced disasters and environmental or climatic events, in recognition of the vulnerability of the Philippines to climate change, hazards, and public health crises and emergencies. It shall be the continuing policy of the State to ensure the structural capacity and integrity of evacuation centers and to provide the necessary and appropriate support facilities.
+
+## Section 3
+
+_Establishment of Evacuation Centers._ \- Evacuation centers shall be established for every city and municipality in the country to provide immediate and temporary accommodation for evacuees or people displaced from their homes due to human-induced or natural disasters and other emergencies. These include typhoons, floods, storm surges, droughts, earthquakes, tsunamis, volcanic eruptions and similar geotectonic phenomena and related severe climate disturbances, fire, outbreak of diseases, and others that may present imminent danger to life and property.
+
+## Section 4
+
+_Minimum Standards._ \- The following shall be required minimum standards for the essential facilities and conditions in every evacuation center that will be established under this Act:
+
+(a) _Location designation._ \- The evacuation center shall be strategically located in the community and shall not be at risk of isolation. It shall be located at a safe distance from danger areas or hazards. The Local Disaster Risk Reduction and Management Council (LDRRMC) of the local government unit (LGU) concerned shall coordinate with the Department of Environment and Natural Resources (DENR) and the Department of Science and Technology (DOST) to utilize the geohazard maps of the Mines and Geosciences Bureau (MGB), the Philippine Institute of Volcanology and Seismology (PHILVOCS), and the Philippine Atmospheric Geophysical and Astronomical Services Administration (PAGASA) in determining the appropriate location of the evacuation center.
+
+(b) _Structural integrity._ \- The evacuation centers shall be disaster-resilient, constructed with sturdy materials, and designed to withstand wind speeds of at least three hundred kilometers per hour (300 kph) and seismic activity of at least 8.0 magnitude. The building specifications shall be periodically reviewed and, if necessary revised and upgraded based on technological advancements and newly identified vulnerabilities.
+
+(c) _Facilities._ \- The evacuation centers shall be well-ventilated and have the capacity to accommodate the anticipated number of evacuees considering the size of the population in the affected area. The evacuation center shall have the following minimum facilities:
+
+(1) Sleeping quarters for evacuees;
+
+(2) Separate shower and toilet facilities for male and female, with one (1) facility for every twenty (20) males and females and one (1) for every eight (8) persons who have disabilities or are elderly;
+
+(3) Kitchen or food participation' and dining areas;
+
+(4) Trash and waste segregation and collection areas;
+
+(5) Health care areas which shall include an isolation or quarantine area for potentially infectious persons, health station/clinic, breastfeeding room, mental wellness space, and counseling room;
+
+(6) Recreation area;
+
+(7) Women and child-friendly spaces;
+
+(8) Rainwater harvesting and collection facilities;
+
+(9) Standby power for lighting, and operation of medical and communication equipment;
+
+(10) Powerhouse and standalope water pumping facilities; and
+
+(11) Storage area for food and non-food items.
+
+(d) _Food safety._ \- Kitchen and dining facilities shall be designed to adequately accommodate the number of evacuees. Food preparation and storage facilities shall comply with sanitation standards of the Department of Health (DOH) to minimize contamination and infestation.
+
+## Section 5
+
+_Lead Implementing Agency._ \- The National Disaster Risk Reduction and Management Council (NDRRMC), through its secretariat, the Office of the Civil Defense (OCD), shall be the lead implementing agency in this Act.
+
+The NDRRMC shall develop a menu of minimum conceptual design standards for evacuation centers which will consider the following factors: (a) available lot sizes in the LGUs; (b) physical features of a site such as, but not limited to, climate and topography,; (c) social attributes of an area such as culture and history; and (d) Emerging and Re-Emerging Infectious Diseases (EREID).
+
+The NDRRMC, in coordination with the LGUs and relevant agencies, shall oversee and evaluate identified and constructed evacuation centers, and assess key aspects such as, but not limited to, structural integrity, risk and hazard safety, floor area, suitability for intended use, service delivery, availability of camp facilities, and identification of any existing needs or gaps. It shall conduct annual inspections to ensure the continuous improvement and effectiveness of these facilities.
+
+## Section 6
+
+_Role of the Department of Public Works and Highways (DPWH)._ \- The DPWH shall be the agency tasked with the construction of evacuation centers under this Act. It shall ensure that the structures comply with the minimum conceptual design standards developed by the NDRRMC, the provisions of Presidential Decree No. 1096, otherwise known as the "National Building Code of the Philippines", and other applicable laws.
+
+Upon recommendation of the NDRRMC, the DPWH shall upgrade and convert existing structures that meet the minimum requirements of this Act into permanent, fully equipped, and disaster-resilient evacuation centers, particularly in cases where the LGU in the priority list has no available site for the construction of a new evacuation center.
+
+The DPWH shall undertake a routine inspection at least once a year for structures that have existed for not more than fifteen (15) years, and at least twice a year for structures that have existed for more than fifteen (15) years. The DPWH may conduct additional inspections, as necessary, especially during emergencies and rainy seasons.
+
+## Section 7
+
+_Coordination Among Agencies._ \- The NDRRMC shall coordinate with the DENR, the Department of Human Settlements and Urban Development (DHSUD), the DPWH, the Department of Social Welfare and Development (DSWD), the DOH, the Department of the Interior and Local Government (DILG), and the DOST for technical assistance with regard to the design and building specifications, facility functionality, cost estimates, and construction details of the evacuation centers that will be established and upgraded pursuant to this Act.
+
+The concerned government agencies and instrumentalities shall assist the NDRRMC, when necessary, to ensure the effective and efficient implementation of this Act.
+
+## Section 8
+
+_Priority in the Establishment of Evacuation Centers._ \- The NDRRMC shall, in consultation with the PHIVOLCS, PAGASA, and MGB, identity areas to be given the highest priority in the establishment of new evacuation centers.
+
+Within six (6) months after the effectivity of this Act, the NDRRMRC shall make a priority list of (a) LGUs that need evacuation centers and (b) LGUs that need the upgrading and conversion of existing infrastructure, using that take into account the coping capacity of LGUs and their susceptibility, exposure, and vulnerability to hazards, their readiness in implementing the construction of evacuation centers, and such other factors as may be determined by the NDRRMC. It shall also specify a timeline and annual targets, including appropriate budgetary requirements, in relation to the establishment of evacuation centers in priority areas and high-risk communities.
+
+## Section 9
+
+_Treasurer of Evacuation Center._ \- Upon evaluation and determination that the constructed evacuation center or the converted existing structure meets the prescribed standards, a Memorandum of Agreement (MOA) shall be entered into by and between the DPWH, the LGU/s, and the NDRRMC, through the OCD, for the proper turnover of ownership, maintenance, operation, and management. The NDRRMC shall provide technical assistance and support services to the LGUs in the management of the facility.
+
+## Section 10
+
+_Operation and Management._ \- The LGUs concerned shall be primarily responsible for the maintenance, operation, and management of evacuation centers established under this Act.ℒαwρhi৷
+
+The local sanggunian shall promulgate rules, guidelines and procedures for the use and operation of the evacuation center under its jurisdiction, including on the utilization of the evacuation center for other activities or purposes authorized by the LGU: _Provided,_ That the utilization of the evacuation center and its amenities for such authorized activities or purposes shall only be temporary with corresponding provisions on cleaning, disinfecting, and sanitizing immediately after use: _Provided, further,_ That it shall not in any way compromise the serviceability or impede the use thereof when a disaster occurs: _Provided, further_ more, That the evacuation center and its facilities may not be used for partisan political activities: _Provided,_ finally, That the LGU shall impose the appropriate penalties on the organizers of authorized activities when the evacuation center suffers any damage, defacement, or loss during or as a result of such activities.
+
+The LGUs may enter into MOAs with other LGUs for shared use of evacuation centers, as the need arises. LGUs may also enter into contracts beneficial for the evacuation centers, including, but not limited to, the enhancement of amenities and upgrading of building capacity. The DILG shall set the guidelines for the MOA, taking into account the use for the evacuation center, the duration thereof, the responsibility for its maintenance and upkeep, and such other factors which will make the evacuation center suitable for its intended purpose.
+
+The LGUs shall be responsible for facilitating the general cleaning and repair of facilities, including fumigation, and for ensuring that the facility is safe for its intended use. The city or municipality shall conduct a mandatory audit of infrastructures used as evacuation centers at least once every year and immediately after the occurrence of a hazard or disaster.
+
+## Section 11
+
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the NDRRMC shall, in consultation with the DPWH, the DSWD, the DHSUD, the DOST, the DENR, the League of Cities of the Philippines, the League of Municipalities of the Philippines, and other concerned government and private agencies, promulgate the necessary rules and regulations to carry out the provisions of this Act.
+
+## Section 12
+
+_Appropriations._ \- The amount necessary for the initial implementation of the construction of evacuation centers shall be charged against the current year's appropriation of the DPWH provided for this purpose. Thereafter, the amount necessary for the construction of evacuation centers shall be included in the annual General Appropriations Act. The LGU concerned shall provided for the continued maintenance, operation, and management of the evacuation centers.
+
+## Section 13
+
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
+
+## Section 14
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, letters of instruction and administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+## Section 15
+
+_Effectivity._ \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+Approved,
+
+| (SGD.) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (SGD.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
+|---|---|
+
+This Act was passed by the Senate of the Philippines as Senate Bill No. 2451 on September 23, 2024 and adopted by the House of Representatives as an amendment to House Bill No. 7354 on September 24, 2024.
+
+| (SGD.) REGINALD S. VELASCO Secretary General House of Representatives | (SGD.) RENATO N. BANTUG, JR. Secretary of the Senate |
+|---|---|
+
+Approved: DEC 06 2024
+
+(SGD.) **FERDINAND ROMUALDEZ MARCOS JR.**
+President of the Philippines

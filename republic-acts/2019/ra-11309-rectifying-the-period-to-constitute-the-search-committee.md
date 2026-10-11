@@ -1,0 +1,89 @@
+---
+title: "Republic Act No. 11309 — An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599"
+identifier: "Republic Act No. 11309"
+number: "11309"
+type: act
+jurisdiction: ph
+language: en
+date: 2019-04-20
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2019/ra_11309_2019.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2019/pdf/ra_11309_2019.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 11309
+
+**An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599**
+
+Seventeenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+**REPUBLIC ACT No. 11309**
+
+**An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:
+
+## Section 1
+
+Section 9 of Republic Act No. 10599, entitled "An Act Converting the Palompon Institute of Technology in the Municipality of Palompon, Province of Leyte Into a State University to be Known as the Palompon Polytechnic State University, Integrating Therewith the Marcelino R. Veloso National Polytechnic College in the Municipality of Tabango, Province of Leyte and Appropriating Funds Therefor", shall be amended to read as follows:
+
+"Sec. 9. _The University President._ -The University shall be headed by a President, who shall render full-time service and who shall be appointed by the Board, subject to the guidelines, qualifications and standards set by the Board, upon recommendation of a duly constituted search committee.1âшphi1 The University President shall have a term of four (4) years and shall be eligible for reappointment for another term: _Provided,_ That in order to effect a smooth transition to a state university, the incumbent President of the Palompon Institute of Technology, if qualified, shall serve as the interim President of the University. However, within three (3) months from the effectivity of this Act, a new President shall be appointed by the Board.
+
+"Within two (2) months before the expiration of the term of office of the interim President of the University, the Board shall constitute the Search Committee for the Presidency (SCP).
+
+## Section 2
+
+Section 25 of Republic Act No. 10599 shall be amended to read as follows:
+
+"Sec. 25. _Compliance With CHED Requirements._ -The provisions of this Act notwithstanding, the conversion of the institution into a state university shall become effective only upon the determination and declaration by the CHED, based on the recommendation of a panel of experts, that the institution has complied with the requirements for university status based on CHED Memorandum Order No. 46, series of 2012.
+
+"The CHED, through its regional office, shall regularly provide technical assistance to the institution and monitor compliance with the requirements of the Commission.
+
+"The CHED shall designate a panel of experts who shall prepare a recommendation to the Chairperson of the CHED, on whether the institution has substantially complied with the requirements for the grant of university status.
+
+"The following operational requirements for a university, as established by the CHED, shall be complied with:
+
+"(a) Facuity members who possess relevant degrees in their areas of specialization, as required by the CHED, and shall have participated in research and development activities in their respective disciplines, as evidenced by refereed publications and other scholarly outputs;
+
+"(b) A comprehensive range of degree programs in all levels, from basic post-secondary to doctoral programs;
+
+"(c) Viable research programs in specific (disciplinal and multidisciplinary) areas of study that produce new knowledge, as evidenced by refereed publications, citations, inventions, and patents, among others;
+
+"(d) Comprehensive learning resources and support structures, to include libraries, practicum laboratories, relevant educational resources, and linkages with the relevant disciplinal and professional sectors, to allow students to explore basic, advance, and even cutting edge knowledge in a wide range of disciplines or professions;
+
+"(e) Active and ongoing linkages and affiliation with other research institutions in various parts of the world that would ensure that the research activities of the University are functioning at current global standards; and
+
+"(f) Outreach activities that allow the students, faculty, and research staff to apply the new knowledge they generate to address specific social development problems.
+
+"The institution shall retain its status prior to the effectivity of this Act, until it is able to comply with the requirements provided herein."
+
+## Section 3
+
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
+
+Approved,
+
+(Sgd) **VICENTE C. SOTTO III**
+President of the Senate
+
+(Sgd) **GLORIA MACAPAGAL-ARROYO**
+Speaker of the House of Representatives
+
+This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 10, 2018 and February 4, 2019, respectively.
+
+(Sgd) **MYRA MARIE D. VILLARICA**
+Secretary of the Senate
+
+(Sgd) **DANTE ROBERTO P. MALING**
+Acting Secretary General
+House of Representatives
+
+(Sgd) **RODRIGO ROA DUTERTE**
+President of the Philippines
+
+Approved: April 20, 2019.

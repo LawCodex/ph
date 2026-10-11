@@ -1,0 +1,137 @@
+---
+title: "Republic Act No. 10707 — An Act Amending Presidential Decree No. 968, Otherwise Known as the “Probation Law of 1976”, as Amended"
+identifier: "Republic Act No. 10707"
+number: "10707"
+type: act
+jurisdiction: ph
+language: en
+date: 2015-11-26
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra2015/ra_10707_2015.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra2015/pdf/ra_10707_2015.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 10707
+
+**An Act Amending Presidential Decree No. 968, Otherwise Known as the “Probation Law of 1976”, as Amended**
+
+Sixteenth Congress  
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.
+
+**REPUBLIC ACT No. 10707**
+
+AN ACT AMENDING PRESIDENTIAL DECREE NO. 968, OTHERWISE KNOWN AS THE “PROBATION LAW OF 1976”, AS AMENDED
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## SECTION 1
+
+Section 4 of Presidential Decree No. 968, as amended, is hereby further amended to read as follows:
+
+“SEC. 4. _Grant of Probation._ — Subject to the provisions of this Decree, the trial court may, after it shall have convicted and sentenced a defendant for a probationable penalty and upon application by said defendant within the period for perfecting an appeal, suspend the execution of the sentence and place the defendant on probation for such period and upon such terms and conditions as it may deem best. No application for probation shall be entertained or granted if the defendant has perfected the appeal from the judgment of conviction: Provided, That when a judgment of conviction imposing a non-probationable penalty is appealed or reviewed, and such judgment is modified through the imposition of a probationable penalty, the defendant shall be allowed to apply for probation based on the modified decision before such decision becomes final. The application for probation based on the modified decision shall be filed in the trial court where the judgment of conviction imposing a non-probationable penalty was rendered, or in the trial court where such case has since been re-raffled. In a case involving several defendants where some have taken further appeal, the other defendants may apply for probation by submitting a written application and attaching thereto a certified true copy of the judgment of conviction.
+
+“The trial court shall, upon receipt of the application filed, suspend the execution of the sentence imposed in the judgment.
+
+“This notwithstanding, the accused shall lose the benefit of probation should he seek a review of the modified decision which already imposes a probationable penalty.
+
+“Probation may be granted whether the sentence imposes a term of imprisonment or a fine only. The filing of the application shall be deemed a waiver of the right to appeal.1âwphi1
+
+“An order granting or denying probation shall not be appealable.”
+
+## SECTION 2
+
+Section 9 of the same Decree, as amended, is hereby further amended to read as follows:
+
+“SEC. 9. _Disqualified Offenders._ — The benefits of this Decree shall not be extended to those:
+
+“a. sentenced to serve a maximum term of imprisonment of more than six (6) years;
+
+“b. convicted of any crime against the national security;
+
+“c. who have previously been convicted by final judgment of an offense punished by imprisonment of more than six (6) months and one (1) day and/or a fine of more than one thousand pesos (P1,000.00);
+
+“d. who have been once on probation under the provisions of this Decree; and
+
+“e. who are already serving sentence at the time the substantive provisions of this Decree became applicable pursuant to Section 33 hereof.”
+
+## SECTION 3
+
+Section 16 of the same Decree, as amended, is hereby further amended to read as follows:
+
+“SEC. 16. _Termination of Probation._ — After the period of probation and upon consideration of the report and recommendation of the probation officer, the court may order the final discharge of the probationer upon finding that he has fulfilled the terms and conditions of his probation and thereupon the case is deemed terminated.
+
+“The final discharge of the probationer shall operate to restore to him all civil rights lost or suspended as a result of his conviction and to totally extinguish his criminal liability as to the offense for which probation was granted.
+
+“The probationer and the probation officer shall each be furnished with a copy of such order.”
+
+## SECTION 4
+
+Section 24 of the same Decree is hereby amended to read as follows:
+
+“SEC. 24. _Miscellaneous Powers of Regional, Provincial and City Probation Officers._ — Regional, Provincial or City Probation Officers shall have the authority within their territorial jurisdiction to administer oaths and acknowledgments and to take depositions in connection with their duties and functions under this Decree. They shall also have, with respect to probationers under their care, the powers of a police officer. They shall be considered as persons in authority.”
+
+## SECTION 5
+
+Section 27 of the same Decree is hereby amended to read as follows:
+
+“SEC. 27. _Field Assistants, Subordinate Personnel._ – Regional, Provincial or City Probation Officers shall be assisted by such field assistants and subordinate personnel as may be necessary to enable them to carry out their duties effectively.”
+
+## SECTION 6
+
+Section 28 of the same Decree is hereby amended to read as follows:
+
+“SEC. 28. _Volunteer Probation Assistants (VPAs)._ — To assist the Chief Probation and Parole Officers in the supervised treatment program of the probationers, the Probation Administrator may appoint citizens of good repute and probity, who have the willingness, aptitude, and capability to act as VPAs.
+
+“VPAs shall not receive any regular compensation except for reasonable transportation and meal allowances, as may be determined by the Probation Administrator, for services rendered as VPAs.
+
+“They shall hold office for a two (2)-year term which may be renewed or recalled anytime for a just cause. Their functions, qualifications, continuance in office and maximum case loads shall be further prescribed under the implementing rules and regulations of this Act.
+
+“There shall be a reasonable number of VPAs in every regional, provincial, and city probation office. In order to strengthen the functional relationship of VPAs and the Probation Administrator, the latter shall encourage and support the former to organize themselves in the national, regional, provincial, and city levels for effective utilization, coordination, and sustainability of the volunteer program.”
+
+## SECTION 7
+
+_Separability Clause._ — If any provision of this Act is declared invalid, the provisions hereof not affected by such declaration shall remain in full force and effect.
+
+## SECTION 8
+
+_Repealing Clause._ — All laws, executive orders, or administrative orders, rules and regulations or parts thereof which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+## SECTION 9
+
+_Appropriations Clause._ — The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+## SECTION 10
+
+_Implementing Rules and Regulations._ — Within sixty (60) days from the approval of this Act, the Department of Justice shall promulgate such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+## SECTION 11
+
+_Effectivity._ — This Act shall take effect immediately after its publication in the Official Gazette or in two (2) newspapers of general circulation.
+
+Approved,
+
+<table>
+<tr>
+<td>(Sgd.) <b>FELICIANO BELMONTE JR.</b><br/>Speaker of the House<br/>of Representatives</td>
+<td>(Sgd.) <b>FRANKLIN M. DRILON</b><br/>President of the Senate</td>
+</tr>
+</table>
+
+This Act which is a consolidation of Senate Bill No. 2280 and House Bill No. 4147 was finally passed by the Senate and the House of Representatives on September 15, 2015 and September 14, 2015, respectively.
+
+<table>
+<tr>
+<td>(Sgd.) <b>MARILYN B. BARUA-YAP</b><br/>Secretary General<br/>House of Representatives</td>
+<td>(Sgd.) <b>OSCAR B. YABES</b><br/>Secretary of the Senate</td>
+</tr>
+</table>
+
+Approved: NOV 26 2015
+
+(Sgd.) **BENIGNO S. AQUINO, III**
+President of the Philippines

@@ -1,0 +1,45 @@
+---
+title: "Republic Act No. 5767 — An Act Providing for the Establishment of a Station Hospital in the Municipality of Capul, Province of Northern Samar, to Be Known as the Capul Station Hospital, and Authorizing the Appropriation of Funds Therefor"
+identifier: "Republic Act No. 5767"
+number: "5767"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5767_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5767
+
+**An Act Providing for the Establishment of a Station Hospital in the Municipality of Capul, Province of Northern Samar, to Be Known as the Capul Station Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+[ REPUBLIC ACT NO. 5767, June 21, 1969 ]
+
+AN ACT PROVIDING FOR THE ESTABLISHMENT OF A STATION HOSPITAL IN THE MUNICIPALITY OF CAPUL, PROVINCE OF NORTHERN SAMAR, TO BE KNOWN AS THE CAPUL STATION HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+As defined in this Act, a station hospital shall mean a small hospital of not more than twenty-five bed capacity for the management of common medical and maternity cases and surgical emergencies requiring ordinarily a short period of confinement. Cases requiring complicated major surgery or elaborate diagnostic examination or treatment by a specialist may not be confined in this hospital but transferred to regular provincial or regional hospitals.
+
+## Section 2
+
+There is hereby established in the Municipality of Capul, Province of Northern Samar, a station hospital to be known as Capul Station Hospital with a bed capacity of not less than ten nor more than twenty-five beds.
+
+## Section 3
+
+The Secretary of Health shall cause the establishment of this hospital, provide it with a suitable table of organization of not more than fourteen personnel, and promulgate rules and regulations for its maintenance and operation. He may, if the exigency of the service so demands, merge this hospital with local health units in the Municipality of Capul, Province of Northern Samar, provided that the public health work of the latter unit will not be impaired.
+
+## Section 4
+
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred sixty-nine. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+## Section 5
+
+This Act shall take effect upon its approval.1a⍵⍴h!1
+
+Enacted without Executive approval, June 21, 1969.

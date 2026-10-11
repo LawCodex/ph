@@ -1,0 +1,54 @@
+---
+title: "Republic Act No. 105 — An Act to Amend Section Thirteen of Act Numbered Twenty-One Hundred and Fifty-Two, as Amended, Increasing the Funds for the Operation and Maintenance of Irrigation Systems"
+identifier: "Republic Act No. 105"
+number: "105"
+type: act
+jurisdiction: ph
+language: en
+date: 1947-06-02
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1947/ra_105_1947.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 105
+
+**An Act to Amend Section Thirteen of Act Numbered Twenty-One Hundred and Fifty-Two, as Amended, Increasing the Funds for the Operation and Maintenance of Irrigation Systems**
+
+**REPUBLIC ACT No. 105**
+
+**An Act to Amend Section Thirteen of Act Numbered Twenty-One Hundred and Fifty-Two, as Amended, Increasing the Funds for the Operation and Maintenance of Irrigation Systems**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section thirteen of Act Numbered Twenty-one hundred and fifty-two, as amended by section four of Act Numbered Thirty-five hundred and twenty-three, is further amended to read as follows:
+
+"Sec. 13. In the event of the appropriations not organizing in accordance with the provisions of the next preceding section or during the time in which the rights of using the public water which have been appropriated are being determined and adjudicated the system shall be temporarily administered under this Act as follows:
+
+"(a) By the municipal council, when the system affects one municipality alone.
+
+"(b) By the provincial board, when it affects two or more municipalities of a province.1aшphi1
+
+"(c) By the Director of Public Works, when it affects two or more provinces.
+
+"The regulations issued for the administration, use, and distribution of waters shall be previously approved by the Irrigation Council, and in the preparation of those regulations all the persons interested shall be given a hearing.
+
+"The cost of this service shall be a lien upon the crops, in the first place, and in the second place, upon the land of the water users and ditch owners, in accordance with the distribution thereof, as shown by the accounts of the municipal council, the provincial board, or the Director of Public Works, which distribution shall be based upon the irrigable area held by each appropriator or ditch owner, in proportion to the total area served by the system: _Provided,_ However, That the funds necessary to defray the administration expenses prior to the expiration of each agricultural year (the period intervening between the beginning of the planting and the completion of the harvesting of the crops), in accordance with the appropriation, shall be advanced by the municipality or the province out of its funds, or by the Director of Public Works, out of any unappropriated funds in the National Treasury, and shall be reimbursed by the landowner or ditch owner at the end of each year with interest at the rate of four per centum: _Provided, further,_ That the funds that may be advanced by the Director of Public Works shall not exceed one million pesos in any one year: _Provided, finally,_ That in the event of the municipalities or provincial boards being without funds to cover these expenses the administration of such system shall be given to the Director of Public Works for such time as the funds advanced to meet said expenses are paid from the National Treasury.
+
+"The municipal and provincial treasurers shall, in the performance of their official duties, collect the charges for administration expenses for each year upon the completion of each harvest, acting in this respect as delegates of the Director of Public Works. Such lien shall have preference over all other liens except that for taxes on the land and any mortgage lien in favor of the Philippine Agricultural Bank, or its successor, and such preferred lien shall not be removed until all charges are paid or the property is sold for payment thereof. Within one year after default of payment on an installment payable on any parcel of land, the municipal mayor, the provincial governor or the Director of Public Works shall file with the clerk of the Court of First Instance of the district in which the land is situated, a list of all lands upon which default has been made. The clerk of the court shall thereupon publish in the manner provided for the publication of the summons in a civil action, a list of the lands so filed by the Director of Public Works, accompanied by a notice requiring the owners to file an answer thereto within thirty days after the completion of the publication.
+
+"Upon the filing of an answer by the person interested, the action in respect to such person shall proceed to judgment, as provided for other actions by the Rules of Court. Upon termination of such thirty days, judgment shall be entered against such persons as have not answered, and their lands, or the portion thereof, deemed necessary, shall be sold, after ten days’ public notice, at public auction by the sheriff to satisfy such preferred lien.
+
+"Any excess over the amount of said lien and the cost of such procedure shall be returned to the interested person who shall have one year thereafter to redeem his land by payment of the amount of judgment, and costs with interest at six per centum: _Provided,_ However, That in the event of the cost of maintenance being so exceptionally high in any year that it exceeds fifty per centum of the net profits, such exceptional cost shall be distributed in an equitable manner, over two or more years, but not more than five; And _Provided, further,_ That in the case in which a crop is unharvested at the time of the execution of the lien the execution shall be levied first on said crop.
+
+"In the preparation of the regulations mentioned in this and the next preceding section, the customs and usages of each locality shall be taken into consideration, and in these regulations one day of the year shall be fixed for a meeting of all the persons interested for the purposes of preparing an estimate of expenditure of the next succeeding year."
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 2, 1947

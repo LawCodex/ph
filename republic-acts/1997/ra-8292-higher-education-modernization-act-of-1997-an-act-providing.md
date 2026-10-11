@@ -1,0 +1,167 @@
+---
+title: "Republic Act No. 8292 — Higher Education Modernization Act of 1997 An Act Providing for the Uniform Composition and Powers of the Governing Boards, the Manner of Appointment and Term of Office of the President of Chartered State Universities and Colleges, and for Other Purposes"
+identifier: "Republic Act No. 8292"
+number: "8292"
+type: act
+jurisdiction: ph
+language: en
+date: 1997-06-06
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1997/ra_8292_1997.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1997/pdf/ra_8292_1997.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 8292
+
+**Higher Education Modernization Act of 1997 An Act Providing for the Uniform Composition and Powers of the Governing Boards, the Manner of Appointment and Term of Office of the President of Chartered State Universities and Colleges, and for Other Purposes**
+
+Tenth Congress  
+Second Regular Session
+
+**Republic Act No. 8292 June 6, 1997**
+
+AN ACT PROVIDING FOR THE UNIFORM COMPOSITION AND POWERS OF THE GOVERNING BOARDS, THE MANNER OF APPOINTMENT AND TERM OF OFFICE OF THE PRESIDENT OF CHARTERED STATE UNIVERSITIES AND COLLEGES, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+**Section 1._Short title._** – This Act shall be known as the "_Higher Education Modernization Act of 1997._ "
+
+**Section 2._Declaration of policy._** – It is the declared policy of the State to establish, maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people society. Towards this end, the composition of the governing boards of chartered state universities and colleges is hereby modified in order to:
+
+(a) achieve a more coordinated and integrated system of higher education;
+
+(b) render them more effective in the formulation and implementation of policies on higher education;
+
+(c) provide for more relevant direction in their governance; and
+
+(d) ensure the enjoyment of academic freedom as guaranteed by the Constitution.
+
+**Section 3._The Governing Boards; manner of appointment._** –
+
+(a) _Composition_ – The governing body of state universities and colleges is hereby in the Board of Regents for universities and in the Board of Trustees for colleges which shall be composed of the following:
+
+(i) Chairman of the Commission on Higher Education (CHED), Chairman;
+
+(ii) President of the university or college, Vice Chairman;
+
+(iii) Chairmen of the Congressional Committees on Education and Culture;
+
+(iv) Regional Director of the National Economic Development Authority (NEDA) where the main campus of the university or college is located;
+
+(v) Regional Director of the Department of Science and Technology (DOST) in case of science and technological colleges; or the Regional Director of the Department of Agriculture colleges; or the Secretary of Education for an Autonomous Region. In lieu of such representation, the commanding generals of the Philippine Air Force and the Philippine Navy shall sit as members of the Board of the Philippine State College of Aeronautics and the Philippine Merchant marine Academy, respectively;
+
+(vi) President of the faculty association;
+
+(vii) President of the supreme student council or the student representative elected by the student council: _Provided,_ That in the absence of a student council president of student representative elected by the student council, the university or college shall schedule one (1) weekly for the campaign and election of student representative;
+
+(viii) President of the alumni association of the institution concerned;
+
+(ix) Two (2) prominent citizens who have distinguished themselves in their professions or fields of specialization chosen from among lists of at least five (5) persons qualified in the city or the province where the school is located, as recommended by the search committee constituted by the President consultation with the Chairman of the CHED based on the normal standards and qualifications for the position;
+
+The faculty and the student council shall be represented of their respective federations in multi-campus universities and colleges. The private sector representatives shall be appointed by the Board of Regents/Trustees upon recommendation of a duly constituted search committee.
+
+(b) _Term of office_ – The president of the faculty and alumni associations and the student regents or trustees shall sit in the board until expiration of their term of office in such capacities.1aшphi1
+
+The prominent citizens shall serve for a term of two (2) years.
+
+(c)_Meetings; quorum_ – The Board of Regents/Trustees shall regularly convene at least once every quarter. The Chairman of the Board of Regents/Trustees may call a special meeting whenever necessary: _Provided,_ That members are notified in writing at least three (3) days prior to said meeting.
+
+A majority of all members holding office shall constitute a quorum for board meetings: _Provided,_ that the Chairman of the CHED who is the chairman of the Board or the president of the university or college is among those present in the meeting. In the absence of the Chairman of the CHED, a commissioner of the CHED, duly designed by him, shall represent him in the meeting all the rights and responsibilities of a regular member: _Provided, however,_ That in the said meeting, the president of the university or college as vice chairman shall be the presiding officer: _Provided, further,_ That this proviso notwithstanding, the Chairman of the CHED is hereby authorized to designate a CHED Commissioner the regular Chair to the Board of a particular university or college, in which case said CHED Commissioner shall act as the presiding officer.
+
+The members shall serve without compensation, but they shall be reimbursed for necessary expense incurred in their attendance of meetings of the Board or in connection with their official business authorities by resolution of the Board.
+
+**Section 4._Powers and duties of Governing Boards._** – The governing board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under Section 36 of Batas Pambansa Blg. 68 otherwise known as the Corporation Code of the Philippines;
+
+(a) to enact rules and regulations not contrary to law as may be necessary to carry to carry out the purposes and functions of the university or college;
+
+(b) to receive and appropriate all sums as may be provided, for the support of the university or college in the manner it may determine, in its discretion, to carry out the purposes and functions of the university or college;
+
+(c) to receive in trust legacies, gifts and donations of real and personal properties of all kinds, to administer and dispose the same when necessary for the benefit of the university or college, subject to limitations, directions and instructions of the donors, if any. Such donations shall be exempt from all taxes and shall be considered as deductible items from the income tax of the donor: _Provided, however,_ That the rights, privileges and exemptions extended by this Act shall likewise be extended to non-stock, non-profit private universities and colleges: _Provided, finally,_ That the same privileges shall also be extended to city colleges and universities with the approval of the local government to city colleges and universities with the approval of the local government unit concerned and in coordination with the CHED;
+
+(d) to fix the tuition fees and other necessary school charges, such as but not limited matriculation fees, graduation fees and laboratory fees, as their respective boards may deem proper to impose after due consultations with the involved sectors.
+
+Such fees and charges, including government subsidies and other income generated by the university or college, shall constitute special trust funds and shall be deposited in any authorized government depository bank, and all interests shall accrue therefrom shall part of the same fund for the use of the university or college: _Provided,_ That income derived from university hospitals shall be exclusively earmarked for the operating expenses of the hospitals.
+
+Any provision of existing laws, rules and regulations to the contrary notwithstanding, any income generated by the university or college from tuition fees and other charges, as well as from the operation of auxiliary services and land grants, shall be retained by the university or college, and may be disbursed by the Board of Regents/Trustees for instruction, research, extension, or other programs/projects of the university or college: _Provided,_ That all fiduciary fees shall be disbursed for the specific purposes for which they are collected.
+
+If, for reason of control, the university or college, shall not be able to pursue any project for which funds have been appropriated and, allocated under its approved program of expenditures, the Board of Regents/Trustees may authorize the use of said funds for any reasonable purpose which, in its discretion, may be necessary and urgent for the attainment of the objectives and goals of the universities or college;
+
+(e) to adopt and implement a socialized scheme of tuition and school fees for greater access to poor but deserving students;
+
+(f) to authorize the construction or repair of its buildings, machineries, equipment and other facilities and the purchase and acquisition of real and personal properties including necessary supplies, materials and equipment. Purchases and other transactions entered into by the university or college through the Board of Regents/Trustees shall be exempt from all taxes and duties;
+
+(g) to appoint, upon the recommendation of the president of the university or college, vice presidents, deans, directors, heads of departments, faculty members and other officials and employees;
+
+(h) to fix and adjust salaries of faculty members and administrative officials and employees subject to the provisions of the revised compensation and classification system and other pertinent budget and compensation laws governing hours of service, and such other duties and conditions as it may deem proper; to grant them, at its discretion, leaves of absence under such regulations as it may promulgate, any provisions of existing law to the contrary not with standing; and to remove them for cause in accordance with the requirements of due process of law;
+
+(i) to approve the curricula, institutional programs and rules of discipline drawn by the administrative and academic councils as herein provided;
+
+(j) to set polices on admission and graduation of students;
+
+(k) to award honorary degrees upon persons in recognition of outstanding contribution in the field of education, public service, arts, science and technology or in any field of specialization within the academic competence of the university or college and to authorize the award of certificates of completion of non-degree and non-traditional courses;
+
+(l) to absorb non-chartered tertiary institutions within their respective provinces in coordination with the CHED and in consultation with the Department of Budget and Management, and to offer therein needed programs or courses, to promote and carry out equal access to educational opportunities mandated by the Constitution ;
+
+(m) to establish research and extension centers of the SUC where such will promote the development of the latter;
+
+(n) to establish chairs in the university or college and to provide fellowships for qualified faculty members and scholarships to deserving students;
+
+(o) to delegate any of its powers and duties provided for hereinabove to the president and/or other officials of the university or college as it may deem appropriate so as to expedite the administration of the affairs of the university or college;
+
+(p) to authorize an external management audit of the institution, to be financed by the CHED and to institute reforms, including academic and structural changes, on the basis of the audit results and recommendations;
+
+(q) to collaborate with other governing boards of SUCs within the province or the region, under the supervision of the CHED and in consultation with the Department of Budget and Management, the restructuring of said colleges and universities to become more efficient, relevant, productive, and competitive;
+
+(r) to enter into joint ventures with business and industry for the profitable development and management of the economic assets of the college or institution, the proceeds from which to be used for the development and strengthening of the college or university;
+
+(s) to develop consortia and other forms of linkages with local government units, institutions and agencies, both public and private, local and foreign, in furtherance of the purposes and objectives of the institution;
+
+(t) to develop academic arrangements for institution capability building with appropriate institutions and agencies, public or private, local or foreign, and to appoint experts/specialists as consultants, or visiting or exchange professors, scholars, researchers, as the case may be;
+
+(u) to set up the adoption of modern and innovative modes of transmitting knowledge such as the use of information technology, the dual system, open learning, community laboratory, etc., for the promotion of greater access to higher education;
+
+(v) to establish policy guidelines and procedures for participative decision-making and transparency within the institution;
+
+(w) to privatize, where most advantageous to the institution, management and non-academic services such as health, food, building or grounds or property maintenance and similar such other objectives; and
+
+(x) to extend the term of the president of the college or university beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated as outstanding and upon unanimous recommendation by the search committee for the president of the institution concerned.
+
+**Section 5._Promulgation and implementation of policies._** – The governing boards shall promulgate and implement policies in accordance with the declared state policies on education and other pertinent provisions of the Philippine Constitution on education, science and technology, arts, culture and sports; as well as the policies, standards and thrusts of the CHED under Republic Acts No. 7722.
+
+**Section 6._The Administration._** – The administration of the university or college shall be vested in the president of the university or college who shall render full-time service. He shall be appointed by the Board of Regents/Trustees, upon the recommendation of a duly constituted search committee. He shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That this provision shall not adversely affect the terms of the incumbents.
+
+The president shall be assisted by a vice president for academic affairs who shall be appointed by the Board upon the former's recommendation without prejudice to the appointment of more than one vice president when so warranted.
+
+In case of vacancy by reason of death, resignation, removal for cause or incapacity of the president to perform the functions of his office, the Board shall have the authority to designate an officer-in-charge pending the appointment of a new president.
+
+In case of vacancy in the office of the president as mentioned in the immediately preceding paragraph, his successors shall hold office for the unexpired term.
+
+**Section 7._The Secretary of the University or College._** – The Board shall appoint a secretary who shall serve as such for both the Board and the university or college and shall keep all records and proceedings of the Board. He shall communicate to each member of the Board notice of meetings.
+
+**Section 8._The Treasurer of the Philippines._** – The Treasurer of the Philippines shall be the ex-officio treasurer of the university or college. All accounts and expenses of the university or college shall be audited by the Commission on Audit or its duly authorized representative.
+
+**Section 9._Administrative Council._** – There shall be an administrative council consisting of the president of the university or college as Chairman, the vice president(s), deans, directors and other officials of equal rank as members, and whose duty is to review and recommend to the Board of Regents/Trustees policies governing the administration, management and development planning of the university or college for appropriate action.
+
+**Section 10._Academic Council._** – There shall be an academic council with the president of the university or college as Chairman and all members of the instructional staff with the rank of not lower than assistant professor as members.
+
+The academic council shall have the power to review and recommend the curricular offerings and rules of discipline of the university or college subject for appropriate action of the Board of Regents/Trustees. It shall fix the requirements for the admission of students as well as for graduation and the conferment of degrees subject to review and/or approval by the Board of Regents/Trustees through the president of the university or college.
+
+**Section 11._Academic freedom._** – Pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines, all institutions of higher learning, public or private, shall enjoy academic freedom and institutional autonomy.
+
+**Section 12._Admission._** – No student shall be denied admission to any university or college by reasons of sex, nationality, religion, political affiliation, or physical disability.
+
+**Section 13._Exclusion clause._** – Except for the chairmanship of the Board, the provisions of this Act shall not affect the charter of the University of the Philippines System. Likewise, this Act shall not affect the charter of the Mindanao State University (MSU) except for the provision of this Act on chairmanship of the Board, and the membership of the Chairmen of the Congressional Committees on Education and Culture.
+
+**Section 14._Filing of report._** – On or before the fifteenth (15th) day of the second month after the opening of regular classes each year, the president of the university or college shall file with the Office of the President of the Philippines through the Chairman of the CHED, and with the Senate and House of Representatives a detailed report on the progress, conditions and needs of the university or college.
+
+**Section 15._Implementation._** – The Chairman of the CHED is hereby directed to take such steps as are necessary for the immediate implementation of this Act.
+
+**Section 16._Separability clause._** – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
+
+**Section 17._Repealing clause._** – All laws, presidential decrees, executive orders, letters of instruction and SUC charters contrary to or inconsistent with this Act are hereby repealed or amended accordingly.
+
+**Section 18._Effectivity clause._** – This Act shall take effect upon its approval.
+
+Approved: June 6, 1997

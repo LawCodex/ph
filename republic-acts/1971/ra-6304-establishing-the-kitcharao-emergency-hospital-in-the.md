@@ -1,0 +1,37 @@
+---
+title: "Republic Act No. 6304 — An Act Establishing the Kitcharao Emergency Hospital in the Municipality of Kitcharao, Province of Agusan Del Norte and Appropriating Funds Therefor."
+identifier: "Republic Act No. 6304"
+number: "6304"
+type: act
+jurisdiction: ph
+language: en
+date: 1971-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1971/ra_6304_1971.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6304
+
+**An Act Establishing the Kitcharao Emergency Hospital in the Municipality of Kitcharao, Province of Agusan Del Norte and Appropriating Funds Therefor.**
+
+[ REPUBLIC ACT NO. 6304, June 19, 1971 ]
+
+AN ACT ESTABLISHING THE KITCHARAO EMERGENCY HOSPITAL IN THE MUNICIPALITY OF KITCHARAO, PROVINCE OF AGUSAN DEL NORTE AND APPROPRIATING FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+There shall be established an emergency hospital in the Municipality of Kitcharao, Province of Agusan del Norte, to be known as the Kitcharao Emergency Hospital.1âшphi1
+
+## Section 2
+
+The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Enacted without Executive approval, June 19, 1971.

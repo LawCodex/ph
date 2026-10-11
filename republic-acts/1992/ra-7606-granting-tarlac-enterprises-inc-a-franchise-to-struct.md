@@ -1,0 +1,74 @@
+---
+title: "Republic Act No. 7606 — An Act Granting Tarlac Enterprises, Inc. a Franchise to Struct, Operate and Maintain An Electric Light, Heat and Power System in the Municipality of Tarlac, Province of Tarlac, for a Period of Twenty-Five (25) Years, and for Other Purposes"
+identifier: "Republic Act No. 7606"
+number: "7606"
+type: act
+jurisdiction: ph
+language: en
+date: 1992-06-04
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1992/ra_7606_1992.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1992/pdf/ra_7606_1992.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 7606
+
+**An Act Granting Tarlac Enterprises, Inc. a Franchise to Struct, Operate and Maintain An Electric Light, Heat and Power System in the Municipality of Tarlac, Province of Tarlac, for a Period of Twenty-Five (25) Years, and for Other Purposes**
+
+[ REPUBLIC ACT NO. 7606, June 04, 1992 ]
+
+AN ACT GRANTING TARLAC ENTERPRISES, INC., A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN THE MUNICIPALITY OF TARLAC, PROVINCE OF TARLAC, FOR A PERIOD OF TWENTY-FIVE (25) YEARS, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution and the provisions of laws, orders or issuances not inconsistent herewith, Tarlac Enterprises, Inc., hereunder referred to as the grantee, is hereby granted a franchise to construct, operate and maintain an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and power for sale in the Municipality of Tarlac, Province of Tarlac, for a period of twenty-five (25) years from the date of the approval of this Act.
+
+## Section 2
+
+The grantee shall have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places within the territory covered by this franchise, poles, wires, transformers, capacitors, overhead protective devices, poleline hardware and other equipment necessary for the safe distribution of electric current to the public.
+
+The grantee shall have the corresponding duty to restore to their original condition the public place or places so affected by such installation and/or construction.
+
+## Section 3
+
+At such time that the National Power Corporation shall have established its line in the areas adjacent to or over the territory covered by this franchise, it shall make available its power and heat only after negotiations with and through or with the authority and consent of the grantee, which shall be the exclusive distributor of whatever power the aforesaid corporation may make available to adjacent areas or within the territory covered by this franchise.
+
+## Section 4
+
+The grantee shall undertake the electrification of all unenergized barangays in the Municipality of Tarlac, Province of Tarlac, within a radius of five kilometers (5 km.) from its existing lines within five (5) years and the remaining unenergized barangays in the said municipality within fifteen (15) years from the approval of this Act.
+
+Should there be applications for connections within an unenergized barangay from more than one hundred (100) households, the grantee is obligated to accelerate the electrification and to provide the electric service within one (1) year of application.
+
+## Section 5
+
+The rates for the sale of electricity, heat and power by the grantee to its consumers shall be subject to the regulations of the Energy Regulatory Board.1âшphi1
+
+The Energy Regulatory Board (ERB) may also impose fines or penalties to the grantee should the latter fail to live up to its business expansion plan indicated in Section 4 herein.
+
+## Section 6
+
+In the event that the government should desire to operate and maintain for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and shall turn over to the government all its equipment at fair market value.
+
+## Section 7
+
+The grantee shall be liable to pay franchise, income and other taxes as provided for in Executive Order No. 72 and Section 24(c) of the National Internal Revenue Code, as amended.
+
+The grantee shall likewise be extended all the rights, privileges and benefits accorded to existing private electric utilities in the country.
+
+## Section 8
+
+The franchise herein granted shall be subject to amendment, alteration or repeal by Congress when the common good so requires.
+
+## Section 9
+
+The grantee shall submit an annual accomplishment report to the Congress of the Republic of the Philippines of all its obligations and duties under this franchise.
+
+## Section 10
+
+This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines.
+
+Approved, lapsed into law on June 4, 1992 without the President signature in accordance with Article VI, Section 27(1) of the Constitution.

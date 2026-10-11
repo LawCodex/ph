@@ -1,0 +1,37 @@
+---
+title: "Republic Act No. 1008 — An Act Defining the Boundaries of the Municipality of Padada, Province of Davao"
+identifier: "Republic Act No. 1008"
+number: "1008"
+type: act
+jurisdiction: ph
+language: en
+date: 1954-06-12
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1954/ra_1008_1954.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1008
+
+**An Act Defining the Boundaries of the Municipality of Padada, Province of Davao**
+
+**REPUBLIC ACT No. 1008**
+
+**An Act Defining the Boundaries of the Municipality of Padada, Province of Davao**
+
+_Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:_
+
+## Section 1
+
+The boundaries of the municipality of Padada, Province of Davao, shall be as follows: On the North, the boundary line between the municipalities of Padada and Hagonoy shall be, from east to west, the Padada River from the Gulf of Davao to Km. 315 of the Digos-Malalag-Makar Road and a straight line along latitude 6° 42′ from the said Km. 315 to the boundary line between the provinces of Davao and Cotabato; on the East, the boundary line of the Municipality of Padada shall be the limit of the territorial waters of the said municipality in the Gulf of Davao; on the South, the boundary line between the municipalities of Padada and Malalag shall be, from east to west, the Balasinon River from the Gulf of Davao to Km. 327 of the Digos-Malalag-Makar Road and a straight line along latitude 6° 36′ form the said Km. 327 to the boundary line between the provinces of Davao and Cotabato; and on the West, the boundary line of the municipality of Padada shall be the boundary line between the provinces of Davao and Cotabato.
+
+## Section 2
+
+The provisions of Executive Order Numbered Two hundred thirty-nine, series of nineteen hundred and forty-nine, of Executive Order Numbered Five hundred ninety-six, series of nineteen hundred and fifty-three, and of other executive orders which are inconsistent with the provisions of this Act are repealed.
+
+## Section 3
+
+This Act shall take effect upon its approval.1awp++i1
+
+Approved: June 12, 1954.

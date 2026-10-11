@@ -1,0 +1,61 @@
+---
+title: "Republic Act No. 6504 — An Act Granting Philippine Recreation Center, Inc., a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing."
+identifier: "Republic Act No. 6504"
+number: "6504"
+type: act
+jurisdiction: ph
+language: en
+date: 1972-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1972/ra_6504_1972.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6504
+
+**An Act Granting Philippine Recreation Center, Inc., a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing.**
+
+[ REPUBLIC ACT NO. 6504, June 17, 1972 ]
+
+AN ACT GRANTING PHILIPPINE RECREATION CENTER, INC., A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN A RACE TRACK FOR HORSE RACING.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Any provision of law to the contrary notwithstanding, there is hereby granted to Philippine Recreation Center, Inc., a corporation duly organized and registered under the laws of the Philippines, hereinafter called the grantee, its successors or assigns, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, operate and maintain one race track in any place within Quezon City, or Caloocan City or the Provinces of Rizal or Laguna, establish branches thereof for booking purposes and hold or conduct horse races therein with bettings either directly or by means of electric and/or computerized totalizator.
+
+## Section 2
+
+The grantee or its duly authorized agent may offer take or arranged bets within or outside the place, enclosure or track where the horse races are held. No person other than the grantee or its duly authorized agents shall take or arrange bets on any horse, or maintain or use a totalizator or other device, method or system to bet on any horse within or without the place, enclosure or track where the horse races are held by the grantee. Any violation of this section shall be punished by a fine of not less than two thousand pesos but no more than, five thousand pesos or by imprisonment for not less than one month but not more than six months, or both in the discretion of the court. If the offender is a partnership corporation, association, the criminal liability shall devolve upon its president, directors or any other officials responsible for the violation.
+
+## Section 3
+
+In order to maintain a clean, honest and orderly horse racing, the grantee shall provide mechanical and/or computerized devices, namely: a) photo patrol; b) automatic starter; c) electrical totalizator; d) photo finish devices; e) machine for the sale of daily double, "llave", forecast, and/or "quenella" tickets; f) facilities, laboratories and instruments for a clean, honest and orderly horse racing.
+
+## Section 4
+
+The total wager funds or gross receipts from the sale of betting tickets will be apportioned as fo lows: eighty-two and one-half _per centum_ (82 1/2%) shall be distributed in the form of dividends among the holders of betting tickets in the following manner; in parimutuel or regular races, the dividends shall be distributed among the ticket holders of win, place and show horse; in the case of the daily double, forecast and/or races, the dividends shall be distributed among the ticket holders of winning combinations of horses, _i.e.,_ two horses that won first place in the two races in the case of the daily double and in the case of forecast and "llave' among the ticket holders of winning combinations of horses, i.e., the two horses that won first and second places of either way as the case may be. The remaining balance of seventeen and one-half _per centum_ (17 1/2) shall be distributed as follows: ten _per centum_ (10%) shall be set aside as the commission of the grantee conducting the races; six and one-half _per centum_ (6 1/2%) shall be set aside for payments of stakes or prizes of win, place and show horses and the authorized bonus for jockeys; one-half _per centum_ (1/2%) shall be set aside for the benefit of the Jockeys and Trainers Association for a period of five years only, from the date of the approval of this Act. Thereafter, the one-half _per centum_ (1/2%) shall be set aside for the establishment and maintenance of a school for jockeys and hospital for horses to be administered and managed by a Board of Trustees consisting of three (3) members, namely the Chairman of the Games and Amusements Board the President of the Philippine Recreation Center, Inc., and the President of the Thoroughbred Horse Breeders Association of the Philippines, Inc. The receipts from betting corresponding to the fractions of ten centavos eliminated from the dividends paid to the winning tickets, commonly known as breakage, shall be set aside and allocated as follows: ten _per centum_ (10%) shall be set aside to the National Stud Farm; twenty _per centum_ (20%) to the provincial or city hospital where the race track is located, and thirty _per centum_ (30%) to the rehabilitation of drug addicts as may be determined by the Office of the President; forty _per centum_ (40%) for the Philippine Amateur Athletic Federation.
+
+## Section 5
+
+The provisions of any existing law to the contrary notwithstanding, the grantee is hereby authorized to hold horse races on all Saturdays, Sundays and official holidays of the year, excluding Thursday and Fridays of the Holy Week, June twelfth, commonly known as Independence Day, Election Day and December thirtieth, commonly known as Rizal Day.
+
+## Section 6
+
+In consideration of the franchise and rights herein granted to the Philippine Recreation Center, Inc., the grantee shall pay into the National Treasury a franchise tax equal to twenty-five _per centum_ (25%) of its gross earnings from the horse races authorized to be held under this franchise which is equivalent to the ten _per centum_ (10%) of the total wages funds or gross receipts on the sale of betting tickets during the racing day as mentioned in Section four hereof, allotted as follows: a) National Government, ten _per centum_ (10%) ; b) Philippine Charity Sweepstakes Office, seven _per centum_ (7%) ; c) Philippine Tuberculosis Society, six _per centum_ (6%) ; d) and White Cross, two _per centum_ (2%). The said tax shall be paid monthly and shall be in lieu of any and all taxes, except the income tax, of any kind nature and description levied, established or collected by any authority whether barrio, municipality, city, provincial or national, on its properties, whether real or personal, from which taxes the grantee is hereby expressly exempted.
+
+## Section 7
+
+The provisions of this Act shall take precedence, over the provisions of Republic Act Numbered Three hundred nine and all other laws, executive orders and regulations which are inconsistent herewith.1âшphi1
+
+## Section 8
+
+The Games and Amusements Board shall have supervision and control over the races to be ducted by the grantee, to enforce laws, rules and regulations governing horse racing as embodied under Republic Act Numbered Three hundred nine, as amended. The Games and Amusements Board shall also assign the GAB auditors and inspectors to supervise and regulate placing of bets, proper computation of dividends, and distribution of wager funds. All other provisions of Republic Act Numbered Three hundred nine, not inconsistent with this Act, should be deemed incorporated herein.
+
+## Section 9
+
+This Act shall take effect upon its approval.
+
+Enacted without the Executive approval, June 17, 1972.

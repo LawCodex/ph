@@ -1,0 +1,73 @@
+---
+title: "Republic Act No. 1839 — An Act Granting Valeriano C. Bueno a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
+identifier: "Republic Act No. 1839"
+number: "1839"
+type: act
+jurisdiction: ph
+language: en
+date: 1957-06-22
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1957/ra_1839_1957.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1839
+
+**An Act Granting Valeriano C. Bueno a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines**
+
+**REPUBLIC ACT No. 1839**
+
+**An Act Granting Valeriano C. Bueno a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+There is hereby granted to Valeriano C. Bueno, his heirs or assigns, a temporary permit to construct, establish, maintain and operate in the Philippines, at such places as the said grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and private coastal radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
+
+## Section 2
+
+The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point and private coastal radio stations or any of them on lands of the public domain upon such terms as he may prescribe.
+
+## Section 3
+
+This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction of said station be begun within one year from the date of approval of this Act and be completed within two years from said date.
+
+## Section 4
+
+The grantee, his heirs or assigns, shall not engage in domestic business of the telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, establish, maintain and operate private fixed point-to-point and private coastal radio stations in such places within the Philippines as the interest of his trade and business may justify.
+
+## Section 5
+
+This temporary permit shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder, but the grantee, his heirs or assigns, may use the international distress frequency of five hundred kilocycles and the high distress frequency of eight thousand two hundred eighty kilocycles whenever necessary.
+
+## Section 6
+
+No fees are chargeable, as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.
+
+## Section 7
+
+The grantee, his heirs or assigns, shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+## Section 8
+
+The grantee, his heirs or assigns, shall hold the national provincial and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of his radio stations.
+
+## Section 9
+
+A special right is hereby reserved to the President m of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee's radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
+
+## Section 10
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, nor the rights or privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, firm, company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this temporary permit may be sold, transferred, or assigned, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+## Section 11
+
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 12
+
+This Act shall take effect upon its approval.
+
+Approved: June 22, 1957.

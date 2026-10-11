@@ -1,0 +1,66 @@
+---
+title: "Republic Act No. 6005 — An Act Granting Natividad R. Ortega a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System and An Ice Plant in the Municipality of Mahaplag, Province of Leyte, and to Sell and Distribute Electric Light, Heat, Power and Ice Therein"
+identifier: "Republic Act No. 6005"
+number: "6005"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-08-04
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_6005_1969.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6005
+
+**An Act Granting Natividad R. Ortega a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System and An Ice Plant in the Municipality of Mahaplag, Province of Leyte, and to Sell and Distribute Electric Light, Heat, Power and Ice Therein**
+
+[ REPUBLIC ACT NO. 6005, August 04, 1969 ]
+
+AN ACT GRANTING NATIVIDAD R. ORTEGA A FRANCHISE TO INSTALL, OPERATE AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM AND AN ICE PLANT IN THE MUNICIPALITY OF MAHAPLAG, PROVINCE OF LEYTE, AND TO SELL AND DISTRIBUTE ELECTRIC LIGHT, HEAT, POWER AND ICE THEREIN.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution,, there is granted to Natividad R. Ortega in the Municipality of Mahaplag, Province of Leyte, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, operate and maintain electric light, heat and power system and an ice plant for the purpose of generating, distributing electric light heat and power and manufacturing ice for sale within the limits of the said municipality.
+
+## Section 2
+
+In the event that the grantee shall purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+## Section 3
+
+The grantee shall manufacture and supply ice up to the limit of the capacity of her plant, said limit to be determined by the Public Service Commission.
+
+## Section 4
+
+All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee, whenever the Public Service Commission shall have determined that public interest reasonably requires it, shall change or alter any of her apparatus and appurtenances at her expense.
+
+## Section 5
+
+If the grantee shall not commence the manufacture and distribution of ice in the Municipality of Mahaplag, Province of Leyte, within one year from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall be null and void.
+
+## Section 6
+
+This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration, or renewal by the Congress of the Philippines when public interest so requires.
+
+## Section 7
+
+The books, records and accounts of the grantee shall always be open to the inspection by the Auditor General or his authorized representatives, and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing1 the gross receipts for the quarter past.
+
+## Section 8
+
+It is expressly provided that in the event the Government decides to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender her franchise and turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+## Section 9
+
+In consideration of this franchise the grantee shall pay a tax equivalent to five per cent of her gross income.
+
+## Section 10
+
+This Act shall take effect upon its approval.1a⍵⍴h!1
+
+Enacted without Executive approval, August 4, 1969.

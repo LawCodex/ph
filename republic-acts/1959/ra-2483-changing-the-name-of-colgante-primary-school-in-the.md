@@ -1,0 +1,33 @@
+---
+title: "Republic Act No. 2483 — An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School"
+identifier: "Republic Act No. 2483"
+number: "2483"
+type: act
+jurisdiction: ph
+language: en
+date: 1959-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1959/ra_2483_1959.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2483
+
+**An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School**
+
+**REPUBLIC ACT No. 2483**
+
+**An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The name of the Colgante Primary School in the Municipality of Apalit, Province of Pampanga, is hereby changed to Gonzales-Sioco Memorial School.
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 21, 1959.

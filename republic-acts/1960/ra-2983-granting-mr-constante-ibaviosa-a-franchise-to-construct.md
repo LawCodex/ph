@@ -1,0 +1,73 @@
+---
+title: "Republic Act No. 2983 — An Act Granting Mr. Constante Ibaviosa a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila and Suburbs, and to Sell Ice and to Supply Cold Storage Therein"
+identifier: "Republic Act No. 2983"
+number: "2983"
+type: act
+jurisdiction: ph
+language: en
+date: 1960-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1960/ra_2983_1960.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2983
+
+**An Act Granting Mr. Constante Ibaviosa a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila and Suburbs, and to Sell Ice and to Supply Cold Storage Therein**
+
+**REPUBLIC ACT No. 2983**
+
+**An Act Granting Mr. Constante Ibaviosa a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila and Suburbs, and to Sell Ice and to Supply Cold Storage Therein**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the conditions imposed by this Act, there is hereby granted to Mr. Constante Ibaviosa, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Manila and suburbs, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission or its legal successor.
+
+## Section 2
+
+The grantee shall manufacture and supply ice up to the limit of the capacity of his plant, said limit to be determined by the Public Service Commission or its legal successor in such certificate of convenience and public necessity as may be issued by it as prescribed by Section four.
+
+## Section 3
+
+All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee shall, whenever the Public Service Commission shall determine that public interest reasonably requires it, change or alter any of his apparatus and appurtenances at grantee’s expense.
+
+## Section 4
+
+This franchise shall continue for a period of fifty years from the date said plant and cold storage shall be placed in operation and/or shall commence the manufacture and distribution of ice in the City of Manila and suburbs, and is made subject to the express condition that the same shall be null and void unless the construction of said plant and cold storage be begun within two years from the date of approval of this Act and completed within four years from said date, except when prevented by an act of God, or force majeure, martial law, riot, civil commotion, usurpation of military power or any other cause beyond the grantee’s control.
+
+## Section 5
+
+After grantee’s compliance with the requirements of the next preceding section, the Public Service Commission or its legal successor, by proper order or writ, shall authorize the construction of necessary work for the purposes of this franchise within a reasonable time to be determined by the said Commission.
+
+Upon determination by the Public Service Commission or its legal successor after a hearing, upon reasonable written notice to the grantee, that the grantee has violated any of the provisions of this section as to the commencement and/or completion of work authorized by the certificate of convenience and public necessity, the said Commission or its legal successor shall declare the bond or bonds forfeited as liquidated damages and not as penalty to the National Government. The said Commission or its legal successor shall order the return of the deposit as aforestated, together with any interest or dividends thereon received by the Treasurer of the Philippines, to the grantee upon the satisfactory completion of any work authorized by its certificate of convenience and public necessity, in accordance with the terms and conditions of said certificate obtained, and the Treasurer of the Philippines shall return said deposit to the grantee together with said interest and/or dividends immediately upon presentation to him of a certified copy of such order of the Public Service Commission or its legal successor.
+
+## Section 6
+
+The books, records and accounts of the grantee shall always be open to the inspection of the municipal treasurer or his authorized representatives, and it shall be the duty of the grantee to submit to the municipal treasurer quarterly reports in duplicate, showing the gross receipts for the quarter past, one of which shall be forwarded by the municipal treasurer to the Auditor General, who shall keep the same on file.
+
+## Section 7
+
+The grantee, with the approval of the Congress of the Philippines first had, may sell, lease, grant, convey, assign, give in usufruct, or transfer this franchise and all property and rights acquired thereunder to any individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company competent to operate the business hereby authorized, but transfer of title to the franchise or any right of ownership or interest acquired under such sale, lease, grant, conveyance, assignment, gift in usufruct, or transfer shall not be effective even after such approval shall have been obtained until there shall have been filed in the Office of the Public Service Commission or its legal successor an agreement in writing by which the individual, co-partnership, private, public, or quasi-public association, corporation, or joint-stock company in whose favor such sale, lease, grant, conveyance, assignment, gift in usufruct, or transfer is made, shall be firmly bound to comply with all the terms and conditions imposed upon the grantee by this franchise and by any and all certificates of convenience and public necessity therefor issued by the Public Service Commission or its legal successor, and to accept the same subject to all existing terms and conditions.
+
+## Section 8
+
+The Public Service Commission or its legal successor shall have the power, after a reasonable written notice to the grantee and a hearing of the interested parties, to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions thereof, unless such failure shall have been directly and primarily caused by an act of God, force majeure, usurped rights, uprising or other cause beyond the grantee’s control. Against such declaration of forfeiture by the Public Service Commission or its legal successor, the grantee may apply for the remedies provided in Section thirty-four and thirty-six of Commonwealth Act Numbered One hundred forty-six as amended. The remedy provided herein shall not be a bar to any other remedy provided by existing laws for the forfeiture of this franchise.
+
+## Section 9
+
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.
+
+It shall be the duty of the grantee to submit to the City Treasurer a quarterly report in duplicate, showing the gross receipt for the quarter past, one of which shall be forwarded by the City Treasurer to the Auditor General, who shall keep the same on file.
+
+## Section 10
+
+In the event of any competing individual, association of persons or corporation receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons or corporation.
+
+## Section 11
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1960.

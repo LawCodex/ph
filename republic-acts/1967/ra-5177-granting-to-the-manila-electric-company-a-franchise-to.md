@@ -1,0 +1,112 @@
+---
+title: "Republic Act No. 5177 — An Act Granting to the Manila Electric Company a Franchise to Construct, Maintain, and Operate an Electric Light, Heat, and Power System for the Purpose of Generating and Distributing Electric Light, Heat, and Power, for Sale Within the Limits of the Municipalities of Bacoor and Imus, Province of Cavite, and for Other Purposes"
+identifier: "Republic Act No. 5177"
+number: "5177"
+type: act
+jurisdiction: ph
+language: en
+date: 1967-09-07
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1967/ra_5177_1967.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1967/pdf/ra_5177_1967.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5177
+
+**An Act Granting to the Manila Electric Company a Franchise to Construct, Maintain, and Operate an Electric Light, Heat, and Power System for the Purpose of Generating and Distributing Electric Light, Heat, and Power, for Sale Within the Limits of the Municipalities of Bacoor and Imus, Province of Cavite, and for Other Purposes**
+
+**REPUBLIC ACT No. 5177**
+
+An Act Granting to the Manila Electric Company a Franchise to Construct, Maintain, and Operate an Electric Light, Heat, and Power System for the Purpose of Generating and Distributing Electric Light, Heat, and Power, for Sale Within the Limits of the Municipalities of Bacoor and Imus, Province of Cavite, and for Other Purposes
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the conditions established in this Act, there is hereby granted to the Manila Electric Company hereinafter known as the grantee, a corporation duly organized under the laws of the Philippines and domiciled in the City of Manila, Philippines, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain, and operate an electric light, heat, and power system for the purpose of generating and distributing electric light, heat, and power, for sale within the limits of the municipalities of Bacoor, and Imus, Province of Cavite, Philippines.1avvphi1 The grantee shall further have the right and privilege to install, lay, and maintain in, along, under, and over public property of the municipalities, including the public streets and highways, provincial roads, bridges, and public squares within said municipalities all necessary apparatus and appurtenances for the transmission and distribution of electric current, and to supply, sell, and furnish such current to any individual, co-partnership, private, public or quasi-public association, corporation or joint-stock company, within the limits of said municipalities for national, provincial, municipal, domestic, or manufacturing uses or for any other use to which electricity may be put, and to charge and collect a schedule of prices and rates for the use of electric current so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission or its legal successor.
+
+## Section 2
+
+Said grantee shall supply electric power, and/or heat, and/or light to any applicant for the same within fifteen days after the date of his application, in the order of the date of the application up to the limit of the capacity of the plant of said grantee, said limit to be determined by the Public Service Commission or its legal successor in such certificate or certificates of public necessity and convenience as may be issued by it as prescribed by Section eight of this Act; and should the demand for electric power, and/or heat, and/or light at any time increase beyond the capacity of the plant of said grantee to supply the same, the capacity of said plant shall be increased by said grantee to such reasonable extent and within such reasonable time as may be fixed by the Public Service Commission or its legal successor. If, however, the point at which the electric power, and/or heat, and/or light is to be supplied is more than thirty meters from the lines operated by said grantee, the latter should not be obligated to furnish said service, except upon the receipt of such additional prices and rates as the Commission, or its legal successor, may determine to be just and reasonable.
+
+## Section 3
+
+The grantee hereby agrees to compensate the municipalities for any damage to their properties by reason of the construction under this franchise or of any neglect or omission to keep the said poles, wires and other property in a safe condition, and to be responsible for any damage to individuals, co-partnerships, private, or quasi-public associations, or joint-stock companies, arising out of such fault, neglect, or negligence.
+
+## Section 4
+
+All apparatus and appurtenances used by the grantee shall be modern, safe, and first class in every respect (all wires shall be carefully connected, fastened, and insulated) and the grantee shall, whenever the Public Service Commission or its legal successor shall determine that the public interest reasonably requires it, place said wires in the underground pipes or conduits at its own expense, and without any cost or prejudice to the municipalities. The poles erected by the grantee shall be of such height as to maintain the wires stretched on the same at distance of at least twenty feet above the level of the ground, and shall be of such appearance as not to disfigure the streets, and shall be placed with due regard for the public safety, in accordance with a plan previously approved by the Public Service Commission after hearing the municipal authorities concerned.
+
+## Section 5
+
+Whenever it shall, in the opinion of the Public Service Commission or its legal successor, become necessary in the public interest or convenience, to change the location of the grantee’s poles, underground pipes or conduits, such change shall be made without delay by the grantee, its successors or assigns, at the grantee’s expense, and the same shall be placed where directed by the Public Service Commission after hearing the proper municipal authorities.
+
+## Section 6
+
+Whenever it shall be necessary in the erection of said poles, or in the placing of said wires in underground pipes or conduits, to take up any portion of the sidewalks or dig up the ground near the sidewalks or corners of the public streets or thoroughfares, the grantee shall, after said poles or underground pipes or conduits are constructed, replace without delay said sidewalks and other property in a proper manner, removing from the same all rubbish, dirt, refuse, or other material which may have been placed there, taken up or dug up in the erection of said poles, underground pipes or conduits, leaving all property in as good condition as before the work was done.
+
+## Section 7
+
+Whenever any individual, co-partnership, private, public or quasi-public association, corporation or joint-stock company has lawfully obtained permission to use any of the public property of said municipalities, including the public streets and highways, provincial roads, bridges, and public squares, for any cause whatsoever, making it necessary to raise or remove any of said poles and/or electric wires and/or pipes, which may hinder or obstruct the prosecution of said work, the said grantee, upon written notice by the municipal council of said municipality, served upon the grantee in person or upon its duly authorized agent at least forty-eight hours in advance, shall raise or remove any of its poles and/or electric wires and/or conduits and/or pipes which might hinder or obstruct the prosecution of said work so as to allow the free and unobstructed prosecution of said work. The notice shall be in the form of a duly adopted resolution of the municipal court concerned, served upon the grantee or its duly authorized agent by a person competent to testify in a civil action. The individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company at whose request the raising or removing of said poles and/or electric wires and/or conduits and/or pipes has been done shall pay one-half of the actual cost thereof to the grantee, and also one-half of the actual cost of the replacement. In the case of their refusal or failure of the grantee to comply with such notice, the Public Service Commission after hearing the municipal authorities concerned, shall order such poles and/or electric wires and/or conduits and/or pipes raised or removed at the sole expense of the grantee.
+
+## Section 8
+
+The grantee shall not exercise any rights or privileges under this franchise, nor commence any construction thereunder, unless and until the grantee shall first file with the Public Service Commission within one hundred twenty days from the date of the approval of this Act:
+
+(1) Its written acceptance of the terms and provisions of this Act;
+
+(2) Its written acceptance of the terms and conditions of the first certificate or certificates of necessity and convenience required by law for the granting of this franchise and issued by the Public Service Commission, of the form and character provided for in Act Numbered Thirty-one hundred and eight, as amended:
+
+(3) A document or documents evidencing receipt by the Treasurer of the Philippines, of the deposit or deposits required by law, of not less than one thousand pesos, Philippine currency, or negotiable bonds approved by the Public Service Commission for each certificate of public necessity and convenience as an earnest of good faith, and a guarantee that the grantee will complete the work within the period fixed by the Commission.
+
+If the grantee shall not commence the furnishing of electric current in any municipalities referred to in any certificate or certificates of public convenience and necessity, obtained and filed as herein provided within such period as the Public Service Commission or its legal successor shall have fixed, unless prevented by an act of God or force majeure, usurped or military power, martial law, riot, civil commotion or other cause beyond its control, said Commission or its legal successor may in its discretion, declare such certificate or certificates to be null and void, and the deposit or deposits made by the grantee forfeited to such municipality as liquidated damages and not as a penalty.
+
+## Section 9
+
+After compliance with the requirements of the next preceding section, the Public Service Commission or its legal successor, by proper order or writ, shall authorize the construction of necessary work for the purposes of this franchise, within a reasonable time to be determined by the said Commission.
+
+Upon determination by the Public Service Commission or its legal successor after a hearing upon reasonable written notice to the grantee that the grantee has violated any of the provisions of this Section as to the commencement and/or completion of the work authorized by a certificate or certificates of the Public Service Commission or its legal successor, the said Commission or its legal successor shall declare the bond or bonds forfeited as liquidated damages and not as a penalty to the municipality in which the failure to perform occurred. If the failure occurred in more than one municipality, the Public Service Commission or its legal successor shall determine the portion which each municipality shall receive. The Public Service Commission or its legal successor shall order the return of the deposit required by Section eight hereof, as amended, together with any interests or dividends thereon received by the Treasurer of the Philippines, to the grantee upon the satisfactory completion of any work authorized by its certificate or certificates of public necessity, in accordance with the terms and conditions of the certificate or certificates obtained, and the Treasurer of the Philippines, shall return said deposit to the grantee together with said interests and/or dividends immediately upon presentation to him of a certified copy of such order of the Public Service Commission or its legal successor.
+
+## Section 10
+
+The grantee shall pay the same taxes as are now or may hereafter be required by law from other individuals, co-partnerships, private, public or quasi-public associations, corporations, or joint-stock companies, on its real estate, buildings, plants, machinery, and other personal property, except property declared exempt in this section. In consideration of the franchise and rights hereby granted, the grantee shall pay into the municipal treasury of each municipality in which it is supplying electric current to the public under its franchise, a tax equal to two per centum of the gross earnings from electric current sold or supplied under this franchise in each said municipality. Said tax shall be due and payable quarterly and shall be in lieu of any and all taxes of any kind, nature, or description levied, established, or collected by any authority whatsoever, municipal, provincial, or national, now or in the future, on its poles, wires, insulators, switches, transformers and structures, installations, conductors, and accessories, placed in and over and under all public property, including public streets and highways, provincial roads, bridges and public squares, and on its franchise, rights, privileges, receipts, revenues and profits, from which taxes the grantee is hereby expressly exempted.
+
+## Section 11
+
+The municipalities shall have the privilege, without compensation, for and during the time the wires of the grantee are maintained on poles of using the said poles of the grantee for the purpose of installing, maintaining, and operating a police telephone and fire alarm system, but the wires of such police telephone or fire alarm system shall be placed and stretched in such manner as to cause no interference with or damage to the wires of the electric service of the grantee. Any of the municipalities above specified which make use of the aforesaid privilege shall be liable to the grantee for any damage or liability arising from the installation, maintenance or operation of said police telephone or fire alarm system.
+
+## Section 12
+
+This franchise is granted subject to the provisions of Act Numbered Thirty-one hundred and eight, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines, and that it shall be subject in all respects to the limitations upon corporations and the granting of franchises contained in the Constitution of the Philippines, and also subject to the provisions of Act Numbered Fourteen hundred and fifty-nine of the Philippine Legislature, as amended.
+
+## Section 13
+
+All lands or right of use or occupation of lands hereby granted by the national, provincial, or municipal governments shall upon the termination, revocation or repeal of this franchise, revert to the respective national, provincial or municipal governments which were the owners thereof or from which said lands or rights were derived.
+
+## Section 14
+
+The books, records and accounts of the grantee shall always be open to the inspection of the provincial treasurer or his authorized representative, and it shall be the duty of the grantee to submit to the provincial treasurer quarterly reports in duplicate showing the gross receipts for the quarter past, one of which shall be forwarded by the provincial treasurer to the Auditor General who shall keep the same on file.
+
+## Section 15
+
+The grantee, with the approval of the Congress of the Philippines first had, may sell, lease, grant, convey, assign, give in usufruct or transfer this franchise and all property and rights acquired thereunder to any individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company competent to operate the business hereby authorized, but transfer of title to the franchise or any right of ownership or interest acquired under such sale lease, grant, conveyance, assignment, gift in usufruct, or transfer shall not be effective even after such approval shall have been obtained until there shall have been filed in the office of the Public Service Commission or its legal successor an agreement in writing by which the individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company in whose favor such sale, lease, grant, conveyance, assignment, gift in usufruct, or transfer in made, shall be firmly bound to comply with all the terms and conditions imposed upon the grantee by this franchise and by any and all certificates of public necessity and convenience theretofore issued by the Public Service Commission or its legal successor, and to accept the same subject to all existing terms and conditions.
+
+## Section 16
+
+The Public Service Commission or its legal successor shall have the power, after a reasonable written notice to the grantee and a hearing of the interested parties, to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions thereof, unless such failure shall have been directly and primarily caused by the act of God, force majeure, usurped right, uprising or other cause beyond the grantee’s control. Against such declaration of forfeiture by the Public Service Commission or its legal successor, the grantee may apply for the remedies provided in sections twenty-eight and thirty-five of Act Numbered Thirty-one hundred and eight, as amended. The remedy provided herein shall not be a bar to any other remedy provided by existing laws for the forfeiture of this franchise.
+
+## Section 17
+
+In the event of any competing individual, association of persons, or corporation receiving either a franchise or permission from the Government of the Philippines or from any province, city or municipality thereof, to conduct a similar business in all or any substantial portion of the territory covered by this franchise to that of the grantee, in which franchise or permission there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons, or corporations.
+
+## Section 18
+
+Upon the approval of this Act the grantee may acquire by purchase all serviceable equipment of the electric operators in the municipalities of Bacoor and Imus. In the acquisition by the grantee of equipment belonging to the Communications and Electricity Development Authority, the chief of the Mechanical-Electrical Division of the Bureau of Public Works, the Chief of the Investigation and Planning Division of the National Power Corporation, or their authorized representatives, and an electrical engineer to be designated by the Public Service Commission, shall constitute the appraisal committee. The acquisition cost to be fixed by the appraisal committee shall be subject to the approval of the Public Service Commission sitting en banc.
+
+## Section 19
+
+This Act shall take effect upon its approval.
+
+Approved: September 7, 1967.

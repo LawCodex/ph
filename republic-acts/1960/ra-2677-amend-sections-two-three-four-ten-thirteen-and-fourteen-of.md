@@ -1,0 +1,74 @@
+---
+title: "Republic Act No. 2677 — An Act to Amend Sections Two, Three, Four, Ten, Thirteen, and Fourteen of Commonwealth Act Numbered One Hundred Forty-Six, as Amended, Otherwise Known as the Public Service Act, and for Other Purposes"
+identifier: "Republic Act No. 2677"
+number: "2677"
+type: act
+jurisdiction: ph
+language: en
+date: 1960-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1960/ra_2677_1960.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2677
+
+**An Act to Amend Sections Two, Three, Four, Ten, Thirteen, and Fourteen of Commonwealth Act Numbered One Hundred Forty-Six, as Amended, Otherwise Known as the Public Service Act, and for Other Purposes**
+
+**REPUBLIC ACT No. 2677**
+
+AN ACT TO AMEND SECTIONS TWO, THREE, FOUR, TEN, THIRTEEN, AND FOURTEEN OF COMMONWEALTH ACT NUMBERED ONE HUNDRED FORTY-SIX, AS AMENDED, OTHERWISE KNOWN AS THE PUBLIC SERVICE ACT, AND FOR OTHER PURPOSES.
+
+## Section 1
+
+Section two, three, four, ten, thirteen, and fourteen of Commonwealth Act Numbered One hundred forty-six, as amended, otherwise known as the Public Service Act, are hereby amended to read as follows:
+
+"Sec. 2. There is created under the Department of Justice a commission which shall be designated and known as the Public Service Commission, composed of one Public Service Commissioner and five Associate Commissioners, and which shall be vested with the powers and duties hereafter specified. Whenever the word 'Commission' is used in this Act, it shall be held to mean the Public Service Commission, and whenever the word 'Commissioner' is used in this Act it shall be held to mean the Public Service Commissioner or anyone of the Associate Commissioners.
+
+"The Public Service Commissioner and the Associate Public Service Commissioners shall be natural born citizens and residents of the Philippines, not under thirty years of age; members of the Bar of the Philippines, with at least five years of law practice or five years of employment in the government service requiring a lawyer's diploma; and shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress of the Philippines: _Provided_ , _however_ , That the present Commissioner and the personnel of the Commission shall continue in office without the necessity of reappointment.
+
+"The Commissioners shall have the rank and privilege of retirement of Judge of the Courts of First Instance."
+
+"Sec. 3. The Commissioner and Associate Commissioners shall hold office until they reach the age of seventy years, or until removed in accordance with the procedure prescribed in section one hundred and seventy-three of Act Numbered Twenty-seven hundred and eleven, known as the Revised Administrative Code: _Provided_ , _however_ , That upon retirement, any Commissioner or Associate Commissioner shall be entitled to all retirement benefits and privileges for Judges of the Courts of First Instance or under the retirement law to which he may be entitled on the date of his retirement. In case of the absence, for any reason, of the Public Service Commissioner, the Associate Commissioner with seniority of appointment shall act as Commissioner. If on account of absence, illness, or incapacity of any of the Commissioners, or whenever by reason of temporary disability of any Commissioner or of a vacancy occurring therein, the requisite number of Commissioners necessary to render a decision or issue an order in any case is not present, or in the event of a tie vote among the Commissioners, the Secretary of Justice may designate such number of Judges of the Courts of First Instance, or such number of attorneys of the legal division of the Commission, as may be necessary, to sit temporarily as Commissioners in the Public Service Commission.
+
+"The Public Service Commission shall sit individually or as a body en banc or in two divisions of three Commissioners each. The Public Service Commissioner shall preside when the Commission sits en banc and one division. In the other division, the Associate Commissioner with seniority of appointment in that division shall preside. Five Commissioners shall constitute a quorum for sessions en banc and two Commissioners shall constitute a quorum for the sessions of a division. In the absence of a quorum, the session shall be adjourned until the requisite number is present.
+
+"All the powers herein vested upon the Commission shall be considered vested upon any of the Commissioners, acting either individually or jointly as hereinafter provided. The Commissioners shall equitably divide among themselves all pending cases and those that may hereafter be submitted to the Commission, in such manner and form as they may determine, and shall proceed to hear and determine the case assigned to each or to their respective divisions, or to the Commission en banc as follows: uncontested cases, except those pertaining to the fixing of rates, shall be decided by one Commissioner; contested cases and all cases involving the fixing of rates shall be decided by the Commission in division and the concurrence of at least two Commissioners in the division shall be necessary for the promulgation of a decision or non-interlocutory order in these cases: _Provided_ , _however_ , That any motion for reconsideration of a decision or non-interlocutory order of any Commissioner or division shall be heard directly by the Commission en banc and the concurrence of at least four Commissioners shall be necessary for the promulgation of a final decision or order resolving such motion for reconsideration."
+
+"Sec. 4. The Public Service Commissioner shall receive an annual compensation of thirteen thousand pesos; each of the Associate Commissioners an annual compensation of twelve thousand pesos. The Commissioners shall be assisted by one chief attorney, one finance and rate regulation officer, one chief utilities regulation engineer, one transportation regulation chief, one secretary, and two public utilities advisers, who shall receive an annual compensation of seven thousand two hundred pesos each; five assistant chiefs of division who shall receive an annual compensation of six thousand pesos each, and eleven attorneys who shall receive an annual compensation of five thousand four hundred pesos each."
+
+"Sec. 10. The Commission shall have its office in the City of Manila at such place as may be designated, and may hold hearings on any proceedings at such times and places, within the Philippines, as it may provide by order in writing: _Provided_ , That during the months of April and May of each year, at least three Commissioners shall be on duty and the other Commissioners shall be on vacation in such manner that once every two years at least three of them shall be on duty during April and May: _Provided_ , _however_ , That in the interest of public service, the Secretary of Justice may require any or all of the Commissioners not on duty to render services and perform their duties during the vacation months."
+
+"Sec. 13. (a) The Commission shall have jurisdiction, supervision and control over all public services and their franchises, equipment, and other properties, and in the exercise of its authority, it shall have the necessary powers and the aid of public force: _Provided_ , That public services owned or operated by government entities or government-owned or controlled corporations shall be regulated by the Commission in the same way as privately-owned public services, but certificates of public convenience or certificates of public convenience and necessity shall not be required of such entities or corporations: And provided, further, That it shall have no authority to require steamboats, motorships and steamship lines, whether privately-owned, or owned or operated any government controlled corporation or instrumentality to obtain certificate of public convenience or to prescribe their definite routes or lines of service.
+
+"(b) The term 'public service' includes every person that now or hereafter may own, operate, manage, or control in the Philippines, for hire or compensation, with general or limited clientele, whether permanent, occasional or accidental, and done for general business purposes, any common carrier, railroad, street railway, traction railway, sub-way motor vehicle, either for freight or passenger, or both with or without fixed route and whatever may be its classification, freight or carrier service of any class, express service, steamboat, or steamship line, pontines, ferries, and water craft, engaged in the transportation of passengers or freight or both, shipyard, marine railway, marine repair shop, wharf or dock, ice plant, ice-refrigeration plant, canal, irrigation system, gas electric light, heat and power, water supply and power, petroleum, sewerage system, wire or wireless communications system, wire or wireless broadcasting stations and other similar public services: _Provided_ , _however_ , That a person engaged in agriculture, not otherwise a public service, who owns a motor vehicle and uses it personally and/or enters into a special contract whereby said motor vehicle is offered for hire or compensation to a third party or third engaged in agriculture, not itself or themselves a public service, for operation by the latter for a limited time and for a specific purpose directly connected with the cultivation of his or their farm, the transportation, processing, and marketing of agricultural products of such third party or third parties shall not be considered as operating a public service for the purposes of this Act.
+
+"(c) The word 'person' includes every individual, copartnership, joint-stock company or corporation, whether domestic or foreign, their lessees, trustees or receivers, as well as any municipality, province, city, government-owned or controlled corporation, or agency of the Government of the Philippines, and whatever other persons or entities that may own or possess or operate public services."
+
+"Sec. 14. The following are exempted from the provisions of the preceding section:
+
+"(a) Warehouses;
+
+"(b) Vehicles drawn by animals and bancas moved by oar or sail, and tugboats and lighters;
+
+"(c) Airships within the Philippines except as regards the fixing of their maximum rates on freight and passengers;
+
+"(d) Radio companies except with respect to the fixing of rates;
+
+"(e) Public services owned or operated by any instrumentality of the National Government or by any government-owned or controlled corporation, except with respect to the fixing of rates."
+
+## Section 2
+
+To carry out effectively the provisions of this Act, the amount of one hundred and fifty thousand pesos is hereby appropriated out of the fees collected under section forty of this Act or out of any funds in the National Treasury not otherwise appropriated in addition to the appropriations provided in the General Appropriations Act for the expenses of the Commission for the fiscal year July first, nineteen hundred fifty-nine to June thirty, nineteen hundred sixty: _Provided_ , _however_ , That any savings in the appropriations of the Commission for the fiscal year July first, nineteen hundred fifty-eight to June thirty, nineteen hundred fifty-nine shall likewise be available for this purpose.
+
+## Section 3
+
+All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 4
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1960

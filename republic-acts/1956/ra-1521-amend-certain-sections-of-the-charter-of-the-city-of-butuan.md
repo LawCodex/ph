@@ -1,0 +1,55 @@
+---
+title: "Republic Act No. 1521 — An Act to Amend Certain Sections of the Charter of the City of Butuan"
+identifier: "Republic Act No. 1521"
+number: "1521"
+type: act
+jurisdiction: ph
+language: en
+date: 1956-06-16
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1956/ra_1521_1956.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1521
+
+**An Act to Amend Certain Sections of the Charter of the City of Butuan**
+
+**REPUBLIC ACT No. 1521**
+
+**An Act to Amend Certain Sections of the Charter of the City of Butuan**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subsections (p) and (ii) of section fifteen of Republic Act Numbered Five hundred twenty-three, otherwise known as the Charter of the City of Butuan, are amended to read as follows:
+
+"(p) To tax, fix the license fee for, regulate the business and fix the location of, match factories, blacksmith shops, foundries, steam boilers, lumber mills, lumber yards, rattan yards, logponds or bundles, shipyards, the storage and sale of gunpowder, tar, pitch, resin, coal, oil, gasoline, benzine, turpentine, hemp, cotton, nitroglycerine, petroleum, or any products thereof, and other establishments likely to endanger the public safety or give rise to conflagrations or explosions, and, subject to the rules and regulations issued by the Director of Health in accordance with law, tanneries, renderies, tallow chandleries, embalmers, and funeral parlors, bone factories, and soap factories. As used herein, the term "logpond or bundle" means water or place along any bank of any river within the territorial jurisdiction of the city where timber, rattan, bamboos, and other forest products, are placed, stored, tied or rafted together before being towed or moved to ships ready for loading for commercial purposes.
+
+"(ii) To extend its ordinance over all waters within the city, over any boat or floating structures thereon, and also over any rafted timber, rattan, bamboos, and other forest products which are being towed either by launches, bancas or barotos up and down the river by manpower, for commercial purposes, by imposing taxes thereon, and, for the purpose of protecting and insuring the purity of the water supply of the city, over all territory within the drainage area of such water supply and within one hundred meters of any reservoir, conduit, canal, aqueduct, or pumping station used in connection with the city water service."
+
+## Section 2
+
+The second paragraph of section twenty-seven of Republic Act Numbered Five hundred twenty-three, otherwise known as the charter of the City of Butuan is amended to read as follows:
+
+"This chief of secret service shall receive a salary of not exceeding two thousand four hundred pesos per annum."
+
+## Section 3
+
+The first paragraph of section seventy-seven of the said Act is amended to read as follows:
+
+"Sec. 77. _The clerk and employees of the municipal court._ -There shall be a clerk of the Municipal Court who shall be appointed by the municipal judge in accordance with civil service law, rules and regulations, and who shall receive a compensation to be fixed by ordinance, approved by the Secretary of Justice, at not exceeding one thousand eight hundred pesos per annum. He shall keep the seal of the court and affix it to all orders, judgments, certificates, records, and other documents issued by the court. He shall keep a docket of the trials in the court, in which he shall record in a summary manner the names of the parties and the various proceedings in civil cases, and in criminal cases, the name of the defendant, the charge against him, the names of the witnesses, the date of the arrest, the appearance of the defendant, together with the fines and costs adjudged or collected in accordance with the judgment. He shall have the power to administer oath."
+
+## Section 4
+
+The first paragraph of section eighty-six of the same Act is amended to read as follows:
+
+"Sec. 86. _The Bureau of Public Schools._ -The Director of the Bureau of Public Schools shall exercise the same jurisdiction and power in the city as elsewhere in the Philippines and the Division Superintendent of Schools for the Province of Agusan shall be ex officio superintendent of city schools of Butuan and shall have all the power and duties in respect to the school of their divisions."
+
+## Section 5
+
+This Act shall take effect upon its approval.
+
+Approved: June 16, 1956.

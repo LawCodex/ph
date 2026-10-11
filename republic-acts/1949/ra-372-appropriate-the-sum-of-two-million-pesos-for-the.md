@@ -1,0 +1,34 @@
+---
+title: "Republic Act No. 372 — An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms"
+identifier: "Republic Act No. 372"
+number: "372"
+type: act
+jurisdiction: ph
+language: en
+date: 1949-06-14
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1949/ra_372_1949.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1949/pdf/ra_372_1949.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 372
+
+**An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms**
+
+[ REPUBLIC ACT NO. 372, June 14, 1949 ]
+
+AN ACT TO APPROPRIATE THE SUM OF TWO MILLION PESOS FOR THE REHABILITATION OF STOCK FARMS, BREEDING STATIONS AND BREEDING CENTERS AND FOR THE ESTABLISHMENT AND OPERATION OF NEW FARMS.
+
+Be it enacted to the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated the sum of two million pesos for the rehabilitation of stock farms, breeding stations and breeding centers and for the establishment and operation of new stock farms. The said sum shall be disbursed, in accordance with the objectives of this Act, by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals; for the acquisition of the necessary land, including a survey; for the construction, maintenance and repair of buildings, sheds, stables, corrals, fences and other necessary structures; for the payment of salaries and wages and traveling expenses of necessary personnel; for freight and delivery service; for the purchase of needed furniture and equipment, supplies and materials; and for such other expenses as may be deemed necessary to carry out the purposes of this Act, provided, that at least eight hundred thousand pesos shall be spent for the purchase of animals to be distributed equitably among the existing stock farms, and the balance for new farms.
+
+## Section 2
+
+This Act shall take effect upon its approval.1a⍵⍴h!1
+
+Approved, June 14, 1949.

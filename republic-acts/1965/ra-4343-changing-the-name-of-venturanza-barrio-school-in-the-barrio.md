@@ -1,0 +1,34 @@
+---
+title: "Republic Act No. 4343 — An Act Changing the Name of Venturanza Barrio School in the Barrio of Venturanza, Municipality of Bañga, Province of Aklan, to Don Edecio S. Venturanza Memorial School"
+identifier: "Republic Act No. 4343"
+number: "4343"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4343_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4343_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4343
+
+**An Act Changing the Name of Venturanza Barrio School in the Barrio of Venturanza, Municipality of Bañga, Province of Aklan, to Don Edecio S. Venturanza Memorial School**
+
+**REPUBLIC ACT No. 4343**
+
+An Act Changing the Name of Venturanza Barrio School in the Barrio of Venturanza, Municipality of Bañga, Province of Aklan, to Don Edecio S. Venturanza Memorial School
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The name of Venturanza Barrio School in the barrio of Venturanza, Municipality of Bañga, Province of Aklan, is hereby changed to Don Edecio S. Venturanza Memorial School.
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

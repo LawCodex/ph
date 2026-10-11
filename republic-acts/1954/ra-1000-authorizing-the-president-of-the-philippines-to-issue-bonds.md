@@ -1,0 +1,63 @@
+---
+title: "Republic Act No. 1000 — An Act Authorizing the President of the Philippines to Issue Bonds to Finance Public Works and Projects for Economic Development, Authorized by Law, and for Other Purposes"
+identifier: "Republic Act No. 1000"
+number: "1000"
+type: act
+jurisdiction: ph
+language: en
+date: 1954-06-12
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1954/ra_1000_1954.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1000
+
+**An Act Authorizing the President of the Philippines to Issue Bonds to Finance Public Works and Projects for Economic Development, Authorized by Law, and for Other Purposes**
+
+**REPUBLIC ACT No. 1000**
+
+**An Act Authorizing the President of the Philippines to Issue Bonds to Finance Public Works and Projects for Economic Development, Authorized by Law, and for Other Purposes**
+
+_Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:_
+
+## Section 1
+
+Upon the recommendation of the Secretary of Finance, after consultation with the Monetary Board, the National Economic Council, and the Council of State, the President of the Philippines is authorized to issue, preferably in the Philippines, or abroad if necessary, in the name and behalf of the Republic of the Philippines, bonds in an amount not exceeding one billion pesos to finance public works and self-liquidating projects for economic development, which may be authorized by law, including expropriation of lands for subdivision and resale to individuals, or to repay or service bonded obligations of the Government incurred for such projects: _Provided,_ _However,_ That no single issue shall exceed two hundred million pesos and that no further issue shall be made if eighty per centum of the immediately preceding issue has not been sold: And _Provided, further,_ That no more than twenty per centum of any issue is spent for non-self-liquidating and non-revenue-producing projects. Investments in the self-liquidating projects, cities, and municipalities shall be limited by the paying capacity of the province, city or municipality to be certified by the Secretary of Finance: _Provided,_ That the probable income from such projects shall be taken into consideration: _Provided, finally,_ That not more than ten per centum of this bond issue shall be used to pay unserved government obligations, loans and advances, secured or unsecured, guaranteed by the National Government, made by government owned or controlled financial institutions other than the Central Bank, to government political subdivisions, offices and instrumentalities, and/or other loans committed by government owned and controlled financial institutions, other than the Central Bank, guaranteed by the Government.
+
+The bonds shall be issued in such amounts as will be needed at any one time taking into account the rate at which said bonds may be absorbed by the buying public and the fund requirements of projects ready and execution, and taking into consideration further a proper balance between productive and non-productive projects so that inflation shall be held to the minimum.
+
+The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form, the rate of interests, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all bonds issued under the authority of this act.
+
+The bonds issued under the authority of this section may be made payable both as to principal and interest, in Philippine currency or any readily convertible foreign currency.
+
+Nothing in this section shall be interpreted to mean that the Secretary of Finance, in the redemption of securities, is prevented from applying the lottery principle by which bonds, drawn by lot, may be redeemed before maturity either at their face value or above.
+
+The bonds to be issued under this Act shall be exempt from taxation, including tax on foreign exchange, by the Government of the Republic of the Philippines or by any political or municipal subdivision thereof, which fact shall be stated on their face in accordance with this Act under which the said bonds are issued; and shall likewise be exempt from attachment, execution or seizure.
+
+## Section 2
+
+A sinking fund shall be established in such manner that the total annual contributions thereto, accrued as at such rate of interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the bonds issued under this Act. Said fund shall be under the custody of the Central Bank of the Philippines which shall invest the same in such manner as the Monetary Board may approve; shall charge all expenses of such investment to said sinking fund, and shall credit the same with the interest on investments and other income belonging to it.
+
+## Section 3
+
+A standing annual appropriation is hereby made out of any general fund in the National Treasury of such sum as may be necessary to provide for the sinking fund created in the next preceding section and for the interest on bonds issued by virtue of this Act: _Provided,_ That such sinking fund and interest may be paid from special funds specifically created for certain public works projects when such projects are financed from the proceeds of the sale of bonds authorized to be issued under this Act: _Provided, further,_ That in the case of revenue-producing projects such sinking fund and interest shall be paid from the net income of the project and in the case of toll roads and bridges from the net toll collections thereon: _Provided,_ still further, That when such receipts or tolls are insufficient, only then shall the payment of said sinking fund and interest be paid or disbursed from the annual appropriation appropriated under this Act. A further appropriation is hereby made out of the same funds in the National Treasury not otherwise appropriated of a sufficient sum to cover the expenses of the issue and sale of the bonds authorized by this Act.
+
+## Section 4
+
+The Secretary of Finance, or the Central Bank of the Philippines acting as his agent, may purchase such materials and equipment and may order the printing, engraving, advertising, soliciting, shipping, or the rendering of any other service which he considers to be necessary to the successful issuance, placement, sale, servicing, redemption, or payment of the bonds issued under the authority of this Act.
+
+## Section 5
+
+A committee composed of three Senators and three Representatives to be appointed by the Presiding Officers of each House, respectively, is hereby constituted to look into the projects that may be included or added to the approved list of promulgated and programmed projects to be financed by the bond issues contemplated by this Act.1âшphi1 The said committee is authorized to function during the recess of the Congress and shall submit its report of findings and recommendations to the Congress.
+
+## Section 6
+
+The President of the Philippines shall submit to Congress not later than thirty days from the opening of Congress a yearly report on the progress made on the various projects financed by bond issues.
+
+## Section 7
+
+This Act shall take effect upon its approval.
+
+Approved: June 12, 1954.

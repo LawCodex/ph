@@ -1,0 +1,72 @@
+---
+title: "Republic Act No. 300 — An Act to Amend Sections Seven, Eight, Nine, Thirteen, Fourteen, Fifteen, and Thirty-Seven of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended"
+identifier: "Republic Act No. 300"
+number: "300"
+type: act
+jurisdiction: ph
+language: en
+date: 1948-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1948/ra_300_1948.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 300
+
+**An Act to Amend Sections Seven, Eight, Nine, Thirteen, Fourteen, Fifteen, and Thirty-Seven of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended**
+
+**REPUBLIC ACT No. 300**
+
+An Act to Amend Sections Seven, Eight, Nine, Thirteen, Fourteen, Fifteen, and Thirty-Seven of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Sections seven, eight, nine, thirteen, fourteen, fifteen, and thirty-seven of Commonwealth Act Numbered Three hundred and twenty-six, as amended, are hereby amended to read as follows:
+
+"Sec. 7. _Relations between the City of Bacolod and the Provincial Government of Negros Occidental._ — For election purposes, the City of Bacolod unless otherwise provided shall continue as part of the Second Congressional District of the Province of Negros Occidental. The voters of the City of Bacolod shall, however, not take part in the election of provincial officers of Negros Occidental, and the latter shall have no jurisdiction over the City of Bacolod and the officers of the same.
+
+"In consideration of the privileges and exemptions enjoyed by the provincial government within the city and of the responsibilities imposed on the same by the continuance of the city as capital of the province, the provincial board of Occidental Negros shall be obliged to create a permanent continuing annual appropriation of not less than fifty thousand pesos to be credited to the general funds of the City. The Auditor General shall see to the enforcement of this provision of law and shall transfer to the City of Bacolod at the beginning of each year, from any funds in the provincial treasury of Occidental Negros not otherwise appropriated, the sum of fifty thousand pesos, unless the provincial government shall have previously voted a greater sum."
+
+"Sec. 8. _Appointment and compensation._ — The mayor shall be the chief executive of the city.
+
+"The mayor shall be appointed by the President with the consent of the Commission on Appointments of the Congress of the Philippines, and shall hold office at the pleasure of the President.
+
+"He shall receive a salary of not less than seven thousand two hundred pesos a year. The mayor may receive, in addition to his salary, an allowance to be fixed by the city council, which he may disburse for any lawful purpose incident to his duties as mayor."
+
+"Sec. 9. _The Vice-Mayor—Appointment, compensation, powers and duties._ — There shall be a vice-mayor appointed by the President with the consent of the Commission on Appointments, who shall perform the duties of the mayor in the event of sickness, absence or other temporary incapacity of the mayor or in the event of a definite vacancy in the position of mayor, until said office shall be filled in accordance with law.
+
+"The vice-mayor shall sit as a member of the city council and shall receive the per diem of a councilor.
+
+"If for any reason, the vice-mayor shall be incapacitated to perform the duties of a mayor or if the office of the vice-mayor is vacant, the duties of the mayor shall be performed by a councilor to be designated by the mayor. The vice-mayor or councilor when acting in the place of the mayor shall receive such per diem as may be fixed by the city council."
+
+"Sec. 13. _Constitution and organization of the city council._ — The city council shall be the legislative body of the city and shall be composed of the city mayor, the vice-mayor, the city engineer, the city treasurer and seven councilors, two appointed by the President with the consent of the Commission on Appointments of the Congress of the Philippines, and the other five elected by popular vote. The mayor shall act as president of the council. Pending the next general election, the office of the new elective councilors shall be filled in the same manner as the offices of the appointive councilors.
+
+"If any member of the city council should be a candidate for office in any election, he shall be incompetent to act with the city council in the discharge of the duties herein conferred upon it as to election matters, and in such case the other members of the council shall discharge said duties without his assistance, or they may choose some disinterested elector of the city to act on the council in such matters in his stead.
+
+"The councilors shall be residents of the City of Bacolod and shall have the status and qualifications of provincial officers of an organized province.1aшphi1
+
+"The president of the city council shall preside at all meetings of the council at which he is present and shall have the right to vote on all matters submitted to the council. In his absence, the council meeting shall be presided by the vice-mayor as acting president and in the absence of the mayor and vice-mayor, the council meeting shall be presided over by the city treasurer. The president of the council shall sign all ordinances and all resolutions and motions directing payment of money or creating liability. In case of sickness or absence of any member of the council or if for any reason it becomes necessary to maintain a quorum, the President of the Philippines shall appoint a temporary substitute who until the return to duty of the sick or absent member, shall hold the office and have the right to receive compensation or emolument and perform all the duties of a member of the council.
+
+"The mayor, the city engineer, and the city treasurer shall sit in the city council without additional compensation.1âшphi1 The vice-mayor and the other councilors shall receive for each day of attendance at the session of the council a per diem of from five pesos to fifteen pesos as may be authorized by ordinance."
+
+"Sec. 14. _Appointment and duties of secretary of council._ — The council shall have a secretary, who shall be elected by it to serve during the term of office of the members. A vacancy in the office of secretary shall be filled temporarily or for the unexpired term in like manner. The compensation of the secretary shall be fixed by the council at not less than three thousand six hundred pesos a year.
+
+"The secretary shall be in charge of the records of the city council. He shall keep a full record of the proceedings of the council, and file all documents relating thereto; shall record, in a book kept for the purpose, all ordinances, and all resolutions and motions directing the payment of money or creating liability, with the dates of approval of the same, and of the publication of ordinances; shall keep a seal, circular in form, with the inscription "City Council—City of Bacolod", and shall affix the same, with his signature, to all ordinances and other official acts of the council and shall present the same for signature to the president thereof; shall cause each ordinance passed to be published in the native language generally spoken in the city, as well as in either English or Spanish depending on the language used in the same at the time of its passage in the council; shall, on demand, furnish certified copies of all records of public character in his charge, and collect and receive therefor such fees as may be prescribed by ordinance or resolution of the council; and shall keep his office and all records therein which are not of a confidential character open to public inspection during usual business hours."
+
+"Sec. 15. _Appropriations by the city council._ — The council shall make all appropriations for the expenses of the government of the city. Whenever the council fails to pass an appropriation ordinance for any year before the end of the previous year, the appropriation ordinance for such previous year shall be deemed reenacted and shall go into effect on the first of January of the current year, until a new appropriation ordinance is duly enacted."
+
+"Sec. 37. _Appointment and removal of officials and employees—Compensation._ — Unless otherwise provided for by law, the President shall appoint with the consent of the Commission on Appointments of the Congress of the Philippines, the judge and auxiliary judge of the municipal court, the city engineer, the city treasurer, the city assessor, the city attorney, the assistant city attorneys and the chief of police; and he may remove at pleasure any of the said appointive officers, except the judge and the auxiliary judge of the municipal court who may be removed only according to law.
+
+"Subject to the provisions of the Civil Service Law, the mayor shall appoint all other officers and employees of the city whose appointment is not otherwise provided for by law. The suspension or removal of officers and employees appointed by the mayor shall be subject to the provisions of Executive Order Numbered Thirty-nine of the President of the Philippines and the Commonwealth Act Numbered One hundred and seventy-seven. The mayor may recommend to the President of the Philippines the suspension or removal of any official or employee of the city appointed by the latter.
+
+"The city judge, the city auditor, the city health officer, the secretary of the mayor, the chief of police, and the city treasurer, the latter whether acting or not as city assessor, shall each receive not less than three thousand six hundred pesos per annum. The District Engineer, the Provincial Fiscal, the Provincial Register of Deeds, and the Provincial Sheriff, if acting as ex officio city officials, shall each receive not less than one thousand pesos per annum to be paid out of city funds. The Assistant City Attorneys as now provided for by law shall each receive compensation in accordance with the following scale: (a) The first assistant city attorney shall receive not less than three thousand six hundred pesos per annum; (b) the second assistant city attorney shall receive not less than three thousand pesos per annum; and (c) the third assistant city attorney shall receive not less than two thousand eight hundred pesos per annum: _Provided,_ However, That the city council shall determine and fix by ordinance the salaries of officers and employees of the city, with the approval of the Head of the Department of the National Government to whose administrative supervision such officers and employees of the city are subject: And, _Provided, further,_ That in case of failure to make an appropriation for such salaries, the salaries so fixed in the preceding fiscal year shall be paid without the necessity of further appropriation therefor."
+
+## Section 2
+
+_Effectivity._ — This Act shall take effect upon its approval.
+
+Approved: June 17, 1948.

@@ -1,0 +1,77 @@
+---
+title: "Republic Act No. 2000 — Limited Access Highway Act"
+identifier: "Republic Act No. 2000"
+number: "2000"
+type: act
+jurisdiction: ph
+language: en
+date: 1957-06-22
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1957/ra_2000_1957.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2000
+
+**Limited Access Highway Act**
+
+**REPUBLIC ACT No. 2000**
+
+**Limited Access Highway Act**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+_Declaration of policy._ -The Congress hereby finds, determines, and declares that this Act is necessary for the immediate preservation of the public peace, health and safety, and for the promotion of the general welfare.
+
+## Section 2
+
+_Definition of limited access facility._ -For the purposes of this Act, a limited access facility is defined as a highway or street especially designed for through traffic, and over, from, or to which owners or occupants of abutting land and other persons have no right of easement or only a limited right of easement of access, light, air, or view by reason of the fact that their property abuts upon such limited access facility or for any other reason. Such highways or streets may be parkways, from which trucks, busses, and other commercial vehicles shall be excluded; or they may be free ways open to use by all customary forms of street and highway traffic.
+
+## Section 3
+
+_Authority to establish limited access facilities._ -The Department of Public Works and Communications is hereby authorized to plan, designate, established, regulate, vacate, alter, improve, maintain, and provide limited access facilities for public use wherever it is of the opinion that traffic conditions, present or future, will justify such special facilities: _Provided,_ That within provinces, cities and towns, the establishment of such limited access facilities insofar as they affect provincial, city or municipal streets and plazas shall have the consent of provincial board, city or municipal council as the case may be.
+
+## Section 4
+
+_Design of limited access facility._ -The Department of Public Works and Communications is authorized to design any limited access facility and to so regulate, restrict, or prohibit access as to best serve the traffic for which such facility is intended; and its determination of such design shall be final. In this connection, it is authorized to divide and separate any limited access facility into separate roadways by the constitution of raised curbings, central dividing sections, or other physical separations, or by designating such separate roadways by signs, markers, stripes and the proper lane for such traffic by appropriate signs, markers, stripes and other devices. No person shall have any right of ingress or egress to, from or across limited access facilities to or from abutting lands, except at such designated points at which access may be permitted, upon such terms and conditions as may be specified from time to time.
+
+## Section 5
+
+_Acquisition of property and property rights._ -For the purposes of this Act, the Department of Public Works and Communications may in pursuance of existing law recommend the acquisition of public property and property rights for limited access facilities and service roads, including rights of access, air, view and light by gift, devise, purchase or condemnation in the same manner as such units are now or hereafter may be authorized by law to acquire such property or property rights in connection with highways and streets within their respective jurisdictions. All property rights acquired under the provisions of this Act shall be in fee simple. In connection with the acquisition of property or property rights for any limited access facility or portion thereof, or service road in connection therewith, the national provincial, city, or municipal government may, in its discretion, acquire an entire lot, block, or tract of land, if by so doing, the interest of the public will be best served, even though said entire lot, block, or tract is not immediately needed for the right-of-way proper.
+
+## Section 6
+
+_Preference of condemnation cases._ -Court proceedings necessary to acquire property or property rights for purposes of this Act shall take precedence over all other cases not involving the public interest in all courts, to the end that the cases of limited access facilities may be expedited.1âшphi1
+
+## Section 7
+
+_New and existing facilities; grade crossing eliminations._ -The Department of Public Works and Communications may designate and establish limited access highways as new and traditional facilities or may designate and establish an existing street or highway as included within the limited access facility. The Department of Public Works and Communication shall gave authority to provide for the elimination of intersection at grade of limited access facilities with existing national and provincial roads, and city and town or barrio streets, by grade separation or service road, or by closing off such roads and streets at the right-of-way boundary line of such limited access facility; and after the establishment of any limited access facility, no highway or street which is not part of said facility shall not intersect the same at grade. No city, town, or barrio street, provincial or national highways, or other public way shall be opened into or connected with any such limited access facility without the consent and previous approval of the Department of Public Works and Communications, having jurisdiction over such limited access facility. Such consent and approval shall be given only if the public interest shall be served thereby.
+
+## Section 8
+
+_Local service roads._ -In connection with the development of any limited access facility, the Department of Public Works and Communications, the city, municipal or provincial governments are authorized to plan, designate, establish, use regulate, alter, improve, maintain, and vacate local service roads or streets or to designate as local service roads and streets any existing roads or streets, and to exercise jurisdiction over service roads in the same manner as is authorized over limited access facilities under the terms of this Act, if in their opinion, such local service roads and streets are necessary or desirable. Such local service roads or streets shall be of appropriate design, and shall be separated from the limited access facility proper by means of all devices designated as necessary or desirable by the property authority.
+
+## Section 9
+
+_. Financing._ -Whenever a limited access facility has been planned, designated, and established under the provisions of this Act, the complete financing of the construction thereof shall be provided by Congress in the annual Public Works Appropriation Act, under such long term financing plans as may be found proper and feasible so as to expedite the construction in order that it can be completed in an estimated period of not more than three years. The initial expenditures for investigating, surveying, planning and designing the limited access facilities shall be carried under such financial arrangements as can now be adequately provided under the provisions of Republic Act Numbered Nine hundred seventeen, including the acquisition of property and property rights for such limited access facilities and service roads as provided under section five hereof. In addition to the existing available sources of funds under Republic Act Numbered Nine hundred seventeen, the Department of Public Works and Communications may avail of the financing arrangements authorized under Act Numbered Three thousand five hundred, as amended by Republic Act Numbered One thousand four hundred two and One thousand four hundred thirty-five, and Republic Act Numbered One thousand, to take care of the initial expenditures for the acquisition of rights-of-way, construction of stream-crossing facilities, and such contiguous sections of the limited access highways as can adequately be met from continuing appropriations under these Acts, and from the savings in the expenditure of the proceeds from the issue of bonds under Republic Act Numbered One thousand previously authorized by Congress for national road improvements and construction in the provinces and cities traversed by such limited access highway facilities.
+
+For the purposes of this section, section six of Republic Act Numbered Nine hundred seventeen, otherwise known as the Philippine Highway Act of Nineteen hundred fifty-three, is hereby amended to provide a new paragraph, immediately after paragraph (d) thereof, to be known as paragraph (e) to read as follows:
+
+"(e) Highway Engineering Fund." (Superseded by Section 6, PD 17.)
+
+## Section 10
+
+_. Unlawful use of limited access facilities: penalties._ -It is unlawful for any person (1) to drive a vehicle over, upon, or across any curb, central dividing section, or other separation or across any curb, central dividing section, or other separation or across any curb, central dividing section, or other separation or dividing line or limited access facilities; (2) to make a left turn, a semi-circular, or U-turn except through an opening provided for that purpose in the dividing curb section, separation, or line; (3) to drive any vehicle except in the proper lane provided for that purpose and in the proper direction and to the right of the central dividing curb, separation section, or line; (4) to drive any vehicle into the limited access facility from a local service road except through an opening provided for that purpose in the dividing curb or dividing line which separates such service road from the limited access facility proper. Any person who violates any of the provisions of this section shall, upon arrest and conviction, be punished under the penal provisions of the Philippine Highway Act of Nineteen hundred fifty-three and the Revised Penal Code.
+
+## Section 11
+
+_Separability clause._ -If any section, provision, or clause of this Act shall be declared invalid or inapplicable to any person or circumstance, such invalidity or inapplicability shall not be construed to affect the portions not so held or persons or circumstances not so affected. All laws or portions of laws inconsistent with the policy and provisions of this Act are hereby repealed to the extent of such inconsistency in its application to limited access facilities provided for in this Act.
+
+## Section 12
+
+This Act shall take effect immediately upon its approval.
+
+Approved: June 22, 1957.

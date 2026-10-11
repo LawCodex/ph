@@ -1,0 +1,49 @@
+---
+title: "Republic Act No. 6644 — An Act Reducing the Minimum Age of the Different Elective Local Officials by Amending Section Forty-Two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito, otherwise known as the Local Government Code"
+identifier: "Republic Act No. 6644"
+number: "6644"
+type: act
+jurisdiction: ph
+language: en
+date: 1987-12-28
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1987/ra_6644_1987.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6644
+
+**An Act Reducing the Minimum Age of the Different Elective Local Officials by Amending Section Forty-Two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito, otherwise known as the Local Government Code**
+
+Eighth Congress
+
+**Republic Act No. 6644 December 28, 1987**
+
+AN ACT REDUCING THE MINIMUM AGE OF THE DIFFERENT ELECTIVE LOCAL OFFICIALS BY AMENDING SECTION FORTY-TWO OF BATAS PAMBANSA BLG. TATLONG DAAN TATLUMPU'T PITO, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Section forty-two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito is hereby amended to read as follows:
+
+"Sec. 42. Qualifications. — (1) An elective local official must be a citizen of the Philippines, a registered voter in the barangay, municipality, city or province where he proposes to be elected, a resident therein for at least one year at the time of the filing of his certificate of candidacy, and able to read and write Filipino, English, or any other local language or dialect.
+
+"(2) Candidates for the position of governor, vice-governor, or member of the sangguniang panlalawigan must be at least twenty-three years of age on election day.
+
+"(3) Candidates for the positions of mayor or vice-mayor must be at least twenty-one years of age on election day.
+
+"(4) Candidates for the positions of member of the sangguniang panlungsod or member of the sangguniang bayan must be at least eighteen years of age on election day.f elected as a member of the sangguniang panlungsod or sangguniang bayan, the member is qualified to fill any vacancy in the office of mayor or vice-mayor or may be appointed by the President upon recommendation of the Secretary of Local Governments as mayor or vice-mayor pursuant to Chapter 2, Title Two of this Code: provided, that said member is at least twenty-one years of age at the time of his succession.
+
+"(5) Candidates for the positions of punong barangay or member of the sangguniang barangay must be at last eighteen years of age on election day and actual residents in the barangay in which they shall be elected.
+
+"(6) Any law on civil capacity and the capacity to act to the contrary notwithstanding, any member of the sangguniang panlungsod or sangguniang bayan, punong barangay or member of the sangguniang barangay, chairman or member of the kabataang barangay or organization to replace the same, can exercise all the powers and discharge all the duties of his office or any other office to which he may succeed pursuant to this Act.
+
+"(7) Candidates for chairmanship of the kabataang barangay or organization to replace the same must be at least fifteen years of age but not more than twenty-one years of age on election day."
+
+## Section 2
+
+This Act shall take effect upon the completion of its publication in at least two national newspapers of general circulation.
+
+Approved: **December 28, 1987.**

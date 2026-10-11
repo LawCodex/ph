@@ -1,0 +1,110 @@
+---
+title: "Republic Act No. 622 — An Act Creating the Bureau of Soil Conservation, Defining Its Powers, Duties and Functions"
+identifier: "Republic Act No. 622"
+number: "622"
+type: act
+jurisdiction: ph
+language: en
+date: 1951-06-05
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1951/ra_622_1951.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1951/pdf/ra_622_1951.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 622
+
+**An Act Creating the Bureau of Soil Conservation, Defining Its Powers, Duties and Functions**
+
+[ REPUBLIC ACT NO. 622, June 05, 1951 ]
+
+AN ACT CREATING THE BUREAU OF SOIL CONSERVATION, DEFINING ITS POWERS, DUTIES AND FUNCTIONS.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+For the purpose of carrying out the provisions of this Act, there is hereby created a bureau, which shall be known as the Bureau of Soil Conservation, and shall be under the executive control and supervision of the Department of Agriculture and Natural Resources.
+
+## Section 2
+
+The Bureau of Soil Conservation shall have a head, who shall be known as the Director of Soil Conservation, to be appointed by the President with the consent of the Commission on Appointments of the Congress and shall receive a compensation at the rate of seven thousand and two hundred pesos per annum. There shall be in the said Bureau such technical personnel and other employees to be appointed by the Secretary of Agriculture and Natural Resources as may be required to carry out the purposes of this Act: _Provided,_ however, That the present personnel of the Division of Soil Survey and Conservation of the Department of Agriculture and Natural Resources shall be retained.
+
+Subject to the general supervision and control of the Secretary of Agriculture and Natural Resources, the Director of Soil Conservation shall possess the powers generally conferred upon Bureau Chiefs.
+
+## Section 3
+
+All the divisions, sections, field activities and agencies of the Government connected with soils work are hereby transferred to the Bureau of Soil Conservation and such powers, functions and duties relative to soils vested by law or executive orders are hereby vested in the Director of Soil Conservation.
+
+The Director of Soil Conservation shall, subject to the approval of the Secretary of Agriculture and Natural Resources, organize its personnel in such divisions or sections as will insure maximum efficiency.
+
+## Section 4
+
+The Bureau of Soil Conservation shall have the following powers, duties and functions:
+
+a. To investigate the genesis and morphological properties of soils in the fields which includes the depth, structure, and other visible characteristics which make up the soil in which plant roots develop and from which plants obtain their nourishment.
+
+b. To conduct both reconnaissance and detailed soil surveys, classifying and mapping such soils into series and types.
+
+c. To undertake land valuation surveys, which lay the foundation for the development of a permanent system of soil management and as basis in formulating the land assessment for taxation and the agricultural and money value of the land.
+
+d. To survey and map the different agricultural areas, and determine the extent of damages to the soil caused by soil erosion, and from these data, to plan a proper land-use program.
+
+e. To compile the different soil survey data which are transmitted into soil maps for lithography and printing.
+
+f. To conduct chemical analysis of soils especially for the determination of the amounts of the various nutrients to plants, such as nitrogen, phosphorus, potassium, calcium, magnesium, iron and sulphur; total humus content for determining the amount of organic carbon in the soils; and also the silica contents as well as pH value of the soil.
+
+g. To conduct spectrographic analysis of the soil for minor elements; namely, manganese, copper, zinc, and boron, and study their influence to plant growth.
+
+h. To discover through chemical, physical and biological analysis the compounds responsible for the fixation of fertilizers in the soil, the degree to which different fertilizers are fixed and the ways whereby undesirable fixation which makes nutrients unavailable for use by plants may be overcome.
+
+i. To obtain information needed to establish the relationship between the nature of the soil and the quality of food plants which may be grown on it as a basis for improving quality through the selection of crops for specific soil types and through fertilization.
+
+j. To study the work, beneficial or harmful, done by each kind of micro-organism of the soil; namely, bacteria, fungi, algae, protozoa, as well as other fauna and flora of the soil which are busy bringing about chemical and physical changes of enormous importance to man's use of the soil.
+
+k. To recommend and regulate the application of fertilizers for the maintenance of desirable soil properties for the establishment of optimum conditions for plant growth.
+
+l. To select and determine the best planting materials or legumes as effective cover crop to prevent soil erosion and build up the organic matter of the soil.
+
+m. To furnish information and data on the proper methods of land operations adaptable to certain soil types taking into account the degree of slope of the topography for optimum crop production.
+
+n. To propagate the use of erosion control practices in agriculture through (1) demonstrations of practical soil-conservation measures, (2) treatment of government-owned lands, and (3) active assistance to soil conserving farmers.
+
+o. To cooperate with other government offices or agencies and to determine what part upstream land treatment and waterflow retardation can be expected to play in minimizing downstream flood hazards.
+
+p. To rejuvenate submarginal lands and determine their best utilizations, whether as cropland, grazing land, farm-woodland, or for recreational purposes.
+
+q. To promote rural welfare by assisting farmers to develop conservation plans of farm management, to build up the soil and increase its fertility for increased yield of crops.
+
+r. To investigate causes of soil erosion and develop and promote erosion control practices with a view to checking or minimizing accelerated erosion, and at the same time to increase crop production.
+
+s. To formulate water conservation measures by providing water resources for crop and livestock production, and for farm-life needs.
+
+t. To direct investigations to develop effective practices in farm irrigation and drainage in relation to soil erosion control and sound land use.
+
+u. To operate regional soil conservation in the fields to carry out agronomic, engineering, forestry, range, and biological phases of soil erosion control and sound land use within the region.
+
+v. To organize, coordinate and carry out a broad program of public information and education regarding the use capabilities of the soils on each farm and soil conservation.
+
+w. To cooperate with other government agencies or instrumentalities in the acquisition and setting aside of lands for settlements and resettlement projects and render technical assistance on problems relating to soil management and the use capabilities of the soil under existing economic conditions.
+
+x. To plan, conduct, and direct a research program in all fundamental aspects of soil science.
+
+y. To prepare with the approval of the Secretary of Agriculture and Natural Resources, forms, instructions, rules and regulations on all matters on soil consistent with law.
+
+z. To administer oaths, issue subpoena and subpoena duces tecum and, if necessary, obtain compulsory process from the courts.
+
+## Section 5
+
+Any person failing or refusing to comply with the legal summons of the Director of Soil Conservation or the person acting in his stead, or refusing to be sworn previous to testifying, or refusing to answer pertinent questions, or giving or furnishing false or misleading data in investigations which may be made to carry out the purpose of this Act shall, upon conviction, be punished by a fine not to exceed one thousand pesos, or imprisonment not to exceed one year, or both, in the discretion of the court, but if the information or data have been given under oath, the penalties prescribed by law for perjury shall be imposed.
+
+## Section 6
+
+The sum set aside in the Appropriation Law for the Division of Soil Survey and Conservation in the Department of Agriculture and Natural Resources shall be expended to pay the salaries and wages of the personnel, to defray field expenses for regional soil conservation operations, acquisition of farm machinery and equipment, such as tractors, motor vehicles for field survey, laboratory apparatuses and equipment, and materials for treatment of soil of the Bureau of Soil Conservation until June thirty, nineteen hundred and fifty-one; thereafter Congrcss shall provide for the annual expenditures of said Bureau in the annual general Appropriation Acts.
+
+## Section 7
+
+This Act shall take effect upon its approval.
+
+Approved, June 5, 1951.

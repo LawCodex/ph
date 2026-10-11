@@ -1,0 +1,58 @@
+---
+title: "Republic Act No. 4375 — An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled \"An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes\""
+identifier: "Republic Act No. 4375"
+number: "4375"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4375_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4375_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4375
+
+**An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled "An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes"**
+
+**REPUBLIC ACT No. 4375**
+
+An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled "An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes"
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The provisions of Commonwealth Act Numbered Five hundred forty-two are hereby amended to read as follows:
+
+"Sec. 1. Conception R. Gonzales, Trinidad F. Legarda, Emilia Q. Lim, Concepcion M. Gil, Marina Y. Vergas, Pilar Hidalgo Lim, Josefa Llanes Escoda, Helena Z. Benitez, Maria Aurora Quezon, Lulu Reyes, Lily de las Alas, Leni Alano, Erlinda Kalaw, Betty Magalona, Lourdes Ledesma, Minerva G. Laudico , all of Manila, Philippines, their associates and successors, are created a body corporate, by the name, style, and title of "Girl Scouts of the Philippines" (hereinafter called the corporation.) The principal office of the corporation shall be in the City of Manila, Philippines, and for administrative purposes, it shall be under the President of the Philippines."
+
+"Sec. 2. The said corporation shall have perpetual succession, with power to sue and be sued; to hold such real and personal estate as shall be necessary for corporate purposes, and to receive real and personal property by gift, devise, or bequest; to adopt a seal; to have offices and conduct its business and affairs in the City of Manila and in the several provinces, cities, municipalities and barrios of the Philippines; to make an adopt by-laws, and generally to do all acts and exercise all powers of a corporation under Act 1459 as amended as may be necessary to carry into effect the provisions of this Act and promote the purposes of said corporation."
+
+"Sec. 3. The purposes of this organization are to help girls from seven to eighteen years of age to realize the ideals of womanhood, as a preparation for their responsibilities in the home and service to the community and in the realization of this purpose the corporation shall be directing and coordinating head of the Girl Scout Movement in the Philippines, and shall fix and maintain standards for the movement which will inspire the rising generation with the highest ideals of citizenship, character, conduct, and attainment."
+
+"Sec. 4. The Girl Scouts of the Philippines is nonsecretarian and nonpolitical but its units shall willingly cooperate with educational and other groups whose ideals and procedure are in accord with those conferred or authorized by this Act."
+
+"Sec. 5. The governing body of the corporation shall be vested in a Central Board composed of twenty-four (24) members elected by the National Council to serve for a term of three years or until their successors shall have been elected and qualified. The National Council shall be composed of the members of the Central Board, Presidents of the Local Councils and the duly elected delegates from each Local Council. Each local Council shall be entitled to one delegate for every five hundred members. The number, qualifications, and terms of office of members of the executive board shall be prescribed by the by-laws. The persons mentioned in section one of this Act shall constitute the first central board and shall serve until their successors are elected and have qualified. Central board shall have the power to make and to amend the by-laws. Unless otherwise prescribed by this Act, the by-laws shall provide for the time, place and manner of calling and conducting regular or special meetings of the central board and the time and manner of calling and conducting regular or special meetings of the National Council; the number of members necessary to constitute a quorum for the transaction of business at meetings of the National Council and the central board; the qualifications and conditions upon which person may be admitted to the corporation and the conditions upon which members shall be entitled to vote; the qualifications and duties of the members of the central board and officers; the time for holding the election of the members of the central board and the mode and manner of giving notice thereof; the manner of election and the term of office of all officers elected by the central board; and such other matters not otherwise provided for by this Act as may be necessary for the proper or convenient transaction of the business of corporation. The central board shall, by resolution passed by a majority of the whole board, designate the officers of the corporation; namely: The National President, the First Vice-President, the Second Vice-President, the Secretary, the Treasurer and the Chairman of standing and special committees it may create to constitute an executive a governing committee, of which a majority shall constitute a quorum, which committee, to the extent provided in said resolution shall have and exercise the powers of the central board in the management of the affairs of the corporation, subject to its ratification, and may have the power to authorize the seal of the corporation to be affixed to all papers which may require it.1âшphi1 The central board, by the affirmative vote of a majority of the whole board, may appoint any other standing and special Committees and such standing and special committees shall have and may exercise such powers as shall be conferred or authorized by the board. The central board shall elect a National President who shall be the executive officer of the corporation, a first Vice-President, a second Vice-President, a Secretary, a Treasurer, and an Assistant Treasurer."
+
+"Sec. 6. A triennial meeting of the National Council, shall be held once in every three years after the year of incorporation, at such time and place as shall be prescribed in the by-laws, for the purpose of making reports and transacting such other business as may come before the meeting. Special meetings of the corporation may be called upon such notice as may be prescribed in the by-laws. The number of members which shall constitute a quorum at any annual or special meetings shall be prescribed in the by-laws. The central board shall have the power to hold their meetings and keep the seals, books, documents, and papers of the corporation within or without the City of Manila."
+
+"Sec. 7. The corporation created by this Act shall adopt distinctive badges, uniforms, insignias, and other equipments and shall be made available to and used only by registered Girl Scouts or officials who have satisfactorily complied with the international requirements prescribed by the World Bureau of this Movement and which the Girl Scouts of the Philippines shall use in carrying out its program in accordance with the purposes of this Act.1âшphi1 The corporation shall cause the registration of said badges, uniforms, insignias, and other equipments in accordance with the provisions of Republic Act Numbered One hundred sixty-six, and the patent office is hereby directed to cause said registration free of charge.
+
+"Sec. 8. Any donation or contribution which from time to time may be made to the Girl Scouts of the Philippines by the Government or any of its subdivision, branches, offices, agencies or instrumentalities shall be administered by the central board in pursuance of this Act.
+
+"All donations made to the Girl Scouts of the Philippines shall be free from the payment of taxes on donations, and the corporation shall be exempt from the payment of all taxes, duties, imposts and other charges."
+
+"Sec. 9. On or before the first day of May of each year, the said corporation shall make and transmit to the President of the Philippines a report of its proceedings for the year ending December, thirty first preceding, including a full, complete, and itemized report of receipts and expenditures of whatever kind."
+
+"Sec. 10. From and after the passage of this Act, it shall be unlawful for any person within the jurisdiction of the Philippines to falsely and fraudulently call herself as or represent herself to be a member of or an agent for, the Girl Scouts of the Philippines; and any person who violates any of the provisions of this Act shall be punished by imprisonment of not to exceed six months or a fine not exceeding five hundred pesos, or both, in the discretion of the court."
+
+"Sec. 11. The provisions of Act 1459 as amended shall be applicable to this corporation for all matters not provided herein."
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

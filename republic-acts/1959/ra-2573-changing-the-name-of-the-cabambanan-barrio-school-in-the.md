@@ -1,0 +1,33 @@
+---
+title: "Republic Act No. 2573 — An Act Changing the Name of the Cabambanan Barrio School in the Municipality of Pagsanjan, Province of Laguna, to Salvador Unson Elementary School"
+identifier: "Republic Act No. 2573"
+number: "2573"
+type: act
+jurisdiction: ph
+language: en
+date: 1959-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1959/ra_2573_1959.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2573
+
+**An Act Changing the Name of the Cabambanan Barrio School in the Municipality of Pagsanjan, Province of Laguna, to Salvador Unson Elementary School**
+
+**REPUBLIC ACT No. 2573**
+
+**An Act Changing the Name of the Cabambanan Barrio School in the Municipality of Pagsanjan, Province of Laguna, to Salvador Unson Elementary School**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The name of the Cabambanan Barrio School in the barrio of Cabambanan, Municipality of Pagsanjan, Province of Laguna, is changed to Salvador Unson Elementary School.
+
+## Section 2
+
+This Act shall take effect upon its approval.1âшphi1
+
+Approved: June 21, 1959.

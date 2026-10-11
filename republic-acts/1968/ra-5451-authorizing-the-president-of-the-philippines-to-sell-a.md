@@ -1,0 +1,52 @@
+---
+title: "Republic Act No. 5451 — An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal"
+identifier: "Republic Act No. 5451"
+number: "5451"
+type: act
+jurisdiction: ph
+language: en
+date: 1968-09-30
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1968/ra_5451_1968.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1968/pdf/ra_5451_1968.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5451
+
+**An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal**
+
+**REPUBLIC ACT No. 5451**
+
+An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The President of the Philippines is hereby authorized to sell to the Knights of Rizal for the nominal price of one peso a parcel of land owned by the National Government, situated in South Harbor, Port Area District, City of Manila, with an area of 1,226 square meters, and described as follows:
+
+"A parcel of Land (Lot 3, Block 3) of the resurvey and subdivision plan Swo-20567, being a portion of certain portion of Reclamation Plan 1, I.R.C. Record No. ____, situated in the South Harbor, Port Area, City of Manila. Bounded on the NE., along line 1-2 by Bonifacio Drive; along line 2-3 by Lot 4, Block 3 of the resurvey and subdivision plan; along line 3-4 by Railroad St., and along 4-1 by Lot 2; Block 3 of the resurvey and subdivision plan. Beginning at a point marked "1" on plan, being N. 40 deg. 53' W., 314.13 m. from F. Hyd. 31 yr. 1948 New, City of Manila and N. 25 deg 36' W., 622.13 m. from F. Hyd. (Unnumbered) City of Manila; thence S. 32 deg. 96' E, 24.00 m. to pt. 2; thence S. 57 deg. 44' W., 51.14 m. to pt. 3; thence N. 31 deg. 52' W., 24.00 m. to pt. 4; thence N. 57 deg. 44' E., 51.04 m. to pt. 1; point of beginning; containing an area of one thousand two hundred and twenty-six (1,226) square meters. All points referred to are indicated on the plan and marked on the ground by Conc. Mons. marked B.L.; bearings true; date of the resurvey and subdivision survey; Dec. 2-3, 1947 and March 29, 1948."
+
+## Section 2
+
+This conveyance is made for the exclusive purpose of enabling the Knights of Rizal to construct on the said land a permanent Knights of Rizal Building to be approved by the National Planning Commission.
+
+## Section 3
+
+The title to the land conveyed by this Act shall not be transferred by the Knights of Rizal to another person without previous authorization by the Congress of the Philippines.
+
+## Section 4
+
+The property shall not be leased but any space in the building to be constructed therein may be leased: _Provided,_ That the proceeds from such lease shall be utilized for purposes for which the Knights of Rizal has been established.1avvphi1
+
+## Section 5
+
+The Knights of Rizal is hereby authorized to mortgage the above-described property for the purpose of constructing the building or buildings to government-owned or controlled corporations only.
+
+In case the Knights of Rizal is dissolved, ceases, for any reason, to undertake its objectives, or ceases to need the land for any reason, the said land shall ipso facto revert to the National Government without compensation.
+
+All the foregoing conditions shall be included in the deed of transfer to be executed by the President of the Philippines and annotated at the back of the title.
+
+Approved: September 30, 1968.

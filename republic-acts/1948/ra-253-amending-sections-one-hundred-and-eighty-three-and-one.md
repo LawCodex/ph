@@ -1,0 +1,56 @@
+---
+title: "Republic Act No. 253 — An Act Amending Sections One Hundred and Eighty-Three and One Hundred and Ninety of the National Internal Revenue Code, as Amended"
+identifier: "Republic Act No. 253"
+number: "253"
+type: act
+jurisdiction: ph
+language: en
+date: 1948-06-14
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1948/ra_253_1948.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 253
+
+**An Act Amending Sections One Hundred and Eighty-Three and One Hundred and Ninety of the National Internal Revenue Code, as Amended**
+
+**REPUBLIC ACT No. 253**
+
+An Act Amending Sections One Hundred and Eighty-Three and One Hundred and Ninety of the National Internal Revenue Code, as Amended
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section one hundred and eighty-three of Commonwealth Act Numbered Four hundred and sixty-six, otherwise known as the National Internal Revenue Code, as amended by section seven of Republic Act Numbered Forty-eight, is hereby further amended to read as follows:
+
+"Sec. 183. _Payment of percentage taxes._ —
+
+(A) _In general._ — The percentage taxes on business shall be payable at the end of each calendar quarter in the amount lawfully due on the business transacted during each quarter; and it shall be the duty of every person conducting a business on which a percentage tax is imposed under this Title, within twenty days after the end of each calendar quarter, to make a true and complete return of the amount of the gross sales, receipts, or earnings, or gross value of output actually removed from the factory or mill warehouse, during the preceding calendar quarter and pay the tax due thereon: _Provided,_ That it shall be the duty of any person retiring from a business subject to the percentage tax to notify immediately the nearest internal-revenue officer thereof and, within ten days after closing his business, file his return or declaration, and pay the tax due thereon.
+
+"If the percentage tax on any business is not paid within the time prescribed above, the amount of the tax shall be increased by twenty-five per centum, the increment to be a part of the tax.
+
+"In case of willful neglect to file the return within the period prescribed herein, or in case a false and fraudulent return is wilfully made, there shall be added to the tax or to the deficiency tax, in case any payment has been made on the basis of such return before the discovery of the falsity or fraud, a surcharge of fifty per centum of its amount. The amount so added to any tax shall be collected at the same time and in the same manner and as part of the tax unless the tax has been paid before the discovery of the falsity or fraud, in which case the amount so added shall be collected in the same manner as the tax.
+
+"(B) _Advance payment of sales tax on imported and locally produced and manufactured articles._ — In the case of imported articles, the percentage taxes established in sections one hundred and eighty-four, one hundred eighty-five, and one hundred eighty-six of this Code shall be paid in advance by the importer, in accordance with regulations promulgated by the Secretary of Finance and prior to the release of such articles from customs’ custody, based on the total value thereof at the time they are received by the importer, including freight, postage, insurance, commission, customs duty, and all similar charges. In the case of locally produced or manufactured articles, the percentage taxes established in the said sections shall likewise be paid in advance on the total value thereof prior to removal from the producer’s or manufacturer’s warehouse. The amount so paid in advance in accordance with this subsection shall be credited against the percentage taxes due on the sales by the taxpayer for each calendar quarter."
+
+## Section 2
+
+Section one hundred and ninety of Commonwealth Act Numbered Four hundred and sixty-six, as last amended by section eight of Republic Act Numbered Forty-eight, is hereby further amended to read as follows:
+
+"Sec. 190. _Compensating tax._ — All persons residing or doing business in the Philippines, who purchase or receive from without the Philippines any commodities, goods, wares, or merchandise, excepting those subject to specific taxes under Title IV of this Code, shall pay on the total value thereof at the time they are received by such persons, including freight, postage, insurance, commission, and all similar charges, a compensating tax equivalent to the percentage tax imposed under this Title on original transactions effected by merchants, importers, or manufacturers, such tax to be paid upon the withdrawal or removal of said commodities, goods, wares, or merchandise from the customhouse or the post office: _Provided,_ However, That merchants, importers, and manufacturers, who are subject to tax under sections one hundred eighty-four, one hundred eighty-five, one hundred eighty-six, or one hundred eighty-nine of this Title shall not be required to pay the tax herein imposed where such commodities, goods, wares, or merchandise purchased or received by them from without the Philippines are to be sold, resold, bartered, or exchanged or where the same are to be used in the manufacture or preparation of articles for sale, barter, or exchange and are to form part thereof: And _Provided, further,_ That the tax imposed in this section shall not apply to articles to be used by the importer himself in the manufacture or preparation of articles subject to specific tax, or those for consignment abroad and are to form part thereof. If any article withdrawn from the customhouse or the post office without payment of the compensating tax is subsequently used by the importer for other purposes, corresponding entry should be made in the books of accounts, if any are kept, or a written notice thereof sent to the Collector of Internal Revenue and payment of the corresponding compensating tax made within thirty days from the date of such entry or notice and if the tax is not paid within such period the amount of the tax shall be increased by twenty-five per centum, the increment to be a part of the tax.
+
+"The tax herein imposed shall not be assessed or collected on any single shipment consigned to any single person when the total value of such shipment does not exceed one hundred pesos. Goods brought by residents returning from abroad, the value of which does not exceed five hundred pesos, are exempt from this tax."
+
+## Section 3
+
+All laws or parts of laws inconsistent with the provisions of this Act are here repealed.1aшphi1
+
+## Section 4
+
+This Act shall take effect on July 1, 1948.
+
+Approved: June 14, 1948.

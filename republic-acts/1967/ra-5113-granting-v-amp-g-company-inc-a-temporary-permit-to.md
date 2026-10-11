@@ -1,0 +1,78 @@
+---
+title: "Republic Act No. 5113 — An Act Granting V &amp; G Company, Inc. a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Aeronautical Fixed Radio Stations with Corresponding Relay and Land, Coastal, and Sea Mobile Stations for the Reception and Transmission of Radio Communications Within the Philippines"
+identifier: "Republic Act No. 5113"
+number: "5113"
+type: act
+jurisdiction: ph
+language: en
+date: 1967-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1967/ra_5113_1967.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1967/pdf/ra_5113_1967.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5113
+
+**An Act Granting V &amp; G Company, Inc. a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Aeronautical Fixed Radio Stations with Corresponding Relay and Land, Coastal, and Sea Mobile Stations for the Reception and Transmission of Radio Communications Within the Philippines**
+
+**REPUBLIC ACT No. 5113**
+
+An Act Granting V & G Company, Inc. a Temporary Permit to Construct, Establish, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Aeronautical Fixed Radio Stations with Corresponding Relay and Land, Coastal, and Sea Mobile Stations for the Reception and Transmission of Radio Communications Within the Philippines
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+There is hereby granted to V & G Company, Inc., its successors and assigns, a temporary permit to construct, establish, maintain and operate in such places in the Philippines where it operates or transacts its business or renders its services, subject to the approval of the Secretary of Public Works and Communications or any licensing authority, private fixed, point-to-point and land-based, land-mobile and aeronautical fixed radio stations, with corresponding relay and land, coastal and sea-mobile stations, for the reception and/or transmission of wireless intelligence on radiotelegraph or radiotelephone, inclusive of, but not limited to facsimile, radioteletype, nationally and/or internationally, each station to be provided with radio transmitting equipment and/or receiving, equipment, as is necessary.
+
+## Section 2
+
+This temporary permit shall continue to be in force during the time that the grantee, its successors and assigns, conduct its business or services at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of at least two radio stations be begun within two years from the date of the approval of this Act.
+
+## Section 3
+
+The grantee, its successors or assigns, shall not engage in domestic public telecommunications business in the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee, its successors or assigns, the right to construct, install, maintain and operate its radio stations herein granted at the places above-mentioned for the primary purpose of promoting and protecting the business and other interests of the grantee.
+
+## Section 4
+
+No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engaged in communications regarding the grantee’s business interests: _Provided,_ However, That the grantee may allow affiliate, allied or associated companies to use any of its facilities on a non-profit basis.
+
+## Section 5
+
+The grantee, its successors or assigns, is authorized to operate its radio stations herein granted in the very low frequency, low frequency, medium frequency, high frequency, very high frequency, ultra high frequency, super high frequency and extreme high frequency that shall be assigned to it by Secretary of Public Works and Communications or by any licensing authority.
+
+## Section 6
+
+The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point and private coastal radios stations or any of them on lands of the public domain upon such terms and conditions as he may prescribe.
+
+## Section 7
+
+The grantee, its successors or assigns, shall construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+## Section 8
+
+The grantee, its successors or assigns, shall hold the national, provincial, and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of its radio stations.
+
+## Section 9
+
+The grantee, or its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1avvphi1
+
+## Section 10
+
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government upon just compensation.
+
+## Section 11
+
+This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+## Section 12
+
+In the event of any individual, partnership, or corporation receiving from the Congress a similar permit in which there shall be any term or terms more favorable than those herein granted, then such terms or terms shall ipso facto become part of the terms hereof and shall operate equally in favor of the grantee as in the case of said individual, partnership or corporation.
+
+## Section 13
+
+This Act shall take effect upon its approval.
+
+Approved: June 17, 1967.

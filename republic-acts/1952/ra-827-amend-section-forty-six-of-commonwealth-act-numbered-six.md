@@ -1,0 +1,42 @@
+---
+title: "Republic Act No. 827 — An Act to Amend Section Forty-six of Commonwealth Act Numbered Six Hundred and Thirteen, Otherwise Known as the Philippine Immigration Act of Nineteen Hundred and Forty, as Amended"
+identifier: "Republic Act No. 827"
+number: "827"
+type: act
+jurisdiction: ph
+language: en
+date: 1952-08-14
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1952/ra_827_1952.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 827
+
+**An Act to Amend Section Forty-six of Commonwealth Act Numbered Six Hundred and Thirteen, Otherwise Known as the Philippine Immigration Act of Nineteen Hundred and Forty, as Amended**
+
+[ REPUBLIC ACT NO. 827, August 14, 1952 ]
+
+AN ACT TO AMEND SECTION FORTY-SIX OF COMMONWEALTH ACT NUMBERED SIX HUNDRED AND THIRTEEN, OTHERWISE KNOWN AS THE PHILIPPINE IMMIGRATION ACT OF NINETEEN HUNDRED AND FORTY, AS AMENDED.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Section forty-six of Commonwealth Act Numbered Six hundred and thirteen, otherwise known as the Philippine Immigration Act of nineteen hundred and forty, as amended, is hereby amended to read as follows:
+
+"**Section 46.** Any individual who shall bring into or land in the Philippines or conceal or harbor any alien not duly admitted by any immigration officer or not lawfully entitled to enter or reside within the Philippines under the terms of the immigration laws, or attempts, conspires with, or aids another to commit any such act, and any alien who enters the Philippines without inspection and admission by the immigration officials, or obtains entry into the Philippines by willful, false, or misleading representation or willful concealment of a material fact, shall be guilty of an offense, and upon conviction thereof, shall be fined not more than ten thousand pesos, imprisoned for not more than ten years, and deported if he is an alien.
+
+"If the individual who brings into or lands in the Philippines or conceals or harbors any alien not duly admitted by any immigration officer or not lawfully entitled to enter or reside herein, or who attempts, conspires with or aids another to commit any such act, is the pilot, master, agent, owner, consignee, or any person in charge of the vessel or aircraft which brought the alien into the Philippines from any place outside thereof, the fine imposed under the first paragraph hereof shall constitute a lien against the vessel or aircraft and may be enforced in the same manner as fines arc collected and enforced against vessels under the customs laws: _Provided, however_ , That if the court shall in its discretion consider forfeiture to be justified by the circumstances of the case, it shall order, in lieu of the fine imposed, the forfeiture of the vessel aircraft in favor of the Government, without prejudice to the imposition of the penalty of imprisonment provided in the preceding paragraph."
+
+## Section 2
+
+All laws and regulations inconsistent herewith are hereby repealed.1aшphi1
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Approved, August 14, 1952.

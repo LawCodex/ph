@@ -1,0 +1,56 @@
+---
+title: "Republic Act No. 4529 — An Act Granting De Lara Logging, Inc. a Franchise to Construct, Maintain and Operate Point-to-Point Radio Stations in the Philippines"
+identifier: "Republic Act No. 4529"
+number: "4529"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4529_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4529_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4529
+
+**An Act Granting De Lara Logging, Inc. a Franchise to Construct, Maintain and Operate Point-to-Point Radio Stations in the Philippines**
+
+**REPUBLIC ACT No. 4529**
+
+An Act Granting De Lara Logging, Inc. a Franchise to Construct, Maintain and Operate Point-to-Point Radio Stations in the Philippines
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution, De Lara Logging, Inc., is hereby granted a franchise to operate point-to-point radio stations, from Quezon City to Cagayan de Oro City, Gingoog City, Oriental Misamis and Bukidnon as well as from car to car, sea to shore or shore to sea, which shall continue in force during the time that the Government has not established similar service at the places selected by the grantee; to construct, maintain and operate, for commercial purposes and in the public interest, point-to-point radio stations in the Philippines: _Provided,_ That this franchise shall be for a period of twenty-five years and shall be void unless the construction of at least one point-to-point radio station be begun within two years from the date of approval of this Act, and be completed within four years from said date: _Provided, further,_ That the grantee shall provide adequate public service time to enable the Government, through the said point-to-point radio stations, to reach the population on important public issues; shall assist in the functions of public information and education; shall conform to the ethics of honest enterprise; and shall not use its stations for the broadcasting of obscene or indecent language or speech, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage, or assist in subversive or treasonable acts.
+
+## Section 2
+
+Such provisions of Act Numbered Thirty-eight hundred and forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes"; Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the radio broadcasting stations referred to in Section one.
+
+## Section 3
+
+The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this franchise is granted.
+
+## Section 4
+
+(a) The grantee shall be liable to pay the same taxes on its estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
+
+(b) The grantee shall further be liable to pay all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
+
+## Section 5
+
+In the event that the Government should desire to maintain and operate for itself any or all of the stations herein authorized, the grantee shall turn over such station or stations to the Government with all serviceable equipment therein, at cost, less reasonable depreciation.
+
+## Section 6
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the previous approval of the Congress of the Philippines. Any corporation to which this franchise is sold, transferred or assigned, shall be subject to all the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise has been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+## Section 7
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

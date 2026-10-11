@@ -1,0 +1,1161 @@
+---
+title: "Republic Act No. 8251 — An Act Converting the Municipality of Las Piñas Into A Highly-urbanized City To Be Known As the City of Las Piñas"
+identifier: "Republic Act No. 8251"
+number: "8251"
+type: act
+jurisdiction: ph
+language: en
+date: 1997-02-12
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1997/ra_8251_1997.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1997/pdf/ra_8251_1997.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 8251
+
+**An Act Converting the Municipality of Las Piñas Into A Highly-urbanized City To Be Known As the City of Las Piñas**
+
+Tenth Congress  
+Second Regular Session
+
+[ REPUBLIC ACT NO. 8251, February 12, 1997 ]
+
+AN ACT CONVERTING THE MUNICIPALITY OF LAS PIÑAS INTO A HIGHLY-URBANIZED CITY TO BE KNOWN AS THE CITY OF LAS PIÑAS
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## ARTICLE I — GENERAL PROVISIONS
+
+### Section 1
+
+_Title._ – This Act shall be known as the Charter of the City of Las Piñas.
+
+### Section 2
+
+_The City of Las Piñas._ – The Municipality of Las Piñas shall be converted into a highly urbanized city to be known as the City of Las Piñas, hereinafter referred to as the City, which shall comprise the present territory of the Municipality of Las Piñas in the Metropolitan Manila Area, over which it has jurisdiction, bounded by the Municipality of Parañaque and the City of Muntinlupa, Metro Manila, and the municipalities of Bacoor, Imus, and Dasmariñas, Cavite. Its bounds are approximately described as follows:
+
+Northeast – Cad. 299-D Parañaque Cadastre along MBM 19 of Cad 299-D to MBM 18, 17, 16, 15, 14, 13, 12 following the Parañaque River or creek to MBM 12, 11, 10, 9 to intersection of Daang Hari Road, MBM 8, all of Cad. 299-D; thence
+
+Southeast – MCadm - 593-D Muntinlupa Cadastre from intersection of Daang Hari Road to MBM 8 (intersection of Alabang-Zapote Road and Daang Hari Road) to MBM 7 following Daang Hari to MBM 6 to MBM 5 (=BBM 16 Muntinlupa) to MBM 4, all of Mcad 593-D; thence to
+
+South – Imus Estate (Dasmariñas, Cavite) going west along a road to points A, B, C, D, E, F along Zapote River and Imus Estate (Imus, Cavite); thence going
+
+Southwest – Bacoor, Cavite following Zapote River to BBM 31 to PBM 1 (= BBM 27) to PBM 2 (= BBM 28) to Manila Bay at mouth of Zapote River;
+
+Northwest – Manila Bay from BBM 32 to BBM 26 to MBM 19.
+
+Metes: Beginning from point MBM-19, CAD-299-D, 14 deg 29 min 16.2 sec N., 120 deg 58 min 53.7 sec E., in the Coastal Road;
+
+thence to MBM-18, Cad-299-D, 14 deg 29 min 12.5 sec N., 120 deg 59 min 01.4 sec E., on Quirino Ave;
+
+thence to MBM-17, Cad-299-D, 14 deg 29 min 08.9 sec N., 120 deg 59 min 06.3 sec E.;
+
+thence to MBM-16, Cad-299-D, 14 deg 29 min 07.4 sec N., 120 deg 59 min 12.7 sec E., following Parañaque River;
+
+thence to MBM-15, Cad-299-D, 14 deg 28 min 50.7 sec N., 120 deg 59 min 23.6 sec E., following Parañaque River;
+
+thence to MBM-14, Cad-299-D, 14 deg 28 min 39.8 sec. N., 120 deg 59 min 23.1 sec E, following Parañaque River;
+
+thence to MBM-13 Cad-299-D, 14 deg 28 min 35.6 sec N., 120 deg 59 min 37.9 sec E., following Parañaque River;
+
+thence to MBM-12, Cad-299-D, 14 deg 27 min 31.5 sec N., 121 deg 00 min 00.7 sec E., following Parañaque River;
+
+thence to MBM-11, Cad-299-D, 14 deg 27 min 16.7 sec N., 121 deg 00 min 29.7 sec E., following Parañaque River;
+
+thence to MBM-10, Cad-299-D, 14 deg 26 min 58.4 sec N., 121 deg 00 min 45.1 sec E.;
+
+thence to MBM-9, Cad-299-D, 14 deg 26 min 19.1 sec N., 121 deg 00 min 59.7 sec E.;
+
+thence to MBM-8, Cad-299-D, 14 deg 26 min 14.4 sec N., 121 deg 01 min 22.9 sec E.;
+
+thence to MBM-8, MCadm-393-D, 14 deg 25 min 45.3 sec N., 121 deg 01 min 15.3 sec E; intersecting Alabang-Zapote Road and Daang Hari Road;
+
+thence to MBM-7, MCadm-393-D, 14 deg 24 min 15.3 sec N., 121 deg 0.0 min 39.3 sec E., along Daang Hari Road;
+
+thence to MBM-6, MCadm-393-D, 14 deg 23 min 28.9 sec N., 121 deg 0.0 min 30.2 sec E., along Daang Hari Road;
+
+thence to MBM-5, MCadm-593-D, 14 deg 22 min 10.2 sec N., 121 deg 0.0 min 31.5 sec E.;
+
+thence to MBM-4, MCadm-593-D, 14 deg 21 min 02.5 sec N., 121 deg 0.0 min 23.6 sec E.;
+
+thence to A, 14 deg 21 min 07.5 sec N., 121 deg 0.0 min 13.4 sec E., intersection of road and Zapote River;
+
+thence to B, 14 deg 21 min 25.5 sec N., 121 deg 0.0 min 22.0 sec E., following Zapote River;
+
+thence to C, 14 deg 21 min 42.3 sec N., 121 deg 0.0 min 20.0 sec E., following Zapote River;
+
+thence to D, 14 deg 22 min 19.5 sec N., 121 deg 0.0 min 22.0 sec E., following Zapote River;
+
+thence to E, 14 deg 22 min 52.1 sec N., 121 deg 0.0 min 36.7 sec E., following Zapote River;
+
+thence to F, 14 deg 24 min 05.0 sec N, 121 deg 0.0 min 05.0 sec E., following Zapote River;
+
+thence to Mon. 50, Imus Estate, 14 deg 24 min 40.3 sec N., 120 deg 59 min 36.0 sec E., following Zapote River;
+
+thence to BBM 8, MCadm-592-D, 14 deg 25 min 34.0 sec N., 120 deg 59 min 08.5 sec E., following Zapote River;
+
+thence to BBM 31, MCadm-592-D, 14 deg 26 min 46.6 sec N., 120 deg 58 min 13.5 sec E., following Zapote River;
+
+thence to BBM 30, MCadm-592-D, 14 deg 27 min 02.2 sec N., 120 deg 58 min 08.2 sec E., following Zapote River;
+
+thence to PBM 1 = BBM 27, MCadm-592-D, 14 deg 27 min 52.0 sec N., 120 deg 57 min 58.0 sec E., following Zapote River;
+
+thence to PBM 2 = BBM 28, MCadm-592-D, 14 deg 27 min 56.0 sec N., 120 deg 57 min 54.8 sec E., following Zapote River;
+
+thence to PBM 3 = BBM 29, MCadm-592-D, 14 deg 28 min 11.0 sec N., 120 deg 58 min 06.7 sec E., following Zapote River;
+
+thence to BBM 32; MCadm-592-D, 14 deg 28 min 39.2 sec N., 120 deg 58 min 17.2 sec E., Coastal Road;
+
+thence to BBM 24, MCadm-592-D 14 deg 28 min 54.6 sec N., 120 deg 58 min 36.9 sec E., along Manila Bay;
+
+thence to BBM 22, MCadm-592-D, 14 deg 28 min 58.6 sec N., 120 deg 58 min 39.4 sec E., along Manila Bay;
+
+thence to BBM 26 MCadm-592-D, 14 deg 29 min 07.0 sec N., 120 deg 58 min 46.1 sec E., along Manila Bay;
+
+thence to the point of beginning, MBM 19, Cad-299, mouth of Parañaque River;
+
+Containing an area of approximately 3,268.6 hectares.
+
+Area bounded by Points MBM 7, 6, 5, 4, (all of MCadm 593- D), A, B, C, D, E, F (all along Zapote River is subject to future delimitation).
+
+The foregoing provisions shall be without prejudice to the award or resolution by the appropriate agency or forum of whatever claim that may be due to the City, or a boundary dispute that may arise or a case involving questions of territorial jurisdiction between the City of Las Piñas and any of the adjoining local government units.
+
+### Section 3
+
+_Corporate Powers of the City of Las Piñas._ – The City constitutes a political body corporate and as such is endowed with the attribute of perpetual succession and possessed of the powers which pertain to a municipal corporation, to be exercised in conformity with the provisions of this charter. The City shall have the following corporate powers:
+
+1\. To have a continuous succession in its corporate name;
+
+2\. To sue and be sued;
+
+3\. To have and use a corporate seal;
+
+4\. To acquire and convey real or personal property;
+
+5\. To enter into contracts; and
+
+6\. To exercise such other powers as are granted to corporations, subject to the limitations provided in this Act and other laws.
+
+### Section 4
+
+_General Powers of the City._ – The City shall have an independent, common seal, and may alter the same at pleasure. It shall exercise the powers to levy taxes, and subject to the pertinent provisions of the Constitution, open or close roads, streets, alleys, parks or squares, or any other open space, including those of subdivisions, villages or compounds, in order to serve a public purpose. It may take, purchase, receive, hold, lease, convey, and dispose of real and personal property for the general interest of the City, condemn private property for public use, contract and be contracted with, sue and be sued, prosecute and defend to final judgment and execution suits wherein said city is a party, and exercise all the powers as are granted to corporations or as hereinafter conferred.
+
+## ARTICLE II — CITY OFFICIALS IN GENERAL
+
+### Section 5
+
+_The Officials of the City of Las Piñas._ –
+
+a. There shall be in the City of Las Piñas a city mayor, a city vice-mayor, a sangguniang panlungsod, a sangguniang panlungsod secretary, a city treasurer, an assistant city treasurer, a city assessor, an assistant city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city social welfare and development officer, and a city general services officer.
+
+b. In addition thereto, the city mayor may appoint a city architect, a city information officer, a city tourism and cultural affairs officer, a city environment officer, a city cooperatives officer, a city registrar of deeds, a city land transportation officer, a city fire marshal, a city jail warden, a city prosecutor, and a city schools division superintendent.
+
+c. The City of Las Piñas, through the city mayor, may:
+
+1\. Maintain existing offices not mentioned in subsections (a) and (b) hereof;
+
+2\. Create such other offices as may be necessary to carry out the purpose of the City; or
+
+3\. Consolidate the functions of any office with those of another in the interest of efficiency and economy;
+
+d. Unless otherwise provided herein, all appointive city officials of the City shall be appointed by the city mayor with the concurrence of the majority of all the Sangguniang Panlungsod members, subject to the Civil Service Law, rules and regulations. The Sangguniang Panlungsod shall act on the appointment within fifteen (15) days from the date of its submission, otherwise the same shall be deemed confirmed.
+
+## ARTICLE III — THE CITY MAYOR AND VICE MAYOR
+
+### Section 6
+
+_The City Mayor._ –
+
+a. The city mayor shall be the chief executive of the City. He shall be elected at large by the qualified voters of the City. No person shall be eligible for the position of city mayor unless at the time of the election he is at least twenty-three (23) years of age, an actual resident of the City for at least one (1) year prior to his election, and a qualified voter therein. He shall hold office for three (3) years, unless sooner removed, and shall receive a minimum monthly compensation corresponding to salary grade thirty (30) as prescribed under Republic Act No. 6758 and the implementing guidelines issued pursuant thereto.
+
+b. The city mayor, as the chief executive of the city government, shall exercise such powers and perform such duties and functions as provided herein:
+
+1\. Exercise those powers expressly granted to him by law, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for the efficient and effective governance of the City, and those which are essential to the promotion of general welfare:
+
+(aa) Determine the guidelines of city policies and be responsible to the Sangguniang Panlungsod for the program of government;
+
+(bb) Direct the formulation of the city development plan, with the assistance of the city development council and, upon approval thereof by the Sangguniang Panlungsod, implement the same;
+
+(cc) Present the program of government and propose policies and projects for the consideration of the Sangguniang Panlungsod at the opening of the regular session of the Sangguniang Panlungsod every calendar year and as often as may be deemed necessary as the general welfare of the inhabitants and the needs of the city government may require;
+
+(dd) Initiate and propose legislative measures to the Sangguniang Panlungsod and, as often as may be deemed necessary, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions;
+
+(ee) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of city funds and whose appointments are not otherwise provided for in this Act, as well as those he may be authorized by law to appoint;
+
+(ff) Represent the City in all its business transactions and sign in its behalf all bonds, contracts, and obligations, and such other documents upon authority of the Sangguniang Panlungsod or pursuant to law or ordinance;
+
+(gg) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities;
+
+(hh) Determine the time, manner and place of payment of salaries or wages of the officials and employees of the City, in accordance with law or ordinance;
+
+(ii) Allocate and assign office space to city and other officials and employees who, by law or ordinance, are entitled to such space in the city hall and other buildings owned or leased by the city government;
+
+(jj) Ensure that all executive officials and employees of the City faithfully discharge their duties and functions as provided by law and this Act, and cause to be instituted administrative or judicial proceedings against any official or employee of the City who may have committed an offense in the performance of his official duties;
+
+(kk) Examine the books, records and other documents of all offices, officials, agents or employees of the City and, in aid of his executive powers and authority, require all national officials and employees stationed in or assigned to the City to make available to him such books, records, and other documents in their custody, except those classified by law as confidential;
+
+(ll) Furnish copies of executive orders issued by him to the respective council chairmen within seventy-two (72) hours after their issuance;
+
+(mm) Visit component barangays of the City at least once every six (6) months to deepen his understanding of problems and conditions, listen and give appropriate counsel to local officials and inhabitants of general laws and ordinances which especially concern them, and otherwise conduct visits and inspections to ensure that the governance of the City will improve the quality of life of the inhabitants;
+
+(nn) Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of their leave credits in accordance with law;
+
+(oo) Authorize official trips of city officials and employees outside of the City for a period not exceeding thirty (30) days;
+
+(pp) Call upon any national official or employee stationed in or assigned to the City to advise him on matters affecting the City and to make recommendations thereon; coordinate with said official or employee in the formulation and implementation of plans, programs and projects; and when appropriate, initiate any administrative or judicial action against a national government official or employee who may have committed an offense in the performance of his official duties while stationed in or assigned to the City;
+
+(qq) Authorize payment for medical care, necessary transportation, subsistence, hospital or medical fees of city officials and employees who are injured while in the performance of their official duties and functions, subject to availability of funds;
+
+(rr) Solemnize marriages, any provision of law to the contrary notwithstanding;
+
+(ss) Conduct an annual palarong panlungsod, which shall feature traditional sports and disciplines included in national and international games, in coordination with the Department of Education, Culture and Sports; and
+
+(tt) Submit to the respective metropolitan authority council chairmen and to the Office of the President the following reports: an annual report containing a summary of all matters pertinent to the management, administration and development of the City and all information and data relative to its political, social and economic conditions; and supplemental reports when unexpected events and situation arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the City.
+
+2\. Enforce all laws and ordinances relative to the governance of the City and in the exercise of its appropriate corporate powers, as well as implement all approved policies, programs, projects, services and activities of the City:
+
+(aa) Ensure that the acts of the City's component barangays and of its officials and employees are within the scope of their prescribed powers, duties, and functions;
+
+(bb) Call conventions, conferences, seminars, or meetings of elective and appointive officials and employees of the City, including national officials and employees stationed in or assigned to the City, at such time and place and on such subject as he may deem important for the promotion of the general welfare of the local government unit and its inhabitants;
+
+(cc) Issue such executive orders for the faithful and appropriate enforcement and execution of laws and ordinances;
+
+(dd) Be entitled to carry the necessary licensed firearm within his territorial jurisdiction;
+
+(ee) Act as the deputized representative of the National Police Commission, formulate the peace and order plan of the City and upon its approval, implement the same; and as such, exercise general and operational control and supervision over the local police forces in the City, in accordance with Republic Act. No. 6975; and
+
+(ff) Call upon the appropriate law enforcement agencies to suppress disorder, riot, lawless violence, rebellion or sedition, or to apprehend violators of the law when public interest so requires and the city police forces are inadequate to cope with the situation or the violators.
+
+3\. Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities, particularly those resources and revenues programmed for industrial development and countryside growth and progress:
+
+(aa) Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the budget preparation process in accordance with the provisions of the Local Government Code;
+
+(bb) Prepare and submit to the sanggunian for approval the executive and supplemental budgets of the City for the ensuing calendar year in the manner provided for under the Local Government Code;
+
+(cc) Ensure that all taxes and other revenues of the city are collected, and that city funds are applied to the payment of expenses and settlement of obligations of the City, in accordance with law or ordinance;
+
+(dd) Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance;
+
+(ee) Issue permits, without need of approval therefor from any national agency, for the holding of activities for any charitable or welfare purpose, excluding prohibited games of chance or shows contrary to law, public policy and public morals;
+
+(ff) Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permit, subject to such fines and penalties as may be imposed by law or ordinance, or to make necessary changes in the construction of the same when said construction violates any law or ordinance, or to order the demolition or removal of said house, building or structure within the period prescribed by law or ordinance;
+
+(gg) Adopt adequate measures to safeguard and conserve land, mineral, marine, and other resources of the City;
+
+(hh) Provide efficient and effective property and supply management in the City; and protect the funds, credits, rights and other properties of the City; and
+
+(ii) Institute or cause to be instituted administrative or judicial proceedings for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the City to be defended against all suits to ensure that its interests, resources and rights shall be adequately protected.
+
+4\. Ensure the delivery of basic services and the provision of adequate facilities and, in addition thereto:
+
+(aa) Ensure that the construction and repair of roads and highways funded by the national government shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the City; and
+
+(bb) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices.
+
+5\. Perform such other duties and functions and exercise such other powers, as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 7
+
+_The City Vice Mayor._ –
+
+a. There shall be a vice-mayor who shall be elected in the same manner as the city mayor and shall, at the time of his election, possess the same qualifications as the city mayor. He shall hold office for three (3) years, unless sooner removed, and shall receive a monthly compensation corresponding to salary grade twenty eight (28) as prescribed under Republic Act No. 6758, and the implementing guidelines issued pursuant thereto.
+
+b. The vice-mayor shall:
+
+1\. Act as presiding officer of the Sangguniang Panlungsod and sign all warrants drawn on the city treasury for all expenditures appropriated for the operation of the Sangguniang Panlungsod;
+
+2\. Subject to civil service law, rules and regulations, appoint all officials and employees of the Sangguniang Panlungsod, except those whose manner of appointment is specifically provided for under existing laws;
+
+3\. Assume the office of the city mayor for the unexpired term of the latter in the event of permanent vacancy;
+
+4\. Exercise the powers and perform the duties and functions of the city mayor in cases of temporary vacancy; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act. No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+## ARTICLE IV — THE SANGGUNIANG PANLUNGSOD
+
+### Section 8
+
+_The Sangguniang Panlungsod._ –
+
+a. The Sangguniang Panlungsod, the legislative body of the City, shall be composed of the vice mayor as presiding officer, the regular sanggunian members, the president of the city chapter of the Liga ng mga Barangay, the president of the Panlungsod na Pederasyon ng mga Sangguniang Kabataan, and the sectoral representatives, as members.
+
+b. In addition thereto, there shall be three (3) sectoral representatives; one (1) from the women; and, as shall be determined by the Sangguniang Panlungsod within ninety (90) days prior to the holding of the local elections, one (1) from the commercial or industrial workers; and one (1) from the other sectors, including the urban poor, or disabled persons.
+
+c. The regular members of the Sangguniang Panlungsod and the sectoral representatives shall be elected in the same manner as may be provided for by law. The elective members of the Sangguniang Panlungsod shall possess the same qualifications as that of the city mayor and vice-mayor.
+
+d. They shall receive such compensation, emoluments and allowances as may be determined by law.
+
+e. The Sangguniang Panlungsod shall:
+
+1\. Approve ordinances and pass resolutions necessary for an efficient and effective city government and, in this connection, shall:
+
+(aa) Review all ordinances approved by the Sangguniang Barangay and executive orders issued by the punong barangay to determine whether these are within the scope of the prescribed powers of the sanggunian and of the punong barangay;
+
+(bb) Maintain peace and order by enacting measures to prevent and suppress lawlessness, disorder, riot, violence, rebellion or sedition and impose penalties for the violation of said ordinances;
+
+(cc) Approve ordinances imposing a fine not exceeding Five thousand pesos (P5,000.00) or an imprisonment for a period not exceeding one (1) year, or both, in the discretion of the court, for the violation of a city ordinance;
+
+(dd) Adopt measures to protect the inhabitants of the City from the harmful effects of man-made or natural disasters and calamities, and to provide relief services and assistance for victims during and in the aftermath of said disasters or calamities and in their return to productive livelihood following said events;
+
+(ee) Enact ordinances intended to prevent, suppress and impose appropriate penalties for habitual drunkenness in public places, vagrancy, mendicancy, prostitution, establishment and maintenance of houses of ill repute, gambling and other prohibited games of chance, fraudulent devices and ways to obtain money or property, drug addiction, maintenance of drug dens, drug pushing, juvenile delinquency, the printing, distribution or exhibition of obscene or pornographic materials or publications, and such other activities inimical to the welfare and morals of the inhabitants of the City;
+
+(ff) Protect the environment and impose appropriate penalties for acts which endanger the environment, such as dynamite fishing and other forms of destructive fishing, smuggling of natural resources products and of endangered species of flora and fauna, and such other activities which result in pollution, acceleration of euthrophication of creeks or rivers, or of ecological imbalance;
+
+(gg) Subject to the provisions of the Local Government Code and pertinent laws, determine the powers and duties of
+
+officials and employees of the City;
+
+(hh) Determine the positions and the salaries, wages, allowances, and other emoluments and benefits of officials and employees paid wholly or mainly from city funds and provide for expenditure necessary for the proper conduct of programs, projects, services, and activities of the city government;
+
+(ii) Authorize the payment of compensation to a qualified person not in the government service who fills up a temporary vacancy or grant honorarium to any qualified official or employee designated to fill a temporary vacancy in a concurrent capacity at the rate authorized by law;
+
+(jj) Provide a mechanism and the appropriate funds therefor, to ensure the safety and protection of all city government property, public documents, or records such as those relating to property inventory, land ownership, records of births, marriages, deaths, assessments, taxation, accounts, business permits, and such other records and documents of public interest in the offices and departments of the city government;
+
+(kk) When the finances of the city government allow, provide for additional allowances and other benefits to judges, prosecutors, public attorneys, public elementary and high school teachers, and other national government officials stationed in or assigned in the City;
+
+(ll) Provide legal assistance to barangay officials who, in the performance of their official duties or on the occasion thereof, have to initiate judicial proceedings or defend themselves against legal action; and
+
+(mm) Provide for group insurance or additional insurance coverage for all barangay officials, including members of barangay tanod brigades and other service units, with public or private insurance companies, when the finances of the city government allow said coverage.
+
+2\. Generate and maximize the use of resources and revenues for the development plans, program objectives and priorities of the City, with particular attention to commercial and industrial development and city-wide growth and progress:
+
+(aa) Approve the annual and supplemental budgets of the City government and appropriate funds for specific programs, projects, services and activities of the City, or for other purposes not contrary to law, in order to promote the general welfare of the City and its inhabitants;
+
+(bb) Subject to the provisions of Book II of the Local Government Code and applicable laws and upon the majority vote of all members of the Sangguniang Panlungsod, enact ordinances levying taxes, fees and charges, prescribing the rates thereof for general and specific purposes, and granting tax exemptions, incentives or relief;
+
+(cc) Subject to the provisions of Book II of the Local Government Code and upon the majority vote of all the members of the Sangguniang Panlungsod, authorize the city mayor to negotiate and contract loans and other forms of indebtedness;
+
+(dd) Subject to the provisions of Book II of the Local Government Code and applicable laws and upon the majority vote of all the members of the Sangguniang Panlungsod, enact ordinances authorizing the floating of bonds or other instruments of indebtedness, for the purpose of raising funds to finance development projects;
+
+(ee) Appropriate funds for the construction and maintenance or the rental of buildings for the use of the City; and upon the majority vote of all the members of the Sangguniang Panlungsod, authorize the city mayor to lease to private parties such public buildings held in a proprietary capacity, subject to existing laws, rules and regulations;
+
+(ff) Prescribe reasonable limits and restraints on the use of property within the jurisdiction of the City;
+
+(gg) Adopt a comprehensive land use for the City;
+
+(hh) Reclassify land within the jurisdiction of the City, subject to the pertinent provisions of the Local Government Code;
+
+(ii) Enact integrated zoning ordinances in consonance with the approved comprehensive land use plan, subject to existing laws, rules and regulations; establish fire limits or zones, particularly in populous centers; and regulate the construction, repair or modification of buildings within said fire limits or zones in accordance with the provisions of the Fire Code;
+
+(jj) Subject to national law, process and approve subdivision plans for residential, commercial, or industrial purposes and other development purposes, and to collect processing fees and other charges, the proceeds of which shall accrue entirely to the City: _Provided, however_ , That where approval of a national agency or office is required, said approval shall not be withheld for more than thirty (30) days from receipt of the application. Failure to act on the application within the period stated above shall be deemed as approval thereof;
+
+(kk) Subject to the provisions of Book II of the Local Government Code, grant the exclusive privilege of constructing fish corrals or fish pens, or the taking or catching of bangus fry, prawn fry of kawag-kawag, or fry of any species of fish within the City waters;
+
+(ll) With the concurrence of at least two-thirds (2/3) of all the members of the Sangguniang Panlungsod, grant tax exemptions, incentives or relief to entities engaged in community growth-inducing industries, subject to the provisions of the Local Government Code;
+
+(mm) Grant loans or provide grants to other local government units or to national, provincial, and city charitable, benevolent or educational institutions: _Provided,_ That, said institutions are operated and maintained within the City;
+
+(nn) Regulate the numbering of residential, commercial and other buildings; and
+
+(oo) Regulate the inspection, weighing and measuring of articles of commerce.
+
+3\. Subject to the provisions of the Local Government Code of 1991, enact ordinances granting franchises and authorizing the issuance of permits or licenses, upon such conditions and for such purposes intended to promote the general welfare of the inhabitants of the City and pursuant to this legislative authority, shall:
+
+(aa) Fix and impose reasonable fees and charges for all services rendered by the city government to private persons or entities;
+
+(bb) Regulate or fix license fees for any business or practice of profession within the City and the conditions under which the license for said business or practice of profession may be revoked and enact ordinances levying taxes thereon;
+
+(cc) Provide for and set the terms and conditions under which public utilities owned by the City shall be operated by the city government, and prescribe the conditions under which the same may be leased to private persons or entities, preferably cooperatives;
+
+(dd) Regulate the display of and fix the license fees for signs, signboards, or billboards at the place or places where the profession or business advertised thereby is, in whole or in part, conducted;
+
+(ee) Any law to the contrary notwithstanding, authorize and license the establishment, operation, and maintenance of cockpits, and regulate cockfighting and commercial breeding of gamecocks: _Provided,_ That existing rights shall not be impaired;
+
+(ff) Subject to the guidelines prescribed by the Department of Transportation and Communications, regulate the operation of tricycles and grant franchises for the operation thereof within the territorial jurisdiction of the City; and
+
+(gg) Upon approval by a majority vote of all the members of the Sangguniang Panlungsod: grant a franchise to any person, partnership, corporation, or cooperative to do business within the City; establish, construct, operate and maintain ferries, wharves, markets or slaughterhouses; or undertake such other activities within the City as may be allowed by existing laws: _Provided,_ That, cooperatives shall be given preference in the grant of such franchise.
+
+4\. Regulate activities relative to the use of land, buildings and structures within the City in order to promote the general welfare and for said purpose shall:
+
+(aa) Declare, prevent or abate any nuisance;
+
+(bb) Require that buildings and the premises thereof and any land within the City be kept and maintained in a sanitary condition; impose penalties for any violation thereof; or, upon failure to comply with said requirement, have the work done at the expense of the owner, administrator or tenant concerned; or require the filling up of any land or premises to a grade necessary for proper sanitation;
+
+(cc) Regulate the disposal of clinical and other wastes from hospitals, clinics and other similar establishments;
+
+(dd) Regulate the establishment, operation and maintenance of cafes, restaurants, beerhouses, hotels, motels, inns, pension houses, lodging houses, and other similar establishments, including tourist guides and transports;
+
+(ee) Regulate the sale, giving away or dispensing of any intoxicating malt, vino, mixed or fermented liquors at any retail outlet;
+
+(ff) Regulate the establishment and provide for the inspection of steam boilers or any heating device in buildings and the storage of inflammable and highly combustible materials within the City;
+
+(gg) Regulate the establishment, operation, maintenance of any entertainment or amusement facilities, including theatrical performances, circuses, billiard pools, public dancing schools, public dance halls, sauna baths, massage parlors, and other places for entertainment or amusement; regulate such other events or activities for amusement or entertainment, particularly those which tend to disturb the community or annoy the inhabitants, or require the suspension or suppression of the same; or prohibit certain forms of amusement or entertainment in order to protect the social and moral welfare of the community;
+
+(hh) Provide for the impounding of stray animals; regulate the keeping of animals in homes or as part of a business, and the slaughter, sale or disposition of the same; and adopt measures to prevent and penalize cruelty to animals; and
+
+(ii) Regulate the establishment, operation and maintenance of funeral parlors and the burial or cremation of the dead, subject to existing laws, rules and regulations.
+
+5\. Approve ordinances which shall ensure the efficient and effective delivery of the basic services and facilities as provided for under the Local Government Code, and in addition to said services and facilities, shall:
+
+(aa) Provide for the establishment, maintenance, protection, conservation of tree parks, green belts, mangroves, and other similar forest development projects;
+
+(bb) Establish markets, slaughterhouses or animal corrals and authorize the operation thereof by the city government; and regulate the construction and operation of private markets, talipapas or other similar buildings and structures;
+
+(cc) Authorize the establishment, maintenance and operation by the city government of ferries, wharves, and other structures intended to accelerate productivity related to marine and seashore or offshore activities;
+
+(dd) Regulate the preparation and sale of meat, poultry, fish, vegetables, fruits, fresh dairy products and other foodstuffs for public consumption;
+
+(ee) Regulate the use of streets, avenues, alleys, sidewalks, bridges, parks and other public places and approve the construction, improvement repair and maintenance of the same; declare the turnover, in favor of the City, of a road, street, avenue, alley, park, square, or any other open space within subdivisions, villages, or residential compounds subject to existing laws; establish bus and vehicle stops and terminals and regulate the use of the same by privately-owned vehicles which serve the public; regulate garages and the operation of conveyances for hire; designate stands to be occupied by public vehicles when not in use; regulate the putting up of signs, signposts, awnings and awning posts on the streets; and provide for the lighting, cleaning and sprinkling of streets and public places;
+
+(ff) Regulate traffic on all streets and bridges; prohibit encroachments or obstacles thereon and, when necessary in the interest of public welfare, authorize the removal of encroachments and illegal constructions in public places;
+
+(gg) Subject to existing laws, establish and provide for the maintenance, repair and operation of an efficient waterworks system to supply water for the inhabitants and to purify the source of water supply; regulate the construction, maintenance, repair and use of hydrants, pumps, cisterns and reservoirs; protect the purity and quantity of the water supply of the City, and for this purpose, extend the coverage of appropriate ordinances over all territory within the drainage area of said water supply and within one hundred (100) meters of the reservoir, conduit, canal, aqueduct, pumping station, or watershed used in connection with the water service; and regulate the consumption, use or wastage of water and fix and collect charges therefore;
+
+(hh) Regulate the drilling and excavation of the ground for the laying of water, gas, sewer, and other pipes and the construction, repair and maintenance of public drains, sewers, cesspools, tunnels and similar structures; regulate the placing of poles and the use of crosswalks, curbs, and gutters; adopt measures to ensure public safety against open canals, manholes, live wires and other similar hazards to life and property; and regulate the construction and use of private water closets, privies and other similar structures in buildings and homes;
+
+(ii) Regulate the placing, stringing, attaching, installing, repair and construction of all gas mains, electric, telegraph and telephone wires, conduits, meters and other apparatus; and provide for the correction, condemnation or removal of the same when found to be dangerous, defective or otherwise hazardous to the welfare of the inhabitants;
+
+(jj) Subject to the availability of funds and to existing laws, rules and regulations, establish and provide for the operation of vocational and technical schools and similar post-secondary institutions and, with the approval of the Department of Education, Culture and Sports and subject to existing law on tuition fees, fix and collect reasonable tuition fees and other school charges in educational institutions supported by the city government;
+
+(kk) Establish a scholarship fund for poor but deserving students in schools located within its jurisdiction or for students residing within the City;
+
+(ll) Approve measures and adopt quarantine regulations to prevent the introduction and spread of diseases;
+
+(mm) Provide for an efficient and effective system of solid waste and garbage collection and prohibit littering and the placing or throwing of garbage, refuse and other filth and wastes;
+
+(nn) Provide for the care of disabled persons, paupers, the aged, the sick, persons of unsound mind, abandoned minors, juvenile delinquents, drug dependents, abused children and youth below eighteen (18) years of age; and, subject to availability of funds, establish and provide for the operation of centers and facilities for said needy and disadvantaged persons;
+
+(oo) Establish and provide for the maintenance and improvement of jails and detention centers, institute a sound jail management program, and appropriate funds for the subsistence of detainees and convicted prisoners in the City;
+
+(pp) Establish a city council whose purpose is the promotion of culture and the arts, coordinate with government agencies and nongovernmental organizations and, subject to the availability of funds, appropriate funds for the support and development of the same; and
+
+(qq) Establish in the City a council for the elderly which shall formulate policies and adopt measures mutually beneficial to the elderly and to the community; provide incentives for nongovernmental agencies and entities and, subject to the availability of funds, appropriate funds to support programs and projects for the benefit of the elderly.
+
+6\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991 and those that are prescribed by law or ordinance.
+
+## ARTICLE V — PROCESS OF LEGISLATION
+
+### Section 9
+
+_Internal Rules of Procedure._ –
+
+a. On the first regular session following the election of its members and within ninety (90) days thereafter, the Sangguniang Panlungsod shall adopt or update its existing rules of procedure.
+
+b. The rules of procedure shall provide for the following:
+
+1\. The organization of the sanggunian and the election of its officers as well as the creation of standing committees which shall include, but shall not be limited to, the committees on appropriations, women and family, human rights, youth and sports development, environmental protection, and cooperatives; the general jurisdiction of each committee; and the election of the chairman and members of each committee;
+
+2\. The order and calendar of business for each session;
+
+3\. The legislative process;
+
+4\. The parliamentary procedures which include the conduct of members during sessions;
+
+5\. The discipline of members for disorderly behavior and absences without justifiable cause for four (4) consecutive sessions, for which they may be censured, reprimanded, or excluded from the session, suspended for not more than sixty (60) days, or expelled: _Provided,_ That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the sanggunian members: _Provided, further_ , That a member convicted by final judgment and sentenced to imprisonment of at least one (1) year for any crime involving moral turpitude shall be automatically expelled from the sanggunian; and
+
+6\. Such other rules as the sanggunian may adopt.
+
+### Section 10
+
+_Full Disclosure of Financial and Business Interest of Sangguniang Panlungsod Members._ –
+
+a. Every Sangguniang Panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interest. He shall also disclose any business, financial, or professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
+
+1\. Ownership of stock or capital, or investment, in the entity or firm to which the ordinance or resolution may apply; and
+
+2\. Contracts or agreements with any person or entity which the ordinance or resolution under consideration may affect.
+
+In the absence of a specific constitutional or statutory provision applicable to this situation, "conflict of interest" refers in general to one where it may be reasonably deduced that a member of a sanggunian may not act in the public interest due to some private, pecuniary or other personal considerations that may tend to affect his judgment to the prejudice of the service or the public.
+
+b. The disclosure required under this Act shall be made in writing and submitted to the secretary of the sanggunian and of the secretary of the committee of which he is a member. The disclosure shall, in all cases, form part of the record of the proceedings and shall be made in the following manner:
+
+1\. Disclosure shall be made before the member participates in the deliberations on the ordinance or resolution under consideration: _Provided,_ That, if the member did not participate during the deliberations, the disclosure shall be made before voting on the ordinance or resolution on second and third readings; and
+
+2\. Disclosure shall be made when a member takes a position or makes a privilege speech on a matter that may affect the business interest, financial connection, or professional relationship described herein.
+
+### Section 11
+
+_Sessions._ –
+
+a. On the first day of the session immediately following the election of its members, the Sangguniang Panlungsod shall, by resolution, fix the day, time, and place of its regular sessions. The minimum number of regular sessions shall be once a week for the Sangguniang Panlungsod.
+
+b. When public interest so demands, special sessions may be called by the city mayor or by a majority of the members of the sanggunian.
+
+c. All sanggunian sessions shall be open to the public unless a closed-door session is ordered by an affirmative vote of a majority of the members present, there being a quorum, in the public interest or for reasons of security, decency, or morality. No two (2) sessions, regular or special, may be held in a single day.
+
+d. In the case of special sessions of the sanggunian, a written notice to the members shall be served personally at the member's usual place of residence at least twenty-four (24) hours before the special session is held.
+
+Unless otherwise concurred in by two-thirds (2/3) vote of the sanggunian members present, there being a quorum, no other matters may be considered at a special session except those stated in the notice.
+
+e. The sanggunian shall keep a journal and record of its proceedings which may be published upon resolution of the Sangguniang Panlungsod.
+
+### Section 12
+
+_Quorum._ –
+
+a. A majority of all the members of the sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
+
+b. When there is no quorum, the presiding officer may declare a recess until such time as a quorum is constituted, or majority of the members present may adjourn from day to day and may compel the immediate attendance of any member absent without justifiable cause by designating a member of the sanggunian, to be assisted by a member or members of the police force assigned in the territorial jurisdiction of the City of Las Piñas, to arrest the absent member and present him at the session.
+
+c. If there is still no quorum despite the enforcement of the immediately preceding subsection, no business shall be transacted. The presiding officer, upon proper motion duly approved by the members present, shall then declare the session adjourned for lack of quorum.
+
+### Section 13
+
+_Approval of Ordinances._ –
+
+a. Every ordinance enacted by the Sangguniang Panlungsod shall be presented to the city mayor. If the city mayor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+
+b. The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.
+
+### Section 14
+
+_Veto Power of the City Mayor._ –
+
+a. The city mayor may veto any ordinance of the Sangguniang Panlungsod on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons therefore in writing.
+
+b. The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan and public investment program, or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the Sangguniang Panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
+
+c. The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+
+### Section 15
+
+_Review of Barangay Ordinances by the Sangguniang Panlungsod._ –
+
+a. Within ten (10) days after its enactment, the Sangguniang Barangay shall furnish copies of the barangay ordinance to the Sangguniang Panlungsod for review as to whether the ordinance is consistent with law and city ordinances.
+
+b. If the Sangguniang Panlungsod fails to take action on the barangay ordinance within thirty (30) days from receipt thereof, the same shall be deemed approved.
+
+c. If the Sangguniang Panlungsod finds the barangay ordinance inconsistent with law or city ordinances, the Sangguniang Panlungsod shall, within thirty (30) days from receipt thereof, return the same with its comments and recommendations to the Sangguniang Barangay concerned for adjustment, amendment, or modification; in which case, the effectivity of the barangay ordinance is suspended until such time as the revision called for is effected.
+
+### Section 16
+
+_Enforcement of Disapproved Ordinances or Resolutions._ – Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program, after the disapproval thereof, shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
+
+### Section 17
+
+_Effectivity_ of Ordinance or Resolution. –
+
+a. Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted on a bulletin board at the entrance of the City Hall of Las Piñas, and in at least two (2) other conspicuous places in the City of Las Piñas.
+
+b. The secretary of the Sangguniang Panlungsod shall cause the posting of an ordinance or resolution on the bulletin board at the entrance of the City Hall of Las Piñas and in at least two (2) conspicuous places in the City of Las Piñas not later than five (5) days after approval thereof.
+
+The text of the ordinance or resolution shall be disseminated and posted in Filipino or English, and in the language or dialect understood by the majority of the people in the City, and the secretary of the Sangguniang Panlungsod shall record such fact in a book kept for the purpose, stating the dates of approval and posting.
+
+c. The main features of the ordinance or resolution duly enacted or adopted shall, in addition to being posted, be published once in a local newspaper of general circulation within the City: _Provided,_ That in the absence thereof, the ordinance or resolution shall be published in any newspaper of general circulation: _Provided, further_ , That the gist of all ordinances with penal sanctions shall also be published in a newspaper of general circulation.
+
+## ARTICLE VI — DISQUALIFICATIONS AND SUCCESSION OF ELECTIVE CITY OFFICIALS
+
+### Section 18
+
+_Disqualifications for Elective City Officials._ – The following persons are disqualified from running for any elective position in the City:
+
+a. Those sentenced by final judgment for an offense involving moral turpitude or for an offense punishable by one (1) year or more of imprisonment, within two (2) years after serving sentence;
+
+b. Those removed from office as a result of an administrative case;
+
+c. Those convicted by final judgment for violating the oath of allegiance to the Republic of the Philippines;
+
+d. Those with dual citizenship;
+
+e. Fugitives from justice in criminal or nonpolitical cases here and abroad;
+
+f. Permanent residents in a foreign country or those who have acquired the right to reside abroad and continue to avail of the same right after the effectivity of the Local Government Code; and
+
+g. The insane or feeble-minded
+
+### Section 19
+
+_Permanent Vacancy in the Office of the City Mayor and City Vice Mayor._ –
+
+a. If a permanent vacancy occurs in the office of the city mayor, the city vice mayor concerned shall become the city mayor. If a permanent vacancy occurs in the office of the vice-mayor, the highest ranking Sangguniang Panlungsod member or, in case of his permanent incapacity, the second highest Sangguniang Panlungsod member, shall become the city mayor or city vice-mayor, as the case may be. Subsequent vacancies in the said offices shall be filled automatically by the other sanggunian members according to their ranking as defined herein.
+
+b. A tie between or among the highest ranking Sangguniang Panlungsod members shall be resolved by the drawing of lots.
+
+c. The successors as defined herein shall serve only the unexpired terms of their predecessors.
+
+For purposes of this Act, a permanent vacancy arises when an elective local official fills a higher vacant office, refuses to assume office, fails to qualify, dies, is removed from office, voluntarily resigns or is otherwise permanently incapacitated to discharge the functions of his office.
+
+For purposes of succession as provided in this Act, ranking in the sanggunian shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in the City in the immediately preceding local election.
+
+### Section 20
+
+_Permanent Vacancies in the Sanggunian._ – Permanent vacancies in the Sangguniang Panlungsod where automatic succession as provided above does not apply shall be filled by appointment in the following manner:
+
+1\. The President, through the Executive Secretary, shall make the aforesaid appointment;
+
+2\. Only the nominee of the political party under which the sanggunian member concerned had been elected and whose elevation to the position next higher in rank created the last vacancy in the sanggunian shall be appointed in the manner herein provided. The appointee shall come from the same political party as that of the sanggunian member who caused the vacancy and shall serve the unexpired term of the vacant office.
+
+In the appointment herein mentioned, a nomination and a certificate of membership of the appointee from the highest official of the political party concerned are conditions sine qua non, and any appointment without such nomination and certification shall be null and void ab initio and shall be a ground for administrative action against the official responsible therefore;
+
+3\. In case the permanent vacancy is caused by a sanggunian member who does not belong to any political party, the city mayor shall, upon recommendation of the Sangguniang Panlungsod, appoint a qualified person to fill the vacancy; and
+
+4\. In case of vacancy in the representation of the youth and the barangay in the Sangguniang Panlungsod, said vacancy shall be filled automatically by the official next in rank of the organization concerned.1aшphi1
+
+### Section 21
+
+_Temporary Vacancy in the Office of the City Mayor._ –
+
+a. When the city mayor is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad, and suspension from office, the city vice-mayor, or the highest ranking Sangguniang Panlungsod member shall automatically exercise the powers and perform the duties and functions of the city mayor, except the power to appoint, suspend, or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
+
+b. Said temporary incapacity shall terminate upon submission to the Sangguniang Panlungsod of a written declaration by the city mayor that he has reported back to office. In cases where the temporary incapacity is due to legal causes, the city mayor shall also submit necessary documents showing that said legal causes no longer exist.
+
+c. When the city mayor is traveling within the country but outside his territorial jurisdiction for a period not exceeding three (3) consecutive days, he may designate in writing the officer-in-charge of his office. Such authorization shall specify the powers and functions that the local official concerned shall exercise in the absence of the city mayor except the power to appoint, suspend, or dismiss employees.
+
+d. In the event, however, that the city mayor fails or refuses to issue such authorization, the city vice-mayor, or the highest ranking Sangguniang Panlungsod member, as the case may be, shall have the right to assume the powers, duties and functions of the said office on the fourth day of absence of the city mayor, subject to the limitations provided in subsection (c) hereof.
+
+e. Except as provided above, the city mayor shall in no case authorize any legal official to assume the powers, duties and functions of the office, other than the city vice-mayor, or the highest ranking member of the Sangguniang Panlungsod, as the case may be.
+
+## ARTICLE VII — THE APPOINTIVE OFFICIALS OF THE CITY, THEIR QUALIFICATIONS, POWERS AND DUTIES
+
+### Section 22
+
+_The Secretary to the Sangguniang Panlungsod._ –
+
+a. There shall be a secretary to the Sangguniang Panlungsod with the rank and salary equal to a head of a department or office.
+
+b. No person shall be appointed secretary to the Sangguniang Panlungsod unless he is a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in law, commerce or public administration from a recognized college or university, and a first grade civil service eligible or its equivalent.
+
+The secretary to the Sangguniang Panlungsod shall take charge of the office of the Sangguniang Panlungsod, and shall:
+
+1\. Attend meetings of the Sangguniang Panlungsod and keep a journal of its proceedings;
+
+2\. Keep the Seal of the City and affix the same with his signature to all ordinances, resolutions, and other official acts of the Sangguniang Panlungsod and present the same to the presiding officer for his signature;
+
+3\. Forward to the city mayor, for approval, copies of ordinances enacted by the Sangguniang Panlungsod, as duly certified by the presiding officer;
+
+4\. Furnish, upon request of any interested party, certified copies of records of public character in his custody, upon payment to the city treasurer of such fees as may be prescribed by ordinance;
+
+5\. Record in a book kept for the purpose, all ordinances and resolutions enacted or adopted by the Sangguniang Panlungsod, with the dates of passage and publication thereof;
+
+6\. Keep his office and all non-confidential records therein open to the public during the usual business hours;
+
+7\. Translate into the dialect used by the majority of inhabitants all ordinances and resolutions immediately after their approval, and cause the publication of the same together with the original version in the manner provided under the Local Government Code;
+
+8\. Take custody of the local archives and where applicable, the local library and annually account for the same; and
+
+9\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 23
+
+_The City Treasurer._ –
+
+a. The city treasurer shall be appointed by the Secretary of Finance from a list of at least three (3) ranking eligible recommendees of the city mayor, subject to civil service law, rules and regulations.
+
+b. The city treasurer shall be under the administrative supervision of the city mayor, to whom he shall report regularly on the tax collection efforts of the City.
+
+c. No person shall be appointed city treasurer unless he is a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in commerce, public administration or law from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in treasury or accounting service for at least five (5) years.
+
+d. The city treasurer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+e. The city treasurer shall take charge of the treasury office, and shall:
+
+1\. Advise the city mayor, the Sangguniang Panlungsod, and other local government and national officials concerned regarding disposition of local government funds and on such other matters relative to public finance;
+
+2\. Take custody and exercise proper management of the funds of the City;
+
+3\. Take charge of the disbursement of all funds of the City and such other funds the custody of which may be entrusted to him by law or other competent authority;
+
+4\. Inspect private commercial and industrial establishments within the jurisdiction of the City in relation to the implementation of tax ordinances, pursuant to the provisions of the Local Government Code;
+
+5\. Maintain and update the tax information system of the City; and
+
+6\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 24
+
+_The Assistant City Treasurer._ –
+
+a. The assistant city treasurer may be appointed by the Secretary of Finance from a list of at least three (3) ranking eligible recommendees of the city mayor, subject to Civil Service Law, rules and regulations.
+
+b. No person shall be appointed assistant city treasurer unless he is a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in commerce, public administration or law from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired at least five (5) years experience in treasury or accounting immediately preceding the day of his appointment.
+
+c. The assistant city treasurer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+d. The assistant city treasurer shall assist the city treasurer and perform such other duties as the latter may assign to him. He shall have authority to administer oaths concerning notices and notifications to those delinquent in the payment of the real property tax and concerning official matters relating to the accounts of the city treasurer or otherwise arising from the offices of the city treasurer and the city assessor.
+
+### Section 25
+
+_The City Assessor._ – (a) The city assessor must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce, or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in real property assessment work or in any related field for at least five (5) years immediately preceding the day of his appointment.
+
+a. The city assessor shall receive such compensation, emoluments and allowances as may be determined by law.
+
+b. The city assessor shall take charge of the City Assessor's Office and shall:
+
+1\. Ensure that all laws and policies governing the appraisal and assessment of real properties for taxation purpose are properly executed;
+
+2\. Initiate, review, and recommend changes in policies and objectives, plans and programs, techniques, procedures and practices in the valuation and assessment of real properties for taxation purpose;
+
+3\. Establish a systematic method of real property assessment;
+
+4\. Install and maintain a real property identification and accounting system;
+
+5\. Prepare, install and maintain a system of tax mapping, showing graphically all property subject to assessment and gather all data concerning the same;
+
+6\. Conduct frequent physical surveys to verify and determine whether all real properties within the City are properly listed in the assessment rolls;
+
+7\. Exercise the functions of appraisal and assessment primarily for taxation purposes of all real properties in the City;
+
+8\. Prepare a schedule of the fair market values of the different classes of real properties in accordance with the provisions of the Local Government Code;
+
+9\. Issue, upon request of any interested party, certified copies of assessment records of real property and all other records relative to its assessment, upon payment of a service charge or fee to the city treasurer;
+
+10\. Submit every semester a report of all assessments as well as cancellations and modifications of assessments, to the city mayor and Sangguniang Panlungsod; and
+
+11\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 26
+
+_The Assistant City Assessor._ –
+
+a. The assistant city assessor must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce, or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in assessment or in any related field for at least three (3) years immediately preceding the day of his appointment.
+
+b. The assistant city assessor shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The assistant city assessor shall assist the city assessor and perform such other duties as the latter may assign to him. He shall have the authority to administer oaths on all declarations of real property for purposes of assessment.
+
+### Section 27
+
+_The City Accountant._ –
+
+a. The city accountant must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least (5) years immediately preceding the day of his appointment.
+
+b. The city accountant shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city accountant shall take charge of both the Office on Accounting and Internal Audit Services and shall:
+
+1\. Install and maintain an internal audit system in the City;
+
+2\. Prepare and submit financial statements to the city mayor, and to the Sangguniang Panlungsod;
+
+3\. Apprise the Sangguniang Panlungsod and other officials on the financial condition and operations of the City;
+
+4\. Certify to the availability of budgetary allotment to which expenditures and obligations may be properly charged;
+
+5\. Review supporting documents before preparation of vouchers to determine completeness of requirements;
+
+6\. Prepare statements of cash advances, liquidation, salaries, allowances, reimbursements and remittances pertaining to the City;
+
+7\. Prepare statements of journal vouchers and liquidation of the same, and other adjustments related thereto;
+
+8\. Post individual disbursements to the subsidiary ledger and index cards;
+
+9\. Maintain individual ledgers for officials and employees of the City pertaining to payrolls and deductions;
+
+10\. Record and post in index cards details of purchased furniture, fixtures, and equipment, including disposal thereof, if any;
+
+11\. Account for all issued requests for obligations and maintain and keep all records and reports related thereto;
+
+12\. Prepare journals and the analysis of obligations and maintain and keep all records and reports related thereto; and
+
+13\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 28
+
+_The City Budget Officer._ –
+
+a. The city budget officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in accounting, economics, public administration, or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in government budgeting or in any related field for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city budget officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city budget officer shall take charge of the City Budget Office and shall:
+
+1\. Prepare forms, orders, and circulars embodying instructions on budgetary and appropriations matters for the signature of the city mayor;
+
+2\. Review and consolidate the budget proposals of different departments and offices of the City;
+
+3\. Assist the City Mayor, in the preparation of the budget and during hearings;
+
+4\. Study and evaluate budgetary implications of proposed legislation and submit comments and recommendations thereon;
+
+5\. Submit periodic budgetary reports to the Department of Budget and Management;
+
+6\. Coordinate with the city treasurer, the city accountant and the city planning and development coordinator for the purpose of budgeting;
+
+7\. Assist the Sangguniang Panlungsod in reviewing the approved budgets of component barangays of the City;
+
+8\. Coordinate with the city planning and development coordinator in the formulation of the development plan of the City; and
+
+9\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 29
+
+_The City Planning and Development Coordinator._ –
+
+a. The city planning and development coordinator must be a citizen of the Philippines, a resident of City of Las Piñas, of good moral character, a holder of a college degree preferably in urban planning, development studies, economics, public administration, or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in development planning or in any related field for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city planning and development coordinator shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city planning and development coordinator shall take charge of the City Planning and Development Office and shall:
+
+1\. Formulate integrated economic, social, physical, and other development plans and policies for consideration of the City;
+
+2\. Conduct continuing studies, researches, and training programs necessary to evolve plans and programs for implementation;
+
+3\. Integrate and coordinate all sectoral plans and studies undertaken by the different functional groups or agencies;
+
+4\. Monitor and evaluate the implementation of the different development programs, projects, and activities in the City in accordance with the approved development plan;
+
+5\. Prepare comprehensive plans and other development planning documents for the consideration of the local development council;
+
+6\. Analyze the income and expenditure patterns, and formulate and recommend fiscal plans and policies for consideration of the finance committee of the Sangguniang Panlungsod;
+
+7\. Promote people participation in development planning within the City; and
+
+8\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 30
+
+_The City Engineer._ –
+
+a. The city engineer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a licensed civil engineer. He must have acquired experience in the practice of his profession for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city engineer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city engineer shall take charge of the City Engineering Office and shall:
+
+1\. Initiate, review and recommend changes in policies and objectives, plans and programs, techniques, procedures and practices in infrastructure development and public works projects of the City;
+
+2\. Advise the city mayor on infrastructure, public works, and other engineering matters;
+
+3\. Administer, coordinate, supervise, and control the construction, maintenance, improvement, and the repair of roads, bridges, and other engineering and public works projects of the City;
+
+4\. Provide engineering services to the City, including investigation and survey, engineering designs, feasibility studies, and project management; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 31
+
+_The City Health Officer._ –
+
+a. The city health officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral and character, a licensed medical practitioner. He must have acquired experience in the practice of his profession for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city health officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city health officer shall take charge of the Office of the City Health Services and shall:
+
+1\. Supervise the personnel and staff of said office, formulate program implementation guidelines and rules and regulations for the operation of the said office for the approval of the city mayor, in order to assist him in the efficient, effective and economical implementation of a health services program geared towards the implementation of health-related projects and activities;
+
+2\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out activities to ensure the delivery of basic services and provision of adequate facilities relative to health services;
+
+3\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning health programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+4\. Be in the front line of the delivery of health services, particularly during and in the aftermath of man-made and natural disasters and calamities; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 32
+
+_The City Civil Registrar._ –
+
+a. The city civil registrar must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in civil registry work for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city civil registrar shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city civil registrar shall be responsible for the civil registration program in the City of Las Piñas, pursuant to the Civil Registry Law, the Civil Code, and other pertinent laws, rules and regulations issued to implement them.
+
+d. The city civil registrar shall take charge of the office of the City Civil Registry and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning civil registry programs and projects which the Sangguniang Panlungsod is empowered to provide; and
+
+2\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 33
+
+_The City Administrator._ –
+
+a. The city administrator must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, holding a college degree preferably in public administration, law, or any related course from a recognized college, university, and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administration work for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city administrator shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city administrator shall take charge of the Office of the City Administrator and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with the management and administration-related programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Be in the front line of the delivery of administrative support services, particularly those related to the situation during and in the aftermath of man-made and natural disasters and calamities;
+
+3\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters relative to the management and administration of the City; and
+
+4\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 34
+
+_The City Legal Officer._ –
+
+a. The city legal officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a member of the Philippine Bar. He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city legal officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city legal officer, the chief legal counsel of the City, shall take charge of the Office for Legal Services and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide legal assistance and support to the city mayor in carrying out the delivery of basic services and the provision of adequate facilities;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning programs and projects related to legal services which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Recommend measures to the Sangguniang Panlungsod and advise the city mayor on all matters related to upholding the rule of law;
+
+4\. Be in the front line of protecting human rights and prosecuting any violation thereof, particularly those which occur during and in the aftermath of man-made or natural disasters and calamities; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 35
+
+_The City Social Welfare and Development Officer._ –
+
+a. The city social welfare and development officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a duly licensed social worker or a college degree holder preferably in sociology, or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city social welfare and development officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city social welfare and development officer shall take charge of the Office on Social Welfare and Development and shall:
+
+1\. Formulate measures for the approval of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out measures to ensure the delivery of basic services and provision of adequate facilities relative to social welfare and development services;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning social welfare programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Be in the front line of service delivery, particularly those concerning immediate relief and assistance during and in the aftermath of man-made and natural disasters and natural calamities;
+
+4\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all other matters relative to social welfare and development services which will improve the livelihood and living conditions of the inhabitants; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 36
+
+_The City Architect._ –
+
+a. The city architect must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a duly licensed architect. He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city architect shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city architect shall take charge of the Office of Architectural Planning and Design and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out measures to ensure the delivery of basic services and provision of adequate facilities relative to architectural planning and design;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning architectural planning and design of programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Be in the front line of delivery of services involving architectural planning and design, particularly those related to the redesigning of spatial distribution of basic facilities and physical structures during and in the aftermath of man-made and natural disasters and calamities;
+
+4\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all other matters relative to this architectural planning and design as its relates to the total socioeconomic development of the City; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 37
+
+_The City Information Officer._ –
+
+a. The city information officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in journalism, mass communication or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in writing articles and research papers, or in writing for print, television or broadcast media for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city information officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city information officer shall take charge of the Media Affairs and Public Information Office and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in providing the information and research data required for the delivery of basic services and provision of adequate facilities so that the public becomes aware of said services and may fully avail of the same;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning public information and research data to support programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Be in the front line in providing information during and in the aftermath of man-made and natural disasters and calamities, with special attention to the victims thereof, to help minimize injuries and casualties during and after the emergency, and to accelerate relief and rehabilitation;
+
+4\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters relative to public information and research data as they relate to the total socioeconomic development of the City; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 38
+
+_The City Environment Officer._ –
+
+a. The city environment officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environmental management, conservation, and utilization work for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city environment officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city environment officer shall take charge of the Office on the Environment and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out measures to ensure the delivery of basic services and provision of adequate facilities relative to environment services;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning environment programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Be in the front line of the delivery of services concerning the environment, particularly in the renewal and rehabilitation of the environment during and in the aftermath of man-made natural disasters and calamities;
+
+4\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters relative to the protection, conservation, maximum utilization, application of appropriate technology and other matters related to the environment; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 39
+
+_The City Cooperatives Officer._ –
+
+a. The city cooperatives officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree preferably in business administration with special training in cooperatives or any course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in cooperatives organization and management for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city cooperatives officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city cooperatives officer shall take charge of the Office for the Development of Cooperatives and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out measures to ensure the delivery of basic services and provision of facilities through the development of cooperatives, and in providing access to such services and facilities;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning the integration of cooperative principles and methods in programs and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Be in the front line of cooperatives organization, rehabilitation or viability-enhancement, particularly during and in the aftermath of man-made and natural calamities and disasters, to aid in their survival and, if necessary, subsequent rehabilitation;
+
+4\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all other matters relative to cooperatives development and viability-enhancement which will improve the livelihood and quality of life of the inhabitants; and
+
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 40
+
+_The City General Services Officer._ –
+
+a. The city general services officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree in public administration, business administration and management from a recognized college or university and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal, and general sanitation for at least five (5) years immediately preceding the date of his appointment.
+
+b. The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city general services officer shall take charge of the Office of General Services and shall:
+
+1\. Formulate measures for the consideration of the Sangguniang Panlungsod and provide technical assistance and support to the city mayor in carrying out measures to ensure the delivery of basic services and provision of adequate facilities which require general services expertise and technical support services;
+
+2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning general services supportive of the welfare of the inhabitants of the City which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+3\. Take custody of and be accountable for all properties, real or personal, owned by the City, and those granted to it in the form of donation, reparation, assistance and counterpart of joint projects;
+
+4\. Be in the front line of general services-related activities, such as the possible or imminent destruction or damage to records, supplies, properties, and structure materials or debris, particularly during and in the aftermath of man-made and natural disasters and calamities;
+
+5\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all other matters relative to general services; and
+
+6\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 41
+
+_The City Tourism and Cultural Affairs Officer._ –
+
+a. The city tourism and cultural affairs officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree and a first grade civil service eligible or its equivalent. He must have acquired experience in tourism and cultural affairs work for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city tourism and cultural affairs officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city tourism and cultural affairs officer shall take charge of the Office of Tourism and Cultural Affairs and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with the tourism and cultural affairs development and management and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Be in the front line in the determination of repair and reconstruction work related to tourism and cultural affairs, particularly during and in the aftermath of man-made and natural disasters and calamities;
+
+3\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters relative to the tourism and cultural affairs in the City; and
+
+4\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+### Section 42
+
+_The City Land Transportation Officer._ –
+
+a. The city land transportation officer must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree and a first grade civil service eligible or its equivalent. He must have acquired experience in land transportation work for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city land transportation officer shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city land transportation officer shall be under the direct supervision of the Land Transportation Office of the Department of Transportation and Communications, shall take charge of the City Land Transportation Office and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with the land transportation regulation, development and management, and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters related to land transportation in the City; and
+
+3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law, ordinance, or Department of Transportation and Communications and Land Transportation Office rules and regulations.
+
+### Section 43
+
+_The City Prosecutor._ –
+
+a. The city prosecutor must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a member of the Philippine Bar. He must have acquired experience in handling criminal cases in court for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city prosecutor shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city prosecutor shall be under the direct supervision of the Department of Justice, shall take charge of the Office of the City Prosecutor and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with the prosecution of criminals and crime syndicates, and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters related to the prosecution of criminals and crime syndicates in the City; and
+
+3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law, ordinance or relevant Department of Justice rules and regulations.
+
+### Section 44
+
+_The City Schools Division Superintendent._ –
+
+a. The city schools division superintendent must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience practicing his profession in an educational institution for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city schools division superintendent shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city schools division superintendent shall be under the direct supervision of the Department of Education, Culture and Sports, shall take charge of the Office of the City Schools Division Superintendent and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with education development and management programs, and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters related to education in the City;
+
+3\. Be in the front line in the supervision of principals and teachers assigned in the City, as well as sit as additional member of the local school board of the City; and
+
+4\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law, ordinance or relevant Department of Education, Culture and Sports rules and regulations.
+
+### Section 45
+
+_The City Fire Marshal._ –
+
+a. The city fire marshal must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, and a qualified fire marshal under Republic Act No. 6975, otherwise known as the PNP Law.
+
+b. The city fire marshal shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city fire marshal shall be under the direct supervision of the Department of the Interior and Local Government, shall take charge of the City Fire Station and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with fire prevention, control and management, and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters related to fire services in the City;
+
+3\. Be in the front line in the development of measures for fire protection, prevention and suppression, rescue and evacuation, and other services intended for the safety and security of life and property in the City; and
+
+4\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 6975, otherwise known as the PNP Law, Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law, ordinance or relevant Department of the Interior and Local Government's rules and regulations.
+
+### Section 46
+
+_The City Jail Warden._ –
+
+a. The city jail warden must be a citizen of the Philippines, a resident of the City of Las Piñas, of good moral character, a holder of a college degree in psychology, psychiatry, sociology, social work or criminology from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience practicing his profession for at least three (3) years immediately preceding the date of his appointment.
+
+b. The city jail warden shall receive such compensation, emoluments and allowances as may be determined by law.
+
+c. The city jail warden shall be under the direct supervision of the Department of the Interior and Local Government, shall take charge of the City Jail and shall:
+
+1\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with custody and safekeeping of inmates, jail administration and management, and other programs that are helpful in the reformation of inmates, and projects which the city mayor is empowered to implement and which the Sangguniang Panlungsod is empowered to provide;
+
+2\. Recommend to the Sangguniang Panlungsod and advise the city mayor on all matters related to jail services in the City;
+
+3\. Be in the front line in the development of measures for a more efficient and effective city jail system; and
+
+4\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 6975, otherwise known as the PNP Law, Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law, ordinance or relevant Department of the Interior and Local Government's rules and regulations.
+
+## ARTICLE VIII — TRANSITORY AND FINAL PROVISIONS
+
+### Section 47
+
+_Municipal Ordinances._ – All municipal ordinances of the Municipality of Las Piñas existing at the time of the approval of this Act shall continue to be in force within the City of Las Piñas until the Sangguniang Panlungsod shall, by ordinance, provide otherwise.
+
+### Section 48
+
+_Plebiscite._ – The City of Las Piñas shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by the qualified voters in a plebiscite to be conducted in the present Municipality of Las Piñas within sixty (60) days from the approval of this Act. The expenses for such plebiscite shall be borne by the Municipality of Las Piñas. The Commission on Elections shall conduct and supervise such plebiscite.
+
+### Section 49
+
+_Officials of the City of Las Piñas._ – The present elective officials of the City shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the City shall likewise continue exercising their functions and duties and they shall automatically be absorbed by the city government of the City of Las Piñas.
+
+### Section 50
+
+_Jurisdiction of Metropolitan Manila._ – The City of Las Piñas shall, unless otherwise provided by law, continue to be under the jurisdiction of Metropolitan Manila.
+
+### Section 51
+
+_Legislative District._ – As a highly-urbanized city, the City of Las Piñas shall have its own legislative district with the first representative to be elected in the next national election after the passage of this Act.
+
+### Section 52
+
+_Tax Moratorium._ – Upon the effectivity of this Act, the City of Las Piñas shall maintain a tax moratorium for five (5) years, wherein no increase in the rates of taxes shall be imposed. Furthermore, it shall abide by the provisions of Republic Act Numbered 7160, otherwise known as the Local Government Code of 1991, which limit the authority of local government units in adjusting tax rates which shall not be oftener than once every five (5) years, but in no case shall such adjustment exceed ten percent (10%) of the rates fixed under the said Code.
+
+### Section 53
+
+_Moratorium on Gambling Sites._ – Upon the effectivity of this Act, the City of Las Piñas shall also maintain a moratorium on the establishment of gambling sites for five (5) years, wherein no new gambling site, place or venue for cockfighting, lotto, or any other form of gambling or games of chance, shall be allowed to be built or established within the City.
+
+### Section 54
+
+_Applicability of Laws._ – The provisions of Republic Act Numbered 7160, otherwise known as the Local Government Code of 1991, Presidential Decree Numbered Eight hundred and twenty-four, and other laws pertaining to Metropolitan Manila and such laws as are applicable to highly-urbanized cities shall govern the City of Las Piñas in so far as they are not inconsistent with the provisions of this Act.
+
+### Section 55
+
+_Separability Clause._ – If any part or section of this Act is declared unconstitutional for any reason whatsoever, such declaration shall not in any way affect the other parts or sections of this Act.
+
+### Section 56
+
+_Effectivity._ – This Act shall take effect fifteen (15) days from its publication in the Official Gazette or in at least two (2) newspapers of national circulation.
+
+Approved, February 12, 1997.

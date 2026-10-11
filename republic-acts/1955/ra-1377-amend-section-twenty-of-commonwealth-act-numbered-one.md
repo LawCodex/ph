@@ -1,0 +1,36 @@
+---
+title: "Republic Act No. 1377 — An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Act Numbered Six Hundred Sixty, Entitled “An Act to Create and Establish a ‘Government Service Insurance System’ to Provide for its Administration and to Appropriate the Necessary Funds Therefor”"
+identifier: "Republic Act No. 1377"
+number: "1377"
+type: act
+jurisdiction: ph
+language: en
+date: 1955-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1955/ra_1377_1955.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1377
+
+**An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Act Numbered Six Hundred Sixty, Entitled “An Act to Create and Establish a ‘Government Service Insurance System’ to Provide for its Administration and to Appropriate the Necessary Funds Therefor”**
+
+**REPUBLIC ACT No. 1377**
+
+**An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Act Numbered Six Hundred Sixty, Entitled "An Act to Create and Establish a ‘Government Service Insurance System’ to Provide for its Administration and to Appropriate the Necessary Funds Therefor"**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section twenty of Commonwealth Act Numbered One hundred eighty-six, as amended by Republic Act Numbered Six hundred sixty, is hereby amended to read as follows:
+
+"Sec. 20. _Auditing and legal service._ — The Auditor General and the Secretary of Justice shall be the ex-officio Auditor and Legal Adviser of the System, respectively. The Auditor General, or his authorized representative, shall submit to the Board soon after the close of each fiscal year audited statements showing the financial condition and progress of the System for the fiscal year just closed, and the Actuary shall make, as of the end of each fiscal year, an actuarial examination and valuation of the System: _Provided,_ _However_ , That the Insurance Commissioner or his authorized representatives shall make an examination into the financial condition and methods of transacting business of the system at least once in two years and the report of said examination shall be submitted to the board and copies thereof be furnished the Congress and the Office of the President of the Philippines within a reasonable time after the close of the examination: And _Provided, finally,_ That for each examination the system shall apply to the Office of the Insurance Commissioner an amount equal to the actual expenses of said office in the conduct of the examination, including the salaries of the examiners and of the actuary of said office who have been assigned to make such examination for the actual time spent in said examination."
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1955.

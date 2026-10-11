@@ -1,0 +1,42 @@
+---
+title: "Republic Act No. 5006 — An Act Creating the Municipality of Badiangan in the Province of Iloilo"
+identifier: "Republic Act No. 5006"
+number: "5006"
+type: act
+jurisdiction: ph
+language: en
+date: 1967-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1967/ra_5006_1967.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1967/pdf/ra_5006_1967.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5006
+
+**An Act Creating the Municipality of Badiangan in the Province of Iloilo**
+
+**REPUBLIC ACT No. 5006**
+
+An Act Creating the Municipality of Badiangan in the Province of Iloilo
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Barrios Badiangan, Agusipan, Astorga, Bingauan, Bitaoyan, Botong, Budiaue, Cabanga-an, Cabayoyan, Calanzanan, Catubig, Guinauahan, Ilongbukid, Indorahan, Iniligan, Latauan, Linayuan, Mainguit, Malublub, Manaolan, Mapili Grande, Mapili Sangjo, Odiongan, San Julian, Sari-ri, Sianon, Sinwagan, Talaba, Tamacol, Teneclan and Tina in the Municipality of Janiuay, Province of Iloilo, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Badiangan.
+
+The seat of government of the new municipality shall be in Barrio Badiangan. The Municipality of Badiangan shall have the following boundaries;
+
+"The boundary lines between the Municipality of Janiuay and the Municipality of Badiangan starts from the northern portion of the municipality from Municipal Boundary Monument (MBM) No. 33 of Lambunao and Janiuay to Barrio Boundary Monument (BBM) No. 104 of the barrio of Sarawag and Mapili Grande; then to BBM No. 102 of the barrio of Sarawag-Patongpatong and Mapili Grande-Botong; then to BBM No. 96 of the barrio of Patongpatong-Madong and Botong; then to BBM No. 75 of the barrio of Madong and Botong-Calanzanan; then to BBM No. 76 of the barrio of Madong and Calanzanan; then to BBM No. 78 along the Magapa River to BBM No. 79 of the barrio of Matag-ob-Gibolo and Calanzanan; then to BBM No. 60 of the barrio of Gibolo and Calanzalan-Sianon; then to BBM No. 59 of the barrio of Gibolo-Damires and Sianon; then to BBM No. 48 of the barrio of Damires and Sianon-Iniligan; then to BBM No. 50 of the barrio Damires and Iniligan-Teneclan; then to BBM No. 51 of the barrio of Damires and Teneclan-Catubig; then to BBM No. 52 of the barrio of Damires-Tinioan and Catubig; then to BBM No. 16 of the barrio Tinioan and Catubig; then to BBM No. 15 of the barrio of Tinioan-Cabantog and Catubig; then to BBM No. 14 of the barrio Cabantog-Caranas and Catubig Bitaoyan; then to BBM No. 17 of the barrio Bitaoyan and Caranas and along the municipal boundary of Janiuay and Pototan from MBM No. 3 to MBM No. 2 of the Janiuay Cadastre No. 226."
+
+## Section 2
+
+The Municipality of Badiangan shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.1avvphi1
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Approved: June 17, 1967.

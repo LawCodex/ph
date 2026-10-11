@@ -1,0 +1,33 @@
+---
+title: "Republic Act No. 2546 — An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School"
+identifier: "Republic Act No. 2546"
+number: "2546"
+type: act
+jurisdiction: ph
+language: en
+date: 1959-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1959/ra_2546_1959.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2546
+
+**An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School**
+
+**REPUBLIC ACT No. 2546**
+
+**An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is changed to Tiburcio Betita Memorial School.1âшphi1
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 21, 1959.

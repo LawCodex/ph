@@ -1,0 +1,49 @@
+---
+title: "Republic Act No. 5662 — An Act Creating the Municipality of San Isidro in the Province of Bohol"
+identifier: "Republic Act No. 5662"
+number: "5662"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5662_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5662
+
+**An Act Creating the Municipality of San Isidro in the Province of Bohol**
+
+[ REPUBLIC ACT NO. 5662, June 21, 1969 ]
+
+AN ACT CREATING THE MUNICIPALITY OF SAN ISIDRO IN THE PROVINCE OF BOHOL
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Barrios Caimbang, Cansagus, Causwagan Sur and San Isidro in the Municipality of Catigbian, Province of Bohol; Barrios Abihilan, Banunos, Cambansag and Cansague in the Municipality of Antequera, same province; Barrios Masonoy and Candungao in the Municipality of Calape, same province; and Barrio Cabanugan in the Municipality of Tubigon, same province, are hereby separated from said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of San Isidro.
+
+## Section 2
+
+The seat of government of the new municipality shall be the present site of Barrio San Isidro mentioned in the preceding section.
+
+## Section 3
+
+The first mayor, vice-mayor and councilors of the new municipality shall be elected at the next general elections, to hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified. The Municipality of San Isidro shall.begin to exist upon the election and qualification of the newly elected municipal officials.
+
+## Section 4
+
+Until otherwise provided by law, the new Municipality of San Isidro shall be considered a part of the second congressional district of the Province of Bohol.1a⍵⍴h!1
+
+## Section 5
+
+To provide the new Municipality of San Isidro with buildings to house the offices of its elective and appointive municipal officials, the Office of the President shall allocate and cause to be delivered, and erected or assembled at least nine units of the "Marcos-type" of prefabricated school buildings. The President may, however, in Ms discretion give from any available fund at his disposal the amount of one hundred thousand pesos instead of the prefabricated buildings herein provided.
+
+## Section 6
+
+This Act shall take effect upon its approval.
+
+Approved, June 21, 1969.

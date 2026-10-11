@@ -1,0 +1,71 @@
+---
+title: "Republic Act No. 2670 — An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws"
+identifier: "Republic Act No. 2670"
+number: "2670"
+type: act
+jurisdiction: ph
+language: en
+date: 1960-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1960/ra_2670_1960.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2670
+
+**An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws**
+
+**REPUBLIC ACT No. 2670**
+
+AN ACT TO AMEND SECTIONS FIVE, TEN AND ELEVEN OF REPUBLIC ACT NUMBERED SEVEN HUNDRED TWENTY, OTHERWISE KNOWN AS THE RURAL BANKS' ACT AND OTHER PERTINENT LAWS.
+
+## Section 1
+
+Section Five of Republic Act Numbered Seven hundred twenty, otherwise known as the Rural Banks' Act, is hereby amended to read as follows:
+
+"Sec. 5. Loans or advances extended by Rural Banks, organized and operated under this Act, shall be primarily for the purpose of meeting the normal credit needs of any small farmer or farm family owning or cultivating, in the aggregate, not more than fifty hectares of land dedicated to agricultural production, as well as the normal credit needs of cooperatives and small merchants. For the purposes of this Act, a small merchant shall be one whose capital investment does not exceed twenty-five thousand pesos. In the granting of loans, the Rural Bank shall give preference to the application of farmers whose cash requirements are small.
+
+Loans may be granted by rural banks on the security of lands without torrens titles where the owner of private property can show five years or more of peaceful, continuous and uninterrupted possession in the concept of an owner or of homesteads or free patent lands pending the issuance of titles but already approved, the provisions of any law or regulations to the contrary notwithstanding: _Provided_ , That when the corresponding titles are issued the same shall be delivered to the register of deeds of the province where such lands are situated for the annotation of the encumbrance: _Provided_ ,_further_ , That in the case of lands pending homestead or free patent titles, copies of notices for the presentation of the final proof shall also be furnished the creditor rural bank and, if the borrower applicants fail to present the final proof within thirty (30) days from date of notice, the creditor rural bank may do so for them at their expense: And provided, finally, That the applicant for homestead or free patent has already made improvements on the land and the loan applied for is to be used for further development of the same or for other productive economic activities.
+
+The foreclosure of mortgages covering loans granted by rural banks shall be exempt from the publication in newspapers now required by law where the total amount of the loan, including interests due and unpaid, does not exceed two thousand pesos (P2,000.00). It shall be sufficient publication in such cases if the notices of foreclosure are posted in at least three of the most conspicuous public places in the municipality where the land mortgaged is situated during the period of sixty days immediately preceding the public auction. Proof of publication as required herein shall be accomplished by affidavit of the sheriff or officer conducting the foreclosure sale and shall be attached with the records of the case: _Provided_ , That when a land not covered by a Torrens Title, a homestead or free patent land is foreclosed, the homesteader or free patent holder, as well as their heirs shall have the right to redeem the same within two years from the date of foreclosure: _Provided_ ,_finally_ , That in case of borrowers who are mere tenants the produce corresponding to their share could be accepted as security."
+
+## Section 2
+
+Section Ten of Republic Act Numbered Seven hundred twenty, otherwise known as the Rural Banks' Act is hereby amended to read as follows:
+
+"Sec. 10. The power to supervise the operation of any Rural Bank by the Monetary Board of the Central Bank as herein indicated, shall consist in placing limits to the maximum credit allowed any individual borrower; in prescribing the interest rate; in determining the loan period and loan procedures; in indicating the manner in which technical assistance shall be extended to Rural Banks; in imposing a uniform accounting system and manner of keeping the accounts and records of the Rural Banks; in undertaking regular credit examination of the Rural Banks; in instituting periodic surveys of loan and lending procedures, audits, test-check of cash and other transactions of the Rural Banks; in conducting training courses for personnel of Rural Banks; and, in general, in supervising the business operation of the Rural Banks.
+
+The director of the Department of the Central Bank designated by the Monetary Board to supervise Rural Banks shall have the power to enforce the laws, orders, instructions, rules and regulations promulgated by the Monetary Board applicable to Rural Banks; to require Rural Banks, their directors, officers and agents to conduct and manage the affairs of the Rural Bank in a lawful and orderly manner; and, upon proof that the Rural Bank or its board of directors or officers are conducting and managing the affairs of the bank in a manner contrary to laws, orders, instruction, rules and regulations promulgated by the Monetary Board or in a manner substantially prejudicial to the interests of the government, depositors or creditors, to take over the management of such bank when specifically authorized to do so by the Monetary Board after due hearing until a new board of directors and officers are elected and qualified without prejudice to the prosecution of the persons responsible for such violations under the provisions of sections thirty-two, thirty-three and thirty-four of Republic Act Numbered two hundred sixty-five.
+
+The management of the Rural Bank by the Central Bank shall be without expense to the Rural Bank, except such is actually necessary for its operation, pending the election and qualification of a new board of directors and officers to take the place of those responsible for the violations or acts contrary to the interest of the government, depositors or creditors.
+
+The director and the examiners of the Department of the Central Bank charged with the supervision of Rural Banks are hereby authorized to administer oaths to any director, officer or employee of any Rural Bank or to any voluntary witness and to compel the presentation of all books, documents, papers or records necessary in his or their judgment to ascertain the facts relative to the true condition of any Rural Bank or to any loan.
+
+## Section 3
+
+Section Eleven of Republic Act Numbered Seven hundred twenty, otherwise known as the Rural Banks' Act, is hereby amended to read as follows:
+
+"Sec. 11. With the written permission of the Monetary Board of the Central Bank, any Rural Bank may:
+
+(a) accept savings and time deposits;
+
+(b) open current or checking accounts. The Monetary Board shall determine when a Rural Bank may be authorized to open current or checking accounts;
+
+(c) act as a correspondent for other financial institutions;
+
+(d) act as a collection agent;
+
+(e) to act as trustee over estates or properties of small farmers and small merchants as these terms are defined in section five of the Rural Banks' Act; and
+
+(f) rediscount paper with the Philippine National Bank or Development Bank of the Philippines, or other banks and their branches and agencies. The Central Bank shall specify the nature of paper deemed acceptable for rediscount, as well as the rediscount rate to be charged by any of these institutions.
+
+## Section 4
+
+All Acts or parts of Acts inconsistent with this law shall be deemed repealed or modified accordingly.
+
+## Section 5
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1960

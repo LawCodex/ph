@@ -1,0 +1,56 @@
+---
+title: "Republic Act No. 4398 — An Act Granting Dr. Precioso B. Villareal a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Surigao, Province of Surigao del Norte"
+identifier: "Republic Act No. 4398"
+number: "4398"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4398_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4398_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4398
+
+**An Act Granting Dr. Precioso B. Villareal a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Surigao, Province of Surigao del Norte**
+
+**REPUBLIC ACT No. 4398**
+
+An Act Granting Dr. Precioso B. Villareal a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Surigao, Province of Surigao del Norte
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the conditions imposed by this Act, there is hereby granted to Dr. Precioso B. Villareal, herein referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Surigao, Province of Surigao del Norte for the purpose of manufacturing and distributing ice and supplying cold storage within the Province of Surigao del Norte and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.
+
+## Section 2
+
+Said grantee shall manufacture and supply ice up to the limit of the capacity of his plant, said limit to be determined by the Public Service Commission.
+
+## Section 3
+
+All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee shall, whenever the Public Service Commission shall determine that public interest reasonably requires it, change or alter any of his apparatus and appurtenances at grantee’s expense.
+
+## Section 4
+
+This franchise shall continue for a period of twenty-five years from the date said plant shall be placed in operation and/or shall commence the manufacture and distribution of ice and the supply of cold storage in the Province of Surigao del Norte and is subject to the express condition that the same shall be null and void unless the construction of said plant be begun within one year from the date of approval of this Act and completed within two years from the said date, except when prevented by an act of God, or force majeure, martial law, riot, civil commotion, usufruct by military power or any other cause beyond the grantee’s control.
+
+## Section 5
+
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.
+
+It shall be the duty of the grantee to submit to the Provincial Treasurer a quarterly report in duplicate, showing the gross receipts for the quarter past, one of which shall be forwarded by the Provincial Treasurer to the Auditor General, who shall keep the same on file.
+
+## Section 6
+
+In the event of any competing individual, association of persons or corporation receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons or corporation.
+
+## Section 7
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

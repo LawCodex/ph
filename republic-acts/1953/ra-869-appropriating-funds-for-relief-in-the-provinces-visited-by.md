@@ -1,0 +1,97 @@
+---
+title: "Republic Act No. 869 — An Act Appropriating Funds for Relief in the Provinces Visited By Typhoons, Floods, Droughts, Earthquakes and Volcanic Action During the Calendar Years Nineteen Hundred and Fifty-one and Nineteen Hundred and Fifty-two, and for Other Purposes"
+identifier: "Republic Act No. 869"
+number: "869"
+type: act
+jurisdiction: ph
+language: en
+date: 1953-06-16
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1953/ra_869_1953.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 869
+
+**An Act Appropriating Funds for Relief in the Provinces Visited By Typhoons, Floods, Droughts, Earthquakes and Volcanic Action During the Calendar Years Nineteen Hundred and Fifty-one and Nineteen Hundred and Fifty-two, and for Other Purposes**
+
+[ REPUBLIC ACT NO. 869, June 16, 1953 ]
+
+AN ACT APPROPRIATING FUNDS FOR RELIEF IN THE PROVINCES VISITED BY TYPHOONS, FLOODS, DROUGHTS, EARTHQUAKES AND VOLCANIC ACTION DURING THE CALENDAR YEARS NINETEEN HUNDRED AND FIFTY-ONE AND NINETEEN HUNDRED AND FIFTY-TWO, AND FOR OTHER PURPOSES.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+The following sums, or so much thereof as may be necessary, are appropriated out of any funds in the Philippine Treasury not otherwise appropriated, to be expended for assistance to the victims of, and for the rehabilitation or replacement of services or installations damaged by, typhoons, floods, droughts, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two, including the purchase of supplies and materials necessary to increase food production in the areas affected:
+
+A. SOCIAL WELFARE
+
+| 1. For the purchase of building materials, food supplies, clothing and other relief goods, including the expenses for the procurement and distribution of the same: Provided, That no part of this amount shall be used for salaries and wages | P2,000,000.00 |
+|---|---|
+| 2. For aid to the Philippine National Red Cross including the acquisition of blood Plasma | 375,000.00 |
+| Total for Social Welfare | P2,375,000.00 |
+
+B. FINANCE
+
+| 1. For aid to provinces, chartered cities and municipalities whose revenue collections have been greatly reduced due to havoc and destruction wrought by typhoons, floods, droughts, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty- two | P1,500,000.00 |
+|---|---|
+
+C. AGRICULTURE AND NATURAL RESOURCES
+
+| 1. For the purchase of seeds and other planting materials, as well as the cost of their propagation and distribution necessitated by the occurrence of typhoons, floods, droughts, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two: Provided, That no part of this amount shall be used for salaries and wages | | P750,000.00 |
+|---|---|---|
+
+D. PUBLIC WORKS AND COMMUNICATIONS
+
+| 1. For the replacement of scales, mail boxes, galvanized iron boxes, steel safes, distributing cases, post-office boxes, rotary locks, bag racks and other damaged post-office equipment | P5,650.00 |
+|---|---|
+| 2. For the erection of, and stringing wires on, blown-down or damaged poles | 50,350.00 |
+| Total for Public Works and Communications | P56,000.00 |
+
+E. HEALTH
+
+<table>
+<tr>
+<td>1. For the purchase of medicines and medical supplies, including first aid equipment, to replace damaged ones, and to provide adequate facilities for those who suffered injuries or contracted illness</td>
+<td>P40,000.00</td>
+</tr>
+<tr>
+<td>2. For aid for the operation and maintenance of hospitals in various provinces, cities and municipalities in areas stricken by typhoons, floods, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two where local funds are insufficient, including emergency hospitals, maternity and children hospitals, puericulture centers, charity clinics and public dispensaries</td>
+<td>2,000,000 00</td>
+</tr>
+<tr>
+<td>3. For the purchase of hospital supplies and materials to replace those damaged or destroyed by typhoons, floods, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two</td>
+<td>150,000.00</td>
+</tr>
+<tr>
+<td>Total for Health</td>
+<td>P2,190,000.00</td>
+<td><br/></td>
+</tr>
+</table>
+
+F. EDUCATION
+
+| 1. For rentals of buildings and other necessary expenses for the reopening of classes which were suspended as a consequence of typhoons, floods, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two and for reconstruction of most urgent school buildings destroyed: Provided, That out of this appropriation, an amount not exceeding two million two hundred and fifty thousand pesos shall be alloted for the calendar year nineteen hundred and fifty-one | P6,250,000.00. |
+|---|---|
+| GRAND TOTAL OF THE APPROPRIATIONS AUTHORIZED IN THIS ACT: THIRTEEN MILLLION ONE HUNDRED AND TWENTY-ONE THOUSAND PESOS | P13,121,000.00 |
+
+## Section 2
+
+Within sixty clays from the approval of this Act, the extent of the damages, as far as Items A and F above are concerned, suffered in the provinces and cities visited by typhoons, floods, droughts, earthquakes and volcanic action during the calendar years nineteen hundred and fifty-one and nineteen hundred and fifty-two shall be ascertained by a Committee to be composed of the Provincial Governor, as Chairman, and the Provincial Treasurer, Division Superintendent of Schools, District Health Officer and District Engineer, as members; and in case of funds alloted to a city, by a Committee composed of the City Mayor, as Chairman and the City Treasurer, City Superintendent of Schools, City Health Officer and City Engineer, as members who shall submit their report to the President to serve as guide in the allocation of the funds to the stricken areas in proportion to the damages suffered by each province or city.
+
+## Section 3
+
+A Committee composed of three members of the Finance Committee of the Senate and three members of the Committee on Appropriations of the House of Representatives to be appointed by the presiding officers of each House, respectively, is hereby constituted to look into the allotment and expenditures of the funds appropriated in this Act. The said Committee is authorized to function during the recess of the Congress and shall submit its reports of findings and recommendations to the Congress.
+
+## Section 4
+
+Any sum remaining unexpended on December thirty-one, nineteen hundred and fifty-four, out of the funds appropriated in this Act shall revert to the unappropriated surplus of the general fund.
+
+## Section 5
+
+This Act shall take effect as of July first, teen hundred and fifty-two.
+
+Approved, June 16, 1953.

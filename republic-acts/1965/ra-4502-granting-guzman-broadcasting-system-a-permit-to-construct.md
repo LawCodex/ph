@@ -1,0 +1,74 @@
+---
+title: "Republic Act No. 4502 — An Act Granting Guzman Broadcasting System a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in Central and Northern Luzon"
+identifier: "Republic Act No. 4502"
+number: "4502"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4502_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4502_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4502
+
+**An Act Granting Guzman Broadcasting System a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in Central and Northern Luzon**
+
+**REPUBLIC ACT No. 4502**
+
+An Act Granting Guzman Broadcasting System a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in Central and Northern Luzon
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution, Guzman Broadcasting System is hereby granted a permit which shall continue in force during the time that the Government has not established similar service at the places selected by the grantee, not exceeding twenty-five years, to construct, maintain and operate, for commercial purposes and in the public interest, radio broadcasting stations and stations for television in Central and Northern Luzon: _Provided,_ That this permit shall be void unless the construction of at least one radio broadcasting station or one television station is begun within two years from the date of approval of this Act, and is completed within four years from said date: _Provided, further,_ That the grantee shall provide adequate public service time to enable the Government, through the said radio broadcasting and television stations, to reach the population on important public issues; shall assist in the functions of public information and education; shall conform to the ethics of honest enterprise; and shall not use its stations for the broadcasting and/or telecasting of obscene or indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage, or assist in subversive or treasonable acts.
+
+## Section 2
+
+Such provisions of Act Numbered Thirty-eight hundred and forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippines Islands, and for the other purposes"; Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the television station referred to in Section one hereof.
+
+## Section 3
+
+The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Republic of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction of its radio or television stations.
+
+## Section 4
+
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee the full compliance with and fulfillment of the conditions under which this permit is granted.
+
+## Section 5
+
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, emergency, calamity, disaster or disturbance of peace or order to cause the closing of said stations or to authorize the temporary use and operation thereof by any department of the Government without compensating the grantee for the use of said stations during the period when they shall be so operated.
+
+## Section 6
+
+The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the permit, as other persons or corporations are now or hereafter may be required by law to pay.
+
+## Section 7
+
+The grantee shall further be liable to pay all other taxes as provided in the National Internal Revenue Code by reason of this permit.
+
+## Section 8
+
+In the event the Government should desire to maintain and operate for itself any or all the stations herein authorized, the grantee shall turn over such station or stations to the Government with all the serviceable equipment therein, at cost, less reasonable depreciation.
+
+## Section 9
+
+The grantee shall not require any previous censorship of any speech, play, act or scene or other matter to be broadcast and/or telecast from its stations; but if any such speech, play, act or scene or other matter should constitute a violation of the law or infringement of private rights, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene or other matter: _Provided,_ That the grantee, during any broadcast and/or telecast, may cut off from the air the speech, play, act or scene or other matter being broadcast and/or telecast, if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral.
+
+## Section 10
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this permit nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this permit is sold, transferred or assigned, shall be subject to all the conditions, terms, restrictions and limitations of this permit as fully and completely and to the same extent as if the permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+## Section 11
+
+The permit granted under this Act shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided.
+
+## Section 12
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

@@ -1,0 +1,79 @@
+---
+title: "Republic Act No. 2640 — An Act to Create a Public Corporation to be Known as the Veterans Federation of the Philippines, Defining its Powers, and for Other Purposes"
+identifier: "Republic Act No. 2640"
+number: "2640"
+type: act
+jurisdiction: ph
+language: en
+date: 1960-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1960/ra_2640_1960.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2640
+
+**An Act to Create a Public Corporation to be Known as the Veterans Federation of the Philippines, Defining its Powers, and for Other Purposes**
+
+**REPUBLIC ACT No. 2640**
+
+**An Act to Create a Public Corporation to be Known as the Veterans Federation of the Philippines, Defining its Powers, and for Other Purposes**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The following persons, to wit: Emilio Aguinaldo, of Associacion de los Veteranos de la Revolucion; Margarito Torralba of the AFP Retired Veterans Association (AFREVA); Lorenzo B. Cabrera of the Confederation of the Filipino Veterans (CONVETS); Teodoro V. Kalaw of the Defenders of Bataan and Corregidor; Fausto S. Alberto of the ECLGA Veterans Association; Enrique C. Rimando of the FAIT Veterans Legion; Francisco L. Gonzales of the Filipino Disabled Veterans Association; Basilia M. Baja of the Gold Star Mothers and United War Widows and Orphans Association of the Philippines; Simeon C. Medalla of the Hunters ROTC Association; Antonio F. Garcia of the Magsaysay Veterans Legion; Dionisio V. Ojeda Guaof the PEFTOK Veterans Association; Primitivo Lovina of the Philippine National Guard Veterans Legion; Jose V. Andrada of the Philippine Naval Veterans Legion; Jaime Piopongco of the Philippine Veterans Legion; Sofia L. Prudenciado of the Philippine Association of War Widows, Parents, and Orphans; Eugenio B. Recto of the United Disabled Veterans Association of the Philippines; and Gaudencio Antonino of the USAFIP NL and their associates and successors are hereby created a body corporate, under the control and supervision of the Secretary of National Defense, under the name, style and title of "Veterans Federation of the Philippines," hereinafter referred to as the Federation. The principal office of the Federation shall be in the City of Manila, Philippines.
+
+## Section 2
+
+The said Federation shall have perpetual succession, with power to sue and be sued; to hold such real and personal property as shall be necessary for its purposes, and to receive real and personal property by gift, devise or bequest; to invest its funds for the exclusive benefit of the veterans of the Philippines; to extend, within its capabilities, all necessary assistance, and operate such enterprises as may further the material or moral well-being of veterans; to adopt a seal, and to alter or destroy the same at pleasure; to have offices and conduct its business and affairs in the City of Manila and/or provinces, cities, municipalities and barrios of the Philippines and to amend said laws, regulations and rules; to establish and operate branches of its office anywhere in the Philippines; to publish a magazine and/or other publications; and generally, to do all such acts and things as may be necessary to carry into effect the provisions of this Act and to promote the purposes of said Federation.
+
+Any action or decision of the Federation or of the Supreme Council shall be subject to the approval of the Secretary of National Defense.
+
+## Section 3
+
+No association shall be an affiliated member of the Federation unless it is integrated by veterans who served in the naval, air or land arms or services of the Philippines at some time in the Philippine Revolution, or World Wars I or II, or in the United States Army Forces in the Far East in World War II, or in the Philippine Expeditionary Forces to Korea in the Korean Campaign, or in any armed conflict in which the Philippines may be involved in the future: _Provided,_ However, That the said veterans have been honorably discharged or separated from the service or continue in the active military service or are carried on the military rosters on inactive reserve.
+
+## Section 4
+
+The purposes of the Federation shall be to uphold and defend the democratic way of life as envisioned in the Constitution of the Republic of the Philippines; to represent and to defend the interests of all Filipino veterans; to coordinate the efforts of all different veterans of the Philippines in behalf of the interests of respective members; to promote mutual help among former comrades-in-arms; to perpetuate their common experiences in war; to undertake acts of charity and relief work; to preserve peace and order; to foster love of country and things Filipino and inculcate individual civic consciousness. In general, the Federation shall exist solely for purposes of a benevolent character, and not for pecuniary profit of its members.
+
+## Section 5
+
+The Federation shall be non-sectarian and non-political in character, and that affiliation thereto shall not increase or diminish liability for military service.
+
+## Section 6
+
+The Federation shall have no power to issue certificates of stock or to declare or pay dividends, all funds in excess of operating expenses being reserved for disbursement, as the Supreme Council may authorize, for the purposes stated in Section two of this Act.
+
+## Section 7
+
+The governing body of the said Federation shall be its Supreme Council. The number, qualifications, manner of election and terms of office of the members of this Supreme Council and of the officers of the Federation shall be prescribed by its own constitution and by-laws. The persons named in Section one of this Act shall constitute its Supreme Council and the persons elected for the term of office beginning March, nineteen hundred sixty, shall be the first officers of said Federation, to serve as such until their successors are duly elected and have qualified. The by-laws shall prescribe the number or members of the Supreme Council necessary to constitute a quorum.
+
+## Section 8
+
+An annual meeting of the affiliated members shall be held once every year after the date of the creation of the Federation, at such time and place as shall be prescribed in the constitution and by-laws, when the annual report of the Federation shall be presented, and members of the Supreme Council and officers shall be designated and elected. Special meetings of the Supreme Council may be called upon such notice as may prescribed in the constitution and by-laws, which shall further fix the number of affiliated members which shall constitute a quorum at any annual or special meeting. The Supreme Council shall have power to hold their meetings and keep the seal, books, documents and papers of the Federation at the principal office of the Federation.
+
+## Section 9
+
+The Federation is empowered to adopt its own insignia and uniforms and shall have sole and exclusive right in the Philippines to have and to use the titles, emblems, uniforms, badges, insignia, descriptive or designating marks, words, and phrases used by it in carrying out its program in accordance with the purposes of this Act.
+
+## Section 10
+
+Any donation or contribution which from time to time may be made to the Federation by the Government of the Philippines or any of its subdivisions, branches, offices, agencies or instrumentalities shall be expended by the Supreme Council only for the purposes mentioned in this Act.
+
+## Section 11
+
+The Federation is expressly exempted from payment of any and all taxes.
+
+## Section 12
+
+On or before the last day of the month following the end of each fiscal year, the Federation shall make and transmit to the President of the Philippines or to the Secretary of National Defense, a report of its proceedings for the past year, including a full, complete and itemized report of receipts and expenditures of whatever kind.
+
+## Section 13
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1960.

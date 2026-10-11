@@ -1,0 +1,152 @@
+---
+title: "Republic Act No. 4848 — An Act Fixing the Salaries of the Officers and Personnel in the Administrative Accounting, Fiscal and Other Services of the Department of Justice, and for Other Purposes"
+identifier: "Republic Act No. 4848"
+number: "4848"
+type: act
+jurisdiction: ph
+language: en
+date: 1966-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1966/ra_4848_1966.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1966/pdf/ra_4848_1966.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4848
+
+**An Act Fixing the Salaries of the Officers and Personnel in the Administrative Accounting, Fiscal and Other Services of the Department of Justice, and for Other Purposes**
+
+**REPUBLIC ACT No. 4848 June 18, 1966**
+
+AN ACT FIXING THE SALARIES OF THE OFFICERS AND PERSONNEL IN THE ADMINISTRATIVE ACCOUNTING, FISCAL AND OTHER SERVICES OF THE DEPARTMENT OF JUSTICE, AND FOR OTHER PURPOSES.
+
+## Section 1
+
+The provisions of any law to the contrary notwithstanding, the Department of Justice shall have a General Services Staff, an Accounting Office, and a Fiscal Management Staff, whose respective chiefs shall be known as the Head Administrative Assistant, the Department Chief Accountant, and the Department Financial Officer, each of whom shall receive an annual salary of twelve thousand pesos. It shall be their duty to give technical assistance to the Department Head on matters relating to general administration, accounting of funds, and fiscal operations, respectively, and in the performance thereof each of them shall be assisted by an assistant chief who shall receive an annual salary of ten thousand eight hundred pesos. In addition, the General Services Staff shall have two administrative supervisors, each of whom shall receive an annual of ten thousand two hundred pesos, and the Accounting Office, three supervising accountants, all of whom shall receive annual salaries at the rate of nine thousand pesos each, and such complementary personnel as hereinafter provided.
+
+## Section 2
+
+The subordinate personnel under the direct supervision of the Head Administrative Assistant and their annual salaries shall be as follows:
+
+(a) One senior records officer at seven thousand two hundred pesos;
+
+(b) One senior appointments examiner at seven thousand two hundred pesos;
+
+(c) One personnel officer at seven thousand two hundred pesos;
+
+(d) Two supervising clerks each at four thousand eight hundred pesos;
+
+(e) Two senior stenographers each at four thousand eight hundred pesos;
+
+(f) Three stenographers each at three thousand nine hundred sixty pesos;
+
+(g) Five senior clerks each at three thousand nine hundred sixty pesos;
+
+(h) One senior security guard at three thousand four hundred eighty pesos;
+
+(i) Nine clerk-typists each at three thousand pesos;
+
+(j) Seven filing clerks each at three thousand pesos;
+
+(k) Two index clerks each at three thousand pesos;
+
+(l) Five security guards each at three thousand pesos;
+
+(m) One head janitor with quarters at three thousand pesos; and
+
+(n) Three janitors each at two thousand four hundred pesos.
+
+The subordinate personnel under the direct supervision of the Department Chief Accountant and their annual salaries shall be as follows:
+
+(a) Two accountants each at seven thousand two hundred pesos;
+
+(b) Three supervising accounting clerks each at five thousand four hundred pesos;
+
+(c) Three supervising clerks each at four thousand eight hundred pesos;
+
+(d) Four bookkeepers each at four thousand five hundred pesos;
+
+(e) Four senior clerks each at three thousand nine hundred sixty pesos;
+
+(f) Six accounting clerks each at three thousand six hundred pesos; and
+
+(g) Five subsidiary ledger clerks each at three thousand six hundred pesos.
+
+The subordinate personnel under the direct supervision of the Department Financial Officer and their annual salaries shall be as follows:
+
+(a) One supply officer at seven thousand eight hundred pesos;
+
+(b) One cashier and disbursing officer at six thousand six hundred pesos;
+
+(c) One budget officer at six thousand pesos;
+
+(d) Two senior fiscal clerks each at three thousand nine hundred sixty pesos;
+
+(e) Four fiscal clerks each at three thousand pesos;
+
+(f) One canvasser at three thousand six hundred pesos; and
+
+(g) One stock clerk at two thousand seven hundred pesos.
+
+## Section 3
+
+The administrative head of the Department of Justice Library, which shall remain under the direction and supervision of the Chief Legal Counsel, shall be known as the Department Librarian and shall receive an annual salary of nine thousand six hundred pesos. The library personnel and their annual salaries shall be as follows:
+
+(a) One supervising legal researcher at eight thousand four hundred pesos;
+
+(b) One executive assistant at seven thousand two hundred pesos;
+
+(c) One researcher at six thousand pesos;
+
+(d) One research library assistant at six thousand pesos;
+
+(e) One librarian at five thousand four hundred pesos;
+
+(f) One supervising clerk at four thousand eight hundred pesos;
+
+(g) Three senior clerks at three thousand nine hundred sixty pesos; and
+
+(h) One stenographer at three thousand nine hundred sixty pesos.
+
+## Section 4
+
+The following personnel of the Secretariat and Clerical staff of the Secretary and Undersecretary of Justice shall receive the following annual salaries:
+
+Office of the Secretary
+
+(a) One private secretary at eight thousand four hundred pesos;
+
+(b) One senior special investigator (confidential) at six thousand pesos;
+
+(c) One senior stenographer at four thousand eight hundred pesos;
+
+(d) One stenographer at four thousand two hundred pesos;
+
+(e) One senior clerk at three thousand nine hundred sixty pesos;
+
+(f) One clerk at three thousand pesos; and
+
+(g) One janitor at two thousand four hundred pesos.
+
+Office of the Undersecretary
+
+(a) One private secretary at seven thousand two hundred pesos;
+
+(b) One special investigator (confidential) at five thousand four hundred pesos; and
+
+(c) One senior stenographer at four thousand eight hundred pesos.
+
+## Section 5
+
+The officers and employees holding the positions above referred to shall receive the salary rates provided for in this Act, the provisions of any law to the contrary notwithstanding: _Provided,_ That no officer or employee rendering service in the Administrative Division, Accounting Division, Finance and Budget Division, Library, Offices of the Secretary and Undersecretary, Department of Justice, as of the approval of this Act shall, by reason thereof, be removed from office or be demoted in rank or salary except for cause and upon compliance with due process of law.
+
+## Section 6
+
+In addition to appropriations provided in the General Appropriations Act for the ensuing fiscal year for the Administrative Division, Accounting Division, Finance and Budget Division, Library, Offices of the Secretary and the Undersecretary, Department of Justice, such sums as may be necessary to cover salaries of the positions herein provided, as well as for equipment, maintenance, and other operating expenses, are hereby appropriated out of any funds of the National Treasury not otherwise appropriated. Such amounts shall be included in subsequent General Appropriations Act.
+
+## Section 7
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1966

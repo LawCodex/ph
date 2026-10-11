@@ -1,0 +1,69 @@
+---
+title: "Republic Act No. 6362 — An Act Providing for the Acceleration of the Adjustment of Salaries of Public School Teachers and for This Purpose Amending Republic Act Numbered Fifty-One Hundred Sixty-Eight, Known as \"The Public School Teachers Salary Standardization Act\" and Appropriating Funds Therefor."
+identifier: "Republic Act No. 6362"
+number: "6362"
+type: act
+jurisdiction: ph
+language: en
+date: 1971-07-30
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1971/ra_6362_1971.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6362
+
+**An Act Providing for the Acceleration of the Adjustment of Salaries of Public School Teachers and for This Purpose Amending Republic Act Numbered Fifty-One Hundred Sixty-Eight, Known as "The Public School Teachers Salary Standardization Act" and Appropriating Funds Therefor.**
+
+[ REPUBLIC ACT NO. 6362, July 30, 1971 ]
+
+AN ACT PROVIDING FOR THE ACCELERATION OF THE ADJUSTMENT OF SALARIES OF PUBLIC SCHOOL TEACHERS AND FOR THIS PURPOSE AMENDING REPUBLIC ACT NUMBERED FIFTY-ONE HUNDRED SIXTY-EIGHT, KNOWN AS "THE PUBLIC SCHOOL TEACHERS SALARY STANDARDIZATION ACT" AND APPROPRIATING FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Section five of Republic Act Numbered Five thousand one hundred sixty-eight is hereby repealed.
+
+## Section 2
+
+The provisions of existing laws to the contrary notwithstanding, the salaries of public school teachers as of June thirtieth, nineteen hundred and seventy-one shall be adjusted to the minimum rates prescribed in Schedule "B" of said Act effective July first, nineteen hundred and seventy-one: _Provided,_ That the salaries of public school teachers whose positions are allocated to adjusted ranges 32 to 34 shall be adjusted to steps three, two and one, respectively, of the said Schedule "B".
+
+## Section 3
+
+Section six of the same Act is hereby amended to read as follows:
+
+"**Section 6.** _Salary progression from minimum to maximum._ —The salary progression from minimum to maximum of the adjusted range shall consist of four steps, each succeeding step to be granted automatically after three years of satisfactory service and shall be implemented effective July first, nineteen hundred and seventy-one: _Provided,_ That the progression from minimum the maximum shall not extend beyond a period of ten years subject to the provisions of Section eight of this Act: _And provided, finally,_ That for public school teachers who have rendered at least ten years of continuous satisfactory service at the time of the approval of this amendatory Act, the period of progression from minimum to maximum shall be reduced to seven years."
+
+## Section 4
+
+The funds necessary to implement the provisions of this Act during fiscal year nineteen hundred and seventy-two shall be made available from the following sources:
+
+a. The five percent salary adjustment for teachers from the Salary Adjustment Fund appropriated in the General Appropriations Act;
+
+b. The Special Education Fund, for which purpose the Secretary of Education shall fix the percentage of the differential payable directly to the teachers by each provincial, city and municipal school board and the percentage payable by the national government, taking into consideration the availability of funds from the shares of the school boards in the additional tax on real property imposed under Republic Act Numbered Five thousand four hundred forty-seven: _Provided,_ That no other expenditure of the Special Education Stabilization Fund except one million pesos for the operation and maintenance of the state scholarships under Republic Act Numbered Four thousand ninety shall be incurred by the national government until its percentage shares for the salary adjustment authorized in this Act shall have been provided for: And _provided, finally,_ That the provisions of Republic Act Numbered Five thousand four hundred forty-seven or any regulation promulgated thereunder, which may be inconsistent herewith, are hereby amended or modified accordingly;
+
+c. Unexpended surplus of the Special Education Stabilization Fund; and
+
+d. Savings from the general fund appropriations of the Department of Education.
+
+The funds mentioned in (a), (b), (c) and (d) hereinabove mentioned are hereby appropriated or re-appropriated for the purpose of implementing the payment of the salary adjustments authorized in this Act.
+
+## Section 5
+
+The benefits provided under this amendatory Act shall be extended only to those public school teachers actually performing duties and responsibilities for which they may have been appointed or that of higher positions.
+
+## Section 6
+
+The Secretary of Education shall prescribe the rules and regulations for the implementation of the salary adjustments under this Act.
+
+## Section 7
+
+All Acts or parts of Acts, administrative rules [and regulations inconsistent with the provisions of this Act, are hereby repealed, amended or modified accordingly.1âшphi1
+
+## Section 8
+
+This Act shall take effect on July first, nineteen hundred and seventy-one.
+
+Approved, July 30, 1971.

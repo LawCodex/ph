@@ -1,0 +1,61 @@
+---
+title: "Republic Act No. 6884 — An Act Converting the Kananga Rural Health Center in the Municipality of Kananga, Province of Leyte, Into a Ten-bed Municipal Hospital to Be Known as the Kananga Municipal Hospital, and Appropriating Funds Therefor"
+identifier: "Republic Act No. 6884"
+number: "6884"
+type: act
+jurisdiction: ph
+language: en
+date: 1990-03-08
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1990/ra_6884_1990.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1990/pdf/ra_69xx_1990.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6884
+
+**An Act Converting the Kananga Rural Health Center in the Municipality of Kananga, Province of Leyte, Into a Ten-bed Municipal Hospital to Be Known as the Kananga Municipal Hospital, and Appropriating Funds Therefor**
+
+[ REPUBLIC ACT NO. 6884, March 08, 1990 ]
+
+AN ACT CONVERTING THE KANANGA RURAL HEALTH CENTER IN THE MUNICIPALITY OF KANANGA, PROVINCE OF LEYTE, INTO A TEN-BED MUNICIPAL HOSPITAL TO BE KNOWN AS THE KANANGA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+The Kananga Rural Health Center in the Municipality of Kananga, Province of Leyte, is hereby converted into a ten-bed municipal hospital to be known as the Kananga Municipal Hospital.
+
+## Section 2
+
+The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+## Section 3
+
+Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.1âшphi1
+
+## Section 4
+
+This Act shall take effect upon its approval.
+
+Approved,
+
+<table>
+<tr>
+<td>(Sgd.) <b>JOVITO R. SALONGA</b><br/><i>President of the Senate</i></td>
+<td>(Sgd.) <b>RAMON V. MITRA</b><br/><i>Speaker of the House of Representatives</i></td>
+</tr>
+<tr>
+<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989.</td>
+</tr>
+<tr>
+<td>(Sgd.) <b>EDWIN P. ACOBA</b><br/><i>Secretary of the Senate</i></td>
+<td>(Sgd.) <b>QUIRINO D. ABAD SANTOS, JR.</b><br/><i>Secretary of the House of Representatives</i></td>
+</tr>
+</table>
+
+Approved: March 8, 1990
+
+(Sgd.) CORAZON C. AQUINO  
+President of the Philippines

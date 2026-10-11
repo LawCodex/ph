@@ -1,0 +1,57 @@
+---
+title: "Republic Act No. 6554 — An Act Granting Ester Labrador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facilities in the Municipality of Magarao, Province of Camarines Sur, and to Sell and Distribute Ice So Manufactured Therein."
+identifier: "Republic Act No. 6554"
+number: "6554"
+type: act
+jurisdiction: ph
+language: en
+date: 1972-09-30
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1972/ra_6554_1972.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6554
+
+**An Act Granting Ester Labrador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facilities in the Municipality of Magarao, Province of Camarines Sur, and to Sell and Distribute Ice So Manufactured Therein.**
+
+[ REPUBLIC ACT NO. 6554, September 30, 1972 ]
+
+AN ACT GRANTING ESTER LABRADOR A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN AN ICE PLANT AND COLD STORAGE FACILITIES IN THE MUNICIPALITY OF MAGARAO, PROVINCE OF CAMARINES SUR, AND TO SELL AND DISTRIBUTE ICE SO MANUFACTURED THEREIN.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Subject to the conditions imposed by this Act, there is granted to Ester Labrador, her successors or assigns, for a period of twenty-five years after the approval of this Act, the right, privilege and authority to construct, operate and maintain an ice plant and cold storage facilities in the Municipality of Magarao, Province of Camarines Sur for the purpose of manufacturing ice and furnishing cold storage and to sell and distribute the ice so manufactured and render cold storage service therein, and to collect a schedule of rates, prices and charges for the ice so manufactured, distributed and sold, and for the cold storage service furnished which schedule of rates, prices and charges shall at all times be subject to regulation by the Public Service Commission.
+
+## Section 2
+
+The grantee shall install and maintain an ice plants or ice plant and cold storage facility or facilities in the said municipality mentioned above: _Provided, however_ That the total daily production capacity of the ice plant so installed and maintained shall be up to the limit of the capacity of the ice plant so install subject to approval by the Public Service Commission.
+
+## Section 3
+
+All the machinery, equipment and appurtenances to be used by the grantee shall be modern, safe and first class in every respect.
+
+## Section 4
+
+If the grantee shall not commence the manufacture of ice within two years from the approval of this Act, unless prevented by an act of God, _force majeure_ , martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.1âшphi1
+
+## Section 5
+
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires.
+
+## Section 6
+
+The grantee shall not lease, transfer, grant the usufruct of,sell or assign this franchise or the rights, privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company, or corporation organized for the same purpose without the approval an/or consent of the Congress of the Philippines.
+
+## Section 7
+
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five _per centum_ of the gross earnings under this franchise, three _per centum_ of which shall accrue to the National Government and two _per centum_ to the municipality where the franchise is in operation.
+
+## Section 8
+
+This Act shall take effect upon its approval.
+
+Enacted without Executive approval, September 30, 1972.

@@ -422,7 +422,8 @@ def convert_series(mod, raw, outdir, stats, code_targets):
             stats["missing_" + mod] = stats.get("missing_" + mod, 0) + 1
             missing.append((mod, label, date, row.get("_html") or row.get("_pdf") or ""))
             continue
-        base = f"{pfx}-{slugify(num, 20)}-{slugify(desc, 60)}" if num else f"{pfx}-{slugify(desc, 70)}"
+        sdesc = re.sub(r"^(an?\s+)?(act|decree|order)\s+(to\s+|of\s+)?", "", desc, flags=re.I) or desc
+        base = f"{pfx}-{slugify(num, 20)}-{slugify(sdesc, 60)}" if num else f"{pfx}-{slugify(sdesc, 70)}"
         fn = os.path.join(d, year, base + ".md")
         i = 2
         while fn in used:

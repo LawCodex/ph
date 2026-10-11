@@ -1,0 +1,52 @@
+---
+title: "Republic Act No. 4661 — An Act Shortening the Prescriptive Period for Libel and Other Similar Offenses, Amending for the Purpose Article Ninety of the Revised Penal Code"
+identifier: "Republic Act No. 4661"
+number: "4661"
+type: act
+jurisdiction: ph
+language: en
+date: 1966-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1966/ra_4661_1966.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1966/pdf/ra_4661_1966.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4661
+
+**An Act Shortening the Prescriptive Period for Libel and Other Similar Offenses, Amending for the Purpose Article Ninety of the Revised Penal Code**
+
+**REPUBLIC ACT No. 4661**
+
+An Act Shortening the Prescriptive Period for Libel and Other Similar Offenses, Amending for the Purpose Article Ninety of the Revised Penal Code
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Article ninety of the Revised Penal Code is hereby amended to read as follows:
+
+"Art. 90. _Prescription of crimes.—_ Crimes punishable by death, reclusion perpetua or reclusion temporal shall prescribe in twenty years.1avvphi1
+
+"Crimes punishable by other afflictive penalties shall prescribe in fifteen years.
+
+"Those punishable by a correctional penalty shall prescribe in ten years; with the exception of those punishable by arresto mayor, which shall prescribe in five years.
+
+"The crime of libel or other similar offenses shall prescribe in one year.
+
+"The offenses of oral defamation and slander by deed shall prescribe in six months.
+
+"Light offenses prescribe in two months.
+
+"When the penalty fixed by law is a compound one, the highest penalty shall be made the basis of the application of the rules contained in the first, second and third paragraphs of this article."
+
+## Section 2
+
+The provision of this amendatory Act shall not apply to cases of libel already filed in court at the time of approval of this amendatory Act.
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1966.

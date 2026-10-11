@@ -168,6 +168,9 @@ def main():
         for row in rows:
             if row["_html"]:
                 urls.append(row["_html"])
+                # fall back to the PDF scan when the HTML page is missing (404)
+                if row["_pdf"] and os.path.exists(cache_path(raw, row["_html"]) + ".404"):
+                    urls.append(row["_pdf"])
             elif row["_pdf"]:
                 urls.append(row["_pdf"])
     if a.lists_only:

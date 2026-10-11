@@ -1,0 +1,65 @@
+---
+title: "Republic Act No. 2947 — An Act Granting Mr. Eduardo Figueras of 22 Gilmore Avenue, Quezon City, a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Stations for Television and Telemural Receiving Sets in the Philippines"
+identifier: "Republic Act No. 2947"
+number: "2947"
+type: act
+jurisdiction: ph
+language: en
+date: 1960-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1960/ra_2947_1960.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 2947
+
+**An Act Granting Mr. Eduardo Figueras of 22 Gilmore Avenue, Quezon City, a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Stations for Television and Telemural Receiving Sets in the Philippines**
+
+**REPUBLIC ACT No. 2947**
+
+**An Act Granting Mr. Eduardo Figueras of 22 Gilmore Avenue, Quezon City, a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Stations for Television and Telemural Receiving Sets in the Philippines**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution, Mr. Eduardo Figueras of 22 Gilmore Ave., Quezon City, is hereby granted a franchise to construct, maintain and operate for educational and commercial purposes and in the public interest, radio broadcasting stations, stations for television and telemural receiving sets in the Philippines with the corresponding microware links: _Provided,_ That this franchise shall be void unless the construction of at least one radio broadcasting station or one television station be begun within two years from the date of the approval of this Act, and be completed within four years from said date: _Provided, further,_ That the grantee shall contribute to the public welfare; shall assist in the functions of public information and education; shall conform to the ethics of honest enterprises; and shall not use his stations for the broadcasting and/or telecasting of obscene or indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage or assist in subversive or treasonable acts.
+
+## Section 2
+
+Such provisions of Act numbered Thirty-eight hundred and forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law, Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the radio broadcasting and television stations referred to in Section one.
+
+## Section 3
+
+The grantee shall execute a bond in favor of the Government of the Philippines in the sum of fifty thousand pesos to guaranty for the faithful compliance and fulfillment of the grantee’s obligations hereunder during the first three years of the life of this franchise. If, after three years from the date of the approval of this franchise, the grantee shall fulfill said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+
+## Section 4
+
+In the event of any competing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto, become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said completing individual, partnership or corporation.
+
+## Section 5
+
+The grantee shall be liable to pay the same taxes on his real estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay. The grantee shall further be liable to pay all other taxes provided for in the National Internal Revenue Code by reason of this franchise.
+
+## Section 6
+
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio broadcasting and television station or stations or to authorize the use or possession thereof by any department of the Government without compensation to the grantee for the use of said stations during the continuance of the national emergency.
+
+## Section 7
+
+The grantee shall not require any previous censorship of any speech, play, act or scene or other matter to be broadcast and/or telecast from his stations; but if any such speech, play, act or scene or other matter should constitute a violation of the law or infringement of private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene or other matter: _Provided,_ That the grantee during any broadcast and/or telecast, may cut off from the air the speech, play, act or scene or other matter being broadcast and/or telecast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral.
+
+## Section 8
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise, nor the rights or privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this franchise is sold, transferred or assigned shall be subject to all the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise has been originally granted to said person, firm, company, corporation or other commercial or legal entity.
+
+## Section 9
+
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 10
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1960.

@@ -1,0 +1,70 @@
+---
+title: "Republic Act No. 4485 — An Act Granting Fernandez Hermanos, Inc. a Franchise to Construct, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Private Ship-to-Shore and Land-Based and Land Mobile Radio Stations for the Transmission and Reception of Wireless Telegraphy, Telephonic and Teletype Messages to and from Said Stations"
+identifier: "Republic Act No. 4485"
+number: "4485"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4485_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4485_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4485
+
+**An Act Granting Fernandez Hermanos, Inc. a Franchise to Construct, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Private Ship-to-Shore and Land-Based and Land Mobile Radio Stations for the Transmission and Reception of Wireless Telegraphy, Telephonic and Teletype Messages to and from Said Stations**
+
+**REPUBLIC ACT No. 4485**
+
+An Act Granting Fernandez Hermanos, Inc. a Franchise to Construct, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Private Ship-to-Shore and Land-Based and Land Mobile Radio Stations for the Transmission and Reception of Wireless Telegraphy, Telephonic and Teletype Messages to and from Said Stations
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+There is hereby granted Fernandez Hermanos, Inc., its successors or assigns, the right and privilege to construct, install, maintain and operate in the Philippines and at such places as the grantee may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or any competent authority who is or shall be authorized now or in the future to give said approval, such private fixed point-to-point, private coastal, private ship-to-shore and land-based and land mobile radio stations for the reception and transmission of wireless messages on radiotelegraph, radiotelephone and/or radio teletype, each stations to consist of at least two radio apparatus comprising a receiving and a sending radio apparatus; and such devices as the grantee may decide to use to preserve secrecy of communications, provided that such devices meet with the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning. Said grantee is authorized to use any combination of these facilities for the efficiency and safety of its operations.
+
+## Section 2
+
+The President of the Philippines shall have the power and authority to permit the location of said radio stations or any of them in the public domain upon such terms as he may prescribed.
+
+## Section 3
+
+This franchise shall continue to be in force during the time that the Government has not established a similar services at the places selected by the grantee, but not exceeding twenty-five years and is made upon the express condition that the same shall be void unless the construction of at least one of said stations be begun within two years from the date of approval of this Act and completed within four years from said date.
+
+## Section 4
+
+Fernandez Hermanos, Inc., its successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippine, it being understood that the purpose of this franchise is to secure to the grantee the right to construct, install, establish and operate private radio stations specified in Section one hereof in places within the Philippines as the interest of the grantee and of its trade and business may justify.
+
+## Section 5
+
+The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+## Section 6
+
+The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to person, caused by the construction or operation of its radio stations.
+
+## Section 7
+
+The grantee, its successors or assigns, is authorized to operate its private radio stations under this franchise in such frequency and wave lengths as may be assigned to it by the Department Secretary or competent authority mentioned in Section one in order to avoid interference with existing stations and to permit expansion of the grantee’s stations and facilities.
+
+## Section 8
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise nor the rights and privileges acquired hereunder to any person, firm, company, corporation or other commercial or legal entity, without the approval of the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company or other commercial or legal entity.
+
+## Section 9
+
+A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government for the duration of the public peril upon payment of just compensation.
+
+## Section 10
+
+This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines, when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 11
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

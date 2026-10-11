@@ -1,0 +1,62 @@
+---
+title: "Republic Act No. 6534 — An Act Granting Marina Ranch and Dairy Farm a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of San Jose, and to Sell Ice and Supply Cold Storage Therein and in Certain Municipalities in the Province of Nueva Ecija."
+identifier: "Republic Act No. 6534"
+number: "6534"
+type: act
+jurisdiction: ph
+language: en
+date: 1972-07-22
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1972/ra_6534_1972.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6534
+
+**An Act Granting Marina Ranch and Dairy Farm a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of San Jose, and to Sell Ice and Supply Cold Storage Therein and in Certain Municipalities in the Province of Nueva Ecija.**
+
+[ REPUBLIC ACT NO. 6534, July 22, 1972 ]
+
+AN ACT GRANTING MARINA RANCH AND DAIRY FARM A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN AN ICE PLANT AND COLD STORAGE IN THE CITY OF SAN JOSE, AND TO SELL ICE AND SUPPLY COLD STORAGE THEREIN AND IN CERTAIN MUNICIPALITIES IN THE PROVINCE OF NUEVA ECIJA.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Subject to the terms and conditions established in this Act and in Commonwealth Act Numbered One hundred forty-six, as amended, and to the provisions of the Constitution, there is granted to Marina Ranch and Dairy Farm, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an ice plant and cold storage in the City of San Jose for the purpose of manufacturing ice for distribution and sale, as well as supplying cold storage within the said city and in the municipalities of Pantabangan, Carranglan, Llanera, General Natividad and Quezon, all in the Province of Nueva Ecija, and to charge and collect a schedule of prices and rates therfor, which schedule shall at all times be subject to regulation by the Public Service Commission or its legal successor.``
+
+## Section 2
+
+The grantee shall manufacture and supply ice up to the limit of the capacity of its plant, said limit to be determined by the Public Service Commission, and sell ice at rates to be determined by the said Commission.
+
+## Section 3
+
+All apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect; whenever the Public Service Commission shall determine that public interest reasonably requires it, the grantee shall change or alter any of the apparatus appurtenances at grantee's expense.1âшphi1
+
+## Section 4
+
+If the grantee shall not commence the manufacture of ice for distribution and sale in the city municipalities mentioned in Section one hereof within three years from the approval of this Act, unless prevented by an act of God or _force majeure_ , martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
+
+## Section 5
+
+This franchise is granted with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.
+
+## Section 6
+
+The books, records and accounts of the grantee shall always be open to the inspection of the Auditor General or his authorized representatives, and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing the gross receipts for the quarter past.
+
+## Section 7
+
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five _per centum_ of the gross earnings under this franchise, three _per centum_ of which shall accrue to National Government and two _per centum_ to the municipality or city where the franchise is being operated.
+
+## Section 8
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise, or the right or privileges acquired thereunder to any person, firm , company, corporation or other commercial or legal entity ,nor merge with any other person, firm, company or corporation organized for the same purpose without the of approval the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise has been originally granted to the said person, firm, company, corporation or other legal entity.
+
+## Section 9
+
+This Act shall take effect upon its approval.
+
+Enacted without the Executive approval, July 22, 1972.

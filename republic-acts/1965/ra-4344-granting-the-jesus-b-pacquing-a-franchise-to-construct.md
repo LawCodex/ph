@@ -1,0 +1,60 @@
+---
+title: "Republic Act No. 4344 — An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao"
+identifier: "Republic Act No. 4344"
+number: "4344"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4344_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4344_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4344
+
+**An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao**
+
+**REPUBLIC ACT No. 4344**
+
+An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution, Jesus B. Pacquing is hereby granted a franchise, which shall continue in force during the time that the Government has not established similar services in places selected by the grantee, but not to exceed twenty-five years, to construct, maintain and operate for commercial purposes and in the public interest, radio broadcasting stations, television stations, and domestic and international radio telecommunications in Davao Province and in Mindanao: _Provided,_ That this franchise shall be void unless the construction of at least one radio broadcasting station and television station be begun within two years from the date of approval of this Act and be completed within four years from the said date: _Provided, further,_ That the grantee shall provide adequate public service time to enable the Government, through the said radio broadcasting stations, television stations, domestic and international radio telecommunications, to reach the population on important issues; shall assist in the functions of public information and education; shall conform to the ethics of honest enterprise; and shall not use his stations and domestic and international radio telecommunications for the broadcasting and/or telecasting of obscene or indecent language or speech, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of public health, or to incite, encourage, or assist in subversive or treasonable acts.
+
+## Section 2
+
+Such provisions of Act Numbered Thirty-eight hundred and forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law, Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the radio broadcasting and television stations referred to in Section one hereof.
+
+## Section 3
+
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee full compliance and fulfillment of the conditions under which this franchise is granted.
+
+## Section 4
+
+(a) The grantee shall be liable to pay the same taxes on his real estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now paying or hereafter may be required by law to pay.
+
+(b) The grantee shall be liable to pay further all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
+
+## Section 5
+
+In the event that the Government should desire to maintain and operate for itself any or all of the stations herein authorized, the grantee shall turn over such station or stations to the Government with all the serviceable equipment therein, at cost, less reasonable depreciation.
+
+## Section 6
+
+The grantee shall not require any previous censorship of any speech, play or other matter to be broadcast and/or telecast from his stations; but if any such speech, play or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play or other matter: _Provided,_ That the grantee during any broadcast and/or telecast, may cut off from the air the speech, play or other matter during any broadcast and/or telecast, if the tendency thereof is to propose and/or incite treason, rebellion, or sedition, or the language used therein, or the theme thereof is indecent or immoral.
+
+## Section 7
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the previous approval of the Congress of the Philippines. Any corporation to which this franchise is sold, transferred or assigned shall be subject to all the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, or corporation or other commercial or legal entity.
+
+## Section 8
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

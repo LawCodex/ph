@@ -1,0 +1,101 @@
+---
+title: "Republic Act No. 1602 — An Act to Provide for the Allocation, Reallocation and Administration of Quotas for Cordage, Buttons of Pearl or Shell, Cigars, Scrap and Filler Tobacco and Coconut Oil, and for Other Purposes"
+identifier: "Republic Act No. 1602"
+number: "1602"
+type: act
+jurisdiction: ph
+language: en
+date: 1956-08-23
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1956/ra_1602_1956.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1602
+
+**An Act to Provide for the Allocation, Reallocation and Administration of Quotas for Cordage, Buttons of Pearl or Shell, Cigars, Scrap and Filler Tobacco and Coconut Oil, and for Other Purposes**
+
+**REPUBLIC ACT No. 1602**
+
+**An Act to Provide for the Allocation, Reallocation and Administration of Quotas for Cordage, Buttons of Pearl or Shell, Cigars, Scrap and Filler Tobacco and Coconut Oil, and for Other Purposes**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The absolute quota on cordage which is a Philippine product as specified in item B of the Schedule in paragraph I, Article II, of the Revised Agreement between the Republic of the Philippines and the United States of America concerning Trade and Related Matters dated September six nineteen hundred fifty-five, (hereinafter referred to as the Revised Agreement), and which may be entered, or withdrawn from warehouse, in the United States for consumption in any calendar year or part thereof during the period from January first, nineteen hundred fifty-six to July third, nineteen hundred seventy-four, inclusive, shall be allocated annually to the manufacturers in the Philippines of such kind of product whose products were exported to the United States during any of the calendar years nineteen hundred forty-seven to nineteen hundred fifty-five, or to their successors in interest, proportionately on the basis of their highest volume of exportation (or in the case of a successor in interest, the highest volume of exportation made by his predecessors in interest) to the United States in any calendar year during the period from nineteen hundred forty-seven to nineteen hundred fifty-five, inclusive.
+
+## Section 2
+
+The duty-free quota on buttons of pearl or shell which is a Philippine article as defined in subparagraph (f) of paragraph I of the Protocol to the Revised Agreement which may be entered, or withdrawn from warehouse, in the United States for consumption, in calendar years nineteen hundred fifty-six, nineteen hundred fifty-seven and nineteen hundred fifty-eight shall be allocated annually to the manufacturers in the Philippines of such kind of article whose articles were exported to the United States during any of the calendar years nineteen hundred forty-seven to nineteen hundred fifty-five, or to their successors in interest, as follows:
+
+(a) To regular quota holders during the years 1947 to 1955 who have actively engaged in the manufacture and exportation of buttons of pearl or shell but who have not transferred, leased or sold the whole or part of their quotas, shall retain their quotas as provided for under the Trade Agreement of 1946 between the Republic of the Philippines and the United States of America.
+
+(b) The unallocated balance of the duty-free quota on buttons of pearl or shell, after deducting the quotas of regular quota holders mentioned in subsection (a) hereof shall be allocated to those actively engaged in the manufacture and exportation of buttons of pearl or shell but had no regular quota during the years 1947 to 1955, proportionately on the basis of their highest volume of exportation (or in the case of a successor in interest, the highest volume of exportation made by his predecessor in interest) to the United States in any calendar year during the period from 1952 to 1955, inclusive; _Provided,_ _However_ , That in no case shall the quota to be granted under this subsection to former non-quota holders exceed that of permanent quota holders mentioned in subsection (a).
+
+(c) Any balance of the duty-free quota on buttons of pearl or shell, after deducting the quotas allocated in subsections (a) and (b), shall be allocated to the regular quota holders during the year 1947 to 1955 who have actively engaged in the manufacture and exportation of buttons of pearl or shell but who have not transferred, leased or sold the whole or part of such quotas, proportionately on the basis of their highest volume of exportation (or in the case of a successor in interest, the highest volume of exportation made by his predecessor in interest) to the United States in any calendar year during the period from 1947 to 1955:
+
+## Section 3
+
+The duty-free quotas on: (1) cigars (exclusive of cigarettes, cheroots of all kinds, and paper cigars and cigarettes including wrappers); (2) scrap tobacco, and stemmed and unstemmed filler tobacco described in paragraph 602 of the United States Tariff Act of 1930, as amended: and (3) coconut oil, which are Philippine articles as they are defined in subparagraph (f) of paragraph I of the Protocol to the Revised Agreement, and which may be entered, or withdrawn from warehouse, in the United States, for consumption, in calendar years 1956, 1957 and 1958 shall be allocated annually to manufacturers in the Philippines of articles of the class for which the corresponding quotas are established, and whose articles of such class were exported to the United States during any of the calendar years from 1947 to 1955, or to their successors in interest, in amounts equal to their highest volume of exportation but not less than two hundred fifty thousand pounds in the case of scrap and stemmed and unstemmed filler tobacco.1âшphi1
+
+## Section 4
+
+The duty-free allotment of each quota holder for each calendar year during the three-year period from 1959 to 1961 and during succeeding three-year periods until calendar year 1973 for the Philippine articles mentioned in sections 2 and 3 shall be equal to his allotment for the period from 1956 to 1958: _Provided,_ That, when the total of the duty-free quota allotments for all quota holders shall exceed the total duty-free quota due to the diminution thereof in accordance with paragraph 2, Article II, of the Revised Agreement, the duty-free allotment of each quota holder shall be reduced proportionately with the total duty-free quota on each article for the corresponding three-year period.
+
+## Section 5
+
+Should there be an unallocated balance of any quota on any of the Philippine articles or products after the allocation thereof in accordance with sections 1, 2 and 3 hereof, such unallocated balance shall be assigned to the Government for disposition and shall be made available for allocation to manufacturers of such class of articles or products who at the time such allocation it to be made, are able and ready to export their articles or products to the United States, as follows:
+
+(a) Fifty per centum of the unallocated balance shall be allocated to regular quota holders during the years 1947 to 1955 who may have filled their regular quotas under this Act, the allocation to be made proportionately on the basis of their average yearly production as shown by taxes paid to the Bureau of Internal Revenue and/or other satisfactory evidence.
+
+(b) The remaining fifty per centum of the unallocated balance shall be allocated to quota holders under this Act other than those mentioned in the subsection next preceding who may have filled their current regular quotas, the allocation to be made on the same basis as provided in subsection (a).
+
+(c) Should any portion of the unallocated balance designated to quota holders under subsection (a) remain unallocated due to the inability of such quota holders to obtain the allocation thereof as provided in said sub-section, such portion may be allocated to the quota holders under subsection (b) who may have filled their current quotas, the allocation to be made on the same basis as provided in subsection (a). This provision shall likewise apply to such portion of the unallocated balance under subsection (b) the allocation of which the quota holders under said subsection have failed to obtain, in which case such portion may be allocated to the quota holders under subsection (a).
+
+(d) Should any portion of the unallocated balance remain unallocated due to the inability of the quota holders under subsections (a), (b) and (c) to obtain the allocation thereof as provided under said subsections, such portion shall be allocated to manufacturers who are non-quota holders who may have engaged in the production and manufacture of such class of articles or products during the calendar year 1956 or thereafter, the allocation to be made on the same basis as provided under subsection (a).
+
+(e) In the case of cigars, fifty per centum of the unallocated balance shall be reserved for new manufacturers.
+
+Should they be unable to fill up the fifty per centum so reserved in the preceding paragraph, the balance shall be allocated to old manufacturers.
+
+Regular quota holders given additional allotments from unallocated quotas who for a period of three years continuously export to the United States shall be entitled in succeeding years to the average of their additional exportation for the three-year period as part of their regular quotas, and non-quota holders given allotments from unallocated quotas who for a period of three years continuously export to the United States shall be entitled to the average of their exportation for the three-year period as their regular quotas and shall thereafter have the status of regular quota holders: _Provided,_ That their allotments shall be subject to the provisions of section 4.
+
+## Section 6
+
+Within the first eight months of each calendar year, the holder of any allotment for that year for any of the quotas established under the preceding sections shall report to the proper office the amount of his allotment which he is or will be unable for any reason to export to the United States.
+
+The amount of allotments which, after being established by sufficient evidence, cannot be exported during the remainder of the calendar year shall be disposed of in such manner as will insure the fulfillment of the quota for that year.1avvphi1
+
+Should any quota holder fail to submit the report required under this section or should any quota holder submit a falsified report, such quota holder shall permanently lose the right to his allotment and to any allotment thereafter.
+
+Should any quota holder fail to fill his yearly quota, his allotment for the next year shall automatically be reduced by the amount of his deficiency and he shall be allowed to export to the United States only the amount representing the total of his exportation during the preceding year.
+
+The allotment which any quota holder may lose under the provisions of this section shall revert to the Government as unallocated quota which shall be disposed of in accordance with section five of this Act.
+
+## Section 7
+
+Notwithstanding the provisions of sections 1, 2 and 3 regarding the allocation of quotas, any person or corporation entitled to allotment who ceases to manufacture such class of article or product, or who fails within a period of one year from the date of approval of this Act to make use of his right to his allotment shall be considered as having permanently abandoned his right to his allotment, in which case his allotment shall revert to the Government as unallocated quota, which shall be disposed of in accordance with section 5 of this Act.
+
+## Section 8
+
+The penalties provided in sections 6 and 7 of this Act shall not apply to quota holders whose failure to fill their quota or to make use of their right to allotment within one year from the date of the approval of this Act, is due to circumstances or conditions beyond their control.
+
+## Section 9
+
+The President of the Philippines is hereby authorized, either directly of through any department, bureau, office or instrumentality of the National Government which he may designate, to carry into effect the provisions of this Act.
+
+## Section 10
+
+The President of the Philippines or the head of the department, bureau, office or instrumentality of the National Government which he may designate for the purpose as provided in the next preceding section, is hereby authorized to issue rules and regulations governing the issuance of allotments and licenses and such other rules and regulations as he may consider necessary.
+
+## Section 11
+
+. For the purposes of this Act, the term "manufacturers" means persons, natural or juridical, who by physical or chemical process alter the exterior texture or form or inner substance of any raw material or manufactured or partially manufactured product in such manner as to prepare it for a special use or uses to which it could not have been put in its original condition, or who by any such process alter the quality of any such raw material or manufactured or partially manufactured product so as to reduce it to marketable shape or prepare it for any of the uses of industry, or who by any such process combine any such raw material or manufactured or partially manufactured products with other materials or products of the same or of different kinds and in such manner that the finished product of such process or manufacture can be put to a special use or uses to which such raw material or manufactured or partially manufactured products in their original condition could not have been put, and who in addition alter such raw material or manufactured or partially manufactured products, or combine the same to produce such finished products for the purpose of their sale or distribution to others and not for their own use or consumption.
+
+## Section 12
+
+This Act shall take effect upon its approval.
+
+Approved: August 23, 1956.

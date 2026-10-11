@@ -1,0 +1,151 @@
+---
+title: "Republic Act No. 1900 — An Act to Appropriate Funds for Public Works, Synchronizing the Same with Previous Public Works Appropriations"
+identifier: "Republic Act No. 1900"
+number: "1900"
+type: act
+jurisdiction: ph
+language: en
+date: 1957-06-22
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1957/ra_1900_1957.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1900
+
+**An Act to Appropriate Funds for Public Works, Synchronizing the Same with Previous Public Works Appropriations**
+
+[ REPUBLIC ACT NO. 1900, June 22, 1957 ]
+
+AN ACT TO APPROPRIATE FUNDS FOR PUBLIC WORKS, SYNCHRONIZING THE SAME WITH PREVIOUS PUBLIC WORKS APPROPRIATIONS.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Long-range Program of Capital Improvements with General Funds._ —For the purpose of implementing the 1957-1958 phase of the long-range Program of Capital Improvements of the Administration, the following sums or so much thereof as may be necessary are hereby appropriated out of the General Funds in the National Treasury not otherwise appropriated, subject to the provisions hereinafter set forth and for the purposes mentioned hereunder:
+
+[Itemized portions omitted for lack of space]
+
+| Total for Miscellaneous | ₱3,890,000.00 |
+|---|---|
+| Total under Section 1 | ₱40,553,100.00 |
+
+## Section 2
+
+_Short-term Projects._ —The following sums or so much thereof as may be necessary are hereby appropriated out of the General Funds in the National Treasury not otherwise appropriated to carry out short-term projects subject to the provisions hereinafter set forth, and for the purposes mentioned hereunder:
+
+[Itemized portions omitted for lack of space]
+
+| Total for paragraph g | ₱17,998,200.00 |
+|---|---|
+| Total under Section 2 | ₱44,517,300.00 |
+| Total appropriation from General Fund | ₱85,070,400.00 |
+
+## Section 3
+
+_Public Works Projects to be financed from Bond Issue._ —The following sums or so much thereof as may be necessary are hereby appropriated from the proceeds of the sales of bonds issued and/or from loans that may be negotiated under existing laws, to be allocated by the
+President of the Philippines upon recommendation of the National Economic Council and concurrence of the Council of State:
+
+[Itemized portions omitted for lack of space]
+
+| Total for Portworks | ₱16,900,000.00 |
+|---|---|
+| Total amount authorized from Bond Issue | ₱201,495,000.00 |
+
+## Section 4
+
+_Apportionment of Portworks Special Fund._ —The following sums or so much thereof as may be necessary are hereby apportioned out of the construction portion of the Portworks Special Fund that have accrued under Act Numbered Three thousand five hundred and ninety-two as amended by Commonwealth Act Numbered One hundred and thirty and by Republic Act Numbered One thousand two hundred and sixteen, not otherwise apportioned, for the implementation of the 1957-1958 phase of the Five-Year Program of Capital Improvements to be released by the Secretary of Public Works and Communications pursuant to the provisions hereinafter set forth and for the purposes mentioned hereunder:
+
+[Itemized portions omitted for lack of space]
+
+| Total for Lighthouses | ₱300,000.00 |
+|---|---|
+| Total Appropriation from Port-works Special Fund | ₱r7,081,000.00 |
+
+## Section 5
+
+_Suspension of Work Done by Administration before General Elections._ —The provisions of any existing law to the contrary notwithstanding, regardless of the source of funds, within forty-five days before every general election, no laborer shall be employed or money spent in any public works project even if the money is actually released before or within such period except for:
+
+a. Ordinary maintenance work on existing and/or completed public works projects: _Provided,_ That there is no increase over the number of usual laborers or employees employed therein sixty days prior to the beginning of this forty-five-day period: _Provided,_ further, That no extra gang of laborers are employed within the said period of forty-five days.
+
+b. Work undertaken by contract through public bidding held before the forty-five-day period: _Provided,_ That work for the purpose of this section undertaken under the so-called "takay" or "paquiao" system, shall not be considered as work by contract;
+
+c. Payment for the usual cost of preparation of working drawings, specifications, bills of materials, estimates, and other procedures preparatory to actual construction, including the purchase of materials and equipment, and all incidental expenses for wages of watchmen and other laborers employed for such work in the central offices and field storehouses before the beginning of such period: _Provided,_ That the number of such laborers shall not be increased over the number hired when the project or projects were commenced; and
+
+d. Emergency work necessitated by the occurrence of a public calamity within the forty-five-day period, but such work shall be limited to the restoration of the damaged facility and shall further be limited to funds available for maintenance.
+
+## Section 6
+
+_Recognition of Civic Organizations in the Prosecution of Community Improvement Projects._ —Whenever the appropriation amounting to not more than fifteen thousand pesos for any project authorized in this Act or in any previous Public Works Acts is released and made available for expenditure, wholly or partly, such project shall be undertaken by Administration, the provisions of existing laws or regulations to the contrary notwithstanding.
+
+When any such project does not require complicated methods or highly specialized techniques it may be awarded through a negotiated contract to the most concerned Civic Organization in the locality which has filed an application therefor in the manner herein provided. The application shall be filed by the organization concerned with the District Engineer or his official counterpart as the case may be specifying, among other things the payment to be received for the work. After evaluating the offer and the terms proposed by comparing them with the corresponding program of work and estimate, the project may be awarded by the official concerned to the applicant through a negotiated contract for an amount not to exceed eighty-five percent of the cost of the work as originally estimated and programmed pursuant to section ten of this Act. In case two or more Civic Organizations offer to undertake the project, the official concerned shall award the contract to the organizations offering the lowest quotation, determined by sealed bidding to be opened in the Municipal Building of the Municipality where the project is located within ten days, but not earlier than seven days, after notice of such bidding is posted on the Public Bulletin Board of said municipality.
+
+The authority of the District Engineer or his official counterpart to undertake any work by administration or through negotiated contract as herein provided for shall be deemed to have been duly secured upon receipt by the Provincial or City Auditor of the official advice to the head of the Bureau or office concerned to so prosecute the work.
+
+Under no circumstances shall the provisions of this section be construed to deprive the District Engineer or his official counterpart as the case may be, of his supervisory control over any of the projects referred to in this section nor to relieve him of any responsibility, administrative or otherwise, for any defect in procedure, control or technical surveillance, resulting in waste of money, destruction of, or damage to, property or lowering of engineering standards. In cases where the work is undertaken through negotiated contract with a civic organization the District Engineer, or his official counterpart, may not charge any expense for inspection by him or his assistant but he may designate as his representative and assign to the project as worker-inspector any competent craftsman whose compensation and travel expenses for the duration of the assignment shall be chargeable against the funds of the project but not against the contract and shall not exceed one percent of the contract price. The District Engineer or his official counterpart, may make any other suitable arrangement to enable him to maintain supervisory control over the project without however exceeding the compensation-limitation herein imposed.
+
+## Section 7
+
+No surcharge of any kind shall be imposed upon the appropriations provided in this Act as well as in previous Public Works Acts nor upon the expenditures thereof, the provisions of existing law or regulations to the contrary notwithstanding: _Provided,_ That the Secretary of Public Works and Communications may supplement the administrative requirements of Districts and City offices out of appropriations provided under _Title_ I of section one of this Act.
+
+Expenses of engineering supervision and field management shall be charged directly against the funds of any project under prosecution when performed by personnel assigned officially thereto by special order of the Chief of office concerned but in no case shall the total of such charges against any project exceed four percent of the estimated cost of the project as shown in the approved program of work: _Provided,_ That this provision shall not apply to the contracts covered by section six of this Act.
+
+## Section 8
+
+_Rental of equipments._ —Rental of equipment shall not be deducted at the time of the release of funds for public works but shall be paid by the Highway District Engineer based on actual use of equipment: _Provided,_ That no rental shall be charged or collected for use of equipment on any project authorized under this Act or under previous Public Works Acts undertaken by administration.
+
+## Section 9
+
+_Program of Work Required before Prosecuting Public Works._ —Before prosecuting any public works, the district, city or project engineer concerned shall prepare a program of work which shall include among other things the total cost of materials and labor required, the anticipated duration of the work in men-days, the margin of contingencies above his estimates if the work is to be undertaken by administration, and in addition, an estimate of what he deems as a reasonable profit for the contractor if the Work is to be undertaken by contract. In no case, however, may this margin of contingencies be more than ten percent of the cost of the work nor the allowance for profit be more than fifteen percent. For work being undertaken by administration; the engineer concerned may, however, be allowed to submit a revised program of work before the completion of the project if, due to unforeseen rise in price of materials or to changes in field conditions or to other such circumstances, it becomes evident that the allowance for contingencies is not sufficient to absorb the increase and, therefore, he cannot successfully accomplish the work according to his original program. With the exception of projects the estimated cost of which is ten thousand pesos or less, under no circumstance shall the district or city engineer start work without first securing approval of said program from the Head of the Bureau concerned or from the latter's representative, not lower in rank than that of a Division Engineer, and no program or work for individual projects requiring special site investigation, survey and the preparation of construction plans based thereon shall be approved unless such plans are made the basis of the program. The Auditor General or his authorized representative shall have access to the program of work or data required in this section.
+
+## Section 10
+
+_Purchase of Project Sites Included in Appropriations._ —Any appropriation herein authorized for any construction project shall be understood as including the acquisition or purchase of sites, if such acquisition or purchase is necessary for the prosecution and completion of the project.
+
+## Section 11
+
+_Prohibition in Use of Sums Appropriated Herein._ —No appropriation herein authorized shall be used to pay obligations or overdrafts previously incurred, nor be made available for the purchase of office equipment, supplies and automobiles or station wagons, nor be used to pay salaries of employees except those directly engaged in the work or assigned officially to projects and as specifically provided in _Title_ I, section one of this Act: _Provided,_ That the rates of compensation shall not be higher than those authorized under the General Appropriation Act for the same rank or position in the Bureau concerned.
+
+## Section 12
+
+_Payment of Labor and Readjustment of Contracts._ —All contracts for the furnishing of materials or supplies and for the construction of any project authorized in this Act as well as in any previous public works Acts executed by any person, association or corporation with the government shall contain provisions adequately covering the following:
+
+a. The contractor shall provide and have on hand every payday, in addition to the usual requirement of cash outlay for the prosecution of the contract work, a labor fund in an amount sufficient to cover each fifteen-day labor payroll for the project and payment to the laborers and employees shall be made within three days after the end of every pay period. Payment of wages and salaries to laborers and employees engaged in the project shall be witnessed by the engineer incharge of the work or his representatives, who shall certify to such payment. Upon failure of the contractor to pay his laborers and employees within the period herein stated the government shall forthwith make such payment, out of the funds of the project, in which case the sum paid out plus a surcharge of one percent shall be deducted from any amount due or to become due the contractor without prejudice to the right of the government to rescind the contract.
+
+b. Should the government, any time during the effectivity of a contract, impose, abolish, modify any tax, custom duties, license, impost, fee or other similar charges, or enact, amend or repeal any law affecting the number of hours of labor permissible a day or the number of days a week or the wages or salaries to be paid to laborers and employees, which would directly increase or decrease the cost of materials or the cost of the construction work beyond or under the amount stipulated in the contract, the contract amount shall be readjusted accordingly by a committee, hereby created for this purpose composed of the Auditor General as Chairman, the Secretary of Public Works and Communications and the Commissioner of the Budget as members: _Provided,_ That the party seeking adjustment shall first apply for same in writing, stating therein the reasons justifying the change as well as the data and computations in sufficient detail which would determine accurately the amount of the change.
+
+## Section 13
+
+_Status of Five-Year Capital Improvement Program._ —The outline of the Five-Year Capital Improvement Program and Estimates annexed hereto as Appendix A is hereby approved and shall serve as the official guide of the proper Department Head in undertaking construction, investigation, survey, and preliminary studies, including design and preparation of final estimates, plans and specifications that may be performed in advance with funds authorized under subtitle (a) of _Title_ I of section one of this Act; in determining special fund allocations; and for future recommendation for the implementation of public works projects programmed thereunder for subsequent years.
+
+## Section 14
+
+_Reports._ —Thirty days before the opening day of every regular session of Congress, the proper Department Head shall make a report to both Houses of Congress and to the President, in .printed and bound form, which shall include a detailed statement of the work done, final estimates of cost for completion and status of each individual project, including project sites and right-of-way acquired, tolls collected, and amortizations paid on loans for project funds made available during the fiscal year against the sums appropriated under this Act, and the unexpended balances and unreleased portions of said appropriations as of date of said report, including a statement to the extent of the relief to unemployment effected by the prosecution of public works during the year and a summary of performance by classes of public works indicating in such summary the percentage of work accomplished and work yet to be done to accomplish the program, together with his recommendations, if any, for transfer of appropriations or for program changes to be incorporated in the next Public Works Appropriation Act to be enacted during the ensuing session of Congress.
+
+## Section 15
+
+_Public Works Appropriations under this Act are National Disbursing Funds; Exceptions._ —Any provision of existing law to the contrary notwithstanding, all funds appropriated under the provisions of this Act shall when released, be carried in the account books of the treasurers as national disbursing funds and all the projects herein specified are classified as national projects unless such funds are appropriated specifically as aid to the provinces, chartered cities and municipalities, as the case may be: _Provided,_ That provincial funds allocated as counterpart shall not be considered as national funds: _Provided,_ That all projects in the City of Manila financed by national funds shall be undertaken by the Bureau of Public Works or the Bureau of Public Highways, as the case may be, the provisions of any law or the city charter to the contrary notwithstanding.
+
+## Section 16
+
+_Release of project funds._ —Upon request of the department head concerned, the sums appropriated for community and nation-wide selected projects authorized in section two of this Act as well as those under subsections (f) and (g) of section two of Republic Act Numbered Sixteen hundred thirteen and those for long-range projects under section one of both Acts already started and continuing in character, including those under _Title_ I, Miscellaneous, shall be released by the Commissioner of the Budget in lump sums, partially or wholly, to the department concerned ahead of other authorized appropriations, except those for the ordinary operation of the national government: _Provided,_ That appropriations released for subsection (f) pursuant to the provisions of this section shall be prorated to all congressional districts and made available simultaneously.
+
+## Section 17
+
+_Preference to local labor._ —In the execution and construction of community projects and of school projects as provided for in Republic Act Numbered Eight hundred thirty-six, preference shall be given to laborers from the place or municipality where the public work is being undertaken.
+
+## Section 18
+
+_Use of excess funds in school building appropriations._ —Whenever any school building project is completed and a balance of appropriation remains, the district or city engineer as the case may be, may use such balance for the purchase or acquisition of essential school equipment or for any urgent improvement work within the school premises. The provisions of this section shall apply to appropriations under all Public Works Acts.1a⍵⍴h!1
+
+## Section 19
+
+_Penalty._ —Any violation of any provision of Section five of this Act shall be a crime punishable with imprisonment from two to six years and a fine from five hundred to five thousand pesos; if the offender is a public officer or employee, he shall in addition to the above penalty be dismissed from the service with prejudice to reinstatement and deprived of all retirement benefits and privileges.
+
+## Section 20
+
+This Act shall take effect upon its approval.
+
+Approved, June 22, 1957, except Sections 7 and 8.

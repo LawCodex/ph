@@ -1,0 +1,65 @@
+---
+title: "Republic Act No. 541 — An Act to Provide Life Pensions for Uniformed Officers, Sergeants, Corporals, Patrolmen and Detectives of the Police Department as Well as Uniformed Officers and Firemen of the Fire Department of the Chartered Cities; to Appropriate Funds Therefor; and to Regulate the Disbursement of Said Funds"
+identifier: "Republic Act No. 541"
+number: "541"
+type: act
+jurisdiction: ph
+language: en
+date: 1950-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1950/ra_541_1950.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 541
+
+**An Act to Provide Life Pensions for Uniformed Officers, Sergeants, Corporals, Patrolmen and Detectives of the Police Department as Well as Uniformed Officers and Firemen of the Fire Department of the Chartered Cities; to Appropriate Funds Therefor; and to Regulate the Disbursement of Said Funds**
+
+[ REPUBLIC ACT NO. 541, June 17, 1950 ]
+
+AN ACT TO PROVIDE LIFE PENSIONS FOR UNIFORMED OFFICERS, SERGEANTS, CORPORALS, PATROLMEN AND DETECTIVES OF THE POLICE DEPARTMENT AS WELL AS UNIFORMED OFFICERS AND FIREMEN OF THE FIRE DEPARTMENT OF THE CHARTERED CITIES; TO APPROPRIATE FUNDS THEREFOR; AND TO REGULATE THE DISBURSEMENT OF SAID FUNDS.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Effective upon the date of the approval of this Act, all uniformed officers, sergeants, corporals, patrolmen and detectives of the Police Department, as well as the uniformed officers and firemen of the Fire Department of any Chartered City, who have on that day or who shall have on any date thereafter rendered at least twenty years of continuous and satisfactory service in the Police Department or Fire Department, as the case may be, or have met other requirements as provided in section three hereof, shall be eligible for life pension under this Act.
+
+## Section 2
+
+Any uniformed officer, sergeant, corporal, patrolmen or detective of the Police Department, or any uniformed officer or firemen of the Fire Department who has had twenty or more years of continuous and satisfactory service, may take advantage of the benefits of this Act and retire from active service, upon approval by the President of the Philippines, and when so retired, he shall deceive until his death a monthly pension, in accordance with the rate of schedule established in section three hereof: _Provided,_ That upon the death of the uniformed officer, sergeant, corporal, patrolman or detective of the Police Department, or the uniformed officer or fireman of the Fire Department who has either been retired or would at the time of his death, be entitled by reason of service to the retirement or pension benefits provided for in this Act, his surviving spouse, legitimate, acknowledged or illegitimate minor children in equal shares shall be entitled to the full benefits of this Act; and, in case he left no minor children, the surviving spouse shall be entitled to receive only fifty per centum of the pension to which such uniformed officer, sergeant, corporal, patrolman or detective of the Police Department, or uniformed officer or fireman of the Fire Department would have been entitled if he had not died: _Provided,_ further, That no payment shall be made as pension to children after they have all attained the age of twenty-one years or have married, nor to the surviving spouse if remarried.
+
+## Section 3
+
+For the purpose of determining the amount of annuity or pension which a retired uniformed officer, sergeant, corporal, patrolman or detective of the Police Department, or a uniformed officer or fireman of the Fire Department shall receive, the following classified rates shall be established upon the basis, on the date of the retirement, of the highest basic annual salary or compensation received while in the service by the retired uniformed officer, sergeant, corporal, patrolman or detective of the Police Department, or the uniformed officer or fireman of the Fire Department, as the case may be. That the monthly annuity or pension as computed under this Act shall be equal to two and one-half per centum of the monthly basic pay of the highest recognized rank, grade, or rating, whether on a permanent or temporary appointment, satisfactorily held by such member multiplied by the number of years of active service creditable to him: _Provided,_ That for the purpose of the computation of the above, fractions one-half year or more of active service shall be counted as a whole year: _Provided,_ That any uniformed officer, sergeant, corporal, patrolman or detective of the Police Department, or uniformed officer or fireman of the Fire Department who on account of physical or total mental disability incurred in line of duty and not due to vicious or immoral habits is unable to perform or to discharge his regular duties or dies in line of duty, he or his heirs as established in section two hereof, shall receive an annuity or pension on the following schedule of rate: For death incurred in line of duty, legitimate, acknowledged illegitimate minor children and/or the surviving spouse shall receive as annuity or life pension the equivalent of fifty per centum of the highest basic annual salary received by the deceased while in the service, in the same proportion mentioned in section two, subject to the limitations of said section as to age and marriage, for the loss or total incapacity of two arms or two legs, two eyes or one leg and one arm, and for insanity or total mental disability or for other incurable diseases not due to vicious or immoral habits which will prevent him from continuing in active service, he shall receive an annuity or life pension equivalent to fifty per centum of his highest basic annual salary; for the loss of one leg or one arm, he shall receive an annuity or pension equivalent to twenty-five per centum of his highest basic annual salary while in the service.
+
+## Section 4
+
+There shall be created a pension board in each and every Chartered City to be composed of the City Mayor, as Chairman, and a member of the Municipal Board who shall be designated by that body, the City Treasurer, the City Auditor, the Chief of Police and the Chief of the Fire Department for the purpose of passing upon the qualifications of the applicants. A majority of the members of the Board shall constitute a quorum to do business, and the affirmative votes of three of its members is at least necessary to approve or disapprove an application. The decision of the Board shall be final unless appealed to the Secretary of the Interior within a period of three months from the receipt of such decision.
+
+That for the purpose of this Act and to secure uniformity, the Department of the Interior shall cause to prepare such rules and regulations and the necessary forms which shall have a mandatory effect.
+
+## Section 5
+
+To carry out the purpose of this Act there shall be appropriated in the appropriation ordinance each year of the different Chartered Cities, beginning with the year of the approval of this Act, the sum of not less than five thousand pesos which shall be added to the total appropriation for the Police and Fire Departments and said sum shall be credited to item Police and Fire pension fund and said funds are hereby set aside for the payments of pension to the persons entitled to the benefits of this Act.ℒαwρhi৷
+
+That for the City of Manila, however, the sum of not less than one hundred thousand pesos shall be added to the total appropriation for the Manila Police and Fire Departments and credited to the Manila Police and Fire pension fund.
+
+## Section 6
+
+All pensions approved and granted under this Act shall be paid monthly by government warrant or other means which will guarantee safe delivery with no reduction in the pension for exchange or for transmitting the same. Pensioners re-employed in the government service and receiving salary, pay or compensation for services rendered as an employee of any branch of the Government including cities, municipalities and provinces in the Philippines, shall have the pension discontinued for such period of employment in each case where the pay, salary or compensation is equal to or greater than fifty per centum of the pension received under the provisions of this Act.
+
+## Section 7
+
+All eligibles who have attained the age of sixty years and have rendered at least twenty years of continuous and satisfactory service as provided under the provisions of this Act shall have the retirement made compulsory, except when the person concerned requests to remain in the service and the Chief of Police or the Chief of the Fire Department, as the case may be, specifically recommends favorable action, because of his physical capacity to perform the work.
+
+## Section 8
+
+Upon approval of this Act, any person entitled to its benefits and who is already insured with the Govern men Service Insurance System, is given the option to continue such insurance: _Provided,_ That he will assume payment of the premium of the said insurance including the contribution of the Government: _Provided,_ further, That his contribution to the pension fund under this Act be made compulsory and any deduction made from his monthly pay salary be noted in the monthly or semi-monthly payrolls of the Police Department or the Fire Department, as the case may be: And provided, lastly, That no person entitled to the benefit of this Act shall be entitled to any benefit provided for in other Acts.
+
+## Section 9
+
+This Act shall take effect on its approval.
+
+Approved, June 17, 1950.

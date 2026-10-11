@@ -1,0 +1,83 @@
+---
+title: "Republic Act No. 4643 — An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled \"An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor\""
+identifier: "Republic Act No. 4643"
+number: "4643"
+type: act
+jurisdiction: ph
+language: en
+date: 1966-03-08
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1966/ra_4643_1966.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1966/pdf/ra_4643_1966.pdf"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4643
+
+**An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled "An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor"**
+
+**REPUBLIC ACT No. 4643**
+
+An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled "An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor"
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section one of Republic Act Numbered Three thousand four hundred fifty-two, is hereby amended to read as follows:
+
+"Sec. 1. It is hereby declared to be the policy of the Government that in order to stabilize the price of palay, rice and corn, it shall engage in the purchase of these basic foods, through a system of payment against warehouse receipt or quedan from those tenants, farmers, growers, producers and landowners in the Philippines who wish to dispose of their produce at a price that will afford them a fair and just return for their labor and capital investment, and whenever circumstances brought about by any cause, natural or artificial, should so require, shall sell and dispose of these commodities to the consumers at areas of consumption at a price that is within their reach.
+
+"Under the system of payment against warehouse receipt or quedan, any bonded warehouseman licensed under the General Bonded Warehouse Law (Act No. 3893), as amended, who, after proper application with the Administration and approval of his credit standing by an Administration-designated bank, is appointed as an RCA bonded warehouseman shall immediately accept for deposit palay or corn which shall be purchased by the Administration from the above-named producers.1avvphi1 The producer will then be issued a warehouse receipt or quedan immediately which will embody within its written or printed forms the essential terms required by the Warehouse Receipt Law (Act No. 2137). Upon presentation of the said quedan or receipt to any RCA designated bank it shall be paid immediately by the latter in its full face value at the price fixed by the Administration.
+
+"In designating banks and determining the amount of money to be deposited therewith for the purpose of paying rice or corn sold to the Administration, the latter shall consider the financial standing of such banks as certified to by the Central Bank: _Provided,_ That only Filipino banks shall be designated as RCA banks."
+
+## Section 2
+
+Section eight of the same Act is hereby amended to read as follows:
+
+"Sec. 8. To enable the rice and/or corn growers, producers and landowners, including the small farmers and tenants to avail of the benefits of this Act, the Administration or any of its agencies must buy at the price that will afford producers a fair and just return for their labor and capital investment as hereunder provided:
+
+"1. For each cavan of clean and dry palay of ordinary variety as classified by the Administration weighing forty-six kilos gross, F.O.B. nearest Rice and Corn Administration center or RCA designated bonded warehouse, at prices to be determined by the Board of Administrators for the various rice producing regions taking into consideration the varying costs of production obtaining therein, which prices shall not be less than ₱16.00: _Provided,_ That the floor prices established by the RCA, by crop regions, shall be announced two months before the regular rice planting season and that said floor prices shall be good for one year: _Provided, further,_ That in the absence of any qualified bonded warehouseman or space in said bonded warehouses, the Rice and Corn Administration shall start to purchase palay immediately at the beginning of every harvest and for this purpose shall send its men and facilities to the places of harvest where the farmers could directly sell their harvested palay: _Provided,_ furthermore, That it shall be prohibited for any person to sell or offer to sell to the Administration any palay other than that directly produced by him as farmer or tenant or his share as landowner and such act shall be punished in accordance with section fifteen of this Act: _Provided, finally,_ That any RCA official or employee who shall knowingly buy such palay for the RCA shall be subject to the same penalty;
+
+"2. For each cavan of corn of fifty-six kilos, F.O.B., nearest Rice and Corn Administration center or RCA designated bonded warehouse, at prices to be determined by the Board of Administrators for the various corn producing regions taking into consideration the varying costs of production obtaining therein, which prices shall not be less than ₱13.00: _Provided,_ That such prices shall be announced not later than April fifteen for the year 1966 and thereafter, not later than January fifteen every year;
+
+"3. For both rice and corn, a farmer or tenant to be entitled to sell to the Administration must first certify his total production for the year; and farmers and tenants with production of not more than one hundred cavanes are entitled to priorities and those whose total production exceeds one hundred cavanes shall be entitled to sell not more than thirty (30%) per cent of the excess of the one hundred cavanes.
+
+"The Administration shall announce any charges in the floor price for palay and the ceiling price for rice and corn at least two months before the regular rice and corn planting season, which announcement shall be given as wide a publicity as possible."
+
+## Section 3
+
+Section nine of the same Act is hereby amended to read as follows:
+
+"Sec. 9. In order to afford the consumers adequate supply of rice and corn at minimum prices, the Administration is directed to sell the rice recovered from the palay purchased by it and the corn grits through retailers or dealers duty licensed by the Rice and Corn Board, through the Barrio Councils, and in chartered cities or other places where there are neither RICOB registered retailers nor Barrio Councils, through retailers appointed by the RCA upon recommendation of the Municipal Treasurers, at retail prices to be determined by the Board of Administrators which shall not be less than one peso nor more than one peso and forty centavos per ganta for rice and not less than forty centavos nor more than eighty centavos for corn grits or thirty centavos per kilo for corn grain: _Provided,_ That the Administration shall sell rice and/or corn in regions, areas, or provinces affected by government purchase of such commodities at the time it is buying same at prices stated heretofore."
+
+## Section 4
+
+Section 10 of the same Act is hereby amended to read as follows:
+
+"Sec. 10. The Administration shall coordinate, supervise, direct and control the activities of all existing governmental agencies; provide incentives to farmers, growers and producers; acquire adequate motor vehicles to be used in the procurement and distribution of rice, corn and palay: _Provided,_ However, That the acquisition of motor vehicles shall be done by public bidding: _Provided, further,_ That the offer at such public bidding shall in no case be more than the market price of such vehicles; and issue rules and regulations as may be necessary to carry out the purposes of this Act or effectively implement and execute the rice and corn program."
+
+"Sec. 10-A. The Rice and Corn Administration may import rice and corn from the best available source or through private parties, after public bidding with sealed bids, unless the importation be on a government to government contract, free from taxes, duties and/or special charges when all the following conditions exist as verified by the National Economic Council upon consultation with the Department of Agriculture and Natural Resources: (1) an existing or imminent shortage in the local supply of the above-mentioned commodities of such gravity as to constitute a national emergency; (2) there is no available local supply which can be purchased by the Administration; (3) the Rice and Corn Administration does not have sufficient buffer stocks to properly stabilize the price; and (4) the total quantity of cereal to be imported shall not exceed the amounts necessary to cover the certified shortage: _Provided,_ That the said imported cereal shall be sold at prices provided herein for local rice and corn. The Rice importation authorized under this Act shall be sold by the RCA through retailers or dealers duly licensed by the Rice and Corn Board, through the barrio councils, and in chartered cities or other places where there are neither RICOB registered retailers nor Barrio Councils, through retailers appointed by the RCA upon recommendation of the Municipal Treasurers: _Provided, further,_ That any proceeds, if the importation is under U.S. Act No. 480 and/or savings, or profits generated by the Rice and Corn Administration in undertaking said importations shall be used exclusively for the development of the local Rice and Corn Industries as allocated by the RCA, in consultation with the National Economic Council and the Department of Agriculture and Natural Resources: _Provided,_ furthermore, That such proceeds, savings or profits shall be reported to Congress before the beginning of every regular session."
+
+## Section 5
+
+The RCA Board is hereby authorized to issue rules and regulations not inconsistent with the provisions of this Act to carry into effect the provisions of this law.
+
+## Section 6
+
+Section fifteen of the same Act is hereby amended to read as follows:
+
+"Sec. 15. Any person who shall violate any provision of this Act or any rule and regulation promulgated pursuant thereto shall be punished by a fine of not less than two thousand pesos nor more than ten thousand pesos and imprisonment of not less than five (5) months nor more than five (5) years. If the offender is a public official and/or employee, he shall, in addition, suffer perpetual disqualification to hold public office.
+
+## Section 7
+
+_Repealing Clause.—_ All Acts, executive orders, proclamations and regulations and parts thereof which are inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 8
+
+_Effectivity.—_ This Act shall take effect upon its approval.
+
+Approved: March 8, 1966.

@@ -1,0 +1,41 @@
+---
+title: "Republic Act No. 5511 — An Act Creating the Municipality of Bingawan in the Province of Iloilo"
+identifier: "Republic Act No. 5511"
+number: "5511"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5511_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5511
+
+**An Act Creating the Municipality of Bingawan in the Province of Iloilo**
+
+[ REPUBLIC ACT NO. 5511, June 21, 1969 ]
+
+AN ACT CREATING THE MUNICIPALITY OF BINGAWAN IN THE PROVINCE OF ILOILO.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+Barrios Bingawan, Alabidhan, Quinang-yana, Inamyungan, Malitbog Ilauod, Malitbog Ilaya, Guin-hulacan, Quinarupan, Cairohan, Tubod, Tapacon, Agbao, Bulabog and Ngi-ngi-an In the Municipality of Calinog, Province of Iloilo, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Bingawan, same province. The seat of government of the new municipal­ity shall be in the present site of Barrio Bingawan.
+
+## Section 2
+
+The first mayor, vice-mayor and councilors of new municipality shall be elected in a special elections of nineteen hundred and sixty-nine: _Provided,_ That in said election of the first officials the corresponding officials of the mother municipality shall perform the election duties prescribed or provided by the Revised Election Code.
+
+## Section 3
+
+For purposes of coordination and better administration, a new Supervising District with seat in the Municipality of Bingawan shall be created and shall exercise supervision over all the schools only within the jurisdiction of the new Municipality of Bingawan.
+
+## Section 4
+
+This Act shall take effect upon its approval.
+
+Approved, June 21, 1969.

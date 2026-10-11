@@ -1,0 +1,37 @@
+---
+title: "Republic Act No. 5759 — An Act Establishing a Teachers College in the Municipality of Nabunturan, Province of Davao, to Be Known as Eastern Mindanao Teachers College, and Authorizing the Appropriation of Funds Therefor"
+identifier: "Republic Act No. 5759"
+number: "5759"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5759_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5759
+
+**An Act Establishing a Teachers College in the Municipality of Nabunturan, Province of Davao, to Be Known as Eastern Mindanao Teachers College, and Authorizing the Appropriation of Funds Therefor**
+
+[ REPUBLIC ACT NO. 5759, June 21, 1969 ]
+
+AN ACT ESTABLISHING A TEACHERS COLLEGE IN THE MUNICIPALITY OF NABUNTURAN, PROVINCE OF DAVAO, TO BE KNOWN AS EASTERN MINDANAO TEACHERS COLLEGE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+There shall be established, under the supervision of the Director of Public Schools, a teachers college in the Municipality of Nabunturan, Province of Davao, to be known as Eastern Mindanao Teachers College, which shall offer such collegiate courses in teacher education as the Director may determine.1a⍵⍴h!1
+
+## Section 2
+
+The sum of six hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said college for the fiscal year nineteen hundred seventy. Thereafter, the sum necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Enacted without Executive approval, June 21, 1969.

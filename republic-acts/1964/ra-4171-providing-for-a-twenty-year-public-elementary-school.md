@@ -1,0 +1,72 @@
+---
+title: "Republic Act No. 4171 — An Act Providing for a Twenty-Year Public Elementary School Building Construction Program, Appropriating and Authorizing the Appropriation of Funds Therefor, and for Other Purposes"
+identifier: "Republic Act No. 4171"
+number: "4171"
+type: act
+jurisdiction: ph
+language: en
+date: 1964-09-13
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1964/ra_4171_1964.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1964/pdf/ra_4xxx_1964.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4171
+
+**An Act Providing for a Twenty-Year Public Elementary School Building Construction Program, Appropriating and Authorizing the Appropriation of Funds Therefor, and for Other Purposes**
+
+**REPUBLIC ACT No. 4171**
+
+**An Act Providing for a Twenty-Year Public Elementary School Building Construction Program, Appropriating and Authorizing the Appropriation of Funds Therefor, and for Other Purposes**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+The sum of fifty million pesos is hereby appropriated for the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five, and similar amount is authorized to be appropriated annually thereafter for the succeeding nineteen years, out of any funds in the National Treasury not otherwise appropriated, and such authorization of funds shall be reflected in the President’s budget, to carry out a twenty-year public elementary school construction program. Of the amount of fifty million pesos appropriated for the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five, the sum of six million pesos shall be made available for the repair, reconstruction, and improvement of existing public elementary school buildings, and shall be released as herein after provided in Section three of this Act.
+
+## Section 2
+
+There is hereby created a committee to be composed of the Secretary of Education, as chairman, and the Secretary of Public Works and Communications and the Secretary of Finance as members, which shall adopt a twenty-year public elementary school building program covering all municipalities and cities throughout the country to provide adequate permanent and semi-permanent public elementary school buildings to house the growing school population of the country.
+
+The said committee shall cause the preparation of plans and specifications for standardized public elementary school buildings, one type for urban communities and another type for rural communities, taking into consideration functionality, economy without sacrificing strength and durability, and aesthetics; and incorporating plans for landscaping.
+
+## Section 3
+
+The Secretary of Education shall determine the allocation and distribution of the funds appropriated and authorized to be appropriated under this Act among the congressional districts on the basis of a sworn statement of the division superintendent concerned of the number of public elementary school pupils not housed in permanent or semi-permanent public elementary school buildings in each congressional district in relation to the total number of such pupils in the entire country during the preceding fiscal year: _Provided,_ That releases of the appropriation herein provided shall be made for projects in any congressional district only upon recommendation of the congressman in the district concerned and in case there is no congressman for a particular district, then upon the recommendation of the former immediately preceding incumbent congressman and in his absence, of the governor of province: And _Provided, further,_ That no releases shall be made unless they are made simultaneously proportionate for like projects in all congressional districts.
+
+## Section 4
+
+Any provision of law to the contrary notwithstanding, projects allocated funds under the provisions hereof shall be executed through public bidding in accordance with the usual contract procedures of the Bureau of Public Works insofar as they are inconsistent herewith, either on the execution of projects on a national scale or in a the particular province or city. If there are no bidders or if the projects can be executed at a reasonably lower rate than the most advantageous bid, such projects shall be executed by administration.
+
+## Section 5
+
+The engineering surcharge for any project allocated funds under this Act shall not exceed two per centum of the actual cost thereof, which surcharge shall cover all the expenses for inspection, checking of materials and incidental office expenses in connection with the preparation of estimates and contract documents.
+
+## Section 6
+
+The building herein referred to shall be erected only on lands exclusively owned by the city, municipality or National Government or which shall be donated or purchased for school site: _Provided,_ That the title thereto shall in each case be registered in accordance with the land registration law in force but the Secretary of Education may authorize the beginning of the construction work upon mere filing of an application for the registration thereof.
+
+## Section 7
+
+All unexpended balance, after the completion of the work authorized under this Act, shall at once revert to the National Treasury to the credit of the appropriation provided for in this act and shall not be withdrawn from it nor expended except for the purpose indicated herein. Such unexpended balance for any fiscal year shall be added to the appropriation for the next fiscal year and expended during that fiscal year.
+
+## Section 8
+
+It shall be unlawful for any public officer or employee to allocate, distribute, or release the funds for the construction of public elementary school buildings authorized under this Act in violation of Section three hereof.1âшphi1 Any public officer or employee violating any of the provisions of this section shall be punished by imprisonment for not more than one year and a fine of not more than five hundred pesos.
+
+## Section 9
+
+This act shall be subject to sections six, eight, nine, ten, twelve, fourteen, fifteen and sixteen of Republic Act Numbered Thirty-eight hundred and forty-six, entitled "An Act appropriating funds for public works synchronizing the same with previous public works appropriations."
+
+## Section 10
+
+In case any sections or parts of this Act of the application thereof to any person or circumstances is declared unconstitutional, the other sections or parts thereof or is application to any person or circumstances shall not be affected thereby.
+
+## Section 11
+
+This Act shall take effect upon its approval.
+
+Approved: September 13, 1964.

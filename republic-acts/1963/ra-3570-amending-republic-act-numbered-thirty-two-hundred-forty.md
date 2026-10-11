@@ -1,0 +1,42 @@
+---
+title: "Republic Act No. 3570 — An Act Amending Republic Act Numbered Thirty-Two Hundred Forty Seven, Entitled “An Act Granting the Cagayan Electric Power and Light Co., Inc. a Franchise to Install, Operate, and Maintain an Electric Light, Heat and Power System in the City of Cagayan De Oro and its Suburbs”"
+identifier: "Republic Act No. 3570"
+number: "3570"
+type: act
+jurisdiction: ph
+language: en
+date: 1963-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1963/ra_3570_1963.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 3570
+
+**An Act Amending Republic Act Numbered Thirty-Two Hundred Forty Seven, Entitled “An Act Granting the Cagayan Electric Power and Light Co., Inc. a Franchise to Install, Operate, and Maintain an Electric Light, Heat and Power System in the City of Cagayan De Oro and its Suburbs”**
+
+**REPUBLIC ACT No. 3570**
+
+AN ACT AMENDING REPUBLIC ACT NUMBERED THIRTY-TWO HUNDRED FORTY SEVEN, ENTITLED "AN ACT GRANTING THE CAGAYAN ELECTRIC POWER AND LIGHT CO., INC., A FRANCHISE TO INSTALL, OPERATE, AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN THE CITY OF CAGAYAN DE ORO AND ITS SUBURBS"
+
+## Section 1
+
+Sections one and three of Republic Act Numbered Thirty-two hundred forty-seven is hereby amended to read as follows:
+
+"Sec. 1. Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to the Cagayan Electric Power and Light Co., Inc., a corporation duly organized and existing under the laws of the Republic of the Philippines, for a period of fifty years from the date of approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and/or power for sale within the municipalities of Tagoloan and Opol, both in the Province of Misamis Oriental, and in the City of Cagayan de Oro and its suburbs. The grantee shall further have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places within said limits, poles, wires, transformers, capacitors, overhead protective devices, and pole line hardware, and other equipment necessary for the safe distribution of electric current to the public.
+
+"Sec. 3. In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to three per centum of the gross earnings for electric current sold under this franchise, of which two per centum goes into the National Treasury and one per centum goes into the treasury of the Municipality of Tagoloan, the Municipality of Opol, and Cagayan de Oro City, as the case may be: _Provided_ , That said franchise tax of three per centum of the gross earnings shall be in lieu of all taxes and assessments of whatever authority upon privileges, earnings, income, franchise, and poles, wires, transformers, and insulators of the grantee from which taxes and assessments the grantee is hereby expressly exempted."
+
+## Section 2
+
+The title of the same Act is hereby amended to read as follows:
+
+"An Act granting the Cagayan Electric Power and Light Co., Inc., a franchise to install, operate, and maintain an electric light, heat and power system in the municipalities of Tagoloan and Opol and in the City of Cagayan de Oro and its suburbs."
+
+## Section 3
+
+This Act shall take effect upon its approval.
+
+Approved: June 21, 1963

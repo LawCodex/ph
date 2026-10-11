@@ -1,0 +1,46 @@
+---
+title: "Republic Act No. 4571 — An Act Providing for the Establishment, Operation, and Maintenance of an Experimental Station and Pilot School of Cottage Industries in the Municipality of Pasig, Province of Rizal, to be Known as Rizal Experimental Station and Pilot School of Cottage Industries, and Authorizing the Appropriation of Funds Therefor"
+identifier: "Republic Act No. 4571"
+number: "4571"
+type: act
+jurisdiction: ph
+language: en
+date: 1965-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1965/ra_4571_1965.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1965/pdf/ra_4571_1965.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4571
+
+**An Act Providing for the Establishment, Operation, and Maintenance of an Experimental Station and Pilot School of Cottage Industries in the Municipality of Pasig, Province of Rizal, to be Known as Rizal Experimental Station and Pilot School of Cottage Industries, and Authorizing the Appropriation of Funds Therefor**
+
+**REPUBLIC ACT No. 4571**
+
+An Act Providing for the Establishment, Operation, and Maintenance of an Experimental Station and Pilot School of Cottage Industries in the Municipality of Pasig, Province of Rizal, to be Known as Rizal Experimental Station and Pilot School of Cottage Industries, and Authorizing the Appropriation of Funds Therefor
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+There shall be established, operated and maintained, under the supervision of the Director of Public Schools, an experimental station and pilot school of cottage industries in the Municipality of Pasig, Province of Rizal, at a suitable site to be selected by the said Director, to be known as Rizal Experimental Station and Pilot School of Cottage Industries.
+
+## Section 2
+
+The station and school shall make studies and conduct experiments on the different cottage industries, improve and perfect their techniques and methods, acquaint and familiarize the people with their potentialities, and provide professional, technical and specialized instruction and training in them.
+
+## Section 3
+
+The Secretary of Education and Secretary of Commerce and Industry shall jointly issue rules and regulations concerning the organization, administration, and government of the station and school, the different courses of study to be taught, school fees and teachers’ and other employees’ compensation and benefits, all matters regarding the station and school and, in general, for carrying out the provisions of this Act.
+
+## Section 4
+
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation, and maintenance of the station and school during the fiscal year nineteen hundred and sixty-five.1âшphi1 Thereafter, such sum as may be needed for the operation and maintenance of the station and school shall be included in the annual General Appropriations Act.
+
+## Section 5
+
+This Act shall take effect upon its approval.
+
+Approved: June 19, 1965.

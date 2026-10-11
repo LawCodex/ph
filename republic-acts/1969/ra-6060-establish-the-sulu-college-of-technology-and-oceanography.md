@@ -1,0 +1,54 @@
+---
+title: "Republic Act No. 6060 — An Act to Establish the Sulu College of Technology and Oceanography as a Unit of the Mindanao State University, Defining Its Objectives, Appropriating Funds Therefor, and for Other Purposes"
+identifier: "Republic Act No. 6060"
+number: "6060"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-08-04
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_6060_1969.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6060
+
+**An Act to Establish the Sulu College of Technology and Oceanography as a Unit of the Mindanao State University, Defining Its Objectives, Appropriating Funds Therefor, and for Other Purposes**
+
+[ REPUBLIC ACT NO. 6060, August 04, 1969 ]
+
+AN ACT TO ESTABLISH THE SULU COLLEGE OF TECHNOLOGY AND OCEANOGRAPHY AS A UNIT OF THE MINDANAO STATE UNIVERSITY, DEFINING ITS OBJECTIVES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+There is hereby established in southern Sulu a college to be known as the Sulu College of Technology and Oceanography which shall extend to the Muslims and other cultural minority groups the opportunities of college education and develop such other programs as will promote Muslim welfare and hasten the economic development of the southernmost region of the Philippines.
+
+## Section 2
+
+To achieve the foregoing objectives, the college shall develop academic programs for effective exploitation and conservation of the fisheries resources in the Sulu Seas and nearby waters, undertake researches in fish processing and culture, and in oceanography for increased understanding of the country's territorial waters, and adopt other programs and projects as may be necessary to promote the social and economic development of the people.
+
+## Section 3
+
+The said college shall operate as an integral unit of the Mindanao State University and its administration shall be vested in the Board of Regents of the said University in accordance with Republic Act Numbered Thirteen hundred and eighty-seven, as amended, otherwise known as the Charter of the Mindanao State University. In addition, three members of the Board, preferably from the Province of Sulu, shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments. Of the three to be initially appointed, the President shall designate one to serve for one year, one to serve for two years, and one to serve for three years. Thereafter, persons appointed to succeed such members shall hold office for a term of three years or until their successors are appointed. The additional three members shall attend meetings along with the other members of the Board of Regents and participate in its deliberations on matters affecting the College and in other items of the agenda that may affect, directly or indirectly the academic, administrative and financial operations of the College.
+
+## Section 4
+
+To carry out the program of research in oceanography, in fish processing and production, and in other related activities, including construction of laboratory buildings and other physical facilities, an _ad valorem_ duty of five _per centum_ , in addition to the existing duties, is hereby imposed and collected on prepared or preserved fish imported under Section 16.04, paragraphs A, B and C, and on crustaceans and mollusks imported under Section 16.05, paragraphs A and B, of the Tariff and Customs Code, as amended, beginning fiscal year nineteen hundred and seventy. The amount so collected is hereby automatically appropriated in favor of the Mindanao State University for the purpose provided in this section and the Collector of Customs shall remit the same to the Institution every quarter following the quarter in which the collection is made.
+
+## Section 5
+
+Upon request of the President of the University, the heads of appropriate offices and other instrumentalities of the Government may authorize the transfer of equipment and personnel to the College, under such arrangements as may be mutually agreed upon by the heads of these agencies.
+
+## Section 6
+
+The sum of one million pesos for operating expenses and five hundred thousand pesos for capital outlay is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, beginning fiscal year nineteen hundred and seventy and every fiscal year thereafter for the continuing support of the said College.1a⍵⍴h!1
+
+## Section 7
+
+This Act shall take effect upon its approval.1a⍵⍴h!1
+
+Approved, August 4, 1969.

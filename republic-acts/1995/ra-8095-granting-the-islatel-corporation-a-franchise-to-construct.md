@@ -1,0 +1,127 @@
+---
+title: "Republic Act No. 8095 — An Act Granting the Islatel Corporation a Franchise to Construct, Maintain, Establish and Operate Commercial Nationwide and Regional Transmission Network and Other Telephone Services in the Philippines"
+identifier: "Republic Act No. 8095"
+number: "8095"
+type: act
+jurisdiction: ph
+language: en
+date: 1995-07-07
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1995/ra_8095_1995.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1995/pdf/ra_8095_1995.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 8095
+
+**An Act Granting the Islatel Corporation a Franchise to Construct, Maintain, Establish and Operate Commercial Nationwide and Regional Transmission Network and Other Telephone Services in the Philippines**
+
+Nineth Congress  
+Third Regular Session
+
+[ REPUBLIC ACT No. 8095, July 06, 1995 ]
+
+AN ACT GRANTING THE ISLATEL CORPORATION A FRANCHISE TO CONSTRUCT, MAINTAIN, ESTABLISH AND OPERATE COMMERCIAL NATIONWIDE AND REGIONAL TRANSMISSION NETWORK AND OTHER TELEPHONE SERVICES IN THE PHILIPPINES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Islatel Corporation, hereunder referred to as the grantee, its successors or assigns, a franchise to engage in telecommunications services by installing, maintaining and operating telecommunications plants, exchanges, nationwide and/or regional transmission (backbone) network; terrestrial and microwave systems, lines, instruments, landlines; international and domestic undersea cables, stations, apparatus, telephone services; long distance toll services; international gateway facilities/services; traditional wireline telephone systems, whether domestic or international, whether directly or indirectly through networks; public calling offices (payphones); station or stations and associated equipment and facilities for international satellite communications, such ground facilities as needed to deliver telecommunications services from the communications satellite system and ground terminal or terminals and such ground facilities shall not duplicate existing facilities of domestic common carriers and grantee shall operate as a carrier's carrier; any and all types of telecommunications services available through the use of space relay and repeater stations for domestic public communications with authority to receive and transmit messages, impression, pictures, music, entertainment, advertising and signal throughout the Philippines and between the Philippines and ships at sea, airplanes and other conveyances; any and all kinds of equipment or maintenances for communications and the transmission of messages, data, video, pictures, impressions and signals; or any other means which hereafter be used for communications in their stead; and to install, maintain, operate or lease, in whole or in part, telephone lines and systems and all other systems and lines of communications, within the territory of the Philippines and with other countries and territories.
+
+## Section 2
+
+_Manner of Operation of Stations or Facilities._ \- The stations or facilities of the grantee shall be constructed and operated, and the wavelengths so selected in a manner as will at most result only in the minimum interference on the wavelengths or frequencies of the existing stations or other stations which may be established in accordance with law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as would maximize rendition of the grantee's services and/or the availability thereof.
+
+## Section 3
+
+_Prior Approval of the National Telecommunications Commission._ \- The grantee shall not exercise any right or privilege under this franchise without first having obtained such certificate of public convenience and necessity and such other permits or licenses from the National Telecommunications Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority, permits or licenses.
+
+## Section 4
+
+_Right of_ Grantee. - For the purpose of installing, operating and maintaining its telecommunications lines, it shall be lawful for the grantee, its successors or assigns, to make excavations or lay conduits in any of the public places, highways, streets, lanes, alleys, avenues, sidewalks, bridges of said provinces, cities, and municipalities: _Provided, however,_ That any public place, highway, street, lane, alley, avenue, sidewalk or bridge disturbed, altered or changed by reason of the installation, operation and maintenance of said telecommunications lines underground shall be repaired and replaced in a workmanlike manner by said grantee, its successors or assigns, to the satisfaction of the National Telecommunications Commission. Should the grantee, its successors or assigns, after thirty (30) days notice from the proper authority, fail, refuse or neglect to repair or replace any part of a public place, road, highway, street, lane, alley, avenue, sidewalk or bridge altered, changed or disturbed by said grantee, its successors or assigns, then the Secretary of Transportation and Communications shall have the right to have the same repaired and placed in good order and condition at the cost and expense of the grantee, its successors or assigns.
+
+## Section 5
+
+_Responsibility to the Public._ \- The grantee shall conform to the ethics of honest enterprise and shall not use its stations for obscene or indecent transmission or for dissemination of deliberately false information or willful misrepresentation, or assist in subversive or treasonable acts.
+
+## Section 6
+
+_Rates for Services._ \- The charges and rates for services, excluding the sale or lease of equipment or units, that the grantee shall offer to the public shall be subject to the approval of the National Telecommunications Commission or its legal successors.
+
+## Section 7
+
+_Right of Government._ \- The President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, may temporarily take over and operate the stations, transmitter systems, facilities and equipment of the grantee, to temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee for the use of said stations, transmitter systems, facilities and equipment during the period when they shall be so operated.
+
+## Section 8
+
+_Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) years from the date of approval of this Act, unless sooner revoked or cancelled. In the event the grantee fails to operate continuously for three (3) years, this franchise shall be deemed _ipso facto_ revoked.
+
+## Section 9
+
+_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing by the grantee within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
+
+## Section 10
+
+_Tax Provisions._ \- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay a franchise tax at such percentage as may be prescribed by law on all gross receipts of the business transacted under this franchise by the grantee and the said percentage shall be in lieu of all taxes on this franchise or earnings thereof: _Provided,_ that the grantee, its successors or assigns, shall continue to be liable for income taxes payable under _Title_ II of the National Internal Revenue Code.
+
+The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
+
+## Section 11
+
+_Gross Receipts._ \- The grantee, its successors or assigns, shall keep a separate account of the gross receipts of the business transacted by it and shall furnish the Commission on Audit and the national treasurer a copy of such account not later than the thirty-first (31st) day of January of each year for the preceding twelve (12) months.
+
+## Section 12
+
+_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns, shall always be open to the inspection of the Commissioner on Audit or his authorized representatives, and it shall be the duty of the grantee to submit to the Commission on Audit quarterly reports in duplicate showing the gross receipts and the net receipts for the past quarter and the general condition of the business.
+
+## Section 13
+
+_Importation of Capital Equipment._ \- From the date the National Telecommunications Commission first granted the original franchisee under R.A. No. 7372 a permit to purchase capital equipment, the grantee shall be allowed for a period of three (3) years therefrom, to import all its capital equipment, including its accessories and peripherals, and other equipment and facilities directly related to and associated with the services herein granted which shall be subject to the approval of the National Telecommunications Commission, on a tax and duty-free basis.
+
+## Section 14
+
+_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity without the prior approval of the Congress of the Philippines. Neither shall the controlling interest in the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines: _Provided,_ that the foregoing limitation shall not apply to: (1) any transfer or issuance of shares of stock in the implementation of the requirement for the dispersal of the grantee's ownership pursuant to Section 17 of this Act; (2) any transfer or sale of shares of stock to a foreign investor or investors; (3) any issuance of shares to any foreign or local investors pursuant to or in connection with any increase in the grantee's authorized capital stock which results in the dilution of the stockholdings of the grantee's then existing stockholders; (4) any combination thereof where such transfer, sale or issuance is effected in order to enable the grantee to raise the necessary capital or financing for the provision of the services for which the grantee has been incorporated or organized: _Provided, further,_ that any such transfer, sale or issuance is in accordance with any applicable constitutional limitations. Any person or entity to which this franchise is validly sold, transferred or assigned, shall be subject to all the same conditions, terms, restrictions and limitations of this Act.
+
+## Section 15
+
+_Warranty in Favor of National and Local Governments._ \- The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations, facilities and equipment of the grantee.
+
+## Section 16
+
+_Right of_ Interconnection. - The grantee is hereby authorized to connect its telecommunications system to any other telecommunications systems installed, operated and maintained by any other grantee in the Philippines for the purpose of providing telecommunications services to the public on such terms and conditions as may be prescribed from time to time by the National Telecommunications Commission.
+
+## Section 17
+
+_Public Offering of Common Stocks._ \- In compliance with the constitutional mandate to democratize ownership of public utilities, the herein grantee shall make a public offering through the stock exchange of at least thirty percent (30%) of its common stocks within a period of three (3) years from the date of effectivity of this Act: _Provided,_ That no single person or entity shall be allowed to own more than five percent (5%) of the stock offering.
+
+## Section 18
+
+_Equality Clause._ \- If any subsequent franchise for telecommunication service is awarded or granted by the Congress of the Philippines with terms and conditions more favorable and beneficial than those contained in this Act, then the same privileges or advantages shall, _ipso facto,_ accrue to the herein grantee and deemed part of this Act.
+
+## Section 19
+
+_General Telecommunications Policy Law._ \- The grantee, its successors or assigns, shall comply with a general telecommunications policy law which Congress may hereafter enact.1aшphi1
+
+## Section 20
+
+_Repealing Clause._ \- Republic Act No. 7372 shall be deemed repealed upon the issuance by the National Telecommunications Commission of the certificate of public convenience and necessity and such other appropriate permits and licenses to the herein grantee.
+
+## Section 21
+
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
+
+## Section 22
+
+_Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## Section 23
+
+_Reportorial Requirement._ \- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of the franchise and on its operations within sixty (60) days from the end of every year.
+
+## Section 24
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least (2) newspapers of general circulation.
+
+Lapsed into law on July 6, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

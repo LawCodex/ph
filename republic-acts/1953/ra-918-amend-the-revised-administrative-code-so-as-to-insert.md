@@ -1,0 +1,65 @@
+---
+title: "Republic Act No. 918 — An Act to Amend the Revised Administrative Code So as to Insert Therein a New Section to Be Known as Section Nineteen Hundred and Thirty-eight-a, Standardizing the Salaries of Postmasters, and for Other Purposes"
+identifier: "Republic Act No. 918"
+number: "918"
+type: act
+jurisdiction: ph
+language: en
+date: 1953-06-20
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1953/ra_918_1953.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 918
+
+**An Act to Amend the Revised Administrative Code So as to Insert Therein a New Section to Be Known as Section Nineteen Hundred and Thirty-eight-a, Standardizing the Salaries of Postmasters, and for Other Purposes**
+
+[ REPUBLIC ACT NO. 918, June 20, 1953 ]
+
+AN ACT TO AMEND THE REVISED ADMINISTRATIVE CODE SO AS TO INSERT THEREIN A NEW SECTION TO BE KNOWN AS SECTION NINETEEN HUNDRED AND THIRTY-EIGHT-A, STANDARDIZING THE SALARIES OF POSTMASTERS, AND FOR OTHER PURPOSES.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+The Revised Administrative Code is hereby amended by the insertion, between sections nineteen hundred and thirty-eight and nineteen hundred and thirty-nine, of a new section to be known as section nineteen hundred and thirty-eight-A which shall read as follows:
+
+"Section 1938-A. Compensation of postmasters.—Any provision of existing law to the contrary notwithstanding, the annual compensation of postmasters shall be fixed and readjusted at the beginning of each fiscal year on the basis of the average monthly gross receipts or payments, whichever is higher, of the post offices concerned during the twelve months immediately preceding the preparation of the budget estimates of income and expenditure for said fiscal year, at the following rates:
+
+| Less than P2,000 | P1,560.0 | |
+|---|---|---|
+| 2,000 but less than P5,000 | 1,680.00 | |
+| 5,000 but less than P10,000 | 1,800.00 | |
+| 10,000 but less than P20,000 | 1,920.00 | |
+| 20,000 but less than P30,000 | 2,040.00 | |
+| 30,000 but less than P40,000 | 2,160.00 | |
+| 40,000 but less than P50,000 | 2,280.00 | |
+| 60,000 but less than P60,000 | 2,400.00 | |
+| 60,000 but less than P80,000 | 2,760.00 | |
+| 80,000 but less than P100,000 | 2,940.00 | |
+| l00,000 but less than P130,000 | 3,120.00 | |
+| 130,000 but less than P160.000 | 3,300.00 | |
+| 60.000 but less than P200.00 | 3,480.00 | |
+| 200.000 but less than P250.000 | 3,720.00 | |
+| 250,000 but less than P300.000 | 3,960.00 | |
+| 300,000 but less than P400.000 | 4,200.00 | |
+| 400.000 but less than P500,000 | 4,500.00 | |
+| 500,000 or more | 4,800.00 | |
+
+_Provided,_ however, That where the compensation of a postmaster would be fixed at less than three thousand seven hundred and twenty pesos under the above schedule and, in the judgment of the Director of Posts, a higher rate for such postmaster is justified by the volume of mails handled by his office, his salary may be increased by not more than two rates, subject to the approval of the Secretary of Public Works and Communications: _Provided,_ further, That whenever unusual conditions prevail which radically affect the volume of business of a post office during the twelve-month period forming the basis for the next salary adjustment, the salary of the postmaster thereat may, with the approval of the Secretary, be maintained at the rate indicated by the volume of business of such office for the preceding period: And provided, furthermore, That a postmaster in any city, provincial capital of other place may, with the approval of the Secretary, be allowed an increase of not more than two rates in his salary if considered justified by the cost of living in the locality.
+
+"The salaries of postmasters at newly established post offices shall be initially fixed at the lowest salary rate.
+
+"The provisions of the foregoing paragraphs shall not apply to postmasters whose salaries are not paid by the Bureau of Posts, as well as employees of other branchy of the civil service performing the duties of postmaster who shall receive such additional compensation as may be specially provided by law for their services as such postmasters: _Provided,_ That when regular postmasters or postmasters paid by the Bureau of Posts, as the case may be, are assigned at the offices concerned, said provisions shall apply and their salaries shall be fixed accordingly in the next succeeding fiscal year."
+
+## Section 2
+
+The salaries of the corresponding positions of postmasters shall be adjusted in the fiscal year beginning July first, nineteen hundred and fifty-three, in accordance with the provisions of section one hereof, and the positions as thus adjusted shall supersede the corresponding ones provided for in the General Appropriation Act for said fiscal year. There is hereby appropriated, out of any funds in the Treasury of the Philippines not otherwise appropriated, the sum of two hundred thousand pesos for the purpose of making such adjustments.
+
+## Section 3
+
+This Act shall take effect on July first, nineteen hundred and fifty-three.
+
+Approved, June 20, 1953.

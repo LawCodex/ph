@@ -1,0 +1,42 @@
+---
+title: "Republic Act No. 5163 — An Act Establishing a Health Sciences Center in the University of the Philippines, Appropriating Funds Therefor, and for Other Purposes"
+identifier: "Republic Act No. 5163"
+number: "5163"
+type: act
+jurisdiction: ph
+language: en
+date: 1967-06-17
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1967/ra_5163_1967.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1967/pdf/ra_5163_1967.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5163
+
+**An Act Establishing a Health Sciences Center in the University of the Philippines, Appropriating Funds Therefor, and for Other Purposes**
+
+**REPUBLIC ACT No. 5163**
+
+An Act Establishing a Health Sciences Center in the University of the Philippines, Appropriating Funds Therefor, and for Other Purposes
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+In pursuance of the policy to transfer the units of the University of the Philippines in the City of Manila to its Diliman campus at Quezon City, as laid down in Commonwealth Act Numbered Four hundred forty-two there is hereby established a health sciences center in the University of the Philippines at Diliman, Quezon City. It shall consist of the existing units related to the health sciences, including the Colleges of Medicine, Dentistry, Nursing, Pharmacy, Institute of Hygiene, a university hospital and such other new units as the Board of Regents may determine to be necessary to carry out the purposes of the center. The center shall seek and emphasize the highest standards in training and research in the various health sciences.1avvphi1 The administrative organization of the center shall be determined by the Board of Regents upon recommendation of the university president.
+
+## Section 2
+
+To finance the initial capital requirements of the center, there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for the fiscal year nineteen hundred sixty-eight and sixty-nine, and five million pesos yearly for the next succeeding nine years.
+
+## Section 3
+
+The grounds and buildings that will be vacated by the College of Medicine and Institute of Hygiene on Herran Street and by the College of Dentistry on Padre Faura Street, City of Manila shall be retained by the University of the Philippines for the use of its units offering extension programs in said city.
+
+## Section 4
+
+This Act shall take effect upon its approval.
+
+Approved: June 17, 1967.

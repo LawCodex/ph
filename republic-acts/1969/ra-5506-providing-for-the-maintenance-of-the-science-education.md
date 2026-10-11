@@ -1,0 +1,54 @@
+---
+title: "Republic Act No. 5506 — An Act Providing for the Maintenance of the Science Education Center of the University of the Philippines, and for Other Purposes"
+identifier: "Republic Act No. 5506"
+number: "5506"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5506_1969.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5506
+
+**An Act Providing for the Maintenance of the Science Education Center of the University of the Philippines, and for Other Purposes**
+
+[ REPUBLIC ACT NO. 5506, June 21, 1969 ]
+
+AN ACT PROVIDING FOR THE MAINTENANCE OF THE SCIENCE EDUCATION CENTER OF THE UNIVERSITY OF THE PHILIPPINES, AND FOR OTHER PURPOSES.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+It is hereby declared a national policy to provide the fullest support and assistance to science education in all levels of instruction in the Philippines through improved methods, teachers and materials.
+
+## Section 2
+
+Pursuant to this policy, the Science Education Center established by the University of the Philippines in the spirit of national commitments and policies announced in the Science Act of 1958, as amended, shall be provided with the necessary technical and financial support for its development and operation at the highest possible level.
+
+## Section 3
+
+In addition to the royalties and other income of the Center, which shall be disbursed by the University exclusive for the purposes of this Act, the sum of two hundred fifty thousand pesos shall be allotted from the Special Science Fund annually for the maintenance and operation of the Center, including the expenses for the payment o such fees, transportation and other necessary expenses as may be required of teachers attending the seminars, institutes, training programs and similar activities conducted by the Center.
+
+## Section 4
+
+Any provision of law to the contrary notwithstanding, authority is hereby vested in the Director of Public Schools to prescribe, subject to the approval of the Secretary of Education, appropriate texts and materials produced and published by the Center as among the official adopted textbooks for science and mathematics courses in the public schools: _Provided, however,_ That the Board of Regents of the University of the Philippines shall certify to such production and publication: _Provided, further,_ That no such certificate shall be issued unless the printing and distribution of such materials shall have been printed by the University or by the Bureau of Printing :_Provided, further_ That purchases of textbooks prescribed in the manner provided for above may be made as in the case of other officially adopted textbooks of the Bureau of Public Schools: _And provided, finally,_ That all materials produced by the Center shall be sold at substantially the same price as that currently charged for similar materials.
+
+## Section 5
+
+The different departments and agencies of the Government, particularly the Department of Education and its bureaus and offices, the National Science Development Board and its related science bodies, and the various state universities and colleges, are hereby enjoined to extend their fullest support of, assistance to, and cooperation with the Center by providing the services of their personnel to the Center upon request, grants-in-aid, research assistance, and use of their facilities.
+
+## Section 6
+
+Appointments to the Center may be part time, and any government employee employed in the Center as researcher, consultant, writer, lecturer, or resource person, or performing work for the Center as provided in the preceding section may be paid compensation or honoraria at rates fixed by the Board of Regents.
+
+## Section 7
+
+This Act shall take effect upon its approval.1a⍵⍴h!1
+
+Approved, June 21, 1969.

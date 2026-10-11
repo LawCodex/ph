@@ -1,0 +1,141 @@
+---
+title: "Republic Act No. 6239 — An Act to Regulate the Practice of Forestry Profession in the Philippines."
+identifier: "Republic Act No. 6239"
+number: "6239"
+type: act
+jurisdiction: ph
+language: en
+date: 1971-06-19
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1971/ra_6239_1971.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 6239
+
+**An Act to Regulate the Practice of Forestry Profession in the Philippines.**
+
+[ REPUBLIC ACT NO. 6239, June 19, 1971 ]
+
+AN ACT TO REGULATE THE PRACTICE OF FORESTRY PROFESSION IN THE PHILIPPINES.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+_Title of Act_.—This Act shall be known as "The Forestry Profession Law".
+
+## Section 2
+
+_Definition of Terms._ —
+
+a. Any person who offers to perform or who performs for another whether for profit or not, any of the following services shall be deemed to be practicing the forestry profession, to wit: the scientific conservation and management of forests for the continuous and judicious utilization of forests and forest products; including services in the form of forestry consultation, investigation, planning, preparation, and implementation of management plans for forest and national park areas and the determination of the suitability of public forest land for pasture or agricultural land; logging, forest reconnaissance and timber estimate; scaling and grading of logs and lumber; identification of woods and other forestry products; administration, management and supervision of forest plantation and tree farm leases within public forests; protection and conservation of game and wildlife; preparation and implementation of reforestation and afforestation plans; supervision of any forestry activity requiring the application of forestry principles; and such other activities as related to forest protection, silviculture, and maintenance or restoration of necessary ecological balance.
+
+Persons who have had at least three years practical experience in the field or who have completed at least two years of the Forestry Course may be employed to perform the foregoing services under the supervision of a forester who shall be responsible for the satisfactory completion of their work.
+
+b. The term "forester" as used in this Act is a natural person duly registered with the Board of Examiners as a forester who (1) is duly qualified and exempt from taking the board examination; or (2) who passed the Forestry Board Examination.
+
+## Section 3
+
+_Creation and Composition of the Board of Examiners for Forester._ — Within thirty days after the approval of this Act, there shall be created a Board of Examiners for Foresters, hereinafter referred to as the Board, to be composed of three foresters, who shall be chosen from a list of six (6) nominees recommended by the national Society of Filipino Foresters and appointed by the President of the Philippines with the consent of the Commission on Appointments. The members of the Board shall hold office for a term of three years after their appointment. The members of the first Board appointed under this Act shall hold office for the following terms: One member for one year; one member for two years; and one member for three years. Each member of the Board shall qualify by taking the proper oath of office before entering upon the performance of his duties. The Board shall elect a Chairman from among its members every year, without reelection.
+
+## Section 4
+
+_Removal, Suspension and Filling of Vacancies._ — Any member of the Board may be removed by the President of the Philippines for neglect of duty, incompetence, malpractice or unprofessional, unethical, immoral or dishonorable conduct, after having been given the opportunity to defend himself in a proper administrative investigation subject to civil service procedure and regulations. During the investigation, the President shall have the power to suspend the member under investigation and shall appoint a temporary member in his place: _Provided,_ That no suspension shall last more than sixty (60) days. Vacancies in the Board shall be filled for the unexpired term only and no member of the Board shall be reappointed after serving a full term of three years.
+
+## Section 5
+
+_Powers and duties of the Board._ — The Board is vested with authority, conformably with the provisions of this Act, to administer oaths; issue and revoke certificates of registration for the practice of forestry; investigate cases of malpractice or unethical practices and violations of this Act and the regulations thereunder and, for this purpose, conduct hearings and issue _subpoena_ and _subpoena duces tecum_ ; to determine whether educational institutions offering courses in forestry conform to accepted forestry standards, and to this end conduct inspections of such institutions; to endorse for approval by the Office of the President upon recommendation by the National Society of Filipino Foresters, a Code of Ethics and a Code of Forestry Practices; and to discharge such other duties as may be necessary for the maintenance of scientific, ethical, and technological standards of the forestry profession.
+
+The Board shall designate area specialists for each forestry examination who will formulate questions and rate examination papers under the administrative supervision of the Board.
+
+The Board shall be held responsible for the professional competence of the area specialists and shall insure that their identities shall not be revealed. The area specialists shall be qualified foresters and shall not be connected, directly or indirectly, with any educational institution offering courses in forestry at the time of their designation and during the period of their service as area specialists.
+
+## Section 6
+
+_Qualifications and Disqualification of Board Members._ —Each member of the Board shall at the time of his appointment:
+
+a. Be a natural-born citizen of the Philippines, of good moral character;
+
+b. Be at least a holder of the degree of Bachelor of Science in Forestry or its equivalent degree in Forestry;
+
+c. Have been engaged in the practice of forestry for at least ten years; and
+
+d. Not be connected directly or indirectly, with any educational institution offering courses in forestry. No member of the Board may accept employment or become connected with any such educational institution for a period of six months after his term.
+
+## Section 7
+
+_Secretariat of the Board._ — The Commissioner of Civil Service shall provide the Secretariat needed by the Board which shall be under its direct supervision and control. The Chairman of the Board shall designate any officer of the Secretariat to act as Secretary of the Board and Custodian of all records and minutes of the Board meetings, including examination papers.
+
+The Commissioner of Civil Service shall also provide adequate office space and facilities to the Board of Examiners, and shall give full support and cooperation to the Board in the discharge of its duties.
+
+## Section 8
+
+_Fees and Compensation of the Board._ — The Board shall charge each applicant for examination the sum of not less than fifty pesos (P50.00) payable to the collecting and disbursing officer of the Civil Service Commission upon filing of the application; and for each certificate of registration not less than twenty pesos (F20.00). Each member of the Board shall receive _per diems_ of not more than, one hundred pesos (P100.00) per meeting: _Provided,_ That there shall be not more than twenty-four (24) Board meetings a year. Each forester designated to formulate questions and rate examination papers shall receive such compensation as the Board may determine but in no case less than five pesos (P5.00) for each applicant examined. A forester in the service of the Government of the Republic of the Philippines appointed as member of the Board or designated by the Board as examiner shall receive the _per diem_ or compensation, as the case may be, in addition to his salary in the Government. All actual, incidental and clerical expenses of the Board including the per diems and compensation provided herein, necessarily incurred in carrying out the provisions of this Act shall be paid by the collecting and disbursing officer of the Civil Service Commission out of funds set aside for the purpose.
+
+## Section 9
+
+_Record and Register_.—The Board shall keep a record of its proceedings and a register of all applications for registrations. The register shall show the name age, and residence of each applicant; the date of the application; the place of business of the applicant; his educational and other qualifications; whether or not an examination was required; whether or not the application was rejected; the grant of the certificate of registration: date of the Board action; and such other information as may be deemed necessary by the Board. The records of the Board shall be prima facie evidence of the proceedings of the Board set forth therein and a transcript thereof, duly certified by the Secretary of the Board under seal, shall be admissible in evidence.
+
+## Section 10
+
+_Annual Report._ — At the end of each fiscal year, the Board shall submit to the President of the Philippines and both Houses of Congress a report of its activities and meetings during the fiscal year just ended.
+
+## Section 11
+
+Registration Requirement.— No person shall practice or offer to practice the forestry profession in the Philippines unless he possesses a valid certificate of registration as forester issued by the Board. A certificate of Registration shall be issued to those who are exempt from examination and qualified under Section 16 hereof or to those who passed the forestry board examination under this Act.
+
+## Section 12
+
+_Examination Requirement._ — Except as provided in Section 16, all applicants for registration for the practice of forestry shall be required to pass a technical examination hereinafter provided.
+
+## Section 13
+
+_Holding of Examination._ —Examinations of candidates desiring to practice forestry in the Philippines shall be held at such time, date and place as may be determined by the Board.
+
+The subjects and methods of examination shall be prescribed by the Board.
+
+## Section 14
+
+_Qualifications for examination._ —Any person applying for admission to the forester examination shall, prior to the date of the examination, establish to the satisfaction of the Board that he has the following qualifications:
+
+a. At least twenty-one years of age;
+
+b. A citizen of the Philippines;
+
+c. Of good reputation and good moral character; and
+
+d. A graduate of a four-year course in forestry or its equivalent from an educational institution in the Philippines or abroad.
+
+## Section 15
+
+_Oath of Foresters._ — All those qualified under Section 16 hereof and successful candidates in the examination shall be required to take a professional oath before the Board or other Government officials authorized, to administer oaths, prior to the issuance of a certificate of registration.
+
+## Section 16
+
+_Exemption from examination._ — Examinations shall not be required of the following persons:
+
+a. Holders of the degree of Bachelor of Science in Forestry or its equivalent or a higher forestry degree: _Provided,_ That they have at least ten years experience in technical forestry work either in the Government or with a private forestry enterprise, or both or they have passed a civil service examination for foresters.
+
+b. Forestry experts from other countries who are called in by the Philippine Government for consultation on forestry matters: _Provided,_ that they have qualified in their respective countries in appropriate forestry examinations, or if no forestry examinations are given therein, that their expertise be certified by the proper Philippine diplomatic or consular representative therein.1âшphi1
+
+c. Forestry experts from other countries under contract with and working for local private forestry enterprises: _Provided,_ That they have qualified in their respective countries in appropriate forestry examinations or if no forestry examinations are given therein, that their expertise be certified by the proper Philippines diplomatic or consular representative therein.
+
+## Section 17
+
+_Violation of this Act._ — Any person who wilfully violates any provision of this Act shall be subject to a fine of not more than five hundred pesos. Should any person give false testimony or submit falsified evidence of any kind to the Board or any member thereof in obtaining a certificate of registration or in connection with hearings for malpractice or unethical conduct, he shall be penalized under the Revised Penal Code for falsification or perjury. The Board may revoke a certificate of registration for malpractice or unethical conduct, subject to Civil Service procedures and regulations. This law shall not be construed to deprive any person of the right to avail himself of any and all judicial proceedings or remedies available under existing laws.
+
+## Section 18
+
+_Roster of registered foresters._ — A roster showing the names and places of business of all registered professional foresters shall be prepared by the Commissioner of Civil Service within six months from approval of this Act after giving due notice that the Board is ready for registration of persons qualified as foresters but are exempt from taking the forestry board examination. Thereafter, the Commissioner shall annually update the roster with additional names of registered foresters, including those who are exempt from examination and those who successfully passed the Board examination. Certified copies of this roster shall be placed on file with the Secretary of Agriculture and Natural Resources, the Bureau of Forestry, Reforestation Administration, Parks and Wildlife Office, and College of Forestry, Certified copies of such roster may also be furnished without cost to department heads, mayors of chartered cities, and such other bureaus, government entities or agencies, and city, provincial and municipal authorities as may be deemed necessary, and to the public upon request.
+
+## Section 19
+
+_Separability Clause_.— If any part or provision of this Act or the application thereof to any person or circumstance shall be declared unconstitutional, the remainder of the Act or the application of such provision to other persons or circumstances shall not be affected by such declaration.
+
+## Section 20
+
+_Effectivity_.— This Act shall take effect upon its approval.
+
+Approved, June 19, 1971.

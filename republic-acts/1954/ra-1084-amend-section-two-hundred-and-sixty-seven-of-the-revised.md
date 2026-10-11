@@ -1,0 +1,46 @@
+---
+title: "Republic Act No. 1084 — An Act to Amend Section Two Hundred and Sixty-Seven of the Revised Penal Code"
+identifier: "Republic Act No. 1084"
+number: "1084"
+type: act
+jurisdiction: ph
+language: en
+date: 1954-06-15
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1954/ra_1084_1954.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 1084
+
+**An Act to Amend Section Two Hundred and Sixty-Seven of the Revised Penal Code**
+
+**REPUBLIC ACT No. 1084**
+
+**An Act to Amend Section Two Hundred and Sixty-Seven of the Revised Penal Code**
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Section two hundred and sixty-seven of the Revised Penal Code, as amended by section two of Republic Act Numbered Eighteen, is hereby further amended to read as follows:
+
+"Sec. 267. _Kidnapping and serious illegal detention._ — Any private individual who shall kidnap or detain another, or in any other manner deprive him of his liberty, shall suffer the penalty of reclusion perpetua to death:
+
+"1. If the kidnapping or detention shall have lasted more than five days.
+
+"2. If it shall have been committed simulating public authority.
+
+"3. If any serious physical injuries shall have been inflicted upon the person kidnapped or detained; or if threats to kill him shall have been made.
+
+"4. If the person kidnapped or detained shall be a minor, female or a public officer.
+
+"The penalty shall be death where the kidnapping or detention was committed for the purpose of extorting ransom from the victim or any other person, even if none of the circumstances above mentioned were present in the commission of the offense."
+
+## Section 2
+
+This Act shall take effect upon its approval.
+
+Approved: June 15, 1954.

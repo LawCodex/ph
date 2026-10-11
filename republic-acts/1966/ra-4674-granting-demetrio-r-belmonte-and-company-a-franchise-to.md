@@ -1,0 +1,58 @@
+---
+title: "Republic Act No. 4674 — An Act Granting Demetrio R. Belmonte and Company a Franchise to Construct, Maintain and Operate Land-Based and Land-Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
+identifier: "Republic Act No. 4674"
+number: "4674"
+type: act
+jurisdiction: ph
+language: en
+date: 1966-06-18
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1966/ra_4674_1966.html"
+source_pdf: "https://lawphil.net/statutes/repacts/ra1966/pdf/ra_4674_1966.pdf"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 4674
+
+**An Act Granting Demetrio R. Belmonte and Company a Franchise to Construct, Maintain and Operate Land-Based and Land-Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines**
+
+**REPUBLIC ACT No. 4674**
+
+An Act Granting Demetrio R. Belmonte and Company a Franchise to Construct, Maintain and Operate Land-Based and Land-Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines
+
+Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
+
+## Section 1
+
+Subject to the provisions of the Constitution, Demetrio R. Belmonte and Company is hereby granted a franchise to construct, maintain, and operate for commercial purposes and in the public interest land-based and land-mobile radio stations for the transmission and reception of wireless messages on radiotelegraph and radiotelephone within the Philippines, each station to be provided with a radio-transmitting and receiving apparatus to primarily serve, among other organizations, banking, financing, and credit institutions.1avvphi1 This franchise shall continue for a period of twenty-five years from the date any of the said stations shall be in operation: _Provided,_ That this franchise shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act, and be completed within three years from the said date: _Provided, further,_ That the grantee shall assist in the functions of public information and education; shall conform to the ethics of honest enterprise; and shall not use its station to transmit obscene or indecent language or speech or false information or willful misrepresentation, or to incite, encourage or assist in subversive or treasonable acts.
+
+## Section 2
+
+Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes," shall be applicable as far as practicable, to the radio transmission and reception referred to in Section one hereof.
+
+## Section 3
+
+The grantee shall file a five thousand-peso bond to guarantee full compliance and fulfillment of the conditions under which this franchise is granted.
+
+## Section 4
+
+In the event of any competing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place herein grantee at any disadvantage, then such terms shall ipso facto become part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership or corporation.
+
+## Section 5
+
+The grantee shall be liable to pay the same taxes on its real estate, buildings, and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay, and shall further be liable to pay all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
+
+## Section 6
+
+Special right is reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace or order to cause the closing of said stations or to authorize the temporary use and operations thereof by any department of the Government.
+
+## Section 7
+
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without previous approval of the Congress of the Philippines. Any corporation to which this franchise is sold, transferred or assigned shall be subject to all the conditions, terms, restrictions, and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to said person, firm, company or corporation or other commercial or legal entity.
+
+## Section 8
+
+This Act shall take effect upon its approval.
+
+Approved: June 18, 1966.

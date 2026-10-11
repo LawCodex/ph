@@ -1,0 +1,49 @@
+---
+title: "Republic Act No. 5711 — An Act Converting and Integrating the Capiz School of Arts and Trades and the Capiz School of Fisheries in the City of Roxas Into a College, to Be Known as the Capiz Institute of Technology and Authorizing the Appropriation of Funds Therefor"
+identifier: "Republic Act No. 5711"
+number: "5711"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5711_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5711
+
+**An Act Converting and Integrating the Capiz School of Arts and Trades and the Capiz School of Fisheries in the City of Roxas Into a College, to Be Known as the Capiz Institute of Technology and Authorizing the Appropriation of Funds Therefor**
+
+[ REPUBLIC ACT NO. 5711, June 21, 1969 ]
+
+AN ACT CONVERTING AND INTEGRATING THE CAPIZ SCHOOL OF ARTS AND TRADES AND THE CAPIZ SCHOOL OF FISHERIES IN THE CITY OF ROXAS INTO A COLLEGE, TO BE KNOWN AS THE CAPIZ INSTITUTE OF TECHNOLOGY AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+The Capiz School of Arts and Trades and the Capiz School of Fisheries located in the City of Roxas are hereby converted and integrated into a college, to be known as the Capiz Institute of Technology. The Capiz Institute of Technology shall maintain two departments, namely Department of Arts and Trades and Department of Fisheries.
+
+## Section 2
+
+The Capiz Institute of Technology, in addition to the four-year secondary trade and two-year trade technical education curricula, fisheries homemaking, fish culture, fish capture, fish preservation, shall offer courses for four-year teacher education curriculum leading to the degrees of Bachelor of Science in Industrial Education (B.S.I.E.) with majors in any vocational courses being offered or Industrial Arts, Bachelor of Science in Fisheries, Associate in Fisheries, Cottage Industries and Engineering courses whenever possible.
+
+## Section 3
+
+The Capiz Institute of Technology shall be headed by a superintendent and shall be under the Bureau of Vocational Education. The superintendent shall have direct administrative supervision of the college. Each department of the college shall be headed by a principal who shall be responsible to the college superintendent.
+
+## Section 4
+
+The physical and financial assets, liabilities, personnel, equipment, and records of the Capiz School of Arts and Trades and the Capiz School of Fisheries are hereby absorbed by the Capiz Institute of Technology.
+
+## Section 5
+
+In addition to the present national appropriation of the Capiz School of Arts and Trades and the Capiz School of Fisheries for the fiscal year nineteen hundred sixty-nine, four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college. Thereafter, the sum needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+## Section 6
+
+This Act shall take effect upon its approval.
+
+Enacted without Executive approval, June 21, 1969.1a⍵⍴h!1

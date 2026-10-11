@@ -1,0 +1,41 @@
+---
+title: "Republic Act No. 5891 — An Act Providing for the Establishment of a Pilot Project for Animal Industry in the Municipality of Lanuza, Province of Surigao Del Sur, and Authorizing the Appropriation of Funds Therefor"
+identifier: "Republic Act No. 5891"
+number: "5891"
+type: act
+jurisdiction: ph
+language: en
+date: 1969-06-21
+status: unknown
+source: "https://lawphil.net/statutes/repacts/ra1969/ra_5891_1969.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Republic Act No. 5891
+
+**An Act Providing for the Establishment of a Pilot Project for Animal Industry in the Municipality of Lanuza, Province of Surigao Del Sur, and Authorizing the Appropriation of Funds Therefor**
+
+[ REPUBLIC ACT NO. 5891, June 21, 1969 ]
+
+AN ACT PROVIDING FOR THE ESTABLISHMENT OF A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE MUNICIPALITY OF LANUZA, PROVINCE OF SURIGAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+## Section 1
+
+There shall be established a pilot project for animal industry in the Municipality of Lanuza, Province of Surigao del Sur.
+
+## Section 2
+
+The Director of the Bureau of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1âшphi1
+
+## Section 3
+
+The sum of twenty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project for the fiscal year nineteen hundred seventy. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+## Section 4
+
+This Act shall take effect upon its approval.
+
+Enacted without Executive approval, **June 21, 1969.**

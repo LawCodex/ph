@@ -207,7 +207,7 @@ The following operational requirements for a university, as established by the C
 
 (e) Conduct of outreach programs involving students in social development-oriented experiences that allow them to contextualize their knowledge within actual social and human experiences.
 
-The CHED, through its regional office, shall regularly provide technical assistance to the SSC and monitor its compliance with the requirements of the CHED.ℒαwρhi৷
+The CHED, through its regional office, shall regularly provide technical assistance to the SSC and monitor its compliance with the requirements of the CHED.
 
 ## Section 19
 

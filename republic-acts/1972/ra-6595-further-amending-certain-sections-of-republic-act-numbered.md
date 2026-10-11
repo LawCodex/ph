@@ -80,7 +80,7 @@ There is hereby inserted between Sections seven and eight of the same Act two ne
 
 "Section 7-A. The Secretary of Education is hereby empowered to locate and acquire or cause to be located and acquired an additional school site for the establishment of the technical education department and other departments of the Eulogio "AMANG" Rodriguez Institute of Science and Technology which may be public or private land situated within the City of Manila. The city government shall provide funds for this purpose.
 
-"Section 7-B. The Director of Vocational Education with the approval of the Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purposes of this Act."1âшphi1
+"Section 7-B. The Director of Vocational Education with the approval of the Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purposes of this Act."
 
 ## Section 11
 

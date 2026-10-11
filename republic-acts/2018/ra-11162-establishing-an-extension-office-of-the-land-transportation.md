@@ -37,7 +37,7 @@ The Secretary of Transportation shall immediately include in the Department’s 
 
 ## Section 3
 
-The Chairperson of the LTO shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1âwphi1
+The Chairperson of the LTO shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 4
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Separation and Conversion into a National High School._ – The Baguio City National High School – Lindawan Annex in Barangay Lindawan, City of Baguio is hereby separated from the Baguio City National High School and converted into an independent national high school to be known as Lindawan National High School.1âwphi1
+_Separation and Conversion into a National High School._ – The Baguio City National High School – Lindawan Annex in Barangay Lindawan, City of Baguio is hereby separated from the Baguio City National High School and converted into an independent national high school to be known as Lindawan National High School.
 
 ## Section 2
 

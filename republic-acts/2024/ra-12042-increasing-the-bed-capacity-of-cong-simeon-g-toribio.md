@@ -37,7 +37,7 @@ The existing workforce of the Cong. Simeon G. Toribio Memorial Hospital, which i
 
 ## Section 4
 
-The Provincial Government of Bohol shall provide the necessary funds to cover the maintenance and other operating expenses of the Cong. Simeon G. Toribio Memorial Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.ℒαwρhi৷
+The Provincial Government of Bohol shall provide the necessary funds to cover the maintenance and other operating expenses of the Cong. Simeon G. Toribio Memorial Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
 
 ## Section 5
 

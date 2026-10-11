@@ -34,4 +34,4 @@ The first mayor, vice-mayor, and six councilors of the new municipality shall be
 
 This Act shall take effect if in a plebiscite to be held simultaneously with the general elections in November, nineteen hundred seventy-one, a majority of the votes cast in said barrios favor the creation of said Municipality of Pines.
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

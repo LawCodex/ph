@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Province of Lanao is hereby divided into two provinces, one to be known as Lanao del Norte and the other as Lanao del Sur.1aшphi1
+The Province of Lanao is hereby divided into two provinces, one to be known as Lanao del Norte and the other as Lanao del Sur.
 
 ## Section 2
 

@@ -178,7 +178,7 @@ Excisable articles such as distilled spirits, fermented liquor, cigars and cigar
 
 ## Section 7
 
-The classifications set forth in Annex "A" for distilled spirits, Annex "B" for wines, Annex "C" for fermented liquor and Annex "D" for cigarettes are hereby adopted and made an integral part of this Act.1aшphi1
+The classifications set forth in Annex "A" for distilled spirits, Annex "B" for wines, Annex "C" for fermented liquor and Annex "D" for cigarettes are hereby adopted and made an integral part of this Act.
 
 ## Section 8
 

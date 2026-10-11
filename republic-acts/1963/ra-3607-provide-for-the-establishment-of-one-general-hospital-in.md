@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Medi
 
 ## Section 2
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospitals during the fiscal year nineteen hundred and sixty-four: _Provided,_ That each hospital shall be entitled to one hundred thousand pesos.1awp++i1 Thereafter, such sums as may be needed for the operation and maintenance of these hospitals shall be included in the annual General Appropriation Acts.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospitals during the fiscal year nineteen hundred and sixty-four: _Provided,_ That each hospital shall be entitled to one hundred thousand pesos. Thereafter, such sums as may be needed for the operation and maintenance of these hospitals shall be included in the annual General Appropriation Acts.
 
 ## Section 3
 

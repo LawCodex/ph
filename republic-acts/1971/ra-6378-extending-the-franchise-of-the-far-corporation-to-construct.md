@@ -30,7 +30,7 @@ Section one of Republic Act Numbered Five thousand nine hundred thirteen is here
 
 ## Section 2
 
-Section fourteen of the same Act is hereby amended to read as follows.1âшphi1
+Section fourteen of the same Act is hereby amended to read as follows.
 
 "**Section 14.** In consideration of this franchise the grantee shall pay a tax equivalent to five percent of its gross income."
 

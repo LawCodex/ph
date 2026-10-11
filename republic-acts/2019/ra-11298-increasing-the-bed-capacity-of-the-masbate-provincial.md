@@ -34,7 +34,7 @@ The authorized bed capacity of the Masbate Provincial Hospital in Masbate City, 
 
 ## Section 2
 
-The Provincial Government of Masbate shall provide the necessary funds for the Maintenance and Other Operating Expenses of the Masbate Provincial Hospital.1awp++i1 It shall also appropriate funds for human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services. The Secretary of Health shall include in the Department’s subsidy program, support for the capital outlay of the provincial hospital.
+The Provincial Government of Masbate shall provide the necessary funds for the Maintenance and Other Operating Expenses of the Masbate Provincial Hospital. It shall also appropriate funds for human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services. The Secretary of Health shall include in the Department’s subsidy program, support for the capital outlay of the provincial hospital.
 
 ## Section 3
 

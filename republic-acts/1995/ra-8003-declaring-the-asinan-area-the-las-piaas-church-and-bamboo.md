@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Asinan Area, the Las Piñas Church and Bamboo Organ, the Las Piñas Bridge, the Father Diego Cera Bridge, and the old district hospital, all in the Municipality of Las Piñas, Metro Manila, are hereby declared tourist spots. As such, they shall be accorded priority development by the Department of Tourism, subject to the rules and regulations governing the development of tourist spots.1aшphi1
+The Asinan Area, the Las Piñas Church and Bamboo Organ, the Las Piñas Bridge, the Father Diego Cera Bridge, and the old district hospital, all in the Municipality of Las Piñas, Metro Manila, are hereby declared tourist spots. As such, they shall be accorded priority development by the Department of Tourism, subject to the rules and regulations governing the development of tourist spots.
 
 ## Section 2
 

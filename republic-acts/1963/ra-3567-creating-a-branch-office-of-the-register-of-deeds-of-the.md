@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby created a branch office of the Register of Deeds of the Province of Ilocos Sur, with permanent station at the Municipality of Narvacan. which shall be under the immediate control and supervision of a deputy register of deeds to be appointed by the Secretary of Justice.1âшphi1 The said deputy register of deeds shall be class III under WAPCO classification and shall receive such compensation in the range now provided by laws and regulations. He shall be assisted by such additional personnel, likewise appointed by the Secretary of Justice, as may be necessary to carry out the duties appurtenant to the said branch office.
+There is hereby created a branch office of the Register of Deeds of the Province of Ilocos Sur, with permanent station at the Municipality of Narvacan. which shall be under the immediate control and supervision of a deputy register of deeds to be appointed by the Secretary of Justice. The said deputy register of deeds shall be class III under WAPCO classification and shall receive such compensation in the range now provided by laws and regulations. He shall be assisted by such additional personnel, likewise appointed by the Secretary of Justice, as may be necessary to carry out the duties appurtenant to the said branch office.
 
 ## Section 2
 

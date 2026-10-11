@@ -66,7 +66,7 @@ _Composition of the Monetary Board._ -The powers and functions of the Central Ba
 
 (c) The President of the Philippine National Bank, whose alternate shall be the senior vice-president of said bank.
 
-(d) The Chairman of the Board of Governors of the Rehabilitation Finance Corporation, whose alternate shall be the ranking governor of said corporation.1aшphi1
+(d) The Chairman of the Board of Governors of the Rehabilitation Finance Corporation, whose alternate shall be the ranking governor of said corporation.
 
 (e) Three other members, to be appointed for terms of six years by the President with the consent of the Commission on Appointments: _Provided,_ However, That the first members appointed under the provisions of this subsection shall have terms of office of two, four and six years, respectively.
 

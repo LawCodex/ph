@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Union High School is hereby converted into a national high school to be known as the Union National High School.ℒαwρhi৷
+The Union High School is hereby converted into a national high school to be known as the Union National High School.
 
 ## Section 2
 

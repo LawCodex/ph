@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section nineteen hundred twenty-nine of the Revised Administrative Code, as amended by Executive Order Numbered Ninety-four, dated October fourth, nineteen hundred and forty-seven, is hereby further amended to read as follows:
 
-"Section 1929. Chief officials of the Bureau of Posts.1a⍵⍴h!1—The Bureau of Posts shall have one chief and one assistant chief, designated respectively as the Director of Posts and the Assistant Director of Posts."
+"Section 1929. Chief officials of the Bureau of Posts.—The Bureau of Posts shall have one chief and one assistant chief, designated respectively as the Director of Posts and the Assistant Director of Posts."
 
 ## Section 2
 

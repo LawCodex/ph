@@ -46,7 +46,7 @@ A fine of not less than two hundred pesos nor more than five thousand pesos and 
 
 If the offender in the next preceding paragraph is a public officer, he shall be punished with the maximum penalty provided for therein, and if he is an alien, the penalty to be imposed shall consist in the payment of the fine hereinabove provided and of immediate deportation without any further proceedings on the part of the deportation board.
 
-In case the violation is committed by a corporation, partnership or association, the president, managing director or manager thereof shall be held liable under this section.1âшphi1
+In case the violation is committed by a corporation, partnership or association, the president, managing director or manager thereof shall be held liable under this section.
 
 In addition to the penalties hereinabove provided, the articles imported shall be subject to seizure and confiscation by the Commissioner of Customs in accordance with the procedure established in the Revised Administrative Code.
 

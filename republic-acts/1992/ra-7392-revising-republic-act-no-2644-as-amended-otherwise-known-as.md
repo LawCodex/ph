@@ -226,7 +226,7 @@ From the decision of the Board, appeal may be taken to the Professional Regulati
 
 ### Section 26
 
-_Reissuance of Revoked Certificates and Replacement of Lost Certificate._ \- The Board may, for reasons of equity and justice and upon proper application therefor, issue another copy of the certificate upon payment of dues, and in so doing, it may exempt the applicant from the requisite examination.1âшphi1
+_Reissuance of Revoked Certificates and Replacement of Lost Certificate._ \- The Board may, for reasons of equity and justice and upon proper application therefor, issue another copy of the certificate upon payment of dues, and in so doing, it may exempt the applicant from the requisite examination.
 
 ## ARTICLE IV — MISCELLANEOUS PROVISIONS
 

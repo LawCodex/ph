@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Nueva Ecija Trade School in the City of Cabanatuan is hereby converted into a regional school of arts and trades, to be known as the Central Luzon School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of junior collegiate and secondary levels shall be offered in the said school.1a⍵⍴h!1
+The Nueva Ecija Trade School in the City of Cabanatuan is hereby converted into a regional school of arts and trades, to be known as the Central Luzon School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of junior collegiate and secondary levels shall be offered in the said school.
 
 ## Section 2
 

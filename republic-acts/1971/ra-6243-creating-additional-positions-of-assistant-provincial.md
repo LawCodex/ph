@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Section sixteen hundred and seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Batangas, is hereby further amended to read as follows:1âшphi1
+Section sixteen hundred and seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Batangas, is hereby further amended to read as follows:
 
 "Batangas, fourteen assistant provincial fiscals;"
 

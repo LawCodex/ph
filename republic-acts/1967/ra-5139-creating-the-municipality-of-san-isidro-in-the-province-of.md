@@ -33,7 +33,7 @@ The barrio of Pabel shall upon the approval of this Act, become a barrio in the 
 
 ## Section 2
 
-The municipality of San Isidro shall acquire corporate existence upon the election and qualification of the first mayor, vice mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected.1avvphi1
+The municipality of San Isidro shall acquire corporate existence upon the election and qualification of the first mayor, vice mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected.
 
 ## Section 3
 

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 A new subsection to be designated as subsection (m-3) is hereby inserted after subsection (m-2) of section twenty-four hundred and forty-four of the Revised Administrative Code, as amended, which shall read as follows:
 
-"(m-3) To impose a municipal tax, not to exceed one-half of one per centum, on the total premiums collected by fire insurance companies on properties located within the City of Manila, the proceeds of which tax shall be appropriated exclusively for the acquisition of fire-fighting equipment for the City Fire Department.1aшphi1
+"(m-3) To impose a municipal tax, not to exceed one-half of one per centum, on the total premiums collected by fire insurance companies on properties located within the City of Manila, the proceeds of which tax shall be appropriated exclusively for the acquisition of fire-fighting equipment for the City Fire Department.
 
 "The tax herein prescribed shall be subject to the same conditions and limitations as those prescribed under Chapter II of Title VIII of the National Internal Revenue Code, as amended, for the collection of the tax on insurance premiums accruing to the National Government."
 

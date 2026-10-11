@@ -80,6 +80,6 @@ Section twenty five of the same Act is amended to read as follows:
 
 ## Section 9
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 15, 1954.

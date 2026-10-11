@@ -80,7 +80,7 @@ _Public Infrastructures and Facilities._ \- All public infrastructures and facil
 
 ## Section 6
 
-_National Tax Allotment Shares._ \- Barangay Guinhalinan shall be entitled to National Tax Allotment shares pursuant to Section 285 of the Local Government Code of 1991, as amended.1aшphi1
+_National Tax Allotment Shares._ \- Barangay Guinhalinan shall be entitled to National Tax Allotment shares pursuant to Section 285 of the Local Government Code of 1991, as amended.
 
 ## Section 7
 

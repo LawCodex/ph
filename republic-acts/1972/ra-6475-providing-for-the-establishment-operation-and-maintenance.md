@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Calabanga, Province of Camarines Sur, to be known as Calabanga Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Calabanga, in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Calabanga, Province of Camarines Sur, to be known as Calabanga Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Calabanga, in consultation with the Director of Medical Services.
 
 ## Section 2
 

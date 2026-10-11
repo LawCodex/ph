@@ -56,7 +56,7 @@ _Definition of Terms._ – As used in this Act:
 
 (g) _Authorized importer_ refers to any person, legal entity, corporation, partnership or business duly licensed by the FEO of the PNP to engage in the business of importing ammunition and firearms, or parts thereof into the territory of the Republic of the Philippines for purposes of sale or distribution under the provisions of this Act.
 
-(h) _Authorized manufacturer_ refers to any person, legal entity, corporation, or partnership duly licensed by the FEO of the PNP to engage in the business of manufacturing firearms, and ammunition or parts thereof for purposes of sale or distribution.1âwphi1
+(h) _Authorized manufacturer_ refers to any person, legal entity, corporation, or partnership duly licensed by the FEO of the PNP to engage in the business of manufacturing firearms, and ammunition or parts thereof for purposes of sale or distribution.
 
 (i) _Confiscated firearm_ refers to a firearm that is taken into custody by the PNP, National Bureau of Investigation (NBI), Philippine Drug Enforcement Agency (PDEA), and all other law enforcement agencies by reason of their mandate and must be necessarily reported or turned over to the PEO of the PNP.
 

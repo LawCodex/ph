@@ -33,7 +33,7 @@ The existing professional healthcare services and facilities of the Tomas Lachic
 
 ## Section 3
 
-The existing workforce of the Tomas Lachica District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the Tomas Lachica District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
 
 ## Section 4
 

@@ -29,7 +29,7 @@ A district engineering office of the Department of Public Works and Highways is 
 
 ## Section 2
 
-The Davao del Norte Second District Engineering Office shall serve the City of Panabo, the Island Garden City of Samal and the municipalities of B.E. Dujali, Carmen and Santo Tomas, all located in the Second Legislative District of the Province of Davao del Norte.1aшphi1
+The Davao del Norte Second District Engineering Office shall serve the City of Panabo, the Island Garden City of Samal and the municipalities of B.E. Dujali, Carmen and Santo Tomas, all located in the Second Legislative District of the Province of Davao del Norte.
 
 ## Section 3
 

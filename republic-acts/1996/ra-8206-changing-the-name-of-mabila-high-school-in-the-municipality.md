@@ -33,4 +33,4 @@ The name of the Mabila High School in the Municipality of Sarangani, Province of
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on September 5, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on September 5, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

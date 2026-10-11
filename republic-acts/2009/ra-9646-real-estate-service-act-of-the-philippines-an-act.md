@@ -30,11 +30,17 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE I — TITLE, DECLARATION OF POLICY AND DEFINITION OF TERMS
 
-**Section 1._Title._** \- This Act shall be known as the. **"_Real Estate Service Act of the Philippines_ "**.
+### Section 1
 
-**Section 2._Declaration of Policy._** \- The State recognizes the vital role of real estate service practitioners in the social political, economic development and progress of the country by promoting the real estate market, stimulating economic activity and enhancing government income from real property-based transactions. Hence, it shall develop and nurture through proper and effective regulation and supervision a corps of technically competent, responsible and respected professional real estate service practitioners whose standards of practice and service shall be globally competitive and will promote the growth of the real estate industry.
+_Title._ \- This Act shall be known as the. **"_Real Estate Service Act of the Philippines_ "**.
 
-**Section 3._Definition of Terms._** \- As used in this Act, the following terms shall mean:
+### Section 2
+
+_Declaration of Policy._ \- The State recognizes the vital role of real estate service practitioners in the social political, economic development and progress of the country by promoting the real estate market, stimulating economic activity and enhancing government income from real property-based transactions. Hence, it shall develop and nurture through proper and effective regulation and supervision a corps of technically competent, responsible and respected professional real estate service practitioners whose standards of practice and service shall be globally competitive and will promote the growth of the real estate industry.
+
+### Section 3
+
+_Definition of Terms._ \- As used in this Act, the following terms shall mean:
 
 (a) "Appraiser" also known as valuer, refers to a person who conducts valuation/appraisal; specifically, one who possesses the necessary qualifications, license, ability and experience to execute or direct the valuation/appraisal of real property.
 
@@ -62,11 +68,15 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE II — PROFESSIONAL REGULATORY BOARD OF REAL ESTATE SERVICE
 
-**Section 4._Creation and Composition of the Board._** \- There is hereby created a Professional Regulatory Board of Real Estate Service, hereinafter referred to as the Board, under the supervision and administrative control of the Professional Regulation Commission (PRC), hereinafter referred to as the Commission, composed of a chairperson and four (4) members who shall be appointed by the President of the Philippines from the three (3) recommendees chosen by the Commission from a list of five (5) nominees per position submitted by the accredited and integrated professional organization of real estate service practitioners: _Provided_ , That two (2) of the members of the Board shall represent the government assessors and appraisers.
+### Section 4
+
+_Creation and Composition of the Board._ \- There is hereby created a Professional Regulatory Board of Real Estate Service, hereinafter referred to as the Board, under the supervision and administrative control of the Professional Regulation Commission (PRC), hereinafter referred to as the Commission, composed of a chairperson and four (4) members who shall be appointed by the President of the Philippines from the three (3) recommendees chosen by the Commission from a list of five (5) nominees per position submitted by the accredited and integrated professional organization of real estate service practitioners: _Provided_ , That two (2) of the members of the Board shall represent the government assessors and appraisers.
 
 The first Board shall be organized within six (6) months from the effectivity of this Act.
 
-**Section 5._Powers and Functions of the Board._** \- The Board is hereby vested the following powers and functions:
+### Section 5
+
+_Powers and Functions of the Board._ \- The Board is hereby vested the following powers and functions:
 
 (a) Provide comprehensive policy guidelines for the promotion and development of the real estate industry;
 
@@ -108,7 +118,9 @@ The first Board shall be organized within six (6) months from the effectivity of
 
 The policies, resolutions and rules and regulations issued or promulgated by the Board shall be subject to the review and approval by the Commission. However, the Board's decisions, resolutions or orders which are not interlocutory, rendered in an administrative case, shall be subject to review by the Commission only on appeal.
 
-**Section 6._Qualifications of the Chairperson and Members of the Board._** \- The chairperson and the members of the Board shall, at the time of their appointment, possess the following qualifications:
+### Section 6
+
+_Qualifications of the Chairperson and Members of the Board._ \- The chairperson and the members of the Board shall, at the time of their appointment, possess the following qualifications:
 
 (a) A citizen and resident of the Philippines;
 
@@ -122,23 +134,37 @@ The policies, resolutions and rules and regulations issued or promulgated by the
 
 (f) Of good moral character, and must not have been convicted by final judgment by a competent court of a criminal offense involving moral turpitude.
 
-**Section 7._Term of Office._** \- The chairperson and the members of the Board shall hold office for a term of three (3) years from the date of their appointment and until their successor/s shall have been appointed: _Provided_ , That the members of the first appointed Board shall hold office for the following terms: one (1) member as chairperson, to serve for three (3) years; two (2) members, to serve for two (2) years; and two (2) members, to serve for one (1) year.
+### Section 7
+
+_Term of Office._ \- The chairperson and the members of the Board shall hold office for a term of three (3) years from the date of their appointment and until their successor/s shall have been appointed: _Provided_ , That the members of the first appointed Board shall hold office for the following terms: one (1) member as chairperson, to serve for three (3) years; two (2) members, to serve for two (2) years; and two (2) members, to serve for one (1) year.
 
 The chairperson and the members of the Board may be reappointed for a second term but in no case shall he/she serve continuously for more than six (6) years. Any vacancy in the Board shall be filled for the unexpired portion of the term of the member who vacated the position. On the constitution of the first Board, the chairperson and the members of the Board shall automatically be registered and issued certificates of registration and professional identification cards. Each member of the Board shall take the proper oath of office prior to the assumption of duty.
 
-**Section 8._Compensation and Allowances of the Chairperson and Members of the Board._** \- The chairperson and the members of the Board shall receive compensation and allowances comparable to the compensation and allowances received by the chairman and the members of existing professional regulatory boards under the Commission, as provided for in the General Appropriations Act.
+### Section 8
 
-**Section 9._Removal of the Chairperson and Members of the Board._** \- The chairperson or any member of the Board may be suspended or removed by the President of the Philippines, upon the recommendation of the Commission, for neglect of duty; abuse of power; oppression; incompetence; unprofessional, unethical, immoral or dishonorable conduct; commission or toleration of irregularities in the conduct of examination or tampering of the grades therein, or for any final judgment or conviction of any criminal offense involving moral turpitude.
+_Compensation and Allowances of the Chairperson and Members of the Board._ \- The chairperson and the members of the Board shall receive compensation and allowances comparable to the compensation and allowances received by the chairman and the members of existing professional regulatory boards under the Commission, as provided for in the General Appropriations Act.
 
-**Section 10._Supervision of the Board, Custodian of its Records, Secretariat and Support Services._** \- The Board shall be under the general supervision and administrative control of the Commission. All records of the Board, including applications for examination, examination papers and results, minutes of deliberations, administrative and other investigative cases involving real estate service practitioners, shall be kept by the Commission. The Commission shall designate the secretary of the Board and shall provide the secretariat and other support services to implement the provisions of this Act subject to the usual government accounting and auditing rules and regulations.
+### Section 9
 
-**Section 11._Annual Report._** \- The Board shall, at the close of each calendar year, submit an annual report to the Commission, giving a detailed account of its proceedings and accomplishments during the year and recommending measures to be adopted with the end-in-view of upgrading and improving the conditions affecting the practice of real estate service in the Philippines.
+_Removal of the Chairperson and Members of the Board._ \- The chairperson or any member of the Board may be suspended or removed by the President of the Philippines, upon the recommendation of the Commission, for neglect of duty; abuse of power; oppression; incompetence; unprofessional, unethical, immoral or dishonorable conduct; commission or toleration of irregularities in the conduct of examination or tampering of the grades therein, or for any final judgment or conviction of any criminal offense involving moral turpitude.
+
+### Section 10
+
+_Supervision of the Board, Custodian of its Records, Secretariat and Support Services._ \- The Board shall be under the general supervision and administrative control of the Commission. All records of the Board, including applications for examination, examination papers and results, minutes of deliberations, administrative and other investigative cases involving real estate service practitioners, shall be kept by the Commission. The Commission shall designate the secretary of the Board and shall provide the secretariat and other support services to implement the provisions of this Act subject to the usual government accounting and auditing rules and regulations.
+
+### Section 11
+
+_Annual Report._ \- The Board shall, at the close of each calendar year, submit an annual report to the Commission, giving a detailed account of its proceedings and accomplishments during the year and recommending measures to be adopted with the end-in-view of upgrading and improving the conditions affecting the practice of real estate service in the Philippines.
 
 ## ARTICLE III — LICENSURE EXAMINATION AND REGISTRATION
 
-**Section 12._Licensure Examination._** \- Every applicant seeking to be registered and licensed as a real estate service practitioner, except a real estate salesperson, shall undergo an examination as provided for in this Act. Examinations for the practice of real estate service in the Philippines shall be given by the Board at least once every year in such places and dates as the Commission may designate.
+### Section 12
 
-**Section 13._Scope of Examination._** \- An examination shall be given to the licensure applicants for real estate brokers, real estate appraisers and real estate consultants which shall include, but not limited to, the following:
+_Licensure Examination._ \- Every applicant seeking to be registered and licensed as a real estate service practitioner, except a real estate salesperson, shall undergo an examination as provided for in this Act. Examinations for the practice of real estate service in the Philippines shall be given by the Board at least once every year in such places and dates as the Commission may designate.
+
+### Section 13
+
+_Scope of Examination._ \- An examination shall be given to the licensure applicants for real estate brokers, real estate appraisers and real estate consultants which shall include, but not limited to, the following:
 
 (a) For real estate consultants - fundamentals of real estate consulting; standards and ethics; consulting tools and techniques, which include project feasibility study and investment measurement tools; real estate finance and economics; real estate consulting and investment analyses; consulting for specific engagement, which includes consulting for commercial, industrial, recreation and resort and hotel properties, and consulting for government and corporate and financial institutions; land management system and real property laws; and any other related subjects as may be determined by the Board;
 
@@ -148,7 +174,9 @@ The chairperson and the members of the Board may be reappointed for a second ter
 
 To conform with technological and modern developments, the Board may recluster, rearrange, modify, add to, or exclude any of the foregoing subjects as may be necessary.
 
-**Section 14._Qualification of Applicants for Examinations._** \- In order to be admitted to the licensure examination for real estate service, a candidate shall, at the time of filing his/her application, establish to the satisfaction of the Board that he/she possesses the following qualifications:
+### Section 14
+
+_Qualification of Applicants for Examinations._ \- In order to be admitted to the licensure examination for real estate service, a candidate shall, at the time of filing his/her application, establish to the satisfaction of the Board that he/she possesses the following qualifications:
 
 (a) A citizen of the Philippines;
 
@@ -158,17 +186,27 @@ To conform with technological and modern developments, the Board may recluster, 
 
 All applications for examination shall be filed with the Board which shall assess and approve said applications and issue to the qualified examinees the corresponding permits to take such examination.
 
-**Section 15._Ratings in the Examination._** \- In order that a candidate may be deemed to have successfully passed the examination, he/she must have obtained an average of at least seventy-five percent (75%) in all subjects, with no rating below fifty percent (50%) in any subject.
+### Section 15
 
-**Section 16._Release of the Results of Examination._** \- The results of the licensure examination shall be released by the Board within ten (10) days from the last day of the examination.
+_Ratings in the Examination._ \- In order that a candidate may be deemed to have successfully passed the examination, he/she must have obtained an average of at least seventy-five percent (75%) in all subjects, with no rating below fifty percent (50%) in any subject.
 
-**Section 17._Issuance of the Certificate of Registration and Professional Identification Card._** \- A certificate of registration shall be issued to examinees who pass the licensure examination for real estate service subject to payment of fees prescribed by the Commission. The certificate of registration shall bear the signature of the chairperson of the Commission and the chairperson and the members of the Board, stamped with the official seal of the Commission, indicating that the person named therein is entitled to practice the profession with all the benefits and privileges appurtenant thereto. This certificate of registration shall remain in full force and effect until revoked or suspended in accordance with this Act.
+### Section 16
+
+_Release of the Results of Examination._ \- The results of the licensure examination shall be released by the Board within ten (10) days from the last day of the examination.
+
+### Section 17
+
+_Issuance of the Certificate of Registration and Professional Identification Card._ \- A certificate of registration shall be issued to examinees who pass the licensure examination for real estate service subject to payment of fees prescribed by the Commission. The certificate of registration shall bear the signature of the chairperson of the Commission and the chairperson and the members of the Board, stamped with the official seal of the Commission, indicating that the person named therein is entitled to practice the profession with all the benefits and privileges appurtenant thereto. This certificate of registration shall remain in full force and effect until revoked or suspended in accordance with this Act.
 
 A professional identification card bearing the registration number, date of issuance and expiry date, duly signed by the chairperson of the Commission, shall likewise be issued to every registrant upon payment of the required fees. The professional identification card shall be renewed every three (3) years and upon satisfying the requirements of the Board such as, but not limited to, attendance in the CPE program.
 
-**Section 18._Refusal to Register._** \- The Board shall not register and issue a certificate of registration to any successful examinee who has been convicted by a court of competent jurisdiction of any criminal offense involving moral turpitude or has been found guilty of immoral or dishonorable conduct after investigation by the Board, or has been found to be psychologically unfit.
+### Section 18
 
-**Section 19._Revocation or Suspension of the Certificate of Registration and the Professional Identification Card or Cancellation of Special/Temporary Permit._** \- The Board may, after giving proper notice and hearing to the party concerned, revoke the certificate of registration and the professional identification card, or cancel the special/temporary permit of a real estate service practitioner, or suspend him/her from the practice of the profession on any of the following instances hereunder:
+_Refusal to Register._ \- The Board shall not register and issue a certificate of registration to any successful examinee who has been convicted by a court of competent jurisdiction of any criminal offense involving moral turpitude or has been found guilty of immoral or dishonorable conduct after investigation by the Board, or has been found to be psychologically unfit.
+
+### Section 19
+
+_Revocation or Suspension of the Certificate of Registration and the Professional Identification Card or Cancellation of Special/Temporary Permit._ \- The Board may, after giving proper notice and hearing to the party concerned, revoke the certificate of registration and the professional identification card, or cancel the special/temporary permit of a real estate service practitioner, or suspend him/her from the practice of the profession on any of the following instances hereunder:
 
 (a) Procurement of a certificate of registration and/or professional identification card, or special/temporary permit by fraud or deceit;
 
@@ -180,7 +218,9 @@ A professional identification card bearing the registration number, date of issu
 
 (e) Engaging in the practice of the profession during the period of one's suspension.
 
-**Section 20._Registration Without Examination_ ,** \- Upon application and payment of the required fees, the following shall be registered, and shall be issued by the Board and the Commission a certificate of registration and a professional identification card without taking the prescribed examination:
+### Section 20
+
+_Registration Without Examination_ , \- Upon application and payment of the required fees, the following shall be registered, and shall be issued by the Board and the Commission a certificate of registration and a professional identification card without taking the prescribed examination:
 
 (a) Those who, on the date of the effectivity of this Act, are already licensed as real estate brokers, real estate appraisers or real estate consultants by the Department of Trade and Industry (DTI) by virtue of Ministry Order No. 39, as amended: _Provided_ , That they are in active practice as real estate brokers, real estate appraisers and real estate consultants, and have undertaken relevant CPE to the satisfaction of the Board;
 
@@ -192,25 +232,41 @@ Those falling under categories (b) and (c) shall register with the Board after t
 
 Those so exempt under the aforementioned categories shall file their application within two (2) years from the effectivity of this Act: _Provided_ , That the renewal of the professional identification card is subject to the provisions of Section 17 hereof.
 
-**Section 21._Reinstatement, Reissuance or Replacement of Certificate of Registration, Professional Identification Card and Special/Temporary Permit._** \- The Board may, after the expiration of two (2) years from the date of revocation of a certificate of registration and/or professional identification card, and upon application, compliance with the required CPE units, and for reasons deemed proper and sufficient, reinstate any revoked certificate of registration and reissue a suspended professional identification card and in so doing, may, in its discretion, exempt the applicant from taking another examination.
+### Section 21
+
+_Reinstatement, Reissuance or Replacement of Certificate of Registration, Professional Identification Card and Special/Temporary Permit._ \- The Board may, after the expiration of two (2) years from the date of revocation of a certificate of registration and/or professional identification card, and upon application, compliance with the required CPE units, and for reasons deemed proper and sufficient, reinstate any revoked certificate of registration and reissue a suspended professional identification card and in so doing, may, in its discretion, exempt the applicant from taking another examination.
 
 A new certificate of registration, professional identification card or special/temporary permit may be issued to replace lost, destroyed or mutilated ones, subject to the rules as may be promulgated by the Board.
 
-**Section 22._Roster of Real Estate Service Practitioners._** \- The Board, in coordination with the integrated professional organization of real estate service practitioners, shall prepare, update and maintain a roster of real estate service practitioners which shall contain the names of all registered real estate service practitioners, their residence and office addresses, license number, dates of registration or issuance of certificates, and other data which.the Board may deem pertinent. Copies thereof shall be made available to the public upon request.
+### Section 22
 
-**Section 23._Issuance of Special/Temporary Permit._** \- Upon application and payment of the required fees and. subject to the approval of the Commission, the Board may issue special/temporary permit to real estate service practitioners from foreign countries whose services are urgently needed in the absence or unavailability of local real estate service^ practitioners for the purpose of promoting or enhancing the practice of the profession in the Philippines.
+_Roster of Real Estate Service Practitioners._ \- The Board, in coordination with the integrated professional organization of real estate service practitioners, shall prepare, update and maintain a roster of real estate service practitioners which shall contain the names of all registered real estate service practitioners, their residence and office addresses, license number, dates of registration or issuance of certificates, and other data which.the Board may deem pertinent. Copies thereof shall be made available to the public upon request.
 
-**Section 24._Foreign Reciprocity._** \- No foreign real estate service practitioner shall be admitted to the licensure examination or be given a certificate of registration or a professional identification card, or be entitled to any of the privileges under this Act unless the country of which he/she is a citizen specifically allows Filipino real estate service practitioners to practice within its territorial limits on the same basis as citizens of such foreign country.
+### Section 23
+
+_Issuance of Special/Temporary Permit._ \- Upon application and payment of the required fees and. subject to the approval of the Commission, the Board may issue special/temporary permit to real estate service practitioners from foreign countries whose services are urgently needed in the absence or unavailability of local real estate service^ practitioners for the purpose of promoting or enhancing the practice of the profession in the Philippines.
+
+### Section 24
+
+_Foreign Reciprocity._ \- No foreign real estate service practitioner shall be admitted to the licensure examination or be given a certificate of registration or a professional identification card, or be entitled to any of the privileges under this Act unless the country of which he/she is a citizen specifically allows Filipino real estate service practitioners to practice within its territorial limits on the same basis as citizens of such foreign country.
 
 ## ARTICLE IV — PRACTICE OF REAL ESTATE SERVICE
 
-**Section 25._Oath._** \- All successful examinees qualified for registration and all qualified applicants for registration without examination as well as accredited salespersons shall be required to take an oath before any member of the Board or any officer of the Commission duly authorized by the Commission to administer oaths prior to entering into the practice of real estate service in the Philippines.
+### Section 25
 
-**Section 26._Professional Indemnity Insurance/Cash or Surety Bond._** \- All real estate brokers and private real estate appraisers shall, in addition to the oath referred to in the preceding section, be required to post a professional indemnity insurance/cash or surety bond, renewable every three (3) years, in an amount to be determined by the Board, which in no case shall be less than Twenty thousand pesos (P20,000.00), without prejudice to the additional requirement of the client.
+_Oath._ \- All successful examinees qualified for registration and all qualified applicants for registration without examination as well as accredited salespersons shall be required to take an oath before any member of the Board or any officer of the Commission duly authorized by the Commission to administer oaths prior to entering into the practice of real estate service in the Philippines.
 
-**Section 27._Acts Constituting the Practice of Real Estate Service._** \- Any single act or transaction embraced within the provisions of Section 3(g) hereof, as performed by real estate service practitioners, shall constitute an act of engaging in the practice of real estate service.
+### Section 26
 
-**Section 28._Exemptions from the Acts Constituting the Practice of Real Estate Service._** \- The provisions of this Act and its rules and regulations shall not apply to the following":
+_Professional Indemnity Insurance/Cash or Surety Bond._ \- All real estate brokers and private real estate appraisers shall, in addition to the oath referred to in the preceding section, be required to post a professional indemnity insurance/cash or surety bond, renewable every three (3) years, in an amount to be determined by the Board, which in no case shall be less than Twenty thousand pesos (P20,000.00), without prejudice to the additional requirement of the client.
+
+### Section 27
+
+_Acts Constituting the Practice of Real Estate Service._ \- Any single act or transaction embraced within the provisions of Section 3(g) hereof, as performed by real estate service practitioners, shall constitute an act of engaging in the practice of real estate service.
+
+### Section 28
+
+_Exemptions from the Acts Constituting the Practice of Real Estate Service._ \- The provisions of this Act and its rules and regulations shall not apply to the following":
 
 (a) Any person, natural or juridical, who shall directly perform by himself/herself the acts mentioned in Section 3 hereof with reference to his/her or its own property, except real estate developers;
 
@@ -222,19 +278,27 @@ A new certificate of registration, professional identification card or special/t
 
 (e) Public officers in the performance of their official duties and functions, except government assessors and appraisers.
 
-**Section 29._Prohibition Against the Unauthorized Practice of Real Estate Service._** \- No person shall practice or offer to practice real estate service in the Philippines or offer himself/herself as real estate service practitioner, or use the title, word, letter, figure or any sign tending to convey the impression that one is a real estate service practitioner, or advertise or indicate in any manner whatsoever that one is qualified to practice the profession, or be appointed as real property appraiser or assessor in any national government entity or local government unit, unless he/she has satisfactorily passed the licensure examination given by the Board, except as otherwise provided in this Act, a holder of a valid certificate of registration, and professional identification card or a valid special/temporary permit duly issued to him/her by the Board and the Commission, and in the case of real estate brokers and private appraisers, they have paid the required bond as hereto provided.
+### Section 29
 
-**Section 30._Positions in Government Requiring the Services of Registered and Licensed Real Estate Service Practitioners._** \- Within three (3) years from the effectivity of this Act, all existing and new positions in the national and local governments, whether career, permanent, temporary or contractual, and primarily requiring the services of any real estate service practitioner, shall be filled only by registered and licensed real estate service practitioners.
+_Prohibition Against the Unauthorized Practice of Real Estate Service._ \- No person shall practice or offer to practice real estate service in the Philippines or offer himself/herself as real estate service practitioner, or use the title, word, letter, figure or any sign tending to convey the impression that one is a real estate service practitioner, or advertise or indicate in any manner whatsoever that one is qualified to practice the profession, or be appointed as real property appraiser or assessor in any national government entity or local government unit, unless he/she has satisfactorily passed the licensure examination given by the Board, except as otherwise provided in this Act, a holder of a valid certificate of registration, and professional identification card or a valid special/temporary permit duly issued to him/her by the Board and the Commission, and in the case of real estate brokers and private appraisers, they have paid the required bond as hereto provided.
+
+### Section 30
+
+_Positions in Government Requiring the Services of Registered and Licensed Real Estate Service Practitioners._ \- Within three (3) years from the effectivity of this Act, all existing and new positions in the national and local governments, whether career, permanent, temporary or contractual, and primarily requiring the services of any real estate service practitioner, shall be filled only by registered and licensed real estate service practitioners.
 
 All incumbent assessors holding permanent appointments shall continue to perform their functions without need for re appointment and without diminution of status, rank and salary grade, and shall enjoy security of tenure. However, they may not be promoted to a higher position until they meet the qualification requirements of that higher position as herein prescribed. Nothing in this Act shall be construed to reduce any benefit, interest, or right enjoyed by the incumbents at the time of the enactment of this Act. The appointing authority shall exercise his power to appoint the assessor in accordance with the provisions of this Act only when a vacancy occurs.
 
-**Section 31._Supervision of Real Estate Salespersons._** \- For real estate salespersons, no examination shall be given, but they shall be accredited by the Board: _Provided_ , That they have completed at least two (2) years of college and have undergone training and seminars in real estate brokerage, as may be required by the Board. Real estate salespersons shall be under the direct supervision and accountability of a real estate broker. As such, they cannot by themselves be signatories to a written agreement involving a real estate transaction unless the real estate broker who has direct supervision and accountability over them is also a signatory thereto. No real estate salesperson, either directly or indirectly, can negotiate, mediate or transact any real estate transaction for and in behalf of a real estate broker without first securing an authorized accreditation as real estate salesperson for the real estate broker, as prescribed by the Board. A real estate broker shall be guilty of violating this Act for employing or utilizing the services of a real estate salesperson when he/she has not secured the required accreditation from the Board prior to such employment.
+### Section 31
+
+_Supervision of Real Estate Salespersons._ \- For real estate salespersons, no examination shall be given, but they shall be accredited by the Board: _Provided_ , That they have completed at least two (2) years of college and have undergone training and seminars in real estate brokerage, as may be required by the Board. Real estate salespersons shall be under the direct supervision and accountability of a real estate broker. As such, they cannot by themselves be signatories to a written agreement involving a real estate transaction unless the real estate broker who has direct supervision and accountability over them is also a signatory thereto. No real estate salesperson, either directly or indirectly, can negotiate, mediate or transact any real estate transaction for and in behalf of a real estate broker without first securing an authorized accreditation as real estate salesperson for the real estate broker, as prescribed by the Board. A real estate broker shall be guilty of violating this Act for employing or utilizing the services of a real estate salesperson when he/she has not secured the required accreditation from the Board prior to such employment.
 
 No salesperson shall be entitled to receive or demand a fee, commission or compensation of any kind from any person, other than the duly licensed real estate broker who has direct control and supervision over him, for any service rendered or work done by such salesperson in any real estate transaction.
 
 No violation of this provision shall be a cause for revocation or suspension of the certificate of registration of the real estate broker unless there was actual knowledge of such violation or the broker retains the benefits, profits or proceeds of a transaction wrongfully negotiated by the salesperson.
 
-**Section 32._Corporate Practice of the Real Estate Service._** -
+### Section 32
+
+_Corporate Practice of the Real Estate Service._ -
 
 (a) No partnership or corporation shall engage in the business of real estate service unless it is duly registered with the Securities and Exchange Commission (SEC), and the persons authorized to act for the partnership or corporation are all duly registered and licensed real estate brokers, appraisers or consultants, as the case may be. The partnership or corporation shall regularly submit a list of its real estate service practitioners to the Commission and to the SEC as part of its annual reportorial requirements. There shall at least be one (1) licensed real estate broker for every twenty (20) accredited salespersons.
 
@@ -246,41 +310,67 @@ In case of resignation or termination from employment of a real estate service p
 
 Subject to the provisions of the Labor Code, a corporation or partnership may hire the services of registered and licensed real estate brokers, appraisers or consultants on commission basis to perform real estate services and the latter shall be deemed independent contractors and not employees of such corporations.
 
-**Section 33._Display of License in the Place of Business._** \- Every registered and licensed real estate service practitioner shall establish and maintain a principal place of business and such other branch offices as may be necessary, and shall conspicuously display therein the original and/or certified true copies of his/her certificate of registration as well as the certificates of registration of all the real estate service practitioners employed in such office.
+### Section 33
 
-**Section 34._Accreditation and Integration of Real Estate Service Associations._** \- All real estate service associations shall be integrated into one (1) national organization, which shall be recognized by the Board, subject to the approval of the Commission, as the only accredited and integrated professional organization of real estate service practitioners.
+_Display of License in the Place of Business._ \- Every registered and licensed real estate service practitioner shall establish and maintain a principal place of business and such other branch offices as may be necessary, and shall conspicuously display therein the original and/or certified true copies of his/her certificate of registration as well as the certificates of registration of all the real estate service practitioners employed in such office.
+
+### Section 34
+
+_Accreditation and Integration of Real Estate Service Associations._ \- All real estate service associations shall be integrated into one (1) national organization, which shall be recognized by the Board, subject to the approval of the Commission, as the only accredited and integrated professional organization of real estate service practitioners.
 
 A real estate service practitioner duly registered with the Board shall automatically become a member of the accredited and integrated professional organization of real estate service practitioners, and shall receive the benefits and privileges appurtenant thereto. Membership in the accredited and integrated professional organization of real estate service practitioners shall not be a bar to membership in other associations of real estate service practitioners.
 
-**Section 35._Code of Ethics and Responsibilities for Real Estate Service Practitioners._** \- The Board shall adopt and promulgate the Code of Ethics and Responsibilities for real estate service practitioners which shall be prescribed and issued by the accredited and integrated professional organization of real estate service practitioners.
+### Section 35
 
-**Section 36._Continuing Professional Education (CPE) Program._** \- The Board shall develop, prescribe and promulgate guidelines on CPE upon consultation with the accredited and integrated professional organization of real estate service practitioners, affiliated association of real estate service practitioners and other concerned sectors, and in accordance with such policies as may have been prescribed by the Board, subject to the approval of the Commission. The Board shall create a CPE Council that shall be composed of a chairperson coming from the Board, a member from the accredited and integrated professional organization of real estate service practitioners and a member from the academe.
+_Code of Ethics and Responsibilities for Real Estate Service Practitioners._ \- The Board shall adopt and promulgate the Code of Ethics and Responsibilities for real estate service practitioners which shall be prescribed and issued by the accredited and integrated professional organization of real estate service practitioners.
 
-**Section 37._Enforcement Assistance to the Board._** \- The Board shall be assisted by the Commission in carrying out the provisions of this Act and its implementing rules and regulations and other policies. The lawyers of the Commission shall act as prosecutors against illegal practitioners and other violators of this Act and its rules. The duly constituted authorities of the government shall likewise assist the Board and the Commission in enforcing the provisions of this Act and its rules.
+### Section 36
 
-**Section 38._Indication of the Certificate of Registration, Professional Identification Card/License Number, Privilege Tax Receipt (PTR) Number and Accredited Professional Organization (APO) Number._** \- Real estate service practitioners shall be required to indicate the certificate of registration, professional identification card, PTR number, and APO receipt number, and the date of issuance and the duration of validity on the documents he/she signs, uses or issues in connection with the practice of his/her profession.
+_Continuing Professional Education (CPE) Program._ \- The Board shall develop, prescribe and promulgate guidelines on CPE upon consultation with the accredited and integrated professional organization of real estate service practitioners, affiliated association of real estate service practitioners and other concerned sectors, and in accordance with such policies as may have been prescribed by the Board, subject to the approval of the Commission. The Board shall create a CPE Council that shall be composed of a chairperson coming from the Board, a member from the accredited and integrated professional organization of real estate service practitioners and a member from the academe.
+
+### Section 37
+
+_Enforcement Assistance to the Board._ \- The Board shall be assisted by the Commission in carrying out the provisions of this Act and its implementing rules and regulations and other policies. The lawyers of the Commission shall act as prosecutors against illegal practitioners and other violators of this Act and its rules. The duly constituted authorities of the government shall likewise assist the Board and the Commission in enforcing the provisions of this Act and its rules.
+
+### Section 38
+
+_Indication of the Certificate of Registration, Professional Identification Card/License Number, Privilege Tax Receipt (PTR) Number and Accredited Professional Organization (APO) Number._ \- Real estate service practitioners shall be required to indicate the certificate of registration, professional identification card, PTR number, and APO receipt number, and the date of issuance and the duration of validity on the documents he/she signs, uses or issues in connection with the practice of his/her profession.
 
 ## ARTICLE V — PENAL AND FINAL PROVISIONS
 
-**Section 39._Penal Provisions_ ,** \- Any violation of this Act, including violations of implementing rules and regulations, shall be meted the penalty of a fine of not less than One hundred thousand pesos (P100,000.00) or imprisonment of not less than two (2) years, or both such fine and imprisonment upon the discretion of the court. In case the violation is committed by an unlicensed real estate service practitioner, the penalty shall be double the aforesaid fine and imprisonment.
+### Section 39
+
+_Penal Provisions_ , \- Any violation of this Act, including violations of implementing rules and regulations, shall be meted the penalty of a fine of not less than One hundred thousand pesos (P100,000.00) or imprisonment of not less than two (2) years, or both such fine and imprisonment upon the discretion of the court. In case the violation is committed by an unlicensed real estate service practitioner, the penalty shall be double the aforesaid fine and imprisonment.
 
 In case the violation is committed, by a partnership, corporation, association or any other juridical person, the partner, president, director or manager who has committed or consented to or knowingly tolerated such violation shall be held directly liable and responsible for the acts as principal or as a co-principal with the other participants, if any.
 
-**Section 40._Appropriations._** \- The chairperson of the Professional Regulation Commission shall immediately include in the Commission's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act and thereafter.
+### Section 40
 
-**Section 41._Transitory Provision._** \- Within ninety (90) days from the effectivity of this Act, the DTI - Bureau of Trade Regulation and Consumer Protection (BTRCP) shall transfer all pertinent records, documents and other materials to the Professional Regulatory Board of Real Estate Service.
+_Appropriations._ \- The chairperson of the Professional Regulation Commission shall immediately include in the Commission's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act and thereafter.
 
-**Section 42._Implementing Rules and Regulations._** \- Within six (6) months after the effectivity of this Act, the Commission, together with the Board and the accredited and integrated professional organization of real estate service practitioners, the Department of Finance, and the CHED, shall prepare the necessary rules and regulations, including the Code of Ethics and Responsibilities for real estate service practitioners, needed to implement the provisions of this Act.
+### Section 41
 
-**Section 43._Separability Clause._** \- If any clause, sentence, paragraph or part of this Act shall be declared unconstitutional or invalid, such judgment shall not affect, invalidate or impair any other part of this Act.
+_Transitory Provision._ \- Within ninety (90) days from the effectivity of this Act, the DTI - Bureau of Trade Regulation and Consumer Protection (BTRCP) shall transfer all pertinent records, documents and other materials to the Professional Regulatory Board of Real Estate Service.
 
-**Section 44._Repealing Clause._** -
+### Section 42
+
+_Implementing Rules and Regulations._ \- Within six (6) months after the effectivity of this Act, the Commission, together with the Board and the accredited and integrated professional organization of real estate service practitioners, the Department of Finance, and the CHED, shall prepare the necessary rules and regulations, including the Code of Ethics and Responsibilities for real estate service practitioners, needed to implement the provisions of this Act.
+
+### Section 43
+
+_Separability Clause._ \- If any clause, sentence, paragraph or part of this Act shall be declared unconstitutional or invalid, such judgment shall not affect, invalidate or impair any other part of this Act.
+
+### Section 44
+
+_Repealing Clause._ -
 
 (a) Sections 3(e) and (ee) of Act No. 2728, as amended by Act No. 3715 and Act No. 3969, Sections 472 and 473 of the Local Government Code of 1991 (Republic Act No. 7160), and pertinent provisions of the Civil Service Law are hereby modified accordingly.
 
 (b) All laws, decrees, executive orders, department or memorandum orders and other administrative issuances or parts thereof which are inconsistent with the provisions of this Act are hereby modified, superseded or repealed accordingly.
 
-**Section 45._Effectivity._** \- This Act shall take effect fifteen (15) days following its publication in the _Official Gazette_ or in a major daily newspaper of general circulation in the Philippines.
+### Section 45
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days following its publication in the _Official Gazette_ or in a major daily newspaper of general circulation in the Philippines.
 
 Approved.
 

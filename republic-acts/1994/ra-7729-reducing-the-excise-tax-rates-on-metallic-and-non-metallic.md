@@ -64,6 +64,6 @@ All laws, decrees, orders, rules and regulations, or parts thereof, inconsistent
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier.1a⍵⍴h!1
+This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier.
 
 Approved, June 2, 1994.

@@ -28,7 +28,7 @@ There shall be established under the direct supervision of the Director of Vocat
 
 ## Section 2
 
-Upon the recommendation of the Director of Vocational Education, the President shall set aside and reserve such portion of the public lands located within the barrio of Cumadcad, Municipality of Castilla, Province of Sorsogon, as may be necessary and convenient for the establishment of the said school and of its farm sites.1âшphi1
+Upon the recommendation of the Director of Vocational Education, the President shall set aside and reserve such portion of the public lands located within the barrio of Cumadcad, Municipality of Castilla, Province of Sorsogon, as may be necessary and convenient for the establishment of the said school and of its farm sites.
 
 ## Section 3
 

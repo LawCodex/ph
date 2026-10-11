@@ -28,17 +28,27 @@ AN ACT CONVERTING THE SAMAR STATE POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF CAT
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Conversion._** \- The Samar State Polytechnic College in the Municipality of Catbalogan, Province of Samar is hereby converted into a state university to be known as the Samar State University, hereinafter referred to as the University, integrating therewith the Wright Vocactional School in Paranas. Samar. The main campus of the University shall be in Catbalogan, Samar.
+## Section 1
 
-**Section 2._General Mandate._** \- The University shall primarily provide advanced instruction and professional training in the arts, philosophy, social sciences, agriculture and fishery, forestry, science and technology engineering, education, law and other related fields. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+_Conversion._ \- The Samar State Polytechnic College in the Municipality of Catbalogan, Province of Samar is hereby converted into a state university to be known as the Samar State University, hereinafter referred to as the University, integrating therewith the Wright Vocactional School in Paranas. Samar. The main campus of the University shall be in Catbalogan, Samar.
 
-**Section 3._Curricular offerings._** \- The University shall offer undergraduate, graduate and short-term technical courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Samar and the Region.
+## Section 2
+
+_General Mandate._ \- The University shall primarily provide advanced instruction and professional training in the arts, philosophy, social sciences, agriculture and fishery, forestry, science and technology engineering, education, law and other related fields. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+
+## Section 3
+
+_Curricular offerings._ \- The University shall offer undergraduate, graduate and short-term technical courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Samar and the Region.
 
 The existing high schools shall be transferred to the jurisdiction and supervision of the Department of Education; Provided, That the high school shall be allowed to remain and operate within the campus of the University until the existing students shall have completed their high school education; Provided, Further, That the University may operate a reasonably-sized laboratory school, it has a College of Education.
 
-**Section 4._Administration._** \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as "The Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University insofar as authorized by the Board.
+## Section 4
 
-**Section 5._Governing Board._** \- The Governing Board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as "The Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University insofar as authorized by the Board.
+
+## Section 5
+
+_Governing Board._ \- The Governing Board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 (a) The Chairperson of the Commission on Higher Education (CHED), chairperson;
 
@@ -68,9 +78,13 @@ The term of office of the president of the federation of faculty associations, t
 
 The three (3) prominent citizens shall serve for a term of two (2) years.
 
-**Section 6._Promulgation and Implementation of Policies._** \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+## Section 6
 
-**Section 7._Powers and Duties of the Board of Regents._** \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+
+## Section 7
+
+_Powers and Duties of the Board of Regents._ \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
 
 (a) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University;
 
@@ -130,7 +144,9 @@ If, for reasons beyond its control, the University shall not be able to pursue a
 
 (y) To extend the term of the president of the University beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated by the Governing Board as outstanding after unanimous recommendation by the search committee.
 
-**Section 8._Meetings of the Board._** \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days’ prior written notice, call a special meeting whenever necessary.
+## Section 8
+
+_Meetings of the Board._ \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days’ prior written notice, call a special meeting whenever necessary.
 
 A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting; Provided. That the Chairperson of the Board or the president of the University is among those present in the meeting.
 
@@ -140,7 +156,9 @@ In the absence of the Chairpersons of the Congressional Committees on Education,
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**Section 9._The University President._** \- The University shall be headed by a president, who shall render full time service. He/she shall be appointed by the Board upon recommendation of a duly constituted search committee. He/she shall have a term of four (4) years and shall be eligible for reappointment for another term; Provided. That in order to ensure a smooth transition to a University, the incumbent president of the Samar State Polytechnic College shall become the first president of the University until the expiration of his/her original appointment. Thereafter, a search committee shall be constituted for the purpose of recommending to the Board who shall be the succeeding president of the University.
+## Section 9
+
+_The University President._ \- The University shall be headed by a president, who shall render full time service. He/she shall be appointed by the Board upon recommendation of a duly constituted search committee. He/she shall have a term of four (4) years and shall be eligible for reappointment for another term; Provided. That in order to ensure a smooth transition to a University, the incumbent president of the Samar State Polytechnic College shall become the first president of the University until the expiration of his/her original appointment. Thereafter, a search committee shall be constituted for the purpose of recommending to the Board who shall be the succeeding president of the University.
 
 The president of the University shall be assisted by a vice president for Academic Affairs and a vice president for Administrative Affairs who shall be appointed by the Board, upon the recommendation of the president, without prejudice to the appointment of more that two (2) vice presidents when so warranted.
 
@@ -152,33 +170,55 @@ The powers and duties of the president of the University, in addition to those s
 
 The salary of the president of the University shall be in accordance with the Revised Compensation and Position Classification System and shall be comparable to that being received by the presidents of similar educational institutions of like standing.
 
-**Section 10._The Administrative Council._** \- There shall be an Adminstrative Council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board of Regents policies governing the management, administration and development planning of the University for appropriate action by the Board.
+## Section 10
 
-**Section 11._The Academic Council._** – There shall be an Academic Council with the president of the University as Chairperson and all members of the academic staff with the rank of not lower than assistant professor as members.
+_The Administrative Council._ \- There shall be an Adminstrative Council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board of Regents policies governing the management, administration and development planning of the University for appropriate action by the Board.
+
+## Section 11
+
+_The Academic Council._ – There shall be an Academic Council with the president of the University as Chairperson and all members of the academic staff with the rank of not lower than assistant professor as members.
 
 The Academic Council shall have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the appropriate action by the Board of Regents. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and/or approval by the Board of Regents through the president of the University. It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board of Regents.
 
-**Section 12._The Secretary of the University._** – The Board shall appoint a Secretary, who shall serve as such for both the board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
+## Section 12
 
-**Section 13._The Treasurer of the University._** – The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+_The Secretary of the University._ – The Board shall appoint a Secretary, who shall serve as such for both the board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
 
-**Section 14._Faculty._** – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: Provided, however, that no member of the faculty shall teach for or against any particular church or religious sect.
+## Section 13
 
-**Section 15._Scholarship Program/Admission._** – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ – The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+
+## Section 14
+
+_Faculty._ – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: Provided, however, that no member of the faculty shall teach for or against any particular church or religious sect.
+
+## Section 15
+
+_Scholarship Program/Admission._ – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**Section 16._Academic Freedom and Institutional Autonomy._** – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2. Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## Section 16
 
-**Section 17._Authority to Loan and Transfer._** – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2. Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**Section 18._Assets, Liabilities and Personnel._** – All assets, real and personal, personnel and records of the Samar State Polytechnic College and the Wright Vocational School, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
+## Section 17
+
+_Authority to Loan and Transfer._ – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## Section 18
+
+_Assets, Liabilities and Personnel._ – All assets, real and personal, personnel and records of the Samar State Polytechnic College and the Wright Vocational School, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
 
 All parcels of land belonging to the government and occupied by the Samar State Polytechnic College of the Wright Vocational School, and ninety (90) hectares of land of the Valeriano C. Yancha Memorial Agricultural School (VCYMAS), are hereby transferred and declared to be property of the University cease to exist to be abolished or should such parcels of land be no longer needed by the University, the same shall be transferred to the municipality where these parcels of land are located.
 
-**Section 19._Appropriations._** – The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the Samar State Polytechnic College and the Wright Vocational School, except the sums needed to continue the operations of the existing high school/s. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Samar State University shall be included in the annual General Appropriations Act.
+## Section 19
 
-**Section 20._Development Plan, Management Audit, Organizational/Administrative/Academic Structure._** – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
+_Appropriations._ – The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the Samar State Polytechnic College and the Wright Vocational School, except the sums needed to continue the operations of the existing high school/s. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Samar State University shall be included in the annual General Appropriations Act.
+
+## Section 20
+
+_Development Plan, Management Audit, Organizational/Administrative/Academic Structure._ – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 (a) Submit a five (5)-year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to DBM;
 
@@ -186,13 +226,21 @@ All parcels of land belonging to the government and occupied by the Samar State 
 
 (c) Accordingly set up its organizational, administrative, as well as academic structure, including the appointment of the University key officials.
 
-**Section 21._Filing of Report._** – On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and to both Houses of Congress a detailed report on the progress, conditions and needs of the University.
+## Section 21
 
-**Section 22._Inclusion Clause._** – The provisions of Republic Act NO. 8292, otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act, and shall serve as part of the Governing Charter of the University.
+_Filing of Report._ – On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and to both Houses of Congress a detailed report on the progress, conditions and needs of the University.
 
-**Section 23._Repealing Clause._** – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## Section 22
 
-**Section 24._Effectivity._** – This Act shall take effect upon its approval.
+_Inclusion Clause._ – The provisions of Republic Act NO. 8292, otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act, and shall serve as part of the Governing Charter of the University.
+
+## Section 23
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 24
+
+_Effectivity._ – This Act shall take effect upon its approval.
 
 Approved,
 

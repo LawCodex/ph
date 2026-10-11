@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of New Kabalan in the barrio of Sta. Rita, Olongapo City, is hereby separated from said barrio and constituted into a distinct and independent barrio of said city, to be known as the barrio of New Kabalan.1âшphi1
+The sitio of New Kabalan in the barrio of Sta. Rita, Olongapo City, is hereby separated from said barrio and constituted into a distinct and independent barrio of said city, to be known as the barrio of New Kabalan.
 
 ## Section 2
 

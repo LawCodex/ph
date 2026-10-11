@@ -34,7 +34,7 @@ The appellant shall exercise the right to appeal by filing with the provincial g
 
 ## Section 3
 
-When charges are filed against a member of the provincial guards, city police or municipal police under this Act, the provincial governor, city mayor or municipal mayor, as the case may be, may suspend the accused, and said suspension to be not longer than sixty days. If during the period of sixty days, the case shall not have been decided finally, the accused, if he is suspended, shall ipso facto be reinstated in office without prejudice to the continuation of the case until its final decision, unless the delay in the disposition of the case is due to the fault, negligence, or petition of the accused, in which case the period of the delay shall not be counted in computing the period of suspension herein provided.7!ᕼdMᗄ7
+When charges are filed against a member of the provincial guards, city police or municipal police under this Act, the provincial governor, city mayor or municipal mayor, as the case may be, may suspend the accused, and said suspension to be not longer than sixty days. If during the period of sixty days, the case shall not have been decided finally, the accused, if he is suspended, shall ipso facto be reinstated in office without prejudice to the continuation of the case until its final decision, unless the delay in the disposition of the case is due to the fault, negligence, or petition of the accused, in which case the period of the delay shall not be counted in computing the period of suspension herein provided.
 
 ## Section 4
 

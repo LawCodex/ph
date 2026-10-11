@@ -258,7 +258,7 @@ _Prohibited Acts._ \- No person shall:
 
 (d) Use as his/her own the certificate of registration, professional license, or temporary/special permit of another person; and
 
-(e) Violate any provision of the Code of Ethics as recommended by the accredited national organization of occupational therapists.1âwphi1
+(e) Violate any provision of the Code of Ethics as recommended by the accredited national organization of occupational therapists.
 
 ### Section 28
 

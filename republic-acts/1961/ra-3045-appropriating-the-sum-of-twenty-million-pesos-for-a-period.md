@@ -71,7 +71,7 @@ The budget together with the production plan for each year of the Abaca Developm
 
 ## Section 7
 
-This Abaca Development Program shall automatically be integrated in the yearly General Appropriation Act of the Republic of the Philippines under the Bureau of Plant Industry until the completion of its fifth year operation and thereafter in order to insure its continuity.1a⍵⍴h!1
+This Abaca Development Program shall automatically be integrated in the yearly General Appropriation Act of the Republic of the Philippines under the Bureau of Plant Industry until the completion of its fifth year operation and thereafter in order to insure its continuity.
 
 ## Section 8
 

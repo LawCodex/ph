@@ -48,7 +48,7 @@ The Commission herein created shall be known as the Veterans Claims Commission u
 
 3\. With the approval of the President, it may establish a branch office in Washington, D. C. or send representatives to the United States to work for benefits to Filipino veterans.
 
-4\. Request the government of the United States directly or through the President or the Ambassador of the Philippines in the United States to turn over to the Commission all the papers, evidences or certified copies thereof, of Filipino veterans whose claims have been filed with the R.P.D. but denied.1âшphi1
+4\. Request the government of the United States directly or through the President or the Ambassador of the Philippines in the United States to turn over to the Commission all the papers, evidences or certified copies thereof, of Filipino veterans whose claims have been filed with the R.P.D. but denied.
 
 ## Section 3
 

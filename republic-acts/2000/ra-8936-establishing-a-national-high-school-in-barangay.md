@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in Barangay Matagangtang, Municipality of Placer, Province of Masbate.ᇈWᑭHIL
+There shall be established a national high school in Barangay Matagangtang, Municipality of Placer, Province of Masbate.
 
 ## Section 2
 

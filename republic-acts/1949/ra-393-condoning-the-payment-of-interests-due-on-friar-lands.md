@@ -33,6 +33,6 @@ No payment already made in the concept of interest for the period stated in the 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

@@ -34,4 +34,4 @@ The sum of one hundred fifty thousand pesos is hereby authorized to be appropria
 
 This Act shall take effect upon its approval.
 
-Approved: June 19, 1960.1âшphi1
+Approved: June 19, 1960.

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Magapo, Municipality of Tabaco, Province of Albay, is converted into a barrio of said municipality, to be known as the barrio of Magapo.1âшphi1
+The sitio of Magapo, Municipality of Tabaco, Province of Albay, is converted into a barrio of said municipality, to be known as the barrio of Magapo.
 
 ## Section 2
 

@@ -37,7 +37,9 @@ This Act shall be known as the **"_Revised Fire Code of the Philippines of 2008_
 
 It is the policy of the State to ensure public safety and promote economic development through the prevention and suppression of all kinds of destructive fires and promote the professionalization of the fire service as a profession. Towards this end, the State shall enforce all laws, rules and regulations to ensure adherence to standard fire prevention and safety measures, and promote accountability for fire safety in the fire protection service and prevention service.
 
-**Section 3._Definition of Terms._** \- As used in this Fire Code, the following words and phrases shall mean and be construed as indicated:
+## Section 3
+
+_Definition of Terms._ \- As used in this Fire Code, the following words and phrases shall mean and be construed as indicated:
 
 _Abatement_ \- Any act that would remove or neutralize a fire hazard.
 
@@ -145,9 +147,13 @@ _Vestibule_ \- A passage hall or antechamber between the outer doors and the int
 
 _Vertical Shaft_ \- An enclosed vertical space of passage that extends from floor to floor, as well as from the base to the top of the building.
 
-**Section 4._Applicability of The Code._ **\- The provisions of the Fire Code shall apply to all persons and all private and public buildings, facilities or structures erected or constructed before and after its effectivity.
+## Section 4
 
-**Section 5._Responsibility for the Enforcement of this Code._** \- This Code shall be administered and enforced by the Bureau of Fire Protection (BFP), under the direct supervision and control of the Chief of the Bureau of Fire Protection, through the hierarchy of organization as provided for in Chapter VI of Republic Act No. 6975. with the approval of the Secretary of the Department of the Interior and Local Government (DILG), the BFP, is hereby authorized to:
+_Applicability of The Code._ \- The provisions of the Fire Code shall apply to all persons and all private and public buildings, facilities or structures erected or constructed before and after its effectivity.
+
+## Section 5
+
+_Responsibility for the Enforcement of this Code._ \- This Code shall be administered and enforced by the Bureau of Fire Protection (BFP), under the direct supervision and control of the Chief of the Bureau of Fire Protection, through the hierarchy of organization as provided for in Chapter VI of Republic Act No. 6975. with the approval of the Secretary of the Department of the Interior and Local Government (DILG), the BFP, is hereby authorized to:
 
 a. Issue implementing rules and regulations, and prescribe standards, schedules of fees/fire service charges and administrative penalties therefore as provided in the pertinent provisions of this Code;
 
@@ -175,9 +181,13 @@ j. Require the building owner/occupant to submit plans and specifications, and o
 
 k. Issue a written notice to the owner and/or contractor to stop work on portion of any work due to absence, or in violation of approved plans and specifications, permit and/or clearance or certification as approved by the Chief, BFP or his/her duly authorized representative. The notice shall state the nature of the violation and no work shall be continued on that portion until the violation has been corrected.
 
-**Section 6._Technical Staff._** \- The Chief, BFP shall constitute a technical staff of highly qualified persons who are knowledgeable on fire prevention, fire safety, and fire suppression. They may be drawn not only from the organic members of the BFP and other government offices and agencies, but also from other sources. In the latter case, they will either be appointed into the service or hired as consultants in accordance with law. The technical staff shall study, review and evaluate latest developments and standards on fire technology; prepare plans/programs on fire safety, prevention and suppression and evaluate implementation thereof; develop programs on the professionalization of the fire service; coordinate with appropriate government and private institutions for the offering of college courses on fire technology and fire protection engineering; propose amendments to the Fire Code; advise the Chief, BFP on any matter brought to his attention; and perform such other functions as directed on any matter brought to his attention and perform such other functions as directed by higher authorities.
+## Section 6
 
-**Section 7._Inspections, Safety Measures, Fire Safety, Constructions, and Protective and/or Warning Systems._** \- As may be defined and provided in the Rules and Regulations, owners, administrators or occupants of buildings, structures and their premises or facilities and other responsible persons shall be required to comply with the following, as may be appropriate:
+_Technical Staff._ \- The Chief, BFP shall constitute a technical staff of highly qualified persons who are knowledgeable on fire prevention, fire safety, and fire suppression. They may be drawn not only from the organic members of the BFP and other government offices and agencies, but also from other sources. In the latter case, they will either be appointed into the service or hired as consultants in accordance with law. The technical staff shall study, review and evaluate latest developments and standards on fire technology; prepare plans/programs on fire safety, prevention and suppression and evaluate implementation thereof; develop programs on the professionalization of the fire service; coordinate with appropriate government and private institutions for the offering of college courses on fire technology and fire protection engineering; propose amendments to the Fire Code; advise the Chief, BFP on any matter brought to his attention; and perform such other functions as directed on any matter brought to his attention and perform such other functions as directed by higher authorities.
+
+## Section 7
+
+_Inspections, Safety Measures, Fire Safety, Constructions, and Protective and/or Warning Systems._ \- As may be defined and provided in the Rules and Regulations, owners, administrators or occupants of buildings, structures and their premises or facilities and other responsible persons shall be required to comply with the following, as may be appropriate:
 
 a. Inspection Requirement - A fire safety inspection shall be conducted by the Chief, BFP or his duly authorized representative as prerequisite to the grants of permits and/or licenses by local governments and other government agencies concerned, for the:
 
@@ -263,7 +273,9 @@ d. Provision on Fire Safety Construction, Protective and Warning System - Owners
 
 (11) Properly marked and lighted exits with provision for emergency lights to adequately illuminate exit ways in case of power failure.
 
-**Section 8._Prohibited Acts._** \- The following are declared as prohibited act and omission.
+## Section 8
+
+_Prohibited Acts._ \- The following are declared as prohibited act and omission.
 
 (a) Obstructing or blocking the exit ways or across to buildings clearly marked for fire safety purposes, such as but not limited to aisles in interior rooms, any part of stairways, hallways, corridors, vestibules, balconies or bridges leading to a stairway or exit of any kind, or tolerating or allowing said violations;
 
@@ -291,7 +303,9 @@ d. Provision on Fire Safety Construction, Protective and Warning System - Owners
 
 (m) Use of jumpers or tampering with electrical wiring or overloading the electrical system beyond its designated capacity or such other practices that would tend to undermine the fire safety features of the electrical system.
 
-**Section 9._Violation, Penalties and Abatement of Fire Hazard._** \- Fire hazards shall be abated immediately. The Chief, BFP or his/her duly authorized representative, upon the report that a violation of this Code or other pertinent laws, rules and regulations is being committed, shall issue notice/order to comply to the owner, administrator, occupant or other person responsible for the condition of the building or structure, indicating among other things, the period within which compliance shall be effected, which shall be within ten (10) to fifteen (15) days after the receipt of the notice/order, depending on the reasonableness to adequately comply with the same.
+## Section 9
+
+_Violation, Penalties and Abatement of Fire Hazard._ \- Fire hazards shall be abated immediately. The Chief, BFP or his/her duly authorized representative, upon the report that a violation of this Code or other pertinent laws, rules and regulations is being committed, shall issue notice/order to comply to the owner, administrator, occupant or other person responsible for the condition of the building or structure, indicating among other things, the period within which compliance shall be effected, which shall be within ten (10) to fifteen (15) days after the receipt of the notice/order, depending on the reasonableness to adequately comply with the same.
 
 If, after the lapse of the aforesaid period, the owner, administrator, occupant or other responsible person failed to comply, the Chief, BFP or his/her authorized representative shall put up a sign in front of the building or structure that it is fire hazard. Specifically, the notice shall bear the words "WARNING: THIS BUILDING/STRUCTURE IS A FIRE HAZARD", which shall remain posted until such time that the owner, administrator, occupant or other person responsible for the condition of the building, structure and their premises or facilities abate the same, but such period shall not exceed fifteen (15) days from the lapse of the initial period given in the notice/order to comply.
 
@@ -301,9 +315,13 @@ Any building or structure assessed and declared by the chief, BFP or his/her dul
 
 Summary abatement as used herein shall mean all corrective measures undertaken to abate hazards which shall include, but not limited to remodeling, repairing, strengthening, reconstructing, removal and demolition, either partial or total, of the building or structure. The expenses incurred by the government for such summary abatement shall be borne by the owner, administrator or occupant. These expenses shall constitute a prior lien upon such property.
 
-**Section 10._Enforcement of The Lien._** \- If the owner, administrator or occupant fails to reimburse the government of the expenses incurred in the summary abatement within ninety (90) days from the completion of such abatement, the building or structure shall be sold at public auction in accordance with existing laws and rules. No property subject of lien under Section 9 hereof, may be sold at a price lower than the abatement expenses incurred by the government. The property shall be forfeited in favor of the government if the highest bid is not at least equal to the abatement expenses.
+## Section 10
 
-**Section 11._Penalties._** \-
+_Enforcement of The Lien._ \- If the owner, administrator or occupant fails to reimburse the government of the expenses incurred in the summary abatement within ninety (90) days from the completion of such abatement, the building or structure shall be sold at public auction in accordance with existing laws and rules. No property subject of lien under Section 9 hereof, may be sold at a price lower than the abatement expenses incurred by the government. The property shall be forfeited in favor of the government if the highest bid is not at least equal to the abatement expenses.
+
+## Section 11
+
+_Penalties._ \-
 
 1\. Against the private individual:
 
@@ -337,7 +355,9 @@ a) Administrative - The following acts or omissions shall render the public offi
 
 b) Punitive - In the case of willful violation involving the abovementioned acts or omissions enumerated under Section 11 subparagraph 2(A) the public officer/employees shall, upon conviction, be punished by imprisonment of not less than six (6) months nor more than six (6) years or by a fine of not more than One hundred thousand (P100,000.00) or both such fine and imprisonment: _Provided_ , That where the violation is attended by injury, loss of life and/or property, the violator shall be proceeded against under the applicable provisions of the Revised Penal Code.
 
-**Section 12._Appropriation and Sources of Income._** \-
+## Section 12
+
+_Appropriation and Sources of Income._ \-
 
 (a) To support the manpower, infrastructure and equipment needs of the fire service of the BFP, such amount as may be necessary to attain the objectives of the Fire Code shall be appropriated and included in the annual appropriation of the BFP.
 
@@ -355,7 +375,9 @@ b) Punitive - In the case of willful violation involving the abovementioned acts
 
 (6) Two per centum (2%) of the service fees received from fire, earthquake, and explosion hazard reinsurance surveys and post loss service of insurance adjustment companies doing business in the Philippines directly through agents.
 
-**Section 13._Collection of Taxes, Fees and Fines._** \- All taxes, fees and fines provided in this Code, shall be collected by the BFP. _Provided_ , That twenty percent (20%) of such collection shall be set aside and retained for use by the city or municipal government concerned, which shall appropriate the same exclusive for the use of the operation and maintenance of its local fire station, including the construction and repair of fire station: _Provided_ , _further_ , That the remaining eighty (80%) shall be remitted to the National Treasury under a trust fund assigned for the modernization of the BFP.
+## Section 13
+
+_Collection of Taxes, Fees and Fines._ \- All taxes, fees and fines provided in this Code, shall be collected by the BFP. _Provided_ , That twenty percent (20%) of such collection shall be set aside and retained for use by the city or municipal government concerned, which shall appropriate the same exclusive for the use of the operation and maintenance of its local fire station, including the construction and repair of fire station: _Provided_ , _further_ , That the remaining eighty (80%) shall be remitted to the National Treasury under a trust fund assigned for the modernization of the BFP.
 
 "Sec. 13-A. _Assessment of Fire Code Taxes, Fees and Fines._ \- The assessment of fire code taxes, fees and fines is vested upon the BFP. The BFP shall, subject to the approval of the DILG, prescribe the procedural rules for such purpose.
 

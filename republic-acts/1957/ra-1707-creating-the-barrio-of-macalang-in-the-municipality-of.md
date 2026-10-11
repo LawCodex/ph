@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Macalang, Pantol, Tapac and Pagdagaan, Municipality of Dasol, Province of Pangasinan, are constituted into a barrio of said municipality to be known as the barrio of Macalang.1avvphi1
+The sitios of Macalang, Pantol, Tapac and Pagdagaan, Municipality of Dasol, Province of Pangasinan, are constituted into a barrio of said municipality to be known as the barrio of Macalang.
 
 ## Section 2
 

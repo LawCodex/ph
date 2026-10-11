@@ -863,7 +863,7 @@ Section 24 of the same Act is deleted and a new Section 29 is added to read as f
 
 “(b) Payment of surplus dividends under Section 13(c) of this Act, as amended, shall be applicable to banks without a court-approved final asset distribution plan at the time of the effectivity of this Act.
 
-“(c) The preference indicated under Section 15 of this Act, as amended, shall be likewise effective upon liquidation proceedings already commenced and pending as of the effectivity of this Act, where no distribution of assets has been made.1âwphi1
+“(c) The preference indicated under Section 15 of this Act, as amended, shall be likewise effective upon liquidation proceedings already commenced and pending as of the effectivity of this Act, where no distribution of assets has been made.
 
 “(d) The provisions in Section 10 of this Act, as amended, on legal assistance, protection and indemnification shall apply to all cases pending before the effectivity of this Act.”
 

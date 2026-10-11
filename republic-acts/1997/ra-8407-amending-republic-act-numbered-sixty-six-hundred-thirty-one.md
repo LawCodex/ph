@@ -66,7 +66,7 @@ Republic Act No. 6631 is hereby amended to read as follows:
 
 "(l) Continuous and backup power supply, and such other instruments, devices, equipment, facilities and system; and
 
-"(m) Such other facilities, devices or instruments that will insure clean, orderly and honest racing, betting on horse races or derivative games within three (3) years from the effectivity of this Act.1aшphi1 In case of failure to provide and install any of the abovementioned equipment or facilities within the three-year period, the Philippine Racing Commission shall forthwith suspend and prohibit the holding of races by the grantee until such time as the said equipment or facilities are provided and installed.
+"(m) Such other facilities, devices or instruments that will insure clean, orderly and honest racing, betting on horse races or derivative games within three (3) years from the effectivity of this Act. In case of failure to provide and install any of the abovementioned equipment or facilities within the three-year period, the Philippine Racing Commission shall forthwith suspend and prohibit the holding of races by the grantee until such time as the said equipment or facilities are provided and installed.
 
 "The Games and Amusement Board shall assign its auditors and/or inspectors to supervise and regulate the placing of bets, proper computation of dividends and the distribution of wager funds.
 

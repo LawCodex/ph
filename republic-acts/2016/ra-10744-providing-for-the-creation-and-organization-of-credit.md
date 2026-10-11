@@ -262,7 +262,7 @@ _Role of the Bangko Sentral._ – Pursuant to its mandate to provide policy dire
 
 _Books of Accounts, Records, Reportorial Requirements and Administrative Fees._ – Subject to the requirements stated in the implementing rules and regulations, the CSF Cooperative shall set and keep accurate and internal financial controls.
 
-The reportorial requirements and administrative fees required from CSF Cooperatives, taking into consideration their unique character and purposes, shall be provided in the implementing rules and regulations.ℒαwρhi৷
+The reportorial requirements and administrative fees required from CSF Cooperatives, taking into consideration their unique character and purposes, shall be provided in the implementing rules and regulations.
 
 ## Section 22
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, a national high school in Barangay San Rafael I, City of San Jose Del Monte, Province of Bulacan to be known as San Rafael National High School.1âwphi1
+There is hereby established, under the supervision of the Department of Education, a national high school in Barangay San Rafael I, City of San Jose Del Monte, Province of Bulacan to be known as San Rafael National High School.
 
 ## Section 2
 

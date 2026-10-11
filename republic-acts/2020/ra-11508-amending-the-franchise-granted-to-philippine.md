@@ -83,7 +83,7 @@ Section 15 of Republic Act No. 9773 is hereby renumbered as Section 16, and amen
 
 "The annual report shall include an update on the roll-out, development, operation and/or expansion of business; audited financial statements; latest GIS officially submitted to SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-"The reportorial compliance certificate issued by the Congress shall be required before any application for permit or certificate is accepted by the NTC."ℒαwρhi৷
+"The reportorial compliance certificate issued by the Congress shall be required before any application for permit or certificate is accepted by the NTC."
 
 ## Section 8
 
@@ -97,7 +97,7 @@ _Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to
 
 ## Section 10
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.ℒαwρhi৷
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 11
 

@@ -35,7 +35,7 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 3
 
-The Department of Health shall issue the necessary guidelines for the operation of the said extension hospital within sixty (60) days from approval hereof.Ꮮαwρhi৷
+The Department of Health shall issue the necessary guidelines for the operation of the said extension hospital within sixty (60) days from approval hereof.
 
 ## Section 4
 

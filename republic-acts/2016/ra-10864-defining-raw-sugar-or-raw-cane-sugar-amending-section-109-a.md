@@ -49,7 +49,7 @@ Section 109(A) and (F) of the National Internal Revenue Code of 1997, as amended
 
 ## Section 2
 
-_Implementing Rules and Regulating._ \- The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue, shall issue the implementing rules and regulations of this Act within ninety (90) days starting from the effectivity of this Act: _Provided,_ That the failure of the concerned agencies to promulgate the said rules and regulations shall not prevent the implementation of this Act upon its effectivity.ℒαwρhi৷
+_Implementing Rules and Regulating._ \- The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue, shall issue the implementing rules and regulations of this Act within ninety (90) days starting from the effectivity of this Act: _Provided,_ That the failure of the concerned agencies to promulgate the said rules and regulations shall not prevent the implementation of this Act upon its effectivity.
 
 ## Section 3
 

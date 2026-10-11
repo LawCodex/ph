@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Donsol High School in the Municipality of Donsol, Province of Sorsogon is hereby converted into a national high school to be known as Donsol National Comprehensive High School. Comprehensive curriculum which includes both academic and industrial arts and handicraft courses shall be offered.1avvphi1 The Secretary of Education is hereby empowered to reorganize the said school accordingly.
+Donsol High School in the Municipality of Donsol, Province of Sorsogon is hereby converted into a national high school to be known as Donsol National Comprehensive High School. Comprehensive curriculum which includes both academic and industrial arts and handicraft courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
 
 ## Section 2
 

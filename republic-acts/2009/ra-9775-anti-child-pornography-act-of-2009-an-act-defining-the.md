@@ -284,7 +284,7 @@ _Confiscation and Forfeiture of the Proceeds, Tools and Instruments Used in Chil
 
 All proceeds derived from the sale of properties used for the commission of any form of child pornography shall accrue to the special account of the DSWD which shall be used exclusively for the implementation of this Act.
 
-When the proceeds, tools and instruments used in the commission of the offense have been destroyed diminished in value or otherwise rendered worthless by any act or omission, directly or indirectly, of the offender, or it has been concealed, removed, converted or transferred to prevent the same from being found or to avoid forfeiture or confiscation, the offender shall be ordered to pay the amount equal to the value of the proceeds, tools and instruments used in the commission of the offense.1avvphi1
+When the proceeds, tools and instruments used in the commission of the offense have been destroyed diminished in value or otherwise rendered worthless by any act or omission, directly or indirectly, of the offender, or it has been concealed, removed, converted or transferred to prevent the same from being found or to avoid forfeiture or confiscation, the offender shall be ordered to pay the amount equal to the value of the proceeds, tools and instruments used in the commission of the offense.
 
 ## Section 18
 

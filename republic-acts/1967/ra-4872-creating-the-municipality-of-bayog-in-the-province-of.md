@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios and sitios of Bayog, Buboan, Datagan, Pulang Bato, Dipili, Salawagan, Lamari, Damit, Depasi, Pangi, Liba, Datagan 1, Datagan 2, Mataga, Dimalinao, Baking, Dipuri, Kwai, Maton-og, and Kanipa-an in the Municipality of Buug, Province of Zamboanga del Sur, are separated from said municipality, and constituted into a distinct and independent municipality to be known as the Municipality of Bayog.1avvphi1 The seat of government of the new municipality shall be in Barrio Bayog.
+The barrios and sitios of Bayog, Buboan, Datagan, Pulang Bato, Dipili, Salawagan, Lamari, Damit, Depasi, Pangi, Liba, Datagan 1, Datagan 2, Mataga, Dimalinao, Baking, Dipuri, Kwai, Maton-og, and Kanipa-an in the Municipality of Buug, Province of Zamboanga del Sur, are separated from said municipality, and constituted into a distinct and independent municipality to be known as the Municipality of Bayog. The seat of government of the new municipality shall be in Barrio Bayog.
 
 ## Section 2
 

@@ -70,7 +70,7 @@ No student shall be denied admission to the College by reason of sex, gender, re
 
 ## Section 8
 
-_Academic Freedom and Institutional Autonomy._ \- The College shall enjoy academic freedom and institutional authority, pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.1aшphi1
+_Academic Freedom and Institutional Autonomy._ \- The College shall enjoy academic freedom and institutional authority, pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.
 
 ## Section 9
 

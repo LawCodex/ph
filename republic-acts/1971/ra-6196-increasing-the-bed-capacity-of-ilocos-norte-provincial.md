@@ -28,7 +28,7 @@ The bed capacity of llocos Norte Provincial Hospital is hereby increased from fi
 
 ## Section 2
 
-Such sums as may be necessary for the operation and maintenance and other facilities shall be included in the annual General Appropriations Act.1âшphi1
+Such sums as may be necessary for the operation and maintenance and other facilities shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

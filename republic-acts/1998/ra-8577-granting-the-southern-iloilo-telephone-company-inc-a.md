@@ -63,7 +63,7 @@ a. Commence operations within one (1) year from the approval of its operating pe
 
 b. Operate continuously for two (2) years; and
 
-c. Commence operations within three (3) years from the effectivity of this Act.1aшphi1
+c. Commence operations within three (3) years from the effectivity of this Act.
 
 ## Section 8
 

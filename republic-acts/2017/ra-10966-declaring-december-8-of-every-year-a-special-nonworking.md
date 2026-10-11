@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-December 8 of every year is hereby declared a special nonworking holiday in the entire country to commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines.1âwphi1
+December 8 of every year is hereby declared a special nonworking holiday in the entire country to commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Las Piñas North Municipal High School in Barangay Pulanglupa II, Las Piñas, Metro Manila, shall be converted into an independent high school to be known as the Las Piñas North National High School.1aшphi1
+The Las Piñas North Municipal High School in Barangay Pulanglupa II, Las Piñas, Metro Manila, shall be converted into an independent high school to be known as the Las Piñas North National High School.
 
 ## Section 2
 

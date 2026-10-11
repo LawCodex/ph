@@ -52,7 +52,7 @@ _Removal of Restrictions._ \- The restrictions regarding encumbrances, conveyanc
 
 ## Section 6
 
-_Period for Application._ \- All applications shall be filed immediately after the effectivity of this Act before the Community Environment and Natural Resources Office (CENRO) of the DENR. The CENRO is mandated to process the application within one hundred and twenty (120) days to include compliance with the required notices and other legal requirements, and forward this recommendation to the Provincial Environment and Natural Resources Office (PENRO), who shall have five (5) days to approve or disapprove the patent. In case of approval, patent shall be issued; in case of conflicting claims among different claimants, the parties may seek the proper judicial remedies.1avvphi1
+_Period for Application._ \- All applications shall be filed immediately after the effectivity of this Act before the Community Environment and Natural Resources Office (CENRO) of the DENR. The CENRO is mandated to process the application within one hundred and twenty (120) days to include compliance with the required notices and other legal requirements, and forward this recommendation to the Provincial Environment and Natural Resources Office (PENRO), who shall have five (5) days to approve or disapprove the patent. In case of approval, patent shall be issued; in case of conflicting claims among different claimants, the parties may seek the proper judicial remedies.
 
 ## Section 7
 

@@ -33,7 +33,7 @@ The City Government of Victorias shall manage the Victorias City General Hospita
 
 ## Section 3
 
-The City Government of Victorias shall provide the necessary funds for the establishment of the Victorias City General Hospital.ℒαwρhi৷ The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the Victorias City General Hospital.
+The City Government of Victorias shall provide the necessary funds for the establishment of the Victorias City General Hospital. The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the Victorias City General Hospital.
 
 ## Section 4
 

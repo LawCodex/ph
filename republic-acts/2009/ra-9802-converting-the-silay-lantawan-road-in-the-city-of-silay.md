@@ -38,7 +38,7 @@ The Secretary of the Department of Public Works and Highways shall issue the nec
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.1avvphi1
+This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
 
 Approved,
 

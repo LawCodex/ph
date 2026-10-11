@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-In recognition of the meritorious services rendered by Martin Cubil to the barrio of Gines, Municipality of Cabatuan, Province of Iloilo, the name of Gines Primary School is hereby changed to Martin Cubil Primary School.1âшphi1
+In recognition of the meritorious services rendered by Martin Cubil to the barrio of Gines, Municipality of Cabatuan, Province of Iloilo, the name of Gines Primary School is hereby changed to Martin Cubil Primary School.
 
 ## Section 2
 

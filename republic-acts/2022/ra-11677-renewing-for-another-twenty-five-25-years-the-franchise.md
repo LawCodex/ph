@@ -58,7 +58,7 @@ The Grantee shall also improve and upgrade its equipment, facilities and service
 
 ## Section 6
 
-_Rates for Services._ \- The charges and rates for telecommunications services of the Grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variations thereof, shall be subject to the approval of the NTC or its legal successor.ℒαwρhi৷ The rates to be charged by the Grantee shall be unbundled, separable, and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
+_Rates for Services._ \- The charges and rates for telecommunications services of the Grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variations thereof, shall be subject to the approval of the NTC or its legal successor. The rates to be charged by the Grantee shall be unbundled, separable, and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
 
 ## Section 7
 

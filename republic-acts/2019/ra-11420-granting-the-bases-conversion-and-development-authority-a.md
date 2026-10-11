@@ -71,7 +71,7 @@ The exercise of the rights granted herein shall not result to stranded assets an
 
 _Rates for Services._ — The retail rates and charges for the distribution of electric power by the grantee to its end users shall be regulated by and be subject to the approval of the ERC or its legal successor.
 
-The grantee shall identify and itemize in the statement, of account it issues to end users the components of the retail rate charged pursuant to Republic Act No. 9136.1âшphi1 Such rates charged by the grantee shall be made public and transparent. The grantee shall implement a lifeline rate to marginalized end users as mandated under Republic Act No. 9136.
+The grantee shall identify and itemize in the statement, of account it issues to end users the components of the retail rate charged pursuant to Republic Act No. 9136. Such rates charged by the grantee shall be made public and transparent. The grantee shall implement a lifeline rate to marginalized end users as mandated under Republic Act No. 9136.
 
 ## Section 7
 

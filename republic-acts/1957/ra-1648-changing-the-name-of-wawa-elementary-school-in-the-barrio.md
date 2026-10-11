@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Wawa Elementary School in the barrio of Wawa, Municipality of Rosario, Province of Cavite, is changed to David Jimenez Elementary School.1âшphi1
+The name of Wawa Elementary School in the barrio of Wawa, Municipality of Rosario, Province of Cavite, is changed to David Jimenez Elementary School.
 
 ## Section 2
 

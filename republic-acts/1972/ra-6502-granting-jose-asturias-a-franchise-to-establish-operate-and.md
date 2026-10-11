@@ -35,7 +35,7 @@ c. To supply, sell, and furnish such water to all vessels, domestic or foreign, 
 
 d. To purify the sources of the water, and the reservoirs, subject to the approval of the Bureau of Health and to regulate the control and use, and prevent the waste of water: _Provided,_ That this franchise shall not take effect until the grantee shall have obtained from the Public Service Commission a certificate showing the public necessity and convenience thereof;
 
-e. The grantee is hereby granted the right and privilege to lease a portion of the port area of the City of Tacloban for the purpose of building its reservoir and other apparatus needed in furnishing and distributing water to all vessels whether domestic or foreign docking at the port of the City of Tacloban and the surrounding islands.1âшphi1
+e. The grantee is hereby granted the right and privilege to lease a portion of the port area of the City of Tacloban for the purpose of building its reservoir and other apparatus needed in furnishing and distributing water to all vessels whether domestic or foreign docking at the port of the City of Tacloban and the surrounding islands.
 
 ## Section 2
 

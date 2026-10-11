@@ -60,7 +60,7 @@ In addition, the Commission on Higher Education (CHED) may impose disciplinary s
 
 ## Section 6
 
-_Implementing Rules and Regulations. –_ The CHED shall be tasked to issue the implementing rules and regulations of this Act within thirty (30) days after this law takes effect.1âwphi1
+_Implementing Rules and Regulations. –_ The CHED shall be tasked to issue the implementing rules and regulations of this Act within thirty (30) days after this law takes effect.
 
 ## Section 7
 

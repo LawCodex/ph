@@ -29,7 +29,7 @@ The Alegria Elementary School in Barangay Alegria, Municipality of Barcelona, Pr
 
 ## Section 2
 
-All personnel, assets, liabilities, and records of the Alegria Elementary School are hereby transferred to and absorbed by the Alegria Integrated School.ℒαwρhi৷
+All personnel, assets, liabilities, and records of the Alegria Elementary School are hereby transferred to and absorbed by the Alegria Integrated School.
 
 ## Section 3
 

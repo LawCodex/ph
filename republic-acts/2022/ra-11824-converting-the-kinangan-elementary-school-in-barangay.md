@@ -34,7 +34,7 @@ The Kinangan Elementary School in Barangay Kinangan, Municipality of Malita, Pro
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Kinangan Elementary School are hereby transferred to and absorbed by the Kinangan Integrated School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Kinangan Elementary School are hereby transferred to and absorbed by the Kinangan Integrated School.
 
 ## Section 3
 

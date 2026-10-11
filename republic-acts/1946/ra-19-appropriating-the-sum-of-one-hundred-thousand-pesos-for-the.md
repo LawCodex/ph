@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Out of any funds in the National Treasury not otherwise appropriated there is hereby appropriated the sum of one hundred thousand pesos or so much thereof as may be necessary to be expended by the Director of the Bureau of Health upon approval by the Secretary of Health and Public Welfare for the construction of a dormitory building and additional wards for the Maternity and Children's Hospital in the City of Manila, as well as for the purchase of hospital, medical and other necessary equipment and supplies for the said hospital.(awÞhi(
+Out of any funds in the National Treasury not otherwise appropriated there is hereby appropriated the sum of one hundred thousand pesos or so much thereof as may be necessary to be expended by the Director of the Bureau of Health upon approval by the Secretary of Health and Public Welfare for the construction of a dormitory building and additional wards for the Maternity and Children's Hospital in the City of Manila, as well as for the purchase of hospital, medical and other necessary equipment and supplies for the said hospital.
 
 ## Section 2
 

@@ -101,7 +101,7 @@ Section 8 of Republic Act No. 8178, as amended, otherwise known as _“An Act Re
 
 “The OSG is hereby allowed to charge reasonable fees for its legal services and collection efforts from the actual collections of outstanding ACEF loans.
 
-“The remaining amount collected shall be remitted to the ACEF and shall be utilized based on the provisions of this Act.1âwphi1
+“The remaining amount collected shall be remitted to the ACEF and shall be utilized based on the provisions of this Act.
 
 “The OSG shall submit, every six (6) months, a collection performance report to the ACEF Executive Committee and the COCAFM.”
 

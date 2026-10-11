@@ -28,7 +28,9 @@ AN ACT DEFINING THE LIABILITY OF SHIP AGENTS IN THE TRAMP SERVICE AND FOR OTHER 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Definition of Terms._** \- As used in this Act:
+## Section 1
+
+_Definition of Terms._ \- As used in this Act:
 
 (a) "Ship Agent" shall mean the person entrusted with the provisioning or representing the vessel in the port in which it may be found;
 
@@ -40,9 +42,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) "Liner Service" shall mean the operation of a common carrier which publicly offers its services without discrimination to any user, has regular ports of call/destination, fixed sailing schedules and frequencies and published freight rates and attendant charges and usually carries multiple consignments.
 
-**Section 2._Liabilty of the Ship Agent, General Agent and Tramp Agent._** \- The responsibility or liability, if any, of the ship agent, general agent and tramp agent shall continue to be governed by the pertinent provisions of the Code of Commerce: Provided, that in the case of the tramp agent, his liability shall not extend to the obligations assumed by the ship owner, charterer or carrier with the shipper or receiver for the goods carried by the ship: Provided, further, That it is the duty of the tramp agent, however, to assist the shipper or receiver in making cargo liability claims against the ship owner, charterer or carrier: Provided, finally, That failure or inaction to perform the aforesaid duty shall subject the tramp agent to applicable administrative sanctions based on the Implementing Rules and Regulations (IRR) to be formulated thereon by the Maritime Industry Authority (MARINA) under the Depatment of Transportation and Communication (DOTC) and by the Philippine Shippers Bureau (PSB) under the Department of Trade and Industry (DTI).
+## Section 2
 
-**Section 3._Repealing Clause._** \- All applicable laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby amended or modified accordingly.
+_Liabilty of the Ship Agent, General Agent and Tramp Agent._ \- The responsibility or liability, if any, of the ship agent, general agent and tramp agent shall continue to be governed by the pertinent provisions of the Code of Commerce: Provided, that in the case of the tramp agent, his liability shall not extend to the obligations assumed by the ship owner, charterer or carrier with the shipper or receiver for the goods carried by the ship: Provided, further, That it is the duty of the tramp agent, however, to assist the shipper or receiver in making cargo liability claims against the ship owner, charterer or carrier: Provided, finally, That failure or inaction to perform the aforesaid duty shall subject the tramp agent to applicable administrative sanctions based on the Implementing Rules and Regulations (IRR) to be formulated thereon by the Maritime Industry Authority (MARINA) under the Depatment of Transportation and Communication (DOTC) and by the Philippine Shippers Bureau (PSB) under the Department of Trade and Industry (DTI).
+
+## Section 3
+
+_Repealing Clause._ \- All applicable laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby amended or modified accordingly.
 
 **Section 4 _Effectivity._** \- This Act shall take effect fifteen (15) days following the completion of its publication in two (2) national newspaper of general circulation.
 

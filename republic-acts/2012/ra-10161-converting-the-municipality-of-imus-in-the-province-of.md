@@ -66,7 +66,7 @@ _Liability for Damages._ – The City and its officials shall not be exempt from
 
 ### Section 6
 
-_Jurisdiction of the City._ – The jurisdiction of the City, for police purposes only, shall be coextensive with its territorial jurisdiction and, for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir conduit, canal, aqueduct or pumping station used in connection with the city water service.1âwphi1
+_Jurisdiction of the City._ – The jurisdiction of the City, for police purposes only, shall be coextensive with its territorial jurisdiction and, for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir conduit, canal, aqueduct or pumping station used in connection with the city water service.
 
 The city court of the City of Imus shall have concurrent jurisdiction with the city or municipal court of the adjoining municipalities or cities, to try crimes, and misdemeanors committed within said drainage area or within said spaces of one hundred meters (100 m.).
 
@@ -1116,7 +1116,7 @@ The expenses for such plebiscite shall be borne by the Municipality of Imus.
 
 ### Section 52
 
-_Officials of the City of Imus._ – The present elective officials of the Municipality of Imus shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Imus.1âwphi1
+_Officials of the City of Imus._ – The present elective officials of the Municipality of Imus shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Imus.
 
 ### Section 53
 

@@ -21,7 +21,9 @@ retrieved: 2026-10-12
 AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES  
 (REPEALED BY PRESIDENTIAL DECREE NO. 442)
 
-**SECTION 1._Declaration of Policy._** \- It is the policy this Act:
+## SECTION 1
+
+_Declaration of Policy._ \- It is the policy this Act:
 
 (a) To eliminate the causes of industrial unrest by encouraging and protecting the exercise by employees of their right to self-organization for the purpose of collective bargaining and for the promotion of their moral, social, and economic well-being.
 
@@ -31,7 +33,9 @@ AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES
 
 (d) To avoid or minimize differences which arise between the parties to collective bargaining by prescribing certain rules to be followed in the negotiation and administration of collective bargaining agreements and by requiring the inclusion in any such agreement of provisions for adequate notice of any proposed changes in the terms of such agreements, for the final adjustment of grievances or questions regarding the application or interpretation of such agreements and other provisions designated to prevent the subsequent arising of such controversies.
 
-**Section 2._Definitions._** \- As used in this Act -
+## Section 2
+
+_Definitions._ \- As used in this Act -
 
 (a) "Court" means the Court of Industrial Relations established by Commonwealth Act Numbered One hundred and three, as amended, unless another Court shall be specified.
 
@@ -59,9 +63,13 @@ AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES
 
 (m) "Lockout" means the temporary refusal of any employer to furnish work as a result of an industrial dispute.
 
-**Section 3._Employees' Right to Self-Organization._** \- Employees shall have the right to self-organization and to form, join or assist labor organizations of their own choosing for the purpose collective bargaining through representatives of their own choosing and to engage in concerted activities for the purpose of collective bargaining and other mutual aid or protection. Individuals employed as supervisors shall not be eligible for membership in a labor organization of employees under their supervision but may form separate organizations of their own.
+## Section 3
 
-**Section 4._Unfair Labor Practices._** -
+_Employees' Right to Self-Organization._ \- Employees shall have the right to self-organization and to form, join or assist labor organizations of their own choosing for the purpose collective bargaining through representatives of their own choosing and to engage in concerted activities for the purpose of collective bargaining and other mutual aid or protection. Individuals employed as supervisors shall not be eligible for membership in a labor organization of employees under their supervision but may form separate organizations of their own.
+
+## Section 4
+
+_Unfair Labor Practices._ -
 
 (a) It shall be unfair labor practice for an employer:
 
@@ -87,7 +95,9 @@ AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES
 
 (4) To cause or attempt to cause an employer to pay or deliver or agree to pay or deliver any money or other thing of value, in the nature of an exaction, for services which are not performed or not to be performed.
 
-**Section 5._Unfair Labor Practice Cases._** \-
+## Section 5
+
+_Unfair Labor Practice Cases._ \-
 
 (a) The Court shall have jurisdiction over the prevention of unfair labor practices and is empowered to prevent any person from engaging in any unfair labor practice. This power shall be exclusive and shall not be affected by any other means of adjustment or prevention that has been or may be established by an agreement, code, law or otherwise.
 
@@ -99,11 +109,17 @@ AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES
 
 (e) The Court or any judge thereof shall have all the inherent power of a Court of Justice provided in Rule One hundred and twenty-four of the rules of court as well as the power to punish direct and indirect contempts as provided in Rule sixty-four of the Rules of Court, under the same procedure and penalties provided therein. Any violation of any order or decision of the Court shall constitute contempt of court.
 
-**Section 6._Unfair Labor Practice Cases_ \- _Appeals_**. - Any person aggrieved by any order of the Court may appeal to the Supreme Court of the Philippines within ten days after the issuing of the Court's order but this appeal shall not stay the order of the Court and the person or persons named in the Court order shall meanwhile obey said order. The findings of the Court with respect to questions of fact if supported by substantial evidence on the record shall be conclusive. The appeal to the Supreme Court shall be limited to questions of law only.
+## Section 6
 
-**Section 7._Fixing Working Conditions by Court Order_**. - In order to prevent undue restriction of free enterprise for capital and labor and to encourage the truly democratic method of regulating the relations between the employer and employee by means of an agreement freely entered into in collective bargaining, no court of the Philippines shall have the power to set wages, rates of pay, hours of employment, or conditions of employment except as in this Act is otherwise provided and except as is provided in Republic Act Numbered Six Hundred two and Commonwealth Act Numbered Four hundred forty-four as to hours of works.
+_Unfair Labor Practice Cases_ \- _Appeals_. - Any person aggrieved by any order of the Court may appeal to the Supreme Court of the Philippines within ten days after the issuing of the Court's order but this appeal shall not stay the order of the Court and the person or persons named in the Court order shall meanwhile obey said order. The findings of the Court with respect to questions of fact if supported by substantial evidence on the record shall be conclusive. The appeal to the Supreme Court shall be limited to questions of law only.
 
-**Section 8._Private Contracts Contravening Employee Rights._** \- Every undertaking or promise hereafter made, whether written or oral, express or implied, constituting or contained in any contract or agreement of hiring or employment between any individual firm, company, association or corporation and any employee or prospective employee of the same shall be null and void if thereby -
+## Section 7
+
+_Fixing Working Conditions by Court Order_. - In order to prevent undue restriction of free enterprise for capital and labor and to encourage the truly democratic method of regulating the relations between the employer and employee by means of an agreement freely entered into in collective bargaining, no court of the Philippines shall have the power to set wages, rates of pay, hours of employment, or conditions of employment except as in this Act is otherwise provided and except as is provided in Republic Act Numbered Six Hundred two and Commonwealth Act Numbered Four hundred forty-four as to hours of works.
+
+## Section 8
+
+_Private Contracts Contravening Employee Rights._ \- Every undertaking or promise hereafter made, whether written or oral, express or implied, constituting or contained in any contract or agreement of hiring or employment between any individual firm, company, association or corporation and any employee or prospective employee of the same shall be null and void if thereby -
 
 (a) Either party to such contract or agreement undertakes or promises not to join, become or remain a member of any labor organization or of any employer organization; or
 
@@ -111,7 +127,9 @@ AN ACT TO PROMOTE INDUSTRIAL PEACE AND FOR OTHER PURPOSES
 
 (c) Either party undertakes or promises to permit the commission of any of the unfair labor practices defined in section four hereof.
 
-**Section 9._Injunctions in Labor Disputes._** \-
+## Section 9
+
+_Injunctions in Labor Disputes._ \-
 
 (a) No Court, Commission or Board of the Philippines shall have jurisdiction, except as provided in section ten of this Act, to issue any restraining order, temporary or permanent injunction in any case involving or growing out of labor dispute to prohibit any person or persons participating or interested in such dispute from doing, whether singly or in concert, any of the following acts:
 
@@ -161,11 +179,17 @@ The undertaking herein mentioned shall be understood to signify an agreement ent
 
 (2) A person or association shall be held to be a person participating or interested in a labor dispute if relief is sought against him or it, and if he or it is engaged in the same industry, trade, craft, or occupation in which such dispute occurs, or has a direct or indirect interest therein, or is a member, officer, or agent of any association composed in whole or in part of employers engaged in such industry, trade, craft, or occupation.
 
-**Section 10._Labor Disputes in Industries Indispensable to the National Interest._** \- When in the opinion of the President of the Philippines there exists a labor dispute in an industry indispensable to the national interest and when such labor dispute is certified by the President to the Court of Industrial Relations, said Court may cause to be issued a restraining order forbidding the employees to strike or the employer to lockout the employees, pending an investigation by the Court, and if no other solution to the dispute is found, the Court may issue an order fixing the terms and conditions of employment.
+## Section 10
 
-**Section 11._Prohibition Against Strikes in the Government._** \- The terms and conditions of employment in the Government, including any political subdivision or instrumentality thereof, are governed by law and it is declared to be the policy of this Act that employees therein shall not strike for the purpose of securing changes or modification in their terms and conditions of employment. Such employees may belong to any labor organization which does not impose the obligation to strike or to join in strike: Provided, however, That this section shall apply only to employees employed in governmental functions and not to those employed in proprietary functions of the Government including but not limited to government corporations.
+_Labor Disputes in Industries Indispensable to the National Interest._ \- When in the opinion of the President of the Philippines there exists a labor dispute in an industry indispensable to the national interest and when such labor dispute is certified by the President to the Court of Industrial Relations, said Court may cause to be issued a restraining order forbidding the employees to strike or the employer to lockout the employees, pending an investigation by the Court, and if no other solution to the dispute is found, the Court may issue an order fixing the terms and conditions of employment.
 
-**Section 12._Exclusive Collective Bargaining Representation of Labor Organizations._** -
+## Section 11
+
+_Prohibition Against Strikes in the Government._ \- The terms and conditions of employment in the Government, including any political subdivision or instrumentality thereof, are governed by law and it is declared to be the policy of this Act that employees therein shall not strike for the purpose of securing changes or modification in their terms and conditions of employment. Such employees may belong to any labor organization which does not impose the obligation to strike or to join in strike: Provided, however, That this section shall apply only to employees employed in governmental functions and not to those employed in proprietary functions of the Government including but not limited to government corporations.
+
+## Section 12
+
+_Exclusive Collective Bargaining Representation of Labor Organizations._ -
 
 (a) The labor organization designated or selected for the purpose of collective bargaining by the majority of the employees in an appropriate collective bargaining unit shall be the exclusive representative of all the employees in such unit for the purpose of collective bargaining in respect to rates of pay, wages, hours of employment, or other conditions of employment: Provided, That any individual employee or group of employees shall have the right at any time to present grievances to their employer.
 
@@ -179,11 +203,15 @@ The undertaking herein mentioned shall be understood to signify an agreement ent
 
 (f) A labor organization which has been a contending party in the election may appeal the results of the certification election to the Court if it alleges any of the rules and regulations established by the Court for the conduct of the election have been violated.
 
-**Section 13._Duty to Bargain Collectively._** \- In the absence of an agreement or other voluntary arrangement providing for a more expeditious manner of collective bargaining, it shall be the duty of an employer and the representative of his employees to bargain collectively in accordance with the provisions of this Act. Such duty to bargain collectively means the performance of the mutual obligation to meet and confer promptly and expeditiously and in good faith, for the purpose of negotiating an agreement with respect to wages, hours, and/or other terms and conditions of employment, and of executing a written contract incorporating such agreement if requested by either party, or for the purpose of adjusting any grievances or question arising under such agreement, but such duty does not compel any party to agree to a proposal or to make concession.
+## Section 13
+
+_Duty to Bargain Collectively._ \- In the absence of an agreement or other voluntary arrangement providing for a more expeditious manner of collective bargaining, it shall be the duty of an employer and the representative of his employees to bargain collectively in accordance with the provisions of this Act. Such duty to bargain collectively means the performance of the mutual obligation to meet and confer promptly and expeditiously and in good faith, for the purpose of negotiating an agreement with respect to wages, hours, and/or other terms and conditions of employment, and of executing a written contract incorporating such agreement if requested by either party, or for the purpose of adjusting any grievances or question arising under such agreement, but such duty does not compel any party to agree to a proposal or to make concession.
 
 Where there is in effect a collective bargaining agreement, the duty to bargain collectively shall also mean that neither party shall terminate or modify such agreement, unless it has served a written notice upon the other party of the proposed termination or modification at least thirty days prior to the expiration date of the agreement, or in the absence of an express provision concerning the period of validity of such agreement prior to the time it is intended to have such termination or modification take effect. It shall be the duty of both parties, without resorting to a strike or lockout, to continue in full force and effect all the terms and conditions of the existing agreement during the said period of thirty days.
 
-**Section 14._Procedure of Collective Bargaining._** \-
+## Section 14
+
+_Procedure of Collective Bargaining._ \-
 
 (a) Whenever a party desires to negotiate an agreement, it shall serve a written notice upon the other party, with a statement of its proposals. The other party shall make a reply thereto not later than ten days from receipt of such proposals.
 
@@ -193,15 +221,21 @@ Where there is in effect a collective bargaining agreement, the duty to bargain 
 
 (d) Before an employer may lockout his employees or the employees may strike, either party as the case may be, must file with the Conciliation Service thirty days prior thereto a notice of their intention to strike or lockout the employees. Such notice shall be in a form to be prescribed by the Chief of the Conciliation Service.
 
-**Section 15._Violation of Duty to Bargain Collectively._** \- It shall be unlawful for any employer to refuse to bargain collectively with the representative of his employees, or to declare a lockout without having first bargained collectively with the representative of his employees, in accordance with the provisions of this Act. Any employee whose work has stopped as a consequence of such lockout shall be entitled to back-pay.
+## Section 15
+
+_Violation of Duty to Bargain Collectively._ \- It shall be unlawful for any employer to refuse to bargain collectively with the representative of his employees, or to declare a lockout without having first bargained collectively with the representative of his employees, in accordance with the provisions of this Act. Any employee whose work has stopped as a consequence of such lockout shall be entitled to back-pay.
 
 The refusal of a labor organization to bargain collectively with an employer or the declaration of a strike by such organization without having first bargained collectively with an employer pursuant to this Act, shall be sufficient cause for the Court of Industrial Relations to deny to said union all rights and privileges under this Act. Any employee who participates in such strike shall lose his status as an employee for the purposes of this Act.
 
 The declaration of a strike by a labor organization or a lockout by an employer where no previous notice of a desire to negotiate an agreement has been served upon the other party as provided in Section 14, shall be deemed prima facie evidence of a violation of the duty to bargain collectively.
 
-**Section 16._Administration of Agreement and Handling of Grievances._** \- The parties to collective bargaining shall endeavor to include in their agreement provisions to insure mutual observance of the terms and stipulations of the agreement and to establish machinery for the adjustment of grievances, including any question that may arise from the application or interpretation of the agreement or from day-to-day relationships in the establishment.
+## Section 16
 
-**Section 17._Rights and Conditions of Membership in Labor Organizations._** \- It is hereby declared to be the public policy of the Philippines to encourage the following internal labor organization procedures. A minimum of ten percent of the members of a labor organization may report an alleged violation of these procedures in their labor organization to the Court. If the Court finds, upon investigation, evidence to substantiate the alleged violation and that efforts to correct the alleged violation through the procedures provided by the labor organization's constitution or by-laws have been exhausted, the Court shall dispose of the complaint as in "unfair labor practice" cases.
+_Administration of Agreement and Handling of Grievances._ \- The parties to collective bargaining shall endeavor to include in their agreement provisions to insure mutual observance of the terms and stipulations of the agreement and to establish machinery for the adjustment of grievances, including any question that may arise from the application or interpretation of the agreement or from day-to-day relationships in the establishment.
+
+## Section 17
+
+_Rights and Conditions of Membership in Labor Organizations._ \- It is hereby declared to be the public policy of the Philippines to encourage the following internal labor organization procedures. A minimum of ten percent of the members of a labor organization may report an alleged violation of these procedures in their labor organization to the Court. If the Court finds, upon investigation, evidence to substantiate the alleged violation and that efforts to correct the alleged violation through the procedures provided by the labor organization's constitution or by-laws have been exhausted, the Court shall dispose of the complaint as in "unfair labor practice" cases.
 
 (a) Arbitrary or excessive initiation fees shall not be required of the members of a legitimate labor organization nor shall arbitrary, excessive or oppressive fines and forfeitures be imposed.
 
@@ -237,7 +271,9 @@ The account shall be verified by affidavit and copy thereof shall be furnished t
 
 (l) The books of accounts and other records of the financial activities of a legitimate labor organization shall be open to inspection by any officer or member thereof.
 
-**Section 18._Conciliation Service._** \- There shall be appointed, in addition to the existing personnel of the Conciliation Service of the Department of Labor, such number of conciliators, examiners, and other assistants as may be necessary to carry out the purposes of this section and as may hereafter be provided in this Act or may hereafter be provided by law.
+## Section 18
+
+_Conciliation Service._ \- There shall be appointed, in addition to the existing personnel of the Conciliation Service of the Department of Labor, such number of conciliators, examiners, and other assistants as may be necessary to carry out the purposes of this section and as may hereafter be provided in this Act or may hereafter be provided by law.
 
 It shall be the duty of the Service, in order to prevent or minimize labor disputes, to assist parties to labor disputes in settling such disputes through conciliation and mediation.
 
@@ -245,9 +281,13 @@ The Service may proffer its services in any labor dispute in any industry either
 
 If the Service is not able to bring the parties to agreement by conciliation within a reasonable time, it shall seek to induce the parties voluntarily to seek other means of settling the dispute without resort to strike, lockout, or other coercion, including submission to the employees in the bargaining unit of the employer's last offer of settlement for approval or rejection in a secret ballot.
 
-**Section 19._Compilation of Collective Bargaining Agreements._** \- For the information and guidance of all interested representatives of employers and legitimate labor organizations, the Conciliation Service in the Department of Labor shall maintain a file of all available collective bargaining agreements and other available agreements settling or adjusting industrial disputes, and of copies of the orders, awards, and decisions of the Court of Industrial Relations and the Supreme Court in cases of industrial disputes. Such file shall be open to inspection under appropriate conditions prescribed by the Secretary of Labor, except that no specific information submitted in confidence shall be disclosed.
+## Section 19
 
-**Section 20._Labor-Management Conferences._** \- The President of the Philippines may, from time to time, upon his own motion or upon recommendation of the Secretary of Labor, call a national conference of representatives of employers and of labor organizations for the consideration and adoption of voluntary codes of principle in regard to labor-management relations designed to prevent or minimize industrial disputes particularly those affecting the general welfare.
+_Compilation of Collective Bargaining Agreements._ \- For the information and guidance of all interested representatives of employers and legitimate labor organizations, the Conciliation Service in the Department of Labor shall maintain a file of all available collective bargaining agreements and other available agreements settling or adjusting industrial disputes, and of copies of the orders, awards, and decisions of the Court of Industrial Relations and the Supreme Court in cases of industrial disputes. Such file shall be open to inspection under appropriate conditions prescribed by the Secretary of Labor, except that no specific information submitted in confidence shall be disclosed.
+
+## Section 20
+
+_Labor-Management Conferences._ \- The President of the Philippines may, from time to time, upon his own motion or upon recommendation of the Secretary of Labor, call a national conference of representatives of employers and of labor organizations for the consideration and adoption of voluntary codes of principle in regard to labor-management relations designed to prevent or minimize industrial disputes particularly those affecting the general welfare.
 
 The Secretary of Labor is also authorized to call from time to time a conference of representatives of employers and labor organizations in any industry or region for the same purpose.
 
@@ -255,11 +295,15 @@ In recommending a national labor-management conference or in calling an industri
 
 The purpose of this section is to establish a positive philosophy in the governmental approach to the problem of industrial relations that will lend the whole force of its influence in encouraging the development of sound economic and social practices, and, at the same time, to recognize that real industrial peace can not be achieved by compulsion of law. Sound and stable industrial relations must rest, in keeping with the spirit of our democratic institutions, on an essentially voluntary basis.
 
-**Section 21._Advisory Labor-Management Council._** \- There is hereby established in the Department of Labor an advisory Labor-Management Council which shall be composed of a member representing the public, who shall act as chairman, and an equal number of representatives selected from among persons outstanding in the field of management and of representatives selected from among persons outstanding in the filed of labor.
+## Section 21
+
+_Advisory Labor-Management Council._ \- There is hereby established in the Department of Labor an advisory Labor-Management Council which shall be composed of a member representing the public, who shall act as chairman, and an equal number of representatives selected from among persons outstanding in the field of management and of representatives selected from among persons outstanding in the filed of labor.
 
 It shall be the duty of the Council, at the request of the Secretary of Labor, to advise in the avoidance of industrial disputes and the manner in which medication and voluntary adjustment of such disputes shall be administered.
 
-**Section 22._Study of Industrial Relations._** \- The Secretary of Labor shall have power and it shall be his duty to inquire into -
+## Section 22
+
+_Study of Industrial Relations._ \- The Secretary of Labor shall have power and it shall be his duty to inquire into -
 
 (a) The existing relations between employer and employees in the Philippines;
 
@@ -279,7 +323,9 @@ It shall be the duty of the Council, at the request of the Secretary of Labor, t
 
 The Secretary of Labor shall also inquire into the causes of industrial unrest and take all necessary means within his power as may be prescribed by law to alleviate the same, and shall from time to time recommend the enactment of such remedial legislation as in his judgment may be desirable for the maintenance and promotion of industrial peace.
 
-**Section 23._Registration of Labor Organizations._** \-
+## Section 23
+
+_Registration of Labor Organizations._ \-
 
 (a) There shall be in the Department of Labor a Registrar of Labor Organizations (hereinafter referred to as the Registrar).
 
@@ -301,7 +347,9 @@ The Department of Labor shall automatically cancel or refuse registration and pe
 
 (e) Provisions of Commonwealth Act Numbered Two hundred and thirteen providing for registration, licensing, and cancellation of registration of organizations, associations or unions of labor, as qualified and expanded by the preceding paragraphs of this Act, are hereby amended.
 
-**Section 24._Rights of Labor Organizations._** \- A legitimate labor organization shall have the right -
+## Section 24
+
+_Rights of Labor Organizations._ \- A legitimate labor organization shall have the right -
 
 (a) To act as the representative of its members for the purpose of collective bargaining, pursuant to section three of this Act;
 
@@ -313,18 +361,30 @@ The Department of Labor shall automatically cancel or refuse registration and pe
 
 No suit, action or other proceeding shall be maintainable in any court against a labor organization or any officer or member thereof for any act done by or on behalf of such organization in furtherance of an industrial dispute to which it is a party, on the ground only that such act induces some other person to break a contract of employment or that it is in restraint of trade or interferes with the trade, business or employment of some other person or with the right of some other person to dispose of his capital or labor.
 
-**Section 25._Penalties._** \- Any person who violates the provisions of section three of this Act shall be punished by a fine of not less that one hundred pesos nor more than one thousand pesos, or by imprisonment of not less than one month nor more than one year, or by both such fine and imprisonment, in the discretion of the Court.
+## Section 25
+
+_Penalties._ \- Any person who violates the provisions of section three of this Act shall be punished by a fine of not less that one hundred pesos nor more than one thousand pesos, or by imprisonment of not less than one month nor more than one year, or by both such fine and imprisonment, in the discretion of the Court.
 
 Any other violation of this Act which is declared unlawful shall be punished by a fine of not less than fifty pesos nor more than five hundred pesos for each offense.
 
-**Section 26._Appropriations._** \- The sum of two hundred thousand pesos is hereby appropriated for the fiscal year nineteen hundred and fifty-four to carry out the purposes of this Act and the same amount is hereby authorized for appropriation in succeeding years.
+## Section 26
 
-**Section 27._Transitory Provision._** \- All cases pending before the Court of Industrial Relations at the time of passage of this Act shall be processed by the Court according to Commonwealth Act Numbered One hundred three, as amended by the Commonwealth Acts Numbered Two hundred fifty-four, Three hundred fifty-five and Five hundred fifty-nine but the judges of the Court shall call both parties to the dispute and make every attempt to help them reach a just and speedy solution by mutual agreement.
+_Appropriations._ \- The sum of two hundred thousand pesos is hereby appropriated for the fiscal year nineteen hundred and fifty-four to carry out the purposes of this Act and the same amount is hereby authorized for appropriation in succeeding years.
 
-**Section 28._Declaration of Invalidity._** \- If any provision of this Act, or the application thereof to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+## Section 27
 
-**Section 29._Prior Inconsistent Laws._** \- All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed.
+_Transitory Provision._ \- All cases pending before the Court of Industrial Relations at the time of passage of this Act shall be processed by the Court according to Commonwealth Act Numbered One hundred three, as amended by the Commonwealth Acts Numbered Two hundred fifty-four, Three hundred fifty-five and Five hundred fifty-nine but the judges of the Court shall call both parties to the dispute and make every attempt to help them reach a just and speedy solution by mutual agreement.
 
-**Section 30._Date of Effectivity._** \- This Act shall take effect on its approval.
+## Section 28
 
-Approved: **June 17, 1953** 1awphil@alf
+_Declaration of Invalidity._ \- If any provision of this Act, or the application thereof to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+
+## Section 29
+
+_Prior Inconsistent Laws._ \- All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 30
+
+_Date of Effectivity._ \- This Act shall take effect on its approval.
+
+Approved: **June 17, 1953**

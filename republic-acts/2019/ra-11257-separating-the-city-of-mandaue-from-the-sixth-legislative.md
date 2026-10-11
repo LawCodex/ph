@@ -42,7 +42,7 @@ The Commission on Elections shall issue the necessary rules and regulations to i
 
 ## Section 4
 
-All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.1âwphi1
+All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 5
 

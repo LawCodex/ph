@@ -74,7 +74,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 12
 
-_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which Congress may hereafter be enacted.1aшphi1
+_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which Congress may hereafter be enacted.
 
 ## Section 13
 

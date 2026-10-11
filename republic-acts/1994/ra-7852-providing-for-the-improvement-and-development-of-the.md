@@ -41,6 +41,6 @@ The Department of Tourism shall promulgate such rules and regulations as may be 
 
 ## Section 5
 
-This Act shall take effect immediately upon its approval.1a⍵⍴h!1
+This Act shall take effect immediately upon its approval.
 
 Approved, December 24, 1994.

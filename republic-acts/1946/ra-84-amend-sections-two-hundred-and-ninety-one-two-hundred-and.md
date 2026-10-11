@@ -101,7 +101,7 @@ Section two hundred and ninety-nine of Commonwealth Act Numbered Four hundred an
 
 Section three hundred and two of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
 
-"Section 302. Inspection fees.—For inspection made in accordance with this Chapter, there shall be collected a fee of thirty centavos for each thousand cigars or fraction thereof in the lot offered for inspection; three centavos for each thousand cigarettes or fraction thereof in the lot offered for inspection; fifty centavos for each one hundred kilograms of leaf tobacco or fraction thereof in the lot offered for inspection; and one centavo for each kilogram or fraction thereof, of other manufactured tobacco in the lot offered for inspection.⚖ - ℒαɯρhi৷
+"Section 302. Inspection fees.—For inspection made in accordance with this Chapter, there shall be collected a fee of thirty centavos for each thousand cigars or fraction thereof in the lot offered for inspection; three centavos for each thousand cigarettes or fraction thereof in the lot offered for inspection; fifty centavos for each one hundred kilograms of leaf tobacco or fraction thereof in the lot offered for inspection; and one centavo for each kilogram or fraction thereof, of other manufactured tobacco in the lot offered for inspection.
 
 "The tobacco inspection fees shall accrue to the Tobacco Inspection Fund created by section twelve of Act Numbered Two thousand six hundred and thirteen, as amended by Act Numbered Three thousand one hundred and seventy-nine."
 

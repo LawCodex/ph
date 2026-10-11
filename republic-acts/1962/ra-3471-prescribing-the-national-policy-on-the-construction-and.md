@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-It is hereby declared to be the policy of the Philippine Government to encourage the installation and proper utilization of more pump irrigation systems in order to bring about the social and economic well-being of the people in the rural areas by making available to them irrigation systems to increase production and elevate their standard of living.1âшphi1
+It is hereby declared to be the policy of the Philippine Government to encourage the installation and proper utilization of more pump irrigation systems in order to bring about the social and economic well-being of the people in the rural areas by making available to them irrigation systems to increase production and elevate their standard of living.
 
 ## Section 2
 

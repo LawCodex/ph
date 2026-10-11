@@ -30,7 +30,7 @@ Subject to the provisions of the Constitution and to the terms and conditions es
 
 ## Section 2
 
-In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact business for the benefit and in behalf of the public consumers with reference to rates subject to the approval of the Public Service Commission.1âшphi1
+In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact business for the benefit and in behalf of the public consumers with reference to rates subject to the approval of the Public Service Commission.
 
 ## Section 3
 

@@ -915,7 +915,7 @@ _Plebiscite._ \- The City of Pasig shall acquire corporate existence upon the ra
 
 ### Section 48
 
-_Officials of the City of Pasig._ \- The present elective officials of the municipality shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected city officials shall have qualified and assumed their offices. The appointive officials and employees of the municipality shall likewise continue to exercise their functions and duties and they shall be automatically absorbed by the government of the City of Pasig.1a⍵⍴h!1
+_Officials of the City of Pasig._ \- The present elective officials of the municipality shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected city officials shall have qualified and assumed their offices. The appointive officials and employees of the municipality shall likewise continue to exercise their functions and duties and they shall be automatically absorbed by the government of the City of Pasig.
 
 ### Section 49
 

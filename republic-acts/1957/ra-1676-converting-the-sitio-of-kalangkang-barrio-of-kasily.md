@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Kalangkang, barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of Kalangkang.1avvphi1
+The sitio of Kalangkang, barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of Kalangkang.
 
 ## Section 2
 

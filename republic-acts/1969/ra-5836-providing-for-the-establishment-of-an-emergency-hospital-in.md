@@ -32,6 +32,6 @@ The sum of one hundred fifty thousand pesos is hereby authorized to be appropria
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

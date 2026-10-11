@@ -72,7 +72,7 @@ _Right of Eminent Domain._ – Subject to the limitations and procedures prescri
 
 ## Section 10
 
-_Warranty in Favor of the National and Local Governments. –_ The grantee shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction, installation, operation and maintenance of the distribution system of the grantee.1âwphi1
+_Warranty in Favor of the National and Local Governments. –_ The grantee shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction, installation, operation and maintenance of the distribution system of the grantee.
 
 ## Section 11
 

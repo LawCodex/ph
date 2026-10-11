@@ -49,7 +49,7 @@ Section 5, sub-paragraph h(2) of Republic Act No. 7432, as amended, is hereby fu
 
 ## Section 2
 
-_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations, or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations, or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 3
 

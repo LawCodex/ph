@@ -29,7 +29,7 @@ The name of the Malabag Municipal High School in Barangay Malabag, Municipality 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

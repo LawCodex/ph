@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrio of Zarragoza, in the municipality of Batad, Province of Iloilo, is transferred from said municipality to that of the municipality of Balasan, Province of Iloilo.ℒαwρhi৷
+The barrio of Zarragoza, in the municipality of Batad, Province of Iloilo, is transferred from said municipality to that of the municipality of Balasan, Province of Iloilo.
 
 ## Section 2
 

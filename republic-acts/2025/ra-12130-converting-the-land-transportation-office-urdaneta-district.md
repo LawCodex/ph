@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing Land Transportation Office (LTO) District Office in Urdaneta City, Pangasinan (LTO Urdaneta District Office) is hereby converted into a Class "A" LTO district office and renamed as the LTO Binalonan District Office.ℒαwρhi৷
+The existing Land Transportation Office (LTO) District Office in Urdaneta City, Pangasinan (LTO Urdaneta District Office) is hereby converted into a Class "A" LTO district office and renamed as the LTO Binalonan District Office.
 
 ## Section 2
 

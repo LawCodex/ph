@@ -141,7 +141,7 @@ _Guarantee by the Government._ -The Republic of the Philippines hereby guarantee
 
 ### Section 16
 
-_Board of Directors; composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors, hereinafter referred to as the Board, which shall be composed of seven members appointed by the President with the consent of the Commission on Appointments.1âшphi1 The President shall designate from among the members of the Board its Chairman and a General Manager of the Authority who shall automatically be the Vice-Chairman of the Board: _Provided,_ That, in the selection of members of the Board, the President shall give preference to residents of the Province of Samar, particularly of the northern municipalities.
+_Board of Directors; composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors, hereinafter referred to as the Board, which shall be composed of seven members appointed by the President with the consent of the Commission on Appointments. The President shall designate from among the members of the Board its Chairman and a General Manager of the Authority who shall automatically be the Vice-Chairman of the Board: _Provided,_ That, in the selection of members of the Board, the President shall give preference to residents of the Province of Samar, particularly of the northern municipalities.
 
 ### Section 17
 

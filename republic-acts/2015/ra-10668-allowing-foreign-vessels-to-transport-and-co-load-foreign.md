@@ -92,7 +92,7 @@ _Authority of the Commissioner of Customs. –_ The Commissioner of Customs, upo
 
 (b) Allow a foreign vessel to take cargo intended for export at any Philippine port and convey the same upon such foreign vessel to a foreign port; and
 
-(c) Authorize the transshipment of such foreign cargo intended for import or export through another Philippine port by another foreign vessel to the cargo’s port of final destination.1âwphi1
+(c) Authorize the transshipment of such foreign cargo intended for import or export through another Philippine port by another foreign vessel to the cargo’s port of final destination.
 
 _Provided,_ That such acts shall not diminish or impair any existing and valid government contract covering the handling of import and export cargo: _Provided, further,_ That the Commissioner of Customs shall have the authority to impose penalties to foreign ship operators found to have violated any provision of this Act and to take measures to address illegal activities, including smuggling.
 

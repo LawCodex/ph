@@ -102,7 +102,7 @@ X, XI, XII, Caraga and Autonomous Region in Muslim Mindanao (ARMM): Provided, Th
 
 (o) To sue and be sued, enter into contracts, acquire, purchase, hold, lease, transfer, dispose of property of any kind or nature to carry out the purposes to this Act; and
 
-(p) Discharge other functions that may be deemed necessary or as may be provided by law.1avvphi1
+(p) Discharge other functions that may be deemed necessary or as may be provided by law.
 
 The Authority, through the MinDA Chairperson, shall submit to the President and both Houses of Congress annual reports on its accomplishments and activities.
 

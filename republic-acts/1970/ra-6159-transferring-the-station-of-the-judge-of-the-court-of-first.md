@@ -31,6 +31,6 @@ The second subparagraph of the second paragraph of Section fifty-two of Republic
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: November 9, 1970.

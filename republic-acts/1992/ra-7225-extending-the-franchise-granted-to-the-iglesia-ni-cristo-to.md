@@ -29,7 +29,7 @@ The life of the franchise of the Iglesia ni Cristo to construct, install, establ
 
 ## Section 2
 
-All other provisions, terms and conditions contained in Republic Act Numbered Forty-three hundred and thirty-nine which are otherwise not affected hereby are made integral parts of this Act.1âшphi1
+All other provisions, terms and conditions contained in Republic Act Numbered Forty-three hundred and thirty-nine which are otherwise not affected hereby are made integral parts of this Act.
 
 ## Section 3
 

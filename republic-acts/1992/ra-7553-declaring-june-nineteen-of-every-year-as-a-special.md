@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-June Nineteen of every year is hereby declared as a special nonworking holiday in the Province of Surigao del Norte, to be known as "Adlaw Nan Surigao Del Norte."1âшphi1
+June Nineteen of every year is hereby declared as a special nonworking holiday in the Province of Surigao del Norte, to be known as "Adlaw Nan Surigao Del Norte."
 
 ## Section 2
 

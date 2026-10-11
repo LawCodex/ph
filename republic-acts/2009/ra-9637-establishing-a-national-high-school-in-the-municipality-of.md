@@ -38,7 +38,7 @@ _Appropriations._ \- The Regional Secretary of Education shall immediately inclu
 
 ## Section 3
 
-_Implementation._ \- The Regional Secretary of Education shalIissue rules and regulations that may be necessary to carry out the purpose of this Act.1avvphi1
+_Implementation._ \- The Regional Secretary of Education shalIissue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 4
 

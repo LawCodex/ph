@@ -39,7 +39,7 @@ _Appropriation.—_ The sum of three hundred seventy thousand pesos is hereby au
 
 ## Section 4
 
-_Penal Provision.—_ Any person or entity who shall conduct fishing operation or catch fish in any manner within the area described in Section one of this Act or destroy or in any way damage any of the materials, equipment and/or improvements installed therein for purposes of the fish sanctuary shall, upon conviction, be subject to a fine of not more than two hundred pesos or imprisonment for a term of not more than one month, or both such fine and imprisonment, at the discretion of the court.1avvphi1
+_Penal Provision.—_ Any person or entity who shall conduct fishing operation or catch fish in any manner within the area described in Section one of this Act or destroy or in any way damage any of the materials, equipment and/or improvements installed therein for purposes of the fish sanctuary shall, upon conviction, be subject to a fine of not more than two hundred pesos or imprisonment for a term of not more than one month, or both such fine and imprisonment, at the discretion of the court.
 
 ## Section 5
 

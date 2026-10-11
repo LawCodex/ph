@@ -33,7 +33,7 @@ Ms. Mayleen Ting is hereby granted Philippine citizenship with all the rights, p
 
 ## Section 2
 
-Ms. Mayleen Ting shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.1a\^/phi1 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Ms. Mayleen Ting shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

@@ -207,7 +207,7 @@ _Auditor and Personnel_ \- The Commission on Audit shall appoint a representativ
 
 ## Section 18
 
-_Power to Issue Bonds._ \- The Authority, to incur indebtedness or to issue bonds to carry out approved capital investment projects, shall be approved by the affirmative vote of at least four (4) of all the members of the Commission in a special meeting called for the purpose and approved by the President of the Philippines upon the recommendation of the Secretary of Finance and the Central Bank of the Philippines.1âшphi1
+_Power to Issue Bonds._ \- The Authority, to incur indebtedness or to issue bonds to carry out approved capital investment projects, shall be approved by the affirmative vote of at least four (4) of all the members of the Commission in a special meeting called for the purpose and approved by the President of the Philippines upon the recommendation of the Secretary of Finance and the Central Bank of the Philippines.
 
 ## Section 19
 

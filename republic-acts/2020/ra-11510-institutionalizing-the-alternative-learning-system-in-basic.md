@@ -55,7 +55,7 @@ _Objectives._ \- This Act aims to achieve the following objectives:
 
 (g) Improve access to education and other learning opportunities and raise the level of literacy to contribute to an individual's sustainable future; and
 
-(h) Strengthen nonformal basic education programs while ensuring support to the policy of the DepEd that school age children should be enrolled in formal education, and that they should be able to return to the formal education system in the event that they drop out.ℒαwρhi৷
+(h) Strengthen nonformal basic education programs while ensuring support to the policy of the DepEd that school age children should be enrolled in formal education, and that they should be able to return to the formal education system in the event that they drop out.
 
 ## Section 4
 
@@ -253,7 +253,7 @@ _Special Education Fund Authorization._ \- Notwithstanding the provisions of Sec
 
 _Mandatory Annual Review and Impact Assessment of the ALS Program._ \- The DepEd, in partnership with LGUs and the private sector, shall conduct a mandatory annual review of the ALS program, and submit such annual report to Congress to measure its effectiveness and ensure the proper implementation.
 
-An evaluation system shall be established to assess the impact of the ALS program and the progress of the learners who have completed the program.ℒαwρhi৷
+An evaluation system shall be established to assess the impact of the ALS program and the progress of the learners who have completed the program.
 
 ## Section 20
 

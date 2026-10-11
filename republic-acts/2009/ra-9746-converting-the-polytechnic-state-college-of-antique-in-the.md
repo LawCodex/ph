@@ -34,7 +34,7 @@ _Conversion._ \- The Polytechnic State College of Antique (PSCA) in the Municipa
 
 ## Section 2
 
-_General Mandate._ \- The University shall primarily provide advanced education, higher technological, professional instruction and training in the fields of education, agriculture, forestry, fishery, maritime education, ecology, engineering, philosophy, information and communications technology, letters, arte and sciences, nursing, medicine and other relevant fields of study.1avvphi1 It shall also undertake research and extension services in support of the socioeconomic development of Antique, and provide progressive leadership in its areas of specialization.
+_General Mandate._ \- The University shall primarily provide advanced education, higher technological, professional instruction and training in the fields of education, agriculture, forestry, fishery, maritime education, ecology, engineering, philosophy, information and communications technology, letters, arte and sciences, nursing, medicine and other relevant fields of study. It shall also undertake research and extension services in support of the socioeconomic development of Antique, and provide progressive leadership in its areas of specialization.
 
 ## Section 3
 
@@ -80,7 +80,7 @@ _Powers and Duties of the Board of Regents._ \- The Board shall have the followi
 
 (c) To import duty - free economic, technical and cultural books and/or publications, upon certification by the CHED that such imported books and/or publications are for economic, technical, vocational, scientific, philosophical, historical or cultural purposes, in accordance with the provisions of the Tariff and Customs Code of the Philippines, as amended;
 
-(d) To receive in trust, legacies, gifts and donations of real and personal properties of all kinds and to administer and dispose , of the same when necessary for the benefit of the University, and subject to the limitations, directions and instructions of the donor, if any.ten.lihpwal
+(d) To receive in trust, legacies, gifts and donations of real and personal properties of all kinds and to administer and dispose , of the same when necessary for the benefit of the University, and subject to the limitations, directions and instructions of the donor, if any.
 
 Such donations shall be exempt from the donor's tax and the same shall be considered as allowable deductions from the gross income in the computation of the income tax of the donor, in accordance with the provisions of the National Internal Revenue Code (NTRC) of 1997, as amended: _Provided,_ That such donations shall not be disposed of, transferred or sold;
 

@@ -95,7 +95,7 @@ The grantee shall hold the national, provincial, city, municipal and municipal d
 
 ## Section 17
 
-The rates for the telephone service, flat rates as well as measured rates, shall be subject to the approval of the Public Service Commission.1âшphi1
+The rates for the telephone service, flat rates as well as measured rates, shall be subject to the approval of the Public Service Commission.
 
 The monthly rates for telephones having a metallic circuit within the limits of the poblacion of any city, municipality or municipal district in territories covered by this franchise shall also be approved by the Public Service Commission.
 

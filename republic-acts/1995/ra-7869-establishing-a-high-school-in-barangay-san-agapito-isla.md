@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a high school in Barangay San Agapito, Isla Verde, Batangas City, to be known as the San Agapito High School.1aшphi1
+There shall be established a high school in Barangay San Agapito, Isla Verde, Batangas City, to be known as the San Agapito High School.
 
 ## Section 2
 

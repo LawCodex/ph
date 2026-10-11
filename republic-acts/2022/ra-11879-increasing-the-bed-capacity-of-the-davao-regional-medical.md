@@ -50,7 +50,7 @@ The Secretary of the DOH shall immediately include in the DOH’s program the im
 
 ## Section 6
 
-All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.ℒαwρhi৷
+All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
 
 ## Section 7
 

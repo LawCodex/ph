@@ -44,7 +44,7 @@ This temporary permit shall not take effect until the Secretary of Public Works 
 
 ## Section 6
 
-No fees are chargeable, as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.1âшphi1
+No fees are chargeable, as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.
 
 ## Section 7
 

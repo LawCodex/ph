@@ -51,7 +51,7 @@ To carry out the purposes of this Act, the sum appropriated for the operation an
 
 ## Section 7
 
-As a unit of the Mindanao State University, the Iligan Institute of Technology shall be governed by Republic Act Numbered Thirteen hundred eighty-seven, as amended, otherwise known as the Charter of Mindanao State University, and its administration shall be vested in the Board of Regents of the said University, all provisions of law to the contrary notwithstanding.1avvphi1 The Northern Mindanao Institute of Technology is hereby abolished and all its personnel, unexpended appropriations, properties and other assets, whether in its name or that of the Lanao Technical School, are hereby transferred to the Mindanao State University: _Provided,_ That nothing in this Act shall be interpreted as to terminate the services of the said transferred personnel or demote them in rank and/or salary.
+As a unit of the Mindanao State University, the Iligan Institute of Technology shall be governed by Republic Act Numbered Thirteen hundred eighty-seven, as amended, otherwise known as the Charter of Mindanao State University, and its administration shall be vested in the Board of Regents of the said University, all provisions of law to the contrary notwithstanding. The Northern Mindanao Institute of Technology is hereby abolished and all its personnel, unexpended appropriations, properties and other assets, whether in its name or that of the Lanao Technical School, are hereby transferred to the Mindanao State University: _Provided,_ That nothing in this Act shall be interpreted as to terminate the services of the said transferred personnel or demote them in rank and/or salary.
 
 ## Section 8
 

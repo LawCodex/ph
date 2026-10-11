@@ -229,7 +229,7 @@ _Appropriations._ \- The amount necessary to carry out the provisions of this Ac
 
 ## Section 22
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997', shall form part of this Act.ℒαwρhi৷
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997', shall form part of this Act.
 
 ## Section 23
 

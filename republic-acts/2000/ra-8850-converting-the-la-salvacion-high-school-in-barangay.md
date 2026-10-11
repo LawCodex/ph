@@ -39,7 +39,7 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 4
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 21, 1998 June 8, 2000, respectively.
 

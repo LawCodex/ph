@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-January 11 of every year is hereby declared a special nonworking holiday in the Province of Bataan in commemoration of its founding anniversary to be known as "Bataan Foundation Day".1âwphi1
+January 11 of every year is hereby declared a special nonworking holiday in the Province of Bataan in commemoration of its founding anniversary to be known as "Bataan Foundation Day".
 
 ## Section 2
 

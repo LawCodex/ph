@@ -53,7 +53,7 @@ _Rates for Services._ – The charges and rates for telecommunications services 
 
 _Right of Government._ – A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations, transmitters, facilities or equipment of the grantee, to temporarily suspend the operation of any station, transmitter, facility or equipment in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee for the use of said stations, transmitters, facilities or equipment during the period when they shall be so operated.
 
-The radio spectrum is a finite resource that is a part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.Ꮮαwρhi৷
+The radio spectrum is a finite resource that is a part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.
 
 ## Section 7
 
@@ -71,7 +71,7 @@ _Acceptance and Compliance._ – Acceptance of this franchise shall be given in 
 
 ## Section 9
 
-_Bond._ – The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted.Ꮮαwρhi৷ If after five (5) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
+_Bond._ – The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted. If after five (5) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
 
 ## Section 10
 

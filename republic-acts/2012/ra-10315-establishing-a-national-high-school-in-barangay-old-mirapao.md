@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Establishment of a National High School._ \- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Old Mirapao, Municipality of Din as, Province of Zamboanga del Sur to be known as Old Mirapao National High School.ℒαwρhi৷
+_Establishment of a National High School._ \- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Old Mirapao, Municipality of Din as, Province of Zamboanga del Sur to be known as Old Mirapao National High School.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it evaded by the Senate and House of Representatives of the Philippines in Co
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Sipocot, Province of Camarines Sur, to be known as Sipocot Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Sipocot, in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Sipocot, Province of Camarines Sur, to be known as Sipocot Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Sipocot, in consultation with the Director of Medical Services.
 
 ## Section 2
 

@@ -23,7 +23,9 @@ AN ACT INCREASING THE BED CAPACITY OF THE LAUREL MEMORIAL DISTRICT HOSPITAL IN T
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1. 1âшphi1** The bed capacity of the Laurel Memorial District Hospital in the Municipality of Tanauan, Province of Batangas, is hereby increased from twenty-five (25) to fifty (50) beds.
+## Section 1
+
+The bed capacity of the Laurel Memorial District Hospital in the Municipality of Tanauan, Province of Batangas, is hereby increased from twenty-five (25) to fifty (50) beds.
 
 ## Section 2
 

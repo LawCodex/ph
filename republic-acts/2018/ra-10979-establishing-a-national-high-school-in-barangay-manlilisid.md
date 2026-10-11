@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the_ _Philippines i
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Manlilisid, Municipality of Javier, Province of Leyte to be known as Manlilisid National High School.1âwphi1
+There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Manlilisid, Municipality of Javier, Province of Leyte to be known as Manlilisid National High School.
 
 ## Section 2
 

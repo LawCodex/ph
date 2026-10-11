@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The primary school of Barrio Malabo, Municipality of Valencia, Province of Negros Oriental, is hereby named Carson Primary School.1âшphi1
+The primary school of Barrio Malabo, Municipality of Valencia, Province of Negros Oriental, is hereby named Carson Primary School.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of five million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for aid to and rehabilitation of the provinces of Samar, Leyte, Southern Leyte, Masbate, Romblon, Oriental Mindoro, Occidental Mindoro, and other provinces of the Bicol region damaged by the typhoon "Irma" which occurred in May, nineteen hundred and sixty-six: _Provided,_ That the said sum shall be used only for purposes of reconstruction and/or repair and not for new construction, on the basis of the report to be made by the Department of Public Works and Communications of recorded typhoon damages.1avvphi1
+The sum of five million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for aid to and rehabilitation of the provinces of Samar, Leyte, Southern Leyte, Masbate, Romblon, Oriental Mindoro, Occidental Mindoro, and other provinces of the Bicol region damaged by the typhoon "Irma" which occurred in May, nineteen hundred and sixty-six: _Provided,_ That the said sum shall be used only for purposes of reconstruction and/or repair and not for new construction, on the basis of the report to be made by the Department of Public Works and Communications of recorded typhoon damages.
 
 ## Section 2
 

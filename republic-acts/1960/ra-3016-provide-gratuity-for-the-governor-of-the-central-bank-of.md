@@ -33,7 +33,7 @@ When the Governor of the Central Bank of the Philippines takes advantage of the 
 
 ## Section 3
 
-The benefits herein granted shall be exempt from all taxes and shall not be liable to garnishment, levy or execution.1âшphi1
+The benefits herein granted shall be exempt from all taxes and shall not be liable to garnishment, levy or execution.
 
 ## Section 4
 

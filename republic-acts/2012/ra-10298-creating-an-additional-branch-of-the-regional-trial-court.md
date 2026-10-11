@@ -31,13 +31,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby created an additional Regional Trial Court branch in the Second Judicial Region with seat at the Municipality of Lubuagan, Province of Kalinga.ℒαwρhi৷
+There is hereby created an additional Regional Trial Court branch in the Second Judicial Region with seat at the Municipality of Lubuagan, Province of Kalinga.
 
 The Supreme Court shall assign the branch number of the newly-created branch of the Regional Trial Court in the Second Judicial Region.
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of an additional branch of the Regional Trial Court to be stationed at the Municipality of Lubuagan, Province of Kalinga, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court herein created shall be appropriated and released only upon the actual organization of the Court and the appointment of its personnel.ℒαwρhi৷
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of an additional branch of the Regional Trial Court to be stationed at the Municipality of Lubuagan, Province of Kalinga, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court herein created shall be appropriated and released only upon the actual organization of the Court and the appointment of its personnel.
 
 ## Section 3
 

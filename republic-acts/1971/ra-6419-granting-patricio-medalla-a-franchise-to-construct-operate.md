@@ -36,7 +36,7 @@ All apparatus and appurtenances to be used by the grantee shall be modern, safe 
 
 ## Section 4
 
-This franchise shall continue for a period of twenty-five years from the date said plant and cold storage shall be placed in operation and shall commence the manufacture and distribution of ice whenever it is established, and is made subject to the express condition that the same shall be null and void unless the construction of said plant and cold storage be begun within one year from the date of approval of this Act and completed within three years from said date, except when prevented by an act of God, _force majeure_ , martial law, riot, civil commotion, usurpation by military power or any other cause beyond the grantee's control.1âшphi1
+This franchise shall continue for a period of twenty-five years from the date said plant and cold storage shall be placed in operation and shall commence the manufacture and distribution of ice whenever it is established, and is made subject to the express condition that the same shall be null and void unless the construction of said plant and cold storage be begun within one year from the date of approval of this Act and completed within three years from said date, except when prevented by an act of God, _force majeure_ , martial law, riot, civil commotion, usurpation by military power or any other cause beyond the grantee's control.
 
 ## Section 5
 

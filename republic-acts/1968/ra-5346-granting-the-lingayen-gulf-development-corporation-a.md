@@ -45,7 +45,7 @@ This franchise is granted subject to the provisions of Commonwealth Act Numbered
 
 ## Section 6
 
-The grantee, with the approval of the Congress of the Philippines may sell, grant, convey, assign, give in usufruct, or transfer this franchise and all property and rights acquired thereunder to any qualified individual, association or corporation competent to operate the business hereby authorized.1avvphi1
+The grantee, with the approval of the Congress of the Philippines may sell, grant, convey, assign, give in usufruct, or transfer this franchise and all property and rights acquired thereunder to any qualified individual, association or corporation competent to operate the business hereby authorized.
 
 ## Section 7
 

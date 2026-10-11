@@ -84,7 +84,7 @@ Article Three hundred twenty-six of Act Num­bered Thirty-eight hundred and fift
 
 3\. That the fire started simultaneously in more than one part of the building or locale under circumstances that cannot normally be due to accidental or unintentional causes: _Provided,_ however, That at least one of the following is present in any of the three abovementioned circumstances:
 
-a. That the total insurance carried on the building and/or goods is more than 80 per cent of the value of such building and/or goods at the time of the fire;1âшphi1
+a. That the total insurance carried on the building and/or goods is more than 80 per cent of the value of such building and/or goods at the time of the fire;
 
 b. That the defendant after the fire has presented a fraudulent claim for loss."
 

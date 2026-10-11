@@ -28,7 +28,7 @@ The sum of one million pesos is hereby appropriated out of any funds in the Nati
 
 ## Section 2
 
-The working capital herein provided for may be released by the Auditor General to the Bureau of Prisons in one lump sum upon certification of the Commissioner of the Budget as to the necessity thereof.1âшphi1
+The working capital herein provided for may be released by the Auditor General to the Bureau of Prisons in one lump sum upon certification of the Commissioner of the Budget as to the necessity thereof.
 
 ## Section 3
 

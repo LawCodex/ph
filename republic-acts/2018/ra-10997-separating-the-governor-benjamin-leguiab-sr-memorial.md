@@ -33,7 +33,7 @@ The Governor Benjamin Leguiab, Sr. Memorial National High School – Sacpil Anne
 
 ## Section 2
 
-All personnel, assets, liabilities, and records of the Governor Benjamin Leguiab, Sr. Memorial National High School – Sacpil Annex are hereby transferred to and absorbed by the Sacpil National High School.1âwphi1
+All personnel, assets, liabilities, and records of the Governor Benjamin Leguiab, Sr. Memorial National High School – Sacpil Annex are hereby transferred to and absorbed by the Sacpil National High School.
 
 ## Section 3
 

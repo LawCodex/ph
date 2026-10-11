@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Gabong Community School in the barrio of Pandanan, Municipality of Balabac, Province of Palawan, is hereby changed to Tuan Hadji Jiakaria General Community School.1âшphi1
+The name of Gabong Community School in the barrio of Pandanan, Municipality of Balabac, Province of Palawan, is hereby changed to Tuan Hadji Jiakaria General Community School.
 
 ## Section 2
 

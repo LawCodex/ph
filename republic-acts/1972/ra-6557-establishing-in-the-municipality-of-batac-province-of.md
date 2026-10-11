@@ -28,7 +28,7 @@ There shall be established in the Municipality of Batac, Province of Ilocos Nort
 
 ## Section 2
 
-The Director of National Library shall appoint a curator and librarian and such other personnel as may be necessary to carry out the purposes of this Act. The amount of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for the maintenance and operation of the Crispina-Marcos Library and Museum during the fiscal year nineteen hundred and seventy-three. Thereafter, such sum as may be necessary for the purpose of this Act shall be included in the annual General Appropriations Act.1âшphi1
+The Director of National Library shall appoint a curator and librarian and such other personnel as may be necessary to carry out the purposes of this Act. The amount of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for the maintenance and operation of the Crispina-Marcos Library and Museum during the fiscal year nineteen hundred and seventy-three. Thereafter, such sum as may be necessary for the purpose of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

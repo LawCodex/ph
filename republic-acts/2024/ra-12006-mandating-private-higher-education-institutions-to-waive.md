@@ -67,7 +67,7 @@ _Implementing Rules and Regulations._ \- Within sixty (60) days from the effecti
 
 ## Section 8
 
-_Separability Clause._ \- If any provision or part hereof is held invalid or unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in full force and effect.1aшphi1
+_Separability Clause._ \- If any provision or part hereof is held invalid or unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in full force and effect.
 
 ## Section 9
 

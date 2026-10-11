@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Surigao del Sur shall be constituted into two highway engineering districts.1avvphi1 The first highway engineering district shall include the towns of Carrascal, Cantilan, Madrid, Lanuza, Cortes, Tandag, Tago, San Miguel, Bayabas, and Cagwait, and the second highway engineering district shall include the towns of Marihatag, Oteiza, Lianga, Barobo, Hinatuan, Bislig and Linging.
+Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Surigao del Sur shall be constituted into two highway engineering districts. The first highway engineering district shall include the towns of Carrascal, Cantilan, Madrid, Lanuza, Cortes, Tandag, Tago, San Miguel, Bayabas, and Cagwait, and the second highway engineering district shall include the towns of Marihatag, Oteiza, Lianga, Barobo, Hinatuan, Bislig and Linging.
 
 Each highway engineering district shall have one highway district engineer who shall be appointed in accordance with existing laws.
 

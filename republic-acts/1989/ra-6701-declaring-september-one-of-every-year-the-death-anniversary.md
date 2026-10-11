@@ -33,7 +33,7 @@ Any provision of law, decree, order, rules or regulations inconsistent with this
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -128,7 +128,7 @@ _Negros Island Region Government Offices._ \- To ensure the effective delivery o
 
 ## Section 5
 
-_Creation of a Technical Working Group (TWG)._ \- Upon the approval of this Act, a TWG shall be constituted.1aшphi1 This will be composed of the National Economic and Development Authority (NEDA), the Department of the Interior and Local Government (DILG), the Department of Budget and Management (DBM), the representative of the Office of the Governor of the provinces, and the representatives from al elected Members of the House of Representatives of the provinces.
+_Creation of a Technical Working Group (TWG)._ \- Upon the approval of this Act, a TWG shall be constituted. This will be composed of the National Economic and Development Authority (NEDA), the Department of the Interior and Local Government (DILG), the Department of Budget and Management (DBM), the representative of the Office of the Governor of the provinces, and the representatives from al elected Members of the House of Representatives of the provinces.
 
 The TWG shall formulate the plan or roadmap to put in place all institutional arrangements for the Negros Island Region and arrange for the organizational development requirements as well as other necessary concerns for development planning, investment programming, and public service provision. The DILG shall serve as the secretariat of the TWG.
 

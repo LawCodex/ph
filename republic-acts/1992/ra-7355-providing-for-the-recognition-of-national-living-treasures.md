@@ -93,7 +93,7 @@ c. to donate to the National Museum a sample or copy of his/her work.
 
 ## Section 7
 
-_Implementing Agency._ -The Presidential Commission on Culture and Arts, created under Executive Order No. 118, dated January 30, 1987, shall develop and adopt a program to effectuate the provisions of this Act and promulgate such rules and regulations and criteria that will govern the selection of the Manlilikha ng Bayan.1âшphi1
+_Implementing Agency._ -The Presidential Commission on Culture and Arts, created under Executive Order No. 118, dated January 30, 1987, shall develop and adopt a program to effectuate the provisions of this Act and promulgate such rules and regulations and criteria that will govern the selection of the Manlilikha ng Bayan.
 
 For purposes of this Act, the Commission shall have the powers and functions:
 

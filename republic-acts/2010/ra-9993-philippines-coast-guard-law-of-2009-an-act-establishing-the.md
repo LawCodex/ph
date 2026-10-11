@@ -61,8 +61,6 @@ _Powers and Functions._ \- The PCG shall have the following powers and functions
 
 (j) To investigate the inquire into the causes of all maritime accidents involving death, casualties and damage to properties;
 
-lawphil.net
-
 (l) To assist in the enforcement of laws on fisheries, immigration, tariff and customs, forestry, firearms and explosives, human trafficking, dangerous drugs and controlled chemicals, transnational crimes and other applicable laws within the maritime jurisdiction of the Philippines;
 
 (m) To board and inspect all types of merchant ships and watercrafts in the performance of this functions;
@@ -118,7 +116,7 @@ _Distribution of Flag Officers._ \- The number of Flag Officers herein authorize
 
 _Provided,_ That the herein prescribed Coast Guard ranks shall be distinct from those prescribed in the Philippine Navy: _Provided, further,_ That the total number of Flag Officers prescribed under this section shall in no case be less than the number resulting from the implementation of Section 7 hereof, otherwise the latter shall apply.
 
-The number corresponding to the ranks of Coast Guard Admiral, Coast Guard Vice Admiral, Coast Guard Rear Admiral, and Coast Guard Commodore, as provided for in this section, shall be the maximum: _Provided,_ That if the actual number in a rank, except in the case of Coast Guard Admiral and Coast Guard Vice Admiral, is less than the number herein prescribed the difference may be applied as an increase to the number prescribed in the lower rank: _Provided, finally,_ That no officer shall be promoted to the rank of Coast Guard Commodore or higher unless there is an existing vacancy, and the officer is occupying a position in the table of organization that requires the rank of which he is being considered for promotion.1avvphi1
+The number corresponding to the ranks of Coast Guard Admiral, Coast Guard Vice Admiral, Coast Guard Rear Admiral, and Coast Guard Commodore, as provided for in this section, shall be the maximum: _Provided,_ That if the actual number in a rank, except in the case of Coast Guard Admiral and Coast Guard Vice Admiral, is less than the number herein prescribed the difference may be applied as an increase to the number prescribed in the lower rank: _Provided, finally,_ That no officer shall be promoted to the rank of Coast Guard Commodore or higher unless there is an existing vacancy, and the officer is occupying a position in the table of organization that requires the rank of which he is being considered for promotion.
 
 ## Section 9
 

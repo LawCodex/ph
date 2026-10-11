@@ -116,7 +116,7 @@ President of the Philippines.
 
 ## Section 3
 
-The Secretary of Public Works and Communications is hereby authorized to spend for the completion of any of the projects above specified any saving that may be effected in the appropriation intended for any other of said projects; _Provided,_ That no part of such saving shall be spent for salaries, wages or traveling expenses of office personnel.1a⍵⍴h!1
+The Secretary of Public Works and Communications is hereby authorized to spend for the completion of any of the projects above specified any saving that may be effected in the appropriation intended for any other of said projects; _Provided,_ That no part of such saving shall be spent for salaries, wages or traveling expenses of office personnel.
 
 ## Section 4
 

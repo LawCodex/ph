@@ -31,7 +31,7 @@ The provision of Section sixteen hundred seventy-four of the Administrative Code
 
 ## Section 2
 
-There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to pay the share of the National Government for the positions provided for in this Act for the current fiscal year. Thereafter, the approbation for the succeeding fiscal years shall be included thy annual General Appropriations Act.1âшphi1
+There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to pay the share of the National Government for the positions provided for in this Act for the current fiscal year. Thereafter, the approbation for the succeeding fiscal years shall be included thy annual General Appropriations Act.
 
 ## Section 3
 

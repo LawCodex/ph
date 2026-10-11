@@ -35,7 +35,7 @@ Section 1 of Republic Act No. 9689 is hereby amended to read as follows:
 
 ## Section 2
 
-All other laws, decrees, executive orders and other issuances that are inconsistent with this Act are hereby repealed.ℒαwρhi৷
+All other laws, decrees, executive orders and other issuances that are inconsistent with this Act are hereby repealed.
 
 ## Section 3
 

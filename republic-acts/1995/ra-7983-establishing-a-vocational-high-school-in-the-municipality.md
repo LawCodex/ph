@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Education, Culture and Sports, a vocational high school in the Municipality of San Gabriel, Province of La Union, to be known as the San Gabriel Vocational High School.1aшphi1
+There shall be established, under the direct supervision of the Department of Education, Culture and Sports, a vocational high school in the Municipality of San Gabriel, Province of La Union, to be known as the San Gabriel Vocational High School.
 
 ## Section 2
 

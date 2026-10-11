@@ -28,7 +28,7 @@ Any provision of law to the contrary notwithstanding, the fourth congressional d
 
 ## Section 2
 
-The city engineer of Ormoc City, and the disbursing officer of the Ormoc City engineering office shall be the ex-officio district engineer and the ex-officio disbursing officer, respectively, of said Second Highway Engineering District of Leyte.1âшphi1 The city engineer, as ex-officio district engineer, shall receive an additional compensation of three thousand six hundred pesos per annum, while the ex-officio disbursing officer shall receive an additional compensation of one thousand two hundred pesos per annum, both payable from the Highway Special Fund or any available fund of the Second Highway Engineering District. The disbursing officer of the Second Highway Engineering District shall also serve as such of all the provincial fund allotments for provincial public works and/or roads and bridges.1âшphi1
+The city engineer of Ormoc City, and the disbursing officer of the Ormoc City engineering office shall be the ex-officio district engineer and the ex-officio disbursing officer, respectively, of said Second Highway Engineering District of Leyte. The city engineer, as ex-officio district engineer, shall receive an additional compensation of three thousand six hundred pesos per annum, while the ex-officio disbursing officer shall receive an additional compensation of one thousand two hundred pesos per annum, both payable from the Highway Special Fund or any available fund of the Second Highway Engineering District. The disbursing officer of the Second Highway Engineering District shall also serve as such of all the provincial fund allotments for provincial public works and/or roads and bridges.
 
 ## Section 3
 

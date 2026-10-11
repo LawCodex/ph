@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established in the Municipality of Dingalan, Province of Quezon, a community hospital to be known as Maria Aurora Community Hospital. Said hospital shall be maintained and operated under the supervision of the Director of Medical Services.1avvphi1
+There shall be established in the Municipality of Dingalan, Province of Quezon, a community hospital to be known as Maria Aurora Community Hospital. Said hospital shall be maintained and operated under the supervision of the Director of Medical Services.
 
 ## Section 2
 

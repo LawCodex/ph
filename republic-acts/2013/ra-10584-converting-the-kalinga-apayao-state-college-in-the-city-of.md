@@ -276,7 +276,7 @@ _Separability Clause._ – If, for any reason, any part or provision of this Act
 
 ## Section 28
 
-_Repealing Clause._ – All laws, presidential, decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, presidential, decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 29
 

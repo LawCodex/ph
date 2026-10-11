@@ -28,7 +28,7 @@ The sitio of Rang-ayan in the Municipality of Mallig, Province of Isabela, is he
 
 ## Section 2
 
-The sitio of Sta. Rita in the Municipality of Aurora, same province, is hereby converted into a barrio to be known as Barrio Sta. Rita.1âшphi1
+The sitio of Sta. Rita in the Municipality of Aurora, same province, is hereby converted into a barrio to be known as Barrio Sta. Rita.
 
 ## Section 3
 

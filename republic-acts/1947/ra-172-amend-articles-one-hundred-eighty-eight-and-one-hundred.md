@@ -36,7 +36,7 @@ Article one hundred and eighty-eight of Act Numbered Thirty-eight hundred and fi
 
 "4. Any person who, knowing the purposes for which the trade-name, trade-mark, or service mark of a person is to be used, prints, lithographs, or in any way reproduces such trade-name, trade-mark, or service mark, or a colorable imitation thereof, for another person, to enable that other person to fraudulently use such trade-name, trade-mark, or service mark on his own goods or in connection with the sale or advertising of his services.
 
-"A trade-name or trade-mark as herein used is a word or words, name, title, symbol, emblem, sign, or device, or any combination thereof used as an advertisement, sign, label, poster or otherwise, for the purpose of enabling the public to distinguish the business of the person who owns and uses said trade-name or trade-mark.1â#x0448;phi1
+"A trade-name or trade-mark as herein used is a word or words, name, title, symbol, emblem, sign, or device, or any combination thereof used as an advertisement, sign, label, poster or otherwise, for the purpose of enabling the public to distinguish the business of the person who owns and uses said trade-name or trade-mark.
 
 "A service mark as herein used is a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising."
 

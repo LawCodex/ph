@@ -451,7 +451,7 @@ _Protected Area Management Board._ \- Within ninety (90) days from the effectivi
 
 (g) Regional Directors of the following government agencies: Department of Agriculture (DA), National Economic and Development Authority (NEDA), Department of Science and Technology (DOST), Philippine National Police (PNP), Department of National Defense (DND), and Department of Tourism (DOT);
 
-(h) Three (3) representatives from either NGOs or people's organizations (POs) duly accredited both by the DENR and the Provincial Government of Southern Leyte.ℒαwρhi৷ The NGOs or POs represented should have been in existence for at least five (5) years and with track record in or related to protected area management;
+(h) Three (3) representatives from either NGOs or people's organizations (POs) duly accredited both by the DENR and the Provincial Government of Southern Leyte. The NGOs or POs represented should have been in existence for at least five (5) years and with track record in or related to protected area management;
 
 (i) At least one (1) but not more than three (3) representatives from all the ICCs/IPs present in the area and recognized by the National Commission on Indigenous Peoples (NCIP);
 
@@ -519,7 +519,7 @@ The PASu shall be primarily accountable to the PAMB and the DENR for the managem
 
 (l) Perform such other functions as the PAMB and the DENR may assign.
 
-The PAMO may be augmented by the deputized local environment and natural resources officers upon the recommendation of the PAMB and approval of the DENR.7!ᕼdMᗄ7
+The PAMO may be augmented by the deputized local environment and natural resources officers upon the recommendation of the PAMB and approval of the DENR.
 
 ## ARTICLE III — PROCEEDS AND FEES
 

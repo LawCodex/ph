@@ -45,7 +45,7 @@ Section five of the same Act, as amended by Republic Act Numbered Eight hundred 
 
 "The President of the Philippines shall be the Honorary President of the Philippine National Red Cross. The officers shall consist of a Chairman, a Vice-Chairman, a Secretary, an Assistant Secretary, a Treasurer, an Assistant. Treasurer, and a Counselor, all of whom shall be elected by the Board of Governors from among its memberships.
 
-The officers shall be elected for a term of two years and may be re-elected. The election of officers shall take place within sixty days after all the members of the Board of Governors have been chosen and have qualified.1âшphi1
+The officers shall be elected for a term of two years and may be re-elected. The election of officers shall take place within sixty days after all the members of the Board of Governors have been chosen and have qualified.
 
 "The biennial meeting of chapter delegates shall be held on such date and such place as may be specified by the Board of Governors to elect members of the Board of Governors and advise the Board of Governors on the activities of the Philippine National Red Cross: _Provided, however,_ That during periods of great emergency the Board of Governors in its discretion may determine that the best interest of the corporation will be served by omitting such biennial meeting.
 

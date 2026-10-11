@@ -33,7 +33,7 @@ The Secretary of Education is hereby authorized to organize the curricular instr
 
 ## Section 3
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school, including the purchase of a site, for the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five.1âшphi1 Thereafter, such sum as may be needed for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school, including the purchase of a site, for the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five. Thereafter, such sum as may be needed for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

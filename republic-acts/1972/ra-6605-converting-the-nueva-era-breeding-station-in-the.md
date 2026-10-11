@@ -28,7 +28,7 @@ The Nueva Era Breeding Station in the Municipality of Nueva Era, Province of Ilo
 
 ## Section 2
 
-The Director of the Bureau of Animal Industry shall issue such rules and regulations which may be necessary to carry out the purpose of this Act.1âшphi1
+The Director of the Bureau of Animal Industry shall issue such rules and regulations which may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

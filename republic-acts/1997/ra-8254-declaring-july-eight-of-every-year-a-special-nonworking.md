@@ -32,7 +32,7 @@ July eight is the charter day anniversary of the Municipality of Guinsiliban, Pr
 
 ## Section 2
 
-July eight of every year is hereby declared a special nonworking public holiday in the Municipality of Guinsiliban.1aшphi1
+July eight of every year is hereby declared a special nonworking public holiday in the Municipality of Guinsiliban.
 
 ## Section 3
 

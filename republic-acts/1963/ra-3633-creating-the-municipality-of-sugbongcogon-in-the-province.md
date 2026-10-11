@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Sugbongcogon, Kaulayanon, Kidampas, Silad, Alicomohan and Mabini are hereby separated from the Municipality of Kinoguitan, Province of Misamis Oriental, and constituted into a new municipality to be known as the Municipality of Sugbongcogon, with the seat of the municipal government at the present side of the barrio of Sugbongcogon.1âшphi1
+The barrios of Sugbongcogon, Kaulayanon, Kidampas, Silad, Alicomohan and Mabini are hereby separated from the Municipality of Kinoguitan, Province of Misamis Oriental, and constituted into a new municipality to be known as the Municipality of Sugbongcogon, with the seat of the municipal government at the present side of the barrio of Sugbongcogon.
 
 ## Section 2
 

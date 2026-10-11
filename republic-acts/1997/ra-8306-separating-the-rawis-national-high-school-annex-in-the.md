@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Rawis National High School Annex in Barangay Rawis in the Municipality of Bacon, Province of Sorsogon, is hereby separated from the Sorsogon National High School in the Municipality of Sorsogon, and converted into an independent national high school to be known as the Rawis National High School.1aшphi1
+The Rawis National High School Annex in Barangay Rawis in the Municipality of Bacon, Province of Sorsogon, is hereby separated from the Sorsogon National High School in the Municipality of Sorsogon, and converted into an independent national high school to be known as the Rawis National High School.
 
 ## Section 2
 

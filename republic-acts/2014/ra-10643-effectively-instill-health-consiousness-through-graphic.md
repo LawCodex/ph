@@ -172,7 +172,7 @@ Each day that noncompliant tobacco packages are found in the retail establishmen
 
 _Graphic Health Warnings Templates and Timeline._ – Thirty days (30) days after the effectivity of this Act, the DOH shall issue a maximum of twelve (12) templates of Graphic Health Warnings to be rotated, as well as guidelines with respect to the specific pictures, design, or content of the information relating to the Graphic Health Warnings, and other information that must appear in the tobacco product packages. The DOH shall consider the recommendations of leading nongovernment organizations (NGOs) that have established and proven records of dealing with tobacco-related diseases and deaths. All Graphic Health Warnings issued shall comply with the specifications above and must always present the devastating effects of tobacco use and exposure to tobacco smoke.
 
-Under Section 6, manufacturers are given a period of one (1) year from the issuance of the initial set of templates to comply therewith.1âwphi1 The initial set of templates is valid for two (2) years from implementation.
+Under Section 6, manufacturers are given a period of one (1) year from the issuance of the initial set of templates to comply therewith. The initial set of templates is valid for two (2) years from implementation.
 
 Within one (1) year from the effectivity of the initial set of templates, the DOH shall issue a new set of templates which will take effect upon expiration of the initial set. These new templates shall be valid for two (2) years and so on.
 

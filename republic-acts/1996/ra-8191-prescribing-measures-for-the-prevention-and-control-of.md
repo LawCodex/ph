@@ -91,7 +91,7 @@ _Implementation of the Plan._ – The DOH, through its Office of Public Health S
 
 ## Section 9
 
-_Comprehensive Report._ – The Commission shall submit to both Houses of Congress and the Secretary of Health, within one (1) year of its initial meeting, the National Diabetes Prevention and Control Plan specified in Section 7 hereof.1aшphi1 A report which describes the activities and expenditures of the Commission shall likewise be submitted.
+_Comprehensive Report._ – The Commission shall submit to both Houses of Congress and the Secretary of Health, within one (1) year of its initial meeting, the National Diabetes Prevention and Control Plan specified in Section 7 hereof. A report which describes the activities and expenditures of the Commission shall likewise be submitted.
 
 ## Section 10
 

@@ -31,6 +31,6 @@ Section one (B) of Republic Act Numbered Four thousand one hundred thirty-four i
 
 ## Section 2
 
-This Act shall take upon its approval.1avvphi1
+This Act shall take upon its approval.
 
 Approved: June 18, 1966.

@@ -198,7 +198,7 @@ _Administrative Investigation-Revocation or Suspension of Certificates:_ —Admi
 
 The Board may, after giving proper notice and hearing to the party concerned reprimand an erring medical technologist or revoke or suspend his certificate of registration for the causes mentioned in the next preceding section or for causes enumerated in section twenty-nine (29) of this Act, or for unprofessional conduct, malpractice, incompetency, or serious ignorance or gross negligence in the practice of medical technology.
 
-No penalty of revocation shall be imposed unless there is a unanimous vote of all the three members of the Board. The Board may, by majority vote, impose the penalty of reprimand or suspension, the latter however not to exceed two years.1a⍵⍴h!1
+No penalty of revocation shall be imposed unless there is a unanimous vote of all the three members of the Board. The Board may, by majority vote, impose the penalty of reprimand or suspension, the latter however not to exceed two years.
 
 When the penalty of suspension or revocation is imposed by the Board the medical technologist shall be required to surrender his certificate of registration within thirty days after the decision becomes final, under the pain of perpetual disqualification from the practice of medical technology in the Philippines for inexcusable failure to do so. The suspension shall run from the date of such surrender.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of San Benito, Bonglo, Nuevo Campo, San Juan, and Maribojoc, all in the Municipalities of Del Carmen and Sta. Monica, Province of Surigao del Norte, are separated from said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of San Benito. The seat of government of the new municipality shall be in the present site of the barrio of San Benito.1âшphi1
+The barrios of San Benito, Bonglo, Nuevo Campo, San Juan, and Maribojoc, all in the Municipalities of Del Carmen and Sta. Monica, Province of Surigao del Norte, are separated from said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of San Benito. The seat of government of the new municipality shall be in the present site of the barrio of San Benito.
 
 ## Section 2
 

@@ -41,6 +41,6 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

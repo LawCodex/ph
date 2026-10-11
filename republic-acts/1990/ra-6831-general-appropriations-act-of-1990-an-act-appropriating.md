@@ -403,7 +403,7 @@ The rules and regulations to implement this Section shall be issued jointly by t
 
 ## Section 44
 
-_Unauthorized Pre-Retirement Promotions and Salary Increases_.(awÞhi( No portion of the appropriations provided in this Act shall be used for automatic promotions or for salary increases and adjustments granted to retiring officials and employees, which are not authorized by law and duly formalized in a National Compensation Circular.
+_Unauthorized Pre-Retirement Promotions and Salary Increases_. No portion of the appropriations provided in this Act shall be used for automatic promotions or for salary increases and adjustments granted to retiring officials and employees, which are not authorized by law and duly formalized in a National Compensation Circular.
 
 The rules and regulations to implement this Section shall be issued jointly by the Civil Service Commission and the Department of Budget and Management.
 

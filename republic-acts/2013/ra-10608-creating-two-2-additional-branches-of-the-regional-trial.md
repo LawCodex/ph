@@ -39,7 +39,7 @@ The Supreme Court shall assign the respective branch numbers for the newly creat
 
 ## Section 3
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.1âwphi1
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
 
 ## Section 4
 

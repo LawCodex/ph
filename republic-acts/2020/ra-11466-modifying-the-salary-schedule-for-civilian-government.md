@@ -327,7 +327,7 @@ _Funding Sources._ \- The funding sources for the amounts necessary to implement
 
 (a) For NGAs, the amount needed for the salary adjustment in FY 2020 shall be charged against any available appropriations in FY 2020 General Appropriations Act and any other available and valid appropriations. Thererafter, such amounts as are needed shall be included in the annual General Appropriations Act.
 
-(b) For GOCCs, the amounts shall come from their respective corporate funds in the corporate operating budgets approved by the DBM.ℒαwρhi৷ GOCCs which do not have sufficient funds shall only partially implement the rates of compensation authorized herein: _Provided,_ That any partial implementation shall be at uniform proportion of such rates for all positions in each GOCC.
+(b) For GOCCs, the amounts shall come from their respective corporate funds in the corporate operating budgets approved by the DBM. GOCCs which do not have sufficient funds shall only partially implement the rates of compensation authorized herein: _Provided,_ That any partial implementation shall be at uniform proportion of such rates for all positions in each GOCC.
 
 (c) For LGUs, the amounts shall be charged against their respective local government funds in accordance with the pertinent provisions of this Act and Republic Act No. 7160.
 

@@ -138,7 +138,7 @@ If, for any reason, any provision of this Act is declared to be unconstitutional
 
 ## Section 8
 
-All laws, decrees, executive orders and other administrative issuances and parts thereof which are inconsistent with the provisions of this Act are hereby deemed repealed, amended or modified accordingly.1âwphi1
+All laws, decrees, executive orders and other administrative issuances and parts thereof which are inconsistent with the provisions of this Act are hereby deemed repealed, amended or modified accordingly.
 
 ## Section 9
 

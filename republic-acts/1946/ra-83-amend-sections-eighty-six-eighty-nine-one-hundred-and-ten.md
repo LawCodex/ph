@@ -106,7 +106,7 @@ Section one hundred and ten of Commonwealth Act Numbered Four hundred and sixty-
 
 "(d) When the donee or beneficiary is a relative by affinity within the same degree as those mentioned in subsections (a) and (b), with the exception of the spouse, there shall be collected the same tax fixed in subsection (a) with an increase of two hundred and twenty-five per centum.
 
-"(e) When the donee or beneficiary is a stranger, there shall be collected the same tax fixed in subsection (a) with an increase of four hundred per centum.1â#x0448;phi1
+"(e) When the donee or beneficiary is a stranger, there shall be collected the same tax fixed in subsection (a) with an increase of four hundred per centum.
 
 "For the purpose of this tax, strangers are deemed those relatives by consanguinity of the seventh or more remote degree in the collateral line, and all relatives by affinity not included in subsections (a) and (d): _Provided,_ However, That where the beneficiary is a domestic servant or a trusted employee, there shall be collected on the first two thousand pesos and five thousand pesos, respectively, the tax fixed in subsection (a) of this section and, on the excess, the tax prescribed in this subsection. In cases of property which by the desire of the donor should be divided among the poor, without the designation of any particular persons, or which should be disposed of for masses or other pious works, there shall be collected from the donee the tax at the rate fixed in this subsection upon the total aggregate amount of such gifts.
 

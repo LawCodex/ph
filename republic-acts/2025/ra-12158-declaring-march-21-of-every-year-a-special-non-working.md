@@ -29,7 +29,7 @@ March 21 of every year is hereby declared a special non-working holiday in the C
 
 ## Section 2
 
-_Repealing Clause._ \- Republic Act No. 8986 declaring March 21 as a working holiday in the City of Calapan is hereby repealed.ℒαwρhi৷
+_Repealing Clause._ \- Republic Act No. 8986 declaring March 21 as a working holiday in the City of Calapan is hereby repealed.
 
 ## Section 3
 

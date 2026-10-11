@@ -28,7 +28,7 @@ There is hereby established, under the supervision and control of the Director o
 
 ## Section 2
 
-The Director of Animal Industry shall organize the animal breeding station established under this Act and shall issue such orders, rules and regulations as may be necessary to carry out the purpose of this Act.1âшphi1
+The Director of Animal Industry shall organize the animal breeding station established under this Act and shall issue such orders, rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

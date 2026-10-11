@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution and to the terms and conditions imposed under this Act, there is hereby granted to the Asiatic Integrated Corporation, its successors or assigns, a one hundred percent Filipino corporation organized under, and by virtue of, the Corporation Law, hereinafter referred to as the grantee, a franchise for a period of twenty-five years, to construct, operate and maintain, in the Port of Mariveles, Province of Bataan, private piers and wharves for the use of vessels engaged in foreign or coastwise trade.1avvphi1 The plans, specifications and construction of any pier, wharf or wharves by the grantee hereunder shall be subject to the approval of the Department of Public Works and Communications.
+Subject to the provisions of the Constitution and to the terms and conditions imposed under this Act, there is hereby granted to the Asiatic Integrated Corporation, its successors or assigns, a one hundred percent Filipino corporation organized under, and by virtue of, the Corporation Law, hereinafter referred to as the grantee, a franchise for a period of twenty-five years, to construct, operate and maintain, in the Port of Mariveles, Province of Bataan, private piers and wharves for the use of vessels engaged in foreign or coastwise trade. The plans, specifications and construction of any pier, wharf or wharves by the grantee hereunder shall be subject to the approval of the Department of Public Works and Communications.
 
 ## Section 2
 

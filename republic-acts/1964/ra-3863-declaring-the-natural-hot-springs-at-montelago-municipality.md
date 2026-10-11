@@ -29,7 +29,7 @@ The natural hot springs at Montelago, Municipality of Naujan, Province of Orient
 
 ## Section 2
 
-The sum of six hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction of buildings, roads and other facilities including the construction of a wharf during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such sums as may be needed for its operation, maintenance and improvement shall be included in the annual General Appropriations Act.
+The sum of six hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction of buildings, roads and other facilities including the construction of a wharf during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation, maintenance and improvement shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The municipal districts of Borbon, Ebro, Novele, Cabawan, Rosario, Alegria, Cabanto and San Francisco in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of San Francisco, same province. The seat of government shall be located at the site of the present Municipal District of San Francisco.£a⩊phi£
+The municipal districts of Borbon, Ebro, Novele, Cabawan, Rosario, Alegria, Cabanto and San Francisco in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of San Francisco, same province. The seat of government shall be located at the site of the present Municipal District of San Francisco.
 
 ## Section 2
 

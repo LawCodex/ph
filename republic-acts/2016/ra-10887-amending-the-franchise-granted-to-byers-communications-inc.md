@@ -44,7 +44,7 @@ Republic Act No. 8107 is hereby amended to read as follows:
 
 "The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime after due process.
 
-"Sec. 6. _Term of Fanchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.1âwphi1
+"Sec. 6. _Term of Fanchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.
 
 "Sec. 7. _Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 

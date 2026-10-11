@@ -40,7 +40,7 @@ All personnel, assets, liabilities and records of the Dupax del Norte National H
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the newly converted national high school, now known as the Dupax del Norte National High School. The current year's appropriation of the mother school situated in Barangay Lamo, Municipality of Dupax del Norte, Province of Nueva Vizcaya shall be absorbed by and remain with the now renamed Lamo National High School. Thereafter, the amount necessary for the continued operation of both the Dupax del Norte National High School and the Lamo National High School shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Education shall immediately include in the Department's program the operationalization of the newly converted national high school, now known as the Dupax del Norte National High School. The current year's appropriation of the mother school situated in Barangay Lamo, Municipality of Dupax del Norte, Province of Nueva Vizcaya shall be absorbed by and remain with the now renamed Lamo National High School. Thereafter, the amount necessary for the continued operation of both the Dupax del Norte National High School and the Lamo National High School shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

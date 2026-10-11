@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby granted to Riverside Marketing Corporation, its successors or assigns, a permit to construct, establish, operate and maintain in such places in the Philippines where it operates or transacts its business or renders its services, subject to the approval of the Secretary of Public Works and Communications or any licensing authority, private fixed, point-to-point, land-based, and land-mobile or portable radio stations for the transmission and reception of wireless intelligence on radiotelegraph or radiotelephone, inclusive of but not limited to facsimile, radioteletype, nationally and internationally, each station to be provided with radio transmitting equipment and or receiving equipment as necessary.1âшphi1
+There is hereby granted to Riverside Marketing Corporation, its successors or assigns, a permit to construct, establish, operate and maintain in such places in the Philippines where it operates or transacts its business or renders its services, subject to the approval of the Secretary of Public Works and Communications or any licensing authority, private fixed, point-to-point, land-based, and land-mobile or portable radio stations for the transmission and reception of wireless intelligence on radiotelegraph or radiotelephone, inclusive of but not limited to facsimile, radioteletype, nationally and internationally, each station to be provided with radio transmitting equipment and or receiving equipment as necessary.
 
 ## Section 2
 

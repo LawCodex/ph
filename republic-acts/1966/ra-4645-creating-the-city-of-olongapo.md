@@ -861,7 +861,7 @@ _The Social Hygiene Clinic._ Upon the approval of this Act, the present social h
 
 _The Motor Vehicle Registrar._ The city shall have a motor vehicle registrar who shall take charge of the registration of motor vehicles within the city and such related activities connected therewith. In addition, he shall exercise and perform such powers and duties as provided by law or ordinance. He shall receive a salary in accordance with existing law which shall be borne by the National Government.
 
-The Commissioner of the Land Transportation Commission shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines.1awp++i1
+The Commissioner of the Land Transportation Commission shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines.
 
 ## ARTICLE XVII. Regulation of places of amusements, — sale of intoxicating liquors and powers over subdivisions — and dedication of streets, highways and other — ways in subdivisions.
 

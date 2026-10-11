@@ -29,7 +29,7 @@ The name of the Lubog Primary School in the Municipality of Sapian, Province of 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

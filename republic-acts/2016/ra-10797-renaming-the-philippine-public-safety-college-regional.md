@@ -34,7 +34,7 @@ The Philippine Public Safety College-Regional Training School 7 (PPSC-RTS 7) in 
 
 ## Section 2
 
-The Department of the Interior and Local Government shall issue the necessary rules, orders and circulars to implement the provision of this Act.ℒαwρhi৷
+The Department of the Interior and Local Government shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

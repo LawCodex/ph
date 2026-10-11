@@ -29,7 +29,7 @@ The Antique School of Arts and Trades, Municipality of Sibalom, Province of Anti
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby appropriated, in addition to its present annual appropriation, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act, during the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be needed for the same purpose shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby appropriated, in addition to its present annual appropriation, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act, during the fiscal year nineteen hundred sixty-nine. Thereafter, such sums as may be needed for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ The following barrios are hereby created in the Municipality of Dolores, Provinc
 
 (1) Barrio Libertad consisting of the sitios of Tanawan, Gape and Borac; and
 
-(2) Barrio San Isidro consisting of the sitios of Tangcop, Ojot, Japay, Deit and Maynipa.1aшphi1
+(2) Barrio San Isidro consisting of the sitios of Tangcop, Ojot, Japay, Deit and Maynipa.
 
 ## Section 2
 

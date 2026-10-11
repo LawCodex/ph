@@ -32,7 +32,7 @@ Subparagraph (d) of the first paragraph of Section nine of Commonwealth Act Numb
 
 ## Section 2
 
-The provisions of Republic Act Numbered One thousand three hundred and ninety-three and other laws, part of laws or rules and regulations inconsistent with the provisions of this Act are hereby repealed.1avvphi1
+The provisions of Republic Act Numbered One thousand three hundred and ninety-three and other laws, part of laws or rules and regulations inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

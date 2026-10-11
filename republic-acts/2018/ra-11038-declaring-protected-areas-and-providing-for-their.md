@@ -105,7 +105,7 @@ Section 4 of Republic Act No. 7586 is hereby amended to read as follows:
 
 "(bb) _Protected area_ refers to identified portions of land and/or water set aside by reason of their unique physical and biological diversity and protected against destructive human exploitation;
 
-"(cc) _Protected Area Occupants_ refers to persons who are residing, utilizing, and cultivating areas within the protected area.1âwphi1 These include private owners, IPs, tenured migrants and informal settlers;
+"(cc) _Protected Area Occupants_ refers to persons who are residing, utilizing, and cultivating areas within the protected area. These include private owners, IPs, tenured migrants and informal settlers;
 
 "(dd) _Protected Area Retained Income Account_ refers to the trust fund maintained by any protected area and administered by the respective Protected Area Management Boards (PAMB) created pursuant to this Act representing the seventy-five percent (75%) of revenues generated from the protected area to sipport its operation and management;
 
@@ -1072,7 +1072,7 @@ Section 21 of Republic Act No. 7586 is hereby amended to read as follows:
 
 "On the basis of a court order, the DENR shall cause the eviction of an offender from the protected area: _Provided,_ That in cases of emergency, the DENR Secretary may order the immediate exit or departure the offender from the protected area. The DENR Secretary may call on other enforcement agencies to assist in executing the order to vacate.
 
-"An emergency occurs when there is a demonstrated impending threat to human life and biodiversity or to species found within yje ecosystem of the protected area.1âwphi1
+"An emergency occurs when there is a demonstrated impending threat to human life and biodiversity or to species found within yje ecosystem of the protected area.
 
 "All minerals, timber or species collected or removed from the protected area, including all equipment, devices, conveyances, and firearms used in connection therewith, shall be forfeited in favor of the government, and any construction or improvement made thereon by the offender shall be subject to confiscation by the PAMO, subject to the application of due process.
 

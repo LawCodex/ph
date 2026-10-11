@@ -36,7 +36,7 @@ _Application of interested parties._ —Any land owner or planter interested in,
 
 ## Section 4
 
-_Processing of applications._ —The Secretary of public Works and Communications will process such applications, may require such changes in the plans, specifications and estimates as he shall deem due and proper and, if the proposal merits his approval pursuant to the provisions of this Act, shall advise the applicant of such approval. The applicant shall forthwith accomplish and submit to the Secretary, on forms duly prescribed for the purpose, the application for the loan, supporting such application with the required evidence of the availability of the applicants funds for such project equivalent to at least ten per centum of the approved estimated cost of the project.1a⍵⍴h!1
+_Processing of applications._ —The Secretary of public Works and Communications will process such applications, may require such changes in the plans, specifications and estimates as he shall deem due and proper and, if the proposal merits his approval pursuant to the provisions of this Act, shall advise the applicant of such approval. The applicant shall forthwith accomplish and submit to the Secretary, on forms duly prescribed for the purpose, the application for the loan, supporting such application with the required evidence of the availability of the applicants funds for such project equivalent to at least ten per centum of the approved estimated cost of the project.
 
 ## Section 5
 

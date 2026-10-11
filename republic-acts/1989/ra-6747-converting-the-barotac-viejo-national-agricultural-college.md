@@ -33,7 +33,7 @@ The Department of Education, Culture and Sports shall take the necessary steps f
 
 ## Section 3
 
-The funding requirement for the operation of the Northern Iloilo Polytechnic State College, Barotac Viejo Campus, shall be charged to the appropriations for the current fiscal year of the Barotac Viejo National Agricultural College. Thereafter, such amount as may be necessary for the implementation of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law.1a⍵⍴h!1
+The funding requirement for the operation of the Northern Iloilo Polytechnic State College, Barotac Viejo Campus, shall be charged to the appropriations for the current fiscal year of the Barotac Viejo National Agricultural College. Thereafter, such amount as may be necessary for the implementation of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law.
 
 ## Section 4
 

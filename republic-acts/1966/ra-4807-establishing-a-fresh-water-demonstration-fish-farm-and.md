@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established and maintained, under the supervision of the Commissioner of Fisheries, a fresh-water demonstration fish farm and nursery at Barrio Santo Domingo, Municipality of Bay, Province of Laguna.1avvphi1
+There shall be established and maintained, under the supervision of the Commissioner of Fisheries, a fresh-water demonstration fish farm and nursery at Barrio Santo Domingo, Municipality of Bay, Province of Laguna.
 
 ## Section 2
 

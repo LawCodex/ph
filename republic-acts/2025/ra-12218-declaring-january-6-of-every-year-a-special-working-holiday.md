@@ -33,7 +33,7 @@ This Act shall take effect after fifteen (15) days following the completion of i
 
 Approved,
 
-| (Sgd. ℒαwρhi৷ ) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (Sgd.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
+| (Sgd. ) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (Sgd.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
 |---|---|
 
 This Act, which originated in the House of Representatives, was passed by the House of Representatives on November 21, 2022, amended by the Senate of the Philippines on December 17, 2024, and which amendments were concurred in by the House of Representatives on January 28, 2025.

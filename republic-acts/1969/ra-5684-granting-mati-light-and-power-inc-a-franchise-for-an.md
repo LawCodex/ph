@@ -37,7 +37,7 @@ It is expressly provided that in the event the Government should desire to maint
 
 ## Section 4
 
-In consideration of this franchise the grantee shall pay a tax equivalent to five percent of its gross income.1a⍵⍴h!1
+In consideration of this franchise the grantee shall pay a tax equivalent to five percent of its gross income.
 
 ## Section 5
 

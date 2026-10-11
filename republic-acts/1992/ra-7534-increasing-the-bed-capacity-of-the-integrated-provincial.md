@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Integrated Provincial Health Office – Roxas Memorial General Hospital in Roxas City, Province of Capiz, is hereby increased from seventy-five to one hundred fifty beds under the supervision of the Department of Health.1âшphi1
+The bed capacity of the Integrated Provincial Health Office – Roxas Memorial General Hospital in Roxas City, Province of Capiz, is hereby increased from seventy-five to one hundred fifty beds under the supervision of the Department of Health.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, is changed to Datu Jaafar Central Elementary School.1âшphi1
+The name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, is changed to Datu Jaafar Central Elementary School.
 
 ## Section 2
 

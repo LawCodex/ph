@@ -299,7 +299,7 @@ Information disclosed shall not be used except for the specific purpose for whic
 
 PSA must ensure that the information in the PhilSys is used only in accordance with its intended purpose as set forth in this Act.
 
-Any information obtained as a result of unlawful disclosure under this Act shall be inadmissible in any judicial, quasi-judicial or administrative proceedings.1âwphi1
+Any information obtained as a result of unlawful disclosure under this Act shall be inadmissible in any judicial, quasi-judicial or administrative proceedings.
 
 Registered persons may request the PSA to provide access to his her registered information and record history subject to the guidelines and regulations to be issued by the PSA.
 
@@ -343,7 +343,7 @@ Officials, employees or agents who have the custody or responsibility of managin
 
 In all instances, if the violation was committed by government official or employee, the penalty shall include perpetual absolute disqualification from holding any public office or employment in the government, including any GOCCs, and their subsidiaries.
 
-The penalties imposed in this section shall be in addition to those imposed on acts or omissions punishable by existing penal and other laws.1âwphi1
+The penalties imposed in this section shall be in addition to those imposed on acts or omissions punishable by existing penal and other laws.
 
 ## Section 20
 

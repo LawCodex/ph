@@ -104,7 +104,7 @@ Each Shari'a Circuit Court shall be composed of nine (9) personnel, specifically
 
 ## Section 5
 
-The Chief Justice of the Supreme Court shall immediately include in the Court's program the operationalization of the newly created Shari'a Judicial Districts, Shari'a District Courts, and Shari'a Circuit Courts.ℒαwρhi৷
+The Chief Justice of the Supreme Court shall immediately include in the Court's program the operationalization of the newly created Shari'a Judicial Districts, Shari'a District Courts, and Shari'a Circuit Courts.
 
 ## Section 6
 

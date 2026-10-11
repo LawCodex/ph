@@ -36,7 +36,7 @@ The BaLicuatro College of Arts and Trades, which shall hereinafter referred to a
 
 ## Section 3
 
-The head of the College shall be known as the vocational school superintendent, who shall be appointed by the chairperson of the Technical Education and Skills Development Authority (TESDA).1aшphi1
+The head of the College shall be known as the vocational school superintendent, who shall be appointed by the chairperson of the Technical Education and Skills Development Authority (TESDA).
 
 ## Section 4
 

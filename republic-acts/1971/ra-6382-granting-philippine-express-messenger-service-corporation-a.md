@@ -36,7 +36,7 @@ This franchise is granted subject to amendment, alteration or repeal by the Cong
 
 ## Section 4
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five _per centum_ of the gross earnings under this franchise, three _per centum_ shall accrue to the national government and two _per centum_ to the municipality where the franchise is in operation.1âшphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five _per centum_ of the gross earnings under this franchise, three _per centum_ shall accrue to the national government and two _per centum_ to the municipality where the franchise is in operation.
 
 ## Section 5
 

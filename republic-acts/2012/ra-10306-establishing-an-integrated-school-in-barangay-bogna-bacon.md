@@ -34,7 +34,7 @@ There is hereby established an integrated school at Barangay Bogña, Bacon Distr
 
 ## Section 2
 
-The Department of Education shall issue the necessary rules and regulations as may be necessary to implement this Act.ℒαwρhi৷
+The Department of Education shall issue the necessary rules and regulations as may be necessary to implement this Act.
 
 ## Section 3
 

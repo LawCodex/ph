@@ -67,7 +67,7 @@ Sections 1, 2, 3, 5, 6, 9, 11, 12, 14, 16, 17, and 18 of Presidential Decree No.
 
 "Section 12-A. There shall be an Administrative Council of the College consisting of the President of the College, as Chairman, the vice-president(s), deans, directors and other officials of equal rank, whose duty is to implement the policies governing the administration, management and development planning of the College as approved by the Board.
 
-"**Section 14.** The body of instructors and professors of the College shall constitute the faculty of the College. The faculty of the College shall be appointed by the Board subject to the Civil Service Law. No religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the College: _Provided, however,_ That no member of the faculty shall teach for or against any particular church or religious sect.1âшphi1
+"**Section 14.** The body of instructors and professors of the College shall constitute the faculty of the College. The faculty of the College shall be appointed by the Board subject to the Civil Service Law. No religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the College: _Provided, however,_ That no member of the faculty shall teach for or against any particular church or religious sect.
 
 "Section 16-A. All accounts and expenses of the College shall be audited by the Commission on Audit or its duly authorized representative.
 

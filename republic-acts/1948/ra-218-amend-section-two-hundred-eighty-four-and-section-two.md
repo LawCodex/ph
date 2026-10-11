@@ -37,6 +37,6 @@ Section two hundred eighty-five-A of the Revised Administrative Code, as amended
 
 ## Section 3
 
-This Act shall take effect as of July first, nineteen hundred and forty-seven.1aшphi1
+This Act shall take effect as of July first, nineteen hundred and forty-seven.
 
 Approved: June 5, 1948.

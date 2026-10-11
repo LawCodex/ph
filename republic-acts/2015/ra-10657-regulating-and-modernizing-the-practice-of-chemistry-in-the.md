@@ -370,7 +370,7 @@ _Preparation of Seal of Registered Chemist._ – Within three (3) years from the
 
 _Grace Period. –_ There shall be a three (3)-year grace period for all individuals and institutions to comply with the provisions of this Act. The same grace period shall be enjoyed by those who, on the date of effectivity of this Act, are teaching professional chemistry subjects during which time they must fulfill the following requirements:
 
-(a) Completion of at least sixty (60) units of chemistry subjects in an undergraduate degree course which must include all of the professional chemistry subjects.1âwphi1 This may include chemistry subjects taken before or after the date of effectivity of this Act;
+(a) Completion of at least sixty (60) units of chemistry subjects in an undergraduate degree course which must include all of the professional chemistry subjects. This may include chemistry subjects taken before or after the date of effectivity of this Act;
 
 (b) Must have been already teaching these subjects satisfactorily for at least three (3) years on the date of effectivity of this Act;
 

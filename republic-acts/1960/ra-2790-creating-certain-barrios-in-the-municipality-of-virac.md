@@ -52,7 +52,7 @@ The following places in the Municipality of Virac, Province of Catanduanes, are 
 
 13\. San Isidro, Pajo, as Barrio San Isidro, Pajo; and
 
-14\. Valencia as Barrio Valencia.1âшphi1
+14\. Valencia as Barrio Valencia.
 
 ## Section 2
 

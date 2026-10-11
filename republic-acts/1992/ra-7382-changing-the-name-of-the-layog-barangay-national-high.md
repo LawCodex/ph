@@ -29,7 +29,7 @@ The name of the Layog Barangay National High School in Barangay Layog, Municipal
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

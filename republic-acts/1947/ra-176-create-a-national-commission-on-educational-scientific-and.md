@@ -74,7 +74,7 @@ The Cultural Committee shall undertake all work of the Commission relating to cu
 
 3\. To encourage and promote the creative arts, such as creative literature, literary criticism, music, theatre, dance, painting, sculpture, the graphic arts, photography, motion picture, architecture, decorative arts, industrial design, handicrafts, display lay-out and typography.
 
-4\. To foster cultural missions to and from the Philippines, and the dissemination of correct information about the Philippines and the Filipino people.1â#x0448;phi1
+4\. To foster cultural missions to and from the Philippines, and the dissemination of correct information about the Philippines and the Filipino people.
 
 ## Section 7
 

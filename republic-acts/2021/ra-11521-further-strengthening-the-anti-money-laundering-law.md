@@ -148,7 +148,7 @@ Section 10 of the same Act, is hereby further amended by inserting a new paragra
 
 "The freeze order shall be effective until the basis for its issuance shall have been lifted. During the effectivity of the freeze order, the aggrieved party may, within twenty (20) days from issuance, file with the Court of Appeals a petition to determine the basis of the freeze order according to the principle of effective judicial protection: _Provided,_ That the person whose property or funds have been frozen may withdraw such sums as the AMLC determines to be reasonably needed for monthly family needs and sustenance including the services of counsel and the family medical needs of such person.
 
-"The AMLC, if circumstance warrant, may initiate civil forfeiture proceedings to preserve the assets and to protect it from dissipation.ℒαwρhi৷ No court shall issue a temporary restraining order or a writ of injunction against the freeze order, except the Court of Appeals or the Supreme Court."
+"The AMLC, if circumstance warrant, may initiate civil forfeiture proceedings to preserve the assets and to protect it from dissipation. No court shall issue a temporary restraining order or a writ of injunction against the freeze order, except the Court of Appeals or the Supreme Court."
 
 ## Section 6
 

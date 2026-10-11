@@ -64,7 +64,7 @@ _Executive officer and secretary of the Board._ —The Commissioner of Civil Ser
 
 ### Section 7
 
-_Compensation of the Board members._ —The members of the Board shall each receive as compensation a fee not exceeding ten pesos per capita of the candidates examined.1a⍵⍴h!1
+_Compensation of the Board members._ —The members of the Board shall each receive as compensation a fee not exceeding ten pesos per capita of the candidates examined.
 
 ### Section 8
 

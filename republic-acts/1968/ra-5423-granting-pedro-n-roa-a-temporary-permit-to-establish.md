@@ -57,7 +57,7 @@ The grantee, his successors or assigns, shall hold the national, provincial, cit
 
 ## Section 9
 
-The grantee, his successors or assigns, shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1avvphi1
+The grantee, his successors or assigns, shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 10
 

@@ -31,6 +31,6 @@ Section two thousand and nineteen of the Revised Administrative Code, as amended
 
 ## Section 2
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: June 9, 1948.

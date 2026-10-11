@@ -38,7 +38,7 @@ The following sitios in the Municipality of Olutanga, Province of Zamboanga del 
 
 6\. Sitio Dao to be known as the barrio of Dayag; and
 
-7\. Sitio Cawilan Sur to be known as the barrio of Fama.1aшphi1
+7\. Sitio Cawilan Sur to be known as the barrio of Fama.
 
 ## Section 2
 

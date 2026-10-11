@@ -41,7 +41,7 @@ The opening clause of section five of Executive Order Numbered Three hundred nin
 
 Section eleven of Executive Order Numbered Three hundred ninety-three is hereby amended so as to include a new section to read as follows:
 
-"Section 11-A. The Treasurer of the Philippines shall be ex offlcio Treasurer of the College, and all accounts and expenses thereof shall be audited by the Auditor General or his duly authorized representatives, and all disbursements shall be made in accordance with rules and regulations prescribed by him."1a⍵⍴h!1
+"Section 11-A. The Treasurer of the Philippines shall be ex offlcio Treasurer of the College, and all accounts and expenses thereof shall be audited by the Auditor General or his duly authorized representatives, and all disbursements shall be made in accordance with rules and regulations prescribed by him."
 
 ## Section 4
 

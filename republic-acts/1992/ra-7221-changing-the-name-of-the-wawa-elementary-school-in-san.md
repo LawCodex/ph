@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Wawa Elementary School in San Agustin Village (formerly Sitio Wawa-Bukid) in Barangay Moonwalk, Municipality of Parañaque, Metro Manila, is hereby changed to San Agustin Elementary School.1âшphi1
+The name of the Wawa Elementary School in San Agustin Village (formerly Sitio Wawa-Bukid) in Barangay Moonwalk, Municipality of Parañaque, Metro Manila, is hereby changed to San Agustin Elementary School.
 
 ## Section 2
 

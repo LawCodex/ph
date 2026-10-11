@@ -33,7 +33,7 @@ The Secretary of Education shall promulgate such rules and regulations as may be
 
 ## Section 3
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said fishery school during the fiscal year nineteen hundred and sixty-three. Such sums as may be needed for the same purpose in subsequent years, shall be included in the annual General Appropriation Acts.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said fishery school during the fiscal year nineteen hundred and sixty-three. Such sums as may be needed for the same purpose in subsequent years, shall be included in the annual General Appropriation Acts.
 
 ## Section 4
 

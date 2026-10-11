@@ -32,7 +32,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section 2 of Republic Act No. 7272 is hereby amended to read as follows:
 
-"Section 2. The Medical Center shall serve as the principal hospital facility of Region IX.1âwphi1 It shall have an increase in the bed capacity from two hundred fifty (250) to five hundred (500). The increase in bed capacity shall be implemented for a period of not more than three (3) years from the approval of this Act."
+"Section 2. The Medical Center shall serve as the principal hospital facility of Region IX. It shall have an increase in the bed capacity from two hundred fifty (250) to five hundred (500). The increase in bed capacity shall be implemented for a period of not more than three (3) years from the approval of this Act."
 
 ## Section 2
 

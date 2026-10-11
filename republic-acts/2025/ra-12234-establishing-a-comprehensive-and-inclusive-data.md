@@ -385,7 +385,7 @@ _Expedited Processing._ \- In all instances where a DTIP requires a form, certif
 
 Processing fees and certifications required for the deployment of any segment of data transmission networks shall be limited to those identified by the DICT. The DICT shall coordinate with the concerned national government agencies and LGUs, and conduct the necessary consultations with civil society organizations and other stakeholder groups, for the formulation of policies and implementing rules to minimize the administrative burden of permitting and certification processes.
 
-In processing permits for the construction, installation, repair, operation, and maintenance of data transmission infrastructure, Executive Order No. 32, series of 2023 shall apply.ℒαwρhi৷
+In processing permits for the construction, installation, repair, operation, and maintenance of data transmission infrastructure, Executive Order No. 32, series of 2023 shall apply.
 
 ### Section 27
 
@@ -437,7 +437,7 @@ The JCOCOADT shall exist for a period not exceeding five (5) years from the effe
 
 ### Section 33
 
-_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.7!ᕼdMᗄ7
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ### Section 34
 

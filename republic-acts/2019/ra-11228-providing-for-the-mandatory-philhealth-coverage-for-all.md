@@ -43,7 +43,7 @@ _Monitoring and Evaluation._ \- The Department of Health (DOH), in coordination 
 
 ## Section 3
 
-_Implementing Rules and Regulations (IRR). 1âwphi1_ \- The PhilHealth, in consultation with the DOH, the DSWD, the DOLE, the NCDA, and the various national leagues of LGUs shall promulgate the IRR, within three (3) months upon the effectivity of this Act.
+_Implementing Rules and Regulations (IRR)._ \- The PhilHealth, in consultation with the DOH, the DSWD, the DOLE, the NCDA, and the various national leagues of LGUs shall promulgate the IRR, within three (3) months upon the effectivity of this Act.
 
 ## Section 4
 

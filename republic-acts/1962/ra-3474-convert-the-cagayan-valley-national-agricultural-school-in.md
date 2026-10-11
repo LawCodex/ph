@@ -39,7 +39,7 @@ The Cagayan Valley Agricultural College shall offer, in addition to the secondar
 
 ## Section 3
 
-The Cagayan Valley Agricultural College shall have a Superintendent of Agricultural Instruction and shall be under the Bureau of Public Schools.1âшphi1
+The Cagayan Valley Agricultural College shall have a Superintendent of Agricultural Instruction and shall be under the Bureau of Public Schools.
 
 ## Section 4
 
@@ -47,7 +47,7 @@ The Secretary of Education is hereby empowered to reorganize said school accordi
 
 ## Section 5
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of the said school, for the fiscal year nineteen hundred sixty-three.1âшphi1 Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Acts.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of the said school, for the fiscal year nineteen hundred sixty-three. Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Acts.
 
 ## Section 6
 

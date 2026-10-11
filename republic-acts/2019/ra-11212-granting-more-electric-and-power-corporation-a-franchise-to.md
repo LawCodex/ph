@@ -94,7 +94,7 @@ _Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) y
 
 _Renewal, Extension, or Revocation of Franchise._ \- The grantee shall apply for the renewal or extension of its franchise five (5) years before its expiration date which shall be reckoned fifteen (15) days after the publication of the franchise in the Official Gazette or in a newspaper of general circulation, whichever comes earlier.
 
-This franchise may be revoked by Congress when the public interest so requires or when the grantee fails to reasonably comply with regulatory standards.1âwphi1
+This franchise may be revoked by Congress when the public interest so requires or when the grantee fails to reasonably comply with regulatory standards.
 
 ## Section 13
 
@@ -132,7 +132,7 @@ An information dissemination campaign regarding public services and operations o
 
 The grantee and PECO shall jointly ensure that employees not hired by the grantee shall receive all separation and/or retirement benefits they are entitled to in accordance with applicable laws.
 
-The DOE shall, during the transition, ensure that there will be uninterrupted supply of electricity in the existing franchise area.1âwphi1
+The DOE shall, during the transition, ensure that there will be uninterrupted supply of electricity in the existing franchise area.
 
 ## Section 18
 

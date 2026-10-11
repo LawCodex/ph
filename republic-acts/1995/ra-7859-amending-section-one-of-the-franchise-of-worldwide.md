@@ -43,7 +43,7 @@ _Tax Provision._ \- Section Fourteen of Republic Act Numbered Five thousand thre
 
 ## Section 4
 
-_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.1aшphi1
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

@@ -29,7 +29,7 @@ _Short Title._ \- This Act shall be known and referred to as "The Loss and Damag
 
 ## Section 2
 
-_Declaration of Policy._ \- It is the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature.ℒαwρhi৷
+_Declaration of Policy._ \- It is the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature.
 
 As a party to the United National Framework Convention on Climate Change (UNFCCC) and the Paris Agreement, the State lauds the creation of a fund for responding to loss and damage (Fund) under the Decision 2/CMA.4 of the Conference of Parties serving as the meeting of Parties to the Paris Agreement (CMA) and during the 27th Conference of Parties (COP) to the UNFCC under Decision 2/CP.27 of the COP, and its operationalization during the 28th COP under COP Decision 1/CP.28 and CMA Decision 5/CMA.5. The State resolutely welcomes the Fund's establishment to finance and assist the most vulnerable developing countries response and recovery from losses and damages caused by climate change.
 

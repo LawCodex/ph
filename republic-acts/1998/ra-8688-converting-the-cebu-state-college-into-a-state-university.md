@@ -147,7 +147,7 @@ There shall be an administrative council of the University consisting of the pre
 
 ## Section 12
 
-There shall be an academic council with the president of the University as chairman and all the members of the instructional staff with the rank of not lower than assistant professors as members.Ꮮαwρhi৷
+There shall be an academic council with the president of the University as chairman and all the members of the instructional staff with the rank of not lower than assistant professors as members.
 
 The academic council shall have the power to prescribe the curricula and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission to the University as well as for graduation and the conferring of degrees, subject to the review of the Board. The council shall likewise have the power to recommend students to be recipients of degrees. Through the president of the University or his duly authorized representative, the council shall have disciplinary power over the students within the limits prescribed by the rules of discipline as approved by the Board.
 

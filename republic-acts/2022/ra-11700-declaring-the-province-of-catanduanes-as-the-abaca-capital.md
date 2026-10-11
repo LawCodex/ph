@@ -40,11 +40,11 @@ _Abaca Capital of the Philippines._ \- In recognition of its status as the count
 
 ## Section 3
 
-_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, rule or regulation inconsistent or contrary to the provisions of this Act is hereby repealed or modified accordingly.ℒαwρhi৷
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, rule or regulation inconsistent or contrary to the provisions of this Act is hereby repealed or modified accordingly.
 
 ## Section 4
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.ℒαwρhi৷
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 Approved,
 

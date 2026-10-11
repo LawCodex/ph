@@ -178,7 +178,7 @@ _Role of the Energy Regulatory Commission._ \- In addition to its functions unde
 
 (b) Promulgate uniform and streamlined rules and requirements for self-generating charging stations and centralized vehicle-to-grid facilities; and
 
-(c) Perform all other acts that are analogous to the foregoing, which are necessary and incidental to accomplish the policy objectives of this Act.ℒαwρhi৷
+(c) Perform all other acts that are analogous to the foregoing, which are necessary and incidental to accomplish the policy objectives of this Act.
 
 ### Section 9
 
@@ -358,7 +358,7 @@ The DTI, through the BOI, shall establish the application and selection process 
 
 The importation of completely built units of EVs shall be entitled to the incentives under Republic Act No. 10963, otherwise known as the "Tax Reform For Acceleration Inclusion (TRAIN)": _Provided,_ That in the case of imported electric jeepneys and electric tricycles, the Department of Finance, upon recommendation of the DTI, may suspend the exemption in order to protect local manufacturers.
 
-The importation of completely built units of charging stations shall be exempt from the payment of duties for eight (8) years from the effectivity of this Act.ℒαwρhi৷
+The importation of completely built units of charging stations shall be exempt from the payment of duties for eight (8) years from the effectivity of this Act.
 
 The importation of capital equipment and components used in the manufacture or assembly of EVs and construction or installation of charging stations shall undergo an evaluation process to determine their inclusion in the strategic investment priority plan and possible entitlement to the incentives and for the length of time as provided under the Omnibus Investments Code of 1987, as amended, _Title_ XIII of the National Internal Revenue Code of 1997, as amended, and other applicable laws.
 

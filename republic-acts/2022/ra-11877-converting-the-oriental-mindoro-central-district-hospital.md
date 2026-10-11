@@ -42,7 +42,7 @@ The existing professional health care services and facilities of the OMPH shall 
 
 ## Section 4
 
-The existing workforce of the OMPH, which includes doctors, nurses and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the OMPH, which includes doctors, nurses and support personnel, shall be increased correspondingly.
 
 ## Section 5
 

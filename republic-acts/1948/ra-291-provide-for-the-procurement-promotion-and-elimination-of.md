@@ -74,7 +74,7 @@ _Authorized numbers in grades below brigadier general—Promotion list—Seniori
 
 (6) The Dental Corps promotion list shall contain the names of all promotion list officers of the Dental Corps.
 
-(7) The Veterinary Corps promotion list shall contain the names of all promotion list officers of the Veterinary Corps.1aшphi1
+(7) The Veterinary Corps promotion list shall contain the names of all promotion list officers of the Veterinary Corps.
 
 (8) The Nurse Corps promotion list shall contain the names of all promotion list officers of the Nurse Corps.
 

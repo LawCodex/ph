@@ -117,7 +117,7 @@ Section 90 of the same Act is hereby amended to read as follows:
 
 "All positions in the Bank shall be governed by a compensation, position classification system and qualification standards approved by the Bank's Board of Directors based on a comprehensive job analysis and audit of actual duties and responsibilities. The compensation plan shall be comparable with the prevailing compensation plans in the private sector and shall be subject to periodic review by the Board no more than once every two (2) years without prejudice to yearly merit reviews or increases based on productivity and profitability. The Bank shall therefore be exempt from existing laws, rules and regulations on compensation, position classification and qualification standards. It shall however endeavor to make its system conform as closely as possible with the principles under Republic Act No. 6758
 
-"The Bank officers and employees, including all members of the Board, shall not engage directly or indirectly in partisan activities or take part in any election except to vote.1aшphi1
+"The Bank officers and employees, including all members of the Board, shall not engage directly or indirectly in partisan activities or take part in any election except to vote.
 
 "No officer or employee of the Bank subject to the Civil Service Law and Regulations shall be removed or suspended except for cause as provided by law."
 

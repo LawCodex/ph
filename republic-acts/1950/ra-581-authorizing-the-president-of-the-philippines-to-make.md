@@ -40,7 +40,7 @@ Republic Act Numbered Five hundred forty-one is hereby amended by inserting betw
 
 "(3) In loans to members of the Police and Fire Departments who are entitled to the benefits of this Act and other permanent City employees with sufficient securities: _Provided,_ That no loan shall be granted in excess of one month's salary payable within one year from the date the same is contracted.
 
-"(4) And, generally, in such other loans or securities as may be approved by the Insurance Commissioner.1a⍵⍴h!1 The board shall also have the power to receive donations, gifts, legacies or bequests of individuals, corporations, associations, or any and all kinds of organization."
+"(4) And, generally, in such other loans or securities as may be approved by the Insurance Commissioner. The board shall also have the power to receive donations, gifts, legacies or bequests of individuals, corporations, associations, or any and all kinds of organization."
 
 ## Section 2
 

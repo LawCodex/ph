@@ -40,7 +40,7 @@ The Chief of the Office of State Attorneys and the State Attorneys shall perform
 
 ## Section 3
 
-The Office of the State Attorneys shall be provided with such subordinate personnel as may be authorized by the appropriation law.1âшphi1
+The Office of the State Attorneys shall be provided with such subordinate personnel as may be authorized by the appropriation law.
 
 ## Section 4
 

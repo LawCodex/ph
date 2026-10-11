@@ -32,7 +32,7 @@ There shall be established a national high school in Barangay Olandang, Municipa
 
 ## Section 2
 
-the amount necessary for the implementation of this Act shall be included in the annual General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+the amount necessary for the implementation of this Act shall be included in the annual General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

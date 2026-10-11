@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Item nine, under Secondary Airports, paragraph a, Title H, of Section one, Republic Act Numbered Forty-eight hundred fifty-four, is amended to read as follows:
 
-"9. Bancasi Airport ---------------------P1,000,000.00"1âшphi1
+"9. Bancasi Airport ---------------------P1,000,000.00"
 
 ## Section 2
 

@@ -36,7 +36,7 @@ There shall be established, under the supervision of the Bureau of Fisheries and
 
 Prior to the establishment of the inland freshwater fish hatcheries, the BFAR-DA shall conduct a full-scale feasibility study in support of its construction to comply with the requirements of the Department of Budget and Management.
 
-Within two (2) years after the construction of the inland freshwater fish hatcheries, the BFAR-DA, through a memorandum of agreement, shall transfer its management to the local government of the City of Calbayog. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatcheries.ℒαwρhi৷
+Within two (2) years after the construction of the inland freshwater fish hatcheries, the BFAR-DA, through a memorandum of agreement, shall transfer its management to the local government of the City of Calbayog. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatcheries.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a general hospital in the Municipality of Paniqui, Province of Tarlac, which shall be known as Tarlac General Hospital. It shall have a bed capacity of one hundred fifty.1âшphi1
+There shall be established a general hospital in the Municipality of Paniqui, Province of Tarlac, which shall be known as Tarlac General Hospital. It shall have a bed capacity of one hundred fifty.
 
 ## Section 2
 

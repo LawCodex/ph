@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Mountain Province Comprehensive High School - Guinaang Annex located in Barangay Guinaang, Municipality of Bontoc, Mountain Province is hereby separated from the Mountain Province General Comprehensive High School located in the Municipality of Bontoc, Mountain Province and the same is converted into an independent national high school to be known as the Guinaang National High School.ℒαwρhi৷
+The Mountain Province Comprehensive High School - Guinaang Annex located in Barangay Guinaang, Municipality of Bontoc, Mountain Province is hereby separated from the Mountain Province General Comprehensive High School located in the Municipality of Bontoc, Mountain Province and the same is converted into an independent national high school to be known as the Guinaang National High School.
 
 ## Section 2
 

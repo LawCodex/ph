@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the Naguilian D
 
 ## Section 3
 
-The Provincial Government of La Union shall provide the necessary funds to support the increase in bed capacity of the Naguilian District Hospital and the corresponding upgrading of its facilities and services.Ꮮαwρhi৷
+The Provincial Government of La Union shall provide the necessary funds to support the increase in bed capacity of the Naguilian District Hospital and the corresponding upgrading of its facilities and services.
 
 ## Section 4
 

@@ -26,7 +26,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 Section one of Commonwealth Act Numbered Two Hundred eighty-seven is hereby amended to read as follows:
 
-"Sec. 1. The powers, duties and functions now vested in, or performed and exercise by, the Bureau of Commerce in connection with the registration of domestic corporations and all other forms of associations as well as the licensing of foreign corporations are transferred to the Securities and Exchange Commission.1âшphi1 The Securities and Exchange Commission shall be charged with the enforcement of all laws affecting such corporations and associations, and to this end, may conduct such investigations as it may consider necessary: _Provided,_ That the power herein conferred shall in no manner affect the power now exercised by government bureaus or offices over certain classes of corporations. In the exercise of the power of investigation, the provisions of section thirty-one of Commonwealth Act Numbered Eighty-three, creating the Securities and Exchange Commission, including the penalties therein provided, shall be applicable."
+"Sec. 1. The powers, duties and functions now vested in, or performed and exercise by, the Bureau of Commerce in connection with the registration of domestic corporations and all other forms of associations as well as the licensing of foreign corporations are transferred to the Securities and Exchange Commission. The Securities and Exchange Commission shall be charged with the enforcement of all laws affecting such corporations and associations, and to this end, may conduct such investigations as it may consider necessary: _Provided,_ That the power herein conferred shall in no manner affect the power now exercised by government bureaus or offices over certain classes of corporations. In the exercise of the power of investigation, the provisions of section thirty-one of Commonwealth Act Numbered Eighty-three, creating the Securities and Exchange Commission, including the penalties therein provided, shall be applicable."
 
 ## Section 2
 
@@ -36,7 +36,7 @@ Section two of Commonwealth Act Numbered Two hundred eighty-seven is hereby amen
 
 ## Section 3
 
-All laws or parts of any law in conflict with this Act are hereby repealed.£a⩊phi£
+All laws or parts of any law in conflict with this Act are hereby repealed.
 
 ## Section 4
 

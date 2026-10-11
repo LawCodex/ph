@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the supervision and administration of the Director of Vocational Education, a school of fisheries in Barrio Raois, Municipal of Santo Tomas, Province of La Union, to be known as the Santo Tomas School of Fisheries.1âшphi1 The Director of Vocational Education shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purposes of this Act. Said Director shall also acquire the necessary site for the school.
+There shall be established, under the supervision and administration of the Director of Vocational Education, a school of fisheries in Barrio Raois, Municipal of Santo Tomas, Province of La Union, to be known as the Santo Tomas School of Fisheries. The Director of Vocational Education shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purposes of this Act. Said Director shall also acquire the necessary site for the school.
 
 ## Section 2
 

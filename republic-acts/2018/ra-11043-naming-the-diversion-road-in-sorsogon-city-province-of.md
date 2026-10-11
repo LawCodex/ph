@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The diversion road in Sorsogon City, Province of Sorsogon shall hereinafter be known as Salvador H. Escudero III Diversion Road.1âwphi1
+The diversion road in Sorsogon City, Province of Sorsogon shall hereinafter be known as Salvador H. Escudero III Diversion Road.
 
 ## Section 2
 

@@ -99,6 +99,6 @@ IV.- SUMMARY
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 13, 1958.

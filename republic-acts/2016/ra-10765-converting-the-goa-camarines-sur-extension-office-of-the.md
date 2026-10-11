@@ -38,7 +38,7 @@ The Secretary of the Department of Transportation and Communications shall inclu
 
 ## SECTION 3
 
-This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
 
 Approved,
 

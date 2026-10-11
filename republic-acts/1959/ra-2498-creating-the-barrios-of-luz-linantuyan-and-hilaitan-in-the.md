@@ -30,7 +30,7 @@ The following barrios are hereby created in the Municipality of Guihulungan, Pro
 
 2\. Barrio Linantuyan, consisting of the sitios of Magbala-as (small), Aya (small), Magkilignit, Taloto, Hinoba-an (large), Gusa (small), Alamag and Salong; and
 
-3\. Barrio Hilaitan, consisting of the sitios of Marilao, Ilaya, Kambulongnon, Busay, Danao, Manhantik, Tinagducan, Katawan, Mambug, Panlubiran and Himaya.1awp++i1
+3\. Barrio Hilaitan, consisting of the sitios of Marilao, Ilaya, Kambulongnon, Busay, Danao, Manhantik, Tinagducan, Katawan, Mambug, Panlubiran and Himaya.
 
 ## Section 2
 

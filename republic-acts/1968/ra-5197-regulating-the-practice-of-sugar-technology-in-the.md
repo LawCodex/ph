@@ -119,7 +119,7 @@ Qualification for examination.— Any person applying for examination and for a 
 
 (b) He is of good reputation and moral character; and
 
-(c) He has graduated in sugar technology from a school, college or university recognized by the Government after completing a resident collegiate course leading to the degree of Bachelor of Science in Sugar Technology of not less than five years, or its equivalent baccalaureate degree.1avvphi1 Three years of practical experience in sugar technology may be considered as sufficient equivalent for every year of college education which experience must be acquired before the application for examination.
+(c) He has graduated in sugar technology from a school, college or university recognized by the Government after completing a resident collegiate course leading to the degree of Bachelor of Science in Sugar Technology of not less than five years, or its equivalent baccalaureate degree. Three years of practical experience in sugar technology may be considered as sufficient equivalent for every year of college education which experience must be acquired before the application for examination.
 
 (d) Applicants below twenty-one years of age may be allowed to take the examination, but the certificate of registration shall be withheld until the candidate has reached the age of twenty-one years.
 

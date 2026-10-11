@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Napayong Island, located in Taal Lake, Province of Batangas, is hereby changed to Laurel Island.1a⍵⍴h!1
+The name of Napayong Island, located in Taal Lake, Province of Batangas, is hereby changed to Laurel Island.
 
 ## Section 2
 

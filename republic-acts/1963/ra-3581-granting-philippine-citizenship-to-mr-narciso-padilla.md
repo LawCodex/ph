@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Mr. Narciso Padilla is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.1âшphi1
+Mr. Narciso Padilla is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.
 
 ## Section 2
 

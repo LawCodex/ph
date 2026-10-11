@@ -88,7 +88,7 @@ _Powers and Responsibilities of the Board of Directors._ — The board of direct
 
 (f) Issue rules and regulations to carry out the objectives of this Act; and
 
-(g) Perform such other duties and functions as may be provided by law.1âшphi1
+(g) Perform such other duties and functions as may be provided by law.
 
 ## Section 7
 

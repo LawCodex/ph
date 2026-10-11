@@ -28,6 +28,6 @@ The rotonda on Quezon Boulevard Extension and Epifanio de los Santos Avenue in Q
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

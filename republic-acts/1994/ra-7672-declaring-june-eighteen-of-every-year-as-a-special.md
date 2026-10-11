@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Province of Benguet was created by virtue of Republic Act No. 4695 which was enacted into law on June 18, 1966.1a⍵⍴h!1
+The Province of Benguet was created by virtue of Republic Act No. 4695 which was enacted into law on June 18, 1966.
 
 ## Section 2
 

@@ -31,7 +31,7 @@ The Nambaran National High School in the Municipality of Tabuk, Province of Kali
 
 ## Section 2
 
-The School, shall, in addition to its present secondary curricula, offer agricultural, technical and other vocational subjects.ℒαwρhi৷
+The School, shall, in addition to its present secondary curricula, offer agricultural, technical and other vocational subjects.
 
 ## Section 3
 

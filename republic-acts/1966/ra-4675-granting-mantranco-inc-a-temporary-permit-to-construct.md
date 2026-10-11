@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to Mantranco, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at such places as the said grantee may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or any competent authority who is or shall be authorized to give approval, such private fixed point-to-point and land-based and land mobile radio stations for the reception and transmission of wireless messages on radiotelephone or radiotelegraph, each station to consist of two apparatus comprising of a receiving and sending radio apparatus.1avvphi1
+There is hereby granted to Mantranco, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at such places as the said grantee may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or any competent authority who is or shall be authorized to give approval, such private fixed point-to-point and land-based and land mobile radio stations for the reception and transmission of wireless messages on radiotelephone or radiotelegraph, each station to consist of two apparatus comprising of a receiving and sending radio apparatus.
 
 ## Section 2
 

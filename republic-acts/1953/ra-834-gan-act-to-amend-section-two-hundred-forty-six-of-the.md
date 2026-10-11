@@ -30,4 +30,4 @@ Section two hundred forty-six, of Commonwealth Act Numbered Four hundred and six
 
 This Act shall take effect upon its approval.
 
-Approved: March 6, 19531awphil@alf
+Approved: March 6, 1953

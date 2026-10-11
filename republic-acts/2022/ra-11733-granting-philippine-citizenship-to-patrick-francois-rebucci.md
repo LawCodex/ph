@@ -38,11 +38,11 @@ Mr.Renucci shall take the Oath of Allegiance to the Republic of the Philippines 
 
 ## Section 3
 
-Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr.Renucci who shall thereupon enter into the full enjoynment of Philippine citizenship.ℒαwρhi৷
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr.Renucci who shall thereupon enter into the full enjoynment of Philippine citizenship.
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in the newspaper of general circulation.1aшphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in the newspaper of general circulation.
 
 Approved,
 

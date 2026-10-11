@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-the Maguindanao National High School Annex in the Municipality of Datu Piang, Province of Maguindanao, is hereby separated from the Maguindanao National High School, located in the Municipality of Maganoy, and converted into an independent national high school to be known as the Datu Piang National High School.1aшphi1
+the Maguindanao National High School Annex in the Municipality of Datu Piang, Province of Maguindanao, is hereby separated from the Maguindanao National High School, located in the Municipality of Maganoy, and converted into an independent national high school to be known as the Datu Piang National High School.
 
 ## Section 2
 

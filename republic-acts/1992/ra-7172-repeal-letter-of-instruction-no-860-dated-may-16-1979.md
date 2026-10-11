@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Letter of Instruction No. 860 dated May 16, 1979 directing the Minister of Education and Culture to take over the management, control and operation of the Philippine Public School Teachers Association is hereby repealed.1âшphi1
+Letter of Instruction No. 860 dated May 16, 1979 directing the Minister of Education and Culture to take over the management, control and operation of the Philippine Public School Teachers Association is hereby repealed.
 
 ## Section 2
 

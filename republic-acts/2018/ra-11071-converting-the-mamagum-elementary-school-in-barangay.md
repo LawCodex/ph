@@ -33,7 +33,7 @@ The Mamagum Elementary School in Barangay Mamagum, Municipality of Sultan Naga D
 
 ## Section 2
 
-All personnel, assets, liabihties, and records of the Mamagum Elementary School are hereby transferred to and absorbed by the Mamagum Integrated School.1âwphi1
+All personnel, assets, liabihties, and records of the Mamagum Elementary School are hereby transferred to and absorbed by the Mamagum Integrated School.
 
 ## Section 3
 

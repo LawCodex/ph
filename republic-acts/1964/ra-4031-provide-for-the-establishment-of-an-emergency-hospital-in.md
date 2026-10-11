@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Health, an emergency hospital in the Municipal District of Barlig, Bontoc, Mountain Province, to be known as Eastern Bontoc Emergency Hospital.(awÞhi(
+There shall be established, under the direct supervision of the Department of Health, an emergency hospital in the Municipal District of Barlig, Bontoc, Mountain Province, to be known as Eastern Bontoc Emergency Hospital.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Eastern Samar Provincial Hospital in the Municipality of Borongan, Province of Eastern Samar, is hereby increased from one hundred (100) to one hundred fifty (150) beds.1âшphi1
+The bed capacity of the Eastern Samar Provincial Hospital in the Municipality of Borongan, Province of Eastern Samar, is hereby increased from one hundred (100) to one hundred fifty (150) beds.
 
 ## Section 2
 

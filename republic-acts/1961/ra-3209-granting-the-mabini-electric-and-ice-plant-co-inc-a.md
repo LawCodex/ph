@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the Mabini Electric and Ice Plant Co., Inc., for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the Municipality of Mabini, Province of Davao.1âшphi1
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the Mabini Electric and Ice Plant Co., Inc., for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the Municipality of Mabini, Province of Davao.
 
 ## Section 2
 

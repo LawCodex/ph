@@ -57,7 +57,7 @@ Paragraphs (b) (1) and (c) of section three of Republic Act Numbered Two hundred
 
 "(8) The Medical Administrative Corps promotion list shall contain the names of all promotion list officers of the Medical Administrative Corps.
 
-"(9) The Nurse Corps promotion list shall contain the names of all promotion list officers of the Nurse corps.1âшphi1
+"(9) The Nurse Corps promotion list shall contain the names of all promotion list officers of the Nurse corps.
 
 "(10) The Chaplain Service promotion list shall contain the names of all promotion list officers of the Chaplain Service."
 

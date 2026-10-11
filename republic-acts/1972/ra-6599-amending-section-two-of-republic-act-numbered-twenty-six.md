@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section two of Republic Act Numbered twenty-six hundred fifty-nine is hereby amended to read as follows:
 
-"**Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred fifty thousand pesos for the construction of the Palompon General Hospital and for its operation and maintenance: Provided: That this hospital shall have at least seventy-five beds."1âшphi1
+"**Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred fifty thousand pesos for the construction of the Palompon General Hospital and for its operation and maintenance: Provided: That this hospital shall have at least seventy-five beds."
 
 ## Section 2
 

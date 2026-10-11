@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The authorized bed capacity of the Sta. Maria General Hospital in the Municipality of Sta. Maria, Province of Bulacan, is hereby increased to fifty beds.1avvphi1 The additional sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act during the fiscal year nineteen hundred sixty-nine. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriations Act.
+The authorized bed capacity of the Sta. Maria General Hospital in the Municipality of Sta. Maria, Province of Bulacan, is hereby increased to fifty beds. The additional sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act during the fiscal year nineteen hundred sixty-nine. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 2
 

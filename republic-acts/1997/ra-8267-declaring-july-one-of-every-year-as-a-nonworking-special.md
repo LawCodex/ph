@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The City of Tagbilaran was chartered as a city on July 1, 1966 by virtue of Republic Act No. 4660. Thereafter, it was recognized as a component city of the Province of Bohol.1aшphi1
+The City of Tagbilaran was chartered as a city on July 1, 1966 by virtue of Republic Act No. 4660. Thereafter, it was recognized as a component city of the Province of Bohol.
 
 ## Section 2
 

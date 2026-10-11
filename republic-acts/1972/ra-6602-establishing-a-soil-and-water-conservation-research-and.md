@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a soil and water conservation research and demonstration center in the Municipality of Naujan, Province of Oriental Mindoro. The said center shall be under the supervision of the Director of Soils and shall be subject to the provisions of Republic Act Numbered Six hundred sixty-two, as amended.1âшphi1
+There shall be established a soil and water conservation research and demonstration center in the Municipality of Naujan, Province of Oriental Mindoro. The said center shall be under the supervision of the Director of Soils and shall be subject to the provisions of Republic Act Numbered Six hundred sixty-two, as amended.
 
 ## Section 2
 

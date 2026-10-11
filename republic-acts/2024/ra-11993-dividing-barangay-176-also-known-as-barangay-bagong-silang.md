@@ -952,7 +952,7 @@ _Appointment of Interim Barangay Officials._ \- There shall be a Punong Barangay
 
 ## Section 5
 
-_Incumbent Barangay Officials._ -The incumbent barangay officials of Barangay 176 in the City of Caloocan shall continue to hold office until such time that the officials of the newly created barangays have been duly appointed.1aшphi1
+_Incumbent Barangay Officials._ -The incumbent barangay officials of Barangay 176 in the City of Caloocan shall continue to hold office until such time that the officials of the newly created barangays have been duly appointed.
 
 ## Section 6
 

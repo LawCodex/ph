@@ -44,7 +44,7 @@ The grantee shall so construct and operate its radio stations as not to interfer
 
 ## Section 6
 
-The grantee is authorized to operate its private radio stations on the frequency and/or frequencies assigned to it by the Secretary of Public Works and Communications.1âшphi1
+The grantee is authorized to operate its private radio stations on the frequency and/or frequencies assigned to it by the Secretary of Public Works and Communications.
 
 ## Section 7
 

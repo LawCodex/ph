@@ -34,7 +34,7 @@ The Faith Academy, operated by the Faith Academy, Inc., herein referred to as th
 
 ## Section 2
 
-The Academy, established by religious groups and missions boards, shall be governed by a Board of Trustees, herein referred to as the " Board", and elected in accordance with its corporate charter.1âwphi1
+The Academy, established by religious groups and missions boards, shall be governed by a Board of Trustees, herein referred to as the " Board", and elected in accordance with its corporate charter.
 
 The Academy, having been established primarily for foreign missionary personnel and their dependents and for other temporary residents, shall be covered by the exemption provided in Section 4 (2), Article XIV of the Philippine Constitution.
 

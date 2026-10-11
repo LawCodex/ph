@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in the City of Naga,
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the Class "A" LTO District Office in the City of Naga, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the Class "A" LTO District Office in the City of Naga, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

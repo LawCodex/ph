@@ -36,6 +36,6 @@ The sum of one hundred thousand pesos is authorized to be appropriated, out of a
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

@@ -36,7 +36,7 @@ No student shall be denied admission to the Colleges by reason of age, sex, nati
 
 ## Section 4
 
-The head of this institution shall be known as the President of the Catanduanes State Colleges. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees. The powers and duties of the President of the Colleges in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the President of a college.1âшphi1
+The head of this institution shall be known as the President of the Catanduanes State Colleges. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees. The powers and duties of the President of the Colleges in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the President of a college.
 
 ## Section 5
 

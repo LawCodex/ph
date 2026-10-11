@@ -89,7 +89,7 @@ _Application for Registration and Issuance of License.—_ Application for regis
 
 ## Section 10
 
-_Inspection.—_ Permit to construct a hospital or a major portion thereof and license to operate and maintain the same shall be issued by the licensing agency only after a representative of the licensing agency has conducted an ocular inspection and certified that the applicant has satisfactorily complied with requisites prescribed in this Act.1âшphi1 The license to operate and maintain a hospital shall be renewed every year upon payment of the prescribed fees.
+_Inspection.—_ Permit to construct a hospital or a major portion thereof and license to operate and maintain the same shall be issued by the licensing agency only after a representative of the licensing agency has conducted an ocular inspection and certified that the applicant has satisfactorily complied with requisites prescribed in this Act. The license to operate and maintain a hospital shall be renewed every year upon payment of the prescribed fees.
 
 ## Section 11
 

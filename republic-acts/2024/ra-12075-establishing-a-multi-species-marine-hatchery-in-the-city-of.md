@@ -42,7 +42,7 @@ The DA-BFAR shall conduct continuing research and experimentation on the breedin
 
 ## Section 4
 
-Secretary of Agriculture shall include in the Department's programs the conduct of the feasibility study and the consequent establishment of a multi-species hatchery in the City of Zamboanga, the funding of which shall be included in the General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.ℒαwρhi৷
+Secretary of Agriculture shall include in the Department's programs the conduct of the feasibility study and the consequent establishment of a multi-species hatchery in the City of Zamboanga, the funding of which shall be included in the General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
 
 ## Section 5
 

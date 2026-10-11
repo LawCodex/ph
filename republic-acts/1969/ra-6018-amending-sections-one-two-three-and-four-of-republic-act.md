@@ -78,7 +78,7 @@ Sections one, two, three and four of Republic Act Numbered Four thousand four ar
 
 Such sums as may be necessary to carry out the provision of this Act are hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated.
 
-Henceforth, the appropriation to cover salaries and other expenses of the Board as herein provided shall be carried in the annual General Appropriations Act.1a⍵⍴h!1
+Henceforth, the appropriation to cover salaries and other expenses of the Board as herein provided shall be carried in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Dumolok, Alegria, Cawas, Alabel, Bagakay, Pag-asa, Tocawal and Maribulan, in the City of General Santos, are separated from said city, and constituted into a distinct and independent municipality, to be known as the Municipality of Alabel, South Cotabato. The seat of government of the new municipality shall be in the present site of Barrio Alabel.1âшphi1
+The barrios of Dumolok, Alegria, Cawas, Alabel, Bagakay, Pag-asa, Tocawal and Maribulan, in the City of General Santos, are separated from said city, and constituted into a distinct and independent municipality, to be known as the Municipality of Alabel, South Cotabato. The seat of government of the new municipality shall be in the present site of Barrio Alabel.
 
 The boundary between the Municipality of Alabel and the City of General Santos shall be the Buayan River.
 

@@ -41,7 +41,7 @@ The Grantee shall have the right at its terminal and landing fields, as well as 
 
 _Authority of the Civil Aeronautics Board and Civil Aviation Authority of the Philippines._ – The Grantee shall secure from the Civil Aeronautics Board (CAB) and from the Civil Aviation Authority of the Philippines (CAAP) the appropriate certificates, permits, and licenses for its operations.
 
-All aircraft used by the Grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the Government of the Philippines.ℒαwρhi৷ They shall be equipped with radio communications, safety and other equipment, and shall be operated and maintained in accordance with the regulations and technical requirements of the CAAP or such other regulatory bodies the government may prescribe for this purpose.
+All aircraft used by the Grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the Government of the Philippines. They shall be equipped with radio communications, safety and other equipment, and shall be operated and maintained in accordance with the regulations and technical requirements of the CAAP or such other regulatory bodies the government may prescribe for this purpose.
 
 The Grantee's equipment and the operation of such equipment shall at all times be subject to inspection and regulation by the CAAP. The Grantee shall comply with the provisions of Republic Act No. 776, otherwise known as “The Civil Aeronautics Act of the Philippines”, and the regulations promulgated thereunder from time to time.
 
@@ -93,7 +93,7 @@ _Reportorial Requirement._ – The Grantee shall submit an annual report on its 
 
 The annual report shall include an update on the commencement of activities, development, operation and expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the CAB and CAAP on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the CAB and CAAP.ᇈWᑭHIL
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the CAB and CAAP.
 
 ## Section 14
 

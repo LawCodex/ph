@@ -29,7 +29,7 @@ A temporary permit is hereby granted to the Cebu Portland Cement Company, as lon
 
 ## Section 2
 
-This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the holder of the temporary permit herein granted shall start the operation thereof within one and a half years from the approval of said temporary permit. Failure to comply with this requirement shall ipso facto cancel and void this temporary permit.1a⍵⍴h!1
+This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the holder of the temporary permit herein granted shall start the operation thereof within one and a half years from the approval of said temporary permit. Failure to comply with this requirement shall ipso facto cancel and void this temporary permit.
 
 ## Section 3
 

@@ -219,7 +219,7 @@ _Procurement of Specialized Materials, Equipment, and Services._ \- The VIP shal
 
 _Official Site of the VIP._ \- A lot with an area equivalent to at least five (5) hectares under the administration of the Bases Conversion and Development Authority (BCDA) within the New Clark Economic Zone in the Province of Tarlac shall be allocated exclusively for the VIP, its research facilities, and laboratories. The biosafety infrastructure shall be designed based on risk assessment standards and guidelines of the WHO and the WOAH for handling specific pathogens and the establishment of virology laboratories in developing countries.
 
-To safeguard the well-being and security of the human, plant, and animal populations within the VIP facilities area, the VIP shall coordinate with the Department of National Defense (DND) regarding the establishment and security of the said facilities.ℒαwρhi৷
+To safeguard the well-being and security of the human, plant, and animal populations within the VIP facilities area, the VIP shall coordinate with the Department of National Defense (DND) regarding the establishment and security of the said facilities.
 
 ## Section 20
 

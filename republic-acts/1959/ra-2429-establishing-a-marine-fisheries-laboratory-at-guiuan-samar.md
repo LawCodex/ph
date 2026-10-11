@@ -24,11 +24,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established and maintained under the supervision of the Director of Fisheries a marine fisheries laboratory in the Municipality of Guiuan, Province of Samar.1aшphi1
+There shall be established and maintained under the supervision of the Director of Fisheries a marine fisheries laboratory in the Municipality of Guiuan, Province of Samar.
 
 ## Section 2
 
-The sum of three hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and fifty-nine. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.1aшphi1
+The sum of three hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and fifty-nine. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.
 
 ## Section 3
 

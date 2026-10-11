@@ -31,7 +31,7 @@ Upon organization of the Polangui General Comprehensive High School, the assets,
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

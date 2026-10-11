@@ -64,7 +64,7 @@ The sum of five million five hundred thousand pesos or so much thereof as may be
 
 ## Section 5
 
-Any and all references in the National Internal Revenue Code to the provincial and city treasurers and their deputies, their functions and duties in connection with internal revenue shall from the approval of this Act be deemed to refer to the collection agents of the Bureau of Internal Revenue.1a⍵⍴h!1
+Any and all references in the National Internal Revenue Code to the provincial and city treasurers and their deputies, their functions and duties in connection with internal revenue shall from the approval of this Act be deemed to refer to the collection agents of the Bureau of Internal Revenue.
 
 ## Section 6
 

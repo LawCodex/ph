@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Kalamansig Municipal Hospital in the Municipality of Kalamansig, Province of Sultan Kudarat, is hereby expanded and upgraded from a ten-bed capacity municipal hospital into a twenty-five-bed capacity district hospital, to be known as the Kalamansig District Hospital.1âшphi1
+The Kalamansig Municipal Hospital in the Municipality of Kalamansig, Province of Sultan Kudarat, is hereby expanded and upgraded from a ten-bed capacity municipal hospital into a twenty-five-bed capacity district hospital, to be known as the Kalamansig District Hospital.
 
 ## Section 2
 

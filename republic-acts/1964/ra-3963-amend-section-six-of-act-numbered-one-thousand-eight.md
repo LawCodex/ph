@@ -32,6 +32,6 @@ Section six of Act Numbered One thousand eight hundred and seventy, as amended, 
 
 ## Section 2
 
-This Act shall take effect upon its approval.(awÞhi(
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

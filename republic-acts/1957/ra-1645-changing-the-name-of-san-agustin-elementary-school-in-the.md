@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of San Agustin Elementary School in the barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, is changed to Don Felix de Leon Memorial School.1âшphi1
+The name of San Agustin Elementary School in the barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, is changed to Don Felix de Leon Memorial School.
 
 ## Section 2
 

@@ -6099,7 +6099,7 @@ He shall be liable for all the fruits and rents he may have received, or could h
 
 ###### Article 1039
 
-Capacity to succeed is governed by the law of the nation of the decedent.⌊aшΡhi⌊ (n)
+Capacity to succeed is governed by the law of the nation of the decedent. (n)
 
 ###### Article 1040
 
@@ -12605,7 +12605,7 @@ The management is extinguished:
 
 (2) When the officious manager withdraws from the management, subject to the provisions of article 2144;
 
-(3) By the death, civil interdiction, insanity or insolvency of the owner or the officious manager.1a⍵⍴h!1 (n)
+(3) By the death, civil interdiction, insanity or insolvency of the owner or the officious manager. (n)
 
 ##### SECTION 2 — Solutio Indebiti
 

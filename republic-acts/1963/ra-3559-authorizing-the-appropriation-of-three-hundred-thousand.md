@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds of the National Treasury, for the construction of a post office building in the City of Cagayan de Oro.1âшphi1
+The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds of the National Treasury, for the construction of a post office building in the City of Cagayan de Oro.
 
 ## Section 2
 

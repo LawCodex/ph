@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby granted to Luna Timber Company, Inc., or its assigns a temporary permit to construct, operate and maintain in the Philippines, at such places the said grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, coastal, aeronautical, land-based and land mobile radio stations, for the reception and transmission of wireless messages on radiotelegraph and/or radiotelephone, each to be provided a radio transmitting and a radio receiving apparatus.1âшphi1
+There is hereby granted to Luna Timber Company, Inc., or its assigns a temporary permit to construct, operate and maintain in the Philippines, at such places the said grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, coastal, aeronautical, land-based and land mobile radio stations, for the reception and transmission of wireless messages on radiotelegraph and/or radiotelephone, each to be provided a radio transmitting and a radio receiving apparatus.
 
 ## Section 2
 

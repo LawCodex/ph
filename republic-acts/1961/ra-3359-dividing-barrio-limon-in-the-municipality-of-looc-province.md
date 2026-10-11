@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrio Limon in the Municipality of Looc, Province of Romblon, is hereby divided into two barrios to be known as Limon Norte and Limon Sur. Barrio Limon Norte shall comprise the sitios of Cogon, Polacon, Guintigui-an, Lumandong, Bongan-bongan, Ma-init, Bongoran Norte, Bagacota, Bataha, Narontan, Cayhagan and Agbayang, and Barrio Limon Sur, the sitios of Bongan-bongan Sur, Lumbia, Baiyan, Grando, Silagon, Canduroy, Pusdan and Ambolong.1avvphi1
+Barrio Limon in the Municipality of Looc, Province of Romblon, is hereby divided into two barrios to be known as Limon Norte and Limon Sur. Barrio Limon Norte shall comprise the sitios of Cogon, Polacon, Guintigui-an, Lumandong, Bongan-bongan, Ma-init, Bongoran Norte, Bagacota, Bataha, Narontan, Cayhagan and Agbayang, and Barrio Limon Sur, the sitios of Bongan-bongan Sur, Lumbia, Baiyan, Grando, Silagon, Canduroy, Pusdan and Ambolong.
 
 ## Section 2
 

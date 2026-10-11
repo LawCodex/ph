@@ -37,7 +37,7 @@ The Secretary of Education is hereby empowered to promulgate such rules and regu
 
 ## Section 4
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four-sixty-five.1âшphi1 Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four-sixty-five. Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

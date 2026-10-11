@@ -33,7 +33,7 @@ Elizabeth Jeanette Means shall take the Oath of Allegiance to the Republic of th
 
 ## Section 3
 
-Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Elizabeth Jeanette Means, who shall thereupon enter into the full enjoyment of Philippine citizenship.ℒαwρhi৷
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Elizabeth Jeanette Means, who shall thereupon enter into the full enjoyment of Philippine citizenship.
 
 ## Section 4
 

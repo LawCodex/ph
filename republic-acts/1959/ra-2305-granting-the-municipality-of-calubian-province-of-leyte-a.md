@@ -39,7 +39,7 @@ _Records of assets, liabilities, capital, income, etc._ -The grantee shall make 
 
 ## Section 4
 
-_Record of amount of depreciation of depreciable property._ -The grantee shall record in its accounts at the end of each month the estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable properties which it shall submit to the Public Service Commission for approval until such time as the Public Service Commission fixes the service lives and depreciation rates which the grantee shall be required to use thereafter.1aшphi1
+_Record of amount of depreciation of depreciable property._ -The grantee shall record in its accounts at the end of each month the estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable properties which it shall submit to the Public Service Commission for approval until such time as the Public Service Commission fixes the service lives and depreciation rates which the grantee shall be required to use thereafter.
 
 ## Section 5
 

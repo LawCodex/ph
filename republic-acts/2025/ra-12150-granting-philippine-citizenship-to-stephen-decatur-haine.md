@@ -29,7 +29,7 @@ Stephen Decatur Haines is hereby granted Philippine citizenship with all the rig
 
 ## Section 2
 
-Stephen Decatur Haines shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.ℒαwρhi৷ The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Stephen Decatur Haines shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

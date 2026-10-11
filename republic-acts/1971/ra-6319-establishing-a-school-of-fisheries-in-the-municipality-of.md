@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of San Joaquin, Province of lloilo, to be known as the San Joaquin School of Fisheries: _Provided, however,_ That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as possible, two-year Post secondary technical courses.1âшphi1
+There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of San Joaquin, Province of lloilo, to be known as the San Joaquin School of Fisheries: _Provided, however,_ That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as possible, two-year Post secondary technical courses.
 
 ## Section 2
 

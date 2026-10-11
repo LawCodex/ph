@@ -32,7 +32,7 @@ The Rebokon Nationalized Barangay High School in Barangay Rebokon, Municipality 
 
 ## Section 2
 
-The School shall, in addition to its present secondary curriculum, offer agricultural, technical and other vocational subjects.1aшphi1
+The School shall, in addition to its present secondary curriculum, offer agricultural, technical and other vocational subjects.
 
 ## Section 3
 

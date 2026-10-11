@@ -26,7 +26,9 @@ AN ACT AMENDING REPUBLIC ACT NO. 5980, AS AMENDED, OTHERWISE KNOWN AS THE FINANC
 
 This Act shall be known as the "**Financing Company Act of 1998.** "
 
-**Sec. 2._Declaration of Policy._** \- It is hereby declared to be the policy of the State to regulate and promote the activities of financing and leasing companies to place their operations on a sound, competitive, stable and efficient basis as other financial institutions, to recognize and strengthen their critical role in providing medium and long-term credit for investments in capital goods and equipment especially by small and medium enterprises particularly in the countryside and to curtail and prevent acts or practices prejudicial to the public interest so that they may be in a better position to extend efficient service in a fair manner to the general public and to industry, commerce and agriculture and thereby more fully contribute to the sound development of the national economy.
+## Sec. 2
+
+_Declaration of Policy._ \- It is hereby declared to be the policy of the State to regulate and promote the activities of financing and leasing companies to place their operations on a sound, competitive, stable and efficient basis as other financial institutions, to recognize and strengthen their critical role in providing medium and long-term credit for investments in capital goods and equipment especially by small and medium enterprises particularly in the countryside and to curtail and prevent acts or practices prejudicial to the public interest so that they may be in a better position to extend efficient service in a fair manner to the general public and to industry, commerce and agriculture and thereby more fully contribute to the sound development of the national economy.
 
 ## Sec. 3
 
@@ -164,6 +166,8 @@ Sec. 10 of the same Act is hereby renumbered as Sec. 14. As renumbered, Sec. 14 
 
 Sec.s 11 and 12 of the same Act are hereby renumbered as Sec.s 15 and 18, respectively.
 
-**Sec. 13._Effectivity._** \- This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two newspapers of general circulation.
+## Sec. 13
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two newspapers of general circulation.
 
 Approved: **February 26, 1998**

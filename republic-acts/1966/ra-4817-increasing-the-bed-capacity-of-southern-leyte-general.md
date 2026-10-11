@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of Southern Leyte General Hospital in the Province of Southern Leyte is hereby increased from twenty-five beds to seventy-five beds.1avvphi1
+The bed capacity of Southern Leyte General Hospital in the Province of Southern Leyte is hereby increased from twenty-five beds to seventy-five beds.
 
 ## Section 2
 

@@ -34,7 +34,7 @@ The Siocon National High School in Barangay Poblacion, Municipality of Siocon, P
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Siocon National High School are hereby transferred to and absorbed by the Siocon National Science High School.ᇈWᑭHIL
+All personnel, assets, liabilities and records of the Siocon National High School are hereby transferred to and absorbed by the Siocon National Science High School.
 
 ## Section 3
 

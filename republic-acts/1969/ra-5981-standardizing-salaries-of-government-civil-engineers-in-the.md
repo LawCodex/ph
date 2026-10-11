@@ -671,6 +671,6 @@ All Acts, executive orders, administrative orders, proclamations, rules and regu
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

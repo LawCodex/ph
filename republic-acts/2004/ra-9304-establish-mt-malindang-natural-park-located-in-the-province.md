@@ -1680,7 +1680,7 @@ _Contracts Over Lands within the Mt. Malindang Natural Park._ — The purchase, 
 
 ### Section 13
 
-_Special Prosecutors._ — Within thirty (30) days from the effectivity of this Act, the Department of Justice shall designate a Special Prosecutor to whom all cases of violation of laws, rules and regulations in the PA shall be assigned.£A⩊phi£ Such special prosecutor shall coordinate with the PAMB and the PASu in the performance of his/her duties and assist in the training of wardens and rangers in arrest and criminal procedure. The PAMB may appoint a special private prosecutor on a case to case basis to assist the public prosecutor in the enforcement of protected area laws.
+_Special Prosecutors._ — Within thirty (30) days from the effectivity of this Act, the Department of Justice shall designate a Special Prosecutor to whom all cases of violation of laws, rules and regulations in the PA shall be assigned. Such special prosecutor shall coordinate with the PAMB and the PASu in the performance of his/her duties and assist in the training of wardens and rangers in arrest and criminal procedure. The PAMB may appoint a special private prosecutor on a case to case basis to assist the public prosecutor in the enforcement of protected area laws.
 
 ### Section 14
 
@@ -1690,7 +1690,7 @@ _Local Government Units._ — Local government units shall participate in the ma
 
 _Integrated Protected Area Fund of the Mt. Malindang Natural Park._ — The Integrated Protected Area Fund (IPAF) shall be established as a special trust fund and shall be disbursed solely for the protection, maintenance, administration and management of Mt. Malindang Natural Park and the System. At least seventy-five percent (75%) of the funds collected shall form part of Mt. Malindang Natural Park Subfund which shall be solely disbursed for its use. The Mt. Malindang Natural Park Subfund shall likewise be exempted from being deposited in the National Treasury and shall be made readily available for disbursement upon proper approval of Mt. Malindang Natural Park and the PAMB, subject to the usual accounting and auditing rules and regulations.
 
-The following shall constitute part of the Integrated Protected Area Funds and shall be subject to the PAMB acted policy the moment they accrue.ℒαwρhi৷
+The following shall constitute part of the Integrated Protected Area Funds and shall be subject to the PAMB acted policy the moment they accrue.
 
 (1) Proceeds from special land use and resource utilization from commercially used ancestral domains, as may be set by the PAMB;
 

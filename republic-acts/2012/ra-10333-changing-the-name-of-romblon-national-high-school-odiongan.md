@@ -34,7 +34,7 @@ _Renaming of a National High School._ – The name of Romblon National High Scho
 
 ## Section 2
 
-_Location of the Main Campus._ \- The main campus of the Odiongan National High School shall continue to remain in its present location in the Municipality of Odiongan, Province of Romblon.ℒαwρhi৷
+_Location of the Main Campus._ \- The main campus of the Odiongan National High School shall continue to remain in its present location in the Municipality of Odiongan, Province of Romblon.
 
 ## Section 3
 

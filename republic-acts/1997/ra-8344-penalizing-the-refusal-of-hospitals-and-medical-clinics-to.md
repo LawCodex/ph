@@ -48,7 +48,7 @@ _Section 2 of Batas Pambansa Bilang 702 is hereby deleted and in place thereof, 
 
 "(e) 'Emergency treatment and support' - any medical or surgical measure within the capability of the hospital or medical clinic that is administered by qualified health care professionals to prevent the death or permanent disability of a patient.
 
-"(f) 'Medical clinic' - a place in which patients can avail of medical consultation or treatment on an outpatient basis.1aшphi1
+"(f) 'Medical clinic' - a place in which patients can avail of medical consultation or treatment on an outpatient basis.
 
 "(g) 'Permanent disability' - a condition of physical disability as defined under Article 192-C and Article 193-B and C of Presidential Decree No 442; as amended, otherwise known as the Labor Code of the Philippines.
 

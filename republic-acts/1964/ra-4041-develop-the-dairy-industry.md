@@ -37,7 +37,7 @@ To implement the policy enunciated in Section one hereof, the Bureau of Animal I
 
 (1) To promote and develop caraballa, cattle and goat dairying;
 
-(2) To establish dairy breeding farms, herd improvement associations, artificial insemination centers in strategic places in the country to propagate dairy livestock for sale and/or distribution on a fifty-fifty sharing basis of the offspring to prospective dairy farmers, family-size farms and commercial dairy farms.1âшphi1 The first born and every other offspring thereafter shall automatically belong to the Government and the rest to the corresponding dairy farmers, family-size farmers and commercial dairy farms: _Provided,_ That the Government’s share shall be sold or disposed of in the same methods;
+(2) To establish dairy breeding farms, herd improvement associations, artificial insemination centers in strategic places in the country to propagate dairy livestock for sale and/or distribution on a fifty-fifty sharing basis of the offspring to prospective dairy farmers, family-size farms and commercial dairy farms. The first born and every other offspring thereafter shall automatically belong to the Government and the rest to the corresponding dairy farmers, family-size farmers and commercial dairy farms: _Provided,_ That the Government’s share shall be sold or disposed of in the same methods;
 
 (3) To issue plans, programs and disseminate information relative to dairy farming in order to help dairy farmers in their ventures;
 

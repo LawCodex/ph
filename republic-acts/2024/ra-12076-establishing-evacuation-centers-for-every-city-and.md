@@ -105,7 +105,7 @@ _Treasurer of Evacuation Center._ \- Upon evaluation and determination that the 
 
 ## Section 10
 
-_Operation and Management._ \- The LGUs concerned shall be primarily responsible for the maintenance, operation, and management of evacuation centers established under this Act.ℒαwρhi৷
+_Operation and Management._ \- The LGUs concerned shall be primarily responsible for the maintenance, operation, and management of evacuation centers established under this Act.
 
 The local sanggunian shall promulgate rules, guidelines and procedures for the use and operation of the evacuation center under its jurisdiction, including on the utilization of the evacuation center for other activities or purposes authorized by the LGU: _Provided,_ That the utilization of the evacuation center and its amenities for such authorized activities or purposes shall only be temporary with corresponding provisions on cleaning, disinfecting, and sanitizing immediately after use: _Provided, further,_ That it shall not in any way compromise the serviceability or impede the use thereof when a disaster occurs: _Provided, further_ more, That the evacuation center and its facilities may not be used for partisan political activities: _Provided,_ finally, That the LGU shall impose the appropriate penalties on the organizers of authorized activities when the evacuation center suffers any damage, defacement, or loss during or as a result of such activities.
 

@@ -33,7 +33,7 @@ It shall be the duty of the Director of Commerce to satisfy himself, before effe
 
 ## Section 2
 
-The Securities and Exchange Commission shall furnish the Director of Commerce from time to time the names of all registered corporations and partnerships.1a⍵⍴h!1
+The Securities and Exchange Commission shall furnish the Director of Commerce from time to time the names of all registered corporations and partnerships.
 
 ## Section 3
 

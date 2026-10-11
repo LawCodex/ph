@@ -28,7 +28,6 @@ Section fifteen of Commonwealth Act Numbered Five hundred and twenty is amended 
 
 | "(mm-1). | To provide for the establishment and maintenance of a telephone system, and, subject to the provisions of the Public Service Law, to fix the charges for the use of said service." |
 |---|---|
- 1aшphi1
 
 ## Section 2
 

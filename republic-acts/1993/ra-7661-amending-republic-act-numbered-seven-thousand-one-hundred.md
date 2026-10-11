@@ -87,6 +87,6 @@ Implementing guidelines and regulations shall be issued by the Committee on Priv
 
 ## Section 6
 
-This Act shall take effect after its publication in two (2) newspapers of general circulation.1a⍵⍴h!1
+This Act shall take effect after its publication in two (2) newspapers of general circulation.
 
 Approved, December 23, 1993.

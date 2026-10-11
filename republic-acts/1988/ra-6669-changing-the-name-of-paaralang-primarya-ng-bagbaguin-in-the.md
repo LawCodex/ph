@@ -24,7 +24,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-The name of Paaralang Primarya ng Bagbagu-in in Municipality of Pandi, Province of Bulacan, is hereby changed to Zacarias Hilario Memorial School.1âшphi1
+The name of Paaralang Primarya ng Bagbagu-in in Municipality of Pandi, Province of Bulacan, is hereby changed to Zacarias Hilario Memorial School.
 
 ## Section 2
 

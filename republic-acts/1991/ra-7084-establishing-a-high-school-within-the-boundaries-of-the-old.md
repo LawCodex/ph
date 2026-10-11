@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a high school within the boundaries of the old town of the Municipality of Dasmariñas, Province of Cavite, to be known as the Dasmariñas Relocation Center High School Branch.1âшphi1
+There shall be established a high school within the boundaries of the old town of the Municipality of Dasmariñas, Province of Cavite, to be known as the Dasmariñas Relocation Center High School Branch.
 
 ## Section 2
 

@@ -90,7 +90,7 @@ Section 7 of the same decree is hereby amended to read as follows:
 
 "Decisions and final orders of the Sandiganbayan shall be appealable to the Supreme Court by petition for review on certiorari raising pure questions of law in accordance with Rule 45 of the Rules of Court. Whenever, in any case decided by the Sandiganbayan, the penalty of reclusion perpetua or higher is imposed, the decision shall be appealable to the Supreme Court in the manner prescribed in the Rules of Court. In case the penalty imposed is death, review by the Supreme Court shall be automatic, whether or not the accused filed an appeal.
 
-"Judgments and orders of the Sandiganbayan shall be executed and enforced in the manner provided by law.1aшphi1
+"Judgments and orders of the Sandiganbayan shall be executed and enforced in the manner provided by law.
 
 "Decisions and final orders of other courts, in cases cognizable by said courts under this Act shall be appealable to the Sandiganbayan within fifteen (15) days from promulgation or notice to the parties."
 

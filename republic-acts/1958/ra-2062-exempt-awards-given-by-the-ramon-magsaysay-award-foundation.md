@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The provisions of any existing law to the contrary notwithstanding, all awards given by the Ramon Magsaysay Award Foundation shall be exempted from the payment of income, gift and all other taxes.1âшphi1
+The provisions of any existing law to the contrary notwithstanding, all awards given by the Ramon Magsaysay Award Foundation shall be exempted from the payment of income, gift and all other taxes.
 
 ## Section 2
 

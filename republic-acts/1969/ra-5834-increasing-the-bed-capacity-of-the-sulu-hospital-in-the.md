@@ -32,6 +32,6 @@ The sum of one hundred thousand pesos is herefty authorized to be appropriated, 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

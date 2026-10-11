@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Separation and Conversion into a National High School._ – The Bahay Provincial High School – Dr. Nelson Mejia Annex in Barangay San Vicente, Municipality of Libmanan, Province of Camarines Sur is hereby separated from the Bahay Provincial High School and converted into an independent national high school to be known as Dr. Nelson Mejia National High School.ℒαwρhi৷
+_Separation and Conversion into a National High School._ – The Bahay Provincial High School – Dr. Nelson Mejia Annex in Barangay San Vicente, Municipality of Libmanan, Province of Camarines Sur is hereby separated from the Bahay Provincial High School and converted into an independent national high school to be known as Dr. Nelson Mejia National High School.
 
 ## Section 2
 

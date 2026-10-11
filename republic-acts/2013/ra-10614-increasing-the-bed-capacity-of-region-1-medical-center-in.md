@@ -38,7 +38,7 @@ _Expansion of Manpower Requirement._ – The existing manpower requirement of Re
 
 ## Section 3
 
-_Upgrade of Existing Service Facilities and Professional Health Care Services._ – The existing service facilities and professional health care services are hereby upgraded to conform with and be commensurate to the increase in authorized bed capacity as provided in Section 1 hereof.1âwphi1 The Region 1 Medical Center shall submit to the Department of Health its proposed hospital development plan and the additional clinical departments and special units it requires to meet the increased authorized bed capacity.
+_Upgrade of Existing Service Facilities and Professional Health Care Services._ – The existing service facilities and professional health care services are hereby upgraded to conform with and be commensurate to the increase in authorized bed capacity as provided in Section 1 hereof. The Region 1 Medical Center shall submit to the Department of Health its proposed hospital development plan and the additional clinical departments and special units it requires to meet the increased authorized bed capacity.
 
 ## Section 4
 

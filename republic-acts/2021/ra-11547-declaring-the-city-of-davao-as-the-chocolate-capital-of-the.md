@@ -35,7 +35,7 @@ Towards this end, the State hereby recognizes the importance of cacao as a drive
 
 ## Section 2
 
-_Cacao and Chocolate Capital of the Philippines._ \- In recognition of its status as the country's biggest producer of cacao and its vital contribution in making the Philippines world renowned and sought after by chocolate makers from the U.S., Japan, and Europe, the City of Davao is hereby declared as the Chocolate Capital of the Philippines and the entire Region XI (Davao Region) as the Cacao Capital of the Philippines.ℒαwρhi৷
+_Cacao and Chocolate Capital of the Philippines._ \- In recognition of its status as the country's biggest producer of cacao and its vital contribution in making the Philippines world renowned and sought after by chocolate makers from the U.S., Japan, and Europe, the City of Davao is hereby declared as the Chocolate Capital of the Philippines and the entire Region XI (Davao Region) as the Cacao Capital of the Philippines.
 
 ## Section 3
 

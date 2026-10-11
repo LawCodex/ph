@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, is hereby divided into two barrios to be known as Casibarag Norte and Casibarag Sur.1âшphi1
+The barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, is hereby divided into two barrios to be known as Casibarag Norte and Casibarag Sur.
 
 ## Section 2
 

@@ -34,7 +34,7 @@ _Renaming of an Elementary School._ – The name of Malalim Elementary School in
 
 ## Section 2
 
-_Location of the Main Campus._ – The main campus of the Eulalia Talban Ebora Memorial Elementary School shall continue to remain in its present location in Barangay Malalim, City of Batangas, Province of Batangas.1âwphi1
+_Location of the Main Campus._ – The main campus of the Eulalia Talban Ebora Memorial Elementary School shall continue to remain in its present location in Barangay Malalim, City of Batangas, Province of Batangas.
 
 ## Section 3
 

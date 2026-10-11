@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Arakan Valley Municipal Hospital in the Municipality of Antipas, Province of Cotabato, is hereby upgraded and converted into a twenty-five-bed capacity district hospital, to be known as the Arakan Valley District hospital.1âшphi1
+The Arakan Valley Municipal Hospital in the Municipality of Antipas, Province of Cotabato, is hereby upgraded and converted into a twenty-five-bed capacity district hospital, to be known as the Arakan Valley District hospital.
 
 ## Section 2
 

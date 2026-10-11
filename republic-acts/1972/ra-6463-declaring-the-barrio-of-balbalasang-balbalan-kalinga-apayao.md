@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrio of Balbalasang, Balbalan, Kalinga-Apayao, is hereby declared a tourist resort, and certain portions of the public domains therein which may be selected by the Commission on Parks and Wildlife within one year from the effectivity of this Act is hereby declared, subject to the approval of the President, a national park.1âшphi1
+The barrio of Balbalasang, Balbalan, Kalinga-Apayao, is hereby declared a tourist resort, and certain portions of the public domains therein which may be selected by the Commission on Parks and Wildlife within one year from the effectivity of this Act is hereby declared, subject to the approval of the President, a national park.
 
 ## Section 2
 

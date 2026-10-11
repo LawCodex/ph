@@ -29,7 +29,7 @@ Subject to the conditions imposed by this Act, there is hereby granted to ANSUIC
 
 ## Section 2
 
-This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by Congress of the Philippines when and if public interest so require.1âшphi1
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by Congress of the Philippines when and if public interest so require.
 
 ## Section 3
 

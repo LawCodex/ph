@@ -42,7 +42,7 @@ _Appropriations._ – The Secretary of Education shall immediately include in th
 
 ## SECTION 4
 
-_Implementation._ – The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1awp++i1
+_Implementation._ – The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## SECTION 5
 

@@ -40,7 +40,7 @@ The College shall be headed by a vocational college superintendent and shall be 
 
 ## Section 4
 
-The chairperson of the Commission on Higher Education is hereby directed to take the necessary steps for the conversion and operation of the College and for the effective implementation of this Act.1aшphi1
+The chairperson of the Commission on Higher Education is hereby directed to take the necessary steps for the conversion and operation of the College and for the effective implementation of this Act.
 
 ## Section 5
 

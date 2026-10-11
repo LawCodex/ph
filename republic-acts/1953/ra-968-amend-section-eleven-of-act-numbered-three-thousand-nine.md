@@ -31,7 +31,7 @@ Section eleven of Act Numbered Three thousand nine hundred and ninety-two is her
 
 "If such first application is made during the second quarter of a calendar year, three-fourths of the annual fee for that year shall be paid.
 
-"If such first application is made during the third quarter, one-half of the annual fee shall be paid.1a⍵⍴h!1
+"If such first application is made during the third quarter, one-half of the annual fee shall be paid.
 
 "If during the fourth quarter, one-fourth of the annual fee shall be paid.
 

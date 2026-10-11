@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Governor Felicisimo T. San Luis was regarded as the father of the agro-industrial development of Laguna. He pioneered the promotion of family planning; increased rice production variety in cooperation with the International Rice Research Institute (IRRI); worked for the establishment of hundreds of industries in the first and second districts of the province; and sustained economic and improved infrastructures in Laguna.1aшphi1
+Governor Felicisimo T. San Luis was regarded as the father of the agro-industrial development of Laguna. He pioneered the promotion of family planning; increased rice production variety in cooperation with the International Rice Research Institute (IRRI); worked for the establishment of hundreds of industries in the first and second districts of the province; and sustained economic and improved infrastructures in Laguna.
 
 ## Section 2
 

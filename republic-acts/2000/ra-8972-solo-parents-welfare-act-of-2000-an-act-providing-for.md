@@ -134,7 +134,7 @@ _Implementing Rules and Regulations._ \- An interagency committee headed by the 
 
 ## Section 14
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the budget of concerned government agencies in the General Appropriations Act of the year following its enactment into law and thereafter.1awphil.net
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the budget of concerned government agencies in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 15
 

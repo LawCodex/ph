@@ -28,7 +28,7 @@ The prohibition to export fibers (buntal) or filaments of the plants commonly kn
 
 "An Act to Prohibit the Exportation of Seeds or Seedlings of the Plant Commonly Known as "Buri"."
 
-"Sec. 1. It shall be unlawful and illegal for any person, corporation, firm or association, to export to any foreign country seeds or seedlings of the plant commonly known as "buri" (Corypha elata).1aшphi1
+"Sec. 1. It shall be unlawful and illegal for any person, corporation, firm or association, to export to any foreign country seeds or seedlings of the plant commonly known as "buri" (Corypha elata).
 
 "Sec. 2. Any violation of this Act shall be punished by imprisonment of not less than one month nor more than one year, or by a fine of not less than one hundred pesos nor more than one thousand pesos, or both, at the discretion of the Court, and the seeds or seedlings of the said plant attempted to be exported shall be confiscated by, and forfeited to, the Government."
 

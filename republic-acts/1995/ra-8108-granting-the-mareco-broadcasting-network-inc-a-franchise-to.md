@@ -74,7 +74,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 12
 
-_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which the Congress of the Philippines may hereafter enact.1aшphi1
+_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which the Congress of the Philippines may hereafter enact.
 
 ## Section 13
 

@@ -192,7 +192,7 @@ All accounts and expenses of the University shall be audited by the Commission o
 
 ## Section 21
 
-The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the President of the University, such apparatus, equipment or supplies as may be needed by the University and to detail employees for duty therein when in the judgment of the head of the bureau or office, such apparatus, equipment, supplies, or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the President of the University and the time so employed shall be counted as part of their regular service.1âшphi1
+The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the President of the University, such apparatus, equipment or supplies as may be needed by the University and to detail employees for duty therein when in the judgment of the head of the bureau or office, such apparatus, equipment, supplies, or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the President of the University and the time so employed shall be counted as part of their regular service.
 
 ## Section 22
 

@@ -20,7 +20,7 @@ retrieved: 2026-10-12
 
 AN ACT RAISING THE RANKS OF THE DIRECTOR AND ASSISTANT DIRECTOR OF THE BUREAU OF COAST AND GEODETIC SURVEY, AMENDING FOR THE PURPOSE SECTION TWO OF REPUBLIC ACT NUMBERED TWO THOUSAND FIFTY-SEVEN.
 
-Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled: 1âшphi1
+Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:
 
 ## Section 1
 

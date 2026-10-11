@@ -44,7 +44,7 @@ Section twenty-four, of Republic Act Numbered One hundred sixty-two, is hereby a
 
 "(h) He shall cause to be investigated the causes of sudden deaths which have not been satisfactorily explained and when there is suspicion that the same arose from unlawful acts or omissions of other persons or from foul play. For the purpose he may cause autopsies to be made in case it is deemed necessary and shall be entitled to demand and receive for the purposes of such investigations or autopsies the aid of the city health officer.
 
-"(i) He shall at all times render such professional services as the Mayor or Board may require, and shall have such powers and perform such duties as may be prescribed by law or ordinance.1a⍵⍴h!1
+"(i) He shall at all times render such professional services as the Mayor or Board may require, and shall have such powers and perform such duties as may be prescribed by law or ordinance.
 
 "(j) He shall perform the duties prescribed by law for register of deeds."
 

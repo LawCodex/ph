@@ -32,7 +32,7 @@ The grantee shall file a bond in the amount of five thousand pesos to guaranty f
 
 ## Section 3
 
-In the event of any competing individual, partnership or corporation receiving from the Congress a similar temporary permit in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, of the terms hereof and shall operate equally in favor then such term or terms shall, ipso facto, become a part of the grantee as in the case of said competing individual, partnership or corporation.1a⍵⍴h!1
+In the event of any competing individual, partnership or corporation receiving from the Congress a similar temporary permit in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, of the terms hereof and shall operate equally in favor then such term or terms shall, ipso facto, become a part of the grantee as in the case of said competing individual, partnership or corporation.
 
 ## Section 4
 

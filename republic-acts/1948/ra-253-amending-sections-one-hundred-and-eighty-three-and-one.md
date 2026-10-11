@@ -47,7 +47,7 @@ Section one hundred and ninety of Commonwealth Act Numbered Four hundred and six
 
 ## Section 3
 
-All laws or parts of laws inconsistent with the provisions of this Act are here repealed.1aшphi1
+All laws or parts of laws inconsistent with the provisions of this Act are here repealed.
 
 ## Section 4
 

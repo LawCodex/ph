@@ -113,7 +113,7 @@ _Protected Area Management Board._ \- Within ninety (90) days from the effectivi
 
 (g) Regional Directors of the following government agencies: Department of Agriculture (DA), National Economic and Development Authority (NEDA), Department of Science and Technology (DOST), Philippine National Police (PNP), Department of National Defense (DND), and Department of Tourism (DOT);
 
-(h) Three (3) representatives from either NGOs or people's organizations (POs) based in the Province of Quezon, duly accredited by both the DENR and the Provincial Government.ℒαwρhi৷ The NGOs or POs represented should have been in existence for at least five (5) years and with track record in or related to protected area management;
+(h) Three (3) representatives from either NGOs or people's organizations (POs) based in the Province of Quezon, duly accredited by both the DENR and the Provincial Government. The NGOs or POs represented should have been in existence for at least five (5) years and with track record in or related to protected area management;
 
 (i) At least one (1) but not more than three (3) representatives from all the ICCs/IPs present in the area and recognized by the National Commission on Indigenous Peoples (NCIP);
 

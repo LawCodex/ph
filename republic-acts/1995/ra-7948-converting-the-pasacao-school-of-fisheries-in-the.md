@@ -70,7 +70,7 @@ The body of teachers, instructors, master teachers and heads of departments shal
 
 ## Section 8
 
-The faculty and other personnel of the Institute shall be covered by the Civil Service laws, rules and regulations.1aшphi1
+The faculty and other personnel of the Institute shall be covered by the Civil Service laws, rules and regulations.
 
 ## Section 9
 

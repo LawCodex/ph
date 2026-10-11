@@ -328,7 +328,7 @@ Section 63 of the same Act is hereby amended to read as follows:
 
 "(2) the extent to which the changes in prices have been reflected in changes in the level of domestic output, employment, wages and economic activity in general, and the nature and significance of any such changes; and
 
-"(3) the measures which the Monetary Board has taken and the other monetary, fiscal or administrative measures which it recommends to be adopted.1âwphi1
+"(3) the measures which the Monetary Board has taken and the other monetary, fiscal or administrative measures which it recommends to be adopted.
 
 "Whenever the cost of living index increases by more than ten percent (10%), in relation to the level existing at the end of the corresponding month of the preceding year, or even though this quantitative guideline has not been reached when in its judgment the circumstances so warrant, the Monetary Board shall submit the reports mentioned in this section, and shall state therein whether, in the opinion of the Board, said changes in the cost of living represent a threat to the stability of the Philippine economy or of important sectors thereof.
 
@@ -468,7 +468,7 @@ Section 123 of the same Act is hereby amended to read as follows:
 
 "Sec. 123. _Financial Advice on Official Credit Operations._ \- Before undertaking any credit operation abroad, the Government, through the Secretary of Finance, shall request the opinion, in writing, of the Monetary Board on the monetary implications of the contemplated action. Such opinions must similarly be requested by all political subdivisions and instrumentalities of the Government before any credit operation abroad is undertaken by them.
 
-"The opinion of the Monetary Board shall be based on the gold and foreign exchange resources and obligations of the nation and on the effects of the proposed operation on the balance of payments and on monetary aggregates.1âwphi1
+"The opinion of the Monetary Board shall be based on the gold and foreign exchange resources and obligations of the nation and on the effects of the proposed operation on the balance of payments and on monetary aggregates.
 
 "Whenever the Government, or any of its political subdivisions or instrumentalities, contemplates borrowing within the Philippines, the prior opinion of the Monetary Board shall likewise be requested in order that the Board may render an opinion on the probable effects of the proposed operation on monetary aggregates, the price level, and the balance of payments.
 

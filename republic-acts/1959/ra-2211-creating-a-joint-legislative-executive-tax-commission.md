@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-_Name and domicile.—_ There is hereby created the Joint Legislative-Executive Tax Commission, hereinafter called the Tax Commission for shot, which shall be organized within sixty days after the approval of this Act. It shall have its main office in the City of Manila.1aшphi1
+_Name and domicile.—_ There is hereby created the Joint Legislative-Executive Tax Commission, hereinafter called the Tax Commission for shot, which shall be organized within sixty days after the approval of this Act. It shall have its main office in the City of Manila.
 
 ## Section 2
 
@@ -42,7 +42,7 @@ _Purposes and objectives.—_ The Tax Commission shall have the following purpos
 
 In its deliberations for re-studying and revising our tax policy structure, the Tax Commission shall be guided by the following fundamental principles:
 
-(1) To avoid increasing the tax burden of the average taxpayer.1aшphi1
+(1) To avoid increasing the tax burden of the average taxpayer.
 
 (2) To assess sector of the economy not now bearing their proportionate share of the costs of Government.
 
@@ -70,7 +70,7 @@ _Composition and appointment.—_ The powers of the Tax Commission shall be vest
 
 (1) Three to be appointed by the President of the Philippines. Any or all of these three may or may not be officials of the Government.
 
-(2) Three Senators to be appointed by the President of the Senate, one of whom shall be from the minority party.1aшphi1
+(2) Three Senators to be appointed by the President of the Senate, one of whom shall be from the minority party.
 
 (3) Three Congressmen to be appointed by the Speaker of the House of Representatives, one of whom shall come from the minority party.
 

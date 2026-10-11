@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Vocational Education, a national school of arts and trades in the Municipality of Taft, Province of Samar, to be known as Samar National School of Arts and Trades. Courses on the secondary level shall be offered in this school effective upon availability of funds.1âшphi1
+There shall be established, under the direct supervision of the Director of Vocational Education, a national school of arts and trades in the Municipality of Taft, Province of Samar, to be known as Samar National School of Arts and Trades. Courses on the secondary level shall be offered in this school effective upon availability of funds.
 
 ## Section 2
 

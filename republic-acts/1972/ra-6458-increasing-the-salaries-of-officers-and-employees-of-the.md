@@ -233,7 +233,7 @@ Any provision of existing law, executive order, rule or regulations to the contr
 
 ## Section 2
 
-Upon approval of this Act, the respective officer or employee actually occupying any of these positions hereinabove mentioned shall be entitled to the salary provided for the said position without need of a new appointment.1âшphi1
+Upon approval of this Act, the respective officer or employee actually occupying any of these positions hereinabove mentioned shall be entitled to the salary provided for the said position without need of a new appointment.
 
 ## Section 3
 

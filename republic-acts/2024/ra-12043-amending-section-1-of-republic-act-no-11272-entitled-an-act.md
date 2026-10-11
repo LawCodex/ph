@@ -31,7 +31,7 @@ Section 1 of Republic Act No. 11272 is hereby amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

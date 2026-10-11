@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT AUTHORIZING THE DANIEL Z. ROMUALDEZ MEMORIAL SCHOOL OF FISHERIES IN TOLOSA, LEYTE, TO CONTINUE TO OFFER THE BACHELOR OF SCIENCE IN FISHERIES PROGRAM
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

@@ -50,7 +50,7 @@ _Grant of Prerogatives._ \- To enable the School to continue carrying out its ed
 
 (e) Employ its own teaching and management personnel selected by the Council either locally or abroad, from the Philippines or other nationalities, such foreign personnel being exempt from laws and regulations that impose nationality restrictions on employment, and control the administration of educational institutions, except laws that have been or will be enacted for the protection of employees: _Provided,_ That such exception shall not be extended to their liability for income taxes; and
 
-(f) Benefit from privileges under the law to nonstock, nonprofit educational institutions.1âwphi1
+(f) Benefit from privileges under the law to nonstock, nonprofit educational institutions.
 
 ## Section 4
 

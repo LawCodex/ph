@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Pogoruac in the Municipality of Burgos, Province of Pangasinan, is converted into a barrio of said municipality to be known as the barrio of Poroguac.1âшphi1
+The sitio of Pogoruac in the Municipality of Burgos, Province of Pangasinan, is converted into a barrio of said municipality to be known as the barrio of Poroguac.
 
 ## Section 2
 

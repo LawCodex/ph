@@ -25,9 +25,13 @@ AN ACT PROMULGATING POLICIES AND PRESCRIBING MEASURES FOR THE PREVENTION AND CON
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **"_Philippine AIDS Prevention and Control Act of 1998._ "**
+### Section 1
 
-**Section 2._Declaration of policies._** – Acquired Immune Deficiency Syndrome (AIDS) is a disease that recognizes no territorial, social, political and economic boundaries for which there is no known cure. The gravity of the AIDS threat demands strong State action today, thus:
+_Title._ – This Act shall be known as the **"_Philippine AIDS Prevention and Control Act of 1998._ "**
+
+### Section 2
+
+_Declaration of policies._ – Acquired Immune Deficiency Syndrome (AIDS) is a disease that recognizes no territorial, social, political and economic boundaries for which there is no known cure. The gravity of the AIDS threat demands strong State action today, thus:
 
 (a) The State shall promote public awareness about the causes, modes of transmission, consequences, means of prevention and control of HIV/AIDS through a comprehensive nationwide educational and information campaign organized and conducted by the State. Such campaigns shall promote value formation and employ scientifically proven approaches, focus on the family as a basic social unit, and be carried out in all schools and training centers, workplaces, and communities. This program shall involve affected individuals and groups, including people living with HIV/AIDS.
 
@@ -47,7 +51,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) The State shall recognize the potential role of affected individuals in propagating vital information and educational messages about HIV/AIDS and shall utilize their experience to warn the public about the disease.
 
-**Section 3._Definition of terms._** – As used in this Act, the following terms are defined as follows:
+### Section 3
+
+_Definition of terms._ – As used in this Act, the following terms are defined as follows:
 
 (a)_"Acquired Immune Deficiency Syndrome (AIDS)"_ – a condition characterized by a combination of signs and symptoms, caused by HIV contracted from another person and which attacks and weakens the body's immune system, making the afflicted individual susceptible to other life-threatening infections.
 
@@ -100,19 +106,33 @@ Flexibility in the formulation and adoption of appropriate course content, scope
 
 All teachers and instructors of said HIV/AIDS courses shall be required to undergo a seminar or training on HIV/AIDS prevention and control to be supervised by DECS, CHED and TESDA, in coordination with the Department of Health (DOH), before they are allowed to teach on the subject.
 
-**Section 5._HIV/AIDS information as a health service._** – HIV/AIDS education and information dissemination shall form part of the delivery of health services by health practitioners, workers and personnel. The knowledge and capabilities of all public health workers shall be enhanced to include skills for proper information dissemination and education on HIV/AIDS. It shall likewise be considered a civic duty of health providers in the private sector to make available to the public such information necessary to control the spread of HIV/AIDS and to correct common misconceptions about this disease. The training or health workers shall include discussions on HIV-related ethical issues such as confidentiality, informed consent and the duty to provide treatment.
+### Section 5
 
-**Section 6._HIV/AIDS education in the workplace._** – All government and private employees, workers, managers, and supervisors, including members of the Armed Forces of the Philippines (AFP) and the Philippine National Police (PNP), shall be provided with the standardized basic information and instruction on HIV/AIDS which shall include topics on confidentiality in the workplace and attitude towards infected employees and workers. In collaboration with the Department of Health (DOH), the Secretary of the Department of Labor and Employment (DOLE) shall oversee the anti-HIV/AIDS campaign in all private companies while the Armed Forces Chief of Staff and the Director General of the PNP shall oversee the implementation of this Sec..
+_HIV/AIDS information as a health service._ – HIV/AIDS education and information dissemination shall form part of the delivery of health services by health practitioners, workers and personnel. The knowledge and capabilities of all public health workers shall be enhanced to include skills for proper information dissemination and education on HIV/AIDS. It shall likewise be considered a civic duty of health providers in the private sector to make available to the public such information necessary to control the spread of HIV/AIDS and to correct common misconceptions about this disease. The training or health workers shall include discussions on HIV-related ethical issues such as confidentiality, informed consent and the duty to provide treatment.
 
-**Section 7._HIV/AIDS education for Filipinos going abroad._** – The State shall ensure that all overseas Filipino workers and diplomatic, military, trade, and labor officials and personnel to be assigned overseas shall undergo or attend a seminar on the cause, prevention and consequences of HIV/AIDS before certification for overseas assignment. The Department of Labor and Employment or the Department of Foreign Affairs, the Department of Tourism and the Department of Justice through the Bureau of Immigration, as the case may be, in collaboration with the Department of Health (DOH), shall oversee the implementation of this Sec..
+### Section 6
 
-**Section 8._Information campaign for tourists and transients._** – Informational aids or materials on the cause, modes of transmission, prevention, and consequences of HIV infection shall be adequately provided at all international ports of entry and exit. The Department of Tourism, the Department of Foreign Affairs, the Department of Justice through the Bureau of Immigration, in collaboration with the Department of Health (DOH), shall oversee the implementation of this Act.
+_HIV/AIDS education in the workplace._ – All government and private employees, workers, managers, and supervisors, including members of the Armed Forces of the Philippines (AFP) and the Philippine National Police (PNP), shall be provided with the standardized basic information and instruction on HIV/AIDS which shall include topics on confidentiality in the workplace and attitude towards infected employees and workers. In collaboration with the Department of Health (DOH), the Secretary of the Department of Labor and Employment (DOLE) shall oversee the anti-HIV/AIDS campaign in all private companies while the Armed Forces Chief of Staff and the Director General of the PNP shall oversee the implementation of this Sec..
 
-**Section 9._HIV/AIDS education in communities._ **– Local government units, in collaboration with the Department of Health (DOH), shall conduct an educational and information campaign on HIV/AIDS. The provincial governor, city or municipal mayor and the barangay captain shall coordinate such campaign among concerned government agencies, non-government organizations and church-based groups.
+### Section 7
 
-**Section 10._Information on prophylactics._** – Appropriate information shall be attached to or provided with every prophylactic offered for sale or given as a donation. Such information shall be legibly printed in English and Filipino, and contain literature on the proper use of the prophylactic device or agent, its efficacy against HIV and STD infection, as well as the importance of sexual abstinence and mutual fidelity.
+_HIV/AIDS education for Filipinos going abroad._ – The State shall ensure that all overseas Filipino workers and diplomatic, military, trade, and labor officials and personnel to be assigned overseas shall undergo or attend a seminar on the cause, prevention and consequences of HIV/AIDS before certification for overseas assignment. The Department of Labor and Employment or the Department of Foreign Affairs, the Department of Tourism and the Department of Justice through the Bureau of Immigration, as the case may be, in collaboration with the Department of Health (DOH), shall oversee the implementation of this Sec..
 
-**Section 11._Penalties for misleading information._ **– Misinformation on HIV/AIDS prevention and control through false and misleading advertising and claims in any of the tri-media or the promotional marketing of drugs, devices, agents or procedures without prior approval from the Department of Health and the Bureau of Food and Drugs and the requisite medical and scientific basis, including markings and indications in drugs and devises or agents, purporting to be a cure or a fail-safe prophylactic for HIV infection is punishable with a penalty of imprisonment for two (2) months to two (2) years, without prejudice to the imposition of administrative sanctions such as fines and suspension or revocation of professional or business license.
+### Section 8
+
+_Information campaign for tourists and transients._ – Informational aids or materials on the cause, modes of transmission, prevention, and consequences of HIV infection shall be adequately provided at all international ports of entry and exit. The Department of Tourism, the Department of Foreign Affairs, the Department of Justice through the Bureau of Immigration, in collaboration with the Department of Health (DOH), shall oversee the implementation of this Act.
+
+### Section 9
+
+_HIV/AIDS education in communities._ – Local government units, in collaboration with the Department of Health (DOH), shall conduct an educational and information campaign on HIV/AIDS. The provincial governor, city or municipal mayor and the barangay captain shall coordinate such campaign among concerned government agencies, non-government organizations and church-based groups.
+
+### Section 10
+
+_Information on prophylactics._ – Appropriate information shall be attached to or provided with every prophylactic offered for sale or given as a donation. Such information shall be legibly printed in English and Filipino, and contain literature on the proper use of the prophylactic device or agent, its efficacy against HIV and STD infection, as well as the importance of sexual abstinence and mutual fidelity.
+
+### Section 11
+
+_Penalties for misleading information._ – Misinformation on HIV/AIDS prevention and control through false and misleading advertising and claims in any of the tri-media or the promotional marketing of drugs, devices, agents or procedures without prior approval from the Department of Health and the Bureau of Food and Drugs and the requisite medical and scientific basis, including markings and indications in drugs and devises or agents, purporting to be a cure or a fail-safe prophylactic for HIV infection is punishable with a penalty of imprisonment for two (2) months to two (2) years, without prejudice to the imposition of administrative sanctions such as fines and suspension or revocation of professional or business license.
 
 ## ARTICLE II — SAFE PRACTICES AND PROCEDURES
 
@@ -120,11 +140,15 @@ All teachers and instructors of said HIV/AIDS courses shall be required to under
 
 _Requirement on the donation of blood, tissue, or organ._ – No laboratory or institution shall accept a donation of tissue or organ, whether such donation is gratuitous or onerous, unless a sample from the donor has been tested negative for HIV. All donated blood shall also be subjected to HIV testing and HIV(+) blood shall be disposed of properly and immediately. A second testing may be demanded as a matter of right by the blood, tissue, or organ recipient or his immediate relatives before transfusion or transplant, except during emergency cases: Provided, That donations of blood, tissue, or organ testing positive for HIV may be accepted for research purposes only, and subject to strict sanitary disposal requirements.
 
-**Section 13._Guidelines on surgical and similar procedures._** – The Department of Health (DOH), in consultation and in coordination with concerned professional organizations and hospital associations, shall issue guidelines on precautions against HIV transmission during surgical, dental, embalming, tattooing or similar procedures. The DOH shall likewise issue guidelines on the handling and disposition of cadavers, body fluids or wastes of persons known or believed to be HIV-positive.
+### Section 13
+
+_Guidelines on surgical and similar procedures._ – The Department of Health (DOH), in consultation and in coordination with concerned professional organizations and hospital associations, shall issue guidelines on precautions against HIV transmission during surgical, dental, embalming, tattooing or similar procedures. The DOH shall likewise issue guidelines on the handling and disposition of cadavers, body fluids or wastes of persons known or believed to be HIV-positive.
 
 The necessary protective equipment such as gloves, goggles and gowns, shall be made available to all physicians and health care providers and similarly exposed personnel at all times.
 
-**Section 14._Penalties for unsafe practices and procedures._** – Any person who knowingly or negligently causes another to get infected with HIV in the course of the practice of his/her profession through unsafe and unsanitary practice or procedure is liable to suffer a penalty of imprisonment for six (6) years to twelve (12) years, without prejudice to the imposition of administrative sanctions such as, but not limited to, fines and suspension or revocation of the license to practice his/her profession. The permit or license of any business entity and the accreditation of hospitals, laboratory, or clinics may be cancelled or withdrawn if said establishments fail to maintain such safe practices and procedures as may be required by the guidelines to be formulated in compliance with Sec. 13 of this Act.
+### Section 14
+
+_Penalties for unsafe practices and procedures._ – Any person who knowingly or negligently causes another to get infected with HIV in the course of the practice of his/her profession through unsafe and unsanitary practice or procedure is liable to suffer a penalty of imprisonment for six (6) years to twelve (12) years, without prejudice to the imposition of administrative sanctions such as, but not limited to, fines and suspension or revocation of the license to practice his/her profession. The permit or license of any business entity and the accreditation of hospitals, laboratory, or clinics may be cancelled or withdrawn if said establishments fail to maintain such safe practices and procedures as may be required by the guidelines to be formulated in compliance with Sec. 13 of this Act.
 
 ## ARTICLE III — TESTING, SCREENING AND COUNSELLING
 
@@ -138,9 +162,13 @@ _Consent as a requisite for HIV testing._ – No compulsory HIV testing shall be
 
 (c) a donation is executed in accordance with Sec. 4 of Republic Act No. 7170.
 
-**Section 16._Prohibitions on compulsory HIV testing._** – Compulsory HIV testing as a precondition to employment, admission to educational institutions, the exercise of freedom of abode, entry or continued stay in the country, or the right to travel, the provision of medical service or any other kind of service, or the continued enjoyment of said undertakings shall be deemed unlawful.
+### Section 16
 
-**Section 17._Exception to the prohibition on compulsory testing._** – Compulsory HIV testing may be allowed only in the following instances:
+_Prohibitions on compulsory HIV testing._ – Compulsory HIV testing as a precondition to employment, admission to educational institutions, the exercise of freedom of abode, entry or continued stay in the country, or the right to travel, the provision of medical service or any other kind of service, or the continued enjoyment of said undertakings shall be deemed unlawful.
+
+### Section 17
+
+_Exception to the prohibition on compulsory testing._ – Compulsory HIV testing may be allowed only in the following instances:
 
 a) When a person is charged with any of the crimes punishable under Articles 264 and 266 as amended by Republic Act No. 8353, 335 and 338 of Republic Act No. 3815, otherwise known as the _"Revised Penal Code"_ or under Republic Act No. 7659;
 
@@ -148,13 +176,21 @@ b) When the determination of the HIV status is necessary to resolve the relevant
 
 c) When complying with the provisions of Republic Act No. 7170, otherwise known as the _"Organ Donation Act"_ and Republic Act No. 7719, otherwise known as the _"National Blood Services Act"._
 
-**Section 18._Anonymous HIV testing._** – The State shall provide a mechanism for anonymous HIV testing and shall guarantee anonymity and medical confidentiality in the conduct of such tests.
+### Section 18
 
-**Section 19._Accreditation of HIV Testing Centers._** – All testing centers, hospitals, clinics, and laboratories offering HIV testing services are mandated to seek accreditation from the Department of Health which shall set and maintain reasonable accreditation standards.
+_Anonymous HIV testing._ – The State shall provide a mechanism for anonymous HIV testing and shall guarantee anonymity and medical confidentiality in the conduct of such tests.
 
-**Section 20._Pre-test and post-test counselling._** – All testing centers, clinics, or laboratories which perform any HIV test shall be required to provide and conduct free pre-test counselling and post-test counselling for persons who avail of their HIV/AIDS testing services. However, such counselling services must be provided only by persons who meet the standards set by the DOH.
+### Section 19
 
-**Section 21._Support for HIV Testing Centers._** – The Department of Health shall strategically build and enhance the capabilities for HIV testing of hospitals, clinics, laboratories, and other testing centers primarily, by ensuring the training of competent personnel who will provide such services in said testing sites.
+_Accreditation of HIV Testing Centers._ – All testing centers, hospitals, clinics, and laboratories offering HIV testing services are mandated to seek accreditation from the Department of Health which shall set and maintain reasonable accreditation standards.
+
+### Section 20
+
+_Pre-test and post-test counselling._ – All testing centers, clinics, or laboratories which perform any HIV test shall be required to provide and conduct free pre-test counselling and post-test counselling for persons who avail of their HIV/AIDS testing services. However, such counselling services must be provided only by persons who meet the standards set by the DOH.
+
+### Section 21
+
+_Support for HIV Testing Centers._ – The Department of Health shall strategically build and enhance the capabilities for HIV testing of hospitals, clinics, laboratories, and other testing centers primarily, by ensuring the training of competent personnel who will provide such services in said testing sites.
 
 ## ARTICLE IV — HEALTH AND SUPPORT SERVICES
 
@@ -162,13 +198,21 @@ c) When complying with the provisions of Republic Act No. 7170, otherwise known 
 
 _Hospital-based services._ – Persons with HIV/AIDS shall be afforded basic health services in all government hospitals, without prejudice to optimum medical care which may be provided by special AIDS wards and hospitals.
 
-**Section 23._Community-based services._** – Local government units, in coordination and in cooperation with concerned government agencies, non-government organizations, persons with HIV/AIDS and groups most at risk of HIV infection shall provide community-based HIV/AIDS prevention and care services.
+### Section 23
 
-**Section 24._Livelihood programs and trainings._** – Trainings for livelihood, self-help cooperative programs shall be made accessible and available to all persons with HIV/AIDS. Persons infected with HIV/AIDS shall not be deprived of full participation in any livelihood, self-help and cooperative programs for reason of their health conditions.
+_Community-based services._ – Local government units, in coordination and in cooperation with concerned government agencies, non-government organizations, persons with HIV/AIDS and groups most at risk of HIV infection shall provide community-based HIV/AIDS prevention and care services.
 
-**Section 25._Control of sexually transmitted diseases._** – The Department of Health, in coordination and in cooperation with concerned government agencies and non-government organizations shall pursue the prevention and control of sexually transmitted diseases to help contain the spread of HIV infection.
+### Section 24
 
-**Section 26._Insurance for persons with HIV._** – The Secretary of Health, in cooperation with the Commissioner of the Insurance Commission and other public and private insurance agencies, shall conduct a study on the feasibility and viability of setting up a package of insurance benefits and, should such study warrant it, implement an insurance coverage program for persons with HIV. The study shall be guided by the principle that access to health insurance is part of an individual's right to health and is the responsibility of the State and of society as a whole.
+_Livelihood programs and trainings._ – Trainings for livelihood, self-help cooperative programs shall be made accessible and available to all persons with HIV/AIDS. Persons infected with HIV/AIDS shall not be deprived of full participation in any livelihood, self-help and cooperative programs for reason of their health conditions.
+
+### Section 25
+
+_Control of sexually transmitted diseases._ – The Department of Health, in coordination and in cooperation with concerned government agencies and non-government organizations shall pursue the prevention and control of sexually transmitted diseases to help contain the spread of HIV infection.
+
+### Section 26
+
+_Insurance for persons with HIV._ – The Secretary of Health, in cooperation with the Commissioner of the Insurance Commission and other public and private insurance agencies, shall conduct a study on the feasibility and viability of setting up a package of insurance benefits and, should such study warrant it, implement an insurance coverage program for persons with HIV. The study shall be guided by the principle that access to health insurance is part of an individual's right to health and is the responsibility of the State and of society as a whole.
 
 ## ARTICLE V — MONITORING
 
@@ -176,15 +220,23 @@ _Hospital-based services._ – Persons with HIV/AIDS shall be afforded basic hea
 
 _Monitoring program._ – A comprehensive HIV/AIDS monitoring program or _"AIDSWATCH"_ shall be established under the Department of Health to determine and monitor the magnitude and progression of HIV infection in the Philippines, and for the purpose of evaluating the adequacy and efficacy of the countermeasures being employed.
 
-**Section 28._Reporting procedures._** – All hospitals, clinics, laboratories, and testing centers for HIV/AIDS shall adopt measures in assuring the reporting and confidentiality of any medical record, personal data, file, including all data which may be accessed from various data banks or information systems. The Department of Health through its AIDSWATCH monitoring program shall receive, collate and evaluate all HIV/AIDS related medical reports. The AIDSWATCH data base shall utilize a coding system that promotes client anonymity.
+### Section 28
 
-**Section 29._Contact tracing._** – HIV/AIDS contact tracing and all other related health intelligence activities may be pursued by the Department of Health:_Provided_ , That these do not run counter to the general purpose of this Act: _Provided, further_ , That any information gathered shall remain confidential and classified, and can only be used for statistical and monitoring purposes and not as basis or qualification for any employment, school attendance, freedom of abode, or travel.
+_Reporting procedures._ – All hospitals, clinics, laboratories, and testing centers for HIV/AIDS shall adopt measures in assuring the reporting and confidentiality of any medical record, personal data, file, including all data which may be accessed from various data banks or information systems. The Department of Health through its AIDSWATCH monitoring program shall receive, collate and evaluate all HIV/AIDS related medical reports. The AIDSWATCH data base shall utilize a coding system that promotes client anonymity.
+
+### Section 29
+
+_Contact tracing._ – HIV/AIDS contact tracing and all other related health intelligence activities may be pursued by the Department of Health:_Provided_ , That these do not run counter to the general purpose of this Act: _Provided, further_ , That any information gathered shall remain confidential and classified, and can only be used for statistical and monitoring purposes and not as basis or qualification for any employment, school attendance, freedom of abode, or travel.
 
 ## ARTICLE VI — CONFIDENTIALITY
 
-Sec. 30._Medical confidentiality._ – All health professionals, medical instructors, workers, employers, recruitment agencies, insurance companies, data encoders, and other custodians of any medical record, file, data, or test results are directed to strictly observe confidentiality in the handling of all medical information, particularly the identity and status of persons with HIV.
+### Sec. 30
 
-**Section 31._Exceptions to the mandate of confidentiality._** – Medical confidentiality shall not be considered breached in the following cases:
+_Medical confidentiality._ – All health professionals, medical instructors, workers, employers, recruitment agencies, insurance companies, data encoders, and other custodians of any medical record, file, data, or test results are directed to strictly observe confidentiality in the handling of all medical information, particularly the identity and status of persons with HIV.
+
+### Section 31
+
+_Exceptions to the mandate of confidentiality._ – Medical confidentiality shall not be considered breached in the following cases:
 
 (a) when complying with reportorial requirements in conjunction with the AIDSWATCH programs provided in Sec. 27 of this Act;
 
@@ -192,7 +244,9 @@ Sec. 30._Medical confidentiality._ – All health professionals, medical instruc
 
 (c) when responding to a subpoena duces tecum and subpoena ad testificandum issued by a Court with jurisdiction over a legal proceeding where the main issue is the HIV status of an individual: _Provided,_ That the confidential medical record shall be properly sealed by its lawful custodian after being double-checked for accuracy by the head of the office or department, hand delivered, and personally opened by the judge: _Provided, further,_ That the judicial proceedings be held in executive session.
 
-**Section 32._Release of HIV/AIDS test results._** – All results of HIV/AIDS testing shall be confidential and shall be released only to the following persons:
+### Section 32
+
+_Release of HIV/AIDS test results._ – All results of HIV/AIDS testing shall be confidential and shall be released only to the following persons:
 
 (a) the person who submitted himself/herself to such test;
 
@@ -204,9 +258,13 @@ Sec. 30._Medical confidentiality._ – All health professionals, medical instruc
 
 (e) a justice of the Court of Appeals or the Supreme Court, as provided under subSec. (c) of this Act and in accordance with the provision of Sec. 16 hereof.
 
-**Section 33._Penalties for violations of confidentiality._** – Any violation of medical confidentiality as provided in Sec.s 30 and 32 of this Act shall suffer the penalty of imprisonment for six (6) months to four (4) years, without prejudice to administrative sanctions such as fines and suspension or revocation of the violator's license to practice his/her profession, as well as the cancellation or withdrawal of the license to operate any business entity and the accreditation of hospitals, laboratories or clinics.
+### Section 33
 
-**Section 34._Disclosure to sexual partners._** – Any person with HIV is obliged to disclose his/her HIV status and health condition to his/her spouse or sexual partner at the earliest opportune time.
+_Penalties for violations of confidentiality._ – Any violation of medical confidentiality as provided in Sec.s 30 and 32 of this Act shall suffer the penalty of imprisonment for six (6) months to four (4) years, without prejudice to administrative sanctions such as fines and suspension or revocation of the violator's license to practice his/her profession, as well as the cancellation or withdrawal of the license to operate any business entity and the accreditation of hospitals, laboratories or clinics.
+
+### Section 34
+
+_Disclosure to sexual partners._ – Any person with HIV is obliged to disclose his/her HIV status and health condition to his/her spouse or sexual partner at the earliest opportune time.
 
 ## ARTICLE VII — DISCRIMINATORY ACTS AND POLICIES
 
@@ -214,19 +272,33 @@ Sec. 30._Medical confidentiality._ – All health professionals, medical instruc
 
 _Discrimination in the workplace._ – Discrimination in any form from pre-employment to post-employment, including hiring, promotion or assignment, based on the actual, perceived or suspected HIV status of an individual is prohibited. Termination from work on the sole basis of actual, perceived or suspected HIV status is deemed unlawful.
 
-**Section 36._Discrimination in schools._** – No educational institution shall refuse admission or expel, discipline, segregate, deny participation, benefits or services to a student or prospective student on the basis of his/her actual, perceived or suspected HIV status.
+### Section 36
 
-**Section 37._Restrictions on travel and habitation._** – The freedom of abode, lodging and travel of a person with HIV shall not be abridged. No person shall be quarantined, placed in isolation, or refused lawful entry into or deported from Philippine territory on account of his/her actual, perceived or suspected HIV status.
+_Discrimination in schools._ – No educational institution shall refuse admission or expel, discipline, segregate, deny participation, benefits or services to a student or prospective student on the basis of his/her actual, perceived or suspected HIV status.
 
-**Section 38._Inhibition from public service._** – The right to seek an elective or appointive public office shall not be denied to a person with HIV.
+### Section 37
 
-**Section 39._Exclusion from credit and insurance services._** – All credit and loan services, including health, accident and life insurance shall not be denied to a person on the basis of his/her actual, perceived or suspected HIV status: Provided, That the person with HIV has not concealed or misrepresented the fact to the insurance company upon application. Extension and continuation of credit and loan shall likewise not be denied solely on the basis of said health condition.
+_Restrictions on travel and habitation._ – The freedom of abode, lodging and travel of a person with HIV shall not be abridged. No person shall be quarantined, placed in isolation, or refused lawful entry into or deported from Philippine territory on account of his/her actual, perceived or suspected HIV status.
 
-**Section 40._Discrimination in hospitals and health institutions._** – No person shall be denied health care service or be charged with a higher fee on account of actual, perceived or suspected HIV status.
+### Section 38
 
-**Section 41._Denial of burial services._** – A deceased person who had AIDS or who was known, suspected or perceived to be HIV-positive shall not be denied any kind of decent burial services.
+_Inhibition from public service._ – The right to seek an elective or appointive public office shall not be denied to a person with HIV.
 
-**Section 42._Penalties for discriminatory acts and policies._** – All discriminatory acts and policies referred to in this Act shall be punishable with a penalty of imprisonment for six (6) months to four (4) years and a fine not exceeding Ten thousand pesos (P10,000.00). In addition, licenses/permits of schools, hospitals and other institutions found guilty of committing discriminatory acts and policies described in this Act shall be revoked.
+### Section 39
+
+_Exclusion from credit and insurance services._ – All credit and loan services, including health, accident and life insurance shall not be denied to a person on the basis of his/her actual, perceived or suspected HIV status: Provided, That the person with HIV has not concealed or misrepresented the fact to the insurance company upon application. Extension and continuation of credit and loan shall likewise not be denied solely on the basis of said health condition.
+
+### Section 40
+
+_Discrimination in hospitals and health institutions._ – No person shall be denied health care service or be charged with a higher fee on account of actual, perceived or suspected HIV status.
+
+### Section 41
+
+_Denial of burial services._ – A deceased person who had AIDS or who was known, suspected or perceived to be HIV-positive shall not be denied any kind of decent burial services.
+
+### Section 42
+
+_Penalties for discriminatory acts and policies._ – All discriminatory acts and policies referred to in this Act shall be punishable with a penalty of imprisonment for six (6) months to four (4) years and a fine not exceeding Ten thousand pesos (P10,000.00). In addition, licenses/permits of schools, hospitals and other institutions found guilty of committing discriminatory acts and policies described in this Act shall be revoked.
 
 ## ARTICLE VIII — THE PHILIPPINE NATIONAL AIDS COUNCIL
 
@@ -234,7 +306,9 @@ _Discrimination in the workplace._ – Discrimination in any form from pre-emplo
 
 _Establishment._ – The Philippine National AIDS Council (PNAC) created by virtue of Executive Order No. 39 dated 3 December 1992 shall be reconstituted and strengthened to enable the Council to oversee an integrated and comprehensive approach to HIV/AIDS prevention and control in the Philippines. It shall be attached to the Department of Health.
 
-**Section 44._Functions._** – The Council shall be the central advisory, planning and policy-making body for the comprehensive and integrated HIV/AIDS prevention and control program in the Philippines. The Council shall perform the following functions:
+### Section 44
+
+_Functions._ – The Council shall be the central advisory, planning and policy-making body for the comprehensive and integrated HIV/AIDS prevention and control program in the Philippines. The Council shall perform the following functions:
 
 (a) Secure from government agencies concerned recommendations on how their respective agencies could operationalize specific provisions of this Act. The Council shall integrate and coordinate such recommendations and issue implementing rules and regulations of this Act. The Council shall likewise ensure that there is adequate coverage of the following:
 
@@ -262,7 +336,9 @@ _Establishment._ – The Philippine National AIDS Council (PNAC) created by virt
 
 (f) Evaluate the adequacy of and make recommendations regarding the utilization of national resources for the prevention and control of HIV/AIDS in the Philippines.
 
-**Section 45._Membership and composition._** – (a) The Council shall be composed of twenty-six (26) members as follows:
+### Section 45
+
+_Membership and composition._ – (a) The Council shall be composed of twenty-six (26) members as follows:
 
 (1) The Secretary of the Department of Health;
 
@@ -313,11 +389,17 @@ _Establishment._ – The Philippine National AIDS Council (PNAC) created by virt
 
 (f) For members representing medical/health professional groups and the six (6) non-government organizations, they shall serve for a term of two (2) years, renewable upon recommendation of the Council.
 
-**Section 46._Reports._** – The Council shall submit to the President and to both Houses of Congress comprehensive annual reports on the activities and accomplishments of the Council. Such annual reports shall contain assessments and evaluation of intervention programs, plans and strategies for the medium- and long-term prevention and control program on HIV/AIDS in the Philippines.
+### Section 46
 
-**Section 47._Creation of Special HIV/AIDS Prevention and Control Service._** – There shall be created in the Department of Health a Special HIV/AIDS Prevention and Control Service staffed by qualified medical specialists and support staff with permanent appointment and supported with an adequate yearly budget. It shall implement programs on HIV/AIDS prevention and control. In addition, it shall also serve as the secretariat of the Council.
+_Reports._ – The Council shall submit to the President and to both Houses of Congress comprehensive annual reports on the activities and accomplishments of the Council. Such annual reports shall contain assessments and evaluation of intervention programs, plans and strategies for the medium- and long-term prevention and control program on HIV/AIDS in the Philippines.
 
-**Section 48._Appropriations._** – The amount of Twenty million pesos (P20,000,000.00) shall be initially appropriated out of the funds of the National Treasury. Subsequent appropriations shall be provided by Congress in the annual budget of the Department of Health under the General Appropriations Act.
+### Section 47
+
+_Creation of Special HIV/AIDS Prevention and Control Service._ – There shall be created in the Department of Health a Special HIV/AIDS Prevention and Control Service staffed by qualified medical specialists and support staff with permanent appointment and supported with an adequate yearly budget. It shall implement programs on HIV/AIDS prevention and control. In addition, it shall also serve as the secretariat of the Council.
+
+### Section 48
+
+_Appropriations._ – The amount of Twenty million pesos (P20,000,000.00) shall be initially appropriated out of the funds of the National Treasury. Subsequent appropriations shall be provided by Congress in the annual budget of the Department of Health under the General Appropriations Act.
 
 ## ARTICLE IX — MISCELLANEOUS PROVISIONS
 
@@ -325,10 +407,16 @@ _Establishment._ – The Philippine National AIDS Council (PNAC) created by virt
 
 _Implementing rules and regulations._ – Within six (6) months after it is fully reconstituted, the Council shall formulate and issue the appropriate rules and regulations necessary for the implementation of this Act.
 
-**Section 50._Separability clause._** – If any provision of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+### Section 50
 
-**Section 51._Repealing clause._** – All laws, presidential decrees, executive orders and their implementing rules inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+_Separability clause._ – If any provision of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
-**Section 52._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+### Section 51
+
+_Repealing clause._ – All laws, presidential decrees, executive orders and their implementing rules inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+### Section 52
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
 
 _Approved:_ **February 13, 1998**

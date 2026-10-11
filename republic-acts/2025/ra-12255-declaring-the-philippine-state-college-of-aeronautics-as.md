@@ -33,7 +33,7 @@ _Short Title._ \- This Act shall be known as the "National Aviation Academy of t
 
 _Declaration of Policy._ \- The State shall promote quality and accessible education relevant to the changing needs of the people and society. It shall establish, maintain, and support a complete, adequate, and integrated aviation education and training system by strengthening the curricula of various aviation and other related courses consistent with international standards on aviation learning.
 
-To this end, the National Aviation Academy of the Philippines, the leading higher education institution for aviation studies, is hereby declared the national professional institution for aviation.ℒαwρhi৷
+To this end, the National Aviation Academy of the Philippines, the leading higher education institution for aviation studies, is hereby declared the national professional institution for aviation.
 
 ### Section 3
 

@@ -29,7 +29,7 @@ Barrios Abat, Agmanaphao, Amiroy, Badiangan, Bangac, Cabalabaguan, Capul-an, Dal
 
 ## Section 2
 
-The first mayor, vice-mayor and councilors of the new municipality shall be elected in a special election to be held simultaneously with the general elections of nineteen hundred and sixty-nine: _Provided,_ That in said election of the first officials, the corresponding officials of the mother municipality shall perform the election duties prescribed or provided by the Revised Election Code.1avvphi1
+The first mayor, vice-mayor and councilors of the new municipality shall be elected in a special election to be held simultaneously with the general elections of nineteen hundred and sixty-nine: _Provided,_ That in said election of the first officials, the corresponding officials of the mother municipality shall perform the election duties prescribed or provided by the Revised Election Code.
 
 ## Section 3
 

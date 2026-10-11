@@ -65,10 +65,16 @@ Article 136 of the Revised Penal Code is hereby amended to read as follows:
 
 "The conspiracy and proposal to commit rebellion or insurrection shall be punished, respectively, by prision correccional in its maximum period and a fine which shall not exceed five thousand pesos (P5,000.00), and by prision correccional in its medium period and a fine not exceeding two thousand pesos (P2,000.00)."
 
-**Section 6._Repealing Clause._** – All laws, executive orders, rules and regulations, or any part thereof inconsistent herewith are deemed repealed or modified accordingly.
+## Section 6
 
-**Section 7._Separability Clause._** – If for any reason, any section or provision of this Act, or any part thereof, or the application of such section, provision, or portion is declared invalid or unconstitutional, the remainder thereof shall not be effected by such declaration.
+_Repealing Clause._ – All laws, executive orders, rules and regulations, or any part thereof inconsistent herewith are deemed repealed or modified accordingly.
 
-**Section 8._Effectivity._** – This Act shall take effect upon its approval and publication in at least two (2) newspapers of general circulation.
+## Section 7
+
+_Separability Clause._ – If for any reason, any section or provision of this Act, or any part thereof, or the application of such section, provision, or portion is declared invalid or unconstitutional, the remainder thereof shall not be effected by such declaration.
+
+## Section 8
+
+_Effectivity._ – This Act shall take effect upon its approval and publication in at least two (2) newspapers of general circulation.
 
 Approved: **October 24, 1990**

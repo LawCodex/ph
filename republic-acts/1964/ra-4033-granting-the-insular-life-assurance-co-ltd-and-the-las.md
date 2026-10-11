@@ -29,7 +29,7 @@ There is hereby granted to the Insular Life Assurance Co., Ltd., and the Las Are
 
 ## Section 2
 
-This permit shall continue to be in force until such time as the Government has not established similar and identical services at the places selected by the grantees.1âшphi1 This permit shall be null and void unless the construction of at least one of the stations allowed by this permit is begun within one year from the date of the approval of this Act, and completed within two years from said date, unless the grantees are prevented from establishing such service by force majeure or other reasonable cause, as may be determined by the Secretary of Public Works and Communications.
+This permit shall continue to be in force until such time as the Government has not established similar and identical services at the places selected by the grantees. This permit shall be null and void unless the construction of at least one of the stations allowed by this permit is begun within one year from the date of the approval of this Act, and completed within two years from said date, unless the grantees are prevented from establishing such service by force majeure or other reasonable cause, as may be determined by the Secretary of Public Works and Communications.
 
 ## Section 3
 

@@ -58,7 +58,7 @@ Class Salary Range
 | Senior Dentist | R-42 | |
 | Dentist I | R-40 | |
 
-_Provided,_ That the salary range of each of the above-enumerated positions shall be subject to such classification and salary range allocation as may be necessary when the provisions of Republic Act No. 4657 increasing, among others, the minimum annual compensation of Dentists em­ployed by the government on full time basis shall have been implemented.1âшphi1
+_Provided,_ That the salary range of each of the above-enumerated positions shall be subject to such classification and salary range allocation as may be necessary when the provisions of Republic Act No. 4657 increasing, among others, the minimum annual compensation of Dentists em­ployed by the government on full time basis shall have been implemented.
 
 ## Section 5
 

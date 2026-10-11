@@ -60,7 +60,7 @@ The President of the Philippines may, upon recommendation of the Department of F
 
 ## Section 4
 
-All acts, executive orders or parts thereof in conflict with the provisions of this Act are repealed.1a⍵⍴h!1
+All acts, executive orders or parts thereof in conflict with the provisions of this Act are repealed.
 
 ## Section 5
 

@@ -24,7 +24,7 @@ Be enacted by the Senate and House of Representatives of the Philippines in Cong
 
 ## Section 1
 
-All indebtedness incurred by provincial, city or municipal governments for the purpose of constructing government buildings, waterworks systems, markets and any other public edifices which were subsequently destroyed during the last world war and for which destructions no war damage payments were received by said local governments are hereby condoned by the National Government and if the provincial, city or municipal governments incurred said indebtedness from any bank, the same shall be assumed by the National Government.1a⍵⍴h!1
+All indebtedness incurred by provincial, city or municipal governments for the purpose of constructing government buildings, waterworks systems, markets and any other public edifices which were subsequently destroyed during the last world war and for which destructions no war damage payments were received by said local governments are hereby condoned by the National Government and if the provincial, city or municipal governments incurred said indebtedness from any bank, the same shall be assumed by the National Government.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby established in Sapang Palay, Municipality of San Jose del Monte, Province of Bulacan, a national center to study and devise solutions to the problems of urban squatting and/or for the training, relocation and rehabilitation of urban squatters.1avvphi1
+There is hereby established in Sapang Palay, Municipality of San Jose del Monte, Province of Bulacan, a national center to study and devise solutions to the problems of urban squatting and/or for the training, relocation and rehabilitation of urban squatters.
 
 ## Section 2
 

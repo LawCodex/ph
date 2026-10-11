@@ -33,7 +33,7 @@ March four is the Foundation Day of the City of Puerto Princesa, Province of Pal
 
 ## Section 2
 
-March four is hereby declared a special nonworking holiday in the City of Puerto Princesa, Province of Palawan.1a⍵⍴h!1
+March four is hereby declared a special nonworking holiday in the City of Puerto Princesa, Province of Palawan.
 
 ## Section 3
 

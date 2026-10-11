@@ -28,7 +28,7 @@ The barrios of Capariaan, Biding, Escoda, Culao, Alabaan, Ragas and Agunit in th
 
 On the Northwest, by the barrios Biding-Rangay boundary going down to the barrios Capariaan-Gabon boundary consisting of foot path and feeder road; on the Northeast, by the Burnay River which is the common boundary of barrios Agunit and Naglayaan; on the East, by the Ilocos Norte-Mt. Province boundary; on the South, by the Padsan River which is at the same time the boundary between the municipalities of Banna and Dingras; on the West and Southwest, by the boundary between the municipalities of Batac and Dingras.
 
-The Municipality of Marcos shall have its seat of government in the barrio of Biding.1âшphi1
+The Municipality of Marcos shall have its seat of government in the barrio of Biding.
 
 ## Section 2
 

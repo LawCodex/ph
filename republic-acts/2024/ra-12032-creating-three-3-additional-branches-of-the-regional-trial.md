@@ -34,7 +34,7 @@ Three (3) additional branches of the Regional Trial Court (RTC) and two (2) addi
 
 (c) One (1) branch of the MTC in the Municipality of Basilisa.
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC and the MTC.ℒαwρhi৷
+The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC and the MTC.
 
 The existing Municipal Circuit Trial Court (MCTC) of San Jose-Dinagat-Basilisa-Cagdianao (Rizal) stationed in San Jose shall be decircuitized. The decircuitized MCTC shall be denominated as MCTC Dinagat-Cagdianao.
 

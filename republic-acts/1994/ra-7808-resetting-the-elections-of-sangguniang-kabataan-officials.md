@@ -39,7 +39,7 @@ Section 532 (a) of Republic Act No. 7160, otherwise known as the Local Governmen
 
 ## Section 2
 
-All laws, decrees, orders or administrative rules and regulations or any part thereof which may be inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.1a⍵⍴h!1
+All laws, decrees, orders or administrative rules and regulations or any part thereof which may be inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 3
 

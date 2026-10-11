@@ -28,7 +28,7 @@ The Albay Trade School is converted into a regional school of arts and trades of
 
 ## Section 2
 
-The sum of two hundred thousand pesos, or so much thereof as may be necessary, is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Bicol Regional School of Arts and Trades during the school year 1954-1955. Such sums as thereafter may be needed for the same purpose shall be included in the annual General Appropriation Act.1âшphi1
+The sum of two hundred thousand pesos, or so much thereof as may be necessary, is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Bicol Regional School of Arts and Trades during the school year 1954-1955. Such sums as thereafter may be needed for the same purpose shall be included in the annual General Appropriation Act.
 
 ## Section 3
 

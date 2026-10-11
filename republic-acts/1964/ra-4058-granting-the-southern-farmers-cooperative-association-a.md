@@ -51,7 +51,7 @@ The rights herein granted shall not be exclusive, and the right and power of the
 
 ## Section 7
 
-The grantee, its successors or assigns, shall hold the national, provincial and municipal governments, harmless from all claims, accounts, demands, or actions arising out of accidents and/or injuries, whether to property or to persons, caused by the construction, maintenance, and/or operation of the electric heat, light and/or power system of the grantee, its successors or assigns: _Provided,_ That such accident or injury occurred without contributory negligence, fault, misfeasance or malfeasance on the part of the duly constituted authorities, agents or representatives of the national, provincial or municipal governments, in which case, the National Government or provincial or municipal governments shall bear the proportionate damages or costs resulting therefrom.1âшphi1
+The grantee, its successors or assigns, shall hold the national, provincial and municipal governments, harmless from all claims, accounts, demands, or actions arising out of accidents and/or injuries, whether to property or to persons, caused by the construction, maintenance, and/or operation of the electric heat, light and/or power system of the grantee, its successors or assigns: _Provided,_ That such accident or injury occurred without contributory negligence, fault, misfeasance or malfeasance on the part of the duly constituted authorities, agents or representatives of the national, provincial or municipal governments, in which case, the National Government or provincial or municipal governments shall bear the proportionate damages or costs resulting therefrom.
 
 ## Section 8
 

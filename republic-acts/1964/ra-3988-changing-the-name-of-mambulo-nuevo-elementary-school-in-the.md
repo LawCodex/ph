@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Mambulo Nuevo Elementary School in the Municipality of Libmanan, Province of Camarines Sur, is hereby changed to San Antonio Elementary School.1âшphi1
+The name of Mambulo Nuevo Elementary School in the Municipality of Libmanan, Province of Camarines Sur, is hereby changed to San Antonio Elementary School.
 
 ## Section 2
 

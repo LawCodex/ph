@@ -28,7 +28,7 @@ There are hereby created two positions of labor inspector for the Province of Ca
 
 ## Section 2
 
-No person shall be eligible for appointment as labor inspector for the Province of Cagayan unless he is a member of the Philippine Bar.1âшphi1
+No person shall be eligible for appointment as labor inspector for the Province of Cagayan unless he is a member of the Philippine Bar.
 
 ## Section 3
 

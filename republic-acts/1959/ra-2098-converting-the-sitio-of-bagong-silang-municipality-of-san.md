@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Bagong Silang, Municipality of San Miguel, Province of Bulacan, is converted into a barrio of said municipality, to be known as the barrio of Bagong Silang.1aшphi1
+The sitio of Bagong Silang, Municipality of San Miguel, Province of Bulacan, is converted into a barrio of said municipality, to be known as the barrio of Bagong Silang.
 
 ## Section 2
 

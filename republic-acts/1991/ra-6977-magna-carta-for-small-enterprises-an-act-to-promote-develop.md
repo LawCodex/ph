@@ -31,7 +31,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I
 
-**Section 1._Title._** — This Act shall be known as the **"_Magna Carta for Small Enterprises._ "**
+### Section 1
+
+_Title._ — This Act shall be known as the **"_Magna Carta for Small Enterprises._ "**
 
 ### Sec. 2
 
@@ -57,7 +59,9 @@ _Declaration of Policy._ — recognizing that small and medium scale enterprises
 
 (l) by assuring a balanced and sustainable development through the establishment of a feedback and evaluation mechanism that will monitor the economic contributions as well as bottlenecks and environmental effects of the development of small and medium scale enterprises.
 
-**Sec. 3._Small and Medium Enterprises as Beneficiaries._** — "Small and medium enterprise" shall be defined as any business activity or enterprise engaged in industry, agri-business and/or services, whether single proprietorship, cooperative, partnership or corporation whose total assets, inclusive of those arising from loans but exclusive of the land on which the particular business entity's office, plant and equipment are situated, must have value falling under the following categories;
+### Sec. 3
+
+_Small and Medium Enterprises as Beneficiaries._ — "Small and medium enterprise" shall be defined as any business activity or enterprise engaged in industry, agri-business and/or services, whether single proprietorship, cooperative, partnership or corporation whose total assets, inclusive of those arising from loans but exclusive of the land on which the particular business entity's office, plant and equipment are situated, must have value falling under the following categories;
 
 micro: less than P50,000
 
@@ -71,7 +75,9 @@ In a generic sense, all enterprises with total assets of Five million pesos (P5,
 
 The above definitions shall be subject to review and adjustment by the said Council as deemed necessary, taking into account inflation and other economic factors.
 
-**Sec. 4._Eligibility for Government Assistance._** — To qualify for assistance, counseling, incentives and promotions under this Act, business falling under the above, definition must be;
+### Sec. 4
+
+_Eligibility for Government Assistance._ — To qualify for assistance, counseling, incentives and promotions under this Act, business falling under the above, definition must be;
 
 (a) duly registered with the appropriate agencies as, presently provided by law: Provided, That, in the case of micro enterprises as defined herein, registration with the office of the municipal or city treasurer shall be deemed sufficient compliance with this requirement;
 
@@ -87,7 +93,9 @@ Programs of the financing corporation as provided in subsequent Sections of this
 
 Medium enterprises, however, shall be entitled to avail of the other incentives, programs and services as provided for in this Act.
 
-**Sec. 5._Guiding Principles._** — To set the pace for small and medium enterprise development, the State shall be guided by the following principles:
+### Sec. 5
+
+_Guiding Principles._ — To set the pace for small and medium enterprise development, the State shall be guided by the following principles:
 
 (a) Minimal set of rules and simplification of procedures and requirements. All government agencies having to do with small enterprises shall pursue the principles of minimum regulation to ensure stability of rules and to encourage entrepreneurial spirit among the citizenry. The agencies shall see to it that procedural rules and requirements, within their respective offices and in coordination with other agencies, are minimized in the act of registration, availment of financing and accessing other government services and assistance.
 
@@ -105,7 +113,9 @@ _Creation of a Small and Medium Enterprise Development Council._ — To effectiv
 
 The Council shall be the primary agency responsible for the promotion, growth and development of small and medium enterprises in the country by way of facilitating and closely coordinating national efforts to promote the viability and growth of small and medium enterprises, including assisting relevant agencies in the tapping of local and foreign funds for small and medium enterprise development, as well as promoting the use of existing guarantee programs.
 
-**Sec. 7._Composition._** — The Council shall be headed by the Secretary of Trade and Industry as Chairman. The members shall be the following:
+### Sec. 7
+
+_Composition._ — The Council shall be headed by the Secretary of Trade and Industry as Chairman. The members shall be the following:
 
 (a) Director General of the National Economic and Development Authority;
 
@@ -131,7 +141,9 @@ The Department of Trade and Industry shall allocate Five million pesos (P5,000,0
 
 The council may, from time to time, call upon the participation of any government agency or association of local government officials in its deliberation especially when such agency is directly or indirectly concerned with and/or affecting the growth and development of small and medium enterprises in any particular area or manner.
 
-**Sec. 8._Powers and Functions._** — The Small and Medium Enterprise Development (SMED) Council shall have the following powers, duties and functions:
+### Sec. 8
+
+_Powers and Functions._ — The Small and Medium Enterprise Development (SMED) Council shall have the following powers, duties and functions:
 
 (a) to help establish the needed environment and opportunities conducive to the growth and development of the small and medium sector;
 
@@ -181,7 +193,9 @@ The council may, from time to time, call upon the participation of any governmen
 
 (l) generally, to exercise all powers and functions necessary for the objectives and purposes of this Act.
 
-**Sec. 9._Designation of the Bureau of Small and Medium Business Development as Council Secretariat._** — The Bureau of Small and Medium Business Development of the Department of Trade and Industry, in addition to its current activities and functions, is hereby designated to act as the Council Secretariat. The Secretariat shall have the following duties and functions:
+### Sec. 9
+
+_Designation of the Bureau of Small and Medium Business Development as Council Secretariat._ — The Bureau of Small and Medium Business Development of the Department of Trade and Industry, in addition to its current activities and functions, is hereby designated to act as the Council Secretariat. The Secretariat shall have the following duties and functions:
 
 (1) to prepare, in coordination with local government units and/or associations of local government officials, and recommend annual as well as medium-term small and medium enterprise development plans for approval of the Council;
 
@@ -203,7 +217,9 @@ _Rationalization of Existing Small and Medium Enterprise Programs and Agencies._
 
 The President is hereby also empowered to establish a small and medium enterprise promotion body which shall be the principal government agency that will formulate, implement, coordinate and monitor all non-financing government programs, including fee-based services, to support and promote micro, small and medium enterprises. It shall be attached to the Department of Trade and Industry and shall be under the policy, program and administrative supervision of the SMED Council. The said offices shall receive no less than fifty percent (50%) of the assets, and budgetary allocations of the agencies for promotion, development and financing of small and medium enterprises that may be henceforth dissolved and/or abolished and absorbed, incorporated and integrated into the SMED Council.
 
-**Sec. 11._Creation of Small Business Guarantee and Finance Corporation._** — There is hereby created a body corporate to be known as the Small Business Guarantee and Finance Corporation, hereinafter referred to as SBGFC, which shall provide, promote, develop and widen in both scope and service reach various alternative modes of financing for small enterprises, including, but not limited to, direct and indirect project lending, venture capital, financial leasing, secondary mortgage and/or rediscounting of loan papers to small businesses secondary/regional stock markets: Provided, that crop production financing shall not be serviced by the Corporation.
+### Sec. 11
+
+_Creation of Small Business Guarantee and Finance Corporation._ — There is hereby created a body corporate to be known as the Small Business Guarantee and Finance Corporation, hereinafter referred to as SBGFC, which shall provide, promote, develop and widen in both scope and service reach various alternative modes of financing for small enterprises, including, but not limited to, direct and indirect project lending, venture capital, financial leasing, secondary mortgage and/or rediscounting of loan papers to small businesses secondary/regional stock markets: Provided, that crop production financing shall not be serviced by the Corporation.
 
 The Corporation shall guarantee loans obtained by qualified small enterprises, local and/or regional associations small enterprises and industries, private voluntary organizations and/or cooperatives, under such terms and conditions adopted by its Board. It may guarantee loans up to one hundred percent (100%). It may also provided second level guarantee (i.e., re-insurance) on the credit and/or investment guarantees made by credit guarantee associations and other institutions in support of small entrepreneurs.
 
@@ -225,9 +241,13 @@ The Small Business Guarantee and Finance Corporation shall:
 
 (3) a representative of the five (5) government financial institutions mandated in this Act to provide the initial capital of the Corporation, who shall be designated, under guidelines agreed upon by the Board Chairman of said institutions.
 
-**Sec. 12._Capitalization and Funding._ **— The Small Business Guarantee and Finance Corporation shall have an authorized capital stock of Five billion pesos (P5,000,000,000.00. The initial capital of One billion pesos (P1,000,000,000.00) shall be established from a pool of funds to be contributed in the form of equity investments in common stock by the Land Bank of the Philippines (LBP), the Philippines National Bank (PNB), the Development Bank of the Philippines (DBP) in the amount of Two hundred million pesos (P200,000,000.00) each. The Social Security System (SSS) and the Government Service Insurance System (GSIS) shall also set aside Two hundred million pesos (200,000,000.00) each to be placed in preferred stocks of the SBGFC. Additional funding shall come from trust placements of excess and unused funds of existing government agencies, bilateral and multilateral official development assistance funds, subscription from government-owned or controlled corporations, and investments of private financial institutions and corporations.
+### Sec. 12
 
-**Sec. 13._Mandatory Allocation of Credit Resources to Small Enterprises._** — All lending institutions as defined under Central Bank rules, whether public or private, shall, set aside a portion of their total loan portfolio based on their balance sheet as of the end of the previous quarter, and make it available for small enterprise credit as herein contemplated. The portion mandated to be so set aside shall at least be, five per cent (5%) by the end of the year of the effectivity of this Act, ten percent (10%) by the end of the second year through the end of the fifth year, and five percent (5%) by the end of sixth year and may come down to zero by the end of the seventh year.
+_Capitalization and Funding._ — The Small Business Guarantee and Finance Corporation shall have an authorized capital stock of Five billion pesos (P5,000,000,000.00. The initial capital of One billion pesos (P1,000,000,000.00) shall be established from a pool of funds to be contributed in the form of equity investments in common stock by the Land Bank of the Philippines (LBP), the Philippines National Bank (PNB), the Development Bank of the Philippines (DBP) in the amount of Two hundred million pesos (P200,000,000.00) each. The Social Security System (SSS) and the Government Service Insurance System (GSIS) shall also set aside Two hundred million pesos (200,000,000.00) each to be placed in preferred stocks of the SBGFC. Additional funding shall come from trust placements of excess and unused funds of existing government agencies, bilateral and multilateral official development assistance funds, subscription from government-owned or controlled corporations, and investments of private financial institutions and corporations.
+
+### Sec. 13
+
+_Mandatory Allocation of Credit Resources to Small Enterprises._ — All lending institutions as defined under Central Bank rules, whether public or private, shall, set aside a portion of their total loan portfolio based on their balance sheet as of the end of the previous quarter, and make it available for small enterprise credit as herein contemplated. The portion mandated to be so set aside shall at least be, five per cent (5%) by the end of the year of the effectivity of this Act, ten percent (10%) by the end of the second year through the end of the fifth year, and five percent (5%) by the end of sixth year and may come down to zero by the end of the seventh year.
 
 The Central Bank in consultation with the Council, shall formulate rules for the effective implementation of this provision: Provided, That the purchase of government notes, securities, and other negotiable instruments, with the exception of such instruments as may be offered by the SBGFC, shall not be deemed compliance with the foregoing provision.
 
@@ -235,7 +255,9 @@ The SMED Council shall set up the appropriate systems to monitor all loan applic
 
 The Central Bank shall furnish to the Small and Medium Development Council on a semestral basis regular reports on the lending institutions compliance with the above provisions on the mandatory credit allocation for small enterprises.
 
-**Sec. 14._Penal Clause._** — The Central Bank shall impose administrative sanctions and other penalties on the lending institution for non-compliance with provisions of Act. In addition, the president, members of boards of directors, and other officers of the erring lending institutions shall be individually liable for imprisonment of not less than six (6) months and a fine of not less than Five hundred thousand (P500,000) each.
+### Sec. 14
+
+_Penal Clause._ — The Central Bank shall impose administrative sanctions and other penalties on the lending institution for non-compliance with provisions of Act. In addition, the president, members of boards of directors, and other officers of the erring lending institutions shall be individually liable for imprisonment of not less than six (6) months and a fine of not less than Five hundred thousand (P500,000) each.
 
 ## CHAPTER IV
 
@@ -243,8 +265,12 @@ The Central Bank shall furnish to the Small and Medium Development Council on a 
 
 _Separability Clause._ — The provisions of this Act are hereby declared to be separable. If any provisions of this Act shall be held unconstitutional, the remainder of the Act not otherwise affected shall remain in full force and effect.
 
-**Sec. 16._Repealing Clause._** — All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+### Sec. 16
 
-**Sec. 17._Effectivity._** — This Act shall take effect upon its approval.
+_Repealing Clause._ — All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+
+### Sec. 17
+
+_Effectivity._ — This Act shall take effect upon its approval.
 
 _Approved:_ January 24, 1991

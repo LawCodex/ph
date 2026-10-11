@@ -66,7 +66,7 @@ No private property shall be taken for any purpose by the grantee without proper
 
 ## Section 10
 
-It shall be unlawful for the grantee to use, employ, or contracts, for the labor or persons held in involuntary servitude.1âшphi1
+It shall be unlawful for the grantee to use, employ, or contracts, for the labor or persons held in involuntary servitude.
 
 ## Section 11
 

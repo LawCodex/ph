@@ -33,7 +33,7 @@ The Chairperson of the National Commission on Muslim Filipinos (NCMF), the Natio
 
 ## Section 3
 
-Nothing herein shall be construed as requiring the wearing or non-wearing of a particular attire, garment, or clothing.ℒαwρhi৷
+Nothing herein shall be construed as requiring the wearing or non-wearing of a particular attire, garment, or clothing.
 
 ## Section 4
 

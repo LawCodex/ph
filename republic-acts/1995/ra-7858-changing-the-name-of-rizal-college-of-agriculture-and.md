@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-the name of the Rizal College of Agriculture and Technology located in Sampaloc, Municipality of Tanay, Province of Rizal, is hereby changed to Rizal State College.1aшphi1
+the name of the Rizal College of Agriculture and Technology located in Sampaloc, Municipality of Tanay, Province of Rizal, is hereby changed to Rizal State College.
 
 ## Section 2
 

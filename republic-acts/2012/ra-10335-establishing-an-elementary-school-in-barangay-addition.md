@@ -34,7 +34,7 @@ _Establishment of an Elementary School._ \- There is hereby established, under t
 
 ## Section 2
 
-_Appropriations._ \- The S ecretary of Education shall immediately include in the Department's program the operationalization of the Mandaluyong Addition Hills Elementary School, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ \- The S ecretary of Education shall immediately include in the Department's program the operationalization of the Mandaluyong Addition Hills Elementary School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -64,11 +64,11 @@ The grantee shall file a bond in the amount of ten thousand pesos to warranty th
 
 ## Section 11
 
-A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
 
 ## Section 12
 
-This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

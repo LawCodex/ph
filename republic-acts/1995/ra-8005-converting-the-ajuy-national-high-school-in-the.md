@@ -32,7 +32,7 @@ The Ajuy National High School in the Municipality of Ajuy, Province of Iloilo, i
 
 ## Section 2
 
-The faculty and employees of the Ajuy National High School, as well as its funds, assets, equipment and facilities shall be absorbed by the college.1aшphi1
+The faculty and employees of the Ajuy National High School, as well as its funds, assets, equipment and facilities shall be absorbed by the college.
 
 ## Section 3
 

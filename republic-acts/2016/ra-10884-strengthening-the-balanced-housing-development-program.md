@@ -75,7 +75,7 @@ _Amendatory Provisions._ \- The following provisions of Republic Act No. 7279, e
 
 "(4) Transfer tax for both raw completed projects; and
 
-"(5) Donor’s tax for lands certified by the local government units to have been donated for socialized housing purposes.1âwphi1
+"(5) Donor’s tax for lands certified by the local government units to have been donated for socialized housing purposes.
 
 "_Provided,_ That a socialized housing certification issued by the Housing and Land Use Regulatory Board shall be sufficient for the purpose of availment of tax exemption: _Provided, further,_ That upon application for exemption, a lien on the title of the land shall be annotated by the Register of Deeds: _Provided,_ Furthermore, That the socialised housing development plan has already been approved by the appropriate government agencies concerned: _Provided, finally,_ That all the savings realized by virtue of this provision shall accrue in favor of the beneficiaries subject to the implementing guidelines to be issued by the Housing and Urban Development Coordinating Council."
 

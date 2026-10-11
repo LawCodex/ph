@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Santa Rosa Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Julio Hernandez Memorial School.1âшphi1
+The name of Santa Rosa Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Julio Hernandez Memorial School.
 
 ## Section 2
 

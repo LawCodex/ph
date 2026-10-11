@@ -41,7 +41,7 @@ The existing professional health care services and facilities of the Gov. Benjam
 
 ## Section 4
 
-The DOH shall, in coordination with the Department of Budget and Management and the Civil Service Commission, determine the additional plantilla positions to be created and filled upon prior consultation with the Chief of Hospital of the Gov. Benjamin T. Romualdez General Hospital and Schistosomiasis Center.Ꮮαwρhi৷
+The DOH shall, in coordination with the Department of Budget and Management and the Civil Service Commission, determine the additional plantilla positions to be created and filled upon prior consultation with the Chief of Hospital of the Gov. Benjamin T. Romualdez General Hospital and Schistosomiasis Center.
 
 ## Section 5
 

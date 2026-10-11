@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Duluwan Central Elementary School in the Municipality of Datu Piang, Province of Cotabato, is hereby changed to Datu Gumbay Piang Central Elementary School.1âшphi1
+The name of Duluwan Central Elementary School in the Municipality of Datu Piang, Province of Cotabato, is hereby changed to Datu Gumbay Piang Central Elementary School.
 
 ## Section 2
 

@@ -145,7 +145,7 @@ Section 6 of R.A. No. 7042, as amended, is hereby amended to read as follows:
 
 "Section 6. Foreign Investment in Export Enterprises. - Foreign investment in export enterprise whose products and services do not fall within Lists A and B of the Foreign Investment Negative List provided under Section 8 hereof is allowed up to one hundred percent (100%) ownership.
 
-Export enterprise which a re non-Philippine nationals shall register with BOI and submit the reports that may be required to ensure continuing compliance of the export enterprise with its export requirement. BOI shall advise SEC or STI, as the case may be, of any export enterprise that fails to meet the export ration requirement.ᇈWᑭHIL The SEC or DTI shall thereupon order the non-complying export enterprise to reduce its sales to the domestic market to not more than forty percent (40%) of its total production; failure to comply with such SEC or DTI order, without justifiable reason, shall subject the enterprise to cancellation of SEC or DTI registration, and/or the penalties provided in Section 14 hereof.
+Export enterprise which a re non-Philippine nationals shall register with BOI and submit the reports that may be required to ensure continuing compliance of the export enterprise with its export requirement. BOI shall advise SEC or STI, as the case may be, of any export enterprise that fails to meet the export ration requirement. The SEC or DTI shall thereupon order the non-complying export enterprise to reduce its sales to the domestic market to not more than forty percent (40%) of its total production; failure to comply with such SEC or DTI order, without justifiable reason, shall subject the enterprise to cancellation of SEC or DTI registration, and/or the penalties provided in Section 14 hereof.
 
 Export enterprise shall register and comply with the export requirements in accordance with _Title_ XIII of the National Internal Revenue Code (NIRC), as amended, for purpose of availing any tax incentive or benefit."
 
@@ -209,7 +209,7 @@ _Appropriations._ \- For purposes of implementing this Act, the amount of Fifty 
 
 ## Section 14
 
-_Implementing Rules and Regulations._ \- The NEA, in consultation with the DTI and the DOF, is hereby directed to amend the existing rules and regulations necessary for the efficient implementation of this Act.ℒαwρhi৷
+_Implementing Rules and Regulations._ \- The NEA, in consultation with the DTI and the DOF, is hereby directed to amend the existing rules and regulations necessary for the efficient implementation of this Act.
 
 ## Section 15
 

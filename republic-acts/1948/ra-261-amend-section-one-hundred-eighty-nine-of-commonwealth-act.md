@@ -31,7 +31,7 @@ Section one hundred eighty-nine of Commonwealth Act Numbered Four hundred and si
 
 "In case the raw materials are manufactured or milled in pursuance of a contract where the factory, central, or mill receives a share of the finished products, the tax on the share pertaining to the planter or owner of the raw materials shall be charged to the planter or owner and withheld by the proprietor or operator of the factory, central, or mill and paid by him to the Collector of Internal Revenue.
 
-"A proprietor or operator of a refined sugar factory shall be subject to the tax imposed by this section but shall be permitted to deduct from the actual selling price or market value of the refined sugar the total cost, as duly established, of the raw sugar upon which the tax under this section has previously been paid.+3u.7!ydmb7
+"A proprietor or operator of a refined sugar factory shall be subject to the tax imposed by this section but shall be permitted to deduct from the actual selling price or market value of the refined sugar the total cost, as duly established, of the raw sugar upon which the tax under this section has previously been paid.
 
 "Where articles are manufactured out of materials subject to tax under this section, the total cost, as duly established, of the said materials shall be deductible from the gross selling price or gross value in money of the manufactured articles."
 

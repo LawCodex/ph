@@ -34,7 +34,7 @@ The existing Land Transportation Office (LTO) Extension Office located in the Ci
 
 ## Section 2
 
-The Secretary of Transportation and Communications shall immediately include in the Department's programs the operationalization of the Regular LTO District Office in the City of Tagaytay, Province of Cavite, the initial funding of which shall be charged against the current years's appropriations of the Tagaytay City LTO Extension Office. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Transportation and Communications shall immediately include in the Department's programs the operationalization of the Regular LTO District Office in the City of Tagaytay, Province of Cavite, the initial funding of which shall be charged against the current years's appropriations of the Tagaytay City LTO Extension Office. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

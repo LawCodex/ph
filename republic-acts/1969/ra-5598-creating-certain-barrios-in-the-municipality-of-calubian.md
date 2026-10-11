@@ -28,6 +28,6 @@ The following barrios are hereby created in the Municipality of Calubian, Provin
 
 ## Section 2
 
-This act shall take effect upon its approval.1a⍵⍴h!1
+This act shall take effect upon its approval.
 
 Approved, June 21, 1969.

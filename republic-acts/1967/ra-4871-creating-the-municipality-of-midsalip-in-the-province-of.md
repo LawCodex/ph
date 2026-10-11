@@ -31,7 +31,7 @@ The municipality shall be bounded as follows: "Beginning from point 1, intersect
 
 ## Section 2
 
-The first mayor, vice-mayor and councilors of the municipality shall be elected in the next general elections for local officials and shall have qualified.1avvphi1
+The first mayor, vice-mayor and councilors of the municipality shall be elected in the next general elections for local officials and shall have qualified.
 
 ## Section 3
 

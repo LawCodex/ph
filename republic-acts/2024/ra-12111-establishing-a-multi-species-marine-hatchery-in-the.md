@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (DA-BFAR), a multi-species marine hatchery in the Municipality of Sta.Catalina, Province of Ilocos Sur.ℒαwρhi৷
+There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (DA-BFAR), a multi-species marine hatchery in the Municipality of Sta.Catalina, Province of Ilocos Sur.
 
 ## Section 2
 

@@ -31,7 +31,7 @@ There shall be established a national high school at Marag Valley, Province of A
 
 ## Section 2
 
-The school shall offer secondary education proper as well as other vocational courses to carry out its objectives as may be authorized by the Secretary of the Department of Education, Culture and Sports and in coordination with the Technical Education and Skills Development Authority (TESDA) and other appropriate offices and agencies.ℒαwρhi৷
+The school shall offer secondary education proper as well as other vocational courses to carry out its objectives as may be authorized by the Secretary of the Department of Education, Culture and Sports and in coordination with the Technical Education and Skills Development Authority (TESDA) and other appropriate offices and agencies.
 
 ## Section 3
 

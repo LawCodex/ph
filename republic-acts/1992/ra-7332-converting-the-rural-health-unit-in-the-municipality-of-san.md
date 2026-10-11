@@ -29,7 +29,7 @@ The rural health unit in the Municipality of San Rafael, Province of Iloilo, is 
 
 ## Section 2
 
-The Secretary of the Department of Health shall determine the manner by which said hospital shall be operational.1âшphi1
+The Secretary of the Department of Health shall determine the manner by which said hospital shall be operational.
 
 ## Section 3
 

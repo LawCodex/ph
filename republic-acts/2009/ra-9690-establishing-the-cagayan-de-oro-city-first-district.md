@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The district engineering office in Cagayan De Oro City, under the supervision of the Department of Public Works and Highways, shall be reconstituted into two (2) separate district engineering offices. The first district engineering office to be located in Barangay Carmen shall be known as the Cagayan De Oro City First District Engineering Office and the existing district engineering office located in Barangay Macalaban shall be known as the Cagayan De Oro City Second District Engineering Office.ℒαwρhi৷
+The district engineering office in Cagayan De Oro City, under the supervision of the Department of Public Works and Highways, shall be reconstituted into two (2) separate district engineering offices. The first district engineering office to be located in Barangay Carmen shall be known as the Cagayan De Oro City First District Engineering Office and the existing district engineering office located in Barangay Macalaban shall be known as the Cagayan De Oro City Second District Engineering Office.
 
 ## Section 2
 

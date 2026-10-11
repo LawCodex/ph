@@ -24,9 +24,9 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Hereafter, it shall be unlawful for any employer to employ any strike breaker, or for any person to be knowingly employed as a strike breaker.1âшphi1
+Hereafter, it shall be unlawful for any employer to employ any strike breaker, or for any person to be knowingly employed as a strike breaker.
 
-"Strike breaker" shall mean any person knowingly employed for the purpose of obstructing or interfering by force or threats peaceful picketing by employees during any labor controversy affecting wages, hours or conditions of labor; or the exercise by employees of any of the rights of self-organization or collective bargaining.1âшphi1
+"Strike breaker" shall mean any person knowingly employed for the purpose of obstructing or interfering by force or threats peaceful picketing by employees during any labor controversy affecting wages, hours or conditions of labor; or the exercise by employees of any of the rights of self-organization or collective bargaining.
 
 ## Section 2
 

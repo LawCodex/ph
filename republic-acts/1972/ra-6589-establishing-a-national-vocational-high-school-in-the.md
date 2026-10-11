@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Voca
 
 ## Section 2
 
-The sum of seven hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment of said school including the acquisition of the necessary site therefor and its operation and maintenance during the fiscal year nineteen hundred seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of seven hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment of said school including the acquisition of the necessary site therefor and its operation and maintenance during the fiscal year nineteen hundred seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

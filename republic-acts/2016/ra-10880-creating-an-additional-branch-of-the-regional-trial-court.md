@@ -35,7 +35,7 @@ An additional branch of the Regional Trial Court with seat at Calapan City, Orie
 
 ## Section 2
 
-The Supreme Court shall assign the branch number of the newly created Regional Trial Court branch under this Act.1âwphi1
+The Supreme Court shall assign the branch number of the newly created Regional Trial Court branch under this Act.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ The Jose Abad Santos High School in San Fernando, Pampanga, shall hereafter be k
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

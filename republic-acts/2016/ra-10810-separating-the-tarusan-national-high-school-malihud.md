@@ -34,7 +34,7 @@ The Tarusan National High School - Malihud Extension in Barangay Malihud, Munici
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Tarusan National High School - Malihud Extension are hereby transferred to and absorbed by the Malihud National High School.1aшphi1
+All personnel, assets, liabilities and records of the Tarusan National High School - Malihud Extension are hereby transferred to and absorbed by the Malihud National High School.
 
 ## Section 3
 

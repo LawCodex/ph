@@ -63,7 +63,7 @@ _Requirements for Availing the Indigent Funeral Package._ \- The bereaved family
 
 ## Section 7
 
-_Lead Agency._ \- The DSWD shall be the lead agency in the implementation of this Act and shall engage the services of funeral establishments in the country.ℒαwρhi৷ The Department of Trade and Industry (DTI) shall monitor and regulate the current market prices of funeral services, including the price of caskets and urns, to prevent undue or excessive price increases.
+_Lead Agency._ \- The DSWD shall be the lead agency in the implementation of this Act and shall engage the services of funeral establishments in the country. The Department of Trade and Industry (DTI) shall monitor and regulate the current market prices of funeral services, including the price of caskets and urns, to prevent undue or excessive price increases.
 
 ## Section 8
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any person who, being a citizen of the Philippines on December eight, nineteen hundred forty-one, had lost said citizenship by rendering service to, or accepting commission in, the armed forces of an allied foreign country, and taking an oath of allegiance incident thereto, may reacquire Philippine citizenship by taking an oath of allegiance to the Republic of the Philippines and registering the same with the Local Civil Registry in the place where he resides or last resided in the Philippines within one year from the date of the approval of this Act.1a⍵⍴h!1 The said oath of allegiance shall contain, in addition, a renunciation of any other citizenship.
+Any person who, being a citizen of the Philippines on December eight, nineteen hundred forty-one, had lost said citizenship by rendering service to, or accepting commission in, the armed forces of an allied foreign country, and taking an oath of allegiance incident thereto, may reacquire Philippine citizenship by taking an oath of allegiance to the Republic of the Philippines and registering the same with the Local Civil Registry in the place where he resides or last resided in the Philippines within one year from the date of the approval of this Act. The said oath of allegiance shall contain, in addition, a renunciation of any other citizenship.
 
 ## Section 2
 

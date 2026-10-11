@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Burol is separated from the barrio of Tambo, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Burol.1âшphi1
+The sitio of Burol is separated from the barrio of Tambo, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Burol.
 
 ## Section 2
 

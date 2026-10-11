@@ -31,7 +31,7 @@ There shall be established a high school in Barangay Papaya, Tingloy Batangas, t
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the purpose of this Act.Ꮮαwρhi৷
+The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

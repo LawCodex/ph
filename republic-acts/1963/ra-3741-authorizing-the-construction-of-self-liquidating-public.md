@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Department of Public Works and Communications is hereby authorized to enter into, and bind the Government, by contracts with any private person, natural or juridical, for construction, operation, and maintenance of national highways, roads, bridges, public markets, irrigation systems and other self-liquidating public improvements subject to the terms and conditions hereinafter set forth: _Provided,_ That said contracts shall be open to citizens of the Philippines or to corporations or associations as are authorized by law to engage in business operations in the Philippines.1âшphi1
+The Department of Public Works and Communications is hereby authorized to enter into, and bind the Government, by contracts with any private person, natural or juridical, for construction, operation, and maintenance of national highways, roads, bridges, public markets, irrigation systems and other self-liquidating public improvements subject to the terms and conditions hereinafter set forth: _Provided,_ That said contracts shall be open to citizens of the Philippines or to corporations or associations as are authorized by law to engage in business operations in the Philippines.
 
 ## Section 2
 
@@ -32,7 +32,7 @@ Any senator or congressman, by formal request reduced to writing, or any city or
 
 ## Section 3
 
-Upon approval of such projects mentioned in the preceding section of this Act, the Secretary of Public Works and Communications shall forthwith cause to be published once every week for three consecutive weeks in at least two newspapers of general circulation, a notice inviting all eligible public works contractors to participate in a public bidding for the projects so approved. The contract shall be awarded to the lowest competent and eligible bidder.1âшphi1
+Upon approval of such projects mentioned in the preceding section of this Act, the Secretary of Public Works and Communications shall forthwith cause to be published once every week for three consecutive weeks in at least two newspapers of general circulation, a notice inviting all eligible public works contractors to participate in a public bidding for the projects so approved. The contract shall be awarded to the lowest competent and eligible bidder.
 
 ## Section 4
 

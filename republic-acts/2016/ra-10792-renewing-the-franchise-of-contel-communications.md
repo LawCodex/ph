@@ -81,7 +81,7 @@ _Gross Receipts._ \- The grantee, its successors or assigns, shall keep a separa
 
 ## Section 12
 
-_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns, shall always be open to the inspection of the COA and its duly authorized representatives.ᇈWᑭHIL It shall be the duty of the grantee to submit to the COA two (2) copies of the quarterly reports on the gross receipts, the net profits and the general condition of the business.
+_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns, shall always be open to the inspection of the COA and its duly authorized representatives. It shall be the duty of the grantee to submit to the COA two (2) copies of the quarterly reports on the gross receipts, the net profits and the general condition of the business.
 
 ## Section 13
 

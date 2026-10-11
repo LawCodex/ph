@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Director of Public Scho
 
 ## Section 2
 
-The sum of six hundred fifty thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said college for the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, the sum necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of six hundred fifty thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said college for the fiscal year nineteen hundred sixty-nine. Thereafter, the sum necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

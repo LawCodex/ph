@@ -30,4 +30,4 @@ Republic Act Numbered Four thousand two hundred sixty is hereby repealed and the
 
 This Act shall take effect upon its approval.
 
-Approved, June 17, 1972.1âшphi1
+Approved, June 17, 1972.

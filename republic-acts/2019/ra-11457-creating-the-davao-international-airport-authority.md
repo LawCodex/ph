@@ -150,7 +150,7 @@ _Authorized Capital._ — The Authority shall have an authorized capital stock e
 
 _Resident Auditor._ — The Commission on Audit shall appoint a representative who shall be the auditor of the Authority, together with the necessary personnel to assist said representative in the performance of his duties. The number and salaries of the auditor and said personnel shall be determined by the Chairman of the Commission on Audit, subject to the rules and regulations of the Commission on Audit.
 
-The auditor shall, as soon as practicable, but not later than three (3) months after the accounts have been submitted for audit, send an annual report to the Board.1âшphi1 The auditor may also submit such periodic or special reports as the Board may deem necessary.
+The auditor shall, as soon as practicable, but not later than three (3) months after the accounts have been submitted for audit, send an annual report to the Board. The auditor may also submit such periodic or special reports as the Board may deem necessary.
 
 ## Section 11
 

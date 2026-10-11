@@ -29,7 +29,7 @@ The bed capacity of the Nueva Ecija Provincial hospital at Cabanatuan City is he
 
 ## Section 2
 
-The sum of two million pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation, improvement and/or construction of new buildings.1avvphi1 Thereafter, such sums as may be necessary for the operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two million pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation, improvement and/or construction of new buildings. Thereafter, such sums as may be necessary for the operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

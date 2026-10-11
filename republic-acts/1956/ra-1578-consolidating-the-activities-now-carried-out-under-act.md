@@ -39,7 +39,7 @@ c. For the manufacture of biological products needed in the control and eradicat
 
 d. For conducting experiments on the manufacture, preservation, utilization and industrialization of animal products, including milk and milk derivatives; and
 
-e. For such other purposes as may have for their object the stabilization, protection and development of the Philippine Livestock Industry.1a⍵⍴h!1
+e. For such other purposes as may have for their object the stabilization, protection and development of the Philippine Livestock Industry.
 
 ## Section 3
 

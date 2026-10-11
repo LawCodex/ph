@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, two emergency hospitals in the Province of Albay, one in the Municipality of Guinobatan and the other in the Municipality of Oas.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services, two emergency hospitals in the Province of Albay, one in the Municipality of Guinobatan and the other in the Municipality of Oas.
 
 ## Section 2
 

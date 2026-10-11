@@ -97,7 +97,7 @@ _Conversion into a Corporation._ \- In pursuance of the provisions of Section 14
 
 ## Section 16
 
-_General Cable Television Policy Law._ \- The grantee shall comply with and be subject to the provisions of a general cable television policy law which Congress may hereafter enact.1aшphi1
+_General Cable Television Policy Law._ \- The grantee shall comply with and be subject to the provisions of a general cable television policy law which Congress may hereafter enact.
 
 ## Section 17
 

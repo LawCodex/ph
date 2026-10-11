@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Brother Stephen Kin-Sang Lo is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.Ꮮαwρhi৷
+Brother Stephen Kin-Sang Lo is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.
 
 Upon the taking and registration of the oath of allegiance to the Republic of the Philippines, Brother Stephen Kin-Sang Lo shall enter the full enjoyment of Philippine citizenship.
 

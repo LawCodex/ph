@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any person, firm or corporation, operating and maintaining a clinical laboratory in which body fluids, tissues, secretions, excretions and radioactivity from beings or animals are analyzed for the determination of the presence of pathologic organisms, processes and/or conditions in the persons or animals from which they were obtained, shall register and secure a license annually at the office of the Secretary of Health: _Provided,_ That government hospital laboratories doing routine or minimum laboratory examinations shall be exempt from the provisions of this section if their services are extensions of government regional or central laboratories.1avvphi1
+Any person, firm or corporation, operating and maintaining a clinical laboratory in which body fluids, tissues, secretions, excretions and radioactivity from beings or animals are analyzed for the determination of the presence of pathologic organisms, processes and/or conditions in the persons or animals from which they were obtained, shall register and secure a license annually at the office of the Secretary of Health: _Provided,_ That government hospital laboratories doing routine or minimum laboratory examinations shall be exempt from the provisions of this section if their services are extensions of government regional or central laboratories.
 
 ## Section 2
 

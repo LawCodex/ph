@@ -53,7 +53,7 @@ The term "chief of division and assistant chief of division" shall include all o
 
 ## Section 2
 
-Such sums as are necessary to implement this Act for the current and previous fiscal years are hereby appropriated from the savings of the Bureaus and offices mentioned in Section one of Republic Act Numbered Forty-one hundred and fifty-one.1avvphi1 Thereafter, the necessary funds for the purpose shall be included in the annual General Appropriation Act.
+Such sums as are necessary to implement this Act for the current and previous fiscal years are hereby appropriated from the savings of the Bureaus and offices mentioned in Section one of Republic Act Numbered Forty-one hundred and fifty-one. Thereafter, the necessary funds for the purpose shall be included in the annual General Appropriation Act.
 
 ## Section 3
 

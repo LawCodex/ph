@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The site in the Municipality of Palo, Province of Leyte, where General Douglas Mac Arthur landed on October 20, 1944 to liberate the Philippines during World War II, is hereby declared a tourist spot. As such, it shall be accorded priority development by the Department of Tourism and shall be subject to the rules and regulations governing the development of tourist spots.1aшphi1
+The site in the Municipality of Palo, Province of Leyte, where General Douglas Mac Arthur landed on October 20, 1944 to liberate the Philippines during World War II, is hereby declared a tourist spot. As such, it shall be accorded priority development by the Department of Tourism and shall be subject to the rules and regulations governing the development of tourist spots.
 
 ## Section 2
 

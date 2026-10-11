@@ -1459,7 +1459,7 @@ _Definition of Terms._ For the purpose of these Rules and regulations, the follo
 
 (64) **Tertiary Cooperative** \- shall refer to a cooperative, the members of which are secondary cooperative.
 
-(65) **Total Average Share Month** \- shall refer to the sum total of the average share month, which is determined by adding the monthly ending balances of the member's share capital and dividing the sum by twelve (12) months.1avvphi1
+(65) **Total Average Share Month** \- shall refer to the sum total of the average share month, which is determined by adding the monthly ending balances of the member's share capital and dividing the sum by twelve (12) months.
 
 (66) **Unpaid Subscription** \- shall refer to the subscribed share capital, which is not yet fully paid by a member.
 
@@ -3507,7 +3507,7 @@ _Purposes and Objectives._ Agrarian Reform Cooperatives shall be organized for a
 
 (9) To represent the beneficiaries on any or all matters that affect their interest; and
 
-(10) To undertake such other economic or social activities as may be necessary or incidental in the pursuit of the foregoing purposes.1avvphi
+(10) To undertake such other economic or social activities as may be necessary or incidental in the pursuit of the foregoing purposes.
 
 ### Section 4
 

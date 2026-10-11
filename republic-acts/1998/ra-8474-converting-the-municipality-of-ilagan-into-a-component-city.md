@@ -429,7 +429,7 @@ _Veto Power of the City Mayor._ –
 
 (b) The city mayor shall have the power to veto any particular item or items of an appropriations ordinance or resolution adopting a local development plan and public investment program, or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
 
-(c) The city mayor may vote an ordinance or resolution only once.Ꮮαwρhi৷ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+(c) The city mayor may vote an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 17
 
@@ -941,7 +941,7 @@ _The City Population Officer._ –
 
 (a) The city population officer must be a citizen of the Philippines, a resident of the City of Ilagan, of good moral character, a holder of a college degree with specialized training in population development from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in the implementation of programs on population development or responsible parenthood for at least three (3) years immediately preceding the date of his appointment.
 
-(b) The city population officer shall receive such compensation, emoluments and allowances as may be determined by law.Ꮮαwρhi৷
+(b) The city population officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city population officer shall take charge of the office on population development, and shall:
 
@@ -1051,7 +1051,7 @@ _Plebiscite._ – The City of Ilagan shall acquire corporate existence upon the 
 
 ### Section 53
 
-_Officials of the City of Ilagan._ – The present elective officials of the Municipality of Ilagan shall continue to exercise their powers and functions until such time that a new election is held and duly elected officials shall have already qualified and assumed their offices.Ꮮαwρhi৷ The appointive officials and employees of the Municipality of Ilagan shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Ilagan.
+_Officials of the City of Ilagan._ – The present elective officials of the Municipality of Ilagan shall continue to exercise their powers and functions until such time that a new election is held and duly elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Ilagan shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Ilagan.
 
 ### Section 54
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Felix Hernandez Community School.1âшphi1
+The name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Felix Hernandez Community School.
 
 ## Section 2
 

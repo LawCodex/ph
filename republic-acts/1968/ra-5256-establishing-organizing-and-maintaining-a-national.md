@@ -29,7 +29,7 @@ The Secretary of Education is hereby authorized to establish, organize and maint
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred and sixty-nine.1avvphi1 Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred and sixty-nine. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

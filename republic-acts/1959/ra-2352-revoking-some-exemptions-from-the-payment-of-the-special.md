@@ -80,7 +80,7 @@ Drugs and Medicines
 
 26\. Pharmaceutical glassware and containers not manufactured locally.
 
-27\. Plasma.1aшphi1
+27\. Plasma.
 
 28\. Saccharin and substitutes.
 
@@ -102,7 +102,7 @@ Medical, Dental and Hospital Supplies
 
 5\. Hospital and surgical rubber goods including catheters.
 
-6\. Electro-medical therapy equipment.1awp++i1
+6\. Electro-medical therapy equipment.
 
 7\. Optometric instruments and supplies.
 

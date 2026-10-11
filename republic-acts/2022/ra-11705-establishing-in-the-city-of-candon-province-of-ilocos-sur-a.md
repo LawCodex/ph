@@ -46,7 +46,7 @@ The Secretary of the DOH shall immediately include in the Department's program t
 
 ## Section 5
 
-If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.ℒαwρhi৷
+If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
 
 ## Section 6
 

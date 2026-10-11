@@ -40,7 +40,7 @@ In order not to disrupt the present administrative operation of the Calapan Scho
 
 ## Section 4
 
-All assets, fixed and movable, personnel, records and documents of the Calapan School of Arts and Trades as well as liabilities shall be transferred to the Polytechnic College of Calapan: _Provided, however,_ That the positions, rights and security of tenure of personnel employed herein pursuant to the existing laws prior to its conversion into a Polytechnic College of Calapan are not impaired.1aшphi1
+All assets, fixed and movable, personnel, records and documents of the Calapan School of Arts and Trades as well as liabilities shall be transferred to the Polytechnic College of Calapan: _Provided, however,_ That the positions, rights and security of tenure of personnel employed herein pursuant to the existing laws prior to its conversion into a Polytechnic College of Calapan are not impaired.
 
 ## Section 5
 

@@ -55,7 +55,7 @@ _Right of Government._ \- The President of the Philippines, in times of rebellio
 
 _Tax Provisions._ – The grantee, its successors or assigns shall be liable to pay the same taxes on their real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations which are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns shall pay a franchise tax equivalent to three percent (3%) of all gross receipts of the radio/television business transacted under this franchise by the grantee, its successors or assigns and the said percentage shall be in lieu of all taxes on this franchise or earnings thereof: _Provided,_ That the grantee, its successors or assigns shall continue to be liable for income taxes payable under Title 11 of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
 
-The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representative in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.1âшphi1
+The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representative in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
 
 ## Section 9
 

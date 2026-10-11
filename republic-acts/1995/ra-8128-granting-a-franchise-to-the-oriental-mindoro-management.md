@@ -48,7 +48,7 @@ _Right of Government._ \- A special right is hereby reserved to the President of
 
 ## Section 6
 
-_Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) years from the date of approval of this Act, unless sooner revoked or cancelled. In the event the grantee fails to operate continuously for two (2) years, this franchise shall be deemed _ipso facto_ revoked.1aшphi1
+_Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) years from the date of approval of this Act, unless sooner revoked or cancelled. In the event the grantee fails to operate continuously for two (2) years, this franchise shall be deemed _ipso facto_ revoked.
 
 ## Section 7
 

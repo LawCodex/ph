@@ -134,7 +134,7 @@ _Nationwide Random Terminal Inspection and Quick Random Drug Tests._ – The LTO
 
 ## Section 16
 
-_Review of Penalties._ – The LTO shall, after five (5) years from the effectivity of this Act and every five (5) years thereafter, review the applicability and enforcement of all foregoing pecuniary penalties and shall initiate amendment and/or upgrade the same as may be necessary, subject to the approval of the Secretary of the DOTC.1âwphi1
+_Review of Penalties._ – The LTO shall, after five (5) years from the effectivity of this Act and every five (5) years thereafter, review the applicability and enforcement of all foregoing pecuniary penalties and shall initiate amendment and/or upgrade the same as may be necessary, subject to the approval of the Secretary of the DOTC.
 
 ## Section 17
 

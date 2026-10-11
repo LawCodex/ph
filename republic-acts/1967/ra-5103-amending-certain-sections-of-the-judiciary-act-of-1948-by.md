@@ -38,7 +38,7 @@ The eight sub-paragraph of the second paragraph, Section fifty-two of the same A
 
 ## Section 3
 
-Such sums as may be necessary to carry out the purposes of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.1avvphi1
+Such sums as may be necessary to carry out the purposes of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 4
 

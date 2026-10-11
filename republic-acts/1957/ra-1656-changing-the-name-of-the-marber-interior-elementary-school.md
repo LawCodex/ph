@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, is changed to New Clarin Elementary School.1âшphi1
+The name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, is changed to New Clarin Elementary School.
 
 ## Section 2
 

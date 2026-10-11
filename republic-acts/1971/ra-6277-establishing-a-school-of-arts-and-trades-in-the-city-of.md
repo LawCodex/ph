@@ -32,7 +32,7 @@ The Director shall issue rules and regulations as may be necessary to carry out 
 
 ## Section 3
 
-The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed to carry out its operation and maintenance shall be included in the annual General Appropriation Act.1âшphi1
+The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed to carry out its operation and maintenance shall be included in the annual General Appropriation Act.
 
 ## Section 4
 

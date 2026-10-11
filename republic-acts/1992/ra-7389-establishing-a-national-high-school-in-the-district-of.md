@@ -29,7 +29,7 @@ There shall be established a national high school in the District of Marasbaras,
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.1âшphi1
+The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.
 
 ## Section 3
 

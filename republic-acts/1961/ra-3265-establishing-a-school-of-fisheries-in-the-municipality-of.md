@@ -32,6 +32,6 @@ The sum of two hundred thousand pesos is hereby authorized to be appropriated, o
 
 ## Section 3
 
-This Act shall take effect upon the date the funds herein authorized to be appropriated are provided for.1âшphi1
+This Act shall take effect upon the date the funds herein authorized to be appropriated are provided for.
 
 Approved: June 17, 1961.

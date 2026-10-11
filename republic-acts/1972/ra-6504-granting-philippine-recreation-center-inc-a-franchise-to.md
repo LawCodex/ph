@@ -48,7 +48,7 @@ In consideration of the franchise and rights herein granted to the Philippine Re
 
 ## Section 7
 
-The provisions of this Act shall take precedence, over the provisions of Republic Act Numbered Three hundred nine and all other laws, executive orders and regulations which are inconsistent herewith.1âшphi1
+The provisions of this Act shall take precedence, over the provisions of Republic Act Numbered Three hundred nine and all other laws, executive orders and regulations which are inconsistent herewith.
 
 ## Section 8
 

@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Bureau of Fisheries and
 
 ## Section 2
 
-The BFAR-DA shall, within two (2) years after the construction of the multi-species marine hatchery, transfer the management of the same to the local government unit concerned through a memorandum of agreement.1a\^/phi1 It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
+The BFAR-DA shall, within two (2) years after the construction of the multi-species marine hatchery, transfer the management of the same to the local government unit concerned through a memorandum of agreement. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
 
 ## Section 3
 

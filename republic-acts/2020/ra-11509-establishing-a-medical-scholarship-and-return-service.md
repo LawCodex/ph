@@ -197,7 +197,7 @@ _Role of the DOH._ \- The DOH shall perform the following functions in the imple
 
 (f) Coordinate with the LGUs for the mandatory integration of scholar-physicians into the public health and medical service system; and
 
-(g) Recommend to the DBM the creation of plantilla positions for scholar-physicians with salary grades commensurate to their educational achievement, training and other qualifications.ℒαwρhi৷
+(g) Recommend to the DBM the creation of plantilla positions for scholar-physicians with salary grades commensurate to their educational achievement, training and other qualifications.
 
 ## Section 16
 
@@ -231,7 +231,7 @@ _Transitory Provisions._ Upon the effectivity of this Act, current scholars unde
 
 ## Section 19
 
-_Joint Congressional Oversight Committee on MSRS Program._ \- There is hereby created a Joint Congressional Oversight Committee to oversee, monitor and evaluate the implementation of this Act.ℒαwρhi৷
+_Joint Congressional Oversight Committee on MSRS Program._ \- There is hereby created a Joint Congressional Oversight Committee to oversee, monitor and evaluate the implementation of this Act.
 
 The Oversight Committee shall be composed of five (5) members each from the Senate and from the House of Representatives, and shall include the following: Chairperson of the Senate Committee on Higher, Technical and Vocational Education; Chairperson of the House Committeem on Higher and technical Education; Chairperson of the Senate Committee on Health and Demography; Chairperson of the House Committee on Health; and three (3) members each to be chosen from the membership of the Senate Committee on Higher, Technical and Vocational Education, and the House Committee on Higher and Technical Education by the Senate Prersident and the House Speaker, respectively: Provided, That at least one (1) member from the respective nominees of the House of Representatives and the Senate shall be chosen from the Minority party/bloc.
 

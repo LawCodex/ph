@@ -47,7 +47,7 @@ The DOH, in coordination with the Civil Service Commission, the Department of Bu
 
 ## Section 5
 
-The Secretary of Health shall immediately include in the Department’s programs the operationalization of the BRGHGMC for a period of not more than three (3) years, the initial funding of which shall be charged against the current year’s appropriations of the Bicol Sanitarium. Thereafter, the amount necessary for its continued operation shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Health shall immediately include in the Department’s programs the operationalization of the BRGHGMC for a period of not more than three (3) years, the initial funding of which shall be charged against the current year’s appropriations of the Bicol Sanitarium. Thereafter, the amount necessary for its continued operation shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

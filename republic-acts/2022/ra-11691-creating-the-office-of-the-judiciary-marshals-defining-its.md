@@ -40,7 +40,7 @@ To this end, an independent, professional, and organized security force under th
 
 ## Section 3
 
-_Creation of the Office of the Judiciary Marshals._ \- There is hereby created the Office of the Judiciary Marshals under the control and supervision of the Supreme Court, through the Office of the Court Administrator. The Office of the Judiciary Marshals shall be primarily responsible for the security, safety, and protection of the members, officials, personnel, and property of the Judiciary, including the integrity of the courts and its proceedings.ᇈWᑭHIL
+_Creation of the Office of the Judiciary Marshals._ \- There is hereby created the Office of the Judiciary Marshals under the control and supervision of the Supreme Court, through the Office of the Court Administrator. The Office of the Judiciary Marshals shall be primarily responsible for the security, safety, and protection of the members, officials, personnel, and property of the Judiciary, including the integrity of the courts and its proceedings.
 
 ## Section 4
 
@@ -102,7 +102,7 @@ _Qualifications and Appointment of the Deputy Marshals._ \- The Deputy Marshals 
 
 ## Section 9
 
-_Qualifications, Composition and Size of Personnel._ \- The qualifications, composition and size of personnel of the Office of the Judiciary Marshals shall be determined by the Supreme Court which may create such offices, divisions and units under it as it may deem necessary. For this purpose, the Supreme Court is authorized to adopt and implement the corresponding staffing patterns for the Office of the Judiciary Marshals. The positions, titles, and salaries of its officials and personnel shall be in accordance with Republic Act No. 11466, otherwise known as the “Salary Standardization Law of 2019”. All officials and personnel appointed under this Act shall belong to the classified service and shall be governed by the Civil Service Law, except those whose positions are highly technical or primarily confidential. The organizational structure and staffing pattern shall be submitted to the Department of Budget and Management (DBM) for review and/or approval.ℒαwρhi৷
+_Qualifications, Composition and Size of Personnel._ \- The qualifications, composition and size of personnel of the Office of the Judiciary Marshals shall be determined by the Supreme Court which may create such offices, divisions and units under it as it may deem necessary. For this purpose, the Supreme Court is authorized to adopt and implement the corresponding staffing patterns for the Office of the Judiciary Marshals. The positions, titles, and salaries of its officials and personnel shall be in accordance with Republic Act No. 11466, otherwise known as the “Salary Standardization Law of 2019”. All officials and personnel appointed under this Act shall belong to the classified service and shall be governed by the Civil Service Law, except those whose positions are highly technical or primarily confidential. The organizational structure and staffing pattern shall be submitted to the Department of Budget and Management (DBM) for review and/or approval.
 
 ## Section 10
 
@@ -126,7 +126,7 @@ _Benefits and Privileges._ \- The Office of the Judiciary Marshals shall provide
 
 (c) Retirement benefits as may be provided by existing or pertinent laws.
 
-The Office of the Judiciary Marshals shall likewise bear the costs for all fees required in relation to Section 4(m) of this Act.ℒαwρhi৷
+The Office of the Judiciary Marshals shall likewise bear the costs for all fees required in relation to Section 4(m) of this Act.
 
 ## Section 14
 

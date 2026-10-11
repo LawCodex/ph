@@ -126,7 +126,7 @@ _Non-Diminution of Benefits._ \- Nothing in this Act shall be construed as to di
 
 ## Section 15
 
-_Security of Tenure._ \- Those who avail of the benefits of this Act, whether in the government service or private sector, shall be assured of security of tenure. As such, the exercise of this option by them shall not be used as basis for demotion in employment or termination. The transfer to a parallel position or reassignment from one organizational unit to another in the same agency or private enterprise shall be allowed: _Provided,_ That it shall not involve a reduction in rank, status, salary, or otherwise amount to constructive dismissal.1âwphi1
+_Security of Tenure._ \- Those who avail of the benefits of this Act, whether in the government service or private sector, shall be assured of security of tenure. As such, the exercise of this option by them shall not be used as basis for demotion in employment or termination. The transfer to a parallel position or reassignment from one organizational unit to another in the same agency or private enterprise shall be allowed: _Provided,_ That it shall not involve a reduction in rank, status, salary, or otherwise amount to constructive dismissal.
 
 ## Section 16
 

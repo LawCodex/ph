@@ -87,7 +87,7 @@ j. Local anesthetics or narcoleptics.
 
 ## Section 8
 
-_Transfer of Personnel, Assets and Records._ – The properties, records, obligations and appropriations of the municipal main health units concerned shall be transferred to the infirmaries so established.1âшphi1
+_Transfer of Personnel, Assets and Records._ – The properties, records, obligations and appropriations of the municipal main health units concerned shall be transferred to the infirmaries so established.
 
 ## Section 9
 

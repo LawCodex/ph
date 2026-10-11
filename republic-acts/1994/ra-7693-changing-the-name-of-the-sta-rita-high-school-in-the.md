@@ -37,4 +37,4 @@ This Act shall take effect upon its approval.
 
 Approved,
 
-Lapsed into law without the signature of the President on April 9, 1994, in accordance with Article VI, Section 27 (1) of the Constitution.1a⍵⍴h!1
+Lapsed into law without the signature of the President on April 9, 1994, in accordance with Article VI, Section 27 (1) of the Constitution.

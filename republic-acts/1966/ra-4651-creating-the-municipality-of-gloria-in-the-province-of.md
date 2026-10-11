@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Maligaya, Kawit, Malusak, Balite, Dalagan, Tinalunan, Calamundingan, Bulbogan, Langang, Banus, Agus, Batingan, Papandungin, Malamig, Tubag, Malayong, Malubay, Mirayan, Guimbonan, Agsalin, Manguyang, Banutan, Boong-Lupa, Tambong, and Maragooc in the Municipality of Pinamalayan, Province of Oriental Mindoro, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Gloria, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of the barrio of Maligaya.
+The barrios of Maligaya, Kawit, Malusak, Balite, Dalagan, Tinalunan, Calamundingan, Bulbogan, Langang, Banus, Agus, Batingan, Papandungin, Malamig, Tubag, Malayong, Malubay, Mirayan, Guimbonan, Agsalin, Manguyang, Banutan, Boong-Lupa, Tambong, and Maragooc in the Municipality of Pinamalayan, Province of Oriental Mindoro, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Gloria, same province. The seat of government of the new municipality shall be in the present site of the barrio of Maligaya.
 
 ## Section 2
 

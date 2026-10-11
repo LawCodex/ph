@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Calatrava, Linao and Balogo, in the Municipality of San Agustin, Province of Romblon, are separated from said municipality and constituted into a distinct and independent municipal district, to be known as the Municipal District of Calatrava, same province.1avvphi1 The seat of government of the new municipal district shall be in the present site of the barrio of Calatrava.
+The barrios of Calatrava, Linao and Balogo, in the Municipality of San Agustin, Province of Romblon, are separated from said municipality and constituted into a distinct and independent municipal district, to be known as the Municipal District of Calatrava, same province. The seat of government of the new municipal district shall be in the present site of the barrio of Calatrava.
 
 ## Section 2
 

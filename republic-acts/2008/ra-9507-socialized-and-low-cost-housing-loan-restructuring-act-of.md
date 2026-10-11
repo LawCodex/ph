@@ -30,11 +30,15 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 **Section 1 _. Short Title._ -** This Act shall be known as the **"_Socialized and Low-Cost Housing Loan Restructuring Act of 2008_ "**.
 
-**Section 2._Declaration of Policy._** \- It is the policy of the State to undertake a continuing program of urban land reform and housing that will make available at affordable cost decent housing to underprivileged and homeless citizens.
+## Section 2
+
+_Declaration of Policy._ \- It is the policy of the State to undertake a continuing program of urban land reform and housing that will make available at affordable cost decent housing to underprivileged and homeless citizens.
 
 Toward this end, a rational loan restructuring and condonation program shall be instituted that takes into consideration the credit wothiness and credit discipline of the borrowers, and the financial viability of the lending institutions.
 
-**SECTION 3._Coverage of the Restructuring Program for Delinquent Socialized and Low-Cost Housing Loan Accounts._** \- There is hereby established a Socialized and Low-Cost Housing Loan Restructuring and Condonation Program. Under this program:
+## SECTION 3
+
+_Coverage of the Restructuring Program for Delinquent Socialized and Low-Cost Housing Loan Accounts._ \- There is hereby established a Socialized and Low-Cost Housing Loan Restructuring and Condonation Program. Under this program:
 
 (a) for a period of eighteen (18) months after the issuance of the implementing rule and regulations of this Act, all socialized and low-cost housing loans, the original principal amount of which are within the housing loan ceilings as determined by the Housing and Urban Development Coordinating Council (HUDCC), with any of the government financial institutions (GFIs) and agencies involved in the National Shelter Program (NSP), including, but not limited to, the Government Service Insurance System (GSIS), Social Security System (SSS), Home Development Mutual Fund (HDMF) or Pag IBIG Fund, National Home Mortgage Finance Corporation (NHMFC), Social Housing Finance Corporation (SHFC), Home Guaranty Corporation (HGC), and the National Housing Authority (NHA) that have at least three (3) months of unpaid monthly ammortizations as of the effectivity of this Act are hereby declared covered by the benefits of this loan restructuring and condonation program notwithstanding that the same accounts have availed of the benefits of a previous restructuring or condonation program: _Provided_ , That the original principal amount of the housing loans shall not exceed Two Million Five Hundred Thousand pesos (P2,500,000.00). _Provided_ , _further_ , That every year after the effectivity of this Act, HUDCC is authorized to increase the amount herein stated;
 
@@ -52,9 +56,13 @@ Toward this end, a rational loan restructuring and condonation program shall be 
 
 (h) the loan restructuring and condonation program provided for in this Act shall be construed as a separate and distinct program from the ones being implemented by the respective GFIs and housing agencies mentioned in Section 3(a) hereof, and the borrower has the option to choose which loan restructuring and condonation program he/she may avail of.
 
-**Section 4._Authority to Continue the Restructuring Program._** \- Notwithstanding the lapse of the period provided in Section 3 (a) of this Act, the governing boards of HDMF/Pag-IBIG Fund, SSS, GSIS, NHMFC, SHFC, HGC and NHA are hereby authorized to continue the loan restructuring and condonation program under this Act.
+## Section 4
 
-**Section 5._Exclusion from Coverage._** \- In no instance shall the following housing loan accounts be covered by this Act:
+_Authority to Continue the Restructuring Program._ \- Notwithstanding the lapse of the period provided in Section 3 (a) of this Act, the governing boards of HDMF/Pag-IBIG Fund, SSS, GSIS, NHMFC, SHFC, HGC and NHA are hereby authorized to continue the loan restructuring and condonation program under this Act.
+
+## Section 5
+
+_Exclusion from Coverage._ \- In no instance shall the following housing loan accounts be covered by this Act:
 
 (a) any account without a single payment since take out;
 
@@ -66,21 +74,35 @@ Toward this end, a rational loan restructuring and condonation program shall be 
 
 (e) Pag-IBIG Fund contract-to-sell accounts covered by the developers's buy-back guaranty.
 
-**Section 6._Remedies Against Delinquent Accounts._** \- Without prejudice to the resort to foreclosure as provided for by law or contract in proper cases, the GFIs and housing agencies shall continue to exercise their right to foreclose properties covered by accounts excluded in subparagraphs (a) through (e) under Section 5 hereof or of delinquent accounts of borrowers who shall fail to avail of the benefits under this Act and that such foreclosure proceedings shall be exempt from publication in newspapers: _Provided_ , that posting of the date and place of auction shall be made in at least three (3) conspicuous public places similar to that provided for under Act 3135 as amended, otherwise known as An Act To Regulate The Sale of Property Under Special Powers Inserted In Or Annexed To Real-Estate Mortgages: _Provided_ , _further_ , That notice to the borrower at his/her last known address shall likewise be made: _Provided_ , _finally_ , That the foreclosure proceedings mentioned above should be observed in the event that the borrower avails of the benefits of this Act but subsequently defaults under the loan restructuring and condonation program.
+## Section 6
 
-**Section 7._Incentive for Prompt Payment of Monthly Amortization._** \- Upon the effectivity of this Act, all accounts whose monthly amortizations are paid on time shall be entitled to incentives, including but not limited to, a reasonable discount on loan interest, the amount or percentage of which shall be determined by the respective boards of the (GFls) and housing agencies.
+_Remedies Against Delinquent Accounts._ \- Without prejudice to the resort to foreclosure as provided for by law or contract in proper cases, the GFIs and housing agencies shall continue to exercise their right to foreclose properties covered by accounts excluded in subparagraphs (a) through (e) under Section 5 hereof or of delinquent accounts of borrowers who shall fail to avail of the benefits under this Act and that such foreclosure proceedings shall be exempt from publication in newspapers: _Provided_ , that posting of the date and place of auction shall be made in at least three (3) conspicuous public places similar to that provided for under Act 3135 as amended, otherwise known as An Act To Regulate The Sale of Property Under Special Powers Inserted In Or Annexed To Real-Estate Mortgages: _Provided_ , _further_ , That notice to the borrower at his/her last known address shall likewise be made: _Provided_ , _finally_ , That the foreclosure proceedings mentioned above should be observed in the event that the borrower avails of the benefits of this Act but subsequently defaults under the loan restructuring and condonation program.
 
-**Section 8._Implementing Rules and Regulations._** \- There is hereby created an interagency committee, headed by the HUDCC and composed of all the government institutions and agencies enumerated in Section 3(a) hereof, tasked to promulgate the implementing rules and regulations within sixty (60) days from the effectivity of this Act.
+## Section 7
 
-**Section 9._Congressional Oversight Committee._ **\- There is hereby created a Congressional Oversight Committee composed of the Chairman of the Senate Committee on Urban Planning, Housing and Resettlement and the Chairman of the House Committee on Housing and Urban Development, four (4) members of the Senate and four (4) members of the House of Representatives. The members from the Senate shall be appointed by the Senate President from among the members of the Senate Committee on Urban Planning, Housing and Resettlement based on the proportional representation of the parties or coalition therein. The members from the House of Representatives shall be appointed by the Speaker from among the members of the House Committee on Housing and Urban Development based on the proportional representation of the parties or coalitions therein.
+_Incentive for Prompt Payment of Monthly Amortization._ \- Upon the effectivity of this Act, all accounts whose monthly amortizations are paid on time shall be entitled to incentives, including but not limited to, a reasonable discount on loan interest, the amount or percentage of which shall be determined by the respective boards of the (GFls) and housing agencies.
+
+## Section 8
+
+_Implementing Rules and Regulations._ \- There is hereby created an interagency committee, headed by the HUDCC and composed of all the government institutions and agencies enumerated in Section 3(a) hereof, tasked to promulgate the implementing rules and regulations within sixty (60) days from the effectivity of this Act.
+
+## Section 9
+
+_Congressional Oversight Committee._ \- There is hereby created a Congressional Oversight Committee composed of the Chairman of the Senate Committee on Urban Planning, Housing and Resettlement and the Chairman of the House Committee on Housing and Urban Development, four (4) members of the Senate and four (4) members of the House of Representatives. The members from the Senate shall be appointed by the Senate President from among the members of the Senate Committee on Urban Planning, Housing and Resettlement based on the proportional representation of the parties or coalition therein. The members from the House of Representatives shall be appointed by the Speaker from among the members of the House Committee on Housing and Urban Development based on the proportional representation of the parties or coalitions therein.
 
 The Oversight Committee upon review and approval of the Implementing rules and regulations shall become _functus officio_ and therefore cease to exist: _Provided_ , _however_ , That the GFIs and housing agencies cited in Section 3(a) hereof shall submit to the Committee on Urban Planning, Housing and Resettlement of the Senate and the Committee on Housing and Urban Development of the House of Representatives an annual report on the availment of the loan restructuring and condonation program under this Act.
 
-**Section 10._Repealing Clause._ **\- All laws, including Republic Act No 8501, otherwise known as the Housing Loan Condonation Act of 1998, executive orders, rules or regulations, or any part thereof, inconsistent with any provisions of this Act are hereby repealed or modified accordingly.
+## Section 10
 
-**Section 11._Separability Clause._** \- If any provision of this Act is held invalid or unconstitutional, the provisions not otherwise affected shall remain valid and subsisting.
+_Repealing Clause._ \- All laws, including Republic Act No 8501, otherwise known as the Housing Loan Condonation Act of 1998, executive orders, rules or regulations, or any part thereof, inconsistent with any provisions of this Act are hereby repealed or modified accordingly.
 
-**Section 12._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
+## Section 11
+
+_Separability Clause._ \- If any provision of this Act is held invalid or unconstitutional, the provisions not otherwise affected shall remain valid and subsisting.
+
+## Section 12
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
 
 Approved
 

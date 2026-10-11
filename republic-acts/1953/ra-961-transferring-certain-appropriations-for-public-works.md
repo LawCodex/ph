@@ -32,6 +32,6 @@ Sub-heading "Other Public Works Projects," under the heading "Batangas," subsect
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1953.

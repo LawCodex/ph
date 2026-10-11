@@ -133,7 +133,7 @@ Subject to the approval of the Board of Regents, the President of the State Coll
 
 ## Section 16
 
-The requirements provided in this Act as may prove adverse to the present faculty and employees of the Camarines Norte National High School, Mercedes School of Fisheries, Camarines Norte National Agricultural School, Camarines Norte National School of Arts and Trades and Abano Pilot Elementary School who may be absorbed by the Camarines Norte State College shall not apply to them. The present officials, faculty and employees of the aforementioned government schools shall be absorbed by the State College and shall be given priority in promotion to the different positions created as a result of this Act. Future appointees to the said positions, however, shall be subjected to all requirements provided in this Act.1âшphi1
+The requirements provided in this Act as may prove adverse to the present faculty and employees of the Camarines Norte National High School, Mercedes School of Fisheries, Camarines Norte National Agricultural School, Camarines Norte National School of Arts and Trades and Abano Pilot Elementary School who may be absorbed by the Camarines Norte State College shall not apply to them. The present officials, faculty and employees of the aforementioned government schools shall be absorbed by the State College and shall be given priority in promotion to the different positions created as a result of this Act. Future appointees to the said positions, however, shall be subjected to all requirements provided in this Act.
 
 ## Section 17
 

@@ -87,7 +87,7 @@ The Public Service Commission, after hearing the interested parties, upon notice
 
 ## Section 14
 
-It is expressly provided that in the event the Government should desire to operate and maintain for itself the water system herein authorized, the grantee shall surrender its franchise and will turn over to the Government the system and serviceable equipment therein, at cost, less reasonable depreciation.1âшphi1
+It is expressly provided that in the event the Government should desire to operate and maintain for itself the water system herein authorized, the grantee shall surrender its franchise and will turn over to the Government the system and serviceable equipment therein, at cost, less reasonable depreciation.
 
 ## Section 15
 

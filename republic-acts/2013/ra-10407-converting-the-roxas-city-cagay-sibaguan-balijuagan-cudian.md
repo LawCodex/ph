@@ -38,7 +38,7 @@ The Secretary of Public Works and Highways shah include in the Department’s pr
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âwphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

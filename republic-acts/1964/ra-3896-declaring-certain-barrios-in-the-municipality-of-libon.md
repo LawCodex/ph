@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Sagrada Familia, Villa Petrona, Talintalin, Tambo, Rawis, Bariw, Alongong, Marique, San Ramon, Sta. Cruz and Sto. Niño in the Municipality of Libon, Province of Albay, are hereby declared as duly constituted barrios of said municipality, to be known as the barrios of Sagrada Familia, Villa Petrona, Talintalin, Tambo, Rawis, Bariw, Alongong, Marique, San Ramon, Sta. Cruz and Sto. Niño, respectively.1aшphi1
+The barrios of Sagrada Familia, Villa Petrona, Talintalin, Tambo, Rawis, Bariw, Alongong, Marique, San Ramon, Sta. Cruz and Sto. Niño in the Municipality of Libon, Province of Albay, are hereby declared as duly constituted barrios of said municipality, to be known as the barrios of Sagrada Familia, Villa Petrona, Talintalin, Tambo, Rawis, Bariw, Alongong, Marique, San Ramon, Sta. Cruz and Sto. Niño, respectively.
 
 ## Section 2
 

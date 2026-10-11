@@ -54,7 +54,7 @@ _Jurisdiction of the city._ -The jurisdiction of the City of Legaspi for police 
 
 ### Section 7
 
-_The mayor—His appointment and compensation._ -The mayor shall be the chief executive of the city.1âшphi1 He shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress of the Philippines, and shall hold office at the pleasure of the President.
+_The mayor—His appointment and compensation._ -The mayor shall be the chief executive of the city. He shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress of the Philippines, and shall hold office at the pleasure of the President.
 
 He shall receive a salary of five thousand four hundred pesos a year. With the approval of the Secretary of the Interior, the mayor may be provided, in addition to his salary, a non-commutable allowance of not exceeding two thousand pesos per annum.
 
@@ -428,7 +428,7 @@ _When assessment may be increased or reduced._ -The city assessor shall during t
 
 ### Section 35
 
-_Publication of complete list and proceedings thereon._ -The city assessor shall, when the list shall be completed, inform the public by notice published for seven days in a newspaper of general circulation in the city if any, and by notice posted for seven days at the main entrance of the City Hall, that the list is on file in his office and may be examined by any person interested therein, and that upon the date fixed in the notice, which shall not be later than the tenth day of February, the city assessor will be in his office for the purpose of hearing complaints as to the accuracy of the listing of the property and the assessed value thereof. He shall further notify in writing each person the amount of whose tax will be changed by such proposed change, by delivering or mailing such notification to such person or his authorized agent at the last known address of such owner or agent in the Philippines, sometime in the month of January.£a⩊phi£
+_Publication of complete list and proceedings thereon._ -The city assessor shall, when the list shall be completed, inform the public by notice published for seven days in a newspaper of general circulation in the city if any, and by notice posted for seven days at the main entrance of the City Hall, that the list is on file in his office and may be examined by any person interested therein, and that upon the date fixed in the notice, which shall not be later than the tenth day of February, the city assessor will be in his office for the purpose of hearing complaints as to the accuracy of the listing of the property and the assessed value thereof. He shall further notify in writing each person the amount of whose tax will be changed by such proposed change, by delivering or mailing such notification to such person or his authorized agent at the last known address of such owner or agent in the Philippines, sometime in the month of January.
 
 It shall be his duty carefully to preserve and record in his office copies of said notices. On the day fixed in the notice, and for five days thereafter, he shall be present in his office to hear all complaints filed within the period by persons against whom taxes have been assessed as owners of real estate, and he shall make his decision forthwith and enter the same in a well-bound book, to be kept by him for that purpose, and if he shall determine that injustice has been done or errors have been committed he is authorized to amend the list in accordance with his findings.
 
@@ -729,7 +729,7 @@ _Reports to the Mayor concerning schools—Construction and custody of school bu
 
 ### Section 87
 
-_The city health officer—His salary, powers and duties._ -There shall be in the City of Legaspi a city health officer.1âшphi1 He shall have a salary of not exceeding three thousand pesos per annum. The city health officer shall have the following general powers and duties:
+_The city health officer—His salary, powers and duties._ -There shall be in the City of Legaspi a city health officer. He shall have a salary of not exceeding three thousand pesos per annum. The city health officer shall have the following general powers and duties:
 
 (a) He shall have general supervision over the health and sanitary conditions of the city.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Public Schools, a school of arts and trades in the Municipality of Claveria, Province of Cagayan, to be known as the Claveria School of Arts and Trades.1âшphi1
+There shall be established, under the supervision of the Director of Public Schools, a school of arts and trades in the Municipality of Claveria, Province of Cagayan, to be known as the Claveria School of Arts and Trades.
 
 ## Section 2
 

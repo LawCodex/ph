@@ -61,6 +61,6 @@ The last paragraph of section forty-nine of Commonwealth Act Numbered Fifty-eigh
 
 ## Section 7
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: October 21, 1946.

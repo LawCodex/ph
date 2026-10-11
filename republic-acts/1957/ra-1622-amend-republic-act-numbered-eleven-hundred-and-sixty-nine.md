@@ -38,7 +38,7 @@ The Philippine Charity Sweepstakes Office is hereby authorized to print its swee
 
 ## Section 3
 
-Any provisions of existing laws inconsistent herewith are hereby repealed.1âшphi1
+Any provisions of existing laws inconsistent herewith are hereby repealed.
 
 ## Section 4
 

@@ -170,6 +170,6 @@ _Release of Project Funds._ —Upon request of the Department Head concerned, th
 
 ## Section 21
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted, without Executive approval, September 10, 1955.

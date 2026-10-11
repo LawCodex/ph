@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT INCREASING THE BED CAPACITY OF THE ILIGAN CITY DISTRICT HOSPITAL IN ILIGAN CITY, PROVINCE OF LANAO DEL NORTE, FROM SEVENTY-FIVE (75) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

@@ -99,7 +99,7 @@ Section sixteen hundred and seventy-four of the Revised Administrative Code, as 
 
 "Zamboanga, one assistant provincial fiscal at two thousand pesos per annum; and
 
-"Sulu, one assistant provincial fiscal at two thousand pesos, per annum.1aшphi1
+"Sulu, one assistant provincial fiscal at two thousand pesos, per annum.
 
 "These officers shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines, and their salaries shall be paid by the provinces concerned. The salary of the assistant provincial fiscal shall be included in the annual appropriation of the province in the same manner as the salary of the provincial fiscal. To be eligible for appointment to this position, a person must be a citizen of the Philippines who has been duly admitted to practice in the court of said islands, and has been in actual practice for at least three years, prior to his appointments.
 

@@ -28,7 +28,9 @@ AN ACT ESTABLISHING A STANDBY FUND IN THE SUM OF EIGHT HUNDRED FIFTY MILLION PES
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Appropriations._** \- The sum of Five hundred million pesos (P500,000,000.00) is hereby appropriated as standby fund for the following purposes:
+## SECTION 1
+
+_Appropriations._ \- The sum of Five hundred million pesos (P500,000,000.00) is hereby appropriated as standby fund for the following purposes:
 
 | (a) Clean up of the oil spill off the Province of Guimaras and for livelihood and other assistance for the victims of the oil spill | P400,000,000.00 |
 |---|---|
@@ -40,11 +42,17 @@ The amounts herein appropriated shall be used for the purpose indicated and subj
 
 The clean up operations for the Guimaras oil spill shall be undertaken in consultation with the appropriate departments of the University of the Philippines System.
 
-**SEC. 2._Augmentation._** \- The appropriations for the repatriation of Overseas Filipino Workers in the amount of Fifty million pesos (P50,000,000.00) under Section 1(c) hereof shall be augmented by the Three hundred fifty million pesos. (P350,000,000.00) appropriated by the Board of Trustees of the Overseas Workers Welfare Administration (OWWA), under OWWA Board Resolution Nos. 009, 012 and 014 (series of 2006), as contingent fund for the repatriation of Overseas Filipino Workers in Lebanon and other affected countries, subject to the conditions set forth in the said Board resolutions.
+## SEC. 2
 
-**SEC. 3._Implementing Rules and Regulations._** -The Task Force created under Executive Order No. 551 dated July 26, 2006 shall issue the necessary rules and regulations to implement the Four hundred million pesos (P400,000,000.00) standby fund for the repatriation of Overseas Filipino Workers in Lebanon and other affected countries in the Middle East.
+_Augmentation._ \- The appropriations for the repatriation of Overseas Filipino Workers in the amount of Fifty million pesos (P50,000,000.00) under Section 1(c) hereof shall be augmented by the Three hundred fifty million pesos. (P350,000,000.00) appropriated by the Board of Trustees of the Overseas Workers Welfare Administration (OWWA), under OWWA Board Resolution Nos. 009, 012 and 014 (series of 2006), as contingent fund for the repatriation of Overseas Filipino Workers in Lebanon and other affected countries, subject to the conditions set forth in the said Board resolutions.
 
-**SEC. 4._Effectivity._** \- This Act shall take effect upon its enactment into law.
+## SEC. 3
+
+_Implementing Rules and Regulations._ -The Task Force created under Executive Order No. 551 dated July 26, 2006 shall issue the necessary rules and regulations to implement the Four hundred million pesos (P400,000,000.00) standby fund for the repatriation of Overseas Filipino Workers in Lebanon and other affected countries in the Middle East.
+
+## SEC. 4
+
+_Effectivity._ \- This Act shall take effect upon its enactment into law.
 
 Approved,
 

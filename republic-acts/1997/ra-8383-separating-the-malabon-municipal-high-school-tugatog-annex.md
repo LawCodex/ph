@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Malabon Municipal High School, Tugatog Annex, situated in Barangay Tugatog, is hereby separated from the Malabon Municipal High School situated in Barangay Hulong-Duhat, all in the Municipality of Malabon, Metro Manila, and shall operate independently under the supervision of the Department of Education, Culture and Sports, to be known as the Tugatog National High School.1aшphi1
+The Malabon Municipal High School, Tugatog Annex, situated in Barangay Tugatog, is hereby separated from the Malabon Municipal High School situated in Barangay Hulong-Duhat, all in the Municipality of Malabon, Metro Manila, and shall operate independently under the supervision of the Department of Education, Culture and Sports, to be known as the Tugatog National High School.
 
 ## Section 2
 

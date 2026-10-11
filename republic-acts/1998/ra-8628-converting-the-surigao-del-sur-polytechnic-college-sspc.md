@@ -165,7 +165,7 @@ The academic council shall have the power to review and recommend the curricular
 
 ## Section 12
 
-_Academic Freedom._ \- Pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines, all institutions of higher learning, public or private, shall enjoy academic freedom and institutional autonomy.Ꮮαwρhi৷
+_Academic Freedom._ \- Pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines, all institutions of higher learning, public or private, shall enjoy academic freedom and institutional autonomy.
 
 ## Section 13
 

@@ -67,7 +67,7 @@ Section 32 of Republic Act No. 7277, as amended, otherwise known as the _“Magn
 
 “(ii) The passport of the PWD concerned; or
 
-“(iii) Transportation discount fare Identification Card (ID) issued by the National Council for the Welfare of Disabled Persons (NCWDP).1âwphi1
+“(iii) Transportation discount fare Identification Card (ID) issued by the National Council for the Welfare of Disabled Persons (NCWDP).
 
 “The privileges may not be claimed if the PWD claims a higher discount as may be granted by the commercial establishment and/or under other existing laws or in combination with other discount program/s.
 

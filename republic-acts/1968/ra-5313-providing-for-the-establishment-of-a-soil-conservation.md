@@ -29,7 +29,7 @@ There is hereby established a soil conservation demonstration station in the Mun
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the soil conservation demonstration station for the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred fifty thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the soil conservation demonstration station for the fiscal year nineteen hundred sixty-nine. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

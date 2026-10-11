@@ -28,7 +28,7 @@ The sitios of Bolarong, Talanusa, Guinimanan, Bius, Linoguayan, Kapatagan, Walin
 
 ## Section 2
 
-The sitio of Loy-a in the Municipality of San Pablo, same province, is converted into a barrio of said municipality to be known as the barrio of Regla.1âшphi1
+The sitio of Loy-a in the Municipality of San Pablo, same province, is converted into a barrio of said municipality to be known as the barrio of Regla.
 
 ## Section 3
 

@@ -28,17 +28,27 @@ AAN ACT CONVERTING THE PANAY STATE POLYTECHNIC COLLEGE INTHE PROVINCE OF CAPIZ I
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Conversion._** -The Panay State Polytechnic College in the Province of Capiz is hereby converted into a state university to be known as the Capiz State University (CAPSU) hereinafter referred to as the University. The center for administration of the University shall be in the Roxas City campus while the center for academic affairs shall be in the Mambusao Poblacion Campus.
+## Section 1
 
-**Sec. 2._General Mandate._** \- The University shall primarily provide advanced instruction and professional training in agriculture, fishery and forestry, science and technology, arts and humanities, education and other related fields. It shall also undertake research, extension services and production activities, and provide progressive leadership in its areas of specialization.
+_Conversion._ -The Panay State Polytechnic College in the Province of Capiz is hereby converted into a state university to be known as the Capiz State University (CAPSU) hereinafter referred to as the University. The center for administration of the University shall be in the Roxas City campus while the center for academic affairs shall be in the Mambusao Poblacion Campus.
 
-**Sec. 3._Curricular Offerings._** \- The University shall offer undergraduate, graduate and short-term courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, particularly in order to meet the needs of the Province of Capiz and the region.
+## Sec. 2
+
+_General Mandate._ \- The University shall primarily provide advanced instruction and professional training in agriculture, fishery and forestry, science and technology, arts and humanities, education and other related fields. It shall also undertake research, extension services and production activities, and provide progressive leadership in its areas of specialization.
+
+## Sec. 3
+
+_Curricular Offerings._ \- The University shall offer undergraduate, graduate and short-term courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, particularly in order to meet the needs of the Province of Capiz and the region.
 
 The existing high school/s shall be transferred to the jurisdiction and supervision of the Department of Education (DepEd): Provided, That the high school/s shall be allowed to remain and operate within the campus of the University until the existing students shall have completed their high school education: Provided, further, That the University may operate a reasonably-sized laboratory school, if it has a College Education.
 
-**Sec. 4._Administration._** \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines." The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University insofar as authorized by the Board.
+## Sec. 4
 
-**Sec. 5._The Governing Board._** \- The Governing Board of the state university shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines." The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University insofar as authorized by the Board.
+
+## Sec. 5
+
+_The Governing Board._ \- The Governing Board of the state university shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 (a) The Chairperson of the Commission on Higher Education (CHED), as chairperson;
 
@@ -66,9 +76,13 @@ The term of office of the president of the federation of faculty associations, t
 
 The two (2) prominent citizens shall serve for a term of two (2) years, from appointment date.
 
-**Sec. 6._Promulgation and Implementation of Policies._** \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+## Sec. 6
 
-**Sec. 7._Powers and Duties of the Board of Regents._** \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all powers granted to the board of directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+
+## Sec. 7
+
+_Powers and Duties of the Board of Regents._ \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all powers granted to the board of directors of a corporation under existing laws:
 
 (a) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University;
 
@@ -128,7 +142,9 @@ If, for any reason beyond its control, the University shall not be able to pursu
 
 (y) To extend the term of the president of the University beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated by the Governing Board as outstanding, after unanimous recommendation by the search committee.
 
-**Sec. 8._Meetings of the Board._** \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days' prior written notice, call a maximum of two (2) special meetings whenever necessary.
+## Sec. 8
+
+_Meetings of the Board._ \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days' prior written notice, call a maximum of two (2) special meetings whenever necessary.
 
 A quorum of the Board shall consist of a majority of all its members holding office at the time of the meeting: Provided, however, That the Chairperson of the CHED or the president of the University is among those present in the meeting.
 
@@ -138,7 +154,9 @@ In case the Chairpersons of the Congressional Committees on Education shall not 
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board, subject to existing laws and regulations.
 
-**Sec. 9._The University President._** \- The University shall be headed by a president who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall hold office for a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state university, the president of the Panay State Polytechnic College (PSPC), if qualified, shall serve as the first president of the University.
+## Sec. 9
+
+_The University President._ \- The University shall be headed by a president who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall hold office for a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state university, the president of the Panay State Polytechnic College (PSPC), if qualified, shall serve as the first president of the University.
 
 The president shall be assisted by a vice president for academic affairs and a vice president for administration, who shall be appointed by the Board upon the recommendation of the president.
 
@@ -150,33 +168,55 @@ The powers and duties of the president of the University, in addition to those s
 
 The salary of the president of the University shall be in accordance with the Revised Compensation and Position Classification System and shall be comparable to that being received by the presidents of similar educational institutions.
 
-**Sec. 10._The Administrative Council._** \- There shall be an Administrative Council consisting of the president of the University as chairperson, the vice president(s), deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University for appropriate action.
+## Sec. 10
 
-**Sec. 11._The Academic Council._** \- There shall be an Academic Council with the president of the University as chairperson and all members of the academic staff, with the rank of not lower than assistant professor, as members.
+_The Administrative Council._ \- There shall be an Administrative Council consisting of the president of the University as chairperson, the vice president(s), deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University for appropriate action.
+
+## Sec. 11
+
+_The Academic Council._ \- There shall be an Academic Council with the president of the University as chairperson and all members of the academic staff, with the rank of not lower than assistant professor, as members.
 
 The Academic Council shall have the power to review and recommend curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and/or approval of the Board of Regents through the president of the University. It shall have disciplinary power over the students of the University and shall formulate academic policies, rules and regulations on discipline, subject to the approval of the Board of Regents.
 
-**Sec. 12._The Secretary of the University._** \- The Board shall appoint a secretary, who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
+## Sec. 12
 
-**Sec. 13._The Treasurer of the University._** \- The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+_The Secretary of the University._ \- The Board shall appoint a secretary, who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
 
-**Sec. 14._Faculty._** \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members in the University: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+## Sec. 13
 
-**Sec. 15._Scholarship Program/Admission._** -The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+
+## Sec. 14
+
+_Faculty._ \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members in the University: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## Sec. 15
+
+_Scholarship Program/Admission._ -The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**Sec. 16._Academic Freedom and Institutional Autonomy._** -The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## Sec. 16
 
-**Sec. 17._Authority to Loan or Transfer._** \- The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees, for duty therein when, in the judgment of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. Employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ -The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**Sec. 18._Assets, Liabilities and Personnel._** \- All assets, real and personal, personnel and records of the Panay State Polytechnic College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
+## Sec. 17
+
+_Authority to Loan or Transfer._ \- The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees, for duty therein when, in the judgment of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. Employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## Sec. 18
+
+_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Panay State Polytechnic College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
 
 All parcels of land belonging to the government and occupied by the Panay State Polytechnic College are hereby declared to be the property of the University and shall be titled under that name: Provided, That should the University cease to exist or be abolished or such parcels of land aforementioned be no longer needed by the University, the same shall revert to the Province of Capiz.
 
-**Sec. 19._Appropriations._** \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Panay State Polytechnic College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Capiz State University (CAPSU) shall be included in the annual General Appropriations Act.
+## Sec. 19
 
-**Sec. 20._Development Plan, Management Audit, ganizational/Administrative/Academic Structure._** \- Within the period of one hundred and twenty (120) days after the approval of this Act, the University shall accomplish the following:
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Panay State Polytechnic College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Capiz State University (CAPSU) shall be included in the annual General Appropriations Act.
+
+## Sec. 20
+
+_Development Plan, Management Audit, ganizational/Administrative/Academic Structure._ \- Within the period of one hundred and twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 1\. Submit a five-(5) year development plan, including its corresponding program budget, to the CHED, for appropriate recommendation to the DBM;
 
@@ -184,13 +224,21 @@ All parcels of land belonging to the government and occupied by the Panay State 
 
 3\. Accordingly set-up its organizational, administrative as well as academic structure, including the appointment/designation of key University officials.
 
-**Sec. 21._Filing of Report._** \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the Chairperson of the CHED, and with both Houses of Congress, a detailed report on the progress, conditions and needs of the University.
+## Sec. 21
 
-**Sec. 22._Suppletory Application._** \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and together shall serve as part of the Governing Charter of the University.
+_Filing of Report._ \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the Chairperson of the CHED, and with both Houses of Congress, a detailed report on the progress, conditions and needs of the University.
 
-**Sec. 23._Repealing Clause._** -All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+## Sec. 22
 
-**Sec. 24._Effectivity._** \- This Act shall take effect upon its approval.
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and together shall serve as part of the Governing Charter of the University.
+
+## Sec. 23
+
+_Repealing Clause._ -All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+## Sec. 24
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved,
 

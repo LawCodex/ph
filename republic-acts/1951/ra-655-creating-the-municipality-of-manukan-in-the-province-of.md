@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Manukan, Lipras, Dipane, Linay, Mate, Sirongan, Libuton, Disakan, Siparok, Ponot, and Manawan are separated from the Municipality of Katipunan, Province of Zamboanga, and constituted into a new and regular municipality to be known as the Municipality of Manukan in the same province.1a⍵⍴h!1
+The barrios of Manukan, Lipras, Dipane, Linay, Mate, Sirongan, Libuton, Disakan, Siparok, Ponot, and Manawan are separated from the Municipality of Katipunan, Province of Zamboanga, and constituted into a new and regular municipality to be known as the Municipality of Manukan in the same province.
 
 ## Section 2
 

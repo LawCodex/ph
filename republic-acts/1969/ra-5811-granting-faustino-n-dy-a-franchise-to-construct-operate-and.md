@@ -74,7 +74,7 @@ The grantee shall not require any previous censorship of any speech, play or oth
 
 ## Section 13
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1a⍵⍴h!1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

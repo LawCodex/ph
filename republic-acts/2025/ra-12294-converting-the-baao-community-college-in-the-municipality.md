@@ -181,7 +181,7 @@ _The Faculty._ \- No political belief, sex, gender, cultural or community affili
 
 ## Section 15
 
-_Academic Freedom and Institutional Autonomy._ \- The RSC shall enjoy academic freedom and institutional autonomy pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.ℒαwρhi৷
+_Academic Freedom and Institutional Autonomy._ \- The RSC shall enjoy academic freedom and institutional autonomy pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.
 
 ## Section 16
 
@@ -197,7 +197,7 @@ The personnel to be detailed to the College shall perform such duties as require
 
 ## Section 18
 
-_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Baao Community College, as well as liabilities or obligations, are hereby transferred to the RSC.ᇈWᑭHIL
+_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Baao Community College, as well as liabilities or obligations, are hereby transferred to the RSC.
 
 All parcels of land belonging to the government occupied by the Baao Community College are declared as property of the RSC, and shall be titled under its name: _Provided,_ that all parcels of land of the RSC shall revert to the original owner or donor, or the Republic of the Philippines, in the event that the RSC ceases to exist or be abolished, or should the said parcels of land be no longer needed by the RSC: _Provided, further_ , That such reversion shall not impair obligation of contracts.
 

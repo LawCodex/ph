@@ -258,7 +258,7 @@ c. Payment for the usual cost of the preparation of working drawings, specificat
 
 _Penalties._ \- It shall be unlawful for any person to usurp any portion of a right-of-way, to convert any part of any public highway, bridge, wharf or trail to his own private use or to obstruct the same in any manner, or to use any highway ditch for irrigation or other private purposes, and any person so offending shall be punished by a fine of not more than two hundred pesos or by imprisonment not exceeding three months.
 
-Any person altering boundaries or location monuments or road right-of-ways shall be punished under article three hundred and thirteen of the Revised Penal Code.1a⍵⍴h!1
+Any person altering boundaries or location monuments or road right-of-ways shall be punished under article three hundred and thirteen of the Revised Penal Code.
 
 Any person who shall remove any tool or any road-making material from any highway, or mutilate, damage, destroy, or in any manner interfere with any public bridge, culvert, drainage canal, road marker, sign, or other road or road-side development facilities shall be punished under article three hundred and twenty-eight of the Revised Penal Code.
 

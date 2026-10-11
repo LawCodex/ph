@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established and maintained under the supervision of the Fisheries Commissioner, pilot fish and shrimp farms and nurseries in the Municipalities of Cantilan, Lianga and Hinatuan, Province of Surigao del Sur.1âшphi1
+There shall be established and maintained under the supervision of the Fisheries Commissioner, pilot fish and shrimp farms and nurseries in the Municipalities of Cantilan, Lianga and Hinatuan, Province of Surigao del Sur.
 
 ## Section 2
 

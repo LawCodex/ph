@@ -30,7 +30,7 @@ The amount made available for expenditure for each fiscal year under the provisi
 
 ## Section 3
 
-The Secretary of Education shall allocate for each fiscal year the share of each province or city on the basis of the number of public elementary school pupils not housed in permanent and semi-permanent public elementary school buildings in such province or city in relation to the total number of such pupils in the entire country during the preceding fiscal year.1awphil@alf
+The Secretary of Education shall allocate for each fiscal year the share of each province or city on the basis of the number of public elementary school pupils not housed in permanent and semi-permanent public elementary school buildings in such province or city in relation to the total number of such pupils in the entire country during the preceding fiscal year.
 
 During the first fifteen days of each regular session of the Congress, he shall submit a report of such allocation to the Congress, which shall contain in addition a recommendation of the public elementary school buildings in each province or city which shall be constructed, reconstructed, improved and/or repaired as well as the amounts estimated for the execution of each of such projects. On the basis of such report, the Congress shall by law specify the public elementary school buildings that shall be constructed, reconstructed, improved and/or repaired during the ensuing fiscal year. If the Congress shall fail to enact such law for any fiscal year, the aforementioned report and recommendation of the Secretary of Education shall be deemed as having been approved by the Congress and the public elementary school building projects contained therein shall be executed: Provided, however, That the specification of said projects as well as the allocation for such projects made by the Secretary of Education for the fiscal year 1953-1954, in accordance with the provisions hereof, shall be deemed as having been approved by the Congress: Provided, further, That no release of the appropriation herein provided shall be made for any province or city unless such release is made simultaneously for all the other provinces and cities and always on the basis of the allocation for all provinces and cities as provided herein.
 
@@ -54,4 +54,4 @@ All unexpended balance, after the completion of any of the works authorized by t
 
 This Act shall take effect upon its approval.
 
-Approved: March 12, 19531awphil@alf
+Approved: March 12, 1953

@@ -29,7 +29,7 @@ There is established in the Municipality of Kawit, Province of Cavite, a nationa
 
 ## Section 2
 
-There shall be constructed on any vacant place in the land donated by the late General Emilio Aguinaldo y Famy to the Republic of the Philippines, a Freedom House wherein shall be depicted, stage by stage, the important events in the history of the Philippine Revolution against Spain, the Philippine-American War, and the peaceful struggles of the Philippines for independence which culminated in the recognition of the independence of the Philippines on July four, nineteen hundred forty-six.(awÞhi(
+There shall be constructed on any vacant place in the land donated by the late General Emilio Aguinaldo y Famy to the Republic of the Philippines, a Freedom House wherein shall be depicted, stage by stage, the important events in the history of the Philippine Revolution against Spain, the Philippine-American War, and the peaceful struggles of the Philippines for independence which culminated in the recognition of the independence of the Philippines on July four, nineteen hundred forty-six.
 
 ## Section 3
 

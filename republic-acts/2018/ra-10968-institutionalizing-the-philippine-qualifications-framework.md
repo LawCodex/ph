@@ -125,7 +125,7 @@ _Review of Assessment System._ \- The PRC and the CHED shall review the system o
 
 ## Section 10
 
-_Permanent Secretariat._ \- The PQF-NCC shall organize a permanent technical secretariat.1âwphi1 The Secretariat may contract the services of technical experts and authorities on relevant areas of concern such as equivalencies, accreditation, curriculum development, educational measurement and testing.
+_Permanent Secretariat._ \- The PQF-NCC shall organize a permanent technical secretariat. The Secretariat may contract the services of technical experts and authorities on relevant areas of concern such as equivalencies, accreditation, curriculum development, educational measurement and testing.
 
 The PQF-NCC shall determine the structure, composition, staff qualifications and the location of the permanent secretariat.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Rizal, Aguas, Pitogo, Magsikap, San Pedro, Sto. Nino, Adela, Rumbang, Salvacion, Burot, and Magui in the Municipality of San Jose, Province of Occidental Mindoro, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Rizal, same province. The seat of government of the new municipality shall be in the present site of the barrio of Rizal.1âшphi1
+The barrios of Rizal, Aguas, Pitogo, Magsikap, San Pedro, Sto. Nino, Adela, Rumbang, Salvacion, Burot, and Magui in the Municipality of San Jose, Province of Occidental Mindoro, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Rizal, same province. The seat of government of the new municipality shall be in the present site of the barrio of Rizal.
 
 ## Section 2
 

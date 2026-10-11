@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The school in the Municipality of Tubigon, Province of Bohol, at present known as Panaytayon Primary School, shall hereafter be known as Jose Boja Primary School.1âшphi1
+The school in the Municipality of Tubigon, Province of Bohol, at present known as Panaytayon Primary School, shall hereafter be known as Jose Boja Primary School.
 
 ## Section 2
 

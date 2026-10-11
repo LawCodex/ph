@@ -746,7 +746,7 @@ Upon effectivity of this Act and before the establishment of the NACC, administr
 
 ### Section 57
 
-_Designation of the Second Week of June as Adoption and Alternative Child Care Week._ – The second week of June of every year shall be designated as Adoption and Alternative Child Care Week.⚖ - ℒαɯρhi৷
+_Designation of the Second Week of June as Adoption and Alternative Child Care Week._ – The second week of June of every year shall be designated as Adoption and Alternative Child Care Week.
 
 ### Section 58
 

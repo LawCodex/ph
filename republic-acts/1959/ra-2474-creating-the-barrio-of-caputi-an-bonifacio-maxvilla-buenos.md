@@ -36,7 +36,7 @@ The following barrios are hereby created in the Municipality of Allen, Province 
 
 (5) Barrio of Buensuerte, consisting of the sitios of To-og, Cag-olango, Pinamonayan and Cadadiangaoan; and
 
-(6) Barrio of San Lazaro, consisting of the sitios of Sorok, Honop, and Bunglasan.1aшphi1
+(6) Barrio of San Lazaro, consisting of the sitios of Sorok, Honop, and Bunglasan.
 
 ## Section 2
 

@@ -72,7 +72,7 @@ _Distracted Driving._ \- Subject to the qualifications in Sections 5 and 6 of th
 
 _Extent of Coverage_ \-
 
-(a) The operation of a mobile communications device is not considered to be distracted driving if done using the aid of a hands-free function or similar device such as, but not limited to, a speaker phone, earphones and microphones or other similar devices which allow a person to make and receive calls without having to hold the mobile communications device: _Provided,_ That the placement of the mobile communications device or the hands-free device does not interfere with the line of sight of the driver.1âwphi1
+(a) The operation of a mobile communications device is not considered to be distracted driving if done using the aid of a hands-free function or similar device such as, but not limited to, a speaker phone, earphones and microphones or other similar devices which allow a person to make and receive calls without having to hold the mobile communications device: _Provided,_ That the placement of the mobile communications device or the hands-free device does not interfere with the line of sight of the driver.
 
 (b) Wheeled agricultural machineries such as tractors and construction equipment such as graders, rollers, backhoes, payloaders, cranes, bulldozers, mobile concrete mixers and the like, and other forms of conveyances such as bicycles, pedicabs, "habal-habal", trolleys, "kuligligs", wagons, carriages, carts, sledges, chariots or the like, whether animal or human-powered, are covered by the provisions of this Act as long as the same are operated or driven in public thoroughfares, highways or streets or under circumstances where public safety is under consideration.
 

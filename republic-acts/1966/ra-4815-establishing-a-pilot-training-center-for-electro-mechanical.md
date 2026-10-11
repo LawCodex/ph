@@ -29,7 +29,7 @@ The Director of Public Schools is hereby authorized and directed to establish a 
 
 ## Section 2
 
-With the approval of the Secretary of Education, the Director of Public Schools shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1avvphi1
+With the approval of the Secretary of Education, the Director of Public Schools shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

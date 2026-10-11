@@ -29,7 +29,7 @@ The name of the Sta. Fe Barangay High School in Sta. Fe, Leyte, is hereby change
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

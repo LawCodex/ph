@@ -30,7 +30,7 @@ WHEREAS, it is desirable and essential that the World Congress on Tourism be aff
 
 ## Section 1
 
-There is hereby appropriated the sum of fifty thousand pesos, out of any funds in the National Treasury not otherwise appropriated, to cover expenses required for the holding of the World Congress on Tourism in November, nineteen hundred fifty-nine, including the acquisition and installation of modern conference hall equipment and facilities, communication and transportation services and essential conference supplies.1âшphi1
+There is hereby appropriated the sum of fifty thousand pesos, out of any funds in the National Treasury not otherwise appropriated, to cover expenses required for the holding of the World Congress on Tourism in November, nineteen hundred fifty-nine, including the acquisition and installation of modern conference hall equipment and facilities, communication and transportation services and essential conference supplies.
 
 ## Section 2
 

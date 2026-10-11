@@ -95,7 +95,7 @@ _Renting of automobiles, jitneys or trucks for a continuous period exceeding fif
 
 ## Section 12
 
-_Authority to purchase motor vehicles._ -No appropriation authorized in this Act shall be used for the purchase of automobiles, jitneys, jeeps, station wagons, motorcycles and other motor vehicles unless otherwise specifically provided in this Act.1âшphi1
+_Authority to purchase motor vehicles._ -No appropriation authorized in this Act shall be used for the purchase of automobiles, jitneys, jeeps, station wagons, motorcycles and other motor vehicles unless otherwise specifically provided in this Act.
 
 ## Section 13
 

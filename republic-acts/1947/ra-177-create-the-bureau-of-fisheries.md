@@ -60,7 +60,7 @@ The Director of Fisheries shall have the following powers, duties, and functions
 
 (i) To prepare, with the approval of the Secretary of Agriculture and Commerce, forms, instructions, rules and regulations consistent with law.
 
-(j) To promote further the development of the fishing industry in the Philippines.1â#x0448;phi1
+(j) To promote further the development of the fishing industry in the Philippines.
 
 (k) Personally or by his duly authorized representatives to make arrest without warrant any person committing or attempting to commit an offense against the provisions of the Fisheries Act; and, to make seizures of products liable to seizure under said Act or under the provisions of any other law on fisheries and fishery products. The property seized may be delivered to the nearest municipal treasurer and held subject to orders of the Director of Fisheries or the person acting in his stead.
 
@@ -76,7 +76,7 @@ Any person who fails or refuses to comply with the legal summons of the Director
 
 The sum of twenty-five thousand pesos or so much thereof as will be necessary to carry out the purposes of this Act is hereby appropriated.
 
-The Division of Fisheries is hereby abolished and its activities, properties, equipment, records, assets and liabilities are transferred to the Bureau of Fisheries.1â#x0448;phi1
+The Division of Fisheries is hereby abolished and its activities, properties, equipment, records, assets and liabilities are transferred to the Bureau of Fisheries.
 
 ## Section 7
 

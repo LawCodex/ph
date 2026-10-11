@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of Republic Act Numbered Thirty-two hundred five, entitled "An Act granting Francisco Villongco a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Navotas, Province of Rizal, and to sell ice and to supply cold storage therein," approval is hereby given to any mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco, under the said Act, together with all the properties and equipment acquired thereunder, in favor of any government bank or corporation.1âшphi1
+Subject to the provisions of Republic Act Numbered Thirty-two hundred five, entitled "An Act granting Francisco Villongco a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Navotas, Province of Rizal, and to sell ice and to supply cold storage therein," approval is hereby given to any mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco, under the said Act, together with all the properties and equipment acquired thereunder, in favor of any government bank or corporation.
 
 ## Section 2
 

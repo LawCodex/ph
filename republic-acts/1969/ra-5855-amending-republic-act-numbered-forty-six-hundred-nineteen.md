@@ -30,6 +30,6 @@ Republic Act Numbered Forty-six hundred nineteen is hereby amended by inserting 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

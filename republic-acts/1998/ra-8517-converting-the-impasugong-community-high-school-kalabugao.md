@@ -31,7 +31,7 @@ The Impasugong Community High School, Kalabugao-Annex in Kalabugao, Impasugong, 
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Impasugong National High School-Kalabugao Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Kalabugao National High School shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Impasugong National High School-Kalabugao Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Kalabugao National High School shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

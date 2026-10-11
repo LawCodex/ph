@@ -261,7 +261,7 @@ _Separability Clause_. - The provisions of this Act are hereby declared separabl
 
 ### Section 24
 
-_Repealing Clause_. - All other laws, decrees, executive orders, administrative orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.1a⍵⍴h!1
+_Repealing Clause_. - All other laws, decrees, executive orders, administrative orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
 
 ### Section 25
 

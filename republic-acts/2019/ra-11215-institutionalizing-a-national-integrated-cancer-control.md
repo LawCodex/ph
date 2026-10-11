@@ -372,7 +372,7 @@ _Persons with Disabilities._ \- Cancer patients, persons living with cancer and 
 
 ### Section 26
 
-_Rights and Privileges._ \- The cancer patients, persons living with cancer and cancer survivors are accorded the same rights and privileges as PWDs and the DSWD shall ensure that their social welfare and benefits provided under Republic Act No. 7277, as amended, are granted to them.1âwphi1 Further, the DOLE shall adopt programs which promote work and employment opportunities for able persons with cancer and cancer survivors.1âwphi1
+_Rights and Privileges._ \- The cancer patients, persons living with cancer and cancer survivors are accorded the same rights and privileges as PWDs and the DSWD shall ensure that their social welfare and benefits provided under Republic Act No. 7277, as amended, are granted to them. Further, the DOLE shall adopt programs which promote work and employment opportunities for able persons with cancer and cancer survivors.
 
 ### Section 27
 

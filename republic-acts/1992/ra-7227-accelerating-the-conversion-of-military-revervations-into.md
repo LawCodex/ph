@@ -407,7 +407,7 @@ _Supervision._ \- The Conversion Authority shall be under the direct control and
 
 ## Section 18
 
-_Legal Counsel._ \- Without prejudice to the hiring of an outside counsel, the Government Corporate Counsel shall be the ex officio legal counsel of the Conversion Authority, the governing boards of the Special Economic Zones and the subsidiaries wherein the Conversion Authority owns the majority of the shares of stocks, and for this purpose he may designate a full time representative whose compensation shall be approved by the Board.1âшphi1
+_Legal Counsel._ \- Without prejudice to the hiring of an outside counsel, the Government Corporate Counsel shall be the ex officio legal counsel of the Conversion Authority, the governing boards of the Special Economic Zones and the subsidiaries wherein the Conversion Authority owns the majority of the shares of stocks, and for this purpose he may designate a full time representative whose compensation shall be approved by the Board.
 
 ## Section 19
 

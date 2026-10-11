@@ -187,7 +187,7 @@ The court shall release the said amount to the person adjudged in the same expro
 
 (d) With reference to subparagraph (a)(1) of this section, in case the completion of a government infrastructure project is of utmost urgency and importance, and there is no land classification, the implementing agency or the private entity shall use the market value pursuant to the approved SMV established under Republic Act No. 12001 and land classification of similar lands within the adjacent vicinity as the basis for the valuation.
 
-In the absence of the approved SMV under Republic Act No. 12001, the BIR zonal valuation of similar lands within the adjacent vicinity shall, in the interim, be used.ℒαwρhi৷
+In the absence of the approved SMV under Republic Act No. 12001, the BIR zonal valuation of similar lands within the adjacent vicinity shall, in the interim, be used.
 
 (e) In any of the cases in subparagraphs (a) to (d) of this section, upon its receipt of the writ of possession issued by the court, the implementing agency or the private entity may take possession of the property and start the implementation of the project.
 
@@ -347,7 +347,7 @@ _Transitory Clause._ \- The provisions of this Act shall apply to all right-of-w
 
 ## Section 20
 
-_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ## Section 21
 

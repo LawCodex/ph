@@ -30,11 +30,17 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-**SECTION 1._Short Title._** – This Act shall be known as the **_Civil Aviation Authority Act of 2008_**.
+### SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It is hereby declared the policy of the State to provide safe and efficient air transport and regulatory services in the philippines by providing for the creation of a civil aviation authority with jurisdiction over the restructuring of the civil aviation system, the promotion, development and regulation of the technical, operational, safety, and aviation security functions under the civil aviation authority.
+_Short Title._ – This Act shall be known as the **_Civil Aviation Authority Act of 2008_**.
 
-**SEC. 3._Definition of Terms._** \- For purposes of this Act, the terms:
+### SEC. 2
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to provide safe and efficient air transport and regulatory services in the philippines by providing for the creation of a civil aviation authority with jurisdiction over the restructuring of the civil aviation system, the promotion, development and regulation of the technical, operational, safety, and aviation security functions under the civil aviation authority.
+
+### SEC. 3
+
+_Definition of Terms._ \- For purposes of this Act, the terms:
 
 (a) "Aerial work" refers to an aircraft operation in which an aircraft is used for specialized services such as agriculture, construction, photography, surveying, observation and patrol, search and rescue, aerial advertisement, etc.
 
@@ -192,7 +198,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER II — ORGANIZATION OF AUTHORITY
 
-**SEC. 4._Creation of the Authority._** \- There is hereby created an independent regulatory body with quasi-judicial and quasi-legislative powers and possessing corporate attributes to be known as the Civil Aviation Authority of the Philippines (CAAP), hereinafter referred to as the "Authority" attached to the Department of Transportation and Communications (DOTC) for the purpose of policy coordination. For this purpose, the existing Air Transportation Office created under the provisions of Republic Act No. 776, as amended, is hereby abolished.
+### SEC. 4
+
+_Creation of the Authority._ \- There is hereby created an independent regulatory body with quasi-judicial and quasi-legislative powers and possessing corporate attributes to be known as the Civil Aviation Authority of the Philippines (CAAP), hereinafter referred to as the "Authority" attached to the Department of Transportation and Communications (DOTC) for the purpose of policy coordination. For this purpose, the existing Air Transportation Office created under the provisions of Republic Act No. 776, as amended, is hereby abolished.
 
 Notwithstanding the foregoing, nothing in this Act shall diminish the powers and functions of the Civil Aeronautics Board (CAB) as provided for under Republic Act. No. 776, also known as "The Civil Aeronautics Act of the Philippines", as amended.
 
@@ -200,7 +208,9 @@ Notwithstanding the foregoing, nothing in this Act shall diminish the powers and
 
 (b) Responsibility of the Director General - The Director General shall be responsible for the exercise of all powers and the discharge of all duties of the Authority and shall have control over all personnel and activities of the Authority.
 
-**SEC. 5 ._Composition of the Board Members._** \- The corporate powers of the Authority shall be vested in a board, which is composed of seven (7) members:
+### SEC. 5
+
+_Composition of the Board Members._ \- The corporate powers of the Authority shall be vested in a board, which is composed of seven (7) members:
 
 (a) The Secretary of the Department of Transportation and Communications shall act as chairman _ex officio_ ;
 
@@ -218,23 +228,41 @@ Notwithstanding the foregoing, nothing in this Act shall diminish the powers and
 
 The Directors listed under subsection (a) to (g) shall be _ex officio_ members of the Board of Directors: _Provided_ , That, in the absence of the Director appointed in subsections (c) to (g), the Director concerned shall designate the officer next in rank to him in his department or office to act on his behalf as a Director.
 
-**SEC. 6._Prohibited Interests._** \- All members of the Board or any of their relatives within the fourth civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any interest whatsoever, either as investor, stockholder, officer or director, in any company or entity engaged in air commerce, whether scheduled or unscheduled, passenger or cargo, domestic or international, or in any business providing support services to persons engaged in air commerce (i.e. general sales agencies, travel agencies, cargo forwarders, ground handling, catering, fuel servicing, aircraft maintenance, etc.) and must therefore divest, through sale or legal disposition, of any and all interests in such undertakings upon the member's assumption of office. Any violation of this section shall subject the member concerned to removal from the Authority for cause as well as administrative, civil or criminal prosecution under applicable laws.
+### SEC. 6
 
-**SEC. 7._Limitation of Subsequent Employment._** \- No member of the Board or any employee of the Authority shall accept employment or enter into a contract of service with an entity regulated by the Authority until the expiry of one (1) year from the termination of his appointment, whether by resignation or revocation or otherwise.
+_Prohibited Interests._ \- All members of the Board or any of their relatives within the fourth civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any interest whatsoever, either as investor, stockholder, officer or director, in any company or entity engaged in air commerce, whether scheduled or unscheduled, passenger or cargo, domestic or international, or in any business providing support services to persons engaged in air commerce (i.e. general sales agencies, travel agencies, cargo forwarders, ground handling, catering, fuel servicing, aircraft maintenance, etc.) and must therefore divest, through sale or legal disposition, of any and all interests in such undertakings upon the member's assumption of office. Any violation of this section shall subject the member concerned to removal from the Authority for cause as well as administrative, civil or criminal prosecution under applicable laws.
 
-**SEC. 8._Quorum._** \- The presence of at least four (4) members of the Board shall constitute a quorum and the majority vote of three (3) members in a meeting where a quorum is present shall be necessary for the adoption of any rule, ruling, order, resolution, decision or other act of the Board in the exercise of its functions.
+### SEC. 7
 
-**SEC. 9._Qualifications of Director General._** \- No person shall be appointed or designated as the Director General unless he is a Filipino citizen, at least thirty-five (35) years of age, of good moral character, unquestionable integrity, recognized competence and a degree holder with at least five (5) years supervisory or management experience in the field of aviation.
+_Limitation of Subsequent Employment._ \- No member of the Board or any employee of the Authority shall accept employment or enter into a contract of service with an entity regulated by the Authority until the expiry of one (1) year from the termination of his appointment, whether by resignation or revocation or otherwise.
 
-**SEC. 10._Board Meetings._** \- The Board shall meet regularly once a month and may hold special meetings to consider urgent matters upon call of the Chairman or upon the initiative of four (4) members. Internal rules of procedure in the conduct of Board meetings shall be as prescribed by the Board.
+### SEC. 8
 
-**SEC. 11._Per Diems._** \- The members of the Board shall receive a _per diem_ for each meeting actually attended. The _per diems_ of the members of the Board shall be determined pursuant to a resolution adopted by the Board subject to compliance of the guidelines duly existing and applicable by the Commission on Audit.
+_Quorum._ \- The presence of at least four (4) members of the Board shall constitute a quorum and the majority vote of three (3) members in a meeting where a quorum is present shall be necessary for the adoption of any rule, ruling, order, resolution, decision or other act of the Board in the exercise of its functions.
 
-**SEC. 12._Personnel._** \- Qualified existing personnel of the Air Transportation Office (ATO) shall be given preference in the filling up of plantilla positions created in the Authority, subject to existing civil service rules and regulations.
+### SEC. 9
 
-**SEC. 13._Principal Office._** \- The Authority shall have its principal office in Metro Manila and may hold hearings on any proceedings at such time and places within the Philippines, as it may provide by order in writing.
+_Qualifications of Director General._ \- No person shall be appointed or designated as the Director General unless he is a Filipino citizen, at least thirty-five (35) years of age, of good moral character, unquestionable integrity, recognized competence and a degree holder with at least five (5) years supervisory or management experience in the field of aviation.
 
-**SEC. 14._Capitalization._** \- The Authority shall have an authorized capital stock of Fifty billion pesos (Php50,000,000,000.00) which shall be fully subscribed by the Republic of the Philippines. The subscription of the National Government shall be paid as follows:
+### SEC. 10
+
+_Board Meetings._ \- The Board shall meet regularly once a month and may hold special meetings to consider urgent matters upon call of the Chairman or upon the initiative of four (4) members. Internal rules of procedure in the conduct of Board meetings shall be as prescribed by the Board.
+
+### SEC. 11
+
+_Per Diems._ \- The members of the Board shall receive a _per diem_ for each meeting actually attended. The _per diems_ of the members of the Board shall be determined pursuant to a resolution adopted by the Board subject to compliance of the guidelines duly existing and applicable by the Commission on Audit.
+
+### SEC. 12
+
+_Personnel._ \- Qualified existing personnel of the Air Transportation Office (ATO) shall be given preference in the filling up of plantilla positions created in the Authority, subject to existing civil service rules and regulations.
+
+### SEC. 13
+
+_Principal Office._ \- The Authority shall have its principal office in Metro Manila and may hold hearings on any proceedings at such time and places within the Philippines, as it may provide by order in writing.
+
+### SEC. 14
+
+_Capitalization._ \- The Authority shall have an authorized capital stock of Fifty billion pesos (Php50,000,000,000.00) which shall be fully subscribed by the Republic of the Philippines. The subscription of the National Government shall be paid as follows:
 
 (a) The unexpended balances of appropriations in the current General Appropriations Act and other acts in force upon approval hereof, pertaining to, held or used by, the ATO,
 
@@ -242,25 +270,39 @@ The Directors listed under subsection (a) to (g) shall be _ex officio_ members o
 
 (c) Such amounts as may be appropriated from time to time from the funds of the National Treasury, including any outlay from the infrastructure program of the National Government.
 
-**SEC. 15._Fiscal Autonomy._** \- The Authority shall enjoy fiscal autonomy. All moneys earned by the Authority from the collection/levy of any and all such fees, charges, dues, assessments and fines it is empowered to collect/levy under this Act shall be used solely to fund the operations of the Authority.
+### SEC. 15
+
+_Fiscal Autonomy._ \- The Authority shall enjoy fiscal autonomy. All moneys earned by the Authority from the collection/levy of any and all such fees, charges, dues, assessments and fines it is empowered to collect/levy under this Act shall be used solely to fund the operations of the Authority.
 
 The utilization of any funds coming from the collection and/or levy of the Authority shall be subject to the examination of the Congressional Oversight Committee.
 
-**SEC. 16._Exemption from Taxes, Customs and Tariff Duties._** \- (a) The importation of equipment, machineries, spare parts, accessories and other materials including supplies and services used solely and exclusively in the operations of the Authority not obtainable locally shall be exempt from all direct and indirect taxes, wharfage fees and other charges and restrictions, the existence of pertinent laws to the contrary notwithstanding.
+### SEC. 16
+
+_Exemption from Taxes, Customs and Tariff Duties._ \- (a) The importation of equipment, machineries, spare parts, accessories and other materials including supplies and services used solely and exclusively in the operations of the Authority not obtainable locally shall be exempt from all direct and indirect taxes, wharfage fees and other charges and restrictions, the existence of pertinent laws to the contrary notwithstanding.
 
 (b) All obligations entered into by the Authority and any income derived therefrom, including those contracted with private international banking and financial institutions, shall be exempt from all taxes, both principal and interest. The Authority is also exempt from the payment of capital gains tax, documentary stamp tax, real property estate tax and all other local government-imposed taxes and fees.
 
-**SEC. 17._Schedule of Fees and Charges._** \- The Authority shall adopt and publish its schedule of fees and charges. The Authority shall hold such public hearings or consultative meetings with stakeholders in the industry before adapting its schedule of fees and charges. The Authority shall not revise its schedule of fees and fines more often than once every three (3) years.
+### SEC. 17
 
-**SEC. 18._Compensation and Other Emoluments of Authority Personnel._** \- Within six (6) months from the effectivity of this Act, the Board shall determine the new schedule of salaries of the employees of the Authority subject to the compliance with the existing compensation laws: _Provided_ , That the Board shall determine and fix the compensation and fringe benefits of employees holding technical positions that are not common to the other agencies of the government which shall be specified in the Implementing Rules and Regulations.
+_Schedule of Fees and Charges._ \- The Authority shall adopt and publish its schedule of fees and charges. The Authority shall hold such public hearings or consultative meetings with stakeholders in the industry before adapting its schedule of fees and charges. The Authority shall not revise its schedule of fees and fines more often than once every three (3) years.
 
-**SEC. 19._Transfer of Properties._** \- The funds and appropriations, records, equipment and property of the AT0 is hereby transferred to the Authority.
+### SEC. 18
 
-**SEC. 20._Annual Report._** \- The Authority shall prepare and submit an annual report to the President of the Philippines, to the Senate and to the House of Representatives on its accomplishments at the close of each calendar year.
+_Compensation and Other Emoluments of Authority Personnel._ \- Within six (6) months from the effectivity of this Act, the Board shall determine the new schedule of salaries of the employees of the Authority subject to the compliance with the existing compensation laws: _Provided_ , That the Board shall determine and fix the compensation and fringe benefits of employees holding technical positions that are not common to the other agencies of the government which shall be specified in the Implementing Rules and Regulations.
+
+### SEC. 19
+
+_Transfer of Properties._ \- The funds and appropriations, records, equipment and property of the AT0 is hereby transferred to the Authority.
+
+### SEC. 20
+
+_Annual Report._ \- The Authority shall prepare and submit an annual report to the President of the Philippines, to the Senate and to the House of Representatives on its accomplishments at the close of each calendar year.
 
 ## CHAPTER III — GENERAL POLICIES
 
-**SEC. 21._Policies._** \- In the exercise and performance of its powers and duties under this Act, the Authority shall consider the following, among other things, as being in the public interest and in accordance with the public convenience and necessity:
+### SEC. 21
+
+_Policies._ \- In the exercise and performance of its powers and duties under this Act, the Authority shall consider the following, among other things, as being in the public interest and in accordance with the public convenience and necessity:
 
 (a) The development and utilization of the air potential of the Philippines;
 
@@ -274,9 +316,13 @@ The utilization of any funds coming from the collection and/or levy of the Autho
 
 ## CHAPTER IV — POWERS OF THE AUTKORITY
 
-**SEC. 22._Powers and Functions._** \- The Authority shall have such powers as are granted to the Board and the Director General under the provisions of this Act.
+### SEC. 22
 
-**SEC. 23._Corporate Powers._** \- The Authority, acting through the Board, shall have the following corporate powers:
+_Powers and Functions._ \- The Authority shall have such powers as are granted to the Board and the Director General under the provisions of this Act.
+
+### SEC. 23
+
+_Corporate Powers._ \- The Authority, acting through the Board, shall have the following corporate powers:
 
 (a) To succeed in its corporate name, to sue and be sued in such corporate name, and to adopt, use and alter its corporate seal, which shall be judicially noticed;
 
@@ -302,7 +348,9 @@ The utilization of any funds coming from the collection and/or levy of the Autho
 
 ## CHAPTER V — POWERS AND FUNCTIONS OF THE BOARD
 
-**SEC. 24._Powers of the Board._** \- The Board shall have the following general powers:
+### SEC. 24
+
+_Powers of the Board._ \- The Board shall have the following general powers:
 
 (a) Provide comprehensive policy guidance for the promotion and development of the Philippine aviation industry, as provided for in this Act;
 
@@ -348,13 +396,21 @@ The utilization of any funds coming from the collection and/or levy of the Autho
 
 (3) To the extent practicable, require uniform procedures for the inspection, detention, and search of persons and property in domestic commercial air transport and international commercial air transport to assure their safety and to assure that they will receive courteous and efficient treatment by air operators and their agents and employees.
 
-**SEC. 25._Issuance of Rules and Regulations._** \- The Board, in consultation with the Director General, shall issue and provide for the enforcement of such orders, rules and regulations as may be necessary to give effect to the provisions of this Act. All rules and regulations issued in accordance with the provisions of this Act shall be formally promulgated and periodically reviewed and updated in accordance with the requirements of the Administrative Code of the Philippines or any amendment or successor thereto and the International Civil Aviation Organization Standards and Recommended Practices. Pending the promulgation of such new rules and regulations, the current rules and regulations of the AT0 shall continue to apply.
+### SEC. 25
 
-**SEC. 26._Setting of Charges and Fees._** \- The Board, after consultation with the Director General, and after public hearing, shall determine, fix, impose, collect or receive reasonable charges, fees, dues or assessments in respect of aviation certificates, licenses and all other authorizations or permissions authorized to be issued under this Act and all services performed by the Authority. All charges and fees shall be formally promulgated in accordance with the requirements of the Administrative Code of the Philippines or any amendment or successor thereto. Pending the promulgation of such new schedule of charges and fees, the current charges and fees of the AT0 shall continue to apply.
+_Issuance of Rules and Regulations._ \- The Board, in consultation with the Director General, shall issue and provide for the enforcement of such orders, rules and regulations as may be necessary to give effect to the provisions of this Act. All rules and regulations issued in accordance with the provisions of this Act shall be formally promulgated and periodically reviewed and updated in accordance with the requirements of the Administrative Code of the Philippines or any amendment or successor thereto and the International Civil Aviation Organization Standards and Recommended Practices. Pending the promulgation of such new rules and regulations, the current rules and regulations of the AT0 shall continue to apply.
 
-**SEC. 27._Issuance of Rules of Procedure and Practice._** \- The Board may authorize the Director General to issue or amend rules of procedures and practice as may be required to be issued pursuant to the provisions of this Act or issue and adopt rules and regulations and other issuances of the ICAO. Pending the promulgation of such new rules of procedures and practice, current rules of procedures and practices of the AT0 shall continue to apply.
+### SEC. 26
 
-**SEC. 28._Appellate Powers._** \- The Board, on an appeal properly taken by an interested party from a decision, judgment or order of the Director General, shall have the power to:
+_Setting of Charges and Fees._ \- The Board, after consultation with the Director General, and after public hearing, shall determine, fix, impose, collect or receive reasonable charges, fees, dues or assessments in respect of aviation certificates, licenses and all other authorizations or permissions authorized to be issued under this Act and all services performed by the Authority. All charges and fees shall be formally promulgated in accordance with the requirements of the Administrative Code of the Philippines or any amendment or successor thereto. Pending the promulgation of such new schedule of charges and fees, the current charges and fees of the AT0 shall continue to apply.
+
+### SEC. 27
+
+_Issuance of Rules of Procedure and Practice._ \- The Board may authorize the Director General to issue or amend rules of procedures and practice as may be required to be issued pursuant to the provisions of this Act or issue and adopt rules and regulations and other issuances of the ICAO. Pending the promulgation of such new rules of procedures and practice, current rules of procedures and practices of the AT0 shall continue to apply.
+
+### SEC. 28
+
+_Appellate Powers._ \- The Board, on an appeal properly taken by an interested party from a decision, judgment or order of the Director General, shall have the power to:
 
 (a) Review, confirm, modify, revise, amend or reverse, as the case may be, decisions, judgments and/or orders of the Director General;
 
@@ -364,19 +420,29 @@ The utilization of any funds coming from the collection and/or levy of the Autho
 
 In no case that the Director General shall participate in the hearing and adjudication of an appealed case before the Board where the subject of appeal is a judgment or decision rendered by his office. In such case, it requires four (4) concurring votes of the members of the Board who actively participated in the deliberation of the appealed case before the judgment or decision of the Director General can be modified or reversed.
 
-**SEC. 29._Power to Administer Oaths._** \- The members of the Board, the Director General and such other duly designated officers of the Authority shall have the authority to administer oaths in the transaction and performance of their official duties.
+### SEC. 29
 
-**SEC. 30._Annual Budget._** \- The Board shall adopt an annual budget to fund the operations of the Authority.
+_Power to Administer Oaths._ \- The members of the Board, the Director General and such other duly designated officers of the Authority shall have the authority to administer oaths in the transaction and performance of their official duties.
 
-**SEC. 31._Delegation of Functions._** \- (a) Delegation to Officers, Employees and Administrative Units of the Authority - The Director General may, subject to such regulations, supervision and review as may be prescribed, authorize the performance by any officer, employee, or administrative unit under the Director General's jurisdiction of any function under this Act.
+### SEC. 30
+
+_Annual Budget._ \- The Board shall adopt an annual budget to fund the operations of the Authority.
+
+### SEC. 31
+
+_Delegation of Functions._ \- (a) Delegation to Officers, Employees and Administrative Units of the Authority - The Director General may, subject to such regulations, supervision and review as may be prescribed, authorize the performance by any officer, employee, or administrative unit under the Director General's jurisdiction of any function under this Act.
 
 (b) Delegation to Private Persons - The Director General, in accordance with the policy guidelines prescribed by the Board, is authorized to delegate any assigned powers and duties to any properly qualified private person subject to his continuing supervision, regulation, and review as may be prescribed. However, the Director General shall ensure that such functions are not delegated in such a way that air operators, aerial work or general aviation operators and maintenance facilities, in effect, regulate themselves.
 
-**SEC. 32._Limitation of Powers._** \- The Board shall not exercise any power or function not otherwise expressly granted to it under this Act, neither shall the Board exercise, in the first instance, any power or function that properly falls within the authority, jurisdiction, powers or functions of the Director General.
+### SEC. 32
+
+_Limitation of Powers._ \- The Board shall not exercise any power or function not otherwise expressly granted to it under this Act, neither shall the Board exercise, in the first instance, any power or function that properly falls within the authority, jurisdiction, powers or functions of the Director General.
 
 ## CHAPTER VI — THE AUTHORITY PROPER
 
-**SEC. 33._Organizational Structure of the Authority._** \- Within fifteen (15) days from the appointment of and acceptance by all members of the Board and the Director General of their respective appointments, the Board, in consultation with the Director General, shall meet to draw-up the Authority's organizational structure. The Board shall agree on the Authority's final organizational structure not later than six (6) months from the date of the effectivity of this Act.
+### SEC. 33
+
+_Organizational Structure of the Authority._ \- Within fifteen (15) days from the appointment of and acceptance by all members of the Board and the Director General of their respective appointments, the Board, in consultation with the Director General, shall meet to draw-up the Authority's organizational structure. The Board shall agree on the Authority's final organizational structure not later than six (6) months from the date of the effectivity of this Act.
 
 In addition to the offices created under Sections 36 and 40 of this Act, the Board shall establish the following permanent offices:
 
@@ -392,13 +458,17 @@ The Board may agree for the viability for the creation of additional offices and
 
 Notwithstanding the qualification standards as may be prescribed by the Board and the Civil Service Commission, the selection and appointment of the heads of the foregoing offices shall be limited from the rank and file employees of the concerned services.
 
-**SEC. 34._Training Schools._** \- (a) Authority to Operate - The Director General may conduct a school or schools for the purpose of training employees of the Authority in those subjects necessary for the proper performance of all authorized functions of the Authority. The Director General may also authorize attendance of courses given in such schools by other governmental personnel and personnel of foreign governments, or personnel of the aeronautical industry.
+### SEC. 34
+
+_Training Schools._ \- (a) Authority to Operate - The Director General may conduct a school or schools for the purpose of training employees of the Authority in those subjects necessary for the proper performance of all authorized functions of the Authority. The Director General may also authorize attendance of courses given in such schools by other governmental personnel and personnel of foreign governments, or personnel of the aeronautical industry.
 
 (b) Offset of Training Costs - The Director General is hereby authorized, where appropriate, to require payment of appropriate consideration to offset the costs of training provided by such school or schools.
 
 ## CHAPTER VII — THE DIRECTOR GENERAL
 
-**SEC. 35._Powers and Functions of the Director General._** \- The Director General shall be the chief executive and operating officer of the Authority. He shall have the following powers, duties and responsibilities:
+### SEC. 35
+
+_Powers and Functions of the Director General._ \- The Director General shall be the chief executive and operating officer of the Authority. He shall have the following powers, duties and responsibilities:
 
 (a) To carry out the purposes and policies established in this Act; to enforce the provisions of the rules and regulations issued in pursuance to said Act; and he shall primarily be vested with authority to take charge of the technical and operational phase of civil aviation matters;
 
@@ -442,13 +512,17 @@ Notwithstanding the qualification standards as may be prescribed by the Board an
 
 (u) Pursuant to a board resolution, to enter into, make and execute contracts of any kind with any person, firm, or public or private corporation.
 
-**SEC. 36._The Office of Enforcement and Legal Service._** \- To effectively implement the civil aviation regulatory, supervisory and administrative mandates of the Director General under this Act, a permanent office within the Authority to be known as the Enforcement and Legal Service, to be composed of in-house counsels of the Authority and its necessary support staff shall be established by the Board.
+### SEC. 36
+
+_The Office of Enforcement and Legal Service._ \- To effectively implement the civil aviation regulatory, supervisory and administrative mandates of the Director General under this Act, a permanent office within the Authority to be known as the Enforcement and Legal Service, to be composed of in-house counsels of the Authority and its necessary support staff shall be established by the Board.
 
 This office shall provide adequate legal assistance and support to the Director General and to the Authority, as a whole, in the exercise of quasi-legislative and quasi-judicial power as provided for under this Act.
 
 The exercise of the function by the Director General to issue subpoena ad testificandum, subpoenaduces tecum and the imposition of any administrative sanction shall be within the exclusive determination and recommendation of the Enforcement and Legal Service.
 
-**SEC. 37._Orders._** \- (a) Effectiveness of Orders - Except in emergency situations, all orders, rules and regulations of the Director General shall take effect within such reasonable times as the Director General may prescribe, and shall continue in force until a further order, rule or regulation, or for a specified period of time, as shall be prescribed in the order, rule or regulation.
+### SEC. 37
+
+_Orders._ \- (a) Effectiveness of Orders - Except in emergency situations, all orders, rules and regulations of the Director General shall take effect within such reasonable times as the Director General may prescribe, and shall continue in force until a further order, rule or regulation, or for a specified period of time, as shall be prescribed in the order, rule or regulation.
 
 (b) Emergencies - Whenever the Director General is of the opinion that an emergency requiring immediate action exists with respect to safety in civil aviation, the Director General shall have the power, either upon complaint or the Director General's initiative without complaint, at once, if the Director General so orders, without answer or other form of pleading by the interested person or persons, and with or without notice, hearing, or the making or filing of a report, to make such just and reasonable orders, rules or regulations as may be essential in the interest of safety in civil aviation to meet such emergency: _Provided_ , That the Director General shall immediately thereafter initiate proceedings relating to the matter giving rise to any such order, rule or regulation.
 
@@ -456,7 +530,9 @@ The exercise of the function by the Director General to issue subpoena ad testif
 
 (d) Public Compliance - It shall be the duty of every person (along with any agents and employees thereof in the case of entities other than individuals), subject to this Act, to observe and comply with any order, rule, regulation, or certificate issued by the Director General under this Act, affecting such person so long as the same shall remain in effect.
 
-**SEC. 38._Right of Access for Inspection._** \- (a) The Director General or his authorized representative shall be authorized access to civil aircraft, including aerodromes, without restriction wherever they are operated within the Philippines for purposes of ensuring that those aircraft are airworthy and being operated in accordance with this Act, regulations issued under this Act, and applicable ICAO Annexes.
+### SEC. 38
+
+_Right of Access for Inspection._ \- (a) The Director General or his authorized representative shall be authorized access to civil aircraft, including aerodromes, without restriction wherever they are operated within the Philippines for purposes of ensuring that those aircraft are airworthy and being operated in accordance with this Act, regulations issued under this Act, and applicable ICAO Annexes.
 
 (b) The Director General or his authorized representative shall be authorized access to civil aircraft registered in the Philippines without restriction wherever they are operated in the world for the purposes of ensuring that these aircraft are airworthy and are being operated in accordance with this Act and applicable regulations and directives.
 
@@ -464,7 +540,9 @@ The exercise of the function by the Director General to issue subpoena ad testif
 
 (d) The Director General or his authorized representative shall be authorized access to any aerodromes, whether privately or government-owned, to conduct inspections or evaluation of the facilities therein in order to determine that its operations are conducted.
 
-**SEC. 39._Authority to Prevent Flight._** \- (a) The Director General is authorized to direct the operator or airman of a civil aircraft that the aircraft is not to be operated in situations where:
+### SEC. 39
+
+_Authority to Prevent Flight._ \- (a) The Director General is authorized to direct the operator or airman of a civil aircraft that the aircraft is not to be operated in situations where:
 
 (1) The aircraft may not be airworthy; or
 
@@ -474,7 +552,9 @@ The exercise of the function by the Director General to issue subpoena ad testif
 
 (b) The Director General may take such steps as are necessary to detain such aircraft or airmen.
 
-**SEC. 40._Creation of Flight Standards Inspectorate Service._** \- (a) The Board, other than the offices it shall create in furtherance of this Act, shall establish a permanent office known as the Flight Standards Inspectorate Service (FSIS) that will assist the Director General in carrying out the responsibilities of his office for certification and ongoing inspections of aircraft, airmen and air operators.
+### SEC. 40
+
+_Creation of Flight Standards Inspectorate Service._ \- (a) The Board, other than the offices it shall create in furtherance of this Act, shall establish a permanent office known as the Flight Standards Inspectorate Service (FSIS) that will assist the Director General in carrying out the responsibilities of his office for certification and ongoing inspections of aircraft, airmen and air operators.
 
 The FSIS shall perform the following functions:
 
@@ -486,13 +566,17 @@ The FSIS shall perform the following functions:
 
 Furthermore, the Board shall create, but not limited to, the following offices which will provide support to the functions of the FSIS, namely: Aircraft Registration, Aircraft Engineering and Standards, Airmen Examination Board and Office of the Flight Surgeon.
 
-**SEC. 41._Validation._** \- The Director General is authorized, in the discharge of his certification and inspection responsibilities, to validate the actions of the civil authority of another State in lieu of taking the specific action, with the following restrictions:
+### SEC. 41
+
+_Validation._ \- The Director General is authorized, in the discharge of his certification and inspection responsibilities, to validate the actions of the civil authority of another State in lieu of taking the specific action, with the following restrictions:
 
 (a) For actions on airman or airworthiness certificates, the other State must be a signatory to the Chicago Convention and he fulfilling its obligations under the Chicago Convention with respect to the issuance and currency of these certificates; and
 
 (b) For actions applicable to air operators, the Director General must exercise discretion and require supporting documents. The Director General should ensure that, when validation is based on the actions of another civil aviation authority, there is no information to indicate that the State does not meet its obligations under the Chicago Convention regarding certification and ongoing validation of its air operators.
 
-**SEC. 42._Aircraft Accident Investigation and Inquiry Board._** \- Pending the establishment of an independent and separate government agency created to conduct investigation of accidents on land, air and water, the Director General shall organize an Aircraft Accident Investigation and Inquiry Board (AAIIB), to be composed of personnel of the Authority specialized in the various disciplines of civil aviation. The Board shall appoint the head of the AAIIB.
+### SEC. 42
+
+_Aircraft Accident Investigation and Inquiry Board._ \- Pending the establishment of an independent and separate government agency created to conduct investigation of accidents on land, air and water, the Director General shall organize an Aircraft Accident Investigation and Inquiry Board (AAIIB), to be composed of personnel of the Authority specialized in the various disciplines of civil aviation. The Board shall appoint the head of the AAIIB.
 
 (a) Reporting of Accidents - The Board shall promulgate rules and regulations governing the notification and the reporting of accidents and incidents involving aircraft.
 
@@ -510,7 +594,9 @@ Furthermore, the Board shall create, but not limited to, the following offices w
 
 ## CHAPTER VIII — NATIONALITY AND OWNERSHIP OF AIRCRAFT
 
-**SEC. 43._Establishment of Registry._** \- The Authority shall:
+### SEC. 43
+
+_Establishment of Registry._ \- The Authority shall:
 
 (a) Establish and maintain a system for the national registration of aircraft in the Philippines;
 
@@ -518,27 +604,45 @@ Furthermore, the Board shall create, but not limited to, the following offices w
 
 (c) Have sole authority to register aircraft and liens, mortgages or other interests in aircraft or aircraft engines.
 
-**SEC. 44._Eligibility for Registration._** \- Except as otherwise provided in the Constitution and existing treaty or treaties, no aircraft shall be eligible for registration unless it is owned by or leased to a citizen or citizens of the Philippines or corporations or associations organized under the laws of the Philippines at least sixty _per centum_ (60%) of whose capital is owned by Filipino citizens. That, under such rules and regulations to be promulgated by the Board, foreign-owned or registered aircraft may be registered if utilized by members of aero clubs organized for recreation, sport or the development of flying skills as a prerequisite to any aeronautical activities of such clubs within the Philippine airspace. (R.A. 776, P.D. 1278, E.O. 546, and B.P. 504)
+### SEC. 44
+
+_Eligibility for Registration._ \- Except as otherwise provided in the Constitution and existing treaty or treaties, no aircraft shall be eligible for registration unless it is owned by or leased to a citizen or citizens of the Philippines or corporations or associations organized under the laws of the Philippines at least sixty _per centum_ (60%) of whose capital is owned by Filipino citizens. That, under such rules and regulations to be promulgated by the Board, foreign-owned or registered aircraft may be registered if utilized by members of aero clubs organized for recreation, sport or the development of flying skills as a prerequisite to any aeronautical activities of such clubs within the Philippine airspace. (R.A. 776, P.D. 1278, E.O. 546, and B.P. 504)
 
 Such certificate shall be conclusive evidence of nationality for international purposes, but not in any proceeding under the laws of the Republic of the Philippines.
 
 The certificate of registration is conclusive evidence of ownership, except in a proceeding where such ownership is, or may be, at issue.
 
-**SEC. 45._Application for Aircraft Registration._** \- Applications for certificate of registration shall be made in writing, signed and sworn to by the owner or lessee of any aircraft or aircraft engine eligible for registration. The application shall also state: (a) the date and place of filing; (b) the specification, construction and technical description of the aircraft or aircraft engine; and (c) such other information as may be required by the Authority in such manner and form as the Authority may prescribe by regulation.
+### SEC. 45
 
-**SEC. 46._Issuance of Certificate of Registration._** \- Should the Director General, upon considering the application for registration, find the aircraft or aircraft engine eligible for registration, such aircraft shall be registered under the provisions of this Act and the owner thereof shall be issued a certificate of registration.
+_Application for Aircraft Registration._ \- Applications for certificate of registration shall be made in writing, signed and sworn to by the owner or lessee of any aircraft or aircraft engine eligible for registration. The application shall also state: (a) the date and place of filing; (b) the specification, construction and technical description of the aircraft or aircraft engine; and (c) such other information as may be required by the Authority in such manner and form as the Authority may prescribe by regulation.
 
-**SEC. 47._Nationality._** \- An aircraft shall acquire Philippine nationality when registered pursuant to this Act.
+### SEC. 46
 
-**SEC. 48._Revocation._** \- Any certificate of registration may be revoked by the Authority for any cause which renders the aircraft ineligible for registration.
+_Issuance of Certificate of Registration._ \- Should the Director General, upon considering the application for registration, find the aircraft or aircraft engine eligible for registration, such aircraft shall be registered under the provisions of this Act and the owner thereof shall be issued a certificate of registration.
 
-**SEC. 49._Conveyance to be Recorded._** \- No conveyance made or executed, which affects the title to, or interest in, any aircraft of Philippine registry, or any portion thereof shall be valid in respect to such aircraft or portion thereof against any person other than the person by whom the conveyance is made or executed, his heirs, assignees, executors, administrators, devisees, or successors in interest, and any person having actual notice thereof, until such conveyance is recorded in the Authority. Every such conveyance so recorded shall be valid as against all persons. Any instrument, recording of which is required by the provisions of this Act, shall take effect from the date of its record in the books of the Authority, and not from the date of its execution.
+### SEC. 47
 
-**SEC. 50._Form of Conveyance._** \- No conveyance may be recorded under the provisions of this Act unless it complies with the requirements for the registration of documents similar to the land registration process. The conveyance to be recorded shall also state: (a) the interest in the aircraft of the person by whom such conveyance is made or executed or, in the case of a contract of conditional sale, the interest of the vendor; and (b) the interest transferred by the conveyance.
+_Nationality._ \- An aircraft shall acquire Philippine nationality when registered pursuant to this Act.
 
-**SEC. 51._Establishment of System of Recording._** \- The Authority shall establish a national system for recording documents that affect the title to or any interest in any aircraft registered in accordance with this Act and in any aircraft engine, propeller, appliance or spare parts intended for use on any such aircraft.
+### SEC. 48
 
-**SEC. 52._Method of Recording._** \- The Authority shall record conveyances delivered to it in the order of their receipt, in files kept for that purpose, indexed to show:
+_Revocation._ \- Any certificate of registration may be revoked by the Authority for any cause which renders the aircraft ineligible for registration.
+
+### SEC. 49
+
+_Conveyance to be Recorded._ \- No conveyance made or executed, which affects the title to, or interest in, any aircraft of Philippine registry, or any portion thereof shall be valid in respect to such aircraft or portion thereof against any person other than the person by whom the conveyance is made or executed, his heirs, assignees, executors, administrators, devisees, or successors in interest, and any person having actual notice thereof, until such conveyance is recorded in the Authority. Every such conveyance so recorded shall be valid as against all persons. Any instrument, recording of which is required by the provisions of this Act, shall take effect from the date of its record in the books of the Authority, and not from the date of its execution.
+
+### SEC. 50
+
+_Form of Conveyance._ \- No conveyance may be recorded under the provisions of this Act unless it complies with the requirements for the registration of documents similar to the land registration process. The conveyance to be recorded shall also state: (a) the interest in the aircraft of the person by whom such conveyance is made or executed or, in the case of a contract of conditional sale, the interest of the vendor; and (b) the interest transferred by the conveyance.
+
+### SEC. 51
+
+_Establishment of System of Recording._ \- The Authority shall establish a national system for recording documents that affect the title to or any interest in any aircraft registered in accordance with this Act and in any aircraft engine, propeller, appliance or spare parts intended for use on any such aircraft.
+
+### SEC. 52
+
+_Method of Recording._ \- The Authority shall record conveyances delivered to it in the order of their receipt, in files kept for that purpose, indexed to show:
 
 (a) The identifying description of the aircraft;
 
@@ -552,13 +656,19 @@ The certificate of registration is conclusive evidence of ownership, except in a
 
 (f) All particular estates, mortgages, liens, leases, orders and other encumbrances and all decrees, instruments, attachments or entries affecting aircraft and other matters properly determined under this Act.
 
-**SEC. 53._Validity Before Filing._** \- Upon the establishment of a recording system in accordance with the provisions of this Act, no document affecting the title to or any interest in such registered aircraft, aircraft engines, propellers, appliances, or spare parts shall be valid except as between the parties thereto, unless the document is registered in such recording system.
+### SEC. 53
 
-**SEC. 54._Previously Unrecorded Ownership._** \- Applications for the issuance or renewal of an airworthiness certificate for aircraft whose ownership has not been recorded as provided in this Act shall contain such information with respect to the ownership of the aircraft as the Director General shall deem necessary to show who have property interests in such aircraft and the nature and extent of such interest.
+_Validity Before Filing._ \- Upon the establishment of a recording system in accordance with the provisions of this Act, no document affecting the title to or any interest in such registered aircraft, aircraft engines, propellers, appliances, or spare parts shall be valid except as between the parties thereto, unless the document is registered in such recording system.
+
+### SEC. 54
+
+_Previously Unrecorded Ownership._ \- Applications for the issuance or renewal of an airworthiness certificate for aircraft whose ownership has not been recorded as provided in this Act shall contain such information with respect to the ownership of the aircraft as the Director General shall deem necessary to show who have property interests in such aircraft and the nature and extent of such interest.
 
 ## CHAPTER IX — AVIATION SAFETY POWERS AND FUNCTIONS
 
-**SEC. 55._General Powers and Functions._** \- (a) Promoting Safety - The Director General shall have the pawer and duty to promote safety of flight of civil aircraft in civil aviation by prescribing and revising from time to time as necessary:
+### SEC. 55
+
+_General Powers and Functions._ \- (a) Promoting Safety - The Director General shall have the pawer and duty to promote safety of flight of civil aircraft in civil aviation by prescribing and revising from time to time as necessary:
 
 (1) Reasonable rules and regulations implementing, at minimum, all standards of the Annexes to the Chicago Convention; and
 
@@ -566,17 +676,27 @@ The certificate of registration is conclusive evidence of ownership, except in a
 
 (b) Considerations in the Regulation of Air Operators - In prescribing standards, rules and regulations, and in issuing certificates under this Act, the Director General shall take into consideration the obligation of air operators to perform their services with the highest possible degree of safety pursuant to public interest.
 
-**SEC. 56._Form of Applications._** \- Applications for certificates issued by virtue of this chapter shall be in such form, contain such information, and be filed and served in such manner as the Authority may prescribe and shall be under oath or affirmation whenever the Authority so requires.
+### SEC. 56
+
+_Form of Applications._ \- Applications for certificates issued by virtue of this chapter shall be in such form, contain such information, and be filed and served in such manner as the Authority may prescribe and shall be under oath or affirmation whenever the Authority so requires.
 
 A. Certification of Airmen
 
-**SEC. 57._Authority to Certificate Airmen._** \- The Director General is authorized to issue airmen certificates specifying the capacity in which the holders thereof are authorized to serve as airman in connection with an aircraft.
+### SEC. 57
 
-**SEC. 58._Application and Issuance._** \- Any individual may file with the Director General an application for an airman certificate. If the Director General finds, after due investigation, that such individual possesses the proper qualifications for, and is physically able to, perform the duties pertaining to the position for which the airman certificate is sought, the Director General shall issue such certificate.
+_Authority to Certificate Airmen._ \- The Director General is authorized to issue airmen certificates specifying the capacity in which the holders thereof are authorized to serve as airman in connection with an aircraft.
 
-**SEC. 59._Terms and Conditions._** \- The airman certificate shall contain such terms, conditions and tests of physical fitness, and other matters as may be necessary to assure safety in civil aviation.
+### SEC. 58
 
-**SEC. 60._Contents._** \- Each airman certificate shall:
+_Application and Issuance._ \- Any individual may file with the Director General an application for an airman certificate. If the Director General finds, after due investigation, that such individual possesses the proper qualifications for, and is physically able to, perform the duties pertaining to the position for which the airman certificate is sought, the Director General shall issue such certificate.
+
+### SEC. 59
+
+_Terms and Conditions._ \- The airman certificate shall contain such terms, conditions and tests of physical fitness, and other matters as may be necessary to assure safety in civil aviation.
+
+### SEC. 60
+
+_Contents._ \- Each airman certificate shall:
 
 (a) Be numbered and recorded by the Authority;
 
@@ -586,29 +706,45 @@ A. Certification of Airmen
 
 B. Airworthiness Certificate
 
-**SEC. 61._Authority to Issue Airworthiness Certificates._** \- The owner of any aircraft registered in accordance with this Act may file with the Director General an application for an airworthiness certificate for such aircraft.
+### SEC. 61
 
-**SEC. 62._Issuance._** \- If it is found that the aircraft conforms to the appropriate type of certificate and, after inspection, finds that the aircraft is in a condition allowing for safe operation, an airworthiness certificate shall be issued by the Director General.
+_Authority to Issue Airworthiness Certificates._ \- The owner of any aircraft registered in accordance with this Act may file with the Director General an application for an airworthiness certificate for such aircraft.
 
-**SEC. 63._Terms and Conditions._** the Director General shall prescribe in the airworthiness certificate the duration of such certificate, the types of service for which the aircraft may be used, and such other terms, conditions, limitations and information as are required in the interest of safety. Each airworthiness certificate issued by the Director General shall be recorded by it.
+### SEC. 62
 
-**SEC. 64._Airworthiness Approvals._** \- The Director General may prescribe the terms under which additional airworthiness approvals, for purposes of modification, may be made.
+_Issuance._ \- If it is found that the aircraft conforms to the appropriate type of certificate and, after inspection, finds that the aircraft is in a condition allowing for safe operation, an airworthiness certificate shall be issued by the Director General.
+
+### SEC. 63
+
+_Terms and Conditions._ the Director General shall prescribe in the airworthiness certificate the duration of such certificate, the types of service for which the aircraft may be used, and such other terms, conditions, limitations and information as are required in the interest of safety. Each airworthiness certificate issued by the Director General shall be recorded by it.
+
+### SEC. 64
+
+_Airworthiness Approvals._ \- The Director General may prescribe the terms under which additional airworthiness approvals, for purposes of modification, may be made.
 
 C. Air Operator Certificate
 
-**SEC. 65._Authority to Certificate Carriers and Establish Safety Standards._** \- The Director General is authorized to issue air operator certificates and to establish minimum safety standards for the operation of the air carrier to which any such certificate is issued.
+### SEC. 65
 
-**SEC. 66._Application and Issuance._** \- Any air carrier who is a citizen of the Philippines may file with the Director General an application for an air operator certificate. If the Director General finds, after thorough investigation, that such air carrier is properly and adequately equipped and has demonstrated the ability to conduct a safe operation in accordance with the requirements of this Act and the rules, regulations and standards issued pursuant thereto, the Director General shall issue an air operator certificate to such air carrier: _Provided_ , _however_ , That in no event shall the Director General issue an air operator certificate to an air carrier that does not possess a valid Certificate of Public Convenience and Necessity (CPCN) issued pursuant to this Act and its implementing rules.
+_Authority to Certificate Carriers and Establish Safety Standards._ \- The Director General is authorized to issue air operator certificates and to establish minimum safety standards for the operation of the air carrier to which any such certificate is issued.
+
+### SEC. 66
+
+_Application and Issuance._ \- Any air carrier who is a citizen of the Philippines may file with the Director General an application for an air operator certificate. If the Director General finds, after thorough investigation, that such air carrier is properly and adequately equipped and has demonstrated the ability to conduct a safe operation in accordance with the requirements of this Act and the rules, regulations and standards issued pursuant thereto, the Director General shall issue an air operator certificate to such air carrier: _Provided_ , _however_ , That in no event shall the Director General issue an air operator certificate to an air carrier that does not possess a valid Certificate of Public Convenience and Necessity (CPCN) issued pursuant to this Act and its implementing rules.
 
 D. Aviation Schools and Approved Maintenance Organizations
 
-**SEC. 67._Examination and Rating._** \- The Director General is authorized to provide for the examination and rating of:
+### SEC. 67
+
+_Examination and Rating._ \- The Director General is authorized to provide for the examination and rating of:
 
 (a) The adequacy of the course of instruction, the suitability and airworthiness of the equipment and the competency of the instructors of civilian schools providing instruction in flying or in the repair, alteration, maintenance, and overhaul of aircraft, aircraft engines, propellers and appliances; and
 
 (b) The adequacy and suitability of the equipment, facilities and materials for, and methods of, repair and overhaul, and the competency of those engaged in the work or giving any instruction in accredited maintenance organizations or shops engaged in the repair, alteration, maintenance and overhaul of aircraft engines, propellers and appliances.
 
-**SEC. 68._Air Navigation Facility Safety Standards._** \- (a) Minimum Safety Standards -The Director General shall have the power to prescribe and revise, from time to time as necessary, minimum safety standards for the operation of air navigation facilities located in the Philippines.
+### SEC. 68
+
+_Air Navigation Facility Safety Standards._ \- (a) Minimum Safety Standards -The Director General shall have the power to prescribe and revise, from time to time as necessary, minimum safety standards for the operation of air navigation facilities located in the Philippines.
 
 (b) Certification of Airports - (1) The Director General is empowered to issue airport certificates to, and to establish minimum safety standards for the operation of, airports that serve any scheduled or unscheduled passenger operations of air operator or foreign air operator aircraft.
 
@@ -618,7 +754,9 @@ D. Aviation Schools and Approved Maintenance Organizations
 
 (ii) The condition and maintenance of primary and secondary runways as the Director General determines to be necessary.
 
-**SEC. 69._Duties and Operations of Airmen._** \- It shall be the duty of:
+### SEC. 69
+
+_Duties and Operations of Airmen._ \- It shall be the duty of:
 
 (a) Each air carrier to make or cause to be made, such inspection, maintenance, overhaul and repair of all equipment used in air transport and to ensure that the operations conducted are in accordance with the provisions of this Act and the rules, regulations, directives and orders issued by virtue of this Act;
 
@@ -630,7 +768,9 @@ D. Aviation Schools and Approved Maintenance Organizations
 
 (e) Every person who offers or accepts shipments, cargo or baggage in air commerce to offer or accept such shipments, cargo or baggage in accordance with the provisions of Annex 18 ofthe Chicago Convention and the ICA0 Technical Instructions for the Safe Transport of Dangerous Goods by Air.
 
-**SEC. 70._Authority to Inspect._** \- (a) Authority to Inspect Equipment - The Director General shall have the power and duty to:
+### SEC. 70
+
+_Authority to Inspect._ \- (a) Authority to Inspect Equipment - The Director General shall have the power and duty to:
 
 (1) Make such inspections of aircraft, aircraft engines, propellers and appliances used by an operator of civil aircraft as may be necessary to determine that the operators are maintaining the safe condition for the operation in which they are used; and
 
@@ -638,7 +778,9 @@ D. Aviation Schools and Approved Maintenance Organizations
 
 (b) Unsafe Aircraft, Engines, Propellers and Appliances - When the Director General finds that any aircraft, aircraft engine, propeller or appliance, used or intended to be used by any operator in civil aviation, is not in a condition for safe operation, the Director General shall notify the operator. Such aircraft, aircraft engine, propeller or appliance then shall not be used in civil aviation or in such manner also to endanger civil aviation, unless found by the Director General to be in a condition for safe operation.
 
-**SEC. 71._Amendment, Modifications, Suspension and Revocation of Certificates._** \- (a) Re-inspection and Reexamination - The Director General may, from time to time, for any reason, reinspect or reexamine any civil aircraft, aircraft engine, propeller, appliance, air operator, school, with approved maintenance organization, or any civil airman holding a certificate issued under this Act.
+### SEC. 71
+
+_Amendment, Modifications, Suspension and Revocation of Certificates._ \- (a) Re-inspection and Reexamination - The Director General may, from time to time, for any reason, reinspect or reexamine any civil aircraft, aircraft engine, propeller, appliance, air operator, school, with approved maintenance organization, or any civil airman holding a certificate issued under this Act.
 
 (b) Actions of the Director General - If, as a result of any such re-inspection or reexamination, or if, as a result of any other investigation made by the Director General, the Director General determines that safety in civil aviation or commercial air transport and the public interest requires, the Director General may issue an order amending, modifying, suspending or revoking, in whole or in part, any airworthiness certificate, airman certificate, air operator certificate or certificate for any airport, school, or approved maintenance organization issued under this Act.
 
@@ -648,7 +790,9 @@ D. Aviation Schools and Approved Maintenance Organizations
 
 (e) Effectiveness of Orders Pending Appeal - The filing of motion for reconsideration or appeal as provided for under this Act shall not stay the effectiveness of the Director General's order except through an injunctive relief duly issued by a court of competent jurisdiction.
 
-**SEC. 72._Prohibitions._** \- (a) It shall be unlawful for any person to:
+### SEC. 72
+
+_Prohibitions._ \- (a) It shall be unlawful for any person to:
 
 (1) Operate in civil aviation any civil aircraft which there is not currently in effect a certificate of airworthiness and registration, or in violation of the terms of any such certificate and operation of the aircraft in a careless and reckless manner and operation of aircraft in contravention of its approved operating limitations and manual;
 
@@ -666,17 +810,23 @@ D. Aviation Schools and Approved Maintenance Organizations
 
 ## CHAPTER X — OTHER POWERS
 
-**SEC. 73._Statutory Lien._** \- The Director General, after complying with the required legal formalities provided by law, shall have the power to impose lien on aircraft and machinery:
+### SEC. 73
+
+_Statutory Lien._ \- The Director General, after complying with the required legal formalities provided by law, shall have the power to impose lien on aircraft and machinery:
 
 (a) If the charges and other fees are not paid in full on due date or any part of the charges or the late payment penalty thereto remains unpaid; and
 
 (b) Failure to pay administrative fines arising from violation of any rules and regulations promulgated by the Authority.
 
-**SEC. 74._Lien on Personal and Real Properties._** \- The Director General shall have the power to impose lien on personal and real properties, and other assets of persons, corporations, partnerships, and such other entities that shall be in default, or fail to perform their obligations, or fail to pay the fines and other penalties imposed for violations of the law, rules and regulations of the Authority.
+### SEC. 74
+
+_Lien on Personal and Real Properties._ \- The Director General shall have the power to impose lien on personal and real properties, and other assets of persons, corporations, partnerships, and such other entities that shall be in default, or fail to perform their obligations, or fail to pay the fines and other penalties imposed for violations of the law, rules and regulations of the Authority.
 
 Properties and assets levied upon may be sold and the proceeds thereof shall be applied to the satisfaction of the obligation after due notice and hearing.
 
-**SEC. 75._Police Authority._** \- The Director General shall have the power to exercise such police authority as may be necessary within the premises of airports under its jurisdiction to carry out its functions and attain its purposes and objectives. The grant of such powers shall be in conformity with the functions exclusively provided by law to be exercised by the Philippine National Police and other concerned government agencies: _Provided_ , That the Authority may request the assistance of other law enforcement agencies, including request for deputization as may be required. Such police authority shall be exercised in connection with the following:
+### SEC. 75
+
+_Police Authority._ \- The Director General shall have the power to exercise such police authority as may be necessary within the premises of airports under its jurisdiction to carry out its functions and attain its purposes and objectives. The grant of such powers shall be in conformity with the functions exclusively provided by law to be exercised by the Philippine National Police and other concerned government agencies: _Provided_ , That the Authority may request the assistance of other law enforcement agencies, including request for deputization as may be required. Such police authority shall be exercised in connection with the following:
 
 (a) Maintenance of security to passengers, cargoes, aircraft, airport equipment, structures, facilities, personnel, funds and documents;
 
@@ -688,11 +838,17 @@ Properties and assets levied upon may be sold and the proceeds thereof shall be 
 
 (e) Enforcement of rules and regulations promulgated by the Board pursuant to the authority granted under this Act.
 
-**SEC. 76._Regulation of Building Heights._** \- The Board shall have the power to regulate the height of buildings, towers, antennae, and other edifices, situated within the vicinity of or in close proximity to airports estimated to endanger the flight of aircrafts. It shall also have the power to prohibit or regulate the establishment and operations of electrical, electronics, sound, magnetic, laser, or other electronic gadgets, equipment or installations which will tend to interfere with or impair air navigation in accordance with the international standards and recommended practices on airports, as recommended by the ICAO.
+### SEC. 76
 
-**SEC. 77._Authority Respecting the Transportation of Dangerous Goods by Air._** \- The Director General shall monitor and enforce compliance of the rules and regulations concerning the carriage of goods by air in relation to Annex 18 of the Chicago Convention and the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
+_Regulation of Building Heights._ \- The Board shall have the power to regulate the height of buildings, towers, antennae, and other edifices, situated within the vicinity of or in close proximity to airports estimated to endanger the flight of aircrafts. It shall also have the power to prohibit or regulate the establishment and operations of electrical, electronics, sound, magnetic, laser, or other electronic gadgets, equipment or installations which will tend to interfere with or impair air navigation in accordance with the international standards and recommended practices on airports, as recommended by the ICAO.
 
-**SEC. 78._Development of New Airports._** \- The Board shall be responsible for the planning, development, construction, operation, maintenance, or the expansion of airports. In planning and developing new airports, the Board shall consider:
+### SEC. 77
+
+_Authority Respecting the Transportation of Dangerous Goods by Air._ \- The Director General shall monitor and enforce compliance of the rules and regulations concerning the carriage of goods by air in relation to Annex 18 of the Chicago Convention and the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
+
+### SEC. 78
+
+_Development of New Airports._ \- The Board shall be responsible for the planning, development, construction, operation, maintenance, or the expansion of airports. In planning and developing new airports, the Board shall consider:
 
 (a) The suitability of a proposed site in terms of terrain and proximity to population center(s);
 
@@ -712,11 +868,17 @@ Properties and assets levied upon may be sold and the proceeds thereof shall be 
 
 ## CHAPTER XI — PENALTIES
 
-**SEC. 79._Power of the Authority to Investigate Violations._** \- Correlative to the provisions of Section 36 of this Act, the Director General at his own volition, or at the instance of a private person, or upon the initiative of the Board, may conduct investigations based on the procedures that the Board may prescribe and using the Rules of Court as its suppletory guidelines.
+### SEC. 79
 
-**SEC. 80._Power to Direct an Immediate Halt to an Offending Practice._** \- The Director General, after due investigation conducted, may issue a cease and desist order directing an air carrier(s) to immediately cease any practice found to be in violation of the provisions of this Act. Such order shall be without prejudice to the civil or criminal prosecution of persons or individuals found to be involved in practices prohibited under Chapter XI of this Act.
+_Power of the Authority to Investigate Violations._ \- Correlative to the provisions of Section 36 of this Act, the Director General at his own volition, or at the instance of a private person, or upon the initiative of the Board, may conduct investigations based on the procedures that the Board may prescribe and using the Rules of Court as its suppletory guidelines.
 
-**SEC. 81._Penalties._** \- (a) The Director General, after due notice and hearing, is authorized to impose the following fines and penalties for each violation of this Act:
+### SEC. 80
+
+_Power to Direct an Immediate Halt to an Offending Practice._ \- The Director General, after due investigation conducted, may issue a cease and desist order directing an air carrier(s) to immediately cease any practice found to be in violation of the provisions of this Act. Such order shall be without prejudice to the civil or criminal prosecution of persons or individuals found to be involved in practices prohibited under Chapter XI of this Act.
+
+### SEC. 81
+
+_Penalties._ \- (a) The Director General, after due notice and hearing, is authorized to impose the following fines and penalties for each violation of this Act:
 
 (1) Any person who operates any aircraft without the current airworthiness certificate, in violation of my rule, regulation or order issued by the Director General relating to aeronautical safety standards or practices or procedures shall be punished by a fine ranging from Twenty thousand pesos (Php20,000.00) to Fifty thousand pesos (Php50,000.00) for the 1st offense, suspension of the license for three (3) months for the 2nd offense and revocation or cancellation of such license for the 3rd offense;
 
@@ -780,21 +942,31 @@ This subsection shall not apply to persons duly authorized by the Director Gener
 
 The provisions of paragraph (b), clauses (9), (10), (11) and (12) above shall apply to any aircraft located within the special jurisdiction of the Philippines. Exercise by the Director General of the powers granted to him under paragraph (a) above shall not be a bar to a subsequent criminal prosecution in court for the same act pursuant to the provisiom of paragraph (b).
 
-**SEC. 82._General Penalty._** \- Any violation of the provisions of this Act, or any order, rule or regulation issued thereunder, or any term, condition or limitation of any certificate or license issued under this Act for which no penalty is expressly provided shall be punished by a fine ranging from Twenty thousand pesos (Php20,000.00) to One hundred thousand pesos (Php100,000.00) for each violation.
+### SEC. 82
 
-**SEC. 83._Penalty Considerations._** \- In determining the amount of any such penalty, the Director General shall take into account the nature, circumstances, extent and gravity of the violation and, with respect to the person found to have committed the violation, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+_General Penalty._ \- Any violation of the provisions of this Act, or any order, rule or regulation issued thereunder, or any term, condition or limitation of any certificate or license issued under this Act for which no penalty is expressly provided shall be punished by a fine ranging from Twenty thousand pesos (Php20,000.00) to One hundred thousand pesos (Php100,000.00) for each violation.
 
-**SEC. 84._Inflation Adjustment to Civil Penalties._** \- The Director General shall adjust the monetary level of the penalties, as may be authorized by the Board to impose, at least once every four (4) years: _Provided_ , That the Board shall promulgate such revised penalties in accordance with the Administrative Code of the Philippines and economic/monetary index provided by the Monetary Board, including any revision or successor thereto.
+### SEC. 83
+
+_Penalty Considerations._ \- In determining the amount of any such penalty, the Director General shall take into account the nature, circumstances, extent and gravity of the violation and, with respect to the person found to have committed the violation, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+
+### SEC. 84
+
+_Inflation Adjustment to Civil Penalties._ \- The Director General shall adjust the monetary level of the penalties, as may be authorized by the Board to impose, at least once every four (4) years: _Provided_ , That the Board shall promulgate such revised penalties in accordance with the Administrative Code of the Philippines and economic/monetary index provided by the Monetary Board, including any revision or successor thereto.
 
 ## CHAPTER XII — TRANSITORY PROVISIONS
 
-**SEC. 85._Abolition of the Air Transportation Office._** \- The Air Transportation Office (ATO) created under Republic Act No. 776, a sectoral office of the Department of Transportation and Communications (DOTC), is hereby abolished.
+### SEC. 85
+
+_Abolition of the Air Transportation Office._ \- The Air Transportation Office (ATO) created under Republic Act No. 776, a sectoral office of the Department of Transportation and Communications (DOTC), is hereby abolished.
 
 All powers, duties and rights vested by law and exercised by the AT0 is hereby transferred to the Authority.
 
 All assets, real and personal properties, funds and revenues owned by or vested in the different offices of the AT0 are transferred to the Authority. All contracts, records and documents relating to the operations of the abolished agency and its offices and branches are likewise transferred to the Authority. Any real property owned by the national government or government-owned corporation or authority which is being used and utilized as office or facility by the AT0 shall be transferred and titled in favor of the Authority.
 
-**SEC. 86._Transfer of Personnel of Air Tramportation Office._** \- To ensure smooth transition into a corporate structure, the incumbent Assistant Secretary of the AT0 shall continue to hold office and assume the powers of the Director General until his successor shall have been appointed and inducted into office in accordance with this Act. However, affected officials and personnel, with appointments attested by the Civil Service Commission, whether hired on a permanent or temporary basis, who would opt to retire or to be separated from the service, and those hired on a casual or contractual basis, if qualified, shall be given the option to avail themselves of any of the following, whichever is beneficial to them:
+### SEC. 86
+
+_Transfer of Personnel of Air Tramportation Office._ \- To ensure smooth transition into a corporate structure, the incumbent Assistant Secretary of the AT0 shall continue to hold office and assume the powers of the Director General until his successor shall have been appointed and inducted into office in accordance with this Act. However, affected officials and personnel, with appointments attested by the Civil Service Commission, whether hired on a permanent or temporary basis, who would opt to retire or to be separated from the service, and those hired on a casual or contractual basis, if qualified, shall be given the option to avail themselves of any of the following, whichever is beneficial to them:
 
 (a) Retirement gratuity provided under Republic Act No. 1616, as amended, plus the refund of retirement premiums payable by the Government Service Insurance System (GSIS), without the incentive herein provided;
 
@@ -810,15 +982,25 @@ All assets, real and personal properties, funds and revenues owned by or vested 
 
 No affected employee who opted for retirement/separation shall receive less than an aggregate of Fifty thousand pesos (Php50,000.00) as his retirement/separation gratuity from both the national government and the GSIS.
 
-**SEC. 87._Organization of the Authority._** \- Any officer/employee who availed the benefits of the foregoing provisions shall not qualify for reemployment to the Authority within seven (7) years from the date of retirement/resignation.
+### SEC. 87
 
-**SEC. 88._Saving Clause._** \- Unless otherwise provided in this Act, rights or privileges vested or acquired under the provisions of Republic Act No. 776, as amended, its rules and regulations prior to the effectivity of this Act shall remain in full force and effect.
+_Organization of the Authority._ \- Any officer/employee who availed the benefits of the foregoing provisions shall not qualify for reemployment to the Authority within seven (7) years from the date of retirement/resignation.
 
-**SEC. 89._Legal Counsel._** \- The Office of the Government Corporate Counsel shall act as the external legal counsel of the Authority before any court of law or any quasi-judicial bodies of the government without prejudice of any deputation or designation that it may issue in favor of the in-house counsel of the Authority.
+### SEC. 88
 
-**SEC. 90._Implementing Rules and Regulations._** \- The Authority shall adopt rules and regulations to implement the provisions of this Act within sixty (60) days from the date of its approval.
+_Saving Clause._ \- Unless otherwise provided in this Act, rights or privileges vested or acquired under the provisions of Republic Act No. 776, as amended, its rules and regulations prior to the effectivity of this Act shall remain in full force and effect.
 
-**SEC. 91._Congressional Oversight Committee._** \- A Congressional Oversight Committee, hereinafter referred to as the "Committee", is hereby constituted in accordance with the provisions of this Act. The Committee shall be composed of the Chairman of the Senate Committee on Public Services and Chairman of the House Committee on Transportation and four (4) additional members from each House to be designated by the Senate President and the Speaker of the House of Representatives, respectively. The Committee shall, among others, in aid of legislation:
+### SEC. 89
+
+_Legal Counsel._ \- The Office of the Government Corporate Counsel shall act as the external legal counsel of the Authority before any court of law or any quasi-judicial bodies of the government without prejudice of any deputation or designation that it may issue in favor of the in-house counsel of the Authority.
+
+### SEC. 90
+
+_Implementing Rules and Regulations._ \- The Authority shall adopt rules and regulations to implement the provisions of this Act within sixty (60) days from the date of its approval.
+
+### SEC. 91
+
+_Congressional Oversight Committee._ \- A Congressional Oversight Committee, hereinafter referred to as the "Committee", is hereby constituted in accordance with the provisions of this Act. The Committee shall be composed of the Chairman of the Senate Committee on Public Services and Chairman of the House Committee on Transportation and four (4) additional members from each House to be designated by the Senate President and the Speaker of the House of Representatives, respectively. The Committee shall, among others, in aid of legislation:
 
 (a) Monitor and ensure the proper implementation of this Act;
 
@@ -830,13 +1012,19 @@ In furtherance of the hereinabove cited ohjectives, the Committee is empowered t
 
 The Congressional Oversight Committee shall be in existence for a period of five (5) years, and thereafter, its oversight functions shall be exercised by the Senate Committee on Public Services and the House Committee on Transportation acting separately.
 
-**SEC. 92._Separability Clause._** \- If any part or provision of this Act shall be declared unconstitutional, the other parts or provisions hereof which are not affected thereby, shall continue in full force and effect.
+### SEC. 92
 
-**SEC. 93._Repealing Clause._** \- All laws, decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly, including provisions of any law, decrees, executive orders, rules and regulations or part thereof which provides exemptions to any air carrier, organization or entity from payment of any Civil Aviation Authority of the Philippines imposed fees and charges, relating to, but not limited to, navigation, communication, concession, license and permit.
+_Separability Clause._ \- If any part or provision of this Act shall be declared unconstitutional, the other parts or provisions hereof which are not affected thereby, shall continue in full force and effect.
+
+### SEC. 93
+
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly, including provisions of any law, decrees, executive orders, rules and regulations or part thereof which provides exemptions to any air carrier, organization or entity from payment of any Civil Aviation Authority of the Philippines imposed fees and charges, relating to, but not limited to, navigation, communication, concession, license and permit.
 
 Notwithstanding the foregoing, nothing in this Act shall diminish the powers and functions of the Manila International Airport Authority created by virtue of Executive Order No. 903, series of 1983; Subic Bay Metropolitan Authority as regards the Subic Bay International Airport created by virtue of Republic Act No. 7227; Clark International Airport Corporation as regards the Diosdado Macapagal International Airport Authority, created by virtue of Executive Order No. 193, series of 2003; and the Mactan-Cebu International Airport Authority created by virtue of Republic Act No. 6958.
 
-**SEC. 94._Effectivity._** \- This Act shall take effect fifteen (15) days after its complete publication in at least newspapers of general circulation.
+### SEC. 94
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its complete publication in at least newspapers of general circulation.
 
 Approved,
 

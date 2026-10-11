@@ -42,6 +42,6 @@ There is hereby authorized to be appropriated, out of any funds in the National 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1avvphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1966.

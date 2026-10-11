@@ -61,7 +61,7 @@ Section twelve of the same Act is hereby amended to read as follows:
 
 ## Section 5
 
-Subparagraph (h) of Section twenty-six of the same Act is hereby repealed.1avvphi1
+Subparagraph (h) of Section twenty-six of the same Act is hereby repealed.
 
 ## Section 6
 

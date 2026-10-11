@@ -28,6 +28,6 @@ The name of Pamañgunan Elementary School in the Municipality of Siasi, Province
 
 ## Section 2
 
-This Act shall take effect upon approval.1âшphi1
+This Act shall take effect upon approval.
 
 Approved, June 19, 1971.

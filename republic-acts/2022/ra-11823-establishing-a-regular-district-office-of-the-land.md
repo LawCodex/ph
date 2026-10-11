@@ -38,7 +38,7 @@ The Secretary of the Department of Transportation shall immediately include in t
 
 ## Section 3
 
-The Secretary of the DOTr shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.ℒαwρhi৷
+The Secretary of the DOTr shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 4
 

@@ -72,7 +72,7 @@ The following barrios are hereby created in the Municipality of Sta. Margarita, 
 
 (23) Barrio Palale, consisting of the sitios of Magdodilot, Saquib, Guinsohayan, Pangpang, Lobtong and Cataynazan; and
 
-(24) Barrio Caganahao, consisting of the sitios of Pangogob-an, Lumaras and Hindang.1âшphi1
+(24) Barrio Caganahao, consisting of the sitios of Pangogob-an, Lumaras and Hindang.
 
 ## Section 2
 

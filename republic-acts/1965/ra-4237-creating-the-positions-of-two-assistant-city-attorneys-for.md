@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The first paragraph of Section twenty-four of Republic Act Numbered Three hundred twenty-one, otherwise known as the Charter of Ozamiz City, is amended to read as follows:
 
-"Sec. 24. _The City Attorney—his assistants—his powers and duties.—_ The Law Department shall consist of the city attorney who shall be the chief legal adviser of the city and two assistant city attorneys.1âшphi1 The city attorney shall receive a salary of five thousand one hundred pesos per annum and the two assistant city attorneys, four thousand two hundred pesos each per annum. The city attorney shall have the following powers and duties:"
+"Sec. 24. _The City Attorney—his assistants—his powers and duties.—_ The Law Department shall consist of the city attorney who shall be the chief legal adviser of the city and two assistant city attorneys. The city attorney shall receive a salary of five thousand one hundred pesos per annum and the two assistant city attorneys, four thousand two hundred pesos each per annum. The city attorney shall have the following powers and duties:"
 
 ## Section 2
 

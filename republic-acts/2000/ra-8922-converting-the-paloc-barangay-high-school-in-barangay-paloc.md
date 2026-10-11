@@ -31,7 +31,7 @@ The Paloc Barangay High School in Barangay Paloc, Municipality of Maragusan, Com
 
 ## Section 2
 
-All personnel, records, equipment, buildings, facilities and other properties of the Paloc Barangay High School are hereby transferred to the Paloc National High School.ℒαwρhi৷
+All personnel, records, equipment, buildings, facilities and other properties of the Paloc Barangay High School are hereby transferred to the Paloc National High School.
 
 ## Section 3
 

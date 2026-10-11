@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Dapa, Province of Surigao del Norte, is hereby made a sub-port of entry under the jurisdiction of the collector of customs of Surigao, that province.1âшphi1
+The Municipality of Dapa, Province of Surigao del Norte, is hereby made a sub-port of entry under the jurisdiction of the collector of customs of Surigao, that province.
 
 ## Section 2
 

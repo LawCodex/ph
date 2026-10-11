@@ -35,7 +35,7 @@ Section twenty-four of Commonwealth Act Numbered Four hundred and sixty-six, as 
 
 ## Section 2
 
-The provisions of this Act shall apply to income received from January first, nineteen hundred and fifty-four.1âшphi1
+The provisions of this Act shall apply to income received from January first, nineteen hundred and fifty-four.
 
 ## Section 3
 

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Camiguin Island Hospital which is located in Mambajao, Camiguin, is hereby upgraded to tertiary level II to be known as the Camiguin General Hospital which shall be under the direct administrative and technical supervision of the Department of Health.Ꮮαwρhi৷
+The Camiguin Island Hospital which is located in Mambajao, Camiguin, is hereby upgraded to tertiary level II to be known as the Camiguin General Hospital which shall be under the direct administrative and technical supervision of the Department of Health.
 
 ## Section 2
 

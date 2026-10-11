@@ -38,7 +38,7 @@ _Appropriations._ -The Secretary of Education shall immediately include in the D
 
 ## Section 3
 
-_Implementation._ -The Secretary of Education shall issue such rules and regulations necessary to carry out the purpose of this Act.1âшphi1
+_Implementation._ -The Secretary of Education shall issue such rules and regulations necessary to carry out the purpose of this Act.
 
 ## Section 4
 

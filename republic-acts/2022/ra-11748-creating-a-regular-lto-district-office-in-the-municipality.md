@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Transport
 
 ## Section 2
 
-The Secretary of Transportation shall issue the rules and regulations necessary to carry out the purpose of this Act.ℒαwρhi৷
+The Secretary of Transportation shall issue the rules and regulations necessary to carry out the purpose of this Act.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of the 
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said animal breeding station and stock farm during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said animal breeding station and stock farm during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

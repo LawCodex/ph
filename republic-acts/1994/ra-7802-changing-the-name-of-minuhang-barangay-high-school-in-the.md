@@ -31,4 +31,4 @@ The name of Minuhang Barangay High School in the Municipality of Barugo, Provinc
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.1a⍵⍴h!1
+Approved, Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

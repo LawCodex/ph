@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-A national agricultural school, to be known as the Camarines Norte Agricultural School, shall be established in the Municipality of Labo, Province of Camarines Norte.1avvphi1 The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
+A national agricultural school, to be known as the Camarines Norte Agricultural School, shall be established in the Municipality of Labo, Province of Camarines Norte. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Pampanga High School in San Fernando, Pampanga, shall hereafter be known and referred to as Jose Abad Santos High School.1âшphi1
+Pampanga High School in San Fernando, Pampanga, shall hereafter be known and referred to as Jose Abad Santos High School.
 
 ## Section 2
 

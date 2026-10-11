@@ -97,10 +97,16 @@ Sec. 13 of the same Charter is hereby amended to read as follows:
 
 "No officer or employee of the Bank subject to Civil Service Law shall be dismissed except for cause as provided by law."
 
-**Section 7._Separability clause._** – In the event that any provision of this Act or the applicability of such provision to any person or circumstance is declared invalid, the remainder of the Act or the application of said provision to other persons or circumstances shall not be affected by such declaration.
+## Section 7
 
-**Section 8._Repealing clause._** – All acts, executive orders, administrative orders, proclamations, rules and regulations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+_Separability clause._ – In the event that any provision of this Act or the applicability of such provision to any person or circumstance is declared invalid, the remainder of the Act or the application of said provision to other persons or circumstances shall not be affected by such declaration.
 
-**Section 9._Effectivity._** – This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) national newspapers of general circulation.
+## Section 8
+
+_Repealing clause._ – All acts, executive orders, administrative orders, proclamations, rules and regulations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 9
+
+_Effectivity._ – This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) national newspapers of general circulation.
 
 _Approved:_ **February 14, 1998**

@@ -252,7 +252,7 @@ _Parity Clause._ \- All other powers, functions and privileges, responsibilities
 
 _Compliance with CHED Requirements._ \- The provisions of this Act notwithstanding, the establishment or conversion of the institution into a state university shall become effective only upon the determination and declaration by the CHED, based on the recommendation of a panel of experts, that the institution has complied with the requirements for a university status. The CHED, through its regional office, shall regularly provide technical assistance to the institution and monitor compliance with the requirements of the Commission.
 
-The CHED shall designate a panel of experts who shall prepare a recommendation to the Chairperson of the CHED, on whether the institution has substantially complied with the requirements for the grant of university status.ℒαwρhi৷
+The CHED shall designate a panel of experts who shall prepare a recommendation to the Chairperson of the CHED, on whether the institution has substantially complied with the requirements for the grant of university status.
 
 The following are the operational requirements for a university:
 

@@ -31,7 +31,7 @@ Section one of Republic Act Numbered Seven hundred sixty-two is hereby amended t
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act.(awÞhi(
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act.
 
 ## Section 3
 

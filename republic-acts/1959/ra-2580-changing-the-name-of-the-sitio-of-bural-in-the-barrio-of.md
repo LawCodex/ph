@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the sitio of Bural in the barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, is changed to San Juan.1âшphi1
+The name of the sitio of Bural in the barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, is changed to San Juan.
 
 ## Section 2
 

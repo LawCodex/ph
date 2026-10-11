@@ -47,7 +47,7 @@ _Separability Clause._ – Should any provision of this Act be found unconstitut
 
 ## Section 4
 
-_Repealing Clause._ – All laws, presidential decrees, executive orders, and rides and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, presidential decrees, executive orders, and rides and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 5
 

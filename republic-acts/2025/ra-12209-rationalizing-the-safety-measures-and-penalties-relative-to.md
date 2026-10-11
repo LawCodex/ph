@@ -35,7 +35,7 @@ The new owner shall cause the transfer of ownership of the motorcycle not later 
 
 In the case of a sale or disposition of a motorcycle through a dealership, there shall be a written agreement stating that the seller retains ownership but grants the buyer the right to use and possess the motorcycle until full payment of the purchase price.
 
-All dealers shall report each instance of repossession of a motorcycle to the LTO. The LTO shall revert the motorcycle registration to the name of the dealer and record it in its system as under storage to avoid incurring penalty.ℒαwρhi৷ Dealers shall submit to the LTO a yearly report on the status of all possessed motorcycles under their custody. For purposes of this Act, the term "dealer" includes those engaged in the business of "buy and sell".
+All dealers shall report each instance of repossession of a motorcycle to the LTO. The LTO shall revert the motorcycle registration to the name of the dealer and record it in its system as under storage to avoid incurring penalty. Dealers shall submit to the LTO a yearly report on the status of all possessed motorcycles under their custody. For purposes of this Act, the term "dealer" includes those engaged in the business of "buy and sell".
 
 Failure of the dealer, original owner, or the new owner to comply with the requirements of this section shall subject the dealer, original owner, or the new owner to a fine of not more than Five thousand pesos (P5,000): _Provided,_ That no seizure shall be made solely on the basis of the buyer's failure to comply with the requirements of this section."
 

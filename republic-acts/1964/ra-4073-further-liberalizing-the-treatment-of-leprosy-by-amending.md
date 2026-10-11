@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Sections one thousand fifty-eight and one thousand fifty-nine of the Revised Administrative Code, as amended, are further amended to read as follows:
 
-"Sec. 1058. _Persons afflicted with leprosy not to be segregated._ -Except when certified by the Secretary of Health or his authorized representatives that the stage of the disease requires institutional treatment, no persons afflicted with leprosy shall be confined in a leprosarium: _Provided,_ That such person shall be treated in any government skin clinic, rural health unit or by a duly licensed physician.£a⩊phi£
+"Sec. 1058. _Persons afflicted with leprosy not to be segregated._ -Except when certified by the Secretary of Health or his authorized representatives that the stage of the disease requires institutional treatment, no persons afflicted with leprosy shall be confined in a leprosarium: _Provided,_ That such person shall be treated in any government skin clinic, rural health unit or by a duly licensed physician.
 
 "Sec. 1059. _Confinement and treatment in sanitarium when necessary._ -Whenever a person afflicted with leprosy shall have developed the disease to such stage as to require institutional treatment and the leprosy officer shall so certify, the said person shall forthwith be sent to a government operated sanitarium and be treated therein until such time as the Secretary of Health or his authorized representative decides that institutional treatment is no longer necessary."
 

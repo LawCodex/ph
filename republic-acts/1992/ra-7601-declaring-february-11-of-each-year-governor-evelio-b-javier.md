@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In order to commemorate the death anniversary of the late Governor Evelio B. Javier, February Eleven of each year is hereby declared Governor Evelio B. Javier Day, a special nonworking public holiday in the Provinces of Antique, Capiz, Aklan and Iloilo.1âшphi1
+In order to commemorate the death anniversary of the late Governor Evelio B. Javier, February Eleven of each year is hereby declared Governor Evelio B. Javier Day, a special nonworking public holiday in the Provinces of Antique, Capiz, Aklan and Iloilo.
 
 ## Section 2
 

@@ -385,7 +385,7 @@ _Pay and Allowances of Trainees._ —Young men undergoing trainee instruction sh
 
 ## Section 20
 
-The total number of enlisted men authorized in each grade shall be as the President may direct. The President in case of national emergency may prescribe new rates of pay and allowances of enlisted men and trainees of the Armed Forces of the Philippines, which shall not be less than the rates prescribed in this Act.1a⍵⍴h!1
+The total number of enlisted men authorized in each grade shall be as the President may direct. The President in case of national emergency may prescribe new rates of pay and allowances of enlisted men and trainees of the Armed Forces of the Philippines, which shall not be less than the rates prescribed in this Act.
 
 ## Section 21
 

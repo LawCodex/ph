@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Department of Education, Culture and Sports, a national high school in Barangay Camayaan, Municipality of Loboc, Province of Bohol to be known as Camayaan National High School.ℒαwρhi৷
+There shall be established under the direct supervision of the Department of Education, Culture and Sports, a national high school in Barangay Camayaan, Municipality of Loboc, Province of Bohol to be known as Camayaan National High School.
 
 ## Section 2
 

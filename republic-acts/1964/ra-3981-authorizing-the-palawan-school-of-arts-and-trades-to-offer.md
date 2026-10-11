@@ -29,7 +29,7 @@ The Palawan School of Arts and Trades situated in the Municipality of Cuyo, Prov
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said curricula during the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary funds for the purpose shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said curricula during the fiscal year nineteen hundred sixty-four to nineteen hundred sixty-five. Thereafter, the necessary funds for the purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

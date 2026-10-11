@@ -74,7 +74,7 @@ Barrio Masonson to Barrio Dovera;
 
 Barrio Quipot to Barrio Aguirre, and
 
-Barrio Damasco to Barrio Asperna.1avvphi1
+Barrio Damasco to Barrio Asperna.
 
 ## Section 2
 

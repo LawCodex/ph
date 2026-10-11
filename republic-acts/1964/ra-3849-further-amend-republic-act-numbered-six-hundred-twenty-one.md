@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section two of Republic Act Numbered Six hundred Twenty-one, as amended by Republic Act Numbered Eight hundred ninety-two, is further amended to read as follows:
 
-"Sec. 2. The Commission shall be composed of appointive and ex officio members.1âшphi1 The following shall be appointed by the President of the Philippines with the consent of the Commission on Appointments:
+"Sec. 2. The Commission shall be composed of appointive and ex officio members. The following shall be appointed by the President of the Philippines with the consent of the Commission on Appointments:
 
 "(a) Twenty-seven shall be designated by the President of the Republic of the Philippines through the Commissions upon recommendation of organizations interested in educational, scientific and cultural matters affiliated with and duly registered in the Commission: _Provided,_ That the organization to be represented in the Commission shall be determined on the basis of criteria to be prescribed by the Commission; And _Provided, further,_ That no person shall be appointed to the Commission who is not morally and academically qualified to represent his organization;
 

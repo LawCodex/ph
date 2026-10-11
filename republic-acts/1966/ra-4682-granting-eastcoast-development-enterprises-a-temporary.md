@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to Eastcoast Development Enterprises a temporary permit to construct, maintain and operate within the Philippines and/or at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, land-based, land-mobile and ship-to-shore radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with radio transmitting apparatus and a radio receiving apparatus.1avvphi1
+There is hereby granted to Eastcoast Development Enterprises a temporary permit to construct, maintain and operate within the Philippines and/or at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, land-based, land-mobile and ship-to-shore radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with radio transmitting apparatus and a radio receiving apparatus.
 
 ## Section 2
 

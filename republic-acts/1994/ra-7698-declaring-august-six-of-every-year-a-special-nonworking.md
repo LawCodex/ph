@@ -39,4 +39,4 @@ August Six of every year is hereby declared a special nonworking public holiday 
 
 This Act shall take effect upon its approval.
 
-Lapsed into law on April 29, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.1a⍵⍴h!1
+Lapsed into law on April 29, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

@@ -40,7 +40,7 @@ This franchise shall not take effect until the Secretary of Public Works and Com
 
 ## Section 5
 
-The grantee shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines and to permit the expansion of the grantee's services.1âшphi1
+The grantee shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines and to permit the expansion of the grantee's services.
 
 ## Section 6
 

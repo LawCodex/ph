@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City is hereby changed to Philippine Orthopedic Center.1a⍵⍴h!1
+The name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City is hereby changed to Philippine Orthopedic Center.
 
 Approved,
 

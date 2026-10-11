@@ -27,9 +27,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE I — GENERAL PROVISIONS
 
-**Section 1._Short Title._** – This Act shall be known as the "_Domestic Adoption Act of 1998._ "
+### Section 1
 
-**Section 2._Declaration of Policies._** – (a) It is hereby declared the policy of the State to ensure that every child remains under the care and custody of his/her parent(s) and be provided with love, care, understanding and security towards the full and harmonious development of his/her personality. Only when such efforts prove insufficient and no appropriate placement or adoption within the child's extended family is available shall adoption by an unrelated person be considered.
+_Short Title._ – This Act shall be known as the "_Domestic Adoption Act of 1998._ "
+
+### Section 2
+
+_Declaration of Policies._ – (a) It is hereby declared the policy of the State to ensure that every child remains under the care and custody of his/her parent(s) and be provided with love, care, understanding and security towards the full and harmonious development of his/her personality. Only when such efforts prove insufficient and no appropriate placement or adoption within the child's extended family is available shall adoption by an unrelated person be considered.
 
 (b) In all matters relating to the care, custody and adoption of a child, his/her interest shall be the paramount consideration in accordance with the tenets set forth in the United Nations (UN) Convention on the Rights of the Child; UN Declaration on Social and Legal Principles Relating to the Protection and Welfare of Children with Special Reference to Foster Placement and Adoption, Nationally and Internationally; and the Hague Convention on the Protection of Children and Cooperation in Respect of Intercountry Adoption. Toward this end, the State shall provide alternative protection and assistance through foster care or adoption for every child who is neglected, orphaned, or abandoned.
 
@@ -49,7 +53,9 @@ Any voluntary or involuntary termination of parental authority shall be administ
 
 (vi) Encourage domestic adoption so as to preserve the child's identity and culture in his/her native land, and only when this is not available shall intercountry adoption be considered as a last resort.
 
-**Section 3._Definition of Terms._** – For purposes of this Act, the following terms shall be defined as:
+### Section 3
+
+_Definition of Terms._ – For purposes of this Act, the following terms shall be defined as:
 
 (a) _"Child"_ is a person below eighteen (18) years of age.
 
@@ -73,7 +79,9 @@ Any voluntary or involuntary termination of parental authority shall be administ
 
 ## ARTICLE II — PRE-ADOPTION SERVICES
 
-**Section 4._Counseling Service._** – The Department shall provide the services of licensed social workers to the following:
+### Section 4
+
+_Counseling Service._ – The Department shall provide the services of licensed social workers to the following:
 
 (a) _Biological Parent(s)_ – Counseling shall be provided to the parent(s) before and after the birth of his/her child. No binding commitment to an adoption plan shall be permitted before the birth of his/her child. A period of six (6) months shall be allowed for the biological parent(s) to reconsider any decision to relinquish his/her child for adoption before the decision becomes irrevocable. Counseling and rehabilitation services shall also be offered to the biological parent(s) after he/she has relinquished his/her child for adoption.
 
@@ -83,13 +91,19 @@ Steps shall be taken by the Department to ensure that no hurried decisions are m
 
 (c) _Prospective Adoptee –_ Counseling sessions shall be provided to ensure that he/she understands the nature and effects of adoption and is able to express his/her views on adoption in accordance with his/her age and level of maturity.
 
-**Section 5._Location of Unknown Parent(s)._** – It shall be the duty of the Department or the child-placing or child-caring agency which has custody of the child to exert all efforts to locate his/her unknown biological parent(s). If such efforts fail, the child shall be registered as a foundling and subsequently be the subject of legal proceedings where he/she shall be declared abandoned.
+### Section 5
 
-**Section 6._Support Services._** – The Department shall develop a pre-adoption program which shall include, among others, the above mentioned services.
+_Location of Unknown Parent(s)._ – It shall be the duty of the Department or the child-placing or child-caring agency which has custody of the child to exert all efforts to locate his/her unknown biological parent(s). If such efforts fail, the child shall be registered as a foundling and subsequently be the subject of legal proceedings where he/she shall be declared abandoned.
+
+### Section 6
+
+_Support Services._ – The Department shall develop a pre-adoption program which shall include, among others, the above mentioned services.
 
 ## ARTICLE III — ELIGIBILITY
 
-**Section 7._Who May Adopt._** – The following may adopt:
+### Section 7
+
+_Who May Adopt._ – The following may adopt:
 
 (a) Any Filipino citizen of legal age, in possession of full civil capacity and legal rights, of good moral character, has not been convicted of any crime involving moral turpitude, emotionally and psychologically capable of caring for children, at least sixteen (16) years older than the adoptee, and who is in a position to support and care for his/her children in keeping with the means of the family. The requirement of sixteen (16) year difference between the age of the adopter and adoptee may be waived when the adopter is the biological parent of the adoptee, or is the spouse of the adoptee's parent;
 
@@ -113,7 +127,9 @@ Husband and wife shall jointly adopt, except in the following cases:
 
 In case husband and wife jointly adopt, or one spouse adopts the illegitimate son/daughter of the other, joint parental authority shall be exercised by the spouses.
 
-**Section 8._Who May Be Adopted._** – The following may be adopted:
+### Section 8
+
+_Who May Be Adopted._ – The following may be adopted:
 
 (a) Any person below eighteen (18) years of age who has been administratively or judicially declared available for adoption;
 
@@ -127,7 +143,9 @@ In case husband and wife jointly adopt, or one spouse adopts the illegitimate so
 
 (f) A child whose biological or adoptive parent(s) has died: _Provided,_ That no proceedings shall be initiated within six (6) months from the time of death of said parent(s).
 
-**Section 9._Whose Consent is Necessary to the Adoption._** – After being properly counseled and informed of his/her right to give or withhold his/her approval of the adoption, the written consent of the following to the adoption is hereby required:
+### Section 9
+
+_Whose Consent is Necessary to the Adoption._ – After being properly counseled and informed of his/her right to give or withhold his/her approval of the adoption, the written consent of the following to the adoption is hereby required:
 
 (a) The adoptee, if ten (10) years of age or over;
 
@@ -141,9 +159,13 @@ In case husband and wife jointly adopt, or one spouse adopts the illegitimate so
 
 ## ARTICLE IV — PROCEDURE
 
-**Section 10._Hurried Decisions._** – In all proceedings for adoption, the court shall require proof that the biological parent(s) has been properly counseled to prevent him/her from making hurried decisions caused by strain or anxiety to give up the child, and to sustain that all measures to strengthen the family have been exhausted and that any prolonged stay of the child in his/her own home will be inimical to his/her welfare and interest.
+### Section 10
 
-**Section 11._Case Study._** – No petition for adoption shall be set for hearing unless a licensed social worker of the Department, the social service office of the local government unit, or any child-placing or child-caring agency has made a case study of the adoptee, his/her biological parent(s), as well as the adopter(s), and has submitted the report and recommendations on the matter to the court hearing such petition.
+_Hurried Decisions._ – In all proceedings for adoption, the court shall require proof that the biological parent(s) has been properly counseled to prevent him/her from making hurried decisions caused by strain or anxiety to give up the child, and to sustain that all measures to strengthen the family have been exhausted and that any prolonged stay of the child in his/her own home will be inimical to his/her welfare and interest.
+
+### Section 11
+
+_Case Study._ – No petition for adoption shall be set for hearing unless a licensed social worker of the Department, the social service office of the local government unit, or any child-placing or child-caring agency has made a case study of the adoptee, his/her biological parent(s), as well as the adopter(s), and has submitted the report and recommendations on the matter to the court hearing such petition.
 
 At the time of preparation of the adoptee's case study, the concerned social worker shall confirm with the Civil Registry the real identity and registered name of the adoptee. If the birth of the adoptee was not registered with the Civil Registry, it shall be the responsibility of the concerned social worker to ensure that the adoptee is registered.
 
@@ -151,35 +173,53 @@ The case study on the adoptee shall establish that he/she is legally available f
 
 The Department shall intervene on behalf of the adoptee if it finds, after the conduct of the case studies, that the petition should be denied. The case studies and other relevant documents and records pertaining to the adoptee and the adoption shall be preserved by the Department.
 
-**Section 12._Supervised Trial Custody_**. – No petition for adoption shall be finally granted until the adopter(s) has been given by the court a supervised trial custody period for at least six (6) months within which the parties are expected to adjust psychologically and emotionally to each other and establish a bonding relationship. During said period, temporary parental authority shall be vested in the adopter(s).
+### Section 12
+
+_Supervised Trial Custody_. – No petition for adoption shall be finally granted until the adopter(s) has been given by the court a supervised trial custody period for at least six (6) months within which the parties are expected to adjust psychologically and emotionally to each other and establish a bonding relationship. During said period, temporary parental authority shall be vested in the adopter(s).
 
 The court may motu proprio or upon motion of any party reduce the trial period if it finds the same to be in the best interest of the adoptee, stating the reasons for the reduction of the period. However, for alien adopter(s), he/she must complete the six (6)-month trial custody except for those enumerated in Sec. 7 (b) (i) (ii) (iii).
 
 If the child is below seven (7) years of age and is placed with the prospective adopter(s) through a pre-adoption placement authority issued by the Department, the prospective adopter(s) shall enjoy all the benefits to which biological parent(s) is entitled from the date the adoptee is placed with the prospective adopter(s).
 
-**Section 13._Decree of Adoption_**. – If, after the publication of the order of hearing has been complied with, and no opposition has been interposed to the petition, and after consideration of the case studies, the qualifications of the adopter(s), trial custody report and the evidence submitted, the court is convinced that the petitioners are qualified to adopt, and that the adoption would redound to the best interest of the adoptee, a decree of adoption shall be entered which shall be effective as of the date the original petition was filed. This provision shall also apply in case the petitioner(s) dies before the issuance of the decree of adoption to protect the interest of the adoptee. The decree shall state the name by which the child is to be known.
+### Section 13
 
-**Section 14._Civil Registry Record._** – An amended certificate of birth shall be issued by the Civil Registry, as required by the Rules of Court, attesting to the fact that the adoptee is the child of the adopter(s) by being registered with his/her surname. The original certificate of birth shall be stamped _"cancelled"_ with the annotation of the issuance of an amended birth certificate in its place and shall be sealed in the civil registry records. The new birth certificate to be issued to the adoptee shall not bear any notation that it is an amended issue.
+_Decree of Adoption_. – If, after the publication of the order of hearing has been complied with, and no opposition has been interposed to the petition, and after consideration of the case studies, the qualifications of the adopter(s), trial custody report and the evidence submitted, the court is convinced that the petitioners are qualified to adopt, and that the adoption would redound to the best interest of the adoptee, a decree of adoption shall be entered which shall be effective as of the date the original petition was filed. This provision shall also apply in case the petitioner(s) dies before the issuance of the decree of adoption to protect the interest of the adoptee. The decree shall state the name by which the child is to be known.
 
-**Section 15._Confidential Nature of Proceedings and Records_**. – All hearings in adoption cases shall be confidential and shall not be open to the public. All records, books, and papers relating to the adoption cases in the files of the court, the Department, or any other agency or institution participating in the adoption proceedings shall be kept strictly confidential.
+### Section 14
+
+_Civil Registry Record._ – An amended certificate of birth shall be issued by the Civil Registry, as required by the Rules of Court, attesting to the fact that the adoptee is the child of the adopter(s) by being registered with his/her surname. The original certificate of birth shall be stamped _"cancelled"_ with the annotation of the issuance of an amended birth certificate in its place and shall be sealed in the civil registry records. The new birth certificate to be issued to the adoptee shall not bear any notation that it is an amended issue.
+
+### Section 15
+
+_Confidential Nature of Proceedings and Records_. – All hearings in adoption cases shall be confidential and shall not be open to the public. All records, books, and papers relating to the adoption cases in the files of the court, the Department, or any other agency or institution participating in the adoption proceedings shall be kept strictly confidential.
 
 If the court finds that the disclosure of the information to a third person is necessary for purposes connected with or arising out of the adoption and will be for the best interest of the adoptee, the court may merit the necessary information to be released, restricting the purposes for which it may be used.
 
 ## ARTICLE V — EFFECTS OF ADOPTION
 
-**Section 16._Parental Authority._** – Except in cases where the biological parent is the spouse of the adopter, all legal ties between the biological parent(s) and the adoptee shall be severed and the same shall then be vested on the adopter(s).
+### Section 16
 
-**Section 17._Legitimacy._** – The adoptee shall be considered the legitimate son/daughter of the adopter(s) for all intents and purposes and as such is entitled to all the rights and obligations provided by law to legitimate sons/daughters born to them without discrimination of any kind. To this end, the adoptee is entitled to love, guidance, and support in keeping with the means of the family.
+_Parental Authority._ – Except in cases where the biological parent is the spouse of the adopter, all legal ties between the biological parent(s) and the adoptee shall be severed and the same shall then be vested on the adopter(s).
 
-**Section 18._Succession._** – In legal and intestate succession, the adopter(s) and the adoptee shall have reciprocal rights of succession without distinction from legitimate filiation. However, if the adoptee and his/her biological parent(s) had left a will, the law on testamentary succession shall govern.
+### Section 17
+
+_Legitimacy._ – The adoptee shall be considered the legitimate son/daughter of the adopter(s) for all intents and purposes and as such is entitled to all the rights and obligations provided by law to legitimate sons/daughters born to them without discrimination of any kind. To this end, the adoptee is entitled to love, guidance, and support in keeping with the means of the family.
+
+### Section 18
+
+_Succession._ – In legal and intestate succession, the adopter(s) and the adoptee shall have reciprocal rights of succession without distinction from legitimate filiation. However, if the adoptee and his/her biological parent(s) had left a will, the law on testamentary succession shall govern.
 
 ## ARTICLE VI — RESCISSION OF ADOPTION
 
-**Section 19._Grounds for Rescission of Adoption_**. – Upon petition of the adoptee, with the assistance of the Department if a minor or if over eighteen (18) years of age but is incapacitated, as guardian/counsel, the adoption may be rescinded on any of the following grounds committed by the adopter(s): (a) repeated physical and verbal maltreatment by the adopter(s) despite having undergone counseling; (b) attempt on the life of the adoptee; (c) sexual assault or violence; or (d) abandonment and failure to comply with parental obligations.
+### Section 19
+
+_Grounds for Rescission of Adoption_. – Upon petition of the adoptee, with the assistance of the Department if a minor or if over eighteen (18) years of age but is incapacitated, as guardian/counsel, the adoption may be rescinded on any of the following grounds committed by the adopter(s): (a) repeated physical and verbal maltreatment by the adopter(s) despite having undergone counseling; (b) attempt on the life of the adoptee; (c) sexual assault or violence; or (d) abandonment and failure to comply with parental obligations.
 
 Adoption, being in the best interest of the child, shall not be subject to rescission by the adopter(s). However, the adopter(s) may disinherit the adoptee for causes provided in Article 919 of the Civil Code.
 
-**Section 20._Effects of Rescission._** – If the petition is granted, the parental authority of the adoptee's biological parent(s), if known, or the legal custody of the Department shall be restored if the adoptee is still a minor or incapacitated. The reciprocal rights and obligations of the adopter(s) and the adoptee to each other shall be extinguished.
+### Section 20
+
+_Effects of Rescission._ – If the petition is granted, the parental authority of the adoptee's biological parent(s), if known, or the legal custody of the Department shall be restored if the adoptee is still a minor or incapacitated. The reciprocal rights and obligations of the adopter(s) and the adoptee to each other shall be extinguished.
 
 The court shall order the Civil Registrar to cancel the amended certificate of birth of the adoptee and restore his/her original birth certificate.
 
@@ -189,7 +229,9 @@ All the foregoing effects of rescission of adoption shall be without prejudice t
 
 ## ARTICLE VII — VIOLATIONS AND PENALTIES
 
-**Section 21._Violations and Penalties._** – (a) The penalty of imprisonment ranging from six (6) years and one (1) day to twelve (12) years and/or a fine not less than Fifty thousand pesos (P50,000.00), but not more than Two hundred thousand pesos (P200,000.00) at the discretion of the court shall be imposed on any person who shall commit any of the following acts:
+### Section 21
+
+_Violations and Penalties._ – (a) The penalty of imprisonment ranging from six (6) years and one (1) day to twelve (12) years and/or a fine not less than Fifty thousand pesos (P50,000.00), but not more than Two hundred thousand pesos (P200,000.00) at the discretion of the court shall be imposed on any person who shall commit any of the following acts:
 
 (i) obtaining consent for an adoption through coercion, undue influence, fraud, improper material inducement, or other similar acts;
 
@@ -211,20 +253,34 @@ When the offender is an alien, he/she shall be deported immediately after servic
 
 Any government official, employee or functionary who shall be found guilty of violating any of the provisions of this Act, or who shall conspire with private individuals shall, in addition to the above-prescribed penalties, be penalized in accordance with existing civil service laws, rules and regulations: _Provided_ , That upon the filing of a case, either administrative or criminal, said government official, employee, or functionary concerned shall automatically suffer suspension until the resolution of the case.
 
-**Section 22._Rectification of Simulated Births._** – A person who has, prior to the effectivity of this Act, simulated the birth of a child shall not be punished for such act: _Provided_ , That the simulation of birth was made for the best interest of the child and that he/she has been consistently considered and treated by that person as his/her own son/daughter: _Provided, further,_ That the application for correction of the birth registration and petition for adoption shall be filed within five (5) years from the effectivity of this Act and completed thereafter: _Provided, finally,_ That such person complies with the procedure as specified in Article IV of this Act and other requirements as determined by the Department.
+### Section 22
+
+_Rectification of Simulated Births._ – A person who has, prior to the effectivity of this Act, simulated the birth of a child shall not be punished for such act: _Provided_ , That the simulation of birth was made for the best interest of the child and that he/she has been consistently considered and treated by that person as his/her own son/daughter: _Provided, further,_ That the application for correction of the birth registration and petition for adoption shall be filed within five (5) years from the effectivity of this Act and completed thereafter: _Provided, finally,_ That such person complies with the procedure as specified in Article IV of this Act and other requirements as determined by the Department.
 
 ## ARTICLE VIII — FINAL PROVISIONS
 
-**Section 23._Adoption Resource and Referral Office._** – There shall be established an Adoption Resources and Referral Office under the Department with the following functions: (a) monitor the existence, number, and flow of children legally available for adoption and prospective adopter(s) so as to facilitate their matching; (b) maintain a nationwide information and educational campaign on domestic adoption; (c) keep records of adoption proceedings; (d) generate resources to help child-caring and child-placing agencies and foster homes maintain viability; and (e) do policy research in collaboration with the Intercountry Adoption Board and other concerned agencies. The office shall be manned by adoption experts from the public and private sectors.
+### Section 23
 
-**Section 24._Implementing Rules and Regulations._** – Within six (6) months from the promulgation of this Act, the Department, with the Council for the Welfare of Children, the Office of Civil Registry General, the Department of Justice, Office of the Solicitor General, and two (2) private individuals representing child-placing and child-caring agencies shall formulate the necessary guidelines to make the provisions of this Act operative.
+_Adoption Resource and Referral Office._ – There shall be established an Adoption Resources and Referral Office under the Department with the following functions: (a) monitor the existence, number, and flow of children legally available for adoption and prospective adopter(s) so as to facilitate their matching; (b) maintain a nationwide information and educational campaign on domestic adoption; (c) keep records of adoption proceedings; (d) generate resources to help child-caring and child-placing agencies and foster homes maintain viability; and (e) do policy research in collaboration with the Intercountry Adoption Board and other concerned agencies. The office shall be manned by adoption experts from the public and private sectors.
 
-**Section 25._Appropriations._** – Such sum as may be necessary for the implementation of the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+### Section 24
 
-**Section 26._Repealing Clause._** – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule, or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified, or amended accordingly.
+_Implementing Rules and Regulations._ – Within six (6) months from the promulgation of this Act, the Department, with the Council for the Welfare of Children, the Office of Civil Registry General, the Department of Justice, Office of the Solicitor General, and two (2) private individuals representing child-placing and child-caring agencies shall formulate the necessary guidelines to make the provisions of this Act operative.
 
-**Section 27._Separability Clause._** – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
+### Section 25
 
-**Section 28._Effectivity Clause._** – This Act shall take effect fifteen (15) days following its complete publication in any newspaper of general circulation or in the Official Gazette.
+_Appropriations._ – Such sum as may be necessary for the implementation of the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+### Section 26
+
+_Repealing Clause._ – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule, or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified, or amended accordingly.
+
+### Section 27
+
+_Separability Clause._ – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
+
+### Section 28
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days following its complete publication in any newspaper of general circulation or in the Official Gazette.
 
 _Approved:_ **February 25, 1998**

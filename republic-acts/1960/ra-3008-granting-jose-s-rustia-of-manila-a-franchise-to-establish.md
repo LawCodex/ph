@@ -64,7 +64,7 @@ The grantee shall keep an account of the gross receipts of its business and shal
 
 ## Section 10
 
-The grantee, his successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1âшphi1
+The grantee, his successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 11
 

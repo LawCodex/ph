@@ -142,7 +142,7 @@ No religious opinion or affiliation shall be a matter of inquiry in the appointm
 
 ## Section 17
 
-No student shall be denied admission to the University by reason of sex, nationality, religion, or political affiliation.1aшphi1
+No student shall be denied admission to the University by reason of sex, nationality, religion, or political affiliation.
 
 ## Section 18
 

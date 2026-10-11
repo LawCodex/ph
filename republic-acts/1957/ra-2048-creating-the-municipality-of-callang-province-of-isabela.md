@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Callang, Eden, Babanuang, Cabaritan, Sta. Cruz, Malalinta, Mararigue, Calaocan, and Caraniogan, Municipality of Roxas, Province of Isabela, are separated from said municipality and are constituted into a new municipality, to be known as the Municipality of Callang, Province of Isabela, with the seat of government at the site of the present barrio of Callang.1avvphi1
+The barrios of Callang, Eden, Babanuang, Cabaritan, Sta. Cruz, Malalinta, Mararigue, Calaocan, and Caraniogan, Municipality of Roxas, Province of Isabela, are separated from said municipality and are constituted into a new municipality, to be known as the Municipality of Callang, Province of Isabela, with the seat of government at the site of the present barrio of Callang.
 
 ## Section 2
 

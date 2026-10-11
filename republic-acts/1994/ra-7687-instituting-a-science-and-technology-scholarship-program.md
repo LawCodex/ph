@@ -131,7 +131,7 @@ _Transitory Provisions._ — Within sixty (60) days from effectivity of this Act
 
 ## Section 19
 
-_Repealing Clause_. — All laws, decrees, orders, rules and regulations, or portions thereof, inconsistent with this Act are hereby repealed or modified accordingly.1a⍵⍴h!1
+_Repealing Clause_. — All laws, decrees, orders, rules and regulations, or portions thereof, inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 20
 

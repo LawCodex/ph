@@ -58,7 +58,7 @@ _Definition of Terms._ \- As used in this Act:
 
 (f) Protected landscape and/or seascape refers to an area of national significance which is characterized by the harmonious interaction of human and land and water while providing opportunities for public enjoyment through recreation, tourism, and other economic activities; and
 
-(g) Tenured migrants refer to protected area occupants who are presently occupying, and have been actually and continuously occupying, a portion of the protected area for five (5) years before the same was established by proclamation or law as a protected area, and are solely dependent therein for subsistence.ℒαwρhi৷
+(g) Tenured migrants refer to protected area occupants who are presently occupying, and have been actually and continuously occupying, a portion of the protected area for five (5) years before the same was established by proclamation or law as a protected area, and are solely dependent therein for subsistence.
 
 ### Section 4
 

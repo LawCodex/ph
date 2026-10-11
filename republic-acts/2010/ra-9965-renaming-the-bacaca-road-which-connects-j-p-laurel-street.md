@@ -34,7 +34,7 @@ The Bacaca Road which connects J.P. Laurel Street and Carlos P. Garcia Highway t
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1avvphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

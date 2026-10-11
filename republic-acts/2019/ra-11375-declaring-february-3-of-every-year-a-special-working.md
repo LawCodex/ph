@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-February 3 of every year is hereby declared a special working holiday in the City of Cabanatuan, Province of Nueva Ecija, in commemoration of its founding anniversary. Upon proclamation of the President, February 3 of every year shall be a special non working holiday in the City of Cabanatuan, Province of Nueva Ecija.1âшphi1
+February 3 of every year is hereby declared a special working holiday in the City of Cabanatuan, Province of Nueva Ecija, in commemoration of its founding anniversary. Upon proclamation of the President, February 3 of every year shall be a special non working holiday in the City of Cabanatuan, Province of Nueva Ecija.
 
 ## Section 2
 

@@ -32,7 +32,7 @@ This permit shall continue to be in force for twenty-five years from the date of
 
 ## Section 3
 
-The grantee, its successors or assigns, shall not engage in domestic business of telecommunications the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land-based and land mobile radio stations at such places within the Philippines as the terest of the grantee may justify.1âшphi1
+The grantee, its successors or assigns, shall not engage in domestic business of telecommunications the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land-based and land mobile radio stations at such places within the Philippines as the terest of the grantee may justify.
 
 ## Section 4
 

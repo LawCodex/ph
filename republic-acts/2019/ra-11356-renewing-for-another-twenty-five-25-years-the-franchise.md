@@ -57,7 +57,7 @@ _Term of Franchise._ \- This franchise shall be in effect for a period of twenty
 
 ## Section 7
 
-_Renewal or Extension of Franchise._ \- The grantee shall apply for the renewal or extension of its franchise five (5) years before its expiration date which shall be reckoned fifteen (15) days after the publication of the franchise in the Official Gazette or in any newspaper of general circulation, whichever comes earlier.ℒαwρhi৷
+_Renewal or Extension of Franchise._ \- The grantee shall apply for the renewal or extension of its franchise five (5) years before its expiration date which shall be reckoned fifteen (15) days after the publication of the franchise in the Official Gazette or in any newspaper of general circulation, whichever comes earlier.
 
 ## Section 8
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Libertad in the Municipality of Dolores, Province of Samar, is converted into a barrio of said municipality, to be known as the barrio of Libertad.1âшphi1
+The sitio of Libertad in the Municipality of Dolores, Province of Samar, is converted into a barrio of said municipality, to be known as the barrio of Libertad.
 
 ## Section 2
 

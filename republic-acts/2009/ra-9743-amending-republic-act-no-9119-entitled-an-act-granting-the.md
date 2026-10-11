@@ -38,7 +38,7 @@ Section 13 of Republic Act No. 9119 is hereby amended to read as follows:
 
 Section 16 of Republic Act No. 9119 is hereby amended to read as follows:
 
-"SECTION 16. Equality Clause. - Any advantage, favor, privilege, exemption, or immunity granted under existing franchise, or which may hereafter be granted for radio and/or television broadcasting, shall _ipso facto_ become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: _Provided, however,_ That the foregoing shall neither apply to nor affect provisions of broadcasting franchises concerning territory covered by the franchise, the life span of the franchise or the type of service authorized by the franchise."1awphil
+"SECTION 16. Equality Clause. - Any advantage, favor, privilege, exemption, or immunity granted under existing franchise, or which may hereafter be granted for radio and/or television broadcasting, shall _ipso facto_ become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: _Provided, however,_ That the foregoing shall neither apply to nor affect provisions of broadcasting franchises concerning territory covered by the franchise, the life span of the franchise or the type of service authorized by the franchise."
 
 ## Section 3
 

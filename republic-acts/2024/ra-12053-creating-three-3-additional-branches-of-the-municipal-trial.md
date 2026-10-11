@@ -32,7 +32,7 @@ The Supreme Court shall assign the respective branch numbers for the newly creat
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the MTCC in the City of San Carlos, Province of Pangasinan. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.ℒαwρhi৷
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the MTCC in the City of San Carlos, Province of Pangasinan. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
 
 ## Section 3
 

@@ -51,7 +51,7 @@ _Appropriations._ \- The amount necessary to implement this Act shall be include
 
 ## Section 7
 
-_Separability Clause._ \- If any part or provision of this Act is declared invalid or unconstitutional, the other provisions not otherwise affected shall remain in force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any part or provision of this Act is declared invalid or unconstitutional, the other provisions not otherwise affected shall remain in force and effect.
 
 ## Section 8
 

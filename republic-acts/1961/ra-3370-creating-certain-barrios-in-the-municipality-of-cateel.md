@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Cabasagan, Cauayanan and Malibago in the Municipality of Cateel, Province of Davao, are converted into barrios of said municipality to be known as the barrios of Cabasagan, Cauayanan and Malibago, respectively.1avvphi1
+The sitios of Cabasagan, Cauayanan and Malibago in the Municipality of Cateel, Province of Davao, are converted into barrios of said municipality to be known as the barrios of Cabasagan, Cauayanan and Malibago, respectively.
 
 ## Section 2
 

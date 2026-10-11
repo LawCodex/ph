@@ -38,7 +38,7 @@ All personnel, assets, liabilities and records of the Villamayor National High S
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Bagolatao National High School, the initial funding of which be charged against the current year's appropriation of the Villamayor National High School - Bagolatao Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Bagolatao National High School, the initial funding of which be charged against the current year's appropriation of the Villamayor National High School - Bagolatao Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

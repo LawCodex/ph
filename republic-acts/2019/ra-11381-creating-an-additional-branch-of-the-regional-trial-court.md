@@ -37,7 +37,7 @@ The Supreme Court shall assign the branch number of the newly created Regional T
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the additional branch of the Regional Trial Court to be stationed in the Municipality of Paracelis.1âшphi1 The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the additional branch of the Regional Trial Court to be stationed in the Municipality of Paracelis. The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
 
 ## Section 3
 

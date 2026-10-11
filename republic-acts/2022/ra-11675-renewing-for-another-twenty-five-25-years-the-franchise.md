@@ -72,7 +72,7 @@ _Term of Franchise._ \- This franchise shall be in effect for a period of twenty
 
 ## Section 9
 
-_Right of Interconnection._ \- The Grantee is hereby authorized to connect or demand connection of its telecommunications systems to other telecommunications systems installed, operated, and maintained by any other duly authorized person or entity in the Philippines for the purpose of providing extended and improved telecommunications services to the public, under the terms and conditions mutually agreed upon by the parties concerned.ℒαwρhi৷ This right shall be subject to the review and modification of the NTC.
+_Right of Interconnection._ \- The Grantee is hereby authorized to connect or demand connection of its telecommunications systems to other telecommunications systems installed, operated, and maintained by any other duly authorized person or entity in the Philippines for the purpose of providing extended and improved telecommunications services to the public, under the terms and conditions mutually agreed upon by the parties concerned. This right shall be subject to the review and modification of the NTC.
 
 ## Section 10
 
@@ -102,7 +102,7 @@ The reportorial compliance certificate issued by Congress shall required before 
 
 ## Section 15
 
-_Fine._ \- Failure of the Grantee to submit the requisite annual report to Congress shall be penalized with a fine in the amount of One million pesos (P1,000,000.00) each working day of noncompliance, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees: _Provided,_ That in the interim, the Grantee shall be liable to pay the fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC.ᇈWᑭHIL The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of Treasury.
+_Fine._ \- Failure of the Grantee to submit the requisite annual report to Congress shall be penalized with a fine in the amount of One million pesos (P1,000,000.00) each working day of noncompliance, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees: _Provided,_ That in the interim, the Grantee shall be liable to pay the fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC. The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of Treasury.
 
 ## Section 16
 

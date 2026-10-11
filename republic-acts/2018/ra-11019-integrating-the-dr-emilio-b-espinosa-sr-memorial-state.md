@@ -33,7 +33,7 @@ The Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Techno
 
 ## Section 2
 
-The parcel of land presently occupied by the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology Campus Learning Site is hereby declared as the property of the State College, and the title shall be transferred under its name: _Provided,_ That should the campus cease to exist or is abolished, or should aforementioned parcel of the land be declared by the Board as no longer needed by the State College, ownership over the same shall revert to the Municipality of Cawayan.1âwphi1
+The parcel of land presently occupied by the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology Campus Learning Site is hereby declared as the property of the State College, and the title shall be transferred under its name: _Provided,_ That should the campus cease to exist or is abolished, or should aforementioned parcel of the land be declared by the Board as no longer needed by the State College, ownership over the same shall revert to the Municipality of Cawayan.
 
 ## Section 3
 

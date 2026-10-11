@@ -82,7 +82,7 @@ The PCA, in coordination with the local government unit concerned, shall regulat
 
 ## Section 6
 
-_Authority to Cut._ \- The Philippine Coconut Authority shall have the exclusive authority to grant permit for the cutting of coconut trees.1aшphi1 This authority may be delegated to the city or municipal mayors as the PCA may determine.
+_Authority to Cut._ \- The Philippine Coconut Authority shall have the exclusive authority to grant permit for the cutting of coconut trees. This authority may be delegated to the city or municipal mayors as the PCA may determine.
 
 ## Section 7
 

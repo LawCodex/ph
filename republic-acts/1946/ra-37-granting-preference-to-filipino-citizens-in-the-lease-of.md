@@ -32,7 +32,7 @@ The Secretary of Finance is hereby empowered to promulgate the necessary rules t
 
 ## Section 3
 
-All existing laws or parts thereof contrary to the provisions of this Act are hereby repealed.1âwphi1
+All existing laws or parts thereof contrary to the provisions of this Act are hereby repealed.
 
 ## Section 4
 

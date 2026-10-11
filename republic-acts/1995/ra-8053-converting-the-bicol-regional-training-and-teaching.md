@@ -48,7 +48,7 @@ The regional director upon prior authority of the Secretary of Health may negoti
 
 ## Section 6
 
-All assets, fixed and movable, personnel and records of the Bicol Regional Training and Teaching Hospital in Naga City as well as liabilities or obligations are hereby transferred to the Center: _Provided, however,_ That the position, rights and security of tenure of personnel therein employed prior to absorption by the Center are not impaired.1aшphi1
+All assets, fixed and movable, personnel and records of the Bicol Regional Training and Teaching Hospital in Naga City as well as liabilities or obligations are hereby transferred to the Center: _Provided, however,_ That the position, rights and security of tenure of personnel therein employed prior to absorption by the Center are not impaired.
 
 ## Section 7
 

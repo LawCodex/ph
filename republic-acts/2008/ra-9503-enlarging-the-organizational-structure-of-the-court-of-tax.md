@@ -50,13 +50,21 @@ Section 2 of the same Act, as amended, is hereby further amended, to reach as fo
 
 "The affirmative votes of five (5) members of the Court en banc shall be necessary to reverse a decision of a Division but a simple majority of the Justices present necessary to promulgate a resolution or decision in all other cases or two (2) members of a Division, as the case may be, shall be necessary for the rendition of a decision or resolution in the Division Level."
 
-**SEC. 3._Appropriations._** \- The amount of Twenty million pesos (20,000,000.00) necessary to carry out the provisions of this Act shall be appropriated immediately to be generated from whatever source that are available in the National Treasury, based on a special supplemental budget to be submitted to the Department of Budget and Management (DBM) which shall not exceed the herein appropriation.
+## SEC. 3
 
-**SEC. 4._Repealing Clause._** \- - All laws, executive orders, executive issuances or letters of instruction or any part thereof inconsistent with or contrary to the provisions of this Act are hereby deemed repealed, amended or modified accordingly.
+_Appropriations._ \- The amount of Twenty million pesos (20,000,000.00) necessary to carry out the provisions of this Act shall be appropriated immediately to be generated from whatever source that are available in the National Treasury, based on a special supplemental budget to be submitted to the Department of Budget and Management (DBM) which shall not exceed the herein appropriation.
 
-**SEC. 5._Separability Clause._** \- If, for any reason, any section or provision of this Act shall be declared unconstitutional or invalid, the other parts thereof not affected thereby shall remain valid.
+## SEC. 4
 
-**SEC. 6._Effectivity Clause._** \- This Act shall take effect after fifteen (15) days following its publication in at least two (2) newspapers of general circulation.
+_Repealing Clause._ \- - All laws, executive orders, executive issuances or letters of instruction or any part thereof inconsistent with or contrary to the provisions of this Act are hereby deemed repealed, amended or modified accordingly.
+
+## SEC. 5
+
+_Separability Clause._ \- If, for any reason, any section or provision of this Act shall be declared unconstitutional or invalid, the other parts thereof not affected thereby shall remain valid.
+
+## SEC. 6
+
+_Effectivity Clause._ \- This Act shall take effect after fifteen (15) days following its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

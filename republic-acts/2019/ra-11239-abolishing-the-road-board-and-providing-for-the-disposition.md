@@ -67,7 +67,7 @@ _Congressional Oversight Committee._ \- There is hereby created a Congressional 
 
 ## Section 9
 
-_Separability Clause._ \- If any provision or part of this Act is declared unconstitutional or invalid, the remaining parts or provisions not affected thereby shall remain in full force and effect.1âwphi1
+_Separability Clause._ \- If any provision or part of this Act is declared unconstitutional or invalid, the remaining parts or provisions not affected thereby shall remain in full force and effect.
 
 ## Section 10
 

@@ -70,7 +70,7 @@ _Rates of Service._ \- The tariffs and rates for telephone service and other typ
 
 ## Section 11
 
-_Dispersal of Ownership._ \- In adherence with the constitutional mandate, the herein grantee shall comply with the enabling law implementing the democratization of ownership of all public utilities.1aшphi1
+_Dispersal of Ownership._ \- In adherence with the constitutional mandate, the herein grantee shall comply with the enabling law implementing the democratization of ownership of all public utilities.
 
 ## Section 12
 
@@ -88,7 +88,7 @@ _Warranty._ \- The grantee shall hold the national, provincial, city and municip
 
 ## Section 15
 
-_Right of Government._ \- In the event of war, rebellion, insurrection or similar national crises and the Commission shall find it necessary to operate and maintain for itself any or all of the telecommunications apparatus and system herein authorized, the grantee shall temporarily turn over such facilities or apparatus to the government in exchange for payment of just and reasonable compensation for the use thereof.1aшphi1
+_Right of Government._ \- In the event of war, rebellion, insurrection or similar national crises and the Commission shall find it necessary to operate and maintain for itself any or all of the telecommunications apparatus and system herein authorized, the grantee shall temporarily turn over such facilities or apparatus to the government in exchange for payment of just and reasonable compensation for the use thereof.
 
 ## Section 16
 

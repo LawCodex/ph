@@ -34,7 +34,7 @@ The Rodolfo V. Pamor, Jr. Memorial National High School - Sagñay Southeastern H
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Rodolfo V. Pamor, Jr. Memorial National High School - Sagñay Southeastern High School Annex are hereby transferred to and absorbed by the Turague National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Rodolfo V. Pamor, Jr. Memorial National High School - Sagñay Southeastern High School Annex are hereby transferred to and absorbed by the Turague National High School.
 
 ## Section 3
 

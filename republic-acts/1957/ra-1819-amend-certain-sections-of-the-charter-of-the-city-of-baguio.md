@@ -54,7 +54,7 @@ Sections two thousand five hundred forty-five-A, two thousand five hundred fifty
 
 ## Section 2
 
-Section two thousand five hundred sixty-one-A of the Revised Administrative Code and all laws or parts thereof inconsistent herewith are repealed.1âшphi1
+Section two thousand five hundred sixty-one-A of the Revised Administrative Code and all laws or parts thereof inconsistent herewith are repealed.
 
 ## Section 3
 

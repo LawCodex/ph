@@ -28,7 +28,6 @@ Item (10) of paragraph (a) of section forty-two of Commonwealth Act Numbered Six
 
 | "(10) | Certificate of residence | ₱50.00" |
 |---|---|---|
- 1aшphi1
 
 ## Section 2
 

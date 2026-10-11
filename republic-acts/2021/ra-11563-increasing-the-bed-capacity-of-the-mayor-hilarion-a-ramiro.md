@@ -45,7 +45,7 @@ The Secretary of Health shall immediately include in the program of the DOH the 
 
 ## Section 5
 
-Within sixty (60) days from the approval of this Act, the Secretary of Health, in consultation with the Secretary of the DBM, shall promulgate the necessary rules and regulations for the effective implementation of this Act.Ꮮαwρhi৷
+Within sixty (60) days from the approval of this Act, the Secretary of Health, in consultation with the Secretary of the DBM, shall promulgate the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 6
 

@@ -58,7 +58,7 @@ That the purposes of this Corporation shall be as follows:
 
 ## Section 4
 
-Regular membership in the Philippine National Red Cross shall be open to all the adult population in the Philippines. Any contribution to the Philippine National Red Cross Annual Fund Campaign shall entitle an individual to membership for one year.1aшphi1
+Regular membership in the Philippine National Red Cross shall be open to all the adult population in the Philippines. Any contribution to the Philippine National Red Cross Annual Fund Campaign shall entitle an individual to membership for one year.
 
 Junior membership in the Philippine National Red Cross may be authorized under such rules, regulations and policies as shall be prescribed by the Board of Governors.
 

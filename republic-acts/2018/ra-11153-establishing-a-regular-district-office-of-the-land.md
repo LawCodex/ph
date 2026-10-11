@@ -37,7 +37,7 @@ The Secretary of the DOTr shall immediately include in the Department’s progra
 
 ## Section 3
 
-The Secretary of the DOTr shall issue the necessary rules and regulations within ninety (90) days from the effectivity of this Act.1âwphi1
+The Secretary of the DOTr shall issue the necessary rules and regulations within ninety (90) days from the effectivity of this Act.
 
 ## Section 4
 

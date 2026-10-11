@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Ampid Elementary School located in the Municipality of San Mateo, Province of Rizal, is hereby changed to Vicente Santiago Elementary School.1âшphi1
+The name of the Ampid Elementary School located in the Municipality of San Mateo, Province of Rizal, is hereby changed to Vicente Santiago Elementary School.
 
 ## Section 2
 

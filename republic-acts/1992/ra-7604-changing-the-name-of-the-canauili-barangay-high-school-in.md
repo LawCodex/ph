@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Canauili Barangay High School in Barangay Canauili, Municipality of Janiuay, Province of Iloilo, is hereby changed to Manuel A. Aaron Memorial Barangay High School.1âшphi1
+The name of the Canauili Barangay High School in Barangay Canauili, Municipality of Janiuay, Province of Iloilo, is hereby changed to Manuel A. Aaron Memorial Barangay High School.
 
 ## Section 2
 

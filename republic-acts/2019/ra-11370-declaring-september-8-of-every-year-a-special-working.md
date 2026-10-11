@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-September 8 of every year is hereby declared a special working holiday in the entire country to commemorate the Feast of the Nativity of the Blessed Virgin Mary.1âшphi1
+September 8 of every year is hereby declared a special working holiday in the entire country to commemorate the Feast of the Nativity of the Blessed Virgin Mary.
 
 ## Section 2
 

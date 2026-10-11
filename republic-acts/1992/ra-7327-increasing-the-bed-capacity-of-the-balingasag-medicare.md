@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Balingasag Medicare Community Hospital in the Municipality of Balingasag, Province of Misamis Oriental, is hereby increased from fifteen (15) to twenty-five (25) beds.1âшphi1
+The bed capacity of the Balingasag Medicare Community Hospital in the Municipality of Balingasag, Province of Misamis Oriental, is hereby increased from fifteen (15) to twenty-five (25) beds.
 
 ## Section 2
 

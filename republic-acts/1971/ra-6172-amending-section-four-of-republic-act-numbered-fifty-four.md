@@ -33,7 +33,7 @@ Section four of Republic Act Numbered Fifty-four hundred and thirty-five as amen
 
 ## Section 2
 
-The President may create, by executive order, a Review Commission to assist in the review and revision of the integrated reorganization plan and in its presentation to Congress and for other related purposes. Officers and employees of the Government who may be detailed to said commission shall be entitled to overtime compensation and honorarium and/or allowances to be determined by the Commission.1âшphi1
+The President may create, by executive order, a Review Commission to assist in the review and revision of the integrated reorganization plan and in its presentation to Congress and for other related purposes. Officers and employees of the Government who may be detailed to said commission shall be entitled to overtime compensation and honorarium and/or allowances to be determined by the Commission.
 
 ## Section 3
 

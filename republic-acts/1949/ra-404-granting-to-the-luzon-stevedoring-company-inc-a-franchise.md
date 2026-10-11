@@ -44,7 +44,7 @@ A special right is hereby reserved to the President of the Republic of the Phili
 
 ## Section 6
 
-No fees are chargeable as the radio stations that may be established by virtue of this Act shall engage in communication regarding company’ business only.1âшphi1
+No fees are chargeable as the radio stations that may be established by virtue of this Act shall engage in communication regarding company’ business only.
 
 ## Section 7
 
@@ -68,7 +68,7 @@ The grantee, its successors or assigns, is hereby authorized to operate its priv
 
 ## Section 12
 
-This franchise shall not be interpreted to mean as exclusive grant of the privilege herein provided for.1avvphi1
+This franchise shall not be interpreted to mean as exclusive grant of the privilege herein provided for.
 
 ## Section 13
 

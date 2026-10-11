@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby appropriated annually, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos as aid of the Government to the Music Promotion Foundation in the prosecution of the objectives of the said Foundation.1âшphi1
+There is hereby appropriated annually, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos as aid of the Government to the Music Promotion Foundation in the prosecution of the objectives of the said Foundation.
 
 ## Section 2
 

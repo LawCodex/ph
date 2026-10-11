@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Land Transportation Office (LTO) district office in San Jose City, Province of Nueva Ecija is hereby upgraded into a Class B district office.ℒαwρhi৷
+The Land Transportation Office (LTO) district office in San Jose City, Province of Nueva Ecija is hereby upgraded into a Class B district office.
 
 ## Section 2
 

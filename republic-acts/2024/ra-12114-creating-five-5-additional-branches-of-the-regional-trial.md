@@ -120,7 +120,7 @@ The Province of Batangas will have four (4) additional branches of the RTC stati
 
 The staff complement of the new Office of the Clerk of Court (OCC) shall be composed of fifteen (15) personnel, while the Clerk of Court VI and data entry machine operator (DEMO) from RTC branch 87 will be transferred to the new OCC, unless the same is modified as may be determined by the Supreme Court.
 
-In addition, there shall be appointed the corresponding number of prosecutors and public attorneys and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.ℒαwρhi৷
+In addition, there shall be appointed the corresponding number of prosecutors and public attorneys and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
 
 ## Section 5
 

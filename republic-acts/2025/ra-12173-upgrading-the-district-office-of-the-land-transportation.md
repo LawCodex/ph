@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in the City of Mati,
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of a Class "C" LTO District Office in the City of Mati, Province of Davao Oriental, the initial funding of which shall be charged against the current year's appropriation of LTO Region XI. Thereafter, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of a Class "C" LTO District Office in the City of Mati, Province of Davao Oriental, the initial funding of which shall be charged against the current year's appropriation of LTO Region XI. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

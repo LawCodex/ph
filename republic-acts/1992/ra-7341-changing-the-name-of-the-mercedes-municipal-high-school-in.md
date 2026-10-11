@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Mercedes Municipal High School in the Municipality of Mercedes, Province of Eastern Samar, is hereby changed to Mercedes High School.1âшphi1
+The name of the Mercedes Municipal High School in the Municipality of Mercedes, Province of Eastern Samar, is hereby changed to Mercedes High School.
 
 ## Section 2
 

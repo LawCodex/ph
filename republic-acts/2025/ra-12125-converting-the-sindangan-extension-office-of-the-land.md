@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing Land Transportation Office (LTO) Extenson Office in Sindangan, Province of Zamboanga del Norte, is hereby converted into a regular district office.ℒαwρhi৷
+The existing Land Transportation Office (LTO) Extenson Office in Sindangan, Province of Zamboanga del Norte, is hereby converted into a regular district office.
 
 ## Section 2
 

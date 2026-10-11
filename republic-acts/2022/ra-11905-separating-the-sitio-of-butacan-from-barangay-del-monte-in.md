@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Creation of Barangay Batucan._ \- The sitio of Batucan is hereby separated from Barangay del Monte in the Municipality of Talacogon, Province of Agusan del Sur and constituted as a distinct and independent barangay to be known as Barangay Batucan.1a⍵⍴h!1
+_Creation of Barangay Batucan._ \- The sitio of Batucan is hereby separated from Barangay del Monte in the Municipality of Talacogon, Province of Agusan del Sur and constituted as a distinct and independent barangay to be known as Barangay Batucan.
 
 ## Section 2
 

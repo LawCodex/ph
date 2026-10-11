@@ -28,9 +28,13 @@ AN ACT CHANGING THE NAME OF ODIONGAN ELEMENTARY SCHOOL IN BARANGAY SAN JOSE, CIT
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Renaming of Elementary School._** \- The name of Odiongan Elementary School in Barangay San Jose, City of Tanjay, Province of Negros Oriental is hereby changed to Egmidio V. Manzo Memorial Elementary School.
+## SECTION 1
 
-**SEC. 2._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+_Renaming of Elementary School._ \- The name of Odiongan Elementary School in Barangay San Jose, City of Tanjay, Province of Negros Oriental is hereby changed to Egmidio V. Manzo Memorial Elementary School.
+
+## SEC. 2
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

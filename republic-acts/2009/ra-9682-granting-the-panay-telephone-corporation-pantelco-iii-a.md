@@ -50,7 +50,7 @@ The grantee shall operate and maintain all its stations, lines, cables, systems 
 
 ## Section 5
 
-_Rates for Services._ — The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the Commission or its legal successor. The rates to be charged by the grantee shall be unbundled, separable and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.7!ᕼdMᗄ7
+_Rates for Services._ — The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the Commission or its legal successor. The rates to be charged by the grantee shall be unbundled, separable and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
 
 ## Section 6
 
@@ -94,7 +94,7 @@ _Warranty in Favor of the National and Local Governments._ — The grantee shall
 
 ## Section 14
 
-_Nontransferability of Franchise._ — The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other corporation or entity, nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines.ℒαwρhi৷ Any person or entity to which this franchise is sold, transferred or assigned, shall be subject to the same conditions, terms, restrictions and limitations of this Act.
+_Nontransferability of Franchise._ — The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other corporation or entity, nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned, shall be subject to the same conditions, terms, restrictions and limitations of this Act.
 
 ## Section 15
 

@@ -38,7 +38,7 @@ The Chief Justice of the Supreme Court, in coordination with the Secretary of th
 
 The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the "Prosecution Service Act of 2010" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the "Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
 
-The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.ℒαwρhi৷
+The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
 
 ## Section 4
 
@@ -108,7 +108,7 @@ In view of the proposed additional branch of the Regional Trial Court, the Regio
 
 The staff complement of the OCC shall be composed of nine (9) personnel, while the data entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.
 
-In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.ℒαwρhi৷
+In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
 
 ## Section 5
 

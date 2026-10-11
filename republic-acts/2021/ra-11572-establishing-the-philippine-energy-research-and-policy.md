@@ -197,7 +197,7 @@ _Special Account for Energy Research._ – A Special Account in the General Fund
 
 ## Section 16
 
-_Appropriations._ – There is hereby appropriated out of the General Appropriations Act, the sum of Two hundred million pesos (P200,000,000.00) for the initial operating fund of the Institute.ℒαwρhi৷ Thereafter, such amounts necessary for the sustainable operations of the Institute shall be appropriated from the General Appropriations Act based on the annual financial plan approved by the Executive Board and submitted to the DBM.
+_Appropriations._ – There is hereby appropriated out of the General Appropriations Act, the sum of Two hundred million pesos (P200,000,000.00) for the initial operating fund of the Institute. Thereafter, such amounts necessary for the sustainable operations of the Institute shall be appropriated from the General Appropriations Act based on the annual financial plan approved by the Executive Board and submitted to the DBM.
 
 ## Section 17
 

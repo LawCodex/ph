@@ -33,7 +33,7 @@ In the event that the grantee shall purchase and secure from the National Power 
 
 ## Section 3
 
-It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.1âшphi1
+It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
 
 ## Section 4
 

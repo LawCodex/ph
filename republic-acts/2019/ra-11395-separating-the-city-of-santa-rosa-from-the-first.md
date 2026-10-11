@@ -38,7 +38,7 @@ _Incumbent Representative._ — The incumbent Representative of the First Legisl
 
 ## Section 3
 
-_Rules and Regulations._ — Within sixty (60) days from the effectivity of this Act, the Commission on Elections shall issue the necessary rules and regulations to implement the provisions of this Act.1âшphi1
+_Rules and Regulations._ — Within sixty (60) days from the effectivity of this Act, the Commission on Elections shall issue the necessary rules and regulations to implement the provisions of this Act.
 
 ## Section 4
 

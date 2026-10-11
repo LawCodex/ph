@@ -54,7 +54,7 @@ When called for active service retired officers and enlisted men shall receive t
 
 ### Section 7
 
-An officer placed on the retired list shall be withdrawn from command and from the active promotional list.1awp++i1 When he is recalled to active duty, his name shall continue to be carried in the retired list and he shall thereafter be eligible for promotion in the retired list as long as he continues on such active duty and provided he is declared eligible for promotion in accordance with pertinent rules and regulations provided therefor: _Provided,_ That such promotion shall be governed by seniority in the corresponding grade or rank, seniority to be determined by the length of active service rendered in each grade.
+An officer placed on the retired list shall be withdrawn from command and from the active promotional list. When he is recalled to active duty, his name shall continue to be carried in the retired list and he shall thereafter be eligible for promotion in the retired list as long as he continues on such active duty and provided he is declared eligible for promotion in accordance with pertinent rules and regulations provided therefor: _Provided,_ That such promotion shall be governed by seniority in the corresponding grade or rank, seniority to be determined by the length of active service rendered in each grade.
 
 ## Title II — Separation
 
@@ -68,7 +68,7 @@ An officer of the Regular Force separated from the service by the President on r
 
 (c) If on the date of separation he has completed ten or more but less than twenty years of active service, be honorably discharged in the grade then held, with separation pay equal to one month’s base and longevity pay for each year of active service computed upon such grade;
 
-(d) If on the date due for separation he has completed twenty or more years of active service, be retired in the grade then held, under sections one and two of this Act.1aшphi1
+(d) If on the date due for separation he has completed twenty or more years of active service, be retired in the grade then held, under sections one and two of this Act.
 
 _Provided,_ That any officer or enlisted man of the Armed Forces of the Philippines who is separated from the active service for physical disability not due to his own misconduct, willful failure, the intemperate use of drugs or alcoholic liquor, or vicious or immoral habits, shall be placed in the retired list and shall receive either—(a) a gratuity, payable in one lump sum, equivalent to one month’s base and longevity pay multiplied by the years of active service rendered, but which shall not, in any case, be less than three month’s base and longevity pay, or (b) an annual retirement pay equivalent to two and one-half per cent of the annual base and longevity pay received by him on the date of retirement for each year’s active service rendered but not exceeding seventy-five per cent of the total base and longevity pay received by him on the date of retirement, such retirement pay to be paid in equal monthly installments.
 
@@ -84,7 +84,7 @@ For the purposes of this Act, the periods of service of an officer or enlisted m
 
 (c) If he has rendered at least ten years of active service in the Army or Armed Forces of the Philippines, service rendered by him as in (b) above shall be counted in computing the amount of his retirement pay or gratuity under section two, or the amount of gratuity incident to his separation for physical disability under the proviso contained in section eight, of this Act: _Provided,_ That in no case shall any period of service for which an officer or enlisted men has received or is receiving retirement pay from the United States Government be counted in computing the amount of retirement pay or gratuity which he shall be entitled to receive from the Philippine Government. If he has rendered less than ten years of service in the Army or Armed Forces of the Philippines, then only the number of years actually served therein shall be counted in computing the amount of retirement pay or gratuity payable to him under this Act.
 
-(d) Any period of service amounting to six months or more shall be counted as a complete year.1aшphi1
+(d) Any period of service amounting to six months or more shall be counted as a complete year.
 
 ### Section 10
 

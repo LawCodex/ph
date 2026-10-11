@@ -33,7 +33,7 @@ The Secretary of Education, Culture and Sports shall issue such rules and regula
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1âшphi1
+The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 4
 

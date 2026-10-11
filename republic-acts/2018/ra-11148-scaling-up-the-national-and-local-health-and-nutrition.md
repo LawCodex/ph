@@ -125,7 +125,7 @@ _Definition of Terms._ \- For purposes of this Act, the following terms are defi
 
 _Program Implementation._ \- The DOH, in coordination with the NNC, the DA, the LGUs and other NGAs concerned, shall be responsible for the implementation of this Act. It shall be implemented at the barangay level through the rural health units and/or barangay health centers, in coordination with the Sangguniang Barangay. The Barangay Nutrition Scholars (BNS) and the Barangay Health Workers (BHWs) shall be mobilized and provided with resources and benefits to carry out their tasks.
 
-The LGUs are encouraged to integrate maternal, neonatal, child health and nutrition programs in the local nutrition action plans and investment plans for health.1âwphi1
+The LGUs are encouraged to integrate maternal, neonatal, child health and nutrition programs in the local nutrition action plans and investment plans for health.
 
 The NNC and other concerned NGAs shall provide appropriate technical assistance to respective LGU counterparts in the development, formulation, and implementation of this Act.
 
@@ -267,7 +267,7 @@ _Program Components._ \- The program shall include health and nutrition services
 
 (13) Provision of support to parents and caregivers on early stimulation and responsive care for infants; and
 
-(14) Others as may be determined based on international and national guidelines and evidence generated locally.1âwphi1
+(14) Others as may be determined based on international and national guidelines and evidence generated locally.
 
 (e)_First Si_ x _(6) Months of Infanc_ y (One Hundred Eighty (180) Days). – Health (and nutrition services at the facility and community level shall include, but not be limited to, the following:
 
@@ -457,7 +457,7 @@ A _ppropriations._ – The amount needed for the initial implementation of this 
 
 The DBM, in coordination with the Department of Finance (DOF), DOH, DA, NNC and other relevant agencies shall consider the prevalence of malnutrition and child mortality in determining the annual appropriations for the implementation of this Act.
 
-Priority LGUs identified by the NNC shall be eligible to receive from concerned NGAs supplementary funds necessary for the implementation of this Act.1âwphi1 Said subsidy shall be included in the GAA.
+Priority LGUs identified by the NNC shall be eligible to receive from concerned NGAs supplementary funds necessary for the implementation of this Act. Said subsidy shall be included in the GAA.
 
 ### Section 19
 

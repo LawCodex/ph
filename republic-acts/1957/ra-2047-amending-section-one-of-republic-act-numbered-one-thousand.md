@@ -30,6 +30,6 @@ Section one of Republic Act Numbered One thousand five hundred thirty seven, cre
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 23, 1957.

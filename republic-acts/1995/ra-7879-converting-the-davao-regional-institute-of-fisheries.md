@@ -70,7 +70,7 @@ The president of the alumni association, as well as the two (2) prominent citize
 
 The chairperson of the Commission on Higher Education, the president of the College, the chairpersons of the education committees of the Senate and the House, and the representative of the National Economic and Development Authority shall serve in an ex officio capacity. the president of the supreme student council and, when deemed necessary, the president of the alumni association shall serve for one (1) year, and for the two (2) appointed prominent citizens, one shall serve for four (4) years, and the other for two (2) years.
 
-For the purpose of this section, the alumni association and the student councils in each campus of the College shall organize their respective federations.1aшphi1
+For the purpose of this section, the alumni association and the student councils in each campus of the College shall organize their respective federations.
 
 ## Section 7
 

@@ -169,7 +169,7 @@ _The Secretary of the University._ The Noard shall appoint a Secretary, who shal
 
 ## Section 11
 
-_The Treasurer of the University._ \- The Treasurer of the Philippines shall be the _ex officio_ Treasurer of the University.1âwphi1
+_The Treasurer of the University._ \- The Treasurer of the Philippines shall be the _ex officio_ Treasurer of the University.
 
 ## Section 12
 
@@ -189,7 +189,7 @@ _The Faculty._ \- No political belief, gender preference, cultural or community 
 
 _Scholarship Program and Admission._ \- The University shall provide a scholarship programs to assist poor but deserving students who qualify for admission to the University.
 
-No student shall be denied admission to the University by reason of gender, religion, cultural or community affiliation or ethnic origin.1âwphi1
+No student shall be denied admission to the University by reason of gender, religion, cultural or community affiliation or ethnic origin.
 
 ## Section 16
 
@@ -225,7 +225,7 @@ _Development Plan, Management Audit, and Academic Structure._ \- Within the peri
 
 (b) Undergo a management audit in cooperation with the CHED; and
 
-(c) Set up its organizational, administrative, as well as academic structure, including the appointment of key officials of the University.1âwphi1
+(c) Set up its organizational, administrative, as well as academic structure, including the appointment of key officials of the University.
 
 ## Section 21
 

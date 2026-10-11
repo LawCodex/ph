@@ -56,7 +56,7 @@ The grantee, its heirs, successors or assigns, shall hold the national, provinci
 
 ## Section 9
 
-A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, or other national emergency and when public safety requires, to cause the closing of the grantee’s radio stations or to authorize the use or possession thereof by any department of the Government without compensation to the grantee during the continuance of the national emergency.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, or other national emergency and when public safety requires, to cause the closing of the grantee’s radio stations or to authorize the use or possession thereof by any department of the Government without compensation to the grantee during the continuance of the national emergency.
 
 ## Section 10
 

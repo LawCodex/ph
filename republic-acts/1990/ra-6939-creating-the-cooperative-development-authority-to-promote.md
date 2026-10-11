@@ -25,7 +25,9 @@ AN ACT CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY TO PROMOTE THE VIABILITY A
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Declaration of Policy._** \- It is hereby declared the policy of the State to promote the viability and growth of cooperatives as instruments of equity, social justice and economic development and to create an agency, in fulfillment of the mandate in Section 15, Article XII of the Constitution. Toward this end, the State shall recognize cooperatives as associations organized for the economic and social betterment of their members, operating business enterprises based on mutual aid, and founded upon internationally accepted cooperative principles and practices.
+## Section 1
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to promote the viability and growth of cooperatives as instruments of equity, social justice and economic development and to create an agency, in fulfillment of the mandate in Section 15, Article XII of the Constitution. Toward this end, the State shall recognize cooperatives as associations organized for the economic and social betterment of their members, operating business enterprises based on mutual aid, and founded upon internationally accepted cooperative principles and practices.
 
 In furtherance of this policy, the appropriate national economic planning agency and include the promotion of growth and expansion of cooperatives as a major and indispensable component of national development plans. All departments, branches, subdivisions and instrumentalities of the Government shall promote the formation of cooperatives under their respective programs by providing them with appropriate and suitable incentives.
 
@@ -33,9 +35,13 @@ The State recognizes the cooperative sector as primarily responsible for the ins
 
 Government assistance to cooperatives shall be free from any restriction and conditionality that may in any manner infringe upon the objectives and character of cooperatives as provided in this Act. The State shall, except as provided in this Act, maintain the policy of noninterference in the management and operation of cooperatives.
 
-**Section 2._Creation of the Cooperative Development Authority._** \- The Cooperative Development Authority is hereby created under the Office of the President to carry out the provision of this Act.
+## Section 2
 
-**Section 3._Powers, Functions and Responsibilities._** \- The Authority shall have the following powers, functions and responsibilities:
+_Creation of the Cooperative Development Authority._ \- The Cooperative Development Authority is hereby created under the Office of the President to carry out the provision of this Act.
+
+## Section 3
+
+_Powers, Functions and Responsibilities._ \- The Authority shall have the following powers, functions and responsibilities:
 
 (a) Formulate, adopt and implement integrated and comprehensive plans and programs on cooperative development consistent with the national policy on cooperatives and the overall socioeconomic development plans of the Government;
 
@@ -67,9 +73,13 @@ Government assistance to cooperatives shall be free from any restriction and con
 
 (o) Exercise such other functions as may be necessary to implement the provisions of cooperative laws and, in the performance thereof, the Authority may summarily punish for direct contempt any person guilty of misconduct in the presence of the Authority which seriously interrupts any hearing or inquiry with a fine of not more than Five hundred pesos (P500.00) or imprisonment of not more than ten (10) days, or both. Acts constituting indirect contempt as defined under Rule 71 of the Rules of Court shall be punished in accordance with the said Rule.
 
-**Section 4._Governing Body._** \- The Authority shall be governed by a Board of Administrators consisting of a Chairman and six (6) members to be appointed by the President, all of whom shall be chosen from among the nominees of the cooperative sector with two (2) representatives each from Luzon, Visayas and Mindanao. They shall serve for a term of six (6) years without reappointment: Provided, That among those first appointed, the Chairman shall serve for a term of (6) years, three (3) members to serve for a term of four (4) years, and three (3) members to serve for a term of two (2) years: Provided, further, That there shall be four (4) ex officio members, one (1) each from the: (a) Department of Agriculture, (b) Department of Transportation and Communications, (c) National Electrification Administration, and (d) Sugar Regulatory Administration. Said representation status for the agencies is on a nonvoting basis and terminates one (1) year from the operation of the Authority, but said ex officio members shall not be holding any other board position in any government entity. The Chairman and members shall serve on a full-time basis. Any vacancy in the Board shall be filled by appointment by the President in accordance with the membership allocation set forth in this section: Provided, That a member so appointed shall serve only for the unexpired term.
+## Section 4
 
-**Section 5._Qualifications of Members of the Governing Board._** \- No person shall be appointed Chairman or member of the Board of Administrators unless he possesses the following qualifications:
+_Governing Body._ \- The Authority shall be governed by a Board of Administrators consisting of a Chairman and six (6) members to be appointed by the President, all of whom shall be chosen from among the nominees of the cooperative sector with two (2) representatives each from Luzon, Visayas and Mindanao. They shall serve for a term of six (6) years without reappointment: Provided, That among those first appointed, the Chairman shall serve for a term of (6) years, three (3) members to serve for a term of four (4) years, and three (3) members to serve for a term of two (2) years: Provided, further, That there shall be four (4) ex officio members, one (1) each from the: (a) Department of Agriculture, (b) Department of Transportation and Communications, (c) National Electrification Administration, and (d) Sugar Regulatory Administration. Said representation status for the agencies is on a nonvoting basis and terminates one (1) year from the operation of the Authority, but said ex officio members shall not be holding any other board position in any government entity. The Chairman and members shall serve on a full-time basis. Any vacancy in the Board shall be filled by appointment by the President in accordance with the membership allocation set forth in this section: Provided, That a member so appointed shall serve only for the unexpired term.
+
+## Section 5
+
+_Qualifications of Members of the Governing Board._ \- No person shall be appointed Chairman or member of the Board of Administrators unless he possesses the following qualifications:
 
 (a) A natural-born Filipino citizen of legal age;
 
@@ -79,15 +89,23 @@ Government assistance to cooperatives shall be free from any restriction and con
 
 Any person appointed as Chairman or regular member of the Board of Administrators shall divest himself of any direct or indirect pecuniary interest in or dealings with cooperatives upon his appointment.
 
-**Section 6._Board of Administrators Meeting._** \- The Board of Administrators shall meet at least once a month for the transaction of its regular business. Special meetings may be called by the Chairman or majority of the members to consider specific matters. A majority vote by the entire Board shall be required for a decision. All meetings of the Board shall be held at the head office in Metro Manila or at any other place as may be determined by the Board.
+## Section 6
+
+_Board of Administrators Meeting._ \- The Board of Administrators shall meet at least once a month for the transaction of its regular business. Special meetings may be called by the Chairman or majority of the members to consider specific matters. A majority vote by the entire Board shall be required for a decision. All meetings of the Board shall be held at the head office in Metro Manila or at any other place as may be determined by the Board.
 
 The Board of Administrators shall appoint an Executive Director who shall be the chief operating officer of the Authority whose compensation shall be fixed by the Board of Administrators.
 
-**Section 7._Organization of the Authority._** \- The Authority shall be organized within one hundred twenty (120) days from the effectivity of this Act.
+## Section 7
 
-**Section 8._Mediation and Conciliation._** \- Upon request of either or both parties, the Authority shall mediate and conciliate disputes within a cooperative or between cooperatives: Provided, That if no mediation or conciliation succeeds within three (3) months from request thereof, a certificate of non-resolution shall be issued by the commission prior to the filing of appropriate action before the proper courts.
+_Organization of the Authority._ \- The Authority shall be organized within one hundred twenty (120) days from the effectivity of this Act.
 
-**Section 9._Power to Register Cooperatives._** \- The power to register cooperatives shall be vested solely on the Authority. The functions of the following departments and agencies relating to the registration of cooperatives as such are hereby transferred to the Authority:
+## Section 8
+
+_Mediation and Conciliation._ \- Upon request of either or both parties, the Authority shall mediate and conciliate disputes within a cooperative or between cooperatives: Provided, That if no mediation or conciliation succeeds within three (3) months from request thereof, a certificate of non-resolution shall be issued by the commission prior to the filing of appropriate action before the proper courts.
+
+## Section 9
+
+_Power to Register Cooperatives._ \- The power to register cooperatives shall be vested solely on the Authority. The functions of the following departments and agencies relating to the registration of cooperatives as such are hereby transferred to the Authority:
 
 (a) The Department of Agriculture;
 
@@ -103,7 +121,9 @@ The Board of Administrators shall appoint an Executive Director who shall be the
 
 The Bureau of Agricultural Cooperatives Development created under Executive Order No. 116, Series of 1987, is hereby abolished and its qualified employees are hereby absorbed by the Cooperative Development Authority, in accordance with its staffing pattern, subject to Civil Service rules and regulations and rules of the Office of Compensation and Position Classification: Provided, That the Regional Cooperative Development Assistance Offices of Regions IX and XII, created under Executive Order No. 634, are also hereby abolished and their employees shall be given preference for employment with the Cooperative Development Authority in accordance with its staffing pattern, subject to Civil Service rules and regulations: Provided, finally, That those who are not absorbed shall be given separation pay computed at one and one-fourth (1 1/4) months salary for every year of service. Service of six (6) months or more shall be considered as one (1) year in computing the years of service for severance pay and, whenever applicable, other retirement benefits under existing laws.
 
-**Section 10._Transfer of Funds and Programs._** \- The Cooperative Development Loan Fund created under Presidential Decree No. 175, as amended, is hereby transferred from the Department of Agriculture to the Authority.
+## Section 10
+
+_Transfer of Funds and Programs._ \- The Cooperative Development Loan Fund created under Presidential Decree No. 175, as amended, is hereby transferred from the Department of Agriculture to the Authority.
 
 The function of the Fund for Management Training and Assistance Program granted to the Department of Agriculture by Presidential Decree No. 175, as amended, is likewise hereby transferred to the Authority.
 
@@ -111,28 +131,48 @@ The fund provided for the Management Training and Assistance Program under Presi
 
 In addition, the Cooperative Marketing Project as created under loan agreements which are now managed by the Department of Agriculture is likewise hereby transferred to the Authority.
 
-**Section 11._Cooperatives in the Education System._** \- The history, philosophy, principles and practices of cooperatives and their role as a factor in the national economy shall be disseminated both in formal and non-formal education.
+## Section 11
+
+_Cooperatives in the Education System._ \- The history, philosophy, principles and practices of cooperatives and their role as a factor in the national economy shall be disseminated both in formal and non-formal education.
 
 The role of nongovernment organizations, not registered as cooperatives but duly registered under Philippine laws and engaged in cooperative promotion, organization, research and education, shall be recognized. The Authority may accredit such nongovernment organizations as non-academic training organizations. The training courses offered by them may be eligible as credits for the purposes of academic, professional and career advancements of their trainees. Existing training centers for cooperatives may qualify as nongovernment organizations under this Act.
 
 State colleges and universities shall provide technical assistance and guidance to cooperatives in the communities wherein they operate, upon request.
 
-**Section 12._Cooperatives in the Banking System._** \- The promotion and development of cooperative banks as part of the Philippine banking system shall be a major concern of the Authority which shall undertake the necessary program towards this end in collaboration with the Central Bank of the Philippines and the cooperative sector concerned.
+## Section 12
 
-**Section 13._Rule-Making Authority._** \- The Authority is hereby authorized to promulgate, after due public hearing and upon approval of the President, such rules and regulations as may be necessary to implement the provisions of this Act. Such implementing rules and regulations shall take effect within fifteen (15) days after publication thereof in the Official Gazette or in two (2) newspapers of general circulation. All subsequent amendments to the implementing rules and regulations shall undergo the same process.
+_Cooperatives in the Banking System._ \- The promotion and development of cooperative banks as part of the Philippine banking system shall be a major concern of the Authority which shall undertake the necessary program towards this end in collaboration with the Central Bank of the Philippines and the cooperative sector concerned.
 
-**Section 14._Prohibition._** \- No organization shall be allowed to use the title "cooperative" in its name unless it follows all generally accepted cooperative principles, applicable cooperative laws, and is duly registered under this Act: Provided, That organizations which have used the word "cooperative" as part of their nomenclature but which do not qualify as cooperatives under the provisions of this Act shall have three (3) years within which to qualify and to register with the Authority. If at the end of the three-year period provided herein, the said organizations still do not qualify, it shall be unlawful for the organizations to continue using the word "cooperative" in their names.
+## Section 13
 
-**Section 15._Information Campaign._** \- The Cooperative Development Authority is mandated to conduct a six (6) months information campaign on the provisions of this Act, beginning three (3) months from the effectivity of this Act.
+_Rule-Making Authority._ \- The Authority is hereby authorized to promulgate, after due public hearing and upon approval of the President, such rules and regulations as may be necessary to implement the provisions of this Act. Such implementing rules and regulations shall take effect within fifteen (15) days after publication thereof in the Official Gazette or in two (2) newspapers of general circulation. All subsequent amendments to the implementing rules and regulations shall undergo the same process.
 
-**Section 16._Appropriations._** \- The funds needed to carry out the provisions of this Act shall be charged to the appropriations of the Bureau of Agricultural Cooperatives Development and the Regional Cooperative Development Assistance Offices of Regions IX and XII under the current General Appropriations Act in addition to the appropriations of other departments/agencies/funds whose functions/programs are transferred to the Authority: Provided, That in its initial year of operations, an additional amount of not exceeding Sixty million pesos (P60,000,000.00) may be requested and drawn by the Authority from the Contingent Fund of the President. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+## Section 14
 
-**Section 17._Transitory Provisions._** \- All cooperatives registered under Presidential Decree Nos. 175 and 775, and Executive Order No. 898 shall be deemed registered with the Cooperative Development Authority: Provided, however, That they shall submit to the nearest Cooperative Development Authority office their certificates of registration, copies of their articles of incorporation and bylaws, and their latest duly audited financial statements within one (1) year from effectivity of this Act, otherwise, their registration shall be cancelled: Provided, further, That cooperatives created under Presidential Decree No. 269, as amended by Presidential Decree No. 1645, shall be given three (3) years within which to qualify and register with the Authority: Provided, finally, That after these cooperatives shall have qualified and registered, the provisions of Sections 3 and 5 of Presidential Decree No. 1645 shall no longer be applicable to the said cooperatives.
+_Prohibition._ \- No organization shall be allowed to use the title "cooperative" in its name unless it follows all generally accepted cooperative principles, applicable cooperative laws, and is duly registered under this Act: Provided, That organizations which have used the word "cooperative" as part of their nomenclature but which do not qualify as cooperatives under the provisions of this Act shall have three (3) years within which to qualify and to register with the Authority. If at the end of the three-year period provided herein, the said organizations still do not qualify, it shall be unlawful for the organizations to continue using the word "cooperative" in their names.
 
-**Section 18._Repeals._** \- All acts, general orders, executive orders, letters of implementation, letters of instruction, regulations or circulars, or parts thereof, inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly. In case of doubt, the same shall be resolved in favor of the cooperatives.
+## Section 15
 
-**Section 19._Separability._** \- If for any cause any part of this Act is declared unconstitutional, the rest of the provisions shall remain in force and effect.
+_Information Campaign._ \- The Cooperative Development Authority is mandated to conduct a six (6) months information campaign on the provisions of this Act, beginning three (3) months from the effectivity of this Act.
 
-**Section 20._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+## Section 16
+
+_Appropriations._ \- The funds needed to carry out the provisions of this Act shall be charged to the appropriations of the Bureau of Agricultural Cooperatives Development and the Regional Cooperative Development Assistance Offices of Regions IX and XII under the current General Appropriations Act in addition to the appropriations of other departments/agencies/funds whose functions/programs are transferred to the Authority: Provided, That in its initial year of operations, an additional amount of not exceeding Sixty million pesos (P60,000,000.00) may be requested and drawn by the Authority from the Contingent Fund of the President. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+
+## Section 17
+
+_Transitory Provisions._ \- All cooperatives registered under Presidential Decree Nos. 175 and 775, and Executive Order No. 898 shall be deemed registered with the Cooperative Development Authority: Provided, however, That they shall submit to the nearest Cooperative Development Authority office their certificates of registration, copies of their articles of incorporation and bylaws, and their latest duly audited financial statements within one (1) year from effectivity of this Act, otherwise, their registration shall be cancelled: Provided, further, That cooperatives created under Presidential Decree No. 269, as amended by Presidential Decree No. 1645, shall be given three (3) years within which to qualify and register with the Authority: Provided, finally, That after these cooperatives shall have qualified and registered, the provisions of Sections 3 and 5 of Presidential Decree No. 1645 shall no longer be applicable to the said cooperatives.
+
+## Section 18
+
+_Repeals._ \- All acts, general orders, executive orders, letters of implementation, letters of instruction, regulations or circulars, or parts thereof, inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly. In case of doubt, the same shall be resolved in favor of the cooperatives.
+
+## Section 19
+
+_Separability._ \- If for any cause any part of this Act is declared unconstitutional, the rest of the provisions shall remain in force and effect.
+
+## Section 20
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved: **March 10, 1990**

@@ -34,7 +34,7 @@ Section of Republic Act No. 10775 is hereby amended to read as follows:
 
 ## Section 2
 
-Section 2 of Republic Act No. 10775 is hereby repealed.1aшphi1
+Section 2 of Republic Act No. 10775 is hereby repealed.
 
 ## Section 3
 

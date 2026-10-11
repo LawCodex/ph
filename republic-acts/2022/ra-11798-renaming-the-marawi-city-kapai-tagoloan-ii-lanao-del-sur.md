@@ -38,7 +38,7 @@ The Department of Public Works and Highways shall issue the necessary rules, ord
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

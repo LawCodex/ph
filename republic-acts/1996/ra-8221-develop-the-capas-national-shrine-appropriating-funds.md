@@ -42,7 +42,7 @@ A parcel of land, being a portion of Zone “8” of the Clark Air Base Military
 | N. 72 deg. 49'E., | 59.25 m. to point 7; |
 | N. 77 deg. 14E., | 28.23 m. to point 8; |
 | N. 82 deg. 56'E., | 82.18 m. to point 9; |
-| N. 77 deg. 38'E., | 109.95 m. to the point of beginning containing an area of five hundred thousand square meters ( 500,000 sq. m. ), more or less. 1aшphi1 |
+| N. 77 deg. 38'E., | 109.95 m. to the point of beginning containing an area of five hundred thousand square meters ( 500,000 sq. m. ), more or less. |
 
 ## Section 2
 

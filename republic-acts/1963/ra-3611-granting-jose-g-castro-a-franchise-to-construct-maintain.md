@@ -32,7 +32,7 @@ The grantee’s radio broadcasting stations shall not be put in actual operation
 
 ## Section 3
 
-In the event of any competing person, natural or juridical, receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing person.1âшphi1
+In the event of any competing person, natural or juridical, receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing person.
 
 ## Section 4
 
@@ -70,7 +70,7 @@ The grantee shall further be liable to pay all other taxes that may be imposed b
 
 ## Section 12
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

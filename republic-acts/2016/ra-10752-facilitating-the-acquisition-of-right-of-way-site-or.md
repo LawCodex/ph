@@ -131,7 +131,7 @@ Upon compliance with the guidelines abovementioned, the court shall immediately 
 
 If, within seven (7) working days after the deposit to the court of the amount equivalent to the sum under subparagraphs (a)(1) to (a)(3) of this section, the court has not issued to the implementing agency a writ of possession for the affected property, counsel of the implementing agency shall immediately seek from the court the issuance of the writ of possession.
 
-The court shall release the amount to the person adjudged same expropriation proceeding as entitled thereto.1awp++i1
+The court shall release the amount to the person adjudged same expropriation proceeding as entitled thereto.
 
 (c) In provinces, cities, municipalities, and other areas where there is no land classification, the city or municipal assessor is hereby mandated, within the period of sixty (60) days from the date of filing of the expropriation case, to come up with the required land classification and the corresponding declaration of real property and improvement for the area. In provinces, cities, municipalities, and other areas where there is no zonal valuation, or where the current zonal valuation has been in force for more than three (3) years, the BIR is mandated, within the period of sixty (60) days from the date of filing of the expropriation case, to conduct a zonal valuation of the area, based on the land classification done by the city or municipal assessor.
 
@@ -203,7 +203,7 @@ _Sanctions._ – Violation of any provision of this Act shall subject the govern
 
 ## SECTION 13
 
-_Implementing Rules and Regulations (IRR)._ – A committee shall prepare, in consultation with key stakeholders, the IKE.1âwphi1 for the proper implementation of this Act within sixty (60) days from its approval.
+_Implementing Rules and Regulations (IRR)._ – A committee shall prepare, in consultation with key stakeholders, the IKE. for the proper implementation of this Act within sixty (60) days from its approval.
 
 The committee shall be composed of the following officials or their duly designated representatives:
 

@@ -35,7 +35,7 @@ The school will offer secondary education proper, as well as secondary science c
 
 ## Section 3
 
-All personnel, assets, liabilities and records of the Calaccad Barangay High School are hereby transferred to and absorbed by the Calaccad National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Calaccad Barangay High School are hereby transferred to and absorbed by the Calaccad National High School.
 
 ## Section 4
 

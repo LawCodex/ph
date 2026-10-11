@@ -219,7 +219,7 @@ Any provision of law to the contrary notwithstanding, all businesses and activit
 
 ### Section 15
 
-_Appropriations._ The amount necessary for the implementation of this Act, including the hiring of specialists and other necessary personnel, shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ The amount necessary for the implementation of this Act, including the hiring of specialists and other necessary personnel, shall be included in the annual General Appropriations Act.
 
 The establishment of laboratories and facilities, and acquisition of tools necessary for the valuation of the minerals shall be funded from the share of the Bureau of Internal Revenue from the special education fund retained under Section 3 of Republic Act No. 5447.
 

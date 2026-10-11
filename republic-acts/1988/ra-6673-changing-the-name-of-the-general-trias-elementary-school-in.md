@@ -24,7 +24,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-The name of the General Trials Elementary School in the Municipality of General Trias, Province of Cavite, is changed to Paaralang Pang-alaala kay Diego Mojica (Diego Mojica Memorial School).1âшphi1
+The name of the General Trials Elementary School in the Municipality of General Trias, Province of Cavite, is changed to Paaralang Pang-alaala kay Diego Mojica (Diego Mojica Memorial School).
 
 ## Section 2
 

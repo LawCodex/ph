@@ -29,7 +29,7 @@ Notwithstanding the provisions of "The Public Land Act," as amended, the Directo
 
 No person shall be entitled to purchase more than one lot, and any person who purchases a lot in behalf of another who is not qualified as hereinabove provided to acquire a lot in the "Tondo Foreshore Land" shall lose his rights and interests in the land and forfeit all amounts paid on account of said land.
 
-The selling price of each lot shall be fixed by a committee composed of the City Assessor, a representative of the Bureau of Lands, and a representative of the "Tondo Foreshore Land Tenants Association," but in no case shall such selling price be less than five pesos nor more than ten pesos per square meter.⚖ - ℒαɯρhi৷
+The selling price of each lot shall be fixed by a committee composed of the City Assessor, a representative of the Bureau of Lands, and a representative of the "Tondo Foreshore Land Tenants Association," but in no case shall such selling price be less than five pesos nor more than ten pesos per square meter.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the barrio of Patay, in the City of Lipa, is hereby changed to San Jose.1a⍵⍴h!1
+The name of the barrio of Patay, in the City of Lipa, is hereby changed to San Jose.
 
 ## Section 2
 

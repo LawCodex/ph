@@ -38,7 +38,7 @@ The main campus of the Pinaglabanan National High School shall continue to remai
 
 ## Section 3
 
-This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ᇈWᑭHIL
+This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

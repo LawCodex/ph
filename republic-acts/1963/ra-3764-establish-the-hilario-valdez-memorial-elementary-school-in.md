@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct administration and supervision of the Director of Public Schools, the Hilario Valdez Memorial Elementary School under the Bureau of Public Schools. It shall be established in the Municipality of Batac, Province of Ilocos Norte, particularly in the northern part of the poblacion.1âшphi1
+There shall be established, under the direct administration and supervision of the Director of Public Schools, the Hilario Valdez Memorial Elementary School under the Bureau of Public Schools. It shall be established in the Municipality of Batac, Province of Ilocos Norte, particularly in the northern part of the poblacion.
 
 ## Section 2
 

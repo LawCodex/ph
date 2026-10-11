@@ -36,7 +36,7 @@ The office of the highway district engineer shall be in the Municipality of Carm
 
 ## Section 4
 
-The present personnel and the property of the highway district engineer in said Municipality of Carmen and those of the public works district engineer in said Municipality of Tubigon shall respectively be transferred to the highway and the public works engineering districts constituted herein.1âшphi1
+The present personnel and the property of the highway district engineer in said Municipality of Carmen and those of the public works district engineer in said Municipality of Tubigon shall respectively be transferred to the highway and the public works engineering districts constituted herein.
 
 ## Section 5
 

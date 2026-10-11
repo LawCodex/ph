@@ -40,7 +40,9 @@ The title of Republic Act No. 8597 is hereby amended to read as follows:
 
 "An Act Granting the Trento Telephone System, Incorporated a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Municipalities of Trento, Bunawan, Sta. Josefa, Rosario, Veruela and Loreto, All in the Province of Agusan del Sur".
 
-**SECTION 3._Effectivity Clause._** – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the Grantee, in at least two (2) newspapers of general circulation in the Philippines.
+## SECTION 3
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the Grantee, in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved,
 

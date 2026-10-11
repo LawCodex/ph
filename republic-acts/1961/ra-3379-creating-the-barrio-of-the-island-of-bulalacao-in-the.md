@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Island of Bulalacao in the Culion Reservation, Municipality of Coron, Province of Palawan, is separated from the Culion Reservation and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of the Island of Bulalacao.1âшphi1
+The Island of Bulalacao in the Culion Reservation, Municipality of Coron, Province of Palawan, is separated from the Culion Reservation and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of the Island of Bulalacao.
 
 ## Section 2
 

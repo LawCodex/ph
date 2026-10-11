@@ -92,7 +92,7 @@ The reportorial compliance certificate issued by Congress shall required before 
 
 ## Section 12
 
-_Fine._ \- Failure of the Grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC.ℒαwρhi৷ The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of the Treasury.
+_Fine._ \- Failure of the Grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC. The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of the Treasury.
 
 ## Section 13
 

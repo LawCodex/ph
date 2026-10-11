@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Leon Ganzon National High School in the Municipality of Balasan, Province of Iloilo, is hereby converted into a polytechnic college to be known as the Leon Ganzon Polytechnic College.1âшphi1
+The Leon Ganzon National High School in the Municipality of Balasan, Province of Iloilo, is hereby converted into a polytechnic college to be known as the Leon Ganzon Polytechnic College.
 
 ## Section 2
 

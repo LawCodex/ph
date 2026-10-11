@@ -62,7 +62,7 @@ Subparagraph (2) of paragraph (a) of Section 151 of the National Internal Revenu
 
 "(2) On all non-metallic minerals and quarry resources, a tax of two percent (2%) based on the actual market value of the gross output thereof at the time of removal, in the case of those locally extracted or produced; or the value used by the Bureau of Customs in determining tariff and customs duties, net of excise tax and value-added tax, in the case of importation."
 
-Notwithstanding the provision of subparagraph (4) of paragraph (a) of Section 151, locally extracted natural gas and liquefied natural gas shall be taxed at the rate of two percent (2%).1aшphi1
+Notwithstanding the provision of subparagraph (4) of paragraph (a) of Section 151, locally extracted natural gas and liquefied natural gas shall be taxed at the rate of two percent (2%).
 
 ## Section 3
 

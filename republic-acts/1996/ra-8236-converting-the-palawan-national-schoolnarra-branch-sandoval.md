@@ -31,7 +31,7 @@ The existing Palawan National School-Narra Branch-Sandoval Annex in Barangay San
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
 
 ## Section 3
 

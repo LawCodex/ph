@@ -56,7 +56,7 @@ To enable the School to continue carrying out its educational program, improve i
 
 (h) Promote international friendship, goodwill and understanding among members of the foreign community and citizens of the Philippines; and
 
-(i) Not to teach anything derogatory, to the prestige and well-being of the Philippines and its people, nor those which will subvert its institutions and government.ℒαwρhi৷
+(i) Not to teach anything derogatory, to the prestige and well-being of the Philippines and its people, nor those which will subvert its institutions and government.
 
 ## Section 4
 

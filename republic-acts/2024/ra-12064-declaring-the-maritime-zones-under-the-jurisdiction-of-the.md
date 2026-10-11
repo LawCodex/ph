@@ -108,7 +108,7 @@ The Philippines exercises sovereign rights to explore and exploit the mineral, p
 
 ## Section 9
 
-_Areas Beyond National Jurisdiction._ \- The Philippines has rights and privileges in the high seas and the international seabed area as provided in the UNCLOS and other existing laws and treaties.ℒαwρhi৷
+_Areas Beyond National Jurisdiction._ \- The Philippines has rights and privileges in the high seas and the international seabed area as provided in the UNCLOS and other existing laws and treaties.
 
 ## Section 10
 

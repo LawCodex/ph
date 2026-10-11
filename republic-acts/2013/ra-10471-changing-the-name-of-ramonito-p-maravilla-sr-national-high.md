@@ -36,7 +36,7 @@ Sections 1, 2 and 3 of Republic Act No. 9939 are hereby amended to read as follo
 
 "SEC. 2. _Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Bata National High School – Romanito P. Maravilla Sr. Extension are hereby transferred to and absorbed by the Romanito P. Maravilla Sr. National High School."
 
-"SEC. 3. _Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationaiization of the Romanito P. Maravilla Sr. National High School, the initial funding of which shall be charged against the current year’s appropriations of the Bata National High School – Romanito P. Maravilla Sr. Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act."1âwphi1
+"SEC. 3. _Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationaiization of the Romanito P. Maravilla Sr. National High School, the initial funding of which shall be charged against the current year’s appropriations of the Bata National High School – Romanito P. Maravilla Sr. Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act."
 
 ## Section 2
 

@@ -56,7 +56,7 @@ _Definition of Terms._ -As used in this Act:
 
 ## Section 4
 
-_Coverage._ -This Act shall cover all public transportation utilities such as, but not limited to, public utility buses (PUBs), public utility jeepneys (PUJs), taxis and other similar vehicles-for-hire, tricycles, passenger trains, aircrafts and marine vessels.1âшphi1 The application of this Act does not cover school service, shuttle service, tourist service, and any similar service covered by contract or charter agreement and with valid franchise or permit from the Land Transportation Franchising and Regulatory Board (LTFRB).
+_Coverage._ -This Act shall cover all public transportation utilities such as, but not limited to, public utility buses (PUBs), public utility jeepneys (PUJs), taxis and other similar vehicles-for-hire, tricycles, passenger trains, aircrafts and marine vessels. The application of this Act does not cover school service, shuttle service, tourist service, and any similar service covered by contract or charter agreement and with valid franchise or permit from the Land Transportation Franchising and Regulatory Board (LTFRB).
 
 The fare discount granted under this Act shall be available during the entire period while the student is enrolled, including weekends and holidays: _Provided,_ That, in a case where a promotional fare, as approved by the concerned regulatory agency, is granted by a public transportation utility operator, the student shall have the option to choose between the promotional fare and the regular fare less the discount as provided under this Act.
 

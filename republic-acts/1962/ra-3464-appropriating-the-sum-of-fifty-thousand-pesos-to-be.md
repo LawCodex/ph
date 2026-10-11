@@ -33,6 +33,6 @@ The amount appropriated herein shall be carried in the annual budget of the Depa
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

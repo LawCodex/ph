@@ -42,7 +42,7 @@ Upon approval of this Act, the President of the Philippines shall, upon the reco
 
 ## Section 3
 
-All laws, decrees, executive orders, rules and regulations inconsistent herewith are hereby repealed or modified accordingly.1aшphi1
+All laws, decrees, executive orders, rules and regulations inconsistent herewith are hereby repealed or modified accordingly.
 
 ## Section 4
 

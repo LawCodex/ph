@@ -28,7 +28,7 @@ There shall be established under the direct supervision of the Director of Fishe
 
 ## Section 2
 
-The Director of Fisheries shall be ex-officio Dean of the Catbalogan School of Fisheries, serving in such capacity without additional compensation.£a⩊phi£ Subject to the approval of the Secretary Agriculture and Natural Resources, the Director of Fisheries is authorized to detail to said school such officers and employees of the Bureau of Fisheries as may be necessary and to employ experts in fishing for the purpose of giving instruction to the students of the School.
+The Director of Fisheries shall be ex-officio Dean of the Catbalogan School of Fisheries, serving in such capacity without additional compensation. Subject to the approval of the Secretary Agriculture and Natural Resources, the Director of Fisheries is authorized to detail to said school such officers and employees of the Bureau of Fisheries as may be necessary and to employ experts in fishing for the purpose of giving instruction to the students of the School.
 
 ## Section 3
 

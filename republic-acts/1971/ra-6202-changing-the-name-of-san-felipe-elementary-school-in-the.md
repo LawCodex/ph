@@ -28,6 +28,6 @@ The sitio of Catol in the Municipality of Candelaria, Province of Zambales, is h
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

@@ -107,7 +107,7 @@ _Breakage._ – The receipts from betting corresponding to the fractions of less
 
 _Schedule of Races._ – The provisions of any existing law, executive or administrative order to the contrary notwithstanding, the grantee is hereby authorized to hold horse races on at least two (2) days during the week as may be determined by the Philippine Racing Commission, and on all Saturdays, Sundays and official holidays of the year, except on those official holidays where the law expressly provides that no horse races are to be held. The grantee may also conduct races on the eve of any public holiday to start not earlier than five-thirty (5:30) in the afternoon but not to exceed five (5) days a year.
 
-The grantee shall allocate racing days pursuant to the provisions of Republic Act No. 309, as amended.Ꮮαwρhi৷
+The grantee shall allocate racing days pursuant to the provisions of Republic Act No. 309, as amended.
 
 ## Section 11
 

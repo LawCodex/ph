@@ -28,7 +28,7 @@ The emergency hospital in the Municipality of Jordan, Subprovince of Guimaras, I
 
 ## Section 2
 
-The sum of three hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year when this Act is approved. Thereafter, such sums as may be needed for its operation and main shall be included in the annual General Appropriations Act.1âшphi1
+The sum of three hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year when this Act is approved. Thereafter, such sums as may be needed for its operation and main shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

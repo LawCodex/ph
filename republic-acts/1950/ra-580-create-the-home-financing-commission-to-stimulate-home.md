@@ -68,7 +68,7 @@ _Procedure._ \- The Chairman of the Commission shall preside over its deliberati
 
 _Home Financing Fund._ \- There is hereby authorized to be appropriated an amount not exceeding five million pesos to be designated as a Home Financing Fund, which shall be used by the Commission to carry out the provisions of this Act; and for this purpose the Commission is hereby authorized, with the approval of the President, to borrow such amounts as may be necessary from any government office, agency, or instrumentality or private financing entity or entities authorized to give loans. This loan may be negotiated in the form of bonds under the authority contained in section four (d) of this Act.
 
-Section 7.
+### Section 7
 
 (a) _Accountant._ \- The accountant of the Commission and the subordinate personnel of the Accounting Office shall be appointed by the Commissioner of the Budget. The Commission shall fix the salary of the accountant and the number and rates of salaries of the personnel of the Accounting Office.
 
@@ -98,7 +98,7 @@ c. Four classes of loans may be insured under this section at the discretion of 
 
 4\. Loans covering the construction of a new structure begun after the date of the approval of this Act to be used for a combination of residential and small business purposes or for a combination of residential and agricultural purposes, such loans not to be in excess of ten thousand pesos and to mature in not to exceed ten years on a monthly amortization basis
 
-Section 10.
+### Section 10
 
 a. The Commission is authorized, upon application by a qualified mortgagee, to insure in accordance with the provisions of this Act, any mortgage offered to it which is eligible for insurance as hereinafter provided, and, upon such terms as the Commission may prescribe, to make commitments for the insuring of such mortgages prior to the date of their execution or any disbursement thereon.
 
@@ -114,7 +114,7 @@ C. not to exceed nine thousand five hundred pesos nor in any case ninety-five pe
 
 2\. Have a maturity satisfactory to the Commission but not to exceed twenty years from the date of the insurance of the mortgage in the case of mortgages under paragraph (1) (A) and not to exceed twenty-five years in the case of those under paragraphs (1)(B) and (1)(C) hereof.
 
-Section 11.
+### Section 11
 
 a. The Commission is authorized upon application by the mortgagee, to insure, in accordance with the provisions of this Act, any mortgage offered to it which is eligible for insurance as hereinafter provided and upon such terms as the Commission may prescribe (including advance on such mortgages during construction), if the mortgage covers property held by—
 
@@ -220,7 +220,7 @@ Moneys in the Fund, not needed for the current operations of the Home Financing 
 
 ## CHAPTER III — NATIONAL SAVINGS AND LOAN ASSOCIATIONS
 
-Section 19.
+### Section 19
 
 a. In order to provide local mutual thrift institutions for the accumulation of savings and for the financing of homes, the Commission is authorized, under such rules and regulations as it may prescribe, and in accordance with the provisions of existing laws, to encourage, aid or initiate the organization and incorporation of associations to be known as "National Savings and Loan Associations," to provide for their examination, regulation, and operation, and to issue contracts of insurance for the accounts of such associations in accordance with the best practices of known mutual thrift and home-financing institutions.
 
@@ -268,7 +268,7 @@ a. The term "mortgage" means a first mortgage on real estate in fee simple, or o
 
 b. The term "mortgagee" means the original lender under a mortgage, and its successors and assigns, and includes the holders of credit instruments issued under a trust mortgage or deed of trust pursuant to which such holders act by and thru a trustee herein named.
 
-c. The term "mortgagor" means the original borrower under a mortgage and its successors and assigns.⚖ - ℒαɯρhi৷
+c. The term "mortgagor" means the original borrower under a mortgage and its successors and assigns.
 
 d. The term "maturity date" means the date on which the mortgage indebtedness would be extinguished if paid in accordance with the periodic payments provided for in the mortgage.
 

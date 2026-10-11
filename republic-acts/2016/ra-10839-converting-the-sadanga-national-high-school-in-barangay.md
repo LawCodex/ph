@@ -34,7 +34,7 @@ The Sadanga National High School in Barangay Pobladon, Municipality of Sadanga, 
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Sadanga National High School are hereby transferred to and absorbed by the Sadanga National Technical-Vocational and Skills Training High School.1âwphi1
+All personnel, assets, liabilities and records of the Sadanga National High School are hereby transferred to and absorbed by the Sadanga National Technical-Vocational and Skills Training High School.
 
 ## Section 3
 

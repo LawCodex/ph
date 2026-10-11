@@ -130,6 +130,6 @@ _Separability Clause_.— If any part, section, or provision of this Act shall b
 
 ## Section 19
 
-_Effectivity_.— aThis Act shall take effect upon its approval.1a⍵⍴h!1
+_Effectivity_.— aThis Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

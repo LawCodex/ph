@@ -70,7 +70,7 @@ On or before the fifteenth of June of each year, the Board of Trustees shall fil
 
 ## Section 8
 
-There shall be a College Council consisting of the President of the College and of all instructors and professors of the College. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the College, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be recipients of degrees.1avvphi1 Through its president or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+There shall be a College Council consisting of the President of the College and of all instructors and professors of the College. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the College, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be recipients of degrees. Through its president or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
 
 ## Section 9
 
@@ -94,7 +94,7 @@ The President of the College, with the cooperation of the Superintendent of City
 
 ## Section 14
 
-In order not to interrupt the smooth functioning of the two-year general curriculum and the three-year combined curriculum of the Philippine Normal School, the faculty of the school, consisting of the instructors and critic teachers, as well as the other personnel, shall be absorbed by the new College. Salaries of this personnel shall be adjusted at the discretion of the Board of Trustees within the amount available for appropriation.1âшphi1
+In order not to interrupt the smooth functioning of the two-year general curriculum and the three-year combined curriculum of the Philippine Normal School, the faculty of the school, consisting of the instructors and critic teachers, as well as the other personnel, shall be absorbed by the new College. Salaries of this personnel shall be adjusted at the discretion of the Board of Trustees within the amount available for appropriation.
 
 ## Section 15
 

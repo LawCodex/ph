@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Luzon Elementary School situated in Barangay Luzon, Municipality of Cabatuan, Province of Isabela, is hereby changed to Severo Macugay-Luzon Elementary School.1âшphi1
+The name of the Luzon Elementary School situated in Barangay Luzon, Municipality of Cabatuan, Province of Isabela, is hereby changed to Severo Macugay-Luzon Elementary School.
 
 ## Section 2
 

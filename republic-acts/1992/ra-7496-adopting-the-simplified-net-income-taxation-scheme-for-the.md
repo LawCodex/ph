@@ -92,7 +92,7 @@ The opening paragraph of Section 29 of the National Internal Revenue Code, as am
 
 ## Section 6
 
-The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue, shall promulgate and publish the necessary rules and regulations for the effective implementation of the provisions of this Act.1âшphi1
+The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue, shall promulgate and publish the necessary rules and regulations for the effective implementation of the provisions of this Act.
 
 ## Section 7
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, highway engineering district auditors shall receive salaries at the rate equivalent to two grades lower than the salaries of their respective district or city engineers of the engineering districts to which they are appointed as resident auditors. For purposes of this Act, one salary grade shall be fifty pesos per month. Auditors who are designated as ex-officio auditors of government offices, agencies or instrumentalities other than the highway engineering districts shall be entitled to an additional compensation of sixty pesos per month chargeable and prorated among the lump sums appropriated for such additional offices placed under their respective audit jurisdictions.1âшphi1
+Any provision of law to the contrary notwithstanding, highway engineering district auditors shall receive salaries at the rate equivalent to two grades lower than the salaries of their respective district or city engineers of the engineering districts to which they are appointed as resident auditors. For purposes of this Act, one salary grade shall be fifty pesos per month. Auditors who are designated as ex-officio auditors of government offices, agencies or instrumentalities other than the highway engineering districts shall be entitled to an additional compensation of sixty pesos per month chargeable and prorated among the lump sums appropriated for such additional offices placed under their respective audit jurisdictions.
 
 ## Section 2
 

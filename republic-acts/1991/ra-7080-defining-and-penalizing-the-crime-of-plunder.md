@@ -25,7 +25,9 @@ AN ACT DEFINING AND PENALIZING THE CRIME OF PLUNDER
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Definition of Terms_** \- As used in this Act, the term -
+## Section 1
+
+_Definition of Terms_ \- As used in this Act, the term -
 
 a) Public Officer means any person holding any public office in the Government of the Republic of the Philippines by virtue of an appointment, election or contract.
 
@@ -50,18 +52,32 @@ d) Ill-gotten wealth means any asset, property, business enterprise or material 
 See Section 2 As amended by Section 12 of RA No.7659
 **Section 2._Definition of the Crime of Plunder; Penalties_** \- Any public officer who, by himself or in connivance with members of his family, relatives by affinity or consanguinity, business associates, subordinates or other persons, amasses, accumulates or acquires ill-gotten wealth through a combination or series of overt or criminal acts as described in Section 1(d) hereof, in the aggregate amount or total value of at least Seventy-five million pesos (P75,000,000.00), shall be guilty of the crime of plunder and shall be punished by life imprisonment with perpetual absolute disqualification from holding any public office. Any person who participated with said public officer in the commission of plunder shall likewise be punished. In the imposition of penalties, the degree of participation and the attendance of mitigating and extenuating circumstances shall be considered by the court. The court shall declare any and all ill-gotten wealth and their interests and other incomes and assets including the properties and shares of stock derived from the deposit or investment thereof forfeited in favor of the State.
 
-**Section 3._Competent Court_** \- Until otherwise provided by law, all prosecutions under this Act shall be within the original jurisdiction of the Sandiganbayan.
+## Section 3
 
-**Section 4._Rule of Evidence_** \- For purposes of establishing the crime of plunder, it shall not be necessary to prove each and every criminal act done by the accused in furtherance of the scheme or conspiracy to amass, accumulate or acquire ill-gotten wealth, it being sufficient to establish beyond reasonable doubt a pattern of overt or criminal acts indicative of the overall unlawful scheme or conspiracy.
+_Competent Court_ \- Until otherwise provided by law, all prosecutions under this Act shall be within the original jurisdiction of the Sandiganbayan.
 
-**Section 5._Suspension and Loss of Benefits_** \- Any public officer against whom any criminal prosecution under a valid information under this Act in whatever stage of execution and mode of participation, is pending in court, shall be suspended from office. Should he be convicted by final judgment, he shall lose all retirement or gratuity benefits under any law, but if he is acquitted, he shall be entitled to reinstatement and to the salaries and other benefits which he failed to receive during suspension, unless in the meantime, administrative proceedings have been filed against him.
+## Section 4
 
-**Section 6._Prescription of Crimes_** \- The crime punishable under this Act shall prescribe in twenty (20) years. However, the right of the State to recover properties unlawfully acquired by public officers from them or from their nominees or transferees shall not be barred by prescription, laches, or estoppel.
+_Rule of Evidence_ \- For purposes of establishing the crime of plunder, it shall not be necessary to prove each and every criminal act done by the accused in furtherance of the scheme or conspiracy to amass, accumulate or acquire ill-gotten wealth, it being sufficient to establish beyond reasonable doubt a pattern of overt or criminal acts indicative of the overall unlawful scheme or conspiracy.
 
-**Section 7._Separability of Provisions_** \- If any provisions of this Act or the application thereof to any person or circumstance is held invalid, the remaining provisions of this Act and the application of such provisions to other persons or circumstances shall not be affected thereby.
+## Section 5
 
-**Section 8._Scope_** \- This Act shall not apply to or affect pending prosecutions or proceedings, or those which may be instituted under Executive Order No. 1, issued and promulgated on February 28, 1986.
+_Suspension and Loss of Benefits_ \- Any public officer against whom any criminal prosecution under a valid information under this Act in whatever stage of execution and mode of participation, is pending in court, shall be suspended from office. Should he be convicted by final judgment, he shall lose all retirement or gratuity benefits under any law, but if he is acquitted, he shall be entitled to reinstatement and to the salaries and other benefits which he failed to receive during suspension, unless in the meantime, administrative proceedings have been filed against him.
 
-**Section 9._Effectivity_** \- This Act shall take effect after fifteen (15) days from its publication in the Official Gazette and in a newspaper of general circulation.
+## Section 6
+
+_Prescription of Crimes_ \- The crime punishable under this Act shall prescribe in twenty (20) years. However, the right of the State to recover properties unlawfully acquired by public officers from them or from their nominees or transferees shall not be barred by prescription, laches, or estoppel.
+
+## Section 7
+
+_Separability of Provisions_ \- If any provisions of this Act or the application thereof to any person or circumstance is held invalid, the remaining provisions of this Act and the application of such provisions to other persons or circumstances shall not be affected thereby.
+
+## Section 8
+
+_Scope_ \- This Act shall not apply to or affect pending prosecutions or proceedings, or those which may be instituted under Executive Order No. 1, issued and promulgated on February 28, 1986.
+
+## Section 9
+
+_Effectivity_ \- This Act shall take effect after fifteen (15) days from its publication in the Official Gazette and in a newspaper of general circulation.
 
 Approved: July 12, 1991

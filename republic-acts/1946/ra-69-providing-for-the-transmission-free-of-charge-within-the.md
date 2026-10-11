@@ -32,7 +32,7 @@ The envelope or wrapper of such mail matter shall bear on the left upper corner 
 
 ## Section 3
 
-Any person who shall violate the provisions of this Act shall be punished by a fine of not more than five hundred pesos.1â#x0448;phi1
+Any person who shall violate the provisions of this Act shall be punished by a fine of not more than five hundred pesos.
 
 ## Section 4
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The first paragraph of Section thirty-two of Republic Act Numbered Thirty-two hundred seventy-nine, otherwise known as the Revised Charter of the City of Calbayog, as amended to read as follows:
 
-"Sec. 32. _The Chief of Police._ — His powers and duties.1avvphi1 There shall be a chief of police who shall have charge of the police department and shall receive a salary of five thousand four hundred pesos per annum. He shall be assisted in the discharge of his duties by a deputy chief of police who shall receive a salary of not less than three thousand six hundred pesos per annum. The chief of police shall have the following powers and duties:
+"Sec. 32. _The Chief of Police._ — His powers and duties. There shall be a chief of police who shall have charge of the police department and shall receive a salary of five thousand four hundred pesos per annum. He shall be assisted in the discharge of his duties by a deputy chief of police who shall receive a salary of not less than three thousand six hundred pesos per annum. The chief of police shall have the following powers and duties:
 
 ## Section 2
 

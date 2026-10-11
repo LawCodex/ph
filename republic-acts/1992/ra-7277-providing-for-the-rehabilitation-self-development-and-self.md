@@ -529,7 +529,7 @@ d. If the violator is an alien or a foreigner, he shall be deported immediately 
 
 #### Section 47
 
-_Appropriations_. - The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1âшphi1
+_Appropriations_. - The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 #### Section 48
 

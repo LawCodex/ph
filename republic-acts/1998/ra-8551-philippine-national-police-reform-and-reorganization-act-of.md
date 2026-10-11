@@ -27,9 +27,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## TITLE I — TITLE AND DECLARATION OF POLICY
 
-**Section 1._Title._** – This Act shall be known as the "Philippine National Police Reform and Reorganization Act of 1998".
+### Section 1
 
-**Section 2._Declaration of Policy and Principles._** – It is hereby declared the policy of the State to establish a highly efficient and competent police force which is national in scope and civilian in character administered and controlled by a national police commission.
+_Title._ – This Act shall be known as the "Philippine National Police Reform and Reorganization Act of 1998".
+
+### Section 2
+
+_Declaration of Policy and Principles._ – It is hereby declared the policy of the State to establish a highly efficient and competent police force which is national in scope and civilian in character administered and controlled by a national police commission.
 
 The Philippine National Police (PNP) shall be a community and service oriented agency responsible for the maintenance of peace and order and public safety.
 
@@ -159,13 +163,17 @@ Section 22 of Republic Act No. 6975 is hereby amended to read as follows:
 
 "(b) A holder of a master's degree and appropriate civil service eligibility."
 
-**Section 12._Qualifications Upgrading Program._** – The Commission shall design and establish a qualifications upgrading program for the members of the Commission in coordination with the Civil Service Commission, the Department of Education, Culture and Sports and the Commission on Higher Education through a distance education program and/or an in-service education program or similar programs within ninety (90) days from the effectivity of this Act: Provided, That those who are already in the service from the effectivity of this Act shall have five (5) years to obtain the required degree or qualification counted from the implementation of the qualifications upgrading program.
+### Section 12
+
+_Qualifications Upgrading Program._ – The Commission shall design and establish a qualifications upgrading program for the members of the Commission in coordination with the Civil Service Commission, the Department of Education, Culture and Sports and the Commission on Higher Education through a distance education program and/or an in-service education program or similar programs within ninety (90) days from the effectivity of this Act: Provided, That those who are already in the service from the effectivity of this Act shall have five (5) years to obtain the required degree or qualification counted from the implementation of the qualifications upgrading program.
 
 ## TITLE IV — THE PHILIPPINE NATIONAL POLICE
 
 A. REORGANIZATION
 
-**Section 13._Authority of the Commission to Reorganize the PNP._** – Notwithstanding the provisions of Republic Act No. 6975 on the organizational structure and rank classification of the PNP, the Commission shall conduct a management audit, and prepare and submit to Congress a proposed reorganization plan of the PNP not later than December 31, 1998, subject to the limitations provided under this Act and based on the following criteria: a) increased police visibility through dispersal of personnel from the headquarters to the field offices and by the appointment and assignment of non-uniformed personnel to positions which are purely administrative, technical, clerical or menial in nature and other positions which are not actually and directly related to police operation; and b) efficient and optimized delivery of police services to the communities.
+### Section 13
+
+_Authority of the Commission to Reorganize the PNP._ – Notwithstanding the provisions of Republic Act No. 6975 on the organizational structure and rank classification of the PNP, the Commission shall conduct a management audit, and prepare and submit to Congress a proposed reorganization plan of the PNP not later than December 31, 1998, subject to the limitations provided under this Act and based on the following criteria: a) increased police visibility through dispersal of personnel from the headquarters to the field offices and by the appointment and assignment of non-uniformed personnel to positions which are purely administrative, technical, clerical or menial in nature and other positions which are not actually and directly related to police operation; and b) efficient and optimized delivery of police services to the communities.
 
 The PNP reorganization program shall be approved by Congress through a joint resolution.
 
@@ -201,9 +209,13 @@ Section 30 of Republic Act No. 6975 is hereby amended to read as follows:
 
 "After the lapse of the time period for the satisfaction of a specific requirement, current members of the PNP who will fail to satisfy any of the requirements enumerated under this Section shall be separated from the service if they are below fifty (50) years of age and have served in Government for less than twenty (20) years or retired if they are from the age of fifty (50) and above and have served the Government for at least twenty (20) years without prejudice in either case to the payment of benefits they may be entitled to under existing laws."
 
-**Section 15._Waivers for Initial Appointments to the PNP._** – The age, height, weight, and educational requirements for initial appointment to the PNP may be waived only when the number of qualified applicants fall below the minimum annual quota: Provided, That an applicant shall not be below twenty (20) nor over thirty-five (35) years of age: Provided, further, That any applicant not meeting the weight requirement shall be given reasonable time but not exceeding six (6) months within which to comply with the said requirement: Provided, furthermore, That only applicants who have finished second year college or have earned at least seventy-two (72) collegiate units leading to a bachelor's decree shall be eligible for appointment: Provided, furthermore, That anybody who will enter the service without a baccalaureate degree shall be given a maximum of four (4) years to obtain the required educational qualification: Provided, finally, That a waiver for height requirement shall be automatically granted to applicants belonging to the cultural communities.
+### Section 15
 
-**Section 16._Selection Criteria Under the Waiver Program._** – The selection of applicants under the Waiver Program shall be subject to the following minimum criteria:
+_Waivers for Initial Appointments to the PNP._ – The age, height, weight, and educational requirements for initial appointment to the PNP may be waived only when the number of qualified applicants fall below the minimum annual quota: Provided, That an applicant shall not be below twenty (20) nor over thirty-five (35) years of age: Provided, further, That any applicant not meeting the weight requirement shall be given reasonable time but not exceeding six (6) months within which to comply with the said requirement: Provided, furthermore, That only applicants who have finished second year college or have earned at least seventy-two (72) collegiate units leading to a bachelor's decree shall be eligible for appointment: Provided, furthermore, That anybody who will enter the service without a baccalaureate degree shall be given a maximum of four (4) years to obtain the required educational qualification: Provided, finally, That a waiver for height requirement shall be automatically granted to applicants belonging to the cultural communities.
+
+### Section 16
+
+_Selection Criteria Under the Waiver Program._ – The selection of applicants under the Waiver Program shall be subject to the following minimum criteria:
 
 a) Applicants who possess the least disqualification shall take precedence over those who possess more disqualifications.
 
@@ -211,13 +223,21 @@ b) The requirements shall be waived in the following order: (a) age, (b) height,
 
 The Commission shall promulgate rules and regulations to address other situations arising from the waiver of the entry requirements.
 
-**Section 17._Nature of Appointment Under a Waiver Program._** – Any PNP uniformed personnel who is admitted due to the waiver of the educational or weight requirements shall be issued a temporary appointment pending the satisfaction of the requirement waived. Any member who will fail to satisfy any of the waived requirements within the specified time periods under Section 13 of this Act shall be dismissed from the service.
+### Section 17
 
-**Section 18._Re-application of Dismissed PNP Members Under a Waiver Program._** – Any PNP member who shall be dismissed under a waiver program shall be eligible to re-apply for appointment to the PNP: Provided, That he or she possesses the minimum qualifications under Section 14 of this Act and his or her reappointment is not by virtue of another waiver program.
+_Nature of Appointment Under a Waiver Program._ – Any PNP uniformed personnel who is admitted due to the waiver of the educational or weight requirements shall be issued a temporary appointment pending the satisfaction of the requirement waived. Any member who will fail to satisfy any of the waived requirements within the specified time periods under Section 13 of this Act shall be dismissed from the service.
 
-**Section 19._The Field Training Program._** – All uniformed members of the PNP shall undergo a Field Training Program for twelve (12) months involving actual experience and assignment in patrol, traffic, and investigation as a requirement for permanency of their appointment.
+### Section 18
 
-**Section 20._Increased Qualifications for Provincial Directors._** – No person may be appointed Director of a Provincial Police Office unless:
+_Re-application of Dismissed PNP Members Under a Waiver Program._ – Any PNP member who shall be dismissed under a waiver program shall be eligible to re-apply for appointment to the PNP: Provided, That he or she possesses the minimum qualifications under Section 14 of this Act and his or her reappointment is not by virtue of another waiver program.
+
+### Section 19
+
+_The Field Training Program._ – All uniformed members of the PNP shall undergo a Field Training Program for twelve (12) months involving actual experience and assignment in patrol, traffic, and investigation as a requirement for permanency of their appointment.
+
+### Section 20
+
+_Increased Qualifications for Provincial Directors._ – No person may be appointed Director of a Provincial Police Office unless:
 
 a) he or she holds a master's degree in public administration, sociology, criminology, criminal justice, law enforcement, national security administration, defense studies, or other related discipline from a recognized institution of learning; and
 
@@ -237,13 +257,19 @@ Section 34 of Republic Act No. 6975 is hereby amended to read as follows:
 
 "SEC. 34. Qualifications of Chief of City and Municipal Police Stations. – No person shall be appointed chief of a city police station unless he/she is a graduate of Bachelor of Laws or has finished all the required courses of a master's degree program in public administration, criminology, criminal justice, law enforcement, national security administration, defense studies, and other related disciplines from a recognized institution of learning. No person shall be appointed chief of a municipal police station unless he or she has finished at least second year Bachelor of Laws or has earned at least twelve (12) units in a master's degree program in public administration, criminology, criminal justice, law enforcement, national security administration, and other related disciplines from a recognized institution of learning: Provided, That members of the Bar with at least five (5) years of law practice, licensed criminologists or graduates of the Philippine National Police Academy and who possess the general qualifications for initial appointment to the PNP shall be qualified for appointment as chief of a city or municipal police station: Provided, further, That the appointee has successfully passed the required field training program and has complied with other requirements as may be established by the Commission: Provided, furthermore, That the chief of police shall be appointed in accordance with the provisions of Section 51, paragraph (b), subparagraph 4(i) of this Act."
 
-**Section 23._Qualifications Upgrading Program._** – The Commission shall design and establish a qualifications upgrading program for the Philippine National Police officers and members in coordination with the Civil Service Commission, and the Commission on Higher Education through a distance education program and/or an in-service education program or other similar programs within ninety (90) days from the effectivity of this Act.
+### Section 23
+
+_Qualifications Upgrading Program._ – The Commission shall design and establish a qualifications upgrading program for the Philippine National Police officers and members in coordination with the Civil Service Commission, and the Commission on Higher Education through a distance education program and/or an in-service education program or other similar programs within ninety (90) days from the effectivity of this Act.
 
 C. ATTRITION SYSTEM FOR UNIFORMED PERSONNEL
 
-**Section 24._Attrition System._** – There shall be established a system of attrition within the uniformed members of the PNP within one (1) year from the effectivity of this Act to be submitted by the PNP to the Commission for approval. Such attrition system shall include but is not limited to the provisions of the following sections.
+### Section 24
 
-**Section 25._Attrition by Attainment of Maximum Tenure in Position._** – The maximum tenure of PNP members holding key positions is hereby prescribed as follows:
+_Attrition System._ – There shall be established a system of attrition within the uniformed members of the PNP within one (1) year from the effectivity of this Act to be submitted by the PNP to the Commission for approval. Such attrition system shall include but is not limited to the provisions of the following sections.
+
+### Section 25
+
+_Attrition by Attainment of Maximum Tenure in Position._ – The maximum tenure of PNP members holding key positions is hereby prescribed as follows:
 
 | POSITION | MAXIMUM TENURE |
 |---|---|
@@ -257,13 +283,21 @@ Other positions higher than Provincial Director shall have the maximum tenure of
 
 Except for the Chief, PNP, no PNP member who has less than one (1) year of service before reaching the compulsory retirement age shall be promoted to a higher rank or appointed to any other position.
 
-**Section 26._Attrition by Relief._** – A PNP uniformed personnel who has been relieved for just cause and has not been given an assignment within two (2) years after such relief shall be retired or separated.
+### Section 26
 
-**Section 27._Attrition by Demotion in Position or Rank._** – Any PNP personnel, civilian or uniformed, who is relieved and assigned to a position lower than what is established for his or her grade in the PNP staffing pattern and who shall not be assigned to a position commensurate to his or her grade within eighteen (18) months after such demotion in position shall be retired or separated.
+_Attrition by Relief._ – A PNP uniformed personnel who has been relieved for just cause and has not been given an assignment within two (2) years after such relief shall be retired or separated.
 
-**Section 28._Attrition by Non-promotion._** – Any PNP personnel who has not been promoted for a continuous period of ten (10) years shall be retired or separated.
+### Section 27
 
-**Section 29._Attrition by Other Means._** – A PNP member or officer with at least five (5) years of accumulated active service shall be separated based on any of the following factors:
+_Attrition by Demotion in Position or Rank._ – Any PNP personnel, civilian or uniformed, who is relieved and assigned to a position lower than what is established for his or her grade in the PNP staffing pattern and who shall not be assigned to a position commensurate to his or her grade within eighteen (18) months after such demotion in position shall be retired or separated.
+
+### Section 28
+
+_Attrition by Non-promotion._ – Any PNP personnel who has not been promoted for a continuous period of ten (10) years shall be retired or separated.
+
+### Section 29
+
+_Attrition by Other Means._ – A PNP member or officer with at least five (5) years of accumulated active service shall be separated based on any of the following factors:
 
 a) inefficiency based on poor performance during the last two (2) successive annual rating periods;
 
@@ -273,13 +307,19 @@ c) physical and/or mental incapacity to perform police functions and duties; or
 
 d) failure to pass the required entrance examinations twice and/or finish the required career courses except for justifiable reasons.
 
-**Section 30._Retirement or Separation Under the Preceding Sections._** – Any personnel who is dismissed from the PNP pursuant to Sections 25, 26, 27, 28 and 29 hereof shall be retired if he or she has rendered at least twenty (20) years of service and separated if he or she has rendered less than twenty (20) years of service unless the personnel is disqualified by law to receive such benefits.
+### Section 30
+
+_Retirement or Separation Under the Preceding Sections._ – Any personnel who is dismissed from the PNP pursuant to Sections 25, 26, 27, 28 and 29 hereof shall be retired if he or she has rendered at least twenty (20) years of service and separated if he or she has rendered less than twenty (20) years of service unless the personnel is disqualified by law to receive such benefits.
 
 D. PROMOTION SYSTEM
 
-**Section 31._Rationalized Promotion System._** – Within six (6) months after the effectivity of this Act, the Commission shall establish a system of promotion for uniformed and non-uniformed personnel of the PNP which shall be based on merits and on the availability of vacant positions in the PNP staffing pattern. Such system shall be gender fair and shall ensure that women members of the PNP shall enjoy equal opportunity for promotion as that of men.
+### Section 31
 
-**Section 32._Promotion by Virtue of Position._** – Any PNP personnel designated to any key position whose rank is lower than that which is required for such position shall, after six (6) months of occupying the same, be entitled to a rank adjustment corresponding to the position: Provided, That the personnel shall not be reassigned to a position calling for a higher rank until after two (2) years from the date of such rank adjustment: Provided, further, That any personnel designated to the position who does not possess the established minimum qualifications therefor shall occupy the same temporarily for not more than six (6) months without reappointment or extension.
+_Rationalized Promotion System._ – Within six (6) months after the effectivity of this Act, the Commission shall establish a system of promotion for uniformed and non-uniformed personnel of the PNP which shall be based on merits and on the availability of vacant positions in the PNP staffing pattern. Such system shall be gender fair and shall ensure that women members of the PNP shall enjoy equal opportunity for promotion as that of men.
+
+### Section 32
+
+_Promotion by Virtue of Position._ – Any PNP personnel designated to any key position whose rank is lower than that which is required for such position shall, after six (6) months of occupying the same, be entitled to a rank adjustment corresponding to the position: Provided, That the personnel shall not be reassigned to a position calling for a higher rank until after two (2) years from the date of such rank adjustment: Provided, further, That any personnel designated to the position who does not possess the established minimum qualifications therefor shall occupy the same temporarily for not more than six (6) months without reappointment or extension.
 
 ### Section 33
 
@@ -311,7 +351,9 @@ Section 36 of Republic Act No. 6975 is hereby amended to read as follows:
 
 "SEC. 36. Status of Members of the Philippine National Police. – The uniformed members of the PNP shall be considered employees of the National Government and shall draw their salaries therefrom. They shall have the same salary grade level as that of public school teachers: Provided, That PNP members assigned in Metropolitan Manila, chartered cities and first class municipalities may be paid financial incentive by the local government unit concerned subject to the availability of funds."
 
-**Section 37._Early Retirement Program._** – Within three (3) years after the effectivity of this Act, any PNP officer or non-commissioned officer may retire and be paid separation benefits corresponding to a position two (2) ranks higher than his or her present rank subject to the following conditions:
+### Section 37
+
+_Early Retirement Program._ – Within three (3) years after the effectivity of this Act, any PNP officer or non-commissioned officer may retire and be paid separation benefits corresponding to a position two (2) ranks higher than his or her present rank subject to the following conditions:
 
 a) that at the time he or she applies for retirement, he or she has already rendered at least ten (10) years of continuous government service;
 
@@ -321,11 +363,15 @@ c) he or she has no pending administrative or criminal case; and
 
 d) he or she has at least three (3) more years in the service before reaching the compulsory retirement age and at least a year before his or her maximum tenure in position.
 
-**Section 38._Rationalization of Retirement and Separation Benefits._** – The Commission shall formulate a rationalized retirement and separation benefits schedule and program within one (1) year from the effectivity of this Act for approval by Congress: Provided, That the approved schedule and program shall have retroactive effect in favor of PNP members and officers retired or separated from the time specified in the law, unless the retirement or separation is for cause and the decision denies the grant of benefits.
+### Section 38
+
+_Rationalization of Retirement and Separation Benefits._ – The Commission shall formulate a rationalized retirement and separation benefits schedule and program within one (1) year from the effectivity of this Act for approval by Congress: Provided, That the approved schedule and program shall have retroactive effect in favor of PNP members and officers retired or separated from the time specified in the law, unless the retirement or separation is for cause and the decision denies the grant of benefits.
 
 ## TITLE V — INTERNAL AFFAIRS SERVICE
 
-**Section 39._Creation, Powers, and Functions._** – An Internal Affairs Service (IAS) of the PNP is hereby created which shall:
+### Section 39
+
+_Creation, Powers, and Functions._ – An Internal Affairs Service (IAS) of the PNP is hereby created which shall:
 
 a) pro-actively conduct inspections and audits on PNP personnel and units;
 
@@ -353,37 +399,61 @@ e) incidents where the established rules of engagement have been violated.
 
 Finally, the IAS shall provide documents or recommendations as regards to the promotion of the members of the PNP or the assignment of PNP personnel to any key position.
 
-**Section 40._Organization._** – National, regional, and provincial offices of the Internal Affairs shall be established. Internal Affairs Service shall be headed by an Inspector General who shall be assisted by a Deputy Inspector General. The area offices shall be headed by a Director while the provincial offices shall be headed by a Superintendent: Provided, That the head of the Internal Affairs Service shall be a civilian who shall meet the qualification requirements provided herein.
+### Section 40
+
+_Organization._ – National, regional, and provincial offices of the Internal Affairs shall be established. Internal Affairs Service shall be headed by an Inspector General who shall be assisted by a Deputy Inspector General. The area offices shall be headed by a Director while the provincial offices shall be headed by a Superintendent: Provided, That the head of the Internal Affairs Service shall be a civilian who shall meet the qualification requirements provided herein.
 
 The commission shall establish a rationalized staffing pattern in the Reorganization Plan as provided for in Section 13 hereof.
 
-**Section 41._Appointments._** – The Inspector General shall be appointed by the President upon the recommendation of the Director General and duly endorsed by the Commission. Appointments of personnel who shall occupy various positions shall be made by the Inspector General and shall be based on an established career pattern and criteria to be promulgated by the Commission.
+### Section 41
 
-**Section 42._Entry Qualifications to IAS._** – Entry to the Internal Affairs Service shall be voluntary and subject to rigid screening where only PNP personnel who have at least five (5) years experience in law enforcement and who have no derogatory service records shall be considered for appointment: Provided, That members of the Bar may enter the service laterally.
+_Appointments._ – The Inspector General shall be appointed by the President upon the recommendation of the Director General and duly endorsed by the Commission. Appointments of personnel who shall occupy various positions shall be made by the Inspector General and shall be based on an established career pattern and criteria to be promulgated by the Commission.
 
-**Section 43._Initial Appointments to the National, Directorial, and Provincial Internal Affairs Service Offices._** – Initial appointments of the heads of the offices in the Internal Affairs Service shall be made by the President upon recommendation by the Commission. Thereafter, appointments and promotions to the Service shall follow the established requirements and procedures.
+### Section 42
 
-**Section 44._Promotions._** – The Commission shall establish the promotion system within the IAS which shall follow the general principles of the promotion system in the PNP.
+_Entry Qualifications to IAS._ – Entry to the Internal Affairs Service shall be voluntary and subject to rigid screening where only PNP personnel who have at least five (5) years experience in law enforcement and who have no derogatory service records shall be considered for appointment: Provided, That members of the Bar may enter the service laterally.
 
-**Section 45._Prohibitions._** – Any personnel who joins the IAS may not thereafter join any other unit of the PNP. Neither shall any personnel of the IAS be allowed to sit in a committee deliberating on the appointment, promotion, or assignment of any PNP personnel.
+### Section 43
 
-**Section 46._Career Development and Incentives._** – (1) Personnel of the Internal Affairs Service shall in addition to other allowances authorized under existing laws be granted occupational specialty pay which shall not exceed fifty percent (50%) of their basic pay. This pay shall not be considered a forfeiture of other remuneration and allowances which are allowed under existing laws.
+_Initial Appointments to the National, Directorial, and Provincial Internal Affairs Service Offices._ – Initial appointments of the heads of the offices in the Internal Affairs Service shall be made by the President upon recommendation by the Commission. Thereafter, appointments and promotions to the Service shall follow the established requirements and procedures.
+
+### Section 44
+
+_Promotions._ – The Commission shall establish the promotion system within the IAS which shall follow the general principles of the promotion system in the PNP.
+
+### Section 45
+
+_Prohibitions._ – Any personnel who joins the IAS may not thereafter join any other unit of the PNP. Neither shall any personnel of the IAS be allowed to sit in a committee deliberating on the appointment, promotion, or assignment of any PNP personnel.
+
+### Section 46
+
+_Career Development and Incentives._ – (1) Personnel of the Internal Affairs Service shall in addition to other allowances authorized under existing laws be granted occupational specialty pay which shall not exceed fifty percent (50%) of their basic pay. This pay shall not be considered a forfeiture of other remuneration and allowances which are allowed under existing laws.
 
 (2) IAS members shall also have priorities in the quota allocation for training and education.
 
-**Section 47._Records Management of the IAS._** – Local Internal Affairs Offices shall be responsible for the maintenance and update of the records of the members of the PNP within their jurisdiction.
+### Section 47
+
+_Records Management of the IAS._ – Local Internal Affairs Offices shall be responsible for the maintenance and update of the records of the members of the PNP within their jurisdiction.
 
 When a PNP personnel is reassigned or transferred to another location or unit outside the jurisdiction of the current Internal Affairs Office, the original records of such personnel shall be transferred over to the Internal Affairs Office that will acquire jurisdiction over the transferred personnel while copies will be retained by the former Internal Affairs Office. In cases where a PNP personnel has been relieved of his/her position and has not been given an assignment, the Internal Affairs Office where the person has been assigned last shall continue to have jurisdiction over his or her records until such time that the officer or member shall have been given a new assignment where the records will be forwarded to the Internal Affairs Office acquiring jurisdiction over the PNP personnel.
 
-**Section 48._Inclusion of Supervisors and Superiors in IAS Investigations._** – The immediate superior or supervisor of the personnel or units being investigated under the preceding section shall be automatically included in the investigation of the IA to exclusively determine lapses in administration or supervision.
+### Section 48
 
-**Section 49._Disciplinary Recommendations of the IAS._** – (a) Any uniformed PNP personnel found guilty of any of the cases mentioned in Section 39 of this Act and any immediate superior or supervisor found negligent under Section 48 shall be recommended automatically for dismissal or demotion, as the case may be.
+_Inclusion of Supervisors and Superiors in IAS Investigations._ – The immediate superior or supervisor of the personnel or units being investigated under the preceding section shall be automatically included in the investigation of the IA to exclusively determine lapses in administration or supervision.
+
+### Section 49
+
+_Disciplinary Recommendations of the IAS._ – (a) Any uniformed PNP personnel found guilty of any of the cases mentioned in Section 39 of this Act and any immediate superior or supervisor found negligent under Section 48 shall be recommended automatically for dismissal or demotion, as the case may be.
 
 (b) Recommendations by the IAS for the imposition of disciplinary measures against an erring PNP personnel, once final, cannot be revised, set-aside, or unduly delayed by any disciplining authority without just cause. Any disciplining authority who fails to act or who acts with abuse of discretion on the recommendation of the IAS shall be made liable for gross neglect of duty. The case of erring disciplinary authority shall be submitted to the Director General for proper disposition.
 
-**Section 50._Appeals._** – Decisions rendered by the provincial inspectors shall be forwarded to the area internal affairs office for review within ten (10) working days upon the receipt thereof. Decisions of the area office may be appealed to the national office through the Office of Inspector General. Decisions rendered by the National IAS shall be appealed to the National Appellate Board or to the court as may be appropriate: Provided, That the summary dismissal powers of the Director General and Regional Directors as provided in Section 42 of Republic Act No. 6975 shall remain valid: Provided, further, That the existing jurisdiction over offenses as provided under Republic Act No. 6975 shall not be affected.
+### Section 50
 
-**Section 51._Complaints Against the IAS._** – A complaint against any personnel or office of IAS shall be brought to the Inspector General's Office or to the Commission as may be appropriate.
+_Appeals._ – Decisions rendered by the provincial inspectors shall be forwarded to the area internal affairs office for review within ten (10) working days upon the receipt thereof. Decisions of the area office may be appealed to the national office through the Office of Inspector General. Decisions rendered by the National IAS shall be appealed to the National Appellate Board or to the court as may be appropriate: Provided, That the summary dismissal powers of the Director General and Regional Directors as provided in Section 42 of Republic Act No. 6975 shall remain valid: Provided, further, That the existing jurisdiction over offenses as provided under Republic Act No. 6975 shall not be affected.
+
+### Section 51
+
+_Complaints Against the IAS._ – A complaint against any personnel or office of IAS shall be brought to the Inspector General's Office or to the Commission as may be appropriate.
 
 ## TITLE VI — DISCIPLINARY MECHANISMS
 
@@ -477,15 +547,25 @@ Section 49 of Republic Act No. 6975 is hereby amended to read as follows:
 
 ## TITLE VII — CREATION OF WOMEN'S DESKS IN ALL POLICE STATIONS AND THE FORMULATION OF A GENDER SENSITIVITY PROGRAM
 
-**Section 57._Creation and Functions._** – The PNP shall establish women's desks in all police stations throughout the country to administer and attend to cases involving crimes against chastity, sexual harassment, abuses committed against women and children and other similar offenses: Provided, That municipalities and cities presently without policewomen will have two (2) years upon the effectivity of this Act within which to comply with the requirement of this provision.
+### Section 57
 
-**Section 58._Prioritization of Women for Recruitment._** – Within the next five (5) years, the PNP shall prioritize the recruitment and training of women who shall serve in the women's desk. Pursuant to this requirement, the PNP shall reserve ten percent (10%) of its annual recruitment, training, and education quota for women
+_Creation and Functions._ – The PNP shall establish women's desks in all police stations throughout the country to administer and attend to cases involving crimes against chastity, sexual harassment, abuses committed against women and children and other similar offenses: Provided, That municipalities and cities presently without policewomen will have two (2) years upon the effectivity of this Act within which to comply with the requirement of this provision.
 
-**Section 59._Gender Sensitivity Program._** – The Commission shall formulate a gender sensitivity program within ninety (90) days from the effectivity of this Act to include but not limited to the establishment of equal opportunities for women in the PNP, the prevention of sexual harassment in the workplace, and the prohibition of discrimination on the basis of gender or sexual orientation.
+### Section 58
 
-**Section 60._Administrative Liability._** – Any personnel who shall violate the established rules and regulations regarding gender sensitivity and gender equality shall be suspended without pay for not less than thirty (30) days and shall undergo gender sensitivity seminar or training: Provided, That any personnel who violates the rules more than twice shall be recommended for demotion or dismissal from the PNP.
+_Prioritization of Women for Recruitment._ – Within the next five (5) years, the PNP shall prioritize the recruitment and training of women who shall serve in the women's desk. Pursuant to this requirement, the PNP shall reserve ten percent (10%) of its annual recruitment, training, and education quota for women
 
-**Section 61._Non-prohibition for Promotion._** – Nothing in this title shall be construed as a restriction on the assignment of policewomen to other positions in the PNP nor shall any provisions of this title be used for the non-promotion of a PNP female personnel to higher position.
+### Section 59
+
+_Gender Sensitivity Program._ – The Commission shall formulate a gender sensitivity program within ninety (90) days from the effectivity of this Act to include but not limited to the establishment of equal opportunities for women in the PNP, the prevention of sexual harassment in the workplace, and the prohibition of discrimination on the basis of gender or sexual orientation.
+
+### Section 60
+
+_Administrative Liability._ – Any personnel who shall violate the established rules and regulations regarding gender sensitivity and gender equality shall be suspended without pay for not less than thirty (30) days and shall undergo gender sensitivity seminar or training: Provided, That any personnel who violates the rules more than twice shall be recommended for demotion or dismissal from the PNP.
+
+### Section 61
+
+_Non-prohibition for Promotion._ – Nothing in this title shall be construed as a restriction on the assignment of policewomen to other positions in the PNP nor shall any provisions of this title be used for the non-promotion of a PNP female personnel to higher position.
 
 ## TITLE VIII — PARTICIPATION OF LOCAL GOVERNMENT EXECUTIVES IN THE ADMINISTRATION OF THE PNP
 
@@ -515,7 +595,9 @@ Section 51 (b) (4) of Republic Act No. 6975 is hereby amended to read as follows
 
 "The control and supervision of anti-gambling operations shall be within the jurisdiction of local government executives."
 
-**Section 64._Automatic Deputation of Local Government Executives as Commission Representatives._** – Governors and mayors, upon having been elected and living qualified as such, are automatically deputized as representatives of the National Police Commission in their respective jurisdiction. As deputized agents of the Commission, local government executives can inspect police forces and units, conduct audit, and exercise other functions as may be duly authorized by the Commission.
+### Section 64
+
+_Automatic Deputation of Local Government Executives as Commission Representatives._ – Governors and mayors, upon having been elected and living qualified as such, are automatically deputized as representatives of the National Police Commission in their respective jurisdiction. As deputized agents of the Commission, local government executives can inspect police forces and units, conduct audit, and exercise other functions as may be duly authorized by the Commission.
 
 ### Section 65
 
@@ -541,7 +623,7 @@ Paragraph (a), Section 43 of Republic Act No. 6975 is hereby amended to read as 
 
 "SEC. 43. People's Law Enforcement Board (PLEB). – (a) Creation and Functions – The sangguniang panlungsod/bayan in every city and municipality shall create such number of People's Law Enforcement Boards (PLEBs) as may be necessary: Provided, That there shall be at least one (1) PLEB for every five hundred (500) city or municipal police personnel and for each of the legislative districts in a city.
 
-"The PLEB shall be the central receiving entity for any citizen's complaint against the officers and members of the PNP. Subject to the provisions of Section 41 of Republic Act No. 6975, the PLEB shall take cognizance of or refer the complaint to the proper disciplinary or adjudicatory authority within three (3) days upon the filing of the complaint."lawph!l.net
+"The PLEB shall be the central receiving entity for any citizen's complaint against the officers and members of the PNP. Subject to the provisions of Section 41 of Republic Act No. 6975, the PLEB shall take cognizance of or refer the complaint to the proper disciplinary or adjudicatory authority within three (3) days upon the filing of the complaint."
 
 ### Section 67
 
@@ -555,21 +637,27 @@ The last paragraph of Section 43 (b)(3) of Republic Act No. 6975 shall be amende
 
 "The Chairman of the PLEB shall be elected from among its members. The term of office of the members of the PLEB shall be for a period of three (3) years from assumption of office. Such member shall hold office until his successor shall have been chosen and qualified."
 
-**Section 69._Compensation and Benefits._** – Paragraph c, Section 43 of Republic Act No. 6975 shall be amended to read as follows:
+### Section 69
+
+_Compensation and Benefits._ – Paragraph c, Section 43 of Republic Act No. 6975 shall be amended to read as follows:
 
 "(c) Compensation. – Membership in the PLEB is a civic duty. However, PLEB members shall be paid per diem and shall be provided with life insurance coverage as may be determined by the city or municipal council from city or municipal funds. The DILG shall provide for the per diem and insurance coverage of PLEB members in certain low income municipalities."
 
-**Section 70._Budget Allocation._** – The annual budget of the Local Government Units (LGU) shall include an item and the corresponding appropriation for the maintenance and operation of their local PLEBs.
+### Section 70
+
+_Budget Allocation._ – The annual budget of the Local Government Units (LGU) shall include an item and the corresponding appropriation for the maintenance and operation of their local PLEBs.
 
 The Secretary shall submit a report to Congress and the President within fifteen (15) days from the effectivity of this Act on the number of PLEBs already organized as well as the LGUs still without PLEBs. Municipalities or cities without a PLEB or with an insufficient number of organized PLEBs shall have thirty (30) more days to organize their respective PLEBs. After such period, the DILG and the Department of Budget and Management shall withhold the release of the LGU's share in the national taxes in cities and municipalities still without PLEB(s).
 
-**Section 71._Request for Preventive Suspension._** – The PLEB may ask any authorized superior to impose preventive suspension against a subordinate police officer who is the subject of a complaint lasting up to a period as may be allowed under the law. A request for preventive suspension shall not be denied by the superior officer in the following cases:
+### Section 71
+
+_Request for Preventive Suspension._ – The PLEB may ask any authorized superior to impose preventive suspension against a subordinate police officer who is the subject of a complaint lasting up to a period as may be allowed under the law. A request for preventive suspension shall not be denied by the superior officer in the following cases:
 
 a) when the respondent refuses to heed the PLEB's summons or subpoena;
 
 b) when the PNP personnel has been charged with offenses involving bodily harm or grave threats,
 
-c) when the respondent is in a position to tamper with the evidence; andlawphil.net
+c) when the respondent is in a position to tamper with the evidence; and
 
 d) when the respondent is in a position to unduly influence the witnesses.
 
@@ -577,18 +665,30 @@ Any superior who fails to act on any request for suspension without valid ground
 
 ## TITLE X — TRANSITORY PROVISIONS
 
-**Section 72._Transition._** – The provisions on the reorganization and the civilianization of the PNP and the devolution of police capabilities to the local police forces shall be effected within three (3) years after the effectivity of this Act.
+### Section 72
+
+_Transition._ – The provisions on the reorganization and the civilianization of the PNP and the devolution of police capabilities to the local police forces shall be effected within three (3) years after the effectivity of this Act.
 
 ## TITLE XI — FINAL PROVISIONS
 
-**Section 73._Rules and Regulations._** – Unless otherwise provided in this Act, the Commission in coordination with the Philippine National Police and the Department of the Interior and Local Government, shall promulgate rules and regulations for the effective implementation of this Act. Such rules and regulations shall take effect upon their publication in three (3) newspapers of general circulation.
+### Section 73
 
-**Section 74._Appropriations._** – The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+_Rules and Regulations._ – Unless otherwise provided in this Act, the Commission in coordination with the Philippine National Police and the Department of the Interior and Local Government, shall promulgate rules and regulations for the effective implementation of this Act. Such rules and regulations shall take effect upon their publication in three (3) newspapers of general circulation.
 
-**Section 75._Repealing Clause._** – All laws, presidential decrees, letters of instructions, executive orders, rules and regulations insofar as they are inconsistent with this Act, are hereby repealed or amended as the case may be.
+### Section 74
 
-**Section 76._Separability Clause._** – In case any provision of this Act or any portion thereof is declared unconstitutional by a competent court, other provisions shall not be affected thereby.
+_Appropriations._ – The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
 
-**Section 77._Effectivity Clause._** – This Act shall take effect after its complete publication in at least three (3) newspapers of general circulation.
+### Section 75
+
+_Repealing Clause._ – All laws, presidential decrees, letters of instructions, executive orders, rules and regulations insofar as they are inconsistent with this Act, are hereby repealed or amended as the case may be.
+
+### Section 76
+
+_Separability Clause._ – In case any provision of this Act or any portion thereof is declared unconstitutional by a competent court, other provisions shall not be affected thereby.
+
+### Section 77
+
+_Effectivity Clause._ – This Act shall take effect after its complete publication in at least three (3) newspapers of general circulation.
 
 Approved: **February 25, 1998**

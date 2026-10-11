@@ -41,7 +41,7 @@ This franchise is granted subject to the conditions that it shall be subject to 
 
 ## Section 5
 
-The grantee shall file a bond in the sum of twenty-five thousand pesos to answer for any loss or damage that any customer or customers may suffer.1âшphi1
+The grantee shall file a bond in the sum of twenty-five thousand pesos to answer for any loss or damage that any customer or customers may suffer.
 
 ## Section 6
 

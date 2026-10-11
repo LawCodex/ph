@@ -32,7 +32,7 @@ Such evidences of indebtedness may be of the following types:
 
 (b) Interest-bearing certificates of indebtedness having maturities not exceeding eighteen months from the date of issue.
 
-(c) Interest-bearing notes having maturities of not less than one or more than five years from the date of issue.1aшphi1
+(c) Interest-bearing notes having maturities of not less than one or more than five years from the date of issue.
 
 The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form or forms, the interest and discount rates, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all evidences of indebtedness issued under the authority of this Act: _Provided,_ However, That with respect to treasury bills, certificates of indebtedness, and notes, such terms and conditions shall be within the limitations prescribed in subsections (a) through (c) of the preceding paragraph: And _Provided, further,_ That the actual issue, placement, servicing, and redemption of such securities shall be done through the Central Bank of the Philippines, as provided in sections one hundred and twenty-two, one hundred and twenty-three and one hundred and twenty-four of the Central Bank Act.
 

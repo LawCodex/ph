@@ -853,7 +853,7 @@ Upon conviction by a court of law, the offender shall suffer the penalty of impr
 
 _Use of Unlicensed Gear._ – Any person who uses a fishing gear or method for commercial fishing without license from the Department shall, upon a summary finding of administrative liability, be fined from Two hundred thousand pesos (P200,000.00) to Five hundred thousand pesos (P500,000.00) per gear depending on the seriousness of the violation.
 
-Upon conviction by a court of law, the offender shall be imposed the penalty of fine from Four hundred thousand pesos (P400,000.00) to One million pesos (P1,000,000.00) depending on the seriousness of the violation.1âwphi1
+Upon conviction by a court of law, the offender shall be imposed the penalty of fine from Four hundred thousand pesos (P400,000.00) to One million pesos (P1,000,000.00) depending on the seriousness of the violation.
 
 ## Section 122
 
@@ -1050,7 +1050,7 @@ The Fund shall be exclusively utilized as follows:
 
 ## Section 20
 
-_Renumbering of the Remaining Chapters and Sections of Republic Act No. 8550._ – Sections 109 to 133 of Republic Act No. 8550 are hereby renumbered as Sections 143 to 167 accordingly.1âwphi1 Chapters VII, VIII and IX of the same Act are hereby renumbered as Chapter VIII, IX and X, respectively.
+_Renumbering of the Remaining Chapters and Sections of Republic Act No. 8550._ – Sections 109 to 133 of Republic Act No. 8550 are hereby renumbered as Sections 143 to 167 accordingly. Chapters VII, VIII and IX of the same Act are hereby renumbered as Chapter VIII, IX and X, respectively.
 
 ## Section 21
 

@@ -32,7 +32,7 @@ The San Roque National High School in Barangay San Roque, Municipality of Rosari
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.1aшphi1
+The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
 
 ## Section 3
 

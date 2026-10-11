@@ -28,6 +28,6 @@ The name of Talon Elementary School in Roxas City is hereby changed to Antonio V
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

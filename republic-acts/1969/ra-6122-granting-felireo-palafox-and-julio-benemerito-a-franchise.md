@@ -45,10 +45,10 @@ This franchise is granted subject to the provisions of the Constitution and Comm
 
 ## Section 6
 
-In consideration of this franchise the grantees shall pay a tax equivalent to five per cent (5%) of their gross income.1a⍵⍴h!1
+In consideration of this franchise the grantees shall pay a tax equivalent to five per cent (5%) of their gross income.
 
 ## Section 7
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969

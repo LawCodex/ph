@@ -46,7 +46,7 @@ Sections eighty-two and eighty-three of Republic Act Numbered Two hundred and ni
 
 "(c) Of the cities of Bacolod and San Pablo, four thousand eight hundred pesos;
 
-"(d) Of the cities of Cavite, Davao, Ormoc, Dagupan, Lipa and Zamboanga, and of other cities, four thousand two hundred pesos.1a⍵⍴h!1
+"(d) Of the cities of Cavite, Davao, Ormoc, Dagupan, Lipa and Zamboanga, and of other cities, four thousand two hundred pesos.
 
 "The annual salaries of the justices of the peace of the capitals of the provinces shall be as follows:
 

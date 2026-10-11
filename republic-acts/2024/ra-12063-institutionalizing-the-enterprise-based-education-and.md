@@ -341,7 +341,7 @@ _Reportorial Requirement._ \- Two (2) years after the effectivity of this Act an
 
 ## Section 35
 
-_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ## Section 36
 

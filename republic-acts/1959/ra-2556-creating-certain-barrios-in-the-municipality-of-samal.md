@@ -72,7 +72,7 @@ v. Tagbay as Barrio Tagbay;
 
 w. Tagbitanag as Barrio Tagbitanag; and
 
-x. Tagdaliao as Barrio Tagdaliao.1awp++i1
+x. Tagdaliao as Barrio Tagdaliao.
 
 ## Section 2
 

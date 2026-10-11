@@ -32,7 +32,7 @@ The following sitios in the Municipality of Hilongos, Province of Leyte, are con
 
 3\. The sitios of Campina and Matigbaw to be known as the barrio of Campina; and
 
-4\. The sitio of Magnangoy to be known as the barrio of Magnangoy.1âшphi1
+4\. The sitio of Magnangoy to be known as the barrio of Magnangoy.
 
 ## Section 2
 

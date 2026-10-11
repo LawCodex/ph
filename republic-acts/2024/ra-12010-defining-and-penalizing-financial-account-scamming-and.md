@@ -157,7 +157,7 @@ Any of the information gathered from the investigation or inquiry of a Financial
 
 The authority to investigate and inquire into Financial Accounts under this section shall be exercised by a duly authorized officer or body from the BSP.
 
-No court below the Court of Appeals shall have jurisdiction to enjoin the BSP from exercising its authority to investigate and inquire into any Financial Account under this Act.1aшphi1
+No court below the Court of Appeals shall have jurisdiction to enjoin the BSP from exercising its authority to investigate and inquire into any Financial Account under this Act.
 
 An Institution, or any of its directors, officers, or employees, shall be held free and harmless from any accountability or liability for any act done in compliance with an order from the BSP for an inquiry or investigation of a Financial Account.
 

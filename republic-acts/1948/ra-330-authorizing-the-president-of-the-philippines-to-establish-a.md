@@ -36,7 +36,7 @@ The President, upon recommendation of the Import Control Board, shall promulgate
 
 ## Section 4
 
-It shall be unlawful for any person, association, or corporation to import non-essential and luxury articles intended for resale into the Philippines without a permit from the President of the Philippines.£á⩊phi£
+It shall be unlawful for any person, association, or corporation to import non-essential and luxury articles intended for resale into the Philippines without a permit from the President of the Philippines.
 
 ## Section 5
 

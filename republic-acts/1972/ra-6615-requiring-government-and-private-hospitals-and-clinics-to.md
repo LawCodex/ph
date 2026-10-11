@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-All government and private hospitals or clinics duly licensed to operate as such are hereby required to render immediate emergency medical assistance and to provide facilities and medicine within its capabilities to patients in emergency cases who are in danger of dying and/or who may have suffered serious physical injuries.1âшphi1
+All government and private hospitals or clinics duly licensed to operate as such are hereby required to render immediate emergency medical assistance and to provide facilities and medicine within its capabilities to patients in emergency cases who are in danger of dying and/or who may have suffered serious physical injuries.
 
 ## Section 2
 

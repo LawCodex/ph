@@ -136,7 +136,7 @@ _Progress Report._ – The Administrator of the PAGASA shall prepare an annual r
 
 ## SECTION 13
 
-_Appropriations._ – The amount necessary to carry out the implementation of this Act shall be initially charged against the current fiscal year appropriations of the DOST – PAGASA. Thereafter, the amount needed for the continued implementation of the modernization program, shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ – The amount necessary to carry out the implementation of this Act shall be initially charged against the current fiscal year appropriations of the DOST – PAGASA. Thereafter, the amount needed for the continued implementation of the modernization program, shall be included in the annual General Appropriations Act.
 
 The above-stated amount may be augmented by grants, bequests, contributions and donations whether from local or foreign sources: Provided, That acceptance of grants, bequests, contributions and donations from foreign governments shall be subject to the approval of the President upon the recommendation of the Secretaries of the DOST and the Department of Foreign Affairs (DFA).
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Conversion into an Integrated School._ – The Alangilan Elementary School in Barangay Alangilan, Municipality of Sagay, Province of Camiguin is hereby converted into an integrated school to be known as Alangilan Integrated School.ℒαwρhi৷
+_Conversion into an Integrated School._ – The Alangilan Elementary School in Barangay Alangilan, Municipality of Sagay, Province of Camiguin is hereby converted into an integrated school to be known as Alangilan Integrated School.
 
 ## Section 2
 

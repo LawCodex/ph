@@ -29,7 +29,7 @@ The name of the Del Pilar Elementary School in Barangay Del Pilar, Municipality 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

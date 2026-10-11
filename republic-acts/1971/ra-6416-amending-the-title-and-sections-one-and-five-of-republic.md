@@ -38,7 +38,7 @@ Sections one and five of the same Act are here-y amended to read as follows:
 
 ## Section 3
 
-The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights, privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company, or corporation organized for the same purpose, without the approval and/or consent of the Congress of the Philippines.1âшphi1
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights, privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company, or corporation organized for the same purpose, without the approval and/or consent of the Congress of the Philippines.
 
 ## Section 4
 

@@ -39,7 +39,7 @@ The salary of the President of the University shall be in accordance with Republ
 
 ## Section 2
 
-_Transitory Provision._ \- In order to effect a smooth transition to a state university, the incumbent President of the Mountain Province State Polytechnic College shall serve as the first President of the University who shall not be eligible for reappointment.ℒαwρhi৷
+_Transitory Provision._ \- In order to effect a smooth transition to a state university, the incumbent President of the Mountain Province State Polytechnic College shall serve as the first President of the University who shall not be eligible for reappointment.
 
 ## Section 3
 

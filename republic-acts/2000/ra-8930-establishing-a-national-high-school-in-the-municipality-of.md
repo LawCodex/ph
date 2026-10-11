@@ -29,7 +29,7 @@ There is hereby established a national high school in the Municipality of Salced
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1a⍵⍴h!1
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

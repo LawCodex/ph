@@ -36,7 +36,7 @@ All the apparatus and appurtenances to be used by the grantee shall be modern, s
 
 ## Section 4
 
-This franchise shall continue for a period of twenty-five years from the date said plant and cold storage shall be placed in operation or shall commence the manufacture and distribution of ice in the Province of Rizal and the City of Manila and suburbs and is made subject to the express condition that the same shall be null and void unless the construction of said plant and cold storage be begun within four years from the date of the approval of this Act and completed within six years from said date, except when prevented by an act of God, or force majeure, martial law, riot, civil commotion, usurpation by military power or any other cause beyond the grantee's control.1âшphi1
+This franchise shall continue for a period of twenty-five years from the date said plant and cold storage shall be placed in operation or shall commence the manufacture and distribution of ice in the Province of Rizal and the City of Manila and suburbs and is made subject to the express condition that the same shall be null and void unless the construction of said plant and cold storage be begun within four years from the date of the approval of this Act and completed within six years from said date, except when prevented by an act of God, or force majeure, martial law, riot, civil commotion, usurpation by military power or any other cause beyond the grantee's control.
 
 ## Section 5
 

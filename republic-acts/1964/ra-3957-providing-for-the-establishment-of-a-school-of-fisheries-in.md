@@ -29,7 +29,7 @@ There shall be established under the direct supervision of the Director of Vocat
 
 ## Section 2
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

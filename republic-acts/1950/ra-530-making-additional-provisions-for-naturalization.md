@@ -32,7 +32,7 @@ After the finding mentioned in section one, the order of the court granting citi
 
 ## Section 3
 
-Such parts of Act Numbered Four hundred seventy-three as are inconsistent with the provisions of the present Act are hereby repealed.ℒαwρhi৷
+Such parts of Act Numbered Four hundred seventy-three as are inconsistent with the provisions of the present Act are hereby repealed.
 
 ## Section 4
 

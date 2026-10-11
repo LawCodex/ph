@@ -32,6 +32,6 @@ Sections three and four of Republic Act Numbered Thirteen hundred sixty-one are 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, **June 21, 1969.**

@@ -100,7 +100,7 @@ _Liability for Damages._ — The City and its officials shall not be exempt from
 
 _Jurisdiction of the City._ — The jurisdiction of the City of Tacurong, for police purposes only, shall be coextensive with its territorial jurisdiction and for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service.
 
-The regional trial courts and the city courts of the City of Tacurong shall have concurrent jurisdiction with the regional trial courts and the metropolitan trial courts or city or municipal trial courts of the adjoining municipalities to try crimes and misdemeanor committed within the said drainage area, or within said space of one hundred meters (100 m.). The court first taking jurisdiction of such offense shall thereafter retain exclusive jurisdiction thereof.ℒαwρhi৷ But any license that may be issued within said zone, area or spaces shall be granted by the proper authorities of the city or municipality concerned, and the fees arising therefrom shall accrue to the treasury of the said city or municipality.
+The regional trial courts and the city courts of the City of Tacurong shall have concurrent jurisdiction with the regional trial courts and the metropolitan trial courts or city or municipal trial courts of the adjoining municipalities to try crimes and misdemeanor committed within the said drainage area, or within said space of one hundred meters (100 m.). The court first taking jurisdiction of such offense shall thereafter retain exclusive jurisdiction thereof. But any license that may be issued within said zone, area or spaces shall be granted by the proper authorities of the city or municipality concerned, and the fees arising therefrom shall accrue to the treasury of the said city or municipality.
 
 ## ARTICLE II — CITY OFFICIALS IN GENERAL
 
@@ -1068,7 +1068,7 @@ d. Coordinate with government agencies and nongovernmental organizations in the 
 
 _The City Architect._ —
 
-A. The city architect must be a citizen of the Philippines, a resident of the City of Tacurong, of good moral character, and a duly licensed architect.⚖ - ℒαɯρhi৷ He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
+A. The city architect must be a citizen of the Philippines, a resident of the City of Tacurong, of good moral character, and a duly licensed architect. He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
 
 B. The city architect shall receive such compensation, emoluments and allowances as may be determined by law.
 

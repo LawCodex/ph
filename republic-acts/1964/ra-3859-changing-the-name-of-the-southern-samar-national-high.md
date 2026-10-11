@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Southern Samar National School of Arts and Trades in the Municipality of Guiuan, Province of Samar, is hereby changed to Southern Samar National Regional School of Arts and Trades.(awÞhi(
+The name of the Southern Samar National School of Arts and Trades in the Municipality of Guiuan, Province of Samar, is hereby changed to Southern Samar National Regional School of Arts and Trades.
 
 ## Section 2
 

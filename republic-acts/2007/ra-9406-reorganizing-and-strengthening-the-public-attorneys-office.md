@@ -125,7 +125,9 @@ New sections are hereby inserted in Chapter 5, Title III, Book IV of Executive O
 
 "The envelope or wrapper of the privileged mail matter shall bear on the left upper corner 'Public Attorney's Office' together with its address and on the right upper corner, the word 'Private or unauthorized use to avoid payment of postage is penalized by fine or imprisonment or both.'"
 
-**SEC. 7._Ratio of Public Attorney"s Position to an Organized Sala._** \- There shall be a corresponding number of public attorney's positions at the ratio of one public attorney to an organized sala and the corresponding administrative and support staff thereto.
+## SEC. 7
+
+_Ratio of Public Attorney"s Position to an Organized Sala._ \- There shall be a corresponding number of public attorney's positions at the ratio of one public attorney to an organized sala and the corresponding administrative and support staff thereto.
 
 ## SEC. 8
 
@@ -135,21 +137,35 @@ Sections 41 and 42, Chapter 10, Book I of the same Code, as amended, is hereby f
 
 "SEC. 42. _Duty to Administer Oaths._ \- Officers authorized to administer oaths, with the exception of notaries public, municipal judges and clerks of court, are not obliged to administer oaths or execute certificates save in matters of official business or in relation to their functions as such; and with the exception of notaries public, the officer performing the service in those matters shall charge no fee, unless specifically authorized by law."
 
-**SEC. 9._Grant of Special Allowances._** \- The Chief Public Attorney, the Deputy Chief Public Attorneys, the Regional Public Attorneys, the Provincial, City and Municipal District Public Attorneys, other PAO lawyers and officials who have direct supervision over PAO lawyers shall be granted special allowances in the amounts to be determined by the Secretary of the Department of Budyet and Management (DBM) and the Chief Public Attorney.
+## SEC. 9
+
+_Grant of Special Allowances._ \- The Chief Public Attorney, the Deputy Chief Public Attorneys, the Regional Public Attorneys, the Provincial, City and Municipal District Public Attorneys, other PAO lawyers and officials who have direct supervision over PAO lawyers shall be granted special allowances in the amounts to be determined by the Secretary of the Department of Budyet and Management (DBM) and the Chief Public Attorney.
 
 The grant of said special allowances shall not exceed one hundred percent (100%) of the basic salary of the PAO officials and lawyers as provided in the immediately preceding paragraph.
 
-**SEC. 10._Effects of Subsequent Salary Increases._** \- Upon the implementation of any subsequent increases in the salary rates provided under Republic Act No. 6758, as amended, all special allowances granted under Section 9 hereof shall be considered as an implementation of the said salary increases as may be provided by law. The special allowance equivalent to the increase in the basic salary as may be provided by law shall be converted as part of the basic salary.
+## SEC. 10
 
-**SEC. 11._Appropriations._** \- The amount necessary for the initial implementation of this Act shall be charged against the current fiscal year's appropriations under the budget of the PAO. Thereafter, such sums as may be necessary for the continued implementation of this act shall be included in the Annual General Appropriations Act.
+_Effects of Subsequent Salary Increases._ \- Upon the implementation of any subsequent increases in the salary rates provided under Republic Act No. 6758, as amended, all special allowances granted under Section 9 hereof shall be considered as an implementation of the said salary increases as may be provided by law. The special allowance equivalent to the increase in the basic salary as may be provided by law shall be converted as part of the basic salary.
 
-**SEC. 12._Implementing Rules and Regulations._** \- Within ninety (90) days from the approval of this Act, the DBM and PAO shall adopt and issue the rules and regulations for the effective implementation of this Act.
+## SEC. 11
 
-**SEC. 13._Repealing Clause._** \- All laws, executive orders, presidential decrees, presidential proclamations, letters of implementation, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Appropriations._ \- The amount necessary for the initial implementation of this Act shall be charged against the current fiscal year's appropriations under the budget of the PAO. Thereafter, such sums as may be necessary for the continued implementation of this act shall be included in the Annual General Appropriations Act.
 
-**SEC. 14._Separability Clause._** \- If any provision of this Act is declared invalid or unconstitutional, the provisions not affected thereby shall continue to be in full force and effect.
+## SEC. 12
 
-**SEC. 15._Effectivity._** \- This Act shall take effect upon its approval fifteen (15) days following its publication in the _Official Gazette_ or in two (2) newspaper of general circulation in the Philippines.
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the approval of this Act, the DBM and PAO shall adopt and issue the rules and regulations for the effective implementation of this Act.
+
+## SEC. 13
+
+_Repealing Clause._ \- All laws, executive orders, presidential decrees, presidential proclamations, letters of implementation, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 14
+
+_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the provisions not affected thereby shall continue to be in full force and effect.
+
+## SEC. 15
+
+_Effectivity._ \- This Act shall take effect upon its approval fifteen (15) days following its publication in the _Official Gazette_ or in two (2) newspaper of general circulation in the Philippines.
 
 Approved,
 

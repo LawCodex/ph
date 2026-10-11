@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Central Mindanao University-Barangay Development School in Balila, Lantapan, Province of Bukidnon, is hereby converted into a national high school to be known as the Lantapan National High School. The said school shall be under the supervision of the Department of Education, Culture and Sports.Ꮮαwρhi৷
+The Central Mindanao University-Barangay Development School in Balila, Lantapan, Province of Bukidnon, is hereby converted into a national high school to be known as the Lantapan National High School. The said school shall be under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

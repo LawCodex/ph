@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Lucban in the Municipality of Abulug, Province of Cagayan, is converted into a barrio of said municipality to be known as the barrio of Lucban.1âшphi1
+The sitio of Lucban in the Municipality of Abulug, Province of Cagayan, is converted into a barrio of said municipality to be known as the barrio of Lucban.
 
 ## Section 2
 

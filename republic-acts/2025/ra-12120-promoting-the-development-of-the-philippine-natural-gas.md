@@ -420,7 +420,7 @@ _Congestion Management._ \- Whenever a TPA Permit Holder is no longer able to us
 
 _Standards on Downstream Natural Gas Facilities._ \- All PDNGI Facilities shall be required to provide high quality and efficient service, observe stringent safety systems, accord attention to design details and structural integrity, and employ best practices in operation and maintenance. Regulations shall be consistent with both applicable Philippine and internationally accepted natural gas industry standards. The DOE shall ensure compliance with these requirements.
 
-Applications for DOE permits and for the continued operation of the PDNGI Facilities shall be subject to continuous compliance with these standards.ℒαwρhi৷
+Applications for DOE permits and for the continued operation of the PDNGI Facilities shall be subject to continuous compliance with these standards.
 
 ### Section 34
 
@@ -468,7 +468,7 @@ _Responsibilities of Permit Holders._ \- A Permit Holder shall have the followin
 
 (n) Not engage in anti-competitive behavior; and
 
-(o) Such other responsibilities mandated by the DOE to ensure the development of the PDNGI.ℒαwρhi৷
+(o) Such other responsibilities mandated by the DOE to ensure the development of the PDNGI.
 
 ## CHAPTER VI — INCENTIVES
 

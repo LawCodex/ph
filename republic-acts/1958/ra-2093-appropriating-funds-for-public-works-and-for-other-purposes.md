@@ -132,6 +132,6 @@ Reports.—Thirty days before the opening day of every regular session of Congre
 
 ## Section 20
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, July 7, 1958, except sections 15, 16 and 18 and the following provisions of subsection f, _Title_ M, section 1: "_Provided,_ That the various appropriations for the different projects under this subsection f shall, upon formal written request by the representative of the district where such project or projects are located, be partially or wholly allocated by the Secretary of the Department of Public Works and Communications to cover new or different projects as may be indicated by said representative in said written request: _Provided,_ further, That the same shall apply to community projects in Republic Acts Nos. 1613 and 1900."

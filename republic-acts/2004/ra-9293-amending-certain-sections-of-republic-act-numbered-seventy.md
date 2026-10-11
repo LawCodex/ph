@@ -72,11 +72,17 @@ Section 31 of the same Act is hereby amended to read as follows:
 
 References to the term "Department of Education, Culture and Sports", in Section 4 (a) and Section 25, and the term "DECS" in Section 20, of the same Act, are hereby amended to read as "Department of Education" DepEd", respectively.
 
-**Section 5._Separability Clause._** \- If, for any reason, any section or provision of this Act or the application of such section in provision to any person in circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.
+## Section 5
 
-**Section 6._Repealing Clause._** \- All laws, decrees, circulars, administrative orders, rules and regulations, and other issuances which are inconsistent with the provisions of this Act am hereby repealed or modified accordingly.
+_Separability Clause._ \- If, for any reason, any section or provision of this Act or the application of such section in provision to any person in circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.
 
-**Section 7._Effectivity._** – This Act shall take effect upon approval.
+## Section 6
+
+_Repealing Clause._ \- All laws, decrees, circulars, administrative orders, rules and regulations, and other issuances which are inconsistent with the provisions of this Act am hereby repealed or modified accordingly.
+
+## Section 7
+
+_Effectivity._ – This Act shall take effect upon approval.
 
 Approved,
 

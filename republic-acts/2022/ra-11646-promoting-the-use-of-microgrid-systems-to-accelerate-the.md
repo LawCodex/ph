@@ -268,7 +268,7 @@ Should the DU choose not to exercise its option, or should there be no distribut
 
 ## Section 18
 
-_Non-Disqualification from Extension of Franchise._ – The presence of an MGSP in the franchise area of a DU shall not disqualify the said DU from seeking a renewal of its Certificate of Public Convenience and Necessity from the ERC or an extension of the term of its franchise from Congress.ℒαwρhi৷
+_Non-Disqualification from Extension of Franchise._ – The presence of an MGSP in the franchise area of a DU shall not disqualify the said DU from seeking a renewal of its Certificate of Public Convenience and Necessity from the ERC or an extension of the term of its franchise from Congress.
 
 ## Section 19
 
@@ -326,7 +326,7 @@ _Congressional Oversight._ – The Joint Congressional Energy Commission (JCEC) 
 
 ## Section 26
 
-_Implementing Rules and Regulations._ – The DOE, in consultation with the appropriate government agencies mentioned herein and electric power industry stakeholders, shall issue the implementing rules and regulations of this Act within sixty (60) working days upon its effectivity.ᇈWᑭHIL
+_Implementing Rules and Regulations._ – The DOE, in consultation with the appropriate government agencies mentioned herein and electric power industry stakeholders, shall issue the implementing rules and regulations of this Act within sixty (60) working days upon its effectivity.
 
 ## Section 27
 

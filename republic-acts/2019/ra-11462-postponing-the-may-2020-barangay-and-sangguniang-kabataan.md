@@ -54,7 +54,7 @@ _Repealing Clause._ — All other laws, acts, presidential decrees, executive or
 
 ## Section 6
 
-_Separability Clause._ — If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.1âшphi1
+_Separability Clause._ — If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 7
 

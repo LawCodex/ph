@@ -70,7 +70,7 @@ _Warranty in Favor of the National and Local Governments._ \- The Grantee shall 
 
 ## Section 9
 
-_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and accept on-the-job trainees in the franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.ℒαwρhi৷
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and accept on-the-job trainees in the franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.
 
 The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission (SEC) annually.
 

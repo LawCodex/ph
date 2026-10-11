@@ -78,7 +78,7 @@ _Definition of Terms._ \- Whenever used in this Code, the following terms shall 
 
 (o) "Lapsed plan" refers to a plan that is delinquent in payment of installments provided for in the contract, the delinquency, of which extends beyond the grace period provided for in the plan or contract.
 
-(p) "Cancelled plan" refers to a plan that can no longer be reinstated by reason of delinquency in the payment of installments for more than two (2) years or a longer period as provided in the contract, counted from the expiry of the grace period provided for in the plan or contract.1avvphi1
+(p) "Cancelled plan" refers to a plan that can no longer be reinstated by reason of delinquency in the payment of installments for more than two (2) years or a longer period as provided in the contract, counted from the expiry of the grace period provided for in the plan or contract.
 
 (q) "Scheduled benefit plans" refers to plans the date of availment of the benefits of which is set at the inception or purchase of the plan.
 
@@ -124,7 +124,7 @@ _Powers and Functions of the Commission._ \- The Commission shall, at all times,
 
 (g) Impose sanctions, institute cases and/or prosecute offenders for violation of this Code, related laws, rules, regulations and orders issued pursuant thereto;
 
-(h) Suspend or revoke licenseslawph!l
+(h) Suspend or revoke licenses
 
 (i) Enlist the aid and support of and/or deputize any and all enforcement agencies of the government in the implementation of its powers and in the exercise of its functions under this Code;
 
@@ -158,7 +158,7 @@ _Paid-up Capital._ \- A pre-need company incorporated after the effectivity of t
 
 (b) Seventy - five million pesos (P75, 000,000.00) for companies selling two (2) types of plan; and
 
-(c) Fifty million pesos (P50, 000,000.00) for companies selling a single type of plan.1avvphi1
+(c) Fifty million pesos (P50, 000,000.00) for companies selling a single type of plan.
 
 Existing pre-need companies with traditional education plans shall have a minimum unimpaired paid-up capital of One hundred million pesos (P100, 000,000.00)
 

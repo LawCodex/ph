@@ -182,7 +182,7 @@ The Academic Council shall have the power to review and recommend the curricular
 
 ## Section 12
 
-_The Secretary of the College._ -The Board shall appoint a Secretary who shall serve as such for both the Board and the College, and who shall keep all records and proceedings of the Board in addition to other duties and responsibilities.1âшphi1 The Secretary shall serve upon each member of the Board the appropriate notice of Board meetings.
+_The Secretary of the College._ -The Board shall appoint a Secretary who shall serve as such for both the Board and the College, and who shall keep all records and proceedings of the Board in addition to other duties and responsibilities. The Secretary shall serve upon each member of the Board the appropriate notice of Board meetings.
 
 ## Section 13
 

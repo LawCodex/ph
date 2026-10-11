@@ -61,7 +61,7 @@ Within sixty (60) days from the effectivity of this Act, the Secretary of the De
 
 ## Section 6
 
-If any part or provision of this Act is subsequently declared invalid or unconstitutional, the remaining provisions not otherwise affected shall remain in full force and effect.ℒαwρhi৷
+If any part or provision of this Act is subsequently declared invalid or unconstitutional, the remaining provisions not otherwise affected shall remain in full force and effect.
 
 ## Section 7
 

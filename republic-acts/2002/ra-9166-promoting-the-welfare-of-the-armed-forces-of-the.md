@@ -32,7 +32,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 _State of Policy. –_ As provided in the 1987 Constitution, professionalism in the armed forces and adequate remuneration and benefits of its members shall be a prime concern of the State. Toward this end, the State shall develop implementing plans and programs to enhance professionalism in the Armed Forces of the Philippines (AFP) by improving the lot of its members.
 
-**Section 2.__** Pay Schedule. – In order to enhance the general welfare, commitment to service and professionalism of the members of the Armed Forces of the Philippines (AFP), the rate of base pay of officers and enlisted personnel shall be adjusted in accordance with the following schedule:
+## Section 2
+
+** Pay Schedule. – In order to enhance the general welfare, commitment to service and professionalism of the members of the Armed Forces of the Philippines (AFP), the rate of base pay of officers and enlisted personnel shall be adjusted in accordance with the following schedule:
 
 <table>
 <tr>

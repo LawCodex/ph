@@ -61,7 +61,7 @@ _Repealing and Amending Clause._ \- All enactments, legislative acts and rules a
 
 ## Section 5
 
-_Effectivity Clause._ \- This Act shall take effect upon its approval.1âшphi1
+_Effectivity Clause._ \- This Act shall take effect upon its approval.
 
 Approved,
 

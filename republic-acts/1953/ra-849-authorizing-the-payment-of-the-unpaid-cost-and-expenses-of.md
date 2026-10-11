@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In provinces, municipalities and municipal districts in which registration proceedings under Act Numbered Two thousand two hundred and fifty-nine, as amended, had been completed and the cost of registration proceedings and of the cadastral survey and monumenting had been determined and assessed on or before December eight, nineteen hundred and forty-one, the provinces, municipalities or municipal districts concerned may pay the obligation due from them and remaining unpaid, without penalty, if they pay said obligation within two years from the date of the approval of this Act.1a⍵⍴h!1
+In provinces, municipalities and municipal districts in which registration proceedings under Act Numbered Two thousand two hundred and fifty-nine, as amended, had been completed and the cost of registration proceedings and of the cadastral survey and monumenting had been determined and assessed on or before December eight, nineteen hundred and forty-one, the provinces, municipalities or municipal districts concerned may pay the obligation due from them and remaining unpaid, without penalty, if they pay said obligation within two years from the date of the approval of this Act.
 
 The owners of lots included in said cadastral proceedings shall have the same right as regards any unpaid amount assessed against their respective lots if they pay the same within the same period.
 

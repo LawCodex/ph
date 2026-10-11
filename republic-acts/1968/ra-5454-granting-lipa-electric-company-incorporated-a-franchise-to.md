@@ -34,7 +34,7 @@ In the event that the National Power Corporation shall have established its line
 
 ## Section 3
 
-In consideration of this franchise and the rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise, three per centum of which shall accrue to the National Government and two per centum to the municipality and city where the franchise is being operated.1avvphi1
+In consideration of this franchise and the rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise, three per centum of which shall accrue to the National Government and two per centum to the municipality and city where the franchise is being operated.
 
 ## Section 4
 

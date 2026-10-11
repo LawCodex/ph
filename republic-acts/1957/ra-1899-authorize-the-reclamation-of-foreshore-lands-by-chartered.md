@@ -44,7 +44,7 @@ Upon application by a municipality or chartered city to issue bonds, the Secreta
 
 ## Section 6
 
-All laws contracted, and bonds issued, under this Act shall be payable, both as to the principal and interests, in Philippine currency or in the currency in which the principal has been originally received, which fact shall be acknowledged on the face of the note or certificate accomplished therefor, free from any tax or other public impost arising from currency conversion, any existing law to the contrary notwithstanding.1avvphi1
+All laws contracted, and bonds issued, under this Act shall be payable, both as to the principal and interests, in Philippine currency or in the currency in which the principal has been originally received, which fact shall be acknowledged on the face of the note or certificate accomplished therefor, free from any tax or other public impost arising from currency conversion, any existing law to the contrary notwithstanding.
 
 ## Section 7
 

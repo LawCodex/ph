@@ -62,7 +62,7 @@ The Chief and Deputy Chief of the CIS shall have the power to administer oaths u
 
 ## Section 7
 
-All laws, parts of laws, rules and regulations inconsistent with the provisions of this Act are hereby repealed.1a⍵⍴h!1
+All laws, parts of laws, rules and regulations inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 8
 

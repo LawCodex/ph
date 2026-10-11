@@ -117,7 +117,7 @@ Information materials shall be given to all health personnel involved in materna
 
 ### Section 12
 
-_Information Dissemination to Pregnant Women._ —During the prenatal, perinatal and postnatal consultations and/or confinements of the mothers or pregnant women in a health institution, it shall be the obligation of the health institution and the health personnel to immediately and continuously teach, train, and support the women on current and updated lactation management and infant care, through participatory strategies such as organization of mothers' clubs and breastfeeding support groups and to distribute written information materials on such matters free of charge.1âшphi1
+_Information Dissemination to Pregnant Women._ —During the prenatal, perinatal and postnatal consultations and/or confinements of the mothers or pregnant women in a health institution, it shall be the obligation of the health institution and the health personnel to immediately and continuously teach, train, and support the women on current and updated lactation management and infant care, through participatory strategies such as organization of mothers' clubs and breastfeeding support groups and to distribute written information materials on such matters free of charge.
 
 ## CHAPTER IV — MISCELLANEOUS PROVISIONS
 

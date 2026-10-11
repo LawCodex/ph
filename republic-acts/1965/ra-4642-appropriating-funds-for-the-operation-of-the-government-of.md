@@ -31,7 +31,7 @@ _Appropriation of funds._ —The following sums, or so much thereof as may be ne
 
 ## Section 37
 
-_Effectivity_ date.—This Act shall take effect on July first, nineteen hundred and sixty-five, except where otherwise provided.1âшphi1
+_Effectivity_ date.—This Act shall take effect on July first, nineteen hundred and sixty-five, except where otherwise provided.
 
 Approved, August 11, 1965, with the following Presidential veto message:
 

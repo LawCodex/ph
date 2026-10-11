@@ -28,7 +28,7 @@ The sitio of Taritien in the Municipality of Aborlan, Province of Palawan, is co
 
 ## Section 2
 
-The sitio of Sibaring in Apo-Bugsuk Island in the Municipality of Balabac, same province, is separated from the barrio of Apo-Bugsuk Island and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Sibaring.1avvphi1 T he barrio of Sibaring shall be from and including the sitio of Balug-Bulugin to and including the sitio of Baring-Baringin.
+The sitio of Sibaring in Apo-Bugsuk Island in the Municipality of Balabac, same province, is separated from the barrio of Apo-Bugsuk Island and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Sibaring. T he barrio of Sibaring shall be from and including the sitio of Balug-Bulugin to and including the sitio of Baring-Baringin.
 
 ## Section 3
 

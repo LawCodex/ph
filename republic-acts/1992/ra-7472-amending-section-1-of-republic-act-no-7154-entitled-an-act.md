@@ -42,7 +42,7 @@ Eleven branches with seats thereat for the Province of La Union, with seats at S
 
 "Two branches with seats thereat for Mountain Province, with seats at Bontoc; and
 
-"Twenty-four branches with seats thereat at the province of Pangasinan and the Cities of Dagupan and San Carlos, with seats at Lingayen, Dagupan City, Urdaneta, Villasis, Tayug, Rosales, Alaminos, Burgos, and San Carlos City."1âшphi1
+"Twenty-four branches with seats thereat at the province of Pangasinan and the Cities of Dagupan and San Carlos, with seats at Lingayen, Dagupan City, Urdaneta, Villasis, Tayug, Rosales, Alaminos, Burgos, and San Carlos City."
 
 ## Section 2
 

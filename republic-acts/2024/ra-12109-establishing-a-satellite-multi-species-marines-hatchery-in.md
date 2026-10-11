@@ -31,7 +31,7 @@ There shall be established, under the supervision of the Bureau of Fisheries and
 
 ## Section 2
 
-Prior to the establishment of the satellite multi-species marine hatchery, the DA-BFAR shall conduct a full-scale feasibility study in support of its construction to comply with the requirements of the Department of Budget and Management.ℒαwρhi৷
+Prior to the establishment of the satellite multi-species marine hatchery, the DA-BFAR shall conduct a full-scale feasibility study in support of its construction to comply with the requirements of the Department of Budget and Management.
 
 Within two (2) years after the construction of the satellite multi-species marine hatchery, the DA-BFAR, through a memorandum of agreement, shall transfer the management of the same to the local government of the Municipality of Minalabac. The DA-BFAR shall implement a training and phasing-in program for the local government personnel on the management and operation of the satellite multi-species marine hatchery.
 

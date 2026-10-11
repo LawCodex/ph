@@ -60,7 +60,7 @@ b. On the second year and every year thereafter:
 
 2\. forty percent (40%) of the total capital outlay allocated only among those legislative districts with classroom shortages, as defined in Section 3 (b), pro-rata to the total classroom shortage of the country pursuant to Section 3(b) as determined by the DECS; and
 
-3\. ten percent (10%) to be allocated in accordance with the implementation of the policy of this Act as may be determined by the DECS.1aшphi1
+3\. ten percent (10%) to be allocated in accordance with the implementation of the policy of this Act as may be determined by the DECS.
 
 ## Section 5
 
@@ -84,7 +84,7 @@ _Release of Capital Outlays._ \- The appropriation herein provided for the const
 
 ## Section 10
 
-_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.1aшphi1
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.
 
 ## Section 11
 

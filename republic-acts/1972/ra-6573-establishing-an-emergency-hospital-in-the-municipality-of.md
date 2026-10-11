@@ -28,7 +28,7 @@ There is hereby established in the Municipality of Balasan, Province of Iloilo, 
 
 ## Section 2
 
-The sum of three hundred thousand pesos authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintainance of said hospital during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of three hundred thousand pesos authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintainance of said hospital during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

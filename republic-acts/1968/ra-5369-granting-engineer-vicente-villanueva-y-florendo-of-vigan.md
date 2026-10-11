@@ -42,7 +42,7 @@ All apparatus and appurtenances to be used by the grantee shall be modern, safe 
 
 ## Section 5
 
-If the grantee shall not commence the generation of electricity, and the manufacture and distribution of ice and electricity in the Province of Ilocos Sur, within two years from the approval of this Act, unless prevented by an Act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall be null and void.1avvphi1
+If the grantee shall not commence the generation of electricity, and the manufacture and distribution of ice and electricity in the Province of Ilocos Sur, within two years from the approval of this Act, unless prevented by an Act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall be null and void.
 
 ## Section 6
 

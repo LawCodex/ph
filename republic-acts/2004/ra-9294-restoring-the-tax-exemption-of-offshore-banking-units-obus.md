@@ -41,7 +41,9 @@ Section 27, paragraph (D) (3) of the National Internal Revenue Code, as amended,
 
 "Any income of nonresidents, whether individuals or corporations, from transactions with depository banks under the expanded system shall be exempt from income tax."
 
-**Section 2.__** Section 28, paragraph (A)(4) and (A)(7)(b) of the same Code are hereby amended to read as follows:
+## Section 2
+
+** Section 28, paragraph (A)(4) and (A)(7)(b) of the same Code are hereby amended to read as follows:
 
 "Sec. 28. _Rates of Income Tax on Foreign Corporations._ -
 

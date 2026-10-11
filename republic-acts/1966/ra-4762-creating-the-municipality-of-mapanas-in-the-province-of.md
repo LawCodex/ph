@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Mapanas, Magtaon, Magsaysay, Jubasan, Quezon, San Jose and Siljagon in the Municipality of Gamay, Province of Samar, are separated from said municipality and constituted into a distinct and independent municipality to be known as the Municipality of Mapanas, same province.1avvphi1 The seat of government of the municipality shall be in the site of the barrio of Mapanas.
+Barrios Mapanas, Magtaon, Magsaysay, Jubasan, Quezon, San Jose and Siljagon in the Municipality of Gamay, Province of Samar, are separated from said municipality and constituted into a distinct and independent municipality to be known as the Municipality of Mapanas, same province. The seat of government of the municipality shall be in the site of the barrio of Mapanas.
 
 ## Section 2
 

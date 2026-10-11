@@ -40,7 +40,7 @@ The Provincial Government of Lanao del Norte, in coordination with the PSC, shal
 
 ## Section 3
 
-The construction, establishment and operation of the Lanao del Norte Sports Training Center shall be funded by the Provincial Government of Lanao del Norte and such funds as may be granted by the PSC or by the Office of the President. In addition, grants and endowments may be obtained from local or foreign sources intended for sports development.1âwphi1
+The construction, establishment and operation of the Lanao del Norte Sports Training Center shall be funded by the Provincial Government of Lanao del Norte and such funds as may be granted by the PSC or by the Office of the President. In addition, grants and endowments may be obtained from local or foreign sources intended for sports development.
 
 ## Section 4
 

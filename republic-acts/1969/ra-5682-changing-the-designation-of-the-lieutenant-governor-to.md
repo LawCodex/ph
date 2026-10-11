@@ -36,10 +36,10 @@ There are hereby created the positions of fiscal and division superintendent of 
 
 ## Section 4
 
-All Acts, executive orders and rules and regula­tions inconsistent with the provisions of this Act are hereby repealed or amended accordingly.1a⍵⍴h!1
+All Acts, executive orders and rules and regula­tions inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

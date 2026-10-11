@@ -53,7 +53,7 @@ The said corporation shall have perpetual succession, with power to sue and be s
 
 ## Section 4
 
-All persons of legal age and of good moral character and reputation, who are in sympathy with the purposes of the corporation, are eligible for active membership, upon unanimous approval of the Supreme Council in banc of a written application therefor duly endorsed by at least two active members of the corporation.1a⍵⍴h!1
+All persons of legal age and of good moral character and reputation, who are in sympathy with the purposes of the corporation, are eligible for active membership, upon unanimous approval of the Supreme Council in banc of a written application therefor duly endorsed by at least two active members of the corporation.
 
 ## Section 5
 

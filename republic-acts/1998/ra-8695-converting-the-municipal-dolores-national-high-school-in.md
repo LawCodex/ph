@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The municipal government-funded Dolores National High School in Barangay Talogtog, Municipality of Dolores, Province of Abra, is hereby converted, under the direct supervision of the Department of Education, Culture and Sports, into a nationally funded high school, to be known as the Rosalio Eduarte National High School.Ꮮαwρhi৷
+The municipal government-funded Dolores National High School in Barangay Talogtog, Municipality of Dolores, Province of Abra, is hereby converted, under the direct supervision of the Department of Education, Culture and Sports, into a nationally funded high school, to be known as the Rosalio Eduarte National High School.
 
 ## Section 2
 

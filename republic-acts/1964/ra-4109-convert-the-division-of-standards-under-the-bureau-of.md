@@ -29,7 +29,7 @@ The Division of Standards under the Bureau of Commerce is hereby converted into 
 
 ## Section 2
 
-The Bureau shall have as its head a Director of Standards and two Assistant Directors, one for technical matters and the other for administrative matters, who shall be appointed by the President of the Philippines with the consent of the Commission on Appointments.1âшphi1 There shall be in the Bureau such officials and employees to be appointed by the Secretary of Commerce and Industry as may be necessary to carry out the purpose of this Act: _Provided,_ That personnel of the Bureau whose duties and functions are technical in nature shall be exempt from the operation of the Wage and Position Classification Office.
+The Bureau shall have as its head a Director of Standards and two Assistant Directors, one for technical matters and the other for administrative matters, who shall be appointed by the President of the Philippines with the consent of the Commission on Appointments. There shall be in the Bureau such officials and employees to be appointed by the Secretary of Commerce and Industry as may be necessary to carry out the purpose of this Act: _Provided,_ That personnel of the Bureau whose duties and functions are technical in nature shall be exempt from the operation of the Wage and Position Classification Office.
 
 ## Section 3
 

@@ -72,6 +72,6 @@ The appropriation necessary for the plebiscite mentioned in Section three hereof
 
 ## Section 6
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

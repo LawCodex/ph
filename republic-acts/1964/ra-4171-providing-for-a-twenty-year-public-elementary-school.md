@@ -55,7 +55,7 @@ All unexpended balance, after the completion of the work authorized under this A
 
 ## Section 8
 
-It shall be unlawful for any public officer or employee to allocate, distribute, or release the funds for the construction of public elementary school buildings authorized under this Act in violation of Section three hereof.1âшphi1 Any public officer or employee violating any of the provisions of this section shall be punished by imprisonment for not more than one year and a fine of not more than five hundred pesos.
+It shall be unlawful for any public officer or employee to allocate, distribute, or release the funds for the construction of public elementary school buildings authorized under this Act in violation of Section three hereof. Any public officer or employee violating any of the provisions of this section shall be punished by imprisonment for not more than one year and a fine of not more than five hundred pesos.
 
 ## Section 9
 

@@ -104,7 +104,7 @@ _Reportorial Requirement._ \- The grantee shall submit an annual report to the C
 
 ## Section 20
 
-_Separability Clause._ \- If any section or provision of this act is declared unconstitutional or invalid, the other sections or provisions not affected thereby shall continue to be in force and effect.1aшphi1
+_Separability Clause._ \- If any section or provision of this act is declared unconstitutional or invalid, the other sections or provisions not affected thereby shall continue to be in force and effect.
 
 ## Section 21
 

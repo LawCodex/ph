@@ -32,7 +32,7 @@ Section eight, Republic Act Numbered Sixty-five, is hereby amended to read as fo
 
 "(2) Have preference to purchase public lands and Government-owned or managed agricultural farms or subdivisions, to obtain homesteads, concessions and franchises, and other privileges for the exploitation of the national resources which are permissible and made available by existing law or the like; and
 
-"(3) Have preference to purchase enemy and war surplus properties of any nature whatsoever which the Government may sell.1â#x0448;phi1
+"(3) Have preference to purchase enemy and war surplus properties of any nature whatsoever which the Government may sell.
 
 "The rights and privileges provided in paragraphs two and three of this section may be extended by the President, upon the recommendation of the Board, to Filipino officers and enlisted men who have served with the forces of Liberation of the United States Army in the Philippines or who have served elsewhere in the Army, Naval or Air Forces of the United States or of any allied nation during the war and have established their bona fide intention to be repatriated to or established in their homes in the Philippines and to veterans of Philippine revolutions against Spain and the United States.
 

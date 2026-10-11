@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Guadalupe Mabugnao Mainit Hot Springs in the Municipality of Carcar, Province of Cebu, is hereby declared a national park and tourist spot.1âшphi1
+The Guadalupe Mabugnao Mainit Hot Springs in the Municipality of Carcar, Province of Cebu, is hereby declared a national park and tourist spot.
 
 ## Section 2
 

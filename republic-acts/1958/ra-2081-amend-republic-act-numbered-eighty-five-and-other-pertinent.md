@@ -100,7 +100,7 @@ The loanable funds of the private development bank shall be invested in medium a
 
 ## Section 3
 
-Section four to seventeen of the same Act are hereby redesignated as Section fourteen to twenty-seven, respectively.1a⍵⍴h!1
+Section four to seventeen of the same Act are hereby redesignated as Section fourteen to twenty-seven, respectively.
 
 ## Section 4
 

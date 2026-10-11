@@ -29,17 +29,29 @@ AN ACT AMENDING FIXING THE DATE OR REGULAR ELECTIONS FOR ELECTIVE OFFICIALS OF T
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Date of Election._** – The regular election fro regional Governor and Regional Vice Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao (ARMM) shall be held on the second Monday of August 2005. Succeeding regular elections shall be held on the same date every three years thereafter.
+## Section 1
 
-**Sec. 2._Term of Office._** – The term of office of the Regional Governor, Regional Vice-Governor and Members of the Regional Legislative Assembly of the ARMM shall be for a period of three years, which shall commence at noon on the thirtieth (30th) day of September 2005 and shall end at noon of the same date three years thereafter.
+_Date of Election._ – The regular election fro regional Governor and Regional Vice Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao (ARMM) shall be held on the second Monday of August 2005. Succeeding regular elections shall be held on the same date every three years thereafter.
 
-**Sec. 3._Hold-over._** – All incumbent elective officials of the ARMM elected in the first regular election under Republic Act. No. 9054 and Republic Act. No. 9140 shall hold office, in an hold-over capacity, until their successor shall have been elected and qualified.
+## Sec. 2
 
-**Sec. 4._Rules and Regulations._** – The Commission on Elections shall promulgate the necessary rules and regulations to carry out the purpose of this Act.
+_Term of Office._ – The term of office of the Regional Governor, Regional Vice-Governor and Members of the Regional Legislative Assembly of the ARMM shall be for a period of three years, which shall commence at noon on the thirtieth (30th) day of September 2005 and shall end at noon of the same date three years thereafter.
 
-**Sec. 5._Repealing Clause._** \- All laws, decrees, orders, rules and regulations, and other issuances or parts thereof which are inconsistent with this Act, are hereby repealed, amended and modified accordingly.
+## Sec. 3
 
-**Sec. 7._Effectivity Clause._** – This Act shall take effect immediately upon the completion of its publication in at least one newspaper of general circulation.
+_Hold-over._ – All incumbent elective officials of the ARMM elected in the first regular election under Republic Act. No. 9054 and Republic Act. No. 9140 shall hold office, in an hold-over capacity, until their successor shall have been elected and qualified.
+
+## Sec. 4
+
+_Rules and Regulations._ – The Commission on Elections shall promulgate the necessary rules and regulations to carry out the purpose of this Act.
+
+## Sec. 5
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations, and other issuances or parts thereof which are inconsistent with this Act, are hereby repealed, amended and modified accordingly.
+
+## Sec. 7
+
+_Effectivity Clause._ – This Act shall take effect immediately upon the completion of its publication in at least one newspaper of general circulation.
 
 Approved,
 

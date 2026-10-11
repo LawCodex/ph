@@ -82,7 +82,7 @@ The Board shall elect from among themselves a chairman. A majority of the Board 
 
 _Management of local parks-Rides._ -The Board of Park Commissioners shall have the management and control of public parks, pleasure grounds and parkways of the province, city, municipality, or municipal district therein it is appointed. It shall establish necessary rules and regulations not in conflict with law or the ordinances of the city, municipality or municipal district for the proper supervision and use of such parks, pleasure grounds and parkways and shall have such additional powers relating thereto as may be prescribed by resolution of the provincial board or ordinance by the city, municipal, or municipal district council. The provincial board, city, municipal, or municipal district council concerned by resolution or ordinance, provide for the enforcement of the rules and regulations promulgated by the board of Park Commissioners. The Board may appoint a park caretaker, who shall be a practical landscape gardener and who shall, under the direction of the Board, have active charge, control and direction of all the parks, pleasure grounds or parkways under the control of said Board and perform such other duties as may be required by the Board.
 
-The provincial board, city, municipal, or municipal district council, as the case may be, shall provide for the salary of the park caretaker and the secretary to the Board of Park Commissioners.1aшphi1
+The provincial board, city, municipal, or municipal district council, as the case may be, shall provide for the salary of the park caretaker and the secretary to the Board of Park Commissioners.
 
 ## Section 11
 

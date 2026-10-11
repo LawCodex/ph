@@ -291,7 +291,7 @@ _International Cooperation and Assistance._ -
 
 (1) The nature, quantity, and utilization of scheduled chemicals or their precursors and related technologies, the places of consignment and the names of the consignees for such scheduled chemicals, precursors, or related technologies; and
 
-(2) Persons taking part in the production, delivery, or brokerage of the schedules chemicals, precursors, or technologies in subparagraph (1) herein.ℒαwρhi৷
+(2) Persons taking part in the production, delivery, or brokerage of the schedules chemicals, precursors, or technologies in subparagraph (1) herein.
 
 (d) If a foreign State has entered into an appropriate reciprocity agreement with the Philippines, the ATC, on its own initiative or on request, may provide that State with the data or information described in paragraph (c) herein, as long as the other competent State authority provides assurances that such data or information shall only be used:
 

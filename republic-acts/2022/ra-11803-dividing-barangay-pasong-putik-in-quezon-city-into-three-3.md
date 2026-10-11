@@ -64,7 +64,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Incumbent Barangay Officials._ \- The incumbent barangay officials of Barangay Pasong Putik Proper, Greater Lagro and North Fairview shall continue to hold office until such time that their successors have been duly elected and qualified.7!ᕼdMᗄ7
+_Incumbent Barangay Officials._ \- The incumbent barangay officials of Barangay Pasong Putik Proper, Greater Lagro and North Fairview shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

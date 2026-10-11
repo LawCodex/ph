@@ -349,13 +349,21 @@ Section 288 of the National Internal Revenue Code of 1997, as amended, is hereby
 
 "The earmarking provided under this provision shall be observed for five (5) years starting from January 2005."
 
-**SEC. 8._Implementing Rules and Regulations._** \- The Secretary of Finance shall, upon the recommendation of the Commissioner of Internal Revenue, promulgate the necessary rules and regulations for the effective implementation of this Act.
+## SEC. 8
 
-**SEC. 9._Separability Clause._** \- If any of the provisions of this Act is declared invalid by a competent court, the remainder of this Act or any provision not affected by such declaration of invalidity shall remain in force and effect.
+_Implementing Rules and Regulations._ \- The Secretary of Finance shall, upon the recommendation of the Commissioner of Internal Revenue, promulgate the necessary rules and regulations for the effective implementation of this Act.
 
-**SEC. 10._Repealing Clause._** \- All laws, decrees, ordinances, rules and regulations, executive or administrative orders, and such other presidential issuances as are inconsistent with any of the provisions of this Act are hereby repealed, amended or otherwise modified accordingly.
+## SEC. 9
 
-**SEC. 11._Effeetiuity._** \- This Act shall take effect on January 1, 2005.
+_Separability Clause._ \- If any of the provisions of this Act is declared invalid by a competent court, the remainder of this Act or any provision not affected by such declaration of invalidity shall remain in force and effect.
+
+## SEC. 10
+
+_Repealing Clause._ \- All laws, decrees, ordinances, rules and regulations, executive or administrative orders, and such other presidential issuances as are inconsistent with any of the provisions of this Act are hereby repealed, amended or otherwise modified accordingly.
+
+## SEC. 11
+
+_Effeetiuity._ \- This Act shall take effect on January 1, 2005.
 
 Approved,
 

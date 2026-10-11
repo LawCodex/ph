@@ -75,7 +75,7 @@ The grantee, his successors or assigns, shall be subject to the corporation laws
 
 ## Section 13
 
-(a) This franchise shall not take effect nor shall any power thereunder be exercised by the grantee until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder and determined the stations to and from which each frequency and wave lengths may be used, and issued to the grantee a license for such use.1avvphi1 The Secretary of Public Works and Communications, in allotting to the grantee the frequencies and wave lengths referred to above, shall give due regard to the Government’s program of expanding its radio telecommunications.
+(a) This franchise shall not take effect nor shall any power thereunder be exercised by the grantee until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder and determined the stations to and from which each frequency and wave lengths may be used, and issued to the grantee a license for such use. The Secretary of Public Works and Communications, in allotting to the grantee the frequencies and wave lengths referred to above, shall give due regard to the Government’s program of expanding its radio telecommunications.
 
 (b) The Secretary of Public Works and Communications, on reasonable notice to the grantee, may at any time change, or cancel, or modify, in whole or in part, any or all of the allotments of frequencies or wave lengths to be used. He may take such action:
 

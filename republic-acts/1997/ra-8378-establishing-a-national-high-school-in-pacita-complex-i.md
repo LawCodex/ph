@@ -32,7 +32,7 @@ There shall be established a national high school in Pacita Complex I, Municipal
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to implement the provisions of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to implement the provisions of this Act.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ A national trade school to be known as the General Santos National Trade School,
 
 ## Section 2
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred seventy-one. Thereafter operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.1âшphi1
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred seventy-one. Thereafter operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

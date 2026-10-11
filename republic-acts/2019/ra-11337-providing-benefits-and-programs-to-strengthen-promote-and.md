@@ -212,7 +212,7 @@ This website shall at least have the following features:
 
 (b) Online inquiry, registration, application, and release of results for endorsements, and applications for programs, benefits, and incentives provided under this Act; and
 
-(c) Statistical information, annual reports, and studies pertinent to the implementation of this measure, and such other content in line with the goals and objectives of this Act.1âшphi1
+(c) Statistical information, annual reports, and studies pertinent to the implementation of this measure, and such other content in line with the goals and objectives of this Act.
 
 The DICT shall assist and coordinate with the relevant national government agencies, and local government units, in the development of a platform or feature to facilitate online applications for pertinent government issued documents such as, but not limited to permits, authorities, approvals, and certificates, which are necessary for the registration and operation of the startup and/or startup enabler.
 

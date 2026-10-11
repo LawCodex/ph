@@ -42,7 +42,7 @@ _Implementation._ – The Secretary of Education shall issue rules and regulatio
 
 ## Section 4
 
-_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._ 1âwphi1
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

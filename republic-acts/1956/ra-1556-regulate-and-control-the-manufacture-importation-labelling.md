@@ -24,7 +24,9 @@ Livestock and Poultry Feeds Act
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1. Thi** s Act shall be known as the "Livestock and Poultry Feeds Act."
+## Section 1
+
+Thi s Act shall be known as the "Livestock and Poultry Feeds Act."
 
 ## Section 2
 
@@ -62,11 +64,11 @@ _Definitions._ -For the purpose of this Act, the following terms shall mean:
 
 (n) "Concentrates" shall apply to no materials other than those known as concentrates, and shall include linseed meals, cotton-seed meals, pea meals, bean meals, peanut meals, coconut meals, gluten meals, velvet bean meals, soya bean meals, dried yeast grains, dried vinegar grains, corn germ meal, feeding molasses, gluten feeds, cotton seed feeds, maize feeds, velvet bean feeds, peanut feeds, dried distillers’ grains, dried brewers’ grains, malt sprout, hominy feeds, rice meals, corn and oat chops, corn feed meal, corn bran, corn and cob meals, wheat bran, wheat middlings, wheat feed, rye feed, rye middlings, buckwheat middlings and bucket wheat feed, ground beef or fish scraps, meat meals, meat and bone meals mixed, dried blood, milk by-products, mixed feeds, propriety or trade-marked stock and poultry feeds, and all other materials of a similar nature; but shall not include the materials defined in this article as roughages, the whole seed nor pure whole seed nor pure whole grains ground together nor the unmixed meals, made directly from the entire grains of wheat, rye, barley, oat, corn, buckwheat and boom corn, nor malt sprouts, when sold as such by the maltster at retail, nor ground or cracked bone not mixed with any other substance, nor shall it include poultry feeds consisting of whole or whole and cracked grains mixed together, with or without grit, oyster shells or charcoal, when all the ingredients may be identified by the naked eye.
 
-(o) "Roughages" shall include dried and ground hays and straws, dried and ground corn stalks or other parts of the corn plant not included in the grain, dried beet pulp, oat hulls, barley hulls, clipped oat by-product, sorghum plant by-products and flax plant by-products, cotton seed hulls, buckwheat hulls, cocoa shells, grain screenings or other materials of a similar character.1avvphi1 This shall not include whole ground grains not mixed with any other substances.
+(o) "Roughages" shall include dried and ground hays and straws, dried and ground corn stalks or other parts of the corn plant not included in the grain, dried beet pulp, oat hulls, barley hulls, clipped oat by-product, sorghum plant by-products and flax plant by-products, cotton seed hulls, buckwheat hulls, cocoa shells, grain screenings or other materials of a similar character. This shall not include whole ground grains not mixed with any other substances.
 
 ## Section 4
 
-_Registration._ -(a) Any person, partnership, firm, corporation or association desiring to engage in the manufacture, importation, sale or distribution of feeds or feeding stuffs shall first be registered in the Office of the Director.1âшphi1
+_Registration._ -(a) Any person, partnership, firm, corporation or association desiring to engage in the manufacture, importation, sale or distribution of feeds or feeding stuffs shall first be registered in the Office of the Director.
 
 (b) Applications for registration or annual renewal thereof, shall be made by the person, partnership, firm, corporation or association marketing, manufacturing, or importing such feeds or feeding stuffs, or by his accredited agent in such form and manner as may be prescribed from time to time by regulation.
 

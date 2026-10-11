@@ -38,7 +38,7 @@ _Repealing Clause. –_ All laws, decrees, executive orders, rules and regulatio
 
 ## Section 3
 
-_Effectivity. –_ This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.1âwphi1
+_Effectivity. –_ This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

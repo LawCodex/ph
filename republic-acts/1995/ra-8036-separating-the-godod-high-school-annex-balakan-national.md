@@ -36,7 +36,7 @@ The Department of Education, Culture and Sports shall issue such rules and regul
 
 ## Section 3
 
-All personnel, assets, liabilities, and records of the Godod High School (Annex) are hereby transferred to and absorbed by the Godod National High School.1aшphi1
+All personnel, assets, liabilities, and records of the Godod High School (Annex) are hereby transferred to and absorbed by the Godod National High School.
 
 ## Section 4
 

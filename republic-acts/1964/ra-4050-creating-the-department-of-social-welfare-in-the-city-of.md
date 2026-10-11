@@ -56,7 +56,7 @@ The same Act, as amended, is further amended by inserting a new article to be kn
 
 "Article XIV ½ — Department of Social Welfare
 
-"Sec. 80. A. _Department of Social Welfare._ -There shall be a Social Welfare Officer, with a salary of twelve thousand pesos per annum, who shall have charge of the Department of Social Welfare.1âшphi1 The following shall be his general powers and duties:
+"Sec. 80. A. _Department of Social Welfare._ -There shall be a Social Welfare Officer, with a salary of twelve thousand pesos per annum, who shall have charge of the Department of Social Welfare. The following shall be his general powers and duties:
 
 "(a) He shall have control and supervision over the social services of the city;
 

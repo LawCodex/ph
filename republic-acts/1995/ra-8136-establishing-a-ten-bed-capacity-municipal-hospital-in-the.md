@@ -32,7 +32,7 @@ There shall be established a ten-bed capacity municipal hospital in the Municipa
 
 ## Section 2
 
-The Department of Health, in consultation and coordination with the local government officials concerned, shall promulgate the rules and regulations necessary for the establishment of the hospital.1aшphi1
+The Department of Health, in consultation and coordination with the local government officials concerned, shall promulgate the rules and regulations necessary for the establishment of the hospital.
 
 ## Section 3
 

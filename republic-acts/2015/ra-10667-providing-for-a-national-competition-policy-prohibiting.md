@@ -595,7 +595,7 @@ Such funds necessary for the continuous and effective operation of the Commissio
 
 _Transparency Clause. —_ Final decisions, orders and rulings of the Commission shall be published on the official website subject to Section 34 of this Act.
 
-Records of public proceedings shall be made available to the public subject to Section 34 of this Act.1âwphi1
+Records of public proceedings shall be made available to the public subject to Section 34 of this Act.
 
 ### Section 53
 

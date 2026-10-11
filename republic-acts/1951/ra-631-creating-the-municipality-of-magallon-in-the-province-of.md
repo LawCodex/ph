@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Magallon, Odiong and Guinpanaan are hereby separated from the Municipality of Isabela and constituted into a new municipality, to be known as the Municipality of Magallon, Province of Negros Occidental, with the seat of government in the present site of the poblacion of Magallon.1a⍵⍴h!1
+The barrios of Magallon, Odiong and Guinpanaan are hereby separated from the Municipality of Isabela and constituted into a new municipality, to be known as the Municipality of Magallon, Province of Negros Occidental, with the seat of government in the present site of the poblacion of Magallon.
 
 ## Section 2
 

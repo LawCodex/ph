@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section four of Presidential Decree Numbered Four hundred twenty is amended to read as follows:
 
-"**Section 4.** _Membership of the Commission._ \- The Commission shall be composed of a chairman and six (6) members: _Provided,_ That of the (6) members, there shall be one (1) representative of the Racehorse Owners Association, one (1) representative of the Jockeys Association and one (1) representative of the Trainers Association. The Commissioners shall be appointed by the President of the Philippines."1âшphi1
+"**Section 4.** _Membership of the Commission._ \- The Commission shall be composed of a chairman and six (6) members: _Provided,_ That of the (6) members, there shall be one (1) representative of the Racehorse Owners Association, one (1) representative of the Jockeys Association and one (1) representative of the Trainers Association. The Commissioners shall be appointed by the President of the Philippines."
 
 ## Section 2
 

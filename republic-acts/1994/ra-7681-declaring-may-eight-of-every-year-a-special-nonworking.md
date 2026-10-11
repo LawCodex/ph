@@ -37,6 +37,6 @@ On May eight of every year, the municipal officials of Tolosa, Leyte, shall lead
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, February 23, 1994.

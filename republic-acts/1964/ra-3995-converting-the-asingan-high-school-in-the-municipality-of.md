@@ -29,7 +29,7 @@ The Asingan High School in the Municipality of Asingan, Province of Pangasinan, 
 
 ## Section 2
 
-The sum of two hundred fifty thousand pesos is hereby authorized to he appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five, for the purchase of a school site, tools and equipment, and for the constructions of its building or buildings.1âшphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred fifty thousand pesos is hereby authorized to he appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five, for the purchase of a school site, tools and equipment, and for the constructions of its building or buildings. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

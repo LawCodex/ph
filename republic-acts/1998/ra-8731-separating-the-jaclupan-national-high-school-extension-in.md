@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Jaclupan National High School Extension in Barangay Motion, Municipality of Talisay, Province of Cebu, is hereby separated from the Jaclupan National High School in the Municipality of Talisay, and converted into an independent national high school to be known as Mohon (Divino Amore) National High School.Ꮮαwρhi৷
+The Jaclupan National High School Extension in Barangay Motion, Municipality of Talisay, Province of Cebu, is hereby separated from the Jaclupan National High School in the Municipality of Talisay, and converted into an independent national high school to be known as Mohon (Divino Amore) National High School.
 
 ## Section 2
 

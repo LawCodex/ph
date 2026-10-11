@@ -35,11 +35,17 @@ Section 110 (B) of the National Internal Revenue Code of 1997, as amended, is he
 
 "_(B) Excess Output or Input Tax_ \- If at the end of any taxable quarter the output tax exceeds the input tax, the excess shall be paid by the VAT-registered person. If the input tax exceeds the output tax, the excess shall be carried over to the succeeding quarter or quarters: _Provided, however,_ that any input tax attributable to zero-rated sales by a VAT-registered person may at his option be refunded or credited against other internal revenue taxes, subject to the provisions of Section 112."
 
-**SEC. 2._Implementing Rules and Regulations._** \- The Secretary of Finance shall, upon the recommendation of the Commissioner of Internal Revenue, promulgate the necessary rules and regulations for the effective implementation of this Act.
+## SEC. 2
 
-**SEC. 3._Repealing Clause._** \- All laws, decrees, executive orders, rules and regulations or parts thereof of which are contrary to or inconsistent with this Act are hereby repealed, amended or modified accordingly.
+_Implementing Rules and Regulations._ \- The Secretary of Finance shall, upon the recommendation of the Commissioner of Internal Revenue, promulgate the necessary rules and regulations for the effective implementation of this Act.
 
-**SEC. 4._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any two newspapers of general circulation, whichever comes earlier.
+## SEC. 3
+
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations or parts thereof of which are contrary to or inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## SEC. 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any two newspapers of general circulation, whichever comes earlier.
 
 Approved,
 

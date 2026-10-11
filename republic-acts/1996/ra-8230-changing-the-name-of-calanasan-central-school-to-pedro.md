@@ -33,4 +33,4 @@ The Calanasan Central School in the Municipality of Calanasan, Province of Apaya
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on November 10, 1996 without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution.1aшphi1
+Approved, Lapsed into law on November 10, 1996 without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution.

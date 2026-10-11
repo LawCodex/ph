@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in Sorsogon City, Pr
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Class "B" LTO District Office in Sorsogon City, Province of Sorsogon, the initial funding of which shall be charged against the current year's appropriation of the said office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Class "B" LTO District Office in Sorsogon City, Province of Sorsogon, the initial funding of which shall be charged against the current year's appropriation of the said office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

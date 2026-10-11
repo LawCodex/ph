@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Can-Avid Agricultural College in the Municipality of Can-Avid, Province of Eastern Samar, is hereby changed to Can-Avid National Agricultural College.1âшphi1
+The name of the Can-Avid Agricultural College in the Municipality of Can-Avid, Province of Eastern Samar, is hereby changed to Can-Avid National Agricultural College.
 
 ## Section 2
 

@@ -28,13 +28,21 @@ AN ACT TO IMPROVE EFFICIENCY IN THE DELIVERY OF GOVERNMENT SERVICE TO THE PUBLIC
 
 _Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled_ :
 
-**SECTION 1._Short Title._** \- This Act shall be known as the "**Anti-Red Tape Act of 2007** ".
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It is hereby declared the policy of the State to promote integrity, accountability, proper management of public affairs and public property as well as to establish effective practices aimed at the prevention of graft and corruption in government. Towards this end, the State shall maintain honesty and responsibility among its public officials and employees, and shall take appropriate measures to promote transparency in each agency with regard to the manner of transacting with the public, which shall encompass a program for the adoption of simplified procedures that will reduce red tape and expedite transactions in government.
+_Short Title._ \- This Act shall be known as the "**Anti-Red Tape Act of 2007** ".
 
-**SEC. 3._Coverage._** \- This Act shall apply to all government offices and agencies including local government units and government-owned or -controlled corporations that provide frontline services as defined in this Act. Those performing judicial, quasi-judicial and legislative functions are excluded from the coverage of this Act.
+## SEC. 2
 
-**SEC. 4._Definition of Terms._** \- As used in this Act, the following terms are defined as follows:
+_Declaration of Policy._ \- It is hereby declared the policy of the State to promote integrity, accountability, proper management of public affairs and public property as well as to establish effective practices aimed at the prevention of graft and corruption in government. Towards this end, the State shall maintain honesty and responsibility among its public officials and employees, and shall take appropriate measures to promote transparency in each agency with regard to the manner of transacting with the public, which shall encompass a program for the adoption of simplified procedures that will reduce red tape and expedite transactions in government.
+
+## SEC. 3
+
+_Coverage._ \- This Act shall apply to all government offices and agencies including local government units and government-owned or -controlled corporations that provide frontline services as defined in this Act. Those performing judicial, quasi-judicial and legislative functions are excluded from the coverage of this Act.
+
+## SEC. 4
+
+_Definition of Terms._ \- As used in this Act, the following terms are defined as follows:
 
 (a) "_Simple Transactions_ " refer to requests or applications submitted by clients of a government office or agency which only require ministerial actions on the part of the public officer or employee, or that which present only inconsequential issues for the resolution by an officer or employee of said government office.
 
@@ -52,7 +60,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 **SEC. 5 _Reengineering of Systems and Procedures._** \- All offices and agencies which provide frontline services are hereby mandated to regularly undertake time and motion studies, undergo evaluation and improvement of their transaction systems and procedures and re-engineer the same if deemed necessary to reduce bureaucratic red tape and processing time.
 
-**SEC. 6._Citizen's Charter._** \- All government agencies including departments, bureaus, offices, instrumentalities, or government-owned and/or controlled corporations, or local government or district units shall set up their respective service standards to be known as the Citizen's Charter in the form of information billboards which should be posted at the main entrance of offices or at the most conspicuous place, and in the form of published materials written either in English, Filipino, or in the local dialect, that detail:
+## SEC. 6
+
+_Citizen's Charter._ \- All government agencies including departments, bureaus, offices, instrumentalities, or government-owned and/or controlled corporations, or local government or district units shall set up their respective service standards to be known as the Citizen's Charter in the form of information billboards which should be posted at the main entrance of offices or at the most conspicuous place, and in the form of published materials written either in English, Filipino, or in the local dialect, that detail:
 
 (a) The procedure to obtain a particular service;
 
@@ -66,9 +76,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (f) The procedure for filing complaints.
 
-**SEC. 7._Accountability of the Heads of Offices and Agencies._** \- The head of the office or agency shall be primarily responsible for the implementation of this Act and shall be held accountable to the public in rendering fast, efficient, convenient and reliable service. All transactions and processes are deemed to have been made with the permission or clearance from the highest authority having jurisdiction over the government office or agency concerned.
+## SEC. 7
 
-**SEC. 8._Accessing Frontline Services._** \- The following shall be adopted by all government offices and agencies:
+_Accountability of the Heads of Offices and Agencies._ \- The head of the office or agency shall be primarily responsible for the implementation of this Act and shall be held accountable to the public in rendering fast, efficient, convenient and reliable service. All transactions and processes are deemed to have been made with the permission or clearance from the highest authority having jurisdiction over the government office or agency concerned.
+
+## SEC. 8
+
+_Accessing Frontline Services._ \- The following shall be adopted by all government offices and agencies:
 
 (a) Acceptance of Applications and Request - (1) All officers or employees shall accept written applications, requests, and/or documents being submitted by clients of the office or agencies.
 
@@ -90,15 +104,21 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (g) Establishment of Public Assistance/Complaints Desk - Each office or agency shall establish a public assistance/complaints desk in all their offices.
 
-**SEC. 9._Automatic Extension of Permits and Licenses._** \- - If a government office or agency fails to act on an application and/or request for renewal of a license, permit or authority subject for renewal within the prescribed period, said permit, license or authority shall automatically be extended until a decision or resolution is rendered on the application for renewal: _Provided_ , That the automatic extension shall not apply when the permit, license, or authority covers activities which pose danger to public health, public safety, public morals or to public policy including, but not limited to, natural resource extraction activities.
+## SEC. 9
 
-**SEC. 10._Report Card Survey._** \- All offices and agencies providing frontline services shall be subjected to a Report Card Survey to be initiated by the Civil Service Commission, in coordination with the Development Academy of the Philippines, which shall be used to obtain feedback on how provisions in the Citizen's Charter are being followed and how the agency is performing.
+_Automatic Extension of Permits and Licenses._ \- - If a government office or agency fails to act on an application and/or request for renewal of a license, permit or authority subject for renewal within the prescribed period, said permit, license or authority shall automatically be extended until a decision or resolution is rendered on the application for renewal: _Provided_ , That the automatic extension shall not apply when the permit, license, or authority covers activities which pose danger to public health, public safety, public morals or to public policy including, but not limited to, natural resource extraction activities.
+
+## SEC. 10
+
+_Report Card Survey._ \- All offices and agencies providing frontline services shall be subjected to a Report Card Survey to be initiated by the Civil Service Commission, in coordination with the Development Academy of the Philippines, which shall be used to obtain feedback on how provisions in the Citizen's Charter are being followed and how the agency is performing.
 
 The Report Card Survey shall also be used to obtain information and/or estimates of hidden costs incurred by clients to access frontline services which may include, but is not limited to, bribes and payment to fixers.
 
 A feedback mechanism shall be established in all agencies covered by this Act and the results thereof shall be incorporated in their annual report.
 
-**SEC. 11._Violations._** \- After compliance with the substantive and procedural due process, the following shall constitute violations of this Act together with their corresponding penalties:
+## SEC. 11
+
+_Violations._ \- After compliance with the substantive and procedural due process, the following shall constitute violations of this Act together with their corresponding penalties:
 
 (a) Light Offense - (1) Refusal to accept application and/or request within the prescribed period or any document being submitted by a client;
 
@@ -124,13 +144,21 @@ Third Offense - Dismissal and perpetual disqualification from public service.
 
 Penalty - Dismissal and perpetual disqualification from public service.
 
-**SEC. 12._Criminal Liability for Fixers._** \- In addition to Sec. 11 (b) , fixers, as defined in this Act, shall suffer the penalty of imprisonment not exceeding six years or a fine not less than Twenty Thousand Pesos (P20,000.00) but not more than Two Hundred Thousand Pesos (P200,000.00) or both fine and imprisonment at the discretion of the court.
+## SEC. 12
 
-**SEC. 13._Civil and Criminal Liability, Not Barred._** \- The finding of administrative liability under this Act shall not be a bar to the filing of criminal, civil or other related charges under existing laws arising from the same act or omission as herein enumerated.
+_Criminal Liability for Fixers._ \- In addition to Sec. 11 (b) , fixers, as defined in this Act, shall suffer the penalty of imprisonment not exceeding six years or a fine not less than Twenty Thousand Pesos (P20,000.00) but not more than Two Hundred Thousand Pesos (P200,000.00) or both fine and imprisonment at the discretion of the court.
 
-**SEC. 14._Administrative Jurisdiction._** \- The administrative jurisdiction on any violation of the provisions of this Act shall be vested in either the Civil Service Commission (CSC) , the Presidential Anti-Graft Commission (PAGC) or the Office of the Ombudsman as determined by appropriate laws and issuances.
+## SEC. 13
 
-**SEC. 15._Immunity; Discharge of Co-Respondent/Accused to be a Witness._** \- Any public official or employee or any person having been charged with another under this Act and who voluntarily gives information pertaining to an investigation or who willingly testifies therefore, shall be exempt from prosecution in the case/s where his/her information and testimony are given. The discharge may be granted and directed by the investigating body or court upon the application or petition of any of the respondent/accused-informant and before the termination of the investigation: _Provided_ , That:
+_Civil and Criminal Liability, Not Barred._ \- The finding of administrative liability under this Act shall not be a bar to the filing of criminal, civil or other related charges under existing laws arising from the same act or omission as herein enumerated.
+
+## SEC. 14
+
+_Administrative Jurisdiction._ \- The administrative jurisdiction on any violation of the provisions of this Act shall be vested in either the Civil Service Commission (CSC) , the Presidential Anti-Graft Commission (PAGC) or the Office of the Ombudsman as determined by appropriate laws and issuances.
+
+## SEC. 15
+
+_Immunity; Discharge of Co-Respondent/Accused to be a Witness._ \- Any public official or employee or any person having been charged with another under this Act and who voluntarily gives information pertaining to an investigation or who willingly testifies therefore, shall be exempt from prosecution in the case/s where his/her information and testimony are given. The discharge may be granted and directed by the investigating body or court upon the application or petition of any of the respondent/accused-informant and before the termination of the investigation: _Provided_ , That:
 
 (a) There is absolute necessity for the testimony of the respondent/accused-informant whose discharge is requested;
 
@@ -144,13 +172,21 @@ Penalty - Dismissal and perpetual disqualification from public service.
 
 Evidence adduced in support of the discharge shall automatically form part of the records of the investigation. Should the investigating body or court deny the motion or request for discharge as a witness, his/her sworn statement shall be inadmissible as evidence.
 
-**SEC. 16._Implementing Rules and Regulations._** \- The Civil Service Commission in coordination with the Development Academy of the Philippines (DAP) , the Office of the Ombudsman and the Presidential Anti-Graft Commission (PAGC) , shall promulgate the necessary rules and regulations within ninety (90) days from the effectivity of this Act.
+## SEC. 16
 
-**SEC. 17._Separability Clause._** \- If any provision of this Act shall be declared invalid or unconstitutional, such declaration shall not affect the validity of the remaining provisions of this Act.
+_Implementing Rules and Regulations._ \- The Civil Service Commission in coordination with the Development Academy of the Philippines (DAP) , the Office of the Ombudsman and the Presidential Anti-Graft Commission (PAGC) , shall promulgate the necessary rules and regulations within ninety (90) days from the effectivity of this Act.
 
-**SEC. 18._Repealing Clause._** \- All provisions of laws, presidential decrees, letters of instruction and other presidential issuances which are incompatible or inconsistent with the provisions of this Act are hereby deemed amended or repealed.
+## SEC. 17
 
-**SEC. 19._Effectivity._** \- This Act shall take effect within fifteen (15) days following its publication in the _Official Gazette_ or in two (2) national newspapers of general circulation.
+_Separability Clause._ \- If any provision of this Act shall be declared invalid or unconstitutional, such declaration shall not affect the validity of the remaining provisions of this Act.
+
+## SEC. 18
+
+_Repealing Clause._ \- All provisions of laws, presidential decrees, letters of instruction and other presidential issuances which are incompatible or inconsistent with the provisions of this Act are hereby deemed amended or repealed.
+
+## SEC. 19
+
+_Effectivity._ \- This Act shall take effect within fifteen (15) days following its publication in the _Official Gazette_ or in two (2) national newspapers of general circulation.
 
 Approved,
 

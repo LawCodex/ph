@@ -32,7 +32,7 @@ The Montol National High School Annex is hereby separated from the Labo National
 
 ## Section 2
 
-The Department of Education, Culture and Sports (DECS) shall issue such rules and regulations as may be necessary for the effective implementation of this Act.1aшphi1
+The Department of Education, Culture and Sports (DECS) shall issue such rules and regulations as may be necessary for the effective implementation of this Act.
 
 ## Section 3
 

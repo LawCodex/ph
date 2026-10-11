@@ -48,7 +48,7 @@ Section seventy-three of Act Numbered Three thousand nine hundred and ninety-two
 
 "Sec. 73. _Disposal of money collected._ -Twenty per centum of the money collected under the provisions of this Act shall accrue to the road and bridge funds of the different provinces and chartered cities in proportion to population as shown in the latest available census; ten per centum shall accrue to the road and bridge funds of the different municipalities in proportion to population as shown in the latest available census for the repair, maintenance, and construction of municipal roads; and the remaining seventy per centum shall be deposited in the National Treasury to create a special fund for the construction and maintenance of national and provincial roads and bridges, as well as the streets and bridges in chartered cities to be allotted by the Secretary of Public Works and Communications for projects recommended by the Director of Public Works in the different provinces and chartered cities in the following proportion:
 
-"Twenty per cent in proportion to the combined length of first and second-class roads maintained throughout the next previous year.1aшphi1
+"Twenty per cent in proportion to the combined length of first and second-class roads maintained throughout the next previous year.
 
 "Ten per cent in proportion to land area.
 

@@ -962,7 +962,7 @@ _The City Veterinarian._ \- (a) The city veterinarian must be a citizen of the P
 
 _The City General Services Officer._ \- (a) The city general services officer must be a citizen ofthe Philippines, a resident of the City of Cabuyao, of good moral character, holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He or she must have acquired experience in general services, including the management of supply, property, solid waste disposal and general sanitation for at least five (5) years immediately preceding the date of his or her appointment.
 
-(b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined bylaw.1âwphi1
+(b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined bylaw.
 
 (c) The city general services officer shall take charge of the office of the general services, and shall:
 
@@ -1188,7 +1188,7 @@ _Plebiscite._ \- The City of Cabuyao shall acquire corporate existence upon the 
 
 ### Section 52
 
-_Officials of the City of Cabuyao._ \- The present elective officials of the Municipality of Cabuyao shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Cabuyao.1âwphi1
+_Officials of the City of Cabuyao._ \- The present elective officials of the Municipality of Cabuyao shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the city government of the City of Cabuyao.
 
 ### Section 53
 

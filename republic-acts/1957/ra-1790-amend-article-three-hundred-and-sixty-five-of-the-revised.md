@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Article three hundred and sixty-five of the Revised Penal Code is hereby amended, to read as follows:
 
-"Art. 365. _Imprudence and negligence._ — Any person who, by reckless imprudence, shall commit any act which, had it been intentional, would constitute a grave felony, shall suffer the penalty of arresto mayor in its maximum period to prision correccional in its medium period; if it would have constituted a less grave felony, the penalty of arresto mayor in its minimum and medium periods shall be imposed; if it would have constituted a light felony, the penalty of arresto menor in its maximum periodical shall be imposed.1âшphi1
+"Art. 365. _Imprudence and negligence._ — Any person who, by reckless imprudence, shall commit any act which, had it been intentional, would constitute a grave felony, shall suffer the penalty of arresto mayor in its maximum period to prision correccional in its medium period; if it would have constituted a less grave felony, the penalty of arresto mayor in its minimum and medium periods shall be imposed; if it would have constituted a light felony, the penalty of arresto menor in its maximum periodical shall be imposed.
 
 "Any person who, by simple imprudence or negligence, shall commit an act which would otherwise constitute a grave felony, shall suffer the penalty of arresto mayor in its medium and maximum periods; if it would have constituted a less serious felony, the penalty of arresto mayor in its minimum period shall be imposed.
 

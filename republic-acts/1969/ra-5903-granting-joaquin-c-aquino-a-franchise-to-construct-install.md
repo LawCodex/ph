@@ -48,7 +48,7 @@ No private property shall be taken for any purpose by the grantee of this franch
 
 ## Section 7
 
-The right is hereby reserved to the Government of the Philippines, thru the Public Service Commission or such other government agency as may hereafter be duly authorized, to fix the maximum rates or charges to be charged by the grantee.1âшphi1
+The right is hereby reserved to the Government of the Philippines, thru the Public Service Commission or such other government agency as may hereafter be duly authorized, to fix the maximum rates or charges to be charged by the grantee.
 
 ## Section 8
 

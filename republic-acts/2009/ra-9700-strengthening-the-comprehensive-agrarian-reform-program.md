@@ -405,7 +405,9 @@ Section 74 of Republic Act No. 6657, as amended, is hereby further amended to re
 
 "If the offender is a corporation or association, the officer responsible therefor shall be criminally liable."
 
-**Section 26._Congressional Oversight Committee._** \- A Congressional Oversight Committee on Agrarian Reform (COCAR) is hereby created to oversee and monitor the implementation of this Act. It shall be composed of the Chairpersons of the Committee on Agrarian Reform of both Houses of Congress, three (3) Members of the House of Representatives, and three (3) Members of the Senate of the Philippines, to be designated respectively by the Speaker of the House of Representatives and the President of the Senate of the Philippines.
+## Section 26
+
+_Congressional Oversight Committee._ \- A Congressional Oversight Committee on Agrarian Reform (COCAR) is hereby created to oversee and monitor the implementation of this Act. It shall be composed of the Chairpersons of the Committee on Agrarian Reform of both Houses of Congress, three (3) Members of the House of Representatives, and three (3) Members of the Senate of the Philippines, to be designated respectively by the Speaker of the House of Representatives and the President of the Senate of the Philippines.
 
 The Chairpersons of the Committees on Agrarian Reform of the House of Representatives and of the Senate of the Philippines shall be the Chairpersons of the COCAR. The Members shall receive no compensation; however, traveling and other necessary expenses shall be allowed.
 
@@ -413,7 +415,9 @@ In order to carry out the objectives of this Act, the COCAR shall be provided wi
 
 The term of the COCAR shall end six (6) months after the expiration of the extended period of five (5) years.
 
-**Section 27._Powers and Functions of the COCAR._** \- The COCAR shall have the following powers and functions:
+## Section 27
+
+_Powers and Functions of the COCAR._ \- The COCAR shall have the following powers and functions:
 
 (a) Prescribe and adopt guidelines which shall govern its work;
 
@@ -437,19 +441,33 @@ The term of the COCAR shall end six (6) months after the expiration of the exten
 
 (k) Exercise all the powers necessary and incidental to attain the purposes for which it is created.
 
-**Section 28._Periodic Reports._** \- The COCAR shall submit to the Speaker of the House of Representatives and to the President of the Senate of the Philippines periodic reports on its findings and recommendations on actions to be undertaken by both Houses of Congress, the DAR, and the PARC.
+## Section 28
 
-**Section 29._Access to Information._** \- Notwithstanding the provisions of Republic Act No. 1405 and other pertinent laws, information on the amount of just compensation paid to any landowner under Republic Act No. 6657, as amended, and other agrarian reform laws shall be deemed public information.
+_Periodic Reports._ \- The COCAR shall submit to the Speaker of the House of Representatives and to the President of the Senate of the Philippines periodic reports on its findings and recommendations on actions to be undertaken by both Houses of Congress, the DAR, and the PARC.
 
-**Section 30._Resolution of Case._** \- Any case and/or proceeding involving the implementation of the provisions of Republic Act No. 6657, as amended, which may remain pending on June 30, 2014 shall be allowed to proceed to its finality and be executed even beyond such date.
+## Section 29
 
-**Section 31._Implementing Rules and Regulations._** \- The PARC and the DAR shall provide the necessary implementing rules and regulations within thirty (30) days upon the approval of this Act. Such rules and regulations shall take effect on July 1, 2009 and it shall be published in at least two (2) newspapers of general circulation.
+_Access to Information._ \- Notwithstanding the provisions of Republic Act No. 1405 and other pertinent laws, information on the amount of just compensation paid to any landowner under Republic Act No. 6657, as amended, and other agrarian reform laws shall be deemed public information.
 
-**Section 32._Repealing Clause._** \- Section 53 of Republic Act No. 3844, otherwise known as the Agricultural Land Reform Code, is hereby repealed and all other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof inconsistent with this Act are hereby likewise repealed or amended accordingly.
+## Section 30
 
-**Section 33._Separability Clause._** \- If, for any reason, any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions not affected thereby shall remain in full force and effect.
+_Resolution of Case._ \- Any case and/or proceeding involving the implementation of the provisions of Republic Act No. 6657, as amended, which may remain pending on June 30, 2014 shall be allowed to proceed to its finality and be executed even beyond such date.
 
-**Section 34._Effectivity Clause._** \- This Act shall take effect on July 1,2009 and it shall be published in at least two (2) newspapers of general circulation.
+## Section 31
+
+_Implementing Rules and Regulations._ \- The PARC and the DAR shall provide the necessary implementing rules and regulations within thirty (30) days upon the approval of this Act. Such rules and regulations shall take effect on July 1, 2009 and it shall be published in at least two (2) newspapers of general circulation.
+
+## Section 32
+
+_Repealing Clause._ \- Section 53 of Republic Act No. 3844, otherwise known as the Agricultural Land Reform Code, is hereby repealed and all other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof inconsistent with this Act are hereby likewise repealed or amended accordingly.
+
+## Section 33
+
+_Separability Clause._ \- If, for any reason, any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions not affected thereby shall remain in full force and effect.
+
+## Section 34
+
+_Effectivity Clause._ \- This Act shall take effect on July 1,2009 and it shall be published in at least two (2) newspapers of general circulation.
 
 Approved,
 

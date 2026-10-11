@@ -37,7 +37,7 @@ All personnel, assets, liabilities and records of the Magtoma National High Scho
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the Biga National High School, the initial funding of which shall be charged against the current year’s appropriation of the Magtoma National High School – Dupligan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the Biga National High School, the initial funding of which shall be charged against the current year’s appropriation of the Magtoma National High School – Dupligan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

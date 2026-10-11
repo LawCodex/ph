@@ -61,7 +61,7 @@ _Promotion of Consumer Interests._ \- The herein Grantee shall establish a custo
 
 ## Section 8
 
-_Commitment to Provide and Promote the Creation of Employment Opportunities. ℒαwρhi৷_ \- The Grantee shall create employment opportunities and shall allow on-the-job training in their franchise operation: _Provided,_ That priority shall be accorded to the residents where their principal office is located: _Provided, further_ , That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations, and similar issuances.
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and shall allow on-the-job training in their franchise operation: _Provided,_ That priority shall be accorded to the residents where their principal office is located: _Provided, further_ , That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations, and similar issuances.
 
 ## Section 9
 

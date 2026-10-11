@@ -738,7 +738,7 @@ _The City Health Officer—His salary, powers, and duties._ \- There shall be in
 
 (a) He shall have general supervision over the health and sanitary conditions of the city.
 
-(b) He shall execute and enforce all laws, ordinances and regulations relating to the public health.1aшphi1
+(b) He shall execute and enforce all laws, ordinances and regulations relating to the public health.
 
 (c) He shall recommend to the Municipal Board the passage of such ordinance as he may deem necessary for the preservation of the public health.
 

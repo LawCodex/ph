@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of twenty-three million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional Counterpart Fund to carry out the purposes of Republic Act Numbered Six hundred and four.1âшphi1
+The sum of twenty-three million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional Counterpart Fund to carry out the purposes of Republic Act Numbered Six hundred and four.
 
 ## Section 2
 

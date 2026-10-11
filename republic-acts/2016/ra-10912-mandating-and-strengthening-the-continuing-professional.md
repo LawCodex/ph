@@ -194,9 +194,9 @@ _Role of Concerned Government Agencies and the Private Sector._ \- All concerned
 
 ### Section 14
 
-_Funding._ \- The implementation of the provisions of this Act shall be immediately included in the PRC programs, the funding of which shall be included in its annual submissions for inclusion in the annual General Appropriations Act.1avvphi1
+_Funding._ \- The implementation of the provisions of this Act shall be immediately included in the PRC programs, the funding of which shall be included in its annual submissions for inclusion in the annual General Appropriations Act.
 
-The funding requirement herein mentioned shall be used for the regular operations of the CPD Councils, including the monitoring of the conduct of the CPD Programs.1awp++i1
+The funding requirement herein mentioned shall be used for the regular operations of the CPD Councils, including the monitoring of the conduct of the CPD Programs.
 
 The PRC shall review and approve the proposed budget for each CPD Council, taking into consideration the reasonable expenses that will be incurred for travel, honorarium/allowances, and per diems, when attending official CPD Council meetings or performing other related functions assigned to them.
 

@@ -27,9 +27,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — Preliminary Chapter
 
-**Section 1._Title._** — This Act shall be known as the **_Comprehensive Agrarian Reform Law of 1988._**
+### Section 1
 
-**Section 2._Declaration of Principles and Policies._** — It is the policy of the State to pursue a Comprehensive Agrarian Reform Program (CARP). The welfare of the landless farmers and farmworkers will receive the highest consideration to promote social justice and to move the nation toward sound rural development and industrialization, and the establishment of owner cultivatorship of economic-size farms as the basis of Philippine agriculture.
+_Title._ — This Act shall be known as the **_Comprehensive Agrarian Reform Law of 1988._**
+
+### Section 2
+
+_Declaration of Principles and Policies._ — It is the policy of the State to pursue a Comprehensive Agrarian Reform Program (CARP). The welfare of the landless farmers and farmworkers will receive the highest consideration to promote social justice and to move the nation toward sound rural development and industrialization, and the establishment of owner cultivatorship of economic-size farms as the basis of Philippine agriculture.
 
 To this end, a more equitable distribution and ownership of land, with due regard to the rights of landowners to just compensation and to the ecological needs of the nation, shall be undertaken to provide farmers and farmworkers with the opportunity to enhance their dignity and improve the quality of their lives through greater productivity of agricultural lands.
 
@@ -51,7 +55,9 @@ The State shall provide incentives to landowners to invest the proceeds of the a
 
 The State may lease undeveloped lands of the public domain to qualified entities for the development of capital-intensive farms, and traditional and pioneering crops especially those for exports subject to the prior rights of the beneficiaries under this Act.
 
-**Section 3._Definitions._** — For the purpose of this Act, unless the context indicates otherwise:
+### Section 3
+
+_Definitions._ — For the purpose of this Act, unless the context indicates otherwise:
 
 (a) Agrarian Reform means redistribution of lands, regardless of crops or fruits produced, to farmers and regular farmworkers who are landless, irrespective of tenurial arrangement, to include the totality of factors and support services designed to lift the economic status of the beneficiaries and all other arrangements alternative to the physical redistribution of lands, such as production or profit-sharing, labor administration, and the distribution of shares of stocks, which will allow beneficiaries to receive a just share of the fruits of the lands they work.
 
@@ -79,7 +85,9 @@ It includes any controversy relating to compensation of lands acquired under thi
 
 ## CHAPTER II — Coverage
 
-**Section 4._Scope._** — The Comprehensive Agrarian Reform Law of 1989 shall cover, regardless of tenurial arrangement and commodity produced, all public and private agricultural lands, as provided in Proclamation No. 131 and Executive Order No. 229, including other lands of the public domain suitable for agriculture.
+### Section 4
+
+_Scope._ — The Comprehensive Agrarian Reform Law of 1989 shall cover, regardless of tenurial arrangement and commodity produced, all public and private agricultural lands, as provided in Proclamation No. 131 and Executive Order No. 229, including other lands of the public domain suitable for agriculture.
 
 More specifically the following lands are covered by the Comprehensive Agrarian Reform Program:
 
@@ -91,9 +99,13 @@ More specifically the following lands are covered by the Comprehensive Agrarian 
 
 (d) All private lands devoted to or suitable for agriculture regardless of the agricultural products raised or that can be raised thereon.
 
-**Section 5._Schedule of Implementation._** — The distribution of all lands covered by this Act shall be implemented immediately and completed within ten (10) years from the effectivity thereof.
+### Section 5
 
-**Section 6._Retention Limits._** — Except as otherwise provided in this Act, no person may own or retain, directly or indirectly, any public or private agricultural land, the size of which shall vary according to factors governing a viable family-size farm, such as commodity produced, terrain, infrastructure, and soil fertility as determined by the Presidential Agrarian Reform Council (PARC) created hereunder, but in no case shall retention by the landowner exceed five (5) hectares. Three (3) hectares may be awarded to each child of the landowner, subject to the following qualifications: (1) that he is at least fifteen (15) years of age; and (2) that he is actually tilling the land or directly managing the farm: provided, that landowners whose lands have been covered by Presidential Decree No. 27 shall be allowed to keep the areas originally retained by them thereunder: provided, further, that original homestead grantees or their direct compulsory heirs who still own the original homestead at the time of the approval of this Act shall retain the same areas as long as they continue to cultivate said homestead.
+_Schedule of Implementation._ — The distribution of all lands covered by this Act shall be implemented immediately and completed within ten (10) years from the effectivity thereof.
+
+### Section 6
+
+_Retention Limits._ — Except as otherwise provided in this Act, no person may own or retain, directly or indirectly, any public or private agricultural land, the size of which shall vary according to factors governing a viable family-size farm, such as commodity produced, terrain, infrastructure, and soil fertility as determined by the Presidential Agrarian Reform Council (PARC) created hereunder, but in no case shall retention by the landowner exceed five (5) hectares. Three (3) hectares may be awarded to each child of the landowner, subject to the following qualifications: (1) that he is at least fifteen (15) years of age; and (2) that he is actually tilling the land or directly managing the farm: provided, that landowners whose lands have been covered by Presidential Decree No. 27 shall be allowed to keep the areas originally retained by them thereunder: provided, further, that original homestead grantees or their direct compulsory heirs who still own the original homestead at the time of the approval of this Act shall retain the same areas as long as they continue to cultivate said homestead.
 
 The right to choose the area to be retained, which shall be compact or contiguous, shall pertain to the landowner: provided, however, that in case the area selected for retention by the landowner is tenanted, the tenant shall have the option to choose whether to remain therein or be a beneficiary in the same or another agricultural land with similar or comparable features.n case the tenant chooses to remain in the retained area, he shall be considered a leaseholder and shall lose his right to be a beneficiary under this Act.n case the tenant chooses to be a beneficiary in another agricultural land, he loses his right as a leaseholder to the land retained by the landowner. The tenant must exercise this option within a period of one (1) year from the time the landowner manifests his choice of the area for retention.
 
@@ -101,7 +113,9 @@ In all cases, the security of tenure of the farmers or farmworkers on the land p
 
 Upon the effectivity of this Act, any sale, disposition, lease, management, contract or transfer of possession of private lands executed by the original landowner in violation of the Act shall be null and void: provided, however, that those executed prior to this Act shall be valid only when registered with the Register of Deeds within a period of three (3) months after the effectivity of this Act. Thereafter, all Registers of Deeds shall inform the Department of Agrarian Reform (DAR) within thirty (30) days of any transaction involving agricultural lands in excess of five (5) hectares.
 
-**Section 7._Priorities._** — The Department of Agrarian Reform (DAR) in coordination with the Presidential Agrarian Reform Council (PARC) shall plan and program the acquisition and distribution of all agricultural lands through a period of ten (10) years from the effectivity of this Act. Lands shall be acquired and distributed as follows:
+### Section 7
+
+_Priorities._ — The Department of Agrarian Reform (DAR) in coordination with the Presidential Agrarian Reform Council (PARC) shall plan and program the acquisition and distribution of all agricultural lands through a period of ten (10) years from the effectivity of this Act. Lands shall be acquired and distributed as follows:
 
 Phase One: Rice and corn lands under Presidential Decree No. 27; all idle or abandoned lands; all private lands voluntarily offered by the owners for agrarian reform; all lands foreclosed by the government financial institutions; all lands acquired by the Presidential Commission on Good Government (PCGG); and all other lands owned by the government devoted to or suitable for agriculture, which shall be acquired and distributed immediately upon the effectivity of this Act, with the implementation to be completed within a period of not more than four (4) years;
 
@@ -121,7 +135,9 @@ In effecting the transfer within these guidelines, priority must be given to lan
 
 The PARC shall establish guidelines to implement the above priorities and distribution scheme, including the determination of who are qualified beneficiaries: provided, that an owner-tiller may be a beneficiary of the land he does not own but is actually cultivating to the extent of the difference between the area of the land he owns and the award ceiling of three (3) hectares.
 
-**Section 8._Multinational Corporations._** — All lands of the public domain leased, held or possessed by multinational corporations or associations, and other lands owned by the government or by government-owned or controlled corporations, associations, institutions, or entities, devoted to existing and operational agri-business or agro-industrial enterprises, operated by multinational corporations and associations, shall be programmed for acquisition and distribution immediately upon the effectivity of this Act, with the implementation to be completed within three (3) years.
+### Section 8
+
+_Multinational Corporations._ — All lands of the public domain leased, held or possessed by multinational corporations or associations, and other lands owned by the government or by government-owned or controlled corporations, associations, institutions, or entities, devoted to existing and operational agri-business or agro-industrial enterprises, operated by multinational corporations and associations, shall be programmed for acquisition and distribution immediately upon the effectivity of this Act, with the implementation to be completed within three (3) years.
 
 Lands covered by the paragraph immediately preceding, under lease, management, grower or service contracts, and the like, shall be disposed of as follows:
 
@@ -143,15 +159,21 @@ During the transition period, the new owners shall be assisted in their efforts 
 
 In no case shall a foreign corporation, association, entity or individual enjoy any rights or privileges better than those enjoyed by a domestic corporation, association, entity or individual.
 
-**Section 9._Ancestral Lands._** — For purposes of this Act, ancestral lands of each indigenous cultural community shall include, but not be limited to, lands in the actual, continuous and open possession and occupation of the community and its members: provided, that the Torrens Systems shall be respected.
+### Section 9
+
+_Ancestral Lands._ — For purposes of this Act, ancestral lands of each indigenous cultural community shall include, but not be limited to, lands in the actual, continuous and open possession and occupation of the community and its members: provided, that the Torrens Systems shall be respected.
 
 The right of these communities to their ancestral lands shall be protected to ensure their economic, social and cultural well-being.n line with the principles of self-determination and autonomy, the systems of land ownership, land use, and the modes of settling land disputes of all these communities must be recognized and respected.
 
 Any provision of law to the contrary notwithstanding, the PARC may suspend the implementation of this Act with respect to ancestral lands for the purpose of identifying and delineating such lands: provided, that in the autonomous regions, the respective legislatures may enact their own laws on ancestral domain subject to the provisions of the Constitution and the principles enunciated in this Act and other national laws.
 
-**Section 10._Exemptions and Exclusions._** — Lands actually, directly and exclusively used and found to be necessary for parks, wildlife, forest reserves, reforestation, fish sanctuaries and breeding grounds, watersheds, and mangroves, national defense, school sites and campuses including experimental farm stations operated by public or private schools for educational purposes, seeds and seedlings research and pilot production centers, church sites and convents appurtenant thereto, mosque sites and Islamic centers appurtenant thereto, communal burial grounds and cemeteries, penal colonies and penal farms actually worked by the inmates, government and private research and quarantine centers and all lands with eighteen percent (18%) slope and over, except those already developed shall be exempt from the coverage of the Act.
+### Section 10
 
-**Section 11._Commercial Farming._** — Commercial farms, which are private agricultural lands devoted to commercial livestock, poultry and swine raising, and aquaculture including saltbeds, fishponds and prawn ponds, fruit farms, orchards, vegetable and cut-flower farms, and cacao, coffee and rubber plantations, shall be subject to immediate compulsory acquisition and distribution after (10) years from the effectivity of the Act.n the case of new farms, the ten-year period shall begin from the first year of commercial production and operation, as determined by the DAR. During the ten-year period, the government shall initiate the steps necessary to acquire these lands, upon payment of just compensation for the land and the improvements thereon, preferably in favor of organized cooperatives or associations, which shall hereafter manage the said lands for the worker-beneficiaries.
+_Exemptions and Exclusions._ — Lands actually, directly and exclusively used and found to be necessary for parks, wildlife, forest reserves, reforestation, fish sanctuaries and breeding grounds, watersheds, and mangroves, national defense, school sites and campuses including experimental farm stations operated by public or private schools for educational purposes, seeds and seedlings research and pilot production centers, church sites and convents appurtenant thereto, mosque sites and Islamic centers appurtenant thereto, communal burial grounds and cemeteries, penal colonies and penal farms actually worked by the inmates, government and private research and quarantine centers and all lands with eighteen percent (18%) slope and over, except those already developed shall be exempt from the coverage of the Act.
+
+### Section 11
+
+_Commercial Farming._ — Commercial farms, which are private agricultural lands devoted to commercial livestock, poultry and swine raising, and aquaculture including saltbeds, fishponds and prawn ponds, fruit farms, orchards, vegetable and cut-flower farms, and cacao, coffee and rubber plantations, shall be subject to immediate compulsory acquisition and distribution after (10) years from the effectivity of the Act.n the case of new farms, the ten-year period shall begin from the first year of commercial production and operation, as determined by the DAR. During the ten-year period, the government shall initiate the steps necessary to acquire these lands, upon payment of just compensation for the land and the improvements thereon, preferably in favor of organized cooperatives or associations, which shall hereafter manage the said lands for the worker-beneficiaries.
 
 If the DAR determines that the purposes for which this deferment is granted no longer exist, such areas shall automatically be subject to redistribution.
 
@@ -159,15 +181,21 @@ The provisions of Section 32 of the Act, with regard to production-and income-sh
 
 ## CHAPTER III — Improvement of Tenurial and Labor Relations
 
-**Section 12._Determination of Lease Rentals._** — In order to protect and improve the tenurial and economic status of the farmers in tenanted lands under the retention limit and lands not yet acquired under this Act, the DAR is mandated to determine and fix immediately the lease rentals thereof in accordance with Section 34 of Republic Act No. 3844, as amended: provided, that the DAR shall immediately and periodically review and adjust the rental structure for different crops, including rice and corn, or different regions in order to improve progressively the conditions of the farmer, tenant or lessee.
+### Section 12
 
-**Section 13._Production-Sharing Plan._** — Any enterprise adopting the scheme provided for in Section 32 or operating under a production venture, lease, management contract or other similar arrangement and any farm covered by Sections 8 and 11 hereof is hereby mandated to execute within ninety (90) days from the effectivity of this Act, a production-sharing plan, under guidelines prescribed by the appropriate government agency.
+_Determination of Lease Rentals._ — In order to protect and improve the tenurial and economic status of the farmers in tenanted lands under the retention limit and lands not yet acquired under this Act, the DAR is mandated to determine and fix immediately the lease rentals thereof in accordance with Section 34 of Republic Act No. 3844, as amended: provided, that the DAR shall immediately and periodically review and adjust the rental structure for different crops, including rice and corn, or different regions in order to improve progressively the conditions of the farmer, tenant or lessee.
+
+### Section 13
+
+_Production-Sharing Plan._ — Any enterprise adopting the scheme provided for in Section 32 or operating under a production venture, lease, management contract or other similar arrangement and any farm covered by Sections 8 and 11 hereof is hereby mandated to execute within ninety (90) days from the effectivity of this Act, a production-sharing plan, under guidelines prescribed by the appropriate government agency.
 
 Nothing herein shall be construed to sanction the diminution of any benefits such as salaries, bonuses, leaves and working conditions granted to the employee-beneficiaries under existing laws, agreements, and voluntary practice by the enterprise, nor shall the enterprise and its employee-beneficiaries be prevented from entering into any agreement with terms more favorable to the latter.
 
 ## CHAPTER IV — Registration
 
-**Section 14._Registration of Landowners._** — Within one hundred eighty (180) days from the effectivity of this Act, all persons, natural or juridical, including government entities, that own or claim to own agricultural lands, whether in their names or in the name of others, except those who have already registered pursuant to Executive Order No. 229, who shall be entitled to such incentives as may be provided for the PARC, shall file a sworn statement in the proper assessor's office in the form to be prescribed by the DAR, stating the following information:
+### Section 14
+
+_Registration of Landowners._ — Within one hundred eighty (180) days from the effectivity of this Act, all persons, natural or juridical, including government entities, that own or claim to own agricultural lands, whether in their names or in the name of others, except those who have already registered pursuant to Executive Order No. 229, who shall be entitled to such incentives as may be provided for the PARC, shall file a sworn statement in the proper assessor's office in the form to be prescribed by the DAR, stating the following information:
 
 (a) the description and area of the property;
 
@@ -181,7 +209,9 @@ Nothing herein shall be construed to sanction the diminution of any benefits suc
 
 (f) the latest declared market value of the land as determined by the city or provincial assessor.
 
-**Section 15._Registration of Beneficiaries._** — The DAR in coordination with the Barangay Agrarian Reform Committee (BARC) as organized in this Act, shall register all agricultural lessees, tenants and farmworkers who are qualified to be beneficiaries of the CARP. These potential beneficiaries with the assistance of the BARC and the DAR shall provide the following data:
+### Section 15
+
+_Registration of Beneficiaries._ — The DAR in coordination with the Barangay Agrarian Reform Committee (BARC) as organized in this Act, shall register all agricultural lessees, tenants and farmworkers who are qualified to be beneficiaries of the CARP. These potential beneficiaries with the assistance of the BARC and the DAR shall provide the following data:
 
 (a) names and members of their immediate farm household;
 
@@ -197,7 +227,9 @@ A copy of the registry or list of all potential CARP beneficiaries in the barang
 
 ## CHAPTER V — Land Acquisition
 
-**Section 16._Procedure for Acquisition of Private Lands._** — For purposes of acquisition of private lands, the following procedures shall be followed:
+### Section 16
+
+_Procedure for Acquisition of Private Lands._ — For purposes of acquisition of private lands, the following procedures shall be followed:
 
 (a) After having identified the land, the landowners and the beneficiaries, the DAR shall send its notice to acquire the land to the owners thereof, by personal delivery or registered mail, and post the same in a conspicuous place in the municipal building and barangay hall of the place where the property is located. Said notice shall contain the offer of the DAR to pay a corresponding value in accordance with the valuation set forth in Sections 17, 18, and other pertinent provisions hereof.
 
@@ -213,9 +245,13 @@ A copy of the registry or list of all potential CARP beneficiaries in the barang
 
 ## CHAPTER VI — Compensation
 
-**Section 17._Determination of Just Compensation._** — In determining just compensation, the cost of acquisition of the land, the current value of the like properties, its nature, actual use and income, the sworn valuation by the owner, the tax declarations, and the assessment made by government assessors shall be considered. The social and economic benefits contributed by the farmers and the farmworkers and by the Government to the property as well as the non-payment of taxes or loans secured from any government financing institution on the said land shall be considered as additional factors to determine its valuation.
+### Section 17
 
-**Section 18._Valuation and Mode of Compensation._** — The LBP shall compensate the landowner in such amounts as may be agreed upon by the landowner and the DAR and the LBP, in accordance with the criteria provided for in Sections 16 and 17, and other pertinent provisions hereof, or as may be finally determined by the court, as the just compensation for the land.
+_Determination of Just Compensation._ — In determining just compensation, the cost of acquisition of the land, the current value of the like properties, its nature, actual use and income, the sworn valuation by the owner, the tax declarations, and the assessment made by government assessors shall be considered. The social and economic benefits contributed by the farmers and the farmworkers and by the Government to the property as well as the non-payment of taxes or loans secured from any government financing institution on the said land shall be considered as additional factors to determine its valuation.
+
+### Section 18
+
+_Valuation and Mode of Compensation._ — The LBP shall compensate the landowner in such amounts as may be agreed upon by the landowner and the DAR and the LBP, in accordance with the criteria provided for in Sections 16 and 17, and other pertinent provisions hereof, or as may be finally determined by the court, as the just compensation for the land.
 
 The compensation shall be paid on one of the following modes, at the option of the landowner:
 
@@ -254,9 +290,13 @@ The compensation shall be paid on one of the following modes, at the option of t
 
 In case of extraordinary inflation, the PARC shall take appropriate measures to protect the economy.
 
-**Section 19._Incentives for Voluntary Offers for Sales._** — Landowners, other than banks and other financial institutions, who voluntarily offer their lands for sale shall be entitled to an additional five percent (5%) cash payment.
+### Section 19
 
-**Section 20._Voluntary Land Transfer._** — Landowners of agricultural lands subject to acquisition under this Act may enter into a voluntary arrangement for direct transfer of their lands to qualified beneficiaries subject to the following guidelines:
+_Incentives for Voluntary Offers for Sales._ — Landowners, other than banks and other financial institutions, who voluntarily offer their lands for sale shall be entitled to an additional five percent (5%) cash payment.
+
+### Section 20
+
+_Voluntary Land Transfer._ — Landowners of agricultural lands subject to acquisition under this Act may enter into a voluntary arrangement for direct transfer of their lands to qualified beneficiaries subject to the following guidelines:
 
 (a) All notices for voluntary land transfer must be submitted to the DAR within the first year of the implementation of the CARP. Negotiations between the landowners and qualified beneficiaries covering any voluntary land transfer which remain unresolved after one (1) year shall not be recognized and such land shall instead be acquired by the government and transferred pursuant to this Act.
 
@@ -264,13 +304,17 @@ In case of extraordinary inflation, the PARC shall take appropriate measures to 
 
 (c) The voluntary agreement shall include sanctions for non-compliance by either party and shall be duly recorded and its implementation monitored by the DAR.
 
-**Section 21._Payment of Compensation by Beneficiaries Under Voluntary Land Transfer._** — Direct payments in cash or in kind may be by the farmer-beneficiary to the landowner under terms to be mutually agreed upon by both parties, which shall be binding upon them, upon registration with the approval by the DAR. Said approval shall be considered given, unless notice of disapproval is received by the farmer-beneficiary within thirty (30) days from the date of registration.
+### Section 21
+
+_Payment of Compensation by Beneficiaries Under Voluntary Land Transfer._ — Direct payments in cash or in kind may be by the farmer-beneficiary to the landowner under terms to be mutually agreed upon by both parties, which shall be binding upon them, upon registration with the approval by the DAR. Said approval shall be considered given, unless notice of disapproval is received by the farmer-beneficiary within thirty (30) days from the date of registration.
 
 In the event they cannot agree on the price of land, the procedure for compulsory acquisition as provided in Section 16 shall apply. The LBP shall extend financing to the beneficiaries for purposes of acquiring the land.
 
 ## CHAPTER VII — Land Redistribution
 
-**Section 22._Qualified Beneficiaries._** — The lands covered by the CARP shall be distributed as much as possible to landless residents of the same barangay, or in the absence thereof, landless residents of the same municipality in the following order of priority:
+### Section 22
+
+_Qualified Beneficiaries._ — The lands covered by the CARP shall be distributed as much as possible to landless residents of the same barangay, or in the absence thereof, landless residents of the same municipality in the following order of priority:
 
 (a) agricultural lessees and share tenants;
 
@@ -296,39 +340,57 @@ If, due to the landowner's retention rights or to the number of tenants, lessees
 
 Farmers already in place and those not accommodated in the distribution of privately-owned lands will be given preferential rights in the distribution of lands from the public domain.
 
-**Section 23._Distribution Limit._** — No qualified beneficiary may own more than three (3) hectares of agricultural land.
+### Section 23
 
-**Section 24._Award to Beneficiaries._** — The rights and responsibilities of the beneficiary shall commence from the time the DAR makes an award of the land to him, which award shall be completed within one hundred eighty (180) days from the time the DAR takes actual possession of the land. Ownership of the beneficiary shall be evidenced by a Certificate of Land Ownership Award, which shall contain the restrictions and conditions provided for in this Act, and shall be recorded in the Register of Deeds concerned and annotated on the Certificate of Title.
+_Distribution Limit._ — No qualified beneficiary may own more than three (3) hectares of agricultural land.
 
-**Section 25._Award Ceilings for Beneficiaries._** — Beneficiaries shall be awarded an area not exceeding three (3) hectares which may cover a contiguous tract of land or several parcels of land cumulated up to the prescribed award limits.
+### Section 24
+
+_Award to Beneficiaries._ — The rights and responsibilities of the beneficiary shall commence from the time the DAR makes an award of the land to him, which award shall be completed within one hundred eighty (180) days from the time the DAR takes actual possession of the land. Ownership of the beneficiary shall be evidenced by a Certificate of Land Ownership Award, which shall contain the restrictions and conditions provided for in this Act, and shall be recorded in the Register of Deeds concerned and annotated on the Certificate of Title.
+
+### Section 25
+
+_Award Ceilings for Beneficiaries._ — Beneficiaries shall be awarded an area not exceeding three (3) hectares which may cover a contiguous tract of land or several parcels of land cumulated up to the prescribed award limits.
 
 For purposes of this Act, a landless beneficiary is one who owns less than three (3) hectares of agricultural land.
 
 The beneficiaries may opt for collective ownership, such as co-ownership or farmers cooperative or some other form of collective organization: provided, that the total area that may be awarded shall not exceed the total number of co-owners or member of the cooperative or collective organization multiplied by the award limit above prescribed, except in meritorious cases as determined by the PARC. Title to the property shall be issued in the name of the co-owners or the cooperative or collective organization as the case may be.
 
-**Section 26._Payment by Beneficiaries._** — Lands awarded pursuant to this Act shall be paid for by the beneficiaries to the LBP in thirty (30) annual amortizations at six percent (6%) interest per annum. The payments for the first three (3) years after the award may be at reduced amounts as established by the PARC: provided, that the first five (5) annual payments may not be more than five percent (5%) of the value of the annual gross production as established by the DAR. Should the scheduled annual payments after the fifth year exceed ten percent (10%) of the annual gross production and the failure to produce accordingly is not due to the beneficiary's fault, the LBP may reduce the interest rate or reduce the principal obligations to make the repayment affordable.
+### Section 26
+
+_Payment by Beneficiaries._ — Lands awarded pursuant to this Act shall be paid for by the beneficiaries to the LBP in thirty (30) annual amortizations at six percent (6%) interest per annum. The payments for the first three (3) years after the award may be at reduced amounts as established by the PARC: provided, that the first five (5) annual payments may not be more than five percent (5%) of the value of the annual gross production as established by the DAR. Should the scheduled annual payments after the fifth year exceed ten percent (10%) of the annual gross production and the failure to produce accordingly is not due to the beneficiary's fault, the LBP may reduce the interest rate or reduce the principal obligations to make the repayment affordable.
 
 The LBP shall have a lien by way of mortgage on the land awarded to the beneficiary; and this mortgage may be foreclosed by the LBP for non-payment of an aggregate of three (3) annual amortizations. The LBP shall advise the DAR of such proceedings and the latter shall subsequently award the forfeited landholdings to other qualified beneficiaries. A beneficiary whose land, as provided herein, has been foreclosed shall thereafter be permanently disqualified from becoming a beneficiary under this Act.
 
-**Section 27._Transferability of Awarded Lands._** — Lands acquired by beneficiaries under this Act may not be sold, transferred or conveyed except through hereditary succession, or to the government, or the LBP, or to other qualified beneficiaries for a period of ten (10) years: provided, however, that the children or the spouse of the transferor shall have a right to repurchase the land from the government or LBP within a period of two (2) years. Due notice of the availability of the land shall be given by the LBP to the Barangay Agrarian Reform Committee (BARC) of the barangay where the land is situated. The Provincial Agrarian Reform Coordinating Committee (PARCCOM) as herein provided, shall, in turn, be given due notice thereof by the BARC.
+### Section 27
+
+_Transferability of Awarded Lands._ — Lands acquired by beneficiaries under this Act may not be sold, transferred or conveyed except through hereditary succession, or to the government, or the LBP, or to other qualified beneficiaries for a period of ten (10) years: provided, however, that the children or the spouse of the transferor shall have a right to repurchase the land from the government or LBP within a period of two (2) years. Due notice of the availability of the land shall be given by the LBP to the Barangay Agrarian Reform Committee (BARC) of the barangay where the land is situated. The Provincial Agrarian Reform Coordinating Committee (PARCCOM) as herein provided, shall, in turn, be given due notice thereof by the BARC.
 
 If the land has not yet been fully paid by the beneficiary, the rights to the land may be transferred or conveyed, with prior approval of the DAR, to any heir of the beneficiary or to any other beneficiary who, as a condition for such transfer or conveyance, shall cultivate the land himself. Failing compliance herewith, the land shall be transferred to the LBP which shall give due notice of the availability of the land in the manner specified in the immediately preceding paragraph.
 
 In the event of such transfer to the LBP, the latter shall compensate the beneficiary in one lump sum for the amounts the latter has already paid, together with the value of improvements he has made on the land.
 
-**Section 28._Standing Crops at the Time of Acquisition._** — The landowner shall retain his share of any standing crops unharvested at the time the DAR shall take possession of the land under Section 16 of the Act, and shall be given a reasonable time to harvest the same.
+### Section 28
+
+_Standing Crops at the Time of Acquisition._ — The landowner shall retain his share of any standing crops unharvested at the time the DAR shall take possession of the land under Section 16 of the Act, and shall be given a reasonable time to harvest the same.
 
 ## CHAPTER VIII — Corporate Farms
 
-**Section 29._Farms Owned or Operated by Corporations or Other Business Associations._** — In the case of farms owned or operated by corporations or other business associations, the following rules shall be observed by the PARC:
+### Section 29
+
+_Farms Owned or Operated by Corporations or Other Business Associations._ — In the case of farms owned or operated by corporations or other business associations, the following rules shall be observed by the PARC:
 
 In general, lands shall be distributed directly to the individual worker-beneficiaries.
 
 In case it is not economically feasible and sound to divide the land, then it shall be owned collectively by the workers' cooperative or association which will deal with the corporation or business association. Until a new agreement is entered into by and between the workers' cooperative or association and the corporation or business association, any agreement existing at the time this Act takes effect between the former and the previous landowner shall be respected by both the workers' cooperative or association and the corporation or business association.
 
-**Section 30._Homelots and Farmlots for Members of Cooperatives._** — The individual members of the cooperatives or corporations mentioned in the preceding section shall be provided with homelots and small farmlots for their family use, to be taken from the land owned by the cooperative or corporation.
+### Section 30
 
-**Section 31._Corporate Landowners._** — Corporate landowners may voluntarily transfer ownership over their agricultural landholdings to the Republic of the Philippines pursuant to Section 20 hereof or to qualified beneficiaries, under such terms and conditions, consistent with this Act, as they may agree upon, subject to confirmation by the DAR.
+_Homelots and Farmlots for Members of Cooperatives._ — The individual members of the cooperatives or corporations mentioned in the preceding section shall be provided with homelots and small farmlots for their family use, to be taken from the land owned by the cooperative or corporation.
+
+### Section 31
+
+_Corporate Landowners._ — Corporate landowners may voluntarily transfer ownership over their agricultural landholdings to the Republic of the Philippines pursuant to Section 20 hereof or to qualified beneficiaries, under such terms and conditions, consistent with this Act, as they may agree upon, subject to confirmation by the DAR.
 
 Upon certification by the DAR, corporations owning agricultural lands may give their qualified beneficiaries the right to purchase such proportion of the capital stock of the corporation that the agricultural land, actually devoted to agricultural activities, bears in relation to the company's total assets, under such terms and conditions as may be agreed upon by them.n no case shall the compensation received by the workers at the time the shares of stocks are distributed be reduced. The same principle shall be applied to associations, with respect to their equity or participation.
 
@@ -344,7 +406,9 @@ d) Any transfer of shares of stocks by the original beneficiaries shall be void 
 
 If within two (2) years from the approval of this Act, the land or stock transfer envisioned above is not made or realized or the plan for such stock distribution approved by the PARC within the same period, the agricultural land of the corporate owners or corporation shall be subject to the compulsory coverage of this Act.
 
-**Section 32._Production-Sharing._** — Pending final land transfer, individuals or entities owning, or operating under lease or management contract, agricultural lands are hereby mandated to execute a production-sharing plan with their farm workers or farmworkers' reorganization, if any, whereby three percent (3%) of the gross sales from the production of such lands are distributed within sixty (60) days of the end of the fiscal year as compensation to regular and other farmworkers in such lands over and above the compensation they currently receive: provided, that these individuals or entities realize gross sales in excess of five million pesos per annum unless the DAR, upon proper application, determines a lower ceiling.
+### Section 32
+
+_Production-Sharing._ — Pending final land transfer, individuals or entities owning, or operating under lease or management contract, agricultural lands are hereby mandated to execute a production-sharing plan with their farm workers or farmworkers' reorganization, if any, whereby three percent (3%) of the gross sales from the production of such lands are distributed within sixty (60) days of the end of the fiscal year as compensation to regular and other farmworkers in such lands over and above the compensation they currently receive: provided, that these individuals or entities realize gross sales in excess of five million pesos per annum unless the DAR, upon proper application, determines a lower ceiling.
 
 In the event that the individual or entity realizes a profit, an additional ten percent (10%) of the net profit after tax shall be distributed to said regular and other farmworkers within ninety (90) days of the end of the fiscal year.
 
@@ -352,9 +416,13 @@ To forestall any disruption in the normal operation of lands to be turned over t
 
 During this transitory period, at least one percent (1%) of the gross sales of the entity shall be distributed to the managerial, supervisory and technical group in place at the time of the effectivity of this Act, as compensation for such transitory managerial and technical functions as it will perform, pursuant to an agreement that the farmworker-beneficiaries and the managerial, supervisory and technical group may conclude, subject to the approval of the DAR.
 
-**Section 33._Payment of Shares of Cooperative or Association._** — Shares of a cooperative or association acquired by farmers-beneficiaries or workers-beneficiaries shall be fully paid for in an amount corresponding to the valuation as determined in the immediately succeeding section. The landowner and the LBP shall assist the farmers-beneficiaries and workers-beneficiaries in the payment for said shares by providing credit financing.
+### Section 33
 
-**Section 34._Valuation of Lands._** — A valuation scheme for the land shall be formulated by the PARC, taking into account the factors enumerated in Section 17, in addition to the need to stimulate the growth of cooperatives and the objective of fostering responsible participation of the workers-beneficiaries in the creation of wealth.
+_Payment of Shares of Cooperative or Association._ — Shares of a cooperative or association acquired by farmers-beneficiaries or workers-beneficiaries shall be fully paid for in an amount corresponding to the valuation as determined in the immediately succeeding section. The landowner and the LBP shall assist the farmers-beneficiaries and workers-beneficiaries in the payment for said shares by providing credit financing.
+
+### Section 34
+
+_Valuation of Lands._ — A valuation scheme for the land shall be formulated by the PARC, taking into account the factors enumerated in Section 17, in addition to the need to stimulate the growth of cooperatives and the objective of fostering responsible participation of the workers-beneficiaries in the creation of wealth.
 
 In the determination of price that is just not only to the individuals but to society as well, the PARC shall consult closely with the landowner and the workers-beneficiaries.
 
@@ -362,7 +430,9 @@ In case of disagreement, the price as determined by the PARC, if accepted by the
 
 ## CHAPTER IX — Support Services
 
-**Section 35._Creation of Support Services Office._** — There is hereby created the Office of Support Services under the DAR to be headed by an Undersecretary.
+### Section 35
+
+_Creation of Support Services Office._ — There is hereby created the Office of Support Services under the DAR to be headed by an Undersecretary.
 
 The Office shall provide general support and coordinative services in the implementation of the program particularly in carrying out the provisions of the following services to farmer-beneficiaries and affected landowners:
 
@@ -388,9 +458,13 @@ The Office shall provide general support and coordinative services in the implem
 
 11) Administration operation management and funding of support services, programs and projects including pilot projects and models related to agrarian reform as developed by the DAR.
 
-**Section 36._Funding for Support Services._** — In order to cover the expenses and cost of support services, at least twenty-five percent (25%) of all appropriations for agrarian reform shall be immediately set aside and made available for this purpose.n addition, the DAR shall be authorized to package proposals and receive grants, aid and other forms of financial assistance from any source.
+### Section 36
 
-**Section 37._Support Services to the Beneficiaries._** — The PARC shall ensure that support services to farmers-beneficiaries are provided, such as:
+_Funding for Support Services._ — In order to cover the expenses and cost of support services, at least twenty-five percent (25%) of all appropriations for agrarian reform shall be immediately set aside and made available for this purpose.n addition, the DAR shall be authorized to package proposals and receive grants, aid and other forms of financial assistance from any source.
+
+### Section 37
+
+_Support Services to the Beneficiaries._ — The PARC shall ensure that support services to farmers-beneficiaries are provided, such as:
 
 (a) Land surveys and titling;
 
@@ -408,7 +482,9 @@ The Bagong Kilusang Kabuhayan sa Kaunlaran (BKKK) Secretariat shall be transferr
 
 Misuse or diversion of the financial and support services herein provided shall result in sanctions against the beneficiary guilty thereof, including the forfeiture of the land transferred to him or lesser sanctions as may be provided by the PARC, without prejudice to criminal prosecution.
 
-**Section 38._Support Services to Landowners._** — The PARC with the assistance of such other government agencies and instrumentalities as it may direct, shall provide landowners affected by the CARP and prior agrarian reform programs with the following services:
+### Section 38
+
+_Support Services to Landowners._ — The PARC with the assistance of such other government agencies and instrumentalities as it may direct, shall provide landowners affected by the CARP and prior agrarian reform programs with the following services:
 
 (a) Investment information financial and counseling assistance;
 
@@ -422,11 +498,15 @@ A landowner who invests in rural-based industries shall be entitled to the incen
 
 The LBP shall redeem a landowner's LBP bonds at face value, provided that the proceeds thereof shall be invested in a BOI-registered company or in any agri-business or agro-industrial enterprise in the region where the landowner has previously made investments, to the extent of thirty percent (30%) of the face value of said LBP bonds, subject to guidelines that shall be issued by the LBP.
 
-**Section 39._Land Consolidation._** — The DAR shall carry out land consolidation projects to promote equal distribution of landholdings, to provide the needed infrastructures in agriculture, and to conserve soil fertility and prevent erosion.
+### Section 39
+
+_Land Consolidation._ — The DAR shall carry out land consolidation projects to promote equal distribution of landholdings, to provide the needed infrastructures in agriculture, and to conserve soil fertility and prevent erosion.
 
 ## CHAPTER X — Special Areas of Concern
 
-**Section 40._Special Areas of Concern._** — As an integral part of the Comprehensive Agrarian Reform Program, the following principles in these special areas of concern shall be observed:
+### Section 40
+
+_Special Areas of Concern._ — As an integral part of the Comprehensive Agrarian Reform Program, the following principles in these special areas of concern shall be observed:
 
 (1) _Subsistence Fishing._ — Small fisherfolk, including seaweed farmers, shall be assured of greater access to the utilization of water resources.
 
@@ -450,23 +530,37 @@ The lease period, which shall not be more than a total of fifty (50) years, shal
 
 ## CHAPTER XI — Program Implementation
 
-**Section 41._The Presidential Agrarian Reform Council._** — The Presidential Agrarian Reform Council (PARC) shall be composed of the President of the Philippines as Chairman, the Secretary of Agrarian Reform as Vice-Chairman and the following as members; Secretaries of the Departments of Agriculture; Environment and Natural Resources; Budget and Management; Local Government: Public Works and Highways; Trade and Industry; Finance; Labor and Employment; Director-General of the National Economic and Development Authority; President, Land Bank of the Philippines; Administrator, National Irrigation Administration; and three (3) representatives of affected landowners to represent Luzon, Visayas and Mindanao; six (6) representatives of agrarian reform beneficiaries, two (2) each from Luzon, Visayas and Mindanao, provided that one of them shall be from the cultural communities.
+### Section 41
 
-**Section 42._Executive Committee._** — There shall be an Executive Committee (EXCOM) of the PARC composed of the Secretary of the DAR as Chairman, and such other members as the President may designate, taking into account Article XIII, Section 5 of the Constitution. Unless otherwise directed by PARC, the EXCOM may meet and decide on any and all matters in between meetings of the PARC: provided, however, that its decisions must be reported to the PARC immediately and not later than the next meeting.
+_The Presidential Agrarian Reform Council._ — The Presidential Agrarian Reform Council (PARC) shall be composed of the President of the Philippines as Chairman, the Secretary of Agrarian Reform as Vice-Chairman and the following as members; Secretaries of the Departments of Agriculture; Environment and Natural Resources; Budget and Management; Local Government: Public Works and Highways; Trade and Industry; Finance; Labor and Employment; Director-General of the National Economic and Development Authority; President, Land Bank of the Philippines; Administrator, National Irrigation Administration; and three (3) representatives of affected landowners to represent Luzon, Visayas and Mindanao; six (6) representatives of agrarian reform beneficiaries, two (2) each from Luzon, Visayas and Mindanao, provided that one of them shall be from the cultural communities.
 
-**Section 43._Secretariat._** — A PARC Secretariat is hereby established to provide general support and coordinative services such as inter-agency linkages; program and project appraisal and evaluation and general operations monitoring for the PARC.
+### Section 42
+
+_Executive Committee._ — There shall be an Executive Committee (EXCOM) of the PARC composed of the Secretary of the DAR as Chairman, and such other members as the President may designate, taking into account Article XIII, Section 5 of the Constitution. Unless otherwise directed by PARC, the EXCOM may meet and decide on any and all matters in between meetings of the PARC: provided, however, that its decisions must be reported to the PARC immediately and not later than the next meeting.
+
+### Section 43
+
+_Secretariat._ — A PARC Secretariat is hereby established to provide general support and coordinative services such as inter-agency linkages; program and project appraisal and evaluation and general operations monitoring for the PARC.
 
 The Secretariat shall be headed by the Secretary of Agrarian Reform who shall be assisted by an Undersecretary and supported by a staff whose composition shall be determined by the PARC Executive Committee and whose compensation shall be chargeable against the Agrarian Reform Fund. All officers and employees of the Secretariat shall be appointed by the Secretary of Agrarian Reform.
 
-**Section 44._Provincial Agrarian Reform Coordinating Committee (PARCCOM)._** — A Provincial Agrarian Reform Coordinating Committee (PARCCOM) is hereby created in each province, composed of a Chairman, who shall be appointed by the President upon the recommendation of the EXCOM, the Provincial Agrarian Reform Officer as Executive Officer, and one representative each from the Departments of Agriculture, and of Environment and Natural Resources and from the LBP, one representative each from existing farmers' organizations, agricultural cooperatives and non-governmental organizations in the province; two representatives from landowners, at least one of whom shall be a producer representing the principal crop of the province, and two representatives from farmer and farmworker-beneficiaries, at least one of whom shall be a farmer or farmworker representing the principal crop of the province, as members: provided, that in areas where there are cultural communities, the latter shall likewise have one representative.
+### Section 44
+
+_Provincial Agrarian Reform Coordinating Committee (PARCCOM)._ — A Provincial Agrarian Reform Coordinating Committee (PARCCOM) is hereby created in each province, composed of a Chairman, who shall be appointed by the President upon the recommendation of the EXCOM, the Provincial Agrarian Reform Officer as Executive Officer, and one representative each from the Departments of Agriculture, and of Environment and Natural Resources and from the LBP, one representative each from existing farmers' organizations, agricultural cooperatives and non-governmental organizations in the province; two representatives from landowners, at least one of whom shall be a producer representing the principal crop of the province, and two representatives from farmer and farmworker-beneficiaries, at least one of whom shall be a farmer or farmworker representing the principal crop of the province, as members: provided, that in areas where there are cultural communities, the latter shall likewise have one representative.
 
 The PARCCOM shall coordinate and monitor the implementation of the CARP in the province.t shall provide information on the provisions of the CARP, guidelines issued by the PARC and on the progress of the CARP in the province.
 
-**Section 45._Province-by-Province Implementation._** — The PARC shall provide the guidelines for a province-by-province implementation of the CARP. The ten-year program of distribution of public and private lands in each province shall be adjusted from year by the province's PARCCOM in accordance with the level of operations previously established by the PARC, in every case ensuring that support services are available or have been programmed before actual distribution is effected.
+### Section 45
 
-**Section 46._Barangay Agrarian Reform Committee (BARC)._** — Unless otherwise provided in this Act, the provisions of Executive Order No. 229 regarding the organization of the Barangay Agrarian Reform Committee (BARC) shall be in effect.
+_Province-by-Province Implementation._ — The PARC shall provide the guidelines for a province-by-province implementation of the CARP. The ten-year program of distribution of public and private lands in each province shall be adjusted from year by the province's PARCCOM in accordance with the level of operations previously established by the PARC, in every case ensuring that support services are available or have been programmed before actual distribution is effected.
 
-**Section 47._Functions of the BARC._** — In addition to those provided in Executive Order No. 229, the BARC shall have the following functions:
+### Section 46
+
+_Barangay Agrarian Reform Committee (BARC)._ — Unless otherwise provided in this Act, the provisions of Executive Order No. 229 regarding the organization of the Barangay Agrarian Reform Committee (BARC) shall be in effect.
+
+### Section 47
+
+_Functions of the BARC._ — In addition to those provided in Executive Order No. 229, the BARC shall have the following functions:
 
 (a) Mediate and conciliate between parties involved in an agrarian dispute including matters related to tenurial and financial arrangements;
 
@@ -486,13 +580,19 @@ The PARCCOM shall coordinate and monitor the implementation of the CARP in the p
 
 (2) The BARC shall endeavor to mediate, conciliate and settle agrarian disputes lodged before it within thirty (30) days from its taking cognizance thereof.f after the lapse of the thirty day period, it is unable to settle the dispute, it shall issue a certificate of its proceedings and shall furnish a copy thereof upon the parties within seven (7) days after the expiration of the thirty-day period.
 
-**Section 48._Legal Assistance._** — The BARC or any member thereof may, whenever necessary in the exercise of any of its functions hereunder, seek the legal assistance of the DAR and the provincial, city, or municipal government.
+### Section 48
 
-**Section 49._Rules and Regulations._** — The PARC and the DAR shall have the power to issue rules and regulations, whether substantive or procedural, to carry out the objects and purposes of this Act. Said rules shall take effect ten (10) days after publication in two (2) national newspapers of general circulation.
+_Legal Assistance._ — The BARC or any member thereof may, whenever necessary in the exercise of any of its functions hereunder, seek the legal assistance of the DAR and the provincial, city, or municipal government.
+
+### Section 49
+
+_Rules and Regulations._ — The PARC and the DAR shall have the power to issue rules and regulations, whether substantive or procedural, to carry out the objects and purposes of this Act. Said rules shall take effect ten (10) days after publication in two (2) national newspapers of general circulation.
 
 ## CHAPTER XII — Administrative Adjudication
 
-**Section 50._Quasi-Judicial Powers of the DAR._** — The DAR is hereby vested with the primary jurisdiction to determine and adjudicate agrarian reform matters and shall have exclusive original jurisdiction over all matters involving the implementation of agrarian reform except those falling under the exclusive jurisdiction of the Department of Agriculture (DA) and the Department of Environment and Natural Resources (DENR).
+### Section 50
+
+_Quasi-Judicial Powers of the DAR._ — The DAR is hereby vested with the primary jurisdiction to determine and adjudicate agrarian reform matters and shall have exclusive original jurisdiction over all matters involving the implementation of agrarian reform except those falling under the exclusive jurisdiction of the Department of Agriculture (DA) and the Department of Environment and Natural Resources (DENR).
 
 It shall not be bound by technical rules of procedure and evidence but shall proceed to hear and decide all cases, disputes or controversies in a most expeditious manner, employing all reasonable means to ascertain the facts of every case in accordance with justice and equity and the merits of the case. Toward this end, it shall adopt a uniform rule of procedure to achieve a just, expeditious and inexpensive determination for every action or proceeding before it.
 
@@ -502,21 +602,33 @@ Responsible farmer leaders shall be allowed to represent themselves, their fello
 
 Notwithstanding an appeal to the Court of Appeals, the decision of the DAR shall be immediately executory.
 
-**Section 51._Finality of Determination._** — Any case or controversy before it shall be decided within thirty (30) days after it is submitted for resolution. Only one (1) motion for reconsideration shall be allowed. Any order, ruling or decision shall be final after the lapse of fifteen (15) days from receipt of a copy thereof.
+### Section 51
 
-**Section 52._Frivolous Appeals._** — To discourage frivolous or dilatory appeals from the decisions or orders on the local or provincial levels, the DAR may impose reasonable penalties, including but not limited to fines or censures upon erring parties.
+_Finality of Determination._ — Any case or controversy before it shall be decided within thirty (30) days after it is submitted for resolution. Only one (1) motion for reconsideration shall be allowed. Any order, ruling or decision shall be final after the lapse of fifteen (15) days from receipt of a copy thereof.
 
-**Section 53._Certification of the BARC._** — The DAR shall not take cognizance of any agrarian dispute or controversy unless a certification from the BARC that the dispute has been submitted to it for mediation and conciliation without any success of settlement is presented: provided, however, that if no certification is issued by the BARC within thirty (30) days after a matter or issue is submitted to it for mediation or conciliation the case or dispute may be brought before the PARC.
+### Section 52
+
+_Frivolous Appeals._ — To discourage frivolous or dilatory appeals from the decisions or orders on the local or provincial levels, the DAR may impose reasonable penalties, including but not limited to fines or censures upon erring parties.
+
+### Section 53
+
+_Certification of the BARC._ — The DAR shall not take cognizance of any agrarian dispute or controversy unless a certification from the BARC that the dispute has been submitted to it for mediation and conciliation without any success of settlement is presented: provided, however, that if no certification is issued by the BARC within thirty (30) days after a matter or issue is submitted to it for mediation or conciliation the case or dispute may be brought before the PARC.
 
 ## CHAPTER XIII — Judicial Review
 
-**Section 54._Certiorari._** — Any decision, order, award or ruling of the DAR on any agrarian dispute or on any matter pertaining to the application, implementation, enforcement, or interpretation of this Act and other pertinent laws on agrarian reform may be brought to the Court of Appeals by certiorari except as otherwise provided in this Act within fifteen (15) days from the receipt of a copy thereof.
+### Section 54
+
+_Certiorari._ — Any decision, order, award or ruling of the DAR on any agrarian dispute or on any matter pertaining to the application, implementation, enforcement, or interpretation of this Act and other pertinent laws on agrarian reform may be brought to the Court of Appeals by certiorari except as otherwise provided in this Act within fifteen (15) days from the receipt of a copy thereof.
 
 The findings of fact of the DAR shall be final and conclusive if based on substantial evidence.
 
-**Section 55._No Restraining Order or Preliminary Injunction._** — No court in the Philippines shall have jurisdiction to issue any restraining order or writ of preliminary injunction against the PARC or any of its duly authorized or designated agencies in any case, dispute or controversy arising from, necessary to, or in connection with the application, implementation, enforcement, or interpretation of this Act and other pertinent laws on agrarian reform.
+### Section 55
 
-**Section 56._Special Agrarian Court._** — The Supreme Court shall designate at least one (1) branch of the Regional Trial Court (RTC) within each province to act as a Special Agrarian Court.
+_No Restraining Order or Preliminary Injunction._ — No court in the Philippines shall have jurisdiction to issue any restraining order or writ of preliminary injunction against the PARC or any of its duly authorized or designated agencies in any case, dispute or controversy arising from, necessary to, or in connection with the application, implementation, enforcement, or interpretation of this Act and other pertinent laws on agrarian reform.
+
+### Section 56
+
+_Special Agrarian Court._ — The Supreme Court shall designate at least one (1) branch of the Regional Trial Court (RTC) within each province to act as a Special Agrarian Court.
 
 The Supreme Court may designate more branches to constitute such additional Special Agrarian Courts as may be necessary to cope with the number of agrarian cases in each province.n the designation, the Supreme Court shall give preference to the Regional Trial Courts which have been assigned to handle agrarian cases or whose presiding judges were former judges of the defunct Court of Agrarian Relations.
 
@@ -524,27 +636,41 @@ The Regional Trial Court (RTC) judges assigned to said courts shall exercise sai
 
 The Special Agrarian Courts shall have the powers and prerogatives inherent in or belonging to the Regional Trial Courts.
 
-**Section 57._Special Jurisdiction._** — The Special Agrarian Courts shall have original and exclusive jurisdiction over all petitions for the determination of just compensation to landowners, and the prosecution of all criminal offenses under this Act. The Rules of Court shall apply to all proceedings before the Special Agrarian Courts, unless modified by this Act.
+### Section 57
+
+_Special Jurisdiction._ — The Special Agrarian Courts shall have original and exclusive jurisdiction over all petitions for the determination of just compensation to landowners, and the prosecution of all criminal offenses under this Act. The Rules of Court shall apply to all proceedings before the Special Agrarian Courts, unless modified by this Act.
 
 The Special Agrarian Courts shall decide all appropriate cases under their special jurisdiction within thirty (30) days from submission of the case for decision.
 
-**Section 58._Appointment of Commissioners._** — The Special Agrarian Courts, upon their own initiative or at the instance of any of the parties, may appoint one or more commissioners to examine, investigate and ascertain facts relevant to the dispute including the valuation of properties, and to file a written report thereof with the court.
+### Section 58
 
-**Section 59._Orders of the Special Agrarian Courts._** — No order of the Special Agrarian Courts on any issue, question, matter or incident raised before them shall be elevated to the appellate courts until the hearing shall have been terminated and the case decided on the merits.
+_Appointment of Commissioners._ — The Special Agrarian Courts, upon their own initiative or at the instance of any of the parties, may appoint one or more commissioners to examine, investigate and ascertain facts relevant to the dispute including the valuation of properties, and to file a written report thereof with the court.
 
-**Section 60._Appeals._** — An appeal may be taken from the decision of the Special Agrarian Courts by filing a petition for review with the Court of Appeals within fifteen (15) days receipt of notice of the decision; otherwise, the decision shall become final.
+### Section 59
+
+_Orders of the Special Agrarian Courts._ — No order of the Special Agrarian Courts on any issue, question, matter or incident raised before them shall be elevated to the appellate courts until the hearing shall have been terminated and the case decided on the merits.
+
+### Section 60
+
+_Appeals._ — An appeal may be taken from the decision of the Special Agrarian Courts by filing a petition for review with the Court of Appeals within fifteen (15) days receipt of notice of the decision; otherwise, the decision shall become final.
 
 An appeal from the decision of the Court of Appeals, or from any order, ruling or decision of the DAR, as the case may be, shall be by a petition for review with the Supreme Court within a non-extendible period of fifteen (15) days from receipt of a copy of said decision.
 
-**Section 61._Procedure on Review._** — Review by the Court of Appeals or the Supreme Court, as the case may be, shall be governed by the Rules of Court. The Court of Appeals, however, may require the parties to file simultaneous memoranda within a period of fifteen (15) days from notice, after which the case is deemed submitted for decision.
+### Section 61
 
-**Section 62._Preferential Attention in Courts._** — All courts in the Philippines, both trial and appellate, shall give preferential attention to all cases arising from or in connection with the implementation of the provisions of this Act.
+_Procedure on Review._ — Review by the Court of Appeals or the Supreme Court, as the case may be, shall be governed by the Rules of Court. The Court of Appeals, however, may require the parties to file simultaneous memoranda within a period of fifteen (15) days from notice, after which the case is deemed submitted for decision.
+
+### Section 62
+
+_Preferential Attention in Courts._ — All courts in the Philippines, both trial and appellate, shall give preferential attention to all cases arising from or in connection with the implementation of the provisions of this Act.
 
 All cases pending in court arising from or in connection with the implementation of this Act shall continue to be heard, tried and decided into their finality, notwithstanding the expiration of the ten-year period mentioned in Section 5 hereof.
 
 ## CHAPTER XIV — Financing
 
-**Section 63._Funding Source._** — The initial amount needed to implement this Act for the period of ten (10) years upon approval hereof shall be funded from the Agrarian Reform Fund created under Sections 20 and 21 of Executive Order No. 229.
+### Section 63
+
+_Funding Source._ — The initial amount needed to implement this Act for the period of ten (10) years upon approval hereof shall be funded from the Agrarian Reform Fund created under Sections 20 and 21 of Executive Order No. 229.
 
 Additional amounts are hereby authorized to be appropriated as and when needed to augment the Agrarian Reform Fund in order to fully implement the provisions of this Act.
 
@@ -562,35 +688,55 @@ Sources of funding or appropriations shall include the following:
 
 All funds appropriated to implement the provisions of this Act shall be considered continuing appropriations during the period of its implementation.
 
-**Section 64._Financial Intermediary for the CARP._** — The Land Bank of the Philippines shall be the financial intermediary for the CARP, and shall insure that the social justice objectives of the CARP shall enjoy a preference among its priorities.
+### Section 64
+
+_Financial Intermediary for the CARP._ — The Land Bank of the Philippines shall be the financial intermediary for the CARP, and shall insure that the social justice objectives of the CARP shall enjoy a preference among its priorities.
 
 ## CHAPTER XV — General Provisions
 
-**Section 65._Conversion of Lands._** — After the lapse of five (5) years from its award, when the land ceases to be economically feasible and sound for agricultural purposes, or the locality has become urbanized and the land will have a greater economic value for residential, commercial or industrial purposes, the DAR, upon application of the beneficiary or the landowner, with due notice to the affected parties, and subject to existing laws, may authorize the reclassification or conversion of the land and its disposition: provided, that the beneficiary shall have fully paid his obligation.
+### Section 65
 
-**Section 66._Exemptions from Taxes and Fees of Land Transfers._** — Transactions under this Act involving a transfer of ownership, whether from natural or juridical persons, shall be exempted from taxes arising from capital gains. These transactions shall also be exempted from the payment of registration fees, and all other taxes and fees for the conveyance or transfer thereof; provided, that all arrearages in real property taxes, without penalty or interest, shall be deductible from the compensation to which the owner may be entitled.
+_Conversion of Lands._ — After the lapse of five (5) years from its award, when the land ceases to be economically feasible and sound for agricultural purposes, or the locality has become urbanized and the land will have a greater economic value for residential, commercial or industrial purposes, the DAR, upon application of the beneficiary or the landowner, with due notice to the affected parties, and subject to existing laws, may authorize the reclassification or conversion of the land and its disposition: provided, that the beneficiary shall have fully paid his obligation.
 
-**Section 67._Free Registration of Patents and Titles._** — All Registers of Deeds are hereby directed to register, free from payment of all fees and other charges, patents, titles and documents required for the implementation of the CARP.
+### Section 66
 
-**Section 68._Immunity of Government Agencies from Undue Interference._** — No injunction, restraining order, prohibition or mandamus shall be issued by the lower courts against the Department of Agrarian Reform (DAR), the Department of Agriculture (DA), the Department of Environment and Natural Resources (DENR), and the Department of Justice (DOJ) in their implementation of the program.
+_Exemptions from Taxes and Fees of Land Transfers._ — Transactions under this Act involving a transfer of ownership, whether from natural or juridical persons, shall be exempted from taxes arising from capital gains. These transactions shall also be exempted from the payment of registration fees, and all other taxes and fees for the conveyance or transfer thereof; provided, that all arrearages in real property taxes, without penalty or interest, shall be deductible from the compensation to which the owner may be entitled.
 
-**Section 69._Assistance of Other Government Entities._** — The PARC, in the exercise of its functions, is hereby authorized to call upon the assistance and support of other government agencies, bureaus and offices, including government-owned or -controlled corporations.
+### Section 67
 
-**Section 70._Disposition of Private Agricultural Lands._** — The sale or disposition of agricultural lands retained by a landowner as a consequence of Section 6 hereof shall be valid as long as the total landholdings that shall be owned by the transferee thereof inclusive of the land to be acquired shall not exceed the landholding ceilings provided for in this Act.
+_Free Registration of Patents and Titles._ — All Registers of Deeds are hereby directed to register, free from payment of all fees and other charges, patents, titles and documents required for the implementation of the CARP.
+
+### Section 68
+
+_Immunity of Government Agencies from Undue Interference._ — No injunction, restraining order, prohibition or mandamus shall be issued by the lower courts against the Department of Agrarian Reform (DAR), the Department of Agriculture (DA), the Department of Environment and Natural Resources (DENR), and the Department of Justice (DOJ) in their implementation of the program.
+
+### Section 69
+
+_Assistance of Other Government Entities._ — The PARC, in the exercise of its functions, is hereby authorized to call upon the assistance and support of other government agencies, bureaus and offices, including government-owned or -controlled corporations.
+
+### Section 70
+
+_Disposition of Private Agricultural Lands._ — The sale or disposition of agricultural lands retained by a landowner as a consequence of Section 6 hereof shall be valid as long as the total landholdings that shall be owned by the transferee thereof inclusive of the land to be acquired shall not exceed the landholding ceilings provided for in this Act.
 
 Any sale or disposition of agricultural lands after the effectivity of this Act found to be contrary to the provisions hereof shall be null and void.
 
 Transferees of agricultural lands shall furnish the appropriate Register of Deeds and the BARC an affidavit attesting that his total landholdings as a result of the said acquisition do not exceed the landholding ceiling. The Register of Deeds shall not register the transfer of any agricultural land without the submission of this sworn statement together with proof of service of a copy thereof to the BARC.
 
-**Section 71._Bank Mortgages._** — Banks and other financial institutions allowed by law to hold mortgage rights or security interests in agricultural lands to secure loans and other obligations of borrowers, may acquire title to these mortgaged properties, regardless of area, subject to existing laws on compulsory transfer of foreclosed assets and acquisition as prescribed under Section 13 of this Act.
+### Section 71
 
-**Section 72._Lease, Management, Grower or Service Contracts, Mortgages and Other Claims._** — Lands covered by this Act under lease, management, grower or service contracts, and the like shall be disposed of as follows:
+_Bank Mortgages._ — Banks and other financial institutions allowed by law to hold mortgage rights or security interests in agricultural lands to secure loans and other obligations of borrowers, may acquire title to these mortgaged properties, regardless of area, subject to existing laws on compulsory transfer of foreclosed assets and acquisition as prescribed under Section 13 of this Act.
+
+### Section 72
+
+_Lease, Management, Grower or Service Contracts, Mortgages and Other Claims._ — Lands covered by this Act under lease, management, grower or service contracts, and the like shall be disposed of as follows:
 
 (a) Lease, management, grower or service contracts covering private lands may continue under their original terms and conditions until the expiration of the same even if such land has, in the meantime, been transferred to qualified beneficiaries.
 
 (b) Mortgages and other claims registered with the Register of Deeds shall be assumed by the government up to an amount equivalent to the landowner's compensation value as provided in this Act.
 
-**Section 73._Prohibited Acts and Omissions._** — The following are prohibited:
+### Section 73
+
+_Prohibited Acts and Omissions._ — The following are prohibited:
 
 (a) The ownership or possession, for the purpose of circumventing the provisions of this Act, of agricultural lands in excess of the total retention limits or award ceilings by any person, natural or juridical, except those under collective ownership by farmer-beneficiaries.
 
@@ -604,16 +750,26 @@ Transferees of agricultural lands shall furnish the appropriate Register of Deed
 
 (f) The sale, transfer or conveyance by a beneficiary of the right to use or any other usufructuary right over the land he acquired by virtue of being a beneficiary, in order to circumvent the provisions of this Act.
 
-**Section 74._Penalties._** — Any person who knowingly or willfully violates the provisions of this Act shall be punished by imprisonment of not less than one (1) month to not more than three (3) years or a fine of not less than one thousand pesos (P1,000.00) and not more than fifteen thousand pesos (P15,000.00), or both, at the discretion of the court.
+### Section 74
+
+_Penalties._ — Any person who knowingly or willfully violates the provisions of this Act shall be punished by imprisonment of not less than one (1) month to not more than three (3) years or a fine of not less than one thousand pesos (P1,000.00) and not more than fifteen thousand pesos (P15,000.00), or both, at the discretion of the court.
 
 If the offender is a corporation or association, the officer responsible therefore shall be criminally liable.
 
-**Section 75._Suppletory Application of Existing Legislation._** — The provisions of Republic Act No. 3844 as amended, Presidential Decree Nos. 27 and 266 as amended, Executive Order Nos. 228 and 229, both Series of 1987; and other laws not inconsistent with this Act shall have suppletory effect.
+### Section 75
 
-**Section 76._Repealing Clause._** — Section 35 of Republic Act No. 3834, Presidential Decree No. 316, the last two paragraphs of Section 12 of Presidential Decree No. 946, Presidential Decree No. 1038, and all other laws, decrees executive orders, rules and regulations, issuances or parts thereof inconsistent with this Act are hereby repealed or amended accordingly.
+_Suppletory Application of Existing Legislation._ — The provisions of Republic Act No. 3844 as amended, Presidential Decree Nos. 27 and 266 as amended, Executive Order Nos. 228 and 229, both Series of 1987; and other laws not inconsistent with this Act shall have suppletory effect.
 
-**Section 77._Separability Clause._** — If, for any reason, any section or provision of this Act is declared null and void, no other section, provision, or part thereof shall be affected and the same shall remain in full force and effect.
+### Section 76
 
-**Section 78._Effectivity Clause._** — This Act shall take effect immediately after publication in at least two (2) national newspapers of general circulation.
+_Repealing Clause._ — Section 35 of Republic Act No. 3834, Presidential Decree No. 316, the last two paragraphs of Section 12 of Presidential Decree No. 946, Presidential Decree No. 1038, and all other laws, decrees executive orders, rules and regulations, issuances or parts thereof inconsistent with this Act are hereby repealed or amended accordingly.
+
+### Section 77
+
+_Separability Clause._ — If, for any reason, any section or provision of this Act is declared null and void, no other section, provision, or part thereof shall be affected and the same shall remain in full force and effect.
+
+### Section 78
+
+_Effectivity Clause._ — This Act shall take effect immediately after publication in at least two (2) national newspapers of general circulation.
 
 Approved: **June 10, 1988**

@@ -39,6 +39,6 @@ In order to carry out the provisions of this Act for the fiscal year ending June
 
 ## Section 3
 
-This Act shall take effect on July first, nineteen hundred sixty-four.1âшphi1
+This Act shall take effect on July first, nineteen hundred sixty-four.
 
 Approved: June 20, 1964.

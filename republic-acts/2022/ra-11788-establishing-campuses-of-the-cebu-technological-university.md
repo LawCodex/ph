@@ -58,7 +58,7 @@ All parcels of land belonging to the government to be occupied by the CTu-Toledo
 
 ## Section 7
 
-The provisions of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act.1aшphi1
+The provisions of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act.
 
 ## Section 8
 

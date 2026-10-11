@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Animal Industry, a breeding station in the Subprovince of Biliran, Province of Leyte, to be known as Biliran Breeding Station.1âшphi1
+There shall be established, under the supervision of the Director of Animal Industry, a breeding station in the Subprovince of Biliran, Province of Leyte, to be known as Biliran Breeding Station.
 
 ## Section 2
 

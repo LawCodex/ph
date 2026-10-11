@@ -38,7 +38,7 @@ There is hereby created a Board on National Pantheon composed of the Secretary o
 
 (d) To order and supervise the construction of a suitable road leading to the said National Pantheon from the nearest national or provincial road; and
 
-(e) To perform such other functions as may be necessary to carry out the purposes of this Act.1aшphi1
+(e) To perform such other functions as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 

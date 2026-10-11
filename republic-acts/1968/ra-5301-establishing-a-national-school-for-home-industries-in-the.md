@@ -51,7 +51,7 @@ The Tublay School of Home Industries is hereby authorized to accept endowments, 
 
 ## Section 5
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the acquisition of a school site, establishment, operation, maintenance and expansion of said Tublay School of Home Industries during the fiscal year nineteen hundred and sixty-nine which shall include the purchase of a school site and construction of buildings and shops.1avvphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the acquisition of a school site, establishment, operation, maintenance and expansion of said Tublay School of Home Industries during the fiscal year nineteen hundred and sixty-nine which shall include the purchase of a school site and construction of buildings and shops. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the_ _Philippines i
 
 ## Section 1
 
-The Mayor Bartolome Serut National Agricultural and Trade High School - Musimut Annex in Barangay Musimut, Municipality of Kabugao, Province of Apayao is hereby separated from the Mayor Bartolome Serut National Agricultural and Trade High School and converted into an independent national high school to be known as Musimut National High School.1âwphi1
+The Mayor Bartolome Serut National Agricultural and Trade High School - Musimut Annex in Barangay Musimut, Municipality of Kabugao, Province of Apayao is hereby separated from the Mayor Bartolome Serut National Agricultural and Trade High School and converted into an independent national high school to be known as Musimut National High School.
 
 ## Section 2
 

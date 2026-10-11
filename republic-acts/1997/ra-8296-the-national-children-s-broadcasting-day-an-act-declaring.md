@@ -34,7 +34,7 @@ The second Sunday of December of every year is hereby declared as **_"The Nation
 
 In observance of this day, television and radio stations nationwide shall allocate a minimum of three (3) hours airtime for programs exclusively for, on, or about children and produced especially in observance of the National Children's Broadcasting Day: _Provided,_ That at least one (1) hour shall be prime time.
 
-The programs should be child-friendly, promote positive values, and enable children to exercise their rights to freedom of thought and expression as stated in the United Nations Convention on the Rights of the Child. The participation of children as talents or guests should be encouraged.1aшphi1
+The programs should be child-friendly, promote positive values, and enable children to exercise their rights to freedom of thought and expression as stated in the United Nations Convention on the Rights of the Child. The participation of children as talents or guests should be encouraged.
 
 ## Section 3
 

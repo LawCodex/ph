@@ -31,7 +31,7 @@ Section 5 of Republic Act No. 9993 or the "Philippine Coast Guard Law of 2009" i
 
 ## Section 2
 
-_Application._ \- The provisions of this Act shall also apply to the PCG Commandant appointed and/or promoted under Republic Act No. 9993 and other pertinent laws.ℒαwρhi৷
+_Application._ \- The provisions of this Act shall also apply to the PCG Commandant appointed and/or promoted under Republic Act No. 9993 and other pertinent laws.
 
 ## Section 3
 

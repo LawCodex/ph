@@ -28,7 +28,7 @@ There shall be established, under the supervision and administration of the Dire
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-one. Thereafter, the necessary sum for the same purpose shall be included in the annual General Appropriations Acts.1âшphi1
+The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-one. Thereafter, the necessary sum for the same purpose shall be included in the annual General Appropriations Acts.
 
 ## Section 3
 

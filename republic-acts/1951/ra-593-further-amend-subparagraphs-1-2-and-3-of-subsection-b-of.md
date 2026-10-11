@@ -32,6 +32,6 @@ Subparagraphs (1), (2) and (3) of subsection (b) of section one hundred thirty-s
 
 ## Section 2
 
-This Act shall take effect upon its approval.1awphi1@itc-alf
+This Act shall take effect upon its approval.
 
-Approved: **January 30, 1951** 1awphil@alf
+Approved: **January 30, 1951**

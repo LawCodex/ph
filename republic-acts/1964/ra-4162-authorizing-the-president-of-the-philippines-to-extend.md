@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The President of the Philippines is authorized to send economic and technical assistance to South Vietnam.1âшphi1
+The President of the Philippines is authorized to send economic and technical assistance to South Vietnam.
 
 ## Section 2
 

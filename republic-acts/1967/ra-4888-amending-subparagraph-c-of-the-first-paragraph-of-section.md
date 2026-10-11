@@ -34,7 +34,7 @@ Subparagraph (c) of the first paragraph of Section one hundred eighty-eight of C
 
 "(b) …
 
-"(c) Minerals and mineral products, whether in their original state or not when sold, bartered, or exchanged by the lessee, concessionaire or owner of the mineral land from which removed.1avvphi1
+"(c) Minerals and mineral products, whether in their original state or not when sold, bartered, or exchanged by the lessee, concessionaire or owner of the mineral land from which removed.
 
 x x x x x x x x x
 

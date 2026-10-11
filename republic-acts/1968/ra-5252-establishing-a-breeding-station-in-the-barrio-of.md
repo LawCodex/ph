@@ -33,7 +33,7 @@ The Director of Animal Industry shall appoint such personnel as may be necessary
 
 ## Section 3
 
-Such sum as may be necessary to carry out the purpose of this Act is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for the fiscal year ending June thirty, nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+Such sum as may be necessary to carry out the purpose of this Act is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for the fiscal year ending June thirty, nineteen hundred sixty-nine. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

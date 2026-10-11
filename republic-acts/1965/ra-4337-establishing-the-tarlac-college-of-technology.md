@@ -81,7 +81,7 @@ The head of the institution shall be known as the President of the Tarlac Colleg
 
 ## Section 9
 
-There shall be a College Council, consisting of the President of the College and of all instructors of the College. The Council alone shall have the power to recommend students or others to be recipients of degrees.1âшphi1 Through its president or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+There shall be a College Council, consisting of the President of the College and of all instructors of the College. The Council alone shall have the power to recommend students or others to be recipients of degrees. Through its president or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
 
 ## Section 10
 

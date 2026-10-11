@@ -29,7 +29,7 @@ The Agham Road and the BIR Road, stretching from North Avenue, traversing throug
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) day from its effectivity.1aшphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) day from its effectivity.
 
 ## Section 3
 

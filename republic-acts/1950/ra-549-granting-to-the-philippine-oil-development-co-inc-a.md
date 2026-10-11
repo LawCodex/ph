@@ -32,7 +32,7 @@ The President of the Philippines shall have power and authority to permit the lo
 
 ## Section 3
 
-This temporary permit shall continue to be in force during the time that the government has not established similar service at the places selected by the grantee.1aшphi1
+This temporary permit shall continue to be in force during the time that the government has not established similar service at the places selected by the grantee.
 
 ## Section 4
 

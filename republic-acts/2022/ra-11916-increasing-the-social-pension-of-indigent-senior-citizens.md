@@ -71,7 +71,7 @@ The DSWD shall, subject to the approval of the Department of Budget and Manageme
 
 (3) Social Safety Nets
 
-Social safety assistance intended to cushion the effects of economic shocks, disasters and calamities shall be available for senior citizens.ℒαwρhi৷ The social safety assistance which shall include food, medicines, and financial assistance for domicile repair, shall be sourced from the disaster/calamity funds of LGUs where the senior citizens reside, subject to the guidelines to be issued by the National Commission of Senior Citizens (NCSC)."
+Social safety assistance intended to cushion the effects of economic shocks, disasters and calamities shall be available for senior citizens. The social safety assistance which shall include food, medicines, and financial assistance for domicile repair, shall be sourced from the disaster/calamity funds of LGUs where the senior citizens reside, subject to the guidelines to be issued by the National Commission of Senior Citizens (NCSC)."
 
 ## Section 3
 

@@ -1185,7 +1185,7 @@ _The City Jail Service._ -
 
 a. There shall be established and maintained in the City a secured, clean, adequately equipped and sanitary jail for the custody and safekeeping of prisoners, any fugitive from justice, or person detained awaiting investigation or trial and/or transfer to the national penitentiary, and/or violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
 
-b. The city jail service shall be headed by a city jail warden who must be a graduate of a four (4) year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners.ℒαwρhi৷ Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
+b. The city jail service shall be headed by a city jail warden who must be a graduate of a four (4) year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners. Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
 
 ### Section 49
 

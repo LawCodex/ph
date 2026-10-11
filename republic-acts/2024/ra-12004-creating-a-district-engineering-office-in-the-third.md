@@ -36,7 +36,7 @@ The Bulacan Third District Engineering Office shall serve the municipalities of 
 
 ## Section 3
 
-The Secretary of Public Works and Highways shall include in the Department's program the operationalization of the Bulacan Third District Engineering Office, the funding of which shall be included in the annual General Appropriations Act.1aшphi1
+The Secretary of Public Works and Highways shall include in the Department's program the operationalization of the Bulacan Third District Engineering Office, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

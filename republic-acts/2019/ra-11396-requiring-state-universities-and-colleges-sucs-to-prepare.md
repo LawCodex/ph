@@ -72,7 +72,7 @@ _Coverage._ — The LUDIP of the SUCs shall include the following:
 
 _Assistance of Government Institutions._ -The SUCs may seek assistance and cooperation from the Housing and Land Use Regulatory Board (HLURB), the University of the Philippines School of Urban and Regional Planning (UP-SURP), the Department of Public Works and Highways (DPWH), Land Management Bureau of the Department of Environment and Natural Resources (LMB-DENR) and other government offices or agencies in drawing up the LUDIP. For this purpose, all government departments, agencies, offices, and instrumentalities are hereby mandated to extend all possible assistance and cooperation to all SUCs in the preparation of their LUDIP.
 
-The CHED, UP-SURP and HLURB shall design capacity building programs for SUCs to enable the SUCs to develop and prepare suitable land use plans.1âшphi1
+The CHED, UP-SURP and HLURB shall design capacity building programs for SUCs to enable the SUCs to develop and prepare suitable land use plans.
 
 ## Section 7
 

@@ -34,7 +34,7 @@ There shall be constructed, under the supervision of the Department of Agricultu
 
 ## Section 2
 
-The PFDA, in coordination with the local government unit (LGU) concerned, shall formulate the rules and regulations necessary for the effective implementation of this Act.1âwphi1
+The PFDA, in coordination with the local government unit (LGU) concerned, shall formulate the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

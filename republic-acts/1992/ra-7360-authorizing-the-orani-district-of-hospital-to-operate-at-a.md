@@ -33,7 +33,7 @@ The hospital's personnel complement shall be correspondingly increased to meet t
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be charged against the lump-sum appropriations authorized for the purpose under the current General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.1âшphi1
+The amount necessary to carry out the provisions of this Act shall be charged against the lump-sum appropriations authorized for the purpose under the current General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

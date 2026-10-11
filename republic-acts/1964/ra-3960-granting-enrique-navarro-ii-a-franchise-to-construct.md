@@ -30,7 +30,7 @@ Subject to the terms and conditions established in Act Numbered Thirty-six hundr
 
 ## Section 2
 
-It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein at cost, less reasonable depreciation.1âшphi1
+It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein at cost, less reasonable depreciation.
 
 ## Section 3
 

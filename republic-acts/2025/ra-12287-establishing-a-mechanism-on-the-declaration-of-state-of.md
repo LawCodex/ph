@@ -147,7 +147,7 @@ _Prohibited Acts._ \- In addition to the prohibited acts under Section 19 of Rep
 
 (a) Malicious creation or spreading of false information including hazard and risk information, from demonstrably spurious sources, whether domestic or foreign; or
 
-(b) Manipulation of assessment reports and related information to support improper declaration of a State of Imminent Disaster.ℒαwρhi৷
+(b) Manipulation of assessment reports and related information to support improper declaration of a State of Imminent Disaster.
 
 ### Section 13
 
@@ -167,11 +167,11 @@ _Implementing Rules and Regulations._ \- The NRDDMC, through its Chairperson, up
 
 ### Section 15
 
-_Congressional Oversight Committee._ \- There is hereby created a Congressional Oversight Committee (COC) to monitor and oversee the implementation of the provisions of this Act.ℒαwρhi৷ The COC shall be composed of five (5) members of the House of Representatives and five (5) members of the Senate. The minority shall be entitled to pro rata representation but shall have at least one (1) representative from each Chamber. It shall be jointly chaired by the Committee on Disaster Resilience Chairperson for the House of Representatives and the Committee on National Defense and Security, Peace, Unification and Reconciliation Chairperson for the Senate. It shall render a report and recommendation to Congress, which shall be the basis for policy legislation in disaster resilience.
+_Congressional Oversight Committee._ \- There is hereby created a Congressional Oversight Committee (COC) to monitor and oversee the implementation of the provisions of this Act. The COC shall be composed of five (5) members of the House of Representatives and five (5) members of the Senate. The minority shall be entitled to pro rata representation but shall have at least one (1) representative from each Chamber. It shall be jointly chaired by the Committee on Disaster Resilience Chairperson for the House of Representatives and the Committee on National Defense and Security, Peace, Unification and Reconciliation Chairperson for the Senate. It shall render a report and recommendation to Congress, which shall be the basis for policy legislation in disaster resilience.
 
 ### Section 16
 
-S _eparability Clause._ \- If, for any reason, any provision or part of this Act is declared unconstitutional or invalid, such parts not affected thereby shall remain in full force and effect.1aшphi1
+S _eparability Clause._ \- If, for any reason, any provision or part of this Act is declared unconstitutional or invalid, such parts not affected thereby shall remain in full force and effect.
 
 ### Section 17
 

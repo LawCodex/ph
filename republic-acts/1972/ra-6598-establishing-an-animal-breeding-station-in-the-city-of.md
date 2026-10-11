@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Animal Industry, an animal breeding station in the City of Butuan, to be known as the Butuan City Animal Breeding Station.1âшphi1
+There shall be established, under the direct supervision of the Director of Animal Industry, an animal breeding station in the City of Butuan, to be known as the Butuan City Animal Breeding Station.
 
 ## Section 2
 

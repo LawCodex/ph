@@ -48,7 +48,7 @@ The PUP-Santa Rosa Campus shall be headed by a Campus Administrator who shall re
 
 ## Section 5
 
-The establishment of the PUP-Santa Rosa Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with, as duly prescribed by the Commission on Higher Education.ℒαwρhi৷
+The establishment of the PUP-Santa Rosa Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with, as duly prescribed by the Commission on Higher Education.
 
 ## Section 6
 

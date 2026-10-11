@@ -36,7 +36,7 @@ All personal effects, including one automobile, which may be needed by a citizen
 
 ## Section 4
 
-All donations, contributions and gifts given to the Foundation by a donor shall be exempt from the payment of the customs duties, import levy, taxes and the margin fee, and such donations, contributions and gifts shall be considered allowable deductions for purposes of determining the income tax of the donor.1âшphi1
+All donations, contributions and gifts given to the Foundation by a donor shall be exempt from the payment of the customs duties, import levy, taxes and the margin fee, and such donations, contributions and gifts shall be considered allowable deductions for purposes of determining the income tax of the donor.
 
 ## Section 5
 

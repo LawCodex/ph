@@ -50,7 +50,7 @@ _Repealing Clause._ – All laws, decrees, orders and issuances or portions ther
 
 ## Section 6
 
-_Effectivity._ – This Act shall take effect fifteen (15) days following its publication in at least two (2) national newspapers of general circulation.1âwphi1
+_Effectivity._ – This Act shall take effect fifteen (15) days following its publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

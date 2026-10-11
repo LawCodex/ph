@@ -31,7 +31,7 @@ Section sixteen hundred and seventy-four of the Revised Administrative Code, as 
 
 ## Section 2
 
-The provincial fiscal and his assistants shall be entitled to receive a lump sum monthly gasoline allowance regardless of whether the cars they are using are registered in their own names, as well as representation and such other form of allowances from the local government funds in such amount that the Provincial Board or Council may fix even if there is a provincial or municipal attorney.1âшphi1
+The provincial fiscal and his assistants shall be entitled to receive a lump sum monthly gasoline allowance regardless of whether the cars they are using are registered in their own names, as well as representation and such other form of allowances from the local government funds in such amount that the Provincial Board or Council may fix even if there is a provincial or municipal attorney.
 
 ## Section 3
 

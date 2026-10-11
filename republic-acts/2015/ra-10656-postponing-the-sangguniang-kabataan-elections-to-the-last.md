@@ -39,7 +39,7 @@ Provided, That the sangguniang kabataan elections on October 28, 2013 shall be p
 
 ## Section 2
 
-The Commission on Elections and the Department of the Interior and Local Government shall promulgate such rules and regulations necessary to implement this Act within thirty (30) days after its effectivity.1âwphi1
+The Commission on Elections and the Department of the Interior and Local Government shall promulgate such rules and regulations necessary to implement this Act within thirty (30) days after its effectivity.
 
 ## Section 3
 

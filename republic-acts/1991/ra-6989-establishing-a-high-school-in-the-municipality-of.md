@@ -37,7 +37,7 @@ The amount necessary to carry out the provisions of this Act is hereby authorize
 
 ## Section 4
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

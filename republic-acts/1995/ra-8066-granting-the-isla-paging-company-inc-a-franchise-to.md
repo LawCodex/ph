@@ -102,7 +102,7 @@ _Repealing Clause._ \- Republic Act No. 7372 shall be deemed repealed upon the i
 
 ## Section 19
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1aшphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 20
 

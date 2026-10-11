@@ -39,7 +39,7 @@ The amount of Nine hundred million pesos (P900,000,000.00) is hereby appropriate
 
 ## Section 3
 
-Within ninety (90) days from the effectivity of this Act, the Secretary of Health shall prepare and issue the necessary rules and regulations for the effective implementation of this Act, consistent with the hospital development plan.Ꮮαwρhi৷
+Within ninety (90) days from the effectivity of this Act, the Secretary of Health shall prepare and issue the necessary rules and regulations for the effective implementation of this Act, consistent with the hospital development plan.
 
 ## Section 4
 

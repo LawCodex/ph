@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-The existing Land Transportation Office (LTO) Satellite Office in District 2, Parañaque City is hereby converted into a regular LTO district office.1âwphi1
+The existing Land Transportation Office (LTO) Satellite Office in District 2, Parañaque City is hereby converted into a regular LTO district office.
 
 ## SECTION 2
 

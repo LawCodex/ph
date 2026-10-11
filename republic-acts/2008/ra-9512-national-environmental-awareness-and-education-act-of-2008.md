@@ -28,29 +28,47 @@ AN ACT TO PROMOTE ENVIRONMENTAL AWARENESS THROUGH ENVIRONMENTAL EDUCATION AND FO
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the **"_National Environmental Awareness and Education Act of 2008_ "**.
+## Section 1
 
-**Section 2._Declaration of Policy._** \- Consistent with the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature, and in recognition of the vital role of the youth in nation building and the role of education to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development, the state shall promote national awareness on the role of natural resources in economic growth and the importance of environmental conservation and ecological balance towards sustained national development.
+_Title._ \- This Act shall be known as the **"_National Environmental Awareness and Education Act of 2008_ "**.
 
-**Section 3._Scope of Environmental Education._** \- The Department of Education (DepEd), the Commission on Higher Education (CHED), the Technical Education and Skills Development Authority (TESDA), the Department of Social Welfare and Development (DSWD), in coordination with the Department of Environment and Natural Resources (DENR), the Department of Science and Technology (DOST) and other relevant agencies, shall integrate environmental education in its school curricula at all levels, whether public or private, including in barangay daycare, preschool, non-formal, technical vocational, professional level, indigenous learning and out-of-school youth courses or programs. Environmental education shall encompass environmental concepts and principles, environmental laws, the state of international and local environment, local environmental best practices, the threats of environmental degradation and its impact on human well-being, the responsibility of the citizenry to the environment and the value of conservation, protection and rehabilitation of natural resources and the environment in the context of sustainable development. It shall cover both theoretical and practicum modules comprising activities, projects, programs including, but not limited to, tree planting; waste minimization, segregation, recycling and composting; freshwater and marine conservation; forest management and conservation; relevant livelihood opportunities and economic benefits and other such programs and undertakings to aid the implementation of the different environmental protection law.
+## Section 2
+
+_Declaration of Policy._ \- Consistent with the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature, and in recognition of the vital role of the youth in nation building and the role of education to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development, the state shall promote national awareness on the role of natural resources in economic growth and the importance of environmental conservation and ecological balance towards sustained national development.
+
+## Section 3
+
+_Scope of Environmental Education._ \- The Department of Education (DepEd), the Commission on Higher Education (CHED), the Technical Education and Skills Development Authority (TESDA), the Department of Social Welfare and Development (DSWD), in coordination with the Department of Environment and Natural Resources (DENR), the Department of Science and Technology (DOST) and other relevant agencies, shall integrate environmental education in its school curricula at all levels, whether public or private, including in barangay daycare, preschool, non-formal, technical vocational, professional level, indigenous learning and out-of-school youth courses or programs. Environmental education shall encompass environmental concepts and principles, environmental laws, the state of international and local environment, local environmental best practices, the threats of environmental degradation and its impact on human well-being, the responsibility of the citizenry to the environment and the value of conservation, protection and rehabilitation of natural resources and the environment in the context of sustainable development. It shall cover both theoretical and practicum modules comprising activities, projects, programs including, but not limited to, tree planting; waste minimization, segregation, recycling and composting; freshwater and marine conservation; forest management and conservation; relevant livelihood opportunities and economic benefits and other such programs and undertakings to aid the implementation of the different environmental protection law.
 
 **Section 4 _. Environmental Education and Activities as Part of National Service Training Program._** \- The CHED and the TESDA shall include environmental education and awareness programs and activities in the National Service Training Program under Republic Act No. 9163, as part of the Civic Welfare Training Service component required for all baccalaureate degree courses and vocational courses with a curriculum of at least two (2) years.
 
-**Section 5._Declaration of Environmental Awareness Month._** \- Pursuant to the policy set forth in this Act, the month of November of every year shall be known as the "Environmental Awareness Month" throughout the Philippines.
+## Section 5
 
-**Section 6._Interagency and Multi-sectoral Effort._ **\- The DepEd, CHED, TESDA, DENR, DOST and other relevant agencies, in consultation with experts on the environment and the academe, shall lead in the implementation of public education and awareness programs on environmental protection and conservation through collaborative interagency and multi-sectoral effort at all levels.
+_Declaration of Environmental Awareness Month._ \- Pursuant to the policy set forth in this Act, the month of November of every year shall be known as the "Environmental Awareness Month" throughout the Philippines.
+
+## Section 6
+
+_Interagency and Multi-sectoral Effort._ \- The DepEd, CHED, TESDA, DENR, DOST and other relevant agencies, in consultation with experts on the environment and the academe, shall lead in the implementation of public education and awareness programs on environmental protection and conservation through collaborative interagency and multi-sectoral effort at all levels.
 
 The DENR shall have the primary responsibility of periodically informing all agencies concerned on current environmental updates, including identifying priority environmental education issues for national action and providing strategic advice on the environmental education activities. The DepEd, CHED, TESDA, DENR, DOST, DSWD and barangay units shall ensure that the information is disseminated to the subject students.
 
 The DOST is mandated to create programs that will ensure that students receive science-based quality information on environmental issues to encourage the development of environment-friendly solutions, devices, equipment and facilities.
 
-**Section 7._Capacity-Building._** \- The DepEd, CHED and TESDA, in coordination with the DENR and other relevant agencies, shall undertake capacity-building programs nationwide such as trainings, seminars, workshops on environmental education, development and production of environmental education materials, and teacher-education courses and related livelihood programs.
+## Section 7
 
-**Section 8._Separability Clause._** \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
+_Capacity-Building._ \- The DepEd, CHED and TESDA, in coordination with the DENR and other relevant agencies, shall undertake capacity-building programs nationwide such as trainings, seminars, workshops on environmental education, development and production of environmental education materials, and teacher-education courses and related livelihood programs.
 
-**Section 9._Repealing Clause._** \- All other acts, laws, executive orders, presidential issuances, rules and regulations or any part thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 8
 
-**Section 10._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+_Separability Clause._ \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
+
+## Section 9
+
+_Repealing Clause._ \- All other acts, laws, executive orders, presidential issuances, rules and regulations or any part thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+## Section 10
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 Approved
 

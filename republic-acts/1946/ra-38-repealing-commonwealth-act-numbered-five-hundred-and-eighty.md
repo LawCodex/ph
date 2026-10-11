@@ -28,7 +28,7 @@ Commonwealth Act Numbered Five Hundred and eighty-one, otherwise known as the Ch
 
 ## Section 2
 
-A new municipality to be known as the municipality of Santa Fe which shall comprise the barrios of Agcogon, Guimbarayan, Lanas and Santa Fe, formerly comprised within the municipality of Looc prior to the enactment of Commonwealth Act Numbered Five hundred eighty-one, is hereby created.1âwphi1
+A new municipality to be known as the municipality of Santa Fe which shall comprise the barrios of Agcogon, Guimbarayan, Lanas and Santa Fe, formerly comprised within the municipality of Looc prior to the enactment of Commonwealth Act Numbered Five hundred eighty-one, is hereby created.
 
 ## Section 3
 

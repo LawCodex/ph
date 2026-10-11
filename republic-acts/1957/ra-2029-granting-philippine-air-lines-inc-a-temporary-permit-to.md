@@ -36,7 +36,7 @@ The grantee may charge such fees for its services at such rates as may be approv
 
 ## Section 4
 
-The grantee shall file a bond in the amount of fifty thousand pesos to guarantee full compliance and fulfillment of the conditions under which this temporary permit is granted.1âшphi1
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee full compliance and fulfillment of the conditions under which this temporary permit is granted.
 
 ## Section 5
 

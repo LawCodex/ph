@@ -28,7 +28,7 @@ The Talavera High School in the Municipality of Talavera, Province of Nueva Ecij
 
 ## Section 2
 
-The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said high school during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said high school during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

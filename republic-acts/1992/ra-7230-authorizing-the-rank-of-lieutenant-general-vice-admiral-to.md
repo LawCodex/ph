@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The rank of lieutenant general/vice admiral is authorized to the positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the rank of major general/rear admiral to the positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy of the Armed Forces of the Philippines.1âшphi1
+The rank of lieutenant general/vice admiral is authorized to the positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the rank of major general/rear admiral to the positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy of the Armed Forces of the Philippines.
 
 ## Section 2
 

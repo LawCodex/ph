@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-September 29 of every year as a special nonworking public holiday in the Municipality of Balilihan, province of Bohol to commemorate its _Sumad_ Day or foundation anniversary.1avvphi1
+September 29 of every year as a special nonworking public holiday in the Municipality of Balilihan, province of Bohol to commemorate its _Sumad_ Day or foundation anniversary.
 
 ## Section 2
 

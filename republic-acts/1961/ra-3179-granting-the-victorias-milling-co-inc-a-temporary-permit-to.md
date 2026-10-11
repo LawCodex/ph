@@ -32,11 +32,11 @@ This temporary permit shall continue to be in force during the time that the Gov
 
 ## Section 3
 
-The grantee, its successors or assigns, shall not engage in domestic and business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land-based and land mobile radio stations in such places within the Philippines as the interest of the trade and business of the grantee may justify.1avvphi1
+The grantee, its successors or assigns, shall not engage in domestic and business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land-based and land mobile radio stations in such places within the Philippines as the interest of the trade and business of the grantee may justify.
 
 ## Section 4
 
-No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee’s business only.1avvphi1
+No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee’s business only.
 
 ## Section 5
 
@@ -64,7 +64,7 @@ A special right is hereby reserved to the President of the Philippines in time o
 
 ## Section 11
 
-This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 12
 

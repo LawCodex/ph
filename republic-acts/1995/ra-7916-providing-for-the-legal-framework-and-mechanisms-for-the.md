@@ -524,7 +524,7 @@ _Authority of the President to Advance Initial Funding._ \- Subject to existing 
 
 _Non-applicability on Areas Covered by Republic Act No. 7227._ \- This Act shall not be applicable to economic zones and areas already created or to be created under Republic Act No. 7227 or other special laws, and governed by authorities constituted pursuant thereto.
 
-Any provision of this Act which provides benefits or privileges less than those granted or imposes obligations or burdens more onerous to special economic zones created or to be created under special laws shall not apply to them.1aшphi1
+Any provision of this Act which provides benefits or privileges less than those granted or imposes obligations or burdens more onerous to special economic zones created or to be created under special laws shall not apply to them.
 
 ### Section 51
 

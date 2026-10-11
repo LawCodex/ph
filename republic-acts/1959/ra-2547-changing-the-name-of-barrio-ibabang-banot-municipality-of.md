@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio Ibabang Banot, Municipality of Gumaca, Province of Quezon, is hereby changed to Gitnang Barrio.1âшphi1
+The name of Barrio Ibabang Banot, Municipality of Gumaca, Province of Quezon, is hereby changed to Gitnang Barrio.
 
 ## Section 2
 

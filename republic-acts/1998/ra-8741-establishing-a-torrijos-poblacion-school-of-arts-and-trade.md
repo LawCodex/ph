@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a Torrijos Poblacion School of Arts and Trade in the Poblacion of the Municipality of Torrijos, Province of Marinduque, under the supervision of the Technical Education and Skills Development Authority (TESDA).Ꮮαwρhi৷
+There is hereby established a Torrijos Poblacion School of Arts and Trade in the Poblacion of the Municipality of Torrijos, Province of Marinduque, under the supervision of the Technical Education and Skills Development Authority (TESDA).
 
 ## Section 2
 

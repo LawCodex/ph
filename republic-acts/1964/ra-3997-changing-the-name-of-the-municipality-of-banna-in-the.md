@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipality of Banna in the Province of Ilocos Norte, is hereby changed to Espiritu.(awÞhi(
+The name of the Municipality of Banna in the Province of Ilocos Norte, is hereby changed to Espiritu.
 
 ## Section 2
 

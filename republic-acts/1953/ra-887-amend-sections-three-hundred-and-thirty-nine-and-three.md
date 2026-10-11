@@ -53,7 +53,7 @@ Section three hundred and thirty-nine of Commonwealth Act Numbered Four hundred 
 
 "3-hydroxy-N-methyl morphinan (otherwise known by the symbol NU-2206);
 
-"be it in hydrochloride form or otherwise, and opiate.1a⍵⍴h!1
+"be it in hydrochloride form or otherwise, and opiate.
 
 "Opiate" embraces every kind, class, and character of opium, whether crude, prepared, ash, or refuse, and all narcotic preparations thereof or therefrom, and all morphine or .alkaloids of opium, and all preparations in which opium, morphine, or any alkaloid of opium enters as an ingredient, together with all opium leaves and wrappings of opium leaves, whether such leaves or wrappings are prepared for use or not and any other drug or substance found by the Secretary of Finance and Secretary of Health, after due notice and opportunity for public hearing, to have an addiction-forming or addiction-sustaining liability similar to morphine or cocaine, and proclaimed by the President of the Philippines as such habit forming narcotic drugs."
 

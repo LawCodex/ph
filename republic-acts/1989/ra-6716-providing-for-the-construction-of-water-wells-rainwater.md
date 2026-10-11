@@ -51,7 +51,7 @@ _Funding_. — The sum needed for the implementation of the construction, rehabi
 
 ## Section 6
 
-_Effectivity_. — This Act shall take effect upon publication in at least two (2) newspapers of general circulation.1a⍵⍴h!1
+_Effectivity_. — This Act shall take effect upon publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

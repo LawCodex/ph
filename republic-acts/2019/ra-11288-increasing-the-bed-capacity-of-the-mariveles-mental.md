@@ -38,7 +38,7 @@ The amount necessary for the expanded operation of the hospital, including the a
 
 ## Section 3
 
-The Department of Health shall issue the rules and regulations necessary for the effective implementation of this Act.1âшphi1
+The Department of Health shall issue the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 4
 

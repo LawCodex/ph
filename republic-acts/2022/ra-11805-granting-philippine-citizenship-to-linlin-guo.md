@@ -34,7 +34,7 @@ Ms. Linlin Guo is hereby granted Philippine citizenship with all the rights, pri
 
 ## Section 2
 
-Ms. Linlin Guo shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.ℒαwρhi৷ The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Ms. Linlin Guo shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

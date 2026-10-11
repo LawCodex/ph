@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The subprovinces of Apayao, Bontoc, Ifugao and Kalinga in Mountain Province are hereby constituted and organized into two separate, independent and regular highway engineering district, one to be known as the Tabuk Highway Engineering District, and the other as the Bontok Highway Engineering District.1âшphi1 The Tabuk Highway Engineering District shall comprise the subprovinces of Apayao and Kalinga and the Bontoc Highway Engineering District shall comprise the subprovinces of Ifugao and Bontoc.
+The subprovinces of Apayao, Bontoc, Ifugao and Kalinga in Mountain Province are hereby constituted and organized into two separate, independent and regular highway engineering district, one to be known as the Tabuk Highway Engineering District, and the other as the Bontok Highway Engineering District. The Tabuk Highway Engineering District shall comprise the subprovinces of Apayao and Kalinga and the Bontoc Highway Engineering District shall comprise the subprovinces of Ifugao and Bontoc.
 
 ## Section 2
 

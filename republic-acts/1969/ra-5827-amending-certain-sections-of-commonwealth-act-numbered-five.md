@@ -34,7 +34,7 @@ Section fifteen of Commonwealth Act Numbered Five hundred twenty, as amended, is
 | (b) | To make all appropriations for the expenses of the government of the city. |
 | (c) | To fix the number and salaries of officials and employees of the city not otherwise provided for in this Act. |
 | (d) | To authorize the free distribution of medicines to the employees and laborers of the city whose salary or wage does not exceed one hundred eighty pesos per month or six pesos per day; of fresh or evaporated native milk to indigent mothers residing in the city and of bread and light meals to indigent children of ten years or less of age residing in the city, the distribution to be made under the direct supervision and control of the Mayor. |
-| (e) | To fix the tariff of fees and charges of all services rendered by the city or any of 'its departments, branches, or officials. 1a⍵⍴h!1 |
+| (e) | To fix the tariff of fees and charges of all services rendered by the city or any of 'its departments, branches, or officials. |
 | (f) | To provide for the erection and maintenance or the rental of the necessary buildings for the use of the city. |
 | (g) | To establish and maintain schools as provided by law and with the approval of the Director of Public Schools or Vocational Education, to fix reasonable tuition fees for instruction therein. |
 | (h) | To establish or aid in the establishment and maintenance of vocational schools and institutions of higher learning conducted by the National Government or any of the Director of Public Schools or Vocational Education, to fix reasonable tuition fees for instruction in the vocational schools and in those higher institutions supported entirely by the city. |
@@ -174,6 +174,6 @@ Whenever the phrases "Municipal Court" or "Municipal Judge" appear in Commonweal
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

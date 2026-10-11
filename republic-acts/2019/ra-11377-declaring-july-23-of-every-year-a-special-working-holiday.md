@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-July 23 of every year is hereby declared a special working holiday in the City of Batangas, Province of Batangas, in commemoration of its founding anniversary, to be known as "Batangas City Foundation Day". Upon proclamation of the President, July 23 of every year shall be a special nonworking holiday in the City of Batangas, Province of Batangas.1âшphi1
+July 23 of every year is hereby declared a special working holiday in the City of Batangas, Province of Batangas, in commemoration of its founding anniversary, to be known as "Batangas City Foundation Day". Upon proclamation of the President, July 23 of every year shall be a special nonworking holiday in the City of Batangas, Province of Batangas.
 
 ## Section 2
 

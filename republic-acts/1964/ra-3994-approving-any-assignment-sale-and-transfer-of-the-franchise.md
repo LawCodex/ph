@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Butuan Sawmill, Inc., to install, operate and maintain an electric light, heat and power system in the Municipality of Lianga, Province of Surigao del Sur, under Republic Act Numbered Eighteen hundred forty-nine, in favor of the Municipal Government of Lianga, Province of Surigao del Sur, together with all the property and equipment acquired thereunder.1âшphi1
+Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Butuan Sawmill, Inc., to install, operate and maintain an electric light, heat and power system in the Municipality of Lianga, Province of Surigao del Sur, under Republic Act Numbered Eighteen hundred forty-nine, in favor of the Municipal Government of Lianga, Province of Surigao del Sur, together with all the property and equipment acquired thereunder.
 
 ## Section 2
 

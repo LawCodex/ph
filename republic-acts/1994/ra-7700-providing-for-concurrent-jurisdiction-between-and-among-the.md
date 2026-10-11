@@ -38,7 +38,7 @@ xxxx xxxx xxxx
 
 ## Section 2
 
-All laws, decrees, executive orders, letters of instructions, letters of implementation, rules and regulations or part or parts thereof inconsistent with any provision of this Act are hereby repealed, modified, superseded or amended accordingly.1a⍵⍴h!1
+All laws, decrees, executive orders, letters of instructions, letters of implementation, rules and regulations or part or parts thereof inconsistent with any provision of this Act are hereby repealed, modified, superseded or amended accordingly.
 
 ## Section 3
 

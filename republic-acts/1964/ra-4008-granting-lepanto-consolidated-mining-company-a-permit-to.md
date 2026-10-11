@@ -49,7 +49,7 @@ The grantee, its successors or assigns, shall so construct and operate its radio
 
 ## Section 7
 
-The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.(awÞhi(
+The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 8
 

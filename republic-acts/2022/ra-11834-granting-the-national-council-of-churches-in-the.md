@@ -52,7 +52,7 @@ Pursuant to Republic Act No. 8370, otherwise known as the “Children’s Televi
 
 ## Section 5
 
-_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony, and the use thereof is a privilege conferred upon the Grantee by the State that may be withdrawn any time after due process.ᇈWᑭHIL
+_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony, and the use thereof is a privilege conferred upon the Grantee by the State that may be withdrawn any time after due process.
 
 A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations, transmitters, facilities or equipment of the Grantee; to temporarily suspend the operation of any station, transmitter, facility, or equipment in the interest of public safety, security, and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the Grantee for the use of said stations, transmitters, facilities, or equipment during the period when these shall be so operated.
 

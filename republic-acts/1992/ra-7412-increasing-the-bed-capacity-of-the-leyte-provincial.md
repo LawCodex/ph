@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Leyte Provincial Hospital in the Municipality of Palo, Province of Leyte, is hereby increased to one hundred (100) beds.1âшphi1
+The bed capacity of the Leyte Provincial Hospital in the Municipality of Palo, Province of Leyte, is hereby increased to one hundred (100) beds.
 
 ## Section 2
 

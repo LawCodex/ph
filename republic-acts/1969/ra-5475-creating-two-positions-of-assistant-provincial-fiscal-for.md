@@ -33,4 +33,4 @@ Section sixteen hundred seventy-four of the Administrative Code, as amended, is 
 
 This Act shall take effect upon its approval.
 
-Approved, June 21, 1969.1a⍵⍴h!1
+Approved, June 21, 1969.

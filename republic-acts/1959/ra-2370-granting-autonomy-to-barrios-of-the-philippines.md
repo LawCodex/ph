@@ -180,7 +180,7 @@ The barrio council shall have the following powers, duties and responsibilities:
 
 (g) To provide for the publication by town crier or such other means as they see fit, of laws, ordinances and/or matters of public interest;
 
-(h) To hold benefits in their respective barrios without having to secure permits from the Social Welfare Administration.£a⩊phi£ The proceeds from such benefits shall be tax-exempt and shall go to the barrio general fund, unless previously set aside for a specific purpose;
+(h) To hold benefits in their respective barrios without having to secure permits from the Social Welfare Administration. The proceeds from such benefits shall be tax-exempt and shall go to the barrio general fund, unless previously set aside for a specific purpose;
 
 (i) To organize at least twice a month such lectures, programs and/or community assemblies as may serve to educate and enlighten the people on moral, civic, political, educational and other matters of public interest.
 
@@ -194,7 +194,7 @@ The barrio council shall have the following powers, duties and responsibilities:
 
 ### Section 13
 
-_Procedure in barrio councils._ -The barrio lieutenant shall be the presiding officer of the barrio council. In his absence or inability, the vice barrio lieutenant designated by the barrio council shall act as presiding officer.1aшphi1
+_Procedure in barrio councils._ -The barrio lieutenant shall be the presiding officer of the barrio council. In his absence or inability, the vice barrio lieutenant designated by the barrio council shall act as presiding officer.
 
 Regular meetings of the barrio council shall be held at least once a month at the call of the barrio lieutenant. Special meetings may also be called by him and by any three members of the barrio council at any time.
 
@@ -204,7 +204,7 @@ At the first meeting of the newly elected barrio council, the barrio lieutenant,
 
 The barrio council may hold its sessions in the barrio hall or public school building of the barrio during hours when there are no classes, or in any hose or lot in the barrio the provisional or permanent use of which may be granted for said purpose free of charge.
 
-The barrio council shall elect from among its members a secretary and an assistant secretary. It shall be the duty of the secretary to keep simple minutes of the meetings of both the barrio assembly and the barrio council during his term of office, to keep a list of all qualified barrio assembly members, and be responsible for the custody of all barrio council and barrio assembly records. The assistant secretary shall perform such duties as may be assigned by the barrio council and upon designation by the barrio council shall act as secretary in case of absence or inability of the latter.1aшphi1
+The barrio council shall elect from among its members a secretary and an assistant secretary. It shall be the duty of the secretary to keep simple minutes of the meetings of both the barrio assembly and the barrio council during his term of office, to keep a list of all qualified barrio assembly members, and be responsible for the custody of all barrio council and barrio assembly records. The assistant secretary shall perform such duties as may be assigned by the barrio council and upon designation by the barrio council shall act as secretary in case of absence or inability of the latter.
 
 ### Section 14
 

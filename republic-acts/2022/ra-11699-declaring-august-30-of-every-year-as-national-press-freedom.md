@@ -42,7 +42,7 @@ The Department of Education (DepEd), the Commission on Higher Education (CHED), 
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

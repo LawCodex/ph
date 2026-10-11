@@ -30,13 +30,13 @@ There shall be established and maintained, under the supervision of the Commissi
 
 The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-four. This amount shall be apportioned as follows:
 
-a. Fifty thousand pesos for the procurement of site, essential equipment and installation of buildings and laboratories.1âшphi1
+a. Fifty thousand pesos for the procurement of site, essential equipment and installation of buildings and laboratories.
 
 b. Twenty-five thousand pesos for the maintenance of personnel for the fresh-water investigation unit.
 
 c. Twenty-five thousand pesos for the maintenance of personnel for the fish nursery station project.
 
-Thereafter, the amount of not less than fifty thousand pesos needed for maintenance and operation shall be included in the General Appropriation Act each year.1âшphi1
+Thereafter, the amount of not less than fifty thousand pesos needed for maintenance and operation shall be included in the General Appropriation Act each year.
 
 ## Section 3
 

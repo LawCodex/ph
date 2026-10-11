@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Allen, Province of Northern Samar, to be known as Allen Animal Industry Pilot Project.1âшphi1
+There is hereby established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Allen, Province of Northern Samar, to be known as Allen Animal Industry Pilot Project.
 
 ## Section 2
 

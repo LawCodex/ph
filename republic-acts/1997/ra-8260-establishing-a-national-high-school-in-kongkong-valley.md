@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Kongkong Valley, Municipality of Kasibu, Province of Nueva Vizcaya, to be known as the Kongkong Valley National High School.1aшphi1
+There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Kongkong Valley, Municipality of Kasibu, Province of Nueva Vizcaya, to be known as the Kongkong Valley National High School.
 
 ## Section 2
 

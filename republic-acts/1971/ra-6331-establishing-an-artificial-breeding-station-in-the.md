@@ -32,7 +32,7 @@ The Director of Animal Industry shall issue such rules and regulations as may be
 
 ## Section 3
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office, building, laboratory, equipment, animal sheds, supplies and materials and such other expenses of said artificial breeding station during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office, building, laboratory, equipment, animal sheds, supplies and materials and such other expenses of said artificial breeding station during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

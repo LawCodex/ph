@@ -65,6 +65,6 @@ As a consequence of the above amendments, the total for _Title_ A, on page 207, 
 
 ## Section 6
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 16, 1956.

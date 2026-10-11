@@ -384,11 +384,17 @@ A new section is hereby inserted after Section 14 of the same Act, to read as fo
 
 "SEC. 20. _Implementing Rules and Regulations._ \- The Department of Trade and Industry, through the Bureau of Micro, Small and Medium Business Development in consultation with other concerned government agencies, nongovernment organizations and private sector involved in the promotion of MSMEs, shall formulate the implementing Rules and Regulations (IRR) necessary to implement the provisions of this Act within ninety (90) days from the approval of this Act. The IRR issued pursuant to this Section shall take effect thirty (30) days after publication in a national newspaper of general circulation."
 
-**SEC. 22._Separability Clause._** \- The provisions of the Act are hereby declared to be separable. If any provision of this Act shall be held unconstitutional, the remainder of the Act not otherwise affected shall remain in full force and effect.
+## SEC. 22
 
-**SEC. 23._Repealing Clause._** \- All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+_Separability Clause._ \- The provisions of the Act are hereby declared to be separable. If any provision of this Act shall be held unconstitutional, the remainder of the Act not otherwise affected shall remain in full force and effect.
 
-**SEC. 24._Effectivity Clause._** \- This Act shall take effect within fifteen (15) days from its publication in at least two (2) national newspaper of general circulation.
+## SEC. 23
+
+_Repealing Clause._ \- All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+
+## SEC. 24
+
+_Effectivity Clause._ \- This Act shall take effect within fifteen (15) days from its publication in at least two (2) national newspaper of general circulation.
 
 Approved,
 

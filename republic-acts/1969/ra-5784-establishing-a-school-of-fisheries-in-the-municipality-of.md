@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a school of fisheries in the Municipality of Tolosa, Province of Leyte, to be known as Daniel Z. Romualdez Memorial School of Fisheries.1âшphi1
+There shall be established a school of fisheries in the Municipality of Tolosa, Province of Leyte, to be known as Daniel Z. Romualdez Memorial School of Fisheries.
 
 ## Section 2
 

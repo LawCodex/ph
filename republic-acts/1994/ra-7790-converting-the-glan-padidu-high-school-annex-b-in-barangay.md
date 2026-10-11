@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Glan Padidu High School Annex-B in Barangay Big Margus, Municipality of Glan, Province of Sarangani, is hereby separated from the Glan Padidu High School in the same municipality and province and converted into an independent high school, to be known as the Leonard Young, Sr. High School.1a⍵⍴h!1
+The Glan Padidu High School Annex-B in Barangay Big Margus, Municipality of Glan, Province of Sarangani, is hereby separated from the Glan Padidu High School in the same municipality and province and converted into an independent high school, to be known as the Leonard Young, Sr. High School.
 
 ## Section 2
 

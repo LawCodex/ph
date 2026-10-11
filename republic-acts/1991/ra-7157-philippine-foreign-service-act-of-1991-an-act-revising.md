@@ -26,9 +26,13 @@ AN ACT REVISING REPUBLIC ACT NO. 708, AS AMENDED
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **"_Philippine Foreign Service Act of 1991._ "**
+### Section 1
 
-**Section 2._Table of Contents._** – The table of contents of this Act is as follows:
+_Title._ – This Act shall be known as the **"_Philippine Foreign Service Act of 1991._ "**
+
+### Section 2
+
+_Table of Contents._ – The table of contents of this Act is as follows:
 
 **TABLE OF CONTENTS**
 
@@ -188,9 +192,13 @@ Section 91 – Effectivity Clause
 
 ## Title I — GENERAL PROVISIONS
 
-**Section 3._Declaration of Policy._** – The State shall pursue an independent foreign policy. In its relations with other states, the paramount consideration shall be national sovereignty, territorial integrity, national interest, and the right to self-determination.
+### Section 3
 
-**Section 4._Objective._** – The main objective of this Act is to reorganize and strengthen the Philippine Foreign Service in order to:
+_Declaration of Policy._ – The State shall pursue an independent foreign policy. In its relations with other states, the paramount consideration shall be national sovereignty, territorial integrity, national interest, and the right to self-determination.
+
+### Section 4
+
+_Objective._ – The main objective of this Act is to reorganize and strengthen the Philippine Foreign Service in order to:
 
 (a) Upgrade the qualifications of the Career Foreign Service Corps and thereby enable its officers and employees to serve effectively the interests of the Republic of the Philippines abroad;
 
@@ -212,7 +220,9 @@ Section 91 – Effectivity Clause
 
 In pursuance of the foregoing objective, the principle of nondiscrimination with respect to sex, creed, language, ethnic identity and religion shall be strictly enforced.
 
-**Section 5._Definition of Terms._** – When used in this Act, the term:
+### Section 5
+
+_Definition of Terms._ – When used in this Act, the term:
 
 (a) "_Government_ " means the Government of the Philippines;
 
@@ -240,11 +250,15 @@ In pursuance of the foregoing objective, the principle of nondiscrimination with
 
 (m) "_Principal officer_ " means the head of a consulate or consulate general of the Philippines.
 
-**Section 6._Undersecretaries._** – Upon recommendation of the Secretary, the President shall appoint three (3) undersecretaries to advise and assist the Secretary in the formulation and implementation of the Department objectives and policies, and to coordinate and oversee the operational activities of the Department of Foreign Affairs.
+### Section 6
+
+_Undersecretaries._ – Upon recommendation of the Secretary, the President shall appoint three (3) undersecretaries to advise and assist the Secretary in the formulation and implementation of the Department objectives and policies, and to coordinate and oversee the operational activities of the Department of Foreign Affairs.
 
 The Secretary shall designate one (1) of the undersecretaries in his absence.
 
-**Section 7._Categories of Personnel._** – The Service shall consist of the following categories of officers and employees:
+### Section 7
+
+_Categories of Personnel._ – The Service shall consist of the following categories of officers and employees:
 
 (a) Chiefs of Mission, Class I and II;
 
@@ -260,7 +274,9 @@ The Secretary shall designate one (1) of the undersecretaries in his absence.
 
 (g) Honorary Consuls.
 
-**Section 8._Designation of Foreign Officers in the Foreign Service._** – In the Service, foreign, service officers shall be commissioned as diplomatic or consular officers, or both, and all the official acts of these officers shall be performed under such commissions. Diplomatic and consular titles shall be coterminous with the assignment at the post.
+### Section 8
+
+_Designation of Foreign Officers in the Foreign Service._ – In the Service, foreign, service officers shall be commissioned as diplomatic or consular officers, or both, and all the official acts of these officers shall be performed under such commissions. Diplomatic and consular titles shall be coterminous with the assignment at the post.
 
 A chief of mission shall be assigned as ambassador extraordinary and plenipotentiary to head a diplomatic mission, or as deputy head of mission or as consul general to head a consular establishment.
 
@@ -276,7 +292,9 @@ A foreign service officer, class IV, shall be assigned as third secretary in a d
 
 In a diplomatic post where there is a consular section, foreign service officers may be designated as both diplomatic and consular officers.
 
-**Section 9._Designations of Foreign Service Officers in the Home Office._** – A chief of mission shall be designated by the Secretary as assistant secretary when assigned to head any of the eleven (11) principal offices of the Department. These offices are: Office of American Affairs; Office of Asia and Pacific Affairs; Office of European Affairs; Office of Middle East and African Affairs; Office of Administration, Protocol and Personnel Services; Office of Fiscal Management; Office of ASEAN Affairs ; Office of United Nations and International Organizations; Office of Consular Affairs; Office of Legal Affairs; and Office of Policy Planning and Coordination. The Secretary is hereby authorized to review and realign periodically the principal offices of the Department in order to effectively meet the requirements of the Service.
+### Section 9
+
+_Designations of Foreign Service Officers in the Home Office._ – A chief of mission shall be designated by the Secretary as assistant secretary when assigned to head any of the eleven (11) principal offices of the Department. These offices are: Office of American Affairs; Office of Asia and Pacific Affairs; Office of European Affairs; Office of Middle East and African Affairs; Office of Administration, Protocol and Personnel Services; Office of Fiscal Management; Office of ASEAN Affairs ; Office of United Nations and International Organizations; Office of Consular Affairs; Office of Legal Affairs; and Office of Policy Planning and Coordination. The Secretary is hereby authorized to review and realign periodically the principal offices of the Department in order to effectively meet the requirements of the Service.
 
 The Director of the Foreign Service Institute shall be also have the title of assistant secretary.
 
@@ -298,11 +316,17 @@ A foreign service officer below the rank of the chief of mission may be designat
 
 Any assignment in the home office requiring a rank higher than the actual rank of the officer assigned shall be in an acting capacity.
 
-**Section 10._Foreign Service Staff Personnel._** – There shall be a Service Staff Corps to provide the skills, technical assistance and support services in the home office and the foreign service.
+### Section 10
 
-**Section 11._Staffing Pattern and Appointments._** – The Department shall maintain a permanent staffing pattern for the home office and for each post in the foreign service which shall enumerate a definite number of position items in the budget of the Department for all categories of officers and employees: provided, that the staffing pattern may be modified by the Secretary when necessitated by the opening of new posts in its foreign service or new offices in the home office as may be required by a reorganization of the Department approved by the President: provided, further, that the modification shall be incorporated in the budget. The number of appointments in all categories of positions shall strictly conform to the staffing pattern. Appointments may be made only to specific existing vacant items. Appointments in excess of the number of items in the budget shall be null and void ab initio. An appointment, including the appointment of a non-career officer and initial and promotional appointment of a career officer, shall be valid only if it expressly indicates the specific number of the item in the budget. The appointment must bear the date when it was signed, and the Department must certify that the item is vacant on the specified date.
+_Foreign Service Staff Personnel._ – There shall be a Service Staff Corps to provide the skills, technical assistance and support services in the home office and the foreign service.
 
-**Section 12._Establishment of Foreign Service Posts._** – The national interest and security shall be the paramount consideration in the establishment of embassies, missions, consulates general and other foreign service establishments maintained by the Department and the priority areas shall be in the countries where the following exist:
+### Section 11
+
+_Staffing Pattern and Appointments._ – The Department shall maintain a permanent staffing pattern for the home office and for each post in the foreign service which shall enumerate a definite number of position items in the budget of the Department for all categories of officers and employees: provided, that the staffing pattern may be modified by the Secretary when necessitated by the opening of new posts in its foreign service or new offices in the home office as may be required by a reorganization of the Department approved by the President: provided, further, that the modification shall be incorporated in the budget. The number of appointments in all categories of positions shall strictly conform to the staffing pattern. Appointments may be made only to specific existing vacant items. Appointments in excess of the number of items in the budget shall be null and void ab initio. An appointment, including the appointment of a non-career officer and initial and promotional appointment of a career officer, shall be valid only if it expressly indicates the specific number of the item in the budget. The appointment must bear the date when it was signed, and the Department must certify that the item is vacant on the specified date.
+
+### Section 12
+
+_Establishment of Foreign Service Posts._ – The national interest and security shall be the paramount consideration in the establishment of embassies, missions, consulates general and other foreign service establishments maintained by the Department and the priority areas shall be in the countries where the following exist:
 
 (a) Extending diplomatic, financial, material, humanitarian support and other expressions of solidarity;
 
@@ -314,7 +338,9 @@ Any assignment in the home office requiring a rank higher than the actual rank o
 
 The Secretary shall define the territorial limits of consular jurisdictions.
 
-**Section 13._Promotion of Philippine Arts and Culture._** – All Service establishments abroad shall promote Philippine arts and culture, works of art of Filipino artists and Philippine products, including paintings, records, books and literature on Philippine history and culture, which shall be used, displayed and exhibit in these offices. Whenever practicable, Philippine products shall be used to furnish these offices.
+### Section 13
+
+_Promotion of Philippine Arts and Culture._ – All Service establishments abroad shall promote Philippine arts and culture, works of art of Filipino artists and Philippine products, including paintings, records, books and literature on Philippine history and culture, which shall be used, displayed and exhibit in these offices. Whenever practicable, Philippine products shall be used to furnish these offices.
 
 All gifts given by reason of official and social functions of the foreign service establishments shall be products sourced from the Philippines. The Secretary shall provide in the annual budget of the Department amount as is necessary to cover the cost acquisition, display and exhibition of these works.
 
@@ -322,55 +348,89 @@ All gifts given by reason of official and social functions of the foreign servic
 
 Part. A. Foreign Service Officers
 
-**Section 14._Initial Appointment of Foreign Service Officers._** – Consistent with the goal of developing and strengthening the Career Foreign Service Corps, recruitment into the ranks of foreign service officers shall be exclusively through open competitive examinations to determine the competence, fitness and aptitude of candidates for foreign service work. No person shall be eligible for appointment as a foreign service officers unless he has passed these examinations and demonstrated his loyalty to the Republic of the Philippines and adheres to the principles of the Constitution. The President shall extend initial appointments of foreign service officers exclusively from the list submitted by the Secretary containing the names of those who passed the examinations. Such initial appointments shall be to the lowest rank of foreign service officer, class IV. Any person who, after having passed the examinations, declines to accept an initial appointment as foreign service officer within a period of one (1) year from the date of he was offered the appointment shall be required to take and pass examinations again in order to be eligible for an initial appointment.
+### Section 14
+
+_Initial Appointment of Foreign Service Officers._ – Consistent with the goal of developing and strengthening the Career Foreign Service Corps, recruitment into the ranks of foreign service officers shall be exclusively through open competitive examinations to determine the competence, fitness and aptitude of candidates for foreign service work. No person shall be eligible for appointment as a foreign service officers unless he has passed these examinations and demonstrated his loyalty to the Republic of the Philippines and adheres to the principles of the Constitution. The President shall extend initial appointments of foreign service officers exclusively from the list submitted by the Secretary containing the names of those who passed the examinations. Such initial appointments shall be to the lowest rank of foreign service officer, class IV. Any person who, after having passed the examinations, declines to accept an initial appointment as foreign service officer within a period of one (1) year from the date of he was offered the appointment shall be required to take and pass examinations again in order to be eligible for an initial appointment.
 
 All appointments of foreign service officers shall be to a class and to not to a particular post.
 
-**Section 15._Internship Program._** – Immediately following their appointments as foreign service officers, class IV, the individuals concerned shall undergo a one-year cadetship. The program shall consist of (6) months intensive classroom instructions on all aspects of consular and diplomatic duties and responsibilities. The next six (6) months shall be cover an on-the-job training.
+### Section 15
 
-**Section 16._Ambassadorial Appointments._** – The President shall nominate and, with the consent of the Commission on Appointments, appoint ambassador extraordinary and plenipotentiary to head embassies and permanent missions. All ambassadorial appointments shall be to a particular post only.
+_Internship Program._ – Immediately following their appointments as foreign service officers, class IV, the individuals concerned shall undergo a one-year cadetship. The program shall consist of (6) months intensive classroom instructions on all aspects of consular and diplomatic duties and responsibilities. The next six (6) months shall be cover an on-the-job training.
+
+### Section 16
+
+_Ambassadorial Appointments._ – The President shall nominate and, with the consent of the Commission on Appointments, appoint ambassador extraordinary and plenipotentiary to head embassies and permanent missions. All ambassadorial appointments shall be to a particular post only.
 
 Career foreign service officers may be appointed by the President as ambassadors extraordinary and plenipotentiary and shall retain their items originally held prior to their appointments after their tour of duty as ambassadors extraordinary and plenipotentiary: provided, however, that, during their tour of duty as ambassadors extraordinary and plenipotentiary, they shall not be promoted to the next higher rank.
 
-**Section 17._Heads of Diplomatic and Permanent Missions._** – In order to strengthen the Career Foreign Service Corps and to enable to it respond to challenges in the field of international relations, the President shall be guided, as much as possible, by the principle that a majority of diplomatic and permanent missions shall be headed by career ambassadors.
+### Section 17
 
-**Section 18._Reinstatement of Foreign Service Officers._** – The President may, upon recommendation of the Secretary, reappoint to the Service a former foreign service officer who has served continuously for at least two (2) years in the Department, who has been separated from the Service by reason of appointment or election to some other position in the government service. The same privilege shall apply to a former foreign service officer who has been separated from the Service by reason of appointment to the United Nations or other reorganized regional or international organizations and who has served continuously in said regional or international body for at least two (2) years up to the time of reappointment. The Secretary shall, taking into consideration the qualifications and experiences of the candidate of reappointment and the rank of his contemporaries in the Service, recommend the class to which the candidate shall be reappointed. Such reappointment shall be availed of only once and be subject to confirmation by the Commission on Appointments.
+_Heads of Diplomatic and Permanent Missions._ – In order to strengthen the Career Foreign Service Corps and to enable to it respond to challenges in the field of international relations, the President shall be guided, as much as possible, by the principle that a majority of diplomatic and permanent missions shall be headed by career ambassadors.
+
+### Section 18
+
+_Reinstatement of Foreign Service Officers._ – The President may, upon recommendation of the Secretary, reappoint to the Service a former foreign service officer who has served continuously for at least two (2) years in the Department, who has been separated from the Service by reason of appointment or election to some other position in the government service. The same privilege shall apply to a former foreign service officer who has been separated from the Service by reason of appointment to the United Nations or other reorganized regional or international organizations and who has served continuously in said regional or international body for at least two (2) years up to the time of reappointment. The Secretary shall, taking into consideration the qualifications and experiences of the candidate of reappointment and the rank of his contemporaries in the Service, recommend the class to which the candidate shall be reappointed. Such reappointment shall be availed of only once and be subject to confirmation by the Commission on Appointments.
 
 **Part B. Foreign Staff Officers and Employees**
 
-**Section 19._Appointments._** – The shall appoint all foreign service staff officers and foreign service staff employees in accordance with the Civil Service rules and regulations. Recruitment on the foreign service staff officer level shall be made through a competitive examination open to personnel of the Department and outsiders, the successful candidates of which shall be certified by the Board of Foreign Service Examinations for appointment by the Secretary.
+### Section 19
 
-**Section 20._Civil Service Eligibility._** – No person shall be appointed foreign service staff officer or foreign service staff employee unless he is a civil service eligible: provided, however, that priority shall be given to those who passed the examinations for foreign service staff officers and foreign service staff employees conducted by the Board of Foreign Service Examinations.
+_Appointments._ – The shall appoint all foreign service staff officers and foreign service staff employees in accordance with the Civil Service rules and regulations. Recruitment on the foreign service staff officer level shall be made through a competitive examination open to personnel of the Department and outsiders, the successful candidates of which shall be certified by the Board of Foreign Service Examinations for appointment by the Secretary.
+
+### Section 20
+
+_Civil Service Eligibility._ – No person shall be appointed foreign service staff officer or foreign service staff employee unless he is a civil service eligible: provided, however, that priority shall be given to those who passed the examinations for foreign service staff officers and foreign service staff employees conducted by the Board of Foreign Service Examinations.
 
 **Part C. Provisions of General Application to All Officers**
 
-**Section 21._Philippine Citizenship and Permanent Residency._** – No person shall be eligible for appointment to a permanent item in the career service to whatever rank or class who is not a citizen and permanent resident of the Philippines at the time of his appointment and, thereafter, for the entire duration of his tenure in the Department: provided, that those who have secured permanent residence status in a foreign country cannot be appointed to a permanent item in the career service unless they have given up said status for at least one (1) year and established permanent residence in the Philippines for at least the same period.
+### Section 21
 
-**Section 22._Auditing Requirements._** – The Department shall be authorize nor shall the Commission on Audit pass in audit payment of salaries and allowances of any person appointed to any position in the Department in violation of the requirements enumerated under Parts A, B and C, Title II of this Act. Any salary and allowance received on the basis of such invalid appointments shall be refunded by the persons so appointed.
+_Philippine Citizenship and Permanent Residency._ – No person shall be eligible for appointment to a permanent item in the career service to whatever rank or class who is not a citizen and permanent resident of the Philippines at the time of his appointment and, thereafter, for the entire duration of his tenure in the Department: provided, that those who have secured permanent residence status in a foreign country cannot be appointed to a permanent item in the career service unless they have given up said status for at least one (1) year and established permanent residence in the Philippines for at least the same period.
 
-**Section 23._Compulsory Retirements._** – All officers and employees of the Department who have reached the age of sixty-five (65) shall be compulsorily and automatically retired from the Service: provided, however, that all incumbent non-career chiefs of mission who are seventy (70) years old and above shall continue to hold office until June 30, 1992 unless sooner removed by the appointing authority. Non-career appointees who shall serve beyond the age of sixty-five (65) years shall be entitled to retirement benefits.
+### Section 22
+
+_Auditing Requirements._ – The Department shall be authorize nor shall the Commission on Audit pass in audit payment of salaries and allowances of any person appointed to any position in the Department in violation of the requirements enumerated under Parts A, B and C, Title II of this Act. Any salary and allowance received on the basis of such invalid appointments shall be refunded by the persons so appointed.
+
+### Section 23
+
+_Compulsory Retirements._ – All officers and employees of the Department who have reached the age of sixty-five (65) shall be compulsorily and automatically retired from the Service: provided, however, that all incumbent non-career chiefs of mission who are seventy (70) years old and above shall continue to hold office until June 30, 1992 unless sooner removed by the appointing authority. Non-career appointees who shall serve beyond the age of sixty-five (65) years shall be entitled to retirement benefits.
 
 **Part D. Alien or Locally Hired Employees**
 
-**Section 24._Appointments and Transfers._** – The Secretary may authorize chiefs of mission or principal officers to appoint alien or locally hired employees for their respective embassies and consulates: provided, that Filipino citizens shall be given preference. Such employees, however, may not be transferred to another country but may be assigned from one office to another within the same country where originally appointed at the discretion of the chief of mission concerned.
+### Section 24
+
+_Appointments and Transfers._ – The Secretary may authorize chiefs of mission or principal officers to appoint alien or locally hired employees for their respective embassies and consulates: provided, that Filipino citizens shall be given preference. Such employees, however, may not be transferred to another country but may be assigned from one office to another within the same country where originally appointed at the discretion of the chief of mission concerned.
 
 **Part E. Honorary Consuls**
 
-**Section 25._Appointments._** – The Secretary may appoint honorary consuls in areas where there are no Philippine embassies or consulates, under such regulations as may be prescribed by the Department. Honorary consuls shall be appointed from among qualified private persons preferably of Philippine citizenship to perform certain consular functions on non-career basis. Honorary consuls are not given fixed salaries or allowances.
+### Section 25
+
+_Appointments._ – The Secretary may appoint honorary consuls in areas where there are no Philippine embassies or consulates, under such regulations as may be prescribed by the Department. Honorary consuls shall be appointed from among qualified private persons preferably of Philippine citizenship to perform certain consular functions on non-career basis. Honorary consuls are not given fixed salaries or allowances.
 
 ## Title III — PROMOTIONS
 
 Part A. Foreign Service Officers
 
-**Section 26._Foreign Service Officers Promotion List._** – On the basis of recommendations made by the Board of Foreign Service Administration, the Secretary shall, from time to time, furnish the President with the names of career service officers qualified for appointment to the next higher class, from foreign service officer, class IV, to chief of mission, class I.
+### Section 26
 
-**Section 27._Cumulative Number of Years of Service in Each Class._** – The Secretary may determine a standard performance based on merit for each class which must be met before any foreign service officer may become eligible for promotion to a higher class. All foreign service officers shall be required to render satisfactory service continuously for a minimum period of three (3) years in each class and for the total cumulative period computed at three (3) years for each class before they become eligible for promotion to the next higher class: provided, however, that foreign service officers who have shown exceptional and meritorious qualities and have rendered exemplary service may be promoted to the next higher rank as an exception hereof.
+_Foreign Service Officers Promotion List._ – On the basis of recommendations made by the Board of Foreign Service Administration, the Secretary shall, from time to time, furnish the President with the names of career service officers qualified for appointment to the next higher class, from foreign service officer, class IV, to chief of mission, class I.
 
-**Section 28._Examination for Promotion._** – Foreign service officers, class, I, who have completed at least two (2) years of "very satisfactory" service in the rank are required to pass an examination for promotion to the administered by the Board of Foreign Service Examinations before they shall be eligible for appointment as career ministers.
+### Section 27
 
-**Section 29._Determination of Seniority._** – Career ministers and chiefs of mission, class I and II, shall not have grades classifications within each class. Seniority shall be determined by their original dates of appointment as career ministers, as well as the dates of their original entry into the Department.
+_Cumulative Number of Years of Service in Each Class._ – The Secretary may determine a standard performance based on merit for each class which must be met before any foreign service officer may become eligible for promotion to a higher class. All foreign service officers shall be required to render satisfactory service continuously for a minimum period of three (3) years in each class and for the total cumulative period computed at three (3) years for each class before they become eligible for promotion to the next higher class: provided, however, that foreign service officers who have shown exceptional and meritorious qualities and have rendered exemplary service may be promoted to the next higher rank as an exception hereof.
 
-**Section 30._Lateral Entry._** – Lateral entry into the Career Foreign Service Corps shall be permitted for those individuals who have successfully passed at the written and oral examinations conducted by the Board of Foreign Service Examinations but at the time when offered an appointment as foreign service officer, class IV, decided to join another government agency: provided, however, that:
+### Section 28
+
+_Examination for Promotion._ – Foreign service officers, class, I, who have completed at least two (2) years of "very satisfactory" service in the rank are required to pass an examination for promotion to the administered by the Board of Foreign Service Examinations before they shall be eligible for appointment as career ministers.
+
+### Section 29
+
+_Determination of Seniority._ – Career ministers and chiefs of mission, class I and II, shall not have grades classifications within each class. Seniority shall be determined by their original dates of appointment as career ministers, as well as the dates of their original entry into the Department.
+
+### Section 30
+
+_Lateral Entry._ – Lateral entry into the Career Foreign Service Corps shall be permitted for those individuals who have successfully passed at the written and oral examinations conducted by the Board of Foreign Service Examinations but at the time when offered an appointment as foreign service officer, class IV, decided to join another government agency: provided, however, that:
 
 (a) The duration from initial offer of appointment and his request for lateral entry in the Career Foreign Service Corps shall not exceed more than six (6) years;
 
@@ -384,25 +444,39 @@ successful co-examinees who have joined by the Service immediately after being o
 
 **Part B. Foreign Service Staff Officers and Employees**
 
-**Section 31._Foreign Service Staff Officers and Employees Promotion List._** – On the basis of recommendations made by the Office of Personnel and Management Services, the Board of Foreign Service Administration shall, from time to time, furnish the Secretary with the names of career foreign service staff officers and foreign service staff employees qualified for appointment to the next higher class from foreign service staff employee, class II, to foreign service staff officer, class I. All foreign service staff personnel shall be required to render satisfactory service continuously for a maximum period of two (2) years in each class and for the total cumulative period computed at two (2) years in each class before they become eligible for promotion to the next higher class.
+### Section 31
 
-**Section 32._Senior Staff Officers._** – Personnel who have attained the highest rank in the staff service and have rendered service in that position continuously for a period of five (5) years and a cumulative period totaling at least fifteen (15) years shall be eligible for promotion in salary and allowances equivalent to the maximum salary and allowances of foreign service officer, class IV: provided, that they shall have consistently received a minimum efficiency rating of "very satisfactory" throughout those years of service.
+_Foreign Service Staff Officers and Employees Promotion List._ – On the basis of recommendations made by the Office of Personnel and Management Services, the Board of Foreign Service Administration shall, from time to time, furnish the Secretary with the names of career foreign service staff officers and foreign service staff employees qualified for appointment to the next higher class from foreign service staff employee, class II, to foreign service staff officer, class I. All foreign service staff personnel shall be required to render satisfactory service continuously for a maximum period of two (2) years in each class and for the total cumulative period computed at two (2) years in each class before they become eligible for promotion to the next higher class.
+
+### Section 32
+
+_Senior Staff Officers._ – Personnel who have attained the highest rank in the staff service and have rendered service in that position continuously for a period of five (5) years and a cumulative period totaling at least fifteen (15) years shall be eligible for promotion in salary and allowances equivalent to the maximum salary and allowances of foreign service officer, class IV: provided, that they shall have consistently received a minimum efficiency rating of "very satisfactory" throughout those years of service.
 
 Thereafter, for every additional six (6) years of continuous very satisfactory service, they shall be eligible for promotion in salary and shall allowances equivalent to the minimum salary and allowances of the next higher class of foreign service officer.
 
 **Part C. Provisions of General Application to All Officers and Employees**
 
-**Section 33._Performance Evaluation System._** – The Secretary shall prescribe a performance evaluation system which shall be the basis for the periodic review of performance of all officers and employees. Particularly, the performance evaluation system shall address itself to the weeding-out of incompetent and sterile career personnel and abusive political appointees.
+### Section 33
 
-**Section 34._Effects of Promotions._** – Promotions made in violation of this Act shall be null and void and thus have no force and effect. The persons so promoted under such circumstances are deemed to have retained their old positions. Any salaries and allowances derived from such promotions shall be subject to the provisions of the following sections.
+_Performance Evaluation System._ – The Secretary shall prescribe a performance evaluation system which shall be the basis for the periodic review of performance of all officers and employees. Particularly, the performance evaluation system shall address itself to the weeding-out of incompetent and sterile career personnel and abusive political appointees.
 
-**Section 35._Auditing Requirements._** – The Department Fiscal Officer shall not authorize nor shall the Commission on Audit pass in audit the payment of salaries and allowances of any person promoted to any position in the Department in violation of the requirements enumerated under Parts A and B, Title III of this Act. Any salaries and allowances received on the basis of such invalid promotions shall be refunded by the persons so promoted.
+### Section 34
+
+_Effects of Promotions._ – Promotions made in violation of this Act shall be null and void and thus have no force and effect. The persons so promoted under such circumstances are deemed to have retained their old positions. Any salaries and allowances derived from such promotions shall be subject to the provisions of the following sections.
+
+### Section 35
+
+_Auditing Requirements._ – The Department Fiscal Officer shall not authorize nor shall the Commission on Audit pass in audit the payment of salaries and allowances of any person promoted to any position in the Department in violation of the requirements enumerated under Parts A and B, Title III of this Act. Any salaries and allowances received on the basis of such invalid promotions shall be refunded by the persons so promoted.
 
 ## Title IV — ASSIGNMENTS AND TRANSFERS
 
-**Section 36._Initial Service in the Home Office._** – Except for non-career chiefs mission appointed by the President, no member of the Career Foreign Service Corps shall be assigned to any post abroad unless he has rendered continuous and satisfactory service in the home office for at least three (3) years including undertaking an intensive familiarization program of Philippine conditions, urban and rural.
+### Section 36
 
-**Section 37._Tour of Duty._** – Subject to the exigencies of the service;
+_Initial Service in the Home Office._ – Except for non-career chiefs mission appointed by the President, no member of the Career Foreign Service Corps shall be assigned to any post abroad unless he has rendered continuous and satisfactory service in the home office for at least three (3) years including undertaking an intensive familiarization program of Philippine conditions, urban and rural.
+
+### Section 37
+
+_Tour of Duty._ – Subject to the exigencies of the service;
 
 (a) The tour of duty of a foreign service officer at any post shall be six (6) years commencing on the date of his arrival at the post, after which he shall serve in the home office;
 
@@ -414,7 +488,9 @@ Thereafter, for every additional six (6) years of continuous very satisfactory s
 
 (e) No foreign service officer may serve for more than three (3) consecutive years in home office, except when designated as Secretary, Undersecretary or Assistant Secretary.
 
-**Section 38._Rotation Plan._** – The Secretary shall established a system of assignment and transfer to ensure that all qualified career service officers and employees in the Department shall alternately serve in the diplomatic and consular post in different regions of the world and in the home office. Excluded from the rotation plan are those in the non-career service and those in the career service appointed to such positions which, in the judgment of the Secretary, require a posting of longer duration in the home office.
+### Section 38
+
+_Rotation Plan._ – The Secretary shall established a system of assignment and transfer to ensure that all qualified career service officers and employees in the Department shall alternately serve in the diplomatic and consular post in different regions of the world and in the home office. Excluded from the rotation plan are those in the non-career service and those in the career service appointed to such positions which, in the judgment of the Secretary, require a posting of longer duration in the home office.
 
 For this purpose, Manila shall be considered a separate post. The Secretary shall promulgate the guidelines including the financial implications of the provision.
 
@@ -422,45 +498,75 @@ The assignments and transfers of personnel shall follow a regular rotation plan 
 
 Assignments to posts abroad shall take into consideration the particular area of concern that the Government seeks to promote so that only personnel qualified and trained, with a basic knowledge of the language, shall be assigned to said country.
 
-**Section 39._Security Clearance._** – To ensure immediately availability of officers and employees foreign assignments and appointments, the Secretary shall periodically submit the names and personal histories of newly recruited officers and employees to the appropriate government security agency or agencies for clearance. The security agency or agencies concerned shall act with dispatch on requests for clearance and failure to act on said requests within forty-five (45) days shall be deemed a grant thereof.
+### Section 39
+
+_Security Clearance._ – To ensure immediately availability of officers and employees foreign assignments and appointments, the Secretary shall periodically submit the names and personal histories of newly recruited officers and employees to the appropriate government security agency or agencies for clearance. The security agency or agencies concerned shall act with dispatch on requests for clearance and failure to act on said requests within forty-five (45) days shall be deemed a grant thereof.
 
 ## Title V — ATTACHES
 
-**Section 40._Regular Attaches._** – The Secretary shall designate attaches to various posts abroad from the rank of foreign service officer and foreign service staff officer.
+### Section 40
 
-**Section 41._Service Attaches and Representatives of Other Departments._** – The assignment and accreditation of personnel in any department, bureau or agency of the Government as service attaches to embassies or representatives to consulates shall have the prior clearance of the Secretary who shall take into account the specific places where the services of these officers or employees from other the government agencies are needed, except trade attaches who shall be assigned and accredited only after consultation with the Trade Secretary.
+_Regular Attaches._ – The Secretary shall designate attaches to various posts abroad from the rank of foreign service officer and foreign service staff officer.
 
-**Section 42._Appointment._** – The authority to appoint service attaches and representatives shall be vested in the department secretary sending said officers and employees. A department or agency shall only one (1) service attaché or representative accredited to one (1) post, except military and commercial attaches.
+### Section 41
 
-**Section 43._Relationship Between the Chief of Mission and Service Attaches._** – The chief mission shall be responsible for the conduct of the affairs of the Government at his diplomatic post and all service attaches of the other departments and agencies of the Government shall, during their tour of duty abroad, be under his immediate control and administrative supervision. Said attaches shall course through the chiefs of mission all reports, documents and materials to their respective home agencies in the Philippines and shall transmit the same through the diplomatic pouch, the costs of which shall, however, be shouldered by their respective offices. The service attaché shall clear with the chief of mission concerned all their public pronouncements at the post.
+_Service Attaches and Representatives of Other Departments._ – The assignment and accreditation of personnel in any department, bureau or agency of the Government as service attaches to embassies or representatives to consulates shall have the prior clearance of the Secretary who shall take into account the specific places where the services of these officers or employees from other the government agencies are needed, except trade attaches who shall be assigned and accredited only after consultation with the Trade Secretary.
 
-**Section 44._Relationship Between the Principal Officer and Representative._** – The relationship between the principal officer at a consular post and the representative assigned thereto shall be the same as the relationship between the chief of mission and the service attaché at diplomatic post, under Section 43, Title V of this Act.
+### Section 42
 
-**Section 45._Inter-department Committee._** – There shall be an Inter-department Committee to be composed of an Undersecretaries or their counterparts from other departments and government agencies with service attaches or representatives abroad, as members. The Committee shall prescribe a uniform set or rules and regulations for attaché and representative services and shall meet regularly to assess the performance of their respective officers and employees abroad with the view to improve their output as well as maintaining and strengthening efficient and harmonious relationships with the chief of mission and principal officer and other government workers in the embassy or consulate where they are assigned.
+_Appointment._ – The authority to appoint service attaches and representatives shall be vested in the department secretary sending said officers and employees. A department or agency shall only one (1) service attaché or representative accredited to one (1) post, except military and commercial attaches.
+
+### Section 43
+
+_Relationship Between the Chief of Mission and Service Attaches._ – The chief mission shall be responsible for the conduct of the affairs of the Government at his diplomatic post and all service attaches of the other departments and agencies of the Government shall, during their tour of duty abroad, be under his immediate control and administrative supervision. Said attaches shall course through the chiefs of mission all reports, documents and materials to their respective home agencies in the Philippines and shall transmit the same through the diplomatic pouch, the costs of which shall, however, be shouldered by their respective offices. The service attaché shall clear with the chief of mission concerned all their public pronouncements at the post.
+
+### Section 44
+
+_Relationship Between the Principal Officer and Representative._ – The relationship between the principal officer at a consular post and the representative assigned thereto shall be the same as the relationship between the chief of mission and the service attaché at diplomatic post, under Section 43, Title V of this Act.
+
+### Section 45
+
+_Inter-department Committee._ – There shall be an Inter-department Committee to be composed of an Undersecretaries or their counterparts from other departments and government agencies with service attaches or representatives abroad, as members. The Committee shall prescribe a uniform set or rules and regulations for attaché and representative services and shall meet regularly to assess the performance of their respective officers and employees abroad with the view to improve their output as well as maintaining and strengthening efficient and harmonious relationships with the chief of mission and principal officer and other government workers in the embassy or consulate where they are assigned.
 
 ## Title VI — BOARD OF FOREIGN SERVICE EXAMINATIONS
 
-**Section 46._Composition._** – There shall be a Board of Foreign Service Examinations to be composed of an Undersecretary of Foreign Affairs, as Chairman, the Head of Personnel and Administrative Services and a Commissioner of the Civil Service Commission, as members, and the Director of the Foreign Service Institute, as Board Secretary.
+### Section 46
 
-**Section 47._Functions._** – The Board shall conduct examinations and nominate to the President, through the Secretary, successful candidates for appointments as foreign service officers, class VI. It shall receive and screen applications for the foreign service officer (FSO) examinations.
+_Composition._ – There shall be a Board of Foreign Service Examinations to be composed of an Undersecretary of Foreign Affairs, as Chairman, the Head of Personnel and Administrative Services and a Commissioner of the Civil Service Commission, as members, and the Director of the Foreign Service Institute, as Board Secretary.
+
+### Section 47
+
+_Functions._ – The Board shall conduct examinations and nominate to the President, through the Secretary, successful candidates for appointments as foreign service officers, class VI. It shall receive and screen applications for the foreign service officer (FSO) examinations.
 
 The Board shall prescribe the academic training and practical experiences required of candidates and determine the subjects on which the written and oral examinations shall be held. The Board shall prepare, conduct and grade the written examinations and certify to the Secretary for oral examinations those candidates who obtained a general average of seventy-five percent (75%) or higher. In the preparation of questions and the grading of examination papers on any subject, the Board may request, through the secretary of the department concerned, the assistance of any competent officer in the government service.
 
-**Section 48._Qualifications of Applicants._** – Foreign service officer (FSO) examinations shall be open to those who are citizens and permanent residents of the Philippines. No person, of either sex, married to an alien may take the examinations without the written consent of the Secretary. Applicants must be holders of a four-year bachelor's degree, below thirty-six (36) years old, and physically and psychologically fit: provided, that any person who is holding a position of responsibility in the Department or the Institute for at least two (2) years prior to the date of examination and who is otherwise qualified to take the examinations may do so, regardless of the maximum age limit prescribed.
+### Section 48
 
-**Section 49._Staff._** – The Secretary shall assign to the Board such officers and employees as may be necessary to assist in the efficient performance of its functions.
+_Qualifications of Applicants._ – Foreign service officer (FSO) examinations shall be open to those who are citizens and permanent residents of the Philippines. No person, of either sex, married to an alien may take the examinations without the written consent of the Secretary. Applicants must be holders of a four-year bachelor's degree, below thirty-six (36) years old, and physically and psychologically fit: provided, that any person who is holding a position of responsibility in the Department or the Institute for at least two (2) years prior to the date of examination and who is otherwise qualified to take the examinations may do so, regardless of the maximum age limit prescribed.
+
+### Section 49
+
+_Staff._ – The Secretary shall assign to the Board such officers and employees as may be necessary to assist in the efficient performance of its functions.
 
 ## Title VII — BOARD OF FOREIGN SERVICE ADMINISTRATION
 
-**Section 50._Composition._** – There shall be a Board of Foreign Service Administration to be composed of one (1) of the Undersecretaries, as Chairman, and the two (2) other Undersecretaries and the Assistant Secretaries of the different offices in the Department, including the Director of the Institute, as members.
+### Section 50
 
-**Section 51._Functions._** – The Board shall make recommendations to the Secretary concerning the functions and operations of the Service, the policies and procedures to govern the selection, assignment, promotion, discipline and separation from the Service of chiefs of mission, career ministers, foreign service officers, foreign service staff officers and foreign service staff employees, and the policies to govern the administration and personnel management of the Service: provided, that the chiefs of mission who are commissioned by the President as ambassadors extraordinary and plenipotentiary shall not be investigated by the Board or separated from the Service unless there is an express written directive from the President. It shall establish the efficiency ratings of service personnel and shall perform such other duties as may be assigned to it by law or regulation, including those that may be issued by the Secretary. It shall consider administrative cases brought against officers and employees who commit offenses against the interest of public service and submit to the Secretary its findings and recommendations.
+_Composition._ – There shall be a Board of Foreign Service Administration to be composed of one (1) of the Undersecretaries, as Chairman, and the two (2) other Undersecretaries and the Assistant Secretaries of the different offices in the Department, including the Director of the Institute, as members.
+
+### Section 51
+
+_Functions._ – The Board shall make recommendations to the Secretary concerning the functions and operations of the Service, the policies and procedures to govern the selection, assignment, promotion, discipline and separation from the Service of chiefs of mission, career ministers, foreign service officers, foreign service staff officers and foreign service staff employees, and the policies to govern the administration and personnel management of the Service: provided, that the chiefs of mission who are commissioned by the President as ambassadors extraordinary and plenipotentiary shall not be investigated by the Board or separated from the Service unless there is an express written directive from the President. It shall establish the efficiency ratings of service personnel and shall perform such other duties as may be assigned to it by law or regulation, including those that may be issued by the Secretary. It shall consider administrative cases brought against officers and employees who commit offenses against the interest of public service and submit to the Secretary its findings and recommendations.
 
 The Board shall keep a lineal roster of all chiefs of mission, career ministers, foreign service officers, foreign service staff officers and foreign service staff employees strictly in the order of their ranks and seniority in each rank or class, based on their respective dates of appointment. In submitting recommendations for promotions to the President, through the Secretary, the Board shall base its recommendations on/the efficiency ratings and seniority of the officers and employees concerned.
 
-**Section 52._Prohibitions._** – No member of the Board, while acting as such member, shall intervene in any way, directly or indirectly, in Board deliberations affecting himself or any relative of his within the fourth civil degree either be consanguinity or affinity.
+### Section 52
 
-**Section 53._Disqualifications._** – The following circumstances shall disqualify any officer or employee from being considered for assignment abroad or promotion:
+_Prohibitions._ – No member of the Board, while acting as such member, shall intervene in any way, directly or indirectly, in Board deliberations affecting himself or any relative of his within the fourth civil degree either be consanguinity or affinity.
+
+### Section 53
+
+_Disqualifications._ – The following circumstances shall disqualify any officer or employee from being considered for assignment abroad or promotion:
 
 (a) Pending criminal case with the Sandiganbayan;
 
@@ -470,7 +576,9 @@ The Board shall keep a lineal roster of all chiefs of mission, career ministers,
 
 (d) Seeking political interference for his promotion/assignment which weakens the principles of the foreign service.
 
-**Section 54._Disciplinary Actions._** – In the investigation of administrative cases against officers and employees of the Department, the applicable rules and regulations and guidelines promulgated by the Civil Service Commission shall be strictly observed.
+### Section 54
+
+_Disciplinary Actions._ – In the investigation of administrative cases against officers and employees of the Department, the applicable rules and regulations and guidelines promulgated by the Civil Service Commission shall be strictly observed.
 
 No officer or employee of the Department shall be subjected to disciplinary action or otherwise be removed or separated from the Service except for cause as provided for by law in accordance with requirements of due process.
 
@@ -484,7 +592,9 @@ No officer or employee of the Department facing administrative charges shall be 
 
 In the interest of harnessing all the human resources in the Department, no officer or employee shall be "frozen" or "floated" or otherwise deprived of an assignment, duties or functions appropriate to his rank and position, except for justifiable reasons.
 
-**Section 55._Separation from the Service._** – The following shall constitute sufficient bases for separation from the Service of any foreign service officer or employee, of all ranks and classes:
+### Section 55
+
+_Separation from the Service._ – The following shall constitute sufficient bases for separation from the Service of any foreign service officer or employee, of all ranks and classes:
 
 (a) Voluntary resignation;
 
@@ -504,31 +614,47 @@ The rating system mentioned in paragraph (c) shall be based on generally accepte
 
 ## Title VIII — FOREIGN SERVICE INSTITUTE
 
-**Section 56._Composition._** – There shall be a Foreign Service Institute, whose board shall be composed of the Secretary, as Chairman, and the Chairman of the Civil Service Commission, the President of the University of the Philippines, the President of the Development Academy of the Philippines, and the Director of the Foreign Service Institute, as members.
+### Section 56
 
-**Section 57._Functions._** – The Institute, through its academic, training, research, information, publication, systems development and other programmes, shall serve as the center for the development and professionalization of the career corps of the foreign service of the Department and other government agencies which have officers and employees assigned abroad. It shall maintain a Center of International Relations and Strategic Studies (CIRSS) and shall otherwise function as a research institution on issues and problems with foreign policy implications, global and regional strategies and management of foreign affairs while serving as institutional consultant of the Department on matters related to foreign policies and programmes as well as development management, planning, review and evaluation processes in the Department. The Institute shall, inter alia, pursue a training program for those who are leaving for foreign assignments and for those who are recalled and shall hold seminars, including language courses, to prepare such officers and employees for their new assignments.
+_Composition._ – There shall be a Foreign Service Institute, whose board shall be composed of the Secretary, as Chairman, and the Chairman of the Civil Service Commission, the President of the University of the Philippines, the President of the Development Academy of the Philippines, and the Director of the Foreign Service Institute, as members.
 
-**Section 58._Operations._** – The Institute shall continue to operate under its own charter. The Director of the Institute shall be a senior career chief of mission with the title of assistant secretary.
+### Section 57
 
-**Section 59._Performance Report._** – The Foreign Service Institute shall submit to the President and to Congress an annual performance report.
+_Functions._ – The Institute, through its academic, training, research, information, publication, systems development and other programmes, shall serve as the center for the development and professionalization of the career corps of the foreign service of the Department and other government agencies which have officers and employees assigned abroad. It shall maintain a Center of International Relations and Strategic Studies (CIRSS) and shall otherwise function as a research institution on issues and problems with foreign policy implications, global and regional strategies and management of foreign affairs while serving as institutional consultant of the Department on matters related to foreign policies and programmes as well as development management, planning, review and evaluation processes in the Department. The Institute shall, inter alia, pursue a training program for those who are leaving for foreign assignments and for those who are recalled and shall hold seminars, including language courses, to prepare such officers and employees for their new assignments.
+
+### Section 58
+
+_Operations._ – The Institute shall continue to operate under its own charter. The Director of the Institute shall be a senior career chief of mission with the title of assistant secretary.
+
+### Section 59
+
+_Performance Report._ – The Foreign Service Institute shall submit to the President and to Congress an annual performance report.
 
 ## Title IX — FOREIGN INFORMATION COUNCIL
 
-**Section 60._Foreign Information Council._** – There is hereby created a Foreign Information Council composed of the Secretary of Foreign Affairs, as Chairman, and the Secretaries of Defense, Trade and Industry, Tourism, Labor and Employment, and the Office of the Press Secretary, as members. The Foreign Information Council shall provide policy guidance in the formulation of effective overseas information and communications strategies to ensure better understanding of Filipino values, culture and institutions overseas; an accurate presentation of policies in the Government especially in the fields of trade and investment; and coordination of overseas information programs of various government agencies and other entities.
+### Section 60
+
+_Foreign Information Council._ – There is hereby created a Foreign Information Council composed of the Secretary of Foreign Affairs, as Chairman, and the Secretaries of Defense, Trade and Industry, Tourism, Labor and Employment, and the Office of the Press Secretary, as members. The Foreign Information Council shall provide policy guidance in the formulation of effective overseas information and communications strategies to ensure better understanding of Filipino values, culture and institutions overseas; an accurate presentation of policies in the Government especially in the fields of trade and investment; and coordination of overseas information programs of various government agencies and other entities.
 
 ## Title X — SALARIES
 
-**Section 61._Salary Rates._** – The President upon recommendation of the Secretary shall recommend to Congress a scale of salaries for officers and employees in the Department and the Institute which shall be subject to periodic review.
+### Section 61
+
+_Salary Rates._ – The President upon recommendation of the Secretary shall recommend to Congress a scale of salaries for officers and employees in the Department and the Institute which shall be subject to periodic review.
 
 ## Title XI — INSURANCE AND RETIREMENT SYSTEM
 
-**Section 62._Membership in the Government Service Insurance System._** – All permanent officers and employees of the Service who are citizens of the Philippines shall have compulsory insurance coverage under the rules and regulations governing the same: provided, however, that the President upon recommendation of the Secretary may, as soon as practicable, submit for enactment by Congress a foreign affairs retirement and disability system, taking into account the difficulties of foreign service personnel in setting aside sufficient savings to take care their eventual retirement in the Philippines due to old age or some other disability, with the increased burden of establishing a home in the Philippines after completion of their tour of duty abroad.
+### Section 62
+
+_Membership in the Government Service Insurance System._ – All permanent officers and employees of the Service who are citizens of the Philippines shall have compulsory insurance coverage under the rules and regulations governing the same: provided, however, that the President upon recommendation of the Secretary may, as soon as practicable, submit for enactment by Congress a foreign affairs retirement and disability system, taking into account the difficulties of foreign service personnel in setting aside sufficient savings to take care their eventual retirement in the Philippines due to old age or some other disability, with the increased burden of establishing a home in the Philippines after completion of their tour of duty abroad.
 
 ## Title XII — ALLOWANCES, PER DIEMS, TRAVEL EXPENSES AND BENEFITS
 
 Part A. Allowances
 
-**Section 63._System of Allowances._** – The President upon recommendation of the Secretary shall recommend to Congress the establishment of a system of allowances for foreign service personnel which shall be subject to periodic review and shall include the following:
+### Section 63
+
+_System of Allowances._ – The President upon recommendation of the Secretary shall recommend to Congress the establishment of a system of allowances for foreign service personnel which shall be subject to periodic review and shall include the following:
 
 (a) _Overseas allowance._ – To adjust take home pay of foreign service personnel for any changes in the cost of living abroad which arise from changes in foreign currency conversion rates, differentials in cost of living between the Philippines and foreign post, and extraordinary and necessary expenses not otherwise compensated for, which are incurred by officers or employees in the foreign service;
 
@@ -546,9 +672,13 @@ Part A. Allowances
 
 (h) _Family allowance._ – To assist foreign service personnel living with their families at the post of assignment in meeting the incremental expenses arising from foreign assignment computed for the dependent spouse and for unmarried legal minor dependent children not exceeding three (3) in number.
 
-**Section 64._Rates and Policies on Allowances._** – The President shall approve, upon recommendation of the Secretary and the Secretary of Budget and Management, rates, indices, maximum allowable amounts and policies on allowances which shall be applicable to all national government employees stationed abroad pursuant to the Foreign Service Decree.
+### Section 64
 
-**Section 65._Living Quarters Allowance._** – Commutable living quarters allowable shall be granted to officers or employees in the Service assigned aboard who are citizens of the Philippines. Such allowance may cover the rental or quarters including utilities, telephone and other maintenance expenses which may be revised as to amounts not more often than once a year with the approval of the President.
+_Rates and Policies on Allowances._ – The President shall approve, upon recommendation of the Secretary and the Secretary of Budget and Management, rates, indices, maximum allowable amounts and policies on allowances which shall be applicable to all national government employees stationed abroad pursuant to the Foreign Service Decree.
+
+### Section 65
+
+_Living Quarters Allowance._ – Commutable living quarters allowable shall be granted to officers or employees in the Service assigned aboard who are citizens of the Philippines. Such allowance may cover the rental or quarters including utilities, telephone and other maintenance expenses which may be revised as to amounts not more often than once a year with the approval of the President.
 
 On transfer from post, allowances shall cease at the end of the month following departure therefrom. Commutable living quarters allowance shall be granted at a per annum rate and shall be commuted and paid monthly beginning on the first day of the month following the arrival of the payee at his post of assignment: provided, however, that the suitability of said quarters in each post shall be officially certified under oath by the chief of mission or principal officer: provided, further, that the equivalent of said allowance corresponding to the first three (3) months following arrival at post shall be paid immediately upon its accrual. On transfer from post, allowances shall cease at the end of the month following departure therefrom.
 
@@ -562,7 +692,9 @@ In case of detail of the officer or employee from his post of assignment (detail
 
 In case officer or employee is on home leave, the allowance shall cease to accrue from the first day of the month following the date of his departure from his post, unless it can be shown that the rented quarters used as residence has been retained at the post of assignment, but in no case shall the allowance continue beyond three (3) months. This regulation shall apply also in cases where extended leaves of absence are taken in any other emergency cases necessitating departure from the post of assignment unless otherwise authorized by the President upon recommendation of the Secretary. If the officer or employee owns the house occupied by him, the allowance shall be discontinued.
 
-**Section 66._Overseas Allowances._** – Overseas allowance shall be given to any officer or employee in the Service assigned abroad, who is a citizen of the Philippines, whenever the following conditions exist, and certified by the Secretary:
+### Section 66
+
+_Overseas Allowances._ – Overseas allowance shall be given to any officer or employee in the Service assigned abroad, who is a citizen of the Philippines, whenever the following conditions exist, and certified by the Secretary:
 
 (a) That the cost of living at a post abroad is proportionately so high that an allowance is necessary to enable an officer or employee at such post to carry out his work efficiently;
 
@@ -570,9 +702,13 @@ In case officer or employee is on home leave, the allowance shall cease to accru
 
 (c) That an allowance is necessary to assist an officer or employee of the foreign service who is compelled by reason of dangerous, notably unhealthy or excessively adverse living conditions at his post abroad or for the convenience of the Government to meet the additional expenses of maintaining an assignment.
 
-**Section 67._Adjustment in the Overseas Allowance._** – A permanent committee is hereby created, consisting of the Secretary as Chairman and, as members, the Secretary of Budget and Management and the Governor of the Central Bank, with the objectives of compiling information on foreign currency exchange rate fluctuations and price levels abroad and of recommending periodic adjustments in the amount of overseas allowance to foreign service personnel of the National Government in each foreign service post: provided, that official United Nations consumer indices shall be specifically considered in the committee's evaluation: provided, further, that the adjustments shall be made not more often than once a year: provided, furthermore, that the implementation shall be subject to the availability of funds.
+### Section 67
 
-**Section 68._Family allowance._** – A commutable family allowance shall be granted to any officer or employee assigned abroad who is a citizen of the Philippines and who is living with his family at the post of assignment, to a dependent spouse and to each unmarried legal minor dependent child but not exceeding three (3) in number. If both husband and wife are in the Service and assigned in the same post, only one (1) of them may claim the allowance.
+_Adjustment in the Overseas Allowance._ – A permanent committee is hereby created, consisting of the Secretary as Chairman and, as members, the Secretary of Budget and Management and the Governor of the Central Bank, with the objectives of compiling information on foreign currency exchange rate fluctuations and price levels abroad and of recommending periodic adjustments in the amount of overseas allowance to foreign service personnel of the National Government in each foreign service post: provided, that official United Nations consumer indices shall be specifically considered in the committee's evaluation: provided, further, that the adjustments shall be made not more often than once a year: provided, furthermore, that the implementation shall be subject to the availability of funds.
+
+### Section 68
+
+_Family allowance._ – A commutable family allowance shall be granted to any officer or employee assigned abroad who is a citizen of the Philippines and who is living with his family at the post of assignment, to a dependent spouse and to each unmarried legal minor dependent child but not exceeding three (3) in number. If both husband and wife are in the Service and assigned in the same post, only one (1) of them may claim the allowance.
 
 No family allowance for spouse shall be payable if the claimant is a widow/widower or separated or when his/her spouse is gainfully employed. However, if the claimant has minor unmarried dependent children to support, he/she shall be entitled to the family allowance of each child but not exceeding three (3) in number.
 
@@ -586,7 +722,9 @@ Subject to the prior approval of the Department Head, full family allowances may
 
 All other meritorious cases by considered by the Department Head as the circumstances and the exigencies of the Service may warrant.
 
-**Section 69._Post Allowance._** – An allotment of fund may be made by the Secretary to any post to defray the unusual expenses incident to the operation and maintenance of an official residence suitable for the chief diplomatic or consular representative of the Philippines at the post.
+### Section 69
+
+_Post Allowance._ – An allotment of fund may be made by the Secretary to any post to defray the unusual expenses incident to the operation and maintenance of an official residence suitable for the chief diplomatic or consular representative of the Philippines at the post.
 
 Post allowance shall be granted at a per annum rate for fiscal years beginning on the first day of the month following arrival thereat. Post allowance shall be payable only when the officer is on duty status at his station. For the purpose of this allowance, such officer shall be deemed on duty status at his station;
 
@@ -600,7 +738,9 @@ The territorial limits, in case of concurrent jurisdiction, shall extend to all 
 
 No post allowance shall be paid if the officer lives in a hotel as his residence.
 
-**Section 70._Representation Allowance._** – Representation allowance may be granted to chiefs of mission, special envoys, ministers, permanent delegates or representative to international bodies, principal officers, and other ranking diplomatic officers stationed abroad in order to enable such officers to uphold the prestige of the Republic of the Philippines, to represent their country with dignity, distinction and to carry out their functions more effectively.
+### Section 70
+
+_Representation Allowance._ – Representation allowance may be granted to chiefs of mission, special envoys, ministers, permanent delegates or representative to international bodies, principal officers, and other ranking diplomatic officers stationed abroad in order to enable such officers to uphold the prestige of the Republic of the Philippines, to represent their country with dignity, distinction and to carry out their functions more effectively.
 
 Representations allowances shall be expended only for purposes which are of a public character, beneficial to the interests of the public service, and connected with the exercise of the functions of the Government in relation to the conduct of foreign affairs. They may be expended for necessary entertainment, charitable contributions, memorials, flowers, gifts, club initiation fee and membership dues, and the like. The officer to whom the allowance is granted may disburse any portion of it to cover necessary entertainment by his subordinates to accomplish certain task assigned to them.
 
@@ -610,13 +750,19 @@ Should special entertaining be necessary because of formal visits of the Philipp
 
 Maximum allowable amounts shall be established for each category of representation allowance in accordance with Section 64, Part A, Title XII of this Act.
 
-**Section 71._Clothing Allowance._** – Clothing allowance may be granted to officers and employees of the Service assigned abroad who are citizens of the Philippines not more often than once every twelve (12) months, the rates of which shall be determined by the Department.
+### Section 71
 
-**Section 72._Education Allowances._** – Education allowance may be granted to officers and employees assigned abroad who are citizens of the Philippines of their legal dependent children not exceeding three (3) in number, who are enrolled in the primary, elementary and high school levels. This grant shall not, however, be payable in respect to post where free educational is provided for.
+_Clothing Allowance._ – Clothing allowance may be granted to officers and employees of the Service assigned abroad who are citizens of the Philippines not more often than once every twelve (12) months, the rates of which shall be determined by the Department.
+
+### Section 72
+
+_Education Allowances._ – Education allowance may be granted to officers and employees assigned abroad who are citizens of the Philippines of their legal dependent children not exceeding three (3) in number, who are enrolled in the primary, elementary and high school levels. This grant shall not, however, be payable in respect to post where free educational is provided for.
 
 The allowance may be granted as reimbursement of actual costs within such maximum amounts as shall be fixed by the Secretary and the Department of Budget and Management, with the approval of the President, per school year of each child subject to presentation of receipts and other evidence of payment of matriculation, tuition, books and other school fees.
 
-**Section 73._Medical Allowance._** – Foreign service personnel may be required by the Department concerned to subscribe to a medical insurance scheme available in the host country. Twenty-five percent (25%) of the corresponding premiums shall be payable by the personnel concerned and seventy-five (75) thereof shall be borne by the Government as its contribution.
+### Section 73
+
+_Medical Allowance._ – Foreign service personnel may be required by the Department concerned to subscribe to a medical insurance scheme available in the host country. Twenty-five percent (25%) of the corresponding premiums shall be payable by the personnel concerned and seventy-five (75) thereof shall be borne by the Government as its contribution.
 
 In the event of illness or injury requiring hospitalization of a foreign service personnel, not as a result of vicious habits, intemperance or misconduct or his part, the Government shall reimburse the cost of medical expenses in accordance with the regulations prescribed in the first paragraph of the section: provided, that no medical insurance scheme is available in the post of assignment.
 
@@ -624,7 +770,9 @@ The medical expenses shall cover the cost of hospitalization and/or payment of t
 
 Only legal dependents of those mentioned in the first paragraph hereof living with the officer or employee at the post shall be entitled to the medical allowance.
 
-**Section 74._Relocation Allowance._** – Any office or employee of the Service on assignment or from a post shall be entitled to an allowance for packing at destination furniture and other household goods and personal effects in such amounts and within such limitations as may be prescribed pursuant to Section 64, Part A, Title XII of this Act.
+### Section 74
+
+_Relocation Allowance._ – Any office or employee of the Service on assignment or from a post shall be entitled to an allowance for packing at destination furniture and other household goods and personal effects in such amounts and within such limitations as may be prescribed pursuant to Section 64, Part A, Title XII of this Act.
 
 This allowances entitles the officer or employee to choose either of the following:
 
@@ -634,15 +782,23 @@ This allowances entitles the officer or employee to choose either of the followi
 
 **Part B. Per Diems**
 
-**Section 75._Persons Entitled to Per Diems._** – All officers and employees of the Service on travel status or on assignment out of their regular post shall be entitled to per diems at such amounts as the Secretary with the approval of the President, may prescribe by regulations.
+### Section 75
 
-**Section 76._Service Allowance in Lieu of Per Diems._** – When meals are included in the fare of any carrier, no per diems shall be allowed but service allowance equal to fifty percent (50%) of the per diems authorized shall be payable to the traveler.
+_Persons Entitled to Per Diems._ – All officers and employees of the Service on travel status or on assignment out of their regular post shall be entitled to per diems at such amounts as the Secretary with the approval of the President, may prescribe by regulations.
 
-**Section 77._Computation._** – Per diems and service allowance shall be computed by dividing the day into quarters beginning at midnight. No per diems will be paid for fractions of a quarter. Local time will be used computing per diems, no consideration being given to time lost or gained by traveling through the time zones. All vouchers for per diems must clearly state the exact hour, local time of entry into each area, as well as the time of original departure from the Philippines or post of duty and arrival at new post or return to the Philippines or other post of permanent duty.
+### Section 76
+
+_Service Allowance in Lieu of Per Diems._ – When meals are included in the fare of any carrier, no per diems shall be allowed but service allowance equal to fifty percent (50%) of the per diems authorized shall be payable to the traveler.
+
+### Section 77
+
+_Computation._ – Per diems and service allowance shall be computed by dividing the day into quarters beginning at midnight. No per diems will be paid for fractions of a quarter. Local time will be used computing per diems, no consideration being given to time lost or gained by traveling through the time zones. All vouchers for per diems must clearly state the exact hour, local time of entry into each area, as well as the time of original departure from the Philippines or post of duty and arrival at new post or return to the Philippines or other post of permanent duty.
 
 **Part C. Travel Expenses**
 
-**Section 78._Class of Transportation._** – All officers and employees of the Service shall be entitled to economy class transportation by any usual means of public transportation for themselves, their spouse and dependent minor children, not exceeding three (3) in number, whenever such travel is duly authorized by the Secretary: provided, that this restriction shall not apply to the children in excess of three (3) of any officer or employee already in the service of the Department on December 31, 1950. For local travel away from post but within the district of assignment by any member of the staff, authority for such travel may be granted by the principal officer present at the post.
+### Section 78
+
+_Class of Transportation._ – All officers and employees of the Service shall be entitled to economy class transportation by any usual means of public transportation for themselves, their spouse and dependent minor children, not exceeding three (3) in number, whenever such travel is duly authorized by the Secretary: provided, that this restriction shall not apply to the children in excess of three (3) of any officer or employee already in the service of the Department on December 31, 1950. For local travel away from post but within the district of assignment by any member of the staff, authority for such travel may be granted by the principal officer present at the post.
 
 Whenever deemed necessary due to high cost of living or unhealthy conditions obtaining at the post of assignment abroad, the spouse of any officer or employee in the foreign service and their children, including their reasonable personal effects may, upon request to the parties concerned, be allowed economy class return transportation to Manila at the expense of the Government. This privilege may be extended to unmarried dependent children of the officer or employee concerned until they become of age (21 years old) while living with their parents abroad.
 
@@ -650,27 +806,39 @@ This privilege may be granted only once. Any member of the family (wife, husband
 
 **Part D. Benefits**
 
-**Section 79._General Benefits._** – The Secretary shall extend benefits including medical services and comprehensive health insurance coverage for home office personnel and their families.
+### Section 79
 
-**Section 80._Leaves of Absence._** – Kinds of Leave – All officers and employees of the Service who are citizens of the Philippines shall be entitled to thirty (30) days vacation leave and thirty (30) days sick leave with full pay for each year of service. Alien or locally hired employees shall be entitled to such vacation and sick leaves as they might be entitled to if they were employed by their own government in the place where the post is situated, but in no case should such leave exceed thirty (30) days vacation leave and thirty (30) days sick leave for each year of service.
+_General Benefits._ – The Secretary shall extend benefits including medical services and comprehensive health insurance coverage for home office personnel and their families.
+
+### Section 80
+
+_Leaves of Absence._ – Kinds of Leave – All officers and employees of the Service who are citizens of the Philippines shall be entitled to thirty (30) days vacation leave and thirty (30) days sick leave with full pay for each year of service. Alien or locally hired employees shall be entitled to such vacation and sick leaves as they might be entitled to if they were employed by their own government in the place where the post is situated, but in no case should such leave exceed thirty (30) days vacation leave and thirty (30) days sick leave for each year of service.
 
 Accumulation of Leaves – Under such regulations as the Secretary shall prescribe with the approval of the President, all officers and employees of the Service shall be entitled to the accumulation of any vacation or sick leave not taken in any year, in accordance with Civil Service rules and regulations and subject to the exigencies of the Service.
 
 Home Leave – The Secretary may order to the Philippines for home leave any officer or employee who is a citizen of the Philippines, together with his family, upon completion of three (3) years of continuous and satisfactory service abroad or as soon as possible thereafter. The time actually and necessarily spent in going to and from the Philippines shall not be counted as leave. While on leave in the Philippines, such officer or employee may be required to serve in a position of comparable importance in the Department, but the period of such assignment shall not be counted as leave: provided, that the period of this home leave shall not exceed thirty (30) working days.
 
-**Section 81._Exemption from Taxation._** – All allowances, per diems, benefits, and the like received by officers and employees of the Service in consideration of their service while on assignment abroad, except their basic salaries, shall be exempt from the Philippine income tax.
+### Section 81
+
+_Exemption from Taxation._ – All allowances, per diems, benefits, and the like received by officers and employees of the Service in consideration of their service while on assignment abroad, except their basic salaries, shall be exempt from the Philippine income tax.
 
 Any officer or employee returning from a regular assignment abroad for reassignment to the home office or who dies, resigns, or is retired from the Service shall be exempt from the payment of all duties and taxes on his personal and household effects, including one (1) used motor car duly registered in his name for at least six (6) months: provided, however, that the exemption shall apply only to the value of motor car and to the aggregate assessed value of said personal and household effects, the latter not to exceed fifty percent (50%) of the total amount received by such officer or employee in salary and allowances during his latest assignment abroad but not to exceed four (4) years: provided, further, that this exception shall not be availed of more often than once every four (4) years.
 
 **Part E. Provisions of General Application**
 
-**Section 82._Foreign Service Compensation Plan._** – The provisions of Executive Order No. 495 and Presidential Decree No. 1285, both issued in 1978, as well as the provisions of other acts, decrees, orders, letters of implementation, letters of instruction, and rules and regulations which are not inconsistent with the aforementioned order and decree shall apply with respect to the foreign service compensation plan of the Department. For purposes of implementing this title the home office shall be considered a separate post.
+### Section 82
+
+_Foreign Service Compensation Plan._ – The provisions of Executive Order No. 495 and Presidential Decree No. 1285, both issued in 1978, as well as the provisions of other acts, decrees, orders, letters of implementation, letters of instruction, and rules and regulations which are not inconsistent with the aforementioned order and decree shall apply with respect to the foreign service compensation plan of the Department. For purposes of implementing this title the home office shall be considered a separate post.
 
 ## Title XIII — FINAL PROVISIONS
 
-**Section 83._Organization._** – The Secretary shall effect the organization of the Department and the foreign service in accordance with the provisions of this Act and, for this purpose, he is hereby authorized to allot the funds provided for the Department in the General Appropriations Act.
+### Section 83
 
-**Section 84._Use of Savings._** – The Secretary is hereby authorized the use of any savings in the appropriation for the Department for the payment of:
+_Organization._ – The Secretary shall effect the organization of the Department and the foreign service in accordance with the provisions of this Act and, for this purpose, he is hereby authorized to allot the funds provided for the Department in the General Appropriations Act.
+
+### Section 84
+
+_Use of Savings._ – The Secretary is hereby authorized the use of any savings in the appropriation for the Department for the payment of:
 
 (a) Expenses for the evacuation or repatriation to the Philippines, when necessary due to emergency, of members of the household of the personnel of any diplomatic or consular establishment as well as transportation of their personal effects;
 
@@ -680,9 +848,13 @@ Any officer or employee returning from a regular assignment abroad for reassignm
 
 (d) Contingent and unforeseen expenses that may arise in connection with the operation of the foreign service.
 
-**Section 85._Pool of Foreign Service Officers._** – In all appropriations acts providing funds for the operation and maintenance of the Department, the position of foreign service officers, including those who may serve in the home office, shall be in a pool grouped according to their classes with their salaries and allowances indicated in one lump-sum for each class, leaving to the head office the discretion to assign or commission those officers whenever their services may be utilized to advantage, subject to the limitations provided by law.
+### Section 85
 
-**Section 86._Passport Revolving Fund._** – The Department is hereby authorized to charge a service fee of One hundred Philippine pesos (P100.00) or such appropriate amount as may be prescribed by the Secretary for each service rendered to private individuals relating to the processing and issuance of passports beyond regular office hours.
+_Pool of Foreign Service Officers._ – In all appropriations acts providing funds for the operation and maintenance of the Department, the position of foreign service officers, including those who may serve in the home office, shall be in a pool grouped according to their classes with their salaries and allowances indicated in one lump-sum for each class, leaving to the head office the discretion to assign or commission those officers whenever their services may be utilized to advantage, subject to the limitations provided by law.
+
+### Section 86
+
+_Passport Revolving Fund._ – The Department is hereby authorized to charge a service fee of One hundred Philippine pesos (P100.00) or such appropriate amount as may be prescribed by the Secretary for each service rendered to private individuals relating to the processing and issuance of passports beyond regular office hours.
 
 The fees received by the Department shall constitute a revolving fund to be called the Passport Revolving Fund which shall be directly utilized by the Department for the improvement of its passporting and consular services and other Department services.
 
@@ -690,16 +862,26 @@ The setting up, use and disbursement of funds shall be subject to review, accoun
 
 The Fund shall be subject to an annual review by Congress.
 
-**Section 87._Rules and Regulations._** – The Secretary may issue such rules and regulations as may be necessary to implement the provisions of this Act as well as the provisions of acts, decrees and orders which are not inconsistent with this Act, including the formulation of a code of conduct and decorum for all officers and employees of the Department and other government attaches serving with the Department.
+### Section 87
+
+_Rules and Regulations._ – The Secretary may issue such rules and regulations as may be necessary to implement the provisions of this Act as well as the provisions of acts, decrees and orders which are not inconsistent with this Act, including the formulation of a code of conduct and decorum for all officers and employees of the Department and other government attaches serving with the Department.
 
 The Secretary shall review periodically all existing administrative rules and regulations embodied in the Foreign Service Code of 1983 with the end in view of updating such rules and regulations which may be inconsistent with national interest. Special reference is made to rules and regulations in the issuance of passports and visas which may need to be revised and updated.
 
-**Section 88._Appropriations._** – There is hereby authorized to be appropriated from the National Treasury such amounts as may be necessary to provide for any salary and allowances of ambassadors extraordinary and plenipotentiary appointed by the President outside of the Career Foreign Service Corps. Thereafter, such amounts shall be incorporated in the General Appropriations Act under the annual budget of the Department of Foreign Affairs.
+### Section 88
 
-**Section 89._Separability Clause._** – If any section or any part of this Act shall be declared unconstitutional by competent authority, the remaining sections or parts of this Act shall not thereby be affected.
+_Appropriations._ – There is hereby authorized to be appropriated from the National Treasury such amounts as may be necessary to provide for any salary and allowances of ambassadors extraordinary and plenipotentiary appointed by the President outside of the Career Foreign Service Corps. Thereafter, such amounts shall be incorporated in the General Appropriations Act under the annual budget of the Department of Foreign Affairs.
 
-**Section 90._Repealing Clause._** – The Foreign Service Act of 1952 (Republic Act No. 708, as amended), all other acts, presidential decrees, executive orders, letters of implementation, letters of instruction, and rules and regulations which are inconsistent with any of the provisions of this Act are hereby repealed or amended accordingly.
+### Section 89
 
-**Section 91._Effectivity Clause._** – This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in any newspaper of general circulation.
+_Separability Clause._ – If any section or any part of this Act shall be declared unconstitutional by competent authority, the remaining sections or parts of this Act shall not thereby be affected.
+
+### Section 90
+
+_Repealing Clause._ – The Foreign Service Act of 1952 (Republic Act No. 708, as amended), all other acts, presidential decrees, executive orders, letters of implementation, letters of instruction, and rules and regulations which are inconsistent with any of the provisions of this Act are hereby repealed or amended accordingly.
+
+### Section 91
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in any newspaper of general circulation.
 
 Approved: **September 19, 1991**.

@@ -33,7 +33,7 @@ The Department of Health shall promulgate such rules and regulations as may be n
 
 ## Section 3
 
-The amount necessary to carry out the provision of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary to carry out the provision of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

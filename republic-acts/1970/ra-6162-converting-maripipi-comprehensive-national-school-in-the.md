@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Maripipi Comprehensive National School in the Municipality of Maripipi, Province of Leyte, is hereby converted into a national vocational school to be known as Maripipi National Vocational School: _Provided,_ _However_ , That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational education curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as feasible, two-year post secondary technical courses.1âшphi1
+The Maripipi Comprehensive National School in the Municipality of Maripipi, Province of Leyte, is hereby converted into a national vocational school to be known as Maripipi National Vocational School: _Provided,_ _However_ , That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational education curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as feasible, two-year post secondary technical courses.
 
 ## Section 2
 

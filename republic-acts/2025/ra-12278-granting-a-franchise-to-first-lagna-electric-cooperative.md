@@ -51,7 +51,7 @@ The Grantee shall have the obligation to provide open and non-discriminatory acc
 
 ## Section 6
 
-_Rates for Services._ \- The retail rates and charges for the distribution of electric power by the Grantee to its end-users shall be regulated by and subject to the approval of the ERC or its legal successor.ℒαwρhi৷
+_Rates for Services._ \- The retail rates and charges for the distribution of electric power by the Grantee to its end-users shall be regulated by and subject to the approval of the ERC or its legal successor.
 
 The Grantee shall identify and segregate in its electricity bill to the end-users the components of the retail rate pursuant to RA No. 9136, unless otherwise amended. Such rates charged by the Grantee to the end-users shall be made public and transparent. The Grantee shall implement a lifeline rate for marginalized end-users as mandated by RA No. 9136.
 

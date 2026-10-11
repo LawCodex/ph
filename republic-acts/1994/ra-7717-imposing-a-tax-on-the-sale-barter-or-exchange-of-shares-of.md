@@ -59,7 +59,7 @@ For purposes of determining whether the corporation is a closely held corporatio
 
 (4) _Constructive ownership as actual ownership._ \- Stock constructively-owned by reason of the application of paragraph or (3) shall, for purposes of applying paragraph (1) or (2), be treated as actually owned by such person; but stock constructively owned by the individual by reason of the application of paragraph hereof shall not be treated as owned by him for purposes of again applying such paragraph in order to make another the constructive owner of such stock.
 
-In case of primary offering, the corporate issuer shall file the return and pay the corresponding tax within thirty (30) days from the date of listing of the shares of stock in the local stock exchange. In the case of secondary offering, the provision of subsection (a) of this section shall apply as to the time and manner of the payment of the tax.1a⍵⍴h!1
+In case of primary offering, the corporate issuer shall file the return and pay the corresponding tax within thirty (30) days from the date of listing of the shares of stock in the local stock exchange. In the case of secondary offering, the provision of subsection (a) of this section shall apply as to the time and manner of the payment of the tax.
 
 (c) _Common provisions._ \- Any gain derived from the sale, barter, exchange, or other disposition of shares of stock under this section shall be exempt from the tax imposed in Sections 21(d), 24(e)(2), 25(a)(6)(C), and 25(b)(5)(C) of this Code and from the regular individual or corporate income tax. Tax paid under this section shall not be deductible for income tax purposes.
 

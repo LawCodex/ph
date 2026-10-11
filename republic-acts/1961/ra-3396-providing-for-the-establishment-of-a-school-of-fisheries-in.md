@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, to be known as the Oriental Mindoro School of Fisheries.1awp++i1 The site for the said school of fisheries shall be determined by the Director of Public Schools.
+There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, to be known as the Oriental Mindoro School of Fisheries. The site for the said school of fisheries shall be determined by the Director of Public Schools.
 
 ## Section 2
 

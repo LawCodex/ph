@@ -32,6 +32,6 @@ The sum of fifty thousand pesos is authorized to be appropriated, out of any fun
 
 ## Section 3
 
-This Act shall take upon its approval.1âшphi1
+This Act shall take upon its approval.
 
 Approved: June 17, 1954.

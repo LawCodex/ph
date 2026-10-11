@@ -852,7 +852,7 @@ When all the information required by the customs are available in the special de
 
 #### Section 439
 
-_Express Shipment._ – The Bureau shall provide simplified customs procedures based on international standards and customs best practices for air shipments considered as time-sensitive and requiring pre-arrival clearance. Express shipments of accredited air express cargo operators may be released prior to the payment of the duty, tax and other charges upon posting of a sufficient security.LaW㏗iL
+_Express Shipment._ – The Bureau shall provide simplified customs procedures based on international standards and customs best practices for air shipments considered as time-sensitive and requiring pre-arrival clearance. Express shipments of accredited air express cargo operators may be released prior to the payment of the duty, tax and other charges upon posting of a sufficient security.
 
 #### Section 440
 
@@ -1954,7 +1954,7 @@ Unless an appeal is made to the CTA in the manner and within the period prescrib
 
 _Exclusive Jurisdiction of the Bureau._ – Jurisdiction over imported goods and goods for exportation shall be exclusive to the Bureau, or the Secretary of Finance, when under review by the latter, subject to the proceedings described in this title.
 
-Except for the CIA, no court may issue any order or decision until all the remedies for administrative appeal have been exhausted.ℒαwρhi৷
+Except for the CIA, no court may issue any order or decision until all the remedies for administrative appeal have been exhausted.
 
 #### Section 1138
 
@@ -2680,7 +2680,7 @@ _Implementing Rules and Regulations._ – The Commission shall promulgate and ad
 
 _Flexible Clause._ – (a) In the interest of the general welfare and national security, and, subject to the limitations prescribed under this Act, the President, upon the recommendation of the NEDA, is hereby empowered to:
 
-(1) Increase, reduce, or remove existing rates of import duty including any necessary change in classification.7!ᕼdMᗄ7 The existing rates may be increased or decreased to any level, in one or several stages, but in no case shall the increased rate of import duty be higher than a maximum of one hundred percent (100%) ad valorem; (2) Establish import quotas or ban imports of any commodity, as may be necessary; and
+(1) Increase, reduce, or remove existing rates of import duty including any necessary change in classification. The existing rates may be increased or decreased to any level, in one or several stages, but in no case shall the increased rate of import duty be higher than a maximum of one hundred percent (100%) ad valorem; (2) Establish import quotas or ban imports of any commodity, as may be necessary; and
 
 (3) Impose an additional duty on all imports not exceeding ten percent (10%) ad valorem whenever necessary: _Provided,_ That upon periodic investigations by the Commission and recommendation of the NEDA, the President may cause a gradual reduction of rates of import duty granted in Section 1611 of this Act, including those subsequently granted pursuant to this section.
 
@@ -2706,7 +2706,7 @@ _Promotion of Foreign Trade._ – (a) For the purpose of expanding foreign marke
 
 (b) The duties and other import restrictions as modified in subsection (a) of this section, shall apply to goods which are the growth, produce, or manufacture of the specific country, whether imported directly or indirectly, with which the Philippines has entered into a trade agreement: _Provided,_ That the President may suspend the application of any concession to goods which are the growth, produce, or manufactured product of the specific country because of acts or policies which tend to defeat the purposes set in this section, including the operations of international cartels; and the duties and other import restrictions as negotiated shall be in force and effect from and after such time as specified in the order, without prejudice to the Philippine commitments in any ratified international agreement or treaty.
 
-(c) Nothing in this section shall be construed to give any authority to cancel or reduce in any manner the indebtedness of any foreign country to the Philippines or any claim of the Philippines against any foreign country.ℒαwρhi৷
+(c) Nothing in this section shall be construed to give any authority to cancel or reduce in any manner the indebtedness of any foreign country to the Philippines or any claim of the Philippines against any foreign country.
 
 (d) Before any trade agreement is concluded with any foreign government or instrumentality thereof, reasonable public notice of the intention to negotiate an agreement with such government or instrumentality shall be given in order that interested persons may have an opportunity to present their views to the Commission. The Commission shall seek information and advice from the DTI, DA, DOF, DENR, DFA and BSP, and from such other sources as it may deem appropriate.
 

@@ -992,7 +992,7 @@ _Incumbent Representative and Other Elective and Appointive Officials._ — The 
 
 ### Section 58
 
-_Lone Legislative District._ — Until otherwise provided by law, the City of Baguio shall continue to exist as a lone legislative district.ℒαwρhi৷
+_Lone Legislative District._ — Until otherwise provided by law, the City of Baguio shall continue to exist as a lone legislative district.
 
 ### Section 59
 

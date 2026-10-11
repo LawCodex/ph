@@ -37,7 +37,7 @@ The Secretary of Education shall immediately include in the Department's program
 
 ## Section 3
 
-The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.1âwphi1
+The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.
 
 ## Section 4
 

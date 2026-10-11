@@ -41,7 +41,7 @@ Whenever any person has obtained permission to use any of the streets of said mu
 
 ## Section 5
 
-All apparatus and appurtenances used by the grantee, its successors or assigns, shall be modern and first class in every respect, and all telephone lines or installations used, maintained and operated in connection with this franchise by the grantee, its successors or assigns, shall be kept and maintained at all times in a satisfactory manner, so as to render an efficient and adequate telephone service, and it shall be the further duty of said grantee, its successors or assigns, whenever required to do so by the Public Service Commission, to modify, improve and change such telephone system for the electrical transmission of conversations and signals by means of electricity in such manner and to such extent as the progress of science and improvements in the method of electrical transmission of conversations and signals by means of electricity may make reasonable and proper.1aшphi1
+All apparatus and appurtenances used by the grantee, its successors or assigns, shall be modern and first class in every respect, and all telephone lines or installations used, maintained and operated in connection with this franchise by the grantee, its successors or assigns, shall be kept and maintained at all times in a satisfactory manner, so as to render an efficient and adequate telephone service, and it shall be the further duty of said grantee, its successors or assigns, whenever required to do so by the Public Service Commission, to modify, improve and change such telephone system for the electrical transmission of conversations and signals by means of electricity in such manner and to such extent as the progress of science and improvements in the method of electrical transmission of conversations and signals by means of electricity may make reasonable and proper.
 
 ## Section 6
 
@@ -81,7 +81,7 @@ The grantee, its successors or assigns, shall hold the National, provincial and 
 
 The rates for the telephone service, flat rates as well as measured rates, shall be subject to the approval of the Public Service Commission.
 
-The monthly rates for telephone having a metallic circuit within the limits of the municipality shall also be approved by the Public Service Commission.1âшphi1
+The monthly rates for telephone having a metallic circuit within the limits of the municipality shall also be approved by the Public Service Commission.
 
 ## Section 15
 

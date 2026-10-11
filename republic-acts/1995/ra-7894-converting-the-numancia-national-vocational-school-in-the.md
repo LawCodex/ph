@@ -40,7 +40,7 @@ It shall grant a proficiency certificate in non-degree courses and diploma to th
 
 ## Section 4
 
-the entry qualification of high school graduates desiring to enroll shall be based on the open door policy but limited to the actual capacity of the College for maximum efficiency in terms of quality graduates, efficient use of facilities, and reduction of waste materials resources.1aшphi1
+the entry qualification of high school graduates desiring to enroll shall be based on the open door policy but limited to the actual capacity of the College for maximum efficiency in terms of quality graduates, efficient use of facilities, and reduction of waste materials resources.
 
 ## Section 5
 

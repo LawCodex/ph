@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section eighty-six of Republic Act Numbered Two hundred and ninety-six is hereby amended to read as follows:
 
-"Section 86.1a⍵⍴h!1 Jurisdiction of justices of the peace and judges of municipal courts of chartered cities.-The jurisdiction of justices of the peace and judges of municipal courts of chartered cities shall consist of:
+"Section 86. Jurisdiction of justices of the peace and judges of municipal courts of chartered cities.-The jurisdiction of justices of the peace and judges of municipal courts of chartered cities shall consist of:
 
 "(a) Original jurisdiction to try criminal cases in which the offense charged has been committed within their respective territorial jurisdiction;
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The first week of February of every year is declared as "World Interfaith Harmony Week" in the entire country. All government agencies and instrumentalities, including government-owned and -controlled corporations as well as local government units, are hereby mandated to carry out the observance of activities designed to advance the message of interfaith harmony and goodwill in accordance with religious traditions and practices.1âwphi1
+The first week of February of every year is declared as "World Interfaith Harmony Week" in the entire country. All government agencies and instrumentalities, including government-owned and -controlled corporations as well as local government units, are hereby mandated to carry out the observance of activities designed to advance the message of interfaith harmony and goodwill in accordance with religious traditions and practices.
 
 ## Section 2
 

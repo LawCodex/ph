@@ -148,7 +148,7 @@ _Sources of Funds and the Operating Budget of MMDA_ :
 
 a. To carry out the purposes of this Act, the amount of One billion pesos (P1,000,000,000) is hereby authorized to be appropriated for the initial operation of the MMDA. Thereafter, the annual expenditures including capital outlays of the MMDA shall be provided in the General Appropriations Act.
 
-b. The MMDA shall continue to receive the Internal Revenue Allotment (IRA) currently allocated to the present MMA.1aшphi1
+b. The MMDA shall continue to receive the Internal Revenue Allotment (IRA) currently allocated to the present MMA.
 
 c. The MMDA is likewise empowered to levy fines, and impose fees and charges for various services rendered.
 

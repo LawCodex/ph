@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Calubcob I National High School in Barangay Calubcob I, Municipality of San Juan, Batangas is hereby established.ᇈWᑭHIL
+The Calubcob I National High School in Barangay Calubcob I, Municipality of San Juan, Batangas is hereby established.
 
 ## Section 2
 

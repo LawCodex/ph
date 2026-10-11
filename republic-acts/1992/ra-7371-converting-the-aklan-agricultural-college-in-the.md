@@ -37,7 +37,7 @@ The College shall offer undergraduate and graduate courses in the field of agric
 
 ## Section 4
 
-The College shall have the general powers of a corporation set forth in the Corporation Law. The administration of the College and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the College insofar as authorized by the Board.1âшphi1
+The College shall have the general powers of a corporation set forth in the Corporation Law. The administration of the College and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the College insofar as authorized by the Board.
 
 ## Section 5
 
@@ -111,7 +111,7 @@ The members of the Board shall not receive any salary but shall be entitled to r
 
 The College shall be headed by a President to be elected by the Board and shall hold office for a term of six (6) years without reappointment unless he reaches the age of retirement or earlier removed for cause or becomes incapacitated to discharge the duties of the office.
 
-In case of vacancy in the Office of the President by reason of death, resignation, incapacity of the President to perform the functions of his office, or removal for cause, the Board shall have the authority to designate an officer-in-charge of the College pending the appointment of a successor. The new President shall hold office for the unexpired term but in no case shall his term be more than six (6) years subject to the provisions of the preceding paragraph.1âшphi1
+In case of vacancy in the Office of the President by reason of death, resignation, incapacity of the President to perform the functions of his office, or removal for cause, the Board shall have the authority to designate an officer-in-charge of the College pending the appointment of a successor. The new President shall hold office for the unexpired term but in no case shall his term be more than six (6) years subject to the provisions of the preceding paragraph.
 
 The powers and duties of the President of the College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of similar colleges.
 

@@ -228,7 +228,7 @@ The annual salaries of physicians under the Department of Health shall be as her
 <td>6,000.00</td>
 </tr>
 <tr>
-<td>Chief of section or laboratory inspector<cite>1awphil@alf</cite></td>
+<td>Chief of section or laboratory inspector</td>
 <td>5,100.00</td>
 </tr>
 <tr>
@@ -289,4 +289,4 @@ All laws, acts, or parts thereof, inconsistent with the provisions of this Act, 
 
 This Act shall take effect upon its approval.
 
-Approved: **March 14, 1952** 1awphil@alf
+Approved: **March 14, 1952**

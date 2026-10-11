@@ -28,11 +28,17 @@ AN ACT PROVIDING FOR THE CONTROL AND ELIMINATION OF HUMAN AND ANIMAL RABIES, PRE
 
 _Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled_ :
 
-**SECTION 1._Title._** \- This Act shall be known as the "**Anti-Rabies Act of 2007** ".
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It is the declared policy of the State to protect and promote the right to health of the people. Towards this end, a system for the control, prevention of the spread, and eventual eradication of human and animal Rabies shall be provided and the need for responsible pet ownership established.
+_Title._ \- This Act shall be known as the "**Anti-Rabies Act of 2007** ".
 
-**SEC. 3._Definition of Terms._** \- For the purpose of this Act, the following terms shall mean:
+## SEC. 2
+
+_Declaration of Policy._ \- It is the declared policy of the State to protect and promote the right to health of the people. Towards this end, a system for the control, prevention of the spread, and eventual eradication of human and animal Rabies shall be provided and the need for responsible pet ownership established.
+
+## SEC. 3
+
+_Definition of Terms._ \- For the purpose of this Act, the following terms shall mean:
 
 (a) _Bitten_ refers to an act by which a Dog seizes, cuts or grips with its teeth so that the skin of a person has been wounded, pierced or scratched.
 
@@ -68,9 +74,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (q) _Veterinary or Human Barbiturates_ refer to drugs that depress the function of the central nervous system.
 
-**SEC. 4._National Rabies Prevention and Control Program._** \- It is hereby mandated that there shall be a National Rabies Prevention and Control Program to be implemented by a multi-agency/multi-sectoral committee chaired by the Bureau of Animal Industry of the Department of Agriculture. The program shall be a multi-agency effort in controlling and eliminating Rabies in the country. Among its component activities include: (1) mass vaccination of Dogs; (2) establishment of a central database system for registered and vaccinated Dogs; (3) impounding, field control and disposition of unregistered, Stray and unvaccinated Dogs; (4) conduct of information and education campaign on the prevention and control of Rabies; (5) provision on pre-exposure treatment to high risk personnel and Post Exposure Treatment to animal bite victims; (6) provision of free routine immunization or Pre-Exposure Prophylaxis (P.E.P.) of schoolchildren aged five to fourteen in areas where there is high incidence of rabies as well as the (7) encouragement of the practice of responsible pet ownership. The program shall be implemented by the Department of Agriculture (DA) , Department of Health (DOH) , Department of the Interior and Local Government (DILG) and Department of Education (DepEd) , as well as Local Government Units (LGUs) with the assistance of the Department of Environment and Natural Resources (DENR) , Non-Governmental Organizations (NGOs) and People's Organizations (POs) .
+## SEC. 4
 
-**SEC. 5._Responsibilities of Pet Owner._** \- All Pet Owners shall be required to:
+_National Rabies Prevention and Control Program._ \- It is hereby mandated that there shall be a National Rabies Prevention and Control Program to be implemented by a multi-agency/multi-sectoral committee chaired by the Bureau of Animal Industry of the Department of Agriculture. The program shall be a multi-agency effort in controlling and eliminating Rabies in the country. Among its component activities include: (1) mass vaccination of Dogs; (2) establishment of a central database system for registered and vaccinated Dogs; (3) impounding, field control and disposition of unregistered, Stray and unvaccinated Dogs; (4) conduct of information and education campaign on the prevention and control of Rabies; (5) provision on pre-exposure treatment to high risk personnel and Post Exposure Treatment to animal bite victims; (6) provision of free routine immunization or Pre-Exposure Prophylaxis (P.E.P.) of schoolchildren aged five to fourteen in areas where there is high incidence of rabies as well as the (7) encouragement of the practice of responsible pet ownership. The program shall be implemented by the Department of Agriculture (DA) , Department of Health (DOH) , Department of the Interior and Local Government (DILG) and Department of Education (DepEd) , as well as Local Government Units (LGUs) with the assistance of the Department of Environment and Natural Resources (DENR) , Non-Governmental Organizations (NGOs) and People's Organizations (POs) .
+
+## SEC. 5
+
+_Responsibilities of Pet Owner._ \- All Pet Owners shall be required to:
 
 (a) Have their Dog regularly vaccinated against Rabies and maintain a registration card which shall contain all vaccinations conducted on their Dog, for accurate record purposes.
 
@@ -84,7 +94,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (f) Assist the Dog bite victim immediately and shoulder the medical expenses incurred and other incidental expenses relative to the victim’s injuries.
 
-**SEC. 6._Responsibilities of Government Agencies._ **\- The following government agencies, which shall jointly implement the National Rabies Prevention and Control Program, shall be tasked to:
+## SEC. 6
+
+_Responsibilities of Government Agencies._ \- The following government agencies, which shall jointly implement the National Rabies Prevention and Control Program, shall be tasked to:
 
 A. Department of Agriculture
 
@@ -134,7 +146,9 @@ C. Department of Education
 
 (4) Integrate proper information and education on responsible pet ownership in the relevant subjects in the Elementary and High School levels.
 
-**SEC. 7._Responsibilities of the LGUs._** \- LGUs, in their respective localities, shall:
+## SEC. 7
+
+_Responsibilities of the LGUs._ \- LGUs, in their respective localities, shall:
 
 (1) Ensure that all Dogs are properly immunized, registered and issued a corresponding Dog tag for every immunized and registered Dog.
 
@@ -164,7 +178,9 @@ Any and all fines collected pursuant to this Act shall be used for the enhanceme
 
 The DILG shall ensure compliance of these responsibilities by the LGUs.
 
-**SEC. 8._Assistance of NGOs and the Academe._** \- The agencies tasked to implement the anti-Rabies program shall seek the assistance and participation of NGOs in any of the following activities:
+## SEC. 8
+
+_Assistance of NGOs and the Academe._ \- The agencies tasked to implement the anti-Rabies program shall seek the assistance and participation of NGOs in any of the following activities:
 
 (1) Community mobilization.
 
@@ -178,7 +194,9 @@ The DILG shall ensure compliance of these responsibilities by the LGUs.
 
 (6) Any other activities geared towards the prevention and complete eradication of Rabies.
 
-**SEC. 9._Impounding Field Control and Disposition of Unregistered, Stray and Unvaccinated Dogs._** \- Unregistered, Stray or unvaccinated Dogs shall be put in Dog Pounds and disposed of, taking into consideration the following guidelines:
+## SEC. 9
+
+_Impounding Field Control and Disposition of Unregistered, Stray and Unvaccinated Dogs._ \- Unregistered, Stray or unvaccinated Dogs shall be put in Dog Pounds and disposed of, taking into consideration the following guidelines:
 
 (1) Unregistered, Stray or unvaccinated Dogs shall be impounded and kept in the LGU’s designated Dog Pound.
 
@@ -186,7 +204,9 @@ The DILG shall ensure compliance of these responsibilities by the LGUs.
 
 (3) A fee shall be paid by Owners of Impounded Dogs to the LGU concerned, pursuant to Section 7 hereof.
 
-**SEC. 10._Dog Population Control._** \- In furtherance of the policy of this Act to eradicate Rabies, there is the need to control the Dog population and minimize the number of unwanted Stray Dogs. As such, it is hereby mandated
+## SEC. 10
+
+_Dog Population Control._ \- In furtherance of the policy of this Act to eradicate Rabies, there is the need to control the Dog population and minimize the number of unwanted Stray Dogs. As such, it is hereby mandated
 
 (1) That the DA, DOH, DILG, DepEd, LGUs, with the assistance of NGOs and POs shall undertake an educational and promotional campaign on responsible Pet Ownership, including the option of spaying or neutering their Dogs.
 
@@ -194,7 +214,9 @@ The DILG shall ensure compliance of these responsibilities by the LGUs.
 
 (3) That Dogs which have been impounded three times shall only be released after having been spayed or neutered, at the expense of the Pet's Owner.
 
-**SEC. 11._Penalties._** -
+## SEC. 11
+
+_Penalties._ -
 
 (1) Pet Owners who fail or refuse to have their Dog registered and immunized against Rabies shall be punished by a fine of Two thousand pesos (P2,000.00) .
 
@@ -214,13 +236,21 @@ The DILG shall ensure compliance of these responsibilities by the LGUs.
 
 (9) If the violation is committed by an alien, he or she shall be immediately deported after service of sentence without any further proceedings.
 
-**SEC. 12._Implementing Rules and Regulations._** \- The DA, in coordination with the DOH, DILG, DepEd, DENR, NGOs and POs shall issue the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
+## SEC. 12
 
-**SEC. 13._Appropriations._** \- The amount of One hundred million pesos (P100,000,000.00) necessary to implement the provisions of this Act shall be initially charged against the appropriations of the DOH, DA, DILG and DepEd under the General Appropriations Act. For the LGUs, the requirements shall be taken from their Internal Revenue Allotment and other local funds. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+_Implementing Rules and Regulations._ \- The DA, in coordination with the DOH, DILG, DepEd, DENR, NGOs and POs shall issue the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
 
-**SEC. 14._Separability Clause._** \- In case any provision of this Act is declared unconstitutional, the other provisions shall remain in full force and effect.
+## SEC. 13
 
-**SEC. 15._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two newspapers of general circulation, whichever comes earlier.
+_Appropriations._ \- The amount of One hundred million pesos (P100,000,000.00) necessary to implement the provisions of this Act shall be initially charged against the appropriations of the DOH, DA, DILG and DepEd under the General Appropriations Act. For the LGUs, the requirements shall be taken from their Internal Revenue Allotment and other local funds. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+
+## SEC. 14
+
+_Separability Clause._ \- In case any provision of this Act is declared unconstitutional, the other provisions shall remain in full force and effect.
+
+## SEC. 15
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two newspapers of general circulation, whichever comes earlier.
 
 Approved,
 

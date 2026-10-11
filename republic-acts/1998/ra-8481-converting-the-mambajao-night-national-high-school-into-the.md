@@ -35,7 +35,7 @@ The school shall primarily provide vocational and technical education following 
 
 ## Section 3
 
-The TESDA is hereby directed to carry out the purposes of this Act.Ꮮαwρhi৷
+The TESDA is hereby directed to carry out the purposes of this Act.
 
 ## Section 4
 

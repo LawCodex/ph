@@ -32,7 +32,7 @@ The Director of the Bureau of Animal Industry shaij issue such rules and regulat
 
 ## Section 3
 
-The ,sum of twenty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project for the fiscal year nineteen hundred seventy. Thereafter, such sums may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The ,sum of twenty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project for the fiscal year nineteen hundred seventy. Thereafter, such sums may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -37,7 +37,7 @@ The existing and available facilities, equipment, and hospital staff may be incr
 
 ## Section 4
 
-This Act shall take effect immediately upon its approval.1âшphi1
+This Act shall take effect immediately upon its approval.
 
 Approved,
 

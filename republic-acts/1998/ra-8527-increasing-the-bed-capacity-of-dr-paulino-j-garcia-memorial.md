@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, shall be increased from ten (10) beds to fifty (50) beds capacity. Said extension hospital shall be under the full administrative and technical supervision of the Department of Health.Ꮮαwρhi৷
+The bed capacity of the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, shall be increased from ten (10) beds to fifty (50) beds capacity. Said extension hospital shall be under the full administrative and technical supervision of the Department of Health.
 
 ## Section 2
 

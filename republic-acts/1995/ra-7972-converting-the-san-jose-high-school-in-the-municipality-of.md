@@ -47,7 +47,7 @@ Approved,
 | (Sgd.) EDGARDO J. ANGARA President of the Senate | (Sgd.) JOSE DE VENECIA, JR. Speaker of the House of Representatives |
 |---|---|
 
-This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1994 and February 15, 1995, respectively.1aшphi1
+This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1994 and February 15, 1995, respectively.
 
 | (Sgd.) EDGARDO E. TUMANGAN Secretary of the Senate | (Sgd.) CAMILO L. SABIO Secretary General House of Representatives |
 |---|---|

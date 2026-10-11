@@ -28,6 +28,6 @@ The sitio of Pundaquit in Barrio San Miguel, Municipality of San Antonio, Provin
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

@@ -62,7 +62,7 @@ The grantee shall file the return with, and pay the tax due thereon to the Commi
 
 ## Section 9
 
-_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act, scene or other matter to be broadcast and/or telecast from its stations: _Provided,_ That the grantee, during any broadcast and telecast shall cut off from the air the speech, play, act, scene or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.1aшphi1
+_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act, scene or other matter to be broadcast and/or telecast from its stations: _Provided,_ That the grantee, during any broadcast and telecast shall cut off from the air the speech, play, act, scene or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 10
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Tucalan-Miñañga in the Municipality of Lasam, Province of Cagayan, is changed to Nicolas Agatep.1âшphi1
+The name of the barrio of Tucalan-Miñañga in the Municipality of Lasam, Province of Cagayan, is changed to Nicolas Agatep.
 
 ## Section 2
 

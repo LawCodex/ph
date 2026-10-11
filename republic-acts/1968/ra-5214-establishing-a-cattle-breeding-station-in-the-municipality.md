@@ -33,7 +33,7 @@ The Director of Animal Industry shall appoint such personnel as may be necessary
 
 ## Section 3
 
-The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station for fiscal year nineteen hundred sixty-nine. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

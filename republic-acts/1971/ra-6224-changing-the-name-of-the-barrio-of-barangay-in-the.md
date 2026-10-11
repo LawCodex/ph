@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Barrio of Barangay in the Municipality of Espiritu, Province of Ilocos Norte, is hereby changed to Barrio Hilario Valdez.1âшphi1
+The name of the Barrio of Barangay in the Municipality of Espiritu, Province of Ilocos Norte, is hereby changed to Barrio Hilario Valdez.
 
 ## Section 2
 

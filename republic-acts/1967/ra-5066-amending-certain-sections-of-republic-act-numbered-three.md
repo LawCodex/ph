@@ -31,7 +31,7 @@ Section two of Republic Act Numbered Three thousand nine hundred sixty-one is he
 
 "The chairman and members of the Board shall receive no per diems but may be allowed to draw travel allowances.
 
-"The Board shall meet regularly once a month and may hold such special meetings, at the call of the chairman or a majority of the members of the Board, as may be necessary in the interests of the Authority. The meetings may be held in any place at the discretion of the Board.1avvphi1
+"The Board shall meet regularly once a month and may hold such special meetings, at the call of the chairman or a majority of the members of the Board, as may be necessary in the interests of the Authority. The meetings may be held in any place at the discretion of the Board.
 
 "There shall be a general manager who shall be appointed by the President of the Philippines, and whose compensation shall not exceed eighteen thousand pesos per annum."
 

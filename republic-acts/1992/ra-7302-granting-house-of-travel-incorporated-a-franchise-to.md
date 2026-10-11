@@ -63,7 +63,7 @@ _Contracts._ \- The grantee is authorized to enter into transportation contracts
 
 ## Section 8
 
-_Right of Government._ \- In case of war, insurrection, domestic trouble, public calamity or national emergency, the Philippine government, upon order of the President, shall have the right to take over and operate the equipment of the grantee, paying for its use or damages.1âшphi1
+_Right of Government._ \- In case of war, insurrection, domestic trouble, public calamity or national emergency, the Philippine government, upon order of the President, shall have the right to take over and operate the equipment of the grantee, paying for its use or damages.
 
 ## Section 9
 

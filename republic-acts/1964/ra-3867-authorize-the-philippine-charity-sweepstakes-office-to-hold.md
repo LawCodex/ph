@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Philippine Charity Sweepstakes Office is authorized to hold annually a lottery or sweepstakes, the whole proceeds of which shall, after deducting the prizes and expenses as provided for in Republic Act Numbered Eleven hundred sixty-nine, as amended, be turned over to the Philippine National Red Cross Blood Bank for its expansion and for its blood typing project.1âшphi1
+The Philippine Charity Sweepstakes Office is authorized to hold annually a lottery or sweepstakes, the whole proceeds of which shall, after deducting the prizes and expenses as provided for in Republic Act Numbered Eleven hundred sixty-nine, as amended, be turned over to the Philippine National Red Cross Blood Bank for its expansion and for its blood typing project.
 
 ## Section 2
 

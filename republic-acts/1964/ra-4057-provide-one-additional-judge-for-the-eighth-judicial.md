@@ -48,6 +48,6 @@ There is hereby authorized to be appropriated out of any funds in the National T
 
 ## Section 5
 
-This Act shall take effect upon its approval.£a⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

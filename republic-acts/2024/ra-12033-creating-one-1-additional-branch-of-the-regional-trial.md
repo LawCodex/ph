@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-One (1) additional branch of the Regional Trial Court (RTC) in the Eighth Judicial Region are hereby created and stationed in the the City of Baybay, Province of Leyte.ℒαwρhi৷
+One (1) additional branch of the Regional Trial Court (RTC) in the Eighth Judicial Region are hereby created and stationed in the the City of Baybay, Province of Leyte.
 
 The Supreme Court shall assign the respective branch numbers for the newly created branch of the RTC.
 

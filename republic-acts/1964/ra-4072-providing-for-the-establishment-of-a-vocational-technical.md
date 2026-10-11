@@ -53,7 +53,7 @@ Provincial students may be enrolled in the said vocational technical department 
 
 ## Section 8
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said vocational technical department of the Eulogio Rodriguez Vocational High School during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said vocational technical department of the Eulogio Rodriguez Vocational High School during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 9
 

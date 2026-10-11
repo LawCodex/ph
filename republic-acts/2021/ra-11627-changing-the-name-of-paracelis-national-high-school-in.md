@@ -38,7 +38,7 @@ The main campus of the Serapio Gawan National High School shall continue to rema
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.⚖ - ℒαɯρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

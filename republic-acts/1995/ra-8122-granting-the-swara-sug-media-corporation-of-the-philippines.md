@@ -74,7 +74,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 12
 
-_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any prior censorship in any speech, play, act or scene, or other matter to be broadcast or telecast from its stations: _Provided,_ That the grantee, during any broadcast or telecast, may cut off from the air any speech, play, act or scene, or other matter being broadcast or telecast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein is indecent or immoral and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.1aшphi1
+_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any prior censorship in any speech, play, act or scene, or other matter to be broadcast or telecast from its stations: _Provided,_ That the grantee, during any broadcast or telecast, may cut off from the air any speech, play, act or scene, or other matter being broadcast or telecast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein is indecent or immoral and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 13
 

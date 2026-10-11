@@ -92,7 +92,7 @@ _Courses._ — The NYC, SK, representatives from the local educational instituti
 
 _Assistance of Concerned Government Agencies, Organizations, and Instrumentalities._ — The NYC, DILG, DTI, DOH, DICT, PSC, NCCA, DOT, and other concerned agencies, shall provide the necessary assistance to the SK for the effective implementation of the summer youth camp.
 
-The SK may also consult nongovernmental organizations (NGOs) and civil society organizations (CSOs) accredited by the NYC in the development and implementation of the program.ℒαwρhi৷
+The SK may also consult nongovernmental organizations (NGOs) and civil society organizations (CSOs) accredited by the NYC in the development and implementation of the program.
 
 ## Section 7
 

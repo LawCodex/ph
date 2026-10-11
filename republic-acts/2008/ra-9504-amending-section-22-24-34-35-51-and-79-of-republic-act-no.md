@@ -151,11 +151,17 @@ Section 79(A) of Republic Act No. 8424, as amended, otherwise known as the Natio
 
 "x x x."
 
-**SEC. 7._Separability Clause._** \- If any provision of this Act is declared invalid or unconstitutional, other provisions hereof which are not affected thereby shall continue to be in full force and effect.
+## SEC. 7
 
-**SEC. 8._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with any provision of this Act as hereby amended or modified accordingly.
+_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, other provisions hereof which are not affected thereby shall continue to be in full force and effect.
 
-**SEC. 9._Effectivity Clause._** \- This Act shall take fifteen (15) days following its publication in the _official Gazette_ or in at least two (2) newspaper of general circulation.
+## SEC. 8
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with any provision of this Act as hereby amended or modified accordingly.
+
+## SEC. 9
+
+_Effectivity Clause._ \- This Act shall take fifteen (15) days following its publication in the _official Gazette_ or in at least two (2) newspaper of general circulation.
 
 Approved,
 

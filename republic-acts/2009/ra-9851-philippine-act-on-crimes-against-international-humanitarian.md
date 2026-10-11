@@ -370,7 +370,7 @@ _Protection of Victims and Witnesses._ \- In addition to existing provisions in 
 
 _Reparations to Victims._ \- In addition to existing provisions in Philippine law and procedural rules for reparations to victims, the following measures shall be undertaken:
 
-(a) The court shall follow the principles relating to the reparations to, or in respect of, victims,including restitution, compensation and rehabilitation. On this basis, in its decision, the court may, wither upon request or on its own motion in exceptional circumstances, determine the scope and extent of any damage, loss and injury to, or in respect of, victims and state the principles on which it is acting;1avvphi1
+(a) The court shall follow the principles relating to the reparations to, or in respect of, victims,including restitution, compensation and rehabilitation. On this basis, in its decision, the court may, wither upon request or on its own motion in exceptional circumstances, determine the scope and extent of any damage, loss and injury to, or in respect of, victims and state the principles on which it is acting;
 
 (b) The court may make an order directly against a convicted person specifying appropriate reparations to, or in respect of, victims, including restitution, compensation and rehabilitation; and
 

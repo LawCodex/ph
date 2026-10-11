@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Bacarra Provincial High School in the Municipality of Bacarra, Province of Ilocos Norte, is hereby converted into a national comprehensive high school, to be known as Bacarra National Comprehensive High School. The curriculum of said school shall include both academic and vocational courses.1avvphi1
+Bacarra Provincial High School in the Municipality of Bacarra, Province of Ilocos Norte, is hereby converted into a national comprehensive high school, to be known as Bacarra National Comprehensive High School. The curriculum of said school shall include both academic and vocational courses.
 
 ## Section 2
 

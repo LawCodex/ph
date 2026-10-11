@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of Placer Emergency Hospital in the Municipality of Placer, Province of Surigao del Norte, is hereby increased to fifty beds.1âшphi1
+The bed capacity of Placer Emergency Hospital in the Municipality of Placer, Province of Surigao del Norte, is hereby increased to fifty beds.
 
 ## Section 2
 

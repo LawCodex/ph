@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any law to the contrary notwithstanding, the municipal districts of Kasibu and Quezon, Province of Nueva Vizcaya, are hereby constituted into a separate highway engineering district, with principal offices in the municipal district of Kasibu, same province.1âшphi1
+Any law to the contrary notwithstanding, the municipal districts of Kasibu and Quezon, Province of Nueva Vizcaya, are hereby constituted into a separate highway engineering district, with principal offices in the municipal district of Kasibu, same province.
 
 The highway district engineer for said engineering district shall be appointed in accordance with existing laws.
 

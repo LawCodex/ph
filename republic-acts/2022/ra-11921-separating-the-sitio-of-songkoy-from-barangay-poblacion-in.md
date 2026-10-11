@@ -50,7 +50,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Incumbent Barangay Officials._ \- The incumbent elected barangay officials of Barangay Songkoy shall continue to hold office until such time that their successors have been duly elected and qualified.ᇈWᑭHIL
+_Incumbent Barangay Officials._ \- The incumbent elected barangay officials of Barangay Songkoy shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

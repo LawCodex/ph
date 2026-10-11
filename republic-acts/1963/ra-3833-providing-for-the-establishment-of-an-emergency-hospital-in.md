@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Itbayat, Province of Batanes, to be known as the Itbayat Emergency Hospital. The site for the said hospital shall be provided by the municipal council of the said municipality in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Itbayat, Province of Batanes, to be known as the Itbayat Emergency Hospital. The site for the said hospital shall be provided by the municipal council of the said municipality in consultation with the Director of Medical Services.
 
 ## Section 2
 

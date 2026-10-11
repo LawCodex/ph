@@ -57,7 +57,7 @@ A new paragraph is hereby inserted in Section 7 to read as follows:
 
 ## Section 4
 
-Section 7 (j) of the same Act is amended to read as Section 7(k).1a⍵⍴h!1
+Section 7 (j) of the same Act is amended to read as Section 7(k).
 
 ## Section 5
 

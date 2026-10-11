@@ -28,7 +28,7 @@ The Tabaco High School in the Municipality of Tabaco, Province of Albay, is here
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby Authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said high school luring the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of two hundred thousand pesos is hereby Authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said high school luring the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

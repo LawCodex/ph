@@ -54,7 +54,7 @@ The Chief Justice of the Supreme Court, in coordination with the Secretary of th
 
 The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the "Prosecution Service Act of 2010" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the "Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
 
-The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.ℒαwρhi৷
+The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
 
 ## Section 7
 
@@ -121,7 +121,7 @@ The staff complement of the OCC shall be composed of twenty-four (24) personnel,
 
 ## Section 8
 
-The MeTC in the City of San Juan shall have four (4) branches.ℒαwρhi৷ The staffing pattern of each branch shall as follows:
+The MeTC in the City of San Juan shall have four (4) branches. The staffing pattern of each branch shall as follows:
 
 <table>
 <tr>

@@ -28,7 +28,7 @@ Any provision of existing laws or regulations to the contrary notwithstanding, a
 
 Academic and vocational high school graduates at the time they were appointed as teacher and who have been in continuous service for ten successive years are likewise considered civil service eligibles as junior teachers with permanent status.
 
-Teachers who are undergraduates and who have been in continuous service for ten years are considered, to all intents and purposes, regular teachers with permanent status.1awp++i1
+Teachers who are undergraduates and who have been in continuous service for ten years are considered, to all intents and purposes, regular teachers with permanent status.
 
 ## Section 2
 

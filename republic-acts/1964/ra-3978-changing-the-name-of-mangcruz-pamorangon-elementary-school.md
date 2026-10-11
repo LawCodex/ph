@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, is hereby changed to Gregorio Pimentel Memorial School.1âшphi1
+The name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, is hereby changed to Gregorio Pimentel Memorial School.
 
 ## Section 2
 

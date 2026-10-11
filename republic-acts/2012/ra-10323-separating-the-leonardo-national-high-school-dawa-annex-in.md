@@ -34,11 +34,11 @@ _Separation and Conversion into a National High School._ \- The Leonardo Nationa
 
 ## Section 2
 
-Transfer of Assets and Liabilities. - Ail personnel, assets, liabilities and records of the Leonardo National High School - Dawa Annex are hereby transferred to and absorbed by the Dawa National High School.ℒαwρhi৷
+Transfer of Assets and Liabilities. - Ail personnel, assets, liabilities and records of the Leonardo National High School - Dawa Annex are hereby transferred to and absorbed by the Dawa National High School.
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education, shall immediately include in the Department's program the operationalization of the Dawa National High School, the initial funding of which shall be charged against the current year's appropriations of the Leonardo National High School- Dawa Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ \- The Secretary of Education, shall immediately include in the Department's program the operationalization of the Dawa National High School, the initial funding of which shall be charged against the current year's appropriations of the Leonardo National High School- Dawa Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

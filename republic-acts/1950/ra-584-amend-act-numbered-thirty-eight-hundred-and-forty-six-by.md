@@ -65,7 +65,7 @@ Sections three, twelve, as amended, and thirteen of the same Act are hereby amen
 
 "(o) He shall prescribe rules and regulations to be observed by stations for the handling of SOS messages and distress traffics: _Provided,_ That such rules and regulations shall not conflict with the provisions of the International Radio Regulations.
 
-"**Section 12.** Any person who shall violate any provision of this Act, or any regulation prescribed by the Secretary or Commerce and Industry under this Act, or of any provision of the International Radio Regulations, shall be punished by a fine of not more than two thousand pesos or by imprisonment of not more than two years, for each and every offense, or both, in the discretion of the court.ℒαwρhi৷
+"**Section 12.** Any person who shall violate any provision of this Act, or any regulation prescribed by the Secretary or Commerce and Industry under this Act, or of any provision of the International Radio Regulations, shall be punished by a fine of not more than two thousand pesos or by imprisonment of not more than two years, for each and every offense, or both, in the discretion of the court.
 
 "**Section 13.** Any firm, company, corporation or association failing or refusing to observe or violating any provision of this Act, or any provision of the Regulations prescribed by the Secretary of Commerce and Industry under this Act, or any provision of the International Radio Regulations shall be punished by a fine of not more than five thousand pesos for each and every offense."
 

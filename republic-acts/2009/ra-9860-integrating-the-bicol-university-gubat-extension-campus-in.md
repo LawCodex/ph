@@ -60,7 +60,7 @@ _Filing of Report._ \- Within three (3) months after the integration of the Guba
 
 ## Section 8
 
-_Appropriations._ \- The amount necessary to carry out the initial implementation of this Act shall be charged against the current year's funding provided by the Municipality of Gubat. The Municipality of Gubat shall continue to provide assistance to the Bicol University corresponding to the funding given to the BU - Gubat Extension program before the same is integrated into the Bicol University until such time that the full funding requirement of the BU - Gubat Extension Campus is included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The amount necessary to carry out the initial implementation of this Act shall be charged against the current year's funding provided by the Municipality of Gubat. The Municipality of Gubat shall continue to provide assistance to the Bicol University corresponding to the funding given to the BU - Gubat Extension program before the same is integrated into the Bicol University until such time that the full funding requirement of the BU - Gubat Extension Campus is included in the annual General Appropriations Act.
 
 ## Section 9
 

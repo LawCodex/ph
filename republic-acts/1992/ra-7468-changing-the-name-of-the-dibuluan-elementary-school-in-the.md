@@ -23,7 +23,9 @@ AN ACT CHANGING THE NAME OF THE DIBULUAN ELEMENTARY SCHOOL IN THE MUNICIPALITY O
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1. 1âшphi1** The name of the Dibuluan Elementary School in the Municipality of Jones, Province of Isabela, is hereby changed to Jones East Central School.
+## Section 1
+
+The name of the Dibuluan Elementary School in the Municipality of Jones, Province of Isabela, is hereby changed to Jones East Central School.
 
 ## Section 2
 

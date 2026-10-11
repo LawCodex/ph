@@ -38,7 +38,7 @@ Section 1 of Republic Act No. 8972, entitled “An Act Providing for Benefits an
 
 Section 2 of Republic Act No. 8972 is amended to read as follows:
 
-“**Section 2.** _Declaration of Policy._ – It is the policy of the State to promote a just and dynamic social order that ensures the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living and an improved quality of life. The State shall also promote social justice in all phases of national development, value the dignity of every human person and guarantee full respect for human rights.7!ᕼdMᗄ7 Towards these ends, the government shall:
+“**Section 2.** _Declaration of Policy._ – It is the policy of the State to promote a just and dynamic social order that ensures the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living and an improved quality of life. The State shall also promote social justice in all phases of national development, value the dignity of every human person and guarantee full respect for human rights. Towards these ends, the government shall:
 
 (a) Support the natural and primary rights and duty of solo parents in rearing their children by providing for their basic needs, and extending to them assistance in social service and welfare benefits, with the end in view of uplifting their status and circumstances; and
 
@@ -432,7 +432,7 @@ A new section to be denominated as Section 24 of the same Act is hereby added to
 
 The Chairperson, Vice-Chairperson and members of the IACMC shall meet quarterly and shall submit a report to Congress on the implementation of this Act every three (3) years from the establishment of the IACMC. They may designate their respective representatives who must have at least a rank of Assistant Secretary or its equivalent.
 
-The IACMC shall accurately gather demographic data on the solo parents and their children, by utilizing the Community-based Monitoring System (CBMS) under Republic Act No. 11315, otherwise known as the 'Community-Based Monitoring Systems Act'.1aшphi1 The PSA shall conduct every four (4) years an updated demographic survey on solo parents and their children."
+The IACMC shall accurately gather demographic data on the solo parents and their children, by utilizing the Community-based Monitoring System (CBMS) under Republic Act No. 11315, otherwise known as the 'Community-Based Monitoring Systems Act'. The PSA shall conduct every four (4) years an updated demographic survey on solo parents and their children."
 
 ## Section 22
 
@@ -440,7 +440,7 @@ A new section to be denominated as Section 25 of the same Act is hereby added to
 
 "**Section 25.** _Joint Congressional Oversight Committee on Solo Parents._ \- There is hereby created a Joint Congressional Oversight Committee on Solo Parents (JCOCSP), to monitor the implementation of this Act. The JCOCSP shall set the overall framework for reviewing the implementation of this Act, determining inherent vulnerabilities in the law, and recommending the necessary legislative or executive measures.
 
-The JCOCSP shall be composed of five (5) senators and five (5) representatives to be appointed by the Senate President and House Speaker, respectively.+3u.7!ydmb7 The JCOCSP shall be co-chaired by the Chairpersons of the Committee on Revisions of Laws of the House of Representatives and the Committee on Women, Children, Family Relations and Gender Equality of the Senate."
+The JCOCSP shall be composed of five (5) senators and five (5) representatives to be appointed by the Senate President and House Speaker, respectively. The JCOCSP shall be co-chaired by the Chairpersons of the Committee on Revisions of Laws of the House of Representatives and the Committee on Women, Children, Family Relations and Gender Equality of the Senate."
 
 ## Section 23
 

@@ -33,7 +33,7 @@ _Funding._ \- The Secretary of the Department of Transportation shall immediatel
 
 ## Section 3
 
-_Effectivity._ \- This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+_Effectivity._ \- This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The national highway from Baguio to Bontoc, Mountain Province, is named "Halsema Mountain Road".1aшphi1
+The national highway from Baguio to Bontoc, Mountain Province, is named "Halsema Mountain Road".
 
 ## Section 2
 

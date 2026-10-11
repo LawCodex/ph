@@ -29,7 +29,7 @@ The rural health unit in the Municipality of Pilar, Camotes Island, Province of 
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.ℒαwρhi৷
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

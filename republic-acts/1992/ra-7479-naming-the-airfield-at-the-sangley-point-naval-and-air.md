@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT NAMING THE AIRFIELD AT THE SANGLEY POINT NAVAL AND AIR TRAINING STATION TO MAJOR DANILO ATIENZA AIRFIELD, SANGLEY POINT
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1a⍵⍴h!1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

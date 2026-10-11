@@ -29,7 +29,7 @@ There shall be established, under the direct supervision of the Director of Medi
 
 ## Section 2
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of the building.1avvphi1 The operation and maintenance of the hospital shall be in accordance with the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as Hospital Financing Act.
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of the building. The operation and maintenance of the hospital shall be in accordance with the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as Hospital Financing Act.
 
 ## Section 3
 

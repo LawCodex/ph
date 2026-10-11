@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of the Provincial Hospital of Misamis Oriental in Cagayan de Oro City is hereby increased to two hundred.(awÞhi(
+The bed capacity of the Provincial Hospital of Misamis Oriental in Cagayan de Oro City is hereby increased to two hundred.
 
 ## Section 2
 

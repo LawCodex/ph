@@ -163,7 +163,7 @@ Containing an area of 20,938,874 square meters, which includes 1,090,407 square 
 
 _Conduct and Supervision of Plebiscite._ \- Pursuant to Section 10 of Republic Act No. 7160, as amended, otherwise known as the "Local Government Code of 1991", the new barangay shall exist upon obtaining a majority of the votes cast in a plebiscite to be conducted and supervised by the Commission on Elections (COMELEC) in Barangay Amduntog, Municipality of Asipulo, Province of Ifugao not later than one hundred twenty (120) days from the effectivity of this Act.
 
-The expenses for the plebiscite shall be borne by the Municipality of Asipulo, Province of Ifugao.1âwphi1
+The expenses for the plebiscite shall be borne by the Municipality of Asipulo, Province of Ifugao.
 
 ## Section 4
 

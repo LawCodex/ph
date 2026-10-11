@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution of the Philippines and of the Philippine Trade Agreement of 1946, the term of the franchise granted in pursuance to the authority under Legislative Act Numbered Three thousand two hundred and fifteen to Gabriel T. Hernandez and later assigned to and taken over by the Cacho and Hidalgo co-partnership, to construct, maintain, and operate an electric light, heat and power system for the purpose of generating and distributing for sale electric light, heat and power throughout the municipality of Daet, Province of Camarines Norte, is hereby extended, under the same terms and conditions therein provided, for a period of twenty-five years from the date of its expiration.1aшphi1
+Subject to the provisions of the Constitution of the Philippines and of the Philippine Trade Agreement of 1946, the term of the franchise granted in pursuance to the authority under Legislative Act Numbered Three thousand two hundred and fifteen to Gabriel T. Hernandez and later assigned to and taken over by the Cacho and Hidalgo co-partnership, to construct, maintain, and operate an electric light, heat and power system for the purpose of generating and distributing for sale electric light, heat and power throughout the municipality of Daet, Province of Camarines Norte, is hereby extended, under the same terms and conditions therein provided, for a period of twenty-five years from the date of its expiration.
 
 ## Section 2
 

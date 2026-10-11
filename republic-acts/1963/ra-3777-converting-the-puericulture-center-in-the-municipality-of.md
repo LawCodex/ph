@@ -28,7 +28,7 @@ The Narvacan Puericulture Center in the Municipality of Narvacan, Province of Il
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-four. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Acts, in accordance with the provision of the Hospital Financing act of provinces.1âшphi1
+The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-four. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Acts, in accordance with the provision of the Hospital Financing act of provinces.
 
 ## Section 3
 

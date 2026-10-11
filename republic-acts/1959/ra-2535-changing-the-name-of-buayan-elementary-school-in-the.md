@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, is changed to Lagao Elementary School.1awp++i1
+The name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, is changed to Lagao Elementary School.
 
 ## Section 2
 

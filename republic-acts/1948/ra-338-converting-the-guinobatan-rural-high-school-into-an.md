@@ -28,7 +28,7 @@ The Guinobatan Rural High School at Guinobatan, Albay, is hereby converted into 
 
 ## Section 2
 
-All members of the teaching staff and personnel, and all appropriations, furniture, equipment and other properties of the Guinobatan Rural High School existing at the time of approval of this Act shall thereafter belong to the Roxas Memorial Agricultural School.£á⩊phi£
+All members of the teaching staff and personnel, and all appropriations, furniture, equipment and other properties of the Guinobatan Rural High School existing at the time of approval of this Act shall thereafter belong to the Roxas Memorial Agricultural School.
 
 ## Section 3
 

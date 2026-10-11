@@ -41,7 +41,7 @@ The grantee shall not engage in domestic business of telecommunications in the P
 
 ## Section 5
 
-The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1avvphi1
+The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 6
 

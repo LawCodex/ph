@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby changed to Hadji Butu School of Arts and Trades.1âшphi1
+The name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby changed to Hadji Butu School of Arts and Trades.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Tria Tirona Memorial High School in the Municipality of Kawit, Province of Cavite, is hereby converted into a national high school.1âшphi1
+The Tria Tirona Memorial High School in the Municipality of Kawit, Province of Cavite, is hereby converted into a national high school.
 
 ## Section 2
 

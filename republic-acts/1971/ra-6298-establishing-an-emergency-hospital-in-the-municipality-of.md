@@ -28,7 +28,7 @@ There shall be established under the Bureau of Medical Services, a twenty-five b
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year nineteen hundred seventy-one. _Provided,_ That no portion of the appropriation shall be transferred. Thereafter, such sum as may be necessary for the operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year nineteen hundred seventy-one. _Provided,_ That no portion of the appropriation shall be transferred. Thereafter, such sum as may be necessary for the operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

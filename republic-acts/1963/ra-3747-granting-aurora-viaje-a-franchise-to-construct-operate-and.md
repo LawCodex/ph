@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is granted to Aurora Viaje, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the municipalities of Mandaluyong, San Juan, Makati and Pasig, all in the Province of Rizal, to sell ice therein and to accept commodities for storage and to charge and collect a schedule of prices and rates for the ice so manufactured, and the commodities stored, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is granted to Aurora Viaje, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the municipalities of Mandaluyong, San Juan, Makati and Pasig, all in the Province of Rizal, to sell ice therein and to accept commodities for storage and to charge and collect a schedule of prices and rates for the ice so manufactured, and the commodities stored, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.
 
 ## Section 2
 

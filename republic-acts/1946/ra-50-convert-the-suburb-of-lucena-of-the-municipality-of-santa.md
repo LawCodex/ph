@@ -28,7 +28,7 @@ The suburb of Lucena of the municipality of Santa Barbara, Province of Iloilo, c
 
 ## Section 2
 
-The name of the new municipality shall be "Lucena" and the seat of its government shall be where the barrio known as "_Poblacion Lucena_ " is at present located.£á⩊phi£
+The name of the new municipality shall be "Lucena" and the seat of its government shall be where the barrio known as "_Poblacion Lucena_ " is at present located.
 
 ## Section 3
 

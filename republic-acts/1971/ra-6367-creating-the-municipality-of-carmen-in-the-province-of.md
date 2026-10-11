@@ -28,7 +28,7 @@ Barrios Carmen, Malibho, Santa Cruz, Pu-yat, Antao, Cancaban and Esperanza in th
 
 ## Section 2
 
-The new municipality shall acquire corporate existence following a plebiscite held at the national or local elections immediately following the approval of this Act wherein a majority of the qualified voters of seven barrios concerned vote affirmatively in favor of the creation of the new Municipality of Carmen.1âшphi1
+The new municipality shall acquire corporate existence following a plebiscite held at the national or local elections immediately following the approval of this Act wherein a majority of the qualified voters of seven barrios concerned vote affirmatively in favor of the creation of the new Municipality of Carmen.
 
 ## Section 3
 

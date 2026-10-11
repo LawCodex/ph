@@ -54,7 +54,7 @@ The Balete Pass in Sta. Fe, Nueva Vizcaya, more particularly described as follow
 | 19-20 | N. 71" 17' W. | 21.02 m. |
 | 20-21 | S. 69" 14' W. | 154.12 m. |
 
-containing an area of five hundred fifty-seven thousand seven hundred eighty-nine square meters (557,789 sq.m.), more or less.ℒαwρhi৷ The administration and maintenance of the Balete Pass National Shrine shall be under the Philippine Veterans Affairs Office.
+containing an area of five hundred fifty-seven thousand seven hundred eighty-nine square meters (557,789 sq.m.), more or less. The administration and maintenance of the Balete Pass National Shrine shall be under the Philippine Veterans Affairs Office.
 
 ## Section 2
 

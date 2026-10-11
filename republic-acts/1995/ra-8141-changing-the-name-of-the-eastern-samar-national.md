@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Eastern Samar National Comprehensive High School in the Municipality of Borongan, Eastern Samar, is hereby changed to Eastern Samar National Polytechnic School.1aшphi1
+The name of the Eastern Samar National Comprehensive High School in the Municipality of Borongan, Eastern Samar, is hereby changed to Eastern Samar National Polytechnic School.
 
 ## Section 2
 

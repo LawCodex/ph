@@ -37,7 +37,7 @@ Those who failed the examinations, as required under P.D. No. 146, and failed to
 
 ## Section 3
 
-No national entrance examination shall be required for admission to post-secondary degree programs.1a⍵⍴h!1
+No national entrance examination shall be required for admission to post-secondary degree programs.
 
 ## Section 4
 

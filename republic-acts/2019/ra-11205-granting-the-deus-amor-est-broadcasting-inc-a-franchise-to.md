@@ -70,7 +70,7 @@ Nonacceptance of this franchise shall render it void.
 
 ## Section 8
 
-_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shail determine, to guarantee compliance with and fulfillment of the conditions under which this franchise is granted.1âwphi1 If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the same, the bond shall be released by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
+_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shail determine, to guarantee compliance with and fulfillment of the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the same, the bond shall be released by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
 
 ## Section 9
 

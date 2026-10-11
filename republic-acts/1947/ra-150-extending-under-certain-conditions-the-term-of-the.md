@@ -41,7 +41,7 @@ Effective upon the expiration of the existing franchise, there shall be collecte
 
 ## Section 5
 
-The rights herein granted shall not be sold, transferred or alienated by grantee to any other party without previous authority from the Congress.1â#x0448;phi1
+The rights herein granted shall not be sold, transferred or alienated by grantee to any other party without previous authority from the Congress.
 
 ## Section 6
 

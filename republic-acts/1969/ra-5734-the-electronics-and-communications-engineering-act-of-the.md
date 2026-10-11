@@ -204,7 +204,7 @@ g. Any person, except the electronics and communications engineer in charge, who
 
 h. Any person holding a certificate of registration who shall engage in illegal wire-tapping and/or the employment of electronics devices in violation of the privacy of another or in disregard of the privilege of private communications or maintain an unlicensed and/or unregistered communications system or device; and
 
-i. Any person who shall violate any provision of this Act or any rules and regulations promulgated under this Act.1a⍵⍴h!1
+i. Any person who shall violate any provision of this Act or any rules and regulations promulgated under this Act.
 
 ## Section 25
 

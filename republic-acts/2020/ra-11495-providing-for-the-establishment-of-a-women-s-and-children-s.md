@@ -41,7 +41,7 @@ The province shall develop a hospital development plan to reflect the developmen
 
 ## Section 4
 
-The Provincial Government of Camarines Sur shall provide funding for the establishment and operation of the Bicol Women's and Children's Hospital.ℒαwρhi৷ The Secretary of Health shall include in the Department's subsidy program, support for the capital outlays of the said hospital.
+The Provincial Government of Camarines Sur shall provide funding for the establishment and operation of the Bicol Women's and Children's Hospital. The Secretary of Health shall include in the Department's subsidy program, support for the capital outlays of the said hospital.
 
 ## Section 5
 

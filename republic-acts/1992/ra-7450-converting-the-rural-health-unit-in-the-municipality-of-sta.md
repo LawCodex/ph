@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The rural health unit in the Municipality of Sta. Elena, Province of Camarines Norte, is hereby converted into a five-bed capacity health infirmary, to be known as the Sta. Elena Health Infirmary.1âшphi1
+The rural health unit in the Municipality of Sta. Elena, Province of Camarines Norte, is hereby converted into a five-bed capacity health infirmary, to be known as the Sta. Elena Health Infirmary.
 
 ## Section 2
 

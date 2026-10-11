@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted the C.M.S. Estate, Inc., its successors or assigns, a franchise to construct, maintain and operate private fixed point-to-point and land-based radio stations between the City of Manila, Davao City and any place in the Province of Davao, subject to the approval of the Secretary of Public Works and Communications, for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony.1avvphi1
+There is hereby granted the C.M.S. Estate, Inc., its successors or assigns, a franchise to construct, maintain and operate private fixed point-to-point and land-based radio stations between the City of Manila, Davao City and any place in the Province of Davao, subject to the approval of the Secretary of Public Works and Communications, for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony.
 
 ## Section 2
 
@@ -56,7 +56,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell nor assign th
 
 ## Section 9
 
-This franchise shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.1âшphi1
+This franchise shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 10
 

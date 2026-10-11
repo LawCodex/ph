@@ -123,7 +123,7 @@ The provisions of Sections 4, 5, 6, 7 and 8 of Republic Act Numbered Six hundred
 
 "(f) The Commission shall promulgate the necessary rules and regulations to implement this Act. It may, however, adopt its own internal rules of procedures consonant with the requirements of due process; but the rules of evidence applied by courts in proceedings at law shall not apply strictly in any proceeding conducted by or before the Commission.
 
-"The rules promulgated by the Commission under this Act shall take effect ten days after publication in two newspapers of general national circulation.1âшphi1
+"The rules promulgated by the Commission under this Act shall take effect ten days after publication in two newspapers of general national circulation.
 
 "(g) The Commission, within fifteen days after the opening of each regular session of the Congress of the Philippines shall submit to the Senate and the House of Representatives, through the President of the Senate and the Speaker, respectively, an annual report, which shall include, among others, the results of the wage studies and the wage orders it has issued."
 

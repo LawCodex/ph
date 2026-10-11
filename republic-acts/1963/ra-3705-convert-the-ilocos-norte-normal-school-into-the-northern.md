@@ -28,11 +28,11 @@ The present Ilocos Norte Normal School located in the Municipality of Laoag, Pro
 
 ## Section 2
 
-The purpose of the said college shall be to provide professional and technical instruction in the field of elementary education and to promote research, advance studies, and progressive leadership in elementary teacher education.1âшphi1
+The purpose of the said college shall be to provide professional and technical instruction in the field of elementary education and to promote research, advance studies, and progressive leadership in elementary teacher education.
 
 ## Section 3
 
-The head of the institution shall be known as the Dean of the Northern Luzon Teachers College. He shall be appointed by the Secretary of Education, upon the recommendation of the Director of Public Schools.1awp++i1 The powers and duties of the Dean of the Northern Luzon Teachers College shall be the same as those which heretofore have been exercised by the heads of similar institutions. Such powers and duties shall be embodied in circulars issued from time to time by the Director of Public Schools.
+The head of the institution shall be known as the Dean of the Northern Luzon Teachers College. He shall be appointed by the Secretary of Education, upon the recommendation of the Director of Public Schools. The powers and duties of the Dean of the Northern Luzon Teachers College shall be the same as those which heretofore have been exercised by the heads of similar institutions. Such powers and duties shall be embodied in circulars issued from time to time by the Director of Public Schools.
 
 ## Section 4
 

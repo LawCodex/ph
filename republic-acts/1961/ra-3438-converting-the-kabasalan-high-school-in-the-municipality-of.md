@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Kabasalan High School in the Municipality of Kabasalan, Province of Zamboanga del Sur, is hereby converted into a vocational high school to be known as the Kabasalan Vocational High School which shall offer secondary vocational courses in trades and home industry craft skills, agriculture and fishery.1avvphi1
+The Kabasalan High School in the Municipality of Kabasalan, Province of Zamboanga del Sur, is hereby converted into a vocational high school to be known as the Kabasalan Vocational High School which shall offer secondary vocational courses in trades and home industry craft skills, agriculture and fishery.
 
 ## Section 2
 

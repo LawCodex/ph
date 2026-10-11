@@ -109,4 +109,4 @@ _Appropriations._ —To carry out the purposes of this Act, there is hereby auth
 
 _Effectivity_.—This Act shall take effect upon its approval.
 
-Approved, June 21, 1969.1a⍵⍴h!1
+Approved, June 21, 1969.

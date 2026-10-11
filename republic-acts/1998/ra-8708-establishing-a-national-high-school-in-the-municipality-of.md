@@ -31,7 +31,7 @@ There shall be established a national high school in the Municipality of Dimiao,
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary for the implementation of this Act.Ꮮαwρhi৷
+The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary for the implementation of this Act.
 
 ## Section 3
 

@@ -38,7 +38,7 @@ Speaker of the House of Representatives, the President of the Senate of the Phil
 
 ## Section 2
 
-_Repealing Clause._ \- All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.ℒαwρhi৷
+_Repealing Clause._ \- All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 3
 

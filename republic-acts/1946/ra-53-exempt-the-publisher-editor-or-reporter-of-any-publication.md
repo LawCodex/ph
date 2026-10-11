@@ -28,7 +28,7 @@ The publisher, editor or duly accredited reporter of any newspaper, magazine or 
 
 ## Section 2
 
-All provisions of law or rules of court inconsistent with this Act are hereby repealed or modified accordingly.1âwphi1
+All provisions of law or rules of court inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 3
 

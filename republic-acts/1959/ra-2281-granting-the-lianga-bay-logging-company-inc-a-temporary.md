@@ -36,11 +36,11 @@ The grantee shall not engage in domestic business of telecommunications in the P
 
 ## Section 4
 
-The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have adopted to the grantee the frequencies and wave lengths to be used thereunder.1aшphi1
+The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have adopted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 5
 
-The grantee shall so construct and operate such stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.1âшphi1
+The grantee shall so construct and operate such stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
 
 ## Section 6
 
@@ -52,7 +52,7 @@ The grantee shall be subject to the corporation laws of the Philippines now exis
 
 ## Section 8
 
-A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace and order to cause the closure of the grantee’s radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon payment of just compensation.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace and order to cause the closure of the grantee’s radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon payment of just compensation.
 
 ## Section 9
 

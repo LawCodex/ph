@@ -46,7 +46,7 @@ _Compliance._ \- The BU, prior to the establishment of the College and the offer
 
 _Scholarship Programs and Admission._ \- The College shall provide scholarships and other affirmative action programs to assist poor but deserving students who qualify for admission to the College. Students who have availed themselves of nationally-funded scholarship programs to complete the DVM Program under the College shall be required to render a return service as provided for by applicable laws and regulations, or the contract to be signed between the student and the College.
 
-No student shall be denied admission to the College by reason of sex, gender, religion, cultural or community affiliation, physical disability, ethnic origin, or any other forms of discrimination.1aшphi1
+No student shall be denied admission to the College by reason of sex, gender, religion, cultural or community affiliation, physical disability, ethnic origin, or any other forms of discrimination.
 
 ## Section 6
 

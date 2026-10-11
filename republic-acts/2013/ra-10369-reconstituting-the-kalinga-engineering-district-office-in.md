@@ -38,7 +38,7 @@ The Upper Kalinga District Engineering Office to be located in the Municipality 
 
 ## Section 3
 
-The Secretary of Public Works and Highways shall include in the Department’s program the operationalization of these two (2) engineering districts, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Public Works and Highways shall include in the Department’s program the operationalization of these two (2) engineering districts, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

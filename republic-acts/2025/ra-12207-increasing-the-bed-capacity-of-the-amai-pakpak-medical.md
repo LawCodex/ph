@@ -49,7 +49,7 @@ If any provision of this Act is declared unconstitutional, the remaining parts o
 
 ## Section 7
 
-All other laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.ℒαwρhi৷
+All other laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 8
 

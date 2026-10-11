@@ -34,7 +34,7 @@ _Lone Legislative District._ \- The City of Iligan is hereby separated from the 
 
 ## Section 2
 
-_Incumbent Representative._ \- The incumbent Representative of the First Legislative District of the Province of Lanao del Norte shall continue to represent the said district until the new Representative of the Lone Legislative District of the City of Iligan shall have been elected and qualified.lawphil
+_Incumbent Representative._ \- The incumbent Representative of the First Legislative District of the Province of Lanao del Norte shall continue to represent the said district until the new Representative of the Lone Legislative District of the City of Iligan shall have been elected and qualified.
 
 ## Section 3
 

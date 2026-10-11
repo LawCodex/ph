@@ -36,7 +36,7 @@ The Eversley Childs Sanitarium Hospital in Mandaue City, Province of Cebu is her
 
 The existing service facilities and professional health care services of the Eversley Childs Sanitarium and General Hospital are hereby upgraded, commensurate to the reapportion of its authorized bed capacity as provided in Section 1 of this Act.
 
-The existing workforce of the Eversley Childs Sanitarium and General Hospital shall be increased correspondingly.1âwphi1 The Department of Health (DOH) shall, in coordination with the Department of Budget and Management and the Civil Service Commission, and after consultation with the Eversley Childs Sanitarium and General Hospital, determine the additional plantilla positions to be created and filled up.
+The existing workforce of the Eversley Childs Sanitarium and General Hospital shall be increased correspondingly. The Department of Health (DOH) shall, in coordination with the Department of Budget and Management and the Civil Service Commission, and after consultation with the Eversley Childs Sanitarium and General Hospital, determine the additional plantilla positions to be created and filled up.
 
 ## Section 3
 

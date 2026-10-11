@@ -31,4 +31,4 @@ To carry out the purposes of section five-a of Republic Act Numbered Five hundre
 
 This Act shall take effect upon its approval.
 
-Approved: March 12, 19531awphil@alf
+Approved: March 12, 1953

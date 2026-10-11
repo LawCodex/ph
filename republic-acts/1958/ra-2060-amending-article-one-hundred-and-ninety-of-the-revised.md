@@ -36,7 +36,7 @@ Article One hundred and ninety of the Revised Penal Code, is amended to read as 
 
 "‘Indian hemp’ otherwise known as marihuana, cannabis Americana, hashish, bhang, guaza, churrus, and ganjah, embraces every kind, class and character of Indian hemp, whether dried or fresh flowering or fruiting tops of the pistillate plant cannabis satival, from which the resin has not been extracted, including all other geographic varieties whether used as reefers, resin, extract, tincture or in any other form whatsoever.
 
-"By narcotic drug is meant a drug that produces a condition of insensibility and melancholy dullness of mind with delusions and may be habit forming.1âшphi1
+"By narcotic drug is meant a drug that produces a condition of insensibility and melancholy dullness of mind with delusions and may be habit forming.
 
 "2. Anyone who shall maintain a dive or resort where any prohibited drug is used in any form, in violation of the law."
 

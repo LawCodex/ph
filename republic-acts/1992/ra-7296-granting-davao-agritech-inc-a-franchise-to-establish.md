@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Davao Agritech, Inc., hereunder referred to as the grantee, its successors or assigns a franchise to establish, operate and maintain domestic air spraying services with Davao as its major hub.1âшphi1
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Davao Agritech, Inc., hereunder referred to as the grantee, its successors or assigns a franchise to establish, operate and maintain domestic air spraying services with Davao as its major hub.
 
 Air spraying services shall include the maintenance and operation of hangars and aircraft service stations and facilities and other services of similar nature which may be necessary, convenient or useful as an auxiliary to air spraying services.
 

@@ -36,7 +36,7 @@ The grantee, his successors or assigns, shall hold that national, provincial and
 
 ## Section 4
 
-The grantee, his successors or assigns, shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.1âшphi1
+The grantee, his successors or assigns, shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
 
 ## Section 5
 
@@ -52,7 +52,7 @@ A special right is reserved to the President of the Philippines in time of war, 
 
 ## Section 8
 
-This temporary permit shall not be interpreted as an exclusive grant of the privilege herein provided for.1âшphi1
+This temporary permit shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 9
 

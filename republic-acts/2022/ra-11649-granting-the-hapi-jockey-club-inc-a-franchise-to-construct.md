@@ -136,7 +136,7 @@ The Grantee shall file the return with and pay the taxes due thereon to the Comm
 
 (b) Taxes on Winnings. - Every person who wins in horse racing shall pay a tax equivalent to ten percent (10%) of his winnings or dividends, the tax to be based on the actual amount paid to him for very ewinning ticket after deducting the cost of the ticket: _Provided,_ That in the case of winnings from double forecast/quinella and trifecta bets, the tax shall be four percent (4%), and in the case of winning race horses, the tax shall be ten percent (10%) of the prize: _Provided,_ further, That winnings amounting to Ten thousand pesos (P10,000.00) or less shall be exempt.
 
-The taxes herein prescribed shall be deducted from the dividends corresponding to each winning ticket or the prize of each winning race horse owner and withheld by the operator, manager or person in charge of the horse races before paying the dividends or pirzes to the persons entitled theretoℒαwρhi৷.
+The taxes herein prescribed shall be deducted from the dividends corresponding to each winning ticket or the prize of each winning race horse owner and withheld by the operator, manager or person in charge of the horse races before paying the dividends or pirzes to the persons entitled thereto.
 
 The operator, manager or person in charge of horse races shall within twenty (20) days from the date the tax was deducted and withheld in accordance with the preceding paragraph, file a treu and correct return with the Commissioner of Internal Revenue in the manner or form prescribed by the Secretary of Funane, and pay within the same period the total amount of tax so deducted and withheld.
 

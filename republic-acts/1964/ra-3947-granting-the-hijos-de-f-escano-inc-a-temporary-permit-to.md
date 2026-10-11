@@ -61,7 +61,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 10
 
-A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department, amendment, alteration, or repeal by the Congress of the privilege herein provided for.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee’s radio stations or to authorize the temporary use or possession thereof by any department, amendment, alteration, or repeal by the Congress of the privilege herein provided for.
 
 ## Section 11
 

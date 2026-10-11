@@ -126,7 +126,7 @@ Section two hundred and twenty-eight of Commonwealth Act Numbered Four hundred a
 
 "(a) If said passage costs not more than sixty pesos, five pesos.
 
-"(b) If said passage costs more than sixty pesos and not more than one hundred twenty pesos, eight pesos.1âwphi1
+"(b) If said passage costs more than sixty pesos and not more than one hundred twenty pesos, eight pesos.
 
 "(c) If said passage costs more than one hundred and twenty pesos and not more than two hundred and fifty pesos, ten pesos.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Pasacao, Province of Camarines Sur, to be known as the Pasacao School of Fisheries.1âшphi1
+There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Pasacao, Province of Camarines Sur, to be known as the Pasacao School of Fisheries.
 
 ## Section 2
 

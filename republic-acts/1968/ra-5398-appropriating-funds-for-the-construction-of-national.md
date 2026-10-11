@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of two hundred million pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, and/or from the proceeds of bond issues and/or loans which are hereby authorized, for the architectural and engineering services, construction and completion of the national buildings on Constitution Hill in Quezon City, including the improvement of grounds and thoroughfares thereof, subject to the provisions hereinafter set forth: _Provided,_ That the proceeds of bond issues shall not exceed thirty percent of the total loans herein authorized.1avvphi1
+The sum of two hundred million pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, and/or from the proceeds of bond issues and/or loans which are hereby authorized, for the architectural and engineering services, construction and completion of the national buildings on Constitution Hill in Quezon City, including the improvement of grounds and thoroughfares thereof, subject to the provisions hereinafter set forth: _Provided,_ That the proceeds of bond issues shall not exceed thirty percent of the total loans herein authorized.
 
 ## Section 2
 

@@ -40,7 +40,7 @@ _Corporate character of the city_.—The City of Tarlac constitutes a political 
 
 ### Section 4
 
-_Seal and general powers of the city_.—The city shall have a common seal, and may alter the same at pleasure. It may take, purchase, receive, hold, lease, convey, and dispose of real and personal property for the general interests of the city, condemn private property for public use, contract and be contracted with, sue and be sued, prosecute as well as defend to final judgment and execution actions where its interests are involved, exercise all powers hereinafter conferred.1âшphi1
+_Seal and general powers of the city_.—The city shall have a common seal, and may alter the same at pleasure. It may take, purchase, receive, hold, lease, convey, and dispose of real and personal property for the general interests of the city, condemn private property for public use, contract and be contracted with, sue and be sued, prosecute as well as defend to final judgment and execution actions where its interests are involved, exercise all powers hereinafter conferred.
 
 ### Section 5
 
@@ -233,7 +233,9 @@ _Restrictive provisions_.—No commercial sign, signboard, or billboard shall be
 
 ARTICLE V.—Department and Offices of the City
 
-**Section 17. City departments**.—There shall be the following city departments over which the City Mayor shall have direct control and supervision, any existing law to the contrary notwithstanding:
+### Section 17
+
+City departments.—There shall be the following city departments over which the City Mayor shall have direct control and supervision, any existing law to the contrary notwithstanding:
 
 (a) Department of Finance;
 

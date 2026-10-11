@@ -67,7 +67,7 @@ The provisions of this Act shall apply to property divided or to be divided into
 
 (2) A diagrammatic floor plan of the building or buildings in the project, in sufficient detail to identify each unit, its relative location and approximate dimensions;
 
-(h) Any reasonable restriction not contrary to law, morals or public policy regarding the right of any condominium owner to alienate or dispose of his condominium.£a⩊phi£
+(h) Any reasonable restriction not contrary to law, morals or public policy regarding the right of any condominium owner to alienate or dispose of his condominium.
 
 The enabling or master deed may be amended or revoked upon registration of an instrument executed by the registered owner or owners of the property and consented to by all registered holders of any lien or encumbrance on the land or building or portion thereof. The term "registered owner" shall include the registered owners of condominiums in the project. Until registration of a revocation, the provisions of this Act shall continue to apply to such property.
 

@@ -76,7 +76,7 @@ The transfer of PDLs convicted of heinous crimes shall be made within a period o
 
 ## Section 7
 
-_The Facility._ — The separate facility for PDLs convicted of heinous crimes shall be a state-of-the-art facility with surveillance cameras and the latest information technology and security systems capable of monitoring PDLs twenty-four (24) hours a day, and with enhanced and extensive security features on locks, doors, and its perimeters.ℒαwρhi৷ The facility shall be maintained clean and habitable at all times. Sanitary and hygienic toilets and shower areas shall be provided and maintained.
+_The Facility._ — The separate facility for PDLs convicted of heinous crimes shall be a state-of-the-art facility with surveillance cameras and the latest information technology and security systems capable of monitoring PDLs twenty-four (24) hours a day, and with enhanced and extensive security features on locks, doors, and its perimeters. The facility shall be maintained clean and habitable at all times. Sanitary and hygienic toilets and shower areas shall be provided and maintained.
 
 ## Section 8
 

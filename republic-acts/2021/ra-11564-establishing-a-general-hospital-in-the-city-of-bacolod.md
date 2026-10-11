@@ -37,7 +37,7 @@ The City Government of Bacolod shall provide funding for the establishment, oper
 
 ## Section 3
 
-The Chief of the Hospital of the BCGH shall submit to the Department of Health (DOH) a development plan to reflect the development goals of the hospital.Ꮮαwρhi৷ The medical personnel, capital outlays and budgetary needs for the operation of the BCGH shall be based on the hospital development plan.
+The Chief of the Hospital of the BCGH shall submit to the Department of Health (DOH) a development plan to reflect the development goals of the hospital. The medical personnel, capital outlays and budgetary needs for the operation of the BCGH shall be based on the hospital development plan.
 
 ## Section 4
 

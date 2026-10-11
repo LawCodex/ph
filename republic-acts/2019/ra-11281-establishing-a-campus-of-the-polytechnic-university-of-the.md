@@ -66,7 +66,7 @@ All other powers, functions, privileges, responsibilities and limitations to sta
 
 ## Section 9
 
-The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.1âшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 10
 

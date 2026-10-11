@@ -40,7 +40,7 @@ All assets, fixed and movable, personnel and records of the Ormoc City High Scho
 
 ## Section 4
 
-The Department of Education, Culture and Sports shall take the necessary steps for the conversion and operation of the school and for the effective implementation of this Act.1aшphi1
+The Department of Education, Culture and Sports shall take the necessary steps for the conversion and operation of the school and for the effective implementation of this Act.
 
 ## Section 5
 

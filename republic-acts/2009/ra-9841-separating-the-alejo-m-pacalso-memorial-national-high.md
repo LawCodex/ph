@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Alejo M. Pacalso
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Alejo M. Pacalso Memorial National High School - Ampucao Annex are hereby transferred to and absorbed by the Ampucao National High School.lawphil
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Alejo M. Pacalso Memorial National High School - Ampucao Annex are hereby transferred to and absorbed by the Ampucao National High School.
 
 ## Section 3
 

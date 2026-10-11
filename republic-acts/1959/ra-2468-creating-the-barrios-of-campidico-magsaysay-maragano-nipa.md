@@ -46,7 +46,7 @@ The following barrios are hereby created in the Municipality of Palapag, Provinc
 
 (10) Barrio Paysud, consisting of the sitios of Cabongaan, Danao, Nabatasan and Darag; and
 
-(11) Barrio Osmeña, consisting of the sitios of Capirisan, Carogyao, Bongcag, Gadgad, Borac, Hibatuan and Alibangbang.1aшphi1
+(11) Barrio Osmeña, consisting of the sitios of Capirisan, Carogyao, Bongcag, Gadgad, Borac, Hibatuan and Alibangbang.
 
 ## Section 2
 

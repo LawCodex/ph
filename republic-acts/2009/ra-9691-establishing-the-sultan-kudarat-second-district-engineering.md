@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall comprise the municipalities of Lebak, Kalamansig, Senator Ninoy Aquino, Bagumbayan, Palimbang and Esperanza.ℒαwρhi৷
+The said district engineering office shall comprise the municipalities of Lebak, Kalamansig, Senator Ninoy Aquino, Bagumbayan, Palimbang and Esperanza.
 
 ## Section 3
 

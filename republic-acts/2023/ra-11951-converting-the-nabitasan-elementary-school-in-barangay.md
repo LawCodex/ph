@@ -29,7 +29,7 @@ The Nabitasan Elementary School in Barangay Nabitasan, La Paz District, Iloilo C
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Nabitasan Elementary School are hereby transferred and absorbed by the Nabitasan Integrated School.£A⩊phi£
+All personnel, assets, liabilities and records of the Nabitasan Elementary School are hereby transferred and absorbed by the Nabitasan Integrated School.
 
 ## Section 3
 

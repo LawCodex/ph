@@ -40,7 +40,7 @@ The grantee’s radio broadcasting station shall not be put in actual operation 
 
 ## Section 5
 
-The radio broadcasting station of the grantee shall be so constructed and operated and the wave length so selected as to avoid interference with existing radio stations and to permit of the expansion of the grantee’s services.£a⩊phi£
+The radio broadcasting station of the grantee shall be so constructed and operated and the wave length so selected as to avoid interference with existing radio stations and to permit of the expansion of the grantee’s services.
 
 ## Section 6
 

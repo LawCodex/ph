@@ -33,7 +33,7 @@ Article One hundred and twenty-five of Act Numbered Thirty eight hundred and fif
 
 ## Section 2
 
-All acts, executive orders, proclamations, rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or amended accordingly.1âшphi1
+All acts, executive orders, proclamations, rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
 
 ## Section 3
 

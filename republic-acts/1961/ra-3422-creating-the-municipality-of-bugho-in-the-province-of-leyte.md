@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Bugho, Binolho, Andres Bonifacio, Pinocawan, Calsada-Casulongan, Calsada-Batug, Pongon, Inayupan, Rizal, Malitbogay, Odiong, Guindapunan, Naliwatan, Caraye, Manlilisid, Olhay, Tambis, Comatin, Picas Norte, Sta. Cruz, Cangcayang, Abuyogay and Caranhog, and the sitios of Talisayan, Manarug, Responde, Laray, Dap-dap, Samoyaw, Malbog and Oguisan, all in the Municipality of Abuyog, Province of Leyte, are separated from the said municipality and constituted into a separate and independent municipality in the said province to be known as the Municipality of Bugho, with the seat of government at the present site of the barrio of Bugho.1âшphi1
+The barrios of Bugho, Binolho, Andres Bonifacio, Pinocawan, Calsada-Casulongan, Calsada-Batug, Pongon, Inayupan, Rizal, Malitbogay, Odiong, Guindapunan, Naliwatan, Caraye, Manlilisid, Olhay, Tambis, Comatin, Picas Norte, Sta. Cruz, Cangcayang, Abuyogay and Caranhog, and the sitios of Talisayan, Manarug, Responde, Laray, Dap-dap, Samoyaw, Malbog and Oguisan, all in the Municipality of Abuyog, Province of Leyte, are separated from the said municipality and constituted into a separate and independent municipality in the said province to be known as the Municipality of Bugho, with the seat of government at the present site of the barrio of Bugho.
 
 ## Section 2
 

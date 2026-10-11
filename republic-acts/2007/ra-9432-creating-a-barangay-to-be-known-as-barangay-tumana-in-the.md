@@ -28,23 +28,37 @@ AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY TUMANA IN THE CITY OF MARIKIN
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Creation of Barangay Tumana._** \- Sitio Tumana in Barangay Concepcion Uno. City of Marikina, Metro Manila is hereby separated from Barangay Concepcion Uno and constituted into a new barangay to be known as Barangay Tumana.
+## SECTION 1
+
+_Creation of Barangay Tumana._ \- Sitio Tumana in Barangay Concepcion Uno. City of Marikina, Metro Manila is hereby separated from Barangay Concepcion Uno and constituted into a new barangay to be known as Barangay Tumana.
 
 The technical description of Barangay Tumana shall be as follows:
 
 From the corner of Everlasting Street and Roxas Street, Twinville Subdivision going south, along the centerline of Roxas Street, J. del Rosario Street and Angel Santos Street; thence to the west along the property of Wood Ridge Residential Estate; thence to the northeast between the property line of Wood Ridge Residential and Loyola Grand Villas; thence to the northwest along Finland Street until it intersects Quezon City Boundary; thence to the northeast along Marikina-Quezon City boundary until it crosses Marikina River; and thence to the east along the centerline of Everlasting Street until intersects the point of beginning.
 
-**SEC. 2._Conduct and Supervision of Plebiscite._** \- Pursuant to Section 10 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, the new barangay shall exist upon the majority of the votes cast by the qualified voters of Barangay Concepcion Uno, City of Marikina, Metro Manila in a plebiscite to be conducted and supervised by the Commission on Elections (COMELEC) in the area affected, with ninety (90) days from the effectivity of this Act.
+## SEC. 2
 
-**SEC. 3._Barangay Officials._** \- The first set of officials of the said Barangay shall be appointed by the City Mayor of Marikina and shall hold office until such time that their successors have been duly elected and qualified.
+_Conduct and Supervision of Plebiscite._ \- Pursuant to Section 10 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, the new barangay shall exist upon the majority of the votes cast by the qualified voters of Barangay Concepcion Uno, City of Marikina, Metro Manila in a plebiscite to be conducted and supervised by the Commission on Elections (COMELEC) in the area affected, with ninety (90) days from the effectivity of this Act.
 
-**SEC. 4._Public Infrastructure and Facilities._** \- All existing public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation and shall be administered by the new barangay.
+## SEC. 3
 
-**SEC. 5._Internal Revenue Allotment Shares._** \- Barangay Tumana shall be entitled to the Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991.
+_Barangay Officials._ \- The first set of officials of the said Barangay shall be appointed by the City Mayor of Marikina and shall hold office until such time that their successors have been duly elected and qualified.
 
-**SEC. 6._Appropriations._** \- The amount necessary to conduct the plebiscite as provided for under this Act shall be borne by the City of Marikina, Metro Manila.
+## SEC. 4
 
-**SEC. 7._Effectivity._** \- This Act shall take effect upon its approval.
+_Public Infrastructure and Facilities._ \- All existing public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation and shall be administered by the new barangay.
+
+## SEC. 5
+
+_Internal Revenue Allotment Shares._ \- Barangay Tumana shall be entitled to the Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991.
+
+## SEC. 6
+
+_Appropriations._ \- The amount necessary to conduct the plebiscite as provided for under this Act shall be borne by the City of Marikina, Metro Manila.
+
+## SEC. 7
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved,
 

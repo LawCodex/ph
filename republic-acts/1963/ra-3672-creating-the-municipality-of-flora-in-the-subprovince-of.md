@@ -26,9 +26,9 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The barrios and sitios of Marcela, Bagutong, Sipa, Mabetuma, Buyon, Sinicol, Magurano, Mudsin, Bayog, Catawaran, Atoc, Altamalunog, Papagan, Magurao, Malubibit, Banitao, Daao, Anninipan, Allig, Abu, Lagac, Marimay, Malaganay, Casinitan, Coliman, Esperamia, Tacang, Tabangao, Pasingan, Consuelo, Caguliacoan, Balluyan and Oran in the Municipality of Pudtol, Subprovince of Apayao, Mountain Province, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Flora, Subprovince of Apayao, same province.
 
-The seat of government of the new municipality shall be in the present site of the barrio of Bagutong.1âшphi1
+The seat of government of the new municipality shall be in the present site of the barrio of Bagutong.
 
-The new Municipality of Flora shall be bounded on the North by the Luna-Pudtol municipal boundary; on the East by the Mountain Province-Cagayan provincial boundary; on the South by the Tawit River; and on the West by the Apayao River until its intersection to the Tawit River.1âшphi1
+The new Municipality of Flora shall be bounded on the North by the Luna-Pudtol municipal boundary; on the East by the Mountain Province-Cagayan provincial boundary; on the South by the Tawit River; and on the West by the Apayao River until its intersection to the Tawit River.
 
 ## Section 2
 

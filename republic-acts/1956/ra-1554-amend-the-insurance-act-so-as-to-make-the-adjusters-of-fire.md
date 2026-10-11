@@ -50,7 +50,7 @@ Act Numbered Twenty-four hundred and twenty-seven known as "The Insurance Act," 
 
 "(g) The insurance commissioner may suspend or revoke any adjuster’s license if, after giving notice and hearing to the adjuster concerned, the insurance commissioner determines that the said adjuster (1) has violated any provisions of the insurance law and of the circulars, rulings and instructions of the office of the insurance commissioner or has violated any law in the course of his dealings as an adjuster; or (2) has made a material misstatement in the application for such license; or (3) has been guilty of fraudulent or dishonest practices; or (4) has demonstrated his incompetency or untrustworthiness to act as an adjuster; or (5) has made patently unjust valuation of loss; or (6) has failed to make a report of the adjustment he proposed for not more than sixty days from the date of the filing of the claim by the insured with the insurer, unless prevented so to do by reasons beyond his control.
 
-"(h) Every adjuster shall submit to the office of the insurance commissioner a quarterly report of all losses which are the subject of adjustment effected by him during each month in the form prescribed by the insurance commissioner.1avvphi1 The report shall be filed within one month after the end of each quarter."
+"(h) Every adjuster shall submit to the office of the insurance commissioner a quarterly report of all losses which are the subject of adjustment effected by him during each month in the form prescribed by the insurance commissioner. The report shall be filed within one month after the end of each quarter."
 
 ## Section 2
 

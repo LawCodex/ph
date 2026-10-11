@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Tangian, Langatian, Dohinob, Tanayan, Dinoman, Villahermoso, Capase, Canibongan, Piñalan, Sebod, Marupay, Irasan, Carupe, Bod, Mamara, Moliton, Sindotan, Mitotong, Sanggay, Nabilid and Piñamar in the Municipality of Katipunan, Province of Zamboanga del Norte, are hereby separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of President Manuel A. Roxas.1avvphi1 The seat of government of the new municipality shall be the present site of Barrio Tangian.
+Barrios Tangian, Langatian, Dohinob, Tanayan, Dinoman, Villahermoso, Capase, Canibongan, Piñalan, Sebod, Marupay, Irasan, Carupe, Bod, Mamara, Moliton, Sindotan, Mitotong, Sanggay, Nabilid and Piñamar in the Municipality of Katipunan, Province of Zamboanga del Norte, are hereby separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of President Manuel A. Roxas. The seat of government of the new municipality shall be the present site of Barrio Tangian.
 
 ## Section 2
 

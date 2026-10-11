@@ -54,7 +54,7 @@ _Appropriations._ \- The initial amount necessary for the implementation of this
 
 ## Section 3
 
-_Separability Clause._ \- If any provision or part thereof is held invalid or unconstitutional, the remainder of the law or the provision or part not otherwise affected shall remain valid and subsisting.1aшphi1
+_Separability Clause._ \- If any provision or part thereof is held invalid or unconstitutional, the remainder of the law or the provision or part not otherwise affected shall remain valid and subsisting.
 
 ## Section 4
 

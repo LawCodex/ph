@@ -28,6 +28,6 @@ The name of Barrio Bantay-Batac in the Municipality of Batac, Province of Ilocos
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved. August 4, 1969.

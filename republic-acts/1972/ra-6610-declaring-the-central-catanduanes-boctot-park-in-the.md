@@ -28,7 +28,7 @@ The Central Catanduanes (Boctot) Park in the Province of Catanduanes is hereby d
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved.
 

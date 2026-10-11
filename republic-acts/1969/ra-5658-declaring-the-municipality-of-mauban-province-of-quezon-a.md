@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Mauban, Province of Quezon, is hereby declared a permanent subport.1a⍵⍴h!1
+The Municipality of Mauban, Province of Quezon, is hereby declared a permanent subport.
 
 ## Section 2
 

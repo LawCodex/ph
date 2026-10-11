@@ -46,7 +46,7 @@ In case of any violation of the provisions of this franchise, the NTC shall have
 
 _Responsibility to the Public._ \- The Grantee shall provide, free of charge, adequate public service time which is reasonable and sufficient to enable the government, through the broadcasting stations or facilities of the Grantee, to reach the pertinent populations or portions thereof, on important public issues and relay important public announcements and warnings concerning public emergencies and calamities, as necessity, urgency, or law may require; provide at all time sound and balanced programming; promote public participation; assist in the functions of public information and education; conform to the ethics of honest enterprise; promote audience sensibility and empowerment including closed captioning and not use its stations or facilities for the broadcasting of obscene or indecent language, speech, act or scene, the dissemination of deliberately false information or willful misrepresentation, to the detriment of public interest, or to incite, encourage, or assist in subversive or treasonable acts.
 
-Public service time referred herein shall be equivalent to a maximum aggregate of ten percent (10%) of paid commercials or advertisements which shall be allocated based on need to the Executive and Legislative branches, the Judiciary, Constitutional Commissions, and international humanitarian organizations duly recognized by statutes: _Provided,_ That the NTC shall increase the public service time in case of extreme emergency or calamity.ℒαwρhi৷ The NTC shall issue rules and regulations for this purpose, the effecitivity of which shall commence upon applicability with other similarly situated broadcast network franchise holders.
+Public service time referred herein shall be equivalent to a maximum aggregate of ten percent (10%) of paid commercials or advertisements which shall be allocated based on need to the Executive and Legislative branches, the Judiciary, Constitutional Commissions, and international humanitarian organizations duly recognized by statutes: _Provided,_ That the NTC shall increase the public service time in case of extreme emergency or calamity. The NTC shall issue rules and regulations for this purpose, the effecitivity of which shall commence upon applicability with other similarly situated broadcast network franchise holders.
 
 Pursuant to Republic Act No. 8370, otherwise known as the "Children's Television Act of 1997", the Grantee shall allot a minimum of fifteen percent (15%) of the daily total air time of each broadcasting network or station to child-friendly shows within its regular programming.
 
@@ -88,7 +88,7 @@ _Reportorial Requirement._ \- The Grantee shall submit an annual report on its c
 
 The annual report shall include an update on the commencement of activities, development, operation or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall required before any application for permit or certificate is accepted by the NTC.ℒαwρhi৷
+The reportorial compliance certificate issued by Congress shall required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 

@@ -31,7 +31,7 @@ There shall be established a national high school in Barrio Binakayan, Municipal
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

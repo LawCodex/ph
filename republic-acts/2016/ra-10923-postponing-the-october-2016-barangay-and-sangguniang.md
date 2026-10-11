@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section 1 of Republic Act No. 9164, as amended by Republic Act No. 9340 and Republic Act No. 10656, is hereby further amended to read as follows:
 
-"Sec. 1. _Date of Election._ \- There shall be synchronized barangay and sangguniang kabataan elections, which shall be held on July 15, 2002.1âwphi1 Subsequent synchronized barangay and sangguniang kabataan elections shall be held on the last Monday of October 2007 and every three (3) years thereafter: _Provided,_ That the barangay and sangguniang kabataan elections on October 31, 2016 shall be postponed to the fourth Monday of October 2017. Subsequent synchronized barangay and sangguniang kabataan elections shall be held on the second Monday of May 2020 and every three (3) years thereafter."
+"Sec. 1. _Date of Election._ \- There shall be synchronized barangay and sangguniang kabataan elections, which shall be held on July 15, 2002. Subsequent synchronized barangay and sangguniang kabataan elections shall be held on the last Monday of October 2007 and every three (3) years thereafter: _Provided,_ That the barangay and sangguniang kabataan elections on October 31, 2016 shall be postponed to the fourth Monday of October 2017. Subsequent synchronized barangay and sangguniang kabataan elections shall be held on the second Monday of May 2020 and every three (3) years thereafter."
 
 ## Section 2
 
@@ -73,7 +73,7 @@ _Implementing Rules and Regulations._ \- The COMELEC shall, within ninety (90) d
 
 ## Section 9
 
-_Separability Clause._ \- If any provision or part hereof is declared unconstitutional, the remainder of this Act or any provisions not affected shall remain in full force and effect.1âwphi1
+_Separability Clause._ \- If any provision or part hereof is declared unconstitutional, the remainder of this Act or any provisions not affected shall remain in full force and effect.
 
 ## Section 10
 

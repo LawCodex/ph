@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a high school in the Addalam Region at Barangay Tupax, Jones, Isabela, to cater to high school students of Barangays Addalam, Barangcuag, Tupax, San Roque, and Linamanan, all in the Municipality of Jones, Province of Isabela, to be known as the Addalam Region High School.1a⍵⍴h!1
+There shall be established a high school in the Addalam Region at Barangay Tupax, Jones, Isabela, to cater to high school students of Barangays Addalam, Barangcuag, Tupax, San Roque, and Linamanan, all in the Municipality of Jones, Province of Isabela, to be known as the Addalam Region High School.
 
 ## Section 2
 

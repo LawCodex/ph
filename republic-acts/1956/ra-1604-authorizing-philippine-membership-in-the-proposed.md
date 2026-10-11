@@ -38,7 +38,7 @@ There is hereby authorized to be appropriated the sum of three hundred thirty-tw
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 23, 1956.
 

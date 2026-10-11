@@ -73,7 +73,7 @@ Section one hundred and thirty-seven of Commonwealth Act Numbered Four hundred a
 
 "(2) When the manufacturer's or importer's wholesale price, less the amount of the tax, exceeds thirty pesos but does not exceed sixty pesos per thousand, on each thousand, four pesos and sixty centavos.
 
-"(3) When the manufacturer's or importer's wholesale price, less the amount of the tax, exceeds sixty pesos per thousand, on each thousand, seven pesos.1a⍵⍴h!1
+"(3) When the manufacturer's or importer's wholesale price, less the amount of the tax, exceeds sixty pesos per thousand, on each thousand, seven pesos.
 
 "(B) Cigarettes—
 

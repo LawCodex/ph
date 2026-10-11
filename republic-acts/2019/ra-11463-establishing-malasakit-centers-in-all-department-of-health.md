@@ -65,7 +65,7 @@ _Definition of Terms._ — For purposes of this Act, the following terms shall m
 
 ## Section 4
 
-_Malasakit Program._ — The DOH shall establish a Malasakit Program that all DOH hospitals and the PGH shall adopt and implement.1âшphi1 It shall have the following objectives:
+_Malasakit Program._ — The DOH shall establish a Malasakit Program that all DOH hospitals and the PGH shall adopt and implement. It shall have the following objectives:
 
 (a) Provide a policy framework for integrated people-centered health services that shall: (1) ensure and promote an organizational culture geared towards responsiveness; (2) ensure appropriate infrastructure and processes; and (3) promote client engagement and empowerment; and
 

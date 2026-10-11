@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, all physicians employed on full time basis by the Government in positions requiring the knowledge of medicine, shall receive a minimum annual compensation of two thousand four hundred pesos.1a⍵⍴h!1
+Any provision of law to the contrary notwithstanding, all physicians employed on full time basis by the Government in positions requiring the knowledge of medicine, shall receive a minimum annual compensation of two thousand four hundred pesos.
 
 ## Section 2
 

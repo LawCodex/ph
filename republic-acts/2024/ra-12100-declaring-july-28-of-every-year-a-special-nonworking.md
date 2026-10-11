@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-July 28 of every year is hereby declared a special nonworking holiday in Cabadbaran City, Province of Agusan del Norte, to be known as "Cabadbaran Day", in commemoration of its foundation day.ℒαwρhi৷
+July 28 of every year is hereby declared a special nonworking holiday in Cabadbaran City, Province of Agusan del Norte, to be known as "Cabadbaran Day", in commemoration of its foundation day.
 
 ## Section 2
 

@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The following sitios in the Municipality of Lupon, Province of Davao, are converted into barrios of said municipality to be known as follows:
 
-Sitio Cuabo to Barrio Cuabo; Sitio San Roque to Barrio San Roque; Sitio Crossing Manikling to Barrio Crossing Manikling; Sitio Dogmanon to Barrio Dogmanon; Sitio Eva to Barrio Eva; Sitio Kabangkalan to Barrio Kabangkalan; Sitio Magsaysay to Barrio Magsaysay; Sitio San Jose to Barrio San Jose; Sitio Kauswagon to Barrio Kauswagon; Sitio Kalubihan to Barrio Kalubihan; Sitio Mugbongcugon to Barrio Mugbongcugon; Sitio Kabaddiangan to Barrio Kabaddiangan; Sitio Kalapagan to Barrio Kalapagan; Sitio San Vicente to Barrio San Vicente; Sitio Maragatas to Barrio Maragatas; and Sitio Mahayag to Barrio Mahayag.1awp++i1
+Sitio Cuabo to Barrio Cuabo; Sitio San Roque to Barrio San Roque; Sitio Crossing Manikling to Barrio Crossing Manikling; Sitio Dogmanon to Barrio Dogmanon; Sitio Eva to Barrio Eva; Sitio Kabangkalan to Barrio Kabangkalan; Sitio Magsaysay to Barrio Magsaysay; Sitio San Jose to Barrio San Jose; Sitio Kauswagon to Barrio Kauswagon; Sitio Kalubihan to Barrio Kalubihan; Sitio Mugbongcugon to Barrio Mugbongcugon; Sitio Kabaddiangan to Barrio Kabaddiangan; Sitio Kalapagan to Barrio Kalapagan; Sitio San Vicente to Barrio San Vicente; Sitio Maragatas to Barrio Maragatas; and Sitio Mahayag to Barrio Mahayag.
 
 ## Section 2
 

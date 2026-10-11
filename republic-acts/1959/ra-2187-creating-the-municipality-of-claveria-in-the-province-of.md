@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Claveria, Cawayan, Nonoc, Buyo, Taguilid, Boca Engaño, Peñafrancia, Maputing Baybay, Quezon, San Isidro, Mabiton, Nabasagan, San Ramon and Calpi are separated from the Municipality of San Pascual, Province of Masbate, and are constituted into a distinct and independent municipality to be known as the Municipality of Claveria, same province. The boundary line of this municipality and the Municipality of San Pascual shall be a straight line from the northernmost point in the sitio of Boñga in the barrio of Cawayan to the northernmost point of the sitio of Mahabang Baybay in the barrio of Calpi. The seat of the government shall be located at the site of the present barrio of Claveria.1aшphi1
+The barrios of Claveria, Cawayan, Nonoc, Buyo, Taguilid, Boca Engaño, Peñafrancia, Maputing Baybay, Quezon, San Isidro, Mabiton, Nabasagan, San Ramon and Calpi are separated from the Municipality of San Pascual, Province of Masbate, and are constituted into a distinct and independent municipality to be known as the Municipality of Claveria, same province. The boundary line of this municipality and the Municipality of San Pascual shall be a straight line from the northernmost point in the sitio of Boñga in the barrio of Cawayan to the northernmost point of the sitio of Mahabang Baybay in the barrio of Calpi. The seat of the government shall be located at the site of the present barrio of Claveria.
 
 ## Section 2
 

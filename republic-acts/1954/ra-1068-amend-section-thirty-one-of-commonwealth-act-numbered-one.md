@@ -39,7 +39,7 @@ Section thirty-one of Commonwealth Act Numbered One, as amended by Commonwealth 
 
 "The Chief of Staff shall have authority to grant graduation leaves of absence with full pay to all graduates of the Military Academy, who receive commissions in the Regular Force, for a period not exceeding one month effective upon the date of graduation.
 
-"Cadets may be granted leaves of absence from the Military Academy under such rules and regulations as the Chief of Staff may prescribe.1âшphi1
+"Cadets may be granted leaves of absence from the Military Academy under such rules and regulations as the Chief of Staff may prescribe.
 
 "Academic leaves of absence without deduction from pay and allowances may be authorized for the Superintendent, professors, assistant professors, instructors and other officers of the Military Academy for the entire period of the suspension of the ordinary academic studies under such rules and regulations as the Chief of Staff may prescribe: _Provided,_ That officers of the Reserve Force assigned for duty at the Military Academy shall be entitled to the same leave privileges as are unauthorized the officers of the Regular Force."
 

@@ -33,6 +33,6 @@ The last paragraph of section sixteen hundred and seventy-four of the Revised Ad
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

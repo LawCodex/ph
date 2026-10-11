@@ -42,10 +42,10 @@ Section one hundred and thirty-three of Commonwealth Act Numbered Four hundred a
 
 Section one hundred and thirty-five of Commonwealth Act Numbered Four hundred and sixty-six, as amended, is hereby further amended to read as follows:
 
-"Sec. 135. 1awphi1©Specific tax on fermented liquors. - On beer, lager beer, ale, porter, and other fermented liquors, except tuba, basi, tapuy and similar domestic fermented liquors, there shall be collected, on each liter of volume capacity, twenty-five centavos."
+"Sec. 135. Specific tax on fermented liquors. - On beer, lager beer, ale, porter, and other fermented liquors, except tuba, basi, tapuy and similar domestic fermented liquors, there shall be collected, on each liter of volume capacity, twenty-five centavos."
 
 ## Section 3
 
 Date of effectivity. - This Act shall take effect on January 1, 1951.
 
-Approved: **January 30, 1951** 1awphil@alf
+Approved: **January 30, 1951**

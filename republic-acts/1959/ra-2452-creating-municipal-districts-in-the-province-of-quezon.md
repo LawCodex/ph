@@ -32,7 +32,7 @@ The barrios of San Luis, Bacong and Ditumabo are hereby separated from the Munic
 
 ## Section 3
 
-The barrios of Panukulan, Calasumanga, Libo, and Lipata are hereby separated from the Municipality of Polillo, same province, and are constituted into a distinct and independent municipal district to be known as the Municipal District of Panukulan.1âшphi1
+The barrios of Panukulan, Calasumanga, Libo, and Lipata are hereby separated from the Municipality of Polillo, same province, and are constituted into a distinct and independent municipal district to be known as the Municipal District of Panukulan.
 
 ## Section 4
 

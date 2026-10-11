@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The term of the franchise granted to Consuelo D. Borja under Act Numbered Three thousand eight hundred ten is hereby extended, under the same terms and conditions therein provided and subject to the provisions of the Constitution and Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, for a period of twenty-five years from the date of its expiration: _Provided,_ That during the twenty-five years period herein granted as extension, the grantee, her successors or assigns, shall pay a franchise tax equal to five _per centum_ of the gross earnings, under this franchise, three _per centum_ shall accrue to the national government and two _per centum_ to the municipality where the franchise is being operated.1âшphi1
+The term of the franchise granted to Consuelo D. Borja under Act Numbered Three thousand eight hundred ten is hereby extended, under the same terms and conditions therein provided and subject to the provisions of the Constitution and Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, for a period of twenty-five years from the date of its expiration: _Provided,_ That during the twenty-five years period herein granted as extension, the grantee, her successors or assigns, shall pay a franchise tax equal to five _per centum_ of the gross earnings, under this franchise, three _per centum_ shall accrue to the national government and two _per centum_ to the municipality where the franchise is being operated.
 
 ## Section 2
 

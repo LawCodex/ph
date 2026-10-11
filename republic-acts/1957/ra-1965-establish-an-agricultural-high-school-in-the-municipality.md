@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in the Municipality of Balanga, Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.1âшphi1
+There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in the Municipality of Balanga, Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.
 
 ## Section 2
 

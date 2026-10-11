@@ -102,7 +102,7 @@ f. Salt producers/ manufacturers shall register with the BFAD, which shall maint
 
 g. All food-grade salt shall be labeled in a manner that is true and accurate, not likely to mislead purchasers and in accordance with the requirements prescribed by the BFAD.
 
-h. For a period of three (3) years from the effectivity of this Act, the DOH shall provide free iodized salt to indigents residing in sixth class municipalities as may be allowed by their annual appropriations.1aшphi1
+h. For a period of three (3) years from the effectivity of this Act, the DOH shall provide free iodized salt to indigents residing in sixth class municipalities as may be allowed by their annual appropriations.
 
 ## Section 6
 
@@ -120,7 +120,7 @@ d. the Department of Environment and Natural Resources (DENR) and other appropri
 
 _Public Information._ – The benefits and rationale of the use of iodized salt shall be adequately disseminated and promoted through organized, systematic and nationwide information campaign which shall involve major sectors of society to be spearheaded by the DOH, in cooperation and coordination with the LGUs and other agencies concerned, particularly the Department of Education, Culture and Sports (DECS), the Philippine Information Agency (PIA), provincial science centers, private sector, and students.
 
-The implementing agency, in coordination with the PIA, shall seek the cooperation of the media sector to assist in public information dissemination.1aшphi1 Salt iodization and its benefits shall also be included and given emphasis in all levels of health subjects in both public and private schools.
+The implementing agency, in coordination with the PIA, shall seek the cooperation of the media sector to assist in public information dissemination. Salt iodization and its benefits shall also be included and given emphasis in all levels of health subjects in both public and private schools.
 
 ## Section 8
 

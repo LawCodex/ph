@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-Nueva Vizcaya High School is hereby converted into a national high school, to be named Nueva Vizcaya General Comprehensive High School. A comprehensive curriculum which includes both academic and vocational courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.1âшphi1
+Nueva Vizcaya High School is hereby converted into a national high school, to be named Nueva Vizcaya General Comprehensive High School. A comprehensive curriculum which includes both academic and vocational courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
 
 Upon organization of Nueva Vizcaya General Comprehensive High School, the assets, liabilities, personnel, equipment and records of Nueva Vizcaya High School shall be transferred to Nueva Vizcaya General Comprehensive High School.
 

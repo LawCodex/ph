@@ -33,7 +33,7 @@ Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled "An Act
 
 ## Section 3
 
-As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines in the sum of two thousand pesos in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise. If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations or as soon thereafter, the bond shall be cancelled by the Secretary of Public Works and Communications.1avvphi1
+As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines in the sum of two thousand pesos in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise. If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations or as soon thereafter, the bond shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 4
 

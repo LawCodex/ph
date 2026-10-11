@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Philippine Fisheries Commission, a brackish-water experimental station and fresh farm nursery in the Municipality of Panabo, Province of Davao del Norte.1âшphi1
+There shall be established under the direct supervision of the Philippine Fisheries Commission, a brackish-water experimental station and fresh farm nursery in the Municipality of Panabo, Province of Davao del Norte.
 
 ## Section 2
 

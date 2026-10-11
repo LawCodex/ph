@@ -84,6 +84,6 @@ The National Irrigation Administration shall submit to the President of the Phil
 
 ## Section 13
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

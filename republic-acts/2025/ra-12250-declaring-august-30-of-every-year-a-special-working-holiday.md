@@ -29,7 +29,7 @@ August 30 of every year is hereby declared a special working holiday in the City
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

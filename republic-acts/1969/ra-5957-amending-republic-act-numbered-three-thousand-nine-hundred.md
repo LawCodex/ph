@@ -60,6 +60,6 @@ Section three of the same Act is hereby amended to read as follows:
 
 ## Section 5
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, **June 21, 1969.**

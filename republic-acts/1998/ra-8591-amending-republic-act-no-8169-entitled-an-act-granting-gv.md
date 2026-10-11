@@ -93,7 +93,7 @@ The present Section 11 of Republic Act No. 8169 is hereby renumbered as Section 
 
 A new Section 13 is hereby inserted after the present Section 11 of Republic Act No. 8169 to read as follows:
 
-"**Section 13.** _Dispersal of Ownership._ \- In accordance with constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty per centum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of a National Broadcasting Network.Ꮮαwρhi৷ A 'National Broadcasting Network' is hereby defined as one that operates three or more radio and/or television stations. Noncompliance therewith shall render the franchise _ipso facto_ revoked."
+"**Section 13.** _Dispersal of Ownership._ \- In accordance with constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty per centum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of a National Broadcasting Network. A 'National Broadcasting Network' is hereby defined as one that operates three or more radio and/or television stations. Noncompliance therewith shall render the franchise _ipso facto_ revoked."
 
 ## Section 12
 

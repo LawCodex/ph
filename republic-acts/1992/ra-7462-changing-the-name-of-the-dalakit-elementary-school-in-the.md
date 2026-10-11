@@ -27,7 +27,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The name of the Dalakit Elementary School in Barangay Dalakit, Municipality of Catarman, Province of Northern Samar, is hereby changed to Generoso Frigillana Memorial Elementary School.
 
-**Section 2. 1âшphi1** This Act shall take effect upon its approval.
+## Section 2
+
+This Act shall take effect upon its approval.
 
 Approved,
 

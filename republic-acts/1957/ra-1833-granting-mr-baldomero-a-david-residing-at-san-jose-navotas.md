@@ -48,7 +48,7 @@ The stations of the grantee shall be constructed and operated in accordance with
 
 ## Section 7
 
-No private property shall be taken for any purpose by the grantee without proper condemnation proceedings and just compensation paid or tendered therefore, and any authority to take and occupy land contained herein shall not apply to the taking, use or occupation of any land except such as is required for the actual necessary purpose for which this permit is granted.1âшphi1
+No private property shall be taken for any purpose by the grantee without proper condemnation proceedings and just compensation paid or tendered therefore, and any authority to take and occupy land contained herein shall not apply to the taking, use or occupation of any land except such as is required for the actual necessary purpose for which this permit is granted.
 
 ## Section 8
 

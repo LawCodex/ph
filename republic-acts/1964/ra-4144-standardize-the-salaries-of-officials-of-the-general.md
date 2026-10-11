@@ -45,6 +45,6 @@ The incumbent Deputy Auditor General and all incumbents to the positions above r
 
 ## Section 4
 
-This Act shall take effect on July first, nineteen hundred and sixty-four.1âшphi1
+This Act shall take effect on July first, nineteen hundred and sixty-four.
 
 Approved: June 20, 1964.

@@ -29,7 +29,7 @@ The extension office of the Land Transportation Office (LTO) located in the Muni
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of a regular LTO district office in the Municipality of Sanchez Mira, Province of Cagayan, the initial funding of which shall be charged against the current year's appropriation of the said satellite office.ℒαwρhi৷ Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of a regular LTO district office in the Municipality of Sanchez Mira, Province of Cagayan, the initial funding of which shall be charged against the current year's appropriation of the said satellite office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

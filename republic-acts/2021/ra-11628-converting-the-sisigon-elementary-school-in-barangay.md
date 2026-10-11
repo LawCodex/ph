@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Sisigon Elementary Sschool in Barangay Sisigon, Municipality of Matnog, Province of Sorsogon is hereby converted into an integrated school to be known as Sisigon Integrated School.ℒαwρhi৷
+The Sisigon Elementary Sschool in Barangay Sisigon, Municipality of Matnog, Province of Sorsogon is hereby converted into an integrated school to be known as Sisigon Integrated School.
 
 ## Section 2
 

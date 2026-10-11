@@ -35,7 +35,7 @@ The Municipality of Capul shall retain its present territory except the portion 
 
 ## Section 3
 
-The first mayor, vice-mayor, and councilors of the newly created Municipality of San Vicente shall be elected in the next regular elections for provincial and municipal officials.1avvphi1
+The first mayor, vice-mayor, and councilors of the newly created Municipality of San Vicente shall be elected in the next regular elections for provincial and municipal officials.
 
 ## Section 4
 

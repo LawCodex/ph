@@ -47,7 +47,7 @@ The Secretary of Education is hereby empowered to reorganize said school accordi
 
 ## Section 5
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of the Nueva Vizcaya National Agricultural School for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sum for its maintenance and operation shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of the Nueva Vizcaya National Agricultural School for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for its maintenance and operation shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

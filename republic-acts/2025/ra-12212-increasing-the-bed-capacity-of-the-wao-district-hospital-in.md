@@ -33,7 +33,7 @@ The existing professional and healthcare services and facilities of the Wao Dist
 
 ## Section 3
 
-The existing workforce of the Wao District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the Wao District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
 
 ## Section 4
 

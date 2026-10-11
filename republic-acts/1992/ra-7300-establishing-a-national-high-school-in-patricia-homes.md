@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Patricia Homes, Barangay Granada, City of Bacolod, to be known as the Generoso Villanueva, Sr. National High School.1âшphi1
+There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Patricia Homes, Barangay Granada, City of Bacolod, to be known as the Generoso Villanueva, Sr. National High School.
 
 ## Section 2
 

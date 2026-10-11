@@ -92,6 +92,28 @@ PROV_RE = re.compile(
 PROV_RE2 = re.compile(
     r"^\s*((?:Article|ARTICLE|Art\.|ART\.|Section|SECTION|Sec\.|SEC\.)\s*[0-9]+[0-9A-Za-z\-]*\.)\s+(.*)$")
 
+PROV_ANY = re.compile(
+    r"^\s*(?P<open>\*\*|__)?\s*(?P<label>(?:Section|SECTION|Sec\.|SEC\.|Sec|SEC|Article|ARTICLE|Art\.|ART\.)"
+    r"\s*[0-9]+(?:-?[A-Z](?![a-z]))?(?:-[0-9]+)?)\s*(?P<sep>\.|:|(?=\*\*))\s*(?P<close>\*\*|__)?")
+
+
+def match_provision(body):
+    m = PROV_ANY.match(body)
+    if not m:
+        return None
+    rest = body[m.end():]
+    if not m.group("open"):
+        after = body[m.end("sep"):m.end("sep") + 1]
+        if m.group("sep") != "." or after not in (" ", "_", "*", "\n", ""):
+            return None
+    first, _, tail = rest.partition("\n")
+    if m.group("open") and not m.group("close") and first.count("**") % 2 == 1:
+        first = first.replace("**", "", 1)
+    rest = (first + ("\n" + tail if tail else "")).strip()
+    label = normalize_ws(m.group("label"))
+    return label, rest
+
+
 C_MARK = "⟦C⟧"
 BR_MARK = "⟦BR⟧"
 TBL_MARK = "⟦TABLE%d⟧"
@@ -195,7 +217,7 @@ def extract_body(html):
     title_tag = soup.find("title")
     page_title = title_tag.get_text(" ", strip=True) if title_tag else ""
     body = soup.find("blockquote") or soup.body or soup
-    for t in body.find_all(["script", "style", "img", "hr", "noscript", "gcse:searchbox-only"]):
+    for t in body.find_all(["script", "style", "img", "hr", "noscript", "gcse:searchbox-only", "cite"]):  # <cite> holds LawPhil watermarks
         t.decompose()
     for a in body.find_all("a"):
         if "id" in (a.get("class") or []) or (a.get("href") or "").startswith("javascript:"):
@@ -295,12 +317,9 @@ def build_document(md):
         text = text.replace(BR_MARK, " ")
         # restore hard line breaks inside paragraph
         body = "\n".join(x for x in lines if x).replace(BR_MARK, " ")
-        m = PROV_RE.match(body.split("\n")[0]) or PROV_RE2.match(body.split("\n")[0])
-        if m:
-            label = normalize_ws(strip_emph(m.group(1))).rstrip(".")
-            rest_first = m.group(2)
-            rest = "\n".join([rest_first] + body.split("\n")[1:]).strip()
-            items.append(("prov", (label, rest)))
+        pm = match_provision(body)
+        if pm:
+            items.append(("prov", pm))
             continue
         items.append(("para", body))
 

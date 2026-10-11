@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipality of Bigaa in the Province of Bulacan is hereby changed to the Municipality of Balagtas.1avvphi1
+The name of the Municipality of Bigaa in the Province of Bulacan is hereby changed to the Municipality of Balagtas.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ The President of the Philippines, is hereby authorized to sell to the National D
 
 ## Section 2
 
-By this conveyance, the National Development Company acquires full ownership and title to said piece of land described in the preceding section: _Provided,_ However, That the said land, subject matter of this Act, shall not be transferred, sold, mortgaged, encumbered or alienated to any person, association, or corporation without the previous authorization by the President of the Philippines.1âшphi1
+By this conveyance, the National Development Company acquires full ownership and title to said piece of land described in the preceding section: _Provided,_ However, That the said land, subject matter of this Act, shall not be transferred, sold, mortgaged, encumbered or alienated to any person, association, or corporation without the previous authorization by the President of the Philippines.
 
 ## Section 3
 

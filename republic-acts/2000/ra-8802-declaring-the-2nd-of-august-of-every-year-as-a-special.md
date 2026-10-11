@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-August 2 of every year is hereby declared as a special working public holiday in the City of Butuan, in recognition and in commemoration of the city's charter foundation day.ℒαwρhi৷
+August 2 of every year is hereby declared as a special working public holiday in the City of Butuan, in recognition and in commemoration of the city's charter foundation day.
 
 ## Section 2
 

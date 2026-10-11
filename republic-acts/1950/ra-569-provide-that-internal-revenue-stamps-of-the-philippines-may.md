@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one hundred and thirty-seven of the National Internal Revenue Code, as amended, is hereby amended by adding at the end hereof a new paragraph, which shall read as follows:
 
-"If the government of a foreign country permits the revenue stamps of such country to be affixed in the Philippines to tobacco (including cigars) or snuff manufactured in the Philippines and imported into such foreign country, internal revenue stamps of the Philippines may be affixed to tobacco (including cigars) or snuff manufactured in such foreign country to be imported into the Philippines from such foreign country, under such rules and regulations as the Collector of Internal Revenue with the approval of the Secretary of Finance may prescribe."1aшphi1
+"If the government of a foreign country permits the revenue stamps of such country to be affixed in the Philippines to tobacco (including cigars) or snuff manufactured in the Philippines and imported into such foreign country, internal revenue stamps of the Philippines may be affixed to tobacco (including cigars) or snuff manufactured in such foreign country to be imported into the Philippines from such foreign country, under such rules and regulations as the Collector of Internal Revenue with the approval of the Secretary of Finance may prescribe."
 
 ## Section 2
 

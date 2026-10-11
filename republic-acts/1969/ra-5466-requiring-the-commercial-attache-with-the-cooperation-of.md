@@ -38,7 +38,7 @@ The Secretary of Commerce and Industry in consultation with the Secretary of For
 
 ## Section 4
 
-Failure to render the requisite report under this Act shall make the official concerned liable administratively.1a⍵⍴h!1
+Failure to render the requisite report under this Act shall make the official concerned liable administratively.
 
 ## Section 5
 

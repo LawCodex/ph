@@ -29,7 +29,7 @@ Subject to the provisions of the Constitution and the provisions of laws, orders
 
 ## Section 2
 
-A special right is reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to take over and operate the transmitting, receiving and switching stations or to authorize the temporary use thereof by any department of the government upon due compensation to the grantee for the use of said stations during the period when they shall be operated.1âшphi1
+A special right is reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to take over and operate the transmitting, receiving and switching stations or to authorize the temporary use thereof by any department of the government upon due compensation to the grantee for the use of said stations during the period when they shall be operated.
 
 ## Section 3
 

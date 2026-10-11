@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby authorized an increase in the bed capacity of the Masbate Provincial Hospital in the capital town of Masbate, Province of Masbate, from one hundred (100) to one hundred twenty-five (125) beds. In line with this purpose, there is hereby authorized the construction of an annex building to house the additional bed capacity and provide isolation wards for patients afflicted with highly contagious, communicable and transferable diseases, under the supervision of the Bureau of Medical Services of the Department of Health.1âшphi1
+There is hereby authorized an increase in the bed capacity of the Masbate Provincial Hospital in the capital town of Masbate, Province of Masbate, from one hundred (100) to one hundred twenty-five (125) beds. In line with this purpose, there is hereby authorized the construction of an annex building to house the additional bed capacity and provide isolation wards for patients afflicted with highly contagious, communicable and transferable diseases, under the supervision of the Bureau of Medical Services of the Department of Health.
 
 ## Section 2
 

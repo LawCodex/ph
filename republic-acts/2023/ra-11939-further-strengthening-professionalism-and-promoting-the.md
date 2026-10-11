@@ -143,7 +143,7 @@ _Repealing Clause_. - Section 3 and 11 of Republic Act No. 11709 are hereby repe
 
 ## Section 10
 
-_Effectivity_. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ᇈWᑭHIL
+_Effectivity_. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

@@ -25,21 +25,33 @@ THE MAGNA CARTA OF PUBLIC HEALTH WORKERS
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the **"_Magna Carta of Public Health Workers_ "******
+## Section 1
 
-**Section 2._Declaration of Policy and Objective._** \- The State shall instill health consciousness among our people to effectively carry out the health programs and projects of the government essential for the growth and health of the nation. Towards this end, this Act aims: (a) to promote and improve the social and economic well-being of the health workers, their living and working conditions and terms of employment; (b) to develop their skills and capabilities in order that they will be more responsive and better equipped to deliver health projects and programs; and (c) to encourage those with proper qualifications and excellent abilities to join and remain in government service.
+_Title._ \- This Act shall be known as the **"_Magna Carta of Public Health Workers_ "******
 
-**Section 3._Definition._** \- For purposes of this Act, "health workers" shall mean all persons who are engaged in health and health-related work, and all persons employed in all hospitals, sanitaria, health infirmaries, health centers, rural health units, barangay health stations, clinics and other health-related establishments owned and operated by the Government or its political subdivisions with original charters and shall include medical, allied health professional, administrative and support personnel employed regardless of their employment status.
+## Section 2
 
-**Section 4._Recruitment and Qualification._** \- Recruitment policy and minimum requirements with respect to the selection and appointment of a public health worker shall be developed and implemented by the appropriate government agencies concerned in accordance with policies and standards of the Civil Service Commission: provided, that in the absence of appropriate eligibles and it becomes necessary in the public interest to fill a vacancy, a temporary appointment shall be issued to the person who meets all the requirements for the position to which he/she is being appointed except the appropriate civil service eligibility: provided, further, that such temporary appointment shall not exceed twelve (12) months nor be less than three (3) months renewable thereafter but that the appointee may be replaced sooner if (a) a qualified civil service eligible becomes available or (b) the appointee is found wanting in performance or conduct befitting a government employee.
+_Declaration of Policy and Objective._ \- The State shall instill health consciousness among our people to effectively carry out the health programs and projects of the government essential for the growth and health of the nation. Towards this end, this Act aims: (a) to promote and improve the social and economic well-being of the health workers, their living and working conditions and terms of employment; (b) to develop their skills and capabilities in order that they will be more responsive and better equipped to deliver health projects and programs; and (c) to encourage those with proper qualifications and excellent abilities to join and remain in government service.
 
-**Section 5._Performance Evaluation and Merit Promotion._** \- The Secretary of Health, upon consultation with the proper government agency concerned and the Management-Health Workers' Consultative Councils, as established under Section 33 of this Act, shall prepare a uniform career and personnel development plan applicable to all public health personnel. Such career and personnel development plan shall include provisions on merit promotion, performance evaluation, in-service training grants, job rotation, suggestions and incentive award system.
+## Section 3
+
+_Definition._ \- For purposes of this Act, "health workers" shall mean all persons who are engaged in health and health-related work, and all persons employed in all hospitals, sanitaria, health infirmaries, health centers, rural health units, barangay health stations, clinics and other health-related establishments owned and operated by the Government or its political subdivisions with original charters and shall include medical, allied health professional, administrative and support personnel employed regardless of their employment status.
+
+## Section 4
+
+_Recruitment and Qualification._ \- Recruitment policy and minimum requirements with respect to the selection and appointment of a public health worker shall be developed and implemented by the appropriate government agencies concerned in accordance with policies and standards of the Civil Service Commission: provided, that in the absence of appropriate eligibles and it becomes necessary in the public interest to fill a vacancy, a temporary appointment shall be issued to the person who meets all the requirements for the position to which he/she is being appointed except the appropriate civil service eligibility: provided, further, that such temporary appointment shall not exceed twelve (12) months nor be less than three (3) months renewable thereafter but that the appointee may be replaced sooner if (a) a qualified civil service eligible becomes available or (b) the appointee is found wanting in performance or conduct befitting a government employee.
+
+## Section 5
+
+_Performance Evaluation and Merit Promotion._ \- The Secretary of Health, upon consultation with the proper government agency concerned and the Management-Health Workers' Consultative Councils, as established under Section 33 of this Act, shall prepare a uniform career and personnel development plan applicable to all public health personnel. Such career and personnel development plan shall include provisions on merit promotion, performance evaluation, in-service training grants, job rotation, suggestions and incentive award system.
 
 The performance evaluation plan shall consider foremost the improvement of individual employee efficiency and organizational effectiveness: provided. That each employee shall be informed regularly by his/her supervisor of his/her performance evaluation.
 
 The merit promotion plan shall be in consonance with the rules of the Civil Service Commission.
 
-**Section 6._Transfer of Geographical Reassignment of Public Health Workers._** -
+## Section 6
+
+_Transfer of Geographical Reassignment of Public Health Workers._ -
 
 a) a transfer is a movement from one position to another which is of equivalent rank, level or salary without break in service;
 
@@ -47,21 +59,33 @@ b) a geographical reassignment, hereinafter referred to as "reassignment" is a m
 
 c) a public health worker shall not be transferred and/or reassigned, except when made in the interest of public service, in which case, the employee concerned shall be informed of the reasons therefore in writing. If the public health worker believes that there is no justification for the transfer and/or reassignment, he/she may appeal his/her case to the Civil Service Commission, which shall cause his/her transfer and/or reassignment to be held in abeyance: provided, that no transfer and/or reassignment whatsoever shall be made three (3) months before any local or national elections: provided, further, that the necessary expenses of the transfer and/or reassignment of the public health worker and his/her immediate family shall be paid for by the Government.
 
-**Section 7._Married Public Health Workers._** \- Whenever possible, the proper authorities shall take steps to enable married couples, both of whom are public health workers, to be employed or assigned in the same municipality, but not in the same office.
+## Section 7
 
-**Section 8._Security of Tenure._** \- In case of regular employment of public health workers, their services shall not be terminated except for cause provided by law and after due process: provided, that if a public health worker is found by the Civil Service Commission to be unjustly dismissed from work, he/she shall be entitled to reinstatement without loss of seniority rights and to his/her back wages with twelve percent (12%) interest computed from the time his/her compensation was withheld from his/her up to the time of reinstatement.
+_Married Public Health Workers._ \- Whenever possible, the proper authorities shall take steps to enable married couples, both of whom are public health workers, to be employed or assigned in the same municipality, but not in the same office.
 
-**Section 9._Discrimination Prohibited._** \- A public health worker shall not be discriminated against with regard to gender, civil status, creed, religious or political beliefs and ethnic groupings in the exercise of his/her profession.
+## Section 8
 
-**Section 10._No Understaffing/Overloading of Health Staff ._** \- There shall be no understaffing or overloading of public health workers. The ratio of health staff to patient load shall be such as to reasonably effect a sustained delivery of quality health care at all times without overworking the public health workers and over extending his/her duty and service. Health students and apprentices shall be allowed only for purposes of training and education.
+_Security of Tenure._ \- In case of regular employment of public health workers, their services shall not be terminated except for cause provided by law and after due process: provided, that if a public health worker is found by the Civil Service Commission to be unjustly dismissed from work, he/she shall be entitled to reinstatement without loss of seniority rights and to his/her back wages with twelve percent (12%) interest computed from the time his/her compensation was withheld from his/her up to the time of reinstatement.
+
+## Section 9
+
+_Discrimination Prohibited._ \- A public health worker shall not be discriminated against with regard to gender, civil status, creed, religious or political beliefs and ethnic groupings in the exercise of his/her profession.
+
+## Section 10
+
+_No Understaffing/Overloading of Health Staff ._ \- There shall be no understaffing or overloading of public health workers. The ratio of health staff to patient load shall be such as to reasonably effect a sustained delivery of quality health care at all times without overworking the public health workers and over extending his/her duty and service. Health students and apprentices shall be allowed only for purposes of training and education.
 
 In line with the above policy, substitute officers or employees shall be provided in place of officers or employees who are on leave for over three (3) months. Likewise, the Secretary of Health or the proper government official shall assign a medico-legal officer in every province.
 
 In places where there is no such medico-legal officer, rural physicians who are required to render medico-legal services shall be entitled to additional honorarium and allowances.
 
-**Section 11._Administrative Charges._** \- Administrative charges against a public health workers shall be heard by a committee composed of the provincial health officer of the province where the public health worker belongs, as chairperson, a representative of any existing national or provincial public health workers' organization or in its absence its local counterpart and a supervisor of the district, the last two (2) to be designated by the provincial health officer mentioned above. The committee shall submit its findings and recommendations to the Secretary of Health within thirty (30) days from the termination of the hearings. Where the provincial health officer is an interested party, all the members of the committee shall be appointed by the Secretary of Health.
+## Section 11
 
-**Section 12._Safeguards in Disciplinary Procedures._** \- In every disciplinary proceeding, the public health worker shall have:
+_Administrative Charges._ \- Administrative charges against a public health workers shall be heard by a committee composed of the provincial health officer of the province where the public health worker belongs, as chairperson, a representative of any existing national or provincial public health workers' organization or in its absence its local counterpart and a supervisor of the district, the last two (2) to be designated by the provincial health officer mentioned above. The committee shall submit its findings and recommendations to the Secretary of Health within thirty (30) days from the termination of the hearings. Where the provincial health officer is an interested party, all the members of the committee shall be appointed by the Secretary of Health.
+
+## Section 12
+
+_Safeguards in Disciplinary Procedures._ \- In every disciplinary proceeding, the public health worker shall have:
 
 a) the right to be informed, in writing, of the charges;
 
@@ -77,7 +101,9 @@ f) the right to reimbursement of reasonable expenses incurred in his/her defense
 
 g) such other rights as will ensure fairness and impartiality during proceedings.
 
-**Section 13._Duties and Obligations._** \- The public health workers shall:
+## Section 13
+
+_Duties and Obligations._ \- The public health workers shall:
 
 a) discharge his/her duty humanely with conscience and dignity;
 
@@ -85,25 +111,37 @@ b) perform his/her duty with utmost respect for life; and
 
 c) exercise his/her functions without consideration to race, gender, religion, nationality, party politics, social standing or capacity to pay.
 
-**Section 14._Code of Conduct._** \- Within six (6) months from the approval of this Act, the Secretary of Health, upon consultation with other appropriate agencies, professional and health worker's organization, shall formulate and prepare a Code of Conduct for Public Health Workers, which shall be disseminated as widely as possible.
+## Section 14
 
-**Section 15._Normal Hours of Work._** \- The normal hours of work of any public health worker shall not exceed eight (8) hours a day or forty (40) hours a week.
+_Code of Conduct._ \- Within six (6) months from the approval of this Act, the Secretary of Health, upon consultation with other appropriate agencies, professional and health worker's organization, shall formulate and prepare a Code of Conduct for Public Health Workers, which shall be disseminated as widely as possible.
+
+## Section 15
+
+_Normal Hours of Work._ \- The normal hours of work of any public health worker shall not exceed eight (8) hours a day or forty (40) hours a week.
 
 Hours worked shall include: a) all the time during which a public health worker is required to be on active duty or to be at a prescribed workplace; and b) all the time during which a public health worker is suffered or permitted to work; Provided, that, the time when a public health worker is placed on "On Call" status shall not be considered as hours worked but shall entitle the public health worker to an "On Call" pay equivalent to fifty percent (50%) of his/her regular wage. "On Call" status refers to a condition when public health workers are called upon to respond to urgent or immediate need for health/medical assistance or relief work during emergencies such that he/shall cannot devote the time for his/her own use.
 
-**Section 16._Overtime Work._** \- Where the exigencies of the service so require, any public health worker may be required to render service beyond the normal eight (8) hours a day. In such a case, the workers shall be paid an additional compensation in accordance with existing laws and prevailing practices.
+## Section 16
 
-**Section 17._Work During Rest Day._** \-
+_Overtime Work._ \- Where the exigencies of the service so require, any public health worker may be required to render service beyond the normal eight (8) hours a day. In such a case, the workers shall be paid an additional compensation in accordance with existing laws and prevailing practices.
+
+## Section 17
+
+_Work During Rest Day._ \-
 
 a) Where a public health worker is made to work on his/her scheduled rest day, he/she shall be paid an additional compensation in accordance with existing laws.
 
 b) Where a public health worker is made to work on any special holiday he/she shall be paid an additional compensation in accordance with existing laws. Where such holiday work falls on the worker's scheduled rest day, he/she shall be entitled to an additional compensation as may be provided by existing laws.
 
-**Section 18._Night-Shift Differential._** \- a) Every public health worker shall be paid a night-shift differential of ten percent (10%) of his/her regular wage for each hour of work performed during the night-shifts customarily adopted by hospitals.
+## Section 18
+
+_Night-Shift Differential._ \- a) Every public health worker shall be paid a night-shift differential of ten percent (10%) of his/her regular wage for each hour of work performed during the night-shifts customarily adopted by hospitals.
 
 b) Every health worker required to work on the period covered after his/her regular schedule shall be entitled to his/her regular wage plus the regular overtime rate and an additional amount of ten percent (10%) of such overtime rate for each hour of work performed between ten (10) o'clock in the evening to six (6) o'clock in the morning.
 
-**Section 19._Salaries._** \- In the determination of the salary scale of public health workers, the provisions of Republic Act No. 6758 shall govern, except that the benchmark for Rural Health Physicians shall be upgraded to Grade 24.
+## Section 19
+
+_Salaries._ \- In the determination of the salary scale of public health workers, the provisions of Republic Act No. 6758 shall govern, except that the benchmark for Rural Health Physicians shall be upgraded to Grade 24.
 
 a) Salary Scale - Salary scales of public health workers shall be provided progression: provided, that the progression from the minimum to maximum of the salary scale shall not extend over a period of ten (10) years: provided, further, that the efficiency rating of the public health worker concerned is at least satisfactory.
 
@@ -113,37 +151,63 @@ c) Salaries to be Paid in Legal Tender - Salaries of public health workers shall
 
 d) Deductions Prohibited - No person shall make any deduction whatsoever from the salaries of public health workers except under specific provision of law authorizing such deductions: provided, however, that upon written authority executed by the public health worker concerned, a) lawful dues or fees owing to any organization/ association where such public health worker is an officer or member; and b) premiums properly due all insurance policies, retirement and medicare shall be considered deductible.
 
-**Section 20._Additional Compensation._** \- Notwithstanding Section 12 of Republic Act No. 6758, public health workers shall receive the following allowances: hazard allowance, subsistence allowance, longevity pay, laundry allowance and remote assignment allowance.
+## Section 20
 
-**Section 21._Hazard Allowance._** \- Public health workers in hospitals, sanitaria, rural health units, main health centers, health infirmaries, barangay health stations, clinics and other health-related establishments located in difficult areas, strife-torn or embattled areas, distressed or isolated stations, prisons camps, mental hospitals, radiation-exposed clinics, laboratories or disease-infested areas or in areas declared under state of calamity or emergency for the duration thereof which expose them to great danger, contagion, radiation, volcanic activity/eruption, occupational risks or perils to life as determined by the Secretary of Health or the Head of the unit with the approval of the Secretary of Health, shall be compensated hazard allowances equivalent to at least twenty-five percent (25%) of the monthly basic salary of health workers receiving salary grade 19 and below, and five percent (5%) for health workers with salary grade 20 and above.
+_Additional Compensation._ \- Notwithstanding Section 12 of Republic Act No. 6758, public health workers shall receive the following allowances: hazard allowance, subsistence allowance, longevity pay, laundry allowance and remote assignment allowance.
 
-**Section 22._Subsistence Allowance._** \- Public health workers who are required to render service within the premises of hospitals, sanitaria, health infirmaries, main health centers, rural health units and barangay health stations, or clinics, and other health-related establishments in order to make their services available at any and all times, shall be entitled to full subsistence allowance of three (3) meals which may be computed in accordance with prevailing circumstances as determined by the Secretary of Health in consultation with the Management-Health Worker's Consultative Councils, as established under Section 33 of this Act: provided, that representation and travel allowance shall be given to rural health physicians as enjoyed by municipal agriculturists, municipal planning and development officers and budget officers.
+## Section 21
 
-**Section 23._Longevity Pay._** \- A monthly longevity pay equivalent to five percent (5%) of the monthly basic pay shall be paid to a health worker for every five (5) years of continuous, efficient and meritorious services rendered as certified by the chief of office concerned, commencing with the service after the approval of this Act.
+_Hazard Allowance._ \- Public health workers in hospitals, sanitaria, rural health units, main health centers, health infirmaries, barangay health stations, clinics and other health-related establishments located in difficult areas, strife-torn or embattled areas, distressed or isolated stations, prisons camps, mental hospitals, radiation-exposed clinics, laboratories or disease-infested areas or in areas declared under state of calamity or emergency for the duration thereof which expose them to great danger, contagion, radiation, volcanic activity/eruption, occupational risks or perils to life as determined by the Secretary of Health or the Head of the unit with the approval of the Secretary of Health, shall be compensated hazard allowances equivalent to at least twenty-five percent (25%) of the monthly basic salary of health workers receiving salary grade 19 and below, and five percent (5%) for health workers with salary grade 20 and above.
 
-**Section 24._Laundry Allowance._** \- All public health workers who are required to wear uniforms regularly shall be entitled to laundry allowance equivalent to One hundred twenty-five pesos (P125.00) per month: provided, that this rate shall be reviewed periodically and increased accordingly by the Secretary of Health in consultation with the appropriate government agencies concerned taking into account existing laws and prevailing practices.
+## Section 22
 
-**Section 25._Remote Assignment Allowance._** \- Doctors, dentists, nurses, and midwives who accept assignments as such in remote areas or isolated stations, which for reasons of far distance or hard accessibility, such positions had not been filled for the last two (2) years prior to the approval of this Act, shall be entitled to an incentive bonus in the form of remote assignment allowance equivalent to fifty percent (50%) of their basic pay, and shall be entitled to reimbursement of the cost of reasonable transportation to and from such remote post or station, upon assuming or leaving such position and during official trips.
+_Subsistence Allowance._ \- Public health workers who are required to render service within the premises of hospitals, sanitaria, health infirmaries, main health centers, rural health units and barangay health stations, or clinics, and other health-related establishments in order to make their services available at any and all times, shall be entitled to full subsistence allowance of three (3) meals which may be computed in accordance with prevailing circumstances as determined by the Secretary of Health in consultation with the Management-Health Worker's Consultative Councils, as established under Section 33 of this Act: provided, that representation and travel allowance shall be given to rural health physicians as enjoyed by municipal agriculturists, municipal planning and development officers and budget officers.
+
+## Section 23
+
+_Longevity Pay._ \- A monthly longevity pay equivalent to five percent (5%) of the monthly basic pay shall be paid to a health worker for every five (5) years of continuous, efficient and meritorious services rendered as certified by the chief of office concerned, commencing with the service after the approval of this Act.
+
+## Section 24
+
+_Laundry Allowance._ \- All public health workers who are required to wear uniforms regularly shall be entitled to laundry allowance equivalent to One hundred twenty-five pesos (P125.00) per month: provided, that this rate shall be reviewed periodically and increased accordingly by the Secretary of Health in consultation with the appropriate government agencies concerned taking into account existing laws and prevailing practices.
+
+## Section 25
+
+_Remote Assignment Allowance._ \- Doctors, dentists, nurses, and midwives who accept assignments as such in remote areas or isolated stations, which for reasons of far distance or hard accessibility, such positions had not been filled for the last two (2) years prior to the approval of this Act, shall be entitled to an incentive bonus in the form of remote assignment allowance equivalent to fifty percent (50%) of their basic pay, and shall be entitled to reimbursement of the cost of reasonable transportation to and from such remote post or station, upon assuming or leaving such position and during official trips.
 
 In addition to the above, such doctors, dentists, nurses, and midwives mentioned in the preceding paragraph shall be given priority in promotion or assignment to better areas. Their tour of duties in the remote areas shall not exceed two (2) years, except when there are no positions for their transfer or they prefer to stay in such posts in excess of two (2) years.
 
-**Section 26._Housing._** \- All public health workers who are on tour of duty and those who, because of unavoidable circumstances are forced to stay in the hospital, sanitaria or health infirmary premises shall be entitled to free living quarters within the hospital, sanitarium or health infirmary or if such quarters are not available, shall receive quarters allowance as may be determined by the Secretary of Health and other appropriate government agencies concerned: provided, that this rate shall be reviewed periodically and increased accordingly by the Secretary of Health in consultation with the appropriate government agencies concerned.
+## Section 26
+
+_Housing._ \- All public health workers who are on tour of duty and those who, because of unavoidable circumstances are forced to stay in the hospital, sanitaria or health infirmary premises shall be entitled to free living quarters within the hospital, sanitarium or health infirmary or if such quarters are not available, shall receive quarters allowance as may be determined by the Secretary of Health and other appropriate government agencies concerned: provided, that this rate shall be reviewed periodically and increased accordingly by the Secretary of Health in consultation with the appropriate government agencies concerned.
 
 For purposes of this Section, the Department of Health is authorized to develop housing projects in its own lands, not otherwise devoted for other uses, for public health workers in coordination with appropriate government agencies.
 
-**Section 27._Medical Examination._** \- Compulsory medical examination shall be provided free of charge to all public health workers before entering the service in the Government or its subdivisions and shall be repeated once a year during the tenure of employment of all public health workers: provided, that where medical examination shows that medical treatment and/or hospitalization is necessary for those already in government service, the treatment and/or hospitalization including medicines shall be provided free either in a government or a private hospital by the government entity paying the salary of the public health worker: provided, further, that the cost of such medical examination and treatment shall be included as automatic appropriation in said entity's annual budget.
+## Section 27
 
-**Section 28._Compensation for Injuries._** \- Public health workers shall be protected against the consequences of employment injuries in accordance with existing laws. Injuries incurred while doing overtime work shall be presumed work-connected.
+_Medical Examination._ \- Compulsory medical examination shall be provided free of charge to all public health workers before entering the service in the Government or its subdivisions and shall be repeated once a year during the tenure of employment of all public health workers: provided, that where medical examination shows that medical treatment and/or hospitalization is necessary for those already in government service, the treatment and/or hospitalization including medicines shall be provided free either in a government or a private hospital by the government entity paying the salary of the public health worker: provided, further, that the cost of such medical examination and treatment shall be included as automatic appropriation in said entity's annual budget.
 
-**Section 29._Leave Benefits for Public Health Workers._** \- Public health workers are entitled to such vacation and sick leaves as provided by existing laws and prevailing practices: provided, that in addition to the leave privilege now enjoyed by public health workers, women health workers are entitled to such maternity leaves provided by existing laws and prevailing practices: provided, further, that upon separation of the public health workers from service, they shall be entitled to all accumulated leave credits with pay.
+## Section 28
 
-**Section 30._Highest Basic Salary Upon Retirement._** \- Three (3) months prior to the compulsory retirement, the public health worker shall automatically be granted one (1) salary range or grade higher than his/her basic salary and his/her retirement benefit thereafter computed on the basis of his/her highest salary: provided, that he/she has reached the age and fulfilled service requirements under existing laws.
+_Compensation for Injuries._ \- Public health workers shall be protected against the consequences of employment injuries in accordance with existing laws. Injuries incurred while doing overtime work shall be presumed work-connected.
 
-**Section 31._Right to Self-Organization._** \- Public health workers shall have the right to freely form, join or assist organizations or unions for purposes not contrary to law in order to defend and protect their mutual interests and to obtain redress of their grievances through peaceful concerted activities.
+## Section 29
+
+_Leave Benefits for Public Health Workers._ \- Public health workers are entitled to such vacation and sick leaves as provided by existing laws and prevailing practices: provided, that in addition to the leave privilege now enjoyed by public health workers, women health workers are entitled to such maternity leaves provided by existing laws and prevailing practices: provided, further, that upon separation of the public health workers from service, they shall be entitled to all accumulated leave credits with pay.
+
+## Section 30
+
+_Highest Basic Salary Upon Retirement._ \- Three (3) months prior to the compulsory retirement, the public health worker shall automatically be granted one (1) salary range or grade higher than his/her basic salary and his/her retirement benefit thereafter computed on the basis of his/her highest salary: provided, that he/she has reached the age and fulfilled service requirements under existing laws.
+
+## Section 31
+
+_Right to Self-Organization._ \- Public health workers shall have the right to freely form, join or assist organizations or unions for purposes not contrary to law in order to defend and protect their mutual interests and to obtain redress of their grievances through peaceful concerted activities.
 
 However, while the State recognizes the right of public health workers to organize or join such organizations, public health workers on-duty cannot declare, stage or join any strike or cessation of their service to patients in the interest of public health, safety or survival of patients.
 
-**Section 32._Freedom from Interference or Coercion._** \- It shall be unlawful for any person to commit any of the following acts of interference or coercion:
+## Section 32
+
+_Freedom from Interference or Coercion._ \- It shall be unlawful for any person to commit any of the following acts of interference or coercion:
 
 a) to require as a condition of employment that a public health worker shall not join a health workers' organization or union or shall relinquish membership therein:
 
@@ -155,9 +219,13 @@ d) to harass or interfere with the discharge of the functions of the health work
 
 e) to otherwise interfere in the establishment, functioning, or administration of health worker's organizations or unions through acts designed to place such organization or union under the control of government authority.
 
-**Section 33._Consultation With Health Workers' Organizations._** \- In the formulation of national policies governing the social security of public health workers, professional and health workers' organizations or unions as well as other appropriate government agencies concerned shall be consulted by the Secretary of Health. For this purpose, Management-Health Workers' Consultative Councils for national, regional and other appropriate levels shall be established and operationalized.
+## Section 33
 
-**Section 34._Health Human Resource Development/ Management Study._** \- The Department of Health shall conduct a periodic health human resource development/management study into, among others, the following areas:
+_Consultation With Health Workers' Organizations._ \- In the formulation of national policies governing the social security of public health workers, professional and health workers' organizations or unions as well as other appropriate government agencies concerned shall be consulted by the Secretary of Health. For this purpose, Management-Health Workers' Consultative Councils for national, regional and other appropriate levels shall be established and operationalized.
+
+## Section 34
+
+_Health Human Resource Development/ Management Study._ \- The Department of Health shall conduct a periodic health human resource development/management study into, among others, the following areas:
 
 a) adequacy of facilities and supplies to render quality health care to patients and other client population:
 
@@ -175,24 +243,40 @@ g) assessment of the national policy on exportation of skilled health human reso
 
 There is hereby created a Congressional Commission on Health (HEALTHCOM) to review and assess health human resource development, particularly on continuing professional education and training and the other areas described above. The Commission shall be composed of five (5) members of the House of Representatives and five (5) members of the Senate. It shall be co-chaired by the chairpersons of the Committee on Health of both houses. It shall render a report and recommendation to Congress which shall be the basis for policy legislation in the field of health. Such a congressional review shall be undertaken once every five (5) years.
 
-**Section 35._Rules and Regulations._** \- The Secretary of Health after consultation with appropriate agencies of the Government as well as professional and health workers' organizations or unions, shall formulate and prepare the necessary rules and regulations to implement the provisions of this Act. Rules and regulations issued pursuant to this Section shall take effect thirty (30) days after publication in a newspaper of general circulation.
+## Section 35
 
-**Section 36._Prohibition Against Double Recovery of Benefits._** \- Whenever other laws provide for the same benefits covered by this Act, the public health worker shall have the option to choose which benefits will be paid to him/her, However, in the event that the benefits chosen are less than that provided under this Act, the worker shall be paid only the difference.
+_Rules and Regulations._ \- The Secretary of Health after consultation with appropriate agencies of the Government as well as professional and health workers' organizations or unions, shall formulate and prepare the necessary rules and regulations to implement the provisions of this Act. Rules and regulations issued pursuant to this Section shall take effect thirty (30) days after publication in a newspaper of general circulation.
 
-**Section 37._Prohibition Against Elimination and/or Diminution._** \- Nothing in this law shall be construed to eliminate or in any way diminish benefits being enjoyed by public health workers at the time of the effectivity of this Act.
+## Section 36
 
-**Section 38._Budgetary Estimates._** \- The Secretary of Health shall submit annually the necessary budgetary estimates to implement the provisions of this Act in staggered basis of implementation of the proposed benefits until the total of Nine hundred forty-six million six hundred sixty-four thousand pesos (P946,664,000.00) is attained within five (5) years.
+_Prohibition Against Double Recovery of Benefits._ \- Whenever other laws provide for the same benefits covered by this Act, the public health worker shall have the option to choose which benefits will be paid to him/her, However, in the event that the benefits chosen are less than that provided under this Act, the worker shall be paid only the difference.
+
+## Section 37
+
+_Prohibition Against Elimination and/or Diminution._ \- Nothing in this law shall be construed to eliminate or in any way diminish benefits being enjoyed by public health workers at the time of the effectivity of this Act.
+
+## Section 38
+
+_Budgetary Estimates._ \- The Secretary of Health shall submit annually the necessary budgetary estimates to implement the provisions of this Act in staggered basis of implementation of the proposed benefits until the total of Nine hundred forty-six million six hundred sixty-four thousand pesos (P946,664,000.00) is attained within five (5) years.
 
 Budgetary estimates for the succeeding years should be reviewed and increased accordingly by the Secretary of Health in consultation with the Department of Budget and Management and the Congressional Commission on Health (HEALTHCOM).
 
-**Section 39._Penal Provision._** \- Any person who shall willfully interfere with, restrain or coerce any public health worker in the exercise of his/her rights or shall in any manner commit any act in violation of any of the provisions of this Act, upon conviction, shall be punished by a fine of not less than Twenty thousand pesos (P20,000.00) but not more than Forty thousand pesos (P40,000.00) or imprisonment of not more than one (1) year or both at the discretion of the court.
+## Section 39
+
+_Penal Provision._ \- Any person who shall willfully interfere with, restrain or coerce any public health worker in the exercise of his/her rights or shall in any manner commit any act in violation of any of the provisions of this Act, upon conviction, shall be punished by a fine of not less than Twenty thousand pesos (P20,000.00) but not more than Forty thousand pesos (P40,000.00) or imprisonment of not more than one (1) year or both at the discretion of the court.
 
 If the offender is a public official, the court, in addition to the penalties provided in the preceding paragraph, may impose the additional penalty of disqualification from office.
 
-**Section 40._Separability Clause._** \- If any provision of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+## Section 40
 
-**Section 41._Repealing Clause._** \- All laws, presidential decrees, executive orders and their implementing rules, inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+_Separability Clause._ \- If any provision of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
-**Section 42._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+## Section 41
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders and their implementing rules, inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+## Section 42
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
 
 Approved: **March 26, 1992.**

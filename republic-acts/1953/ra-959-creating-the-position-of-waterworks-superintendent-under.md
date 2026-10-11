@@ -34,7 +34,7 @@ The first paragraph of section twenty-four of the same Act, as amended, is furth
 
 ## Section 24
 
-The City Attorney and Assistant City Attorney—Their powers and duties.1a⍵⍴h!1—The City Attorney shall be the chief legal adviser of the city. The City Attorney and the Assistant City Attorney shall receive a salary not exceeding five thousand seven hundred pesos and three thousand six hundred pesos, respectively, per annum. The City Attorney shall have the following powers and duties:
+The City Attorney and Assistant City Attorney—Their powers and duties.—The City Attorney shall be the chief legal adviser of the city. The City Attorney and the Assistant City Attorney shall receive a salary not exceeding five thousand seven hundred pesos and three thousand six hundred pesos, respectively, per annum. The City Attorney shall have the following powers and duties:
 
 * * * * * *
 

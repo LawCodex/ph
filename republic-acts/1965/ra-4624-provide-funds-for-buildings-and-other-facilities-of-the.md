@@ -35,7 +35,7 @@ Two million pesos in the fiscal year nineteen hundred sixty-seven to nineteen hu
 
 One million pesos in the fiscal year nineteen hundred sixty-eight to nineteen hundred sixty-nine.
 
-Any provision of existing law to the contrary notwithstanding, the appropriations herein provided shall continue to be available until after the projects to be undertaken shall have been completed.1âшphi1
+Any provision of existing law to the contrary notwithstanding, the appropriations herein provided shall continue to be available until after the projects to be undertaken shall have been completed.
 
 ## Section 2
 

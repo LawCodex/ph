@@ -452,7 +452,7 @@ Unless otherwise concurred in by two-thirds (2⁄3) vote of the sanggunian membe
 
 _Quorum_ -
 
-(a) A majority of all the members of the sanggunian who have been elected and qualified shall constitute a quorum to transact official business.1âwphi1 Should a question of quorum be raised during the session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
+(a) A majority of all the members of the sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during the session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
 
 (b) Where there is no quorum, the presiding officer may declare a recess until such time a quorum is constituted, or a majority of the members present may adjourn from day to day and may compel the immediate attendance of any member absent without justifiable cause by designating a member of the sanggunian, to be assisted by a member or members of the police force assigned in the territorial jurisdiction of the province, to arrest the absent member and present him or her at the session.
 
@@ -462,7 +462,7 @@ _Quorum_ -
 
 _Approval of Ordinances_ -
 
-(a) Every ordinance enacted by the sangguniang panlalawigan shall be presented to the provincial governor.1âwphi1 If the provincial governor approves the same, he shall affix his signature on each and every page thereof, otherwise, he shall veto it and return the same with his objections to the sanggunian which may proceed to reconsider the same. The sanggunian may override the veto of the provincial governor by two-thirds (2⁄3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+(a) Every ordinance enacted by the sangguniang panlalawigan shall be presented to the provincial governor. If the provincial governor approves the same, he shall affix his signature on each and every page thereof, otherwise, he shall veto it and return the same with his objections to the sanggunian which may proceed to reconsider the same. The sanggunian may override the veto of the provincial governor by two-thirds (2⁄3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
 (b) The veto shall be communicated by the provincial governor to the sangguniang panlalawigan within fifteen (15) days; otherwise, the ordinance shall be deemed approved as if it was signed.
 
@@ -830,7 +830,7 @@ The appointment of the provincial legal officer is mandatory.
 
 (vi) When directed by the provincial governor or the sanggunian, initiate and prosecute, in the interest of the province, any civil action on any bond, lease or other contract upon any breach or violation thereof; and
 
-(vii) Review and submit recommendations on ordinances approved and executive orders issued by the component cities and municipalities.1avvphi1
+(vii) Review and submit recommendations on ordinances approved and executive orders issued by the component cities and municipalities.
 
 (4) Recommend measures to the sangguniang panlalawigan and advise the provincial governor on all other matters related to upholding the rule of law; and
 
@@ -1162,7 +1162,7 @@ The amount necessary for the conduct of the plebiscite shall be charged against 
 
 _Commencement of Corporate Existence._ \- The provinces of Palawan del Norte, Palawan Oriental, and Palawan del Sur shall commence its corporate existence upon the election and qualification of its provincial governor, provincial vice governor and majority of the members of the sangguniang panlalawigan.
 
-The election of the provincial officials of the newly created provinces shall be held on the second Monday of May in the year 2022.1âwphi1
+The election of the provincial officials of the newly created provinces shall be held on the second Monday of May in the year 2022.
 
 ### Section 53
 

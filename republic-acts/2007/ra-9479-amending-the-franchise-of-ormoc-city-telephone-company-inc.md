@@ -76,9 +76,13 @@ The franchise of Ormoc City Telephone Company, Inc. granted under Republic Act N
 
 "SEC. 18. _Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for."
 
-**SEC. 2._Renewal/Extension of the Franchise._** \- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two years.
+## SEC. 2
 
-**SEC. 3._Effectivity Clause._** \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
+_Renewal/Extension of the Franchise._ \- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two years.
+
+## SEC. 3
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

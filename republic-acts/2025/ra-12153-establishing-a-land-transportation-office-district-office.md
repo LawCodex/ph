@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a district office of the Land Transportation Office (LTO) to be located in the Municipality of Padre Garcia, Province of Batangas.ℒαwρhi৷
+There shall be established a district office of the Land Transportation Office (LTO) to be located in the Municipality of Padre Garcia, Province of Batangas.
 
 ## Section 2
 

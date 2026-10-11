@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Republic Act Numbered Twenty-nine hundred and fifty-nine, entitled "An Act granting Pedro Bangug a franchise for an electric light, heat and power system in the Municipality of Cabagan, Province of Isabela," is hereby repealed.1avvphi1
+Republic Act Numbered Twenty-nine hundred and fifty-nine, entitled "An Act granting Pedro Bangug a franchise for an electric light, heat and power system in the Municipality of Cabagan, Province of Isabela," is hereby repealed.
 
 ## Section 2
 

@@ -123,7 +123,7 @@ Republic Act No. 7935 is hereby amended to read as follows:
 
 "**Section 13.** The Treasurer of the Philippines shall be the ex officio treasurer of the State College.
 
-"**Section 14.** No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the State College: _Provided,_ however, that no member of the faculty shall teach for or against any particular church or religious sect.Ꮮαwρhi৷
+"**Section 14.** No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the State College: _Provided,_ however, that no member of the faculty shall teach for or against any particular church or religious sect.
 
 "**Section 15.** No student shall be denied admission to the State College by reason of sex, nationality, religion or political affiliation.
 

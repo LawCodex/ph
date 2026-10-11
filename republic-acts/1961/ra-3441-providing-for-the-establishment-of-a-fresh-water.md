@@ -24,11 +24,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established and maintained, under the supervision of the Director of Fisheries, a fresh water experimental demonstration fish farm nursery at the Municipality of San Pablo in the Province of Isabela.1avvphi1
+There shall be established and maintained, under the supervision of the Director of Fisheries, a fresh water experimental demonstration fish farm nursery at the Municipality of San Pablo in the Province of Isabela.
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-two. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.1âшphi1
+The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-two. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.
 
 ## Section 3
 

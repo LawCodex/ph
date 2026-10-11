@@ -55,7 +55,7 @@ For the purposes of carrying out the provisions of this Act, including the purch
 
 ## Section 5
 
-All acts or parts of acts inconsistent with the provisions hereof are hereby repealed.1aшphi1
+All acts or parts of acts inconsistent with the provisions hereof are hereby repealed.
 
 ## Section 6
 

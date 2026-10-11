@@ -28,7 +28,7 @@ The Central Ilocos Sur Emergency Hospital in the Municipality of Narvacan, Provi
 
 ## Section 2
 
-In addition to the appropriation of said hospital under Republic Act Numbered Three thousand seven hundred and seventy-seven, the sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three. Thereafter, the said amounts and such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+In addition to the appropriation of said hospital under Republic Act Numbered Three thousand seven hundred and seventy-seven, the sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three. Thereafter, the said amounts and such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

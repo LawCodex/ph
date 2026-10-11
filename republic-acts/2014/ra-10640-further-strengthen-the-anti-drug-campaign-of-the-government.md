@@ -42,8 +42,6 @@ Section 21 of Republic Act No. 9165, otherwise known as the "Comprehensive Dange
 
 "x x x."
 
-1âwphi1
-
 ## Section 2
 
 _Implementing Rules and Regulations (IRR)._ – To implement effectively the provisions of Section 21, the Philippine Drug Enforcement Agency (PDEA) shall issue the necessary guidelines on the IRR for the purpose in consultation with the Department of Justice (DO J) and relevant sectors to curb increasing drug cases.

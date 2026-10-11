@@ -37,7 +37,7 @@ Any law to the contrary notwithstanding, the salaries of the Deputy Auditor Gene
 | Regional Supervising Auditor | 14,000.00 per annum | |
 | Supervising Auditor | 14,000.00 per annum | |
 
-_Provided,_ That the salaries of other officials and employees of the General Auditing Office not covered under the above provisions of this Act, except those whose salaries have already been fully adjusted under Republic Act Numbered Forty-one hundred fifty-seven are hereby adjusted in accordance with the following scale based on the actual adjusted salary at the time of the effectivity of this Act; P2,160 and above are adjusted by 48%: And _Provided,finally,_ That no salary increase shall exceed that of his immediate superior.1âшphi1
+_Provided,_ That the salaries of other officials and employees of the General Auditing Office not covered under the above provisions of this Act, except those whose salaries have already been fully adjusted under Republic Act Numbered Forty-one hundred fifty-seven are hereby adjusted in accordance with the following scale based on the actual adjusted salary at the time of the effectivity of this Act; P2,160 and above are adjusted by 48%: And _Provided,finally,_ That no salary increase shall exceed that of his immediate superior.
 
 ## Section 2
 

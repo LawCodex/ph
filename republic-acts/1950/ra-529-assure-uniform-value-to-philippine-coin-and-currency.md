@@ -41,4 +41,4 @@ All acts and parts of acts inconsistent with this Act are hereby repealed.
 
 This Act shall take effect upon its approval.
 
-Approved: **June 16, 1950** 1awphil@alf
+Approved: **June 16, 1950**

@@ -61,7 +61,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 10
 
-The grantee shall file a bond in the amount of ten thousand pesos to warranty the full compliance with and fulfillment of the conditions under which the franchise is granted.1avvphi1 If after two years from the date of acceptance of this franchise, the grantee shall have fulfilled said conditions or soon thereafter, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+The grantee shall file a bond in the amount of ten thousand pesos to warranty the full compliance with and fulfillment of the conditions under which the franchise is granted. If after two years from the date of acceptance of this franchise, the grantee shall have fulfilled said conditions or soon thereafter, the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 11
 

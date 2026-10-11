@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Occidental Mindoro, is further amended to read as follows:
 
-"Occidental Mindoro, four assistant provincial fiscals;"1âшphi1
+"Occidental Mindoro, four assistant provincial fiscals;"
 
 ## Section 2
 

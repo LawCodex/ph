@@ -31,7 +31,9 @@ The existing bed capacity of the district hospital of the Municipality of Bongab
 
 The amount necessary to carry out the provisions of this Act shall be charged against the lump-sum appropriations authorized for the purpose under the current General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.
 
-**Section 3. 1âшphi1** This Act shall take effect upon its approval.
+## Section 3
+
+This Act shall take effect upon its approval.
 
 Approved,
 

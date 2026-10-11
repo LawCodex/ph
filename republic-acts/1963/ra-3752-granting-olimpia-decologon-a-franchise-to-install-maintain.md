@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Olimpia Decologon, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Dumangas, Province of Iloilo.1âшphi1
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Olimpia Decologon, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Dumangas, Province of Iloilo.
 
 ## Section 2
 
@@ -33,7 +33,7 @@ In the event that the grantee shall purchase and secure from the National Power 
 
 ## Section 3
 
-The rates for the sale of electric light, heat and power shall always be subject to the regulation of the Public Service Commission.1âшphi1
+The rates for the sale of electric light, heat and power shall always be subject to the regulation of the Public Service Commission.
 
 ## Section 4
 

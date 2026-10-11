@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Cesar Gonzaga, for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Aurora, Province of Zamboanga del Sur.1âшphi1
+Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Cesar Gonzaga, for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Aurora, Province of Zamboanga del Sur.
 
 ## Section 2
 

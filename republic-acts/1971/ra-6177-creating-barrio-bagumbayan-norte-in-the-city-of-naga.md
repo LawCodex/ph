@@ -28,7 +28,7 @@ Sitio Bagumbayan Norte, City of Naga, is hereby constituted into a barrio to be 
 
 ## Section 2
 
-The Barrio of Bagumbayan Norte shall be bounded on the North by the boundary line between the Municipality of Canaman and the City of Naga; on the east, by Barrio Calawag; on the south, by the culvert beside De Jesus' residence; on the west, by the boundary line between the Municipality of Canaman and the City of Naga.1âшphi1
+The Barrio of Bagumbayan Norte shall be bounded on the North by the boundary line between the Municipality of Canaman and the City of Naga; on the east, by Barrio Calawag; on the south, by the culvert beside De Jesus' residence; on the west, by the boundary line between the Municipality of Canaman and the City of Naga.
 
 ## Section 3
 

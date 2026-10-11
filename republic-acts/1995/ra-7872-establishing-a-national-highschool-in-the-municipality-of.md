@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the municipality of Dingalan, Province of Aurora, to be known as the Dingalan National High School.1aшphi1
+There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the municipality of Dingalan, Province of Aurora, to be known as the Dingalan National High School.
 
 ## Section 2
 

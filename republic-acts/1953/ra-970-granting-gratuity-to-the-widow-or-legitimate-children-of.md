@@ -28,7 +28,7 @@ In consideration of the highly meritorious services rendered by the late Claudio
 
 ## Section 2
 
-The sum of ten thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act.1a⍵⍴h!1
+The sum of ten thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act.
 
 ## Section 3
 

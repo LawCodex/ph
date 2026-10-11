@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Lapu-Lapu Day._ \- The twenty-seventh day of April of every year is hereby declared as a special working public holiday throughout the country and a special nonworking holiday in the City of Lapu-Lapu, Province of Cebu, to commemorate the victory of Lapu-Lapu and his men over the Spaniards in the historic Battle of Mactan on April 27, 1521, to be known as _Lapu-Lapu Day_ or _Adlaw ni Lapu-Lapu._ 1âwphi1
+_Lapu-Lapu Day._ \- The twenty-seventh day of April of every year is hereby declared as a special working public holiday throughout the country and a special nonworking holiday in the City of Lapu-Lapu, Province of Cebu, to commemorate the victory of Lapu-Lapu and his men over the Spaniards in the historic Battle of Mactan on April 27, 1521, to be known as _Lapu-Lapu Day_ or _Adlaw ni Lapu-Lapu._
 
 ## Section 2
 

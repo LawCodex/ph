@@ -1031,7 +1031,7 @@ _The City Population Officer._ – (a) The city population officer must be a cit
 
 _The City Environment and Natural Resources Officer._ – (a) The city environment and natural resources officer must be a citizen of the Philippines, a resident of the City of San Fernando, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any related course from a recognized college or university, and a holder of a first grade civil service eligibility or its equivalent. He must have acquired experience in environmental and natural resources management, conservation and utilization for at least five (5) years.
 
-(b) The city environment and natural resources officer shall receive such compensation, emoluments and allowances as may be determined by law or ordinance.Ꮮαwρhi৷
+(b) The city environment and natural resources officer shall receive such compensation, emoluments and allowances as may be determined by law or ordinance.
 
 (c) The city environment and natural resources officer shall take charge of the office on environment and natural resources, and shall:
 

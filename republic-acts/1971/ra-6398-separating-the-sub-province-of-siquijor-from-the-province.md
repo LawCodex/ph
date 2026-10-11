@@ -36,7 +36,7 @@ The Province of Siquijor shall compose the present territory of the Subprovince 
 
 ## Section 4
 
-The Member of the House of Representatives for the Province of Siquijor shall be elected in the next presidential elections: _Provided,_ That the present Representative for the Second District of the Province of Oriental Negros shall, during the term of office as Representative, continue to represent the new Province of Siquijor.1âшphi1
+The Member of the House of Representatives for the Province of Siquijor shall be elected in the next presidential elections: _Provided,_ That the present Representative for the Second District of the Province of Oriental Negros shall, during the term of office as Representative, continue to represent the new Province of Siquijor.
 
 ## Section 5
 

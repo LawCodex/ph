@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, is changed to barrio Miramar.1aшphi1
+The name of the barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, is changed to barrio Miramar.
 
 ## Section 2
 

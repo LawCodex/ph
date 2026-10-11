@@ -70,4 +70,4 @@ In consideration of this franchise the grantee shall pay a tax equivalent to fiv
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

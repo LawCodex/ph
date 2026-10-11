@@ -31,7 +31,7 @@ April 4 of every year is hereby declared a special nonworking holiday in the Cit
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

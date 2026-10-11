@@ -37,7 +37,7 @@ The Secretary of Education shall immediately include in the Department’s progr
 
 ## Section 3
 
-The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.1âwphi1
+The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
 
 ## Section 4
 

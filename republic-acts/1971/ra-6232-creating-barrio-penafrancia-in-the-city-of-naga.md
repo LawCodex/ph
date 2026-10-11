@@ -28,7 +28,7 @@ Sitio Peñafrancia, City of Naga, is hereby constituted into a barrio to be know
 
 ## Section 2
 
-The Barrio of Peñafrancia shall be bounded on the North by the Catholic Cemetery; on the East, by Naga River; on the South, by Santoja Street; and on the West, by Jacob Street.1âшphi1
+The Barrio of Peñafrancia shall be bounded on the North by the Catholic Cemetery; on the East, by Naga River; on the South, by Santoja Street; and on the West, by Jacob Street.
 
 ## Section 3
 

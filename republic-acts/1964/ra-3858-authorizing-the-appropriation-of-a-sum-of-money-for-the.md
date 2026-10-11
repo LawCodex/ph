@@ -29,6 +29,6 @@ The sum of two thousand one hundred and sixty pesos is hereby authorized to be a
 
 ## Section 2
 
-This Act shall take effect upon its approval.£a⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: June 12, 1964.

@@ -76,7 +76,7 @@ Proposed priority
 <td></td>
 <td></td>
 <td></td>
-</tr><cite>1âшphi1</cite>
+</tr>
 <tr>
 <td>Can-Asujan Waterworks, Carcar</td>
 <td>GR</td>

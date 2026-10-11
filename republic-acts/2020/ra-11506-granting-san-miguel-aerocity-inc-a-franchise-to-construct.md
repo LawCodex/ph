@@ -51,7 +51,7 @@ The grantee, its successors or assignees, shall operate and maintain the Airport
 
 ## Section 5
 
-_Rates for Services._ \- The charges and rates for the use of the airport shall be subject to the approval of the CAAP.ℒαwρhi৷
+_Rates for Services._ \- The charges and rates for the use of the airport shall be subject to the approval of the CAAP.
 
 ## Section 6
 
@@ -93,7 +93,7 @@ _Books and Accounts._ \- The books and accounts of the grantee, its successors o
 
 ## Section 13
 
-_Warranty in Favor of the National and Local Government._ \- The grantee, its successors or assignees, shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the airport.ℒαwρhi৷
+_Warranty in Favor of the National and Local Government._ \- The grantee, its successors or assignees, shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the airport.
 
 ## Section 14
 
@@ -105,7 +105,7 @@ _Right-of-Way._ \- The grantee, its successors or assignees, in accorance with e
 
 ## Section 16
 
-_Tax Exemptions._ \- During the ten-year construction period, the grantee, its successors or assignees, shall be exempt from any and all direct and indirect taxes and fees of any kind, nature or description, which emanate exclusively from the construction, development, establishment, and operation of the airport and Airport City, including income taxes, value-added taxes, percentage taxes, excise taxes, documentary stamp taxes, customs duties and tariffs, taxes on real estate, buildings and personal property, business taxes, franchise taxes, supervision fees, and permit fees levied, established or collected, or may be levied, established or collected, by any city, municipal, provincial or national authority.ℒαwρhi৷
+_Tax Exemptions._ \- During the ten-year construction period, the grantee, its successors or assignees, shall be exempt from any and all direct and indirect taxes and fees of any kind, nature or description, which emanate exclusively from the construction, development, establishment, and operation of the airport and Airport City, including income taxes, value-added taxes, percentage taxes, excise taxes, documentary stamp taxes, customs duties and tariffs, taxes on real estate, buildings and personal property, business taxes, franchise taxes, supervision fees, and permit fees levied, established or collected, or may be levied, established or collected, by any city, municipal, provincial or national authority.
 
 After the ten-year construction period and during the remaining term of this franchise, the grantee, its successors or assignees, shall be exempt from income taxes and taxes on real estate, buildings and personal property, levied, established or collected, or may be levied, established or collected, by any city, municipal, provincial or national authority. However, such exemption from income taxes and taxes on real estate, buildings and personal property shall expire as soon as it is determined by the Bureau of Internal Revenue (BIR) that the grantee, its successors or assignees, has fully recovered its investment cost on the airport and on the Airport City, whereupon the grantee, its successors or assignees, shall be subjected to all taxes under the National Internal Revenue Code of 1997, as amended, and the Customs Modernization and Tariff Act.
 

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Agnaya High School in Barangay Agnaya, Municipality of Plaridel, Bulacan, is hereby changed to Dr. Felipe de Jesus High School.1aшphi1
+The name of the Agnaya High School in Barangay Agnaya, Municipality of Plaridel, Bulacan, is hereby changed to Dr. Felipe de Jesus High School.
 
 ## Section 2
 

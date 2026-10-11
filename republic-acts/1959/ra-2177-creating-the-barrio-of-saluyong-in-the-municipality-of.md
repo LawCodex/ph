@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Saluyong, Sipakong, Upper Dipani, Boob, Lupasang and Messes in the Municipality of Manukan, Province of Zamboanga del Norte, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Saluyong.1aшphi1
+The sitios of Saluyong, Sipakong, Upper Dipani, Boob, Lupasang and Messes in the Municipality of Manukan, Province of Zamboanga del Norte, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Saluyong.
 
 ## Section 2
 

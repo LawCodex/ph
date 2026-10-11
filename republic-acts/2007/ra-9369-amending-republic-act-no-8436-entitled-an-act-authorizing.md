@@ -885,17 +885,25 @@ Section 265 of Batas Pambansa Blg. 881 is hereby amended to read as follow:
 
 "SEC. 265. Prosecution. - The Commission shall, through its duly authorized legal officers, have the power, concurrent with the other prosecuting arms of the government, to conduct preliminary investigation of all election offenses punishable under this Code, and prosecute the same"
 
-**SEC. 44._Appropriations._** \- To carry out the provisions of this Act, the amount necessary for the automated system shall be charged against the Two billion six hundred million pesos (2,600,000,000.00) modernization fund in the current year's appropriations of the commission. Further, the amount necessary to carry out the manual system, at a maximum of Three billion pesos (3,000,000,000) shall be charged against the current year's appropriation of the commission.
+## SEC. 44
+
+_Appropriations._ \- To carry out the provisions of this Act, the amount necessary for the automated system shall be charged against the Two billion six hundred million pesos (2,600,000,000.00) modernization fund in the current year's appropriations of the commission. Further, the amount necessary to carry out the manual system, at a maximum of Three billion pesos (3,000,000,000) shall be charged against the current year's appropriation of the commission.
 
 Thereafter, such sums as may be necessary for the continuous implementation of this Act or any part thereof, or the application such be included in the annual General Appropriations Act.
 
 If the said funds shall not be fully utilized the same shall continue to be appropriated for the electoral modernization as set forth in this Act and shall not revert to the General Fund.
 
-**SEC. 45._Separability Clause._** \- If, for any reason, any section or provision of this Act or any part thereof , or the application of such section, provision or portion is declared invalid or unconstitutional, the remainder thereof shall not be affected by such declaration.
+## SEC. 45
 
-**SEC. 46._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations or part thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause._ \- If, for any reason, any section or provision of this Act or any part thereof , or the application of such section, provision or portion is declared invalid or unconstitutional, the remainder thereof shall not be affected by such declaration.
 
-**SEC. 47._Effectivity._** \- This Act Shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+## SEC. 46
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations or part thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 47
+
+_Effectivity._ \- This Act Shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
 
 Approved,
 

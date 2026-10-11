@@ -49,7 +49,7 @@ _Implementing Rules and Regulations._ \- Within ninety (90) days from the effect
 
 ## Section 7
 
-_Separability Clause._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 8
 

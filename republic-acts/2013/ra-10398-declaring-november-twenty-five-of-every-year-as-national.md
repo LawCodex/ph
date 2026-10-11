@@ -54,7 +54,7 @@ The PCW and the Inter-Agency Council Against Trafficking (IACAT), constituted un
 
 At the regional level, the Regional Inter-Agency Committee on Anti-Trafficking-Violence Against Women and Their Children (RIACAT-VAWC) shall likewise coordinate, monitor and evaluate said activities for the annual campaign at the provincial, city, municipal and barangay levels. They shall also make an annual report of their findings to be reported to the public every November 25.
 
-The PCW, the IACAT and the IAC-VAWC shall likewise coordinate and tap the expertise of other government agencies and institutions like the Movie and Television Review and Classification Board (MTRCB) and the Overseas Workers Welfare Administration (OWWA), as well as other private sector organizations in the implementation of activities for the eighteen (18)-day campaign.1âwphi1
+The PCW, the IACAT and the IAC-VAWC shall likewise coordinate and tap the expertise of other government agencies and institutions like the Movie and Television Review and Classification Board (MTRCB) and the Overseas Workers Welfare Administration (OWWA), as well as other private sector organizations in the implementation of activities for the eighteen (18)-day campaign.
 
 ## Section 5
 

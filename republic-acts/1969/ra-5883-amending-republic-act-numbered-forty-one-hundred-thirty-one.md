@@ -42,6 +42,6 @@ The same Act is amended by inserting between Sections six and seven thereof a ne
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969

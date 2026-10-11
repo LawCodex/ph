@@ -35,7 +35,7 @@ The Department of Education, Culture and Sports shall issue such rules and regul
 
 ## Section 3
 
-All personnel, assets, liabilities and records of the Valladolid National High School Extension are hereby transferred to and absorbed by the Valencia National Vocational High School.Ꮮαwρhi৷
+All personnel, assets, liabilities and records of the Valladolid National High School Extension are hereby transferred to and absorbed by the Valencia National Vocational High School.
 
 ## Section 4
 

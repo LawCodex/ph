@@ -488,16 +488,28 @@ _Article 279 of the Labor Code_ is hereby amended to read as follows:
 
 "ARTICLE 279. Security of Tenure. - In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An Employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
 
-**Section 35._Equity of the Incumbent._** \- Incumbent career officials and rank-and-file employees of the National Labor Relations Commission not otherwise affected by this Act shall continue to hold office without need of reappointment. However, consistent with the need to professionalize the higher level of its officialdom invested with adjudicatory powers and salaries or emoluments, all positions of the Commissioners, Executive Labor Arbiters and Labor Arbiters of the present National Labor Relations Commissions are hereby declared vacant. However, subject officials shall continue to temporarily discharge their duties and functions until their successors shall have been duly appointed and qualified.
+### Section 35
 
-**Section 36._Rule-Making Authority._** \- The Secretary of Labor and Employment is hereby authorized to promulgate such rules and regulations as may be necessary to implement the provisions of this Act.
+_Equity of the Incumbent._ \- Incumbent career officials and rank-and-file employees of the National Labor Relations Commission not otherwise affected by this Act shall continue to hold office without need of reappointment. However, consistent with the need to professionalize the higher level of its officialdom invested with adjudicatory powers and salaries or emoluments, all positions of the Commissioners, Executive Labor Arbiters and Labor Arbiters of the present National Labor Relations Commissions are hereby declared vacant. However, subject officials shall continue to temporarily discharge their duties and functions until their successors shall have been duly appointed and qualified.
 
-**Section 37._Funding._** \- Funds needed to carry out the provisions of this Act shall be taken from the available funds in the Department of Labor and Employment and shall thereafter be included in subsequent annual General Appropriations Acts.
+### Section 36
 
-**Section 38._Repealing Cause._** \- All laws, decrees, executive orders, letters of implementations, rules and regulations or part or parts thereof inconsistent with any provision of this Act are hereby repealed, modified, superseded or amended accordingly.
+_Rule-Making Authority._ \- The Secretary of Labor and Employment is hereby authorized to promulgate such rules and regulations as may be necessary to implement the provisions of this Act.
 
-**Section 39._Separability Clause._** \- If any provision of this Act or the application of such provision to any person or circumstance is held invalid for any reason, the remainder of this Act or the application of such provision to other persons or circumstances shall not be affected thereby.
+### Section 37
 
-**Section 40._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.
+_Funding._ \- Funds needed to carry out the provisions of this Act shall be taken from the available funds in the Department of Labor and Employment and shall thereafter be included in subsequent annual General Appropriations Acts.
+
+### Section 38
+
+_Repealing Cause._ \- All laws, decrees, executive orders, letters of implementations, rules and regulations or part or parts thereof inconsistent with any provision of this Act are hereby repealed, modified, superseded or amended accordingly.
+
+### Section 39
+
+_Separability Clause._ \- If any provision of this Act or the application of such provision to any person or circumstance is held invalid for any reason, the remainder of this Act or the application of such provision to other persons or circumstances shall not be affected thereby.
+
+### Section 40
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.
 
 Approved: **March 2, 1989**

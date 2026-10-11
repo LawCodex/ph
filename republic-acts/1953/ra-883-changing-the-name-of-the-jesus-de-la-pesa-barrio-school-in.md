@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Jesus de la Pena Barrio School in the municipality of Marikina, Province of Rizal is hereby changed to Leodegario Victorino Elementary School.1a⍵⍴h!1
+The name of the Jesus de la Pena Barrio School in the municipality of Marikina, Province of Rizal is hereby changed to Leodegario Victorino Elementary School.
 
 ## Section 2
 

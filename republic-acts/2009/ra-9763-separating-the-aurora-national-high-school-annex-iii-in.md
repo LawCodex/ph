@@ -34,7 +34,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Aurora National High School - Annex III are here by transferred to and absorbed by the Puangi National High School.1avvphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Aurora National High School - Annex III are here by transferred to and absorbed by the Puangi National High School.
 
 ## Section 3
 

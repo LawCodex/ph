@@ -33,7 +33,7 @@ A special right is hereby reserved to the President of the Philippines to author
 
 ## Section 3
 
-The Manila Sightseeing Co., Inc. shall be exempt from all taxes and duties except income tax: _Provided,_ That the certificates of ownership of the motor vehicles to be used in the rent-a-car-you-drive and touring system by grantee show that these vehicles are not older than two years.1avvphi1 In lieu of all other taxes, except income tax, the Manila Sightseeing Co., Inc. shall pay the government an amount equivalent to two per cent of its gross income from the rent-a-car-you-drive and touring system, payable monthly.
+The Manila Sightseeing Co., Inc. shall be exempt from all taxes and duties except income tax: _Provided,_ That the certificates of ownership of the motor vehicles to be used in the rent-a-car-you-drive and touring system by grantee show that these vehicles are not older than two years. In lieu of all other taxes, except income tax, the Manila Sightseeing Co., Inc. shall pay the government an amount equivalent to two per cent of its gross income from the rent-a-car-you-drive and touring system, payable monthly.
 
 ## Section 4
 

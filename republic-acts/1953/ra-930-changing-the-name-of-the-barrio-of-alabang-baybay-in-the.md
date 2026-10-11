@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrio of "Alabang-Baybay" in the City of Legaspi shall hereafter be known as "San Francisco".1a⍵⍴h!1
+The barrio of "Alabang-Baybay" in the City of Legaspi shall hereafter be known as "San Francisco".
 
 ## Section 2
 

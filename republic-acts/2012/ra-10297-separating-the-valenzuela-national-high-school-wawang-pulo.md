@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Valenzuela Nati
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Valenzuela National High School – Wawang Pulo Annex are hereby transferred to and absorbed by the Wawang Pulo National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Valenzuela National High School – Wawang Pulo Annex are hereby transferred to and absorbed by the Wawang Pulo National High School.
 
 ## Section 3
 

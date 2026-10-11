@@ -32,7 +32,7 @@ The Simeon Suan Memorial National High School in Barangay Pag-asa, Municipality 
 
 ## Section 2
 
-The TESDA shall take steps as may be necessary for the immediate implementation of this Act.1aшphi1
+The TESDA shall take steps as may be necessary for the immediate implementation of this Act.
 
 ## Section 3
 

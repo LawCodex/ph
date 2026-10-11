@@ -28,6 +28,6 @@ The Pilar-Bagac-Morong National Road in the Province of Bataan is hereby named G
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

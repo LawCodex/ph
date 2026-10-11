@@ -197,7 +197,7 @@ First-class cities, the annual salary of twelve thousand pesos; second-class cit
 
 First-class (first-one), the annual salary of six thousand pesos; first-class (first-two), the annual salary of five thousand four hundred pesos; first-class (first-three), the annual salary of five thousand one hundred pesos; first-class (first-four) the annual salary of four thousand eight hundred pesos; first-class (first-five) the annual salary of four thousand five hundred pesos; second-class, the annual salary of four thousand two hundred pesos; third-class, the annual salary of three thousand six hundred pesos; fourth-class, the annual salary of three thousand pesos; fifth, sixth and seventh-classes, the annual salary of two thousand four hundred pesos.
 
-(e) In both city and municipal police, the difference in monthly salary from the rank to the next higher rank shall not be less than twenty pesos.1awp++i1
+(e) In both city and municipal police, the difference in monthly salary from the rank to the next higher rank shall not be less than twenty pesos.
 
 (f) No member of the city or municipal police shall suffer any decrease in salary by operation of this Act.
 

@@ -34,7 +34,7 @@ January 24 of every year is hereby declared a special working holiday in the Pro
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

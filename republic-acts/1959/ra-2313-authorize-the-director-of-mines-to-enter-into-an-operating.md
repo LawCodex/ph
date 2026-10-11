@@ -66,7 +66,7 @@ At least sixty (60) days before the scheduled date for the opening of the sealed
 
 (j) That the Director of Mines may reject any and all bids for justified reasons.
 
-The Committee on Award shall be composed of three members, namely, the Director of Mines, as chairman, one representative of the Secretary of Agriculture and Natural Resources and another representative of the Secretary of Justice, a members. The award shall be made within ten (10) days from the date of the opening of the sealed bids to the bidder best qualified to develop and operate successfully the Zambales Mineral Reservations in point of organization, finances, resources, experience and technical competence as set forth herein and offering the best terms and conditions in favor of the Government and the corresponding operating contract shall be executed immediately thereafter.1aшphi1
+The Committee on Award shall be composed of three members, namely, the Director of Mines, as chairman, one representative of the Secretary of Agriculture and Natural Resources and another representative of the Secretary of Justice, a members. The award shall be made within ten (10) days from the date of the opening of the sealed bids to the bidder best qualified to develop and operate successfully the Zambales Mineral Reservations in point of organization, finances, resources, experience and technical competence as set forth herein and offering the best terms and conditions in favor of the Government and the corresponding operating contract shall be executed immediately thereafter.
 
 ## Section 5
 

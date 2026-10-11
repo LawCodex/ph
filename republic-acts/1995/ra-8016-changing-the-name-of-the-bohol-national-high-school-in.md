@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bohol National High School in Tagbilaran City, Province of Bohol, is hereby changed to Dr. Cecilio Putong National High School.1aшphi1
+The name of the Bohol National High School in Tagbilaran City, Province of Bohol, is hereby changed to Dr. Cecilio Putong National High School.
 
 ## Section 2
 

@@ -61,7 +61,7 @@ The grantee shall post a bond in the amount of ten thousand pesos to answer for 
 
 ## Section 10
 
-The grantee shall not require any previous censorship of any speech, play, act, or scene or other matter for broadcast or telecast, from his stations; but if any speech, play, act or scene or other matter should constitute a violation of any law or infringement of a private right, the grantee shall be free from any criminal or civil liability whatsoever which might arise by reason of such speech, play, act or scene or other matter.1avvphi1 The grantee, however, reserves the right to cut off from the air any broadcast or telecast which in any manner tends to incite treason, rebellion or sedition, or the theme or language used therein is indecent or immoral.
+The grantee shall not require any previous censorship of any speech, play, act, or scene or other matter for broadcast or telecast, from his stations; but if any speech, play, act or scene or other matter should constitute a violation of any law or infringement of a private right, the grantee shall be free from any criminal or civil liability whatsoever which might arise by reason of such speech, play, act or scene or other matter. The grantee, however, reserves the right to cut off from the air any broadcast or telecast which in any manner tends to incite treason, rebellion or sedition, or the theme or language used therein is indecent or immoral.
 
 ## Section 11
 

@@ -28,17 +28,27 @@ AN ACT CONVERTING THE STATE POLYTECHNIC COLLEGE OF PALAWAN IN THE PROVINCE OF PA
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Conversion._** – The State Polytechnic College of Palawan (SPCP) in the Province of Palawan is hereby converted into a state university to be known as the Western Philippines University (WPU), hereinafter to as the University. The main campus University shall be in Aborlan, Palawan.
+## Section 1
 
-**Section 2._General Mandate._** – The University shall primarily provide advanced education , higher technological, professional instruction and training in the fields of agriculture, fisheries, forestry, engineering, environment, education, arts sciences, rural development and other relevant fields of study. It shall also promote research and extension services, and provide progressive leadership in its areas of specializations.
+_Conversion._ – The State Polytechnic College of Palawan (SPCP) in the Province of Palawan is hereby converted into a state university to be known as the Western Philippines University (WPU), hereinafter to as the University. The main campus University shall be in Aborlan, Palawan.
 
-**Section 3._Curricular Offerings._** – The university shall offer undergraduate and graduate studies in the fields of agriculture, fisheries, forestry, engineering, environment, education, arts and sciences, coastal resource management, marine biology and oceanography, rural development and other degrees/courses within its areas of specializations and according ti its capabilities as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the need of the Province of Palawan and the region.
+## Section 2
+
+_General Mandate._ – The University shall primarily provide advanced education , higher technological, professional instruction and training in the fields of agriculture, fisheries, forestry, engineering, environment, education, arts sciences, rural development and other relevant fields of study. It shall also promote research and extension services, and provide progressive leadership in its areas of specializations.
+
+## Section 3
+
+_Curricular Offerings._ – The university shall offer undergraduate and graduate studies in the fields of agriculture, fisheries, forestry, engineering, environment, education, arts and sciences, coastal resource management, marine biology and oceanography, rural development and other degrees/courses within its areas of specializations and according ti its capabilities as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the need of the Province of Palawan and the region.
 
 The University may maintain and operate the existing laboratory high school, if it has a College Education. Otherwise, the existing laboratory high school shall remain and operate until the existing students shall have completed their high school education.
 
-**Section 4._Administration._** – The University shall have the general power of a corporation set forth in Batas Pambansa Blg. 68, as amended otherwisw known as the " Corporation Code of the Philippines." The administration of the University and the exercise of its corporate power shall vested exclusively in the Board of Regents and the President of the University insofar as authorized by the Board.
+## Section 4
 
-**Section 5._The Governing Board._** – The Governing Board of the University shall be Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ – The University shall have the general power of a corporation set forth in Batas Pambansa Blg. 68, as amended otherwisw known as the " Corporation Code of the Philippines." The administration of the University and the exercise of its corporate power shall vested exclusively in the Board of Regents and the President of the University insofar as authorized by the Board.
+
+## Section 5
+
+_The Governing Board._ – The Governing Board of the University shall be Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 a. The Chairperson of the Commission on Higher Education (CHED), as chairperson;
 
@@ -68,9 +78,13 @@ The term of the Office of the President of the Federation of Faculty association
 
 The three (3) prominent citizens shall serve for a term of two (2) years from the date of appointment.
 
-**Section 6._Promulgation and Implementation of Policies._** – The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provision of the Philippine Constitutions on Education, agriculture science technology, as well as the policies, standard and thrusts of the CHED under Republic Act No. 7722, otherwise known as the " Higher Education Act of 1994."
+## Section 6
 
-**Section 7._Power and Duties of the Board of Regents._** – The Board shall have the following specific power and duties in addition to its general powers of the administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ – The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provision of the Philippine Constitutions on Education, agriculture science technology, as well as the policies, standard and thrusts of the CHED under Republic Act No. 7722, otherwise known as the " Higher Education Act of 1994."
+
+## Section 7
+
+_Power and Duties of the Board of Regents._ – The Board shall have the following specific power and duties in addition to its general powers of the administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
 
 a. To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the university:
 
@@ -130,7 +144,9 @@ x. To privatize, where most advantageous to the University, management of nonaca
 
 y. To extend the term of the President of the University beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated by the governing Board as outstanding, after unanimous recommendation by the search committee.
 
-**Section 8._Meeting of the Board._** – The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three (3) days’ prior written notice, call a maximum of two (2) special meetings wherever necessary.
+## Section 8
+
+_Meeting of the Board._ – The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three (3) days’ prior written notice, call a maximum of two (2) special meetings wherever necessary.
 
 A quorum of the Board shall consist a majority of all its members holding office at the time of the meeting: Provided, however, That the chairperson of the Board or the president of the University is among those present of the meeting.
 
@@ -140,7 +156,9 @@ In case the Chairperson of the Congressional committees on Education shall not b
 
 The member of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in the attendance to meeting of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**Section 9._The University President._** – The University shall be headed by a president, who shall render full time service. He/She shall be appointed by the Board, upon recommendation of the duly constituted search committee. He/She shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state university, the incumbent President of the State Polytechnic College of Palawan. If qualified, shall be the first president of the University.
+## Section 9
+
+_The University President._ – The University shall be headed by a president, who shall render full time service. He/She shall be appointed by the Board, upon recommendation of the duly constituted search committee. He/She shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state university, the incumbent President of the State Polytechnic College of Palawan. If qualified, shall be the first president of the University.
 
 The President of the University shall assisted by the vice President for academic affairs, who shall be appointed by the Board upon recommendation of the president without prejudice to the appointment of more than one (1) vice president when so warranted.
 
@@ -152,31 +170,51 @@ The powers and duties of the president of the University, in addition to those s
 
 The salary of the president of the University shall be in accordance with Revised Compensation and Position Classification System and shall be comparable to that being received by the president of similar educational institutions.
 
-**Section 10._The Administrative Council._** – These shall be an administrative council consisting of the president of the University as chairperson, vice president, deans, directors, and other officials of equal ranks as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+## Section 10
 
-**Section 11._The Academic Council._** – There shall be an academic council of the president of the University as chairperson and all members of the academic staff with the rank or not lower than assistant professor as member.
+_The Administrative Council._ – These shall be an administrative council consisting of the president of the University as chairperson, vice president, deans, directors, and other officials of equal ranks as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+
+## Section 11
+
+_The Academic Council._ – There shall be an academic council of the president of the University as chairperson and all members of the academic staff with the rank or not lower than assistant professor as member.
 
 The Academic Council shall have the power to review and recommended the curricular offerings and rules of discipline of the University, subjects to the approval of the Board of Regents. It shall fix the requirements for the admission of students, as well as for graduation and conferment of degrees, subject to review and/or approval by the Board of the Regents through the president of the University. It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board of Regents.
 
-**Section 12._The Secretary of the University._** – The Board shall appoint a secretary, who will serve as much for both Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board notices of meeting.
+## Section 12
 
-**Section 13._The Treasurer of the University._** – The treasurer of the Philippines shall be ex officio treasurer of the University.
+_The Secretary of the University._ – The Board shall appoint a secretary, who will serve as much for both Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board notices of meeting.
 
-**Section 14._Faculty._** – No political belief, gender, preference, cultural or community affiliation or ethic origin, and religious opinion or affiliation shall be matter of inquiry in the appointment of the faculty members of the University: Provided, However, That no member of the faculty shall teach for or against any particular church or religious sect.
+## Section 13
 
-**Section 15._Scholarship Program / Admission._** – The University hall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ – The treasurer of the Philippines shall be ex officio treasurer of the University.
+
+## Section 14
+
+_Faculty._ – No political belief, gender, preference, cultural or community affiliation or ethic origin, and religious opinion or affiliation shall be matter of inquiry in the appointment of the faculty members of the University: Provided, However, That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## Section 15
+
+_Scholarship Program / Admission._ – The University hall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No students shall denied admission of the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**Section 16._Academic Freedom and Institutional Autonomy._** – The University shall enjoy academic freedom and institutional bureaus and offices of national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employee for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employee can be spared without serious detriment to public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+## Section 16
 
-**Section 18._Assets, Liabilities and Personnel._** – All assets, real and personal, personnel records of the State Polytechnic College of Palawan, as well as liabilities or obligations, are hereby transferred to the University. The position, right and security of tenure of the faculty members and personnel therein employed under existing laws shall be respected.
+_Academic Freedom and Institutional Autonomy._ – The University shall enjoy academic freedom and institutional bureaus and offices of national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employee for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employee can be spared without serious detriment to public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## Section 18
+
+_Assets, Liabilities and Personnel._ – All assets, real and personal, personnel records of the State Polytechnic College of Palawan, as well as liabilities or obligations, are hereby transferred to the University. The position, right and security of tenure of the faculty members and personnel therein employed under existing laws shall be respected.
 
 All parcel of land belonging to the government and occupied by the State Polytechnic College of Palawan are hereby declared to be property of the WPU and shall be titled under that name: Provided, That should the University cease to exist or be abolished or should such parcels of land aforementioned be no longer needed by the University, the same shall revert to the Province of Palawan.
 
-**Section 19._Appropriation._** – The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the State Polytechnic College of Palawan. Thereafter, such sums as may be necessary for the continued operation and maintenance of the WPU shall be included in the annual General Appropriations Act.
+## Section 19
 
-**Section 20._Development Plan, Management Audit Organization / Administrative / Academic Structure._** – Within the period of one hundred twenty (120) days after the approval of the Act, the University shall accomplish the following:
+_Appropriation._ – The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the State Polytechnic College of Palawan. Thereafter, such sums as may be necessary for the continued operation and maintenance of the WPU shall be included in the annual General Appropriations Act.
+
+## Section 20
+
+_Development Plan, Management Audit Organization / Administrative / Academic Structure._ – Within the period of one hundred twenty (120) days after the approval of the Act, the University shall accomplish the following:
 
 a. Submit five (5)- year development plan, including corresponding program budget to the CHED, for corresponding recommendation to the DBM;
 
@@ -184,13 +222,21 @@ b. Undergo a management audit in cooperation with CHED; and
 
 c. Accordingly set up its organizational, administrative as well as academic structure, including the appointment of the University key officials.
 
-**Section 21._Filing of Report._** – On before the fifteen (15th) day of the second (2nd) month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and with both House of Congress a detailed report on the progress conditions and need of the University.
+## Section 21
 
-**Section 22._Incorporation of Republic Act No. 8292._** – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act and together shall serve as the governing charter of the University.
+_Filing of Report._ – On before the fifteen (15th) day of the second (2nd) month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and with both House of Congress a detailed report on the progress conditions and need of the University.
 
-**Section 23._Repealing Clause._** – All laws presidential decrees, executive orders, rules and regulations, contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## Section 22
 
-**Section 24._Effectivity._** – This Act shall take effect upon its approval.
+_Incorporation of Republic Act No. 8292._ – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act and together shall serve as the governing charter of the University.
+
+## Section 23
+
+_Repealing Clause._ – All laws presidential decrees, executive orders, rules and regulations, contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 24
+
+_Effectivity._ – This Act shall take effect upon its approval.
 
 Approved,
 

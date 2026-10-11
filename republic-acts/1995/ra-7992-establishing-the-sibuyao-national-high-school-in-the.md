@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Education, Culture and Sports, the Sibuyao National High School in the Municipality of Torrijos, Province of Marinduque.1aшphi1
+There shall be established, under the direct supervision of the Department of Education, Culture and Sports, the Sibuyao National High School in the Municipality of Torrijos, Province of Marinduque.
 
 ## Section 2
 

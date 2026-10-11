@@ -135,7 +135,7 @@ _Power of a FISTC._ \- A FISTC shall have the following powers:
 
 (l) Advance funds to borrowers as may be required for an acquired asset or any debt restructuring agreement pursuant thereto, or under any court or rehabilitation plan; and
 
-(m) Engage the services of a third-party asset servicing company for the collection and receipt of the debt payments for debts under debt restructuring or business reorganization, management and disposition of assets of the FISTC in accordance with the rules, procedures and conditions prescribed by the Commission, or by the courts. Except in the case of ROPAs whose redemption periods have already expired, the FISTC shall notify the borrower and all persons holding prior encumbrances upon the properties, or a part thereof, or are actually holding the same adversely against the borrower, of the appointment of such third-party asset servicing company within fifteen (15) days from the date of tje appointment.1aшphi1
+(m) Engage the services of a third-party asset servicing company for the collection and receipt of the debt payments for debts under debt restructuring or business reorganization, management and disposition of assets of the FISTC in accordance with the rules, procedures and conditions prescribed by the Commission, or by the courts. Except in the case of ROPAs whose redemption periods have already expired, the FISTC shall notify the borrower and all persons holding prior encumbrances upon the properties, or a part thereof, or are actually holding the same adversely against the borrower, of the appointment of such third-party asset servicing company within fifteen (15) days from the date of tje appointment.
 
 ### Section 6
 
@@ -357,7 +357,7 @@ _Use of Registration Fees._ \- To carry out the purposes of this Act, the Commis
 
 _Implementing Rules and Regulations._ \- Within thirty (30) days from the effectivity of this Act, the Commission jointly with the BSP, the DOF, BIR and the LRA, shall promulgate the necessary rules and regulations for the effective and faithful implementation of this Act: _Provided,_ That within thirty (30) days from the effectivity of this Act, the DOF, upon recommendation of the BIR, shall promulgate the revenue regulations implementing the fiscal incentives under this Act. All the issuances pursuant to this Act must strictly comply with Republic Act No. 11032 or the "Ease of Doing Business and Efficient Government Service Delivery Act of 2018".
 
-The non-promulgation of the implementing rules and regulations shall not prevent the implementation of this Act upon its effectivity.ℒαwρhi৷
+The non-promulgation of the implementing rules and regulations shall not prevent the implementation of this Act upon its effectivity.
 
 ### Section 30
 

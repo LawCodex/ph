@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Municipality of Faire, in the Province of Cagayan is hereby changed to Santo Niño.1a⍵⍴h!1
+The name of the Municipality of Faire, in the Province of Cagayan is hereby changed to Santo Niño.
 
 ## Section 2
 

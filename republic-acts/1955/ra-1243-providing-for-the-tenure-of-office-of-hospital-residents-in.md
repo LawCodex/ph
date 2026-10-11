@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Physicians appointed for hospital residency other than senior residency in any training hospital under the Department of Health must be duly licensed physicians who have graduated from recognized medical schools.1awp++i1 They shall be appointed for a period of one year, renewable every year, in the discretion of the Secretary of Health: _Provided,_ _However_ , That the total duration of their appointments shall not exceed a period of three years: _Provided, further,_ That in the computation of the three-year period, the period of time during which the appointee may have served as resident in any clinical department or section of any government training hospital shall be included: _Provided,_ lastly, That this three-year limitation shall apply only to all appointments for residency hereinafter made.
+Physicians appointed for hospital residency other than senior residency in any training hospital under the Department of Health must be duly licensed physicians who have graduated from recognized medical schools. They shall be appointed for a period of one year, renewable every year, in the discretion of the Secretary of Health: _Provided,_ _However_ , That the total duration of their appointments shall not exceed a period of three years: _Provided, further,_ That in the computation of the three-year period, the period of time during which the appointee may have served as resident in any clinical department or section of any government training hospital shall be included: _Provided,_ lastly, That this three-year limitation shall apply only to all appointments for residency hereinafter made.
 
 ## Section 2
 

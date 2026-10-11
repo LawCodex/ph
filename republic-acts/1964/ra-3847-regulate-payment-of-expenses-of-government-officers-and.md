@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-When an officer or employee is required to travel on official business outside of his permanent official station, he shall be entitled to per diems to cover his board and lodging which shall be fixed on the basis of salary in the rules and regulations to be issued pursuant to Section four of this Act: _Provided,_ That such per diems shall not be below the minimum nor above the maximum as fixed herein:1âшphi1
+When an officer or employee is required to travel on official business outside of his permanent official station, he shall be entitled to per diems to cover his board and lodging which shall be fixed on the basis of salary in the rules and regulations to be issued pursuant to Section four of this Act: _Provided,_ That such per diems shall not be below the minimum nor above the maximum as fixed herein:
 
 <table>
 <tr>

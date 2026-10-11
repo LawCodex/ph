@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-March Twenty-seven of every year is hereby declared a special nonworking public holiday in the Municipality of San Juan, to be known as "Araw ng San Juan," to commemorate the anniversary and formation of San Juan as an independent municipality by virtue of Philippine Commission Act No. 1625.1a⍵⍴h!1
+March Twenty-seven of every year is hereby declared a special nonworking public holiday in the Municipality of San Juan, to be known as "Araw ng San Juan," to commemorate the anniversary and formation of San Juan as an independent municipality by virtue of Philippine Commission Act No. 1625.
 
 ## Section 2
 

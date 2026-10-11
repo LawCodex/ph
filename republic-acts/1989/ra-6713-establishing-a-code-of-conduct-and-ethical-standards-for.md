@@ -37,7 +37,7 @@ _Declaration of Policies._ \- It is the policy of the State to promote a high st
 
 _Definition of Terms._ \- As used in this Act, the term:
 
-(a) "Government" includes the National Government, the local governments, and all other instrumentalities, agencies or branches of the Republic of the Philippines including government-owned or controlled corporations, and their subsidiaries.lawphi1.net
+(a) "Government" includes the National Government, the local governments, and all other instrumentalities, agencies or branches of the Republic of the Philippines including government-owned or controlled corporations, and their subsidiaries.
 
 (b) "Public Officials" includes elective and appointive officials and employees, permanent or temporary, whether in the career or non-career service, including military and police personnel, whether or not they receive compensation, regardless of amount.
 
@@ -83,7 +83,7 @@ _Norms of Conduct of Public Officials and Employees._ \- (A) Every public offici
 
 ## Section 5
 
-_Duties of Public Officials and Employees._ \- In the performance of their duties, all public officials and employees are under obligation to:lawphi1.net
+_Duties of Public Officials and Employees._ \- In the performance of their duties, all public officials and employees are under obligation to:
 
 (a) Act promptly on letters and requests. - All public officials and employees shall, within fifteen (15) working days from receipt thereof, respond to letters, telegrams or other means of communications sent by the public. The reply must contain the action taken on the request.
 

@@ -28,6 +28,6 @@ There is hereby appropriated out of any funds in the Philippine Treasury not oth
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 9, 1948.

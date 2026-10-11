@@ -56,7 +56,7 @@ The grantee shall so construct and operate its radio stations as not to interfer
 
 ## Section 9
 
-The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1âшphi1
+The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 10
 

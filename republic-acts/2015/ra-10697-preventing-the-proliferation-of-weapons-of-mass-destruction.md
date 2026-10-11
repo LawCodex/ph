@@ -424,7 +424,7 @@ _Separability Clause._ – If any provision of this Act is held to be invalid or
 
 ### SECTION 33
 
-_Suppletory Application._ – For purposes of this Act, the Revised Penal Code and other applicable laws shall have suppletory application.1âwphi1
+_Suppletory Application._ – For purposes of this Act, the Revised Penal Code and other applicable laws shall have suppletory application.
 
 ### SECTION 34
 

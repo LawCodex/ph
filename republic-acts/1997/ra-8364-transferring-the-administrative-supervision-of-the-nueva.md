@@ -32,7 +32,7 @@ The administrative supervision of the Nueva Vizcaya Science High School in Bayom
 
 ## Section 2
 
-The high school shall be headed by a director who shall be elected by a Board of Trustees.1aшphi1
+The high school shall be headed by a director who shall be elected by a Board of Trustees.
 
 ## Section 3
 

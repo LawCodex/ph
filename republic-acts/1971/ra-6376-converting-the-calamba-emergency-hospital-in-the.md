@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Calamba Emergency Hospital in the Municipality of Calamba, Province of Laguna, is hereby converted into a general hospital to be known as Dr. Jose Rizal Memorial Hospital.1âшphi1
+The Calamba Emergency Hospital in the Municipality of Calamba, Province of Laguna, is hereby converted into a general hospital to be known as Dr. Jose Rizal Memorial Hospital.
 
 ## Section 2
 

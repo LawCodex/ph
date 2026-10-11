@@ -86,7 +86,7 @@ The first paragraph of article two hundred ninety-nine of the Revised Penal Code
 
 "1. Through an opening not intended for entrance or egress.
 
-"2. By breaking any wall, roof, or floor or breaking any door or window.(awÞhi(
+"2. By breaking any wall, roof, or floor or breaking any door or window.
 
 "3. By using false keys, picklocks or similar tools.
 

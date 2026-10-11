@@ -647,7 +647,7 @@ Section 29 of Republic Act No. 9208 is hereby amended to read as follows:
 
 ## Section 20
 
-_Separability Clause._ \- If any part of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall continue to be in full force and effect.1aшphi1
+_Separability Clause._ \- If any part of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall continue to be in full force and effect.
 
 ## Section 21
 

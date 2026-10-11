@@ -160,7 +160,7 @@ _Re-issue and replacement of certificates._ \- The Board may, after the expirati
 
 _Transitory provisions._ \- As soon as this Act takes effect, any person desiring to practice the profession of civil engineering shall be required to obtain a certificate of registration in the manner and under the conditions hereinafter provided.
 
-All civil engineers duly licensed under the provisions of amended, at the time this Act takes effect, shall be automatically registered under the provisions hereof.1a⍵⍴h!1 Certificates of registration held by such persons in good standing shall have the same force and effect as though the same have been issued the provisions of this Act.
+All civil engineers duly licensed under the provisions of amended, at the time this Act takes effect, shall be automatically registered under the provisions hereof. Certificates of registration held by such persons in good standing shall have the same force and effect as though the same have been issued the provisions of this Act.
 
 All graduates in civil engineering from a school, institute, college, or university recognized by the Government who have passed the civil service examination for senior civil engineer and have been practising or employed in the Government as such during five years are exempted form taking examination.
 

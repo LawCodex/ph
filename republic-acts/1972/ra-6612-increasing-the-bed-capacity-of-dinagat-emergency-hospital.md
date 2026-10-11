@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of Dinagat Emergency Hospital in the Municipality of Dinagat, Province of Surigao del Norte, is hereby increased from twenty-five to fifty beds.1âшphi1
+The bed capacity of Dinagat Emergency Hospital in the Municipality of Dinagat, Province of Surigao del Norte, is hereby increased from twenty-five to fifty beds.
 
 ## Section 2
 

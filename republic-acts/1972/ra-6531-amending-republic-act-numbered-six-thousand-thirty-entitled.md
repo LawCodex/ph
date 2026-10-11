@@ -39,7 +39,7 @@ Section one of the same Act is hereby amended to read as follows:
 
 Section seven of the same Act is hereby amended to read as follows:
 
-"**Section 7.** The grantee, its successors or assigns shall keep a separate account of its gross receipts of its telephone transmission business and shall furnish the Auditor General and Treasurer of the Philippines a copy of such account not later than the thirty-first day of May of each year for the twelve months ending December thirty one of the preceding year."1âшphi1
+"**Section 7.** The grantee, its successors or assigns shall keep a separate account of its gross receipts of its telephone transmission business and shall furnish the Auditor General and Treasurer of the Philippines a copy of such account not later than the thirty-first day of May of each year for the twelve months ending December thirty one of the preceding year."
 
 ## Section 4
 

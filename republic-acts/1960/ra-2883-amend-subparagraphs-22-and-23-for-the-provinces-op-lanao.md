@@ -105,6 +105,6 @@ Subparagraphs 22 and 23 for the provinces of Lanao and Leyte, respectively, page
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 19, 1960.

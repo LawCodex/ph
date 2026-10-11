@@ -25,11 +25,17 @@ AN ACT PRESCRIBING THE CODE OF THE NATIONAL FLAG, ANTHEM, MOTTO, COAT-OF-ARMS AN
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short title._** – This Act shall be known as the **_"Flag and Heraldic Code of the Philippines."_**
+### Section 1
 
-**Section 2._Declaration of policy._** – Reverence and respect shall at all times be accorded the flag, the anthem, and other national symbols which embody the national ideals and traditions and which express the principles of sovereignty and national solidarity. The heraldic items and devices shall seek to manifest the national virtues and to inculcate in the minds and hearts of our people a just pride in their native land, fitting respect and affection for the national flag and anthem, and the proper use of the national motto, coat-of-arms and other heraldic items and devices.
+_Short title._ – This Act shall be known as the **_"Flag and Heraldic Code of the Philippines."_**
 
-**Section 3._Definition of terms._** – Whenever used in this Act, the term:
+### Section 2
+
+_Declaration of policy._ – Reverence and respect shall at all times be accorded the flag, the anthem, and other national symbols which embody the national ideals and traditions and which express the principles of sovereignty and national solidarity. The heraldic items and devices shall seek to manifest the national virtues and to inculcate in the minds and hearts of our people a just pride in their native land, fitting respect and affection for the national flag and anthem, and the proper use of the national motto, coat-of-arms and other heraldic items and devices.
+
+### Section 3
+
+_Definition of terms._ – Whenever used in this Act, the term:
 
 a) _"Military"_ shall mean all branches of the Armed Forces of the Philippines including the Philippine National Police, the Bureau of Jail Management and Penology, and the Bureau of Fire Protection;
 
@@ -59,9 +65,7 @@ l) _"Institute"_ shall mean the National Historical Institute.
 
 A. Design of the National Flag
 
-### Section. 4
-
-The flag of the Philippines shall be blue, white and red with an eight-rayed golden-yellow sun and three five-pointed stars, as consecrated and honored by the people.
+**Section. 4.** The flag of the Philippines shall be blue, white and red with an eight-rayed golden-yellow sun and three five-pointed stars, as consecrated and honored by the people.
 
 B. Hoisting and Display of the National Flag
 
@@ -435,10 +439,16 @@ The Institute shall issue the necessary rules and regulations to implement the p
 
 The Institute shall also be responsible for the strict enforcement of the provisions of this Act. It may call upon any government department, agency, office, or government instrumentality, including government corporations, and local government units, for such assistance as it may deem necessary for the effective discharge of its functions under this Act.
 
-**Section 53._Separability clause._** – If any provision, or part hereof, is held invalid or unconstitutional, the remainder of this Act not otherwise affected shall be valid and subsisting.
+### Section 53
 
-**Section 54._Repealing clause._** – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified, or amended accordingly.
+_Separability clause._ – If any provision, or part hereof, is held invalid or unconstitutional, the remainder of this Act not otherwise affected shall be valid and subsisting.
 
-**Section 55._Effectivity._** – This Act shall take effect fifteen (15) days from the date of its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+### Section 54
+
+_Repealing clause._ – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified, or amended accordingly.
+
+### Section 55
+
+_Effectivity._ – This Act shall take effect fifteen (15) days from the date of its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 _Approved:_ **February 12, 1998**

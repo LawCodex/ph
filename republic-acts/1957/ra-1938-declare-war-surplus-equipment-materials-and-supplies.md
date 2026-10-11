@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-All war surplus property consisting of equipment, materials and supplies, acquired by the Bureau of Telecommunications from the United States Foreign Liquidation Commission and the defunct Surplus Property Commission, including those previously acquired by the Bureau of Posts from such commissions and later transferred to the Bureau of Telecommunications, are hereby declared permanently transferred to the Bureau of Telecommunications without cost, provisions of existing laws, executive orders or regulations to the contrary notwithstanding.1avvphi1
+All war surplus property consisting of equipment, materials and supplies, acquired by the Bureau of Telecommunications from the United States Foreign Liquidation Commission and the defunct Surplus Property Commission, including those previously acquired by the Bureau of Posts from such commissions and later transferred to the Bureau of Telecommunications, are hereby declared permanently transferred to the Bureau of Telecommunications without cost, provisions of existing laws, executive orders or regulations to the contrary notwithstanding.
 
 ## Section 2
 

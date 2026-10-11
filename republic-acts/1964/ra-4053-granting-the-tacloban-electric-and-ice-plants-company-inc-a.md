@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted to the Tacloban Electric and Ice Plants Company, Inc., a franchise to install, maintain and operate an ice plant in the City of Tacloban for the purpose of manufacturing and distributing ice in the city and in the whole Province of Leyte and to charge and collect a schedule of prices and rates therefor which schedule shall at all times be subject to regulation by the Public Service Commission or its legal successor.1âшphi1
+Subject to the conditions imposed by this Act, there is hereby granted to the Tacloban Electric and Ice Plants Company, Inc., a franchise to install, maintain and operate an ice plant in the City of Tacloban for the purpose of manufacturing and distributing ice in the city and in the whole Province of Leyte and to charge and collect a schedule of prices and rates therefor which schedule shall at all times be subject to regulation by the Public Service Commission or its legal successor.
 
 ## Section 2
 

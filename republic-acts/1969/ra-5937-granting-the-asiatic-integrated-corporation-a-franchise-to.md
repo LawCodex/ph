@@ -28,7 +28,7 @@ Subject to the conditions imposed by this Act, there is granted to the Asiatic I
 
 ## Section 2
 
-The grantee shall manufacture and supply ice up to the limit of the capacity of its plant as determined by the Public Service Commission.1âшphi1
+The grantee shall manufacture and supply ice up to the limit of the capacity of its plant as determined by the Public Service Commission.
 
 ## Section 3
 

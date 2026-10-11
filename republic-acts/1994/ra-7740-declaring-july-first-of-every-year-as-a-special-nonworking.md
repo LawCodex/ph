@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Province of Southern Leyte was created by virtue of Republic Act No. 2227 which was signed into law on May 22, 1959 by President Carlos P. Garcia and which took effect on July 1, 1960.1a⍵⍴h!1
+The Province of Southern Leyte was created by virtue of Republic Act No. 2227 which was signed into law on May 22, 1959 by President Carlos P. Garcia and which took effect on July 1, 1960.
 
 ## Section 2
 

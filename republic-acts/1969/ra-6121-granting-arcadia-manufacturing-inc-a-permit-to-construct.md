@@ -68,6 +68,6 @@ This permit shall be subject to amendment alteration or repeal by the Congress o
 
 ## Section 12
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval August 4, 1969.

@@ -47,7 +47,7 @@ Accordingly, Section 14(d) and Section 27 of Batas Pambansa Bilang 129, otherwis
 
 ## Section 5
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include, as may be determined on a priority basis, in the Court's program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act.lawphil
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include, as may be determined on a priority basis, in the Court's program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act.
 
 ## Section 6
 

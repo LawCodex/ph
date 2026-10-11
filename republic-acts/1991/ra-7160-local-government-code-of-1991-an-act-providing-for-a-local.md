@@ -45,7 +45,7 @@ _Declaration of Policy._ -
 
 (b) It is also the policy of the State to ensure the accountability of local government units through the institution of effective mechanisms of recall, initiative and referendum.
 
-(c) It is likewise the policy of the State to require all national agencies and offices to conduct periodic consultations with appropriate local government units, nongovernmental and people's organizations, and other concerned sectors of the community before any project or program is implemented in their respective jurisdictions.1awphil.net
+(c) It is likewise the policy of the State to require all national agencies and offices to conduct periodic consultations with appropriate local government units, nongovernmental and people's organizations, and other concerned sectors of the community before any project or program is implemented in their respective jurisdictions.
 
 ###### Section 3
 
@@ -649,7 +649,7 @@ _Internal Rules of Procedure._ -
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four (4) consecutive sessions, for which they may be censured, reprimanded, or excluded from the session, suspended for not more than sixty (60) days, or expelled: Provided, That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the sanggunian members: Provided, further, That a member convicted by final judgment to imprisonment of at least one (1) year for any crime involving moral turpitude shall be automatically expelled from the sanggunian; and
 
-(6) Such other rules as the sanggunian may adopt.lawphil™
+(6) Such other rules as the sanggunian may adopt.
 
 ###### Section 51
 
@@ -2843,7 +2843,7 @@ _Taxpayer's Remedies Against Special Levy._ \- Any owner of real property affect
 
 ###### Section 245
 
-_Accrual of Special Levy._ \- The special levy shall accrue on the first day of the quarter next following the effectivity of the ordinance imposing such levy.lawphil.net
+_Accrual of Special Levy._ \- The special levy shall accrue on the first day of the quarter next following the effectivity of the ordinance imposing such levy.
 
 #### CHAPTER VI — Collection of Real Property Tax
 
@@ -2903,7 +2903,9 @@ _Notice of Delinquency in the Payment of the Real Property Tax._ -
 
 (b) Such notice shall specify the date upon which the tax became delinquent and shall state that personal property may be distrained to effect payment. It shall likewise state that at any time before the distraint of personal property, payment of the tax with surcharges, interests and penalties may be made in accordance with the next following section, and unless the tax, surcharges and penalties are paid before the expiration of the year for which the tax is due, except when the notice of assessment or special levy is contested administratively or judicially pursuant to the provisions of Chapter 3, Title II, Book II of this Code, the delinquent real property will be sold at public auction, and the title to the property will be vested in the purchaser, subject, however, to the right of the delinquent owner of the property or any person having legal interest therein to redeem the property within one (1) year from the date of sale.
 
-**Section 255. ℒαwρhi৷** _Interests on Unpaid Real Property Tax._ \- In case of failure to pay the basic real property tax or any other tax levied under this Title upon the expiration of the periods as provided in Section 250, or when due, as the case may be, shall subject the taxpayer to the payment of interest at the rate of two percent (2%) per month on the unpaid amount or a fraction thereof, until the delinquent tax shall have been fully paid: Provided, however, That in no case shall the total interest on the unpaid tax or portion thereof exceed thirty-six (36) months.
+###### Section 255
+
+_Interests on Unpaid Real Property Tax._ \- In case of failure to pay the basic real property tax or any other tax levied under this Title upon the expiration of the periods as provided in Section 250, or when due, as the case may be, shall subject the taxpayer to the payment of interest at the rate of two percent (2%) per month on the unpaid amount or a fraction thereof, until the delinquent tax shall have been fully paid: Provided, however, That in no case shall the total interest on the unpaid tax or portion thereof exceed thirty-six (36) months.
 
 ###### Section 256
 
@@ -4283,7 +4285,9 @@ _Subject Matter for Amicable Settlement; Exception Thereto._ \- The lupon of eac
 
 The court in which non-criminal cases not falling within the authority of the lupon under this Code are filed may, at any time before trial motu propio refer the case to the lupon concerned for amicable settlement.
 
-**Section 409. Venue**. -
+###### Section 409
+
+Venue. -
 
 (a) Disputes between persons actually residing in the same barangay shall be brought for amicable settlement before the lupon of said barangay.
 
@@ -4495,7 +4499,9 @@ _Succession and Filling of Vacancies._ -
 
 #### CHAPTER IX — Pederasyon ng mga Sangguniang Kabataan
 
-**Section 436. Pederasyon ng mga Kabataan**. -
+###### Section 436
+
+Pederasyon ng mga Kabataan. -
 
 (a) There shall be an organization of all the pederasyon ng mga sangguniang kabataan to be known as follows:
 
@@ -6249,7 +6255,9 @@ _Powers, Functions and Duties of the League of Municipalities._ \- The league of
 
 ##### ARTICLE III — League of Cities
 
-**Section 499. Purpose of Organization**. - There shall be an organization of all cities to be known as the League of Cities for the primary purpose of ventilating, articulating and crystallizing issues affecting city government administration, and securing, through proper and legal means, solutions thereto.
+###### Section 499
+
+Purpose of Organization. - There shall be an organization of all cities to be known as the League of Cities for the primary purpose of ventilating, articulating and crystallizing issues affecting city government administration, and securing, through proper and legal means, solutions thereto.
 
 The league may form chapters at the provincial level for the component cities of a province. Highly-urbanized cities may also form a chapter of the League. The National League shall be composed of the presidents of the league of highly-urbanized cities and the presidents of the provincial chapters of the league of component cities.
 

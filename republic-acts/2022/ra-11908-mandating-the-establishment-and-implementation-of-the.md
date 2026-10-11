@@ -122,7 +122,7 @@ The DILG shall recognize the LGUs which are outstanding in the implementation of
 
 The LGUs shall coordinate with the relevant government agencies to ensure the implementation of the PES Program. They may collaborate with the DepEd's Schools Division Offices in providing facilities for the conduct thereof. The LGUs shall likewise provide incentives to parents and parent-substitutes who actively participated or garnered high evaluation rates from their children in the PES Program.
 
-The families and communities shall support the PES Program by participating in various projects for the overall development of their children.ℒαwρhi৷
+The families and communities shall support the PES Program by participating in various projects for the overall development of their children.
 
 ## Section 9
 

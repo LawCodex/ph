@@ -38,7 +38,7 @@ Within two (2) years after the construction of the multi-species marine hatchery
 
 ## SECTION 3
 
-The Secretary of Agriculture shall include in the Department’s programs the establishment of the multi-species marine hatchery, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue to fund its management and operation.1âwphi1
+The Secretary of Agriculture shall include in the Department’s programs the establishment of the multi-species marine hatchery, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue to fund its management and operation.
 
 ## SECTION 4
 

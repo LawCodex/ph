@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Ballesteros, Province of Cagayan, was founded on December 18, 1911 by virtue of Executive Order No. 79.1a⍵⍴h!1
+The Municipality of Ballesteros, Province of Cagayan, was founded on December 18, 1911 by virtue of Executive Order No. 79.
 
 ## Section 2
 

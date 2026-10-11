@@ -33,7 +33,7 @@ If the total expenses of the Office of the Insurance Commissioner for every fisc
 
 ## Section 3
 
-Within the months of July and January of each year, the Insurance Commissioner shall levy and collect the assessments herein prescribed and pay same into the National Treasury.1aшphi1
+Within the months of July and January of each year, the Insurance Commissioner shall levy and collect the assessments herein prescribed and pay same into the National Treasury.
 
 The Insurance Commissioner shall promulgate such rules and regulations and require such reports and documents of any domestic or foreign insurance company operating in this country as may be needed for the proper enforcement of the provisions of this Act.
 

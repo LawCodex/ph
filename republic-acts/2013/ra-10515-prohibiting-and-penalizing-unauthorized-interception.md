@@ -82,7 +82,7 @@ _Separability Clause._ – If, for any reason, any section or provision of this 
 
 ## Section 9
 
-_Repealing Clause._ – All laws, presidential decrees or issuances, executive orders, letters of instruction, administrative orders, rules or regulations contrary to, or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.1âwphi1
+_Repealing Clause._ – All laws, presidential decrees or issuances, executive orders, letters of instruction, administrative orders, rules or regulations contrary to, or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.
 
 ## Section 10
 

@@ -35,7 +35,7 @@ The Municipality of San Fernando shall have the following boundaries:
 
 ## Section 3
 
-The first mayor, vice-mayor and councilors shall be elected in the nineteen hundred sixty-seven general elections for local officials.1avvphi1
+The first mayor, vice-mayor and councilors shall be elected in the nineteen hundred sixty-seven general elections for local officials.
 
 ## Section 4
 

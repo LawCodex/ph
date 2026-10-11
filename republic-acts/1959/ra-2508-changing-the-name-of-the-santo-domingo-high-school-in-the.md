@@ -28,6 +28,6 @@ The name of the Santo Domingo High School in the Municipality of Santo Domingo, 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 21, 1959.

@@ -431,7 +431,7 @@ _Remittance of premiums for life and retirement insurance with the Government Se
 
 #### Section 33
 
-_Effective date._ —This Act shall take effect on July first, nineteen hundred and fifty-six, except where otherwise provided.1a⍵⍴h!1
+_Effective date._ —This Act shall take effect on July first, nineteen hundred and fifty-six, except where otherwise provided.
 
 Approved, July 11, 1956, except the following provisions.
 

@@ -189,7 +189,7 @@ _The Faculty._ \- No political belief, sex, gender, cultural or community affili
 
 ## Section 16
 
-_Academic Freedom._ \- The Pampanga State University shall enjoy academic freedom pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.ℒαwρhi৷
+_Academic Freedom._ \- The Pampanga State University shall enjoy academic freedom pursuant to Paragraph 2, Section 5 of Article XIV of the Constitution.
 
 ## Section 17
 

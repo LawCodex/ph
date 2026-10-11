@@ -61,6 +61,6 @@ Approval is hereby given to any assignment, sale, mortgage and/or transfer of th
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

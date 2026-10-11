@@ -32,6 +32,6 @@ The provisions of Executive Order Numbered Two hundred thirty-nine, series of ni
 
 ## Section 3
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: June 12, 1954.

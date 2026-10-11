@@ -34,7 +34,7 @@ _Establishment of a National High School._ \- There is here by established, unde
 
 ## Section 2
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the General Emilio Aguinaldo National High School, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the General Emilio Aguinaldo National High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

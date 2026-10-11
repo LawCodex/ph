@@ -38,7 +38,7 @@ The existing professional health care services and facilities of the ITRMC shall
 
 ## Section 3
 
-The existing workforce of the ITRMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the ITRMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
 
 ## Section 4
 

@@ -35,7 +35,7 @@ _Declaration of policy._ -It is hereby declared to be the policy of the State:
 
 (4) To reduce as much as possible monopolistic practices in trade in connection with agricultural products which have always been prejudicial to the producer and the consumer as well; and
 
-(5) To make the activities of the Bureau of Agricultural Economics directly and intimately related to the promotion of agricultural well-being.1âшphi1
+(5) To make the activities of the Bureau of Agricultural Economics directly and intimately related to the promotion of agricultural well-being.
 
 ## Section 2
 

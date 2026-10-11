@@ -44,7 +44,7 @@ The PUP is also mandated to undertake research and extension services in the Que
 
 ## Section 4
 
-The PUP-Quezon City Campus shall be headed by a Campus Administrator who shall render full-time service and who shall be appointed or designated by the BOR upon the recommendation of the search committee and the President, subject to the guidelines, qualifications and standards set by the BOR.1âшphi1
+The PUP-Quezon City Campus shall be headed by a Campus Administrator who shall render full-time service and who shall be appointed or designated by the BOR upon the recommendation of the search committee and the President, subject to the guidelines, qualifications and standards set by the BOR.
 
 ## Section 5
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The District No. III of the Municipality of Cuyapo, Province of Nueva Ecija, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Latap.1âшphi1
+The District No. III of the Municipality of Cuyapo, Province of Nueva Ecija, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Latap.
 
 ## Section 2
 

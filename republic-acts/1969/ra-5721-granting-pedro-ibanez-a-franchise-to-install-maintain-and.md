@@ -49,7 +49,7 @@ This franchise is granted subject to the provisions of the Constitution and Comm
 
 ## Section 7
 
-The books, records and accounts of the grantee shall always be open to the inspection of the Auditor General or his authorized representatives, and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing the gross receipts for the quarter past.1a⍵⍴h!1
+The books, records and accounts of the grantee shall always be open to the inspection of the Auditor General or his authorized representatives, and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing the gross receipts for the quarter past.
 
 ## Section 8
 

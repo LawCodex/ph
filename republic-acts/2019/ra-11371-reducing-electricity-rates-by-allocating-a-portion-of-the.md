@@ -35,7 +35,7 @@ _Short Title._ — This Act shall be known as the "Murang Kuryente Act".
 
 ## Section 2
 
-_Declaration of Policy._ — It is hereby declared the policy of the State to protect public interest by ensuring the provision of reliable, secure, and affordable supply of electric power to consumers.1âшphi1 Towards this end, the State shall implement policies and programs to ensure transparent and reasonable prices of electricity to consumers by minimizing the universal charges for stranded contract costs and stranded debts.
+_Declaration of Policy._ — It is hereby declared the policy of the State to protect public interest by ensuring the provision of reliable, secure, and affordable supply of electric power to consumers. Towards this end, the State shall implement policies and programs to ensure transparent and reasonable prices of electricity to consumers by minimizing the universal charges for stranded contract costs and stranded debts.
 
 ## Section 3
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bugas Elementary School in Barangay Manduyong, Municipality of Badian, Province of Cebu, is hereby changed to Manduyong Elementary School.1âшphi1
+The name of the Bugas Elementary School in Barangay Manduyong, Municipality of Badian, Province of Cebu, is hereby changed to Manduyong Elementary School.
 
 ## Section 2
 

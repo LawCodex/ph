@@ -25,11 +25,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the municipality of Dingras, Ilocos Norte, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat, and power plant for the purpose of generating and distributing electric light, heat or power for sale within the limits of its territorial jurisdiction.£a⩊phi£
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the municipality of Dingras, Ilocos Norte, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat, and power plant for the purpose of generating and distributing electric light, heat or power for sale within the limits of its territorial jurisdiction.
 
 ## Section 2
 
-It is expressly provided that in the event the Government should desire to maintain and operate for itself the plant and the enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost.1âшphi1
+It is expressly provided that in the event the Government should desire to maintain and operate for itself the plant and the enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost.
 
 ## Section 3
 

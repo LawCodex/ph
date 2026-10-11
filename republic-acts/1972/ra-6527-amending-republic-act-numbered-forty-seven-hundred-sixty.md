@@ -40,7 +40,7 @@ Section one of the same Act is amended to read as follows:
 
 Section two of the same Act is also amended to read as follows:
 
-"**Section 2.** All personnel of the Speaker Daniel Z. Romualdez Memorial City Hospital, the Leyte Provincial Hospital and the Tacloban City Hospital shall be absorbed by the memorial hospital herein created in accordance with the provisions of civil service law, rules and regulations, and all assets and liabilities of the present aforesaid hospital shall be transferred to the newly created memorial hospital."1âшphi1
+"**Section 2.** All personnel of the Speaker Daniel Z. Romualdez Memorial City Hospital, the Leyte Provincial Hospital and the Tacloban City Hospital shall be absorbed by the memorial hospital herein created in accordance with the provisions of civil service law, rules and regulations, and all assets and liabilities of the present aforesaid hospital shall be transferred to the newly created memorial hospital."
 
 ## Section 4
 

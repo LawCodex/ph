@@ -44,7 +44,7 @@ The Secretary of Health shall immediately include in the Department's program th
 
 ## Section 4
 
-Republic Act No. 8527, increasing the bed capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital is hereby repealed.1aшphi1 All other laws, decrees, orders, issuances, rules and regulations and parts thereof which are inconsistent with the provisions of this Act are hereby repealed.
+Republic Act No. 8527, increasing the bed capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital is hereby repealed. All other laws, decrees, orders, issuances, rules and regulations and parts thereof which are inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 5
 

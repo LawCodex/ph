@@ -111,7 +111,7 @@ The grantee, its successors or assigns, shall not issue stock or bonds under thi
 
 ## Section 19
 
-This franchise is granted upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines, when the public interest so requires. All public lands or rights of use or occupation of lands secured by virtue of this franchise shall revert upon its termination, revocation, or nullification to the national, provincial or municipal governments which were the owners thereof on the date when this franchise was granted.1âшphi1
+This franchise is granted upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines, when the public interest so requires. All public lands or rights of use or occupation of lands secured by virtue of this franchise shall revert upon its termination, revocation, or nullification to the national, provincial or municipal governments which were the owners thereof on the date when this franchise was granted.
 
 ## Section 20
 

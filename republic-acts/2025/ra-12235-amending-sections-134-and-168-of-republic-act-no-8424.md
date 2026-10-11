@@ -38,7 +38,7 @@ Section 168 of the National Internal Revenue Code of 1997, as amended, is hereby
 
 ## Section 3
 
-Within ninety (90) days from the effectivity of this Act, the Secretary of Finance shall promulgate the necessary guidelines for the effective implementation of this Act.ℒαwρhi৷
+Within ninety (90) days from the effectivity of this Act, the Secretary of Finance shall promulgate the necessary guidelines for the effective implementation of this Act.
 
 ## Section 4
 

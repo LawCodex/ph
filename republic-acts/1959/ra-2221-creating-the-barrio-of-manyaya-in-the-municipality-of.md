@@ -24,9 +24,9 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Manyaya in the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, is separated from said barrio and converted into a distinct and independent barrio of said municipality to be known as the barrio of Manyaya.1aшphi1
+The sitio of Manyaya in the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, is separated from said barrio and converted into a distinct and independent barrio of said municipality to be known as the barrio of Manyaya.
 
-The boundary of the proposed barrio of Manyaya and the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, shall be the Puncian River.1aшphi1
+The boundary of the proposed barrio of Manyaya and the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, shall be the Puncian River.
 
 ## Section 2
 

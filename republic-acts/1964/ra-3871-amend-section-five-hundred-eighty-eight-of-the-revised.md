@@ -31,6 +31,6 @@ Section five hundred eighty-eight of the Revised Administrative Code is amended 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

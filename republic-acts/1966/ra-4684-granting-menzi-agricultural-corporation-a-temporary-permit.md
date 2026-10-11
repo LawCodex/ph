@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to Menzi Agricultural Corporation, its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at Manila and such places as the said grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point radio stations, private coastal radio stations, private land-based and land-mobile radio stations, water-borne radio stations and aeronautical stations for the reception and transmission of radio communications, each station to be provided with a radio transmitting apparatus and radio receiving apparatus.1avvphi1
+There is hereby granted to Menzi Agricultural Corporation, its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at Manila and such places as the said grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point radio stations, private coastal radio stations, private land-based and land-mobile radio stations, water-borne radio stations and aeronautical stations for the reception and transmission of radio communications, each station to be provided with a radio transmitting apparatus and radio receiving apparatus.
 
 ## Section 2
 

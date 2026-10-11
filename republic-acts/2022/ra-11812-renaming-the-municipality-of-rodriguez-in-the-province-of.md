@@ -36,7 +36,7 @@ The Municipality of Rodriguez in the Province of Rizal is hereby renamed as the 
 
 The renaming of the Municipality of Rodriguez as Municipality of Montalban shall be effective upon ratification of the majority of votes cast by qualified voters in a plebiscite to be conducted and supervised by the Commission on Elections (COMELEC) in the present Municipality of Rodriguez.
 
-The expenses for such plebiscite shall be borne by the Municipality of Rodriguez, Province of Rizal.ℒαwρhi৷
+The expenses for such plebiscite shall be borne by the Municipality of Rodriguez, Province of Rizal.
 
 ## Section 3
 

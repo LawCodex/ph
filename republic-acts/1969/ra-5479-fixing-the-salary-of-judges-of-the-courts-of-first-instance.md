@@ -40,6 +40,6 @@ All laws or parts thereof inconsistent with the Provisions of this Act are hereb
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

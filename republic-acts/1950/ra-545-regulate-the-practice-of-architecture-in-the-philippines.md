@@ -221,7 +221,7 @@ B. Has paid money except the regular fees provided for, to secure a certificate 
 
 C. Has falsely impersonated a practitioner, or former practitioner of a like or different name, or has practiced under an assumed, fictitious or corporate name other than that of the registered;
 
-D. Has aided or abetted in the practice of architecture any person not duly authorized to practice architecture in the Philippines.ℒαwρhi৷
+D. Has aided or abetted in the practice of architecture any person not duly authorized to practice architecture in the Philippines.
 
 Any person, firm or association, may prefer charges n accordance with the provisions of this section against any registrant, or the Board may motu proprio investigate and/ or take cognizance of acts and practices constituting sufficient cause for suspension or revocation of the certificate of registration by proper resolution or order, charges shall be in writing and shall be sworn to by person making them and shall be filed with the secret of the Board.
 
@@ -237,7 +237,7 @@ _Prohibitions in the practice of architecture._ \- Any person who shall practice
 
 ### Section 31
 
-_Non-registered persons shall not claim equivalent service._ \- Persons not registered in the Republic of the Philippines as architects shall not claim nor represent Either services or work as equivalent to those of a duly qualified registered architect, or that they are qualified for any branch or function of architectural practice, even though no form of the title "Architect" is used.⌊aшΡhi⌊
+_Non-registered persons shall not claim equivalent service._ \- Persons not registered in the Republic of the Philippines as architects shall not claim nor represent Either services or work as equivalent to those of a duly qualified registered architect, or that they are qualified for any branch or function of architectural practice, even though no form of the title "Architect" is used.
 
 ### Section 32
 

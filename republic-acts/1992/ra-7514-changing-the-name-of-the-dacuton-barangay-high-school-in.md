@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Dacuton Barangay High School in the Municipality of Dumarao, Province of Capiz, is hereby changed to Mayor Ramon A. Benjamin, Sr., Memorial High School.1âшphi1
+The name of the Dacuton Barangay High School in the Municipality of Dumarao, Province of Capiz, is hereby changed to Mayor Ramon A. Benjamin, Sr., Memorial High School.
 
 ## Section 2
 

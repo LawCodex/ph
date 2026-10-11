@@ -38,7 +38,7 @@ For purposes of this Act, "logging" shall refer to the process, work or business
 
 ## Section 3
 
-The harvesting of planted species within tree plantations and the tree-cutting activities for projects approved by the government and only for basic services such as, but not limited to, public works, energy development or water utilities are exempted from this Act: _Provided,_ That any harvesting or cutting of tree species shall comply with all pertinent environment and forestry laws, rules and regulations.1avvphil
+The harvesting of planted species within tree plantations and the tree-cutting activities for projects approved by the government and only for basic services such as, but not limited to, public works, energy development or water utilities are exempted from this Act: _Provided,_ That any harvesting or cutting of tree species shall comply with all pertinent environment and forestry laws, rules and regulations.
 
 ## Section 4
 

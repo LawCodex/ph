@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of twenty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of the copyright of the book, entitled "Magsaysay, the Knight of the Masses," by Jose Topacio Nueno.1âшphi1
+The sum of twenty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of the copyright of the book, entitled "Magsaysay, the Knight of the Masses," by Jose Topacio Nueno.
 
 ## Section 2
 

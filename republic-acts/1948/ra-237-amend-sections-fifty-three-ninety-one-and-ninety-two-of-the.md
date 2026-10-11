@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section fifty-three of Commonwealth Act Numbered One is amended to read as follows:
 
-"Sec. 53. Young men shall be required to register for military training in the armed forces in the calendar year in which they will attain twenty years of age.1aшphi1 This class of training shall be known as trainee instruction and shall be given for such periods, at such time, and under such regulations as the President may from time to time prescribe. Except for those trainees selected for duty with elements of the Regular Force, the period of trainee instruction shall not exceed ten months. In no case shall the period of trainee instruction extend beyond eighteen months except with the specific consent of trainee."
+"Sec. 53. Young men shall be required to register for military training in the armed forces in the calendar year in which they will attain twenty years of age. This class of training shall be known as trainee instruction and shall be given for such periods, at such time, and under such regulations as the President may from time to time prescribe. Except for those trainees selected for duty with elements of the Regular Force, the period of trainee instruction shall not exceed ten months. In no case shall the period of trainee instruction extend beyond eighteen months except with the specific consent of trainee."
 
 ## Section 2
 

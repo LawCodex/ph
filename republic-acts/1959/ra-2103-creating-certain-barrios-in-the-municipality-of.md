@@ -30,7 +30,7 @@ The following sitios in the Municipality of Cagayancillo, Province of Palawan, a
 
 2\. The sitios of Ibiok, Panderse, Lato and Gatung-an to be known as the barrio of Mampio; and
 
-3\. The sitio of Nusa to be known as the barrio of Nusa.1aшphi1
+3\. The sitio of Nusa to be known as the barrio of Nusa.
 
 ## Section 2
 

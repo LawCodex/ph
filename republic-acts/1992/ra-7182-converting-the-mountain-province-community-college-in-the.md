@@ -149,7 +149,7 @@ The College shall enjoy academic freedom.
 
 ## Section 19
 
-The incumbent President of the Mountain Province Community College, if qualified under the rules and regulations of the Department of Education, Culture and Sports, shall be the officer-in-charge of the College pending the appointment of the President.1âшphi1
+The incumbent President of the Mountain Province Community College, if qualified under the rules and regulations of the Department of Education, Culture and Sports, shall be the officer-in-charge of the College pending the appointment of the President.
 
 ## Section 20
 

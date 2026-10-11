@@ -40,6 +40,6 @@ The chairman of the Commission on Elections is hereby mandated to conduct a pleb
 
 ## Section 4
 
-This Act shall take effect immediately upon its approval.1aшphi1
+This Act shall take effect immediately upon its approval.
 
 Lapsed into law on June 5, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

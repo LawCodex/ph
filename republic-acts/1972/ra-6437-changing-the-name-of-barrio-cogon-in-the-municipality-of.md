@@ -28,6 +28,6 @@ The name of Barrio Cogon in the Municipality of Pintuyan, Province of Southern L
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 17, 1972.

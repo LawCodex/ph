@@ -92,7 +92,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ — The incumbent barangay officials of Barangays Acmac-Mariano Badelles Sr., San Roque, Luinab, Upper Hinaplanon, and Ubaldo Laya shall continue to hold office until such time that their successors have been duly elected and qualified.ℒαwρhi৷
+_Incumbent Barangay Officials._ — The incumbent barangay officials of Barangays Acmac-Mariano Badelles Sr., San Roque, Luinab, Upper Hinaplanon, and Ubaldo Laya shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

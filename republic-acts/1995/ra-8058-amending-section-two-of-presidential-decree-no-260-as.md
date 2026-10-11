@@ -33,7 +33,7 @@ Section 2 of Presidential Decree No. 260, as amended, is hereby further amended 
 
 ## Section 2
 
-The executive director and/or chairman of the National Historical Institute shall implement the provisions of this Act.1aшphi1
+The executive director and/or chairman of the National Historical Institute shall implement the provisions of this Act.
 
 ## Section 3
 

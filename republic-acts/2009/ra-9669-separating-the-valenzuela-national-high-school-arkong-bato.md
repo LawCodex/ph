@@ -38,11 +38,11 @@ _Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Arkong Bato National High School, the initial funding of which shall be charged against the current year's appropriations of the Valenzuela National High School - Arkong Bato Annex.1avvphi1 Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Arkong Bato National High School, the initial funding of which shall be charged against the current year's appropriations of the Valenzuela National High School - Arkong Bato Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 
-_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.lawph!l
+_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 5
 

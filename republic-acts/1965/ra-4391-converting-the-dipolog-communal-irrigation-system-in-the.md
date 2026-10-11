@@ -29,7 +29,7 @@ The Dipolog Communal Irrigation System in the Municipality of Dipolog, Province 
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said irrigation system during the fiscal year nineteen hundred sixty-five, including the improvement of the same.1âшphi1 Thereafter, such sum as may be needed for the same purpose shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said irrigation system during the fiscal year nineteen hundred sixty-five, including the improvement of the same. Thereafter, such sum as may be needed for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

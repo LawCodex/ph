@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Southern Leyte General Hospital in the Municipality of Maasin, Province of Southern Leyte, is hereby converted into a national general hospital to be known as Southern Leyte National General Hospital.1âшphi1
+Southern Leyte General Hospital in the Municipality of Maasin, Province of Southern Leyte, is hereby converted into a national general hospital to be known as Southern Leyte National General Hospital.
 
 ## Section 2
 

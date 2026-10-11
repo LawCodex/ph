@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Rafael Consing to install, operate and maintain a telephone system in the Province of Agusan and the municipalities and municipal districts thereof, under Republic Act Numbered Seven hundred fifty-seven, in favor of Marcela S. Aquino, together with all the property and equipment acquired thereunder.1âшphi1
+Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Rafael Consing to install, operate and maintain a telephone system in the Province of Agusan and the municipalities and municipal districts thereof, under Republic Act Numbered Seven hundred fifty-seven, in favor of Marcela S. Aquino, together with all the property and equipment acquired thereunder.
 
 ## Section 2
 

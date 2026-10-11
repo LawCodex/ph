@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Animal Industry, a livestock breeding station in Barrio Laoac, Municipality of Manaoag, Province of Pangasinan, which shall serve the western barrios of the Municipality of Binalonan, northern barrios of the Municipality of Urdaneta, and Municipality of Manaoag, all municipalities in the Province of Pangasinan.1âшphi1
+There shall be established under the direct supervision of the Director of Animal Industry, a livestock breeding station in Barrio Laoac, Municipality of Manaoag, Province of Pangasinan, which shall serve the western barrios of the Municipality of Binalonan, northern barrios of the Municipality of Urdaneta, and Municipality of Manaoag, all municipalities in the Province of Pangasinan.
 
 ## Section 2
 

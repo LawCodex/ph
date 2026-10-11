@@ -70,7 +70,7 @@ _Local Civil Defense Organizations._ -(a) The organization, functions and respon
 
 (3) The provincial governor of each province shall be responsible for the direction, supervision and coordination of civil defense planning, operations and activities within his province, except in chartered cities. For this purpose, he shall be designated as the Provincial Civil Defense Director.
 
-(4) The basic operating units for civil defense shall be the municipalities and cities.1âшphi1 Each municipality an chartered city shall organize and maintain its own local civil defense organization, with the municipal or city mayor as the Municipal Civil Defense Director or his particular municipality or city.
+(4) The basic operating units for civil defense shall be the municipalities and cities. Each municipality an chartered city shall organize and maintain its own local civil defense organization, with the municipal or city mayor as the Municipal Civil Defense Director or his particular municipality or city.
 
 (5) The Municipal Civil Defense Director, under the direction and supervision of the Provincial Civil Defense Director in the case of municipalities, shall be responsible for—
 

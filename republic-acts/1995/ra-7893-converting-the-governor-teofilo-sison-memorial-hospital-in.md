@@ -36,7 +36,7 @@ the Secretary of Health shall issue such rules and regulations as may be necessa
 
 ## Section 3
 
-the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 4
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-March 26 of every year is hereby declared a special nonworking holiday in the Municipality of Talisay, Province of Cebu.1âшphi1
+March 26 of every year is hereby declared a special nonworking holiday in the Municipality of Talisay, Province of Cebu.
 
 ## Section 2
 

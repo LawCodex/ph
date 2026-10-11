@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of Valenzuela Medical Center in the City of Valenzuela shall be increased from two hundred (200) to five hundred (500) beds.1âшphi1 The increase in the bed capacity shall be implemented consistent with the development plan of the hospital.
+The bed capacity of Valenzuela Medical Center in the City of Valenzuela shall be increased from two hundred (200) to five hundred (500) beds. The increase in the bed capacity shall be implemented consistent with the development plan of the hospital.
 
 ## Section 2
 

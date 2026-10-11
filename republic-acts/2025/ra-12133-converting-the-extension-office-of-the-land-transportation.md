@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Land Transportation Office (LTO) Extension Office in the Municipality of Naguilian, Province of La Union, is hereby converted into a "Class D" district office, to be known as the LTO District Office of Naguilian.ℒαwρhi৷
+The Land Transportation Office (LTO) Extension Office in the Municipality of Naguilian, Province of La Union, is hereby converted into a "Class D" district office, to be known as the LTO District Office of Naguilian.
 
 ## Section 2
 

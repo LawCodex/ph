@@ -34,7 +34,7 @@ _Conversion into a National High School._ \- The San Isidro High School in Baran
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the San Isidro High School are hereby transferred to and absorbed by the San Isidro National High School.1avvphi1
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the San Isidro High School are hereby transferred to and absorbed by the San Isidro National High School.
 
 ## Section 3
 

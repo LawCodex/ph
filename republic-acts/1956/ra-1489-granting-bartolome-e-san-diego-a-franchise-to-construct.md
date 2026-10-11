@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted Bartolome E. San Diego, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Manila, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission or its legal successor.1avvphi11âшphi1
+Subject to the conditions imposed by this Act, there is hereby granted Bartolome E. San Diego, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Manila, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission or its legal successor.
 
 ## Section 2
 

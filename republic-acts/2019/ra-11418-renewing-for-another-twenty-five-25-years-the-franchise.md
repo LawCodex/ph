@@ -50,7 +50,7 @@ Public service time referred herein shall be equivalent to a maximum aggregate o
 
 _Right of the Government._ — The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
 
-A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.1âшphi1
+A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
 
 ## Section 6
 
@@ -74,7 +74,7 @@ _Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ — The 
 
 ## Section 11
 
-_Dispersal of Ownership._ — In accordance with the Constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) or a higher percentage that may hereafter be provided by law of its outstanding capital stock in any securities exchange in the Philippines within five (5) years from the commencement of its operations: Provided, That in cases where public offer of shares is not applicable, the grantee shall apply other methods of encouraging public participation by citizens and corporations operating public utilities as allowed by law. Noncompliance therewith shall render the franchise ipso facto revoked.1âшphi1
+_Dispersal of Ownership._ — In accordance with the Constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) or a higher percentage that may hereafter be provided by law of its outstanding capital stock in any securities exchange in the Philippines within five (5) years from the commencement of its operations: Provided, That in cases where public offer of shares is not applicable, the grantee shall apply other methods of encouraging public participation by citizens and corporations operating public utilities as allowed by law. Noncompliance therewith shall render the franchise ipso facto revoked.
 
 ## Section 12
 

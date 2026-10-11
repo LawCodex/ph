@@ -28,7 +28,7 @@ Subject to the conditions imposed by this Act, there is hereby granted to Ruben 
 
 ## Section 2
 
-Said grantee shall manufacture and supply ice up to the limit of the capacity of their plant, said limit to be determined by the Public Service Commission or its legal successor.1âшphi1
+Said grantee shall manufacture and supply ice up to the limit of the capacity of their plant, said limit to be determined by the Public Service Commission or its legal successor.
 
 ## Section 3
 

@@ -36,7 +36,7 @@ The faculty and employees of the Victorino Salcedo National High School, as well
 
 ## Section 3
 
-The Chairperson of the Commission on Higher Education is hereby directed to take such steps as are necessary for the immediate conversion and operation of the College.1aшphi1
+The Chairperson of the Commission on Higher Education is hereby directed to take such steps as are necessary for the immediate conversion and operation of the College.
 
 ## Section 4
 

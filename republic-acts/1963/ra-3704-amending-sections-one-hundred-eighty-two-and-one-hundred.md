@@ -53,6 +53,6 @@ The first paragraph of Section one hundred and eighty-nine of the National Inter
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 22, 1963.

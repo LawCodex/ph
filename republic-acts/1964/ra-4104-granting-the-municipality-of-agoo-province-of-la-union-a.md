@@ -29,7 +29,7 @@ The Municipality of Agoo, Province of La Union, is hereby granted a franchise fo
 
 ## Section 2
 
-The Municipality of Agoo, Province of La Union, is hereby granted under this franchise the right, privilege and authority to construct, maintain and operate an electric system for the distribution of light, heat and power to the inhabitants, business establishments and industries in the Municipality of Agoo, Province of La Union, and other areas not yet supplied by electric light, heat and power.1âшphi1
+The Municipality of Agoo, Province of La Union, is hereby granted under this franchise the right, privilege and authority to construct, maintain and operate an electric system for the distribution of light, heat and power to the inhabitants, business establishments and industries in the Municipality of Agoo, Province of La Union, and other areas not yet supplied by electric light, heat and power.
 
 ## Section 3
 

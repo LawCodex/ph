@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Public Schools a school of fisheries to be situated in Paraoir, La Union, to be known as the Northwestern Luzon School of Fisheries.1âшphi1 The Director of Public Schools shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purposes of this Act. Said Director shall also require the necessary site for the school.
+There shall be established under the direct supervision of the Director of Public Schools a school of fisheries to be situated in Paraoir, La Union, to be known as the Northwestern Luzon School of Fisheries. The Director of Public Schools shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purposes of this Act. Said Director shall also require the necessary site for the school.
 
 ## Section 2
 

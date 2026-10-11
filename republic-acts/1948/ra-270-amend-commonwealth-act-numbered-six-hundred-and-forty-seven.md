@@ -30,6 +30,6 @@ Section one paragraph (a), of Commonwealth Act Numbered Six hundred and forty-se
 
 ## Section 2
 
-This Act shall take effect upon its approval.(awÞhi(
+This Act shall take effect upon its approval.
 
 Approved: June 15, 1948.

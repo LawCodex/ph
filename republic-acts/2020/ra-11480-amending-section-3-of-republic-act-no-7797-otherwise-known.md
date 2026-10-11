@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section 3 of Republic Act No. 7797, otherwise known as "An act to lengthen the school calendar from two hundred (200) days to not more than two hundred twenty (220) class days", is hereby amended to read as follows:
 
-"**Section 3.** _Start of the School Year._ \- The school year shall start on the first Monday of June but not later than the last day of August: _Provided,_ That in the event of a declaration of a state of emergency or state of calamity, the President, upon the recommendation of the Secretary of Education, may set different date for the start of the school year in the country or parts thereof.ℒαwρhi৷
+"**Section 3.** _Start of the School Year._ \- The school year shall start on the first Monday of June but not later than the last day of August: _Provided,_ That in the event of a declaration of a state of emergency or state of calamity, the President, upon the recommendation of the Secretary of Education, may set different date for the start of the school year in the country or parts thereof.
 
 Notwithstanding, the provision of any law to the contrary, the deferred school opening shall apply yo all basic education schools, including foreign or international schools.
 

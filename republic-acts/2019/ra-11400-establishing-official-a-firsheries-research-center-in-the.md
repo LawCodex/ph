@@ -33,7 +33,7 @@ There shall be established, under the supervision of the Bureau of Fisheries and
 
 ## Section 2
 
-The Secretary of Agriculture shall include in the Department's programs the establishment of the fisheries and aquatic resources center, the funding of which shall be included in the annual General Appropriations Act. The local govenrment of Abulug shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the center.ℒαwρhi৷
+The Secretary of Agriculture shall include in the Department's programs the establishment of the fisheries and aquatic resources center, the funding of which shall be included in the annual General Appropriations Act. The local govenrment of Abulug shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the center.
 
 ## Section 3
 

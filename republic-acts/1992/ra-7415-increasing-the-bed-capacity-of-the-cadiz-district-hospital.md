@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Cadiz District Hospital is hereby expanded and improved by increasing the bed capacity from a twenty-five-bed to a one hundred-bed capacity district hospital under the supervision of the Department of Health.1âшphi1
+The Cadiz District Hospital is hereby expanded and improved by increasing the bed capacity from a twenty-five-bed to a one hundred-bed capacity district hospital under the supervision of the Department of Health.
 
 ## Section 2
 

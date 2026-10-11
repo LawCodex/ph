@@ -29,7 +29,7 @@ Subject to the terms and conditions established in this Act and in Commonwealth 
 
 ## Section 2
 
-The grantee shall manufacture and supply ice up to the limit of the capacity of its plant, said limit to be determined by the Public Service Commission and sell the same at rates to be determined by the said Commission.1âшphi1
+The grantee shall manufacture and supply ice up to the limit of the capacity of its plant, said limit to be determined by the Public Service Commission and sell the same at rates to be determined by the said Commission.
 
 ## Section 3
 

@@ -37,7 +37,7 @@ This temporary permit shall continue to be in force during the time that the Gov
 
 ## Section 4
 
-The grantee, its successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, maintain and operate in such places within the Philippines as the interest of the company and of its trade and business may justify.1a⍵⍴h!1
+The grantee, its successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, maintain and operate in such places within the Philippines as the interest of the company and of its trade and business may justify.
 
 ## Section 5
 

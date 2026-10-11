@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Makati Broadcasting Company, Inc., its successors or assigns and hereunder referred to as the grantee, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest radio broadcasting stations within the Philippines with the corresponding technological auxiliaries or facilities, special broadcast and other program and distribution services and relay stations, and to install radio communication facilities for the grantee's private use in its broadcast services.1aшphi1
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Makati Broadcasting Company, Inc., its successors or assigns and hereunder referred to as the grantee, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest radio broadcasting stations within the Philippines with the corresponding technological auxiliaries or facilities, special broadcast and other program and distribution services and relay stations, and to install radio communication facilities for the grantee's private use in its broadcast services.
 
 ## Section 2
 

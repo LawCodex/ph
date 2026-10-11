@@ -30,7 +30,7 @@ a. The western portion of the barrio of Baay, Municipality of Batac, Province of
 
 b. The central portion of the barrio of Baay, Municipality of Batac, Province of llocos Norte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Baay Centro; and
 
-c. The northern portion of the barrio of Baay, Municipality of Batac, Province of llocos Norte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Baay Norte.1âшphi1
+c. The northern portion of the barrio of Baay, Municipality of Batac, Province of llocos Norte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Baay Norte.
 
 ## Section 2
 

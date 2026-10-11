@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Siasi Central Elementary School in the Municipality of Siasi, Province of Sulu, is hereby to Panglima Julkanain Taup Elementary School.1âшphi1
+The name of Siasi Central Elementary School in the Municipality of Siasi, Province of Sulu, is hereby to Panglima Julkanain Taup Elementary School.
 
 ## Section 2
 

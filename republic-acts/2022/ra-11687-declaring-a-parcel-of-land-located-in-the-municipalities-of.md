@@ -351,7 +351,7 @@ The PASu shall be primarily accountable to the PAMB and the DENR for the managem
 
 (k) Prepare and recommend to the PAMB, approval of the annual work and financial plans of the TPPL based on the management plan; and
 
-(l) Perform such other functions as the PAMB and the DENR may assign.1aшphi1
+(l) Perform such other functions as the PAMB and the DENR may assign.
 
 The PAMO may be augmented by the deputized local environment and natural resources officers upon the recommendation of the PAMB and approval of the DENR.
 
@@ -365,7 +365,7 @@ The PAMB shall retain seventy-five percent (75%) of all revenues raised through 
 
 The fund may be augmented by grants, donations, and endowment from various sources, domestic or foreign: _Provided,_ That the fund shall be deposited in full as a special account in the National treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration and management of the NIPAS and duly approved projects endorsed by the PAMB in accordance with existing accounting, budgeting, and auditing rules and regulations: _Provided, further,_ That the fund shall not be used to cover personal services expenditures.
 
-The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as property business permits, property tax and rentals of LGUs' facilities.1aшphi1
+The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as property business permits, property tax and rentals of LGUs' facilities.
 
 ## ARTICLE IV — TRANSITORY AND MISCELLANEOUS PROVISIONS
 

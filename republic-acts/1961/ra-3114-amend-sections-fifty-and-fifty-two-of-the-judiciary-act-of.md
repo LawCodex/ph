@@ -31,7 +31,7 @@ The thirteenth paragraph of Section fifty and the fourteenth and seventeenth par
 
 x x x x x x x x x
 
-"Fourteen Judges shall be commissioned for the Thirteenth Judicial District. Six judges shall preside over the Court of First Instance of Samar and Calbayog City and shall be known as the judges of the first, second, third, fourth, fifth and sixth branches thereof, respectively; and eight judges shall preside over the Courts of First Instance of Leyte, southern Leyte, and the cities of Ormoc and Tacloban, and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh and eighth branches thereof, respectively.1avvphi1
+"Fourteen Judges shall be commissioned for the Thirteenth Judicial District. Six judges shall preside over the Court of First Instance of Samar and Calbayog City and shall be known as the judges of the first, second, third, fourth, fifth and sixth branches thereof, respectively; and eight judges shall preside over the Courts of First Instance of Leyte, southern Leyte, and the cities of Ormoc and Tacloban, and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh and eighth branches thereof, respectively.
 
 x x x x x x x x x
 

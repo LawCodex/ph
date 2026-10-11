@@ -48,7 +48,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 7
 
-A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, emergency, calamity, disaster or disturbance of peace or order, to cause the closing of said stations or to authorize the temporary use and operation thereof by any department of the Government without compensating the grantee for the use of said stations during the period when they shall be so operated.1âшphi1
+A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, emergency, calamity, disaster or disturbance of peace or order, to cause the closing of said stations or to authorize the temporary use and operation thereof by any department of the Government without compensating the grantee for the use of said stations during the period when they shall be so operated.
 
 ## Section 8
 

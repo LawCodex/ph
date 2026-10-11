@@ -28,6 +28,6 @@ Any provisions in the General Appropriation Act for the fiscal year nineteen hun
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: July 20, 1948.

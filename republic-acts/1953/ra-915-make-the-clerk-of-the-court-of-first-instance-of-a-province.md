@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The clerk of the Court of First Instance of a province shall be ex officio sheriff not only of such province but also of any city, which before conversion to a city, formed part of such province. As ex officio sheriff of a city, such clerk shall receive an additional compensation of not exceeding one thousand two hundred pesos, which shall be fixed by the city council or municipal board and payable from city funds.1a⍵⍴h!1
+The clerk of the Court of First Instance of a province shall be ex officio sheriff not only of such province but also of any city, which before conversion to a city, formed part of such province. As ex officio sheriff of a city, such clerk shall receive an additional compensation of not exceeding one thousand two hundred pesos, which shall be fixed by the city council or municipal board and payable from city funds.
 
 ## Section 2
 

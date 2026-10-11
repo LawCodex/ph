@@ -33,4 +33,4 @@ The name of the Lapuyan Central Elementary School in the Municipality of Lapuyan
 
 This Act shall take effect upon it approval.
 
-Approved, Lapsed into law on September 05, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on September 05, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

@@ -28,6 +28,6 @@ The sitio of Antipolo in the Municipality of San Antonio, Province of Zambales, 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

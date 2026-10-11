@@ -30,7 +30,7 @@ Subject to the terms and conditions established in Act Numbered Thirty-six hundr
 
 ## Section 2
 
-In the event that the grantee shall purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.1avvphi1 In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise, two per centum shall accrue to the National Government and three per centum to the municipal governments of the municipalities where it operates.
+In the event that the grantee shall purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates. In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise, two per centum shall accrue to the National Government and three per centum to the municipal governments of the municipalities where it operates.
 
 ## Section 3
 

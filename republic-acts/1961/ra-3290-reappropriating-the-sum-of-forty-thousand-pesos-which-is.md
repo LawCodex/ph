@@ -28,7 +28,7 @@ The sum of forty thousand pesos which is unexpended balance of fifty thousand pe
 
 "(17) New Public Toilets and Bath, Fourth District—Construction ₱50,000.00"
 
-is hereby reappropriated for the asphalt paving, filling and construction of curbs and gutters of the streets and alleys in Mendoza Estate, Santa Ana, City of Manila.1avvphi1
+is hereby reappropriated for the asphalt paving, filling and construction of curbs and gutters of the streets and alleys in Mendoza Estate, Santa Ana, City of Manila.
 
 ## Section 2
 

@@ -28,9 +28,13 @@ AN ACT CHANGING THE NAME OF POTIA NATIONAL HIGH SCHOOL IN BARANGAY PINTO, MUNICI
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Separation and Conversion into a National High School._** \- The name of Potia National High School in Barangay Pinto, Municipality of Alfonso Lista, Province of Ifugao is hereby changed to Pinto National High School.
+## SECTION 1
 
-**SEC. 2._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+_Separation and Conversion into a National High School._ \- The name of Potia National High School in Barangay Pinto, Municipality of Alfonso Lista, Province of Ifugao is hereby changed to Pinto National High School.
+
+## SEC. 2
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

@@ -42,7 +42,7 @@ The existing professional health care services, facilities and health human reso
 
 ## Section 4
 
-The Secretary of Health shall immediately include in the Department’s programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.1âшphi1
+The Secretary of Health shall immediately include in the Department’s programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the reconstitution of the cadastral survey records for the Province of Lanao del Sur.1âшphi1
+The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the reconstitution of the cadastral survey records for the Province of Lanao del Sur.
 
 ## Section 2
 

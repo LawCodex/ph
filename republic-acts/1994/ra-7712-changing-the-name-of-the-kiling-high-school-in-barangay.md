@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing municipal high school in the Municipality of Jose P. Rizal, Province of Palawan, is hereby converted into a national high school, to be known as the Jose P. Rizal National High School, as separate and distinct from the Narra National High School, including the transfer of the properties thereby.1a⍵⍴h!1
+The existing municipal high school in the Municipality of Jose P. Rizal, Province of Palawan, is hereby converted into a national high school, to be known as the Jose P. Rizal National High School, as separate and distinct from the Narra National High School, including the transfer of the properties thereby.
 
 ## Section 2
 

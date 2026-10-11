@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section 1 of Republic Act No. 9727 is hereby amended to read as follows:
 
-"Section 1. _Legislative Districts._ 1âwphi1 — The Province of Cavite, which shall have eight (8) legislative districts to commence on the next national and local elections after the effectivity of this Act, is hereby reapportioned as follows:
+"Section 1. _Legislative Districts._ — The Province of Cavite, which shall have eight (8) legislative districts to commence on the next national and local elections after the effectivity of this Act, is hereby reapportioned as follows:
 
 FIRST LEGISLATIVE DISTRICT
 
@@ -101,7 +101,7 @@ _Incumbent Representatives._ – The incumbent Representatives of the Sixth and 
 
 ## Section 3
 
-_Rules and Regulations._ – The Commission on Elections shall issue the necessary rules and regulations within thirty (30) days upon the approval of this Act.1âwphi1
+_Rules and Regulations._ – The Commission on Elections shall issue the necessary rules and regulations within thirty (30) days upon the approval of this Act.
 
 ## Section 4
 

@@ -45,9 +45,9 @@ A. Fees payable to the Clerk of Court.— The fees payable to the clerk of court
 
 If the property has not been assessed for taxation, the fees above prescribed shall be based on the current market value, and the applicant shall file with his application a sworn declaration of three disinterested persons that the value fixed by him is to their knowledge a fair valuation.
 
-2\. For filing a petition for review of decree, or other claim adverse to the registered owner, for each petition, six pesos.1aшphi1
+2\. For filing a petition for review of decree, or other claim adverse to the registered owner, for each petition, six pesos.
 
-3\. For filing a petition after the decision has become final, three pesos. If it affects land decreed in more than one case, for each additional case, one peso.1aшphi1 If it affects several lots or parcels of land in which the petitioners have no common interests, each of such petitioners shall pay the corresponding fees as if separate petition has been filed by him.
+3\. For filing a petition after the decision has become final, three pesos. If it affects land decreed in more than one case, for each additional case, one peso. If it affects several lots or parcels of land in which the petitioners have no common interests, each of such petitioners shall pay the corresponding fees as if separate petition has been filed by him.
 
 B. _Fees payable to the Sheriff._ — The sheriff shall collect fees for his services rendered in connection with land registration and cadastral proceedings as follows:
 

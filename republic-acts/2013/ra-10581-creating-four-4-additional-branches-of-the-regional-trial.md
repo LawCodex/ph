@@ -35,7 +35,7 @@ Four (4) additional Regional Trial Court branches for Olongapo City, Zambales, w
 
 ## Section 2
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches.1âwphi1
+The Supreme Court shall assign the respective branch numbers for the newly created branches.
 
 ## Section 3
 

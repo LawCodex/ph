@@ -24,11 +24,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one million pesos for the relief and rehabilitation of the fire victims of the Municipality of Lao-ang, Province of Samar, and for the reconstruction of public works which were destroyed by a fire which occurred in said municipality of March twenty-seven, nineteen hundred sixty-one: _Provided,_ However, That this amount of one million pesos shall be used for widening of streets and reclaiming foreshore lands bordering the Municipality of Lao-ang, Province of Samar.1âшphi1
+There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one million pesos for the relief and rehabilitation of the fire victims of the Municipality of Lao-ang, Province of Samar, and for the reconstruction of public works which were destroyed by a fire which occurred in said municipality of March twenty-seven, nineteen hundred sixty-one: _Provided,_ However, That this amount of one million pesos shall be used for widening of streets and reclaiming foreshore lands bordering the Municipality of Lao-ang, Province of Samar.
 
 ## Section 2
 
-Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, first engineering district, Province of Samar, to undertake and carry out the widening of streets, the reclamation by dredging, filling and/or by other means any foreshore lands bordering the Municipality of Lao-ang, Province of Samar.1avvphi1
+Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, first engineering district, Province of Samar, to undertake and carry out the widening of streets, the reclamation by dredging, filling and/or by other means any foreshore lands bordering the Municipality of Lao-ang, Province of Samar.
 
 ## Section 3
 

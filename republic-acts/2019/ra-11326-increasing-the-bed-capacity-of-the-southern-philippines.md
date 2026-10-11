@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The authorized bed capacity of the Southern Philippines Medical Center (SPMC) is hereby increased from one thousand two hundred (1,200) to one thousand five hundred (1,500) beds.1âшphi1 The increase in bed capacity shall be implemented consistent with the development plan of the hospital.
+The authorized bed capacity of the Southern Philippines Medical Center (SPMC) is hereby increased from one thousand two hundred (1,200) to one thousand five hundred (1,500) beds. The increase in bed capacity shall be implemented consistent with the development plan of the hospital.
 
 ## Section 2
 

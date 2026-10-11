@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In order to commemorate the death anniversary of the 19 martyrs of Aklan, the pioneers of the propaganda campaign of the Katipunan and who were instrumental in the suppression of the atrocities committed towards the patriots of Aklan, the 23rd day of March of every year is hereby declared as a special public holiday in the Province of Aklan.1a⍵⍴h!1
+In order to commemorate the death anniversary of the 19 martyrs of Aklan, the pioneers of the propaganda campaign of the Katipunan and who were instrumental in the suppression of the atrocities committed towards the patriots of Aklan, the 23rd day of March of every year is hereby declared as a special public holiday in the Province of Aklan.
 
 ## Section 2
 

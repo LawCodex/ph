@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Dinagat National High School in the Municipality of Dinagat, Province of Surigao del Norte, is hereby changed to Don Ruben E. Ecleo, Sr. Memorial National High School.1âшphi1
+The name of Dinagat National High School in the Municipality of Dinagat, Province of Surigao del Norte, is hereby changed to Don Ruben E. Ecleo, Sr. Memorial National High School.
 
 ## Section 2
 

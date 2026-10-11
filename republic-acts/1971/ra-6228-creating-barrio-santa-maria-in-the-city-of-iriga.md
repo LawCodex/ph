@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Tubigan, Katungdulan, Bagacay, Sabang, Sampaga, Rao, and Cawayan in Barrio Santa Teresita, City of Iriga, are separated from said Barrio and constituted into a distinct and independent barrio of said city, to be known as Barrio Santa Maria.1âшphi1
+The sitios of Tubigan, Katungdulan, Bagacay, Sabang, Sampaga, Rao, and Cawayan in Barrio Santa Teresita, City of Iriga, are separated from said Barrio and constituted into a distinct and independent barrio of said city, to be known as Barrio Santa Maria.
 
 ## Section 2
 

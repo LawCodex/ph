@@ -36,6 +36,6 @@ All provisions of law, executive orders, administrative orders and resolutions o
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

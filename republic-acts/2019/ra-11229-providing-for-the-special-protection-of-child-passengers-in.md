@@ -112,7 +112,7 @@ _Penalties._ -
 
 (b) Any manufacturer, distributor, importer, retailer, and seller who violates Sections 6 and 7 of this Act shall be punished with a fine of not less than Fifty thousand pesos (₱50,000.00) but not more than One hundred thousand pesos (₱100,000.00) for each and every child restraint system product manufactured, distributed, imported and/or sold, without prejudice to other penalties imposed under Republic Act No. 7394 or the "Consumer Act of the Philippines".
 
-(c) Any driver who allows the use of substandard and/or expired child restraint system or permits the use of child restraint system that does not bear the PS mark or the ICC sticker and certificate, shall be fined One thousand pesos (₱1,000.00) for the first offense; Three thousand pesos (₱3,000.00) for the second offense; and Five thousand pesos (₱5,000.00) and the suspension of the driver’s license for a period of one (1) year for the third and succeeding offenses.1âwphi1
+(c) Any driver who allows the use of substandard and/or expired child restraint system or permits the use of child restraint system that does not bear the PS mark or the ICC sticker and certificate, shall be fined One thousand pesos (₱1,000.00) for the first offense; Three thousand pesos (₱3,000.00) for the second offense; and Five thousand pesos (₱5,000.00) and the suspension of the driver’s license for a period of one (1) year for the third and succeeding offenses.
 
 (d) Tampering, alteration, forgery and imitation of the PS mark or the ICC stickers in the child restraint system shall be punished with a fine of not less than Fifty thousand pesos (₱50,000.00) but not more than One hundred thousand pesos (₱100,000.00), for each and every child restraint system product, without prejudice to other penalties imposed in Republic Act No. 7394 or the "Consumer Act of the Philippines": _Provided,_ That the DOTr is hereby empowered, after publication, to increase or adjust the amounts of the fines prescribed in this section once every five (5) years in the amount not exceeding ten per centum (10%) of existing rates.
 
@@ -156,7 +156,7 @@ _Appropriations._ \- The initial amount necessary for the implementation of this
 
 ## Section 15
 
-_Transitory Clause._ \- Mandatory compliance of this Act shall be enforced only one (1) year after the effectivity of the IRR of this Act.1âwphi1
+_Transitory Clause._ \- Mandatory compliance of this Act shall be enforced only one (1) year after the effectivity of the IRR of this Act.
 
 ## Section 16
 

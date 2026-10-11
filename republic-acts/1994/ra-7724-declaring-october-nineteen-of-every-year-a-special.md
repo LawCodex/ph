@@ -33,7 +33,7 @@ October Nineteen is the Charter Day Anniversary of the City of Bacolod and its c
 
 ## Section 2
 
-October Nineteen of every year is hereby declared a special nonworking public holiday in the City of Bacolod.1a⍵⍴h!1
+October Nineteen of every year is hereby declared a special nonworking public holiday in the City of Bacolod.
 
 ## Section 3
 

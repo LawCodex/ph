@@ -28,7 +28,7 @@ The bed capacity of the Laguna Provincial Hospital located in the Municipality o
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, in addition to the present appropriation for the hospital, for the operation maintenance of the additional beds, as well as for necessary facilities thereof. Thereafter, such sums as may be necessary for the same purpose shall be included in the General Appropriations Act.1âшphi1
+The sum of one hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, in addition to the present appropriation for the hospital, for the operation maintenance of the additional beds, as well as for necessary facilities thereof. Thereafter, such sums as may be necessary for the same purpose shall be included in the General Appropriations Act.
 
 ## Section 3
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of ten million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to provinces in the maintenance of provincial high schools in the capital and other high schools in the municipalities for the fiscal year nineteen hundred sixty-three.1âшphi1 Thereafter, the necessary funds needed for the same purpose shall be included in the annual General Appropriation Acts.1âшphi1
+The sum of ten million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to provinces in the maintenance of provincial high schools in the capital and other high schools in the municipalities for the fiscal year nineteen hundred sixty-three. Thereafter, the necessary funds needed for the same purpose shall be included in the annual General Appropriation Acts.
 
 ## Section 2
 

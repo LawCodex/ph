@@ -73,7 +73,7 @@ _Academic Freedom and Institutional Autonomy._ \- The College shall enjoy academ
 
 _Loan or Transfer of Supplies, Apparatuses, or Equipment, and Detail of Personnel to the College._ \- Heads of national government agencies and instrumentalities may, upon the request of the Board through the President of the SKSU, loan or transfer supplies, apparatuses, or equipment, and detail personnel to the College: _Provided,_ That such loan, transfer or detail shall not be detrimental to public service.
 
-The personnel to be detailed to the College shall perform such duties as may be deemed required by the Dean of the College and the time spent for such duties shall be counted as part of the detailed personnel's regular service.ℒαwρhi৷
+The personnel to be detailed to the College shall perform such duties as may be deemed required by the Dean of the College and the time spent for such duties shall be counted as part of the detailed personnel's regular service.
 
 ## Section 10
 

@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Danao National High School, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Danao National High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

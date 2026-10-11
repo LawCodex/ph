@@ -103,7 +103,7 @@ _Penalty Clause._ – Failure of the grantee to submit the requisite annual repo
 
 ## Section 17
 
-_Equality Clause._ – Any advantage, favor, privilege, exemption, or immunity granted under existing franchises, or which may hereafter be granted for radio and/or television broadcasting, upon prior review and approval of Congress, shall become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: _Provided,_ That the foregoing shall neither apply to nor affect the provisions of broadcasting franchises concerning territory covered by the franchise, or the life span of the franchise, or the type of service authorized by the franchise.1âwphi1
+_Equality Clause._ – Any advantage, favor, privilege, exemption, or immunity granted under existing franchises, or which may hereafter be granted for radio and/or television broadcasting, upon prior review and approval of Congress, shall become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: _Provided,_ That the foregoing shall neither apply to nor affect the provisions of broadcasting franchises concerning territory covered by the franchise, or the life span of the franchise, or the type of service authorized by the franchise.
 
 ## Section 18
 

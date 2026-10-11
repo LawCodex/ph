@@ -206,7 +206,7 @@ Acting as a labor contractor or engaging in the "cabo" system, or otherwise enga
 
 ## Section 22
 
-_Settlement of Disputes._ \- Upon the exhaustion of the conciliation and mediation, all unresolved grievances shall be elevated to the appropriate agency having jurisdiction over the issue.1aшphi1 In cases of independent contractors, any dispute shall be resolved by the trial courts having jurisdiction therein.
+_Settlement of Disputes._ \- Upon the exhaustion of the conciliation and mediation, all unresolved grievances shall be elevated to the appropriate agency having jurisdiction over the issue. In cases of independent contractors, any dispute shall be resolved by the trial courts having jurisdiction therein.
 
 ## Section 23
 

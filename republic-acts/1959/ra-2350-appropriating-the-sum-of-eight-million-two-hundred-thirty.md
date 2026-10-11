@@ -46,7 +46,7 @@ The sum of eight million two hundred thirty-eight thousand three hundred four pe
 <tr>
 <td>For the purchase of textbooks, at ₱225 per class</td>
 <td>792,000</td>
-</tr><cite>1âшphi1</cite>
+</tr>
 <tr>
 <td>For the purchase of furniture and equipment, at ₱200 per class</td>
 <td>704,000</td>

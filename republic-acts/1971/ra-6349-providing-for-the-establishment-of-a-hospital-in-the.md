@@ -28,7 +28,7 @@ There shall be established under the supervision of the Director of Medical Serv
 
 ## Section 2
 
-The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.1âшphi1
+The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
 
 ## Section 3
 

@@ -66,7 +66,7 @@ Section 19 of Republic Act No. 10591 is hereby amended to read as follows:
 
 "The registration of the firearm shall be renewed every five (5) years or ten (10) years, at the option of the licensee, which shall be reckoned from the birthdate of the said licensee, unless sooner revoked or suspended. Failure to renew the registration of the firearm on or before the date of expiration shall cause the revocation of the license of the firearm. The said firearm shall be confiscated or forfeited in favor of the government after due process.
 
-"The failure to renew a license or registration within the periods stated above on two (2) occasions shall cause the perpetual disqualification of the holder of the firearm from applying for any firearm license.ℒαwρhi৷ The application for the renewal of the license or registration may be submitted to the FEO of the PNP within six (6) months before the date of the expiration of such license or registration.
+"The failure to renew a license or registration within the periods stated above on two (2) occasions shall cause the perpetual disqualification of the holder of the firearm from applying for any firearm license. The application for the renewal of the license or registration may be submitted to the FEO of the PNP within six (6) months before the date of the expiration of such license or registration.
 
 ## Section 3
 

@@ -40,7 +40,7 @@ The Province of Apayao shall comprise the present sub-province of Apayao consist
 
 ## Section 4
 
-The provincial capital of the Province of Kalinga shall be Tabuk and that of the Province of Apayao shall be Kabugao.1aшphi1
+The provincial capital of the Province of Kalinga shall be Tabuk and that of the Province of Apayao shall be Kabugao.
 
 ## Section 5
 

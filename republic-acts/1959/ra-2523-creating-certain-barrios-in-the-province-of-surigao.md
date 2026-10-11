@@ -44,7 +44,7 @@ The sitios of Bungan, Salvacion, Mandus and Sabang in the Municipality of Lingig
 
 ## Section 6
 
-The sitios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit in the Municipality of Mainit, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit, respectively.1âшphi1
+The sitios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit in the Municipality of Mainit, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit, respectively.
 
 ## Section 7
 

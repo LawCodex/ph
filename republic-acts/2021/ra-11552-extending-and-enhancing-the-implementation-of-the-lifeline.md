@@ -44,7 +44,7 @@ _Extension of Lifeline Rate._ \- Section 73 of Republic Act No. 9136, otherwise 
 
 "The ERC shall promulgate rules and guidelines for qualified marginalized end-users whose meters or service connections are not registered in their name.
 
-"The ERC shall submit to the Joint Congressional Energy Commission an annual report on the implementation of the lifeline rate.ᇈWᑭHIL To achieve the objective of providing assistance to electricity consumers especially those living below the poverty line and ensure a more equitable distribution of the lifeline subsidy, the ERC shall conduct a comprehensive quantitative and qualitative evaluation of its implementation every two (2) years to include modes of validation and prevention of leakages."
+"The ERC shall submit to the Joint Congressional Energy Commission an annual report on the implementation of the lifeline rate. To achieve the objective of providing assistance to electricity consumers especially those living below the poverty line and ensure a more equitable distribution of the lifeline subsidy, the ERC shall conduct a comprehensive quantitative and qualitative evaluation of its implementation every two (2) years to include modes of validation and prevention of leakages."
 
 ## Section 2
 

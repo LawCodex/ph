@@ -29,7 +29,7 @@ The bed capacity of the Laguna Provincial Hospital in the Municipality of Sta. C
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.1âшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
 
 ## Section 3
 

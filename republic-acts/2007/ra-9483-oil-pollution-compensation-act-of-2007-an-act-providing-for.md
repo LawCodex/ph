@@ -30,11 +30,17 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-**SECTION 1._Short Title._** \- This Act shall be known as the "Oil Pollution Compensation Act of 2007".
+### SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- The State, in the protection of its marine wealth in its archipelagic waters, territorial sea and exclusive economic zone, adopts internationally accepted measures which impose strict liability for Oil Pollution Damage and ensure prompt and adequate compensation for persons who suffer such damage. This Act adopts and implements the provisions of the 1992 International Convention on Civil Liability for Oil Pollution Damage and the 1992 International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage.
+_Short Title._ \- This Act shall be known as the "Oil Pollution Compensation Act of 2007".
 
-**SEC. 3._Definition of Terms._** \- For the purpose of this Act:
+### SEC. 2
+
+_Declaration of Policy._ \- The State, in the protection of its marine wealth in its archipelagic waters, territorial sea and exclusive economic zone, adopts internationally accepted measures which impose strict liability for Oil Pollution Damage and ensure prompt and adequate compensation for persons who suffer such damage. This Act adopts and implements the provisions of the 1992 International Convention on Civil Liability for Oil Pollution Damage and the 1992 International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage.
+
+### SEC. 3
+
+_Definition of Terms._ \- For the purpose of this Act:
 
 (a) "1992 Civil Liability Convention" means the 1992 International Convention on Civil Liability for Oil Pollution Damage;
 
@@ -76,13 +82,17 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (p) "Subsidiary Corporation" means a corporation in which control, in the form of ownership of majority shares, is in another corporation, called the parent corporation.
 
-**SEC. 4._Incorporation of the 1992 Civil Liability Convention and 1992 Fund Convention._** \- Subject to the provisions of this Act, the 1992 Civil Liability Convention and 1992 Fund Convention and their subsequent amendments shall form part of the law of the Republic of the Philippines.
+### SEC. 4
+
+_Incorporation of the 1992 Civil Liability Convention and 1992 Fund Convention._ \- Subject to the provisions of this Act, the 1992 Civil Liability Convention and 1992 Fund Convention and their subsequent amendments shall form part of the law of the Republic of the Philippines.
 
 **SEC. 5 _Scope of Application._** \- This law shall apply exclusively to Pollution Damage caused in Philippine territory, including its territorial sea and its exclusive economic zone, and to preventive measures, wherever taken, to prevent or minimize such damage.
 
 ## CHAPTER II — STRICT LIABILITY FOR OIL POLLUTION DAMAGE
 
-**SEC. 6._Liability on Pollution Damage._** \- The Owner of the Ship at the time of an Incident, or where the Incident consists of a series of occurrences, at the time of the first such occurrence, shall be liable for any Pollution Damage caused by the Ship as a result of the Incident. Such damages shall include, but not limited to:
+### SEC. 6
+
+_Liability on Pollution Damage._ \- The Owner of the Ship at the time of an Incident, or where the Incident consists of a series of occurrences, at the time of the first such occurrence, shall be liable for any Pollution Damage caused by the Ship as a result of the Incident. Such damages shall include, but not limited to:
 
 (a) Reasonable expenses actually incurred in clean-up operations at sea or on shore;
 
@@ -96,7 +106,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (f) Environmental damages and other reasonable measures of environmental restoration.
 
-**SEC. 7._Exempting Circumstances._** \- No liability as stated in the immediately preceding section shall attach to the Owner or his insurer if he proves that the damage:
+### SEC. 7
+
+_Exempting Circumstances._ \- No liability as stated in the immediately preceding section shall attach to the Owner or his insurer if he proves that the damage:
 
 (a) Resulted from an act of war, hostilities, civil war, insurrection or a natural phenomenon of an exceptional, inevitable and irresistible character;
 
@@ -104,7 +116,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (c) Was wholly caused by the negligence or other wrongful act of the government or other enforcement agencies responsible for the maintenance of lights or other navigational aids in the exercise of that function. If the Owner proves that the Pollution Damage resulted wholly or partially either from an act or omission done with intent to cause damage by the person who suffered the damage or from the negligence of that person, the Owner may be exonerated wholly or partially from his liability to such person.
 
-**SEC. 8._Persons Exempted from Claims for Compensation for Pollution Damage._** \- No claim for compensation Pollution Damage under this Act may be made against:
+### SEC. 8
+
+_Persons Exempted from Claims for Compensation for Pollution Damage._ \- No claim for compensation Pollution Damage under this Act may be made against:
 
 (a) The servants or agents of the Owner or the members of the crew;
 
@@ -118,11 +132,15 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (f) All servants or agents of persons mentioned in paragraphs (c) , (d) and (e) hereof, unless the damage resulted from their personal act or omission, committed with the intent to cause such damage, or committed recklessly and with knowledge that such damage would probably result: _Provided_ , That nothing in this Act shall prejudice any right of recourse of the Owner against third parties.
 
-**SEC. 9._Joint and Several Liability._** \- When an Incident involving two or more Ships occurs and Pollution Damage results therefrom, the Owners of all the Ships concerned, unless exonerated under Section 7 hereof, shall be jointly and severally liable for all such damage which is not reasonably separable, without prejudice, however, to the right of recourse of any of such Owners to proceed against each other or third parties.
+### SEC. 9
+
+_Joint and Several Liability._ \- When an Incident involving two or more Ships occurs and Pollution Damage results therefrom, the Owners of all the Ships concerned, unless exonerated under Section 7 hereof, shall be jointly and severally liable for all such damage which is not reasonably separable, without prejudice, however, to the right of recourse of any of such Owners to proceed against each other or third parties.
 
 ## CHAPTER III — SYSTEM OF LIMITATION OF LIABILITY
 
-**SEC. 10._Limitation of Liability._** \- The Owner shall be entitled to limit his liability under this Act with respect to a particular Incident to a total amount calculated as follows:
+### SEC. 10
+
+_Limitation of Liability._ \- The Owner shall be entitled to limit his liability under this Act with respect to a particular Incident to a total amount calculated as follows:
 
 (a) Three million (3,000,000) units of account for a Ship not exceeding five thousand (5,000) units of tonnage;
 
@@ -136,15 +154,21 @@ The "unit of account" referred to in this Section is the Special Drawing Right (
 
 The SDR is an international reserve asset, created by the IMF in 1969 to supplement the existing official reserves of member countries. SDRs are allocated to member countries in proportion to their IMF quotas. The SDR also serves as the unit of account of the IMF and some other international organizations. Its value is based on a basket of key international currencies.
 
-**SEC. 11._Constitution of a fund._** \- For the purpose of availing himself of the benefit of limitation _provided_ for under Section 10 of this Act following the occurrence of a particular Incident, the Owner shall be required to constitute a fund for the total sum representing the limit of his liability with the Maritime Industry Authority (MARINA) to cover Incidents causing Pollution Damage: _Provided_ That any claim for compensation from Pollution Damage shall be brought directly to the Regional Trial Courts (RTC) .
+### SEC. 11
+
+_Constitution of a fund._ \- For the purpose of availing himself of the benefit of limitation _provided_ for under Section 10 of this Act following the occurrence of a particular Incident, the Owner shall be required to constitute a fund for the total sum representing the limit of his liability with the Maritime Industry Authority (MARINA) to cover Incidents causing Pollution Damage: _Provided_ That any claim for compensation from Pollution Damage shall be brought directly to the Regional Trial Courts (RTC) .
 
 The fund can be constituted by depositing the sum or by producing a bank guarantee or other financial guarantee acceptable under existing laws and considered to be adequate by the Department of Transportation and Communications (DOTC) .
 
 ## CHAPTER IV — SYSTEM OF COMPULSORY INSURANCE AND CERTIFICATION
 
-**SEC. 12._Maintenance of Compulsory Insurance or Other Financial Security._** \- AU Owners shall be required annually by the MARINA to maintain insurance or other financial security for Pollution Damage in the sums fixed by applying the limits of liability under Section 10 of this Act.
+### SEC. 12
 
-**SEC. 13._Issuance of a Certificate._** \- A certificate attesting that an insurance or any other financial security is in force in accordance with the provisions of this Act shall be issued to each Ship carrying more than two thousand (2,000) tons of Oil in bulk as cargo by the MARINA. With respect to a Ship not registered in a convention-member State, such certificate may be issued or certified by the MARINA. This certificate shall be in the form established by the 1992 Civil Liability Convention and shall contain the following particulars:
+_Maintenance of Compulsory Insurance or Other Financial Security._ \- AU Owners shall be required annually by the MARINA to maintain insurance or other financial security for Pollution Damage in the sums fixed by applying the limits of liability under Section 10 of this Act.
+
+### SEC. 13
+
+_Issuance of a Certificate._ \- A certificate attesting that an insurance or any other financial security is in force in accordance with the provisions of this Act shall be issued to each Ship carrying more than two thousand (2,000) tons of Oil in bulk as cargo by the MARINA. With respect to a Ship not registered in a convention-member State, such certificate may be issued or certified by the MARINA. This certificate shall be in the form established by the 1992 Civil Liability Convention and shall contain the following particulars:
 
 (a) Name of Ship and port of registration;
 
@@ -156,7 +180,9 @@ The fund can be constituted by depositing the sum or by producing a bank guarant
 
 (e) Validity period of the certificate which shall not be longer than the period of validity of the insurance or other financial security.
 
-**SEC. 14._Enforcement._** \- Ship carrying more than two thousand (2,000) tons of Oil in bulk as cargo shall not be allowed entry into Philippine territory or its exclusive economic zone without a valid certificate of insurance or financial security for Pollution Damage required by this Act.
+### SEC. 14
+
+_Enforcement._ \- Ship carrying more than two thousand (2,000) tons of Oil in bulk as cargo shall not be allowed entry into Philippine territory or its exclusive economic zone without a valid certificate of insurance or financial security for Pollution Damage required by this Act.
 
 For this purpose, the PPA or any other port authorities shall deny port services to said Ship without such certificate.
 
@@ -168,7 +194,9 @@ The PCG shall conduct inspections of certificates of Ships entering the territor
 
 ## CHAPTER V — CONTRIBUTION TO THE INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
-**SEC. 15._Contributions to the International Oil Pollution Compensation (IOPC) Fund._** \- Any person who has received more than one hundred fifty thousand (150,000) tons of contributing Oil in a calendar year in all ports or terminal installations in the Philippines through carriage by sea, shall pay contributions to the International Oil Pollution Compensation (IOPC) Fund in accordance with the provisions of the 1992 Fund Convention.
+### SEC. 15
+
+_Contributions to the International Oil Pollution Compensation (IOPC) Fund._ \- Any person who has received more than one hundred fifty thousand (150,000) tons of contributing Oil in a calendar year in all ports or terminal installations in the Philippines through carriage by sea, shall pay contributions to the International Oil Pollution Compensation (IOPC) Fund in accordance with the provisions of the 1992 Fund Convention.
 
 A person shall be deemed to have received contributing Oil, for contribution purposes, if he received the same:
 
@@ -178,11 +206,15 @@ A person shall be deemed to have received contributing Oil, for contribution pur
 
 Where the quantity of contributing Oil received by any person in the Philippines in a calendar year, when aggregated with the quantity of contributing Oil received in the Philippines in that year by its subsidiary or affiliate corporation, exceeds one hundred fifty thousand (150,000) tons, said person, including its subsidiaries, shall pay contributions in respect of the actual quantity received by each, notwithstanding that the actual quantity received by each did not exceed one hundred f a y thousand (150,000) tons.
 
-**SEC. 16._Reporting of Contributing Oil._** \- Any person who, in a calendar year, has received in the territory of the Philippines contributing Oil, as defined in this Act, shall, not later than February 1 of the following year, report to the Department of Energy (DOE) the quantity of such Oil received. The DOE, through the Department of Foreign Affairs, shall communicate the data at a time and in the manner prescribed by the 1992 Fund Convention.
+### SEC. 16
+
+_Reporting of Contributing Oil._ \- Any person who, in a calendar year, has received in the territory of the Philippines contributing Oil, as defined in this Act, shall, not later than February 1 of the following year, report to the Department of Energy (DOE) the quantity of such Oil received. The DOE, through the Department of Foreign Affairs, shall communicate the data at a time and in the manner prescribed by the 1992 Fund Convention.
 
 ## CHAPTER VI — ACTION FOR COMPENSATION
 
-**SEC. 17._Action for Compensation._** \- An action for compensation on account of Pollution Damage resulting from the Incident which occurred in the territory may be brought before the RTC against the following persons:
+### SEC. 17
+
+_Action for Compensation._ \- An action for compensation on account of Pollution Damage resulting from the Incident which occurred in the territory may be brought before the RTC against the following persons:
 
 (a) Owner of the polluting Ship; or
 
@@ -198,17 +230,23 @@ It shall likewise provide the complainant necessary technical evidence or any as
 
 Filing of the action under this section shall only require payment of filing fees equivalent to ten _percentum_ (10%) of the regular rates established therefore by the Supreme Court of the Philippines. However, indigent plaintiff shall be exempt from payment of docket and other lawful fees, and of transcripts of stenographic notes which the court may order to be furnished him. The amount of the docket and other lawful fees which the indigent was exempted from paying shall be a lien on any judgment rendered in the case favorable to the indigent, unless the court otherwise provides.
 
-**SEC. 18._Adjudication or Settlement of Claims._** \- The RTC shall decide claims for compensation or certify the compromise agreement by the parties within a reasonable period.
+### SEC. 18
+
+_Adjudication or Settlement of Claims._ \- The RTC shall decide claims for compensation or certify the compromise agreement by the parties within a reasonable period.
 
 Where compensation was not obtained or satisfied under the 1992 Civil Liability Convention, the claimant may seek compensation under the 1992 Fund Convention. The RTC shall furnish the IOPC Fund with its certified decision, together with pertinent documents, on a claim for Pollution Damages.
 
 Where the fund under the 1992 Civil Liability Convention is insufficient to satisfy the claims of those who are entitled to compensation, the amount of compensation of each claimant shall be distributed _pro rata._
 
-**SEC. 19._Intervention by the IOPC Fund_** \- The IOPC Fund may intervene as a party to any legal proceedings instituted against the Owner of a Ship or his guarantor under Article IX of the 1992 Civil Liability Convention.
+### SEC. 19
+
+_Intervention by the IOPC Fund_ \- The IOPC Fund may intervene as a party to any legal proceedings instituted against the Owner of a Ship or his guarantor under Article IX of the 1992 Civil Liability Convention.
 
 ## CHAPTER VII — PENALTY PROVISIONS
 
-**SEC. 20._Violation of the Act._** \- The following acts shall be considered violations of the Act and the persons responsible shall suffer the corresponding fines:
+### SEC. 20
+
+_Violation of the Act._ \- The following acts shall be considered violations of the Act and the persons responsible shall suffer the corresponding fines:
 
 (a) Any person who fails to institute or maintain insurance or other financial security required under Section 12 of this Act;
 
@@ -254,11 +292,15 @@ Where the fund under the 1992 Civil Liability Convention is insufficient to sati
 
 The fines prescribed in this Section and other sections of this Chapter shall be increased by at least ten percent (10%) every three years to compensate for inflation and to maintain the deterrent function of such fines.
 
-**SEC. 21._Institutional Mechanism._** \- The DOTC shall be the lead implementing agency unless otherwise provided in this Act.
+### SEC. 21
+
+_Institutional Mechanism._ \- The DOTC shall be the lead implementing agency unless otherwise provided in this Act.
 
 ## CHAPTER VIII — FINAL PROVISIONS
 
-**SEC. 22._Oil Pollution Management Fund._** \- An Oil Pollution Management Fund (OPMF) to be administered by the MARINA is hereby established. Said Fund shall be constituted from:
+### SEC. 22
+
+_Oil Pollution Management Fund._ \- An Oil Pollution Management Fund (OPMF) to be administered by the MARINA is hereby established. Said Fund shall be constituted from:
 
 (a) Contributions of Owners and operators of tankers and barges hauling Oil and for petroleum products in Philippine waterways and coast wise shipping routes. During its first year of existence, the Fund shall be constituted by an impost of ten centavos (10c) per liter for every delivery or transshipment of Oil made by tanker barges and tanker haulers. For the succeeding fiscal years, the amount of contribution shall be jointly determined by Marina, other concerned government agencies, and representatives from the Owners of tankers barges, tankers haulers, and Ship hauling Oil and/or petroleum products. In determining the amount of contribution, the purposes for which the fund was set up shall always be considered; and
 
@@ -274,17 +316,27 @@ In no case, however, shall the Fund be used for personal services expenditures e
 
 _Provided_ , That amounts advanced to a responding entity or claimant shall be considered as advances in case of final adjudication/award by the RTC under Section 18 and shall be reimbursed to the Fund.
 
-**SEC. 23._Appropriations._** \- The Secretary of the DOTC shall include in the Department’s program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+### SEC. 23
 
-**SEC. 24._Implementing Rules and Regulations._** \- The DOTC, in coordination with other concerned agencies and sectors, shall, within three months after the effectivity of this Act, promulgate rules and regulations for the effective implementation of this Act. A manual providing for the procedures concerning the enforcement of claims under this Act shall, likewise, be developed within the said period.
+_Appropriations._ \- The Secretary of the DOTC shall include in the Department’s program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+### SEC. 24
+
+_Implementing Rules and Regulations._ \- The DOTC, in coordination with other concerned agencies and sectors, shall, within three months after the effectivity of this Act, promulgate rules and regulations for the effective implementation of this Act. A manual providing for the procedures concerning the enforcement of claims under this Act shall, likewise, be developed within the said period.
 
 The said rules and regulations and manual shall be published in a newspaper of general circulation also within the said period.
 
-**SEC. 25._Separability Clause._** \- In the event that any provision of this Act is declared unconstitutional, the validity of the remainder shall not be affected thereby.
+### SEC. 25
 
-**SEC. 26._Repealing Clause._** \- All laws, decrees, rules and regulations and executive orders contrary to or inconsistent with this Act are hereby repealed or modified accordingly.
+_Separability Clause._ \- In the event that any provision of this Act is declared unconstitutional, the validity of the remainder shall not be affected thereby.
 
-**SEC. 27._Effectivity Clause._** \- This Act shall take effect after the completion of its publication made once a week for three consecutive weeks in at least two newspapers of general circulation.
+### SEC. 26
+
+_Repealing Clause._ \- All laws, decrees, rules and regulations and executive orders contrary to or inconsistent with this Act are hereby repealed or modified accordingly.
+
+### SEC. 27
+
+_Effectivity Clause._ \- This Act shall take effect after the completion of its publication made once a week for three consecutive weeks in at least two newspapers of general circulation.
 
 Approved,
 

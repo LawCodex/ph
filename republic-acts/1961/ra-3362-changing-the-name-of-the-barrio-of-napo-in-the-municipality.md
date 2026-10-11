@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Napo in the Municipality of Dapitan, Province of Zamboanga del Norte, is changed to Bonifacio.1âшphi1
+The name of the barrio of Napo in the Municipality of Dapitan, Province of Zamboanga del Norte, is changed to Bonifacio.
 
 ## Section 2
 

@@ -259,7 +259,7 @@ Section 17 of Republic Act No. 7716 is hereby amended to read as follows:
 
 "(c) The lease or use of sports facilities and equipment by amateur players, as provided under Republic Act No. 6847, except sports facilities and equipment which are exclusively or mainly for the private use of shareholders or members of the club or organization which owns or operates such sports facilities and equipment.
 
-"Prior to their inclusion in the coverage of the value-added tax, the above services shall continue to pay the applicable tax prescribed under the present provisions of the National Internal Revenue Code, as amended.1aшphi1
+"Prior to their inclusion in the coverage of the value-added tax, the above services shall continue to pay the applicable tax prescribed under the present provisions of the National Internal Revenue Code, as amended.
 
 "However, when public interest so requires, the Congress of the Republic of the Philippines, taking into account the impact on prices of goods and services, may, exclude any of the above services from the coverage of the value-added tax: _Provided, however_ , That in the event of the exclusion of any of the above services the existing applicable tax under the provisions of the National Internal Revenue Code, as amended, shall continue to be paid on the service so excluded."
 

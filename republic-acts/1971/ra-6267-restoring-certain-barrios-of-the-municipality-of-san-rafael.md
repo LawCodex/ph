@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The provisions of Republic Act Numbered Fifty-four hundred seventy-one, entitled "An Act creating the Municipality of San Rafael in the Province of Iloilo," to the contrary notwithstanding, the barrios of General Luna, Rizal, Ugasan, San Antonio, and Nueva Lavencion are hereby restored to the Municipality of Barotac Viejo, Province of lloilo, and the Barrio of Omio, to the Municipality of Lemery, same province.1âшphi1
+The provisions of Republic Act Numbered Fifty-four hundred seventy-one, entitled "An Act creating the Municipality of San Rafael in the Province of Iloilo," to the contrary notwithstanding, the barrios of General Luna, Rizal, Ugasan, San Antonio, and Nueva Lavencion are hereby restored to the Municipality of Barotac Viejo, Province of lloilo, and the Barrio of Omio, to the Municipality of Lemery, same province.
 
 ## Section 2
 

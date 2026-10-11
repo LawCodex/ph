@@ -36,7 +36,7 @@ The pertinent portions of Section four of Republic Act Numbered Thirteen hundred
 
 The fifth paragraph of the same section is hereby further amended to read as follows:
 
-"The Secretary of Education, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the President of the University, and the Superintendent of Schools for the Province of Lanao del Sur shall be ex-officio members of the Board. The President of the University shall be elected and his compensation and term of office, any provision of law to the contrary notwithstanding, shall be fixed by the Board of Regents.1âшphi1 The Secretary of Education shall be ex-officio chairman of the Board, but in his absence, the President of the University shall act in his behalf."
+"The Secretary of Education, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the President of the University, and the Superintendent of Schools for the Province of Lanao del Sur shall be ex-officio members of the Board. The President of the University shall be elected and his compensation and term of office, any provision of law to the contrary notwithstanding, shall be fixed by the Board of Regents. The Secretary of Education shall be ex-officio chairman of the Board, but in his absence, the President of the University shall act in his behalf."
 
 ## Section 3
 

@@ -28,7 +28,7 @@ The sum of two hundred and fifty thousand pesos is hereby appropriated out of an
 
 ## Section 2
 
-The regional soil laboratories will undertake all soil analysis and research work in the region, while the provincial soil offices will extend cooperative work to the farmers with a view to solving their soil problems.1awp++i1 The provincial soil offices will also have custody of the official records, gather data and statistics, and give advice and information to the public regarding soils in the province.
+The regional soil laboratories will undertake all soil analysis and research work in the region, while the provincial soil offices will extend cooperative work to the farmers with a view to solving their soil problems. The provincial soil offices will also have custody of the official records, gather data and statistics, and give advice and information to the public regarding soils in the province.
 
 ## Section 3
 

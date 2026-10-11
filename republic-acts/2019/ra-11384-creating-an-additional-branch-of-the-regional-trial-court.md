@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 There is hereby created an additional branch of the Regional Trial Court in the First Judicial Region to be stationed in the Municipality of Asingan, Province of Pangasinan.
 
-The Supreme Court shall assign the branch number of the newly created branch of the Regional Trial Court in the First Judicial Region.1âшphi1
+The Supreme Court shall assign the branch number of the newly created branch of the Regional Trial Court in the First Judicial Region.
 
 ## Section 2
 

@@ -32,7 +32,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ### SECTION 1
 
-__Short Title. — This Act shall be known as the “Naval Architecture Law”.
+Short Title. — This Act shall be known as the “Naval Architecture Law”.
 
 ### SECTION 2
 
@@ -214,7 +214,7 @@ _Integrated and Accredited Professional Organization._ – There shall be one (1
 
 All naval architects whose names appear in the registry book of the Board shall automatically become members of the APO and shall receive all the benefits and privileges appurtenant thereto, upon payment of membership fees and dues. Membership in this APO shall not be a bar to membership in other professional associations, maritime-related or not.
 
-Compliance to CPD programs as promulgated by the Commission shall be one of the requirements for the maintenance of membership in good standing in the APO.1âwphi1
+Compliance to CPD programs as promulgated by the Commission shall be one of the requirements for the maintenance of membership in good standing in the APO.
 
 Failure to maintain membership in good standing with the APO shall be a cause for delisting from the roster of professionals.
 

@@ -24,11 +24,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of three hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the transfer of the Iwahig Penal Colony to a place which shall be chosen by the Director of Prisons with the approval of the Secretary of Justice.1âшphi1 The funds appropriated under this Act shall be released periodically in the following of this Act, one hundred thousand pesos during the fiscal period ending June thirty, nineteen hundred sixty-three, and one hundred thousand pesos during the fiscal period ending June thirty, nineteen hundred sixty-four.
+The sum of three hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the transfer of the Iwahig Penal Colony to a place which shall be chosen by the Director of Prisons with the approval of the Secretary of Justice. The funds appropriated under this Act shall be released periodically in the following of this Act, one hundred thousand pesos during the fiscal period ending June thirty, nineteen hundred sixty-three, and one hundred thousand pesos during the fiscal period ending June thirty, nineteen hundred sixty-four.
 
 ## Section 2
 
-The present site of the Iwahig Penal Colony shall be subdivided into small lots, none of which shall exceed twelve hectares, to be sold on equal yearly installments within a period of ten years; _Provided,_ That the buildings thereon shall also be sold but preference shall be given to the purchaser of the land on which such buildings are constructed; _Provided, further,_ That the proceeds from such sale shall be used for the improvement of penal colonies.1âшphi1
+The present site of the Iwahig Penal Colony shall be subdivided into small lots, none of which shall exceed twelve hectares, to be sold on equal yearly installments within a period of ten years; _Provided,_ That the buildings thereon shall also be sold but preference shall be given to the purchaser of the land on which such buildings are constructed; _Provided, further,_ That the proceeds from such sale shall be used for the improvement of penal colonies.
 
 ## Section 3
 

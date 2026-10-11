@@ -33,7 +33,7 @@ The Secretary of Education shall issue such rules and regulations as may be nece
 
 ## Section 3
 
-There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of thirty thousand pesos for the establishment, operation, and maintenance of said school during the fiscal year nineteen hundred and sixty-five.1âшphi1 Thereafter, such sums as may be needed for the operation and maintenance shall be included in the annual General Appropriations Act.
+There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of thirty thousand pesos for the establishment, operation, and maintenance of said school during the fiscal year nineteen hundred and sixty-five. Thereafter, such sums as may be needed for the operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

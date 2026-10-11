@@ -33,7 +33,7 @@ The Dalanao Elementary School - Dabbarub-Dalanao Extension in Barangay Bacarri, 
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Dalanao Elementary School - Dabbarub-Dalanao Extension are hereby transferred to and absorbed by the Wellie Maclinic Elementary School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Dalanao Elementary School - Dabbarub-Dalanao Extension are hereby transferred to and absorbed by the Wellie Maclinic Elementary School.
 
 ## Section 3
 

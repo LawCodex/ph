@@ -56,7 +56,7 @@ _Term of Franchise._ – This franchise shall be in effect for a period of twent
 
 ## Section 7
 
-_Acceptance and Compliance._ – Acceptance of this franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity to this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.ℒαwρhi৷
+_Acceptance and Compliance._ – Acceptance of this franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity to this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 
 ## Section 8
 

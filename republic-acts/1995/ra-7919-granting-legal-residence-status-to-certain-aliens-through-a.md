@@ -56,7 +56,7 @@ In lieu thereof, the filing of registration forms may be done in five (5) sets w
 
 In lieu of the above installment payments, the applicant may immediately pay Two hundred thousand pesos (P200,000) .
 
-A single payment of Fifty thousand pesos (P50,000) for the spouse and Twenty-five thousand pesos (P25,000) for each legitimate child below eighteen (18) years of age.1aшphi1
+A single payment of Fifty thousand pesos (P50,000) for the spouse and Twenty-five thousand pesos (P25,000) for each legitimate child below eighteen (18) years of age.
 
 Children born after June 30, 1992 of parents who received the benefits of this Act shall, upon proper registration with the Bureau of Immigration, become legal residents.
 
@@ -96,7 +96,7 @@ _Compliance Report and Oversight Functions._ \- The Bureau of Immigration shall 
 
 ## Section 12
 
-_Perjury._ \- The registration forms, together with the proof required therein, shall be supported by affidavits of two (2) Filipino citizens of good reputation in the applicant's place of residence.1aшphi1
+_Perjury._ \- The registration forms, together with the proof required therein, shall be supported by affidavits of two (2) Filipino citizens of good reputation in the applicant's place of residence.
 
 All applications shall be under oath or affirmation, which oath or affirmation shall be required for their registration. Applicants who violate their oath or affirmation by knowingly making untruthful statements on any material matter in their applications shall be liable for perjury under the Revised Penal Code.
 

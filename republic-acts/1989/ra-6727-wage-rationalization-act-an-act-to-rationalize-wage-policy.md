@@ -266,9 +266,13 @@ c) Workers and employees in new business enterprises outside the National Capita
 
 d) Workers and employees receiving a basic wage of more than P100.00 per day.
 
-**Section 2._Effectivity._** — The Act takes effect on July 1, 1989, 15 days following its complete publication in two newspapers of general circulation on June 15, 1989 pursuant to Section 15 thereof.
+### Section 2
 
-**Section 3._Amount of Minimum Wage Increase._** — Effective July 1, 1989, the daily statutory minimum wage rates of covered workers and employees shall be increased as follows:
+_Effectivity._ — The Act takes effect on July 1, 1989, 15 days following its complete publication in two newspapers of general circulation on June 15, 1989 pursuant to Section 15 thereof.
+
+### Section 3
+
+_Amount of Minimum Wage Increase._ — Effective July 1, 1989, the daily statutory minimum wage rates of covered workers and employees shall be increased as follows:
 
 a) P25.00 for those in the National Capital Region;
 
@@ -286,7 +290,9 @@ b) P25.00 for those outside the National Capital Region, except for the followin
 
 4\. Business enterprises with a capitalization of not more than P500,000 and employing not more than 20 workers.
 
-**Section 4._When Wage Increase Due Other Workers_**. —
+### Section 4
+
+_When Wage Increase Due Other Workers_. —
 
 a) All workers and employees who, prior to July 1, 1989, were already receiving a basic wage above the statutory minimum wage rates provided under Republic Act 6640 but not over P100.00 per day shall receive a wage increase equivalent to that provided in the preceding Section.
 
@@ -302,7 +308,9 @@ b) Those receiving not more than the following monthly wage rates prior to July 
 
 c) Workers and employees who, prior to July 1, 1989, were receiving a basic wage of more than P100.00 per day or its monthly equivalent, are not by law entitled to the wage increase provided under the Act. They may, however, receive wage increases through the correction of wage distortions in accordance with Section 16, Chapter 1 of this Rules.
 
-**Section 5._Daily Statutory Minimum Wage Rates._** — The daily statutory minimum wage rates of workers and employees shall be as follows:
+### Section 5
+
+_Daily Statutory Minimum Wage Rates._ — The daily statutory minimum wage rates of workers and employees shall be as follows:
 
 Under RA 6640 Under RA 6727
 
@@ -426,7 +434,9 @@ of not more than 150,000
 
 Employing more than 10 workers 60.00 75.00
 
-**Section 6._Suggested Formula in Determining the Equivalent Monthly Statutory Minimum Wage Rates._** — Without prejudice to existing company practices, agreements or policies, the following formula may be used as guides in determining the equivalent monthly statutory minimum wage rates:
+### Section 6
+
+_Suggested Formula in Determining the Equivalent Monthly Statutory Minimum Wage Rates._ — Without prejudice to existing company practices, agreements or policies, the following formula may be used as guides in determining the equivalent monthly statutory minimum wage rates:
 
 a) For those who are required to work everyday including Sundays or rest days, special days and regular holidays:
 
@@ -454,15 +464,21 @@ Note: For workers whose rest days fall on Sundays, the number of rest days in a 
 
 Nothing herein shall be construed as authorizing the reduction of benefits granted under existing agreements or employer practices/policies.
 
-**Section 7._Basis of Minimum Wage Rates._** — The statutory minimum wage rates prescribed under the Act shall be for the normal working hours, which shall not exceed eight hours of work a day.
+### Section 7
 
-**Section 8._Credible Wage Increase._** —
+_Basis of Minimum Wage Rates._ — The statutory minimum wage rates prescribed under the Act shall be for the normal working hours, which shall not exceed eight hours of work a day.
+
+### Section 8
+
+_Credible Wage Increase._ —
 
 a) No wage increase shall be credited as compliance with the increases prescribed under the Act unless expressly provided under collective bargaining agreements, and, such wage increase was granted not earlier than April 1, 1989 but not later than July 1, 1989. Where the wage increase granted is less than the prescribed increase under the Act, the employer shall pay the difference.
 
 b) Anniversary wage increase provided in collective agreements, merit wage increase, and those resulting from the regularization or promotion of employees shall not be credited as compliance thereto.
 
-**Section 9._Workers Paid by Results._** —
+### Section 9
+
+_Workers Paid by Results._ —
 
 a) All workers paid by results, including those who are paid on piecework, takay, pakyaw, or task basis, shall receive not less than the applicable statutory minimum wage rates prescribed under the Act for the normal working hours which shall not exceed eight hours work a day, or a proportion thereof for work of less than the normal working hours.
 
@@ -478,13 +494,19 @@ The adjusted minimum wage rates for workers paid by results shall be computed in
 
 b) The wage rates of workers who are paid by results shall continue to be established in accordance with Article 101 of the Labor Code, as amended and its implementing regulations.
 
-**Section 10._Wages of Special Groups of Workers._** — Wages of apprentices, learners and handicapped workers shall in no case be less than 75 percent of the applicable statutory minimum wage rates.
+### Section 10
+
+_Wages of Special Groups of Workers._ — Wages of apprentices, learners and handicapped workers shall in no case be less than 75 percent of the applicable statutory minimum wage rates.
 
 All recognized learnership and apprenticeship agreements entered into before July 1, 1989 shall be considered as automatically modified insofar as their wage clauses are concerned to reflect the increases prescribed under the Act.
 
-**Section 11._Application to Contractors._** — In the case of contracts for construction projects and for security, janitorial and similar services, the prescribed wage increases shall be borne by the principals or clients of the construction/service contractors and the contract shall be deemed amended accordingly. In the event, however, that the principal or client fails to pay the prescribed wage rates, the construction/service contractor shall be jointly and severally liable with his principal or client.
+### Section 11
 
-**Section 12._Application to Private Educational Institutions._** — Private educational institutions which increased tuition fees beginning school year 1989-1990 shall comply with the P250.00 per day wage increase prescribed under the Act effective as follows:
+_Application to Contractors._ — In the case of contracts for construction projects and for security, janitorial and similar services, the prescribed wage increases shall be borne by the principals or clients of the construction/service contractors and the contract shall be deemed amended accordingly. In the event, however, that the principal or client fails to pay the prescribed wage rates, the construction/service contractor shall be jointly and severally liable with his principal or client.
+
+### Section 12
+
+_Application to Private Educational Institutions._ — Private educational institutions which increased tuition fees beginning school year 1989-1990 shall comply with the P250.00 per day wage increase prescribed under the Act effective as follows:
 
 a) In cases where the tuition fee increase was effected before the effectivity of the Act, the wage increase shall take effect on July 1, 1989.
 
@@ -492,13 +514,19 @@ b) In cases where the tuition fee increase was effected on or after the effectiv
 
 Beginning school year 1990-1991, all schools shall implement the wage increase regardless of whether or not they have actually increased tuition fees.
 
-**Section 13._Mobile and Branch Workers._** — The statutory minimum wage rates of workers, who by the nature of their work have to travel, shall be those applicable in the domicile or head office of the employer.
+### Section 13
+
+_Mobile and Branch Workers._ — The statutory minimum wage rates of workers, who by the nature of their work have to travel, shall be those applicable in the domicile or head office of the employer.
 
 The minimum wage rates of workers working in branches or agencies of establishments in or outside the National Capital Region shall be those applicable in the place where they are stationed.
 
-**Section 14._Transfer of Personnel._** — The transfer of personnel to areas outside the National Capital Region shall not be a valid ground for the reduction workers transferred to the National Capital Region shall be entitled to the minimum wage rate applicable therein.
+### Section 14
 
-**Section 15._Exemptions._** —
+_Transfer of Personnel._ — The transfer of personnel to areas outside the National Capital Region shall not be a valid ground for the reduction workers transferred to the National Capital Region shall be entitled to the minimum wage rate applicable therein.
+
+### Section 15
+
+_Exemptions._ —
 
 a) The following establishments may be exempted from compliance with the wage increase prescribed under the Act:
 
@@ -512,7 +540,9 @@ b) Whenever an application for exemption has been duly filed with the appropriat
 
 c) In the event that the application for exemption is not granted, the workers and employees shall receive the appropriate compensation due them as provided for under the Act plus interest of one percent per month retroactive to July 1, 1989 or the start of operations whichever is applicable.
 
-**Section 16._Effects on Existing Wage Structure._** — Where the application of the wage increase prescribed herein results in distortions in the wage structure within an establishment which gives rise to a dispute therein, such dispute shall first be settled voluntarily between the parties. In the event of a deadlock, such dispute shall be finally resolved through compulsory arbitration by the regional arbitration branch of the National Labor Relations Commission (NLRC) having jurisdiction over the workplace.
+### Section 16
+
+_Effects on Existing Wage Structure._ — Where the application of the wage increase prescribed herein results in distortions in the wage structure within an establishment which gives rise to a dispute therein, such dispute shall first be settled voluntarily between the parties. In the event of a deadlock, such dispute shall be finally resolved through compulsory arbitration by the regional arbitration branch of the National Labor Relations Commission (NLRC) having jurisdiction over the workplace.
 
 The NLRC shall conduct continuous hearings and decide any dispute arising from wage distortions within twenty calendar days from the time said dispute is formally submitted to it for arbitration.
 
@@ -520,15 +550,23 @@ The pendency of a dispute arising from a wage distortion shall not in any way de
 
 Any issue involving wage distortion shall not be a ground for a strike/lockout.
 
-**Section 17._Complaints for Non-Compliance._** — Complaints for non-compliance with the wage increases prescribed under the Act shall be filed with the Regional Offices of the Department having jurisdiction over the workplace and shall be the subject of enforcement proceedings under Articles 128 and 129 of the Labor Code, as amended.
+### Section 17
 
-**Section 18._Conduct of Inspection by the Department._** — The Department shall conduct inspections of establishments, as often as necessary, to determine whether the workers are paid the prescribed wage rates and other benefits granted by law or any Wage Order. In the conduct of inspection in unionized companies, Department inspectors shall always be accompanied by the president or other responsible officer of the recognized bargaining unit or of any interested union. In the case of non-unionized establishments, a worker representing the workers in the said company shall accompany the inspector.
+_Complaints for Non-Compliance._ — Complaints for non-compliance with the wage increases prescribed under the Act shall be filed with the Regional Offices of the Department having jurisdiction over the workplace and shall be the subject of enforcement proceedings under Articles 128 and 129 of the Labor Code, as amended.
+
+### Section 18
+
+_Conduct of Inspection by the Department._ — The Department shall conduct inspections of establishments, as often as necessary, to determine whether the workers are paid the prescribed wage rates and other benefits granted by law or any Wage Order. In the conduct of inspection in unionized companies, Department inspectors shall always be accompanied by the president or other responsible officer of the recognized bargaining unit or of any interested union. In the case of non-unionized establishments, a worker representing the workers in the said company shall accompany the inspector.
 
 The workers' representative shall have the right to submit his own findings to the Department and to testify on the same if he does not concur with the findings of the labor inspector.
 
-**Section 19._Payment of Wages._** — Upon written petition of the majority of the workers and employees concerned, all private establishments, companies, businesses and other entities with at least twenty-five workers and located within one kilometer radius to a commercial, savings or rural bank, shall pay the wages and other benefits of their workers through any of said banks within the period and in the manner and form prescribed under the Labor Code as amended.
+### Section 19
 
-**Section 20._Duty of Bank._** — Whenever applicable and upon request of a concerned worker or union, the bank through which wages and other benefits are paid shall issue a certification of the record of payment of said wages and benefits of a particular worker or workers for a particular payroll period.
+_Payment of Wages._ — Upon written petition of the majority of the workers and employees concerned, all private establishments, companies, businesses and other entities with at least twenty-five workers and located within one kilometer radius to a commercial, savings or rural bank, shall pay the wages and other benefits of their workers through any of said banks within the period and in the manner and form prescribed under the Labor Code as amended.
+
+### Section 20
+
+_Duty of Bank._ — Whenever applicable and upon request of a concerned worker or union, the bank through which wages and other benefits are paid shall issue a certification of the record of payment of said wages and benefits of a particular worker or workers for a particular payroll period.
 
 ## CHAPTER II — The National Wages and Productivity Commission and Regional Tripartite Wages and Productivity Boards
 
@@ -536,7 +574,9 @@ The workers' representative shall have the right to submit his own findings to t
 
 _Commission._ — The National Wages and Productivity Commission created under the Act shall hold office in the National Capital Region. The Commission shall be attached to the Department for policy and program coordination.
 
-**Section 2._Powers and Functions of the Commission._** — The Commission shall have the following powers and functions:
+### Section 2
+
+_Powers and Functions of the Commission._ — The Commission shall have the following powers and functions:
 
 a) To act as the national consultative and advisory body to the President of the Philippines and Congress on matters relating to wages, incomes and productivity;
 
@@ -556,17 +596,25 @@ h) To call, from time to time, a national tripartite conference of representativ
 
 i) To exercise such powers and functions as may be necessary to implement this Act.
 
-**Section 3._Composition of the Commission._** — The Commission shall be composed of the Secretary as ex-officio Chairman, the Director General of the National Economic and Development Authority (NEDA) as ex-officio Vice-Chairman and two members each from workers and employers sectors who shall be appointed by the President for a term of five years upon recommendation of the Secretary. The recommendees shall be selected from the list of nominees submitted by the workers and employers sectors. The Executive Director of the Commission Secretariat shall also be a member of the Commission.
+### Section 3
+
+_Composition of the Commission._ — The Commission shall be composed of the Secretary as ex-officio Chairman, the Director General of the National Economic and Development Authority (NEDA) as ex-officio Vice-Chairman and two members each from workers and employers sectors who shall be appointed by the President for a term of five years upon recommendation of the Secretary. The recommendees shall be selected from the list of nominees submitted by the workers and employers sectors. The Executive Director of the Commission Secretariat shall also be a member of the Commission.
 
 The members of the Commission representing labor and management shall have the same rank, emoluments, allowances and other benefits as those prescribed by law for labor and management representatives in the Employees Compensation Commission.
 
-**Section 4._Commission Secretariat._** — The Commission shall be assisted by a Secretariat to be headed by an Executive Director and two Deputy Directors, who shall be appointed by the President upon recommendation of the Secretary.
+### Section 4
+
+_Commission Secretariat._ — The Commission shall be assisted by a Secretariat to be headed by an Executive Director and two Deputy Directors, who shall be appointed by the President upon recommendation of the Secretary.
 
 The Executive Director shall have the rank of a Department Assistant Secretary, while the Deputy Directors that of a Bureau Director shall receive the corresponding salary, benefits and other emoluments of the positions.
 
-**Section 5._Regional Tripartite Wages and Productivity Boards._** — The Regional Wages and Productivity Boards created under the Act in all regions, including autonomous regions as may be established by law, shall hold offices in areas where the Regional Offices of the Department are located.
+### Section 5
 
-**Section 6._Powers and Functions of the Boards._** — The Boards shall have the following powers and functions:
+_Regional Tripartite Wages and Productivity Boards._ — The Regional Wages and Productivity Boards created under the Act in all regions, including autonomous regions as may be established by law, shall hold offices in areas where the Regional Offices of the Department are located.
+
+### Section 6
+
+_Powers and Functions of the Boards._ — The Boards shall have the following powers and functions:
 
 a) To develop plans, programs and projects relative to wages, incomes and productivity improvements for their respective regions;
 
@@ -582,11 +630,15 @@ f) To exercise such other powers and functions as may be necessary to carry out 
 
 Implementation of the plans, programs and projects of the Boards shall be through the respective Regional Offices of the Department, provided, however, that the Boards shall have technical supervision over the Regional Office of the Department with respect to the implementation of these plans, programs and projects.
 
-**Section 7._Composition of the Boards._** — Each Board shall be composed of the Regional Director of the Department as Chairman, the Regional Directors of the National Economic and Development Authority (NEDA) and Department of Trade and Industry (DTI) as Vice-Chairmen and two members each of workers and employers sectors who shall be appointed by the President for a term of five years upon the recommendation of the Secretary. The recommendees shall be selected from the lists of nominees submitted by the workers and employers sectors.
+### Section 7
+
+_Composition of the Boards._ — Each Board shall be composed of the Regional Director of the Department as Chairman, the Regional Directors of the National Economic and Development Authority (NEDA) and Department of Trade and Industry (DTI) as Vice-Chairmen and two members each of workers and employers sectors who shall be appointed by the President for a term of five years upon the recommendation of the Secretary. The recommendees shall be selected from the lists of nominees submitted by the workers and employers sectors.
 
 Each Board shall be assisted by a Secretariat.
 
-**Section 8._Authority to Organize and Appoint Personnel._** — The Chairman of the Commission shall organize such units and appoint the necessary personnel of the Commission and Board Secretariats, subject to pertinent laws, rules and regulations.
+### Section 8
+
+_Authority to Organize and Appoint Personnel._ — The Chairman of the Commission shall organize such units and appoint the necessary personnel of the Commission and Board Secretariats, subject to pertinent laws, rules and regulations.
 
 ## CHAPTER III — Minimum Wage Determination
 
@@ -594,7 +646,9 @@ Each Board shall be assisted by a Secretariat.
 
 _Regional Minimum Wages._ — The minimum wage rates for agricultural and non-agricultural workers and employees in every region shall be those prescribed by the Boards which shall in no case be lower than the statutory minimum wage rates. These wage rates may include wages by industry, province or locality as may be deemed necessary by the Boards.
 
-**Section 2._Standards/Criteria for Minimum Wage Fixing._** — The regional minimum wages to be established by the Boards shall be as nearly adequate as is economically feasible to maintain the minimum standards of living necessary for the health, efficiency and general well-being of the workers within the framework of the national, economic, and social development programs. In the determination of regional minimum wages, the Boards, shall, among other relevant factors, consider the following:
+### Section 2
+
+_Standards/Criteria for Minimum Wage Fixing._ — The regional minimum wages to be established by the Boards shall be as nearly adequate as is economically feasible to maintain the minimum standards of living necessary for the health, efficiency and general well-being of the workers within the framework of the national, economic, and social development programs. In the determination of regional minimum wages, the Boards, shall, among other relevant factors, consider the following:
 
 a) The demand for living wages;
 
@@ -616,31 +670,49 @@ i) Effects on employment generation and family income; and
 
 j) The equitable distribution of income and wealth along the imperatives of economic and social development.
 
-**Section 3._Wage Order._** — Whenever conditions in the region so warrant, the Board shall investigate and study all pertinent facts; and, based on standards and criteria prescribed herein, shall determine whether a Wage Order should be issued.
+### Section 3
+
+_Wage Order._ — Whenever conditions in the region so warrant, the Board shall investigate and study all pertinent facts; and, based on standards and criteria prescribed herein, shall determine whether a Wage Order should be issued.
 
 In the performance of its wage determining functions, the Board shall conduct public hearings and consultations giving notices to employees' and employers' groups, provincial, city and municipal officials and other interested parties.
 
-**Section 4._Effectivity of Wage Order._** — Any Wage Order issued by the Boards shall take effect 15 days after its complete publication in at least one newspaper of general circulation in the region.
+### Section 4
 
-**Section 5._Appeal to the Commission._** — Any party aggrieved by the Wage Order issued by the Board may file an appeal with the Commission within ten calendar days from the publication of the Order. The Commission shall decide the appeal within sixty calendar days from the date of filing.
+_Effectivity of Wage Order._ — Any Wage Order issued by the Boards shall take effect 15 days after its complete publication in at least one newspaper of general circulation in the region.
 
-**Section 6._Effect of Appeal._** — The filing of the appeal shall not suspend the effectivity of the Wage Order unless the person appealing such order files with the Commission an undertaking with a surety or sureties in such amount as may be fixed by the Commission.
+### Section 5
 
-**Section 7._Wage Distortions._** — Where the application of any wage increase resulting from a Wage Order issued by any Board results in distortions in the wage structure within an establishment, the employer and the union shall negotiate to correct the distortions using the grievance procedure under the collective bargaining agreement. If it remains unresolved, it shall be decided through voluntary arbitration within ten calendar days from the time the dispute was referred for voluntary arbitration, unless otherwise agreed by the parties in writing.
+_Appeal to the Commission._ — Any party aggrieved by the Wage Order issued by the Board may file an appeal with the Commission within ten calendar days from the publication of the Order. The Commission shall decide the appeal within sixty calendar days from the date of filing.
+
+### Section 6
+
+_Effect of Appeal._ — The filing of the appeal shall not suspend the effectivity of the Wage Order unless the person appealing such order files with the Commission an undertaking with a surety or sureties in such amount as may be fixed by the Commission.
+
+### Section 7
+
+_Wage Distortions._ — Where the application of any wage increase resulting from a Wage Order issued by any Board results in distortions in the wage structure within an establishment, the employer and the union shall negotiate to correct the distortions using the grievance procedure under the collective bargaining agreement. If it remains unresolved, it shall be decided through voluntary arbitration within ten calendar days from the time the dispute was referred for voluntary arbitration, unless otherwise agreed by the parties in writing.
 
 Where there are no collective agreements or recognized labor unions, the employer and workers shall endeavor to correct the wage distortion. Any dispute arising therefrom shall be settled through the National Conciliation and Mediation Board and if it remains unresolved after ten calendar days of conciliation, it shall be referred to the appropriate branch of the National Labor Relations Commission (NLRC). The NLRC shall conduct continuous hearings and decide the dispute within twenty calendar days from the time said dispute is submitted for compulsory arbitration.
 
 The pendency of a dispute arising from a wage distortion shall not in any way delay the applicability of any wage increase prescribed pursuant to the provisions of law or Wage Order.
 
-**Section 8._Non-Diminution of Benefits._** — Nothing in the Act and in this Rules shall be construed to reduce any existing wage rates, allowances and benefits of any form under existing laws, decrees, issuances, executive orders and/or under any contract or agreement between the workers and employers.
+### Section 8
 
-**Section 9._Prohibition Against Injunction._** — No preliminary or permanent injunction or temporary restraining order may be issued by any court, tribunal or other entity against any proceedings before the Commission or Boards.
+_Non-Diminution of Benefits._ — Nothing in the Act and in this Rules shall be construed to reduce any existing wage rates, allowances and benefits of any form under existing laws, decrees, issuances, executive orders and/or under any contract or agreement between the workers and employers.
 
-**Section 10._Penal Provisions._** — Any person, corporation, trust, firm, partnership, association or entity which refuses or fails to pay any of the prescribed increases or adjustments in the wage rates, made in accordance with the Act shall be punished by a fine not exceeding P25,000 and/or imprisonment of not less than one year nor more than two years: Provided, that any person convicted under the Act shall not be entitled to the benefits provided for under the Probation Law.
+### Section 9
+
+_Prohibition Against Injunction._ — No preliminary or permanent injunction or temporary restraining order may be issued by any court, tribunal or other entity against any proceedings before the Commission or Boards.
+
+### Section 10
+
+_Penal Provisions._ — Any person, corporation, trust, firm, partnership, association or entity which refuses or fails to pay any of the prescribed increases or adjustments in the wage rates, made in accordance with the Act shall be punished by a fine not exceeding P25,000 and/or imprisonment of not less than one year nor more than two years: Provided, that any person convicted under the Act shall not be entitled to the benefits provided for under the Probation Law.
 
 If the violation is committed by a corporation, trust or firm, partnership, association or any other entity, the penalty of imprisonment shall be imposed upon the entity's responsible officers, including, but not limited to, the president, vice-president, chief executive officer, general manager, managing director or partner.
 
-**Section 11._Registration/Reporting Requirement._** — Any person, company, corporation, partnership or any other entity engaged in business shall submit annually a verified itemized listing of their labor component to the appropriate Board and the National Statistics Office not later than January 31 of each year, starting on January 31, 1990 in accordance with the form to be prescribed by the Commission. The listing shall specify the names, salaries and wages of their workers and employees below the managerial level including learners, apprentices and disabled/handicapped workers.
+### Section 11
+
+_Registration/Reporting Requirement._ — Any person, company, corporation, partnership or any other entity engaged in business shall submit annually a verified itemized listing of their labor component to the appropriate Board and the National Statistics Office not later than January 31 of each year, starting on January 31, 1990 in accordance with the form to be prescribed by the Commission. The listing shall specify the names, salaries and wages of their workers and employees below the managerial level including learners, apprentices and disabled/handicapped workers.
 
 ## CHAPTER IV — Transitory Provisions
 
@@ -650,15 +722,23 @@ _Abolition of the National Wages Council and the National Productivity Commissio
 
 Any official or employee separated from the service as a result of the abolition of offices pursuant to the Act shall be entitled to appropriate separation pay of one month salary for every year of service and/or retirement and other benefits accruing to them under existing laws. In lieu thereof, at the option of the employee, he shall be preferentially considered for employment in the government or in any of its subdivisions, instrumentalities, or agencies, including government-owned or controlled corporations and their subsidiaries.
 
-**Section 2._Interim Processing of Applications for Exemption and Submission of Reports._** — Pending the operationalization of the Commission and Boards, the National Wages Council shall, in the interim, receive and process applications for exemption subject to guidelines to be issued by the Secretary in accordance with Section 11 of the Act.
+### Section 2
+
+_Interim Processing of Applications for Exemption and Submission of Reports._ — Pending the operationalization of the Commission and Boards, the National Wages Council shall, in the interim, receive and process applications for exemption subject to guidelines to be issued by the Secretary in accordance with Section 11 of the Act.
 
 Reports of establishments on their labor component, including wages and salaries of their workers prescribed under the Act, shall be submitted to the National Wages Council through the Regional Offices of the Department.
 
-**Section 3._Funding Requirement._** — The funds necessary to carry out the provisions of the Act shall be taken from the Compensation and Organizational Adjustment Fund, the Contingent Fund, and other savings under Republic Act No. 6688, otherwise known as the General Appropriations Act of 1989, or from any unappropriated funds of the National Treasury; Provided that the funding requirements necessary to implement the Act shall be included in the Annual General Appropriations Act for the succeeding years.
+### Section 3
 
-**Section 4._Repealing Clause._** — All laws, orders, issuances, rules and regulations or parts thereof inconsistent with the provisions of the Act and this Rules are hereby repealed, amended or modified accordingly. If any provision or part of the Act and this Rules, or the application thereof to any person or circumstance shall not be affected thereby.
+_Funding Requirement._ — The funds necessary to carry out the provisions of the Act shall be taken from the Compensation and Organizational Adjustment Fund, the Contingent Fund, and other savings under Republic Act No. 6688, otherwise known as the General Appropriations Act of 1989, or from any unappropriated funds of the National Treasury; Provided that the funding requirements necessary to implement the Act shall be included in the Annual General Appropriations Act for the succeeding years.
 
-**Section 5._Effectivity._** — This Rules shall take effect on July 1, 1989.
+### Section 4
+
+_Repealing Clause._ — All laws, orders, issuances, rules and regulations or parts thereof inconsistent with the provisions of the Act and this Rules are hereby repealed, amended or modified accordingly. If any provision or part of the Act and this Rules, or the application thereof to any person or circumstance shall not be affected thereby.
+
+### Section 5
+
+_Effectivity._ — This Rules shall take effect on July 1, 1989.
 
 Done in the City of Manila, Republic of the Philippines this 7th day of July 1989.
 

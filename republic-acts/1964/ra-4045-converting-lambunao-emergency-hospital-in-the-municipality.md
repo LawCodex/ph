@@ -29,7 +29,7 @@ The Lambunao Emergency Hospital in the Municipality of Lambunao, Province of Ilo
 
 ## Section 2
 
-The additional sum of two hundred thousand pesos is authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sum for the same purpose shall be included in the annual General Appropriations Act.
+The additional sum of two hundred thousand pesos is authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

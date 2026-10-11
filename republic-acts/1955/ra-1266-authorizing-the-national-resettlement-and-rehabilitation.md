@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The National Resettlement and Rehabilitation Administration (NARRA) is hereby authorized to expropriate within six months from the approval of this Act, the Hacienda del Rosario situated at Valdefuente, Cabanatuan City, and pay the price of the land and cost of such expropriation out of its funds.1awp++i1 The said hacienda shall be subdivided into lots not bigger than one hectare each and resold to bona fide occupants thereof at such price as may be determined by the Board of Directors of the NARRA which shall include the price of the land and the cost of such expropriation, administration, subdivision, resale and interests. The purchase price of the resale to bona fide occupants shall be payable in installments within the period of not more than ten years.
+The National Resettlement and Rehabilitation Administration (NARRA) is hereby authorized to expropriate within six months from the approval of this Act, the Hacienda del Rosario situated at Valdefuente, Cabanatuan City, and pay the price of the land and cost of such expropriation out of its funds. The said hacienda shall be subdivided into lots not bigger than one hectare each and resold to bona fide occupants thereof at such price as may be determined by the Board of Directors of the NARRA which shall include the price of the land and the cost of such expropriation, administration, subdivision, resale and interests. The purchase price of the resale to bona fide occupants shall be payable in installments within the period of not more than ten years.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The name of the Sagurong Elementary School situated in Barangay Sagurong, Munici
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

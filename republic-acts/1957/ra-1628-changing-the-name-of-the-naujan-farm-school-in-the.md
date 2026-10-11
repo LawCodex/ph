@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano P. Leuterio Memorial School.1âшphi1
+The name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano P. Leuterio Memorial School.
 
 ## Section 2
 

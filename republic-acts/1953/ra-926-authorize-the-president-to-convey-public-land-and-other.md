@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In payment of compensation for landed estates acquired by the Government, whether thru voluntary agreement or thru expropriation proceedings, the President of the Philippines may convey in behalf of the Republic, with the written consent of the owner of land, in total or partial payment of such compensation, such public land "as is disposable by sale or lease to private individuals in accordance with law and such other similarly disposable property pertaining to the Republic of the Philippines. In effecting such exchange involving public agricultural land, the assessed value shall not be taken into consideration.1a⍵⍴h!1
+In payment of compensation for landed estates acquired by the Government, whether thru voluntary agreement or thru expropriation proceedings, the President of the Philippines may convey in behalf of the Republic, with the written consent of the owner of land, in total or partial payment of such compensation, such public land "as is disposable by sale or lease to private individuals in accordance with law and such other similarly disposable property pertaining to the Republic of the Philippines. In effecting such exchange involving public agricultural land, the assessed value shall not be taken into consideration.
 
 ## Section 2
 

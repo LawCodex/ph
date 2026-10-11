@@ -43,6 +43,6 @@ The fourth paragraph of Section fifty-four of the same Act, as amended, is furth
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

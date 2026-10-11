@@ -32,7 +32,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 _Forfeitable Leave Privilege._ — Judges of the Metropolitan Trial Courts, Municipal Trial Courts in Cities, Municipal Trial Courts, Municipal Circuit Trial Courts and Shari’a Circuit Courts, all known as first level courts, shall be entitled annually to thirty (30) days forfeitable leave with pay in addition to the fifteen (15) days vacation leave and fifteen (15) days sick leave privileges provided for by law. In the computation thereof, Saturdays, Sundays and holidays shall be excluded.
 
-The forfeitable leave privilege under this Act shall be noncumulative and nonconvertible to cash.1âwphi1
+The forfeitable leave privilege under this Act shall be noncumulative and nonconvertible to cash.
 
 ## SECTION 2
 

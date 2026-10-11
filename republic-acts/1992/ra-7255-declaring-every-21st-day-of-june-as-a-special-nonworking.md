@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT DECLARING EVERY 21ST DAY OF JUNE AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF CABARROGUIS, PROVINCE OF QUIRINO, TO BE KNOWN AS "ARAW NG CABARROGUIS"
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

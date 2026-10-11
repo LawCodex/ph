@@ -29,6 +29,6 @@ The barrios of Pandanon, Dahili, Samac, and Namangka in the Municipality of Manj
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1966.

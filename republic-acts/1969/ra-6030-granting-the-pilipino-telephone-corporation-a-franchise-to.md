@@ -89,7 +89,7 @@ The grantee may install, maintain, operate, purchase or lease such telephone sta
 
 ## Section 17
 
-The grantee shall not, without the previous and explicit approval of the Congress of the Philippines, directly or indirectly, transfer, sell or assign this franchise to any person, association, company or corporation or other mercantile or legal entity.1a⍵⍴h!1
+The grantee shall not, without the previous and explicit approval of the Congress of the Philippines, directly or indirectly, transfer, sell or assign this franchise to any person, association, company or corporation or other mercantile or legal entity.
 
 ## Section 18
 
@@ -109,6 +109,6 @@ Whenever in this franchise the term "grantee" is used, it shall be held and unde
 
 ## Section 22
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

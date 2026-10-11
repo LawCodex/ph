@@ -296,7 +296,7 @@ _Annual Report._ – The BuCor, through the DOJ and the DBM, shall jointly submi
 
 ## Section 26
 
-_Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions not affected thereby.1âwphi1
+_Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions not affected thereby.
 
 ## Section 27
 

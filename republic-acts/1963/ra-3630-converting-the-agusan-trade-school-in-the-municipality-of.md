@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Agusan Trade School in the Municipality of Cabadbaran, Province of Agusan, is hereby converted into a national school of arts and trades to be known as the Northern Mindanao National School of Arts and Trades.1âшphi1
+The Agusan Trade School in the Municipality of Cabadbaran, Province of Agusan, is hereby converted into a national school of arts and trades to be known as the Northern Mindanao National School of Arts and Trades.
 
 ## Section 2
 

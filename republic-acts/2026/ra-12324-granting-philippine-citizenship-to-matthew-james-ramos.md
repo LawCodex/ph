@@ -29,7 +29,7 @@ Matthew James Ramos is hereby granted Philippine citizenship with all the rights
 
 ## Section 2
 
-Matthew James Ramos shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.ℒαwρhi৷ The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Matthew James Ramos shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

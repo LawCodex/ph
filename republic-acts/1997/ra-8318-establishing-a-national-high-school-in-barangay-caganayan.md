@@ -32,7 +32,7 @@ There shall be established, under the supervision of the Department of Education
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall implement this Act so as to make the national high school in operation during the first school year after the effectivity of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall implement this Act so as to make the national high school in operation during the first school year after the effectivity of this Act.
 
 ## Section 3
 

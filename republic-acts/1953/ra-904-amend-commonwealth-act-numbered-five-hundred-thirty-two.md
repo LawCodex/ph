@@ -30,7 +30,7 @@ Section one of Commonwealth Act Numbered hundred thirty-two is hereby amended so
 
 ## Section 2
 
-The amount necessary to carry out the provision of this Act for the rest of the fiscal year ending June thirty, nineteen hundred fifty-three, shall be taken from the savings of the appropriation for the General Auditing Office for said fiscal year.1a⍵⍴h!1
+The amount necessary to carry out the provision of this Act for the rest of the fiscal year ending June thirty, nineteen hundred fifty-three, shall be taken from the savings of the appropriation for the General Auditing Office for said fiscal year.
 
 ## Section 3
 

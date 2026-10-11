@@ -48,7 +48,7 @@ _Corporate powers and duties._ -The said National Bank, upon its organization, s
 
 (h) To invest in stocks, bonds, and other secured collaterals having maturities of not more than thirty years;
 
-(i) With the approval of the President of the Philippines, to issue bonds and other certificates of indebtedness against its credits secured by real estate but not in excess of ninety per cent thereof. Said bonds shall be exempt from any and all taxes levied or assessed by the government or any of its subdivisions.1awp++i1 The Board of Directors shall determine the interest rates, maturities and other requirements of said obligations;
+(i) With the approval of the President of the Philippines, to issue bonds and other certificates of indebtedness against its credits secured by real estate but not in excess of ninety per cent thereof. Said bonds shall be exempt from any and all taxes levied or assessed by the government or any of its subdivisions. The Board of Directors shall determine the interest rates, maturities and other requirements of said obligations;
 
 (j) To exercise further, the general powers mentioned in the corporation law and the General Banking Law insofar as they are not inconsistent or incompatible with the provisions of this Act.
 

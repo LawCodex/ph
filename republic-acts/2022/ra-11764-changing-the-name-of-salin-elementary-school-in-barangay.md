@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Salin Elementary School located in Barangay Sadsadan, Municipality of Bauko, Mountain Province is hereby changed to Talban P. Bitayan Elementary School.ℒαwρhi৷
+The name of Salin Elementary School located in Barangay Sadsadan, Municipality of Bauko, Mountain Province is hereby changed to Talban P. Bitayan Elementary School.
 
 ## Section 2
 

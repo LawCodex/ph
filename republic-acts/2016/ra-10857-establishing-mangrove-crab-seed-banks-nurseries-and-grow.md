@@ -38,7 +38,7 @@ The Bureau of Fisheries and Aquatic Resources (BFAR), the Provincial Government 
 
 ## SECTION 3
 
-The BFAR and the Provincial Government of Catanduanes, in collaboration with the Catanduanes State University, shall issue guidelines and provide technical assistance to fishermen and their association, in the establishment, operation, maintenance, supervision and monitoring of mangrove crab seed banks, nurseries and grow-out production farms.1âwphi1
+The BFAR and the Provincial Government of Catanduanes, in collaboration with the Catanduanes State University, shall issue guidelines and provide technical assistance to fishermen and their association, in the establishment, operation, maintenance, supervision and monitoring of mangrove crab seed banks, nurseries and grow-out production farms.
 
 ## SECTION 4
 
@@ -46,7 +46,7 @@ The Secretary of Agriculture shall include in the Department’s programs the es
 
 ## SECTION 5
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.1awp++i1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

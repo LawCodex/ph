@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Duldugan in the Municipality of Lasam, Province of Cagayan, is hereby changed to Cabatacan.£a⩊phi£
+The name of the barrio of Duldugan in the Municipality of Lasam, Province of Cagayan, is hereby changed to Cabatacan.
 
 ## Section 2
 

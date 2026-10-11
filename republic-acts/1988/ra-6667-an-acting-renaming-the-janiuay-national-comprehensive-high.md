@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Janiuay National Comprehensive High School in Municipality of Janiuay, Province of Iloilo is hereby changed to Don Tibursio A. Lutero National Comprehensive High School.1âшphi1
+The name of the Janiuay National Comprehensive High School in Municipality of Janiuay, Province of Iloilo is hereby changed to Don Tibursio A. Lutero National Comprehensive High School.
 
 ## Section 2
 

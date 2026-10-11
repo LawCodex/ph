@@ -34,7 +34,7 @@ Sections one and fifteen of Republic Act Numbered Five hundred thirteen, as amen
 
 ## Section 2
 
-Sections thirteen and fourteen of the same Act, as amended, are hereby repealed.1avvphi1
+Sections thirteen and fourteen of the same Act, as amended, are hereby repealed.
 
 ## Section 3
 

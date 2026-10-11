@@ -52,7 +52,7 @@ _Implementing Rules and Regulations (IRR). –_ The PSC, in coordination with th
 
 ## Section 6
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

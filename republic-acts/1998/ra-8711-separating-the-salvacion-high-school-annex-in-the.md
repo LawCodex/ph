@@ -35,7 +35,7 @@ The Department of Education, Culture and Sports (DECS) shall issue rules and reg
 
 ## Section 3
 
-All personnel, assets, liabilities and records of the Salvacion High School Annex are hereby transferred to and absorbed by the Salvacion National High School.Ꮮαwρhi৷
+All personnel, assets, liabilities and records of the Salvacion High School Annex are hereby transferred to and absorbed by the Salvacion National High School.
 
 ## Section 4
 

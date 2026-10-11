@@ -23,7 +23,9 @@ AN ACT INCREASING THE SEVENTY-FIVE-BED CAPACITY OF THE BALIUAG DISTRICT HOSPITAL
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1. 1âшphi1** There shall be established an additional twenty-five-bed capacity of the Baliuag District Hospital in the town of Baliuag, Bulacan.
+## Section 1
+
+There shall be established an additional twenty-five-bed capacity of the Baliuag District Hospital in the town of Baliuag, Bulacan.
 
 ## Section 2
 

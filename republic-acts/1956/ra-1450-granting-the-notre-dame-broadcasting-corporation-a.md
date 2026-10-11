@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, the Notre Dame Broadcasting Corporation is hereby granted a franchise to construct, maintain and operate for religious, educational and cultural as well as for commercial purposes and in the public interest, radio broadcasting stations in the Province of Cotabato.1âшphi1
+Subject to the provisions of the Constitution, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, the Notre Dame Broadcasting Corporation is hereby granted a franchise to construct, maintain and operate for religious, educational and cultural as well as for commercial purposes and in the public interest, radio broadcasting stations in the Province of Cotabato.
 
 ## Section 2
 
@@ -72,7 +72,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 13
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1avvphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

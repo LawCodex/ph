@@ -34,7 +34,7 @@ _Renaming of a National High School._ – The name of Gaudencio Abordo National 
 
 ## Section 2
 
-_Location of the Main Campus._ – The main campus of the Bulawit National High School shall continue to remain in its present location in Barangay Bulawit, Municipality of Linapacan, Province of Palawan.1âwphi1
+_Location of the Main Campus._ – The main campus of the Bulawit National High School shall continue to remain in its present location in Barangay Bulawit, Municipality of Linapacan, Province of Palawan.
 
 ## Section 3
 

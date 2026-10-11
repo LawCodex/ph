@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-\- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Pinayag.1âwphi1 Municipality of Kayapa, Province of Nueva Viscaya to be known as Pinayag National High School.
+\- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Pinayag. Municipality of Kayapa, Province of Nueva Viscaya to be known as Pinayag National High School.
 
 ## Section 2
 
@@ -38,7 +38,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 3
 
-\- The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within ninety (90) days after its effectivity.1âwphi1
+\- The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within ninety (90) days after its effectivity.
 
 ## Section 4
 

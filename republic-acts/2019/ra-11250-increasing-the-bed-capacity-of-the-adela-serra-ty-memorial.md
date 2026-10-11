@@ -42,7 +42,7 @@ The existing medical personnel of the ASTMMC shall also be correspondingly incre
 
 ## Section 4
 
-The increase in bed capacity of the ASTMMC shall be implemented consistent with its hospital development plan.1âwphi1
+The increase in bed capacity of the ASTMMC shall be implemented consistent with its hospital development plan.
 
 ## Section 5
 

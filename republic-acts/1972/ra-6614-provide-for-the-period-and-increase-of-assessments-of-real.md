@@ -32,7 +32,7 @@ All laws, Acts, parts of Acts, city charters, ordinances and resolutions which a
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

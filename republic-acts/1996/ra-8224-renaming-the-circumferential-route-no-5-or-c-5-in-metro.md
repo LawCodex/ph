@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of the Representatives of the Philippines 
 
 ## Section 1
 
-President Carlos P. Garcia served with distinction as congressman, senator, vice–president, and president of the Republic of the Philippines.1aшphi1 He was also the first president of the 1971 Constitutional Convention.
+President Carlos P. Garcia served with distinction as congressman, senator, vice–president, and president of the Republic of the Philippines. He was also the first president of the 1971 Constitutional Convention.
 
 ## Section 2
 

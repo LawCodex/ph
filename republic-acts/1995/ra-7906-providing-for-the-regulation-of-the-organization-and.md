@@ -278,7 +278,7 @@ _Return of Deposits._ \- Deposits shall be returned to the depositors or to thei
 
 ### Section 24
 
-_Deposit Insurance._ \- Deposits in thrift banks shall be eligible for insurance coverage under Republic Act No. 3591, as amended.1aшphi1
+_Deposit Insurance._ \- Deposits in thrift banks shall be eligible for insurance coverage under Republic Act No. 3591, as amended.
 
 ### Section 25
 

@@ -29,7 +29,7 @@ There shall be established under the direct supervision of the Director of Publi
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said high school during the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said high school during the fiscal year nineteen hundred sixty-nine. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

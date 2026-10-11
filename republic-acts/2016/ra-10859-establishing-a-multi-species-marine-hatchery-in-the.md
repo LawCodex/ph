@@ -46,7 +46,7 @@ The Secretary of Agriculture shall issue the rules and regulations on the superv
 
 ## SECTION 5
 
-__This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation. 1âwphi1
+__This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

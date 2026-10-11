@@ -81,7 +81,7 @@ Article 39, _Title_ III of Executive Order No. 226, otherwise known as the Omnib
 
 "Foreign nationals under employment contract within the purview of this incentive, their spouses and unmarried children under twenty-one (21) years of age, who are not excluded by Section 29 of Commonwealth Act No. 613, as amended, shall be permitted to enter and reside in the Philippines during the period of employment of such foreign nationals.
 
-"A registered enterprise shall train Filipinos as understudies of foreign nationals in administrative, supervisory and technical skills and shall submit annual reports on such training to the Board.1aшphi1
+"A registered enterprise shall train Filipinos as understudies of foreign nationals in administrative, supervisory and technical skills and shall submit annual reports on such training to the Board.
 
 "(h) Exemption on Breeding Stocks and Genetic Materials. - The importation of breeding stocks and genetic materials within ten (10) years from the date of registration of commercial operation of the enterprise shall be exempt from all taxes and duties: _Provided,_ That such breeding stocks and genetic materials are: (1) not locally available and/or obtainable locally in comparable quality and at reasonable prices; (2) reasonably needed in the registered activity; and (3) approved by the Board.
 

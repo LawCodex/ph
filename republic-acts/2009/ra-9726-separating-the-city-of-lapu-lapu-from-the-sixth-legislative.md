@@ -38,7 +38,7 @@ _Incumbent Representative._ \- The incumbent representative of the Sixth Legisla
 
 ## Section 3
 
-_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.1avvphi1
+_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.
 
 ## Section 4
 

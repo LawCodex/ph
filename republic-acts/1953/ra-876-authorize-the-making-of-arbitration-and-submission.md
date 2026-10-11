@@ -146,7 +146,7 @@ _Proceeding in lieu of hearing._ \- The parties to a submission or contract to a
 
 ## Section 19
 
-_Time for rendering award._ \- Unless the parties shall have stipulated by written agreement the time within which the arbitrators must render their award, the written award of the arbitrators shall be rendered within thirty days after the closing of the hearings or if the oral hearings shall have been waived, within thirty days after the arbitrators shall have declared such proceedings in lieu of hearing closed. This period may be extended by mutual consent of the parties.alf-itc
+_Time for rendering award._ \- Unless the parties shall have stipulated by written agreement the time within which the arbitrators must render their award, the written award of the arbitrators shall be rendered within thirty days after the closing of the hearings or if the oral hearings shall have been waived, within thirty days after the arbitrators shall have declared such proceedings in lieu of hearing closed. This period may be extended by mutual consent of the parties.
 
 ## Section 20
 

@@ -56,7 +56,7 @@ A special right is hereby reserved to the President of the Philippines in times 
 
 ## Section 9
 
-This temporary permit shall not be transferred or in any way alienated without the previous consent of Congress and shall be subject to amendments, alterations, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege therein provided for.1avvphi11âшphi1
+This temporary permit shall not be transferred or in any way alienated without the previous consent of Congress and shall be subject to amendments, alterations, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege therein provided for.
 
 ## Section 10
 

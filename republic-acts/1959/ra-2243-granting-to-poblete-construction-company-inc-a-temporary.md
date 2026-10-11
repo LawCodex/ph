@@ -60,7 +60,7 @@ The grantee shall be subject to the corporation laws of the Philippines now exis
 
 ## Section 10
 
-The grantee is hereby authorized to operate its private stations on commercial frequencies that may be assigned to it by the licensing authority.1âшphi1
+The grantee is hereby authorized to operate its private stations on commercial frequencies that may be assigned to it by the licensing authority.
 
 ## Section 11
 
@@ -68,7 +68,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 12
 
-This permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.1aшphi1
+This permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

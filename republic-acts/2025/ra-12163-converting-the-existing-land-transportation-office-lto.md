@@ -29,7 +29,7 @@ _Upgrading of the Existing LTO Extension Office in Dolores, Eastern Samar._ \- T
 
 ## Section 2
 
-_Funding._ \- The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO Extension Office in the Municipality of Dolores, Province of Eastern Samar, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Funding._ \- The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO Extension Office in the Municipality of Dolores, Province of Eastern Samar, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

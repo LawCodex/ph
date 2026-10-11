@@ -106,7 +106,7 @@ In view of the proposed additional branch of the Regional Trial Court, the Regio
 </tr>
 </table>
 
-The staff complement of the OCC shall be composed of nine (9) personnel, while the data entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.ℒαwρhi৷
+The staff complement of the OCC shall be composed of nine (9) personnel, while the data entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.
 
 In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
 

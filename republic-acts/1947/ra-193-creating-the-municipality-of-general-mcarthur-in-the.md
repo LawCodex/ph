@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Pambujan Sur, Calutan, San Isidro, Vigan, Binalay, Camcueves, Domrog and Pingan of the municipality of Hernani, Province of Samar, are hereby constituted as a separate and independent municipality to be known as General MacArthur.1awp++i1
+The barrios of Pambujan Sur, Calutan, San Isidro, Vigan, Binalay, Camcueves, Domrog and Pingan of the municipality of Hernani, Province of Samar, are hereby constituted as a separate and independent municipality to be known as General MacArthur.
 
 ## Section 2
 

@@ -31,6 +31,6 @@ Section ninety-three of Republic Act Num­bered two hundred ninety-six, otherwis
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, **May 14, 1969.**

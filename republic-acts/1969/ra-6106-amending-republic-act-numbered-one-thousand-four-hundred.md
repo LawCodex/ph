@@ -65,7 +65,7 @@ A copy of the instrument of mortgage shall be furnished the Central Bank of the 
 
 ## Section 2
 
-The provisions of Commonwealth Act Numbered Six hundred six, as amended by Republic Act Numbered Nine hundred thirteen; the Code of Commerce, particularly Articles 580 and 584 thereof; and all other Acts, Executive Orders and regulations inconsistent herewith are hereby repealed or modified accordingly.1a⍵⍴h!1
+The provisions of Commonwealth Act Numbered Six hundred six, as amended by Republic Act Numbered Nine hundred thirteen; the Code of Commerce, particularly Articles 580 and 584 thereof; and all other Acts, Executive Orders and regulations inconsistent herewith are hereby repealed or modified accordingly.
 
 ## Section 3
 

@@ -166,7 +166,7 @@ _Loans to Officers, Directors, and Employees; Restriction and Limitation._ – T
 
 ## Section 18
 
-_Authority to Purchase and Own Such Real Estate as May Be Necessary for the Purpose of Carrying on its Business._ – The Veterans Bank is hereby authorized to hold such real estate as it may find necessary to acquire in the collection of debts due to the Veterans Bank or to its branches: _Provided,_ That the real estate acquired in the collection of debts shall be sold by the Veterans Bank within five (5) years after the date of its acquisition.ℒαwρhi৷
+_Authority to Purchase and Own Such Real Estate as May Be Necessary for the Purpose of Carrying on its Business._ – The Veterans Bank is hereby authorized to hold such real estate as it may find necessary to acquire in the collection of debts due to the Veterans Bank or to its branches: _Provided,_ That the real estate acquired in the collection of debts shall be sold by the Veterans Bank within five (5) years after the date of its acquisition.
 
 ## Section 19
 

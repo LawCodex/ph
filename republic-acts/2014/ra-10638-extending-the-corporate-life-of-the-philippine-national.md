@@ -37,7 +37,7 @@ Section 1 of Republic Act No. 4156, as amended, is hereby further amended to rea
 
 ## Section 2
 
-This Act shall take effect immediately following its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect immediately following its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

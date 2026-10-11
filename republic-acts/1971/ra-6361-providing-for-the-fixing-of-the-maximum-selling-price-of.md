@@ -82,9 +82,9 @@ The prices fixed by the Council shall become effective ten days after publicatio
 
 Production cost shall include all ordinary and necessary expenses paid or incurred in manufacturing or producing the commodity, but shall not include marketing costs unless at least 70% of the total volume of sales are made directly by the manufacturer or producer. In no case shall the production or acquisition cost include any taxes which are passed on to consumers; and marketing costs shall in no case exceed the average marketing cost for the period from 1966 to 1970, inclusive, as allowed by the Bureau of Internal Revenue and certified by an independent certified public accountant.
 
-Section 5.
+## Section 5
 
-a. Whenever any of the articles or commodities mentioned in Section One hereof is in short supply, the Council, after notice and hearing, shall certify to the needs of local producers or manufacturers thereof and recommend to the Monetary Board that the Central Bank make available the foreign exchange to import adequate raw materials and supplies which may be necessary to produce or manufacture said article or commodity in the quantity required to cover the shortage in supply.1âшphi1
+a. Whenever any of the articles or commodities mentioned in Section One hereof is in short supply, the Council, after notice and hearing, shall certify to the needs of local producers or manufacturers thereof and recommend to the Monetary Board that the Central Bank make available the foreign exchange to import adequate raw materials and supplies which may be necessary to produce or manufacture said article or commodity in the quantity required to cover the shortage in supply.
 
 b. If said article or commodity in short supply is not locally produced or manufactured or if the local producers or manufacturers thereof can not fully cover the shortage in supply, the Council after notice and hearing shall certify to such shortage or to the deficiency which the local producers or manufacturer cannot cover, and recommend to the Monetary Board that the Central Bank make available to importers the necessary foreign exchange to import said article or commodity in the quantity required to cover the shortage in supply.
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Tacloban City Medical Center in Tacloban City is hereby changed to Eastern Visayas Regional Medical Center.1âшphi1
+The name of the Tacloban City Medical Center in Tacloban City is hereby changed to Eastern Visayas Regional Medical Center.
 
 ## Section 2
 

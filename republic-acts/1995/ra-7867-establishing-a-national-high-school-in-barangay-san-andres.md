@@ -36,7 +36,7 @@ the Secretary of Education, Culture and Sports shall issue the necessary rules a
 
 ## Section 3
 
-the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 4
 

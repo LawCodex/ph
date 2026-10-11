@@ -30,7 +30,7 @@ Any existing law to the contrary notwithstanding, the salaries of the following 
 
 (b) Chief, Medical Division IV, Records Officer IV as Chief of the Records Division, and Chief, Management Staff, fourteen thousand four hundred pesos _per annum_ ; and
 
-(c) Assistant Chiefs of Services, Assistant Chief Legal Officers and Assistant Chiefs of Division, twelve thousand each _per annum_.1a⍵⍴h!1
+(c) Assistant Chiefs of Services, Assistant Chief Legal Officers and Assistant Chiefs of Division, twelve thousand each _per annum_.
 
 ## Section 2
 
@@ -38,6 +38,6 @@ The amount needed to cover the increase in the salaries for the above positions 
 
 ## Section 3
 
-This Act shall take effect on July one, nineteen hundred sixty-seven.1a⍵⍴h!1
+This Act shall take effect on July one, nineteen hundred sixty-seven.
 
 Enacted into law without executive signature on August 4, 1969.

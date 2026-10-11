@@ -38,7 +38,7 @@ The Secretary of Education shall take immediate steps to carry out the provision
 
 ## Section 4
 
-Republic Act Numbered seven hundred nine, as amended by Republic Act Numbered eighteen hundred eighty-one, as well as provisions of existing laws which are inconsistent with this Act, are hereby repealed.1avvphi1
+Republic Act Numbered seven hundred nine, as amended by Republic Act Numbered eighteen hundred eighty-one, as well as provisions of existing laws which are inconsistent with this Act, are hereby repealed.
 
 ## Section 5
 

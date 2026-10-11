@@ -82,7 +82,7 @@ _Santa Ana._ -Beginning at the intersection of the center lines of the Pasig Riv
 
 ### Section 7
 
-_Representative districts._ -The City of Manila is divided into four representative districts for purposes of national representation, each district to be represented by one member in the House of Representatives.1avvphi1 The municipal districts and territories included in each district are as follows:
+_Representative districts._ -The City of Manila is divided into four representative districts for purposes of national representation, each district to be represented by one member in the House of Representatives. The municipal districts and territories included in each district are as follows:
 
 First District.— Tondo;
 
@@ -94,7 +94,7 @@ Fourth District.— Intramuros, Port Area, Ermita, Malate, Paco, Pandacan and St
 
 ### Section 8
 
-_Police jurisdiction._ -The jurisdiction of the City of Manila for police purposes only shall extend to three miles from the shore into Manila Bay; and for the purpose of protecting and insuring the purity of the water supply of the city such police jurisdiction shall also extend over all territory within the drainage area of such water supply, or within one hundred meters of any reservoir, conduit, canal, aqueduct, or pumping station used in connection with the city water service. The Court of First Instance and the municipal court of the City of Manila shall have concurrent jurisdiction with the Courts of First Instance and the courts of justices of the peace of the province and municipalities, respectively, to try crimes and misdemeanors committed within said drainage area, or within said spaces of one hundred meters.1avvphi1 The court first taking jurisdiction of such an offense shall thereafter retain exclusive jurisdiction thereof.
+_Police jurisdiction._ -The jurisdiction of the City of Manila for police purposes only shall extend to three miles from the shore into Manila Bay; and for the purpose of protecting and insuring the purity of the water supply of the city such police jurisdiction shall also extend over all territory within the drainage area of such water supply, or within one hundred meters of any reservoir, conduit, canal, aqueduct, or pumping station used in connection with the city water service. The Court of First Instance and the municipal court of the City of Manila shall have concurrent jurisdiction with the Courts of First Instance and the courts of justices of the peace of the province and municipalities, respectively, to try crimes and misdemeanors committed within said drainage area, or within said spaces of one hundred meters. The court first taking jurisdiction of such an offense shall thereafter retain exclusive jurisdiction thereof.
 
 ## Article II — The Mayor
 
@@ -745,7 +745,7 @@ _Publication and hearing._ -The proposed special assessment ordinances shall be 
 
 ### Section 91
 
-_Transmittal to Mayor._ -The special assessment ordinance together with all the papers pertaining to the same shall be sent for approval to the Mayor, as in other cases, and the time for the approval or vetoing thereof shall run only from the date of the receipt of the last paper lacking. The Mayor may receive protest of persons claiming to be affected, provided such protests be signed by a majority of said persons representing more than one-half of the total assessed value of the property which according to the proposed ordinance would be subject to the special assessment, and before approving or vetoing said ordinance, he may propose to the Municipal Board, either the parties affected or the city engineer through the Director of Public Works may appeal to the President of the Philippines, whose decision shall be final.1âшphi1
+_Transmittal to Mayor._ -The special assessment ordinance together with all the papers pertaining to the same shall be sent for approval to the Mayor, as in other cases, and the time for the approval or vetoing thereof shall run only from the date of the receipt of the last paper lacking. The Mayor may receive protest of persons claiming to be affected, provided such protests be signed by a majority of said persons representing more than one-half of the total assessed value of the property which according to the proposed ordinance would be subject to the special assessment, and before approving or vetoing said ordinance, he may propose to the Municipal Board, either the parties affected or the city engineer through the Director of Public Works may appeal to the President of the Philippines, whose decision shall be final.
 
 ### Section 92
 

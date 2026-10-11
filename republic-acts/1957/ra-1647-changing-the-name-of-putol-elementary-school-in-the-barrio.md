@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Putol Elementary School located at the boundary of the barrios of Putol and Sta. Isabel, Municipality of Kawit, Province of Cavite, is changed to Putol-Sta. Isabel Elementary School.1âшphi1
+The name of Putol Elementary School located at the boundary of the barrios of Putol and Sta. Isabel, Municipality of Kawit, Province of Cavite, is changed to Putol-Sta. Isabel Elementary School.
 
 ## Section 2
 

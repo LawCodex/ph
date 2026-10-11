@@ -296,7 +296,7 @@ The technical description of Barangay 201 is as follows:
 
 containing an area of eight hundred fifty-seven and 6168⁄10000 hectares (857.6168 has.), including the contested area of thirteen and 9223⁄10000 hectares (13.9223 has.) between Pasay City and Parahaque City.
 
-The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of existing boundary disputes or cases involving questions of territorial jurisdiction between Barangay 201, Zone 20, Pasay City and the adjoining local government unit: _Provided,_ That the territorial jurisdiction of the disputed area or areas shall remain with the local government, which shall exercise administrative supervision over said area or areas until the final resolution of the case.1âшphi1
+The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of existing boundary disputes or cases involving questions of territorial jurisdiction between Barangay 201, Zone 20, Pasay City and the adjoining local government unit: _Provided,_ That the territorial jurisdiction of the disputed area or areas shall remain with the local government, which shall exercise administrative supervision over said area or areas until the final resolution of the case.
 
 ## Section 3
 

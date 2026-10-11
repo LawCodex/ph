@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Puerto Rivas Elementary School in the barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, is hereby changed to Maximino de los Reyes Memorial School.1âшphi1
+The name of Puerto Rivas Elementary School in the barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, is hereby changed to Maximino de los Reyes Memorial School.
 
 ## Section 2
 

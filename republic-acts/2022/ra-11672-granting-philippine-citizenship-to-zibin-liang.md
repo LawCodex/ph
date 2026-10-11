@@ -42,7 +42,7 @@ Upon registration of the Oath of Allegiance, the Bureao of Immigration shall iss
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in Official Gazette or in a newspaper of general circulation.ᇈWᑭHIL
+This Act shall take effect fifteen (15) days after its publication in Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

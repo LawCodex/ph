@@ -48,7 +48,7 @@ The Director of the NLP shall appoint the following to manage the Bohol First Co
 
 (f) Watchman (Security Guard).
 
-The appointments of said positions shall be in accordance with the Compensation and Position Classification System and other civil service rules and regulations.ℒαwρhi৷ In addition, their salaries and allowances shall be in accordance with Republic Act No. 11466, otherwise known as the “Salary Standardization Law of 2019,” and other applicable laws.
+The appointments of said positions shall be in accordance with the Compensation and Position Classification System and other civil service rules and regulations. In addition, their salaries and allowances shall be in accordance with Republic Act No. 11466, otherwise known as the “Salary Standardization Law of 2019,” and other applicable laws.
 
 ## Section 3
 

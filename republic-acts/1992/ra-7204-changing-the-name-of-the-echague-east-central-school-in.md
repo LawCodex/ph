@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Echague East Central School in Echague, lsabela, is hereby changed to Tuguegarao-Sto. Domingo Elementary School.1âшphi1
+The name of the Echague East Central School in Echague, lsabela, is hereby changed to Tuguegarao-Sto. Domingo Elementary School.
 
 ## Section 2
 

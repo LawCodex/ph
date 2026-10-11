@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Voca
 
 ## Section 2
 
-The Secretary of Education is hereby empowered to organize said school.1a⍵⍴h!1
+The Secretary of Education is hereby empowered to organize said school.
 
 ## Section 3
 
@@ -36,6 +36,6 @@ The sum of two hundred thousand pesos is hereby authorized to be appropriated, o
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

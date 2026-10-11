@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Establishment of a National High School._ – There is hereby established, under the supervision of the Department of Education, a national high school in the Municipality of San Fernando, Province of Cebu to be known as South Poblacion National High School.1âwphi1
+_Establishment of a National High School._ – There is hereby established, under the supervision of the Department of Education, a national high school in the Municipality of San Fernando, Province of Cebu to be known as South Poblacion National High School.
 
 ## Section 2
 

@@ -48,7 +48,7 @@ The remaining balance of the amount from the fund herein provided for shall be m
 
 ## Section 7
 
-All acts, purported acts, and parts of acts or purported acts, inconsistent with the provisions of this Act, are hereby repealed, or declared invalid, as the case may be.1aшphi1
+All acts, purported acts, and parts of acts or purported acts, inconsistent with the provisions of this Act, are hereby repealed, or declared invalid, as the case may be.
 
 ## Section 8
 

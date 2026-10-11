@@ -274,7 +274,7 @@ The following are the operational requirements for a university:
 
 (f) Relevant academic policies, systems and processes.
 
-The institution shall retain its status prior to the effectivity of this Act, unless in the meantime it is able to comply with the requirements provided herein, within a period not exceeding January 1, 2016.ℒαwρhi৷
+The institution shall retain its status prior to the effectivity of this Act, unless in the meantime it is able to comply with the requirements provided herein, within a period not exceeding January 1, 2016.
 
 ## Section 27
 

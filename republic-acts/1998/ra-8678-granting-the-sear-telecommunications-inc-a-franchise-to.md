@@ -89,7 +89,7 @@ _Gross Receipts._ \- The grantee, its successors or assigns, shall keep a separa
 
 ## Section 13
 
-_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns, shall always be open to the inspection of the Commissioner on Audit or his authorized representatives, and it shall be the duty of the grantee to submit to the Commission on Audit, two (2) copies of the quarterly reports on the gross receipts, the net profits and the general condition of the business.Ꮮαwρhi৷
+_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns, shall always be open to the inspection of the Commissioner on Audit or his authorized representatives, and it shall be the duty of the grantee to submit to the Commission on Audit, two (2) copies of the quarterly reports on the gross receipts, the net profits and the general condition of the business.
 
 ## Section 14
 

@@ -84,7 +84,7 @@ _Contracts._ \- The grantee is authorized to enter into transportation contracts
 
 ## Section 10
 
-_Right of Government._ \- A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the facilities or equipment of the grantee; to temporarily suspend the operation of any facility or equipment in the interest of public safety, security, and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said facilities or equipment during the period when these shall be so operated.1âwphi1
+_Right of Government._ \- A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the facilities or equipment of the grantee; to temporarily suspend the operation of any facility or equipment in the interest of public safety, security, and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said facilities or equipment during the period when these shall be so operated.
 
 ## Section 11
 

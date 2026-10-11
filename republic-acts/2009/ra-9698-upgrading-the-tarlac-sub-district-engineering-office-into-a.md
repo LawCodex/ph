@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The Tarlac Sub-District Engineering Office located at the NIA Compound in Barangay Jefmin, Concepcion, Tarlac is hereby upgraded into a regular district engineering office and shall be known as the Tarlac Second District Engineering Office.ℒαwρhi৷
+The Tarlac Sub-District Engineering Office located at the NIA Compound in Barangay Jefmin, Concepcion, Tarlac is hereby upgraded into a regular district engineering office and shall be known as the Tarlac Second District Engineering Office.
 
 ## Section 2
 

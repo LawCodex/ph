@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Caridad Elementary School in the City of Cavite is hereby changed to Ladislao Diwa Elementary School.1âшphi1
+The name of Caridad Elementary School in the City of Cavite is hereby changed to Ladislao Diwa Elementary School.
 
 ## Section 2
 

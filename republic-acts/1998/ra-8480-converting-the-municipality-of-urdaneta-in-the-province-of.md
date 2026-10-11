@@ -385,7 +385,7 @@ In the absence of a specific constitutional or statutory provision applicable to
 
 _Session._ – (a) On the first day of the session immediately following the election of its members, the sangguniang panlungsod shall, by resolution, fix the day, time and place of its regular sessions. The minimum number of regular sessions for the sangguniang panlungsod shall be once a week.
 
-(b) When public interest so demands, special sessions may be called by the City Mayor or the City Vice Mayor or by a majority of the members of the sanggunian.1aшphi1
+(b) When public interest so demands, special sessions may be called by the City Mayor or the City Vice Mayor or by a majority of the members of the sanggunian.
 
 (c) All sanggunian sessions shall be open to the public unless a closed-door session is ordered by the affirmative vote of majority of the members present, there being a quorum, in the public interest or for reasons of security, decency or morality. No two (2) sessions, regular or special, may be held in a single day.
 
@@ -947,7 +947,7 @@ _Plebiscite._ – The City of Urdaneta shall acquire its existence upon the rati
 
 ### Section 50
 
-_Officials of the City of Urdaneta._ – The present elective officials of the Municipality of Urdaneta shall continue to exercise their powers and functions until such time that a new election is held and the duly elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Urdaneta shall likewise continue exercising their functions and duties and they shall be automatically be absorbed by the city government of the City of Urdaneta.1awp++i1
+_Officials of the City of Urdaneta._ – The present elective officials of the Municipality of Urdaneta shall continue to exercise their powers and functions until such time that a new election is held and the duly elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Urdaneta shall likewise continue exercising their functions and duties and they shall be automatically be absorbed by the city government of the City of Urdaneta.
 
 ### Section 51
 

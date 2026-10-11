@@ -60,7 +60,7 @@ _Suppletory Application._ \- The provisions of Republic Act No. 9155, or the "Go
 
 ## Section 7
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Baguio City High School for the Arts, the initial funding of which shall be charged against the current year's appropriation of the Schools Division Office of Baguio City. Thereafter, the amount necessary for the continued operation of the School shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Baguio City High School for the Arts, the initial funding of which shall be charged against the current year's appropriation of the Schools Division Office of Baguio City. Thereafter, the amount necessary for the continued operation of the School shall be included in the annual General Appropriations Act.
 
 ## Section 8
 

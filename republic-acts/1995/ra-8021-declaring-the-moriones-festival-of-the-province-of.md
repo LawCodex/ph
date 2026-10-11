@@ -32,7 +32,7 @@ The Moriones Festival of the Province of Marinduque is hereby declared a major t
 
 ## Section 2
 
-The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government shall, within one (1) year from the approval of this Act, prepare a tourism development and promotion plan for the Moriones Festival. The plan shall provide for the construction and installation of such appropriate facilities and infrastructure as shall encourage tourism in the area and promote the festival as a religious and cultural heritage.1aшphi1
+The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government shall, within one (1) year from the approval of this Act, prepare a tourism development and promotion plan for the Moriones Festival. The plan shall provide for the construction and installation of such appropriate facilities and infrastructure as shall encourage tourism in the area and promote the festival as a religious and cultural heritage.
 
 ## Section 3
 

@@ -40,7 +40,7 @@ A new section is hereby inserted between Sections 11 and 12 of Republic Act No. 
 
 ## Section 3
 
-The succeeding sections are hereby renumbered accordingly.1aшphi1
+The succeeding sections are hereby renumbered accordingly.
 
 ## Section 4
 

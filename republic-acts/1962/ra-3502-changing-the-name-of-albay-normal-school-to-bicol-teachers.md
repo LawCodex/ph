@@ -29,6 +29,6 @@ The name of Albay Normal School is hereby changed to Bicol Teachers College.
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the Central Philippines Broadcasting Company is hereby authorize to mortgage its franchise granted under Republic Act Numbered Twenty-three hundred and eighty five, to any government-owned or controlled financial and/or banking institution.1âшphi1
+Any provision of law to the contrary notwithstanding, the Central Philippines Broadcasting Company is hereby authorize to mortgage its franchise granted under Republic Act Numbered Twenty-three hundred and eighty five, to any government-owned or controlled financial and/or banking institution.
 
 ## Section 2
 

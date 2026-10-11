@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bayambang National High School, Carungay Annex, in Barangay Carungay, Municipality of Bayambang Province of Pangasinan, is hereby changed to Moises B. Rebamontan Memorial High School.1âшphi1
+The name of the Bayambang National High School, Carungay Annex, in Barangay Carungay, Municipality of Bayambang Province of Pangasinan, is hereby changed to Moises B. Rebamontan Memorial High School.
 
 ## Section 2
 

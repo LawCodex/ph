@@ -133,7 +133,7 @@ Notwithstanding any provision of law to the contrary, the Board may authorize, f
 
 _Meetings of the Board._ \- The Board shall regularly convene once every three (3) months. The Chairperson of the Board may, however, call a special meeting whenever necessary: _Provided,_ That members are notified in writing at least three (3) days prior to the conduct of said meeting.
 
-A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided, however,_ That the Chairperson of the Board or the President of the ASUST is among those present in the meeting.ℒαwρhi৷
+A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided, however,_ That the Chairperson of the Board or the President of the ASUST is among those present in the meeting.
 
 In case the Chairperson of the CHED cannot attend a meeting of the Board, a CHED Commissioner duly assigned by the Chairperson of the CHED as representative to the meeting, shall have all the rights and responsibilities of a regular member: _Provided,_ That during the meeting, the President of the ASUST, as Vice Chairperson, shall be the presiding officer: _Provided, further,_ That this provision notwithstanding, the Chairperson of the CHED is hereby authorized to designate a CHED Commissioner as the regular Chairperson of the Board, in which case, the said CHED Commissioner shall act a the presiding officer.
 
@@ -249,7 +249,7 @@ _Filing of Report._ \- On or before the fifteenth (15th) day of the second (2nd)
 
 ## Section 24
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriation of the ASCOT.ℒαwρhi৷ Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriation of the ASCOT. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 25
 

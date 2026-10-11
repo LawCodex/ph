@@ -42,4 +42,4 @@ Presidential Decrees Nos. 885, 1736, 1835 and 1975 remain repealed, and all othe
 
 This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation.
 
-Approved: ****. lawphi1Ÿ
+Approved: ****.

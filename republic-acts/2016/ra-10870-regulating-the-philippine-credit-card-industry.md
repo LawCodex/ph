@@ -154,7 +154,7 @@ _Computations to be Disclosed._ \- In addition to the foregoing, a credit card i
 
 _Changes in the Manner of Computation and Fees._ \- The cardholder shall be notified at least ninety (90) days prior to any change in the manner of computation of the outstanding balance and the amount of fees to be imposed on the cardholder. If the cardholder finds the change to be unacceptable, he/she shall have the right to terminate his/her account with the credit card issuer subject to Section 25 of this Act.
 
-Compliance with this section may be deferred for such reasonable time as the BSP may determine within which credit card issuers should modify their systems accordingly.1avvphi1
+Compliance with this section may be deferred for such reasonable time as the BSP may determine within which credit card issuers should modify their systems accordingly.
 
 ## Section 14
 

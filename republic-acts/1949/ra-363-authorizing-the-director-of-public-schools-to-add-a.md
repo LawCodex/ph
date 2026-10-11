@@ -37,7 +37,7 @@ The surcharge provided for in this Act shall apply to the first delivery copies 
 
 ## Section 4
 
-Nothing in this Act shall be construed as prohibiting the sale of old copies of these textbook-anthologies on the basis of the old prices.⚖ - ℒαɯρhi৷
+Nothing in this Act shall be construed as prohibiting the sale of old copies of these textbook-anthologies on the basis of the old prices.
 
 ## Section 5
 

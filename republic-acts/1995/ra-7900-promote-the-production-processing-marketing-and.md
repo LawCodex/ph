@@ -114,7 +114,7 @@ j. _Fiscal incentives_ \- the same fiscal incentives granted by the Board of Inv
 
 _Inter-agency Committee._ \- a committee, composed of representatives from the Department of Agriculture, the Department of Agrarian Reform, the Bangko Sentral ng Pilipinas, the Land Bank of the Philippines, the Development Bank of the Philippines, the Cooperative Development Authority, the Department of Science and Technology, the Department of Trade and Industry, the Department of Environment and Natural Resources, and the Department of the Interior and Local Government and one (1) each from the small farmers and commercial producers sectors to be designated by the Secretary of Agriculture, shall formulate and prescribe, after public hearing and publication as required by law, the implementing rules and regulations in order to carry out the provisions of this Act. the representatives from the Department of Agriculture and the Department of Trade and Industry shall be the chairman and the vice-chairman, respectively, of the committee.
 
-The Secretary of the Department of Agriculture shall report to both Houses of Congress on the status of the High-Value Crops Development Program biannually.1aшphi1
+The Secretary of the Department of Agriculture shall report to both Houses of Congress on the status of the High-Value Crops Development Program biannually.
 
 ## Section 11
 
@@ -138,7 +138,7 @@ h. Establish experimental stations and seed farms for the development of varieti
 
 i. Devise and maintain a system for regularly obtaining information on current and future production, their prices and movement in trade, to determine and effect a balanced distribution of high-value crops by means of inter-trading or intra-trading among the established wholesale markets.
 
-Such amount as may be needed for the initial operating expenses of the group shall be charged to any available funds in the appropriation for current operating expenditures of the Department of Agriculture.1aшphi1 Thereafter, the amount necessary for its operations shall be included in the annual General Appropriations Act.
+Such amount as may be needed for the initial operating expenses of the group shall be charged to any available funds in the appropriation for current operating expenditures of the Department of Agriculture. Thereafter, the amount necessary for its operations shall be included in the annual General Appropriations Act.
 
 ## Section 12
 

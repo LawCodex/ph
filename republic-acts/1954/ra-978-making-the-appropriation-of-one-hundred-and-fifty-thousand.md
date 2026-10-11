@@ -28,6 +28,6 @@ The sum of one hundred and fifty thousand pesos appropriated in item H-IV-15, of
 
 ## Section 2
 
-This Act shall take effect as of May first, nineteen hundred and fifty-four.1âшphi1
+This Act shall take effect as of May first, nineteen hundred and fifty-four.
 
 Approved: May 18, 1954.

@@ -57,7 +57,7 @@ The amount necessary to carry out the provisions of this Act shall be charged ag
 
 ## Section 8
 
-The Department of Health shall issue the necessary rules and regulations for the effective implementation of this Act.1a⍵⍴h!1
+The Department of Health shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 9
 

@@ -29,7 +29,7 @@ A temporary permit is hereby granted to the Pamex Mining Co., Inc., to construct
 
 ## Section 2
 
-The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at the places selected by the grantee and is granted upon the express condition that the holder of the temporary permit herein granted shall start the operation thereof within one and one-half years from the approval of said temporary permit.1âшphi1 The grantee shall not engage in domestic business of telecommunication, it being understood that the temporary permit herein granted merely secures the right of the grantee to establish, maintain and operate private point-to-point radiotelephone stations at the places hereinabove stated for no other purpose than to promote, protect and subserve the mining business interests of the grantee.
+The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at the places selected by the grantee and is granted upon the express condition that the holder of the temporary permit herein granted shall start the operation thereof within one and one-half years from the approval of said temporary permit. The grantee shall not engage in domestic business of telecommunication, it being understood that the temporary permit herein granted merely secures the right of the grantee to establish, maintain and operate private point-to-point radiotelephone stations at the places hereinabove stated for no other purpose than to promote, protect and subserve the mining business interests of the grantee.
 
 ## Section 3
 

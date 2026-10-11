@@ -194,7 +194,7 @@ _Reversion to General Funds._ -All funds resulting from the dissolution and liqu
 
 ### Section 18
 
-_Applicability of the Corporation Law._ -The provisions of the Corporation Law which are not inconsistent with the provisions of this Act shall be applicable to the PTA.1âшphi1
+_Applicability of the Corporation Law._ -The provisions of the Corporation Law which are not inconsistent with the provisions of this Act shall be applicable to the PTA.
 
 ### Section 19
 

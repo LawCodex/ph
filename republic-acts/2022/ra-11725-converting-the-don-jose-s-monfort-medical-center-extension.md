@@ -34,7 +34,7 @@ The Don Jose S. Monfort Medical Center Extension Hospital in the Municipality of
 
 ## Section 2
 
-The authorized bed capacity of the Don Jose S. Monfort Medical Center shall be increased from one hundred (100) to three hundred (300) beds.ℒαwρhi৷ Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Don Jose S. Monfort Medical Center and submitted to the DOH.
+The authorized bed capacity of the Don Jose S. Monfort Medical Center shall be increased from one hundred (100) to three hundred (300) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Don Jose S. Monfort Medical Center and submitted to the DOH.
 
 ## Section 3
 

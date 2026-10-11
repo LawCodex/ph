@@ -32,7 +32,7 @@ There shall be established a national science high school in the capital town of
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1aшphi1
+The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

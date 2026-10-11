@@ -79,6 +79,6 @@ All laws, administrative orders, executive orders, and regulations, or parts the
 
 ## Section 11
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 15, 1954.

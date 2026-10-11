@@ -84,11 +84,11 @@ _Reportorial Requirement._ -The grantee shall submit an annual report to the Con
 
 The annual report shall include an update on the roll-out, development, operation and/or expansion of business; audited financial statements; latest CIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.1âшphi1
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 
-_Fine._ -Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (₱500.00) per working day of noncompliance.1âшphi1 The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.
+_Fine._ -Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.
 
 ## Section 14
 

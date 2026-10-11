@@ -81,7 +81,7 @@ _Warranty in Favor of National and Local Governments._ \- The grantee shall hold
 
 ## Section 12
 
-_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired there under to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines.1aшphi1 Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
+_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired there under to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
 
 ## Section 13
 

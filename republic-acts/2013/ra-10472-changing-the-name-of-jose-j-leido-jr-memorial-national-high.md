@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Renaming of a National High School._ – The name of Jose J. Leido Jr. Memorial National High School in the City of Calapan, Province of Oriental Mindoro is hereby changed to Oriental Mindoro National High School.1âwphi1
+_Renaming of a National High School._ – The name of Jose J. Leido Jr. Memorial National High School in the City of Calapan, Province of Oriental Mindoro is hereby changed to Oriental Mindoro National High School.
 
 ## Section 2
 

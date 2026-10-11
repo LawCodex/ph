@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Bureau of Animal Industry, an artificial insemination station in the Municipality of Magdiwang, Island of Sibuyan, Province of Romblon, to be known as Sibuyan Artificial Insemination Station.1âшphi1
+There shall be established, under the supervision of the Bureau of Animal Industry, an artificial insemination station in the Municipality of Magdiwang, Island of Sibuyan, Province of Romblon, to be known as Sibuyan Artificial Insemination Station.
 
 ## Section 2
 

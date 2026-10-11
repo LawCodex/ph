@@ -37,7 +37,7 @@ _Territory of the City of General Santos._ — The City of General Santos, which
 
 ### Section 3
 
-_Corporate Character._ — The City of General Santos, hereinafter called the city, constitute a political body corporate and as such is endowed with the attribute of perpetual succession and possessed of the powers which pertain to a municipal corporation, to be exercised in conformity with the provisions of this Charter. The provisions of this Charter shall be liberally construed in favor of the city, to the end that it may have all the necessary powers for the efficient conduct of its city affairs.1avvphi1 The specific mention of particular powers in other sections of this Charter shall not be construed as limiting the powers of the city in the premises to those thus mentioned.
+_Corporate Character._ — The City of General Santos, hereinafter called the city, constitute a political body corporate and as such is endowed with the attribute of perpetual succession and possessed of the powers which pertain to a municipal corporation, to be exercised in conformity with the provisions of this Charter. The provisions of this Charter shall be liberally construed in favor of the city, to the end that it may have all the necessary powers for the efficient conduct of its city affairs. The specific mention of particular powers in other sections of this Charter shall not be construed as limiting the powers of the city in the premises to those thus mentioned.
 
 ### Section 4
 

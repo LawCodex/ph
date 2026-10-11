@@ -110,7 +110,7 @@ _Reportorial Requirement._ \- The grantee shall submit an annual report to the C
 
 The annual report shall include an update on the roll-out, development, operation and/or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.ℒαwρhi৷
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 18
 

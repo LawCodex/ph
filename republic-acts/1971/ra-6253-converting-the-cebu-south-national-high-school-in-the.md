@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Cebu South National High School in the Province of Cebu, is hereby converted into a national agro-industrial school to be known as the Cebu Southern Agro-Industrial School.1âшphi1
+The Cebu South National High School in the Province of Cebu, is hereby converted into a national agro-industrial school to be known as the Cebu Southern Agro-Industrial School.
 
 ## Section 2
 

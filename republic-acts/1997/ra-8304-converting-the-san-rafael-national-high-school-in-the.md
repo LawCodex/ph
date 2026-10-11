@@ -98,7 +98,7 @@ There shall be a registrar of the San Rafael National Science High School, who s
 
 ## Section 11
 
-There shall be a treasurer of the San Rafael Science High School who shall be appointed by the director with the approval of the Board of Trustees.1aшphi1 All accounts and expenses shall be subject to the usual government auditing.
+There shall be a treasurer of the San Rafael Science High School who shall be appointed by the director with the approval of the Board of Trustees. All accounts and expenses shall be subject to the usual government auditing.
 
 ## Section 12
 

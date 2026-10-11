@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby established a reception center of the Social Welfare Administration in the City of Angeles.1âшphi1 The said center shall be erected in a two-hectare site to be provided by the said city.
+There is hereby established a reception center of the Social Welfare Administration in the City of Angeles. The said center shall be erected in a two-hectare site to be provided by the said city.
 
 ## Section 2
 

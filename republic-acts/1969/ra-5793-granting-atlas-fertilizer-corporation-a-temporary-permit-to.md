@@ -36,7 +36,7 @@ The grantee, its successors or assigns, shall not engage in domestic public tele
 
 ## Section 4
 
-No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall be engaged in communications regarding the grantee's business interests: _Provided, however,_ That the grantee may allow affiliate, allied or associated companies to use any of its facilities on a non-profit basis.1âшphi1
+No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall be engaged in communications regarding the grantee's business interests: _Provided, however,_ That the grantee may allow affiliate, allied or associated companies to use any of its facilities on a non-profit basis.
 
 ## Section 5
 

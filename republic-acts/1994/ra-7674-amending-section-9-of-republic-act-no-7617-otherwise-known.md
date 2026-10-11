@@ -35,7 +35,7 @@ Section 9 of Republic Act No. 7617 is hereby amended to read as follows:
 
 ## Section 2
 
-_Repealing Clause_. - All laws, executive orders, regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed or modified accordingly.1a⍵⍴h!1
+_Repealing Clause_. - All laws, executive orders, regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed or modified accordingly.
 
 ## Section 3
 

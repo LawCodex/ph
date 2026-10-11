@@ -46,7 +46,7 @@ There shall be a career service program to assist students in the pursuit of the
 
 ## Section 5
 
-The Marcelino R. Veloso National Polytechnic College shall be headed by a college superintendent, who shall be appointed by the chairperson of the Commission on Higher Education. The powers and duties of the college superintendent shall be the same as those vested in and exercised by other superintendents of existing government colleges.1aшphi1
+The Marcelino R. Veloso National Polytechnic College shall be headed by a college superintendent, who shall be appointed by the chairperson of the Commission on Higher Education. The powers and duties of the college superintendent shall be the same as those vested in and exercised by other superintendents of existing government colleges.
 
 All its school personnel shall be covered by the civil service law and rules.
 

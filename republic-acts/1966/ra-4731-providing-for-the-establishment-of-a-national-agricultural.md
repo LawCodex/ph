@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Director of Vocational 
 
 ## Section 2
 
-Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portions of the public lands located within the Municipality of San Jose, Province of Occidental Mindoro, as may be necessary and convenient for the establishment of the school and farm sites.1avvphi1
+Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portions of the public lands located within the Municipality of San Jose, Province of Occidental Mindoro, as may be necessary and convenient for the establishment of the school and farm sites.
 
 ## Section 3
 

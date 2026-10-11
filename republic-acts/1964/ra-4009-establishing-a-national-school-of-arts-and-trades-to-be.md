@@ -33,7 +33,7 @@ The Secretary of Education is hereby empowered to organize said school. He may l
 
 ## Section 3
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school during the school year nineteen hundred and sixty-four to nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school during the school year nineteen hundred and sixty-four to nineteen hundred sixty-five. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

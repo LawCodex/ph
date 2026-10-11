@@ -32,7 +32,7 @@ The Securities and Exchange Commission shall be entitled to collect and receive 
 
 ## Section 3
 
-All Acts or parts of Acts inconsistent or in conflict with this Act are hereby repealed.1âшphi1
+All Acts or parts of Acts inconsistent or in conflict with this Act are hereby repealed.
 
 ## Section 4
 

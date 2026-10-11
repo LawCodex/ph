@@ -132,7 +132,7 @@ _Reportorial Requirement._ \- The Grantee shall submit an annual report to the C
 
 The annual report shall include an update on the rollout, development, operation and/or expansion of the business; audited financial statements; latest GIS officially submitted to the SEC (if available or applicable); certification from the ERC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-A reportorial compliance certificate issued by Congress shall be required before any application for a permit or certificate is accepted by the ERC.1aшphi1
+A reportorial compliance certificate issued by Congress shall be required before any application for a permit or certificate is accepted by the ERC.
 
 The ERC shall, one (1) year from the effectivity of this Act and every five (5) years thereafter, conduct a comprehensive assessment on the Grantee's operations and compliance with the conditions imposed hereunder and shall submit a report thereof to Congress. The Grantee shall submit to the ERC all information and documents necessary to complete such assessment.
 

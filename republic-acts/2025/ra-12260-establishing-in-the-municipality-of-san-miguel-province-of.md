@@ -29,7 +29,7 @@ There shall be established in the Municipality of San Miguel, Province of Zamboa
 
 ## Section 2
 
-The Provincial Government of Zamboanga del Sur shall manage the Zamboanga del Sur Second District Hospital, and prepare, in consultation with the Department of Health, a hospital development plan that aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, healthcare facilities, service capability, and human resource complement shall be based on the hospital development plan.ℒαwρhi৷
+The Provincial Government of Zamboanga del Sur shall manage the Zamboanga del Sur Second District Hospital, and prepare, in consultation with the Department of Health, a hospital development plan that aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, healthcare facilities, service capability, and human resource complement shall be based on the hospital development plan.
 
 ## Section 3
 

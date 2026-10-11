@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of ten thousand pesos or so much thereof as may be necessary is appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses in locating in Lanao and transporting the mortal remains of the late Justice Jose Abad Santos to and then its enshrinement in Pampanga or any other place where his family desires his remains to be enshrined.1âшphi1
+The sum of ten thousand pesos or so much thereof as may be necessary is appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses in locating in Lanao and transporting the mortal remains of the late Justice Jose Abad Santos to and then its enshrinement in Pampanga or any other place where his family desires his remains to be enshrined.
 
 ## Section 2
 

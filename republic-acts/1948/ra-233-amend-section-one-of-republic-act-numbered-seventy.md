@@ -30,6 +30,6 @@ Section one of Republic Act Numbered Seventy is amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 9, 1948.

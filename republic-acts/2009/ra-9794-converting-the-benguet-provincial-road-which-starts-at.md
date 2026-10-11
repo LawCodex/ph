@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Benguet Provincial Road which starts at Kilometer 12 in Barangay Tawang and traverses Barangay Lamut in the Municipality of La Trinidad, Province of Benguet and ends at Barangay Pacdal, Baguio City is hereby converted into a national road.lawphil
+The Benguet Provincial Road which starts at Kilometer 12 in Barangay Tawang and traverses Barangay Lamut in the Municipality of La Trinidad, Province of Benguet and ends at Barangay Pacdal, Baguio City is hereby converted into a national road.
 
 ## Section 2
 

@@ -165,7 +165,7 @@ _Incidental Vacancy.—_ In case of concurrent vacancy in the positions of Chair
 
 ## Section 12
 
-_Terms of Office.—_ The five directors first appointed to the Commission shall have terms of office in such manner that two shall serve for two years, and three, including the Chairman, for four years.1avvphi1 Thereafter, each director appointed shall serve for four years: _Provided,_ That any person appointed to fill a vacancy shall hold office only for the unexpired term of the director whom he succeeds.
+_Terms of Office.—_ The five directors first appointed to the Commission shall have terms of office in such manner that two shall serve for two years, and three, including the Chairman, for four years. Thereafter, each director appointed shall serve for four years: _Provided,_ That any person appointed to fill a vacancy shall hold office only for the unexpired term of the director whom he succeeds.
 
 ## Section 13
 

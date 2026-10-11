@@ -33,7 +33,7 @@ The College shall primarily provide professional and advanced vocational, techni
 
 ## Section 3
 
-The College shall maintain, in addition to secondary education program, undergraduate and graduate courses in the fields of engineering and industrial technologies. It shall also offer short-term vocational, technical and technology courses.1âшphi1
+The College shall maintain, in addition to secondary education program, undergraduate and graduate courses in the fields of engineering and industrial technologies. It shall also offer short-term vocational, technical and technology courses.
 
 ## Section 4
 

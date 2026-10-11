@@ -31,7 +31,7 @@ There shall be established, in the City of San Jose, Province of Nueva Ecija, a 
 
 ## Section 2
 
-The Sen. Edgardo J. Angara General Hospital shall prioritize prenatal testing, obstetrics and gynecological services, pediatrics care, lactation programs, nutrition services, neonatal care, immunization services, postpartum depression support, education classes for parenting, and women's and children's health awareness.ℒαwρhi৷
+The Sen. Edgardo J. Angara General Hospital shall prioritize prenatal testing, obstetrics and gynecological services, pediatrics care, lactation programs, nutrition services, neonatal care, immunization services, postpartum depression support, education classes for parenting, and women's and children's health awareness.
 
 ## Section 3
 

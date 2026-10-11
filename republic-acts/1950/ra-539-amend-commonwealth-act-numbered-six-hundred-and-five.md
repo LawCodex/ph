@@ -30,7 +30,7 @@ Section one, two, three and nineteen of Commonwealth Act Numbered Six hundred an
 
 "**Section 2.** In case of death of a veteran pensioner, or an applicant for a pension to which he is entitled, the accrued and uncollected pension up to the date of his death shall be paid to the widow, or in default thereof, to his lawful children.
 
-"Where there are no lawful children, the payment of the pension in arrears shall not be authorized except such part thereof as may be necessary for the payment or refund to the party concerned of the expenses for burial and last illness of the deceased.7!ᕼdMᗄ7
+"Where there are no lawful children, the payment of the pension in arrears shall not be authorized except such part thereof as may be necessary for the payment or refund to the party concerned of the expenses for burial and last illness of the deceased.
 
 "Notwithstanding the death of the prisoner, or the applicant for a pension to which he is entitled, the widow or in default thereof, to his lawful children, shall be entitled to continue receiving the pension, and paid at the time and in the manner provided in section three of this Act until they reach the age of sixteen."
 

@@ -32,7 +32,7 @@ Items (3) and (28), sub-paragraph q, paragraph three, title A, section one of Re
 
 ## Section 2
 
-Item (13), sub-paragraph q, paragraph four, title A, section one of Republic Act Numbered Twelve hundred, is hereby repealed.1âшphi1
+Item (13), sub-paragraph q, paragraph four, title A, section one of Republic Act Numbered Twelve hundred, is hereby repealed.
 
 ## Section 3
 

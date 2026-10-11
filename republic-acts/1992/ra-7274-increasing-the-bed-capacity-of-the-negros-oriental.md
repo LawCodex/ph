@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Negros Oriental Provincial Hospital in Dumaguete City, Province of Negros Oriental, is hereby increased from two hundred fifty (250) to three hundred (300) beds.1âшphi1
+The bed capacity of the Negros Oriental Provincial Hospital in Dumaguete City, Province of Negros Oriental, is hereby increased from two hundred fifty (250) to three hundred (300) beds.
 
 ## Section 2
 

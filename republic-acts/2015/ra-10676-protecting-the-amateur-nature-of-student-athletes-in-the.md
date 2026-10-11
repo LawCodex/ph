@@ -106,7 +106,7 @@ _Prosecution of Action._ –
 
 (c) Investigation. – Athletic associations may, _motu propria_ or upon written complaint, investigate violations of this Act and impose the appropriate penalties, such as suspending or banning the student-athlete from playing and/or the school from participating in their respective leagues: _Provided,_ That if the respondent is the athletic association, or if there is reason to believe that the athletic association will not act upon the complaint, a written complaint may be filed directly with the DepED or the CHED.
 
-(d) Appeal. – Within fifteen (15) days upon receipt of the decision of the athletic association, an appeal may be filed with the DepED or the CHED.1âwphi1
+(d) Appeal. – Within fifteen (15) days upon receipt of the decision of the athletic association, an appeal may be filed with the DepED or the CHED.
 
 (e) Inaction or inhibition. – Within thirty (30) days from filing of the complaint, there being no action from the athletic association, the student-athlete or his/her representative may directly file a written complaint with the DepED or the CHED.
 

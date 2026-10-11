@@ -111,7 +111,7 @@ _The Administration._ — The administration of the College shall be vested in t
 
 The College President shall be appointed by the Board of Trustees. He shall be assisted by a Vice-President for Academic Affairs who shall be appointed by the Board upon recommendation of the College President. His Compensation shall be fixed by the Board.
 
-The President shall hold office for a term of six (6) years without reappointment unless he reaches the age of retirement or earlier removed for cause or incapacitated to discharge the duties of the office.1âшphi1
+The President shall hold office for a term of six (6) years without reappointment unless he reaches the age of retirement or earlier removed for cause or incapacitated to discharge the duties of the office.
 
 In case of vacancy by reason of death, resignation, removal for cause or incapacity of the President to perform the functions of his office, the Board shall have the authority to designate an officer-in-charge of the College pending the appointment of a new president.
 

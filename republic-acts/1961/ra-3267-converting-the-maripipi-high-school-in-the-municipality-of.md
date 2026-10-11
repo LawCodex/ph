@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Maripipi High School in the Municipality of Maripipi, Province of Leyte, is hereby converted into a national ceramics school to be known as the Maripipi National Ceramics School. The Secretary of Education is hereby empowered to reorganize said school accordingly.1avvphi1
+The Maripipi High School in the Municipality of Maripipi, Province of Leyte, is hereby converted into a national ceramics school to be known as the Maripipi National Ceramics School. The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 2
 

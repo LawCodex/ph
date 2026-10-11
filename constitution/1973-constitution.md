@@ -338,7 +338,7 @@ No Member of the National Assembly shall appear as counsel before any court infe
 
 3. In case of dissolution of the National Assembly or the termination of its regular term, the incumbent Prime Minister and the Cabinet shall continue to conduct the affairs of government until the new National Assembly is convoked and a Prime Minister is elected and has qualified.
 
-### Section. 14
+**Section. 14.**
 
 1. Except as otherwise provided in this Constitution, no treaty shall be valid and effective unless concurred in by a majority of all the Members of the National Assembly.
 

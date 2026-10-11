@@ -43,7 +43,7 @@ The Chief Justice of the Supreme Court, in coordination with the Secretary of th
 
 ## Section 4
 
-Section 14(l) of Batas Pambansa Blg. 129, otherwise known as "The Judiciary Reorganization Act of 1980″, as amended, as well as other provisions that may be inconsistent herewith, is hereby deemed repealed, modified and/or further amended.1âwphi1
+Section 14(l) of Batas Pambansa Blg. 129, otherwise known as "The Judiciary Reorganization Act of 1980″, as amended, as well as other provisions that may be inconsistent herewith, is hereby deemed repealed, modified and/or further amended.
 
 ## Section 5
 

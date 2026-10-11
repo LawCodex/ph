@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Libas Gua, Libas Sub, San Roque, Baras, Maitum, Siagao, Caromata, Umalag, Calatangan, Badying, Bitaogan and San Miguel in the Municipality of Tago, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of San Miguel, same province.1âшphi1 The seat of government of the new municipality shall be in the present site of the barrio of San Miguel.1âшphi1
+The barrios of Libas Gua, Libas Sub, San Roque, Baras, Maitum, Siagao, Caromata, Umalag, Calatangan, Badying, Bitaogan and San Miguel in the Municipality of Tago, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of San Miguel, same province. The seat of government of the new municipality shall be in the present site of the barrio of San Miguel.
 
 ## Section 2
 

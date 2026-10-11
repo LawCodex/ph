@@ -34,7 +34,7 @@ Upon retirement a Justice of the Supreme Court or of the Court of Appeals shall 
 
 ## Section 4
 
-A retiring Justice who is entitled to the benefits of any prior retirement gratuity Act shall have the option to choose between the benefits in such Act and those herein provided for, and in such case he shall be entitled only to the benefits so chosen: Provided, however, That a Justice retired under any prior Act and who is thereafter appointed to the Supreme Court or to the Court of Appeals, shall be entitled to the benefits of this Act on condition that, in case he has not fully refunded to the Government the gratuity previously received by him, there shall be deducted from the amount payable to him under this Act such monthly installments as are required in section six of Act Numbered Four thousand and fifty-one, as amended, until the gratuity already received by him shall have been refunded in full.lawphil.net
+A retiring Justice who is entitled to the benefits of any prior retirement gratuity Act shall have the option to choose between the benefits in such Act and those herein provided for, and in such case he shall be entitled only to the benefits so chosen: Provided, however, That a Justice retired under any prior Act and who is thereafter appointed to the Supreme Court or to the Court of Appeals, shall be entitled to the benefits of this Act on condition that, in case he has not fully refunded to the Government the gratuity previously received by him, there shall be deducted from the amount payable to him under this Act such monthly installments as are required in section six of Act Numbered Four thousand and fifty-one, as amended, until the gratuity already received by him shall have been refunded in full.
 
 ## Section 5
 

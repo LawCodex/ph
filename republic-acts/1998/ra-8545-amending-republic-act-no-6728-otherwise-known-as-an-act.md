@@ -145,6 +145,8 @@ Republic Act No. 6728, otherwise known as the **_"Government Assistance to Stude
 
 "Sec. 20. _Effectivity Clause._ – This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation: _Provided,_ That the implementation of new programs of assistance provided in this Act shall be effective in the school year of the succeeding fiscal year within which the appropriations necessary to implement the new programs shall have been approved into law."
 
-**Section 2._Effectivity Clause._** – This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation.
+## Section 2
+
+_Effectivity Clause._ – This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation.
 
 _Approved:_ **February 24, 1998**

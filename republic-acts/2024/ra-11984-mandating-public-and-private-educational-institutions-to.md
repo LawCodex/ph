@@ -54,7 +54,7 @@ _Implementing Rules and Regulations._ \- The DSWD shall, in consultation with al
 
 ## Section 7
 
-_Separability Clause._ \- If any provision or part hereof is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in full force and effect.1aшphi1
+_Separability Clause._ \- If any provision or part hereof is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in full force and effect.
 
 ## Section 8
 

@@ -32,7 +32,7 @@ The Fisheries Commissioner shall appoint such personnel as may be necessary to c
 
 ## Section 3
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station and culture farm.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said station and culture farm.
 
 ## Section 4
 

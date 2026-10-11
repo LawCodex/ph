@@ -35,7 +35,7 @@ As used in this Act:
 
 (4) "Foreign exchange" refers to any medium for effecting international payments.
 
-(5) "Old importer" refers to any person, whether natural or juridical, who imported a particular commodity in the years nineteen hundred forty-six, nineteen hundred forty-seven and/or nineteen hundred forty-eight.1awphil@alf
+(5) "Old importer" refers to any person, whether natural or juridical, who imported a particular commodity in the years nineteen hundred forty-six, nineteen hundred forty-seven and/or nineteen hundred forty-eight.
 
 (6) "New importer" refers to all other importers.
 
@@ -44,8 +44,6 @@ As used in this Act:
 (8) "Commissioner" refers to the Chief of the Import Control Administration.
 
 (b) Appendices A, B, C and D as attached, are hereby made an integral part of this Act.
-
-1awphil@alf
 
 ## Section 2
 
@@ -85,8 +83,6 @@ b. The Import Control Administration shall create a Research and Statistics Divi
 
 c. The President of the Philippines shall have direct control and supervision and control over the Board and the Import Control Administration.
 
-1awphil@alf
-
 ## Section 5
 
 Any person desiring to import any article, goods or commodities into the Philippines shall file an application for a corresponding quota allocation and license with the Import Control Administration. For old importers, the application shall be executed under oath and shall contain, among others, their name, address, nationality, stock on hand of the goods applied, the amount of their importation in the years nineteen forty-six, nineteen forty-seven and nineteen forty-eight of the articles, goods or commodities applied for; and if a new importer, his application shall contain a statement of his actual financial resources to finance the importation of the goods applied for.
@@ -103,7 +99,7 @@ Import quotas shall be fixed by the Import Control Board in accordance with the 
 
 Consistent with the policy of conserving international monetary reserves and until domestic production warrants reduction of importation, entry of these commodities shall be allowed as much as possible.
 
-(2) Essential imports consisting of articles, goods and commodities which, though not of prime and/or first necessity, are necessary for the health and material well- being of the people like those enumerated in Appendix "B", shall be reduced by not less than forty per centum nor more than sixty per centum.1awphil@alf
+(2) Essential imports consisting of articles, goods and commodities which, though not of prime and/or first necessity, are necessary for the health and material well- being of the people like those enumerated in Appendix "B", shall be reduced by not less than forty per centum nor more than sixty per centum.
 
 Importation of these commodities shall be gradually reduced with the end in view of encouraging their domestic production.
 
@@ -117,7 +113,7 @@ To foster the habit of thrift among the people and to conserve further our dolla
 
 Upon the joint certification by the Secretary of Agriculture and Natural Resources and the Secretary of Commerce and Industry that the domestic supply of certain articles, goods or commodities heretofore imported is sufficient to meet the local demand, the Board shall impose the maximum percentage reduction on the import quotas for such articles, goods or commodities, as provided for in this Act. Upon the certification by the Secretary of Agriculture and Natural Resources and the Secretary of Commerce and Industry that an article or commodity not under control has a sufficient local supply to meet adequately the local demand, and the Board upon investigation, is convinced of the necessity of controlling such items to protect local industry or industries, the Import Control Board, may, place in control list the said article or commodity.
 
-The Import Control Board is hereby authorized to transfer a controlled import item from a lower class to a higher class of import should the Board be convinced that the local supply of said commodity warrants said transfer.ITC@alf
+The Import Control Board is hereby authorized to transfer a controlled import item from a lower class to a higher class of import should the Board be convinced that the local supply of said commodity warrants said transfer.
 
 ## Section 8
 
@@ -209,12 +205,12 @@ The Import Control Board shall, as soon as possible and in no case exceeding six
 
 This Act shall take effect upon its approval.
 
-Approved:1awphil@alf May 19, 1950
+Approved: May 19, 1950
 
 APPENDIX "A"  
 (Controlled Prime Imports)
 
-Corned beef1awphil@alf
+Corned beef
 
 Meat, fresh, chilled or frozen:
 
@@ -262,8 +258,6 @@ Cordage
 Oakum
 Threads and twines
 Others
-
-1awphil@alf
 
 APPENDIX "B"  
 (Controlled Essential Imports)

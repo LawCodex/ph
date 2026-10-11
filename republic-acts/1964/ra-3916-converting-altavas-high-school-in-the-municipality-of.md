@@ -33,7 +33,7 @@ The Secretary of Education is hereby empowered to reorganize said school accordi
 
 ## Section 3
 
-The sum of two hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such sums as may be needed for its operation shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

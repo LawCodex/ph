@@ -41,7 +41,7 @@ The present incumbents of the above positions shall receive their salary adjustm
 
 ## Section 2
 
-Such sums as may be necessary to carry out the provisions of this Act are hereby appropriated out of any funds in the National Treasury not otherwise appropriated.1avvphi1
+Such sums as may be necessary to carry out the provisions of this Act are hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 3
 

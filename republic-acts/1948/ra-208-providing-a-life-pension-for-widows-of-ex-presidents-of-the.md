@@ -28,6 +28,6 @@ The widow of an ex-President of the Philippines, or of a President who dies in o
 
 ## Section 2
 
-This Act shall take effect on April fifteen, nineteen hundred and forty-eight.1aшphi1
+This Act shall take effect on April fifteen, nineteen hundred and forty-eight.
 
 Approved: June 1, 1948.

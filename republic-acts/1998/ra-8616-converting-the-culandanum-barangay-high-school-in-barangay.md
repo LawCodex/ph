@@ -31,7 +31,7 @@ The existing Culandanum Barangay High School in Barangay Culandanum, Municipalit
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue the necessary rules, orders or circulars to implement the provisions of this Act.(awÞhi(
+The Secretary of the Department of Education, Culture and Sports shall issue the necessary rules, orders or circulars to implement the provisions of this Act.
 
 ## Section 3
 

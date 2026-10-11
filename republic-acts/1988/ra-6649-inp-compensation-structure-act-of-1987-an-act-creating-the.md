@@ -24,21 +24,33 @@ AN ACT CREATING THE REGIONAL CONSULTATIVE COMMISSION FOR MUSLIM MINDANAO, PRESCR
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title of the Act._** — This Act shall be known as “The Regional Consultative Commission Act of 1988 for the Autonomous Region in Muslim Mindanao."
+## Section 1
 
-**Section 2._Purpose of the Commission._** — It is the purpose of the Regional Consultative Commission to assist in the enactment by Congress of the Organic Act for the Autonomous region in Muslim Mindanao.
+_Title of the Act._ — This Act shall be known as “The Regional Consultative Commission Act of 1988 for the Autonomous Region in Muslim Mindanao."
 
-**Section 3._Composition of the Commission._** — To carry out the above purpose, and considering ethno-linguistic, geographical, sectoral, educational and cultural factors, there is hereby created the Regional Consultative Commission, hereinafter referred to as the "Commission," which shall be composed for not more than fifty-five (55) members, twenty-seven (27) of whom shall be appointed by the President of the Philippines from a list of nominees proposed by the different multisectoral bodies coming from the provinces of Basilan, Sulu, Tawi-Tawi, Zamboanga del Sur, Zamboanga del Norte, North Cotabato, Maguindanao, Sultan Kudarat, Lanao del Norte, Lanao del Sur, Davao del Sur, South Cotabato, and Palawan, as well as the chartered city of Zamboanga and the component cities therein: provided, that each of the twenty-seven (27) legislative districts in the abovementioned provinces and city shall have one (1) representative who shall be a resident thereof; provided, further, that the enumeration of the aforementioned provinces and city shall not mean that all or any them constitute Muslim Mindanao as the term appears in Sections 15 and 19 of Article of the Constitution: provided, furthermore, that the President may, at her own discretion, appoint not more than twenty-eight (28) other sectoral representatives to the Commission from the proposed area of autonomy; provided finally, that all nominees to the Regional Consultative Commission shall be subject to confirmation by the Commission on Appointments and the ethnic groups shall be properly represented.
+## Section 2
 
-**Section 4._Qualification._** — No. person shall be appointed member of the Commission unless he is natural-born citizen of the Philippines, at least eighteen (18) years of age at the time of his appointment, a resident of the region for at least five (5) years immediately preceding the appointment, a qualified voter or one who would qualify as such, and of recognized probity, integrity, independence and nationalism.
+_Purpose of the Commission._ — It is the purpose of the Regional Consultative Commission to assist in the enactment by Congress of the Organic Act for the Autonomous region in Muslim Mindanao.
 
-**Section 5._Disqualification._** — The following are disqualified from being members of the Commission:
+## Section 3
+
+_Composition of the Commission._ — To carry out the above purpose, and considering ethno-linguistic, geographical, sectoral, educational and cultural factors, there is hereby created the Regional Consultative Commission, hereinafter referred to as the "Commission," which shall be composed for not more than fifty-five (55) members, twenty-seven (27) of whom shall be appointed by the President of the Philippines from a list of nominees proposed by the different multisectoral bodies coming from the provinces of Basilan, Sulu, Tawi-Tawi, Zamboanga del Sur, Zamboanga del Norte, North Cotabato, Maguindanao, Sultan Kudarat, Lanao del Norte, Lanao del Sur, Davao del Sur, South Cotabato, and Palawan, as well as the chartered city of Zamboanga and the component cities therein: provided, that each of the twenty-seven (27) legislative districts in the abovementioned provinces and city shall have one (1) representative who shall be a resident thereof; provided, further, that the enumeration of the aforementioned provinces and city shall not mean that all or any them constitute Muslim Mindanao as the term appears in Sections 15 and 19 of Article of the Constitution: provided, furthermore, that the President may, at her own discretion, appoint not more than twenty-eight (28) other sectoral representatives to the Commission from the proposed area of autonomy; provided finally, that all nominees to the Regional Consultative Commission shall be subject to confirmation by the Commission on Appointments and the ethnic groups shall be properly represented.
+
+## Section 4
+
+_Qualification._ — No. person shall be appointed member of the Commission unless he is natural-born citizen of the Philippines, at least eighteen (18) years of age at the time of his appointment, a resident of the region for at least five (5) years immediately preceding the appointment, a qualified voter or one who would qualify as such, and of recognized probity, integrity, independence and nationalism.
+
+## Section 5
+
+_Disqualification._ — The following are disqualified from being members of the Commission:
 
 a) Persons disqualified under the Constitution, and existing laws;
 
 b) Persons convicted of a crime involving moral turpitude.
 
-**Section 6._Oath or affirmation._** — Members of the Commission shall qualify and assume office by taking the following oath or affirmation:
+## Section 6
+
+_Oath or affirmation._ — Members of the Commission shall qualify and assume office by taking the following oath or affirmation:
 
 "I,___________________________________ having been appointed to the position of
 (name)
@@ -53,7 +65,9 @@ voluntarily, without reservation or purpose of evasion.
 So help me God."
 Provided, that in case of affirmation, this sentence may be omitted.
 
-**Section 7._Organization._** — (a) The office of the President of the Philippines shall take charge of all arrangements for the convening of the Regional Consultative Commission.
+## Section 7
+
+_Organization._ — (a) The office of the President of the Philippines shall take charge of all arrangements for the convening of the Regional Consultative Commission.
 
 (b) The Commission shall be convened by the President of the Philippines or her duly authorized representative within fifteen (15) days after the approval for this Act. The opening session shall be held in the City of Zamboanga at 10:00 o'clock in the morning, or in such other date and place as may be fixed by the President.
 
@@ -71,15 +85,21 @@ Consultations with committees of either House of Congress shall be held at heir 
 
 (h) The buildings of the Sangguniang Pampook and their premises in the cities of Zamboanga and Cotabato are hereby made available for the use of the Commission.
 
-**Section 8._Filing of Vacancies._** — Whenever a vacancy occurs in the Commission, the President may, upon the certification by the Chairman of the Commission, fill the vacancy by appointment, with the consent of the Commission on Appointments, after consultation with the group or sector represented by the member whose seat has become vacant.
+## Section 8
 
-**Section 9._Parliamentary Immunities._** — (a) A member at of the Commission shall, in all offenses punishable by not more than six (6) years imprisonment, be privileged from arrest while the Commission is in session.
+_Filing of Vacancies._ — Whenever a vacancy occurs in the Commission, the President may, upon the certification by the Chairman of the Commission, fill the vacancy by appointment, with the consent of the Commission on Appointments, after consultation with the group or sector represented by the member whose seat has become vacant.
+
+## Section 9
+
+_Parliamentary Immunities._ — (a) A member at of the Commission shall, in all offenses punishable by not more than six (6) years imprisonment, be privileged from arrest while the Commission is in session.
 
 (b) A member of the Commission shall not be questioned nor held liable in any other place for any speech or debate in the Commission, in any committee thereof, or in any public hearing conducted by the Commission or any committee hereof whenever held.
 
 (c) The penalties imposed in Articles 143, 144 and 145 of the Revised Penal Code, as amended, for offenses defined therein shall apply to any person committing an offense against the Commission or it committees; or subcommittees, or to members thereof.
 
-**Section 10._Responsibilities and Functions of the Commission._** — Pursuant to the mandate of the Commission, Congress shall enact an organic act for the autonomous region in Muslim Mindanao with the assistance of the Regional Consultative Commission, and for this purpose:
+## Section 10
+
+_Responsibilities and Functions of the Commission._ — Pursuant to the mandate of the Commission, Congress shall enact an organic act for the autonomous region in Muslim Mindanao with the assistance of the Regional Consultative Commission, and for this purpose:
 
 (a) The Commission shall conduct public consultations and hearings at the district level and on regional basis, where the views and recommendation of various sectors, both governmental and non-governmental, shall be taken and recorded.
 
@@ -89,20 +109,34 @@ Consultations with committees of either House of Congress shall be held at heir 
 
 (d) Within one hundred fifty (150) days from its convening the Commission shall submit to Congress for its information and consideration, periodic reports aside from its final report relative to the proposed organic act. The final draft of the report of the Commission shall be approved by a majority of all the members of the Commission.
 
-**Section 11._Congressional Liaison._** — In order to ensure coordination between Congress and the Commission, there is hereby created a special ad hoc committee composed of five (5) members each from the Senate and the House of Representatives to be designated by the President of the Senate and the Speaker of the House of Representatives, respectively, The ad hoc committees shall be co-chaired by the Chairman of the Senate Committee on Local Government and the Chairman of the House Committee on Local Government.t shall be the purpose and function of the committee to oversee the work of the Commission.
+## Section 11
 
-**Section 12._Enactment of the Organic Act._** — Congress shall enact an organic act, taking into account the report and recommendations submitted by the Commission. Nothing provided in this Act, however, shall be interpreted to restrict or impair the power of Congress to accept, modify or reject any part or all the report and recommendations of the Commission.
+_Congressional Liaison._ — In order to ensure coordination between Congress and the Commission, there is hereby created a special ad hoc committee composed of five (5) members each from the Senate and the House of Representatives to be designated by the President of the Senate and the Speaker of the House of Representatives, respectively, The ad hoc committees shall be co-chaired by the Chairman of the Senate Committee on Local Government and the Chairman of the House Committee on Local Government.t shall be the purpose and function of the committee to oversee the work of the Commission.
 
-**Section 13._Tenure._** — The Commission shall cease to exist sixty (60) days after the submission of its final report as provided in Section 10 hereof.
+## Section 12
 
-**Section 14._Staffing._** — The Commission shall be responsible for maintaining its own Secretariat as well as such other staff as it may deem necessary. Except those detailed from other government offices, the tenure of office of the regular staff of the Secretariat shall be coterminous with the tenure of the Commission.
+_Enactment of the Organic Act._ — Congress shall enact an organic act, taking into account the report and recommendations submitted by the Commission. Nothing provided in this Act, however, shall be interpreted to restrict or impair the power of Congress to accept, modify or reject any part or all the report and recommendations of the Commission.
+
+## Section 13
+
+_Tenure._ — The Commission shall cease to exist sixty (60) days after the submission of its final report as provided in Section 10 hereof.
+
+## Section 14
+
+_Staffing._ — The Commission shall be responsible for maintaining its own Secretariat as well as such other staff as it may deem necessary. Except those detailed from other government offices, the tenure of office of the regular staff of the Secretariat shall be coterminous with the tenure of the Commission.
 
 Each Commissioner shall also be entitled to a personal staff of three (3) composed of an executive assistant, a secretary and a technical assistant whose tenure of office shall be coterminous with the tenure of office of the Commissioner.
 
-**Section 15._Compensation._** — Each member shall be entitled to a per diem of five hundred pesos (P500.00) for each day of attendance in the Commission or any of its committees, and a cost of living allowance of five thousand pesos (P5,000.00) per month, and actual travelling expenses not exceeding five thousand pesos (P5,000.00) per month.
+## Section 15
 
-**Section 16._Funding._** — The sum of twenty million pesos (P20,000,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes for which this Commission is established.
+_Compensation._ — Each member shall be entitled to a per diem of five hundred pesos (P500.00) for each day of attendance in the Commission or any of its committees, and a cost of living allowance of five thousand pesos (P5,000.00) per month, and actual travelling expenses not exceeding five thousand pesos (P5,000.00) per month.
 
-**Section 17._Separability Clause._** — If any part or provision of this Act is declared invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective upon its publication in at least two newspapers of general circulation.
+## Section 16
+
+_Funding._ — The sum of twenty million pesos (P20,000,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes for which this Commission is established.
+
+## Section 17
+
+_Separability Clause._ — If any part or provision of this Act is declared invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective upon its publication in at least two newspapers of general circulation.
 
 Approved: **March 11, 1988.**

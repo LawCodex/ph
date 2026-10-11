@@ -36,6 +36,6 @@ Any and all provisions in the law creating the Pulonggubat Agricultural High Sch
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

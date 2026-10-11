@@ -87,7 +87,7 @@ If any provision or part of this Act is declared invalid or unconstitutional, su
 
 ## Section 6
 
-All laws, decrees, orders, resolutions, instructions, and rules and regulations or parts thereof which are inconsistent with this Act are hereby deemed repealed or modified accordingly.ℒαwρhi৷
+All laws, decrees, orders, resolutions, instructions, and rules and regulations or parts thereof which are inconsistent with this Act are hereby deemed repealed or modified accordingly.
 
 ## Section 7
 

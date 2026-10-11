@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Item three, section one, of Republic Act Numbered Six hundred seventy, regarding public works projects for the Province of Rizal, is hereby amended to read as follows: 1a⍵⍴h!1
+Item three, section one, of Republic Act Numbered Six hundred seventy, regarding public works projects for the Province of Rizal, is hereby amended to read as follows:
 
 | For the asphalting of Haig Street, from the corner of Shaw Boulevard and Haig, going northward up to the corner of General Kalentong Street | P3,000.00.” | |
 |---|---|---|

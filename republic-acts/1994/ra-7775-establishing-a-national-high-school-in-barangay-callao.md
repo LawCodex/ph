@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Department of Education, Culture and Sports shall establish a national high school in Barangay Callao Norte, Municipality of Lasam, Province of Cagayan.1a⍵⍴h!1
+The Department of Education, Culture and Sports shall establish a national high school in Barangay Callao Norte, Municipality of Lasam, Province of Cagayan.
 
 ## Section 2
 

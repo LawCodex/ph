@@ -204,7 +204,7 @@ _Residence requirement._ —The general manager shall be required to reside in t
 
 _Activities of the Authority; hey officiate._ —The activities of the Authority shall be carried out under the supervision of the general manager through the following administrative officials who will be responsible directly to him:
 
-a) An assistant general manager who shall head a department of planning and research.1a⍵⍴h!1
+a) An assistant general manager who shall head a department of planning and research.
 
 b) An assistant general manager who shall head a program implementation department which shall take charge of implementing specific projects undertaken by the Authority.
 

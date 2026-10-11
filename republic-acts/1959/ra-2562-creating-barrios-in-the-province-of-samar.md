@@ -28,7 +28,7 @@ The following sitios in the Municipality of Basey, Province of Samar, are consti
 
 Sitios Bagacay, Dene, Pandong and Cambonia to Barrio Basiao.
 
-Sitios Dongon, Rawis, Calotan and Tambak to Barrio Serum.1awp++i1
+Sitios Dongon, Rawis, Calotan and Tambak to Barrio Serum.
 
 Sitios Pelit , Banga, Pananyogan, Amanlolobog, Tinabanan, Panlalawagan, Sangpao and Carapacan to Barrio Lo-og.
 

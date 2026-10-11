@@ -33,7 +33,7 @@ The first paragraph of section twenty-one of Republic Act Numbered Five hundred 
 
 Section eighty-four of the same Act, as amended, is further amended to read as follows:
 
-"Sec. 84. _General Auditing Office— City Auditor. 1avvphi1_ -The city auditor, under the supervision of the Auditor General, shall receive and audit all accounts of the city in accordance with the provisions of law relating to government accounts and accounting.1âшphi1 The city auditor shall receive a compensation of three thousand six hundred pesos per annum, one-half of which shall be payable from the funds of the city, and the other half from funds of the National Government. There shall be an assistant city auditor who shall receive a compensation of three thousand pesos per annum payable from funds of the city."
+"Sec. 84. _General Auditing Office— City Auditor._ -The city auditor, under the supervision of the Auditor General, shall receive and audit all accounts of the city in accordance with the provisions of law relating to government accounts and accounting. The city auditor shall receive a compensation of three thousand six hundred pesos per annum, one-half of which shall be payable from the funds of the city, and the other half from funds of the National Government. There shall be an assistant city auditor who shall receive a compensation of three thousand pesos per annum payable from funds of the city."
 
 ## Section 3
 

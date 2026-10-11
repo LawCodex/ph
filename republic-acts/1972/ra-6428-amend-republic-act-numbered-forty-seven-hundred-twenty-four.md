@@ -28,7 +28,7 @@ Section One of Republic Act Numbered Forty-seven hundred twenty-four is hereby a
 
 "**Section 1.** _Declaration of Policy_.—It is hereby declared a national policy to develop and expand the metals industry of the country by maintaining close coordination with the private sector in putting up a non-profit research and technological institution to provide both the government and the private sector with professional management and technical expertise on such vital activities for the development of the industry as training of engineers and technicians, information exchange, trade accreditation service, quality control and testing of metal products, research and business economics advisory services.
 
-In coordination with other entities, it shall extend technological services to existing metalcraft industries in the rural areas to improve their capability and promote their development. It shall also initiate the establishment, whenever feasible, of metalcraft industries in these areas for their economic and social uplift.1âшphi1
+In coordination with other entities, it shall extend technological services to existing metalcraft industries in the rural areas to improve their capability and promote their development. It shall also initiate the establishment, whenever feasible, of metalcraft industries in these areas for their economic and social uplift.
 
 ## Section 2
 

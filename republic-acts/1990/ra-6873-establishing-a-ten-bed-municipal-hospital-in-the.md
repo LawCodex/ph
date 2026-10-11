@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Lake Sebu, Province of South Cotabato, to be known as the Lake Sebu Municipal Hospital. The said hospital shall likewise provide medical services to the adjoining municipalities of Surallah, T'boli and Sto. Nino.1âшphi1
+There shall be established under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Lake Sebu, Province of South Cotabato, to be known as the Lake Sebu Municipal Hospital. The said hospital shall likewise provide medical services to the adjoining municipalities of Surallah, T'boli and Sto. Nino.
 
 ## Section 2
 

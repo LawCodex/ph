@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in Barangay Western Bicutan in the Municipality of Tagig, Metro Manila, to be known as the Western Bicutan National High School under the Department of Education, Culture and Sports.1aшphi1
+There shall be established a national high school in Barangay Western Bicutan in the Municipality of Tagig, Metro Manila, to be known as the Western Bicutan National High School under the Department of Education, Culture and Sports.
 
 ## Section 2
 

@@ -124,7 +124,7 @@ f. Food preparation areas.
 
 ## Section 6
 
-_Designated Smoking And Non-Smoking Areas -_ In all enclosed places that are open to the general public, private workplaces, and other places not covered under the preceding section, where smoking may expose a person to the other than the smoker to tobacco smoke, the owner, proprietor, possessor, manager or administrator of such places shall establish smoking areas. Such areas may include a designated smoking area within the building, which may be in an open space or separate area with proper ventilation, but shall not be located within the same room that has been designated as a non-smoking area.1ªvvphï|.ñêt
+_Designated Smoking And Non-Smoking Areas -_ In all enclosed places that are open to the general public, private workplaces, and other places not covered under the preceding section, where smoking may expose a person to the other than the smoker to tobacco smoke, the owner, proprietor, possessor, manager or administrator of such places shall establish smoking areas. Such areas may include a designated smoking area within the building, which may be in an open space or separate area with proper ventilation, but shall not be located within the same room that has been designated as a non-smoking area.
 
 All designated smoking areas shall at least one (1) legible and visible sign posted, namely "SMOKING AREA" for the Information and guidance of all concerned. In addition, the sign or not posted shall include a warning about the health effects of direct or secondhand exposure to tobacco smoke. Non-smoking areas shall likewise have at least one (1) legible and visible sign, namely: "NO SMOKING AREA" or "NO SMOKING".
 
@@ -314,7 +314,7 @@ d. All forms of advertising associated with or ancillary to sponsorship shall co
 
 ## Section 26
 
-_Ban on Sponsorships. -_ Beginning 1 July 2008, cigarette and tobacco companies are hereby prohibited from sponsoring any sport, concert, cultural art or event, as well as individual and team athletes, artists, or performers where such sponsorship shall required or involve the advertisement or promotion of any cigarette or tobacco company, tobacco product or tobacco use, name, logo or trademarks and other words, symbols, designs, colors or other depictions commonly associated with or likely to identify a tobacco product; Provided further, That no manufacturer may register a tobacco brand name as a company name after the passage of this Act.1ªwphï|.ñêt
+_Ban on Sponsorships. -_ Beginning 1 July 2008, cigarette and tobacco companies are hereby prohibited from sponsoring any sport, concert, cultural art or event, as well as individual and team athletes, artists, or performers where such sponsorship shall required or involve the advertisement or promotion of any cigarette or tobacco company, tobacco product or tobacco use, name, logo or trademarks and other words, symbols, designs, colors or other depictions commonly associated with or likely to identify a tobacco product; Provided further, That no manufacturer may register a tobacco brand name as a company name after the passage of this Act.
 
 ## Section 27
 
@@ -376,7 +376,7 @@ If the violation is by establishment of business entity, the owner, president, m
 
 If a minor is caught selling, buying or smoking cigarettes or any other tobacco products, the provisions of Article 189 of Presidential Decree No. 603 otherwise known as The Child and Youth Welfare Code, as amended, shall apply.
 
-c. Violation of Section 13 to 27 - On the first offense, a fine of not more than One Hundred thousand pesos (Php100,000.00) or imprisonment of not more than one (1) year, or both, at the discretion of the court shall be imposed.1ªwphï|.ñêt
+c. Violation of Section 13 to 27 - On the first offense, a fine of not more than One Hundred thousand pesos (Php100,000.00) or imprisonment of not more than one (1) year, or both, at the discretion of the court shall be imposed.
 
 On the second offense, a fine of Two hundred thousand pesos (Php200,000.00) or imprisonment of not more than two (2) years, or both, at the discretion of the court shall be imposed.
 

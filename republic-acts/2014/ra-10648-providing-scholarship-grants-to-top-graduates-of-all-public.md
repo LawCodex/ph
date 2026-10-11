@@ -132,7 +132,7 @@ Performance and progress shall, in addition, be measured with regard to: (a) num
 
 ## Section 10
 
-_Appropriations. –_ The amount necessary to carry out the provisions of this Act shall be included in the budget of the CHED or the concerned SUCs in the annual General Appropriations Act.1âwphi1
+_Appropriations. –_ The amount necessary to carry out the provisions of this Act shall be included in the budget of the CHED or the concerned SUCs in the annual General Appropriations Act.
 
 ## Section 11
 

@@ -116,7 +116,7 @@ d. Four (4) representatives from the business and investment sectors in the Zone
 
 e. Two (2) representatives of the private sector coming from the residents of the municipalities of Santa Ana and Aparri.
 
-The chairman and the members of the Board, except the ex officio members, shall be appointed by the President of the Philippines to serve for a term of three (3) years, unless sooner removed for cause or dies or resigns voluntarily.1aшphi1 In case of death, resignation or removal for cause, the replacement shall serve only the unexpired portion of the term.
+The chairman and the members of the Board, except the ex officio members, shall be appointed by the President of the Philippines to serve for a term of three (3) years, unless sooner removed for cause or dies or resigns voluntarily. In case of death, resignation or removal for cause, the replacement shall serve only the unexpired portion of the term.
 
 Except for the representatives of the business and investment sectors, no person shall be appointed by the President of the Philippines as a member of the Board unless he is a Filipino citizen, of good moral character and of recognized competence in some relevant fields in business, banking, shipping, business or labor management, port operations, engineering, or law.
 

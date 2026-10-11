@@ -39,7 +39,7 @@ Paragraph g, section two of the same Act, is amended by inserting on page one hu
 
 ## Section 3
 
-As a consequence of the above amendments, the total for Paragraph "a" Title B of section one, and the total for—Paragraph "g" of section two of Republic Act Numbered One thousand four hundred eleven are correspondingly adjusted.1âшphi1
+As a consequence of the above amendments, the total for Paragraph "a" Title B of section one, and the total for—Paragraph "g" of section two of Republic Act Numbered One thousand four hundred eleven are correspondingly adjusted.
 
 ## Section 4
 

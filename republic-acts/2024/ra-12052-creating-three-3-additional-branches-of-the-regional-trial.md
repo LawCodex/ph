@@ -42,7 +42,7 @@ The funds necessary for the operation of the courts herein created shall be appr
 
 ## Section 4
 
-The RTC in the City of Navotas shall have seven (7) branches.ℒαwρhi৷ The staffing pattern of each branch shall be as follows:
+The RTC in the City of Navotas shall have seven (7) branches. The staffing pattern of each branch shall be as follows:
 
 <table>
 <tr>

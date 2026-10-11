@@ -51,7 +51,7 @@ The grantee shall operate and maintain all its stations, lines, cables, systems,
 
 The grantee shall improve and extend its services in areas not served, and in hazard- and typhoon-prone areas that shall be determined by the National Disaster Risk Reduction and Management Council in coordination with the NTC.
 
-The grantee shall also improve and upgrade its equipment, facilities and services, in order to ensure effective compliance with the objectives of Republic Act No. 10639 or "The Free Mobile Disaster Alerts Act".1âwphi1
+The grantee shall also improve and upgrade its equipment, facilities and services, in order to ensure effective compliance with the objectives of Republic Act No. 10639 or "The Free Mobile Disaster Alerts Act".
 
 ## Section 6
 

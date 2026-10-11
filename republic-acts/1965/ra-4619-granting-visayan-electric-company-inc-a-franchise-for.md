@@ -30,7 +30,7 @@ Subject to the terms and conditions established in Act Numbered Thirty-six hundr
 
 ## Section 2
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum of which shall accrue to the National Government and two per centum to the city or municipality where the franchise is being operated.1âшphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum of which shall accrue to the National Government and two per centum to the city or municipality where the franchise is being operated.
 
 ## Section 3
 

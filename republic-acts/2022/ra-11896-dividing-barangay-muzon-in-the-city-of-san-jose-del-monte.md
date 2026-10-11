@@ -810,7 +810,7 @@ The expenses for such plebiscite shall be borne by the City of San Jose del Mont
 
 Special Election of Barangay Officials. - The first set of officials of the barangays created under this Act shall be elected not later than ninety (90) days from approval by majority of the votes cast in a plebiscite held pursuant to Section 3 of this Act. Said special election shall be conducted and supervised by the COMELEC.
 
-The expenses for such special elections shall be borne by the City of San Jose del Monte, Province of Bulacan.1aшphi1
+The expenses for such special elections shall be borne by the City of San Jose del Monte, Province of Bulacan.
 
 ## Section 5
 

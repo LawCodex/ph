@@ -41,13 +41,13 @@ Pursuant thereto, it is hereby declared unlawful:
 
 (3) To solicit, enlist or in any manner attract or induce any Filipino woman to become a member in any club or association whose objective is to match women for marriage to foreign nationals either on a mail-order basis or through personal introduction for a fee;
 
-(4) To use the postal service to promote the prohibited acts in subparagraph 1 hereof.1awphi1©alf
+(4) To use the postal service to promote the prohibited acts in subparagraph 1 hereof.
 
 (b) For the manager or officer-in-charge or advertising manager of any newspaper, magazine, television or radio station, or other media, or of an advertising agency, printing company or other similar entities, to knowingly allow, or consent to, the acts prohibited in the preceding paragraph.
 
 ## Section 3
 
-In case of violation of this Act by an association, club, partnership, corporation, or any other entity, the incumbent officers thereof who have knowingly participated in the violation of this Act shall be held liable.1awphil©a1f
+In case of violation of this Act by an association, club, partnership, corporation, or any other entity, the incumbent officers thereof who have knowingly participated in the violation of this Act shall be held liable.
 
 ## Section 4
 

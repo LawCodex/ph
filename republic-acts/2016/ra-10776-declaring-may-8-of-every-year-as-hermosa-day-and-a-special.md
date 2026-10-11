@@ -34,7 +34,7 @@ May 8 of every year is hereby declared as Hermosa Day and a special working holi
 
 ## Section 2
 
-For work performed on a special working holiday, an employee is entitled to his/her regular wage.ℒαwρhi৷
+For work performed on a special working holiday, an employee is entitled to his/her regular wage.
 
 ## Section 3
 

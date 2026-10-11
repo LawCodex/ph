@@ -32,7 +32,7 @@ The barangay high school of Barangay Maningalao in the Municipality of Las Nieve
 
 ## Section 2
 
-Upon organization of Maningalao High School, all assets, liabilities, personnel, equipment and records of the Maningalao Barangay High School shall be transferred to the Maningalao High School.1aшphi1
+Upon organization of Maningalao High School, all assets, liabilities, personnel, equipment and records of the Maningalao Barangay High School shall be transferred to the Maningalao High School.
 
 ## Section 3
 

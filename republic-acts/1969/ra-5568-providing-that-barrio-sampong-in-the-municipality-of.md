@@ -28,6 +28,6 @@ Barrio Sampong in the Municipality of Bayawan, Province of Negros Oriental, shal
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

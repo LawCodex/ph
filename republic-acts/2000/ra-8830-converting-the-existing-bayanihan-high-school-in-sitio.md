@@ -35,7 +35,7 @@ All personnel, records, assets and properties including buildings, sites and imp
 
 ## Section 3
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to carry out the provisions of this Act.ℒαwρhi৷
+The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to carry out the provisions of this Act.
 
 ## Section 4
 

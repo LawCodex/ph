@@ -56,7 +56,7 @@ Acceptance of this franchise shall be given in writing by the grantee within six
 
 ## Section 9
 
-The grantee's radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequency and wave lengths to be used under this franchise and issued to the grantee license for such use.1âшphi1
+The grantee's radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequency and wave lengths to be used under this franchise and issued to the grantee license for such use.
 
 ## Section 10
 

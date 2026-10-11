@@ -87,7 +87,7 @@ Section 118 of the National Internal Revenue Code of 1997, as amended, is hereby
 
 Section 236 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
 
-"SEC. 236. _Registration Requirements. —_ 1âwphi1
+"SEC. 236. _Registration Requirements. —_
 
 "(A) _Requirements. —_ x x x
 

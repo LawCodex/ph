@@ -86,7 +86,7 @@ _Rules and regulations._ \- The President of the Philippines shall promulgate su
 
 ## Section 5
 
-_Separability Clause._ \- If any of the provisions of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.1aшphi1
+_Separability Clause._ \- If any of the provisions of this Act is declared invalid, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 6
 

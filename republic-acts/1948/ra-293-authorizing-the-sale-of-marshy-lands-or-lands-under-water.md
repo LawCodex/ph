@@ -34,7 +34,7 @@ Section sixty-five of Commonwealth Act Numbered One hundred forty-one is hereby 
 
 "(a) The purchaser shall make improvements of a permanent character appropriate for the purpose for which the land is purchased, shall commence work thereon within six months from the receipt of the order of award, and shall complete the construction of said improvements within eighteen months from the date of such award; otherwise the Secretary of Agriculture and Natural Resources may rescind the contract.
 
-"(b) The purchase price shall be paid in cash or in equal annual installments, not to exceed ten.1aшphi1
+"(b) The purchase price shall be paid in cash or in equal annual installments, not to exceed ten.
 
 "The contract of sale may contain other conditions not inconsistent with the provisions of this Act."
 

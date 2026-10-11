@@ -33,7 +33,7 @@ On July 22, 1854, Bohol was separated from Cebu and, together with Siquijor, was
 
 ## Section 2
 
-July 22 of every year is hereby declared a special nonworking public holiday in the Province of Bohol and the City of Tagbilaran.1a⍵⍴h!1
+July 22 of every year is hereby declared a special nonworking public holiday in the Province of Bohol and the City of Tagbilaran.
 
 ## Section 3
 

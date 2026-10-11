@@ -103,7 +103,7 @@ _Equality Clause._ – If any subsequent franchise for telecommunication service
 
 ## Section 17
 
-_Separability Clause._ – If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1aшphi1
+_Separability Clause._ – If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 18
 

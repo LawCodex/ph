@@ -45,7 +45,7 @@ _Separability Clause._ – If any portion or provision of this Act is subsequent
 
 ## Section 4
 
-_Repealing Clause._ – Any law, decrees, executive orders, rules or regulations, or parts thereof which are inconsistent with this Act is hereby repealed, amended or modified accordingly.1aшphi1
+_Repealing Clause._ – Any law, decrees, executive orders, rules or regulations, or parts thereof which are inconsistent with this Act is hereby repealed, amended or modified accordingly.
 
 ## Section 5
 

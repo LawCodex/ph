@@ -290,7 +290,7 @@ _Issuance of Bonds and Power to Borrow. –_ The QCDA may be authorized to issue
 
 The QCDA, in consultation with the Secretary of Finance and the Monetary Board, shall prescribe the form, the rate of interest and denomination, maturities, negotiabilities, call or redemption features and all other terms and conditions for the bonds and securities to be issued.
 
-The bonds and securities issued under this Act, including the income thereof shall be exempted from all kinds of local taxes and from attachment, execution and seizure which facts shall be stated on the face thereof.1âwphi1
+The bonds and securities issued under this Act, including the income thereof shall be exempted from all kinds of local taxes and from attachment, execution and seizure which facts shall be stated on the face thereof.
 
 ## Section 20
 

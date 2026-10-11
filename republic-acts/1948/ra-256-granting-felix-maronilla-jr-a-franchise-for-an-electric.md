@@ -33,6 +33,6 @@ It is expressly provided that in the event the Government should desire to maint
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 14, 1948.

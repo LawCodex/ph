@@ -43,7 +43,7 @@ The existing reasonably sized laboratory high school shall continue to operate u
 
 ## Section 5
 
-_Administration._ \- The SSU shall have the general powers of a corporation set forth in Republic Act (RA) No. 11232, otherwise known as the "Revised Corporation Code of the Philippines".ℒαwρhi৷ The administration of the SSU and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the SSU.
+_Administration._ \- The SSU shall have the general powers of a corporation set forth in Republic Act (RA) No. 11232, otherwise known as the "Revised Corporation Code of the Philippines". The administration of the SSU and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the SSU.
 
 ## Section 6
 
@@ -91,7 +91,7 @@ Notwithstanding any provision of law to the contrary, the Board may authorize, f
 
 (f) Adopt and implement a socialized scheme of tuition and other school fees for greater access of poor but deserving students in accordance with Republic Act No. 10931;
 
-(g) Establish professional chairs in the SSU and provide fellowships for qualified faculty members, and scholarships to deserving students;£A⩊phi£
+(g) Establish professional chairs in the SSU and provide fellowships for qualified faculty members, and scholarships to deserving students;
 
 (h) Receive appropriate sums as may be provided by law for the support of the SSU, and all other sums in the manner it may, in its discretion, determine to carry out the purposes and functions of the SSU;
 

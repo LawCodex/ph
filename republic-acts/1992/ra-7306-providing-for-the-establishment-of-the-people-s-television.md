@@ -237,7 +237,7 @@ _Revenue Generation._ \- The Network shall be allowed to generate funds from adv
 
 ### Section 20
 
-_Record of Transactions._ \- The Network shall keep proper accounts and records of all its transactions and affairs, and shall do all things necessary to ensure that all payments made out of its money are correctly made and properly authorized, and that adequate control is maintained over the assets of, or in the custody of, the Network and the expenditures incurred by the Network. The Network shall be subject to audit by the Commission on Audit.1âшphi1
+_Record of Transactions._ \- The Network shall keep proper accounts and records of all its transactions and affairs, and shall do all things necessary to ensure that all payments made out of its money are correctly made and properly authorized, and that adequate control is maintained over the assets of, or in the custody of, the Network and the expenditures incurred by the Network. The Network shall be subject to audit by the Commission on Audit.
 
 ## TITLE IX - TAX EXEMPTIONS
 

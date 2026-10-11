@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The 1.39-kilometer Marcos Alvarez Provincial Road in the Municipality of Bacoor, Province of Cavite is hereby converted into a national road under the jurisdiction and supervision of the Department of Publi1âwphi1c Works and Highways (DPWH).
+The 1.39-kilometer Marcos Alvarez Provincial Road in the Municipality of Bacoor, Province of Cavite is hereby converted into a national road under the jurisdiction and supervision of the Department of Public Works and Highways (DPWH).
 
 ## Section 2
 

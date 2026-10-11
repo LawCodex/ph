@@ -32,7 +32,7 @@ This conveyance is made for the exclusive purpose of enabling the National Press
 
 ## Section 3
 
-The title to the land conveyed by this Act shall not be transferred by the said club to another person without previous authorization by the President of the Philippines.1a⍵⍴h!1
+The title to the land conveyed by this Act shall not be transferred by the said club to another person without previous authorization by the President of the Philippines.
 
 ## Section 4
 

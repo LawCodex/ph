@@ -182,6 +182,6 @@ In addition to such sum as may have been provided in the current Appropriations 
 
 ## Section 5
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, October 4, 1971.

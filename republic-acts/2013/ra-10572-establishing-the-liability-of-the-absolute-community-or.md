@@ -51,7 +51,7 @@ Article 111 of the Family Code, as amended, is hereby further amended to read as
 
 ## Section 3
 
-_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.1âwphi1
+_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
 
 ## Section 4
 

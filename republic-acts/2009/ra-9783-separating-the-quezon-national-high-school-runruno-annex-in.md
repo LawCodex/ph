@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Separation and Conversion into a National High School._ \- The Quezon National High School - Runruno Annex in Barangay Runruno, Municipality of Quezon, Province of Nueva Vizcaya is hereby separated from the Quezon National.1avvphi1 High School and converted into an independent national high school to be known as **_Runruno National High School._**
+_Separation and Conversion into a National High School._ \- The Quezon National High School - Runruno Annex in Barangay Runruno, Municipality of Quezon, Province of Nueva Vizcaya is hereby separated from the Quezon National. High School and converted into an independent national high school to be known as **_Runruno National High School._**
 
 ## Section 2
 

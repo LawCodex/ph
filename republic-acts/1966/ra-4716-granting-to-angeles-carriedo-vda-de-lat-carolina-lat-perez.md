@@ -29,7 +29,7 @@ Subject to the conditions imposed by this Act, there is hereby granted to Angele
 
 ## Section 2
 
-The grantees shall manufacture and supply ice up to the limit of the capacity of their plants.1avvphi1
+The grantees shall manufacture and supply ice up to the limit of the capacity of their plants.
 
 ## Section 3
 

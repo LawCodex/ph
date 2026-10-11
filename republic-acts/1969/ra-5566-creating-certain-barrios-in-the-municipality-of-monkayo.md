@@ -38,6 +38,6 @@ The following sitios in the Municipality of Monkayo, Province of Davao, are cons
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

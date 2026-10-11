@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Bureau of Public Libraries is hereby changed to that of The National Library.1awp++i1
+The name of the Bureau of Public Libraries is hereby changed to that of The National Library.
 
 ## Section 2
 

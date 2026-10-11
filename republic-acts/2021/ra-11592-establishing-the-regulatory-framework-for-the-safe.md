@@ -587,7 +587,7 @@ _LPG in Cartridges._ – It shall be unlawful for any person to refill an LPG ca
 
 ### Section 37
 
-_Transport of LPG._ – All motor vehicles utilized in the transportation of bulk LPG and filled and unfilled LPG cylinders and cartridges shall comply with the guidelines of the DOE, LTO, and BFP pursuant to Sections 6, 10 and 9, respectively, of this Act.1aшphi1
+_Transport of LPG._ – All motor vehicles utilized in the transportation of bulk LPG and filled and unfilled LPG cylinders and cartridges shall comply with the guidelines of the DOE, LTO, and BFP pursuant to Sections 6, 10 and 9, respectively, of this Act.
 
 ## CHAPTER XI — PROHIBITED ACTS AND PENALTIES
 

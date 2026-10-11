@@ -28,7 +28,7 @@ The offices of governor and members of the provincial board in the Mountain Prov
 
 ## Section 2
 
-The provision of section three of Act Numbered Thirty-seven hundred and ninety-eight and of section one of Act Numbered Thirty-two hundred and ninety-seven, insofar as they specifically refer to the provinces mentioned in section one of this Act as not embraced in the general classification of provinces for the purpose of fixing the compensation to be paid certain provincial officials, are hereby repealed.1â#x0448;phi1
+The provision of section three of Act Numbered Thirty-seven hundred and ninety-eight and of section one of Act Numbered Thirty-two hundred and ninety-seven, insofar as they specifically refer to the provinces mentioned in section one of this Act as not embraced in the general classification of provinces for the purpose of fixing the compensation to be paid certain provincial officials, are hereby repealed.
 
 ## Section 3
 

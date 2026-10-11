@@ -200,7 +200,7 @@ _Liability of a Financial Service Provider on the Acts or Omission of its Author
 
 ## Section 14
 
-_Prescription._ \- All actions or claims accruing under the provision of this Act, and the rules and regulations issued pursuant thereto, shall prescribe after five (5) years from the time the financial consumer transaction was consummated, or after five (5) years from the discovery of deceit or nondisclosure of material facts: _Provided,_ That such actions shall, in any event. prescribe after ten (10) years from the commission of the violation: _Provided,_ further, That for insurance contracts, the prescriptive period for the commencement of action provided under the Insurance Code shall apply.ℒαwρhi৷
+_Prescription._ \- All actions or claims accruing under the provision of this Act, and the rules and regulations issued pursuant thereto, shall prescribe after five (5) years from the time the financial consumer transaction was consummated, or after five (5) years from the discovery of deceit or nondisclosure of material facts: _Provided,_ That such actions shall, in any event. prescribe after ten (10) years from the commission of the violation: _Provided,_ further, That for insurance contracts, the prescriptive period for the commencement of action provided under the Insurance Code shall apply.
 
 ## Section 15
 

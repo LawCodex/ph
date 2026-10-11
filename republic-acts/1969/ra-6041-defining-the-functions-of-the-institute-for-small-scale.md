@@ -86,7 +86,7 @@ The Institute is authorized to consult with representatives of small-business co
 
 ## Section 7
 
-The Board of Regents of the University of the Philippines shall make the necessary provisions and rules and regulations to effectively carry out the objectives of this Act.1a⍵⍴h!1
+The Board of Regents of the University of the Philippines shall make the necessary provisions and rules and regulations to effectively carry out the objectives of this Act.
 
 ## Section 8
 

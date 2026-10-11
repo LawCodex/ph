@@ -135,7 +135,7 @@ The bonds issued by virtue of this Act may be made payable both as to principal 
 
 ### Section 15
 
-_Board of Directors: composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors, hereinafter referred to as the Board, which shall be composed of five members appointed by the President with the consent of the Commission on Appointments.1âшphi1 The President shall designate from among the members of the Board of its Chairman, who shall at the same time be the General Manager of the Authority, notwithstanding any provision of law to the contrary.
+_Board of Directors: composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors, hereinafter referred to as the Board, which shall be composed of five members appointed by the President with the consent of the Commission on Appointments. The President shall designate from among the members of the Board of its Chairman, who shall at the same time be the General Manager of the Authority, notwithstanding any provision of law to the contrary.
 
 ### Section 16
 

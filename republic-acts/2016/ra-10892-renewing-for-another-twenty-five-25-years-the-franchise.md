@@ -56,7 +56,7 @@ The grantee shall have the obligation to provide open and nondiscriminatory acce
 
 _Rates for Services._ \- The retail rates and charges for the distribution of electric power by the grantee to its end user shall be regulated by and be subject to the approval of the ERC or its legal successor.
 
-The grantee shall identify and segregate in its electricity bill to the end users the components of the retail rate pursuant to Republic Act No. 9136, unless otherwise amended. Such rates charged by the grantee to the end users shall be made public and transparent. The grantee shall implement lifeline rate to marginalized end users as mandated under Republic Act No. 9136.1âwphi1
+The grantee shall identify and segregate in its electricity bill to the end users the components of the retail rate pursuant to Republic Act No. 9136, unless otherwise amended. Such rates charged by the grantee to the end users shall be made public and transparent. The grantee shall implement lifeline rate to marginalized end users as mandated under Republic Act No. 9136.
 
 ## Section 7
 

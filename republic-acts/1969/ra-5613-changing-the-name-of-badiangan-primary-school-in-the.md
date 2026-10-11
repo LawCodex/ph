@@ -28,6 +28,6 @@ The name of Badiangan Primary School in the Municipality of Patnogon, Province o
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

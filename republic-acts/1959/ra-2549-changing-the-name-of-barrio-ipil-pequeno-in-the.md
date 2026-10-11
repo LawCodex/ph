@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, is hereby changed to Barrio Quezon.1âшphi1
+The name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, is hereby changed to Barrio Quezon.
 
 ## Section 2
 

@@ -32,7 +32,7 @@ The temporary permit granted under this Act shall continue to be in force while 
 
 ## Section 3
 
-The said stations shall be so located, constructed and operated that no interference shall be caused to other radio services.1awp++i1 The grantee shall hold the National, provincial, city and municipal Governments of the Republic of the Philippines harmless from all claims, acts, demands or actions arising out of accidents or injuries, whether to property or to persons caused by the construction of its radiotelephone stations.
+The said stations shall be so located, constructed and operated that no interference shall be caused to other radio services. The grantee shall hold the National, provincial, city and municipal Governments of the Republic of the Philippines harmless from all claims, acts, demands or actions arising out of accidents or injuries, whether to property or to persons caused by the construction of its radiotelephone stations.
 
 ## Section 4
 

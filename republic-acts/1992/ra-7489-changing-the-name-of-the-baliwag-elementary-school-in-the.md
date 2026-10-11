@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Baliwag elementary School in the Municipality of Magallanes, Provinc of Cavite, is hereby changed to Pacifico Villacarlos Elementary School.LaW㏗iL
+The name of the Baliwag elementary School in the Municipality of Magallanes, Provinc of Cavite, is hereby changed to Pacifico Villacarlos Elementary School.
 
 ## Section 2
 

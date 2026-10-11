@@ -319,6 +319,6 @@ Any provision of existing law, executive order, rule or regulation to the contra
 
 ## Section 5
 
-This Act shall take effect on July 1, 1969.1a⍵⍴h!1
+This Act shall take effect on July 1, 1969.
 
 Approved, August 4, 1969.

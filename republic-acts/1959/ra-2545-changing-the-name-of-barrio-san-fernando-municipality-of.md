@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, is hereby changed to Camohaguin.1âшphi1
+The name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, is hereby changed to Camohaguin.
 
 ## Section 2
 

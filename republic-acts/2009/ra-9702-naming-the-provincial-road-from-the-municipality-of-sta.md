@@ -34,7 +34,7 @@ The provincial road from the Municipality of Sta. Magdalena up to Pawa Road in t
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1avvphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

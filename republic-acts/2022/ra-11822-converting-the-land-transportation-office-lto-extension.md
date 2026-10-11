@@ -34,7 +34,7 @@ The existing Passi Land Transportation Office (LTO) Extension Office in the City
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of a regular LTO district office in the City of Passi, Province of Iloilo, the initial funding of which shall be charged against the current year's appropriations of the Passi LTO Extension Office. Thereafter, such sums as may be necessary for the continued operation of the Passi LTO District Fffice shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of a regular LTO district office in the City of Passi, Province of Iloilo, the initial funding of which shall be charged against the current year's appropriations of the Passi LTO Extension Office. Thereafter, such sums as may be necessary for the continued operation of the Passi LTO District Fffice shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

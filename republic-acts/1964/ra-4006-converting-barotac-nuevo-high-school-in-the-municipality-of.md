@@ -29,7 +29,7 @@ The Barotac High School is hereby converted into a national high school to be kn
 
 ## Section 2
 
-Upon organization of Barotac Nuevo General Comprehensive High School, the assets, liabilities, personnel, equipment and records of Barotac Nuevo High School shall stand transferred to this new national high school.1âшphi1
+Upon organization of Barotac Nuevo General Comprehensive High School, the assets, liabilities, personnel, equipment and records of Barotac Nuevo High School shall stand transferred to this new national high school.
 
 ## Section 3
 

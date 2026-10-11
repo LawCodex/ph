@@ -37,7 +37,7 @@ Section 74 of Republic Act No. 3844 is amended to read as follows:
 
 ## Section 2
 
-_Separability Clause._ – If, for any reason, any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in force and effect.1âwphi1
+_Separability Clause._ – If, for any reason, any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in force and effect.
 
 ## Section 3
 

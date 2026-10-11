@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Animal Industry a pilot project for animal industry in the Municipality of Monkayo, Province of Davao del Norte, to be known as Monkayo Pilot Project.1âшphi1
+There shall be established under the direct supervision of the Director of Animal Industry a pilot project for animal industry in the Municipality of Monkayo, Province of Davao del Norte, to be known as Monkayo Pilot Project.
 
 ## Section 2
 

@@ -32,6 +32,6 @@ The sitio of Calatubog in the Municipality of Puerto Princesa, same province, is
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 21, 1959.

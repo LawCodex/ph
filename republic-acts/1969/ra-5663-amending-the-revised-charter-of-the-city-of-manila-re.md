@@ -46,7 +46,7 @@ _Department of Social Welfare._ —There .shall be a Social Welfare Department w
 
 The same Act is hereby amended by inserting a new section between Section eighty-A and Section eighty-one which shall read as follows:
 
-"Section 80-B. _The Social Welfare Officer and Deputy Social Welfare Officer._ —The department shall be headed by Social Welfare Officer who shall be assisted by a Deputy Social Welfare Officer and .such social service staff, technicians, and other personnel necessary to perform the functions of the Department.1a⍵⍴h!1
+"Section 80-B. _The Social Welfare Officer and Deputy Social Welfare Officer._ —The department shall be headed by Social Welfare Officer who shall be assisted by a Deputy Social Welfare Officer and .such social service staff, technicians, and other personnel necessary to perform the functions of the Department.
 
 "The Deputy Social Welfare Officer shall possess professional training in social work, with a master's degree in social work, a working knowledge of public administration, and must have had at least seven years of paid experience in executive and supervisory capacity in a social welfare agency, preferably in public agency. The incumbent assistant to the Social Welfare Officer possessing these qualifications shall continue in said position. The position shall be in the classified service and subject to Civil Service rules and regulations.
 

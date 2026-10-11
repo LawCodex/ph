@@ -28,7 +28,7 @@ The revolving fund, known as "The Public Land Survey and Subdivision Fund" which
 
 ## Section 2
 
-The sum of ten million pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, to constitute "The public Land Survey and Subdivision Fund," which shall be expended by the Director of Lands, with the approval of the Secretary of Agriculture and Natural Resources, in carrying out the purposes of Commonwealth Act Numbered Six hundred and thirty.1aшphi1
+The sum of ten million pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, to constitute "The public Land Survey and Subdivision Fund," which shall be expended by the Director of Lands, with the approval of the Secretary of Agriculture and Natural Resources, in carrying out the purposes of Commonwealth Act Numbered Six hundred and thirty.
 
 The sum of two million shall be released and/or expended annually from the said Fund during the period of five years for the purpose herein stated, and the balance at the end of any fiscal year shall continue to form part of the said Fund and shall be available for expenditure in the next following fiscal year and other subsequent years.
 

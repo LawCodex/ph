@@ -36,6 +36,6 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved, Lapsed into law on February 13, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

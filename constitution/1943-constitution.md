@@ -283,7 +283,7 @@ Subject to such limitations as may be imposed by law in the interest of peace, m
 1. The right to be secure against unreasonable searches and seizures shall not be violated.
 2. The privacy of communication and correspondence shall not be invaded.
 3. The right to form associations or societies for purposes not contrary to law shall not be infringed.
-4. The free enjoyment and practice of religious profession and worship, without discrimination or preference, shall not be curtailed.ℒαwρhi৷
+4. The free enjoyment and practice of religious profession and worship, without discrimination or preference, shall not be curtailed.
 5. The liberty of abode and of changing the same within the limits prescribed by law shall not be impaired.
 6. The freedom of speech, or of the press, or the right of the people peaceably to assemble and petition the government for redress of grievances, shall not be abridged.
 
@@ -377,7 +377,7 @@ The National Assembly, by a vote of two-thirds of all its members, may propose a
 
 ### Section 1
 
-This Constitution shall be ratified by the people at a plebiscite or convention especially called for that purpose.ᇈWᑭHIL The manner of holding such plebiscite or convention shall be provided by law.
+This Constitution shall be ratified by the people at a plebiscite or convention especially called for that purpose. The manner of holding such plebiscite or convention shall be provided by law.
 
 ### Section 2
 

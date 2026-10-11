@@ -29,7 +29,7 @@ Barangay New Alabang Village in the City of Muntinlupa ishereby renamed as Baran
 
 ## Section 2
 
-The renaming of Barangat New Alabang Village as Barangay Ayala Alabang shall be effective upon ratification of the majority of the votes cast by qualified voters in a plebiscite to be conducted and supervised by the Commission on Elections in the present Barangay New Alabang Village within one hundred twenty (120) days after the effectivity of this Act.ℒαwρhi৷
+The renaming of Barangat New Alabang Village as Barangay Ayala Alabang shall be effective upon ratification of the majority of the votes cast by qualified voters in a plebiscite to be conducted and supervised by the Commission on Elections in the present Barangay New Alabang Village within one hundred twenty (120) days after the effectivity of this Act.
 
 The expenses for such plebiscite shall be borne by the City of Muntinlupa.
 

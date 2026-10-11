@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Taglibi Central Elementary School in the Municipality of Patikul, Province of Sulu, is changed to Datu Uddin Bahjin Central Elementary School.1âшphi1
+The name of Taglibi Central Elementary School in the Municipality of Patikul, Province of Sulu, is changed to Datu Uddin Bahjin Central Elementary School.
 
 ## Section 2
 

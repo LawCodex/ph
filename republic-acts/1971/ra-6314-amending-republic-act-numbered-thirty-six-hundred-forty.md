@@ -238,7 +238,7 @@ beginning; containing an area of one hundred nineteen thousand two hundred sixty
 
 ## Section 2
 
-The foregoing parcels of land may be used as collaterals in securing loans from banking and financing institutions, which the Palawan National Agricultural College is hereby authorized to contract for its improvement development and benefit.1âшphi1
+The foregoing parcels of land may be used as collaterals in securing loans from banking and financing institutions, which the Palawan National Agricultural College is hereby authorized to contract for its improvement development and benefit.
 
 ## Section 3
 

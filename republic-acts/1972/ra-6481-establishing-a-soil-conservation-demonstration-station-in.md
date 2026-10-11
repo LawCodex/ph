@@ -28,7 +28,7 @@ There shall be established a soil conservation demonstration station in the Muni
 
 ## Section 2
 
-The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment of said soil demonstration station during the fiscal year nineteen hundred seventy-three. Thereafter, such sums as may be needed for its operation and Maintenance shall be included in the annual General Appropriations Act: _Provided,_ That no portion of this appropriation shall be transferred to any other item.1âшphi1
+The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment of said soil demonstration station during the fiscal year nineteen hundred seventy-three. Thereafter, such sums as may be needed for its operation and Maintenance shall be included in the annual General Appropriations Act: _Provided,_ That no portion of this appropriation shall be transferred to any other item.
 
 ## Section 3
 

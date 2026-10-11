@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Zamboanga City Trade School is converted into a regional school of arts and trades of the Northern Luzon School of Arts and Trades type, to be known as the Zamboanga City Regional School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary and collegiate levels shall be offered in the said school.1a⍵⍴h!1
+The Zamboanga City Trade School is converted into a regional school of arts and trades of the Northern Luzon School of Arts and Trades type, to be known as the Zamboanga City Regional School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary and collegiate levels shall be offered in the said school.
 
 ## Section 2
 

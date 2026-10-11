@@ -28,7 +28,7 @@ There shall be established under the supervision of the Philippine Coconut Admin
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said coconut breeding station and nursery. Thereafter, the necessary funds needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said coconut breeding station and nursery. Thereafter, the necessary funds needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

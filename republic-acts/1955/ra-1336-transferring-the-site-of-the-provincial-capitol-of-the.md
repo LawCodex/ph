@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The site of the provincial capitol of the Province of Camarines Sur is hereby transferred from the City of Naga to the barrio of Palestina, Municipality of Pili, Province of Camarines Sur.1âшphi1
+The site of the provincial capitol of the Province of Camarines Sur is hereby transferred from the City of Naga to the barrio of Palestina, Municipality of Pili, Province of Camarines Sur.
 
 ## Section 2
 

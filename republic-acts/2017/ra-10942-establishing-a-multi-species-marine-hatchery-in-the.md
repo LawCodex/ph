@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Tagkawayan, Province of Quezon.1âwphi1
+There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Tagkawayan, Province of Quezon.
 
 ## Section 2
 

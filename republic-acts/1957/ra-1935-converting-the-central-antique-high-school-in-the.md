@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Central High School in the Municipality of Bugasong, Province of Antique, is hereby converted into a vocational high school to be known as the Antique Vocational High School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.1âшphi1
+The Central High School in the Municipality of Bugasong, Province of Antique, is hereby converted into a vocational high school to be known as the Antique Vocational High School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

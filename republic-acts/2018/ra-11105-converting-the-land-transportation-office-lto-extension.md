@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Land Transportation Office (LTO) Extension Office located in Lapu-Lapu City, Province of Cebu, is hereby converted into a regular LTO District Office.1âwphi1
+The Land Transportation Office (LTO) Extension Office located in Lapu-Lapu City, Province of Cebu, is hereby converted into a regular LTO District Office.
 
 ## Section 2
 

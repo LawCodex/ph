@@ -122,7 +122,7 @@ _Entitlements._ -The National Performing Arts Companies, namely, the National Ba
 
 (b) Access to grants for research, documentation, productions, workshops, training and audience development programs from the NCCA, subject to proper evaluation and availability of funds; and
 
-(c) Intellectual property rights to their work, including music, choreographs, and other artistic creations.1âшphi1 Likewise, they shall enjoy the right to public performance fixation. They shall further be entitled to the reproduction, authorization, and distribution of fixations in accordance with intellectual property laws.
+(c) Intellectual property rights to their work, including music, choreographs, and other artistic creations. Likewise, they shall enjoy the right to public performance fixation. They shall further be entitled to the reproduction, authorization, and distribution of fixations in accordance with intellectual property laws.
 
 ## Section 8
 

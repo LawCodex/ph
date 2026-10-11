@@ -96,7 +96,7 @@ _Authority to Deputize Traffic Enforcers and Local Government Units (LGUs). —_
 
 _Public Information Campaign. –_ Not later than thirty (30) days following the promulgation of the Implementing Rules and Regulations (IRR) of this Act, the LTO, in coordination with the Philippine Information Agency (PIA), the Department of Education (DepED) and concerned private organizations and agencies, shall undertake a nationwide information and education campaign for a period of three (3) months on the important provisions of this Act and its IRR.
 
-Thereafter, the aforementioned agencies shall include the essential provisions of this Act in their respective annual communications programs.1âwphi1
+Thereafter, the aforementioned agencies shall include the essential provisions of this Act in their respective annual communications programs.
 
 ## Section 11
 

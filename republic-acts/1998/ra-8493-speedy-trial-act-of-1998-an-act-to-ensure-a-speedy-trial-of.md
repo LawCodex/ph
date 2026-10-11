@@ -25,9 +25,13 @@ AN ACT TO ENSURE A SPEEDY TRIAL OF ALL CRIMINAL CASES BEFORE THE SANDIGANBAYAN, 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the **"_Speedy Trial Act of 1998._ "**
+## Section 1
 
-**Section 2._Mandatory Pre-Trial in Criminal Cases._** \- In all cases cognizable by the Municipal Trial Court, Municipal Circuit Trial Court, Metropolitan Trial Court, Regional Trial Court, and the Sandiganbayan, the justice or judge shall, after arraignment, order a pre-trial conference to consider the following:
+_Title._ \- This Act shall be known as the **"_Speedy Trial Act of 1998._ "**
+
+## Section 2
+
+_Mandatory Pre-Trial in Criminal Cases._ \- In all cases cognizable by the Municipal Trial Court, Municipal Circuit Trial Court, Metropolitan Trial Court, Regional Trial Court, and the Sandiganbayan, the justice or judge shall, after arraignment, order a pre-trial conference to consider the following:
 
 (a) Plea bargaining;
 
@@ -39,23 +43,39 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) Such other matters as will promote a fair and expeditious trial.
 
-**Section 3._Pre-Trial Agreement._** \- All agreements or admissions made or entered into during the pre-trial conference shall be reduced to writing and signed by the accused and counsel, otherwise the same shall not be used in evidence against the accused. The agreements in relation to matters referred to in Section 2 hereof is subject to the approval of the court: Provided, That the agreement on the plea of the accused to a lesser offense may only be revised, modified, or annulled by the court when the same is contrary to law, public morals, or public policy.
+## Section 3
 
-**Section 4._Nonappearance at Pre-Trial Conference._** \- Where counsel for the accused or the prosecutor does not appear at the pre-trial conference and does not offer an acceptable excuse for his/her lack of cooperation, the pre-trial justice or judge may impose proper sanctions or penalties.
+_Pre-Trial Agreement._ \- All agreements or admissions made or entered into during the pre-trial conference shall be reduced to writing and signed by the accused and counsel, otherwise the same shall not be used in evidence against the accused. The agreements in relation to matters referred to in Section 2 hereof is subject to the approval of the court: Provided, That the agreement on the plea of the accused to a lesser offense may only be revised, modified, or annulled by the court when the same is contrary to law, public morals, or public policy.
 
-**Section 5._Pre-Trial Order._** \- After the pre-trial conference, the court shall issue an order reciting the actions taken, the facts stipulated, and evidence marked. Such order shall bind the parties, limit the trial to matters not disposed of and control the course of action during the trial, unless modified by the court to prevent manifest injustice.
+## Section 4
 
-**Section 6._Time Limit for Trial._** \- In criminal cases involving persons charged of a crime, except those subject to the Rules on Summary Procedure, or where the penalty prescribed by law does not exceed six (6) months imprisonment, or a fine of One thousand pesos (P1,000.00) or both, irrespective of other imposable penalties, the justice or judge shall, after consultation with the public prosecutor and the counsel for the accused, set the case for continuous trial on a weekly or other short-term trial calendar at the earliest possible time so as to ensure speedy trial. In no case shall the entire trial period exceed one hundred eighty (180) days from the first day of trial, except as otherwise authorized by the Chief Justice of the Supreme Court pursuant to Section 3, Rule 22 of the Rules of Court.
+_Nonappearance at Pre-Trial Conference._ \- Where counsel for the accused or the prosecutor does not appear at the pre-trial conference and does not offer an acceptable excuse for his/her lack of cooperation, the pre-trial justice or judge may impose proper sanctions or penalties.
 
-**Section 7._Time Limit Between Filing of Information and Arraignment and Between Arraignment and Trial._** \- The arraignment of an accused shall be held within thirty (30) days from the filing of the information, or from the date the accused has appeared before the justice, judge or court in which the charge is pending, whichever date last occurs. Thereafter, where a plea of not guilty is entered, the accused shall have at least fifteen (15) days to prepare for trial. Trial shall commence within thirty (30) days from arraignment as fixed by the court.
+## Section 5
+
+_Pre-Trial Order._ \- After the pre-trial conference, the court shall issue an order reciting the actions taken, the facts stipulated, and evidence marked. Such order shall bind the parties, limit the trial to matters not disposed of and control the course of action during the trial, unless modified by the court to prevent manifest injustice.
+
+## Section 6
+
+_Time Limit for Trial._ \- In criminal cases involving persons charged of a crime, except those subject to the Rules on Summary Procedure, or where the penalty prescribed by law does not exceed six (6) months imprisonment, or a fine of One thousand pesos (P1,000.00) or both, irrespective of other imposable penalties, the justice or judge shall, after consultation with the public prosecutor and the counsel for the accused, set the case for continuous trial on a weekly or other short-term trial calendar at the earliest possible time so as to ensure speedy trial. In no case shall the entire trial period exceed one hundred eighty (180) days from the first day of trial, except as otherwise authorized by the Chief Justice of the Supreme Court pursuant to Section 3, Rule 22 of the Rules of Court.
+
+## Section 7
+
+_Time Limit Between Filing of Information and Arraignment and Between Arraignment and Trial._ \- The arraignment of an accused shall be held within thirty (30) days from the filing of the information, or from the date the accused has appeared before the justice, judge or court in which the charge is pending, whichever date last occurs. Thereafter, where a plea of not guilty is entered, the accused shall have at least fifteen (15) days to prepare for trial. Trial shall commence within thirty (30) days from arraignment as fixed by the court.
 
 If the accused pleads not guilty to the crime charged, he/she shall state whether he/she interposes a negative or affirmative defense. A negative defense shall require the prosecution to prove the guilt of the accused beyond reasonable doubt, while an affirmative defense may modify the order of trial and require the accused to prove such defense by clear and convincing evidence.
 
-**Section 8._Time Limit Following an Order for New Trial._** \- If the accused is to be tried again following an order of a court for a new trial, the trial shall commence within thirty (30) days from the date the order for a new trial becomes final, except that the court retrying the case may extend such period but in any case shall not exceed one hundred eighty (180) days from the date the order for a new trial becomes final if unavailability of witnesses or other factors resulting from passage of time shall make trial within thirty (30) days impractical.
+## Section 8
 
-**Section 9._Extended Time Limit._** \- Notwithstanding the provisions of Section 7 of this Act, for the first twelve-calendar-month period following its effectivity, the time limit with respect to the period from arraignment to trial imposed by Section 7 of this Act shall be one hundred eighty (180) days. For the second twelve-month period the time limit shall be one hundred twenty (120) days, and for the third twelve-month period the time limit with respect to the period from arraignment to trial shall be eighty (80) days.
+_Time Limit Following an Order for New Trial._ \- If the accused is to be tried again following an order of a court for a new trial, the trial shall commence within thirty (30) days from the date the order for a new trial becomes final, except that the court retrying the case may extend such period but in any case shall not exceed one hundred eighty (180) days from the date the order for a new trial becomes final if unavailability of witnesses or other factors resulting from passage of time shall make trial within thirty (30) days impractical.
 
-**Section 10._Exclusions._** \- The following periods of delay shall be excluded in computing the time within which trial must commence:
+## Section 9
+
+_Extended Time Limit._ \- Notwithstanding the provisions of Section 7 of this Act, for the first twelve-calendar-month period following its effectivity, the time limit with respect to the period from arraignment to trial imposed by Section 7 of this Act shall be one hundred eighty (180) days. For the second twelve-month period the time limit shall be one hundred twenty (120) days, and for the third twelve-month period the time limit with respect to the period from arraignment to trial shall be eighty (80) days.
+
+## Section 10
+
+_Exclusions._ \- The following periods of delay shall be excluded in computing the time within which trial must commence:
 
 (a) Any period of delay resulting from other proceedings concerning the accused, including but not limited to the following:
 
@@ -85,7 +105,9 @@ For purposes of this subparagraph, an accused or an essential witness shall be c
 
 (f) Any period of delay resulting from a continuance granted by any justice or judge motu propio or on motion of the accused or his/her counsel or at the request of the public prosecutor, if the justice or judge granted such continuance on the basis of his/her findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial. No such period of delay resulting from a continuance granted by the court in accordance with this subparagraph shall be excludable under this section unless the court sets forth, in the record of the case, either orally or in writing, its reasons for finding that the ends of justice served by the granting of such continuance outweigh the best interests of the public and the accused in a speedy trial.
 
-**Section 11._Factors for Granting Continuance._** \- The factors, among others, which a justice or judge shall consider in determining whether to grant a continuance under subparagraph (f) of Section 10 of this Act are as follows:
+## Section 11
+
+_Factors for Granting Continuance._ \- The factors, among others, which a justice or judge shall consider in determining whether to grant a continuance under subparagraph (f) of Section 10 of this Act are as follows:
 
 (a) Whether the failure to grant such a continuance in the proceeding would be likely to make a continuation of such proceeding impossible, or result in a miscarriage of justice.
 
@@ -93,7 +115,9 @@ For purposes of this subparagraph, an accused or an essential witness shall be c
 
 No continuance under subparagraph (f) of Section 10 shall be granted because of general congestion of the court's calendar, or lack of diligent preparation or failure to obtain available witnesses on the part of the public prosecutor.
 
-**Section 12._Public Attorney's Duties Where Accused is Imprisoned._** \- If the public attorney knows that a person charged of a crime is preventively detained, either because he/she is charged of a bailable crime and has no means to post bail, or is charged of a non-bailable crime, or is serving a term of imprisonment in any penal institution, the public attorney shall promptly:
+## Section 12
+
+_Public Attorney's Duties Where Accused is Imprisoned._ \- If the public attorney knows that a person charged of a crime is preventively detained, either because he/she is charged of a bailable crime and has no means to post bail, or is charged of a non-bailable crime, or is serving a term of imprisonment in any penal institution, the public attorney shall promptly:
 
 (a) Undertake to obtain the presence of the prisoner for trial, or cause a notice to be served on the person having custody of the prisoner mandating such person to so advise the prisoner of his/her right to demand trial.
 
@@ -103,11 +127,15 @@ No continuance under subparagraph (f) of Section 10 shall be granted because of 
 
 (d) When the person having custody of the prisoner receives from the public attorney a properly supported request for temporary custody of the prisoner for trial, the prisoner shall be made available to that public attorney.
 
-**Section 13._Remedy Where Accused is Not Brought to Trial Within the Time Limit._** \- If an accused is not brought to trial within the time limit required by Section 7 of this Act as extended by Section 9, the information shall be dismissed on motion of the accused. The accused shall have the burden of proof of supporting such motion but the prosecution shall have the burden of going forward with the evidence in connection with the exclusion of time under Section 10 of this Act.
+## Section 13
+
+_Remedy Where Accused is Not Brought to Trial Within the Time Limit._ \- If an accused is not brought to trial within the time limit required by Section 7 of this Act as extended by Section 9, the information shall be dismissed on motion of the accused. The accused shall have the burden of proof of supporting such motion but the prosecution shall have the burden of going forward with the evidence in connection with the exclusion of time under Section 10 of this Act.
 
 In determining whether to dismiss the case with or without prejudice, the court shall consider, among other factors, the seriousness of the offense, the facts and circumstances of the case which led to the dismissal, and the impact of a reprosecution on the implementation of this Act and on the administration of justice. Failure of the accused to move for dismissal prior to trial or entry of a plea of guilty shall constitute a waiver of the right to dismissal under this section.
 
-**Section 14._Sanctions._** \- In any case in which counsel for the accused, the public prosecution or public attorney:
+## Section 14
+
+_Sanctions._ \- In any case in which counsel for the accused, the public prosecution or public attorney:
 
 (a) knowingly allows the case to be set for trial without disclosing the fact that a necessary witness would be unavailable for trial;
 
@@ -125,16 +153,28 @@ In determining whether to dismiss the case with or without prejudice, the court 
 
 The authority to punish provided for by this section shall be in addition to any other authority or power available to the court. The court shall follow the procedures established in the Rules of Court in punishing any counsel or public prosecutor pursuant to this section.
 
-**Section 15._Rules and Regulations._** \- The Supreme Court shall promulgate rules, regulations, administrative orders and circulars which shall seek to accelerate the disposition of criminal cases. The rules, regulations, administrative orders and circulars formulated shall provide sanctions against justices and judges who willfully fail to proceed to trial without justification consistent with the provisions of this Act.
+## Section 15
 
-**Section 16._Funding._** \- For the effective implementation of the rules, regulations, administrative orders and circulars promulgated under this Act, the amount of Twenty million pesos (P20,000,000.00) annually shall be appropriated from the allocation of the Supreme Court under the General Appropriations Act. Thereafter, such additional amounts as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+_Rules and Regulations._ \- The Supreme Court shall promulgate rules, regulations, administrative orders and circulars which shall seek to accelerate the disposition of criminal cases. The rules, regulations, administrative orders and circulars formulated shall provide sanctions against justices and judges who willfully fail to proceed to trial without justification consistent with the provisions of this Act.
 
-**Section 17._Act Not a Bar to Speedy Trial Claim Under the Constitution._** \- No provision of this Act shall be interpreted as a bar to any claim of denial of speedy trial as required by Article III, Section 14(2) of the 1987 Constitution.
+## Section 16
 
-**Section 18._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Funding._ \- For the effective implementation of the rules, regulations, administrative orders and circulars promulgated under this Act, the amount of Twenty million pesos (P20,000,000.00) annually shall be appropriated from the allocation of the Supreme Court under the General Appropriations Act. Thereafter, such additional amounts as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
 
-**Section 19._Separability Clause._** \- In case any provision of this Act is declared unconstitutional, the other provisions shall remain in effect.
+## Section 17
 
-**Section 20._Effectivity._** \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation: Provided, That Section 7 of this Act shall become effective after the expiration of the aforementioned third-calendar-month period provided in Section 9 of this Act.
+_Act Not a Bar to Speedy Trial Claim Under the Constitution._ \- No provision of this Act shall be interpreted as a bar to any claim of denial of speedy trial as required by Article III, Section 14(2) of the 1987 Constitution.
+
+## Section 18
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 19
+
+_Separability Clause._ \- In case any provision of this Act is declared unconstitutional, the other provisions shall remain in effect.
+
+## Section 20
+
+_Effectivity._ \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation: Provided, That Section 7 of this Act shall become effective after the expiration of the aforementioned third-calendar-month period provided in Section 9 of this Act.
 
 _Approved_ : **February 12, 1998**

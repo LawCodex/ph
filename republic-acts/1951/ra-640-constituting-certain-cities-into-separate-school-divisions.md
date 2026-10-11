@@ -29,7 +29,7 @@ Any provision of existing laws to the contrary notwithstanding, every chartered 
 
 ## Section 2
 
-The salaries of the division superintendent of schools of such city shall be in accordance with Republic Act Numbered Three hundred and twelve and those of the necessary personnel of his office shall be determined and fixed by the City Mayor with the approval of the City Council. The said salaries and the expenses for equipment, supplies, and materials for said office shall be payable from the funds of such city.1a⍵⍴h!1
+The salaries of the division superintendent of schools of such city shall be in accordance with Republic Act Numbered Three hundred and twelve and those of the necessary personnel of his office shall be determined and fixed by the City Mayor with the approval of the City Council. The said salaries and the expenses for equipment, supplies, and materials for said office shall be payable from the funds of such city.
 
 ## Section 3
 

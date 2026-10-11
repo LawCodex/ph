@@ -79,7 +79,7 @@ g. If the applicant is an adopted person, the duly certified copy of court order
 
 h. In case of discrepancy between the applicant's name in the birth certificate and in any other private documents, the former shall prevail over the latter unless by operation of law or through court order, the applicant is permitted to use a name other than what is officially recorded in the Civil Register; and
 
-i. If the applicant is a government employee, the travel authority issued by the head of department, agency or office may be required only if said applicant is applying for an official passport.1aшphi1
+i. If the applicant is a government employee, the travel authority issued by the head of department, agency or office may be required only if said applicant is applying for an official passport.
 
 ## Section 6
 
@@ -215,7 +215,7 @@ The setting up, use and disbursement of funds shall be subject to review, accoun
 
 ## Section 18
 
-_Waiver._ – The Secretary of Foreign Affairs is solely authorized to waive any requirements set forth in Section 5 of this Act.1aшphi1
+_Waiver._ – The Secretary of Foreign Affairs is solely authorized to waive any requirements set forth in Section 5 of this Act.
 
 ## Section 19
 

@@ -42,7 +42,7 @@ Any future increase in bed capacity, health care facilities, service capability,
 
 ## Section 4
 
-The Provincial Government of Cebu shall provide the necessary funds for the establishment of the LCH.ℒαwρhi৷ The Secretary of Health shall include in the Department’s subsidy program, support for the capital outlay requirements of the LCH.
+The Provincial Government of Cebu shall provide the necessary funds for the establishment of the LCH. The Secretary of Health shall include in the Department’s subsidy program, support for the capital outlay requirements of the LCH.
 
 ## Section 5
 

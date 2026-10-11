@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-\- The name of Tawantawan Elementary School in Barangay Tawantawan, Baguio District, Davao City is hereby changed to Rosalia "Aglay" Ayag Elementary School.1âwphi1
+\- The name of Tawantawan Elementary School in Barangay Tawantawan, Baguio District, Davao City is hereby changed to Rosalia "Aglay" Ayag Elementary School.
 
 ## Section 2
 

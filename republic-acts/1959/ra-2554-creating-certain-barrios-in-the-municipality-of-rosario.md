@@ -34,7 +34,7 @@ The following barrios in the Municipality of Rosario, Province of Batangas, are 
 
 4\. The barrio of Mayuro is divided into two distinct and independent barrios to be known as the barrios of Mayuro and Bayawang, and
 
-5\. The barrio of Tulos is divided into two distinct and independent barrios to be known as the barrios of Tulos and Calantas.1âшphi1
+5\. The barrio of Tulos is divided into two distinct and independent barrios to be known as the barrios of Tulos and Calantas.
 
 The boundaries of the above-mentioned barrios shall be determined and fixed by the Municipal Council of the Municipality of Rosario, Province of Batangas, within one year from the date of the approval of this Act.
 

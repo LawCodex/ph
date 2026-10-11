@@ -169,4 +169,4 @@ The appropriations authorized in this Act for equipment and supplies, or so much
 
 This Act shall take effect upon its approval.
 
-Approved: **January 19, 1951** 1awphil@alf
+Approved: **January 19, 1951**

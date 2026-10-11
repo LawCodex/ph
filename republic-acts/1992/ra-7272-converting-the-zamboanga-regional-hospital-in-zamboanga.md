@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing Zamboanga Regional Hospital in Zamboanga City is hereby converted into and shall henceforth be known as the Zamboanga City Medical Center, hereinafter called the Medical Center.1âшphi1
+The existing Zamboanga Regional Hospital in Zamboanga City is hereby converted into and shall henceforth be known as the Zamboanga City Medical Center, hereinafter called the Medical Center.
 
 ## Section 2
 

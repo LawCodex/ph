@@ -29,7 +29,7 @@ February 24 of every year is hereby declared a special working holiday in the Pr
 
 ## Section 2
 
-This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
 
 Approved,
 

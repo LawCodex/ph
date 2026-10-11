@@ -36,7 +36,7 @@ In the event of any competing individual, partnership or corporation receiving f
 
 ## Section 4
 
-The grantee shall be liable to pay the same taxes on his real estate, buildings and personal property, exclusive of the permit, as other persons or corporations are now or hereafter may be required by law to pay.1avvphi1
+The grantee shall be liable to pay the same taxes on his real estate, buildings and personal property, exclusive of the permit, as other persons or corporations are now or hereafter may be required by law to pay.
 
 ## Section 5
 
@@ -72,7 +72,7 @@ The grantee shall not require any previous censorship of any speech, play or oth
 
 ## Section 13
 
-This permit shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This permit shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

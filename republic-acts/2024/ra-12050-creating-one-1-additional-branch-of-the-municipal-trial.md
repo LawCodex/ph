@@ -120,7 +120,7 @@ The MTCC in the City of Malaybalay, Province of Bukidnon will have two (2) branc
 
 The staff complement of the new Office of the Clerk of Court (OCC) shall be composed of eleven (11) personnel, unless the same is modified as may be determined by the Supreme Court.
 
-In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.ℒαwρhi৷
+In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
 
 ## Section 5
 

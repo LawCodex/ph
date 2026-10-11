@@ -144,7 +144,7 @@ _Admission Council._ \- There shall be an Admissions Council consisting of the S
 
 The Admissions Council shall propose to the Advisory Board financial assistance schemes and other affirmative programs to assist underprivileged students whi qualify for admission to the School.
 
-No student shall be denied admission to the School by reason of sex religion, cultural or community affiliation, or ethnic origin.1âwphi1
+No student shall be denied admission to the School by reason of sex religion, cultural or community affiliation, or ethnic origin.
 
 ## Section 11
 
@@ -172,7 +172,7 @@ _Authority to Solicit, Receive Donations, Grants and the Like._ \- Upon the reco
 
 _Appropriations._ \- The Secretary of Education shall immediately include in the Department's programs and operationalization of the Bataan High School for the Arts, the funding of which shall be included in the annual General Appropriations Act.
 
-The LGUs concerned may likewise provide financial assistance to the School.1âwphi1
+The LGUs concerned may likewise provide financial assistance to the School.
 
 ## Section 17
 

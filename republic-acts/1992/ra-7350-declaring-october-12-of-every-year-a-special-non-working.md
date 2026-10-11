@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-October 12 of every year is hereby declared a special non-working holiday in the City of Zamboanga.1âшphi1
+October 12 of every year is hereby declared a special non-working holiday in the City of Zamboanga.
 
 ## Section 2
 

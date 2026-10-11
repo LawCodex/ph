@@ -633,7 +633,7 @@ The sale shall take place, at the discretion of the City Treasurer or his deputy
 
 ### Section 64
 
-_Return of Officer—Disposal of Surplus._ -The officer directing the sale under the preceding section shall forthwith make return of his proceedings, and note thereof shall be made by the City Treasurer upon his records.1awp++i1 Any surplus resulting from the sale over and above the tax, penalty and cost, and any property remaining in possession of the officer shall be returned to the taxpayer on account of whose delinquency the sale has been made.
+_Return of Officer—Disposal of Surplus._ -The officer directing the sale under the preceding section shall forthwith make return of his proceedings, and note thereof shall be made by the City Treasurer upon his records. Any surplus resulting from the sale over and above the tax, penalty and cost, and any property remaining in possession of the officer shall be returned to the taxpayer on account of whose delinquency the sale has been made.
 
 ### Section 65
 

@@ -32,7 +32,7 @@ In pursuance of the aim of all schools expressed in section five, Article XIV of
 
 ## Section 3
 
-To put into effect the educational policy established by this Act, the Department of Education is hereby authorized to revise the elementary-school system on the following basis: The primary course shall be composed of four grades (Grades I to IV) and the intermediate course of three grades (Grade V to VII). Pupils who are in the sixth grade of the time this Act goes into effect will not be required to complete the seventh grade before being eligible to enroll in the first year of the secondary school: _Provided,_ That they shall be allowed to elect to enroll in Grade VII if they so desire.1a⍵⍴h!1
+To put into effect the educational policy established by this Act, the Department of Education is hereby authorized to revise the elementary-school system on the following basis: The primary course shall be composed of four grades (Grades I to IV) and the intermediate course of three grades (Grade V to VII). Pupils who are in the sixth grade of the time this Act goes into effect will not be required to complete the seventh grade before being eligible to enroll in the first year of the secondary school: _Provided,_ That they shall be allowed to elect to enroll in Grade VII if they so desire.
 
 ## Section 4
 

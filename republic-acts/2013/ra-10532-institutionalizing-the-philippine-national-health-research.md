@@ -208,7 +208,7 @@ _Implementing Rules and Regulations. —_ The DOST-PCHRD, the DOH, the CHED and 
 
 ### Section 16
 
-_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.1âwphi1
+_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
 
 ### Section 17
 

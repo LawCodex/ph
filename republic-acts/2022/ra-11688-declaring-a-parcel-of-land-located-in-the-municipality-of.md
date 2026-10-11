@@ -325,7 +325,7 @@ The PAMB shall retain seventy-five percent (75%) of all revenues raised through 
 
 The fund may be augmented by grants, donations, and endowment from various sources, domestic or foreign: _Provided,_ That the fund shall be deposited in full as a special account in the National treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration and management of the NIPAS and duly approved projects endorsed by the PAMB in accordance with existing accounting, budgeting, and auditing rules and regulations: _Provided, further,_ That the fund shall not be used to cover personal services expenditures.
 
-The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as property business permits, property tax and rentals of LGUs' facilities.1aшphi1
+The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as property business permits, property tax and rentals of LGUs' facilities.
 
 ## ARTICLE IV — TRANSITORY AND MISCELLANEOUS PROVISIONS
 

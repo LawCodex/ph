@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The Camiling Rural High School in the Municipality of Camiling, Province of Tarlac, is hereby converted into a national agricultural school of the Central Luzon Agricultural College type, to be known as the Tarlac National Agricultural School. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
 
-Upon the organization of the Tarlac National Agricultural School, the assets, liabilities, personnel, equipment and records of the Camiling Rural High School shall stand transferred to the Tarlac National Agricultural School.1âшphi1
+Upon the organization of the Tarlac National Agricultural School, the assets, liabilities, personnel, equipment and records of the Camiling Rural High School shall stand transferred to the Tarlac National Agricultural School.
 
 ## Section 2
 

@@ -33,7 +33,7 @@ The provisions of Sections twenty-one hundred and thirty-seven, twenty-one hundr
 
 ## Section 3
 
-The lieutenant-governor of the Subprovince of Samal shall receive a compensation of six thousand pesos _per annum_.1a⍵⍴h!1
+The lieutenant-governor of the Subprovince of Samal shall receive a compensation of six thousand pesos _per annum_.
 
 ## Section 4
 
@@ -41,6 +41,6 @@ The creation of the Subprovince of Samal in the Province of Davao, as provided i
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

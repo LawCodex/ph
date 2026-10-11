@@ -858,7 +858,7 @@ The following sums or so much thereof as may be necessary are hereby appropriate
 
 ## Section 2
 
-The provisions under the "General Provisions" contained in the General Appropriations Act for the fiscal year nineteen hundred sixty-eight and sixty-nine which are not in conflict with the provisions of Republic Act Numbered Fifty-one hundred and eighty-six and of this Act, are hereby made applicable in carrying out the purposes of this Act.1âшphi1
+The provisions under the "General Provisions" contained in the General Appropriations Act for the fiscal year nineteen hundred sixty-eight and sixty-nine which are not in conflict with the provisions of Republic Act Numbered Fifty-one hundred and eighty-six and of this Act, are hereby made applicable in carrying out the purposes of this Act.
 
 ## Section 3
 

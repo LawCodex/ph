@@ -61,6 +61,6 @@ It is expressly provided that in the event the Government should desire to maint
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June, 21, 1969.

@@ -85,7 +85,7 @@ The grantee shall not transfer, grant the usufruct of, sell or assign this franc
 
 ## Section 14
 
-This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.
 
 ## Section 15
 

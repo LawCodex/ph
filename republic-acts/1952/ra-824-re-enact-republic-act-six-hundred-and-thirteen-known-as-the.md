@@ -36,6 +36,6 @@ Sections four and five of Republic Act Numbered Six hundred and thirteen, otherw
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved, August 14, 1952.

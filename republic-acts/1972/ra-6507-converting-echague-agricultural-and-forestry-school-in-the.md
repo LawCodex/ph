@@ -38,7 +38,7 @@ The head of this institution shall be known as the President of Isabela State Co
 
 The government of said college is hereby vested in the Board of Trustees of Isabela State College of Agriculture. The Board of Trustees shall to composed of the President of the college, who shall be the chairman of the Board, the president of the student government of the college, the president of the faculty club of the college, the president of the alumni association, and three prominent residents of Isabela, who shall be appointed by the President of the Philippines with the consent of the Commission on Appointments.
 
-Members of the Board shall serve without compensation other than actual and necessary expenses incurred either in attendance at meetings of the Board or upon official business authorized by resolution of the Board.1âшphi1
+Members of the Board shall serve without compensation other than actual and necessary expenses incurred either in attendance at meetings of the Board or upon official business authorized by resolution of the Board.
 
 ## Section 5
 

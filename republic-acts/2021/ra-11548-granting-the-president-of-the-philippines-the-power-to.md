@@ -101,7 +101,7 @@ Section 4(a)(9) of Republic Act No. 11199, also known as the "Social Security Ac
 <td>P4,000.00</td>
 <td>P30,000.00</td>
 </tr>
-<tr><cite>ℒαwρhi৷</cite>
+<tr>
 <td>2025</td>
 <td>15%</td>
 <td>10%</td>

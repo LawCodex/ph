@@ -31,7 +31,7 @@ The first congressional district in the Province of Samar is hereby constituted 
 
 ## Section 2
 
-The office of said highway engineering district shall be located in Calbayog City, and shall have a highway district engineer and such other personnel as may be necessary, who shall be appointed in accordance with existing laws and regulations.Ꮮαwρhi৷
+The office of said highway engineering district shall be located in Calbayog City, and shall have a highway district engineer and such other personnel as may be necessary, who shall be appointed in accordance with existing laws and regulations.
 
 ## Section 3
 

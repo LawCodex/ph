@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-January 16 of every year is hereby declared a special non-working holiday in the City of Navotas, in commemoration of its foundation anniversary.ℒαwρhi৷
+January 16 of every year is hereby declared a special non-working holiday in the City of Navotas, in commemoration of its foundation anniversary.
 
 ## Section 2
 

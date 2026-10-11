@@ -33,7 +33,7 @@ _Appeals to Court of Appeals._ — Appeals to the Court of Appeals shall be file
 
 ## Section 3
 
-_How appeals taken._ — Appeals shall be taken by filing a notice of appeal with the Court of Appeals and with the court, officer, board, award, order, decision or judgment appealed from, serving a copy thereof on all other interested parties.1avvphi1 The notice of appeal shall state, under oath, the material dates to show that it was filed within the period fixed in this Act.
+_How appeals taken._ — Appeals shall be taken by filing a notice of appeal with the Court of Appeals and with the court, officer, board, award, order, decision or judgment appealed from, serving a copy thereof on all other interested parties. The notice of appeal shall state, under oath, the material dates to show that it was filed within the period fixed in this Act.
 
 ## Section 4
 

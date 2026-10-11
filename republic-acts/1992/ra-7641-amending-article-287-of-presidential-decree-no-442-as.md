@@ -50,4 +50,4 @@ Nothing in this Act shall deprive any employee of benefits to which he may be en
 
 This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.
 
-Approved: **December 9, 1992**.lawphi1Ÿ
+Approved: **December 9, 1992**.

@@ -29,7 +29,7 @@ The name of the Philippine Children's Medical Center in Quezon Boulevard, Quezon
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

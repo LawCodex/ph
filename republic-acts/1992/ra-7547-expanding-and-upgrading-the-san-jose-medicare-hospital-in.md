@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The San Jose Medicare Hospital in the Municipality of San Jose, Province of Camarines Sur, is hereby expanded and upgraded into a twenty-five-bed capacity district hospital, to be known as the Partido District Hospital.1âшphi1
+The San Jose Medicare Hospital in the Municipality of San Jose, Province of Camarines Sur, is hereby expanded and upgraded into a twenty-five-bed capacity district hospital, to be known as the Partido District Hospital.
 
 ## Section 2
 

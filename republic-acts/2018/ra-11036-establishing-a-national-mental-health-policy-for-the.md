@@ -450,7 +450,7 @@ _Compliant and Investigation._ \- The DOJ, CHR and Department of Justice shall r
 
 Further, the CHR shall inspect all places where psychiatric service users are held for involuntary treatment or otherwise, to ensure full compliance with domestic and international standards governing the legal basis for treatment or otherwise, to ensure full compliance with domestic and international standards governing the legal basis for treatment and detention quality of medical care and living standards.
 
-The CHR may. _motu propio,_ file a complaint against erring mental health care institutions should they find any noncompliance, based on its investigations.1a\^/phi1
+The CHR may. _motu propio,_ file a complaint against erring mental health care institutions should they find any noncompliance, based on its investigations.
 
 ### Section 34
 
@@ -500,7 +500,7 @@ _Duties and Responsibilities of the Local Government Units (LGUs)._ \- The LGUs 
 
 (g) Refer service users to mental health facilities, professionals, workers, and other service providers for appropriate care; and
 
-(h) Establish a multi-sectoral stakeholder network for the identification, management, and prevention of mental health conditions.1âwphi1
+(h) Establish a multi-sectoral stakeholder network for the identification, management, and prevention of mental health conditions.
 
 ### Section 38
 

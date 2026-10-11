@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Namuac Elementary School in Barangay San Andres, Municipality of Sanchez, Mira, Province of Cagayan, is hereby changed to Namuac-San Andres Elementary School.1âшphi1
+The name of the Namuac Elementary School in Barangay San Andres, Municipality of Sanchez, Mira, Province of Cagayan, is hereby changed to Namuac-San Andres Elementary School.
 
 ## Section 2
 

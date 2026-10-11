@@ -216,7 +216,7 @@ The amount of all unused or undisbursed funds, other than unused appropriations 
 
 The amount of savings from austerity measures, which are hereafter to be pursued by all services and units of the AFP, generated in the previous fiscal year.
 
-The savings generated under this section are hereby authorized to be used to augment funds for the AFP modernization program.1aшphi1
+The savings generated under this section are hereby authorized to be used to augment funds for the AFP modernization program.
 
 ## Section 14
 

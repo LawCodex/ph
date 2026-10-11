@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Fort Andres Bonifacio National High School-Signal Village Annex in Barangay Signal Village, Municipality of Tagig, Metro Manila, is hereby separated from the Fort Andres Bonifacio National High School, and converted into an independent high school, to be known as the Signal Village National High School.1aшphi1
+The Fort Andres Bonifacio National High School-Signal Village Annex in Barangay Signal Village, Municipality of Tagig, Metro Manila, is hereby separated from the Fort Andres Bonifacio National High School, and converted into an independent high school, to be known as the Signal Village National High School.
 
 ## Section 2
 

@@ -57,7 +57,7 @@ _Fair Treatment._ \- The employer shall ensure that the telecommuting employee a
 
 (e) Receive appropriate training on the technical equipment at their disposal, and the characteristics and conditions of telecommuting.
 
-(f) Have the same collectible rights as the workers at the employer's premises, and shall not be barred from communicating with workers' representatives.1âwphi1
+(f) Have the same collectible rights as the workers at the employer's premises, and shall not be barred from communicating with workers' representatives.
 
 The employer shall also ensure that measures are taken to prevent the telecommuting employee from being isolated from the rest of the working community in the company by giving the telecommuting employee the opportunity to meet with colleagues on a regular basis, and opportunity to meet with colleagues on a regular basis, and allowing access to company information.
 
@@ -71,7 +71,7 @@ For this purpose, the provision s of the Data Privacy Act of 2012 shall have sup
 
 _Administration._ \- The parties to a telecommuting work arrangement shall be primarily responsible for its administration. In case of differences in interpretation, the following guidelines shall be observed:
 
-(a) The differences shall be treated as grievances under the applicable grievance mechanism of the company.1âwphi1
+(a) The differences shall be treated as grievances under the applicable grievance mechanism of the company.
 
 (b) If there id no grievance mechanism or if the mechanism is inadequate, the grievance shall be referred to the regional office of the Department of Labor and Employment (DOLE) which has jurisdiction over the workplace for conciliation.
 

@@ -535,7 +535,7 @@ _City Assessor to authenticate list of real estate assessed._ The city assessor 
 <table>
 <tr>
 <td colspan="2">"I hereby certify that the foregoing list contains a true statement of the piece or pieces of taxable real estate belonging to each person named in the list, and its true cash value, and that no real estate taxable by law in Batangas City has been omitted from the list, according to the best of my knowledge and belief.</td>
-</tr><cite>1awphil.net</cite>
+</tr>
 <tr>
 <td><br/></td>
 <td><br/>(Signature of City Assessor)"</td>
@@ -570,7 +570,7 @@ _Oath to be taken by Members of the City Board of Tax Appeals._ Before organizin
 </tr>
 <tr>
 <td colspan="2">So help me God. (In case of affirmation the last four words are to be stricken out.)</td>
-</tr><cite>1awphil.net</cite>
+</tr>
 <tr>
 <td><br/></td>
 <td><br/>(Signature)</td>
@@ -610,7 +610,7 @@ _Seizure of the personal property for delinquency in payment of the tax._ After 
 
 _Personal property exempt from seizure and sale for delinquency._ The following personal property shall be exempt from seizure, sale and execution for delinquency in the payment of the real estate tax:
 
-(a) The tools and implement necessarily used by the delinquent in his trade or employment;1awphil.net
+(a) The tools and implement necessarily used by the delinquent in his trade or employment;
 
 (b) One horse, cow or carabao, or other beast of burden, such as the delinquent may select, and necessarily used by him in his ordinary occupation;
 

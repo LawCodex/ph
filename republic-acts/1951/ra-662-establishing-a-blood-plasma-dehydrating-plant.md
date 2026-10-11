@@ -29,7 +29,7 @@ There is hereby established, under the Department of Health, a blood plasma dehy
 
 ## Section 2
 
-The Secretary of Health shall, in accordance with the Civil Service Law and regulations and the Salary Law, appoint and fix the salary of the personnel to carry out the purpose of this Act.1a⍵⍴h!1
+The Secretary of Health shall, in accordance with the Civil Service Law and regulations and the Salary Law, appoint and fix the salary of the personnel to carry out the purpose of this Act.
 
 ## Section 3
 

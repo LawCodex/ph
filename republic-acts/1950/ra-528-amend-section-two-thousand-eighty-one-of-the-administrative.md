@@ -36,7 +36,7 @@ Section two thousand and eighty-one of the Administrative Code is hereby amended
 
 ## Section 2
 
-The provisions of this Act shall likewise apply to all specially organized provinces.ℒαwρhi৷
+The provisions of this Act shall likewise apply to all specially organized provinces.
 
 ## Section 3
 

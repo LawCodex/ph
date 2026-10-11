@@ -29,7 +29,7 @@ The bed capacity of Northern Samar General Hospital in the Municipality of Catar
 
 ## Section 2
 
-The sum of one hundred thirty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for fiscal year nineteen hundred sixty-seven, in addition to its existing appropriations.1avvphi1 Thereafter, said sum shall be included in the annual General Appropriations Act.
+The sum of one hundred thirty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for fiscal year nineteen hundred sixty-seven, in addition to its existing appropriations. Thereafter, said sum shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

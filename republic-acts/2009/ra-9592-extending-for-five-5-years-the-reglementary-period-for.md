@@ -70,13 +70,21 @@ Section 10 of Republic Act No. 9263 is hereby amended as read as follows:
 
 "2) Any personnel of the BFP and the BJMP who has exhibited act of conspicuous courage and gallantry at the risk his/her life above and beyond the call of duty, or selected as such in a nationwide search conducted by any accredited civic organization, shall be promoted to the next higher rank, _Provided_ , That these shall be validated by the DILG and the CSC based on established criteria."
 
-**Section 3._Implementing Rules and Regulations._** \- The Department of the Interior and Local Government (DILG), in coordination with the BFP, the BJMP, the CSC and the Commission on Higher Education (CHED), shall promulgate within sixty (60) days the necessary rules and regulations for the effective implementation of this Act.
+## Section 3
 
-**Section 4._Separability Clause._** \- If for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+_Implementing Rules and Regulations._ \- The Department of the Interior and Local Government (DILG), in coordination with the BFP, the BJMP, the CSC and the Commission on Higher Education (CHED), shall promulgate within sixty (60) days the necessary rules and regulations for the effective implementation of this Act.
 
-**Section 5._Repealing Clause._** \- All laws, decrees, orders, rules and regulations and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+## Section 4
 
-**Section 5._Effectivity Clause._** \- This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.
+_Separability Clause._ \- If for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+## Section 5
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 5
+
+_Effectivity Clause._ \- This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

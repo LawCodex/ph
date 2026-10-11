@@ -59,7 +59,7 @@ x x x x x x x x x
 
 "rr. To enact an ordinance or pass a resolution providing for the automatic retention of the expected allotments of one-tenth of the annual allotments of the city. Such allotments of the city are to be remitted to the city treasurer within ten days. However, if collections are less than the allotments the Bureau of Internal Revenue has to release the balance to the city every quarter;
 
-"ss.1avvphi1 To enact an ordinance fixing and providing bonuses and allowances to officials and employees of the city; and
+"ss. To enact an ordinance fixing and providing bonuses and allowances to officials and employees of the city; and
 
 "tt. To make provisions for the care or hospitalization of the poor, the sick or persons of unsound mind.
 

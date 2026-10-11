@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Antipolo Nationa
 
 ## Section 2
 
-_Transferof Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Antipolo National High School - Cupang Annex are hereby transferred to and absorbed by the Cupang National High School.1avvphi1
+_Transferof Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Antipolo National High School - Cupang Annex are hereby transferred to and absorbed by the Cupang National High School.
 
 ## Section 3
 

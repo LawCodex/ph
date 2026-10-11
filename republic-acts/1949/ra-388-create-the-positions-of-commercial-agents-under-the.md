@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 There are hereby created the positions of commercial agents under the Domestic Trade Division in the Bureau of Commerce.
 
-Commercial agents shall be appointed by the Secretary of Commerce and Industry upon the recommendation of the Director of Commerce.1âшphi1 Each shall receive an annual compensation of two thousand one hundred and sixty pesos. No person shall be appointed as a commercial agent unless he is at least a holder of the degree of Bachelor of Science in Commerce and must have qualified in a corresponding Civil Service examination.
+Commercial agents shall be appointed by the Secretary of Commerce and Industry upon the recommendation of the Director of Commerce. Each shall receive an annual compensation of two thousand one hundred and sixty pesos. No person shall be appointed as a commercial agent unless he is at least a holder of the degree of Bachelor of Science in Commerce and must have qualified in a corresponding Civil Service examination.
 
 ## Section 2
 
@@ -38,6 +38,6 @@ The sum of three hundred thousand pesos, or so much thereof as may be necessary,
 
 ## Section 4
 
-This Act shall take effect upon its approval.lavvphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1949.

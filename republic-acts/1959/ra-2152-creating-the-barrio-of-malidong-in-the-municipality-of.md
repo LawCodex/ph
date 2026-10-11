@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Candayong, Malidong and Malaspagas in the Municipality of Gamay, Province of Samar, are hereby constituted into a barrio in the said municipality to be known as the barrio of Malidong.1aшphi1
+The sitios of Candayong, Malidong and Malaspagas in the Municipality of Gamay, Province of Samar, are hereby constituted into a barrio in the said municipality to be known as the barrio of Malidong.
 
 ## Section 2
 

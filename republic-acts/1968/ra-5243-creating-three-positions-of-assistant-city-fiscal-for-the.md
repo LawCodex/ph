@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The first paragraph of Section seventy-two of Republic Act Numbered Forty five and eighty-four, otherwise known as the "Charter of the City of Laoag," is hereby amended to read as follows:
 
-"Sec. 72. _The City Fiscal—His assistants—His Powers and duties._ — The law department shall consist of the city fiscal and three assistants who shall discharge their duties under the general supervision of the Secretary of Justice.1avvphi1 The city fiscal and to three assistant city fiscals shall receive salaries as provided by law. The city fiscal shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:"
+"Sec. 72. _The City Fiscal—His assistants—His Powers and duties._ — The law department shall consist of the city fiscal and three assistants who shall discharge their duties under the general supervision of the Secretary of Justice. The city fiscal and to three assistant city fiscals shall receive salaries as provided by law. The city fiscal shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:"
 
 ## Section 2
 

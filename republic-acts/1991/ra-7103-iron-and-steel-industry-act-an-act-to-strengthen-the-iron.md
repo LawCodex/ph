@@ -25,11 +25,17 @@ AN ACT TO STRENGTHEN THE IRON AND STEEL INDUSTRY AND PROMOTE PHILIPPINE INDUSTRI
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known and cited as the **"_Iron and Steel Industry Act._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is hereby declared a policy of the State to promote industrialization through the immediate establishment of an integrated iron and steel industry that makes full and efficient use of the country's human and natural resources taking into consideration its critical impact on employment, indigenous resources utilization, foreign exchange and balance of payments position. The State shall provide impetus to the growth, promotion, and development of the iron and steel industry as the springboard and basis for launching Philippine industrialization.
+_Title._ – This Act shall be known and cited as the **"_Iron and Steel Industry Act._ "**
 
-**Section 3._Statement of Objectives._** – It is the purpose of this Act to:
+## Section 2
+
+_Declaration of Policy._ – It is hereby declared a policy of the State to promote industrialization through the immediate establishment of an integrated iron and steel industry that makes full and efficient use of the country's human and natural resources taking into consideration its critical impact on employment, indigenous resources utilization, foreign exchange and balance of payments position. The State shall provide impetus to the growth, promotion, and development of the iron and steel industry as the springboard and basis for launching Philippine industrialization.
+
+## Section 3
+
+_Statement of Objectives._ – It is the purpose of this Act to:
 
 (a) Provide a framework for a rational integrated iron and steel program consistent with the requirements of the government environment protection program;
 
@@ -41,7 +47,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) Provide a set of quality and industry standards for iron and steel products.
 
-**Section 4._Definitions of Terms._** – Unless otherwise provided for in this Act:
+## Section 4
+
+_Definitions of Terms._ – Unless otherwise provided for in this Act:
 
 (a) "Iron and steel industry" refers to the preparation, smelting, crushing, soaking, blooming, slabbing, melting, firing, rolling, casting, shaping, plating, galvanizing and all other processes involved in transforming raw materials (i.e. iron ore, coke, limestones, flourspar, dolomite and silica) into semi-finished products (i.e. ingots, slabs, blooms and billets) and/or semi-finished products into finished products (products in their final physical state like hot-rolled coils and strips, plates and sheets).
 
@@ -55,7 +63,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (f) "Less developed areas" refers to those geographic areas included in the list prepared by the Board of Investments after consultation with the National Economic and Development Authority and other appropriate government agencies, taking into consideration the following criteria; low per capita domestic product; low level of investments; high rate of unemployment and/or underemployment; and level of infrastructure development including its accessibility to developed urban centers.
 
-**Section 5._Certified Enterprises._** – The Board of Investments (hereinafter referred to as the "BOI") in consultation with other government agencies shall certify as eligible for incentives under this Act enterprises that meet the following conditions:
+## Section 5
+
+_Certified Enterprises._ – The Board of Investments (hereinafter referred to as the "BOI") in consultation with other government agencies shall certify as eligible for incentives under this Act enterprises that meet the following conditions:
 
 (a) Nationality – The enterprise shall be undertaken by a citizen of the Philippines or a corporation, partnership, or other association organized under the laws of the Philippines at least thirty-five percent (35%) of the capital of which is owned and controlled by citizens of the Philippines. As a matter of principle, and whenever possible, Filipino investors will be given preference in investing up to one hundred percent (100%) in the equity capital of an enterprise.
 
@@ -73,7 +83,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) Environmental Protection. – The enterprise shall comply with laws and regulations on environmental protection so as not to adversely affect the residents and ecological balance of the location(s) of the manufacturing activity.
 
-**Section 6._Incentives._** – All enterprises certified by the BOI in accordance with the foregoing section of this Act shall be entitled to the following incentives:
+## Section 6
+
+_Incentives._ – All enterprises certified by the BOI in accordance with the foregoing section of this Act shall be entitled to the following incentives:
 
 (a) Power, Infrastructure and Auxiliary Facilities. – Each enterprise so certified shall be entitled to generate its own electricity, either directly or through co-generation, build-operate-and-transfer, and other contracts. Said enterprise may also provide infrastructures under BOT arrangement. Such infrastructures shall be allowed for negotiated contract;
 
@@ -97,13 +109,21 @@ In financing manufacturing activity as herein defined, private sector participat
 
 (f) Rational Tariff Incentives and Protection Scheme – The National Economic and Development Authority shall recommend to the appropriate authority a rational tariff incentive and protection scheme that shall enhance viability of the iron and steel industry. Specifically, tariff rates on imported raw materials not indigenously sourced or are not available in sufficient amounts or at the required grade or quality such as iron ore, coking coal, scrap and manganese ore shall be reviewed taking into consideration the requirements of the iron and steel industry.
 
-**Section 7._Other Incentives._** – The foregoing, incentives shall be in addition to such other incentives as may be available to the certified enterprise under the Omnibus Investments Code, laws creating export processing zones, and other laws. The enterprises certified under this Act shall be eligible for all other incentives that may be given in the future to similar enterprises.
+## Section 7
 
-**Section 8._Time Frame._** – All fiscal incentives in this Act shall apply for a duration consistent with the provisions of the Omnibus Investments Code: provided, that in less developed areas, the duration shall be for fifteen (15) years. All other incentives embodied in this Act shall apply for a period of fifteen (15) years from the effectivity of this Act.
+_Other Incentives._ – The foregoing, incentives shall be in addition to such other incentives as may be available to the certified enterprise under the Omnibus Investments Code, laws creating export processing zones, and other laws. The enterprises certified under this Act shall be eligible for all other incentives that may be given in the future to similar enterprises.
 
-**Section 9._Divestment._** – All enterprises in the iron and steel industry with foreign equity shall be encouraged to undertake measures that will gradually increase Filipino participation in their businesses by taking in Filipino partners, electing Filipinos to the board of directors, implementing transfer of technology to the Filipinos, generating more employment for the economy and enhancing skills of Filipino workers.
+## Section 8
 
-**Section 10._Penalties for Smuggling._** – Upon the operation of the smelting plants, the following penalties shall be imposed upon any person who shall smuggle, fraudulently import or bring goods into the Philippines that constitute the intermediate or final product of the manufacturing activity described in Section 5 (b) of this Act, such as pig iron and steel, whether in the form of ingots, slabs, blooms, billets, bars, rods, wires, coils, strips, plates, sheets or otherwise, and whether in raw form or galvanized, painted, treated, recast, rolled, finished or processed by any other means, or who shall receive, conceal, buy or in a manner facilitate the transportation, concealment, or sale after importation of such products:
+_Time Frame._ – All fiscal incentives in this Act shall apply for a duration consistent with the provisions of the Omnibus Investments Code: provided, that in less developed areas, the duration shall be for fifteen (15) years. All other incentives embodied in this Act shall apply for a period of fifteen (15) years from the effectivity of this Act.
+
+## Section 9
+
+_Divestment._ – All enterprises in the iron and steel industry with foreign equity shall be encouraged to undertake measures that will gradually increase Filipino participation in their businesses by taking in Filipino partners, electing Filipinos to the board of directors, implementing transfer of technology to the Filipinos, generating more employment for the economy and enhancing skills of Filipino workers.
+
+## Section 10
+
+_Penalties for Smuggling._ – Upon the operation of the smelting plants, the following penalties shall be imposed upon any person who shall smuggle, fraudulently import or bring goods into the Philippines that constitute the intermediate or final product of the manufacturing activity described in Section 5 (b) of this Act, such as pig iron and steel, whether in the form of ingots, slabs, blooms, billets, bars, rods, wires, coils, strips, plates, sheets or otherwise, and whether in raw form or galvanized, painted, treated, recast, rolled, finished or processed by any other means, or who shall receive, conceal, buy or in a manner facilitate the transportation, concealment, or sale after importation of such products:
 
 (a) A fine of not less than One hundred thousand pesos (P100,000.00) and imprisonment of not less than one (1) year and one (1) day or more than six (6) years, if appraised landed value, determined in accordance with the Tariff and Customs Code, including duties and taxes, of the article unlawfully imported is not more than Fifty thousand pesos (P50,000.00);
 
@@ -113,22 +133,38 @@ In financing manufacturing activity as herein defined, private sector participat
 
 If the offense is committed by a juridical entity, its president and/or other officials responsible thereforee shall be subject to the penalty prescribed above. If the offender, or the president/official in cases where the offense was committed by the juridical entity, is an alien, he shall be deported without further proceedings in addition to the penalty herein prescribed and shall, if naturalized, be automatically denaturalized from the date his sentence becomes final.
 
-**Section 11._Preferred Use._** – Subject to the availability of the locally manufactured products of comparable quality, price and terms of delivery, the use of iron and steel products manufactured in the Philippines shall be specified for use in all infrastructure, industrial and other construction projects: (a) undertaken by the Government, including all agencies and subdivisions thereof, and all government-owned and controlled corporations; or (b) financed in whole or part by loans denominated in foreign currency or secured by guarantees issued by non-Philippine nationals; and (c) benefiting from loans, grants, or other form of official development assistance extended by foreign government or multilateral agencies.
+## Section 11
 
-**Section 12._Promotion of Steel Industry Linkages._** – The Investment Coordinating Committee of the NEDA Board shall formulate a plan for the development and establishment of upstream and downstream industries identified with the iron and steel industry within one (1) year from the effectivity of this Act. It shall also encourage and promote other uses of intermediate iron and steel products, especially those that will engage in the production of basic household tools, precision tools, engines, ship buildings and those produced by domestic enterprises enjoying benefits under this Act.
+_Preferred Use._ – Subject to the availability of the locally manufactured products of comparable quality, price and terms of delivery, the use of iron and steel products manufactured in the Philippines shall be specified for use in all infrastructure, industrial and other construction projects: (a) undertaken by the Government, including all agencies and subdivisions thereof, and all government-owned and controlled corporations; or (b) financed in whole or part by loans denominated in foreign currency or secured by guarantees issued by non-Philippine nationals; and (c) benefiting from loans, grants, or other form of official development assistance extended by foreign government or multilateral agencies.
+
+## Section 12
+
+_Promotion of Steel Industry Linkages._ – The Investment Coordinating Committee of the NEDA Board shall formulate a plan for the development and establishment of upstream and downstream industries identified with the iron and steel industry within one (1) year from the effectivity of this Act. It shall also encourage and promote other uses of intermediate iron and steel products, especially those that will engage in the production of basic household tools, precision tools, engines, ship buildings and those produced by domestic enterprises enjoying benefits under this Act.
 
 In addition, enterprises utilizing the products produced by integrated iron and steel mills in the Philippines shall likewise enjoy the benefits granted to said iron and steel mills, provided that the BOI approval is previously obtained.
 
-**Section 13._Technology and Manpower Development._** – The Department of Trade and Industry, and Science and Technology shall initiate technology dissemination programs and studies in order to advance the levels of technology used in domestic enterprises. The training systems and specific expertise and skills shall be made available in agencies like the Metals Industry Research and Development Center (MIRDC), the National Manpower and Youth Council (NMYC) and other appropriate agencies to support and service the iron and steel industry.
+## Section 13
 
-**Section 14._Community Programs._** – The certified enterprise shall undertake community programs in the locality where it operates. These programs shall include the establishment of a center that would promote steel industry-related enterprises nationwide and grants to schools that would develop their teaching capability and upgrade technical courses relevant to the steel industry.
+_Technology and Manpower Development._ – The Department of Trade and Industry, and Science and Technology shall initiate technology dissemination programs and studies in order to advance the levels of technology used in domestic enterprises. The training systems and specific expertise and skills shall be made available in agencies like the Metals Industry Research and Development Center (MIRDC), the National Manpower and Youth Council (NMYC) and other appropriate agencies to support and service the iron and steel industry.
 
-**Section 15._Implementing Guidelines._** – Within sixty (60) days from the approval of this Act, the BOI shall issue implementing guidelines for purposes of the incentives provided above.
+## Section 14
 
-**Section 16._Separability Clause._** – Should any provision under this Act be deemed invalid, the remainder of this Act not otherwise affected thereby shall remain in full force and effect.
+_Community Programs._ – The certified enterprise shall undertake community programs in the locality where it operates. These programs shall include the establishment of a center that would promote steel industry-related enterprises nationwide and grants to schools that would develop their teaching capability and upgrade technical courses relevant to the steel industry.
 
-**Section 17._Repealing Clause._** – All laws, orders, issuances, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 15
 
-**Section 18._Effectivity Clause._** – This Act shall take effect upon its publication in two (2) newspapers of general circulation or in the Official Gazette.
+_Implementing Guidelines._ – Within sixty (60) days from the approval of this Act, the BOI shall issue implementing guidelines for purposes of the incentives provided above.
+
+## Section 16
+
+_Separability Clause._ – Should any provision under this Act be deemed invalid, the remainder of this Act not otherwise affected thereby shall remain in full force and effect.
+
+## Section 17
+
+_Repealing Clause._ – All laws, orders, issuances, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+## Section 18
+
+_Effectivity Clause._ – This Act shall take effect upon its publication in two (2) newspapers of general circulation or in the Official Gazette.
 
 Approved: **August 8, 1991**.

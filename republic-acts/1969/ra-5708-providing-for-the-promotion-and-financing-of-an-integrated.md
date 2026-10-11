@@ -98,7 +98,7 @@ The sum of five million pesos is hereby authorized to be appropriated annually f
 
 ## Section 15
 
-All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed.1a⍵⍴h!1
+All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 16
 

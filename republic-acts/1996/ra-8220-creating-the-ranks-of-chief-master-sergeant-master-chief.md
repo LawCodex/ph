@@ -53,7 +53,7 @@ Nothing in this section shall be construed as authorizing adjustment of pay, or 
 
 ## Section 7
 
-_Selection of AFP Command Sergeant Major._ \- The AFP Command Sergeant Major shall be selected from among the Chief Master Sergeants/Master Chief Petty Officers under such rules and regulations that the Chief of Staff, AFP, may prescribed: Provided that unless sooner terminated the Chief of Staff, AFP, the AFP Command Sergeant Major shall serve for a maximum term of three (3) years.1aшphi1
+_Selection of AFP Command Sergeant Major._ \- The AFP Command Sergeant Major shall be selected from among the Chief Master Sergeants/Master Chief Petty Officers under such rules and regulations that the Chief of Staff, AFP, may prescribed: Provided that unless sooner terminated the Chief of Staff, AFP, the AFP Command Sergeant Major shall serve for a maximum term of three (3) years.
 
 ## Section 8
 

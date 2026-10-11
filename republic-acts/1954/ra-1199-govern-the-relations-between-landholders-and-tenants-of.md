@@ -23,19 +23,29 @@ AN ACT TO GOVERN THE RELATIONS BETWEEN LANDHOLDERS AND TENANTS OF AGRICULTURAL L
 
 ## PART I — GENERAL PROVISIONS
 
-**SECTION 1._Title._** \- This Act shall be known as the "**_Agricultural Tenancy Act of the Philippines_**."
+#### SECTION 1
 
-**Section 2._Purposes._** \- It is the purpose of this Act to establish agricultural tenancy relations between landholders and tenants upon the principle of school justice; to afford adequate protection to the rights of both tenants and landholders; to insure an equitable division of the produce and income derived from the land; to provide tenant- farmers with incentives to greater and more efficient agricultural production; to bolster their economic position and to encourage their participation in the development of peaceful, vigorous and democratic rural communities.
+_Title._ \- This Act shall be known as the "**_Agricultural Tenancy Act of the Philippines_**."
 
-**Section 3._Agricultural Tenancy Defined._** \- Agricultural tenancy is the physical possession by a person of land devoted to agriculture belonging to, or legally possessed by, another for the purpose of production through the labor of the former and of the members of his immediate farm household, in consideration of which the former agrees to share the harvest with the latter, or to pay a price certain or ascertainable, either in produce or in money, or in both.
+#### Section 2
 
-**Section 4._Systems of Agricultural Tenancy; Their Definitions._** \- Agricultural tenancy is classified into leasehold tenancy and share tenancy.
+_Purposes._ \- It is the purpose of this Act to establish agricultural tenancy relations between landholders and tenants upon the principle of school justice; to afford adequate protection to the rights of both tenants and landholders; to insure an equitable division of the produce and income derived from the land; to provide tenant- farmers with incentives to greater and more efficient agricultural production; to bolster their economic position and to encourage their participation in the development of peaceful, vigorous and democratic rural communities.
+
+#### Section 3
+
+_Agricultural Tenancy Defined._ \- Agricultural tenancy is the physical possession by a person of land devoted to agriculture belonging to, or legally possessed by, another for the purpose of production through the labor of the former and of the members of his immediate farm household, in consideration of which the former agrees to share the harvest with the latter, or to pay a price certain or ascertainable, either in produce or in money, or in both.
+
+#### Section 4
+
+_Systems of Agricultural Tenancy; Their Definitions._ \- Agricultural tenancy is classified into leasehold tenancy and share tenancy.
 
 Share tenancy exists whenever two persons agree on a joint undertaking for agricultural production wherein one party furnishes the land and the other his labor, with either or both contributing any one or several of the items of production, the tenant cultivating the land personally with the aid of labor available from members of his immediate farm household, and the produce thereof to be divided between the landholder and the tenant in proportion to their respective contributions.
 
 Leasehold tenancy exists when a person who, either personally or with the aid of labor available from members of his immediate farm household, undertakes to cultivate a piece of agricultural land susceptible of cultivation by a single person together with members of his immediate farm household, belonging to or legally possessed by, another in consideration of a price certain or ascertainable to be paid by the person cultivating the land either in percentage of the production or in a fixed amount in money, or in both.
 
-**Section 5._Definitions of Terms._** \- As used in this Act:
+#### Section 5
+
+_Definitions of Terms._ \- As used in this Act:
 
 (a) A tenant shall mean a person who, himself and with the aid available from within his immediate farm household, cultivates the land belonging to, or possessed by, another, with the latter's consent for purposes of production, sharing the produce with the landholder under the share tenancy system, or paying to the landholder a price certain or ascertainable in produce or in money or both, under the leasehold tenancy system.
 
@@ -73,17 +83,29 @@ Leasehold tenancy exists when a person who, either personally or with the aid of
 
 (r) Auxiliary crop is any product raised other than the crop to which the cultivation of the land is principally devoted; and excluding the produce of the lot referred to in Section twenty-six.
 
-**Section 6._Tenancy Relationship; Its Definition._** \- Tenancy relationship is a juridical tie which arises between a landholder and a tenant once they agree, expressly or impliedly, to undertake jointly the cultivation of land belonging to the former, either under the share tenancy or leasehold tenancy system, as a result of which relationship the tenant acquires the right to continue working on and cultivating the land, until and unless he is dispossessed of his holdings for any of the just causes enumerated in Section fifty or the relationship is terminated in accordance with Section nine.
+#### Section 6
 
-**Section 7._Tenancy Relationship; How established; Security of Tenure._** \- Tenancy relationship may be established either verbally or in writing, expressly or impliedly. Once such relationship is established, the tenant shall be entitled to security of tenure as hereinafter provided.
+_Tenancy Relationship; Its Definition._ \- Tenancy relationship is a juridical tie which arises between a landholder and a tenant once they agree, expressly or impliedly, to undertake jointly the cultivation of land belonging to the former, either under the share tenancy or leasehold tenancy system, as a result of which relationship the tenant acquires the right to continue working on and cultivating the land, until and unless he is dispossessed of his holdings for any of the just causes enumerated in Section fifty or the relationship is terminated in accordance with Section nine.
 
-**Section 8._Limitations of Relation._** \- The relation of landholder and tenant shall be limited to the person who furnishes land, either as owner, lessee, usufructuary, or legal possessor, and to the person who actually works the land himself with the aid of labor available from within his immediate farm household.
+#### Section 7
 
-**Section 9._Severance of Relationship._** \- The tenancy relationship is extinguished by the voluntary surrender of the land by, or the death or incapacity of, the tenant, but his heirs or the members of his immediate farm household may continue to work the land until the close of the agricultural year. The expiration of the period of the contract as fixed by the parties, and the sale or alienation of the land do not of themselves extinguish the relationship. In the latter case, the purchaser or transferee shall assume the rights and obligations of the former landholder in relation to the tenant. In case of death of the landholder, his heir or heirs shall likewise assume his rights and obligations.
+_Tenancy Relationship; How established; Security of Tenure._ \- Tenancy relationship may be established either verbally or in writing, expressly or impliedly. Once such relationship is established, the tenant shall be entitled to security of tenure as hereinafter provided.
 
-**Section 10._Contracts; Nature and Continuity of Conditions._** \- The terms and conditions of tenancy contracts, as stipulated by the parties or as provided by law, shall be understood to continue until modified by the parties. Modifications of the terms and conditions of contracts shall not prejudice the right of the tenant to the security of his tenure on the land as determined in Section six, seven, and forty-nine.
+#### Section 8
 
-**Section 11._Freedom to Contract in General._** \- The landholder and the tenant shall be free to enter into any or all kinds of tenancy contract, as long as they are not contrary to law, morals or public policy. Except in case of fraud, error, force, intimidation or undue influence, when such contract is reduced to writing and registered as hereinafter provided, the latter shall be conclusive evidence of what has been agreed upon between the contracting parties, if not denounced or impugned within thirty days after its registration.
+_Limitations of Relation._ \- The relation of landholder and tenant shall be limited to the person who furnishes land, either as owner, lessee, usufructuary, or legal possessor, and to the person who actually works the land himself with the aid of labor available from within his immediate farm household.
+
+#### Section 9
+
+_Severance of Relationship._ \- The tenancy relationship is extinguished by the voluntary surrender of the land by, or the death or incapacity of, the tenant, but his heirs or the members of his immediate farm household may continue to work the land until the close of the agricultural year. The expiration of the period of the contract as fixed by the parties, and the sale or alienation of the land do not of themselves extinguish the relationship. In the latter case, the purchaser or transferee shall assume the rights and obligations of the former landholder in relation to the tenant. In case of death of the landholder, his heir or heirs shall likewise assume his rights and obligations.
+
+#### Section 10
+
+_Contracts; Nature and Continuity of Conditions._ \- The terms and conditions of tenancy contracts, as stipulated by the parties or as provided by law, shall be understood to continue until modified by the parties. Modifications of the terms and conditions of contracts shall not prejudice the right of the tenant to the security of his tenure on the land as determined in Section six, seven, and forty-nine.
+
+#### Section 11
+
+_Freedom to Contract in General._ \- The landholder and the tenant shall be free to enter into any or all kinds of tenancy contract, as long as they are not contrary to law, morals or public policy. Except in case of fraud, error, force, intimidation or undue influence, when such contract is reduced to writing and registered as hereinafter provided, the latter shall be conclusive evidence of what has been agreed upon between the contracting parties, if not denounced or impugned within thirty days after its registration.
 
 Said contract shall be contrary to law, morals and public policy;
 
@@ -101,33 +123,53 @@ B. In Leasehold Tenancy
 
 (c) If it is stipulated that, as a condition precedent to the commencement or continuance of the lease, the tenant-lessee shall rent work animals, services or farm implements, or shall make use of any store or services operated by the landholder-lessor or any other person, or that the landholder-lessor may impose fines, deductions and/or assessments, or that the tenant-lessee shall, without compensation, perform any work or render any service not connected with the tenant's duties and obligations provided under this Act.
 
-**Section 12._Form and Registration of Contract._** \- A contract of tenancy in writing, in order to be conclusive as evidence, shall be drawn in quadruplicate in the language or dialect known to all the parties thereto and signed or thumb-marked both by the landholder or his authorized representative, and the tenant himself, before two witnesses, one to be chosen by each party. If any of the parties does not know to read, one of the witnesses, to be chosen by him, shall read the contents of the document to him. Each of the contracting parties shall retain a copy of the contract and the third and fourth copies shall be delivered to the municipal treasurer of the municipality where the land which is the subject-matter of the contract is located, who shall file and register the third copy in his office and forward the fourth copy to the court: Provided, That in order that a tenancy contract may be registered, it shall be the duty of the municipal treasurer and tenant, respectively, and to place an annotation on each copy of the fact of registration in his office, stating the date, time and place of registration as well as the entry or registration number.
+#### Section 12
+
+_Form and Registration of Contract._ \- A contract of tenancy in writing, in order to be conclusive as evidence, shall be drawn in quadruplicate in the language or dialect known to all the parties thereto and signed or thumb-marked both by the landholder or his authorized representative, and the tenant himself, before two witnesses, one to be chosen by each party. If any of the parties does not know to read, one of the witnesses, to be chosen by him, shall read the contents of the document to him. Each of the contracting parties shall retain a copy of the contract and the third and fourth copies shall be delivered to the municipal treasurer of the municipality where the land which is the subject-matter of the contract is located, who shall file and register the third copy in his office and forward the fourth copy to the court: Provided, That in order that a tenancy contract may be registered, it shall be the duty of the municipal treasurer and tenant, respectively, and to place an annotation on each copy of the fact of registration in his office, stating the date, time and place of registration as well as the entry or registration number.
 
 The form of contract shall be uniform and shall be prepared and furnished by the court. The contracting parties shall acknowledge the execution of the contracting before the municipal treasurer or justice of the peace or the mayor of the municipality where the land is situated. No fees or stamps of any kind shall be paid or required.
 
 When one of the parties is unable to read, in case of doubt the burden of proof to show that he understood the terms of the contract shall rest upon the other party who is able to read.
 
-**Section 13._Registry of Tenancy Contracts._** \- For the purposes of this Act, the municipal treasurer of the municipality wherein the land which is the subject-matter of a tenancy contract is situated shall keep a record of all such contracts entered into within his jurisdiction, to be known as "Registry of Tenancy Contracts." He shall keep this registry together with a copy of each contract entered therein, and make annotations on said registry of all subsequent acts relative to each contract, such as its renewal, novation, cancellation, etc.: Provided, That the municipal treasurer shall not charge any fee for the registration of said contracts or of any subsequent acts relative thereto, none of which shall be subject to the documentary stamp tax.
+#### Section 13
 
-**Section 14._Change of System._** \- The tenant shall have the right to change the tenancy contract from one of share tenancy to the leasehold tenancy and vice versa and from one crop-sharing arrangement to another of the share tenancy. If the share tenancy contract is in writing and is duly registered, the right may be exercised at the expiration of the period of the contract. In the absence of any written contract, the right may be exercised at the end of the agricultural year. In both cases the changed to the leasehold system shall be effective one agricultural year after the tenant has served notice of his intention to change upon the landholder.
+_Registry of Tenancy Contracts._ \- For the purposes of this Act, the municipal treasurer of the municipality wherein the land which is the subject-matter of a tenancy contract is situated shall keep a record of all such contracts entered into within his jurisdiction, to be known as "Registry of Tenancy Contracts." He shall keep this registry together with a copy of each contract entered therein, and make annotations on said registry of all subsequent acts relative to each contract, such as its renewal, novation, cancellation, etc.: Provided, That the municipal treasurer shall not charge any fee for the registration of said contracts or of any subsequent acts relative thereto, none of which shall be subject to the documentary stamp tax.
 
-**Section 15._Interest on Loans or Advances._** \- On all loans or advances obtained by the tenant from the landholder in connection with the cultivation, planting, harvesting and other incidental expenses for the improvement of the crop planted, as well as loans or advances for the subsistence of the tenant and his family, the interest which may be stipulated shall not exceed eight per centum per calendar year: Provided, That on all loans or advances other than money, such as grain or other agricultural products, made computed on the basis of the current price of the produce at the time it was loaned. Violation of the provisions of this section shall be punished in accordance with the Usury Law.
+#### Section 14
 
-**Section 16._Memorandum of Loans or Advances._** \- Any obligation referring to any amount either in money or in kind, including the payment of interest, which the tenant may have received from time to time as loan or advance from the landholder, shall be void unless the same, or some note or memorandum thereof, be in writing in a language or dialect known to the party charged, and subscribed by said party, or by his authorized agent.
+_Change of System._ \- The tenant shall have the right to change the tenancy contract from one of share tenancy to the leasehold tenancy and vice versa and from one crop-sharing arrangement to another of the share tenancy. If the share tenancy contract is in writing and is duly registered, the right may be exercised at the expiration of the period of the contract. In the absence of any written contract, the right may be exercised at the end of the agricultural year. In both cases the changed to the leasehold system shall be effective one agricultural year after the tenant has served notice of his intention to change upon the landholder.
 
-**Section 17._Form of Final Accounting._** \- The final accounting between landholder and tenant at the end of each agricultural year shall be effected within ten days after the threshing in case of rice and within the same period of time after the harvest or gathering of the fruits in the case of crops. In case of crops which have to be said in processed form, the final accounting shall be within five days after the sale is consummated and the sales receipt shall be exhibited to the tenant.
+#### Section 15
+
+_Interest on Loans or Advances._ \- On all loans or advances obtained by the tenant from the landholder in connection with the cultivation, planting, harvesting and other incidental expenses for the improvement of the crop planted, as well as loans or advances for the subsistence of the tenant and his family, the interest which may be stipulated shall not exceed eight per centum per calendar year: Provided, That on all loans or advances other than money, such as grain or other agricultural products, made computed on the basis of the current price of the produce at the time it was loaned. Violation of the provisions of this section shall be punished in accordance with the Usury Law.
+
+#### Section 16
+
+_Memorandum of Loans or Advances._ \- Any obligation referring to any amount either in money or in kind, including the payment of interest, which the tenant may have received from time to time as loan or advance from the landholder, shall be void unless the same, or some note or memorandum thereof, be in writing in a language or dialect known to the party charged, and subscribed by said party, or by his authorized agent.
+
+#### Section 17
+
+_Form of Final Accounting._ \- The final accounting between landholder and tenant at the end of each agricultural year shall be effected within ten days after the threshing in case of rice and within the same period of time after the harvest or gathering of the fruits in the case of crops. In case of crops which have to be said in processed form, the final accounting shall be within five days after the sale is consummated and the sales receipt shall be exhibited to the tenant.
 
 The accounting shall be made to appear in a not or memorandum written in a language or dialect known to the tenant and signed by both parties in the presence of two witnesses who shall be selected by each party. Each of the contracting parties shall be furnished with a copy of said note or memorandum and such final accounting, once duly signed by both parties and two witnesses, shall be deemed conclusive evidence of its contents, except in case of fraud, error, force, intimidation or undue influence. When one of the parties is unable to read, the burden of proof, in case of doubt, to show that he understood the accounting, shall rest upon the other party who is able to read.
 
 In the absence of a written accounting in accordance with the preceding paragraph, the tenant may, within three years from the date of the threshing of the crop in question, petition the Court to compel the landholder to render an accounting of the same in accordance with this section.
 
-**Section 18._Settlement of Debts._** \- Once the accounting is made, any amount of money which the landholder may have advanced to the tenant for expenses of cultivation, harvesting or gathering of the crop or for his own private use, as well as any amount of grain or agricultural products advanced for his subsistence and that of his family, shall be paid by the tenant out of his share either in grain or in money, at the option of the latter; Provided, That such grain or agricultural products shall be appraised in money according to their current market value at the place where the land is located at the time of their delivery to the tenant: Provided, further, That in case his share is not sufficient, his outstanding debt shall be reduced to money and shall bear an interest of not more than ten per cent per annum: And provided, finally, That the remaining debts of the tenant once converted into money shall not again be converted into kind. Said outstanding debt money may, however, be paid in money or in agricultural products appraised at the local current market price at the time of payment.
+#### Section 18
 
-**Section 19._Exemption from Lien and/or Attachment._** \- Twenty-five per centum of the tenant's share of the produce of the land in share tenancy, or of the entire produce in leasehold tenancy, one work animal and one of each kind of farm implement belonging to the tenant, provided that the value of such work animal and implements do not exceed five hundred pesos, shall be exempt from lien and attachment.
+_Settlement of Debts._ \- Once the accounting is made, any amount of money which the landholder may have advanced to the tenant for expenses of cultivation, harvesting or gathering of the crop or for his own private use, as well as any amount of grain or agricultural products advanced for his subsistence and that of his family, shall be paid by the tenant out of his share either in grain or in money, at the option of the latter; Provided, That such grain or agricultural products shall be appraised in money according to their current market value at the place where the land is located at the time of their delivery to the tenant: Provided, further, That in case his share is not sufficient, his outstanding debt shall be reduced to money and shall bear an interest of not more than ten per cent per annum: And provided, finally, That the remaining debts of the tenant once converted into money shall not again be converted into kind. Said outstanding debt money may, however, be paid in money or in agricultural products appraised at the local current market price at the time of payment.
 
-**Section 20._Use of Official Weights and Measures._** \- In all transactions entered into between the landholder and the tenant concerning agricultural products the official weights and measures of the Government shall be used.
+#### Section 19
 
-**Section 21._Ejectment: Violation; Jurisdiction._** \- All cases involving the dispossession of a tenant by the landholder or by a third party and/or the settlement and disposition of disputes arising from the relationship of landholder and tenant, as well as the violation of any of the provisions of this Act, shall be under the original and exclusive jurisdiction of such court as may now or hereafter be authorized by law to take cognizance of tenancy relations and disputes
+_Exemption from Lien and/or Attachment._ \- Twenty-five per centum of the tenant's share of the produce of the land in share tenancy, or of the entire produce in leasehold tenancy, one work animal and one of each kind of farm implement belonging to the tenant, provided that the value of such work animal and implements do not exceed five hundred pesos, shall be exempt from lien and attachment.
+
+#### Section 20
+
+_Use of Official Weights and Measures._ \- In all transactions entered into between the landholder and the tenant concerning agricultural products the official weights and measures of the Government shall be used.
+
+#### Section 21
+
+_Ejectment: Violation; Jurisdiction._ \- All cases involving the dispossession of a tenant by the landholder or by a third party and/or the settlement and disposition of disputes arising from the relationship of landholder and tenant, as well as the violation of any of the provisions of this Act, shall be under the original and exclusive jurisdiction of such court as may now or hereafter be authorized by law to take cognizance of tenancy relations and disputes
 
 ## PART II — THE SHARE SYSTEM
 
@@ -147,7 +189,9 @@ If the tenant is dismissed without just cause and he is constrained to work else
 
 (4) The tenant shall have the right to be indemnified for his labor and expenses in the cultivation, planting, or harvesting and other incidental expenses for the improvement of the crop raised in case he is dispossessed of his holdings, whether such dismissal is for a just cause and not, provided the crop still exists at the time of the dispossession.
 
-**Section 23._Obligations for the tenant._** \- It shall be the obligation of the tenant:
+#### Section 23
+
+_Obligations for the tenant._ \- It shall be the obligation of the tenant:
 
 (1) To cultivate and take care of the farm, the growing crop and other improvements entrusted to him as a good father of a family, by doing all the work necessary in accordance with proven farming practices.
 
@@ -167,7 +211,9 @@ Any of the following shall be considered just and reasonable cause for the tenan
 
 (d) Commission of a crime by the landholder or his representative against the tenant or any member of his immediate farm household.
 
-**Section 24._Prohibitions to Tenant_ :** -
+#### Section 24
+
+_Prohibitions to Tenant_ : -
 
 (1) It shall be unlawful for the tenant, whenever the area of his holdings is five hectares or more, or is sufficient size to make him and the members of his immediate farm household fully occupied in its cultivation, to contract to work at the same time on two or more separate holdings belonging to different landholders under any system of tenancy, without the knowledge and consent of the land-holder with whom he first entered into tenancy relationship.
 
@@ -175,7 +221,9 @@ Any of the following shall be considered just and reasonable cause for the tenan
 
 (3) Subject to provisions of the next preceding paragraph, land entrusted for cultivation to a leasehold tenant shall not be sub-let nor shall the lease be assigned by the tenant to another person, except with the written consent of the lessor.
 
-**Section 25._Rights of the Landholder_ :** -
+#### Section 25
+
+_Rights of the Landholder_ : -
 
 (1) The landholder shall have the right to choose the kind of crop and the seeds with the tenant shall plant in his holdings: Provided, however, That if the tenant should subject, the court shall settle the conflict, according to the best interest of both parties.
 
@@ -185,13 +233,17 @@ Any of the following shall be considered just and reasonable cause for the tenan
 
 (4) In cases where the crop has to be sold in processed form before division and the tenant has no representative, the landholder, shall have the right to deal with millers or processors in representation of the tenant.
 
-**Section 26._Obligations of the Landholder_ :**
+#### Section 26
+
+_Obligations of the Landholder_ :
 
 (a) The landholder shall furnish the tenant an area of not less than one thousand square meters where the latter may construct his dwelling, raise vegetables, poultry, pigs, and other animals and engage in minor industries, the products of which shall accrue to the tenant exclusively.
 
 (b) The landholder shall keep the tenant in the peaceful possession and cultivation of his landholdings which are the subject matter of the contract.
 
-**Section 27._Prohibitions to the Landholder_ :**
+#### Section 27
+
+_Prohibitions to the Landholder_ :
 
 (1) The landholder shall not dispossess the tenant of his holdings except for any of the causes enumerated in Section fifty, and without the cause having been proved before, and the dispossession authorized by, the court; otherwise, he shall, aside from the penalty of fine and/or imprisonment provided for any violation of this Act, be liable to the tenant for damages to the extent of the landholder's right under Section twenty-two of this Act.
 
@@ -199,19 +251,27 @@ Any of the following shall be considered just and reasonable cause for the tenan
 
 (3) The landholder shall not require the tenant to bear, directly or indirectly, any part of the rent, "canon" or other consideration which he, the former, may be under obligation to pay to a third person for the use of the land.
 
-**Section 28._Expenses for Seeds; Fertilizer; Pest and Weed Control Expenses._**
+#### Section 28
+
+_Expenses for Seeds; Fertilizer; Pest and Weed Control Expenses._
 
 (1) The same amount of seeds or seedlings used in the production of any crop shall be deducted from the gross harvest and returned to the party who furnished the same.
 
 (2) The cost of fertilizer and expenses for pest and weed control as evidenced by sales invoices shall be paid out of the gross harvest and returned to the party who advanced the cost and expenses.
 
-**Section 29._Irrigation System._** \- The cost of the construction of an irrigation system, including the distributory canals, shall be borne exclusively by the landholder. The cost of maintenance and operation of the system shall, however, be borne by the landholder and the tenant in proportion to their respective shares in the harvest.
+#### Section 29
 
-**Section 30._Auxiliary Crop._** \- In case the land is planted to an auxiliary crop, the tenant shall receive eighty per centum and the landholder twenty per centum of the net produce, provided all expenses of production are borne by the tenant.
+_Irrigation System._ \- The cost of the construction of an irrigation system, including the distributory canals, shall be borne exclusively by the landholder. The cost of maintenance and operation of the system shall, however, be borne by the landholder and the tenant in proportion to their respective shares in the harvest.
+
+#### Section 30
+
+_Auxiliary Crop._ \- In case the land is planted to an auxiliary crop, the tenant shall receive eighty per centum and the landholder twenty per centum of the net produce, provided all expenses of production are borne by the tenant.
 
 Auxiliary crops shall, not, however, be construed to include the crops or products raised from the garden, poultry and other industries carried on the lot specifically provided for the tenant under Section 26(a) hereof.
 
-**Section 31._Cost of Fertilizer, etc.; when to be Advanced by the landholder._** \- Whenever the use of fertilizer or the application of insect, disease and rodent control measures is directed by the landholder, he shall advance their cost, which shall be deducted from the gross produce.
+#### Section 31
+
+_Cost of Fertilizer, etc.; when to be Advanced by the landholder._ \- Whenever the use of fertilizer or the application of insect, disease and rodent control measures is directed by the landholder, he shall advance their cost, which shall be deducted from the gross produce.
 
 ### CHAPTER II - Rice Share Tenancy
 
@@ -228,13 +288,21 @@ _Share Basis._ \- The parties shall, on ricelands which produces a normal averag
 | 5. | Final harrowing of the field immediately before transplanting | 5% |
 | 6. | Transplanting | 25% |
 
-**Section 33._Share basis on Second Class Land._** \- On ricelands, which produce a normal average of forty cavans or less per hectare for the three agricultural years next preceding the current harvest, the participation for the contribution of the land shall be twenty-five per centum and that of labor, thirty-five per centum.
+#### Section 33
 
-**Section 34._Reimbursement Not Allowed._** \- Contributions or shares in the contribution to the production of the crop in the form of cash, grain or services, once shouldered or rendered alone by one party may not be reimbursed by the other party after the phase or phases of work required in the joint undertaking shall have been completed.
+_Share basis on Second Class Land._ \- On ricelands, which produce a normal average of forty cavans or less per hectare for the three agricultural years next preceding the current harvest, the participation for the contribution of the land shall be twenty-five per centum and that of labor, thirty-five per centum.
 
-**Section 35._Sharing of Expenses._** \- In case the landholder and the tenant agree to share equally in the expenses of final harrowing of field and transplanting, the latter may engage the services of persons or helpers to perform these phases of farm work, provided the rates for each shall have been previously determined and agreed upon between the landholder and the tenant. In case of disagreement upon said rates, the party who undertakes to the corresponding share in the harvest, after deducting the expenses of reaping.
+#### Section 34
 
-**Section 36._Further Rights of the Tenant._** \- In addition to the provision of Section twenty-two, the tenant shall have the right to:
+_Reimbursement Not Allowed._ \- Contributions or shares in the contribution to the production of the crop in the form of cash, grain or services, once shouldered or rendered alone by one party may not be reimbursed by the other party after the phase or phases of work required in the joint undertaking shall have been completed.
+
+#### Section 35
+
+_Sharing of Expenses._ \- In case the landholder and the tenant agree to share equally in the expenses of final harrowing of field and transplanting, the latter may engage the services of persons or helpers to perform these phases of farm work, provided the rates for each shall have been previously determined and agreed upon between the landholder and the tenant. In case of disagreement upon said rates, the party who undertakes to the corresponding share in the harvest, after deducting the expenses of reaping.
+
+#### Section 36
+
+_Further Rights of the Tenant._ \- In addition to the provision of Section twenty-two, the tenant shall have the right to:
 
 1\. Determine when to scatter the seeds, to transplant the seedlings, and to reap the harvest, provided they shall be in accordance with proven farm practices and after due notice to the landholder.
 
@@ -244,7 +312,9 @@ _Share Basis._ \- The parties shall, on ricelands which produces a normal averag
 
 4\. Apply fertilizer of the kind or kinds shown by proven farm practices to be adapted to the requirements of the land, provided the landholder has not exercised his right under Section twenty-five to require the use of such fertilizer.
 
-**Section 37._Further Rights of the Landholder._** \- In addition to the provisions of Section twenty-five, the landholder, by himself or through his representative, may determined:
+#### Section 37
+
+_Further Rights of the Landholder._ \- In addition to the provisions of Section twenty-five, the landholder, by himself or through his representative, may determined:
 
 1\. The proper height of pilapils or dikes according to the local practices.
 
@@ -256,7 +326,9 @@ _Share Basis._ \- The parties shall, on ricelands which produces a normal averag
 
 Provided, however, That in case of disagreement by the tenant in any of the foregoing instances, the court shall determine whatever may be in the interest or both parties.
 
-**Section 38._Labor; What It Constitutes._** \- The tenant shall perform the following as the labor contributed by him under Section thirty-two;
+#### Section 38
+
+_Labor; What It Constitutes._ \- The tenant shall perform the following as the labor contributed by him under Section thirty-two;
 
 1\. The preparation of the seedbed which shall include plowing, harrowing, and watering of the seedbed, the scattering of the seeds, and the care of the seedlings.
 
@@ -278,9 +350,13 @@ Provided, however, That in case of disagreement by the tenant in any of the fore
 
 10\. Piling into a big stack preparatory to threshing.
 
-**Section 39._Prohibition on Pre-Threshing._** \- It shall be unlawful for either the tenant or the landholder, without mutual consent, to reap or thresh a portion of the crop at any time previous to the date set for its threshing. Any violation by either party shall be treated and penalized in accordance with this Act and/or under the general provisions of law applicable to the act committed.
+#### Section 39
 
-**Section 40._Place of Crop Division._** \- The division of the crop shall be made in the same place where the harvest has been threshed and each party shall transport his share to his warehouse or barn, unless the contrary is stipulated by the parties.
+_Prohibition on Pre-Threshing._ \- It shall be unlawful for either the tenant or the landholder, without mutual consent, to reap or thresh a portion of the crop at any time previous to the date set for its threshing. Any violation by either party shall be treated and penalized in accordance with this Act and/or under the general provisions of law applicable to the act committed.
+
+#### Section 40
+
+_Place of Crop Division._ \- The division of the crop shall be made in the same place where the harvest has been threshed and each party shall transport his share to his warehouse or barn, unless the contrary is stipulated by the parties.
 
 ### CHAPTER III - Share Tenancy on Crops other than Rice
 
@@ -294,15 +370,23 @@ _Basis of Shares in Crops other than Rice._ \- The landholder and the tenant on 
 
 _Landholder-Lessor and Tenant-Lessee, Defined._ Any person, natural or juridical, either as owner, lessee, usufructuary or legal possessor or agricultural land, who lets, leases or rents to another said property for purposes of agricultural production and for a price certain or ascertainable either in an amount of money or produce, shall be known as the landholder-lessor; and any person who, with the consent of the former, tills, cultivates or operates said land, susceptible of cultivation by one individual, personally or with the aid of labor available from among his own immediate farm household, is a tenant-lessee.
 
-**Section 43._Rights and Obligations of Tenant-Lessee._** \- With the creation of the tenancy relationship arising out of the contract between the landholder-lessor and tenant-lessee, the latter shall have the right to enter the premises of the land, and to the adequate and peaceful enjoyment thereof. He shall have the right to work the land according to his best judgment, provided this manner and method of cultivation and harvest are in accordance with proven farm practices. Upon termination of the relationship, he shall be entitled to one half of the value of the improvements made by him, provided they are reasonable and adequate to the purposes of the lease.
+#### Section 43
+
+_Rights and Obligations of Tenant-Lessee._ \- With the creation of the tenancy relationship arising out of the contract between the landholder-lessor and tenant-lessee, the latter shall have the right to enter the premises of the land, and to the adequate and peaceful enjoyment thereof. He shall have the right to work the land according to his best judgment, provided this manner and method of cultivation and harvest are in accordance with proven farm practices. Upon termination of the relationship, he shall be entitled to one half of the value of the improvements made by him, provided they are reasonable and adequate to the purposes of the lease.
 
 The tenant-lessee shall pay the consideration stipulated in the lease contract provided it shall not exceed the limit fixed in Section forty-six. In the absence of stipulation, the consideration shall be that established in said Section forty-six. He shall make proper use of the land and the improvements thereon and shall be under obligation to cultivate it as a good father of a family, by doing all the work considered reasonable and necessary in accordance with proven farm practices. He is likewise obliged to take reasonable care of the work animals and farm implements that may be delivered to him by the land-holder, in case it is agreed between the parties that the landholder-lessor shall furnish any or all of them.
 
-**Section 44._Rights of Landholder-lessor._** \- The landholder-lessor or his duly authorized representatives shall have the right to inspect the premises of the land which is the subject of the lease for the purpose of ascertaining the tenant's compliance with the provisions of the contract and of this Act, but in no case shall he exercise any coercion, intimidation or violence in word or deed.
+#### Section 44
 
-**Section 45._Manner of Rental Payment._** \- Payment of the consideration for the use of land may be made either in an amount certain or ascertainable in money or in produce, or both.
+_Rights of Landholder-lessor._ \- The landholder-lessor or his duly authorized representatives shall have the right to inspect the premises of the land which is the subject of the lease for the purpose of ascertaining the tenant's compliance with the provisions of the contract and of this Act, but in no case shall he exercise any coercion, intimidation or violence in word or deed.
 
-**Section 46._Consideration for the Use of Land._** -
+#### Section 45
+
+_Manner of Rental Payment._ \- Payment of the consideration for the use of land may be made either in an amount certain or ascertainable in money or in produce, or both.
+
+#### Section 46
+
+_Consideration for the Use of Land._ -
 
 (a) The consideration for the use of ricelands, shall not be more than thirty per centum of the gross produce for first class lands and not more than twenty-five per centum for second class lands. Classification of ricelands shall be determined by productivity: first class lands being those which yield more than forty cavanes per hectare and second class lands being those which yield forty cavanes or less, the same to be computed upon the normal average harvest of the three preceding years.
 
@@ -310,11 +394,15 @@ The tenant-lessee shall pay the consideration stipulated in the lease contract p
 
 (c) The consideration for the use of sugar lands, fishponds, saltbeds and of lands devoted to the raising of livestock shall be governed by stipulation between the parties.
 
-**Section 47._Rental of Work Animals, etc., and Applicability of Schedules._** \- Upon agreement of the parties, the tenant- lessee may make use of such work animals, farm implements or services belonging to the landholder-lessor as are available for hire, the consideration of which shall be based on their fair rental value.
+#### Section 47
+
+_Rental of Work Animals, etc., and Applicability of Schedules._ \- Upon agreement of the parties, the tenant- lessee may make use of such work animals, farm implements or services belonging to the landholder-lessor as are available for hire, the consideration of which shall be based on their fair rental value.
 
 The rates on the fair rental value for the use of work animals, farm implements and services, belonging to the landholder-lessor shall be those provided in Schedules "A", "B", and "C", which shall apply upon approval of this Act and shall remain in force, unless the Secretary of Agricultural and Natural Resources revises the same in accordance with Section fifty-two.
 
-**Section 48._Loans and Interests._** \- Loans, either in money or in kind, obtained by a tenant-lessee from the landholder lessor shall be payable at the time stipulated: Provided, however, That this shall not be construed as prejudicing the right of the borrower to repay his obligation before the date of maturity. The loan, unless it is otherwise stipulated, shall be payable in money at not more than eight per cent interest per annum, computed from the date of the indebtedness was contracted up to and including the date of payment. A note or memorandum to evidence such indebtedness shall be executed in accordance with the provisions of Section sixteen.
+#### Section 48
+
+_Loans and Interests._ \- Loans, either in money or in kind, obtained by a tenant-lessee from the landholder lessor shall be payable at the time stipulated: Provided, however, That this shall not be construed as prejudicing the right of the borrower to repay his obligation before the date of maturity. The loan, unless it is otherwise stipulated, shall be payable in money at not more than eight per cent interest per annum, computed from the date of the indebtedness was contracted up to and including the date of payment. A note or memorandum to evidence such indebtedness shall be executed in accordance with the provisions of Section sixteen.
 
 ## PART IV — SECURITY OF TENURE
 
@@ -322,7 +410,9 @@ The rates on the fair rental value for the use of work animals, farm implements 
 
 _Ejectment of Tenant._ \- Notwithstanding any agreement or provision of law as to the period, in all cases where land devoted to any agricultural purpose is held under any system of tenancy, the tenant shall not be dispossessed of his holdings except for any of the causes hereinafter enumerated and only after the same has been proved before, and the dispossession is authorized by, the court.
 
-**Section 50._Causes for the Dispossession of a Tenant._** \- Any of the following shall be a sufficient cause for the dispossession of a tenant from his holdings:
+#### Section 50
+
+_Causes for the Dispossession of a Tenant._ \- Any of the following shall be a sufficient cause for the dispossession of a tenant from his holdings:
 
 (a) The bona fide intention of the landholder to cultivate the land himself personally or through the employment of farm machinery and implements: Provided, however, That should the landholder not cultivate the land himself or should fail to employ mechanical farm implements for a period of one year after the dispossession of the tenant, it shall be presumed that he acted in bad faith and the land and damages for any loss incurred by him because of said dispossession: Provided, further, That the land-holder shall, at least one year but not more than two years prior to the date of his petition to dispossess the tenant under this subsection, file notice with the court and shall inform the tenant in wiring in a language or dialect known to the latter of his intention to cultivate the land himself, either personally or through the employment of mechanical implements, together with a certification of the Secretary of Agriculture and Natural Resources that the land is suited for mechanization: Provided, further, That the dispossessed tenant and the members of his immediate household shall be preferred in the employment of necessary laborers under the new set-up.
 
@@ -338,7 +428,9 @@ _Ejectment of Tenant._ \- Notwithstanding any agreement or provision of law as t
 
 (g) Conviction by a competent court of a tenant or any member of his immediate family or farm household of a crime against the landholder or a member of his immediate family.
 
-**Section 51._Burden of Proof._** \- The burden of proof to show the existence of a lawful cause for the ejectment of a tenant shall rest upon the landholder.
+#### Section 51
+
+_Burden of Proof._ \- The burden of proof to show the existence of a lawful cause for the ejectment of a tenant shall rest upon the landholder.
 
 ## PART V — SPECIAL PROVISIONS
 
@@ -356,21 +448,37 @@ _Duties of the Secretary of Agriculture and Natural Resources._ \- It shall be t
 
 5\. Submit an annual report to the President containing an analysis showing the progress made toward attaining the objectives enumerated in Section two of this Act and recommendations concerning methods of improving the implementation and general effectiveness of this Act. Copies of this report shall be provided to members of the Congress.
 
-**Section 53._Duties of Secretary of Justice._** \- The Secretary of Justice, through the Executive Judge of the Court, shall be responsible for formulating a national enforcement program, among other things, through the assignment of judges and personnel, which will insure the full enforcement of the provisions of this Act.
+#### Section 53
 
-**Section 54._Representation by Counsel._** \- In all cases wherein a tenant cannot afford to the represented by counsel, it shall be the duty of the Public Defender of the Department of Labor to represent him, upon proper notification by the party concerned, or the court of competent jurisdiction shall assign or appoint counsel de oficio for the indigent tenant.
+_Duties of Secretary of Justice._ \- The Secretary of Justice, through the Executive Judge of the Court, shall be responsible for formulating a national enforcement program, among other things, through the assignment of judges and personnel, which will insure the full enforcement of the provisions of this Act.
 
-**Section 55._Applicability of General Laws._** \- The provisions of existing laws which are not inconsistent herewith shall apply to the contracts governed by this Act as well as to acts or omissions by either party against each other during, and in connection with, their relationship.
+#### Section 54
 
-**Section 56._Doubts to Be Solved in Favor of the Tenant._** \- In the interpretation and enforcement of this Act and other laws as well as of the stipulations between the landholder and the tenant, the courts and administrative officials shall solve all grave doubts in favor of the tenant.
+_Representation by Counsel._ \- In all cases wherein a tenant cannot afford to the represented by counsel, it shall be the duty of the Public Defender of the Department of Labor to represent him, upon proper notification by the party concerned, or the court of competent jurisdiction shall assign or appoint counsel de oficio for the indigent tenant.
 
-**Section 57._Penal Provision._** \- Violation of any of the provisions of this Act shall be punished with a fine not exceeding two thousand pesos or imprisonment not exceeding one year, or both in the discretion of the Court.
+#### Section 55
 
-**Section 58._Separability of Provisions._** \- If for any reason, any section or provision of this Act shall be questioned in any court, and shall be held to be unconstitutional or invalid, no other section or provision of this Act shall be effected thereby.
+_Applicability of General Laws._ \- The provisions of existing laws which are not inconsistent herewith shall apply to the contracts governed by this Act as well as to acts or omissions by either party against each other during, and in connection with, their relationship.
 
-**Section 59._Repealing Provisions._** \- Public Act Numbered Four thousand fifty-four, as amended by Republic Act Numbered Thirty-four, Commonwealth Act Numbered Fifty-three, Commonwealth Act Numbered Four hundred sixty-one as amended by Republic Act Numbered Forty- four, and all laws, rules and regulations inconsistent herewith are hereby repealed.
+#### Section 56
 
-**Section 60._Effective Date._** \- This Act shall take effect upon its approval.
+_Doubts to Be Solved in Favor of the Tenant._ \- In the interpretation and enforcement of this Act and other laws as well as of the stipulations between the landholder and the tenant, the courts and administrative officials shall solve all grave doubts in favor of the tenant.
+
+#### Section 57
+
+_Penal Provision._ \- Violation of any of the provisions of this Act shall be punished with a fine not exceeding two thousand pesos or imprisonment not exceeding one year, or both in the discretion of the Court.
+
+#### Section 58
+
+_Separability of Provisions._ \- If for any reason, any section or provision of this Act shall be questioned in any court, and shall be held to be unconstitutional or invalid, no other section or provision of this Act shall be effected thereby.
+
+#### Section 59
+
+_Repealing Provisions._ \- Public Act Numbered Four thousand fifty-four, as amended by Republic Act Numbered Thirty-four, Commonwealth Act Numbered Fifty-three, Commonwealth Act Numbered Four hundred sixty-one as amended by Republic Act Numbered Forty- four, and all laws, rules and regulations inconsistent herewith are hereby repealed.
+
+#### Section 60
+
+_Effective Date._ \- This Act shall take effect upon its approval.
 
 Approved: August 30, 1954
 

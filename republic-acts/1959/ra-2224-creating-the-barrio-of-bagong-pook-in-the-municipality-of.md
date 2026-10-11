@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Pulo in the barrio of Tugtog, Municipality of San Jose Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Bagong Pook.1aшphi1
+The sitio of Pulo in the barrio of Tugtog, Municipality of San Jose Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Bagong Pook.
 
 ## Section 2
 

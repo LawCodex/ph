@@ -34,7 +34,7 @@ March 9 of every year is hereby declared a special working holiday and no class 
 
 ## Section 2
 
-For work performed on a special working holiday, an employee to his/her regular wage.ℒαwρhi৷
+For work performed on a special working holiday, an employee to his/her regular wage.
 
 ## Section 3
 

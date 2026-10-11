@@ -260,7 +260,7 @@ The following operational requirements for a university, as established by the C
 
 (f) Outreach activities that allow the students, faculty, and research staff to apply the new knowledge they generate to address specific social development problems broadly defined.
 
-The institution shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements of the CHED.1âwphi1
+The institution shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements of the CHED.
 
 ## Section 25
 

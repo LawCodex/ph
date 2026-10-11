@@ -33,7 +33,7 @@ The Secretary of Education is hereby empowered to reorganize said school accordi
 
 ## Section 3
 
-The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-three.1âшphi1 Thereafter, the necessary sum may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.1âшphi1
+The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-three. Thereafter, the necessary sum may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
 
 ## Section 4
 

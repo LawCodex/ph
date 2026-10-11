@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Sibulan National High School in the Municipality of Polillo, Province of Quezon, is hereby changed to Polillo National High School.1aшphi1
+The name of the Sibulan National High School in the Municipality of Polillo, Province of Quezon, is hereby changed to Polillo National High School.
 
 ## Section 2
 

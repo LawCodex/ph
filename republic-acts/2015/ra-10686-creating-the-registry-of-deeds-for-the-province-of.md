@@ -33,7 +33,7 @@ The Registry of Deeds shall be appointed by the President taking into considerat
 
 The Register of Deeds shall be assisted by a staff complement, in accordance with existing laws, to be appoihnted by the Secretary of Justice upon the recommendation of the Administrator of Land Registration Authority (LRA).
 
-The Registry of Deeds nis authorized to collect feeds and charges for seervices rendered in connection with the preformance of its duties. In case the amounts collected during its first three (3) years of operation shall meet the annual average revenue standards set by Section 7 of Presidential Decree No. 1529, otherwise known as "The Property Registration Decree", a Deputy Register of Deeds and, in the appropriate case, a Second Deputy Register of Deeds and, in the appropriate case, a Second Deputy Register of Deeds, shall be appointed by the Secretary of Justice upon the recommendation of the Administrator of LRA.1aшphi1
+The Registry of Deeds nis authorized to collect feeds and charges for seervices rendered in connection with the preformance of its duties. In case the amounts collected during its first three (3) years of operation shall meet the annual average revenue standards set by Section 7 of Presidential Decree No. 1529, otherwise known as "The Property Registration Decree", a Deputy Register of Deeds and, in the appropriate case, a Second Deputy Register of Deeds and, in the appropriate case, a Second Deputy Register of Deeds, shall be appointed by the Secretary of Justice upon the recommendation of the Administrator of LRA.
 
 ## Section 3
 
@@ -45,7 +45,7 @@ The Secretary of Justice shall formulate the rules and regulations necessary for
 
 ## Section 5
 
-The amount necessary to implement the provisions of this Act shall be included in the budget of the LRA in the annual General Appropriations Act.1aшphi1
+The amount necessary to implement the provisions of this Act shall be included in the budget of the LRA in the annual General Appropriations Act.
 
 ## Section 6
 

@@ -34,7 +34,7 @@ June 23 of every year is hereby declared as a special working holiday and no cla
 
 ## SECTION 2
 
-For work performed on a special working holiday, an employee is entitled to his/her regular wage.1âwphi1
+For work performed on a special working holiday, an employee is entitled to his/her regular wage.
 
 ## SECTION 3
 

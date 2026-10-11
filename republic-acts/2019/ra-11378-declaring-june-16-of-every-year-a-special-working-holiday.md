@@ -34,7 +34,7 @@ June 16 of every year is hereby declared a special working holiday in the City o
 
 ## Section 2
 
-On June 16 of every year, the City of Baybay, Province of Leyte, shall engage in festivities and conduct ceremonies and programs in cognizance of its history and culture, to be led by its officials and employees in coordination with civic, sports, religious and nongovernmental organizations and private businesses.1âшphi1
+On June 16 of every year, the City of Baybay, Province of Leyte, shall engage in festivities and conduct ceremonies and programs in cognizance of its history and culture, to be led by its officials and employees in coordination with civic, sports, religious and nongovernmental organizations and private businesses.
 
 ## Section 3
 

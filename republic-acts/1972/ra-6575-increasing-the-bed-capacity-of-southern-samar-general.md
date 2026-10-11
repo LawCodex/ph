@@ -28,7 +28,7 @@ The bed capacity of Southern Samar General Hospital in the Municipality of Guiua
 
 ## Section 2
 
-In addition to its existing appropriation, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos for the operation and maintenance of the aforesaid hospital for the fiscal year nineteen hundred seventy-one including the cost of the construction of additional building therefor. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+In addition to its existing appropriation, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos for the operation and maintenance of the aforesaid hospital for the fiscal year nineteen hundred seventy-one including the cost of the construction of additional building therefor. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

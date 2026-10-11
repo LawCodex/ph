@@ -52,7 +52,7 @@ The grantee shall be liable to pay the same taxes, unless exempted therefrom, on
 
 ## Section 8
 
-Acceptance of this franchise shall be given in writing by the grantee within six months after the approval of this Act. When so accepted, the grantee shall be empowered to exercise the privileges granted thereby.1avvphi1
+Acceptance of this franchise shall be given in writing by the grantee within six months after the approval of this Act. When so accepted, the grantee shall be empowered to exercise the privileges granted thereby.
 
 ## Section 9
 
@@ -76,7 +76,7 @@ Wherever in this Act the term "grantee" is used, it shall be held and understood
 
 ## Section 14
 
-This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean an exclusive grant of the privileges herein provided for.
 
 ## Section 15
 

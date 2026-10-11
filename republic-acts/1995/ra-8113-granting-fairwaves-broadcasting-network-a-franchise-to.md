@@ -68,11 +68,11 @@ _Warranty in Favor of National and Local Governments._ \- The grantee shall hold
 
 ## Section 11
 
-_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor shall the controlling interest of the grantee be transferred to any such private person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned, shall be subject to all the same conditions, terms, restrictions and limitations of this Act.1aшphi1
+_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor shall the controlling interest of the grantee be transferred to any such private person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned, shall be subject to all the same conditions, terms, restrictions and limitations of this Act.
 
 ## Section 12
 
-_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which Congress may hereafter enact.1aшphi1
+_General Broadcast Policy Law._ \- The grantee shall comply with a general broadcast policy law which Congress may hereafter enact.
 
 ## Section 13
 

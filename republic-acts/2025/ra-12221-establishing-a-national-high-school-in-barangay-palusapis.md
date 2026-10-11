@@ -29,7 +29,7 @@ There is hereby established, under the supervision of the Department of Educatio
 
 ## Section 2
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Inday Melencio National High School, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Inday Melencio National High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

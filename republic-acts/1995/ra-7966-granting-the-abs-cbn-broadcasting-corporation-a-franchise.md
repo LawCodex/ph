@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, the ABS-CBN Broadcasting Corporation, hereunder referred to as the grantee, its successors or assigns, is hereby granted a franchise to construct, operate and maintain, for commercial purposes and in the public interest, television and radio broadcasting stations in and throughout the Philippines, through microwave, satellite or whatever means including the use of any new technologies in television and radio systems, with the corresponding technological auxiliaries or facilities, special broadcast and other broadcast distribution services and relay stations.1aшphi1
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, the ABS-CBN Broadcasting Corporation, hereunder referred to as the grantee, its successors or assigns, is hereby granted a franchise to construct, operate and maintain, for commercial purposes and in the public interest, television and radio broadcasting stations in and throughout the Philippines, through microwave, satellite or whatever means including the use of any new technologies in television and radio systems, with the corresponding technological auxiliaries or facilities, special broadcast and other broadcast distribution services and relay stations.
 
 ## Section 2
 

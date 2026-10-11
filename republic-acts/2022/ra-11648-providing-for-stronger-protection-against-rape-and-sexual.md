@@ -41,7 +41,7 @@ Article 266-A (1)(d) of Act No. 3815, otherwise known as "The Revised Penal Code
 
 d) When the offended party is under sixteen (16) years of age or is demented, even though none of the circumstances mentioned above be present: _Provided,_ That there shall be no criminal liability on the part of a person having carnal knowledge of another person under sixteen (16) years of age when the age difference between the parties is not more than three (3) years, and the sexual act in question is proven to be consensual, non-abusive, and non-exploitative: _Provided, further,_ That if the victim is under thirteen (13) years of age, this exception shall not apply.
 
-"As used in this Act, non-abusive shall mean the absence of undue influence, intimidation, fraudulent machinations, coercion, threat, physical, sexual, psychological, or mental injury or maltreatment, either with intention or through neglect, during the conduct of sexual activities with the child victim.ℒαwρhi৷ On the other hand, non-exploitative shall mean there is no actual or attempted act or acts of unfairly taking advantage of the child's position of vulnerability, differential power, or trust during the conduct of sexual activities."
+"As used in this Act, non-abusive shall mean the absence of undue influence, intimidation, fraudulent machinations, coercion, threat, physical, sexual, psychological, or mental injury or maltreatment, either with intention or through neglect, during the conduct of sexual activities with the child victim. On the other hand, non-exploitative shall mean there is no actual or attempted act or acts of unfairly taking advantage of the child's position of vulnerability, differential power, or trust during the conduct of sexual activities."
 
 ## Section 2
 

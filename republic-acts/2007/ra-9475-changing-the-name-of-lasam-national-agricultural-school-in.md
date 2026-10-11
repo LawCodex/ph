@@ -28,11 +28,17 @@ AN ACT CHANGING THE NAME OF LASAM NATIONAL AGRICULTURAL SCHOOL IN THE MUNICIPALI
 
 _Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled_ :
 
-**SECTION 1._Renaming of School._** \- The name of Lasam National Agricultural School in the Municipality of Lasam, Province of Cagayan is hereby changed to Lasam Institute of Technology.
+## SECTION 1
 
-**SEC. 2._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Renaming of School._ \- The name of Lasam National Agricultural School in the Municipality of Lasam, Province of Cagayan is hereby changed to Lasam Institute of Technology.
 
-**SEC. 3._Effectivity._** \- This Act shall take effect upon, its approval and after its publication in at least two newspapers of general circulation.
+## SEC. 2
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 3
+
+_Effectivity._ \- This Act shall take effect upon, its approval and after its publication in at least two newspapers of general circulation.
 
 Approved,
 

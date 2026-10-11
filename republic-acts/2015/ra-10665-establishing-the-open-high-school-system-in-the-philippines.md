@@ -110,7 +110,7 @@ The DepED shall prioritize qualified locally-hired teachers who have been perfor
 
 _Training of Teaching Staff. –_ The DepED shall be responsible for the training of the Open High School Teachers, Teacher Advisers, and Community Advisers. Training shall be done in coordination with the LGUs and the nongovernment organizations concerned.
 
-Nonteaching stakeholders such as parents and LGU personnel, among others, who are needed to provide support to the OHSS, shall likewise be included in the training program.1âwphi1
+Nonteaching stakeholders such as parents and LGU personnel, among others, who are needed to provide support to the OHSS, shall likewise be included in the training program.
 
 ## Section 11
 

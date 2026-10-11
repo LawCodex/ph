@@ -54,6 +54,6 @@ The title of the same Act is hereby amended to read as follows:
 
 ## Section 6
 
-This Act shall take effect as of June first, nineteen hundred sixty.1avvphi1
+This Act shall take effect as of June first, nineteen hundred sixty.
 
 Approved: June 17, 1961.

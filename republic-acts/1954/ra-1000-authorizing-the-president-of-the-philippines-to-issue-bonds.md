@@ -50,7 +50,7 @@ The Secretary of Finance, or the Central Bank of the Philippines acting as his a
 
 ## Section 5
 
-A committee composed of three Senators and three Representatives to be appointed by the Presiding Officers of each House, respectively, is hereby constituted to look into the projects that may be included or added to the approved list of promulgated and programmed projects to be financed by the bond issues contemplated by this Act.1âшphi1 The said committee is authorized to function during the recess of the Congress and shall submit its report of findings and recommendations to the Congress.
+A committee composed of three Senators and three Representatives to be appointed by the Presiding Officers of each House, respectively, is hereby constituted to look into the projects that may be included or added to the approved list of promulgated and programmed projects to be financed by the bond issues contemplated by this Act. The said committee is authorized to function during the recess of the Congress and shall submit its report of findings and recommendations to the Congress.
 
 ## Section 6
 

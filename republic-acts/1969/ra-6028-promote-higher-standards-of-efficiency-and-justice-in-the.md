@@ -180,7 +180,7 @@ This Act shall not abrogate, abridge, or infringe, or authorize the abrogation, 
 
 ## Section 27
 
-A letter to the Counselor from a person held in custody by an agency shall be forwarded immediately, unopened, to the Counselor.1a⍵⍴h!1
+A letter to the Counselor from a person held in custody by an agency shall be forwarded immediately, unopened, to the Counselor.
 
 ## Section 28
 

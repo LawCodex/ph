@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-November 23 of every year is hereby declared a special nonworking holiday in the Province of Benguet to be known as "Benguet Day" in commemoration of its foundation day.ℒαwρhi৷
+November 23 of every year is hereby declared a special nonworking holiday in the Province of Benguet to be known as "Benguet Day" in commemoration of its foundation day.
 
 ## Section 2
 

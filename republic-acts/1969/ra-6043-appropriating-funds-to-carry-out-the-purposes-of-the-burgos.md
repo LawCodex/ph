@@ -38,6 +38,6 @@ The Commission shall render an annual report of its activities and accomplishmen
 
 ## Section 4
 
-This Act shall take effect upon its approval1a⍵⍴h!1.
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

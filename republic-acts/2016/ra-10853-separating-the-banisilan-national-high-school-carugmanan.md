@@ -38,7 +38,7 @@ All personnel, assets, liabilities and records of the Banisilan National High Sc
 
 ## SECTION 3
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the Carugmanan National High School, the initial funding of which shall be charged against the current year’s appropriation of the Banisilan National High School – Carugmanan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the Carugmanan National High School, the initial funding of which shall be charged against the current year’s appropriation of the Banisilan National High School – Carugmanan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## SECTION 4
 

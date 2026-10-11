@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Cantagda in the barrio of Danao, Municipality of Cajidiocan, Province of Romblon, is separated from said barrio and converted into a distinct and independent barrio of said municipality, to be known as the barrio of Cantagda.1avvphi1
+The sitio of Cantagda in the barrio of Danao, Municipality of Cajidiocan, Province of Romblon, is separated from said barrio and converted into a distinct and independent barrio of said municipality, to be known as the barrio of Cantagda.
 
 ## Section 2
 

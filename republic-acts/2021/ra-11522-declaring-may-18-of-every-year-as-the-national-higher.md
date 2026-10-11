@@ -37,7 +37,7 @@ To ensure a meaningful observance of this special working day as herein declared
 
 _Lead Agency._ \- The CHED shall be the lead agency in charge of the preparation and implementation of its annual program of activities and advocacy program for the observance of the "National Higher Education Day".
 
-All higher education institutions shall also provide full support and assistance to the preparation of the annual program of activities and events to be conducted by CHED in observance of the event pursuant to this Act.ℒαwρhi৷
+All higher education institutions shall also provide full support and assistance to the preparation of the annual program of activities and events to be conducted by CHED in observance of the event pursuant to this Act.
 
 ## Section 3
 

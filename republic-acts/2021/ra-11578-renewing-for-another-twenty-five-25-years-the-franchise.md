@@ -67,7 +67,7 @@ The grantee shall guarantee that news and events are reported accurately and tru
 
 The grantee shall likewise ensure that the rate for election advertisement is reasonable and equitable to allow all candidates, particularly those seeking national elective positions, equal opportunity to present programs of the government to the electorate, subject to the implementing guidelines, rules and regulations issued by the Commission on Elections.
 
-Willful failure to comply with the self-regulation by and undertaking of the grantee as provided for in this Section shall constitute a valid cause for the cancellation of this franchise.ℒαwρhi৷
+Willful failure to comply with the self-regulation by and undertaking of the grantee as provided for in this Section shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 8
 
@@ -81,7 +81,7 @@ The employment opportunities or jobs created shall be reflected in the General I
 
 ## Section 10
 
-_Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ – The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation, or other commercial or legal entity, nor merge with any other corporation or entity, nor the controlling interest of the grantee be transferred, simultaneously or contemporaneously, to any person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines. Congress shall be informed of any sale, lease, transfer, grant or usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of the said transaction.ℒαwρhi৷ Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
+_Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ – The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation, or other commercial or legal entity, nor merge with any other corporation or entity, nor the controlling interest of the grantee be transferred, simultaneously or contemporaneously, to any person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines. Congress shall be informed of any sale, lease, transfer, grant or usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of the said transaction. Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
 
 ## Section 11
 

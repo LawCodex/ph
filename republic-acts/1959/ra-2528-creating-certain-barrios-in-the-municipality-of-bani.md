@@ -30,7 +30,7 @@ The following barrios in the Municipality of Bani, Province of Pangasinan, are c
 
 2\. Barrio of Loac comprising the sitios of Loac, Tagumbao, Apora, Pataga, Apalang, Lambes, Tambac Island and Gayaman; and
 
-3\. Barrio of Ranao comprising the sitios of Ranao, Bacari, Sinaburan, Sapa-Ongot, Caradikid, Malimpec, Puro-Olay, Puit-dalen, Lomboy-Bugtong, Pinariric and Sungay.1âшphi1
+3\. Barrio of Ranao comprising the sitios of Ranao, Bacari, Sinaburan, Sapa-Ongot, Caradikid, Malimpec, Puro-Olay, Puit-dalen, Lomboy-Bugtong, Pinariric and Sungay.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ The barrios of Lemery, Tabunan, Tuburan, Nagsulang, Daga, Tuguis, Singcua, Agpip
 
 ## Section 2
 
-The new municipality shall be organized on January one, nineteen hundred and forty-eight.1aшphi1 The elective officials of said municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and qualified.
+The new municipality shall be organized on January one, nineteen hundred and forty-eight. The elective officials of said municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and qualified.
 
 ## Section 3
 

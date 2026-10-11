@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Barangay Guba, Cebu City, to be known as the Southern Island Extension Hospital II.1âшphi1
+There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Barangay Guba, Cebu City, to be known as the Southern Island Extension Hospital II.
 
 ## Section 2
 

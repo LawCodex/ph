@@ -38,7 +38,7 @@ The existing hospital facilities and professional health care services of the Dr
 
 ## Section 3
 
-If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.1âwphi1
+If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
 
 ## Section 4
 

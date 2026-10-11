@@ -200,7 +200,7 @@ The CHED shall issue the necessary guidelines for the implementation of this sec
 
 _Benchmarks for Ensuring Quality of TNHE._ — In reviewing the performance of TNHEIs, the CHED, or other duly recognized local or international audit and accreditation bodies, may ascribe the respective weights to the following performance indicators:
 
-(a) Curriculum innovation, which pertains to the manner and degree to which the curricula are relevant and adaptable to current and global developments, trends, and values.1âшphi1 Curriculum innovation includes the assessment of the conformity of certificates, diplomas and degrees granted by the TNHEIs with internationally accredited programs of reputable international accreditation bodies;
+(a) Curriculum innovation, which pertains to the manner and degree to which the curricula are relevant and adaptable to current and global developments, trends, and values. Curriculum innovation includes the assessment of the conformity of certificates, diplomas and degrees granted by the TNHEIs with internationally accredited programs of reputable international accreditation bodies;
 
 (b) Student diversity, which includes the promotion of a respectful classroom climate under egalitarian norms and principles; encouraging plurality and the contribution of diverse perspectives brought about by differences in race, gender, religion, and culture; use and monitoring of both spoken and written languages in ways that consider implicit assumptions, exclusions, overgeneralizations, stereotypes, and social discrimination;
 
@@ -266,7 +266,7 @@ All grants, bequest, endowments, donations and contributions made to the TNHEI t
 
 Further, in accordance with Section 28, Article VI of the Constitution, all lands, buildings, and improvements, actually, directly, and exclusively used by a TNHEI for educational purposes shall be exempt from taxation.
 
-All nonstock, nonprofit TNHEIs shall also be entitled to all tax incentives granted to such entities in accordance with the provisions of the NIRC of 1997, as amended.1âшphi1
+All nonstock, nonprofit TNHEIs shall also be entitled to all tax incentives granted to such entities in accordance with the provisions of the NIRC of 1997, as amended.
 
 ## Section 17
 

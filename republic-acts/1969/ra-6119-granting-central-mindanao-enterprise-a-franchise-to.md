@@ -60,6 +60,6 @@ In the event of any competing individual, association of persons, or corporation
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

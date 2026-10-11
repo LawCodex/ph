@@ -98,7 +98,7 @@ _Disqualifications for Release on Recognizance._ – Any of the following circum
 
 (f) There is a great risk that the accused may commit another crime during the pendency of the case; and
 
-(g) The accused has a pending criminal case which has the same or higher penalty to the new crime he/she is being accused of.1âwphi1
+(g) The accused has a pending criminal case which has the same or higher penalty to the new crime he/she is being accused of.
 
 ## Section 8
 

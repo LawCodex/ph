@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Creation of Barangay Ladol._ – The sitio of Ladol is hereby separated from Barangay Poblacion in the Municipality of Alabel, Province of Sarangani to constitute into a distinct and independent barangay to be known as Barangay Ladol.ℒαwρhi৷
+_Creation of Barangay Ladol._ – The sitio of Ladol is hereby separated from Barangay Poblacion in the Municipality of Alabel, Province of Sarangani to constitute into a distinct and independent barangay to be known as Barangay Ladol.
 
 ## Section 2
 

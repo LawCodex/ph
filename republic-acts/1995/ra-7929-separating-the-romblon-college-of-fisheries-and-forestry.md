@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Romblon College of Fisheries and Forestry - San Agustin Annex in the Municipality of San Agustin, Province of Romblon, is hereby separated from the Romblon College of Fisheries and Forestry in the Municipality of San Andres, Romblon, and converted to an independent college of science and fisheries technology, to be known as the Romblon College of Science and Fisheries Technology, hereinafter referred to as the College.1aшphi1
+The Romblon College of Fisheries and Forestry - San Agustin Annex in the Municipality of San Agustin, Province of Romblon, is hereby separated from the Romblon College of Fisheries and Forestry in the Municipality of San Andres, Romblon, and converted to an independent college of science and fisheries technology, to be known as the Romblon College of Science and Fisheries Technology, hereinafter referred to as the College.
 
 ## Section 2
 

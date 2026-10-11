@@ -28,7 +28,7 @@ Sections one and two of Republic Act Numbered Nineteen hundred sixty-five are he
 
 ## Sec. 1
 
-. There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in any municipality in the Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.1âшphi1
+. There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in any municipality in the Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.
 
 ## Sec. 2
 

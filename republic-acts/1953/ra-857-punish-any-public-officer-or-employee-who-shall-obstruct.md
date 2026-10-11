@@ -33,4 +33,4 @@ All acts or parts of acts inconsistent with the provisions of this Act are hereb
 
 This Act shall take effect upon its approval.
 
-Approved: **June 16, 1953** 1awphil@alf
+Approved: **June 16, 1953**

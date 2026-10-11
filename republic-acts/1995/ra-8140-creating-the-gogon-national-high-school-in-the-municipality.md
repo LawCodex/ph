@@ -32,7 +32,7 @@ There shall be established a national high school in Barangay Gogon, Municipalit
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

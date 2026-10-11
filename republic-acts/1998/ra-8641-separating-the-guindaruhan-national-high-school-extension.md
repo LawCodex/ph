@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Guindaruhan National High School Extension in Barangay Tungkop, Municipality of Minglanilla, Province of Cebu, is hereby separated from the Guindaruhan National High School in the Municipality of Minglanilla and converted into an independent national high school, to be known as the Tungkop National High School.Ꮮαwρhi৷
+The Guindaruhan National High School Extension in Barangay Tungkop, Municipality of Minglanilla, Province of Cebu, is hereby separated from the Guindaruhan National High School in the Municipality of Minglanilla and converted into an independent national high school, to be known as the Tungkop National High School.
 
 ## Section 2
 

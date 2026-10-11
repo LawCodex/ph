@@ -32,7 +32,7 @@ Any alien exhibitor in such fair or exposition may bring to the Philippines, und
 
 ## Section 3
 
-The Secretary of Commerce and Industry shall issue such rules and regulations as may be necessary to carry out the provisions of this Act not otherwise assigned to other offices as provided in this Act.1aшphi1
+The Secretary of Commerce and Industry shall issue such rules and regulations as may be necessary to carry out the provisions of this Act not otherwise assigned to other offices as provided in this Act.
 
 ## Section 4
 

@@ -51,7 +51,7 @@ _Separability Clause._ – Should any clause, sentence, paragraph, section or pr
 
 ## Section 5
 
-_Repealing Clause._ – All other laws, decrees, orders or regulations or parts thereof that are inconsistent with this Act are hereby repealed, modified or amended accordingly.1âwphi1
+_Repealing Clause._ – All other laws, decrees, orders or regulations or parts thereof that are inconsistent with this Act are hereby repealed, modified or amended accordingly.
 
 ## Section 6
 

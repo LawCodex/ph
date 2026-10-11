@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the_ _Philippines i
 
 ## Section 1
 
-The name of Manlabang National High School in Barangay Manlabang, Municipality of Caibiran, Province of Biliran, is hereby changed to Caibiran National High School.1âwphi1
+The name of Manlabang National High School in Barangay Manlabang, Municipality of Caibiran, Province of Biliran, is hereby changed to Caibiran National High School.
 
 ## Section 2
 

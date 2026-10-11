@@ -31,7 +31,7 @@ The San Jose National Agricultural and Industrial School (SJNAIS) in the Municip
 
 ## Section 2
 
-The College shall be under the direct supervision and control of the Commission on Higher Education.Ꮮαwρhi৷
+The College shall be under the direct supervision and control of the Commission on Higher Education.
 
 ## Section 3
 

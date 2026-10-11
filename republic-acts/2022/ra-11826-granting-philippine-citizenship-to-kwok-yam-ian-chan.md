@@ -34,7 +34,7 @@ Mr. Kwok Yam Ian Chan is hereby granted Philippine citizenship with all the righ
 
 ## Section 2
 
-Mr. Kwok Yam Ian Chan shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.7!ᕼdMᗄ7 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Mr. Kwok Yam Ian Chan shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

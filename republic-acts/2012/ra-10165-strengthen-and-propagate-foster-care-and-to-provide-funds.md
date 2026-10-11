@@ -235,7 +235,7 @@ _Role of Local Government Units (LGUs)._ – LGUs shall promote the foster care 
 
 ### Section 19
 
-_Funding._ – In accordance with the Local Government Code, LGUs shall primarily be responsible for social welfare services which include foster care programs. However, the national government shall provide financial support, priority given to third (3 rd), fourth (4 th) and fifth (5 th) class municipalities.1âwphi1
+_Funding._ – In accordance with the Local Government Code, LGUs shall primarily be responsible for social welfare services which include foster care programs. However, the national government shall provide financial support, priority given to third (3 rd), fourth (4 th) and fifth (5 th) class municipalities.
 
 ### Section 20
 

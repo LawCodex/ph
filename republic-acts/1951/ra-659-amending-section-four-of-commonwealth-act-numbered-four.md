@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section four of Commonwealth Act Numbered Four hundred and seventy-one is hereby amended to read as follows:
 
-"**Section 4.** Instructions, orders, rules, and regulations.- The Secretary of Agriculture and Natural Resources shall from time to time issue instructions, orders, rules, and regulations consistent with this Act, as may be necessary and proper to carry into effect the provisions thereof and for the conduct of proceedings arising under such provisions; and all licenses, permits, leases, and contracts issued, granted, or made herein shall be subject to the same.1a⍵⍴h!1
+"**Section 4.** Instructions, orders, rules, and regulations.- The Secretary of Agriculture and Natural Resources shall from time to time issue instructions, orders, rules, and regulations consistent with this Act, as may be necessary and proper to carry into effect the provisions thereof and for the conduct of proceedings arising under such provisions; and all licenses, permits, leases, and contracts issued, granted, or made herein shall be subject to the same.
 
 "All ordinances, rules or regulations pertaining to fishing or fisheries promulgated or enacted by provincial boards, municipal boards or councils, or municipal district councils shall be submitted to the Secretary of Agriculture and Natural Resources for approval and shall have full force and effect unless notice in writing of their disapproval is communicated by the secretary to the board or council concerned within thirty days after submission of the ordinance, rule, or regulation."
 

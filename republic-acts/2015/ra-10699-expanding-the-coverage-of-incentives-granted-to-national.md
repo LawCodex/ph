@@ -87,7 +87,7 @@ _Scholarship Benefits for National Athletes._ – A national athlete who wins in
 
 Likewise, the Commission on Higher Education (CHED) and the Technical Education and Skills Development Authority (TESDA) shall give priority to winning national athletes who seek scholarship grants and study under their programs subject to the CHED and TESDA regulations and policies and qualifications for all applicants.
 
-Private colleges and universities shall likewise be encouraged to adopt a similar program in their institutions for winning national athletes.1âwphi1
+Private colleges and universities shall likewise be encouraged to adopt a similar program in their institutions for winning national athletes.
 
 ## SECTION 6
 
@@ -207,11 +207,11 @@ A separate fund equivalent to not less than sixty percent (60%) of the existing 
 
 _Transitory Provision._ — National athletes who have won and availed of the benefits and privileges -under Section 9 (Benefits, Privileges and Incentives for Past Achievers) of the repealed Republic Act No. 9064, otherwise known as the “National Athletes Coaches and Trainers Benefits and Incentives Act of 2001” or “Sports Benefits and Incentives Act of 2001”, are considered to have fully claimed their cash incentives.
 
-National athletes who have not availed of the cash incentives on the abovementioned provision shall claim within three (3) years from the effectivity of this Act, and thereafter would be construed as not eligible for the claim and have waived their rights.1âwphi1
+National athletes who have not availed of the cash incentives on the abovementioned provision shall claim within three (3) years from the effectivity of this Act, and thereafter would be construed as not eligible for the claim and have waived their rights.
 
 ## SECTION 14
 
-_Implementing Rules and Regulations (IRR)._ — The PSC, in consultation with the POC, the NPC PHIL, the Department of Health (DOH), the Department of Education (DepED), the CHED, the TESDA, the Department of Finance (DOF), the BIR, the PAGCOR, the PHILHEALTH, among others, and other concerned agencies shall promulgate and issue the IRR within sixty (60) days upon approval of this Act: Provided, That the failure of the PSC to promulgate the rules and regulations shall not prevent the implementation of this Act upon its effectivity.1âwphi1
+_Implementing Rules and Regulations (IRR)._ — The PSC, in consultation with the POC, the NPC PHIL, the Department of Health (DOH), the Department of Education (DepED), the CHED, the TESDA, the Department of Finance (DOF), the BIR, the PAGCOR, the PHILHEALTH, among others, and other concerned agencies shall promulgate and issue the IRR within sixty (60) days upon approval of this Act: Provided, That the failure of the PSC to promulgate the rules and regulations shall not prevent the implementation of this Act upon its effectivity.
 
 ## SECTION 15
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the supervision of the Director of Vocational Education, a school of fisheries in each of the Municipalities of Paoay and Bangui, both of the Province of Ilocos Norte.1âшphi1 The sites for the said schools of fisheries shall be determined by the Director of Vocational Education.
+There shall be established under the supervision of the Director of Vocational Education, a school of fisheries in each of the Municipalities of Paoay and Bangui, both of the Province of Ilocos Norte. The sites for the said schools of fisheries shall be determined by the Director of Vocational Education.
 
 ## Section 2
 

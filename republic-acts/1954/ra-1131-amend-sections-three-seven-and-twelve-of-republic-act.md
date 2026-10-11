@@ -60,7 +60,7 @@ Section three, seven and twelve of Republic Act Numbered Six hundred seventy-nin
 
 "Sec. 12. _Violation and penalties._ — (a) It shall be unlawful for any employer: (1) to discharge any woman employed by him for the purpose of preventing such woman from enjoying the benefits of sections seven or eight of this Act; (2) to discharge such woman on account of her pregnancy, or while on leave or in confinement due to her pregnancy, or (3) to discharge or refuse the admission of such woman upon returning to her work for fear that she may again the pregnant.
 
-"(b) It shall be unlawful for any employer to discharge any women or child employed by him for having filed a complaint under this Act or to discharge such woman or child or any other employee who has given testimony or is about to give testimony under this Act.1âшphi1
+"(b) It shall be unlawful for any employer to discharge any women or child employed by him for having filed a complaint under this Act or to discharge such woman or child or any other employee who has given testimony or is about to give testimony under this Act.
 
 "(c) It shall be unlawful for any employer to discharge any women or child employed by him for any other cause which is not attributable to the fault of such employee or worker.
 

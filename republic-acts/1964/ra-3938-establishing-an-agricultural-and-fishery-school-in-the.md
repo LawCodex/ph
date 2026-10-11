@@ -33,7 +33,7 @@ The Secretary of Education is hereby authorized to promulgate rules and regulati
 
 ## Section 3
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for the purpose.1âшphi1 Thereafter, the amount for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for the purpose. Thereafter, the amount for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

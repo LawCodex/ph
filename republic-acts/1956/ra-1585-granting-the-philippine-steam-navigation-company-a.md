@@ -52,7 +52,7 @@ The grantee, its successors or assigns, shall be subject to the corporation laws
 
 ## Section 8
 
-This franchise not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.1avvphi11âшphi1
+This franchise not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 9
 

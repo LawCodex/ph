@@ -34,7 +34,7 @@ _Establishment of a Fish Port._ – There shall be established, under the superv
 
 ## Section 2
 
-_Implementing Rules and Regulations._ – The Department of Agriculture, through the PFDA, shall formulate the rules and regulations necessary for the effective implementation of this Act.1âwphi1
+_Implementing Rules and Regulations._ – The Department of Agriculture, through the PFDA, shall formulate the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

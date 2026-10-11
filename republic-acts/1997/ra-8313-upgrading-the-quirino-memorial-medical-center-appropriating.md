@@ -36,7 +36,7 @@ The Quirino Memorial Medical Center is hereby formally established and upgraded 
 
 ## Section 3
 
-The construction and upgrading of the hospital facilities and services shall be under the direct supervision and control of the Department of Health.1aшphi1
+The construction and upgrading of the hospital facilities and services shall be under the direct supervision and control of the Department of Health.
 
 ## Section 4
 

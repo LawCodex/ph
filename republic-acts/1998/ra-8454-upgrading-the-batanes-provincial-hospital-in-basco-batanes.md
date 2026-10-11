@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing Batanes Provincial Hospital in Basco, Batanes, is hereby upgraded into a tertiary level II hospital to be known as the Batanes General Hospital.Ꮮαwρhi৷
+The existing Batanes Provincial Hospital in Basco, Batanes, is hereby upgraded into a tertiary level II hospital to be known as the Batanes General Hospital.
 
 ## Section 2
 

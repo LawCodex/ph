@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Bagacay, Naga, Ricodo-on, Tubod, Abachanan Ilaud and Casili-on in the Municipality of Sierra-Bullones, Province of Bohol, are hereby converted into barrios of the said municipality to be known hereafter as the barrios of Abachanan Oriental, Magsaysay, San Carlos, Cagawasan, Abachanan Norte and Del Pilar, respectively.1avvphi1
+The sitios of Bagacay, Naga, Ricodo-on, Tubod, Abachanan Ilaud and Casili-on in the Municipality of Sierra-Bullones, Province of Bohol, are hereby converted into barrios of the said municipality to be known hereafter as the barrios of Abachanan Oriental, Magsaysay, San Carlos, Cagawasan, Abachanan Norte and Del Pilar, respectively.
 
 ## Section 2
 

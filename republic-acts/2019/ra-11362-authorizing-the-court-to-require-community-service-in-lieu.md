@@ -46,7 +46,7 @@ _Community Service._ \- Article 88a of the Act No. 3815 is hereby inserted to re
 
 "Community service shall consist of any actual physical activity which inculcates civic consciousness, and is intended towards the improvement of a public work or promotion of a public service.
 
-"If the defendant violates the terms of the community service, the court shall order his/her re-arrest and the defendant shall serve the full term of the penalty, as the case may be, in jail, or in the house of the defendant as provided under Article 88. However, if the defendant has fully complied with the terms of the community service, the court shall order the release of the defendant unless detained for some other offenses.ℒαwρhi৷
+"If the defendant violates the terms of the community service, the court shall order his/her re-arrest and the defendant shall serve the full term of the penalty, as the case may be, in jail, or in the house of the defendant as provided under Article 88. However, if the defendant has fully complied with the terms of the community service, the court shall order the release of the defendant unless detained for some other offenses.
 
 "The privilege of rendering community service in lieu of service in jail shall be availed of only once."
 

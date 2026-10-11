@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section two thousand five hundred sixty-two of the Revised Administrative Code, as amended, is further amended to read as follows:
 
-"Sec. 2562. _The city court._ — There shall be a city court for the City of Baguio for which three judges shall be appointed.1avvphi1 In case of absence, sickness or incapacity of any of the judges of the city court, the Secretary of Justice may designate any assistant attorney of the Department of Justice or provincial fiscal to act as judge of the city court of the City of Baguio, with all the powers of the regular judge of said court; but such acting judge shall not receive any additional compensation during the time he is acting as judge."
+"Sec. 2562. _The city court._ — There shall be a city court for the City of Baguio for which three judges shall be appointed. In case of absence, sickness or incapacity of any of the judges of the city court, the Secretary of Justice may designate any assistant attorney of the Department of Justice or provincial fiscal to act as judge of the city court of the City of Baguio, with all the powers of the regular judge of said court; but such acting judge shall not receive any additional compensation during the time he is acting as judge."
 
 ## Section 2
 

@@ -32,7 +32,7 @@ There is hereby established, under the direct supervision of the Department of E
 
 ## Section 2
 
-The school shall, in addition to the regular secondary school curricula, offer agricultural, technical and other vocational subjects.1aшphi1
+The school shall, in addition to the regular secondary school curricula, offer agricultural, technical and other vocational subjects.
 
 ## Section 3
 

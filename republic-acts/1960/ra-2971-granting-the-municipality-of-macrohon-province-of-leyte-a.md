@@ -29,11 +29,11 @@ Subject to the terms and conditions established in Act Numbered Thirty-six hundr
 
 ## Section 2
 
-In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.1âшphi1
+In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
 
 ## Section 3
 
-It is expressly provided that, in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and turn over to the government all serviceable equipment therein, at cost, less reasonable depreciation.lâшphi1
+It is expressly provided that, in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and turn over to the government all serviceable equipment therein, at cost, less reasonable depreciation.
 
 ## Section 4
 

@@ -24,11 +24,17 @@ AN ACT ESTABLISHING AND PROVIDING FOR A FREE PUBLIC SECONDARY EDUCATION AND FOR 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** — This Act shall be known as the **"_Free Public Secondary Education Act of 1988._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** — It is the policy of the State to provide for a free public secondary education to all qualified citizens and to promote quality education at all levels.
+_Title._ — This Act shall be known as the **"_Free Public Secondary Education Act of 1988._ "**
 
-**Section 3._Definitions._** — For purposes of this Act, the following terms shall mean:
+## Section 2
+
+_Declaration of Policy._ — It is the policy of the State to provide for a free public secondary education to all qualified citizens and to promote quality education at all levels.
+
+## Section 3
+
+_Definitions._ — For purposes of this Act, the following terms shall mean:
 
 a) _Free Public Secondary Education._ — Means that the students enrolled in secondary course offerings in national high schools, general comprehensive high schools, trade, technical, vocational, fishery and agricultural schools, and in schools established, administered, maintained and funded by local government units, including city, provincial municipal and barangay high schools, and those public high schools which may be established by law, shall be free from payment of tuition and other schools fees;
 
@@ -38,22 +44,40 @@ c) _Other School Fees._ — Refer to those fees which cover the other necessary 
 
 However, fees elated to membership in the school community such as identification cards, student organizations and publications may be collected, provided that nonpayment to these fees shall not in any case be a bar to the enrollment or graduation of any student.
 
-**Section 4._Implementation of Free Public Secondary Education._** — The system of free public secondary education as provided in this Act shall commence in School Year 1988-1989, and that the students enrolled in secondary course offerings in national and general comprehensive high schools, state colleges and universities, specialized schools, trade, technical, vocational, fishery and agricultural schools and in schools which may be established by law, shall be free from payment of tuition and other school fees, except fees related to membership in the school community such as identification cards, student organizations and publication which may be collected: provided, that nothing in this Act shall cause or authorize the reduction or removal of any benefit which the national or local government may have granted to the students, teachers and other school personnel of these public high schools prior to the enactment of this Act.
+## Section 4
 
-**Section 5._Formulation of a Secondary Education Curriculum._** — The Department of Education, Culture and Sports shall formulate a secondary education curriculum in order to upgrade its quality, efficiency and access.n addition to providing the high school students with general skills, knowledge and values, such a curriculum must include vocational and technical courses that will give the students gainful employment.
+_Implementation of Free Public Secondary Education._ — The system of free public secondary education as provided in this Act shall commence in School Year 1988-1989, and that the students enrolled in secondary course offerings in national and general comprehensive high schools, state colleges and universities, specialized schools, trade, technical, vocational, fishery and agricultural schools and in schools which may be established by law, shall be free from payment of tuition and other school fees, except fees related to membership in the school community such as identification cards, student organizations and publication which may be collected: provided, that nothing in this Act shall cause or authorize the reduction or removal of any benefit which the national or local government may have granted to the students, teachers and other school personnel of these public high schools prior to the enactment of this Act.
 
-**Section 6._Limitation._** — The right of any student to avail of free public high school shall terminate if he fails for two (2) consecutive school years in the majority of the academic subjects in which he is enrolled during the course of his study unless such failure is due to some valid cause.
+## Section 5
 
-**Section 7._Nationalization of Public Secondary Schools._** — To effectively implement the system, the establishment, renaming, conversion, integration, separation, administration, supervision and control of all public secondary schools and public secondary school teachers and other school personnel, including the payment of their salaries allowances and other fringe benefits as well as those already provided by local governments are hereby vested in the Department of Education, Culture and Sports.
+_Formulation of a Secondary Education Curriculum._ — The Department of Education, Culture and Sports shall formulate a secondary education curriculum in order to upgrade its quality, efficiency and access.n addition to providing the high school students with general skills, knowledge and values, such a curriculum must include vocational and technical courses that will give the students gainful employment.
 
-**Section 8._Priority in Admission._** — Graduates of public elementary schools in a municipality shall be given priority in admission when the present facilities in the same municipality cannot accommodate all of those applying for enrollment in the public high schools.
+## Section 6
 
-**Section 9._Implementing Rules and Regulations._** — The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations to implement this Act.
+_Limitation._ — The right of any student to avail of free public high school shall terminate if he fails for two (2) consecutive school years in the majority of the academic subjects in which he is enrolled during the course of his study unless such failure is due to some valid cause.
 
-**Section 10._Funding._** — The President is hereby authorized to realign or transfer any item of appropriation within the Department of Education, Culture and Sports. and/or utilize any savings therein to carry out the purposes of this Act. Whatever additional amount as may be needed for its implementation shall be included in the General Appropriations Acts for the ensuing fiscal years.
+## Section 7
 
-**Section 11._Repealing Clause._** — All laws or parts thereof, inconsistent with any provision of this Act shall be deemed repealed or modified as the case may be.
+_Nationalization of Public Secondary Schools._ — To effectively implement the system, the establishment, renaming, conversion, integration, separation, administration, supervision and control of all public secondary schools and public secondary school teachers and other school personnel, including the payment of their salaries allowances and other fringe benefits as well as those already provided by local governments are hereby vested in the Department of Education, Culture and Sports.
 
-**Section 12._Effectivity._** — This Act shall take effect upon its approval.
+## Section 8
+
+_Priority in Admission._ — Graduates of public elementary schools in a municipality shall be given priority in admission when the present facilities in the same municipality cannot accommodate all of those applying for enrollment in the public high schools.
+
+## Section 9
+
+_Implementing Rules and Regulations._ — The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations to implement this Act.
+
+## Section 10
+
+_Funding._ — The President is hereby authorized to realign or transfer any item of appropriation within the Department of Education, Culture and Sports. and/or utilize any savings therein to carry out the purposes of this Act. Whatever additional amount as may be needed for its implementation shall be included in the General Appropriations Acts for the ensuing fiscal years.
+
+## Section 11
+
+_Repealing Clause._ — All laws or parts thereof, inconsistent with any provision of this Act shall be deemed repealed or modified as the case may be.
+
+## Section 12
+
+_Effectivity._ — This Act shall take effect upon its approval.
 
 Approved: **May 26, 1988.**

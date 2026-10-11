@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Tukuran Technic
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Tukuran Technical Vocational High School – Tagulo Annex are hereby transferred to and absorbed by the Potenciano Solon Bandolon Memorial National High School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Tukuran Technical Vocational High School – Tagulo Annex are hereby transferred to and absorbed by the Potenciano Solon Bandolon Memorial National High School.
 
 ## Section 3
 

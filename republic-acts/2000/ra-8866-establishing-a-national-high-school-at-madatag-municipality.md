@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school at Madatag, Municipality of Kabugao, Province of Apayao to be known as Mayor Bartolome Serut National Agricultural and Trade High School.ℒαwρhi৷
+There shall be established a national high school at Madatag, Municipality of Kabugao, Province of Apayao to be known as Mayor Bartolome Serut National Agricultural and Trade High School.
 
 ## Section 2
 

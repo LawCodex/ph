@@ -54,7 +54,7 @@ Upon determination by the Public Service Commission or its legal successor after
 
 ## Section 6
 
-This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.1âшphi1
+This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.
 
 The Public Service Commission shall prescribe, as a condition for the issuance of the certificate of convenience and public necessity to the grantee, that the certificate shall be valid only for a definite period of time and that the violation of any of these conditions shall cause the immediate cancellation of the certificate without the necessity of any express action on the part of the Commission.
 

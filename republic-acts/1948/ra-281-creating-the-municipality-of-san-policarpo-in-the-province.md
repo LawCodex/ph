@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of San Policarpo, Bahay, Alugan, Pangpang, Japonan, Tabo, Bonogawan and Cajag-wayan of the municipality of Oras, are hereby constituted as a separate and independent municipality to be known as the municipality of San Policarpo, Province of Samar, with the seat of government in the said barrio of San Policarpo.1aшphi1
+The barrios of San Policarpo, Bahay, Alugan, Pangpang, Japonan, Tabo, Bonogawan and Cajag-wayan of the municipality of Oras, are hereby constituted as a separate and independent municipality to be known as the municipality of San Policarpo, Province of Samar, with the seat of government in the said barrio of San Policarpo.
 
 ## Section 2
 

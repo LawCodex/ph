@@ -90,7 +90,7 @@ There shall be a secretary of the College, appointed by the Board of Trustees. H
 
 ## Section 12
 
-Heads of bureaus or offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the College, such apparatus or supplies as may be needed by the College, and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service.1a⍵⍴h!1
+Heads of bureaus or offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the College, such apparatus or supplies as may be needed by the College, and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service.
 
 ## Section 13
 

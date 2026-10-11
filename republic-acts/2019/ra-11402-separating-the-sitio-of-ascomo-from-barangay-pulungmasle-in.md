@@ -394,11 +394,11 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Barangay Officials._ — The incumbent elected barangay officials of Barangay Ascomo shall continue to hold office until such time that their successors have been duly elected and qualified.1âшphi1
+_Barangay Officials._ — The incumbent elected barangay officials of Barangay Ascomo shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 
-_Public Infrastructure and Facilities._ — All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.1âшphi1
+_Public Infrastructure and Facilities._ — All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
 
 ## Section 6
 

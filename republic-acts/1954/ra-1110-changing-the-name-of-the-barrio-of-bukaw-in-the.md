@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Bukaw in the municipality of Igbaras, Province of Iloilo, is hereby changed to that of Alameda.1âшphi1
+The name of the barrio of Bukaw in the municipality of Igbaras, Province of Iloilo, is hereby changed to that of Alameda.
 
 ## Section 2
 

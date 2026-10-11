@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bibihan School, in Barrio Puting-Tubig, Municipality of Calapan, Province of Oriental Mindoro, is hereby changed to Pedro C. Tolentino Memorial School.1âшphi1
+The name of the Bibihan School, in Barrio Puting-Tubig, Municipality of Calapan, Province of Oriental Mindoro, is hereby changed to Pedro C. Tolentino Memorial School.
 
 ## Section 2
 

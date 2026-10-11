@@ -236,7 +236,7 @@ _Scope of Examination in Radiologic Technology._ \- Unless changed or modified b
 
 _Report of Ratings._ \- The Board shall, within one hundred twenty (120) days after the date of completion of the examination, report the rating obtained by each candidate to the Commission which shall submit such report to the President of the Philippines for approval.
 
-In order to pass the examination, a candidate must obtain a weighted average of at least 75% with no rating below 60% in any subject. An examinee who obtains an average rating of 75% or higher but gets a rating below 60% in any subject shall be allowed to take a reexamination in only those subjects in which he obtained a rating below 60%. Such examination shall, as far as practicable, be taken in the next scheduled examination.1âшphi1
+In order to pass the examination, a candidate must obtain a weighted average of at least 75% with no rating below 60% in any subject. An examinee who obtains an average rating of 75% or higher but gets a rating below 60% in any subject shall be allowed to take a reexamination in only those subjects in which he obtained a rating below 60%. Such examination shall, as far as practicable, be taken in the next scheduled examination.
 
 In order to pass the second examination, the examinee must obtain a rating of 75% in each of the subjects repeated. If the candidate still fails the reexamination, he shall, as far as practicable be required to repeat said subjects during the succeeding examination. When an applicant fails to qualify after the third examination, he shall be required to take the entire examination.
 

@@ -56,7 +56,7 @@ As a condition of the granting of this franchise, the grantee shall execute a bo
 
 ## Section 9
 
-In the event of any competing individual, partnership or corporation receiving from Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership or corporation.1âшphi1
+In the event of any competing individual, partnership or corporation receiving from Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership or corporation.
 
 ## Section 10
 
@@ -68,7 +68,7 @@ Whenever this franchise uses the term "grantee," it shall be held and understood
 
 ## Section 12
 
-This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

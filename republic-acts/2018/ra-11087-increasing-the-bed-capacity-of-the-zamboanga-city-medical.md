@@ -30,7 +30,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-The authorized bed capacity of the Zamboanga City Medical Center in Zamboanga City is hereby increased from five hundred (500) to eight hundred (800) beds.1âwphi1
+The authorized bed capacity of the Zamboanga City Medical Center in Zamboanga City is hereby increased from five hundred (500) to eight hundred (800) beds.
 
 ## Section 2
 

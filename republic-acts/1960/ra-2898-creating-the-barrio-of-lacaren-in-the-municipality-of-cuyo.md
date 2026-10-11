@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Lacaren in the Municipality of Cuyo, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Lacaren.1âшphi1
+The sitio of Lacaren in the Municipality of Cuyo, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Lacaren.
 
 ## Section 2
 

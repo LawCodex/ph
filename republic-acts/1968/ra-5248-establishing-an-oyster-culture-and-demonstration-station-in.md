@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Commissioner of Fisheri
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said demonstration station during the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said demonstration station during the fiscal year nineteen hundred sixty-nine. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Kay Duque, Mabuhay, Dampulan and Talawan in the Municipality of Torrijos, Province of Marinduque, are converted into barrios to be known as the barrios of Kay Duque, Mabuhay, Dampulan and Talawan, respectively.1avvphi1
+The sitios of Kay Duque, Mabuhay, Dampulan and Talawan in the Municipality of Torrijos, Province of Marinduque, are converted into barrios to be known as the barrios of Kay Duque, Mabuhay, Dampulan and Talawan, respectively.
 
 ## Section 2
 

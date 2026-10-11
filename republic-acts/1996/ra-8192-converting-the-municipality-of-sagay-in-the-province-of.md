@@ -917,7 +917,7 @@ _The City Cooperatives Officer._ – (a) The city cooperatives officer must be a
 
 (4) Recommend to the sangguniang panlungsod and advise the city mayor on all other matters relative to cooperatives development and viability-enhancement which will improve the livelihood and quality of life of the inhabitants; and
 
-(5) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.1aшphi1
+(5) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 46
 

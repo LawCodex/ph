@@ -49,7 +49,7 @@ Public service time referred herein shall be equivalent to a maximum aggregate o
 
 ## Section 5
 
-_Right of the Government._ \- The radio spectrum is finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.ℒαwρhi৷
+_Right of the Government._ \- The radio spectrum is finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
 
 A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations, transmitters, facilities, or equipment of the grantee; to temporarily suspend the operation of any station, transmitter, facility, or equipment in the interest of public safety, security, and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of the stations, transmitters, facilities, or equipment during the period when these shall be so operated.
 
@@ -83,7 +83,7 @@ _Reportorial Requirements._ \- The grantee shall submit an annual report to the 
 
 The annual report shall include an update on the roll-out development, operation and/or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable, certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by NTC.ℒαwρhi৷
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by NTC.
 
 ## Section 13
 

@@ -141,7 +141,7 @@ A new Section 7-C is hereby inserted to read as follows:
 
 (f) Conduct or commission regular impact evaluation studies at least every four (4) years to assess the effectiveness and efficiency of the TES program in achieving its objectives.
 
-To ensure the effective implementation of the policies under this section, the UniFAST Board shall supervise the implementation of the TES by the CHED and TESDA and shall require both agencies to submit quarterly reports for this purpose.ℒαwρhi৷
+To ensure the effective implementation of the policies under this section, the UniFAST Board shall supervise the implementation of the TES by the CHED and TESDA and shall require both agencies to submit quarterly reports for this purpose.
 
 The CHED, TESDA, and UniFAST secretariat shall determine and be provided with the additional plantilla positions and other personnel complement as may be necessary to ensure the effective administration and implementation of the programs, subject to the evaluation and approval of the DBM, and in accordance with civil service rules and regulations."
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The former municipality of Mercedes comprising the barrios of Busay, Anoron, Sungan, Bobon, Banoyo and Boyayawon, which was incorporated by Act Numbered Nine hundred sixty of the Philippine Commission into the municipality of Guiuan, Province of Samar, is hereby recreated as an independent municipality to be known as the municipality of Mercedes.+3u.7!ydmb7
+The former municipality of Mercedes comprising the barrios of Busay, Anoron, Sungan, Bobon, Banoyo and Boyayawon, which was incorporated by Act Numbered Nine hundred sixty of the Philippine Commission into the municipality of Guiuan, Province of Samar, is hereby recreated as an independent municipality to be known as the municipality of Mercedes.
 
 ## Section 2
 

@@ -36,7 +36,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The expenditure during the period from January first to June thirty, nineteen hundred and fifty-four, in pursuance of appropriations made by law prior to the approval of this Act, of the income accruing to the general, special, trust and other funds in the Philippine Treasury during the said period is hereby authorized; _Provided,_ _However_ , That the expenditures from special and trust funds during the same period shall have been made solely for the purposes for which said special and trust funds were created.1âшphi1
+The expenditure during the period from January first to June thirty, nineteen hundred and fifty-four, in pursuance of appropriations made by law prior to the approval of this Act, of the income accruing to the general, special, trust and other funds in the Philippine Treasury during the said period is hereby authorized; _Provided,_ _However_ , That the expenditures from special and trust funds during the same period shall have been made solely for the purposes for which said special and trust funds were created.
 
 ## Section 2
 

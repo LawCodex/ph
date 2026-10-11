@@ -39,7 +39,7 @@ All personnel, assets, liabilities and records of the Guindaruhan National High 
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Guindaruhan National High School-Barangay Tulay Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Tulay National High School shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Guindaruhan National High School-Barangay Tulay Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Tulay National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

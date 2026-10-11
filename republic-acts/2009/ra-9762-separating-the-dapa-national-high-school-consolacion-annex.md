@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities._ \- All personnel ,assets, liabilities and 
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Consolacion National High School, the initial funding of which shall be charged against the current year's appropriations of the Dapa National High School - Consolacion Annex.lawphil Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Consolacion National High School, the initial funding of which shall be charged against the current year's appropriations of the Dapa National High School - Consolacion Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

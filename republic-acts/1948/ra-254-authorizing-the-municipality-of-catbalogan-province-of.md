@@ -32,6 +32,6 @@ The municipality of Catbalogan is likewise authorized, subject to such rules and
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 14, 1948.

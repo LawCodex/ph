@@ -33,7 +33,7 @@ Republic Act No. 63 98 which created Siquijor Island into a province was enacted
 
 ## Section 2
 
-The seventeenth day of September of every year is hereby declared a nonworking special public holiday for the Province of Siquijor to be known as Siquijor Day.1a⍵⍴h!1
+The seventeenth day of September of every year is hereby declared a nonworking special public holiday for the Province of Siquijor to be known as Siquijor Day.
 
 ## Section 3
 

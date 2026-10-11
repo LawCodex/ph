@@ -32,7 +32,7 @@ The Lapuyan National High School - Karpok Extension in Barangay Karpok, Municipa
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Lapuyan National High School - Karpok Extension are hereby transferred to and absorbed by the Karpok National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Lapuyan National High School - Karpok Extension are hereby transferred to and absorbed by the Karpok National High School.
 
 ## Section 3
 

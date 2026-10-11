@@ -341,7 +341,7 @@ Sections 11 and 12 of the same Act are hereby deleted, and replaced with new sec
 
 "(h) Fixing and/or collusion with fixers in consideration of economic and/or other gain or advantage."
 
-"Sec. 22. _Penalties and Liabilities._ – Any violations of the preceding actions will warrant the following penalties and liabilities.1âwphi1
+"Sec. 22. _Penalties and Liabilities._ – Any violations of the preceding actions will warrant the following penalties and liabilities.
 
 "(a) First Offense: Administrative liability with six (6) months suspension: _Provided, however,_ That in the case of fixing and/or collusion with fixers under Section 21(h), the penalty and liability under Section 22(b) of this Act shall apply.
 
@@ -387,7 +387,7 @@ New sections to be numbered as Sections 26, 27, 28, 29, 30, 31, 32 and 33 are he
 
 "Sec. 27. _Transitory Provisions._ –
 
-"(a) The Director General of the Authority, in consultation with the DTI, shall determine the organizational structure and personnel complement of the Authority.1âwphi1 To ensure continued implementation of ease of doing business and anti-red tape reforms, the teams or units involved in regulatory improvement and/or ease of doing business-related programs of the DTI-Competitiveness Bureau shall serve as temporary secretariat of the Authority until such time that its organizational structure and personnel complement have been determined and filled up: _Provided,_ That the staff of the DTI-Competitiveness Bureau shall have the option to be absorbed or transferred laterally to the Authority without diminution of their rank, position, salaries and other emoluments once the staffing pattern and plantilla position of the Authority has been approved.
+"(a) The Director General of the Authority, in consultation with the DTI, shall determine the organizational structure and personnel complement of the Authority. To ensure continued implementation of ease of doing business and anti-red tape reforms, the teams or units involved in regulatory improvement and/or ease of doing business-related programs of the DTI-Competitiveness Bureau shall serve as temporary secretariat of the Authority until such time that its organizational structure and personnel complement have been determined and filled up: _Provided,_ That the staff of the DTI-Competitiveness Bureau shall have the option to be absorbed or transferred laterally to the Authority without diminution of their rank, position, salaries and other emoluments once the staffing pattern and plantilla position of the Authority has been approved.
 
 "(b) All regulatory management programs and anti-red tape initiatives across government agencies shall be gathered by the Authority. The DTI, CDA, NCC, DOF, Development Academy of the Philippines (DAP), and National Economic and Development Authority (NEDA) shall submit to the Authority a report on the status of their respective projects related to regulatory management.
 

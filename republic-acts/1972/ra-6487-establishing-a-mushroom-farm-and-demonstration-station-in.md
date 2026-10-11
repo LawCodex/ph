@@ -28,7 +28,7 @@ There shall be established, under the supervision of the Secretary of Agricultur
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act for the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three. Thereafter, the necessary amount for the same purpose shall be included in the annual General Appropriations Act.1âшphi1
+The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act for the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three. Thereafter, the necessary amount for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

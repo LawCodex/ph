@@ -34,7 +34,7 @@ April 28 of every year is hereby declared a special working holiday in the Provi
 
 ## Section 2
 
-The local government of the Province of Aurora shall plan and implement appropriate ceremonies for the annual observance of the death anniversary of Doña Aurora Aragon-Quezon.1aшphi1
+The local government of the Province of Aurora shall plan and implement appropriate ceremonies for the annual observance of the death anniversary of Doña Aurora Aragon-Quezon.
 
 ## Section 3
 

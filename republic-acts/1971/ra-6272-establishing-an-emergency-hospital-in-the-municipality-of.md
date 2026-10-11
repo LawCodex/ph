@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Hosp
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred and seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred and seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

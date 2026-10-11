@@ -29,33 +29,4 @@ There shall be established, under the direct supervision of the Department of He
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.1âшphi1
-
-## Section 3
-
-Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
-
-## Section 4
-
-This Act shall take effect upon its approval.
-
-Approved,
-
-<table>
-<tr>
-<td>(Sgd.) <b>JOVITO R. SALONGA</b><br/><i>President of the Senate</i></td>
-<td>(Sgd.) <b>RAMON V. MITRA</b><br/><i>Speaker of the House of Representatives</i></td>
-</tr>
-<tr>
-<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989.</td>
-</tr>
-<tr>
-<td>(Sgd.) <b>EDWIN P. ACOBA</b><br/><i>Secretary of the Senate</i></td>
-<td>(Sgd.) <b>QUIRINO D. ABAD SANTOS, JR.</b><br/><i>Secretary of the House of Representatives</i></td>
-</tr>
-</table>
-
-Approved: March 9, 1990
-
-(Sgd.) CORAZON C. AQUINO  
-President of the Philippines
+The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.

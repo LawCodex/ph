@@ -33,4 +33,4 @@ Section three of Republic Act Numbered Five hundred and forty is hereby amended 
 
 This Act shall take effect upon its approval.
 
-Approved, June 20, 1953.1a⍵⍴h!1
+Approved, June 20, 1953.

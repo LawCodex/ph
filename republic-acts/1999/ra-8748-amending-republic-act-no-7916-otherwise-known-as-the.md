@@ -89,6 +89,8 @@ Chapter VI, Section 50 of Republic Act No. 7916 is hereby amended to read as fol
 
 "Section 50. _Non-Applicability on Areas Covered by Republic Act No. 7227._ — This Act shall not be applicable to economic zones and areas already created or to be created under Republic Act No. 7227 or other special laws, and governed by authorities constituted pursuant thereto."
 
-**Section 8._Effectivity Clause._** — This Act shall take effect after fifteen (15) days following its publication in the _Official Gazette_ or in two (2) newspapers of general circulation whichever comes earlier.
+## Section 8
+
+_Effectivity Clause._ — This Act shall take effect after fifteen (15) days following its publication in the _Official Gazette_ or in two (2) newspapers of general circulation whichever comes earlier.
 
 Approved, **June 1, 1999.**

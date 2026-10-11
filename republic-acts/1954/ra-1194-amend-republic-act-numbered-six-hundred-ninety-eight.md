@@ -70,17 +70,13 @@ There are hereby inserted between sections one and two of the same Republic Act 
 
 "The shares of such manufacturers in such locally grown and produced tobacco to be resold to them shall be allocated in the same manner as the tobacco imported undei this Act is distributed among them: _Provided,_ That computing the allocation of such locally grown Virginia leaf tobacco to such manufacturers the volume of their direct purchase from the farmers shall be taken into consideration.
 
-## SEC. 1-d
+SEC. 1-d. The President of the Philippines may require the Philippine Tobacco Administration to assist the ACCFA in makong purchase of Virginia-type leaf tobacco locally produce, assigned to said Administration the function of making such purchase for and in behalf of the ACCFA, and to entrust to said Administration such other duties as may be necessary to carry out the provisions of the preceding section.
 
-The President of the Philippines may require the Philippine Tobacco Administration to assist the ACCFA in makong purchase of Virginia-type leaf tobacco locally produce, assigned to said Administration the function of making such purchase for and in behalf of the ACCFA, and to entrust to said Administration such other duties as may be necessary to carry out the provisions of the preceding section.
-
-## SEC. 1-e
-
-Any person, association or corporation which shall import Virginia-type leaf tobacco without the necessary licenses issued under this Act, and any officer or employee of the Central Bank who shall issue such license without the authorization of the
+SEC. 1-e. Any person, association or corporation which shall import Virginia-type leaf tobacco without the necessary licenses issued under this Act, and any officer or employee of the Central Bank who shall issue such license without the authorization of the
 President of the Philippines as provided in this Act or who shall obstruct the grant of the loans needed by the ACCFA, or any person, association, corporation, official or employee in the Government who violates any provision of this Act, shall be punished by a fine of not less than one thousand pesos nor more than ten thousand pesos, and by imprisonment for not less than one year nor more than five years, in the discretion of the Court: _Provided,_ That if the offense is committed by an association or corporation, the president, manager or administrator and the director or directors committing the offense shall be responsible thereof; and should the offender be an alien, he shall, after final conviction, be deported without further deportation proceedings: _Provided, further,_ That the leaf tobacco involved the offense shall be forfeited to the Government.
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 25, 1954.

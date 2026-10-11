@@ -34,7 +34,7 @@ The name of Kasibu National Agricultural School being administered by the Techni
 
 ## SECTION 2
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
 
 Approved,
 

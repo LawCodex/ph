@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the provisions of the Constitution and to the terms and conditions of the franchise granted under Republic Act Numbered Five thousand one hundred ninety-six, the transfer, assignment, sale or mortgage of said franchise together with all the rights and privileges granted thereunder in favor of any banking or financing institution or any individual, corporation, co-partnership or joint-stock company, is hereby approved.1âшphi1
+Subject to the provisions of the Constitution and to the terms and conditions of the franchise granted under Republic Act Numbered Five thousand one hundred ninety-six, the transfer, assignment, sale or mortgage of said franchise together with all the rights and privileges granted thereunder in favor of any banking or financing institution or any individual, corporation, co-partnership or joint-stock company, is hereby approved.
 
 ## Section 2
 

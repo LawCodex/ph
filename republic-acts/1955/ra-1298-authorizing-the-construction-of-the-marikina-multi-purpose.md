@@ -48,7 +48,7 @@ They are also authorized to borrow from proceeds of sale of bonds under Republic
 
 ## Section 5
 
-The construction of the Ilog River Multi-Purpose Project and a Fertilizer Plant, upon completion of the necessary investigation and design of these projects, is also hereby authorized for the following purposes: To regulate and control floods caused by the Ilog River; to provide storage of the flow of the Ilog River and the use of such stored water for the irrigation of agricultural lands in the vicinity of this river; and the generation and transmission of electric power and energy for the fertilizer plant; and for the manufacture of fertilizer.1âшphi1
+The construction of the Ilog River Multi-Purpose Project and a Fertilizer Plant, upon completion of the necessary investigation and design of these projects, is also hereby authorized for the following purposes: To regulate and control floods caused by the Ilog River; to provide storage of the flow of the Ilog River and the use of such stored water for the irrigation of agricultural lands in the vicinity of this river; and the generation and transmission of electric power and energy for the fertilizer plant; and for the manufacture of fertilizer.
 
 ## Section 6
 

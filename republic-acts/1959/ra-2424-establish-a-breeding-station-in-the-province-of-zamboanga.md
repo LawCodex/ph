@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established in the Province of Zamboanga del Norte, at a site to be selected by the Director of Animal Industry with the assistance of the Provincial Governor and the District Highway Engineer, a breeding station to be known as the Zamboanga del Norte Breeding Station, which shall be under the direct supervision and control of the said Director.1aшphi1
+There shall be established in the Province of Zamboanga del Norte, at a site to be selected by the Director of Animal Industry with the assistance of the Provincial Governor and the District Highway Engineer, a breeding station to be known as the Zamboanga del Norte Breeding Station, which shall be under the direct supervision and control of the said Director.
 
 ## Section 2
 

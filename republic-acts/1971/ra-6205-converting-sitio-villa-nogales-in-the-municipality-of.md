@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio known as Villa Nogales, formerly a part of Barrio Malinao, Municipality of Majayjay, Province of Laguna, is hereby converted into a barrio to be known as Barrio Villa Nogales of the same municipality.1âшphi1
+The sitio known as Villa Nogales, formerly a part of Barrio Malinao, Municipality of Majayjay, Province of Laguna, is hereby converted into a barrio to be known as Barrio Villa Nogales of the same municipality.
 
 ## Section 2
 

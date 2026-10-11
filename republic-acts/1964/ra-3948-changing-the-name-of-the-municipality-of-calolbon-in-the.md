@@ -29,6 +29,6 @@ The name of the Municipality of Calolbon in the Province of Catanduanes is hereb
 
 ## Section 2
 
-This Act shall take effect upon its approval.(awÞhi(
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

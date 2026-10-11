@@ -70,7 +70,7 @@ In order to carry out the purposes of this Act, the Judge Advocate General or hi
 
 ## Section 12
 
-The monies to which the legal heirs of the deceased may be entitled to receive shall be exempt from execution and taxation.1aшphi1
+The monies to which the legal heirs of the deceased may be entitled to receive shall be exempt from execution and taxation.
 
 ## Section 13
 

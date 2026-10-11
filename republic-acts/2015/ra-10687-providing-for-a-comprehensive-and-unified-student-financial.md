@@ -280,7 +280,7 @@ and
 
 ### SECTION 17
 
-_Quorum._ — The attendance of a simple majority of the Board members is necessary in order for the Board to have a quorum to transact business.1âwphi1
+_Quorum._ — The attendance of a simple majority of the Board members is necessary in order for the Board to have a quorum to transact business.
 
 ### SECTION 18
 

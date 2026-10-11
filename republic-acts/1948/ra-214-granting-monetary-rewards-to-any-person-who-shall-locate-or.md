@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any person who shall locate or find the remains of the late Congressman Wenceslao Vinzons of Camarines Norte and Governor Roque Ablan of Ilocos Norte shall be granted a reward of five thousand pesos in each case.1aшphi1
+Any person who shall locate or find the remains of the late Congressman Wenceslao Vinzons of Camarines Norte and Governor Roque Ablan of Ilocos Norte shall be granted a reward of five thousand pesos in each case.
 
 ## Section 2
 

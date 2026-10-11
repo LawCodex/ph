@@ -69,7 +69,7 @@ The grantee, his successors or assigns, shall be subject to the corporation laws
 
 ## Section 12
 
-The grantee shall file a surety bond in the amount of five thousand pesos to guaranty for the full compliance and fulfillment of the conditions under which this franchise is granted.1avvphi1 If, after five years from the date of the approval of this Act, the grantee shall have fulfilled said conditions, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the government.
+The grantee shall file a surety bond in the amount of five thousand pesos to guaranty for the full compliance and fulfillment of the conditions under which this franchise is granted. If, after five years from the date of the approval of this Act, the grantee shall have fulfilled said conditions, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the government.
 
 ## Section 13
 

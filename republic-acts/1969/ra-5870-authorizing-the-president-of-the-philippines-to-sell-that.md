@@ -42,6 +42,6 @@ The sale of said parcel of land shall be subject to the following conditions whi
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted into law without executive signature on June 21, 1969.

@@ -92,7 +92,7 @@ to the point of beginning, containing an area of seventy-five and 29⁄100 (75.2
 
 ## Section 3
 
-Within one (1) year after the approval of this Act, the DOT, in coordination with the concerned local government units and agencies of the government, shall prepare a tourism development plan involving the construction, installation, and maintenance of appropriate infrastructure and facilities that shall encourage tourism in the area: Provided, That said development plan shall ensure the preservation and conservation of the natural beauty and resources of the area: Provided, further, That any activities and developments to be carried out in the area should conform with the concept of ecotourism as provided in the national ecotourism strategy jointly issued by the Department of Environment and Natural Resources (DENR) and the DOT.1âшphi1
+Within one (1) year after the approval of this Act, the DOT, in coordination with the concerned local government units and agencies of the government, shall prepare a tourism development plan involving the construction, installation, and maintenance of appropriate infrastructure and facilities that shall encourage tourism in the area: Provided, That said development plan shall ensure the preservation and conservation of the natural beauty and resources of the area: Provided, further, That any activities and developments to be carried out in the area should conform with the concept of ecotourism as provided in the national ecotourism strategy jointly issued by the Department of Environment and Natural Resources (DENR) and the DOT.
 
 ## Section 4
 

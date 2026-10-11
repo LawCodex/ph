@@ -83,7 +83,7 @@ _Reportorial Requirement._ — The grantee shall submit an annual report to the 
 
 ## Section 13
 
-_Fine._ — Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.1avvphi1
+_Fine._ — Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.
 
 ## Section 14
 

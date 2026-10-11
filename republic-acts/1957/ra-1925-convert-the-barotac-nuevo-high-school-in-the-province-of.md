@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Barotac Nuevo High School situated in the Municipality of Barotac Nuevo, Province of Iloilo, is hereby converted into a National Fishery School to be known as "Central Iloilo National School of Fisheries", with a Principal as administrative officer under the direct superintendence of the Superintendent of the nearest regional agricultural school.1âшphi1
+The Barotac Nuevo High School situated in the Municipality of Barotac Nuevo, Province of Iloilo, is hereby converted into a National Fishery School to be known as "Central Iloilo National School of Fisheries", with a Principal as administrative officer under the direct superintendence of the Superintendent of the nearest regional agricultural school.
 
 ## Section 2
 

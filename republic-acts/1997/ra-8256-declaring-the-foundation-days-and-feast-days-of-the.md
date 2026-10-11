@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The foundation days and feast days of the Province of Davao Oriental and the municipalities therein are hereby declared as special nonworking public holidays.1aшphi1
+The foundation days and feast days of the Province of Davao Oriental and the municipalities therein are hereby declared as special nonworking public holidays.
 
 ## Section 2
 

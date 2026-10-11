@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Limbuhan, Guindawahan, Palho, Casabangan, Salvacion, Alegria, Tanke, Bundukan, Bugtong, and Cabangrayan are separated from the municipality of Cataingan, Province of Masbate, and constituted into a new municipality to be known as the Municipality of Limbuhan in said province, with the seat of government at the present site of the barrio of Limbuhan.1a⍵⍴h!1
+The barrios of Limbuhan, Guindawahan, Palho, Casabangan, Salvacion, Alegria, Tanke, Bundukan, Bugtong, and Cabangrayan are separated from the municipality of Cataingan, Province of Masbate, and constituted into a new municipality to be known as the Municipality of Limbuhan in said province, with the seat of government at the present site of the barrio of Limbuhan.
 
 ## Section 2
 

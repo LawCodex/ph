@@ -105,7 +105,7 @@ Section fourteen hundred and fourteen of the Revised Administrative Code, as ame
 
 "5. In case of a vessel of more than six hundred but not more than eight hundred tons gross 32.00
 
-"6. In case of a vessel of more than eight hundred but not more than one thousand tons gross 40.001a⍵⍴h!1
+"6. In case of a vessel of more than eight hundred but not more than one thousand tons gross 40.00
 
 "7. In case of a vessel over one thousand tons gross, for every one hundred tons gross or fraction thereof 4.00
 

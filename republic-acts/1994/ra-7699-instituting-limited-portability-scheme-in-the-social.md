@@ -63,7 +63,7 @@ The Department of Labor and Employment for the private sector and the Civil Serv
 
 ## Section 7
 
-All laws, decrees, orders, rules and regulations, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1a⍵⍴h!1
+All laws, decrees, orders, rules and regulations, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 8
 

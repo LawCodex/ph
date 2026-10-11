@@ -31,7 +31,7 @@ The present office of the register of deeds in the Municipality of Sorsogon, Pro
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said new office during the fiscal year nineteen hundred and sixty-five.1âшphi1 Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said new office during the fiscal year nineteen hundred and sixty-five. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

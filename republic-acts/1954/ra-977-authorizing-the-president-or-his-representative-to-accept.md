@@ -36,7 +36,7 @@ All other kinds of donations made and received under this Act shall be inventori
 
 ## Section 4
 
-The President of the Philippines shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.1âшphi1
+The President of the Philippines shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
 
 ## Section 5
 

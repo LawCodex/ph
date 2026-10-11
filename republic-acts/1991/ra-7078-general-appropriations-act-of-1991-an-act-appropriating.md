@@ -35,7 +35,7 @@ The Department of Budget and Management shall ensure compliance with this provis
 
 ## Section 69
 
-_Separability Clause_. - If for any reason any section or provision of this Act is declared unconstitutional or invalid, other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.1âшphi1
+_Separability Clause_. - If for any reason any section or provision of this Act is declared unconstitutional or invalid, other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
 
 ## Section 70
 

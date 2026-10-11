@@ -29,7 +29,7 @@ Subject to the conditions established in this Act and to the provisions of the C
 
 ## Section 2
 
-A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, or disaster to authorize the temporary use and operation of the grantee’s water transportation facilities by any department of the government upon payment of just compensation.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, or disaster to authorize the temporary use and operation of the grantee’s water transportation facilities by any department of the government upon payment of just compensation.
 
 ## Section 3
 

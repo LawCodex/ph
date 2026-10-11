@@ -42,6 +42,6 @@ Any balance of the advance fund herein created not loaned out on or before June 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1â#x0448;phi1
+This Act shall take effect upon its approval.
 
 Approved: October 21, 1946

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Establishment of a National High School._ \- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Banawel, Municipality of Natonin, Mountain Province to be known as **_Banawel National HIgh School._** ten.lihpwal
+_Establishment of a National High School._ \- There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Banawel, Municipality of Natonin, Mountain Province to be known as **_Banawel National HIgh School._**
 
 ## Section 2
 

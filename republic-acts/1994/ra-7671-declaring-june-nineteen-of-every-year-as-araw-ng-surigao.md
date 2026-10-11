@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Province of Surigao del Sur was created by virtue of Republic Act No. 2786 which was finally approved on June 19, 1960.1a⍵⍴h!1
+The Province of Surigao del Sur was created by virtue of Republic Act No. 2786 which was finally approved on June 19, 1960.
 
 ## Section 2
 

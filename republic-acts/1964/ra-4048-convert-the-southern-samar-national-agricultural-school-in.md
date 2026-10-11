@@ -43,7 +43,7 @@ The Southern Samar Agricultural College shall be headed by a Superintendent of A
 
 ## Section 4
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college, in addition to the present appropriation of the said school, for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college, in addition to the present appropriation of the said school, for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

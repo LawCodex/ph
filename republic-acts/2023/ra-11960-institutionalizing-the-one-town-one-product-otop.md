@@ -107,7 +107,7 @@ The DTI and the Department of Science and technology (DOST), in coordination wit
 
 (b) Capacity Building through training opportunities focusing on improving the human aspect of OTOP Philippines, including business skills training and business counseling in coordination with the DTI, Cooperative Development Authority (CDA) and the Technical Education and Skills Development Authority (TESDA);
 
-(c) Standards and Market Compliance where beneficiaries shall be trained and capacitated to observe standards and comply with the requirements of the DTI-Bureau of Philippine Standards (DTI-BPS), Food and Drug Administration (FDA), Department of Agriculture (DA) and the Intellectual Property Office of the Philippines (IPOPHL), and other concerned govenrment agencies.1aшphi1 Monitoring and evaluation schemes shall be developed and maintained in consultation with these agencies to ensure that products under the OTOP Philippines conform to these standards;
+(c) Standards and Market Compliance where beneficiaries shall be trained and capacitated to observe standards and comply with the requirements of the DTI-Bureau of Philippine Standards (DTI-BPS), Food and Drug Administration (FDA), Department of Agriculture (DA) and the Intellectual Property Office of the Philippines (IPOPHL), and other concerned govenrment agencies. Monitoring and evaluation schemes shall be developed and maintained in consultation with these agencies to ensure that products under the OTOP Philippines conform to these standards;
 
 (d) Market Access and Product Promotion where beneficiaries shall receive support in market access and promotion of products across different platforms. These platforms may include multimedia advocacy campaigns, trade fairs, ad OTOP Philippines Hubs. The DTI, Philippine Information Agency (PIA), Department of Tourism (DOT), and Philippine International Trading Corporation (PITC) shall therefore implement a promotional campaign in local and international markets for OTOP Philippines products; and
 
@@ -155,7 +155,7 @@ There is hereby created the OTOP Local Program Office (OTOP-LPO) in each LGU whi
 
 Within one (1) year, the DTI, through the OTOP-PMO, shall develop a six (6)-year National OTOP Strategic Plan, hereinafter referred to as the Plan, in consultation with concerned stakeholders, which shall be validated and updated annually.
 
-The Plan, which shall be approved by the President of the Philippines, shall define the OTOP Program's annual and medium-term targets, as well as develop and implement programs and strategies to support the OTOP Program;s thrusts. The Plan shall also identify priority OTOP products and services, which shall be characterized by high value-added and have a high potential for attaining the objectives of this Act.ᇈWᑭHIL
+The Plan, which shall be approved by the President of the Philippines, shall define the OTOP Program's annual and medium-term targets, as well as develop and implement programs and strategies to support the OTOP Program;s thrusts. The Plan shall also identify priority OTOP products and services, which shall be characterized by high value-added and have a high potential for attaining the objectives of this Act.
 
 ## Section 12
 
@@ -179,7 +179,7 @@ _Implementing Rules and Regulations._ \- Within sixty (60) working days from the
 
 ## Section 15
 
-_Separability._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.⌊aшΡhi⌊
+_Separability._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 16
 

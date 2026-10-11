@@ -28,7 +28,7 @@ The widows and/or legitimate children of every officer or employee of the Govern
 
 ## Section 2
 
-Such sum as may be necessary to carry out the purposes of this Act is appropriated out of any funds in the National Treasury not otherwise appropriated.1âшphi1
+Such sum as may be necessary to carry out the purposes of this Act is appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 3
 

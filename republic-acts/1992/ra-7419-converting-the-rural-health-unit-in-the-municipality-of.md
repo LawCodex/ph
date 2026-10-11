@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The rural health unit in the municipality of Pontevedra, Province of Negros Occidental, is hereby converted into a five-bed capacity health infirmary, to be known as the Pontevedra Health Infirmary.1âшphi1
+The rural health unit in the municipality of Pontevedra, Province of Negros Occidental, is hereby converted into a five-bed capacity health infirmary, to be known as the Pontevedra Health Infirmary.
 
 ## Section 2
 

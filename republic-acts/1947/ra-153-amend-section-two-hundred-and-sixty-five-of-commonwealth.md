@@ -28,7 +28,7 @@ Section two hundred and sixty-five of Commonwealth Act Numbered Four hundred six
 
 "Sec. 265. _Charges on firewood cut in the public forest._ — On firewood cut in the forests and forest reserves, the following charges shall be collected:
 
-On bacauan, langaray, pototan, and tangal, per cubic meter, forty centavos.1â#x0448;phi1
+On bacauan, langaray, pototan, and tangal, per cubic meter, forty centavos.
 
 On other woods, per cubic meter, twenty centavos.
 

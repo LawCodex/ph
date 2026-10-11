@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby converted into a national school of arts and trades, to be known as the Sulu School of Arts and Trades.1âшphi1
+The Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby converted into a national school of arts and trades, to be known as the Sulu School of Arts and Trades.
 
 ## Section 2
 

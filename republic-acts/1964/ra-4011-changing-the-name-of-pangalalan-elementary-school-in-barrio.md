@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Pangalalan Elementary School in Barrio Pangalalan, Municipality of Sindangan, Province of Zamboanga del Norte, is hereby changed to Juan Bugarin Elementary School.1âшphi1
+The name of Pangalalan Elementary School in Barrio Pangalalan, Municipality of Sindangan, Province of Zamboanga del Norte, is hereby changed to Juan Bugarin Elementary School.
 
 ## Section 2
 

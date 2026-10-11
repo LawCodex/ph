@@ -296,7 +296,7 @@ Agencies shall ensure that a change management program is carried out to ensure 
 
 ## Section 18
 
-_Joint Congressional Oversight Committee on the Government Optimization Program._ \- There is hereby created an Oversight Committee to oversee, monitor, and evaluate the implementation of this Act.ℒαwρhi৷
+_Joint Congressional Oversight Committee on the Government Optimization Program._ \- There is hereby created an Oversight Committee to oversee, monitor, and evaluate the implementation of this Act.
 
 The Oversight Committee shall be composed of vie (5) members each from the Senate and the House of Representatives. This shall include the Chairpersons of the Senate Committees on Civil Service, Government Reorganization and Professional Regulation, and Finance, and the Chairperson of the House Committee on Government Reorganization, and Appropriations. The President of the Senate and the Speaker of the House of Representatives shall each designate the remaining three (3) members from the Senate and the House, respectively, one (1) of whom shall be from the minority.
 

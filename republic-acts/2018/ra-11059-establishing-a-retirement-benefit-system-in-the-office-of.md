@@ -77,7 +77,7 @@ _Automatic Increase._ \- All pension benefits of retired officials or employees 
 
 _Survivorship Benefits._ \- In case an Ombudsman official or employee covered by this Act dies during his or her retirement, the surviving legitimate spouse and dependent children of said official or employee shall be entitled to receive all the retirement benefits that the deceased was receiving or entitled to received all the retirement benefits that the deceased was receiving or entitled to receive. A "dependent" means a legitimate, illegitimate or legally-adopted child who is chiefly dependent on the said deceased Ombudsman official or employee if such dependent is not more than twenty-one (21) years of age, unmarried and not gainfully employed, or if such dependant regardless of age, is incapable of self-support because of mental pr physical defect. The said surviving legitimate spouse shall continue to received such retirement benefits during his or her lifetime or until he or she remarries:
 
-_Provided,_ That if the surviving spouse is receiving benefits under existing retirement laws, he or she shall only be entitled to the difference between the amount provided for in this Actand the benefits that he or she is receiving.1awp++i1
+_Provided,_ That if the surviving spouse is receiving benefits under existing retirement laws, he or she shall only be entitled to the difference between the amount provided for in this Actand the benefits that he or she is receiving.
 
 ## Section 8
 

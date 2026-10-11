@@ -26,7 +26,7 @@ The Auditor General is hereby authorized to reorganize with the approval of the 
 
 ## Section 2
 
-The reorganization herein authorized shall be done within the limits of the appropriation of the General Auditing Office as provided in the General Appropriation Act in force at the time of such reorganization. The Auditor General is, however, authorized to use savings from said appropriation to carry out the provisions of this Act: Provided, That the Deputy Auditor General shall receive an annual salary not exceeding twelve thousand pesos and each head of department and his assistant, not exceeding seven thousand two hundred pesos and six thousand pesos, respectively.1awphil@alf
+The reorganization herein authorized shall be done within the limits of the appropriation of the General Auditing Office as provided in the General Appropriation Act in force at the time of such reorganization. The Auditor General is, however, authorized to use savings from said appropriation to carry out the provisions of this Act: Provided, That the Deputy Auditor General shall receive an annual salary not exceeding twelve thousand pesos and each head of department and his assistant, not exceeding seven thousand two hundred pesos and six thousand pesos, respectively.
 
 ## Section 3
 
@@ -44,4 +44,4 @@ All laws or parts of laws which are or may be in conflict with any of the provis
 
 This Act shall take effect upon its approval.
 
-Approved: March 20, 19531awphil@alf
+Approved: March 20, 1953

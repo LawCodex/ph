@@ -36,7 +36,7 @@ Section 1 of Republic Act No. 9033 is hereby amended to read as follows:
 
 ## Section 2
 
-_Repealing Clause._ – All laws or parts of any law, orders, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or amended accordingly.1âwphi1
+_Repealing Clause._ – All laws or parts of any law, orders, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or amended accordingly.
 
 ## Section 3
 

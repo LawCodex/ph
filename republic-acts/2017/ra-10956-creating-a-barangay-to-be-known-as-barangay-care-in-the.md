@@ -47,7 +47,7 @@ On the Northeast (NE), along lines 108 to 114, by Tarlac City versus Municipalit
 
 On the North (N) and West (W), along lines 114 to 116, by San Jose Cadastre (PB-03-000060);
 
-On the Northeast (NE) and Northwest (NW), along lines 116 to 143 to the point of beginning by Barangay Sapang Maragul(PB-03-000061), all of Tarlac City.1âwphi1
+On the Northeast (NE) and Northwest (NW), along lines 116 to 143 to the point of beginning by Barangay Sapang Maragul(PB-03-000061), all of Tarlac City.
 
 The technical description of Barangay Care is as follows:
 
@@ -1355,7 +1355,7 @@ The technical description of Barangay Care is as follows:
 </tr>
 </table>
 
-Containing an area of 6,835,492 square meters, more or less.1âwphi1
+Containing an area of 6,835,492 square meters, more or less.
 
 ## Section 3
 

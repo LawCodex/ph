@@ -174,7 +174,7 @@ _General powers and duties of the Board._ \- Except as otherwise provided by law
 
 (r) To regulate the method of using steam engines and boilers, and all other motive powers other than marine or belonging to the Government of the Philippines; to provide for the inspection thereof and for a reasonable fee for such inspection, and to regulate and fix the fees for the licenses of the engineers engaged in operating the same.
 
-(s) To enact ordinances for the maintenance and preservation of peace and good morals.1â#x0448;phi1
+(s) To enact ordinances for the maintenance and preservation of peace and good morals.
 
 (t) To regulate and fix the license fees for the keeping of dogs, to authorize their impounding and destruction when running at-large contrary to ordinances, and to tax and regulate the keeping or training of fighting cocks.
 
@@ -713,7 +713,7 @@ _The Division of Purchase and Supply._ \- The Purchasing Agent shall purchase an
 
 _The Bureau of Education._ \- The Director of the Bureau of Education shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines and the division superintendent of schools for the province of Leyte shall have all the powers and duties in respect to the schools of the city as are vested in division superintendent in respect to schools of their divisions.
 
-A city school board of six members, two of whom shall be women and who shall serve without salary, shall be selected and removed in the same manner, and shall have the same powers and duties, as local school boards in the municipalities.1â#x0448;phi1
+A city school board of six members, two of whom shall be women and who shall serve without salary, shall be selected and removed in the same manner, and shall have the same powers and duties, as local school boards in the municipalities.
 
 The Municipal Board shall have the same powers in respect to the establishment of schools as are conferred by law on municipal councils.
 

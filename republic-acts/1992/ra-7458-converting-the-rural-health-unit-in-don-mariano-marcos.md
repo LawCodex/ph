@@ -31,7 +31,9 @@ The rural health unit in Don Mariano Marcos Avenue, Congressional Hills, Quezon 
 
 The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
-**Section 3. 1âшphi1** This Act shall take effect upon its approval.
+## Section 3
+
+This Act shall take effect upon its approval.
 
 Approved,
 

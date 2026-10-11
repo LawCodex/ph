@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Kalamansig Central Pilot School in Kalamansig, Sultan Kudarat, is hereby changed to Datu Guiabar Memorial School.1a⍵⍴h!1
+The name of the Kalamansig Central Pilot School in Kalamansig, Sultan Kudarat, is hereby changed to Datu Guiabar Memorial School.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The bed capacity of the Polillo Medicare Community Hospital in the Municipality 
 
 ## Section 2
 
-The municipal hospital shall be composed of compe-tent personnel as prescribed by the Department of Health.1âшphi1
+The municipal hospital shall be composed of compe-tent personnel as prescribed by the Department of Health.
 
 ## Section 3
 

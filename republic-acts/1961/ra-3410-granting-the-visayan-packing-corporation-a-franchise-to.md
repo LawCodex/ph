@@ -36,7 +36,7 @@ This grant and concession shall continue for a period of fifty years from the da
 
 ## Section 4
 
-The grantee shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this franchise is to secure to the grantee the right to construct, install, maintain and operate private fixed point-to-point and private coastal and private land based radio stations and radio mobile units in places within the Philippines as the interest of the corporation and of its trade and business may justify.1avvphi1
+The grantee shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this franchise is to secure to the grantee the right to construct, install, maintain and operate private fixed point-to-point and private coastal and private land based radio stations and radio mobile units in places within the Philippines as the interest of the corporation and of its trade and business may justify.
 
 ## Section 5
 
@@ -64,7 +64,7 @@ The grantee, its successors or assigns, is authorized to operate its private fix
 
 ## Section 11
 
-This franchise shall not be interpreted to mean as an exclusive grant of the privilege herein provided for.1âшphi1
+This franchise shall not be interpreted to mean as an exclusive grant of the privilege herein provided for.
 
 ## Section 12
 

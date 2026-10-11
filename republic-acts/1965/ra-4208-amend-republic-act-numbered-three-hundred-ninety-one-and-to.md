@@ -31,7 +31,7 @@ Section one of the Republic Act Numbered Three hundred ninety-one is hereby amen
 
 ## Section 2
 
-The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act.1âшphi1 Thereafter, the necessary sum for the purpose shall be included in the General Appropriations Act.
+The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act. Thereafter, the necessary sum for the purpose shall be included in the General Appropriations Act.
 
 ## Section 3
 

@@ -32,7 +32,7 @@ The sum of two hundred and fifty thousand pesos is hereby authorized to be appro
 
 ## Section 3
 
-The Board of Tourist and Travel Agency shall accord priority to this project in the allocation of its funds or tourist parks development.1âшphi1
+The Board of Tourist and Travel Agency shall accord priority to this project in the allocation of its funds or tourist parks development.
 
 ## Section 4
 

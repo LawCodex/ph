@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Uldogan in the Municipality of San Agustin, Province of Isabela, is changed to Laoag.1aшphi1
+The name of the barrio of Uldogan in the Municipality of San Agustin, Province of Isabela, is changed to Laoag.
 
 ## Section 2
 

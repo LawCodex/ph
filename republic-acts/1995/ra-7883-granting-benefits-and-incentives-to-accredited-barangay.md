@@ -32,7 +32,7 @@ _Short Title._ -This Act shall be known as the "Barangay Health Workers' Benefit
 
 ## Section 2
 
-_Statement of Policy._ -The State shall protect and promote the right to health of the people and to provide conditions for health empowerment, where each individual has access to information and services that will bring about health and well-being. the Primary Health Care Approach is recognized as the major strategy towards health empowerment, emphasizing the need to provide accessible and acceptable health services through participatory strategies such as health education, training of barangay health workers, community building and organizing. Towards this end, this Act shall provide incentives to communities and act as frontliners in the Primary Health Care Approach.1aшphi1
+_Statement of Policy._ -The State shall protect and promote the right to health of the people and to provide conditions for health empowerment, where each individual has access to information and services that will bring about health and well-being. the Primary Health Care Approach is recognized as the major strategy towards health empowerment, emphasizing the need to provide accessible and acceptable health services through participatory strategies such as health education, training of barangay health workers, community building and organizing. Towards this end, this Act shall provide incentives to communities and act as frontliners in the Primary Health Care Approach.
 
 The government and all its instrumentalities shall also recognize the rights of barangay health workers to organize themselves; to strengthen and systematize their services for their community; and to make a venue for sharing their experiences and for recommending policies and guidelines for the promotion, maintenance and advancement of their activities and services.
 
@@ -82,7 +82,7 @@ _Rules and Regulations._ \- the Department of Health, in cooperation with the De
 
 ## Section 9
 
-_Separability Clause._ \- If any provision of this Act is declared invalid, the remainder or any provision hereof not affected thereby shall remain in force and effect.1aшphi1
+_Separability Clause._ \- If any provision of this Act is declared invalid, the remainder or any provision hereof not affected thereby shall remain in force and effect.
 
 ## Section 10
 

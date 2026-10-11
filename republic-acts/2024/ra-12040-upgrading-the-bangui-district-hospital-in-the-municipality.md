@@ -41,7 +41,7 @@ The existing workforce of the Bangui District Hospital, which includes doctors, 
 
 ## Section 5
 
-The Provincial Government of Ilocos Norte shall provide the necessary funds to cover the maintenance and other operating expenses of the Bangui District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.ℒαwρhi৷
+The Provincial Government of Ilocos Norte shall provide the necessary funds to cover the maintenance and other operating expenses of the Bangui District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
 
 ## Section 6
 

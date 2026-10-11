@@ -36,7 +36,7 @@ To carry out the provisions of this Act there is appropriated out of any funds i
 | (c) Janitor Messenger | 2,440.00 |
 | (d) Sundry expenses | 4,000.00 |
 
-Thereafter, such sums as may be needed for the operation and maintenance of said branch office shall be included in the annual General Appropriations Act.1âшphi1
+Thereafter, such sums as may be needed for the operation and maintenance of said branch office shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -63,7 +63,7 @@ _Income Classification of Provinces, Cities, and Municipalities._ -
 
 (4) Fourth Class – Provinces that have obtained an average annual regular income of Five hundred million pesos (P500,000,000.00) or more, but not less than Seven hundred million pesos (P700,000,000.00); and
 
-(5) Fifth Class – Provinces that have obtained an average annual regular income of less than Five hundred million pesos (P500,000,000.00).1aшphi1
+(5) Fifth Class – Provinces that have obtained an average annual regular income of less than Five hundred million pesos (P500,000,000.00).
 
 (b) Classification of Cities – Cities shall be classified into five (5) classes, according to their income ranges and based on the average annual regular income for three (3) fiscal years preceding a general income reclassification. The classification shall be as follows:
 
@@ -147,7 +147,7 @@ _Transitory Provision._ \- An LGU whose average annual regular income falls belo
 
 ## Section 11
 
-_Implementing Rules and Regulations_ (IRR). - The DOF, in coordination with the Department of Budget and Management (DBM) and in consultation with the LGU Leagues, shall promulgate the necessary implementing rules and regulations within three (3) months from the effectivity of this Act. The IRR issued pursuant to this section shall take effect thirty (30) days after its publication in a newspaper of general circulation.1aшphi1
+_Implementing Rules and Regulations_ (IRR). - The DOF, in coordination with the Department of Budget and Management (DBM) and in consultation with the LGU Leagues, shall promulgate the necessary implementing rules and regulations within three (3) months from the effectivity of this Act. The IRR issued pursuant to this section shall take effect thirty (30) days after its publication in a newspaper of general circulation.
 
 ## Section 12
 

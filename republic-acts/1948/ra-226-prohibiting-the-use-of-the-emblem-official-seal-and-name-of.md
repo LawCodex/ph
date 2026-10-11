@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-It shall be unlawful for any person, association or corporation to use, directly or indirectly, the emblem, official seal and name of the United Nations, both in its full and in its abbreviated form, for commercial or business purposes.1awp++i1
+It shall be unlawful for any person, association or corporation to use, directly or indirectly, the emblem, official seal and name of the United Nations, both in its full and in its abbreviated form, for commercial or business purposes.
 
 ## Section 2
 

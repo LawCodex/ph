@@ -113,7 +113,7 @@ _Release of Funds_.—The Budget Commissioner and the National Treasurer of the 
 
 ## Section 3
 
-Any unexpended amount of the sums herein appropriated after January 31, 1973, or on the date final adjournment of the Constitutional Convention if said adjournment be earlier than January 31, 1973 shall automatically revert to the general funds of the government.1âшphi1
+Any unexpended amount of the sums herein appropriated after January 31, 1973, or on the date final adjournment of the Constitutional Convention if said adjournment be earlier than January 31, 1973 shall automatically revert to the general funds of the government.
 
 ## Section 4
 

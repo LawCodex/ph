@@ -63,6 +63,6 @@ The incumbent officials holding the positions affected by this Act shall receive
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 18, 1964.

@@ -79,13 +79,21 @@ The franchise granted to Angeles Electric Corporation, under Republic Act No. 23
 
 "SEC. 18. _Reportorial Requirement._ – The grantee shall submit an annual report of finances and operations to the Congress of the Philippines."
 
-**SEC. 2._Renewal/Extension of the Term of Franchise._** – The term of the franchise granted under Republic Act No. 2341, as amended, is hereby extended/renewed for a period of twenty-five (25) years from the date of effectivity of this Act. This franchise shall be deemed _ipso facto_ revoked in the event that the grantee fails to operate continuously for two years.
+## SEC. 2
 
-**SEC. 3._Acceptance and Compliance._** – Acceptance of the amendment and extension/renewal of the franchise shall be given in writing within sixty (60) days from the date of effectivity of this Act.
+_Renewal/Extension of the Term of Franchise._ – The term of the franchise granted under Republic Act No. 2341, as amended, is hereby extended/renewed for a period of twenty-five (25) years from the date of effectivity of this Act. This franchise shall be deemed _ipso facto_ revoked in the event that the grantee fails to operate continuously for two years.
 
-**SEC. 4._Repealing Clause._** – All laws, decrees, orders, resolutions, instructions and rules and regulations or parts thereof, which are inconsistent with this Act, are hereby deemed repealed or modified accordingly.
+## SEC. 3
 
-**SEC. 5._Effectivity Clause._** – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
+_Acceptance and Compliance._ – Acceptance of the amendment and extension/renewal of the franchise shall be given in writing within sixty (60) days from the date of effectivity of this Act.
+
+## SEC. 4
+
+_Repealing Clause._ – All laws, decrees, orders, resolutions, instructions and rules and regulations or parts thereof, which are inconsistent with this Act, are hereby deemed repealed or modified accordingly.
+
+## SEC. 5
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

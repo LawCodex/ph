@@ -193,7 +193,7 @@ Proper use of government motor vehicles,-The use of government motor vehicles by
 
 Use of more than one motor vehicle prohibited.-With the exception of the President, no government official or employee authorized to use any vehicle operated and maintained from the funds appropriated in this Act shall be allowed to use more than one such motor vehicle : PROVIDED, HOWEVER, That the Vice-President, the President of the Senate, and The Speaker of the House of Representatives may be allowed to use two motor vehicles each : AND PROVIDED, FINALLY, That no official who has been furnished motor transportation by any government corporation shall be allowed to use motor vehicle transportation operated and maintained from funds appropriated in this Act.
 
-The Auditor General is hereby empowered to issue rules and regulations for the proper implementation and enforcement of the provision hereof.1a⍵⍴h!1
+The Auditor General is hereby empowered to issue rules and regulations for the proper implementation and enforcement of the provision hereof.
 
 ## Section 18
 

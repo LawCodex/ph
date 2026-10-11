@@ -29,7 +29,7 @@ The existing Land Transportation Office (LTO) extension office in the Municipali
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office, the initial funding of which shall be charged against the current year's appropriation of the LTO extension office in the Municipality of Gattaran, Province of Cagayan.ℒαwρhi৷ Thereafter, such sum as may be necessary for the continued operation of the Gattaran LTO District Office shall be included in the annual General Appropriations Act.
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office, the initial funding of which shall be charged against the current year's appropriation of the LTO extension office in the Municipality of Gattaran, Province of Cagayan. Thereafter, such sum as may be necessary for the continued operation of the Gattaran LTO District Office shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

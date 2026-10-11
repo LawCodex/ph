@@ -916,6 +916,6 @@ _Separability Clause_.—If any part or section of this Charter should be declar
 
 ### Section 110
 
-_Effectivity_.—This Act shall take effect on January first, nineteen hundred seventy.1a⍵⍴h!1
+_Effectivity_.—This Act shall take effect on January first, nineteen hundred seventy.
 
 Approved, June 21, 1969.

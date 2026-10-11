@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrio of Malay with all the surrounding barrios is hereby separated from the municipality of Buruanga, Province of Capiz, and created into a new and separate municipality to be known as the municipality of "Malay".7!ᕼdMᗄ7
+The barrio of Malay with all the surrounding barrios is hereby separated from the municipality of Buruanga, Province of Capiz, and created into a new and separate municipality to be known as the municipality of "Malay".
 
 ## Section 2
 

@@ -47,7 +47,7 @@ The last paragraph of section twelve of Commonwealth Act Numbered Eighty-three i
 
 "**Section 12.** Revocation of registration of securities and of license to sell.-* * *
 
-"Before such order is made final, the issuer or dealer shall be entitled to a hearing; and such order may, be appealed to the Supreme Court in the manner provided in this Act.1a⍵⍴h!1
+"Before such order is made final, the issuer or dealer shall be entitled to a hearing; and such order may, be appealed to the Supreme Court in the manner provided in this Act.
 
 ## Section 4
 

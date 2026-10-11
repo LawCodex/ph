@@ -34,7 +34,7 @@ _Conversion into a National High School._ — The Payatan High School in Baranga
 
 ## Section 2
 
-_Transfer of Assets and Liabilities_ — All personnel, assets, liabilities and records of the Payatan High School are hereby transferred to and absorbed by the Payatan National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities_ — All personnel, assets, liabilities and records of the Payatan High School are hereby transferred to and absorbed by the Payatan National High School.
 
 ## Section 3
 

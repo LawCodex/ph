@@ -73,6 +73,6 @@ This temporary permit shall be subject to amendment, alteration, or repeal by th
 
 ## Section 13
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 22, 1957.

@@ -36,6 +36,6 @@ _Submission of reports._ -Within thirty days from the closing of the conference 
 
 ## Section 4
 
-_Effective date._ -This Act shall take effect upon its approval.1aшphi1
+_Effective date._ -This Act shall take effect upon its approval.
 
 Approved, August 14, 1952.

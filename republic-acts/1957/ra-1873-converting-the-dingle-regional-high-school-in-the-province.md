@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Dingle Regional High School in the Province of Iloilo is hereby converted into an agricultural-industrial school, to be known as the Dingle Agricultural-Industrial School.1âшphi1
+The Dingle Regional High School in the Province of Iloilo is hereby converted into an agricultural-industrial school, to be known as the Dingle Agricultural-Industrial School.
 
 ## Section 2
 

@@ -29,6 +29,6 @@ _Appropriation of funds._ — The following sums or so much thereof as may be ne
 
 ## Section 2
 
-_Effective date._ — This Act shall take effect on July first, nineteen hundred and sixty-seven, unless otherwise provided.1avvphi1
+_Effective date._ — This Act shall take effect on July first, nineteen hundred and sixty-seven, unless otherwise provided.
 
 Approved: August 4, 1967.

@@ -71,7 +71,7 @@ _Bond._ \- The grantee shall file a bond issued in favor of the NTC which shall 
 
 ## Section 9
 
-_Self-Regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its station: Provided, That the grantee, during any broadcast, shall cut off from air the speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.lawphil.net
+_Self-Regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its station: Provided, That the grantee, during any broadcast, shall cut off from air the speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 10
 

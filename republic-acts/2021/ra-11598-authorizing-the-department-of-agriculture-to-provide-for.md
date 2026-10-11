@@ -44,7 +44,7 @@ The BOC and the DA shall, at the end of each year, submit separate reports to Co
 
 ## Section 4
 
-_Funding._ – The source of funds for the annual direct cash assistance to farmers shall be the excess Ten billion pesos (P10B) of the annual tariff revenues from rice importation pursuant to Republic Act No. 11203.ℒαwρhi৷
+_Funding._ – The source of funds for the annual direct cash assistance to farmers shall be the excess Ten billion pesos (P10B) of the annual tariff revenues from rice importation pursuant to Republic Act No. 11203.
 
 ## Section 5
 

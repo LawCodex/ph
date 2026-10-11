@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Siargao Community Hospital in the Municipality of Siargao, Province of Surigao del Norte, is hereby converted to a general hospital to be known as the Siargao General Hospital.1âшphi1
+The Siargao Community Hospital in the Municipality of Siargao, Province of Surigao del Norte, is hereby converted to a general hospital to be known as the Siargao General Hospital.
 
 ## Section 2
 

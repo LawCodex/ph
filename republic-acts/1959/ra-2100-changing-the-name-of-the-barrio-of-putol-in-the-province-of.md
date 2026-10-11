@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Putol in the Municipality of Nagcarlan, Province of Laguna, is changed to Malaya.1aшphi1
+The name of the barrio of Putol in the Municipality of Nagcarlan, Province of Laguna, is changed to Malaya.
 
 ## Section 2
 

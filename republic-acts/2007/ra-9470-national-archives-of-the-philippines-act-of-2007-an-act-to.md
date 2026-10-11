@@ -30,9 +30,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 ## ARTICLE I — GENERAL PROVISIONS
 
-**SECTION 1._Short Title._** \- This Act shall be known as the "**National Archives of the Philippines Act of 2007** ".
+### SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It is the policy of the State to protect, conserve, promote and popularize the nation's historical and cultural heritage and resources.
+_Short Title._ \- This Act shall be known as the "**National Archives of the Philippines Act of 2007** ".
+
+### SEC. 2
+
+_Declaration of Policy._ \- It is the policy of the State to protect, conserve, promote and popularize the nation's historical and cultural heritage and resources.
 
 The State shall pursue, conserve and promote the Filipino cultural heritage and resources including the documentary records of Filipino culture, history and governance.
 
@@ -40,9 +44,13 @@ The State shall give utmost priority for the safeguard, protection and preservat
 
 Towards this end, all public records with enduring value, held by government offices, including, but not limited to, all branches of government, constitutional offices, local government units (LGUs) , government-owned and -controlled corporations (GOCCs) , state universities and colleges, Philippine embassies, consulates and other Philippine offices abroad shall be transferred to a permanent government repository for proper management, control and regulation of record disposition.
 
-**SEC. 3._Scope._** \- This Act shall cover all public records with archival value, held by either government offices or private collections,, and (shall also cover archival and records management programs and activities in all branches of government, whether national or local, constitutional offices, GOCCs, government financial institutions, state universities and colleges, Philippine embassies, consulates and other Philippine offices abroad.
+### SEC. 3
 
-**SEC. 4._Definition of Terms._** \- For purposes of this Act, the following definitions shall hereby apply:
+_Scope._ \- This Act shall cover all public records with archival value, held by either government offices or private collections,, and (shall also cover archival and records management programs and activities in all branches of government, whether national or local, constitutional offices, GOCCs, government financial institutions, state universities and colleges, Philippine embassies, consulates and other Philippine offices abroad.
+
+### SEC. 4
+
+_Definition of Terms._ \- For purposes of this Act, the following definitions shall hereby apply:
 
 (a) "Agency head" refers to the person responsible for the performance of a government office and/or the person responsible for, the performance of the LGU, such as the chief executive elected under the Local Government Code of 1991.
 
@@ -130,7 +138,9 @@ Towards this end, all public records with enduring value, held by government off
 
 ## ARTICLE II — PURPOSE, OTHER PRELIMINARY PROVISIONS, AND KEY ADMINISTRATIVE PROVISIONS
 
-**SEC. 5._Objectives._** \- This Act is primarily aimed at:
+### SEC. 5
+
+_Objectives._ \- This Act is primarily aimed at:
 
 (a) Strengthening the existing system of management and administration of government archival records;
 
@@ -144,7 +154,9 @@ Towards this end, all public records with enduring value, held by government off
 
 (f) Supporting the safekeeping of private records.
 
-**SEC. 6._Establishment, Mandate and Functions._** \- (a) There is hereby established a National Archives of the Philippines where public archives shall be stored, preserved, conserved and made available to the public. The National Archives of the Philippines shall be attached to the National Commission for Culture and the Arts (NCCA) for budgetary purposes.
+### SEC. 6
+
+_Establishment, Mandate and Functions._ \- (a) There is hereby established a National Archives of the Philippines where public archives shall be stored, preserved, conserved and made available to the public. The National Archives of the Philippines shall be attached to the National Commission for Culture and the Arts (NCCA) for budgetary purposes.
 
 (b) The National Archives of the Philippines shall be primarily responsible for the implementation of the objectives and provisions of this Act. It shall plan, develop, prescribe, disseminate and enforce policies, rules and regulations and coordinate government-wide programs governing the creation, general protection, use, storage and disposition of public records including the acquisition, storage and preservation of public archives and providing facilities for reference, research or other purposes.
 
@@ -192,7 +204,9 @@ Towards this end, all public records with enduring value, held by government off
 
 (14) Publish any public archives or any part of the archives subject to the terms and conditions on which they are obtained and subject to copyright laws.
 
-**SEC. 7._Officials and Staff._** \- (a) The National Archives of the Philippines shall be headed by an executive director with a rank equivalent to a bureau director and who shall be assisted by two deputy executive directors who shall be responsible for archives administration and records management.
+### SEC. 7
+
+_Officials and Staff._ \- (a) The National Archives of the Philippines shall be headed by an executive director with a rank equivalent to a bureau director and who shall be assisted by two deputy executive directors who shall be responsible for archives administration and records management.
 
 The executive director shall be appointed by the President. The incumbent director and assistant director of the Records Management and Archives Office shall continue to serve in their respective capacity as the director and assistant director of the herein established National Archives of the Philippines for one year after the effectivity of this Act or until the completion of their respective terms of office or unless such terms of office are extended by the President: _Provided_ , That such extension shall not exceed the five-year term of office allowed under this Act.
 
@@ -200,9 +214,13 @@ The executive director shall have a fixed term of five years. In case of vacancy
 
 (b) The National Archives of the Philippines shall maintain the existing staffing pattern provided under Executive Order No. 285 which provides that the executive director shall within a year after the enactment of this Act, recommend the reorganization and restructuring of the National Archives of he Philippines needed to carry out the provisions of this Act subject to the rules and regulations of the Department of Budget and Management (DBM) and the Civil Service Commission (CSC) .
 
-**SEC. 8._Qualification and/or Appointment of Executive Director and Deputy Executive Directors._** \- No person shall be appointed or designated as executive director and deputy executive directors of the National Archives of the Philippines unless he/she possesses the following minimum qualifications: a Filipino citizen, of good moral character, and of unquestionable integrity, a holder of a master's degree in history, political science, public administration/government management, library science, information management or similar fields of study and ten (10) years of actual experience in records management and archives administration in the case of the executive director and five years experience in the case of the deputy executive directors.
+### SEC. 8
 
-**SEC. 9._Functions._** \- The executive director shall have the following functions:
+_Qualification and/or Appointment of Executive Director and Deputy Executive Directors._ \- No person shall be appointed or designated as executive director and deputy executive directors of the National Archives of the Philippines unless he/she possesses the following minimum qualifications: a Filipino citizen, of good moral character, and of unquestionable integrity, a holder of a master's degree in history, political science, public administration/government management, library science, information management or similar fields of study and ten (10) years of actual experience in records management and archives administration in the case of the executive director and five years experience in the case of the deputy executive directors.
+
+### SEC. 9
+
+_Functions._ \- The executive director shall have the following functions:
 
 (a) Establish policies, standards and guidelines related to public records management and archives administration programs, including the publication of guides, inventories and finding aids required to disseminate information on the holdings of the National Archives;
 
@@ -240,13 +258,17 @@ The executive director shall have a fixed term of five years. In case of vacancy
 
 (m) Perform such other functions as may be necessary.
 
-**SEC. 10._Power of Review._** \- (a) The executive director shall, from time to time, review or cause the review of any classified records which are in the custody and under the control of the National Archives.
+### SEC. 10
+
+_Power of Review._ \- (a) The executive director shall, from time to time, review or cause the review of any classified records which are in the custody and under the control of the National Archives.
 
 (b) For the purpose of subsection (a) and subject to subsection (c) , the executive director shall have the power to inspect the contents of any classified records and declassify those classified records which are in the custody and under the control of the National Archives.
 
 (c) The review and reclassification or declassification of any classified records shall be carried out in accordance with existing laws, issuances and regulations on classified documents.
 
-**SEC. 11._Power to Delegate._** \- (a) The executive director may, by an instrument in writing, delegate and/or appoint an acting director designated as officer-in-charge whenever he/she shall be unable to perform the duties of his/her office due to illness, absence or other cause, and in such case the person so appointed may perform all the duties imposed on the executive director by law until such temporary designation is deemed revoked.
+### SEC. 11
+
+_Power to Delegate._ \- (a) The executive director may, by an instrument in writing, delegate and/or appoint an acting director designated as officer-in-charge whenever he/she shall be unable to perform the duties of his/her office due to illness, absence or other cause, and in such case the person so appointed may perform all the duties imposed on the executive director by law until such temporary designation is deemed revoked.
 
 Such power to delegate shall be subject to the provision of Section 40, Chapter 8, Book IV of Executive Order No. 292.
 
@@ -254,7 +276,9 @@ Such power to delegate shall be subject to the provision of Section 40, Chapter 
 
 (c) A person purporting to act pursuant to a delegation made under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegations.
 
-**SEC. 12._Appointment of a Consultant._** \- The executive director may, from time to time, as and when necessary, appoint any person who possesses the ability and expertise to carry out archival research and documentation work.
+### SEC. 12
+
+_Appointment of a Consultant._ \- The executive director may, from time to time, as and when necessary, appoint any person who possesses the ability and expertise to carry out archival research and documentation work.
 
 The term of appointment of a consultant shall be prescribed in a contract of service.
 
@@ -268,11 +292,17 @@ The functions of a consultant are as follows:
 
 ## ARTICLE III — MANAGEMENT OF PUBLIC RECORDS
 
-**SEC. 13._Establishment of Archives and Records Offices/Limits._** -All government offices shall each establish their archives and records office/unit in coordination with the DBM and the National Archives from their organic personnel within a year from the date of effectivity of this Act. The records officer or an archivist of a government office shall head the said archives and records office/unit.
+### SEC. 13
 
-**SEC. 14._System of Registration and Accreditation._** \- Pursuant to the provisions of this Act, the National Archives of the Philippines shall institute a comprehensive program for the registration and accreditation of various public archives nationwide. Such system of registration and accreditation shall include among others, the mechanism for updating public archives of recent methods, techniques and procedures in records management and the annual reportorial requirements of their archival holdings. Towards this end, the National Archives of the Philippines shall conduct an archival audit consistent with the provision of Section 34 hereof.
+_Establishment of Archives and Records Offices/Limits._ -All government offices shall each establish their archives and records office/unit in coordination with the DBM and the National Archives from their organic personnel within a year from the date of effectivity of this Act. The records officer or an archivist of a government office shall head the said archives and records office/unit.
 
-**SEC. 15._Inventory of Public Records._** \- All government offices shall regularly conduct an inventory of their public records and shaI1 be mandated to keep the following data in their respective registry:
+### SEC. 14
+
+_System of Registration and Accreditation._ \- Pursuant to the provisions of this Act, the National Archives of the Philippines shall institute a comprehensive program for the registration and accreditation of various public archives nationwide. Such system of registration and accreditation shall include among others, the mechanism for updating public archives of recent methods, techniques and procedures in records management and the annual reportorial requirements of their archival holdings. Towards this end, the National Archives of the Philippines shall conduct an archival audit consistent with the provision of Section 34 hereof.
+
+### SEC. 15
+
+_Inventory of Public Records._ \- All government offices shall regularly conduct an inventory of their public records and shaI1 be mandated to keep the following data in their respective registry:
 
 (a) All public records under its custody;
 
@@ -294,13 +324,21 @@ The functions of a consultant are as follows:
 
 Heads of all government departments, bureaus, agencies and instrumentalities concerned shall endeavor and ensure the full public accessibility of said registry.
 
-**SEC. 16._Agency Records Disposition Schedule._** \- All government offices, including GOCCs shall prepare and submit a records disposition schedule in the prescribed form, which upon approval by the executive director shall govern the disposition of all the records of that government office.
+### SEC. 16
 
-**SEC. 17._General Records Disposition Schedule._** \- The National Archives shall develop a general records disposition schedule that shall prescribe the disposal of public records common to all government offices.
+_Agency Records Disposition Schedule._ \- All government offices, including GOCCs shall prepare and submit a records disposition schedule in the prescribed form, which upon approval by the executive director shall govern the disposition of all the records of that government office.
 
-**SEC. 18._Disposal of Public Records._** \- No government department, bureau, agency and instrumentality shall dispose of, destroy or authorize the disposal or destruction of any public records, which are in the custody or under its control except with the prior written authority of the executive director.
+### SEC. 17
 
-**SEC. 19._Authority for the Disposition of Public Records._** \- (a) The executive director shall authorize in writing the disposition of a public record other than those referred hereunder:
+_General Records Disposition Schedule._ \- The National Archives shall develop a general records disposition schedule that shall prescribe the disposal of public records common to all government offices.
+
+### SEC. 18
+
+_Disposal of Public Records._ \- No government department, bureau, agency and instrumentality shall dispose of, destroy or authorize the disposal or destruction of any public records, which are in the custody or under its control except with the prior written authority of the executive director.
+
+### SEC. 19
+
+_Authority for the Disposition of Public Records._ \- (a) The executive director shall authorize in writing the disposition of a public record other than those referred hereunder:
 
 (1) Transferring control of the public record to another government office;
 
@@ -318,7 +356,9 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 (3) The place where additional information may be obtained on the public record concerned and the person to whom any comments may be sent.
 
-**SEC. 20._Transfer of Public Records._** \- This section shall apply to all public records regardless of whether they were taken possession of before or after the effectivity of this Act.
+### SEC. 20
+
+_Transfer of Public Records._ \- This section shall apply to all public records regardless of whether they were taken possession of before or after the effectivity of this Act.
 
 (a) Heads of government offices shall cause the transfer of the following public records under their control and custody, to the control and custody of the National Archives:
 
@@ -342,7 +382,9 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 (2) A public record, which is demanded, need not be surrendered if the head of the government office has permitted the person referred to in the immediately preceding subsection to retain possession of the record.
 
-**SEC. 21._Deferred Transfers of Public Records._** \- (a) The requirement to transfer public records under Section 20(a) does not apply to the following:
+### SEC. 21
+
+_Deferred Transfers of Public Records._ \- (a) The requirement to transfer public records under Section 20(a) does not apply to the following:
 
 (1) Public records whose disposition are under or part of specific acts, laws or regulations;
 
@@ -362,7 +404,9 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 (d) Every deferred transfer under this section shall be noted in the Registry of Deferred Transfers, in accordance with Section 15(e) .
 
-**SEC. 22._Regional Archives, Records Center and Agency Records Center, Establishment._** -Pursuant to the objectives of this Act, the following may be established, maintained and operated by the National Archives:
+### SEC. 22
+
+_Regional Archives, Records Center and Agency Records Center, Establishment._ -Pursuant to the objectives of this Act, the following may be established, maintained and operated by the National Archives:
 
 (1) Regional Archives - They shall be responsible for the storage, processing, servicing and preservation of public archives of government offices in a region or regions.
 
@@ -370,7 +414,9 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 (3) Agency Records Centers - To be managed and operated by each government office concerned, they shall be responsible for the maintenance and preservation of public records under the custody and control of each government office.
 
-**SEC. 23._Protected Records of Local Governments._** \- (a) The executive director may, by notice in the Official Gazette made after consultation with any local government concerned, declare that a local government record is a protected record for purposes of this Act.
+### SEC. 23
+
+_Protected Records of Local Governments._ \- (a) The executive director may, by notice in the Official Gazette made after consultation with any local government concerned, declare that a local government record is a protected record for purposes of this Act.
 
 (b) An LGU shall provide for the adequate protection and preservation of a protected record it holds, in accordance with any applicable standards or instructions issued by the executive director.
 
@@ -388,7 +434,9 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 (2) Authorize the disposal of the protected record identified under subsection (c) (2) .
 
-**SEC. 24. Approvals of Repositories.** \- (a) The executive director may:
+### SEC. 24
+
+Approvals of Repositories. \- (a) The executive director may:
 
 (1) Bestow upon an appropriate archives, such as a museum, a library, another archive or a local government repository, as an approved repository where public archives may be deposited for safekeeping; and
 
@@ -406,9 +454,13 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 ## ARTICLE IV — STANDARDS, INSPECTION, REPORTING AND AUDIT
 
-**SEC. 25._Effectivity of Standards._** \- All standards issued by the executive director shall be published in the Official Gazette or in a newspaper of general circulation not later than ninety (90) days before its effectivity. In the absence of such required publication, the National Archives shall deem it not effective.
+### SEC. 25
 
-**SEC. 26._Inspection Powers._** \- The executive director may, after giving reasonable notice to a government office, inspect the system and procedure of maintaining, including the storage or condition, of such public records that are under the possession, custody or control of that office: _Provided, however_ , That the executive director is prohibited from exercising such power to inspect in cases where public records:
+_Effectivity of Standards._ \- All standards issued by the executive director shall be published in the Official Gazette or in a newspaper of general circulation not later than ninety (90) days before its effectivity. In the absence of such required publication, the National Archives shall deem it not effective.
+
+### SEC. 26
+
+_Inspection Powers._ \- The executive director may, after giving reasonable notice to a government office, inspect the system and procedure of maintaining, including the storage or condition, of such public records that are under the possession, custody or control of that office: _Provided, however_ , That the executive director is prohibited from exercising such power to inspect in cases where public records:
 
 (1) Carry security classifications; and
 
@@ -416,21 +468,29 @@ Heads of all government departments, bureaus, agencies and instrumentalities con
 
 The provision of this section applies, with the necessary modifications, to local government records and local government archives.
 
-**SEC. 27._Direction to Report to the Executive Director._** \- The executive director may give notice in writing directing the head of a government office or of an approved repository to report to the executive director or to any other person on:
+### SEC. 27
+
+_Direction to Report to the Executive Director._ \- The executive director may give notice in writing directing the head of a government office or of an approved repository to report to the executive director or to any other person on:
 
 (1) Any specified aspect of its record keeping practice; or
 
 (2) The public records that it controls or, in the case of an approved repository, has possession of.
 
-**SEC. 28._Annual Report on Record Keeping._** \- The executive director shall make an annual report to the President on the state of record keeping within government offices. Such report shall be included in the annual report given to the President where the same shall be furnished to the Congress.
+### SEC. 28
 
-**SEC. 29._Records Management Audit._** \- The executive director shall conduct a periodic inspection of the records holdings of the National Archives and of other government offices, whether national or local. All heads of each government office, whether national or local, shall have the duty to grant access to all of its records for audit purposes. Records found not included in above-said office's records disposition schedule shall be entered in Form 2 for approval of the National Archives.
+_Annual Report on Record Keeping._ \- The executive director shall make an annual report to the President on the state of record keeping within government offices. Such report shall be included in the annual report given to the President where the same shall be furnished to the Congress.
+
+### SEC. 29
+
+_Records Management Audit._ \- The executive director shall conduct a periodic inspection of the records holdings of the National Archives and of other government offices, whether national or local. All heads of each government office, whether national or local, shall have the duty to grant access to all of its records for audit purposes. Records found not included in above-said office's records disposition schedule shall be entered in Form 2 for approval of the National Archives.
 
 Such audit shall be conducted after five years from the date of effectivity of this Act and thereafter.
 
 ## ARTICLE V — ADMINISTRATION OF PUBLIC ARCHlVES
 
-**SEC. 30._Public Access, Determination of Access Status as Open or Restricted._** \- When public records have been in existence for thirty (30) years or more are about to be transferred to the custody and control of the executive director under Section 20, the head of the controlling government office shall, in accordance with this Section and Section 31 hereof, classify the records as either:
+### SEC. 30
+
+_Public Access, Determination of Access Status as Open or Restricted._ \- When public records have been in existence for thirty (30) years or more are about to be transferred to the custody and control of the executive director under Section 20, the head of the controlling government office shall, in accordance with this Section and Section 31 hereof, classify the records as either:
 
 (1) Open access records; or
 
@@ -438,7 +498,9 @@ Such audit shall be conducted after five years from the date of effectivity of t
 
 The head of a controlling government office may, at any time, change the classification of a public record, referred to in accordance with Section 25.
 
-**SEC. 31._Grounds for Determining Access Status._** \- (a) In classifying the access status of a public record under Section 30, the head of the controlling government office shall consider existing rules and regulations on classified records.
+### SEC. 31
+
+_Grounds for Determining Access Status._ \- (a) In classifying the access status of a public record under Section 30, the head of the controlling government office shall consider existing rules and regulations on classified records.
 
 (b) If there are no good reasons to restrict public access under subsection (a) , or if no legal impediment exists that requires a public record to be withheld from public access, the head of the controlling government office shall classify the record as an open access record.
 
@@ -454,7 +516,9 @@ The head of a controlling government office may, at any time, change the classif
 
 (h) Every controlling government office is responsible for dealing with requests for official and personal information under the existing laws and regulations on access to classified matters.
 
-**SEC. 32._Access Status of Local Government Records._** \- (a) When a local government record becomes a local government archive, the head of the local government shall classify it as either:
+### SEC. 32
+
+_Access Status of Local Government Records._ \- (a) When a local government record becomes a local government archive, the head of the local government shall classify it as either:
 
 (1) An open access record; or
 
@@ -462,7 +526,9 @@ The head of a controlling government office may, at any time, change the classif
 
 (b) The head of a local government may, at any time, change the classification of a local government record.
 
-**SEC. 33._Grounds for Determining Access Status of Local Government Records._** \- (a) In classifying the access status of a local government record, the head of the controlling local government shall consider the following:
+### SEC. 33
+
+_Grounds for Determining Access Status of Local Government Records._ \- (a) In classifying the access status of a local government record, the head of the controlling local government shall consider the following:
 
 (1) There are good reasons to restrict public access to the local government record, having regard to any relevant standard or advice issued by the executive director; or
 
@@ -478,53 +544,87 @@ The head of a controlling government office may, at any time, change the classif
 
 (f) A local government record, subject to a restriction under subsection (c) , becomes an open access record on the withdrawal of the restriction.
 
-**SEC. 34._Public Inspections of Open Access Records._** \- Unless this Act provides otherwise, an open access record shall be made available for inspection by the public as soon as it is reasonably practicable after a request to inspect the record is made to the government office, the LGU, the approved repository, or the National Archives, whichever has possession of the open access record.
+### SEC. 34
 
-**SEC. 35._Publication or Copying of Public Archives._ **\- The executive director may, subject to condition that he/she deems appropriate, authorize, in writing, the publication or replication of a public archive that is an open access record.
+_Public Inspections of Open Access Records._ \- Unless this Act provides otherwise, an open access record shall be made available for inspection by the public as soon as it is reasonably practicable after a request to inspect the record is made to the government office, the LGU, the approved repository, or the National Archives, whichever has possession of the open access record.
 
-**SEC. 36._Prohibition on Public Access or Replication._** \- Accessing or replicating a public archive or protected record which is under the control and custody of the National Archives shall be deemed prohibited. Such prohibition on public access shall be noted in the Public Access Registry, in accordance with Section 15(e) (2) of this Act.
+### SEC. 35
 
-**SEC. 37._Restricted Access Records._** \- The period for which public access to a public record may be restricted under Section 30, may upon the written request of the executive director, be reviewed after the expiry of ten (10) years from: the date that the restriction is recorded in the Public Access Registry: _Provided_ , That before its expiry, it may be extended for further periods as specified by the head of the controlling government office.
+_Publication or Copying of Public Archives._ \- The executive director may, subject to condition that he/she deems appropriate, authorize, in writing, the publication or replication of a public archive that is an open access record.
+
+### SEC. 36
+
+_Prohibition on Public Access or Replication._ \- Accessing or replicating a public archive or protected record which is under the control and custody of the National Archives shall be deemed prohibited. Such prohibition on public access shall be noted in the Public Access Registry, in accordance with Section 15(e) (2) of this Act.
+
+### SEC. 37
+
+_Restricted Access Records._ \- The period for which public access to a public record may be restricted under Section 30, may upon the written request of the executive director, be reviewed after the expiry of ten (10) years from: the date that the restriction is recorded in the Public Access Registry: _Provided_ , That before its expiry, it may be extended for further periods as specified by the head of the controlling government office.
 
 ## ARTICLE VI — MISCELLANEOUS PROVISIONS
 
-**SEC. 38._Abolition and Transfer._** \- The Records Management and Archives Office is hereby abolished, all its assets, fixed and movable, and all contracts, records and documents relative to its operation are hereby transferred to the National Archives.
+### SEC. 38
+
+_Abolition and Transfer._ \- The Records Management and Archives Office is hereby abolished, all its assets, fixed and movable, and all contracts, records and documents relative to its operation are hereby transferred to the National Archives.
 
 All agreements and contracts entered into by the Records Management and Archives Office shall remain in full force and effect unless otherwise terminated, modified or amended by the National Archives of the Philippines.
 
 Officials and employees of the Records Management and Archives Office shall be absorbed by the National Archives on the basis of merit and fitness: _Provided_ , That officers and employees who shall be separated from the service as a result of the abolition hereof shall receive retirement and other benefits to which they are entitled under existing laws.
 
-**SEC. 39._Reorganization._** \- The executive director shall have the authority to reorganize the structure of the National Archives of the Philippines, including its staffing pattern in order to carry out its functions.
+### SEC. 39
+
+_Reorganization._ \- The executive director shall have the authority to reorganize the structure of the National Archives of the Philippines, including its staffing pattern in order to carry out its functions.
 
 Incumbents in the leadership structure of the existing Records Management and Archives Office shall automatically be upgraded to their analogous positions. With respect to the rest of the personnel, they shall be extended automatic reappointment except those who opt to avail of an early retirement scheme.
 
-**SEC. 40._Offenses._** \- A person who, willfully or negligently, damages a public record or disposes of or destroys a public record other than in accordance with the provisions of this Act or contravenes or fails to comply with any provision of this Act or any regulations made under this Act shall be deemed to have committed an offense.
+### SEC. 40
 
-**SEC. 41._Penalties for Violations._ **\- (a) Any public officer committing any of the unlawful acts or omissions mandated under this Act shall be punished by a fine of not less than Five hundred thousand pesos (P500,000.00) but not exceeding One million pesos (Pl,000,000.00) or be imprisoned for not less than five years but not more than fifteen (15) years and/or both fine and imprisonment at the discretion of the court without prejudice to the filing of administrative charges that would result to such public officer's perpetual disqualification from public office, and forfeiture, in favor of the government, of his salary and other lawful income.
+_Offenses._ \- A person who, willfully or negligently, damages a public record or disposes of or destroys a public record other than in accordance with the provisions of this Act or contravenes or fails to comply with any provision of this Act or any regulations made under this Act shall be deemed to have committed an offense.
+
+### SEC. 41
+
+_Penalties for Violations._ \- (a) Any public officer committing any of the unlawful acts or omissions mandated under this Act shall be punished by a fine of not less than Five hundred thousand pesos (P500,000.00) but not exceeding One million pesos (Pl,000,000.00) or be imprisoned for not less than five years but not more than fifteen (15) years and/or both fine and imprisonment at the discretion of the court without prejudice to the filing of administrative charges that would result to such public officer's perpetual disqualification from public office, and forfeiture, in favor of the government, of his salary and other lawful income.
 
 (b) The violation of the provision of Section 44 proven in a proper administrative proceeding shall be sufficient cause for removal or dismissal of a public officer, even if no criminal prosecution is instituted against him.
 
 (c) A person convicted of an offense under Section 44 may, in addition to any penalty imposed for violation, be prohibited by order of the court from having access to the National Archives for any period that the court deems appropriate.
 
-**SEC. 42._Competent Court._** \- Until otherwise provided by law, all prosecutions under this Act shall be within the original jurisdiction of the proper regional trial court.
+### SEC. 42
 
-**SEC. 43._Prescription of Offenses._** \- AI1 offenses punishable under this Act shall prescribe in twenty-five (25) years.
+_Competent Court._ \- Until otherwise provided by law, all prosecutions under this Act shall be within the original jurisdiction of the proper regional trial court.
 
-**SEC. 44._Termination of Office._** \- No public officer shall be allowed to resign or retire pending an investigation, criminal or administrative, or pending a prosecution against him, for any offense under this Act or under the relevant provisions of the Revised Penal Code.
+### SEC. 43
 
-**SEC. 45._Suspension and Loss of Benefits._** \- Any public officer against whom any criminal prosecution under a valid information under this Act or under the relevant provisions of the Revised Penal Code is pending in court shall be suspended from office. Should he/she be convicted by final judgment, he/she shall lose all retirement or gratuity benefits under any law, but if he/she is acquitted, he/she shall be entitled to reinstatement and to the salaries and benefits which he/she failed to receive during suspension, unless in the meantime administrative proceedings have been filed against him/her.
+_Prescription of Offenses._ \- AI1 offenses punishable under this Act shall prescribe in twenty-five (25) years.
 
-**SEC. 46._Permanent Buildings._** \- The National Archives of the Philippines shall acquire buildings and facilities to be developed for the purpose of accommodating all permanent and other vital public records in its custody.
+### SEC. 44
 
-**SEC. 47._Rules and Regulations._** -The current director of the Records Management and Archives Office, in coordination with the National Historical Institute, the NCCA, the National Library, the Department of the Interior and Local Government and the Department of Finance shall promulgate the necessary implementing rules and regulations within ninety (90) days after the approval of this Act: _Provided_ , That the first executive director to be appointed shall fully implement the principle expounded herein within two years after the approval of this Act.
+_Termination of Office._ \- No public officer shall be allowed to resign or retire pending an investigation, criminal or administrative, or pending a prosecution against him, for any offense under this Act or under the relevant provisions of the Revised Penal Code.
+
+### SEC. 45
+
+_Suspension and Loss of Benefits._ \- Any public officer against whom any criminal prosecution under a valid information under this Act or under the relevant provisions of the Revised Penal Code is pending in court shall be suspended from office. Should he/she be convicted by final judgment, he/she shall lose all retirement or gratuity benefits under any law, but if he/she is acquitted, he/she shall be entitled to reinstatement and to the salaries and benefits which he/she failed to receive during suspension, unless in the meantime administrative proceedings have been filed against him/her.
+
+### SEC. 46
+
+_Permanent Buildings._ \- The National Archives of the Philippines shall acquire buildings and facilities to be developed for the purpose of accommodating all permanent and other vital public records in its custody.
+
+### SEC. 47
+
+_Rules and Regulations._ -The current director of the Records Management and Archives Office, in coordination with the National Historical Institute, the NCCA, the National Library, the Department of the Interior and Local Government and the Department of Finance shall promulgate the necessary implementing rules and regulations within ninety (90) days after the approval of this Act: _Provided_ , That the first executive director to be appointed shall fully implement the principle expounded herein within two years after the approval of this Act.
 
 ## ARTICLE VII — FINAL PROVISIONS
 
-**SEC. 48._Repealing Clause._** \- Executive Order No. 290, series of 1958 and the applicable provisions of Executive Order No. 80, series of I999 are hereby repealed. Any other law, presidential decree or issuance, executive order, letter of instruction, administrative order, proclamation, charter, rule or regulation and/or parts thereof contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+### SEC. 48
 
-**SEC. 49._Separability Clause._** \- If for any reason, any portion or provision of this Act be declared unconstitutional, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+_Repealing Clause._ \- Executive Order No. 290, series of 1958 and the applicable provisions of Executive Order No. 80, series of I999 are hereby repealed. Any other law, presidential decree or issuance, executive order, letter of instruction, administrative order, proclamation, charter, rule or regulation and/or parts thereof contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
 
-**SEC. 50._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two national newspapers of general circulation whichever comes earlier.
+### SEC. 49
+
+_Separability Clause._ \- If for any reason, any portion or provision of this Act be declared unconstitutional, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+### SEC. 50
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two national newspapers of general circulation whichever comes earlier.
 
 Approved,
 

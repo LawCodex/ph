@@ -24,7 +24,7 @@ Be it enacted by the Senate atnd House of Representatives of the Philippines in 
 
 ## Section 1
 
-There shall be established, under the direct Supervision of the Department of Health, an emergency hospital in the Municipality of Kabugao, Mountain Province, to be known as Kabugao Emergency Hospital.1âшphi1
+There shall be established, under the direct Supervision of the Department of Health, an emergency hospital in the Municipality of Kabugao, Mountain Province, to be known as Kabugao Emergency Hospital.
 
 ## Section 2
 

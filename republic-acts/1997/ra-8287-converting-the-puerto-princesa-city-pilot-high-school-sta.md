@@ -32,7 +32,7 @@ The existing locally funded Puerto Princesa City Pilot High School - Sta. Monica
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.1aшphi1
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

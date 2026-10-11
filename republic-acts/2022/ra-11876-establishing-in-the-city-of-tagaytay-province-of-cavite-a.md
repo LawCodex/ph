@@ -38,7 +38,7 @@ The City Government of Tagaytay shall manage the Isaac Tolentino Memorial Medica
 
 ## Section 3
 
-The City Government of Tagaytay shall provide the necessary funds for the establishment of the Isaac Tolentino Memorial Medical Center.⌊aшΡhi⌊ The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
+The City Government of Tagaytay shall provide the necessary funds for the establishment of the Isaac Tolentino Memorial Medical Center. The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

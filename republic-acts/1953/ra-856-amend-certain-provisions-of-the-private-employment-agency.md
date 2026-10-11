@@ -42,7 +42,7 @@ Paragraph (e) of section numbered twenty of said Act is hereby amended to read a
 
 Section numbered twenty-one of the said Act is hereby amended to read as follows:
 
-"**Section 21.** Any violation of the provisions of this Act shall be punished by a line of not less than one hundred pesos nor more than five hundred pesos and by imprisonment for not less than one month nor more than six months, or both, in the discretion of the court: _Provided,_ That in the case of the violation of subsections (e) and (f) of the next preceding section, the penalty shall be imprisonment for not less than six months nor more than six years: _Provided,_ further, That the court may in its discretion impose the additional penalty of removal from office, if the violator is the public defender, or the clerk of court, or the justice of the peace or of permanent disqualification from obtaining any license, if the violator is an agent or recruiter."1a⍵⍴h!1
+"**Section 21.** Any violation of the provisions of this Act shall be punished by a line of not less than one hundred pesos nor more than five hundred pesos and by imprisonment for not less than one month nor more than six months, or both, in the discretion of the court: _Provided,_ That in the case of the violation of subsections (e) and (f) of the next preceding section, the penalty shall be imprisonment for not less than six months nor more than six years: _Provided,_ further, That the court may in its discretion impose the additional penalty of removal from office, if the violator is the public defender, or the clerk of court, or the justice of the peace or of permanent disqualification from obtaining any license, if the violator is an agent or recruiter."
 
 ## Section 4
 

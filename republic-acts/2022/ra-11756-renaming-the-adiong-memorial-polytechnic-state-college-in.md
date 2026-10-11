@@ -34,7 +34,7 @@ The Adiong Memorial Polytechnic State College located in the Municipality of Dit
 
 ## Section 2
 
-The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.ᇈWᑭHIL
+The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.
 
 ## Section 3
 

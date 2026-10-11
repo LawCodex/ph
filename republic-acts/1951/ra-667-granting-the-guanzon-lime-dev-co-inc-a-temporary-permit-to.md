@@ -29,7 +29,7 @@ There is hereby granted to the Guanzon Lime Dev. Co., Inc., its successors or as
 
 ## Section 2
 
-This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.1s⍵⍴h!1
+This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.
 
 ## Section 8
 
@@ -41,7 +41,7 @@ No fees shall be charged by the grantee as the radio stations that may be establ
 
 ## Section 5
 
-The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Phili.1a⍵⍴h!1
+The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Phili.
 
 ## Section 6
 

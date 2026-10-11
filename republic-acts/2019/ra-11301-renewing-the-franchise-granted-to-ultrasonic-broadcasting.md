@@ -80,7 +80,7 @@ Noncompliance therewith shall render the franchise ipso facto revoked.
 
 ## Section 12
 
-_Reportorial Requirement._ -The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Philippine Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise.1âшphi1 The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
+_Reportorial Requirement._ -The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Philippine Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise. The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 

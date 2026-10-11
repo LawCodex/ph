@@ -104,7 +104,7 @@ The body of teachers, instructors, professors, associate professors, department 
 
 ## Section 13
 
-There shall be a secretary of the College who shall be appointed by the Board of Trustees upon recommendation of the president of the College.1aшphi1 He shall be the secretary of the Board and also of the College and shall keep such records of the College as may be determined by the Board of Trustees.
+There shall be a secretary of the College who shall be appointed by the Board of Trustees upon recommendation of the president of the College. He shall be the secretary of the Board and also of the College and shall keep such records of the College as may be determined by the Board of Trustees.
 
 ## Section 14
 

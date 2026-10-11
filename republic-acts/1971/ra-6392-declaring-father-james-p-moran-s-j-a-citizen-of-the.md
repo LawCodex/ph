@@ -30,7 +30,7 @@ Upon the taking and registration of the following oath of allegiance, the said F
 
 "I, James P. Moran, do solemnly swear (or affirm) that I renounce absolutely and forever all allegiance or fidelity to any foreign prince, potentate, state or sovereignty, and particularly to the Government of the United States of America which up to this time I am a subject or citizen; that I will support and defend the Constitution of the Philippines and that I will obey the laws, legal orders and decrees promulgated by the duly constituted authorities of the Philippines; and I hereby declare that I recognize the supreme authority of the Government of the Republic of the Philippines and I will maintain true faith and allegiance thereto; and that I impose this obligation upon myself voluntarily without mental reservation or purpose of evasion.
 
-"SO HELP ME GOD."1âшphi1
+"SO HELP ME GOD."
 
 The oath of allegiance shall be recorded in the Civil Registry of the City of Manila within sixty days from the date of the approval of this Act.
 

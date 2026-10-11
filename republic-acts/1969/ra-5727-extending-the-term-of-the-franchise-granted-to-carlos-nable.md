@@ -28,6 +28,6 @@ The term of the franchise granted to Carlos Nable, under Republic Act Numbered E
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

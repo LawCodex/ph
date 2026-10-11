@@ -33,4 +33,4 @@ There is hereby inserted a new section to be known as section eleven-A, between 
 
 This Act shall take effect beginning the school year nineteen hundred and forty-six, nineteen hundred forty-seven.
 
-Approved: October 21, 1946.1â#x0448;phi1
+Approved: October 21, 1946.

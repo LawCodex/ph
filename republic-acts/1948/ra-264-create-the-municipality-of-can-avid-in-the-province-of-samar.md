@@ -28,7 +28,7 @@ The barrios of Can-avid, Carolina, Barok, Cansangaya, Mabuhay, Camantang, Canila
 
 ## Section 2
 
-The officials of the newly-created municipality shall be appointed by the President, to hold office until their successors have been elected and qualified.1awp++i1
+The officials of the newly-created municipality shall be appointed by the President, to hold office until their successors have been elected and qualified.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ The Secretary of Finance, with the approval of the President of the Philippines,
 
 ## Section 2
 
-The sum of three million three hundred eight thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.£a⩊phi£
+The sum of three million three hundred eight thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 3
 

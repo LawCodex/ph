@@ -103,7 +103,7 @@ Section seven of the same Act, as amended, is further amended to read as follows
 
 (2) by the Secretary of Labor, if he finds, after proper investigation, that the work has to do with raw material or materials in the course of treatment which are subject to rapid deterioration and night work is necessary to preserve such materials from loss; and
 
-(3) by the President of the Philippines, with or without the recommendation of the Secretary of Labor, after consultation with employers and workers' organizations concerned in case of serious emergency where national interest demand the suspension of the night work prohibition for women in particular industry or industries. Such suspension shall be notified by the government to the Director General of the International Labor Office in its Annual Report on the Application of the Night Work Convention.1âшphi1
+(3) by the President of the Philippines, with or without the recommendation of the Secretary of Labor, after consultation with employers and workers' organizations concerned in case of serious emergency where national interest demand the suspension of the night work prohibition for women in particular industry or industries. Such suspension shall be notified by the government to the Director General of the International Labor Office in its Annual Report on the Application of the Night Work Convention.
 
 "(c) No woman, regardless of age, shall be employed or permitted or suffered fro work, with or without compensation, in any commercial or non-industrial undertaking or branch thereof, other than agricultural, between twelve o'clock midnight and seven o'clock in the morning of the following day, except those who are immediate members of the family owning or operating the same.
 

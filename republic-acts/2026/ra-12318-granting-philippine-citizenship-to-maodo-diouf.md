@@ -29,7 +29,7 @@ Maodo Diouf is hereby granted Philippine citizenship with all the rights, privil
 
 ## Section 2
 
-Maodo Diouf shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.ℒαwρhi৷
+Maodo Diouf shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

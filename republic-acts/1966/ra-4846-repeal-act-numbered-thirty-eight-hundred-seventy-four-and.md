@@ -91,7 +91,7 @@ c. Designated "National Cultural Treasures" shall be marked, described, and phot
 
 ## Section 8
 
-National Cultural Treasures shall not change ownership, except by inheritance or sale approved by the Director of the National Museum, without the prior notification to and notations made by the Museum in the records.1avvphi1 They may not be taken out of the country for reasons of inheritance. Where there is no heir, National Cultural Treasures shall revert to the National Museum or to any state museum.
+National Cultural Treasures shall not change ownership, except by inheritance or sale approved by the Director of the National Museum, without the prior notification to and notations made by the Museum in the records. They may not be taken out of the country for reasons of inheritance. Where there is no heir, National Cultural Treasures shall revert to the National Museum or to any state museum.
 
 ## Section 9
 

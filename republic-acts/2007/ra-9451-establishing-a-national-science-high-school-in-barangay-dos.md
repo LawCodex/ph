@@ -28,13 +28,21 @@ AN ACT ESTABLISHING A NATIONAL SCIENCE HIGH SCHOOL IN BARANGAY DOS, LAS PINAS CI
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Establishment of a National Science High School._** \- There is hereby established, under the supervision of the Department of Education, a National Science High School in Barangay Dos, Las Piñas City to be known as the Las Piñas. City National Science High School.
+## SECTION 1
 
-**SEC. 2._Appropriations._** \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Las Piñas City National Science High School, the funding of which shall be included in the annual General Appropriations Act.
+_Establishment of a National Science High School._ \- There is hereby established, under the supervision of the Department of Education, a National Science High School in Barangay Dos, Las Piñas City to be known as the Las Piñas. City National Science High School.
 
-**SEC. 3._Implementation._** \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+## SEC. 2
 
-**SEC. 4._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Las Piñas City National Science High School, the funding of which shall be included in the annual General Appropriations Act.
+
+## SEC. 3
+
+_Implementation._ \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+## SEC. 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

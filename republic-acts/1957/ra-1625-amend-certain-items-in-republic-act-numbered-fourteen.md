@@ -55,6 +55,6 @@ Item twelve, page four hundred seventy-three under sub-paragraph "z. Lanao" of s
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1957.

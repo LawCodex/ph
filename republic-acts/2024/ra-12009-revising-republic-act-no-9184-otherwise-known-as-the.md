@@ -1295,7 +1295,7 @@ _Oversight Committee._ \- There is hereby created a Joint Congressional Oversigh
 
 ### Section 111
 
-_Mandatory Review._ \- The Congress shall conduct a mandatory review of this Act at least once every five (5) years, and as often as it may deem necessary.1aшphi1
+_Mandatory Review._ \- The Congress shall conduct a mandatory review of this Act at least once every five (5) years, and as often as it may deem necessary.
 
 ### Section 112
 

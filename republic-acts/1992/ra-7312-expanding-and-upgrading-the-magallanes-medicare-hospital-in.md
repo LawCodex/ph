@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Magallanes Medicare Hospital in the Municipality of Magallanes, Province of Sorsogon, is hereby expanded and upgraded from a fifteen-bed capacity medicare hospital into a twenty-five-bed capacity district hospital, to be known as the Magallanes District Hospital.1âшphi1
+The Magallanes Medicare Hospital in the Municipality of Magallanes, Province of Sorsogon, is hereby expanded and upgraded from a fifteen-bed capacity medicare hospital into a twenty-five-bed capacity district hospital, to be known as the Magallanes District Hospital.
 
 ## Section 2
 

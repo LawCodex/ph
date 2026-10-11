@@ -33,7 +33,7 @@ Beginning with the year nineteen hundred and fifty-one, and for each period of f
 
 ## Section 3
 
-All acts or parts of acts which are inconsistent with the provisions of this Act are hereby repealed.£á⩊phi£
+All acts or parts of acts which are inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 4
 

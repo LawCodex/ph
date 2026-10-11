@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-October 28 of every year is hereby declared a special nonworking holiday in the Province of Davao Occidental in commemoration of its founding anniversary.1âwphi1
+October 28 of every year is hereby declared a special nonworking holiday in the Province of Davao Occidental in commemoration of its founding anniversary.
 
 ## Section 2
 

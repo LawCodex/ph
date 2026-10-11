@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Don Jose C. Locsin Memorial Hospital in the City of Silay, Province of Negros Occidental, is hereby increased from seventy-five (75) to one hundred fifty (150) beds.1âшphi1
+The bed capacity of the Don Jose C. Locsin Memorial Hospital in the City of Silay, Province of Negros Occidental, is hereby increased from seventy-five (75) to one hundred fifty (150) beds.
 
 ## Section 2
 

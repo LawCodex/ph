@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Sapao National H
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Sapao National High School - Libertad Annex are hereby transferred to and absorbed by the Libertad National High School.1awphi1
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Sapao National High School - Libertad Annex are hereby transferred to and absorbed by the Libertad National High School.
 
 ## Section 3
 
@@ -42,7 +42,7 @@ _Appropriations._ \- The Secretary of Education shall immediately include in the
 
 ## Section 4
 
-_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.lawphil.net
+_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 5
 

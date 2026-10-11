@@ -24,7 +24,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-In recognition of the educational contribution and eminent services rendered to the country by the late Francisco Benitez, the name of Pagsanjan Elementary School in Pagsanjan, Province of Laguna, is hereby changed to Francisco Benitez Memorial Elementary School.1âшphi1
+In recognition of the educational contribution and eminent services rendered to the country by the late Francisco Benitez, the name of Pagsanjan Elementary School in Pagsanjan, Province of Laguna, is hereby changed to Francisco Benitez Memorial Elementary School.
 
 ## Section 2
 

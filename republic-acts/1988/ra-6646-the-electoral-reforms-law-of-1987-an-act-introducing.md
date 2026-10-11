@@ -24,23 +24,33 @@ AN ACT INTRODUCING ADDITIONAL REFORMS IN THE ELECTORAL SYSTEM AND FOR OTHER PURP
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known and cited as **"_The Electoral Reforms Law of 1987._ "**
+## Section 1
 
-**Section 2._Law Governing Elections._** \- The first local elections under the New Constitution and all subsequent elections and plebiscites shall be governed by this act and by the provisions of Batas Pambansa Blg. 881, otherwise known as the Omnibus Election Code of the Philippines, and other election laws not inconsistent with this Act.
+_Title._ \- This Act shall be known and cited as **"_The Electoral Reforms Law of 1987._ "**
 
-**Section 3._Voters in Cities._** \- The registered voters of a highly urbanized city shall not vote in the election for provincial officials of the province in which it is located. No component city shall be declared or classified as a highly urbanized city within sixty (60) days prior to a local election.lawphil.net
+## Section 2
+
+_Law Governing Elections._ \- The first local elections under the New Constitution and all subsequent elections and plebiscites shall be governed by this act and by the provisions of Batas Pambansa Blg. 881, otherwise known as the Omnibus Election Code of the Philippines, and other election laws not inconsistent with this Act.
+
+## Section 3
+
+_Voters in Cities._ \- The registered voters of a highly urbanized city shall not vote in the election for provincial officials of the province in which it is located. No component city shall be declared or classified as a highly urbanized city within sixty (60) days prior to a local election.
 
 The registered voters of a component city shall be entitled to vote in the election for the provincial officials of the province of which it is a part, unless its charter provides otherwise.
 
-**Section 4._Certificates of Candidacy; Certified List of Candidates._** \- The certificates of candidacy shall be filed in twelve legible signed copies with the offices mentioned in Section 75 of Batas Pambansa Blg. 881. In cities with more than one election registrar, the Commission on Elections, hereinafter referred to as the Commission, shall designate the election registrar who shall receive the certificates of candidacy.
+## Section 4
 
-In lieu of the additional copies of the certificate of candidacy equal to twice the number of polling places which a candidate is required to file under said Section 75, the Commission shall cause to be printed certified lists of candidates containing the names of all registered candidates for each office to be voted for in each province, city or municipality immediately followed by the nickname or stage name of each candidate duly registered in his certificate of candidacy and his political party affiliation, if any. Said list shall be posted inside each voting booth during the voting period.1awphil.net
+_Certificates of Candidacy; Certified List of Candidates._ \- The certificates of candidacy shall be filed in twelve legible signed copies with the offices mentioned in Section 75 of Batas Pambansa Blg. 881. In cities with more than one election registrar, the Commission on Elections, hereinafter referred to as the Commission, shall designate the election registrar who shall receive the certificates of candidacy.
+
+In lieu of the additional copies of the certificate of candidacy equal to twice the number of polling places which a candidate is required to file under said Section 75, the Commission shall cause to be printed certified lists of candidates containing the names of all registered candidates for each office to be voted for in each province, city or municipality immediately followed by the nickname or stage name of each candidate duly registered in his certificate of candidacy and his political party affiliation, if any. Said list shall be posted inside each voting booth during the voting period.
 
 Whenever practicable, the board of inspectors shall cause said list of candidates to be written clearly and legibly on the blackboard or on manila paper for posting at a conspicuous place inside the polling place.
 
 The names of all registered candidates immediately followed by the nickname or stage name shall also be printed in the election returns and tally sheets.
 
-**Section 5._Procedure in Cases of Nuisance Candidates._** \-
+## Section 5
+
+_Procedure in Cases of Nuisance Candidates._ \-
 
 (a) A Verified petition to declare a duly registered candidate as a nuisance candidate under Section 69 of Batas Pambansa Blg. 881 shall be filed personally or through duly authorized representative with the Commission by any registered candidate for the same office within five (5) days from the last day for the filing of certificates of candidacy. Filing by mail not be allowed.
 
@@ -54,27 +64,41 @@ The names of all registered candidates immediately followed by the nickname or s
 
 (f) The Commission shall within twenty-four hours, through the fastest available means, disseminate its decision or the decision of the Supreme Court to the city or municipal election registrars, boards of election inspectors and the general public in the political subdivision concerned.
 
-**Section 6._Effect of Disqualification Case._** \- Any candidate who has been declared by final judgment to be disqualified shall not be voted for, and the votes cast for him shall not be counted. If for any reason a candidate is not declared by final judgment before an election to be disqualified and he is voted for and receives the winning number of votes in such election, the Court or Commission shall continue with the trial and hearing of the action, inquiry, or protest and, upon motion of the complainant or any intervenor, may during the pendency thereof order the suspension of the proclamation of such candidate whenever the evidence of his guilt is strong.
+## Section 6
 
-**Section 7._Petition to Deny Due Course To or Cancel a Certificate of Candidacy._** \- The procedure hereinabove provided shall apply to petitions to deny due course to or cancel a certificate of candidacy as provided in Section 78 of Batas Pambansa Blg. 881.
+_Effect of Disqualification Case._ \- Any candidate who has been declared by final judgment to be disqualified shall not be voted for, and the votes cast for him shall not be counted. If for any reason a candidate is not declared by final judgment before an election to be disqualified and he is voted for and receives the winning number of votes in such election, the Court or Commission shall continue with the trial and hearing of the action, inquiry, or protest and, upon motion of the complainant or any intervenor, may during the pendency thereof order the suspension of the proclamation of such candidate whenever the evidence of his guilt is strong.
 
-**Section 8._Representatives of Parties During Printing of Returns and Ballots._** \- The registered political parties or coalitions of parties, or their components should there be any dissolution or division of said coalition, whose candidates obtained at least ten percent (10%) of the total votes cast in the next preceding senatorial election shall each have a watcher and/or representative in the procurement and watermarking of papers not be used in the printing of election returns and official ballots and in the printing, numbering, storage, and distribution thereof.
+## Section 7
 
-**Section 9._Public Forum._** \- The Commission shall encourage non-political, non-partisan private or civic organizations to initiate and hold in every city and municipality, public for a at which all registered candidates for the same office may simultaneously and personally participate to present, explain, and/or debate on their campaign platforms and programs and other like issues. The Commission shall promulgate, the rules and regulations for the holding of such for a to assure its nonpartisan character and the equality of access thereto by all candidates.
+_Petition to Deny Due Course To or Cancel a Certificate of Candidacy._ \- The procedure hereinabove provided shall apply to petitions to deny due course to or cancel a certificate of candidacy as provided in Section 78 of Batas Pambansa Blg. 881.
 
-**Section 10._Common Poster Areas._** \- The Commission shall designate common poster areas in the strategic public places such as markets, barangay centers and the like wherein candidates can post, display, or exhibit election propaganda to announce or further their candidacy.
+## Section 8
+
+_Representatives of Parties During Printing of Returns and Ballots._ \- The registered political parties or coalitions of parties, or their components should there be any dissolution or division of said coalition, whose candidates obtained at least ten percent (10%) of the total votes cast in the next preceding senatorial election shall each have a watcher and/or representative in the procurement and watermarking of papers not be used in the printing of election returns and official ballots and in the printing, numbering, storage, and distribution thereof.
+
+## Section 9
+
+_Public Forum._ \- The Commission shall encourage non-political, non-partisan private or civic organizations to initiate and hold in every city and municipality, public for a at which all registered candidates for the same office may simultaneously and personally participate to present, explain, and/or debate on their campaign platforms and programs and other like issues. The Commission shall promulgate, the rules and regulations for the holding of such for a to assure its nonpartisan character and the equality of access thereto by all candidates.
+
+## Section 10
+
+_Common Poster Areas._ \- The Commission shall designate common poster areas in the strategic public places such as markets, barangay centers and the like wherein candidates can post, display, or exhibit election propaganda to announce or further their candidacy.
 
 Whenever feasible common billboards may be installed by the Commission and/or non-partisan private or civic organizations which the Commission may authorize whenever available, after due notice and hearing, in strategic places where it may be readily seen or read, with the heaviest pedestrian and/or vehicular traffic in the city or municipality.
 
 The space in such common poster areas or billboards shall be allocated free of charge, if feasible, equitably and impartially among the candidates in the province, city or municipality.
 
-**Section 11._Prohibited Forms of Election Propaganda._** \- In addition to the forms of election propaganda prohibited under Section 85 of Batas Pambansa Blg. 881, it shall be unlawful:
+## Section 11
+
+_Prohibited Forms of Election Propaganda._ \- In addition to the forms of election propaganda prohibited under Section 85 of Batas Pambansa Blg. 881, it shall be unlawful:
 
 (a) to draw, paint, inscribe, write, post, display or publicly exhibit any election propaganda in any place, whether private, or public, except in the common poster areas and/or billboards provided in the immediately preceding section, at the candidate's own residence, or at the campaign headquarters of the candidate or political party: Provided, That such posters or election propaganda shall in no case exceed two (2) feet by three (3) feet in area: Provided further, That at the site of and on the occasion of a public meeting or rally, streamers, not more than two (2) and not exceeding three (3) feet by eight (8) feet each may be displayed five (5) days before the date of the meeting or rally, and shall be removed within twenty-four (24) hours after said meeting or rally; and
 
 (b) for any newspaper, radio broadcasting or television station, or other mass media, or any person making use of the mass media to sell or to give free of charge print space or air time for campaign or other political purposes except to the Commission as provided under Sections 90 and 92 of Batas Pambansa Blg. 881. Any mass media columnist, commentator, announcement or personality who is a candidate for any elective public office shall take a leave of absence from his work as such during the campaign period.
 
-**Section 12._Official Watchers._** \- Every registered political party, coalition of political parties, and every candidate shall each be entitled to one watcher in every polling place: Provided, That candidates for members of the Sangguniang Panlalawigan, Sangguniang Panlungsod or Sangguniang Bayan or for city or municipal councilors belonging to the same slate or ticket shall collectively entitled only to one watcher.
+## Section 12
+
+_Official Watchers._ \- Every registered political party, coalition of political parties, and every candidate shall each be entitled to one watcher in every polling place: Provided, That candidates for members of the Sangguniang Panlalawigan, Sangguniang Panlungsod or Sangguniang Bayan or for city or municipal councilors belonging to the same slate or ticket shall collectively entitled only to one watcher.
 
 There shall also be recognized two principal watchers, one representing the ruling coalition and the other the dominant opposition coalition, who shall sit as observers in the proceedings of the board. The principal watcher shall be designated on the basis of the recommendation of the ruling coalition, represented by the political party of the incumbent elected district representative, and of the dominant opposition coalition, represented by the political party which performed best or which polled at least ten percent (10%) of the votes in the last national election.
 
@@ -84,29 +108,45 @@ The watchers shall be permitted full and unimpeded access to the proceedings so 
 
 In addition to their rights and duties under Section 179 of Batas Pambansa Blg. 881, the two principal watchers representing the ruling coalition and the dominant opposition in a precinct shall, if available, affix their signatures and thumbmarks on the election returns for that precinct. If both or either of them is not available, unwilling or should they refuse to do so, any watcher present, preferably with political affiliation or alignment compatible with that of the absent or unwilling watcher, may be required by the board of election inspectors to do so.
 
-**Section 13._Board of Election Inspectors._** \- The board of election inspectors to be constituted by the Commission under Section 164 of Batas Pambansa Blg. 881 shall be composed of a chairman and two (2) members, one of whom shall be designated as poll clerk, all of whom shall be public school teachers, giving preference to those with permanent appointments. In case there are not enough public school teachers, teachers in private schools, employees in the civil service, or other citizens of known probity and competence who are registered voters of the city or municipality may be appointed for election duty.
+## Section 13
 
-**Section 14._Per Diems of Boards of Election Inspectors and Other Personnel._** \- The chairman and the members of the boards of election inspectors shall each be paid a per diem of One hundred pesos (P100.00) on each registration or revision day and Two hundred pesos (P200.00) on election day.
+_Board of Election Inspectors._ \- The board of election inspectors to be constituted by the Commission under Section 164 of Batas Pambansa Blg. 881 shall be composed of a chairman and two (2) members, one of whom shall be designated as poll clerk, all of whom shall be public school teachers, giving preference to those with permanent appointments. In case there are not enough public school teachers, teachers in private schools, employees in the civil service, or other citizens of known probity and competence who are registered voters of the city or municipality may be appointed for election duty.
+
+## Section 14
+
+_Per Diems of Boards of Election Inspectors and Other Personnel._ \- The chairman and the members of the boards of election inspectors shall each be paid a per diem of One hundred pesos (P100.00) on each registration or revision day and Two hundred pesos (P200.00) on election day.
 
 Support personnel from the Department of Education, Culture and Sports shall each receive a per diem of P50.00 during election day. Supervisors, principals and other administrators of the Department of Education, Culture and Sports, who may be required by the Commission to perform election duties shall each be entitled to a per diem of P100.00.
 
 Provincial, city and municipal treasurers shall each receive a per diem of P200.00 on election day.
 
-**Section 15._Signatures of Chairman and Poll Clerk at the Back of Every Ballot._** \- In addition to the preliminary acts before the voting as enumerated in Section 191 of Batas Pambansa Blg. 881, the chairman and the poll clerk of the board of election inspectors shall affix their signatures at the back of each and every official ballot to be used during the voting. A certification to that effect must be entered in the minutes of the voting.
+## Section 15
 
-**Section 16._Certificates of Votes._** \- After the counting of the votes cast in the precinct and announcement of the results of the election, and before leaving the polling place, the board of election inspectors shall issue a certificate of votes upon request of the duly accredited watchers. The certificate shall contain the number of votes obtained by each candidate written in words and figures, the number of the precinct, the name of the city or municipality and province, the total number of voters who voted in the precinct and the date and time issued, and shall be signed and thumbmarked by each member of the board.
+_Signatures of Chairman and Poll Clerk at the Back of Every Ballot._ \- In addition to the preliminary acts before the voting as enumerated in Section 191 of Batas Pambansa Blg. 881, the chairman and the poll clerk of the board of election inspectors shall affix their signatures at the back of each and every official ballot to be used during the voting. A certification to that effect must be entered in the minutes of the voting.
 
-**Section 17._Certificate of Votes as Evidence._** \- The provisions of Sections 235 and 236 of Batas Pambansa Blg. 881 notwithstanding, the certificate of votes shall be admissible in evidence to prove tampering, alteration, falsification or any anomaly committed in the election returns concerned, when duly authenticated by testimonial or documentary evidence presented to the board of canvassers by at least two members of the board of election inspectors who issued the certificate: Provided, That failure to present any certificate of votes shall be a bar to the presentation of other evidence to impugn the authenticity of the election returns.
+## Section 16
 
-**Section 18._Transfer of Counting of Votes to Safer Place._** \- If on account on imminent danger of violence, terrorism, disorder or similar causes it becomes necessary to transfer the counting of votes to a safer place, the board of inspectors may effect such transfer by unanimous approval by the board and concurrence by the majority of the watchers present. This fact shall be recorded in the minutes of voting and the members of the board and the watchers shall manifest their approval or concurrence by affixing their signatures therein. The Commission shall issue rules and guidelines on the matter to secure the safety of the members of the board, the watchers, and all the election documents and paraphernalia.
+_Certificates of Votes._ \- After the counting of the votes cast in the precinct and announcement of the results of the election, and before leaving the polling place, the board of election inspectors shall issue a certificate of votes upon request of the duly accredited watchers. The certificate shall contain the number of votes obtained by each candidate written in words and figures, the number of the precinct, the name of the city or municipality and province, the total number of voters who voted in the precinct and the date and time issued, and shall be signed and thumbmarked by each member of the board.
 
-**Section 19._Number of Copies of Election Returns and their Distribution._** \- The election returns required under Section 212 of Batas Pambansa Blg. 881 shall be prepared in sextuplicate. The first copy shall be delivered to the city or municipal board of canvassers as a boy for its use in the city or municipal canvass. The second copy shall be delivered to the election registrar of the city or municipality for transmittal to the provincial board of canvassers for its use in the provincial canvass. The third copy shall likewise be delivered to the election registrar for transmittal to the Commission. The fourth copy, to be known as advance election returns, shall be delivered to the city or municipal treasurer who, in the pre-large to enable the public to read them, builtized representative, shall immediately and publicly open the same and post the votes therein in an election board, sufficiently large to enable to public to read them, built on a public place preferably within the immediate vicinity of the city hall of municipal building. The fifth copy shall be deposited in the compartment of the ballot box for valid ballots. The sixth copy shall be delivered to the city or municipal trial judge or municipal circuit trial judge, as the case may be, or in his absence to any official who may be designated by the Commission for safekeeping. Said copy maybe opened during the canvass upon order of the board of canvassers for purposes of comparison with other copies of the returns whose authenticity is in question.
+## Section 17
+
+_Certificate of Votes as Evidence._ \- The provisions of Sections 235 and 236 of Batas Pambansa Blg. 881 notwithstanding, the certificate of votes shall be admissible in evidence to prove tampering, alteration, falsification or any anomaly committed in the election returns concerned, when duly authenticated by testimonial or documentary evidence presented to the board of canvassers by at least two members of the board of election inspectors who issued the certificate: Provided, That failure to present any certificate of votes shall be a bar to the presentation of other evidence to impugn the authenticity of the election returns.
+
+## Section 18
+
+_Transfer of Counting of Votes to Safer Place._ \- If on account on imminent danger of violence, terrorism, disorder or similar causes it becomes necessary to transfer the counting of votes to a safer place, the board of inspectors may effect such transfer by unanimous approval by the board and concurrence by the majority of the watchers present. This fact shall be recorded in the minutes of voting and the members of the board and the watchers shall manifest their approval or concurrence by affixing their signatures therein. The Commission shall issue rules and guidelines on the matter to secure the safety of the members of the board, the watchers, and all the election documents and paraphernalia.
+
+## Section 19
+
+_Number of Copies of Election Returns and their Distribution._ \- The election returns required under Section 212 of Batas Pambansa Blg. 881 shall be prepared in sextuplicate. The first copy shall be delivered to the city or municipal board of canvassers as a boy for its use in the city or municipal canvass. The second copy shall be delivered to the election registrar of the city or municipality for transmittal to the provincial board of canvassers for its use in the provincial canvass. The third copy shall likewise be delivered to the election registrar for transmittal to the Commission. The fourth copy, to be known as advance election returns, shall be delivered to the city or municipal treasurer who, in the pre-large to enable the public to read them, builtized representative, shall immediately and publicly open the same and post the votes therein in an election board, sufficiently large to enable to public to read them, built on a public place preferably within the immediate vicinity of the city hall of municipal building. The fifth copy shall be deposited in the compartment of the ballot box for valid ballots. The sixth copy shall be delivered to the city or municipal trial judge or municipal circuit trial judge, as the case may be, or in his absence to any official who may be designated by the Commission for safekeeping. Said copy maybe opened during the canvass upon order of the board of canvassers for purposes of comparison with other copies of the returns whose authenticity is in question.
 
 The city or municipal treasurer shall issue certified copy of any election returns in his possession upon request of any interested party and payment of the fees required by existing ordinances.
 
 The Commission shall promulgate rules for the speedy and safe delivery or preservation of the election returns.
 
-**Section 20._Boards of Canvassers._** \- There shall be a board of canvassers for each province, city and municipality as follows:
+## Section 20
+
+_Boards of Canvassers._ \- There shall be a board of canvassers for each province, city and municipality as follows:
 
 (a) Provincial Board of Canvassers. - The provincial board of canvassers shall be composed of the provincial election supervisor or a lawyer in the regional office of the Commission, as chairman, the provincial fiscal, as vice-chairman, and the provincial superintendent of schools, as member.
 
@@ -116,21 +156,35 @@ The Commission shall promulgate rules for the speedy and safe delivery or preser
 
 The proceedings of the board of canvassers shall be open and public.
 
-**Section 21._Substitution of Chairman and Members of the Board of Canvassers._** \- In case of non-availability, absence, disqualification due to relationship, or incapacity for any cause of the chairman, the Commission shall appoint as substitute a ranking lawyer of the Commission. With respect to the other members of the board, the Commission shall appoint as substitute the following in the order named: The Provincial Auditor, the Registrar of Deeds, the Clerk of Court nominated by the Executive Judge of the Regional Trial Court, and any other available appointive provincial official in the case of the provincial board of canvassers; the officials in the city corresponding to those enumerated, in the case of the city board of canvassers; and the Municipal Administrator, the Municipal Assessor, the Clerk of Court nominated by the Executive Judge of the Municipal Trial Court, or any other available appointive municipal officials, in the case of the municipal board of canvassers.
+## Section 21
 
-**Section 22._Canvassing Committees._** \- The board of canvasser may constitute such number of canvassing committees as may be necessary to enable the board of complete the canvass within the period prescribed under Section 231 of Batas Pambansa Blg. 881: Provided, That each committee shall be composed of three members, each member to be designated by the chairman and members of the board and that all candidates shall be notified in writing, before the election, of the number of committees to be constituted so that they can designate their watchers in each committee. The committees shall be under the direct supervision and control of the board.
+_Substitution of Chairman and Members of the Board of Canvassers._ \- In case of non-availability, absence, disqualification due to relationship, or incapacity for any cause of the chairman, the Commission shall appoint as substitute a ranking lawyer of the Commission. With respect to the other members of the board, the Commission shall appoint as substitute the following in the order named: The Provincial Auditor, the Registrar of Deeds, the Clerk of Court nominated by the Executive Judge of the Regional Trial Court, and any other available appointive provincial official in the case of the provincial board of canvassers; the officials in the city corresponding to those enumerated, in the case of the city board of canvassers; and the Municipal Administrator, the Municipal Assessor, the Clerk of Court nominated by the Executive Judge of the Municipal Trial Court, or any other available appointive municipal officials, in the case of the municipal board of canvassers.
 
-**Section 23._Notice of Meetings of the Board._** \- At least five (5) days before the initial meeting of the board of canvassers, the chairman of the board shall give written notice to all members thereof and to each candidate and political party presenting candidates for election in the political subdivision concerned of the date, time and place of the meeting. Similar notice shall also be given for subsequent meetings unless notice has been given in open session of the board. Proof of service of notice to each member, candidate and political party shall be attached to and shall form part of the records of the proceedings. If notice is given in open session, such fact shall be recorded in the minutes of the proceedings.
+## Section 22
 
-**Section 24._Proceedings of the Board._** \- The board of canvassers shall have full authority to keep order within the canvassing room or hall, and its premises and enforce obedience to its lawful orders. If any person shall refuse to obey any lawful order of the board or shall so conduct himself in such disorderly manner as to disturb or interrupt its proceedings, the board may order any peace officer to take such person in custody until the adjournment of the meeting.
+_Canvassing Committees._ \- The board of canvasser may constitute such number of canvassing committees as may be necessary to enable the board of complete the canvass within the period prescribed under Section 231 of Batas Pambansa Blg. 881: Provided, That each committee shall be composed of three members, each member to be designated by the chairman and members of the board and that all candidates shall be notified in writing, before the election, of the number of committees to be constituted so that they can designate their watchers in each committee. The committees shall be under the direct supervision and control of the board.
 
-**Section 25._Right to be Present and to Counsel During the Canvass._** \- Any registered political party, coalition of parties, through their representatives, and any candidate has the right to be present and to counsel during the canvass of the election returns: Provided, That only one counsel may argue for each political party or candidate. They shall have the right to examine the returns being canvassed without touching them, make their observations thereon, and file their challenges in accordance with the rules and regulations of the Commission. No dilatory action shall allowed by the board of canvassers.
+## Section 23
 
-**Section 26._COMELEC Hearings and Proceedings._** \- In all hearings, inquiries, and proceedings of the Commission, including preliminary investigations of election offenses, no person subpoenaed to testify as a witness shall be excused from attending and testifying or from producing books, papers, correspondence, memoranda and other records on the ground that the testimony or evidence, documentary or otherwise, required of him, may tend to incriminate him or subject him to prosecution: Provided, That no person shall be prosecuted criminally for or on account of any matter concerning which he is compelled, after having claimed the privilege against self-incrimination, to testify and produce evidence, documentary or otherwise.
+_Notice of Meetings of the Board._ \- At least five (5) days before the initial meeting of the board of canvassers, the chairman of the board shall give written notice to all members thereof and to each candidate and political party presenting candidates for election in the political subdivision concerned of the date, time and place of the meeting. Similar notice shall also be given for subsequent meetings unless notice has been given in open session of the board. Proof of service of notice to each member, candidate and political party shall be attached to and shall form part of the records of the proceedings. If notice is given in open session, such fact shall be recorded in the minutes of the proceedings.
+
+## Section 24
+
+_Proceedings of the Board._ \- The board of canvassers shall have full authority to keep order within the canvassing room or hall, and its premises and enforce obedience to its lawful orders. If any person shall refuse to obey any lawful order of the board or shall so conduct himself in such disorderly manner as to disturb or interrupt its proceedings, the board may order any peace officer to take such person in custody until the adjournment of the meeting.
+
+## Section 25
+
+_Right to be Present and to Counsel During the Canvass._ \- Any registered political party, coalition of parties, through their representatives, and any candidate has the right to be present and to counsel during the canvass of the election returns: Provided, That only one counsel may argue for each political party or candidate. They shall have the right to examine the returns being canvassed without touching them, make their observations thereon, and file their challenges in accordance with the rules and regulations of the Commission. No dilatory action shall allowed by the board of canvassers.
+
+## Section 26
+
+_COMELEC Hearings and Proceedings._ \- In all hearings, inquiries, and proceedings of the Commission, including preliminary investigations of election offenses, no person subpoenaed to testify as a witness shall be excused from attending and testifying or from producing books, papers, correspondence, memoranda and other records on the ground that the testimony or evidence, documentary or otherwise, required of him, may tend to incriminate him or subject him to prosecution: Provided, That no person shall be prosecuted criminally for or on account of any matter concerning which he is compelled, after having claimed the privilege against self-incrimination, to testify and produce evidence, documentary or otherwise.
 
 Under such terms and conditions as it may determine, the Commission may grant immunity from criminal prosecution to any person whose testimony or whose possession and production of documents or other evidence may be necessary to determine the truth in any hearing, inquiry or proceeding being conducted by the Commission or under its authority, in the performance or in the furtherance of its constitutional functions and statutory objectives. The immunity granted under this and the immediately preceding paragraph shall not exempt the witness from criminal prosecution for perjury or false testimony.
 
-**Section 27._Election Offenses._** \- In addition to the prohibited acts and election offenses enumerated in Sections 261 and 262 of Batas Pambansa Blg. 881, as amended, the following shall be guilty of an election offense:
+## Section 27
+
+_Election Offenses._ \- In addition to the prohibited acts and election offenses enumerated in Sections 261 and 262 of Batas Pambansa Blg. 881, as amended, the following shall be guilty of an election offense:
 
 (a) Any person who causes the printing of official ballots and election returns by any printing establishment which is not under contract with the Commission on Elections and any printing establishment which undertakes such unauthorized printing.
 
@@ -144,7 +198,9 @@ Under such terms and conditions as it may determine, the Commission may grant im
 
 (f) Any person declared as nuisance candidate as defined under Section 69 of Batas Pambansa Blg. 881, or is otherwise disqualified, by final and executory judgment, who continue to misrepresent himself, or holds himself out, as a candidate, such as by continuing to campaign thereafter, and/or other public officer or private individual, who knowingly induces or abets such misrepresentation, by commission or omission, shall be guilty of an election offense and subject to the penalty provided in Section 264 of the same Code.
 
-**Section 28._Prosecution of Vote-buying and Vote-selling._** \- The presentation of a complaint for violations of paragraph (a) or (b) of Section 261 of Batas Pambansa Blg. 881 supported by affidavits of complaining witnesses attesting to the offer or promise by or of the voter's acceptance of money or other consideration from the relatives, leaders or sympathizers of a candidate, shall be sufficient basis for an investigation to be immediately conducted by the Commission, directly or through its duly authorized legal officers, under Section 68 or Section 265 of said Batas Pambansa Blg. 881.
+## Section 28
+
+_Prosecution of Vote-buying and Vote-selling._ \- The presentation of a complaint for violations of paragraph (a) or (b) of Section 261 of Batas Pambansa Blg. 881 supported by affidavits of complaining witnesses attesting to the offer or promise by or of the voter's acceptance of money or other consideration from the relatives, leaders or sympathizers of a candidate, shall be sufficient basis for an investigation to be immediately conducted by the Commission, directly or through its duly authorized legal officers, under Section 68 or Section 265 of said Batas Pambansa Blg. 881.
 
 Proof that at least one voter in different precincts representing at least twenty percent (20%) of the total precincts in any municipality, city or province has been offered, promised or given money, valuable consideration or other expenditure by a candidate's relatives, leaders and/or sympathizers for the purpose of promoting the election of such candidate, shall constitute a disputable presumption of a conspiracy under paragraph (b) of Section 261 of Batas Pambansa Blg. 881.
 
@@ -152,16 +208,26 @@ Where such proof affect at least twenty percent (20%) of the precincts of the mu
 
 The giver, offerer, and promisor as well as the solicitor, acceptor, recipient and conspirator referred to in paragraphs (a) and (b) of Section 261 of Batas Pambansa Blg. 881 shall be liable as principals: Provided, That any persons, otherwise guilty under said paragraphs who voluntarily gives information and willingly testifies on any violation thereof in any official investigation or proceeding shall be exempt from prosecution and punishment for the offenses with reference to which his information and testimony were given: Provided, further, That nothing herein shall exempt such person from criminal prosecution for perjury or false testimony.
 
-**Section 29._Designation of Other Dates for certain Pre-election Acts._** \- If it should no longer be reasonably possible to observe the periods and dates prescribed by law for certain pre-election acts, the Commission shall fix other periods and dates in order to ensure accomplishment of the activities so voters shall not be deprived of their right of suffrage.
+## Section 29
 
-**Section 30._Effectivity of Regulations and Orders of the Commission._** \- The rules and regulations promulgated by the Commission shall take effect on the seventh day after their publication in the Official Gazette or in at least two (2) daily newspapers of general circulation in the Philippines.
+_Designation of Other Dates for certain Pre-election Acts._ \- If it should no longer be reasonably possible to observe the periods and dates prescribed by law for certain pre-election acts, the Commission shall fix other periods and dates in order to ensure accomplishment of the activities so voters shall not be deprived of their right of suffrage.
+
+## Section 30
+
+_Effectivity of Regulations and Orders of the Commission._ \- The rules and regulations promulgated by the Commission shall take effect on the seventh day after their publication in the Official Gazette or in at least two (2) daily newspapers of general circulation in the Philippines.
 
 Orders and directives issued by the Commission shall be furnished by personal delivery to all parties concerned within forty-eight (48) hours from date of issuance and shall take effect immediately upon receipt thereof unless a later date is expressly specified in such orders or directives.
 
-**Section 31._Repealing Clause._** \- All laws, executive orders, rules and regulations, or any part thereof inconsistent herewith are deemed repealed or modified accordingly.
+## Section 31
 
-**Section 32._Separability Clause._** \- If for any reason, any section or provision of this act or any part thereof, or the application if such section, provision or portion is declared invalid or unconstitutional, the remainder thereof shall not be affected by such declaration.
+_Repealing Clause._ \- All laws, executive orders, rules and regulations, or any part thereof inconsistent herewith are deemed repealed or modified accordingly.
 
-**Section 33._Effectivity._** \- This Act shall take effect upon its approval.
+## Section 32
+
+_Separability Clause._ \- If for any reason, any section or provision of this act or any part thereof, or the application if such section, provision or portion is declared invalid or unconstitutional, the remainder thereof shall not be affected by such declaration.
+
+## Section 33
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved: **January 5, 1988**

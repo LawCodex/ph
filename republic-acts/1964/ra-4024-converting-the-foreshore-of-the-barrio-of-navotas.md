@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The foreshore of Barrio of Navotas, Municipality of Calapan, Province of Oriental Mindoro, is hereby converted into a tourist resort to be known as Navotas Tourist Resort.(awÞhi(
+The foreshore of Barrio of Navotas, Municipality of Calapan, Province of Oriental Mindoro, is hereby converted into a tourist resort to be known as Navotas Tourist Resort.
 
 ## Section 2
 

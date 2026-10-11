@@ -30,7 +30,7 @@ Section five of Republic Act Numbered Thirty-six is amended to read as follows:
 
 ## Section 2
 
-All provisions of Republic Act Numbered Thirty-six or parts thereof inconsistent with the provisions hereof are repealed.+3u.7!ydmb7
+All provisions of Republic Act Numbered Thirty-six or parts thereof inconsistent with the provisions hereof are repealed.
 
 ## Section 3
 

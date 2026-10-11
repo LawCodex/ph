@@ -34,7 +34,7 @@ The road commences in Barangay Poblacion III, traversing Poblacion II, Cogon, Bo
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.1aшphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
 
 ## Section 3
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, is hereby changed to Sultan Alauya Alonto Elementary School.1âшphi1
+The name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, is hereby changed to Sultan Alauya Alonto Elementary School.
 
 ## Section 2
 

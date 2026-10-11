@@ -29,7 +29,7 @@ There is hereby created the Office of Health Service in the Land Transportation 
 
 ## Section 2
 
-The sum of seventy-three thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act.1âшphi1 Thereafter, the necessary sum as may be needed for the same purpose shall be included in the annual General Appropriations Act.
+The sum of seventy-three thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act. Thereafter, the necessary sum as may be needed for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

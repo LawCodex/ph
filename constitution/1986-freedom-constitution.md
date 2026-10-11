@@ -162,7 +162,7 @@ The President shall have control of and exercise general supervision over all lo
 
 ### Section 4
 
-In case of permanent vacancy arising from death incapacity or resignation of the President, the Vice-President shall become President.£A⩊phi£ In case of death, permanent incapacity, or resignation of the Vice-President, the Cabinet shall choose from among themselves the minister with portfolio who shall act as President.
+In case of permanent vacancy arising from death incapacity or resignation of the President, the Vice-President shall become President. In case of death, permanent incapacity, or resignation of the Vice-President, the Cabinet shall choose from among themselves the minister with portfolio who shall act as President.
 
 ### Section 5
 
@@ -204,7 +204,7 @@ The President may review all contracts, concessions, permits, or other forms of 
 
 ### Section 1
 
-Within sixty (60) days from date of this Proclamation, a Commission shall be appointed by the President to draft a New Constitution.ℒαwρhi৷ The Commission shall be composed of not less than thirty (30) nor more than fifty (50) natural born citizens of the Philippines, of recognized probity, known for their independence, nationalism and patriotism. They shall be chosen by the President after consultation with various sectors of society.
+Within sixty (60) days from date of this Proclamation, a Commission shall be appointed by the President to draft a New Constitution. The Commission shall be composed of not less than thirty (30) nor more than fifty (50) natural born citizens of the Philippines, of recognized probity, known for their independence, nationalism and patriotism. They shall be chosen by the President after consultation with various sectors of society.
 
 ### Section 2
 

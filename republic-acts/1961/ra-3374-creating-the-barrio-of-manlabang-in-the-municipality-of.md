@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Manlabang, Jubasan, Balilid and Toril in the Municipality of Caibiran, Sub-province of Biliran, Province of Leyte, are constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Manlabang.1avvphi1
+The sitios of Manlabang, Jubasan, Balilid and Toril in the Municipality of Caibiran, Sub-province of Biliran, Province of Leyte, are constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Manlabang.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section seven hundred one of the Republic Act Numbered Nineteen hundred thirty-seven, known as the Tariff and Customs Code of the Philippines, as amended, is further amended to read as follows:
 
-"Sec. 701. Collection Districts and Ports of Entry thereof.— For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head.1avvphi1 The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, San Jose, Maasin, Masao, Iligan City, Batangas, Surigao, Ozamis City, Cabugao, Virac, Batalay, Supang, Gaang, Dagupan City, Bislig, Catbalogan and Dadiangas."
+"Sec. 701. Collection Districts and Ports of Entry thereof.— For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, San Jose, Maasin, Masao, Iligan City, Batangas, Surigao, Ozamis City, Cabugao, Virac, Batalay, Supang, Gaang, Dagupan City, Bislig, Catbalogan and Dadiangas."
 
 ## Section 2
 

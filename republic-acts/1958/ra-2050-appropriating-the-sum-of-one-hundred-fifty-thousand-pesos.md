@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of one hundred fifty thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, as an aid to the Philippine Amateur Athletic Federation to defray the expenses of the selection, assembling, equipping, preparation and sending of a competent athletic delegation to represent the Philippines at the Third Asian Games to be held in Tokyo, Japan, from May twenty-four to June first, nineteen hundred fifty-eight.1âшphi1
+The sum of one hundred fifty thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, as an aid to the Philippine Amateur Athletic Federation to defray the expenses of the selection, assembling, equipping, preparation and sending of a competent athletic delegation to represent the Philippines at the Third Asian Games to be held in Tokyo, Japan, from May twenty-four to June first, nineteen hundred fifty-eight.
 
 ## Section 2
 

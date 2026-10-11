@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The high school owned and administered by the Parents-Teachers Association at Barangay Salvacion, Municipality of Bayugan, Province of Agusan Del Sur, is hereby absorbed by the national government and converted into a regular secondary school, under the full control and supervision of the national government through the Department of Education, Culture and Sports to be known as the Salvacion National High School.Ꮮαwρhi৷
+The high school owned and administered by the Parents-Teachers Association at Barangay Salvacion, Municipality of Bayugan, Province of Agusan Del Sur, is hereby absorbed by the national government and converted into a regular secondary school, under the full control and supervision of the national government through the Department of Education, Culture and Sports to be known as the Salvacion National High School.
 
 ## Section 2
 

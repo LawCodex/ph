@@ -50,7 +50,7 @@ In compliance with the constitutional mandate to democratize ownership of public
 
 ## Section 6
 
-The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the radio spectrum without having been authorized by the Commission. The stations of the grantee shall be constructed and operated in a manner as win at most result only in the minimum interference on the wavelengths or frequencies of the existing stations or other stations which may be established in accordance with law of other telecommunications services grantees without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.1âшphi1
+The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the radio spectrum without having been authorized by the Commission. The stations of the grantee shall be constructed and operated in a manner as win at most result only in the minimum interference on the wavelengths or frequencies of the existing stations or other stations which may be established in accordance with law of other telecommunications services grantees without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
 
 ## Section 7
 

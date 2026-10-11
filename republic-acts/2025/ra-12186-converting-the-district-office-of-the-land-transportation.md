@@ -29,7 +29,7 @@ The Land Transportation Office (LTO) District Office in San Carlos City, Provinc
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Class "B" LTO District Office in San Carlos City, Province of Pangasinan, the funding of which shall be included in annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Class "B" LTO District Office in San Carlos City, Province of Pangasinan, the funding of which shall be included in annual General Appropriations Act.
 
 ## Section 3
 

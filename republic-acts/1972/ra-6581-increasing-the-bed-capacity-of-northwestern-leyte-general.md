@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of Northwestern Leyte General Hospital in the Municipality of Calubian, Province of Leyte, is hereby increased from fifty beds to seventy-five beds.1âшphi1
+The bed capacity of Northwestern Leyte General Hospital in the Municipality of Calubian, Province of Leyte, is hereby increased from fifty beds to seventy-five beds.
 
 ## Section 2
 

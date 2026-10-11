@@ -34,7 +34,7 @@ The Naneng National High School – Mosimos Extension in Barangay Dupag, City of
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Naneng National High School – Mosimos Extension are hereby transferred to and absorbed by the Dupag National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Naneng National High School – Mosimos Extension are hereby transferred to and absorbed by the Dupag National High School.
 
 ## Section 3
 

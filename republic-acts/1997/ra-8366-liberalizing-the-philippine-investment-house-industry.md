@@ -27,7 +27,9 @@ AN ACT LIBERALIZING THE PHILIPPINE INVESTMENT HOUSE INDUSTRY, AMENDING CERTAIN S
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Declaration of policy._** – It is the policy of the State to expand and strengthen the capital base of the economy in order to ensure sustained economic growth and development. Toward this end, the Philippine investment house industry is hereby liberalized, increasing foreign equity participation and raising the minimum capitalization of investment houses to enable them to meet the present and future demands of the market.
+## Section 1
+
+_Declaration of policy._ – It is the policy of the State to expand and strengthen the capital base of the economy in order to ensure sustained economic growth and development. Toward this end, the Philippine investment house industry is hereby liberalized, increasing foreign equity participation and raising the minimum capitalization of investment houses to enable them to meet the present and future demands of the market.
 
 ## Section 2
 

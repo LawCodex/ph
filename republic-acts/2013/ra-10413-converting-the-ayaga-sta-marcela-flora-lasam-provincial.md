@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Ayaga – Sta. Marcela – Flora – Lasam Road in the Province of Apayao is hereby converted and classified as a national road under the direct responsibility of the Department of Public Works and Highways.1âwphi1
+The Ayaga – Sta. Marcela – Flora – Lasam Road in the Province of Apayao is hereby converted and classified as a national road under the direct responsibility of the Department of Public Works and Highways.
 
 ## Section 2
 

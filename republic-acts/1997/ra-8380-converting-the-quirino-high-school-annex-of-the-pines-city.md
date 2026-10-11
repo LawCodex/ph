@@ -36,7 +36,7 @@ The amount necessary for the implementation of this Act shall be charged against
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Apprved,
 

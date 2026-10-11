@@ -652,7 +652,7 @@ _Enforcement._ \- It shall be the primary duty of the Board and the PRC to effec
 
 ### Section 48
 
-_Appropriations._ \- The Chairperson of the PRC shall immediately include in its programs the implementation of this Act, the funding of which shall be charged against their current years’ appropriations and thereafter, in the annual General Appropriations Act.1âwphi1
+_Appropriations._ \- The Chairperson of the PRC shall immediately include in its programs the implementation of this Act, the funding of which shall be charged against their current years’ appropriations and thereafter, in the annual General Appropriations Act.
 
 ### Section 49
 

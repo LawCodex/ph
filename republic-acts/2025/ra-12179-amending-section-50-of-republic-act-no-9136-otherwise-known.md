@@ -37,7 +37,7 @@ _Repealing Clause._ \- All laws, presidential decrees, executive orders, letters
 
 ## Section 3
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

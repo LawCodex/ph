@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provisions of law to the contrary notwithstanding, in any criminal proceeding before a justice of the peace no cost de oficio shall be taxed against the municipality concerned when the case is dismissed or the defendant acquitted.£á⩊phi£
+Any provisions of law to the contrary notwithstanding, in any criminal proceeding before a justice of the peace no cost de oficio shall be taxed against the municipality concerned when the case is dismissed or the defendant acquitted.
 
 ## Section 2
 

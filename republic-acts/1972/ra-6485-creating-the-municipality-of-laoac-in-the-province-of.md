@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Barrios Maraboc, Panaga, Turko, Talogtog, Inmanduyan, Calaoagan, Cabulalaan, Botigue, Laoac, Casampagaan, Anis, Caaringayan, Nambagatan, Cabilaoan East, Cabilaoan West, Lebueg, Casantiagoan, Yatyat, Casanestebanan and Calmay in the Municipality of Manaoag, Province of Pangasinan, are separated from said municipality and constituted into a new municipality to be known as the Municipality of Laoac, with the seat of government at the present site of Barrio Laoac.1âшphi1
+Barrios Maraboc, Panaga, Turko, Talogtog, Inmanduyan, Calaoagan, Cabulalaan, Botigue, Laoac, Casampagaan, Anis, Caaringayan, Nambagatan, Cabilaoan East, Cabilaoan West, Lebueg, Casantiagoan, Yatyat, Casanestebanan and Calmay in the Municipality of Manaoag, Province of Pangasinan, are separated from said municipality and constituted into a new municipality to be known as the Municipality of Laoac, with the seat of government at the present site of Barrio Laoac.
 
 ## Section 2
 

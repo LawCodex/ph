@@ -29,7 +29,7 @@ The United Nations Children’s Fund National Committee of the Philippines, here
 
 ## Section 2
 
-The members of the National Committee shall be appointed by the President of the Philippines, and shall be composed of the following: (1) The Secretary of Health, (2) the Social Welfare Administrator, (3) the Secretary of Education, (4) the Budget Commissioner, (5) the Secretary of Foreign Affairs, (6) the Chairman of the National Science Development Board, and (7) a representative of the civic organizations in the country as recommended by the recognized national civic organizations.1âшphi1 The Chairman of the National Committee may be appointed from among these members by the President of the Philippines.
+The members of the National Committee shall be appointed by the President of the Philippines, and shall be composed of the following: (1) The Secretary of Health, (2) the Social Welfare Administrator, (3) the Secretary of Education, (4) the Budget Commissioner, (5) the Secretary of Foreign Affairs, (6) the Chairman of the National Science Development Board, and (7) a representative of the civic organizations in the country as recommended by the recognized national civic organizations. The Chairman of the National Committee may be appointed from among these members by the President of the Philippines.
 
 ## Section 3
 

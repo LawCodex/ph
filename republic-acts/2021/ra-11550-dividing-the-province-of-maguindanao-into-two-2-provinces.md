@@ -483,7 +483,7 @@ _Temporary Vacancy in the Office of the Provincial Governor._ \- (a) When the pr
 
 _The Secretary to the Sangguniang Panlalawigan._ \- (a) There shall be a secretary to the sangguniang panlalawigan who shall be a career official with the ranl and salary equal to a head of a department or office.
 
-(b) The secretary to the sanggunian must be a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in law, commerce or public administration from a recognized college or university, and a first grade civil service eligible or its equivalent.1aшphi1
+(b) The secretary to the sanggunian must be a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in law, commerce or public administration from a recognized college or university, and a first grade civil service eligible or its equivalent.
 
 The appointment of the secretary to the sanggunian is mandatory.
 
@@ -715,7 +715,7 @@ The appointment of a provincial health officer is mandatory,
 
 ### Section 33
 
-_The Provincial Administrator._ \- (a) The provincial administrator must be a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in public administration, law or any related course from a recognized college or university, a first grade civil service eligible or its equivalent and must have acquired at least five (50 years experience in management and administration work.ℒαwρhi৷
+_The Provincial Administrator._ \- (a) The provincial administrator must be a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in public administration, law or any related course from a recognized college or university, a first grade civil service eligible or its equivalent and must have acquired at least five (50 years experience in management and administration work.
 
 The term of the provincial administrator is coterminous with that of the appointing authority.
 
@@ -1081,7 +1081,7 @@ President of the Republic of the Philippines from among the qualified residents 
 (c) The rule of succession under _Title_ II, Chapter 2, Section 44 of the Local Government Code of 1991, as amended by Republic Act No. 11054, otherwise known as the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao, shall be applied in filling up vacant elective provincial positions in the Province of Maguindanao del Sur arising as a consequence of the approval of this Act: _Provided,_ That additional and new members of sangguniang panlalawigan shall be appointed by the
 President of the Republic of the Philippines from among the qualified residents of the province upon the recommendation of the provincial governor and the incumbent Representative of the Second Legislative District of the Province of Maguindanao, in consultation with, and with the consensus of the local elders and political leaders, and they shall continue to serve in office until their successors shall have been elected and qualified in the 2022 national and local elections.
 
-(d) The incumbent governor of the present Province of Maguindanao shall remain as governor of the Province of Maguindanao del Sur.ℒαwρhi৷
+(d) The incumbent governor of the present Province of Maguindanao shall remain as governor of the Province of Maguindanao del Sur.
 
 ### Section 51
 

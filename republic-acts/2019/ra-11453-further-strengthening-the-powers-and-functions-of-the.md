@@ -212,7 +212,7 @@ Section 15 of Republic Act No. 9728 is hereby amended to read as follows:
 
 Section 16 of Republic Actt No. 9728 is hereby amended to read as follows:
 
-"Sec. 16. _Organization and Personnel._ — The AFAB Board of Directors shall provide for an organizational structure and appoint employees, subject to the Civil Service Law. Upon the recommendation of the administrator, the Board shall appoint and fix the remuneration and other emoluments of its officers and employees in accordance with existing laws on compensation and position classification: Provided, That the salary and other compensation of the administrator shall be comparable with the president and chief executive officer of Clark Development Corporation: Provided, further, That the Board shall exercise administrative supervision on their employees.1awp++i1
+"Sec. 16. _Organization and Personnel._ — The AFAB Board of Directors shall provide for an organizational structure and appoint employees, subject to the Civil Service Law. Upon the recommendation of the administrator, the Board shall appoint and fix the remuneration and other emoluments of its officers and employees in accordance with existing laws on compensation and position classification: Provided, That the salary and other compensation of the administrator shall be comparable with the president and chief executive officer of Clark Development Corporation: Provided, further, That the Board shall exercise administrative supervision on their employees.
 
 "The officers and employees of the AFAB, including all members of the Board, shall not engage directly or indirectly in partisan activities nor take part in any election, except to vote.
 

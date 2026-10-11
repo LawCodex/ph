@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of seventy thousand pesos, or so much thereof as may be necessary, is hereby appropriated to cover the transportation, sundry and other expenses of the Philippine representatives and their advisers to the International Labour Conference, meetings and seminars of the International Labour Office and its committees.1awp++i1 The per diems of the delegates or representatives shall not exceed fifty pesos and those of the advisers not more than forty pesos.
+The sum of seventy thousand pesos, or so much thereof as may be necessary, is hereby appropriated to cover the transportation, sundry and other expenses of the Philippine representatives and their advisers to the International Labour Conference, meetings and seminars of the International Labour Office and its committees. The per diems of the delegates or representatives shall not exceed fifty pesos and those of the advisers not more than forty pesos.
 
 The aforesaid sum shall hereafter be included in the General Appropriation for the Department of Labor as long as the Philippines is a member of the International Labour Organization.
 

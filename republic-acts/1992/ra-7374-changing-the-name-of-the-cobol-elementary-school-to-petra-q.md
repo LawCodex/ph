@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Cobol Elementary School situated in Barangay Petra Q. Pimentel, Municipality of Batac, Province of Ilocos Norte, is hereby changed to Petra Q. Pimentel Elementary School.1âшphi1
+The name of the Cobol Elementary School situated in Barangay Petra Q. Pimentel, Municipality of Batac, Province of Ilocos Norte, is hereby changed to Petra Q. Pimentel Elementary School.
 
 ## Section 2
 

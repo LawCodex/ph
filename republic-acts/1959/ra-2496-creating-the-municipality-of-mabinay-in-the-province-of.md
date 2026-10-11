@@ -28,7 +28,7 @@ The sitios of Baliw, Landas, Langao, Abis, Himocdongon, Bato, Luyang Namangka, T
 
 ## Section 2
 
-The seat of government shall be in the Mabinay proposed townsite in sitio Tadlong, or in any of the sitios therein which the municipal council by two-thirds vote may hereafter propose: _Provided,_ That if the municipal council fails or omits to propose a different site within one year after the organization of the municipal government, the permanent site shall be the Mabinay proposed townsite: _Provided, further,_ That should the council propose a different site within the period stated, that site so proposed shall be the seat of the municipal government.1âшphi1
+The seat of government shall be in the Mabinay proposed townsite in sitio Tadlong, or in any of the sitios therein which the municipal council by two-thirds vote may hereafter propose: _Provided,_ That if the municipal council fails or omits to propose a different site within one year after the organization of the municipal government, the permanent site shall be the Mabinay proposed townsite: _Provided, further,_ That should the council propose a different site within the period stated, that site so proposed shall be the seat of the municipal government.
 
 ## Section 3
 

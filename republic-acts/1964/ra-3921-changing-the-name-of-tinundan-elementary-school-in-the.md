@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Tinundan Elementary School in the Municipality of President Roxas, Province of Capiz, is hereby changed to Elizalde Memorial Elementary School.1âшphi1
+The name of Tinundan Elementary School in the Municipality of President Roxas, Province of Capiz, is hereby changed to Elizalde Memorial Elementary School.
 
 ## Section 2
 

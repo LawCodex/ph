@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Turod National High School located at Barangay Turod, Municipality of Cabugao, Province of Ilocos Sur, is hereby changed to Cabugao National High School.1aшphi1
+The name of the Turod National High School located at Barangay Turod, Municipality of Cabugao, Province of Ilocos Sur, is hereby changed to Cabugao National High School.
 
 ## Section 2
 

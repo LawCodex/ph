@@ -28,11 +28,17 @@ AN ACT CONVERTING THE LEYTE INSTITUTE OF TECHNOLOGY (LIT) IN THE PROVINCE OF LEY
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**SECTION 1._Conversion._** \- The Leyte Institute of Technology (LIT) in the Province of Leyte is hereby converted into a state university to be known as the Eastern Visayas State University, hereinafter referred to as the University. The main campus of the University shall be in Tacloban City, Leyte.
+## SECTION 1
 
-**SEC. 2._General Mandate._** \- The University shall primarily provide advanced education, higher technological, professional instruction and training in trade, fishery, agriculture, forestry, science, education, commerce, architecture, engineering and related courses. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+_Conversion._ \- The Leyte Institute of Technology (LIT) in the Province of Leyte is hereby converted into a state university to be known as the Eastern Visayas State University, hereinafter referred to as the University. The main campus of the University shall be in Tacloban City, Leyte.
 
-**SEC. 3._Curricular Offerings._** \- The University shall offer undergraduate, graduate and short term technical courses within its areas of specialization and according to its capabilities as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Leyte and the Eastern Visayas Region.
+## SEC. 2
+
+_General Mandate._ \- The University shall primarily provide advanced education, higher technological, professional instruction and training in trade, fishery, agriculture, forestry, science, education, commerce, architecture, engineering and related courses. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+
+## SEC. 3
+
+_Curricular Offerings._ \- The University shall offer undergraduate, graduate and short term technical courses within its areas of specialization and according to its capabilities as the Board of Regents may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Leyte and the Eastern Visayas Region.
 
 The existing high school/s shall be transferred to the jurisdiction and supervision of the Department of Education: Provided, That the high school/s shall be allowed to remain and operate within the campus of the University until the existing students shall have completed their high school education: Provided, further, That the University may operate a reasonably-sized laboratory school, if it has a College of Education.
 
@@ -40,7 +46,9 @@ The existing high school/s shall be transferred to the jurisdiction and supervis
 
 _Administration._ \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as "The Corporation Code of the Philippines." The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University insofar as authorized by the Board.
 
-**SEC. 5._Governing Board._** \- The Governing Board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+## SEC. 5
+
+_Governing Board._ \- The Governing Board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 <table>
 <tr>
@@ -90,9 +98,13 @@ The term of office of the president of the federation of faculty associations, t
 
 The two (2) prominent citizens shall serve for a term of two (2) years.
 
-**SEC. 6._Promulgation and implementation of Policies._** \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+## SEC. 6
 
-**SEC. 7._Powers and Duties of the Board of Regents._** \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the Board of Directors of a corporation under existing laws:
+_Promulgation and implementation of Policies._ \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+
+## SEC. 7
+
+_Powers and Duties of the Board of Regents._ \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the Board of Directors of a corporation under existing laws:
 
 a. To promulgate rules and regulations not contrary to law as may be necessary to carry out the purposes and functions of the University;
 
@@ -152,7 +164,9 @@ x. To private, where most advantageous to the University, management of non-acad
 
 y. To extend the term of the president of the University beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated by the Governing Board as outstanding, after unanimous recommendation by the search committee.
 
-**SEC. 8._Meetings of the Board._** \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days prior written notice, call a special meeting whenever necessary.
+## SEC. 8
+
+_Meetings of the Board._ \- The Board shall regularly convene at least once every quarter. However, the Chairperson of the Board may, upon three (3) days prior written notice, call a special meeting whenever necessary.
 
 A quorum of the Board shall consist of a majority of all its members holding office at the time of the meeting: Provided, That the Chairperson of the CHED or the president of the University is among those present in the meeting.
 
@@ -162,7 +176,9 @@ In the absence of the Chairpersons of the Congressional Committees on Education,
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**SEC. 9._The University President._** \- The University shall be headed by a president who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall hold office for a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition into a state university, the incumbent president of the Leyte Institute of Technology, if qualified, shall be the first president of the University.
+## SEC. 9
+
+_The University President._ \- The University shall be headed by a president who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall hold office for a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition into a state university, the incumbent president of the Leyte Institute of Technology, if qualified, shall be the first president of the University.
 
 The president shall be assisted by a vice president for Academic Affairs, who shall be appointed by the Board for a term of three (3) years, upon the recommendation of the president after due consultation with all sectors of the University, without prejudice to the appointment of additional vice presidents when so warranted.
 
@@ -174,33 +190,55 @@ The powers and duties of the president of the University, in addition to those s
 
 The salary of the president of the University shall be in accordance with the Revised Compensation and Position Classification System and shall be comparable to that being received by the presidents of similar educational institutions of like standing.
 
-**SEC. 10._The Administrative Council._** \- There shall be an Administrative Council consisting of the president of the University as chairperson, vice president(s), deans, directors, and other officials of equal rank as members, whose duty is to review and recommend to the Board of Regents policies governing the administration, management and development of the University.
+## SEC. 10
 
-**SEC. 11._The Academic Council._** \- There shall be an Academic Council with the president of the University as chairperson and all members of the academic staff, with the rank of not lower than assistant professor as members.
+_The Administrative Council._ \- There shall be an Administrative Council consisting of the president of the University as chairperson, vice president(s), deans, directors, and other officials of equal rank as members, whose duty is to review and recommend to the Board of Regents policies governing the administration, management and development of the University.
+
+## SEC. 11
+
+_The Academic Council._ \- There shall be an Academic Council with the president of the University as chairperson and all members of the academic staff, with the rank of not lower than assistant professor as members.
 
 The Academic Council shall have the power to review and recommend curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and/or approval of the Board of Regents through the president of the University. It shall have disciplinary power over the students of the University and shall formulate academic policies, rules and regulations on discipline, subject to the approval of the Board of Regents.
 
-**SEC. 12._The Secretary of the University._** \- The Board shall appoint a secretary, who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
+## SEC. 12
 
-**SEC. 13._The Treasurer of the University._** \- The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+_The Secretary of the University._ \- The Board shall appoint a secretary, who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
 
-**SEC. 14._Faculty._** \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+## SEC. 13
 
-**SEC. 15._Scholarship Program/Admission._** \- The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the University.
+
+## SEC. 14
+
+_Faculty._ \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## SEC. 15
+
+_Scholarship Program/Admission._ \- The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**SEC. 16._Academic Freedom and Institutional Autonomy._** \- The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## SEC. 16
 
-**SEC. 17._Authority to Loan or Transfer._** \- The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. Employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ \- The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**SEC. 18._Assets, Liabilities and Personnel._** \- All assets, real and personal, personnel and records of the Leyte Institute of Technology, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
+## SEC. 17
+
+_Authority to Loan or Transfer._ \- The heads of bureaus and offices of the national government are hereby authorized to loan or transfer, upon request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to public service. Employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## SEC. 18
+
+_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Leyte Institute of Technology, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of the personnel therein employed under existing laws shall be respected.
 
 All parcels of land belonging to the government and occupied by the Leyte Institute of Technology and its duly integrated campuses except the land occupied by the main campus in Tacloban City, Leyte are hereby declared to be the property of the Eastern Visayas State University and shall be titled under that name: Provided, That should the University cease to exist or be abolished or such parcels of land aforementioned be no longer needed by the University, the same shall revert to the Province of Leyte.
 
-**SEC. 19._Appropriations._** \- The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the Leyte Institute of Technology except the sums needed to continue the operations of the existing high school/s. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Eastern Visayas State University shall be included in the annual General Appropriations Act.
+## SEC. 19
 
-**SEC. 20._Development Plan, Management Audit, Organizational/Administrative/Academic Structure._** \- Within the period of one hundred and twenty (120) days after the approval of this Act, the University shall accomplish the following:
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year’s appropriations of the Leyte Institute of Technology except the sums needed to continue the operations of the existing high school/s. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Eastern Visayas State University shall be included in the annual General Appropriations Act.
+
+## SEC. 20
+
+_Development Plan, Management Audit, Organizational/Administrative/Academic Structure._ \- Within the period of one hundred and twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 1\. Submit a five (5)-year development plan, including its corresponding program budget, to the CHED, for appropriate recommendation to the DBM;
 
@@ -208,13 +246,21 @@ All parcels of land belonging to the government and occupied by the Leyte Instit
 
 3\. Accordingly set-up its organizational, administrative as well as academic structure, including the appointment/designation of key University officials.
 
-**SEC. 21._Filing of Report._** \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.
+## SEC. 21
 
-**SEC. 22._Inclusion Clause._** \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and together shall serve as part of the Governing Charter of the University.
+_Filing of Report._ \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the Chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.
 
-**SEC. 23._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+## SEC. 22
 
-**SEC. 24._Effectivity._** \- This Act shall take effect upon its approval.
+_Inclusion Clause._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and together shall serve as part of the Governing Charter of the University.
+
+## SEC. 23
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+## SEC. 24
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved,
 

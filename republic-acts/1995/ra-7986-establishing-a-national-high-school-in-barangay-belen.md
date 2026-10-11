@@ -32,7 +32,7 @@ There shall be established a national high school in Barangay Belen, Municipalit
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Manat Elementary School in the Municipality of Nabunturan, Province of Davao del Norte, is hereby changed to Manat Central School.1âшphi1
+The name of the Manat Elementary School in the Municipality of Nabunturan, Province of Davao del Norte, is hereby changed to Manat Central School.
 
 ## Section 2
 

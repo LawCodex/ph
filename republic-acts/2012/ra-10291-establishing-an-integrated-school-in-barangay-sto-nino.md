@@ -34,7 +34,7 @@ _Establishment of an Integrated School._ – There is hereby established, under 
 
 ## Section 2
 
-_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the Sto. Niño Integrated School, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the Sto. Niño Integrated School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

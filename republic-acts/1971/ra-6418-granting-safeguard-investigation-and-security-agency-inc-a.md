@@ -28,7 +28,7 @@ The Safeguard Investigation and Security Agency, Inc., is hereby granted a franc
 
 ## Section 2
 
-This franchise shall continue to be in force for a period of forty-five years and is granted upon the express condition that the same shall be void unless the construction or installation of at least one station be begun within two years from the date of approval of this Act and be completed within four years from said date.1âшphi1
+This franchise shall continue to be in force for a period of forty-five years and is granted upon the express condition that the same shall be void unless the construction or installation of at least one station be begun within two years from the date of approval of this Act and be completed within four years from said date.
 
 The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point, private coastal, and land-based and land-mobile radio stations on any land of the public domain upon such terms as he may prescribe.
 

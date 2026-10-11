@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-July Sixteen of every year is hereby declared as Ozamiz City Charter Day and a special public non-working holiday in the City of Ozamiz.1a⍵⍴h!1
+July Sixteen of every year is hereby declared as Ozamiz City Charter Day and a special public non-working holiday in the City of Ozamiz.
 
 ## Section 2
 

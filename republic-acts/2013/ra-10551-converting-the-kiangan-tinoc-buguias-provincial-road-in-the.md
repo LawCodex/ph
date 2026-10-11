@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Kiangan – Tinoc – Buguias Provincial Road in the municipalities of Kiangan and Tinoc, Province of Ifugao and Municipality of Buguias, Province of Benguet shall be converted into a national road under the supervision of the Department of Public Works and Highways (DPWH).1âwphi1
+The Kiangan – Tinoc – Buguias Provincial Road in the municipalities of Kiangan and Tinoc, Province of Ifugao and Municipality of Buguias, Province of Benguet shall be converted into a national road under the supervision of the Department of Public Works and Highways (DPWH).
 
 ## Section 2
 

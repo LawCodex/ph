@@ -38,7 +38,7 @@ First Regular Election. - The first regular election for the Bangsamoro Governme
 
 ## Section 2
 
-During the extension of the transition period, the Bangsamoro Transition Authority (BTA) shall continue as the interim government in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): provided, however, That the President may appoint the eighty (80) new interim members of the BTA who shall serve up to June 30, 2025 or until their successors shall have been elected and qualified.ℒαwρhi৷
+During the extension of the transition period, the Bangsamoro Transition Authority (BTA) shall continue as the interim government in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): provided, however, That the President may appoint the eighty (80) new interim members of the BTA who shall serve up to June 30, 2025 or until their successors shall have been elected and qualified.
 
 ## Section 3
 

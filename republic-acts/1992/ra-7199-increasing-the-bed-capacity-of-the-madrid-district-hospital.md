@@ -37,7 +37,7 @@ The amount necessary to carry out the provision of this Act shall be included in
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -44,7 +44,7 @@ _Acquisition of property and property rights._ -For the purposes of this Act, th
 
 ## Section 6
 
-_Preference of condemnation cases._ -Court proceedings necessary to acquire property or property rights for purposes of this Act shall take precedence over all other cases not involving the public interest in all courts, to the end that the cases of limited access facilities may be expedited.1âшphi1
+_Preference of condemnation cases._ -Court proceedings necessary to acquire property or property rights for purposes of this Act shall take precedence over all other cases not involving the public interest in all courts, to the end that the cases of limited access facilities may be expedited.
 
 ## Section 7
 

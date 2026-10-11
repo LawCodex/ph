@@ -42,7 +42,7 @@ The Secretary of Education shall immediately include in the Department’s progr
 
 ## Section 4
 
-The Secretary of Education shall issue the rules and regulations necessary to carry out the provisions of this Act within ninety (90) days after its effectivity.7!ᕼdMᗄ7
+The Secretary of Education shall issue the rules and regulations necessary to carry out the provisions of this Act within ninety (90) days after its effectivity.
 
 ## Section 5
 

@@ -44,10 +44,16 @@ The death sentence shall be carried out not earlier than one (1) year nor later 
 
 Persons already sentenced by judgment, which has become final and executory, who are waiting to undergo the death penalty by electrocution or gas poisoning shall be under the coverage of the provisions of this Act upon its effectivity. Their sentences shall be automatically modified for this purpose.
 
-**Section 3._Implementing Rules._** – The Secretary of Justice in coordination with the Secretary of Health and the Bureau of Corrections shall, within thirty (30) days from the effectivity of this Act, promulgate the rules to implement its provisions.
+## Section 3
 
-**Section 4._Repealing Clause._** – All laws, presidential decrees and issuances, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Implementing Rules._ – The Secretary of Justice in coordination with the Secretary of Health and the Bureau of Corrections shall, within thirty (30) days from the effectivity of this Act, promulgate the rules to implement its provisions.
 
-**Section 5._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier. Publication shall not be later than ten (10) days after the approval thereof.
+## Section 4
+
+_Repealing Clause._ – All laws, presidential decrees and issuances, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 5
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier. Publication shall not be later than ten (10) days after the approval thereof.
 
 Approved: **March 20, 1996**

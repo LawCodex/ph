@@ -84,7 +84,7 @@ The Securities and Exchange Commissioner shall not register the by-laws of any b
 
 ### Section 11
 
-After the approval of this Act, no bank which may be established and licensed to do business in the Philippines shall receive deposits, unless incorporated under the laws of the Republic of the Philippines: _Provided,_ However, That this prohibition shall not apply to branches and agencies of foreign banks which, at the time of the approval of this Act, are actually receiving deposits: And _Provided, further,_ That, after the passage of this Act, all deposits so received by such branches and agencies of foreign bank shall not be invested in any manner outside the territorial limits of the Republic of the Philippines.1aшphi1
+After the approval of this Act, no bank which may be established and licensed to do business in the Philippines shall receive deposits, unless incorporated under the laws of the Republic of the Philippines: _Provided,_ However, That this prohibition shall not apply to branches and agencies of foreign banks which, at the time of the approval of this Act, are actually receiving deposits: And _Provided, further,_ That, after the passage of this Act, all deposits so received by such branches and agencies of foreign bank shall not be invested in any manner outside the territorial limits of the Republic of the Philippines.
 
 ### Section 12
 
@@ -516,7 +516,7 @@ The Monetary Board may, similarly, in accordance with the authority granted to i
 
 ### Section 79
 
-The amortization schedule of bank loans shall be adapted to the nature of the operations to be financed.1aшphi1
+The amortization schedule of bank loans shall be adapted to the nature of the operations to be financed.
 
 In the case of loans with maturities of more than three years, provision must be made for periodic amortization payments, but such payments must be made at least annually: _Provided,_ However, That when the borrowed funds are to be used for purposes which do not initially produce revenues adequate for regular amortization payments therefrom, the bank may permit the initial amortization payment to be deferred until such time as said revenues are sufficient for such purpose, but in no case shall the initial amortization date be later than three years from the date on which the loan is granted.
 

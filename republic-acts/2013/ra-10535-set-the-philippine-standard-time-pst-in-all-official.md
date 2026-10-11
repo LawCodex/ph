@@ -74,7 +74,7 @@ _Implementing Guidelines._ – The PAGASA, in coordination with the DOST, the NT
 
 ## Section 11
 
-_Separability Clause._ – If any provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.1âwphi1
+_Separability Clause._ – If any provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
 
 ## Section 12
 

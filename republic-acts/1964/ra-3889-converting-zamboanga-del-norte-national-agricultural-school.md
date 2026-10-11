@@ -29,7 +29,7 @@ The Zamboanga del Norte National Agricultural School in the Municipality of Lilo
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said college during the fiscal year nineteen hundred sixty-five. Such sums as may be necessary in subsequent years shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said college during the fiscal year nineteen hundred sixty-five. Such sums as may be necessary in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

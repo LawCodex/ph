@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipality of Liargao in the Province of Zamboanga del Sur is changed to Ramon Magsaysay.1âшphi1
+The name of the Municipality of Liargao in the Province of Zamboanga del Sur is changed to Ramon Magsaysay.
 
 ## Section 2
 

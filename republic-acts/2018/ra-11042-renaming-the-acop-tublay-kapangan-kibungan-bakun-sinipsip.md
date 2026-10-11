@@ -37,7 +37,7 @@ The Department of Public Works and Highways shall place appropriate markers alon
 
 ## Section 3
 
-This Act shall take effect immediately upon its approval.1âwphi1
+This Act shall take effect immediately upon its approval.
 
 Approved,
 

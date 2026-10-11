@@ -28,7 +28,7 @@ Any provision of law, executive order, rule or regulation to the contrary notwit
 
 ## Section 2
 
-Any public works engineer, before executing any public works project or a part thereof on piece work or "takay" basis, shall first determine the volume of work which an average laborer can perform in eight hours, and, on the basis of the minimum wage rate prescribed by law, fix the unit measure of work and the payment therefor.1âшphi1
+Any public works engineer, before executing any public works project or a part thereof on piece work or "takay" basis, shall first determine the volume of work which an average laborer can perform in eight hours, and, on the basis of the minimum wage rate prescribed by law, fix the unit measure of work and the payment therefor.
 
 ## Section 3
 

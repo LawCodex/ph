@@ -957,7 +957,7 @@ _The City Veterinarian._ –
 
 a. The city veterinarian must be a citizen of the Philippines, a resident of the Island Garden City of Samal, of good moral character, and a licensed doctor of veterinary medicine. He must have practiced his profession for at least three (3) years immediately preceding the date of his appointment.
 
-b. The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.+3u.7!ydmb7
+b. The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.
 
 c. The city veterinarian shall take charge of the office of veterinary services, and shall:
 
@@ -1083,7 +1083,7 @@ b. Voluntary renunciation of the office for any length of time shall not be cons
 
 ### Section 58
 
-_Jurisdiction of the Province of Davao._ – The Island Garden City of Samal shall, unless otherwise provided by law, continue to be under the supervision of the Province of Davao.Ꮮαwρhi৷
+_Jurisdiction of the Province of Davao._ – The Island Garden City of Samal shall, unless otherwise provided by law, continue to be under the supervision of the Province of Davao.
 
 ### Section 59
 

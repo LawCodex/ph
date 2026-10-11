@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Palanas, Nipa, Nabangig, Banco, Pina, Maanahao, Salvacion, Antipolo, Malatawan, Intusan, Miabas, San Antonio, Libtong, Malibas, Sta. Cruz, Bontod and Cabil-isan, Municipality of Dimasalang, Province of Masbate, are separated from said municipality and constituted into a new municipality to be known as the Municipality of Palanas, with the seat of government at the present site of the barrio of Palanas.1a⍵⍴h!1
+The barrios of Palanas, Nipa, Nabangig, Banco, Pina, Maanahao, Salvacion, Antipolo, Malatawan, Intusan, Miabas, San Antonio, Libtong, Malibas, Sta. Cruz, Bontod and Cabil-isan, Municipality of Dimasalang, Province of Masbate, are separated from said municipality and constituted into a new municipality to be known as the Municipality of Palanas, with the seat of government at the present site of the barrio of Palanas.
 
 ## Section 2
 

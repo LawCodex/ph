@@ -34,7 +34,7 @@ The First Cebu-Mactan Bridge traversing the Mactan Channel located at A.C. Corte
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.ℒαwρhi৷
+The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
 
 ## Section 3
 

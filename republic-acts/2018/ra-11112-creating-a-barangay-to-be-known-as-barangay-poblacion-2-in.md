@@ -112,7 +112,7 @@ The technical description of Barangay Poblacion 2 is as follows:
 <td>59</td>
 <td>E</td>
 <td>9.13</td>
-<td>BBM No. 13</td><cite>1âwphi1</cite>
+<td>BBM No. 13</td>
 </tr>
 <tr>
 <td>5-6</td>
@@ -962,7 +962,7 @@ The technical description of Barangay Poblacion 2 is as follows:
 </tr>
 <tr>
 <td>102-103</td>
-<td>S</td><cite>1âwphi1</cite>
+<td>S</td>
 <td>50</td>
 <td>52</td>
 <td>W</td>
@@ -988,7 +988,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Barangay Officials._ \- The incumbent elected barangay officials of Barangay Poblacion 2, Municipality of Villanueva, Province of Misamis Oriental shall continue to hold office until such time that their successors have been duly elected and qualified.1âwphi1
+_Barangay Officials._ \- The incumbent elected barangay officials of Barangay Poblacion 2, Municipality of Villanueva, Province of Misamis Oriental shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

@@ -290,7 +290,7 @@ Special permit to take charge of or supervise the operation, tending and mainten
 
 All special permits shall be subject to all the provisions and requirements of this Act and the rules and regulations which may be adopted by the board pertaining to certificates of registration, and may be suspended, revoked or reissued by the board in the manner prescribed for certificates of registration. Any person who has been granted a special permit shall, for purposes of compliance with the provisions of this Act, be considered as registered in the Board of Electrical Engineering Examiners while said permit is still valid.
 
-A fee of ten pesos shall be collected for the issuance of a special permit and no person shall hold more than one permit at one time.1aшphi1
+A fee of ten pesos shall be collected for the issuance of a special permit and no person shall hold more than one permit at one time.
 
 ## Article III — Sundry Provisions Relative to the Practice of Electrical Engineering
 
@@ -340,7 +340,7 @@ _Provided, further,_ That the Secretary of National Defense and the Collector of
 
 _Provided, finally,_ That the Collector of Internal Revenue shall enforce the requirements of this Act checking the licenses of persons in charge of the sale or distribution of any electric supply or utilization equipment requiring engineering calculation and/or application of engineering principles and data.
 
-All applications for electrical construction permits including the plans and/or layouts or statements shall be filed for reference.1aшphi1
+All applications for electrical construction permits including the plans and/or layouts or statements shall be filed for reference.
 
 ### Section 39
 

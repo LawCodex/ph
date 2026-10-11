@@ -105,7 +105,7 @@ _Delegation of Rule-Making Powers and Compliance Reports._ — The Monetary Boar
 
 ## Section 14
 
-_Amendment and Repeal of Inconsistent Laws._ — Sections 11,12,12-A, 12-B, 13,14-A, 21-B, and 68 of Republic Act No. 337, as amended, otherwise known as the General Banking Act; Sections 4 and 5 of Republic Act No. 7353, otherwise known as the Rural Banks Act; Sections 4 and 14 of Republic Act No. 3779, as amended, otherwise known as the Savings and Loan Association Act; and Section 4 of Republic Act No. 4093, as amended, otherwise known as the Private Development Banks Act insofar as they are inconsistent with this Act, are hereby repealed or modified accordingly.1a⍵⍴h!1
+_Amendment and Repeal of Inconsistent Laws._ — Sections 11,12,12-A, 12-B, 13,14-A, 21-B, and 68 of Republic Act No. 337, as amended, otherwise known as the General Banking Act; Sections 4 and 5 of Republic Act No. 7353, otherwise known as the Rural Banks Act; Sections 4 and 14 of Republic Act No. 3779, as amended, otherwise known as the Savings and Loan Association Act; and Section 4 of Republic Act No. 4093, as amended, otherwise known as the Private Development Banks Act insofar as they are inconsistent with this Act, are hereby repealed or modified accordingly.
 
 ## Section 15
 

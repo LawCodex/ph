@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-A nationalized high school is hereby established in the Municipality of Baco, Province of Oriental Mindoro, to be known as Baco National High School.Ꮮαwρhi৷
+A nationalized high school is hereby established in the Municipality of Baco, Province of Oriental Mindoro, to be known as Baco National High School.
 
 ## Section 2
 

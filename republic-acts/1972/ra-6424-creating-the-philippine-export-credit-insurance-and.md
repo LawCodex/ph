@@ -290,7 +290,7 @@ _Auditing and Legal Service_. — The Auditor General and the Secretary of Justi
 
 ### Section 34
 
-_Prohibitions_. — No official or employee of the Government, its subdivisions or instrumentalities shall appear as counsel for or act as agent or representative of, or in any manner intervene or intercede, directly or indirectly, in behalf of any party applying for insurance with the Corporation.1âшphi1
+_Prohibitions_. — No official or employee of the Government, its subdivisions or instrumentalities shall appear as counsel for or act as agent or representative of, or in any manner intervene or intercede, directly or indirectly, in behalf of any party applying for insurance with the Corporation.
 
 Any information, data, records, or documents relating to the condition or business of the Corporation or of any insured person, firm, association or corporation are hereby declared confidential in nature. Any member of the Board, officer or employee of the Corporation who shall, directly or indirectly, reveal such confidential information to any third party, except to an export credit agency or upon order of a competent court, shall be liable for any financial loss suffered by the Corporation as a result thereof, without prejudice to any criminal liability.
 

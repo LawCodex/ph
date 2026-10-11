@@ -156,7 +156,7 @@ Section 28 of the National Internal Revenue Code of 1997, as amended, is hereby 
 
 "(b) Income Derived under the Expanded Foreign Currency Deposit System. - x x x
 
-"(c) Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange.ℒαwρhi৷ — A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange.
+"(c) Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange. — A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange.
 
 "(d) Intercorporate Dividends. - x x x
 
@@ -763,7 +763,7 @@ TAX INCENTIVE MANAGEMENT AND TRANSPARENCY
 
 "SEC. 306. _Monitoring, Evaluation and Reporting of Tax Incentives._ \- Notwithstanding any law to the contrary, the Bureau of Internal Revenue and the Bureau of Customs shall submit to the Department of Finance: (a) all tax and duty incentives of registered business enterprises and other registered enterprises, as reflected in their filed tax returns and import entries; and (b) actual tax and duty incentives as evaluated and determined by the Bureau of Internal Revenue and the Bureau of Customs.
 
-"The Department of Finance shall maintain a single database for monitoring and analysis of tax incentives granted.ℒαwρhi৷
+"The Department of Finance shall maintain a single database for monitoring and analysis of tax incentives granted.
 
 "The Fiscal Incentives Review Board is mandated to systematically collect and store all tax incentives and benefit data from the Department of Finance, Investment Promotion Agencies, other government agencies administering tax incentives, registered business enterprises, and other registered enterprises, as well as to evaluate and assess the process, outcomes and impact of incentives granted to firms to determine whether agreed performance targets and intended results and outcomes are met. The method of evaluation may include the conduct of cost-benefit analysis or other process and impact evaluation methods: _Provided,_ That for purposes of this Act, the term cost-benefit analysis refers to the systematic evaluation of the total costs of granting tax incentives vis-a-vis the total benefits derived from the grant of tax incentives based on the annual tax incentive report, annual benefits report, and other related sources, to calculate the net benefit or cost associated with tax incentives.
 
@@ -870,7 +870,7 @@ _Repealing Clause._ -
 
 (2) Sections 2 and 3 of Executive Order No. 458, series of 1991, entitled: "Devolving the Powers and Functions of the Board of Investments Over Investments Within the Autonomous Region in Muslim Mindanao to the Autonomous Regional Government and for Other Purposes".
 
-(e) Sections 4, 5, 6 and 7 of Republic Act No. 10708, entitled: "An Act Enhancing Transparency in the Management and Accounting of Tax Incentives Administered by Investment Promotion Agencies", are also repealed for being inconsistent with this Act.ℒαwρhi৷
+(e) Sections 4, 5, 6 and 7 of Republic Act No. 10708, entitled: "An Act Enhancing Transparency in the Management and Accounting of Tax Incentives Administered by Investment Promotion Agencies", are also repealed for being inconsistent with this Act.
 
 (f) Article 7(11) of Executive Order No. 226, series of 1987, entitled: The Omnibus Investment Code of 1987.
 

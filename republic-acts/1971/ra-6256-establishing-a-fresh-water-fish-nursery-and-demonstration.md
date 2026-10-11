@@ -32,7 +32,7 @@ The President of the Philippines shall set aside, segregate and release from the
 
 ## Section 3
 
-The sum of ten thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, in addition to whatever sums may be available for this purpose under Republic Act Numbered Forty-six hundred forty, to carry into effect the purposes of this Act during fiscal year ending June thirtieth, nineteen hundred seventy-two. Thereafter, the amount of not less than fifty thousand pesos needed for the maintenance and operation of the said farm shall be included in the General Appropriations Act each year.1âшphi1
+The sum of ten thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, in addition to whatever sums may be available for this purpose under Republic Act Numbered Forty-six hundred forty, to carry into effect the purposes of this Act during fiscal year ending June thirtieth, nineteen hundred seventy-two. Thereafter, the amount of not less than fifty thousand pesos needed for the maintenance and operation of the said farm shall be included in the General Appropriations Act each year.
 
 ## Section 4
 

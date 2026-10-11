@@ -51,7 +51,7 @@ _Compliance with Labor Standards._ – The grantee, its successors or assignees 
 
 ## Section 6
 
-_Right of Government._ 1âwphi1 – The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
+_Right of Government._ – The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
 
 A special right is hereby reserved to the president of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so opearated.
 
@@ -73,7 +73,7 @@ _Self-regulation by and Undertaking of the Grantee._ – The grantee shall not r
 
 ## Section 11
 
-_Warranty in Favor of National and Local Governments._ – The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents, causing injury to persons or damage to properties, during the construction or operation of the stations of the grantee.1âwphi1
+_Warranty in Favor of National and Local Governments._ – The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents, causing injury to persons or damage to properties, during the construction or operation of the stations of the grantee.
 
 ## Section 12
 

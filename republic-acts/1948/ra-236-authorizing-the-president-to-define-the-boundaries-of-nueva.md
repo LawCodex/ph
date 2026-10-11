@@ -29,7 +29,7 @@ Pursuant to section sixty-eight of the Revised Administrative Code, as amended b
 
 ## Section 2
 
-The executive order to be issued under this Act shall supersede section fifty of the Revised Administrative Code and Act Numbered Thirty-one hundred and thirty-three and all other Acts or Executive Orders inconsistent herewith.1aшphi1
+The executive order to be issued under this Act shall supersede section fifty of the Revised Administrative Code and Act Numbered Thirty-one hundred and thirty-three and all other Acts or Executive Orders inconsistent herewith.
 
 ## Section 3
 

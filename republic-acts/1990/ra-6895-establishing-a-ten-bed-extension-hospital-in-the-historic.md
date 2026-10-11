@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital of Southern Samar General Hospital, in the historic island of Homonhon, Municipality of Guiuan, Province of Eastern Samar, to be known as the Southern Samar Extension General Hospital.1âшphi1
+There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital of Southern Samar General Hospital, in the historic island of Homonhon, Municipality of Guiuan, Province of Eastern Samar, to be known as the Southern Samar Extension General Hospital.
 
 ## Section 2
 

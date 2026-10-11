@@ -42,4 +42,4 @@ Paragraph 29.15, Chapter 29, Schedule VI of Section one hundred four of Republic
 | | or ad val. 75% |
 | f. Other | ad val. 40%" |
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

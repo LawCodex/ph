@@ -34,7 +34,7 @@ _Establishment of an LTO District Office in La Carlota City._ – There shall be
 
 ## Section 2
 
-_Appropriations._ \- The Secretary of the Department of Transportation shall immediately include in the Department’s programs the operationalization of the LTO District Office in City of La Carlota, Fourth District of the Province of Negros Occidental, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ \- The Secretary of the Department of Transportation shall immediately include in the Department’s programs the operationalization of the LTO District Office in City of La Carlota, Fourth District of the Province of Negros Occidental, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

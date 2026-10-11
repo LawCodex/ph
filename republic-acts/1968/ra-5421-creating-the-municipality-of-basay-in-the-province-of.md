@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Basay, Bongalonan, Bal-os, Cabalayongan, Kinantayan, Nagbo-alao, and Actin in the Municipality of Bayawan, Province of Negros Oriental, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Basay, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of the barrio of Basay.
+The barrios of Basay, Bongalonan, Bal-os, Cabalayongan, Kinantayan, Nagbo-alao, and Actin in the Municipality of Bayawan, Province of Negros Oriental, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Basay, same province. The seat of government of the new municipality shall be in the present site of the barrio of Basay.
 
 The eastern boundary of the new municipality shall follow the Pagatban River up to the provincial boundary of Negros Oriental and Negros Occidental.
 

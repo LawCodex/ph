@@ -37,7 +37,7 @@ All laws, executive orders, decrees and proclamations or any part or parts there
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

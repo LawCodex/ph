@@ -279,7 +279,7 @@ Section twenty-five of Commonwealth Act Numbered One hundred and eighty-six is h
 
 "(b) Except as herein otherwise provided, the Government Service Insurance System including all its forms or documents required of its members, shall be exempt from all types of taxes, documentary stamps, duties and contributions, fiscal or municipal, direct or indirect, established or to be established; and more specially, it shall not be subject to the provisions of Act Numbered Twenty-four hundred and twenty-seven, as amended, and Commonwealth Act Numbered Four hundred and sixty-six, as amended, and no law hereafter enacted shall apply to said
 
-System unless it is provided therein that the same is applicable to the System by expressly stating the name of said entity.1a⍵⍴h!1
+System unless it is provided therein that the same is applicable to the System by expressly stating the name of said entity.
 
 "(c) Any provision of law inconsistent with the provisions of this Act is hereby repealed."
 

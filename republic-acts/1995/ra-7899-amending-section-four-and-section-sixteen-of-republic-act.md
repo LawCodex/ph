@@ -42,7 +42,7 @@ Section 16 of the same Act is hereby amended to read as follows:
 
 ## Section 3
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.1aшphi1
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

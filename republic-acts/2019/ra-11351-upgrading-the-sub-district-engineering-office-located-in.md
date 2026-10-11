@@ -34,7 +34,7 @@ The sub-district engineering office located in the Municipality of Carmona, Prov
 
 ## Section 2
 
-The district engineering office shall serve the municipalities of Carmona, Silang and General Mariano Alvarez of the Fifth Legislative District of the Province of Cavite and the cities of Bacoor and Dasmariñas of the Second and Fourth Legislative Districts of the Province of Cavite, respectively.1âшphi1
+The district engineering office shall serve the municipalities of Carmona, Silang and General Mariano Alvarez of the Fifth Legislative District of the Province of Cavite and the cities of Bacoor and Dasmariñas of the Second and Fourth Legislative Districts of the Province of Cavite, respectively.
 
 ## Section 3
 

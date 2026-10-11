@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Sapangbato High School is hereby renamed as the Sapangbato National High School.1a⍵⍴h!1
+The Sapangbato High School is hereby renamed as the Sapangbato National High School.
 
 ## Section 2
 

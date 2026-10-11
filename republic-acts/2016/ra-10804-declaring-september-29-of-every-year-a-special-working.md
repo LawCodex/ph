@@ -34,7 +34,7 @@ September 29 of every year is hereby declared a special working holiday and no c
 
 ## Section 2
 
-For work performed on a special working holiday, an employee is entitled to his/her regular wage.ᇈWᑭHIL
+For work performed on a special working holiday, an employee is entitled to his/her regular wage.
 
 ## Section 3
 

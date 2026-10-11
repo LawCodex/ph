@@ -32,6 +32,6 @@ The name of the Pug-os (Sinait) Elementary School located at Barangay Pug-os, Mu
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Lapsed into law on April 22,1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

@@ -36,6 +36,6 @@ The sitio of Raba in the Municipality of Salug, Province of Zamboanga del Norte,
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

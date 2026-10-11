@@ -37,7 +37,7 @@ All personnel, assets, liabilities and records of the Parañaque National High S
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the San Antonio National High School Parañaque, the initial funding of which shall be charged against the current year’s appropriation of the Parañaque National High School – San Antonio High School Annex.1âwphi1 Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the San Antonio National High School Parañaque, the initial funding of which shall be charged against the current year’s appropriation of the Parañaque National High School – San Antonio High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

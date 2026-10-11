@@ -74,7 +74,7 @@ If an alien registered under this Act who is without alien clearance certificate
 
 Every alien subject to the provisions of this Act shall, within the first sixty days of every calendar year, report in person to the Bureau of Immigration, if residing in the City of Manila, or to the office of the respective city or municipal treasurer, if residing in another locality. The official in charge shall thereupon make a proper notation to that effect on the registration certificate, to which notation a fifty-centavo documentary stamp furnished by the alien shall be affixed. The parent or legal guardian of an alien who is less than fourteen years of age, shall have the duty of reporting for such alien: _Provided,_ That whenever any such alien attains his fourteenth birthday in the Philippines, he shall thereafter report in person and furnish the required fifty-centavo documentary stamp once a year within the period and at the place above designated.
 
-Failure to make the report herein required shall cause the cancellation of the corresponding registration certificate.1a⍵⍴h!1
+Failure to make the report herein required shall cause the cancellation of the corresponding registration certificate.
 
 ## Section 11
 

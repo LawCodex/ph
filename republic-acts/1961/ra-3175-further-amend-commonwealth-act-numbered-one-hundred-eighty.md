@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Subsection (a) of Section seven of Commonwealth Act Numbered One hundred eighty-six, as amended, is hereby further amended to read as follows:
 
-"Sec. 7. _Additional amounts or premiums._ -(a) For the amount of annuity corresponding to the services rendered by an employee prior to June sixteen, nineteen hundred and fifty-one, the National Government shall pay the necessary additional amounts or premiums as may be determined by the System, which shall be paid in equal annual amortizations for a period not to exceed fifty years under such terms and conditions as the Board may prescribe.1âшphi1 The sums necessary for this purpose are deemed appropriated in accordance with Section twenty-seven of this Act.
+"Sec. 7. _Additional amounts or premiums._ -(a) For the amount of annuity corresponding to the services rendered by an employee prior to June sixteen, nineteen hundred and fifty-one, the National Government shall pay the necessary additional amounts or premiums as may be determined by the System, which shall be paid in equal annual amortizations for a period not to exceed fifty years under such terms and conditions as the Board may prescribe. The sums necessary for this purpose are deemed appropriated in accordance with Section twenty-seven of this Act.
 
 ## Section 2
 

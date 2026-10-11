@@ -23,6 +23,8 @@ Eleventh Congress
 
 AN ACT APPROPRIATING FUNDS FOR THE OPERATION OF THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES FROM JANUARY ONE TO DECEMBER THIRTY-ONE, TWO THOUSAND, AND FOR OTHER PURPOSES
 
-**SECTION 1. Appropriation of Funds.** — The following sums, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January one to December thirty-one, two thousand, except where otherwise specifically provided herein:
+## SECTION 1
+
+Appropriation of Funds. — The following sums, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January one to December thirty-one, two thousand, except where otherwise specifically provided herein:
 
 Approved, ****

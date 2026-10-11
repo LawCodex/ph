@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Laguna School of Arts and Trades in the Municipality of Santa Cruz, Province of Laguna, is hereby converted into a national college of arts and trades, to be known as the Laguna College of Arts and Trades.1âшphi1
+The Laguna School of Arts and Trades in the Municipality of Santa Cruz, Province of Laguna, is hereby converted into a national college of arts and trades, to be known as the Laguna College of Arts and Trades.
 
 ## Section 2
 

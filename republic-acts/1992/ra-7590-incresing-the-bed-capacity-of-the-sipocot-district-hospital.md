@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representative s of the Philippines in 
 
 ## Section 1
 
-The bed capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, is hereby increased from twenty-five (25) to fifty (50) beds.1âшphi1
+The bed capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, is hereby increased from twenty-five (25) to fifty (50) beds.
 
 ## Section 2
 

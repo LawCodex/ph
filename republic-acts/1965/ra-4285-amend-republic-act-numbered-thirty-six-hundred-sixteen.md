@@ -29,7 +29,7 @@ Sections one and two of Republic Act Numbered Thirty-six hundred sixteen are her
 
 "Sec. 1. There shall be established, under the direct supervision of the Department of Health, a twenty-five bed hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be known as the Tirad Pass Memorial Hospital."
 
-"Sec. 2. The sum of one hundred and fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital during the fiscal year nineteen hundred sixty-four.1âшphi1 Thereafter, the Secretary of Health shall include in the annual budget of that Department such sum as may be required for the operation and maintenance of the Tirad Pass Memorial Hospital, which amount shall then be included in the General Appropriations Act."
+"Sec. 2. The sum of one hundred and fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital during the fiscal year nineteen hundred sixty-four. Thereafter, the Secretary of Health shall include in the annual budget of that Department such sum as may be required for the operation and maintenance of the Tirad Pass Memorial Hospital, which amount shall then be included in the General Appropriations Act."
 
 ## Section 2
 

@@ -25,10 +25,10 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Camp James Ord in San Miguel, Tarlac, Tarlac, shall henceforth be known as Camp General Servillano Aquino.1âшphi1
+Camp James Ord in San Miguel, Tarlac, Tarlac, shall henceforth be known as Camp General Servillano Aquino.
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

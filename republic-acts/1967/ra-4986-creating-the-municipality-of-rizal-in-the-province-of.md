@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Rizal, Cortes, Paniog, Naga, Melgar, Puerto Princesa, Catadman, Tag-abaca, Columbus, Montag, Roxas, Bagtasan, and Colo in the Municipality of Dinagat, Province of Surigao del Norte, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Rizal, same province.1avvphi1 The seat of government of the new municipality shall be the present site of Barrio Rizal.
+The barrios of Rizal, Cortes, Paniog, Naga, Melgar, Puerto Princesa, Catadman, Tag-abaca, Columbus, Montag, Roxas, Bagtasan, and Colo in the Municipality of Dinagat, Province of Surigao del Norte, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Rizal, same province. The seat of government of the new municipality shall be the present site of Barrio Rizal.
 
 ## Section 2
 

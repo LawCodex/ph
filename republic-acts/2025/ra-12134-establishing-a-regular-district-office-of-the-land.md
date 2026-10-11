@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a regular district office of the Land Transportation Office (LTO) in the Municipality of Maayon, in the First District of the Province of Capiz.ℒαwρhi৷
+There is hereby established a regular district office of the Land Transportation Office (LTO) in the Municipality of Maayon, in the First District of the Province of Capiz.
 
 ## Section 2
 

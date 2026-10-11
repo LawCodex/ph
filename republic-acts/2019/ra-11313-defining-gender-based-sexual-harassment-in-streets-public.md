@@ -148,7 +148,7 @@ _Gender-Based Online Sexual Harassment._ -Gender-based online sexual harassment 
 
 ### Section 13
 
-_Implementing Bodies for Gender-Based Online Sexual Harassment._ -For gender-based online sexual harassment, the PNP Anti-Cybercrime Group (PNPACG) as the National Operational Support Unit of the PNP is primarily responsible for the implementation of pertinent Philippine laws on cybercrime, shall receive complaints of gender-based online sexual harassment and develop an online mechanism for reporting real-time gender-based online sexual harassment acts and apprehend perpetrators.1âшphi1 The Cybercrime Investigation and Coordinating Center (CICC) of the DICT shall also coordinate with the PNPACG to prepare appropriate and effective measures to monitor and penalize gender-based online sexual harassment.
+_Implementing Bodies for Gender-Based Online Sexual Harassment._ -For gender-based online sexual harassment, the PNP Anti-Cybercrime Group (PNPACG) as the National Operational Support Unit of the PNP is primarily responsible for the implementation of pertinent Philippine laws on cybercrime, shall receive complaints of gender-based online sexual harassment and develop an online mechanism for reporting real-time gender-based online sexual harassment acts and apprehend perpetrators. The Cybercrime Investigation and Coordinating Center (CICC) of the DICT shall also coordinate with the PNPACG to prepare appropriate and effective measures to monitor and penalize gender-based online sexual harassment.
 
 ### Section 14
 

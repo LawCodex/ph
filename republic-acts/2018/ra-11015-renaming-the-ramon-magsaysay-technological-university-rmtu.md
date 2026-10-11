@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The Ramon Magsaysay Technological University (RMTU) in the Province of Zambales is hereby renamed as the President Ramon Magsaysay State University (PRMSU).
 
-All references to Ramon Magsaysay Technological University in Republic Act No. 8498 are now referred to as President Ramon Magsaysay State University.1âwphi1
+All references to Ramon Magsaysay Technological University in Republic Act No. 8498 are now referred to as President Ramon Magsaysay State University.
 
 ## Section 2
 
@@ -71,7 +71,7 @@ The governing board of the University shall be the Board of Regents, hereinafter
 
 The three (3) prominent CEOs and the two (2) prominent academicians shall be chosen from among a list of at least five (5) qualified persons respectively, as recommended by the search committee of the University constituted by the University President, in consultation with the Chairperson of the CHED, based on normal standards and qualifications for the position.
 
-The three (3) prominent CEOs and the two (2) prominent academicians shall serve for a term of two (2) years and may be reappointed by the Board of Regents for another term.1âwphi1
+The three (3) prominent CEOs and the two (2) prominent academicians shall serve for a term of two (2) years and may be reappointed by the Board of Regents for another term.
 
 ## Section 5
 
@@ -85,7 +85,7 @@ All parcels of land belonging to the government occupied by the RMTU are hereby 
 
 ## Section 7
 
-Sections 2, 3, 4, and 16 of Republic Act No. 8498 are deemed amended or modified accordingly.1âwphi1
+Sections 2, 3, 4, and 16 of Republic Act No. 8498 are deemed amended or modified accordingly.
 
 ## Section 8
 

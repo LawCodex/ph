@@ -24,7 +24,7 @@ Be it enacted by the Senate, and House of Representatives of the Philippines in 
 
 ## Section 1
 
-There shall be established under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Lobo, Province of Batangas, to be known as the Lobo Emergency Hospital.1âшphi1
+There shall be established under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Lobo, Province of Batangas, to be known as the Lobo Emergency Hospital.
 
 ## Section 2
 

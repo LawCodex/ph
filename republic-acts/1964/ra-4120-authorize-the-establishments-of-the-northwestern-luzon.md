@@ -29,7 +29,7 @@ There shall be established and maintained, under the supervision of the Fisherie
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-five.1âшphi1 Thereafter, the amount of forty thousand pesos to defray expenses for the operation and maintenance of the project shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-five. Thereafter, the amount of forty thousand pesos to defray expenses for the operation and maintenance of the project shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

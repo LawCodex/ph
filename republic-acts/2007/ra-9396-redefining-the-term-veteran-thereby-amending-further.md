@@ -35,13 +35,21 @@ Section 2 (a) , Title 1 of Republic Act No. 6948 is amended to read as follows:
 
 "(a) Veteran - any person who: (1) rendered military service in the land, sea or air forces of the Philippines during the revolution against Spain, the Philippine-American War, and World War II, including Filipino citizens who served with the Allied Forces in Philippine territory; (2) was a member of the Philippine Expeditionary Forces sent to the Korean War and the Philippine Civic Action Group sent to the Vietnam War; (3) rendered military service in the Armed Forces of the Philippines (AFP) and has been honorably discharged or retired after at least twenty (20) years total cumulative active service or sooner separated while in the active service in the AFP due to death or disability arising from a wound or injury received or sickness or disease incurred in line of duty."
 
-**SEC. 2._Coverage of Persons in Military Service._** \- This Act shall apply to those persons who are going to enter the military service after its effectivity.
+## SEC. 2
 
-**SEC. 3._Implementing Rules and Regulations._ ** \- For purposes of the administration of veterans benefits provided for in Republic Act No. 6948, as amended by Republic Act No. 7696, the Department of National Defense shall issue the implementing rules and regulations.
+_Coverage of Persons in Military Service._ \- This Act shall apply to those persons who are going to enter the military service after its effectivity.
 
-**SEC. 4._Repealing Clause._** \- All laws, rules, regulations, orders, circulars and memoranda inconsistent with this Act are hereby repealed or modified accordingly.
+## SEC. 3
 
-**SEC. 5._Effectivity._ ** \- This Act shall take effect fifteen (15) days following its publication in at least two national newspapers of general circulation.
+_Implementing Rules and Regulations._ \- For purposes of the administration of veterans benefits provided for in Republic Act No. 6948, as amended by Republic Act No. 7696, the Department of National Defense shall issue the implementing rules and regulations.
+
+## SEC. 4
+
+_Repealing Clause._ \- All laws, rules, regulations, orders, circulars and memoranda inconsistent with this Act are hereby repealed or modified accordingly.
+
+## SEC. 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days following its publication in at least two national newspapers of general circulation.
 
 Approved,
 

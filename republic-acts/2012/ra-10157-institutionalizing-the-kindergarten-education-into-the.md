@@ -72,7 +72,7 @@ The DepEd, in coordination with the Commission on Filipino Language and in close
 
 ## Section 6
 
-_Implementing Agency._ \- The authority to regulate the organization, operation and/or implementation of the kindergarten education program of both public and private schools shall be vested upon the DepEd, through the creation of a new Division under the BEE and other necessary support to achieve successful implementation of kindergarten education to include, but not limited to, increasing the number of kindergarten teacher positions with the required salaries and benefits, enhancing teacher training in early education, and providing the necessary allocations for classrooms and chairs, facilities and equipment, and textbooks.1avvphi1
+_Implementing Agency._ \- The authority to regulate the organization, operation and/or implementation of the kindergarten education program of both public and private schools shall be vested upon the DepEd, through the creation of a new Division under the BEE and other necessary support to achieve successful implementation of kindergarten education to include, but not limited to, increasing the number of kindergarten teacher positions with the required salaries and benefits, enhancing teacher training in early education, and providing the necessary allocations for classrooms and chairs, facilities and equipment, and textbooks.
 
 ## Section 7
 

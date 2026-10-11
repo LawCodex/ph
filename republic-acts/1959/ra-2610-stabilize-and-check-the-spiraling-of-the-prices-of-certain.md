@@ -108,7 +108,7 @@ Imprisonment for a period of not less than two years not more than ten years and
 
 (6) violates any provision of this Act or any order, rule or regulation issued pursuant to the provisions of this Act: _Provided,_ However, That in the case of aliens, in addition to the penalty herein provided, the offender shall, upon conviction, be subject to immediate deportation without the necessity of any further proceedings on the part of the Deportation Board: _Provided, further,_ That if the offender is a naturalized Filipino citizen, in addition to the penalty hereinabove provided, his naturalization certificate shall be cancelled.
 
-In the case of corporations, partnerships or associations, the president, managing director or manager shall be held liable under this Section.1âшphi1
+In the case of corporations, partnerships or associations, the president, managing director or manager shall be held liable under this Section.
 
 In addition to the penalties prescribed above, the persons, corporations, partnerships or associations found guilty of any violation of this Act or of any order, rules or regulations issued pursuant to its provisions shall be barred from the wholesale and retail business for a period of five years for the first offense, and shall be permanently barred for the second offense; and in the case of importers, as additional penalty, they shall be placed on the blacklist of the Central Bank and their import license shall immediately be revoked.
 

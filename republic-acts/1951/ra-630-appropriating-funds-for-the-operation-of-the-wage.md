@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby appropriated out of any funds in the Philippine Treasury not otherwise appropriated the sum of three hundred and fifty thousand pesos for the operation of the Wage Administration Service under the Department of Labor created in Republic Act Numbered Six hundred and two during the period from May first, nineteen hundred and fifty-one to June thirtieth, nineteen hundred and fifty-two, said sum to be expended subject to the provisions of section seven, paragraph I (4), of Commonwealth Act Numbered Two hundred and forty-six, commonly known as the Budget Act, as amended.1a⍵⍴h!1 The above appropriation or so much thereof as may be necessary-beginning with the fiscal year nineteen hundred and fifty-three shall be included in the annual General Appropriation Acts.
+There is hereby appropriated out of any funds in the Philippine Treasury not otherwise appropriated the sum of three hundred and fifty thousand pesos for the operation of the Wage Administration Service under the Department of Labor created in Republic Act Numbered Six hundred and two during the period from May first, nineteen hundred and fifty-one to June thirtieth, nineteen hundred and fifty-two, said sum to be expended subject to the provisions of section seven, paragraph I (4), of Commonwealth Act Numbered Two hundred and forty-six, commonly known as the Budget Act, as amended. The above appropriation or so much thereof as may be necessary-beginning with the fiscal year nineteen hundred and fifty-three shall be included in the annual General Appropriation Acts.
 
 ## Section 2
 

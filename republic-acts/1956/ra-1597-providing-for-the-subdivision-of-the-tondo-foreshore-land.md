@@ -41,13 +41,13 @@ All streets and alleys existing on the date of the approval of this Act within t
 
 ## Section 3
 
-The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eighty equal monthly installments, with an annual interest at the rate of four per centum on all installments due and payable.1âшphi1 They may also pay the price in cash or more than one installment at one time.
+The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eighty equal monthly installments, with an annual interest at the rate of four per centum on all installments due and payable. They may also pay the price in cash or more than one installment at one time.
 
 ## Section 4
 
 Lands acquired under this Act, shall not, except in favor of the Government or any of its branches or institutions, or legally constituted banking corporations, be subject to encumbrance or alienation within fifteen years after the date of the issuance of the transfer certificate of title to the purchaser, nor shall they become liable to the satisfaction of any debt contracted prior to the expiration of said period: _Provided,_ _However_ , That such lands may be mortgaged even before said period has expired.
 
-Every conveyance shall be subject to repurchase by the original purchaser or his legal heirs within a period of five years from the date of the conveyance.1âшphi1
+Every conveyance shall be subject to repurchase by the original purchaser or his legal heirs within a period of five years from the date of the conveyance.
 
 ## Section 5
 

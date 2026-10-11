@@ -50,7 +50,7 @@ It shall be unlawful for any employer to reduce the compensation of any of his e
 
 ## Section 7
 
-The Secretary of Labor shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.1a⍵⍴h!1
+The Secretary of Labor shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 8
 

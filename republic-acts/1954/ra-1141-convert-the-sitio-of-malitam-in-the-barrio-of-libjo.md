@@ -28,6 +28,6 @@ The sitio of Malitam, in the barrio of Libjo, municipality of Batangas, Province
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 17, 1954.

@@ -36,7 +36,7 @@ All personnel, assets, liabilities and records of the Nava Barangay High School 
 
 ## Section 3
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the conversion and operations of the school.1aшphi1
+The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the conversion and operations of the school.
 
 ## Section 4
 

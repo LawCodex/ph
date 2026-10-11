@@ -29,7 +29,7 @@ Job Callarackal Oommen is hereby granted Philippine Citizenship with all the rig
 
 ## Section 2
 
-Job Callarackal Oommen shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.ℒαwρhi৷ The Oath of Allegiance shall be registered to the Bureau of Immigration.
+Job Callarackal Oommen shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered to the Bureau of Immigration.
 
 SEC.. 3. Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Grace Tan To, who shall thereupon enter into the full enjoyment of Philippine citizenship.
 

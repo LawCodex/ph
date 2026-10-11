@@ -158,7 +158,7 @@ Thence S 1deg 46' E, 81.57 m. to point of beginning containing an area of twelve
 
 ## Section 18
 
-The amount needed to carry out the provisions of this Act shall be charged against the current year's appropriations of the Rizal Technological and Polytechnic Institute.1aшphi1 Thereafter, such sums as may be necessary for the continued operation and maintenance of the State College shall be included in the annual General Appropriations Act.
+The amount needed to carry out the provisions of this Act shall be charged against the current year's appropriations of the Rizal Technological and Polytechnic Institute. Thereafter, such sums as may be necessary for the continued operation and maintenance of the State College shall be included in the annual General Appropriations Act.
 
 ## Section 19
 

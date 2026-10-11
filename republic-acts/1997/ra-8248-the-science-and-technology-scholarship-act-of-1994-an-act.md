@@ -56,7 +56,7 @@ Section 4 of Republic Act No. 7687, otherwise known as the Science and Technolog
 
 "(6) Formulate programs to train and retrain scientist, engineers, researchers and technologists and encourage them through various incentives, to return and practice their professions in the Philippines, to enhance and accelerate the technological development of the country; and
 
-"(7) Perform other functions necessary to effectively implement the provisions of this Act.1aшphi1
+"(7) Perform other functions necessary to effectively implement the provisions of this Act.
 
 "The science and technology human resource development plan shall be submitted to the President six (6) months after the effectivity of this Act. The Council shall have a term of four (4) years commencing from the effectivity of this Act, unless otherwise extended by Congress."
 

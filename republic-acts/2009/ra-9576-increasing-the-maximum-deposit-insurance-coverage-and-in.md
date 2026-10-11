@@ -29,7 +29,9 @@ AN ACT INCREASING THE MAXIMUM DEPOSIT INSURANCE COVERAGE, AND IN CONNECTION THER
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Statement of State Policy and Objectives._** \- It is hereby declared to be the policy of the State to strengthen the mandatory deposit insurance coverage system to generate, preserve, maintain faith and confidence in the country's banking system, and protect it from illegal schemes and machinations.
+## Section 1
+
+_Statement of State Policy and Objectives._ \- It is hereby declared to be the policy of the State to strengthen the mandatory deposit insurance coverage system to generate, preserve, maintain faith and confidence in the country's banking system, and protect it from illegal schemes and machinations.
 
 Towards this end, the government must extend all means and mechanisms necessary for the Philippine Deposit Insurance Corporation to effectively fulfill its vital task of promoting and safeguarding the interests of the depositing public by way of providing permanent and continuing insurance coverage on all insured deposits, and in helping develop a sound and stable banking system at all times.
 
@@ -51,9 +53,7 @@ The corporation shall not pay deposit insurance for the following accounts or tr
 
 "The actions of the Corporation taken under this section shall be final and executory, and may not be restrained or set aside by the court, except on appropriate petition for _certiorari_ on the ground that the action was taken in excess of jurisdiction or with such grave abuse of discretion as to amount to a lack or excess of jurisdiction. The petition for _certiorari_ may only be filed within thirty (30) days from notice of denial of claim for deposit insurance."
 
-## Section. 3
-
-Section 4(g) of the same Act is hereby amended to read as follows:
+**Section. 3.** Section 4(g) of the same Act is hereby amended to read as follows:
 
 "(g) The term "insured deposit" means the amount due to any _bona fide_ depositor for legitimate deposits in an insured bank net of any obligation of the depositor to the insured bank as of date of closure, but not to exceed Five hundred thousand pesos (P500,000.00). Such net amount shall be determined according to such regulations as the Board of Directors may prescribe, In determining such amount due to any depositor, there shall be added together all deposits in the bank maintained in the same right and capacity for his benefits either in his own name or in the name of others. A joint account regardless of whether the conjunction 'and,' 'or,' 'and/or' is used, shall be insured separately from any individually-owned deposit account: Provided, That (1) If the account is held jointly by two or more natural persons, or by two or more juridical persons or entities, the maximum insured deposit shall be divided into as many equal shares as there are individuals, juridical persons or entities, unless a different sharing is stipulated in the document of deposit, and (2) If the account is held by a juridical person or entity jointly with one or more natural persons, the maximum insured deposits shall be presumed to belong entirely to such juridical person or entity: _Provided_ , _further_ , That the aggregate of the interest of each co-owner over several joint accounts, whether owned by the same or different combinations of individuals, juridical persons or entities, shall likewise be subject to the maximum insured deposit of Five hundred thousand pesos (P500,000.00): _Provided_ , _Furthermore,_ The the provisions of any law to the contrary notwithstanding, no owner/holder of any negotiable certificate of deposit shall be recognized as a depositor entitled to the rights provided in this Act unless his name is registered as owner/holder thereof in the books of the issuing bank: _Provided_ , _Finally_ , That, in case of a condition that threatens the monetary and financial stability of the banking system that may have systemic consequences, as defined in section 17 hereof, as determined by the monetary board, the maximum deposit insurance cover may be adjusted in such amount, for such a period, and/or for such deposit products, as may be determined by a unanimous vote of the Board of Directors in a meeting called for the purpose and chaired by the Secretary of Finance, subject to the approval of the President of the Philippines."
 
@@ -115,13 +115,21 @@ An additional paragraph shall be inserted under Section 2, to read as follows:
 
 "7. To review the organizational set-up of the Corporation and adopt a new or revised organizational structure as it may deem necessary for the Corporation to undertake its mandate and functions."
 
-**Section 13._Joint Congressional Oversight Committee._** \- There is hereby created a joint congressional oversight committee to oversee the implementation of this Act. The committee shall be composed of the chairpersons of the Senate Committee on Banks, Financial Institutions and Currencies and the Committee on Finance and five (5) senators to be appointed by the President of the Senate, and the chairpersons of the House Committee on Banks and Financial Intermediaries and the Committee on Appropriations and five (5) members to be appointed by the Speaker of the House of Representatives.
+## Section 13
 
-**Section 14._Separability Clause._** \- If any provision or section of this Act or the application thereof to any person or circumstances is held invalid, the other provisions or sections of this Act, in the application of such provision or section to other persons or circumstances, shall not be affected thereby.
+_Joint Congressional Oversight Committee._ \- There is hereby created a joint congressional oversight committee to oversee the implementation of this Act. The committee shall be composed of the chairpersons of the Senate Committee on Banks, Financial Institutions and Currencies and the Committee on Finance and five (5) senators to be appointed by the President of the Senate, and the chairpersons of the House Committee on Banks and Financial Intermediaries and the Committee on Appropriations and five (5) members to be appointed by the Speaker of the House of Representatives.
 
-**Section 15._Repealing Clause._** \- All acts or parts of acts and executive orders, administrative orders, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed.
+## Section 14
 
-**Section 16._Effectivity Clause._** \- This Act shall take effect fifteen (15) days following the completion of its publication in the _Official Gazette_ or in two (2) newspapers of general circulation.
+_Separability Clause._ \- If any provision or section of this Act or the application thereof to any person or circumstances is held invalid, the other provisions or sections of this Act, in the application of such provision or section to other persons or circumstances, shall not be affected thereby.
+
+## Section 15
+
+_Repealing Clause._ \- All acts or parts of acts and executive orders, administrative orders, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 16
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days following the completion of its publication in the _Official Gazette_ or in two (2) newspapers of general circulation.
 
 Approved,
 

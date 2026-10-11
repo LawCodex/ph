@@ -36,7 +36,7 @@ The grantee shall file a bond in the amount of fifty thousand pesos to guarantee
 
 ## Section 4
 
-In the event of any completing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms thereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership, or corporation.1âшphi1
+In the event of any completing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms thereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership, or corporation.
 
 ## Section 5
 

@@ -339,7 +339,7 @@ _Research and Development System._ – The R and D System shall conduct mission-
 
 The R and D System shall complement national research centers by contributing studies or actual data to such studies. It shall concentrate on addressing the problems faced by farmers at the local level. The R and D System shall also tap the knowledge or experience of the farmers in the area and, through proper assessment and development, synthesize such with the present stock data.
 
-The Philippine Council for Agriculture and Resources Research and Development shall be the lead agency to strengthen the existing R and D System in coordination with the Bureau of Agricultural Research, the Philippine Rice Research Institute and other government research institutions; state research institutions; private research institutions; state colleges and universities; and the farmers' organizations in the area.1âшphi1
+The Philippine Council for Agriculture and Resources Research and Development shall be the lead agency to strengthen the existing R and D System in coordination with the Bureau of Agricultural Research, the Philippine Rice Research Institute and other government research institutions; state research institutions; private research institutions; state colleges and universities; and the farmers' organizations in the area.
 
 ### Section 29
 

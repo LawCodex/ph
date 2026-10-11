@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a high school in the Municipality of Sto. Niño, Province of Cagayan, to be known as the Sto. Niño High School.1âшphi1
+There shall be established a high school in the Municipality of Sto. Niño, Province of Cagayan, to be known as the Sto. Niño High School.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Dumarao Medicare Community Hospital in the Municipality of Dumarao, Province of Capiz, is hereby converted into a district hospital with an authorized bed capacity of twenty-five (25) beds.1âшphi1
+The Dumarao Medicare Community Hospital in the Municipality of Dumarao, Province of Capiz, is hereby converted into a district hospital with an authorized bed capacity of twenty-five (25) beds.
 
 ## Section 2
 

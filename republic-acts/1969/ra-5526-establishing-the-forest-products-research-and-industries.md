@@ -177,7 +177,7 @@ _Duties of Associate Commissioners._ —The heads of the Institutes shall be the
 
 (5) With the approval of the Commissioner, to delegate his authority in whole or in part to his subordinates; and
 
-(6) To perform such other duties as may be assigned to him by the Commissioner.1a⍵⍴h!1
+(6) To perform such other duties as may be assigned to him by the Commissioner.
 
 ## Section 15
 

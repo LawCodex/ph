@@ -34,7 +34,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 2
 
-\- All personnel, assets, liabilities, and records of the Bayog National High School are hereby transferred to and absorbed by the Bayog National Technical-Vocational High School.1avvphi1
+\- All personnel, assets, liabilities, and records of the Bayog National High School are hereby transferred to and absorbed by the Bayog National Technical-Vocational High School.
 
 ## Section 3
 

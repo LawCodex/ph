@@ -28,6 +28,6 @@ For the purpose of enabling the different provinces, cities and municipalities t
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: May 28, 1948.

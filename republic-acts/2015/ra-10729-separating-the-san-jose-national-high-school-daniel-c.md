@@ -42,7 +42,7 @@ The Secretary of Education shall immediately include in the Department’s progr
 
 ## SECTION 4
 
-The Secretary of Education shall issue the rules and regulations necessary to carry out the purpose of this Act.1âwphi1
+The Secretary of Education shall issue the rules and regulations necessary to carry out the purpose of this Act.
 
 ## SECTION 5
 

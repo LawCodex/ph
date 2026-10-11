@@ -31,7 +31,7 @@ There is hereby established, a trade school in the Municipality of San Agustin, 
 
 ## Section 2
 
-The establishment, operation and maintenance of said trade school shall be placed under the control and supervision of the Department of Education, Culture and Sports.Ꮮαwρhi৷
+The establishment, operation and maintenance of said trade school shall be placed under the control and supervision of the Department of Education, Culture and Sports.
 
 ## Section 3
 

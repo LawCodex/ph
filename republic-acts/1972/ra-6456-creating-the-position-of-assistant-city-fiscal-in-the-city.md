@@ -30,6 +30,6 @@ The first paragraph of Section twenty-six of Republic Act Numbered Forty-eight h
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without executive approval, June 17, 1972.

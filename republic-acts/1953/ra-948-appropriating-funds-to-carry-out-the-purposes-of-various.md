@@ -36,7 +36,7 @@ The sum of six million eight hundred ninety-eight thousand pesos or so much ther
 
 ## Section 2
 
-The release of the funds appropriated in this Act are subject to section nine of the General Appropriation Law for the fiscal year 1953-1954.1a⍵⍴h!1
+The release of the funds appropriated in this Act are subject to section nine of the General Appropriation Law for the fiscal year 1953-1954.
 
 ## Section 3
 

@@ -955,7 +955,7 @@ _Plebiscite._ – The City of Kidapawan shall acquire corporate existence upon t
 
 ### Section 52
 
-_Officials of the City of Kidapawan._ – The present elective officials of the Municipality shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality shall likewise continue exercising their functions and duties and shall automatically be absorbed by the city government of the City of Kidapawan.Ꮮαwρhi৷
+_Officials of the City of Kidapawan._ – The present elective officials of the Municipality shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality shall likewise continue exercising their functions and duties and shall automatically be absorbed by the city government of the City of Kidapawan.
 
 ### Section 53
 

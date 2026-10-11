@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Butulan High School in the Municipality of Jose Abad Santos, Province of Davao del Su, is hereby changed to Edna Guillermo Memorial high school.1aшphi1
+The name of the Butulan High School in the Municipality of Jose Abad Santos, Province of Davao del Su, is hereby changed to Edna Guillermo Memorial high school.
 
 ## Section 2
 

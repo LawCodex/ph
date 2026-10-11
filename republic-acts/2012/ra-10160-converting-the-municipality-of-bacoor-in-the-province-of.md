@@ -1128,7 +1128,7 @@ _Officials of the City of Bacoor._ – The present elective officials of the Mun
 
 ### Section 54
 
-_Succession Clause._ – The City of Bacoor shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Bacoor.1âwphi1
+_Succession Clause._ – The City of Bacoor shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Bacoor.
 
 ### Section 55
 

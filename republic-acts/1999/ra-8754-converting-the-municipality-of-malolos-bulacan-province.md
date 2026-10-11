@@ -840,7 +840,7 @@ _The City Legal Officer._ – (a) The city legal officer must be a citizen of th
 
 _The City Social Welfare and Development Officer._ – (a) The city social welfare and development officer must be a citizen of the Philippines, a resident of the City of Malolos, of good moral character, a duly licensed social worker or a holder of a college degree preferably in sociology or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five (5) years immediately preceding the date of his appointment.
 
-(b) The city social welfare and development officer shall receive such compensation, emoluments and allowances as may be determined by law.1a⍵⍴h!1
+(b) The city social welfare and development officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city social welfare and development officer shall take charge of the office of social welfare and development, and shall:
 
@@ -994,7 +994,7 @@ _The City Agriculturist._ – (a) The city agriculturist must be a citizen of th
 
 4\. Recommend to the sangguniang panlungsod and advise the city mayor on all other matters related to agriculture and aquaculture which will improve the livelihood and living conditions of the inhabitants; and
 
-5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.1a⍵⍴h!1
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ## ARTICLE VIII — THE CITY FIRE STATION SERVICE, THE CITY JAIL SERVICE — AND THE CITY SCHOOL DIVISION
 

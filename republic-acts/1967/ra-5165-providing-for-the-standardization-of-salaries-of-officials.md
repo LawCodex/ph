@@ -43,7 +43,7 @@ The allocation of the above-mentioned positions shall be adjusted to the WAPCO r
 
 ## Section 2
 
-Such sums as are necessary to implement this Act during the fiscal year ending June thirty, nineteen hundred sixty-seven are hereby appropriated, out of any funds in the National Treasury not otherwise appropriated.1avvphi1 Thereafter, the sums necessary for the purpose shall be included in the annual General Appropriations Act.
+Such sums as are necessary to implement this Act during the fiscal year ending June thirty, nineteen hundred sixty-seven are hereby appropriated, out of any funds in the National Treasury not otherwise appropriated. Thereafter, the sums necessary for the purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

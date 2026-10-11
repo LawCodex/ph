@@ -38,7 +38,7 @@ _December as Anti-Corruption Month._ – December of every year is hereby declar
 
 For this purpose, all heads of government agencies and instrumentalities, including government-owned and -controlled corporations as well as local government units and employers in the private sector, are hereby mandated to conduct activities designed to create awareness among the people on the adverse effects of corruption.
 
-The awareness campaign must not only contain information on what constitutes an act of corruption, but also what citizens must do when faced with such corruption.1âwphi1
+The awareness campaign must not only contain information on what constitutes an act of corruption, but also what citizens must do when faced with such corruption.
 
 ## Section 3
 

@@ -41,7 +41,7 @@ Pursuant to the authority granted under sections two and three of this Act, the 
 
 ## Section 5
 
-The total principal amount of loans contracted or guaranteed by the Republic of the Philippines pursuant to the provisions of this Act shall not exceed the sum of fifty million dollars in currency of the United States of America, or its equivalent in other currencies.1a⍵⍴h!1
+The total principal amount of loans contracted or guaranteed by the Republic of the Philippines pursuant to the provisions of this Act shall not exceed the sum of fifty million dollars in currency of the United States of America, or its equivalent in other currencies.
 
 ## Section 6
 

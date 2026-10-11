@@ -132,7 +132,7 @@ _Criteria._ — For the purpose of this Act, the areas in the criteria shall be 
 
 (j) _Youth Development_ – This refers to an LGU’s ability to promote and establish adequate, effective, responsive and enabling mechanisms and support systems that will ensure the meaningful participation of the youth in local governance and nation-building. Indicators shall include: (1) adopting a local youth development program; (2) establishing a local youth development council; (3) providing a youth development office which shall be headed by a youth development officer; and (4) instituting policies, programs and systems in order to support and promote the vital role of youth in local governance.
 
-The foregoing criteria may be expanded by the Council to align with the thrusts of the National Government and attune them with the changing times.1âшphi1
+The foregoing criteria may be expanded by the Council to align with the thrusts of the National Government and attune them with the changing times.
 
 ## Section 8
 

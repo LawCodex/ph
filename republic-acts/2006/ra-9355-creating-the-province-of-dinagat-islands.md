@@ -32,7 +32,9 @@ AN ACT CREATING THE PROVINCE OF DINAGAT ISLANDS
 
 _Title._ \- This Act shall be known as the "**Charter of the Province of Dinagat Islands**."
 
-**Sec. 2._Province of Dinagat Islands._** \- There is hereby created a new province from the present Province of Surigao del Norte to be known as the Province of Dinagat Islands consisting of the municipalities of Basilisa, Cagdianao, Dinagat, Libjo (Albor), Loreto, San Jose and Tubajon with the following boundaries:
+### Sec. 2
+
+_Province of Dinagat Islands._ \- There is hereby created a new province from the present Province of Surigao del Norte to be known as the Province of Dinagat Islands consisting of the municipalities of Basilisa, Cagdianao, Dinagat, Libjo (Albor), Loreto, San Jose and Tubajon with the following boundaries:
 
 Bounded on the North, starting from the desolation point is Surigao Strait; on the East by the Philippine Sea; on the South. East by Dinagat sound; on the South by Gahoc Channel and Nonoc Island; on the South-West by Awasan Bay, Hanigad Island and Hikdop Island; and on the West by Surigao Strait.
 
@@ -78,9 +80,13 @@ The Province of Dinagat Islands contains an approximate land area of eighty thou
 
 The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of existing boundary disputes or cases involving questions of territorial jurisdiction between the Province of Dinagat Islands and adjoining local government units (LGUs): Provided, That the territorial jurisdiction of the disputed area or areas shall remain with the LGU, which has existing administrative supervision over said area or areas until resolution of the case.
 
-**Sec. 3._Capital Town and Seat of Government._** \- The capital town and seat of government of the new Province of Dinagat Islands shall be the Municipality of San Jose.
+### Sec. 3
 
-**Sec. 4._Corporate Powers of the Province._** \- The province constitutes a political body corporate and as such is endowed with, the attributes of perpetual succession and possessed of the powers which pertain to a provincial corporation to be exercised in conformity with the provision of this Charter. The province shall have the following corporate powers:
+_Capital Town and Seat of Government._ \- The capital town and seat of government of the new Province of Dinagat Islands shall be the Municipality of San Jose.
+
+### Sec. 4
+
+_Corporate Powers of the Province._ \- The province constitutes a political body corporate and as such is endowed with, the attributes of perpetual succession and possessed of the powers which pertain to a provincial corporation to be exercised in conformity with the provision of this Charter. The province shall have the following corporate powers:
 
 (a) To have a continuous succession in its corporate name;
 
@@ -94,11 +100,17 @@ The foregoing provision shall be without prejudice to the resolution by the appr
 
 (f) To exercise such other powers, prerogatives or authority, subject to the limitations provided in this Act or other laws.
 
-**Sec. 5._General Powers._** \- The province shall-have an independent and common seal and may alter the same at its pleasure. It shall exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interests of the province; to expropriate or condemn private property for public use; to contract and to be contracted with, to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the province is involved Or interested in; and to exercise all the powers as are granted to corporations or as hereafter granted.
+### Sec. 5
 
-**Sec. 6._Liability for Damages._** \- The province and its officials shall not be exempt from liability for death or injury to persons or damage to property.
+_General Powers._ \- The province shall-have an independent and common seal and may alter the same at its pleasure. It shall exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interests of the province; to expropriate or condemn private property for public use; to contract and to be contracted with, to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the province is involved Or interested in; and to exercise all the powers as are granted to corporations or as hereafter granted.
 
-**Sec. 7._Legislative District._** \- The Province of Dinagat Islands shall constitute one, separate legislative district to commence in the next national election after the effectivity of this Act.
+### Sec. 6
+
+_Liability for Damages._ \- The province and its officials shall not be exempt from liability for death or injury to persons or damage to property.
+
+### Sec. 7
+
+_Legislative District._ \- The Province of Dinagat Islands shall constitute one, separate legislative district to commence in the next national election after the effectivity of this Act.
 
 ## ARTICLE II — PROVINCIAL OFFICIALS IN GENERAL
 
@@ -118,7 +130,9 @@ _Officials of the Provincial Government._ \- (A) There shall be in the Province 
 
 Unless otherwise provided herein, heads of departments and offices shall be appointed by the provincial governor with the concurrence of a majority of the sangguniang panlalawigan members, subject to civil service law, rules and regulations. The sangguniang panlalawigan shall act on the appointment within fifteen (15) days from the day of its submission, otherwise, the same shall be deemed confirmed.
 
-**Sec. 9._Residence and Office._** \- During the incumbency of the governor, he sha11 have his official residence and office in the designated capital of the province. All elective and appointive provincial officials shall hold office in the provincial capital: Provided, That upon the resolution of the sangguniang panlalawigan, elective and appointive provincial officials may hold office in any component city or municipality within the province for a period of not more than seven days for any given month.
+### Sec. 9
+
+_Residence and Office._ \- During the incumbency of the governor, he sha11 have his official residence and office in the designated capital of the province. All elective and appointive provincial officials shall hold office in the provincial capital: Provided, That upon the resolution of the sangguniang panlalawigan, elective and appointive provincial officials may hold office in any component city or municipality within the province for a period of not more than seven days for any given month.
 
 ## ARTICLE III — ELECTIVE PROV1NCIAL OFFICIALS
 
@@ -208,7 +222,9 @@ _The Provincial Governor._ \- (A) The provincial governor, as the chief executiv
 
 (C) The provincial governor shall receive a minimum monthly compensation corresponding to Salary Grade Thirty (30) prescribed under Republic Act No. 6758, otherwise known as the Salary Standardization Law and its implementing guidelines.
 
-**Sec. 11. The _Vice Governor._** \- (A) The vice governor shall:
+### Sec. 11
+
+The _Vice Governor._ \- (A) The vice governor shall:
 
 (1) Be the presiding officer of the sangguniang panlalawigan and sign all warrants drawn on the provincial , treasury for all expenditures appropriated for the operation of the sangguniang panlalawigan;
 
@@ -396,7 +412,9 @@ _Internal Rules of Procedure._ \- (A) On the first regular session following the
 
 (6) Such other rules as the sanggunian may adopt.
 
-**Sec. 15._Full Disclosure of Financial and Business Interests of Sangguniang Panlalawigan Members._** \- (A) Every sangguniang' panlalawigan member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business and financial, professional relationship, or any relation by affinity or consanguinity within the fourth civil degree which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
+### Sec. 15
+
+_Full Disclosure of Financial and Business Interests of Sangguniang Panlalawigan Members._ \- (A) Every sangguniang' panlalawigan member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business and financial, professional relationship, or any relation by affinity or consanguinity within the fourth civil degree which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
 
 (1) Ownership of stocks or capital, or investment in the entity or firm to which the ordinance or resolution may apply; and
 
@@ -410,7 +428,9 @@ In the absence of a specific constitutional or statutory provision applicable to
 
 (2) Disclosure shall be, made when a member takes a position or makes a privilege speech on a matter that may affect the business interest, financial connection or professional relationship described herein.
 
-**Sec. 16._Sessions._** \- (A) On the first day of session immediately following the election of its members, the sangguniang panlalawigan shall, by resolution, fix the day, time and place of its regular sessions. The minimum number of regular sessions of the sangguniang panlalawigan shall be once a week.
+### Sec. 16
+
+_Sessions._ \- (A) On the first day of session immediately following the election of its members, the sangguniang panlalawigan shall, by resolution, fix the day, time and place of its regular sessions. The minimum number of regular sessions of the sangguniang panlalawigan shall be once a week.
 
 (B) When the public interest so demands, special sessions may be called by the provincial governor or by a majority of the members of the sanggunian.
 
@@ -430,11 +450,15 @@ _Quorum._ \- (A) A majority of all the members of the sanggunian who have been e
 
 (C) If there is still no quorum despite the enforcement of the immediately preceding subsection, no business shall be transacted. The presiding officer, upon proper motion duly approved by the members present, shall then declare the session adjourned for lack of quorum.
 
-**Sec. 18._Approval of Ordinances._** \- (A) Every ordinance enacted by the sangguniang panlalawigan shall be presented to the provincial governor. If the governor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the governor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+### Sec. 18
+
+_Approval of Ordinances._ \- (A) Every ordinance enacted by the sangguniang panlalawigan shall be presented to the provincial governor. If the governor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the governor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
 (B) The veto shall be communicated by the governor to the sangguniang panlalawigan within fifteen (15) days; otherwise, the ordinance shall be deemed approved as if he had signed it.
 
-**Sec. 19._Veto Power of the Governor._** \- (A) The provincial governor may veto any ordinance of the sangguniang panlalawigan on the ground that it is prejudicial to the public welfare, stating his reasons thereof in writing.
+### Sec. 19
+
+_Veto Power of the Governor._ \- (A) The provincial governor may veto any ordinance of the sangguniang panlalawigan on the ground that it is prejudicial to the public welfare, stating his reasons thereof in writing.
 
 (B) The governor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, a public investment program, or an ordinance directing the payment of money or creating liability. In such case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlalawigan overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
 
@@ -454,7 +478,9 @@ _Permanent Vacancy in the Office of the Provincial Governor._ \- (A) If a perman
 
 (4) For purposes of succession as provided in this Act, ranking in the sangguniang panlalawigan shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in the province in the immediately preceding local elections.
 
-**Sec. 21._Permanent Vacancies in the Sanggunian._** \- (A) Permanent vacancies in the sangguniang panlalawigan where automatic succession as provided above does not apply shall be filled by appointments in the following manner:
+### Sec. 21
+
+_Permanent Vacancies in the Sanggunian._ \- (A) Permanent vacancies in the sangguniang panlalawigan where automatic succession as provided above does not apply shall be filled by appointments in the following manner:
 
 (1) The President, through the Executive Secretary shall make the aforesaid appointments;
 
@@ -464,7 +490,9 @@ _Permanent Vacancy in the Office of the Provincial Governor._ \- (A) If a perman
 
 (4) In case of vacancy in the representation of the sangguniang kabataan, the sangguniang barangay and the provincial league of councilors in the sangguniang panlalawigan, said vacancy shall be filled automatically by the official next in rank of the organization concerned.
 
-**Sec. 22._Temporary Vacancy in the Office of the Provincial Governor._** \- (A) When the governor is temporarily incapacitated to perform his duties for physical or legal reasons such as, hut not limited to, leave of absence, travel abroad and suspension from office), the vice governor shall automatically exercise the powers and perform the duties and functions of the governor, except the power to appoint, suspend or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
+### Sec. 22
+
+_Temporary Vacancy in the Office of the Provincial Governor._ \- (A) When the governor is temporarily incapacitated to perform his duties for physical or legal reasons such as, hut not limited to, leave of absence, travel abroad and suspension from office), the vice governor shall automatically exercise the powers and perform the duties and functions of the governor, except the power to appoint, suspend or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
 
 (B) Said temporary incapacity shall terminate upon submission to the sangguniang panlalawigan of a written declaration by the governor that he has reported back to office. In case where the temporary incapacity is due to legal cause, the governor shall also submit necessary documents showing that the said legal cause no longer exists.
 
@@ -504,7 +532,9 @@ _The Secretary to the Sangguniang Panlalawigan._(A) There shall be a secretary t
 
 (D) Exercise such powers and perform such other duties and functions as may be prescribed by law or ordinance relative to his position.
 
-**Sec. 24._The Provincial Treasurer._** \- (A) The treasurer shall be appointed by the Secretary of Finance from the list of at least three ranking eligible recommendees of the governor, subject to civil service law, rules and regulations.
+### Sec. 24
+
+_The Provincial Treasurer._ \- (A) The treasurer shall be appointed by the Secretary of Finance from the list of at least three ranking eligible recommendees of the governor, subject to civil service law, rules and regulations.
 
 (B) The treasurer shall be under the administrative supervision of the governor to whom he shall report regularly on the tax collection efforts in the local government unit.
 
@@ -558,7 +588,9 @@ The appointment of the provincial assessor shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 26._The Provincial Accountant._** \- (A) No person shall be appointed accountant unless he is a citizen of the Philippines, a resident of the province, of good moral character and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least five years.
+### Sec. 26
+
+_The Provincial Accountant._ \- (A) No person shall be appointed accountant unless he is a citizen of the Philippines, a resident of the province, of good moral character and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least five years.
 
 The appointment of a provincial accountant is mandatory.
 
@@ -590,7 +622,9 @@ The appointment of a provincial accountant is mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be provided by law or ordinance.
 
-**Sec. 27._The Provincial Budget Officer._** \- (A) No person shall be appointed budget officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in accounting, economics, public administration or any related Course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in government budgeting or in any related field for at least five years.
+### Sec. 27
+
+_The Provincial Budget Officer._ \- (A) No person shall be appointed budget officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in accounting, economics, public administration or any related Course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in government budgeting or in any related field for at least five years.
 
 The appointment of the provincial budget officer shall he mandatory.
 
@@ -642,7 +676,9 @@ The appointment of a provincial planning and development coordinator shall be ma
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 29._The Provincial Engineer_ ,** \- (A) No person shall be appointed engineer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed civil engineer. He must have acquired experience in the practice of his profession for at least five years.
+### Sec. 29
+
+_The Provincial Engineer_ , \- (A) No person shall be appointed engineer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed civil engineer. He must have acquired experience in the practice of his profession for at least five years.
 
 The appointment of the provincial engineer shall be mandatory.
 
@@ -660,7 +696,9 @@ The appointment of the provincial engineer shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 30._The Provincial Health Officer._** \- (A) No person shall be appointed health officer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed' medical practitioner. He must have acquired experience: in the practice of his profession for at least five years.
+### Sec. 30
+
+_The Provincial Health Officer._ \- (A) No person shall be appointed health officer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed' medical practitioner. He must have acquired experience: in the practice of his profession for at least five years.
 
 The appointment of a provincial health officer shall be mandatory.
 
@@ -696,7 +734,9 @@ The appointment of a provincial health officer shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 31._The Provincial Civil Registrar._** \- (A) No person shall be appointed civil registrar unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in civil registry work for at least five years.
+### Sec. 31
+
+_The Provincial Civil Registrar._ \- (A) No person shall be appointed civil registrar unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in civil registry work for at least five years.
 
 The appointment of a provincial civil registrar shall be mandatory.
 
@@ -724,7 +764,9 @@ The civil registrar shall take charge of the office of the civil registry, and s
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 32._The Provincial Administrator._** \- (A) No person shall be appointed administrator unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in public administration, law or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administration work for at least five years.
+### Sec. 32
+
+_The Provincial Administrator._ \- (A) No person shall be appointed administrator unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in public administration, law or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administration work for at least five years.
 
 The term of the administrator is coterminous with that of his appointing authority.
 
@@ -748,7 +790,9 @@ The appointment of a provincial administrator shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 33._The Provincial Legal Officer._** \- (A) No person shall be appointed legal officer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a member of the Philippine Bar. He must have practiced his profession for at least five years.
+### Sec. 33
+
+_The Provincial Legal Officer._ \- (A) No person shall be appointed legal officer unless he is a citizen of the Philippines, a resident of the province, of good moral character and a member of the Philippine Bar. He must have practiced his profession for at least five years.
 
 The term of the legal officer shall be coterminous with that of his appointing authority.
 
@@ -782,7 +826,9 @@ The appointment of a provincial legal officer shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 34._The Provincial Agriculturist._** \- (A) No person shall be appointed agriculturist unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree in agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in a related field for at least five years.
+### Sec. 34
+
+_The Provincial Agriculturist._ \- (A) No person shall be appointed agriculturist unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree in agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in a related field for at least five years.
 
 The appointment of a provincial agriculturist shall be mandatory.
 
@@ -810,7 +856,9 @@ The appointment of a provincial agriculturist shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 35._The Provincial Social Welfare and Development Officer._** \- (A) No person shall be appointed social welfare and development officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a duly licensed social worker and a holder of a college degree preferably in sociology or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five years.
+### Sec. 35
+
+_The Provincial Social Welfare and Development Officer._ \- (A) No person shall be appointed social welfare and development officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a duly licensed social worker and a holder of a college degree preferably in sociology or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five years.
 
 The appointment of a provincial social welfare and development officer shall be mandatory.
 
@@ -840,7 +888,9 @@ The appointment of a provincial social welfare and development officer shall be 
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 36._The Provincial Environment and Natural Resources Officer._** \- (A) No person shall be appointed environment and natural resources officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environmental and natural resources management, conservation and utilization for at least five years.
+### Sec. 36
+
+_The Provincial Environment and Natural Resources Officer._ \- (A) No person shall be appointed environment and natural resources officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environmental and natural resources management, conservation and utilization for at least five years.
 
 The appointment of a provincial environment and natural resources officer shall be mandatory.
 
@@ -872,7 +922,9 @@ The appointment of a provincial environment and natural resources officer shall 
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 37._The Provincial Veterinarian._** \- (A) No person shall be appointed veterinarian unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed doctor of veterinary medicine. He must have practiced his profession for at least three years.
+### Sec. 37
+
+_The Provincial Veterinarian._ \- (A) No person shall be appointed veterinarian unless he is a citizen of the Philippines, a resident of the province, of good moral character and a licensed doctor of veterinary medicine. He must have practiced his profession for at least three years.
 
 The appointment of a provincial veterinarian shall be mandatory,
 
@@ -900,7 +952,9 @@ The appointment of a provincial veterinarian shall be mandatory,
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 38._The Provincial General Services Officer._** \- (A) No person shall be appointed general services officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal and general sanitation for at least five years.
+### Sec. 38
+
+_The Provincial General Services Officer._ \- (A) No person shall be appointed general services officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal and general sanitation for at least five years.
 
 The appointment of a provincial general services officer shall be mandatory.
 
@@ -934,7 +988,9 @@ The appointment of a provincial general services officer shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 39._The Provincial Cooperatives Officer._** \- (A) No person shall be appointed cooperatives officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in business administration course with special training in cooperatives or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in cooperatives organization and management for at least five years.
+### Sec. 39
+
+_The Provincial Cooperatives Officer._ \- (A) No person shall be appointed cooperatives officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in business administration course with special training in cooperatives or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in cooperatives organization and management for at least five years.
 
 The appointment of a provincial cooperatives officer shall be mandatory.
 
@@ -958,7 +1014,9 @@ The appointment of a provincial cooperatives officer shall be mandatory.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 40._The Provincial Architect._** \- (A) No person shall be appointed architect unless he is a citizen of the Philippines, a resident of the province, of good moral character and a duly licensed architect. He must have practiced his profession for at least five years.
+### Sec. 40
+
+_The Provincial Architect._ \- (A) No person shall be appointed architect unless he is a citizen of the Philippines, a resident of the province, of good moral character and a duly licensed architect. He must have practiced his profession for at least five years.
 
 The appointment of a provincial architect shall be optional.
 
@@ -982,7 +1040,9 @@ The appointment of a provincial architect shall be optional.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 41._The Provincial Population Officer._** \- (A) No person shall be appointed population officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree with specialized training in population development from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the implementation of programs on population development or responsible parenthood for at least five years.
+### Sec. 41
+
+_The Provincial Population Officer._ \- (A) No person shall be appointed population officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree with specialized training in population development from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the implementation of programs on population development or responsible parenthood for at least five years.
 
 The appointment of a provincial population officer shall be optional.
 
@@ -1002,7 +1062,9 @@ The appointment of a provincial population officer shall be optional.
 
 (C) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-**Sec. 42._The Provincial Information Officer._** \- (A) No person shall be appointed information officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in journalism, mass communications or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in writing articles and research papers, or in writing for print, television or broadcast media for at least three years;
+### Sec. 42
+
+_The Provincial Information Officer._ \- (A) No person shall be appointed information officer unless he is a citizen of the Philippines, a resident of the province, of good moral character, a holder of a college degree preferably in journalism, mass communications or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in writing articles and research papers, or in writing for print, television or broadcast media for at least three years;
 
 The appointment of a provincial information officer shall be optional.
 
@@ -1040,21 +1102,29 @@ The provincial government shall provide the necessary land or sites of the provi
 
 (C) The provincial fire stations shall be responsible for the protection and various emergency services such as rescue and evacuation of injured people at fire-related incidents and, in general, fire prevention and suppression measures to secure the safety of life and property of the citizenry.
 
-**Sec. 44._The Provincial Jail Service._** \- (A) There shall be established and maintained in the Province of Dinagat Islands, within two months from the commencement of the corporate existence of the province, by the DILG a secured, c1ean, adequately equipped and sanitary jail facility for the custody and safekeeping of prisoners , any fugitive from justice, or person detained awaiting investigation or trial and for transfer to the national penitentiary, and for violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
+### Sec. 44
+
+_The Provincial Jail Service._ \- (A) There shall be established and maintained in the Province of Dinagat Islands, within two months from the commencement of the corporate existence of the province, by the DILG a secured, c1ean, adequately equipped and sanitary jail facility for the custody and safekeeping of prisoners , any fugitive from justice, or person detained awaiting investigation or trial and for transfer to the national penitentiary, and for violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
 
 (B) The provincial jail service shall be headed by a provincial jail warden who must be a graduate of a four year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners. Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
 
-**Sec. 45._The Dinagat Islands Provincial School Division._** \- (A) The Department of Education shall, within two months from the commencement of the corporate existence of the province herein created, establish and maintain a separate school division in the Province of Dinagat Islands whose jurisdiction shall cover the municipalities under the lone legislative district of the province.
+### Sec. 45
+
+_The Dinagat Islands Provincial School Division._ \- (A) The Department of Education shall, within two months from the commencement of the corporate existence of the province herein created, establish and maintain a separate school division in the Province of Dinagat Islands whose jurisdiction shall cover the municipalities under the lone legislative district of the province.
 
 (B) The provincial school division shall be headed by a division superintendent who must possess the necessary qualifications required by the Department of Education.
 
-**Sec. 46._The Provincial Prosecution Service._** \- (A) There shall be established and maintained in the Province of Dinagat Islands a prosecution service by the Department of Justice (DOJ), within two months from the commencement of the corporate existence of the province herein created, which shall be headed by a provincial prosecutor and such number of assistant prosecutors as may be necessary, who shall be organizationally part of the DOJ, and under the supervision and control of the Secretary of the DOJ, and whose qualifications, manner of appointment, rank, salary and benefits shall be governed by existing laws covering prosecutors in the DOJ.
+### Sec. 46
+
+_The Provincial Prosecution Service._ \- (A) There shall be established and maintained in the Province of Dinagat Islands a prosecution service by the Department of Justice (DOJ), within two months from the commencement of the corporate existence of the province herein created, which shall be headed by a provincial prosecutor and such number of assistant prosecutors as may be necessary, who shall be organizationally part of the DOJ, and under the supervision and control of the Secretary of the DOJ, and whose qualifications, manner of appointment, rank, salary and benefits shall be governed by existing laws covering prosecutors in the DOJ.
 
 (B) The provincial prosecutor shall handle the criminal prosecution in the municipal trial courts in the province as well as in the regional trial courts for criminal cases originating in the territory of the province, and shall render to and for the province such other services as are required by law or regulation of the DOJ.
 
 The regional trial courts and other courts under the DOJ of adjoining municipalities shall continue to try crimes and misdemeanors committed within the jurisdiction of the new province. The court first taking jurisdiction of such offense shall thereafter retain exclusive jurisdiction thereof.
 
-**Sec. 47._The Dinagat Islands Provincial Engineering District._** \- There shall be established and maintained by the Department of Public Works and Highways (DPWH) a separate and independent highway engineering district for the Province of Dinagat Islands, within two months from the commencement of the corporate existence of the province herein created, which shall be headed by a district engineer and such number of assistant district engineers as may be necessary, who shall be organizationally part of the DPWH, and under the supervision and control of the Secretary of the DPWH, and whose qualifications, manner of appointment, rank, salary and benefits shall be governed by existing laws.
+### Sec. 47
+
+_The Dinagat Islands Provincial Engineering District._ \- There shall be established and maintained by the Department of Public Works and Highways (DPWH) a separate and independent highway engineering district for the Province of Dinagat Islands, within two months from the commencement of the corporate existence of the province herein created, which shall be headed by a district engineer and such number of assistant district engineers as may be necessary, who shall be organizationally part of the DPWH, and under the supervision and control of the Secretary of the DPWH, and whose qualifications, manner of appointment, rank, salary and benefits shall be governed by existing laws.
 
 ## ARTICLE IX — TRANSITORY AND FINAL PROVISIONS
 
@@ -1064,25 +1134,41 @@ _Plebiscite._ \- The Province of Dinagat Islands shall be created, as provided f
 
 The amount necessary far the conduct of the plebiscite shall be charged to the appropriation of the Province of Surigao del Norte and the seven municipalities being proposed to comprise the Province of Dinagat Islands.
 
-**Sec. 49._Commencement of Corporate Existence._** \- The Province of Dinagat Islands shall commence its corporate existence upon the election and qualification of the governor, vice governor and majority of the members of the sangguniang panlalawigan.
+### Sec. 49
 
-**Sec. 50._Officials of the Province of Dinagat Islands._** \- (A) The first set of elective officials of the Province of Dinagat Islands shall be elected in the next local elections following the effectivity of this Act.
+_Commencement of Corporate Existence._ \- The Province of Dinagat Islands shall commence its corporate existence upon the election and qualification of the governor, vice governor and majority of the members of the sangguniang panlalawigan.
+
+### Sec. 50
+
+_Officials of the Province of Dinagat Islands._ \- (A) The first set of elective officials of the Province of Dinagat Islands shall be elected in the next local elections following the effectivity of this Act.
 
 The President of the Philippines shall appoint an interim governor, vice governor and members of the sangguniang panlalawigan, who shall serve only until a new set of provincial officials have been elected and qualified.
 
 (B) The incumbent congressional representatives of the present Province of Surigao del Norte shall continue to represent their respective legislative districts until the expiration of their term of office.
 
-**Sec. 51._Organization of the Provincial Government._** \- All provincial appointive positions in the Province of Dinagat Islands as enumerated in Section 8 hereof shall be filled within sixty (60) days after the commencement of corporate existence of the province, as provided for in Section 49 hereof. This shall be done without prejudice to the officials and employees of the present Province of Surigao del Norte, who may wish to serve in the Province of Dinagat Islands.
+### Sec. 51
 
-**Sec. 52._Suspension of Increase in Rates of Local Taxes._** \- No increase in the rates of heal taxes shall be imposed by the province within the period of five years from its acquisition of corporate existence. Notwithstanding any existing law or ordinance to the contrary, real property tax in the local1ty shall not be increased within five years upon its creation into a new province.
+_Organization of the Provincial Government._ \- All provincial appointive positions in the Province of Dinagat Islands as enumerated in Section 8 hereof shall be filled within sixty (60) days after the commencement of corporate existence of the province, as provided for in Section 49 hereof. This shall be done without prejudice to the officials and employees of the present Province of Surigao del Norte, who may wish to serve in the Province of Dinagat Islands.
 
-**Sec. 53._Proportionate Division._** \- Upon the commencement of corporate existence of the new province, the obligations, funds, assets and other properties of the present Province of Surigao del Norte shall be divided proportionately between the Province of Surigao del Norte and the Province of Dinagat Islands by the President of the Philippines upon the recommendation of the Commission on Audit.
+### Sec. 52
 
-**Sec. 54._Applicability of Laws._** \- The provisions of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and other laws as are applicable to provinces shall govern the Province of Dinagat Islands insofar as they are not inconsistent with the provisions of this Act.
+_Suspension of Increase in Rates of Local Taxes._ \- No increase in the rates of heal taxes shall be imposed by the province within the period of five years from its acquisition of corporate existence. Notwithstanding any existing law or ordinance to the contrary, real property tax in the local1ty shall not be increased within five years upon its creation into a new province.
 
-**Sec. 55._Separability Clause._** \- If any part of this Act is declared invalid or unconstitutional, the other parts or provisions hereof shall remain valid and effective.
+### Sec. 53
 
-**Sec. 56._Effectivity._** \- This Act shall take effect fifteen (15) days upon its publication in at least two newspapers of general circulation and local circulation.
+_Proportionate Division._ \- Upon the commencement of corporate existence of the new province, the obligations, funds, assets and other properties of the present Province of Surigao del Norte shall be divided proportionately between the Province of Surigao del Norte and the Province of Dinagat Islands by the President of the Philippines upon the recommendation of the Commission on Audit.
+
+### Sec. 54
+
+_Applicability of Laws._ \- The provisions of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and other laws as are applicable to provinces shall govern the Province of Dinagat Islands insofar as they are not inconsistent with the provisions of this Act.
+
+### Sec. 55
+
+_Separability Clause._ \- If any part of this Act is declared invalid or unconstitutional, the other parts or provisions hereof shall remain valid and effective.
+
+### Sec. 56
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days upon its publication in at least two newspapers of general circulation and local circulation.
 
 Approved:
 

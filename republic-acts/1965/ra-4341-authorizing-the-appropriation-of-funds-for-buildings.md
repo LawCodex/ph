@@ -33,7 +33,7 @@ Pursuant to this policy, the University of the Philippines is hereby authorized 
 
 ## Section 3
 
-An Advisory Council is hereby established composed of the Dean of the University of the Philippines Graduate School of Public Administration, the Dean of the College of Engineering, the Chief of the Division of Planning of the National Economic Council and three members to be appointed by the Board of Regents on recommendation of the President of the University of the Philippines.1âшphi1 The Council shall advise the Institute on technical and policy matters.
+An Advisory Council is hereby established composed of the Dean of the University of the Philippines Graduate School of Public Administration, the Dean of the College of Engineering, the Chief of the Division of Planning of the National Economic Council and three members to be appointed by the Board of Regents on recommendation of the President of the University of the Philippines. The Council shall advise the Institute on technical and policy matters.
 
 ## Section 4
 

@@ -43,7 +43,7 @@ Provisions of the Judiciary Act to the contrary notwithstanding, the court shall
 
 The court shall likewise have such incidental powers as are generally possessed by courts of first instance.
 
-If any question involving any of the above matters should arise as an incident in any case pending in the ordinary courts, said incident shall be determined in the main case.1âшphi1
+If any question involving any of the above matters should arise as an incident in any case pending in the ordinary courts, said incident shall be determined in the main case.
 
 ## Section 2
 

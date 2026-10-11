@@ -28,7 +28,7 @@ The piece of land which was acquired by the National Government out of the funds
 
 ## Section 2
 
-The proceeds from the sale of the lots to be sold under Section one of this Act shall be turned over to the Municipality of Angono for the renovation or completion of the municipal building of the said municipality.1avvphi1
+The proceeds from the sale of the lots to be sold under Section one of this Act shall be turned over to the Municipality of Angono for the renovation or completion of the municipal building of the said municipality.
 
 ## Section 3
 

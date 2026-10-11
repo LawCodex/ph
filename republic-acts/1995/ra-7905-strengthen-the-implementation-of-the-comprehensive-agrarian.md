@@ -58,7 +58,7 @@ Section 35 of Republic Act No. 6657, otherwise known as the "Comprehensive Agrar
 
 "12) Create a credit guarantee fund for agricultural landowners that will enhance the collateral value of agricultural lands that are affected or will be affected by coverage under the agrarian reform program; and
 
-"13) Administration, operation, management and funding of support services programs and projects including pilot projects and models related to agrarian reform as developed by the DAR.1aшphi1
+"13) Administration, operation, management and funding of support services programs and projects including pilot projects and models related to agrarian reform as developed by the DAR.
 
 ## Section 2
 

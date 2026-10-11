@@ -69,7 +69,7 @@ Candidates for state scholarship shall possess the following qualifications:
 
 ## Section 4
 
-(a) The Council shall be composed of the Secretary of Education, the President of the University of the Philippines, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the Chairman of the National Science Development Board, the Director of Public Schools, the Director of Private Schools, and two other members who shall represent non-governmental educational professional groups to be appointed by the President of the Philippines with the consent of the Commission on appointments.1âшphi1 The Secretary of Education shall be the Chairman of the Council.
+(a) The Council shall be composed of the Secretary of Education, the President of the University of the Philippines, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the Chairman of the National Science Development Board, the Director of Public Schools, the Director of Private Schools, and two other members who shall represent non-governmental educational professional groups to be appointed by the President of the Philippines with the consent of the Commission on appointments. The Secretary of Education shall be the Chairman of the Council.
 
 (b) The Council shall hold regular meetings once a month and such special meetings as may be needed upon call of its Chairman or at the request of any three members. A majority of all the members of the Council shall constitute a quorum to do business.
 

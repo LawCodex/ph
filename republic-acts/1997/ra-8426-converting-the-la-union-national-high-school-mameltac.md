@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The La Union National High School – Mameltac Extension in the Municipality of San Fernando, Province of La Union, shall be converted into an independent national high school to be known as the Dr. Quintin Balcita, Sr. National High School.
 
-The Dr. Quintin Balcita, Sr. National High School shall remain under the supervision of the Department of Education, Culture and Sports.1aшphi1
+The Dr. Quintin Balcita, Sr. National High School shall remain under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

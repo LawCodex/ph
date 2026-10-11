@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Change of Hospital Name. –_ The name of Gubat District Hospital in the Municipality of Gubat, Province of Sorsogon is hereby changed to Salvador R. Encinas District Hospital.1âwphi1
+_Change of Hospital Name. –_ The name of Gubat District Hospital in the Municipality of Gubat, Province of Sorsogon is hereby changed to Salvador R. Encinas District Hospital.
 
 ## Section 2
 

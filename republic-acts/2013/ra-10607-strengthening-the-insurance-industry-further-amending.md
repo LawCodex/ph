@@ -248,7 +248,7 @@ Presidential Decree No. 612, as amended, is hereby further amended to read as fo
 
 "Section 61. A valued policy is one which expresses on its face an agreement that the thing insured shall be valued at a specific sum.
 
-"Section 62. A running policy is one which contemplates successive insurances, and which provides that the object of the policy may be from time to time defined, especially as to the subjects of insurance, by additional statements or indorsements.1âwphi1
+"Section 62. A running policy is one which contemplates successive insurances, and which provides that the object of the policy may be from time to time defined, especially as to the subjects of insurance, by additional statements or indorsements.
 
 "Section 63. A condition, stipulation, or agreement in any policy of insurance, limiting the time for commencing an action thereunder to a period of less than one (1) year from the time when the cause of action accrues, is void.
 
@@ -2053,7 +2053,7 @@ TRUSTS FOR CHARITABLE USES
 
 "Section 413. Every mutual benefit association shall, annually on or before the thirtieth day of April of each year, render to the Commissioner an annual statement in such form and detail as may be prescribed by the Commissioner, signed and sworn to by the president, secretary, treasurer, and actuary of the association, showing the exact condition of its affairs on the preceding thirty-first day of December.
 
-"Section 414. No money, aid or benefit to be paid, provided or tendered by any mutual benefit association, shall be liable to attachment, garnishment, or other process, or be seized, taken, appropriated, or applied by any legal or equitable process to pay any debt or liability of a member or beneficiary, or any other person who may have a right thereunder, either before or after payment.1âwphi1
+"Section 414. No money, aid or benefit to be paid, provided or tendered by any mutual benefit association, shall be liable to attachment, garnishment, or other process, or be seized, taken, appropriated, or applied by any legal or equitable process to pay any debt or liability of a member or beneficiary, or any other person who may have a right thereunder, either before or after payment.
 
 "Section 415. Any member of a mutual benefit association shall have the right at all times to change the beneficiary or beneficiaries or add another beneficiary or other beneficiaries in accordance with the rules and regulations of the association unless he has expressly waived this right in the membership certificate. Every association may, under such rules as it may adopt, limit the scope of beneficiaries and provide that no beneficiary shall have or obtain any vested interest in the proceeds of any certificate until the certificate has become due and payable under the terms of the membership certificate.
 

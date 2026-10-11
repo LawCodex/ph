@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Magsaysay, Bala, Barayong, Bog, Bacungan, Blocon, Dalawinon, Kanapulo, Kasuga, Mabini, Kialog, San Isidro, San Miguel, Dalumay, Tacul, Daig, Lipara and Malungon in the Municipality of Bansalan, Province of Davao, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Magsaysay, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of Barrio Magsaysay.
+The barrios of Magsaysay, Bala, Barayong, Bog, Bacungan, Blocon, Dalawinon, Kanapulo, Kasuga, Mabini, Kialog, San Isidro, San Miguel, Dalumay, Tacul, Daig, Lipara and Malungon in the Municipality of Bansalan, Province of Davao, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Magsaysay, same province. The seat of government of the new municipality shall be in the present site of Barrio Magsaysay.
 
 The new Municipality shall be bounded on the Northwest: Point of National (Davao-Cotabato) Highway; thence straight line to the west following the Davao-Cotabato boundary; On the Southeast: Point of Matanao River at the Matanao-Basalan boundary following said river upstream to the national highway; thence following said highway to the point of Davao-Cotabato boundary; On the South: Matanao-Bansalan boundary; On the West: From a western point of Davao-Cotabato boundary; thence straight line to the South following the western Bansalan boundary up to a point of Matanao-Bansalan boundary.
 

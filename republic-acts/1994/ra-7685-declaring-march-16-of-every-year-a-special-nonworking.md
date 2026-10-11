@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The City of Davao was created by virtue of Commonwealth Act No. 51 which took effect on March 16, 1936.1a⍵⍴h!1
+The City of Davao was created by virtue of Commonwealth Act No. 51 which took effect on March 16, 1936.
 
 ## Section 2
 

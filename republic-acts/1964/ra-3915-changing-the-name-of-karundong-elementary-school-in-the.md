@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Karundong Elementary School in the Municipality of Luuk, Province of Sulu, is changed to Hadji Maharaja Tawasil Elementary School.1âшphi1
+The name of Karundong Elementary School in the Municipality of Luuk, Province of Sulu, is changed to Hadji Maharaja Tawasil Elementary School.
 
 ## Section 2
 

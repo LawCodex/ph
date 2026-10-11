@@ -34,11 +34,11 @@ _Conversion into a Regular Licensing Center._ – The Land Transportation Office
 
 ## Section 2
 
-_Appropriations._ \- The Secretary of Transportation shall immediately include in the Department’s programs the operationalization of the Iloilo City Licensing Center, the initial funding of which shall be charged against the current year’s appropriation of the LTO Licensing Extension Office in Iloilo City. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.1aшphi1
+_Appropriations._ \- The Secretary of Transportation shall immediately include in the Department’s programs the operationalization of the Iloilo City Licensing Center, the initial funding of which shall be charged against the current year’s appropriation of the LTO Licensing Extension Office in Iloilo City. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 3
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

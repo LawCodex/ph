@@ -28,7 +28,7 @@ The name of the barrio of Sominot in the Municipality of Liargao, Province of Za
 
 ## Section 2
 
-The name of the barrio of Lower Malating in the same municipality is changed to Magsaysay.1âшphi1
+The name of the barrio of Lower Malating in the same municipality is changed to Magsaysay.
 
 ## Section 3
 

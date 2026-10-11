@@ -40,7 +40,7 @@ The grantee, is successors or assigns, shall not engage in domestic business of 
 
 ## Section 5
 
-This franchise shall not take effect until the Secretary of Commerce and Industry shall have allotted to the grantee the frequencies and wave lengths to be used thereunder, but the grantee, its successors or assigns, may use the international distress frequency of five hundred kilocycles and the high frequency distress frequency of eight thousand two hundred eighty kilocycles whenever necessary.⚖ - ℒαɯρhi৷
+This franchise shall not take effect until the Secretary of Commerce and Industry shall have allotted to the grantee the frequencies and wave lengths to be used thereunder, but the grantee, its successors or assigns, may use the international distress frequency of five hundred kilocycles and the high frequency distress frequency of eight thousand two hundred eighty kilocycles whenever necessary.
 
 ## Section 6
 

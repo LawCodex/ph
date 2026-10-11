@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Mr. Hans Guenter Schoof is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.**Section 2.** Mr. Hans Guenter Schoof shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.1âwphi1
+Mr. Hans Guenter Schoof is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.**Section 2.** Mr. Hans Guenter Schoof shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

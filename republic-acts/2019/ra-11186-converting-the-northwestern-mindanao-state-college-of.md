@@ -286,7 +286,7 @@ _Development Plan, Management Audit, Organizational/Administrative/Academic Stru
 
 (b) Undergo a management audit in cooperation with the CHED; and
 
-(c) Set up its organizational, administrative, as well as academic structure, including the appointment of key officials of the University.1âwphi1
+(c) Set up its organizational, administrative, as well as academic structure, including the appointment of key officials of the University.
 
 ## Section 23
 

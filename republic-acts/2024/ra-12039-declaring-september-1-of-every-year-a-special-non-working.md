@@ -29,7 +29,7 @@ September 1 of every year is hereby declared a special non-working holiday in th
 
 ## Section 2
 
-This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bataan National School of Arts and Trades in Balanga, Bataan, is hereby changed to Medina Lacson de Leon National School of Arts and Trades.1a⍵⍴h!1
+The name of the Bataan National School of Arts and Trades in Balanga, Bataan, is hereby changed to Medina Lacson de Leon National School of Arts and Trades.
 
 ## Section 2
 

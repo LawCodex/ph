@@ -46,7 +46,7 @@ A special right is reserved to the President of the Philippines in time of war, 
 
 The grantee shall be liable to pay the same taxes, unless exempted therefrom, on his real estate, buildings, and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
 
-The grantee shall further be liable to pay all other taxes under the National Internal Revenue Code by reason of this franchise.1âшphi1
+The grantee shall further be liable to pay all other taxes under the National Internal Revenue Code by reason of this franchise.
 
 ## Section 7
 

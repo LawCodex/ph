@@ -139,7 +139,7 @@ _Method of transacting business by the Council—Veto—Authentication and publi
 
 Each ordinance enacted by the Council, and each resolution or motion directing the payment of money or creating liability shall be forwarded to the Mayor for his approval within ten days from the date of enactment by the Council. If within said period the Council fails to transmit the said ordinance, resolution or motion, the same shall be deemed as not enacted. Within ten days after the receipt of the ordinance, resolution or motion, the Mayor shall return it with his approval or veto. If he does not return it within that time, it shall be deemed to be approved. If he returns it with his veto, his reasons, therefor in writing shall accompany it. It may then again be enacted by a two-thirds vote of all the members of the Council, and again forwarded to the Mayor for his approval, and if within ten days after its receipts he does not again return it with his veto, it shall be deemed to be approved. If within said time he again returns it with his veto, it shall be forwarded forthwith to the President of the Philippines for his approval or disapproval, which shall be final.
 
-The Mayor shall have the power to veto any particular item or items of an appropriation ordinance or of an ordinance, resolution or motion directing the payment of money or creating liability, but the veto shall not effect the item or items to which he does not object.1âшphi1 The item or items objected to shall not take effect except in the manner heretofore provided in this section as to ordinances, resolutions or motions returned to the Council with his veto; but should an item or items in an appropriation ordinance be disapproved by the Mayor, the corresponding item or items in the appropriation ordinance of the previous year shall be deemed re-enacted unless otherwise expressly directly in the veto.
+The Mayor shall have the power to veto any particular item or items of an appropriation ordinance or of an ordinance, resolution or motion directing the payment of money or creating liability, but the veto shall not effect the item or items to which he does not object. The item or items objected to shall not take effect except in the manner heretofore provided in this section as to ordinances, resolutions or motions returned to the Council with his veto; but should an item or items in an appropriation ordinance be disapproved by the Mayor, the corresponding item or items in the appropriation ordinance of the previous year shall be deemed re-enacted unless otherwise expressly directly in the veto.
 
 ### Section 15
 
@@ -850,6 +850,8 @@ _Dedication of streets, highways and other ways in subdivisions.—_ If the subd
 
 ## Article XIX — Effectivity of this Act
 
-Section 104._Effectivity.—_****This Act shall take effect on January first, nineteen hundred sixty-six, if the majority of the qualified voters of the Municipality of San Carlos shall approved its conversion into a city as provided in this Act at a plebiscite to be held simultaneously with the general elections in November, nineteen hundred sixty-five, under the supervision of the Commission on Elections.
+### Section 104
+
+_Effectivity.—_****This Act shall take effect on January first, nineteen hundred sixty-six, if the majority of the qualified voters of the Municipality of San Carlos shall approved its conversion into a city as provided in this Act at a plebiscite to be held simultaneously with the general elections in November, nineteen hundred sixty-five, under the supervision of the Commission on Elections.
 
 Approved: June 19, 1965.

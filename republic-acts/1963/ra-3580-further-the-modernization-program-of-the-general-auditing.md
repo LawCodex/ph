@@ -344,7 +344,7 @@ The Auditor General is hereby authorized to pursue further its modernization pro
 
 ## Section 2
 
-The sum necessary for the succeeding fiscal years shall be included in the appropriations for the General Auditing Office in the annual General Appropriation Acts.1âшphi1
+The sum necessary for the succeeding fiscal years shall be included in the appropriations for the General Auditing Office in the annual General Appropriation Acts.
 
 ## Section 3
 

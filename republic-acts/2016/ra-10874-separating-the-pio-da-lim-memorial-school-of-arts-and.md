@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Pio Da Lim Memor
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Pio Da Lim Memorial School of Arts and Trades-Tanglagan Annex are hereby transferred to and absorbed by the Tanglagan National High School.1awp++i1
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Pio Da Lim Memorial School of Arts and Trades-Tanglagan Annex are hereby transferred to and absorbed by the Tanglagan National High School.
 
 ## Section 3
 

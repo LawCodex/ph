@@ -40,7 +40,7 @@ The reorganization to be made pursuant to the provisions of this Act shall be su
 
 ## Section 5
 
-All laws or parts of laws which are or may be in conflict with any of the provisions of this Act are hereby repealed.1âшphi1
+All laws or parts of laws which are or may be in conflict with any of the provisions of this Act are hereby repealed.
 
 ## Section 6
 

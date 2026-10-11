@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, is hereby changed to Biga.1âшphi1
+The name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, is hereby changed to Biga.
 
 ## Section 2
 

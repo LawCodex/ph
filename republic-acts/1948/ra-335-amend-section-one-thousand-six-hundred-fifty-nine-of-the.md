@@ -37,7 +37,7 @@ Section one thousand six hundred fifty-nine of the Revised Administrative Code, 
 
 "(d) Five Solicitors, four thousand two hundred pesos per annum each;
 
-"(e) Six Solicitors, three thousand six hundred pesos per annum each.£á⩊phi£
+"(e) Six Solicitors, three thousand six hundred pesos per annum each.
 
 "The qualifications for appointment to the positions of Solicitor General, the First Assistant Solicitor General and the four Assistant Solicitors General shall be the same as those prescribed for Judges of the Courts of First Instance and those of Solicitors shall be the same as those prescribed for provincial fiscals."
 

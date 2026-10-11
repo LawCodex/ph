@@ -155,7 +155,7 @@ _Liquidation._ \- When its term or period of existence has expired in accordance
 
 ### Section 18
 
-_Reversion to General Funds._ \- All funds resulting from the dissolution and liquidation of the corporation as herein provided shall revert to the General funds of the Government.1a⍵⍴h!1
+_Reversion to General Funds._ \- All funds resulting from the dissolution and liquidation of the corporation as herein provided shall revert to the General funds of the Government.
 
 ## CHAPTER IX. Miscellaneous Provisions
 

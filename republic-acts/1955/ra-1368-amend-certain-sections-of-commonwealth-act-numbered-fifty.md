@@ -79,7 +79,7 @@ The provisions of section twelve of the same Act are repealed, and, in lieu ther
 
 There are hereby inserted between sections twelve and thirteen of the same Act four sections, to be known as sections 12-A, 12-B, 12-C, and 12-D, which shall read as follows:
 
-"Sec. 12-A. _Qualification, election, suspension and removal of members of the Council._ -The members of the City Council shall be qualified electors of the city, shall be residents thereof for at least one year, and be not less than twenty-three years of age.1âшphi1 The members-elect shall upon qualifying assume office on the date fixed in the Revised Election Code and hold office until their successors are elected and have qualified.
+"Sec. 12-A. _Qualification, election, suspension and removal of members of the Council._ -The members of the City Council shall be qualified electors of the city, shall be residents thereof for at least one year, and be not less than twenty-three years of age. The members-elect shall upon qualifying assume office on the date fixed in the Revised Election Code and hold office until their successors are elected and have qualified.
 
 "The members of the City Council may be suspended or removed from office under the same circumstances, in the same manner, and with the same effect, as elective provincial officers, and the provisions of law governing the suspension or removal of elective provincial officers are hereby made applicable to the suspension or removal of said members of the Council.
 

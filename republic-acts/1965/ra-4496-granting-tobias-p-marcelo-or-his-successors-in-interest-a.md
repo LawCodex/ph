@@ -41,7 +41,7 @@ The franchise herein granted shall be valid for a period of twenty-five years fr
 
 ## Section 5
 
-The books, records and accounts of the grantee shall always be open to inspection by the provincial treasurer of Rizal or the city treasurer of Manila depending on the location of the plants, or their authorized representatives, and it shall be the duty of the grantee to submit to the corresponding treasurer quarterly reports in duplicate showing the gross receipts for the past calendar quarter, one of which shall be forwarded by the treasurer to the Auditor General, who shall keep the same on file.1aшphi1
+The books, records and accounts of the grantee shall always be open to inspection by the provincial treasurer of Rizal or the city treasurer of Manila depending on the location of the plants, or their authorized representatives, and it shall be the duty of the grantee to submit to the corresponding treasurer quarterly reports in duplicate showing the gross receipts for the past calendar quarter, one of which shall be forwarded by the treasurer to the Auditor General, who shall keep the same on file.
 
 ## Section 6
 

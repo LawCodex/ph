@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Lo-ok in the Municipality of Cabucgayan, Province of Leyte, is hereby converted into a barrio to be known as Barrio Lo-ok.1aшphi1
+The sitio of Lo-ok in the Municipality of Cabucgayan, Province of Leyte, is hereby converted into a barrio to be known as Barrio Lo-ok.
 
 ## Section 2
 

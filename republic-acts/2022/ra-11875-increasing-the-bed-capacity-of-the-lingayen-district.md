@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The authorized bed capacity of the Lingayen District Hospital, Province of Pangasinan is hereby increased from sixty (60) to one hundred (100) beds.7!ᕼdMᗄ7 Any future increase in bed capacity shall be consistent with its hospital development plan which shall prepared by Chief of Hospital of the Lingayen District Hospital.
+The authorized bed capacity of the Lingayen District Hospital, Province of Pangasinan is hereby increased from sixty (60) to one hundred (100) beds. Any future increase in bed capacity shall be consistent with its hospital development plan which shall prepared by Chief of Hospital of the Lingayen District Hospital.
 
 ## Section 2
 

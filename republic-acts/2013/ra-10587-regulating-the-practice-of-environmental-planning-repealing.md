@@ -380,7 +380,7 @@ _Penal Provisions._ – Any person committing any of the unlawful practices unde
 
 (f) Implementing or causing the implementation of any plan not prepared and signed by a registered and licensed environmental planner; and
 
-(g) Violating any of the provisions of this Act and the rules and regulations thereof.1âwphi1
+(g) Violating any of the provisions of this Act and the rules and regulations thereof.
 
 Any Filipino employer who hires foreign practitioners without obtaining a special permit for the latter shall also be held liable under this Act.
 

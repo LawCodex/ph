@@ -77,7 +77,7 @@ _Duration of Grant of Powers._ \- The authority granted to the President under t
 
 _Oversight Committees._ \- There is hereby created an Oversight Committee in each House of Congress to be composed of five (5) members each, as may be designated by the Senate President and the Speaker of the House of Representatives, to monitor the implementation of this Act and the exercise of the authority granted thereunder.
 
-The Oversight Committees shall submit periodic reports, evaluations and recommendations to the Senate and the House of Representatives.1a⍵⍴h!1
+The Oversight Committees shall submit periodic reports, evaluations and recommendations to the Senate and the House of Representatives.
 
 ## Section 9
 

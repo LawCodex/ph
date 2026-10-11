@@ -28,7 +28,7 @@ Sixty per centum for the planter, and forty per centum for the central in any mi
 
 Sixty-two and one-half per centum for the planter, and thirty-seven and one-half per centum for the central in any milling district the maximum actual production of which exceeds four hundred thousand piculs but does not exceed six hundred thousand piculs;
 
-Sixty-five per centum for the planter, and thirty-five per centum for the central in any milling district the maximum actual production of which exceeds six hundred thousand piculs but does not exceed nine hundred thousand piculs;1awphil@alf
+Sixty-five per centum for the planter, and thirty-five per centum for the central in any milling district the maximum actual production of which exceeds six hundred thousand piculs but does not exceed nine hundred thousand piculs;
 
 Sixty-seven and one-half per centum the planter, and thirty-two and one-half per centum for the central in any milling district the maximum actual production of which exceeds nine hundred thousand piculs but does not exceed one million two hundred thousand piculs;
 
@@ -44,7 +44,7 @@ The share of the planter fixed in section one of this Act shall not be diminishe
 
 Neither the enforcement of this Act nor anything contained herein shall be deemed sufficient and just cause for the reduction of the wages of workers employed by sugar centrals, for the withdrawal or cancellation of any benefits, facilities, privileges, or other concessions heretofore granted to them, or for the temporary lay-off or permanent dismissal of any the said workers.
 
-The provisions of Commonwealth Act Numbered One hundred and three, and the Rules of the Court of Industrial Relations promulgated thereunder, shall be made applicable to such actions.1awphil@alf
+The provisions of Commonwealth Act Numbered One hundred and three, and the Rules of the Court of Industrial Relations promulgated thereunder, shall be made applicable to such actions.
 
 ## Section 4
 
@@ -100,6 +100,6 @@ This Act may be cited as "The Sugar Act of 1952."
 
 ## Section 14
 
-This Act shall take effect upon its approval.1awphil@alf
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, **June 22, 1952**

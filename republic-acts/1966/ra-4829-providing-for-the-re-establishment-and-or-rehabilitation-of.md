@@ -33,7 +33,7 @@ As enumerated in Section five, Article two of the Constitution of the Philippine
 
 The advent of sulfone drug in the treatment of leprosy patients (Hansen patients) has made unnecessary the prolonged confinement of Hansenites in leprosaria, except those who are suffering from the advanced stage of the disease, those needing surgical intervention and those requiring institutionalized care like the destitute and/or invalid patients.
 
-Those dischargeable patients (disease-arrested) cases need to be re-established and/or rehabilitated to the communities of their choice.1avvphi1 Their prolonged confinement in the leprosaria, which at present is no longer necessary has made them lose track of their homes and families, rendered them jobless, and caused them to be emotionally insecure and fearful in facing life outside the leprosaria.
+Those dischargeable patients (disease-arrested) cases need to be re-established and/or rehabilitated to the communities of their choice. Their prolonged confinement in the leprosaria, which at present is no longer necessary has made them lose track of their homes and families, rendered them jobless, and caused them to be emotionally insecure and fearful in facing life outside the leprosaria.
 
 ## Section 3
 

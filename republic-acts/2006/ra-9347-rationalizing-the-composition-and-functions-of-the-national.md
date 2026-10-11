@@ -79,13 +79,21 @@ Article 216, as amended, is hereby further amended to read as follows:
 
 "ART. 216. _Salaries, benefits and other emoluments._ The Chairman and members of the Commission shall have the same rank, receive an annual salary equivalent to, and be entitled to the same allowances, retirement and benefits as, those of the Presiding Justice and Associate Justices of the Court of Appeals, respectively. Labor Arbiters shall have the same rank, receive an annual salary equivalent to and be entitled to the same allowances, retirement and other benefits and privileges as those of the judges of the regional trial courts. In no case, however, shall the provision of this Article result in the diminution of the existing salaries, allowances and benefits of the aforementioned officials."
 
-**SEC. 5._Implementation._** \- The creation of the additional divisions shall be implemented for a period of not more than three (3) years
+## SEC. 5
 
-**SEC. 6._Separability Clause._** \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
+_Implementation._ \- The creation of the additional divisions shall be implemented for a period of not more than three (3) years
 
-**SEC. 7._Repealing Clause._** \- Presidential Decree 442, as amended, otherwise known as the Labor Code of the Philippines, and all other acts, laws, executive orders, presidential issuances, rules and regulations or any part thereof which are inconsistent herewith are hereby deemed repealed or modified accordingly.
+## SEC. 6
 
-**SEC. 8._Effectivity._** \- This Ac shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two newspapers of general circulation, whichever comes earlier.
+_Separability Clause._ \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
+
+## SEC. 7
+
+_Repealing Clause._ \- Presidential Decree 442, as amended, otherwise known as the Labor Code of the Philippines, and all other acts, laws, executive orders, presidential issuances, rules and regulations or any part thereof which are inconsistent herewith are hereby deemed repealed or modified accordingly.
+
+## SEC. 8
+
+_Effectivity._ \- This Ac shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two newspapers of general circulation, whichever comes earlier.
 
 Approved,
 

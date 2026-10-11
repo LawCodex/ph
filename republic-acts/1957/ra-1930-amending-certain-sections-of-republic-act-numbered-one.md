@@ -127,7 +127,7 @@ The first paragraph of section seventy-seven of the same Act, as amended is furt
 
 Section eighty-four of the same Act is amended to read as follows:
 
-"Sec. 84. _General Auditing Office._ — The Auditor General shall receive and audit all accounts of the city, in accordance with the provisions of law relating to Government accounts and accounting.1avvphi1 There shall also be an assistant city auditor who shall receive a salary of five thousand four hundred pesos per annum. He shall perform the duties and exercise the powers of the city auditor, in the event of sickness, absence or other temporary incapacity of the city auditor."
+"Sec. 84. _General Auditing Office._ — The Auditor General shall receive and audit all accounts of the city, in accordance with the provisions of law relating to Government accounts and accounting. There shall also be an assistant city auditor who shall receive a salary of five thousand four hundred pesos per annum. He shall perform the duties and exercise the powers of the city auditor, in the event of sickness, absence or other temporary incapacity of the city auditor."
 
 ## Section 17
 

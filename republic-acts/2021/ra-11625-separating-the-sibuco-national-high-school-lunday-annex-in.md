@@ -34,7 +34,7 @@ The Sibuco National High School – Lunday Annex in Barangay Lunday, Municipalit
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Sibuco National High School – Lunday Annex are hereby transferred to and absorbed by the Lunday National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Sibuco National High School – Lunday Annex are hereby transferred to and absorbed by the Lunday National High School.
 
 ## Section 3
 

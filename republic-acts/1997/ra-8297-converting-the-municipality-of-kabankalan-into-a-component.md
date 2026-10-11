@@ -946,7 +946,7 @@ _The City Population Officer._ – (a) The city population officer must be a cit
 
 2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those concerning the integration of population development principles and methods in programs and projects which the city mayor is empowered to implement and which the sangguniang panlungsod is empowered to provide; and
 
-3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.1aшphi1
+3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 45
 

@@ -74,6 +74,6 @@ The funds herein appropriated shall not be released unless and until the Secreta
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 16, 1954.

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Three (3) additional branches of the Regional Trial Court in the National Capital Judicial Region are hereby created and stationed in the City of Muntinlupa, Metro Manila.
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches of the Regional Trial Court.ℒαwρhi৷
+The Supreme Court shall assign the respective branch numbers for the newly created branches of the Regional Trial Court.
 
 ## Section 2
 

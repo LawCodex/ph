@@ -30,6 +30,6 @@ Sections one and seven of Republic Act Numbered Seventeen are amended to read as
 
 ## Section 2
 
-This Act shall take effect upon its approval.1awphil©
+This Act shall take effect upon its approval.
 
 Approved: March 4, 1947

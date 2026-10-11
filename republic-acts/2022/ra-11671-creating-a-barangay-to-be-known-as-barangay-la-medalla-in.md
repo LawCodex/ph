@@ -50,11 +50,11 @@ _Territorial Boundaries._ \- The territorial boundaries of Barangay La Medalla a
 
 ## Section 3
 
-_Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervised by the Commission on Election (COMELEC) in Barangay La Medalla, pursuant to Provincial Ordinance No. 09-93 dated July 1, 2991 and approved on August 9, 1993 by the Sangguniang Panlalawigan of the Province of Albay, which ratified the creation of Barangay La Medalla as proclaimed by the Provincial Board of Canvassers on November 21, 1993, shall serve as substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the "Local Government Code of 1991".ᇈWᑭHIL
+_Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervised by the Commission on Election (COMELEC) in Barangay La Medalla, pursuant to Provincial Ordinance No. 09-93 dated July 1, 2991 and approved on August 9, 1993 by the Sangguniang Panlalawigan of the Province of Albay, which ratified the creation of Barangay La Medalla as proclaimed by the Provincial Board of Canvassers on November 21, 1993, shall serve as substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the "Local Government Code of 1991".
 
 ## Section 4
 
-_Incumbent Barnagay Officials._ \- The incumbent barangay officials of Barnagay La Medalla shall continue to hold office until such time that their successors have been duly elected and qualified.ℒαwρhi৷
+_Incumbent Barnagay Officials._ \- The incumbent barangay officials of Barnagay La Medalla shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

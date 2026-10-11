@@ -105,7 +105,7 @@ _Promotion of Teachers and School Leaders._ \- Teachers and school leaders shall
 
 The evaluation of applicants in the Teaching Career Line shall consider subject area and pedagogical knowledge, and other requirements of the professional standards. In no case shall promotion in the Teaching Career Line be based on arbitrary criteria such as the proportion of learners who achieve curricular expectations.
 
-The evaluation of applicants in the School Administration Line shall consider organizational and managerial effectiveness, in terms of productivity, performance, utility, efficiency, and other requirements of the professional standards.ℒαwρhi৷
+The evaluation of applicants in the School Administration Line shall consider organizational and managerial effectiveness, in terms of productivity, performance, utility, efficiency, and other requirements of the professional standards.
 
 The DepEd shall formulate clear guidelines on assessing teachers and school leaders seeking promotion. The assessment process, criteria, and point system, as well as the Standards-Based Assessment of each teacher and school leader, shall be made available to the public to foster equal opportunity, transparency, and accountability.
 
@@ -117,7 +117,7 @@ _Support Program for Teachers and School Leaders; Continuous Improvement of the 
 
 Further, to ensure the continuous improvement of the Career Progression System and enhance the right of teachers and school leaders to professional advancement, the TEC shall review, align, and continuously monitor the roles of the NEAP and the Bureau of Human Resource and Organizational Development (BHROD) of the DepEd.
 
-The DepEd shall likewise ensure that the programs of the NEAP and the BHROD are properly aligned with the directions set by the TEC in terms of career stage affirmations and quality assurance of the use of professional standards adopted by the DepEd.ℒαwρhi৷ Such programs shall be coordinated to provide quality professional development programs on teacher education that are responsive to the needs of teachers and school leaders to be effective in teaching or school administration.
+The DepEd shall likewise ensure that the programs of the NEAP and the BHROD are properly aligned with the directions set by the TEC in terms of career stage affirmations and quality assurance of the use of professional standards adopted by the DepEd. Such programs shall be coordinated to provide quality professional development programs on teacher education that are responsive to the needs of teachers and school leaders to be effective in teaching or school administration.
 
 ## Section 11
 

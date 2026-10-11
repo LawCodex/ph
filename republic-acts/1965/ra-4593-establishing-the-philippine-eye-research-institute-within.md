@@ -63,7 +63,7 @@ There shall be an Advisory Council of the Institute to be composed of the Dean o
 
 ## Section 6
 
-A trust fund, which is designated Eye Research Fund, is hereby established for the support of the Institute, including the purchase of research equipment and facilities, compensation and honoraria to researchers whether in the government service or otherwise, and such other necessary expenses to carry out the purpose of this Act.1âшphi1 The Eye Research Fund shall consist of the amounts appropriated by the Government under this Act, and such sums as may be derived from private endowments, donations, and other sources.
+A trust fund, which is designated Eye Research Fund, is hereby established for the support of the Institute, including the purchase of research equipment and facilities, compensation and honoraria to researchers whether in the government service or otherwise, and such other necessary expenses to carry out the purpose of this Act. The Eye Research Fund shall consist of the amounts appropriated by the Government under this Act, and such sums as may be derived from private endowments, donations, and other sources.
 
 ## Section 7
 

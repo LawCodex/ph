@@ -28,7 +28,7 @@ The Leyte Trade School situated in the City of Tacloban is hereby converted to a
 
 ## Section 2
 
-The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Leyte Regional School of Arts and Trades during the school year nineteen hundred fifty-six to nineteen hundred fifty-seven.1avvphi1 Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Acts.
+The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Leyte Regional School of Arts and Trades during the school year nineteen hundred fifty-six to nineteen hundred fifty-seven. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Acts.
 
 ## Section 3
 

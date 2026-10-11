@@ -31,7 +31,7 @@ The Maslog Provincial High School in the Municipality of Maslog, Province of Eas
 
 ## Section 2
 
-The national high school shall offer general secondary education proper.ℒαwρhi৷ It shall also offer techno-vocational courses and relevant courses to cultivate technical and vocational skills of the youth.
+The national high school shall offer general secondary education proper. It shall also offer techno-vocational courses and relevant courses to cultivate technical and vocational skills of the youth.
 
 ## Section 3
 

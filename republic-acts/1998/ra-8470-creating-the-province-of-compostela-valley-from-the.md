@@ -51,7 +51,7 @@ District II - Laak, Mawab, Nabunturan, Maco, Mabini and Pantukan.
 
 ## Section 5
 
-The creation of the Province of Compostela Valley, as provided in this Act, shall become effective upon approval of the majority of the votes cast in a plebiscite called for the purpose which shall be conducted and supervised by the Commission on Elections (COMELEC) within sixty (60) days from the date of the effectivity of this Act, in the political units affected.Ꮮαwρhi৷
+The creation of the Province of Compostela Valley, as provided in this Act, shall become effective upon approval of the majority of the votes cast in a plebiscite called for the purpose which shall be conducted and supervised by the Commission on Elections (COMELEC) within sixty (60) days from the date of the effectivity of this Act, in the political units affected.
 
 The expenses for the plebiscite shall be charged to the Province of Davao del Norte.
 

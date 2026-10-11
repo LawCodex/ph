@@ -32,7 +32,7 @@ The Dr. Gerardo Sabal Memorial Municipal High School in the Poblacion, Municipal
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations and guidelines as may be necessary to carry out the purposes of this Act.1aшphi1
+The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations and guidelines as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 

@@ -76,7 +76,7 @@ As a condition of the granting of this franchise, the grantee shall execute a bo
 
 ## Section 12
 
-Acceptance of the franchise shall be given in writing within one year after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.1âшphi1
+Acceptance of the franchise shall be given in writing within one year after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.
 
 ## Section 13
 

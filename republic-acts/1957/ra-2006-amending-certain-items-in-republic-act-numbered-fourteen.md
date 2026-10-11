@@ -31,7 +31,7 @@ Item (c) under (45) Romblon, paragraph f section two of Republic Act Numbered Fo
 
 ## Section 2
 
-Item (k) under (45) Romblon, paragraph f, section two of the same Act is repealed.1âшphi1
+Item (k) under (45) Romblon, paragraph f, section two of the same Act is repealed.
 
 ## Section 3
 

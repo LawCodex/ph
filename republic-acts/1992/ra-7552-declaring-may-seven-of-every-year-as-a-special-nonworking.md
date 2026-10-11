@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-May Seven of every year is hereby declared as a special nonworking holiday in the Province of Pampanga.1âшphi1
+May Seven of every year is hereby declared as a special nonworking holiday in the Province of Pampanga.
 
 ## Section 2
 

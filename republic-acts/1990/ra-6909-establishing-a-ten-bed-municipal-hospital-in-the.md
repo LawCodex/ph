@@ -37,7 +37,7 @@ Before the construction of the hospital, the Secretary of Health shall issue a w
 
 ## Section 4
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

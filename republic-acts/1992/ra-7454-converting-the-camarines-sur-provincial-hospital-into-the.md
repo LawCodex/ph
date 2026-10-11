@@ -37,7 +37,7 @@ _Capacity._ \- The Bicol Regional Training and Teaching Hospital is hereby autho
 
 ## Section 4
 
-_Patient's Category._ \- Patients who can afford to pay as determined by the Hospital authority shall be required to pay the cost of hospitalization and/or medical treatment extended to them. Indigents shall not be required to pay the cost of hospitalization and/or medical services rendered: _Provided,_ That a certificate of indigency issued by the barangay captain at his place of residence is submitted.1âшphi1
+_Patient's Category._ \- Patients who can afford to pay as determined by the Hospital authority shall be required to pay the cost of hospitalization and/or medical treatment extended to them. Indigents shall not be required to pay the cost of hospitalization and/or medical services rendered: _Provided,_ That a certificate of indigency issued by the barangay captain at his place of residence is submitted.
 
 ## Section 5
 

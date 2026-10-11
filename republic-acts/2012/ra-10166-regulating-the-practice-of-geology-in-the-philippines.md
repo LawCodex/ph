@@ -228,7 +228,7 @@ _Report of Ratings._ – The Board shall complete the correction of examination 
 
 _Issuance of Certificates of Registration and Professional Identification Card._ – A certificate of registration shall be issued to those who are registered with or without licensure examination subject to payment of fees prescribed by the Commission. It shall bear the signatures of the Chairperson of the Commission and of the chairman and members of the Board, stamped with the official seal of the Commission and of the Board, certifying that the person named therein is entitled to the practice of the profession with all the privileges appurtenant thereto. Until withdrawn, revoked or suspended in accordance with this Act, it shall remain in full force and effect.
 
-A professional identification card bearing the registration number and date, its validity and expiry duly signed by the Chairperson of the Commission shall likewise be issued to every registrant who has paid the prescribed fees. The said card shall be renewed every three (3) years upon mandatory submission of the CPE units, as may be required by the Board.1âwphi1
+A professional identification card bearing the registration number and date, its validity and expiry duly signed by the Chairperson of the Commission shall likewise be issued to every registrant who has paid the prescribed fees. The said card shall be renewed every three (3) years upon mandatory submission of the CPE units, as may be required by the Board.
 
 ### Section 22
 

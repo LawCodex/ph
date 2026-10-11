@@ -94,7 +94,7 @@ _Other Training Programs._ —To avoid duplica­tion of functions and wasteful e
 
 ## Section 12
 
-_Rules and Regulations._ —The Council shall issue the rules and regulations necessary to implement the provisions of this Act.1âшphi1
+_Rules and Regulations._ —The Council shall issue the rules and regulations necessary to implement the provisions of this Act.
 
 ## Section 13
 

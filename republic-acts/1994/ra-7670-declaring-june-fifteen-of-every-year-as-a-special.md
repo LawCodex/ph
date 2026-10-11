@@ -33,7 +33,7 @@ Cagayan de Oro City was created as a city on June 15, 1950 by virtue of Republic
 
 ## Section 2
 
-June Fifteen of every year is hereby declared a special nonworking public holiday in Cagayan de Oro City to be known as Cagayan de Oro City Charter Day.1a⍵⍴h!1
+June Fifteen of every year is hereby declared a special nonworking public holiday in Cagayan de Oro City to be known as Cagayan de Oro City Charter Day.
 
 ## Section 3
 

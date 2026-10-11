@@ -33,7 +33,7 @@ Section one of Republic Act Numbered Thirty-one hundred and fifty-nine is amende
 
 Section three of the same Act is amended to read as follows:
 
-"Sec. 3. The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation of said hospital during the fiscal years nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act."
+"Sec. 3. The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation of said hospital during the fiscal years nineteen hundred sixty-nine. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act."
 
 ## Section 3
 

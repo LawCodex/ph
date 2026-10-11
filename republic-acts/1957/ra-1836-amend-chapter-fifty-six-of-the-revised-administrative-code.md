@@ -106,7 +106,7 @@ _Classification under this Act._ -Upon the approval of this Act and for each per
 
 ## Section 6
 
-Act Numbered Thirty-seven hundred ninety-eight, as amended, Republic Act Numbered Three hundred sixty-eight, as amended, sections sixteen hundred and seventy-five and twenty hundred and eighty-six of the Revised Administrative Code, and all Acts, executive orders or parts thereof inconsistent with the provisions of this Act are repealed.1âшphi1
+Act Numbered Thirty-seven hundred ninety-eight, as amended, Republic Act Numbered Three hundred sixty-eight, as amended, sections sixteen hundred and seventy-five and twenty hundred and eighty-six of the Revised Administrative Code, and all Acts, executive orders or parts thereof inconsistent with the provisions of this Act are repealed.
 
 ## Section 7
 

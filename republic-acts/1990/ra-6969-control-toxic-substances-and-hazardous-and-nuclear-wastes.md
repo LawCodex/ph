@@ -25,13 +25,21 @@ AN ACT TO CONTROL TOXIC SUBSTANCES AND HAZARDOUS AND NUCLEAR WASTES, PROVIDING P
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short title._** – This Act shall be known as the **"_Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is the policy of the State to regulate, restrict or prohibit the importation, manufacture, processing, sale, distribution, use and disposal of chemical substances and mixtures that present unreasonable risk and/or injury to health or the environment; to prohibit the entry, even in transit, of hazardous and nuclear wastes and their disposal into the Philippine territorial limits for whatever purpose; and to provide advancement and facilitate research and studies on toxic chemicals.
+_Short title._ – This Act shall be known as the **"_Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990._ "**
 
-**Section 3._Scope._** – This Act shall cover the importation, manufacture, processing, handling, storage, transportation, sale, distribution, use and disposal of all unregulated chemical substances and mixtures in the Philippines, including the entry, even in transit as well as the keeping or storage and disposal of hazardous and nuclear wastes into the country for whatever purpose.
+## Section 2
 
-**Section 4._Objectives._** – The objectives of this Act are:
+_Declaration of Policy._ – It is the policy of the State to regulate, restrict or prohibit the importation, manufacture, processing, sale, distribution, use and disposal of chemical substances and mixtures that present unreasonable risk and/or injury to health or the environment; to prohibit the entry, even in transit, of hazardous and nuclear wastes and their disposal into the Philippine territorial limits for whatever purpose; and to provide advancement and facilitate research and studies on toxic chemicals.
+
+## Section 3
+
+_Scope._ – This Act shall cover the importation, manufacture, processing, handling, storage, transportation, sale, distribution, use and disposal of all unregulated chemical substances and mixtures in the Philippines, including the entry, even in transit as well as the keeping or storage and disposal of hazardous and nuclear wastes into the country for whatever purpose.
+
+## Section 4
+
+_Objectives._ – The objectives of this Act are:
 
 a) To keep an inventory of chemicals that are presently being imported, manufactured, or used, indicating, among others, their existing and possible uses, test data, names of firms manufacturing or using them, and such other information as may be considered relevant to the protection of health and the environment;
 
@@ -41,7 +49,9 @@ c) To inform and educate the populace regarding the hazards and risks attendant 
 
 d) To prevent the entry, even in transit, as well as the keeping or storage and disposal of hazardous and nuclear wastes into the country for whatever purpose.
 
-**Section 5._Definition._** – As used in this Act:
+## Section 5
+
+_Definition._ – As used in this Act:
 
 a) Chemical substance means any organic or inorganic substance of a particular molecular identity, including:
 
@@ -75,7 +85,9 @@ Hazardous wastes shall also refer to by-products, side-products, process residue
 
 i) Nuclear wastes are hazardous wastes made radioactive by exposure to the radiation incidental to the production or utilization of nuclear fuels but does not include nuclear fuel, or radioisotopes which have reached the final stage of fabrication so as to be usable for any scientific, medical, agricultural, commercial, or industrial purpose.
 
-**Section 6._Function, Powers and Responsibilities of the Department of Environment and Natural Resources._** – The Department of Environment and Natural Resources shall be the implementing agency tasked with the following functions, powers, and responsibilities:
+## Section 6
+
+_Function, Powers and Responsibilities of the Department of Environment and Natural Resources._ – The Department of Environment and Natural Resources shall be the implementing agency tasked with the following functions, powers, and responsibilities:
 
 a) To keep an updated inventory of chemicals that are presently being manufactured or used, indicating, among others, their existing and possible uses, quality, test data, names of firms manufacturing or using them, and such other information as the Secretary may consider relevant to the protection of health and the environment;
 
@@ -101,7 +113,9 @@ k) To disseminate information and conduct educational awareness campaigns on the
 
 l) To exercise such powers and perform such other functions as may be necessary to carry out its duties and responsibilities under this Act.
 
-**Section 7._Inter-Agency Technical Advisory Council._** – There is hereby created an Inter-Agency Technical Advisory Council attached to the Department of Environment and Natural Resources which shall be composed of the following officials or their duly authorized representatives:
+## Section 7
+
+_Inter-Agency Technical Advisory Council._ – There is hereby created an Inter-Agency Technical Advisory Council attached to the Department of Environment and Natural Resources which shall be composed of the following officials or their duly authorized representatives:
 
 | Secretary of Environment and Natural Resources | Chairman |
 |---|---|
@@ -128,9 +142,13 @@ c) To conduct preliminary evaluation of the characteristics of chemical substanc
 
 d) To perform such other functions as the Secretary of Environment and Natural Resources may, from time to time, require.
 
-**Section 8._Pre-Manufacture and Pre-Importation Requirements._** – Before any new chemical substance or mixture can be manufactured, processed or imported for the first time as determined by the Department of Environment and Natural Resources, the manufacturer, processor or importer shall submit the following information: the name of the chemical substance or mixture; its chemical identity and molecular structure; proposed categories of use; an estimate of the amount to be manufactured, processed or imported; processing and disposal thereof; and any test data related to health and environmental effects which the manufacturer, processor or importer has.
+## Section 8
 
-**Section 9._Chemicals Subject to Testing._** – Testing shall be required in all cases where:
+_Pre-Manufacture and Pre-Importation Requirements._ – Before any new chemical substance or mixture can be manufactured, processed or imported for the first time as determined by the Department of Environment and Natural Resources, the manufacturer, processor or importer shall submit the following information: the name of the chemical substance or mixture; its chemical identity and molecular structure; proposed categories of use; an estimate of the amount to be manufactured, processed or imported; processing and disposal thereof; and any test data related to health and environmental effects which the manufacturer, processor or importer has.
+
+## Section 9
+
+_Chemicals Subject to Testing._ – Testing shall be required in all cases where:
 
 a) There is a reason to believe that the chemical substances or mixture may present an unreasonable risk to health or the environment or there may be substantial human or environmental exposure thereto;
 
@@ -140,9 +158,13 @@ c) The testing of the chemical substance or mixture is necessary to develop such
 
 The manufacturers, processors or importers shall shoulder the costs of testing the chemical substance or mixture that will be manufactured, processed, or imported.
 
-**Section 10._Action by the Secretary of Environment and Natural Resources of his Duly Authorized Representative._** – The Secretary of Environment and Natural Resources or his duly authorized representative shall, within ninety (90) days from the date of filing of the notice of manufacture, processing or importation of a chemical substance or mixture, decide whether or not to regulate or prohibit its importation, manufacture, processing, sale, distribution, use or disposal. The Secretary may, for justifiable reasons, extend the ninety-day pre-manufacture period within a reasonable time.
+## Section 10
 
-**Section 11._Chemical Substances Exempt from Pre-Manufacture Notification._** – The manufacture of the following chemical substances or mixtures shall be exempt from pre-manufacture notification:
+_Action by the Secretary of Environment and Natural Resources of his Duly Authorized Representative._ – The Secretary of Environment and Natural Resources or his duly authorized representative shall, within ninety (90) days from the date of filing of the notice of manufacture, processing or importation of a chemical substance or mixture, decide whether or not to regulate or prohibit its importation, manufacture, processing, sale, distribution, use or disposal. The Secretary may, for justifiable reasons, extend the ninety-day pre-manufacture period within a reasonable time.
+
+## Section 11
+
+_Chemical Substances Exempt from Pre-Manufacture Notification._ – The manufacture of the following chemical substances or mixtures shall be exempt from pre-manufacture notification:
 
 a) Those included in the categories of chemical substances and mixtures already listed in the inventory of existing chemicals;
 
@@ -152,9 +174,13 @@ c) Chemical substances and mixtures that will not present an unreasonable risk t
 
 d) Chemical substances and mixtures that exist temporarily and which have no human or environmental exposure such as those which exist as a result of chemical reaction in the manufacture or processing of a mixture of another chemical substance.
 
-**Section 12._Public Access to Records, Reports or Notification._** – The public shall have access to records, reports, or information concerning chemical substances and mixtures including safety data submitted, data on emission or discharge into the environment, and such documents shall be available for inspection or reproduction during normal business hours except that the Department of Environment and Natural resources may consider a record, report or information or particular portions thereof confidential and may not be made public when such would divulge trade secrets, production or sales figures or methods, production or processes unique to such manufacturer, processor or distributor, or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor. The Department of Environment and Natural Resources, however, may release information subject to claim of confidentiality to a medical research or scientific institution where the information is needed for the purpose of medical diagnosis or treatment of a person exposed to the chemical substance or mixture.
+## Section 12
 
-**Section 13._Prohibited Acts._** – The following acts and omissions shall be considered unlawful:
+_Public Access to Records, Reports or Notification._ – The public shall have access to records, reports, or information concerning chemical substances and mixtures including safety data submitted, data on emission or discharge into the environment, and such documents shall be available for inspection or reproduction during normal business hours except that the Department of Environment and Natural resources may consider a record, report or information or particular portions thereof confidential and may not be made public when such would divulge trade secrets, production or sales figures or methods, production or processes unique to such manufacturer, processor or distributor, or would otherwise tend to affect adversely the competitive position of such manufacturer, processor or distributor. The Department of Environment and Natural Resources, however, may release information subject to claim of confidentiality to a medical research or scientific institution where the information is needed for the purpose of medical diagnosis or treatment of a person exposed to the chemical substance or mixture.
+
+## Section 13
+
+_Prohibited Acts._ – The following acts and omissions shall be considered unlawful:
 
 a) Knowingly use a chemical substance or mixture which is imported, manufactured, processed or distributed in violation of this Act or implementing rules and regulations or orders;
 
@@ -164,7 +190,9 @@ c) Failure or refusal to comply with the pre-manufacture and pre-importation req
 
 d) Cause, aid or facilitate, directly or indirectly, in the storage, importation, or bringing into Philippines territory, including its maritime economic zones, even in transit, either by means of land, air or sea transportation or otherwise keeping in storage any amount of hazardous and nuclear wastes in any part of the Philippines.
 
-**Section 14._Criminal Offenses and Penalties._** –
+## Section 14
+
+_Criminal Offenses and Penalties._ –
 
 a) (i) The penalty of imprisonment of six (6) months and one day to six (6) years and one day and a fine ranging from Six hundred pesos (P600.00) to Four thousand pesos (P4,000.00) shall be imposed upon any person who shall violate section 13 (a) to (c) of this Act and shall not be covered by the Probation Law.f the offender is a foreigner, he or she shall be deported and barred from any subsequent entry into the Philippines after serving his or her sentence;
 
@@ -184,16 +212,28 @@ d) The person or firm responsible or connected with the bringing or importation 
 
 Any and all means of transportation, including all facilities and appurtenances that may have been used in transporting to or in the storage in the Philippines of any significant amount of hazardous or nuclear wastes shall at the option of the government be forfeited in its favor.
 
-**Section 15._Administrative Fines._** – In all cases of violations of this Act, including violations of implementing rules and regulations which have been duly promulgated and published in accordance with Section 16 of this Act, the Secretary of Environment and Natural Resources is hereby authorized to impose a fine of not less than Ten thousand pesos (P10,000.00), but not more than Fifty thousand pesos (P50,000.00) upon any person or entity found guilty thereof. The administrative fines imposed and collected by the Department of Environment and Natural Resources shall accrue to a special fund to be administered by the Department exclusively for projects and research activities relative to toxic substances and mixtures.
+## Section 15
 
-**Section 16._Promulgation of Rules and Regulations._** – The Department of Environment and Natural Resources, in coordination with the member agencies of the Inter-Agency Technical Advisory Council, shall prepare and publish the rules and regulations implementing this Act within six months from the date of its effectivity.
+_Administrative Fines._ – In all cases of violations of this Act, including violations of implementing rules and regulations which have been duly promulgated and published in accordance with Section 16 of this Act, the Secretary of Environment and Natural Resources is hereby authorized to impose a fine of not less than Ten thousand pesos (P10,000.00), but not more than Fifty thousand pesos (P50,000.00) upon any person or entity found guilty thereof. The administrative fines imposed and collected by the Department of Environment and Natural Resources shall accrue to a special fund to be administered by the Department exclusively for projects and research activities relative to toxic substances and mixtures.
 
-**Section 17._Appropriations._** – Such amount as may be necessary to implement the provisions of this Act is hereby annually appropriated and included in the budget of the Department of Environment and Natural Resources.
+## Section 16
 
-**Section 18._Separability Clause._** – If any provision of this Act is declared void or unconstitutional, the remaining provisions thereof not affected thereby shall remain in full force and effect.
+_Promulgation of Rules and Regulations._ – The Department of Environment and Natural Resources, in coordination with the member agencies of the Inter-Agency Technical Advisory Council, shall prepare and publish the rules and regulations implementing this Act within six months from the date of its effectivity.
 
-**Section 19._Repealing Clause._** – All laws, presidential decrees, executive orders and issuances, and rules and regulations which are inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 17
 
-**Section 20._Effectivity._** – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation.
+_Appropriations._ – Such amount as may be necessary to implement the provisions of this Act is hereby annually appropriated and included in the budget of the Department of Environment and Natural Resources.
+
+## Section 18
+
+_Separability Clause._ – If any provision of this Act is declared void or unconstitutional, the remaining provisions thereof not affected thereby shall remain in full force and effect.
+
+## Section 19
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders and issuances, and rules and regulations which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+## Section 20
+
+_Effectivity._ – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation.
 
 Approved: **October 26, 1990**

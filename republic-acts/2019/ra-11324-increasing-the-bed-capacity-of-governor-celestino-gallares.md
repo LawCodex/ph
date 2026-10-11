@@ -33,7 +33,7 @@ _Increase in Authorized Bed Capacity._ \- The authorized bed capacity of Governo
 
 ## Section 2
 
-_Upgrade of Existing Service Facilities and Professional Health Care Services._ \- The existing service facilities and professional health care service of GCGMH are hereby upgraded to conform with and be commensurate to the increase in authorized bed capacity as provided in Section 1 hereof. The GCGMH shall submit to the Department of Health its proposed development and the additional clinical departments and special units it requires to meet the increased authorized bed capacity.ℒαwρhi৷
+_Upgrade of Existing Service Facilities and Professional Health Care Services._ \- The existing service facilities and professional health care service of GCGMH are hereby upgraded to conform with and be commensurate to the increase in authorized bed capacity as provided in Section 1 hereof. The GCGMH shall submit to the Department of Health its proposed development and the additional clinical departments and special units it requires to meet the increased authorized bed capacity.
 
 ## Section 3
 

@@ -31,7 +31,7 @@ Subsection (g) of section twenty-five of Commonwealth Act Numbered One, as amend
 
 ## Section 2
 
-Executive Order Numbered Two hundred and sixty-seven, series of nineteen hundred and forty, is hereby repealed.1aшphi1
+Executive Order Numbered Two hundred and sixty-seven, series of nineteen hundred and forty, is hereby repealed.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ The Quirino Province Medical Center (QPMC) in the Municipality of Cabarroguis, P
 
 ## Section 2
 
-The authorized bed capacity of the QPMC shall be increased from one hundred fifty (150) beds to two hundred fifty (250) beds. Any future increase in bed capacity shall be consistent with its hospital development plan.ℒαwρhi৷
+The authorized bed capacity of the QPMC shall be increased from one hundred fifty (150) beds to two hundred fifty (250) beds. Any future increase in bed capacity shall be consistent with its hospital development plan.
 
 ## Section 3
 

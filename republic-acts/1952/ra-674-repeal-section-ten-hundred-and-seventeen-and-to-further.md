@@ -23,7 +23,7 @@ AN ACT TO REPEAL SECTION TEN HUNDRED AND SEVENTEEN AND TO FURTHER AMEND SECTIONS
 
 ## Section 1
 
-Section ten hundred and seventeen of the Revised Administrative Code is hereby repealed.1awphil@alf
+Section ten hundred and seventeen of the Revised Administrative Code is hereby repealed.
 
 ## Section 2
 
@@ -37,4 +37,4 @@ Section two hundred and eighty-four and section two hundred and eighty-five-A of
 
 This Act shall take effect as of January first, nineteen hundred and fifty.
 
-Approved: **March 12, 1952** 1awphil@alf
+Approved: **March 12, 1952**

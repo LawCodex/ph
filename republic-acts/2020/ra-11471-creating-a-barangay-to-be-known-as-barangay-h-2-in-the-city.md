@@ -140,7 +140,7 @@ _Incumbent Barangay Officials._ -The incumbent elected barangay officials of Bar
 
 ## Section 5
 
-_Public Infrastructure and Facilities._ \- All public infrastructure and facilities existing therein at the time of the approval of this Act are hereby transferred without coat or compensation to and shallbe administered by the new barangay.ℒαwρhi৷
+_Public Infrastructure and Facilities._ \- All public infrastructure and facilities existing therein at the time of the approval of this Act are hereby transferred without coat or compensation to and shallbe administered by the new barangay.
 
 ## Section 6
 

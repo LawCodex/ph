@@ -377,7 +377,7 @@ _Information Security._ \- Persons and companies engaged in the telecommunicatio
 
 _Conduct of Regular Studies and Comprehensive Baseline Survey._ \- The NEDA shall conduct regular studies on whether regulatory reform is warranted in a public service sector to improve consumer welfare and to submit its recommendation to Congress.
 
-The NEDA, in coordination with the relevant government agencies and local government units, shall conduct a comprehensive baseline survey of public services governance within six (6) months from the effectivity of this Act. Copies of the results of said survey shall be furnished to the Congress, the NEDA and the PCC.ℒαwρhi৷
+The NEDA, in coordination with the relevant government agencies and local government units, shall conduct a comprehensive baseline survey of public services governance within six (6) months from the effectivity of this Act. Copies of the results of said survey shall be furnished to the Congress, the NEDA and the PCC.
 
 ## Section 28
 

@@ -37,7 +37,7 @@ The life of the Abaca and Other Fibers Development Board shall be deemed extende
 
 ## Section 4
 
-The Abaca and Other Fibers Development Program envisioned in this Act shall be under the direct control and supervision of the Secretary of Agriculture and Natural Resources, through a Board composed of the Director of the Bureau of Plant Industry, Director of the Bureau of Fiber Inspection Service, Commissioner of the Agricultural Productivity Commission, one representative each of the three abaca-producing regions namely Bicol, Visayas, and Mindanao and the President of the Philippine Association of Abaca Producers and Exporters to be appointed by the President of the Philippines with the approval of the Commission on Appointments of the Congress of the Philippines. Each member shall receive a per diem of fifty pesos per meeting actually attended.1avvphi1
+The Abaca and Other Fibers Development Program envisioned in this Act shall be under the direct control and supervision of the Secretary of Agriculture and Natural Resources, through a Board composed of the Director of the Bureau of Plant Industry, Director of the Bureau of Fiber Inspection Service, Commissioner of the Agricultural Productivity Commission, one representative each of the three abaca-producing regions namely Bicol, Visayas, and Mindanao and the President of the Philippine Association of Abaca Producers and Exporters to be appointed by the President of the Philippines with the approval of the Commission on Appointments of the Congress of the Philippines. Each member shall receive a per diem of fifty pesos per meeting actually attended.
 
 ## Section 5
 

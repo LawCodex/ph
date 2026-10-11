@@ -49,7 +49,7 @@ The grantee shall be subject to pay the same taxes on his real estate, buildings
 
 ## Section 7
 
-The grantee shall file a bond in the amount of ten thousand pesos to warrant the fulfillment of and compliance with the conditions under which the franchise is granted.1avvphi1 If after two years from the date of acceptance of this franchise the grantee shall have fulfilled said conditions or soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+The grantee shall file a bond in the amount of ten thousand pesos to warrant the fulfillment of and compliance with the conditions under which the franchise is granted. If after two years from the date of acceptance of this franchise the grantee shall have fulfilled said conditions or soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 8
 

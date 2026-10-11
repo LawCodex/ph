@@ -170,7 +170,7 @@ _Environmental Research._ – The SEP shall provide for a system of research so 
 
 _Environmental Education and Extension._ – The SEP shall design an environmental information and education designed to gradually wean the people away from destructive practices and shall recommend practical ways as an alternative.
 
-Training programs for the nongovernmental organizations (NGOs), business sector representatives, and community leaders shall be organized. This may establish linkages between the NGOS, community leaders, sector representatives and the staff of line agencies' development communication or public information section and, at the same time, be used to plan out a comprehensive public information drive.1âшphi1
+Training programs for the nongovernmental organizations (NGOs), business sector representatives, and community leaders shall be organized. This may establish linkages between the NGOS, community leaders, sector representatives and the staff of line agencies' development communication or public information section and, at the same time, be used to plan out a comprehensive public information drive.
 
 Simultaneously, community organizing shall be enhanced to reinforce non-formal approaches, complementing regular environment/science courses in the school.
 

@@ -54,7 +54,7 @@ _Prohibition on Appointments of Government Officials and Employees._ \- The appo
 
 ## Section 6
 
-_Use of Appropricaions._ \- The amount of Six billion ninety million three hundred twenty-four thousand three hundred twenty-five pesos and sixteen centavos (₱6,090,324,325.16) shall be considered as continuing appropriations and shall be used exclusively for the conduct of the barangay and sangguniang kabataan registration and elections in May 2018.1âwphi1
+_Use of Appropricaions._ \- The amount of Six billion ninety million three hundred twenty-four thousand three hundred twenty-five pesos and sixteen centavos (₱6,090,324,325.16) shall be considered as continuing appropriations and shall be used exclusively for the conduct of the barangay and sangguniang kabataan registration and elections in May 2018.
 
 ## Section 7
 

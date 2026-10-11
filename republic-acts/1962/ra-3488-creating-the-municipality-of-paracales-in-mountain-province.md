@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Paracales, Kiling, Bagwang, Palitod, Danral, Bunot, Calao, Anonat, Inwagan, Paungong, Catao, Buringal, Bacari and Botique in the Municipality of Natonin, Mountain Province, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Paracales, same province.1âшphi1 The seat of government of the new municipality shall be in the present site of the barrio of Paracales.1âшphi1
+The barrios of Paracales, Kiling, Bagwang, Palitod, Danral, Bunot, Calao, Anonat, Inwagan, Paungong, Catao, Buringal, Bacari and Botique in the Municipality of Natonin, Mountain Province, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Paracales, same province. The seat of government of the new municipality shall be in the present site of the barrio of Paracales.
 
 ## Section 2
 

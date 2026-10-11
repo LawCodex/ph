@@ -67,7 +67,7 @@ _Limitations._ —
 
 4\. In addition to the conditions for the renewal of a lease agreement after the period of fifty (50) years as provided herein, the foreign lessee shall show that it has made social and economic contributions to the country.
 
-5\. In the case of tourism projects, lease of private lands by foreign investors qualified herein shall be limited to projects with an investment of not less than Five million ($5M) US dollars, seventy percent (70%) of which shall be infused in said project within three years from the signing of the lease contract.1a⍵⍴h!1
+5\. In the case of tourism projects, lease of private lands by foreign investors qualified herein shall be limited to projects with an investment of not less than Five million ($5M) US dollars, seventy percent (70%) of which shall be infused in said project within three years from the signing of the lease contract.
 
 ## Section 6
 

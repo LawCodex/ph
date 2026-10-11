@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Conversion into a National Vocational High School._ \- The Acao National High School in Barangay Acao, Municipality of Bauang, Province of La Union is hereby converted into a national vocational high school to be known as Eulogio Clarence De Guzman Junior Memorial National Vocational High School.ℒαwρhi৷
+_Conversion into a National Vocational High School._ \- The Acao National High School in Barangay Acao, Municipality of Bauang, Province of La Union is hereby converted into a national vocational high school to be known as Eulogio Clarence De Guzman Junior Memorial National Vocational High School.
 
 ## Section 2
 

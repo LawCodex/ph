@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Looc, Province of Romblon, to be known as the St. Joseph Municipal Hospital. The said hospital shall also service the adjoining municipalities of Alcantara, Sta. Fe and Imelda.1âшphi1
+There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Looc, Province of Romblon, to be known as the St. Joseph Municipal Hospital. The said hospital shall also service the adjoining municipalities of Alcantara, Sta. Fe and Imelda.
 
 ## Section 2
 

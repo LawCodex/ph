@@ -38,7 +38,7 @@ c. The grantee shall comply with all the requirements of the Government applicab
 
 d. The grantee shall make its facilities available for the handling of whatever traffic the Bureau of Telecommunications may desire to route over the grantee's system, and shall likewise install and maintain its system required to handle efficiently such traffic as may be turned over to it by the Government Official Government telegrams routed over the grantee's system shall be handled free of charge.
 
-e. The grantee's stations shall be so operated and its service shall be so handled and conducted that they shall serve as supplement to that of the Bureau of Telecommunications for the effective achievement of this purpose shall be complied with by the grantee.+3u.7!ydmb7
+e. The grantee's stations shall be so operated and its service shall be so handled and conducted that they shall serve as supplement to that of the Bureau of Telecommunications for the effective achievement of this purpose shall be complied with by the grantee.
 
 f. A special right is hereby reserved to the Government of the Republic of the Philippines, in time of war, insurrection, or emergency, to take over and operate the stations of the grantee, upon order and direction of the President of the Philippines, with compensation to the grantee to be determined by the Government.
 

@@ -82,7 +82,7 @@ _Coordination of Government Agencies._ \- the DSWD, in coordination with the Dep
 
 ## Section 11
 
-_Appropriations._ \- the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and every year thereafter.1aшphi1
+_Appropriations._ \- the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and every year thereafter.
 
 The sum necessary for the continuous operation of the centers shall be subsidized in part by the DSWD and in part by the local government units concerned.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Mariano Primary School in the barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, is changed to Ramon Arevalo Primary School.1âшphi1
+The name of Mariano Primary School in the barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, is changed to Ramon Arevalo Primary School.
 
 ## Section 2
 

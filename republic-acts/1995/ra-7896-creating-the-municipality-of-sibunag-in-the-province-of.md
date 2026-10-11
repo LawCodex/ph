@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Barangays Sebaste, Bubog, Sabang, San Isidro, Alegria, Ayangan, Inampulogan, Millan, Maabay, Tanglad, Ravina, and Dasal in the Municipality of Jordan; and barangays Oracon and Concordia in the Municipality of Nueva Valencia are hereby separated from their respective municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Sibunag. the temporary seat of government of the new municipality shall be in Barangay Sabang.1aшphi1
+Barangays Sebaste, Bubog, Sabang, San Isidro, Alegria, Ayangan, Inampulogan, Millan, Maabay, Tanglad, Ravina, and Dasal in the Municipality of Jordan; and barangays Oracon and Concordia in the Municipality of Nueva Valencia are hereby separated from their respective municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Sibunag. the temporary seat of government of the new municipality shall be in Barangay Sabang.
 
 ## Section 2
 

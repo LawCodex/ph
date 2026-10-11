@@ -37,7 +37,7 @@ A new section is inserted between sections one hundred eighty-five and one hundr
 
 "(b) Beverage coolers, ice cream cabinets, water coolers, food and beverage storage cabinets, ice-making machines, and mild cooler cabinets, each such article having, or being primarily designated for use with, a mechanical refrigerating unit operated by electricity, gas, kerosene, or other means; and
 
-"(c) Air-conditioning units.1aшphi1
+"(c) Air-conditioning units.
 
 "Any part or accessory of the above-mentioned articles shall be taxed at the same rate as the finished articles.
 

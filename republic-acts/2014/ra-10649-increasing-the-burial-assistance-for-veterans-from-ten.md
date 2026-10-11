@@ -37,7 +37,7 @@ Section 20 of Republic Act No. 6948, as amended, is hereby further amended to re
 
 ## Section 2
 
-_Appropriations. –_ The amount necessary for the initial implementation of this Act shall be charged against the current year’s appropriations for burial expenses of the Philippine Veterans Affairs Office (PVAO). Thereafter, the amount necessary for the continued implementation shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations. –_ The amount necessary for the initial implementation of this Act shall be charged against the current year’s appropriations for burial expenses of the Philippine Veterans Affairs Office (PVAO). Thereafter, the amount necessary for the continued implementation shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

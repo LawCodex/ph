@@ -1228,7 +1228,7 @@ On the Southwest (SW), pts. 59 to 69, by centerline of creek; On the Northwest (
 
 On the Northeast (NE), pts. 82 to 87, by centerline of Binuangan River; and
 
-On the Southeast (SE), Northeast (NE) and Southeast (SE), pts. 87 to pt.1avvphi1 of beginning, by centerline of Batasan River;
+On the Southeast (SE), Northeast (NE) and Southeast (SE), pts. 87 to pt. of beginning, by centerline of Batasan River;
 
 The technical description of Barangay Tanza 2 is as follows:
 
@@ -2502,7 +2502,7 @@ The technical description of Barangay Tanza 2 is as follows:
 <td>15</td>
 <td>E</td>
 <td>100.107</td>
-</tr><cite>1âwphi1</cite>
+</tr>
 <tr>
 <td>126</td>
 <td>127</td>

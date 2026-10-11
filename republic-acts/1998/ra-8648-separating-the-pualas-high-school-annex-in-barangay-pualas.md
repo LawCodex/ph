@@ -35,7 +35,7 @@ The Department of Education, Culture and Sports shall issue such rules and regul
 
 ## Section 3
 
-The New Pualas High School shall be headed by a principal to be appointed by the Secretary of the Department of Education, Culture and Sports. The incumbent teacher-in-charge shall continue to act as such until his appointment shall become final or until his successor shall have been duly appointed and qualified.Ꮮαwρhi৷
+The New Pualas High School shall be headed by a principal to be appointed by the Secretary of the Department of Education, Culture and Sports. The incumbent teacher-in-charge shall continue to act as such until his appointment shall become final or until his successor shall have been duly appointed and qualified.
 
 ## Section 4
 

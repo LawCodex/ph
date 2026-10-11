@@ -48,7 +48,7 @@ A special right is hereby reserved to the President of the Philippines in time o
 
 ## Section 7
 
-The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the permit, as other persons or corporations are now or hereafter may be required by law to pay.1avvphi1
+The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the permit, as other persons or corporations are now or hereafter may be required by law to pay.
 
 ## Section 8
 

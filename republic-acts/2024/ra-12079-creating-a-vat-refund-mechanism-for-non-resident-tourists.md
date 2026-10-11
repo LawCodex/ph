@@ -54,7 +54,7 @@ _Implementing Rules and Regulations._ \- Within ninety (90) calendar days from t
 
 ## Section 3
 
-_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
 
 ## Section 4
 

@@ -299,7 +299,7 @@ All contracts, records, and documents relating to the operation of the Postal Se
 
 To ensure smooth transition into a corporate structure, the incumbent Assistant Secretary for Postal Services shall continue to hold office and assume the powers and functions of the Postmaster General under Section 21 hereof until his successor shall have been duly appointed and inducted into office. Officials and employees of the Postal Services Office shall be absorbed into the Corporation on the basis of merit and fitness: _Provided,_ That officers and employees who shall be laid off during the first two (2) years of the effectivity of this Act and as a result of the organization of the Corporation, shall be entitled to gratuity at the rate equivalent to one and one-fourth (1 1/4) month's salary for every year of continued and satisfactory service rendered or the equivalent nearest fraction thereof favorable to them on the basis of the highest salary received, in addition to the retirement benefits or pensions under existing retirement law. Retirement gratuities of officials and employees who shall not be retained by the Corporation shall be for the account of and reimbursed by the National Government.
 
-Any of such officers and employees who may later be reinstated in the Corporation, or who is rehired in any government office or instrumentality, shall refund the unearned portion of gratuity received from the Corporation before he shall be reinstated or rehired.1âшphi1
+Any of such officers and employees who may later be reinstated in the Corporation, or who is rehired in any government office or instrumentality, shall refund the unearned portion of gratuity received from the Corporation before he shall be reinstated or rehired.
 
 ### Section 30
 

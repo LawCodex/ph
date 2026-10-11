@@ -29,7 +29,7 @@ September twenty-eight of every year is hereby declared as Balangiga Encounter D
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

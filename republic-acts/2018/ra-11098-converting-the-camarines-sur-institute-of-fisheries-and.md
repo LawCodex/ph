@@ -97,7 +97,7 @@ All parcels of land belonging to the government occupied by the CASIFMAS- Ragay 
 
 ## Section 8
 
-A _ppropriations._ \- The amount needed to initially implement the provisions of this Act shall be charged against the current year's appropriations of the Camarines Sur Institute of Fisheries and Marine Sciences.1avvphi1 Thereafter, such amount as may be necessary for the continued operation of the Ragay Polytechnic Skills Institute shall be included in the annual General Appropriations Act.
+A _ppropriations._ \- The amount needed to initially implement the provisions of this Act shall be charged against the current year's appropriations of the Camarines Sur Institute of Fisheries and Marine Sciences. Thereafter, such amount as may be necessary for the continued operation of the Ragay Polytechnic Skills Institute shall be included in the annual General Appropriations Act.
 
 The local government unit (LGU), in consultation with the TESDA, shall likewise set aside from any available local revenue an amount deemed appropriate as support to the operation of the Polytechnic Institute established herein.
 

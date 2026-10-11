@@ -35,7 +35,7 @@ The authorized bed capacity of the medical center is hereby increased from fifty
 
 ## Section 2
 
-The existing professional health care services and facilities of the SIMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1 hereof, consistent with the hospital development plan.ℒαwρhi৷
+The existing professional health care services and facilities of the SIMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1 hereof, consistent with the hospital development plan.
 
 ## Section 3
 

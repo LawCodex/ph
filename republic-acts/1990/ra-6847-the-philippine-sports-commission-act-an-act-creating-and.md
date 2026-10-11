@@ -25,17 +25,29 @@ AN ACT CREATING AND ESTABLISHING THE PHILIPPINE SPORTS COMMISSION, DEFINING ITS 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title of the Act._** – This Act shall be known as **"_The Philippine Sports Commission Act._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is the policy of the State to promote physical education, encourage and sustain the development of sports in the country to foster physical fitness, self-discipline, teamwork and excellence for the development of a healthy and alert citizenry through a unified national sports promotion and development program, and that the establishment and creation of a single, unified and integrated national sports policy-making body shall further this objective.
+_Title of the Act._ – This Act shall be known as **"_The Philippine Sports Commission Act._ "**
 
-**Section 3._Creation of the Philippine Sports Commission._** – To carry out the above policy, a body corporate known as the Philippine Sports Commission, hereinafter referred to as the Commission, is hereby created and established.
+## Section 2
 
-**Section 4._Status of the Commission._** – The Commission shall have the same status as that of a governmental regulatory national agency attached to the Office of the President with the Chairman thereof being of the same level as a department undersecretary and the Commissioners that of department assistant secretaries.
+_Declaration of Policy._ – It is the policy of the State to promote physical education, encourage and sustain the development of sports in the country to foster physical fitness, self-discipline, teamwork and excellence for the development of a healthy and alert citizenry through a unified national sports promotion and development program, and that the establishment and creation of a single, unified and integrated national sports policy-making body shall further this objective.
 
-**Section 5._Nature of the Commission._** – The Commission shall exercise corporate powers. It shall have a seal, may sue and be sued, and shall be the sole policy-making and coordinating body of all amateur sports development programs and institutions in the Philippines: Provided, That in the case of the school sports development program, the same shall be formulated and implemented by the Department of Education, Culture and Sports (DECS) with the assistance of the Commission within the framework of the national sports development program.
+## Section 3
 
-**Section 6._Objectives of the Commission._** – The Objectives of the Commission are:
+_Creation of the Philippine Sports Commission._ – To carry out the above policy, a body corporate known as the Philippine Sports Commission, hereinafter referred to as the Commission, is hereby created and established.
+
+## Section 4
+
+_Status of the Commission._ – The Commission shall have the same status as that of a governmental regulatory national agency attached to the Office of the President with the Chairman thereof being of the same level as a department undersecretary and the Commissioners that of department assistant secretaries.
+
+## Section 5
+
+_Nature of the Commission._ – The Commission shall exercise corporate powers. It shall have a seal, may sue and be sued, and shall be the sole policy-making and coordinating body of all amateur sports development programs and institutions in the Philippines: Provided, That in the case of the school sports development program, the same shall be formulated and implemented by the Department of Education, Culture and Sports (DECS) with the assistance of the Commission within the framework of the national sports development program.
+
+## Section 6
+
+_Objectives of the Commission._ – The Objectives of the Commission are:
 
 (a) To provide the leadership, formulate the policies and set the priorities and direction of all national amateur sports promotion and development, particularly giving emphasis on grass-roots participation;
 
@@ -43,7 +55,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (c) To supplement government appropriations for sports promotion and development.
 
-**Section 7._Functions of the Commission._** – The Commission shall have the following functions:
+## Section 7
+
+_Functions of the Commission._ – The Commission shall have the following functions:
 
 (a) Plan, implement and oversee an integrated amateur sports promotion and development program for the country, including the program for the Decade of Physical Fitness and Sports: 1990-2000, pursuant to Presidential Proclamation No. 406, in coordination with various sectors involved in sports, including among others, the Philippine Olympic Committee, the National Sports Associations, the public and private schools, government corporations and entities, the local governments, the Armed Forces of the Philippines, and other sports organizations and private corporations;
 
@@ -73,13 +87,21 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (n) Exercise such other acts as are incident to or are appropriate and necessary in connection with the creation of the Commission.
 
-**Section 8._Composition of the Commission._** – The Commission shall be composed of a Chairman and four (4) Commissioners all of whom shall be appointed by the President.
+## Section 8
 
-**Section 9._Qualifications of the Chairman and the Commissioners._** – The Chairman and the Commissioners of the Commission must be citizens of the Philippines, publicly-recognized personalities in the field of sports, at least thirty (30) years of age and of good moral character.
+_Composition of the Commission._ – The Commission shall be composed of a Chairman and four (4) Commissioners all of whom shall be appointed by the President.
 
-**Section 10._Salaries of the Chairman and Commissioners._** – The Chairman shall receive an annual compensation and shall be entitled to other benefits and privileges provided under existing laws for an undersecretary of a department and the Commissioners to that of assistant secretaries.
+## Section 9
 
-**Section 11._Powers of the Commission._** – The Commission has the power to do all acts and things necessary to be done for or in connection with the performance of its functions, including:
+_Qualifications of the Chairman and the Commissioners._ – The Chairman and the Commissioners of the Commission must be citizens of the Philippines, publicly-recognized personalities in the field of sports, at least thirty (30) years of age and of good moral character.
+
+## Section 10
+
+_Salaries of the Chairman and Commissioners._ – The Chairman shall receive an annual compensation and shall be entitled to other benefits and privileges provided under existing laws for an undersecretary of a department and the Commissioners to that of assistant secretaries.
+
+## Section 11
+
+_Powers of the Commission._ – The Commission has the power to do all acts and things necessary to be done for or in connection with the performance of its functions, including:
 
 (a) To appoint the officers and other personnel of the Commission and fix their compensation subject to existing laws, rules and regulations;
 
@@ -109,11 +131,15 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (n) To perform any and all other acts incident to or required by virtue of its creation.
 
-**Section 12._The Philippine Olympic Committee._** – The Philippine Olympic Committee (POC) which is affiliated with the International Olympic Committee is hereby recognized as the National Olympic Committee for the Philippines. It is autonomous in character.
+## Section 12
+
+_The Philippine Olympic Committee._ – The Philippine Olympic Committee (POC) which is affiliated with the International Olympic Committee is hereby recognized as the National Olympic Committee for the Philippines. It is autonomous in character.
 
 The Philippine Olympic Committee shall maintain its primary responsibility for activities pertaining to the country's participation in the Olympic Games, Asian Games, Southeast Asian Games and other international athletic competitions in accordance respectively with the rules and regulations of the International Olympic Committee, the Olympic Council of Asia, the Southeast Asian Games Federation and other international sports bodies.
 
-**Section 13._National Sports Associations._** – National sports associations, organized for their respective sports in the Philippines and/or affiliated with their respective international federations which are recognized by the International Olympic Committee, are recognized as such by the Commission.
+## Section 13
+
+_National Sports Associations._ – National sports associations, organized for their respective sports in the Philippines and/or affiliated with their respective international federations which are recognized by the International Olympic Committee, are recognized as such by the Commission.
 
 The national sports association recognized by the Commission shall be autonomous and shall have exclusive technical control over the promotion and development of the particular sport for which they are organized, subject however to the supervisory and visitorial powers of the Commission, as provided in Section 11, paragraph (j) hereof.
 
@@ -143,40 +169,72 @@ The Commission recognizes the following functions, powers, duties and responsibi
 
 (l) To perform such other acts as may be necessary for the proper accomplishment of their purposes.
 
-**Section 14._Executive Director._** – There shall be an Executive Director who shall be appointed or designated as such by the Chairman, preferably from among the four (4) Commissioners, and shall direct and supervise the day-to-day operations of the Commission. The Executive Director shall have supervision and control over the bureau on administrative services headed by a Deputy Executive Director and the bureau on coordinating secretariat and support services, offices and sections which shall likewise be headed by a Deputy Executive Director. The Deputy Executive Directors shall be appointed by the Chairman.
+## Section 14
 
-**Section 15._Qualifications of Executive Director and Deputies._** – No person shall be appointed an Executive Director or Deputy Executive Director of the Commission unless he or she is a citizen of the Republic of the Philippines, at least twenty-five (25) years of age, of good moral character, a college graduate and has at least five (5) years experience in sports administration.
+_Executive Director._ – There shall be an Executive Director who shall be appointed or designated as such by the Chairman, preferably from among the four (4) Commissioners, and shall direct and supervise the day-to-day operations of the Commission. The Executive Director shall have supervision and control over the bureau on administrative services headed by a Deputy Executive Director and the bureau on coordinating secretariat and support services, offices and sections which shall likewise be headed by a Deputy Executive Director. The Deputy Executive Directors shall be appointed by the Chairman.
 
-**Section 16._Functions and Responsibilities of Officers and Staff ._** – The administrative services bureau shall be primarily responsible for providing services related to financial management, personnel, records, supplies and equipment, while the bureau on coordinating secretariat and support services shall be primarily responsible for plans and programs formulation, research, EDP and system management, public information and production, transportation, communications and such other functions and responsibilities as may be necessary and required by the Commission.
+## Section 15
 
-**Section 17._Appointment of Staff and Employees of the Commission._** – The staff, officers and employees of the Commission shall be appointed by the Chairman of the Commission.
+_Qualifications of Executive Director and Deputies._ – No person shall be appointed an Executive Director or Deputy Executive Director of the Commission unless he or she is a citizen of the Republic of the Philippines, at least twenty-five (25) years of age, of good moral character, a college graduate and has at least five (5) years experience in sports administration.
 
-**Section 18._Tax Exemption on the Use of Sports Facilities._** – To encourage popular participation in amateur sports, no tax of any kind shall be levied on the use of sports facilities, whether the tax be on the user, owner or operator of the sports facility.
+## Section 16
 
-**Section 19._Tax Exemptions of the Commission._** – The Commission shall be exempted from the payment of customs duties, taxes and tariffs on the importation of sportswear, equipment, supplies, instruments and materials, including those donated to the Commission, which are of international sports standard not available from local manufacturers and only in such numbers as may be required in the development of various sports and/or training of the national pool of athletes. The importation of sportswear, equipment, supplies instruments and materials donated to the Philippine Olympic Committee and, through the Commission, to the various national sports associations certified under oath by the Commission to be required and necessary for the development of sports in the country shall also be exempt from the payment of customs duties, taxes and tariffs.
+_Functions and Responsibilities of Officers and Staff ._ – The administrative services bureau shall be primarily responsible for providing services related to financial management, personnel, records, supplies and equipment, while the bureau on coordinating secretariat and support services shall be primarily responsible for plans and programs formulation, research, EDP and system management, public information and production, transportation, communications and such other functions and responsibilities as may be necessary and required by the Commission.
 
-**Section 20._Tax Deduction or Exemption of Donations and Contributions._** – All donations and contributions to the Commission in connection with its fund-raising projects and its continuing sports development programs shall be exempt from the donor's taxes, and shall be deductible in full in the computation of the taxable net income of the donor. Donations and contributions to the Philippine Olympic Committee and/or the various national sports associations certified by the Commission to be pursuant to the development of sports in the country shall likewise be exempt from the payment of the donor's and estate taxes and shall be deductible in full in computing the taxable net income of the donor.
+## Section 17
 
-**Section 21._Sports Delegations._** – The Commission and its delegation or representatives to any international sports convention, conference and meeting, and athletes, coaches and other officials to any international competition shall be exempt from the payment of travel tax, airport tax and any other travel related taxes or fees now or hereafter imposed by law or regulation.
+_Appointment of Staff and Employees of the Commission._ – The staff, officers and employees of the Commission shall be appointed by the Chairman of the Commission.
 
-**Section 22._Presidential Land Grant._** – The provisions of any existing law to the contrary notwithstanding the President may, upon the recommendation of the Secretary of Environment and Natural Resources, grant by donation, sale, lease or otherwise, to the Commission portions of the land of the public domain as may be necessary for the establishment of regional training centers in all the regions of the country and for the accomplishment of any of its purposes.
+## Section 18
 
-**Section 23._Sports Facilities._** – The administration and full control of all existing sports facilities, including land, buildings and equipment, owned by the national government as well as those owned by government-funded foundations, associations and entities except liabilities, shall be transferred to the Commission: Provided, That the sports facilities owned by the local government units, state colleges and universities, or public schools shall remain with the said institutions or entities. In particular, the management and full control of all the land, buildings, equipment and other improvements thereon of the Rizal Memorial Sports Complex, and the Quezon City Velodrome shall be transferred to the Commission upon the effectivity of this Act.
+_Tax Exemption on the Use of Sports Facilities._ – To encourage popular participation in amateur sports, no tax of any kind shall be levied on the use of sports facilities, whether the tax be on the user, owner or operator of the sports facility.
+
+## Section 19
+
+_Tax Exemptions of the Commission._ – The Commission shall be exempted from the payment of customs duties, taxes and tariffs on the importation of sportswear, equipment, supplies, instruments and materials, including those donated to the Commission, which are of international sports standard not available from local manufacturers and only in such numbers as may be required in the development of various sports and/or training of the national pool of athletes. The importation of sportswear, equipment, supplies instruments and materials donated to the Philippine Olympic Committee and, through the Commission, to the various national sports associations certified under oath by the Commission to be required and necessary for the development of sports in the country shall also be exempt from the payment of customs duties, taxes and tariffs.
+
+## Section 20
+
+_Tax Deduction or Exemption of Donations and Contributions._ – All donations and contributions to the Commission in connection with its fund-raising projects and its continuing sports development programs shall be exempt from the donor's taxes, and shall be deductible in full in the computation of the taxable net income of the donor. Donations and contributions to the Philippine Olympic Committee and/or the various national sports associations certified by the Commission to be pursuant to the development of sports in the country shall likewise be exempt from the payment of the donor's and estate taxes and shall be deductible in full in computing the taxable net income of the donor.
+
+## Section 21
+
+_Sports Delegations._ – The Commission and its delegation or representatives to any international sports convention, conference and meeting, and athletes, coaches and other officials to any international competition shall be exempt from the payment of travel tax, airport tax and any other travel related taxes or fees now or hereafter imposed by law or regulation.
+
+## Section 22
+
+_Presidential Land Grant._ – The provisions of any existing law to the contrary notwithstanding the President may, upon the recommendation of the Secretary of Environment and Natural Resources, grant by donation, sale, lease or otherwise, to the Commission portions of the land of the public domain as may be necessary for the establishment of regional training centers in all the regions of the country and for the accomplishment of any of its purposes.
+
+## Section 23
+
+_Sports Facilities._ – The administration and full control of all existing sports facilities, including land, buildings and equipment, owned by the national government as well as those owned by government-funded foundations, associations and entities except liabilities, shall be transferred to the Commission: Provided, That the sports facilities owned by the local government units, state colleges and universities, or public schools shall remain with the said institutions or entities. In particular, the management and full control of all the land, buildings, equipment and other improvements thereon of the Rizal Memorial Sports Complex, and the Quezon City Velodrome shall be transferred to the Commission upon the effectivity of this Act.
 
 The Commission shall have full control and management of the University of Life Sports Complex two (2) years from the effectivity of this, Act; and full use of and access to the facilities of sports complex immediately upon the organization and start of the operations of the Commission. The said sports complex include: (a) sports facilities consisting of grandstands, tennis and basketball courts, stadium oval and track and field, swimming pools, pool grandstand and viewing rooms, and related equipment and accessories; (b) ten (10) dormitory buildings, nos. A to J; (c) substations, air-conditioning building, control rooms, switch houses and light towers, centralized air-conditioning system, standby generators and PABX telephone system; and (d) all other sports-related equipment and support facilities: Provided, That the existing level of support and financial assistance for non-formal education from said complex shall continue with an annual increase of not more than ten percent (10%) per year up to December 31, 1992.
 
-**Section 24._Assistance by the Government Entities._** – The Commission may call upon any government entity for assistance in the performance of its functions and duties. All heads of departments, agencies, corporations and offices of the government are hereby enjoined to render full assistance and cooperation to the Commission to ensure the attainment of its objectives and the success of the national sports development program.
+## Section 24
 
-**Section 25._Abolished Agencies._** – The Gintong Alay Foundation, Project: Gintong Alay, and all other government-funded foundations and associations related to sports are hereby abolished and their functions, applicable appropriations, records, equipment, property, rights, claims and such other incidental things as may be necessary except liabilities are transferred to the Commission. All of the said government-funded foundations and associations related to sports must turn over all their properties and function to the Commission and wind up their respective affairs within six (6) months after the effectivity of this Act: Provided, That employees of such abolished agencies, particularly the rank and file, shall be absorbed by the Commission to the extent that it is administratively feasible.
+_Assistance by the Government Entities._ – The Commission may call upon any government entity for assistance in the performance of its functions and duties. All heads of departments, agencies, corporations and offices of the government are hereby enjoined to render full assistance and cooperation to the Commission to ensure the attainment of its objectives and the success of the national sports development program.
 
-**Section 26._Funding._** – In order to provide the necessary funds required for the organizational and initial calendar year of operational expenditures of the Commission, the amount of Twenty-five million pesos (P25,000,000.00) from the National Treasury is hereby appropriated: Provided, That operating expenses for the Commission itself shall not exceed twenty percent (20%) of the annual appropriation and that at least eighty percent (80%) of said annual appropriation and all of the national sports development funds, as hereinafter provided, shall be disbursed for the national sports program, particularly in support of the identification, recruitment and training of athletes in pre-regional, regional, national and international competitions, including the implementation of the Decade of Physical Fitness and Sports: 1990-2000.
+## Section 25
+
+_Abolished Agencies._ – The Gintong Alay Foundation, Project: Gintong Alay, and all other government-funded foundations and associations related to sports are hereby abolished and their functions, applicable appropriations, records, equipment, property, rights, claims and such other incidental things as may be necessary except liabilities are transferred to the Commission. All of the said government-funded foundations and associations related to sports must turn over all their properties and function to the Commission and wind up their respective affairs within six (6) months after the effectivity of this Act: Provided, That employees of such abolished agencies, particularly the rank and file, shall be absorbed by the Commission to the extent that it is administratively feasible.
+
+## Section 26
+
+_Funding._ – In order to provide the necessary funds required for the organizational and initial calendar year of operational expenditures of the Commission, the amount of Twenty-five million pesos (P25,000,000.00) from the National Treasury is hereby appropriated: Provided, That operating expenses for the Commission itself shall not exceed twenty percent (20%) of the annual appropriation and that at least eighty percent (80%) of said annual appropriation and all of the national sports development funds, as hereinafter provided, shall be disbursed for the national sports program, particularly in support of the identification, recruitment and training of athletes in pre-regional, regional, national and international competitions, including the implementation of the Decade of Physical Fitness and Sports: 1990-2000.
 
 To finance the country's integrated sports development program, including the holding of the national games and all other sports competitions at all levels throughout the country as well as the country's participation at international sports competitions, such as, but not limited to, the Olympic, Asian, and Southeast Asian Games, and all other international competitions, sanctioned by the International Olympic Committee and the International Federations, thirty percent (30%) representing the charity fund and proceeds of six (6) sweepstakes of lottery draws per annum, taxes on horse races during special holidays, five percent (5%) of the gross income of the Philippine Amusement and Gaming Corporation, the proceeds from the sale of stamps as hereinafter provided, and three percent (3%) of all taxes collected on imported athletic equipment shall be automatically remitted directly to the Commission and are hereby constituted as the National Sports Development Fund. Further, the Philippine Postal Service Office is hereby authorized to print paper and gold stamps which shall depict sports events and such other motif as the Philippine Postal Service Office may decide, at the expense of the Commission. Any deficiency in the financial requirements of the Commission for its sports development program shall be covered by an annual appropriation passed by Congress.
 
-**Section 27._Repealing Clause._** – All laws, presidential decrees, executive orders, presidential proclamations, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 27
 
-**Section 28._Separability Clause._** – If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of other provisions hereof.
+_Repealing Clause._ – All laws, presidential decrees, executive orders, presidential proclamations, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
 
-**Section 29._Effectivity._** – This Act shall take effect upon its approval and completion of publication in at least two (2) national newspapers of general circulation.
+## Section 28
+
+_Separability Clause._ – If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of other provisions hereof.
+
+## Section 29
+
+_Effectivity._ – This Act shall take effect upon its approval and completion of publication in at least two (2) national newspapers of general circulation.
 
 Approved: **January 24, 1990.**

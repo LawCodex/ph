@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-March 7 of every year is hereby directed a special non-working holiday in the Province of Basilan, in commemoration of its foundation anniversary, to be known as "Araw ng Basilan", and in recogntion of the "Tennun Pakaradjaan" as the official festival of the Province of Basilan.ℒαwρhi৷
+March 7 of every year is hereby directed a special non-working holiday in the Province of Basilan, in commemoration of its foundation anniversary, to be known as "Araw ng Basilan", and in recogntion of the "Tennun Pakaradjaan" as the official festival of the Province of Basilan.
 
 ## Section 2
 

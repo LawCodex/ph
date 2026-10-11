@@ -32,7 +32,7 @@ The Department of Education, Culture and Sports shall establish a national high 
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

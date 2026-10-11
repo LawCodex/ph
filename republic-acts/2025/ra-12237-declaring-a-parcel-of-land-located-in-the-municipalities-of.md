@@ -130,7 +130,7 @@ Beginning at a point marked "1" on the map being S 78o51'05"W,13,763.24 meters f
 
 from the point of beginning containing an area of twelve thousand six hundred seventy-six (12,676) hectares, more or less. Bearings and distances of lines were derived using the PRS 1992 Philippines Zone III coordinate system, subject to ground delineation and demarcation.
 
-The DENR shall likewise appropriately mark on the ground the technical description of Mt. Sawtooth with clearly visible markers and shall prepare appropriate maps therefore.ℒαwρhi৷
+The DENR shall likewise appropriately mark on the ground the technical description of Mt. Sawtooth with clearly visible markers and shall prepare appropriate maps therefore.
 
 The Certification from the National Mapping and Resource Information Authority (NAMRIA) containing the boundaries and technical descriptions of the MSPL is hereby adopted and made an integral part of this Act. In case of inconsistency, the boundaries and technical descriptions in the attached Certification shall prevail.
 
@@ -242,7 +242,7 @@ The remaining twenty-five (25%) of revenues shall be deposited as a special acco
 
 The fund may be augmented by grants, donations, and endowment from various sources, domestic or foreign: _Provided,_ That the fund shall be deposited in full in a special account in the National Treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration, and management of the NIPAS and for duly approved projects endorsed by the PAMB in accordance with existing accounting, budgeting, and auditing rules and regulations: _Provided, further,_ That the funds shall not be used to cover personal services expenditures.
 
-The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as for business permits, property tax, and rentals of LGUs' facilities.1aшphi1
+The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as for business permits, property tax, and rentals of LGUs' facilities.
 
 ## ARTICLE IV — MISCELLANEOUS PROVISIONS
 

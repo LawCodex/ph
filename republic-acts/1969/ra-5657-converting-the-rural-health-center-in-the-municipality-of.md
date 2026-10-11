@@ -28,7 +28,7 @@ The rural health center in the Municipality of Koronadal, Province of South Cota
 
 ## Section 2
 
-The Secretary of Health shall issue the rules and regulations for the implementation of this Act.1a⍵⍴h!1
+The Secretary of Health shall issue the rules and regulations for the implementation of this Act.
 
 ## Section 3
 

@@ -50,7 +50,7 @@ _Definition of Terms._ \- For purposes of this Act, the following terms shall be
 
 5. "Intentional Misconduct" refers to conduct by a person with knowledge at the time of the conduct that the conduct is harmful to the health or well-being of another person.
 
-6. "Charitable Purposes" refers to philanthropic, humanitarian and non-profit objectives, including the benefit of the needy, poor, sick, prisoners, orphans, etc.lawphi1
+6. "Charitable Purposes" refers to philanthropic, humanitarian and non-profit objectives, including the benefit of the needy, poor, sick, prisoners, orphans, etc.
 
 **Section** 4\. _Coordinating Mechanism._ \- To ensure effective and sustained inter-agency and multi-sectoral coordination, the Department of Social Welfare and Development (DSWD) shall serve as the main coordinating agency together with the Philippine National Red Cross as auxiliary for the implementation of this Act.
 

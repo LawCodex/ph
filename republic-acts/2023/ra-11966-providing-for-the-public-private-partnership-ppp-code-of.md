@@ -138,7 +138,7 @@ The Code shall also cover the following::
 
 (d) Lease agreements, when such lease is a component of a PPP Project, as defined under this Code; and
 
-(e) All other contractual arrangements which possess characteristics or elements of a PPP as defined under this Code, or as may be approved by the appropriate Approving Body.1aшphi1
+(e) All other contractual arrangements which possess characteristics or elements of a PPP as defined under this Code, or as may be approved by the appropriate Approving Body.
 
 This Code shall not apply to infrastructure projects undertaken under Republic Act No. 9184 or the "Government Procurement Reform Act", management contracts, service contracts, divestments or dispositions, corporatization, incorporation of subsidiaries with private sector equity, onerous donations, gratuitous donations, and joint venture agreements involving purely commercial arrangements that neither provide nor include public infrastructure or development services. In such cases, the aforementioned contractual arrangements shall be implemented in accordance with relevant governing laws.
 
@@ -778,7 +778,7 @@ _Repealing Clause._ -
 
 (8) Sections of Presidential Decree (P.D.) No. 113, series of 1977, granting to the Construction and Development Corporation of the Philippines (CDCP) the right to construct, operate and maintain toll facilities in the North and South Luzon Toll Expressways, which are inconsistent with the provisions of this Code;
 
-(9) Specific provisions in the special charters of GOCCs, SUCs, and other government agencies that allow the issuance of guidelines governing partnerships between government and private sector for the financing, designing, constructing, operating, and maintaining, or any combination or variation thereof, of infrastructure or development projects outside of Republic Act No. 9184.1aшphi1
+(9) Specific provisions in the special charters of GOCCs, SUCs, and other government agencies that allow the issuance of guidelines governing partnerships between government and private sector for the financing, designing, constructing, operating, and maintaining, or any combination or variation thereof, of infrastructure or development projects outside of Republic Act No. 9184.
 
 (b) The provisions pertaining to the identification, evaluation, approval, procurement, and/or implementation of PPP Projects including leases and JVs in the following laws are hereby amended or modified accordingly:
 

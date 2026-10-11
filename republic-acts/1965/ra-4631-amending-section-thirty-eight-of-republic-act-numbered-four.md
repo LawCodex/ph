@@ -36,7 +36,7 @@ Section thirty-eight of Republic Act Numbered Four hundred nine, as amended by R
 
 "(b) First assistant city fiscal, eighteen thousand pesos per annum.
 
-"(c) Three second assistant city fiscals who shall be the chiefs of the three divisions, seventeen thousand four hundred pesos per annum each.1âшphi1
+"(c) Three second assistant city fiscals who shall be the chiefs of the three divisions, seventeen thousand four hundred pesos per annum each.
 
 "(d) Six assistant fiscals, sixteen thousand eight hundred pesos per annum each.
 

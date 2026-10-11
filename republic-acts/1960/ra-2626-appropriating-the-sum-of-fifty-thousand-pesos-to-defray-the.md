@@ -28,7 +28,7 @@ The sum of fifty thousand pesos is appropriated, out of any funds in the Nationa
 
 All disbursements to be made shall be previously approved by a committee composed of the Auditor General, as chairman, the Secretary of Finance and the Budget Commissioner, as members, or their respective representatives, and all serviceable equipments, supplies, materials and other property acquired hereunder shall be placed thereafter under the custody of the Department of General Services for further future use.
 
-The sum herein appropriated shall be made available immediately upon the approval of this Act and be at the disposal of the Federacion Internacional de Abogadas.1âшphi1
+The sum herein appropriated shall be made available immediately upon the approval of this Act and be at the disposal of the Federacion Internacional de Abogadas.
 
 ## Section 2
 

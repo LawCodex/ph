@@ -40,7 +40,7 @@ Article 7 (13) of Executive Order No. 226, otherwise known as the Omnibus Invest
 
 ## Section 2
 
-This Act shall take effect after fifteen (I 5) days following its publication either in the official Gazette or a newspaper of general circulation in the Philippines.1aшphi1
+This Act shall take effect after fifteen (I 5) days following its publication either in the official Gazette or a newspaper of general circulation in the Philippines.
 
 Approved,
 

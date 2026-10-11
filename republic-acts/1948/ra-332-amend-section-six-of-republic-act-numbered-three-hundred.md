@@ -30,6 +30,6 @@ Section six of Republic Act Numbered Three hundred and nine, entitled "An Act to
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: July 15, 1948.

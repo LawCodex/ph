@@ -33,7 +33,7 @@ The grantee shall have the right at its terminals and landing fields, as well as
 
 ## Section 2
 
-_Prior Approval of the Civil Aeronautics Board._ \- The grantee shall secure from the Civil Aeronautics Board the appropriate permits and licenses for its operations.1âшphi1
+_Prior Approval of the Civil Aeronautics Board._ \- The grantee shall secure from the Civil Aeronautics Board the appropriate permits and licenses for its operations.
 
 All aircraft used by the grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the Government of the Philippines. They shall be equipped with radio communication, safety and other equipment and shall be operated and maintained in accordance with the regulations and technical requirements of the Air Transportation Office or such other regulatory bodies as the Government may prescribe for this purpose.
 

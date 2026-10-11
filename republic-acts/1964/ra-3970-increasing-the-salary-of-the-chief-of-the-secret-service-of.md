@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section twenty-seven of Republic Act Numbered Five hundred twenty-one, otherwise known as the Charter of the City of Cagayan de Oro is hereby amended to read as follows:
 
-"Sec. 27. _Chief of the Secret Service._ -There shall be a chief of the Secret Service who shall, under the Chief of Police, have charge of the detective work of the department and of the detective force of the city, and shall perform such other duties as may be assigned to him by the chief of police or prescribed by law or ordinance.(awÞhi(
+"Sec. 27. _Chief of the Secret Service._ -There shall be a chief of the Secret Service who shall, under the Chief of Police, have charge of the detective work of the department and of the detective force of the city, and shall perform such other duties as may be assigned to him by the chief of police or prescribed by law or ordinance.
 
 "The chief of secret service shall receive a salary of not less than three thousand pesos per annum."
 

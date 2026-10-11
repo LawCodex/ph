@@ -35,7 +35,7 @@ The College shall, in addition to secondary curriculum, offer collegiate courses
 
 ## Section 3
 
-The assets, liabilities, personnel, equipment and records of the Governor Mariano Fuentebella Memorial Fishery School shall be transferred to the College.Ꮮαwρhi৷
+The assets, liabilities, personnel, equipment and records of the Governor Mariano Fuentebella Memorial Fishery School shall be transferred to the College.
 
 ## Section 4
 

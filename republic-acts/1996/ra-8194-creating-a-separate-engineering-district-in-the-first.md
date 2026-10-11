@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, there shall be created an engineering district of the Department of Public Works and Highways in the First Congressional District of the Province of Zamboanga del Norte, which comprise the City of Dapitan, and the municipalities of La Libertad, Mutia, Sergio Osmeña Sr., Piñan, Polanco, Rizal, and Sibutad.1aшphi1
+Any provision of law to the contrary notwithstanding, there shall be created an engineering district of the Department of Public Works and Highways in the First Congressional District of the Province of Zamboanga del Norte, which comprise the City of Dapitan, and the municipalities of La Libertad, Mutia, Sergio Osmeña Sr., Piñan, Polanco, Rizal, and Sibutad.
 
 ## Section 2
 

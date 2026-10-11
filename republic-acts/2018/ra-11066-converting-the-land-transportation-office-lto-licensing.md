@@ -33,7 +33,7 @@ The Land Transportation Office (LTO) Licensing Center in the City of Batangas, P
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department’s program the operationalization of a Regular LTO Licensing Center to be known as the Batangas City Licensing Center, the funding of which shall be charged against the current year’s appropriations of the Batangas City Licensing Center. 'Thereafter, such sums as may be necessary for the continued operation of Batangas City Licensing Center shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Transportation shall immediately include in the Department’s program the operationalization of a Regular LTO Licensing Center to be known as the Batangas City Licensing Center, the funding of which shall be charged against the current year’s appropriations of the Batangas City Licensing Center. 'Thereafter, such sums as may be necessary for the continued operation of Batangas City Licensing Center shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

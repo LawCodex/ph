@@ -32,7 +32,7 @@ The Commissioner of Civil Service shall be furnished by the Clerk of the Supreme
 
 ## Section 3
 
-The Commissioner of Civil Service shall promulgate the rules and regulations to implement the provisions of this Act.£a⩊phi£
+The Commissioner of Civil Service shall promulgate the rules and regulations to implement the provisions of this Act.
 
 ## Section 4
 

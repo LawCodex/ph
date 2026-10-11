@@ -122,7 +122,7 @@ Design and Innovation
 
 (18) Create a skill development, mentoring and support system for individuals, corporations, partnerships or associations, particularly SMEs, who want to benefit from the strategic use of good design in business administration, commerce, trade and other enterprises; and
 
-(19) Undertake research and development on the different design strengths and assets of the Philippines (i.e. manipulation and development of raw materials that are indigenous to the country) so we can be able to come up with globally relevant yet uniquely Filipino innovations.1âwphi1
+(19) Undertake research and development on the different design strengths and assets of the Philippines (i.e. manipulation and development of raw materials that are indigenous to the country) so we can be able to come up with globally relevant yet uniquely Filipino innovations.
 
 ## Section 5
 

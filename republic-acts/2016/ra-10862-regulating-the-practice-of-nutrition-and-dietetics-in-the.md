@@ -383,7 +383,7 @@ _Studies for Nutrition and Dietetics Manpower Needs, Production, Utilization and
 
 ### Section 38
 
-_Comprehensive Nutrition and Dietetics Specialty Program._ \- Within ninety (90) days from the effectivity of this Act, the Board, in coordination with the accredited professional organization, recognized specialty organizations and the DOH, is hereby mandated to formulate and develop a comprehensive nutrition and dietetics specialty program that would upgrade the level of skills and competence of nutritionist-dietitian specialists in the country, such as, but not limited to, the areas of diabetes management, cardiovascular disease management, renal disease management, oncology, nutrition support, weight management, sports nutrition, obstetrics, pediatrics, dental medicine, and such other areas as may be determined by the Board.ℒαwρhi৷
+_Comprehensive Nutrition and Dietetics Specialty Program._ \- Within ninety (90) days from the effectivity of this Act, the Board, in coordination with the accredited professional organization, recognized specialty organizations and the DOH, is hereby mandated to formulate and develop a comprehensive nutrition and dietetics specialty program that would upgrade the level of skills and competence of nutritionist-dietitian specialists in the country, such as, but not limited to, the areas of diabetes management, cardiovascular disease management, renal disease management, oncology, nutrition support, weight management, sports nutrition, obstetrics, pediatrics, dental medicine, and such other areas as may be determined by the Board.
 
 ## ARTICLE VIII — PENAL PROVISION
 

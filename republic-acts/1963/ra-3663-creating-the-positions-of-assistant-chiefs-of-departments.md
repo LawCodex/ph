@@ -65,7 +65,7 @@ The first paragraph of Section twenty-four of the same Act, as amended by Republ
 
 The first paragraph of Section twenty-seven of the same Act, as amended by Republic Act Numbered Twenty-six hundred forty-nine, is further amended to read as follows:
 
-"Sec. 27. _Powers and duties of the City Treasurer._ -There shall be a city treasurer with a salary of twelve thousand pesos per annum, who shall have charge of the department of finance and shall act as chief fiscal officer and financial adviser of the city and custodian of its funds.1awp++i1 There shall be an assistant city treasurer who shall receive a salary of nine thousand pesos per annum. He shall perform the duties and exercise the powers of the city treasurer in the event of sickness, absence or other temporary incapacity of the city treasurer. The city treasurer shall have the following general powers and duties:"
+"Sec. 27. _Powers and duties of the City Treasurer._ -There shall be a city treasurer with a salary of twelve thousand pesos per annum, who shall have charge of the department of finance and shall act as chief fiscal officer and financial adviser of the city and custodian of its funds. There shall be an assistant city treasurer who shall receive a salary of nine thousand pesos per annum. He shall perform the duties and exercise the powers of the city treasurer in the event of sickness, absence or other temporary incapacity of the city treasurer. The city treasurer shall have the following general powers and duties:"
 
 ## Section 8
 
@@ -103,7 +103,7 @@ The first paragraph of Section forty-two of the same Act, as amended by Republic
 
 The first paragraph of Section forty-three of the same Act, as amended by Republic Act Numbered Twenty-six hundred forty-nine, is further amended to read as follows:
 
-"Sec. 43. _The Chief of Police._ -There shall be a Chief of Police with a salary of twelve thousand pesos per annum. There shall be a deputy chief of police who shall receive a salary of nine thousand pesos per annum. He shall perform the duties and exercise the powers of the chief of police in the event of sickness, absence or other temporary incapacity of the chief of police.1âшphi1 The chief of police shall have the following general powers and duties."
+"Sec. 43. _The Chief of Police._ -There shall be a Chief of Police with a salary of twelve thousand pesos per annum. There shall be a deputy chief of police who shall receive a salary of nine thousand pesos per annum. He shall perform the duties and exercise the powers of the chief of police in the event of sickness, absence or other temporary incapacity of the chief of police. The chief of police shall have the following general powers and duties."
 
 ## Section 12
 

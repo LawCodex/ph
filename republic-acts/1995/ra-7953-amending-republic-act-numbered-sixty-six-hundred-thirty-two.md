@@ -104,7 +104,7 @@ Republic Act No. 6632 is hereby amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines.1aшphi1
+This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved,
 

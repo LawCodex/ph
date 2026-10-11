@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to help the Philippine Anti-Communist Movement defray the expenses for the holding of the Joint Fifth World Anti-Communist League Conference and the Seventeenth Asian People's Anti-Communist League Conference at Manila in nineteen hundred and seventy-one.1âшphi1
+The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to help the Philippine Anti-Communist Movement defray the expenses for the holding of the Joint Fifth World Anti-Communist League Conference and the Seventeenth Asian People's Anti-Communist League Conference at Manila in nineteen hundred and seventy-one.
 
 The sum herein appropriated shall be made available immediately upon the approval of this Act, and be at the disposal of the Budget Commission exclusively for the Philippine Anti-Communist Movement: _Provided, however_ , That no part of this appropriation shall be used for the purchase of equipment: And, _provided, further_ , That any and all expenses out of this appropriation shall be subject to the usual government auditing procedures: _Provided, finally,_ That a report of the result of the conference shall be rendered to the House of Representatives and the Senate by the Philippine delegation and a report on the accounting of the expense's incurred shall be made by the General Auditing Office.
 

@@ -502,7 +502,7 @@ The rate of salary of any official or employee occupying an existing position or
 
 ## Section 11
 
-_Appropriation._ — There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of Twenty Million Pesos (₱20,000,000.00) annually for five consecutive fiscal years, starting with the fiscal year 1969-1970, to effect the initial adjustment of salaries of all officials and employees covered by this Act to the minimum rates as herein provided: _Provided,_ That to cover any deficiency in the annual national appropriations for said purpose, there shall be set aside from the aggregate savings of the Bureaus concerned the sum of not less than Five Million Pesos (₱5,000,000.00) annually for the corresponding five-year period.1avvphi1
+_Appropriation._ — There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of Twenty Million Pesos (₱20,000,000.00) annually for five consecutive fiscal years, starting with the fiscal year 1969-1970, to effect the initial adjustment of salaries of all officials and employees covered by this Act to the minimum rates as herein provided: _Provided,_ That to cover any deficiency in the annual national appropriations for said purpose, there shall be set aside from the aggregate savings of the Bureaus concerned the sum of not less than Five Million Pesos (₱5,000,000.00) annually for the corresponding five-year period.
 
 ## Section 12
 
@@ -727,7 +727,7 @@ THE FIVE-YEAR PRE-MINIMUM SALARY SCHEDULE
 </tr>
 </table>
 
-SALARY PROGRESSION—MINIMUM TO MAXIMUM 1âшphi1
+SALARY PROGRESSION—MINIMUM TO MAXIMUM
 
 <table>
 <tr>

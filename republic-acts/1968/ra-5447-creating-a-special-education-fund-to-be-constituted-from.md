@@ -143,7 +143,7 @@ _Functions of provincial, city or municipal school boards._ — Provincial, city
 
 (d) Discharge such other functions and duties as the Bureau of Public Schools or the Bureau of Vocational Education, as the case may be, may assign to them.
 
-The chairman and members of the provincial, city or municipal school boards, shall perform their duties as such without compensation or remuneration: _Provided,_ However, That members thereof who are not government officials shall be entitled to necessary traveling expenses chargeable against their corresponding funds.1avvphi1 The boards shall meet at least once a month or as often as the chairman or majority of the members shall convene the same. Three shall form a quorum and the chairman must always be present when the special school budget is being prepared: _Provided,_ That the affirmative vote of three shall be necessary to approve the budget.
+The chairman and members of the provincial, city or municipal school boards, shall perform their duties as such without compensation or remuneration: _Provided,_ However, That members thereof who are not government officials shall be entitled to necessary traveling expenses chargeable against their corresponding funds. The boards shall meet at least once a month or as often as the chairman or majority of the members shall convene the same. Three shall form a quorum and the chairman must always be present when the special school budget is being prepared: _Provided,_ That the affirmative vote of three shall be necessary to approve the budget.
 
 ## Section 7
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Manila Chronicle is hereby authorized and empowered to sell, transfer, or assign all the rights and privileges acquired by it under Republic Act Numbered Thirteen hundred and forty-three, entitled "An Act granting the Manila Chronicle a permit to construct, maintain and operate radio broadcasting stations and stations for television in the Philippines," in favor of the Chronicle Broadcasting Network, a corporation duly registered under the laws of the Philippines.1awp++i1 The said vendee, transferee, or assignee shall be subject to all the conditions, terms, restrictions and limitations of the said permit as fully and completely and to the same extent as if the said permit had been originally granted to the said vendee, transferee or assignee.
+The Manila Chronicle is hereby authorized and empowered to sell, transfer, or assign all the rights and privileges acquired by it under Republic Act Numbered Thirteen hundred and forty-three, entitled "An Act granting the Manila Chronicle a permit to construct, maintain and operate radio broadcasting stations and stations for television in the Philippines," in favor of the Chronicle Broadcasting Network, a corporation duly registered under the laws of the Philippines. The said vendee, transferee, or assignee shall be subject to all the conditions, terms, restrictions and limitations of the said permit as fully and completely and to the same extent as if the said permit had been originally granted to the said vendee, transferee or assignee.
 
 ## Section 2
 

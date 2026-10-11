@@ -31,7 +31,7 @@ The Valladolid National High School Extension in Barangay Ocana, Municipality of
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.Ꮮαwρhi৷
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

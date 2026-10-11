@@ -54,7 +54,7 @@ Persons desiring to be trained in ceramics at the Ceramics Unit of the Industria
 
 ## Section 5
 
-The proceeds from the sale of products and/or materials as well as services rendered by the ceramic Processing plant and the unexpended balance of its annual appropriation shall be used as a revolving fund for the operation of the plant, improvement of its products, an other studies connected with the project.1âшphi1
+The proceeds from the sale of products and/or materials as well as services rendered by the ceramic Processing plant and the unexpended balance of its annual appropriation shall be used as a revolving fund for the operation of the plant, improvement of its products, an other studies connected with the project.
 
 ## Section 6
 

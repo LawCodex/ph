@@ -366,7 +366,7 @@ The technical description of Barangay San Vicente is as follows:
 <td>48°</td>
 <td>46′</td>
 <td>E.,</td>
-<td>27.14 m.</td><cite>1awp++i1</cite>
+<td>27.14 m.</td>
 </tr>
 <tr>
 <td>38-39</td>

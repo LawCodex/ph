@@ -49,7 +49,7 @@ The Department of Labor and Employment shall promulgate rules and regulations ne
 
 ## Section 2
 
-All laws, decrees, executive orders, rules and regulations or parts thereof contrary to, or inconsistent with this Act are hereby modified or repealed accordingly.1a⍵⍴h!1
+All laws, decrees, executive orders, rules and regulations or parts thereof contrary to, or inconsistent with this Act are hereby modified or repealed accordingly.
 
 ## Section 3
 

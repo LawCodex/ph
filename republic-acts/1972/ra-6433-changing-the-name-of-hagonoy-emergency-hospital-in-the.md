@@ -22,7 +22,7 @@ AN ACT CHANGING THE NAME OF HAGONOY EMERGENCY HOSPITAL IN THE MUNICIPALITY OF HA
 
 ## Section 1
 
-The name of Hagonoy Emergency Hospital in the Municipality of Hagonoy, Province of Bulacan is hereby changed to Mayor Emilio G. Perez Memorial Hospital.1âшphi1
+The name of Hagonoy Emergency Hospital in the Municipality of Hagonoy, Province of Bulacan is hereby changed to Mayor Emilio G. Perez Memorial Hospital.
 
 ## Section 2
 

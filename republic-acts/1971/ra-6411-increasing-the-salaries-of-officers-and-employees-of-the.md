@@ -116,7 +116,7 @@ Any provision of existing law, executive order, rule or regulations to the contr
 
 ## Section 2
 
-Upon approval of this Act, the respective officer or employee actually occupying any of these positions hereinabove mentioned shall be entitled to the salary provided for the said position without need of a new appointment.1âшphi1
+Upon approval of this Act, the respective officer or employee actually occupying any of these positions hereinabove mentioned shall be entitled to the salary provided for the said position without need of a new appointment.
 
 ## Section 3
 
@@ -203,7 +203,7 @@ There are hereby created three positions of confidential assistants in said Bure
 
 ## Section 5
 
-The salary differential resulting from the adjustment in the salaries as provided in this Act and the sum necessary to carry out the provisions of Section three and Section four of this Act shall be paid proportionately out of the savings and fifteen per cent of the income of the Bureau of Immigration for the fiscal year when this Act is approved: _Provided,_ That if funds are inadequate for the purpose, the salary differentials of lower positions shall first be provided for before those of higher positions. Thereafter, the necessary funds needed to implement provisions of this Act.1âшphi1
+The salary differential resulting from the adjustment in the salaries as provided in this Act and the sum necessary to carry out the provisions of Section three and Section four of this Act shall be paid proportionately out of the savings and fifteen per cent of the income of the Bureau of Immigration for the fiscal year when this Act is approved: _Provided,_ That if funds are inadequate for the purpose, the salary differentials of lower positions shall first be provided for before those of higher positions. Thereafter, the necessary funds needed to implement provisions of this Act.
 
 ## Section 6
 

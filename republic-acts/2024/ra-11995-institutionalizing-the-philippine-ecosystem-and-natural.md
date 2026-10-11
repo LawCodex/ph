@@ -161,7 +161,7 @@ _Participation of Specific Bureaus Within the Agencies._ \- The following office
 
 _Involvement of Other Stakeholders._ \- The TWG on NCA shall involve other relevant agencies, private sector, and nongovernment organizations, including indigenous peoples and local communities, in the implementation of PENCAS, particularly on the generation and provision of NCA data as well as the use of natural capital and ecosystem accounts.
 
-Subject to the implementing rules and regulations of this Act and national security concerns, all stakeholders shall regularly publish NCA information on their website and/or such other medium deemed appropriate.1aшphi1
+Subject to the implementing rules and regulations of this Act and national security concerns, all stakeholders shall regularly publish NCA information on their website and/or such other medium deemed appropriate.
 
 ## Section 10
 

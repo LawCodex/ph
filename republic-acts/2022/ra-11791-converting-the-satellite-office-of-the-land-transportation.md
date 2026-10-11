@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Satellite Office of the Land Transportation Office (LTO) in the Municipality of Tanay, Province of Rizal is hereby converted into a regular LTO district office to be known as the LTO District Office of Tanay, Rizal.ℒαwρhi৷
+The Satellite Office of the Land Transportation Office (LTO) in the Municipality of Tanay, Province of Rizal is hereby converted into a regular LTO district office to be known as the LTO District Office of Tanay, Rizal.
 
 ## Section 2
 

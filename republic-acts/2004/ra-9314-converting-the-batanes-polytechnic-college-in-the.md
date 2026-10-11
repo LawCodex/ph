@@ -28,17 +28,27 @@ AN ACT CONVERTING THE BATANES POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF BASCO, 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Conversion._** \- The Batanes Polytechnic College in the Municipality of Basco, Province of Batanes is hereby converted into a state college to be known as the Batanes State College, hereinafter referred to as the College.
+## Section 1
 
-**SEC. 2._General Mandate._** \- The College shall primarily provides collegiate level occupational, technological and professional training in the fields of fishery, agriculture, environmental sciences and other related fields of study. It shall also provide special instruction for special purposes, promote research and extension services in the various disciplines and areas of specialization and provide progressive leadership in its areas of specialization.
+_Conversion._ \- The Batanes Polytechnic College in the Municipality of Basco, Province of Batanes is hereby converted into a state college to be known as the Batanes State College, hereinafter referred to as the College.
 
-**SEC. 3._Curricular Offerings._** \- The College shall offer graduate and undergraduate courses in fisheries and marine/coastal resource development; agriculture, particularly crop production, livestock development and horticulture; forestry and environmental conservation; eco-tourism and historical and heritage restoration and conservation; information technology development; and other related fields of study, and non-degree technical/industrial technologies and other degree courses as the Board of Trustees may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Batanes and the Region.
+## SEC. 2
+
+_General Mandate._ \- The College shall primarily provides collegiate level occupational, technological and professional training in the fields of fishery, agriculture, environmental sciences and other related fields of study. It shall also provide special instruction for special purposes, promote research and extension services in the various disciplines and areas of specialization and provide progressive leadership in its areas of specialization.
+
+## SEC. 3
+
+_Curricular Offerings._ \- The College shall offer graduate and undergraduate courses in fisheries and marine/coastal resource development; agriculture, particularly crop production, livestock development and horticulture; forestry and environmental conservation; eco-tourism and historical and heritage restoration and conservation; information technology development; and other related fields of study, and non-degree technical/industrial technologies and other degree courses as the Board of Trustees may deem necessary to carry out its objectives, particularly to meet the needs of the Province of Batanes and the Region.
 
 The College shall maintain and operate the existing laboratory high school, if it has a Department of Education. Otherwise, the existing laboratory high school shall be allowed to remain and operate until the existing students shall have completed their high school education.
 
-**SEC. 4._Administration._** \- The College shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as "The Corporation Code of the Philippines." The administration of the College and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the president of the College insofar as authorized by the Board.
+## SEC. 4
 
-**SEC. 5._Governing Board._** \- The governing board of the College shall be the Board of Trustees, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ \- The College shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as "The Corporation Code of the Philippines." The administration of the College and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the president of the College insofar as authorized by the Board.
+
+## SEC. 5
+
+_Governing Board._ \- The governing board of the College shall be the Board of Trustees, hereinafter referred to as the Board, which shall be composed of the following:
 
 <table>
 <tr>
@@ -88,9 +98,13 @@ The term of office of the president of the faculty association, the president of
 
 The two (2) prominent citizens shall serve for a term of two (2) years.
 
-**SEC. 6._Promulgation and Implementation of Policies._** \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, science and technology, arts, culture and sports, as well as the standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+## SEC. 6
 
-**SEC. 7._Powers and Duties of the Board of Trustees._** \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all powers granted to the Board of Directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, science and technology, arts, culture and sports, as well as the standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+
+## SEC. 7
+
+_Powers and Duties of the Board of Trustees._ \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all powers granted to the Board of Directors of a corporation under existing laws:
 
 a. To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the College;
 
@@ -148,7 +162,9 @@ x. To privatize, where most advantageous to the College, management of nonacadem
 
 y. To extend the term of the president of the College beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated as outstanding and upon unanimous recommendation by the search committee.
 
-**SEC. 8._Meetings of the Board._** \- The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three (3) days prior written notice, call a special meeting whenever necessary.
+## SEC. 8
+
+_Meetings of the Board._ \- The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three (3) days prior written notice, call a special meeting whenever necessary.
 
 A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided. however_ , That the chairperson of the Board or the president of the College is among those present in the meeting.
 
@@ -158,7 +174,9 @@ In case the chairpersons of the Congressional Committees on Education shall not 
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**SEC. 9._The College President._** \- The College shall be headed by a president, who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state college, the CHED shall designate the incumbent head of the Batanes Polytechnic College as officer-in-charge of the Batanes State College, pending the appointment of the first president of the College.
+## SEC. 9
+
+_The College President._ \- The College shall be headed by a president, who shall render full time service. He/She shall be appointed by the Board, upon recommendation of a duly constituted search committee. He/She shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That in order to effect a smooth transition to a state college, the CHED shall designate the incumbent head of the Batanes Polytechnic College as officer-in-charge of the Batanes State College, pending the appointment of the first president of the College.
 
 In case of vacancy in the office of the president by reason of death, compulsory retirement, resignation, removal for cause or incapacity of the president to perform the functions of his/her office, the Board shall have the authority to designate an officer-in-charge of the College, pending the appointment of a new president.
 
@@ -168,33 +186,55 @@ The powers and duties of the president of the College, in addition to those spec
 
 The salary of the president of the College shall be in accordance with the Revised Compensation and Position Classification System and shall be comparable to that being received by the presidents of similar educational institutions of like standing.
 
-**SEC. 10._The Administrative Council._** \- There shall be an Administrative Council consisting of the president of the College as chairperson, vice presidents, directors and other officials of equal rank, as members, whose duty is to review and recommend to the Board of Trustees policies governing the administration, management and development of the College.
+## SEC. 10
 
-**SEC. 11._The Academic Council._** \- There shall be an Academic Council with the president of the College as chairperson and all members of the academic staff with the rank of not lower than assistant professor as members.
+_The Administrative Council._ \- There shall be an Administrative Council consisting of the president of the College as chairperson, vice presidents, directors and other officials of equal rank, as members, whose duty is to review and recommend to the Board of Trustees policies governing the administration, management and development of the College.
+
+## SEC. 11
+
+_The Academic Council._ \- There shall be an Academic Council with the president of the College as chairperson and all members of the academic staff with the rank of not lower than assistant professor as members.
 
 The Academic Council shall have the power to determine, review and recommend the curricular offerings and rules of discipline of the College, subject to the appropriate action of the Board of Trustees. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and/or approval by the Board of Trustees through the president of the College. It shall have the disciplinary power over students of the College and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board of Trustees.
 
-**SEC. 12._The Secretary of the College._** \- The Board shall appoint a secretary, who shall serve as such for both the Board and the College and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
+## SEC. 12
 
-**SEC. 13._The Treasurer of the College._** \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.
+_The Secretary of the College._ \- The Board shall appoint a secretary, who shall serve as such for both the Board and the College and shall keep all records and proceedings of the Board. He/She shall communicate to each member of the Board the notices of meetings.
 
-**SEC. 14._Faculty._** \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the College: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+## SEC. 13
 
-**SEC. 15._Scholarship Program/Admission._** \- The College shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the College.
+_The Treasurer of the College._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.
+
+## SEC. 14
+
+_Faculty._ \- No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the College: Provided, however, That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## SEC. 15
+
+_Scholarship Program/Admission._ \- The College shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the College.
 
 No student shall be denied admission to the College by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**SEC. 16._Academic Freedom and Institutional Autonomy._** \- The College shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## SEC. 16
 
-**SEC. 17._Authority to Loan and Transfer._** \- The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the State College such apparatus, equipment or supplies as may be needed by the College, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees, can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the State College, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ \- The College shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**SEC. 18._Assets, Liabilities and Personnel._** \- All assets, real and personal, personnel and records of the Batanes Polytechnic College, as well as liabilities or obligations, are hereby transferred to the College. The positions, rights and security of tenure of the faculty members and personnel therein employed under existing laws shall be respected.
+## SEC. 17
+
+_Authority to Loan and Transfer._ \- The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the State College such apparatus, equipment or supplies as may be needed by the College, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees, can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the State College, and the time so employed shall be counted as part of their regular services.
+
+## SEC. 18
+
+_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Batanes Polytechnic College, as well as liabilities or obligations, are hereby transferred to the College. The positions, rights and security of tenure of the faculty members and personnel therein employed under existing laws shall be respected.
 
 All parcels of land belonging to the government and occupied by the Batanes Polytechnic College are hereby declared to be property of the Batanes State College, and shall be titled under that name: Provided, That should the College cease to exist or be abolished or should such parcels of land aforementioned be no longer needed by the College, the same shall revert to the Province of Batanes.
 
-**SEC. 19._Appropriations._** \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Batanes Polytechnic College. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Batanes State College shall be included in the annual General Appropriations Act.
+## SEC. 19
 
-**SEC. 20._Development Plan, Management Audit, Organization / Administrative / Academic Structure._** \- Within the period of one hundred twenty (120) days after the approval of this Act, the State College shall accomplish the following:
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Batanes Polytechnic College. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Batanes State College shall be included in the annual General Appropriations Act.
+
+## SEC. 20
+
+_Development Plan, Management Audit, Organization / Administrative / Academic Structure._ \- Within the period of one hundred twenty (120) days after the approval of this Act, the State College shall accomplish the following:
 
 a. Submit a five (5)-year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to DBM;
 
@@ -204,13 +244,21 @@ c. Accordingly set up its organizational, administrative as well as academic str
 
 d. Set in motion the establishment of at least four (4) separate degree-granting units, one of which is in the arts and sciences and another at the graduate level.
 
-**SEC. 21._Filing of Report._** \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the College.
+## SEC. 21
 
-**SEC. 22._Inclusion Clause._** \- The provisions of Republic Act No. 8292; otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act and shall serve as part of the Governing Charter of the College.
+_Filing of Report._ \- On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the College.
 
-**SEC. 23._Repealing Clause._** -All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## SEC. 22
 
-**SEC. 24._Effectivity._** \- This Act shall take effect upon its approval.
+_Inclusion Clause._ \- The provisions of Republic Act No. 8292; otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act and shall serve as part of the Governing Charter of the College.
+
+## SEC. 23
+
+_Repealing Clause._ -All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 24
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved,
 

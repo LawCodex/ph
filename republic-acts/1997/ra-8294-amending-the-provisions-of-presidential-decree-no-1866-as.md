@@ -49,7 +49,7 @@ Sec. 3 of Presidential Decree No. 1866, as amended, is hereby further amended to
 
 "Sec. 3. Unlawful manufacture, sale, acquisition, disposition or possession of explosives. – The penalty of prision mayor in its maximum period to reclusion temporal and a fine of not less than Fifty thousand pesos (P50,000) shall be imposed upon any person who shall unlawfully manufacture, assemble, deal in, acquire, dispose or possess hand grenade(s), rifle grenade(s), and other explosives, including but not limited to 'pillbox,' 'molotov cocktail bombs,' 'fire bombs,' or other incendiary devices capable of producing destructive effect on contiguous objects or causing injury or death to any person.
 
-"When a person commits any of the crimes defined in the Revised Penal Code or special laws with the use of the aforementioned explosives, detonation agents or incendiary devices, which results in the death of any person or persons, the use of such explosives, detonation agents or incendiary devices shall be considered as an aggravating circumstance.1aшphi1
+"When a person commits any of the crimes defined in the Revised Penal Code or special laws with the use of the aforementioned explosives, detonation agents or incendiary devices, which results in the death of any person or persons, the use of such explosives, detonation agents or incendiary devices shall be considered as an aggravating circumstance.
 
 "If the violation of this Sec. is in furtherance of, or incident to, or in connection with the crime of rebellion, insurrection, sedition or attempted coup d'etat, such violation shall be absorbed as an element of the crimes of rebellion, insurrection, sedition or attempted coup d'etat.
 
@@ -67,18 +67,28 @@ Sec. 6 of Presidential Decree No. 1866, as amended, is hereby further amended to
 
 "Sec. 6. Repacking or altering the composition of lawfully manufactured explosives. – The penalty of prision correccional shall be imposed upon any person who shall unlawfully repack, alter or modify the composition of any lawfully manufactured explosives."
 
-**Section 5._Coverage of the Term Unlicensed Firearm._** – The term unlicensed firearm shall include:
+## Section 5
+
+_Coverage of the Term Unlicensed Firearm._ – The term unlicensed firearm shall include:
 
 1) firearms with expired license; or
 
 2) unauthorized use of licensed firearm in the commission of the crime.
 
-**Section 6._Rules and regulations._** – The Department of Justice and the Department of the Interior and Local Government shall jointly issue, within ninety (90) days after the approval of this Act, the necessary rules and regulations pertaining to the administrative aspect of the provisions hereof, furnishing the Committee on Public Order and Security and the Committee on Justice and Human Rights of both Houses of Congress copies of such rules and regulations within thirty (30) days from the promulgation hereof.
+## Section 6
 
-**Section 7._Separability clause._** – If, for any reason, any Sec. or provision of this Act is declared to be unconstitutional or invalid, the other Sec.s or provisions thereof which are not affected thereby shall continue to be in full force and effect.
+_Rules and regulations._ – The Department of Justice and the Department of the Interior and Local Government shall jointly issue, within ninety (90) days after the approval of this Act, the necessary rules and regulations pertaining to the administrative aspect of the provisions hereof, furnishing the Committee on Public Order and Security and the Committee on Justice and Human Rights of both Houses of Congress copies of such rules and regulations within thirty (30) days from the promulgation hereof.
 
-**Section 8._Repealing clause._** – All laws, decrees, orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+## Section 7
 
-**Section 9._Effectivity._** – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
+_Separability clause._ – If, for any reason, any Sec. or provision of this Act is declared to be unconstitutional or invalid, the other Sec.s or provisions thereof which are not affected thereby shall continue to be in full force and effect.
+
+## Section 8
+
+_Repealing clause._ – All laws, decrees, orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+## Section 9
+
+_Effectivity._ – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
 
 Approved: **June 6, 1997**.

@@ -33,7 +33,7 @@ Bennie Francois Boatwright shall take the Oath of Allegiance to the Republic of 
 
 ## Section 3
 
-Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Bennie Francois Boatwright, who shall thereupon enter into the full enjoyment of Philippine citizenship.ℒαwρhi৷
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Bennie Francois Boatwright, who shall thereupon enter into the full enjoyment of Philippine citizenship.
 
 ## Section 4
 

@@ -38,7 +38,7 @@ The existing professional health care services and facilities of Unayan Municipa
 
 ## Section 3
 
-The existing workforce of the Unayan Municipal Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.1aшphi1
+The existing workforce of the Unayan Municipal Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
 
 ## Section 4
 

@@ -28,7 +28,7 @@ There shall be established a twenty-bed capacity emergency hospital within the M
 
 ## Section 2
 
-The Secretary of Health shall, upon approval of this Act, promulgate the necessary rules and regulations to carry into effect the provisions of this Act.1âшphi1
+The Secretary of Health shall, upon approval of this Act, promulgate the necessary rules and regulations to carry into effect the provisions of this Act.
 
 ## Section 3
 

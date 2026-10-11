@@ -170,7 +170,7 @@ For the current year, the DBM shall include in a supplemental budget, that may b
 
 ## Section 12
 
-_Non-Exemption from Comprehensive Agrarian Reform Program (CARP) Coverage._ – Nothing in this Act shall exempt any landholding from CARP Coverage.1âwphi1
+_Non-Exemption from Comprehensive Agrarian Reform Program (CARP) Coverage._ – Nothing in this Act shall exempt any landholding from CARP Coverage.
 
 ## Section 13
 

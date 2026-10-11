@@ -105,7 +105,7 @@ A national committee composed of the following shall take the lead in the prepar
 
 ## SEC. 6
 
-This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.1ªvvphï|.ñêt
+This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

@@ -28,9 +28,13 @@ AN ACT CHANGING THE NAME OF THE BABATNGON NATIONAL HIGH SCHOOL IN THE MUNICIPALI
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Renaming a National High School._** – The name of the Babatngon National High School in the Municipality of Babatngon, Province of Leyte is hereby changed to Juan S. Tismo National High School.
+## Section 1
 
-**Sec. 2._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+_Renaming a National High School._ – The name of the Babatngon National High School in the Municipality of Babatngon, Province of Leyte is hereby changed to Juan S. Tismo National High School.
+
+## Sec. 2
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
 
 Approved,
 

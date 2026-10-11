@@ -87,7 +87,7 @@ Section seventeen of the same Act is hereby amended to read as follows:
 
 Section twenty-one of the same Act is hereby amended to read as follows:
 
-"Sec. 21. _The General Auditing Office._ — The Auditor General shall appoint a city auditor who shall have the rank of a chief of a city department and shall receive a compensation in accordance with the provisions of existing laws on city officials, one half of which shall be payable from the national government funds.1avvphi1 The city auditor shall receive and audit all accounts of the city in accordance with the provisions of law relating to government accounts and accounting. The personnel in the office of the city auditor shall be paid out of national government funds."
+"Sec. 21. _The General Auditing Office._ — The Auditor General shall appoint a city auditor who shall have the rank of a chief of a city department and shall receive a compensation in accordance with the provisions of existing laws on city officials, one half of which shall be payable from the national government funds. The city auditor shall receive and audit all accounts of the city in accordance with the provisions of law relating to government accounts and accounting. The personnel in the office of the city auditor shall be paid out of national government funds."
 
 ## Section 11
 

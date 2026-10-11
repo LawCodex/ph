@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established an agricultural high school in Barangay Plagatasanon, Municipality of Guihulngan, Province of Negros Oriental, to be known as the Guihulngan Agricultural High School.1âшphi1
+There shall be established an agricultural high school in Barangay Plagatasanon, Municipality of Guihulngan, Province of Negros Oriental, to be known as the Guihulngan Agricultural High School.
 
 ## Section 2
 

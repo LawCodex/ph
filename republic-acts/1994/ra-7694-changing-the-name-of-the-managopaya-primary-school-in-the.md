@@ -35,4 +35,4 @@ The name of the Managopaya Primary School in the Municipality of Banate, Provinc
 
 This Act shall take effect upon its approval.
 
-Lapsed into law on April 9, 1994 without the President's signature, pursuant to Sec. 27 (1), Article VI of the Constitution.1a⍵⍴h!1
+Lapsed into law on April 9, 1994 without the President's signature, pursuant to Sec. 27 (1), Article VI of the Constitution.

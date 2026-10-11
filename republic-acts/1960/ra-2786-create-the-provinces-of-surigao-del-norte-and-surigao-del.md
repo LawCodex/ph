@@ -48,7 +48,7 @@ The present elective provincial officers of Surigao shall, until their successor
 
 ## Section 7
 
-Special elections shall be held in either or both provinces to fill elective provincial positions which shall be vacated by incumbent provincial elective officials, said special elections to be held simultaneously with the national elections in November, nineteen hundred sixty-one. The Commission on Elections is directed to carry into effect the provisions of this section. Nothing herein contained shall affect the term of office of the incumbent elected provincial officials of Surigao.1âшphi1
+Special elections shall be held in either or both provinces to fill elective provincial positions which shall be vacated by incumbent provincial elective officials, said special elections to be held simultaneously with the national elections in November, nineteen hundred sixty-one. The Commission on Elections is directed to carry into effect the provisions of this section. Nothing herein contained shall affect the term of office of the incumbent elected provincial officials of Surigao.
 
 ## Section 8
 

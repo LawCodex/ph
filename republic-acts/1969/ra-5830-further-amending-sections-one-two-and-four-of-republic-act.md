@@ -39,7 +39,7 @@ The same section of the same Act, as amended, is further amended by adding there
 
 ## Section 3
 
-Section two of the same Act, as amended, is further amended to read as follows.1âшphi1
+Section two of the same Act, as amended, is further amended to read as follows.
 
 "Section 2. In order to carry out the provisions of this Act for the fiscal year ending June thirty nineteen hundred seventy the commissioner of Public Highways is hereby authorized to charge the salary differential against the savings on appropriations for current operating expenditures of the Bureau of Public Highways."
 

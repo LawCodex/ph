@@ -33,7 +33,7 @@ There shall be established a national high school in Barangay Sta. Cruz, Municip
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.1âшphi1
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 

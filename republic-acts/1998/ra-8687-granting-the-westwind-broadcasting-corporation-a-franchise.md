@@ -39,7 +39,7 @@ _Prior Approval of the National Telecommunications Commission._ \- The grantee s
 
 ## Section 4
 
-_Responsibility to the Public._ \- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations or facilities for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.Ꮮαwρhi৷
+_Responsibility to the Public._ \- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations or facilities for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.
 
 ## Section 5
 

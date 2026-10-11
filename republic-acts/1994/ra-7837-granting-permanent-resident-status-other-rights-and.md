@@ -69,7 +69,7 @@ _Other Privileges Granted to Filipino Veterans and their Immediate Family Member
 
 _Implementation._ \- The Commissioner of Immigration shall within thirty (30) days after the effectivity of this Act, issue the rules and regulations necessary for the effective implementation of this Act.
 
-The Bureau of Immigration and Deportation shall establish, for purposes of implementing the mandate of this Act, such registration centers as may be necessary.1a⍵⍴h!1
+The Bureau of Immigration and Deportation shall establish, for purposes of implementing the mandate of this Act, such registration centers as may be necessary.
 
 ## Section 10
 

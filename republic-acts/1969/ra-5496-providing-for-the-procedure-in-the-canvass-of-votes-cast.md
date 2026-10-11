@@ -55,6 +55,6 @@ _Correction of errors in returns already transmitted to the President of the Sen
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

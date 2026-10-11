@@ -28,7 +28,7 @@ The names of the following schools in the Municipality of Padada, Province of Da
 
 1\. Padada Elementary School to Northern Padada Elementary School, and
 
-2\. Roosevelt Elementary School to Padada Central Elementary School.1âшphi1
+2\. Roosevelt Elementary School to Padada Central Elementary School.
 
 ## Section 2
 

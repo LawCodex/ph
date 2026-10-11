@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Capicho Elementary School in Roxas City is hereby changed to Governor Rafael Acuna Elementary School.1a⍵⍴h!1
+The name of the Capicho Elementary School in Roxas City is hereby changed to Governor Rafael Acuna Elementary School.
 
 ## Section 2
 

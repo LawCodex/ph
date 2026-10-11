@@ -90,7 +90,7 @@ A new Section 14 is hereby inserted after Section 13 of Republic Act No. 7294 to
 
 ## Section 9
 
-The present Sections 14, 15 and 16 of Republic Act No. 7294 are hereby renumbered as Sections 17, 18 and 19, respectively.1âwphi1
+The present Sections 14, 15 and 16 of Republic Act No. 7294 are hereby renumbered as Sections 17, 18 and 19, respectively.
 
 ## Section 10
 

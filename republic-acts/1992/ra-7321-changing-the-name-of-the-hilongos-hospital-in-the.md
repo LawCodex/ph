@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT CHANGING THE NAME OF THE HILONGOS HOSPITAL IN THE MUNICIPALITY OF HILONGOS, PROVINCE OF LEYTE, TO EMILIANO MELGAZO MEMORIAL HOSPITAL
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

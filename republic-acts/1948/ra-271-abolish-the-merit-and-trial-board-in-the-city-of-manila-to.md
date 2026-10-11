@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Merit and Trial Board in the City of Manila is hereby abolished, and the Police Department of said City is restored to its status prior to the approval of Commonwealth Act Numbered Six hundred ninety-eight.1aшphi1
+The Merit and Trial Board in the City of Manila is hereby abolished, and the Police Department of said City is restored to its status prior to the approval of Commonwealth Act Numbered Six hundred ninety-eight.
 
 ## Section 2
 

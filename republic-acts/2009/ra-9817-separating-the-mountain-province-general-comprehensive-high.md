@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Mountain Provinc
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Mountain Province General Comprehensive High School - Tucucan Annex are hereby transferred to and absorbed by the Tucucan National High School.1avvphil
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Mountain Province General Comprehensive High School - Tucucan Annex are hereby transferred to and absorbed by the Tucucan National High School.
 
 ## Section 3
 
@@ -46,7 +46,7 @@ _Implementation._ \- The Secretary of Education shall issue rules and regulation
 
 ## Section 5
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._ 1avvphi1
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

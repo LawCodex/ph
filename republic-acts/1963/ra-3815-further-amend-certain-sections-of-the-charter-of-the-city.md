@@ -53,7 +53,7 @@ Sections two thousand five hundred forty-five-A and two thousand five hundred si
 
 ## Section 2
 
-In addition to the rate of compensation provided herein the city officials concerned shall be entitled to free limited city services as provided for in the city ordinance regulating the use of free city services to city employees.1âшphi1
+In addition to the rate of compensation provided herein the city officials concerned shall be entitled to free limited city services as provided for in the city ordinance regulating the use of free city services to city employees.
 
 ## Section 3
 

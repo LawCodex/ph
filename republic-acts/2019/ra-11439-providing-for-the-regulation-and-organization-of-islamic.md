@@ -130,7 +130,7 @@ _Fit and Proper Rule._ — In order to maintain the quality of bank management a
 
 ## Section 10
 
-_Regulatory Standards._ — Islamic banks shall be licensed and regulated in the same manner as a universal bank.1awp++i1 The Bangko Sentral shall prescribe prudential regulations and standards of conduct to promote the sound financial position of Islamic banks find to ensure integrity, professionalism and expertise in the conduct of their business, affairs and activities. These standards shall take into consideration international best practices and principles relating to, but not limited to:
+_Regulatory Standards._ — Islamic banks shall be licensed and regulated in the same manner as a universal bank. The Bangko Sentral shall prescribe prudential regulations and standards of conduct to promote the sound financial position of Islamic banks find to ensure integrity, professionalism and expertise in the conduct of their business, affairs and activities. These standards shall take into consideration international best practices and principles relating to, but not limited to:
 
 (a) capital adequacy;
 

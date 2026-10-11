@@ -34,7 +34,7 @@ September 18 of every year is hereby declared a special nonworking holiday in th
 
 ## Section 2
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved,
 

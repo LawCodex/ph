@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Bulacan Trade School in the municipality of Malolos, Province of Bulacan, is hereby converted into national trade school of the Philippine School of Arts and Trades type, to be known as the Bulacan National Trade School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in the said school.1a⍵⍴h!1
+The Bulacan Trade School in the municipality of Malolos, Province of Bulacan, is hereby converted into national trade school of the Philippine School of Arts and Trades type, to be known as the Bulacan National Trade School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in the said school.
 
 ## Section 2
 

@@ -32,7 +32,7 @@ The sitio of Sarawagan in Barrio Balakan, Municipality of Salug, Province of Zam
 
 3\. South—Starting from corner of Lot 2908, going clockwise proceed to Lot No. 2895, 2907, 2906, 2905, 2904, 2903, 3362, 3363, 3409, 3405, and 3404;
 
-4\. West—Coyong and Sarawagan Creeks.1a⍵⍴h!1
+4\. West—Coyong and Sarawagan Creeks.
 
 ## Section 2
 

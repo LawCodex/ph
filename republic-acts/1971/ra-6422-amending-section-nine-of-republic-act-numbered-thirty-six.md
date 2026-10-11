@@ -30,7 +30,7 @@ Section nine of Republic Act Numbered Thirty-six hundred and one is hereby amend
 
 ## Section 2
 
-All laws, Acts, executive orders, administrative orders, rules and regulations or parts thereof inconsistent herewith are repealed or modified accordingly.1âшphi1
+All laws, Acts, executive orders, administrative orders, rules and regulations or parts thereof inconsistent herewith are repealed or modified accordingly.
 
 ## Section 3
 

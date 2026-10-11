@@ -28,6 +28,6 @@ The name of Manta Elementary School in the Municipality of Siasi, Province of Su
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

@@ -52,7 +52,7 @@ The PMMA-Cagayan de Oro City Campus shall ensure the minimum requirements for th
 
 ## Section 6
 
-All assets, real and personal, personnel and records of the PMMA-Cagayan de Oro City Campus, as well as its liabilities or obligations, are hereby transferred to the Academy.ℒαwρhi৷ The positions, rights and security of tenure of faculty members and personnel employed at the PMMA-Cagayan de Oro City Campus under existing laws prior to the integration to the Academy shall be respected.
+All assets, real and personal, personnel and records of the PMMA-Cagayan de Oro City Campus, as well as its liabilities or obligations, are hereby transferred to the Academy. The positions, rights and security of tenure of faculty members and personnel employed at the PMMA-Cagayan de Oro City Campus under existing laws prior to the integration to the Academy shall be respected.
 
 All parcels of land belonging to the government occupied by the PMMA-Cagayan de Oro City Campus are hereby hereby declared to be the property of the Academy and shall titled under that name: _Provided,_ That should the Academy cease to exist or be abolished or should such aforementioned parcels of land be no longer needed by the Academy, the same shall revert to the local government units concerned or to the Republic of the Philippines, as the case may be.
 

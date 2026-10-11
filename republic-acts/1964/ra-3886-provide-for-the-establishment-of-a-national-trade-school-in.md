@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Vocational Education a national trade school in Bacolod City, to be known as Bacolod City National Trade School.1âшphi1
+There shall be established under the direct supervision of the Director of Vocational Education a national trade school in Bacolod City, to be known as Bacolod City National Trade School.
 
 ## Section 2
 

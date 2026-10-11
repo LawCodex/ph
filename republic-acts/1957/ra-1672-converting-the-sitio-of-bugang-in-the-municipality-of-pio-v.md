@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, is hereby converted into a barrio to be known as barrio Bugang.1avvphi1
+The sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, is hereby converted into a barrio to be known as barrio Bugang.
 
 ## Section 2
 

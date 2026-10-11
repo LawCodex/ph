@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Anunang, Calawagan, Colorado, Dipacamo, Edcor, Guam, Nakar, Palawan, Progreso, San Francisco, San Mariano Norte, San Mariano Sur, Villa Rose, Villa Sanchez, and Villa Teresita in the Municipality of Angadanan; and barrios Aringay, Dingading, San Francisco, and Sinalugan in the Municipality of Echague, all in the Province of Isabela, are separated from said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of San Guillermo, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of Barrio Edcor.
+Barrios Anunang, Calawagan, Colorado, Dipacamo, Edcor, Guam, Nakar, Palawan, Progreso, San Francisco, San Mariano Norte, San Mariano Sur, Villa Rose, Villa Sanchez, and Villa Teresita in the Municipality of Angadanan; and barrios Aringay, Dingading, San Francisco, and Sinalugan in the Municipality of Echague, all in the Province of Isabela, are separated from said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of San Guillermo, same province. The seat of government of the new municipality shall be in the present site of Barrio Edcor.
 
 ## Section 2
 

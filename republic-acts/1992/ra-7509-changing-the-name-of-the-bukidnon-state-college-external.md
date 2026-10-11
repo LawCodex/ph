@@ -29,7 +29,7 @@ The name of the Bukidnon State College External Studies Center in the Municipali
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

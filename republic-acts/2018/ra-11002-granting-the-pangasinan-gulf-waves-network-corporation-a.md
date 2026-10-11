@@ -67,7 +67,7 @@ _Term of Franchise._ – This franchise shall be in effect for a period of twent
 
 ## Section 8
 
-_Acceptance and Compliance._ 1a\^/phi1 – Acceptance of this new franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
+_Acceptance and Compliance._ – Acceptance of this new franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 
 ## Section 9
 
@@ -107,7 +107,7 @@ _Equality Clause._ – Any advantage, favor, privilege, exemption, or immunity g
 
 ## Section 18
 
-_Separability Clause._ – If any section or provision of this Act is held invalid, all other provisions not affected thereby shall remain valid.1âwphi1
+_Separability Clause._ – If any section or provision of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 19
 

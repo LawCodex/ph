@@ -33,7 +33,7 @@ The Chairman of the Technical Education and Skills Development Authority (TESDA)
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

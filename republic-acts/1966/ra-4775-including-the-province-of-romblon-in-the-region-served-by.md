@@ -33,7 +33,7 @@ Section one of Republic Act Numbered Thirty-eight hundred fifty-six is amended t
 
 Section twelve of the same Act is amended to read as follows:
 
-"Sec. 12. _Board of Directors—Composition.—_ The corporate powers of the Authority shall be vested in and exercised by a Board of Directors herein referred to as the Board, which shall be composed of five members including its chairman, appointed by the President of the Philippines with the consent of the Commission on Appointments.1avvphi1 The governors of the Provinces of Aklan, Capiz, Antique, Iloilo and Romblon shall be members ex-officio of the Board and as such shall take part in all its meetings, deliberations and discussions, but shall not have the right to vote, except as hereinafter provided."
+"Sec. 12. _Board of Directors—Composition.—_ The corporate powers of the Authority shall be vested in and exercised by a Board of Directors herein referred to as the Board, which shall be composed of five members including its chairman, appointed by the President of the Philippines with the consent of the Commission on Appointments. The governors of the Provinces of Aklan, Capiz, Antique, Iloilo and Romblon shall be members ex-officio of the Board and as such shall take part in all its meetings, deliberations and discussions, but shall not have the right to vote, except as hereinafter provided."
 
 ## Section 3
 

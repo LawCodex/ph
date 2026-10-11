@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one of Republic Act Numbered Forty-eight hundred and two, as amended, is further amended to read as follows:
 
-"**Section 1.** The barrios and sitios of Nanapan (Pontian), Sta. Cruz, Dilapa, Kiburiao, Mibantang and Cebole in the Municipality of Maramag (subsequently annexed by the Municipality of Dangcagan), Province of Bukidnon, and the barrios of Salawagan, Manoto, San Jose, Kiokong, Paitan, Lumintao and Kulaman in the Municipality of Maramag, Province of Bukidnon, are hereby separated from their respective mother municipality of said province to be known as the Municipality of Quezon, with the seat of government at the present site of Barrio Kiokong."1âшphi1
+"**Section 1.** The barrios and sitios of Nanapan (Pontian), Sta. Cruz, Dilapa, Kiburiao, Mibantang and Cebole in the Municipality of Maramag (subsequently annexed by the Municipality of Dangcagan), Province of Bukidnon, and the barrios of Salawagan, Manoto, San Jose, Kiokong, Paitan, Lumintao and Kulaman in the Municipality of Maramag, Province of Bukidnon, are hereby separated from their respective mother municipality of said province to be known as the Municipality of Quezon, with the seat of government at the present site of Barrio Kiokong."
 
 ## Section 2
 

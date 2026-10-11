@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Bagong Barrio High School in Barangay Bagong Barrio, Kalookan City, Metro Manila, is hereby separated from the Kalookan High School in Barangay Sixty-two, also in Kalookan City, Metro Manila, and converted into an independent national high school to be known as the Bagong Barrio National High School.1aшphi1
+The Bagong Barrio High School in Barangay Bagong Barrio, Kalookan City, Metro Manila, is hereby separated from the Kalookan High School in Barangay Sixty-two, also in Kalookan City, Metro Manila, and converted into an independent national high school to be known as the Bagong Barrio National High School.
 
 ## Section 2
 

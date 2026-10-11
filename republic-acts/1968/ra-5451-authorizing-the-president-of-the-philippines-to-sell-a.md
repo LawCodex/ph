@@ -39,7 +39,7 @@ The title to the land conveyed by this Act shall not be transferred by the Knigh
 
 ## Section 4
 
-The property shall not be leased but any space in the building to be constructed therein may be leased: _Provided,_ That the proceeds from such lease shall be utilized for purposes for which the Knights of Rizal has been established.1avvphi1
+The property shall not be leased but any space in the building to be constructed therein may be leased: _Provided,_ That the proceeds from such lease shall be utilized for purposes for which the Knights of Rizal has been established.
 
 ## Section 5
 

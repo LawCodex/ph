@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Vocational Education, a school of home industries to be known as Ilocos Norte School for Craftsmen. The Secretary of Education is hereby empowered to organize the said school and to issue such rules and regulations as may be necessary to carry out the purpose of this Act. Courses of secondary level shall be offered in the said school.1âшphi1
+There shall be established, under the supervision of the Director of Vocational Education, a school of home industries to be known as Ilocos Norte School for Craftsmen. The Secretary of Education is hereby empowered to organize the said school and to issue such rules and regulations as may be necessary to carry out the purpose of this Act. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

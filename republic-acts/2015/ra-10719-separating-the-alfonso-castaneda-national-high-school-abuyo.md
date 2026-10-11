@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-_The Alfonso Castañeda National High School_ – Abuyo Annex in Barangay Abuyo, Municipality of Alfonso Castañeda, Province of Nueva Vizcaya is hereby separated from the Alfonso Castañeda National High School and converted into an independent national high school to be known as Abuyo National High School.1âwphi1
+_The Alfonso Castañeda National High School_ – Abuyo Annex in Barangay Abuyo, Municipality of Alfonso Castañeda, Province of Nueva Vizcaya is hereby separated from the Alfonso Castañeda National High School and converted into an independent national high school to be known as Abuyo National High School.
 
 ## SECTION 2
 

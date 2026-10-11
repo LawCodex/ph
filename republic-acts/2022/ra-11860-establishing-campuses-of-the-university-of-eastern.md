@@ -50,7 +50,7 @@ The UEP-Allen Campus, UEP-Victoria Campus and UEP-Lavezares Campus shall be head
 
 All assets, real and personal, personnel, and records of the UEP-Allen Campus, UEP-Victoria Campus, and UEP-Lavezares Campus, as well as liabilities or obligations, shall be transferred to the University..
 
-All parcels of land belonging to the government occupied by the UEP-Allen Campus, UEP-Victoria Campus, and UEP-Lavezares Campus shall be declared to the property of the University and shall be titled under its name: _Provided,_ That should the University cease to exist or be abolished, or should such aforementioned parcels of land be no longer needed by the University, the same shall revert to the concerned local government unit or to the Republic of the Philippines, as the case may be.ℒαwρhi৷
+All parcels of land belonging to the government occupied by the UEP-Allen Campus, UEP-Victoria Campus, and UEP-Lavezares Campus shall be declared to the property of the University and shall be titled under its name: _Provided,_ That should the University cease to exist or be abolished, or should such aforementioned parcels of land be no longer needed by the University, the same shall revert to the concerned local government unit or to the Republic of the Philippines, as the case may be.
 
 ## Section 6
 

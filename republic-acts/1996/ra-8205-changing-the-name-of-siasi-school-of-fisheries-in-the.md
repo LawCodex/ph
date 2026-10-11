@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Siasi School of Fisheries in the Municipality of Jolo, Province of Sulu, is hereby changed to Jolo School of Fisheries.1aшphi1
+The name of the Siasi School of Fisheries in the Municipality of Jolo, Province of Sulu, is hereby changed to Jolo School of Fisheries.
 
 ## Section 2
 

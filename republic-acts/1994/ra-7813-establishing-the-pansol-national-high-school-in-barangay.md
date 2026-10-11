@@ -41,6 +41,6 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.1a⍵⍴h!1
+This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.
 
 Approved, October 26, 1994.

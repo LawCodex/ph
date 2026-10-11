@@ -36,7 +36,7 @@ The Institute, in addition to its present secondary curricular offering, shall o
 
 ## Section 3
 
-The rules and regulations necessary for the implementation of this Act shall be promulgated by the CHED.1aшphi1
+The rules and regulations necessary for the implementation of this Act shall be promulgated by the CHED.
 
 ## Section 4
 

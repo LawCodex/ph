@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Palongpong, Calogoan, Sampalocan and Aracua in the Municipality of Batac, Province of Ilocos Norte, are constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of Crispina Marcos.1âшphi1
+The sitios of Palongpong, Calogoan, Sampalocan and Aracua in the Municipality of Batac, Province of Ilocos Norte, are constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of Crispina Marcos.
 
 ## Section 2
 

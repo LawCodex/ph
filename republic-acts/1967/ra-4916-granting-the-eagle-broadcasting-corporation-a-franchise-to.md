@@ -57,7 +57,7 @@ Acceptance of this franchise shall be given in writing by the grantee within six
 
 ## Section 9
 
-The grantee shall file a bond in the amount of ten thousand pesos to guarantee the full compliance with fulfillment of the conditions under which this franchise is granted.1avvphi1 If after two years from the date of acceptance of this franchise, the grantee shall have fulfilled said conditions or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+The grantee shall file a bond in the amount of ten thousand pesos to guarantee the full compliance with fulfillment of the conditions under which this franchise is granted. If after two years from the date of acceptance of this franchise, the grantee shall have fulfilled said conditions or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 10
 

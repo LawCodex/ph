@@ -44,7 +44,7 @@ Whenever it shall be necessary in the erection of said poles or in the placing o
 
 ## Section 6
 
-The grantee shall be liable for any injury arising from any claims caused by accidents to persons or property by reason of the construction under this franchise, or of any neglect or omission to keep the said poles and wires in a safe condition.1âшphi1
+The grantee shall be liable for any injury arising from any claims caused by accidents to persons or property by reason of the construction under this franchise, or of any neglect or omission to keep the said poles and wires in a safe condition.
 
 ## Section 7
 

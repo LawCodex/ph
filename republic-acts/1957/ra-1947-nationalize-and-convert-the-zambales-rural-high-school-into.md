@@ -40,7 +40,7 @@ The head of this institution shall be known as the president of the Western Luzo
 
 ## Section 5
 
-The government of said college is hereby vested in a board of trustees of the Western Luzon Junior Agricultural College.1avvphi1 The board of trustees shall be composed of the Secretary of Education, who shall be ex-officio chairman of the board, the chairman of the Committee on Education of the Senate, the chairman of the Committee on Education of the House of Representatives, the Director of Public Schools, the president of the college, and the president of the Western Luzon Junior Agricultural College alumni association.
+The government of said college is hereby vested in a board of trustees of the Western Luzon Junior Agricultural College. The board of trustees shall be composed of the Secretary of Education, who shall be ex-officio chairman of the board, the chairman of the Committee on Education of the Senate, the chairman of the Committee on Education of the House of Representatives, the Director of Public Schools, the president of the college, and the president of the Western Luzon Junior Agricultural College alumni association.
 
 Members of the board shall serve without compensation, other than actual and necessary expenses incurred either in attendance upon meetings of the board or upon other official business authorized by resolution of the board.
 

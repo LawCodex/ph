@@ -77,7 +77,7 @@ For two hundred municipal libraries for the fiscal year 1949-1950:
 <td rowspan="2">(4)</td>
 <td>Purchase of books</td>
 <td><br/></td>
-<td>217,000.00</td><cite>ℒαwρhi৷</cite>
+<td>217,000.00</td>
 </tr>
 <tr>
 <td colspan="2">Total</td>

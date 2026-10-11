@@ -48,7 +48,7 @@ The grantee shall operate and maintain all its stations, lines, cables, systems 
 
 ## Section 5
 
-_Rates for Services._ – The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as Non-regulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the Commission or its legal successors.1aшphi1 The rates to be charged by the grantee shall be unbundled, separable and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
+_Rates for Services._ – The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as Non-regulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the Commission or its legal successors. The rates to be charged by the grantee shall be unbundled, separable and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
 
 ## Section 6
 

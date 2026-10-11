@@ -39,7 +39,7 @@ The Supreme Court shall assign the respective and corresponding branch number fo
 
 ## Section 3
 
-The Chief Justice of the Supreme Court shall immediately cause the inclusion in the Court’s program the implementation of this Act.1âшphi1
+The Chief Justice of the Supreme Court shall immediately cause the inclusion in the Court’s program the implementation of this Act.
 
 ## Section 4
 

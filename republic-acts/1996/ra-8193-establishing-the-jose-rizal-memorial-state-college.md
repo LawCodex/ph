@@ -109,7 +109,7 @@ The State College shall be headed by a president to be appointed by the Board up
 
 In case of vacancy in the office of the president by reason of death, resignation, incapacity of the president to perform the functions of his office, or removal for cause, the Board shall have the authority to designate an officer-in-charge of the College pending the appointment of a successor. The new president shall hold office for the unexpired term but in no case shall his term be more than six (6) years subject to the provisions of the preceding paragraph.
 
-The powers and duties of the president of the State College in addition to those specifically provided in this Act, shall be those usually pertaining to the office of the president of similar colleges.1aшphi1
+The powers and duties of the president of the State College in addition to those specifically provided in this Act, shall be those usually pertaining to the office of the president of similar colleges.
 
 The salary of the president of the State College shall be comparable to that being received by the presidents of similar educational institutions of like enrollment and standing.
 

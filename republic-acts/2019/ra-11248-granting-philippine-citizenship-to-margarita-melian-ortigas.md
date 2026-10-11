@@ -34,7 +34,7 @@ Ms. Margarita Melian Ortigas is hereby granted Philippine citizenship with all t
 
 ## Section 2
 
-Ms. Margarita Melian Ortigas shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.1âwphi1 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Ms. Margarita Melian Ortigas shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

@@ -53,6 +53,6 @@ The same Act is hereby amended by inserting the following new section between Se
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

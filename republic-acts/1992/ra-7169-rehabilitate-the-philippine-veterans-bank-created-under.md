@@ -25,9 +25,13 @@ AN ACT TO REHABILITATE THE PHILIPPINE VETERANS BANK CREATED UNDER REPUBLIC ACT N
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Declaration of Policy._** – In order to give meaning and realization to the constitutional mandate to provide immediate and adequate care, benefits and other forms of assistance to war veterans and veterans of military campaigns, their surviving spouses and orphans, it is hereby declared the policy of the Government to provide the necessary mechanisms to rehabilitate the Philippine Veterans Bank, hereinafter known as the Veterans Bank, a bank owned by the Filipino veterans of World War II and deeply imbued and impressed with public interest.
+## Section 1
 
-**Section 2._Settlement of Liabilities._** – The National Government deposit of One billion four hundred eighty-nine million pesos (P1,489,000,000.00) with the Veterans Bank is hereby restructured into a seven-year promissory note of the said bank, carrying an interest rate of four percent (4%) per annum effective on the date of actual operation: Provided, That only the interest shall be paid in the first three (3) years: Provided, further, That repayment of the principal shall be divided into four (4) equal amortizations: Provided, finally, that the said promissory note shall be exempted from the reserve equipment rule of commercial banks.1awphi1©
+_Declaration of Policy._ – In order to give meaning and realization to the constitutional mandate to provide immediate and adequate care, benefits and other forms of assistance to war veterans and veterans of military campaigns, their surviving spouses and orphans, it is hereby declared the policy of the Government to provide the necessary mechanisms to rehabilitate the Philippine Veterans Bank, hereinafter known as the Veterans Bank, a bank owned by the Filipino veterans of World War II and deeply imbued and impressed with public interest.
+
+## Section 2
+
+_Settlement of Liabilities._ – The National Government deposit of One billion four hundred eighty-nine million pesos (P1,489,000,000.00) with the Veterans Bank is hereby restructured into a seven-year promissory note of the said bank, carrying an interest rate of four percent (4%) per annum effective on the date of actual operation: Provided, That only the interest shall be paid in the first three (3) years: Provided, further, That repayment of the principal shall be divided into four (4) equal amortizations: Provided, finally, that the said promissory note shall be exempted from the reserve equipment rule of commercial banks.
 
 The accrued interests due to the National Government deposits up to and during the time of the Veterans Bank's closure in 1985 and the tax liabilities incurred by the Veterans Bank also up to and during the time of the Veterans Bank's closure are hereby condoned and extinguished.
 
@@ -35,15 +39,25 @@ The obligations of the Veterans Bank with the Central Bank of the Philippines an
 
 With respect to deposits of local government units and other private deposits with the Veterans Bank, the terms and conditions for the retention or withdrawal thereof shall be negotiated individually but may carry more favorable terms in favor of the Veterans Bank.
 
-**Section 3._Operations and Changes in the Capital Structure of the Veterans Bank and other Amendments._** – The operations and changes in the capital structure of the Veterans Bank, as well as other amendments to its articles of incorporation and bylaws as prescribed under Republic Act No. 3518, shall be in accordance with the Corporation Code, the General Banking Act, and other related laws.1awphi1©
+## Section 3
 
-**Section 4._Repeal of Amendatory Presidential Decrees._** – Presidential Decree Nos. 236, 1637, 919 and 1906 which are inconsistent with this Act are hereby repealed, thus restoring the full force and legal effect of Republic Act No. 3518.
+_Operations and Changes in the Capital Structure of the Veterans Bank and other Amendments._ – The operations and changes in the capital structure of the Veterans Bank, as well as other amendments to its articles of incorporation and bylaws as prescribed under Republic Act No. 3518, shall be in accordance with the Corporation Code, the General Banking Act, and other related laws.
 
-**Section 5._Reopening of the Veterans Bank and Its Branches._** – Pursuant to and within ninety (90) days from the effectivity of this Act, the Central Bank is hereby authorized to reopen within the period of three (3) years from the date of the reopening of the head office with no branch licensing cost to the said bank.
+## Section 4
 
-**Section 6._Veterans Bank as a Government Depository._** – The Secretary of Finance, the National Treasurer and his authorized representatives, city and municipal treasurers, as well as custodians of public funds or those belonging to government-owned or controlled corporations, are hereby authorized if they so desire to make and actually maintain deposits, of any government of corporate funds with the Veterans Bank, which is hereby declared to be a government depository.
+_Repeal of Amendatory Presidential Decrees._ – Presidential Decree Nos. 236, 1637, 919 and 1906 which are inconsistent with this Act are hereby repealed, thus restoring the full force and legal effect of Republic Act No. 3518.
 
-**Section 7._Rehabilitation Committee._** – To facilitate the implementation of the provisions of this Act, there is hereby created a rehabilitation committee which shall have a term of three (3) months from the date of the approval of this Act composed of the following: the Executive Secretary, as Chairman, and the Administrator of the Philippine Veterans Affairs Office, the President of the Veterans Foundation of the Philippines, a representative from the executive board of the Veterans Federation of the Philippines and a representative from the Board of Trustees of the Veterans of World War II or their respective representatives, as members.
+## Section 5
+
+_Reopening of the Veterans Bank and Its Branches._ – Pursuant to and within ninety (90) days from the effectivity of this Act, the Central Bank is hereby authorized to reopen within the period of three (3) years from the date of the reopening of the head office with no branch licensing cost to the said bank.
+
+## Section 6
+
+_Veterans Bank as a Government Depository._ – The Secretary of Finance, the National Treasurer and his authorized representatives, city and municipal treasurers, as well as custodians of public funds or those belonging to government-owned or controlled corporations, are hereby authorized if they so desire to make and actually maintain deposits, of any government of corporate funds with the Veterans Bank, which is hereby declared to be a government depository.
+
+## Section 7
+
+_Rehabilitation Committee._ – To facilitate the implementation of the provisions of this Act, there is hereby created a rehabilitation committee which shall have a term of three (3) months from the date of the approval of this Act composed of the following: the Executive Secretary, as Chairman, and the Administrator of the Philippine Veterans Affairs Office, the President of the Veterans Foundation of the Philippines, a representative from the executive board of the Veterans Federation of the Philippines and a representative from the Board of Trustees of the Veterans of World War II or their respective representatives, as members.
 
 Specifically, the committee shall:
 
@@ -55,12 +69,18 @@ Specifically, the committee shall:
 
 (d) Submit to the Monetary Board of the Central Bank other recommendations for the successful reopening and operations of the Veterans Bank.
 
-**Section 8._Transitory Provisions._** – Without requiring new capital infusion either from the Government or from outside investigators, the Filipino veterans of World War II who are real owners-stockholders of the Veterans Bank shall cause the said bank to have at least Seven hundred fifty million pesos (P750,000,000.00) in total unimpaired capital accounts prior to reopening pursuant to this Act as a commercial bank.
+## Section 8
 
-It is hereby provided that the Board of Trustees of the Veterans of World War II (BTVWW II) created under Republic Act No. 3518 is hereby designated as trustee of all issued but undelivered shares of stock.1awphi1©
+_Transitory Provisions._ – Without requiring new capital infusion either from the Government or from outside investigators, the Filipino veterans of World War II who are real owners-stockholders of the Veterans Bank shall cause the said bank to have at least Seven hundred fifty million pesos (P750,000,000.00) in total unimpaired capital accounts prior to reopening pursuant to this Act as a commercial bank.
 
-**Section 9._Repealing Clause._** – All laws or parts of any law inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+It is hereby provided that the Board of Trustees of the Veterans of World War II (BTVWW II) created under Republic Act No. 3518 is hereby designated as trustee of all issued but undelivered shares of stock.
 
-**Section 10._Effectivity._** – This Act shall take effect upon its approval.
+## Section 9
+
+_Repealing Clause._ – All laws or parts of any law inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 10
+
+_Effectivity._ – This Act shall take effect upon its approval.
 
 Approved: January 2, 1992

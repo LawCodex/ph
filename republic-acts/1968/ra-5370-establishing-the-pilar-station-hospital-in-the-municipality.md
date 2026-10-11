@@ -33,7 +33,7 @@ There is hereby established in the Municipality of Pilar, Province of Cebu, a st
 
 ## Section 3
 
-The Secretary of Health shall cause the establishment of this hospital, provide a suitable table or organization of not more than fourteen personnel and promulgate rules and regulations for its maintenance and operation. He may, if the exigency of the service so demands merge this hospital with local health units in the Municipality of Pilar, Province of Cebu, provided that the public health work of the latter unit will not be impaired.1avvphi1
+The Secretary of Health shall cause the establishment of this hospital, provide a suitable table or organization of not more than fourteen personnel and promulgate rules and regulations for its maintenance and operation. He may, if the exigency of the service so demands merge this hospital with local health units in the Municipality of Pilar, Province of Cebu, provided that the public health work of the latter unit will not be impaired.
 
 ## Section 4
 

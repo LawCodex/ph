@@ -22,7 +22,7 @@ An Act Appropriating Fifty Thousand Pesos to Defray the Expenses of a State Fune
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-WHEREAS, Manuel Roxas, President of the Philippines, who died on the fifteenth day of April, nineteen hundred and forty-eight, dedicated his life and labors to the service of his country.1awp++i1
+WHEREAS, Manuel Roxas, President of the Philippines, who died on the fifteenth day of April, nineteen hundred and forty-eight, dedicated his life and labors to the service of his country.
 
 WHEREAS, it is fitting and proper that his remains be laid to rest in a manner that will perpetuate his memory and express our people’s love and respect for him: Now, therefore,
 

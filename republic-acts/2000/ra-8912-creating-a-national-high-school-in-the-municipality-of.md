@@ -31,7 +31,7 @@ There shall be established, under the supervision and control of the Department 
 
 ## Section 2
 
-The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Department of Education, Culture and Sports - Autonomous Regional Government in Muslim Mindanao (ARMM). Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Sultan Gumander National High School shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Department of Education, Culture and Sports - Autonomous Regional Government in Muslim Mindanao (ARMM). Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Sultan Gumander National High School shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

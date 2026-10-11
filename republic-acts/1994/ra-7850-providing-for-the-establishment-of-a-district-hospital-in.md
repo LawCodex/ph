@@ -37,6 +37,6 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, December 24, 1994.

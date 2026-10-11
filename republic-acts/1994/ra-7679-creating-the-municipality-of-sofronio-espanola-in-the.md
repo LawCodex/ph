@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Barangays Pulot Center, Pulot Shore (Pulot I), Pulot Interior (Pulot II), Iraray, Punang, Labog, Panitian, Isumbo, and Abo-Abo in the Municipality of Brooke's Point, Province of Palawan, are hereby separated from the municipality and constituted into a distinct and independent municipality of the province, to be known as the Municipality of Sofronio Española. The seat of government of the new municipality shall be in Barangay Pulot Center.1a⍵⍴h!1
+Barangays Pulot Center, Pulot Shore (Pulot I), Pulot Interior (Pulot II), Iraray, Punang, Labog, Panitian, Isumbo, and Abo-Abo in the Municipality of Brooke's Point, Province of Palawan, are hereby separated from the municipality and constituted into a distinct and independent municipality of the province, to be known as the Municipality of Sofronio Española. The seat of government of the new municipality shall be in Barangay Pulot Center.
 
 ## Section 2
 

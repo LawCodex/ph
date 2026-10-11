@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Lubuagan Hospital in the Municipality of Lubuagan, Mountain Province, is hereby changed to Kalinga Hospital.(awÞhi(
+The name of Lubuagan Hospital in the Municipality of Lubuagan, Mountain Province, is hereby changed to Kalinga Hospital.
 
 ## Section 2
 

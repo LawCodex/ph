@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall comprise the municipalities of Buug, Diplahan, Malangas, Imelda, Alicia, Mabuhay, Olutanga, Talusan and Payao.ᇈWᑭHIL
+The said district engineering office shall comprise the municipalities of Buug, Diplahan, Malangas, Imelda, Alicia, Mabuhay, Olutanga, Talusan and Payao.
 
 ## Section 3
 

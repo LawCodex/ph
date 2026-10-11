@@ -32,7 +32,7 @@ The last paragraph of section seven of Commonwealth Act Numbered Fifty-eight, is
 
 Section eight of Commonwealth Act Numbered Fifty-eight is hereby amended to read as follows:
 
-"Sec. 8. There shall be a vice-mayor who shall perform the duties of the mayor, in the event of the sickness, absence or other temporary incapacity of the mayor, until said office shall be filled, in accordance with law. If, for any reason, the vice-mayor is temporarily incapacitated for the performance of the duties of the office of the mayor, or said office of the vice-mayor is vacant, the duties of the mayor shall be performed by the city engineer. The acting mayor shall have the same powers and duties as the mayor.1aшphi1
+"Sec. 8. There shall be a vice-mayor who shall perform the duties of the mayor, in the event of the sickness, absence or other temporary incapacity of the mayor, until said office shall be filled, in accordance with law. If, for any reason, the vice-mayor is temporarily incapacitated for the performance of the duties of the office of the mayor, or said office of the vice-mayor is vacant, the duties of the mayor shall be performed by the city engineer. The acting mayor shall have the same powers and duties as the mayor.
 
 "The vice-mayor shall perform such other duties as may be assigned upon him by the mayor or prescribed by law or ordinances. He shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines and shall receive a salary of four thousand eight hundred pesos per annum."
 

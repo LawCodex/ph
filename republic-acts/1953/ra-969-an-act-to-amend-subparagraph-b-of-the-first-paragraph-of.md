@@ -31,6 +31,6 @@ Subparagraph (b) of the first paragraph of section one hundred eighty-eight, Com
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1953.

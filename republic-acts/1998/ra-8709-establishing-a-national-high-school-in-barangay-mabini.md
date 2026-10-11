@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-A public national high school in Barangay Mabini, Municipality of Escalante, Province of Negros Occidental, shall be established under the supervision of the Department of Education, Culture and Sports.Ꮮαwρhi৷
+A public national high school in Barangay Mabini, Municipality of Escalante, Province of Negros Occidental, shall be established under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

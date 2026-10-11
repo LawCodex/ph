@@ -31,7 +31,7 @@ The Philippine National Red Cross is hereby granted a franchise to establish, ma
 
 The franchise shall continue to be in force for a period of twenty-five years and is granted upon the express condition that the same shall be void unless the construction or installation of at least one station be begun within two years from the date of the approval of this Act, and be completed within four years from said date.
 
-The President of the Philippines shall have the power and the authority to permit the location of said private fixed point-to-point, private coastal, private aeronautical and land-based and land-mobile radio stations on any land of the public domain upon such terms as may be prescribed.1avvphi1
+The President of the Philippines shall have the power and the authority to permit the location of said private fixed point-to-point, private coastal, private aeronautical and land-based and land-mobile radio stations on any land of the public domain upon such terms as may be prescribed.
 
 ## Section 3
 

@@ -30,7 +30,7 @@ Subparagraph (rr), Section seventeen of Republic Act Numbered Forty-six hundred 
 
 Section one hundred eight of the same Act is amended to read as follows:
 
-"Section 108. _Ownership of waterworks, electric, light and power, and telephone systems, roads, streets, etc._ —Any provision of law to the contrary notwithstanding, all existing waterworks, electric, light and power, and telephone systems, presently operated by the Municipality of Olongapo shall be owned by the city, and revenues therefrom shall accrue to the special fund of the city.1âшphi1
+"Section 108. _Ownership of waterworks, electric, light and power, and telephone systems, roads, streets, etc._ —Any provision of law to the contrary notwithstanding, all existing waterworks, electric, light and power, and telephone systems, presently operated by the Municipality of Olongapo shall be owned by the city, and revenues therefrom shall accrue to the special fund of the city.
 
 "Ownership of properties within the City of Olongapo of whatever nature and source transferred and/or turned over to the Philippine Government by the United States Government before, during and after the date of the turnover of the then community of Olongapo on December seven nineteen hundred and fifty-nine, except all lands of the! public domain, shall vest, on the city, and all existing municipal and provincial roads, streets, bridges, docks piers, wharves, machineries, equipments and other public works improvements shall be owned by the city, any provision of law to the contrary notwithstanding."
 

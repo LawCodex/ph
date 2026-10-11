@@ -33,7 +33,7 @@ Section two of Republic Act Numbered Twelve hundred ninety-five is hereby amende
 
 "(b) To check all speculation tending to promote a decrease in the prices of abaca, maguey and other fibers and to stabilize said prices at a level sufficient to cover the cost of production plus a reasonable profit.
 
-"(c) To assist in preventing a short as well as an excess production of abaca, maguey and other fibers and in either case serve as a regulating organ in order to avoid a disorganization of this activity of the national economy and its consequences, such as suspensions of work, unemployment and other social calamities.1avvphi1
+"(c) To assist in preventing a short as well as an excess production of abaca, maguey and other fibers and in either case serve as a regulating organ in order to avoid a disorganization of this activity of the national economy and its consequences, such as suspensions of work, unemployment and other social calamities.
 
 "(d) To promote the effective merchandising of abaca, maguey and other fibers in the domestic and foreign markets so that those engaged in the said industries will be placed on a basis of economic security.
 

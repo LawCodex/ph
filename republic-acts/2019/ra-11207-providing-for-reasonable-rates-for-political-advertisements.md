@@ -34,7 +34,7 @@ Amended Rates of Political Propaganda.— Section 11 of Republic Act No. 9006, o
 
 "Sec. 11. _Rates of Political Propaganda._ \- During the election period, media outlets shall give registered political parties and _bona fide_ candidates a discount of fifty percent (50%) for television, forty percent (40%) for radio and ten percent (10%) for print, from the average of the published rates charged in the last three calendar years prior to the election.
 
-"Nothing in this provision prohibits a media outlet from giving higher discounts: _Provided,_ That the discount it gives one candidate shall be the same discount it gives to other candidates for the same position.1âwphi1
+"Nothing in this provision prohibits a media outlet from giving higher discounts: _Provided,_ That the discount it gives one candidate shall be the same discount it gives to other candidates for the same position.
 
 "In no case shall rates charged to registered political parties and _bona fide_ candidates be higher than rates charged to non-political advertisers."
 

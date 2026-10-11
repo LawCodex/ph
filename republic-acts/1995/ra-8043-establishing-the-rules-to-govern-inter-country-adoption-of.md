@@ -226,7 +226,7 @@ b) Any person who shall violate established regulations relating to the confiden
 
 A penalty lower by two (2) degrees than that prescribed for the consummated felony under this Article shall be imposed upon the principals of the attempt to commit any of the acts herein enumerated.
 
-Acts punishable under this Article, when committed by a syndicate or where it involves two or more children shall be considered as an offense constituting child trafficking and shall merit the penalty of reclusion perpetua.1aшphi1
+Acts punishable under this Article, when committed by a syndicate or where it involves two or more children shall be considered as an offense constituting child trafficking and shall merit the penalty of reclusion perpetua.
 
 Acts punishable under this Article are deemed committed by a syndicate if carried out by a group of three (3) or more persons conspiring and/or confederating with one another in carrying out any of the unlawful acts defined under this Article. Penalties as are herein provided shall be in addition to any other penalties which may be imposed for the same acts punishable under other laws, ordinances, executive orders and proclamations.
 

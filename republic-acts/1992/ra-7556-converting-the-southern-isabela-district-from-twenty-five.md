@@ -29,7 +29,7 @@ Be it enacted by Senate and House of Representatives of the Philippines in Congr
 
 ## Section 1
 
-The Southern Isabela District Hospital is hereby converted from twenty-five-bed capacity to fifty-bed capacity hospital.1âшphi1
+The Southern Isabela District Hospital is hereby converted from twenty-five-bed capacity to fifty-bed capacity hospital.
 
 ## Section 2
 

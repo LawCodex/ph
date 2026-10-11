@@ -30,15 +30,23 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 **SECTION. 1._Conversion._** – The Southern Luzon Polytechnic College (SPLC) in the Municipality of Lucban, Province of Quezon, including its units and satellite campuses in the municipalities of Sampaloc, Infanta, Polillo, Tagkawayan, Alabat and Tiaong, and the Lucena Dual-Tech Livelihood and Training Center in the City of Lucena, all in the Province of Quezon, is hereby converted into a state university to be known as the Southern Luzon State University (SLSU) , hereinafter referred to as the University. The main campus of the University shall be in Lucban, Quezon.
 
-**SEC. 2._General Mandate._** – The University shall primarily provide advanced education, professional, technological instruction in the fields of allied medicine, education, engineering, agriculture, fisheries, forestry, environment, arts and sciences, accountancy, cooperative, business and entrepreneurship, technology and other relevant fields of study. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+## SEC. 2
 
-**SEC. 3._Curricular Offerings._** – The University shall offer graduate and undergraduate and short-term technical courses in the fields of allied medicine, education, engineering, agriculture, fisheries, forestry, environment, arts and sciences, accountancy, cooperative, business and entrepreneurship, technology and other degrees/courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives and in order to meet the needs of the Province of Quezon and Region IV-A.
+_General Mandate._ – The University shall primarily provide advanced education, professional, technological instruction in the fields of allied medicine, education, engineering, agriculture, fisheries, forestry, environment, arts and sciences, accountancy, cooperative, business and entrepreneurship, technology and other relevant fields of study. It shall also undertake research and extension services and provide progressive leadership in its areas of specialization.
+
+## SEC. 3
+
+_Curricular Offerings._ – The University shall offer graduate and undergraduate and short-term technical courses in the fields of allied medicine, education, engineering, agriculture, fisheries, forestry, environment, arts and sciences, accountancy, cooperative, business and entrepreneurship, technology and other degrees/courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives and in order to meet the needs of the Province of Quezon and Region IV-A.
 
 The existing high schools shall be transferred to the jurisdiction and supervision of the Department of Education (DepEd) : _Provided_ , That the high schools shall be allowed to remain and operate within the campus of the University until the existing students shall have completed their high school education: _Provided, further_ , That the University may operate a reasonably-sized laboratory school, if it has a College of Education.
 
-**SEC. 4._Administration._** – The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and in the president of the University.
+## SEC. 4
 
-**SEC. 5._The Governing Board._** – The governing board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ – The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and in the president of the University.
+
+## SEC. 5
+
+_The Governing Board._ – The governing board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 (a) The chairperson of the Commission on Higher Education (CHED) , chairperson;
 
@@ -66,9 +74,13 @@ The term of office of the president of the federation of faculty associations, t
 
 The two prominent citizens shall serve for a term of two years from the date of appointment.
 
-**SEC. 6._Promulgation and Implementation of Policies._** – The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology,as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994".
+## SEC. 6
 
-**SEC. 7._Powers and Duties of the Board of Regents._** – The Board shall have the following specific powers and duties, in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ – The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology,as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994".
+
+## SEC. 7
+
+_Powers and Duties of the Board of Regents._ – The Board shall have the following specific powers and duties, in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
 
 (a) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University;
 
@@ -128,7 +140,9 @@ If, for reasons beyond its control, the University shall not be able to pursue a
 
 (y) To extend the term of the president of the University beyond the age of retirement, but not beyond the age of seventy (70) , whose performance has been unanimously rated by the Board as outstanding, based on the guidelines, qualifications and/or standards set by the Board, after unanimous recommendation by the search committee.
 
-**SEC. 8._Meetings of the Board._** – The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three days' prior written notice, call a maximum of two special meetings whenever necessary.
+## SEC. 8
+
+_Meetings of the Board._ – The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three days' prior written notice, call a maximum of two special meetings whenever necessary.
 
 A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided, however_ , That the chairperson of the Board or the president of the University is among those present in the meeting.
 
@@ -138,7 +152,9 @@ In case the chairpersons of the Congressional Committees on Education shall not 
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**SEC. 9._The University President._** – The University shall be headed by a president who shall render full-time service. He/she shall be appointed by the Board, subject to the guidelines, qualifications and/or standards set by the Board, upon recommendation of a duly constituted search committee. He/she shall have a term of four years and shall be eligible for reappointment for another term: _Provided_ , That in order to effect a smooth transition to a state university, the incumbent president of the Southern Luzon Polytehnic College, if qualified, shall serve as the first president of the University.
+## SEC. 9
+
+_The University President._ – The University shall be headed by a president who shall render full-time service. He/she shall be appointed by the Board, subject to the guidelines, qualifications and/or standards set by the Board, upon recommendation of a duly constituted search committee. He/she shall have a term of four years and shall be eligible for reappointment for another term: _Provided_ , That in order to effect a smooth transition to a state university, the incumbent president of the Southern Luzon Polytehnic College, if qualified, shall serve as the first president of the University.
 
 Within six months before the expiration of the term of office of the incumbent president of the University, the Board shall constitute the Search Committee for the Presidency (SCP) .
 
@@ -152,35 +168,59 @@ The salary of the president of the University shall be in accordance with the Re
 
 The president of the University shall be assisted by a vice president for academic affairs, a vice president for administrative and financial affairs and a vice president for planning, research, extension, production and development, who shall be appointed by the Board, upon the recommendation of the president.
 
-**SEC. 10._Heads of University Campuses._** – Campus directors shall head the University campuses and they shall render full-time service. They shall be appointed by the Board, upon the recommendation of the search committee and the University president, subject to the guidelines, qualifications and/or standards set by the Board: _Provided_ , That the incumbent college administrators of the extension campuses shall serve as campus directors of their respective campuses.
+## SEC. 10
 
-**SEC. 11._The Administrative Council._** – There shall be an administrative council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+_Heads of University Campuses._ – Campus directors shall head the University campuses and they shall render full-time service. They shall be appointed by the Board, upon the recommendation of the search committee and the University president, subject to the guidelines, qualifications and/or standards set by the Board: _Provided_ , That the incumbent college administrators of the extension campuses shall serve as campus directors of their respective campuses.
 
-**SEC. 12._The Academic Council._** – There shall be an academic council, to be composed of the president of the University, who shall act as chairperson, and all academic staff with the rank of at least an assistant professor, as members.
+## SEC. 11
+
+_The Administrative Council._ – There shall be an administrative council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+
+## SEC. 12
+
+_The Academic Council._ – There shall be an academic council, to be composed of the president of the University, who shall act as chairperson, and all academic staff with the rank of at least an assistant professor, as members.
 
 The academic council shall have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and the conferment of degrees, subject to review and/or approval by the Board through the president of the University. It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board.
 
-**SEC. 13._The Secretary of the University._** – The Board shall appoint a secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/she shall serve upon each member of the Board the appropriate notices of the Board's meetings.
+## SEC. 13
 
-**SEC. 14._The Treasurer of the University._** – The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
+_The Secretary of the University._ – The Board shall appoint a secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He/she shall serve upon each member of the Board the appropriate notices of the Board's meetings.
 
-**SEC. 15._Faculty._** – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: _Provided_ , That said appointment shall be subject to the guidelines, qualifications and/or standards set by the Board: _Provided, further_ , That no member of the faculty shall teach for or against any particular church or religious sect.
+## SEC. 14
 
-**SEC. 16._Scholarship Program/Admission._** – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ – The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
+
+## SEC. 15
+
+_Faculty._ – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: _Provided_ , That said appointment shall be subject to the guidelines, qualifications and/or standards set by the Board: _Provided, further_ , That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## SEC. 16
+
+_Scholarship Program/Admission._ – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**SEC. 17._Academic Freedom and Institutional Autonomy._** – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## SEC. 17
 
-**SEC. 18._Authority to Loan or Transfer Apparatus/Equipment/Supplies and Detail of Personnel._** – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**SEC. 19._Assets, Liabilities and Personnel._** – All assets, real and personal, personnel and records of the SLPC, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a university shall be respected.
+## SEC. 18
+
+_Authority to Loan or Transfer Apparatus/Equipment/Supplies and Detail of Personnel._ – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University, such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## SEC. 19
+
+_Assets, Liabilities and Personnel._ – All assets, real and personal, personnel and records of the SLPC, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a university shall be respected.
 
 All parcels of land belonging to the government occupied by the SLPC are hereby declared to be property of the University, and shall be titled under that name: _Provided_ , That should the University cease to exist or be abolished or should such parcels of land aforementioned be no longer needed by the University, the same shall revert to the LGUs concerned.
 
-**SEC. 20._Appropriations._** – The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Southern Luzon Polytechnic College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Southern Luzon State University shall be included in the annual General Appropriations Act.
+## SEC. 20
 
-**SEC. 21._Development Plan, Management Audit, Organizational/Administrative/Academic Structure._** – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
+_Appropriations._ – The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Southern Luzon Polytechnic College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Southern Luzon State University shall be included in the annual General Appropriations Act.
+
+## SEC. 21
+
+_Development Plan, Management Audit, Organizational/Administrative/Academic Structure._ – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 (a) Submit a five-year development plan, including its corresponding program budgets to the CHED, for corresponding recommendation to the DBM;
 
@@ -188,19 +228,33 @@ All parcels of land belonging to the government occupied by the SLPC are hereby 
 
 (c) Accordingly set up its organizational, administrative as well as academic structure, including the appointment of the University key officials.
 
-**SEC. 22._Filing of Report._** – On or before the fifteenth (15th ) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairperson of the CHED, and with both Houses of Congress, a detailed report on the progress, conditions and needs of the University.
+## SEC. 22
 
-**SEC. 23._Suppletory Application._** – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the governing charter of the University.
+_Filing of Report._ – On or before the fifteenth (15th ) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairperson of the CHED, and with both Houses of Congress, a detailed report on the progress, conditions and needs of the University.
 
-**SEC. 24._Parity Clause._** – All other powers, functions and privileges, responsibilities and limitations to state universities and/or their officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
+## SEC. 23
 
-**SEC. 25._Implementing Rules and Regulations._** – The Board, in consultation with the CHED, shall formulate the guidelines to fully implement the provisions of this Act.
+_Suppletory Application._ – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the governing charter of the University.
 
-**SEC. 26._Separability Clause._** – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+## SEC. 24
 
-**SEC. 27._Repealing Clause._** – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Parity Clause._ – All other powers, functions and privileges, responsibilities and limitations to state universities and/or their officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
 
-**SEC. 28._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation.
+## SEC. 25
+
+_Implementing Rules and Regulations._ – The Board, in consultation with the CHED, shall formulate the guidelines to fully implement the provisions of this Act.
+
+## SEC. 26
+
+_Separability Clause._ – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+## SEC. 27
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 28
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation.
 
 Approved,
 

@@ -39,7 +39,7 @@ Approved,
 | (Sgd.) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (Sgd.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
 |---|---|
 
-This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 29, 2023 and August 27, 2024, respectively.ℒαwρhi৷
+This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 29, 2023 and August 27, 2024, respectively.
 
 | (Sgd.) RENATO N. BANTUG, JR. Secretary of the Senate | (Sgd.) REGINALD S. VELASCO Secretary General House of Representatives |
 |---|---|

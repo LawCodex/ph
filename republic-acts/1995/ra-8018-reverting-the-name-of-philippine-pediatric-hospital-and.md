@@ -38,4 +38,4 @@ Any other law, decree, act, executive order, proclamation, rules and regulations
 
 This Act shall take effect upon its approval.
 
-Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.1aшphi1
+Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

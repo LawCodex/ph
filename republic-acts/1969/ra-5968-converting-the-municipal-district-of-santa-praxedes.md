@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipal District of Santa Praxedes, formerly Langañgan, in the Province of Cagayan, is hereby converted into a regular municipality, to foe known as the Municipality of Santa Praxedes.1âшphi1
+The Municipal District of Santa Praxedes, formerly Langañgan, in the Province of Cagayan, is hereby converted into a regular municipality, to foe known as the Municipality of Santa Praxedes.
 
 ## Section 2
 

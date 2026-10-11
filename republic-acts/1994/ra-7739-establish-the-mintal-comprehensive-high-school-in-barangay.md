@@ -41,6 +41,6 @@ The amount necessary to carry out the provisions of this Act shall be funded out
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 4, 1994.

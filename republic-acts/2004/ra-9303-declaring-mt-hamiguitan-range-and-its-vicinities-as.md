@@ -30,9 +30,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 **SECTION. 1._Short Title._** \- This Act shall be known as **Mt. Hamiguitan Range Wildlife Sanctuary Act of 2004**.
 
-**SEC. 2._Declaration of Policy._** \- Cognizant of the profound impact of man's activities on all components of the natural environment particularly the effect of increasing population, resource exploitation and industrial advancement, and recognizing the critical importance of protecting and maintaining the natural biologically unique features to sustain human life and development, as well as plant and animal life, it is hereby declared the policy of the State to provide that the management, protection, sustainable development, and rehabilitation of protected areas shall be undertaken primarily to ensure the conservation of biological diversity and that the use and enjoyment of protected areas must be consistent with that principle.
+## SEC. 2
 
-**SEC. 3._Scope._** \- Certain parcels of land situated in the municipalities of Mati, San Isidro and Governor Generoso, Province of Davao Oriental, Island of Mindanao are hereby established as a protected area under the category of wildlife sanctuary to be known as the Mt. Hamiguitan Range Wildlife Sanctuary and the areas within its peripheral areas as buffer zone. Such protected area and buffer zone shall become part of the National Integrated Protected Areas System (NIPAS) subject to such rights as are provided for in this Act.
+_Declaration of Policy._ \- Cognizant of the profound impact of man's activities on all components of the natural environment particularly the effect of increasing population, resource exploitation and industrial advancement, and recognizing the critical importance of protecting and maintaining the natural biologically unique features to sustain human life and development, as well as plant and animal life, it is hereby declared the policy of the State to provide that the management, protection, sustainable development, and rehabilitation of protected areas shall be undertaken primarily to ensure the conservation of biological diversity and that the use and enjoyment of protected areas must be consistent with that principle.
+
+## SEC. 3
+
+_Scope._ \- Certain parcels of land situated in the municipalities of Mati, San Isidro and Governor Generoso, Province of Davao Oriental, Island of Mindanao are hereby established as a protected area under the category of wildlife sanctuary to be known as the Mt. Hamiguitan Range Wildlife Sanctuary and the areas within its peripheral areas as buffer zone. Such protected area and buffer zone shall become part of the National Integrated Protected Areas System (NIPAS) subject to such rights as are provided for in this Act.
 
 The Department of Environment and Natural Resources (DENR) shall mark on the ground the boundaries set forth in this Act which shall not be modified except by an act of Congress. The parcels of land covered herein are more particularly described by the following technical description:
 
@@ -376,7 +380,9 @@ Bounded on the northeast to southeast directions from corner 30 to corner 82 by 
 
 approximately six thousand eight hundred thirty-four hectares (6,834 has.) more or less.
 
-**SEC. 4._Definition of Terms._** -
+## SEC. 4
+
+_Definition of Terms._ -
 
 (a) "_National Integrated Protected Area System_ (NIPAS)" refers to the classification and inclusion of all designated protected areas into one system pursuant to Republic Act No. 7586 or the National Integrated Protected Areas System (NIPAS) Act of 1992 to maintain essential ecological processes and life-support systems, to preserve genetic diversity, to ensure sustainable use of resources found therein, and to maintain their natural conditions to the greatest extent possible.
 
@@ -398,11 +404,15 @@ approximately six thousand eight hundred thirty-four hectares (6,834 has.) more 
 
 (j) "_Private rights_ " refers to the right of individual persons to own, under existing laws, and in the case of indigenous cultural communities, rights of possession since time immemorial, which possession may include places of abode and worship, burial grounds and well-defined territories.
 
-**SEC. 5._Management Plan._** \- A management plan and a management manual consistent with the General Management Planning Strategy (GMPS) pursuant to Republic Act No. 7586 shall be prepared by the DENR in coordination with the PAMB of the Mt. Hamiguitan Range Wildlife Sanctuary, concerned LGUs, and other sectors affected which shall serve as bases for the protection and conservation of the biodiversity of the protected area.
+## SEC. 5
+
+_Management Plan._ \- A management plan and a management manual consistent with the General Management Planning Strategy (GMPS) pursuant to Republic Act No. 7586 shall be prepared by the DENR in coordination with the PAMB of the Mt. Hamiguitan Range Wildlife Sanctuary, concerned LGUs, and other sectors affected which shall serve as bases for the protection and conservation of the biodiversity of the protected area.
 
 The management plan shall be approved by the PAMB and certified to by the DENR Secretary that it conforms to national laws, this Act, and pertinent DENR rules and regulations on protected areas.
 
-**SEC. 6._Administration and Management._** \- The Mt. Hamiguitan Range Wildlife Sanctuary shall be under the administrative jurisdiction of the DENR through the PAMB. Pursuant hereto, the following institutional arrangement is hereby adopted:
+## SEC. 6
+
+_Administration and Management._ \- The Mt. Hamiguitan Range Wildlife Sanctuary shall be under the administrative jurisdiction of the DENR through the PAMB. Pursuant hereto, the following institutional arrangement is hereby adopted:
 
 (A) The Department of Environment and Natural Resources (DENR). - The Secretary of the DENR shall have supervision over the management of Mt. Hamiguitan Range Wildlife Sanctuary, hereinafter referred to as the Protected Area (PA), and is empowered to perform any and all of the following acts:
 
@@ -474,39 +484,55 @@ b. Approve the deputation of field officers.
 
 (D) The Protected Area Superintendent's Office (PASO). - There is hereby created a Protected Area Superintendent's Office which shall be supported by a sufficient number of personnel who shall perform day-to-day management, protection and administration of the PA. The head of the office shall be the chief operation officer of the Mt. Hamiguitan Range Wildlife Sanctuary and shall be accountable to the RED of the DENR-Region XI and the PAMB.
 
-**SEC. 7._Existing Facilities Within the PA._** \- Existing facilities within the PA prior to the enactment of this Act shall be subjected to inventory and assessment by the PAMB using its own criteria which shall consider the impact of said facilities on the PA, on biodiversity conservation, resolution of possible conflict between public interest against local interest and national significance of said facilities.
+## SEC. 7
+
+_Existing Facilities Within the PA._ \- Existing facilities within the PA prior to the enactment of this Act shall be subjected to inventory and assessment by the PAMB using its own criteria which shall consider the impact of said facilities on the PA, on biodiversity conservation, resolution of possible conflict between public interest against local interest and national significance of said facilities.
 
 The PAMB, through the PASO, shall monitor the operations of said facilities and shall recommend appropriate actions/measures if said facilities are found not consistent with the purpose of this Act. The PAMB shall also impose royalties or administrative fees or adopt a profit sharing scheme on said facilities subject to negotiations with concerned proponent/s.
 
-**SEC. 8._Ancestral Lands and Rights Over Them._** \- Ancestral lands and domain within the PA shall be recognized and managed pursuant to Republic Act No. 8371.
+## SEC. 8
 
-**SEC. 9._Tenured Migrants._** \- Tenured migrants shall be eligible to become stewards of portions of land within production zones as may be designated by the DENR and from which they may derive subsistence. The DENR shall develop an appropriate tenurial instrument for these inhabitants within the PA.
+_Ancestral Lands and Rights Over Them._ \- Ancestral lands and domain within the PA shall be recognized and managed pursuant to Republic Act No. 8371.
+
+## SEC. 9
+
+_Tenured Migrants._ \- Tenured migrants shall be eligible to become stewards of portions of land within production zones as may be designated by the DENR and from which they may derive subsistence. The DENR shall develop an appropriate tenurial instrument for these inhabitants within the PA.
 
 Tenured migrants shall be considered and treated individually or per household on the basis of head of families with legitimate dependents.
 
 Tenured migrants occupying portions of ancestral domain shall be treated separately. The PAMB shall develop appropriate mechanisms to resolve any dispute arising therein. Absentee/transient migrants in the PA who do not qualify as tenured migrants shall not be eligible to become stewards of portions of land within multiple-use and sustainable zones.
 
-**SEC. 10._Other Activities Within the PA._** \- Proposals for activities like construction of dams, irrigation, canals, transmission lines, access roads/trails and buildings which are outside the scope of the management plan for the PA shall, upon permission of the PAMB, be subject to an environmental impact assessment as required by law before they are adopted, and the results thereof shall be taken into consideration in the decision-making process. No actual implementation of such activities shall be allowed without the required Environmental Compliance Certificate (ECC) under the Philippine Environment Impact Assessment (EIA) System. In instances where such activities are to be undertaken, the proponent shall plan and carry them out in such manner as will minimize any adverse effects and take preventive and remedial action when appropriate. The proponent shall be liable for damage due to lack of caution or indiscretion.
+## SEC. 10
+
+_Other Activities Within the PA._ \- Proposals for activities like construction of dams, irrigation, canals, transmission lines, access roads/trails and buildings which are outside the scope of the management plan for the PA shall, upon permission of the PAMB, be subject to an environmental impact assessment as required by law before they are adopted, and the results thereof shall be taken into consideration in the decision-making process. No actual implementation of such activities shall be allowed without the required Environmental Compliance Certificate (ECC) under the Philippine Environment Impact Assessment (EIA) System. In instances where such activities are to be undertaken, the proponent shall plan and carry them out in such manner as will minimize any adverse effects and take preventive and remedial action when appropriate. The proponent shall be liable for damage due to lack of caution or indiscretion.
 
 The PAMB shall determine what activities for the essential use of the communities shall be allowed consistent with the management plan and based on biodiversity criteria and management zoning plan.
 
 Areas under the management of other agencies of the government shall be integrated in the overall management plan of the PA.
 
-**SEC. 11._Local Government Units (LGUs)._** \- The local government units (LGUs) within the PA shall be bound to follow the management plan and adopt it once approved. The LGUs shall not pass ordinances to amend the management plan nor shall the management plan be overturned by an ordinance.
+## SEC. 11
+
+_Local Government Units (LGUs)._ \- The local government units (LGUs) within the PA shall be bound to follow the management plan and adopt it once approved. The LGUs shall not pass ordinances to amend the management plan nor shall the management plan be overturned by an ordinance.
 
 Segregation of portions of the PA for LGU use, such as tourism and industrial estate, shall be assessed based on biodiversity criteria and consistent with the management plan of the PA.
 
 Any development/project proposals of the LGU within the PA shall, prior to its implementation, be reviewed, evaluated and approved by the PAMB.
 
-**SEC. 12._Integrated Protected Areas Fund (IPAF)._** \- There is hereby established a trust fund to be known as the Integrated Protected Areas Fund (IPAF) for purposes of financing projects of the system. All incomes generated from the operation of the system or management of wild flora and fauna in the PA shall accrue to the fund. These income shall be derived from fees from permitted sale and export of flora and fauna and other resources from the PA, proceeds from lease of multiple-use areas, contributions from industries and facilities directly benefiting from the PA; and such other fees and incomes derived from the operation of the PA.
+## SEC. 12
+
+_Integrated Protected Areas Fund (IPAF)._ \- There is hereby established a trust fund to be known as the Integrated Protected Areas Fund (IPAF) for purposes of financing projects of the system. All incomes generated from the operation of the system or management of wild flora and fauna in the PA shall accrue to the fund. These income shall be derived from fees from permitted sale and export of flora and fauna and other resources from the PA, proceeds from lease of multiple-use areas, contributions from industries and facilities directly benefiting from the PA; and such other fees and incomes derived from the operation of the PA.
 
 The fund may be augmented by grants, donations, endowment from various sources, domestic or foreign, for purposes related to their functions: Provided, That the fund shall be deposited as a special account in the National Treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration and management of the system, and duly approved projects endorsed by the PAMB in accordance with existing accounting and budgeting rules and regulations: Provided, further, That no amount shall be disbursed for the operating expenses of the Department and other concerned agencies.
 
 All donations, grants, endowments shall be exempted from the donor's tax and all other taxes, charges and fees imposed by the government.
 
-**SEC. 13._Special Prosecutors._** \- The Department of Justice (DOJ) shall designate special prosecutors to prosecute violations of laws, rules and regulations in the PA.
+## SEC. 13
 
-**SEC. 14._Prohibited Acts._** \- The following acts are prohibited within the PA:
+_Special Prosecutors._ \- The Department of Justice (DOJ) shall designate special prosecutors to prosecute violations of laws, rules and regulations in the PA.
+
+## SEC. 14
+
+_Prohibited Acts._ \- The following acts are prohibited within the PA:
 
 1\. Cutting, gathering or collecting timber or other forest products without license. Any person who shall cut, gather, collect, remove timber or other forest products from any forest land within the PA without any authority under a license or permit, or possess timber or other forest products without the legal documents as required under existing forestry laws and regulations, shall be guilty of qualified theft as defined and punishable under Articles 309 and 310 of the Revised Penal Code.
 
@@ -552,19 +578,31 @@ k. Mining, sand and gravel quarrying/extraction; and
 
 l. Buying, selling or transferring of rights over any land within the PA.
 
-**SEC. 15._Penalties._** \- Whoever is found guilty of the acts prohibited under this Act or any rules and regulations issued by the Department pursuant to this Act or whoever is found guilty by competent court of justice of any of the offenses in the preceding section shall be penalized with a fine of not less than Five thousand pesos (P5,000.00) nor more than Five hundred thousand pesos (P500,000.00), exclusive of the value of the thing damaged, or imprisonment for not less than one (1) year but not more than six (6) years, or both, as determined by the court: Provided, That the offender shall also be required to restore or compensate for the restoration to the damage: Provided, further, That the court shall order the eviction of the offender from the land and the forfeiture in favor of the government of all minerals, timber, or any species collected or removed including all equipment, devices and firearms used in connection therewith, or any construction or improvements made thereon by the offender. If the offender is an association or corporation, the president or manager shall be directly responsible for the act of his employees and laborers: Provided, finally, That the DENR shall impose administrative fines and penalties it may deem fit and consistent with this Act.
+## SEC. 15
 
-**SEC. 16._Appropriations._** \- The Secretary of the DENR shall include in its program the implementation of this Act, the funding of which shall be charged against the IPAF constituted under this Act.
+_Penalties._ \- Whoever is found guilty of the acts prohibited under this Act or any rules and regulations issued by the Department pursuant to this Act or whoever is found guilty by competent court of justice of any of the offenses in the preceding section shall be penalized with a fine of not less than Five thousand pesos (P5,000.00) nor more than Five hundred thousand pesos (P500,000.00), exclusive of the value of the thing damaged, or imprisonment for not less than one (1) year but not more than six (6) years, or both, as determined by the court: Provided, That the offender shall also be required to restore or compensate for the restoration to the damage: Provided, further, That the court shall order the eviction of the offender from the land and the forfeiture in favor of the government of all minerals, timber, or any species collected or removed including all equipment, devices and firearms used in connection therewith, or any construction or improvements made thereon by the offender. If the offender is an association or corporation, the president or manager shall be directly responsible for the act of his employees and laborers: Provided, finally, That the DENR shall impose administrative fines and penalties it may deem fit and consistent with this Act.
 
-**SEC. 17._Transitory Provisions._** \- All regular DENR and other personnel assigned/detailed with the Office of the Mt. Hamiguitan Range Wildlife Sanctuary of the DENR-Region XI prior to the approval of this Act will form part of the PA regular staff.
+## SEC. 16
+
+_Appropriations._ \- The Secretary of the DENR shall include in its program the implementation of this Act, the funding of which shall be charged against the IPAF constituted under this Act.
+
+## SEC. 17
+
+_Transitory Provisions._ \- All regular DENR and other personnel assigned/detailed with the Office of the Mt. Hamiguitan Range Wildlife Sanctuary of the DENR-Region XI prior to the approval of this Act will form part of the PA regular staff.
 
 Portions of the PA which are within the jurisdiction of the Provincial Environment and Natural Resources Office (PENRO) and the Community Environment and Natural Resources Office (CENRO) in Davao Oriental, as the case may be, shall be transferred to the administrative jurisdiction of the PA.
 
-**SEC. 18._Separability Clause._** \- If any part or section of this Act is declared unconstitutional, such declaration shall not affect in any manner the other parts or sections of this Act.
+## SEC. 18
 
-**SEC. 19._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations inconsistent with any provision of this Act shall be deemed repealed or modified accordingly.
+_Separability Clause._ \- If any part or section of this Act is declared unconstitutional, such declaration shall not affect in any manner the other parts or sections of this Act.
 
-**SEC. 20._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+## SEC. 19
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations inconsistent with any provision of this Act shall be deemed repealed or modified accordingly.
+
+## SEC. 20
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
 
 Approved,
 

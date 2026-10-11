@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Nazuni, Municipality of Dingle, Province of Iloilo, to be known as the Nazuni Summit Comprehensive National High School.ℒαwρhi৷
+There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Nazuni, Municipality of Dingle, Province of Iloilo, to be known as the Nazuni Summit Comprehensive National High School.
 
 ## Section 2
 

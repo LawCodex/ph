@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The. Montevista Emergency Hospital in the Municipality of Montevista, Province of Davao del Norte, is hereby expanded and upgraded from a twenty-five-bed capacity emergency hospital into a seventy-five-bed capacity provincial hospital, to be known as the Davao del Norte Provincial Hospital.1âшphi1
+The. Montevista Emergency Hospital in the Municipality of Montevista, Province of Davao del Norte, is hereby expanded and upgraded from a twenty-five-bed capacity emergency hospital into a seventy-five-bed capacity provincial hospital, to be known as the Davao del Norte Provincial Hospital.
 
 ## Section 2
 

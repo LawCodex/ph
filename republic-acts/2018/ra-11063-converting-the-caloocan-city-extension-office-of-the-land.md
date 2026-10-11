@@ -37,7 +37,7 @@ The Secretary of the Department of Transportation (DOTr) shall immediately inclu
 
 ## Section 3
 
-The Secretary of the DOTr shall promulgate the necessary rules and regulations for the effective implementation of this Act.1âwphi1
+The Secretary of the DOTr shall promulgate the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 4
 

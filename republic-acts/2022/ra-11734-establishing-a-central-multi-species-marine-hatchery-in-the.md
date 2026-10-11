@@ -38,11 +38,11 @@ The BFAR-DA shall transfer the management of the central multi-species marine ha
 
 ## Section 3
 
-The BFAR-DA and the WPU shall develop an extension program which shall cater to marginal fisherfolk to educate them on new methods and technology especially on the propagation of high-value marine species.ℒαwρhi৷
+The BFAR-DA and the WPU shall develop an extension program which shall cater to marginal fisherfolk to educate them on new methods and technology especially on the propagation of high-value marine species.
 
 ## Section 4
 
-The Secretary of Agriculture shall include in the Department's programs the establishment of the central multi-species marine hatchery in the City Environmental Estate in Barangay Sta. Lucia, City of Puerto Princesa, Province of Palawan, the funding of which shall be included in the annual General Appropriations Act. The WPU shall set aside funds from any available revenue in an amount deemed appropriate for the operationalization of the central hatchery.1aшphi1
+The Secretary of Agriculture shall include in the Department's programs the establishment of the central multi-species marine hatchery in the City Environmental Estate in Barangay Sta. Lucia, City of Puerto Princesa, Province of Palawan, the funding of which shall be included in the annual General Appropriations Act. The WPU shall set aside funds from any available revenue in an amount deemed appropriate for the operationalization of the central hatchery.
 
 ## Section 5
 

@@ -36,7 +36,7 @@ All apparatus and appurtenances to be used by the grantee shall be modern, safe 
 
 ## Section 4
 
-If the grantee shall not commence the manufacture and distribution of ice in the aforesaid places three years from the approval of this Act, unless prevented by an act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.1âшphi1
+If the grantee shall not commence the manufacture and distribution of ice in the aforesaid places three years from the approval of this Act, unless prevented by an act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
 
 ## Section 5
 

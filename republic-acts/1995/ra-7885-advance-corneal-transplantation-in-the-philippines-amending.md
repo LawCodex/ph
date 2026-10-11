@@ -54,7 +54,7 @@ the implementing rules and regulations of Republic Act No. 7170 shall be amended
 
 ## Section 4
 
-the provisions of this Act are hereby declared separable, and in the event any such provisions is declared unconstitutional, the other provisions not affected thereby shall remain in force and effect.1aшphi1
+the provisions of this Act are hereby declared separable, and in the event any such provisions is declared unconstitutional, the other provisions not affected thereby shall remain in force and effect.
 
 ## Section 5
 

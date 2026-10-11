@@ -36,7 +36,7 @@ The College shall provide higher vocational, professional and technical instruct
 
 ## Section 3
 
-The College shall be under the administration and supervisory control of the chairperson of the TESDA.1aшphi1
+The College shall be under the administration and supervisory control of the chairperson of the TESDA.
 
 ## Section 4
 

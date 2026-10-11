@@ -152,7 +152,7 @@ _Appropriations._ \- The amount necessary for the implementation of this Act sha
 
 Notwithstanding the provisions under Section 69 of Republic Act No. 11518, or the Fiscal Year (FY) 2021 GAA, as amended by Republic Act No. 11639, or the FY 2022 GAA, the President is hereby authorized to exercise powers that are necessary and proper to undertake and implement the grant of COVID-19 benefits and allowances under this Act, and reprogram, reallocate, and realign unreleased appropriations and unobligated allotment under the executive department, including government-owned or -controlled corporations, in the FYs 2021 and 2022 GAAs as may be necessary to augment the available appropriations for the grant of COVID-19 benefits and allowances under this Act: _Provided,_ That unreleased appropriations and unobligated allotments for infrastructure and social assistance projects shall not be discontinued, reprogrammed, reallocated, or realigned for the above purpose. Any programs, activities or projects (P/A/P) declared as savings for this purpose may be revived and proposed for funding in the subsequent GAAs, as necessary.
 
-The DBM shall release the funds for the payment of the benefits and allowances consistent with this Act.ℒαwρhi৷
+The DBM shall release the funds for the payment of the benefits and allowances consistent with this Act.
 
 ## Section 10
 

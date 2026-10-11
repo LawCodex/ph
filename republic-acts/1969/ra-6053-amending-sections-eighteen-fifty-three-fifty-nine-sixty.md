@@ -65,4 +65,4 @@ There shall be an appraisal and disposal committee with the city mayor as chairm
 
 This Act shall take effect upon its approval.
 
-Approved, August 4, 1969.1a⍵⍴h!1
+Approved, August 4, 1969.

@@ -41,7 +41,7 @@ The increase in the bed capacity of Amai Pakpak Medical Center shall be implemen
 
 ## Section 4
 
-The construction and upgrading of the hospital facilities and services shall be under the direct supervision and control of the Department of Health.1âwphi1
+The construction and upgrading of the hospital facilities and services shall be under the direct supervision and control of the Department of Health.
 
 ## Section 5
 

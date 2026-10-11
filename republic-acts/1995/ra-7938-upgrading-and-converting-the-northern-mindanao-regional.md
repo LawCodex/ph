@@ -36,7 +36,7 @@ The hospital facilities of the Northern Mindanao Medical Center shall be upgrade
 
 ## Section 3
 
-The number of medical personnel of the Northern Mindanao Medical Center shall correspondingly be increased.1aшphi1
+The number of medical personnel of the Northern Mindanao Medical Center shall correspondingly be increased.
 
 ## Section 4
 

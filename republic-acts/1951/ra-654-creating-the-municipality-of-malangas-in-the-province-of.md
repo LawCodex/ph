@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Malangas, La Dicha, Diplo, Gusem, Buug, Matinaw, Gaulan, Tinungtungan, Manangon, Lindang, Luop, Silupa, Minsulao, Paruk, Lubing, Balabao, Mali, Baluran, Sampuli and Bacao are separated from the Municipality of Margosatubig, Province of Zamboanga, and constituted into a new and regular municipality to be known as the Municipality of Malangas in the same province.1a⍵⍴h!1
+The barrios of Malangas, La Dicha, Diplo, Gusem, Buug, Matinaw, Gaulan, Tinungtungan, Manangon, Lindang, Luop, Silupa, Minsulao, Paruk, Lubing, Balabao, Mali, Baluran, Sampuli and Bacao are separated from the Municipality of Margosatubig, Province of Zamboanga, and constituted into a new and regular municipality to be known as the Municipality of Malangas in the same province.
 
 ## Section 2
 

@@ -122,7 +122,7 @@ _Incumbent Representatives._ \- The incumbent Representatives of the Province of
 
 ## Section 3
 
-_Implementing Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days upon the effectivity of this Act.1aшphi1
+_Implementing Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days upon the effectivity of this Act.
 
 ## Section 4
 

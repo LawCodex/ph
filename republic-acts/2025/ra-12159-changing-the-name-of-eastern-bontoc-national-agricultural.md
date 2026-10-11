@@ -29,7 +29,7 @@ The name of Eastern Bontoc National Agricultural and vocational High School in B
 
 ## Section 2
 
-The main campus of Barlig National Agricultural and Vocational High School shall continue to remain in its present location in Barangay Lingoy, Municipality of Barlig, Mountain Province.ℒαwρhi৷
+The main campus of Barlig National Agricultural and Vocational High School shall continue to remain in its present location in Barangay Lingoy, Municipality of Barlig, Mountain Province.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There are hereby created five hundred positions of letter-carrier in the Bureau of Posts at a salary of one thousand four hundred and forty pesos per annum each, priority to be given to municipalities or municipal districts where there is mail to be distributed but whose post offices do not have letter-carriers. Increases in those towns having mail service will be made in accordance with the following factors: area, population and volume of mail to be distributed.1âшphi1
+There are hereby created five hundred positions of letter-carrier in the Bureau of Posts at a salary of one thousand four hundred and forty pesos per annum each, priority to be given to municipalities or municipal districts where there is mail to be distributed but whose post offices do not have letter-carriers. Increases in those towns having mail service will be made in accordance with the following factors: area, population and volume of mail to be distributed.
 
 ## Section 2
 

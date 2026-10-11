@@ -29,7 +29,7 @@ The existing Land Transportation Office (LTO) Extension Office in the Municipali
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO Extension Office in the Municipality of Pili, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO Extension Office in the Municipality of Pili, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

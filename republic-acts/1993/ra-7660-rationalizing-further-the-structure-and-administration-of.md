@@ -154,7 +154,7 @@ Section 196 of the National Internal Revenue Code, as amended, is hereby further
 
 "Section 196. Stamp tax on deeds of sale and conveyance of real property. - On all conveyances, deeds, instruments, or writings, other than grants, patents, or original certificates of adjudication issued by the Government, whereby any lands, tenements or other realty sold shall be granted, assigned, transferred, or otherwise conveyed to the purchaser, or purchasers, or to any other person or persons designated by such purchaser or purchasers, there shall be collected a documentary stamp tax at the following rates:
 
-"(a) When the consideration, or value received or contracted to be paid for such realty, after making proper allowance of any encumbrance, does not exceed one thousand pesos, Fifteen pesos (P15.00).1âшphi1
+"(a) When the consideration, or value received or contracted to be paid for such realty, after making proper allowance of any encumbrance, does not exceed one thousand pesos, Fifteen pesos (P15.00).
 
 "(b) For each additional one thousand pesos, or fractional part thereof in excess of one thousand pesos of such consideration or value, Fifteen pesos (P15.00).
 

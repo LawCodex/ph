@@ -58,7 +58,7 @@ _Mobile Disaster Alerts. –_ In the event of an impending tropical storm, typho
 
 The alerts shall consist of up-to-date information from the relevant agencies, and shall be sent directly to the mobile phone subscribers located near and within the affected areas. The alerts shall include contact information of local government units and other agencies required to respond to the situation. The alerts may contain other relevant information such as, but not limited to, evacuation areas, relief sites and pick-up points.
 
-The alerts shall be at no cost, whether direct or indirect, to the consumers; and shall be included as part of the service providers auxiliary service.1âwphi1 The alerts may be in the form of SMS (text messages), MMS, or email, as needed and appropriate.
+The alerts shall be at no cost, whether direct or indirect, to the consumers; and shall be included as part of the service providers auxiliary service. The alerts may be in the form of SMS (text messages), MMS, or email, as needed and appropriate.
 
 ## Section 5
 

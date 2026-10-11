@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of St. Anthony Mother and Child Hospital (SAMCH) is hereby increased from twenty-five (25) to two hundred (200) beds.1âwphi1
+The bed capacity of St. Anthony Mother and Child Hospital (SAMCH) is hereby increased from twenty-five (25) to two hundred (200) beds.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The name of the Balangkayan Municipal High School in the Municipality of Balangk
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

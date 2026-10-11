@@ -29,6 +29,8 @@ Section 1 of Republic Act No. 8531 is hereby amended to read as follows:
 
 "Section 1. _Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Ipil Telephone Company, Inc., hereunder referred to as the grantee, its successors or assigns, a franchise to construct, establish, install, maintain and operate for commercial purposes and in the public interest, local exchange network, including public calling stations or pay telephone stations or wireless local loop and for such purposes provide basic telephone service or other means related to the foregoing now known to science or which in the future may be developed, in the municipalities of the Third District of the Province of Zamboanga del Sur, with extension access to the municipalities of Labason and Liloy, Province of Zamboanga del Norte, for public domestic telecommunications."
 
-**Section 2._Effectivity._** \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines.
+## Section 2
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved, **December 5, 2000**

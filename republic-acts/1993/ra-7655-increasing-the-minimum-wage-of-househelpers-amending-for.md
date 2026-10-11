@@ -50,7 +50,7 @@ Any violation of any provision of this Act shall be punished with an imprisonmen
 
 ## Section 3
 
-Any law, executive order, letter of instruction, or any part thereof, which is inconsistent with any of the provisions of this Act is hereby repealed or amended accordingly.1a⍵⍴h!1
+Any law, executive order, letter of instruction, or any part thereof, which is inconsistent with any of the provisions of this Act is hereby repealed or amended accordingly.
 
 ## Section 4
 

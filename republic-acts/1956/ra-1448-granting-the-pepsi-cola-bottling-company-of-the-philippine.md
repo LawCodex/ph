@@ -48,7 +48,7 @@ The grantee, its successors or assigns, shall so construct and operate its radio
 
 ## Section 7
 
-The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1awp++i1
+The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 8
 
@@ -56,7 +56,7 @@ The grantee, its successors or assigns, shall hold the national, provincial, cit
 
 ## Section 9
 
-This temporary permit shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.1avvphi11âшphi1
+This temporary permit shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 10
 

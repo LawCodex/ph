@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of two hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, which sum shall be placed at the disposal of the Department of Health for the study of schistosomiasis, its cause, prevention and cure in coordination with the Institute of Science.£a⩊phi£
+The sum of two hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, which sum shall be placed at the disposal of the Department of Health for the study of schistosomiasis, its cause, prevention and cure in coordination with the Institute of Science.
 
 ## Section 2
 

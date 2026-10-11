@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in Barangay Lipit, Municipality of Cabugao, Province of Ilocos Sur, to be known as Lipit National High School.1aшphi1
+There shall be established a national high school in Barangay Lipit, Municipality of Cabugao, Province of Ilocos Sur, to be known as Lipit National High School.
 
 ## Section 2
 

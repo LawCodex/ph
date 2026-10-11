@@ -29,7 +29,7 @@ Callao Cave and its premises located at Callao, Municipality of Penablanca, Prov
 
 ## Section 2
 
-The Department of Tourism, in coordination with the Department of Environment and Natural Resources and other government agencies concerned, shall, within one (1) year from the approval of this Act, prepare a tourism development plan for Callao Cave and its premises, which shall provide for the construction, improvement and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area.1âшphi1
+The Department of Tourism, in coordination with the Department of Environment and Natural Resources and other government agencies concerned, shall, within one (1) year from the approval of this Act, prepare a tourism development plan for Callao Cave and its premises, which shall provide for the construction, improvement and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area.
 
 ## Section 3
 

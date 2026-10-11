@@ -42,7 +42,7 @@ All the apparatus and appurtenances to be used by the grantee shall be modern, s
 
 ## Section 5
 
-If the grantee shall not commence the manufacture and distribution of ice in the municipalities of Bayugan and Prosperidad, Province of Agusan, within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee’s control, this franchise shall be null and void.1avvphi1
+If the grantee shall not commence the manufacture and distribution of ice in the municipalities of Bayugan and Prosperidad, Province of Agusan, within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee’s control, this franchise shall be null and void.
 
 ## Section 6
 

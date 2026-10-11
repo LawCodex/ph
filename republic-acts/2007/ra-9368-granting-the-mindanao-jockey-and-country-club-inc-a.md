@@ -28,13 +28,21 @@ AN ACT GRANTING THE MINDANAO JOCKEY AND COUNTRY CLUB, INC., A FRANCHISE TO CONST
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Nature and Scope of Franchise._** \- Any provision of law to the contrary notwithstanding, there is hereby granted to the Mindanao Jockey and Country Club, Inc., a corporation duly organized and registered under the laws of the Philippines, hereinafter referred to as the grantee, a franchise to construct, operate and maintain one racetrack in Davao City, establish such branches thereof for booking purposes anywhere in the Philippines, and hold or conduct horse races with bettings on the results of races, either directly or by means of any mechanical, electrical and/or computerized totalizator, and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing: Provided, That the establishment of off-track betting stations anywhere in the country shall be subject to the approval/consent of the local government units where the off-track betting station shall be established, and in case of a municipality or component city, approval or consent of the provincial government shall likewise be obtained.
+## SECTION 1
 
-**SEC. 2._Authority of the Philippine Racing Commission and the Games and Amusement Board (GAB) ._** \- The races to be conducted by the grantee shall be under the supervision and regulation of the Philippine Racing Commission, which shall enforce the laws, rules and regulations governing horse racing, including the framing and scheduling of races, the construction and safety of racetracks, the allocation of prizes for winning horses and the security of racing. All racing officials and personnel of the grantee shall be duly licensed by the Philippine Racing Commission pursuant to Presidential Decree No. 420, as amended: Provided, That the personnel directly involved in betting shall be licensed by the GAB, and the GAB shall continue to supervise and regulate the betting in horse races as provided in Sections 6, 11, 15, 18 and 24 of Republic Act No. 309 or the Act to Regulate Horse Racing in the Philippines, as amended.
+_Nature and Scope of Franchise._ \- Any provision of law to the contrary notwithstanding, there is hereby granted to the Mindanao Jockey and Country Club, Inc., a corporation duly organized and registered under the laws of the Philippines, hereinafter referred to as the grantee, a franchise to construct, operate and maintain one racetrack in Davao City, establish such branches thereof for booking purposes anywhere in the Philippines, and hold or conduct horse races with bettings on the results of races, either directly or by means of any mechanical, electrical and/or computerized totalizator, and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing: Provided, That the establishment of off-track betting stations anywhere in the country shall be subject to the approval/consent of the local government units where the off-track betting station shall be established, and in case of a municipality or component city, approval or consent of the provincial government shall likewise be obtained.
 
-**SEC. 3._Term of Franchise._** \- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act unless sooner revoked or cancelled. The grantee shall secure from the Department of Environment and Natural Resources, the Department of Land Reform and such other government agencies concerned the necessary environmental compliance certificate and other permits for the construction of its racetrack within three years from the effectivity of this Act. The grantee shall commence operation within three years from the start of such construction.
+## SEC. 2
 
-**SEC. 4._Computerized and/or Mechanical Devices._** \- The grantee shall provide and operate, and is hereby authorized to do and carry out all such acts, deeds and things as may be necessary for the effective conduct of the business under this franchise, and to achieve an orderly, clean and honest horse racing in the conduct thereof, the grantee shall in particular, provide and operate any mechanical, electrical and/or computerized devices, equipment and facilities, including, but not limited to:
+_Authority of the Philippine Racing Commission and the Games and Amusement Board (GAB) ._ \- The races to be conducted by the grantee shall be under the supervision and regulation of the Philippine Racing Commission, which shall enforce the laws, rules and regulations governing horse racing, including the framing and scheduling of races, the construction and safety of racetracks, the allocation of prizes for winning horses and the security of racing. All racing officials and personnel of the grantee shall be duly licensed by the Philippine Racing Commission pursuant to Presidential Decree No. 420, as amended: Provided, That the personnel directly involved in betting shall be licensed by the GAB, and the GAB shall continue to supervise and regulate the betting in horse races as provided in Sections 6, 11, 15, 18 and 24 of Republic Act No. 309 or the Act to Regulate Horse Racing in the Philippines, as amended.
+
+## SEC. 3
+
+_Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act unless sooner revoked or cancelled. The grantee shall secure from the Department of Environment and Natural Resources, the Department of Land Reform and such other government agencies concerned the necessary environmental compliance certificate and other permits for the construction of its racetrack within three years from the effectivity of this Act. The grantee shall commence operation within three years from the start of such construction.
+
+## SEC. 4
+
+_Computerized and/or Mechanical Devices._ \- The grantee shall provide and operate, and is hereby authorized to do and carry out all such acts, deeds and things as may be necessary for the effective conduct of the business under this franchise, and to achieve an orderly, clean and honest horse racing in the conduct thereof, the grantee shall in particular, provide and operate any mechanical, electrical and/or computerized devices, equipment and facilities, including, but not limited to:
 
 (a) Photo patrol and/or other electronic devices or camera:
 
@@ -64,13 +72,21 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The GAB shall assign its auditors and/or inspectors to supervise and regulate the placing of bets, the proper computation of dividends and the distribution of wager funds.
 
-**SEC. 5._Offering, Taking or Arranging Bets for Races._** \- The grantee or its duly authorized agent may offer, take or arrange bets for races conducted in or outside the Philippines, in person or by any electronic or other means of processing transactions, anywhere in the Philippines, whether within or outside the place, enclosure, or track where horses are held, in on-track or off-track betting stations, a day in advance of and/or during scheduled races held or conducted within or outside the Philippines. No other entity or person other than the grantee or its duly authorized agents or licensees shall offer, take or arrange any bets on any horse participating in any race conducted by the same, or maintain or use a totalizator or any other device, method or system to bet on any horse within its premises or outside the same enclosure or track in the course of horse races conducted and/or operated by the same grantee.
+## SEC. 5
 
-**SEC. 6._Penalties._** \- Any person or persons found to have violated the provisions of the aforementioned section shall be punished by a fine of not less than Twenty thousand pesos (P20,000.00) but not more than One hundred thousand pesos (P100,000.00) or by imprisonment of a minimum of six months and a maximum of one year, or both, at the discretion of the court. If the offender is a corporation, partnership or association the criminal liability shall devolve upon its president, managing partner or manager responsible for such violation.
+_Offering, Taking or Arranging Bets for Races._ \- The grantee or its duly authorized agent may offer, take or arrange bets for races conducted in or outside the Philippines, in person or by any electronic or other means of processing transactions, anywhere in the Philippines, whether within or outside the place, enclosure, or track where horses are held, in on-track or off-track betting stations, a day in advance of and/or during scheduled races held or conducted within or outside the Philippines. No other entity or person other than the grantee or its duly authorized agents or licensees shall offer, take or arrange any bets on any horse participating in any race conducted by the same, or maintain or use a totalizator or any other device, method or system to bet on any horse within its premises or outside the same enclosure or track in the course of horse races conducted and/or operated by the same grantee.
 
-**SEC. 7._Terms of Betting Tickets._** \- The grantee shall publish and display prominently and in appropriate places the terms and conditions regarding the sale of betting tickets.
+## SEC. 6
 
-**SEC. 8._Distribution of Total Wager Funds or Gross Receipts._** \- The total wager funds or gross receipts from the sale of betting tickets shall be apportioned as follows:
+_Penalties._ \- Any person or persons found to have violated the provisions of the aforementioned section shall be punished by a fine of not less than Twenty thousand pesos (P20,000.00) but not more than One hundred thousand pesos (P100,000.00) or by imprisonment of a minimum of six months and a maximum of one year, or both, at the discretion of the court. If the offender is a corporation, partnership or association the criminal liability shall devolve upon its president, managing partner or manager responsible for such violation.
+
+## SEC. 7
+
+_Terms of Betting Tickets._ \- The grantee shall publish and display prominently and in appropriate places the terms and conditions regarding the sale of betting tickets.
+
+## SEC. 8
+
+_Distribution of Total Wager Funds or Gross Receipts._ \- The total wager funds or gross receipts from the sale of betting tickets shall be apportioned as follows:
 
 (a) Eighty-two percent (82%) shall be distributed in the form of dividends among the holders of the winning ticket, whether from pari-mutuel, daily double, forecast, llave, quinello, trifecta, or any other manner of betting;
 
@@ -80,7 +96,9 @@ The GAB shall assign its auditors and/or inspectors to supervise and regulate th
 
 (d) One percent (1%) shall be set aside for the use of the Philippine Racing Commission: Provided, That in the case of gross receipts derived from the total sale for pari-mutuel races the one percent (1%) government share shall be set aside for the use of the GAB.
 
-**SEC. 9._Breakage._** \- The receipts from betting corresponding to the fractions of less than Ten centavos (P0.10) eliminated from the dividends paid to the winning tickets commonly known as breakage, shall be set aside as follows:
+## SEC. 9
+
+_Breakage._ \- The receipts from betting corresponding to the fractions of less than Ten centavos (P0.10) eliminated from the dividends paid to the winning tickets commonly known as breakage, shall be set aside as follows:
 
 (a) Fifty percent (50%) for the benefit of the Philippine Racing Commission, subject to the condition that the funds shall be used exclusively for the payment of additional prizes for the races sponsored by the Philippine Racing Commission and for the necessary capital outlays and other expenditures relative to horse breeding activities of the National Stud Farm;
 
@@ -90,23 +108,39 @@ The GAB shall assign its auditors and/or inspectors to supervise and regulate th
 
 **_SEC. 10. Schedule of Races._** \- The provisions of any existing law, executive or administrative order to the contrary notwithstanding, the grantee is hereby authorized to hold races on at least two days during the week as may be determined by the Philippine Racing Commission and all Saturdays, Sundays and official holidays of the year, excluding Thursdays and Fridays of the Holy Week, and those official holidays where the law expressly provides that no races are to be held. The grantee may also conduct races on the eve of any public holiday to start not earlier than five o'clock in the afternoon, but not to exceed five days in a year. The grantee shall allocate racing days pursuant to the provisions of Republic Act No. 309, as amended.
 
-**SEC. 11._Tax Provision._** \- The grantee shall be liable to pay income tax under the National Internal Revenue Code and all other tax laws applicable under the Tax Reform Act of 1997, as amended.
+## SEC. 11
 
-**SEC. 12._Nontransferability of Franchise._** \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign or otherwise dispose of the rights and privileges acquired hereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity organized for the same purpose without the approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions and limitations of this Act. Any transfer of franchise in violation of this section shall render the franchise ipso facto revoked.
+_Tax Provision._ \- The grantee shall be liable to pay income tax under the National Internal Revenue Code and all other tax laws applicable under the Tax Reform Act of 1997, as amended.
 
-**SEC. 13._Warranty in Favor of National and Local Governments._** \- The grantee shall hold the national, provincial and municipal governments of the Philippines free from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or persons, caused by the construction or operation of the racetracks of the grantee.
+## SEC. 12
 
-**SEC. 14._Acceptance and Compliance._** \- Acceptance of this franchise shall be given in writing within sixty (60) days after the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
+_Nontransferability of Franchise._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign or otherwise dispose of the rights and privileges acquired hereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity organized for the same purpose without the approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions and limitations of this Act. Any transfer of franchise in violation of this section shall render the franchise ipso facto revoked.
 
-**SEC. 15._Reportorial Requirement._** \- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of the franchise and on its operations within sixty (60) days from the end of every year.
+## SEC. 13
+
+_Warranty in Favor of National and Local Governments._ \- The grantee shall hold the national, provincial and municipal governments of the Philippines free from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or persons, caused by the construction or operation of the racetracks of the grantee.
+
+## SEC. 14
+
+_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing within sixty (60) days after the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
+
+## SEC. 15
+
+_Reportorial Requirement._ \- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of the franchise and on its operations within sixty (60) days from the end of every year.
 
 **SEC. l6._Equality Clause._** \- Any advantage, favor, privilege, exemption or immunity granted under existing franchises or may hereafter be granted shall ipso facto become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: Provided, however, That any advantage, favor, privilege, exemption or immunity granted under this franchise shall also ipso facto become part of existing and future franchises: Provided, further, That the foregoing shall neither apply to nor affect the provisions concerning territory covered by the franchise and the life span of the franchise.
 
-**SEC. 17._Separability Clause._** \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
+## SEC. 17
 
-**SEC. 18._Repealability and Nonexclusivity Clause._ **\- This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
-**SEC. 19._Effectivity._** \- This Act shall take effect fifteen (15) days from the date of its publication in at least two newspapers of general circulation in the Philippines.
+## SEC. 18
+
+_Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+## SEC. 19
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Honorable Millard E. Tydings, United States Senator from Maryland and the Honorable John McDuffie, former Member of the House of Representatives of the United States from the First District of Alabama, are hereby adopted as sons of the Philippines and conferred all the rights, privileges, and prerogatives of Philippine citizenship.1a⍵⍴h!1
+The Honorable Millard E. Tydings, United States Senator from Maryland and the Honorable John McDuffie, former Member of the House of Representatives of the United States from the First District of Alabama, are hereby adopted as sons of the Philippines and conferred all the rights, privileges, and prerogatives of Philippine citizenship.
 
 ## Section 2
 

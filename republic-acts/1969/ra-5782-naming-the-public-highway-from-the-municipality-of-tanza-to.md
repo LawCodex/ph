@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The public highway from the Municipality of Tanza to the Municipality of Naic in the Province of Cavite is hereby named Antero Soriano Avenue.1âшphi1
+The public highway from the Municipality of Tanza to the Municipality of Naic in the Province of Cavite is hereby named Antero Soriano Avenue.
 
 ## Section 2
 

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The term of the franchise of the Concepcion Industries, Incorporated, or its successors or assigns, under Republic Act Numbered Thirty-nine hundred and thirty-two, is hereby renewed to another twenty-five years from the date of the effectivity of this Act.
 
-Any provision of Republic Act Numbered Thirty-nine hundred and thirty-two to the contrary notwithstanding, the grantee shall pay franchise, income and other taxes as provided for in Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.1âшphi1
+Any provision of Republic Act Numbered Thirty-nine hundred and thirty-two to the contrary notwithstanding, the grantee shall pay franchise, income and other taxes as provided for in Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
 
 ## Section 2
 

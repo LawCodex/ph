@@ -73,7 +73,7 @@ Section seventeen of the same Act, as amended, is further amended to read as fol
 
 Section twenty-four of the same Act, as amended, is further amended to read as follows:
 
-"Sec. 24. _Driver’s license, fees, examination._ -Every person who desires personally to operate any motor vehicle shall make application to the Chief, Motor Vehicles Office or his deputies for a license to drive motor vehicles: _Provided,_ However, That no person shall be issued a professional chauffeur’s license who is suffering from highly contagious diseases, such as, advanced tuberculosis, gonorrhea, syphilis, and the like.1aшphi1
+"Sec. 24. _Driver’s license, fees, examination._ -Every person who desires personally to operate any motor vehicle shall make application to the Chief, Motor Vehicles Office or his deputies for a license to drive motor vehicles: _Provided,_ However, That no person shall be issued a professional chauffeur’s license who is suffering from highly contagious diseases, such as, advanced tuberculosis, gonorrhea, syphilis, and the like.
 
 "Each such application except in the case of enlisted men operating Government owned vehicles shall be accompanied by a fee of five pesos, and shall contain such information respecting the applicant and his ability to operate motor vehicles, as may be required by the Chief, Motor Vehicles Office.
 

@@ -28,7 +28,7 @@ The sum of two hundred thousand pesos is hereby appropriated, out of any funds i
 
 ## Section 2
 
-The Secretary of Education shall promulgate such rules and regulations as may be necessary for the effective operation of the said project.1âшphi1
+The Secretary of Education shall promulgate such rules and regulations as may be necessary for the effective operation of the said project.
 
 ## Section 3
 

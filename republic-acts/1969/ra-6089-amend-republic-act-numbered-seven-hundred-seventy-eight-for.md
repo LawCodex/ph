@@ -104,6 +104,6 @@ Section seventeen of the same Act is amended to read as follows:
 
 ## Section 13
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

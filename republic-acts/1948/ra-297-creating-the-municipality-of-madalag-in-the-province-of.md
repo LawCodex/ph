@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The arrabal of Madalag, municipality of Libacao, Province of Capiz, is hereby separated from Libacao and created and constituted into a new and separate municipality to be known as the municipality of Madalag.1aшphi1
+The arrabal of Madalag, municipality of Libacao, Province of Capiz, is hereby separated from Libacao and created and constituted into a new and separate municipality to be known as the municipality of Madalag.
 
 ## Section 2
 

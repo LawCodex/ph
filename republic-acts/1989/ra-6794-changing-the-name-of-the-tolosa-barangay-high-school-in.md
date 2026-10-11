@@ -29,7 +29,7 @@ The name of the Tolosa Barangay High School in Tolosa, Leyte, is hereby changed 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

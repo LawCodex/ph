@@ -92,7 +92,7 @@ Any government official or employee who fails without justifiable reason to prov
 
 ## SECTION 8
 
-_Funding._ — Such amount necessary to carry out the implementation of this Act shall be sourced from the current General Appropriations Act (GAA).1âwphi1
+_Funding._ — Such amount necessary to carry out the implementation of this Act shall be sourced from the current General Appropriations Act (GAA).
 
 ## SECTION 9
 

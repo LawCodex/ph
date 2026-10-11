@@ -32,7 +32,7 @@ The Barangay Abaroan Annex of the Roxas National Comprehensive High School in Ro
 
 ## Section 2
 
-All assets, immovable and movable, and records of Roxas National Comprehensive High School Annex at Barangay Abaroan, as well as its liabilities or obligations, are hereby transferred to the Abaroan National High School: _Provided, however_ , That the positions, rights and security of tenure of academic and nonacademic personnel who choose to remain and serve in the new school shall not be impaired.1aшphi1
+All assets, immovable and movable, and records of Roxas National Comprehensive High School Annex at Barangay Abaroan, as well as its liabilities or obligations, are hereby transferred to the Abaroan National High School: _Provided, however_ , That the positions, rights and security of tenure of academic and nonacademic personnel who choose to remain and serve in the new school shall not be impaired.
 
 ## Section 3
 

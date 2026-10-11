@@ -76,7 +76,7 @@ The sum of forty-three million two hundred thirty-six thousand six hundred eight
 
 ## Section 2
 
-The foregoing settlement of guerrilla and emergency issues (pre- and post-surrender issues) shall be without prejudice to any further settlement which may be effected by virtue of any sum of money which may be received by the Government of the Philippines from the Government of the United States as a result of posterior negotiations for the further redemption of such issues.£A⩊phi£
+The foregoing settlement of guerrilla and emergency issues (pre- and post-surrender issues) shall be without prejudice to any further settlement which may be effected by virtue of any sum of money which may be received by the Government of the Philippines from the Government of the United States as a result of posterior negotiations for the further redemption of such issues.
 
 ## Section 3
 

@@ -71,7 +71,7 @@ The appropriations herein provided shall be used exclusively and solely to cover
 
 ## Section 3
 
-Said sums shall thereafter be included in the annual General Appropriations Act.1a⍵⍴h!1
+Said sums shall thereafter be included in the annual General Appropriations Act.
 
 ## Section 4
 

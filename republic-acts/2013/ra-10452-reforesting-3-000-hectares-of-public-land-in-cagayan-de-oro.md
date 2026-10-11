@@ -50,7 +50,7 @@ _Separability Clause._ – Should any provision of this Act or any part thereof 
 
 ## Section 6
 
-_Repealing Clause._ – All laws, orders, issuances, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, orders, issuances, rules and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 7
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Tingloy, Maricaban, Payapa, Pisa, Gamao, and Talahib are hereby separated from the Municipality of Bauan, Province of Batangas, and constituted into a separate and independent municipality to be known as the Municipality of Tingloy in the Province of Batangas.1awp++i1 The seat of government of the newly constituted Municipality of Tingloy shall be located in the present site of the barrio of Tingloy.
+The barrios of Tingloy, Maricaban, Payapa, Pisa, Gamao, and Talahib are hereby separated from the Municipality of Bauan, Province of Batangas, and constituted into a separate and independent municipality to be known as the Municipality of Tingloy in the Province of Batangas. The seat of government of the newly constituted Municipality of Tingloy shall be located in the present site of the barrio of Tingloy.
 
 ## Section 2
 

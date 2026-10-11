@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Zaragosa Nationa
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ All personnel, assets, liabilities and records of the Zaragosa National School - Cantiasay Annex are hereby transferred to and absorbed by the Cantiasay National High School.ᇈWᑭHIL
+_Transfer of Assets and Liabilities._ All personnel, assets, liabilities and records of the Zaragosa National School - Cantiasay Annex are hereby transferred to and absorbed by the Cantiasay National High School.
 
 ## Section 3
 

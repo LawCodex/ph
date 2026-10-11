@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any person who shall locate or find the remains of the late Governor Hilario Abellana of Cebu shall be granted a reward of five thousand pesos.1aшphi1
+Any person who shall locate or find the remains of the late Governor Hilario Abellana of Cebu shall be granted a reward of five thousand pesos.
 
 ## Section 2
 

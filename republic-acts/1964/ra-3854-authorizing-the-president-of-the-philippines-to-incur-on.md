@@ -43,7 +43,7 @@ Seven million pesos in the fiscal year nineteen hundred sixty-six to nineteen hu
 
 ## Section 4
 
-All capital construction within the development program of the University of the Philippines for the College of Agriculture at Los Baños, irrespective of the source of funds, shall be carried out by, or under the control and supervision of, the University of the Philippines, and in particular Section nineteen hundred one and Section nineteen hundred seventeen of the Revised Administrative Code of the Philippines shall not apply to any such capital construction.1âшphi1
+All capital construction within the development program of the University of the Philippines for the College of Agriculture at Los Baños, irrespective of the source of funds, shall be carried out by, or under the control and supervision of, the University of the Philippines, and in particular Section nineteen hundred one and Section nineteen hundred seventeen of the Revised Administrative Code of the Philippines shall not apply to any such capital construction.
 
 ## Section 5
 

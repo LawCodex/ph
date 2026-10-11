@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Colonel Pedro Diaz Dulay is hereby granted Philippine citizenship.1a⍵⍴h!1
+Colonel Pedro Diaz Dulay is hereby granted Philippine citizenship.
 
 ## Section 2
 

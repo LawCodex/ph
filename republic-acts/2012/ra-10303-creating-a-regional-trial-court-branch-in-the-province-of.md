@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 There is hereby created a branch of the Regional Trial Court in the Third Judicial Region to be stationed at the Municipality of Casiguran, Province of Aurora.
 
-The Supreme Court shall assign the branch number of the newly-created Regional Trial Court branch in the Third Judicial Region.ℒαwρhi৷
+The Supreme Court shall assign the branch number of the newly-created Regional Trial Court branch in the Third Judicial Region.
 
 ## Section 2
 

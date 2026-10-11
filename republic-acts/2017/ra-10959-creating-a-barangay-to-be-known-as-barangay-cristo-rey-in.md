@@ -185,7 +185,7 @@ The technical description of Barangay Cristo Rey is as follows:
 <td>128.35</td>
 </tr>
 <tr>
-<td>15</td><cite>1âwphi1</cite>
+<td>15</td>
 <td>16</td>
 <td>N</td>
 <td>04</td>
@@ -204,7 +204,7 @@ The technical description of Barangay Cristo Rey is as follows:
 </tr>
 </table>
 
-Containing an area of 3,472,507 square meters, more or less.1awp++i1
+Containing an area of 3,472,507 square meters, more or less.
 
 ## Section 3
 

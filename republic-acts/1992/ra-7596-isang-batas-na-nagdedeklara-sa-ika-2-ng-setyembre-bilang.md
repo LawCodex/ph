@@ -25,7 +25,7 @@ Dapat pagtibayin ng Senado at ng Kapulungan ng mga Kinatawan ng Pilipinas na nga
 
 **SEKSYON 1.** Ang ika-2 ng Setyembre ng bawat taon ay sa pamamagitan dito idinedeklara bilang Araw ng Nueba Esiha at isang tanging walang pasok na araw sa lalawigan ng Nueba Esiha.
 
-**SEKSYON 2.** Ang Batas na ito ay magkakabisa labinlimang (15) araw pagkatapos na malathala ito sa isang pambansang pahayagan.1âшphi1
+**SEKSYON 2.** Ang Batas na ito ay magkakabisa labinlimang (15) araw pagkatapos na malathala ito sa isang pambansang pahayagan.
 
 Pinagtibay,
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-A regular district office of the Land Transportation Office (LTO) is hereby established in the City of Baybay, Province of Leyte.1âwphi1
+A regular district office of the Land Transportation Office (LTO) is hereby established in the City of Baybay, Province of Leyte.
 
 ## SECTION 2
 

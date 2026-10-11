@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Candual Elementary School in Barangay Candual, Municipality of Panay, Province of Capiz, shall hereafter be known as the Justice Jose Hontiveros Memorial School.1a⍵⍴h!1
+The Candual Elementary School in Barangay Candual, Municipality of Panay, Province of Capiz, shall hereafter be known as the Justice Jose Hontiveros Memorial School.
 
 ## Section 2
 

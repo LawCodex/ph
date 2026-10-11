@@ -28,7 +28,7 @@ The present seat of government of the Municipality of Siayan, Province of Zamboa
 
 ## Section 2
 
-The provisions of Republic Act Numbered Forty-nine hundred eighty-nine which are inconsistent with the provisions of this Act are hereby repealed.1âшphi1
+The provisions of Republic Act Numbered Forty-nine hundred eighty-nine which are inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

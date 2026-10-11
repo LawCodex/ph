@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section seven of Republic Act Numbered Five hundred and eighty-nine, as amended by Republic Act Numbered Seven hundred and twenty-four, is further amended to read as follows:
 
-"**Section 7.** This Act shall take effect upon its approval but, unless otherwise expressly extended by Congress, the increased rates of tax provided for in this Act shall continue in force and effect only until December thirty-one, nineteen hundred and fifty-four, after which period the actual rates of tax shall again be in force."1a⍵⍴h!1
+"**Section 7.** This Act shall take effect upon its approval but, unless otherwise expressly extended by Congress, the increased rates of tax provided for in this Act shall continue in force and effect only until December thirty-one, nineteen hundred and fifty-four, after which period the actual rates of tax shall again be in force."
 
 ## Section 2
 

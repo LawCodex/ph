@@ -60,7 +60,7 @@ Section one hundred and ninety-eight of the Revised Administrative Code is hereb
 
 "(g) For recording each sheriff’s return of sale, including the index and references, for each one hundred words, two pesos.
 
-"(h) For certified copies of records, such fees as are allowed by law copies of records kept by the register of deeds.1aшphi1
+"(h) For certified copies of records, such fees as are allowed by law copies of records kept by the register of deeds.
 
 "(i) For issuing a certificate relative to, or showing the existence or non-existence of an entry in the registration book, or a document on file, for each certificate containing not more than two hundred words, two pesos; if it exceeds that number, an additional fee of thirty centavos shall be collected for every one hundred words in excess of the first two hundred."
 

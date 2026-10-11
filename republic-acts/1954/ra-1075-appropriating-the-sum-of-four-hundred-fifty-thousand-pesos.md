@@ -24,7 +24,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-The sum of four hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury no otherwise appropriated, to carry out the provisions of Republic Act Numbered Seven hundred seventy-eight.1âшphi1 Thereafter, the necessary funds shall be included in the annual General Appropriations Act.
+The sum of four hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury no otherwise appropriated, to carry out the provisions of Republic Act Numbered Seven hundred seventy-eight. Thereafter, the necessary funds shall be included in the annual General Appropriations Act.
 
 ## Section 2
 

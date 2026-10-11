@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Cap-on in the Barrio of Candelaria, Municipality of Matag-ob, Province of Leyte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of San Sebastian.1âшphi1
+The sitio of Cap-on in the Barrio of Candelaria, Municipality of Matag-ob, Province of Leyte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of San Sebastian.
 
 ## Section 2
 

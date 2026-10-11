@@ -44,7 +44,7 @@ Calamba, Improvement P5,000.00"
 
 ## Section 3
 
-Item (cf), page 433, Group I, .subparagraph 26, for the Province of Laguna, paragraph c, Section two of Republic Act Numbered Twenty-seven hundred one, is amended to read as follows:1âшphi1
+Item (cf), page 433, Group I, .subparagraph 26, for the Province of Laguna, paragraph c, Section two of Republic Act Numbered Twenty-seven hundred one, is amended to read as follows:
 
 "(cf) Jose Rizal Shrine, Calamba,
 

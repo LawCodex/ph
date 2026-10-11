@@ -55,7 +55,7 @@ _Repealing Clause._ – All laws, decrees, executive orders, proclamations, rule
 
 ## Section 5
 
-_Implementation._ – The Secretary of Education shall issue the rules and regulations that may be necessary to carry out the purposes of this Act.1âwphi1
+_Implementation._ – The Secretary of Education shall issue the rules and regulations that may be necessary to carry out the purposes of this Act.
 
 ## Section 6
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Marbel 7 High School Annex in the Municipality of Koronadal, Province of South Cotabato, is hereby separated from the Marbel 7 High School (Main) and shall operate independently under the supervision of the Department of Education, Culture and Sports and be known as the Concepcion National High School.1aшphi1
+The Marbel 7 High School Annex in the Municipality of Koronadal, Province of South Cotabato, is hereby separated from the Marbel 7 High School (Main) and shall operate independently under the supervision of the Department of Education, Culture and Sports and be known as the Concepcion National High School.
 
 ## Section 2
 

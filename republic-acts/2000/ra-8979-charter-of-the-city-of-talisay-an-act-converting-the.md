@@ -499,7 +499,7 @@ The city mayor may veto any ordinance of the sangguniang panlungsod on the groun
 
 The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, any public investment program or an ordinance directing the payment of money or creating liability. In such case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed enacted.
 
-The city mayor may veto an ordinance or resolution only once.ℒαwρhi৷ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 17
 
@@ -985,7 +985,7 @@ Perform such other duties and functions, and exercise such other powers as provi
 
 _The City Veterinarian._ -
 
-The city veterinarian must be a citizen of the Philippines, a resident of the City of Talisay, of good moral character, and a licensed doctor of veterinary medicine.ℒαwρhi৷ He must have practiced his profession for at least three (3) years immediately preceding the date of his appointment.
+The city veterinarian must be a citizen of the Philippines, a resident of the City of Talisay, of good moral character, and a licensed doctor of veterinary medicine. He must have practiced his profession for at least three (3) years immediately preceding the date of his appointment.
 
 The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -1263,7 +1263,7 @@ The Secretary of Justice shall always assure the adequacy and quality of prosecu
 
 ### Section 51
 
-_Municipal Ordinances Existing at the Time of the Approval of this Act._ \- All municipal ordinances of the Municipality of Talisay existing at the time of the approval of this Act shall continue to be in force within the City of Talisay until the sangguniang panlungsod ordinance shall provide otherwise.ℒαwρhi৷
+_Municipal Ordinances Existing at the Time of the Approval of this Act._ \- All municipal ordinances of the Municipality of Talisay existing at the time of the approval of this Act shall continue to be in force within the City of Talisay until the sangguniang panlungsod ordinance shall provide otherwise.
 
 ### Section 52
 
@@ -1275,7 +1275,7 @@ _Officials of the City of Talisay._ \- The present elective officials of the Mun
 
 ### Section 54
 
-_Succession Clause._ \- The City of Talisay shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Talisay.ℒαwρhi৷
+_Succession Clause._ \- The City of Talisay shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Talisay.
 
 ### Section 55
 

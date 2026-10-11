@@ -230,7 +230,7 @@ Duly registered and accredited Microfinance NGOs, as well as their clients, shal
 
 ## SECTION 21
 
-_Appropriations._ – The amount necessary to carry out the initial implementation of this Act shall be included in the General Appropriations, Act.1âwphi1
+_Appropriations._ – The amount necessary to carry out the initial implementation of this Act shall be included in the General Appropriations, Act.
 
 ## SECTION 22
 

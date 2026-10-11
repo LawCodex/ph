@@ -205,7 +205,7 @@ _Merit System._ \- All officials and employees of the Administration shall be se
 
 ## Section 17
 
-_Donations and Gifts._ \- The Administration may receive donations or bequests which shall be utilized only for implementation of programs and projects of the Administration: _Provided,_ That such programs and projects financed by foreign grants or loans with national security implications shall be approved by the national agency concerned which shall be deemed to have approved the same if it fails to act on the request from the Administration for such approval within thirty (30) days from receipt thereof. Any such donations or bequests shall be exempt from the payment of gift taxes and the full amount of such donations or bequests shall be deductible from the gross income of the donor for the year during which the same is made.1a⍵⍴h!1
+_Donations and Gifts._ \- The Administration may receive donations or bequests which shall be utilized only for implementation of programs and projects of the Administration: _Provided,_ That such programs and projects financed by foreign grants or loans with national security implications shall be approved by the national agency concerned which shall be deemed to have approved the same if it fails to act on the request from the Administration for such approval within thirty (30) days from receipt thereof. Any such donations or bequests shall be exempt from the payment of gift taxes and the full amount of such donations or bequests shall be deductible from the gross income of the donor for the year during which the same is made.
 
 ## Section 18
 

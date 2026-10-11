@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Jipapad Barangay High School in the Municipality of Jipapad, Province of Eastern Samar, is hereby changed to Jipapad High School.1âшphi1
+The name of the Jipapad Barangay High School in the Municipality of Jipapad, Province of Eastern Samar, is hereby changed to Jipapad High School.
 
 ## Section 2
 

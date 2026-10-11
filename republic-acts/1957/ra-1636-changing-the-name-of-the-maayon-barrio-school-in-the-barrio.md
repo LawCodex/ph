@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Maayon Barrio School in the barrio of Maayon, Municipality of Pontevedra, Province of Capiz, is hereby changed to Arturo Cantiller Memorial School.1âшphi1
+The name of Maayon Barrio School in the barrio of Maayon, Municipality of Pontevedra, Province of Capiz, is hereby changed to Arturo Cantiller Memorial School.
 
 ## Section 2
 

@@ -421,7 +421,7 @@ _Veto Power of the City Mayor._ -
 
 (b) The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan and public investment program, or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
 
-(c) The city mayor may veto an ordinance or resolution only once.Ꮮαwρhi৷ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+(c) The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 17
 
@@ -871,7 +871,7 @@ _The City Information Officer._ -
 
 (a) The city information officer must be a citizen of the Philippines, a resident of the City of Valenzuela, of good moral character, a holder of a college degree preferably in journalism, mass communication or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in writing articles and research papers, or in writing for print, television or broadcast media for at least five (5) years immediately preceding the date of his appointment.
 
-(b) The city information officer shall receive such compensation, emoluments and allowances as may be determined by law.Ꮮαwρhi৷
+(b) The city information officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city information officer shall take charge of the office on public information, and shall:
 
@@ -927,7 +927,7 @@ _The City Veterinarian._ -
 
 (a) The city veterinarian must be a citizen of the Philippines, a resident of the City of Valenzuela, of good moral character, and a licensed doctor of veterinary medicine. He must have practiced his profession for at least three (3) years immediately preceding the date of his appointment.
 
-(b) The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.Ꮮαwρhi৷
+(b) The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city veterinarian shall take charge of the office of veterinary services, and shall:
 

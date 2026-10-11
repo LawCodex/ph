@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 There is created in the Office of the President of the Philippines a Pension Commission composed of the Secretary of Labor, as chairman, and two others to be appointed by the President of the Philippines with the consent of the Commission on Appointments, as members, one to represent the interests of the employers and the other to represent the interests of the employees and laborers. The General Manager of the Government Service Insurance System shall be the Adviser and a member ex officio of the said Commission. With the exception of the Secretary of Labor, the members of the Commission shall be entitled to receive per diem, to be fixed by the resident of the Philippines, not exceeding twenty pesos or every meeting of the Commission attended by them.
 
-The Commission may, with the consent of the corresponding head of any government department, agency, or corporation, use the services of any officer or employee therein.£A⩊phi£
+The Commission may, with the consent of the corresponding head of any government department, agency, or corporation, use the services of any officer or employee therein.
 
 ## Section 2
 

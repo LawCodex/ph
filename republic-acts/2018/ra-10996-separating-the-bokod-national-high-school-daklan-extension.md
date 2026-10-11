@@ -33,7 +33,7 @@ The Bokod National High School – Daklan Extension in Barangay Daklan, Municipa
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Bokod National High School – Daklan Extension are hereby transferred to and absorbed by the Daklan National High School.1âwphi1
+All personnel, assets, liabilities and records of the Bokod National High School – Daklan Extension are hereby transferred to and absorbed by the Daklan National High School.
 
 ## Section 3
 

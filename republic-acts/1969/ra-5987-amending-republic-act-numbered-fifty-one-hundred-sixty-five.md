@@ -61,4 +61,4 @@ All Acts, executive orders, administrative orders, proclamations, rules and regu
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

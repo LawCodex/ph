@@ -28,7 +28,7 @@ The following sitios are constituted into barrios in the Municipality of New Pi√
 
 1\. The sitios of Desin, Upper Disoy, San Fernando, San Vicente, Santa Fe, Sikitan, Dewacat, Dilawa and Lambog to be known as the barrio of Villarico; and
 
-2\. The sitios of Upper Boboringan, Lower Boboringan, Penacio, Bagong Silang and Situbo to be known as the barrio of Teresita.1a—àphi1
+2\. The sitios of Upper Boboringan, Lower Boboringan, Penacio, Bagong Silang and Situbo to be known as the barrio of Teresita.
 
 ## Section 2
 

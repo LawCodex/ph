@@ -34,7 +34,7 @@ The Basiawan National High School – Malagsom Extension in Barangay Buhangin, M
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Basiawan National High School – Malagsom Extension are hereby transferred to and absorbed by the Buhangin National High School.ᇈWᑭHIL
+All personnel, assets, liabilities and records of the Basiawan National High School – Malagsom Extension are hereby transferred to and absorbed by the Buhangin National High School.
 
 ## Section 3
 

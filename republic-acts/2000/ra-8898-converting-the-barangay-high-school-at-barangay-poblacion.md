@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Poblacion Barangay High School in the Municipality of Prosperidad, Province of Agusan del Sur is hereby absorbed by the national government and converted into a regular secondary school under the full control and supervision of the national government through the Department of Education, Culture and Sports.ℒαwρhi৷
+The Poblacion Barangay High School in the Municipality of Prosperidad, Province of Agusan del Sur is hereby absorbed by the national government and converted into a regular secondary school under the full control and supervision of the national government through the Department of Education, Culture and Sports.
 
 ## Section 2
 

@@ -664,6 +664,6 @@ The salary differentials resulting from the adjustments of salaries authorized i
 
 ## Section 5
 
-This Act shall take effect its approval.1a⍵⍴h!1
+This Act shall take effect its approval.
 
 Approved, August 4, 1969.

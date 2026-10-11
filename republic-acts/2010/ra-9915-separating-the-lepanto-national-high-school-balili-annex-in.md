@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Lepanto National
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Lepanto National High School - Balili Annex are hereby transferred to and absorbed by the Balili National High School.1avvphi1
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Lepanto National High School - Balili Annex are hereby transferred to and absorbed by the Balili National High School.
 
 ## Section 3
 

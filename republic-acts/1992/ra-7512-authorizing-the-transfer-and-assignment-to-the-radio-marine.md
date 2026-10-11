@@ -29,7 +29,7 @@ The sale, transfer and assignment to the Radio Marine Network, Incorporated, a c
 
 ## Section 2
 
-In compliance with the constitutional mandate to democratize ownership of public utilities, the herein grantee shall make public offering through the stock exchanges of at least thirty percent (30%) of its common stocks within a period of three (3) years from the date of effectivity of this Act. _Provided,_ That no single person or entity shall be allowed to own more than five percent (5%) of the stock offerings.1âшphi1
+In compliance with the constitutional mandate to democratize ownership of public utilities, the herein grantee shall make public offering through the stock exchanges of at least thirty percent (30%) of its common stocks within a period of three (3) years from the date of effectivity of this Act. _Provided,_ That no single person or entity shall be allowed to own more than five percent (5%) of the stock offerings.
 
 ## Section 3
 

@@ -28,15 +28,25 @@ AN ACT SEPARATING THE NUEVO DE FEBRERO ELEMENTARY SCHOOL-PLEASANT HILLS ANNEX IN
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Separation and Convertion into an Independent Elementary School._** \- The Nuevo de Febrero Elementary School-Pleasant Hills Annex in Barangay Pleasant Hills, City of Mandaluyong is hereby separated from Nuevo de Febrero Elementary School and converted into an independent elementary school to be known as the Pleasant Hills Elementary School.
+## Section 1
 
-**Section 2._Transfer of Assets and Liabilities._** \- All personnel, assets, liabilities and records of the Nuevo de Febrero Elementary School-Pleasant Hills Annex are hereby transferred to and absorbed by the Pleasant Hills Elementary School.
+_Separation and Convertion into an Independent Elementary School._ \- The Nuevo de Febrero Elementary School-Pleasant Hills Annex in Barangay Pleasant Hills, City of Mandaluyong is hereby separated from Nuevo de Febrero Elementary School and converted into an independent elementary school to be known as the Pleasant Hills Elementary School.
 
-**Section 3._Appropriations._** \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Pleasant Hills Elementary School, the initial funding if which shall be charged against the current year's appropriations of the Nuevo de Febrero Elementary School-Pleasant Hills Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+## Section 2
 
-**Section 4._Implementation._** \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Nuevo de Febrero Elementary School-Pleasant Hills Annex are hereby transferred to and absorbed by the Pleasant Hills Elementary School.
 
-**Section 5._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+## Section 3
+
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Pleasant Hills Elementary School, the initial funding if which shall be charged against the current year's appropriations of the Nuevo de Febrero Elementary School-Pleasant Hills Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+## Section 4
+
+_Implementation._ \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

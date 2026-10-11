@@ -142,7 +142,7 @@ I.—Salaries and Wages
 <td>P1,369,005.00</td>
 </tr>
 <tr>
-<td>General Headquarters</td><cite>1a⍵⍴h!1</cite>
+<td>General Headquarters</td>
 <td>P110,000.00</td>
 </tr>
 <tr>

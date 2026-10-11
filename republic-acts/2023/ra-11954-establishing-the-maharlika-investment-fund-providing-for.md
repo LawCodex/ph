@@ -516,7 +516,7 @@ The MIF-JCOC created under Section 38 hereof shall regularly be apprised of the 
 
 ### Section 44
 
-_Violation of Disqualification Provision-Penalties._ -A director or officer who willfully holds office while possessing any of the disqualifications or willfully conceals a ground for disqualification as provided for in Sections 20 and 22 of this Act shall be punished with a fine ranging from Five million pesos (P5,000,000.00 to Seven million pesos (P7,000,000.00) at the discretion of the court, and perpetual disqualification from holding public office. When the violation of this provision is injurious or detrimental to the public, the penalty shall be a fine ranging from Ten million pesos (P10,000,000,00) to Fifteen million pesos (P15.000.000.00).1âшphi1
+_Violation of Disqualification Provision-Penalties._ -A director or officer who willfully holds office while possessing any of the disqualifications or willfully conceals a ground for disqualification as provided for in Sections 20 and 22 of this Act shall be punished with a fine ranging from Five million pesos (P5,000,000.00 to Seven million pesos (P7,000,000.00) at the discretion of the court, and perpetual disqualification from holding public office. When the violation of this provision is injurious or detrimental to the public, the penalty shall be a fine ranging from Ten million pesos (P10,000,000,00) to Fifteen million pesos (P15.000.000.00).
 
 ### Section 45
 

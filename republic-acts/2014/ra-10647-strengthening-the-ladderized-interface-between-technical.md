@@ -104,7 +104,7 @@ For this purpose, the HEI shall be required to submit to the CHED Regional Offic
 
 ## Section 10
 
-_Academic Freedom._ – Nothing in this Act shall be construed as restricting the HEI in the exercise of its academic freedom.1âwphi1 The HEI shall retain the right to assess the level and standard of previously completed TVET programs by an applicant-student in a manner that is transparent and objective, incorporating therein its own admission requirements. The applicant-student must gain admission to the HEI’s undergraduate program by meeting the prescribed criteria and program requisites and such other requirements by the HEI.
+_Academic Freedom._ – Nothing in this Act shall be construed as restricting the HEI in the exercise of its academic freedom. The HEI shall retain the right to assess the level and standard of previously completed TVET programs by an applicant-student in a manner that is transparent and objective, incorporating therein its own admission requirements. The applicant-student must gain admission to the HEI’s undergraduate program by meeting the prescribed criteria and program requisites and such other requirements by the HEI.
 
 ## Section 11
 

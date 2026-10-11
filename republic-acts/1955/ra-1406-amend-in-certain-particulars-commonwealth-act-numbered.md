@@ -33,7 +33,7 @@ The second paragraph of section six of Commonwealth Act Numbered Three hundred a
 
 A new section is hereby inserted between sections ten and eleven of the same Act, to be known as section ten-A, which shall read as follows:
 
-"Sec. 10-A. _Relations between the City of Tagaytay and the Province of Cavite._ — The City of Tagaytay shall continue as part of the representative district of the Province of Cavite.1âшphi1 The voters of the city shall be entitled to vote in the election of the elective provincial officials of the province.
+"Sec. 10-A. _Relations between the City of Tagaytay and the Province of Cavite._ — The City of Tagaytay shall continue as part of the representative district of the Province of Cavite. The voters of the city shall be entitled to vote in the election of the elective provincial officials of the province.
 
 ## Section 3
 

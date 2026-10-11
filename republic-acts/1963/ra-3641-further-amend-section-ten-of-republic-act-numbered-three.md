@@ -31,7 +31,7 @@ Section ten of Republic Act Numbered Three hundred forty, as amended by Republic
 
 ## Section 2
 
-The sum of ninety thousand pesos or so much thereof as may be necessary is hereby appropriated out of any funds in the National Treasury not otherwise appropriated and made available to carry out the provisions of this Act during the first year of its implementation. Thereafter, the necessary funds for the same purpose shall be included in the annual appropriation for the Armed Forces of the Philippines.1âшphi1
+The sum of ninety thousand pesos or so much thereof as may be necessary is hereby appropriated out of any funds in the National Treasury not otherwise appropriated and made available to carry out the provisions of this Act during the first year of its implementation. Thereafter, the necessary funds for the same purpose shall be included in the annual appropriation for the Armed Forces of the Philippines.
 
 ## Section 3
 

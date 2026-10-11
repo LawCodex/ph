@@ -37,7 +37,7 @@ Section one, Rule ninety-three of the Rules of Court in the Philippines is hereb
 
 ## Section 3
 
-The rules of procedure provided for in the Rules of Court in the Philippines shall be followed so far as their application shall be practicable in the justice of the peace courts and municipal-courts of chartered cities.1a⍵⍴h!1
+The rules of procedure provided for in the Rules of Court in the Philippines shall be followed so far as their application shall be practicable in the justice of the peace courts and municipal-courts of chartered cities.
 
 ## Section 4
 

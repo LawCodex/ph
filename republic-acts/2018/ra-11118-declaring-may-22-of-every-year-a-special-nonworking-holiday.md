@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-May 22 of every year is hereby declared a special nonworking holiday in the Province of Guimaras in commemoration of its anniversary as a province.1âwphi1
+May 22 of every year is hereby declared a special nonworking holiday in the Province of Guimaras in commemoration of its anniversary as a province.
 
 ## Section 2
 

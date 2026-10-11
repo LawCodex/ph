@@ -92,7 +92,7 @@ _Exclusion of Jobstart Program Applicants as Beneficiaries._ \- The beneficiarie
 
 _Interpretation in Favor of the Applicant._ \- In all cases, any ambiguity in the interpretation of the provisions of this Act shall be in favor of the applicant.
 
-No government agency or instrumentality shall issue unduly restrictive regulations which will render nugatory the benefits provided under this Act.1âwphi1 Such shall constitute an administrative offense punishable under the Administrative Code and other pertinent laws.
+No government agency or instrumentality shall issue unduly restrictive regulations which will render nugatory the benefits provided under this Act. Such shall constitute an administrative offense punishable under the Administrative Code and other pertinent laws.
 
 ## Section 12
 

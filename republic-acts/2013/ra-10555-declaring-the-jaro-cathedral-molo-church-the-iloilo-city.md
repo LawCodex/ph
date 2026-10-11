@@ -48,7 +48,7 @@ The DOT, in coordination with the Iloilo City Cultural Heritage Conservation Cou
 
 ## Section 4
 
-_Implementing Rules and Regulations._ – The Secretary of the DOT, in consultation with the stakeholders and the Iloilo City Cultural Heritage Conservation Council, shall promulgate the necessary rules and regulations for the proper implementation of this Act.1âwphi1
+_Implementing Rules and Regulations._ – The Secretary of the DOT, in consultation with the stakeholders and the Iloilo City Cultural Heritage Conservation Council, shall promulgate the necessary rules and regulations for the proper implementation of this Act.
 
 ## Section 5
 

@@ -113,7 +113,7 @@ A new section is hereby inserted between Sections 11 and 12 of Presidential Decr
 
 "Section 11-A. _Settlement of Claims._ –
 
-"11-A. 1. Claims for indemnity against the Corporation shall be settled by the Corporation's regional manager concerned or the appropriate officer to whom he may delegate the function. However, if in the opinion of the regional manager the claim is novel, difficult or controversial, the matter may be elevated by the regional manager to the President of the Corporation for decision.1aшphi1
+"11-A. 1. Claims for indemnity against the Corporation shall be settled by the Corporation's regional manager concerned or the appropriate officer to whom he may delegate the function. However, if in the opinion of the regional manager the claim is novel, difficult or controversial, the matter may be elevated by the regional manager to the President of the Corporation for decision.
 
 "11-A. 2. The claimant aggrieved by the decision of the regional manager may within thirty (30) days from receipt of the decision, request for reconsideration thereof, and if not satisfied therewith, may elevate the matter to the President of the Corporation.
 

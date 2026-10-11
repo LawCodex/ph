@@ -249,7 +249,7 @@ The Monetary Board may also order the suspension or revocation of the certificat
 
 ## Section 20
 
-_Other Penalties and Sanctions._ \- Whenever any person or entity willfully violates this Act, rule or regulation, directives or orders duly promulgated by the Monetary Board pursuant hereto, the person or persons responsible for such violation shall be punished by a fine of not less than Two hundred thousand pesos (P200,000.00) or more than Two million pesos (P2,000,000.00) or by imprisonment of not less than two (2) years nor more than ten (10) years, or both, at the discretion of the court.1âwphi1
+_Other Penalties and Sanctions._ \- Whenever any person or entity willfully violates this Act, rule or regulation, directives or orders duly promulgated by the Monetary Board pursuant hereto, the person or persons responsible for such violation shall be punished by a fine of not less than Two hundred thousand pesos (P200,000.00) or more than Two million pesos (P2,000,000.00) or by imprisonment of not less than two (2) years nor more than ten (10) years, or both, at the discretion of the court.
 
 ## Section 21
 

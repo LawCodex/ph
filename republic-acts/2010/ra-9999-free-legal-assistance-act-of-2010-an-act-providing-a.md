@@ -58,7 +58,7 @@ _Incentives to Lawyers._ \- For purposes of this Act, a lawyer or professional p
 
 ## Section 6
 
-_Information, Education and Communication (IEC) Campaign._ \- The DOJ, in cooperation with the Philippine Information Agency (PIA), is hereby mandated to conduct an annual IEC campaign in order to inform the lawyers of the procedures and guidelines in availing tax deductions and inform the general public that a free legal assistance to those who cannot afford counsel is being provided by the State.1avvph!1
+_Information, Education and Communication (IEC) Campaign._ \- The DOJ, in cooperation with the Philippine Information Agency (PIA), is hereby mandated to conduct an annual IEC campaign in order to inform the lawyers of the procedures and guidelines in availing tax deductions and inform the general public that a free legal assistance to those who cannot afford counsel is being provided by the State.
 
 ## Section 7
 

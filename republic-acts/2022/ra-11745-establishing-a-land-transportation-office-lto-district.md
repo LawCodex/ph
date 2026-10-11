@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a Land Transportation Office (LTO) District Office in the Municipality of San Jose, Province of Dinagat Islands to be known as the Land Transportation Office - Dinagat Islands District Office.ᇈWᑭHIL
+There shall be established a Land Transportation Office (LTO) District Office in the Municipality of San Jose, Province of Dinagat Islands to be known as the Land Transportation Office - Dinagat Islands District Office.
 
 ## Section 2
 

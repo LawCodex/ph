@@ -32,7 +32,7 @@ There is hereby established a national high school in the Municipality of Alitag
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall promulgate the rules and regulations necessary for the effective implementation of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall promulgate the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

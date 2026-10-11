@@ -94,7 +94,7 @@ _Books and Accounts._ – The books and accounts of the grantee, its successors 
 
 ## Section 14
 
-_Warranty in Favor of National and Local Governments._ – The grantee shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations, transmitters, facilities, and equipment of the grantee.1aшphi1
+_Warranty in Favor of National and Local Governments._ – The grantee shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations, transmitters, facilities, and equipment of the grantee.
 
 ## Section 15
 

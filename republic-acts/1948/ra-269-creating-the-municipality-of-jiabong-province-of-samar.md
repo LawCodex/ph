@@ -28,7 +28,7 @@ The barrios of Jiabong, Jiaan, Malino, San Fernando, Casapa, Camoroboan, Lologay
 
 ## Section 2
 
-The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines, to hold office until their successors are elected and qualified.£a⩊phi£
+The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines, to hold office until their successors are elected and qualified.
 
 ## Section 3
 

@@ -81,7 +81,7 @@ Presidential Decree No. 1146, as amended, otherwise known as the **_"Revised Gov
 
 **_"B. MEMBERSHIP IN THE GSIS_**
 
-"SEC. 3._Compulsory Membership. -_ Membership in the GSIS shall be compulsory for all employees receiving compensation who have not reached the compulsory retirement age, irrespective of employment status, except members of the Armed Forces of the Philippines and the Philippine National Police, subject to the condition that they must settle first their financial obligation with the GSIS, and contractuals who have no employer and employee relationship with the agencies they serve.1aшphi1
+"SEC. 3._Compulsory Membership. -_ Membership in the GSIS shall be compulsory for all employees receiving compensation who have not reached the compulsory retirement age, irrespective of employment status, except members of the Armed Forces of the Philippines and the Philippine National Police, subject to the condition that they must settle first their financial obligation with the GSIS, and contractuals who have no employer and employee relationship with the agencies they serve.
 
 "Except for the members of the judiciary and constitutional commissions who shall have life insurance only, all members of the GSIS shall have life insurance, retirement, and all other social security protections such as disability, survivorship, separation, and unemployment benefits.
 
@@ -571,11 +571,17 @@ The Trustees, except the President and General Manager who shall cease as truste
 
 "SEC. 56._Appropriations. -_ The amount necessary to carry out the provisions of this Act shall be included in the respective budgets of the agencies in the national government obligation program of the year following its enactment into law and thereafter."
 
-**Section 2._Separability Clause._** \- Should any provision of this Act or any part thereof be declared invalid, the other provisions, so far as they are separable from the invalid ones, shall remain in force and effect.
+## Section 2
 
-**Section 3._Repealing Clause._** \- All laws and any other law or parts of law specifically inconsistent herewith are hereby repealed or modified accordingly: _Provided,_ That the rights under the existing laws, rules and regulations vested upon or acquired by an employee who is already in the service as of the effectivity of this Act shall remain in force and effect: _Provided, further,_ That subsequent to the effectivity of this Act, a new employee or an employee who has previously retired or separated and is reemployed in the service shall be covered by the provisions of this Act.
+_Separability Clause._ \- Should any provision of this Act or any part thereof be declared invalid, the other provisions, so far as they are separable from the invalid ones, shall remain in force and effect.
 
-**Section 4._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+## Section 3
+
+_Repealing Clause._ \- All laws and any other law or parts of law specifically inconsistent herewith are hereby repealed or modified accordingly: _Provided,_ That the rights under the existing laws, rules and regulations vested upon or acquired by an employee who is already in the service as of the effectivity of this Act shall remain in force and effect: _Provided, further,_ That subsequent to the effectivity of this Act, a new employee or an employee who has previously retired or separated and is reemployed in the service shall be covered by the provisions of this Act.
+
+## Section 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 This Act, which is a consolidation of Senate Bill No. 2013 and House Bill No. 8561, was finally passed by the Senate and the House of Representatives on May 29, 1997 and May 28, 1997, respectively.
 

@@ -66,11 +66,17 @@ The abovementioned tax exemptions, incentives, and fee privileges given to FIs a
 
 (iii) The two-year transfer and the five-year entitlement period granted to NPA shall also apply to said single family residential unit.
 
-**SECTION 3._Separability Clause._** \- If any provision of this Act is subsequently declared unconstitutional, the validity of the remaining provisions hereof shall remain in full force and effect.
+## SECTION 3
 
-**SECTION 4._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, rule or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+_Separability Clause._ \- If any provision of this Act is subsequently declared unconstitutional, the validity of the remaining provisions hereof shall remain in full force and effect.
 
-**SECTION 5._Effectivity._** \- This Act shall take effect fifteen(150 days following its complete publication in the Official Gazette or in at least two newspapers of general circulation.
+## SECTION 4
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, rule or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+## SECTION 5
+
+_Effectivity._ \- This Act shall take effect fifteen(150 days following its complete publication in the Official Gazette or in at least two newspapers of general circulation.
 
 Approved,
 

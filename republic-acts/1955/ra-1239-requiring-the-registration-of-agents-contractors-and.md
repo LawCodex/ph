@@ -32,7 +32,7 @@ The Secretary of Agriculture and Natural Resources shall issue such rules and re
 
 ## Section 3
 
-All persons found to be directly or indirectly responsible for the violation of this Act or of the rules and regulations issued thereunder shall be punished by a fine of not more than one thousand pesos or imprisonment of not more than one year.1âшphi1
+All persons found to be directly or indirectly responsible for the violation of this Act or of the rules and regulations issued thereunder shall be punished by a fine of not more than one thousand pesos or imprisonment of not more than one year.
 
 ## Section 4
 

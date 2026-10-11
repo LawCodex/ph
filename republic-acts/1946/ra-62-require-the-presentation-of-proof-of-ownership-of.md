@@ -42,7 +42,7 @@ The subject matter of said litigation, if any, shall escheat, also, to the State
 
 G. The issuer corporation or association shall report to the Securities and Exchange Commission within fifteen days after the expiration of the period prescribed in paragraph "A" and "C" of this section, its authorized capital stock, or, in case of bonds, the amount of issue authorized, the total number of securities outstanding, the total number of securities claimed, the total number of securities unclaimed, the total number of securities subject to conflicting claims, all cases against the issuer corporation or association concerning the ownership of securities, giving the names of the claimants and their respective holdings and/or subscriptions, the amount paid on subscription, if any, and such other material facts as said Commission may require.
 
-The Securities and Exchange Commission shall order the publication, at the expense of the issuer, of said report and invite the attention of the public thereto.1avvphi1
+The Securities and Exchange Commission shall order the publication, at the expense of the issuer, of said report and invite the attention of the public thereto.
 
 H. No action against the issuer corporation or association contesting the recognition of claim for ownership may be made after one year from the date of such recognition, except in case of fraud or bad faith, where an action may be filed within the period provided by law therefor.
 
@@ -74,7 +74,7 @@ One hundred thousand pesos or more but less than two hundred thousand pesos, thi
 
 Two hundred thousand pesos or more but less than three hundred thousand pesos, fifty pesos.
 
-Three hundred thousand pesos but less than four hundred thousand pesos, sixty-two pesos and fifty centavos.1â#x0448;phi1
+Three hundred thousand pesos but less than four hundred thousand pesos, sixty-two pesos and fifty centavos.
 
 Four hundred thousand pesos or more but less than five hundred thousand pesos, seventy-five pesos.
 

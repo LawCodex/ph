@@ -36,7 +36,7 @@ The Central Bank of the Philippines is hereby authorized to receive and hold spe
 
 ## Section 4
 
-All laws or parts of laws inconsistent with the provisions of this Act are hereby repealed.1a⍵⍴h!1
+All laws or parts of laws inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 5
 

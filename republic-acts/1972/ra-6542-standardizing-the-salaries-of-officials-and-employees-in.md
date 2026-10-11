@@ -106,7 +106,7 @@ The incumbents of the positions at the time of approval of this Act, whose salar
 
 ## Section 4
 
-In the implementation of the salary adjustment under this Act, the salary of an employee shall be place in the same step it had in its range as of June 30, 1970.1âшphi1
+In the implementation of the salary adjustment under this Act, the salary of an employee shall be place in the same step it had in its range as of June 30, 1970.
 
 ## Section 5
 

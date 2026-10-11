@@ -38,7 +38,7 @@ This franchise shall continue for a period of twenty-five years from the date th
 
 ## Section 4
 
-This franchise is granted subject to the provisions of Commonwealth Act Number One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.1avvphi1
+This franchise is granted subject to the provisions of Commonwealth Act Number One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.
 
 ## Section 5
 

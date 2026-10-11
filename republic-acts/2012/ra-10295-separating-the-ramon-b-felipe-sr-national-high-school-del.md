@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Ramon B. Felipe
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Ramon B. Felipe Sr. National High School – Del Rosario Annex are hereby transferred to and absorbed by the Del Rosario National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Ramon B. Felipe Sr. National High School – Del Rosario Annex are hereby transferred to and absorbed by the Del Rosario National High School.
 
 ## Section 3
 
@@ -96,7 +96,7 @@ The CMWG is an interagency body tasked to monitor alleged human rights violation
 
 The GPH Monitoring Committee (MC), the government component of the Joint Monitoring Committee formed to monitor compliance with the Comprehensive Agreement on the Respect for Human Rights and International Humanitarian Law (CARHRIHL), heads the CMWG with the Armed Forces of the Philippines (AFP), Philippine National Police (PNP) and Department of Justice (DOJ) as members.
 
-Deles said the TOR emphatically reaffirms the government’s commitment to uphold human rights and international humanitarian law.ℒαwρhi৷
+Deles said the TOR emphatically reaffirms the government’s commitment to uphold human rights and international humanitarian law.
 
 “More than simple terms of reference, this document, and the interagency cooperation it defines, embodies a loud and clear statement of intent… that our commitment to human rights and International Humanitarian Law goes far beyond mere policy statements and lip service and is premised on genuine accountability and justice, for as we know, without justice, there can be no peace,” Deles said.
 

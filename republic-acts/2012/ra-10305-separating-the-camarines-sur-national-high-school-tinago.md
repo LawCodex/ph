@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Camarines Sur N
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Camarines Sur National High School – Tinago Annex are hereby transferred to and absorbed by the Tinago National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Camarines Sur National High School – Tinago Annex are hereby transferred to and absorbed by the Tinago National High School.
 
 ## Section 3
 
@@ -42,7 +42,7 @@ _Appropriations._ – The Secretary of Education shall immediately include in th
 
 ## Section 4
 
-_Implementation._ – The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.ℒαwρhi৷
+_Implementation._ – The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 5
 

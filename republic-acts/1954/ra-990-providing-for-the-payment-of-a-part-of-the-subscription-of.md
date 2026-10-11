@@ -32,6 +32,6 @@ For the same purpose, all lands, warehouses, and their improvements, of the abol
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 3, 1954.

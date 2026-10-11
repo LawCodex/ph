@@ -172,7 +172,7 @@ The city mayor, as the chief executive of the city government, shall exercise su
 
 (2) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices; and
 
-(e) Perform such other duties and functions and exercise such other powers, as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.1aшphi1
+(e) Perform such other duties and functions and exercise such other powers, as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 9
 

@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The San Fernando Nat
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the San Fernando National High School - Pinamasagan Annex are hereby transferred to and absorbed by the Pinamasagan National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the San Fernando National High School - Pinamasagan Annex are hereby transferred to and absorbed by the Pinamasagan National High School.
 
 ## Section 3
 

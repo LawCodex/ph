@@ -115,6 +115,6 @@ Section 16 (a) of the same Act is hereby amended to read as follows:
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

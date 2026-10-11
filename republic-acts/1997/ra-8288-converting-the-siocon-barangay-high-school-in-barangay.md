@@ -32,7 +32,7 @@ The Siocon Barangay High School in Barangay Siocon, Municipality of Compostela, 
 
 ## Section 2
 
-All personnel, records, equipment, buildings, facilities, and other properties of the Siocon Barangay High School are hereby transferred to the Siocon National High School.1aшphi1
+All personnel, records, equipment, buildings, facilities, and other properties of the Siocon Barangay High School are hereby transferred to the Siocon National High School.
 
 ## Section 3
 

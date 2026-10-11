@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrio of Manaring in the Municipality of Ilagan, Province of Isabela, is hereby divided into two barrios to be known as Barrio Manaring Primero and Barrio Manaring Segundo.1âшphi1
+The barrio of Manaring in the Municipality of Ilagan, Province of Isabela, is hereby divided into two barrios to be known as Barrio Manaring Primero and Barrio Manaring Segundo.
 
 ## Section 2
 

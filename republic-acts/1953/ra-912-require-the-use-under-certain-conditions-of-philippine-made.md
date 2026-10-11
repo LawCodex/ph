@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In construction or repair work undertaken by the Government, whether done directly or thru contract awards, Philippine made materials and products, whenever available, practicable and usable, and will serve the purpose as equally well as foreign made" products or materials, shall be used in said construction or repair work, upon the proper certification of the availability, practicability, usability and durability of said materials or products by the Director of the Bureau of Public Works and/or his assistants.1a⍵⍴h!1
+In construction or repair work undertaken by the Government, whether done directly or thru contract awards, Philippine made materials and products, whenever available, practicable and usable, and will serve the purpose as equally well as foreign made" products or materials, shall be used in said construction or repair work, upon the proper certification of the availability, practicability, usability and durability of said materials or products by the Director of the Bureau of Public Works and/or his assistants.
 
 ## Section 2
 

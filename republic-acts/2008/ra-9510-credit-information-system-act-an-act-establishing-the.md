@@ -28,7 +28,9 @@ AN ACT ESTABLISHING THE CREDIT INFORMATION SYSTEM AND FOR OTHER PURPOSES
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the **"_Credit Information System Act"._**
+## Section 1
+
+_Title._ \- This Act shall be known as the **"_Credit Information System Act"._**
 
 ## Section 2
 
@@ -40,7 +42,9 @@ The State shall endeavor to have credit information provided at the least cost t
 
 An efficient credit information system will also enable financial institutions to reduce their over-all credit risk, contributing to a healthier and more stable financial system.
 
-**Section 3._Definition of Terms._** \- For purposes of this Act:
+## Section 3
+
+_Definition of Terms._ \- For purposes of this Act:
 
 (a) "_Accessing Entity_ " refers to any submitting entity or any other entity authorized by the Corporation to access basic credit data from the Corporation.
 
@@ -110,7 +114,9 @@ _Establishment of the Credit Information System._ \- In furtherance of the polic
 
 (o) The borrower, for a reasonable fee, shall have, as a matter of right, ready and immediate access to the credit information pertinent to the borrower. In case of erroneous, incomplete or misleading credit information, the subject borrower shall have the right to dispute the erroneous, incomplete, outdated or misleading credit information before the Corporation. The Corporation shall investigate and verify the disputed information within five (5) working days from receipt of the complaint. If its accuracy cannot be verified and cannot be proven, the disputed information shall be deleted. The borrower and the accessing entities and special accessing entities who have received such information shall be informed of the corresponding correction or removal within five (5) working days. The Corporation should use a simplified dispute resolution process to fast track the settlement/resolution of disputed credit information. Denial of these borrowers’ rights, without justifiable reason, shall entitle the borrower to indemnity.
 
-**Section 5._Establishment of the Central Credit Information Corporation._** \- There is hereby created a Corporation which shall be known as the Credit Information Corporation, whose primary purpose shall be to receive and consolidate basic credit data, to act as a central registry or central repository of credit information, and to provide access to reliable, standardized information on credit history and financial condition of borrowers.
+## Section 5
+
+_Establishment of the Central Credit Information Corporation._ \- There is hereby created a Corporation which shall be known as the Credit Information Corporation, whose primary purpose shall be to receive and consolidate basic credit data, to act as a central registry or central repository of credit information, and to provide access to reliable, standardized information on credit history and financial condition of borrowers.
 
 (a) The Corporation is hereby authorized to adopt, alter, and use a corporate seal which shall be judicially noticed; to enter into contracts; to incur liabilities; to lease or own real or personal property, and to sell or otherwise dispose of the same; to sue and be sued; to compromise, condone or release any liability and otherwise to do and perform any and all things that may be necessary or proper to carry out the purposes of this Act.
 
@@ -142,15 +148,21 @@ The members of the Board of Directors must be Filipino citizens and at least thi
 
 (m) The national government shall continue to hold sixty percent (60%) of the common shares for a period not to exceed five (5) years from the date of commencement of operations of the Corporation. After the said period, the national government shall dispose of at least twenty percent (20%) of its stockholdings in the Corporation to qualified investors which shall be limited to industry associations of banks, quasi-banks and other credit-related associations, including associations of consumers. The national government shall offer equal equity participation in the Corporation to all qualified investors. When the ownership of the majority of the common voting shares of the Corporation passes to private investors, the stockholders shall cause the adoption and registration with the SEC of the amended articles of incorporation within three (3) months from such transfer of ownership.
 
-**Section 6._Confidentiality of Credit Information._** \- The Corporation, the submitting entities, the accessing entities, the outsource entities, the special accessing entities and the duly authorized non-accessing entities shall hold the credit information under strict confidentiality and shall use the same only for the declared purpose of establishing the creditworthiness of the borrower. Outsource entities which may process and consolidate basic credit data are absolutely prohibited from releasing such data received from the Corporation other than to the Corporation.
+## Section 6
+
+_Confidentiality of Credit Information._ \- The Corporation, the submitting entities, the accessing entities, the outsource entities, the special accessing entities and the duly authorized non-accessing entities shall hold the credit information under strict confidentiality and shall use the same only for the declared purpose of establishing the creditworthiness of the borrower. Outsource entities which may process and consolidate basic credit data are absolutely prohibited from releasing such data received from the Corporation other than to the Corporation.
 
 The accreditation of an accessing entity, a special entity and/or an outsource entity which violates the confidentiality of, or which misuses, the credit information accessed from the Corporation, may be suspended or revoked. Any entity which violates this section may be barred access to the credit information system and penalized pursuant to Section 11 of this Act.
 
 The Corporation shall be authorized to release and disclose consolidated basic credit data only to the Accessing Entities, the Special Accessing Entities, the Outsource Entities and Borrowers. Basic Consolidated basic credit data released to Accessing Entities shall be limited to those pertaining to existing Borrowers or Borrowers with pending credit applications. Credit information shall not be released to entities other than those enumerated under this Section except upon order of the court.
 
-**Section 7._Educational Campaign._** \- A continuing nationwide educational campaign shall be developed and undertaken by the Corporation to promote the benefits of a credit information system to the economy; to create awareness on the rights of consumers/borrowers to access their credit reports collected, stored and disseminated by the Corporation; to disseminate the rights of the borrowers to dispute any incorrect/inaccurate credit information in the database file of the Corporation; to familiarize consumers of the procedure in collecting, storing and disseminating credit information of borrowers by the Corporation; and to brief consumers of other related information.
+## Section 7
 
-**Section 8._Rules and Regulations._** \- For purposes of creating a healthy balance between the need for reliable credit information and safeguarding consumer protection, ensuring free and healthy competition in the industry, the SEC, in coordination with relevant government agencies and existing industry stakeholders, shall issue the implementing rules and regulations (IRRs), which shall be reviewed, revised and approved by the Oversight Committee to ensure consistency and compliance with the provisions of this Act, embodying among others:
+_Educational Campaign._ \- A continuing nationwide educational campaign shall be developed and undertaken by the Corporation to promote the benefits of a credit information system to the economy; to create awareness on the rights of consumers/borrowers to access their credit reports collected, stored and disseminated by the Corporation; to disseminate the rights of the borrowers to dispute any incorrect/inaccurate credit information in the database file of the Corporation; to familiarize consumers of the procedure in collecting, storing and disseminating credit information of borrowers by the Corporation; and to brief consumers of other related information.
+
+## Section 8
+
+_Rules and Regulations._ \- For purposes of creating a healthy balance between the need for reliable credit information and safeguarding consumer protection, ensuring free and healthy competition in the industry, the SEC, in coordination with relevant government agencies and existing industry stakeholders, shall issue the implementing rules and regulations (IRRs), which shall be reviewed, revised and approved by the Oversight Committee to ensure consistency and compliance with the provisions of this Act, embodying among others:
 
 (a) The basic credit data shall be limited or confined in form and content to an objective and factual information and shall exclude any subjective information or opinion;
 
@@ -176,25 +188,43 @@ In addition, the SEC may regulate access to the credit information system as wel
 
 (h) The basic credit data about a borrower shall be limited to credit information existing on the date of the enactment of this Act and thereafter.
 
-**Section 9._Congressional Oversight Committee._** \- There is hereby created a congressional oversight committee, composed of seven (7) members from the Senate and seven (7) members from the House of Representatives. The Members from the Senate shall be appointed by the Senate President with at least three (3) Senators representing the minority. The Members of the House of Representatives shall be appointed by the Speaker with at least three (3) members representing the minority.
+## Section 9
+
+_Congressional Oversight Committee._ \- There is hereby created a congressional oversight committee, composed of seven (7) members from the Senate and seven (7) members from the House of Representatives. The Members from the Senate shall be appointed by the Senate President with at least three (3) Senators representing the minority. The Members of the House of Representatives shall be appointed by the Speaker with at least three (3) members representing the minority.
 
 After the Oversight Committee approved the implementing rules and regulations, it shall thereafter become _functus officio_ , and therefore cease to exist: _Provided_ , That the Congress may revive the Congressional Oversight Committee in case of a need for any major revision/s in the implementing rules and regulations.
 
-**Section 10._Indemnity in Favor of the Corporation, its Officers and Employees._** \- Unless the Corporation or any of its officers and employees is found liable for any willful violation of this Act, bad faith, malice and/or gross negligence, the Submitting Entities, Accessing Entities, Special Accessing Entities, Outsource Entities and duly authorized non-accessing entities shall hold the Corporation, its directors, officers and employees free and harmless to the fullest extent permitted by law and shall indemnify them from any and all liabilities, losses, claims, demands, damages, deficiencies, costs and expenses of whatsoever kind and nature that may arise in connection with the performance of their functions without prejudice to any criminal liability under existing laws.
+## Section 10
 
-**Section 11._Penalties._** \- Any person who willfully violates any of the provisions of this Act or the rules and regulations promulgated by the SEC in coordination with the relevant government agencies shall, upon conviction, suffer a fine of not less than Fifty thousand pesos (PhP50,000.00). nor more than One million pesos (PhP1,000,000.00) or imprisonment of not less than one (1) year nor more than five (5) years, or both, at the discretion of the court.
+_Indemnity in Favor of the Corporation, its Officers and Employees._ \- Unless the Corporation or any of its officers and employees is found liable for any willful violation of this Act, bad faith, malice and/or gross negligence, the Submitting Entities, Accessing Entities, Special Accessing Entities, Outsource Entities and duly authorized non-accessing entities shall hold the Corporation, its directors, officers and employees free and harmless to the fullest extent permitted by law and shall indemnify them from any and all liabilities, losses, claims, demands, damages, deficiencies, costs and expenses of whatsoever kind and nature that may arise in connection with the performance of their functions without prejudice to any criminal liability under existing laws.
 
-**Section 12._Inviolable Nature of the Secrecy of Bank Deposits and/or Client Funds._** -Pursuant to Republic Act No. 1405 (Law on Secrecy of Bank Deposits), Republic Act No. 6426 (The Foreign Currency Deposit Act), Republic Act No. 8791 (The General Banking Law of 2000), Republic Act No. 9160 (Anti-Money Laundering Law) and their amendatory laws, nothing in this Act shall impair the secrecy of bank deposits and and/or client funds and investments in government securities or funds.
+## Section 11
 
-**Section 13._Annual Report._** \- The SEC shall submit an annual report to Congress on the status of the implementation of this Act.
+_Penalties._ \- Any person who willfully violates any of the provisions of this Act or the rules and regulations promulgated by the SEC in coordination with the relevant government agencies shall, upon conviction, suffer a fine of not less than Fifty thousand pesos (PhP50,000.00). nor more than One million pesos (PhP1,000,000.00) or imprisonment of not less than one (1) year nor more than five (5) years, or both, at the discretion of the court.
 
-**Sec. 14._Principal Government Agency._** \- The SEC shall be the lead government agency to implement and enforce this Act. As lead agency, the SEC shall consult and coordinate with other relevant government agencies in the adoption of all rules and regulations for the full and effective implementation and enforecement of this Act, taking into account the policy objectives contained in Section 2 hereof.
+## Section 12
 
-**Section 15._Separability Clause._** \- Should any provision of this Act or the application thereof to any person or circumstance be held invalid, the other provisions or sections of this Act shall not be affected thereby.
+_Inviolable Nature of the Secrecy of Bank Deposits and/or Client Funds._ -Pursuant to Republic Act No. 1405 (Law on Secrecy of Bank Deposits), Republic Act No. 6426 (The Foreign Currency Deposit Act), Republic Act No. 8791 (The General Banking Law of 2000), Republic Act No. 9160 (Anti-Money Laundering Law) and their amendatory laws, nothing in this Act shall impair the secrecy of bank deposits and and/or client funds and investments in government securities or funds.
 
-**Section 16._Repealing Clause._** \- This Act repeals Presidential Decree No. 1941 in its entirety. All laws, decrees, executive orders, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+## Section 13
 
-**Section 17._Effectivity Clause._** \- This Act shall take effect fifteen (15) days following its publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
+_Annual Report._ \- The SEC shall submit an annual report to Congress on the status of the implementation of this Act.
+
+## Sec. 14
+
+_Principal Government Agency._ \- The SEC shall be the lead government agency to implement and enforce this Act. As lead agency, the SEC shall consult and coordinate with other relevant government agencies in the adoption of all rules and regulations for the full and effective implementation and enforecement of this Act, taking into account the policy objectives contained in Section 2 hereof.
+
+## Section 15
+
+_Separability Clause._ \- Should any provision of this Act or the application thereof to any person or circumstance be held invalid, the other provisions or sections of this Act shall not be affected thereby.
+
+## Section 16
+
+_Repealing Clause._ \- This Act repeals Presidential Decree No. 1941 in its entirety. All laws, decrees, executive orders, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 17
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days following its publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
 
 Approved
 

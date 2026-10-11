@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Oteiza, Salvacion and Santo Niño in the Municipality of Marihatag, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Oteiza, same province.1âшphi1 The seat of government of the new municipality shall be in the present site of the barrio of Oteiza.
+The barrios of Oteiza, Salvacion and Santo Niño in the Municipality of Marihatag, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Oteiza, same province. The seat of government of the new municipality shall be in the present site of the barrio of Oteiza.
 
 ## Section 2
 
@@ -33,6 +33,6 @@ The first mayor, vice-mayor and councilors of the new municipality shall be appo
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

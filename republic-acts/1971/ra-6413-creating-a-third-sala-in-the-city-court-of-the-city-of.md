@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be a third sala in the City Court of Cagayan de Oro to be presided over by a city judge to be appointed by the President of the Philippines in accordance with law. One of the city judges of the city court shall try and decide cases involving: violation of traffic laws and ordinances upon resolution passed by the city judges and approved by the Secretary of Justice. The annual salary of the city judges shall be one thousand pesos less than that fixed by law for the district judge. Upon approval of this Act, the judge presiding over the first sala shall be the executive judge for a term of two years and, thereafter, the office of the executive judge shall be rotated among the judges for a term of one year. The city judges shall be entitled to the same allowance which are granted to city officials.1âшphi1
+There shall be a third sala in the City Court of Cagayan de Oro to be presided over by a city judge to be appointed by the President of the Philippines in accordance with law. One of the city judges of the city court shall try and decide cases involving: violation of traffic laws and ordinances upon resolution passed by the city judges and approved by the Secretary of Justice. The annual salary of the city judges shall be one thousand pesos less than that fixed by law for the district judge. Upon approval of this Act, the judge presiding over the first sala shall be the executive judge for a term of two years and, thereafter, the office of the executive judge shall be rotated among the judges for a term of one year. The city judges shall be entitled to the same allowance which are granted to city officials.
 
 ## Section 2
 

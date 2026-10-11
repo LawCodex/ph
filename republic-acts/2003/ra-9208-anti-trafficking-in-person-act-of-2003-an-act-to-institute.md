@@ -36,7 +36,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 _Title._ This Act shall be known as the **"Anti-Trafficking in Persons Act of 2003"**.
 
-**Section 2.__** Declaration of Policy. – It is hereby declared that the State values the dignity of every human person and guarantees the respect of individual rights. In pursuit of this policy, the State shall give highest priority to the enactment of measures and development of programs that will promote human dignity, protect the people from any threat of violence and exploitation, eliminate trafficking in persons, and mitigate pressures for involuntary migration and servitude of persons, not only to support trafficked persons but more importantly, to ensure their recovery, rehabilitation and reintegration into the mainstream of society.
+## Section 2
+
+** Declaration of Policy. – It is hereby declared that the State values the dignity of every human person and guarantees the respect of individual rights. In pursuit of this policy, the State shall give highest priority to the enactment of measures and development of programs that will promote human dignity, protect the people from any threat of violence and exploitation, eliminate trafficking in persons, and mitigate pressures for involuntary migration and servitude of persons, not only to support trafficked persons but more importantly, to ensure their recovery, rehabilitation and reintegration into the mainstream of society.
 
 It shall be a State policy to recognize the equal rights and inherent human dignity of women and men as enshrined in the United Nations Universal Declaration on Human Rights, United Nations Convention on the Rights of the Child, United Nations Convention on the Protection of Migrant Workers and their Families. United Nations Convention Against Transnational Organized Crime Including its Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children and all other relevant and universally accepted human rights instruments and other international conventions to which the Philippines is a signatory.
 

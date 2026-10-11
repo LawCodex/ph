@@ -41,7 +41,7 @@ Article 29 of Act No. 3815, as amended, otherwise known as the Revised Penal Cod
 
 "If the detention prisoner does not agree to abide by the same disciplinary rules imposed upon convicted prisoners, he shall do so in writing with the assistance of a counsel and shall be credited in the service of his sentence with four-fifths of the time during which he has undergone preventive imprisonment.
 
-"Credit for preventive imprisonment for the penalty of _reclusion perpetua_ shall be deducted from thirty (30) years.1âwphi1
+"Credit for preventive imprisonment for the penalty of _reclusion perpetua_ shall be deducted from thirty (30) years.
 
 "Whenever an accused has undergone preventive imprisonment for a period equal to the possible maximum imprisonment of the offense charged to which he may be sentenced and his case is not yet terminated, he shall be released immediately without prejudice to the continuation of the trial thereof or the proceeding on appeal, if the same is under review. Computation of preventive imprisonment for purposes of immediate release under this paragraph shall be the actual period of detention with good conduct time allowance: _Provided, however,_ That if the accused is absent without justifiable cause at any stage of the trial, the court may _motu proprio_ order the rearrest of the accused: _Provided, finally,_ That recidivists, habitual delinquents, escapees and persons charged with heinous crimes are excluded from the coverage of this Act. In case the maximum penalty to which the accused may be sentenced is _lestierro,_ he shall be released after thirty (30) days of preventive imprisonment."
 

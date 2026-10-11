@@ -29,7 +29,7 @@ The name of the La Union Provincial Hospital situated in the Municipality of San
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

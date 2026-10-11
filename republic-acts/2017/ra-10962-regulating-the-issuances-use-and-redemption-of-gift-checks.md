@@ -49,7 +49,7 @@ _Definition of Terms._ \- As referred to in this Act,
 
 (b) Coupon or Voucher is any instrument issued to any person, natural or juridical, for monetary consideration or otherwise, that entitles the holder to a discount off a particular good or service, or that may be exchanged for a pre-identified good or service specified on the instrument.
 
-(c) Issuer is any person, natural or juridical, who provides the instrument that holds value for which consumer goods or services will be exchanged.1avvphi1
+(c) Issuer is any person, natural or juridical, who provides the instrument that holds value for which consumer goods or services will be exchanged.
 
 ## Section 5
 
@@ -83,7 +83,7 @@ _Applicability to Promotional Programs, Warranties, Return Policies, and Senior 
 
 _Transitory Provision._ \- Upon the effectivity of this Act, all gift checks already issued shall be covered by the provisions of this Act.
 
-Holders of unused and unexpired gift checks shall, at no additional cost, be entitled to avail of replacement after revalidation by the issuers.1âwphi1
+Holders of unused and unexpired gift checks shall, at no additional cost, be entitled to avail of replacement after revalidation by the issuers.
 
 ## Section 10
 

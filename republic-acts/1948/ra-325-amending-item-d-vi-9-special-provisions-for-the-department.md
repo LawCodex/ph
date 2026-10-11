@@ -30,6 +30,6 @@ Item D-VI-9, Special Provisions for the Department of Foreign Affairs, page 93 o
 
 ## Section 2
 
-This Act shall take effect July 1, 1948.1awp++i1
+This Act shall take effect July 1, 1948.
 
 Approved: July 13, 1948.

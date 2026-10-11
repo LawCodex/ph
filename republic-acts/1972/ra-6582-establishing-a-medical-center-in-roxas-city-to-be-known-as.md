@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established in Roxas City under the direct supervision of the Secretary of Health, medical center with two hundred fifty-bed capacity and of the North General Hospital type, to be known as the Capiz Medical Center.1âшphi1
+There shall be established in Roxas City under the direct supervision of the Secretary of Health, medical center with two hundred fifty-bed capacity and of the North General Hospital type, to be known as the Capiz Medical Center.
 
 ## Section 2
 

@@ -51,7 +51,7 @@ The University shall have the general powers of a corporation set forth in Batas
 
 The University Campus shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
-No student shall be denied admission to the University Campus by reason of gender, religion, cultural or community affiliation or ethnic origin.1âшphi1
+No student shall be denied admission to the University Campus by reason of gender, religion, cultural or community affiliation or ethnic origin.
 
 ## Section 6
 

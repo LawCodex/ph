@@ -34,7 +34,7 @@ Such sums as are necessary to carry into effect the provisions of this Act are a
 
 This Act shall take effect upon its approval.
 
-Approved,1âшphi1
+Approved,
 
 <table>
 <tr>

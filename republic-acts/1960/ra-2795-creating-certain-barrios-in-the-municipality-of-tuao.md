@@ -54,7 +54,7 @@ The following sitios in the Municipality of Tuao, Province of Cagayan, are conve
 
 14\. Sitio Angang to Barrio Angang; and
 
-15\. Sitio Lalambini to Barrio Lalambini.1awp++i1
+15\. Sitio Lalambini to Barrio Lalambini.
 
 ## Section 2
 

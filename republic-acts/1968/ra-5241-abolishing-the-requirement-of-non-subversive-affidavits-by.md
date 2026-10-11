@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subparagraph (2), subsection (b) of Section twenty-three of Republic Act Numbered Eight hundred seventy-five, entitled "an Act to promote industrial peace and for other purposes," requiring non-subversive affidavits by all the officers of every labor organization, association or union is hereby repealed. All other provisions in said Republic Act referring to such non-subversive affidavits are likewise hereby repealed.1avvphi1
+Subparagraph (2), subsection (b) of Section twenty-three of Republic Act Numbered Eight hundred seventy-five, entitled "an Act to promote industrial peace and for other purposes," requiring non-subversive affidavits by all the officers of every labor organization, association or union is hereby repealed. All other provisions in said Republic Act referring to such non-subversive affidavits are likewise hereby repealed.
 
 ## Section 2
 

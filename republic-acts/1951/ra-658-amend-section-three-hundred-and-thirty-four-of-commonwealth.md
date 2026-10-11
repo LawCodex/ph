@@ -32,6 +32,6 @@ Section three hundred and thirty-four of Commonwealth Act Numbered Four hundred 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 16, 1951.

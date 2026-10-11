@@ -107,7 +107,7 @@ The National Rice and Corn Corporation shall be subject to the provisions of the
 
 In order to enable the Corporation to exercise the powers and duties vested in it by this Act-
 
-a. The Corporation is hereby exempted from the payment of import duty on rice and corn, and on such supplies, machinery and equipment such as fertilizers and lime as may be necessary for demonstration farming.1a⍵⍴h!1
+a. The Corporation is hereby exempted from the payment of import duty on rice and corn, and on such supplies, machinery and equipment such as fertilizers and lime as may be necessary for demonstration farming.
 
 b. The Corporation is hereby exempted from the payment of sales and milling taxes imposed or to be imposed by the National, or by any provincial or municipal governments, and the President of the Philippines is hereby authorized to further exempt the Corporation from the payment of other taxes whenever in his opinion such exemption is for public interest.
 

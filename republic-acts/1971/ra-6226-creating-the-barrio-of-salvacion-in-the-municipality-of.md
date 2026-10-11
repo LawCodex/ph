@@ -28,7 +28,7 @@ The sitio of Salvacion in the Municipality of Panabo, Province of Davao del Nort
 
 The Barrio of Salvacion shall be bounded as follows:
 
-"On the North, by the boundaries of the municipalities of Panabo and Carmen; on the East, beginning from the lot of Mr. Nicolas Lucedra running north parallel to the National Highway; on the South, by the Poblacion of Panabo; and on the West, beginning from the land of Dr. Jose Tongson running north parallel to the National Highway."1âшphi1
+"On the North, by the boundaries of the municipalities of Panabo and Carmen; on the East, beginning from the lot of Mr. Nicolas Lucedra running north parallel to the National Highway; on the South, by the Poblacion of Panabo; and on the West, beginning from the land of Dr. Jose Tongson running north parallel to the National Highway."
 
 ## Section 2
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-July 22 of every year is hereby declared a special nonworking holiday in the Municipality of Claveria, Province of Misamis Oriental, in commemoration of its founding anniversary, to be known as "Araw ng Claveria".1âwphi1
+July 22 of every year is hereby declared a special nonworking holiday in the Municipality of Claveria, Province of Misamis Oriental, in commemoration of its founding anniversary, to be known as "Araw ng Claveria".
 
 ## Section 2
 

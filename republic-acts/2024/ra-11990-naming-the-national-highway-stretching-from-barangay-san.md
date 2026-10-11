@@ -32,7 +32,7 @@ The National Highway, stretching from Barangay San Juan Bautista, traversing thr
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.1aшphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
 
 ## Section 3
 

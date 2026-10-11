@@ -38,7 +38,7 @@ The PFDA, in coordination with the local government unit concerned, shall formul
 
 ## Section 3
 
-The amount necessary for the construction of said fish port shall be included in the annual General Appropriations Act. The local government shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.1âwphi1
+The amount necessary for the construction of said fish port shall be included in the annual General Appropriations Act. The local government shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.
 
 ## Section 4
 

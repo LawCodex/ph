@@ -35,7 +35,7 @@ The Secretary of Education, Culture and Sports shall issue the necessary rules, 
 
 ## Section 3
 
-All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Irawan Barangay High School are hereby transferred to the Irawan National High School.Ꮮαwρhi৷
+All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Irawan Barangay High School are hereby transferred to the Irawan National High School.
 
 ## Section 4
 

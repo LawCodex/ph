@@ -31,7 +31,7 @@ The barangay high school known as the Alamada National High School Annex, locate
 
 ## Section 2
 
-The Pigcawaran National High School shall be equipped with four (4) classrooms, one (1) Home Economics room, and one (1) multi-purpose workshop and provisions for one (1)Administrative Office.Ꮮαwρhi৷
+The Pigcawaran National High School shall be equipped with four (4) classrooms, one (1) Home Economics room, and one (1) multi-purpose workshop and provisions for one (1)Administrative Office.
 
 ## Section 3
 

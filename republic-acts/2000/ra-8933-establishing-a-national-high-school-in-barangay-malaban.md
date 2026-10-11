@@ -31,7 +31,7 @@ There shall be established, under the direct supervision of the Department of Ed
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.ℒαwρhi৷
+The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

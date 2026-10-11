@@ -34,7 +34,7 @@ _Condonation of Interest Only._ – The interest earned on the paid principal ac
 
 ## Section 2
 
-_Principal Excluded from the Condonation._ – The principal account of FCC/ICC in the sum of Thirty million five hundred fifty-seven thousand six hundred twenty-two pesos and thirty-five centavos (~~P~~ 30,557,622.35), having been paid already by the ZANECO to the NPC, and any account other than the unpaid interest on the already paid FCC/ICC amount are hereby excluded from this condonation.1âwphi1
+_Principal Excluded from the Condonation._ – The principal account of FCC/ICC in the sum of Thirty million five hundred fifty-seven thousand six hundred twenty-two pesos and thirty-five centavos (~~P~~ 30,557,622.35), having been paid already by the ZANECO to the NPC, and any account other than the unpaid interest on the already paid FCC/ICC amount are hereby excluded from this condonation.
 
 ## Section 3
 

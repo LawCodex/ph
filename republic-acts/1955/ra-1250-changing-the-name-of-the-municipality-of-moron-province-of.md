@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The seat of the Municipality of Sto. Tomas, Province of Pampanga, is hereby transferred from Barrio San Matias to Barrio Sto. Tomas.1awp++i1 The municipal government shall occupy the site and building it formerly occupied before the said municipality was annexed to the Municipality of San Fernando in the same province.
+The seat of the Municipality of Sto. Tomas, Province of Pampanga, is hereby transferred from Barrio San Matias to Barrio Sto. Tomas. The municipal government shall occupy the site and building it formerly occupied before the said municipality was annexed to the Municipality of San Fernando in the same province.
 
 ## Section 2
 

@@ -778,7 +778,7 @@ Every right, privilege, exemption or registration under this Act shall be sought
 
 One Legal Officer at six thousand five hundred fifty-two pesos per annum.
 
-Three Legal Officers at five thousand three hundred seventy-six pesos each per annum.1âшphi1
+Three Legal Officers at five thousand three hundred seventy-six pesos each per annum.
 
 Five Examiners at five thousand three hundred seventy-six pesos each per annum.
 

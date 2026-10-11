@@ -62,7 +62,7 @@ Within sixty (60) days from the approval of this Act, the Secretary of Education
 
 ## Section 6
 
-If any provision of this Act is held invalid or unconstitutional, the other provisions not so declared shall remain in force and effect.1âwphi1
+If any provision of this Act is held invalid or unconstitutional, the other provisions not so declared shall remain in force and effect.
 
 ## Section 7
 

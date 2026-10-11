@@ -37,7 +37,7 @@ The Twelfth paragraph of Section fifty of the same Act, as amended, is further a
 
 ## Section 3
 
-The eleventh subparagraph of the second paragraph of Section fifty-two of the same Act, as amended, is further amended to read as follow:1âшphi1
+The eleventh subparagraph of the second paragraph of Section fifty-two of the same Act, as amended, is further amended to read as follow:
 
 "For the Twelfth Judicial District, five judges shall be stationed in the City of Bacolod; one judge in the City of Silay; one judge in San Carlos City; one judge in the Municipality of Himamaylan, Province of Occidental Negros; and one judge in each of the Municipalities of Victorias and Taboso, same province; and three judge in the City of Dumaguete; one judge in the Municipality of Guihulagan, Province of Negros Oriental; one judge in the Municipality of Bayawan, same province; and one judge in the Municipality of Larena, same province; _Provided,_ That as soon the court room is constructed in the Municipality of Siquijor, Province of Siquijor, the judge shall be permanently stationed in the municipality."
 

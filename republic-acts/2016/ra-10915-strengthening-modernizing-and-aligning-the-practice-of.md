@@ -508,7 +508,7 @@ _Enforcement._ \- It shall be the primary duty of the Commission and the Board t
 
 Furthermore, all duly constituted law enforcement agencies and offices of national, provincial, city or municipal government, or of any political subdivision thereof, shall, upon the call or request of the Board or the Commission, render assistance in enforcing the provisions of this Act and prosecute any person violating the provisions of the same. Any person may bring before the Commission, Board, or the aforementioned officers of the law, cases of illegal practice or violations of this Act committed by any person or party.
 
-The Board shall assist the Commission in filing the appropriate charges through the concerned prosecution office in accordance with law and Rules of Court.1avvphi1
+The Board shall assist the Commission in filing the appropriate charges through the concerned prosecution office in accordance with law and Rules of Court.
 
 ### Section 42
 

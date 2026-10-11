@@ -25,11 +25,17 @@ AN ACT REGULATING THE ISSUANCE AND USE OF ACCESS DEVICES, PROHIBITING FRAUDULENT
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short title._** – This Act shall be known as the **"_Access Devices Regulation Act of 1998._ "**
+## Section 1
 
-**Section 2._Declaration of policy._** – The State recognizes the recent advances in technology and the widespread use of access devices in commercial transactions. Toward this end, the State shall protect the rights and define the liabilities of parties in such commercial transactions by regulating the issuance and use of access devices.
+_Short title._ – This Act shall be known as the **"_Access Devices Regulation Act of 1998._ "**
 
-**Section 3._Definition of terms._** – For purposes of this Act, the terms:
+## Section 2
+
+_Declaration of policy._ – The State recognizes the recent advances in technology and the widespread use of access devices in commercial transactions. Toward this end, the State shall protect the rights and define the liabilities of parties in such commercial transactions by regulating the issuance and use of access devices.
+
+## Section 3
+
+_Definition of terms._ – For purposes of this Act, the terms:
 
 (a) Access Device – means any card, plate, code, account number, electronic serial number, personal identification number, or other telecommunications service, equipment, or instrumental identifier, or other means of account access that can be used to obtain money, good, services, or any other thing of value or to initiate a transfer of funds (other than a transfer originated solely by paper instrument);
 
@@ -59,7 +65,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (l) Trafficking – means transferring, or otherwise disposing of, to another, or obtaining control of, with intent to transfer or dispose of.
 
-**Section 4._Credit Card Application and Solicitation._** – Any application to open a credit card account for any person under an open-end credit plan or a solicitation to open such an account, either by mail, telephone or other means, shall disclose in writing or orally, as the case may be, the following information:
+## Section 4
+
+_Credit Card Application and Solicitation._ – Any application to open a credit card account for any person under an open-end credit plan or a solicitation to open such an account, either by mail, telephone or other means, shall disclose in writing or orally, as the case may be, the following information:
 
 (a) Annual Percentage Rate
 
@@ -95,9 +103,13 @@ iii) the applicant should contact the creditor for information on any change in 
 
 (3) In a conspicuous and prominent location on the application or solicitation, a toll free telephone number or mailing address which the applicant may contact to obtain any change in the information provided in the application or solicitation since it was printed.
 
-**Section 5._Computations._** – In addition to the foregoing, a credit card issuer must, to the extent practicable, provide a detailed explanation and a clear illustration of the manner by which all charges and fees are computed.
+## Section 5
 
-**Section 6._Exceptions._** – The disclosures required under Section 4 of this Act may be omitted in any telephone solicitation or application if the credit card issuer:
+_Computations._ – In addition to the foregoing, a credit card issuer must, to the extent practicable, provide a detailed explanation and a clear illustration of the manner by which all charges and fees are computed.
+
+## Section 6
+
+_Exceptions._ – The disclosures required under Section 4 of this Act may be omitted in any telephone solicitation or application if the credit card issuer:
 
 (a) does not impose any fee in connection with paragraph (b)(1), Section 4 of this Act;
 
@@ -107,7 +119,9 @@ iii) the applicant should contact the creditor for information on any change in 
 
 (d) discloses clearly that the consumer is not obligated to accept the card or account and the consumer will not be obligated to pay any fees or charges disclosed unless the consumer elects to accept the card or account by using the card.
 
-**Section 7._Disclosure Prior to Renewal._** – Except in telephone solicitations a card issuer that imposes any fee described in Section 4 shall transmit to a consumer's credit card account a clear and conspicuous disclosure of:
+## Section 7
+
+_Disclosure Prior to Renewal._ – Except in telephone solicitations a card issuer that imposes any fee described in Section 4 shall transmit to a consumer's credit card account a clear and conspicuous disclosure of:
 
 (a) the date by which, the month by which, or the billing period at the close of which, the account will expire if not renewed;
 
@@ -117,9 +131,13 @@ iii) the applicant should contact the creditor for information on any change in 
 
 (d) the method by which the consumer may terminate continued credit availability under the account: Provided, That the disclosures required by this section must be made prior to posting a fee described in Section 4 (b) (1) to the account, or with the periodic billing statement first disclosing that the fee has been posted to the account subject to the condition that the consumer is given thirty (30) day period to avoid payment of the fee or to have the fee recredited to the account in any case where the consumer does not wish to continue the availability of the credit.
 
-**Section 8._Failure to Disclose._** – Credit card companies which shall fail to disclose the information required under Sections 4, 5 and 7 of this Act, after due notice and hearing, shall be subject to suspension or cancellation of their authority to issue credit cards by the Bangko Sentral ng Pilipinas, Securities and Exchange Commission and such other government agencies.
+## Section 8
 
-**Section 9._Prohibited Acts._** – The following acts shall constitute access device fraud and are hereby declared to be unlawful:
+_Failure to Disclose._ – Credit card companies which shall fail to disclose the information required under Sections 4, 5 and 7 of this Act, after due notice and hearing, shall be subject to suspension or cancellation of their authority to issue credit cards by the Bangko Sentral ng Pilipinas, Securities and Exchange Commission and such other government agencies.
+
+## Section 9
+
+_Prohibited Acts._ – The following acts shall constitute access device fraud and are hereby declared to be unlawful:
 
 (a) producing, using, trafficking in one or more counterfeit access devices;
 
@@ -157,7 +175,9 @@ iii) the applicant should contact the creditor for information on any change in 
 
 (p) without the authorization of the credit card system member or its agent, causing or arranging for another person to present to the member or its agent, for payment, one or more evidence or records of transactions made by credit card.
 
-**Section 10._Penalties._** – Any person committing any of the acts constituting access device fraud enumerated in the immediately preceding section shall be punished with:
+## Section 10
+
+_Penalties._ – Any person committing any of the acts constituting access device fraud enumerated in the immediately preceding section shall be punished with:
 
 (a) a fine of Ten thousand pesos (P10,000.00) or twice the value obtained by the offense, whichever is greater and imprisonment for not less than six (6) years and not more than ten (10) years, in the case of an offense under Section 9 (b)-(e), and (g)-(p) which does not occur after a conviction for another offense under Section 9;
 
@@ -165,13 +185,21 @@ iii) the applicant should contact the creditor for information on any change in 
 
 (c) a fine of Ten thousand pesos (P10,000.00) or twice the value obtained by the offense, or imprisonment for not less than twelve (12) years and not more than twenty (20) years, or both, in the case of any offense under Section 9, which occurs after a conviction for another offense under said subsection, or an attempt to commit the same.
 
-**Section 11._Conspiracy to commit access device fraud._** – If two (2) or more persons conspire to commit any of the offenses listed in Section 9 and one or more of such persons does any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as in the case of the doing of the act, the accomplishment of which is the object of such conspiracy.
+## Section 11
 
-**Section 12._Frustrated and attempted access device fraud._** – Any person who performs all the acts of execution which would produce any of the unlawful acts enumerated in Section 9 of this Act, but which nevertheless does not produce it by reason of causes independent of the will of said person, shall be punished with two-thirds (2/3) of the fine and imprisonment provided for the consummated offenses listed in said section. Any person who commences the commission of any of the unlawful acts enumerated in Section 9 of this Act directly by overt acts and does not perform all the acts of execution which would produce the said acts by reason of some cause or accident other than said person's own spontaneous desistance, shall be punished with one-half (1/2) of the fine and imprisonment provided for the consummated offenses listed in the said section.
+_Conspiracy to commit access device fraud._ – If two (2) or more persons conspire to commit any of the offenses listed in Section 9 and one or more of such persons does any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as in the case of the doing of the act, the accomplishment of which is the object of such conspiracy.
 
-**Section 13._Accessory to access device fraud._** – Any person who, with intent to gain for himself or for another, buy, receives, possesses, keeps, acquires, conceals, sells, or disposes of, shall buy and sell, or in any manner deal in any article, item, object or anything of value which he knows or should be known to him, to have been acquired through the use of counterfeit access device or an unauthorized access device or an access device known to him to have been fraudulently applied for, shall be considered as an accessory to an access device fraud and shall be punished with one-half (1/2) of the fine and imprisonment provided for the applicable consummated offenses listed in Section 9 of this Act. Said person shall be prosecuted under this Act or under the Anti-Fencing Law of 1979 (Presidential Decree No. 1612) whichever imposes the longer prison term as penalty for the consummated offense.
+## Section 12
 
-**Section 14._Presumption and prima facie evidence of intent to defraud._** – The mere possession, control or custody of:
+_Frustrated and attempted access device fraud._ – Any person who performs all the acts of execution which would produce any of the unlawful acts enumerated in Section 9 of this Act, but which nevertheless does not produce it by reason of causes independent of the will of said person, shall be punished with two-thirds (2/3) of the fine and imprisonment provided for the consummated offenses listed in said section. Any person who commences the commission of any of the unlawful acts enumerated in Section 9 of this Act directly by overt acts and does not perform all the acts of execution which would produce the said acts by reason of some cause or accident other than said person's own spontaneous desistance, shall be punished with one-half (1/2) of the fine and imprisonment provided for the consummated offenses listed in the said section.
+
+## Section 13
+
+_Accessory to access device fraud._ – Any person who, with intent to gain for himself or for another, buy, receives, possesses, keeps, acquires, conceals, sells, or disposes of, shall buy and sell, or in any manner deal in any article, item, object or anything of value which he knows or should be known to him, to have been acquired through the use of counterfeit access device or an unauthorized access device or an access device known to him to have been fraudulently applied for, shall be considered as an accessory to an access device fraud and shall be punished with one-half (1/2) of the fine and imprisonment provided for the applicable consummated offenses listed in Section 9 of this Act. Said person shall be prosecuted under this Act or under the Anti-Fencing Law of 1979 (Presidential Decree No. 1612) whichever imposes the longer prison term as penalty for the consummated offense.
+
+## Section 14
+
+_Presumption and prima facie evidence of intent to defraud._ – The mere possession, control or custody of:
 
 (a) an access device, without permission of the owner or without any lawful authority;
 
@@ -187,18 +215,30 @@ iii) the applicant should contact the creditor for information on any change in 
 
 A cardholder who abandons or surreptitiously leaves the place of employment, business or residence stated in his application or credit card, without informing the credit card company of the place where he could actually be found, if at the time of such abandonment or surreptitious leaving, the outstanding and unpaid balance is past due for at least ninety (90) days and is more than Ten thousand pesos (P10,000.00), shall be prima facie presumed to have used his credit card with intent to defraud.
 
-**Section 15._Loss of access devices._** – In case of loss of an access device, the holder thereof must notify the issuer of the access device of the details and circumstances of such loss upon knowledge of the loss. Full compliance with such procedure would absolve the access device holder of any financial liability from fraudulent use of the access device from the time the loss or theft is reported to the issuer.
+## Section 15
 
-**Section 16._Reporting requirements._** – All companies engaged in the business of issuing access devices, including banks, financing companies and other financial institutions issuing access devices, shall furnish annually, on or before the 31st of March of the succeeding year, a report to the Credit Card Association of the Philippines regarding access device frauds committed against the holders of such entities in the preceding calendar year, for consolidation and submission to the National Bureau of Investigation.
+_Loss of access devices._ – In case of loss of an access device, the holder thereof must notify the issuer of the access device of the details and circumstances of such loss upon knowledge of the loss. Full compliance with such procedure would absolve the access device holder of any financial liability from fraudulent use of the access device from the time the loss or theft is reported to the issuer.
+
+## Section 16
+
+_Reporting requirements._ – All companies engaged in the business of issuing access devices, including banks, financing companies and other financial institutions issuing access devices, shall furnish annually, on or before the 31st of March of the succeeding year, a report to the Credit Card Association of the Philippines regarding access device frauds committed against the holders of such entities in the preceding calendar year, for consolidation and submission to the National Bureau of Investigation.
 
 Notwithstanding this requirement, banks, financing companies and other financial institutions, including their subsidiaries and affiliates, issuing access devices shall continue to be regulated and supervised by the Bangko Sentral ng Pilipinas while other companies issuing access devices shall continue to be regulated and supervised by the Securities and Exchange Commission.
 
-**Section 17._Liability under the Revised Penal Code and other laws._** – Prosecution under this Act shall be without prejudice to any liability for violation of any provision of the Revised Penal Code or any other law.
+## Section 17
 
-**Section 18._Separability clause._** – If any separable provision of this Act be declared unconstitutional, the remaining provisions shall continue to be in force.
+_Liability under the Revised Penal Code and other laws._ – Prosecution under this Act shall be without prejudice to any liability for violation of any provision of the Revised Penal Code or any other law.
 
-**Section 19._Repealing clause._** – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified or amended accordingly.
+## Section 18
 
-**Section 20._Effectivity clause._** – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+_Separability clause._ – If any separable provision of this Act be declared unconstitutional, the remaining provisions shall continue to be in force.
+
+## Section 19
+
+_Repealing clause._ – Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+## Section 20
+
+_Effectivity clause._ – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 _Approved:_ **February 11, 1998**

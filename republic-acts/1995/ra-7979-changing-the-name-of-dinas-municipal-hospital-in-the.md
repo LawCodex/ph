@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name Dinas Municipal Hospital in the Municipality of Dinas, Province of Zamboanga del Sur, is hereby changed to Don Santiago A. Nahial, Sr. Memorial Hospital.1aшphi1
+The name Dinas Municipal Hospital in the Municipality of Dinas, Province of Zamboanga del Sur, is hereby changed to Don Santiago A. Nahial, Sr. Memorial Hospital.
 
 ## Section 2
 

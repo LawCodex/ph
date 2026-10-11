@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Leyte State School of Arts and Trades in Tanauan, Leyte, is hereby changed to Leyte College of Arts and Trades.1aшphi1
+The name of the Leyte State School of Arts and Trades in Tanauan, Leyte, is hereby changed to Leyte College of Arts and Trades.
 
 ## Section 2
 

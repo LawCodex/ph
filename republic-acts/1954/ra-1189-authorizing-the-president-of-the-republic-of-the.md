@@ -36,7 +36,7 @@ Every foreign trade agreement concluded pursuant to this Act shall be subject to
 
 ## Section 3
 
-The authority of the President to enter into foreign trade agreements under section one of this Act shall terminate on the expiration of three years from the date of the enactment of this Act.1âшphi1
+The authority of the President to enter into foreign trade agreements under section one of this Act shall terminate on the expiration of three years from the date of the enactment of this Act.
 
 ## Section 4
 

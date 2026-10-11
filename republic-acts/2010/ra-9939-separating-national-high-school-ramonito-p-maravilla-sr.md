@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Ramonito P. Maravilla Sr. National High School, the initial funding of which shall be charged against the current year's appropriations of the Bata National High School - Ramonito P. Maravilla Sr. Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.lawphil.net
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Ramonito P. Maravilla Sr. National High School, the initial funding of which shall be charged against the current year's appropriations of the Bata National High School - Ramonito P. Maravilla Sr. Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

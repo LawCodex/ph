@@ -168,7 +168,7 @@ In case of loss of the SIM, death of the end-user, or request for deactivation, 
 
 _Provided,_ That regardless of any deactivation, the relevant data and information shall be retained by the PTE pursuant to the pertinent provisions of this Act, which is ten (10) years.
 
-In case of a cyber-attack on the SIM Register, the incident shall be reported to the DICT within twenty-four (24) hours of detection.1a⍵⍴h!1
+In case of a cyber-attack on the SIM Register, the incident shall be reported to the DICT within twenty-four (24) hours of detection.
 
 PTEs shall provide user-friendly reporting mechanisms for their respective end-users upon the latter's receipt of any potentially fraudulent text or call, and shall, upon due investigation, deactivate, either temporarily or permanently, the SIM used for the fraudulent text or call.
 

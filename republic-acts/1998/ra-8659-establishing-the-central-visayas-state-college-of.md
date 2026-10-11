@@ -187,7 +187,7 @@ The appointment of the officer-in-charge of the State College, pending the appoi
 
 ## Section 17
 
-On or before the fifteenth day of the second month after the opening of regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairman of the Commission on Higher Education and to both Houses of Congress a detailed report on the progress, conditions and needs of the College.Ꮮαwρhi৷
+On or before the fifteenth day of the second month after the opening of regular classes each year, the Board shall file with the Office of the President of the Philippines through the chairman of the Commission on Higher Education and to both Houses of Congress a detailed report on the progress, conditions and needs of the College.
 
 ## Section 18
 

@@ -44,7 +44,7 @@ Pursuant to the observance of National Children’s Month, an annual program of 
 
 The Department of Education (DepED) and the Commission on Higher Education (CHED) shall facilitate and encourage the commemoration of this month in all schools, public and private, nationwide.
 
-The Philippine Information Agency, in coordination with the DSWD, the DepED, the CHED, the NYC and the CWC shall ensure the effective information dissemination of this Act.1âwphi1
+The Philippine Information Agency, in coordination with the DSWD, the DepED, the CHED, the NYC and the CWC shall ensure the effective information dissemination of this Act.
 
 All local government units and private organizations including the civil society, private enterprises, and nongovernment, civic, and people’s organizations, are encouraged to observe National Children’s Month in simple rites and participate in the activities.
 

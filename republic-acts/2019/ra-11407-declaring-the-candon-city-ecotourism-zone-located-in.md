@@ -114,7 +114,7 @@ Within one (1) year after the approval of this Act, the DOT, in coordination wit
 
 ## Section 4
 
-The DOT and its concerned attached agencies shall take immediate steps to implement the tourism development plan that will suit the natural characteristics of Candon City Ecotourism Zone, and shah incorporate the same in its tourism program for the ensuing calendar year.1avvphi1 It shall also include the Candon City Ecotourism Zone in all its national, regional and local promotion programs.
+The DOT and its concerned attached agencies shall take immediate steps to implement the tourism development plan that will suit the natural characteristics of Candon City Ecotourism Zone, and shah incorporate the same in its tourism program for the ensuing calendar year. It shall also include the Candon City Ecotourism Zone in all its national, regional and local promotion programs.
 
 ## Section 5
 

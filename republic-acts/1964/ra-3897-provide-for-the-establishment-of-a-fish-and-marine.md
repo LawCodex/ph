@@ -29,7 +29,7 @@ There shall be established and maintained under the supervision of the Commissio
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act during the fiscal year ending June thirty, nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary amount for the same purpose shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act during the fiscal year ending June thirty, nineteen hundred sixty-five. Thereafter, the necessary amount for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

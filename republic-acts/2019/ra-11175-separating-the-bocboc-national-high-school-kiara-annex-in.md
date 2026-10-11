@@ -38,7 +38,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 3
 
-\- The Secretary of Education shall immediately include in the Department's program the operationalization of the Kiara National High School, the initial funding of which shall be charged against the current year's appropriation of the Bocboc National High School - Kiara Annex. Thereafter, the amount necessary for the annual General Appropriations Act.1âwphi1
+\- The Secretary of Education shall immediately include in the Department's program the operationalization of the Kiara National High School, the initial funding of which shall be charged against the current year's appropriation of the Bocboc National High School - Kiara Annex. Thereafter, the amount necessary for the annual General Appropriations Act.
 
 ## Section 4
 

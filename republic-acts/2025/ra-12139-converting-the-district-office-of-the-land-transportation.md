@@ -29,7 +29,7 @@ The existing district office of the Land Transportation Office (LTO) in the Muni
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the Class "A" LTO District Office in the Municipality of Rosales, Province of Pangasinan, the initial funding of which shall be charged against the current year's appropriation of the LTO Rosales District Office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the Class "A" LTO District Office in the Municipality of Rosales, Province of Pangasinan, the initial funding of which shall be charged against the current year's appropriation of the LTO Rosales District Office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

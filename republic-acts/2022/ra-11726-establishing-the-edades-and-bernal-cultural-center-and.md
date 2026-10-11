@@ -42,7 +42,7 @@ The Edades and Bernal Cultural Center and Museum shall be a collaboration betwee
 
 ## Section 4
 
-The City Government of Dagupan shall provide the land necessary for the construction or establishment, or both, of the main venue and ancillary offices and facilities of the Edades and Bernal Cultural Center and Museum.1aшphi1
+The City Government of Dagupan shall provide the land necessary for the construction or establishment, or both, of the main venue and ancillary offices and facilities of the Edades and Bernal Cultural Center and Museum.
 
 ## Section 5
 

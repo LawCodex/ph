@@ -78,7 +78,7 @@ Section 6 of Republic Act No. 11213, as amended by Republic Act No. 11569, is he
 
 "(3) If zonal value cannot be readily determined from the documents submitted location plan/vicinity map.
 
-"In the absence of any of the documents required above, the Commissioner of Internal Revenue may request for alternative documents, as may be deemed appropriate.1aшphi1
+"In the absence of any of the documents required above, the Commissioner of Internal Revenue may request for alternative documents, as may be deemed appropriate.
 
 "The application for payment of estate taxes shall be a distinct and separate process from the application for transfer of properties: _Provided, however_ , That the proof of settlement of the estate, whether judicial or extrajudicial, shall only be required by the BIR for the issuance of the Electronic Certificate Authorizing Registration (ECAR) for the transfer of properties, and not for purposes of filing and payment of the estate taxes.
 
@@ -94,7 +94,7 @@ Section 8 of Republic Act No. 11213, as amended by Republic Act No. 11569, is he
 
 ## Section 4
 
-_Payment by Installment._ \- Payment by installment shall be allowed within two (2) years from the statutory date for its payment without civil penalty and interest.ℒαwρhi৷
+_Payment by Installment._ \- Payment by installment shall be allowed within two (2) years from the statutory date for its payment without civil penalty and interest.
 
 ## Section 5
 

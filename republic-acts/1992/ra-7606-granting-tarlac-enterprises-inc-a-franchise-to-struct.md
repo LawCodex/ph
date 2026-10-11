@@ -45,7 +45,7 @@ Should there be applications for connections within an unenergized barangay from
 
 ## Section 5
 
-The rates for the sale of electricity, heat and power by the grantee to its consumers shall be subject to the regulations of the Energy Regulatory Board.1âшphi1
+The rates for the sale of electricity, heat and power by the grantee to its consumers shall be subject to the regulations of the Energy Regulatory Board.
 
 The Energy Regulatory Board (ERB) may also impose fines or penalties to the grantee should the latter fail to live up to its business expansion plan indicated in Section 4 herein.
 

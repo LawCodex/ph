@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Ilang Primary School in the District of Tibungco, Davao City, is changed to Sixto Babao Primary School.1âшphi1
+The name of the Ilang Primary School in the District of Tibungco, Davao City, is changed to Sixto Babao Primary School.
 
 ## Section 2
 

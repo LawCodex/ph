@@ -61,7 +61,7 @@ _Eminent Domain._ – The grantee may acquire such private property as is actual
 
 ## Section 6
 
-_Ingress and Egress._ – For the purpose of installing, operating and maintaining its telecommunication lines, it shall be lawful for the grantee to make excavations or lay conduits in any of the public places, highways, streets, lanes, sidewalks, bridges or infrastructure in any provinces and municipalities: _Provided, however,_ That any public place, highway, street, lane, sidewalk, bridge or infrastructure disturbed, altered, or changed thereby shall be repaired and replaced in a workmanlike manner by the grantee to the satisfaction of the Department of Public Works and Highways or the local engineering office, as the case may be, and/or in accordance with existing laws or rules on excavations and reconstitution of such public civil works.1âшphi1
+_Ingress and Egress._ – For the purpose of installing, operating and maintaining its telecommunication lines, it shall be lawful for the grantee to make excavations or lay conduits in any of the public places, highways, streets, lanes, sidewalks, bridges or infrastructure in any provinces and municipalities: _Provided, however,_ That any public place, highway, street, lane, sidewalk, bridge or infrastructure disturbed, altered, or changed thereby shall be repaired and replaced in a workmanlike manner by the grantee to the satisfaction of the Department of Public Works and Highways or the local engineering office, as the case may be, and/or in accordance with existing laws or rules on excavations and reconstitution of such public civil works.
 
 ## Section 7
 

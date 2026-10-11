@@ -30,7 +30,7 @@ Section nine of Republic Act Numbered Three thousand ninety-nine is amended to r
 
 ## Section 2
 
-Section ten of the same Act is hereby repealed.1a⍵⍴h!1
+Section ten of the same Act is hereby repealed.
 
 ## Section 3
 

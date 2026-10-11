@@ -78,8 +78,6 @@ The Province of Batangas is hereby reapportioned into six (6) legislative distri
 
 (6) Laurel
 
-1âwphi1
-
 (7) Malvar
 
 (8) Mataas na Kahoy

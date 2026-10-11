@@ -726,7 +726,7 @@ The technical description of Barangay Canumay West is as follows:
 <td>76</td>
 <td>77</td>
 <td colspan="4">Due North</td>
-<td><cite>1âwphi1</cite>28.88</td>
+<td>28.88</td>
 </tr>
 <tr>
 <td>77</td>
@@ -1048,7 +1048,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Barangay Officials._ \- The incumbent elected barangay officials of Barangay Canumay West and Barangay Canumay East shall continue to hold office until such time that their successors have been duly elected and qualified.1avvphi1
+_Barangay Officials._ \- The incumbent elected barangay officials of Barangay Canumay West and Barangay Canumay East shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

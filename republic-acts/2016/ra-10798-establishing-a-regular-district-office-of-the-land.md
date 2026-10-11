@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a regular district office of the Land Transportation Office (LTO) in the City of Antipolo, Province of Rizal.ᇈWᑭHIL
+There shall be established a regular district office of the Land Transportation Office (LTO) in the City of Antipolo, Province of Rizal.
 
 ## Section 2
 

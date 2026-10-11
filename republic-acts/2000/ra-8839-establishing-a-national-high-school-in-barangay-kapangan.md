@@ -31,7 +31,7 @@ There is hereby established, under the supervision of the Department of Educatio
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the effective implementation of this Act.ℒαwρhi৷
+The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 3
 

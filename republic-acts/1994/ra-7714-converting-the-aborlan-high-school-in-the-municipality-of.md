@@ -37,7 +37,7 @@ The Secretary of Education, Culture and Sports shall issue such orders, rules an
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Aborlan High School under Plaridel National High School. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Aborlan High School under Plaridel National High School. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

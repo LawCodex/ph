@@ -39,7 +39,7 @@ Section two-C of the same Act is amended to read as follows:
 
 Section two-D, of the same Act is amended to read as follows:
 
-"Section 2-D. This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines, when public interest so requires."1âшphi1
+"Section 2-D. This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines, when public interest so requires."
 
 ## Section 4
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations of the National Telecommunications Commission, there is hereby granted to Satellite Paging Systems Philippines, Inc., hereunder referred to as the grantee or its successors, a franchise to construct, establish, operate and maintain for commercial purposes and in the public interest, radio paging systems and mobile communication services limited to trunked radio technology within the Philippines and to install corresponding transmitting and receiving stations and communication facilities at such places in the Philippines as may be necessary and convenient.1âшphi1
+_Nature and Scope of Franchise._ \- Subject to the provisions of the Constitution and applicable laws, rules and regulations of the National Telecommunications Commission, there is hereby granted to Satellite Paging Systems Philippines, Inc., hereunder referred to as the grantee or its successors, a franchise to construct, establish, operate and maintain for commercial purposes and in the public interest, radio paging systems and mobile communication services limited to trunked radio technology within the Philippines and to install corresponding transmitting and receiving stations and communication facilities at such places in the Philippines as may be necessary and convenient.
 
 ## Section 2
 

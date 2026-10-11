@@ -72,7 +72,7 @@ Section one hundred eighty-five of Commonwealth Act Numbered Four hundred and si
 
 "(j) Unexposed photographic films (including motion picture films but not including X-Ray films); photographic plates and sensitize papers; photographic apparatus and equipment; and any apparatus or equipment designed especially for use in the taking of photographs or motion picture or in the developing, printing, or enlarging of photographs or motion picture films. Under this classification, the tax shall be twenty per centum.
 
-"(k) Neon-tube signs, electric signs, and electric advertising devices;,1awphil@alf
+"(k) Neon-tube signs, electric signs, and electric advertising devices;,
 
 "(l) Washing machines of all types;
 
@@ -124,4 +124,4 @@ The following persons shall be exempt from the percentage taxes imposed in secti
 
 Date of effectivity. - This Act shall take effect upon its approval.
 
-Approved: **February 16, 1951** 1awphil@alf
+Approved: **February 16, 1951**

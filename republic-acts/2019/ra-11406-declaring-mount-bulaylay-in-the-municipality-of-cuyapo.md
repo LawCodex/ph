@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Mount Bulaylay located in the Municipality of Cuyapo, Province of Nueva Ecija is hereby declared a tourist destination.1âшphi1 As such, its development shall be prioritized by the Department of Tourism (DOT), and shall be subject to the rules and regulations governing the development of tourist destinations.
+The Mount Bulaylay located in the Municipality of Cuyapo, Province of Nueva Ecija is hereby declared a tourist destination. As such, its development shall be prioritized by the Department of Tourism (DOT), and shall be subject to the rules and regulations governing the development of tourist destinations.
 
 ## Section 2
 

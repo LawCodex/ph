@@ -30,11 +30,11 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-__Short Title. – This Act shall be known as the “Philippine Green Jobs Act of 2016”.
+Short Title. – This Act shall be known as the “Philippine Green Jobs Act of 2016”.
 
 ## SECTION 2
 
-__Declaration of Policy. – It is the declared policy of the State to:
+Declaration of Policy. – It is the declared policy of the State to:
 
 (a) Affirm labor as a primary social economic force in promoting sustainable development;
 
@@ -46,11 +46,11 @@ The State shall identify needed skills, develop training programs, and train and
 
 ## SECTION 3
 
-__Coverage. – This Act shall apply to all business enterprises unless otherwise provided herein.
+Coverage. – This Act shall apply to all business enterprises unless otherwise provided herein.
 
 ## SECTION 4
 
-__Definition of Terms. – As used in this Act:
+Definition of Terms. – As used in this Act:
 
 (a) Business enterprises refer to establishments engaged in the production, manufacturing, processing, repacking, assembly, or sale of goods and/or services, including service-oriented enterprises. It shall include self-employed or own-account workers, micro, small, and medium enterprises (MSMEs) and community-based business enterprises;
 
@@ -68,7 +68,7 @@ __Definition of Terms. – As used in this Act:
 
 ## SECTION 5
 
-__Incentives. – For the purpose of encouraging business enterprises to generate and sustain green jobs as certified by the Climate Change Commission, as provided in Section 6(o) hereof, business enterprises shall enjoy the following incentives:
+Incentives. – For the purpose of encouraging business enterprises to generate and sustain green jobs as certified by the Climate Change Commission, as provided in Section 6(o) hereof, business enterprises shall enjoy the following incentives:
 
 (a) Special deduction from the taxable income equivalent to fifty percent (50%) of the total expenses for skills training and research development expenses which is over and above the allowable ordinary and necessary business deductions for said expenses under the National Internal Revenue Code of 1997, as amended; and
 
@@ -78,7 +78,7 @@ Incentives that will be granted under this Act shall be in addition to fiscal an
 
 ## SECTION 6
 
-__Role of Agencies. –
+Role of Agencies. –
 
 (a) The Department of Labor and Employment (DOLE) shall, in coordination with other government agencies, formulate a National Green Jobs Human Resource Development Plan on the development, enhancement and utilization of the labor force, both in the private and public sectors. The plan shall have the primary objective of enabling and sustaining the transition into a green economy and the generation of green jobs towards more employment and equal opportunities and the promotion of social justice and workers’ welfare. It shall include programs, projects, and activities pertaining to basic, higher and technical-vocational education and training, database that identifies and links green job opportunities with private and public entities, and information on knowledge and skill requirements of a green economy.
 
@@ -114,27 +114,27 @@ The DOLE, in coordination with the Philippine Statistics Authority (PSA), shall 
 
 ## SECTION 7
 
-__Role of the Secretary of Labor and Employment. – The Secretary of Labor and Employment shall be included as an additional member of the Climate Change Commission constituted under Section 5 of Republic Act No. 9729, as amended or the “Climate Change Act of 2009”.
+Role of the Secretary of Labor and Employment. – The Secretary of Labor and Employment shall be included as an additional member of the Climate Change Commission constituted under Section 5 of Republic Act No. 9729, as amended or the “Climate Change Act of 2009”.
 
 ## SECTION 8
 
-__Appropriations. – The amount necessary to carry out the operation of this Act shall be included in the annual General Appropriations Act.
+Appropriations. – The amount necessary to carry out the operation of this Act shall be included in the annual General Appropriations Act.
 
 ## SECTION 9
 
-__Implementing Rules and Regulations. – Within one hundred eighty (180) days from the effectivity of this Act, the Secretary of Labor and Employment, in coordination with concerned agencies as may be deemed necessary, shall formulate the necessary rules and regulations to implement the provisions of this Act.
+Implementing Rules and Regulations. – Within one hundred eighty (180) days from the effectivity of this Act, the Secretary of Labor and Employment, in coordination with concerned agencies as may be deemed necessary, shall formulate the necessary rules and regulations to implement the provisions of this Act.
 
 ## SECTION 10
 
-__Separability Clause. – Should any provision of this Act be declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
+Separability Clause. – Should any provision of this Act be declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ## SECTION 11
 
-__Repealing Clause. – Section 5 of Republic Act No. 9729, as amended or the “Climate Change Act of 2009”, is deemed amended or modified by Section 7 of this Act. All other existing laws, presidential decrees, executive orders, proclamations or administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+Repealing Clause. – Section 5 of Republic Act No. 9729, as amended or the “Climate Change Act of 2009”, is deemed amended or modified by Section 7 of this Act. All other existing laws, presidential decrees, executive orders, proclamations or administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
 
 ## SECTION 12
 
-__Effectivity. – This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) newspapers of general circulation.
+Effectivity. – This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) newspapers of general circulation.
 
 Approved,
 

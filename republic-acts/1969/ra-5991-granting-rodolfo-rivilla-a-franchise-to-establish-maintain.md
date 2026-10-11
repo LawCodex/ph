@@ -94,7 +94,7 @@ The franchise hereby granted shall be subject to amendment, alteration, or repea
 
 ## Section 16
 
-This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.1a⍵⍴h!1
+This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.
 
 ## Section 17
 

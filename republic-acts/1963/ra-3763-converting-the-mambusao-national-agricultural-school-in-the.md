@@ -28,7 +28,7 @@ The Mambusao National Agricultural School, situated in the Municipality of Mambu
 
 ## Section 2
 
-The Director of Public Schools is hereby empowered to organize the curricula of the college to meet the needs of the people of the region whereby the secondary instruction prepares the individual for academic leadership or to take his place in society skilled in vocations indigenous to the region and the collegiate curriculum to offer technical agriculture with emphasis on animal husbandry and dairying.1âшphi1
+The Director of Public Schools is hereby empowered to organize the curricula of the college to meet the needs of the people of the region whereby the secondary instruction prepares the individual for academic leadership or to take his place in society skilled in vocations indigenous to the region and the collegiate curriculum to offer technical agriculture with emphasis on animal husbandry and dairying.
 
 ## Section 3
 

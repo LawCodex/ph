@@ -29,7 +29,7 @@ The college of agriculture in Barangay Poctoy, Municipality of Torrijos; the col
 
 ## Section 2
 
-Upon approval of this Act, the college of agriculture in Barangay Poctoy, Municipality of Torrijos; the college of fisheries in Barangay Pinggan, Municipality of Gasan; and the Marinduque Community College in the Municipality of Sta. Cruz shall henceforth be known as the Marinduque State College, Torrijos Branch; the Marinduque State College, Gasan Branch; and the Marinduque State College, Sta. Cruz Branch, respectively.1âшphi1
+Upon approval of this Act, the college of agriculture in Barangay Poctoy, Municipality of Torrijos; the college of fisheries in Barangay Pinggan, Municipality of Gasan; and the Marinduque Community College in the Municipality of Sta. Cruz shall henceforth be known as the Marinduque State College, Torrijos Branch; the Marinduque State College, Gasan Branch; and the Marinduque State College, Sta. Cruz Branch, respectively.
 
 ## Section 3
 

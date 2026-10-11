@@ -57,7 +57,7 @@ The Grantee shall identify and segregate in its electricity bill to the end-user
 
 ## Section 7
 
-_Promotion of Consumer Interests._ \- The herein Grantee shall establish a customer desk that will handle consumer complaints and ensure adequate promotion of consumer rights.ℒαwρhi৷ The Grantee shall act with dispatch on all such complaints brought before it.
+_Promotion of Consumer Interests._ \- The herein Grantee shall establish a customer desk that will handle consumer complaints and ensure adequate promotion of consumer rights. The Grantee shall act with dispatch on all such complaints brought before it.
 
 ## Section 8
 

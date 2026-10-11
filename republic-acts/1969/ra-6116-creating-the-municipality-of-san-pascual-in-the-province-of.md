@@ -40,6 +40,6 @@ The Roman Catholic Cemetery and the municipal cemetery shall be retained as a te
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

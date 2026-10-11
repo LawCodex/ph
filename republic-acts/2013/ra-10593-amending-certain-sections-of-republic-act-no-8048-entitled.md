@@ -118,7 +118,7 @@ _Separability Clause._ – If any provision or part hereof is held invalid or un
 
 ## Section 8
 
-_Repealing Clause._ – All laws, issuances or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, issuances or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 9
 

@@ -30,7 +30,7 @@ The municipalities of Baler, Casiguran, Dipaculao and Maria Aurora, and all the 
 
 ## Section 2
 
-The provisions of sections twenty-one hundred thirty-seven, twenty-one hundred thirty-eight, twenty-one hundred thirty-nine, twenty-one hundred forty, twenty-one hundred forty-one, twenty-one hundred forty-two, and twenty-one hundred forty-three of the Administrative Code, as amended, shall apply to the Subprovince of Aurora.1a⍵⍴h!1
+The provisions of sections twenty-one hundred thirty-seven, twenty-one hundred thirty-eight, twenty-one hundred thirty-nine, twenty-one hundred forty, twenty-one hundred forty-one, twenty-one hundred forty-two, and twenty-one hundred forty-three of the Administrative Code, as amended, shall apply to the Subprovince of Aurora.
 
 ## Section 3
 

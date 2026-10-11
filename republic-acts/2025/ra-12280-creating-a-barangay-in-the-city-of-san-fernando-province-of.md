@@ -98,7 +98,7 @@ Lot Description:
 | 49 - 50 | N. 54 deg. 10' W. | 29.74 m. |
 | 50 - 51 | N. 54 deg. 10' W. | 27.36 m. |
 | 51 - 52 | S. 42 deg. 26' W. | 5.65 m. |
-| 52 - 53 | N. 42 deg. ℒαwρhi৷ 26' E. | 5.65 m. |
+| 52 - 53 | N. 42 deg. 26' E. | 5.65 m. |
 | 53 - 54 | N 52 deg. 10' E. | 99.75 m. |
 | 54 - 55 | N. 52 deg. 10' E. | 411.05 m. |
 | 55 - 56 | N. 33 deg. 10' E. | 4.68 m. |
@@ -150,7 +150,7 @@ Conduct and Supervision of Plebiscite. - The plebiscite conducted and supervised
 
 ## Section 4
 
-Incumbent Barangay Officials. - The incumbent elected barangay officials of Barangay Pulung Bulu shall continue to hold office until such time that their successors have been duly elected and qualified.ᇈWᑭHIL
+Incumbent Barangay Officials. - The incumbent elected barangay officials of Barangay Pulung Bulu shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

@@ -32,7 +32,7 @@ Upon the establishment of the Philippine National School for the Blind, the Scho
 
 ## Section 3
 
-There shall be established, under the supervision and control of the Director of Public Schools a Teacher-Training Center to train teachers for the blind. The Philippine Normal College shall provide room and other facilities for the said Center.1âшphi1
+There shall be established, under the supervision and control of the Director of Public Schools a Teacher-Training Center to train teachers for the blind. The Philippine Normal College shall provide room and other facilities for the said Center.
 
 ## Section 4
 

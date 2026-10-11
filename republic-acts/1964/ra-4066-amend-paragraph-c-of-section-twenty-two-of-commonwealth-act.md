@@ -32,6 +32,6 @@ Paragraph (c), Section twenty-two of Commonwealth Act Numbered One hundred eight
 
 ## Section 2
 
-This Act shall take effect upon its approval.£a⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

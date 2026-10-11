@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Pines Nationalized High School in Barangay Pines, Oroquieta City, Misamis Occidental, is hereby converted, under the supervision of the Department of Education, Culture and Sports, into a science and technological school to be known as the Misamis Occidental Science High School.Ꮮαwρhi৷
+The Pines Nationalized High School in Barangay Pines, Oroquieta City, Misamis Occidental, is hereby converted, under the supervision of the Department of Education, Culture and Sports, into a science and technological school to be known as the Misamis Occidental Science High School.
 
 ## Section 2
 

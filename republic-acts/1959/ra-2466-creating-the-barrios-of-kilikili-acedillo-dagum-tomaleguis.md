@@ -76,7 +76,7 @@ The following barrios are hereby created in the City of Calbayog.
 
 (25) Barrio of Cagbilwang, consisting of the sitios of Cabugwan, Pungdol, Catan-agan, Capilihan and Cagbilwang left; and
 
-(26) Barrio of Roxas, consisting of the sitio of Lonoy and Minaudiong.1aшphi1
+(26) Barrio of Roxas, consisting of the sitio of Lonoy and Minaudiong.
 
 ## Section 2
 

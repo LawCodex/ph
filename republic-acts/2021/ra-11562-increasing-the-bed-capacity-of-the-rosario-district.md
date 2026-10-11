@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The authorized bed capacity of the Rosario District Hospital (RDH) in the Municipality of Rosario, Province of La Union is hereby increased from twenty-five (25) to fifty (50) beds.Ꮮαwρhi৷ Any future increase in bed capacity shall be consistent with the hospital development plan.
+The authorized bed capacity of the Rosario District Hospital (RDH) in the Municipality of Rosario, Province of La Union is hereby increased from twenty-five (25) to fifty (50) beds. Any future increase in bed capacity shall be consistent with the hospital development plan.
 
 ## Section 2
 

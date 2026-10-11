@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Tiaong Central Elementary School in the Municipality of Tiaong, Province of Quezon, is hereby changed to Claro M. Recto Memorial Elementary School.1âшphi1
+The name of the Tiaong Central Elementary School in the Municipality of Tiaong, Province of Quezon, is hereby changed to Claro M. Recto Memorial Elementary School.
 
 ## Section 2
 

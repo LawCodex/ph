@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The third congressional district of Cebu is hereby constituted into a separate highway engineering district to be known as the Sixth Highway Engineering District of Cebu, with its principal office at the Municipality of Minglanilla, same province.1âшphi1
+The third congressional district of Cebu is hereby constituted into a separate highway engineering district to be known as the Sixth Highway Engineering District of Cebu, with its principal office at the Municipality of Minglanilla, same province.
 
 The highway district engineer of said highway engineering district shall be appointed in accordance with existing law.
 

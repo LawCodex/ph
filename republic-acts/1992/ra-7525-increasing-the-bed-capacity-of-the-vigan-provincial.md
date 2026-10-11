@@ -33,7 +33,7 @@ The Department of Health shall take the necessary steps for the immediate implem
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.1âшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
 
 ## Section 4
 

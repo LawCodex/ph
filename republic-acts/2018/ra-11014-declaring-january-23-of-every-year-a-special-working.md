@@ -41,7 +41,7 @@ The National Historical Commission, in coordination with the Department of Educa
 
 ## Section 4
 
-If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.1âwphi1
+If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.
 
 ## Section 5
 

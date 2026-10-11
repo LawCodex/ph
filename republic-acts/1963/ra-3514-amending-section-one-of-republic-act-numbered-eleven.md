@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section one of Republic Act Numbered Eleven hundred thirty-five, as amended by Republic Act Numbered Twenty-two hundred thirty-three, is hereby further amended to read as follows:
 
-"Sec. 1. _Name and domicile._ -There is hereby created the "Philippine Tobacco Administration," called for short the PTA, which shall be organized within sixty days after the approval of this Act. it shall have its main office in the City of Manila or Quezon City, and such branches and agencies within and outside of the Philippines as may be necessary for the proper conduct of its business.1awp++i1 The PTA shall be under the supervision of the Secretary of Agriculture and Natural Resources."
+"Sec. 1. _Name and domicile._ -There is hereby created the "Philippine Tobacco Administration," called for short the PTA, which shall be organized within sixty days after the approval of this Act. it shall have its main office in the City of Manila or Quezon City, and such branches and agencies within and outside of the Philippines as may be necessary for the proper conduct of its business. The PTA shall be under the supervision of the Secretary of Agriculture and Natural Resources."
 
 ## Section 2
 

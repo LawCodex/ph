@@ -606,7 +606,7 @@ Any rehabilitation receiver, member of the management committee or persons emplo
 
 ### Section 41
 
-_Immunity._ \- The rehabilitation receiver and all persons employed by him, and the members of the management committee and all persons employed by it, shall not be subject to any action. claim or demand in connection with any act done or omitted to be done by them in good faith in connection with the exercise of their powers and functions under this Act or other actions duly approved by the court.1awp++il
+_Immunity._ \- The rehabilitation receiver and all persons employed by him, and the members of the management committee and all persons employed by it, shall not be subject to any action. claim or demand in connection with any act done or omitted to be done by them in good faith in connection with the exercise of their powers and functions under this Act or other actions duly approved by the court.
 
 ### Section 42
 
@@ -794,7 +794,9 @@ Upon showing of a lack of protection, the court shall order the debtor or the re
 
 **(i) Administration of Proceedings.**
 
-Section 62._Contents of a Rehabilitation Plan._ – The Rehabilitation Plan shall, as a minimum:
+### Section 62
+
+_Contents of a Rehabilitation Plan._ – The Rehabilitation Plan shall, as a minimum:
 
 (a) specify the underlying assumptions, the financial goals and the procedures proposed to accomplish such goals;
 

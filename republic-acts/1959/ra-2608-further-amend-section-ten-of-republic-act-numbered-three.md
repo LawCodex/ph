@@ -31,7 +31,7 @@ Section ten of Republic Act Numbered Three hundred forty, as amended by Republic
 
 ## Section 2
 
-The sum of two hundred thousand pesos and any sum appropriated by law for the retirement of members of the Armed Forces of the Philippines shall be and are hereby appropriated and made available for carrying out the provisions of this Act.1awp++i1
+The sum of two hundred thousand pesos and any sum appropriated by law for the retirement of members of the Armed Forces of the Philippines shall be and are hereby appropriated and made available for carrying out the provisions of this Act.
 
 ## Section 3
 

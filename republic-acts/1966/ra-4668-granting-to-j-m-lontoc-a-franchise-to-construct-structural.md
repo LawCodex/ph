@@ -37,7 +37,7 @@ The grantee shall hold the national and city governments harmless from all claim
 
 ## Section 4
 
-The grantee shall be subject to the payment of all national and municipal taxes due on all improvements he will construct as well as on any business he may undertake therein or in connection with said improvements.1avvphi1
+The grantee shall be subject to the payment of all national and municipal taxes due on all improvements he will construct as well as on any business he may undertake therein or in connection with said improvements.
 
 ## Section 5
 

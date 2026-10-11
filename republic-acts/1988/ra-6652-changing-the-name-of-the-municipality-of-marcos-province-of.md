@@ -28,7 +28,7 @@ The name of the Municipality of Marcos in the Province of Palawan is hereby chan
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

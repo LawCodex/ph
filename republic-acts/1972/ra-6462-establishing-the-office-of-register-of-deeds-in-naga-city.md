@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established the Office of the Register of Deeds for Naga City with permanent office in Naga City, which shall perform all the duties and functions of the Register of Deeds for the City of Naga independent of the Provincial Register for Camarines Sur.1âшphi1
+There is hereby established the Office of the Register of Deeds for Naga City with permanent office in Naga City, which shall perform all the duties and functions of the Register of Deeds for the City of Naga independent of the Provincial Register for Camarines Sur.
 
 ## Section 2
 

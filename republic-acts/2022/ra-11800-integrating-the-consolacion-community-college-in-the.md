@@ -52,7 +52,7 @@ All parcels of land belonging to the govenrment occupied by the Consolacion Comm
 
 ## Section 6
 
-The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act (GAA).ℒαwρhi৷
+The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act (GAA).
 
 The Municipality of Consolacion shall provide the same assistance until such time that the amount necessary for the continued operation and maintenance of the Campus shall be included in the annual GAA.
 

@@ -70,7 +70,7 @@ _Gross Receipts._ \- The grantee, its successors or assigns, shall keep a separa
 
 ## Section 11
 
-_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns shall always be open to the inspection of the Commission on Audit or its authorized representatives, and it shall be the duty of the grantee to submit to the Commission on Audit quarterly reports in duplicate showing the gross receipts and the net receipts for the past quarter and the general condition of the business.1aшphi1
+_Books and Accounts._ \- The books and accounts of the grantee, its successors or assigns shall always be open to the inspection of the Commission on Audit or its authorized representatives, and it shall be the duty of the grantee to submit to the Commission on Audit quarterly reports in duplicate showing the gross receipts and the net receipts for the past quarter and the general condition of the business.
 
 ## Section 12
 

@@ -33,7 +33,7 @@ Sections one, two and four of Commonwealth Act Numbered Four hundred sixty-five,
 
 "(b) For every five thousand pesos of gross receipts or earnings, in excess of ten thousand pesos, derived by such person from his business in the Philippines during the preceding year, two pesos; and
 
-"(c) For every one thousand pesos of salaries or gross receipts or earnings derived by such person from the exercise of any profession in the Philippines or from the pursuit of any occupation therein during the preceding year, one peso.1âшphi1
+"(c) For every one thousand pesos of salaries or gross receipts or earnings derived by such person from the exercise of any profession in the Philippines or from the pursuit of any occupation therein during the preceding year, one peso.
 
 "For the purposes of the additional tax, dividends received by the taxpayer from any corporation shall not be considered as part of his gross receipts or earnings.
 

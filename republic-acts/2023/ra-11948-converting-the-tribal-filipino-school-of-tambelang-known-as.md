@@ -29,7 +29,7 @@ The Tribal Filipino School of Tambelang, known as the TFS of Tambelang Elementar
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the TFS of Tambelang Elementary School are hereby transferred and absorbed by the TFS of Tambelang Integrated School.£A⩊phi£
+All personnel, assets, liabilities and records of the TFS of Tambelang Elementary School are hereby transferred and absorbed by the TFS of Tambelang Integrated School.
 
 ## Section 3
 

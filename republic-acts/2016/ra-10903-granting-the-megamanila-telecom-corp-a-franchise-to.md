@@ -54,7 +54,7 @@ The grantee shall operate and maintain all its stations, lines, cables, systems,
 
 ## Section 6
 
-_Rates for Services._ \- The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the NTC or its legal successor. The rates to be charged by the grantee shall be unbundled, separable, and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.1âwphi1
+_Rates for Services._ \- The charges and rates for telecommunications services of the grantee, except the rates and charges on those that may hereafter be declared or considered as nonregulated services, whether flat rates or measured rates or variation thereof, shall be subject to the approval of the NTC or its legal successor. The rates to be charged by the grantee shall be unbundled, separable, and distinct among the services offered and shall be determined in such a manner that regulated services do not subsidize the unregulated ones.
 
 ## Section 7
 
@@ -78,7 +78,7 @@ _Acceptance and Compliance._ \- Acceptance of this franchise shall be given in w
 
 ## Section 10
 
-_Bond._ \- The grantee shall file a bond with the NTC in the amount that it shall determine to guarantee compliance with and fulfillment of the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the conditions, the bond shall be cancelled by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.1avvphi1
+_Bond._ \- The grantee shall file a bond with the NTC in the amount that it shall determine to guarantee compliance with and fulfillment of the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the conditions, the bond shall be cancelled by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
 
 ## Section 11
 

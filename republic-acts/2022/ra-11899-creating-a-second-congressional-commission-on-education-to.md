@@ -162,11 +162,11 @@ The Technical Secretariat shall co-exist with the Commission.
 
 ## Section 11
 
-_Executive Director._ — The ED to be appointed by the Commission must be a recognized expert with experience both in the fields of education and management.1a⍵⍴h!1 The ED shall work full-time and shall have the rank, privileges, and emoluments of an Executive Director IV (Salary Grade 29).
+_Executive Director._ — The ED to be appointed by the Commission must be a recognized expert with experience both in the fields of education and management. The ED shall work full-time and shall have the rank, privileges, and emoluments of an Executive Director IV (Salary Grade 29).
 
 ## Section 12
 
-_Philippine Institute for Development Studies (PIDS) as Research Arm._ — The PIDS shall serve as the research arm of the Commission.⚖ - ℒαɯρhi৷ During the course of the Commission's existence, it shall produce data-based research and provide analysis to contribute to the formulation of education policy recommendations.
+_Philippine Institute for Development Studies (PIDS) as Research Arm._ — The PIDS shall serve as the research arm of the Commission. During the course of the Commission's existence, it shall produce data-based research and provide analysis to contribute to the formulation of education policy recommendations.
 
 ## Section 13
 

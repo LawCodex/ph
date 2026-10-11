@@ -36,7 +36,7 @@ The Department of Education, Culture and Sports shall issue such rules and regul
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Doña Carmen Denia National High School – Barangay Crossing Bayabas Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Crossing Bayabas National High School shall be included in the annual General Appropriations Act.1aшphi1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Doña Carmen Denia National High School – Barangay Crossing Bayabas Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Crossing Bayabas National High School shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -66,8 +66,6 @@ The following sitios are constituted or converted as barrios in the Municipality
 
 18\. The sitio of Binaliw into a barrio to be known as the barrio of Binaliw;
 
-1âшphi1
-
 ## Section 3
 
 The following sitios are constituted or converted as barrios in the municipality of Canaman, same province, to wit:

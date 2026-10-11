@@ -42,7 +42,7 @@ It is expressly provided that in the event the Government should desire to opera
 
 ## Section 5
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to two per centum of the gross earnings for electric current sold under this franchise: _Provided,_ That the said franchise tax of two per centum of the gross earnings shall be in lieu of taxes, duties and assessments, licenses and fees of whatever nature and which may be levied by any governmental authority now and in the future upon privileges, earnings, income, machinery and equipment, watt-hour meters, poles, wires, transformers, and insulators used by the grantee, from which taxes, duties, licenses, fees and assessments the grantee is hereby expressly exempted.1avvphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to two per centum of the gross earnings for electric current sold under this franchise: _Provided,_ That the said franchise tax of two per centum of the gross earnings shall be in lieu of taxes, duties and assessments, licenses and fees of whatever nature and which may be levied by any governmental authority now and in the future upon privileges, earnings, income, machinery and equipment, watt-hour meters, poles, wires, transformers, and insulators used by the grantee, from which taxes, duties, licenses, fees and assessments the grantee is hereby expressly exempted.
 
 ## Section 6
 

@@ -31,7 +31,7 @@ _Nature and Scope of Franchise._ \- Subject to the provisions of the Constitutio
 
 ## Section 2
 
-_Manner of Operation of Stations or Facilities._ \- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception there on as should maximize rendition of the grantee's services and/or the availability thereof.Ꮮαwρhi৷
+_Manner of Operation of Stations or Facilities._ \- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception there on as should maximize rendition of the grantee's services and/or the availability thereof.
 
 ## Section 3
 
@@ -97,7 +97,7 @@ _General Cable Television Policy Law._ \- The grantee shall comply and be subjec
 
 ## Section 16
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.Ꮮαwρhi৷
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 17
 

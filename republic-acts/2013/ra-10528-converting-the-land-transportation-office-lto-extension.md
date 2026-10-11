@@ -34,11 +34,11 @@ The existing Land Transportation Office (LTO) Extension Office located in San Si
 
 ## Section 2
 
-The Secretary of the Department of Transportation and Communications shall issue such rules and regulations necessary for the effective implementation of this Act.1âwphi1
+The Secretary of the Department of Transportation and Communications shall issue such rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 
-The Secretary of Transportation and Communications shall immediately include in the Department’s programs the operationalization of the LTO District Office in San Simon, Pampanga, the initial funding of which shall be charged against the current year’s appropriations of the San Simon LTO Extension Office. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Transportation and Communications shall immediately include in the Department’s programs the operationalization of the LTO District Office in San Simon, Pampanga, the initial funding of which shall be charged against the current year’s appropriations of the San Simon LTO Extension Office. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

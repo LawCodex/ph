@@ -35,7 +35,7 @@ One (1) additional Regional Trial Court branch for Digos City, Davao del Sur, wi
 
 ## Section 2
 
-The Supreme Court shall assign the branch number for the newly created branch.1âwphi1
+The Supreme Court shall assign the branch number for the newly created branch.
 
 ## Section 3
 

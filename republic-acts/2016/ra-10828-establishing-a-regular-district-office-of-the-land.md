@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-There shall be established in the Municipality of Alabel, Province of Sarangani a Regular District Office of the Land Transportation Office (LTO).1âwphi1
+There shall be established in the Municipality of Alabel, Province of Sarangani a Regular District Office of the Land Transportation Office (LTO).
 
 ## SECTION 2
 

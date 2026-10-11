@@ -52,7 +52,7 @@ The body of teachers, instructors, master teachers and heads of departments shal
 
 ## Section 7
 
-All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Puerto Princesa School for Philippine Craftsmen are hereby transferred to the Puerto Princesa School of Arts and Trades.1aшphi1
+All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Puerto Princesa School for Philippine Craftsmen are hereby transferred to the Puerto Princesa School of Arts and Trades.
 
 ## Section 8
 

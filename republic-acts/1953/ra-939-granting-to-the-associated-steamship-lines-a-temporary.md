@@ -40,7 +40,7 @@ Any department of the Government having supervision over off-shore vessels, such
 
 ## Section 5
 
-No fees will be chargeable as the radio station that may be established by virtue of this Act shall engage in communications regarding the grantee's trade and business only.1a⍵⍴h!1
+No fees will be chargeable as the radio station that may be established by virtue of this Act shall engage in communications regarding the grantee's trade and business only.
 
 ## Section 6
 

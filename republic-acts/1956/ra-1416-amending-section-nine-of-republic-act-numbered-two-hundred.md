@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Paragraph (a) of section nine of Republic Act Numbered Two hundred and ninety-one is hereby amended to read as follows:
 
-"Sec. 9. _Promotion to grade of major general and lieutenant general._ — (a) The grade of lieutenant general in the active list shall be conferred only upon the officer appointed by the President, with the consent of the Commission on Appointments, to the office of Chief of Staff of the Armed Forces of the Philippines.1awp++i1 The grade of the major general in the active list shall be conferred only upon the officer appointed by the President, with the consent of the Commission on Appointments, to the Office of Vice Chief of Staff of the Armed Forces of the Philippines.
+"Sec. 9. _Promotion to grade of major general and lieutenant general._ — (a) The grade of lieutenant general in the active list shall be conferred only upon the officer appointed by the President, with the consent of the Commission on Appointments, to the office of Chief of Staff of the Armed Forces of the Philippines. The grade of the major general in the active list shall be conferred only upon the officer appointed by the President, with the consent of the Commission on Appointments, to the Office of Vice Chief of Staff of the Armed Forces of the Philippines.
 
 ## Section 2
 

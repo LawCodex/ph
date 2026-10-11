@@ -33,7 +33,7 @@ In the event that the National Power Corporation shall have established its line
 
 ## Section 3
 
-The rates for the sale of electric light, heat and power shall always be subject to the regulations of the Public Service Commission.1âшphi1
+The rates for the sale of electric light, heat and power shall always be subject to the regulations of the Public Service Commission.
 
 ## Section 4
 

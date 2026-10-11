@@ -45,10 +45,10 @@ Upon request of the President of the University, the heads of appropriate office
 
 ## Section 6
 
-The sum of one million pesos for operating expenses and five hundred thousand pesos for capital outlay is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, beginning fiscal year nineteen hundred and seventy and every fiscal year thereafter for the continuing support of the said College.1a⍵⍴h!1
+The sum of one million pesos for operating expenses and five hundred thousand pesos for capital outlay is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, beginning fiscal year nineteen hundred and seventy and every fiscal year thereafter for the continuing support of the said College.
 
 ## Section 7
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

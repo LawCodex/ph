@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar is hereby converted into a regular barrio to be known as Barrio Cantubi.1âшphi1
+The sitio of Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar is hereby converted into a regular barrio to be known as Barrio Cantubi.
 
 ## Section 2
 

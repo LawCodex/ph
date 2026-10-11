@@ -192,7 +192,7 @@ _Board of Trustees._ — The corporate powers and functions of the Fund shall be
 
 (g) Five (5) appointive members, two (2) representatives of private employees, two (2) representatives of private employers and one (1) representative of government employees.
 
-The four (4) private sector representatives shall each be appointed by the President of the Philippines for a term of two (2) years: _Provided,_ however, That of the first to be appointed, one (1) representative of the employers shall have a term of only one (1) year. The representative of the government employees shall be appointed by the President of the Philippines for a term of two (2) years.1aшphi1
+The four (4) private sector representatives shall each be appointed by the President of the Philippines for a term of two (2) years: _Provided,_ however, That of the first to be appointed, one (1) representative of the employers shall have a term of only one (1) year. The representative of the government employees shall be appointed by the President of the Philippines for a term of two (2) years.
 
 The Chairman, Vice Chairman and members of the Board shall be entitled to a reasonable per diem for each meeting actually attended at such amounts as may be fixed by the Board in accordance with existing laws, rules and regulations.
 
@@ -290,7 +290,7 @@ _Penal Provisions._ — Refusal or failure without lawful cause or with fraudule
 
 ## Section 26
 
-_Existing Coverage._ — Membership under the Fund established under Presidential Decree No. 1752, together with amounts and benefits already accrued to the members, including employers' counterparts, as well as covering records documents, shall be transferred, continued and/or integrated into the new Fund hereby established, subject henceforth to policies and rules adopted thereunder.ℒαwρhi৷
+_Existing Coverage._ — Membership under the Fund established under Presidential Decree No. 1752, together with amounts and benefits already accrued to the members, including employers' counterparts, as well as covering records documents, shall be transferred, continued and/or integrated into the new Fund hereby established, subject henceforth to policies and rules adopted thereunder.
 
 ## Section 27
 

@@ -29,7 +29,7 @@ January Six of every year is hereby declared as a special nonworking holiday in 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -86,7 +86,7 @@ _General powers and duties of the City Mayor._ -Unless otherwise provided by law
 
 (n) To submit an annual report to the Department Head.
 
-(o) To perform such other duties and exercise such other executive powers as may be prescribed by law or ordinance.1âшphi1
+(o) To perform such other duties and exercise such other executive powers as may be prescribed by law or ordinance.
 
 ## Section 7
 
@@ -366,11 +366,11 @@ _Costs, fees, fines and forfeitures in municipal court._ -There shall be taxed a
 
 ## Section 27
 
-_No person sentenced by municipal court to be confined without commitment._ -No person shall be confined in the prison by sentence of the municipal court until the warden or officer in charge of the prison shall receive a written commitment showing the offense for which the prisoner was tried, the date of the trial, the exact terms of the judgment or sentence, and the date of the order of the commitment.1âшphi1 The clerk shall, under seal of the court, issue a commitment in each case of sentence to imprisonment.
+_No person sentenced by municipal court to be confined without commitment._ -No person shall be confined in the prison by sentence of the municipal court until the warden or officer in charge of the prison shall receive a written commitment showing the offense for which the prisoner was tried, the date of the trial, the exact terms of the judgment or sentence, and the date of the order of the commitment. The clerk shall, under seal of the court, issue a commitment in each case of sentence to imprisonment.
 
 ## Section 28
 
-_Procedure on appeal from municipal court to Court of First Instance._ -An appeal shall lie to the Court of First Instance in all cases where fine or imprisonment or both, is imposed by the municipal court.1âшphi1 The party desiring to appeal shall, before six o’clock post meridian of the fifteenth day after the promulgation and entry of the judgment by the municipal court, file with the clerk of the court of written statement that he appeals to the court of First Instance. The filing of such statement shall perfect the appeal. The judge of the court from whose decision appeal is taken, shall, within five days after the appeal is taken, transmit to the clerk of the Court of First Instance a certified copy of the record of proceedings and all the original papers and processes in the case. A perfected appeal shall operate to vacate the judgment of the municipal court, and the action, when duly entered in the Court of First Instance, shall stand for trial de novo upon its merits as though the same had never been tried. Pending an appeal, the defendant shall remain in custody unless sufficient bail, in accordance with existing provisions of law, has been filed and perfected.
+_Procedure on appeal from municipal court to Court of First Instance._ -An appeal shall lie to the Court of First Instance in all cases where fine or imprisonment or both, is imposed by the municipal court. The party desiring to appeal shall, before six o’clock post meridian of the fifteenth day after the promulgation and entry of the judgment by the municipal court, file with the clerk of the court of written statement that he appeals to the court of First Instance. The filing of such statement shall perfect the appeal. The judge of the court from whose decision appeal is taken, shall, within five days after the appeal is taken, transmit to the clerk of the Court of First Instance a certified copy of the record of proceedings and all the original papers and processes in the case. A perfected appeal shall operate to vacate the judgment of the municipal court, and the action, when duly entered in the Court of First Instance, shall stand for trial de novo upon its merits as though the same had never been tried. Pending an appeal, the defendant shall remain in custody unless sufficient bail, in accordance with existing provisions of law, has been filed and perfected.
 
 Appeals in civil cases shall be governed by the ordinary procedures established by law
 

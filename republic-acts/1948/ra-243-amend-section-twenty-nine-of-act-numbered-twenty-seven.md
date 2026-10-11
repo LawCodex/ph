@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section twenty-nine of Act Numbered Twenty-seven hundred and eleven, known as the Revised Administrative Code, as amended by Republic Act Numbered Fifty-seven, is hereby further amended to read as follows:
 
-"Sec. 29. _Legal holidays._ — Thursday and Friday of Holy Week, Christmas Day, and Sundays are legal religious holidays.1aшphi1
+"Sec. 29. _Legal holidays._ — Thursday and Friday of Holy Week, Christmas Day, and Sundays are legal religious holidays.
 
 "The legal holidays are: the first of January, the first of May, the fourth of July, the thirtieth of November, the thirtieth of December, and the day appointed by law for the holding of a general election: _Provided,_ However, That when any regular holiday of fixed date falls on Sundays, the next succeeding date shall be observed as legal holiday."
 

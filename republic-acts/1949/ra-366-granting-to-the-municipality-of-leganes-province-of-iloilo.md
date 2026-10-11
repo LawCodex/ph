@@ -159,7 +159,7 @@ thence N. 76° 07' W., 76.76 m. to point "65";
 
 thence N. 49° 38' E., 44.43 m. to the point of
 
-beginning; containing an area of one million eight hundred sixty one thousand and sixty-one square meters (1,861,061), more or less.7!ᕼdMᗄ7 All points referred to are indicated on the plan; bearings true; declination 1° 40' E.; date of survey, January 1911-June 1912."
+beginning; containing an area of one million eight hundred sixty one thousand and sixty-one square meters (1,861,061), more or less. All points referred to are indicated on the plan; bearings true; declination 1° 40' E.; date of survey, January 1911-June 1912."
 
 ## Section 2
 

@@ -41,7 +41,7 @@ Section 261, Paragraphs (d)(1) and (2), Article XXII of Batas Pambansa Blg. 881 
 
 ## Section 3
 
-All other election laws, decrees, executive orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed.1aшphi1
+All other election laws, decrees, executive orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 4
 

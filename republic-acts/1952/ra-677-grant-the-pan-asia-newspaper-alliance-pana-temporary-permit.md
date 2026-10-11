@@ -34,7 +34,7 @@ Subject further to existing limitations, the grantee is authorized to exercise t
 
 ## Section 4
 
-This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee.1awphil@alf
+This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee.
 
 ## Section 5
 
@@ -70,7 +70,7 @@ The temporary permit hereby granted shall be subject to amendment, alternation, 
 
 ## Section 13
 
-It shall be unlawful for the grantee to use, employ or contract for labor of persons held in involuntary servitude.1awphil@alf
+It shall be unlawful for the grantee to use, employ or contract for labor of persons held in involuntary servitude.
 
 ## Section 14
 
@@ -82,6 +82,6 @@ This temporary permit shall not be interpreted to mean an exclusive grant of the
 
 ## Section 16
 
-This Act shall take effect upon its approval.1awphil@alf
+This Act shall take effect upon its approval.
 
 Approved: **April 3, 1952**

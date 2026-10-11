@@ -72,7 +72,9 @@ Section 3 of Presidential Decree No. 1080, as amended, is hereby amended to read
 
 "f) To undertake such actions that are consistent with the primary purposes of the corporation."
 
-**Section 5._Borrowing and Other Miscellaneous Powers._** – In addition to the powers specified elsewhere in this Decree, the Corporation shall have the power:
+## Section 5
+
+_Borrowing and Other Miscellaneous Powers._ – In addition to the powers specified elsewhere in this Decree, the Corporation shall have the power:
 
 "a) To borrow funds in foreign countries or in the Philippines with the approval of the President of the Philippines and subject, in the case of foreign borrowings, to the prior concurrence of the Monetary Board, subject to the rules and regulations that the Monetary Board may prescribe, pertinent provisions of Republic Act No. 7653 and Bangko Sentral rules and regulations;
 

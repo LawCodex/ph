@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 There is hereby created a new position of municipal judge in the Municipality of San Fernando, Province of La Union.
 
-Within thirty days from the approval of this Act, the appointment to the new position shall be made.1âшphi1
+Within thirty days from the approval of this Act, the appointment to the new position shall be made.
 
 ## Section 2
 

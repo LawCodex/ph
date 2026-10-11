@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Medical and Dental Services in the Public Schools which is now functioning as a division of Bureau of Health, since January first, nineteen hundred and fifty-one, is hereby transferred or returned back the Department of Education as a division of that Department where it originally belonged from nineteen hundred and forty-six to nineteen hundred and fifty: _Provided,_ That the supervision of hygiene and sanitation shall be exercised by the Department of Health.1a⍵⍴h!1
+The Medical and Dental Services in the Public Schools which is now functioning as a division of Bureau of Health, since January first, nineteen hundred and fifty-one, is hereby transferred or returned back the Department of Education as a division of that Department where it originally belonged from nineteen hundred and forty-six to nineteen hundred and fifty: _Provided,_ That the supervision of hygiene and sanitation shall be exercised by the Department of Health.
 
 ## Section 2
 

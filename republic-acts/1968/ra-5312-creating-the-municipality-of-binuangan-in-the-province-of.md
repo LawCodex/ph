@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Binuangan, Mabini, Kitamban, Kitambis, Valdiconcha, Mosangot, Dampias and Nabataan in the Municipality of Salay, Province of Misamis Oriental, are separated from said municipality, and shall constitute a distinct and independent municipality, to be known as the Municipality of Binuangan, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of the barrio of Binuangan.
+The barrios of Binuangan, Mabini, Kitamban, Kitambis, Valdiconcha, Mosangot, Dampias and Nabataan in the Municipality of Salay, Province of Misamis Oriental, are separated from said municipality, and shall constitute a distinct and independent municipality, to be known as the Municipality of Binuangan, same province. The seat of government of the new municipality shall be in the present site of the barrio of Binuangan.
 
 ## Section 2
 

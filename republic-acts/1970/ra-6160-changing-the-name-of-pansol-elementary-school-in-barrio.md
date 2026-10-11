@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Pansol Elementary School in the barrio of Pansol, Municipality of Calamba, Province of Laguna, is hereby changed to Mababang Paaralang Don Eduardo E. Barreto.1âшphi1
+The name of Pansol Elementary School in the barrio of Pansol, Municipality of Calamba, Province of Laguna, is hereby changed to Mababang Paaralang Don Eduardo E. Barreto.
 
 ## Section 2
 

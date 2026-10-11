@@ -65,7 +65,7 @@ _Nature and_ S _cope of Franchise._ \- Subject to the conditions established in 
 
 "Section 10. _Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The grantee shall create employment opportunities and shall allow on-the-job trainings in their franchise operation: _Provided,_ That priority shall be accorded to the residents in areas where their principal office is located _: Provided, further,_ That the grantee shall follow the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances: _Provided, finally,_ That the employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to the Securities and Exchange Commission annually."
 
-"Section 11. M _obile Number Portability._ \- The grantee shall provide mobile number portability (MNP).1âwphi1 It shall set up a mechanism for the purpose of implementing MNP. It shall interconnect directly or indirectly with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees. It shall not install network features, functions or capabilities that will impede the implementation of a nationwide MNP system. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees."
+"Section 11. M _obile Number Portability._ \- The grantee shall provide mobile number portability (MNP). It shall set up a mechanism for the purpose of implementing MNP. It shall interconnect directly or indirectly with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees. It shall not install network features, functions or capabilities that will impede the implementation of a nationwide MNP system. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees."
 
 "Section 12. _Eminent Domain._ \- Subject to the limitations and procedures prescribed by law, the grantee is authorized to exercise the right of eminent domain insofar as may be reasonably necessary to further the establishment and efficient maintenance and operation of its telecommunications systems.
 
@@ -99,7 +99,7 @@ _Renewal of Franchise._ \- The term of the franchise granted under Republic Act 
 
 ## Section 3
 
-S _eparability Claus_ e. - If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.1awp++i1
+S _eparability Claus_ e. - If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 4
 

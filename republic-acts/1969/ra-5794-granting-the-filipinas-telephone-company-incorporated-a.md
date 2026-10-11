@@ -107,7 +107,7 @@ The grantee agrees that in the event the Philippine Government should desire to 
 
 ## Section 21
 
-Whenever in this franchise the term "grantee" is used, it shall be held and understood to mean and represent the "Filipinas Telephone Company, Incorporated," its representatives, successors or assigns.1a⍵⍴h!1
+Whenever in this franchise the term "grantee" is used, it shall be held and understood to mean and represent the "Filipinas Telephone Company, Incorporated," its representatives, successors or assigns.
 
 ## Section 22
 
@@ -115,6 +115,6 @@ Upon approval of this Act, Republic Act Numbered Eight hundred seventy-two, as a
 
 ## Section 23
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

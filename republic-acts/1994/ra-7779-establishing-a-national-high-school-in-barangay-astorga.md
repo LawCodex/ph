@@ -33,7 +33,7 @@ There shall be established a national high school in Barangay Astorga, Municipal
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue the rules and regulations necessary to carry out the purpose of this Act.1a⍵⍴h!1
+The Secretary of the Department of Education, Culture and Sports shall issue the rules and regulations necessary to carry out the purpose of this Act.
 
 ## Section 3
 

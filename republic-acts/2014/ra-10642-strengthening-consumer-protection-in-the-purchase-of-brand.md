@@ -142,7 +142,7 @@ In both cases of replacement and repurchase, the reasonable allowance for use, a
 
 (3) In case a nonconformity of the motor vehicle is not found by the DTI, it shall rule in favor of the manufacturer, distributor, .authorized dealer or retailer, and direct the consumer to reimburse the manufacturer, distributor, authorized dealer or retailer the costs incurred by the latter in validating the consumer’s complaints.
 
-An appeal may be taken from a final judgment or order of the Adjudication Officer which completely disposes of the case within fifteen (15) days from receipt thereof.1âwphi1 The appeal shall be taken by filing a Memorandum of Appeal with the Secretary of the DTI, with Notice of Appeal to the Adjudication Officer, and with a copy duly furnished the adverse party or parties on any of the following grounds:
+An appeal may be taken from a final judgment or order of the Adjudication Officer which completely disposes of the case within fifteen (15) days from receipt thereof. The appeal shall be taken by filing a Memorandum of Appeal with the Secretary of the DTI, with Notice of Appeal to the Adjudication Officer, and with a copy duly furnished the adverse party or parties on any of the following grounds:
 
 (i) Grave abuse of discretion;
 

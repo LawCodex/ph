@@ -30,9 +30,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — TITLE AND DECLARATION OF POLICIES
 
-**Section 1._Short Title._** \- This Act shall be known as the **"_Renewable Energy Act of 2008_ "**. It shall hereinafter be referred to as the "Act".
+### Section 1
 
-**Section 2._Declaration of Policies._** \- It is hereby declared the policy of the State to:
+_Short Title._ \- This Act shall be known as the **"_Renewable Energy Act of 2008_ "**. It shall hereinafter be referred to as the "Act".
+
+### Section 2
+
+_Declaration of Policies._ \- It is hereby declared the policy of the State to:
 
 (a) Accelerate the exploration and development of renewable energy resources such as, but not limited to, biomass, solar, wind, hydro, geothermal and ocean energy sources, including hybrid systems, to achieve energy self-reliance, through the adoption of sustainable energy development strategies to reduce the country's dependence on fossil fuels and thereby minimize the country's exposure to price fluctuations in the international markets, the effects of which spiral down to almost all sectors of the economy;
 
@@ -42,9 +46,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) Establish the necessary infrastructure and mechanism to carry out the mandates specified in this Act and other existing laws.
 
-**Section 3._Scope._** \- This Act shall establish the framework for the accelerated development and advancement of renewable energy resources, and the development of a strategic program to increase its utilization.
+### Section 3
 
-**Section 4._Definition of Terms._** \- As used in this Act, the following terms are herein defined:
+_Scope._ \- This Act shall establish the framework for the accelerated development and advancement of renewable energy resources, and the development of a strategic program to increase its utilization.
+
+### Section 4
+
+_Definition of Terms._ \- As used in this Act, the following terms are herein defined:
 
 (a) "Biomass energy systems" refer to energy systems which use biomass resources to produce heat, steam, mechanical power or electricity through either thermochemical, biochemical or physico-chemical processes, or through such other technologies which shall comply with prescribed environmental standards pursuant to this Act;
 
@@ -162,13 +170,19 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER II — Organization
 
-**Section 5._Lead Agency._** \- The DOE shall be the lead agency mandated to implement the provisions of this Act.
+### Section 5
+
+_Lead Agency._ \- The DOE shall be the lead agency mandated to implement the provisions of this Act.
 
 ## CHAPTER III — ON-GRID RENEWABLE ENERGY DEVELOPMENT
 
-**Section 6._Renewable Portfolio Standard (RPS)._** \- All stakeholders in the electric power industry shall contribute to the growth of the renewable energy industry of the country. Towards this end, the National Renewable Energy Board (NREB), created under Section 27 of this Act, shall set the minimum percentage of generation from eligible renewable energy resources and determine to which sector RPS shall be imposed on a per grid basis within one (1) year from the effectivity of this Act.
+### Section 6
 
-**Section 7._Feed-In Tariff System._** \- To accelerate the development of emerging renewable energy resources, a feed-in tariff system for electricity produced from wind, solar, ocean, run-of-river hydropower and biomass is hereby mandated. Towards this end, the ERC in consultation with the National Renewable Energy Board (NREB) created under Section 27 of this Act shall formulate and promulgate feed-in tariff system rules within one (1) year upon the effectivity of this Act which shall include, but not limited to the following:
+_Renewable Portfolio Standard (RPS)._ \- All stakeholders in the electric power industry shall contribute to the growth of the renewable energy industry of the country. Towards this end, the National Renewable Energy Board (NREB), created under Section 27 of this Act, shall set the minimum percentage of generation from eligible renewable energy resources and determine to which sector RPS shall be imposed on a per grid basis within one (1) year from the effectivity of this Act.
+
+### Section 7
+
+_Feed-In Tariff System._ \- To accelerate the development of emerging renewable energy resources, a feed-in tariff system for electricity produced from wind, solar, ocean, run-of-river hydropower and biomass is hereby mandated. Towards this end, the ERC in consultation with the National Renewable Energy Board (NREB) created under Section 27 of this Act shall formulate and promulgate feed-in tariff system rules within one (1) year upon the effectivity of this Act which shall include, but not limited to the following:
 
 (a) Priority connections to the grid for electricity generated from emerging renewable energy resources such as wind, solar, ocean, run-of-river hydropower and biomass power plants within the territory of the Philippines;
 
@@ -178,17 +192,23 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) The feed-in tariff to be set shall be applied to the emerging renewable energy to be used in compliance with the renewable portfolio standard as provided for in this Act and in accordance with the RPS rules that will be established by the DOE.
 
-**Section 8._Renewable Energy Market (REM)._** \- To facilitate compliance with Section 6 of this Act, the DOE shall establish the REM and shall direct PEMC to implement changes to the WESM Rules in order to incorporate the rules specific to the operation of the REM under the WESM.
+### Section 8
+
+_Renewable Energy Market (REM)._ \- To facilitate compliance with Section 6 of this Act, the DOE shall establish the REM and shall direct PEMC to implement changes to the WESM Rules in order to incorporate the rules specific to the operation of the REM under the WESM.
 
 The PEMC shall, under the supervision of the DOE, establish a Renewable Energy Registrar within one (1) year from the effectivity of this Act and shall issue, keep and verify RE Certificates corresponding to energy generated from eligible RE facilities. Such certificates will be used for compliance with the RPS. For this purpose, a transaction fee, equal to half of what PEMC currently charges regular WESM players, may be imposed by PEMC.
 
-**Section 9._Green Energy Option._** \- The DOE shall establish a Green Energy Option program which provides end-users the option to choose RE resources as their sources of energy. In consultation with the NREB, the DOE shall promulgate the appropriate implementing rules and regulations which are necessary, incidental or convenient to achieve the objectives set forth herein.
+### Section 9
+
+_Green Energy Option._ \- The DOE shall establish a Green Energy Option program which provides end-users the option to choose RE resources as their sources of energy. In consultation with the NREB, the DOE shall promulgate the appropriate implementing rules and regulations which are necessary, incidental or convenient to achieve the objectives set forth herein.
 
 Upon the determination of the DOE of its technical viability and consistent with the requirements of the green energy option program, end users may directly contract from RE facilities their energy requirements distributed through their respective distribution utilities.
 
 Consistent herewith, TRANSCO or its successors-in-interest, DUs, PEMC and all relevant parties are hereby mandated to provide the mechanisms for the physical connection and commercial arrangements necessary to ensure the success of the Green Energy Option. The end-user who will enroll under the energy option program should be informed by way of its monthly electric bill, how much of its monthly energy consumption and generation charge is provided by RE facilities.
 
-**Section 10._Net-metering for Renewable Energy._** \- Subject to technical considerations and without discrimination and upon request by distribution end-users, the distribution utilities shall enter into net-metering agreements with qualified end-users who will be installing RE system.
+### Section 10
+
+_Net-metering for Renewable Energy._ \- Subject to technical considerations and without discrimination and upon request by distribution end-users, the distribution utilities shall enter into net-metering agreements with qualified end-users who will be installing RE system.
 
 The ERC, in consultation with the NREB and the electric power industry participants, shall establish net metering interconnection standards and pricing methodology and other commercial arrangements necessary to ensure success of the net-metering for renewable energy program within one (1) year upon the effectivity of this Act.
 
@@ -196,11 +216,15 @@ The distribution utility shall be entitled to any Renewable Energy Certificate r
 
 The DOE, ERC, TRANSCO or its successors-in-interest, DUs, PEMC and all relevant parties are hereby mandated to provide the mechanisms for the physical connection and commercial arrangements necessary to ensure the success of the Net-metering for Renewable Energy program, consistent with the Grid and Distribution Codes.
 
-**Section 11._Transmission and Distribution System Development._** \- TRANSCO or its successors-in-interest or its buyer/concessionaire and all DUs, shall include the required connection facilities for RE-based power facilities in the Transmission and Distribution Development Plans: _Provided_ , That such facilities are approved by the DOE. The connection facilities of RE power plants, including the extension of transmission and distribution lines, shall be subject only to ancillary services covering such connections.
+### Section 11
+
+_Transmission and Distribution System Development._ \- TRANSCO or its successors-in-interest or its buyer/concessionaire and all DUs, shall include the required connection facilities for RE-based power facilities in the Transmission and Distribution Development Plans: _Provided_ , That such facilities are approved by the DOE. The connection facilities of RE power plants, including the extension of transmission and distribution lines, shall be subject only to ancillary services covering such connections.
 
 ## CHAPTER IV — OFF-GRID RENEWABLE ENERGY DEVELOPMENT
 
-**Section 12._Off-Grid Areas._** \- Within one (1) year from the effectivity of this Act, NPC-SPUG or its successors-in-interest and/or qualified third parties in off-grid areas shall, in the performance of its mandate to provide missionary electrification, source a minimum percentage of its total annual generation upon recommendation of the NREB from available RE resources in the area concerned, as may be determined by the DOE.
+### Section 12
+
+_Off-Grid Areas._ \- Within one (1) year from the effectivity of this Act, NPC-SPUG or its successors-in-interest and/or qualified third parties in off-grid areas shall, in the performance of its mandate to provide missionary electrification, source a minimum percentage of its total annual generation upon recommendation of the NREB from available RE resources in the area concerned, as may be determined by the DOE.
 
 As used in this Act, successors-in-interest refer to entities deemed technically and financially capable to serve/take over existing NPC-SPUG areas.
 
@@ -208,17 +232,23 @@ Eligible RE generation in off-grid and missionary areas shall be eligible for th
 
 ## CHAPTER V — GOVERNMENT SHARE
 
-**Section 13._Government Share._** \- The government share on existing and new RE development projects shall be equal to one percent (1%) of the gross income of RE resource developers resulting from the sale of renewable energy produced and such other income incidental to and arising from the renewable energy generation, transmission, and sale of electric power except for indigenous geothermal energy, which shall be at one and a half percent (1.5%) of gross income.
+### Section 13
+
+_Government Share._ \- The government share on existing and new RE development projects shall be equal to one percent (1%) of the gross income of RE resource developers resulting from the sale of renewable energy produced and such other income incidental to and arising from the renewable energy generation, transmission, and sale of electric power except for indigenous geothermal energy, which shall be at one and a half percent (1.5%) of gross income.
 
 To further promote the development of RE projects, the government hereby waives its share from the proceeds of micro-scale projects for communal purposes and non-commercial operations, which are not greater than one hundred (100) kilowatts.
 
 ## CHAPTER VI — ENVIRONMENTAL COMPLIANCE
 
-**Section 14._Compliance with Environmental Regulations._** \- All RE explorations, development, utilization, and RE systems operations shall be conducted in accordance with existing environmental regulations as prescribed by the DENR and/or any other concerned government agency.
+### Section 14
+
+_Compliance with Environmental Regulations._ \- All RE explorations, development, utilization, and RE systems operations shall be conducted in accordance with existing environmental regulations as prescribed by the DENR and/or any other concerned government agency.
 
 ## CHAPTER VII — GENERAL INCENTIVES
 
-**Section 15._Incentives for Renewable Energy Projects and Activities._** \- RE developers of renewable energy facilities, including hybrid systems, in proportion to and to the extent of the RE component, for both power and non-power applications, as duly certified by the DOE, in consultation with the BOI, shall be entitled to the following incentives:
+### Section 15
+
+_Incentives for Renewable Energy Projects and Activities._ \- RE developers of renewable energy facilities, including hybrid systems, in proportion to and to the extent of the RE component, for both power and non-power applications, as duly certified by the DOE, in consultation with the BOI, shall be entitled to the following incentives:
 
 (a) Income Tax Holiday (ITH) - For the first seven (7) years of its commercial operations, the duly registered RE developer shall be exempt from income taxes levied by the national government.
 
@@ -262,19 +292,31 @@ This provision shall also apply to the whole process of exploring and developing
 
 (j) Tax Credit on Domestic Capital Equipment and Services. - A tax credit equivalent to one hundred percent (100%) of the value of the value-added tax and custom duties that would have been paid on the RE machinery, equipment, materials and parts had these items been imported shall be given to an RE operating contract holder who purchases machinery, equipment, materials, and parts from a domestic manufacturer for purposes set forth in this Act: _Provided_ , That prior approval by the DOE was obtained by the local manufacturer: _Provided_ , _further_ , That the acquisition of such machinery, equipment, materials, and parts shall be made within the validity of the RE operating contract.
 
-**Section 16._Environmental Compliance Certificate (ECC)._** \- Notwithstanding Section 17 (b) (3) (iii) of Republic Act No. 7160, it would be sufficient for the renewable energy developer to secure the Environmental Compliance Certificate (ECC) from the corresponding regional office of the DENR.
+### Section 16
 
-**Section 17._Exemption from the Universal Charge._** \- Power and electricity generated through the RES for the generator's own consumption and/or for free distribution in the off-grid areas shall be exempted from the payment of the universal charge provided for under Section 34 of Republic Act No. 9136.
+_Environmental Compliance Certificate (ECC)._ \- Notwithstanding Section 17 (b) (3) (iii) of Republic Act No. 7160, it would be sufficient for the renewable energy developer to secure the Environmental Compliance Certificate (ECC) from the corresponding regional office of the DENR.
 
-**Section 18._Payment of Transmission Charges._** \- A registered renewable energy developer producing power and electricity from an intermittent RE resource may opt to pay the transmission and wheeling charges of TRANSCO or its successors-in-interest on a per kilowatt-hour basis at a cost equivalent to the average per kilowatt-hour rate of all other electricity transmitted through the grid.
+### Section 17
 
-**Section 19._Hybrid and Cogeneration Systems._** \- The tax exemptions and/or incentives provided for in Section 15 of this Act shall be availed of by registered RE Developer of hybrid and cogeneration systems utilizing both RE sources and conventional energy: _Provided_ , _however_ , That the tax exemptions and incentives shall apply only to the equipment, machinery and/or devices utilizing RE resources.
+_Exemption from the Universal Charge._ \- Power and electricity generated through the RES for the generator's own consumption and/or for free distribution in the off-grid areas shall be exempted from the payment of the universal charge provided for under Section 34 of Republic Act No. 9136.
 
-**Section 20._Intermittent RE Resources._** \- TRANSCO or its successors-in-interest, in consultation with stakeholders, shall determine the maximum penetration limit of the Intermittent RE-based power plants to the Grid, through technical and economic analysis. Qualified and registered RE generating units with intermittent RE resources shall be considered "must dispatch" based on available energy and shall enjoy the benefit of priority dispatch. All provisions under the WESM Rules, Distribution and Grid Codes which do not allow "must dispatch" status for intermittent RE resources shall be deemed amended or modified. The PEMC and TRANSCO or its successors-in-interest shall implement technical mitigation and improvements in the system in order to ensure safety and reliability of electricity transmission.
+### Section 18
+
+_Payment of Transmission Charges._ \- A registered renewable energy developer producing power and electricity from an intermittent RE resource may opt to pay the transmission and wheeling charges of TRANSCO or its successors-in-interest on a per kilowatt-hour basis at a cost equivalent to the average per kilowatt-hour rate of all other electricity transmitted through the grid.
+
+### Section 19
+
+_Hybrid and Cogeneration Systems._ \- The tax exemptions and/or incentives provided for in Section 15 of this Act shall be availed of by registered RE Developer of hybrid and cogeneration systems utilizing both RE sources and conventional energy: _Provided_ , _however_ , That the tax exemptions and incentives shall apply only to the equipment, machinery and/or devices utilizing RE resources.
+
+### Section 20
+
+_Intermittent RE Resources._ \- TRANSCO or its successors-in-interest, in consultation with stakeholders, shall determine the maximum penetration limit of the Intermittent RE-based power plants to the Grid, through technical and economic analysis. Qualified and registered RE generating units with intermittent RE resources shall be considered "must dispatch" based on available energy and shall enjoy the benefit of priority dispatch. All provisions under the WESM Rules, Distribution and Grid Codes which do not allow "must dispatch" status for intermittent RE resources shall be deemed amended or modified. The PEMC and TRANSCO or its successors-in-interest shall implement technical mitigation and improvements in the system in order to ensure safety and reliability of electricity transmission.
 
 As used in this Act, RE generating unit with intermittent RE resources refers to a RE generating unit or group of units connected to a common connection point whose RE energy resource is location-specific naturally difficult to precisely predict the availability of RE energy resource thereby making the energy generated variable, unpredictable and irregular and the availability of the resource inherently uncontrollable, which include plants utilizing wind, solar, run-of-river hydro or ocean energy.
 
-**Section 21._Incentives for RE Commercialization._** \- All manufacturers, fabricators and suppliers of locally-produced RE equipment and components duly recognized and accredited by the DOE, in consultation with DOST, DOF and DTI, shall, upon registration with the BOI, be entitled to the privileges set forth under this section.
+### Section 21
+
+_Incentives for RE Commercialization._ \- All manufacturers, fabricators and suppliers of locally-produced RE equipment and components duly recognized and accredited by the DOE, in consultation with DOST, DOF and DTI, shall, upon registration with the BOI, be entitled to the privileges set forth under this section.
 
 Consistent with Article 7, Item (20) of EO No. 226, the registration with the BOI, as provided for in Section 15 and Section 21 of this Act, shall be carried out through an agreement and an administrative arrangement between the BOI and the DOE, with the end-view of facilitating the registration of qualified RE facilities based on the implementing rules and regulations that will be developed by DOE. It is further mandated that the applications for registration will be positively acted upon by BOI on the basis of the accreditation issued by DOE.
 
@@ -288,15 +330,25 @@ The Renewable Energy Sector is hereby declared a priority investment sector that
 
 (d) Zero-rated value added tax transactions - All manufacturers, fabricators and suppliers of locally produced renewable energy equipment shall be subject to zero-rated value added tax on its transactions with local suppliers of goods, properties and services.
 
-**Section 22._Incentives for Farmers Engaged in the Plantation of Biomass Resources._** \- For a period of ten (10) years after the effectivity of this Act, all individuals and entities engaged in the plantation of crops and trees used as biomass resources such as but not limited to jatropha, coconut, and sugarcane, as certified by the Department of Energy, shall be entitled to duty-free importation and be exempted from Value-Added Tax (VAT) on all types of agricultural inputs, equipment and machinery such as, but not limited to, fertilizer, insecticide, pesticide, tractor, trailers, trucks, farm implements and machinery, harvesters, threshers, hybrid seeds, genetic materials, sprayers, packaging machinery and materials, bulk handling facilities, such as conveyors and mini-loaders, weighing scales, harvesting equipment, and spare parts of all agricultural equipment.
+### Section 22
 
-**Section 23._Tax Rebate for Purchase of RE Components._** \- To encourage the adoption of RE technologies, the DOF, in consultation with DOST, DOE, and DTI, shall provide rebates for all or part of the tax paid for the purchase of RE equipment for residential, industrial, or community use. The DOF shall also prescribe the appropriate period for granting the tax rebates.
+_Incentives for Farmers Engaged in the Plantation of Biomass Resources._ \- For a period of ten (10) years after the effectivity of this Act, all individuals and entities engaged in the plantation of crops and trees used as biomass resources such as but not limited to jatropha, coconut, and sugarcane, as certified by the Department of Energy, shall be entitled to duty-free importation and be exempted from Value-Added Tax (VAT) on all types of agricultural inputs, equipment and machinery such as, but not limited to, fertilizer, insecticide, pesticide, tractor, trailers, trucks, farm implements and machinery, harvesters, threshers, hybrid seeds, genetic materials, sprayers, packaging machinery and materials, bulk handling facilities, such as conveyors and mini-loaders, weighing scales, harvesting equipment, and spare parts of all agricultural equipment.
 
-**Section 24._Period of Grant of Fiscal Incentives._** \- The fiscal incentives granted under Section 15 of this Act shall apply to all RE capacities upon the effectivity of this Act. The National Renewable Energy Board, in coordination with the Department of Energy, shall submit a yearly report on the implementation of this Act to the Philippine Congress, through the Joint Congressional Power Commission, every January of each year following the period in review, indicating among others, the progress of RE development in the country and the benefits and impact generated by the development and utilization of its renewable energy resources in the context of its energy security and climate change imperatives. This shall serve as basis for the Joint Congressional Power Commission review of the incentives as provided for in this Act towards ensuring the full development of the country's RE capacities under a rationalized market and incentives scheme.
+### Section 23
 
-**Section 25._Registration of RE Developers and local manufacturers, fabricators and suppliers of locally-produced renewable energy equipment._** \- RE Developers and local manufacturers, fabricators and suppliers of locally-produced renewable energy equipment shall register with the Department of Energy, through the Renewable Energy Management Bureau. Upon registration, a certification shall be issued to each RE Developer and local manufacturer, fabricator and supplier of locally-produced renewable energy equipment to serve as the basis of their entitlement to incentives provided under Chapter VII of this Act.
+_Tax Rebate for Purchase of RE Components._ \- To encourage the adoption of RE technologies, the DOF, in consultation with DOST, DOE, and DTI, shall provide rebates for all or part of the tax paid for the purchase of RE equipment for residential, industrial, or community use. The DOF shall also prescribe the appropriate period for granting the tax rebates.
 
-**Section 26._Certification from the Department of Energy._** \- All certifications required to qualify RE developers to avail of the incentives provided for under this Act shall be issued by the DOE through the Renewable Energy Management Bureau.
+### Section 24
+
+_Period of Grant of Fiscal Incentives._ \- The fiscal incentives granted under Section 15 of this Act shall apply to all RE capacities upon the effectivity of this Act. The National Renewable Energy Board, in coordination with the Department of Energy, shall submit a yearly report on the implementation of this Act to the Philippine Congress, through the Joint Congressional Power Commission, every January of each year following the period in review, indicating among others, the progress of RE development in the country and the benefits and impact generated by the development and utilization of its renewable energy resources in the context of its energy security and climate change imperatives. This shall serve as basis for the Joint Congressional Power Commission review of the incentives as provided for in this Act towards ensuring the full development of the country's RE capacities under a rationalized market and incentives scheme.
+
+### Section 25
+
+_Registration of RE Developers and local manufacturers, fabricators and suppliers of locally-produced renewable energy equipment._ \- RE Developers and local manufacturers, fabricators and suppliers of locally-produced renewable energy equipment shall register with the Department of Energy, through the Renewable Energy Management Bureau. Upon registration, a certification shall be issued to each RE Developer and local manufacturer, fabricator and supplier of locally-produced renewable energy equipment to serve as the basis of their entitlement to incentives provided under Chapter VII of this Act.
+
+### Section 26
+
+_Certification from the Department of Energy._ \- All certifications required to qualify RE developers to avail of the incentives provided for under this Act shall be issued by the DOE through the Renewable Energy Management Bureau.
 
 The Department of Energy, through the Renewable Energy Management Bureau shall issue said certification fifteen (15) days upon request of the renewable energy developer or manufacturer, fabricator or supplier.
 
@@ -304,7 +356,9 @@ _Provided_ , That the certification issued by the Department of Energy shall be 
 
 ## CHAPTER VIII — GENERAL PROVISIONS
 
-**Section 27._Creation of the National Renewable Energy Board (NREB)._** \- The NREB is hereby created. It shall be composed of a Chairman and one (1) representative each from the following agencies: DOE, DTI, DOF, DENR, NPC, TRANSCO or its successors-in-interest, PNOC and PEMC who shall be designated by their respective secretaries on a permanent basis; and one (1) representative each from the following sectors: RE Developers, Government Financial Institutions (GFIs), private distribution utilities, electric cooperatives, electricity suppliers and non-governmental organizations, duly endorsed by their respective industry associations and all to be appointed by the President of the Republic of the Philippines.
+### Section 27
+
+_Creation of the National Renewable Energy Board (NREB)._ \- The NREB is hereby created. It shall be composed of a Chairman and one (1) representative each from the following agencies: DOE, DTI, DOF, DENR, NPC, TRANSCO or its successors-in-interest, PNOC and PEMC who shall be designated by their respective secretaries on a permanent basis; and one (1) representative each from the following sectors: RE Developers, Government Financial Institutions (GFIs), private distribution utilities, electric cooperatives, electricity suppliers and non-governmental organizations, duly endorsed by their respective industry associations and all to be appointed by the President of the Republic of the Philippines.
 
 The Chairman shall, within one (1) month from the effectivity of this Act, convene the NREB.
 
@@ -322,7 +376,9 @@ The NREB shall have the following powers and functions:
 
 (e) Perform such other functions, as may be necessary, to attain the objectives of this Act.
 
-**Section 28._Renewable Energy Trust Fund (RETF)._** \- A Renewable Energy Trust Fund is hereby established to enhance the development and greater utilization of renewable energy. It shall be administered by the DOE as a special account in any of the GFIs. The RETF shall be exclusively used to:
+### Section 28
+
+_Renewable Energy Trust Fund (RETF)._ \- A Renewable Energy Trust Fund is hereby established to enhance the development and greater utilization of renewable energy. It shall be administered by the DOE as a special account in any of the GFIs. The RETF shall be exclusively used to:
 
 (a) Finance the research, development, demonstration, and promotion of the widespread and productive use of RE systems for power and non-power applications, as well as to provide funding for R & D institutions engaged in renewable energy studies undertaken jointly through public-private sector partnership, including provision for scholarship and fellowship for energy studies;
 
@@ -354,17 +410,25 @@ The RETF shall be funded from:
 
 (h) Proceeds from the fines and penalties imposed under this Act.
 
-**Section 29._Financial Assistance Program._** \- Government financial institutions such as the Development Bank of the Philippines (DBP), Land Bank of the Philippines (LBP), Phil-Exim Bank and other government financial institutions shall, in accordance with and to the extent allowed by the enabling provisions of their respective charters or applicable laws, provide preferential financial packages for the development, utilization and commercialization of RE projects as duly recommended and endorsed by the DOE.
+### Section 29
 
-**Section 30._Adoption of Waste-To-Energy Technologies._** \- The DOE shall, where practicable, encourage the adoption of waste-to-energy facilities such as, but not limited to, biogas systems. The DOE shall, in coordination with the DENR, ensure compliance with this provision.
+_Financial Assistance Program._ \- Government financial institutions such as the Development Bank of the Philippines (DBP), Land Bank of the Philippines (LBP), Phil-Exim Bank and other government financial institutions shall, in accordance with and to the extent allowed by the enabling provisions of their respective charters or applicable laws, provide preferential financial packages for the development, utilization and commercialization of RE projects as duly recommended and endorsed by the DOE.
+
+### Section 30
+
+_Adoption of Waste-To-Energy Technologies._ \- The DOE shall, where practicable, encourage the adoption of waste-to-energy facilities such as, but not limited to, biogas systems. The DOE shall, in coordination with the DENR, ensure compliance with this provision.
 
 As used in this Act, waste-to-energy technologies shall refer to systems which convert to biodegradable materials such as, but not limited to, animal manure or agricultural waste, into useful energy through processes such as anaerobic digestion, fermentation and gasification, among others, subject to the provisions and intent of Republic Act No. 8749 (Clean Air Act of 1999) and Republic Act No. 9003 (Ecological Solid Waste Management Act of 2000).
 
-**Section 31._Incentives for RE Host Communities/LGUs._** \- Eighty percent (80%) of the share from royalty and/or government share of RE host communities/LGUs from RE projects and activities shall be used directly to subsidize the electricity consumption of end users in the RE host communities/LGUs whose monthly consumption do not exceed one hundred (100) kwh. The subsidy may be in the form of rebates, refunds and/or any other forms as may be determined by DOE, DOF and ERC, in coordination with NREB.
+### Section 31
+
+_Incentives for RE Host Communities/LGUs._ \- Eighty percent (80%) of the share from royalty and/or government share of RE host communities/LGUs from RE projects and activities shall be used directly to subsidize the electricity consumption of end users in the RE host communities/LGUs whose monthly consumption do not exceed one hundred (100) kwh. The subsidy may be in the form of rebates, refunds and/or any other forms as may be determined by DOE, DOF and ERC, in coordination with NREB.
 
 The DOE, DOF and ERC, in coordination with the NREB and in consultation with the distribution utilities shall promulgate the mechanisms to implement this provision within six months from the effectivity of this Act.
 
-**Section 32._Creation of the Renewable Energy Management Bureau._** \- For the purpose of implementing the provisions of this Act, a Renewable Energy Management Bureau (REMB) under the DOE is hereby established, and the existing Renewable Energy Management Division of the Energy Utilization Management Bureau of the DOE, whose plantilla shall form the nucleus of REMB, is hereby dissolved. The organizational structure and staffing complement of the REMB shall be determined by the Secretary of the DOE, in consultation with the Department of Budget and Management, in accordance with existing civil service rules and regulations. The budgetary requirements necessary for the creation of the REMB shall be taken from the current appropriations of the DOE. Thereafter, the funding for the REMB shall be included in the annual General Appropriations Act.
+### Section 32
+
+_Creation of the Renewable Energy Management Bureau._ \- For the purpose of implementing the provisions of this Act, a Renewable Energy Management Bureau (REMB) under the DOE is hereby established, and the existing Renewable Energy Management Division of the Energy Utilization Management Bureau of the DOE, whose plantilla shall form the nucleus of REMB, is hereby dissolved. The organizational structure and staffing complement of the REMB shall be determined by the Secretary of the DOE, in consultation with the Department of Budget and Management, in accordance with existing civil service rules and regulations. The budgetary requirements necessary for the creation of the REMB shall be taken from the current appropriations of the DOE. Thereafter, the funding for the REMB shall be included in the annual General Appropriations Act.
 
 The REMB shall have the following powers and functions:
 
@@ -384,11 +448,17 @@ The REMB shall have the following powers and functions:
 
 ## CHAPTER IX — FINAL PROVISIONS
 
-**Section 33._Implementing Rules and Regulations (IRR)._** \- Within six (6) months from the effectivity of this Act, the DOE shall, in consultation with the Senate and House Committees on Energy, relevant government agencies and RE stakeholders, promulgate the IRR of this Act.
+### Section 33
 
-**Section 34._Congressional Oversight._** \- Upon the effectivity of this Act, the Joint Congressional Power Commission created under Section 62 of Republic Act No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001" shall exercise oversight powers over the implementation of this Act.
+_Implementing Rules and Regulations (IRR)._ \- Within six (6) months from the effectivity of this Act, the DOE shall, in consultation with the Senate and House Committees on Energy, relevant government agencies and RE stakeholders, promulgate the IRR of this Act.
 
-**Section 35._Prohibited Acts._** \- The following acts shall be prohibited:
+### Section 34
+
+_Congressional Oversight._ \- Upon the effectivity of this Act, the Joint Congressional Power Commission created under Section 62 of Republic Act No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001" shall exercise oversight powers over the implementation of this Act.
+
+### Section 35
+
+_Prohibited Acts._ \- The following acts shall be prohibited:
 
 (a) Non-compliance or violation of the RPS rules;
 
@@ -400,7 +470,9 @@ The REMB shall have the following powers and functions:
 
 (e) Non-compliance with the established guidelines that DOE will adopt for the implementation of this Act.
 
-**Section 36._Penalty Clause._** \- Any person who willfully commits any of the prohibited acts enumerated under this Act, shall be imposed with the penalties provided herein. Any person, who willfully aids or abets the commission of a crime prohibited herein or who causes the commission of any such act by another shall be liable in the same manner as the principal.
+### Section 36
+
+_Penalty Clause._ \- Any person who willfully commits any of the prohibited acts enumerated under this Act, shall be imposed with the penalties provided herein. Any person, who willfully aids or abets the commission of a crime prohibited herein or who causes the commission of any such act by another shall be liable in the same manner as the principal.
 
 In the case of association, partnership or corporations, the penalty shall be imposed on the partner, president, chief operating officer, chief executive officer, directors or officers responsible for the violation.
 
@@ -410,15 +482,23 @@ The DOE is further empowered to impose administrative fines and penalties for an
 
 This is without prejudice to the penalties provided for under existing environmental regulations prescribed by the DENR and/or any other concerned government agency.
 
-**Section 37._Appropriations._** \- Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the DOE. Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+### Section 37
 
-**Section 38._Separability Clause._** \- If any provision of this Act is held invalid unconstitutional, the remainder of the Act or the provision not otherwise affected shall remain valid and subsisting.
+_Appropriations._ \- Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the DOE. Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
-**Section 39._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+### Section 38
+
+_Separability Clause._ \- If any provision of this Act is held invalid unconstitutional, the remainder of the Act or the provision not otherwise affected shall remain valid and subsisting.
+
+### Section 39
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
 
 Consistent with the foregoing paragraph and Section 13 of this Act, Section 1 of Presidential Decree No. 1442 or the Geothermal Resources Exploration and Development Act, insofar as the exploration of geothermal resources by the government, and Section 10 (1) of Republic Act No. 7156 otherwise known as the "Mini-Hydro Electric Power Incentive Act", insofar as the special privilege tax rate of two percent (2%) are hereby repealed, modified or amended accordingly.
 
-**Section 40._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+### Section 40
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved
 

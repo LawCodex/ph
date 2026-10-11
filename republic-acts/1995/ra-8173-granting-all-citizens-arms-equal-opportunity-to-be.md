@@ -67,8 +67,12 @@ Section 27 of Republic Act No. 7166, as amended by Republic Act No. 8045, is her
 
 "(7) The seventh copy shall be deposited inside the compartment of the ballot box for valid ballots."
 
-**Section 2._Repealing Clause._** \- All laws, decrees, executive orders, rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed.
+## Section 2
 
-**Section 3._Effectivity._** \- This Act shall take effect immediately upon its approval.
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 3
+
+_Effectivity._ \- This Act shall take effect immediately upon its approval.
 
 Approved: **December 20 , 1995.**

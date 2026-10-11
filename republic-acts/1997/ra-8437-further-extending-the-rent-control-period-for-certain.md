@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Beginning January 1, 1998 and for a duration of four (4) years thereafter ending on December 31, 2001, monthly rentals of all residential units covered by Batas Pambansa Blg. 877, shall not be increased by the lessor by more than the rates herein provided for:lawphil.net
+Beginning January 1, 1998 and for a duration of four (4) years thereafter ending on December 31, 2001, monthly rentals of all residential units covered by Batas Pambansa Blg. 877, shall not be increased by the lessor by more than the rates herein provided for:
 
 | PERIOD | MAXIMUM INCREASE |
 |---|---|
@@ -38,7 +38,7 @@ Beginning January 1, 1998 and for a duration of four (4) years thereafter ending
 | January 1, 2000 - December 31, 2000 | Fifteen percent (15%) |
 | January 1, 2001 - December 31, 2001 | Fifteen percent (15%) |
 
-Provided, That the basis for the maximum increase herein authorized for the four-year period shall be the actual monthly rental as of December 31, 1997: Provided, further, That the increase authorized herein shall be cumulative and compounded.lawphil.net
+Provided, That the basis for the maximum increase herein authorized for the four-year period shall be the actual monthly rental as of December 31, 1997: Provided, further, That the increase authorized herein shall be cumulative and compounded.
 
 ## Section 2
 

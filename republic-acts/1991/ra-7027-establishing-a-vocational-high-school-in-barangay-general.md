@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a vocational high school in Barangay General Luna, Municipality of Barotac Viejo, Province of Iloilo, to be known as the General Luna Vocational High School.1âшphi1
+There shall be established a vocational high school in Barangay General Luna, Municipality of Barotac Viejo, Province of Iloilo, to be known as the General Luna Vocational High School.
 
 ## Section 2
 

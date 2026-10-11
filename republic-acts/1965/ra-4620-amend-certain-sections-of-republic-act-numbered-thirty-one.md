@@ -42,6 +42,6 @@ Subsection (a), (b) and (c) of Section six of the same Act are amended to read a
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1965.

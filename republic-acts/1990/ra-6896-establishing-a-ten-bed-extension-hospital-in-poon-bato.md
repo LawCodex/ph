@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Poon-Bato, Municipality of Botolan, Province of Zambales, to be known as the President Ramon Magsaysay Memorial Extension Hospital.1âшphi1
+There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Poon-Bato, Municipality of Botolan, Province of Zambales, to be known as the President Ramon Magsaysay Memorial Extension Hospital.
 
 ## Section 2
 

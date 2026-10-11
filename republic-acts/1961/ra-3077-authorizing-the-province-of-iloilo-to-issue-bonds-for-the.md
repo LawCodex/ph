@@ -34,7 +34,7 @@ The bonds issued under the authority of this section may be made payable both as
 
 ## Section 2
 
-The President of the Philippines is authorized to convey and transfer said bonds to the Republic of the Philippines for a consideration, charging the same to the net proceeds of the sale of the bonds of the Republic of the Philippines issued in equivalent amount as provided in Section three hereof, and to deposit the proceeds of said conveyance with the Treasurer of the Philippines.1awp++i1 The said proceeds of the conveyance to the National Government of the said bonds shall be credited by the Treasurer of the Philippines to the "Cement Roads Bond Fund, Province of Iloilo" and be withdrawn only for the purposes set forth in this Act in accordance with resolutions of the Provincial Board of Iloilo.
+The President of the Philippines is authorized to convey and transfer said bonds to the Republic of the Philippines for a consideration, charging the same to the net proceeds of the sale of the bonds of the Republic of the Philippines issued in equivalent amount as provided in Section three hereof, and to deposit the proceeds of said conveyance with the Treasurer of the Philippines. The said proceeds of the conveyance to the National Government of the said bonds shall be credited by the Treasurer of the Philippines to the "Cement Roads Bond Fund, Province of Iloilo" and be withdrawn only for the purposes set forth in this Act in accordance with resolutions of the Provincial Board of Iloilo.
 
 ## Section 3
 
@@ -46,7 +46,7 @@ The proceeds of the sale of the National Government bonds authorized to be issue
 
 ## Section 5
 
-A sinking fund is hereby created for the payment of the National Government bonds issued under the provisions hereof in such manner that the total contributions thereof, accrued as at such rate interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the said bonds.1avvphi1 T he said fund shall be under the custody of the Central Bank of the Philippines which shall invest the same in such manner as the Monetary Board may approve; shall charge all expenses of such investment to the said sinking fund, and shall credit the same with the interest on investments and other incomes belonging to it.
+A sinking fund is hereby created for the payment of the National Government bonds issued under the provisions hereof in such manner that the total contributions thereof, accrued as at such rate interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the said bonds. T he said fund shall be under the custody of the Central Bank of the Philippines which shall invest the same in such manner as the Monetary Board may approve; shall charge all expenses of such investment to the said sinking fund, and shall credit the same with the interest on investments and other incomes belonging to it.
 
 ## Section 6
 

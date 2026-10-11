@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Pres. Carlos P. Garcia Provincial Hospital in the Municipality of Talibon, Province of Bohol, is hereby increased from seventy-five (75) to one hundred (100) beds, and relocating the said hospital in San Jose, Talibon, Bohol.LaW㏗iL
+The bed capacity of the Pres. Carlos P. Garcia Provincial Hospital in the Municipality of Talibon, Province of Bohol, is hereby increased from seventy-five (75) to one hundred (100) beds, and relocating the said hospital in San Jose, Talibon, Bohol.
 
 ## Section 2
 

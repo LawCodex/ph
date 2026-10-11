@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Socorro National
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Socorro National High School - Pamosaingan Annex are hereby transferred to and absorbed by the Pamosaingan National High School.1avvphi1
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Socorro National High School - Pamosaingan Annex are hereby transferred to and absorbed by the Pamosaingan National High School.
 
 ## Section 3
 

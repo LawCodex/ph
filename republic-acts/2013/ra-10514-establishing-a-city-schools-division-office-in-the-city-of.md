@@ -36,7 +36,7 @@ The staff complement for the City Schools Division Office of Antipolo City shall
 
 ## Section 2
 
-_Appropriations._ – The Secretary of Education shall immediately include in its program the operationalization of the City Schools Division Office of Antipolo City, the initial funding of which shall be charged against the appropriations of the DepED. Thereafter, such sum as may be necessary for the continued operation of the office shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ – The Secretary of Education shall immediately include in its program the operationalization of the City Schools Division Office of Antipolo City, the initial funding of which shall be charged against the appropriations of the DepED. Thereafter, such sum as may be necessary for the continued operation of the office shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

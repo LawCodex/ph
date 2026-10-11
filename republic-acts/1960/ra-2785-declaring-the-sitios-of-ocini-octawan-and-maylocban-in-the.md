@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Ocini, Octawan and Maylocban in the Municipality of Sagnay, Province of Camarines Sur, are declared as part of the barrio of Tinorognan.1âшphi1
+The sitios of Ocini, Octawan and Maylocban in the Municipality of Sagnay, Province of Camarines Sur, are declared as part of the barrio of Tinorognan.
 
 ## Section 2
 

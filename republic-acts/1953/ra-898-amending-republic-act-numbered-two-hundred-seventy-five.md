@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one of Republic Act Numbered Two hundred seventy-five is hereby amended to read as follows:
 
-"**Section 1.** The bureau heretofore called the Bureau of Banking shall hereafter be known as the Office of the Insurance Commissioner and the Bank Commissioner and the Assistant Bank Commissioner shall hereafter be called respectively the Insurance Commissioner and the Assist ant Insurance Commissioner.1a⍵⍴h!1 The Insurance Commissioner shall receive an annual salary of ten thousand pesos and the Assistant Insurance Commissioner, seven thousand two hundred pesos."
+"**Section 1.** The bureau heretofore called the Bureau of Banking shall hereafter be known as the Office of the Insurance Commissioner and the Bank Commissioner and the Assistant Bank Commissioner shall hereafter be called respectively the Insurance Commissioner and the Assist ant Insurance Commissioner. The Insurance Commissioner shall receive an annual salary of ten thousand pesos and the Assistant Insurance Commissioner, seven thousand two hundred pesos."
 
 ## Section 2
 

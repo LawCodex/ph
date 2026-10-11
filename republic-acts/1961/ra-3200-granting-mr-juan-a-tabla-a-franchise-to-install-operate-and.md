@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Mr. Juan A. Tabla in the Municipality of Villaba, Province of Leyte, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, operate and maintain and electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the said municipality.1avvphi1
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Mr. Juan A. Tabla in the Municipality of Villaba, Province of Leyte, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, operate and maintain and electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the said municipality.
 
 ## Section 2
 

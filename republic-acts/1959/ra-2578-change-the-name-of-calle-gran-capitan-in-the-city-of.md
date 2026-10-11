@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Calle Gran Capitan in the City of Tacloban is hereby changed to Justice Norberto Romualdez, Sr. Street.1âшphi1
+The name of Calle Gran Capitan in the City of Tacloban is hereby changed to Justice Norberto Romualdez, Sr. Street.
 
 ## Section 2
 

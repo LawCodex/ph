@@ -100,7 +100,7 @@ _Implementing Rules and Regulations._ – The BOC, in consultation with concerne
 
 ## SECTION 7
 
-_Prescription of Crimes._ – The crime punishable under this Act shall prescribe in twenty (20) years.1âwphi1
+_Prescription of Crimes._ – The crime punishable under this Act shall prescribe in twenty (20) years.
 
 ## SECTION 8
 

@@ -28,11 +28,17 @@ AN ACT CREATING A NATIONAL BOOK DEVELOPMENT TRUST FUND TO SUPPORT FILIPINO AUTHO
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Title._** \- This Act shall be known as the **"_National Book Development Trust Fund Act_ "**.
+## Section 1
 
-**Section 2._Statement of Policy._** \- It is the policy of the State to promote the continuing development of book publishing industry in all regions of the country, as embodied in Republic Act No. 8047 or the "Book Publishing Industry Development Act". Since authorship is one of the major components of book publishing, the national book policy obliges the State to create a dynamic and conducive environment for the promotion of Filipino authorship and other creative activities in book development.
+_Title._ \- This Act shall be known as the **"_National Book Development Trust Fund Act_ "**.
 
-**Section 3._The National Book Development Trust Fund._** \- A National Book Development Trust Fund, hereafter referred to as the Fund, is hereby established exclusively for the support and promotion of Filipino authorship especially in science and technology and in subject areas wherein locally authored books are either few or nonexistent. The Fund shall be subject to the following;
+## Section 2
+
+_Statement of Policy._ \- It is the policy of the State to promote the continuing development of book publishing industry in all regions of the country, as embodied in Republic Act No. 8047 or the "Book Publishing Industry Development Act". Since authorship is one of the major components of book publishing, the national book policy obliges the State to create a dynamic and conducive environment for the promotion of Filipino authorship and other creative activities in book development.
+
+## Section 3
+
+_The National Book Development Trust Fund._ \- A National Book Development Trust Fund, hereafter referred to as the Fund, is hereby established exclusively for the support and promotion of Filipino authorship especially in science and technology and in subject areas wherein locally authored books are either few or nonexistent. The Fund shall be subject to the following;
 
 (a) The contribution to the Fund shall be sourced from the following:
 
@@ -62,15 +68,25 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (2) There shall be an external auditor to perform an annual audit of the Fund's performance.
 
-**Section 4._Promotional Initiatives._** \- The Board, in coordination with the national and local government units (LGUs), shall undertake activities to inform, promote and develop Filipino authorship.
+## Section 4
 
-**Section 5._Incentives to Local Government Units (LGUs)._** \- The Board may provide incentives to LGUs such as, but not limited to, matching the funds being provided by the LGUs, in activities that refect their partnership toward attaining the objectives of this Act.
+_Promotional Initiatives._ \- The Board, in coordination with the national and local government units (LGUs), shall undertake activities to inform, promote and develop Filipino authorship.
 
-**Section 6._Separability Clause._** \- Should any portion herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act.
+## Section 5
 
-**Section 7._Repealing Clause._** \- All laws, decrees, orders, rules and regulations and other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Incentives to Local Government Units (LGUs)._ \- The Board may provide incentives to LGUs such as, but not limited to, matching the funds being provided by the LGUs, in activities that refect their partnership toward attaining the objectives of this Act.
 
-**Section 8._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any newspaper of general circulation in the Philippines.
+## Section 6
+
+_Separability Clause._ \- Should any portion herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act.
+
+## Section 7
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations and other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 8
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any newspaper of general circulation in the Philippines.
 
 Approved
 

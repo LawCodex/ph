@@ -1135,7 +1135,7 @@ The Commission on Elections shall conduct and supervise such plebiscite. The exp
 
 ### Section 52
 
-_Officials of Mabalacat City._ \- The present elective officials of the Municipality of Mabalacat shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising theirduties and functions and they shall be automatically absorbed by the city government of Mabalacat City.1âwphi1
+_Officials of Mabalacat City._ \- The present elective officials of the Municipality of Mabalacat shall continue to exercise their powers and functions until such time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. Appointive officials and employees of the municipality shall likewise continue exercising theirduties and functions and they shall be automatically absorbed by the city government of Mabalacat City.
 
 ### Section 53
 

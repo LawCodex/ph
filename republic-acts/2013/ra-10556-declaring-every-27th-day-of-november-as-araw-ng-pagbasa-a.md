@@ -40,7 +40,7 @@ The State likewise recognizes the importance of promoting reading as a shared ac
 
 ## Section 3
 
-_National Holiday._ – November 27 of every year is hereby declared as "Araw ng Pagbasa", which shall be a regular working holiday, to be celebrated in all elementary and secondary schools in the country. In the event that the holiday falls on a weekend, the holiday shall be observed on the Friday of that week.1âwphi1
+_National Holiday._ – November 27 of every year is hereby declared as "Araw ng Pagbasa", which shall be a regular working holiday, to be celebrated in all elementary and secondary schools in the country. In the event that the holiday falls on a weekend, the holiday shall be observed on the Friday of that week.
 
 ## Section 4
 

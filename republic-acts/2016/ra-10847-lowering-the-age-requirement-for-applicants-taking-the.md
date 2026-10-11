@@ -80,7 +80,7 @@ All local government units (LGUs) and employer organizations shall allocate the 
 
 (c) Foreign social workers to be engaged as professors or lecturers in a higher educational institution or university for the enhancement of the social work education in the country; and
 
-(d) Foreign social workers, including volunteers, whose services are engaged during disasters, calamities, or any emergency cases as may be determined by the Board.1awp++i1
+(d) Foreign social workers, including volunteers, whose services are engaged during disasters, calamities, or any emergency cases as may be determined by the Board.
 
 The STP shall provide, among others, that; (1) The practice of the foreign professional shall be limited to the particular work for which the foreigner is being engaged; (2) The validity of the STP shall be for one (1) year only, subject to renewal; and (3) The practice of the foreign social worker shall be subject to the applicable domestic laws and regulations.”
 

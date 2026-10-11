@@ -97,7 +97,7 @@ Reasonable fees may be charged for the issuance of said licenses or permits to d
 
 ## Section 5
 
-_Qualifications of Manufacturers or Dealers._ \- A license or permit to manufacture or to deal in the wholesale or retail of firecrackers and pyrotechnic devices shall be issued only to: (a) Filipino citizens of good moral character; or (b) entities duly registered with the Bureau of Commerce of the Department of Trade and Industry (DTI) or the Securities and Exchange Commission (SEC), one hundred per centum (100%) of the capitalization of which is owned by Filipino citizens.1âшphi1
+_Qualifications of Manufacturers or Dealers._ \- A license or permit to manufacture or to deal in the wholesale or retail of firecrackers and pyrotechnic devices shall be issued only to: (a) Filipino citizens of good moral character; or (b) entities duly registered with the Bureau of Commerce of the Department of Trade and Industry (DTI) or the Securities and Exchange Commission (SEC), one hundred per centum (100%) of the capitalization of which is owned by Filipino citizens.
 
 ## Section 6
 

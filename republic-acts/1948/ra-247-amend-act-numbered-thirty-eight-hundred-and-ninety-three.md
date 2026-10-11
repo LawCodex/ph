@@ -32,7 +32,7 @@ The said Act Numbered Thirty-eight hundred and ninety-three, as hereby amended, 
 
 ## Section 2
 
-Every person engaged in the business of receiving commodity for storage defined in section two of the said Act Numbered Thirty-eight hundred and ninety-three, as amended, shall pay an annual license fee of fifty pesos for the first one thousand square meters of protected enclosure or one thousand cubic meters of storage space, or any fraction of such enclosure or space, and two and one-half centavos for each additional square meter or cubic meter.1aшphi1
+Every person engaged in the business of receiving commodity for storage defined in section two of the said Act Numbered Thirty-eight hundred and ninety-three, as amended, shall pay an annual license fee of fifty pesos for the first one thousand square meters of protected enclosure or one thousand cubic meters of storage space, or any fraction of such enclosure or space, and two and one-half centavos for each additional square meter or cubic meter.
 
 ## Section 3
 

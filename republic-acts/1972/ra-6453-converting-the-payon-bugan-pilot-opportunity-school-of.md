@@ -36,7 +36,7 @@ b. Four-year technical agricultural course leading to the degree of Bachelor of 
 
 c. Four-year teacher education course leading to the degree of Bachelor of Science in Agricultural Education;and
 
-d. Such appropriate courses leading to development of technical and industrial skills.1âшphi1
+d. Such appropriate courses leading to development of technical and industrial skills.
 
 ## Section 3
 

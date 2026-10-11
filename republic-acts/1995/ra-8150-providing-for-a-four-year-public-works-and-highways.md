@@ -86,7 +86,7 @@ _Publication and Posting of Public Works Contracts._ \- All contracts for public
 
 For purposes of this Act, the government agency or the government-owned or -controlled corporations concerned shall allow interested parties to inquire into the particular contract. Such inquiry shall be made in writing during regular office hours and the same shall be for a legitimate purpose stated therein.
 
-The copies of documents, papers and records pertinent to the public works contract subject of inquiry shall be made available at the expenses of the interested parties.1aшphi1
+The copies of documents, papers and records pertinent to the public works contract subject of inquiry shall be made available at the expenses of the interested parties.
 
 ## Section 13
 

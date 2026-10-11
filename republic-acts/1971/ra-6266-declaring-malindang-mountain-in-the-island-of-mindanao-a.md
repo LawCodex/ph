@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Malindang Mountain in the Island of Mindanao is hereby declared a national park and watershed area, without prejudice to rights already acquired and held by private persons in that area.1âшphi1
+Malindang Mountain in the Island of Mindanao is hereby declared a national park and watershed area, without prejudice to rights already acquired and held by private persons in that area.
 
 ## Section 2
 

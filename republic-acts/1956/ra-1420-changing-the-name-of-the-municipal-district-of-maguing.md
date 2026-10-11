@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipal District of Maguing, Province of Lanao, is changed to Municipal District of Lumba Bayabao.1âшphi1
+The name of the Municipal District of Maguing, Province of Lanao, is changed to Municipal District of Lumba Bayabao.
 
 ## Section 2
 

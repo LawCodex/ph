@@ -971,7 +971,7 @@ _Officials of the City of Santiago._ — The present elective officials of the M
 
 ### Section 51
 
-_Election of Provincial Governor and Sangguniang Panlalawigan Members for the Province of Isabela._ — The qualified voters of the City of Santiago shall not be qualified to vote nor run for any elective position in the elections for provincial governor, vice-governor, sangguniang panlalawigan members and other elective offices for the Province of Isabela.1a⍵⍴h!1
+_Election of Provincial Governor and Sangguniang Panlalawigan Members for the Province of Isabela._ — The qualified voters of the City of Santiago shall not be qualified to vote nor run for any elective position in the elections for provincial governor, vice-governor, sangguniang panlalawigan members and other elective offices for the Province of Isabela.
 
 ### Section 52
 

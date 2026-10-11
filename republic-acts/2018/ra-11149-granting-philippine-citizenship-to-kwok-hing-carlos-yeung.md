@@ -33,7 +33,7 @@ Mr. Kwok Hing Carlos Yeung is hereby granted Philippine citizenship with all the
 
 ## Section 2
 
-Mr. Kwok Hing Carlos Yeung shall take the Oath of Allegiance to the Republic of the Phihppines before an officer duly authorized to administer the same.1âwphi1 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Mr. Kwok Hing Carlos Yeung shall take the Oath of Allegiance to the Republic of the Phihppines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

@@ -32,7 +32,7 @@ The last paragraph of section forty-nine of Republic Act Numbered Two hundred ni
 
 The last paragraph of section fifty of the same Act is amended to read as follows:
 
-"Four judges shall be commissioned for the Sixteenth Judicial District. One judge shall preside over the Court of First Instance of Davao; one judge shall preside over the Court of First Instance of Cotabato; one judge shall Preside over the Courts of First Instance of Occidental Misamis, Zamboanga del Norte and Zamboanga del Sur except the municipalities of Ipil, Kabasalan, Alicia, Margosatubig, Malangas and Siocon, and one judge shall preside over the Court of First Instance of Zamboanga City, Basilan City, the municipalities of lpil, Kabasalan, Alicia, Margosatubig, Malangas, Siocon in the former province of Zamboanga, and Sulu."1a⍵⍴h!1
+"Four judges shall be commissioned for the Sixteenth Judicial District. One judge shall preside over the Court of First Instance of Davao; one judge shall preside over the Court of First Instance of Cotabato; one judge shall Preside over the Courts of First Instance of Occidental Misamis, Zamboanga del Norte and Zamboanga del Sur except the municipalities of Ipil, Kabasalan, Alicia, Margosatubig, Malangas and Siocon, and one judge shall preside over the Court of First Instance of Zamboanga City, Basilan City, the municipalities of lpil, Kabasalan, Alicia, Margosatubig, Malangas, Siocon in the former province of Zamboanga, and Sulu."
 
 ## Section 3
 

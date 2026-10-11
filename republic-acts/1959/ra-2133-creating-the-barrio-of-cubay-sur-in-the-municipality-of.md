@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Cubay Sur in the Municipality of Bugasong, Province of Antique, is converted into a barrio of said municipality to be known as the barrio of Cubay Sur.1aшphi1
+The sitio of Cubay Sur in the Municipality of Bugasong, Province of Antique, is converted into a barrio of said municipality to be known as the barrio of Cubay Sur.
 
 ## Section 2
 

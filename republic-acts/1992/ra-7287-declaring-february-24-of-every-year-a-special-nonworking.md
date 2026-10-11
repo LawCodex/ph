@@ -29,7 +29,7 @@ February 24 of every year is hereby declared a special nonworking holiday in the
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

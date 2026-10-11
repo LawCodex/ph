@@ -32,7 +32,7 @@ b. Of all other cities, the salary fixed for each of the judges of municipal cou
 
 ## Section 2
 
-The municipal judges shall be entitled to thirty days vacation leave with pay for each year of service.1a⍵⍴h!1
+The municipal judges shall be entitled to thirty days vacation leave with pay for each year of service.
 
 ## Section 3
 

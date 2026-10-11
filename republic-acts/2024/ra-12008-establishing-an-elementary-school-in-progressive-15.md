@@ -36,7 +36,7 @@ The Secretary of Education shall immediately include in the Department's program
 
 ## Section 3
 
-Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations and management, in accordance with Republic Act No. 9155, or the "Governance of Basic Education Act of 2001", Republic Act No. 10533, or the "Enhanced Basic Education Act of 2013", and other basic education-related laws.1aшphi1
+Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations and management, in accordance with Republic Act No. 9155, or the "Governance of Basic Education Act of 2001", Republic Act No. 10533, or the "Enhanced Basic Education Act of 2013", and other basic education-related laws.
 
 ## Section 4
 

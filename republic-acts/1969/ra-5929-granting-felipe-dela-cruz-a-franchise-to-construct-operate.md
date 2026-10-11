@@ -48,7 +48,7 @@ The Commission or its legal successor shall order the return of the deposit as a
 
 ## Section 6
 
-The books, records and accounts of the grantee shall always be open to inspection by the city treasurer of Quezon City where the ice plant and cold storage are established, or his authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer quarterly reports in quadruplicate showing the gross receipts for the quarter past, one of which shall be forwarded by the treasurer to the Auditor General, who shall keep it on file.1âшphi1
+The books, records and accounts of the grantee shall always be open to inspection by the city treasurer of Quezon City where the ice plant and cold storage are established, or his authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer quarterly reports in quadruplicate showing the gross receipts for the quarter past, one of which shall be forwarded by the treasurer to the Auditor General, who shall keep it on file.
 
 ## Section 7
 

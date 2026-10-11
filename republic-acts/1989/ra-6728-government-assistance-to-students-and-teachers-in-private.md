@@ -26,11 +26,17 @@ AN ACT PROVIDING GOVERNMENT ASSISTANCE TO STUDENTS AND TEACHERS IN PRIVATE EDUCA
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the "**Government Assistance To Students and Teachers In Private Education Act**."
+## Section 1
 
-**Section 2._Declaration of Policy._** \- It is declared policy of the State in conformity with the mandate of the Constitution, to promote and make quality education accessible to all Filipino citizens. The State also hereby recognizes the complementary roles of public and private educational institutions in the educational system and the invaluable contribution that the private schools have made and will make to education. For these purposes, the State shall provide the mechanisms to improve quality in private education by maximizing the use of existing resources of private education, recognizing in the process the government responsibility to provide basic elementary and secondary education as having priority over its function to provide for higher education.
+_Title._ \- This Act shall be known as the "**Government Assistance To Students and Teachers In Private Education Act**."
 
-**SECTION 3._Criteria for Assistance._** \- The programs for assistance shall be based on a set of criteria which shall include, among others, tuition fees charged by the schools, the socio-economic needs of each region, overall performance of the schools, the academic qualifications and the financial needs of the students, as well as the geographic spread and size of student population.
+## Section 2
+
+_Declaration of Policy._ \- It is declared policy of the State in conformity with the mandate of the Constitution, to promote and make quality education accessible to all Filipino citizens. The State also hereby recognizes the complementary roles of public and private educational institutions in the educational system and the invaluable contribution that the private schools have made and will make to education. For these purposes, the State shall provide the mechanisms to improve quality in private education by maximizing the use of existing resources of private education, recognizing in the process the government responsibility to provide basic elementary and secondary education as having priority over its function to provide for higher education.
+
+## SECTION 3
+
+_Criteria for Assistance._ \- The programs for assistance shall be based on a set of criteria which shall include, among others, tuition fees charged by the schools, the socio-economic needs of each region, overall performance of the schools, the academic qualifications and the financial needs of the students, as well as the geographic spread and size of student population.
 
 In addition to the foregoing criteria, within such reasonable time as the State Assistance Council may determine, student grantees under the Private Education Student Financial Assistance Program shall be enrolled in schools which have accredited programs or are applying for accreditation as determined by the Federation of Accrediting Agencies of the Philippines, namely: The Philippine Association of Accredited Schools, Colleges and Universities, the Association of Christian Schools and Colleges Accrediting Agency, and the Philippine Association of Colleges and Universities Commission on Accreditation.
 
@@ -40,7 +46,9 @@ For purposes of this Act, programs of assistance to students of private post-sec
 
 The programs of assistance under this Act shall be extended only to students who are citizens of the Philippines.
 
-**Section 4._Forms of Assistance._** \- Assistance to private education shall consist of:
+## Section 4
+
+_Forms of Assistance._ \- Assistance to private education shall consist of:
 
 (1) Tuition fee supplements for students in private high schools, including students in vocational and technical courses;
 
@@ -58,7 +66,9 @@ The programs of assistance under this Act shall be extended only to students who
 
 (8) College Faculty Development Fund.
 
-**Section 5._Tuition Fee Supplement for Students in Private High School._** \- (1) Financial assistance for tuition for students in private high schools shall be provided by the government through a voucher system in the following manner:
+## Section 5
+
+_Tuition Fee Supplement for Students in Private High School._ \- (1) Financial assistance for tuition for students in private high schools shall be provided by the government through a voucher system in the following manner:
 
 (a) For students enrolled in schools charging less than one thousand five hundred pesos (P1,500) per year in tuition and other fees during school year 1988-1989 or such amount in subsequent years as may be determined from time to time by the State Assistance Council: The Government shall provide them with a voucher equal to two hundred ninety pesos (P290.00): Provided, That the student pays in the 1989-1990 school year, tuition and other fees equal to the tuition and other fees paid during the preceding academic year: Provided, further, That the Government shall reimburse the vouchers from the schools concerned within sixty (60) days from the close of the registration period: Provided, furthermore, That the student's family resides in the same city or province in which the high school is located unless the student has been enrolled in that school during the previous academic year.
 
@@ -66,9 +76,13 @@ The programs of assistance under this Act shall be extended only to students who
 
 (2) Assistance under paragraph (1), subparagraphs (a) and (b) shall be granted and tuition fees under subparagraph (c) may be increased, on the condition that seventy percent (70%) of the amount subsidized allotted for tuition fee or of the tuition fee increases shall go to the payment of salaries, wages, allowances and other benefits of teaching and non-teaching personnel except administrators who are principal stockholders of the school, and may be used to cover increases as provided for in the collective bargaining agreements existing or in force at the time when this Act is approved and made effective: Provided, That government subsidies are not used directly for salaries of teachers of non-secular subjects. At least twenty percent (20%) shall go to the improvement or modernization of buildings, equipment, libraries, laboratories, gymnasia and similar facilities and to the payment of other costs of operation. For this purpose, school shall maintain a separate record of accounts for all assistance received from the government, any tuition fee increase, and the detailed disposition and use thereof, which record shall be made available for periodic inspection as may be determined by the State Assistance Council, during business hours, by the faculty, the non-teaching personnel, students of the school concerned, the Department of Education, Culture and Sports and other concerned government agencies.
 
-**Section 6._High School Textbook Assistance Fund._** \- There shall be established in the Department of Education, Culture and Sports (DECS) a High School Textbook Assistance Fund, so that an assistance on a per student basis shall be given to private schools charging less than one thousand five hundred pesos (P1,500.00) for 1988-1989 per year, or such amount in subsequent years as may be determined from time to time by the State Assistance Council, exclusively for the purchase of high school textbooks, in support of the implementation of the Secondary Education Development Program: Provided, That such fund shall not be used for the purchase of books that will advance or inhibit sectarian interest: Provided, further, That such textbooks are included in the list approved by the Department of Education, Culture and Sports.
+## Section 6
 
-**Section 7._Expansion of the Existing Educational Service Contracting (ESC) Scheme._** \- (a) The Department of Education, Culture and Sports (DECS) shall continue to enter into contracts with private schools whereby the Government shall shoulder the tuition and other fees of excess students in public high schools who shall enroll under this program. It shall settle all outstanding obligations before contracting new obligations.
+_High School Textbook Assistance Fund._ \- There shall be established in the Department of Education, Culture and Sports (DECS) a High School Textbook Assistance Fund, so that an assistance on a per student basis shall be given to private schools charging less than one thousand five hundred pesos (P1,500.00) for 1988-1989 per year, or such amount in subsequent years as may be determined from time to time by the State Assistance Council, exclusively for the purchase of high school textbooks, in support of the implementation of the Secondary Education Development Program: Provided, That such fund shall not be used for the purchase of books that will advance or inhibit sectarian interest: Provided, further, That such textbooks are included in the list approved by the Department of Education, Culture and Sports.
+
+## Section 7
+
+_Expansion of the Existing Educational Service Contracting (ESC) Scheme._ \- (a) The Department of Education, Culture and Sports (DECS) shall continue to enter into contracts with private schools whereby the Government shall shoulder the tuition and other fees of excess students in public high schools who shall enroll under this program. It shall settle all outstanding obligations before contracting new obligations.
 
 (b) The Department shall also enter into contract with private schools in communities where there are no public high schools, in which case the Department shall shoulder the tuition and other fees of students who shall enroll in said private schools. The number of such schools assisted by the program will be increased every year such that all schools in this category will be assisted within four (4) years from the promulgation of this Act.
 
@@ -78,7 +92,9 @@ The programs of assistance under this Act shall be extended only to students who
 
 (e) The amount of assistance shall be allocated and distributed among the fourteen (14) regions in proportion to the total population as well as the high school age population for the first school year: Provided, That starting school year 1990, an equalization scheme shall be implemented by the State Assistance Council.
 
-**Section 8._Assistance to College Freshmen._** \- (a) _The Voucher System of Private Education Student Financial Assistance (PESFA) Program._ The existing Private Education Student Financial Assistance (PESFA) Program which covers degree and vocational/technical courses shall be expanded so that a minimum of ten percent (10%) for the school year 1989, fifteen percent (15%) for the school year 1990, twenty percent (20%) for the school year 1991, twenty-five percent (25%) for the school year 1992 and thereafter, of all enrolling first year students can benefit from a full or partial scholarship, plus an allowance. Such financial assistance shall be granted to deserving underprivileged students, who shall be selected on the basis of family income, geographic spread and results of competitive examinations to be given by the Department of Education, Culture and Sports to students in all secondary schools. The program shall be equitably allocated to provinces and cities in accordance with regional and national plans to priority courses as determined by the Department of Education, Culture and Sports in coordination with the National Economic Development Authority (NEDA). The priority courses shall be submitted to Congress at the start of this program and any changes thereon periodically.
+## Section 8
+
+_Assistance to College Freshmen._ \- (a) _The Voucher System of Private Education Student Financial Assistance (PESFA) Program._ The existing Private Education Student Financial Assistance (PESFA) Program which covers degree and vocational/technical courses shall be expanded so that a minimum of ten percent (10%) for the school year 1989, fifteen percent (15%) for the school year 1990, twenty percent (20%) for the school year 1991, twenty-five percent (25%) for the school year 1992 and thereafter, of all enrolling first year students can benefit from a full or partial scholarship, plus an allowance. Such financial assistance shall be granted to deserving underprivileged students, who shall be selected on the basis of family income, geographic spread and results of competitive examinations to be given by the Department of Education, Culture and Sports to students in all secondary schools. The program shall be equitably allocated to provinces and cities in accordance with regional and national plans to priority courses as determined by the Department of Education, Culture and Sports in coordination with the National Economic Development Authority (NEDA). The priority courses shall be submitted to Congress at the start of this program and any changes thereon periodically.
 
 For purposes of this Act, an underprivileged student shall refer to a student whose annual gross income, if any, and that of the combined annual gross income of his parents do not exceed thirty-six thousand pesos (P36,000).
 
@@ -88,7 +104,9 @@ For purposes of this Act, an underprivileged student shall refer to a student wh
 
 (d) _Allowance for other Honorees._ \- In case the graduating class is composed of more than two hundred and fifty students, all salutatorians and first honorable mention graduates thereof may also be entitled to the allowance granted to valedictorians under the preceding paragraph.
 
-**Section 9._Further Assistance To Students in Private Colleges and Universities._** \- Tuition fee supplements for non-freshmen students of private colleges and universities in priority course programs determined by the Department of Education, Culture and Sports shall be provided by the government through a voucher system in the following manner:
+## Section 9
+
+_Further Assistance To Students in Private Colleges and Universities._ \- Tuition fee supplements for non-freshmen students of private colleges and universities in priority course programs determined by the Department of Education, Culture and Sports shall be provided by the government through a voucher system in the following manner:
 
 (a) For re-enrolling students in priority programs in schools, charging an effective per-unit tuition rate of eighty pesos (P80) or less per unit or such amount in subsequent years as may be determined by the State Assistance Council: The Government shall provide the student with a voucher with a value equivalent to the tuition fee increase: Provided, That all schools in this category shall not be allowed to raise their fees by more than twelve pesos (P12.00) per unit, for both priority and non-priority courses; and Provided, That such assistance shall be given only to students who have completed one academic year by June 1989 in priority programs and shall not apply to future college students and to current college students who transfer outside of their region.
 
@@ -98,9 +116,13 @@ For purposes of this Act, an underprivileged student shall refer to a student wh
 
 (d) Government assistance and tuition increases as described in this Section shall be governed by the same conditions as provided under Section 5 (2).
 
-**Section 10._Consultation._** \- In any proposed increase in the rate of tuition fee, there shall be appropriate consultations conducted by the school administration with the duly organized parents and teachers associations and faculty associations with respect to secondary schools, and with students governments or councils, alumni and faculty associations with respect to colleges. For this purpose, audited financial statements shall be made available to authorized representatives of these sectors. Every effort shall be exerted to reconcile possible differences. In case of disagreement, the alumni association of the school or any other impartial body of their choosing shall act as arbitrator.
+## Section 10
 
-**Section 11._Education Loan Fund._** \- (a) "Study Now, Pay Later Plan". There is hereby created a special fund to be known as the Students' Loan Fund to be administered by the Department of Education, Culture and Sports, or upon delegation by the Department, by the Student Loan Fund Authority created under Republic Act No. 6014 which is hereby reinstituted pursuant to the terms of the same Republic Act which shall be used to finance educational loans to cover matriculation and other school fees and educational expenses for book, subsistence and board and lodging.
+_Consultation._ \- In any proposed increase in the rate of tuition fee, there shall be appropriate consultations conducted by the school administration with the duly organized parents and teachers associations and faculty associations with respect to secondary schools, and with students governments or councils, alumni and faculty associations with respect to colleges. For this purpose, audited financial statements shall be made available to authorized representatives of these sectors. Every effort shall be exerted to reconcile possible differences. In case of disagreement, the alumni association of the school or any other impartial body of their choosing shall act as arbitrator.
+
+## Section 11
+
+_Education Loan Fund._ \- (a) "Study Now, Pay Later Plan". There is hereby created a special fund to be known as the Students' Loan Fund to be administered by the Department of Education, Culture and Sports, or upon delegation by the Department, by the Student Loan Fund Authority created under Republic Act No. 6014 which is hereby reinstituted pursuant to the terms of the same Republic Act which shall be used to finance educational loans to cover matriculation and other school fees and educational expenses for book, subsistence and board and lodging.
 
 (b) Amounts covering payments for tuition, matriculation and other school fees shall be paid directly to the school concerned.
 
@@ -108,21 +130,29 @@ For purposes of this Act, an underprivileged student shall refer to a student wh
 
 (d) Social Security Fund. The Social Security System Fund shall make available low interest educational loans to its members and to private educational institutions for school buildings and/or improvement of their plants and facilities.
 
-**Section 12._Limitation._** \- The right of any student to avail himself of the benefits under this Act shall not apply:
+## Section 12
+
+_Limitation._ \- The right of any student to avail himself of the benefits under this Act shall not apply:
 
 (a) If he fails for one (1) schoolyear in the majority of the academic subjects in which he has enrolled during the course of his study unless such failure is due to some valid cause beyond his control; and
 
 (b) If he enrolls for the first time, or transfers, outside of the region where he is domiciled unless the course he wants to pursue is a priority course as determined by the Department of Education, Culture and Sports and is not offered in any private school in his region.
 
-**Section 13._College Faculty Development Fund._** \- For the purpose of improving the quality of teaching in higher education, there is hereby established in Department of Education, Culture and Sports a College Faculty Development Fund to provide for scholarships for graduate degrees and non-degree workshops or seminars for faculty members in private colleges and universities: Provided, That faculty member recipients of such scholarships shall serve three (3) years return service for every year of scholarship availed of. The scholarship shall be in priority courses as determined by the Department of Education, Culture and Sports in coordination with the National Economic Development Authority (NEDA) and cannot be awarded to promote or inhibit sectarian purposes.
+## Section 13
 
-**Section 14._Program Administration/Rules and Regulations._** \- The State Assistance Council shall be responsible for policy guidance and direction, monitoring and evaluation of new and existing programs, and the promulgation of rules and regulations, while the Department of Education, Culture and Sports shall be responsible for the day to day administration and program implementation. Likewise, it may engage the services and support of any qualified government or private entity for its implementation.
+_College Faculty Development Fund._ \- For the purpose of improving the quality of teaching in higher education, there is hereby established in Department of Education, Culture and Sports a College Faculty Development Fund to provide for scholarships for graduate degrees and non-degree workshops or seminars for faculty members in private colleges and universities: Provided, That faculty member recipients of such scholarships shall serve three (3) years return service for every year of scholarship availed of. The scholarship shall be in priority courses as determined by the Department of Education, Culture and Sports in coordination with the National Economic Development Authority (NEDA) and cannot be awarded to promote or inhibit sectarian purposes.
+
+## Section 14
+
+_Program Administration/Rules and Regulations._ \- The State Assistance Council shall be responsible for policy guidance and direction, monitoring and evaluation of new and existing programs, and the promulgation of rules and regulations, while the Department of Education, Culture and Sports shall be responsible for the day to day administration and program implementation. Likewise, it may engage the services and support of any qualified government or private entity for its implementation.
 
 The State Assistance Council (SAC), hereinafter known as the Council, shall be headed by the Secretary of Education, Culture and Sports as chairman, with representatives from NEDA, DBM, DOST, and representatives from duly organized nationwide associations of teachers, students and school administrators as members. The last three (3) members shall be appointed by the President upon the recommendation of their respective sectors for a term of four (4) years.
 
 The Council shall meet, from time to time, as the need arises, to assess the effectivity of the programs and to ensure that schools, colleges and universities where student recipients are enrolled continue to provide quality education. For this purpose, the Council shall establish criteria, including accreditation status, to determine which schools, colleges and universities may continue to enroll students who are recipients of government assistance under this Act.
 
-**Section 15._Appropriations._** \- (a) The appropriations of the Department of Education, Culture and Sports authorized in General Appropriations Act for Fiscal Year 1989, Republic Act No. 6688, for A.7.d Implementation of programs for secondary education, A.7.e Implementation of programs for higher education, A.7.g Implementation of free secondary education shall be reduced as far as practicable on a proportionate basis by region to provide funds for the requirements of this Act in Fiscal Year 1989: Provided, That savings from any other item of appropriation of the Department of Education, Culture and Sports may be utilized for the implementation of this Act in Fiscal Year 1989: Provided, further, That any deficiency shall be taken from any or all of the following sources:
+## Section 15
+
+_Appropriations._ \- (a) The appropriations of the Department of Education, Culture and Sports authorized in General Appropriations Act for Fiscal Year 1989, Republic Act No. 6688, for A.7.d Implementation of programs for secondary education, A.7.e Implementation of programs for higher education, A.7.g Implementation of free secondary education shall be reduced as far as practicable on a proportionate basis by region to provide funds for the requirements of this Act in Fiscal Year 1989: Provided, That savings from any other item of appropriation of the Department of Education, Culture and Sports may be utilized for the implementation of this Act in Fiscal Year 1989: Provided, further, That any deficiency shall be taken from any or all of the following sources:
 
 (1) Portions of the coconut levies authorized under Republic Act No. 620 and Presidential Decree No. 1468 and other laws earmarked to finance scholarships for the benefit of deserving children of the coconut farmers, and the income thereof: Provided, That such funds shall be used exclusively for the program of assistance for said children including their books, board and lodging and other allowances in case these are not provided in a particular program of assistance;
 
@@ -142,14 +172,22 @@ Thereafter, such amount as may be necessary for its continued implementation sha
 
 (b) The amount of assistance on a per student basis as determined under Section 5(a) and (b) and Section 9(a) of this Act shall remain the same for the subsequent years unless Congress provides otherwise.
 
-**Section 16._Penalties._** \- In case of any violation of the provisions of this Act or the rules and regulations promulgated pursuant thereto by an institution, the Department of Education, Culture and Sports, upon the recommendation of the Council, may bar the institution from participating in or benefiting from the programs of this Act, and from other programs of the Department, without prejudice to administrative and criminal charges as may be filed against the school and/or its responsible officers under existing laws.
+## Section 16
+
+_Penalties._ \- In case of any violation of the provisions of this Act or the rules and regulations promulgated pursuant thereto by an institution, the Department of Education, Culture and Sports, upon the recommendation of the Council, may bar the institution from participating in or benefiting from the programs of this Act, and from other programs of the Department, without prejudice to administrative and criminal charges as may be filed against the school and/or its responsible officers under existing laws.
 
 Any school who shall refuse, as required under paragraph (1) (c) of Section 5, Section 8 (b) and Section 9 (b), to furnish copies of their audited financial statements to concerned sectors with whom they are having consultations prior to tuition fee increases, shall forfeit the right to increase their tuition fees, in addition to other penalties or sanctions as may be imposed under the preceding paragraph or by existing laws.
 
-**Section 17._Repealing Clause._** \- All laws and decrees particularly Presidential Decree Nos. 932 and 1371 and such letters of instruction, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 17
 
-**Section 18._Separability Clause._** \- If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions not affected thereby.
+_Repealing Clause._ \- All laws and decrees particularly Presidential Decree Nos. 932 and 1371 and such letters of instruction, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
 
-**Section 19._Effectivity Clause._** \- This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation.
+## Section 18
+
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions not affected thereby.
+
+## Section 19
+
+_Effectivity Clause._ \- This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation.
 
 Approved: **June 10, 1989**

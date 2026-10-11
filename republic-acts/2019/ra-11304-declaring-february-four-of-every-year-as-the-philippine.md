@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-February 4 of every year is hereby declared a special working holiday in commemoration of the sacrifice and bravery of the men and women who fought and died in defense of the Filipino nation during the Philippine-American war.1âшphi1 This holiday shall be referred to as the "Philippine-American War Memorial Day" or "Araw ng Paggunita sa Digmaang Pilipino-Amerikano".
+February 4 of every year is hereby declared a special working holiday in commemoration of the sacrifice and bravery of the men and women who fought and died in defense of the Filipino nation during the Philippine-American war. This holiday shall be referred to as the "Philippine-American War Memorial Day" or "Araw ng Paggunita sa Digmaang Pilipino-Amerikano".
 
 ## Section 2
 

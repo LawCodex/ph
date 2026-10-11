@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In accordance with the approval of Commonwealth Act No. 51, otherwise known as the Charter of Davao City, mandating the creation of the city as a distinct political subdivision, this Act declares March 16 of 1990 and every year thereafter as Araw ng Davao, a special nonworking public holiday in the entire Davao City.1âшphi1
+In accordance with the approval of Commonwealth Act No. 51, otherwise known as the Charter of Davao City, mandating the creation of the city as a distinct political subdivision, this Act declares March 16 of 1990 and every year thereafter as Araw ng Davao, a special nonworking public holiday in the entire Davao City.
 
 ## Section 2
 

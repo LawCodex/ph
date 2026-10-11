@@ -31,7 +31,7 @@ The Magtoma Pangol High School, also known as the Magtoma Pangol Annex, is hereb
 
 ## Section 2
 
-The school shall offer secondary education proper, as well as secondary science courses to carry out its objectives, and as may be authorized by the Secretary of the Department of Education, Culture and Sports.ℒαwρhi৷
+The school shall offer secondary education proper, as well as secondary science courses to carry out its objectives, and as may be authorized by the Secretary of the Department of Education, Culture and Sports.
 
 ## Section 3
 

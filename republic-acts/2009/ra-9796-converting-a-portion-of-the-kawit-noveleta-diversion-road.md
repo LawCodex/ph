@@ -34,7 +34,7 @@ A portion of the Kawit-Noveleta Diversion Road servicing the Cavite Economic Zon
 
 ## Section 2
 
-The Secretary of the Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1avvphi1
+The Secretary of the Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

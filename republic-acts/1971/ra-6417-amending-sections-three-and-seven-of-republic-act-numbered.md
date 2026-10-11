@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section three of Republic Act Numbered Forty-six hundred fifty-two is hereby amended to read as follows:
 
-"**Section 3.** In the event that the grantee fails to commence construction of the monorail transportation service contemplated in this Act within three years, nor commence operation of the service within eight years from the approval of this Act, this franchise shall be null and void unless prevented by fortuitous cause or _force majeure,_ martial law, riot, civil commotion, usurpation by a military power, or any other reasonable cause beyond the grantee's control: _Provided, however,_ That all the time during which the grantee, its successors and assigns, may be prevented from carrying out the terms and conditions of this franchise shall be added to the time allowed by this franchise for compliance with its provisions."1âшphi1
+"**Section 3.** In the event that the grantee fails to commence construction of the monorail transportation service contemplated in this Act within three years, nor commence operation of the service within eight years from the approval of this Act, this franchise shall be null and void unless prevented by fortuitous cause or _force majeure,_ martial law, riot, civil commotion, usurpation by a military power, or any other reasonable cause beyond the grantee's control: _Provided, however,_ That all the time during which the grantee, its successors and assigns, may be prevented from carrying out the terms and conditions of this franchise shall be added to the time allowed by this franchise for compliance with its provisions."
 
 ## Section 2
 

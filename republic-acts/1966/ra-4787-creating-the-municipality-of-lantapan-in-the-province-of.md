@@ -29,7 +29,7 @@ Barrios Bugcaon, Culasihan, Bantuanon, Lantapan, Balila, Baclayon, Alanib, Kaatu
 
 ## Section 2
 
-The first mayor, vice-mayor and councilors of the new municipality shall be elected in the nineteen hundred sixty-seven general elections for local officials.1avvphi1
+The first mayor, vice-mayor and councilors of the new municipality shall be elected in the nineteen hundred sixty-seven general elections for local officials.
 
 ## Section 3
 

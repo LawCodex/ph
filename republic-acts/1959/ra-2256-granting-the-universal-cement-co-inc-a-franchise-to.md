@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Universal Cement Co., Inc., is hereby granted a franchise to establish, maintain and operate private fixed point-to-point radiotelephone stations in the City of Manila, in the barrio of Dongoan, Municipality of Danao, Province of Cebu, and in the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, for the transmission and reception of wireless messages form the City of Manila to the barrio of Dongoan, Municipality of Danao, Province of Cebu, and vice versa, from the barrio of Dongoan, Municipality of Danao, Province of Cebu, to the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, and vice versa, and from the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, to the City of Manila and vice versa.1aшphi1
+The Universal Cement Co., Inc., is hereby granted a franchise to establish, maintain and operate private fixed point-to-point radiotelephone stations in the City of Manila, in the barrio of Dongoan, Municipality of Danao, Province of Cebu, and in the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, for the transmission and reception of wireless messages form the City of Manila to the barrio of Dongoan, Municipality of Danao, Province of Cebu, and vice versa, from the barrio of Dongoan, Municipality of Danao, Province of Cebu, to the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, and vice versa, and from the barrio of Dana-Ili, Municipality of Abulug, Province of Cagayan, to the City of Manila and vice versa.
 
 ## Section 2
 

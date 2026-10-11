@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The nearest rural health unit along the boundary of the Municipality of Alfonso and the Municipality of Mendez, Province of Cavite, is hereby converted into a five-bed capacity health infirmary, to be known as the Alfonso-Mendez Health Infirmary.1âшphi1
+The nearest rural health unit along the boundary of the Municipality of Alfonso and the Municipality of Mendez, Province of Cavite, is hereby converted into a five-bed capacity health infirmary, to be known as the Alfonso-Mendez Health Infirmary.
 
 ## Section 2
 

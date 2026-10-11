@@ -31,7 +31,7 @@ Section one hundred forty-six of Commonwealth Act Numbered Four hundred sixty-si
 
 "(a) On films of more than eight but not more than sixteen millimeters in width, fifteen centavos per linear meter; and
 
-"(b) On films of more than sixteen millimeters in width, twenty centavos per linear meter.1aшphi1
+"(b) On films of more than sixteen millimeters in width, twenty centavos per linear meter.
 
 "This tax shall not be collected on any tax-paid cinematographic film subsequently returned to the Philippines or on any negative film or unprinted positive film, an on any reversal film used in amateur photography of sixteen millimeters or less, and any taxes heretofore paid on cinematographic films so returned, or on any negative films or unprinted positive films, or on any reversal film, shall be refunded subject to the provisions of section three hundred and nine."
 

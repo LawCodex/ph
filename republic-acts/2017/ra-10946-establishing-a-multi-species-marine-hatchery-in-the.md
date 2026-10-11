@@ -42,7 +42,7 @@ The Secretary of Agriculture shall include in the Department’s programs the es
 
 ## Section 4
 
-Within sixty (60) days from the passage of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, monitoring, transfer, or withdrawal by the BFAR of the multi-species marine hatchery.1âwphi1
+Within sixty (60) days from the passage of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, monitoring, transfer, or withdrawal by the BFAR of the multi-species marine hatchery.
 
 ## Section 5
 

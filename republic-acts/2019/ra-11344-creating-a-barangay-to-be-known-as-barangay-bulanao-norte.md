@@ -228,7 +228,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ — The incumbent barangay officials of Barangay Bulanao Norte shall continue to hold office until such time that their successors have been duly elected and qualified.1âшphi1
+_Incumbent Barangay Officials._ — The incumbent barangay officials of Barangay Bulanao Norte shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

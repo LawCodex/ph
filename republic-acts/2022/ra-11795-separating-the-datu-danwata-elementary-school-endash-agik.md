@@ -34,7 +34,7 @@ The Datu Danwata Elementary School - Agik-ik Extension in Barangay Datu Danwata,
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Datu Danwata Elementary School - Agik-ik Extension are hereby transferred to and absorbed by the Agik-ik Elementary Schoolℒαwρhi৷
+All personnel, assets, liabilities and records of the Datu Danwata Elementary School - Agik-ik Extension are hereby transferred to and absorbed by the Agik-ik Elementary School
 
 ## Section 3
 

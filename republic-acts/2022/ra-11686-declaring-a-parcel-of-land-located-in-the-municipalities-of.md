@@ -207,7 +207,7 @@ The PASu shall be primarily accountable to the PAMB and the DENR for the managem
 
 (k) Prepare and recommend to the PAMB, approval of the annual work and financial plans of the protected area based on the management plan; and
 
-(l) Perform such other functions as the PAMB and the DENR may assign.ℒαwρhi৷ The PAMO may be augmented by the deputized local environment and natural resources officers upon the recommendation of the PAMB and approval of the DENR.
+(l) Perform such other functions as the PAMB and the DENR may assign. The PAMO may be augmented by the deputized local environment and natural resources officers upon the recommendation of the PAMB and approval of the DENR.
 
 ## ARTICLE III — PROCEEDS AND FEES
 

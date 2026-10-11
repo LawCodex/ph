@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Three (3) additional Regional Trial Court branches and two (2) additional Metropolitan Trial Court branches are hereby created in the National Capital Judicial Region with seats at the City of Navotas, Metro Manila.
 
-The Supreme Court shall assign the branch number of the newly-created branches of the Regional Trial Court and the Metropolitan Trial Court in the National Capital Judicial Region.ℒαwρhi৷
+The Supreme Court shall assign the branch number of the newly-created branches of the Regional Trial Court and the Metropolitan Trial Court in the National Capital Judicial Region.
 
 ## Section 2
 

@@ -30,7 +30,7 @@ Section one thousand seventy-four of Act Numbered Twenty-seven hundred and eleve
 
 "Chartered cities and municipalities or municipal districts shall have no power to impose additional restrictions with regard to the place or location of any cemetery, or other burial grounds, nor shall they have the power to restrict, limit, or regulate the construction or location within the cemetery or burial grounds of tombs, vaults, mausoleums or other repositories of the dead. 058666
 
-"Dwelling house/ as herein used, shall not include any abandoned house or houses occupied by the employees or attendants of a cemetery or otherwise properly used for purposes connected "with the care thereof."1a⍵⍴h!1
+"Dwelling house/ as herein used, shall not include any abandoned house or houses occupied by the employees or attendants of a cemetery or otherwise properly used for purposes connected "with the care thereof."
 
 ## Section 2
 

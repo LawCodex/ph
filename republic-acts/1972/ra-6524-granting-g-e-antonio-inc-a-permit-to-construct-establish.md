@@ -40,7 +40,7 @@ The grantee shall not engage in domestic business of telecommunications in the P
 
 ## Section 5
 
-This permit shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee frequencies and wave lengths to be used thereunder.1âшphi1
+This permit shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee frequencies and wave lengths to be used thereunder.
 
 ## Section 6
 

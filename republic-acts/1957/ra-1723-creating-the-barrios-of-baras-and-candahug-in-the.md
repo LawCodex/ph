@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrio of Baras-Candahug in the Municipality of Palo, Province of Leyte, is hereby divided into two barrios, one to be known as the barrio of Baras and the other as the barrio of Candahug.1avvphi1
+The barrio of Baras-Candahug in the Municipality of Palo, Province of Leyte, is hereby divided into two barrios, one to be known as the barrio of Baras and the other as the barrio of Candahug.
 
 ## Section 2
 

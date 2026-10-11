@@ -103,7 +103,7 @@ _Registration and Deletion of Vessels._ \- All vessels owned by Philippine shipp
 
 a. No other Philippine shipping enterprise is interested in acquiring the vessel; or
 
-b. The vessel has to be scrapped.LaW㏗iL
+b. The vessel has to be scrapped.
 
 ## Section 9
 

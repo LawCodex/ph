@@ -539,7 +539,7 @@ The rules of procedure shall provide for the following:
 
 ### Section 12
 
-_Full Disclosure of Financial and Business Interest of Sangguniang Panlungsod Members._ — Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interest.Ꮮαwρhi৷ He shall also disclose any business, financial, professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
+_Full Disclosure of Financial and Business Interest of Sangguniang Panlungsod Members._ — Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interest. He shall also disclose any business, financial, professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
 
 (a) Ownership of stock or capital, or investment in the entity or firm to which the ordinance or resolution may apply; and
 
@@ -1097,7 +1097,7 @@ The city education officer shall take charge of the education department, and sh
 
 (3) Liaison with teachers and principals assigned in the City as well as sit as additional member of the local school board of the City; and
 
-(4) Perform such other duties and functions and exercise such other powers as may be prescribed by law or ordinance.Ꮮαwρhi৷
+(4) Perform such other duties and functions and exercise such other powers as may be prescribed by law or ordinance.
 
 (c) _The City Youth and Sports Development Officer_ — The city youth and sports development officer much be a citizen of the Philippines, a resident of the City of Calapan, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in sports development or in any related field for at least five (5) years immediately preceding the date of his appointment.
 

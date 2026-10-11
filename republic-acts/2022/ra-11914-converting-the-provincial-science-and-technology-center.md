@@ -90,7 +90,7 @@ _Staffing Pattern._ \- The Secretary of the DOST shall determine the organizatio
 
 ## Section 8
 
-_Appropriations._ \- The initial amount for the implementation of this Act shall be charged against the current year's appropriations of the DOST.1a⍵⍴h!1 Thereafter, such amount shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The initial amount for the implementation of this Act shall be charged against the current year's appropriations of the DOST. Thereafter, such amount shall be included in the annual General Appropriations Act.
 
 ## Section 9
 

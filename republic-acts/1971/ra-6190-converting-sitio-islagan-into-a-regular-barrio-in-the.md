@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Islagan is hereby converted into a regular barrio in the Municipality of Maslog, Province of Eastern Samar, to be known as Barrio San Isidro.1âшphi1
+The sitio of Islagan is hereby converted into a regular barrio in the Municipality of Maslog, Province of Eastern Samar, to be known as Barrio San Isidro.
 
 ## Section 2
 

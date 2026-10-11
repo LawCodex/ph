@@ -32,7 +32,7 @@ The permit granted under this Act shall continue to be in force while the Govern
 
 ## Section 3
 
-The grantee, its successors and assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land based and land mobile radio stations, as the interest of the grantee and of its trade and business may justify.1âшphi1
+The grantee, its successors and assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land based and land mobile radio stations, as the interest of the grantee and of its trade and business may justify.
 
 ## Section 4
 

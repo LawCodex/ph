@@ -26,9 +26,13 @@ AN ACT INSTITUTIONALIZING THE SOCIAL REFORM AND POVERTY ALLEVIATION PROGRAM, CRE
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **_"Social Reform and Poverty Alleviation Act._ "**
+### Section 1
 
-**Section 2._Declaration of policy._** – It is the policy of the State to:
+_Title._ – This Act shall be known as the **_"Social Reform and Poverty Alleviation Act._ "**
+
+### Section 2
+
+_Declaration of policy._ – It is the policy of the State to:
 
 (1) Adopt an area-based, sectoral and focused intervention to poverty alleviation wherein every poor Filipino family shall be empowered to meet its minimum basic needs of health, food and nutrition, water and environmental sanitation, income security, shelter and decent housing, peace and order, education and functional literacy, participation in governance, and family care and psycho-social integrity;
 
@@ -56,7 +60,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (i) The SRA implementation shall be focused on specific target areas and basic sectors.
 
-**Section 3._Definition of terms._** – As used in this Act, the following terms shall mean:
+### Section 3
+
+_Definition of terms._ – As used in this Act, the following terms shall mean:
 
 (a) _"Artisanal fisherfolk"_ – Refers to municipal, small scale or subsistence fishermen who use fishing gear which do not require boats or which only require boats below three (3) tons;
 
@@ -106,7 +112,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (x) _"Youth" –_ Refers to persons fifteen (15) to thirty (30) years old.
 
-**Section 4._Adoption and integration of Social Reform Agenda (SRA) in the National Anti-Poverty Action Agenda._** – The National Anti-Poverty Action Agenda shall principally include the core principles and programs of the Social Reform Agenda (SRA). The SRA shall have a multi-dimensional approach to poverty consisting of the following reforms:
+### Section 4
+
+_Adoption and integration of Social Reform Agenda (SRA) in the National Anti-Poverty Action Agenda._ – The National Anti-Poverty Action Agenda shall principally include the core principles and programs of the Social Reform Agenda (SRA). The SRA shall have a multi-dimensional approach to poverty consisting of the following reforms:
 
 (1) _Social dimension access to quality basic services._ – These are reforms which refer to equitable control and access to social services and facilities such as education, health, housing, and other basic services which enable the citizens to meet their basic human needs and to live decent lives;
 
@@ -142,7 +150,9 @@ Additionally, to support the sectoral flagship programs, the following cross-sec
 
 ## TITLE I — NATIONAL ANTI-POVERTY COMMISSION
 
-**Section 5._The National Anti-Poverty Commission._** – To support the above-stated policy, the National Anti-Poverty Commission, hereinafter referred to as the NAPC, is hereby created under the Office of the President, which shall serve as the coordinating and advisory body for the implementation of the SRA. The Presidential Commission to Fight Poverty (PCFP), the Social Reform Council (SRC), and the Presidential Council for Countryside Development (PCCD) are hereby abolished and the NAPC shall exercise the powers and functions of these agencies. The NAPC shall be the successor-in-interest of the three (3) abolished commissions and councils.
+### Section 5
+
+_The National Anti-Poverty Commission._ – To support the above-stated policy, the National Anti-Poverty Commission, hereinafter referred to as the NAPC, is hereby created under the Office of the President, which shall serve as the coordinating and advisory body for the implementation of the SRA. The Presidential Commission to Fight Poverty (PCFP), the Social Reform Council (SRC), and the Presidential Council for Countryside Development (PCCD) are hereby abolished and the NAPC shall exercise the powers and functions of these agencies. The NAPC shall be the successor-in-interest of the three (3) abolished commissions and councils.
 
 The creation and operationalization of the NAPC shall be guided by the following principles:
 
@@ -162,7 +172,9 @@ The creation and operationalization of the NAPC shall be guided by the following
 
 (8) Enjoining government financial institutions to open credit and savings windows for the poor, and advocating the creation of such windows for the poor among private banking institutions.
 
-**Section 6._Composition of the NAPC._** – The President of the Republic of the Philippines shall serve as Chairperson of the NAPC. The President shall appoint the Lead Convenor of the NAPC, either from the government or private sector, who shall likewise serve as the head of the National Anti-Poverty Commission Secretariat, and shall have the rank of a Cabinet Secretary. There shall be a vice-chairperson for the government sector and a vice-chairperson for the basic sectors; the former to be designated by the President, and the latter to be elected among the basic sector representatives of the NAPC as vice-chairperson for the basic sector; and the following as members:
+### Section 6
+
+_Composition of the NAPC._ – The President of the Republic of the Philippines shall serve as Chairperson of the NAPC. The President shall appoint the Lead Convenor of the NAPC, either from the government or private sector, who shall likewise serve as the head of the National Anti-Poverty Commission Secretariat, and shall have the rank of a Cabinet Secretary. There shall be a vice-chairperson for the government sector and a vice-chairperson for the basic sectors; the former to be designated by the President, and the latter to be elected among the basic sector representatives of the NAPC as vice-chairperson for the basic sector; and the following as members:
 
 (1) Heads of the following government bodies:
 
@@ -236,7 +248,9 @@ Sectoral councils formed by and among the members of each sector shall respectiv
 
 The implementing rules and regulations (IRR) of this Act shall contain the guidelines for the formation of sectoral councils, the nomination process, recall procedures and such other mechanisms to ensure accountability of the sectoral representatives.
 
-**Section 7._Powers and functions._** – The NAPC shall exercise the following powers and functions:
+### Section 7
+
+_Powers and functions._ – The NAPC shall exercise the following powers and functions:
 
 (1) Coordinate with different national and local government agencies and the private sector to assure full implementation of all social reform and poverty alleviation programs;
 
@@ -254,9 +268,13 @@ The implementing rules and regulations (IRR) of this Act shall contain the guide
 
 (8) Submit an annual report to Congress including, but not limited to, all aspects of its operations and programs and project implementation, financial status and other relevant data as reflected by the basic reform indicator.
 
-**Section 8._Principal office._** – The NAPC shall establish its principal office in Metro Manila and may establish such branches within the Philippines as may be deemed necessary by the President of the Philippines to carry out the powers and functions of the NAPC.
+### Section 8
 
-**Section 9._The NAPC secretariat._** – The NAPC shall be supported by a Secretariat, which shall be headed by the Lead Convenor referred to under Sec. 6 hereof. The Secretariat shall provide technical and administrative support to the NAPC. It shall be formed from the unification of the secretariats of the following bodies:
+_Principal office._ – The NAPC shall establish its principal office in Metro Manila and may establish such branches within the Philippines as may be deemed necessary by the President of the Philippines to carry out the powers and functions of the NAPC.
+
+### Section 9
+
+_The NAPC secretariat._ – The NAPC shall be supported by a Secretariat, which shall be headed by the Lead Convenor referred to under Sec. 6 hereof. The Secretariat shall provide technical and administrative support to the NAPC. It shall be formed from the unification of the secretariats of the following bodies:
 
 (1) Presidential Commission to Fight Poverty (PCFP);
 
@@ -268,7 +286,9 @@ Within three (3) months from the effectivity of this Act, the Office of the Pres
 
 To provide the continuity of existing social reform and poverty alleviation related programs, all accredited organizations under the three (3) unified councils and commissions shall be automatically accredited under the NAPC until such time that additional accreditation requirements may be provided by the NAPC.
 
-**Section 10._The People's Development Trust Fund._** – The People's Development Trust Fund (PDTF) is hereby established, which shall be monitored by the NAPC.
+### Section 10
+
+_The People's Development Trust Fund._ – The People's Development Trust Fund (PDTF) is hereby established, which shall be monitored by the NAPC.
 
 The Trust Fund in the amount of Four billion and five hundred million pesos (P4,500,000,000.00) shall be funded from the earnings of the PAGCOR in addition to appropriations by Congress, voluntary contributions, grants, gifts from both local and foreign sources as may be accepted or decided on by the NAPC. Any additional amount to the Trust Fund shall form part of the corpus of the Trust Fund, unless the donor, contributor or grantor expressly provides as a condition that the amount be included in the disbursible portion of the Trust Fund.
 
@@ -286,7 +306,9 @@ For the purpose of monitoring the earnings of the PDTF, the NAPC shall:
 
 (4) Promote research and development work on livelihood and microfinance technology and publications/communications programs that assist the poor beneficiaries.
 
-**Section 11._Purposes of the People's Development Trust Fund (PDTF)._** – The earnings of the PDTF shall be utilized for the following purposes:
+### Section 11
+
+_Purposes of the People's Development Trust Fund (PDTF)._ – The earnings of the PDTF shall be utilized for the following purposes:
 
 (1) Consultancy and training services for microfinance institutions and their beneficiaries on the establishment of the necessary support services, social and financial preparation of beneficiaries, preparation of plans and programs including fund sourcing and assistance, establishment of credit and savings monitoring and evaluation mechanisms;
 
@@ -314,7 +336,9 @@ The PDTF may be accessed by the following:
 
 (c) Local government units undertaking self-help projects where at least twenty-five percent (25%) of the total earnings of the PDTF shall be used exclusively for the provision of materials and technical services.
 
-**Section 12._The role of Local Government Units (LGUs)._** – The local government units, through the local development councils of the province, city, municipality, or barangay shall be responsible for the formulation, implementation, monitoring and evaluation of the National Anti-Poverty Action Agenda in their respective jurisdictions. The LGUs shall:
+### Section 12
+
+_The role of Local Government Units (LGUs)._ – The local government units, through the local development councils of the province, city, municipality, or barangay shall be responsible for the formulation, implementation, monitoring and evaluation of the National Anti-Poverty Action Agenda in their respective jurisdictions. The LGUs shall:
 
 (a) Identify the poor in their respective areas based on indicators such as the minimum basic needs approach and the human development index, their location, occupation, nature of employment, and their primary resource base and formulate a provincial/city/municipality anti-poverty action agenda;
 
@@ -328,7 +352,9 @@ Nothing in this Act shall be construed as diminishing the powers granted to the 
 
 ## TITLE II — MICROFINANCE SERVICES FOR THE POOR
 
-**Section 13._Microfinance program._** – The programs and implementing mechanisms of the Social Reform Agenda's Flagship Program on Credit shall be integrated, adopted and further enhanced to effectively support the objectives of this Act along the following thrusts:
+### Section 13
+
+_Microfinance program._ – The programs and implementing mechanisms of the Social Reform Agenda's Flagship Program on Credit shall be integrated, adopted and further enhanced to effectively support the objectives of this Act along the following thrusts:
 
 (1) Development of a policy environment, especially in the area of savings generation, supportive of basic sector initiatives dedicated to serving the needs of the poor in terms of microfinance services;
 
@@ -338,9 +364,13 @@ Nothing in this Act shall be construed as diminishing the powers granted to the 
 
 (4) Promotion of mechanisms necessary for the implementation of microfinance services, including indigenous microfinance practices.
 
-**Section 14._People's Credit and Finance Corporation (PCFC)._** – The People's Credit and Finance Corporation (PCFC), a government- controlled corporation registered with the Securities and Exchange Commission and created in accordance with Administrative Order No. 148 and Memorandum Order No. 261, shall be the vehicle for the delivery of microfinance services for the exclusive use of the poor. As a government-owned and -controlled corporation, it shall be the lead government entity specifically tasked to mobilize financial resources from both local and international funding sources for microfinance services for the exclusive use of the poor.
+### Section 14
 
-**Section 15._Increase in the Capitalization of PCFC._** – To facilitate the increase in the capitalization of the PCFC, the President of the Republic of the Philippines shall take measures to enable the amendment of the Articles of Incorporation of the PCFC such that:
+_People's Credit and Finance Corporation (PCFC)._ – The People's Credit and Finance Corporation (PCFC), a government- controlled corporation registered with the Securities and Exchange Commission and created in accordance with Administrative Order No. 148 and Memorandum Order No. 261, shall be the vehicle for the delivery of microfinance services for the exclusive use of the poor. As a government-owned and -controlled corporation, it shall be the lead government entity specifically tasked to mobilize financial resources from both local and international funding sources for microfinance services for the exclusive use of the poor.
+
+### Section 15
+
+_Increase in the Capitalization of PCFC._ – To facilitate the increase in the capitalization of the PCFC, the President of the Republic of the Philippines shall take measures to enable the amendment of the Articles of Incorporation of the PCFC such that:
 
 (a) The authorized capital stock of the PCFC may be increased from One hundred million pesos (P100,000,000.00) to Two billion pesos (P2,000,000,000.00) divided into twenty million common shares with a par value of One hundred pesos (P100.00) per share;
 
@@ -352,19 +382,25 @@ For the initial increase in paid-up capital during the first year, the differenc
 
 The appropriations for the additional paid-up capital shall be sourced from the share of the national government in the earnings of the PAGCOR, in the manner provided for under Sec. 18, which provides for the appropriations under this Act.
 
-**Section 16._Special credit windows in existing Government Financing Institutions (GFIs)._** – The existing government financial institutions shall provide for the savings and credit needs of the poor. The GFIs such as the Land Bank of the Philippines, Philippine Postal Bank, Al Amanah Bank, and the Development Bank of the Philippines are hereby mandated to coordinate with NAPC and PCFC in setting up special credit windows and other arrangements, such as the servicing of Small Savers Instruments (SSIs), that will promote the microfinance program of this Act.
+### Section 16
+
+_Special credit windows in existing Government Financing Institutions (GFIs)._ – The existing government financial institutions shall provide for the savings and credit needs of the poor. The GFIs such as the Land Bank of the Philippines, Philippine Postal Bank, Al Amanah Bank, and the Development Bank of the Philippines are hereby mandated to coordinate with NAPC and PCFC in setting up special credit windows and other arrangements, such as the servicing of Small Savers Instruments (SSIs), that will promote the microfinance program of this Act.
 
 The private financing institutions may also provide the savings and credit requirements of the poor by setting up similar credit windows and other arrangements to promote the savings component of the microfinance program of this Act.
 
 Special credit windows for the poor shall, as far as practicable, include an allocation for the basic sectors, as defined in this Act, particularly those living in the rural areas, agrarian reform communities, and women in the countryside.
 
-**Section 17._PCFC privatization._** – In the event that the ownership of the majority of the issued voting stocks of PCFC shall have passed to private investors (exclusively qualified nongovernment organizations, people's organizations and cooperatives), the stockholders shall cause the registration with the Securities and Exchange Commission (SEC) of the revised Articles of Incorporation and By-laws. The PCFC shall thereafter be considered as a privately organized entity subject to the laws and regulations generally applied to private corporations.
+### Section 17
+
+_PCFC privatization._ – In the event that the ownership of the majority of the issued voting stocks of PCFC shall have passed to private investors (exclusively qualified nongovernment organizations, people's organizations and cooperatives), the stockholders shall cause the registration with the Securities and Exchange Commission (SEC) of the revised Articles of Incorporation and By-laws. The PCFC shall thereafter be considered as a privately organized entity subject to the laws and regulations generally applied to private corporations.
 
 The chairman of the PCFC may still be a member of the National Anti-Poverty Commission (NAPC) upon the privatization of the PCFC: Provided, That the PCFC will continue its main purpose of providing for the savings and credit needs of the poor.
 
 ## TITLE III — APPROPRIATIONS FOR THE NATIONAL ANTI-POVERTY COMMISSION (NAPC) AND THE PEOPLE'S DEVELOPMENT TRUST FUND (PDTF)
 
-**Section 18._Appropriations._** – To carry out the provisions of this Act, the following amounts are appropriated as follows:
+### Section 18
+
+_Appropriations._ – To carry out the provisions of this Act, the following amounts are appropriated as follows:
 
 (1) The sum of One hundred million pesos (P100,000,000.00) is hereby appropriated as the initial operating fund in addition to the unutilized funds of the rationalized commission and councils. The sum shall be sourced from the President's Contingent Fund. In subsequent years, the amount necessary to implement this Act shall be included in the annual appropriations. The said amounts shall be under the management of the NAPC.
 
@@ -372,16 +408,24 @@ The chairman of the PCFC may still be a member of the National Anti-Poverty Comm
 
 (3) The aggregate sum of Five hundred million pesos (P500,000,000) for four years shall be appropriated for the increase in the capitalization of the PCFC, from the share of the national government in the earnings of the PAGCOR, at such time that the increase in the capitalization of the PCFC, in the manner provided for under Sec. 15 of this Act, shall have been effected. The appropriation shall be made in the following manner: on the first year, One hundred fifty million pesos (P150,000,000.00); on the second year, One hundred fifty million pesos (P150,000,000.00); on the third year, One hundred million pesos (P100,000,000.00); and on the fourth year, One hundred million pesos (P100,000,000.00).
 
-**Section 19._Transitory provision._** – The Social Reform Council (SRC) and the representatives therein shall, in temporary capacity, exercise the powers and assume the duties of the NAPC until such time that the members of NAPC shall have been duly appointed or designated.
+### Section 19
+
+_Transitory provision._ – The Social Reform Council (SRC) and the representatives therein shall, in temporary capacity, exercise the powers and assume the duties of the NAPC until such time that the members of NAPC shall have been duly appointed or designated.
 
 The Office of the President shall formulate the implementing rules and regulations (IRR) of this Act within six (6) months after its effectivity.
 
 The assets, liabilities and personnel of PCFP, SRC and PCCD are hereby transferred to the NAPC. Personnel who cannot be absorbed by NAPC shall be entitled to a separation pay of one-and-a-half (1 1/2) months for every year of service and other benefits under existing retirement laws, at the option of the personnel concerned.
 
-**Section 20._Repealing clause._** – All laws, executive orders, rules and regulations, or parts thereof, inconsistent with this Act are hereby repealed, amended or modified accordingly. The provisions of this Act shall not be repealed, amended or modified unless expressly provided in subsequent general or special laws.
+### Section 20
 
-**Section 21._Separability clause._** – If any provision of this Act shall be held invalid or unconstitutional, the remaining provisions thereof not affected thereby shall remain in full force and effect.
+_Repealing clause._ – All laws, executive orders, rules and regulations, or parts thereof, inconsistent with this Act are hereby repealed, amended or modified accordingly. The provisions of this Act shall not be repealed, amended or modified unless expressly provided in subsequent general or special laws.
 
-**Section 22._Effectivity clause._** – This Act shall be effective on June 30, 1998.
+### Section 21
+
+_Separability clause._ – If any provision of this Act shall be held invalid or unconstitutional, the remaining provisions thereof not affected thereby shall remain in full force and effect.
+
+### Section 22
+
+_Effectivity clause._ – This Act shall be effective on June 30, 1998.
 
 _Approved:_ **December 11, 1997**

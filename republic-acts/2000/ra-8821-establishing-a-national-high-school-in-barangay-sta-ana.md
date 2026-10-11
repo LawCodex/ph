@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a national high school at Barangay Sta. Ana, Municipality of La Paz, Province of Leyte, under the supervision of the Department of Education, Culture and Sports.ℒαwρhi৷
+There is hereby established a national high school at Barangay Sta. Ana, Municipality of La Paz, Province of Leyte, under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

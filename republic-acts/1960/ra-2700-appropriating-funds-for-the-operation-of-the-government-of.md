@@ -523,7 +523,7 @@ _Remittance of premiums for life and retirement insurance with the Government Se
 
 ## Section 29
 
-_Maximum Number of Permanent Positions in a Bureau or Office._ —Except as otherwise provided by law the maximum number of permanent positions in a bureau or office shall not exceed the number of permanent positions included in the schedules for the said bureau or office in the budget document.1âшphi1
+_Maximum Number of Permanent Positions in a Bureau or Office._ —Except as otherwise provided by law the maximum number of permanent positions in a bureau or office shall not exceed the number of permanent positions included in the schedules for the said bureau or office in the budget document.
 
 ## Section 30
 

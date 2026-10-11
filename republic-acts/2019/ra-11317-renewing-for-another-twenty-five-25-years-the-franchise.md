@@ -82,7 +82,7 @@ _Dispersal of Ownership._ — In accordance with the constitutional provision to
 
 ## Section 13
 
-_Reportorial Requirement._ — The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise.1âшphi1 The reportorial compliance certificate issued by Congress shall be required before an application for any permit, certificate, or any equivalent thereof, is accepted by the NTC.
+_Reportorial Requirement._ — The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise. The reportorial compliance certificate issued by Congress shall be required before an application for any permit, certificate, or any equivalent thereof, is accepted by the NTC.
 
 ## Section 14
 

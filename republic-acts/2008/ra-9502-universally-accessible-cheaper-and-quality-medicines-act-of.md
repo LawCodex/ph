@@ -31,15 +31,23 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-**Section 1._Short Title._** \- This Act shall be known as the "**_Universally Accessible Cheaper and Quality Medicines Act of 2008_** ".
+### Section 1
 
-**SEC. 2._Declaration of Policy._** \- It is the policy of the State to protect public health and, when the public interest or circumstances of extreme urgency so require, it shall adopt appropriate measures to promote and ensure access to affordable quality drugs and medicines for all.
+_Short Title._ \- This Act shall be known as the "**_Universally Accessible Cheaper and Quality Medicines Act of 2008_** ".
+
+### SEC. 2
+
+_Declaration of Policy._ \- It is the policy of the State to protect public health and, when the public interest or circumstances of extreme urgency so require, it shall adopt appropriate measures to promote and ensure access to affordable quality drugs and medicines for all.
 
 Pursuant to the attainment of this general policy, an effective competition policy in the supply and demand of quality affordable drugs and medicines is recognized by the State as a primary instrument. In the event that full competition is not effective, the State recognizes as a reserve instrument the regulation of prices of drugs and medicines, with clear accountability by the implementing authority as mandated in this Act, as one of the means to also promote and ensure access to quality affordable medicines.
 
-**SEC. 3._Construction in Favor of Protection of Public Health._** \- All doubts in the implementation and interpretation of the provisions of this Act, including its implementing rules and regulations, shall be resolved in favor of protecting public health.
+### SEC. 3
 
-**SEC. 4._Definition of Terms._** \- For purposes of this Act, the following terms are to mean as follows:
+_Construction in Favor of Protection of Public Health._ \- All doubts in the implementation and interpretation of the provisions of this Act, including its implementing rules and regulations, shall be resolved in favor of protecting public health.
+
+### SEC. 4
+
+_Definition of Terms._ \- For purposes of this Act, the following terms are to mean as follows:
 
 (a) "Compulsory License" is a license issued by the Director General of the Intellectual Property Office to exploit a patented invention without the permission of the patent holder, either by manufacture or through parallel importation;
 
@@ -265,9 +273,13 @@ _Drugs and Medicines Price Regulation Authority of the President of the Philippi
 
 The power to impose maximum retail prices over drugs and medicines shall be exercised within such period of time as the situation may warrant as determined by the President of the Philippines. No court, except the Supreme Court of the Philippines, shall issue any temporary restraining order or preliminary injunction or preliminary mandatory injunction that will prevent the immediate execution of the exercise of this power of the President of the Philippines.
 
-**SEC. 18._Drugs and Medicines Price Monitoring and Regulation Authority of the Secretary of the Department of Health._** \- To implement the policies of this Act under this Chapter, the Secretary of the Department of Health is hereby authorized to establish and initiate a price monitoring and regulation system for drugs and medicines within one hundred twenty (120) days after the enactment of this Act. The Secretary of the Department of Health may also create such bodies, consultative councils, from which advice may be sought in the implementation of a drug or medicine price monitoring and regulation policy. Such bodies or consultative councils created by the Secretary of the Department of Health shall coordinate its efforts together with other government agencies.
+### SEC. 18
 
-**SEC. 19._Functions and Responsibilities of the Secretary of the Department of Health._** \- Pursuant to Section 18 of this Act, the Secretary of the Department of Health shall have the following powers:
+_Drugs and Medicines Price Monitoring and Regulation Authority of the Secretary of the Department of Health._ \- To implement the policies of this Act under this Chapter, the Secretary of the Department of Health is hereby authorized to establish and initiate a price monitoring and regulation system for drugs and medicines within one hundred twenty (120) days after the enactment of this Act. The Secretary of the Department of Health may also create such bodies, consultative councils, from which advice may be sought in the implementation of a drug or medicine price monitoring and regulation policy. Such bodies or consultative councils created by the Secretary of the Department of Health shall coordinate its efforts together with other government agencies.
+
+### SEC. 19
+
+_Functions and Responsibilities of the Secretary of the Department of Health._ \- Pursuant to Section 18 of this Act, the Secretary of the Department of Health shall have the following powers:
 
 (A) Power to Recommend the Maximum Retail Price of Drugs and Medicines Subject to Price Regulation - (1) Upon application or motu proprio when the public interest so requires, the Secretary of the Department of Health shall have the power to determine the maximum retail prices of drugs and medicines which shall be recommended to the President of the Philippines for approval. In order that affordable prices of drugs and medicines from the different manufacturers, importers, traders, distributors, wholesalers, or retailers shall be made available to the public, the Secretary of the Department of Health, as he/she may deem fit and after a proper determination, shall have such approved maximum retail prices of drugs and medicines published;
 
@@ -303,15 +315,23 @@ The power to impose maximum retail prices over drugs and medicines shall be exer
 
 (F) Other Powers Necessary to Implement Provisions of this Chapter - The Secretary of the Department of Health shall exercise such powers and functions as may be necessary to implement and enforce the provisions of this Chapter of this Act, including the power to require the production and submission of records, documents, books of account, bills of lading, input documents, records of purchase and sale, financial statements, and such other documents, information and papers as may be necessary to enable the Secretary of the Department of Health to carry out its functions, duties, and responsibilities. Accordingly, within thirty (30) days from the effectivity of this Act and every December 31st of every year thereafter, every manufacturer, importer, trader, distributor, wholesaler, and retailer of a drug and medicine whether included in or excluded from the list of drugs and medicines that are subject to price regulation shall furnish the Secretary of the Department of Health a list, containing on the minimum the corresponding prices and inventory, of all drugs and medicines it manufactures, imports, trades, distributes, wholesales, or retails, data pertaining to the factors enumerated under Section 19(A)(2), and any and all necessary information that the Secretary of the Department of Health may require.
 
-**SEC. 20._Procedures for Inquiries, Studies, Hearings, Investigations, and Proceedings._ **\- All inquiries, studies, hearings, investigations and proceedings conducted by the Secretary of the Department of Health shall be governed by the rules adopted by him/her, and in the conduct thereof shall not be bound by the technical rules of evidence.
+### SEC. 20
 
-**SEC. 21._Effectivity of the Decisions or Orders of the Secretary of the Department of Health._** \- All decisions or orders of the Secretary of the Department of Health pursuant to Section 19 Paragraphs (A) Power to Recommend the Maximum Retail Price of Drugs and Medicines Subject to Price Regulation, (B) Power to Include Other Drugs and Medicines in the List Subject to Price Regulation, (C) Power to Implement Cost-Containment and Other Measures, (D) Power to Impose Administrative Fines and Penalties, (E) Power to Deputize Government Entities, or (F) Other Powers Necessary to Implement Provisions of this Chapter, shall be immediately operative.
+_Procedures for Inquiries, Studies, Hearings, Investigations, and Proceedings._ \- All inquiries, studies, hearings, investigations and proceedings conducted by the Secretary of the Department of Health shall be governed by the rules adopted by him/her, and in the conduct thereof shall not be bound by the technical rules of evidence.
 
-**SEC. 22._Review of the Decisions or Orders of the Secretary of the Department of Health._** \- A party adversely affected by a decision, order or ruling of the Secretary of the Department of Health may, within thirty (30) days from notice of such decision, order or ruling, or in case of a denial of a motion for reconsideration thereof, within fifteen (15) days after notice of such denial, file an appeal with the Court of Appeals, which shall have jurisdiction to review such decision, order or ruling.
+### SEC. 21
+
+_Effectivity of the Decisions or Orders of the Secretary of the Department of Health._ \- All decisions or orders of the Secretary of the Department of Health pursuant to Section 19 Paragraphs (A) Power to Recommend the Maximum Retail Price of Drugs and Medicines Subject to Price Regulation, (B) Power to Include Other Drugs and Medicines in the List Subject to Price Regulation, (C) Power to Implement Cost-Containment and Other Measures, (D) Power to Impose Administrative Fines and Penalties, (E) Power to Deputize Government Entities, or (F) Other Powers Necessary to Implement Provisions of this Chapter, shall be immediately operative.
+
+### SEC. 22
+
+_Review of the Decisions or Orders of the Secretary of the Department of Health._ \- A party adversely affected by a decision, order or ruling of the Secretary of the Department of Health may, within thirty (30) days from notice of such decision, order or ruling, or in case of a denial of a motion for reconsideration thereof, within fifteen (15) days after notice of such denial, file an appeal with the Court of Appeals, which shall have jurisdiction to review such decision, order or ruling.
 
 The filing of a petition for a writ of certiorari or other special remedies in the Supreme Court shall in no case supersede or stay any decision, order or ruling of the Secretary of the Department of Health, unless the Supreme Court shall so direct, and the petitioner may be required by the Supreme Court to give bond in such form and of such amount as may be deemed proper.
 
-**SEC. 23._List of Drugs and Medicines that are Subject to Price Regulation._** \- The list of drugs and medicines that are subject to price regulation shall include, inter alia:
+### SEC. 23
+
+_List of Drugs and Medicines that are Subject to Price Regulation._ \- The list of drugs and medicines that are subject to price regulation shall include, inter alia:
 
 (a) All drugs and medicines indicated for treatment of chronic illnesses and life threatening conditions, such as, but not limited to, endocrine disorders, e.g., diabetes mellitus; gastrointestinal disorders, e.g., peptic ulcer; urologic disorders, e.g., benign prostatic hyperplasia (BPH); cardiovascular diseases, e.g., hypertension; pulmonary diseases, e.g., pulmonary tuberculosis (PTB), asthma; auto-immune diseases, e.g., systemic lupus erythematosus (SLE); skin diseases, e.g., psoriasis; neuro-psychiatric disorders; other infectious diseases, e.g., human immunodeficiency virus-acquired immune deficiency syndrome (HIV-AIDS); and other conditions such as organ transplants and neoplasm;
 
@@ -327,23 +347,37 @@ The filing of a petition for a writ of certiorari or other special remedies in t
 
 (g) All other drugs and medicines which, from time to time, the Secretary of the Department of Health determines to be in need of price regulation.
 
-**SEC. 24._Illegal Acts of Price Manipulation._** \- Without prejudice to the provisions of existing laws on goods not covered by this Act, it shall be unlawful for any manufacturer, importer, trader, distributor, wholesaler, retailer, or any person engaged in any method of disposition of drugs and medicines to engage in acts of price manipulation such as hoarding, profiteering, or illegal combination or forming cartel, as defined under Section 5 of Republic Act No. 7581, otherwise known as the Price Act, and all other acts committed in restraint of trade.
+### SEC. 24
 
-**SEC. 25._Penalty for Illegal Acts of Price Manipulation._** \- Any person or entity who commits any act of illegal price manipulation of any drug and medicine subject to price regulation shall suffer the penalty of imprisonment for a period of not less than five (5) years nor more than fifteen (15) years or shall be imposed a fine of not less than One hundred thousand pesos (Php100,000.00) nor more than Ten million pesos (Php10,000,000.00), at the discretion of the court. The court may also order the suspension or revocation of its license to operate (LTO), professional or business license.
+_Illegal Acts of Price Manipulation._ \- Without prejudice to the provisions of existing laws on goods not covered by this Act, it shall be unlawful for any manufacturer, importer, trader, distributor, wholesaler, retailer, or any person engaged in any method of disposition of drugs and medicines to engage in acts of price manipulation such as hoarding, profiteering, or illegal combination or forming cartel, as defined under Section 5 of Republic Act No. 7581, otherwise known as the Price Act, and all other acts committed in restraint of trade.
+
+### SEC. 25
+
+_Penalty for Illegal Acts of Price Manipulation._ \- Any person or entity who commits any act of illegal price manipulation of any drug and medicine subject to price regulation shall suffer the penalty of imprisonment for a period of not less than five (5) years nor more than fifteen (15) years or shall be imposed a fine of not less than One hundred thousand pesos (Php100,000.00) nor more than Ten million pesos (Php10,000,000.00), at the discretion of the court. The court may also order the suspension or revocation of its license to operate (LTO), professional or business license.
 
 Whenever any act of illegal price manipulation of any drug and medicine subject to price regulation is committed by a juridical person, its officials or employees, or in case of a foreign corporation or association, its agent or representative in the Philippines who are responsible for the violation, shall be held liable therefor.
 
-**SEC. 26._Display of Maximum Retail Price Fixed and Approved by Order of the President of the Philippines for Drugs and Medicines Subject to Price Regulation._** \- (a) Within a reasonable period as may be determined by the Secretary of the Department of Health, and: Provided, That it conforms to existing drug product labeling requirements, every manufacturer, importer, distributor, wholesaler, trader, or retailer of a drug and medicine intended for sale shall display the retail price which shall not exceed the maximum retail price approved by order of the President of the Philippines. The maximum retail price shall be printed on the label of the immediate container of the drug and medicine and the minimum pack thereof offered for retail sale with the words "RETAIL PRICE NOT TO EXCEED" preceding it, and "UNDER DRUG PRICE REGULATION" on a red strip.
+### SEC. 26
+
+_Display of Maximum Retail Price Fixed and Approved by Order of the President of the Philippines for Drugs and Medicines Subject to Price Regulation._ \- (a) Within a reasonable period as may be determined by the Secretary of the Department of Health, and: Provided, That it conforms to existing drug product labeling requirements, every manufacturer, importer, distributor, wholesaler, trader, or retailer of a drug and medicine intended for sale shall display the retail price which shall not exceed the maximum retail price approved by order of the President of the Philippines. The maximum retail price shall be printed on the label of the immediate container of the drug and medicine and the minimum pack thereof offered for retail sale with the words "RETAIL PRICE NOT TO EXCEED" preceding it, and "UNDER DRUG PRICE REGULATION" on a red strip.
 
 (b) Within a period as may be determined by the Secretary of the Department of Health from time to time, every manufacturer, importer, or trader shall issue a price list to wholesalers, distributors, retailers and to the Secretary of the Department of Health, indicating the retail price, the maximum retail price, and such other information as may be required by the Secretary of the Department of Health.
 
-**SEC. 27._Reports from Local Government Units (LGUs) and the Department of Trade and Industry (DTI)._** \- All local government units and the Department of Trade and Industry shall help ensure the implementation of pricing policies provided under this Chapter by submitting quarterly price monitoring reports to the Secretary of the Department of Health of drugs and medicines identified by the latter, and any and all necessary information that the Secretary of the Department of Health may require.
+### SEC. 27
 
-**SEC. 28._Role of the Department of Health (DOH) and the Department of Trade and Industry (DTI)._** \- The Department of Health and the Department of Trade and Industry shall conduct independent periodic surveys and studies of the selling prices of all drugs and medicines referred to in Section 23 of this Act all over the country as well as their share or effect on the family income of the different economic groups in the country for purposes of serving as data base for government efforts to promote access to more affordable medicines, as well as evaluating the effectivity of the measures undertaken to promote access to more affordable medicines. The DTI shall always officially provide the Secretary of the Department of Health copies of these independent reports.
+_Reports from Local Government Units (LGUs) and the Department of Trade and Industry (DTI)._ \- All local government units and the Department of Trade and Industry shall help ensure the implementation of pricing policies provided under this Chapter by submitting quarterly price monitoring reports to the Secretary of the Department of Health of drugs and medicines identified by the latter, and any and all necessary information that the Secretary of the Department of Health may require.
 
-**SEC. 29._Rules and Regulations._** \- The Secretary of the Department of Health, in consultation with the Department of Trade and Industry, the Congressional Oversight Committee and other appropriate government agencies, shall, within one hundred twenty (120) days from the effectivity of this Act, promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
+### SEC. 28
 
-**SEC. 30._Reportorial and Public Notice Requirements._** \- (a) The Secretary of the Department of Health shall submit a bi-annual Monitoring Report of its performance on the implementation of this Act to the Office of the President. This report submitted to the Office of the President shall be published in a newspaper of general circulation within thirty (30) days upon submission.
+_Role of the Department of Health (DOH) and the Department of Trade and Industry (DTI)._ \- The Department of Health and the Department of Trade and Industry shall conduct independent periodic surveys and studies of the selling prices of all drugs and medicines referred to in Section 23 of this Act all over the country as well as their share or effect on the family income of the different economic groups in the country for purposes of serving as data base for government efforts to promote access to more affordable medicines, as well as evaluating the effectivity of the measures undertaken to promote access to more affordable medicines. The DTI shall always officially provide the Secretary of the Department of Health copies of these independent reports.
+
+### SEC. 29
+
+_Rules and Regulations._ \- The Secretary of the Department of Health, in consultation with the Department of Trade and Industry, the Congressional Oversight Committee and other appropriate government agencies, shall, within one hundred twenty (120) days from the effectivity of this Act, promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
+
+### SEC. 30
+
+_Reportorial and Public Notice Requirements._ \- (a) The Secretary of the Department of Health shall submit a bi-annual Monitoring Report of its performance on the implementation of this Act to the Office of the President. This report submitted to the Office of the President shall be published in a newspaper of general circulation within thirty (30) days upon submission.
 
 (b) It shall also submit annually a report of its performance on the implementation of this Act to both Houses of Congress, within fifteen (15) days from the opening of the regular session. It shall also regularly report and comply immediately to any order of the Congressional Oversight Committee.
 
@@ -361,7 +395,9 @@ _Strengthening of the Bureau of Food and Drugs (BFAD)._ \- (a) For a more effect
 
 (c) The Bureau of Food and Drugs shall submit a yearly performance report to the Quality Affordable Medicines Oversight Committee, as provided in Section 45 of this Act. The report shall itemize the use of such retained funds in the past year up to the present and the budgeted use of the same in the succeeding periods.
 
-**SEC. 32._Quality Assurance of Drugs._** \- The Bureau of Food and Drugs shall take the necessary steps to ensure that all drugs authorized for marketing in the country shall conform to international standards for the content, purity and quality of pharmaceutical products as established in the International Pharmacopoeia: Provided, That imported products in finished dosage forms, should be certified under the World Health Organization (WHO) certification scheme on the quality of pharmaceutical products moving in international commerce: Provided, further, That the registration for multisource pharmaceutical products should conform to the WHO guidelines on registration requirements to establish interchangeability.
+### SEC. 32
+
+_Quality Assurance of Drugs._ \- The Bureau of Food and Drugs shall take the necessary steps to ensure that all drugs authorized for marketing in the country shall conform to international standards for the content, purity and quality of pharmaceutical products as established in the International Pharmacopoeia: Provided, That imported products in finished dosage forms, should be certified under the World Health Organization (WHO) certification scheme on the quality of pharmaceutical products moving in international commerce: Provided, further, That the registration for multisource pharmaceutical products should conform to the WHO guidelines on registration requirements to establish interchangeability.
 
 ## CHAPTER 5 — NON-DISCRIMINATORY CLAUSE
 
@@ -369,11 +405,17 @@ _Strengthening of the Bureau of Food and Drugs (BFAD)._ \- (a) For a more effect
 
 _Non-Discriminatory Clause._ \- It shall be unlawful for any retail drug outlet to refuse to carry either by sale or by consignment, or offer for sale drugs and medicines brought into the country, as allowed under Section 7 of this Act which amends Section 72.1 of the Intellectual Property Code of the Philippines or Republic Act No. 8293, by the government or authorized third party which have been previously approved for distribution or sale by the Bureau of Food and Drugs. For this purpose, the said products shall be displayed with equal prominence as all other products sold in the establishment.
 
-**SEC. 34._Refusal to Sell Drugs and Medicines._** \- No manufacturer, importer, trader, distributor, wholesaler shall withhold from sale or refuse to sell to a wholesaler or retailer any drug or medicine without good and sufficient reasons.
+### SEC. 34
 
-**SEC. 35._Penalties._** \- Any person or entity who shall refuse to carry or sell drugs and medicines pursuant to the provisions of this Chapter shall be punished with a fine of not less than One hundred thousand pesos (Php100,000.00) but not more than Five hundred thousand pesos (Php500,000.00), at the discretion of the court. For the succeeding offense, the penalties shall not be less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00), at the discretion of the court, and suspension or revocation of its license to operate (LTO), business or professional license, as the case may be.
+_Refusal to Sell Drugs and Medicines._ \- No manufacturer, importer, trader, distributor, wholesaler shall withhold from sale or refuse to sell to a wholesaler or retailer any drug or medicine without good and sufficient reasons.
 
-**SEC. 36._Implementing Rules and Regulations on the Non-Discriminatory Clause._** \- Within one hundred twenty (120) days from the effectivity of this Act, the Department of Health, in consultation with the Department of Trade and Industry, shall promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
+### SEC. 35
+
+_Penalties._ \- Any person or entity who shall refuse to carry or sell drugs and medicines pursuant to the provisions of this Chapter shall be punished with a fine of not less than One hundred thousand pesos (Php100,000.00) but not more than Five hundred thousand pesos (Php500,000.00), at the discretion of the court. For the succeeding offense, the penalties shall not be less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00), at the discretion of the court, and suspension or revocation of its license to operate (LTO), business or professional license, as the case may be.
+
+### SEC. 36
+
+_Implementing Rules and Regulations on the Non-Discriminatory Clause._ \- Within one hundred twenty (120) days from the effectivity of this Act, the Department of Health, in consultation with the Department of Trade and Industry, shall promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
 
 ## CHAPTER 6 — AMENDMENTS TO REPUBLIC ACT NO. 6675, OTHERWISE KNOWN AS THE GENERICS ACT OF 1988
 
@@ -433,7 +475,9 @@ Provided, further, That if the guilty party is an alien, he shall be ipso facto 
 
 "An administrative case may be instituted independently from the criminal case: Provided, That, the dismissal of the criminal case or the withdrawal of the same shall in no instance be a ground for the dismissal of the administrative case."
 
-**SEC. 42._Implementing Rules and Regulations to the Amendments to the Generics Act of 1988._** \- The Department of Health, in consultation with the appropriate government agencies, shall, within one hundred twenty (120) days from the effectivity of this Act, promulgate the rules and regulations necessary to effectively implement the provisions of this Act that relate to Republic Act No. 6675, or the Generics Act of 1988.
+### SEC. 42
+
+_Implementing Rules and Regulations to the Amendments to the Generics Act of 1988._ \- The Department of Health, in consultation with the appropriate government agencies, shall, within one hundred twenty (120) days from the effectivity of this Act, promulgate the rules and regulations necessary to effectively implement the provisions of this Act that relate to Republic Act No. 6675, or the Generics Act of 1988.
 
 ## CHAPTER 7 — AMENDMENTS TO REPUBLIC ACT NO. 5921, AS AMENDED, OTHERWISE KNOWN AS THE PHARMACY LAW
 
@@ -445,7 +489,9 @@ Section 25 of Republic Act No. 5921, as amended, otherwise known as the Pharmacy
 
 "Pharmaceutical, drug or biological manufacturing establishments, importers and wholesalers of drugs, medicines, or biologic products, shall not sell their products for re-sale except only to retail drug outlets, hospital pharmacies or to other drug wholesalers under the supervision of a registered pharmacist, and supermarkets, convenience stores, other retail establishments for over-the-counter drugs, duly licensed by the Bureau of Food and Drugs."
 
-**SEC. 44._Implementing Rules and Regulations to the Amendments to the Pharmacy Law._** \- The Department of Health, in consultation with the appropriate government agencies, within one hundred twenty (120) days from the effectivity of this Act, shall promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
+### SEC. 44
+
+_Implementing Rules and Regulations to the Amendments to the Pharmacy Law._ \- The Department of Health, in consultation with the appropriate government agencies, within one hundred twenty (120) days from the effectivity of this Act, shall promulgate the rules and regulations necessary to effectively implement the provisions of this Chapter.
 
 ## CHAPTER 8 — MISCELLANEOUS PROVISIONS
 
@@ -453,13 +499,21 @@ Section 25 of Republic Act No. 5921, as amended, otherwise known as the Pharmacy
 
 _Congressional Oversight Committee._ \- For the effective implementation of this Act, there shall be created a Congressional Oversight Committee, hereinafter referred to as the Quality Affordable Medicines Oversight Committee, to be composed of five (5) members from the Senate, which shall include the Chairpersons of the Senate Committees on Trade and Commerce and Health and Demography, and, five (5) members from the House of Representatives, which shall include the Chairpersons of the House of Representatives Committees on Trade and Industry and Health. The Quality Affordable Medicines Oversight Committee shall be jointly chaired by the Chairpersons of the Senate Committee on Trade and Commerce and the House of Representatives Committee on Trade and Industry. The Vice-Chair of the oversight committee shall be jointly held by the Chairpersons of the Senate Committee on Health and Demography and the House of Representatives Committee on Health.
 
-**SEC. 46._Appropriations._** \- For the initial implementation of this Act, the amount of Twenty-five million pesos (Php25,000,000.00), in addition to the budget of the Department of Health, shall be provided for the operations of the Office of the Secretary of the Department of Health. The Quality Affordable Medicines Oversight Committee shall be provided an initial budget of Five million pesos (Php5,000,000.00) to perform its functions as mandated under this Act. Thereafter, such sum as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+### SEC. 46
 
-**SEC. 47._Separability Clause._** \- Any portion or provision of this Act that may be declared unconstitutional or invalid shall not have the effect of nullifying other portions and provisions hereof as long as such remaining portion or provision can still subsist and be given effect in their entirety.
+_Appropriations._ \- For the initial implementation of this Act, the amount of Twenty-five million pesos (Php25,000,000.00), in addition to the budget of the Department of Health, shall be provided for the operations of the Office of the Secretary of the Department of Health. The Quality Affordable Medicines Oversight Committee shall be provided an initial budget of Five million pesos (Php5,000,000.00) to perform its functions as mandated under this Act. Thereafter, such sum as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
 
-**SEC. 48._Repealing Clause._** \- All laws, decrees, executive orders, proclamations and administrative regulations or parts thereof inconsistent herewith are hereby repealed or modified accordingly.
+### SEC. 47
 
-**SEC. 49._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) national papers of general circulation.
+_Separability Clause._ \- Any portion or provision of this Act that may be declared unconstitutional or invalid shall not have the effect of nullifying other portions and provisions hereof as long as such remaining portion or provision can still subsist and be given effect in their entirety.
+
+### SEC. 48
+
+_Repealing Clause._ \- All laws, decrees, executive orders, proclamations and administrative regulations or parts thereof inconsistent herewith are hereby repealed or modified accordingly.
+
+### SEC. 49
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) national papers of general circulation.
 
 Approved,
 

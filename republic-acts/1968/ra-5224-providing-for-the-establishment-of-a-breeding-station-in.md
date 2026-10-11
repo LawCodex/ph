@@ -29,7 +29,7 @@ There is hereby established, under the supervision and control of the Bureau of 
 
 ## Section 2
 
-The sum of one hundred thousand pesos or so much thereof as may be necessary for the establishment, operation and maintenance of said breeding station during the fiscal year nineteen hundred sixty-nine, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated.1avvphi1 Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos or so much thereof as may be necessary for the establishment, operation and maintenance of said breeding station during the fiscal year nineteen hundred sixty-nine, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

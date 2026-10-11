@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of three million pesos is appropriated out of any funds in the National Treasury not otherwise appropriated, for the Luneta Development project, the same to the expended exclusively for the said purpose by the National Parks Development Committee.1âшphi1 The Auditor General shall audit, in accordance with law and administrative regulations, all expenditures from the sum herein appropriated. The appropriation to the extent of unreleased balances as of the date of approval of this Act provided for the Luneta Park, Manila, in item numbered nine, paragraph a, Title A, Section one of Republic Act Numbered Thirty-eight hundred; and forty-six is hereby repealed.
+The sum of three million pesos is appropriated out of any funds in the National Treasury not otherwise appropriated, for the Luneta Development project, the same to the expended exclusively for the said purpose by the National Parks Development Committee. The Auditor General shall audit, in accordance with law and administrative regulations, all expenditures from the sum herein appropriated. The appropriation to the extent of unreleased balances as of the date of approval of this Act provided for the Luneta Park, Manila, in item numbered nine, paragraph a, Title A, Section one of Republic Act Numbered Thirty-eight hundred; and forty-six is hereby repealed.
 
 ## Section 2
 

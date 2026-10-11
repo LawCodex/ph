@@ -47,7 +47,7 @@ In the exercise of this authority, the Secretary of Education, Culture and Sport
 
 ## Section 4
 
-_Issuance of Rules and Regulations._ \- The Secretary of Education, Culture and Sports shall issue, within ninety (90) days after the approval of this Act, the necessary rules and regulations to implement this Act and ensure that the total class days prescribed in this Act shall be devoted to the attainment of learning objectives.1a⍵⍴h!1
+_Issuance of Rules and Regulations._ \- The Secretary of Education, Culture and Sports shall issue, within ninety (90) days after the approval of this Act, the necessary rules and regulations to implement this Act and ensure that the total class days prescribed in this Act shall be devoted to the attainment of learning objectives.
 
 The DECS shall submit to the Committees on Education, Arts and Culture of both Houses of Congress copies of the implementing rules and guidelines within thirty (30) days after its promulgation.
 

@@ -107,7 +107,7 @@ The Committees on Agriculture and Food, Appropriations and Finance of both the S
 
 ## Section 9
 
-_Repealing Clause._ – All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.1aшphi1
+_Repealing Clause._ – All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 10
 

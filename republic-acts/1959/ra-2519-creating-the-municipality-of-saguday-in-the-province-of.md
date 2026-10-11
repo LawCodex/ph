@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Saguday, La Paz, Salvacion and Sto. Tomas are separated from the Municipality of Diffun, and the barrios of Dibol, Tres Reyes and Mangandingay are separated from the Municipality of Aglipay, all in the Province of Nueva Vizcaya, and constituted into a new and separate municipality of said province to be known as the Municipality of Saguday, with the seat of government at the present site of the barrio of Saguday.1âшphi1
+The barrios of Saguday, La Paz, Salvacion and Sto. Tomas are separated from the Municipality of Diffun, and the barrios of Dibol, Tres Reyes and Mangandingay are separated from the Municipality of Aglipay, all in the Province of Nueva Vizcaya, and constituted into a new and separate municipality of said province to be known as the Municipality of Saguday, with the seat of government at the present site of the barrio of Saguday.
 
 ## Section 2
 

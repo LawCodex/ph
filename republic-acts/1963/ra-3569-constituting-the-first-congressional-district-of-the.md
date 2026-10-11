@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the first congressional district of the Province of Cebu is hereby constituted into a separate engineering district to be known as the Second Engineering District of the Province of Cebu, with its office at the City of Danao.1âшphi1
+Any provision of law to the contrary notwithstanding, the first congressional district of the Province of Cebu is hereby constituted into a separate engineering district to be known as the Second Engineering District of the Province of Cebu, with its office at the City of Danao.
 
 The district engineer for said engineering district shall be appointed in accordance with existing laws.
 

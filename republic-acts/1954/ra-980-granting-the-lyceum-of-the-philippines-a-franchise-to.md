@@ -52,7 +52,7 @@ The grantee shall be liable to pay the same taxes unless exempted therefrom, on 
 
 ## Section 8
 
-The franchise hereby granted shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.1âшphi1
+The franchise hereby granted shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.
 
 ## Section 9
 

@@ -56,7 +56,7 @@ The following sitios in the Municipality of Buenavista, same province, are separ
 
 ## Section 3
 
-The sitio of Ilong-Buquid in the Municipality of Barotac Viejo, same province, is converted into barrio of Ilong-Buquid.1âшphi1
+The sitio of Ilong-Buquid in the Municipality of Barotac Viejo, same province, is converted into barrio of Ilong-Buquid.
 
 ## Section 4
 

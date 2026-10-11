@@ -90,7 +90,7 @@ _Powers and Duties of the Board of Regents._ \- The Board shall have the followi
 
 (c) To import duty - free economic, technical and cultural books and/or publications, machineries and equipment, upon certification by the CHED that such imported books and/or publications, machineries and equipment are for economic, technical, vocational, scientific, philosophical, historical or cultural purposes, in accordance with the provisions of the Tariff and Customs Code of the Philippines, as amended;
 
-(d) To receive in trust legacies, gifts and donations of real and personal properties of all kinds and to administer and dispose of the same when necessary for the benefit of the University, and subject to the limitations, directions and instructions of the donor, if any.1avvphi1
+(d) To receive in trust legacies, gifts and donations of real and personal properties of all kinds and to administer and dispose of the same when necessary for the benefit of the University, and subject to the limitations, directions and instructions of the donor, if any.
 
 Such donations shall be exempt from the donor's tax and the same shall be considered as allowable deductions from the gross income in the computation of the income tax of the donor, in accordance with the provisions of the National Internal Revenue Code (NIRC) of 1997, as amended: Provided, That such donations shall not be disposed of, transferred or sold;
 

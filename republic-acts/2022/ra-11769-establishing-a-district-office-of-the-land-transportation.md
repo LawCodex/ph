@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-A district office of the Land Transportation Office (LTO) is hereby established in the City of General Trias, Province of Cavite.ℒαwρhi৷
+A district office of the Land Transportation Office (LTO) is hereby established in the City of General Trias, Province of Cavite.
 
 ## Section 2
 

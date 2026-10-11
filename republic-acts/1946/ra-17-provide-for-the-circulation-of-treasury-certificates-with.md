@@ -44,7 +44,7 @@ On December first, nineteen hundred and forty-six, the Treasurer of the Philippi
 
 ## Section 6
 
-Treasury certificates not marked as hereinabove provided shall, after November thirtieth, nineteen hundred and forty-six, not be legal tender for the purposes of section sixteen hundred and twelve of the Revised Administrative Code.1âwphi1
+Treasury certificates not marked as hereinabove provided shall, after November thirtieth, nineteen hundred and forty-six, not be legal tender for the purposes of section sixteen hundred and twelve of the Revised Administrative Code.
 
 ## Section 7
 

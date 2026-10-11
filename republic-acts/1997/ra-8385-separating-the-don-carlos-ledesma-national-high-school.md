@@ -40,7 +40,7 @@ All personnel, assets, liabilities, and records of the Don Carlos Ledesma Nation
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriation of the Julio Ledesma National High School and thereafter in the annual General Appropriations Act.1aшphi1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriation of the Julio Ledesma National High School and thereafter in the annual General Appropriations Act.
 
 ## Section 5
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Daculang-bolo Barrio School in the barrio of Daculang-bolo, Municipality of Daet, Province of Camarines Norte, is changed to Salvacion Primary School.1âшphi1
+The name of Daculang-bolo Barrio School in the barrio of Daculang-bolo, Municipality of Daet, Province of Camarines Norte, is changed to Salvacion Primary School.
 
 ## Section 2
 

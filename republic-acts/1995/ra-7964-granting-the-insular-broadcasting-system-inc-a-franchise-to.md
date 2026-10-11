@@ -74,7 +74,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 12
 
-_Separability Clause._ \- If any section or provision of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1aшphi1
+_Separability Clause._ \- If any section or provision of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 13
 

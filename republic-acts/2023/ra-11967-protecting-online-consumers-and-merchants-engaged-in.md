@@ -434,7 +434,7 @@ _Implementing Rules and Regulations._ \- Within ninety (90) days from the effect
 
 ### Section 36
 
-. _Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.1aшphi1
+. _Separability Clause._ \- If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ### Section 37
 

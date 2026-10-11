@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Rev. Fr. Paul Van Parijs, a Belgian citizen and a Roman Catholic Priest of the Congregation of the Immaculate Heart of Mary (CICM), is hereby granted Filipino citizenship: _Provided,_ that he subscribe to the appropriate oath of allegiance as a Filipino citizen.1aшphi1
+Rev. Fr. Paul Van Parijs, a Belgian citizen and a Roman Catholic Priest of the Congregation of the Immaculate Heart of Mary (CICM), is hereby granted Filipino citizenship: _Provided,_ that he subscribe to the appropriate oath of allegiance as a Filipino citizen.
 
 ## Section 2
 

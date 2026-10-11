@@ -35,7 +35,7 @@ The Secretary of the Department of Education, Culture and Sports shall issue the
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Amamperez National High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Amamperez Agro-Industrial High school shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Amamperez National High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Amamperez Agro-Industrial High school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

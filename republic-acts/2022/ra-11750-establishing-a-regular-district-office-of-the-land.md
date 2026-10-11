@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Pagsanjan, Province of Laguna which shall serve the Fourth Congressional District of Laguna and the neighboring provinces and towns.ℒαwρhi৷
+There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Pagsanjan, Province of Laguna which shall serve the Fourth Congressional District of Laguna and the neighboring provinces and towns.
 
 ## Section 2
 

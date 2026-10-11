@@ -32,6 +32,6 @@ In order to carry out the purposes of this Act, the sum of two hundred thousand 
 
 ## Section 3
 
-this Act shall effect upon its approval.1âшphi1
+this Act shall effect upon its approval.
 
 Enacted without executive approval, September 30, 1972.

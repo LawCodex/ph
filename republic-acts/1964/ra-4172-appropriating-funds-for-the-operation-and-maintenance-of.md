@@ -141,6 +141,6 @@ The itemization of appropriation herein mentioned may be transferred by the Admi
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, September 13, 1964.

@@ -32,7 +32,7 @@ The sum of one hundred thousand pesos is hereby authorized to be appropriated, o
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -52,7 +52,7 @@ The grantee shall so construct and operate such stations as not to interfere wit
 
 ## Section 8
 
-The grantee shall hold the national, provincial, city and municipal governments of the Republic of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the radiotelephone stations.1âшphi1
+The grantee shall hold the national, provincial, city and municipal governments of the Republic of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the radiotelephone stations.
 
 ## Section 9
 

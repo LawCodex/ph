@@ -25,13 +25,17 @@ AN ACT DEFINING CERTAIN RIGHTS OF PERSON ARRESTED, DETAINED OR UNDER CUSTODIAL I
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Statement of Policy._** – It is the policy of the Senate to value the dignity of every human being and guarantee full respect for human rights.
+## Section 1
 
-**Section 2._Rights of Persons Arrested, Detained or Under Custodial Investigation; Duties of Public Officers._** –
+_Statement of Policy._ – It is the policy of the Senate to value the dignity of every human being and guarantee full respect for human rights.
+
+## Section 2
+
+_Rights of Persons Arrested, Detained or Under Custodial Investigation; Duties of Public Officers._ –
 
 (a) Any person arrested detained or under custodial investigation shall at all times be assisted by counsel.
 
-(b) Any public officer or employee, or anyone acting under his order or his place, who arrests, detains or investigates any person for the commission of an offense shall inform the latter, in a language known to and understood by him, of his rights to remain silent and to have competent and independent counsel, preferably of his own choice, who shall at all times be allowed to confer privately with the person arrested, detained or under custodial investigation. If such person cannot afford the services of his own counsel, he must be provided with a competent and independent counsel by the investigating officer.lawphi1Ÿ
+(b) Any public officer or employee, or anyone acting under his order or his place, who arrests, detains or investigates any person for the commission of an offense shall inform the latter, in a language known to and understood by him, of his rights to remain silent and to have competent and independent counsel, preferably of his own choice, who shall at all times be allowed to confer privately with the person arrested, detained or under custodial investigation. If such person cannot afford the services of his own counsel, he must be provided with a competent and independent counsel by the investigating officer.
 
 (c) The custodial investigation report shall be reduced to writing by the investigating officer, provided that before such report is signed, or thumbmarked if the person arrested or detained does not know how to read and write, it shall be read and adequately explained to him by his counsel or by the assisting counsel provided by the investigating officer in the language or dialect known to such arrested or detained person, otherwise, such investigation report shall be null and void and of no effect whatsoever.
 
@@ -43,11 +47,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 As used in this Act, "custodial investigation" shall include the practice of issuing an "invitation" to a person who is investigated in connection with an offense he is suspected to have committed, without prejudice to the liability of the "inviting" officer for any violation of law.
 
-**Section 3._Assisting Counsel._** – Assisting counsel is any lawyer, except those directly affected by the case, those charged with conducting preliminary investigation or those charged with the prosecution of crimes.
+## Section 3
+
+_Assisting Counsel._ – Assisting counsel is any lawyer, except those directly affected by the case, those charged with conducting preliminary investigation or those charged with the prosecution of crimes.
 
 The assisting counsel other than the government lawyers shall be entitled to the following fees;
 
-(a) The amount of One hundred fifty pesos (P150.00) if the suspected person is chargeable with light felonies;lawphi1©alf
+(a) The amount of One hundred fifty pesos (P150.00) if the suspected person is chargeable with light felonies;
 
 (b) The amount of Two hundred fifty pesos (P250.00) if the suspected person is chargeable with less grave or grave felonies;
 
@@ -57,16 +63,22 @@ The fee for the assisting counsel shall be paid by the city or municipality wher
 
 In the absence of any lawyer, no custodial investigation shall be conducted and the suspected person can only be detained by the investigating officer in accordance with the provisions of Article 125 of the Revised Penal Code.
 
-**Section 4._Penalty Clause._** – (a) Any arresting public officer or employee, or any investigating officer, who fails to inform any person arrested, detained or under custodial investigation of his right to remain silent and to have competent and independent counsel preferably of his own choice, shall suffer a fine of Six thousand pesos (P6,000.00) or a penalty of imprisonment of not less than eight (8) years but not more than ten (10) years, or both. The penalty of perpetual absolute disqualification shall also be imposed upon the investigating officer who has been previously convicted of a similar offense.
+## Section 4
+
+_Penalty Clause._ – (a) Any arresting public officer or employee, or any investigating officer, who fails to inform any person arrested, detained or under custodial investigation of his right to remain silent and to have competent and independent counsel preferably of his own choice, shall suffer a fine of Six thousand pesos (P6,000.00) or a penalty of imprisonment of not less than eight (8) years but not more than ten (10) years, or both. The penalty of perpetual absolute disqualification shall also be imposed upon the investigating officer who has been previously convicted of a similar offense.
 
 The same penalties shall be imposed upon a public officer or employee, or anyone acting upon orders of such investigating officer or in his place, who fails to provide a competent and independent counsel to a person arrested, detained or under custodial investigation for the commission of an offense if the latter cannot afford the services of his own counsel.
 
-(b) Any person who obstructs, prevents or prohibits any lawyer, any member of the immediate family of a person arrested, detained or under custodial investigation, or any medical doctor or priest or religious minister chosen by him or by any member of his immediate family or by his counsel, from visiting and conferring privately with him, or from examining and treating him, or from ministering to his spiritual needs, at any hour of the day or, in urgent cases, of the night shall suffer the penalty of imprisonment of not less than four (4) years nor more than six (6) years, and a fine of four thousand pesos (P4,000.00).lawphi1©
+(b) Any person who obstructs, prevents or prohibits any lawyer, any member of the immediate family of a person arrested, detained or under custodial investigation, or any medical doctor or priest or religious minister chosen by him or by any member of his immediate family or by his counsel, from visiting and conferring privately with him, or from examining and treating him, or from ministering to his spiritual needs, at any hour of the day or, in urgent cases, of the night shall suffer the penalty of imprisonment of not less than four (4) years nor more than six (6) years, and a fine of four thousand pesos (P4,000.00).
 
 The provisions of the above Section notwithstanding, any security officer with custodial responsibility over any detainee or prisoner may undertake such reasonable measures as may be necessary to secure his safety and prevent his escape.
 
-**Section 5._Repealing Clause._** – Republic Act No. No. 857, as amended, is hereby repealed. Other laws, presidential decrees, executive orders or rules and regulations, or parts thereof inconsistent with the provisions of this Act are repealed or modified accordingly.
+## Section 5
 
-**Section 6._Effectivity._** – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any daily newspapers of general circulation in the Philippines.
+_Repealing Clause._ – Republic Act No. No. 857, as amended, is hereby repealed. Other laws, presidential decrees, executive orders or rules and regulations, or parts thereof inconsistent with the provisions of this Act are repealed or modified accordingly.
 
-Approved: **April 27, 1992**.lawphi1Ÿ
+## Section 6
+
+_Effectivity._ – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any daily newspapers of general circulation in the Philippines.
+
+Approved: **April 27, 1992**.

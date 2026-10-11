@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Four (4) additional branches of the Regional Trial Court to be stationed at Zamboanga City are hereby created in the Ninth Judicial Region.
 
-The Supreme Court shall assign the branch number of the newly created branches of the Regional Trial Court in the Ninth Judicial Region.1âшphi1
+The Supreme Court shall assign the branch number of the newly created branches of the Regional Trial Court in the Ninth Judicial Region.
 
 ## Section 2
 

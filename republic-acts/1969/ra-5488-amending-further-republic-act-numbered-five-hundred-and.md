@@ -103,7 +103,7 @@ Sec. 25 of the same Act as amended is hereby further amended to read as follows:
 
 "(b) The Development Bank of the Philippines, the Government Service Insurance System, and the Social Security System are hereby authorized to constitute the secondary market for insured mortgages and shall:
 
-"(1) Purchase, service or sell mortgages which are insured under the provisions of this Act.1a⍵⍴h!1
+"(1) Purchase, service or sell mortgages which are insured under the provisions of this Act.
 
 "(2) Subject to the approval of the Monetary Board issue bonds, debentures, securities, collateral and other obligations against the security of mortgages insured under this Act, in such amount and in such proportion to the face value of such mortgage as their respective boards may designate and such obligations may be issued and offered for sale at such price or prices as the particular government institution may determine, and shall be negotiable and exempt from taxes both as to principal and interest. The said obligations shall be and are hereby fully and unconditionally guaranteed both as to principal and interest by the Government of the Republic of the Philippines and such guarantee shall be expressed on the face thereof and the President is hereby authorized to endorse such debentures for the Government of the Republic of the Philippines as prime obligor in such form as may be designated by the International Bank for Reconstruction and Development. "(c) Interests accumulated by lending institutions on mortgages insured under the provisions of thias Act shall be exempt from all taxation.
 

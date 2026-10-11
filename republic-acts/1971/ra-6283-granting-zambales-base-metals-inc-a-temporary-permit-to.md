@@ -40,7 +40,7 @@ No fees shall be charged by the grantee as the radio stations that may be establ
 
 ## Section 5
 
-The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.1âшphi1
+The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
 
 ## Section 6
 

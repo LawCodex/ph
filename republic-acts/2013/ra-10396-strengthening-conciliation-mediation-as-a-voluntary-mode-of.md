@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 A new article is hereby inserted in the Labor Code to read as follows:
 
-"ART. 228. _Mandatory Conciliation and Endorsement of Cases._ – (a) Except as provided in Title VII-A, Book V of this Code, as amended, or as may be excepted by the Secretary of Labor and Employment, all issues arising from labor and employment shall be subject to mandatory conciliation-mediation. The labor arbiter or the appropriate DOLE agency or office that has jurisdiction over the dispute shall entertain only endorsed or referred cases by the duly authorized officer.1âwphi1
+"ART. 228. _Mandatory Conciliation and Endorsement of Cases._ – (a) Except as provided in Title VII-A, Book V of this Code, as amended, or as may be excepted by the Secretary of Labor and Employment, all issues arising from labor and employment shall be subject to mandatory conciliation-mediation. The labor arbiter or the appropriate DOLE agency or office that has jurisdiction over the dispute shall entertain only endorsed or referred cases by the duly authorized officer.
 
 "(b) Any or both parties involved in the dispute may pre-terminate the conciliation-mediation proceedings and request referral or endorsement to the appropriate DOLE agency or office which has jurisdiction over the dispute, or if both parties so agree, refer the unresolved issues to voluntary arbitration."
 

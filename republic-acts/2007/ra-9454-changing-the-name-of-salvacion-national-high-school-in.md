@@ -28,9 +28,13 @@ AN ACT CHANGING THE NAME OF SALVACION NATIONAL HIGH SCHOOL IN BARANGAY TALOJONGO
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Renaming of National High School._** \- The Salvacion National High School in Barangay Talojongon, Municipality of Tigaon, Province of Camarines Sur is hereby changed to Dr. Rodolfo V. Pamor, Jr. Memorial National High School.
+## SECTION 1
 
-**SEC. 2._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+_Renaming of National High School._ \- The Salvacion National High School in Barangay Talojongon, Municipality of Tigaon, Province of Camarines Sur is hereby changed to Dr. Rodolfo V. Pamor, Jr. Memorial National High School.
+
+## SEC. 2
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

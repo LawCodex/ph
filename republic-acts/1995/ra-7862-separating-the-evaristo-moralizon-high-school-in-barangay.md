@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-the Evaristo Moralizon High School in Barangay Poblacion Central in the Municipality of Manay is hereby separated from the Manay National High School located in Barangay San Ignacio, Province of Davao Oriental, and declared a national vocational high school to be known as the Evaristo Moralizon National Vocational High School.1aшphi1
+the Evaristo Moralizon High School in Barangay Poblacion Central in the Municipality of Manay is hereby separated from the Manay National High School located in Barangay San Ignacio, Province of Davao Oriental, and declared a national vocational high school to be known as the Evaristo Moralizon National Vocational High School.
 
 ## Section 2
 

@@ -171,7 +171,7 @@ _Implementing Rules and Regulations._ \- Within one hundred eighty (180) days fr
 
 ## Section 12
 
-Appropriations. - The amount needed for the initial implementation of this Act shall be charged against the current year's appropriations of the departments or agencies concerned.1aшphi1 Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+Appropriations. - The amount needed for the initial implementation of this Act shall be charged against the current year's appropriations of the departments or agencies concerned. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 13
 

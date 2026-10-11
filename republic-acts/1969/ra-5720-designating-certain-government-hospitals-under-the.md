@@ -184,7 +184,7 @@ The following shall be designated and categorized as National District Hospitals
 
 79\. Camiguin Emergency Hospital in the Island of Camiguin, Province of Camiguin, for the Lone Representative District of Camiguin which shall hereafter be known as Camiguin Island Hospital.
 
-80\. Northern Mindanao Regional Hospital in the City of Cagayan de Oro for the Lone Representative District of Misamis Oriental.1a⍵⍴h!1
+80\. Northern Mindanao Regional Hospital in the City of Cagayan de Oro for the Lone Representative District of Misamis Oriental.
 
 ## Section 2
 

@@ -47,7 +47,7 @@ The Secretary of Education is hereby empowered to recognize said school accordin
 
 ## Section 5
 
-The sum of four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of Lagangilang National Agricultural School for the fiscal year nineteen hundred sixty-seven: _Provided,_ That one hundred thousand pesos thereof shall be used for fellowships and scholarship grants and exchanges for members of the faculty, and scholarships to students in exceptionally meritorious cases.1avvphi1 Thereafter, the necessary sum for its maintenance and operation shall be included in the annual General Appropriations Act.
+The sum of four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of Lagangilang National Agricultural School for the fiscal year nineteen hundred sixty-seven: _Provided,_ That one hundred thousand pesos thereof shall be used for fellowships and scholarship grants and exchanges for members of the faculty, and scholarships to students in exceptionally meritorious cases. Thereafter, the necessary sum for its maintenance and operation shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

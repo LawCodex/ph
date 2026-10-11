@@ -26,6 +26,6 @@ The sum of one hundred thousand pesos, or so much thereof as may be necessary, i
 
 ## Section 2
 
-This Act shall take effect upon its approval.1awphil@alf
+This Act shall take effect upon its approval.
 
 Approved: **March 20, 1952**

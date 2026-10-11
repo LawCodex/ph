@@ -40,15 +40,23 @@ All local officials, whether elected, acting or officers-in-charge, shall be dee
 
 "In case of vacancies in the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang Bayan on account of the candidacies of their members, the Secretary of Local Government shall designate acting members from qualified voters in the province, city or municipality to fill such vacancies."
 
-**Section 2._Metro Manila Area._** \- For purposes of the Local Elections on January 18, 1988, the City of Manila, Quezon City and the City of Caloocan shall have six (6) councilors for each of their representative districts who shall be residents thereof to be elected by the qualified voters therein. The City of Pasay and the Municipalities of Makati, Parañaque, Pasig, Marikina, and Valenzuela, each of which comprises a representative district, shall have twelve (12) councilors each to be elected at large by the qualified voters of the said city or municipality. All the other municipalities within the Metropolitan Manila area shall have ten (10) councilors each, with the exception of the Municipality of Pateros which shall have eight (8) councilors, to be elected at large by their respective qualified voters.
+## Section 2
 
-**Section 3._Other Cities._** \- The provision of any law to the contrary notwithstanding the City of Cebu, City of Davao, and any other city with more than one representative district shall have eight (8) councilors for each district who shall be residents thereof to be elected by the qualified voters therein, provided that the cities of Cagayan de Oro, Zamboanga, Bacolod, Iloilo and other cities comprising a representative district shall have twelve (12) councilors each and all other cities shall have ten (10) councilors each to be elected at large by the qualified voters of the said cities: Provided, That in no case shall the present number of councilors according to their charters be reduced.
+_Metro Manila Area._ \- For purposes of the Local Elections on January 18, 1988, the City of Manila, Quezon City and the City of Caloocan shall have six (6) councilors for each of their representative districts who shall be residents thereof to be elected by the qualified voters therein. The City of Pasay and the Municipalities of Makati, Parañaque, Pasig, Marikina, and Valenzuela, each of which comprises a representative district, shall have twelve (12) councilors each to be elected at large by the qualified voters of the said city or municipality. All the other municipalities within the Metropolitan Manila area shall have ten (10) councilors each, with the exception of the Municipality of Pateros which shall have eight (8) councilors, to be elected at large by their respective qualified voters.
 
-**Section 4._Provinces and Municipalities._** \- First and second class provinces shall each have ten (10) elective members; third and fourth class provinces, eight; and fifth and sixth class provinces, six to be elected at large by the qualified voters therein.
+## Section 3
+
+_Other Cities._ \- The provision of any law to the contrary notwithstanding the City of Cebu, City of Davao, and any other city with more than one representative district shall have eight (8) councilors for each district who shall be residents thereof to be elected by the qualified voters therein, provided that the cities of Cagayan de Oro, Zamboanga, Bacolod, Iloilo and other cities comprising a representative district shall have twelve (12) councilors each and all other cities shall have ten (10) councilors each to be elected at large by the qualified voters of the said cities: Provided, That in no case shall the present number of councilors according to their charters be reduced.
+
+## Section 4
+
+_Provinces and Municipalities._ \- First and second class provinces shall each have ten (10) elective members; third and fourth class provinces, eight; and fifth and sixth class provinces, six to be elected at large by the qualified voters therein.
 
 All other municipalities shall have the same number of elective members as provided in existing laws.
 
-**Section 5._Term._** \- Local officials duly elected shall assume office at noon on the second day of February 1988 and shall serve until noon of June 30, 1992.
+## Section 5
+
+_Term._ \- Local officials duly elected shall assume office at noon on the second day of February 1988 and shall serve until noon of June 30, 1992.
 
 If no candidate has been elected and qualified to assume office on the aforementioned date and time, the officer-in-charge shall continue to hold office until the duly elected officer has qualified.
 
@@ -66,12 +74,16 @@ _Section 4 of Executive Order No. 270 is hereby amended to read as follows_ :
 
 ## Section 8
 
-_Section 6 of Executive Order No. 270 is hereby amended to read as follows_ :1awphil.net
+_Section 6 of Executive Order No. 270 is hereby amended to read as follows_ :
 
 "Sec. 6. Appropriations - The amount of two hundred twenty million (P220,000,000) pesos, or so much thereof as may be necessary for the holding of the local elections, is hereby set aside out of the annual budget and savings of the Commission on Elections, which shall be released automatically by the Department of Budget and Management upon request of the Chairman of the Commission on Elections, based on the approved special budget. In case of deficiencies, the funds herein provided shall be augmented from the contingent fund or any other applicable appropriations authorized in the current General Appropriations Act, which shall likewise be released automatically upon similar request of the Chairman of the Commission on Elections."
 
-**Section 9._Separability Clause._** \- If for any reason or reasons, any part or provision of this Act shall be held to be unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+## Section 9
 
-**Section 10._Effectivity Clause._** \- This Act shall take effect upon its approval.
+_Separability Clause._ \- If for any reason or reasons, any part or provision of this Act shall be held to be unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+## Section 10
+
+_Effectivity Clause._ \- This Act shall take effect upon its approval.
 
 Approved: November 6, 1987.

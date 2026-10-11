@@ -32,6 +32,6 @@ The municipality of Tabaco is likewise authorized, subject to such rules and reg
 
 ## Section 3
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: June 5, 1948.

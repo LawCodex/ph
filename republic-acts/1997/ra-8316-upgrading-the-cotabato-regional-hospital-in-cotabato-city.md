@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Cotabato Regional Hospital in Cotabato City is hereby upgraded into a medical center, correspondingly increasing its bed capacity to four hundred (400) beds, under the supervision of the Department of Health, to be known as the Cotabato Regional and Medical Center.1aшphi1
+The Cotabato Regional Hospital in Cotabato City is hereby upgraded into a medical center, correspondingly increasing its bed capacity to four hundred (400) beds, under the supervision of the Department of Health, to be known as the Cotabato Regional and Medical Center.
 
 ## Section 2
 

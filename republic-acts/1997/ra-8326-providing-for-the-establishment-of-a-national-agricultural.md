@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the direct supervision of the Department of Education, Culture and Sports, a national agricultural high school in Sigaboy, Poblacion, Municipality of Governor Generoso, Province of Davao Oriental, to be known as the Sigaboy Agricultural Vocational High School.1aшphi1
+There is hereby established, under the direct supervision of the Department of Education, Culture and Sports, a national agricultural high school in Sigaboy, Poblacion, Municipality of Governor Generoso, Province of Davao Oriental, to be known as the Sigaboy Agricultural Vocational High School.
 
 ## Section 2
 

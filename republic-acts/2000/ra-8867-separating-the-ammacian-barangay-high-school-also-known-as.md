@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Ammacian Barangay High School, also known as Pinukpuk Vocational School - Ammacian Annex in the Municipality of Pinukpuk, Province of Kalinga, is hereby separated from the Pinukpuk Vocational School in the Municipality of Pinukpuk and converted into a national agricultural and vocational high school to be known as the Cal-Owan Agricultural and Vocational National High School.ℒαwρhi৷
+The Ammacian Barangay High School, also known as Pinukpuk Vocational School - Ammacian Annex in the Municipality of Pinukpuk, Province of Kalinga, is hereby separated from the Pinukpuk Vocational School in the Municipality of Pinukpuk and converted into a national agricultural and vocational high school to be known as the Cal-Owan Agricultural and Vocational National High School.
 
 ## Section 2
 

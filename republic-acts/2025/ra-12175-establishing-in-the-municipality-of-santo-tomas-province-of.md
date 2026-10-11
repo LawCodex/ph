@@ -33,7 +33,7 @@ Any future increase in bed capacity, healthcare facilities, service capability, 
 
 ## Section 3
 
-The Provincial Government of Davao del Norte shall provide for the necessary funds for the establishment of the Santo Tomas Municipal Hospital.ℒαwρhi৷ The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the said hospital.
+The Provincial Government of Davao del Norte shall provide for the necessary funds for the establishment of the Santo Tomas Municipal Hospital. The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

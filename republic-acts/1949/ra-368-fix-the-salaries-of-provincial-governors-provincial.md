@@ -37,7 +37,7 @@ In second-class provinces: for provincial governors, six thousand six hundred pe
 
 In third-class provinces: for provincial governors, six thousand pesos; for provincial treasurers, five thousand one hundred pesos; for provincial auditors and district health officers, four thousand five hundred pesos; and for provincial assessors, three thousand three hundred pesos.
 
-In fourth-class provinces: for provincial governors, five thousand four hundred pesos; for provincial treasurers, four thousand eight hundred pesos; for provincial auditors and district health officers, three thousand nine hundred sixty pesos; and for provincial assessors, three thousand one hundred twenty pesos.1a⍵⍴h!1
+In fourth-class provinces: for provincial governors, five thousand four hundred pesos; for provincial treasurers, four thousand eight hundred pesos; for provincial auditors and district health officers, three thousand nine hundred sixty pesos; and for provincial assessors, three thousand one hundred twenty pesos.
 
 In fifth-class provinces: for provincial governors, four thousand eight hundred pesos; for provincial treasurers, four thousand two hundred pesos; for provincial auditors and district health officers, three thousand seven hundred twenty pesos; and for provincial assessors, three thousand pesos.
 

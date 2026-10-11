@@ -185,7 +185,7 @@ No religious opinion or affiliation shall be the matter of inquiry in the appoin
 
 The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students to qualify for admission to the University.
 
-No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.1awp++i1
+No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
 ## Section 16
 

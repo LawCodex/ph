@@ -52,7 +52,7 @@ The amount necessary for the implementation of this Act shall be charged against
 
 ## Section 6
 
-If any of the provisions of this Act is held unconstitutional, the provisions not affected shall remain valid and binding.ℒαwρhi৷
+If any of the provisions of this Act is held unconstitutional, the provisions not affected shall remain valid and binding.
 
 ## Section 7
 

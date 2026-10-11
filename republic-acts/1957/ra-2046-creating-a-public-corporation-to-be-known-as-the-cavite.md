@@ -52,7 +52,7 @@ _Powers and General Functions of the Authority._ -The powers, functions and acti
 
 (i) To exercise the right of eminent domain for the purpose for which the Authority was created, in the manner provided by law for condemnation proceedings by the national, provincial, and municipal government;
 
-(j) When essential to the proper administration of its corporate affairs or when necessary for the proper transaction of its business or for carrying out the purposes for which it was organized, to contract indebtedness and issue bonds, subject to the approval of the Provincial Governor of Cavite and the Secretary of Finance.1avvphi1 The bonded indebtedness of the Authority, of all classes, shall not at any time exceed ten million pesos, and the issue thereof shall be subject to the conditions set forth in section five of this Act;
+(j) When essential to the proper administration of its corporate affairs or when necessary for the proper transaction of its business or for carrying out the purposes for which it was organized, to contract indebtedness and issue bonds, subject to the approval of the Provincial Governor of Cavite and the Secretary of Finance. The bonded indebtedness of the Authority, of all classes, shall not at any time exceed ten million pesos, and the issue thereof shall be subject to the conditions set forth in section five of this Act;
 
 (k) To issue such regulations as may be necessary for the proper distribution of electric light, heat and/or power, and for the protection of its distribution systems, as soon as established, any violation of which shall be punished by a fine of not more than five hundred pesos or by imprisonment for not more than six months, or both such fine and imprisonment in the discretion of the court; and
 

@@ -65,7 +65,7 @@ Upon the organization of the Public Recreations Bureau, all records, personnel, 
 
 ## Section 4
 
-All laws ordinances, administrative orders or parts thereof on conflict with any of the provisions of this Act are hereby repealed.1avvphi1
+All laws ordinances, administrative orders or parts thereof on conflict with any of the provisions of this Act are hereby repealed.
 
 ## Section 5
 

@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT DECLARING THE 24TH DAY OF NOVEMBER OF EVERY YEAR AS A SPECIAL HOLIDAY FOR CITY OF DUMAGUETE, PROVINCE OF NEGROS ORIENTAL
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

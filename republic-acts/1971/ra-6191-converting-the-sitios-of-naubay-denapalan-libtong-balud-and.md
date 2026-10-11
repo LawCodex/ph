@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Naubay, Denapalan, Libtong, Balud and Rawis, all in the Municipality of Arteche, Province of Eastern Samar, are hereby converted into regular barrios to be known as Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez, respectively.1âшphi1
+The sitios of Naubay, Denapalan, Libtong, Balud and Rawis, all in the Municipality of Arteche, Province of Eastern Samar, are hereby converted into regular barrios to be known as Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez, respectively.
 
 ## Section 2
 

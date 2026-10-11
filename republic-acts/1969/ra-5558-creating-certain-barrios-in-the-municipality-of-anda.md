@@ -34,7 +34,7 @@ The following sitios in the Municipality of Anda, Province of Eohol, are hereby 
 
 4\. Sitios Bagacay, Lutao, and Sa-ob are constituted into a distinct and independent barrio of said municipality, to be known as Barrio Buenasuerte; and
 
-5\. Sitio Tawid is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Tawid.1a⍵⍴h!1
+5\. Sitio Tawid is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Tawid.
 
 ## Section 2
 

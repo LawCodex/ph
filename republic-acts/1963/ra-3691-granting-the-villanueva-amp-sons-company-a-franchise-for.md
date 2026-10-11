@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted to the Villanueva & Sons Company, hereinafter referred to as the grantee, a franchise for the construction, operation and maintenance of an ice and refrigeration plant at the Municipality of Narvacan, Province of Ilocos Sur, for the purpose of manufacturing and distributing ice in the said municipality and in the Province of Ilocos Sur, as well as to accept for a fee the refrigeration and cold storage of such goods and foodstuffs requiring such service in the Municipality of Narvacan; _Provided,_ That the schedule of prices for the ice so produced and sold and the fees for registration services shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is hereby granted to the Villanueva & Sons Company, hereinafter referred to as the grantee, a franchise for the construction, operation and maintenance of an ice and refrigeration plant at the Municipality of Narvacan, Province of Ilocos Sur, for the purpose of manufacturing and distributing ice in the said municipality and in the Province of Ilocos Sur, as well as to accept for a fee the refrigeration and cold storage of such goods and foodstuffs requiring such service in the Municipality of Narvacan; _Provided,_ That the schedule of prices for the ice so produced and sold and the fees for registration services shall at all times be subject to regulation by the Public Service Commission.
 
 Said grantee shall manufacture and supply ice up to the limit and capacity of its plant.
 

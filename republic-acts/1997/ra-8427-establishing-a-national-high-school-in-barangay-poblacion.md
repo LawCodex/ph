@@ -32,7 +32,7 @@ A national high school is hereby established in Barangay Poblacion, Municipality
 
 ## Section 2
 
-The Department of Education, Culture and Sports (DECS) shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1aшphi1
+The Department of Education, Culture and Sports (DECS) shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

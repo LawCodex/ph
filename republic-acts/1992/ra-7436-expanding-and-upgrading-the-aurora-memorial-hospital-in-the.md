@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Aurora Memorial Hospital in the Municipality of Baler, Province of Aurora, is hereby expanded and upgraded from a twenty-five bed capacity district hospital into a one hundred-bed capacity provincial hospital, to be known as the Aurora Provincial Hospital.1âшphi1
+The Aurora Memorial Hospital in the Municipality of Baler, Province of Aurora, is hereby expanded and upgraded from a twenty-five bed capacity district hospital into a one hundred-bed capacity provincial hospital, to be known as the Aurora Provincial Hospital.
 
 ## Section 2
 

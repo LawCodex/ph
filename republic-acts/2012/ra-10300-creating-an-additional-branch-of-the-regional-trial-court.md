@@ -37,7 +37,7 @@ The Supreme Court shall assign the branch number of the newly-created branch of 
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of an additional branch of the Regional Trial Court to be stationed at the Municipality of Cajidiocan, Island of Sibuyan, Province of Romblon, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court herein created shall be appropriated and released only upon the actual organization of the Court and the appointment of its personnel.ℒαwρhi৷
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of an additional branch of the Regional Trial Court to be stationed at the Municipality of Cajidiocan, Island of Sibuyan, Province of Romblon, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court herein created shall be appropriated and released only upon the actual organization of the Court and the appointment of its personnel.
 
 ## Section 3
 

@@ -28,7 +28,9 @@ AN ACT REQUIRING CERTIFICATION OF THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPME
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Declaration of Policy._** – It is hereby declared the policy of the State that alternative protection and assistance shall be afforded to every child who is abandoned, surrendered, or neglected. In this regard, the State shall extend such assistance in the most expeditious manner in the interest of full emotional and social development of the abandoned, surrendered, or neglected child.
+## Section 1
+
+_Declaration of Policy._ – It is hereby declared the policy of the State that alternative protection and assistance shall be afforded to every child who is abandoned, surrendered, or neglected. In this regard, the State shall extend such assistance in the most expeditious manner in the interest of full emotional and social development of the abandoned, surrendered, or neglected child.
 
 It is hereby recognized that administrative processes under the jurisdiction of the Department of Social Welfare and Development for the declaration of a child legally available for adoption of abandoned, surrendered, or neglected children are the most expeditious proceedings for the best interest and welfare of the child.
 
@@ -62,7 +64,9 @@ It is hereby recognized that administrative processes under the jurisdiction of 
 
 (12) Social Case Study Report (SCSR) shall refer to a written report of the result of an assessment conducted by a licensed social worker as to the social-cultural economic condition, psychosocial background, current functioning and facts of abandonment or neglect of the child. The report shall also state the efforts of social worker to locate the child's biological parents/relatives.
 
-**Section 3._Petition._** – The petition shall be in the form of an affidavit, subscribed and sworn to before any person authorized by law to administer oaths. It shall contain facts necessary to establish the merits of the petition and shall state the circumstances surrounding the abandonment or neglect of the child.
+## Section 3
+
+_Petition._ – The petition shall be in the form of an affidavit, subscribed and sworn to before any person authorized by law to administer oaths. It shall contain facts necessary to establish the merits of the petition and shall state the circumstances surrounding the abandonment or neglect of the child.
 
 The petition shall be supported by the following documents:
 
@@ -82,25 +86,35 @@ The petition shall be supported by the following documents:
 
 (4) Recent photograph of the child and photograph of the child upon abandonment or admission to the agency or institution.
 
-**Section 4._Procedure for the Filing of the Petition._** – The petition shall be filed in the regional office of the DSWD where the child was found or abandoned.
+## Section 4
+
+_Procedure for the Filing of the Petition._ – The petition shall be filed in the regional office of the DSWD where the child was found or abandoned.
 
 The Regional Director shall examine the petition and its supporting documents, if sufficient in form and substance and shall authorize the posting of the notice of the petition conspicuous place for five (5) consecutive days in the locality where the child was found.
 
 The Regional Director shall act on the same and shall render a recommendation not later than five (5) working days after the completion of its posting. He/she shall transmit a copy of his/her recommendation and records to the Office of the Secretary within forty-eight (48) hours from the date of the recommendation.
 
-**Section 5._Declaration of Availability for Adoption._** – Upon finding merit in the petition, the Secretary shall issue a certification declaring the child legally available for adoption within seven (7) working days from receipt of the recommendation.
+## Section 5
+
+_Declaration of Availability for Adoption._ – Upon finding merit in the petition, the Secretary shall issue a certification declaring the child legally available for adoption within seven (7) working days from receipt of the recommendation.
 
 Said certification, by itself shall be the sole basis for the immediate issuance by the local civil registrar of a foundling certificate. Within seven (7) working days, the local civil registrar shall transmit the founding certificate to the National Statistic Office (NSO).
 
-**Section 6._Appeal._** – The decision of the Secretary shall be appealable to the Court of Appeals within five (5) days from receipt of the decision by the petitioner, otherwise the same shall be final and executory.
+## Section 6
 
-**Section 7._Declaration of Availability for Adoption of Involuntarily Committed Child and Voluntarily Committed Child._** – The certificate declaring a child legally available for adoption in case of an involuntarily committed child under Article 141, paragraph 4(a) and Article 142 of Presidential Decree No. 603 shall be issued by the DSWD within three (3) months following such involuntary commitment.
+_Appeal._ – The decision of the Secretary shall be appealable to the Court of Appeals within five (5) days from receipt of the decision by the petitioner, otherwise the same shall be final and executory.
+
+## Section 7
+
+_Declaration of Availability for Adoption of Involuntarily Committed Child and Voluntarily Committed Child._ – The certificate declaring a child legally available for adoption in case of an involuntarily committed child under Article 141, paragraph 4(a) and Article 142 of Presidential Decree No. 603 shall be issued by the DSWD within three (3) months following such involuntary commitment.
 
 In case of voluntary commitment as contemplated in Article 154 of Presidential Decree No. 603, the certification declaring the child legally available for adoption shall be issued by the Secretary within three (3) months following the filing of the Deed of Voluntary Commitment, as signed by the parent(s) with the DSWD.
 
 Upon petition filed with the DSWD, the parent(s) or legal guardian who voluntarily committed a child may recover legal custody and parental authority over him/her from the agency or institution to which such child was voluntarily committed when it is shown to the satisfaction of the DSWD that the parent(s) or legal guardian is in a position to adequately provide for the needs of the child: _Provided_ , That, the petition for restoration is filed within (3) months after the signing of the Deed of Voluntary Commitment.
 
-**Section 8._Certification._** – The certification that a child is legally available for adoption shall be issued by the DSWD in lieu of a judicial order, thus making the entire process administrative in nature.
+## Section 8
+
+_Certification._ – The certification that a child is legally available for adoption shall be issued by the DSWD in lieu of a judicial order, thus making the entire process administrative in nature.
 
 The certification, shall be, for all intents and purposes, the primary evidence that the child is legally available in a domestic adoption proceeding, as provided in Republic Act No. 8552 and in an inter-country adoption proceeding, as provided in Republic Act No. 8043.
 
@@ -108,15 +122,23 @@ The certification, shall be, for all intents and purposes, the primary evidence 
 
 Upon effectivity of this Act and pending the completion of the drafting of the implementing rules and regulations, petitions for the issuance of a certification declaring a child legally available for adoption may be filled with the regional office of the DSWD where the child was found or abandoned.
 
-**Section 10._Penalty._** – The penalty of One hundred thousand pesos (P100,000.00) to Two hundred thousand pesos (P200,000.00) shall be imposed on any person, institution, or agency who shall place a child for adoption without the certification that the child is legally available for adoption issued by the DSWD. Any agency or institution found violating any provision of this Act shall have its license to operate revoked without prejudice to the criminal prosecution of its officers and employees.
+## Section 10
+
+_Penalty._ – The penalty of One hundred thousand pesos (P100,000.00) to Two hundred thousand pesos (P200,000.00) shall be imposed on any person, institution, or agency who shall place a child for adoption without the certification that the child is legally available for adoption issued by the DSWD. Any agency or institution found violating any provision of this Act shall have its license to operate revoked without prejudice to the criminal prosecution of its officers and employees.
 
 Violation of any provision of this Act shall subject the government official or employee concerned to appropriate administrative, civil and/or criminal sanctions, including suspension and/or dismissal from the government service and forfeiture of benefits.
 
-**Section 11._Repealing Clause._** – Sections 2(c)(iii), 3(b), (e) and 8(a) of Republic Act No. 8552, Section 3(f) of Republic Act No. 8043, Chapter 1 of Title VII, and VIII of Presidential Decree No. 603 and any law, presidential decree, executive order, letter of instruction, administrative order, rule, or regulation contrary to or inconsistent with the provisions of this Act are hereby reprealed, modified or amended accordingly.
+## Section 11
 
-**Section 12._Separability Clause._** – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
+_Repealing Clause._ – Sections 2(c)(iii), 3(b), (e) and 8(a) of Republic Act No. 8552, Section 3(f) of Republic Act No. 8043, Chapter 1 of Title VII, and VIII of Presidential Decree No. 603 and any law, presidential decree, executive order, letter of instruction, administrative order, rule, or regulation contrary to or inconsistent with the provisions of this Act are hereby reprealed, modified or amended accordingly.
 
-**Section 13._Effectivity._** – This Act shall take effect fifteen (15) days following its complete publication in two (2) newspapers of general circulation or in the _Official Gazette._
+## Section 12
+
+_Separability Clause._ – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
+
+## Section 13
+
+_Effectivity._ – This Act shall take effect fifteen (15) days following its complete publication in two (2) newspapers of general circulation or in the _Official Gazette._
 
 Approved,
 

@@ -33,7 +33,7 @@ The following sums or so much thereof as may be necessary, are appropriated out 
 
 ## Section 2
 
-The amount appropriated in this Act necessary for the replacement of totally destroyed, and for the reconstruction or repairs of partially damaged, radio-telegraph station buildings, shall be spent by the Director of Public Works, and the amount necessary for the construction, re-establishment and repairs of telegraph lines and radio installations, including maintenance and operation thereof shall be spent by the Director of Telecommunications.Ꮮαwρhi৷
+The amount appropriated in this Act necessary for the replacement of totally destroyed, and for the reconstruction or repairs of partially damaged, radio-telegraph station buildings, shall be spent by the Director of Public Works, and the amount necessary for the construction, re-establishment and repairs of telegraph lines and radio installations, including maintenance and operation thereof shall be spent by the Director of Telecommunications.
 
 ## Section 3
 

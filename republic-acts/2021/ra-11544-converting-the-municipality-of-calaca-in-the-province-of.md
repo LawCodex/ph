@@ -305,7 +305,7 @@ _Powers, Duties, Functions and Compensation._ \- (a) The Sangguniang Panlungsod,
 
 (vi) Subject to the guidelines prescribed by the Department of Transportation (DOTr), regulate the operation of tricycles and grant franchises for the operation thereof within the territorial jurisdiction of the City; and
 
-(vii) Upon approval by a majority vote of all the members of the Sangguniang Panlungsod, grant a franchise for any persons, partnership, corporation or cooperative to do business within the City; establish, construct, operate and maintain ferries, wharves, markets or slaughterhouses; or undertake such other activities within the City as may be allowed by existing laws: _Provided,_ That cooperatives shall be given preference in the grant of such a franchise.ℒαwρhi৷
+(vii) Upon approval by a majority vote of all the members of the Sangguniang Panlungsod, grant a franchise for any persons, partnership, corporation or cooperative to do business within the City; establish, construct, operate and maintain ferries, wharves, markets or slaughterhouses; or undertake such other activities within the City as may be allowed by existing laws: _Provided,_ That cooperatives shall be given preference in the grant of such a franchise.
 
 (4) Regulate activities relative to the use of land, buildings and structures within the City in order to promote the general welfare and for said purpose, shall:
 
@@ -497,7 +497,7 @@ _Permanent Vacancy in the Offices of the Mayor and City Vice Mayor._ \- (a) If a
 
 (b) If a permanent vacancy occurs in the office of the Punong Barangay, the highest ranking Sangguniang Barangay member or, in case of the latter's incapacity, the second highest Sanggunian member shall become th Punong Barangay.
 
-(c) A tie between or among the highest ranking Sangguniang Panlungsod members shall be resolved by drawing of lots.ℒαwρhi৷
+(c) A tie between or among the highest ranking Sangguniang Panlungsod members shall be resolved by drawing of lots.
 
 (d) The successors, as defined herein, shall serve only the unexpired terms of their predecessors.
 
@@ -1151,7 +1151,7 @@ _Election of Provincial Governor and Sangguniang Panlalawigan Members of the Pro
 
 ### Section 57
 
-_Jurisidiction of the Province of Batangas._ \- The City of Calaca shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Batangas.1aшphi1
+_Jurisidiction of the Province of Batangas._ \- The City of Calaca shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Batangas.
 
 ### Section 58
 

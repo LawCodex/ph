@@ -29,7 +29,7 @@ The 7.9-km. strip of the national highway, commencing at Km. 18 + 400, Sitio Cam
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

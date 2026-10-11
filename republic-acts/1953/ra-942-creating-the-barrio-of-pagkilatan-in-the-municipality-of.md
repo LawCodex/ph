@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Pagkilatan is separated from the barrio of Matoco, municipality of Batangas, Province of Batangas, and constituted into a barrio in the said municipality, to be known as the barrio of Pagkilatan.1a⍵⍴h!1
+The sitio of Pagkilatan is separated from the barrio of Matoco, municipality of Batangas, Province of Batangas, and constituted into a barrio in the said municipality, to be known as the barrio of Pagkilatan.
 
 ## Section 2
 

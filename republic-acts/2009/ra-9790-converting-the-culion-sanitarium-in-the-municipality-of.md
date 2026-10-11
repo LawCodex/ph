@@ -54,7 +54,7 @@ _Continued Service and Assistance to Leprosy Patients._ \- The interest and well
 
 ## Section 7
 
-_Appropriations._ \- The Secretary of Health shall immediately include in the Department's programs the operationalization of the Culion Sanitarium and General Hospital, the initial funding of which shall be charged against its current year's appropriations. Thereafter, the amount necessary for its continued operation shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Health shall immediately include in the Department's programs the operationalization of the Culion Sanitarium and General Hospital, the initial funding of which shall be charged against its current year's appropriations. Thereafter, the amount necessary for its continued operation shall be included in the annual General Appropriations Act.
 
 ## Section 8
 

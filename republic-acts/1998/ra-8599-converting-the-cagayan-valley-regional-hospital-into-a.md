@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Cagayan Valley Regional Hospital in the Municipality of Tuguegarao, Cagayan (Region II) is hereby converted into a medical center to be renamed as Cagayan Valley Medical Center, hereinafter referred to as the Center, and increasing its bed capacity to five hundred (500).Ꮮαwρhi৷
+The Cagayan Valley Regional Hospital in the Municipality of Tuguegarao, Cagayan (Region II) is hereby converted into a medical center to be renamed as Cagayan Valley Medical Center, hereinafter referred to as the Center, and increasing its bed capacity to five hundred (500).
 
 ## Section 2
 

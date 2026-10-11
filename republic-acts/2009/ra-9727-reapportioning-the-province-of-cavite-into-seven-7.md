@@ -98,7 +98,7 @@ _Rules and Regulations._ \- The Commission on Elections shall issue the necessar
 
 ## Section 3
 
-_Repealing Clause._ \- All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.1avvphi1
+_Repealing Clause._ \- All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 4
 

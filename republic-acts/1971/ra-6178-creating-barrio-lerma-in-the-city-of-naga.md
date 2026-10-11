@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Sitio Lerma, City of Naga, is hereby constituted into a barrio to be known as Barrio Lerma.1âшphi1
+Sitio Lerma, City of Naga, is hereby constituted into a barrio to be known as Barrio Lerma.
 
 ## Section 2
 

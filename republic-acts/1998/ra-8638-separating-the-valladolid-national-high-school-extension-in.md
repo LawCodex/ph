@@ -39,7 +39,7 @@ All personnel, assets, liabilities and records of the Valladolid National High S
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Valladolid National High School-Barangay Guadalupe Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Rep. Maximino Noel (Guadalupe) National High School shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Valladolid National High School-Barangay Guadalupe Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Rep. Maximino Noel (Guadalupe) National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

@@ -35,7 +35,7 @@ The institute shall offer, in addition to the secondary agricultural curriculum,
 
 (b) Four-year technical agriculture leading to the degree of Bachelor of Science in Agriculture; and
 
-(c) Four-year teacher education leading to the degree of Bachelor of Science in Agriculture Education.1âшphi1
+(c) Four-year teacher education leading to the degree of Bachelor of Science in Agriculture Education.
 
 ## Section 3
 

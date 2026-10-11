@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The rural health unit in the Food Terminal, Inc., Complex in the Municipality of Tagig, Metro Manila, is hereby converted into a five-bed capacity health infirmary, to be known as the Tagig (FTI) Health Infirmary.1âшphi1
+The rural health unit in the Food Terminal, Inc., Complex in the Municipality of Tagig, Metro Manila, is hereby converted into a five-bed capacity health infirmary, to be known as the Tagig (FTI) Health Infirmary.
 
 ## Section 2
 

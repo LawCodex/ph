@@ -211,7 +211,7 @@ _Implementing Rules and Regulations_. - The HUDCC shall promulgate rules and reg
 
 ## Section 16
 
-_Repeal._ \- All laws, decrees, executive orders, proclamations, rules and regulations and other issuances, or parts thereof which are inconsistent with the provisions of this Act, are hereby repealed, amended or modified accordingly.1a⍵⍴h!1
+_Repeal._ \- All laws, decrees, executive orders, proclamations, rules and regulations and other issuances, or parts thereof which are inconsistent with the provisions of this Act, are hereby repealed, amended or modified accordingly.
 
 ## Section 17
 

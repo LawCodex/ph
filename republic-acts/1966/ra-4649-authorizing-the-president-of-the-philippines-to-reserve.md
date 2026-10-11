@@ -57,7 +57,7 @@ In case the Asian Development Bank or the United Nations Organization is dissolv
 
 ## Section 4
 
-For the purpose of carrying out the provisions of this Act, there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of thirty million pesos, or so much thereof as shall be necessary to construct, furnish, and maintain the buildings and its premises.1avvphi1
+For the purpose of carrying out the provisions of this Act, there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of thirty million pesos, or so much thereof as shall be necessary to construct, furnish, and maintain the buildings and its premises.
 
 There is likewise appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one million five hundred thousand pesos, or so much thereof as shall be necessary to pay the costs of partitions, furnishings, utilities, maintenance and rental for the temporary offices of the Asian Development Bank prior to the completion of the buildings authorized to be constructed hereunder, and to reimburse the Philippine Government office or offices, agency or agencies or government-owned or controlled corporations for such net rentals as said offices, agencies or corporations may have paid for the temporary offices of the Asian Development Bank prior to the effectivity of this Act.
 

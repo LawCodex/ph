@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Tabontabon Barangay High School in the Municipality of Tabontabon, Province of Leyte, is hereby changed to Justimbaste-Remandaban National High School, which shall be under the supervision of the Department of Education, Culture and Sports.1a⍵⍴h!1
+The name of Tabontabon Barangay High School in the Municipality of Tabontabon, Province of Leyte, is hereby changed to Justimbaste-Remandaban National High School, which shall be under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

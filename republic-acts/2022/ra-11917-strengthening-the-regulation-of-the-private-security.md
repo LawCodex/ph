@@ -175,7 +175,7 @@ _Penalties._ — Any violation of the provisions of this Act shall, after due no
 
 (c) Any PSA or any entity which operates with an expired LTO shall suffer the penalty of a fine of not less than Fifty thousand pesos (P50,000.00) and not more than One hundred thousand pesos (P100,000.00) at the discretion of the Chief PNP;
 
-(d) Any person practicing private security profession without a valid license or with only an expired license shall suffer the penalty of a fine of not less than Fifty thousand pesos (P50,000.00) and not more than One hundred thousand pesos (P100,000.00) at the discretion of the Chief PNP.(awÞhi( The same penalty shall be imposed upon a PSA who shall deploy any person practicing private security profession without a valid license or with only an expired license;
+(d) Any person practicing private security profession without a valid license or with only an expired license shall suffer the penalty of a fine of not less than Fifty thousand pesos (P50,000.00) and not more than One hundred thousand pesos (P100,000.00) at the discretion of the Chief PNP. The same penalty shall be imposed upon a PSA who shall deploy any person practicing private security profession without a valid license or with only an expired license;
 
 (e) Any person who offers to render or renders services to persons or places conducting illegal activities shall suffer the penalty of imprisonment of not less than twelve (12) years and one (1) day to twenty (20) years, and a fine of One million pesos (P1,000,000.00), at the discretion of the court, without prejudice to criminal prosecution under other laws; and
 
@@ -191,7 +191,7 @@ _Implementing Rules and Regulations_ (IRR). — The PNP, in consultation with st
 
 ### Section 18
 
-_Separability Clause._ — If any part or provision of this Act is declared unconstitutional, the remainder of this Act or any provisions not affected thereby shall remain in force and effect.ᇈWᑭHIL
+_Separability Clause._ — If any part or provision of this Act is declared unconstitutional, the remainder of this Act or any provisions not affected thereby shall remain in force and effect.
 
 ### Section 19
 

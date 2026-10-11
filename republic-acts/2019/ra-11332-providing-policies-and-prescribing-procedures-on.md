@@ -128,7 +128,7 @@ _Objectives._ -This Act shall have the following objectives:
 
 ## Section 5
 
-_Notifiable Diseases and Health Events of Public Health Concern._ -The Epidemiology Bureau under the DOH shall regularly update and issue a list of nationally notifiable diseases and health events of public health concern with their corresponding case definitions.1âшphi1 The selection and the deletion of diseases and health events of public health concern shall be based on criteria established by the DOH.
+_Notifiable Diseases and Health Events of Public Health Concern._ -The Epidemiology Bureau under the DOH shall regularly update and issue a list of nationally notifiable diseases and health events of public health concern with their corresponding case definitions. The selection and the deletion of diseases and health events of public health concern shall be based on criteria established by the DOH.
 
 ## Section 6
 

@@ -44,7 +44,7 @@ The University may operate a reasonably-sized laboratory school if it has a Coll
 
 ## Section 4
 
-_Repealing Clause._ \- All provisions of Republic Act No. 9832 referring the name of Don Honorio Ventura Technological State University are hereby modified accordingly.1awp++i1
+_Repealing Clause._ \- All provisions of Republic Act No. 9832 referring the name of Don Honorio Ventura Technological State University are hereby modified accordingly.
 
 ## Section 5
 

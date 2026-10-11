@@ -33,7 +33,7 @@ The name of the Benigno S.Aquino Memorial High School in Concepcion, Tarlac, is 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

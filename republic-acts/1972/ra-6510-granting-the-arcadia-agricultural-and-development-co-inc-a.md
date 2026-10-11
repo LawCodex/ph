@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the terms and conditions established in this Act and Commonwealth Act Numbered One hundred forty-six, as amended, and to the provisions of the Constitution, there is hereby granted to the Arcadia Agricultural and Development Co., Inc., hereinafter referred to as the grantee, for a period of twenty-five years from the approval of this Act, a franchise to construct, operate and maintain an ice plant and cold storage in Barrio Bagbaguin, Caloocan City, for the purpose of manufacturing ice blocks and ice cubes for distribution and sale, and for supplying cold storage in Barrio Bagbaguin, Caloocan City and suburbs, and to charge and collect a schedule of prices and rates therefor, which schedule shall at all times be subject to regulation by the Public Service Commission or its legal successor.1âшphi1
+Subject to the terms and conditions established in this Act and Commonwealth Act Numbered One hundred forty-six, as amended, and to the provisions of the Constitution, there is hereby granted to the Arcadia Agricultural and Development Co., Inc., hereinafter referred to as the grantee, for a period of twenty-five years from the approval of this Act, a franchise to construct, operate and maintain an ice plant and cold storage in Barrio Bagbaguin, Caloocan City, for the purpose of manufacturing ice blocks and ice cubes for distribution and sale, and for supplying cold storage in Barrio Bagbaguin, Caloocan City and suburbs, and to charge and collect a schedule of prices and rates therefor, which schedule shall at all times be subject to regulation by the Public Service Commission or its legal successor.
 
 ## Section 2
 

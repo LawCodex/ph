@@ -25,13 +25,17 @@ AN ACT PROVIDING FOR THE DEVELOPMENT, MANAGEMENT AND CONSERVATION OF THE FISHERI
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as **"_The Philippine Fisheries Code of 1998._ "**
+#### Section 1
+
+_Title._ \- This Act shall be known as **"_The Philippine Fisheries Code of 1998._ "**
 
 ## CHAPTER I — Declaration of Policy and Definitions
 
-**Section 2._Declaration of Policy._** \- It is hereby declared the policy of the State:
+#### Section 2
 
-(a) to achieve food security as the overriding consideration in the utilization, management, development, conservation and protection of fishery resources in order to provide the food needs of the population. A flexible policy towards the attainment of food security shall be adopted in response to changes in demographic trends for fish, emerging trends in the trade of fish and other aquatic products in domestic and international markets, and the law of supply and demand;lawphi1™
+_Declaration of Policy._ \- It is hereby declared the policy of the State:
+
+(a) to achieve food security as the overriding consideration in the utilization, management, development, conservation and protection of fishery resources in order to provide the food needs of the population. A flexible policy towards the attainment of food security shall be adopted in response to changes in demographic trends for fish, emerging trends in the trade of fish and other aquatic products in domestic and international markets, and the law of supply and demand;
 
 (b) to limit access to the fishery and aquatic resources of the Philippines for the exclusive use and enjoyment of Filipino citizens;
 
@@ -57,15 +61,19 @@ The state shall ensure the attainment of the following objectives of the fishery
 
 5\. Upgrading of post-harvest technology.
 
-**Section 3._Application of its Provisions._** \- The provisions of this Code shall be enforced in:
+#### Section 3
+
+_Application of its Provisions._ \- The provisions of this Code shall be enforced in:
 
 (a) all Philippine waters including other waters over which the Philippines has sovereignty and jurisdiction, and the country's 200-nautical mile Exclusive Economic Zone (EEZ) and continental shelf;
 
 (b) all aquatic and fishery resources whether inland, coastal or offshore fishing areas, including but not limited to fishponds, fishpens/cages; and
 
-(c) all lands devoted to aquaculture, or businesses and activities relating to fishery, whether private or public lands.lawphi1©
+(c) all lands devoted to aquaculture, or businesses and activities relating to fishery, whether private or public lands.
 
-**Section 4._Definition of Terms._** \- As used in this Code, the following terms and phrases shall mean as follows:
+#### Section 4
+
+_Definition of Terms._ \- As used in this Code, the following terms and phrases shall mean as follows:
 
 1\. Ancillary Industries - firms or companies related to the supply, construction and maintenance of fishing vessels, gears, nets and other fishing paraphernalia; fishery machine shops; and other facilities such as hatcheries, nurseries, feed plants, cold storage and refrigeration, processing plants and other pre-harvest and post-harvest facilities.
 
@@ -135,7 +143,7 @@ The state shall ensure the attainment of the following objectives of the fishery
 
 27\. Fish pen - an artificial enclosure constructed within a body of water for culturing fish and fishery/aquatic resources made up of poles closely arranged in an enclosure with wooden materials, screen or nylon netting to prevent escape of fish.
 
-28\. Fisherfolk - people directly or personally and physically engaged in taking and/or culturing and processing fishery and/or aquatic resources.lawphi1™
+28\. Fisherfolk - people directly or personally and physically engaged in taking and/or culturing and processing fishery and/or aquatic resources.
 
 29\. Fisherfolk Cooperative - a duly registered association of fisherfolk with a common bond of interest, who have voluntarily joined together to achieve a lawful common social or economic end, making equitable contribution to the capital requirement and accepting a fair share of the risks and benefits of the undertakings in accordance with universally accepted cooperative principles.
 
@@ -203,7 +211,7 @@ The state shall ensure the attainment of the following objectives of the fishery
 
 (b) Control - the regulatory conditions (legal framework) under which the exploitation, utilization and disposition of the resources may be conducted; and
 
-(c) Surveillance - the degree and types of observations required to maintain compliance with regulations.lawphi1™ALF
+(c) Surveillance - the degree and types of observations required to maintain compliance with regulations.
 
 56\. Municipal fisherfolk - persons who are directly or indirectly engaged in municipal fishing and other related fishing activities.
 
@@ -243,31 +251,55 @@ The state shall ensure the attainment of the following objectives of the fishery
 
 ## CHAPTER II — Utilization, Management, Development, Conservation and Allocation System of Fisheries and Aquatic Resources
 
-**Section 5._Use of Philippine Waters._** \- The use and exploitation of the fishery and aquatic resources in Philippine waters shall be reserved exclusively to Filipinos: Provided, however, That research and survey activities may be allowed under strict regulations, for purely research, scientific, technological and educational purposes that would also benefit Filipino citizens.
+#### Section 5
 
-**Section 6._Fees and Other Fishery Charges._** \- The rentals for fishpond areas covered by the Fishpond Lease Agreement (FLA) and license fees for Commercial Fishing Boat Licenses (CFBL) shall be set at levels that reflect resource rent accruing from the utilization of resources and shall be determined by the Department: Provided, That the Department shall also prescribe fees and other fishery charges and issue the corresponding license or permit for fishing gear, fishing accessories and other fishery activities beyond the municipal waters: Provided, further, That the license fees of fishery activity in municipal waters shall be determined by the Local Government Units (LGUs) in consultation with the FARMCs. The FARMCs may also recommend the appropriate license fees that will be imposed.
+_Use of Philippine Waters._ \- The use and exploitation of the fishery and aquatic resources in Philippine waters shall be reserved exclusively to Filipinos: Provided, however, That research and survey activities may be allowed under strict regulations, for purely research, scientific, technological and educational purposes that would also benefit Filipino citizens.
 
-**Section 7._Access to Fishery Resources._** \- The Department shall issue such number of licenses and permits for the conduct of fishery activities subject to the limits of the MSY of the resource as determined by scientific studies or best available evidence. Preference shall be given to resource users in the local communities adjacent or nearest to the municipal waters.
+#### Section 6
 
-**Section 8._Catch Ceiling Limitations._** \- The Secretary may prescribe limitations or quota on the total quantity of fish captured, for a specified period of time and specified area based on the best available evidence. Such a catch ceiling may be imposed per species of fish whenever necessary and practicable: Provided, however, That in municipal waters and fishery management areas, and waters under the jurisdiction of special agencies, catch ceilings may be established upon the concurrence and approval or recommendation of such special agency and the concerned LGU in consultation with the FARMC for conservation or ecological purposes.
+_Fees and Other Fishery Charges._ \- The rentals for fishpond areas covered by the Fishpond Lease Agreement (FLA) and license fees for Commercial Fishing Boat Licenses (CFBL) shall be set at levels that reflect resource rent accruing from the utilization of resources and shall be determined by the Department: Provided, That the Department shall also prescribe fees and other fishery charges and issue the corresponding license or permit for fishing gear, fishing accessories and other fishery activities beyond the municipal waters: Provided, further, That the license fees of fishery activity in municipal waters shall be determined by the Local Government Units (LGUs) in consultation with the FARMCs. The FARMCs may also recommend the appropriate license fees that will be imposed.
 
-**Section 9._Establishment of Closed Season._** \- The Secretary may declare, through public notice in at least two (2) newspapers of general circulation or in public service announcements, whichever is applicable, at least five (5) days before the declaration, a closed season in any or all Philippine waters outside the boundary of municipal waters and in bays, for conservation and ecological purposes. The Secretary may include waters under the jurisdiction of special agencies, municipal waters and bays, and/or other areas reserved for the use of the municipal fisherfolk in the area to be covered by the closed season: Provided, however, That this shall be done only upon the concurrence and approval or recommendation of such special agency and the concerned LGU and FARMC: Provided, further, That in municipal waters, fishery management areas and other areas reserved for the use of the municipal fisherfolk, closed season may be established by the concerned LGU in consultation with the FARMC for conservation or ecological purposes. The FARMCs may also recommend the establishment of closed seasons in municipal waters, fisheries management and other areas reserved for the use of the municipal fisherfolk.
+#### Section 7
 
-**Section 10._Introduction of Foreign Aquatic Species._** \- No foreign finfish, mollusk, crustacean or aquatic plants shall be introduced in Philippine waters without a sound ecological, biological and environmental justification based on scientific studies subject to the bio-safety standard as provided for by existing laws: Provided, however, That the Department may approve the introduction of foreign aquatic species for scientific/research purposes.
+_Access to Fishery Resources._ \- The Department shall issue such number of licenses and permits for the conduct of fishery activities subject to the limits of the MSY of the resource as determined by scientific studies or best available evidence. Preference shall be given to resource users in the local communities adjacent or nearest to the municipal waters.
 
-**Section 11._Protection of Rare, Threatened and Endangered Species._** \- The Department shall declare closed seasons and take conservation and rehabilitation measures for rare, threatened and endangered species, as it may determine, and shall ban the fishing and/or taking of rare, threatened and/or endangered species, including their eggs/offspring as identified by existing laws in concurrence with concerned government agencies.
+#### Section 8
 
-**Section 12._Environmental Impact Statement (EIS)._** \- All government agencies as well as private corporations, firms and entities who intend to undertake activities or projects which will affect the quality of the environment shall be required to prepare a detailed Environmental Impact Statement (EIS) prior to undertaking such development activity. The preparation of the EIS shall form an integral part of the entire planning process pursuant to the provisions of Presidential Decree No. 1586 as well as its implementing rules and regulations.
+_Catch Ceiling Limitations._ \- The Secretary may prescribe limitations or quota on the total quantity of fish captured, for a specified period of time and specified area based on the best available evidence. Such a catch ceiling may be imposed per species of fish whenever necessary and practicable: Provided, however, That in municipal waters and fishery management areas, and waters under the jurisdiction of special agencies, catch ceilings may be established upon the concurrence and approval or recommendation of such special agency and the concerned LGU in consultation with the FARMC for conservation or ecological purposes.
 
-**Section 13._Environmental Compliance Certificate (ECC)._** \- All Environmental Impact Statements (EIS) shall be submitted to the Department of Environment and Natural Resources (DENR) for review and evaluation. No person, natural or juridical, shall undertake any development project without first securing an Environmental Compliance Certificate (ECC) from the Secretary of the DENR.
+#### Section 9
 
-**Section 14._Monitoring, Control and Surveillance of Philippine Waters._** \- A monitoring, control and surveillance system shall be established by the Department in coordination with LGUs, FARMCs, the private sector and other agencies concerned to ensure that the fisheries and aquatic resources in Philippine waters are judiciously and wisely utilized and managed on a sustainable basis and conserved for the benefit and enjoyment exclusively of Filipino citizens.
+_Establishment of Closed Season._ \- The Secretary may declare, through public notice in at least two (2) newspapers of general circulation or in public service announcements, whichever is applicable, at least five (5) days before the declaration, a closed season in any or all Philippine waters outside the boundary of municipal waters and in bays, for conservation and ecological purposes. The Secretary may include waters under the jurisdiction of special agencies, municipal waters and bays, and/or other areas reserved for the use of the municipal fisherfolk in the area to be covered by the closed season: Provided, however, That this shall be done only upon the concurrence and approval or recommendation of such special agency and the concerned LGU and FARMC: Provided, further, That in municipal waters, fishery management areas and other areas reserved for the use of the municipal fisherfolk, closed season may be established by the concerned LGU in consultation with the FARMC for conservation or ecological purposes. The FARMCs may also recommend the establishment of closed seasons in municipal waters, fisheries management and other areas reserved for the use of the municipal fisherfolk.
 
-**Section 15._Auxiliary Invoices._** \- All fish and fishery products must have an auxiliary invoice to be issued by the LGUs or their duly authorized representatives prior to their transport from their point of origin to their point of destination in the Philippines and/or export purposes upon payment of a fee to be determined by the LGUs to defray administrative costs therefor.
+#### Section 10
+
+_Introduction of Foreign Aquatic Species._ \- No foreign finfish, mollusk, crustacean or aquatic plants shall be introduced in Philippine waters without a sound ecological, biological and environmental justification based on scientific studies subject to the bio-safety standard as provided for by existing laws: Provided, however, That the Department may approve the introduction of foreign aquatic species for scientific/research purposes.
+
+#### Section 11
+
+_Protection of Rare, Threatened and Endangered Species._ \- The Department shall declare closed seasons and take conservation and rehabilitation measures for rare, threatened and endangered species, as it may determine, and shall ban the fishing and/or taking of rare, threatened and/or endangered species, including their eggs/offspring as identified by existing laws in concurrence with concerned government agencies.
+
+#### Section 12
+
+_Environmental Impact Statement (EIS)._ \- All government agencies as well as private corporations, firms and entities who intend to undertake activities or projects which will affect the quality of the environment shall be required to prepare a detailed Environmental Impact Statement (EIS) prior to undertaking such development activity. The preparation of the EIS shall form an integral part of the entire planning process pursuant to the provisions of Presidential Decree No. 1586 as well as its implementing rules and regulations.
+
+#### Section 13
+
+_Environmental Compliance Certificate (ECC)._ \- All Environmental Impact Statements (EIS) shall be submitted to the Department of Environment and Natural Resources (DENR) for review and evaluation. No person, natural or juridical, shall undertake any development project without first securing an Environmental Compliance Certificate (ECC) from the Secretary of the DENR.
+
+#### Section 14
+
+_Monitoring, Control and Surveillance of Philippine Waters._ \- A monitoring, control and surveillance system shall be established by the Department in coordination with LGUs, FARMCs, the private sector and other agencies concerned to ensure that the fisheries and aquatic resources in Philippine waters are judiciously and wisely utilized and managed on a sustainable basis and conserved for the benefit and enjoyment exclusively of Filipino citizens.
+
+#### Section 15
+
+_Auxiliary Invoices._ \- All fish and fishery products must have an auxiliary invoice to be issued by the LGUs or their duly authorized representatives prior to their transport from their point of origin to their point of destination in the Philippines and/or export purposes upon payment of a fee to be determined by the LGUs to defray administrative costs therefor.
 
 ### ARTICLE I — MUNICIPAL FISHERIES
 
-**Section 16._Jurisdiction of Municipal/City Government._** \- The municipal/city government shall have jurisdiction over municipal waters as defined in this Code. The municipal/city government, in consultation with the FARMC shall be responsible for the management, conservation, development, protection, utilization, and disposition of all fish and fishery/aquatic resources within their respective municipal waters.
+#### Section 16
+
+_Jurisdiction of Municipal/City Government._ \- The municipal/city government shall have jurisdiction over municipal waters as defined in this Code. The municipal/city government, in consultation with the FARMC shall be responsible for the management, conservation, development, protection, utilization, and disposition of all fish and fishery/aquatic resources within their respective municipal waters.
 
 The municipal/city government may, in consultation with the FARMC, enact appropriate ordinances for this purpose and in accordance with the National Fisheries Policy. The ordinances enacted by the municipality and component city shall be reviewed pursuant to Republic Act No. 7160 by the sanggunian of the province which has jurisdiction over the same.
 
@@ -275,9 +307,13 @@ The LGUs shall also enforce all fishery laws, rules and regulations as well as v
 
 The management of contiguous fishery resources such as bays which straddle several municipalities, cities or provinces, shall be done in an integrated manner, and shall not be based on political subdivisions of municipal waters in order to facilitate their management as single resource systems. The LGUs which share or border such resources may group themselves and coordinate with each other to achieve the objectives of integrated fishery resource management. The Integrated Fisheries and Aquatic Resources Management Councils (FARMCs) established under Section 76 of this Code shall serve as the venues for close collaboration among LGUs in the management of contiguous resources.
 
-**Section 17._Grant of Fishing Privileges in Municipal Waters._** \- The duly registered fisherfolk organizations/cooperatives shall have preference in the grant of fishery rights by the Municipal/City Council pursuant to Section 149 of the Local Government Code: Provided, That in areas where there are special agencies or offices vested with jurisdiction over municipal waters by virtue of special laws creating these agencies such as, but not limited to, the Laguna Lake Development Authority and the Palawan Council for Sustainable Development, said offices and agencies shall continue to grant permits for proper management and implementation of the aforementioned structures.
+#### Section 17
 
-**Section 18._Users of Municipal Waters._** \- All fishery related activities in municipal waters, as defined in this Code, shall be utilized by municipal fisherfolk and their cooperatives/organizations who are listed as such in the registry of municipal fisherfolk.
+_Grant of Fishing Privileges in Municipal Waters._ \- The duly registered fisherfolk organizations/cooperatives shall have preference in the grant of fishery rights by the Municipal/City Council pursuant to Section 149 of the Local Government Code: Provided, That in areas where there are special agencies or offices vested with jurisdiction over municipal waters by virtue of special laws creating these agencies such as, but not limited to, the Laguna Lake Development Authority and the Palawan Council for Sustainable Development, said offices and agencies shall continue to grant permits for proper management and implementation of the aforementioned structures.
+
+#### Section 18
+
+_Users of Municipal Waters._ \- All fishery related activities in municipal waters, as defined in this Code, shall be utilized by municipal fisherfolk and their cooperatives/organizations who are listed as such in the registry of municipal fisherfolk.
 
 The municipal or city government, however, may, through its local chief executive and acting pursuant to an appropriate ordinance, authorize or permit small and medium commercial fishing vessels to operate within the ten point one (10.1) to fifteen (15) kilometer area from the shoreline in municipal waters as defined herein, provided, that all the following are met:
 
@@ -291,47 +327,79 @@ The municipal or city government, however, may, through its local chief executiv
 
 In no case shall the authorization or permit mentioned above be granted for fishing in bays as determined by the Department to be in an environmentally critical condition and during closed season as provided for in Section 9 of this Code.
 
-**Section 19._Registry of Municipal Fisherfolk._** \- The LGU shall maintain a registry of municipal fisherfolk, who are fishing or may desire to fish in municipal waters for the purpose of determining priorities among them, of limiting entry into the municipal waters, and of monitoring fishing activities an/or other related purposes: Provided, That the FARMC shall submit to the LGU the list of priorities for its consideration.
+#### Section 19
+
+_Registry of Municipal Fisherfolk._ \- The LGU shall maintain a registry of municipal fisherfolk, who are fishing or may desire to fish in municipal waters for the purpose of determining priorities among them, of limiting entry into the municipal waters, and of monitoring fishing activities an/or other related purposes: Provided, That the FARMC shall submit to the LGU the list of priorities for its consideration.
 
 Such list or registry shall be updated annually or as may be necessary, and shall be posted in barangay halls or other strategic locations where it shall be open to public inspection, for the purpose of validating the correctness and completeness of the list. The LGU, in consultation with the FARMCs, shall formulate the necessary mechanisms for inclusion or exclusion procedures that shall be most beneficial to the resident municipal fisherfolk. The FARMCs may likewise recommend such mechanisms.
 
 The LGUs shall also maintain a registry of municipal fishing vessels by type of gear and other boat particulars with the assistance of the FARMC.
 
-**Section 20._Fisherfolk Organizations and/or Cooperatives._** \- Fisherfolk organizations/cooperatives whose members are listed in the registry of municipal fisherfolk, may be granted use of demarcated fishery areas to engage in fish capture, mariculture and/or fish farming: Provided, however, That an organization/cooperative member whose household is already in possession of a fishery right other than for fish capture cannot enjoy the fishing rights granted to the organization or cooperative.
+#### Section 20
 
-**Section 21._Priority of Resident Municipal Fisherfolk._** \- Resident municipal fisherfolk of the municipality concerned and their organizations/cooperatives shall have priority to exploit municipal and demarcated fishery areas of the said municipality.
+_Fisherfolk Organizations and/or Cooperatives._ \- Fisherfolk organizations/cooperatives whose members are listed in the registry of municipal fisherfolk, may be granted use of demarcated fishery areas to engage in fish capture, mariculture and/or fish farming: Provided, however, That an organization/cooperative member whose household is already in possession of a fishery right other than for fish capture cannot enjoy the fishing rights granted to the organization or cooperative.
 
-**Section 22._Demarcated Fishery Right._** \- The LGU concerned shall grant demarcated fishery rights to fishery organizations/cooperatives for mariculture operation in specific areas identified by the Department.
+#### Section 21
 
-**Section 23._Limited Entry Into Overfished Areas._** \- Whenever it is determined by the LGUs and the Department that a municipal water is overfished based on available data or information or in danger of being overfished, and that there is a need to regenerate the fishery resources in that water, the LGU shall prohibit or limit fishery activities in the said waters.
+_Priority of Resident Municipal Fisherfolk._ \- Resident municipal fisherfolk of the municipality concerned and their organizations/cooperatives shall have priority to exploit municipal and demarcated fishery areas of the said municipality.
 
-**Section 24._Support to Municipal Fisherfolk._** \- The Department and the LGUs shall provide support to municipal fisherfolk through appropriate technology and research, credit, production and marketing assistance and other services such as, but not limited to training for additional/supplementary livelihood.
+#### Section 22
 
-**Section 25._Rights and Privileges of Fishworkers._** \- The fishworkers shall be entitled to the privileges accorded to other workers under the Labor Code, Social Security System and other benefits under other laws or social legislation for workers: Provided, That fishworkers on board any fishing vessels engaged in fishing operations are hereby covered by the Philippine Labor Code, as amended.
+_Demarcated Fishery Right._ \- The LGU concerned shall grant demarcated fishery rights to fishery organizations/cooperatives for mariculture operation in specific areas identified by the Department.
+
+#### Section 23
+
+_Limited Entry Into Overfished Areas._ \- Whenever it is determined by the LGUs and the Department that a municipal water is overfished based on available data or information or in danger of being overfished, and that there is a need to regenerate the fishery resources in that water, the LGU shall prohibit or limit fishery activities in the said waters.
+
+#### Section 24
+
+_Support to Municipal Fisherfolk._ \- The Department and the LGUs shall provide support to municipal fisherfolk through appropriate technology and research, credit, production and marketing assistance and other services such as, but not limited to training for additional/supplementary livelihood.
+
+#### Section 25
+
+_Rights and Privileges of Fishworkers._ \- The fishworkers shall be entitled to the privileges accorded to other workers under the Labor Code, Social Security System and other benefits under other laws or social legislation for workers: Provided, That fishworkers on board any fishing vessels engaged in fishing operations are hereby covered by the Philippine Labor Code, as amended.
 
 ### ARTICLE II — COMMERCIAL FISHERIES
 
-**Section 26._Commercial Fishing Vessel License and Other Licenses._** \- No person shall operate a commercial fishing vessel, pearl fishing vessel or fishing vessel for scientific, research or educational purposes, or engage in any fishery activity, or seek employment as a fishworker or pearl diver without first securing a license from the Department, the period of which shall be prescribed by the Department: Provided, That no such license shall be required of a fishing vessel engaged in scientific, research or educational purposes within Philippine waters pursuant to an international agreement of which the Philippines is a signatory and which agreement defines the status, privileges and obligations of said vessel and its crew and the non-Filipino officials of the international agency under which said vessel operates: Provided, further, That members of the crew of a fishing vessel used for commercial fishing except the duly licensed and/or authorized patrons, marine engineers, radio operators and cooks shall be considered as fisherfolk: Provided, furthermore, That all skippers/master fishers shall be required to undertake an orientation training on detection of fish caught by illegal means before they can be issued their fishworker licenses: Provided, finally, That the large commercial fishing vessels license herein authorized to be granted shall allow the licensee to operate only in Philippine waters seven (7) or more fathoms deep, the depth to be certified by the NAMRIA, and subject to the conditions that may be stated therein and the rules and regulations that may be promulgated by the Department.
+#### Section 26
 
-**Section 27._Persons Eligible for Commercial Fishing Vessel License._** \- No commercial fishing vessel license shall be issued except to citizens of the Philippines, partnerships or to associations, cooperatives or corporations duly registered in the Philippines at least sixty percent (60%) of the capital stock of which is owned by Filipino citizens. No person to whom a license has been issued shall sell, transfer or assign, directly or indirectly, his stock or interest therein to any person not qualified to hold a license. Any such transfer, sale or assignment shall be null and void and shall not be registered in the books of the association, cooperative or corporation.
+_Commercial Fishing Vessel License and Other Licenses._ \- No person shall operate a commercial fishing vessel, pearl fishing vessel or fishing vessel for scientific, research or educational purposes, or engage in any fishery activity, or seek employment as a fishworker or pearl diver without first securing a license from the Department, the period of which shall be prescribed by the Department: Provided, That no such license shall be required of a fishing vessel engaged in scientific, research or educational purposes within Philippine waters pursuant to an international agreement of which the Philippines is a signatory and which agreement defines the status, privileges and obligations of said vessel and its crew and the non-Filipino officials of the international agency under which said vessel operates: Provided, further, That members of the crew of a fishing vessel used for commercial fishing except the duly licensed and/or authorized patrons, marine engineers, radio operators and cooks shall be considered as fisherfolk: Provided, furthermore, That all skippers/master fishers shall be required to undertake an orientation training on detection of fish caught by illegal means before they can be issued their fishworker licenses: Provided, finally, That the large commercial fishing vessels license herein authorized to be granted shall allow the licensee to operate only in Philippine waters seven (7) or more fathoms deep, the depth to be certified by the NAMRIA, and subject to the conditions that may be stated therein and the rules and regulations that may be promulgated by the Department.
+
+#### Section 27
+
+_Persons Eligible for Commercial Fishing Vessel License._ \- No commercial fishing vessel license shall be issued except to citizens of the Philippines, partnerships or to associations, cooperatives or corporations duly registered in the Philippines at least sixty percent (60%) of the capital stock of which is owned by Filipino citizens. No person to whom a license has been issued shall sell, transfer or assign, directly or indirectly, his stock or interest therein to any person not qualified to hold a license. Any such transfer, sale or assignment shall be null and void and shall not be registered in the books of the association, cooperative or corporation.
 
 For purposes of commercial fishing, fishing vessels owned by citizens of the Philippines, partnerships, corporations, cooperatives or associations qualified under this section shall secure Certificates of Philippine Registry and such other documents as are necessary for fishing operations from the concerned agencies: Provided, That the commercial fishing vessel license shall be valid for a period to be determined by the Department.
 
-**Section 28._Commercial Fishing Vessel Registration._** \- The registration, documentation, inspection and manning of the operation of all types of fishing vessels plying Philippine waters shall be in accordance with laws, rules and regulations.
+#### Section 28
 
-**Section 29._Registration and Licensing of Fishing Gears Used in Commercial Fishing._** \- Before a commercial fishing vessel holding a commercial fishing vessel license may begin fishing operations in Philippine waters, the fishing gear it will utilize in fishing shall be registered and a license granted therefor. The Department shall promulgate guidelines to implement this provision within sixty (60) days from approval of this Code.
+_Commercial Fishing Vessel Registration._ \- The registration, documentation, inspection and manning of the operation of all types of fishing vessels plying Philippine waters shall be in accordance with laws, rules and regulations.
 
-**Section 30._Renewal of Commercial Boat License._** \- The commercial fishing boat license shall be renewed every three (3) years.
+#### Section 29
+
+_Registration and Licensing of Fishing Gears Used in Commercial Fishing._ \- Before a commercial fishing vessel holding a commercial fishing vessel license may begin fishing operations in Philippine waters, the fishing gear it will utilize in fishing shall be registered and a license granted therefor. The Department shall promulgate guidelines to implement this provision within sixty (60) days from approval of this Code.
+
+#### Section 30
+
+_Renewal of Commercial Boat License._ \- The commercial fishing boat license shall be renewed every three (3) years.
 
 The owner/operator of a fishing vessel has a period of sixty (60) days prior to the expiration of the license within which to renew the same.
 
-**Section 31._Report of Transfer of Ownership._** \- The owner/operator of a registered fishing vessel shall notify the Department in writing of the transfer of the ownership of the vessel with a copy of such document within ten (10) days after its transfer to another person.
+#### Section 31
 
-**Section 32._Fishing by Philippine Commercial Fishing Fleet in International Waters._** \- Fishing vessels of Philippine registry may operate in international waters or waters of other countries which allow such fishing operations: Provided, That they comply with the safety, manning and other requirements of the Philippine Coast Guard, Maritime Industry Authority and other agencies concerned: Provided, however, That they secure an international fishing permit and certificate of clearance from the Department: Provided, further, That the fish caught by such vessels shall be considered as caught in Philippine waters and therefore not subject to all import duties and taxes only when the same is landed in duly designated fish landings and fish ports in the Philippines: Provided, furthermore, That landing ports established by canneries, seafood processors and all fish landing sites established prior to the effectivity of this Code shall be considered authorized landing sites: Provided, finally, That fishworkers on board Philippine registered fishing vessels conducting fishing activities beyond the Philippine Exclusive Economic Zone are not considered as overseas Filipino workers.
+_Report of Transfer of Ownership._ \- The owner/operator of a registered fishing vessel shall notify the Department in writing of the transfer of the ownership of the vessel with a copy of such document within ten (10) days after its transfer to another person.
 
-**Section 33._Importation of Fishing Vessels or Construction of New Fishing Boats._** \- Prior to the importation of fishing vessels and the construction of new fishing vessels, the approval/clearance of the Department must first be obtained.
+#### Section 32
 
-**Section 34._Incentives for Municipal and Small-Scale Commercial Fisherfolk._** \- Municipal and small-scale commercial fisherfolk shall be granted incentives which shall include, but are not limited to, the following:
+_Fishing by Philippine Commercial Fishing Fleet in International Waters._ \- Fishing vessels of Philippine registry may operate in international waters or waters of other countries which allow such fishing operations: Provided, That they comply with the safety, manning and other requirements of the Philippine Coast Guard, Maritime Industry Authority and other agencies concerned: Provided, however, That they secure an international fishing permit and certificate of clearance from the Department: Provided, further, That the fish caught by such vessels shall be considered as caught in Philippine waters and therefore not subject to all import duties and taxes only when the same is landed in duly designated fish landings and fish ports in the Philippines: Provided, furthermore, That landing ports established by canneries, seafood processors and all fish landing sites established prior to the effectivity of this Code shall be considered authorized landing sites: Provided, finally, That fishworkers on board Philippine registered fishing vessels conducting fishing activities beyond the Philippine Exclusive Economic Zone are not considered as overseas Filipino workers.
+
+#### Section 33
+
+_Importation of Fishing Vessels or Construction of New Fishing Boats._ \- Prior to the importation of fishing vessels and the construction of new fishing vessels, the approval/clearance of the Department must first be obtained.
+
+#### Section 34
+
+_Incentives for Municipal and Small-Scale Commercial Fisherfolk._ \- Municipal and small-scale commercial fisherfolk shall be granted incentives which shall include, but are not limited to, the following:
 
 (a) at least ten percent (10%) of the credit and the guarantee funds of government financing institutions shall be made available for post-harvest and marketing projects for the purpose of enhancing our fisherfolk competitiveness by reducing post-harvest losses. Qualified projects shall include, but shall not be limited to, ice plants, cold storage, canning, warehouse, transport and other related infrastructure projects and facilities; and
 
@@ -341,7 +409,9 @@ The owner/operator of a fishing vessel has a period of sixty (60) days prior to 
 
 2\. an information campaign shall be conducted to promote the capability building and credit programs. The campaign shall ensure greater information dissemination and accessibility to targeted fisherfolk.
 
-**Section 35._Incentives for Commercial Fishers to Fish Farther into the Exclusive Economic Zone._** \- In order to encourage fishing vessel operators to fish farther in the EEZ and beyond, new incentives for improvement of fishing vessels and acquisition of fishing equipment shall be granted in addition to incentives already available from the Board of Investments (BOI). Such incentives shall be granted subject to exhaustive evaluation of resource and exploitation conditions in the specified areas of fishing operations. The incentive shall include, but not be limited to:
+#### Section 35
+
+_Incentives for Commercial Fishers to Fish Farther into the Exclusive Economic Zone._ \- In order to encourage fishing vessel operators to fish farther in the EEZ and beyond, new incentives for improvement of fishing vessels and acquisition of fishing equipment shall be granted in addition to incentives already available from the Board of Investments (BOI). Such incentives shall be granted subject to exhaustive evaluation of resource and exploitation conditions in the specified areas of fishing operations. The incentive shall include, but not be limited to:
 
 (a) long term loans supported by guarantee facilities to finance the building and acquisition and/or improvement of fishing vessels and equipment;
 
@@ -351,29 +421,51 @@ The owner/operator of a fishing vessel has a period of sixty (60) days prior to 
 
 (d) all applicable incentives available under the Omnibus Investment Code of 1987: Provided, That the fishing operation project is qualified for registration and is duly registered with the BOI.
 
-**Section 36._Complement of Fishing Vessels._** \- Every commercial fishing vessel of Philippine registry when actually operated, shall be manned in accordance with the requirements of the Philippine Merchant Marine rules and regulations.
+#### Section 36
 
-**Section 37._Medical Supplies and Life-Saving Devices._** \- All fishing vessels shall be provided with adequate medical supplies and life-saving devices to be determined by the Occupational Safety and Health Center: Provided, That a fishing vessel of twenty (20) GT or more shall have as a member of its crew a person qualified as a first aider duly certified by the Philippine National Red Cross.
+_Complement of Fishing Vessels._ \- Every commercial fishing vessel of Philippine registry when actually operated, shall be manned in accordance with the requirements of the Philippine Merchant Marine rules and regulations.
 
-**Section 38._Reportorial Requirements._** \- Each commercial fishing vessel shall keep a daily record of fish catch and spoilage, landing points, and quantity and value of fish caught, and off-loaded for transshipment, sale and/or other disposal. Detailed information shall be duly certified by the vessel's captain and transmitted monthly to the officer or representative of the Department, at the nearest designated landing point.
+#### Section 37
 
-**Section 39._Report of Meteorological and Other Data._** \- All vessels and crafts passing navigational lanes or engaged in fisheries activity shall be required to contribute to meteorological and other data, and shall assist the Department in documentation or reporting of information vital to navigation and the fishing industry.
+_Medical Supplies and Life-Saving Devices._ \- All fishing vessels shall be provided with adequate medical supplies and life-saving devices to be determined by the Occupational Safety and Health Center: Provided, That a fishing vessel of twenty (20) GT or more shall have as a member of its crew a person qualified as a first aider duly certified by the Philippine National Red Cross.
 
-**Section 40._Color Code and Radio Frequency._** \- For administrative efficiency and enforcement of regulations, registered fishing vessels shall bear a color code as may be determined by the Department and may be assigned a radio frequency specific and distinct to its area of operation.
+#### Section 38
 
-**Section 41._Passage._** \- Commercial and other passage not in the regular conduct of fisheries activity shall be made at designated navigational lanes.
+_Reportorial Requirements._ \- Each commercial fishing vessel shall keep a daily record of fish catch and spoilage, landing points, and quantity and value of fish caught, and off-loaded for transshipment, sale and/or other disposal. Detailed information shall be duly certified by the vessel's captain and transmitted monthly to the officer or representative of the Department, at the nearest designated landing point.
 
-**Section 42._Transshipment._** \- Foreign fishing vessels wishing to avail of land, air and sea facilities available in the Philippines to transport fishery products which are caught outside Philippine territorial waters to its final destination shall call only at duly designated government-owned or -controlled regional fishport complexes after securing clearance from the Department.
+#### Section 39
 
-**Section 43._Operation of Radio Communication Facilities on Board Fishing Vessels._** \- The Department shall promulgate guidelines in the operation of radio communication facilities on board fishing vessels and the assignment of radio frequencies specific and distinct to area of operation in coordination with the National Telecommunications Commission.
+_Report of Meteorological and Other Data._ \- All vessels and crafts passing navigational lanes or engaged in fisheries activity shall be required to contribute to meteorological and other data, and shall assist the Department in documentation or reporting of information vital to navigation and the fishing industry.
 
-**Section 44._Use of Superlight._** \- The number and wattage of superlights used in commercial fishing vessels shall be regulated by the Department: Provided, That the use of superlights is banned within municipal waters and bays.
+#### Section 40
+
+_Color Code and Radio Frequency._ \- For administrative efficiency and enforcement of regulations, registered fishing vessels shall bear a color code as may be determined by the Department and may be assigned a radio frequency specific and distinct to its area of operation.
+
+#### Section 41
+
+_Passage._ \- Commercial and other passage not in the regular conduct of fisheries activity shall be made at designated navigational lanes.
+
+#### Section 42
+
+_Transshipment._ \- Foreign fishing vessels wishing to avail of land, air and sea facilities available in the Philippines to transport fishery products which are caught outside Philippine territorial waters to its final destination shall call only at duly designated government-owned or -controlled regional fishport complexes after securing clearance from the Department.
+
+#### Section 43
+
+_Operation of Radio Communication Facilities on Board Fishing Vessels._ \- The Department shall promulgate guidelines in the operation of radio communication facilities on board fishing vessels and the assignment of radio frequencies specific and distinct to area of operation in coordination with the National Telecommunications Commission.
+
+#### Section 44
+
+_Use of Superlight._ \- The number and wattage of superlights used in commercial fishing vessels shall be regulated by the Department: Provided, That the use of superlights is banned within municipal waters and bays.
 
 ### ARTICLE III — AQUACULTURE
 
-**Section 45._Disposition of Public Lands for Fishery Purposes._** \- Public lands such as tidal swamps, mangroves, marshes, foreshore lands and ponds suitable for fishery operations shall not be disposed or alienated. Upon effectivity of this Code, FLA may be issued for public lands that may be declared available for fishpond development primarily to qualified fisherfolk cooperatives/associations: Provided, however, That upon the expiration of existing FLAs the current lessees shall be given priority and be entitled to an extension of twenty-five (25) years in the utilization of their respective leased areas. Thereafter, such FLAs shall be granted to any Filipino citizen with preference, primarily to qualified fisherfolk cooperatives/associations as well as small and medium enterprises as defined under Republic Act No. 8289: Provided, further, That the Department shall declare as reservation, portions of available public lands certified as suitable for fishpond purposes for fish sanctuary, conservation, and ecological purposes: Provided, finally, That two (2) years after the approval of this Act, no fish pens or fish cages or fish traps shall be allowed in lakes.
+#### Section 45
 
-**Section 46._Lease of Fishponds._** \- Fishpond leased to qualified persons and fisherfolk organizations/cooperatives shall be subject to the following conditions:
+_Disposition of Public Lands for Fishery Purposes._ \- Public lands such as tidal swamps, mangroves, marshes, foreshore lands and ponds suitable for fishery operations shall not be disposed or alienated. Upon effectivity of this Code, FLA may be issued for public lands that may be declared available for fishpond development primarily to qualified fisherfolk cooperatives/associations: Provided, however, That upon the expiration of existing FLAs the current lessees shall be given priority and be entitled to an extension of twenty-five (25) years in the utilization of their respective leased areas. Thereafter, such FLAs shall be granted to any Filipino citizen with preference, primarily to qualified fisherfolk cooperatives/associations as well as small and medium enterprises as defined under Republic Act No. 8289: Provided, further, That the Department shall declare as reservation, portions of available public lands certified as suitable for fishpond purposes for fish sanctuary, conservation, and ecological purposes: Provided, finally, That two (2) years after the approval of this Act, no fish pens or fish cages or fish traps shall be allowed in lakes.
+
+#### Section 46
+
+_Lease of Fishponds._ \- Fishpond leased to qualified persons and fisherfolk organizations/cooperatives shall be subject to the following conditions:
 
 (a) Areas leased for fishpond purposes shall be no more than 50 hectares for individuals and 250 hectares for corporations or fisherfolk organizations;
 
@@ -391,31 +483,55 @@ The owner/operator of a fishing vessel has a period of sixty (60) days prior to 
 
 (h) The lessee shall provide facilities that will minimize environmental pollution, i.e., settling ponds, reservoirs, etc: Provided, That failure to comply with this provision shall mean cancellation of FLA.
 
-**Section 47._Code of Practice for Aquaculture._** \- The Department shall establish a code of practice for aquaculture that will outline general principles and guidelines for environmentally-sound design and operation to promote the sustainable development of the industry. Such Code shall be developed through a consultative process with the DENR, the fishworkers, FLA holders, fishpond owners, fisherfolk cooperatives, small-scale operators, research institutions and the academe, and other potential stakeholders. The Department may consult with specialized international organizations in the formulation of the code of practice.
+#### Section 47
 
-**Section 48._Incentives and Disincentives for Sustainable Aquaculture Practices._** \- The Department shall formulate incentives and disincentives, such as, but not limited to, effluent charges, user fees and negotiable permits, to encourage compliance with the environmental standards and to promote sustainable management practices.
+_Code of Practice for Aquaculture._ \- The Department shall establish a code of practice for aquaculture that will outline general principles and guidelines for environmentally-sound design and operation to promote the sustainable development of the industry. Such Code shall be developed through a consultative process with the DENR, the fishworkers, FLA holders, fishpond owners, fisherfolk cooperatives, small-scale operators, research institutions and the academe, and other potential stakeholders. The Department may consult with specialized international organizations in the formulation of the code of practice.
 
-**Section 49._Reversion of All Abandoned, Undeveloped or Underutilized Fishponds._** \- The DENR, in coordination with the Department, LGUs, other concerned agencies and FARMCs shall determine which abandoned, underdeveloped or underutilized fishponds covered by FLAs can be reverted to their original mangrove state and after having made such determination shall take all steps necessary to restore such areas in their original mangrove state.
+#### Section 48
 
-**Section 50._Absentee Fishpond Lease Agreement Holders._** \- Holders of fishpond lease agreements who have acquired citizenship in another country during the existence of the FLA shall have their lease automatically cancelled and the improvements thereon to be forfeited in favor of the government and disposed of in accordance with rules and regulations promulgated thereon.
+_Incentives and Disincentives for Sustainable Aquaculture Practices._ \- The Department shall formulate incentives and disincentives, such as, but not limited to, effluent charges, user fees and negotiable permits, to encourage compliance with the environmental standards and to promote sustainable management practices.
 
-**Section 51._License to Operate Fish Pens, Fish Cages, Fish Traps and Other Structures for the Culture of Fish and Other Fishery Products._** \- Fish pens, fish cages, fish traps and other structures for the culture of fish and other fishery products shall be constructed and shall operate only within established zones duly designated by LGUs in consultation with the FARMCs concerned consistent with national fisheries policies after the corresponding licenses thereof have been secured. The area to be utilized for this purpose for individual person shall be determined by the LGUs in consultation with the concerned FARMC: Provided, however, That not over ten percent (10%) of the suitable water surface area of all lakes and rivers shall be allotted for aquaculture purposes like fish pens, fish cages and fish traps; and the stocking density and feeding requirement which shall be controlled and determined by its carrying capacity: Provided, further, That fish pens and fish cages located outside municipal waters shall be constructed and operated only within fish pen and fish cage belts designated by the Department and after corresponding licenses therefor have been secured and the fees thereof paid.
+#### Section 49
 
-**Section 52._Pearl Farm Leases._** \- The foregoing provisions notwithstanding, existing pearl farm leases shall be respected and allowed to operate under the terms thereof. New leases may be granted to qualified persons who possess the necessary capital and technology, by the LGUs having jurisdiction over the area.
+_Reversion of All Abandoned, Undeveloped or Underutilized Fishponds._ \- The DENR, in coordination with the Department, LGUs, other concerned agencies and FARMCs shall determine which abandoned, underdeveloped or underutilized fishponds covered by FLAs can be reverted to their original mangrove state and after having made such determination shall take all steps necessary to restore such areas in their original mangrove state.
 
-**Section 53._Grant of Privileges for Operations of Fish Pens, Cages, Corrals/Traps and Similar Structures._** \- No new concessions, licenses, permits, leases and similar privileges for the establishment or operation of fish pens, fish cages, fish corrals/traps and other similar structures in municipal areas shall be granted except to municipal fisherfolk and their organizations.
+#### Section 50
 
-**Section 54._Insurance for Fishponds, Fish Cages and Fish Pens._** \- Inland fishponds, fish cages and fish pens shall be covered under the insurance program of the Philippine Crop Insurance Corporation for losses caused by force majeure and fortuitous events.
+_Absentee Fishpond Lease Agreement Holders._ \- Holders of fishpond lease agreements who have acquired citizenship in another country during the existence of the FLA shall have their lease automatically cancelled and the improvements thereon to be forfeited in favor of the government and disposed of in accordance with rules and regulations promulgated thereon.
 
-**Section 55._Non-Obstruction to Navigation._** \- Nothing in the foregoing sections shall be construed as permitting the lessee, licensee, or permittee to undertake any construction which will obstruct the free navigation in any stream, river, lakes, or bays flowing through or adjoining the fish pens, fish cages, fish traps and fishponds, or impede the flow of the tide to and from the area. Any construction made in violation hereof shall be removed upon the order of the Department in coordination with the other government agencies concerned at the expense of the lessee, licensee, or occupants thereof, whenever applicable. The Department shall within thirty (30) days after the effectivity of this Code formulate and implement rules and regulations for the immediate dismantling of existing obstruction to navigation.
+#### Section 51
 
-**Section 56._Non-Obstruction to Defined Migration Paths._** \- Nothing in the foregoing sections shall be construed as permitting the lessee, permittee, or licensee to undertake any construction which will obstruct any defined migration path of migratory fish species such as river mouths and estuaries with a distance determined by the concerned LGUs in consultation with and upon the recommendation of the FARMCs.
+_License to Operate Fish Pens, Fish Cages, Fish Traps and Other Structures for the Culture of Fish and Other Fishery Products._ \- Fish pens, fish cages, fish traps and other structures for the culture of fish and other fishery products shall be constructed and shall operate only within established zones duly designated by LGUs in consultation with the FARMCs concerned consistent with national fisheries policies after the corresponding licenses thereof have been secured. The area to be utilized for this purpose for individual person shall be determined by the LGUs in consultation with the concerned FARMC: Provided, however, That not over ten percent (10%) of the suitable water surface area of all lakes and rivers shall be allotted for aquaculture purposes like fish pens, fish cages and fish traps; and the stocking density and feeding requirement which shall be controlled and determined by its carrying capacity: Provided, further, That fish pens and fish cages located outside municipal waters shall be constructed and operated only within fish pen and fish cage belts designated by the Department and after corresponding licenses therefor have been secured and the fees thereof paid.
 
-**Section 57._Registration of Fish Hatcheries and Private Fishponds, etc._** \- All fish hatcheries, fish breeding facilities and private fishponds must be registered with the LGUs which shall prescribe minimum standards for such facilities in consultation with the Department: Provided, That the Department shall conduct a yearly inventory of all fishponds, fish pens and fish cages whether in public or private lands: Provided, further, That all fishpond, fish pens and fish cage operators shall annually report to the Department the type of species and volume of production in areas devoted to aquaculture.
+#### Section 52
+
+_Pearl Farm Leases._ \- The foregoing provisions notwithstanding, existing pearl farm leases shall be respected and allowed to operate under the terms thereof. New leases may be granted to qualified persons who possess the necessary capital and technology, by the LGUs having jurisdiction over the area.
+
+#### Section 53
+
+_Grant of Privileges for Operations of Fish Pens, Cages, Corrals/Traps and Similar Structures._ \- No new concessions, licenses, permits, leases and similar privileges for the establishment or operation of fish pens, fish cages, fish corrals/traps and other similar structures in municipal areas shall be granted except to municipal fisherfolk and their organizations.
+
+#### Section 54
+
+_Insurance for Fishponds, Fish Cages and Fish Pens._ \- Inland fishponds, fish cages and fish pens shall be covered under the insurance program of the Philippine Crop Insurance Corporation for losses caused by force majeure and fortuitous events.
+
+#### Section 55
+
+_Non-Obstruction to Navigation._ \- Nothing in the foregoing sections shall be construed as permitting the lessee, licensee, or permittee to undertake any construction which will obstruct the free navigation in any stream, river, lakes, or bays flowing through or adjoining the fish pens, fish cages, fish traps and fishponds, or impede the flow of the tide to and from the area. Any construction made in violation hereof shall be removed upon the order of the Department in coordination with the other government agencies concerned at the expense of the lessee, licensee, or occupants thereof, whenever applicable. The Department shall within thirty (30) days after the effectivity of this Code formulate and implement rules and regulations for the immediate dismantling of existing obstruction to navigation.
+
+#### Section 56
+
+_Non-Obstruction to Defined Migration Paths._ \- Nothing in the foregoing sections shall be construed as permitting the lessee, permittee, or licensee to undertake any construction which will obstruct any defined migration path of migratory fish species such as river mouths and estuaries with a distance determined by the concerned LGUs in consultation with and upon the recommendation of the FARMCs.
+
+#### Section 57
+
+_Registration of Fish Hatcheries and Private Fishponds, etc._ \- All fish hatcheries, fish breeding facilities and private fishponds must be registered with the LGUs which shall prescribe minimum standards for such facilities in consultation with the Department: Provided, That the Department shall conduct a yearly inventory of all fishponds, fish pens and fish cages whether in public or private lands: Provided, further, That all fishpond, fish pens and fish cage operators shall annually report to the Department the type of species and volume of production in areas devoted to aquaculture.
 
 ### ARTICLE IV — POST-HARVEST FACILITIES, ACTIVITIES AND TRADES
 
-**Section 58._Comprehensive Post-harvest and Ancillary Industries Plan._** \- The Department shall conduct a regular study of fisheries post-harvest operations and ancillary industries, in the formulation of a comprehensive plan for post-harvest and ancillary industries. It shall take into account among others, the following:
+#### Section 58
+
+_Comprehensive Post-harvest and Ancillary Industries Plan._ \- The Department shall conduct a regular study of fisheries post-harvest operations and ancillary industries, in the formulation of a comprehensive plan for post-harvest and ancillary industries. It shall take into account among others, the following:
 
 (a) detailed and clear guidelines on the distribution, construction, maintenance and use of post-harvest infrastructure facilities;
 
@@ -433,11 +549,17 @@ The owner/operator of a fishing vessel has a period of sixty (60) days prior to 
 
 (h) integration of fisheries post-harvest operations into the national fisheries plan.
 
-**Section 59._Establishment of Post-Harvest Facilities for Fishing Communities._** \- The LGUs shall coordinate with the private sector and other concerned agencies and FARMCs in the establishment of post-harvest facilities for fishing communities such as, but not limited to, municipal fish landing sites, fish ports, ice plants and cold storage and other fish processing establishments to serve primarily the needs of municipal fisherfolk: Provided, That such post-harvest facilities shall be consistent with the Comprehensive Post-harvest and Ancillary Industries Plan.
+#### Section 59
 
-**Section 60._Registration and Licensing of all Post-Harvest Facilities._** \- All post-harvest facilities such as fish processing plants, ice plants, and cold storages, fish ports/landings and other fishery business establishments must register with and be licensed by the LGUs which shall prescribe minimum standards for such facilities in consultation with the Department.
+_Establishment of Post-Harvest Facilities for Fishing Communities._ \- The LGUs shall coordinate with the private sector and other concerned agencies and FARMCs in the establishment of post-harvest facilities for fishing communities such as, but not limited to, municipal fish landing sites, fish ports, ice plants and cold storage and other fish processing establishments to serve primarily the needs of municipal fisherfolk: Provided, That such post-harvest facilities shall be consistent with the Comprehensive Post-harvest and Ancillary Industries Plan.
 
-**Section 61._Importation and Exportation of Fishery Products._** -
+#### Section 60
+
+_Registration and Licensing of all Post-Harvest Facilities._ \- All post-harvest facilities such as fish processing plants, ice plants, and cold storages, fish ports/landings and other fishery business establishments must register with and be licensed by the LGUs which shall prescribe minimum standards for such facilities in consultation with the Department.
+
+#### Section 61
+
+_Importation and Exportation of Fishery Products._ -
 
 (a) Export of fishery products shall be regulated whenever such exportation affects domestic food security and production: Provided, That exportation of live fish shall be prohibited except those which are hatched or propagated in accredited hatcheries and ponds;
 
@@ -449,7 +571,9 @@ The owner/operator of a fishing vessel has a period of sixty (60) days prior to 
 
 The Department in consultation with the FARMC shall promulgate rules and regulations on importation and exportation of fish and fishery/aquatic resources with the Government's export/import simplification procedures.
 
-**Section 62._Instruments of Weights and Measures, and Quality Grades/Standards._** \- Standards for weights, volume and other measurements for all fishery transactions shall be set by the Department.
+#### Section 62
+
+_Instruments of Weights and Measures, and Quality Grades/Standards._ \- Standards for weights, volume and other measurements for all fishery transactions shall be set by the Department.
 
 All fish and fishery products for export, import and domestic consumption shall meet the quality grades/standards as determined by the Department.
 
@@ -459,7 +583,9 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 ### ARTICLE I — RECONSTITUTION OF THE BUREAU OF FISHERIES AND AQUATIC RESOURCES
 
-**Section 63._Creation of the Position of Undersecretary for Fisheries and Aquatic Resources._** \- There is hereby created in the Department of Agriculture the position of Undersecretary for Fisheries and Aquatic Resources, solely for the purpose of attending to the needs of the fishing industry, to be appointed by the President. Such Undersecretary shall have the following functions:
+#### Section 63
+
+_Creation of the Position of Undersecretary for Fisheries and Aquatic Resources._ \- There is hereby created in the Department of Agriculture the position of Undersecretary for Fisheries and Aquatic Resources, solely for the purpose of attending to the needs of the fishing industry, to be appointed by the President. Such Undersecretary shall have the following functions:
 
 (a) set policies and formulate standards for the effective, efficient and economical operations of the fishing industry in accordance with the programs of the government;
 
@@ -469,9 +595,13 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 (d) perform such other functions as may be necessary or proper to attain the objectives of this Code.
 
-**Section 64._Reconstitution of the BFAR._** \- The Bureau of Fisheries and Aquatic Resources (BFAR) is hereby reconstituted as a line bureau under the Department of Agriculture.
+#### Section 64
 
-**Section 65._Functions of the Bureau of Fisheries and Aquatic Resources._** \- As a line bureau, the BFAR shall have the following functions:
+_Reconstitution of the BFAR._ \- The Bureau of Fisheries and Aquatic Resources (BFAR) is hereby reconstituted as a line bureau under the Department of Agriculture.
+
+#### Section 65
+
+_Functions of the Bureau of Fisheries and Aquatic Resources._ \- As a line bureau, the BFAR shall have the following functions:
 
 (a) prepare and implement a Comprehensive National Fisheries Industry Development Plan;
 
@@ -501,7 +631,7 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 (n) enforce all laws, formulate and enforce all rules and regulations governing the conservation and management of fishery resources, except in municipal waters, and to settle conflicts of resource use and allocation in consultation with the NFARMC, LGUs and local FARMCs;
 
-(o) develop value-added fishery-products for domestic consumption and export;lawphi1™
+(o) develop value-added fishery-products for domestic consumption and export;
 
 (p) recommend measures for the protection/enhancement of the fishery industries;
 
@@ -511,9 +641,13 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 (s) perform such other related functions which shall promote the development, conservation, management, protection and utilization of fisheries and aquatic resources.
 
-**Section 66._Composition of BFAR._** \- As a line bureau, the BFAR shall be headed by a Director and assisted by two (2) Assistant Directors who shall supervise the administrative and technical services of the bureau respectively. It shall establish regional, provincial and municipal offices as may be appropriate and necessary to carry out effectively and efficiently the provisions of this Code.
+#### Section 66
 
-**Section 67._Fisheries Inspection and Quarantine Service._** \- For purposes of monitoring and regulating the importation and exportation of fish and fishery/aquatic resources, the Fisheries Inspection and Quarantine Service in the BFAR is hereby strengthened and shall have the following functions:
+_Composition of BFAR._ \- As a line bureau, the BFAR shall be headed by a Director and assisted by two (2) Assistant Directors who shall supervise the administrative and technical services of the bureau respectively. It shall establish regional, provincial and municipal offices as may be appropriate and necessary to carry out effectively and efficiently the provisions of this Code.
+
+#### Section 67
+
+_Fisheries Inspection and Quarantine Service._ \- For purposes of monitoring and regulating the importation and exportation of fish and fishery/aquatic resources, the Fisheries Inspection and Quarantine Service in the BFAR is hereby strengthened and shall have the following functions:
 
 (a) conduct fisheries quarantine and quality inspection of all fish and fishery/aquatic products coming into and going out of the country by air or water transport, to detect the presence of fish pest and diseases and if found to harbor fish pests or diseases shall be confiscated and disposed of in accordance with environmental standards and practices;
 
@@ -527,11 +661,17 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 ### ARTICLE II — THE FISHERIES AND AQUATIC RESOURCES MANAGEMENT COUNCILS (FARMCs)
 
-**Section 68._Development of Fisheries and Aquatic Resources in Municipal Waters and Bays._** \- Fisherfolk and their organizations residing within the geographical jurisdiction of the barangays, municipalities or cities with the concerned LGUs shall develop the fishery/aquatic resources in municipal waters and bays.
+#### Section 68
 
-**Section 69._Creation of Fisheries and Aquatic Resources Management Councils (FARMCs)._** \- FARMCs shall be established in the national level and in all municipalities/cities abutting municipal waters as defined by this Code. The FARMCs shall be formed by fisherfolk organizations/cooperatives and NGOs in the locality and be assisted by the LGUs and other government entities. Before organizing FARMCs, the LGUs, NGOs, fisherfolk, and other concerned POs shall undergo consultation and orientation on the formation of FARMCs.
+_Development of Fisheries and Aquatic Resources in Municipal Waters and Bays._ \- Fisherfolk and their organizations residing within the geographical jurisdiction of the barangays, municipalities or cities with the concerned LGUs shall develop the fishery/aquatic resources in municipal waters and bays.
 
-**Section 70._Creation and Composition of the National Fisheries and Aquatic Resources Management Council (NFARMC)._** \- There is hereby created a National Fisheries and Aquatic Resources Management Council hereinafter referred to as NFARMC as an advisory/recommendatory body to the Department. The NFARMC shall be composed of fifteen (15) members consisting of:
+#### Section 69
+
+_Creation of Fisheries and Aquatic Resources Management Councils (FARMCs)._ \- FARMCs shall be established in the national level and in all municipalities/cities abutting municipal waters as defined by this Code. The FARMCs shall be formed by fisherfolk organizations/cooperatives and NGOs in the locality and be assisted by the LGUs and other government entities. Before organizing FARMCs, the LGUs, NGOs, fisherfolk, and other concerned POs shall undergo consultation and orientation on the formation of FARMCs.
+
+#### Section 70
+
+_Creation and Composition of the National Fisheries and Aquatic Resources Management Council (NFARMC)._ \- There is hereby created a National Fisheries and Aquatic Resources Management Council hereinafter referred to as NFARMC as an advisory/recommendatory body to the Department. The NFARMC shall be composed of fifteen (15) members consisting of:
 
 (a) the Undersecretary of Agriculture, as Chairman;
 
@@ -547,9 +687,13 @@ The LGU concerned shall, by appropriate ordinance, penalize fraudulent practices
 
 The members of the NFARMC, except for the Undersecretary of Agriculture and the Undersecretary of the Interior and Local Government, shall be appointed by the President upon the nomination of their respective organizations.
 
-**Section 71._Terms of Office._** \- The members of NFARMC, except the Undersecretary of Agriculture and the Undersecretary of the Interior and Local Government, shall serve for a term of three (3) years without reappointment.
+#### Section 71
 
-**Section 72._Functions of the NFARMC._** \- The NFARMC shall have the following functions:
+_Terms of Office._ \- The members of NFARMC, except the Undersecretary of Agriculture and the Undersecretary of the Interior and Local Government, shall serve for a term of three (3) years without reappointment.
+
+#### Section 72
+
+_Functions of the NFARMC._ \- The NFARMC shall have the following functions:
 
 (a) assist in the formulation of national policies for the protection, sustainable development and management of fishery and aquatic resources for the approval of the Secretary;
 
@@ -557,9 +701,13 @@ The members of the NFARMC, except for the Undersecretary of Agriculture and the 
 
 (c) perform such other functions as may be provided by law.
 
-**Section 73._The Municipal/City Fisheries and Aquatic Resources Management Councils (M/CFARMCs)._** \- The M/CFARMCs shall be created in each of the municipalities and cities abutting municipal waters. However, the LGU may create the Barangay Fisheries and Aquatic Resources Management Councils (BFARMCs) and the Lakewide Fisheries and Aquatic Resources Management Councils (LFARMCs) whenever necessary. Such BFARMCs and LFARMCs shall serve in an advisory capacity to the LGUs.
+#### Section 73
 
-**Section 74._Functions of the M/CFARMCs._** \- The M/CFARMCs shall exercise the following functions:
+_The Municipal/City Fisheries and Aquatic Resources Management Councils (M/CFARMCs)._ \- The M/CFARMCs shall be created in each of the municipalities and cities abutting municipal waters. However, the LGU may create the Barangay Fisheries and Aquatic Resources Management Councils (BFARMCs) and the Lakewide Fisheries and Aquatic Resources Management Councils (LFARMCs) whenever necessary. Such BFARMCs and LFARMCs shall serve in an advisory capacity to the LGUs.
+
+#### Section 74
+
+_Functions of the M/CFARMCs._ \- The M/CFARMCs shall exercise the following functions:
 
 (a) assist in the preparation of the Municipal Fishery Development Plan and submit such plan to the Municipal Development Council;
 
@@ -571,7 +719,9 @@ The members of the NFARMC, except for the Undersecretary of Agriculture and the 
 
 (e) perform such other functions which may be assigned by the sangguniang bayan/panlungsod.
 
-**Section 75._Composition of the M/CFARMC ._** \- The regular member of the M/CFARMCs shall be composed of:
+#### Section 75
+
+_Composition of the M/CFARMC ._ \- The regular member of the M/CFARMCs shall be composed of:
 
 (a) Municipal/City Planning Development Officer;
 
@@ -589,9 +739,13 @@ The members of the NFARMC, except for the Undersecretary of Agriculture and the 
 
 The Council shall adopt rules and regulations necessary to govern its proceedings and election.
 
-**Section 76._The Integrated Fisheries and Aquatic Resources Management Councils (IFARMCs)._** \- The IFARMCs shall be created in bays, gulfs, lakes and rivers and dams bounded by two (2) or more municipalities/cities.
+#### Section 76
 
-**Section 77._Functions of the IFARMCs._** \- The IFARMC shall have the following functions:
+_The Integrated Fisheries and Aquatic Resources Management Councils (IFARMCs)._ \- The IFARMCs shall be created in bays, gulfs, lakes and rivers and dams bounded by two (2) or more municipalities/cities.
+
+#### Section 77
+
+_Functions of the IFARMCs._ \- The IFARMC shall have the following functions:
 
 (a) assist in the preparation of the Integrated Fishery Development Plan and submit such plan to the concerned Municipal Development Councils;
 
@@ -603,7 +757,9 @@ The Council shall adopt rules and regulations necessary to govern its proceeding
 
 (e) perform such other functions which may be assigned by the concerned sangguniang bayan/panlungsod.
 
-**Section 78._Composition of the IFARMCs._** \- The regular members of the IFARMCs shall be composed of the following:
+#### Section 78
+
+_Composition of the IFARMCs._ \- The regular members of the IFARMCs shall be composed of the following:
 
 (a) the chairperson of the Committee on Agriculture/Fisheries of the concerned sangguniang bayan/panlungsod;
 
@@ -619,17 +775,25 @@ The Council shall adopt rules and regulations necessary to govern its proceeding
 
 The Council shall adopt rules and regulations necessary to govern its proceedings and election.
 
-**Section 79._Source of Funds of the FARMCs._** \- A separate fund for the NFARMC, IFARMCs and M/CFARMCs shall be established and administered by the Department from the regular annual budgetary appropriations.
+#### Section 79
+
+_Source of Funds of the FARMCs._ \- A separate fund for the NFARMC, IFARMCs and M/CFARMCs shall be established and administered by the Department from the regular annual budgetary appropriations.
 
 ## CHAPTER IV — Fishery Reserves, Refuge and Sanctuaries
 
-**Section 80._Fishing Areas Reserves for Exclusive Use of Government._** \- The Department may designate area or areas in Philippine waters beyond fifteen (15) kilometers from shoreline as fishery reservation for the exclusive use of the government or any of its political subdivisions, agencies or instrumentalities, for propagation, educational, research and scientific purposes: Provided, That in municipalities or cities, the concerned LGUs in consultation with the FARMCs may recommend to the Department that portion of the municipal waters be declared as fishery reserves for special or limited use, for educational, research, and/or special management purposes. The FARMCs may recommend to the Department portions of the municipal waters which can be declared as fisheries reserves for special or limited use for educational, research and special management purposes.
+#### Section 80
 
-**Section 81._Fish Refuge and Sanctuaries._** \- The Department may establish fish refuge and sanctuaries to be administered in the manner to be prescribed by the BFAR at least twenty-five percent (25%) but not more than forty percent (40%) of bays, foreshore lands, continental shelf or any fishing ground shall be set aside for the cultivation of mangroves to strengthen the habitat and the spawning grounds of fish. Within these areas no commercial fishing shall be allowed. All marine fishery reserves, fish sanctuaries and mangrove swamp reservations already declared or proclaimed by the President or legislated by the Congress of the Philippines shall be continuously administered and supervised by the concerned agency: Provided, however, That in municipal waters, the concerned LGU in consultation with the FARMCs may establish fishery refuge and sanctuaries. The FARMCs may also recommend fishery refuge and sanctuaries: Provided, further, That at least fifteen percent (15%) where applicable of the total coastal areas in each municipality shall be identified, based on the best available scientific data and in consultation with the Department, and automatically designated as fish sanctuaries by the LGUs in consultation with the concerned FARMCs.
+_Fishing Areas Reserves for Exclusive Use of Government._ \- The Department may designate area or areas in Philippine waters beyond fifteen (15) kilometers from shoreline as fishery reservation for the exclusive use of the government or any of its political subdivisions, agencies or instrumentalities, for propagation, educational, research and scientific purposes: Provided, That in municipalities or cities, the concerned LGUs in consultation with the FARMCs may recommend to the Department that portion of the municipal waters be declared as fishery reserves for special or limited use, for educational, research, and/or special management purposes. The FARMCs may recommend to the Department portions of the municipal waters which can be declared as fisheries reserves for special or limited use for educational, research and special management purposes.
+
+#### Section 81
+
+_Fish Refuge and Sanctuaries._ \- The Department may establish fish refuge and sanctuaries to be administered in the manner to be prescribed by the BFAR at least twenty-five percent (25%) but not more than forty percent (40%) of bays, foreshore lands, continental shelf or any fishing ground shall be set aside for the cultivation of mangroves to strengthen the habitat and the spawning grounds of fish. Within these areas no commercial fishing shall be allowed. All marine fishery reserves, fish sanctuaries and mangrove swamp reservations already declared or proclaimed by the President or legislated by the Congress of the Philippines shall be continuously administered and supervised by the concerned agency: Provided, however, That in municipal waters, the concerned LGU in consultation with the FARMCs may establish fishery refuge and sanctuaries. The FARMCs may also recommend fishery refuge and sanctuaries: Provided, further, That at least fifteen percent (15%) where applicable of the total coastal areas in each municipality shall be identified, based on the best available scientific data and in consultation with the Department, and automatically designated as fish sanctuaries by the LGUs in consultation with the concerned FARMCs.
 
 ## CHAPTER V — Fisheries Research and Development
 
-**Section 82._Creation of a National Fisheries Research and Development Institute (NFRDI)._** \- In recognition of the important role of fisheries research in the development, management, conservation and protection of the country's fisheries and aquatic resources, there is hereby created a National Fisheries Research and Development Institute (NFRDI).
+#### Section 82
+
+_Creation of a National Fisheries Research and Development Institute (NFRDI)._ \- In recognition of the important role of fisheries research in the development, management, conservation and protection of the country's fisheries and aquatic resources, there is hereby created a National Fisheries Research and Development Institute (NFRDI).
 
 The Institute shall form part of the National Research and Development Network of the Department of Science and Technology (DOST).
 
@@ -657,9 +821,13 @@ The Institute, which shall be attached to the Department shall serve as the prim
 
 The NFRDI shall have a separate budget specific to its manpower requirements and operations to ensure the independent and objective implementation of its research activities.
 
-**Section 83._Qualification Standard._** \- The Institute shall be headed by an Executive Director to be appointed by the President of the Philippines upon the recommendation of the governing board. The Executive Director shall hold a Doctorate degree in fisheries and/or other related disciplines. The organizational structure and staffing pattern shall be approved by the Department: Provided, however, That the staffing pattern and remunerations for scientific and technical staff shall be based on the qualification standards for science and technology personnel.
+#### Section 83
 
-**Section 84._Research and Development Objectives._** \- Researches to be done by the NFRDI are expected to result in the following:
+_Qualification Standard._ \- The Institute shall be headed by an Executive Director to be appointed by the President of the Philippines upon the recommendation of the governing board. The Executive Director shall hold a Doctorate degree in fisheries and/or other related disciplines. The organizational structure and staffing pattern shall be approved by the Department: Provided, however, That the staffing pattern and remunerations for scientific and technical staff shall be based on the qualification standards for science and technology personnel.
+
+#### Section 84
+
+_Research and Development Objectives._ \- Researches to be done by the NFRDI are expected to result in the following:
 
 (a) To raise the income of the fisherfolk and to elevate the Philippines among the top five (5) in the world ranking in the fish productions;
 
@@ -669,7 +837,9 @@ The NFRDI shall have a separate budget specific to its manpower requirements and
 
 (d) to coordinate with the fisheries schools, LGUs and private sectors regarding the maximum utilization of available technology, including the transfer of such technology to the industry particularly the fisherfolk.
 
-**Section 85._Functions of the NFRDI ._** \- As a national institute, the NFRDI shall have the following functions:
+#### Section 85
+
+_Functions of the NFRDI ._ \- As a national institute, the NFRDI shall have the following functions:
 
 (a) establish a national infrastructure unit complete with technologically-advanced features and modern scientific equipment, which shall facilitate, monitor, and implement various research needs and activities of the fisheries sector;
 
@@ -683,7 +853,9 @@ The NFRDI shall have a separate budget specific to its manpower requirements and
 
 ## CHAPTER VI — Prohibitions and Penalties
 
-**Section 86._Unauthorized Fishing or Engaging in Other Unauthorized Fisheries Activities._** \- No person shall exploit, occupy, produce, breed, culture, capture or gather fish, fry or fingerlings of any fishery species or fishery products, or engage in any fishery activity in Philippine waters without a license, lease or permit.
+#### Section 86
+
+_Unauthorized Fishing or Engaging in Other Unauthorized Fisheries Activities._ \- No person shall exploit, occupy, produce, breed, culture, capture or gather fish, fry or fingerlings of any fishery species or fishery products, or engage in any fishery activity in Philippine waters without a license, lease or permit.
 
 Discovery of any person in an area where he has no permit or registration papers for a fishing vessel shall constitute a prima facie presumption that the person and/or vessel is engaged in unauthorized fishing: Provided, That fishing for daily food sustenance or for leisure which is not for commercial, occupation or livelihood purposes may be allowed.
 
@@ -693,13 +865,17 @@ Any commercial fishing boat captain or the three (3) highest officers of the boa
 
 It shall be unlawful for any person not listed in the registry of municipal fisherfolk to engage in any commercial fishing activity in municipal waters. Any municipal fisherfolk who commits such violation shall be punished by confiscation of catch and a fine of Five hundred pesos (500.00).
 
-**Section 87._Poaching in Philippine Waters._** \- It shall be unlawful for any foreign person, corporation or entity to fish or operate any fishing vessel in Philippine waters.
+#### Section 87
+
+_Poaching in Philippine Waters._ \- It shall be unlawful for any foreign person, corporation or entity to fish or operate any fishing vessel in Philippine waters.
 
 The entry of any foreign fishing vessel in Philippine waters shall constitute a prima facie evidence that the vessel is engaged in fishing in Philippine waters.
 
 Violation of the above shall be punished by a fine of One hundred thousand U.S. Dollars (US$100,000.00), in addition to the confiscation of its catch, fishing equipment and fishing vessel: Provided, That the Department is empowered to impose an administrative fine of not less than Fifty thousand U.S. Dollars (US$50,000.00) but not more than Two hundred thousand U.S. Dollars (US$200,000.00) or its equivalent in the Philippine Currency.
 
-**Section 88._Fishing Through Explosives, Noxious or Poisonous Substance, and/or Electricity._** -
+#### Section 88
+
+_Fishing Through Explosives, Noxious or Poisonous Substance, and/or Electricity._ -
 
 (1) It shall be unlawful for any person to catch, take or gather or cause to be caught, taken or gathered, fish or any fishery species in Philippine waters with the use of electricity, explosives, noxious or poisonous substance such as sodium cyanide in the Philippine fishery areas, which will kill, stupefy, disable or render unconscious fish or fishery species: Provided, That the Department, subject to such safeguards and conditions deemed necessary and endorsement from the concerned LGUs, may allow, for research, educational or scientific purposes only, the use of electricity, poisonous or noxious substances to catch, take or gather fish or fishery species: Provided, further, That the use of poisonous or noxious substances to eradicate predators in fishponds in accordance with accepted scientific practices and without causing adverse environmental impact in neighboring waters and grounds shall not be construed as illegal fishing.
 
@@ -715,11 +891,15 @@ The discovery of dynamite, other explosives and chemical compounds which contain
 
 (5) In all cases enumerated above, the explosives, noxious or poisonous substances and/or electrical devices, as well as the fishing vessels, fishing equipment and catch shall be forfeited.
 
-**Section 89._Use of Fine Mesh Net._** \- It shall be unlawful to engage in fishing using nets with mesh smaller than that which may be fixed by the Department: Provided, That the prohibition on the use of fine mesh net shall not apply to the gathering of fry, glass eels, elvers, tabios, and alamang and such species which by their nature are small but already mature to be identified in the implementing rules and regulations by the Department.
+#### Section 89
+
+_Use of Fine Mesh Net._ \- It shall be unlawful to engage in fishing using nets with mesh smaller than that which may be fixed by the Department: Provided, That the prohibition on the use of fine mesh net shall not apply to the gathering of fry, glass eels, elvers, tabios, and alamang and such species which by their nature are small but already mature to be identified in the implementing rules and regulations by the Department.
 
 Violation of the above shall subject the offender to a fine from Two thousand pesos (P2,000.00) to Twenty thousand pesos (P20,000.00) or imprisonment from six (6) months to two (2) years or both such fine and imprisonment at the discretion of the court: Provided, That if the offense is committed by a commercial fishing vessel, the boat captain and the master fisherman shall also be subject to the penalties provided herein: Provided, further, That the owner/operator of the commercial fishing vessel who violates this provision shall be subjected to the same penalties provided herein: Provided, finally, That the Department is hereby empowered to impose upon the offender an administrative fine and/or cancel his permit or license or both.
 
-**Section 90._Use of Active Gear in the Municipal Waters and Bays and Other Fishery Management Areas._** \- It shall be unlawful to engage in fishing in municipal waters and in all bays as well as other fishery management areas using active fishing gears as defined in this Code.
+#### Section 90
+
+_Use of Active Gear in the Municipal Waters and Bays and Other Fishery Management Areas._ \- It shall be unlawful to engage in fishing in municipal waters and in all bays as well as other fishery management areas using active fishing gears as defined in this Code.
 
 Violators of the above prohibitions shall suffer the following penalties:
 
@@ -733,13 +913,17 @@ If the owner/operator is a partnership the penalty shall be imposed on the manag
 
 (3) The catch shall be confiscated and forfeited.
 
-**Section 91._Ban on Coral Exploitation and Exportation._** \- It shall be unlawful for any person or corporation to gather, possess, sell or export ordinary precious and semi-precious corals, whether raw or in processed form, except for scientific or research purposes.
+#### Section 91
+
+_Ban on Coral Exploitation and Exportation._ \- It shall be unlawful for any person or corporation to gather, possess, sell or export ordinary precious and semi-precious corals, whether raw or in processed form, except for scientific or research purposes.
 
 Violations of this provision shall be punished by imprisonment from six (6) months to two (2) years and a fine from Two thousand pesos (P2,000.00) to Twenty thousand pesos (20,000.00), or both such fine and imprisonment, at the discretion of the court, and forfeiture of the subject corals, including the vessel and its proper disposition.
 
 The confiscated corals shall either be returned to the sea or donated to schools and museums for educational or scientific purposes or disposed through other means.
 
-**Section 92._Ban on Muro-Ami Other Methods and Gear Destructive to Coral Reefs and Other Marine Habitat._** \- It shall be unlawful for any person, natural or juridical, to fish with gear method that destroys coral reefs, seagrass beds, and other fishery marine life habitat as may be determined by the Department. "Muro-Ami" and any of its variation, and such similar gear and methods that require diving, other physical or mechanical acts to pound the coral reefs and other habitat to entrap, gather or catch fish and other fishery species are also prohibited.
+#### Section 92
+
+_Ban on Muro-Ami Other Methods and Gear Destructive to Coral Reefs and Other Marine Habitat._ \- It shall be unlawful for any person, natural or juridical, to fish with gear method that destroys coral reefs, seagrass beds, and other fishery marine life habitat as may be determined by the Department. "Muro-Ami" and any of its variation, and such similar gear and methods that require diving, other physical or mechanical acts to pound the coral reefs and other habitat to entrap, gather or catch fish and other fishery species are also prohibited.
 
 The operator, boat captain, master fisherman, and recruiter or organizer of fishworkers who violate this provision shall suffer a penalty of two (2) years to ten (10) years imprisonment and a fine of not less than One hundred thousand pesos (P100,000.00) to Five hundred thousand pesos (P500,000.00) or both such fine and imprisonment, at the discretion of the court. The catch and gear used shall be confiscated.
 
@@ -747,41 +931,63 @@ It shall likewise be unlawful for any person or corporation to gather, sell or e
 
 The person or corporation who violates this provision shall suffer a penalty of two (2) years to ten (10) years imprisonment and a fine of not less than One hundred thousand pesos (P100,000.00) to Five hundred thousand pesos (P500,000.00) or both such fine and imprisonment, at the discretion of the court. The substance taken from its marine habitat shall be confiscated.
 
-**Section 93._Illegal Use of Superlights._** \- It shall be unlawful to engage in fishing with the use of superlights in municipal waters or in violation of the rules and regulations which may be promulgated by the Department on the use of superlights outside municipal waters.
+#### Section 93
+
+_Illegal Use of Superlights._ \- It shall be unlawful to engage in fishing with the use of superlights in municipal waters or in violation of the rules and regulations which may be promulgated by the Department on the use of superlights outside municipal waters.
 
 Violations of this provision shall be punished by imprisonment from six (6) months to two (2) years or a fine of Five thousand pesos (P5,000.00) per superlight, or both such fine and imprisonment at the discretion of the courts. The superlight, fishing gears and vessel shall be confiscated.
 
-**Section 94._Conversion of Mangroves._** \- It shall be unlawful for any person to convert mangroves into fishponds or for any other purposes.
+#### Section 94
+
+_Conversion of Mangroves._ \- It shall be unlawful for any person to convert mangroves into fishponds or for any other purposes.
 
 Violation of the provision of this section shall be punished by imprisonment of six (6) years and one (1) day to twelve (12) years and/or a fine of Eighty thousand pesos (P80,000.00): Provided, That if the area requires rehabilitation or restoration as determined by the court, the offender should also be required to restore or compensate for the restoration of the damage.
 
-**Section 95._Fishing in Overfished Area and During Closed Season._** \- It shall be unlawful to fish in overfished area and during closed season.
+#### Section 95
+
+_Fishing in Overfished Area and During Closed Season._ \- It shall be unlawful to fish in overfished area and during closed season.
 
 Violation of the provision of this section shall be punished by imprisonment of six (6) months and one (1) day to six (6) years and/or fine of Six thousand pesos (P6,000.00) and by forfeiture of the catch and cancellation of fishing permit or license.
 
-**Section 96._Fishing in Fishery Reserves, Refuge and Sanctuaries._** \- It shall be unlawful to fish in fishery areas declared by the Department as fishery reserves, refuge and sanctuaries.
+#### Section 96
+
+_Fishing in Fishery Reserves, Refuge and Sanctuaries._ \- It shall be unlawful to fish in fishery areas declared by the Department as fishery reserves, refuge and sanctuaries.
 
 Violation of the provision of this section shall be punished by imprisonment of two (2) years to six (6) years and/or fine of Two thousand pesos (P2,000.00) to Twenty thousand pesos (P20,000.00) and by forfeiture of the catch and the cancellation of fishing permit or license.
 
-**Section 97._Fishing Or Taking of Rare, Threatened or Endangered Species._** \- It shall be unlawful to fish or take rare, threatened or endangered species as listed in the CITES and as determined by the Department.
+#### Section 97
+
+_Fishing Or Taking of Rare, Threatened or Endangered Species._ \- It shall be unlawful to fish or take rare, threatened or endangered species as listed in the CITES and as determined by the Department.
 
 Violation of the provision of this section shall be punished by imprisonment of twelve (12) years to twenty (20) years and/or a fine of One hundred and twenty thousand pesos (P120,000.00) and forfeiture of the catch, and the cancellation of fishing permit.
 
-**Section 98._Capture of Sabalo and Other Breeders/Spawners._** \- It shall be unlawful for any person to catch, gather, capture or possess mature milkfish or "sabalo" and such other breeders or spawners of other fishery species as may be determined by the Department: Provided, That catching of "sabalo" and other breeders/spawners for local breeding purposes or scientific or research purposes may be allowed subject to guidelines to be promulgated by the Department.
+#### Section 98
+
+_Capture of Sabalo and Other Breeders/Spawners._ \- It shall be unlawful for any person to catch, gather, capture or possess mature milkfish or "sabalo" and such other breeders or spawners of other fishery species as may be determined by the Department: Provided, That catching of "sabalo" and other breeders/spawners for local breeding purposes or scientific or research purposes may be allowed subject to guidelines to be promulgated by the Department.
 
 Violation of the provision of this section shall be punished by imprisonment of six (6) months and one (1) day to eight (8) years and/or a fine of Eighty thousand pesos (P80,000.00) and forfeiture of the catch, and fishing equipment used and revocation of license.
 
-**Section 99._Exportation of Breeders, Spawners, Eggs or Fry._** \- Exportation of breeders, spawners, eggs or fry as prohibited in this Code shall be punished by imprisonment of eight (8) years, confiscation of the same or a fine equivalent to double the value of the same, and revocation of the fishing and/or export license/permit.
+#### Section 99
 
-**Section 100._Importation or Exportation of Fish or Fishery Species._** \- Any importation or exportation of fish or fisheries species in violation of this Code shall be punished by eight (8) years of imprisonment, a fine of Eighty thousand pesos (P80,000.00) and destruction of live fishery species or forfeiture of non-live fishery species in favor of the department for its proper disposition: Provided, That violator of this provision shall be banned from being members or stock holders of companies currently engaged in fisheries or companies to be created in the future, the guidelines for which shall be promulgated by the Department.
+_Exportation of Breeders, Spawners, Eggs or Fry._ \- Exportation of breeders, spawners, eggs or fry as prohibited in this Code shall be punished by imprisonment of eight (8) years, confiscation of the same or a fine equivalent to double the value of the same, and revocation of the fishing and/or export license/permit.
 
-**Section 101._Violation of Catch Ceilings._** \- It shall be unlawful for any person to fish in violation of catch ceilings as determined by the Department. Violation of the provision of this section shall be punished by imprisonment of six (6) months and one (1) day to six (6) years and/or a fine of Fifty thousand pesos (P50,000.00) and forfeiture of the catch, and fishing equipment used and revocation of license.
+#### Section 100
 
-**Section 102._Aquatic Pollution._** \- Aquatic pollution, as defined in this Code shall be unlawful.
+_Importation or Exportation of Fish or Fishery Species._ \- Any importation or exportation of fish or fisheries species in violation of this Code shall be punished by eight (8) years of imprisonment, a fine of Eighty thousand pesos (P80,000.00) and destruction of live fishery species or forfeiture of non-live fishery species in favor of the department for its proper disposition: Provided, That violator of this provision shall be banned from being members or stock holders of companies currently engaged in fisheries or companies to be created in the future, the guidelines for which shall be promulgated by the Department.
+
+#### Section 101
+
+_Violation of Catch Ceilings._ \- It shall be unlawful for any person to fish in violation of catch ceilings as determined by the Department. Violation of the provision of this section shall be punished by imprisonment of six (6) months and one (1) day to six (6) years and/or a fine of Fifty thousand pesos (P50,000.00) and forfeiture of the catch, and fishing equipment used and revocation of license.
+
+#### Section 102
+
+_Aquatic Pollution._ \- Aquatic pollution, as defined in this Code shall be unlawful.
 
 Violation of the provision of this section shall be punished by imprisonment of six (6) years and one (1) day to twelve (12) years and/or a fine of Eighty thousand pesos (P80,000.00) plus an additional fine of Eight thousand pesos (P8,000.00) per day until such violation ceases and the fines paid.
 
-**Section 103._Other Violations._** \- The following fisheries activities shall also be considered as a violation of this Code:
+#### Section 103
+
+_Other Violations._ \- The following fisheries activities shall also be considered as a violation of this Code:
 
 (a) Failure to Comply with Minimum Safety Standards. - The owner and captain of a commercial fishing vessel engaged in fishing who, upon demand by proper authorities, fails to exhibit or show proof of compliance with the safety standards provided in this Code, shall be immediately prevented from continuing with his fishing activity and escorted to the nearest port or landing point. The license to operate the commercial fishing vessel shall be suspended until the safety standard has been complied with.
 
@@ -799,43 +1005,73 @@ Every penalty imposed for the commission of an offense shall carry with it the f
 
 Such proceeds and instruments or tools shall be confiscated and forfeited in favor of the Government, unless they be the property of a third person not liable for the offense, but those articles which are not subject of lawful commerce shall be destroyed.
 
-**Section 104._Commercial Fishing Vessel Operators Employing Unlicensed Fisherfolk or Fishworker or Crew._** \- The owner/operator of a commercial fishing vessel employing unlicensed fisherfolk or fishworker shall be fined Five hundred pesos (P500.00) each for every month that the same has been employed and/or One thousand pesos (P1,000.00) for every month for each unlicensed crew member who has been employed.
+#### Section 104
 
-**Section 105._Obstruction of Defined Migration Paths._** \- Obstruction of any defined migration paths of anadromous, catadromous and other migratory species, in areas including, but not limited to river mouths and estuaries within a distance determined by the concerned FARMCs shall be punished by imprisonment of seven (7) years to twelve (12) years or a fine from Fifty thousand pesos (P50,000.00) to One hundred thousand pesos (P100,000.00)or both imprisonment and fine at the discretion of the court, and cancellation of permit/license, if any, and dismantling of obstruction shall be at his own expense and confiscation of same.
+_Commercial Fishing Vessel Operators Employing Unlicensed Fisherfolk or Fishworker or Crew._ \- The owner/operator of a commercial fishing vessel employing unlicensed fisherfolk or fishworker shall be fined Five hundred pesos (P500.00) each for every month that the same has been employed and/or One thousand pesos (P1,000.00) for every month for each unlicensed crew member who has been employed.
 
-**Section 106._Obstruction to Fishery Law Enforcement Officer._** \- The boat owner, master or operator or any person acting on his behalf of any fishing vessel who evades, obstructs or hinders any fishery law enforcement officer of the Department to perform his duty, shall be fined Ten thousand pesos (P10,000.00). In addition, the registration, permit and/or license of the vessel including the license of the master fisherman shall be canceled.
+#### Section 105
 
-**Section 107._Promulgation of Administrative Orders._** \- For purposes of fishery regulation or other fishery adjustments, the Department in consultation with the LGUs and local FARMCs, shall issue Fishery Administrative Orders or regulations for the conservation, preservation, management and sustainable development of fishery and aquatic resources.
+_Obstruction of Defined Migration Paths._ \- Obstruction of any defined migration paths of anadromous, catadromous and other migratory species, in areas including, but not limited to river mouths and estuaries within a distance determined by the concerned FARMCs shall be punished by imprisonment of seven (7) years to twelve (12) years or a fine from Fifty thousand pesos (P50,000.00) to One hundred thousand pesos (P100,000.00)or both imprisonment and fine at the discretion of the court, and cancellation of permit/license, if any, and dismantling of obstruction shall be at his own expense and confiscation of same.
+
+#### Section 106
+
+_Obstruction to Fishery Law Enforcement Officer._ \- The boat owner, master or operator or any person acting on his behalf of any fishing vessel who evades, obstructs or hinders any fishery law enforcement officer of the Department to perform his duty, shall be fined Ten thousand pesos (P10,000.00). In addition, the registration, permit and/or license of the vessel including the license of the master fisherman shall be canceled.
+
+#### Section 107
+
+_Promulgation of Administrative Orders._ \- For purposes of fishery regulation or other fishery adjustments, the Department in consultation with the LGUs and local FARMCs, shall issue Fishery Administrative Orders or regulations for the conservation, preservation, management and sustainable development of fishery and aquatic resources.
 
 ## CHAPTER VII — General Provisions
 
-**Section 108._Fisherfolk Settlement Areas._** \- The Department shall establish and create fisherfolk settlement areas in coordination with concerned agencies of the government, where certain areas of the public domain, specifically near the fishing grounds, shall be reserved for the settlement of the municipal fisherfolk. Nothing in this section shall be construed to vest ownership of any resettlement area to a municipal fisherfolk for whom said areas may have been reserved for or had been actually granted to.
+#### Section 108
 
-**Section 109._Municipal Fisheries Grant Fund._** \- For the development, management and conservation of the municipal resources, there is hereby created a Fishery Grant Fund to finance fishery projects of the LGUs primarily for the upliftment of the municipal fisherfolk. The amount of One hundred million pesos (P100,000,000.00) is hereby appropriated out of the Department's allocation in the General Appropriations Act (GAA) to support the Grant Fund.
+_Fisherfolk Settlement Areas._ \- The Department shall establish and create fisherfolk settlement areas in coordination with concerned agencies of the government, where certain areas of the public domain, specifically near the fishing grounds, shall be reserved for the settlement of the municipal fisherfolk. Nothing in this section shall be construed to vest ownership of any resettlement area to a municipal fisherfolk for whom said areas may have been reserved for or had been actually granted to.
+
+#### Section 109
+
+_Municipal Fisheries Grant Fund._ \- For the development, management and conservation of the municipal resources, there is hereby created a Fishery Grant Fund to finance fishery projects of the LGUs primarily for the upliftment of the municipal fisherfolk. The amount of One hundred million pesos (P100,000,000.00) is hereby appropriated out of the Department's allocation in the General Appropriations Act (GAA) to support the Grant Fund.
 
 For this purpose, the Department may seek financial assistance from any source and may receive any donation therefore.
 
-**Section 110._Fishery Loan and Guarantee Fund._** \- Pursuant to Section 7, Article XIII of the Constitution, there is hereby created a Fishery Loan and Guarantee Fund with an initial of One hundred million pesos (P100,000,000.00), which shall be administered by the Land Bank of the Philippines. The fund shall be made available for lending to qualified borrowers to finance the development of the fishery industry under a program to be prescribed by the Department.
+#### Section 110
+
+_Fishery Loan and Guarantee Fund._ \- Pursuant to Section 7, Article XIII of the Constitution, there is hereby created a Fishery Loan and Guarantee Fund with an initial of One hundred million pesos (P100,000,000.00), which shall be administered by the Land Bank of the Philippines. The fund shall be made available for lending to qualified borrowers to finance the development of the fishery industry under a program to be prescribed by the Department.
 
 For the same purpose, the Department may seek financial assistance from any source and may receive any donation therefrom.
 
-**Section 111._Fishing Vessels Development Fund._** \- There is hereby created a Fishing Vessels Development Fund to enhance the building and/or acquisition of fishing vessels. This shall be a long-term loan facility that shall be administered by the Development Bank of the Philippines. The amount of Two hundred and fifty million pesos (P250,000,000.00) per year for five (5) years is hereby appropriated out of the Department's allocation in the GAA to support this Development Fund.
+#### Section 111
 
-**Section 112._Special Fisheries Science and Approfishtech Fund._** \- The Department shall provide subsidy for full technical and financial support to the development of appropriate technology, both in fishery and ancillary industries, that are ecologically sound, locally source-based and labor intensive, based on the requirement and needs of the FARMCs. An initial amount of One hundred million pesos (100,000,000.00) shall be authorized for the purpose of a Special Fisheries Science and Approfishtech Fund, and thereafter shall be included in the GAA.
+_Fishing Vessels Development Fund._ \- There is hereby created a Fishing Vessels Development Fund to enhance the building and/or acquisition of fishing vessels. This shall be a long-term loan facility that shall be administered by the Development Bank of the Philippines. The amount of Two hundred and fifty million pesos (P250,000,000.00) per year for five (5) years is hereby appropriated out of the Department's allocation in the GAA to support this Development Fund.
 
-**Section 113._Aquaculture Investment Fund._** \- An Aquaculture Investment Fund in the minimum amount of Fifty million pesos (P50,000,000.00) shall be established for soft loans which shall be extended to municipal fisherfolk and their organization who will engage in aquaculture, and for the development of underdeveloped or underutilized inland fishponds.
+#### Section 112
 
-**Section 114._Other Fisheries Financing Facilities._** \- In addition to fisheries credit guarantee, grant and other similar facilities granted under this Code, qualified Filipino fisherfolk and fisheries enterprises shall enjoy such other facilities granted them under existing and/or new laws, specially as to rural credit, with preference being given to fisheries cooperatives.
+_Special Fisheries Science and Approfishtech Fund._ \- The Department shall provide subsidy for full technical and financial support to the development of appropriate technology, both in fishery and ancillary industries, that are ecologically sound, locally source-based and labor intensive, based on the requirement and needs of the FARMCs. An initial amount of One hundred million pesos (100,000,000.00) shall be authorized for the purpose of a Special Fisheries Science and Approfishtech Fund, and thereafter shall be included in the GAA.
 
-**Section 115._Professionalization of Fisheries Graduates._** \- There is hereby created a Fisheries Board of Examiners in the Professional Regulation Commission to upgrade the Fisheries Profession: Provided, however, That those who have passed the Civil Service Examination for Fisheries shall automatically be granted eligibility by the Fisheries Board of Examiners: Provided, further, That they have served the industry in either public or private capacity for not less than five (5) years: Provided, finally, That the first Board Examination for B.S. Fisheries Graduates shall be conducted within one (1) year from the approval of this Code.
+#### Section 113
 
-**Section 116._Upgrading of State Fisheries Schools/Colleges._** \- The Department, in coordination with the Commission on Higher Education (CHED), Department of Education, Culture and Sports (DECS), and Technical Education and Skills Development Authority (TESDA), shall upgrade State Fisheries Schools/Colleges which provide both formal and non-formal education: Provided, however, That the CHED shall incorporate Approfishtech in the curricula of fisheries schools/colleges.
+_Aquaculture Investment Fund._ \- An Aquaculture Investment Fund in the minimum amount of Fifty million pesos (P50,000,000.00) shall be established for soft loans which shall be extended to municipal fisherfolk and their organization who will engage in aquaculture, and for the development of underdeveloped or underutilized inland fishponds.
+
+#### Section 114
+
+_Other Fisheries Financing Facilities._ \- In addition to fisheries credit guarantee, grant and other similar facilities granted under this Code, qualified Filipino fisherfolk and fisheries enterprises shall enjoy such other facilities granted them under existing and/or new laws, specially as to rural credit, with preference being given to fisheries cooperatives.
+
+#### Section 115
+
+_Professionalization of Fisheries Graduates._ \- There is hereby created a Fisheries Board of Examiners in the Professional Regulation Commission to upgrade the Fisheries Profession: Provided, however, That those who have passed the Civil Service Examination for Fisheries shall automatically be granted eligibility by the Fisheries Board of Examiners: Provided, further, That they have served the industry in either public or private capacity for not less than five (5) years: Provided, finally, That the first Board Examination for B.S. Fisheries Graduates shall be conducted within one (1) year from the approval of this Code.
+
+#### Section 116
+
+_Upgrading of State Fisheries Schools/Colleges._ \- The Department, in coordination with the Commission on Higher Education (CHED), Department of Education, Culture and Sports (DECS), and Technical Education and Skills Development Authority (TESDA), shall upgrade State Fisheries Schools/Colleges which provide both formal and non-formal education: Provided, however, That the CHED shall incorporate Approfishtech in the curricula of fisheries schools/colleges.
 
 The Department and the CHED shall jointly formulate standards to upgrade all fisheries schools/colleges. Fisheries schools/colleges that do not meet minimum standards shall be closed.
 
-**Section 117._Inclusion of Fisheries Conservation Subjects in School Curriculum._** \- Fisheries conservation subjects shall be incorporated in the curricula of elementary and secondary schools both private and public.
+#### Section 117
 
-**Section 118._Educational campaign at all levels._** \- The Department, the CHED, the DECS and the Philippine Information Agency shall launch and pursue a nationwide educational campaign to:
+_Inclusion of Fisheries Conservation Subjects in School Curriculum._ \- Fisheries conservation subjects shall be incorporated in the curricula of elementary and secondary schools both private and public.
+
+#### Section 118
+
+_Educational campaign at all levels._ \- The Department, the CHED, the DECS and the Philippine Information Agency shall launch and pursue a nationwide educational campaign to:
 
 (a) help realize the policies and implement the provisions of this Code;
 
@@ -845,7 +1081,9 @@ The Department and the CHED shall jointly formulate standards to upgrade all fis
 
 (d) promote the development of truly Filipino-oriented fishing and ancillary industries.
 
-**Section 119._Infrastructure Support._** \- The Department in cooperation with concerned agencies shall:
+#### Section 119
+
+_Infrastructure Support._ \- The Department in cooperation with concerned agencies shall:
 
 (a) prepare and implement a nationwide plan for the development of municipal fishing ports and markets;
 
@@ -861,29 +1099,49 @@ The Department and the CHED shall jointly formulate standards to upgrade all fis
 
 (g) promote and strengthen local fisheries ship-building and repair industry.
 
-**Section 120._Extension Services._** \- The Department shall develop cost-effective, practical and efficient extension services on a sustained basis, in addition to those provided by state educational institutions, especially to municipal fisherfolk in undeveloped areas, utilizing practicable and indigenous resources and government agencies available, and based upon a system of self-reliance and self-help.
+#### Section 120
 
-**Section 121._Protection of Sensitive Technical Information._** \- The Department shall take such measures as may be necessary in order to protect trade, industrial and policy information of Filipino fisherfolk, fisheries owners/operators, entrepreneurs, manufacturers and researchers, when disclosure of such information will injure the competitiveness or viability of domestic fisheries.
+_Extension Services._ \- The Department shall develop cost-effective, practical and efficient extension services on a sustained basis, in addition to those provided by state educational institutions, especially to municipal fisherfolk in undeveloped areas, utilizing practicable and indigenous resources and government agencies available, and based upon a system of self-reliance and self-help.
 
-**Section 122._Assistance in Collecting Information._** \- The Department, in coordination with other government entities concerned, may require Filipino representatives abroad and foreign-based personnel to assist in the collection of fisheries data and information.
+#### Section 121
 
-**Section 123._Charting of Navigational Lanes and Delineation of Municipal Waters._** \- The Department shall authorize the National Mapping and Resource Information Authority (NAMRIA) for the designation and charting of navigational lanes in fishery areas and delineation of municipal waters. The Philippine Coast Guard shall exercise control and supervision over such designated navigational lanes.
+_Protection of Sensitive Technical Information._ \- The Department shall take such measures as may be necessary in order to protect trade, industrial and policy information of Filipino fisherfolk, fisheries owners/operators, entrepreneurs, manufacturers and researchers, when disclosure of such information will injure the competitiveness or viability of domestic fisheries.
 
-**Section 124._Persons and Deputies Authorized to Enforce this Code and Other Fishery Laws, Rules and Regulations._** \- The law enforcement officers of the Department, the Philippine Navy, Philippine Coast Guard, Philippine National Police (PNP), PNP-Maritime Command, law enforcement officers of the LGUs and other government enforcement agencies, are hereby authorized to enforce this Code and other fishery laws, rules and regulations. Other competent government officials and employees, punong barangays and officers and members of fisherfolk associations who have undergone training on law enforcement may be designated in writing by the Department as deputy fish wardens in the enforcement of this Code and other fishery laws, rules and regulations.
+#### Section 122
 
-**Section 125._Strengthening Prosecution and Conviction of Violators of Fishery Laws._** \- The Department of Justice (DOJ) shall embark on a program to strengthen the prosecution and conviction aspects of fishery law enforcement through augmentation of the current complement of state prosecutors and through their continuous training and reorientation on fishery laws, rules and regulations.
+_Assistance in Collecting Information._ \- The Department, in coordination with other government entities concerned, may require Filipino representatives abroad and foreign-based personnel to assist in the collection of fisheries data and information.
 
-**Section 126._Foreign Grants and Aids._** \- All foreign grants, aids, exchange programs, loans, researches and the like shall be evaluated and regulated by the Department to ensure that such are consistent with the Filipinization, democratization and industrialization of fishing industry and the development of the entire country.
+#### Section 123
 
-**Section 127._Mandatory Review._** \- The Congress of the Philippines shall undertake a mandatory review of this Code at least once every five (5) years and as often as it may deem necessary, to ensure that fisheries policies and guidelines remain responsive to changing circumstances.
+_Charting of Navigational Lanes and Delineation of Municipal Waters._ \- The Department shall authorize the National Mapping and Resource Information Authority (NAMRIA) for the designation and charting of navigational lanes in fishery areas and delineation of municipal waters. The Philippine Coast Guard shall exercise control and supervision over such designated navigational lanes.
+
+#### Section 124
+
+_Persons and Deputies Authorized to Enforce this Code and Other Fishery Laws, Rules and Regulations._ \- The law enforcement officers of the Department, the Philippine Navy, Philippine Coast Guard, Philippine National Police (PNP), PNP-Maritime Command, law enforcement officers of the LGUs and other government enforcement agencies, are hereby authorized to enforce this Code and other fishery laws, rules and regulations. Other competent government officials and employees, punong barangays and officers and members of fisherfolk associations who have undergone training on law enforcement may be designated in writing by the Department as deputy fish wardens in the enforcement of this Code and other fishery laws, rules and regulations.
+
+#### Section 125
+
+_Strengthening Prosecution and Conviction of Violators of Fishery Laws._ \- The Department of Justice (DOJ) shall embark on a program to strengthen the prosecution and conviction aspects of fishery law enforcement through augmentation of the current complement of state prosecutors and through their continuous training and reorientation on fishery laws, rules and regulations.
+
+#### Section 126
+
+_Foreign Grants and Aids._ \- All foreign grants, aids, exchange programs, loans, researches and the like shall be evaluated and regulated by the Department to ensure that such are consistent with the Filipinization, democratization and industrialization of fishing industry and the development of the entire country.
+
+#### Section 127
+
+_Mandatory Review._ \- The Congress of the Philippines shall undertake a mandatory review of this Code at least once every five (5) years and as often as it may deem necessary, to ensure that fisheries policies and guidelines remain responsive to changing circumstances.
 
 ## CHAPTER VIII — Transitory Provisions
 
-**Section 128._Moratoria._** \- The Department shall, upon the recommendation of the Bureau, have the power to declare a moratorium on the issuance of licenses for commercial fishing vessels to operate in specified area or areas in Philippine waters for a limited period of time if there are indications of overfishing brought about by a decrease in the volume and sizes of fish caught therein or for conservation or ecological purposes.
+#### Section 128
+
+_Moratoria._ \- The Department shall, upon the recommendation of the Bureau, have the power to declare a moratorium on the issuance of licenses for commercial fishing vessels to operate in specified area or areas in Philippine waters for a limited period of time if there are indications of overfishing brought about by a decrease in the volume and sizes of fish caught therein or for conservation or ecological purposes.
 
 No new licenses and similar privileges on exploitation of specific fishery areas in Philippine waters and aquaculture production areas shall be issued in accordance with this Code. Such moratoria shall not exceed five (5) years from the effectivity of this Code.
 
-**Section 129._Formulation of Implementing Rules and Regulations._** \- An Inter-agency Committee is hereby created to formulate rules and regulations for the full implementation of this Code within ninety (90) days of its effectivity: Provided, however, That the formulated rules and regulations shall be submitted to both Houses of Congress for information and guidance. Such rules and regulations shall take effect upon publication in a newspaper of general circulation.
+#### Section 129
+
+_Formulation of Implementing Rules and Regulations._ \- An Inter-agency Committee is hereby created to formulate rules and regulations for the full implementation of this Code within ninety (90) days of its effectivity: Provided, however, That the formulated rules and regulations shall be submitted to both Houses of Congress for information and guidance. Such rules and regulations shall take effect upon publication in a newspaper of general circulation.
 
 The Inter-agency Committee shall be composed of the following:
 
@@ -921,7 +1179,7 @@ The Inter-agency Committee shall be composed of the following:
 
 (a.4) The Liga ng mga Barangay;
 
-(n) Representative of the municipal fisherfolk;lawphi1™
+(n) Representative of the municipal fisherfolk;
 
 (o) Representative of the commercial fishers;
 
@@ -931,12 +1189,20 @@ The Inter-agency Committee shall be composed of the following:
 
 ## CHAPTER IX — Final Provisions
 
-**Section 130._Appropriation._** \- The sum necessary to effectively carry out the provisions of this Act during the first year of implementation shall be sourced from the budget of the DA/BFAR and other agencies performing fisheries-related functions: Provided, however, That such amount as may be necessary to carry out the provisions of Sections 79, 109, 110, 111, 112, 113 are hereby appropriated out of the unappropriated funds of the National Treasury. The Congress of the Philippines shall provide for the appropriations of the Department, the NFRDI and the Fisheries Scholarship Program for the succeeding years to be included in the annual GAA.
+#### Section 130
 
-**Section 131._Repealing Clause._** \- Presidential Decree No. 704, as amended by Presidential Decree Nos. 1015 and 1058, Presidential Decree No. 977, as amended, Executive Order No. 967, Series of 1984, Executive Order No. 116, Series of 1987, Executive Order No. 292, Series of 1987, Executive Order No. 473, Series of 1991 and other existing laws except Republic Act No. 7611, decrees, executive orders, and rules and regulations or parts thereof, which are inconsistent with this Code, are hereby repealed or modified accordingly.
+_Appropriation._ \- The sum necessary to effectively carry out the provisions of this Act during the first year of implementation shall be sourced from the budget of the DA/BFAR and other agencies performing fisheries-related functions: Provided, however, That such amount as may be necessary to carry out the provisions of Sections 79, 109, 110, 111, 112, 113 are hereby appropriated out of the unappropriated funds of the National Treasury. The Congress of the Philippines shall provide for the appropriations of the Department, the NFRDI and the Fisheries Scholarship Program for the succeeding years to be included in the annual GAA.
 
-**Section 132._Separability Clause._** \- If any portion or provision of this Code is declared unconstitutional or invalid, the other portions or provisions hereof, which are not affected thereby, shall continue in full force and effect.
+#### Section 131
 
-**Section 133._Effectivity._** \- This Code shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general publication.
+_Repealing Clause._ \- Presidential Decree No. 704, as amended by Presidential Decree Nos. 1015 and 1058, Presidential Decree No. 977, as amended, Executive Order No. 967, Series of 1984, Executive Order No. 116, Series of 1987, Executive Order No. 292, Series of 1987, Executive Order No. 473, Series of 1991 and other existing laws except Republic Act No. 7611, decrees, executive orders, and rules and regulations or parts thereof, which are inconsistent with this Code, are hereby repealed or modified accordingly.
 
-Approved: **February 25, 1998** lawphi1™
+#### Section 132
+
+_Separability Clause._ \- If any portion or provision of this Code is declared unconstitutional or invalid, the other portions or provisions hereof, which are not affected thereby, shall continue in full force and effect.
+
+#### Section 133
+
+_Effectivity._ \- This Code shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general publication.
+
+Approved: **February 25, 1998**

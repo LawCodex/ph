@@ -28,11 +28,17 @@ AN ACT ENHANCING REVENUE ADMINISTRATION AND COLLECTION BY GRANTING AN AMNESTY ON
 
 _Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled_ :
 
-**SECTION 1._Coverage._** — There is hereby authorized and granted a tax amnesty which shall cover all national internal revenue taxes for the taxable year 2005 and prior years, with or without assessments duly issued therefore, that have remained unpaid as of December 31, 2005: Provided, however, That the amnesty hereby authorized and granted shall not cover persons or cases enumerated under Section 8 hereof.
+## SECTION 1
 
-**SEC. 2._Availment of the Amnesty._** — Any person, natural or juridical, who wishes to avail himself of the tax amnesty authorized and granted under this Act shall file with the Bureau of Internal Revenue (BIR) a notice and Tax Amnesty Return accompanied by a Statement of Assets, Liabilities and Networth (SALN) as of December 31, 2005, in such form as may be prescribed in the implementing rules and regulations (IRR) of this Act, and pay the applicable amnesty tax within six months from the effectivity of the IRR.
+_Coverage._ — There is hereby authorized and granted a tax amnesty which shall cover all national internal revenue taxes for the taxable year 2005 and prior years, with or without assessments duly issued therefore, that have remained unpaid as of December 31, 2005: Provided, however, That the amnesty hereby authorized and granted shall not cover persons or cases enumerated under Section 8 hereof.
 
-**SEC. 3._What to Declare in the SALN._** — The SALN shall contain a declaration of the assets, liabilities and networth as of December 31, 2005, as follows:
+## SEC. 2
+
+_Availment of the Amnesty._ — Any person, natural or juridical, who wishes to avail himself of the tax amnesty authorized and granted under this Act shall file with the Bureau of Internal Revenue (BIR) a notice and Tax Amnesty Return accompanied by a Statement of Assets, Liabilities and Networth (SALN) as of December 31, 2005, in such form as may be prescribed in the implementing rules and regulations (IRR) of this Act, and pay the applicable amnesty tax within six months from the effectivity of the IRR.
+
+## SEC. 3
+
+_What to Declare in the SALN._ — The SALN shall contain a declaration of the assets, liabilities and networth as of December 31, 2005, as follows:
 
 1\. Assets within or without the Philippines, whether real or personal, tangible or intangible, whether or not used in trade or business: Provided, That property other than money shall be valued at the cost at which the property was acquired: Provided, further, That foreign currency assets and/or securities shall be valued at the rate of exchange prevailing as of the date of the SALN;
 
@@ -40,9 +46,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 3\. The networth of the taxpayer, which shall be the difference between the total assets and total liabilities.
 
-**SEC. 4._Presumption of Correctness of the SALN._** — The SALN as of December 31, 2005 shall be considered as true and correct except where the amount of declared networth is understated to the extent of thirty percent (30%) or more as may be established in proceedings initiated by, or at the instance of, parties other than the BIR of its agents: Provided, That such proceedings must be initiated within one year following the date of the filing of the tax amnesty return and the SALN. Findings of or admission in congressional hearings, other administrative agencies of government, and/or courts shall be admissible to prove a thirty percent (30%) under-declaration.
+## SEC. 4
 
-**SEC. 5._Grant of Tax Amnesty._** — Except for the persons or cases covered in Section 8 hereof, any person, whether natural or juridical, may avail himself of the benefits of tax amnesty under this Act, and pay the amnesty tax due thereon, based on his networth as of December 31, 2005 as declared in the SALN as of said period, in accordance with the following schedule of amnesty tax rates and minimum amnesty tax payments required:
+_Presumption of Correctness of the SALN._ — The SALN as of December 31, 2005 shall be considered as true and correct except where the amount of declared networth is understated to the extent of thirty percent (30%) or more as may be established in proceedings initiated by, or at the instance of, parties other than the BIR of its agents: Provided, That such proceedings must be initiated within one year following the date of the filing of the tax amnesty return and the SALN. Findings of or admission in congressional hearings, other administrative agencies of government, and/or courts shall be admissible to prove a thirty percent (30%) under-declaration.
+
+## SEC. 5
+
+_Grant of Tax Amnesty._ — Except for the persons or cases covered in Section 8 hereof, any person, whether natural or juridical, may avail himself of the benefits of tax amnesty under this Act, and pay the amnesty tax due thereon, based on his networth as of December 31, 2005 as declared in the SALN as of said period, in accordance with the following schedule of amnesty tax rates and minimum amnesty tax payments required:
 
 <table>
 <tr>
@@ -82,7 +92,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 </tr>
 </table>
 
-**SEC. 6._Immunities and Privileges._** — Those who availed themselves of the tax amnesty under Section 5 hereof, and have fully complied with all its conditions shall be entitled to the following immunities and privileges:
+## SEC. 6
+
+_Immunities and Privileges._ — Those who availed themselves of the tax amnesty under Section 5 hereof, and have fully complied with all its conditions shall be entitled to the following immunities and privileges:
 
 1\. The taxpayer shall be immune from the payment of taxes, as well as addition thereto, and the appurtenant civil, criminal or administrative penalties under the National Internal Revenue Code of 1997, as amended, arising from the failure to pay any and all internal revenue taxes for taxable year 2005 and prior years.
 
@@ -92,9 +104,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 All these immunities and privileges shall not apply where the person failed to file a SALN and the Tax Amnesty Return, or where the amount of networth as of December 31, 2005 is proven to be understated to the extent of thirty percent (30%) or more, in accordance with the provisions of Section 3 hereof.
 
-**SEC. 7._When and Where to File and Pay._** — The filing of the Tax Amnesty Return and the payment of the amnesty tax for those availing themselves of the tax amnesty shall be made within six months starting from the effectivity of the IRR. It shall be filed at the office of the Revenue District Officer which has jurisdiction over the legal residence or principal place of business of the filer. The Revenue District Officer shall issue an acceptance of payment form authorizing an authorized agent bank, or in the absence thereof, the collection agent or municipal treasurer concerned, to accept the amnesty tax payment
+## SEC. 7
 
-**SEC. 8._Exceptions._** — The tax amnesty provided in Section 5 hereof shall not extend to the following persons or cases existing as of the effectivity of this Act:
+_When and Where to File and Pay._ — The filing of the Tax Amnesty Return and the payment of the amnesty tax for those availing themselves of the tax amnesty shall be made within six months starting from the effectivity of the IRR. It shall be filed at the office of the Revenue District Officer which has jurisdiction over the legal residence or principal place of business of the filer. The Revenue District Officer shall issue an acceptance of payment form authorizing an authorized agent bank, or in the absence thereof, the collection agent or municipal treasurer concerned, to accept the amnesty tax payment
+
+## SEC. 8
+
+_Exceptions._ — The tax amnesty provided in Section 5 hereof shall not extend to the following persons or cases existing as of the effectivity of this Act:
 
 1\. Withholding agents with respects to their withholding tax liabilities;
 
@@ -108,9 +124,13 @@ All these immunities and privileges shall not apply where the person failed to f
 
 6\. Tax cases subject of final and executory judgment by the courts.
 
-**SEC. 9._Unlawful Divulgence of Tax Amnesty Return and Statement of Assets, Liabilities and Networth._** — Except as otherwise provided herein and in Section 14 hereof, it shall be unlawful for any person having knowledge of the Tax Amnesty Return and SALN filed pursuant hereto, to disclose any information relative to such declaration and statement, and any violation hereof shall subject the offender to the penalties under Section 10 (c) of this Act: Provided, however, That the Commissioner of Internal Revenue may disclose the content of the Tax Amnesty Return and the SALN upon the request of Congress pursuant to and in accordance with Section 20(A) or Section 290of the National Internal Revenue Code of 1997, as amended.
+## SEC. 9
 
-**SEC. 10._Penalties._** —
+_Unlawful Divulgence of Tax Amnesty Return and Statement of Assets, Liabilities and Networth._ — Except as otherwise provided herein and in Section 14 hereof, it shall be unlawful for any person having knowledge of the Tax Amnesty Return and SALN filed pursuant hereto, to disclose any information relative to such declaration and statement, and any violation hereof shall subject the offender to the penalties under Section 10 (c) of this Act: Provided, however, That the Commissioner of Internal Revenue may disclose the content of the Tax Amnesty Return and the SALN upon the request of Congress pursuant to and in accordance with Section 20(A) or Section 290of the National Internal Revenue Code of 1997, as amended.
+
+## SEC. 10
+
+_Penalties._ —
 
 1\. Any person who, having filed a statement or Tax Amnesty Return under this Act, willfully understates his networth to the extent of thirty percent (30%) or more shall, upon conviction, be subject to the penalties of perjury under the Revised Penal Code.
 
@@ -124,17 +144,29 @@ In the case of associations, partnerships, or corporations, the penalty shall be
 
 If the offender is an officer or employee of the BIR or any government entity, he/ she shall likewise suffer an additional penalty of perpetual disqualification to hold public office to vote and to participate in any public election.
 
-**SEC. 11._Moratorium on the Grant of Tax Amnesty._** — In order to encourage and improve tax compliance by taxpayers, it is hereby declared the policy of this Congress that the grant of tax amnesty, in whatever manner and form, shall not henceforth be allowed: Provided, That this moratorium shall likewise apply to any administrative tax amnesty by the BIR.
+## SEC. 11
 
-**SEC. 12._Information Management Program._** — For purposes of enhancing revenue administration, revenue collection and policy formulation, the Department of Finance, in coordination with the BIR, Land Registration Authority, Department of Trade and Industry, Securities and Exchange Commission, Land Transportation Office, and other concerned agencies shall institute an Information Management Program for the effective use of information declared or obtainable from the Tax Amnesty Returns and the SALNs required to the filed under this Act.
+_Moratorium on the Grant of Tax Amnesty._ — In order to encourage and improve tax compliance by taxpayers, it is hereby declared the policy of this Congress that the grant of tax amnesty, in whatever manner and form, shall not henceforth be allowed: Provided, That this moratorium shall likewise apply to any administrative tax amnesty by the BIR.
 
-**SEC. 13._Disposition of Proceeds from the Tax Amnesty._** — An amount equivalent to Four hundred million pesos (P400,000,000.00) of the collection from the tax amnesty herein granted shall accrue to the Department of Finance and shall be used exclusively for purposes of instituting a Management Information System as mandated under Section 12 of this Act.
+## SEC. 12
 
-**SEC. 14._Publication of List of Taxpayers and Filers._** — Following the implementation of the tax amnesty authorized and granted under this Act, the provisions of Sections 71 and 270 of the National Internal Revenue Code of 1997, as amended, and Section 26 of Republic Act No. 6388, to the contrary notwithstanding, the Commissioner of Internal Revenue shall, on or before May 31 following the close of each calendar year, prepare a list containing the names of all taxpayers, their gross income and amount of income taxes paid for the immediately preceding taxable year, and allow the publication of the same in at least two newspapers of general circulation or the Bureau of Internal Revenue website.
+_Information Management Program._ — For purposes of enhancing revenue administration, revenue collection and policy formulation, the Department of Finance, in coordination with the BIR, Land Registration Authority, Department of Trade and Industry, Securities and Exchange Commission, Land Transportation Office, and other concerned agencies shall institute an Information Management Program for the effective use of information declared or obtainable from the Tax Amnesty Returns and the SALNs required to the filed under this Act.
 
-**SEC. 15._Implementing Rules and Regulations._** — The Secretary of Finance shall, in coordination with the Commissioner of Internal Revenue, promulgate and publish the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
+## SEC. 13
 
-**SEC. 16._Effectivity._** — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two newspapers of general circulation, whichever comes earlier.
+_Disposition of Proceeds from the Tax Amnesty._ — An amount equivalent to Four hundred million pesos (P400,000,000.00) of the collection from the tax amnesty herein granted shall accrue to the Department of Finance and shall be used exclusively for purposes of instituting a Management Information System as mandated under Section 12 of this Act.
+
+## SEC. 14
+
+_Publication of List of Taxpayers and Filers._ — Following the implementation of the tax amnesty authorized and granted under this Act, the provisions of Sections 71 and 270 of the National Internal Revenue Code of 1997, as amended, and Section 26 of Republic Act No. 6388, to the contrary notwithstanding, the Commissioner of Internal Revenue shall, on or before May 31 following the close of each calendar year, prepare a list containing the names of all taxpayers, their gross income and amount of income taxes paid for the immediately preceding taxable year, and allow the publication of the same in at least two newspapers of general circulation or the Bureau of Internal Revenue website.
+
+## SEC. 15
+
+_Implementing Rules and Regulations._ — The Secretary of Finance shall, in coordination with the Commissioner of Internal Revenue, promulgate and publish the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
+
+## SEC. 16
+
+_Effectivity._ — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two newspapers of general circulation, whichever comes earlier.
 
 Approved,
 

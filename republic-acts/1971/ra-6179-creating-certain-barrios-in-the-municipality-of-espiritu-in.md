@@ -28,7 +28,7 @@ The following sitios in the Municipality of Espiritu, Province of Ilocos Norte, 
 
 1\. The sitios of Santo Nino, San Pedro, Santa Maria, and Santa Ana in Barrio Caestehanan, and the sitio of San Jose in Barrio Capacacan, all in the Municipality of Espiritu, Province of Ilocos Norte, are separated from said barrios and constituted into a distinct and independent barrio of said municipality, to be known as Barrio Ferdinand; and
 
-2\. The sitios of San Juan, Dispenza, and Nanamburan in Barrio Caribquib, Municipality of Espiritu, Province of Ilocos Norte, are separated from said barrio and constituted into a distinct and independent barrio of said municipality to be known as Barrio San Simeon.1âшphi1
+2\. The sitios of San Juan, Dispenza, and Nanamburan in Barrio Caribquib, Municipality of Espiritu, Province of Ilocos Norte, are separated from said barrio and constituted into a distinct and independent barrio of said municipality to be known as Barrio San Simeon.
 
 ## Section 2
 

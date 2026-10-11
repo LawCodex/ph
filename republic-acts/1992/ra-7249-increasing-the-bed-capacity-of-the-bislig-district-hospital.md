@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Bislig District Hospital in the Municipality of Bislig, Province of Surigao del Sur, is hereby increased from twenty-five (25) to fifty (50) beds under the supervision of the Department of Health.1âшphi1
+The bed capacity of the Bislig District Hospital in the Municipality of Bislig, Province of Surigao del Sur, is hereby increased from twenty-five (25) to fifty (50) beds under the supervision of the Department of Health.
 
 ## Section 2
 

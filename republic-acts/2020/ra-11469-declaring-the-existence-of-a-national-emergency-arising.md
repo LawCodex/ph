@@ -73,7 +73,7 @@ i. Public health facilities in the regions, provinces, or cities, that are desig
 
 ii. Private hospitals which have existing capacities to provide support care and treatment to COVID-19 patients; and
 
-iii. Public and private laboratories that have existing capacities to test suspected COVID-19 patients.ℒαwρhi৷
+iii. Public and private laboratories that have existing capacities to test suspected COVID-19 patients.
 
 (2) Goods and services for social amelioration measures in favor of affected communities;
 
@@ -125,7 +125,7 @@ iii. Public and private laboratories that have existing capacities to test suspe
 
 (9) Under allocations to local government units;
 
-(10) Quick Response Funds lodged in the various relevant departments, such as, but not limited to the DOH and DSWD.ℒαwρhi৷
+(10) Quick Response Funds lodged in the various relevant departments, such as, but not limited to the DOH and DSWD.
 
 Notwithstanding the provisions of this Act, the discontinued program, activity or project may be revived at any time after the national emergency has ceased, and notwithstanding Section 67 of Republic Act No. 11465 or the "General Appropriations Act of 2020", may be revived and proposed for funding within the next two (2) fiscal years;
 
@@ -208,30 +208,30 @@ Otherwise Known as the "Bavanihan to Heal As One Act"
 RULE I  
 PRELIMINARY PROVISIONS
 
-## Section 1.01
+## Section 1
 
-_Title._ These rules ("Rules") shall be known and cited as the _Implementing Rules and Regulations_ of Section 4 (aa) of Republic Act No. 11469, otherwise known as the "Bayanihan to Heal as One Act".
+01. _Title._ These rules ("Rules") shall be known and cited as the _Implementing Rules and Regulations_ of Section 4 (aa) of Republic Act No. 11469, otherwise known as the "Bayanihan to Heal as One Act".
 
-## Section 1.02
+## Section 1
 
-_Purpose._ These Rules are issued to prescribe the guidelines and procedure for the implementation of Section 4(aa) of the "Bayanihan to Heal as One Act".
+02. _Purpose._ These Rules are issued to prescribe the guidelines and procedure for the implementation of Section 4(aa) of the "Bayanihan to Heal as One Act".
 
-## Section 1.03
+## Section 1
 
-_Interpretation Clause._ These Rules shall be interpreted to harmonize with Section 4 (n) of the "Bayanihan to Heal as One Act" which provides that the President shall have the power to "ensure the availability of credit to the productive sectors of the economy especially in the countryside through measures such as, but not limited to, lowering the effective lending rates of interest and reserve requirements of lending institutions".
+03 _Interpretation Clause._ These Rules shall be interpreted to harmonize with Section 4 (n) of the "Bayanihan to Heal as One Act" which provides that the President shall have the power to "ensure the availability of credit to the productive sectors of the economy especially in the countryside through measures such as, but not limited to, lowering the effective lending rates of interest and reserve requirements of lending institutions".
 
 Moreover, these rules shall be liberally construed to ensure the fulfillment of the policy objective of Section 4(aa) of the "Bayanihan to Heal as One Act”.
 
-## Section 1.04
+## Section 1
 
-_Declaration of Policy._ The COV1D-I9 pandemic has greatly affected nations worldwide, including the Philippines, and has caused and is continuing to cause loss of lives and disruption to the economy. Thus, there is an urgent need, among other things, to: (a) undertake a program for recovery and rehabilitation, including a social amelioration program and provision of safety nets to all affected sectors; (b) partner with the private sector and other stakeholders to deliver these measures and programs quickly and efficiently: and (c) promote and protect the collective interests of all Filipinos in these challenging times.
+04. _Declaration of Policy._ The COV1D-I9 pandemic has greatly affected nations worldwide, including the Philippines, and has caused and is continuing to cause loss of lives and disruption to the economy. Thus, there is an urgent need, among other things, to: (a) undertake a program for recovery and rehabilitation, including a social amelioration program and provision of safety nets to all affected sectors; (b) partner with the private sector and other stakeholders to deliver these measures and programs quickly and efficiently: and (c) promote and protect the collective interests of all Filipinos in these challenging times.
 
 RULE II  
 DEFINITION OF TERMS
 
-## Section 2.01
+## Section 2
 
-_Definition of Terms._ As used in these Rules, the following terms shall mean:
+01 _Definition of Terms._ As used in these Rules, the following terms shall mean:
 
 (a) "Covered Institutions" shall mean all lenders, including but not limited to banks. quasi-banks, non-stock savings and loan associations, credit card issuers, pawnshops and other credit granting financial institutions under the supervision of the Bangko Sentral ng Pilipioas (BSP). Securities and Exchange Commission (SEC), and Cooperative Development Authority, public or private, including the Government Service Insurance System, Social Security System and Pag-ibig Fund.
 
@@ -239,60 +239,60 @@ _Definition of Terms._ As used in these Rules, the following terms shall mean:
 
 (c) "ECQ Period" means the Enhanced Community Quarantine period from 17 March 2020 to 12 April 2020 cited in Proclamation No. 929 dated 16 March 2020.
 
-(d) "Due Date" means the maturity date of the principal and/or interest, including amortizations falling within the ECQ Period.ℒαwρhi৷
+(d) "Due Date" means the maturity date of the principal and/or interest, including amortizations falling within the ECQ Period.
 
 RULE III  
 MANDATORY GRACE PERIOD
 
-## Section 3.01
+## Section 3
 
-_Mandatory Grace Period._ All Covered Institutions shall implement a 30-day grace period for all loans with principal and/or interest falling due within the ECQ Period without incurring interest on interest, penalties, fees and other charges. The initial 30-daygrace period shall automatically be extended if the ECQ period is extended by the President of the Republic of the Philippines pursuant to his emergency powers under the Bayanihan to Heal as One Act.
+01 _Mandatory Grace Period._ All Covered Institutions shall implement a 30-day grace period for all loans with principal and/or interest falling due within the ECQ Period without incurring interest on interest, penalties, fees and other charges. The initial 30-daygrace period shall automatically be extended if the ECQ period is extended by the President of the Republic of the Philippines pursuant to his emergency powers under the Bayanihan to Heal as One Act.
 
 **ection 3.02** _Non-application of interests, fees and charges to future payments._ All Covered Institutions shall not charge or apply interest on interest, fees and charges during the 30-day grace period to future payments/amortizations of the individuals, households, micro, small and medium enterprises (MSMEs).and corporate borrowers.
 
-## Section 3.03
+## Section 3
 
-_Prohibition on waivers._ Covered institutions are prohibited from requiring their clients to waive the application of the provisions of the "Bayanihan to Heal as One Act", including among others, the mandatory 30-day grace period. No waiver previously executed by borrowers covering payments falling due during the ECQ Period shall be valid. Nonetheless, the grant of grace period by the above-mentioned Covered Institutions shall not preclude the borrowers from paying their obligations as they fall due during the period of ECQ should they so desire.
+03. _Prohibition on waivers._ Covered institutions are prohibited from requiring their clients to waive the application of the provisions of the "Bayanihan to Heal as One Act", including among others, the mandatory 30-day grace period. No waiver previously executed by borrowers covering payments falling due during the ECQ Period shall be valid. Nonetheless, the grant of grace period by the above-mentioned Covered Institutions shall not preclude the borrowers from paying their obligations as they fall due during the period of ECQ should they so desire.
 
 RULE IV  
 SCOPE OF APPLICATION
 
-## Section 4.01
+## Section 4
 
-_Coverage._ The mandatory thirty (30)-day grace shall apply to all loans with principal and/or interest, falling due within the ECQ Period.ℒαwρhi৷ Loans shall mean loans extended by Covered Institutions to individuals, households, MSMEs, corporate borrowers, and other counterparties.
+01 _Coverage._ The mandatory thirty (30)-day grace shall apply to all loans with principal and/or interest, falling due within the ECQ Period. Loans shall mean loans extended by Covered Institutions to individuals, households, MSMEs, corporate borrowers, and other counterparties.
 
-## Section 4.02
+## Section 4
 
-_Application to multiple loans._ The mandatory 30-day grace period shall apply to multiple loans of individuals and entities, with principal and/or interest falling due within the ECQ Period. The grace period shall apply to each loan.
+02. _Application to multiple loans._ The mandatory 30-day grace period shall apply to multiple loans of individuals and entities, with principal and/or interest falling due within the ECQ Period. The grace period shall apply to each loan.
 
 RULE V  
 EFFECT OF THE GRACE PERIOD
 
-## Section 5.01
+## Section 5
 
-_Relief for loans._ Borrowers whose loan/s with principal and/or interest falling due within the ECQ Period shall be entitled to avail of the 30-day grace period without incurring interest on interest, penalties, fees and other charges. For this purpose, no additional DST shall be imposed as a consequence of the relief so granted. Further, no DST shall be imposed on credit extensions and credit restructuring, micro-lending including those obtained from pawnshops and extensions thereof during the ECQ Period.
+01. _Relief for loans._ Borrowers whose loan/s with principal and/or interest falling due within the ECQ Period shall be entitled to avail of the 30-day grace period without incurring interest on interest, penalties, fees and other charges. For this purpose, no additional DST shall be imposed as a consequence of the relief so granted. Further, no DST shall be imposed on credit extensions and credit restructuring, micro-lending including those obtained from pawnshops and extensions thereof during the ECQ Period.
 
-## Section 5.02
+## Section 5
 
-_Treatment of accrued interest._ The accrued interest for the 30-day grace period may be paid by the borrower on staggered basis over the remaining life of the loan. Nonetheless, this shall not preclude the borrower from paying the accrued interest in full on the new date following the application of the 30-day grace period or extended grace period, as the case may be.
+02. _Treatment of accrued interest._ The accrued interest for the 30-day grace period may be paid by the borrower on staggered basis over the remaining life of the loan. Nonetheless, this shall not preclude the borrower from paying the accrued interest in full on the new date following the application of the 30-day grace period or extended grace period, as the case may be.
 
 RULE VI  
 PENAL PROVISIONS
 
-## Section 6.01
+## Section 6
 
-_Penalties._ Violation of the provisions of these Rules shall be subject to the appropriate penalties set forth in the Bayanihan to Heal as One Act, as well as existing laws, rules and regulations.
+01. _Penalties._ Violation of the provisions of these Rules shall be subject to the appropriate penalties set forth in the Bayanihan to Heal as One Act, as well as existing laws, rules and regulations.
 
 RULE VII  
 EFFECTIVITY
 
-## Section 7.01
+## Section 7
 
-_Separability Clause._ Should any provision herein be declared unconstitutional or contrary to law, the same shall not affect the validity of the other provisions of these Rules.
+01. _Separability Clause._ Should any provision herein be declared unconstitutional or contrary to law, the same shall not affect the validity of the other provisions of these Rules.
 
-## Section 7.02
+## Section 7
 
-_Effectivity._ These Rules shall take effect immediately upon publication.
+02. _Effectivity._ These Rules shall take effect immediately upon publication.
 
 The Office of the National Administrative Register (ONAR) of the UP Law Center shall be provided three (3) certified copies of these Rules.
 

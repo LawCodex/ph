@@ -33,7 +33,7 @@ Upon the recommendation of the Director of Vocational Education, the President o
 
 ## Section 3
 
-The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sums for the said purpose shall be included in the annual General Appropriations Act.
+The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sums for the said purpose shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

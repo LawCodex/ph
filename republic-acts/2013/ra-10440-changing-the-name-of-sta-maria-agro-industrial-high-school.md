@@ -36,7 +36,7 @@ Section 1 of Republic Act No. 8397 is hereby amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._ 1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

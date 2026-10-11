@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Mataguisi Comprehensive National High School – Cacalaggan Annex in Barangay Cacalaggan, Municipality of Pudtol, Province of Apayao is hereby separated from the Mataguisi Comprehensive National High School and converted into an independent national high school to be kanown as Tawit National High School.1âwphi1
+The Mataguisi Comprehensive National High School – Cacalaggan Annex in Barangay Cacalaggan, Municipality of Pudtol, Province of Apayao is hereby separated from the Mataguisi Comprehensive National High School and converted into an independent national high school to be kanown as Tawit National High School.
 
 ## Section 2
 
@@ -37,7 +37,7 @@ All personnel, assets, liabilities, and records of the Mataguisi Comprehensive N
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the Tawit National High School, the initial funding of which shall be charged against the current year’s appropriation of the Mataguisi Comprehensive National High School – Cacalaggan Annex.1âwphi1 Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the Tawit National High School, the initial funding of which shall be charged against the current year’s appropriation of the Mataguisi Comprehensive National High School – Cacalaggan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

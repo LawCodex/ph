@@ -32,6 +32,6 @@ The seat of government of the said Municipality of Mahaplag shall be at Barrios 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without the Executive approval, July 22, 1972.

@@ -36,6 +36,6 @@ Within thirty days from the approval of this Act, a special election shall be he
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

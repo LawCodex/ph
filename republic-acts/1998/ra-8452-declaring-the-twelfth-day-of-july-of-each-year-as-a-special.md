@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Laguindingan, Misamis Oriental, was officially created as a municipality on July 12, 1963 by virtue of Republic Act No. 3824.Ꮮαwρhi৷
+Laguindingan, Misamis Oriental, was officially created as a municipality on July 12, 1963 by virtue of Republic Act No. 3824.
 
 ## Section 2
 

@@ -68,7 +68,7 @@ Technical Descriptions
 <td>5</td>
 <td>N 83°20′ E</td>
 <td>14.74 m.</td>
-</tr><cite>1âшphi1</cite>
+</tr>
 <tr>
 <td>5</td>
 <td>6</td>
@@ -390,7 +390,7 @@ The area to be sold defined by the foregoing metes and bounds shall not include 
 
 _Other Terms and Conditions of Sale._ — The sale authorized by this Act shall likewise be subject to other terms and conditions that shall be agreed upon by the University and the Quezon City Local Government.
 
-No land covered under this Act shall be sold, alienated or conveyed by the legitimate residents of Barangay Krus na Ligas except to his/her legal heirs.1âшphi1 Should the legitimate residents unlawfully sell, transfer or otherwise dispose his/her lot to or any right therein, the transaction shall be null and void. He/She shall also lose his/her right to the land and forfeit the total amount of amortization paid thereon. In the event that the legitimate resident dies before full ownership of the land is vested on him/her, transfer to his/her heirs shall take place only upon assumption of his/her obligations. In case of failure by the heirs to assume such obligations, the land shall revert to the Quezon City Local Government for disposition.
+No land covered under this Act shall be sold, alienated or conveyed by the legitimate residents of Barangay Krus na Ligas except to his/her legal heirs. Should the legitimate residents unlawfully sell, transfer or otherwise dispose his/her lot to or any right therein, the transaction shall be null and void. He/She shall also lose his/her right to the land and forfeit the total amount of amortization paid thereon. In the event that the legitimate resident dies before full ownership of the land is vested on him/her, transfer to his/her heirs shall take place only upon assumption of his/her obligations. In case of failure by the heirs to assume such obligations, the land shall revert to the Quezon City Local Government for disposition.
 
 ## Section 3
 

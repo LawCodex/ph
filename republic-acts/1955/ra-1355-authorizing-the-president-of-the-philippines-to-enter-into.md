@@ -20,7 +20,9 @@ retrieved: 2026-10-12
 
 AN ACT AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO ENTER INTO A REVISED AGREEMENT WITH THE PRESIDENT OF THE UNITED STATES ON THE BASIS OF THE FINAL ACT OF NEGOTIATIONS RELATIVE TO THE REVISION OF THE 1946 TRADE AGREEMENT BETWEEN THE REPUBLIC OF THE PHILIPPINES AND THE UNITED STATES OF AMERICA, WHICH WAS SIGNED AT WASHINGTON, D.C. ON DECEMBER 15, 1954.
 
-**Section 1. WHEREAS,** the existing Trade Agreement between the Philippines and the United States is embodied in the enabling legislation approved respectively by the two countries, namely: Commonwealth Act No. 733 on the part of the Philippines and Public Law 371, 79th Congress, on that of the United States:
+### Section 1
+
+WHEREAS, the existing Trade Agreement between the Philippines and the United States is embodied in the enabling legislation approved respectively by the two countries, namely: Commonwealth Act No. 733 on the part of the Philippines and Public Law 371, 79th Congress, on that of the United States:
 
 **WHEREAS,** pursuant to Republic Act No. 1137 of the Philippines and Public Law 474, 83rd Congress, of the United States, the free trade period provided for in Article I of the Trade Agreement, which was to have terminated on July 3, 1954, was extended for eighteen months, i.e., from July 4, 1954 to December 31, 1955, which extension was agreed upon and approved in order to permit consultations between the two countries with a view to securing a mutually satisfactory modification or revision of the aforesaid Agreement;
 

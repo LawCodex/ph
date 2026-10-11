@@ -33,7 +33,7 @@ Section 1 of Republic Act No. 10788 is hereby amended to read as follows:
 
 ## Section 2
 
-Section 2 of the same Act is hereby repealed.ℒαwρhi৷
+Section 2 of the same Act is hereby repealed.
 
 ## Section 3
 

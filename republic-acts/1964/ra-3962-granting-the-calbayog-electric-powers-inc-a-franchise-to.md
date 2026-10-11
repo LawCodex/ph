@@ -30,7 +30,7 @@ Subject to the provisions of the Constitution and to the terms and conditions es
 
 ## Section 2
 
-The rates for the sale of electric light, heat and/or power shall always be subject to regulation by the Public Service Commission.1âшphi1
+The rates for the sale of electric light, heat and/or power shall always be subject to regulation by the Public Service Commission.
 
 ## Section 3
 

@@ -36,6 +36,6 @@ The first mayor, vice-mayor, and councilors of the new municipality shall be ele
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

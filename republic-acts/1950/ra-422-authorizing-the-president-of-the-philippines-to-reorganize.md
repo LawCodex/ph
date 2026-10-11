@@ -28,7 +28,7 @@ Declaration of Policy. - It is declared to be the policy of Congress to promote 
 
 2\. Eliminating duplication and overlapping of services, activities, and functions;
 
-3\. Consolidating services, activities and functions of a similar nature;1awphi1©
+3\. Consolidating services, activities and functions of a similar nature;
 
 4\. Abolishing services, activities, and functions not necessary to the efficient conduct of the Government; and
 

@@ -26,9 +26,9 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Sections one and two of Republic Act Numbered Seven hundred ninety-nine are amended to read as follows:
 
-"Sec. 1. The Western Luzon School of Arts and Trades, located in the Municipality of Iba, Province of Zambales, is hereby renamed Ramon Magsaysay Memorial School of Arts and Trades, and shall be of the La Union School of Arts and Trades type.1âшphi1 The Secretary of Education is empowered to reorganize said school accordingly so as to improve and expand the trade industrial courses of collegiate and secondary levels in said school."
+"Sec. 1. The Western Luzon School of Arts and Trades, located in the Municipality of Iba, Province of Zambales, is hereby renamed Ramon Magsaysay Memorial School of Arts and Trades, and shall be of the La Union School of Arts and Trades type. The Secretary of Education is empowered to reorganize said school accordingly so as to improve and expand the trade industrial courses of collegiate and secondary levels in said school."
 
-"Sec. 2. The sum of three hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Ramon Magsaysay Memorial School of Arts and Trades during the fiscal year nineteen hundred sixty-one.1avvphi1 Thereafter, the necessary fund for the same purpose shall be included in the annual General Appropriation Acts.
+"Sec. 2. The sum of three hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Ramon Magsaysay Memorial School of Arts and Trades during the fiscal year nineteen hundred sixty-one. Thereafter, the necessary fund for the same purpose shall be included in the annual General Appropriation Acts.
 
 ## Section 2
 

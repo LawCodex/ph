@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing annex school of the Palawan National School in Barangay Aramaywan, Municipality of Quezon, Province of Palawan, is hereby separated from the Palawan National School-Main and the same is hereby converted into a national high school to be known as the Quezon Aramaywan National High School.1aшphi1
+The existing annex school of the Palawan National School in Barangay Aramaywan, Municipality of Quezon, Province of Palawan, is hereby separated from the Palawan National School-Main and the same is hereby converted into a national high school to be known as the Quezon Aramaywan National High School.
 
 ## Section 2
 

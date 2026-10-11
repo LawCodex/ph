@@ -34,11 +34,11 @@ _Establishment of a National High School._ — There is hereby established, unde
 
 ## Section 2
 
-_Appropriations._ — The Secretary of Education shall immediately include in the Department's program the operationalization of the Kalumpang National High School, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ — The Secretary of Education shall immediately include in the Department's program the operationalization of the Kalumpang National High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 
-_Implementation._ — The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.ℒαwρhi৷
+_Implementation._ — The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 4
 

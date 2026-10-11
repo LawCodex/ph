@@ -35,6 +35,6 @@ The sum of twenty-five thousand pesos is hereby appropriated out of any funds in
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1948.

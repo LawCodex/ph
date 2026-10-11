@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas, is hereby changed to Marilag.1aшphi1
+The name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas, is hereby changed to Marilag.
 
 ## Section 2
 

@@ -39,7 +39,7 @@ All personnel, assets and liabilities, and records of the Sibonga National High 
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Sibonga National High School-Barangay Mangyan Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Mangyan National High School shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Sibonga National High School-Barangay Mangyan Extension. Thereafter, such sums as may be necessary for the operation and maintenance of the Mangyan National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

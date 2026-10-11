@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Talisay School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, is hereby changed to Inocencio V. Ferrer Memorial School of Fisheries.1aшphi1
+The name of the Talisay School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, is hereby changed to Inocencio V. Ferrer Memorial School of Fisheries.
 
 ## Section 2
 

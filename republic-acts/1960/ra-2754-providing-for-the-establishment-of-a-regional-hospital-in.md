@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, a regional hospital in the Municipality of Basey, Province of Samar, to be known as the Basey Regional Hospital. The site for said hospital shall be determined by the Municipal Council of the Municipality of Basey in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services, a regional hospital in the Municipality of Basey, Province of Samar, to be known as the Basey Regional Hospital. The site for said hospital shall be determined by the Municipal Council of the Municipality of Basey in consultation with the Director of Medical Services.
 
 ## Section 2
 

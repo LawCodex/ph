@@ -33,7 +33,7 @@ The Davao City Third District Engineering Office shall serve the barangays of Ag
 
 ## Section 3
 
-The Secretary of Public Works and Highways shall include in the Department's program the operationalization of the Davao City Third District Engineering Office, the funding of which shall be included in the annual General Appropriations Act.1aшphi1
+The Secretary of Public Works and Highways shall include in the Department's program the operationalization of the Davao City Third District Engineering Office, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

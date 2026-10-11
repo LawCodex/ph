@@ -32,7 +32,7 @@ Section 22, paragraph (e) of Commonwealth Act Numbered One, as amended, is hereb
 
 ## Section 2
 
-All Acts, executive orders, Armed Forces of the Philippines regulations, or parts or portions thereof inconsistent with the provisions of this Act are hereby repealed or modified.1avvphi1
+All Acts, executive orders, Armed Forces of the Philippines regulations, or parts or portions thereof inconsistent with the provisions of this Act are hereby repealed or modified.
 
 ## Section 3
 

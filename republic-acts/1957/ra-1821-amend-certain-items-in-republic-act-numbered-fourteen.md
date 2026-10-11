@@ -50,6 +50,6 @@ Items 15, 36, 39, 40, 41, 44, 45, 47 and 57 of subsection d, for the Province of
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 22, 1957.

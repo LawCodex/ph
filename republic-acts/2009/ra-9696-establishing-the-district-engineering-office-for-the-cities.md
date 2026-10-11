@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The property and personnel allocated for the existing DPWH Sub-District Engineering Office in the Congressional District of Malabon City-Navotas pursuant to Department Order No. 169, series of 2001, shall be assumed by the district engineering office created under this Act, while the amount allocated for the former office shall continue to be utilized until the end of the fiscal year in which this Act is enacted. Thereafter, the amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.1aшphi1
+The property and personnel allocated for the existing DPWH Sub-District Engineering Office in the Congressional District of Malabon City-Navotas pursuant to Department Order No. 169, series of 2001, shall be assumed by the district engineering office created under this Act, while the amount allocated for the former office shall continue to be utilized until the end of the fiscal year in which this Act is enacted. Thereafter, the amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

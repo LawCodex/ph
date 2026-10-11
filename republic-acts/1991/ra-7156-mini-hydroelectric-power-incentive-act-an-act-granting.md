@@ -25,11 +25,17 @@ AN ACT GRANTING INCENTIVES TO MINI-HYDROELECTRIC POWER DEVELOPERS AND FOR OTHER 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **"_Mini-hydroelectric Power Incentive Act._ "**.
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is hereby declared the policy of the State to strengthen and enhance the development of the country's indigenous and self-reliant scientific and technological resources and capabilities and their adaptation to the country in order to attain energy self-sufficiency and thereby minimize dependence on outside source of energy supply. In pursuance thereof, it is further declared that mini-hydroelectric power developers shall be granted the necessary incentives and privileges to provide an environment conducive to the development of the country's hydroelectric power resources to their full potential.
+_Title._ – This Act shall be known as the **"_Mini-hydroelectric Power Incentive Act._ "**.
 
-**Section 3._Declaration of Objectives._** – The objectives of the framework being established for the development of mini-hydroelectric power generation are as follows:
+## Section 2
+
+_Declaration of Policy._ – It is hereby declared the policy of the State to strengthen and enhance the development of the country's indigenous and self-reliant scientific and technological resources and capabilities and their adaptation to the country in order to attain energy self-sufficiency and thereby minimize dependence on outside source of energy supply. In pursuance thereof, it is further declared that mini-hydroelectric power developers shall be granted the necessary incentives and privileges to provide an environment conducive to the development of the country's hydroelectric power resources to their full potential.
+
+## Section 3
+
+_Declaration of Objectives._ – The objectives of the framework being established for the development of mini-hydroelectric power generation are as follows:
 
 (1) To encourage entrepreneurs to develop potential sites for hydroelectric power existing in their respective localities;
 
@@ -41,7 +47,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (5) To provide a contractual framework wherein some stability of conditions can be relied upon for long-term financing purposes.
 
-**Section 4._Definition of Terms._** – As used in this Act, the following terms shall be understood, applied and construed as follows:
+## Section 4
+
+_Definition of Terms._ – As used in this Act, the following terms shall be understood, applied and construed as follows:
 
 (1) "Hydroelectric power" shall refer to the electric power produced by utilizing the kinetic energy of falling or running water to turn a turbine generator;
 
@@ -57,9 +65,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (7) "Irrigation use" shall refer to the utilization of water for producing agricultural crops.
 
-**Section 5._Agency in Charge._** – The Office of Energy Affairs, hereinafter referred to as the OEA, shall be the sole and exclusive authority responsible for the regulation, promotion and administration of mini-hydroelectric power development and the implementation of the provisions of this Act.
+## Section 5
 
-**Section 6._Powers and Duties of the OEA._** – The OEA shall exercise the following powers and duties:
+_Agency in Charge._ – The Office of Energy Affairs, hereinafter referred to as the OEA, shall be the sole and exclusive authority responsible for the regulation, promotion and administration of mini-hydroelectric power development and the implementation of the provisions of this Act.
+
+## Section 6
+
+_Powers and Duties of the OEA._ – The OEA shall exercise the following powers and duties:
 
 (1) Within six (6) months from approval of this Act, promulgate, in consultation with the National Water Resources Board (NWRB), such rules and regulations as may be necessary for the proper implementation and administration of this Act;
 
@@ -79,13 +91,21 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (6) Generally, exercise all the powers necessary or incidental to attain the purposes of this Act and other laws vesting additional powers on the OEA.
 
-**Section 7._Sale of Power._** – The mini-hydroelectric power developer must first offer to sell electric power to either the National Power Corporation (NPC), franchised private electric utilities or electric cooperatives at a price per kilowatt-hour based on the NPC's or the utility's avoided cost which shall refer to the costs of the affected grids had NPC generated the equivalent electric power itself before disposing the power to third parties. The NPC shall allow the mini-hydroelectric developer to deliver its generated electricity to the developer's customers through existing NPC lines so as to serve such third parties under terms which are to be mutually agreed upon or, if no agreement can be reached, under terms set by the OEA.
+## Section 7
 
-**Section 8._Non-exclusive Development._** – Development of less than fifty percent (50%) of the hydroelectric power potential of the proposed site shall be non-exclusive. The OEA, after a thorough review and evaluation of its technical and economic viability, may grant the development of the site to its full power potential to any qualified developer: provided, that first option shall be given to the original developer: provided, further, that in case the original developer forfeits his option to pursue development of the hydroelectric power resource to its full potential, it shall be reimbursed by the successor-developer of the value of its investment based on the declared value of the development for real estate tax purposes over the immediately preceding three (3) years or, in case the declared value over said period differs, on the average value thereof.
+_Sale of Power._ – The mini-hydroelectric power developer must first offer to sell electric power to either the National Power Corporation (NPC), franchised private electric utilities or electric cooperatives at a price per kilowatt-hour based on the NPC's or the utility's avoided cost which shall refer to the costs of the affected grids had NPC generated the equivalent electric power itself before disposing the power to third parties. The NPC shall allow the mini-hydroelectric developer to deliver its generated electricity to the developer's customers through existing NPC lines so as to serve such third parties under terms which are to be mutually agreed upon or, if no agreement can be reached, under terms set by the OEA.
 
-**Section 9._Mandatory Restoration Work._** – In all cases where the proposed mini-hydroelectric power development entails the closure or stoppage of existing water outlets, passageways, connections, conduits, apertures or the like from the water source, it shall be mandatory for the developer to restore or reengineer such water outlets, passageways, connections, conduits, apertures or the like on its account or expense, and in such manner that existing users or appropriators shall not be permanently deprived of their use or appropriation.
+## Section 8
 
-**Section 10._Tax Incentives._** – Any person, natural or judicial, authorized to engage in mini-hydroelectric power development shall be granted the following tax incentives or privileges:
+_Non-exclusive Development._ – Development of less than fifty percent (50%) of the hydroelectric power potential of the proposed site shall be non-exclusive. The OEA, after a thorough review and evaluation of its technical and economic viability, may grant the development of the site to its full power potential to any qualified developer: provided, that first option shall be given to the original developer: provided, further, that in case the original developer forfeits his option to pursue development of the hydroelectric power resource to its full potential, it shall be reimbursed by the successor-developer of the value of its investment based on the declared value of the development for real estate tax purposes over the immediately preceding three (3) years or, in case the declared value over said period differs, on the average value thereof.
+
+## Section 9
+
+_Mandatory Restoration Work._ – In all cases where the proposed mini-hydroelectric power development entails the closure or stoppage of existing water outlets, passageways, connections, conduits, apertures or the like from the water source, it shall be mandatory for the developer to restore or reengineer such water outlets, passageways, connections, conduits, apertures or the like on its account or expense, and in such manner that existing users or appropriators shall not be permanently deprived of their use or appropriation.
+
+## Section 10
+
+_Tax Incentives._ – Any person, natural or judicial, authorized to engage in mini-hydroelectric power development shall be granted the following tax incentives or privileges:
 
 (1) Special Privilege Tax Rates. – The tax payable by grantees to develop potential sites for hydroelectric power and to generate, transmit and sell electric power shall be two percent (2%) of their gross receipts from the sale of electric power and from transactions incident to the generation, transmission and sale of electric power. Such privilege tax shall be made payable to the Commissioner of Internal Revenue or his duly authorized representative on or before the 20th day of the month following the end of each calendar or fiscal quarter;
 
@@ -99,18 +119,30 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (6) Income Tax Holiday. – For seven (7) years from the start of commercial operation, a registered mini-hydroelectric power developer shall be fully exempt from income taxes levied by the National Government.
 
-**Section 11._Disposition and Allotment of Special Privilege Taxes._** – If the mini-hydroelectric power development is located in a city, sixty percent (60%) of the special privilege taxes collected shall accrue to the city and forty percent (40%) to the National Government.
+## Section 11
+
+_Disposition and Allotment of Special Privilege Taxes._ – If the mini-hydroelectric power development is located in a city, sixty percent (60%) of the special privilege taxes collected shall accrue to the city and forty percent (40%) to the National Government.
 
 If the mini-hydroelectric power development is located in a municipality, thirty percent (30%) of the special privilege taxes collected shall accrue to the municipality, thirty percent (30%) to the province and forty percent (40%) to the National Government.
 
-**Section 12._Term of Contract._** – The term of contract shall be for a period of twenty-five (25) years extendible for another twenty-five (25) years under the same original terms and conditions: provided, that said awardee has complied faithfully with all terms and conditions of the award.
+## Section 12
 
-**Section 13._Official Development Assistance._** – The provision of Executive Order No. 230 of 1986, on the power of the NEDA Board, and rules and regulations governing the evaluation and authorization for the availment of Official Development Assistance notwithstanding, the privatization of the mini-hydroelectric power plants as provided for in this Act shall be eligible for foreign loans and grants without further evaluation by the NEDA Board, subject to Section 21, Article XII of the Constitution.
+_Term of Contract._ – The term of contract shall be for a period of twenty-five (25) years extendible for another twenty-five (25) years under the same original terms and conditions: provided, that said awardee has complied faithfully with all terms and conditions of the award.
 
-**Section 14._Reporting Requirements._** – The OEA shall submit an annual report to the Congress of the Philippines with respect to the implementation of this Act.
+## Section 13
 
-**Section 15._Repealing Clause._** – All laws, decrees, executive orders, rules and regulations, or parts thereof, inconsistent with this Act are hereby repealed, amended or modified accordingly.
+_Official Development Assistance._ – The provision of Executive Order No. 230 of 1986, on the power of the NEDA Board, and rules and regulations governing the evaluation and authorization for the availment of Official Development Assistance notwithstanding, the privatization of the mini-hydroelectric power plants as provided for in this Act shall be eligible for foreign loans and grants without further evaluation by the NEDA Board, subject to Section 21, Article XII of the Constitution.
 
-**Section 16._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+## Section 14
+
+_Reporting Requirements._ – The OEA shall submit an annual report to the Congress of the Philippines with respect to the implementation of this Act.
+
+## Section 15
+
+_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations, or parts thereof, inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 16
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved: **September 12, 1991**.

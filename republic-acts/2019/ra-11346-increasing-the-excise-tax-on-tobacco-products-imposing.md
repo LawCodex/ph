@@ -408,7 +408,7 @@ _Repealing Clause.—_
 
 ## Section 19
 
-_Separability Clause._ — If any provision of this Act is subsequently declared invalid or unconstitutional, the other provisions hereof which are not affected thereby shall remain in full force and effect.1âшphi1
+_Separability Clause._ — If any provision of this Act is subsequently declared invalid or unconstitutional, the other provisions hereof which are not affected thereby shall remain in full force and effect.
 
 ## Section 20
 

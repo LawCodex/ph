@@ -35,7 +35,7 @@ _Short Title._ \- This Act shall be known as the **_"National Vision Screening A
 
 _Declaration of Policy._ \- Pursuant to Article II, Section 15 of the 1987 Philippine Constitution, it is hereby declared the policy of the State to protect and promote the right to health of the people and instill health consciousness among them. In line with this policy, the State shall endeavor to promote every Filipino's full potential through good vision by creating ways and means to address vision problems, including blindness, among children.
 
-Towards this end, the State shall institute a program that will help screen the school children for visual problems.ℒαwρhi৷
+Towards this end, the State shall institute a program that will help screen the school children for visual problems.
 
 ## Section 3
 
@@ -91,7 +91,7 @@ _Vision Screening Results Database Sharing._ \- The vision screening database co
 
 ## Section 10
 
-_The Vision Screening Continuing Research Fund._ \- There is hereby created a Vision Screening Continuing Research (VSCR) Fund to be sourced from any donation or bequest made to the DepEd, the DOH or the PERI in favor o the NVSP which shall be subject to existing budgeting, accounting and auditing rules and regulations. The VSCR Fund shall be used to fund the PERI for its continuing research program in connection with childhood related eye vision ailments.ℒαwρhi৷
+_The Vision Screening Continuing Research Fund._ \- There is hereby created a Vision Screening Continuing Research (VSCR) Fund to be sourced from any donation or bequest made to the DepEd, the DOH or the PERI in favor o the NVSP which shall be subject to existing budgeting, accounting and auditing rules and regulations. The VSCR Fund shall be used to fund the PERI for its continuing research program in connection with childhood related eye vision ailments.
 
 ## Section 11
 

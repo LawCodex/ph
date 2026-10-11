@@ -67,7 +67,7 @@ No private property shall be taken for any purpose by the grantee without proper
 
 ## Section 11
 
-The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1âшphi1
+The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 12
 

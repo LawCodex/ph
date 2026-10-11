@@ -78,7 +78,7 @@ n. For any other injury requiring medical attention for at least fifteen days, o
 
 Section six of the same Act is hereby amended to read as follows:
 
-"Section 6. For all the insurance benefits provided under this Act, the national government of the Republic of the Philippines shall pay an annual premium to the Government Service Insurance System the sum of fifteen pesos for every barrio captain and the sum of ten pesos for every councilman, barrio treasurer or barrio secretary: _Provided,_ That any failure or delay in the payment of such premiums shall not in any way prejudice the efficacy and enforceability of the insurance benefits herein set forth."1a⍵⍴h!1
+"Section 6. For all the insurance benefits provided under this Act, the national government of the Republic of the Philippines shall pay an annual premium to the Government Service Insurance System the sum of fifteen pesos for every barrio captain and the sum of ten pesos for every councilman, barrio treasurer or barrio secretary: _Provided,_ That any failure or delay in the payment of such premiums shall not in any way prejudice the efficacy and enforceability of the insurance benefits herein set forth."
 
 ## Section 6
 

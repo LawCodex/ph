@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Burdeos, San Rafael, Amot, Aluyon, Magdalo, Patnanungan, Calotcot, Karlagan and Palasan island are hereby separated from the municipality of Polillo, and constituted as a separate and independent municipality to be known as the municipality of Burdeos, in the Province of Quezon.+3u.7!ydmb7
+The barrios of Burdeos, San Rafael, Amot, Aluyon, Magdalo, Patnanungan, Calotcot, Karlagan and Palasan island are hereby separated from the municipality of Polillo, and constituted as a separate and independent municipality to be known as the municipality of Burdeos, in the Province of Quezon.
 
 ## Section 2
 

@@ -45,7 +45,7 @@ _Record of amount of depreciation of depreciable property._ -The grantee shall r
 
 _Definition of terms._ -For purposes of this Act, the following terms are defined as follows:
 
-"Cost" means the amount of money actually paid for property or services or their cash value at the time of the transaction.1avvphi1
+"Cost" means the amount of money actually paid for property or services or their cash value at the time of the transaction.
 
 "Units of property" means those items of property which when retired, with or without replacement, are accounted for by crediting the book cost thereof to the property account in which included.
 

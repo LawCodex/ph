@@ -28,6 +28,6 @@ The sum of three hundred thousand pesos, or so much thereof as may be necessary,
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1953.

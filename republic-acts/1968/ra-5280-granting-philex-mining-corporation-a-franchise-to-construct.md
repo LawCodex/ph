@@ -41,7 +41,7 @@ No fees shall be charged by the grantee, and the radio stations that may be esta
 
 ## Section 5
 
-The grantee shall file a bond in the amount of fifty thousand pesos to guarantee full compliance and fulfillment of the conditions under which this franchise is granted.1avvphi1
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee full compliance and fulfillment of the conditions under which this franchise is granted.
 
 ## Section 6
 

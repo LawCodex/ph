@@ -40,7 +40,7 @@ The Municipality of Compostela shall have its present territory minus the portio
 
 ## Section 5
 
-The present mayor, vice-mayor and councilors of Compostela who are now in the barrio of Nabunturan shall, until the expiration of their term of office, act respectively as mayor, vice-mayor and councilors of the new Municipality of Nabunturan, and their substitutes in the Municipality of Compostela shall be appointed by the President of the Philippines, to hold office until their successors shall have been elected in the next regular election of provincial and municipal officials, and shall have qualified.1âшphi1
+The present mayor, vice-mayor and councilors of Compostela who are now in the barrio of Nabunturan shall, until the expiration of their term of office, act respectively as mayor, vice-mayor and councilors of the new Municipality of Nabunturan, and their substitutes in the Municipality of Compostela shall be appointed by the President of the Philippines, to hold office until their successors shall have been elected in the next regular election of provincial and municipal officials, and shall have qualified.
 
 ## Section 6
 

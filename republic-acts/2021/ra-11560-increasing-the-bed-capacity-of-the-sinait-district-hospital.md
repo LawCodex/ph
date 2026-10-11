@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the Sinait Dist
 
 ## Section 3
 
-The Provincial Government of Ilocos Sur shall provide the necessary funds for the maintenance and other operating expenses of the Sinait District Hospital.Ꮮαwρhi৷ It shall also allocate funds for the appropriate adjustments in its human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services. The amount of Two hundred million pesos (P200,000,000.00) is hereby appropriated for the implementation of this Act which shall be included and funded under the 2022 General Appropriations Act under the Health Facilities Enhancement Program (HFEP) of the Department of Health.
+The Provincial Government of Ilocos Sur shall provide the necessary funds for the maintenance and other operating expenses of the Sinait District Hospital. It shall also allocate funds for the appropriate adjustments in its human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services. The amount of Two hundred million pesos (P200,000,000.00) is hereby appropriated for the implementation of this Act which shall be included and funded under the 2022 General Appropriations Act under the Health Facilities Enhancement Program (HFEP) of the Department of Health.
 
 ## Section 4
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby granted to the Maria Cristina Chemical Industries, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at the following places, to wit: Main Office, City of Manila; Bayambang, Province of Pangasinan; Buenavista, Province of Quezon; Camp Overton, Mindanao Island; watercraft managed by the Maria Cristina Chemical Industries, Inc., and at such places as the said company may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, and private coastal and private land base radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.1a⍵⍴h!1
+There is hereby granted to the Maria Cristina Chemical Industries, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at the following places, to wit: Main Office, City of Manila; Bayambang, Province of Pangasinan; Buenavista, Province of Quezon; Camp Overton, Mindanao Island; watercraft managed by the Maria Cristina Chemical Industries, Inc., and at such places as the said company may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, and private coastal and private land base radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
 
 ## Section 2
 

@@ -36,6 +36,6 @@ The Secretary of the Department of Education, Culture and Sports shall issue the
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI Section 27 (1), of the Constitution.

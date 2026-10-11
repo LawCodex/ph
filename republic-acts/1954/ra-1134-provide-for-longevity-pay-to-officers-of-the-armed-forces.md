@@ -28,7 +28,7 @@ Hereafter each officer of the Armed Forces of the Philippines shall receive in a
 
 ## Section 2
 
-For purposes of this Act, the sum total of the active tours of duty of reserve officers shall be counted.1âшphi1
+For purposes of this Act, the sum total of the active tours of duty of reserve officers shall be counted.
 
 ## Section 3
 

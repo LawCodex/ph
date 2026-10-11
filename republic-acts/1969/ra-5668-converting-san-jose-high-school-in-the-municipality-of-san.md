@@ -38,4 +38,4 @@ The sum of two hundred thousand pesos or so much thereof as may be necessary is 
 
 This Act shall take effect upon its approval.
 
-Approved, June 21, 1969.1a⍵⍴h!1
+Approved, June 21, 1969.

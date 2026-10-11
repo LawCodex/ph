@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of El Salvador and Molugan with their sitios known as Sala, Sambulawan, Sinaloc, Lagtang, Talaba, Kalabaylabay and Hinigdaan, are separated from the municipality of Cagayan, Province Misamis Oriental, and constituted into a municipality to be known as the municipality of El Salvador in the Province of Misamis Oriental.£a⩊phi£
+The barrios of El Salvador and Molugan with their sitios known as Sala, Sambulawan, Sinaloc, Lagtang, Talaba, Kalabaylabay and Hinigdaan, are separated from the municipality of Cagayan, Province Misamis Oriental, and constituted into a municipality to be known as the municipality of El Salvador in the Province of Misamis Oriental.
 
 ## Section 2
 

@@ -31,7 +31,7 @@ Section one .of Republic Act numbered Four hundred seven is hereby amended to re
 
 ## Section 2
 
-The same Act is amended by inserting a new section thereof to read as follows:1âшphi1
+The same Act is amended by inserting a new section thereof to read as follows:
 
 "Section l-A. In consideration of this franchise the grantee shall pay a franchise tax equivalent to five per centum of its gross income."
 

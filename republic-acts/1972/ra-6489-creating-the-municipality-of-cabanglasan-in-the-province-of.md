@@ -30,7 +30,7 @@ From point marked "1" on the Plan of the proposed municipality of Cabanglasan lo
 
 ## Section 2
 
-The new municipality shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors who shall be elected in the next general election for local officials.lawphi1™
+The new municipality shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors who shall be elected in the next general election for local officials.
 
 ## Section 3
 

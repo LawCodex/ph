@@ -45,7 +45,7 @@ All laws, decrees, orders, ordinances, issuances, rules and regulations or parts
 
 ## Section 5
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

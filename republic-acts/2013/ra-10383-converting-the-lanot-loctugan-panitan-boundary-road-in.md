@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The 3.5-kilometer Lanot – Loctugan – Panitan – Boundary Road in Roxas City and the Municipality of Panitan, Province of Capiz is hereby converted into a national road under the jurisdiction and supervision of the Department of Public Works and Highways.1âwphi1
+The 3.5-kilometer Lanot – Loctugan – Panitan – Boundary Road in Roxas City and the Municipality of Panitan, Province of Capiz is hereby converted into a national road under the jurisdiction and supervision of the Department of Public Works and Highways.
 
 ## Section 2
 

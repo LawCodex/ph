@@ -76,7 +76,7 @@ The Chairman of the Commission may constitute continuing or ad hoc committees co
 
 _Executive Committee._ — The Commission shall have an Executive Committee which shall act for the Commission when the latter is not in session. The Executive Committee shall be composed of: the Chairman of the Commission as Chairman and as members, the Secretary of Health, the Secretary of Education, the Secretary of Social Welfare, the Commissioner of National Integration, the Presidential Arm on Community Development, the Responsible Parenthood Council, the Director of the University of the Philippines Population Institute, the representative of the Family Planning Organization of the Philippines, the Director of the Institute of Maternal and Child Health, and a representative from the National League of Puericulture Centers, Inc.
 
-The Executive Committee shall meet at least once a month or at the call of the Chairman.1âшphi1
+The Executive Committee shall meet at least once a month or at the call of the Chairman.
 
 ## Section 8
 

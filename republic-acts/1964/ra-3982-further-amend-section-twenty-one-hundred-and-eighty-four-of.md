@@ -64,7 +64,7 @@ Section twenty-one hundred and eighty-four of the Revised Administrative Code, a
 
 ## Section 2
 
-For purposes of the schedule of salaries prescribed for municipal officers of first class municipalities, the Secretary of Finance shall as of July first nineteen hundred and sixty-four, and after such each period of two consecutive fiscal years thereafter, sub-classify all first class municipalities as classified as such under the provisions of Section twenty-one hundred and seventy-one of the Revised Administrative Code, as amended by Republic Act Numbered Twenty-three hundred and sixty-eight, on the basis of their average annual income during the last two fiscal years immediately preceding the sub-classification.1âшphi1
+For purposes of the schedule of salaries prescribed for municipal officers of first class municipalities, the Secretary of Finance shall as of July first nineteen hundred and sixty-four, and after such each period of two consecutive fiscal years thereafter, sub-classify all first class municipalities as classified as such under the provisions of Section twenty-one hundred and seventy-one of the Revised Administrative Code, as amended by Republic Act Numbered Twenty-three hundred and sixty-eight, on the basis of their average annual income during the last two fiscal years immediately preceding the sub-classification.
 
 ## Section 3
 

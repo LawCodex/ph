@@ -30,7 +30,7 @@ When the number of employees and laborers exceeds five hundred, the owner, lesse
 
 The dentists of the commercial, industrial and agricultural establishments shall subject all the employees and laborers of said establishments to a dental examination at least once a year and shall make detailed monthly and annual reports of all the services rendered by them: _Provided,_ However, That this paragraph shall apply only to establishments, offices or industries employing not less than five hundred laborers or employees.
 
-For the purposes of this Act, a person or establishment shall be understood to have employees or laborers in its permanent service when the work requires the constant employment of such operatives, even though these change frequently.1awp++i1
+For the purposes of this Act, a person or establishment shall be understood to have employees or laborers in its permanent service when the work requires the constant employment of such operatives, even though these change frequently.
 
 ## Section 2
 

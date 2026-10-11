@@ -28,6 +28,6 @@ Portions of barrios Dagupan, Villa Magat and San Manuel in the Municipality of S
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1960.

@@ -266,7 +266,7 @@ _Implementing Rules and Regulations._ – The Board, in consultation with the CH
 
 ## Section 26
 
-_Separability Clause._ – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.1âwphi1
+_Separability Clause._ – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
 
 ## Section 27
 

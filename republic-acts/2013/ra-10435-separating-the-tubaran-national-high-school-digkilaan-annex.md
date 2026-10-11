@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ — The Tubaran Nationa
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ — All personnel, assets, liabilities and records of the Tubaran National High School — Digkilaan Annex are hereby transferred to and absorbed by the Digkilaan National High School.1âwphi1
+_Transfer of Assets and Liabilities._ — All personnel, assets, liabilities and records of the Tubaran National High School — Digkilaan Annex are hereby transferred to and absorbed by the Digkilaan National High School.
 
 ## Section 3
 

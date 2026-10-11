@@ -33,7 +33,9 @@ The title of Book III of Executive Order No. 226, otherwise known as the Omnibus
 
 "INCENTIVES TO MULTINATIONAL COMPANIES ESTABLISHING REGIONAL OR AREA HEADQUARTERS AND REGIONAL OPERATING HEADQUARTERS IN THE PHILIPPINES"
 
-**Section 2._Definition of Terms._** \- For purposes of this Act, the term:
+## Section 2
+
+_Definition of Terms._ \- For purposes of this Act, the term:
 
 (1) _Multinational Company_ shall mean a foreign company or a group of foreign companies with business establishments in two or more countries;
 
@@ -221,10 +223,16 @@ A new article is hereby inserted to read as follows:
 
 "Art. 73. _Implementing Rules and Regulations._ \- To implement the provisions of Books III and IV of this Code, the Department of Trade and Industry, in coordination with the Department of Foreign Affairs, the Board of Investments, the Philippine Economic Zone Authority, the ecozone authorities with special charters, the Securities and Exchange Commission, the Bureau of Internal Revenue, the Bureau of Customs, Bangko Sentral ng Pilipinas, Philippine Tourism Authority, and the Bureau of Immigration shall jointly promulgate such rules and regulations which shall take effect thirty (30) days after their publication in at least two (2) national newspapers of general circulation in the Philippines."
 
-**Section 10._Separability Clause._** \- If any part or section of this Act is declared unconstitutional for any reason or whatsoever, such parts not so declared shall remain in full force and effect.
+## Section 10
 
-**Section 11._Repealing Clause._** \- All laws, decrees, orders, rules and regulations or issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause._ \- If any part or section of this Act is declared unconstitutional for any reason or whatsoever, such parts not so declared shall remain in full force and effect.
 
-**Section 12._Effectivity Clause._** \- This Act shall take effect after thirty (30) days following its full publication in at least two (2) newspapers of general circulation in the Philippines.
+## Section 11
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations or issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 12
+
+_Effectivity Clause._ \- This Act shall take effect after thirty (30) days following its full publication in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved, **November 23, 1999.**

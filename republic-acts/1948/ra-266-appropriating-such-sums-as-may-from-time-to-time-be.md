@@ -46,7 +46,7 @@ Such sums as may from time to time be released and paid to the National Treasury
 
 8\. For advances to the Rehabilitation Finance Corporation in order to increase its available funds to be loaned for purposes of rehabilitation and development; and
 
-9\. To finance the construction of homes to be sold or rented to laborers and low-salaried employees.1aшphi1
+9\. To finance the construction of homes to be sold or rented to laborers and low-salaried employees.
 
 ## Section 3
 

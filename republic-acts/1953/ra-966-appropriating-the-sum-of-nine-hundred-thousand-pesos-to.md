@@ -28,7 +28,7 @@ The sum of nine hundred thousand pesos is hereby appropriated out of any funds i
 
 ## Section 2
 
-Any amount remaining unexpended on June thirty, nineteen hundred and fifty-four, shall revert to the unappropriated surplus of the General Fund in the National Treasury.1a⍵⍴h!1
+Any amount remaining unexpended on June thirty, nineteen hundred and fifty-four, shall revert to the unappropriated surplus of the General Fund in the National Treasury.
 
 ## Section 3
 

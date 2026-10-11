@@ -259,7 +259,7 @@ _Parity Clause._ \- All other powers, functions and privileges, responsibilities
 
 ## Section 25
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the BASSC.Ꮮαwρhi৷ Thereafter, such sums as may be necessary for the continued operation and maintenance of the BASSU shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the BASSC. Thereafter, such sums as may be necessary for the continued operation and maintenance of the BASSU shall be included in the annual General Appropriations Act.
 
 ## Section 26
 

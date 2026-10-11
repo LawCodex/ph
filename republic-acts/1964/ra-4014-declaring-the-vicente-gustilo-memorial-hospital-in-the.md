@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Alno Elementary School in the barrio of Alno, Municipality of La Trinidad, Subprovince of Benguet, Mountain Province, is hereby changed to Alno Kadoorie Elementary School.1âшphi1
+The name of Alno Elementary School in the barrio of Alno, Municipality of La Trinidad, Subprovince of Benguet, Mountain Province, is hereby changed to Alno Kadoorie Elementary School.
 
 ## Section 2
 

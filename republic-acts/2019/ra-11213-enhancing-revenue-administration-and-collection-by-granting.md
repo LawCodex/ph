@@ -260,7 +260,7 @@ _Entitlement of Tax Amnesty on Delinquencies._ \- Any person may enjoy the immun
 
 (c) Pending criminal cases with criminal information filed with the Department of Justice or the courts for tax evasion and other criminal offenses under Chapter II of Title X and Section 275 of the National Internal Revenue Code of 1997, as amended, with assessments duly issued and otherwise excluded in Titles II and III hereof……… 60% of the basic tax assessed; and
 
-(d) Withholding agents who withheld taxes but failed to remit the same to the Bureau of Internal Revenue……… 100% of the basic tax assessed.1âwphi1
+(d) Withholding agents who withheld taxes but failed to remit the same to the Bureau of Internal Revenue……… 100% of the basic tax assessed.
 
 ### Section 19
 

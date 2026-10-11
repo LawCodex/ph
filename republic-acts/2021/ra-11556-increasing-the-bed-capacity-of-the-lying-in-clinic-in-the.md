@@ -37,7 +37,7 @@ The existing service facilities and professional health care services of the Riz
 
 ## Section 3
 
-The existing workforce of the Rizal, Palawan Lying-in Clinic shall be correspondingly increased.Ꮮαwρhi৷ Upon prior consultation with the management of the Rizal, Palawan Lying-in Clinic, the Secretary of Health, in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, shall determine the additional plantilla positions to be created pursuant to this Act.
+The existing workforce of the Rizal, Palawan Lying-in Clinic shall be correspondingly increased. Upon prior consultation with the management of the Rizal, Palawan Lying-in Clinic, the Secretary of Health, in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, shall determine the additional plantilla positions to be created pursuant to this Act.
 
 ## Section 4
 

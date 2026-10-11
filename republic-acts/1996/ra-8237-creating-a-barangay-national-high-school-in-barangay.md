@@ -31,7 +31,7 @@ There shall be established a barangay national high school in Barangay Alegria, 
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the purpose of this Act.1aшphi1
+The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

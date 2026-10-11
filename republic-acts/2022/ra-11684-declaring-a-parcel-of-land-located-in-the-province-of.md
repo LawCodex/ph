@@ -280,7 +280,7 @@ _Suppletory Application of the NIPAS Law._ \- The provisions of Republic Act No.
 
 ### Section 13
 
-_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Secretary of the DENR shall, in consultation with local governments of the municipalities of Arayat and Magalang, the provincial government of Pampanga, and concerned national government agencies, issue the corresponding rules and regulations for the effective implementation of this Act.1aшphi1
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Secretary of the DENR shall, in consultation with local governments of the municipalities of Arayat and Magalang, the provincial government of Pampanga, and concerned national government agencies, issue the corresponding rules and regulations for the effective implementation of this Act.
 
 ### Section 14
 

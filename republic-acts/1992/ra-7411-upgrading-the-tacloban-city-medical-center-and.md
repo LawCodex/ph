@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Tacloban City Medical Center in the Province of Leyte is hereby upgraded to the standard level.1âшphi1
+The Tacloban City Medical Center in the Province of Leyte is hereby upgraded to the standard level.
 
 ## Section 2
 

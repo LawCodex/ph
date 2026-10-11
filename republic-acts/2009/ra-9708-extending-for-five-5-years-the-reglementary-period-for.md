@@ -55,13 +55,21 @@ Section 23 of Republic Act No. 8551 is hereby further amended to read as follows
 
 "SEC. 23. _Continuing Education Program._ \- The Commission shall design, establish and implement a continuing education program for the Philippine National Police officers and members in coordination with the Civil Service Commission, the Commission on Human Rights and the Commission on Higher Education through a distance education program and/or an in-service education program focusing on law enforcement, criminal investigation, human rights or other similar programs.
 
-**Section 4._Implementing Rules and Regulations._** \- The National Police Commission and the Philippine National Police shall promulgate the necessary rules and regulations for the effective implementation of this Act. Such rules and regulations shall take effect upon its publication in two (2) newspapers of general circulation.
+## Section 4
 
-**Section 5._Separability Clause._** \- If, for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+_Implementing Rules and Regulations._ \- The National Police Commission and the Philippine National Police shall promulgate the necessary rules and regulations for the effective implementation of this Act. Such rules and regulations shall take effect upon its publication in two (2) newspapers of general circulation.
 
-**Section 6._Repealing Clause._** \- All laws, decrees, executive orders, rules and regulations, and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+## Section 5
 
-**Section 7._Effectivity Clause._** -This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
+_Separability Clause._ \- If, for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+## Section 6
+
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations, and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 7
+
+_Effectivity Clause._ -This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

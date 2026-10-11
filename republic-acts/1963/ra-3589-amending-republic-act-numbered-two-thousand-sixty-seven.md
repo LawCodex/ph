@@ -32,7 +32,7 @@ Republic Act Numbered Two thousand and sixty-seven is hereby amended by adding a
 
 New sections to be designated as Sections twelve-a and twelve-b, are inserted after section twelve of the same Act, to read as follows:
 
-"Sec. 12-A. The National Institute of Science and Technology is authorized and empowered to charge reasonable fees in connection with all analyses and tests for purposes of establishing suitable standards, calibration of weights and measures, determination of quality and composition of materials and products, for services as technical determinations where arbitration is sought, and for other analysis and tests.1awp++i1 The Institute shall issue rules and regulations establishing scale of fees for above analysis, tests and services and such rules and regulations as the Institute may deem desirable for the collection of such fees.
+"Sec. 12-A. The National Institute of Science and Technology is authorized and empowered to charge reasonable fees in connection with all analyses and tests for purposes of establishing suitable standards, calibration of weights and measures, determination of quality and composition of materials and products, for services as technical determinations where arbitration is sought, and for other analysis and tests. The Institute shall issue rules and regulations establishing scale of fees for above analysis, tests and services and such rules and regulations as the Institute may deem desirable for the collection of such fees.
 
 "Sec. 12-B. All income, donations, grants, bequests, and unexpended balances of the National Institute of Science and Technology shall accrue to a Fiduciary Fund, to be known as the Research Foundation Fund, which shall be expended by the Commissioner thereof solely for scientific researches and investigations in the field of conventional science upon the approval and final authority of the Board, the provisions of existing laws to the contrary notwithstanding."
 
@@ -108,7 +108,7 @@ Section twenty-five of the same Act is hereby amended so as to read as follows:
 
 "Sec. 25. Any person who evades or defeats or attempts to evade or defeat, in any manner, any tax imposed by law by availing himself of the provisions of Section twenty-three or twenty-four hereof through fraud or misrepresentation or violates the rules and regulations promulgated by the Board under this Act shall be punished by a fine of not more than four thousand pesos or imprisonment for not more than one year or both, in the discretion of the Court.
 
-"In case the violator is a corporation or association the penalty shall be a fine of not more than ten thousand pesos, without prejudice to the criminal responsibility of the member, officer or employee thereof committing such violation.1âшphi1
+"In case the violator is a corporation or association the penalty shall be a fine of not more than ten thousand pesos, without prejudice to the criminal responsibility of the member, officer or employee thereof committing such violation.
 
 "Any person who violates any provision of the rules, regulations or orders of the Commission issued pursuant to the provisions of this Act shall be punished by a fine of not more than one thousand pesos or imprisonment for not more than six months, or both, in the discretion of the court.
 

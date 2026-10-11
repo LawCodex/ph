@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The existing laws and regulations to the contrary notwithstanding, cockfighting, horse racing and jai-alai are hereby prohibited on the thirtieth day of December of each year, the date of the martyrdom of our great hero, Jose Rizal.1aшphi1
+The existing laws and regulations to the contrary notwithstanding, cockfighting, horse racing and jai-alai are hereby prohibited on the thirtieth day of December of each year, the date of the martyrdom of our great hero, Jose Rizal.
 
 ## Section 2
 

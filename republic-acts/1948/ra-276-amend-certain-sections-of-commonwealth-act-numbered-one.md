@@ -93,7 +93,7 @@ Section seventy-eight of the same Act is hereby amended to read as follows:
 
 Section eighty of the same Act is hereby amended to read as follows:
 
-"Sec. 80. _Bureau of Education._ — The Director of Education shall exercise the same jurisdiction and powers in the City as elsewhere in the Philippines.1aшphi1
+"Sec. 80. _Bureau of Education._ — The Director of Education shall exercise the same jurisdiction and powers in the City as elsewhere in the Philippines.
 
 "The city superintendent of schools shall receive a compensation of four thousand pesos per annum."
 

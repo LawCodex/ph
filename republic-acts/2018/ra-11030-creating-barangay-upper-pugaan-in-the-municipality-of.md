@@ -74,7 +74,7 @@ The technical description of Barangay Upper Pugaan is as follows:
 <td>4-5</td>
 <td>S 76°24’ E</td>
 <td>480.61 m</td>
-<td>MBM-58</td><cite>1âwphi1</cite>
+<td>MBM-58</td>
 </tr>
 <tr>
 <td>5-6</td>
@@ -125,7 +125,7 @@ _Conduct and Supervision of Plebiscite._ – The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ 1âwphi1 – The incumbent barangay officials of Barangay Upper Pugaan, Municipality of Ditsaan-Ramin, Province of Lanao del Sur shall continue to hold office until such time that their successors have been duly elected and qualified.
+_Incumbent Barangay Officials._ – The incumbent barangay officials of Barangay Upper Pugaan, Municipality of Ditsaan-Ramin, Province of Lanao del Sur shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

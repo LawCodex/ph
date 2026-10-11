@@ -94,7 +94,7 @@ The grantee shall hold the national, provincial, and municipal governments of th
 
 In consideration of the franchise and the rights hereby granted, the grantee shall pay to the Philippine government during the life of this franchise a franchise tax of five percent (5%) of the gross revenues derived by the grantee from transport operations.
 
-The grantee shall, however, be subject to income tax levied under _Title_ II of the National Internal Revenue Code, as amended and tax on its real property under existing laws or revenues earned from activities other than air transportation.1aшphi1
+The grantee shall, however, be subject to income tax levied under _Title_ II of the National Internal Revenue Code, as amended and tax on its real property under existing laws or revenues earned from activities other than air transportation.
 
 ## Section 14
 

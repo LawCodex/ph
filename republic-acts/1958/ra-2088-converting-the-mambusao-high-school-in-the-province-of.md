@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Mambusao High School in the Municipality of Mambusao, Province of Capiz, is hereby converted into a national agricultural school of the Iloilo National Agricultural School type, to be known as the Panay National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.1âшphi1
+The Mambusao High School in the Municipality of Mambusao, Province of Capiz, is hereby converted into a national agricultural school of the Iloilo National Agricultural School type, to be known as the Panay National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 2
 

@@ -30,6 +30,6 @@ Section four of Republic Act Numbered Fifty-nine hundred ninety-nine is hereby a
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without the Executive approval, August 26, 1972.

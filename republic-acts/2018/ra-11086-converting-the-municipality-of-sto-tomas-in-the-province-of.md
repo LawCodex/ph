@@ -425,7 +425,7 @@ _Veto Power of the City Mayor._ – (a) The City Mayor may veto any ordinance of
 
 (b) The City Mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, any public investment program or an ordinance directing the payment of money or creating liability. In such case, the vetoed item or items shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the _Sangguniang Panlungsod_ overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
 
-(c) The City Mayor may veto an ordinance or resolution only once. The _Sanggunian_ may override the veto of the City Mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the City Mayor.1awp++i1
+(c) The City Mayor may veto an ordinance or resolution only once. The _Sanggunian_ may override the veto of the City Mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the City Mayor.
 
 ### Section 18
 
@@ -1047,7 +1047,7 @@ _The City Population Officer._ – (a) The City Population Officer must be a cit
 
 _The City Agriculturist._ – (a) The City Agriculturist must be a citizen of the Philippines, a resident of the City of Sto. Tomas, of good moral character, a holder of a college degree preferably in agriculture or in any other related course obtained from a recognized college or university, a first grade civil service eligible or its equivalent and must have practiced the profession in agriculture or acquired experience in s related field for at least five (5) years.
 
-(b) The City Agriculturist shall receive compensation, emoluments and allowances as may be determined by law.1avvphi1
+(b) The City Agriculturist shall receive compensation, emoluments and allowances as may be determined by law.
 
 (c) The City Agriculturist shall take charge of the Office of the Agriculture Services, and shall:
 
@@ -1093,7 +1093,7 @@ _The City Jail Service._ – (a) There shall be established and maintained in th
 
 _The City Schools Division._ – (a) There shall be established and maintained by the Department of Education (DepEd), a city schools division of the City of Sto. Tomas whose area of jurisdiction will cover all the school districts within the City.
 
-(b) The city schools division shall be headed by a City Schools Division Superintendent who must possess the necessary qualifications required by the DepEd.1âwphi1
+(b) The city schools division shall be headed by a City Schools Division Superintendent who must possess the necessary qualifications required by the DepEd.
 
 ### Section 49
 

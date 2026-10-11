@@ -82,6 +82,6 @@ In addition to such sums as may have been provided in the current Appropriations
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1964.

@@ -60,7 +60,7 @@ The Secretary of Education shall prescribe the rules and regulations for the imp
 
 ## Section 7
 
-All Acts or parts of Acts, administrative rules [and regulations inconsistent with the provisions of this Act, are hereby repealed, amended or modified accordingly.1âшphi1
+All Acts or parts of Acts, administrative rules [and regulations inconsistent with the provisions of this Act, are hereby repealed, amended or modified accordingly.
 
 ## Section 8
 

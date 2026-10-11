@@ -28,7 +28,7 @@ Subject to the conditions imposed by this Act, there is granted to the San Diego
 
 ## Section 2
 
-The grantee shall manufacture and supply ice up to the limit of fifty tons and one hundred tons, respectively, for each municipality.1avvphi1
+The grantee shall manufacture and supply ice up to the limit of fifty tons and one hundred tons, respectively, for each municipality.
 
 ## Section 3
 

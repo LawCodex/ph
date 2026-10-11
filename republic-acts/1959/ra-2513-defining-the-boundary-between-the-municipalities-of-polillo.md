@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrio of Kaniwan situated between the municipalities of Polillo and Burdeos, making Pilion River as the boundary between the aforesaid municipalities.1âшphi1
+The barrio of Kaniwan situated between the municipalities of Polillo and Burdeos, making Pilion River as the boundary between the aforesaid municipalities.
 
 ## Section 2
 

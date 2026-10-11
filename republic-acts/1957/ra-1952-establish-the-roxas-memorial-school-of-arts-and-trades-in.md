@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Director of Public Schools is hereby authorized and directed to establish a national school of arts and trades, of the Philippine School of Arts and Trades type, in the Municipality of Ibajay, Province of Aklan, which shall be called Roxas Memorial School of Arts and Trades. The Secretary of Education is hereby empowered to organize the said school and to issue such rules and regulations as may be necessary to carry out the purpose of this Act. Courses of junior college and secondary levels shall be offered in the said school.1âшphi1
+The Director of Public Schools is hereby authorized and directed to establish a national school of arts and trades, of the Philippine School of Arts and Trades type, in the Municipality of Ibajay, Province of Aklan, which shall be called Roxas Memorial School of Arts and Trades. The Secretary of Education is hereby empowered to organize the said school and to issue such rules and regulations as may be necessary to carry out the purpose of this Act. Courses of junior college and secondary levels shall be offered in the said school.
 
 ## Section 2
 

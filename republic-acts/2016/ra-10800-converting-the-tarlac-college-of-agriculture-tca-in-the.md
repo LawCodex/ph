@@ -194,7 +194,7 @@ _The Faculty._ \- No political belief, gender preference, cultural or community 
 
 _Scholarship Program/Admission._ \- The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
-No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.ℒαwρhi৷
+No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
 ## Section 16
 

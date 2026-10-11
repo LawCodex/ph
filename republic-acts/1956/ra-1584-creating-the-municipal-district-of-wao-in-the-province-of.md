@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Wao, Katubungan, Panang and Capigis in the Municipal District of Maguing, Province of Lanao, are separated from the said district, and constituted into a separate district in the same province to be known as the Municipal District of Wao, with its seat of government at the poblacion of Wao.1âшphi1
+The barrios of Wao, Katubungan, Panang and Capigis in the Municipal District of Maguing, Province of Lanao, are separated from the said district, and constituted into a separate district in the same province to be known as the Municipal District of Wao, with its seat of government at the poblacion of Wao.
 
 ## Section 2
 

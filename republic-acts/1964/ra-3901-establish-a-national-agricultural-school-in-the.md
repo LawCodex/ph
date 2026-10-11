@@ -29,7 +29,7 @@ There shall be established, under the direct supervision of the Director of Voca
 
 ## Section 2
 
-Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portion of the public lands located within the Municipality of Floridablanca, Province of Pampanga, as may be necessary and convenient for the establishment of the school and farm sites.1awp++i1
+Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portion of the public lands located within the Municipality of Floridablanca, Province of Pampanga, as may be necessary and convenient for the establishment of the school and farm sites.
 
 ## Section 3
 

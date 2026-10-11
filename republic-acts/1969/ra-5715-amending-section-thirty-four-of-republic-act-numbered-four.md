@@ -32,4 +32,4 @@ Subsection (g) of section thirty-four of Republic Act Numbered four thousand one
 
 This Act shall take effect upon its approval.
 
-Enacted into law without executive signature on June 21, 1969.1a⍵⍴h!1
+Enacted into law without executive signature on June 21, 1969.

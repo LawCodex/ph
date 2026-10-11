@@ -31,7 +31,7 @@ _Declaration of Policy.—_ It is hereby declared to be the policy of Congress t
 
 ### Section 2
 
-_Bicol Development Company created.—_ For the purpose of carrying out and effecting the declared policy as provided for in Section One hereof, there is hereby created a body corporate to be known as the Bicol Development Company, hereinafter referred to as the Company, which shall be organized within ninety days after the approval of this Act. The Company shall exercise the power expressly granted under this Act and perform such functions as are necessary for carrying out its objectives and purposes.1avvphi1 This Act may be cited as the "Bicol Development Company Act."
+_Bicol Development Company created.—_ For the purpose of carrying out and effecting the declared policy as provided for in Section One hereof, there is hereby created a body corporate to be known as the Bicol Development Company, hereinafter referred to as the Company, which shall be organized within ninety days after the approval of this Act. The Company shall exercise the power expressly granted under this Act and perform such functions as are necessary for carrying out its objectives and purposes. This Act may be cited as the "Bicol Development Company Act."
 
 ### Section 3
 

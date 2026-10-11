@@ -134,7 +134,7 @@ Any provision of existing law, rule or regulation to the contrary notwithstandin
 
 (y) Authorize the construction or repair of its buildings, machinery, equipment and other facilities, and the purchase and acquisition of real property, including the necessary supplies, materials and equipment; and
 
-(z) Promulgate rules and regulations, as may be necessary, to carry out the purposes and functions of the UIP.ℒαwρhi৷
+(z) Promulgate rules and regulations, as may be necessary, to carry out the purposes and functions of the UIP.
 
 ## Section 7
 
@@ -282,7 +282,7 @@ _Parity Clause._ \- All other powers, functions and privileges, responsibilities
 
 ## Section 26
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the ISPSC and the NLPSC. Thereafter, such sums as may be necessary for the continued operation and maintenance of the UIP shall be included in the annual General Appropriations Act.1aшphi1
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the ISPSC and the NLPSC. Thereafter, such sums as may be necessary for the continued operation and maintenance of the UIP shall be included in the annual General Appropriations Act.
 
 ## Section 27
 

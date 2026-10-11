@@ -30,7 +30,7 @@ The Municipalities of Diffun, Saguday, Aglipay and Maddela are hereby constitute
 
 ## Section 2
 
-The seat of government of the Subprovince of Quirino shall be either in the Municipality of Saguday or in the Municipality of Diffun: _Provided,_ That the Provincial Board shall select the site and may, within one year from the time this Act becomes effective by a vote of two-thirds, transfer it to another municipality or create a new one for this purpose.1avvphi1 The seat of government shall be called Cabarroguis.
+The seat of government of the Subprovince of Quirino shall be either in the Municipality of Saguday or in the Municipality of Diffun: _Provided,_ That the Provincial Board shall select the site and may, within one year from the time this Act becomes effective by a vote of two-thirds, transfer it to another municipality or create a new one for this purpose. The seat of government shall be called Cabarroguis.
 
 ## Section 3
 

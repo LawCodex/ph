@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section two of Republic Act Numbered Two hundred fifty-five is hereby amended to read as follows:
 
-"**Section 2.** The extension herein granted shall be effective if the grantee, the Cacho and Hidalgo co-partner, its successors, shall file with the Office of the of the Philippines, the acceptance in writing of the provisions of this Act not later than September thirty, nineteen hundred and forty-nine."⌊aшΡhi⌊
+"**Section 2.** The extension herein granted shall be effective if the grantee, the Cacho and Hidalgo co-partner, its successors, shall file with the Office of the of the Philippines, the acceptance in writing of the provisions of this Act not later than September thirty, nineteen hundred and forty-nine."
 
 ## Section 2
 

@@ -46,7 +46,7 @@ _Installment Proposal._ \- In the event that a delinquent employer chooses to su
 
 ## Section 4
 
-_Effectivity of Condonation._ \- The penalty provided under Section 22(a) of Republic Act No. 8282 shall be condoned by virtue of this Act when and until all the delinquent contributions are remitted by the employer to the SSS: _Provided,_ That, in case the employer fails to remit in full the required delinquent contributions, or defaults in the payment of any installment under the approved proposal, within the availment period provided in this Act, the penalties are deemed reimposed from the time the contributions first become due, to accrue until the delinquent account is paid in full: _Provided, further,_ That for reason of equity, employers who settled arrears in contributions before the effectivity of this Act shall likewise have their accrued penalties waived.lawphil
+_Effectivity of Condonation._ \- The penalty provided under Section 22(a) of Republic Act No. 8282 shall be condoned by virtue of this Act when and until all the delinquent contributions are remitted by the employer to the SSS: _Provided,_ That, in case the employer fails to remit in full the required delinquent contributions, or defaults in the payment of any installment under the approved proposal, within the availment period provided in this Act, the penalties are deemed reimposed from the time the contributions first become due, to accrue until the delinquent account is paid in full: _Provided, further,_ That for reason of equity, employers who settled arrears in contributions before the effectivity of this Act shall likewise have their accrued penalties waived.
 
 ## Section 5
 

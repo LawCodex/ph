@@ -2528,7 +2528,7 @@ _The City Civil Registrar._ – (A) The city civil registrar must be a citizen o
 
 _The City Administrator._ – (A) The city administrator must be a citizen of the Philippines, a resident of the City of Santa Rosa, of good moral character, a holder of a college degree preferably in public administration, law or any other related course from a recognized college or university and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administrative work for at least five (5) years immediately preceding the date of his appointment.
 
-(B) The term of the city administrator is coterminous with that of his appointing authority.ℒαwρhi৷
+(B) The term of the city administrator is coterminous with that of his appointing authority.
 
 (C) The city administrator shall take charge of the City Administration Office, and shall:
 
@@ -2554,7 +2554,7 @@ _The City Legal Officer._ – (A) The city legal officer must be a citizen of th
 
 (B) The term of the city legal officer shall be coterminous with that of his appointing authority.
 
-(C) The city legal officer shall receive such compensation, emoluments and allowances as may be determined by law.1aшphi1
+(C) The city legal officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (D) The city legal officer, the chief legal counsel of the City, shall take charge of the Office of the City Legal Service, and shall:
 
@@ -2776,7 +2776,7 @@ _The City Cooperatives Officer._ – (A) The city cooperatives officer must be a
 
 _The City Population Officer._ – (A) The city population officer must be a citizen of the Philippines, a resident of the City of Santa Rosa, of good moral character, a holder of a college degree preferably with specialized training in population development from a recognized college or university and a first grade civil service eligible or its equivalent. He must have acquired experience in the implementation of programs on population development or responsible parenthood for at least five (5) years immediately preceding the date of his appointment.
 
-(B) The city population officer shall receive such compensation, emoluments and allowances as may be determined by law.ℒαwρhi৷
+(B) The city population officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (C) The city population officer shall take charge of the Office on Population Development, and shall:
 

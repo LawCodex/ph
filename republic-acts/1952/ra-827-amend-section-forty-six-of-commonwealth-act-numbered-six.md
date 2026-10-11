@@ -33,7 +33,7 @@ Section forty-six of Commonwealth Act Numbered Six hundred and thirteen, otherwi
 
 ## Section 2
 
-All laws and regulations inconsistent herewith are hereby repealed.1aшphi1
+All laws and regulations inconsistent herewith are hereby repealed.
 
 ## Section 3
 

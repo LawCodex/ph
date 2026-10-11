@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In recognition of the distinguished services rendered by Emiliano T. Tirona, Filipino statesman and leader and an illustrious son of the Province of Cavite, the name of Kawit High School is changed to Emiliano T. Tirona Memorial High School.1a⍵⍴h!1
+In recognition of the distinguished services rendered by Emiliano T. Tirona, Filipino statesman and leader and an illustrious son of the Province of Cavite, the name of Kawit High School is changed to Emiliano T. Tirona Memorial High School.
 
 ## Section 2
 

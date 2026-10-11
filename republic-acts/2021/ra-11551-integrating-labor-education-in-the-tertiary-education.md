@@ -51,7 +51,7 @@ _Integration of Labor Education in Higher Education Curriculum._ \- All public a
 
 The Commission on Higher Education (CHED), pursuant to its mandate under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994," shall develop the program to execute and implement this Act.**Section 5.** Integration of Labor Education in Technical and Vocational Education and Training (TVET) Curriculum. - All TVIs offering nondegree certificate and diploma courses ranging from one (1) to three (3) years shall integrate labor education as an elective course in the TVET curriculum.
 
-TVIs offering short-term courses ranging from one (1) month to less than one (1) year are encouraged to integrate labor education in the modular program of the TVET curriculum.ℒαwρhi৷
+TVIs offering short-term courses ranging from one (1) month to less than one (1) year are encouraged to integrate labor education in the modular program of the TVET curriculum.
 
 The Technical Education and Skills Development Authority (TESDA), in partnership with the Department of Labor and Employment (DOLE), shall develop the appropriate modules of instructions and other relevant materials relating to labor education in TVIs.
 

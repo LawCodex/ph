@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name Gumaca Emergency Hospital in the Municipality of Gumaca, Province of Quezon, is hereby changed to Gumaca General Hospital.£a⩊phi£
+The name Gumaca Emergency Hospital in the Municipality of Gumaca, Province of Quezon, is hereby changed to Gumaca General Hospital.
 
 ## Section 2
 

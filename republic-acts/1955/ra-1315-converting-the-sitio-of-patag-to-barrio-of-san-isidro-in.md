@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Patag in the Municipality of Basud, Province of Camarines Norte, is converted into a barrio to be called San Isidro.1âшphi1
+The sitio of Patag in the Municipality of Basud, Province of Camarines Norte, is converted into a barrio to be called San Isidro.
 
 ## Section 2
 

@@ -32,7 +32,7 @@ A national high school to be known as Batasan Hills National High School in the 
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

@@ -36,7 +36,7 @@ The landed estates or haciendas expropriated by virtue of this Act shall be subd
 
 ## Section 4
 
-The sale of the lots of the landed estates or haciendas expropriated by virtue of this Act, shall be in installments for a period of not less than ten years.1âшphi1
+The sale of the lots of the landed estates or haciendas expropriated by virtue of this Act, shall be in installments for a period of not less than ten years.
 
 ## Section 5
 

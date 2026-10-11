@@ -52,7 +52,7 @@ The Tinago Falls, herein, within the Municipality of Caibiran in the Province of
 
 The Bagongbong Falls, herein, within the Municipality of Almeria in the Province of Biliran, with coordinates beginning at a point marked cor "1″ northing 1286258 and easting 652825.8 and ending at a point marked cor "8″ northing 1286240 and easting 652815.6 covers an area of 0.21 hectares.
 
-The technical descriptions provided in this Act will be subject to ground survey and verification to be conducted by the Department of Environment and Natural Resources-NAMRIA.1âwphi1
+The technical descriptions provided in this Act will be subject to ground survey and verification to be conducted by the Department of Environment and Natural Resources-NAMRIA.
 
 ## Section 4
 

@@ -81,7 +81,7 @@ Section one hundred and eighty-eight of Commonwealth Act Numbered Four hundred a
 
 "Sec. 188. _Transactions and persons not subject to percentage tax._ — In computing the tax imposed in section one hundred and eighty-four, one hundred and eighty-five, and one hundred and eighty-six, transactions in the following commodities shall be excluded:
 
-"(a) Things subject to tax under Title IV of this Code.£á⩊phi£
+"(a) Things subject to tax under Title IV of this Code.
 
 "(b) Agricultural products and the ordinary salt when sold, bartered, or exchanged in this country by the producer or owner of the land where produced, whether in their original state or not.
 
@@ -91,7 +91,7 @@ Section one hundred and eighty-eight of Commonwealth Act Numbered Four hundred a
 
 "The following persons shall be exempt from the percentage taxes imposed in sections one hundred and eighty-four, one hundred and eighty-five and one hundred and eighty-six:
 
-"(a) Persons whose gross quarterly sales or receipts not exceed four hundred fifty pesos.£á⩊phi£
+"(a) Persons whose gross quarterly sales or receipts not exceed four hundred fifty pesos.
 
 "(b) All persons engaged in public market places exclusively in the sale at retail of domestic meat, fruits, vegetables, game, poultry, fish, and other domestic food products.
 

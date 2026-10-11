@@ -35,7 +35,7 @@ Three (3) additional branches of the Regional Trial Court in the cities of Alami
 
 ## SECTION 2
 
-The Supreme Court shall assign the respective branch numbers of the newly created court branches in the First Judicial Region.1âwphil
+The Supreme Court shall assign the respective branch numbers of the newly created court branches in the First Judicial Region.
 
 ## SECTION 3
 

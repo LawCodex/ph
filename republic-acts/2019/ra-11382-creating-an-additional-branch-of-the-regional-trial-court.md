@@ -46,7 +46,7 @@ All pending cases within the jurisdiction of the municipalities of Sinacaban and
 
 ## Section 4
 
-This Act amends Section 14(k) and Section 29 of Batas Pambansa Blg. 129, as amended.1âшphi1 All laws, decrees, orders, rules and regulations, other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed and modified accordingly.
+This Act amends Section 14(k) and Section 29 of Batas Pambansa Blg. 129, as amended. All laws, decrees, orders, rules and regulations, other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed and modified accordingly.
 
 ## Section 5
 

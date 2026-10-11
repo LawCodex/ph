@@ -39,7 +39,7 @@ __The Supreme Court shall assign the branch number of the newly created branch i
 
 ## SECTION 3
 
-__The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the additional branch of the Regional Trial Court in the Province of Misamis Oriental, with seat at Initao, the funding of which shall be included in the Annual General Appropriations Act. 1âwphi1 The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+__The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the additional branch of the Regional Trial Court in the Province of Misamis Oriental, with seat at Initao, the funding of which shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
 
 ## SECTION 4
 

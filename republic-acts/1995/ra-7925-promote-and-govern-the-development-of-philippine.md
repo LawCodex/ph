@@ -93,7 +93,7 @@ _Declaration of National Policy._ \- Telecommunications is essential to the econ
 
 ### Section 5
 
-_Responsibilities of the National Telecommunications Commission._ \- The National Telecommunications Commission (Commission) shall be the principal administrator of this Act and as such shall take the necessary measures to implement the policies and objectives set forth in this Act. Accordingly, in addition to its existing functions, the Commission shall be responsible for the following:Lawphil&159;
+_Responsibilities of the National Telecommunications Commission._ \- The National Telecommunications Commission (Commission) shall be the principal administrator of this Act and as such shall take the necessary measures to implement the policies and objectives set forth in this Act. Accordingly, in addition to its existing functions, the Commission shall be responsible for the following:
 
 (a) Adopt an administrative process which would facilitate the entry of qualified service providers and adopt a pricing policy which would generate sufficient returns to encourage them to provide basic telecommunications services in unserved and underserved areas;
 
@@ -233,7 +233,7 @@ _Rights of End-Users._ \- The user of telecommunications service shall have the 
 
 (c) Regular, timely and accurate billing, courteous and efficient service at utility business offices and by utility company personnel; and
 
-(d) Thorough and prompt investigation of, and action upon complaints. The utility shall endeavor to allow complaints to be received over the telephone and shall keep a record of all written or phoned-in complaints.lawphil©alf
+(d) Thorough and prompt investigation of, and action upon complaints. The utility shall endeavor to allow complaints to be received over the telephone and shall keep a record of all written or phoned-in complaints.
 
 ## ARTICLE VIII — TELECOMMUNICATIONS DEVELOPMENT
 

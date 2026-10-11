@@ -68,7 +68,7 @@ Section 27 of Republic Act No. 7166 is hereby amended to read as follows:
 
 ## Section 2
 
-_Separability Clause._ \- If any part of this Act is held invalid or unconstitutional, the remaining parts or provisions hereof shall remain valid and effective.1aшphi1
+_Separability Clause._ \- If any part of this Act is held invalid or unconstitutional, the remaining parts or provisions hereof shall remain valid and effective.
 
 ## Section 3
 

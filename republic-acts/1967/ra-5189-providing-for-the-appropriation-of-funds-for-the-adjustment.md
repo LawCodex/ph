@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-To enable the Board of Trustees of the Philippine Normal College to effect an adjustment of the salaries and compensation of the members of its faculty and administration officials, the sum of four hundred thousand pesos, or so much, thereof as may be necessary, is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated.1avvphi1
+To enable the Board of Trustees of the Philippine Normal College to effect an adjustment of the salaries and compensation of the members of its faculty and administration officials, the sum of four hundred thousand pesos, or so much, thereof as may be necessary, is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 2
 

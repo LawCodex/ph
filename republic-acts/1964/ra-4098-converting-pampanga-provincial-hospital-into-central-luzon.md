@@ -33,6 +33,6 @@ To carry out the provisions of this Act, there is hereby authorized to be approp
 
 ## Section 3
 
-This Act shall take effect on July first, nineteen hundred and sixty-four.1âшphi1
+This Act shall take effect on July first, nineteen hundred and sixty-four.
 
 Approved: June 19, 1964.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Philippine Bank of Commerce is hereby granted a franchise to establish, maintain and operate private fixed point-to-point, private coastal, land-based and land mobile radio stations in Manila as well as in all such places within the Philippines where it operates its business and/or the interest of its trade and business activities justify, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages on radiotelegraph or radiotelephone to and from said stations, each station to be provided with a radio transmitting and a radio receiving apparatus.1avvphi1
+The Philippine Bank of Commerce is hereby granted a franchise to establish, maintain and operate private fixed point-to-point, private coastal, land-based and land mobile radio stations in Manila as well as in all such places within the Philippines where it operates its business and/or the interest of its trade and business activities justify, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages on radiotelegraph or radiotelephone to and from said stations, each station to be provided with a radio transmitting and a radio receiving apparatus.
 
 ## Section 2
 

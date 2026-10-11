@@ -43,7 +43,7 @@ _Separability Clause._ – If, for any reason, any provision of this Act or any 
 
 ## Section 3
 
-_Repealing Clause._ – All laws, decrees, resolutions, orders or ordinances or parts thereof inconsistent with this Act are hereby repealed, amended or modified accordingly.1âwphi1
+_Repealing Clause._ – All laws, decrees, resolutions, orders or ordinances or parts thereof inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 4
 

@@ -101,7 +101,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Barangay Officials._ — The incumbent elected barangay officials of the said barangay shall hold office in Barangay Panacan-2 until such time that a new set of officers have duly elected and qualified.1a⍵⍴h!1
+_Barangay Officials._ — The incumbent elected barangay officials of the said barangay shall hold office in Barangay Panacan-2 until such time that a new set of officers have duly elected and qualified.
 
 ## Section 5
 

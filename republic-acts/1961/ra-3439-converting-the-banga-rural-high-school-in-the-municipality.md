@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Banga Rural High School in the Municipality of Banga, Province of Aklan, is hereby converted into an agricultural college, to be known as the Aklan Agricultural College.1âшphi1 The Secretary of Education is empowered to reorganize said school accordingly.1avvphi1
+The Banga Rural High School in the Municipality of Banga, Province of Aklan, is hereby converted into an agricultural college, to be known as the Aklan Agricultural College. The Secretary of Education is empowered to reorganize said school accordingly.
 
 ## Section 2
 

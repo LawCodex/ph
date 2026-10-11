@@ -35,7 +35,7 @@ In addition to its existing curricular offerings, the College shall offer degree
 
 ## Section 3
 
-The College shall be under the supervision of the Commission on Higher Education.Ꮮαwρhi৷ It shall be headed by the incumbent vocational school superintendent who shall be upgraded to vocational college superintendent position. The other relevant academic and technical positions shall likewise be upgraded to be at par with positions in state colleges and universities.
+The College shall be under the supervision of the Commission on Higher Education. It shall be headed by the incumbent vocational school superintendent who shall be upgraded to vocational college superintendent position. The other relevant academic and technical positions shall likewise be upgraded to be at par with positions in state colleges and universities.
 
 ## Section 4
 

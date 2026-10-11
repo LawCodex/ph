@@ -214,7 +214,7 @@ g) Such other officials as the Board may consider necessary for the efficient co
 
 ## Section 30
 
-_Merit System._ — All officials and employees of the Company shall be selected and appointed on the basis of merit and fitness in accordance with the comprehensive and progressive merit system to be adopted by the Company. Personnel including temporary workers shall be governed by such merit system.1a⍵⍴h!1
+_Merit System._ — All officials and employees of the Company shall be selected and appointed on the basis of merit and fitness in accordance with the comprehensive and progressive merit system to be adopted by the Company. Personnel including temporary workers shall be governed by such merit system.
 
 ## Section 31
 

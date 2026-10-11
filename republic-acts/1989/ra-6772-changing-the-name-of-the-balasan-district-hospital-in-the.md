@@ -39,7 +39,7 @@ Approved,
 <td>(Sgd.)<b>RAMON V. MITRA</b><br/>Speaker of the House of Representatives</td>
 </tr>
 <tr>
-<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 8, 1989 and September 15, 1989, respectively.<cite>1a⍵⍴h!1</cite></td>
+<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 8, 1989 and September 15, 1989, respectively.</td>
 </tr>
 <tr>
 <td>(Sgd.)<b>EDWIN P. ACOBA</b><br/>Secretary of the Senate</td>

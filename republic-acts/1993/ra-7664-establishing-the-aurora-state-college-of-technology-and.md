@@ -124,7 +124,7 @@ _Secretary of the State College._ \- There shall be a Secretary of the State Col
 
 ## Section 9
 
-_College Academic Council._ — There shall be a College Academic Council consisting of the President of the State College and all the members of the faculty holding the rank of professor, associate professor, and assistant professor. The Council alone shall have the power to prescribe the curriculum and rules of discipline, subject to the approval of the Board of Trustees. It shall also fix the requirements for admission as well as graduation. The Council has the authority to recommend the conferment of titles to deserving individuals. Through the President of the State College or its duly authorized committee, the Council shall have disciplinary power over the students of the State College within the limits prescribed by the Rules of Discipline approved by the Board of Trustees.1âшphi1
+_College Academic Council._ — There shall be a College Academic Council consisting of the President of the State College and all the members of the faculty holding the rank of professor, associate professor, and assistant professor. The Council alone shall have the power to prescribe the curriculum and rules of discipline, subject to the approval of the Board of Trustees. It shall also fix the requirements for admission as well as graduation. The Council has the authority to recommend the conferment of titles to deserving individuals. Through the President of the State College or its duly authorized committee, the Council shall have disciplinary power over the students of the State College within the limits prescribed by the Rules of Discipline approved by the Board of Trustees.
 
 ## Section 10
 

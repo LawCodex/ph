@@ -60,7 +60,7 @@ In order to carry out its duties effectively, the Board shall be empowered to is
 
 ## Section 5
 
-The Anti-Dummy Board shall have its main office in the City of Manila and shall meet at such time as it may designate.1âшphi1 The presence of three members of the Board shall constitute a quorum for the transaction of any of its business. The Board shall distribute its work among its members by lot: _Provided,_ That the Chairman shall exercise supervision over the other members of the Board.
+The Anti-Dummy Board shall have its main office in the City of Manila and shall meet at such time as it may designate. The presence of three members of the Board shall constitute a quorum for the transaction of any of its business. The Board shall distribute its work among its members by lot: _Provided,_ That the Chairman shall exercise supervision over the other members of the Board.
 
 With the exception of the Chairman of the Board, each member of the Board shall receive a salary of four thousand eight hundred pesos per annum: _Provided,_ That if a member of the Board is a governmental official, he shall not receive extra compensation as such member.
 

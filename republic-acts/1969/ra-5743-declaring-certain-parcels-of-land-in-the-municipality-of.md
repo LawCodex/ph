@@ -58,7 +58,7 @@ c. Site for wharf facility;
 
 d. Communal site;
 
-e. Industrial site; and (f) Residential site.1a⍵⍴h!1
+e. Industrial site; and (f) Residential site.
 
 ## Section 3
 

@@ -38,7 +38,7 @@ The Secretary of Public Works and Highways shall include in the Department’s p
 
 ## Section 3
 
-The Secretary of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1âwphi1
+The Secretary of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 4
 

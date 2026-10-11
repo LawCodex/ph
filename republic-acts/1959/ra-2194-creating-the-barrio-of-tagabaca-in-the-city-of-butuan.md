@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Tagabaca in the City of Butuan is converted into a barrio of said city to be known as the barrio of Tagabaca.1aшphi1
+The sitio of Tagabaca in the City of Butuan is converted into a barrio of said city to be known as the barrio of Tagabaca.
 
 ## Section 2
 

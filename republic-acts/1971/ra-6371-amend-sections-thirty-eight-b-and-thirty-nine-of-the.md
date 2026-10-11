@@ -27,7 +27,7 @@ Be it enacted by the. Senate and House of Representatives of the Philippines in 
 
 Section thirty-eight-B of Republic Act Numbered Four hundred and nine, otherwise known as the Charter of the City of Manila, as amended, is hereby further amended by adding thereto a new paragraph to read as follows:
 
-"The city fiscal may assign such number of assistant fiscals as he may deem necessary or advisable to hold office in the different congressional districts of the city for the purpose of conducting investigations and performing other official duties therein."1âшphi1
+"The city fiscal may assign such number of assistant fiscals as he may deem necessary or advisable to hold office in the different congressional districts of the city for the purpose of conducting investigations and performing other official duties therein."
 
 ## Section 2
 

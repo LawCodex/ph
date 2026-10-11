@@ -173,7 +173,7 @@ A. - CONGRESS OF THE PHILIPPINES
 <td>P200,000.00</td>
 </tr>
 <tr>
-<td rowspan="2">IV.</td><cite>1awphi1©</cite>
+<td rowspan="2">IV.</td>
 <td>- SPECIAL PURPOSES</td>
 </tr>
 <tr>
@@ -1002,5 +1002,5 @@ A. - CONGRESS OF THE PHILIPPINES
 </tr>
 </table>
 
-<table><br/> <b>Section 2.</b> The special and general provisions of Republic Act Numbered Three hundred twenty are hereby made applicable to the appropriations provided in this Act. <b>Section 3.</b> Section 5 of Republic Act Numbered Three hundred twenty as continued in force by Republic Act Numbered Four hundred twenty-four, is amended to read as follows: "Sec. 5. Authority to use savings. - The President of the Philippines is authorized to use any savings in the appropriations authorized in this Act for the Executive Departments, (1) for the payment of claims under section 699 of the Revised Administrative Code and the Workmen's Compensation Act, whichever is applicable, to officers, employees and laborers who died or were injured in line of duty; (2) for the commutation of the money value of the additional leave, extended leave, and accrued leave earned by American and deceased Filipino officers and employees, or by Filipino officers and employees separated from the service except for cause, for service rendered prior to November twenty-ninth, nineteen hundred and thirty-six; and (3) for the payment of salary increases of officials and employees of the National Government, resulting from the standardization of salaries or reclassification of provinces."<cite>1awphi1©</cite> <b>Section 4.</b> This Act shall take effect as of July first, nineteen hundred and forty-nine. Approved: April 28, 1950 <br/>
+<table><br/> <b>Section 2.</b> The special and general provisions of Republic Act Numbered Three hundred twenty are hereby made applicable to the appropriations provided in this Act. <b>Section 3.</b> Section 5 of Republic Act Numbered Three hundred twenty as continued in force by Republic Act Numbered Four hundred twenty-four, is amended to read as follows: "Sec. 5. Authority to use savings. - The President of the Philippines is authorized to use any savings in the appropriations authorized in this Act for the Executive Departments, (1) for the payment of claims under section 699 of the Revised Administrative Code and the Workmen's Compensation Act, whichever is applicable, to officers, employees and laborers who died or were injured in line of duty; (2) for the commutation of the money value of the additional leave, extended leave, and accrued leave earned by American and deceased Filipino officers and employees, or by Filipino officers and employees separated from the service except for cause, for service rendered prior to November twenty-ninth, nineteen hundred and thirty-six; and (3) for the payment of salary increases of officials and employees of the National Government, resulting from the standardization of salaries or reclassification of provinces." <b>Section 4.</b> This Act shall take effect as of July first, nineteen hundred and forty-nine. Approved: April 28, 1950 <br/>
 </table>

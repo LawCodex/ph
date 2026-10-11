@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Samal, Province of Davao del Norte, to be known as the Samal Emergency Hospital.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Samal, Province of Davao del Norte, to be known as the Samal Emergency Hospital.
 
 ## Section 2
 

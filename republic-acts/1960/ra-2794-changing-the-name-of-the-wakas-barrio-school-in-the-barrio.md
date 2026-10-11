@@ -28,6 +28,6 @@ The name of the Wakas Barrio School in the barrio of Wakas, Municipality of Kawi
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1960.

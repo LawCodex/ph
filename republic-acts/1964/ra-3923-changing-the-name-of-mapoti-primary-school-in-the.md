@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Mapoti Primary School in the Municipality of Nuling, Province of Cotabato, is hereby changed to Nibuaya Primary School.1âшphi1
+The name of Mapoti Primary School in the Municipality of Nuling, Province of Cotabato, is hereby changed to Nibuaya Primary School.
 
 ## Section 2
 

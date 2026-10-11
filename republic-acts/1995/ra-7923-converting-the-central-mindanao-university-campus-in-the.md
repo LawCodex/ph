@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Central Mindanao University Campus in the Municipality of Catarman, the Mindanao-Polytechnic State College Campus and the Camiguin School of Arts and Trades in the Municipality of Mambajao, all in the Province of Camiguin, are hereby integrated into a state college which shall be known as the Camiguin Polytechnic State College, hereinafter referred to as the College.1aшphi1
+The Central Mindanao University Campus in the Municipality of Catarman, the Mindanao-Polytechnic State College Campus and the Camiguin School of Arts and Trades in the Municipality of Mambajao, all in the Province of Camiguin, are hereby integrated into a state college which shall be known as the Camiguin Polytechnic State College, hereinafter referred to as the College.
 
 ## Section 2
 
@@ -168,7 +168,7 @@ All the assets, fixed and movable, personnel and records of the Central Mindanao
 
 ## Section 22
 
-All accounts and expenses of the College shall be audited by the Commission on Audit or its duly authorized representative.1aшphi1
+All accounts and expenses of the College shall be audited by the Commission on Audit or its duly authorized representative.
 
 ## Section 23
 

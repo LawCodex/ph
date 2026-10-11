@@ -58,7 +58,7 @@ The National Shipyards and Steel Corporation is empowered to issue the necessary
 
 ## Section 9
 
-All laws, executive orders and regulations, or parts thereof, which are inconsistent with this Act are hereby repealed.1âшphi1
+All laws, executive orders and regulations, or parts thereof, which are inconsistent with this Act are hereby repealed.
 
 ## Section 10
 

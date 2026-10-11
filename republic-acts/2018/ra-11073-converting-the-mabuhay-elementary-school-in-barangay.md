@@ -33,7 +33,7 @@ The Mabuhay Elementary School in Barangay Mabuhay, Municipality of Sultan Naga D
 
 ## Section 2
 
-All personnel, assets, liabilities, and records of the Mabuhay Elementary School are hereby transferred to and absorbed by the Mabuhay Integrated School.1âwphi1
+All personnel, assets, liabilities, and records of the Mabuhay Elementary School are hereby transferred to and absorbed by the Mabuhay Integrated School.
 
 ## Section 3
 

@@ -112,7 +112,7 @@ To carry out of the purposes of this Act, there is hereby appropriated for the "
 
 ## Section 12
 
-All public agricultural lands referred to in section fourteen of Executive Order Numbered Three hundred and fifty-five, dated October Twenty-three, nineteen hundred and fifty, are hereby transferred to the jurisdiction of the NARRA to be disposed of in accordance with the provisions of this Act: _Provided,_ That the settlement of the agricultural lands so transferred under this section by voluntary settlers who do not receive any direct assistance under the provisions of this Act or by duly qualified homestead applicants shall not be precluded nor obstructed.1âшphi1
+All public agricultural lands referred to in section fourteen of Executive Order Numbered Three hundred and fifty-five, dated October Twenty-three, nineteen hundred and fifty, are hereby transferred to the jurisdiction of the NARRA to be disposed of in accordance with the provisions of this Act: _Provided,_ That the settlement of the agricultural lands so transferred under this section by voluntary settlers who do not receive any direct assistance under the provisions of this Act or by duly qualified homestead applicants shall not be precluded nor obstructed.
 
 ## Section 13
 

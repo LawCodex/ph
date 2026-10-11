@@ -87,7 +87,7 @@ The Council shall implement and execute the policies laid down by the Board of T
 
 ## Section 9
 
-There shall be a Registrar of the Eastern Visayas Science High School, who shall also act as Secretary of the Board, to be appointed by the Director with the approval of the Board of Trustees. He shall keep such records as may be prescribed by the Board.1âшphi1
+There shall be a Registrar of the Eastern Visayas Science High School, who shall also act as Secretary of the Board, to be appointed by the Director with the approval of the Board of Trustees. He shall keep such records as may be prescribed by the Board.
 
 ## Section 10
 

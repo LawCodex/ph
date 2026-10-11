@@ -48,7 +48,7 @@ The incumbent Representatives of the existing First and Second Districts of the 
 
 ## Section 4
 
-The Commission on Elections (COMELEC) shall issue the necessary implementing rules and regulations within thirty (30) days after the effectivity of this Act.ℒαwρhi৷
+The Commission on Elections (COMELEC) shall issue the necessary implementing rules and regulations within thirty (30) days after the effectivity of this Act.
 
 ## Section 5
 

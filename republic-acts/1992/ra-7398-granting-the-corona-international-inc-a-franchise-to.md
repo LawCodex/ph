@@ -71,7 +71,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 12
 
-_General Telecommunications Policy Law._ \- The grantee shall comply with and be subject to the provisions of a general telecommunications policy law that may hereafter be enacted.1âшphi1
+_General Telecommunications Policy Law._ \- The grantee shall comply with and be subject to the provisions of a general telecommunications policy law that may hereafter be enacted.
 
 ## Section 13
 

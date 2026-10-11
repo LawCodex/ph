@@ -30,7 +30,7 @@ The boundary line of the new municipality and that of the Municipality of Bansal
 
 ## Section 2
 
-The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Philippines alone, and shall hold office until their successors shall have been elected in the next general election for provincial and municipal officials and shall have duly qualified.1âшphi1
+The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Philippines alone, and shall hold office until their successors shall have been elected in the next general election for provincial and municipal officials and shall have duly qualified.
 
 ## Section 3
 

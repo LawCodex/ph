@@ -69,7 +69,7 @@ The Province of Bulacan is hereby reapportioned into six (6) legislative distric
 
 (2) Marilao; and
 
-(3) City of Meycauayan.ℒαwρhi৷
+(3) City of Meycauayan.
 
 (e) Fifth Legislative District
 

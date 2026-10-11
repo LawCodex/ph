@@ -242,7 +242,7 @@ _Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise 
 
 ## Section 24
 
-_Parity Clause._ \- All other powers, functions and privileges, responsibilities and limitations to state universities and their officials under existing laws shall be deemed granted to or imposed upon the University and its officials, whenever appropriate.ℒαwρhi৷
+_Parity Clause._ \- All other powers, functions and privileges, responsibilities and limitations to state universities and their officials under existing laws shall be deemed granted to or imposed upon the University and its officials, whenever appropriate.
 
 ## Section 25
 

@@ -57,7 +57,7 @@ _Qualifications of Board Members.—_ The members of the Board shall at the time
 
 ### Section 5
 
-_Terms of Office.—_ The members of the Board shall hold office for a term of three years after their appointment or until their successors shall have been appointed and duly qualified. The members of the first Board appointed under this Act shall hold office for the following terms: one member for one year, who shall be the Chairman, one member for two years, and one member for three years.1âшphi1 The succeeding Chairman shall be the member with the shortest unexpired term. Vacancy shall be filled for the unexpired term only. Each member of the Board shall qualify by taking the proper oath of office prior to entering upon the performance of his duties.
+_Terms of Office.—_ The members of the Board shall hold office for a term of three years after their appointment or until their successors shall have been appointed and duly qualified. The members of the first Board appointed under this Act shall hold office for the following terms: one member for one year, who shall be the Chairman, one member for two years, and one member for three years. The succeeding Chairman shall be the member with the shortest unexpired term. Vacancy shall be filled for the unexpired term only. Each member of the Board shall qualify by taking the proper oath of office prior to entering upon the performance of his duties.
 
 ### Section 6
 

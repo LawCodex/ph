@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to the Hidalgo Enterprises, Inc., a corporation duly organized and existing under the laws of the Republic of the Philippines, for a period of fifty years from the date of approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and/or power for sale within the Municipalities of Daet, Talisay, Basud, Paracale, Jose Panganiban and Capalonga, all in the Province of Camarines Norte.1âшphi1 The grantee shall further have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places within said limits, poles, wires, transformers, capacitors, overhead protective devices, and pole line hardware, and other equipment necessary for the safe distribution of electric current to the public.
+Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to the Hidalgo Enterprises, Inc., a corporation duly organized and existing under the laws of the Republic of the Philippines, for a period of fifty years from the date of approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and/or power for sale within the Municipalities of Daet, Talisay, Basud, Paracale, Jose Panganiban and Capalonga, all in the Province of Camarines Norte. The grantee shall further have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places within said limits, poles, wires, transformers, capacitors, overhead protective devices, and pole line hardware, and other equipment necessary for the safe distribution of electric current to the public.
 
 ## Section 2
 
@@ -33,7 +33,7 @@ In the event that the National Power Corporation shall have established its line
 
 ## Section 3
 
-The rates for the sale of electric light, heat and/or power shall be subject to the approval of the Public Service Commission.1âшphi1
+The rates for the sale of electric light, heat and/or power shall be subject to the approval of the Public Service Commission.
 
 ## Section 4
 

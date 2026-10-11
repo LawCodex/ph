@@ -38,7 +38,7 @@ Section 3, paragraphs (c) and (d) of Republic Act No. 7166, is hereby amended to
 
 ## Section 2
 
-All provisions of laws, orders, decrees, rules and regulations or other issuances or any part thereof inconsistent with the provisions of this Act are hereby repealed or amended accordingly.1aшphi1
+All provisions of laws, orders, decrees, rules and regulations or other issuances or any part thereof inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
 
 ## Section 3
 

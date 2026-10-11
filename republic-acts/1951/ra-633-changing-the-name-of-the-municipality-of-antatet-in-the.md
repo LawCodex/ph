@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the municipality of Antatet, Province of Isabela, is hereby changed to Luna.1a⍵⍴h!1
+The name of the municipality of Antatet, Province of Isabela, is hereby changed to Luna.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is created a barrio in Municipality of Bauan, Province of Batangas, to be known as the barrio of San Vicente, and which shall be bounded on the north by the barrio of San Diego, on the east by the barrio of Alagao, on the south by the barrio of Baguilaua, and on the west by the school building of the barrio of Manalupang and a line running northward and southward from said building.1aшphi1
+There is created a barrio in Municipality of Bauan, Province of Batangas, to be known as the barrio of San Vicente, and which shall be bounded on the north by the barrio of San Diego, on the east by the barrio of Alagao, on the south by the barrio of Baguilaua, and on the west by the school building of the barrio of Manalupang and a line running northward and southward from said building.
 
 ## Section 2
 

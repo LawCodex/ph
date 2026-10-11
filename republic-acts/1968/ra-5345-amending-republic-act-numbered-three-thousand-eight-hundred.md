@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Sections one and two of Republic Act Numbered Three thousand eight hundred sixty are hereby amended to read as follows:
 
-"Sec. 1. There shall be established, under the supervision and administration of the Director of Vocational Education, a school of fisheries in any suitable place within the Municipality of Santo Tomas, Province of La Union, to be known as the Santo Tomas School of Fisheries.1avvphi1 The Director of Vocational Education shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purpose of this Act. Said Director shall also acquire the necessary site for the school which shall not be less than eight hectares.
+"Sec. 1. There shall be established, under the supervision and administration of the Director of Vocational Education, a school of fisheries in any suitable place within the Municipality of Santo Tomas, Province of La Union, to be known as the Santo Tomas School of Fisheries. The Director of Vocational Education shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purpose of this Act. Said Director shall also acquire the necessary site for the school which shall not be less than eight hectares.
 
 "Sec. 2. The sum of two hundred thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-nine. In subsequent years, the yearly General Appropriations Act shall provide for its operation and maintenance.
 

@@ -38,7 +38,7 @@ Section two of the same Act is hereby amended to read as follows:
 
 Subsection b of Section five of the same Act is hereby amended to read as follows:
 
-"b. To confer the degrees of Bachelor of Arts, Bachelor of Science in Education, Master of Arts in Education, and other degrees to successful candidates for graduation."1âшphi1
+"b. To confer the degrees of Bachelor of Arts, Bachelor of Science in Education, Master of Arts in Education, and other degrees to successful candidates for graduation."
 
 ## Section 4
 

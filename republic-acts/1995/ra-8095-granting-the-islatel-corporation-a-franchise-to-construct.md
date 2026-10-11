@@ -102,7 +102,7 @@ _Equality Clause._ \- If any subsequent franchise for telecommunication service 
 
 ## Section 19
 
-_General Telecommunications Policy Law._ \- The grantee, its successors or assigns, shall comply with a general telecommunications policy law which Congress may hereafter enact.1aшphi1
+_General Telecommunications Policy Law._ \- The grantee, its successors or assigns, shall comply with a general telecommunications policy law which Congress may hereafter enact.
 
 ## Section 20
 

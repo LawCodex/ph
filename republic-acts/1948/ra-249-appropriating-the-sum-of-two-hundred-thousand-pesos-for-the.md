@@ -36,6 +36,6 @@ The Secretary of Agriculture and Natural Resources shall report from time to tim
 
 ## Section 4
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: June 12, 1948.

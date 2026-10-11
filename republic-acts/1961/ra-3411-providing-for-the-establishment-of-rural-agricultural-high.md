@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Public Schools, rural agricultural high schools in the municipalities of General MacArthur, Maydolong, Can-Avid and Arteche, all in the Province of Samar, to be known as the General MacArthur Rural Agricultural High School, Maydolong Rural Agricultural High School, Can-Avid Rural Agricultural High School, and Arteche Rural Agricultural High School, respectively.1avvphi1
+There shall be established under the direct supervision of the Director of Public Schools, rural agricultural high schools in the municipalities of General MacArthur, Maydolong, Can-Avid and Arteche, all in the Province of Samar, to be known as the General MacArthur Rural Agricultural High School, Maydolong Rural Agricultural High School, Can-Avid Rural Agricultural High School, and Arteche Rural Agricultural High School, respectively.
 
 ## Section 2
 

@@ -57,7 +57,7 @@ _Term of Office.—_ The members of the Board shall hold office for a term of th
 
 ### Section 6
 
-_Executive Officer and Secretary of the Board.—_ The Commissioner of Civil Service shall be the executive officer of the Board and shall conduct the examination given by it.1âшphi1 The Secretary of the Board Examiners appointed under Act Numbered Four thousand seven shall also be the Secretary of the Board. All records and minutes of the deliberations of the Board, including examination papers, shall be kept by the Civil Service Commission under the direct custody of the Secretary.
+_Executive Officer and Secretary of the Board.—_ The Commissioner of Civil Service shall be the executive officer of the Board and shall conduct the examination given by it. The Secretary of the Board Examiners appointed under Act Numbered Four thousand seven shall also be the Secretary of the Board. All records and minutes of the deliberations of the Board, including examination papers, shall be kept by the Civil Service Commission under the direct custody of the Secretary.
 
 ### Section 7
 

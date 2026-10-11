@@ -30,7 +30,7 @@ The Aparri School of Fisheries in the Municipality of Aparri, Province of Cagaya
 
 The Aparri College of Fisheries shall, in addition to the secondary curriculum, offer the following collegiate courses:
 
-(a) Four-year teacher education course leading to the degree of Bachelor of Science in Fishing Education.1âшphi1
+(a) Four-year teacher education course leading to the degree of Bachelor of Science in Fishing Education.
 
 (b) Four-year technical fisheries course leading to the degree of Bachelor of Science in Fisheries.
 

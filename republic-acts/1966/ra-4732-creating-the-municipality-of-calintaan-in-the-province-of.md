@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Concepcion, Iriron, Poypoy, Malpalon, Dagupan, Tanyag and Calintaan in the Municipality of Sablayan, Province of Mindoro Occidental, are separated from said municipality and are constituted into a distinct and independent municipality, to be known as the Municipality of Calintaan, same province.1avvphi1 The seat of government shall be located at the present site of the barrio of Calintaan.
+Barrios Concepcion, Iriron, Poypoy, Malpalon, Dagupan, Tanyag and Calintaan in the Municipality of Sablayan, Province of Mindoro Occidental, are separated from said municipality and are constituted into a distinct and independent municipality, to be known as the Municipality of Calintaan, same province. The seat of government shall be located at the present site of the barrio of Calintaan.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to the Surigao Consolidated Mining Co., Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at such places as the said company may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or competent authority who is or shall be authorized to give said approval, such private fixed point-to-point and land-based radio stations for the reception and transmission of wireless messages on radiotelegraphy radiotelephony, each station to consist of a radio receiving apparatus and a radio transmitting apparatus.1âшphi1
+There is hereby granted to the Surigao Consolidated Mining Co., Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at such places as the said company may select, subject to the approval of the Department Secretary under whose jurisdiction the Radio Control Division is functioning, or competent authority who is or shall be authorized to give said approval, such private fixed point-to-point and land-based radio stations for the reception and transmission of wireless messages on radiotelegraphy radiotelephony, each station to consist of a radio receiving apparatus and a radio transmitting apparatus.
 
 ## Section 2
 
@@ -65,7 +65,7 @@ The grantee, its successors or assigns, is authorized to operate its private fix
 
 ## Section 11
 
-This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 12
 

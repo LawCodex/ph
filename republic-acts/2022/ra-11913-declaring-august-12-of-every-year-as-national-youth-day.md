@@ -54,7 +54,7 @@ _Implementing Rules and Regulations._ \- The NYC, in coordination with DepEd, CH
 
 ## Section 6
 
-_Appropriations._ \- The amounts necessary for the implementation of this Act shall be charged against the respective current year available appropriations of the NYC, DepEd, CHED and SK. Thereafter, the amounts necessary shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ \- The amounts necessary for the implementation of this Act shall be charged against the respective current year available appropriations of the NYC, DepEd, CHED and SK. Thereafter, the amounts necessary shall be included in the annual General Appropriations Act.
 
 ## Section 7
 

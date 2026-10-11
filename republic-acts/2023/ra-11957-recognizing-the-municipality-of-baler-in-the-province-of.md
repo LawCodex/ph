@@ -42,7 +42,7 @@ _Repealing Clause._ \- All other laws, acts, presidential decrees, executive ord
 
 ## Section 4
 
-_Effectivity._ This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation.1aшphi1
+_Effectivity._ This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation.
 
 Approved:
 

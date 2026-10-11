@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall comprise the cities of Ozamiz and Tangub and the municipalities of Sinacaban, Tudela, Clarin, Bonifacio and Don Victoriano.ℒαwρhi৷
+The said district engineering office shall comprise the cities of Ozamiz and Tangub and the municipalities of Sinacaban, Tudela, Clarin, Bonifacio and Don Victoriano.
 
 ## Section 3
 

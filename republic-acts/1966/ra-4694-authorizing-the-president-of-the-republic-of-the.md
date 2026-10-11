@@ -98,7 +98,7 @@ This conveyance is made for the exclusive purpose of enabling the Visayas-Mindan
 
 ## Section 3
 
-The title of the land conveyed by this Act shall not be transferred by the said organization to another person without previous authorization by the President of the Republic of the Philippines.1avvphi1
+The title of the land conveyed by this Act shall not be transferred by the said organization to another person without previous authorization by the President of the Republic of the Philippines.
 
 ## Section 4
 

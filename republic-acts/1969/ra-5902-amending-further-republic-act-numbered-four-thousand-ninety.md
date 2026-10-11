@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one of Republic Act Numbered Four thousand ninety-four is hereby further amended to read as follows:
 
-"**Section 1.** In the performance of his duties, the Secretary of Justice shall be assisted by a Technical Staff which shall have one Chief to be known as the Head Technical Assistant with a salary of seventeen thousand pesos _per annum_ , and two assistant chiefs to be known as Senior Technical Assistants each of whom shall receive an annual salary of sixteen thousand three hundred twenty pesos _per annum_ , two Senior Special Assistants each of whom shall receive a salary of fifteen thousand seven hundred twenty pesos _per annum_ and eight special assistants whose salaries shall be as follows:1âшphi1
+"**Section 1.** In the performance of his duties, the Secretary of Justice shall be assisted by a Technical Staff which shall have one Chief to be known as the Head Technical Assistant with a salary of seventeen thousand pesos _per annum_ , and two assistant chiefs to be known as Senior Technical Assistants each of whom shall receive an annual salary of sixteen thousand three hundred twenty pesos _per annum_ , two Senior Special Assistants each of whom shall receive a salary of fifteen thousand seven hundred twenty pesos _per annum_ and eight special assistants whose salaries shall be as follows:
 
 "(a) Two Special Assistants each at fifteen thousand pesos _per annum_ ;
 

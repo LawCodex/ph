@@ -82,7 +82,7 @@ Of the directors first appointed as above prescribed, the President of the Phili
 
 Before entering upon the discharge of their duties, each of the directors shall take the oath prescribed in section twenty-three of the Revised Administrative Code and in the Constitution of the Philippines.
 
-The members of the board shall each receive a per diem of not to exceed thirty pesos for each meeting actually attended by them.1awp++i1
+The members of the board shall each receive a per diem of not to exceed thirty pesos for each meeting actually attended by them.
 
 ## Section 5
 

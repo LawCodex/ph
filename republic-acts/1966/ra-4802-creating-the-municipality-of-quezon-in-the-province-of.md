@@ -29,7 +29,7 @@ The barrios and sitios of Nanapan (Pontian), Sta. Cruz, Dilapa, Kiburiao, Mibant
 
 ## Section 2
 
-The first mayor, vice-mayor and councilors shall be elected in the nineteen hundred and sixty-seven general elections for local officials.1avvphi1
+The first mayor, vice-mayor and councilors shall be elected in the nineteen hundred and sixty-seven general elections for local officials.
 
 ## Section 3
 

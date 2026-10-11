@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Morong, Province of Rizal.1awp++i1
+There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Morong, Province of Rizal.
 
 ## Section 2
 

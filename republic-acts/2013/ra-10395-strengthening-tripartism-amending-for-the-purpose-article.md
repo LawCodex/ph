@@ -39,7 +39,7 @@ Article 275 of the Labor Code is hereby amended to read as follows:
 
 "(c) A National Tripartite Industrial Peace Council (NTIPC) shall be established, headed by the Secretary of Labor and Employment, with twenty (20) representatives each from the labor and employers’ sectors to be designated by the President at regular intervals. For this purpose, a sectoral nomination, selection, and recall process shall be established by the DOLE in consultation with the sectors observing the ‘most representative’ organization criteria of ILO Convention No. 144.
 
-"Tripartite Industrial Peace Councils (TIPCs) at the regional or industry level shall also be established with representatives from government, workers and employers to serve as a continuing forum for tripartite advisement and consultation in aid of streamlining the role of government, empowering workers’ and employers’ organizations, enhancing their respective rights, attaining industrial peace, and improving productivity.1âwphi1
+"Tripartite Industrial Peace Councils (TIPCs) at the regional or industry level shall also be established with representatives from government, workers and employers to serve as a continuing forum for tripartite advisement and consultation in aid of streamlining the role of government, empowering workers’ and employers’ organizations, enhancing their respective rights, attaining industrial peace, and improving productivity.
 
 "The TIPCs shall have the following functions:
 

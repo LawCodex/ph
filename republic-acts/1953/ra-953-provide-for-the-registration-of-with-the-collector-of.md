@@ -68,7 +68,7 @@ p. Importers, manufacturers, compounders, and wholesale dealers shall keep such 
 
 q. A license to deal in narcotic drugs, shall be issued only to a person who, in the opinion of the Secretary of Finance or his duly authorized representative, is determined to be a person (1) of good moral character (2) who complies with such additional requirements as the Secretary of Finance or his duly authorized representative shall prescribe as reasonably necessary for the control of the traffic in narcotic drugs; and (3) who has such experience in manufacturing, compounding, and marketing other medicinal drugs as to render reasonably probable the orderly and lawful distribution of narcotic drugs especially in case he deals in the importation, exportation, manufacturing, compounding or wholesaling of such drugs.
 
-r. The Collector of Internal Revenue, with the approval of the Secretary of Finance, shall make all needful rules and regulations for carrying the provisions of this Act into effect.1a⍵⍴h!1
+r. The Collector of Internal Revenue, with the approval of the Secretary of Finance, shall make all needful rules and regulations for carrying the provisions of this Act into effect.
 
 ## Section 3
 

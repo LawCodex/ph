@@ -92,7 +92,7 @@ _Funding._ – The DTI and the DOH shall include in their respective annual budg
 
 ## Section 14
 
-_Grace Period._ – Manufacturers, retailers, distributors and importers are given one (1) year grace period to comply with these requirements from the effectivity of this Act.1âwphi1
+_Grace Period._ – Manufacturers, retailers, distributors and importers are given one (1) year grace period to comply with these requirements from the effectivity of this Act.
 
 ## Section 15
 

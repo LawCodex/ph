@@ -43,7 +43,7 @@ If the grantee shall not commence the construction of his ice plant and cold sto
 
 This franchise is granted with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the
 
-Philippines when the public interest so requires.1a⍵⍴h!1
+Philippines when the public interest so requires.
 
 ## Section 6
 

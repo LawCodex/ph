@@ -29,7 +29,7 @@ There is hereby established, in honor of the late President Sergio Osmeña, an O
 
 ## Section 2
 
-There is hereby created an Osmeña Memorial Commission, consisting of a chairman and two members, who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and who shall each serve a term of six years.1avvphi1 They shall serve without compensation.
+There is hereby created an Osmeña Memorial Commission, consisting of a chairman and two members, who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and who shall each serve a term of six years. They shall serve without compensation.
 
 ## Section 3
 

@@ -47,7 +47,7 @@ The chief of the hospital shall develop a hospital development plan to be submit
 
 ## Section 5
 
-The Secretary of Health shall include in the Department's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Health shall include in the Department's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

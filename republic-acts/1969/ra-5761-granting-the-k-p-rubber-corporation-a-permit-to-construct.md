@@ -52,7 +52,7 @@ The grantee, its successors or assigns, shall be subject to the corporation laws
 
 ## Section 8
 
-The grantee, its successors or assigns, is authorized to operate its private fixed point-to-point and land based and land mobile radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to it by the Secretary of Public Works and Communications.1a⍵⍴h!1
+The grantee, its successors or assigns, is authorized to operate its private fixed point-to-point and land based and land mobile radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to it by the Secretary of Public Works and Communications.
 
 ## Section 9
 

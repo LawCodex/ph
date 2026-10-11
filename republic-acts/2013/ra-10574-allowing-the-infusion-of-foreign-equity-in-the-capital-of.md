@@ -77,7 +77,7 @@ The implementing rules and regulations shall be published within ninety (90) day
 
 ## Section 6
 
-_Separability Clause._ – If, for any reason, any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in force and effect.1âwphi1
+_Separability Clause._ – If, for any reason, any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in force and effect.
 
 ## Section 7
 

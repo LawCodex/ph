@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Barrio Puzol in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Tugaoen.1âшphi1
+The name of Barrio Puzol in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Tugaoen.
 
 ## Section 2
 

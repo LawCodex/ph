@@ -28,7 +28,7 @@ There shall be established under the direct supervision of the Department of Hea
 
 ## Section 2
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and seventy-two: _Provided,_ That no portion of the appropriation shall be transferred. Thereafter, such sums as maybe needed for the operation and maintenance of this hospital shall be included in the General Appropriations Act.1âшphi1
+The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and seventy-two: _Provided,_ That no portion of the appropriation shall be transferred. Thereafter, such sums as maybe needed for the operation and maintenance of this hospital shall be included in the General Appropriations Act.
 
 ## Section 3
 

@@ -52,7 +52,7 @@ The grantee shall hold the national, provincial, city and municipal governments 
 
 ## Section 8
 
-The grantee shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1a⍵⍴h!1
+The grantee shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 9
 
@@ -68,6 +68,6 @@ Whenever in this temporary permit the term "grantee" is used, it shall be held t
 
 ## Section 12
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

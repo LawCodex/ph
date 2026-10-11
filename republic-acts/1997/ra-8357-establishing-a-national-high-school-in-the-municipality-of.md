@@ -42,4 +42,4 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 This Act shall take effect within fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.
 
-Approved, Lapsed into law on October 9, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on October 9, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

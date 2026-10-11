@@ -553,7 +553,7 @@ Any income earned from all other sources within the Philippines by the alien emp
 
 #### Section 26
 
-_Tax Liability of Members of General Professional Partnerships._ \- A general professional partnership as such shall not be subject to the income tax imposed under this Chapter. Persons engaging in business as partners in a general professional partnership shall be liable for income tax only in their separate and individual capacities.1avvphil.ñet
+_Tax Liability of Members of General Professional Partnerships._ \- A general professional partnership as such shall not be subject to the income tax imposed under this Chapter. Persons engaging in business as partners in a general professional partnership shall be liable for income tax only in their separate and individual capacities.
 
 For purposes of computing the distributive share of the partners, the net income of the partnership shall be computed in the same manner as a corporation.
 
@@ -1318,7 +1318,7 @@ No gain or loss shall also be recognized if property is transferred to a corpora
 
 (a) If the taxpayer, in connection with the exchanges described in the foregoing exceptions, receives stock or securities which would be permitted to be received without the recognition of the gain if it were the sole consideration, and as part of the consideration, another party to the exchange assumes a liability of the taxpayer, or acquires from the taxpayer property, subject to a liability, then such assumption or acquisition shall not be treated as money and/or other property, and shall not prevent the exchange from being within the exceptions.
 
-(b) If the amount of the liabilities assumed plus the amount of the liabilities to which the property is subject exceed the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.1avvphil.ñet
+(b) If the amount of the liabilities assumed plus the amount of the liabilities to which the property is subject exceed the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.
 
 (5) _Basis_ -
 
@@ -1370,7 +1370,7 @@ _Income from Sources Within the Philippines._ \-
 
 (c) The supply of scientific, technical, industrial or commercial knowledge or information;
 
-(d) The supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in paragraph (a), any such equipment as is mentioned in paragraph (b) or any such knowledge or information as is mentioned in paragraph (c);1avvphil.ñet
+(d) The supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in paragraph (a), any such equipment as is mentioned in paragraph (b) or any such knowledge or information as is mentioned in paragraph (c);
 
 (e) The supply of services by a nonresident person or his employee in connection with the use of property or rights belonging to, or the installation or operation of any brand, machinery or other apparatus purchased from such nonresident person;
 

@@ -214,7 +214,7 @@ The Board shall forthwith recommend a suitable site within the City of Talisay f
 
 _Tax Exemption on Importation and Donations._ \- The importation of economic, technical and cultural books and/or publications, which are for economic, technical, vocational, scientific, philosophical, historical or cultural purposes made by the Talisay City State College upon certification by the CHED, shall be exempt from customs duties in accordance with the provisions of the Tariff and Customs Code of the Philippines, as amended.
 
-All donations in any form to the Talisay City State College shall be exempt from the donor's tax and the same shall be considered as allowable deduction from the gross income in the computation of the income tax of the donor, in accordance with the provisions of the National Internal Revenue Code of 1997, as amended.ℒαwρhi৷
+All donations in any form to the Talisay City State College shall be exempt from the donor's tax and the same shall be considered as allowable deduction from the gross income in the computation of the income tax of the donor, in accordance with the provisions of the National Internal Revenue Code of 1997, as amended.
 
 ## Section 19
 

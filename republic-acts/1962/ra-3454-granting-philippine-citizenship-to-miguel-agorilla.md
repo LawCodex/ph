@@ -29,6 +29,6 @@ Miguel Agorilla is hereby granted Philippine citizenship with all the rights, pr
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

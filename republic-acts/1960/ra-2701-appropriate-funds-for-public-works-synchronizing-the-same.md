@@ -178,6 +178,6 @@ _Provided,_ That report in individual projects incorporating the aforementioned 
 
 ## Section 22
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 18, 1960, except **Section 20.**

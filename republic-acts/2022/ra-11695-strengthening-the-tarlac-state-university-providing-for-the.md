@@ -130,7 +130,7 @@ Any provision of existing laws, rules and regulations to the contrary notwithsta
 
 _Meetings of the Board._ – The Board shall regularly convene once every three (3) months. The Chairperson of the Board may, however, call a special meeting whenever necessary: _Provided,_ That members are notified in writing at least three (3) days prior to the conduct of said meeting.
 
-A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided,_ however, That the Chairperson of the Board or the President of the TSU is among those present in the meeting.7!ᕼdMᗄ7
+A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting: _Provided,_ however, That the Chairperson of the Board or the President of the TSU is among those present in the meeting.
 
 In case the CHED Chairperson cannot attend a meeting of the Board, a CHED Commissioner duly designated by the CHED Chairperson as representative to the meeting, shall have all the rights and responsibilities of regular member: _Provided,_ That during the meeting, the President of the TSU, as Vice Chairperson, shall be the presiding officer: _Provided,_ further, That this provision notwithstanding, the Chairperson of the CHED is hereby authorized to designate a CHED Commissioner as the regular Chairperson of the Board, in which case, the said CHED Commissioner shall act as the presiding officer.
 

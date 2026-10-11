@@ -59,7 +59,7 @@ Section 74 of Republic Act No. 3844, as amended by Republic Act No. 10374, other
 
 "(g) Agri-business firms or anchor firms providing credit support to ARBs, and small farmers and fisherfolk; and
 
-"(h) Duly accredited microfinance nongovernment organizations by the Microfinance NGO Regulatory Council.1âwphi1
+"(h) Duly accredited microfinance nongovernment organizations by the Microfinance NGO Regulatory Council.
 
 "Loans under this special socialized credit facility shall have an interest rate equivalent to not more than seventy-five percent (75%) of the Bank’s prevailing rates for loans to cooperatives: _Provided,_ That these conduits shall have an interest spread of not more than five (5) percentage points. The interest spread shall exclude crop insurance premiums and guarantee fees: _Provided, further,_ That a conduit cannot lend to another conduit.
 

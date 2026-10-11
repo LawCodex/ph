@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Municipality of Nuling in the Province of Cotabato is hereby changed to Sultan Kudarat.1a⍵⍴h!1
+The name of the Municipality of Nuling in the Province of Cotabato is hereby changed to Sultan Kudarat.
 
 ## Section 2
 

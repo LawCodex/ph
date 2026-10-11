@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Director of Animal Industry, an animal breeding station in the Municipality of Boljoon, Province of Cebu, to be known as the Boljoon Breeding Station.1âшphi1
+There is hereby established, under the supervision of the Director of Animal Industry, an animal breeding station in the Municipality of Boljoon, Province of Cebu, to be known as the Boljoon Breeding Station.
 
 ## Section 2
 

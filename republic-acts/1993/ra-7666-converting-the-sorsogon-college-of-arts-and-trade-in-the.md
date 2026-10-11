@@ -46,7 +46,7 @@ The existing high schools shall be transferred under the supervision of the Depa
 ## Section 5
 
 The College shall have the general powers of a corporation set forth in the Corporation Law. The administration of the College and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the
-President of the College insofar as authorized by the Board.1âшphi1
+President of the College insofar as authorized by the Board.
 
 ## Section 6
 

@@ -31,7 +31,7 @@ The seat of the government of the new municipality shall be at the present site 
 
 ## Section 2
 
-The first mayor, vice-mayor and councilors of the new municipality shall be duly elected in the next general elections for local officials.1avvphi1
+The first mayor, vice-mayor and councilors of the new municipality shall be duly elected in the next general elections for local officials.
 
 ## Section 3
 

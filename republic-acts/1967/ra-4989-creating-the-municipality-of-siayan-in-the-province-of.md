@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Siayan Proper, Polayo, Moyo, Diongan, Gonayen Proper, Datagan, Makasing, Soriao, Gunyan, Dinoyak, Pange, Balak, Lilolit, Mangilay, Domogok, and Paranglumba, are hereby separated from the Municipality of Sindangan, Province of Zamboanga del Norte, and constituted into a distinct and independent municipality, to be known as the Municipality of Siayan in the Province of Zamboanga del Norte.1avvphi1 The seat of government of the new municipality shall be in the present site of Barrio Paranglumba.
+Barrios Siayan Proper, Polayo, Moyo, Diongan, Gonayen Proper, Datagan, Makasing, Soriao, Gunyan, Dinoyak, Pange, Balak, Lilolit, Mangilay, Domogok, and Paranglumba, are hereby separated from the Municipality of Sindangan, Province of Zamboanga del Norte, and constituted into a distinct and independent municipality, to be known as the Municipality of Siayan in the Province of Zamboanga del Norte. The seat of government of the new municipality shall be in the present site of Barrio Paranglumba.
 
 ## Section 2
 

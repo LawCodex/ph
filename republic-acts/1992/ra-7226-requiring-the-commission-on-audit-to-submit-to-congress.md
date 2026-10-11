@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In addition to the financial reports required by existing law to be submitted to Congress, the Commission on Audit shall submit an annual report of the amounts obligated, treasury and funding warrants issued, and expenditures made every quarter during the fiscal year for each municipality, province, and city by all agencies and instrumentalities of the National Government, including government-owned corporations.1âшphi1
+In addition to the financial reports required by existing law to be submitted to Congress, the Commission on Audit shall submit an annual report of the amounts obligated, treasury and funding warrants issued, and expenditures made every quarter during the fiscal year for each municipality, province, and city by all agencies and instrumentalities of the National Government, including government-owned corporations.
 
 The annual report shall also contain the same data for each agency and instrumentality of the National Government, including government-owned corporations, by province and highly urbanized city.
 

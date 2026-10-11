@@ -75,4 +75,4 @@ Page 1984, paragraph "b", _Title_ J, Section five of the same Act is amended by 
 
 This Act shall take effect upon its approval.
 
-Enacted without executive approval, October 23, 1972.1âшphi1
+Enacted without executive approval, October 23, 1972.

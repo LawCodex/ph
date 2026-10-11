@@ -28,7 +28,7 @@ The bed capacity of the Ormoc General Hospital in the City of Ormoc is hereby in
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-two. Such sum as may be needed for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.1âшphi1
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-two. Such sum as may be needed for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

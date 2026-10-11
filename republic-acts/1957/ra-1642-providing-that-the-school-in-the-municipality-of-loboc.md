@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The school in the Municipality of Loboc, Province of Bohol, at present known as Oy Primary School, shall hereafter be known as Bartolome Doria Primary School.1âшphi1
+The school in the Municipality of Loboc, Province of Bohol, at present known as Oy Primary School, shall hereafter be known as Bartolome Doria Primary School.
 
 ## Section 2
 

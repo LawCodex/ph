@@ -48,9 +48,13 @@ The Philippine Amusement and Gaming Corporation VAGCOR) franchise granted under 
 
 "(h) to enter into, make, conclude, perform, and carry out contracts of every kind and nature and for any lawful purpose which are necessary, appropriate, proper or incidental to any business or purpose of the PAGCOR, including but not limited to investment agreements, joint venture agreements, management agreements, agency agreements, whether as principal or as an agent, manpower supply agreements, or any other similar agreements or arrangements with any person, firm, association or corporation."
 
-**SEC. 2._Repealing Clause._** \- All laws, decrees, executive orders, proclamations, rules and regulations and other issuances, or parts thereof which are inconsistent with the provisions of this Act, are hereby repealed, amended or modified.
+## SEC. 2
 
-**SEC. 3._Effectivity Clause._** \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
+_Repealing Clause._ \- All laws, decrees, executive orders, proclamations, rules and regulations and other issuances, or parts thereof which are inconsistent with the provisions of this Act, are hereby repealed, amended or modified.
+
+## SEC. 3
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

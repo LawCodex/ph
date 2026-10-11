@@ -28,15 +28,25 @@ AN ACT CONVERTING THE HIGHWAY HILLS ELEMENTARY SCHOOL IN THE CITY OF MANDALUYONG
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Convertion into an Integrated School._** \- The Highway Hills Elementary School in the City of Mandaluyong is hereby converted into an integrated school to be known as the Highway Hills Integrated School.
+## Section 1
 
-**Section 2._Transfer of Assets and Liabilities._** \- All personnel, assets, liabilities and records of the Highway Hills Elementary School are hereby transferred to and absorbed by the Highway Hills Integrated School.
+_Convertion into an Integrated School._ \- The Highway Hills Elementary School in the City of Mandaluyong is hereby converted into an integrated school to be known as the Highway Hills Integrated School.
 
-**Section 3._Appropriations._** \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Highway Hills Integrated School, the funding if which shall be included in the annual General Appropriations Act.
+## Section 2
 
-**Section 4._Implementation._** \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Highway Hills Elementary School are hereby transferred to and absorbed by the Highway Hills Integrated School.
 
-**Section 5._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+## Section 3
+
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Highway Hills Integrated School, the funding if which shall be included in the annual General Appropriations Act.
+
+## Section 4
+
+_Implementation._ \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

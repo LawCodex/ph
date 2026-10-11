@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The second paragraph of Article seventy-eight of Republic Act Numbered Three hundred eighty-six is amended to read as fallows:
 
-"However, thirty years after the approval of this Code, all marriages performed between Muslims or other non-Christians shall be solemnized in accordance with the provisions of this Code. But the President of the Philippines, upon recommendation of the Commissioner of National Integration, may at any time before the expiration of said period, by proclamation, make any of said provisions applicable to the Muslims and non-Christian inhabitants of any of the non-Christian provinces."1âшphi1
+"However, thirty years after the approval of this Code, all marriages performed between Muslims or other non-Christians shall be solemnized in accordance with the provisions of this Code. But the President of the Philippines, upon recommendation of the Commissioner of National Integration, may at any time before the expiration of said period, by proclamation, make any of said provisions applicable to the Muslims and non-Christian inhabitants of any of the non-Christian provinces."
 
 ## Section 2
 

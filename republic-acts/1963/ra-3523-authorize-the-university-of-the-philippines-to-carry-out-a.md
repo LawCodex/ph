@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The College of Forestry, University of the Philippines is hereby authorized to carry out a nationwide program of public education and information in forestry for the purpose of providing for the dissemination of research findings on forestry and to bring about general public appreciation of forest values.1awp++i1 The development and implementation of this program should be carried out in close cooperation with established forestry and information organization of the Government, with the College of Forestry, University of the Philippines as the central coordinating agency.
+The College of Forestry, University of the Philippines is hereby authorized to carry out a nationwide program of public education and information in forestry for the purpose of providing for the dissemination of research findings on forestry and to bring about general public appreciation of forest values. The development and implementation of this program should be carried out in close cooperation with established forestry and information organization of the Government, with the College of Forestry, University of the Philippines as the central coordinating agency.
 
 ## Section 2
 
@@ -36,7 +36,7 @@ There is hereby also established a Botanical Garden of not less than 200 hectare
 
 ## Section 4
 
-To provide the necessary land resources required for the establishment of the Central Forest Experiment Station and Botanical Garden and for other related purposes, the parcel of public domain known as Mt. Makiling, situated in the Municipalities of Bay, Los Baños, and Calamba, Province of Laguna, and the Municipality of Sto. Tomas, Province of Batangas, is hereby disestablished as a national park and in accordance with the limits and boundaries set forth in Proclamations No. 552, series of 1933, 214, series of 1937, and 692, series of 1960, is hereby ceded, transferred and conveyed to the University of the Philippines.1âшphi1
+To provide the necessary land resources required for the establishment of the Central Forest Experiment Station and Botanical Garden and for other related purposes, the parcel of public domain known as Mt. Makiling, situated in the Municipalities of Bay, Los Baños, and Calamba, Province of Laguna, and the Municipality of Sto. Tomas, Province of Batangas, is hereby disestablished as a national park and in accordance with the limits and boundaries set forth in Proclamations No. 552, series of 1933, 214, series of 1937, and 692, series of 1960, is hereby ceded, transferred and conveyed to the University of the Philippines.
 
 ## Section 5
 

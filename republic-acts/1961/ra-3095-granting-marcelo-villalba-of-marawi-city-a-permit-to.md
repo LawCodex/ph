@@ -36,7 +36,7 @@ In the event of any competing individual, partnership or corporation receiving f
 
 ## Section 4
 
-A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations or to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of said station during the continuance of the national emergency.1avvphi1
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations or to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of said station during the continuance of the national emergency.
 
 ## Section 5
 

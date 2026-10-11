@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the provisions of the Constitution and the provisions of laws, orders or issuances not inconsistent herewith, the Ibaan Electric and Engineering Corporation, hereunder referred to as the grantee, its successors or assigns, is hereby granted a franchise to construct, operate and maintain an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and power system for sale in the Municipality of lbaan, Province of Batangas, for a period of twenty-five (25) years from the date of effectivity of this Act.1âшphi1
+Subject to the provisions of the Constitution and the provisions of laws, orders or issuances not inconsistent herewith, the Ibaan Electric and Engineering Corporation, hereunder referred to as the grantee, its successors or assigns, is hereby granted a franchise to construct, operate and maintain an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and power system for sale in the Municipality of lbaan, Province of Batangas, for a period of twenty-five (25) years from the date of effectivity of this Act.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Ib
 
 ## Section 2
 
-The College shall be under the supervision and control of the Department of Education, Culture and Sports.1âшphi1
+The College shall be under the supervision and control of the Department of Education, Culture and Sports.
 
 ## Section 3
 

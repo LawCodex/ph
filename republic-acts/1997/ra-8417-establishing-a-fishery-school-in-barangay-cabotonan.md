@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Technical Education Skills and Development Authority (TESDA), a fishery school in Barangay Cabotonan, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Lagonoy Fishery School.1aшphi1
+There shall be established, under the supervision of the Technical Education Skills and Development Authority (TESDA), a fishery school in Barangay Cabotonan, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Lagonoy Fishery School.
 
 ## Section 2
 

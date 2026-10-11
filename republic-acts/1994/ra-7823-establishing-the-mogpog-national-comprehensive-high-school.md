@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established in Barangay Kapayang, Municipality of Mogpog, Province of Marinduque, a Mogpog National Comprehensive High School.1a⍵⍴h!1
+There shall be established in Barangay Kapayang, Municipality of Mogpog, Province of Marinduque, a Mogpog National Comprehensive High School.
 
 ## Section 2
 

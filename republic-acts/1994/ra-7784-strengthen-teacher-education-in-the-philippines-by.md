@@ -145,7 +145,7 @@ _Active Participation of Local Government Units._ \- Local government units shal
 
 ## Section 10
 
-_Appropriation._ \- The sum of One hundred million pesos (₱100,000,000) is hereby authorized to be appropriated from the income of duty-free shops or otherwise known as the Trust Liability Account of the Department of Tourism, for the initial organizational and developmental activities of the Centers and the Council: _Provided, however,_ That not more than five percent (5%) shall be devoted to Council's expenses. Thereafter, such amount as may be necessary to carry out the provisions of this Act shall be included in the annual budget of the Department of Education, Culture and Sports.1a⍵⍴h!1
+_Appropriation._ \- The sum of One hundred million pesos (₱100,000,000) is hereby authorized to be appropriated from the income of duty-free shops or otherwise known as the Trust Liability Account of the Department of Tourism, for the initial organizational and developmental activities of the Centers and the Council: _Provided, however,_ That not more than five percent (5%) shall be devoted to Council's expenses. Thereafter, such amount as may be necessary to carry out the provisions of this Act shall be included in the annual budget of the Department of Education, Culture and Sports.
 
 ## Section 11
 

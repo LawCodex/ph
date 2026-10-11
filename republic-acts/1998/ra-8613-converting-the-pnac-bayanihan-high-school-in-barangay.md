@@ -39,7 +39,7 @@ All personnel, records, assets and properties including buildings, sites and the
 
 ## Section 4
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.Ꮮαwρhi৷
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 5
 

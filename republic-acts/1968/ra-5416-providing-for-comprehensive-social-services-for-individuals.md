@@ -143,7 +143,7 @@ Any provision of law to the contrary notwithstanding but limited to the maximum 
 
 ## Section 10
 
-_Settlement and Revolving Fund._ — The Department of Social Welfare is hereby authorized to establish a Settlement and Revolving Fund. All income accruing from such projects shall form part of said revolving fund, and that such shall be used exclusively for projects of bureaus concerned.1avvphi1
+_Settlement and Revolving Fund._ — The Department of Social Welfare is hereby authorized to establish a Settlement and Revolving Fund. All income accruing from such projects shall form part of said revolving fund, and that such shall be used exclusively for projects of bureaus concerned.
 
 ## Section 11
 

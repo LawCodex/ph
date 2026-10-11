@@ -56,7 +56,7 @@ Upon the expiration of the term of the Committee on Privatization and the Asset 
 
 ## Section 4
 
-All laws, decrees, proclamations, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.1aшphi1
+All laws, decrees, proclamations, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 5
 

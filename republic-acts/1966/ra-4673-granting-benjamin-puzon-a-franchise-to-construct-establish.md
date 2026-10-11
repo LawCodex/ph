@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution, Benjamin Puzon is hereby granted a franchise to construct, establish, maintain, and operate in the Philippines at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point coastal, aeronautical, land-based and land-mobile radio stations for the reception and transmission of wireless messages on radiotelegraph or radiotelephone, each to be provided with a radio transmitting-receiving apparatus.1avvphi1
+Subject to the provisions of the Constitution, Benjamin Puzon is hereby granted a franchise to construct, establish, maintain, and operate in the Philippines at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point coastal, aeronautical, land-based and land-mobile radio stations for the reception and transmission of wireless messages on radiotelegraph or radiotelephone, each to be provided with a radio transmitting-receiving apparatus.
 
 ## Section 2
 

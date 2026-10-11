@@ -45,7 +45,7 @@ The Secretary of the Department of Health (DOH) shall immediately include in the
 
 ## Section 5
 
-The Chief of Hospital shall submit to the DOH a development plan to reflect the development goals of the Center.ℒαwρhi৷ The medical personnel, capital outlays and budgetary needs for the operation of the Center shall be based on its development plan.
+The Chief of Hospital shall submit to the DOH a development plan to reflect the development goals of the Center. The medical personnel, capital outlays and budgetary needs for the operation of the Center shall be based on its development plan.
 
 ## Section 6
 

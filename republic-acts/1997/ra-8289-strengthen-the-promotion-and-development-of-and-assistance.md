@@ -54,7 +54,7 @@ Sec. 4 of Republic Act No. 6977 is hereby amended to read as follows:
 
 "(c) a business activity within the major sectors of the economy, namely: industry, services, including the practice of one's profession, the operation of tourism-related establishments, and agri-business, which for purposes of this Act refers to any business activity involving the manufacturing, processing, and/or production of agricultural produce, excluding farm level agriculture/crop production; and
 
-"(d) it must not be a branch, subsidiary or division of a large scale enterprise nor may its policies be determined by a large scale enterprise or by persons who are not owners or employees of the enterprise.1aшphi1
+"(d) it must not be a branch, subsidiary or division of a large scale enterprise nor may its policies be determined by a large scale enterprise or by persons who are not owners or employees of the enterprise.
 
 "However, this requirement shall not prelude a small and medium enterprise from accepting subcontracts from large enterprise or firms joining in cooperative activities with other small and medium enterprises.
 
@@ -194,10 +194,16 @@ Sec. 14 of Republic Act No, 6977 is hereby amended to read follows:
 
 "SEC. 14. _Penalty Clause._ \- The Bangko Sentral ng Pilipinas shall impose administrative sanctions and other penalties on the lending institutions for non-compliance with provision of this Act including a fine of not less than Five hundred thousand pesos (P500,000)."
 
-**Section 11._Separability Clause._** \- The provision of this Act are hereby declared to be separable. If any provision of this Act shall be held unconstitutional, the remainder of the Act not other wise affected shall remain in full force and effect.
+### Section 11
 
-**Section 12._Repealing Clause._** \- All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+_Separability Clause._ \- The provision of this Act are hereby declared to be separable. If any provision of this Act shall be held unconstitutional, the remainder of the Act not other wise affected shall remain in full force and effect.
 
-**Section 13._Effectivity._** \- This Act shall take effect upon its approval.
+### Section 12
+
+_Repealing Clause._ \- All laws, executive orders, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed or modified accordingly.
+
+### Section 13
+
+_Effectivity._ \- This Act shall take effect upon its approval.
 
 Approved: **May 6, 1997**.

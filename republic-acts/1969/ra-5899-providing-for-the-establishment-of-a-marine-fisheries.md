@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established and maintained, under the supervision of the Commissioner of Fisheries, a marine fisheries experimental station at Barrio Lo-oc, Municipality of Argao, Province of Cebu.1âшphi1
+There shall be established and maintained, under the supervision of the Commissioner of Fisheries, a marine fisheries experimental station at Barrio Lo-oc, Municipality of Argao, Province of Cebu.
 
 ## Section 2
 

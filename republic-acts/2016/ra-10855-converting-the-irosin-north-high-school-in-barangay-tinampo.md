@@ -34,7 +34,7 @@ _The Irosin North High School_ in Barangay Tinampo, Municipality of Irosin, Prov
 
 ## SECTION 2
 
-All personnel, assets, liabilities and records of the Irosin North High School are hereby transferred to and absorbed by the Irosin North National High School.1âwphi1
+All personnel, assets, liabilities and records of the Irosin North High School are hereby transferred to and absorbed by the Irosin North National High School.
 
 ## SECTION 3
 

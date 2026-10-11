@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the "Municipal Government of Janiuay, Province of Iloilo." For a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and/or power system for sale within the limits of the municipality of Janiuay, Province of Iloilo.1aшphi1
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the "Municipal Government of Janiuay, Province of Iloilo." For a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and/or power system for sale within the limits of the municipality of Janiuay, Province of Iloilo.
 
 ## Section 2
 

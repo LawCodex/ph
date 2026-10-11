@@ -77,7 +77,7 @@ The Auditor General and the Government Corporate Counsel shall be the ex-officio
 
 Any disposable surplus that may result from the operation of this Fund once declared by the System shall be apportioned in accordance with the schedule approved by the System among the governments whose properties are insured in the Fund.
 
-The Government of the Republic of the Philippines hereby guarantees the fulfillment of the obligations of the Fund when and as they shall become due.1a⍵⍴h!1
+The Government of the Republic of the Philippines hereby guarantees the fulfillment of the obligations of the Fund when and as they shall become due.
 
 ## Section 10
 

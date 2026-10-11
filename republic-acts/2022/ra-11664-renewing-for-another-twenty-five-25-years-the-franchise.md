@@ -78,7 +78,7 @@ _Sales, Lease, transfer, Grant of Usufruct, or Assignment of Franchise._ \- The 
 
 ## Section 11
 
-_Reportorial Requirement._ \- The Grantee shall submit an annual report on its compliance with the terms and conditions of the franchise and on its operations to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on or before April 30 of every year during the term of its franchise.ℒαwρhi৷
+_Reportorial Requirement._ \- The Grantee shall submit an annual report on its compliance with the terms and conditions of the franchise and on its operations to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on or before April 30 of every year during the term of its franchise.
 
 The annual report shall include an update on the roll-out, development, operation or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 

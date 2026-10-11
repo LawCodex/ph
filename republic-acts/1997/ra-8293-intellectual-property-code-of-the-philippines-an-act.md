@@ -1803,7 +1803,7 @@ _Editing, Arranging and Adaptation of Work._ \- In the absence of a contrary sti
 
 _Term of Moral Rights._ \- 198.1. The rights of an author under this chapter shall last during the lifetime of the author and for fifty (50) years after his death and shall not be assignable or subject to license. The person or persons to be charged with the posthumous enforcement of these rights shall be named in writing to be filed with the National Library. In default of such person or persons, such enforcement shall devolve upon either the author's heirs, and in default of the heirs, the Director of the National Library.
 
-198.2. For purposes of this Section, "Person" shall mean any individual, partnership, corporation, association, or society.1aшphi1 The Director of the National Library may prescribe reasonable fees to be charged for his services in the application of provisions of this Section. (Sec. 39, P.D. No. 49)
+198.2. For purposes of this Section, "Person" shall mean any individual, partnership, corporation, association, or society. The Director of the National Library may prescribe reasonable fees to be charged for his services in the application of provisions of this Section. (Sec. 39, P.D. No. 49)
 
 #### Section 199
 

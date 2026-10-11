@@ -35,7 +35,7 @@ _Title._ \- This Act shall be known as the **_"Handbook for OFWs Act of 2018"_**
 
 ## Section 2
 
-_Creating a Handbook for Overseas Filipino Workers._ \- The handbook for overseas Filipino workers, known in this Act as "Handbook", shall be created and issued to every land-based and sea-based worker free of charge. It shall serve as a ready reference for migrant workers when they need to assert their rights and responsibilities.1avvphi1 It shall also deal with key issues that they need to know in order to maintain decent employment conditions overseas.
+_Creating a Handbook for Overseas Filipino Workers._ \- The handbook for overseas Filipino workers, known in this Act as "Handbook", shall be created and issued to every land-based and sea-based worker free of charge. It shall serve as a ready reference for migrant workers when they need to assert their rights and responsibilities. It shall also deal with key issues that they need to know in order to maintain decent employment conditions overseas.
 
 The contents of the Handbook shall be written in English with translations in local languages as may be necessary.
 
@@ -69,7 +69,7 @@ _Amendment._ \- Subparagraph (b.l) of paragraph (b) of Section 23 of Republic Ac
 
 "The Administration is hereby mandated to develop, publish, disseminate and update periodically a Handbook on the rights and responsibilities of migrant workers as provided by Philippine laws and the existing labor and social laws of the countries of destination that will protect and guarantee the rights of migrant workers. The Handbook shall be written in simple words that can be easily understood with translation in local language as may be necessary.
 
-"It shall also be responsible for the implementation, in partnership with other law enforcement agencies, of an intensified program against illegal recruitment activities. For this purpose, the POEA shall provide comprehensive gender-sensitive Pre-employment Orientation Seminars (PEOS) that will discuss topics not only on the prevention of illegal recruitment but also on the content of the Handbook on the rights and responsibilities of migrant workers.1âwphi1
+"It shall also be responsible for the implementation, in partnership with other law enforcement agencies, of an intensified program against illegal recruitment activities. For this purpose, the POEA shall provide comprehensive gender-sensitive Pre-employment Orientation Seminars (PEOS) that will discuss topics not only on the prevention of illegal recruitment but also on the content of the Handbook on the rights and responsibilities of migrant workers.
 
 "x x x."
 

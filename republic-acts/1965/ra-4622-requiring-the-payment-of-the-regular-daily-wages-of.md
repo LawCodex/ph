@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, all laborers and employees of the Philippine Government, whether on the national, provincial, local or city level, including laborers and employees of government-owned or controlled corporations, whether their employment is permanent or temporary in nature , shall be paid their regular daily wages during all special Public holidays, local or national.1âшphi1
+Any provision of law to the contrary notwithstanding, all laborers and employees of the Philippine Government, whether on the national, provincial, local or city level, including laborers and employees of government-owned or controlled corporations, whether their employment is permanent or temporary in nature , shall be paid their regular daily wages during all special Public holidays, local or national.
 
 ## Section 2
 

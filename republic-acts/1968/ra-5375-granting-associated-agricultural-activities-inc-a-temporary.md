@@ -37,7 +37,7 @@ The grantee, its successors or assigns, shall not engage in domestic business of
 
 ## Section 4
 
-The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.1avvphi1
+The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
 
 ## Section 5
 

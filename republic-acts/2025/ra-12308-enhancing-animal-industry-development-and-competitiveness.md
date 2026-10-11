@@ -69,7 +69,7 @@ _Definition of Terms._ \- As used in this Act:
 
 (o) Livestock agencies refer to the BAI, National Dairy Authority (NDA), National Livestock Program (NLP), National Meat Inspection Service (NMIS), and the Philippine Carabao Center (PCC) which are reorganized in this Act;
 
-(p) Meat refers to the fresh, chilled, or frozen edible carcass including offal derived from food animals;ℒαwρhi৷
+(p) Meat refers to the fresh, chilled, or frozen edible carcass including offal derived from food animals;
 
 (q) Meat establishment refers to premises such as slaughterhouse, poultry dressing plant, meat cutting plant, meat processing plant, cold storage facility, and any other meat outlet in which food animals or meat products are slaughtered, prepared, processed, handled, packed, or stored;
 
@@ -149,7 +149,7 @@ _Definition of Terms._ \- As used in this Act:
 
 _Reorganizing and Strengthening the Bureau of Animal Industry._ \- The BAI is hereby expanded and reclassified into a line agency attached to the Department of Agriculture (DA), with regional and provincial offices. The BAI shall have an office for developmental functions, within which the NLP and its functions shall be absorbed. The NMIS is hereby reorganized and strengthened to be the core regulatory office of the BAI.
 
-The BAI developmental office shall be called the Animal Development and Welfare Office (ADWO) and the BAI regulatory office shall be called the Animal Regulation and Enforcement Office (AREO).ℒαwρhi৷
+The BAI developmental office shall be called the Animal Development and Welfare Office (ADWO) and the BAI regulatory office shall be called the Animal Regulation and Enforcement Office (AREO).
 
 The BAI shall be headed by an Administrator with the rank of an Undersecretary. The BAI shall also create, oversee, and implement the National Animal Industry Roadmap, in consultation with relevant stakeholders.
 

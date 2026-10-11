@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-_Increase in Authorized Capacity._ -The authorized bed capacity of the Mariano Marcos Memorial Hospital and Medical Center (MMMH&MC), Batac City, Ilocos Norte is hereby upgraded from two hundred (200) to seven hundred (700) beds.1âшphi1 The increase in bed capacity of MMMH&MC shall be implemented consistent with the five (5)-year development plan of the hospital.
+_Increase in Authorized Capacity._ -The authorized bed capacity of the Mariano Marcos Memorial Hospital and Medical Center (MMMH&MC), Batac City, Ilocos Norte is hereby upgraded from two hundred (200) to seven hundred (700) beds. The increase in bed capacity of MMMH&MC shall be implemented consistent with the five (5)-year development plan of the hospital.
 
 ## Section 2
 

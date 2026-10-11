@@ -47,11 +47,11 @@ _Hold-Over._ \- Until their successors shall have been duly elected and qualifie
 
 ## Section 4
 
-_Appropriations._ \- The amount necessary for the implementation of this Act shall be taken from the appropriations of the Commission on Elections (COMELEC) under the General Appropriations Act and/or supplementary appropriation thereafter.1aшphi1
+_Appropriations._ \- The amount necessary for the implementation of this Act shall be taken from the appropriations of the Commission on Elections (COMELEC) under the General Appropriations Act and/or supplementary appropriation thereafter.
 
 ## Section 5
 
-_Separability Clause._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.1aшphi1
+_Separability Clause._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
 ## Section 6
 

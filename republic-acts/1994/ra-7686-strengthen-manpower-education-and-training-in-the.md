@@ -201,7 +201,7 @@ _Other Exemption from Taxes and Duties._ — Any donation, contribution, bequest
 
 _Provided, however,_ That taxes and duties pertaining to the importations of accredited government and dual training educational institutions are deemed automatically appropriated.
 
-The Department of Finance shall formulate the necessary rules and regulations to implement the provisions of this section.1a⍵⍴h!1
+The Department of Finance shall formulate the necessary rules and regulations to implement the provisions of this section.
 
 ## Section 19
 

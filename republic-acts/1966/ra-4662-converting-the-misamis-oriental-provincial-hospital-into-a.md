@@ -29,7 +29,7 @@ Misamis Oriental Provincial Hospital at Cagayan de Oro City is hereby converted 
 
 ## Section 2
 
-The present officials, staff employees and laborers of Misamis Oriental Provincial Hospital shall be absorbed by Northern Mindanao Regional Training Hospital. The salaries and wages of these personnel shall be adjusted in accordance with the Wage and Position Classification Organization range for each respective scale and in accordance with other existing salary laws and regulations.1avvphi1
+The present officials, staff employees and laborers of Misamis Oriental Provincial Hospital shall be absorbed by Northern Mindanao Regional Training Hospital. The salaries and wages of these personnel shall be adjusted in accordance with the Wage and Position Classification Organization range for each respective scale and in accordance with other existing salary laws and regulations.
 
 ## Section 3
 

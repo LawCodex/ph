@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY LALAWIGAN, MUNICIPALITY OF MERCEDES, PROVINCE OF CAMARINES NORTE, TO BE KNOWN AS THE LALAWIGAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

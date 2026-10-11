@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the barrio of Nabbayugan in the Municipality of Piat, Province of Cagayan, is hereby changed to Sto. Domingo.£a⩊phi£
+The name of the barrio of Nabbayugan in the Municipality of Piat, Province of Cagayan, is hereby changed to Sto. Domingo.
 
 ## Section 2
 

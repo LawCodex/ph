@@ -34,6 +34,8 @@ Title I, Chapter 3, Article 39 of Executive Order No. 209, otherwise known as th
 
 "Art. 39. The action or defense for the declaration of absolute nullity of a marriage shall not prescribe."
 
-**Section 2._Effectivity clause._** – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
+## Section 2
+
+_Effectivity clause._ – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
 
 _Approved:_ **February 23, 1998**

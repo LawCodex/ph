@@ -66,7 +66,7 @@ _Term of Franchise._ \- This franchise shall be in effect for a period of twenty
 
 ## Section 7
 
-_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shall determine, to guarantee compliance with and fulfillment cf the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the same, the bond shall be cancelled by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.1âwphi1
+_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shall determine, to guarantee compliance with and fulfillment cf the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the same, the bond shall be cancelled by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
 
 ## Section 8
 

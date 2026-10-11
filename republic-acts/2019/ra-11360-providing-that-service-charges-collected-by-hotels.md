@@ -36,7 +36,7 @@ Article 96 of the Labor Code is amended to read as follows:
 
 "In the event that the minimum wage is increased by law of wage order, service charges paid to the covered employees shall not be considered in determining the employer's compliance with the increased minimum age.
 
-"To facilitate resolution of any dispute between the management and the employees on the distribution of service charges, a grievance mechanism shall be established.ᇈWᑭHIL If no grievance mechanism is established or if inadequate, the grievance shall be referred to the regional office of the Department of Labor and Employment which has jurisdiction over the workplace for conciliation.
+"To facilitate resolution of any dispute between the management and the employees on the distribution of service charges, a grievance mechanism shall be established. If no grievance mechanism is established or if inadequate, the grievance shall be referred to the regional office of the Department of Labor and Employment which has jurisdiction over the workplace for conciliation.
 
 "For purposes of this Article, managerial employees refer to any person vested with powers or prerogatives to lay down and execute management policies or hire, transfer, suspend, pay-off, recall, discharge, assign or discipline employees or to effectively recommend such managerial actions."
 

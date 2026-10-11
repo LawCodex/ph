@@ -78,7 +78,7 @@ _Warranty in Favor of National and Local Governments._ \- The grantee shall hold
 
 ## Section 10
 
-_Rates for Services._ \- The rates to be charged to the subscribers for telephone service and other telecommunications services, whether flat rates or measured rates, are subject to the approval of the National Telecommunications Commission.1âшphi1
+_Rates for Services._ \- The rates to be charged to the subscribers for telephone service and other telecommunications services, whether flat rates or measured rates, are subject to the approval of the National Telecommunications Commission.
 
 ## Section 11
 

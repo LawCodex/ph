@@ -143,7 +143,7 @@ _Right of Eminent Domain._ – Subject to the limitations and procedures prescri
 
 ## Section 13
 
-_Term of the Franchise._ – This franchise shall be for a term of twenty-five (25) years from the effectivity of this Act, unless sooner cancelled or revoked by the Congress when the public interest so requires or when the grantee fails to reasonably comply with regulatory standards.1aшphi1 This franchise shall be deemed _ipso facto_ revoked in the event the grantee fails to operate continuously for two (2) years, in case of default, as provided for in the grantee’s Concession Agreement.
+_Term of the Franchise._ – This franchise shall be for a term of twenty-five (25) years from the effectivity of this Act, unless sooner cancelled or revoked by the Congress when the public interest so requires or when the grantee fails to reasonably comply with regulatory standards. This franchise shall be deemed _ipso facto_ revoked in the event the grantee fails to operate continuously for two (2) years, in case of default, as provided for in the grantee’s Concession Agreement.
 
 ## Section 14
 
@@ -179,7 +179,7 @@ _Reportorial Requirement._ – The grantee shall submit an annual report on its 
 
 The annual report shall include an update on the development, operation, and expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the Regulatory Office on the status of its permits and operations; and an update on its dispersal of ownership required under Section 19.
 
-The grantee shall submit to the MWSS Regulatory Office a completion plan for the establishment and operation of water, sewerage and sanitation projects covering a period until 2037 which shall include period five (5)-year completion targets with the end goal of achieving one hundred percent (100%) water, sewerage and sanitation coverage by 2037.ℒαwρhi৷ The grantee shall submit an annual progress report of its compliance with such targets to the MWSS Regulatory Office and to Congress.
+The grantee shall submit to the MWSS Regulatory Office a completion plan for the establishment and operation of water, sewerage and sanitation projects covering a period until 2037 which shall include period five (5)-year completion targets with the end goal of achieving one hundred percent (100%) water, sewerage and sanitation coverage by 2037. The grantee shall submit an annual progress report of its compliance with such targets to the MWSS Regulatory Office and to Congress.
 
 The Regulatory Office shall, one (1) year from the grant of this franchise, and very five (5) years thereafter, conduct a comprehensive assessment of the grantee’s operations and compliance with the conditions imposed hereunder and submit a report thereof to Congress. The grantee shall transmit to the Regulatory Office all information and documents necessary to complete such assessment.
 

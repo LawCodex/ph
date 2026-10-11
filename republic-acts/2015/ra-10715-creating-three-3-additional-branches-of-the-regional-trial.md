@@ -35,7 +35,7 @@ Three (3) additional branches of the Regional Trial Court to be stationed in the
 
 ## SECTION 2
 
-The Supreme Court shall assign the branch numbers of the newly created Regional Trial Court branches in the Sixth Judicial Region.1âwphi1
+The Supreme Court shall assign the branch numbers of the newly created Regional Trial Court branches in the Sixth Judicial Region.
 
 ## SECTION 3
 

@@ -35,7 +35,7 @@ An additional branch of the Regional Trial Court to be stationed in the City of 
 
 ## SECTION 2
 
-The Supreme Court shall assign the branch number of the newly created Regional Trial Court branch in the Third Judicial Region.1âwphi1
+The Supreme Court shall assign the branch number of the newly created Regional Trial Court branch in the Third Judicial Region.
 
 ## SECTION 3
 

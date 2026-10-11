@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Paulino Dari National High School - Liguac Extension in Barangay Liguac, Municipality of Pitogo, Province of Zamboanga del Norte is hereby separated from the Paulino Dari National High School and converted into an independent national high school to be known as the Liguac National High School.ℒαwρhi৷
+The Paulino Dari National High School - Liguac Extension in Barangay Liguac, Municipality of Pitogo, Province of Zamboanga del Norte is hereby separated from the Paulino Dari National High School and converted into an independent national high school to be known as the Liguac National High School.
 
 ## Section 2
 

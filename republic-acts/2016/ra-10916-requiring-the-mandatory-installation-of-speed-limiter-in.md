@@ -70,7 +70,7 @@ _Setting of Standard._ \- The DOTC shall, in accordance with acceptable internat
 
 ## Section 7
 
-_Accreditation._ \- The Department of Trade and Industry (DTI) shall accredit persons, establishments or institutions producing, manufacturing or distributing speed limiters in accordance with the specifications and standards as may be determined by the DOTC.1âwphi1 For this purpose, the DTI shall issue the necessary certification attesting compliance with such specifications and standards as a prerequisite for registration.
+_Accreditation._ \- The Department of Trade and Industry (DTI) shall accredit persons, establishments or institutions producing, manufacturing or distributing speed limiters in accordance with the specifications and standards as may be determined by the DOTC. For this purpose, the DTI shall issue the necessary certification attesting compliance with such specifications and standards as a prerequisite for registration.
 
 ## Section 8
 

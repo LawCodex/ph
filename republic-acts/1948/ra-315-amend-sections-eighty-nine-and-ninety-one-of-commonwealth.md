@@ -70,7 +70,7 @@ Enlisted men shall, in addition, be entitled to rations, barracks accommodations
 
 _Provided,_ further, That under such regulations as the Secretary of National Defense may prescribe, each enlisted man shall be granted clothing allowance the value of Which shall not be less than seventy-five pesos upon original enlistment or reenlistment, plus a monthly allowance of not less than ten pesos, and an additional twenty pesos upon each reenlistment entered into within two months after his discharge by reason of the expiration of his enlistment.
 
-The total number of enlisted men authorized in each grade shall be as the President may direct.1awp++i1
+The total number of enlisted men authorized in each grade shall be as the President may direct.
 
 b. Grades and pay of enlisted men of the Reserve shall be the same as those of the Regular Force, except that enlisted men shall receive no pay or allowance while on inactive status: _Provided,_ That in time of emergency, where a partial or full mobilization has been declared by the President, reservists shall draw pay and allowances as may be prescribed by the President."
 

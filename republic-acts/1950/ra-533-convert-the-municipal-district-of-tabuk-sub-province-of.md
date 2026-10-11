@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The municipal district of Tabuk, Sub-province of Kalinga, Mountain Province, is hereby converted into a new municipality to be known as the municipality of Tabuk.⌊aшΡhi⌊
+The municipal district of Tabuk, Sub-province of Kalinga, Mountain Province, is hereby converted into a new municipality to be known as the municipality of Tabuk.
 
 ## Section 2
 

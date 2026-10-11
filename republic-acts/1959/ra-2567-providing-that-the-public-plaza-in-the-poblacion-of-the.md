@@ -28,6 +28,6 @@ The public plaza in the poblacion of the Municipality of Calatrava Province of N
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 21, 1959.

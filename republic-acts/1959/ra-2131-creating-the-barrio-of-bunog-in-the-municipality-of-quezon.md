@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Isugod, Canikitan, Bunog and Tagbuaya in the Municipality of Quezon, Province of Palawan, are constituted into a barrio of said municipality to be known as the barrio of Bunog.1aшphi1
+The sitios of Isugod, Canikitan, Bunog and Tagbuaya in the Municipality of Quezon, Province of Palawan, are constituted into a barrio of said municipality to be known as the barrio of Bunog.
 
 ## Section 2
 

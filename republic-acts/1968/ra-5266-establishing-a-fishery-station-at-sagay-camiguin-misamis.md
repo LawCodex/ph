@@ -29,7 +29,7 @@ There is hereby established, under the direct supervision of the Philippine Fish
 
 ## Section 2
 
-The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said fishery station during the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said fishery station during the fiscal year nineteen hundred sixty-nine. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

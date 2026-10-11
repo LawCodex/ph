@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-January 22 of every year is hereby declared a special working holiday in the Municipality of Guiguinto, Province of Bulacan, in celebration of the Halamanan Festival. Upon proclamation of the President, January of every year shall be a special non-working holiday in the Municipality of Guiguinto, Province of Bulacan.ℒαwρhi৷
+January 22 of every year is hereby declared a special working holiday in the Municipality of Guiguinto, Province of Bulacan, in celebration of the Halamanan Festival. Upon proclamation of the President, January of every year shall be a special non-working holiday in the Municipality of Guiguinto, Province of Bulacan.
 
 ## Section 2
 

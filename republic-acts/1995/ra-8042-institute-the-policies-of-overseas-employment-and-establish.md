@@ -170,7 +170,7 @@ _Prescriptive Periods._ \- Illegal recruitment cases under this Act shall prescr
 
 _Free Legal Assistance; Preferential Entitlement Under the Witness Protection Program._ \- A mechanism for free legal assistance for victims of illegal recruitment shall be established within the Department of Labor and Employment including its regional offices. Such mechanism must include coordination and cooperation with the Department of Justice, the Integrated Bar of the Philippines, and other non-governmental organizations and volunteer groups.
 
-The provisions of Republic Act No. 6981 to the contrary notwithstanding, any person who is a victim of illegal recruitment shall be entitled to the Witness Protection Program provided thereunder.1aшphi1
+The provisions of Republic Act No. 6981 to the contrary notwithstanding, any person who is a victim of illegal recruitment shall be entitled to the Witness Protection Program provided thereunder.
 
 III. Services
 

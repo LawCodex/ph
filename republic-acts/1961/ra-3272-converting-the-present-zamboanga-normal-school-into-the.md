@@ -33,7 +33,7 @@ The purpose of said College shall be to provide professional and technical instr
 
 ## Section 3
 
-The head of this institution shall be known as the President of the Zamboanga Normal College. He shall be appointed by the President of the Philippines upon the recommendation of the Board of Trustees.1awp++i1 The powers and duties of the President of the Zamboanga Normal College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of a college.
+The head of this institution shall be known as the President of the Zamboanga Normal College. He shall be appointed by the President of the Philippines upon the recommendation of the Board of Trustees. The powers and duties of the President of the Zamboanga Normal College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of a college.
 
 ## Section 4
 
@@ -71,7 +71,7 @@ On or before the fifteenth of June of each year, the Board of Trustees shall fil
 
 ## Section 8
 
-There shall be a College Council consisting of the President of the College and of all instructors and professors of the College. The Council shall have the power to prescribe the curricula and rules of discipline, subject to approval of the Board of Trustees. It shall fix the requirements for admission to the College, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be the recipients of degrees.1avvphi1 T hrough its president or committee it shall have disciplinary power over the students within limits prescribed by the rules of discipline approved by the Board of Trustees.
+There shall be a College Council consisting of the President of the College and of all instructors and professors of the College. The Council shall have the power to prescribe the curricula and rules of discipline, subject to approval of the Board of Trustees. It shall fix the requirements for admission to the College, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be the recipients of degrees. T hrough its president or committee it shall have disciplinary power over the students within limits prescribed by the rules of discipline approved by the Board of Trustees.
 
 ## Section 9
 

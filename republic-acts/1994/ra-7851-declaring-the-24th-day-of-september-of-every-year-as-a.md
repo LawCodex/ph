@@ -29,6 +29,6 @@ September 24 of every year is hereby declared as a special nonworking holiday in
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, December 24, 1994.

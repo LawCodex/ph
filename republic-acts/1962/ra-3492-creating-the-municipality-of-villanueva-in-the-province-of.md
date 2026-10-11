@@ -35,7 +35,7 @@ The boundaries of the Municipality of Villanueva will be as follows:
 
 ## Section 3
 
-The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission of Appointments and shall continue in office until their successors shall have been elected and shall have qualified in the next election for local officials.1âшphi1
+The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission of Appointments and shall continue in office until their successors shall have been elected and shall have qualified in the next election for local officials.
 
 ## Section 4
 

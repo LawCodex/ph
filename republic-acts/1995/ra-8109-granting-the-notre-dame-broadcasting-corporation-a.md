@@ -58,7 +58,7 @@ _Acceptance and Compliance._ \- Acceptance of this franchise shall be given in w
 
 _Tax Provisions._ \- The grantee, its successors or assigns shall be liable to pay the same taxes, unless exempted therefrom, on its real estate, buildings and personal properties, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns shall pay a franchise tax equivalent to three percent (3%) of all gross receipts of the radio business transacted under this franchise by the grantee, its successors or assigns: _Provided,_ that the grantee, its successors or assigns shall continue to be liable for income taxes payable under _Title_ II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
 
-The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representative in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.1aшphi1
+The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representative in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
 
 ## Section 9
 
@@ -70,7 +70,7 @@ _Warranty in Favor of National and Local Governments._ \- The grantee shall hold
 
 ## Section 11
 
-_Prohibitions._ \- The grantee shall not lease, transfer, grant the usufruct of, sell, or assign this franchise nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose without the prior approval of the Congress of the Philippines. Any person, firm, company, corporation or other commercial or legal entity to which this franchise may be sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.1aшphi1
+_Prohibitions._ \- The grantee shall not lease, transfer, grant the usufruct of, sell, or assign this franchise nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose without the prior approval of the Congress of the Philippines. Any person, firm, company, corporation or other commercial or legal entity to which this franchise may be sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
 
 ## Section 12
 

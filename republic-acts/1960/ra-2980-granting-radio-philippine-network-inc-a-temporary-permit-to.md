@@ -44,7 +44,7 @@ The grantee shall not require any previous censorship of any speech, play, act o
 
 ## Section 6
 
-The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations.1âшphi1
+The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations.
 
 ## Section 7
 

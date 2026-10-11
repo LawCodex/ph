@@ -38,7 +38,7 @@ The West Visayas State University Medical Center, in coordination with the Depar
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be included in the annual General Appropriations Act and/or shall be funded from internally generated income of the West Visayas State University Medical Center.1âwphi1
+The amount necessary for the implementation of this Act shall be included in the annual General Appropriations Act and/or shall be funded from internally generated income of the West Visayas State University Medical Center.
 
 ## Section 4
 

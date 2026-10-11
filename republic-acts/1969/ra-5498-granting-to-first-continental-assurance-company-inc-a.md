@@ -60,6 +60,6 @@ This temporary permit shall not he interpreted to mean as an exclusive grant of 
 
 ## Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

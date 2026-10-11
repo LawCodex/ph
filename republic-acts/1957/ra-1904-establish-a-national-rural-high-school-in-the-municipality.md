@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Public Schools, a national rural high school in the Municipality of Catubig, Province of Samar, at a suitable site to be selected by said Director, to be known as the Catubig National Rural High School.1âшphi1
+There shall be established under the direct supervision of the Director of Public Schools, a national rural high school in the Municipality of Catubig, Province of Samar, at a suitable site to be selected by said Director, to be known as the Catubig National Rural High School.
 
 ## Section 2
 

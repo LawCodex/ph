@@ -44,7 +44,7 @@ the same privileges under the rules and regulations covering regions shall remai
 
 ## Section 5
 
-All laws, decrees, orders, rules and regulations or parts thereof inconsistent herewith are hereby repealed or amended accordingly.1aшphi1
+All laws, decrees, orders, rules and regulations or parts thereof inconsistent herewith are hereby repealed or amended accordingly.
 
 ## Section 6
 

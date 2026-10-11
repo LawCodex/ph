@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the direct Supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Naguilian, Province of La Union.1âшphi1
+There is hereby established, under the direct Supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Naguilian, Province of La Union.
 
 ## Section 2
 

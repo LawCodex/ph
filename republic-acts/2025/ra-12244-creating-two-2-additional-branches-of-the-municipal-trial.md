@@ -202,7 +202,7 @@ Section 29 of Batas Pambansa Blg. 129, otherwise known as "The Judiciary Reorgan
 
 ## Section 6
 
-This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

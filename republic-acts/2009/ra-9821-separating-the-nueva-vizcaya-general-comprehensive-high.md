@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-_Separation and Conversion into a National High School._ \- The Nueva Vizcaya General Comprehensive High School - Bonfal Annex in Barangay Bonfal, Municipality of Bayombong, Province of Nueva Vizcaya is hereby separated from the Nueva Vizcaya General Comprehensive High School and converted into an independent national high school to be known as Bonfal National High School.1awphil
+_Separation and Conversion into a National High School._ \- The Nueva Vizcaya General Comprehensive High School - Bonfal Annex in Barangay Bonfal, Municipality of Bayombong, Province of Nueva Vizcaya is hereby separated from the Nueva Vizcaya General Comprehensive High School and converted into an independent national high school to be known as Bonfal National High School.
 
 ## Section 2
 

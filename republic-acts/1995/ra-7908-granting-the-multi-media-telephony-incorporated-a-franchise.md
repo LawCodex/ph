@@ -40,7 +40,7 @@ _Prior Approval of the National Telecommunications Commission._ \- The grantee s
 
 ## Section 4
 
-_Responsibility to the Public._ \- The grantee shall conform to the ethics of honest enterprise and shall not use its stations for obscene or indecent transmission or for dissemination of deliberately false information or willful misrepresentation, or assist in subversive or treasonable acts .1aшphi1
+_Responsibility to the Public._ \- The grantee shall conform to the ethics of honest enterprise and shall not use its stations for obscene or indecent transmission or for dissemination of deliberately false information or willful misrepresentation, or assist in subversive or treasonable acts .
 
 ## Section 5
 
@@ -74,7 +74,7 @@ _Warranty in Favor of National and Local Governments._ \- The grantee shall hold
 
 ## Section 12
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1aшphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 13
 

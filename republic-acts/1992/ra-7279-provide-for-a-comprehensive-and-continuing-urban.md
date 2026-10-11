@@ -479,7 +479,7 @@ e. Proceeds from the social housing tax and, subject to the concurrence of the l
 
 f. Proceeds from the sale or disposition of alienable public lands in urban areas; and
 
-g. Domestic and foreign investment or financing through appropriate arrangements like the build-operate-and-transfer scheme.1âшphi1
+g. Domestic and foreign investment or financing through appropriate arrangements like the build-operate-and-transfer scheme.
 
 ### Section 43
 

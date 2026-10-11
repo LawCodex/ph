@@ -34,11 +34,11 @@ There is hereby established a district office of the Land Transportation Office 
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO district office in the Municipality of Labo, Province of Camarines Norte, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO district office in the Municipality of Labo, Province of Camarines Norte, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 
-The Secretary of the Department of Transportation shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 4
 

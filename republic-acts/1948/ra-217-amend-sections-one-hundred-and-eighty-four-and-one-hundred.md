@@ -77,6 +77,6 @@ Section one hundred and eighty-five of Commonwealth Act Numbered Four hundred an
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 1, 1948.

@@ -135,7 +135,7 @@ _Release of Project Funds._ —Upon request of the Department Head concerned, th
 
 ## Section 20
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 24, 1956.
 

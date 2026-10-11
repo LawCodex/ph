@@ -48,7 +48,7 @@ _Tourism Development Plan of Davao Oriental._ – The Tourism Development Plan o
 
 The DOT, in coordination with the Tourism Infrastructure and Enterprise Zone Authority (TIEZA) and other concerned agencies of the government, shall delineate well defined geographic areas within the TDA and coordinate the integrated development of these areas for the optimum use of natural assets and attractions, as well as existing facilities.
 
-The Department of Public Works and Highways (DPWH), in coordination with the DOT, shall set forth in place the necessary construction and/or improvement of roads and other infrastructure upon the promulgation of this Act and incorporate it in its infrastructure program.1âwphi1
+The Department of Public Works and Highways (DPWH), in coordination with the DOT, shall set forth in place the necessary construction and/or improvement of roads and other infrastructure upon the promulgation of this Act and incorporate it in its infrastructure program.
 
 ## Section 5
 

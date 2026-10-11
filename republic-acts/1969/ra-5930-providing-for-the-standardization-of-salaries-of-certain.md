@@ -65,7 +65,7 @@ The officials hereinabove mentioned including the First Assistant City Fiscal sh
 
 ## Section 3
 
-The incumbent officials holding the positions affected by this Act shall receive their salary increases and allowances upon the effectivity thereof without the necessity of new appointments: _Provided, however,_ That the last two positions mentioned in Section one hereof which are hereby created shall be considered as permanent and embraced in the classified service, the appointment thereto to be extended by the City Mayor, subject however to existing civil service law, rules and regulations.1âшphi1
+The incumbent officials holding the positions affected by this Act shall receive their salary increases and allowances upon the effectivity thereof without the necessity of new appointments: _Provided, however,_ That the last two positions mentioned in Section one hereof which are hereby created shall be considered as permanent and embraced in the classified service, the appointment thereto to be extended by the City Mayor, subject however to existing civil service law, rules and regulations.
 
 ## Section 4
 

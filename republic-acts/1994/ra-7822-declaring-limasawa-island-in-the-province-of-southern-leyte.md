@@ -33,7 +33,7 @@ Limasawa Island in the Province of Southern Leyte is hereby declared a tourist z
 
 ## Section 2
 
-The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government, shall prepare within one year from the approval of this Act, a tourism development plan for Limasawa Island which shall provide for the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area: _Provided,_ That said development plan shall ensure the protection and preservation of the natural beauty and historical significance thereof.1a⍵⍴h!1
+The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government, shall prepare within one year from the approval of this Act, a tourism development plan for Limasawa Island which shall provide for the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area: _Provided,_ That said development plan shall ensure the protection and preservation of the natural beauty and historical significance thereof.
 
 ## Section 3
 

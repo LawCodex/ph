@@ -58,7 +58,7 @@ Item (c), page seventy-one, under sub-paragraph (26) "Lanao" of paragraph f of s
 
 ## Section 5
 
-As a consequence of the above amendments, the total for paragraph "a", title B of section one, and the total for paragraph "g" of section two of Republic Act Numbered One thousand six hundred thirteen are correspondingly adjusted.1âшphi1
+As a consequence of the above amendments, the total for paragraph "a", title B of section one, and the total for paragraph "g" of section two of Republic Act Numbered One thousand six hundred thirteen are correspondingly adjusted.
 
 ## Section 6
 

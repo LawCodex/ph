@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sum of ten million pesos is hereby appropriated, out of any funds of the National Treasury not otherwise appropriated, to rehabilitate the Provinces of Cotabato, Lanao del Norte, Lanao del Sur, South Cotabato and Bukidnon and other areas in the Island of Mindanao for damages caused by the recent conflicts among the Muslims, Ilagas and the Government Armed Forces.1âшphi1
+The sum of ten million pesos is hereby appropriated, out of any funds of the National Treasury not otherwise appropriated, to rehabilitate the Provinces of Cotabato, Lanao del Norte, Lanao del Sur, South Cotabato and Bukidnon and other areas in the Island of Mindanao for damages caused by the recent conflicts among the Muslims, Ilagas and the Government Armed Forces.
 
 ## Section 2
 

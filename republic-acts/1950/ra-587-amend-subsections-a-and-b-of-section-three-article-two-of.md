@@ -29,7 +29,7 @@ Whenever the words "Director of Public Works" and "Bureau of Public Works" are u
 
 Subsections (a) and (b) of section three, article two, Chapter one, of Act Numbered Thirty-nine hundred and ninety-two, are hereby amended as follows:
 
-"(a) "Motor vehicles" are all vehicles using the public highways, if propelled by any power other than muscular power, but excepting road rollers, trolley cars, streetsweepers, sprinklers, lawn mowers, bulldozers, graders, and fork-lifts and cranes if not used on public highways or vehicles which run only on rails or tracks, tractors, traction engines of all kinds used exclusively for agricultural purposes."1awphi1Ÿalf
+"(a) "Motor vehicles" are all vehicles using the public highways, if propelled by any power other than muscular power, but excepting road rollers, trolley cars, streetsweepers, sprinklers, lawn mowers, bulldozers, graders, and fork-lifts and cranes if not used on public highways or vehicles which run only on rails or tracks, tractors, traction engines of all kinds used exclusively for agricultural purposes."
 
 "Trailers, having any number of wheels, when propelled or intended to be propelled by attachment to a motor vehicle, shall be classified as separate motor vehicle with no power rating."
 
@@ -49,7 +49,7 @@ Subsections (b) and (d) of section 5, article one, Chapter two of Act Numbered T
 
 ## Section 4
 
-Subsections (a), (b), (c), (i), (j), (l), (m), and (n) of section seven, article one, Chapter two of Act Numbered Thirty-nine hundred and ninety-two, are hereby amended as follows:1awphi1Ÿalf
+Subsections (a), (b), (c), (i), (j), (l), (m), and (n) of section seven, article one, Chapter two of Act Numbered Thirty-nine hundred and ninety-two, are hereby amended as follows:
 
 "(a) Private passenger automobiles; (b) Private trucks; and (c) Private motorcycles or motor wheel attachments. - Motor vehicles registered under these classifications shall not be used "for hire" under any circumstances, and shall not solicit or accept passenger or freight for pay. Laborers necessary to handle freight on board the private truck are allowed to ride on such truck: Provided, however, That seats shall not be installed in the rear compartment thereof: And provided, further, That only the number of such laborers, not exceeding ten, which may be needed to handle the kind of freight carried will ride on the truck: And provided, still further, That the combined weight of cargo and passengers does not exceed the registered net capacity of the truck.
 
@@ -71,7 +71,7 @@ Section eight, article two, Chapter two, of Act Numbered Thirty-nine hundred and
 
 "1. For each adult passenger, not less than a horizontal rectangular area, including seat and foot space, 40 cm. wide and 60 cm. long, except in the front seat which shall allow 50 cm. wide for the operator.
 
-"2. For each half-passenger, not less than a horizontal rectangular area, including seat and foot space, 20 cm. wide by 60 cm. long, provided, that each continuous row of seats shall not be allowed more than one half-passenger.1awphi1©
+"2. For each half-passenger, not less than a horizontal rectangular area, including seat and foot space, 20 cm. wide by 60 cm. long, provided, that each continuous row of seats shall not be allowed more than one half-passenger.
 
 "(c) Private motor trucks, passenger buses and trailers with pneumatic rubber tires, the sum of five pesos per hundred kilograms of maximum allowable gross weight or fraction thereof: Provided, That upon trucks owned by duly licensed persons, firms, or associations engaged in creative or productive industries the existing rate of four pesos shall be imposed.
 
@@ -248,7 +248,7 @@ Section sixty-seven, article one, Chapter four, of Act Numbered Thirty-nine hund
 
 "(b) For failure to sign chauffeur's license or its duplicate or to carry same while operating, twenty pesos fine.
 
-"(c) For operation with a delinquent or invalid license fifty pesos fine.1awphi1Ÿalf
+"(c) For operation with a delinquent or invalid license fifty pesos fine.
 
 "(d) If, as the result of negligence or reckless or unreasonably fast driving any accident occurs resulting in death or serious bodily injury to any person, the motor vehicle driver at fault, shall, upon conviction be punished under the provisions of the Penal Code.
 
@@ -264,7 +264,7 @@ Section sixty-seven, article one, Chapter four, of Act Numbered Thirty-nine hund
 
 "(j) For using a private passenger automobile, private trucks, private motorcycles, and motor wheel attachments for hire, in violation of section seven, subsections (a), (b), and (c), of this Act, a fine of two hundred pesos and suspension of chauffeur's license for a period of three months for the first conviction; and a fine of three hundred pesos and six months imprisonment for the second conviction; and an imprisonment of one year and permanent revocation of the chauffeur's license for the third conviction, shall be imposed.
 
-"(k) For permitting, allowing, consenting to, or tolerating the use of a private owned motor vehicle for hire in violation of sections seven, subsection (a), (b), and (c) of this Act, there shall be imposed a fine of two hundred pesos for the first conviction, and an increase of one hundred pesos for each subsequent conviction.1awphi1Ÿalf
+"(k) For permitting, allowing, consenting to, or tolerating the use of a private owned motor vehicle for hire in violation of sections seven, subsection (a), (b), and (c) of this Act, there shall be imposed a fine of two hundred pesos for the first conviction, and an increase of one hundred pesos for each subsequent conviction.
 
 "(l) For violation of any provision of this Act or regulations not hereinbefore specifically punished, a fine of not less than fifty pesos nor more than one hundred pesos shall be imposed: Provided, That any person found guilty of any violation of section thirty-eight of this Act shall pay a fine of not less than one hundred pesos nor more than two hundred pesos."
 

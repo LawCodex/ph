@@ -57,7 +57,7 @@ The grantee shall so construct and operate its radio stations as not to interfer
 
 ## Section 9
 
-The grantee shall hold the national, provincial and municipal governments of the Philippines free from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of its radio stations.1avvphi1
+The grantee shall hold the national, provincial and municipal governments of the Philippines free from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of its radio stations.
 
 ## Section 10
 

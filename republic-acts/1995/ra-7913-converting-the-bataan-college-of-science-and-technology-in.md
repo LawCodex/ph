@@ -128,7 +128,7 @@ There shall be an administrative council consisting of the president of the Coll
 
 ## Section 11
 
-There shall be an academic council with the president of the College, as chairman, and all members of the instructional staff with the rank of not lower than assistant professor, as members.1aшphi1 The academic council shall have the power to prescribe curricular offerings subject to the approval of the Board. It shall fix the requirements for admission to the College, as well as for graduation and the conferring of degrees, subject to review and/or approval by the Board through the president of the College. It shall also have disciplinary powers over the students through the president within the limits prescribed by the rules of discipline, as approved by the Board.
+There shall be an academic council with the president of the College, as chairman, and all members of the instructional staff with the rank of not lower than assistant professor, as members. The academic council shall have the power to prescribe curricular offerings subject to the approval of the Board. It shall fix the requirements for admission to the College, as well as for graduation and the conferring of degrees, subject to review and/or approval by the Board through the president of the College. It shall also have disciplinary powers over the students through the president within the limits prescribed by the rules of discipline, as approved by the Board.
 
 ## Section 12
 

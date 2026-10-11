@@ -20,7 +20,7 @@ retrieved: 2026-10-12
 
 AN ACT CHANGING THE NAME OF THE SILING BATA ELEMENTARY SCHOOL SITUATED IN THE MUNICIPALITY OF PANDI, PROVINCE OF BULACAN, TO MATIAS SALVADOR MEMORIAL ELEMENTARY SCHOOL
 
-Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

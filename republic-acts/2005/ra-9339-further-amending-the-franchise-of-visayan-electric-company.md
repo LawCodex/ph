@@ -81,11 +81,17 @@ The franchise granted Visayan Electric Company, Inc., under Act No. 3499, as ame
 
 "SEC. 19. _Reportorial Requirement._ – The grantee shall submit an annual report of finances and operations to the Congress of the Philippines."
 
-**SEC. 2._Renewal/Extension of the Term of Franchise._** – This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act. This franchise shall be deemed ipso facto revoked in the event that the grantee fails to operate continuously for two years.
+## SEC. 2
 
-**SEC. 3._Repealing Clause._** – All laws, decrees, orders, resolutions, instructions and rules and regulations or parts thereof, which are inconsistent with this Act, are hereby deemed repealed or modified accordingly.
+_Renewal/Extension of the Term of Franchise._ – This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act. This franchise shall be deemed ipso facto revoked in the event that the grantee fails to operate continuously for two years.
 
-**SEC. 4._Effectivity Clause._** – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
+## SEC. 3
+
+_Repealing Clause._ – All laws, decrees, orders, resolutions, instructions and rules and regulations or parts thereof, which are inconsistent with this Act, are hereby deemed repealed or modified accordingly.
+
+## SEC. 4
+
+_Effectivity Clause._ – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Filipino veterans who die shall be buried with their caskets covered with the Filipino flag which shall be furnished by the Government free.£a⩊phi£
+Filipino veterans who die shall be buried with their caskets covered with the Filipino flag which shall be furnished by the Government free.
 
 ## Section 2
 

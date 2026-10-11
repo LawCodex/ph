@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Postmaster General is hereby directed to order the printing and issue of postage stamps of different denominations in Spanish and the National Language to commemorate the four hundredth anniversary of the evangelization of the Philippines when Miguel Lopez de Legaspi and Fr. Andres de Urdaneta arrived in Cebu, Philippines, from Mexico on April twenty-seven, fifteen hundred sixty-five.1âшphi1 The postage stamps must portray the historic facts of the commencement of the evangelization of the Philippines, our contract with Western civilization and culture which came to us primarily from Spain and Mexico, and the emergence of the Filipino nation by the consolidation of small and distinct kingdoms and tribes.
+The Postmaster General is hereby directed to order the printing and issue of postage stamps of different denominations in Spanish and the National Language to commemorate the four hundredth anniversary of the evangelization of the Philippines when Miguel Lopez de Legaspi and Fr. Andres de Urdaneta arrived in Cebu, Philippines, from Mexico on April twenty-seven, fifteen hundred sixty-five. The postage stamps must portray the historic facts of the commencement of the evangelization of the Philippines, our contract with Western civilization and culture which came to us primarily from Spain and Mexico, and the emergence of the Filipino nation by the consolidation of small and distinct kingdoms and tribes.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-A national trade school patterned after the Philippine College of Arts and Trades to be known as the Angeles National Trade School, shall be established in the City of Angeles: _Provided,_ That a suitable site of at least eight hectares, level, well-drained and preferably rectangular in shape, shall be acquired. The said school shall be under the supervision of the Bureau of Vocational Education. Courses of secondary level shall be offered in the said school.1âшphi1
+A national trade school patterned after the Philippine College of Arts and Trades to be known as the Angeles National Trade School, shall be established in the City of Angeles: _Provided,_ That a suitable site of at least eight hectares, level, well-drained and preferably rectangular in shape, shall be acquired. The said school shall be under the supervision of the Bureau of Vocational Education. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

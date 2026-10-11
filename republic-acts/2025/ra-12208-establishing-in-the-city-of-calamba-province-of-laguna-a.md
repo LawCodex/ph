@@ -33,7 +33,7 @@ Any future increase in bed capacity, healthcare facilities, service capability, 
 
 ## Section 3
 
-The City Government of Calamba, Province of Laguna, shall provide the necessary funds for the establishment of the CCGH.ℒαwρhi৷ The Secretary of Health shall include in the department's subsidy program, support for the capital outlay requirements of the said hospital.
+The City Government of Calamba, Province of Laguna, shall provide the necessary funds for the establishment of the CCGH. The Secretary of Health shall include in the department's subsidy program, support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

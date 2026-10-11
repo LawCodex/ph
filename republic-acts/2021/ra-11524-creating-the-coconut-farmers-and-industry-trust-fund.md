@@ -83,7 +83,7 @@ COCONUT FARMERS AND INDUSTRY DEVELOPMENT PLAN
 
 ## Section 4
 
-_Preparation of the Coconut Farmers and Industry Development Plan._ \- The Coconut Farmers and Industry Development Plan shall be prepared by the Philippine Coconut Authority (PCA) and approved by the President of the Philippines. The utilization of the Trust Fund created under this Act, or any portion thereof, shall be in accordance with the Development Plan. In the performance of its functions, the PCA shall consult coconut farmers and their organizations, industry associations, civil society organizations, academe, government agencies concerned, particularly the Land Bank of the Philippines (LBP), Development Bank of the Philippines (DBP), Cooperative Development Authority (CDA), Department of Science and Technology-Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development (DOST-PCAARRD), Bureau of Micro, Small and Medium Enterprise Development under the Department of Trade and Industry (DTI), Commission on Higher Education (CHED), Technical Education and Skills Development Authority (TESDA), Agricultural Training Institute (ATI), Philippine Center for Post-Harvest Development and Mechanization (PhilMech), Department of Agriculture's High Value Crops Development Program, Department of Agriculture's Bureau of Animal Industry's Philippine Native Animals Development Program, National Dairy Authority (NDA), Department of Public Works and Highways (DPWH) and other stockholders in the coconut industry. The Plan shall set the directions and policies for the development and rehabilitation of the coconut industry within fifty (50) years.ℒαwρhi৷
+_Preparation of the Coconut Farmers and Industry Development Plan._ \- The Coconut Farmers and Industry Development Plan shall be prepared by the Philippine Coconut Authority (PCA) and approved by the President of the Philippines. The utilization of the Trust Fund created under this Act, or any portion thereof, shall be in accordance with the Development Plan. In the performance of its functions, the PCA shall consult coconut farmers and their organizations, industry associations, civil society organizations, academe, government agencies concerned, particularly the Land Bank of the Philippines (LBP), Development Bank of the Philippines (DBP), Cooperative Development Authority (CDA), Department of Science and Technology-Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development (DOST-PCAARRD), Bureau of Micro, Small and Medium Enterprise Development under the Department of Trade and Industry (DTI), Commission on Higher Education (CHED), Technical Education and Skills Development Authority (TESDA), Agricultural Training Institute (ATI), Philippine Center for Post-Harvest Development and Mechanization (PhilMech), Department of Agriculture's High Value Crops Development Program, Department of Agriculture's Bureau of Animal Industry's Philippine Native Animals Development Program, National Dairy Authority (NDA), Department of Public Works and Highways (DPWH) and other stockholders in the coconut industry. The Plan shall set the directions and policies for the development and rehabilitation of the coconut industry within fifty (50) years.
 
 In the formulation of the Plan, the PCA shall be guided by the following objectives:
 
@@ -143,7 +143,7 @@ Within one hundred twenty (120) days from the effectivity of this Act, the PCA B
 
 To facilitate the implementation of these programs and the identification of beneficiaries, the PCA shall, within ninety (90) days from the effectivity of this Act, complete the Coconut Farmers Registry: _Provided,_ That an annual verification of the registry shall be conducted by the LGUs in coordination with the PCA and the Department of Agriculture (DA) to ensure its veracity.
 
-Within one hundred twenty (120) days from the effectivity of this Act, the Plan shall be submitted by the PCA to the President, for approval.ℒαwρhi৷
+Within one hundred twenty (120) days from the effectivity of this Act, the Plan shall be submitted by the PCA to the President, for approval.
 
 Before the Plan is finalized and submitted to the President for approval, the Department of Budget and Management (DBM), DOF, DTI, and the National Economic and Development Authority (NEDA) shall provide their advisory opinions on the following matters:
 
@@ -331,7 +331,7 @@ Prior to the implementation of any disposition plan for corporations transferred
 
 (iii) Cause the subject corporations to undergo rehabilitation, merger, consolidation, spin-off, or other corporate acts of reformatory nature as it may deem necessary or desirable to expedite the disposition and privatization under this Act.
 
-Any of the above-enumerated, as well as the final disposition of such assets, shall be subject to the approval of the Trust Fund Management Committee.ℒαwρhi৷
+Any of the above-enumerated, as well as the final disposition of such assets, shall be subject to the approval of the Trust Fund Management Committee.
 
 ## Section 15
 
@@ -356,7 +356,7 @@ _Congressional Oversight._ \- The Congressional Oversight Committee on Agricultu
 
 ## Section 19
 
-_Separability Clause._ \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.ℒαwρhi৷
+_Separability Clause._ \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 20
 

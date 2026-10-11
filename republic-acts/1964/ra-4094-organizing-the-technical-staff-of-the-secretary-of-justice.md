@@ -37,7 +37,7 @@ In the performance of his duties, the Secretary of Justice shall be assisted by 
 
 ## Section 2
 
-The Head Technical Assistant and the two Senior Technical Assistants shall be members of the bar for at least five years.1âшphi1 The two Senior Special Assistants and the Special Assistants shall be members of the bar or must have held the position of Senior Executive Assistant or Chief Training Officer in the Office of the Secretary of Justice for a period of at least two years: _Provided,_ That no officer or employees holding office as such in the Office of the Secretary of Justice on the date of the passage and effectivity of this Act shall, by reason thereof, be removed from office or be demoted to a lower category or scale except for cause as provided by law and after due process.
+The Head Technical Assistant and the two Senior Technical Assistants shall be members of the bar for at least five years. The two Senior Special Assistants and the Special Assistants shall be members of the bar or must have held the position of Senior Executive Assistant or Chief Training Officer in the Office of the Secretary of Justice for a period of at least two years: _Provided,_ That no officer or employees holding office as such in the Office of the Secretary of Justice on the date of the passage and effectivity of this Act shall, by reason thereof, be removed from office or be demoted to a lower category or scale except for cause as provided by law and after due process.
 
 ## Section 3
 

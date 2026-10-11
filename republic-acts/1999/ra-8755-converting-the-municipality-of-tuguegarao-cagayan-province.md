@@ -1036,7 +1036,7 @@ _The City Agriculturist._ \- (a) The city agriculturist must be a citizen of the
 
 _The City Fire Station Service._ \- (a) There shall be established in the City at least one (1) fire station with adequate personnel, fire fighting facilities and equipment, subject to the standards, rules and regulations that may be promulgated by the Department of the Interior and Local Government. The City shall provide the necessary land or site of the station.
 
-(b) The city fire station service shall be headed by a city fire marshal whose qualifications shall be as those provided for under Republic Act No. 6975, otherwise known as the Philippine National Police Law.1a⍵⍴h!1
+(b) The city fire station service shall be headed by a city fire marshal whose qualifications shall be as those provided for under Republic Act No. 6975, otherwise known as the Philippine National Police Law.
 
 (c) The city fire station shall be responsible for the protection and various emergency services such as rescue and evacuation of injured people at fire-related incidents and, in general, fire prevention and suppression measures to secure the safety of life and property of the citizenry.
 

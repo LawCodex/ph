@@ -34,11 +34,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 2
 
-\- All personnel, assets, liabilities, and records of the Dabubu High School - Annex are hereby transferred to and absorbed by the Southeastern Region High School.1âwphi1
+\- All personnel, assets, liabilities, and records of the Dabubu High School - Annex are hereby transferred to and absorbed by the Southeastern Region High School.
 
 ## Section 3
 
-\- The Secretary of of Education shall immediately include in the Department's program the operationalization of the Southeastern Region High School, the initial funding of which shall be charged against the current year's appropriation of the Dabubu High School - Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+\- The Secretary of of Education shall immediately include in the Department's program the operationalization of the Southeastern Region High School, the initial funding of which shall be charged against the current year's appropriation of the Dabubu High School - Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

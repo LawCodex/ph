@@ -45,7 +45,7 @@ In consideration of the franchise and rights hereby granted, the grantee shall p
 
 ## Section 6
 
-In the event of any competing individual, association of persons, or corporation receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons or corporation.1âшphi1
+In the event of any competing individual, association of persons, or corporation receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons or corporation.
 
 ## Section 7
 

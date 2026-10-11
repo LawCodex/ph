@@ -31,7 +31,7 @@ Corner (1)&mdashstarting from junction of Cabog Big Creek following Bails' River
 
 ## Section 2
 
-The Director of Forestry is hereby directed to survey the said parcel of land and to release the same to the Bureau of Lands for disposition under the provision of the Act.1âшphi1
+The Director of Forestry is hereby directed to survey the said parcel of land and to release the same to the Bureau of Lands for disposition under the provision of the Act.
 
 ## Section 3
 

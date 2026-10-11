@@ -44,7 +44,7 @@ Section 55 of Republic Act No. 9387, otherwise known as the "Charter of the City
 
 ## Section 2
 
-The Department of Justice and the Department of Budget and Management are hereby directed to implement this Act.1âwphi1
+The Department of Justice and the Department of Budget and Management are hereby directed to implement this Act.
 
 ## Section 3
 

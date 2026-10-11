@@ -108,7 +108,7 @@ Beginning with the school year after the effectivity of this Act, and every firs
 
 ## Section 6
 
-_Sanction for Noncompliance._ – In the rules and regulations to be implemented pursuant to this Act, the Secretary of the DepED shall prescribe the appropriate administrative sanctions on school administrators who shall fail to comply with the requirements under this Act. In addition thereto, erring private schools shall likewise suffer the penalty of suspension of their permits to operate.1âwphi1
+_Sanction for Noncompliance._ – In the rules and regulations to be implemented pursuant to this Act, the Secretary of the DepED shall prescribe the appropriate administrative sanctions on school administrators who shall fail to comply with the requirements under this Act. In addition thereto, erring private schools shall likewise suffer the penalty of suspension of their permits to operate.
 
 ## Section 7
 

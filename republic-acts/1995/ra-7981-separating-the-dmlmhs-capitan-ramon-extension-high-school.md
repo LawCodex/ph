@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The DMLMHS-Capitan Ramon Extension High School in Barangay Capitan Ramon, City of Silay, is hereby separated from the Doña Montserrat Lopez Memorial High School, Silay City, and converted into an independent national high school to be known as the Barangay Capitan Ramon National High School.1aшphi1
+The DMLMHS-Capitan Ramon Extension High School in Barangay Capitan Ramon, City of Silay, is hereby separated from the Doña Montserrat Lopez Memorial High School, Silay City, and converted into an independent national high school to be known as the Barangay Capitan Ramon National High School.
 
 ## Section 2
 

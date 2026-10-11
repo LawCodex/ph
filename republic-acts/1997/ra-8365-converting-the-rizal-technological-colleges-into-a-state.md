@@ -214,7 +214,7 @@ It shall be the continuing policy of the University to accept the affiliation an
 
 ## Section 23
 
-The amount needed to carry out the provisions of this Act shall be charged against the current year's appropriations of the Rizal Technological Colleges.1aшphi1 Thereafter, such amount as may be necessary for the continued operation and maintenance of the Rizal Technological University shall be included in the annual General Appropriations Act.
+The amount needed to carry out the provisions of this Act shall be charged against the current year's appropriations of the Rizal Technological Colleges. Thereafter, such amount as may be necessary for the continued operation and maintenance of the Rizal Technological University shall be included in the annual General Appropriations Act.
 
 ## Section 24
 

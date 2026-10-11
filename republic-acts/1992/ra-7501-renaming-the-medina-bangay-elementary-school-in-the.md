@@ -29,7 +29,7 @@ The Medina-Bangay Elementary School located in the Municipality of Dingras, Prov
 
 ## Section 2
 
-All allocations provided for the operation and maintenance of the Medina-Bangay Elementary School shall be implemented to the Medina-Parado Elementary School.⌊aшΡhi⌊
+All allocations provided for the operation and maintenance of the Medina-Bangay Elementary School shall be implemented to the Medina-Parado Elementary School.
 
 ## Section 3
 

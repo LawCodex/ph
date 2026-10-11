@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Angalan Elementary School in Barangay Angalan, Tugbok District, Davao City, is hereby changed to Aniceto Barbarona Elementary School.1aшphi1
+The name of the Angalan Elementary School in Barangay Angalan, Tugbok District, Davao City, is hereby changed to Aniceto Barbarona Elementary School.
 
 ## Section 2
 

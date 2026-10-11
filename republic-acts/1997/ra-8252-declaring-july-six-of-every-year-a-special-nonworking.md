@@ -32,7 +32,7 @@ July six is the charter day anniversary of the Municipality of Mambajao, Provinc
 
 ## Section 2
 
-July six of every year is hereby declared a special nonworking public holiday in the Municipality of Mambajao.1aшphi1
+July six of every year is hereby declared a special nonworking public holiday in the Municipality of Mambajao.
 
 ## Section 3
 

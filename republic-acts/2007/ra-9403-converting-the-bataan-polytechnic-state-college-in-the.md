@@ -28,17 +28,27 @@ AN ACT CONVERTING THE BATAAN POLYTECHNIC STATE COLLEGE IN THE PROVINCE OF BATAAN
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Conversion._** \- The Bataan Polytechnic State College in the Province of Bataan, including its integrated campuses, namely: the Bataan Community Colleges in the City of Balanga and the Bataan National School for Filipino Craftsmen in the Municipality of Orani, all located in the Province of Bataan is hereby converted into a state university to be known as the Bataan Peninsula State University (BPSU) , hereinafter referred to as the University, integrating therewith the Bataan State College in the Municipality of Dinalupihan, also in the Province of Bataan. The main campus of the University shall be in the City of Balanga.
+## Section 1
 
-**Section 2._General Mandate._** \- The University shall primarily provide advanced instruction and professional training in education, engineering, science and technology, arts and humanities, computer and forestry, and other relevant fields of study. It shall also undertake research, extension services and production activities in support of the socioeconomic development of Bataan and provide progressive leadership in its areas of specialization.
+_Conversion._ \- The Bataan Polytechnic State College in the Province of Bataan, including its integrated campuses, namely: the Bataan Community Colleges in the City of Balanga and the Bataan National School for Filipino Craftsmen in the Municipality of Orani, all located in the Province of Bataan is hereby converted into a state university to be known as the Bataan Peninsula State University (BPSU) , hereinafter referred to as the University, integrating therewith the Bataan State College in the Municipality of Dinalupihan, also in the Province of Bataan. The main campus of the University shall be in the City of Balanga.
 
-**Section 3._Curricular offerings._** \- The University shall offer undergraduate and graduate courses in the fields of education, engineering, science and technology, arts and humanities, computer and forestry, and other degree courses within its area of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives and in order to meet the needs of the Province of Bataan and Region III.
+## Section 2
+
+_General Mandate._ \- The University shall primarily provide advanced instruction and professional training in education, engineering, science and technology, arts and humanities, computer and forestry, and other relevant fields of study. It shall also undertake research, extension services and production activities in support of the socioeconomic development of Bataan and provide progressive leadership in its areas of specialization.
+
+## Section 3
+
+_Curricular offerings._ \- The University shall offer undergraduate and graduate courses in the fields of education, engineering, science and technology, arts and humanities, computer and forestry, and other degree courses within its area of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives and in order to meet the needs of the Province of Bataan and Region III.
 
 The existing high school/s shall be transferred to the jurisdiction and supervision of the Department of Education (DepEd) : _Provided_ , That the high school/s shall be allowed to remain and operate within the campus of the University until the existing students shall have completed their high school education: _Provided, Further_ , That the University may operate a reasonably-sized laboratory school, if it has a College of Education.
 
-**Section 4._Administration._** \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University.
+## Section 4
 
-**Section 5._The Governing Board._** \- The Governing board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+_Administration._ \- The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as the "Corporation Code of the Philippines". The administration of the University and the exercise of its corporate powers shall be vested exclusively in the Board of Regents and the president of the University.
+
+## Section 5
+
+_The Governing Board._ \- The Governing board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
 
 (a) The Chairperson of the Commission on Higher Education (CHED) , chairperson;
 
@@ -66,9 +76,13 @@ The term of office of the president of the federation of faculty associations, t
 
 The two prominent citizens shall serve for a term of two years from the date of appointment.
 
-**Section 6._Promulgation and Implementation of Policies._** \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+## Section 6
 
-**Section 7._Powers and Duties of the Board of Regents._** \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
+_Promulgation and Implementation of Policies._ \- The Board shall promulgate and implement policies in accordance with the declared State policies on education and other pertinent provisions of the Philippine Constitution on education, agriculture, science and technology, as well as the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the "Higher Education Act of 1994."
+
+## Section 7
+
+_Powers and Duties of the Board of Regents._ \- The Board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under existing laws:
 
 (a) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University;
 
@@ -128,7 +142,9 @@ If, for reasons beyond its control, the University shall not be able to pursue a
 
 (y) To extend the term of the president of the University beyond the age of retirement but not beyond the age of seventy (70) , whose performance has been unanimously rated by the governing board as outstanding based on the guidelines, qualifications and/or standards set by the Board, after unanimous recommendation by the search committee.
 
-**Section 8._Meetings of the Board._** \- The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three days' prior written notice, call a maximum of two meeting whenever necessary.
+## Section 8
+
+_Meetings of the Board._ \- The Board shall regularly convene at least once every quarter. However, the chairperson of the Board may, upon three days' prior written notice, call a maximum of two meeting whenever necessary.
 
 A quorum of the Board shall consist of majority of all its members holding office at the time of the meeting; _Provided, however_ , That the chairperson of the Board or the president of the University is among those present in the meeting.
 
@@ -138,7 +154,9 @@ In case the chairpersons of the Congressional Committees on Education, shall not
 
 The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance to meetings of the Board or in connection with other official business authorized by resolution of the Board, subject to existing laws and regulations.
 
-**Section 9._The University President._** \- The University shall be headed by a president, who shall render full-time service. He/she shall be appointed by the Board, subject to the guidelines, qualifications and/or standards set by the Board, upon recommendation of a duly constituted search committee. He/she shall have a term of four years and shall be eligible for reappointment for another term; _Provided._ That in order to effect a smooth transition to a state university, the incumbent president of the Bataan Polytechnic State College, if qualified, shall serve as the first president of the University.
+## Section 9
+
+_The University President._ \- The University shall be headed by a president, who shall render full-time service. He/she shall be appointed by the Board, subject to the guidelines, qualifications and/or standards set by the Board, upon recommendation of a duly constituted search committee. He/she shall have a term of four years and shall be eligible for reappointment for another term; _Provided._ That in order to effect a smooth transition to a state university, the incumbent president of the Bataan Polytechnic State College, if qualified, shall serve as the first president of the University.
 
 Within six months before the expiration of the term of office of the incumbent president of the University, the Board shall constitute the Search Committee for the Presidency (SCP) .
 
@@ -152,35 +170,59 @@ The salary of the president of the University shall be in accordance with the Re
 
 The president of the University shall be assisted by a vice president for academic affairs, a vice president for administration, who shall be appointed by the Board upon the recommendation of the president.
 
-**Section 10._Heads of University Campuses._** \- Campus directors shall head the University campuses and they shall render full-time service. They shall be appointed by the Board upon the recommendation of the search committee and the University president, subject to the guidelines, qualifications and/or standards set by the Board: _Provided_ , That the incumbent college administrators of the extension campuses shall serve as campus directors of their respective campuses.
+## Section 10
 
-**Section 11._The Administrative Council._** \- There shall be an adminstrative council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+_Heads of University Campuses._ \- Campus directors shall head the University campuses and they shall render full-time service. They shall be appointed by the Board upon the recommendation of the search committee and the University president, subject to the guidelines, qualifications and/or standards set by the Board: _Provided_ , That the incumbent college administrators of the extension campuses shall serve as campus directors of their respective campuses.
 
-**Section 12._The Academic Council._** – There shall be an academic council with the president of the University, as chairperson, and all academic staff with the rank of at least an assistant professor as members.
+## Section 11
+
+_The Administrative Council._ \- There shall be an adminstrative council consisting of the president of the University as chairperson, vice presidents, deans, directors and other officials of equal rank as members, whose duty is to review and recommend to the Board the policies governing the administration, management and development planning of the University.
+
+## Section 12
+
+_The Academic Council._ – There shall be an academic council with the president of the University, as chairperson, and all academic staff with the rank of at least an assistant professor as members.
 
 The academic council shall have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and the conferment of degrees, subject to review and/or approval by the Board through the president of the University. It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board.
 
-**Section 13._The Secretary of the University._** – The Board shall appoint a Secretary, who shall serve as such for both the board and the University and shall keep all records and proceedings of the Board. He/She shall serve upon each member of the Board the appropriate notice of the Board's meetings.
+## Section 13
 
-**Section 14._The Treasurer of the University._** – The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
+_The Secretary of the University._ – The Board shall appoint a Secretary, who shall serve as such for both the board and the University and shall keep all records and proceedings of the Board. He/She shall serve upon each member of the Board the appropriate notice of the Board's meetings.
 
-**Section 15._Faculty._** – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: _Provided_ , That said appointment shall be subject to the guidelines, qualifications and/or standards set by the Board: _Provided, further_ , That no member of the faculty shall teach for or against any particular church or religious sect.
+## Section 14
 
-**Section 16._Scholarship Program/Admission._** – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+_The Treasurer of the University._ – The Treasurer of the Philippines shall be the _ex officio_ treasurer of the University.
+
+## Section 15
+
+_Faculty._ – No political beliefs, gender preference, cultural or community affiliation or ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the University: _Provided_ , That said appointment shall be subject to the guidelines, qualifications and/or standards set by the Board: _Provided, further_ , That no member of the faculty shall teach for or against any particular church or religious sect.
+
+## Section 16
+
+_Scholarship Program/Admission._ – The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
 
 No student shall be denied admission to the University by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
-**Section 17._Academic Freedom and Institutional Autonomy._** – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2. Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
+## Section 17
 
-**Section 18._Authority to Loan and Transfer Apparatus/Equipment/Supplies and Detail of Personnel._** – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+_Academic Freedom and Institutional Autonomy._ – The University shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2. Section 5 of Article XIV of the Constitution of the Republic of the Philippines.
 
-**Section 19._Assets, Liabilities and Personnel._** – All assets, real and personal, personnel and records of the Bataan Polytechnic State College, and its duly integrated campuses namely: the Bataan Community College in the City of Balanga, the Bataan National School for Filipino Craftsmen in the Municipality of Orani and the Bataan State College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a University shall be respected.
+## Section 18
+
+_Authority to Loan and Transfer Apparatus/Equipment/Supplies and Detail of Personnel._ – The heads of the bureaus and offices of the national government are hereby authorized to loan or transfer, upon the request of the president of the University such apparatus, equipment or supplies as may be needed by the University, and to detail employees for duty therein when, in the judgment of the head of the bureau or office, such apparatus, equipment, supplies or services of such employees can be spared without serious detriment to the public service. The employees so detailed shall perform such duties as required of them by the president of the University, and the time so employed shall be counted as part of their regular services.
+
+## Section 19
+
+_Assets, Liabilities and Personnel._ – All assets, real and personal, personnel and records of the Bataan Polytechnic State College, and its duly integrated campuses namely: the Bataan Community College in the City of Balanga, the Bataan National School for Filipino Craftsmen in the Municipality of Orani and the Bataan State College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a University shall be respected.
 
 All parcels of land belonging to the government and occupied by the Bataan Polytechnic State College, the Bataan Community College in the City of Balanga, the Bataan National School for Filipino Craftsmen in the Municipality of Orani and the Bataan State College, are hereby declared to be property of the University, and shall be titled under that name: _Provided_ , That should the University cease to exist or be abolished or should such parcels of lands aforementioned be no longer needed by the University, the same shall report to the LGUs concerned.
 
-**Section 20._Appropriations._** – The amount necessary to carry out the initial implementation of this Act shall be charged against the current year’s appropriations of the Bataan Polytechnic State College and the Bataan State College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Bataan Peninsula State University shall be included in the annual General Appropriations Act. The LGUs concerned shall continue to provide assistance to the University corresponding to the funding given to the Bataan Community College and the Bataan National School for Filipino Craftsmen before the same are integrated into the University until such time that the full funding requirements of the said LGU funded colleges integrated into University are included in the annual General Appropriation Act.
+## Section 20
 
-**Section 21._Development Plan, Management Audit, Organizational/Administrative/Academic Structure._** – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
+_Appropriations._ – The amount necessary to carry out the initial implementation of this Act shall be charged against the current year’s appropriations of the Bataan Polytechnic State College and the Bataan State College, except the sums needed to continue the operations of the existing high schools. Thereafter, such sums as may be necessary for the continued operation and maintenance of the Bataan Peninsula State University shall be included in the annual General Appropriations Act. The LGUs concerned shall continue to provide assistance to the University corresponding to the funding given to the Bataan Community College and the Bataan National School for Filipino Craftsmen before the same are integrated into the University until such time that the full funding requirements of the said LGU funded colleges integrated into University are included in the annual General Appropriation Act.
+
+## Section 21
+
+_Development Plan, Management Audit, Organizational/Administrative/Academic Structure._ – Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:
 
 (a) Submit a five (5) -year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to the DBM;
 
@@ -188,19 +230,33 @@ All parcels of land belonging to the government and occupied by the Bataan Polyt
 
 (c) Accordingly set up its organizational, administrative as well as academic structure, including the appointment of the University key officials.
 
-**Section 22._Filing of Report._** – On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.
+## Section 22
 
-**Section 23._Suppletory Application._** – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act, and shall serve as part of the governing charter of the University.
+_Filing of Report._ – On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines, through the chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.
 
-**Section 24._Parity Clause._** – All other powers, functions and privileges, responsibiities and limitations to state university and/or their officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
+## Section 23
 
-**Section 25._Implementing Rules and Regulations._** – The Board, in consultation with the CHED, shall formulate the guidelines to fully implement the provisions of this Act.
+_Suppletory Application._ – The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997," shall be an integral part of this Act, and shall serve as part of the governing charter of the University.
 
-**Section 26._Separability Clause._** – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+## Section 24
 
-**Section 27._Repealing Clause._** – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Parity Clause._ – All other powers, functions and privileges, responsibiities and limitations to state university and/or their officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
 
-**Section 28._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation.
+## Section 25
+
+_Implementing Rules and Regulations._ – The Board, in consultation with the CHED, shall formulate the guidelines to fully implement the provisions of this Act.
+
+## Section 26
+
+_Separability Clause._ – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+## Section 27
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 28
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation.
 
 Approved,
 

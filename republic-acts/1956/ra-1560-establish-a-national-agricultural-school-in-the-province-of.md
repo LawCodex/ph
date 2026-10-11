@@ -32,7 +32,7 @@ Upon the recommendation of the Director of Public Schools, the President of the 
 
 ## Section 3
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the current fiscal year.1avvphi1 Thereafter, the necessary sum for such purpose shall be included in the annual General Appropriations Acts.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the current fiscal year. Thereafter, the necessary sum for such purpose shall be included in the annual General Appropriations Acts.
 
 ## Section 4
 

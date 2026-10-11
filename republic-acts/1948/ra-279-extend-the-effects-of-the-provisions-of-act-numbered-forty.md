@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Act Numbered Forty-one hundred and sixty-six, entitled "An Act to provide for the limitation, regulation, and allocation of sugar produced in the Philippine Islands, and for the processing and marketing thereof, and for other purposes," as amended, shall continue in force until the nineteen hundred and seventy-three-nineteen hundred and seventy-four crop year, unless the President of the Philippines determines that the state of national emergency declared in said Act has temporarily or definitely ceased, in which case he shall so declare by proclamation, whereupon the effects of said Act, as amended, shall thereby either be suspended temporarily or cease definitely, in part or in whole.1aшphi1
+Act Numbered Forty-one hundred and sixty-six, entitled "An Act to provide for the limitation, regulation, and allocation of sugar produced in the Philippine Islands, and for the processing and marketing thereof, and for other purposes," as amended, shall continue in force until the nineteen hundred and seventy-three-nineteen hundred and seventy-four crop year, unless the President of the Philippines determines that the state of national emergency declared in said Act has temporarily or definitely ceased, in which case he shall so declare by proclamation, whereupon the effects of said Act, as amended, shall thereby either be suspended temporarily or cease definitely, in part or in whole.
 
 ## Section 2
 

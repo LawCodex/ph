@@ -29,7 +29,7 @@ TheKidaman Elementary School in Barangay Kalbay, Municipality of Jose Abad Santo
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Kidaman Elementary School are hereby transferred and absorbed by the Kidaman Integrated School.£A⩊phi£
+All personnel, assets, liabilities and records of the Kidaman Elementary School are hereby transferred and absorbed by the Kidaman Integrated School.
 
 ## Section 3
 

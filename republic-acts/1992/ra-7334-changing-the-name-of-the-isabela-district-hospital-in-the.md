@@ -29,7 +29,7 @@ The name of the Isabela District Hospital in the Municipality of Isabela, Provin
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

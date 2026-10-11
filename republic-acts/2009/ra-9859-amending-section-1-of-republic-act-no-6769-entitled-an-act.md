@@ -38,7 +38,7 @@ Section 1 of Republic Act No. 6769 is hereby amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.lawphil
+This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

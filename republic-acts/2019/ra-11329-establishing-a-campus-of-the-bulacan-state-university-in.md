@@ -66,7 +66,7 @@ The provisions of Republic Act No. 8292, otherwise known as the "Higher Educatio
 
 ## Section 8
 
-All other powers, functions, privileges, responsibilities and limitations to state universities and/or its officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.1âшphi1
+All other powers, functions, privileges, responsibilities and limitations to state universities and/or its officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
 
 ## Section 9
 

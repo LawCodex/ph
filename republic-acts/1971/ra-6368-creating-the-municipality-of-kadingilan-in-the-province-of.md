@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Kadingilan, Pay-as, Bagor, San Andres (Kidalog), Mabuhay (Pidlangaban), Cabadiangan, Matampay, Kibalagon, Husayan, Salvaclon, Ma-linao, Baroy, New Sibunga, Balaoro, Macati-ac, and Pina-manguhan in the Municipality of Kibawe, Province of Bukidnon, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Kadingilan, same province. The seat of government of the new municipality shall be in the present site of Barrio Kadingilan.1âшphi1
+The barrios of Kadingilan, Pay-as, Bagor, San Andres (Kidalog), Mabuhay (Pidlangaban), Cabadiangan, Matampay, Kibalagon, Husayan, Salvaclon, Ma-linao, Baroy, New Sibunga, Balaoro, Macati-ac, and Pina-manguhan in the Municipality of Kibawe, Province of Bukidnon, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Kadingilan, same province. The seat of government of the new municipality shall be in the present site of Barrio Kadingilan.
 
 The Municipality of Kadingilan shall be bounded as follows:
 

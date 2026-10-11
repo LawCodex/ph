@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the BMC shall a
 
 ## Section 4
 
-The existing workforce of the BMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the BMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
 
 The Secretary of Health shall, after consultation with the Medical Center Chief of the BMC, and in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created.
 

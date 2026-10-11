@@ -46,7 +46,7 @@ If any provision or part of this Act is declared unconstitutional, the remaining
 
 ## Section 5
 
-All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.ℒαwρhi৷
+All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
 
 ## Section 6
 

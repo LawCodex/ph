@@ -189,7 +189,7 @@ _Compliance with Applicable Air Rules and Regulations on Flight Safety._ \- Fore
 
 (a) Observe the Rules of the Air established by the CAAP, the ICAO, and such other conventions or treaties to which the Philippines is a party, as they apply to civil aircraft. State aircraft shall normally comply with such safety measures and at all times operate with due regard for the safety of navigation; and
 
-(b) Monitor the radio frequency assigned by the competent internationally designated air traffic control authority or the appropriate international distress radio frequency at all times.ℒαwρhi৷
+(b) Monitor the radio frequency assigned by the competent internationally designated air traffic control authority or the appropriate international distress radio frequency at all times.
 
 ## Section 21
 

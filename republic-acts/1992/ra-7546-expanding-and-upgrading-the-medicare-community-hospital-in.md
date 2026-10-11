@@ -29,7 +29,7 @@ The medicare community hospital in the Municipality of San Miguel, Province of S
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1âшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

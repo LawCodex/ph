@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Volcano Island in Taal Lake, Province of Batangas, is herein, declared a tourist zone under the joint jurisdiction of the Department of Tourism, the Department of Environment and Natural Resources, and the municipalities of Laurel, Balete, Agoncillo, San Nicolas, and Talisay. As such, it shall be accorded priority development by the Department of Tourism and the Department of Environment and Natural Resources and shall be subject to rules and regulations governing the development of tourist zones.1âшphi1
+The Volcano Island in Taal Lake, Province of Batangas, is herein, declared a tourist zone under the joint jurisdiction of the Department of Tourism, the Department of Environment and Natural Resources, and the municipalities of Laurel, Balete, Agoncillo, San Nicolas, and Talisay. As such, it shall be accorded priority development by the Department of Tourism and the Department of Environment and Natural Resources and shall be subject to rules and regulations governing the development of tourist zones.
 
 ## Section 2
 

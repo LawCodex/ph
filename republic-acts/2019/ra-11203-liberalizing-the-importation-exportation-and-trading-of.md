@@ -89,7 +89,7 @@ A new Section 5 is hereby inserted after Section 4 of R. A. No. 8178, as amended
 
 "The imported rice should arrive before the expiration of the SPSIC from the BPI.
 
-"The food safety regulatory function of the NFA under Item (i), Section 16 of R. A. No. 10611, otherwise known as the ‘Food Safety Act of 2013’.1âwphi1 is hereby transferred to the BPI."
+"The food safety regulatory function of the NFA under Item (i), Section 16 of R. A. No. 10611, otherwise known as the ‘Food Safety Act of 2013’. is hereby transferred to the BPI."
 
 ## Section 5
 
@@ -173,7 +173,7 @@ A new Section 13 is hereby inserted after the renumbered Section 12 of R. A. No.
 
 "At the end of the sixth (6th) year, a mandatory review shall be conducted by the Congressional Oversight Committee on Agricultural and Fisheries Modernization (COCAFM) to determine whether the Rice Fund and its use as provided for under this Act shall be continued, amended, or terminated. The COCAFM shall utilize the increase or decrease in farmers’ incomes as a primary benchmark in determining the effectiveness of the interventions under the program and its possible extension.
 
-"The Secretary of Agriculture shall be accountable and responsible for the Rice Fund in coordination with other government agencies concerned.1âwphi1
+"The Secretary of Agriculture shall be accountable and responsible for the Rice Fund in coordination with other government agencies concerned.
 
 "The amount allocated shall be released directly to the implementing agencies as provided for in this Act based on the objectives and plans of the rice industry roadmap: _Provided,_ That the unutilized portion of the Rice Fund allocated to the implementing agencies shall not revert to the General Fund but shall continue to be used for the purpose for which it was set aside. Fund releases charged against the Rice Fund shall not be subject to any ceiling by the Department of Budget and Management (DBM).
 

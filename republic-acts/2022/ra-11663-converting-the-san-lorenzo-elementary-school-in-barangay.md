@@ -40,7 +40,7 @@ The Secretary of Education shall immediately include in the Department's program
 
 ## Section 4
 
-Within sixty (60) days after the approval of this Act, the Secretary of Education shall promulgate the rules and regulations implementing the provisions of this Act.1aшphi1
+Within sixty (60) days after the approval of this Act, the Secretary of Education shall promulgate the rules and regulations implementing the provisions of this Act.
 
 ## Section 5
 

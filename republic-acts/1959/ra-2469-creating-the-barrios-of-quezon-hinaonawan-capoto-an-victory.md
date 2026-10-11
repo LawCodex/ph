@@ -72,7 +72,7 @@ The following barrios are hereby created in the Municipality of Las Navas, Provi
 
 (23) Barrio of Matelarag, consisting of the sitios of Caglebas and Babawang; and
 
-(24) Barrio San Fernando, consisting of the sitios of Palijon, Capongot and Lalyogan.1âшphi1
+(24) Barrio San Fernando, consisting of the sitios of Palijon, Capongot and Lalyogan.
 
 ## Section 2
 

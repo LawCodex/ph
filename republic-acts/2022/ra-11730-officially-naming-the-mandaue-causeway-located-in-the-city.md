@@ -30,7 +30,7 @@ By it enacted by the Senate and House of Representatives of the Philippines in C
 
 The Mandaue Causeway in the City of Mandaue, Province of Cebu, stretching from the corner of S.B. Cabahug St., traversing the Tipolo Creek in Barangay Centro and the Mandaue Reclamation Area, up to the bridge over the Mahiga Creek at the Cebu International Port, comprising a total distance of 2.489 kilometers, is hereby officially named as Ouano Avenue.
 
-The Don Andres Soriano Avenue, fronting the existing Mandaue City Cultural and Sports Complex, shall not be a part of the Ouano Avenue consistent with Mandaue City Ordinance No. 97/005 promulgated on March 7, 1997.SEC. 2. The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.1aшphi1
+The Don Andres Soriano Avenue, fronting the existing Mandaue City Cultural and Sports Complex, shall not be a part of the Ouano Avenue consistent with Mandaue City Ordinance No. 97/005 promulgated on March 7, 1997.SEC. 2. The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ The barrios and sitios and Diadi, Balete, Rosario, Nagsabaran, Limbo, Talicitic,
 
 ## Section 2
 
-The Municipal District of Diadi shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.1avvphi1
+The Municipal District of Diadi shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
 
 ## Section 3
 

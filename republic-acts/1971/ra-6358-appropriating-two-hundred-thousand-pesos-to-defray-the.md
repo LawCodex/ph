@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to defray the expenses for the state funeral of Carlos P. Garcia and for the construction of a mausoleum to contain his remains.1âшphi1
+The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to defray the expenses for the state funeral of Carlos P. Garcia and for the construction of a mausoleum to contain his remains.
 
 ## Section 2
 

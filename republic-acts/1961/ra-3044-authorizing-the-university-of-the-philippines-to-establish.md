@@ -28,7 +28,7 @@ To enable the University of the Philippines to meet its increasing responsibilit
 
 ## Section 2
 
-The President of the University of the Philippines is hereby authorized to borrow for the above-stated purpose an amount not exceeding three million pesos from the Government Service Insurance System, the Social Security System, and/or other government financing entities, which are also hereby authorized to grant such loans.1awp++i1 The construction of the building for said pay pavilion shall be under the supervision of and in accordance with the rules of the University of the Philippines, any other provision of law to the contrary notwithstanding.1avvphi1
+The President of the University of the Philippines is hereby authorized to borrow for the above-stated purpose an amount not exceeding three million pesos from the Government Service Insurance System, the Social Security System, and/or other government financing entities, which are also hereby authorized to grant such loans. The construction of the building for said pay pavilion shall be under the supervision of and in accordance with the rules of the University of the Philippines, any other provision of law to the contrary notwithstanding.
 
 ## Section 3
 

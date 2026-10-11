@@ -33,7 +33,7 @@ Such cattle shall be loaned to every farmer in the Philippines who may wish rais
 
 ## Section 3
 
-The contract of loan for the purpose of this Act shall be such that for every one cattle loaned to the farmer, two cattle shall be returned to the Government from the first calving, if possible.1âшphi1 The cattle so returned shall immediately be loaned by the Government to another farmer within the same municipality until such time that all the farmers therein desiring to raise cattle shall have been given this benefit, in which case, the cattle so returned shall be loaned by the Government to another farmer living in another municipality.
+The contract of loan for the purpose of this Act shall be such that for every one cattle loaned to the farmer, two cattle shall be returned to the Government from the first calving, if possible. The cattle so returned shall immediately be loaned by the Government to another farmer within the same municipality until such time that all the farmers therein desiring to raise cattle shall have been given this benefit, in which case, the cattle so returned shall be loaned by the Government to another farmer living in another municipality.
 
 ## Section 4
 

@@ -218,7 +218,7 @@ _Academic Freedom and Institutional Autonomy._ \- The BulSU shall enjoy academic
 
 _Scholarship Programs and Admission._ \- The BulSU shall provide scholarship programs and other affirmative action programs to assist poor but deserving students who qualify for admission to the BulSU.
 
-No student shall be denied admission to the BulSU by reason of sex, gender, religion, cultural community affiliation, or ethnic origin, or any other forms of discrimination.1aшphi1
+No student shall be denied admission to the BulSU by reason of sex, gender, religion, cultural community affiliation, or ethnic origin, or any other forms of discrimination.
 
 ## Section 20
 

@@ -101,6 +101,6 @@ The grantee, its successors and/or assigns, is hereby authorized to negotiate an
 
 ## Section 19
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

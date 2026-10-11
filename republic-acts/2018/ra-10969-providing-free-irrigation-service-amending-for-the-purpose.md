@@ -58,7 +58,7 @@ The NIA shall issue the necessary policies, qualification requirements and selec
 
 ## Section 6
 
-_Operation and Maintenance of Communal Irrigation Systems._ 1awp++i1 \- CIS shall continue to be operated and maintained by IAs. In lieu of the ISF that are no longer billed from exempt farmers, the national government shall provide the equivalent funds for the O and M of CIS.
+_Operation and Maintenance of Communal Irrigation Systems._ \- CIS shall continue to be operated and maintained by IAs. In lieu of the ISF that are no longer billed from exempt farmers, the national government shall provide the equivalent funds for the O and M of CIS.
 
 ## Section 7
 
@@ -70,7 +70,7 @@ _Technical Assistance to Irrigators Associations._ \- The NIA and other governme
 
 ## Section 9
 
-_Appropriations._ \- The amounts necessary for the implementation of this Act shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ \- The amounts necessary for the implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 10
 

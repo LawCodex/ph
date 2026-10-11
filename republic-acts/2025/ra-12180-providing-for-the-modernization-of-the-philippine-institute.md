@@ -233,7 +233,7 @@ _PHILVOLCS Modernization Fund._ \- There is hereby created the PHILVOLCS Moderni
 
 (b) The Secretary of the DOST, with the approval of the NEDA and subsequently, the Department of Finance (DOF), is hereby granted the authority to enter into loan agreements with foreign financial institutions, and to receive grants, bequests, and donations, whether from local or foreign sources.
 
-The PHILVOLCS Modernization Fund shall be administered by the Executive Director of the PHILVOLCS in accordance with existing government budgeting, accounting, and auditing rules and regulations.ℒαwρhi৷
+The PHILVOLCS Modernization Fund shall be administered by the Executive Director of the PHILVOLCS in accordance with existing government budgeting, accounting, and auditing rules and regulations.
 
 ## Section 16
 

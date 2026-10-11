@@ -29,7 +29,7 @@ The bed capacity of the Valladolid District Hospital in the Municipality of Vall
 
 ## Section 2
 
-Upon approval of this Act, said existing Valladolid Emergency Hospital shall be called and publicly known as the Valladolid District Hospital.1âшphi1
+Upon approval of this Act, said existing Valladolid Emergency Hospital shall be called and publicly known as the Valladolid District Hospital.
 
 ## Section 3
 

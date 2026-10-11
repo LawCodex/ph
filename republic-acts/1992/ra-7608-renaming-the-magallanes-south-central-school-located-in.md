@@ -33,7 +33,7 @@ The Magallanes South Central School is hereby renamed as the Eduardo Lee Chan Me
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

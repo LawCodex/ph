@@ -48,7 +48,7 @@ This franchise is subject to amendment or repeal by the Congress of the Philippi
 
 ## Section 6
 
-All the other provisions, terms and conditions contained in Republic Act No. 3246, as amended by Republic Act No. 4540, which are otherwise not affected thereby are hereby made integral parts of this Act.1âшphi1
+All the other provisions, terms and conditions contained in Republic Act No. 3246, as amended by Republic Act No. 4540, which are otherwise not affected thereby are hereby made integral parts of this Act.
 
 ## Section 7
 

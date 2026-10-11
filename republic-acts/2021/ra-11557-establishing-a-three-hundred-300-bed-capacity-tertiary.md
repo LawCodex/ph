@@ -35,7 +35,7 @@ There is hereby established a three hundred (300) bed capacity tertiary training
 
 The DOH shall develop a hospital development plan to reflect the developmental goals of the hospital. Any future increase in bed capacity, and upgrading of health care services and facilities shall be based on the hospital development plan. The hospital development plan shall include a hospital site and physical facilities development covering the area of the mandated location as provided in this Act.
 
-The hospital site shall be at least two thousand (2,000) square meters within the premises of the National Center for Mental Health (NCMH).Ꮮαwρhi৷ For this purpose, this provision shall be considered an exception to the provisions of Republic Act No. 5260, and other related laws, executive orders, regulations and issuances.
+The hospital site shall be at least two thousand (2,000) square meters within the premises of the National Center for Mental Health (NCMH). For this purpose, this provision shall be considered an exception to the provisions of Republic Act No. 5260, and other related laws, executive orders, regulations and issuances.
 
 ## Section 3
 

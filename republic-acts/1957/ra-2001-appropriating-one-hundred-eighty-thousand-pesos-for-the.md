@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of one hundred eight thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance, fuel, repair and replacement of rural health jeeps and other vehicles of the rural health personnel: _Provided, However_ , That not more than three hundred pesos per annum shall be spent for the maintenance and repair of each vehicle herein mentioned.1âшphi1
+The sum of one hundred eight thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance, fuel, repair and replacement of rural health jeeps and other vehicles of the rural health personnel: _Provided, However_ , That not more than three hundred pesos per annum shall be spent for the maintenance and repair of each vehicle herein mentioned.
 
 ## Section 2
 

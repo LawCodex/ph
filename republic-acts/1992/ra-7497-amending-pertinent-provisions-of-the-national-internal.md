@@ -75,7 +75,7 @@ A new subparagraph (C) is hereby added to Section 44(a)(2) of the National Inter
 
 Paragraph (d) of Section 44 of the same Code, as amended, is hereby further amended to read as follows:
 
-"(d) _Husband and wife._ \- Married individuals, whether citizens, resident or nonresident aliens who do not derive income purely from compensation, shall file a return for the taxable year to include the income of both spouses, but where it is impracticable for the spouses to file one return, each spouse may file a separate return of income but the returns so filed shall be consolidated by the Bureau for purposes of verification for the taxable year."1âшphi1
+"(d) _Husband and wife._ \- Married individuals, whether citizens, resident or nonresident aliens who do not derive income purely from compensation, shall file a return for the taxable year to include the income of both spouses, but where it is impracticable for the spouses to file one return, each spouse may file a separate return of income but the returns so filed shall be consolidated by the Bureau for purposes of verification for the taxable year."
 
 ## Section 9
 

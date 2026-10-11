@@ -34,7 +34,7 @@ _Establishment of a National High School._ – There is hereby established, unde
 
 ## Section 2
 
-_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the Tario Lim National Memorial High School, the funding of which shall be included in the annual General Appropriations Act.lawphil
+_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the Tario Lim National Memorial High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

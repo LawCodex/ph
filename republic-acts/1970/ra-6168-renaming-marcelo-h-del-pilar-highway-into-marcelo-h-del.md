@@ -30,6 +30,6 @@ Section one of Republic Act Numbered Fifty-three hundred eight is hereby amended
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: November 9, 1970.

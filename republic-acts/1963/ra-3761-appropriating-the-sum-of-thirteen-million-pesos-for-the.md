@@ -30,7 +30,7 @@ Such portion of the six million pesos appropriated by virtue of this Act which s
 
 ## Section 2
 
-Aside from the expenditures of the amount herein appropriated, the President of the Philippines shall arrange with public credit institutions and/or private banks only to facilitate the extension of long-term loans to victims of calamities for the reconstruction of their destroyed dwellings and the acquisition of their lost implements and tools needed in their occupation or calling.1âшphi1
+Aside from the expenditures of the amount herein appropriated, the President of the Philippines shall arrange with public credit institutions and/or private banks only to facilitate the extension of long-term loans to victims of calamities for the reconstruction of their destroyed dwellings and the acquisition of their lost implements and tools needed in their occupation or calling.
 
 ## Section 3
 

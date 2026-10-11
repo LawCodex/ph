@@ -32,7 +32,7 @@ No person shall be appointed chief of the Kabankalan Maternity and Emergency Hos
 
 ## Section 3
 
-The Secretary of Health shall prescribe the rules and regulations for the establishment and operation of the hospital and shall also appoint the subordinate personnel of the same for its proper operation to carry into effect the purposes of this Act.1âшphi1
+The Secretary of Health shall prescribe the rules and regulations for the establishment and operation of the hospital and shall also appoint the subordinate personnel of the same for its proper operation to carry into effect the purposes of this Act.
 
 ## Section 4
 

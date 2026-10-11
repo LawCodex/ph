@@ -38,7 +38,7 @@ The City Government of Meycauayan shall manage the Ospital ng Meycauayan, and sh
 
 ## Section 3
 
-The City Government of Meycauayan shall provide the necessary funds for the establishment of the Ospital ng Meycauayan.1aшphi1 The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
+The City Government of Meycauayan shall provide the necessary funds for the establishment of the Ospital ng Meycauayan. The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-La Paz Puericulture Center in the District of La Paz, City of Iloilo, is hereby converted into an emergency hospital to be known as La Paz Emergency Hospital.1âшphi1
+La Paz Puericulture Center in the District of La Paz, City of Iloilo, is hereby converted into an emergency hospital to be known as La Paz Emergency Hospital.
 
 ## Section 2
 

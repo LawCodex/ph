@@ -1011,7 +1011,7 @@ _The City Registry of Deeds Office._ – There shall be established in the City 
 
 _The City Register of Deeds._ – (a) The city register of deeds shall be the head of the City Registry of Deeds Office. He must be a citizen of the Philippines, a resident of the City, of good moral character, a member of the Integrated Bar, and must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
 
-(b) The city register of deeds shall receive such compensation, emoluments and allowances as may be determined by law.1awp++i1
+(b) The city register of deeds shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city register of deeds shall take charge of the Registry of Deeds Office and shall perform such duties and functions and exercise such other powers as provided by law.
 

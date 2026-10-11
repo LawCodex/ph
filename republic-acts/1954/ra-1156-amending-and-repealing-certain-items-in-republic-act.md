@@ -89,7 +89,7 @@ Item 60, Group II, paragraph (b), section two Republic Act Numbered Nine hundred
 
 ## Section 11
 
-Item 3, paragraph _(d), Title_ B; items _(f), (i),_ and _(j)_ , Group I, items _(p)_ and _(x)_ , Group II, (8) province of Bohol, paragraph _(a), Title_ C; item 17, Group i and items 101, 102, and 103, Group II, paragraph _(a), Title_ F; item 9, Group I, paragraph _(a). Title_ G; section one; and items 63 and 64, Group II, paragraph _(b)_ section two, Republic Act Numbered Nine hundred twenty are hereby repealed.1a⍵⍴h!1
+Item 3, paragraph _(d), Title_ B; items _(f), (i),_ and _(j)_ , Group I, items _(p)_ and _(x)_ , Group II, (8) province of Bohol, paragraph _(a), Title_ C; item 17, Group i and items 101, 102, and 103, Group II, paragraph _(a), Title_ F; item 9, Group I, paragraph _(a). Title_ G; section one; and items 63 and 64, Group II, paragraph _(b)_ section two, Republic Act Numbered Nine hundred twenty are hereby repealed.
 
 ## Section 12
 

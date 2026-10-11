@@ -53,11 +53,11 @@ The Institute shall discharge the following functions:
 
 ## Section 4
 
-An Advisory Council is hereby created composed of the Dean of the College of Fisheries, as Chairman, the Fisheries Commissioner, and three other members appointed by the Board of Regents on recommendation of the President of the University, who shall represent the marine industries, including fishing and canning of marine products.1âшphi1 The Council shall advise the Institute of technical and policy matters.
+An Advisory Council is hereby created composed of the Dean of the College of Fisheries, as Chairman, the Fisheries Commissioner, and three other members appointed by the Board of Regents on recommendation of the President of the University, who shall represent the marine industries, including fishing and canning of marine products. The Council shall advise the Institute of technical and policy matters.
 
 ## Section 5
 
-The Institute is authorized to maintain experiment and demonstration stations with field offices at suitable places in the Philippines.1âшphi1 The Director of Lands shall, within one year from the effectivity of this Act, convey, cede, and transfer in full ownership to the University of the Philippines suitable parcels of public land along the coast not otherwise reserved and not exceeding five hundred hectares per parcel in each of the following places: Rizal, Bataan, Sorsogon, Cagayan, Pangasinan, Polillo Island, Panay Island, Palawan, Sulu, Leyte and Davao, for the use of the Institute in carrying out the purpose of this Act.
+The Institute is authorized to maintain experiment and demonstration stations with field offices at suitable places in the Philippines. The Director of Lands shall, within one year from the effectivity of this Act, convey, cede, and transfer in full ownership to the University of the Philippines suitable parcels of public land along the coast not otherwise reserved and not exceeding five hundred hectares per parcel in each of the following places: Rizal, Bataan, Sorsogon, Cagayan, Pangasinan, Polillo Island, Panay Island, Palawan, Sulu, Leyte and Davao, for the use of the Institute in carrying out the purpose of this Act.
 
 ## Section 6
 

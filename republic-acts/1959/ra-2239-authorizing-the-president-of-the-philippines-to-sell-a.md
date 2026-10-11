@@ -42,7 +42,7 @@ The title to and use of the land conveyed by this Act shall not be transferred b
 
 ## Section 5
 
-In case the Ramon Magsaysay Award Foundation is dissolved or ceases for any reason to undertake its objectives or to have any need for the land, or fails to construct any building within five years after the approval of this Act, or violates any provision of this Act, the said land, including all the improvements thereon, shall ipso facto revert to the National Government without compensation.1âшphi1
+In case the Ramon Magsaysay Award Foundation is dissolved or ceases for any reason to undertake its objectives or to have any need for the land, or fails to construct any building within five years after the approval of this Act, or violates any provision of this Act, the said land, including all the improvements thereon, shall ipso facto revert to the National Government without compensation.
 
 ## Section 6
 

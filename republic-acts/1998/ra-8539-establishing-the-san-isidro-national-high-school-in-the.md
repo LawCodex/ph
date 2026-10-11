@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be a national high school in Barangay San Isidro, Municipality of Bacon, Province of Sorsogon, under the direct supervision of the Department of Education, Culture and Sports.Ꮮαwρhi৷
+There shall be a national high school in Barangay San Isidro, Municipality of Bacon, Province of Sorsogon, under the direct supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

@@ -28,7 +28,7 @@ Section eight of Republic Act Numbered Three hundred twenty-one is amended to re
 
 "Sec. 8. _The Vice-Mayor._ -There shall be elected by the qualified electors of the city, in conformity with the provisions of the Revised Election Code, a vice-mayor who shall receive a salary not exceeding three thousand six hundred pesos a year.
 
-"In the event of sickness, absence, or other temporary incapacity of the Mayor, or in the event of a vacancy in the position of Mayor, the vice-mayor shall perform the duties of the Mayor. If, for any reason, the duties of the office of the Mayor cannot be performed by the vice-mayor, said duties shall be performed by the presiding officer of the Municipal Board. In case of incapacity of the officials mentioned above to perform the duties of the Mayor, the President shall appoint or designate one.1âшphi1 The Acting Mayor shall have the same powers and duties as the Mayor, and if one appointed or designated is other than a government official he shall receive the same compensation."
+"In the event of sickness, absence, or other temporary incapacity of the Mayor, or in the event of a vacancy in the position of Mayor, the vice-mayor shall perform the duties of the Mayor. If, for any reason, the duties of the office of the Mayor cannot be performed by the vice-mayor, said duties shall be performed by the presiding officer of the Municipal Board. In case of incapacity of the officials mentioned above to perform the duties of the Mayor, the President shall appoint or designate one. The Acting Mayor shall have the same powers and duties as the Mayor, and if one appointed or designated is other than a government official he shall receive the same compensation."
 
 ## Section 2
 
@@ -58,7 +58,7 @@ The last paragraph of section seventy-six of the same Act is amended to read as 
 
 Section eighty-three of the same Act is amended to read as follows:
 
-"Sec. 83. _The City Auditor._ -The City Auditor shall, under the supervision of the Auditor General, receive and audit all accounts of the city, in accordance with the provisions of law relating to government accounts and accounting.1avvphi1 The city auditor shall be appointed by the Auditor General and shall receive the same salary as the city treasurer, one-half of which shall be paid by the city government and the other half by the National Government: _Provided,_ _However_ , That the city shall pay the whole salary of the said city auditor until the share of the National Government is provided for by Congress."
+"Sec. 83. _The City Auditor._ -The City Auditor shall, under the supervision of the Auditor General, receive and audit all accounts of the city, in accordance with the provisions of law relating to government accounts and accounting. The city auditor shall be appointed by the Auditor General and shall receive the same salary as the city treasurer, one-half of which shall be paid by the city government and the other half by the National Government: _Provided,_ _However_ , That the city shall pay the whole salary of the said city auditor until the share of the National Government is provided for by Congress."
 
 ## Section 7
 

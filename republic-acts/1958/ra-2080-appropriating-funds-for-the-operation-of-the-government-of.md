@@ -461,7 +461,7 @@ _Authority to change designations of positions and assignments of personnel._ �
 
 _Adjustment of Appropriations for Reorganized Agencies and Salaries of Personnel Thereof._ —The appropriations herein provided for agencies to be reorganized in accordance with the approved reorganization plans are deemed appropriated for the agencies as reorganized in case the Reorganization Implementation Reports are approved and promulgated by the President. The Commissioner of the Budget is hereby authorized to make necessary adjustments in the appropriations to carry out the foregoing provisions of this section. Furthermore, the department head concerned, with the approval of the Commissioner of the Budget, is hereby authorized to make necessary salary adjustments resulting from final selection of personnel to fill the positions in the staffing patterns of reorganized agencies in order that no incumbent receives a reduction in salary, to make necessary salary adjustments resulting from new appointments, promotions or salary increases made in the interim, and to make necessary salary adjustments resulting from changes in the staffing patterns authorized by the Commissioner of the Budget to correct mistakes, discriminations or injustices that may, in his opinion, have been committed in the preparation thereof.
 
-No provision of this Act shall be construed as repealing or modifying in any way the approved reorganizations plans under Republic Act No. 997, as amended.1a⍵⍴h!1
+No provision of this Act shall be construed as repealing or modifying in any way the approved reorganizations plans under Republic Act No. 997, as amended.
 
 ## Section 33
 

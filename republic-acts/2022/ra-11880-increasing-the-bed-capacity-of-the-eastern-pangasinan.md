@@ -46,7 +46,7 @@ The Provincial Government of Pangasinan shall provide the necessary funds to cov
 
 ## Section 5
 
-The Secretary of the DOH shall immediately include in the DOH’s subsidy program, support for the capital outlay requirements of the Eastern Pangasinan District Hospital.ℒαwρhi৷
+The Secretary of the DOH shall immediately include in the DOH’s subsidy program, support for the capital outlay requirements of the Eastern Pangasinan District Hospital.
 
 ## Section 6
 

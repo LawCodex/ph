@@ -32,7 +32,7 @@ Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled "An Act
 
 ## Section 3
 
-The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this franchise is granted.1âшphi1
+The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this franchise is granted.
 
 ## Section 4
 

@@ -59,7 +59,7 @@ A special right is hereby reserved to the President of the Philippines, in times
 
 ## Section 6
 
-_Term of Franchise._ – This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.ℒαwρhi৷
+_Term of Franchise._ – This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.
 
 ## Section 7
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Lipa City Hospital in Lipa City is hereby converted into a national hospital with an authorized bed capacity of fifty beds.1a⍵⍴h!1
+The Lipa City Hospital in Lipa City is hereby converted into a national hospital with an authorized bed capacity of fifty beds.
 
 ## Section 2
 

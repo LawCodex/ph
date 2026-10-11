@@ -28,7 +28,7 @@ There is hereby reserved from the forest concession area of the Eastcoast Develo
 
 ## Section 2
 
-The specific area to be segregated and reserved under this Act, shall be chosen by the provincial board of the province, with the approval of the provincial governor, the choice and the description thereof appearing in a formal board resolution.1a⍵⍴h!1
+The specific area to be segregated and reserved under this Act, shall be chosen by the provincial board of the province, with the approval of the provincial governor, the choice and the description thereof appearing in a formal board resolution.
 
 ## Section 3
 

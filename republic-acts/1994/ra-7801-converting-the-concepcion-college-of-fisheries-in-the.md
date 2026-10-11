@@ -33,7 +33,7 @@ The Concepcion College of Fisheries in the Municipality of Concepcion, Province 
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.1a⍵⍴h!1
+The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
 
 ## Section 3
 

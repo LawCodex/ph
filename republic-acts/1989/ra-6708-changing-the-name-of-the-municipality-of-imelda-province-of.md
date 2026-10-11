@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name Municipality of Imelda, Province of Camarines Norte, is hereby changed to Municipality of San Lorenzo Ruiz.1a⍵⍴h!1
+The name Municipality of Imelda, Province of Camarines Norte, is hereby changed to Municipality of San Lorenzo Ruiz.
 
 ## Section 2
 

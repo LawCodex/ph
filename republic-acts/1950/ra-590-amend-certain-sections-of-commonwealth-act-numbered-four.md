@@ -193,7 +193,7 @@ _Supplement to Title II of Code._ — There is hereby added to _Title_ II of the
 
 "(B) _Change of status._ — In case of change of status of an employee as a result of which he would be entitled to a lesser amount of exemption, the employee shall, within ten days from such change, file with the employer a new withholding exemption certificate reflecting the change. If the change would entitle the employee to a greater amount of exemption, he may furnish the employer with a new withholding exemption certificate reflecting such change.
 
-"(C) _Use of certificates._ — The certificates filed hereunder shall be used by the employer in the determination of the amount of taxes to be withheld.1a⍵⍴h!1
+"(C) _Use of certificates._ — The certificates filed hereunder shall be used by the employer in the determination of the amount of taxes to be withheld.
 
 "(D) _Failure to furnish certificate._ — Where an employee, in violation of this supplement, either fails or refuses to file a withholding exemption certificate, the employer shall withhold the taxes prescribed under schedule for zero exemption of the withholding tax table in sub article (a).
 

@@ -254,7 +254,7 @@ _Implementing Rules and Regulations._ – Within ninety (90) days from the effec
 
 ### Section 21
 
-_Amendments._ – The provisions of this Act shall be subject to amendments, alteration or repeal by the Congress of the Philippines, when public interest so requires.1âwphi1
+_Amendments._ – The provisions of this Act shall be subject to amendments, alteration or repeal by the Congress of the Philippines, when public interest so requires.
 
 ### Section 22
 

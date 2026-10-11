@@ -35,7 +35,7 @@ _Manner of Operation of Stations or Facilities._ \- The stations or facilities o
 
 ## Section 3
 
-_Authority of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission, hereinafter referred to as the Commission, a certificate of public convenience or the appropriate permits and licenses for the location, construction, installation and operation of its telecommunications systems. In issuing the certificate, the Commission shall have the power to impose such conditions relative to the construction, operation maintenance, or service level of the telecommunications systems. The Commission shall have the authority to regulate the construction and operation of its telecommunications systems.Ꮮαwρhi৷ The grantee shall not use any frequency in the radio spectrum without having been authorized by the Commission. Such certificate shall state the areas covered and date the grantee shall commence the service. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority, permits or licenses.
+_Authority of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission, hereinafter referred to as the Commission, a certificate of public convenience or the appropriate permits and licenses for the location, construction, installation and operation of its telecommunications systems. In issuing the certificate, the Commission shall have the power to impose such conditions relative to the construction, operation maintenance, or service level of the telecommunications systems. The Commission shall have the authority to regulate the construction and operation of its telecommunications systems. The grantee shall not use any frequency in the radio spectrum without having been authorized by the Commission. Such certificate shall state the areas covered and date the grantee shall commence the service. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority, permits or licenses.
 
 ## Section 4
 
@@ -105,7 +105,7 @@ _Dispersal of Ownership._ \- In accordance with the constitutional provisions to
 
 ## Section 17
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.Ꮮαwρhi৷
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 18
 

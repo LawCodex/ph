@@ -243,7 +243,7 @@ In case of the absence or sickness, or inability to act for any other reason, of
 _Appointment and removal of officials and employees._ — The
 President of the Philippines shall appoint, with the consent of the Commission on Appointments of the Congress of the Philippines, the judge and auxiliary judge of the municipal court, the city treasurer, the city Engineer, the city attorney, the chief of police, the chief of the fire department, and the other heads of such city departments as may be created. Except the judge and the auxiliary judge of the municipal court, said officers shall hold office at the pleasure of the President.
 
-All other officers and employees of the city whose appointments are not otherwise provided for by law shall be appointed by the Mayor, upon the recommendation of the corresponding city department head, in accordance with the Civil Service Law and they shall be suspended or removed in accordance with said law.Ꮮαwρhi৷
+All other officers and employees of the city whose appointments are not otherwise provided for by law shall be appointed by the Mayor, upon the recommendation of the corresponding city department head, in accordance with the Civil Service Law and they shall be suspended or removed in accordance with said law.
 
 ### Section 20
 
@@ -734,7 +734,7 @@ _The Bureau of Public Schools._ — The Director of Public Schools shall exercis
 
 A city school board of six members, two of whom shall be women and who shall serve without salary, shall be selected and removed in the same manner, and shall have the same powers and duties, as local school boards in the municipalities.
 
-The Municipal Board shall have the same powers in respect to the establishment of schools as are conferred by law on municipal councils.Ꮮαwρhi৷
+The Municipal Board shall have the same powers in respect to the establishment of schools as are conferred by law on municipal councils.
 
 ### Section 86
 
@@ -742,7 +742,7 @@ _Reports to the Mayor concerning schools—Construction and custody of school bu
 
 ### Section 87
 
-_The City Health Officer—His salary, powers, and duties._ — There shall be in the City of Naga a city health officer.1avvphi1 He shall have a salary of not exceeding three thousand pesos per annum. The City Health Officer shall have the following general powers and duties:
+_The City Health Officer—His salary, powers, and duties._ — There shall be in the City of Naga a city health officer. He shall have a salary of not exceeding three thousand pesos per annum. The City Health Officer shall have the following general powers and duties:
 
 a. He shall have general supervision over the health and sanitary conditions of the city.
 

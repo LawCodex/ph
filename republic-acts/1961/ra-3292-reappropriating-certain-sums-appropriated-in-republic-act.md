@@ -65,6 +65,6 @@ The sums appropriated in Republic Act Numbered Sixteen hundred thirteen under:
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted, without Executive approval, June 18, 1961.

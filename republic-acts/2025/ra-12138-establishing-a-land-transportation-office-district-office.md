@@ -29,7 +29,7 @@ There is hereby established a district office of Land Transportation Office (LTO
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the Municipality of Consolacion, Province of Cebu, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the Municipality of Consolacion, Province of Cebu, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

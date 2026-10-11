@@ -43,7 +43,7 @@ Section 26 of Republic Act No. 10598 is hereby amended to read as follows:
 
 "(e) Learning resources and support structures for the HEI’s programs, and compliant with the minimum requirement based on CHED Policies, Standards and Guidelines (PSGs); and
 
-"(f) Outreach programs involving students in social-development oriented experiences that allow them to contextualize their knowledge within actual social and human experiences.1âwphi1
+"(f) Outreach programs involving students in social-development oriented experiences that allow them to contextualize their knowledge within actual social and human experiences.
 
 "The institution shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements provided herein."
 
@@ -59,7 +59,7 @@ All laws, executive orders, decrees, instructions, rules and regulations contrar
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

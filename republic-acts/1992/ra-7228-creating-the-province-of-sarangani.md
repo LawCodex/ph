@@ -33,7 +33,7 @@ Except as otherwise herein provided, all provisions of law now or hereafter appl
 
 ## Section 3
 
-The provincial capital of Sarangani shall be the Municipality of Alabel, and the capitol building and all other national and provincial offices in the new province shall be established within the government lots thereat.1âшphi1
+The provincial capital of Sarangani shall be the Municipality of Alabel, and the capitol building and all other national and provincial offices in the new province shall be established within the government lots thereat.
 
 ## Section 4
 

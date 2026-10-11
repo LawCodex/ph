@@ -32,11 +32,11 @@ For the purpose of erecting and placing the poles or other supports of such wire
 
 ## Section 3
 
-The grantee, its successors or assigns, shall keep a separate account of the gross receipts of its telephone business, and shall furnish the Auditor General and the Treasurer of the Philippines a copy of such account not later than the fifteenth day of April of each year for the preceding calendar year.1avvphi1
+The grantee, its successors or assigns, shall keep a separate account of the gross receipts of its telephone business, and shall furnish the Auditor General and the Treasurer of the Philippines a copy of such account not later than the fifteenth day of April of each year for the preceding calendar year.
 
 ## Section 4
 
-The grantee, its successors or assigns, shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay: _Provided,_ However, That the grantee, its successors or assigns, shall be exempt from paying taxes of whatever nature on the machineries, equipment, conductors, apparatus, poles, and other appurtenances and paraphernalia used in connection with the operation of the telephone system under this franchise.1âшphi1 The grantee, its successors or assigns, shall pay to the Treasurer of the Philippines each year within ten days after audit and approval of the accounts as prescribed in Section three of this Act, one per centum of all gross receipts of the telephone business transacted under this franchise by the grantee, its successors or assigns, and the said percentage shall be in lieu of all taxes on this franchise or its earnings.
+The grantee, its successors or assigns, shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay: _Provided,_ However, That the grantee, its successors or assigns, shall be exempt from paying taxes of whatever nature on the machineries, equipment, conductors, apparatus, poles, and other appurtenances and paraphernalia used in connection with the operation of the telephone system under this franchise. The grantee, its successors or assigns, shall pay to the Treasurer of the Philippines each year within ten days after audit and approval of the accounts as prescribed in Section three of this Act, one per centum of all gross receipts of the telephone business transacted under this franchise by the grantee, its successors or assigns, and the said percentage shall be in lieu of all taxes on this franchise or its earnings.
 
 ## Section 5
 

@@ -46,7 +46,7 @@ The Department of Health, in coordination with the Department of Budget and Mana
 
 ## Section 5
 
-The increase in bed capacity of the Southern Philippines Medical Center from six hundred (600) to one thousand two hundred (1,200) beds shall be implemented for a period of not more than four (4) years from the approval of this Act.1avvphi1
+The increase in bed capacity of the Southern Philippines Medical Center from six hundred (600) to one thousand two hundred (1,200) beds shall be implemented for a period of not more than four (4) years from the approval of this Act.
 
 ## Section 6
 

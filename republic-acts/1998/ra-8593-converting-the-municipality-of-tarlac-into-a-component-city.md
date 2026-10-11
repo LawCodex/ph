@@ -949,7 +949,7 @@ _The City General Services Officer._ -
 
 a. The city general services officer must be a citizen of the Philippines, a resident of the City of Tarlac, of good moral character, a holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal, and general sanitation for at least five (5) years immediately preceding the date of his appointment.
 
-b. The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.1awp++i1
+b. The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 c. The city general services officer shall take charge of the office of general services, and shall:
 

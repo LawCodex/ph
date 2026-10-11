@@ -25,7 +25,9 @@ AN ACT TO DECLARE, IN VIEW OF THE EXISTENCE OF A NATIONAL EMERGENCY, A NATIONAL 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._State of National Emergency._** \- On December 1, 1989, a rebellion committed by certain elements of the Armed Forces of the Philippines aided and abetted by civilians gave rise to an emergency of national proportions.
+## Section 1
+
+_State of National Emergency._ \- On December 1, 1989, a rebellion committed by certain elements of the Armed Forces of the Philippines aided and abetted by civilians gave rise to an emergency of national proportions.
 
 The emergency continues even with the cessation of military hostilities. More than 2,000 persons who participated in the failed coup, including the masterminds and plotters, are said to be still at large. There is a clear threat to national security posed by the rebels who have just "returned to their barracks," and the fence-sitters among the military. Bombings in Metropolitan Manila continue causing loss of lives, maiming of limbs and destruction of property.
 
@@ -39,9 +41,13 @@ The economy has suffered and continues to suffer a serious setback, severely dis
 
 A state of national emergency is hereby declared.
 
-**Section 2._Declaration of Policy._** \- The mutiny and rebellion by certain elements of the Armed Forces of the Philippines launched to seize state power, destabilize the duly constituted Government and supplant it with a military government by means of force and violence and other illegal means, has caused loss of lives and destruction of property and has set back the economic program of the Government. Due to and by reason thereof, and in order to optimize the efforts of the President to carry out the difficult task of economic reconstruction, it is imperative to grant her emergency powers subject to such limitations as hereinafter provided.
+## Section 2
 
-**Section 3._Authorized Powers._** \- Pursuant to Article VI, Section 23 (2) of the Constitution, and to implement the declared national policy, the President is hereby authorized to issue such rules and regulations as may be necessary to carry out any or all of the following powers:
+_Declaration of Policy._ \- The mutiny and rebellion by certain elements of the Armed Forces of the Philippines launched to seize state power, destabilize the duly constituted Government and supplant it with a military government by means of force and violence and other illegal means, has caused loss of lives and destruction of property and has set back the economic program of the Government. Due to and by reason thereof, and in order to optimize the efforts of the President to carry out the difficult task of economic reconstruction, it is imperative to grant her emergency powers subject to such limitations as hereinafter provided.
+
+## Section 3
+
+_Authorized Powers._ \- Pursuant to Article VI, Section 23 (2) of the Constitution, and to implement the declared national policy, the President is hereby authorized to issue such rules and regulations as may be necessary to carry out any or all of the following powers:
 
 (1) To protect the people from hoarding, profiteering, injurious speculations, manipulation of prices, product deceptions, and cartels, monopolies or other combinations in restraint of trade, or other pernicious practices affecting the supply, distribution and movement of food, clothing, medicine and medical supplies, office and school supplies, fuel, fertilizers, chemicals, building materials, implements, machinery equipment and spare parts required in agriculture, industry and other essential services, and other articles of prime necessity, whether imported or locally produced or manufactured;
 
@@ -65,20 +71,32 @@ A state of national emergency is hereby declared.
 
 (11) To undertake such other measures as may be reasonable and necessary to enable the President to carry out the declared national policy subject to the Bill of Rights and other constitutional guarantees.
 
-**Section 4._Reports to Congress._** \- The President, within ten (10) days from the issuance of any of the executive acts, orders, rules and regulations promulgated and issued by her under the powers herein granted shall report to Congress the issuance thereof and the justification therefor: Provided, That within the first ten (10) days of every month, the President shall likewise submit a monthly report to Congress of all acts performed pursuant to this Act during the preceding month.
+## Section 4
 
-**Section 5._Penalties._** \- Any violation of the rules or regulations issued pursuant hereto, shall be punishable with imprisonment of not less than five (5) years but not more than ten (10) years or a fine of not less than Fifty thousand pesos (P50,000) but not more than Five hundred thousand pesos (P500,000) or both such imprisonment and fine at the discretion of the court: Provided, however, That if the offender is a corporation, association, partnership or any other juridical person, the penalty shall be imposed upon the president, directors, managers, managing partners, as the case may be, who participated in the commission of the offense or who shall have knowingly permitted or failed to prevent the commission of the same. If the offender is an alien, he shall, in addition to the penalties herein prescribed, be deported without further proceedings; Provided, further, That if the offender is a public official or employee, he shall, in addition to the penalties prescribed herein, suffer perpetual or temporary absolute disqualification from office, as the case may be.
+_Reports to Congress._ \- The President, within ten (10) days from the issuance of any of the executive acts, orders, rules and regulations promulgated and issued by her under the powers herein granted shall report to Congress the issuance thereof and the justification therefor: Provided, That within the first ten (10) days of every month, the President shall likewise submit a monthly report to Congress of all acts performed pursuant to this Act during the preceding month.
 
-**Section 6._Construction or Interpretation._** \- Nothing in this Act shall be construed or interpreted as a restriction of the Bill of Rights or of the Constitution.
+## Section 5
 
-**Section 7._Separability Clause._** \- If any provision of this Act or the application of such provision to any person or circumstance is declared invalid, the remainder of this Act or the application of such provision to any other person or circumstances shall not be affected by such declaration.
+_Penalties._ \- Any violation of the rules or regulations issued pursuant hereto, shall be punishable with imprisonment of not less than five (5) years but not more than ten (10) years or a fine of not less than Fifty thousand pesos (P50,000) but not more than Five hundred thousand pesos (P500,000) or both such imprisonment and fine at the discretion of the court: Provided, however, That if the offender is a corporation, association, partnership or any other juridical person, the penalty shall be imposed upon the president, directors, managers, managing partners, as the case may be, who participated in the commission of the offense or who shall have knowingly permitted or failed to prevent the commission of the same. If the offender is an alien, he shall, in addition to the penalties herein prescribed, be deported without further proceedings; Provided, further, That if the offender is a public official or employee, he shall, in addition to the penalties prescribed herein, suffer perpetual or temporary absolute disqualification from office, as the case may be.
 
-**Section 8._Promulgation, Effect and Enforcement of Rules and Regulations._** \- The rules and regulations promulgated by the President pursuant to this Act, which shall have the force and effect of law, shall be numbered consecutively and shall take effect two (2) days after their publication in case of rules and regulations that are denominated "urgent," and five (5) days in case of those without such denomination. The publication shall be effected in at least two (2) newspapers of national circulation.
+## Section 6
+
+_Construction or Interpretation._ \- Nothing in this Act shall be construed or interpreted as a restriction of the Bill of Rights or of the Constitution.
+
+## Section 7
+
+_Separability Clause._ \- If any provision of this Act or the application of such provision to any person or circumstance is declared invalid, the remainder of this Act or the application of such provision to any other person or circumstances shall not be affected by such declaration.
+
+## Section 8
+
+_Promulgation, Effect and Enforcement of Rules and Regulations._ \- The rules and regulations promulgated by the President pursuant to this Act, which shall have the force and effect of law, shall be numbered consecutively and shall take effect two (2) days after their publication in case of rules and regulations that are denominated "urgent," and five (5) days in case of those without such denomination. The publication shall be effected in at least two (2) newspapers of national circulation.
 
 Rules and regulations with a penal clause shall be duly published in Filipino and English in at least two (2) national newspapers of general circulation.
 
 Said rules and regulations shall cease to be in force and effect upon the expiry date provided in Section 9 hereof without prejudice to benefits and rights that may have vested, and culpabilities and liabilities that may have been incurred and established after due notice and hearing.
 
-**Section 9._Effectivity._** \- This Act shall take effect upon its publication in two (2) national newspapers of general circulation and shall be in full force and effect until the next sine die adjournment in June 1990 of the regular session of Congress: Provided, however, That adjournment for a recess shall not affect the duration of this Act: and Provided, further, That the powers granted under this Act may be withdrawn sooner by means of a concurrent resolution of Congress or ended by Presidential Proclamation.
+## Section 9
+
+_Effectivity._ \- This Act shall take effect upon its publication in two (2) national newspapers of general circulation and shall be in full force and effect until the next sine die adjournment in June 1990 of the regular session of Congress: Provided, however, That adjournment for a recess shall not affect the duration of this Act: and Provided, further, That the powers granted under this Act may be withdrawn sooner by means of a concurrent resolution of Congress or ended by Presidential Proclamation.
 
 Approved: **December 20, 1989**

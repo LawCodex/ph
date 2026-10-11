@@ -37,7 +37,7 @@ October Sixteen of every year is hereby declared a special nonworking holiday in
 
 ## Section 3
 
-Where October Sixteen falls on a Sunday or a proclaimed holiday, the day following shall be a nonworking day in the said city.1a⍵⍴h!1
+Where October Sixteen falls on a Sunday or a proclaimed holiday, the day following shall be a nonworking day in the said city.
 
 ## Section 4
 

@@ -116,7 +116,7 @@ Section 9 of the same law is hereby amended to read as follows:
 
 “SEC. 9. _Funding._ – The funding for the operation and maintenance of the PESO shall be provided by the LGU from its internal revenue allotment and other internally generated income of the LGU concerned. Likewise, the operation and maintenance of the NGO PESOs and job placement offices of Els shall be charged against their internally generated income.
 
-“Funds for the provision of technical assistance, training and supervision of the PESO shall be included in the budget of the DOLE in the annual General Appropriations Act.1âwphi1
+“Funds for the provision of technical assistance, training and supervision of the PESO shall be included in the budget of the DOLE in the annual General Appropriations Act.
 
 “The amount necessary to implement the provisions of this Act shall be included by the Department of Budget and Management in the annual General Appropriations Act.”
 

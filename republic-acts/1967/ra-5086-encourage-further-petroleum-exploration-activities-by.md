@@ -32,7 +32,7 @@ Holders of drilling leases granted under Act Numbered Twenty-nine hundred thirty
 
 If within any three-year extension period the concessionaire can not show bona fide exploration work in search for petroleum in the subject concession, no extension thereof shall be granted. Expenditure in any concession year of the minimum amount required for exploration work obligations on any one concession or group of concessions within one sedimentary basin shall be considered as bona fide exploration work of said concession or group of concessions within said sedimentary basin.
 
-The minimum work obligation expenditure for the fourth year of the initial term of the exploration concession as provided in the Petroleum Act of 1949 shall also be the minimum amount of work obligations required for any extension or extensions that may be granted.1avvphi1
+The minimum work obligation expenditure for the fourth year of the initial term of the exploration concession as provided in the Petroleum Act of 1949 shall also be the minimum amount of work obligations required for any extension or extensions that may be granted.
 
 ## Section 2
 

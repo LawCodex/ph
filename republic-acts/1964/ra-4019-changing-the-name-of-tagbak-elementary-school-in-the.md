@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Tagbak Elementary School in the Municipality of Indanan, Province of Sulu, is changed to Panglima Mammah Elementary School.1âшphi1
+The name of Tagbak Elementary School in the Municipality of Indanan, Province of Sulu, is changed to Panglima Mammah Elementary School.
 
 ## Section 2
 

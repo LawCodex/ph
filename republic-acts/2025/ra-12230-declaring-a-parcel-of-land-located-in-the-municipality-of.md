@@ -309,7 +309,7 @@ _Scope and Coverage._ \- The boundaries of the San Francisco Protected Landscape
 
 from the point of beginning containing an area of three hundred forty-seven (347) hectares, more or less. Bearings and distances of lines were derived using the PRS 1992 Philippines Zone III coordinate system, subject to ground delineation and demarcation.
 
-The Certification from the National Mapping and Resource Information Authority (NAMRIA) containing the boundaries and technical descriptions of the PLPL is hereby adopted and made an integral part of this Act.ℒαwρhi৷ In case of inconsistency, the boundaries and technical descriptions in the attached Certification shall prevail.
+The Certification from the National Mapping and Resource Information Authority (NAMRIA) containing the boundaries and technical descriptions of the PLPL is hereby adopted and made an integral part of this Act. In case of inconsistency, the boundaries and technical descriptions in the attached Certification shall prevail.
 
 Any modification of the scope and coverage of the PLPL in this Act shall be made through an act of Congress, after consultation with the government agencies and stakeholders concerned.
 

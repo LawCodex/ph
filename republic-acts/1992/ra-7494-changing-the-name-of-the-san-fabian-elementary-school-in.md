@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the San Fabian Elementary School in Echague, Isabela, is hereby changed to Echague East Central School.1âшphi1
+The name of the San Fabian Elementary School in Echague, Isabela, is hereby changed to Echague East Central School.
 
 ## Section 2
 

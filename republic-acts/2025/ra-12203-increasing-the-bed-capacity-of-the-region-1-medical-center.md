@@ -29,7 +29,7 @@ The authorized bed capacity of the Region 1 Medical Center (R1MC) in the City of
 
 ## Section 2
 
-The existing professional healthcare services and facilities of the R1MC shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.ℒαwρhi৷
+The existing professional healthcare services and facilities of the R1MC shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.
 
 ## Section 3
 

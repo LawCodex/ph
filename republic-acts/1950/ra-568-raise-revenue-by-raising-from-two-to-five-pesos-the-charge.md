@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section five hundred twenty-eight of the Revised Administrative Code, as amended by Republic Act Numbered Two hundred thirty-one, is further amended to read as follows:
 
-"Section 528.ℒαwρhi৷ Charge for certificate of transfer-Disposal of the proceeds. - Each certificate of transfer shall bear printed on its face a form of stamp of the value of five pesos, which shall be duly cancelled with the seal of the city, municipality or municipal district concerned. The certificate required by this section shall be paid for by the buyer, and the money received therefor shall, in cities and organized municipalities, be paid into the city or municipal treasury, and in the case of municipal districts, into the provincial treasury for the benefit of the municipal district concerned."
+"Section 528. Charge for certificate of transfer-Disposal of the proceeds. - Each certificate of transfer shall bear printed on its face a form of stamp of the value of five pesos, which shall be duly cancelled with the seal of the city, municipality or municipal district concerned. The certificate required by this section shall be paid for by the buyer, and the money received therefor shall, in cities and organized municipalities, be paid into the city or municipal treasury, and in the case of municipal districts, into the provincial treasury for the benefit of the municipal district concerned."
 
 ## Section 2
 

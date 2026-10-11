@@ -49,7 +49,7 @@ _Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) y
 
 ## Section 7
 
-_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing sixty (60) days after the approval of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.1âшphi1
+_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing sixty (60) days after the approval of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 
 ## Section 8
 

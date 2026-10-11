@@ -35,4 +35,4 @@ Section sixteen of Republic Act Numbered Thirty-live hundred eighty-eight, as am
 
 This Act shall take effect upon its approval.
 
-Approved, August 4, 1969.1a⍵⍴h!1
+Approved, August 4, 1969.

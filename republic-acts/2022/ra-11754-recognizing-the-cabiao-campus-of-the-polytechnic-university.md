@@ -40,7 +40,7 @@ The Polytechnic University of the Philippines (PUP)-Cabiao Campus in the Municip
 
 The PUP-Cabiao Campus shall primarily provide short-term, technical-vocational, undergraduate, and graduate courses within its areas of competency and specialization, pursuant to its mandate and according to its capabilities as the Board of Regents of the PUP, hereinafter referred to as the Board, may deem necessary for the accomplishment of its objectives, and those which respond to the human resources development needs of the Province of Nueva Ecija and Region III.
 
-The PUP-Cabiao Campus is also mandated to undertake research and extension services, and to provide progressive leadership in these areas.ℒαwρhi৷
+The PUP-Cabiao Campus is also mandated to undertake research and extension services, and to provide progressive leadership in these areas.
 
 ## Section 4
 
@@ -58,7 +58,7 @@ All parcels of land belonging to the government occupied by the PUP-Cabiao Campu
 
 ## Section 7
 
-The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.1aшphi1 The Municipality of Cabiao shall continue to fund the operation and maintenance of the PUP-Cabiao Campus until such time that the funds needed to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act. The Municipality of Cabiao shall continue to fund the operation and maintenance of the PUP-Cabiao Campus until such time that the funds needed to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 8
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Fraternidad Street in the District of Pandacan, City of Manila, is changed to Teodora San Luis Street.1âшphi1
+The name of Fraternidad Street in the District of Pandacan, City of Manila, is changed to Teodora San Luis Street.
 
 ## Section 2
 

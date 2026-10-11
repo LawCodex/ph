@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing PNAC Bayanihan High School in Barangay Mendoza, Municipality of Roxas, Province of Palawan, is hereby separated from the Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, and converted into an independent national high school to be known as the Mendoza National Agricultural High School, under the supervision of the Department of Education, Culture and Sports.1aшphi1
+The existing PNAC Bayanihan High School in Barangay Mendoza, Municipality of Roxas, Province of Palawan, is hereby separated from the Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, and converted into an independent national high school to be known as the Mendoza National Agricultural High School, under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

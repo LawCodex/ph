@@ -34,4 +34,4 @@ March 10 of every year is hereby declared a special nonworking holiday in the Mu
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on December 15, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on December 15, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

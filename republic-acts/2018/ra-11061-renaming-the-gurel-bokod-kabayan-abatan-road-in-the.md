@@ -33,7 +33,7 @@ In recognition of his public service rendered to the people of the Province of B
 
 ## Section 2
 
-The Department of Public Works and Highways shall place appropriate markers along the Cong. Andres Acop Cosalan Road and issue the necessary orders and circulars to implement the provision of this Act.1âwphi1
+The Department of Public Works and Highways shall place appropriate markers along the Cong. Andres Acop Cosalan Road and issue the necessary orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

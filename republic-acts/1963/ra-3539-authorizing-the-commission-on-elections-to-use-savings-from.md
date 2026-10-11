@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The provision of any law to the contrary notwithstanding, the Commission on Elections is hereby authorized to use savings from election funds, but in no case to exceed two million five hundred thousand pesos, for the construction of a permanent office building including the necessary accessories, furnishings, and equipment facilities.1âшphi1
+The provision of any law to the contrary notwithstanding, the Commission on Elections is hereby authorized to use savings from election funds, but in no case to exceed two million five hundred thousand pesos, for the construction of a permanent office building including the necessary accessories, furnishings, and equipment facilities.
 
 ## Section 2
 

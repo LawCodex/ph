@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section four of Republic Act Numbered Forty-five hundred nineteen, is hereby amended to read as follows:
 
-"Sec. 4. If the grantee shall not commence the construction of at least one ice plant or cold storage within two years from the approval of this amendatory Act, unless prevented by an Act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.1avvphi1
+"Sec. 4. If the grantee shall not commence the construction of at least one ice plant or cold storage within two years from the approval of this amendatory Act, unless prevented by an Act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
 
 ## Section 2
 

@@ -38,7 +38,7 @@ Subsection (a) of section two of the same Act is hereby amended to read as follo
 
 The second paragraph of section two of the same Act is further amended to read as follows:
 
-"A Chairman and Vice-Chairman shall be elected by the Commission to serve for a term of two years or until their respective successors shall have been elected or qualified.1a⍵⍴h!1 The Chairman shall be the presiding officer of the Commission and shall ex officio be the Head of the Executive Committee herein provided."
+"A Chairman and Vice-Chairman shall be elected by the Commission to serve for a term of two years or until their respective successors shall have been elected or qualified. The Chairman shall be the presiding officer of the Commission and shall ex officio be the Head of the Executive Committee herein provided."
 
 ## Section 4
 

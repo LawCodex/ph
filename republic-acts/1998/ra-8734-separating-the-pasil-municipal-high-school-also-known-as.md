@@ -43,7 +43,7 @@ All personnel, assets, liabilities and records of the Pasil Municipal High Schoo
 
 ## Section 5
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Dona Eufronia M. Puzon Memorial National High School Pasil Annex.Ꮮαwρhi৷ Thereafter, such sums as may be necessary for the operation and maintenance of the Pasil National High School shall be included in the annual General Appropriations Act.
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Dona Eufronia M. Puzon Memorial National High School Pasil Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Pasil National High School shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

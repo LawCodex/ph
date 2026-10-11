@@ -28,7 +28,7 @@ In recognition of the eminent and patriotic services rendered to the country by 
 
 ## Section 2
 
-All laws inconsistent with this Act are hereby repealed.(awÞhi(
+All laws inconsistent with this Act are hereby repealed.
 
 ## Section 3
 

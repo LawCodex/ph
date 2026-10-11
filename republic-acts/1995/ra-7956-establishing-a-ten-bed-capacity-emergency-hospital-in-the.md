@@ -36,7 +36,7 @@ The Department of Health, in consultation and coordination with the local govern
 
 ## Section 3
 
-The amount necessary for the establishment of the hospital shall be included in the General Appropriations Act of the year following the enactment of this Act into law; thereafter, funds necessary for its maintenance and operation shall be provided in accordance with the provisions of the Local Government Code or the applicable law at the time.1aшphi1
+The amount necessary for the establishment of the hospital shall be included in the General Appropriations Act of the year following the enactment of this Act into law; thereafter, funds necessary for its maintenance and operation shall be provided in accordance with the provisions of the Local Government Code or the applicable law at the time.
 
 ## Section 4
 

@@ -33,6 +33,6 @@ The name of the Managopaya Primary School in the Municipality of Banate, Provinc
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Lapsed into law on April 9, 1994 without the President's signature, pursuant to Sec. 27 (1), Article VI of the Constitution.

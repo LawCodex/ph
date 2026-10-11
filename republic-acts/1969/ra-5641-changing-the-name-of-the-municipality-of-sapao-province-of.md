@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Municipality of Sapao, Province of Surigao del Norte, is hereby changed to Sta. Monica.1a⍵⍴h!1
+The name of the Municipality of Sapao, Province of Surigao del Norte, is hereby changed to Sta. Monica.
 
 ## Section 2
 

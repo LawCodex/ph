@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Authority is hereby granted the municipality of Catbalogan, Province of Samar, to undertake and carry out at its own expense the reclamation by dredging, filling or other means, of any marshy lands within its territorial jurisdiction and of foreshore lands bordering the said municipality for the purpose of constructing public improvements and providing homesites for its inhabitants.1aшphi1
+Authority is hereby granted the municipality of Catbalogan, Province of Samar, to undertake and carry out at its own expense the reclamation by dredging, filling or other means, of any marshy lands within its territorial jurisdiction and of foreshore lands bordering the said municipality for the purpose of constructing public improvements and providing homesites for its inhabitants.
 
 ## Section 2
 

@@ -34,7 +34,7 @@ In addition to the amount already appropriated for the Nueva Vizcaya National Ag
 
 ## Section 3
 
-The Budget Commissioner shall release all the unprogrammed appropriations for the Nueva Vizcaya, Agricultural College for the fiscal years 1972 and 1973. to accelerate expansion and conversion as provided in Section one hereof.1âшphi1
+The Budget Commissioner shall release all the unprogrammed appropriations for the Nueva Vizcaya, Agricultural College for the fiscal years 1972 and 1973. to accelerate expansion and conversion as provided in Section one hereof.
 
 ## Section 4
 

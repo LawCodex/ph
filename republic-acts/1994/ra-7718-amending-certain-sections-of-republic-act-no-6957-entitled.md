@@ -183,7 +183,7 @@ A new section to be numbered as Section 12 is hereby added to read as follows:
 
 ## Section 15
 
-Sections 11, 12, and 13 of the same Act are hereby renumbered as Sections 13,14, and 15, respectively.1a⍵⍴h!1
+Sections 11, 12, and 13 of the same Act are hereby renumbered as Sections 13,14, and 15, respectively.
 
 ## Section 16
 

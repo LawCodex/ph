@@ -48,7 +48,7 @@ All heads of government agencies and instrumentalities, including LGUs, GOCCs, a
 
 _Economic and Financial Literacy of Students and the Youth._ \- To improve the economic and financial literacy of students and the youth, all public and private elementary and secondary schools under the DepED, the state and private colleges and universities under the CHED, the Technical Education and Skills Development Authority (TESDA), and the NYC, in coordination with the NEDA, are hereby mandated to conduct consciousness-raising and knowledge-expanding activities on economic and financial literacy including the setting up of literature comers, organizing fora, trainings, and conducting basic economic and financial management classes.
 
-The DepED is also encouraged to assess and revise the high school economics curriculum to make it more age-appropriate, and ensure that economic and financial education becomes an integral part of formal learning.1âwphi1
+The DepED is also encouraged to assess and revise the high school economics curriculum to make it more age-appropriate, and ensure that economic and financial education becomes an integral part of formal learning.
 
 ## Section 5
 

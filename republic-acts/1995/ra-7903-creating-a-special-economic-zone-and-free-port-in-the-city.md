@@ -170,7 +170,7 @@ _Capitalization._ \- the Zamboanga City special Economic Zone Authority shall ha
 
 ## Section 13
 
-_Supervision and Coordination of Development Plans._ \- for purposes of policy direction and coordination, the ZAMBOECOZONE Authority shall be under the direct control and supervision of the Office of the President, in the meantime that the agency tasked with the coordination of special economic zones is not yet in place.1aшphi1
+_Supervision and Coordination of Development Plans._ \- for purposes of policy direction and coordination, the ZAMBOECOZONE Authority shall be under the direct control and supervision of the Office of the President, in the meantime that the agency tasked with the coordination of special economic zones is not yet in place.
 
 ## Section 14
 

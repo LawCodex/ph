@@ -29,7 +29,7 @@ There is hereby granted to Standard Plywood Corporation, its successors or assig
 
 ## Section 2
 
-The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point and land-based radio stations, or any of them, on the public domain upon such terms as may be prescribed.1avvphi1
+The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point and land-based radio stations, or any of them, on the public domain upon such terms as may be prescribed.
 
 ## Section 3
 

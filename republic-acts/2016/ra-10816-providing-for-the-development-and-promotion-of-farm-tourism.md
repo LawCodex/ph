@@ -114,7 +114,7 @@ _Investment Promotion, Financing and Incentives._ – The DOT, the DA and the DT
 
 The TIEZA and the Board of Investments, and other investment promotion agencies, shall develop and implement programs that shall establish reasonable and innovative investment incentives to attract more investors and farm tourism practitioners in the farm tourism industry.
 
-Farm tourism operators and practitioners may avail o: incentives under existing laws.1awp++i1
+Farm tourism operators and practitioners may avail o: incentives under existing laws.
 
 ## SECTION 9
 

@@ -40,7 +40,7 @@ the amount necessary for the establishment of the hospital shall be included in 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -33,6 +33,6 @@ Teachers appointed under this, Act must be residents of the municipality where t
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 16, 1962.

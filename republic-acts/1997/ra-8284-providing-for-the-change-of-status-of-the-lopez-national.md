@@ -32,7 +32,7 @@ The Department of Education, Culture and Sports shall cause the change of status
 
 ## Section 2
 
-The subject school shall be known as the Lopez National Comprehensive High School.1aшphi1
+The subject school shall be known as the Lopez National Comprehensive High School.
 
 ## Section 3
 

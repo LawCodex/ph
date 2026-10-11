@@ -51,7 +51,7 @@ _Authority to use savings in appropriations to cover deficits._ -Except as other
 
 ## Section 6
 
-_Quarterly report to Congress on transfers of appropriations and accomplishments of bureaus and offices._ -The Auditor General and the Commissioner of the Budget shall submit separately to the Congress a quarterly report of any transfer of appropriation made to cover a deficit, the report to specify the items and the amounts involved and shall furnish copies to each member of Congress in his office.1avvphi1 The heads of bureaus or offices whose appropriations are based on the Performance Budget shall likewise submit separately to the Congress a quarterly report of their accomplishments.
+_Quarterly report to Congress on transfers of appropriations and accomplishments of bureaus and offices._ -The Auditor General and the Commissioner of the Budget shall submit separately to the Congress a quarterly report of any transfer of appropriation made to cover a deficit, the report to specify the items and the amounts involved and shall furnish copies to each member of Congress in his office. The heads of bureaus or offices whose appropriations are based on the Performance Budget shall likewise submit separately to the Congress a quarterly report of their accomplishments.
 
 ## Section 7
 

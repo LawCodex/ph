@@ -200,7 +200,7 @@ _Passing of Licensure Examination Requirement._ – Except as otherwise specific
 
 ### SECTION 15
 
-_Holding of Examination._ — Examination of candidates applying for registration as metallurgical engineer shall be given at least once a year in such places and dates as the Commission may designate in accordance with the provisions of Republic Act No. 8981.1âwphi1
+_Holding of Examination._ — Examination of candidates applying for registration as metallurgical engineer shall be given at least once a year in such places and dates as the Commission may designate in accordance with the provisions of Republic Act No. 8981.
 
 ### SECTION 16
 

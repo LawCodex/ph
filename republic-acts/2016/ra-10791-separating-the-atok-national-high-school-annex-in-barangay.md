@@ -38,7 +38,7 @@ All personnel, assets, liabilities and records of the Atok National High School 
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Camp 30 National High School, the initial funding of which shall be charged against the current year's appropriation of the Atok National High School — Annex.ℒαwρhi৷ Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Camp 30 National High School, the initial funding of which shall be charged against the current year's appropriation of the Atok National High School — Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

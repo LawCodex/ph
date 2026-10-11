@@ -48,7 +48,7 @@ _Responsibility to the Public._ \- The grantee shall provide adequate public ser
 
 ## Section 5
 
-_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.1avvphi1
+_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
 
 A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
 
@@ -96,7 +96,7 @@ _Reportorial Requirement._ \- The grantee shall submit an annual report to the C
 
 ## Section 14
 
-_Fine._ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine in the amount of five hundred pesos (₱500.00) per working day of noncompliance.1âwphi1 The fine shall be collected separately by the NTC distinct from the penalties it imposes for noncompliance of its own reportorial requirements.
+_Fine._ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine in the amount of five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected separately by the NTC distinct from the penalties it imposes for noncompliance of its own reportorial requirements.
 
 ## Section 15
 

@@ -43,7 +43,7 @@ Municipalities of the fourth, fifth, sixth and seventh classes shall not be cove
 
 ## Section 3
 
-All Acts, executive orders and administrative orders, or parts thereof, which are inconsistent with this Act are hereby repealed.1a⍵⍴h!1
+All Acts, executive orders and administrative orders, or parts thereof, which are inconsistent with this Act are hereby repealed.
 
 ## Section 4
 

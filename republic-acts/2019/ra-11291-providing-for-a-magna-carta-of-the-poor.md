@@ -100,7 +100,7 @@ The Department of Labor and Employment (DOLE) and other implementing agencies co
 
 (1) Maintain a system of free public education in the kindergarten, elementary and high school levels:
 
-(2) Make higher education accessible to all poor individuals and families.1âшphi1 They shall expand the programs of providing free or socialized college education to the poor, including student loans or study-now-pay-later plans, in state/local universities and colleges, which may be made subject to reasonable academic requirements; and
+(2) Make higher education accessible to all poor individuals and families. They shall expand the programs of providing free or socialized college education to the poor, including student loans or study-now-pay-later plans, in state/local universities and colleges, which may be made subject to reasonable academic requirements; and
 
 (3) Ensure access to quality technical-vocational education and training through scholarships, subsidies and financial assistance to ensure access to decent and productive employment, subject to compliance to qualification requirements.
 

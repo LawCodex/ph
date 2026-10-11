@@ -45,6 +45,6 @@ Before the construction of the hospital, the Secretary of Health shall issue a w
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Lapsed into law on August 8, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

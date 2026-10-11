@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Mapandan, Province of Pangasinan, to be known as the Mapandan Municipal hospital.1âшphi1
+There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Mapandan, Province of Pangasinan, to be known as the Mapandan Municipal hospital.
 
 ## Section 2
 

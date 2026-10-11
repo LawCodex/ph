@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Municipality of Pandami in the Province of Sulu is hereby changed to Municipality of Lapak, amending for the purpose Section 1 of Batas Pambansa Blg. 324.ℒαwρhi৷
+The name of the Municipality of Pandami in the Province of Sulu is hereby changed to Municipality of Lapak, amending for the purpose Section 1 of Batas Pambansa Blg. 324.
 
 ## Section 2
 

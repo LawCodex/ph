@@ -32,7 +32,7 @@ The Marsman Barangay High School in the Municipality of Sto. Tomas, Province of 
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Marsman Barangay High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Marsman National High School shall be included in the annual General Appropriations Act.1aшphi1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Marsman Barangay High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Marsman National High School shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

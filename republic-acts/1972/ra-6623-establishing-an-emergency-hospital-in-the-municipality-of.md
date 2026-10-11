@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct Supervision of the Director of Medical Services, a twenty-five-bed emergency hospital in the Municipality of Maripipi, Subprovince of Biliran, Province of Leyte. The site for the said hospital shall be determined by the Municipal Council of Maripipi in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the direct Supervision of the Director of Medical Services, a twenty-five-bed emergency hospital in the Municipality of Maripipi, Subprovince of Biliran, Province of Leyte. The site for the said hospital shall be determined by the Municipal Council of Maripipi in consultation with the Director of Medical Services.
 
 ## Section 2
 

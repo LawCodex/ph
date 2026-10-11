@@ -32,6 +32,6 @@ The effectivity clause provided in Section 29, Book VII, of Executive Order No. 
 
 ## Section 2
 
-This Act shall take effect on November 24, 1988.lawphil.net
+This Act shall take effect on November 24, 1988.
 
 Approved: **November 25, 1988**

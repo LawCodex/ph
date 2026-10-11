@@ -98,7 +98,7 @@ _Warranty in Favor of the National and Local Governments._ \- The grantee shall 
 
 ## Section 15
 
-_Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ \- The grantee shall not sell, lease, transfer, grant the usufruct of nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor shall transfer the controlling interest of the grantee, whether as a whole or in parts, and whether simultaneously or contemporaneously, to any such person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines; _Provided,_ That Congress shall be informed of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of said transaction: _Provided, further,_ That failure to report to Congress such change of ownership shall render the franchise ipso facto revoked; _Provided, finally,_ That any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.1âwphi1
+_Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise._ \- The grantee shall not sell, lease, transfer, grant the usufruct of nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor shall transfer the controlling interest of the grantee, whether as a whole or in parts, and whether simultaneously or contemporaneously, to any such person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines; _Provided,_ That Congress shall be informed of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of said transaction: _Provided, further,_ That failure to report to Congress such change of ownership shall render the franchise ipso facto revoked; _Provided, finally,_ That any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
 
 ## Section 16
 
@@ -118,7 +118,7 @@ _Equality Clause._ \- Any advantage, favor, privilege, exemption, or immunity gr
 
 ## Section 20
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.1âwphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 21
 

@@ -32,7 +32,7 @@ The first paragraph of Section twenty-five of Republic Act Numbered Four thousan
 
 Section ninety-nine of the same Act is amended to read as follows:
 
-"Section 99. _The Bureau of Health Services; City Hospital._ —The Bureau of Health Services shall exercise the same jurisdiction and power in the city as elsewhere in the Philippines.1âшphi1
+"Section 99. _The Bureau of Health Services; City Hospital._ —The Bureau of Health Services shall exercise the same jurisdiction and power in the city as elsewhere in the Philippines.
 
 "The former Olongapo Hospital owned by the erstwhile municipality, presently called Southern Zambales Emergency Hospital under Republic Act Numbered Three thousand five hundred fifty-one shall hereinafter be referred to as Olongapo City General Hospital: _Provided, however,_ That its administration, maintenance and funding shall be borne by the city government: _Provided, further,_ That the national funds accruing to the hospital shall continue to be included in the annual General Appropriations Act, but shall be transferred to and equally distributed for the operation and maintenance of the San Marcelino Emergency Hospital and Candelaria Emergency Hospital: and _Provided, further._ That the incumbent Chief of Hospital shall be the director of the same and he shall not be removed nor suspended except for cause: and _Provided, finally,_ That the staff and personnel of said hospital shall be retained."
 

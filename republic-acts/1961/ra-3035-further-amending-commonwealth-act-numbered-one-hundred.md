@@ -31,7 +31,7 @@ The fifth paragraph of Section one of the Commonwealth Act Numbered One hundred 
 
 ## Section 2
 
-The differential pay created by the salary adjustment herein provided for shall be drawn from the savings of the Court of Industrial Relations during the fiscal year nineteen hundred sixty-one.1âшphi1
+The differential pay created by the salary adjustment herein provided for shall be drawn from the savings of the Court of Industrial Relations during the fiscal year nineteen hundred sixty-one.
 
 ## Section 3
 

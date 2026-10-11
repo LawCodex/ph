@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Barangays of Amduntog, Antipolo, Camandag, Cawayan, Pula, Haliap, Panubtuban, Namal and Nungawa in the Municipality of Kiangan, Province of Ifugao, are hereby separated from said municipality and constituted into a new municipality to be known as the Municipality of Asipulo.1âшphi1
+The Barangays of Amduntog, Antipolo, Camandag, Cawayan, Pula, Haliap, Panubtuban, Namal and Nungawa in the Municipality of Kiangan, Province of Ifugao, are hereby separated from said municipality and constituted into a new municipality to be known as the Municipality of Asipulo.
 
 ## Section 2
 

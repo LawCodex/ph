@@ -28,9 +28,13 @@ AN ACT PROVIDING FOR THE MAGNA CARTA OF WOMEN
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Short Title._** \- This Act shall be known as **"_The Magna Carta of Women_ "**.
+### Section 1
 
-**Section 2._Declaration of Policy._** \- Recognizing that the economic, political, and sociocultural realities affect women's current condition, the State affirms the role of women in nation building and ensures the substantive equality of women and men. It shall promote empowerment of women and pursue equal opportunities for women and men and ensure equal access to resources and to development results and outcome. Further, the State realizes that equality of men and women entails the abolition of the unequal structures and practices that perpetuate discrimination and inequality. To realize this, the State shall endeavor to develop plans, policies, programs, measures, and mechanisms to address discrimination and inequality in the economic, political, social, and cultural life of women and men.
+_Short Title._ \- This Act shall be known as **"_The Magna Carta of Women_ "**.
+
+### Section 2
+
+_Declaration of Policy._ \- Recognizing that the economic, political, and sociocultural realities affect women's current condition, the State affirms the role of women in nation building and ensures the substantive equality of women and men. It shall promote empowerment of women and pursue equal opportunities for women and men and ensure equal access to resources and to development results and outcome. Further, the State realizes that equality of men and women entails the abolition of the unequal structures and practices that perpetuate discrimination and inequality. To realize this, the State shall endeavor to develop plans, policies, programs, measures, and mechanisms to address discrimination and inequality in the economic, political, social, and cultural life of women and men.
 
 The State condemns discrimination against women in all its forms and pursues by all appropriate means and without delay the policy of eliminating discrimination against women in keeping with the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and other international instruments consistent with Philippine law. The State shall accord women the rights, protection, and opportunities available to every member of society.
 
@@ -40,7 +44,9 @@ The State, in ensuring the full integration of women's concerns in the mainstrea
 
 In pursuance of this policy, the State reaffirms the right of women in all sectors to participate in policy formulation. planning, organization, implementation, management, monitoring, and evaluation of all programs, projects, and services. It shall support policies, researches, technology, and training programs and other support services such as financing, production, and marketing to encourage active participation of women in national development.
 
-**Section 3._Principles of Human Rights of Women._** \- Human rights are universal and inalienable. All people in the world are entitled to them. The universality of human rights is encompassed in the words of Article 1 of the Universal Declaration of Human Rights, which states that all human beings are free and equal in dignity and rights.
+### Section 3
+
+_Principles of Human Rights of Women._ \- Human rights are universal and inalienable. All people in the world are entitled to them. The universality of human rights is encompassed in the words of Article 1 of the Universal Declaration of Human Rights, which states that all human beings are free and equal in dignity and rights.
 
 Human rights are indivisible. Human rights are inherent to the dignity of every human being whether they relate to civil, cultural, economic, political, or social issues.
 
@@ -54,7 +60,9 @@ States and other duty-bearers are answerable for the observance of human rights.
 
 ## CHAPTER II — DEFINITION OF TERMS
 
-**Section 4._Definitions._** \- For purposes of this Act, the following terms shall mean:
+### Section 4
+
+_Definitions._ \- For purposes of this Act, the following terms shall mean:
 
 (a) "Women Empowerment" refers to the provision, availability, and accessibility of opportunities, services, and observance of human rights which enable women to actively participate and contribute to the political, economic, social, and cultural development of the nation as well as those which shall provide them equal access to ownership, management, and control of production, and of material and informational resources and benefits in the family, community, and society.
 
@@ -126,7 +134,9 @@ It also includes acts of violence against women as defused in Republic Acts No. 
 
 The State, private sector, society in general, and all individuals shall contribute to the recognition, respect, and promotion of the rights of women defined and guaranteed under this Act.
 
-**Section 5._The State as the Primary Duty-Bearer._** \- The State, as the primary duty-bearer, shall:
+### Section 5
+
+_The State as the Primary Duty-Bearer._ \- The State, as the primary duty-bearer, shall:
 
 (a) Refrain from discriminating against women and violating their rights;
 
@@ -140,15 +150,23 @@ Recognizing the interrelation of the human rights of women, the State shall take
 
 The State shall keep abreast with and be guided by progressive developments in human rights of women under international law and design of policies, laws, and other measures to promote the objectives of this Act.
 
-**Section 6._Duties of the State Agencies and Instrumentalities._** \- These duties of the State shall extend to all state agencies, offices, and instrumentalities at all levels and government-owned and -controlled corporations, subject to the Constitution and pertinent laws, policies, or administrative guidelines that define specific duties of state agencies and entities concerned.
+### Section 6
 
-**Section 7._Suppletory Effect._** \- This chapter shall be deemed integrated into and be suppletory to other provisions of this Act, particularly those that guarantee specific rights to women and define specific roles and require specific conduct of state organs.
+_Duties of the State Agencies and Instrumentalities._ \- These duties of the State shall extend to all state agencies, offices, and instrumentalities at all levels and government-owned and -controlled corporations, subject to the Constitution and pertinent laws, policies, or administrative guidelines that define specific duties of state agencies and entities concerned.
+
+### Section 7
+
+_Suppletory Effect._ \- This chapter shall be deemed integrated into and be suppletory to other provisions of this Act, particularly those that guarantee specific rights to women and define specific roles and require specific conduct of state organs.
 
 ## CHAPTER IV — RIGHTS AND EMPOWERMENT
 
-**Section 8._Human Rights of Women._** \- All rights in the Constitution and those rights recognized under international instruments duly signed and ratified by the Philippines, in consonance with Philippine law, shall be rights of women under this Act to be enjoyed without discrimination.
+### Section 8
 
-**Section 9._Protection from Violence._** \- The State shall ensure that all women shall be protected from all forms of violence as provided for in existing laws. Agencies of government shall give priority to the defense and protection of women against gender-based offenses and help women attain justice and healing.
+_Human Rights of Women._ \- All rights in the Constitution and those rights recognized under international instruments duly signed and ratified by the Philippines, in consonance with Philippine law, shall be rights of women under this Act to be enjoyed without discrimination.
+
+### Section 9
+
+_Protection from Violence._ \- The State shall ensure that all women shall be protected from all forms of violence as provided for in existing laws. Agencies of government shall give priority to the defense and protection of women against gender-based offenses and help women attain justice and healing.
 
 Towards this end, measures to prosecute and reform offenders shall likewise be pursued.
 
@@ -160,9 +178,13 @@ Towards this end, measures to prosecute and reform offenders shall likewise be p
 
 (d) All local government units shall establish a Violence Against Women's Desk in every barangay to ensure that violence against women cases are fully addressed in a gender-responsive manner.
 
-**Section 10._Women Affected by Disasters, Calamities, and Other Crisis Situations._** \- Women have the right to protection and security in times of disasters, calamities, and other crisis situations especially in all phases of relief, recovery, rehabilitation, and construction efforts. The State shall provide for immediate humanitarian assistance, allocation of resources, and early resettlement, if necessary. It shall also address the particular needs of women from a gender perspective to ensure their full protection from sexual exploitation and other sexual and gender- based violence committed against them. Responses to disaster situations shall include the provision of services, such as psychosocial support, livelihood support, education, psychological health, and comprehensive health services, including protection during pregnancy.
+### Section 10
 
-**Section 11._Participation and Representation._** \- The State shall undertake temporary special measures to accelerate the participation and equitable representation of women in all spheres of society particularly in the decision-making and policy-making processes in government and private entities to fully realize their role as agents and beneficiaries of development.
+_Women Affected by Disasters, Calamities, and Other Crisis Situations._ \- Women have the right to protection and security in times of disasters, calamities, and other crisis situations especially in all phases of relief, recovery, rehabilitation, and construction efforts. The State shall provide for immediate humanitarian assistance, allocation of resources, and early resettlement, if necessary. It shall also address the particular needs of women from a gender perspective to ensure their full protection from sexual exploitation and other sexual and gender- based violence committed against them. Responses to disaster situations shall include the provision of services, such as psychosocial support, livelihood support, education, psychological health, and comprehensive health services, including protection during pregnancy.
+
+### Section 11
+
+_Participation and Representation._ \- The State shall undertake temporary special measures to accelerate the participation and equitable representation of women in all spheres of society particularly in the decision-making and policy-making processes in government and private entities to fully realize their role as agents and beneficiaries of development.
 
 The State shall institute the following affirmative action mechanisms so that women can participate meaningfully in the formulation, implementation, and evaluation of policies, plans, and programs for national, regional, and local development:
 
@@ -178,15 +200,21 @@ The State shall institute the following affirmative action mechanisms so that wo
 
 (f) Private Sector. - The State shall take measures to encourage women leadership in the private sector in the form of incentives.
 
-**Section 12._Equal Treatment Before the Law._** \- The State shall take steps to review and, when necessary, amend and/or repeal existing laws that are discriminatory to women within three (3) years from the effectivity of this Act.
+### Section 12
 
-**Section 13._Equal Access and Elimination of Discrimination in Education, Scholarships, and Training._** \- (a) The State shall ensure that gender stereotypes and images in educational materials and curricula are adequately and appropriately revised. Gender-sensitive language shall be used at all times. Capacity-building on gender and development (GAD), peace and human rights, education for teachers, and all those involved in the education sector shall be pursued toward this end. Partnerships between and among players of the education sector, including the private sector, churches, and faith groups shall be encouraged.
+_Equal Treatment Before the Law._ \- The State shall take steps to review and, when necessary, amend and/or repeal existing laws that are discriminatory to women within three (3) years from the effectivity of this Act.
+
+### Section 13
+
+_Equal Access and Elimination of Discrimination in Education, Scholarships, and Training._ \- (a) The State shall ensure that gender stereotypes and images in educational materials and curricula are adequately and appropriately revised. Gender-sensitive language shall be used at all times. Capacity-building on gender and development (GAD), peace and human rights, education for teachers, and all those involved in the education sector shall be pursued toward this end. Partnerships between and among players of the education sector, including the private sector, churches, and faith groups shall be encouraged.
 
 (b) Enrollment of women in nontraditional skills training in vocational and tertiary levels shall be encouraged.
 
 (c) Expulsion and non-readmission of women faculty due to pregnant;- outside of marriage shall be outlawed. No school shall turn out or refuse admission to a female student solely on the account of her having contracted pregnancy outside of marriage during her term in school.
 
-**Section 14._Women in Sports._** \- The State shall develop, establish, and strengthen programs for the participation of women and girl-children in competitive and noncompetitive sports as a means to achieve excellence, promote physical and social well-being, eliminate gender-role stereotyping, and provide equal access to the full benefits of development for all persons regardless of sex, gender identity, and other similar factors.
+### Section 14
+
+_Women in Sports._ \- The State shall develop, establish, and strengthen programs for the participation of women and girl-children in competitive and noncompetitive sports as a means to achieve excellence, promote physical and social well-being, eliminate gender-role stereotyping, and provide equal access to the full benefits of development for all persons regardless of sex, gender identity, and other similar factors.
 
 For this purpose, all sports-related organizations shall create guidelines that will establish and integrate affirmative action as a strategy and gender equality as a framework in planning and implementing their policies, budgets, programs, and activities relating to the participation of women and girls in sports.
 
@@ -198,19 +226,25 @@ The State shall also ensure the safety and well-being of all women and girls par
 
 Schools, colleges, universities, or any other learning institution shall take into account its total women student population in granting athletic scholarship. There shall be a _pro rata_ representation of women in the athletic scholarship program based on the percentage of women in the whole student population.
 
-**Section 15._Women in the Military._** \- The State shall pursue appropriate measures to eliminate discrimination of women in the military, police, and other similar services, including revising or abolishing policies and practices that restrict women from availing of both combat and noncombat training that are open to men, or from taking on functions other than administrative tasks, such as engaging in combat, security-related, or field operations. Women in the military shall be accorded the same promotional privileges and opportunities as men, including pay increases, additional remunerations and benefits, and awards based on their competency and quality of performance. Towards this end, the State shall ensure that the personal dignity of women shall always be respected.
+### Section 15
+
+_Women in the Military._ \- The State shall pursue appropriate measures to eliminate discrimination of women in the military, police, and other similar services, including revising or abolishing policies and practices that restrict women from availing of both combat and noncombat training that are open to men, or from taking on functions other than administrative tasks, such as engaging in combat, security-related, or field operations. Women in the military shall be accorded the same promotional privileges and opportunities as men, including pay increases, additional remunerations and benefits, and awards based on their competency and quality of performance. Towards this end, the State shall ensure that the personal dignity of women shall always be respected.
 
 Women in the military, police, and other similar services shall be provided with the same right to employment as men on equal conditions. Equally, they shall be accorded the same capacity as men to act in and enter into contracts, including marriage.
 
 Further, women in the military, police; and other similar services shall be entitled to leave benefits such as maternity leave, as provided for by existing laws.
 
-**Section 16._Nondiscriminatory and Nonderogatory Portrayal of Women in Media and Film._** \- The State shall formulate policies and programs for the advancement of women in collaboration with government and nongovernment media-related organizations. It shall likewise endeavor to raise the consciousness of the general public in recognizing the dignity of women and the role and contribution of women in the family; community, and the society through the strategic use of mass media.
+### Section 16
+
+_Nondiscriminatory and Nonderogatory Portrayal of Women in Media and Film._ \- The State shall formulate policies and programs for the advancement of women in collaboration with government and nongovernment media-related organizations. It shall likewise endeavor to raise the consciousness of the general public in recognizing the dignity of women and the role and contribution of women in the family; community, and the society through the strategic use of mass media.
 
 For this purpose, the State shall ensure allocation of space; airtime, and resources, strengthen programming, production, and image-making that appropriately present women's needs, issues, and concerns in all forms of media, communication, information dissemination, and advertising.
 
 The State, in cooperation with all schools of journalism, information, and communication, as well as the national media federations and associations, shall require all media organizations and corporations to integrate into their human resource development components regular training on gender equality and gender-based discrimination, create and use gender equality guidelines in all aspects of management, training, production, information, dissemination, communication, and programming; and convene a gender equality committee that will promote gender mainstreaming as a framework and affirmative action as a strategy, and monitor and evaluate the implementation of gender equality guidelines.
 
-**Section 17._Women's Right to Health._** \- (a) Comprehensive Health Services. - The State shall, at all times, provide for a comprehensive, culture-sensitive, and gender-responsive health services and programs covering all stages of a woman's life cycle and which addresses the major causes of women's mortality and morbidity: _Provided_ , That in the provision for comprehensive health services, due respect shall be accorded to women's religious convictions, the rights of the spouses to found a family in accordance with their religious convictions, and the demands of responsible parenthood, and the right of women to protection from hazardous drugs, devices, interventions, and substances.
+### Section 17
+
+_Women's Right to Health._ \- (a) Comprehensive Health Services. - The State shall, at all times, provide for a comprehensive, culture-sensitive, and gender-responsive health services and programs covering all stages of a woman's life cycle and which addresses the major causes of women's mortality and morbidity: _Provided_ , That in the provision for comprehensive health services, due respect shall be accorded to women's religious convictions, the rights of the spouses to found a family in accordance with their religious convictions, and the demands of responsible parenthood, and the right of women to protection from hazardous drugs, devices, interventions, and substances.
 
 Access to the following services shall be ensured:
 
@@ -244,9 +278,13 @@ Access to the following services shall be ensured:
 
 (3) Ethical, legal, safe, and effective family planning methods including fertility awareness.
 
-**Section 18._Special Leave Benefits for Women._** \- A woman employee having rendered continuous aggregate employment service of at least six (6) months for the last twelve (12) months shall be entitled to a special leave benefit of two (2) months with full pay based on her gross monthly compensation following surgery caused by gynecological disorders.
+### Section 18
 
-**Section 19._Equal Rights in All Matters Relating to Marriage and Family Relations._** \- The State shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and shall ensure:
+_Special Leave Benefits for Women._ \- A woman employee having rendered continuous aggregate employment service of at least six (6) months for the last twelve (12) months shall be entitled to a special leave benefit of two (2) months with full pay based on her gross monthly compensation following surgery caused by gynecological disorders.
+
+### Section 19
+
+_Equal Rights in All Matters Relating to Marriage and Family Relations._ \- The State shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and shall ensure:
 
 (a) the same rights to enter into and leave marriages or common law relationships referred to under the Family Code without prejudice to personal or religious beliefs;
 
@@ -268,7 +306,9 @@ Customary laws shall be respected: _Provided_ , _however_ , That they do not dis
 
 Women in marginalized sectors are hereby guaranteed all civil, political, social, and economic rights recognized, promoted, and protected under existing laws including, but not limited to, the Indigenous Peoples Rights Act, the Urban Development and Housing Act, the Comprehensive Agrarian Reform Law, the Fisheries Code, the Labor Code, the Migrant Workers Act, the Solo Parents Welfare Act, and the Social Reform and Poverty Alleviation Act.
 
-**Section 20._Food Security and Productive Resources._** \- The State recognizes the contribution of women to food production and shall ensure its sustainability and sufficiency with the active participation of women. Towards this end, the State shall guarantee, at all times, the availability in the market of safe and health-giving food to satisfy the dietary needs of the population, giving particular attention to the specific needs of poor girl-children and marginalized women, especially pregnant and lactating mothers and their young children. To further address this, the State shall ensure:
+### Section 20
+
+_Food Security and Productive Resources._ \- The State recognizes the contribution of women to food production and shall ensure its sustainability and sufficiency with the active participation of women. Towards this end, the State shall guarantee, at all times, the availability in the market of safe and health-giving food to satisfy the dietary needs of the population, giving particular attention to the specific needs of poor girl-children and marginalized women, especially pregnant and lactating mothers and their young children. To further address this, the State shall ensure:
 
 (a) Right to Food. - The State shall guarantee the availability of food in quantity and quality sufficient to satisfy the dietary needs of individuals, the physical and economic accessibility for everyone to adequate food that is culturally acceptable and free from unsafe substances and culturally accepted, and the accurate and substantial information to the availability of food, including the right to full, accurate, and truthful information about safe and health-giving foods and how to produce and have regular and easy access to them;
 
@@ -304,9 +344,13 @@ Women in marginalized sectors are hereby guaranteed all civil, political, social
 
 In the enforcement of the foregoing, the requirements of law shall be observed at all times.
 
-**Section 21._Right to Housing._** \- The State shall develop housing programs for women that are localized, simple, accessible, with potable water, and electricity, secure, with viable employment opportunities and affordable amortization. In this regard, the State shall consult women and involve them in community planning and development, especially in matters pertaining to land use, zoning, and relocation.
+### Section 21
 
-**Section 22._Right to Decent Work._** \- The State shall progressively realize and ensure decent work standards for women that involve the creation of jobs of acceptable quality in conditions of freedom, equity, security, and human dignity.
+_Right to Housing._ \- The State shall develop housing programs for women that are localized, simple, accessible, with potable water, and electricity, secure, with viable employment opportunities and affordable amortization. In this regard, the State shall consult women and involve them in community planning and development, especially in matters pertaining to land use, zoning, and relocation.
+
+### Section 22
+
+_Right to Decent Work._ \- The State shall progressively realize and ensure decent work standards for women that involve the creation of jobs of acceptable quality in conditions of freedom, equity, security, and human dignity.
 
 (a) Decent work involves opportunities for work that are productive and fairly remunerative as family living wage, security in the workplace, and social protection for families, better prospects for personal development and social integration, freedom for people to express their concerns organize, participate in the decisions that affect their lives, and equality of opportunity and treatment for all women and men.
 
@@ -322,7 +366,9 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (c) In recognition of the temporary nature of overseas work, the State shall exert all efforts to address the causes of out-migration by developing local employment and other economic opportunities for women and by introducing measures to curb violence and forced and involuntary displacement of local women. The State shall ensure the protection and promotion of the rights and welfare of migrant women regardless of their work status, and protect them against discrimination in wages, conditions of work, and employment opportunities in host countries.
 
-**Section 23._Right to Livelihood, Credit, Capital, and Technology._** \- The State shall ensure that women are provided with the following:
+### Section 23
+
+_Right to Livelihood, Credit, Capital, and Technology._ \- The State shall ensure that women are provided with the following:
 
 (a) Equal access to formal sources of credit and capital;
 
@@ -330,7 +376,9 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (c) Employment opportunities for returning women migrant workers taking into account their skills and qualifications. Corollarily, the State shall also promote skills and entrepreneurship development of returning women migrant workers.
 
-**Section 24._Right to Education and Training._** \- The State shall ensure the following:
+### Section 24
+
+_Right to Education and Training._ \- The State shall ensure the following:
 
 (a) Women migrant workers have the opportunity to undergo skills training, if they so desire, before taking on a foreign job, and possible retraining upon return to the country:
 
@@ -338,11 +386,17 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (c) Equal opportunities in scholarships based on merit and fitness, especially to those interested in research and development aimed towards women-friendly farm technology.
 
-**Section 25._Right to Representation and Participation._** \- The State shall ensure women's participation in policy-making or decision-making bodies in the regional, national, and international levels. It shall also ensure the participation of grassroots women leaders in decision and policy-making bodies in their respective sectors including, but not limited to, the Presidential Agrarian Reform Council (PARC) and its local counterparts; community-based resource management bodies or mechanisms on forest management and stewardship; the National Fisheries and Aquatic Resources Management Council (NFARMC) and its local counterparts; the National Commission on Indigenous Peoples; the Presidential Commission for the Urban Poor; the National Anti-Poverty Commission; and, where applicable, the local housing boards.
+### Section 25
 
-**Section 26._Right to Information._** \- Access to information regarding policies on women, including programs, projects, and funding outlays that affect them, shall be ensured.
+_Right to Representation and Participation._ \- The State shall ensure women's participation in policy-making or decision-making bodies in the regional, national, and international levels. It shall also ensure the participation of grassroots women leaders in decision and policy-making bodies in their respective sectors including, but not limited to, the Presidential Agrarian Reform Council (PARC) and its local counterparts; community-based resource management bodies or mechanisms on forest management and stewardship; the National Fisheries and Aquatic Resources Management Council (NFARMC) and its local counterparts; the National Commission on Indigenous Peoples; the Presidential Commission for the Urban Poor; the National Anti-Poverty Commission; and, where applicable, the local housing boards.
 
-**Section 27._Social Protection._** -
+### Section 26
+
+_Right to Information._ \- Access to information regarding policies on women, including programs, projects, and funding outlays that affect them, shall be ensured.
+
+### Section 27
+
+_Social Protection._ -
 
 (a) The Social Security System (SSS) and the Philippine Health Insurance Corporation (PhilHealth) shall support indigenous and community-based social protection schemes.
 
@@ -354,9 +408,13 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (e) The State shall support women with disabilities on a community-based social protection scheme.
 
-**Section 28._Recognition and Preservation of Cultural Identity and Integrity._** \- The State shall recognize and respect the rights of Moro and indigenous women to practice, promote, protect, and preserve their own culture, traditions, and institutions and to consider these rights in the formulation and implementation of national policies and programs. To this end, the State shall adopt measures in consultation with the sectors concerned to protect their rights to their indigenous knowledge systems and practices, traditional livelihood, and other manifestations of their cultures and ways of life: Provided, That these cultural systems and practices are not discriminatory to women.
+### Section 28
 
-**Section 29._Peace and Development._** \- The peace process shall be pursued with the following considerations:
+_Recognition and Preservation of Cultural Identity and Integrity._ \- The State shall recognize and respect the rights of Moro and indigenous women to practice, promote, protect, and preserve their own culture, traditions, and institutions and to consider these rights in the formulation and implementation of national policies and programs. To this end, the State shall adopt measures in consultation with the sectors concerned to protect their rights to their indigenous knowledge systems and practices, traditional livelihood, and other manifestations of their cultures and ways of life: Provided, That these cultural systems and practices are not discriminatory to women.
+
+### Section 29
+
+_Peace and Development._ \- The peace process shall be pursued with the following considerations:
 
 (a) Increase the number of women participating in discussions and decision-making in the peace process, including membership in peace panels recognizing women's role in conflict- prevention and peace-making and in indigenous system of conflict resolution;
 
@@ -368,9 +426,13 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (e) The recognition and support for women's role in conflict-prevention, management, resolution and peacemaking, and in indigenous systems of conflict resolution.
 
-**Section 30._Women in Especially Difficult Circumstances._** \- For purposes of this Act, "Women in Especially Difficult Circumstances" (WEDC) shall refer to victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention, victims and survivors of rape and incest, and such other related circumstances which have incapacitated them functionally. Local government units are therefore mandated to deliver the necessary services and interventions to WEDC under their respective jurisdictions.
+### Section 30
 
-**Section 31._Services and Interventions._** \- WEDC shall be provided with services and interventions as necessary such as, but not limited to, the following:
+_Women in Especially Difficult Circumstances._ \- For purposes of this Act, "Women in Especially Difficult Circumstances" (WEDC) shall refer to victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention, victims and survivors of rape and incest, and such other related circumstances which have incapacitated them functionally. Local government units are therefore mandated to deliver the necessary services and interventions to WEDC under their respective jurisdictions.
+
+### Section 31
+
+_Services and Interventions._ \- WEDC shall be provided with services and interventions as necessary such as, but not limited to, the following:
 
 (a) Temporary and protective custody;
 
@@ -394,7 +456,9 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (k) Transportation assistance.
 
-**Section 32._Protection of Girl-Children._** \- (a) The State shall pursue measures to eliminate all forms of discrimination against girl-children in education, health and nutrition, and skills development.
+### Section 32
+
+_Protection of Girl-Children._ \- (a) The State shall pursue measures to eliminate all forms of discrimination against girl-children in education, health and nutrition, and skills development.
 
 (b) Girl-children shall be protected from all forms of abuse and exploitation.
 
@@ -404,17 +468,23 @@ In the enforcement of the foregoing, the requirements of law shall be observed a
 
 (e) Sensitivity of regular schools to particular Moro and indigenous practices, such as fasting in the month of Ramadan, choice of clothing (including the wearing of _hijab_), and availability of _halal_ food shall be ensured.
 
-**Section 33._Protection of Senior Citizens._** \- The State shall protect women senior citizens from neglect, abandonment, domestic violence, abuse, exploitation, and discrimination. Towards this end, the State shall ensure special protective mechanisms and support services against violence, sexual abuse, exploitation, and discrimination of older women.
+### Section 33
+
+_Protection of Senior Citizens._ \- The State shall protect women senior citizens from neglect, abandonment, domestic violence, abuse, exploitation, and discrimination. Towards this end, the State shall ensure special protective mechanisms and support services against violence, sexual abuse, exploitation, and discrimination of older women.
 
 ### Section 34
 
 Women are entitled to the recognition and protection of their rights defined and guaranteed under this Act including their right to nondiscrimination.
 
-**Section 35._Discrimination Against Women is Prohibited._** \- Public and private entities and individuals found to have committed discrimination against women shall be subject to the sanctions provided in Section 41 hereof. Violations of other rights of women shall be subject to sanctions under pertinent laws and regulations.
+### Section 35
+
+_Discrimination Against Women is Prohibited._ \- Public and private entities and individuals found to have committed discrimination against women shall be subject to the sanctions provided in Section 41 hereof. Violations of other rights of women shall be subject to sanctions under pertinent laws and regulations.
 
 ## CHAPTER VI — INSTITUTIONAL MECHANISMS
 
-**Section 36._Gender Mainstreaming as a Strategy for Implementing the Magna Carta of Women._** \- Within a period prescribed in the implementing rules and regulations, the National Commission on the Role of Filipino Women (NCRFW) shall assess its gender mainstreaming program for consistency with the standards under this Act. It shall modify the program accordingly to ensure that it will be an effective strategy for implementing this Act and attaining its objectives.
+### Section 36
+
+_Gender Mainstreaming as a Strategy for Implementing the Magna Carta of Women._ \- Within a period prescribed in the implementing rules and regulations, the National Commission on the Role of Filipino Women (NCRFW) shall assess its gender mainstreaming program for consistency with the standards under this Act. It shall modify the program accordingly to ensure that it will be an effective strategy for implementing this Act and attaining its objectives.
 
 All departments, including their attached agencies, offices, bureaus, state universities and colleges, government-owned and -controlled corporations, local government units, and other government instrumentalities shall adopt gender mainstreaming as a strategy to promote women's human rights and eliminate gender discrimination in their systems, structures, policies, programs, processes, and procedures which shall include, but not limited to, the following:
 
@@ -446,15 +516,21 @@ The tasks and functions of the members of the GFP shall form part of their regul
 
 (c) Generation and Maintenance of GAD Database. All departments, including their attached agencies, offices, bureaus, state universities and colleges, government-owned and - controlled corporations, local government units, and other government instrumentalities shall develop and maintain a GAD database containing gender statistics and sexdisaggregated data that have been systematically gathered, regularly updated; and subjected to; gender analysis for planning, programming, and policy formulation.
 
-**Section 37._Gender Focal Point Officer in Philippine Embassies and Consulates._** \- An officer duly trained on GAD shall be designated as the gender focal point in the consular section of Philippine embassies or consulates. Said officer shall be primarily responsible in handling gender concerns of women migrant workers. Attached agencies shall cooperate in strengthening the Philippine foreign posts' programs for the delivery of services to women migrant workers.
+### Section 37
 
-**Section 38._National Commission on the Role of Filipino Women (NCRFW)._** \- The National Commission on the Role of Filipino Women (NCRFW) shall be renamed as the Philippine Commission on Women (PCW), the primary policymaking and coordinating body of the women and gender equality concerns under the Office of the President. The PCW shall be the overall monitoring body and oversight to ensure the implementation of this Act. In doing so, the PCW may direct any government agency and instrumentality, as may be necessary, to report on the implementation of this Act and for them to immediately respond to the problems brought to their attention in relation to this Act. The PCW shall also lead in ensuring that government agencies are capacitated on the effective implementation of this Act. The chairperson shall likewise report to the President in Cabinet meetings on the implementation of this Act.
+_Gender Focal Point Officer in Philippine Embassies and Consulates._ \- An officer duly trained on GAD shall be designated as the gender focal point in the consular section of Philippine embassies or consulates. Said officer shall be primarily responsible in handling gender concerns of women migrant workers. Attached agencies shall cooperate in strengthening the Philippine foreign posts' programs for the delivery of services to women migrant workers.
+
+### Section 38
+
+_National Commission on the Role of Filipino Women (NCRFW)._ \- The National Commission on the Role of Filipino Women (NCRFW) shall be renamed as the Philippine Commission on Women (PCW), the primary policymaking and coordinating body of the women and gender equality concerns under the Office of the President. The PCW shall be the overall monitoring body and oversight to ensure the implementation of this Act. In doing so, the PCW may direct any government agency and instrumentality, as may be necessary, to report on the implementation of this Act and for them to immediately respond to the problems brought to their attention in relation to this Act. The PCW shall also lead in ensuring that government agencies are capacitated on the effective implementation of this Act. The chairperson shall likewise report to the President in Cabinet meetings on the implementation of this Act.
 
 To the extent possible, the PCW shall influence the systems, processes, and procedures of the executive, legislative, and judicial branches of government vis-a-vis GAD to ensure the implementation of this Act.
 
 To effectively and efficiently undertake and accomplish its functions, the PCW shall revise its structure and staffing pattern with the assistance of the Department of Budget and Management.
 
-**Section 39._Commission on Human Rights (CHR)._** \- The Commission, acting as the Gender and Development Ombud, consistent with its mandate, shall undertake measures such as the following:
+### Section 39
+
+_Commission on Human Rights (CHR)._ \- The Commission, acting as the Gender and Development Ombud, consistent with its mandate, shall undertake measures such as the following:
 
 (a) Monitor with the PCW and other state agencies, among others, in developing indicators and guidelines to comply with their duties related to the human rights of women, including their right to nondiscrimination guaranteed under this Act;
 
@@ -466,27 +542,43 @@ To effectively and efficiently undertake and accomplish its functions, the PCW s
 
 (e) Recommend to the President of the Philippines or the Civil Service Commission any possible administrative action based on noncompliance or failure to implement the provisions of this Act.
 
-**Section 40._Monitoring Progress and Implementation and Impact of this Act._** \- The PCW, in coordination with other state agencies and the CHR, shall submit to Congress regular reports on the progress of the implementation of this Act highlighting the impact thereof on the status and human rights of women: Provided, That the second report shall include an assessment of the effectiveness of this Act and recommend amendments to improve its provisions: Provided, finally, That these reports shall be submitted to Congress every three (3) years or as determined in the implementing rules and regulations.
+### Section 40
 
-**Section 41._Penalties._** \- Upon finding of the CHR that a department, agency, or instrumentality of government, government-owned and -controlled corporation, or local government unit has violated any provision of this Act and its implementing rules and regulations, the sanctions under administrative law, civil service, or other appropriate laws shall be recommended to the Civil Service Commission and/or the Department of the Interior and Local Government. The person directly responsible for the violation as well as the head of the agency or local chief executive shall be held liable under this Act.
+_Monitoring Progress and Implementation and Impact of this Act._ \- The PCW, in coordination with other state agencies and the CHR, shall submit to Congress regular reports on the progress of the implementation of this Act highlighting the impact thereof on the status and human rights of women: Provided, That the second report shall include an assessment of the effectiveness of this Act and recommend amendments to improve its provisions: Provided, finally, That these reports shall be submitted to Congress every three (3) years or as determined in the implementing rules and regulations.
+
+### Section 41
+
+_Penalties._ \- Upon finding of the CHR that a department, agency, or instrumentality of government, government-owned and -controlled corporation, or local government unit has violated any provision of this Act and its implementing rules and regulations, the sanctions under administrative law, civil service, or other appropriate laws shall be recommended to the Civil Service Commission and/or the Department of the Interior and Local Government. The person directly responsible for the violation as well as the head of the agency or local chief executive shall be held liable under this Act.
 
 If the violation is committed by a private entity or individual, the person directly responsible for the violation shall be liable to pay damages.
 
 Filing a complaint under this Act shall not preclude the offended party from pursuing other remedies available under the law and to invoke any of the provisions of existing laws especially those recently enacted laws protecting women and children, including the Women in Development and Nation Building Act (Republic Act No. 7192), the Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act (Republic Act No. 7610), the Anti-Sexual Harassment Act of 1995 (Republic Act No. 7877), the Anti-Rape Law of 1997 (Republic Act No. 8353), the Rape Victim Assistance and Protection Act of 1998 (Republic Act No. 8505), the Anti-Trafficking in Persons Act of 2003 (Republic Act No. 9208) and the Anti- Violence Against Women and Their Children Act of 2004 (Republic Act No. 9262). If violence has been proven to be perpetrated by agents of the State including, but not limited to, extrajudicial killings, enforced disappearances, torture, and internal displacements, such shall be considered aggravating offenses with corresponding penalties depending on the severity of the offenses.
 
-**Section 42._Incentives and Awards._** \- There shall be established an incentives and awards system which shall be administered by a board under such rules and regulations as may be promulgated by the PCW to deserving entities, government agencies, and local government units for their outstanding performance in upholding the rights of women and effective implementation of gender-responsive programs.
+### Section 42
 
-**Section 43._Funding._** \- The initial funding requirements for the implementation of this Act shall be charged against the current appropriations of the agencies concerned. Thereafter, such sums as may be necessary for the implementation of this Act shall be included in the agencies' yearly budgets under the General Appropriations Act.
+_Incentives and Awards._ \- There shall be established an incentives and awards system which shall be administered by a board under such rules and regulations as may be promulgated by the PCW to deserving entities, government agencies, and local government units for their outstanding performance in upholding the rights of women and effective implementation of gender-responsive programs.
+
+### Section 43
+
+_Funding._ \- The initial funding requirements for the implementation of this Act shall be charged against the current appropriations of the agencies concerned. Thereafter, such sums as may be necessary for the implementation of this Act shall be included in the agencies' yearly budgets under the General Appropriations Act.
 
 The State shall prioritize allocation of all available resources to effectively fulfill its obligations specified under this Act. The State agencies' GAD budgets, which shall be at least five percent (5%) of their total budgetary allocation, shall also be utilized for the programs and activities to implement this Act.
 
-**Section 44._Implementing Rules and Regulations._** \- As the lead agency, the PCW shall, in coordination with the Commission on Human Rights and all concerned government departments and agencies including, as observers, both Houses of Congress through the Committee on Youth, Women and Family Relations (Senate) and the Committee on Women and Gender Equality (House of Representatives) and with the participation of representatives from nongovernment organizations (NGOs) and civil society groups with proven track record of involvement and promotion of the rights and welfare of Filipino women and girls identified by the PCW, formulate the implementing rules and regulations (IRR) of this Act within one hundred eighty (180) days after its effectivity.
+### Section 44
 
-**Section 45._Separability Clause._** \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and subsisting.
+_Implementing Rules and Regulations._ \- As the lead agency, the PCW shall, in coordination with the Commission on Human Rights and all concerned government departments and agencies including, as observers, both Houses of Congress through the Committee on Youth, Women and Family Relations (Senate) and the Committee on Women and Gender Equality (House of Representatives) and with the participation of representatives from nongovernment organizations (NGOs) and civil society groups with proven track record of involvement and promotion of the rights and welfare of Filipino women and girls identified by the PCW, formulate the implementing rules and regulations (IRR) of this Act within one hundred eighty (180) days after its effectivity.
 
-**Section 46._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule, or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified, or amended accordingly.
+### Section 45
 
-**Section 47._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+_Separability Clause._ \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and subsisting.
+
+### Section 46
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule, or regulation contrary to, or inconsistent with, the provisions of this Act is hereby repealed, modified, or amended accordingly.
+
+### Section 47
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

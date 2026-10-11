@@ -90,7 +90,7 @@ _Prohibited Acts._ – The following shall be election offenses punishable under
 
 ## Section 12
 
-_Rules and Regulations._ – The Commission shall, within sixty (60) days after the effectivity of this Act, promulgate the implementing rules and regulations.1âwphi1
+_Rules and Regulations._ – The Commission shall, within sixty (60) days after the effectivity of this Act, promulgate the implementing rules and regulations.
 
 ## Section 13
 

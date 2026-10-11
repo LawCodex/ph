@@ -39,7 +39,7 @@ a. To assist the President on the review and revision of the integrated reorgani
 
 b. To undertake further review, assessment, and improvement of the reorganization proposals in relation to the views and reactions of the various sectors of the community; and
 
-c. To perform such other functions as may be necessary to achieve the purposes of reorganization.1âшphi1
+c. To perform such other functions as may be necessary to achieve the purposes of reorganization.
 
 ## Section 3
 

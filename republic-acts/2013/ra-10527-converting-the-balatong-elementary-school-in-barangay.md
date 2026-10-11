@@ -34,7 +34,7 @@ _Conversion into an Integrated School._ – The Balatong Elementary School in Ba
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Balatong Elementary School are hereby transferred to and absorbed by the Balatong Integrated School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Balatong Elementary School are hereby transferred to and absorbed by the Balatong Integrated School.
 
 ## Section 3
 

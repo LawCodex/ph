@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, is hereby increased from fifty to seventy-five.1âшphi1
+The bed capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, is hereby increased from fifty to seventy-five.
 
 ## Section 2
 

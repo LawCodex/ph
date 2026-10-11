@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The 19.550-kilometer Tarlac City – San Jose via Tibag – Burgos Road in the City of Tarlac and the Municipality of San Jose, Province of Tarlac is hereby converted into a national road under the jurisdiction and supervision of the Department of Public Works and Highways.1âwphi1
+The 19.550-kilometer Tarlac City – San Jose via Tibag – Burgos Road in the City of Tarlac and the Municipality of San Jose, Province of Tarlac is hereby converted into a national road under the jurisdiction and supervision of the Department of Public Works and Highways.
 
 ## Section 2
 

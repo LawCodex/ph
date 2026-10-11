@@ -902,7 +902,7 @@ The technical description of Barangay Vicente Hizon, Sr. is as follows:
 <td>32</td>
 <td>E</td>
 <td>152.760</td>
-</tr><cite>1âwphi1</cite>
+</tr>
 <tr>
 <td>23</td>
 <td>24</td>
@@ -976,7 +976,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Incumbent Barangay Officials._ \- The incumbent barangay officials of barangays Pampanga, Alfonso Angliongto, Sr., and Vicente Hizon, Sr., City of Davao shall continue to hold office until such time that their successors have been duly elected and qualified.1awp++i1
+_Incumbent Barangay Officials._ \- The incumbent barangay officials of barangays Pampanga, Alfonso Angliongto, Sr., and Vicente Hizon, Sr., City of Davao shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

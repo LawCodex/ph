@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-In order to fulfill the agreement between the Philippine Government and various agency of the United Nations, including UNICEF and the World Health Organization, to disperse and decentralize its Welfareville Institutions, and to undertake other steps to upgrade child welfare services, there is hereby created a Trustee Committee the purpose of which is to supervise the sale of the Welfareville properties in the Municipality of Mandaluyong, Province of Rizal, through public bidding.1avvphi1 The Trustee Committee will also draft a schedule to arrange for the procedure of the sale. The Committee shall be composed of the Administrator of the Social Welfare Administration, the Auditor General and the Secretary of the Department of General Services.
+In order to fulfill the agreement between the Philippine Government and various agency of the United Nations, including UNICEF and the World Health Organization, to disperse and decentralize its Welfareville Institutions, and to undertake other steps to upgrade child welfare services, there is hereby created a Trustee Committee the purpose of which is to supervise the sale of the Welfareville properties in the Municipality of Mandaluyong, Province of Rizal, through public bidding. The Trustee Committee will also draft a schedule to arrange for the procedure of the sale. The Committee shall be composed of the Administrator of the Social Welfare Administration, the Auditor General and the Secretary of the Department of General Services.
 
 ## Section 2
 

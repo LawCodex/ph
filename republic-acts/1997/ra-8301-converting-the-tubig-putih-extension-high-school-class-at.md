@@ -32,7 +32,7 @@ The Tubig Putih Extension High School/Class at Capual in the Municipality of Luu
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall implement this Act so as to make the Capual National High School in operation for the first school term after the effectivity of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall implement this Act so as to make the Capual National High School in operation for the first school term after the effectivity of this Act.
 
 ## Section 3
 

@@ -40,7 +40,7 @@ In order not to disrupt the present administrative operation of the San Francisc
 
 ## Section 4
 
-In addition to its present two-year technical education curriculum, the Institute shall offer post-secondary science and technology courses, vocational training courses and such other courses as may be authorized by the TESDA.1aшphi1
+In addition to its present two-year technical education curriculum, the Institute shall offer post-secondary science and technology courses, vocational training courses and such other courses as may be authorized by the TESDA.
 
 ## Section 5
 

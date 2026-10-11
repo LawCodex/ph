@@ -29,7 +29,7 @@ There is hereby established a National Coordinating Center for the Study and Dev
 
 ## Section 2
 
-The Center shall be governed by a Board of Trustees composed of the Secretary of Education, who shall be ex-officio chairman of the Board, or in his absence, the Undersecretary of Education; the Director of the Child Study Center, and five additional members who shall be renowned authorities or professors or heads of departments in reputable universities and colleges in any of the fields of education, medicine, nutrition, sociology, psychology, psychiatry, social work and allied fields.1âшphi1
+The Center shall be governed by a Board of Trustees composed of the Secretary of Education, who shall be ex-officio chairman of the Board, or in his absence, the Undersecretary of Education; the Director of the Child Study Center, and five additional members who shall be renowned authorities or professors or heads of departments in reputable universities and colleges in any of the fields of education, medicine, nutrition, sociology, psychology, psychiatry, social work and allied fields.
 
 ## Section 3
 
@@ -45,7 +45,7 @@ The Board of Trustees may, in its discretion, grant scholarships in research to 
 
 ## Section 6
 
-To carry out the purpose of this Act, the amount of five hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the fiscal year nineteen hundred sixty-two to nineteen hundred sixty-three.1âшphi1 Thereafter, the funds for this purpose shall be included in the annual General Appropriation Acts.
+To carry out the purpose of this Act, the amount of five hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the fiscal year nineteen hundred sixty-two to nineteen hundred sixty-three. Thereafter, the funds for this purpose shall be included in the annual General Appropriation Acts.
 
 ## Section 7
 

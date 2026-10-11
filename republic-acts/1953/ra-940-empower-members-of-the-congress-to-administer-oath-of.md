@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Members of the Congress of the Republic of the Philippines are hereby empowered to administer oath of office to elective public officials.1a⍵⍴h!1
+Members of the Congress of the Republic of the Philippines are hereby empowered to administer oath of office to elective public officials.
 
 ## Section 2
 

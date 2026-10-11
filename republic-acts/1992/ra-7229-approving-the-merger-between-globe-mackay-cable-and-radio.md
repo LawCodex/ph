@@ -42,7 +42,7 @@ The stations or facilities of the grantee shall be constructed and operated in a
 
 ## Section 4
 
-The grantee shall provide reasonable public service time to enable the Government, through the stations of the grantee, to reach the population on important public issues; provide at all times sound and balanced programming; promote public participation such as in community programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation to the detriment of the public interest or to incite, encourage or assist in subversive or treasonable acts.1âшphi1
+The grantee shall provide reasonable public service time to enable the Government, through the stations of the grantee, to reach the population on important public issues; provide at all times sound and balanced programming; promote public participation such as in community programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation to the detriment of the public interest or to incite, encourage or assist in subversive or treasonable acts.
 
 ## Section 5
 

@@ -41,7 +41,7 @@ In consideration of the franchise and rights hereby granted, the grantee shall p
 
 ## Section 5
 
-Upon approval of this Act, the municipal franchise granted to La Castellana Electric Plant through Celia M. Mapa vda. de Feria shall terminate and this franchise shall take its place.1a⍵⍴h!1
+Upon approval of this Act, the municipal franchise granted to La Castellana Electric Plant through Celia M. Mapa vda. de Feria shall terminate and this franchise shall take its place.
 
 ## Section 6
 

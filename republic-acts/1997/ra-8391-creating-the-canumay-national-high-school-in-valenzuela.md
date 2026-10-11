@@ -32,7 +32,7 @@ The Canumay Annex of Valenzuela Municipal High School located in Barangay Canuma
 
 ## Section 2
 
-All properties and assets presently pertaining or belonging to the Valenzuela Municipal High School – Canumay Annex are hereby transferred to the newly created Canumay National High School.1aшphi1
+All properties and assets presently pertaining or belonging to the Valenzuela Municipal High School – Canumay Annex are hereby transferred to the newly created Canumay National High School.
 
 ## Section 3
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Norala District Hospital in the Province of South Cotabato, is hereby increased from twenty-five (25) to fifty (50) beds.1âшphi1
+The bed capacity of the Norala District Hospital in the Province of South Cotabato, is hereby increased from twenty-five (25) to fifty (50) beds.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Balatoc, Guinaang, Pugong, Ableg, Dalupa, Magsilay and Cagaluan in the Municipality of Lubuagan, and Barrio Balinciagao in the Municipality of Balbalan, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Pasil, same province.1avvphi1 The seat of the municipal government shall be decided by the Municipal Council of the Municipality of Pasil upon assumption of office.
+Barrios Balatoc, Guinaang, Pugong, Ableg, Dalupa, Magsilay and Cagaluan in the Municipality of Lubuagan, and Barrio Balinciagao in the Municipality of Balbalan, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Pasil, same province. The seat of the municipal government shall be decided by the Municipal Council of the Municipality of Pasil upon assumption of office.
 
 ## Section 2
 

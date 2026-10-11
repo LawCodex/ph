@@ -28,7 +28,7 @@ Narvacan Provincial High School is hereby converted into a national high school 
 
 ## Section 2
 
-Upon organization of Narvacan National General High School, the assets, liabilities, personnel, equipment and records of Narvacan Provincial High School shall stand transferred to said Narvacan National General High School.1âшphi1
+Upon organization of Narvacan National General High School, the assets, liabilities, personnel, equipment and records of Narvacan Provincial High School shall stand transferred to said Narvacan National General High School.
 
 ## Section 3
 

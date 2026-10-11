@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Dennis Molintas Municipal Hospital in the Municipality of Bokod, Province of Benguet, is hereby changed to Dennis Molintas Memorial Hospital.1a⍵⍴h!1
+The name of the Dennis Molintas Municipal Hospital in the Municipality of Bokod, Province of Benguet, is hereby changed to Dennis Molintas Memorial Hospital.
 
 ## Section 2
 

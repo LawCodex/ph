@@ -28,13 +28,21 @@ AN ACT APPROPRIATING THE SUM OF ELEVEN BILLION THREE HUNDRED ONE MILLION SEVEN H
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Appropriations._** \- The sum of Eleven billion three hundred one million seven hundred ninety thousand pesos (P11,301,790,000.00) is hereby appropriated to fund and support the holding and conduct of an Automated Election System, the procurement of services, supplies and machines on a lease purchase agreement including mandatory biometric registration of voters.
+## Section 1
 
-**Section 2._Use of Funds._** \- The amounts herein appropriated shall be used for the purposes indicated and subject to: (i) the relevant special and general provisions of Republic Act No. 9498, or the FY 2008 General Appropriations Act, as reenacted, and subsequent General Appropriations Acts, and (ii) the applicable provisions of Republic Act No. 8436, entitled: "An Act Authorizing the Commission on Elections to Use an Automated Election System in the May 11, 1998 National or Local Elections and in subsequent National and Local Electoral Exercises, Providing Funds Therefor and for Other Purposes", as amended by Republic Act No. 9369: _Provided_ , _however_ , That disbursement of the amounts herein appropriated or any part thereof shall be authorized only in strict compliance with the Constitution, the provisions of Republic Act No. 9369 and other election laws incorporated in said Act so as to ensure the conduct of a free, orderly, clean, honest and credible election and shall adopt such measures that will guaranty transparency and accuracy in the selection of the relevant technology of the machines to be used on May 10, 2010 automated national and local election.
+_Appropriations._ \- The sum of Eleven billion three hundred one million seven hundred ninety thousand pesos (P11,301,790,000.00) is hereby appropriated to fund and support the holding and conduct of an Automated Election System, the procurement of services, supplies and machines on a lease purchase agreement including mandatory biometric registration of voters.
 
-**Section 3._Release of Funds._** \- The amounts herein appropriated shall be released to the Commission on Elections by the Department of Budget and Management in accordance with budgeting laws, rules and regulations.
+## Section 2
 
-**Section 4._Effectivity._** \- This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.
+_Use of Funds._ \- The amounts herein appropriated shall be used for the purposes indicated and subject to: (i) the relevant special and general provisions of Republic Act No. 9498, or the FY 2008 General Appropriations Act, as reenacted, and subsequent General Appropriations Acts, and (ii) the applicable provisions of Republic Act No. 8436, entitled: "An Act Authorizing the Commission on Elections to Use an Automated Election System in the May 11, 1998 National or Local Elections and in subsequent National and Local Electoral Exercises, Providing Funds Therefor and for Other Purposes", as amended by Republic Act No. 9369: _Provided_ , _however_ , That disbursement of the amounts herein appropriated or any part thereof shall be authorized only in strict compliance with the Constitution, the provisions of Republic Act No. 9369 and other election laws incorporated in said Act so as to ensure the conduct of a free, orderly, clean, honest and credible election and shall adopt such measures that will guaranty transparency and accuracy in the selection of the relevant technology of the machines to be used on May 10, 2010 automated national and local election.
+
+## Section 3
+
+_Release of Funds._ \- The amounts herein appropriated shall be released to the Commission on Elections by the Department of Budget and Management in accordance with budgeting laws, rules and regulations.
+
+## Section 4
+
+_Effectivity._ \- This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

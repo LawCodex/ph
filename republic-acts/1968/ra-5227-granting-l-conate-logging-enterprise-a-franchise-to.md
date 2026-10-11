@@ -61,7 +61,7 @@ This franchise shall be subject to amendment, alteration, or repeal by the Congr
 
 ## Section 10
 
-The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1avvphi1
+The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 11
 

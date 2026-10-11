@@ -37,7 +37,7 @@ Section 11 of Republic Act No. 3019, as amended, otherwise known as the "Anti-Gr
 
 ## Section 2
 
-_Separability Clause._ \- Should any provision of this Act be declared invalid, the remaining provisions shall continue to be valid and subsisting.1âwphi1
+_Separability Clause._ \- Should any provision of this Act be declared invalid, the remaining provisions shall continue to be valid and subsisting.
 
 ## Section 3
 

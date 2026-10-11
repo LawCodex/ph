@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-In recognition of the eminent and patriotic services rendered by the late Gregorio Castillo, the name of the barrio of Libertad, Province of Masbate, is changed to San Gregorio.1âшphi1
+In recognition of the eminent and patriotic services rendered by the late Gregorio Castillo, the name of the barrio of Libertad, Province of Masbate, is changed to San Gregorio.
 
 ## Section 2
 

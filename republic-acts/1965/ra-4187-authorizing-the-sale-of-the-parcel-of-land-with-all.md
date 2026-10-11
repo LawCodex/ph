@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The sale of each of the parcels of land with all improvements thereon located at 354 Juan Luna Street, District of Binondo, Manila, owned by the Government of the Philippines and designated as Lots Nos. 14, 15 and 17, Block 2013, is hereby authorized.
 
-The Secretary of Agriculture and Natural Resources shall cause to be published twice in the Official Gazette and in three newspapers of general circulation in the Philippines a notice of such sale be sealed bids.1âшphi1 The property shall be awarded to the highest bidder: _Provided,_ That if no satisfactory bid is offered, the Secretary of Agriculture and Natural Resources may, after a new notice of such sale, cause another bidding by sealed bids to be held.
+The Secretary of Agriculture and Natural Resources shall cause to be published twice in the Official Gazette and in three newspapers of general circulation in the Philippines a notice of such sale be sealed bids. The property shall be awarded to the highest bidder: _Provided,_ That if no satisfactory bid is offered, the Secretary of Agriculture and Natural Resources may, after a new notice of such sale, cause another bidding by sealed bids to be held.
 
 ## Section 2
 

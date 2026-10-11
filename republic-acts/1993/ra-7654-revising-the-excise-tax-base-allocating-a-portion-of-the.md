@@ -131,7 +131,7 @@ _Separability Clause_. — If any provision of this Act is subsequently declared
 
 ## Section 8
 
-_Repealing Clause_. — All laws, decrees, executive orders, rules and regulations, and other issuances inconsistent with this Act are hereby repealed or modified accordingly.1a⍵⍴h!1
+_Repealing Clause_. — All laws, decrees, executive orders, rules and regulations, and other issuances inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 9
 

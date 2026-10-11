@@ -29,7 +29,7 @@ There shall be established a ten-bed municipal hospital in the Municipality of M
 
 ## Section 2
 
-The Secretary of Health and/or his duly authorized representatives are hereby directed to issue directives for the implementation of this Act.1âшphi1
+The Secretary of Health and/or his duly authorized representatives are hereby directed to issue directives for the implementation of this Act.
 
 ## Section 3
 

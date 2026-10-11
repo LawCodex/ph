@@ -37,7 +37,7 @@ Section 12 of Republic Act Numbered Sixty-seven hundred twenty-seven is hereby a
 
 ## Section 2
 
-All laws, presidential decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1aшphi1
+All laws, presidential decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 3
 

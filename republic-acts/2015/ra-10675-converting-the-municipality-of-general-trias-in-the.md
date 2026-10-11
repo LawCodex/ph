@@ -584,7 +584,7 @@ _The City Assessor. –_(a) The City Assessor must be a citizen of the Philippin
 
 The appointment of a City Assessor shall be mandatory.
 
-(b) The City Assessor shall receive compensation, emoluments and allowances as may be determined by law.1âwphi1
+(b) The City Assessor shall receive compensation, emoluments and allowances as may be determined by law.
 
 (c) The City Assessor shall take charge of the City Assessor’s Department, and shall:
 

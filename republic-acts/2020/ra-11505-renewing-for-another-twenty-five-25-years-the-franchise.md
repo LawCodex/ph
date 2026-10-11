@@ -134,7 +134,7 @@ The reportorial compliance certificate issued by Congress shall be required befo
 
 ## Section 14
 
-_Fine._ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance.ℒαwρhi৷ The fine shall be collected by the PHILRACOM from the delinquent franchise grantee separate from the reportorial penalties imposed by the PHILRACOM, if any, and the same shall be remitted to the Bureau of the Treasury.
+_Fine._ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance. The fine shall be collected by the PHILRACOM from the delinquent franchise grantee separate from the reportorial penalties imposed by the PHILRACOM, if any, and the same shall be remitted to the Bureau of the Treasury.
 
 ## Section 15
 

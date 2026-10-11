@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Tadian National Trade School in the Municipality of Tadian, Mountain Province, is hereby converted into a national school of arts and trades to be known as the Tadian School of Arts and Trades.1avvphi1 The Secretary of Education is hereby empowered to reorganize said school accordingly.
+Tadian National Trade School in the Municipality of Tadian, Mountain Province, is hereby converted into a national school of arts and trades to be known as the Tadian School of Arts and Trades. The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 2
 

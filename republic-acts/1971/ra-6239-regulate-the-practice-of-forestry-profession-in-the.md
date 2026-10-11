@@ -118,7 +118,7 @@ _Exemption from examination._ — Examinations shall not be required of the foll
 
 a. Holders of the degree of Bachelor of Science in Forestry or its equivalent or a higher forestry degree: _Provided,_ That they have at least ten years experience in technical forestry work either in the Government or with a private forestry enterprise, or both or they have passed a civil service examination for foresters.
 
-b. Forestry experts from other countries who are called in by the Philippine Government for consultation on forestry matters: _Provided,_ that they have qualified in their respective countries in appropriate forestry examinations, or if no forestry examinations are given therein, that their expertise be certified by the proper Philippine diplomatic or consular representative therein.1âшphi1
+b. Forestry experts from other countries who are called in by the Philippine Government for consultation on forestry matters: _Provided,_ that they have qualified in their respective countries in appropriate forestry examinations, or if no forestry examinations are given therein, that their expertise be certified by the proper Philippine diplomatic or consular representative therein.
 
 c. Forestry experts from other countries under contract with and working for local private forestry enterprises: _Provided,_ That they have qualified in their respective countries in appropriate forestry examinations or if no forestry examinations are given therein, that their expertise be certified by the proper Philippines diplomatic or consular representative therein.
 

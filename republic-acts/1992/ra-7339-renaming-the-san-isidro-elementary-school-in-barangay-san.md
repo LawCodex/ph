@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The San Isidro Elementary School in Barangay San Isidro, Sorsogon, is hereby renamed and called as the Pio Jebulan Elementary School.1âшphi1
+The San Isidro Elementary School in Barangay San Isidro, Sorsogon, is hereby renamed and called as the Pio Jebulan Elementary School.
 
 ## Section 2
 

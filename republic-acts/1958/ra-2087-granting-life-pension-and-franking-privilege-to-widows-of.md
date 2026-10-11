@@ -32,7 +32,7 @@ All mail matters of such widow, addressed for delivery within the Philippines, s
 
 ## Section 3
 
-Republic Act Numbered Two hundred eight is repealed.1âшphi1
+Republic Act Numbered Two hundred eight is repealed.
 
 ## Section 4
 

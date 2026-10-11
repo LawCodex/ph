@@ -47,7 +47,7 @@ The PUP-Sablayan Campus shall be headed by Campus Administrator who shall render
 
 ## Section 5
 
-The amount necessary to carry out the provisions of the Act be included in the annual General Appropriations Act.1âwphi1
+The amount necessary to carry out the provisions of the Act be included in the annual General Appropriations Act.
 
 ## Section 6
 

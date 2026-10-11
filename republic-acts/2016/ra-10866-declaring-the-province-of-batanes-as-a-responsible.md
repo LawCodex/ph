@@ -104,7 +104,7 @@ The process of developing the Tourism Master Plan shall be participatory, from t
 
 ## Section 7
 
-_Formulation of Guidelines and Standards._ – The concerned Protected Area Management Board of the DENR, the NCIP, and the local tourism council, in coordination with the LGUs, shall assist in the formulation of local tourism standards in the context of environmental stability, as well as recommend guidelines to ensure that biodiversity conservation and environmental protection are integrated in the development of heritage and ecotourism plans.ᇈWᑭHIL The guidelines and standards shall:
+_Formulation of Guidelines and Standards._ – The concerned Protected Area Management Board of the DENR, the NCIP, and the local tourism council, in coordination with the LGUs, shall assist in the formulation of local tourism standards in the context of environmental stability, as well as recommend guidelines to ensure that biodiversity conservation and environmental protection are integrated in the development of heritage and ecotourism plans. The guidelines and standards shall:
 
 (a) Raise the capacity of all stakeholders and ensure that best practices are followed;
 

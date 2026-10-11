@@ -94,7 +94,7 @@ _Dispersal of Ownership._ – In accordance with constitutional provisions to en
 
 ## Section 15
 
-_General Cable Television Policy Law._ – The grantee shall comply with and be subject to the provisions of a general cable television policy law which Congress may hereafter enact.1aшphi1
+_General Cable Television Policy Law._ – The grantee shall comply with and be subject to the provisions of a general cable television policy law which Congress may hereafter enact.
 
 ## Section 16
 

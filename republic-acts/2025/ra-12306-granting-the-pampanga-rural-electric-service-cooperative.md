@@ -73,7 +73,7 @@ _Right of Eminent Domain._ \- Subject to the limitations and procedures prescrib
 
 ## Section 11
 
-_Term of the Franchise._ \- This franchise shall be for a term of twenty-five (25) years that shall commence from the date of expiration of PRESCO's existing franchise, unless sooner cancelled.ℒαwρhi৷ This franchise shall be deemed ipso facto revoked in the event that the Grantee fails to operate continuously for two (2) years.
+_Term of the Franchise._ \- This franchise shall be for a term of twenty-five (25) years that shall commence from the date of expiration of PRESCO's existing franchise, unless sooner cancelled. This franchise shall be deemed ipso facto revoked in the event that the Grantee fails to operate continuously for two (2) years.
 
 ## Section 12
 

@@ -30,7 +30,7 @@ Section one of Republic Act Numbered Thirty-six, entitled "Census Act of ninetee
 
 ## Section 2
 
-Sections two to thirty-eight of Republic Act Numbered Thirty-six are hereby continued in full force and operation.1aшphi1
+Sections two to thirty-eight of Republic Act Numbered Thirty-six are hereby continued in full force and operation.
 
 ## Section 3
 

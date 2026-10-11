@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT CHANGING THE NAME OF THE DAGOHOY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF INABANGA, PROVINCE OF BOHOL, TO FRANCISCO DAGOHOY MUNICIPAL HOSPITAL
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

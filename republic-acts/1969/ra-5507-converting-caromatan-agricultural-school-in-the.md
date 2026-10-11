@@ -42,7 +42,7 @@ Lanao del Norte Agricultural College shall be led by a Superintendent of Agricul
 
 ## Section 4
 
-The Secretary of Education is hereby empowered to reorganize said school accordingly.1a⍵⍴h!1
+The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 5
 

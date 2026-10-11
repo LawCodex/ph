@@ -35,6 +35,6 @@ The city fiscal and the assistant city fiscals shall be appointed by the Preside
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

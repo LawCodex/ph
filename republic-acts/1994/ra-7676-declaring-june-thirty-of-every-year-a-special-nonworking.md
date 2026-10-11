@@ -33,7 +33,7 @@ The thirtieth day of June of every year, being the feast day of Se-or Santo Ni-o
 
 ## Section 2
 
-On June Thirty of every year, the officials of Tacloban City shall lead appropriate and meaningful celebrations, activities, and programs participated in by regional heads of departments and other government offices and their employees, civic, sports, religious and nongovernmental organizations, and private companies doing business in Tacloban City.1a⍵⍴h!1
+On June Thirty of every year, the officials of Tacloban City shall lead appropriate and meaningful celebrations, activities, and programs participated in by regional heads of departments and other government offices and their employees, civic, sports, religious and nongovernmental organizations, and private companies doing business in Tacloban City.
 
 ## Section 3
 

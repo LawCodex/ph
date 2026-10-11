@@ -32,7 +32,7 @@ The name of New Partido High School in Barangay Catagbacan, Municipality of Goa,
 
 ## Section 2
 
-This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
 
 Approved,
 

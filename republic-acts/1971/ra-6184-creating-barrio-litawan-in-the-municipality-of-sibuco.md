@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Litawan, Besong, Supit, Palatanan, Cumaron, Lindang, Durian, Sulitan and Timulan in Barrio Panganuran, Municipality of Sibuco, Province of Zamboanga del Norte, are separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Litawan.1âшphi1
+The sitios of Litawan, Besong, Supit, Palatanan, Cumaron, Lindang, Durian, Sulitan and Timulan in Barrio Panganuran, Municipality of Sibuco, Province of Zamboanga del Norte, are separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Litawan.
 
 ## Section 2
 

@@ -81,7 +81,7 @@ The grantee, its successors or assigns, shall hold the national, provincial, cit
 
 The rates for the telephone service, flat rates as well as the measured rates, shall be subject to the approval of the Public Service Commission.
 
-The monthly rates for telephone having a metallic circuit within the limits of the poblacion of the city shall also be approved by the Public Service Commission.1âшphi1
+The monthly rates for telephone having a metallic circuit within the limits of the poblacion of the city shall also be approved by the Public Service Commission.
 
 ## Section 15
 

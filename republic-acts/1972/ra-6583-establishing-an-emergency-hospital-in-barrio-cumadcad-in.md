@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established an emergency hospital in the barrio of Cumadcad in the Municipality of Castilla, Province of Sorsogon, to be known as the Cumadcad Emergency Hospital.1âшphi1
+There shall be established an emergency hospital in the barrio of Cumadcad in the Municipality of Castilla, Province of Sorsogon, to be known as the Cumadcad Emergency Hospital.
 
 ## Section 2
 

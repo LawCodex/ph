@@ -88,7 +88,7 @@ Section seventy-two of the same Act is hereby amended to read as follows:
 
 "Section 72. _Execution of authorized public works and improvements_.—All repair or construction of any work or public improvements, except parks, boulevards, streets, or alleys, involving an estimated cost of twenty thousand pesos or more shall be awarded by the City Mayor upon the recommendation of the city engineer to the lowest responsible bidder after public advertisement by posting notices of the call for bids in conspicuous places in the City Hall and other public places, which shall not be less than ten days duration: _Provided,_ however, That the city engineer may with the approval of the Secretary of Public Works and Communications upon recommendation of the City Mayor, execute by administration any such public works costing twenty thousand pesos or more.
 
-"In case of public works involving an expenditure of less than twenty thousand pesos, it shall be discretionary with the city engineer upon approval of the City Mayor whether to proceed with the work himself or to let the contract to the lowest bidder after such publications and notice as shall be deemed appropriate or as may be, by regulations prescribed."1âшphi1
+"In case of public works involving an expenditure of less than twenty thousand pesos, it shall be discretionary with the city engineer upon approval of the City Mayor whether to proceed with the work himself or to let the contract to the lowest bidder after such publications and notice as shall be deemed appropriate or as may be, by regulations prescribed."
 
 ## Section 10
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-March 1 of every year is hereby declared a special working holiday in the City of Davao, Province of Davao del Sur, to be known as "Araw ng Dabaw", in commemoration of its founding anniversary. Upon proclamation of the President, March 1 of every year shall be a special nonworking holiday in the City of Davao, Province of Davao del Sur.1âшphi1
+March 1 of every year is hereby declared a special working holiday in the City of Davao, Province of Davao del Sur, to be known as "Araw ng Dabaw", in commemoration of its founding anniversary. Upon proclamation of the President, March 1 of every year shall be a special nonworking holiday in the City of Davao, Province of Davao del Sur.
 
 ## Section 2
 

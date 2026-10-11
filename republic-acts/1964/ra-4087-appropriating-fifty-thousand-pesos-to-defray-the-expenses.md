@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of fifty thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to defray the expenses of a state funeral for Emilio Aguinaldo, President of the first Philippine Republic, and for the erection of a mausoleum to contain the remains of the great leader.1âшphi1
+The sum of fifty thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to defray the expenses of a state funeral for Emilio Aguinaldo, President of the first Philippine Republic, and for the erection of a mausoleum to contain the remains of the great leader.
 
 ## Section 2
 

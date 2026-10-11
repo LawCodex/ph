@@ -32,7 +32,7 @@ The existing Luzviminda Barangay High School in the City of Puerto Princesa, Pro
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
 
 ## Section 3
 

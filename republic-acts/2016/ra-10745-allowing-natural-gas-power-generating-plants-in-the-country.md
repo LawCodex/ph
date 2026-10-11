@@ -54,7 +54,7 @@ _Implementing Rules and Regulations._ – The DOE shall, within thirty (30) days
 
 ## Section 3
 
-_Separability Clause._ – Should any provision of this Act be declared invalid, the remaining provisions shall continue to be valid and subsisting.ℒαwρhi৷
+_Separability Clause._ – Should any provision of this Act be declared invalid, the remaining provisions shall continue to be valid and subsisting.
 
 ## Section 4
 

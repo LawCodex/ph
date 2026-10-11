@@ -32,7 +32,7 @@ The Subprovince of Aurora shall constitute a separate, independent and regular e
 
 ## Section 2
 
-Such sum as may be necessary to carry out the purpose of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.1âшphi1
+Such sum as may be necessary to carry out the purpose of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 3
 

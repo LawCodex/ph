@@ -41,7 +41,7 @@ _Date of Election._ \- Unless otherwise provided by law, the elections for the c
 
 ## Section 3
 
-_Transitory Provision._ \- Pending election of the officials of the city government during the regular local elections, the mayor, vice-mayor, and the members of the sangguniang panlungsod shall be appointed by the provincial governor of the Province of Cavite.1âшphi1
+_Transitory Provision._ \- Pending election of the officials of the city government during the regular local elections, the mayor, vice-mayor, and the members of the sangguniang panlungsod shall be appointed by the provincial governor of the Province of Cavite.
 
 ## Section 4
 

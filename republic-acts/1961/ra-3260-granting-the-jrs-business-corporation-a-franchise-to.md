@@ -36,11 +36,11 @@ The grantee, in addition to the taxes fixed and imposed by the Internal Revenue 
 
 ## Section 4
 
-This franchise is granted subject to the condition that is shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be exclusive in character.1âшphi1
+This franchise is granted subject to the condition that is shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires and shall not be exclusive in character.
 
 ## Section 5
 
-The grantee shall file a bond in the sum of twenty-five thousand pesos to answer for any loss or damage that any customer or customers may suffer.1avvphi1
+The grantee shall file a bond in the sum of twenty-five thousand pesos to answer for any loss or damage that any customer or customers may suffer.
 
 ## Section 6
 

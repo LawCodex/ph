@@ -40,7 +40,7 @@ _Objectives._ -The program contemplated in this Act shall accomplish the followi
 
 ## Section 4
 
-_Implementing Agencies._ -The program shall be planned and executed by the Bureau of Soils.1awp++i1 The Secretary of Agriculture and Natural Resources shall, if necessary, require the assistance of any agency under him to help in implementing are provisions of this Act.
+_Implementing Agencies._ -The program shall be planned and executed by the Bureau of Soils. The Secretary of Agriculture and Natural Resources shall, if necessary, require the assistance of any agency under him to help in implementing are provisions of this Act.
 
 ## Section 5
 
@@ -74,7 +74,7 @@ _Fund._ -Out any funds in the National Treasury not otherwise appropriated, the 
 
 ## Section 9
 
-_Budget._ -The Director of Soils shall submit a budget each year for the five-year program, which shall be subject to the approval of the Secretary of Agriculture and Natural Resources, for the financing of the five-year program and shall make adjustments on the budget for each year following the first year of its implementation on the basis of problems encountered in its operations subject to the approval of the said Secretary.1avvphi1
+_Budget._ -The Director of Soils shall submit a budget each year for the five-year program, which shall be subject to the approval of the Secretary of Agriculture and Natural Resources, for the financing of the five-year program and shall make adjustments on the budget for each year following the first year of its implementation on the basis of problems encountered in its operations subject to the approval of the said Secretary.
 
 ## Section 10
 

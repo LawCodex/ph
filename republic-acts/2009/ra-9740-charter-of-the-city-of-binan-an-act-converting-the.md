@@ -456,13 +456,13 @@ _Disqualification of Elective Public City Officials._ \- The following persons a
 
 ### Section 23
 
-_Permanent Vacancy in the Offices of the City Mayor and the City Vice Mayor._ \- (a) If a permanent vacancy occurs in the office of the city mayor, the city vice mayor concerned shall become the city mayor.1avvphi1 If a permanent vacancy occurs in the office of the city vice mayor, the highest ranking sangguniang panlungsod member or, in case of his permanent incapacity. the second highest ranking sangguniang panlungsod member becomes the city mayor or the city vice mayor, as the case maybe. Subsequent" vacancies in the said offices shall be filled automatically by the other sanggunian members according to their ranking as defined herein.
+_Permanent Vacancy in the Offices of the City Mayor and the City Vice Mayor._ \- (a) If a permanent vacancy occurs in the office of the city mayor, the city vice mayor concerned shall become the city mayor. If a permanent vacancy occurs in the office of the city vice mayor, the highest ranking sangguniang panlungsod member or, in case of his permanent incapacity. the second highest ranking sangguniang panlungsod member becomes the city mayor or the city vice mayor, as the case maybe. Subsequent" vacancies in the said offices shall be filled automatically by the other sanggunian members according to their ranking as defined herein.
 
 (b) A tie between or among the highest ranking sangguniang panlungsod members shall be resolved by drawing of lots.
 
 (c) The successors as defined herein shall serve only the unexpired terms of their predecessors.
 
-(d) For purposes of this Act, a permanent vacancy arises when an elective local official fills in a higher vacant office, refuses to assume office, fails to qualify, dies, is removed from office, voluntarily resigns or is otherwise permanently incapacitated to discharge the functions of his office.ten.lihpwal
+(d) For purposes of this Act, a permanent vacancy arises when an elective local official fills in a higher vacant office, refuses to assume office, fails to qualify, dies, is removed from office, voluntarily resigns or is otherwise permanently incapacitated to discharge the functions of his office.
 
 (e) For purposes of succession as provided for in this Act, ranking in the sanggunian shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in the City in the immediately preceding local election.
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of Dona Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, is hereby changed to Pototan National Hospital.1âшphi1
+The name of Dona Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, is hereby changed to Pototan National Hospital.
 
 ## Section 2
 

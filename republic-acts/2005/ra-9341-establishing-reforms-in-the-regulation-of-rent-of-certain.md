@@ -28,15 +28,23 @@ AN ACT ESTABLISHING REFORMS IN THE REGULATION OF RENT OF CERTAIN RESIDENTIAL UNI
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Short Title._** \- This Act shall be known and cited as the "**Rent Control Act of 2005**."
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- The State shall, for the common good, undertake a continuing program of encouraging the development of affordable housing for the lower income brackets.
+_Short Title._ \- This Act shall be known and cited as the "**Rent Control Act of 2005**."
+
+## SEC. 2
+
+_Declaration of Policy._ \- The State shall, for the common good, undertake a continuing program of encouraging the development of affordable housing for the lower income brackets.
 
 Toward this end, the State shall continue to protect housing tenants in the lower income brackets from unreasonable rent increases.
 
-**SEC. 3._Limit on Increases in Rent._** \- The rent of any residential unit covered by this Act shall not be increased by more than ten percent (10%) annually as long as the unit is occupied by the same lessee. When the residential unit becomes vacant, the lessor may set the initial rent for the next lessee.
+## SEC. 3
 
-**SEC. 4._Definition of Terms._** \- The following terms as used in this Act shall be understood as:
+_Limit on Increases in Rent._ \- The rent of any residential unit covered by this Act shall not be increased by more than ten percent (10%) annually as long as the unit is occupied by the same lessee. When the residential unit becomes vacant, the lessor may set the initial rent for the next lessee.
+
+## SEC. 4
+
+_Definition of Terms._ \- The following terms as used in this Act shall be understood as:
 
 (a) "Rent" shall mean the amount paid for the use or occupancy of a residential unit whether payment is made on a monthly or other basis.
 
@@ -52,13 +60,19 @@ Toward this end, the State shall continue to protect housing tenants in the lowe
 
 (g) "Sublessee" shall mean the person who leases or rents out a residential unit from a sublessor.
 
-**SEC. 5._Rent and Requirement of Bank Deposit._** \- Rent shall be paid in advance within the first five (5) days of every current month or the beginning of the lease agreement unless the contract of lease provides for a later date of payment. The lessor cannot demand more than one (1) month advance rent. Neither can he demand more than two (2) months deposit which shall be kept in a bank under the lessor's account name during the entire duration of the lease agreement. Any and all interest that shall accrue therein shall be returned to the lessee at the expiration of the lease contract.
+## SEC. 5
+
+_Rent and Requirement of Bank Deposit._ \- Rent shall be paid in advance within the first five (5) days of every current month or the beginning of the lease agreement unless the contract of lease provides for a later date of payment. The lessor cannot demand more than one (1) month advance rent. Neither can he demand more than two (2) months deposit which shall be kept in a bank under the lessor's account name during the entire duration of the lease agreement. Any and all interest that shall accrue therein shall be returned to the lessee at the expiration of the lease contract.
 
 In the event however, that the lessee fails to settle rent, electric, telephone, water or such other utility bills or destroys any house components and accessories, the deposits and interests therein shall be forfeited in favor of the latter in the amount commensurate to the pecuniary damage done by the former.
 
-**SEC. 6._Assignment of Lease or Subleasing._** \- Assignment of lease or subleasing of the whole or any portion of the residential unit, including the acceptance of boarders or bedspacers, without the written consent of the owner/lessor is prohibited.
+## SEC. 6
 
-**SEC. 7._Grounds for Judicial Ejectment._** \- Ejectment shall be allowed on the following grounds:
+_Assignment of Lease or Subleasing._ \- Assignment of lease or subleasing of the whole or any portion of the residential unit, including the acceptance of boarders or bedspacers, without the written consent of the owner/lessor is prohibited.
+
+## SEC. 7
+
+_Grounds for Judicial Ejectment._ \- Ejectment shall be allowed on the following grounds:
 
 (a) Assignment of lease or subleasing of residential units in whole or in part, including the acceptance of boarders or bedspacers, without the written consent of the owner/lessor;
 
@@ -74,25 +88,45 @@ The lessor, upon authority of the court in case of consignation or upon joint af
 
 (e) Expiration of the period of the lease contract.
 
-**SEC. 8._Prohibition Against Ejectment by Reason of Sale or Mortgage._** \- No lessor or his successor-in-interest shall be entitled to eject the lessee upon the ground that the leased premises have been sold or mortgaged to a third person regardless of whether the lease or mortgage is registered or not.
+## SEC. 8
 
-**SEC. 9._Rent-to-Own Scheme._** \- At the option of the lessor, he or she may engage the lessee in a written rent-to-own agreement that will result in the transfer of ownership of the particular dwelling in favor of the latter. Such an agreement shall be exempt from the coverage of Section 3 of this Act.
+_Prohibition Against Ejectment by Reason of Sale or Mortgage._ \- No lessor or his successor-in-interest shall be entitled to eject the lessee upon the ground that the leased premises have been sold or mortgaged to a third person regardless of whether the lease or mortgage is registered or not.
 
-**SEC. 10._Application of the Civil Code and Rules of Court of the Philippines._** \- Except when the lease is for a definite period, the provision of paragraph (1) of Article 1673 of the Civil Code of the Philippines, insofar as they refer to residential units covered by this Act, shall be suspended during the effectivity of this Act, but other provisions of the Civil Code and the Rules of Court on lease contracts, insofar as they are not in conflict with the provisions of this Act shall apply.
+## SEC. 9
 
-**SEC. 11._Coverage of this Act._** \- All residential units in the National Capital Region and other highly urbanized cities the total monthly rent for each of which does not exceed Ten thousand pesos (P10,000.00) and all residential units in all other areas the total monthly rent for each of which does not exceed Five thousand pesos (P5,000.00) as of the effectivity date of this Act shall be covered, without prejudice to existing contracts.
+_Rent-to-Own Scheme._ \- At the option of the lessor, he or she may engage the lessee in a written rent-to-own agreement that will result in the transfer of ownership of the particular dwelling in favor of the latter. Such an agreement shall be exempt from the coverage of Section 3 of this Act.
 
-**SEC. 12._Penalties._** \- A fine of not less than Five thousand pesos (P5,000.00) nor more than Fifteen thousand pesos (P15,000.00) or imprisonment of not less than one (1) month and one (1) day to not more than six (6) months or both shall be imposed on any person, natural or juridical, found guilty of violating any provision of this Act.
+## SEC. 10
 
-**SEC. 13._Information Drive._** \- The Department of the Interior and Local Government and the Housing and Urban Development Coordinating Council, in coordination with other concerned agencies, are hereby mandated to conduct a continuing information drive about the provisions of this Act.
+_Application of the Civil Code and Rules of Court of the Philippines._ \- Except when the lease is for a definite period, the provision of paragraph (1) of Article 1673 of the Civil Code of the Philippines, insofar as they refer to residential units covered by this Act, shall be suspended during the effectivity of this Act, but other provisions of the Civil Code and the Rules of Court on lease contracts, insofar as they are not in conflict with the provisions of this Act shall apply.
 
-**SEC. 14._Transitory Provision._** \- The Housing and Urban Development Coordinating Council and its attached housing agencies are hereby mandated to formulate within six (6) months from effectivity hereof, a transition program which will provide for safety measures to cushion the impact of a free rent market.
+## SEC. 11
 
-**SEC. 15._Separability Clause._** \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+_Coverage of this Act._ \- All residential units in the National Capital Region and other highly urbanized cities the total monthly rent for each of which does not exceed Ten thousand pesos (P10,000.00) and all residential units in all other areas the total monthly rent for each of which does not exceed Five thousand pesos (P5,000.00) as of the effectivity date of this Act shall be covered, without prejudice to existing contracts.
 
-**SEC. 16._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+## SEC. 12
 
-**SEC. 17._Effectivity Clause._** \- This Act shall take effect beginning fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation until 31 December 2008.
+_Penalties._ \- A fine of not less than Five thousand pesos (P5,000.00) nor more than Fifteen thousand pesos (P15,000.00) or imprisonment of not less than one (1) month and one (1) day to not more than six (6) months or both shall be imposed on any person, natural or juridical, found guilty of violating any provision of this Act.
+
+## SEC. 13
+
+_Information Drive._ \- The Department of the Interior and Local Government and the Housing and Urban Development Coordinating Council, in coordination with other concerned agencies, are hereby mandated to conduct a continuing information drive about the provisions of this Act.
+
+## SEC. 14
+
+_Transitory Provision._ \- The Housing and Urban Development Coordinating Council and its attached housing agencies are hereby mandated to formulate within six (6) months from effectivity hereof, a transition program which will provide for safety measures to cushion the impact of a free rent market.
+
+## SEC. 15
+
+_Separability Clause._ \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+## SEC. 16
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+## SEC. 17
+
+_Effectivity Clause._ \- This Act shall take effect beginning fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation until 31 December 2008.
 
 Approved,
 

@@ -62,7 +62,7 @@ In the event the Government should desire to maintain and operate for itself any
 
 ## Section 10
 
-A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations or to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of said station during the continuance of the national emergency.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations or to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of said station during the continuance of the national emergency.
 
 ## Section 11
 

@@ -44,6 +44,6 @@ This franchise is granted subject to the provisions of Commonwealth Act Numbered
 
 ## Section 6
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

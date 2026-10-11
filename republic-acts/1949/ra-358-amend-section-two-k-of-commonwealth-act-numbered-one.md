@@ -31,7 +31,7 @@ Section two (k) of Commonwealth Act Numbered One hundred twenty is amended to re
 
 ## Section 2
 
-To facilitate payment of its indebtedness, the National Power Corporation shall be exempt from all taxes, duties, fees, imposts, charges, and restrictions of the B public of the Philippines, its provinces, cities and municipalities.+3u.7!ydmb7
+To facilitate payment of its indebtedness, the National Power Corporation shall be exempt from all taxes, duties, fees, imposts, charges, and restrictions of the B public of the Philippines, its provinces, cities and municipalities.
 
 ## Section 3
 

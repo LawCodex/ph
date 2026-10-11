@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 2
 
-It shall be unlawful for any person to compel, induce, or allow anyone to go to South Vietnam under this Act without the sworn statement provided for in Section one hereof. Any violation of this section shall be punishable by imprisonment of not less than one year nor more than five years.1avvphi1
+It shall be unlawful for any person to compel, induce, or allow anyone to go to South Vietnam under this Act without the sworn statement provided for in Section one hereof. Any violation of this section shall be punishable by imprisonment of not less than one year nor more than five years.
 
 ## Section 3
 

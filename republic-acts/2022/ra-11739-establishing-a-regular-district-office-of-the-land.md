@@ -38,7 +38,7 @@ The Secretary of Transportation shall immediately include in the Department's pr
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
 
 Approved,
 

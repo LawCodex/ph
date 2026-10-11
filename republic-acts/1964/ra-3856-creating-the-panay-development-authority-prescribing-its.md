@@ -95,7 +95,9 @@ The bonds issued by virtue of this Act may be made payable both as to principal 
 
 ## Chapter IV — Capitalization and Financing
 
-Section 7._Capitalization.—_****The authority shall have an authorized capital of one hundred and fifty million pesos which shall be fully subscribed and paid up by the Republic of the Philippines and authorized to be appropriated out of the general fund in the National Treasury not otherwise appropriated, and from the proceeds of loans, bond issues, and other sources of income of the National Government and included in the General Appropriations Act every year for a period of ten years from the approval of this Act and shall be paid out according to the schedule as follows:
+### Section 7
+
+_Capitalization.—_****The authority shall have an authorized capital of one hundred and fifty million pesos which shall be fully subscribed and paid up by the Republic of the Philippines and authorized to be appropriated out of the general fund in the National Treasury not otherwise appropriated, and from the proceeds of loans, bond issues, and other sources of income of the National Government and included in the General Appropriations Act every year for a period of ten years from the approval of this Act and shall be paid out according to the schedule as follows:
 
 The sum of thirty million pesos upon the approval of this Act;
 
@@ -141,7 +143,7 @@ _Guarantee of payment by the Republic of the Philippines._ -The Republic of the 
 
 ### Section 12
 
-_Board of Directors—Composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors herein referred to as the Board, which shall be composed of five members including its chairman, appointed by the President of the Philippines with the consent of the Commission on Appointments.1âшphi1 The governors of the provinces Aklan, Capiz, Antique and Iloilo shall be members ex-officio of the Board and as such take part in all its meetings, deliberations and discussions but they shall not have the right to vote, except as hereinafter provided.
+_Board of Directors—Composition._ -The corporate powers of the Authority shall be vested in and exercised by a Board of Directors herein referred to as the Board, which shall be composed of five members including its chairman, appointed by the President of the Philippines with the consent of the Commission on Appointments. The governors of the provinces Aklan, Capiz, Antique and Iloilo shall be members ex-officio of the Board and as such take part in all its meetings, deliberations and discussions but they shall not have the right to vote, except as hereinafter provided.
 
 ### Section 13
 

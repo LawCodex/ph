@@ -33,10 +33,10 @@ The Malabon Municipal High School, Tinajeros Annex situated in Barangay Tinajero
 
 ## Section 2
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Malabon National High School, Tinajeros Annex. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Malabon National High School, Tinajeros Annex. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, November 18, 1994.

@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Agricultu
 
 ## Section 2
 
-The PFDA shall formulate the rules and regulations necessary for the effective implementation of this Act.1âwphi1
+The PFDA shall formulate the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

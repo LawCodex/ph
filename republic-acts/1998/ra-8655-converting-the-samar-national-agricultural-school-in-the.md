@@ -177,7 +177,7 @@ _Admission._ \- No student shall be denied admission to the State College by rea
 
 ## Section 14
 
-No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the State College: _Provided, however,_ that no member of the faculty shall teach for or against any particular church or religious sect.Ꮮαwρhi৷
+No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the State College: _Provided, however,_ that no member of the faculty shall teach for or against any particular church or religious sect.
 
 ## Section 15
 

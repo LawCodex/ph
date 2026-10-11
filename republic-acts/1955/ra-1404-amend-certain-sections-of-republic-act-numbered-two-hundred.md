@@ -71,7 +71,7 @@ Section fifty-one of Republic Act Numbered Two hundred and ninety-six, as amende
 
 The first, second, third, fourth, fifth, eighth, eleventh, twelfth, thirteenth, fifteenth, sixteenth, and seventeenth paragraphs of section fifty-two of Republic Act Numbered Two hundred and ninety-six, as amended, are further amended to read as follows:
 
-"Sec. 52. Permanent stations of district judges. The permanent station of judges of the Sixth Judicial District shall be in the City of Manila.1âшphi1
+"Sec. 52. Permanent stations of district judges. The permanent station of judges of the Sixth Judicial District shall be in the City of Manila.
 
 "In other judicial districts, the permanent stations of the judges shall be as follows:
 

@@ -87,7 +87,7 @@ Section twenty-two hundred and seventy-three of the Revised Administrative Code,
 
 "In municipalities of the third class: For the chief of police sixteen hundred and eighty pesos; for the corporal, thirteen hundred and eighty pesos; and for other members of the police force, thirteen hundred and twenty pesos.
 
-"In municipalities of the fourth class: For the chief of Police thirteen hundred and eighty pesos; and for other Members of the police force, eleven hundred and forty pesos.1a⍵⍴h!1
+"In municipalities of the fourth class: For the chief of Police thirteen hundred and eighty pesos; and for other Members of the police force, eleven hundred and forty pesos.
 
 "In municipalities of the fifth class: For the chief of Police, eleven hundred and forty pesos; and for other members of the police force, one thousand and twenty pesos.
 

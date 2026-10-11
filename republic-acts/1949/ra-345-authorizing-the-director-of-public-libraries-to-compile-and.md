@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Director of Public Libraries is hereby authorized to compile and publish in book form the speeches, messages, and other writings of the late President Manuel A. Roxas, and to distribute the same without charge to all public libraries, schools and colleges, and to sell copies thereof to the public at cost.1a⍵⍴h!1
+The Director of Public Libraries is hereby authorized to compile and publish in book form the speeches, messages, and other writings of the late President Manuel A. Roxas, and to distribute the same without charge to all public libraries, schools and colleges, and to sell copies thereof to the public at cost.
 
 ## Section 2
 

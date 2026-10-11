@@ -31,7 +31,7 @@ There shall be established a national high school at Phase 10 in Bagong Silang, 
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.Ꮮαwρhi৷
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

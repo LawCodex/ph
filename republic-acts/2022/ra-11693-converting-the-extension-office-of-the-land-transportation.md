@@ -34,7 +34,7 @@ The extension office of the Land Transportation Office (LTO) in the Municipality
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's programs the operationalization of the LTO District Office in the Municipality of Pinamalayan, Oriental Mindoro, the funding of which shall be included in the annual General Appropriations Act.ᇈWᑭHIL
+The Secretary of Transportation shall immediately include in the Department's programs the operationalization of the LTO District Office in the Municipality of Pinamalayan, Oriental Mindoro, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

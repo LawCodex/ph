@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established the Office of the Register of Deeds for the Third Representative District of Negros Occidental with permanent office in the Municipality of Himamaylan, Province of Negros Occidental, .which shall perform all the duties and functions of the Register of Deeds exclusively for the Third Representative District of Negros Occidental.1âшphi1
+There is hereby established the Office of the Register of Deeds for the Third Representative District of Negros Occidental with permanent office in the Municipality of Himamaylan, Province of Negros Occidental, .which shall perform all the duties and functions of the Register of Deeds exclusively for the Third Representative District of Negros Occidental.
 
 ## Section 2
 

@@ -174,7 +174,7 @@ _The Administrative Council._ \- There shall be an Administrative Council consis
 
 _The Academic Council._ \- There shall be an Academic Council, which shall formulate academic policies. It shall be composed of the President of the College, who shall act as chairperson, and all academic staff with the rank of at lease an assistant profession, as members.
 
-The Academic Council shall have the power to review and recommend the curricular offerings and rules of discipline, subject to the approval of the Board.7!ᕼdMᗄ7 It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and approval by the Board through the President of the College.
+The Academic Council shall have the power to review and recommend the curricular offerings and rules of discipline, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to review and approval by the Board through the President of the College.
 
 It shall exercise disciplinary power over students of the College and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board.
 
@@ -228,7 +228,7 @@ The following operational requirements for a university, as established by the C
 
 The CHED, through its regional office, shall regularly provide technical assistance to the College and monitor its compliance with the requirements of the Commission.
 
-The ICNSF shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements provided herein.ℒαwρhi৷
+The ICNSF shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements provided herein.
 
 ## Section 20
 

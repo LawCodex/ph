@@ -64,7 +64,7 @@ _Financing Companies._ \- Section 6 of Republic Act o. 8556, otherwise known as 
 
 _Investment Houses._ \- Section 5 of Presidential Decree No. 129, as amended by Republic Act No. 8366, otherwise known as "The Investment Houses Law", is hereby amended to read as follows:
 
-"Sec. 5. _Citizenship Requirements._ \- An Investment House may be owned up to one hundred percent (100%) by foreign nationals.1âwphi1 Foreign nationals may become members of the board of directors to the extent of the foreign participation in the equity of said enterprise."
+"Sec. 5. _Citizenship Requirements._ \- An Investment House may be owned up to one hundred percent (100%) by foreign nationals. Foreign nationals may become members of the board of directors to the extent of the foreign participation in the equity of said enterprise."
 
 ## Section 8
 

@@ -31,7 +31,7 @@ A nationalized high school is hereby established in the Municipality of Balungao
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.Ꮮαwρhi৷
+The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of four hundred thousand pesos for the fiscal year nineteen hundred sixty-four and the sum of three hundred thousand pesos for every fiscal year thereafter are hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to the National Waterworks and Sewerage Authority for the flouridation of water supplies in the Philippines.1âшphi1
+The sum of four hundred thousand pesos for the fiscal year nineteen hundred sixty-four and the sum of three hundred thousand pesos for every fiscal year thereafter are hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to the National Waterworks and Sewerage Authority for the flouridation of water supplies in the Philippines.
 
 ## Section 2
 

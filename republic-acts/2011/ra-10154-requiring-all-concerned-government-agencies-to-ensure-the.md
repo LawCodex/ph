@@ -52,7 +52,7 @@ This penalty shall not apply if the release of the retirement benefits could not
 
 ## Section 6
 
-_Implementing Rules and Regulations._ – The Civil Service Commission (CSC), after consultation and coordination with the government agencies and/or instrumentalities affected by this Act, including, but not limited to, the GSIS, the Pag-IBIG Fund, the Constitutional Commissions, the Legislature and the Judiciary as well as the Office of the Government Corporate Counsel (OGCC) and the Department of the Interior and Local Government (DILG), shall promulgate and issue the appropriate rules and regulations for the proper implementation of this Act.1avvphi1
+_Implementing Rules and Regulations._ – The Civil Service Commission (CSC), after consultation and coordination with the government agencies and/or instrumentalities affected by this Act, including, but not limited to, the GSIS, the Pag-IBIG Fund, the Constitutional Commissions, the Legislature and the Judiciary as well as the Office of the Government Corporate Counsel (OGCC) and the Department of the Interior and Local Government (DILG), shall promulgate and issue the appropriate rules and regulations for the proper implementation of this Act.
 
 Such rules and regulations shall include provisions prescribing uniform periods for the advance filing of retirement applications in the different agencies concerned, as well as standard periods for the processing and release of claims for retirement benefits, gratuities and allowances which will pinpoint responsibility in case of delay in the release thereof.
 

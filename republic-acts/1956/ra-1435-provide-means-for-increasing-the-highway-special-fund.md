@@ -41,7 +41,7 @@ Section one hundred and forty-two of the National Internal Revenue Code, as amen
 
 "(1) A sworn affidavit of the producer and two disinterested persons proving that the said oils were actually used in agriculture, or in lieu thereof.
 
-"(2) Should the producer belong to any producers’ association or federation, duly registered with the Securities and Exchange Commission, the affidavit of the president of the association or federation, attesting to the fact that the oils were actually used in agriculture.1âшphi1
+"(2) Should the producer belong to any producers’ association or federation, duly registered with the Securities and Exchange Commission, the affidavit of the president of the association or federation, attesting to the fact that the oils were actually used in agriculture.
 
 "(3) In the case of aviation oils, a sworn certificate satisfactory to the Collector proving that the said oils were actually used in aviation: _Provided,_ That no such refunds shall be granted in respect to the oils used in aviation by citizens and corporations of foreign countries which do not grant equivalent refunds or exemptions in respect to similar oils used in aviation by citizens and corporations of the Philippines."
 

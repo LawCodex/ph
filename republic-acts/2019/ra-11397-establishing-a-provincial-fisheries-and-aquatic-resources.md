@@ -56,7 +56,7 @@ The Secretary of Agriculture shall include in the Department’s programs the es
 
 ## Section 4
 
-The Department of Agriculture, through the BFAR, shall issue rules and regulations necessary to carry out the purposes of this Act.1âшphi1
+The Department of Agriculture, through the BFAR, shall issue rules and regulations necessary to carry out the purposes of this Act.
 
 ## Section 5
 

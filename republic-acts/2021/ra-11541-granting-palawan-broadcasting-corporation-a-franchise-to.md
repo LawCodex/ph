@@ -37,7 +37,7 @@ _Manner of Operation of Stations or Facilities._ — The stations or facilities 
 
 ## Section 3
 
-_Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.ℒαwρhi৷
+_Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
 
 In case of any violation of the provisions of this franchise, the NTC shall have the authority to revoke or suspend, after due process, the permits or licenses it issued pursuant to the franchise. The NTC may recommend to Congress the revocation of the franchise for any violation of the provisions of this franchise.
 

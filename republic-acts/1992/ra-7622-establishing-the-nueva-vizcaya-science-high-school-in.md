@@ -105,7 +105,7 @@ Said faculty members shall be exempt from the provisions of laws, rules and regu
 
 ## Section 13
 
-All legacies, gifts and donations for the benefit of the high school or for its support and maintenance or for aid to any of its students shall be tax-exempt and shall be an allowable deduction from the gross income of the donors. For purposes of income tax, the high school shall be exempt from the payment of all taxes, fees, assessments and other charges of the Government, its branches and subdivisions.1âшphi1
+All legacies, gifts and donations for the benefit of the high school or for its support and maintenance or for aid to any of its students shall be tax-exempt and shall be an allowable deduction from the gross income of the donors. For purposes of income tax, the high school shall be exempt from the payment of all taxes, fees, assessments and other charges of the Government, its branches and subdivisions.
 
 ## Section 14
 

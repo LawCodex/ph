@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 There is hereby created under the Department of Health a Bureau of Dental Health Services.
 
-This Bureau shall be headed by a Director who shall be a dentist of good moral character with achievements and must have practiced dentistry for a period of not less than ten years.1awp++i1 The Director shall be appointed by the President of the Philippines with the confirmation of the Commission on Appointments and shall receive a compensation as a regular bureau director.
+This Bureau shall be headed by a Director who shall be a dentist of good moral character with achievements and must have practiced dentistry for a period of not less than ten years. The Director shall be appointed by the President of the Philippines with the confirmation of the Commission on Appointments and shall receive a compensation as a regular bureau director.
 
 The Bureau shall have the following divisions: Administrative Division; Research, Standards and Statistics Division; Rural Dental Health Division; Industrial Dental Health Division; Sanitaria, Hospital, Puericulture and Charity Center Dental Health Division; Private Schools Dental Health Division; and such other Divisions as may be deemed necessary in the interests of public health dentistry.
 
@@ -34,7 +34,7 @@ The Bureau shall have the following divisions: Administrative Division; Research
 
 The Bureau of Dental Health Services is charged with the protection of the dental health of the people of the Philippines and the maintenance of an adequate standard of dental health services and the improvement of such standards. Its general powers and functions shall extend to and comprehend integration among other the following:
 
-(a) The coordination, control and supervision of all dental health services in the government including those under the Department of Health, except those of the Armed Forces of the Philippines and dental infirmaries for the training of dental students in dental schools and dental colleges and those under the Department of Education.1âшphi1
+(a) The coordination, control and supervision of all dental health services in the government including those under the Department of Health, except those of the Armed Forces of the Philippines and dental infirmaries for the training of dental students in dental schools and dental colleges and those under the Department of Education.
 
 (b) Supervision of such dental health services in private firms, companies, corporations, and private educational institutions, except dental infirmaries for the training of dental students in dental schools or colleges.
 

@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Surigao del Sur
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Surigao del Sur Institute of Technology – Panikian Annex are hereby transferred to and absorbed by the Panikian National High School.1awphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Surigao del Sur Institute of Technology – Panikian Annex are hereby transferred to and absorbed by the Panikian National High School.
 
 ## Section 3
 

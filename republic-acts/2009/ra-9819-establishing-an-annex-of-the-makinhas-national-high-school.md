@@ -38,11 +38,11 @@ _Appropriations._ \- The Secretary of Education shall immediately include in the
 
 ## Section 3
 
-_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.1avvphil
+_Implementation._ \- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 4
 
-Effectivity. - This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._ 1awphi1
+Effectivity. - This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

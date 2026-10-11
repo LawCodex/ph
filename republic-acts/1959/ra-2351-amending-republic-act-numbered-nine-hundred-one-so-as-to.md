@@ -40,7 +40,7 @@ A new section to be known and cited as section 11-A is hereby inserted in the sa
 
 "Any officer or employee of the Government who shall connive, abet, or tolerate the violation of the provisions of this Act or any rules or regulations promulgated in accordance therewith shall suffer the penalties in the preceding paragraph including perpetual disqualification to hold public office.
 
-"Any person who shall connive with the grantee of tax exemption shall be penalized accordingly as co-principal.1âшphi1 In case the grantee is a juridical person, the officials who consented to the offense or knowing, did not register objection shall be the persons liable.
+"Any person who shall connive with the grantee of tax exemption shall be penalized accordingly as co-principal. In case the grantee is a juridical person, the officials who consented to the offense or knowing, did not register objection shall be the persons liable.
 
 "Any provision of law to the contrary notwithstanding, a grantee of the tax exemption privileges who shall purchase goods or commodities while in transit from any person or corporation which originally placed the order for the importation thereof, shall be considered the importer of such goods or commodities and shall be subject to all taxes imposed on such importation.
 

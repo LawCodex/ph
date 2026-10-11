@@ -29,7 +29,7 @@ The Sericulture Research and Development Center (hereinafter referred to as the 
 
 ## Section 2
 
-All functions, equipment, facilities, supplies, records and personnel of the Sericulture Research and Development Center are hereby transferred to the Sericulture Research and Development Institute.1âшphi1
+All functions, equipment, facilities, supplies, records and personnel of the Sericulture Research and Development Center are hereby transferred to the Sericulture Research and Development Institute.
 
 ## Section 3
 
@@ -97,7 +97,7 @@ i. one (1) representative from the local silk cloth processing and manufacturing
 
 ## Section 7
 
-The presence of five (5) members at the time of the meeting shall constitute a quorum: _Provided,_ however, That the Chairman or, in his absence, the Vice Chairman shall preside.1âшphi1
+The presence of five (5) members at the time of the meeting shall constitute a quorum: _Provided,_ however, That the Chairman or, in his absence, the Vice Chairman shall preside.
 
 ## Section 8
 

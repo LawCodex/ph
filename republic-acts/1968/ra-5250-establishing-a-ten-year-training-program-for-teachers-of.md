@@ -49,7 +49,7 @@ The program shall also set up research and survey projects to identify and locat
 
 ## Section 6
 
-A number of scholarship shall be created every year for ten years for protective teachers who shall undertake the training courses.1avvphi1 The coordinator of the program shall see to it that scholarship grantees and teachers trainees under the program are intellectually and emotionally prepared to handle special education.
+A number of scholarship shall be created every year for ten years for protective teachers who shall undertake the training courses. The coordinator of the program shall see to it that scholarship grantees and teachers trainees under the program are intellectually and emotionally prepared to handle special education.
 
 ## Section 7
 

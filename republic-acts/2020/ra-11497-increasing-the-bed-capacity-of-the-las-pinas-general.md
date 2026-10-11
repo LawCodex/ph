@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the LPGHSTC are
 
 ## Section 3
 
-The existing workforce of the LPGHSTC, which includes doctors, nurses and support personnel, shall also be correspondingly increased.ℒαwρhi৷ The Secretary of the Department of Health (DOH) shall, in coordination with the Secretary of the Department of Budget and Management (DBM) and the Commissioner of the Civil Service Commission (CSC), and after consultation with the Chief of the LPGHSTC, determine the additional new positions to be created and filled up.
+The existing workforce of the LPGHSTC, which includes doctors, nurses and support personnel, shall also be correspondingly increased. The Secretary of the Department of Health (DOH) shall, in coordination with the Secretary of the Department of Budget and Management (DBM) and the Commissioner of the Civil Service Commission (CSC), and after consultation with the Chief of the LPGHSTC, determine the additional new positions to be created and filled up.
 
 ## Section 4
 

@@ -34,7 +34,7 @@ The Bayan-Bayanan Ave. traversing Barangay Concepcion Uno and Barangay Marikina 
 
 ## Section 2
 
-The Secretary of the Department of Public Works and Highways shall include in the Department’s program the improvement, maintenance and repair of the said road, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of the Department of Public Works and Highways shall include in the Department’s program the improvement, maintenance and repair of the said road, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Land Transportation Office (LTO) Licensing Center in the City of San Pablo, Province of Laguna is hereby converted into a Regular Licensing Center to be known as San Pablo City LTO Licensing Center.1âwphi1
+The Land Transportation Office (LTO) Licensing Center in the City of San Pablo, Province of Laguna is hereby converted into a Regular Licensing Center to be known as San Pablo City LTO Licensing Center.
 
 ## Section 2
 

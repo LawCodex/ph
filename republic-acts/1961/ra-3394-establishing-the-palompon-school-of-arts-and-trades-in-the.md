@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-A national school of arts and trades, of the Philippine School of Arts and Trades type, to be known as the Palompon School of Arts and Trades, shall be established in the Municipality of Palompon, Province of Leyte.1âшphi1 The said school shall be under the supervision of the Bureau of Public Schools and subject to existing laws on public education. Courses of secondary level shall be offered in the said school.
+A national school of arts and trades, of the Philippine School of Arts and Trades type, to be known as the Palompon School of Arts and Trades, shall be established in the Municipality of Palompon, Province of Leyte. The said school shall be under the supervision of the Bureau of Public Schools and subject to existing laws on public education. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

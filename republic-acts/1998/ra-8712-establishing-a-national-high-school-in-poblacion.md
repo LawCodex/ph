@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, Culture and Sports, a national high school in Poblacion, Municipality of Dangcagan, Province of Bukidnon, to be known as the Dangcagan National High School.1awp++i1
+There is hereby established, under the supervision of the Department of Education, Culture and Sports, a national high school in Poblacion, Municipality of Dangcagan, Province of Bukidnon, to be known as the Dangcagan National High School.
 
 ## Section 2
 

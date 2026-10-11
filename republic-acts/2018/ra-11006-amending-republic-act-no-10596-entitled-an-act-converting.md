@@ -53,7 +53,7 @@ Section 26 of Republic Act No. 10596, known as "An Act Converting the Mindoro St
 
 ## Section 2
 
-_Repealing Clause._ \- All laws, decrees, proclamations, issuances or ordinances that are contrary to or inconsistent with the provisions of this Act are hereby amended, repealed or modified accordingly.1awp++i1
+_Repealing Clause._ \- All laws, decrees, proclamations, issuances or ordinances that are contrary to or inconsistent with the provisions of this Act are hereby amended, repealed or modified accordingly.
 
 ## Section 3
 

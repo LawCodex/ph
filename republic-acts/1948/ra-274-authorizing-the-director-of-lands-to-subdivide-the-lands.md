@@ -28,7 +28,7 @@ The Director of Lands shall cause the subdivision of lands within military reser
 
 ## Section 2
 
-Subject to the approval of the Secretary of Agriculture and Natural Resources, the area of each lot within the subdivisions shall be determined by the Director of Lands according to the nature of the land, the number of prospective applicants, and the purpose for which it will be utilized.£a⩊phi£
+Subject to the approval of the Secretary of Agriculture and Natural Resources, the area of each lot within the subdivisions shall be determined by the Director of Lands according to the nature of the land, the number of prospective applicants, and the purpose for which it will be utilized.
 
 ## Section 3
 

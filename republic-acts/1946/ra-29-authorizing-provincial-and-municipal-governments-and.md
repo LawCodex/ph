@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The provisions of existing law to the contrary notwithstanding, provincial and municipal governments are hereby authorized to grant living bonus to their officers and employees not in excess of the schedule or rates fixed by the National Government for its officers and employees.
 
-Chartered cities are also hereby authorized to grant such living bonus as may be fixed by city ordinance.1âwphi1
+Chartered cities are also hereby authorized to grant such living bonus as may be fixed by city ordinance.
 
 ## Section 2
 

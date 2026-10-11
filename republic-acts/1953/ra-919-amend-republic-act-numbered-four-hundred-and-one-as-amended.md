@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Section two (d) of Republic Act Numbered Four hundred and one is hereby amended to read as follows:1a⍵⍴h!1
+Section two (d) of Republic Act Numbered Four hundred and one is hereby amended to read as follows:
 
 "**Section 2.** (d) When the debtor was unable to pay an obligation which became due and demandable, or the interest which should have been paid during the said period because the assets of the creditor were under the control of the enemy and/or administered through the so-called Enemy Alien Property Custodian or other enemy instrumentality, and the debtor paid the interests to it in the belief that such payment was valid and effective payment to the creditor or because of fear that failure to comply with the demand would lead to reprisals on his person or property.
 

@@ -26,11 +26,17 @@ AN ACT PRESCRIBING A REVISED COMPENSATION AND POSITION CLASSIFICATION SYSTEM IN 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** \- This Act shall be known as the "**Compensation and Position Classification Act of 1989**."
+## Section 1
 
-**Section 2._Statement of Policy._** \- It is hereby declared the policy of the State to provide equal pay for substantially equal work and to base differences in pay upon substantive differences in duties and responsibilities, and qualification requirements of the positions. In determining rates of pay, due regard shall be given to, among others, prevailing rates in the private sector for comparable work. For this purpose, the Department of Budget and Managements (DBM) is hereby directed to establish and administer a unified Compensation and Position Classification System, hereinafter referred to as the System, as provided for in Presidential Decree No. 985, as amended, that shall be applied for all government entities, as mandated by the Constitution.
+_Title._ \- This Act shall be known as the "**Compensation and Position Classification Act of 1989**."
 
-**Section 3._General Provisions._ **\- The following principles shall govern the Compensation and Position Classification System of the Government:
+## Section 2
+
+_Statement of Policy._ \- It is hereby declared the policy of the State to provide equal pay for substantially equal work and to base differences in pay upon substantive differences in duties and responsibilities, and qualification requirements of the positions. In determining rates of pay, due regard shall be given to, among others, prevailing rates in the private sector for comparable work. For this purpose, the Department of Budget and Managements (DBM) is hereby directed to establish and administer a unified Compensation and Position Classification System, hereinafter referred to as the System, as provided for in Presidential Decree No. 985, as amended, that shall be applied for all government entities, as mandated by the Constitution.
+
+## Section 3
+
+_General Provisions._ \- The following principles shall govern the Compensation and Position Classification System of the Government:
 
 (a) All government personnel shall be paid just and equitable wages; and while pay distinctions must necessarily exist in keeping with work distinctions, the ratio of compensation for those occupying higher ranks to those at lower ranks should be maintained at equitable levels, giving due consideration to higher percentage of increases to lower level positions and lower percentage increases to higher level positions;
 
@@ -40,11 +46,15 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) A review of government compensation rates, taking into account possible erosion in purchasing power due to inflation and other factors, shall be conducted periodically.
 
-**Section 4._Coverage._** \- The Compensation and Position Classification System herein provided shall apply to all positions, appointive or elective, on full or part-time basis, now existing or hereafter created in the government, including government-owned or controlled corporations and government financial institutions.
+## Section 4
+
+_Coverage._ \- The Compensation and Position Classification System herein provided shall apply to all positions, appointive or elective, on full or part-time basis, now existing or hereafter created in the government, including government-owned or controlled corporations and government financial institutions.
 
 The term "government" refers to the Executive, the Legislative and the Judicial Branches and the Constitutional Commissions and shall include all, but shall not be limited to, departments, bureaus, offices, boards, commissions, courts, tribunals, councils, authorities, administrations, centers, institutes, state colleges and universities, local government units, and the armed forces. The term "government-owned or controlled corporations and financial institutions" shall include all corporations and financial institutions owned or controlled by the National Government, whether such corporations and financial institutions perform governmental or proprietary functions.
 
-**Section 5._Position Classification System_**. - The Position Classification System shall consist of classes of positions grouped into four main categories, namely: professional supervisory, professional non-supervisory, sub-professional supervisory, and sub-professional non-supervisory, and the rules and regulations for its implementation.
+## Section 5
+
+_Position Classification System_. - The Position Classification System shall consist of classes of positions grouped into four main categories, namely: professional supervisory, professional non-supervisory, sub-professional supervisory, and sub-professional non-supervisory, and the rules and regulations for its implementation.
 
 Categorization of these classes of positions shall be guided by the following considerations:
 
@@ -66,9 +76,13 @@ The positions in this category are assigned Salary Grade 4 to Salary Grade 18.
 
 The positions in this category are assigned Salary Grade 1 to Salary Grade 10.
 
-**Section 6._Index of Occupational Services, Position Titles and Salary Grades of the Compensation and Position Classification System_**. - All positions in the government covered under Section 4 hereof shall be allocated to their proper position titles and salary grades in accordance with the Index of Occupational Services, Position Titles and Salary Grades of the Compensation and Position Classification System which shall be prepared by the DBM.
+## Section 6
 
-**Section 7._Salary Schedule._** \- The Department of Budget and Management is hereby directed to implement the Salary Schedule prescribed below:
+_Index of Occupational Services, Position Titles and Salary Grades of the Compensation and Position Classification System_. - All positions in the government covered under Section 4 hereof shall be allocated to their proper position titles and salary grades in accordance with the Index of Occupational Services, Position Titles and Salary Grades of the Compensation and Position Classification System which shall be prepared by the DBM.
+
+## Section 7
+
+_Salary Schedule._ \- The Department of Budget and Management is hereby directed to implement the Salary Schedule prescribed below:
 
 <table>
 <tr>
@@ -422,7 +436,9 @@ The Department of Budget and Management shall update the above Schedule whenever
 
 The daily wage rate shall be determined by dividing the monthly salary rate by twenty-two (22) working days per month.
 
-**Section 8._Salaries of Constitutional Officials and their Equivalent._** \- Pursuant to Section 17, Article XVIII of the Constitution, the salary of the following officials shall be in accordance with the Salary Grades indicated hereunder:
+## Section 8
+
+_Salaries of Constitutional Officials and their Equivalent._ \- Pursuant to Section 17, Article XVIII of the Constitution, the salary of the following officials shall be in accordance with the Salary Grades indicated hereunder:
 
 <table>
 <tr>
@@ -488,7 +504,9 @@ The equivalent rank of positions not mentioned herein or those that may be creat
 
 The Provisions of this Act as far as they upgrade the compensation of Constitutional Officials and their equivalent under this section shall, however, take effect only in accordance with the Constitution: Provided, That with respect to the President and Vice-President of the Republic of the Philippines, the President of the Senate, the Speaker of the House of Representatives, the Senators, and the Members of the House of Representatives, no increase in salary shall take effect even beyond 1992, until this Act is amended: Provided, further, That the implementation of this Act with respect to Assistant Secretaries and Undersecretaries shall be deferred for one (1) year from the effectivity of this Act and for Secretaries, until July 1, 1992: Provided, finally, That in the case of Assistant Secretaries, Undersecretaries and Secretaries, the salary rates authorized herein shall be used in the computation of the retirement benefits for those who retire under the existing retirement laws within the aforesaid period.
 
-**Section 9._Salary Grade Assignments for Other Positions._** \- For positions below the Officials mentioned under Section 8 hereof and their equivalent, whether in the National Government, local government units, government-owned or controlled corporations or financial institutions, the Department of Budget and Management is hereby directed to prepare the Index of Occupational Services to be guided by the Benchmark Position Schedule prescribed hereunder and the following factors: (1) the education and experience required to perform the duties and responsibilities of the positions; (2) the nature and complexity of the work to be performed; (3) the kind of supervision received; (4) mental and/or physical strain required in the completion of the work; (5) nature and extent of internal and external relationships; (6) kind of supervision exercised; (7) decision-making responsibility; (8) responsibility for accuracy of records and reports; (9) accountability for funds, properties and equipment; and (10) hardship, hazard and personal risk involved in the job.
+## Section 9
+
+_Salary Grade Assignments for Other Positions._ \- For positions below the Officials mentioned under Section 8 hereof and their equivalent, whether in the National Government, local government units, government-owned or controlled corporations or financial institutions, the Department of Budget and Management is hereby directed to prepare the Index of Occupational Services to be guided by the Benchmark Position Schedule prescribed hereunder and the following factors: (1) the education and experience required to perform the duties and responsibilities of the positions; (2) the nature and complexity of the work to be performed; (3) the kind of supervision received; (4) mental and/or physical strain required in the completion of the work; (5) nature and extent of internal and external relationships; (6) kind of supervision exercised; (7) decision-making responsibility; (8) responsibility for accuracy of records and reports; (9) accountability for funds, properties and equipment; and (10) hardship, hazard and personal risk involved in the job.
 
 <table>
 <tr>
@@ -618,7 +636,9 @@ The Provisions of this Act as far as they upgrade the compensation of Constituti
 
 In no case shall the salary of the chairman, president, general manager or administrator, and the board of directors of government-owned or controlled corporations and financial institutions exceed Salary Grade 30: Provided, That the President may, in truly exceptional cases, approve higher compensation for the aforesaid officials.
 
-**Section 10._Local Government Units (LGUs)._** \- The rates of pay in LGUs shall be determined on the basis of the class and financial capability of each LGU: Provided, That such rates of pay shall not exceed the following percentages of the rates in the salary schedule prescribed under Section 7 hereof:
+## Section 10
+
+_Local Government Units (LGUs)._ \- The rates of pay in LGUs shall be determined on the basis of the class and financial capability of each LGU: Provided, That such rates of pay shall not exceed the following percentages of the rates in the salary schedule prescribed under Section 7 hereof:
 
 <table>
 <tr>
@@ -662,39 +682,57 @@ In no case shall the salary of the chairman, president, general manager or admin
 </tr>
 </table>
 
-**Section 11._Military and Police Personnel._** \- The base pay of uniformed personnel of the Armed Forces of the Philippines and the Integrated National Police shall be as prescribed in the salary schedule for these personnel in R.A. No. 6638 and R.A. No. 6648. The longevity pay of these personnel shall be as prescribed under R.A. No. 6638, and R.A. No. 1134 as amended by R.A. No. 3725 and R.A. No. 6648: Provided, however, That the longevity pay of uniformed personnel of the Integrated National Police shall include those services rendered as uniformed members of the police, jail and fire departments of the local government units prior to the police integration.
+## Section 11
+
+_Military and Police Personnel._ \- The base pay of uniformed personnel of the Armed Forces of the Philippines and the Integrated National Police shall be as prescribed in the salary schedule for these personnel in R.A. No. 6638 and R.A. No. 6648. The longevity pay of these personnel shall be as prescribed under R.A. No. 6638, and R.A. No. 1134 as amended by R.A. No. 3725 and R.A. No. 6648: Provided, however, That the longevity pay of uniformed personnel of the Integrated National Police shall include those services rendered as uniformed members of the police, jail and fire departments of the local government units prior to the police integration.
 
 All existing types of allowances authorized for uniformed personnel of the Armed Forces of the Philippines and Integrated National Police such as cost of living allowance, longevity pay, quarters allowance, subsistence allowance, clothing allowance, hazard pay and other allowances shall continue to be authorized.
 
-**Section 12._Consolidation of Allowances and Compensation._** \- All allowances, except for representation and transportation allowances; clothing and laundry allowances; subsistence allowance of marine officers and crew on board government vessels and hospital personnel; hazard pay; allowances of foreign service personnel stationed abroad; and such other additional compensation not otherwise specified herein as may be determined by the DBM, shall be deemed included in the standardized salary rates herein prescribed. Such other additional compensation, whether in cash or in kind, being received by incumbents only as of July 1, 1989 not integrated into the standardized salary rates shall continue to be authorized.
+## Section 12
+
+_Consolidation of Allowances and Compensation._ \- All allowances, except for representation and transportation allowances; clothing and laundry allowances; subsistence allowance of marine officers and crew on board government vessels and hospital personnel; hazard pay; allowances of foreign service personnel stationed abroad; and such other additional compensation not otherwise specified herein as may be determined by the DBM, shall be deemed included in the standardized salary rates herein prescribed. Such other additional compensation, whether in cash or in kind, being received by incumbents only as of July 1, 1989 not integrated into the standardized salary rates shall continue to be authorized.
 
 Existing additional compensation of any national government official or employee paid from local funds of a local government unit shall be absorbed into the basic salary of said official or employee and shall be paid by the National Government.
 
-**Section 13._Pay Adjustments._** \- Paragraphs (b) and (c), Section 15 of Presidential Decree No. 985 are hereby amended to read as follows:
+## Section 13
+
+_Pay Adjustments._ \- Paragraphs (b) and (c), Section 15 of Presidential Decree No. 985 are hereby amended to read as follows:
 
 "(b) Pay Reduction - If an employee is moved from a higher to a lower class, he shall not suffer a reduction in salary: Provided, That such movement is not the result of a disciplinary action or voluntary demotion.
 
 "(c) Step Increments - Effective January 1, 1990 step increments shall be granted based on merit and/or length of service in accordance with rules and regulations that will be promulgated jointly by the DBM and the Civil Service Commission."
 
-**Section 14._Administration of Compensation and Position Classification System._** \- Subparagraph (a), Section 17 of Presidential Decree No. 985 is hereby amended to read as follows:
+## Section 14
+
+_Administration of Compensation and Position Classification System._ \- Subparagraph (a), Section 17 of Presidential Decree No. 985 is hereby amended to read as follows:
 
 "(a) Administer the compensation and position classification system established herein and revise it as necessary."
 
-**Section 15._Reference to Offices and Positions._** \- All references to the "Commissioner of the Budget," "Budget Commission" or "Commission" and "Office of Compensation and Position Classification" or "OCPC" in Presidential Decree No. 985 and Presidential Decree No. 1597 shall read to mean the Secretary of Budget and Management, the Department of Budget and Management or DBM, and the Compensation and Position Classification Bureau or CPCB, respectively.
+## Section 15
 
-**Section 16._Repeal of Special Salary Laws and Regulations._** \- All laws, decrees, executive orders, corporate charters, and other issuances or parts thereof, that exempt agencies from the coverage of the System, or that authorize and fix position classification, salaries, pay rates or allowances of specified positions, or groups of officials and employees or of agencies, which are inconsistent with the System, including the proviso under Section 2, and Section 16 of Presidential Decree No. 985 are hereby repealed.
+_Reference to Offices and Positions._ \- All references to the "Commissioner of the Budget," "Budget Commission" or "Commission" and "Office of Compensation and Position Classification" or "OCPC" in Presidential Decree No. 985 and Presidential Decree No. 1597 shall read to mean the Secretary of Budget and Management, the Department of Budget and Management or DBM, and the Compensation and Position Classification Bureau or CPCB, respectively.
 
-**Section 17._Salaries of Incumbents._** \- Incumbents of positions presently receiving salaries and additional compensation/fringe benefits including those absorbed from local government units and other emoluments, the aggregate of which exceeds the standardized salary rate as herein prescribed, shall continue to receive such excess compensation, which shall be referred to as transition allowance. The transition allowance shall be reduced by the amount of salary adjustment that the incumbent shall receive in the future.
+## Section 16
+
+_Repeal of Special Salary Laws and Regulations._ \- All laws, decrees, executive orders, corporate charters, and other issuances or parts thereof, that exempt agencies from the coverage of the System, or that authorize and fix position classification, salaries, pay rates or allowances of specified positions, or groups of officials and employees or of agencies, which are inconsistent with the System, including the proviso under Section 2, and Section 16 of Presidential Decree No. 985 are hereby repealed.
+
+## Section 17
+
+_Salaries of Incumbents._ \- Incumbents of positions presently receiving salaries and additional compensation/fringe benefits including those absorbed from local government units and other emoluments, the aggregate of which exceeds the standardized salary rate as herein prescribed, shall continue to receive such excess compensation, which shall be referred to as transition allowance. The transition allowance shall be reduced by the amount of salary adjustment that the incumbent shall receive in the future.
 
 The transition allowance referred to herein shall be treated as part of the basic salary for purposes of computing retirement pay, year-end bonus and other similar benefits.
 
 As basis for computation of the first across-the-board salary adjustment of incumbents with transition allowance, no incumbent who is receiving compensation exceeding the standardized salary rate at the time of the effectivity of this Act, shall be assigned a salary lower than ninety percent (90%) of his present compensation or the standardized salary rate, whichever is higher. Subsequent increases shall be based on the resultant adjusted salary.
 
-**Section 18._Additional Compensation of Commission on Audit Personnel and of Other Agencies._** \- In order to preserve the independence and integrity of the Commission on Audit (COA), its officials and employees are prohibited from receiving salaries, honoraria, bonuses, allowances or other emoluments from any government entity, local government unit, and government-owned and controlled corporations, and government financial institution, except those compensation paid directly be the COA out of its appropriations and contributions.
+## Section 18
+
+_Additional Compensation of Commission on Audit Personnel and of Other Agencies._ \- In order to preserve the independence and integrity of the Commission on Audit (COA), its officials and employees are prohibited from receiving salaries, honoraria, bonuses, allowances or other emoluments from any government entity, local government unit, and government-owned and controlled corporations, and government financial institution, except those compensation paid directly be the COA out of its appropriations and contributions.
 
 Government entities, including government-owned or controlled corporations including financial institutions and local government units are hereby prohibited from assessing or billing other government entities, government-owned or controlled corporations including financial institutions or local government units for services rendered by its officials and employees as part of their regular functions for purposes of paying additional compensation to said officials and employees.
 
-**Section 19._Funding Source._** \- The funding sources for the amounts necessary to implement this Act shall be as follows:
+## Section 19
+
+_Funding Source._ \- The funding sources for the amounts necessary to implement this Act shall be as follows:
 
 (a) For national government entities, the amount shall be charged against the appropriations set aside for the purpose in the 1989 General Appropriations Act and from savings generated from the different departments, bureaus, offices and agencies. Thereafter, such amounts as are needed shall be included in the annual General Appropriations Act.
 
@@ -702,12 +740,20 @@ Government entities, including government-owned or controlled corporations inclu
 
 (c) For government corporations, the amount shall come from their respective corporate funds.
 
-**Section 20._Separability Clause._** \- If for any reason any section or provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions thereof which are not affected thereby shall continue to be in full force and effect.
+## Section 20
 
-**Section 21._Applicability of Presidential Decree No. 985 as Amended by Presidential Decree No. 1597._** \- All provisions of Presidential Decree No. 985, as amended by Presidential Decree No. 1597, which are not inconsistent with this Act and are not expressly modified, revoked or repealed in this Act shall continue to be in full force and effect.
+_Separability Clause._ \- If for any reason any section or provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions thereof which are not affected thereby shall continue to be in full force and effect.
 
-**Section 22._Repealing Clause_**. - all laws, decrees, orders, rules or regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+## Section 21
 
-**Section 23._Effectivity._** \- This Act shall take effect July 1, 1989. The DBM shall, within sixty (60) days after its approval, allocate all positions in their appropriate position titles and salary grades and prepare and issue the necessary guidelines to implement the same.
+_Applicability of Presidential Decree No. 985 as Amended by Presidential Decree No. 1597._ \- All provisions of Presidential Decree No. 985, as amended by Presidential Decree No. 1597, which are not inconsistent with this Act and are not expressly modified, revoked or repealed in this Act shall continue to be in full force and effect.
+
+## Section 22
+
+_Repealing Clause_. - all laws, decrees, orders, rules or regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+## Section 23
+
+_Effectivity._ \- This Act shall take effect July 1, 1989. The DBM shall, within sixty (60) days after its approval, allocate all positions in their appropriate position titles and salary grades and prepare and issue the necessary guidelines to implement the same.
 
 Approved: **August 21, 1989**

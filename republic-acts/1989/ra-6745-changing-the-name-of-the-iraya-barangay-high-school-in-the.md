@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Iraya Barangay High School in the Municipality of Hamtic, Province of Antique, is hereby changed to Governor Julio V. Macuja Memorial Comprehensive High School.1a⍵⍴h!1
+The name of the Iraya Barangay High School in the Municipality of Hamtic, Province of Antique, is hereby changed to Governor Julio V. Macuja Memorial Comprehensive High School.
 
 ## Section 2
 

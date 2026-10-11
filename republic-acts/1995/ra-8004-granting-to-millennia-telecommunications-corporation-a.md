@@ -48,7 +48,7 @@ This franchise shall be for a term of twenty-five (25) years from the date of ef
 
 ## Section 6
 
-Acceptance of this franchise shall be given in writing within sixty (60) days after the approval of this Act.1aшphi1 The grantee shall operate the telecommunications systems for which this franchise is granted within four (4) years from the date of its acceptance in writing of this franchise. Refusal or failure to accept the franchise or to operate within the prescribed period shall render the franchise void.
+Acceptance of this franchise shall be given in writing within sixty (60) days after the approval of this Act. The grantee shall operate the telecommunications systems for which this franchise is granted within four (4) years from the date of its acceptance in writing of this franchise. Refusal or failure to accept the franchise or to operate within the prescribed period shall render the franchise void.
 
 ## Section 7
 

@@ -28,7 +28,7 @@ Kling Barrio High School in the Municipality of Kiamba, Province of South Cotaba
 
 ## Section 2
 
-Upon organization of Kling National High School, the personnel, equipment and records of Kling Barrio High School shall be transferred to said Kling National High School.1âшphi1
+Upon organization of Kling National High School, the personnel, equipment and records of Kling Barrio High School shall be transferred to said Kling National High School.
 
 ## Section 3
 

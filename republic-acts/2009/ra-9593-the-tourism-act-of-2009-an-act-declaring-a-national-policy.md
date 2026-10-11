@@ -908,7 +908,7 @@ Gross income as used herein is defined under Section 27(A) of the NIRC, and furt
 
 (2) A tax credit equivalent to all national internal revenue taxes paid on all locally - sourced goods and services directly or indirectly used by the registered enterprise for services actually rendered within the TEZ.
 
-(f) Social Responsibility Incentive. A registered enterprise shall be entitled to a tax deduction equivalent to a reasonable percentage, not exceeding fifty percent (60%), of the cost of environmental protection or cultural heritage preservation activities, sustainable livelihood programs for local communities, and other similar activities.ten.lihpwal
+(f) Social Responsibility Incentive. A registered enterprise shall be entitled to a tax deduction equivalent to a reasonable percentage, not exceeding fifty percent (60%), of the cost of environmental protection or cultural heritage preservation activities, sustainable livelihood programs for local communities, and other similar activities.
 
 #### Section 87
 
@@ -1100,7 +1100,7 @@ _Implementing Rules and Regulations._ \- Upon consultation with stakeholders, th
 
 #### Section 108
 
-_Review._ \- This Act shall be subject to congressional review by Congress three (3) years after its approval and every three (3) years thereafter.lawphil
+_Review._ \- This Act shall be subject to congressional review by Congress three (3) years after its approval and every three (3) years thereafter.
 
 #### Section 109
 

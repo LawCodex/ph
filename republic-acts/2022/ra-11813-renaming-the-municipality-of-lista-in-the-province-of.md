@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Lista in the Province of Ifugao is hereby renamed as Alfonso Lista.ℒαwρhi৷
+The Municipality of Lista in the Province of Ifugao is hereby renamed as Alfonso Lista.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of East Siasi Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Jalmaani Imlani Elementary School.1âшphi1
+The name of East Siasi Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Jalmaani Imlani Elementary School.
 
 ## Section 2
 

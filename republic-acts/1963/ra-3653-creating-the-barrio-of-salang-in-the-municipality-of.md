@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Lagdong, Caritan and Bumaga in the Municipality of Balabac, Province of Palawan, are constituted into a district and independent barrio of said municipality, to be known as the Barrio of Salang.1âшphi1
+The sitios of Lagdong, Caritan and Bumaga in the Municipality of Balabac, Province of Palawan, are constituted into a district and independent barrio of said municipality, to be known as the Barrio of Salang.
 
 ## Section 2
 

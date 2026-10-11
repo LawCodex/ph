@@ -32,7 +32,7 @@ The Cateel Medicare Hospital in the Municipality of Cateel, Province of Davao Or
 
 ## Section 2
 
-The Department of Health, in consultation with the local government officials concerned, shall promulgate the rules and regulations necessary for the effective implementation of this Act.1aшphi1
+The Department of Health, in consultation with the local government officials concerned, shall promulgate the rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

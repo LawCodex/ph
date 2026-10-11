@@ -37,7 +37,7 @@ The Department of Tourism, in coordination with other government agencies concer
 
 ## Section 3
 
-The Department of Tourism shall issue the necessary guidelines for the proper implementation of this Act.1a⍵⍴h!1
+The Department of Tourism shall issue the necessary guidelines for the proper implementation of this Act.
 
 ## Section 4
 

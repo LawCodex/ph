@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Pantal-Samat Primary School in the barrio of Pantal-Samat, Municipality of Bugallon, Province of Pangasinan, is changed to Magsaysay Primary School.1âшphi1
+The name of the Pantal-Samat Primary School in the barrio of Pantal-Samat, Municipality of Bugallon, Province of Pangasinan, is changed to Magsaysay Primary School.
 
 ## Section 2
 

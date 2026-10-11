@@ -40,7 +40,7 @@ The following sitios in the Municipality of Digos, Province of Davao, are conver
 
 7\. The sitio of Lungag to be known as the barrio of Lungag; and
 
-8\. The sitio of San Agustin to be known as the barrio of San Agustin.1âшphi1
+8\. The sitio of San Agustin to be known as the barrio of San Agustin.
 
 ## Section 2
 

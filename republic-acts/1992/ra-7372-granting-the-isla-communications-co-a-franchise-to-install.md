@@ -79,7 +79,7 @@ Should the grantee, its successors or assigns begin the business of providing a 
 
 ## Section 13
 
-From the date the National Telecommunications Commission allots the grantee the frequencies and wavelengths to be used by it, the grantee shall be allowed for a period of three (3) years to import all its capital equipment on a tax- and duty-free basis.1âшphi1
+From the date the National Telecommunications Commission allots the grantee the frequencies and wavelengths to be used by it, the grantee shall be allowed for a period of three (3) years to import all its capital equipment on a tax- and duty-free basis.
 
 ## Section 14
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in the Municipality of Malasiqui, Province of Pangasinan, to be known as the Malasiqui National High School.1a⍵⍴h!1
+There shall be established a national high school in the Municipality of Malasiqui, Province of Pangasinan, to be known as the Malasiqui National High School.
 
 ## Section 2
 

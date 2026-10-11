@@ -32,7 +32,7 @@ The Adela Serra Ty Memorial Hospital in Tandag, Surigao del Sur, is hereby conve
 
 ## Section 2
 
-The Department of Health shall issue the necessary rules and regulations for the effective implementation of this Act.1aшphi1
+The Department of Health shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ The branch of the Lapak Agricultural High School at Tarawakan in the Municipalit
 
 ## Section 2
 
-The Sulu National Regional Agricultural School shall be headed by a Superintendent of Agricultural Instruction and shall be under the direct supervision of the Bureau of Public Schools.1awp++i1 The Secretary of Education is hereby authorized to organize the said school within sixty days after approval of this Act.
+The Sulu National Regional Agricultural School shall be headed by a Superintendent of Agricultural Instruction and shall be under the direct supervision of the Bureau of Public Schools. The Secretary of Education is hereby authorized to organize the said school within sixty days after approval of this Act.
 
 ## Section 3
 

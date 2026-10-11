@@ -29,7 +29,7 @@ The Tukuran Technical-Vocationa High School - Baclay Extension in Barangay Bacla
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Tukuran Technical-Vocational High School - Baclay Extension are hereby transferred to and absorbed by the Baclay National High School.£A⩊phi£
+All personnel, assets, liabilities and records of the Tukuran Technical-Vocational High School - Baclay Extension are hereby transferred to and absorbed by the Baclay National High School.
 
 ## Section 3
 

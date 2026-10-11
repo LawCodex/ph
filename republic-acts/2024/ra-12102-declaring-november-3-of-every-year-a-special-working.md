@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-November 3 of every year is hereby declared a special working holiday in the Municipality of Kalibo, Province of Aklan, to be known as the "Kalibo Foundation Day". Upon proclamation of the President, November 3 of every year shall be a special non-working holiday in the Municipality of Kalibo, Province of Aklan.ℒαwρhi৷
+November 3 of every year is hereby declared a special working holiday in the Municipality of Kalibo, Province of Aklan, to be known as the "Kalibo Foundation Day". Upon proclamation of the President, November 3 of every year shall be a special non-working holiday in the Municipality of Kalibo, Province of Aklan.
 
 ## Section 2
 

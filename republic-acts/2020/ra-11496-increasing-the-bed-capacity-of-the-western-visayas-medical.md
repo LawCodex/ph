@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the WVMC are he
 
 ## Section 3
 
-The existing workforce of the WVMC shall also be correspondingly increased.ℒαwρhi৷ The Secretary of the Department of Health (DOH), in coordination with the Secretary of the Department of Budget and Management (DBM), the Commissioner of the Civil Service Commission (CSC) and the Chief of the WVMC, shall determine the additional plantilla positions to be created and filled up.
+The existing workforce of the WVMC shall also be correspondingly increased. The Secretary of the Department of Health (DOH), in coordination with the Secretary of the Department of Budget and Management (DBM), the Commissioner of the Civil Service Commission (CSC) and the Chief of the WVMC, shall determine the additional plantilla positions to be created and filled up.
 
 ## Section 4
 

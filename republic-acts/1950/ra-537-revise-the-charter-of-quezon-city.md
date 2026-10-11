@@ -517,7 +517,7 @@ e. Machinery, which term shall embrace machines, mechanical contrivances, instru
 
 f. The provisions hereof notwithstanding, depreciation allowance shall be made for machinery mentioned
 
-g. equivalent to an amount not exceeding ten per cent of its value for each year of use.⚖ - ℒαɯρhi৷
+g. equivalent to an amount not exceeding ten per cent of its value for each year of use.
 
 ### Section 48
 

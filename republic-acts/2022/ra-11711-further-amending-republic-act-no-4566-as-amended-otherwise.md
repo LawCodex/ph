@@ -73,7 +73,7 @@ Section 40 of Republic Act No. 4566, as amended, is hereby amended to read as fo
 
 “Section 38. Renewal. A license issued pursuant to the provisions of this Act shall be valid for one (1) year from the date of its issuance. The renewal fee shall be Five thousand pesos (P5,000.00), pursuant to Section 37 of this Act.
 
-“In case the contractor has been in operation in good standing for twenty-five (25) years or more, it may renew its license every three (3) years.ℒαwρhi৷ If it has been in operation in good standing for ten (10) years but not more than twenty-five (25) years, it may renew its license every two (2) years. If it has been in operation in good standing for less than ten (10) years, it shall renew its license every year.
+“In case the contractor has been in operation in good standing for twenty-five (25) years or more, it may renew its license every three (3) years. If it has been in operation in good standing for ten (10) years but not more than twenty-five (25) years, it may renew its license every two (2) years. If it has been in operation in good standing for less than ten (10) years, it shall renew its license every year.
 
 “Applications and all other requirements for license renewal may be filed with the Board or its designated agencies, either in person or online, not earlier than ninety (90) days but not later than thirty (30) days before the expiration of the license.”
 

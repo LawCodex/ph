@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, is hereby changed to San Antonio.1âшphi1
+The name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, is hereby changed to San Antonio.
 
 ## Section 2
 

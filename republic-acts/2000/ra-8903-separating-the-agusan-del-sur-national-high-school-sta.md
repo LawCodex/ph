@@ -31,7 +31,7 @@ The Agusan del Sur National High School -Sta. Irene Extension in Barangay Sta. I
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.ℒαwρhi৷
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

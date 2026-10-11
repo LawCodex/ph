@@ -23,7 +23,7 @@ ISANG BATAS NA BUMABAGO SA PAMBAYANG PAGAMUTAN SA BAYAN NG NAMPICUAN, LALAWIGAN 
 
 Dapat pagtibayin ng Senado at ng Kapulungan ng mga Kinatawan ng Pilipinas na ngayon at nagpupulong:
 
-**SEKSYON 1.** Ang pambayang pagamutan sa Bayan ng Nampicuan, Lalawigan ng Nweba Esiha, ay binabago sa pamamagitan ng Batas na ito na maging isang pangkalusugang tanggapan na may limang kama, na tatawaging Pangkalusugang Tanggapan ng Nampicuan.1âшphi1
+**SEKSYON 1.** Ang pambayang pagamutan sa Bayan ng Nampicuan, Lalawigan ng Nweba Esiha, ay binabago sa pamamagitan ng Batas na ito na maging isang pangkalusugang tanggapan na may limang kama, na tatawaging Pangkalusugang Tanggapan ng Nampicuan.
 
 **SEKSYON 2.** Ang halagang kakailanganin upang ipatupad ang mga probisyon ng Batas na ito ay isasama sa Batas ng Pangkalahatang Gugulin sa susunod na taon matapos pagtibayin ang Batas na ito at sa iba pang sumusunod na taon pagkaraan nito.
 

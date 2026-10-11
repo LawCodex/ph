@@ -29,7 +29,7 @@ Subject to the provisions of the Constitution and to the terms and conditions es
 
 ## Section 2
 
-In the event that the National Power Corporation shall have established its lines in the areas adjacent to or over the territory covered by this franchise, the National Power Corporation may make available its power and heat only after negotiation with and through the Ilocos Norte Electric Company, or with the authority and consent of the grantee.1âшphi1 The National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates as approved by the Public Service Commission subject to the exception in the next preceding paragraph.
+In the event that the National Power Corporation shall have established its lines in the areas adjacent to or over the territory covered by this franchise, the National Power Corporation may make available its power and heat only after negotiation with and through the Ilocos Norte Electric Company, or with the authority and consent of the grantee. The National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates as approved by the Public Service Commission subject to the exception in the next preceding paragraph.
 
 ## Section 3
 

@@ -177,7 +177,7 @@ _Payment for the Implementation of Urgent Projects. –_ The sum of twenty-two b
 <tr>
 <td>23.</td>
 <td>National Housing Authority</td>
-<td>Implementation of the North Triangle Relocation Project</td><cite>1âwphi1</cite>
+<td>Implementation of the North Triangle Relocation Project</td>
 <td>286,702,000</td>
 </tr>
 <tr>

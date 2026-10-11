@@ -28,7 +28,7 @@ The Barangay Caputatan in the Municipality of Maragondon, Province of Cavite, is
 
 ## Section 2
 
-The Department of Local Government and Community Development, through the Provincial Board of Cavite, and the Municipal Council of Maragondon, Provincial of Cavite, is hereby directed to carry out the purpose of this act.1âшphi1
+The Department of Local Government and Community Development, through the Provincial Board of Cavite, and the Municipal Council of Maragondon, Provincial of Cavite, is hereby directed to carry out the purpose of this act.
 
 ## Section 3
 

@@ -29,7 +29,7 @@ November five of every year is hereby declared a special non-working holiday in 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

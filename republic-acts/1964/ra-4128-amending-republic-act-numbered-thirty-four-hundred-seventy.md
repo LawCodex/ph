@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section one of Republic Act Numbered Thirty-four hundred seventy-eight is hereby amended to read as follows:
 
-"Sec. 1. The sum of ten million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to all provinces, municipalities, and cities, except the City of Manila and Quezon City, in the maintenance of public high schools for the fiscal year nineteen hundred sixty-three.1âшphi1 Thereafter, the necessary funds needed for the same purpose shall be included in the General Appropriations Act."
+"Sec. 1. The sum of ten million pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to all provinces, municipalities, and cities, except the City of Manila and Quezon City, in the maintenance of public high schools for the fiscal year nineteen hundred sixty-three. Thereafter, the necessary funds needed for the same purpose shall be included in the General Appropriations Act."
 
 ## Section 2
 

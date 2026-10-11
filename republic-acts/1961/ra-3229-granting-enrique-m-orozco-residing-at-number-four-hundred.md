@@ -60,7 +60,7 @@ As a condition of the granting of this temporary permit the grantee shall execut
 
 ## Section 10
 
-Acceptance of this temporary permit shall be given in writing within six months after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.1avvphi1
+Acceptance of this temporary permit shall be given in writing within six months after approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.
 
 ## Section 11
 
@@ -68,7 +68,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 12
 
-This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

@@ -53,7 +53,7 @@ Republic Act No. 9419, entitled "An Act Increasing the Bed Capacity of the Amang
 
 ## Section 8
 
-This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

@@ -38,6 +38,6 @@ The Commission on Elections is hereby authorized to pay out of the funds appropr
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

@@ -69,7 +69,7 @@ b. _Term of Office_ \- The presidents of the faculty and alumni associations and
 
 The prominent citizens shall serve for a term of two (2) years.
 
-c. _Meetings; Quorum_ \- The Board of Trustees shall regularly convene at least once every quarter.Ꮮαwρhi৷ The chairman of the Board of Trustees may call a special meeting whenever necessary: _Provided,_ that members are notified in writing at least three (3) days prior to said meeting.
+c. _Meetings; Quorum_ \- The Board of Trustees shall regularly convene at least once every quarter. The chairman of the Board of Trustees may call a special meeting whenever necessary: _Provided,_ that members are notified in writing at least three (3) days prior to said meeting.
 
 A majority of all members holding office shall constitute a quorum for board meetings: Provided that the chairman of the CHED who is the chairman of the Board or the president of the College is among those present in the meeting. In the absence of the chairman of the CHED, a commissioner of the CHED, duly designated by him, shall represent him in the meeting with all the rights and responsibilities of a regular member: _Provided, however,_ That in the said meeting, the president of the College as vice chairman shall be the presiding officer: _Provided, further,_ That this proviso notwithstanding, the chairman of the CHED is hereby authorized to designate a CHED commissioner the regular chair to the Board of the College, in which case said CHED commissioner shall act as the presiding officer. The members shall serve without compensation, but they shall be reimbursed for necessary expenses incurred in their attendance of meetings of the Board or in connection with their official business authorized by resolution of the Board.
 

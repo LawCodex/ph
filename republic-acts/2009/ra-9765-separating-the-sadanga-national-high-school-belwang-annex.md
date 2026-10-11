@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ \- The Sadanga National
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Sadanga National High School - Belwang Annex are hereby transferred to and absorbed by the Belwang National High School.lawphil
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the Sadanga National High School - Belwang Annex are hereby transferred to and absorbed by the Belwang National High School.
 
 ## Section 3
 

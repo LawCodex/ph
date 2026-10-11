@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Simbahan and Dinalongan and Sitios Abuleg, Bungo, Balante and Nipoo are hereby separated from the Municipality of Casiguran, Province of Quezon, and converted into a distinct and independent municipal district to be known as the Municipal District of Dinalongan, same province.1avvphi1 The seat of the said municipal district shall be Barrio Dinalongan.
+Barrios Simbahan and Dinalongan and Sitios Abuleg, Bungo, Balante and Nipoo are hereby separated from the Municipality of Casiguran, Province of Quezon, and converted into a distinct and independent municipal district to be known as the Municipal District of Dinalongan, same province. The seat of the said municipal district shall be Barrio Dinalongan.
 
 The Municipal District of Dinalongan shall be bounded on the North by the Dinalongan River; on the South, by the Dinadiawan Creek; on the West, by the provincial boundary between the Province of Quezon and the Province of Nueva Vizcaya; and on the East, by the Casiguran Sound.
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Mindanao Central Sanitarium located in Pasobolong, Zamboanga City is hereby upgraded into a tertiary level hospital and its authorized bed capacity for general care services increased from fifty (50) to two hundred (200) beds.1âшphi1 The increase in the bed capacity shall be implemented consistent with the development plan of the hospital.
+The Mindanao Central Sanitarium located in Pasobolong, Zamboanga City is hereby upgraded into a tertiary level hospital and its authorized bed capacity for general care services increased from fifty (50) to two hundred (200) beds. The increase in the bed capacity shall be implemented consistent with the development plan of the hospital.
 
 ## Section 2
 

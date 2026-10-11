@@ -1266,7 +1266,7 @@ _Suspension of Increase in Rates of Local Taxes._ \- No increase in the rates of
 
 ### Section 69
 
-_Legislative District._ \- Until otherwise provided by law, the City of Carmona shall continue to be part of the Fifth Legislative District of the Province of Cavite.1a⍵⍴h!1
+_Legislative District._ \- Until otherwise provided by law, the City of Carmona shall continue to be part of the Fifth Legislative District of the Province of Cavite.
 
 ### Section 70
 

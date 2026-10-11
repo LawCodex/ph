@@ -37,7 +37,7 @@ The Secretary of Transportation shall immediately include in the D epartment’s
 
 ## Section 3
 
-The Secretary of Transportation shall issue the necessary rules and regulations for the effective implementation of this Act.1âwphi1
+The Secretary of Transportation shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 4
 

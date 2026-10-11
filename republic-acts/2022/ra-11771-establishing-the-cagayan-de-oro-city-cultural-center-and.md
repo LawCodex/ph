@@ -64,7 +64,7 @@ The City Government of Cagayan de Oro shall provide the land necessary for the c
 
 ## Section 5
 
-The amount necessary for the implementation of this Act shall be charged against the current year's budget of the NCCA (Proper).ℒαwρhi৷ Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+The amount necessary for the implementation of this Act shall be charged against the current year's budget of the NCCA (Proper). Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

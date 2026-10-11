@@ -32,7 +32,7 @@ The sum of one hundred thousand pesos for its conversion, operation and maintena
 
 ## Section 3
 
-Upon the approval of this Act the Province of Camarines Sur shall at once transfer to the National Government, free of charge, the present school site, buildings, machineries, hand-tools, books, materials, shop equipment, etc., belonging to the Camarines Sur Trade School.1aшphi1
+Upon the approval of this Act the Province of Camarines Sur shall at once transfer to the National Government, free of charge, the present school site, buildings, machineries, hand-tools, books, materials, shop equipment, etc., belonging to the Camarines Sur Trade School.
 
 ## Section 4
 

@@ -324,7 +324,7 @@ Containing an area of 1,306,137.1468 square meters, mroe or less."
 
 "Bounded on the Northwest (NW), pts. 1 too 3, by centerline of Lapu-Lapu Avenue;
 
-On the Northweast (NE), pts.1âwphi1 3 to 5, by centerline of Navotas River (Dagat-Dagatan River);
+On the Northweast (NE), pts. 3 to 5, by centerline of Navotas River (Dagat-Dagatan River);
 
 On the Northeast (NE) and Southeast (SE), pts. 5 to 19, by centerline of Estero de Muralla; and
 
@@ -590,7 +590,7 @@ The technical description of Barangay NBBS Kaunlaran is as follows:
 <td>42</td>
 <td>E</td>
 <td>65.116</td>
-</tr><cite>1âwphi1</cite>
+</tr>
 <tr>
 <td>28</td>
 <td>29</td>

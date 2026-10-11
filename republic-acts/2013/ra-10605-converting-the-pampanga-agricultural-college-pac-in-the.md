@@ -252,7 +252,7 @@ The following are the operational requirements for a university:
 
 (e) Relevant linkages and outreach programs that are of service to the community; and
 
-(f) Relevant academic policies, systems and processes.1âwphi1
+(f) Relevant academic policies, systems and processes.
 
 The institution shall retain its status prior to the effectivity of this Act, unless in the meantime it is able to comply with the requirements provided herein, within a period not exceeding January 1, 2016.
 

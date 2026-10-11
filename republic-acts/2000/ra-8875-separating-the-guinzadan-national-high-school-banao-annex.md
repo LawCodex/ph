@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Guinzadan National High School - Banao Annex in Barangay Banao, Municipality of Bauko, Mountain Province is hereby separated from the Guinzadan National High School in the Municipality of Bauko, Mountain Province and converted into an independent national high school to be known as the Banao National High School.ℒαwρhi৷
+The Guinzadan National High School - Banao Annex in Barangay Banao, Municipality of Bauko, Mountain Province is hereby separated from the Guinzadan National High School in the Municipality of Bauko, Mountain Province and converted into an independent national high school to be known as the Banao National High School.
 
 ## Section 2
 

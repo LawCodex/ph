@@ -25,11 +25,17 @@ AN ACT CREATING THE ABOT-KAYA PABAHAY FUND, OTHERWISE KNOWN AS THE SOCIAL HOUSIN
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the Abot–Kaya Pabahay Fund, otherwise known as the Social Housing Support Fund Act.
+## Section 1
 
-**Section 2._Policy._** – It is hereby declared as the policy of the Government to promote the national shelter program and to implement a continuing program of social housing that shall make available to low–income families affordable houses and/or lots equitably distributed in the fourteen (14) regions of the country by establishing a financial support system that shall encourage the active participation of the private sector.
+_Title._ – This Act shall be known as the Abot–Kaya Pabahay Fund, otherwise known as the Social Housing Support Fund Act.
 
-**Section 3._Fund System._** – To carry out the purpose of this Act, there is hereby created the Abot–Kaya Pabahay Fund, hereafter referred to as the Fund, in the amount of Two billion and five hundred million pesos (P2,500,000,000.00) to be constituted over a period of five (5) years through a continuing yearly appropriation of Five hundred million pesos (P500,000,000.00) from the National Government.
+## Section 2
+
+_Policy._ – It is hereby declared as the policy of the Government to promote the national shelter program and to implement a continuing program of social housing that shall make available to low–income families affordable houses and/or lots equitably distributed in the fourteen (14) regions of the country by establishing a financial support system that shall encourage the active participation of the private sector.
+
+## Section 3
+
+_Fund System._ – To carry out the purpose of this Act, there is hereby created the Abot–Kaya Pabahay Fund, hereafter referred to as the Fund, in the amount of Two billion and five hundred million pesos (P2,500,000,000.00) to be constituted over a period of five (5) years through a continuing yearly appropriation of Five hundred million pesos (P500,000,000.00) from the National Government.
 
 This Fund shall be used exclusively for the objectives of enhancing affordability of low–cost housing by low–income families, providing developmental financing for low–cost housing projects, and eliminating risks for the funding agencies involved in housing, namely: Social Security System (SSS), the Government Service Insurance System (GSIS) and the Home Development Mutual Fund (HDMF).
 
@@ -80,7 +86,9 @@ At least fifteen percent (15) and not more than twenty percent (20%) of the year
 
 Forty percent (40%) of the yearly appropriation for the Fund shall be for the cash flow guarantee.
 
-**Section 4._Corporate Powers._** – (a) National Home Mortgage and Finance Corporation (NHMFC).n addition to its powers and functions vested under Presidential Decree No. 1267, the National Home Mortgage and Finance Corporation, hereinafter referred to as the NHMFC, shall establish the amortization support and developmental financing systems in accordance with subsections (a) and (b) of Section 3 hereof, exercise administration and control over the fund allotted for amortization support and developmental financing, and act as trustee thereof.
+## Section 4
+
+_Corporate Powers._ – (a) National Home Mortgage and Finance Corporation (NHMFC).n addition to its powers and functions vested under Presidential Decree No. 1267, the National Home Mortgage and Finance Corporation, hereinafter referred to as the NHMFC, shall establish the amortization support and developmental financing systems in accordance with subsections (a) and (b) of Section 3 hereof, exercise administration and control over the fund allotted for amortization support and developmental financing, and act as trustee thereof.
 
 (b) Home Insurance and Guaranty Corporation (HIGC). – In addition to its powers and duties vested under Executive Order No. 535, as amended, the Home Insurance and Guaranty Corporation, hereinafter referred to as the HIGC, shall establish the cash flow guarantee system in accordance with subsection (c) of Section 3 hereof, exercise administration and control over the fund allotted for cash flow guarantee, and act as trustee thereof.
 
@@ -104,7 +112,9 @@ Forty percent (40%) of the yearly appropriation for the Fund shall be for the ca
 
 (9) To exercise such powers and perform such acts as may be necessary, useful, incidental or auxiliary to carry out the provisions of this Act.
 
-**Section 5._Powers and Duties._** – The management of the NHMFC and the HIGC shall have the following powers and duties relative to the Fund:
+## Section 5
+
+_Powers and Duties._ – The management of the NHMFC and the HIGC shall have the following powers and duties relative to the Fund:
 
 (a) To formulate policies, rules and regulations to carry out effectively the purpose of the Fund under this Act and to publish such policies, rules and regulations in Filipino and English at least once in a newspaper of general circulation.
 
@@ -116,22 +126,38 @@ Forty percent (40%) of the yearly appropriation for the Fund shall be for the ca
 
 (e) To exercise such other duties as may be necessary to carry out the corporate powers under Section 4 hereof and accomplish the purposes for which the Fund is established.
 
-**Section 6._Investments._** – Without prejudice to its primary purpose, all moneys of the Fund not needed to meet current amortizations support, developmental financing, cash flow guarantees, administrative and other operational requirements shall be invested in government securities and/or deposited in government banks to ensure its liquidity, safety and growth.
+## Section 6
 
-**Section 7._Administrative Cost._** – The Fund shall bear the costs of its administration and development in such amounts and/or limits as the administering agencies shall deem appropriate, but not exceeding one percent (1%) of the Fund assets of the previous year. Expenses for organization and initial operations shall be provided by the administering agencies as advances, subject to reimbursement.
+_Investments._ – Without prejudice to its primary purpose, all moneys of the Fund not needed to meet current amortizations support, developmental financing, cash flow guarantees, administrative and other operational requirements shall be invested in government securities and/or deposited in government banks to ensure its liquidity, safety and growth.
+
+## Section 7
+
+_Administrative Cost._ – The Fund shall bear the costs of its administration and development in such amounts and/or limits as the administering agencies shall deem appropriate, but not exceeding one percent (1%) of the Fund assets of the previous year. Expenses for organization and initial operations shall be provided by the administering agencies as advances, subject to reimbursement.
 
 All appropriations under this Act shall be released quarterly in four (4) equal installments to the administering agencies in accordance with the allotment of the Fund under Section 3 hereof.
 
-**Section 8._Appropriations._** – The amount needed to implement this Act shall be included in the General Appropriations Bill next submitted following its approval.
+## Section 8
 
-**Section 9._Audit._** – The Chairman of the Commission on Audit shall act as the auditor of the Fund and, accordingly, is empowered to appoint a representative and other subordinate personnel to perform and report on such audit duties, responsible to and removable only by the chairman of the Commission on Audit.
+_Appropriations._ – The amount needed to implement this Act shall be included in the General Appropriations Bill next submitted following its approval.
 
-**Section 10._Reports._** – In addition to the annual report provided for under paragraph 2, subsection (c), of Section 4 hereof, the administering agencies are hereby mandated to submit quarterly detailed reports of its operations and performance to the Congress of the Philippines, including a list of beneficiaries.
+## Section 9
 
-**Section 11._Fund Supervision._** – Particular aspects of the Fund's administration may be subject to supervision, visitation or verification by appropriate agencies of the Government as may be designated and authorized by the President of the Philippines or the Congress of the Philippines.
+_Audit._ – The Chairman of the Commission on Audit shall act as the auditor of the Fund and, accordingly, is empowered to appoint a representative and other subordinate personnel to perform and report on such audit duties, responsible to and removable only by the chairman of the Commission on Audit.
 
-**Section 12._Repealing Clause._** – Any provision of law, decree, executive order, rule and regulation in conflict or inconsistent with the provisions and/or purposes of this Act is accordingly repealed, amended or modified.
+## Section 10
 
-**Section 13._Effectivity._** – This Act shall take effect upon its approval and publication in at least two (2) national newspapers of general circulation.
+_Reports._ – In addition to the annual report provided for under paragraph 2, subsection (c), of Section 4 hereof, the administering agencies are hereby mandated to submit quarterly detailed reports of its operations and performance to the Congress of the Philippines, including a list of beneficiaries.
+
+## Section 11
+
+_Fund Supervision._ – Particular aspects of the Fund's administration may be subject to supervision, visitation or verification by appropriate agencies of the Government as may be designated and authorized by the President of the Philippines or the Congress of the Philippines.
+
+## Section 12
+
+_Repealing Clause._ – Any provision of law, decree, executive order, rule and regulation in conflict or inconsistent with the provisions and/or purposes of this Act is accordingly repealed, amended or modified.
+
+## Section 13
+
+_Effectivity._ – This Act shall take effect upon its approval and publication in at least two (2) national newspapers of general circulation.
 
 Approved: **January 24, 1990**.

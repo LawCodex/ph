@@ -105,7 +105,7 @@ Any provision of law, rule or regulation to the contrary notwithstanding, no off
 
 ## Section 8
 
-In addition to the appropriations authorized in the current General Appropriations Act for the Judiciary Division and the Courts of First Instance, such sums as may be necessary to carry out the purposes of this Act, are hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, and thereafter the appropriation for the salary of the officials and employees of the Judiciary Division, as well as for its equipment, supplies and traveling expenses, shall be included in the annual General Appropriations Act: _Provided, however,_ That the salary differentials resulting from the adjustment of salaries as provided in this Act shall be paid out of the unexpended appropriations authorized for the Judiciary Division and the Courts of First Instance.1âшphi1
+In addition to the appropriations authorized in the current General Appropriations Act for the Judiciary Division and the Courts of First Instance, such sums as may be necessary to carry out the purposes of this Act, are hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, and thereafter the appropriation for the salary of the officials and employees of the Judiciary Division, as well as for its equipment, supplies and traveling expenses, shall be included in the annual General Appropriations Act: _Provided, however,_ That the salary differentials resulting from the adjustment of salaries as provided in this Act shall be paid out of the unexpended appropriations authorized for the Judiciary Division and the Courts of First Instance.
 
 ## Section 9
 

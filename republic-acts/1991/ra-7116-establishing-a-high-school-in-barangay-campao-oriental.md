@@ -33,7 +33,7 @@ The Secretary of the Department of Education, Culture and Sports shall issue suc
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.1âшphi1
+The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 4
 

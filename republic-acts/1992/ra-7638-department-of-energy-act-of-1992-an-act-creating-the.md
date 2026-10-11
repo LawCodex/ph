@@ -27,17 +27,27 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-**Section 1._Short Title._** – This Act shall be known as the **"_Department of Energy Act of 1992._ "**
+### Section 1
 
-**Section 2._Declaration of Policy._** – It is hereby declared the policy of the State: (a) to ensure a continuous, adequate, and economic supply of energy with the end in view of ultimately achieving self-reliance in the country’s energy requirements through the integrated and intensive exploration, production, management, and development of the country’s indigenous energy resources, and through the judicious conservation, renewal and efficient utilization of energy to keep pace with the country’s growth and economic development and taking into consideration the active participation of the private sector in the various areas of energy resource development; and (b) to rationalize, integrate, and coordinate the various programs of the Government towards self-sufficiency and enhanced productivity in power and energy without sacrificing ecological concerns.
+_Short Title._ – This Act shall be known as the **"_Department of Energy Act of 1992._ "**
 
-**Section 3._Definition of Terms._** – (a) "Energy projects" shall mean activities or projects relative to the exploration, extraction, production, importation-exportation, processing, transportation, marketing, distribution, utilization, conservation, stockpiling, or storage of all forms of energy products and resources.
+### Section 2
+
+_Declaration of Policy._ – It is hereby declared the policy of the State: (a) to ensure a continuous, adequate, and economic supply of energy with the end in view of ultimately achieving self-reliance in the country’s energy requirements through the integrated and intensive exploration, production, management, and development of the country’s indigenous energy resources, and through the judicious conservation, renewal and efficient utilization of energy to keep pace with the country’s growth and economic development and taking into consideration the active participation of the private sector in the various areas of energy resource development; and (b) to rationalize, integrate, and coordinate the various programs of the Government towards self-sufficiency and enhanced productivity in power and energy without sacrificing ecological concerns.
+
+### Section 3
+
+_Definition of Terms._ – (a) "Energy projects" shall mean activities or projects relative to the exploration, extraction, production, importation-exportation, processing, transportation, marketing, distribution, utilization, conservation, stockpiling, or storage of all forms of energy products and resources.
 
 (b) "Board" shall mean the Energy Regulatory Board.
 
-**Section 4._Department of Energy._** – To carry out the above-declared policy, there is hereby created the Department of Energy, hereinafter referred to as the Department, which shall prepare, integrate, coordinate, supervise, and control all plans, programs, projects, and activities of the Government relative to energy exploration, development, utilization, distribution, and conservation.
+### Section 4
 
-**Section 5._Powers and Functions._** – The Department shall have the following powers and functions:
+_Department of Energy._ – To carry out the above-declared policy, there is hereby created the Department of Energy, hereinafter referred to as the Department, which shall prepare, integrate, coordinate, supervise, and control all plans, programs, projects, and activities of the Government relative to energy exploration, development, utilization, distribution, and conservation.
+
+### Section 5
+
+_Powers and Functions._ – The Department shall have the following powers and functions:
 
 (a) Formulate policies for the planning and implementation of a comprehensive program for the efficient supply and economical use of energy consistent with the approved national economic plan and with the policies on environmental protection and conservation and maintenance of ecological balance, and provide a mechanism for the integration, rationalization, and coordination of the various energy programs of the Government;
 
@@ -67,11 +77,17 @@ At the end of four (4) years from the effectivity of this Act, the Department sh
 
 ## CHAPTER II — THE DEPARTMENT PROPER
 
-**Section 6._Composition._** – The Department Proper shall be composed of the Office of the Secretary and the Offices of the Undersecretaries and Assistant Secretaries, and the bureaus and services of the Department.
+### Section 6
 
-**Section 7._Office of the Secretary._** – The Office of the Secretary shall consist of the Secretary and his immediate staff.
+_Composition._ – The Department Proper shall be composed of the Office of the Secretary and the Offices of the Undersecretaries and Assistant Secretaries, and the bureaus and services of the Department.
 
-**Section 8._The Secretary._** – The Secretary shall be appointed by the President, subject to confirmation by the Commission on Appointments.
+### Section 7
+
+_Office of the Secretary._ – The Office of the Secretary shall consist of the Secretary and his immediate staff.
+
+### Section 8
+
+_The Secretary._ – The Secretary shall be appointed by the President, subject to confirmation by the Commission on Appointments.
 
 No officer, external auditor, accountant, or legal counsel of any private company or enterprises primarily engaged in the energy industry shall be eligible for appointment as Secretary within two (2) years from his retirement, resignation, or separation therefrom.
 
@@ -93,15 +109,23 @@ The Secretary shall be an _ex officio_ member of the Board of the National Econo
 
 The Secretary shall also be a member of the body authorized to formulate, prescribe, or amend the necessary guidelines for the financing, construction, operation, and maintenance of the infrastructure projects by the private sector, under Republic Act No. 6957, otherwise known as the Build-Operate-Transfer Law.
 
-**Section 9._The Undersecretaries._** – The Secretary shall be assisted by three (3) Undersecretaries who shall be appointed by the President upon the recommendation of the Secretary. They shall have the powers and functions as provided for in Section 10, Chapter 2, Book IV of the Administrative Code of 1987.
+### Section 9
+
+_The Undersecretaries._ – The Secretary shall be assisted by three (3) Undersecretaries who shall be appointed by the President upon the recommendation of the Secretary. They shall have the powers and functions as provided for in Section 10, Chapter 2, Book IV of the Administrative Code of 1987.
 
 The Office of the Undersecretaries shall consist of the Undersecretaries and their respective immediate staff.
 
-**Section 10._Assistant Secretaries._** – The Secretary shall also be assisted by three (3) Assistant Secretaries, one (1) for operations, one (1) for policy and programs, and another for administrative services. The Assistant Secretaries shall be appointed by the President upon the recommendation of the Secretary.
+### Section 10
 
-**Section 11._Qualifications._** – No person shall be appointed Secretary, Undersecretary, or Assistant Secretary of the Department unless he is a citizen and resident of the Philippines, of good moral character, and of proven competence in any of the following fields: (a) energy or utility economics; (b) public administration; (c) physical or engineering sciences; (d) management; or (e) law.
+_Assistant Secretaries._ – The Secretary shall also be assisted by three (3) Assistant Secretaries, one (1) for operations, one (1) for policy and programs, and another for administrative services. The Assistant Secretaries shall be appointed by the President upon the recommendation of the Secretary.
 
-**Section 12._Bureaus and Services._** – Subject to the power of the Secretary, with the approval of the President, to reorganize, restructure, and redefine the functions of the bureaus and services for the effective discharge of the powers and functions of the Department under this Act, the Department shall have the following bureaus and services: Energy Resource Development Bureau; Energy Utilization Management Bureau; Energy Industry Administration Bureau; Energy Planning and Monitoring Bureau; and Administrative Support Services.
+### Section 11
+
+_Qualifications._ – No person shall be appointed Secretary, Undersecretary, or Assistant Secretary of the Department unless he is a citizen and resident of the Philippines, of good moral character, and of proven competence in any of the following fields: (a) energy or utility economics; (b) public administration; (c) physical or engineering sciences; (d) management; or (e) law.
+
+### Section 12
+
+_Bureaus and Services._ – Subject to the power of the Secretary, with the approval of the President, to reorganize, restructure, and redefine the functions of the bureaus and services for the effective discharge of the powers and functions of the Department under this Act, the Department shall have the following bureaus and services: Energy Resource Development Bureau; Energy Utilization Management Bureau; Energy Industry Administration Bureau; Energy Planning and Monitoring Bureau; and Administrative Support Services.
 
 The bureaus and services shall have the following powers and functions:
 
@@ -161,21 +185,29 @@ The Financial and Management Services, which shall consist of the Human Resource
 
 ## CHAPTER III — ATTACHED AGENCIES AND CORPORATIONS
 
-**Section 13._Attached Agencies and Corporations._** – The Philippine National Oil Company (PNOC), the National Power Corporation (NPC), and the National Electrification Administration (NEA) are hereby placed under the supervision of the Department, but shall continue to perform their respective functions insofar as they are not inconsistent with this Act. Their annual budget shall be submitted to Congress for approval. The Secretary shall, in a concurrent capacity, be the _ex officio_ chairman of the respective boards of the PNOC, NPC, and NEA, unless otherwise directed by the President: _Provided,_ That in no case shall the Secretary be the chief executive officer or chief operating officer of the said agencies or their subsidiaries, any law to the contrary notwithstanding.
+### Section 13
+
+_Attached Agencies and Corporations._ – The Philippine National Oil Company (PNOC), the National Power Corporation (NPC), and the National Electrification Administration (NEA) are hereby placed under the supervision of the Department, but shall continue to perform their respective functions insofar as they are not inconsistent with this Act. Their annual budget shall be submitted to Congress for approval. The Secretary shall, in a concurrent capacity, be the _ex officio_ chairman of the respective boards of the PNOC, NPC, and NEA, unless otherwise directed by the President: _Provided,_ That in no case shall the Secretary be the chief executive officer or chief operating officer of the said agencies or their subsidiaries, any law to the contrary notwithstanding.
 
 To this end, Section 6, paragraph (3) of Presidential Decree No. 927 and Section 8 of Presidential Decree No. 334, providing that the Chairman of the PNOC shall be the president and chief executive officer thereof, are accordingly repealed.
 
 The Secretary may recommend to the President the reorganization of the boards of directors of the PNOC, NPC, and NEA.
 
-**Section 14._Council of Energy Advisers._** – A council of advisers on energy affairs consisting of five (5) members and appointed from the industry, labor, and consumer sectors shall advise the President on the overall energy program, especially on private sector initiatives and proposals.
+### Section 14
+
+_Council of Energy Advisers._ – A council of advisers on energy affairs consisting of five (5) members and appointed from the industry, labor, and consumer sectors shall advise the President on the overall energy program, especially on private sector initiatives and proposals.
 
 The President shall convene the council within thirty (30) days upon approval of this Act.
 
 ## CHAPTER IV — TRANSITORY PROVISIONS
 
-**Section 15._Abolition of Agencies._** – The Office of Energy Affairs and the Energy Coordinating Council are hereby abolished subject to Section 17 of this Act.
+### Section 15
 
-**Section 16._Transfer of Powers and Functions._** – The powers and functions of the Energy Coordinating Council and the Office of Energy Affairs are hereby transferred to the Department.
+_Abolition of Agencies._ – The Office of Energy Affairs and the Energy Coordinating Council are hereby abolished subject to Section 17 of this Act.
+
+### Section 16
+
+_Transfer of Powers and Functions._ – The powers and functions of the Energy Coordinating Council and the Office of Energy Affairs are hereby transferred to the Department.
 
 The foregoing transfer of powers and functions shall include all applicable funds and appropriations, records, equipment, property, and personnel as may be necessary.
 
@@ -189,50 +221,74 @@ As the successor-in-office of the Office of Energy Affairs, the Department shall
 
 (c) To disseminate information on implemented sub-projects through case studies and seminars/workshops so as to encourage replication by other industrial and commercial establishments.
 
-**Section 17._Transfer of Rights, Assets, and Liabilities._** – The Department shall, by virtue of this Act, be subrogated to all the rights and assume all the liabilities of the Office of Energy Affairs, the Energy Coordinating Council, and all other agencies, or government units whose functions and powers have been transferred to the Department, and all their funds, records, property, assets, equipment, and such personnel as necessary, including unexpended appropriations and/or allocations. All contracts and liabilities of said offices, agencies, and government units are hereby transferred to and assumed by the Department and shall be acted upon in accordance with the _Auditing Code_ and other pertinent laws, rules, and regulations: _Provided,_ That the officers and employees of said offices, agencies, and government units shall continue in a holdover capacity until such time as the new officers and employees of the Department shall have been duly appointed pursuant to the provisions of this Act.
+### Section 17
 
-**Section 18._Rationalization or Transfer of Functions of Attached or Related Agencies._** – The non-price regulatory jurisdiction, power and functions of the Energy Regulatory Board as provided for in Section 3 of Executive Order No. 172 are hereby transferred to the Department.
+_Transfer of Rights, Assets, and Liabilities._ – The Department shall, by virtue of this Act, be subrogated to all the rights and assume all the liabilities of the Office of Energy Affairs, the Energy Coordinating Council, and all other agencies, or government units whose functions and powers have been transferred to the Department, and all their funds, records, property, assets, equipment, and such personnel as necessary, including unexpended appropriations and/or allocations. All contracts and liabilities of said offices, agencies, and government units are hereby transferred to and assumed by the Department and shall be acted upon in accordance with the _Auditing Code_ and other pertinent laws, rules, and regulations: _Provided,_ That the officers and employees of said offices, agencies, and government units shall continue in a holdover capacity until such time as the new officers and employees of the Department shall have been duly appointed pursuant to the provisions of this Act.
+
+### Section 18
+
+_Rationalization or Transfer of Functions of Attached or Related Agencies._ – The non-price regulatory jurisdiction, power and functions of the Energy Regulatory Board as provided for in Section 3 of Executive Order No. 172 are hereby transferred to the Department.
 
 The foregoing transfer of power and functions shall include all applicable funds and appropriations, equipment, property, and such personnel as may be necessary: _Provided,_ That only each amount of funds and appropriations of the Board as well as only the personnel thereof which are completely or primarily involved in the exercise by said board of its non-price regulatory powers and functions shall be affected by such transfer.
 
 The power of the NPC to determine, fix and prescribe the rates being charged to its customers under Section 4 of Republic Act No. 6395, as amended, as well as the power of electric cooperatives to fix rates under Section 16 (o), Chapter II of Presidential Decree No. 269, as amended, are hereby transferred to the Energy Regulatory Board. The Board shall exercise its new powers only after due notice and hearing and under the same nature provided for under Executive Order No. 172.
 
-**Section 19._Structure and Staffing Pattern._** – The organizational framework and staffing pattern of the Department shall be prescribed and approved by the Secretary within sixty (60) days after the approval of this Act and the authorized positions created therein shall be filled by regular appointments by the President or the Secretary as the case may be: _Provided,_ That, in the filling of positions created, preference shall be given to the personnel of the Office of Energy Affairs, the Energy Coordinating Council, and the Energy Regulatory Board: _Provided, however,_ That if such individuals possess the same qualifications, seniority shall be given priority.
+### Section 19
 
-**Section 20._Separation from Service._** – Employees separated from the service as a result of this reorganization shall, within six (6) months from their separation from the service, receive the retirement benefits to which they may be entitled under existing laws, rules, and regulations.
+_Structure and Staffing Pattern._ – The organizational framework and staffing pattern of the Department shall be prescribed and approved by the Secretary within sixty (60) days after the approval of this Act and the authorized positions created therein shall be filled by regular appointments by the President or the Secretary as the case may be: _Provided,_ That, in the filling of positions created, preference shall be given to the personnel of the Office of Energy Affairs, the Energy Coordinating Council, and the Energy Regulatory Board: _Provided, however,_ That if such individuals possess the same qualifications, seniority shall be given priority.
+
+### Section 20
+
+_Separation from Service._ – Employees separated from the service as a result of this reorganization shall, within six (6) months from their separation from the service, receive the retirement benefits to which they may be entitled under existing laws, rules, and regulations.
 
 ## CHAPTER IV — APPROPRIATIONS
 
-**Section 21._Appropriations._** – Such sums as may be necessary for the implementation of this Act shall be taken from the current fiscal year appropriations of the Office of Energy Affairs, the Office of Energy Affairs’ special fund created under Section 8 of Presidential Decree No. 910, and such amounts as the President of the Philippines may allocate from other resources in accordance with law: _Provided,_ That the total amount shall not exceed Three hundred million pesos (P 300,000,000). Thereafter, the amount needed for the operation and maintenance of the Department shall be included in the annual General Appropriations Act.
+### Section 21
+
+_Appropriations._ – Such sums as may be necessary for the implementation of this Act shall be taken from the current fiscal year appropriations of the Office of Energy Affairs, the Office of Energy Affairs’ special fund created under Section 8 of Presidential Decree No. 910, and such amounts as the President of the Philippines may allocate from other resources in accordance with law: _Provided,_ That the total amount shall not exceed Three hundred million pesos (P 300,000,000). Thereafter, the amount needed for the operation and maintenance of the Department shall be included in the annual General Appropriations Act.
 
 Subject to existing rules and regulations, the funds and monies collected or which the otherwise come into the possession of the Department and its bureaus from fees, surcharges, fines, and penalties which the Department and its bureaus may impose and collect under this Act, as well as an amount to be determined at the beginning of every calendar year representing twenty percent (20%) of the outstanding balance of the funds and monies forming part of the special fund under Section 8 of Presidential Decree No. 910, shall be disbursed for expenses necessary for the effective discharge of the powers and functions of the Department under this Act.
 
 ## CHAPTER VI — MISCELLANEOUS PROVISIONS
 
-**Section 22._Disclosure and Divestment of Financial Interest._** – Before assumption of office, the Secretary of the Department, the Undersecretaries, and the Assistant Secretaries shall submit to the Civil Service Commission a list of all companies, partnerships, or business enterprises, including nonprofit organizations, in which he or any immediate member of their families within the second degree of consanguinity or affinity have any form of financial interests or employment relationship, including consultancy: _Provided, however,_ That all other forms of employment relationship held by the heads of the offices of the Department shall be immediately upon assumption of office.
+### Section 22
+
+_Disclosure and Divestment of Financial Interest._ – Before assumption of office, the Secretary of the Department, the Undersecretaries, and the Assistant Secretaries shall submit to the Civil Service Commission a list of all companies, partnerships, or business enterprises, including nonprofit organizations, in which he or any immediate member of their families within the second degree of consanguinity or affinity have any form of financial interests or employment relationship, including consultancy: _Provided, however,_ That all other forms of employment relationship held by the heads of the offices of the Department shall be immediately upon assumption of office.
 
 Within thirty (30) days thereafter, complete divestments of financial interests in any institution, firm, or company which fall under the supervisory or regulatory jurisdiction of the Department shall be made: _Provided, however,_ That in cases where confirmation of appointment by the Commission on Appointments is required, the divestment mandated herein shall be complied with within thirty (30) days after such confirmation.
 
 The divestment prescribed in the preceding paragraph shall likewise apply to the member of the immediate family within the second degree of consanguinity having interest in any institution or activity which falls under the regulatory jurisdiction or supervision of the Department and the attached agencies.
 
-**Section 23._Relationship with Other Government Departments._** – The Department and its priority projects shall enjoy preferential treatment to the exploration, development, exploitation, and extraction of petroleum, coal, and other geothermal resources, and in the matter of providing technical support necessary for the establishment of power-generating plants.
+### Section 23
+
+_Relationship with Other Government Departments._ – The Department and its priority projects shall enjoy preferential treatment to the exploration, development, exploitation, and extraction of petroleum, coal, and other geothermal resources, and in the matter of providing technical support necessary for the establishment of power-generating plants.
 
 Upon request of the Department or any of its bureaus, all government agencies with functions relative to the approval of the projects of the Department or its duly authorized and endorsed entities, whether government or private, shall act upon and resolve the matter within ten (10) calendar days. Toward this end, the Secretary, with the approval of the President, may establish an interagency secretariat for the purpose of expediting the approval of said projects.
 
-**Section 24._Visitorial Powers._** – The Secretary of the Department or his representative shall have visitorial and examining authority over nongovernment entities with contracts for the exploration, development, or utilization of the natural resources for energy purposes in order to determine the share of the Government in the revenue or product thereof, and to ascertain all funds collectible and products due the Government, and that all such funds collectible and products due the Government have actually been collected or delivered.
+### Section 24
+
+_Visitorial Powers._ – The Secretary of the Department or his representative shall have visitorial and examining authority over nongovernment entities with contracts for the exploration, development, or utilization of the natural resources for energy purposes in order to determine the share of the Government in the revenue or product thereof, and to ascertain all funds collectible and products due the Government, and that all such funds collectible and products due the Government have actually been collected or delivered.
 
 During such examination, the nongovernment entity concerned shall produce all the reports, records, books of accounts, and other papers that may be required.
 
 The refusal by any such nongovernment entity to allow an examination of its books of accounts and pertinent records or its concealment of any material information concerning its financial status shall be a breach of its contract with the Government and shall constitute a legal ground for the cancellation thereof.
 
-**Section 25._Contingency Powers._** – In time of critically low-energy supply or imminent danger thereof, the President may, upon the determination and recommendation of the Secretary, issue a declaration of the same. Thereafter, the Secretary is hereby authorized to implement the fuel and energy allocation plan provided in Section 12 (b) (5) of this Act, and to formulate other measures for the conservation of energy including, but not limited to, power or fuel rationing, load curtailments, and restrictions on the use of government vehicles and resources.
+### Section 25
 
-**Section 26._Repealing Clause._** – All laws, presidential decrees, executive orders, and rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Contingency Powers._ – In time of critically low-energy supply or imminent danger thereof, the President may, upon the determination and recommendation of the Secretary, issue a declaration of the same. Thereafter, the Secretary is hereby authorized to implement the fuel and energy allocation plan provided in Section 12 (b) (5) of this Act, and to formulate other measures for the conservation of energy including, but not limited to, power or fuel rationing, load curtailments, and restrictions on the use of government vehicles and resources.
+
+### Section 26
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders, and rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 However, in no case are the provisions of Republic Act No. 6969 repealed, amended, or modified by the provisions of this Act.
 
-**Section 27._Separability Clause._** – If, for any reason, any section or provision of this Act is held unconstitutional or invalid, the other sections or provisions hereof shall not be affected thereby.
+### Section 27
 
-**Section 28._Effectivity Clause._** – This Act shall take effect after its complete publication in at least two (2) national newspapers of general circulation.
+_Separability Clause._ – If, for any reason, any section or provision of this Act is held unconstitutional or invalid, the other sections or provisions hereof shall not be affected thereby.
 
-Approved: December 9, 1992lawphi1Ÿ
+### Section 28
+
+_Effectivity Clause._ – This Act shall take effect after its complete publication in at least two (2) national newspapers of general circulation.
+
+Approved: December 9, 1992

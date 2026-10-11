@@ -29,7 +29,7 @@ The name of the Alangalang Agro-Industrial School in Alangalang, Leyte, is hereb
 
 ## Section 2
 
-The College shall offer secondary course in agriculture, short-term technical or vocational courses, and higher technological and professional instruction and training in agricultural and industrial fields as may be authorized by the Department of Education, Culture and Sports.1âшphi1
+The College shall offer secondary course in agriculture, short-term technical or vocational courses, and higher technological and professional instruction and training in agricultural and industrial fields as may be authorized by the Department of Education, Culture and Sports.
 
 ## Section 3
 

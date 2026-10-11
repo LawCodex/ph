@@ -30,7 +30,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 In case of employment, without a definite period, in a commercial, industrial, or agricultural establishment or enterprise, neither the employer nor the employee shall terminate the employment without serving notice on the other at least one month in advance.
 
-The employee, upon no such notice was served, shall be entitled to one month’s compensation from the date of termination of his employment.£a⩊phi£
+The employee, upon no such notice was served, shall be entitled to one month’s compensation from the date of termination of his employment.
 
 ## Section 2
 

@@ -40,7 +40,7 @@ The Department of Tourism shall take immediate steps to implement said developme
 
 ## Section 4
 
-The Department of Tourism shall promulgate the necessary rules and regulations for the proper implementation of this Act.1aшphi1
+The Department of Tourism shall promulgate the necessary rules and regulations for the proper implementation of this Act.
 
 ## Section 5
 

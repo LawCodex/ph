@@ -973,7 +973,7 @@ _The City Veterinarian._ – (a) The city veterinarian must be a citizen of the 
 
 _The City General Services Officer._ – (a) The city general services officer must be a citizen of the Philippines, a resident of the City of Talisay for at least three (3) years on the date of appointment, of good moral character, a holder of a college degree on public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal and general sanitation for at least five (5) years immediately preceding the date of his appointment.
 
-(b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.£a⩊phi£
+(b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The city general services officer shall take charge of the office on general services, and shall:
 

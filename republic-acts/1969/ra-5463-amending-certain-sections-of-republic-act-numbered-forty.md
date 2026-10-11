@@ -34,7 +34,7 @@ Section five of Republic Act Numbered Forty-six hundred sixty-seven is amended t
 
 Section nine of the same Act is amended to read as follows:
 
-"Section 9. The lieutenant-governor and the assistant lieutenant-governor shall receive a compensation of eleven thousand four hundred pesos per annum and six thousand pesos per annum, respectively.1a⍵⍴h!1"
+"Section 9. The lieutenant-governor and the assistant lieutenant-governor shall receive a compensation of eleven thousand four hundred pesos per annum and six thousand pesos per annum, respectively."
 
 ## Section 3
 

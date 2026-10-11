@@ -38,7 +38,7 @@ All personnel, assets, Labilities and records of the Malabon National High Schoo
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the Concepcion Technical-Vocational School, the initial funding of which shall be charged against the current year’s appropriation of the Malabon National High School (MNHS) – Concepcion Technical-Vocational Annex.1âwphi1 Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the Concepcion Technical-Vocational School, the initial funding of which shall be charged against the current year’s appropriation of the Malabon National High School (MNHS) – Concepcion Technical-Vocational Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

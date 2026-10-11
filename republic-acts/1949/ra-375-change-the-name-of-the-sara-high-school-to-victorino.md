@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In recognition of the meritorious services tendered by Victorino Salcedo to the municipality of Sara, Province of Iloilo, the name of Sara High School hereby changed to Victorino Salcedo High School.⌊aшΡhi⌊
+In recognition of the meritorious services tendered by Victorino Salcedo to the municipality of Sara, Province of Iloilo, the name of Sara High School hereby changed to Victorino Salcedo High School.
 
 ## Section 2
 

@@ -118,7 +118,7 @@ In addition, there shall be appointed the corresponding number of prosecutor/s a
 
 ## Section 5
 
-The MTCC in the City of Ormoc will have three (3) branches.ℒαwρhi৷ The staffing pattern of each branch shall be as follows:
+The MTCC in the City of Ormoc will have three (3) branches. The staffing pattern of each branch shall be as follows:
 
 <table>
 <tr>

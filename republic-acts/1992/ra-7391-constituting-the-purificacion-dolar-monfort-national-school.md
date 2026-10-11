@@ -29,7 +29,7 @@ The Purificacion Dolar Monfort National School in Barangay Purificacion D. Monfo
 
 ## Section 2
 
-All assets of the Purificacion Dolar Monfort National School, whether fixed or movable, and records are hereby transferred to the Western Visayas College of Science and Technology.1âшphi1
+All assets of the Purificacion Dolar Monfort National School, whether fixed or movable, and records are hereby transferred to the Western Visayas College of Science and Technology.
 
 ## Section 3
 

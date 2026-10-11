@@ -118,7 +118,7 @@ _Repealing Clause._ – All laws, decrees, executive orders, issuances or regula
 
 ## Section 9
 
-_Separability Clause._ – If any part of this Act is declared unconstitutional or invalid, such parts or provisions hereof not so declared shall remain valid and subsisting.1âwphi1
+_Separability Clause._ – If any part of this Act is declared unconstitutional or invalid, such parts or provisions hereof not so declared shall remain valid and subsisting.
 
 ## Section 10
 

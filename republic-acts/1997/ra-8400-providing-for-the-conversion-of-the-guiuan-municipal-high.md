@@ -36,7 +36,7 @@ All personnel, assets, liabilities and records of the Guiuan Municipal High Scho
 
 ## Section 3
 
-The Secretary of Education, Culture and Sports shall issue the necessary rules and memorandum for the proper implementation of the provisions of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue the necessary rules and memorandum for the proper implementation of the provisions of this Act.
 
 ## Section 4
 

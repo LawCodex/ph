@@ -42,7 +42,7 @@ In consideration of the franchise and rights hereby granted, the grantee shall p
 
 ## Section 5
 
-Upon approval of this Act the municipal franchises granted Pedro S. Limjoco shall terminate and this franchise shall take their place.1âшphi1
+Upon approval of this Act the municipal franchises granted Pedro S. Limjoco shall terminate and this franchise shall take their place.
 
 ## Section 6
 

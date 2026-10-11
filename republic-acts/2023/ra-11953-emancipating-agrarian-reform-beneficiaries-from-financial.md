@@ -77,7 +77,7 @@ _Disqualification of Agrarian Reform Beneficiaries Due to Acts and Omissions Con
 
 Disqualification shall likewise result as an outcome of a determination by final judgment that the ARB, in violation of Section 22 of Republic Act No. 6657, as amended, willfully refused to make the awarded land as productive as possible or deliberately neglected or abandoned the awarded land continuously for a period of two (2) calendar years: _Provided,_ That non-cultivation of the land due to non-installation of the ARBs, threats by other stakeholders or entities, lack of facilities and support services, or situations or conditions beyond the control of the ARBs not due to their fault or actuations shall not be considered as either neglect, abandonment, or grounds for disqualification.
 
-Pursuant thereto, the DAR shall thoroughly investigate and revalidate allegations that will constitute disqualification under this section, in a manner that will be construed liberally in favor of the ARBs.⌊aшΡhi⌊
+Pursuant thereto, the DAR shall thoroughly investigate and revalidate allegations that will constitute disqualification under this section, in a manner that will be construed liberally in favor of the ARBs.
 
 ## Section 11
 

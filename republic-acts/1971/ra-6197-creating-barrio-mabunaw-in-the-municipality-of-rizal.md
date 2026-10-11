@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Mabunaw in Barrio Nangca, Municipality of Rizal, Province of Zamboanga del Norte, is separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Mabunaw.1âшphi1
+The sitio of Mabunaw in Barrio Nangca, Municipality of Rizal, Province of Zamboanga del Norte, is separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Mabunaw.
 
 ## Section 2
 

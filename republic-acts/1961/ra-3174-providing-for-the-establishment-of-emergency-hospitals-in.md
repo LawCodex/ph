@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Medical Services, emergency hospitals in the Municipalities of Buluan, Sultan Sa Baroñgis, Kiamba, and Kidapawan, all in the Province of Cotabato, to be known as the Buluan Emergency Hospital, Sultan Sa Baroñgis Emergency Hospital, Kiamba Emergency Hospital, and Kidapawan Emergency Hospital, respectively.1avvphi1
+There shall be established under the direct supervision of the Director of Medical Services, emergency hospitals in the Municipalities of Buluan, Sultan Sa Baroñgis, Kiamba, and Kidapawan, all in the Province of Cotabato, to be known as the Buluan Emergency Hospital, Sultan Sa Baroñgis Emergency Hospital, Kiamba Emergency Hospital, and Kidapawan Emergency Hospital, respectively.
 
 ## Section 2
 

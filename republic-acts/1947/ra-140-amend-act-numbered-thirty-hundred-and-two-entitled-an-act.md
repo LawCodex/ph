@@ -37,6 +37,6 @@ Section thirteen of said Act Numbered Thirty hundred and two, as amended, is her
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 14, 1947.

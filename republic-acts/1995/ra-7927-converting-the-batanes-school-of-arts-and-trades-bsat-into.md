@@ -44,7 +44,7 @@ The College shall be under the administrative and supervisory control of the cha
 
 ## Section 5
 
-All assets, obligations and appropriations of the Batanes School of Arts and Trades, whether fixed or movable, records and personnel, are hereby transferred and/or absorbed by the Batanes Polytechnic College.1aшphi1
+All assets, obligations and appropriations of the Batanes School of Arts and Trades, whether fixed or movable, records and personnel, are hereby transferred and/or absorbed by the Batanes Polytechnic College.
 
 ## Section 6
 

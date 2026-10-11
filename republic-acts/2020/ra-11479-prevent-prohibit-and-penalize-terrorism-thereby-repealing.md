@@ -303,7 +303,7 @@ Upon the filing of the information regarding the commission of any acts defined 
 
 In cases where evidence of guilt is not strong, and the person charged is entitled to bail and is granted the same, the court, upon application by the prosecutor, shall limit the right of travel of the accused to within the municipality or city where h/she resides or where the case is pending, in the interest of national security and public safety, consistent with Article III, Section 6 of the Constitution. The court shall immediately furnish the DOJ and the Bureau of Immigration (BI) with the copy of said order. Travel outside of said municipality or city, without the authorization of the court, shall be deemed a violation of the terms and conditions of his/her bail, which shall be forfeited as provided under the Rules of Court.
 
-He/she may also be placed under house arrest by order of the court at his/her usual place of residence.ℒαwρhi৷
+He/she may also be placed under house arrest by order of the court at his/her usual place of residence.
 
 While under house arrest, he/she may not use telephones, cellphones, e-mails, computers, the internet, or other means of communications with people outside the residence until otherwise ordered by the court.
 
@@ -435,7 +435,7 @@ _Extraterritorial Application._ \- Subject to the provision of any treaty of whi
 
 (e) To individual persons who, although physically outside the territorial limits of the Philippines, commit said crimes mentioned in Paragraph (a) hereof against Philippine citizens or persons of Philippine descent, where their citizenship or ethnicity was a factor in the commission of the crime; and
 
-(f) To individual persons who, although physically outside the territorial limits of the Philippines, commit said crimes directly against the Philippine government.1avvphi1
+(f) To individual persons who, although physically outside the territorial limits of the Philippines, commit said crimes directly against the Philippine government.
 
 In case of an individual who is neither a citizen or a national of the Philippines who commits any of the crimes mentioned in Paragraph (a) hereof outside the territorial limits of the Philippines, the Philippines shall exercise jurisdiction only when such individual enters or is inside the territory of the Philippines: _Provided,_ That, in the absence of any request for extradition from the state where the crime was committed or the state where the individual is a citizen or national, or the denial thereof, the ATC shall refer the case to the BI for deportation or to the DOJ for prosecution in the same manner as if the act constituting the offense had been committed in the Philippines.
 

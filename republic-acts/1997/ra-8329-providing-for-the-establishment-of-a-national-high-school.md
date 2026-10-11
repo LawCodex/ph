@@ -32,7 +32,7 @@ There is hereby established, under the direct supervision of the Department of E
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall implement this Act so as to make the school operational in the school year immediately following the effectivity thereof.1aшphi1
+The Secretary of Education, Culture and Sports shall implement this Act so as to make the school operational in the school year immediately following the effectivity thereof.
 
 ## Section 3
 

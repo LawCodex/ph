@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby created a Cebu Fire Damage Commission to be composed of a representative each of the President, of the National Red Cross, and of the Social Welfare Administration, which shall have the duty and power to render aid and assistance to those rendered homeless and destitute because of that fire; and to receive and award claims for damages from any person whose home suffered any damage by reason of that fire.1avvphi1 The Commission shall issue the necessary rules and regulations for carrying out the objectives of this Act, and its award shall be final and unappealable: _Provided,_ That the Commission shall give priority in paying awards of one thousand pesos or less.
+There is hereby created a Cebu Fire Damage Commission to be composed of a representative each of the President, of the National Red Cross, and of the Social Welfare Administration, which shall have the duty and power to render aid and assistance to those rendered homeless and destitute because of that fire; and to receive and award claims for damages from any person whose home suffered any damage by reason of that fire. The Commission shall issue the necessary rules and regulations for carrying out the objectives of this Act, and its award shall be final and unappealable: _Provided,_ That the Commission shall give priority in paying awards of one thousand pesos or less.
 
 ## Section 2
 

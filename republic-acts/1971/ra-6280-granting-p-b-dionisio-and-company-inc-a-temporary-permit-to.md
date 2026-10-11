@@ -28,7 +28,7 @@ There is hereby granted to P. B. Dionisio and Company, Inc., a temporary permit 
 
 ## Section 2
 
-The President of the Philippines shall have the power and authority to permit the location of said radio stations or any of them on lands of the public domain under terms and conditions as he may prescribe.1âшphi1
+The President of the Philippines shall have the power and authority to permit the location of said radio stations or any of them on lands of the public domain under terms and conditions as he may prescribe.
 
 ## Section 3
 

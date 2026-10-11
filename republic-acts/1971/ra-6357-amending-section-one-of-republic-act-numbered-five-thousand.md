@@ -30,6 +30,6 @@ Section one of Republic Act Numbered Five thousand seven hundred sixty-five is a
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval on June 19, 1971.

@@ -124,7 +124,7 @@ _Notification on TB Cases._ – All public and private health centers, hospitals
 
 _PhilHealth TB Package._ – The Philippine Health Insurance Corporation, otherwise known as the PhilHealth, shall, as far as practicable, expand its benefit package for TB patients to include new, relapse and return-after-default cases, and extension of treatment.
 
-The PhilHealth shall enhance its present outpatient Directly Observed Treatment Short Course (DOTS) package to make it more responsive to patients’ needs.1a\^/phi1 It shall likewise increase the number of accredited DOTS facilities to widen target beneficiaries who may avail of reimbursements.
+The PhilHealth shall enhance its present outpatient Directly Observed Treatment Short Course (DOTS) package to make it more responsive to patients’ needs. It shall likewise increase the number of accredited DOTS facilities to widen target beneficiaries who may avail of reimbursements.
 
 ## SECTION 14
 

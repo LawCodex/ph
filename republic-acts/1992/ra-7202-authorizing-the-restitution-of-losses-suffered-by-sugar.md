@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-It is hereby declared the policy of the Government to restitute the losses suffered by the sugar producers due to actions taken by government agencies in order to revive the economy in the sugar-producing areas of the country.1âшphi1
+It is hereby declared the policy of the Government to restitute the losses suffered by the sugar producers due to actions taken by government agencies in order to revive the economy in the sugar-producing areas of the country.
 
 ## Section 2
 

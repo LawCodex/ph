@@ -32,7 +32,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 **_Short Title._** – This Act shall be known and cited as the "Philippine Plant Variety Protection Act of 2002"
 
-**Section 2._Statement of Policies._** –
+### Section 2
+
+_Statement of Policies._ –
 
 a) The State recognizes that an effective intellectual property system in general and the development of new plant variety in particular is vital in attaining food security for the country. To this end, it shall protect and secure the exclusive rights of breeders with respect to their new plant variety particularly when beneficial to the people for such periods as provided for in this Act.
 
@@ -48,7 +50,7 @@ e) The State, while recognizing intellectual property rights in the field of agr
 
 ### Section 3
 
-**_Definitions. -_**
+_Definitions. -_**
 
 a) "Applicant" means the breeder who applies for the grant of a Certificate of Plant Variety Protection.
 
@@ -88,7 +90,7 @@ m) "Variety" means a plant grouping within a single botanical taxon of the lowes
 
 ### Section 4
 
-**_The Certificate of Plant Variety Protection shall be granted for varieties that are:_**
+_The Certificate of Plant Variety Protection shall be granted for varieties that are:_**
 
 a) New;
 
@@ -112,29 +114,39 @@ However, the requirement of novelty provided for in this Act shall not apply to 
 
 **_Distinctness._** \- A variety shall be deemed distinct if it is clearly distinguishable from any commonly known variety. The filing of an application for the granting of a plant variety protection or for the entering of a new variety in an official register of variety in the Philippines or in any country, shall render the said variety a matter of public knowledge from the date of the said application: _Provided,_ That the application leads to the granting of a Certificate of Plant Variety Protection or the entering of the said other variety in the official register of variety as the case may be.
 
-**Section 7._Uniformity._** \- The variety shall be deemed uniform if, subject to the variation that may be expected from the particular features of its propagation, it is sufficiently uniform in its relevant characteristics.
+### Section 7
 
-**Section 8._Stability._** \- The variety shall be deemed stable if its relevant characteristics remain unchanged after repeated propagation or, in the case of a particular cycle of propagation, at the end of each such cycle.
+_Uniformity._ \- The variety shall be deemed uniform if, subject to the variation that may be expected from the particular features of its propagation, it is sufficiently uniform in its relevant characteristics.
+
+### Section 8
+
+_Stability._ \- The variety shall be deemed stable if its relevant characteristics remain unchanged after repeated propagation or, in the case of a particular cycle of propagation, at the end of each such cycle.
 
 ## TITLE IV — Variety Denomination
 
 ### Section 9
 
-**_Variety Denomination._** \- The variety shall be designated by a denomination which shall be its generic description. In particular, it must be different from any denomination that designates an existing variety of the same plant species or closely related species.
+_Variety Denomination._** \- The variety shall be designated by a denomination which shall be its generic description. In particular, it must be different from any denomination that designates an existing variety of the same plant species or closely related species.
 
 ### Section 10
 
 **_Right of Priority over Denomination._** \- The use of a denomination shall not be granted to a breeder if such denomination has already been registered to another breeder or is being used by a third party in relation to the sale or offering for sale of a particular variety prior to the filing date or priority date of an application for a Certificate of Plant Variety Protection. In case two (2) or more breeders/applicants apply for the registration of the same denomination, the breeder/applicant who has the earliest filing date or priority date shall have the right to register the same to the exclusion of the other applicant/breeder(s).
 
-**Section 11._Figures as Denomination._** \- The denomination must enable the variety to be identified. It may not consist solely of figures except when it is an established practice for designating such a variety.
+### Section 11
 
-**Section 12._Misleading Denomination._** \- No denomination shall be accepted if it is liable to mislead or to cause confusion concerning the characteristic value or identity of the variety or identity of the breeder.
+_Figures as Denomination._ \- The denomination must enable the variety to be identified. It may not consist solely of figures except when it is an established practice for designating such a variety.
+
+### Section 12
+
+_Misleading Denomination._ \- No denomination shall be accepted if it is liable to mislead or to cause confusion concerning the characteristic value or identity of the variety or identity of the breeder.
 
 ### Section 13
 
 **_Refusal of Denomination._** \- If the denomination does not satisfy these requirements, its registration shall be refused and the breeder shall be required to propose another denomination within a prescribed period. The denomination shall be registered together with the grant of the breeder's right.
 
-**Section 14._Denomination Used in an Application Previously Filed abroad._** \- An application filed in this country, the subject matter of which is the same as that of an application previously filed abroad, shall use the same denomination as the latter. However, if such denomination does not conform to the provisions of this Title, the applicant/breeder shall be required to submit a new denomination.
+### Section 14
+
+_Denomination Used in an Application Previously Filed abroad._ \- An application filed in this country, the subject matter of which is the same as that of an application previously filed abroad, shall use the same denomination as the latter. However, if such denomination does not conform to the provisions of this Title, the applicant/breeder shall be required to submit a new denomination.
 
 ### Section 15
 
@@ -148,17 +160,23 @@ _**Use of Marks.**_ \- When a protected variety is offered for sale or marketed,
 
 ### Section 17
 
-**_Entitlement._** \- Any breeder, with respect to the variety developed, may apply for a plant variety developed, may apply for a plant variety protection and obtain a Certificate of Plant Variety Protection upon compliance with the requirements of this Act.
+_Entitlement._** \- Any breeder, with respect to the variety developed, may apply for a plant variety developed, may apply for a plant variety protection and obtain a Certificate of Plant Variety Protection upon compliance with the requirements of this Act.
 
-**Section 18._Co-ownership of the Right._** \- If two (2) or more persons contribute to the development of a new plant variety, all of them shall be named in the Certificate of Plant Variety Protection and shall be entitled to such rights as agreed upon in writing or in the absence thereof, the rights in proportion to their contribution in the development of plant variety.
+### Section 18
+
+_Co-ownership of the Right._ \- If two (2) or more persons contribute to the development of a new plant variety, all of them shall be named in the Certificate of Plant Variety Protection and shall be entitled to such rights as agreed upon in writing or in the absence thereof, the rights in proportion to their contribution in the development of plant variety.
 
 ### Section 19
 
 **_Employee-Employer relationship._** \- in case an employee develops a plant variety in the course of his employment as a result of the performance of his regular duty, the plant variety protection shall belong to the employer, unless there is a written stipulation to the contrary.
 
-**Section 20._First to File Rule._** \- If two (2) or more persons develop a new plant variety separately and independently of each other, the Certificate of Plant Variety Protection shall belong to the person who files the application first. In case two (2) or more persons file an application for the same plant variety, the right shall be granted to the person who has the earliest filing date or priority date.
+### Section 20
 
-**Section 21._Priority Date._** \- Any application for a Certificate of Plant Variety Protection previously filed by a breeder in another country, which by treaty, convention or law affords similar privileges to Filipino citizens, shall be considered as filed locally as of the date of filing of the foreign application: _Provided,_ That:
+_First to File Rule._ \- If two (2) or more persons develop a new plant variety separately and independently of each other, the Certificate of Plant Variety Protection shall belong to the person who files the application first. In case two (2) or more persons file an application for the same plant variety, the right shall be granted to the person who has the earliest filing date or priority date.
+
+### Section 21
+
+_Priority Date._ \- Any application for a Certificate of Plant Variety Protection previously filed by a breeder in another country, which by treaty, convention or law affords similar privileges to Filipino citizens, shall be considered as filed locally as of the date of filing of the foreign application: _Provided,_ That:
 
 a) The local application expressly claims priority;
 
@@ -166,7 +184,9 @@ b) It is filed within twelve (12) months from the filing date of the earliest fo
 
 c) The applicant submits, within six (6) months from the filing of the local application, authenticated copies of documents which constitute the foreign application, samples or other evidence showing that the variety which is being applied for protection is the same variety which has been applied for protection in a foreign country.
 
-**Section 22._Foreign Nationals._** \- For purposes of this Act, a person shall be considered a national of a foreign country if he is a citizen of such country according to its laws, a natural person residing therein, or is a legal entity whose office is registered in such foreign country.
+### Section 22
+
+_Foreign Nationals._ \- For purposes of this Act, a person shall be considered a national of a foreign country if he is a citizen of such country according to its laws, a natural person residing therein, or is a legal entity whose office is registered in such foreign country.
 
 ### Section 23
 
@@ -176,7 +196,7 @@ c) The applicant submits, within six (6) months from the filing of the local app
 
 ### Section 24
 
-**_Contents of the Application._** \- An application for a Certificate of Plant Variety Protection shall be filed in the manner and on the conditions prescribed in the regulations, and shall include:
+_Contents of the Application._** \- An application for a Certificate of Plant Variety Protection shall be filed in the manner and on the conditions prescribed in the regulations, and shall include:
 
 a) Name of the applicant/breeder;
 
@@ -258,7 +278,7 @@ b) Appeal from the Notice of Rejection - The decision applicant of the Board is 
 
 ### Section 36
 
-**_Rights of Holders of Plant Variety Protection._** \- In respect of the propagating materials, holders of a Certificate of Plant Variety Protection shall have the right to authorize any of the following acts:
+_Rights of Holders of Plant Variety Protection._** \- In respect of the propagating materials, holders of a Certificate of Plant Variety Protection shall have the right to authorize any of the following acts:
 
 a) Production or reproduction;
 
@@ -280,7 +300,7 @@ g) Stocking for any purpose mentioned above.
 
 ### Section 38
 
-**_Acts in Respect of Harvested Materials._** \- Except for Sections 43 and 44 of this Title, the rights in the two (2) preceding sections shall also extend to the harvested materials which may be the entire plant or its other parts, if the production thereof resulted directly from the unauthorized use of the plant's propagating materials that are covered by this Act, unless the holder has had the reasonable opportunity to exercise his right in relation to the said propagating materials.
+_Acts in Respect of Harvested Materials._** \- Except for Sections 43 and 44 of this Title, the rights in the two (2) preceding sections shall also extend to the harvested materials which may be the entire plant or its other parts, if the production thereof resulted directly from the unauthorized use of the plant's propagating materials that are covered by this Act, unless the holder has had the reasonable opportunity to exercise his right in relation to the said propagating materials.
 
 ### Section 39
 
@@ -342,7 +362,7 @@ b) Involves the export of the variety, which enables the propagation of the vari
 
 ### Section 47
 
-**_What Constitutes Infringement._** \- Except as otherwise provided in this Act, any person who without being entitled to do so, performs the following acts:
+_What Constitutes Infringement._** \- Except as otherwise provided in this Act, any person who without being entitled to do so, performs the following acts:
 
 a) Sell the novel variety, or offer it or expose it for sale, deliver it, ship it, consign it, exchange it, or solicit an offer to buy it, or any other transfer of title or possession of it; or
 
@@ -416,7 +436,7 @@ c) Cause the return to the petitioner for further scientific use.
 
 ### Section 57
 
-**_Grounds for the Grant of Compulsory Licensing._** \- Any interested person may file a petition for compulsory license with the Board at any time after two (2) years from the grant of the Certificate of Plant Variety Protection under this Act when it is for the public interest to grant such compulsory license, and:
+_Grounds for the Grant of Compulsory Licensing._** \- Any interested person may file a petition for compulsory license with the Board at any time after two (2) years from the grant of the Certificate of Plant Variety Protection under this Act when it is for the public interest to grant such compulsory license, and:
 
 a) The reasonable requirements of the public for any part of the variety are not met; or
 
@@ -448,7 +468,7 @@ d) Other such additional remedies at the Board may determine to be consistent wi
 
 ### Section 61
 
-**_Grounds for Nullity._** \- The Certificate of Plant Variety Protection shall be declared void _ab initio_ on any of the following grounds:
+_Grounds for Nullity._** \- The Certificate of Plant Variety Protection shall be declared void _ab initio_ on any of the following grounds:
 
 a) The grant of the Certificate of Plant Variety Protection was essentially based upon information and documents furnished by the applicant, wherein the conditions of distinctness, uniformity, stability, and newness were not complied with the time of the grant of the certificate; or
 
@@ -486,7 +506,7 @@ e) The breeder entitled to the Certificate of Plant Variety Protection or the ho
 
 ### Section 66
 
-**_National Plant Variety Protection Board._** \- There is hereby created National Plant Variety Protection Board which shall be composed of the following or their duly designated representatives:
+_National Plant Variety Protection Board._** \- There is hereby created National Plant Variety Protection Board which shall be composed of the following or their duly designated representatives:
 
 a) The Secretary of the Department of Agriculture, as chairman;
 
@@ -582,7 +602,7 @@ g) Perform such other functions as may be prescribed by the Board.
 
 ### Section 75
 
-**_Relation with Other Laws._** \- The interpretation of the provisions of this Act shall not negate the effectivity and application of Republic Act No. 8371, otherwise known as the "Indigenous People's Rights Act"; Republic Act No. 9147, otherwise known as the "Wildlife Resources Conservation and Protection Act"; Presidential Decree No. 1151, otherwise known as the "Philippine Environmental Policy"; and Executive Order No. 430 and Administration Order No. 8, Series of 2002 of the Department of Agriculture or the rules and regulations for the importation and release to the environment of plant products derived from the use of biotechnology.
+_Relation with Other Laws._** \- The interpretation of the provisions of this Act shall not negate the effectivity and application of Republic Act No. 8371, otherwise known as the "Indigenous People's Rights Act"; Republic Act No. 9147, otherwise known as the "Wildlife Resources Conservation and Protection Act"; Presidential Decree No. 1151, otherwise known as the "Philippine Environmental Policy"; and Executive Order No. 430 and Administration Order No. 8, Series of 2002 of the Department of Agriculture or the rules and regulations for the importation and release to the environment of plant products derived from the use of biotechnology.
 
 ### Section 76
 

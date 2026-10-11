@@ -39,4 +39,4 @@ Section twenty-one of the same Act, as amended, is hereby further amended to rea
 
 This Act shall take effect upon its approval.
 
-Approved, June 21, 1969.1a⍵⍴h!1
+Approved, June 21, 1969.

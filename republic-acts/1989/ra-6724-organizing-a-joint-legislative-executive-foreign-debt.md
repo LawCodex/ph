@@ -25,7 +25,9 @@ AN ACT ORGANIZING A JOINT LEGISLATIVE-EXECUTIVE FOREIGN DEBT COUNCIL, DEFINING I
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**SECTION 1._Principles._** \- The task of solving the problem of foreign debt shall be guided by the following basic principles:
+## SECTION 1
+
+_Principles._ \- The task of solving the problem of foreign debt shall be guided by the following basic principles:
 
 (1) The foreign debt service burden should be subordinate to the national development goals of alleviation of poverty, generation of more and productive employment, enhancement of social justice and equity, and promotion of sustainable economic growth. Growth, equity and social justice should have prior claims over and above foreign debt service;
 
@@ -35,9 +37,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (4) The people should be adequately informed and consulted, and their support mobilized at all levels of the policy formulation process through dialogues, public hearings and media.
 
-**Section 2._Organization of Joint Legislative-Executive Foreign Debt Council._** \- Within thirty (30) days after the effectivity of this Act, there shall be organized an advisory body to be known as the Joint Legislative-Executive Foreign Debt Council, hereinafter called Council.
+## Section 2
 
-**Section 3._Purposes and Objectives._** \- The Council shall have the following purposes and objectives:
+_Organization of Joint Legislative-Executive Foreign Debt Council._ \- Within thirty (30) days after the effectivity of this Act, there shall be organized an advisory body to be known as the Joint Legislative-Executive Foreign Debt Council, hereinafter called Council.
+
+## Section 3
+
+_Purposes and Objectives._ \- The Council shall have the following purposes and objectives:
 
 (a) To recommend an independent and assertive policy on the country's external debt, foreign debt management and foreign debt service, which upholds the country's sovereignty and which promotes a sustained economic growth and a self-reliant economy;
 
@@ -57,7 +63,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (i) To conduct continuing studies and researches on policy options, strategies, and approaches to the foreign debt problem including the experiences of other debtor countries and to recommend such remedial and legislative measures as may be required.
 
-**Section 4._Policy Options._** \- In the discharge of its responsibilities, the Council may consider and develop the following options:
+## Section 4
+
+_Policy Options._ \- In the discharge of its responsibilities, the Council may consider and develop the following options:
 
 (1) Debt-to-Equity Program. - To expand the volume and coverage of the Central Bank Debt-to-Equity Swap Program by converting $5 billion, more or less, in the Philippine foreign debt instruments into equity investments in Philippine agriculture and industry under a 5-year program of $1 billion, more or less, per year with emphasis on new foreign exchange-earning and labor-intensive productive projects in various parts of the country, including factories operating below rated capacity or which have been closed down for lack of capital, under terms that will not unduly trigger inflation;
 
@@ -117,7 +125,9 @@ Further, support simultaneously multilateral programs of the United States, Japa
 
 (27) _Other Options._ \- The foregoing shall not preclude the formulation and consideration of other options and principles in dealing with the Philippine external debt, consistent with the national interest.
 
-**Section 5._Powers and Functions._** \- To carry out the aforementioned purposes and objectives, the Council is authorized:
+## Section 5
+
+_Powers and Functions._ \- To carry out the aforementioned purposes and objectives, the Council is authorized:
 
 (1) To submit to the President of the Philippines its recommendees for members of the Government panel in the negotiations and/or renegotiations of the Philippine external debt; Provided, That it shall recommend at least five (5) members with expertise in each of the following: (a) diplomacy, (b) economics, (c) investment banking, (d) law, and (e) accountancy;
 
@@ -125,7 +135,9 @@ Further, support simultaneously multilateral programs of the United States, Japa
 
 (3) Generally, to exercise all the powers necessary to attain the purposes and objectives for which it is organized.
 
-**Section 6._Composition, Appointment, and Designation._** \- The Council shall be composed of seventeen (17) members as follows:
+## Section 6
+
+_Composition, Appointment, and Designation._ \- The Council shall be composed of seventeen (17) members as follows:
 
 (1) Nine (9) members to be appointed by the President of the Philippines. Any or all of these nine (9) members may or may not be officials of the Government and they may include professionals from the academe and the private sector;
 
@@ -135,22 +147,40 @@ Further, support simultaneously multilateral programs of the United States, Japa
 
 The President shall appoint the Chairman and Vice-Chairman of the Council from among its members.
 
-**Section 7._Geographical Representation, Quorum._** \- The geographic representation from Mindanao, Visayas and Luzon shall be observed in the composition of the Council. A majority of all the members of the Council shall constitute a quorum for the conduct of business.
+## Section 7
 
-**Section 8._Compensation._** \- Members of the Council who are government officials shall not receive additional compensation for the service rendered thereto. Members of the Council who are not government officials shall receive per diems of One thousand pesos (P1,000) for every Council meeting: Provided, That the per diems collected per month do not exceed the equivalent of four (4) meetings.
+_Geographical Representation, Quorum._ \- The geographic representation from Mindanao, Visayas and Luzon shall be observed in the composition of the Council. A majority of all the members of the Council shall constitute a quorum for the conduct of business.
 
-**Section 9._Staff Support._** \- The Presidential Management Staff shall provide staff support to the Council. The Council may call on any department, bureau, office and instrumentality of the Government for appropriate assistance.
+## Section 8
 
-**Section 10._Submission of Reports._** \- The Council shall submit to the President of the Philippines, the Senate President, and the Speaker of the House of Representatives a quarterly report of its activities, assessments of, and recommendations on the country's debt situation within thirty (30) working days from the end of each quarter during the year.
+_Compensation._ \- Members of the Council who are government officials shall not receive additional compensation for the service rendered thereto. Members of the Council who are not government officials shall receive per diems of One thousand pesos (P1,000) for every Council meeting: Provided, That the per diems collected per month do not exceed the equivalent of four (4) meetings.
 
-**Section 11._Funds._** \- Funds necessary for the implementation of the provisions of this Act are hereby authorized to be taken from the Contingent Fund or any appropriate lump sum appropriations under the General Appropriations Act of 1989. Funding for the succeeding years is hereby authorized to be incorporated in the annual General Appropriations Act.
+## Section 9
 
-**Section 12._Specific Policy._** \- Nothing herein shall preclude Congress from adopting a specific foreign debt policy.
+_Staff Support._ \- The Presidential Management Staff shall provide staff support to the Council. The Council may call on any department, bureau, office and instrumentality of the Government for appropriate assistance.
 
-**Section 13._Separability Clause._** \- In the event that any part of this Act is declared unconstitutional, the other parts not so declared shall remain valid and effective.
+## Section 10
 
-**Section 14._Repealing Clause._** \- Any provisions of law, decree, executive order, rule or regulation as are in conflict or inconsistent with the provisions and/or purposes of this Act are accordingly repealed, amended or modified.
+_Submission of Reports._ \- The Council shall submit to the President of the Philippines, the Senate President, and the Speaker of the House of Representatives a quarterly report of its activities, assessments of, and recommendations on the country's debt situation within thirty (30) working days from the end of each quarter during the year.
 
-**Section 15._Effectivity._** \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
+## Section 11
+
+_Funds._ \- Funds necessary for the implementation of the provisions of this Act are hereby authorized to be taken from the Contingent Fund or any appropriate lump sum appropriations under the General Appropriations Act of 1989. Funding for the succeeding years is hereby authorized to be incorporated in the annual General Appropriations Act.
+
+## Section 12
+
+_Specific Policy._ \- Nothing herein shall preclude Congress from adopting a specific foreign debt policy.
+
+## Section 13
+
+_Separability Clause._ \- In the event that any part of this Act is declared unconstitutional, the other parts not so declared shall remain valid and effective.
+
+## Section 14
+
+_Repealing Clause._ \- Any provisions of law, decree, executive order, rule or regulation as are in conflict or inconsistent with the provisions and/or purposes of this Act are accordingly repealed, amended or modified.
+
+## Section 15
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
 
 Approved: **April 17, 1989**

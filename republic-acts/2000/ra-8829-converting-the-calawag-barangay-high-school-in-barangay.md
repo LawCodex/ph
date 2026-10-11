@@ -43,7 +43,7 @@ The Department of Education, Culture and Sports shall promulgate the necessary r
 
 ## Section 5
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved,
 

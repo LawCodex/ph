@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Magpet, Del Pilar, Inac, Kamada, Tagabac, Kiantog, Kisandal, Kaunod, Illan, Sallab, Kalambugan, Bangkal, Dalag, Lomot, Datu Incla, Datu Unot, Malibatuan, Datu Selio, Tumanda, Binuangan, Mapayagan, Ulougaga, Midsungan, and Alibayon in the Municipality of Kidapawan, Province of Cotabato, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Magpet, same province.1âшphi1 The seat of Government of the new municipality shall be in the urban center of the present barrio of Magpet.
+The barrios of Magpet, Del Pilar, Inac, Kamada, Tagabac, Kiantog, Kisandal, Kaunod, Illan, Sallab, Kalambugan, Bangkal, Dalag, Lomot, Datu Incla, Datu Unot, Malibatuan, Datu Selio, Tumanda, Binuangan, Mapayagan, Ulougaga, Midsungan, and Alibayon in the Municipality of Kidapawan, Province of Cotabato, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Magpet, same province. The seat of Government of the new municipality shall be in the urban center of the present barrio of Magpet.
 
 ## Section 2
 

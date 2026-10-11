@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Lazi Medicare Community Hospital in the Municipality of Lazi, Province of Siquijor, is hereby increased from ten (10) to twenty-five (25) beds.1âшphi1
+The bed capacity of the Lazi Medicare Community Hospital in the Municipality of Lazi, Province of Siquijor, is hereby increased from ten (10) to twenty-five (25) beds.
 
 ## Section 2
 

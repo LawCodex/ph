@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-March 24 of every year is hereby declared a special nonworking holiday in the City of Ligao, Province of Albay, in commemoration of its founding anniversary.1âwphi1
+March 24 of every year is hereby declared a special nonworking holiday in the City of Ligao, Province of Albay, in commemoration of its founding anniversary.
 
 ## Section 2
 

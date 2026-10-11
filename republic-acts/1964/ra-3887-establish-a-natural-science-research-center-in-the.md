@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Pursuant to the national policy of promoting scientific research and invention in the Philippines, there is hereby established in the University of the Philippines a Natural Science Research Center, hereinafter referred to as the Center.1âшphi1
+Pursuant to the national policy of promoting scientific research and invention in the Philippines, there is hereby established in the University of the Philippines a Natural Science Research Center, hereinafter referred to as the Center.
 
 ## Section 2
 

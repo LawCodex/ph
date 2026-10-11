@@ -44,7 +44,7 @@ The BFAR-DA shall conduct continuing research and experimentation on the breedin
 
 ## Section 4
 
-The Secretary of Agriculture shall include in the Department's program the conduct of the feasibility study and the consequent establishment of the freshwater fish hatchery in the Municipality of Bombon, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act.7!ᕼdMᗄ7 The local govenrment unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
+The Secretary of Agriculture shall include in the Department's program the conduct of the feasibility study and the consequent establishment of the freshwater fish hatchery in the Municipality of Bombon, Province of Camarines Sur, the funding of which shall be included in the annual General Appropriations Act. The local govenrment unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
 
 ## Section 5
 

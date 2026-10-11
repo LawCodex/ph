@@ -242,7 +242,7 @@ _Refusal to Register._ – The Board shall not register any successful examinee 
 
 (d) Declared of unsound mind by a court of competent jurisdiction.
 
-In refusing such registration, the Board shall give the applicant a written statement setting forth the reasons therefor and shall file a copy thereof in its records.1âwphi1
+In refusing such registration, the Board shall give the applicant a written statement setting forth the reasons therefor and shall file a copy thereof in its records.
 
 ### SECTION 21
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted the City Ice Plan & Cold Storage, Inc., hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Lucena for the purpose of manufacturing and distributing ice and supplying cold storage therein and in its neighboring municipalities, and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to the regulations of the Public Service Commission or its legal successor.1âшphi1
+Subject to the conditions imposed by this Act, there is hereby granted the City Ice Plan & Cold Storage, Inc., hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Lucena for the purpose of manufacturing and distributing ice and supplying cold storage therein and in its neighboring municipalities, and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to the regulations of the Public Service Commission or its legal successor.
 
 ## Section 2
 
@@ -42,7 +42,7 @@ The grantee shall not exercise any right or privilege under this franchise nor c
 
 (2) Its written acceptance of the terms and conditions of the certificate of convenience and public necessity required by law for the granting of this franchise and issued by the Public Service Commission of the form and character provided for in Commonwealth Act Numbered One hundred and forty-six, as amended; and
 
-(3) A document or documents evidencing receipt by the Treasurer of the Philippines of the deposit or deposits required by law for such certificate of convenience and public necessity as an earnest proof of good faith and guaranty that the grantee shall complete the work within the period to be fixed by the Commission.1âшphi1
+(3) A document or documents evidencing receipt by the Treasurer of the Philippines of the deposit or deposits required by law for such certificate of convenience and public necessity as an earnest proof of good faith and guaranty that the grantee shall complete the work within the period to be fixed by the Commission.
 
 If the grantee shall not commence the manufacture and distribution of ice and the supplying of cold storage in the places referred to in the certificate of convenience and public necessity, obtained and filed as herein provided, within such period as the Public Service Commission or its legal successor shall have fixed, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee’s control, said Commission or its legal successor may in its discretion declare such certificate null and void, and the deposit or deposits made by the grantee forfeited in favor of the National Government.
 

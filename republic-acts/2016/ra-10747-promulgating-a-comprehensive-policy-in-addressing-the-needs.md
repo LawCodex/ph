@@ -130,7 +130,7 @@ _Rights and Privileges of Persons with Rare Disease._ — The appropriate nation
 
 ### SECTION 12
 
-__The Rare Disease Technical Working Group (RDTWG). — The DOH shall convene the RDTWG which shall have the following roles and responsibilities:
+The Rare Disease Technical Working Group (RDTWG). — The DOH shall convene the RDTWG which shall have the following roles and responsibilities:
 
 (a) Determine what disorder or disease shall be considered as a rare disease, and what are the orphan drugs and orphan products, and update the list periodically;
 
@@ -148,7 +148,7 @@ _Designation of Orphan Drug._ — The DOH, motu proprio or upon application by a
 
 ### SECTION 15
 
-_Designation of Orphan Product._ — The DOH, motu proprio or upon application by any interested person, and with the recommendation of the RDTWG, may designate any healthcare or nutritional product, other than a drug or medicine, including, but not limited to, diagnostic kits, medical devices and biological products, used primarily to prevent, diagnose, or alleviate the symptoms of rare diseases as an orphan product. Within one hundred twenty (120) days from the effectivity of this Act, the DOH shall publish a list of orphan products for these rare diseases.1avvphi1
+_Designation of Orphan Product._ — The DOH, motu proprio or upon application by any interested person, and with the recommendation of the RDTWG, may designate any healthcare or nutritional product, other than a drug or medicine, including, but not limited to, diagnostic kits, medical devices and biological products, used primarily to prevent, diagnose, or alleviate the symptoms of rare diseases as an orphan product. Within one hundred twenty (120) days from the effectivity of this Act, the DOH shall publish a list of orphan products for these rare diseases.
 
 ### SECTION 16
 
@@ -208,7 +208,7 @@ _Continuing Education and Training of Health Personnel._ — The DOH and the NIH
 
 ### SECTION 21
 
-__Financial Assistance for Persons with Rare Disease. — A person with rare disease may avail of the following:
+Financial Assistance for Persons with Rare Disease. — A person with rare disease may avail of the following:
 
 (a) Basic benefit package from the Philippine Health Insurance Corporation, which shall be provided in accordance with its guidelines; and
 

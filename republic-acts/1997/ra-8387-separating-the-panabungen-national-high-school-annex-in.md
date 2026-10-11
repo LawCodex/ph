@@ -32,7 +32,7 @@ The Panabungen National School Annex in Barangay Panabungen, Municipality of Bes
 
 ## Section 2
 
-All assets fixed and movable, personnel and records of the Panabungen National High School Annex are hereby transferred to the Panabungen School of Arts, Trade and Home Industries: _Provided,_ That the positions, rights and security of tenure of personnel therein employed under existing law pertaining to separation from the mother school are not impaired.1aшphi1
+All assets fixed and movable, personnel and records of the Panabungen National High School Annex are hereby transferred to the Panabungen School of Arts, Trade and Home Industries: _Provided,_ That the positions, rights and security of tenure of personnel therein employed under existing law pertaining to separation from the mother school are not impaired.
 
 ## Section 3
 

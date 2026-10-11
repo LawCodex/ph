@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The term of franchise granted to ConsueloD. Borja, now held by Iligan Light and Power, Inc., as her successor-in-interest, originally granted to Consuelo D. Borja under Act Numbered Three thousand eight hundred ten and extended under Republic Act Numbered Six thousand three hundred ninety-one is hereby extended under the same terms and conditions therein provided, subject to the provisions of the Constitution, for a period of twenty-five (25) years from the date of its expiration.1aшphi1
+The term of franchise granted to ConsueloD. Borja, now held by Iligan Light and Power, Inc., as her successor-in-interest, originally granted to Consuelo D. Borja under Act Numbered Three thousand eight hundred ten and extended under Republic Act Numbered Six thousand three hundred ninety-one is hereby extended under the same terms and conditions therein provided, subject to the provisions of the Constitution, for a period of twenty-five (25) years from the date of its expiration.
 
 ## Section 2
 

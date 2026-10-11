@@ -242,7 +242,7 @@ _Formation of the Balanga. Wetland and Nature Park Development Council._ — A m
 
 The _ex officio_ members of the Council by virtue of their elective or appointive government positions as specified in the immediately preceding subparagraphs (a), (b), (c), (d), (e), (f), (g), (h), (i), (j), (k), and (l) shall serve for the duration of their respective terms of office in their respective elective or appointive government positions.
 
-The members of the Council specified under subparagraphs (m), (n), and (o) of this Section shall be elected by the _ex officio_ members of the Council in a transparent and fair selection process.1âшphi1 They shall each serve a term of three (3) years and may be reappointed for another term.
+The members of the Council specified under subparagraphs (m), (n), and (o) of this Section shall be elected by the _ex officio_ members of the Council in a transparent and fair selection process. They shall each serve a term of three (3) years and may be reappointed for another term.
 
 The members of the Council shall serve without compensation, except for the actual and necessary travelling and subsistence expenses incurred in the performance of their duties, either in their attendance in meetings of the Council or in connection with other official business authorized through a resolution of the Council, subject to existing rules and regulations. Each member shall have the full capacity and accountability for decisions binding to the member’s sector.
 

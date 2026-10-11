@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Severo Verallo Memorial District Hospital (Bogo General Hospital) in the Municipality of Bogo, Province of Cebu, is hereby expanded and upgraded from a fifty-bed capacity district hospital into a seventy-five-bed capacity provincial hospital, to be known as the Cebu Provincial Hospital.1âшphi1
+The Severo Verallo Memorial District Hospital (Bogo General Hospital) in the Municipality of Bogo, Province of Cebu, is hereby expanded and upgraded from a fifty-bed capacity district hospital into a seventy-five-bed capacity provincial hospital, to be known as the Cebu Provincial Hospital.
 
 ## Section 2
 

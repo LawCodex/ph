@@ -60,7 +60,7 @@ Section 1403 of the Tariff and Customs Code of the Philippines, as amended, is h
 
 An Oversight Committee is hereby created which shall be composed of the Chairmen of the Committees on Ways and Means of the Senate and of the House of Representatives and four (4) additional members from each House to be designated by the Senate President and the Speaker of the House of Representatives, respectively.
 
-The Oversight Committee shall monitor and ensure the proper implementation of this Act.1a⍵⍴h!1
+The Oversight Committee shall monitor and ensure the proper implementation of this Act.
 
 ## Section 4
 

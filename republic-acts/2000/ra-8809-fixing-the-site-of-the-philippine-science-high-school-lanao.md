@@ -33,7 +33,7 @@ Section 4 (a) of Republic Act No.8461 is hereby amended to grant the Philippine 
 
 ## Section 2
 
-_Rules and Regulations._ — The Department of Science and Technology shall issue the necessary rules and regulations to effectively carry out the effective implementation of this Act.ℒαwρhi৷
+_Rules and Regulations._ — The Department of Science and Technology shall issue the necessary rules and regulations to effectively carry out the effective implementation of this Act.
 
 ## Section 3
 

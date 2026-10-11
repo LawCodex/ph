@@ -27,7 +27,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The bed capacity of the Puerto Princesa Provincial Hospital in the City of Puerto Princesa, Province of Palawan, is hereby increased from fifty (50) to seventy-five (75) beds.
 
-**Section 2. 1âшphi1** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+## Section 2
+
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

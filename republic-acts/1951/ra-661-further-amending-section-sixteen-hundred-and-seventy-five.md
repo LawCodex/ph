@@ -44,7 +44,7 @@ Section sixteen hundred and seventy-five of the Revised Administrative Code, as 
 
 "(g) In fifth class provinces, four thousand two hundred pesos.
 
-"(h) In all other provinces below the fifth class the salary should be three thousand six hundred pesos per annum.1a⍵⍴h!1
+"(h) In all other provinces below the fifth class the salary should be three thousand six hundred pesos per annum.
 
 "_Provided,_ That vacancies left by provincial fiscals who retired or may retire under Act Numbered Two thousand five hundred and eighty-nine, entitled 'An Act providing for a gratuity by reason of retirement to officers and employees of the Philippine Government who have rendered satisfactory service during six continuous years or more, and for other purposes,' or any other retirement Act that may hereafter be enacted, shall be filled in accordance with the provision of this section."
 

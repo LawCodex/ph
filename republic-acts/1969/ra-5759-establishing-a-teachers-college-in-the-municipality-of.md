@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Public Schools, a teachers college in the Municipality of Nabunturan, Province of Davao, to be known as Eastern Mindanao Teachers College, which shall offer such collegiate courses in teacher education as the Director may determine.1a⍵⍴h!1
+There shall be established, under the supervision of the Director of Public Schools, a teachers college in the Municipality of Nabunturan, Province of Davao, to be known as Eastern Mindanao Teachers College, which shall offer such collegiate courses in teacher education as the Director may determine.
 
 ## Section 2
 

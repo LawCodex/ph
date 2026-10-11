@@ -53,7 +53,9 @@ The Chief Justice of the Supreme Court, in coordination with the Secretary of th
 
 The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and if warranted, the realignment of the seats of existing branches and their territorial jurisdictions.
 
-**SEC. 5._Repealing Clause._** All geneal and special laws, acts, decrees, executive orders, proclamations and administrative regulations or part or parts thereof which are inconsistent with any provision of this Act are hereby repealed or modified accordingly.
+## SEC. 5
+
+_Repealing Clause._ All geneal and special laws, acts, decrees, executive orders, proclamations and administrative regulations or part or parts thereof which are inconsistent with any provision of this Act are hereby repealed or modified accordingly.
 
 ## SEC. 5
 

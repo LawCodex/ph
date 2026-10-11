@@ -39,7 +39,7 @@ It is the declared policy of the State to remove the restrictions on free patent
 
 ## Section 3
 
-Agricultural public lands alienated or disposed in favor of qualified public land applicants under Section 44 of Commonwealth Act No. 141, as amended, shall not be subject to restrictions imposed under Sections 118, 119 and 121 thereof regarding acquisitions, encumbrances, conveyances, transfers, or dispositions. Agricultural free patent shall now be considered as title in fee simple and shall not be subject to any restriction on encumbrance or alienation.1âwphi1
+Agricultural public lands alienated or disposed in favor of qualified public land applicants under Section 44 of Commonwealth Act No. 141, as amended, shall not be subject to restrictions imposed under Sections 118, 119 and 121 thereof regarding acquisitions, encumbrances, conveyances, transfers, or dispositions. Agricultural free patent shall now be considered as title in fee simple and shall not be subject to any restriction on encumbrance or alienation.
 
 ## Section 4
 

@@ -36,7 +36,7 @@ The sitio of Kaingin in the barrio of Natunuan, Municipality of Bauan, same prov
 
 ## Section 4
 
-The sitio of Kalii in the Municipality of Talisay, same province, is converted into a barrio of said municipality to be known as the barrio of Asis.1âшphi1
+The sitio of Kalii in the Municipality of Talisay, same province, is converted into a barrio of said municipality to be known as the barrio of Asis.
 
 ## Section 5
 

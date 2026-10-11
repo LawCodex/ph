@@ -414,7 +414,7 @@ _Quorum._ — (a) A majority of all the members of the sanggunian who have been 
 
 ### Section 16
 
-_Approval of Ordinances._ — (a) Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor.ℒαwρhi৷ If the city mayor approves the same, the signature shall be affixed on each and every page thereof; otherwise, the ordinance shall be vetoed and returned with the statement on the objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+_Approval of Ordinances._ — (a) Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor. If the city mayor approves the same, the signature shall be affixed on each and every page thereof; otherwise, the ordinance shall be vetoed and returned with the statement on the objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
 (b) The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he or she had signed it.
 
@@ -974,7 +974,7 @@ _The City Architect_ \- (a) The city architect must be a citizen of the Philippi
 
 (7) Recommend to the sangguniang panlungsod and advise the city mayor on all matters relative to architectural planning and design as it relates to the total socioeconomic development of the City; and
 
-(8) Perform such other duties and functions and exercise such other powers as provided for under the Local Government Code of 1991, and those that are prescribed by law or ordinance.ℒαwρhi৷
+(8) Perform such other duties and functions and exercise such other powers as provided for under the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 42
 

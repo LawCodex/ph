@@ -62,7 +62,7 @@ Lot occupied by the Registrar's Office of the PCC, with an area of 113.43 square
 
 ## Section 2
 
-This conveyance is made for the purpose of giving the Philippine College of Commerce a permanent site on Lepanto Street, Sampaloc, Manila.1âшphi1
+This conveyance is made for the purpose of giving the Philippine College of Commerce a permanent site on Lepanto Street, Sampaloc, Manila.
 
 ## Section 3
 

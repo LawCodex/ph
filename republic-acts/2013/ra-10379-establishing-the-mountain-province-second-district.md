@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Public Works and Highways, a second district engineering office in the Mountain Province comprising the municipalities of Barlig, Natonin and Paracelis located in the Municipality of Natonin to be known as the Mountain Province Second District Engineering Office.1âwphi1
+There shall be established, under the supervision of the Department of Public Works and Highways, a second district engineering office in the Mountain Province comprising the municipalities of Barlig, Natonin and Paracelis located in the Municipality of Natonin to be known as the Mountain Province Second District Engineering Office.
 
 ## Section 2
 

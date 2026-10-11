@@ -48,7 +48,7 @@ The Commission on Higher Education shall take steps as may be necessary for the 
 
 ## Section 6
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Bongabong School of Fisheries. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1aшphi1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Bongabong School of Fisheries. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 7
 

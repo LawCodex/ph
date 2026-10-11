@@ -22,7 +22,9 @@ retrieved: 2026-10-12
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1. T** here shall be established, under the supervision of the Director of Public Schools, a national school of arts and trades in the Municipality of Mauban, Province of Quezon, to be known as the Quezon National School of Arts and Trades.1âшphi1
+## Section 1
+
+T here shall be established, under the supervision of the Director of Public Schools, a national school of arts and trades in the Municipality of Mauban, Province of Quezon, to be known as the Quezon National School of Arts and Trades.
 
 ## Section 2
 

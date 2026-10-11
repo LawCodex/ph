@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and 
 
 ## Section 3
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Leseb National High School, the initial funding of which shall he charged against the current year's appropriations of the Maha·ay National High School - Leseb Annex. Thereafter, the amount necessary for the continued operation of the school shall he included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Leseb National High School, the initial funding of which shall he charged against the current year's appropriations of the Maha·ay National High School - Leseb Annex. Thereafter, the amount necessary for the continued operation of the school shall he included in the annual General Appropriations Act.
 
 ## Section 4
 

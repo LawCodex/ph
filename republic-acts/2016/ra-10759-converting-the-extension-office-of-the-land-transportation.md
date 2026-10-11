@@ -34,7 +34,7 @@ This Act shall be known as an “Act Converting the Bayawan City Extension Offic
 
 ## SECTION 2
 
-The existing Bayawan City LTO Extension Office is hereby converted into a regular LTO district office.1âwphi1
+The existing Bayawan City LTO Extension Office is hereby converted into a regular LTO district office.
 
 ## SECTION 3
 

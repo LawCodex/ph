@@ -44,7 +44,7 @@ The EVSU-Dulag Campus shall also undertake research, extension services, and pro
 
 ## Section 4
 
-The governance of the EVSU-Dulag Campus shall be vested exclusively in the Board of Regents of the EVSU, hereinafter referred to as the Board.1aшphi1
+The governance of the EVSU-Dulag Campus shall be vested exclusively in the Board of Regents of the EVSU, hereinafter referred to as the Board.
 
 ## Section 5
 

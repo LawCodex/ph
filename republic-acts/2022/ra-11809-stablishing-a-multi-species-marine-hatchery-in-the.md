@@ -40,7 +40,7 @@ Within two (2) years after the construction of the multi-species marine hatchery
 
 ## Section 3
 
-The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.ℒαwρhi৷
+The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.
 
 ## Section 4
 

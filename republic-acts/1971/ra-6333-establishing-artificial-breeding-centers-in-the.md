@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Bureau of Animal Industry, artificial breeding centers in the Municipalities of Siasi, Indanan and Parang, Province of Sulu, at a site to be selected by the Director of Animal Industry through donation, to be known as the Siasi, Indanan and Parang Artificial Breeding Center, respectively.1âшphi1
+There is hereby established, under the supervision of the Bureau of Animal Industry, artificial breeding centers in the Municipalities of Siasi, Indanan and Parang, Province of Sulu, at a site to be selected by the Director of Animal Industry through donation, to be known as the Siasi, Indanan and Parang Artificial Breeding Center, respectively.
 
 ## Section 2
 

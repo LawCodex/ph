@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Margosatubig District Hospital in Margosatubig, Zamboanga del Sur, shall be converted into a regional hospital to be known as Margosatubig Regional Hospital and to increase the bed capacity from fifty (50) to three hundred (300) beds.1aшphi1
+The Margosatubig District Hospital in Margosatubig, Zamboanga del Sur, shall be converted into a regional hospital to be known as Margosatubig Regional Hospital and to increase the bed capacity from fifty (50) to three hundred (300) beds.
 
 ## Section 2
 

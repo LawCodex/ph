@@ -38,7 +38,7 @@ Section two of the same Act is amended to read as follows:
 
 Section four of the same Act is amended to read as follows:
 
-"**Section 4.** The grantee's radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths and channels to be used under this franchise and issued to the grantee a license for such use.1âшphi1
+"**Section 4.** The grantee's radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths and channels to be used under this franchise and issued to the grantee a license for such use.
 
 "The grantee, his successors or assigns, is authorized to operate his fixed point-to-point and land based and land and sea-mobile radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to it by the Secretary of Public Works and Communications."
 

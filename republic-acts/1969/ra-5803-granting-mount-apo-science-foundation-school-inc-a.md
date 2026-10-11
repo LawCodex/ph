@@ -72,6 +72,6 @@ The franchise hereby granted shall be subject to amendment, alteration or repeal
 
 ## Section 13
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

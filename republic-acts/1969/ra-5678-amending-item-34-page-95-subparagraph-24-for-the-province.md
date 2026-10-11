@@ -31,6 +31,6 @@ Item 34, page 95, subparagraph 24, for the Province of Isabela, paragraph "a", _
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

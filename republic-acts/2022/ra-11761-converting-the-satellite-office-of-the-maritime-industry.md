@@ -38,7 +38,7 @@ The Administrator of the MARINA shall immediately include in the Agency's progra
 
 ## Section 3
 
-Within sixty (60) days from the effectivity of this Act, the Secretary of Transportation, through the Administrator of the MARINA, shall issue the necessary rules and regulations for its implementation.ℒαwρhi৷
+Within sixty (60) days from the effectivity of this Act, the Secretary of Transportation, through the Administrator of the MARINA, shall issue the necessary rules and regulations for its implementation.
 
 ## Section 4
 

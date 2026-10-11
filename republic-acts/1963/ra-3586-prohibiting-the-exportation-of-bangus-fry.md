@@ -28,7 +28,7 @@ It shall be unlawful for any person, association or corporation to export bangus
 
 ## Section 2
 
-Any violation of this Act shall be punished by a fine of not less than one thousand pesos nor more than five thousand pesos or by an imprisonment for not less than one year nor more than five years, or both, at the discretion of the court. In case the violation is committed by an association or corporation, imprisonment when imposed shall be served by the manager thereof and or any other person responsible for said violation.1âшphi1
+Any violation of this Act shall be punished by a fine of not less than one thousand pesos nor more than five thousand pesos or by an imprisonment for not less than one year nor more than five years, or both, at the discretion of the court. In case the violation is committed by an association or corporation, imprisonment when imposed shall be served by the manager thereof and or any other person responsible for said violation.
 
 ## Section 3
 

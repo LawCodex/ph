@@ -87,7 +87,7 @@ _Repealing Clause._ \- All existing laws, executive orders, presidential decrees
 
 ## Section 8
 
-_Effectivity._ \- This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation.ℒαwρhi৷
+_Effectivity._ \- This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation.
 
 Approved,
 

@@ -28,11 +28,17 @@ AN ACT CREATING THE BACOLOR REHABILITATION COUNCIL AND APPROPRIATING FUNDS THERE
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short Title._ -** This Act shall be known as the **"_Bacolor Rehabilitation Council Act_ "**.
+## Section 1
 
-**Section 2._Declaration of Policy._** \- It is hereby declared the policy of the State to provide assistance to calamity stricken areas and aid in the speedy rehabilitation of such areas.
+_Short Title._ - This Act shall be known as the **"_Bacolor Rehabilitation Council Act_ "**.
 
-**Section 3._Rehabilitation Council._** \- There is hereby created a Bacolor Rehabilitation Council which shall composed of the following:
+## Section 2
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to provide assistance to calamity stricken areas and aid in the speedy rehabilitation of such areas.
+
+## Section 3
+
+_Rehabilitation Council._ \- There is hereby created a Bacolor Rehabilitation Council which shall composed of the following:
 
 (a) The Regional Director of the National Economic and Development Authority (NEDA)-Regional Office 3, as chairperson;
 
@@ -62,21 +68,33 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The Council shall ease to exist after the submission of the approved rehabilitation plan to the President of the Philippines.
 
-**Section 4._Functions of the Bacolor Rehabilitation Council._** \- The Council shall have the following functions:
+## Section 4
+
+_Functions of the Bacolor Rehabilitation Council._ \- The Council shall have the following functions:
 
 1\. Draft a comprehensive rehabilitation plan for the town of Bacolor which shall be submitted to the President of the Philippines for approval within six (6) months after the effectivity of this Act; and
 
 2\. Meet regularly to evaluate the progress of the rehabilitation plan.
 
-**Section 5._Secretariat of the Council._** \- The Bacolor Rehabilitation Council shall be assisted by a secretariat which shall come from the existing staff of the Council members.
+## Section 5
 
-**Section 6._Appropriations._** \- The amount necessary for the operation of the Bacolor Rehabilitation Council shall be charged against the funds of the Municipality of Bacolor. The funds needed for implementation of the approved rehabilitation plan shall be included in the budgets of the implementing national government agencies in the annual General Appropriations Act.
+_Secretariat of the Council._ \- The Bacolor Rehabilitation Council shall be assisted by a secretariat which shall come from the existing staff of the Council members.
 
-**Section 7._Separability Clause._** \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+## Section 6
 
-**Section 8._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+_Appropriations._ \- The amount necessary for the operation of the Bacolor Rehabilitation Council shall be charged against the funds of the Municipality of Bacolor. The funds needed for implementation of the approved rehabilitation plan shall be included in the budgets of the implementing national government agencies in the annual General Appropriations Act.
 
-**Section 9._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspaper of general circulation.
+## Section 7
+
+_Separability Clause._ \- If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+## Section 8
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+## Section 9
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspaper of general circulation.
 
 Approved
 

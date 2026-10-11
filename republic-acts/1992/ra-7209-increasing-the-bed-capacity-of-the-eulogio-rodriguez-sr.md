@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Eulogio Rodriguez, Sr., Memorial Hospital in Barangay Sto. Niño, Municipality of Marikina, Metro Manila, is hereby increased from one hundred (100) to one hundred fifty (150) beds.1âшphi1
+The bed capacity of the Eulogio Rodriguez, Sr., Memorial Hospital in Barangay Sto. Niño, Municipality of Marikina, Metro Manila, is hereby increased from one hundred (100) to one hundred fifty (150) beds.
 
 ## Section 2
 

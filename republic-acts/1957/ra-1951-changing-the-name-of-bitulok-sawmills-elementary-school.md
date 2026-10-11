@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Bitulok Sawmills Elementary School, Municipality of Sabani, Province of Nueva Ecija, is changed to Felipe Buencamino, Sr. Elementary School.1âшphi1
+The name of Bitulok Sawmills Elementary School, Municipality of Sabani, Province of Nueva Ecija, is changed to Felipe Buencamino, Sr. Elementary School.
 
 ## Section 2
 

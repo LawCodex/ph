@@ -28,7 +28,7 @@ The municipal districts of Concord and Hinabangan, Province of Samar, are hereby
 
 ## Section 2
 
-The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines, to hold office until their successors are elected and qualified.1awp++i1
+The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines, to hold office until their successors are elected and qualified.
 
 ## Section 3
 

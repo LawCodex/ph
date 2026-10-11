@@ -46,7 +46,7 @@ The Provincial Government of Isabela shall provide the necessary funds to cover 
 
 ## Section 5
 
-The Secretary of the DOH shall include in the Department’s subsidy program its support for the capital outlay requirements of the hospital.ℒαwρhi৷
+The Secretary of the DOH shall include in the Department’s subsidy program its support for the capital outlay requirements of the hospital.
 
 ## Section 6
 

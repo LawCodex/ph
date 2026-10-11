@@ -38,7 +38,7 @@ The fine so imposed shall be paid to the Government of the Philippines through t
 
 (e) To act on complaints for any violation of law, rule or regulation required to be enforced by it or for non-compliance of any term or condition of any certificate, license, or permit issued by it, free of charge. Where, however, the complaint or petition seeks the grant of affirmative relief, a nominal fee of ten pesos may be charged and collected by the Commission.
 
-(f) Subject to the approval of the Department of Head, to make such rules and regulations as may be necessary for the proper execution of all the laws administered by it.1âшphi1
+(f) Subject to the approval of the Department of Head, to make such rules and regulations as may be necessary for the proper execution of all the laws administered by it.
 
 (g) To require all corporations and associations whose certificates or permits to sell securities were lost during the last World War II, including those issued by the National Treasurer under the Blue Sky Law, to file new registration statements of such securities in accordance with such forms as may be provided by the Commission, for which it shall charge and collect a fee of one-twentieth of one per centum of the aggregate par or issued value of the securities.
 

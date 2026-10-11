@@ -63,7 +63,7 @@ Section Seven of R. A. No. 4093 is hereby amended to read as follows:
 
 "(b) Act as correspondent for other financial institution and as collection agent;
 
-"(c) Rediscount paper with the Central Bank, Philippine National Bank or other Banks and their branches or agencies.1avvphi1 The Central Bank shall specify the nature of papers deemed acceptable for rediscount as well as the rediscount rate to be charged by any of these institutions."
+"(c) Rediscount paper with the Central Bank, Philippine National Bank or other Banks and their branches or agencies. The Central Bank shall specify the nature of papers deemed acceptable for rediscount as well as the rediscount rate to be charged by any of these institutions."
 
 ## Section 5
 

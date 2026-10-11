@@ -73,7 +73,7 @@ The grantee shall keep a separate account of the gross receipts of the business 
 
 ## Section 13
 
-. This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privilege herein provided for.1âшphi1
+. This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 14
 

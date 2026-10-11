@@ -123,7 +123,7 @@ _Constitution and organization of the Municipal Board—Compensation of members 
 
 In case of sickness, absence, suspension or other temporary disability of any member of the Board, or if necessary to maintain quorum, the President of the Philippines may appoint a temporary substitute, who must be a member of the same political party to which the regular councilor belongs, excepting those cases where an independent or partyless councilor is the one sick, absent, suspended or temporary disabled.
 
-The substitute shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.1âшphi1 The members of the Board shall receive a salary of six thousand pesos each per annum, and are given the privilege to engage in the practice of their profession.
+The substitute shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent. The members of the Board shall receive a salary of six thousand pesos each per annum, and are given the privilege to engage in the practice of their profession.
 
 ### Section 12
 
@@ -588,7 +588,7 @@ At the option of the taxpayer, the tax due for any year may be paid in two insta
 
 The penalties thus imposed shall be accounted for by the city treasurer in the same manner as the tax. In the event that such tax and penalty remain unpaid for ninety days after the tax becomes delinquent, the city treasurer shall proceed to make collection thereof in the manner hereinafter prescribed.
 
-The words "paid under protest" shall be written on the face of the real estate tax receipt upon the request of any person willing to pay the tax under protest.1âшphi1 Confirmation in writing of an oral protest shall be made within thirty days.
+The words "paid under protest" shall be written on the face of the real estate tax receipt upon the request of any person willing to pay the tax under protest. Confirmation in writing of an oral protest shall be made within thirty days.
 
 The Municipal Board may extend the time for the collection of the tax or real estate in the city for a period not to exceed three months. It may also remit all or part of the tax on real estate or the penalties thereon during the ensuing year in case there are good and sufficient reasons for it. The resolution in any such case shall not take effect until it shall have been approved by the President of the Philippines.
 

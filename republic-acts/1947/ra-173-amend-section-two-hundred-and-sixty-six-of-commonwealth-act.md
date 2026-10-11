@@ -30,6 +30,6 @@ Section two hundred and sixty-six of Act Numbered Four hundred sixty-six, known 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1â#x0448;phi1
+This Act shall take effect upon its approval.
 
 Approved: June 20, 1947.

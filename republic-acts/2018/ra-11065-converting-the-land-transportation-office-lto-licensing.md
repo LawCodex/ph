@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Land Transportation Office (LTO) Licensing Center in the Municipality of Kawit, Cavite is hereby converted into a Regular Licensing Center to be known as the LTO Cavite Licensing Center.1âwphi1
+The Land Transportation Office (LTO) Licensing Center in the Municipality of Kawit, Cavite is hereby converted into a Regular Licensing Center to be known as the LTO Cavite Licensing Center.
 
 ## Section 2
 

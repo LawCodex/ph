@@ -587,7 +587,7 @@ The President may appoint a chairperson and co-chairperson who is not among the 
 
 The DEPDev Regional Director shall serve as the ex officio vice chairperson. The Regional Office of the DEPDev shall serve as the Secretariat of the RDC.
 
-Subject to Article X, Section 14 of the 1987 Philippine Constitution, the President of the Philippines may revise the membership and composition of the RDCs whenever necessary for the effective performance of their functions.ℒαwρhi৷
+Subject to Article X, Section 14 of the 1987 Philippine Constitution, the President of the Philippines may revise the membership and composition of the RDCs whenever necessary for the effective performance of their functions.
 
 ## ARTICLE V — TRANSITORY AND OTHER MISCELLANEOUS PROVISIONS
 

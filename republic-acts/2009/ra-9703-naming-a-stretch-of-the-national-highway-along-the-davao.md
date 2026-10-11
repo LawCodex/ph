@@ -34,7 +34,7 @@ A Stretch of the national highway along the Davao Oriental-Surigao Coastal Road 
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1avvphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

@@ -58,7 +58,7 @@ All parcels of land belonging to the government occupied by the DHVSU-Sto. Tomas
 
 The amount necessary to carry out the provisions of this Act shall be included in the Annual General Appropriations Act (GAA).
 
-The municipalities of Sto. Tomas, Porac, Lubao, Candaba, Apalit, Mexico, Sta. Rita. Floridablanca, Guagua and Sasmuan shall provide the same financial support to the respective extension campuses until such time that the amount necessary for the continued operation and maintenance of the campuses shall be included in the annual GAA.1aшphi1
+The municipalities of Sto. Tomas, Porac, Lubao, Candaba, Apalit, Mexico, Sta. Rita. Floridablanca, Guagua and Sasmuan shall provide the same financial support to the respective extension campuses until such time that the amount necessary for the continued operation and maintenance of the campuses shall be included in the annual GAA.
 
 ## Section 8
 

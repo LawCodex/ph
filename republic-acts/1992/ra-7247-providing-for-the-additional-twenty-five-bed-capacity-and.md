@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the office of the Department of Health, an additional twenty-five bed capacity and additional funds for the improvement of an already existing San Pablo City District Hospital in the City of San Pablo, Province of Laguna.1âшphi1
+There shall be established under the direct supervision of the office of the Department of Health, an additional twenty-five bed capacity and additional funds for the improvement of an already existing San Pablo City District Hospital in the City of San Pablo, Province of Laguna.
 
 ## Section 2
 

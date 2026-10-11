@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Secretary of Education, upon the recommendation of the Director of Public Schools, is hereby authorized to open in the Roxas Memorial Agricultural School at Guinobatan, Province of Albay, courses of collegiate level if the income of the properties of said school of warrants.1awp++i1
+The Secretary of Education, upon the recommendation of the Director of Public Schools, is hereby authorized to open in the Roxas Memorial Agricultural School at Guinobatan, Province of Albay, courses of collegiate level if the income of the properties of said school of warrants.
 
 ## Section 2
 

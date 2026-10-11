@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The term of the franchise for an electric light, heat and power system granted to Natalio Digal under Act Numbered Thirty-six hundred forty-five, and subsequently sold and transferred to Ocmis Electric Service Co., Inc., by authority of Act Numbered Thirty-nine hundred fifty-one, is hereby extended with the same terms and conditions for a period of twenty-five years from December seven, nineteen hundred sixty-four.1âшphi1
+The term of the franchise for an electric light, heat and power system granted to Natalio Digal under Act Numbered Thirty-six hundred forty-five, and subsequently sold and transferred to Ocmis Electric Service Co., Inc., by authority of Act Numbered Thirty-nine hundred fifty-one, is hereby extended with the same terms and conditions for a period of twenty-five years from December seven, nineteen hundred sixty-four.
 
 ## Section 2
 

@@ -38,7 +38,7 @@ Any future increase in bed capacity, health care facilities, service capability,
 
 ## Section 3
 
-The Provincial Government of Aklan shall provide the necessary funds for the establishment of the Aklan Geriatric Medical Center.1aшphi1 The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
+The Provincial Government of Aklan shall provide the necessary funds for the establishment of the Aklan Geriatric Medical Center. The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

@@ -58,7 +58,7 @@ _Acceptance and Compliance._ \- Acceptance of this franchise shall be given in w
 
 _Tax Provisions._ \- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings and personal property exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay a franchise tax equivalent to three percent (3%) of all gross receipts of the radio/television business transacted under this franchise by the grantee, its successors or assigns: Provided that the grantee, its successors or assigns, shall continue to be liable for income taxes payable under _Title_ II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
 
-The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code.1aшphi1 The return shall be subject to audit by the Bureau of Internal Revenue.
+The grantee shall file the return with and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code. The return shall be subject to audit by the Bureau of Internal Revenue.
 
 ## Section 9
 
@@ -78,7 +78,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 13
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1aшphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 14
 

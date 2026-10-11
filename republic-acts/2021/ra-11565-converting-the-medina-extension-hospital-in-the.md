@@ -35,7 +35,7 @@ Any future increase in bed capacity and upgrading of health care services and fa
 
 ## Section 2
 
-The Secretary of Health shall immediately include in the Department's program, operation and maintenance of the First Misasmis Oriental General Hospital, the initial funding which shall be charged against the current year's appropriations of the Medina Extension Hospital, the amount of Nine hundred million pesos (P900,000,000.00) is hereby appropriated for the implementation of this Act which shall be included and funded under the 2022 General Appropriations Act under the Health Facilities Enhancement Program (HFEP) of the DOH.Ꮮαwρhi৷ Thereafter, such sums as may be necessary for its continued operation shall be included in the annual General Appropriations Act.
+The Secretary of Health shall immediately include in the Department's program, operation and maintenance of the First Misasmis Oriental General Hospital, the initial funding which shall be charged against the current year's appropriations of the Medina Extension Hospital, the amount of Nine hundred million pesos (P900,000,000.00) is hereby appropriated for the implementation of this Act which shall be included and funded under the 2022 General Appropriations Act under the Health Facilities Enhancement Program (HFEP) of the DOH. Thereafter, such sums as may be necessary for its continued operation shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

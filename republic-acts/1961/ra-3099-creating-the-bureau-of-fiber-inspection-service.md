@@ -104,7 +104,7 @@ The sum set aside in the current appropriation law for the Fiber Inspection Serv
 
 _Words Defined._ -The words used in this Act shall be taken in the sense indicated below:
 
-(a) "Fiber" shall mean the raw material only and not fibers partially or entirely manufactured. It shall be interpreted according to its common commercial significance and not according to its scientific meaning.1avvphi1
+(a) "Fiber" shall mean the raw material only and not fibers partially or entirely manufactured. It shall be interpreted according to its common commercial significance and not according to its scientific meaning.
 
 (b) "Abaca" shall mean the fiber of the plant of the same name known in botany as Musa Textilis and known commercially, as "Manila hemp."
 
@@ -112,7 +112,7 @@ _Words Defined._ -The words used in this Act shall be taken in the sense indicat
 
 "Maguey" shall mean the fiber obtained from the leaves of Agave santala, Roxb.
 
-"Sisal" shall mean the fiber obtained from the leaves of Agave sisalana, Per.1âшphi1
+"Sisal" shall mean the fiber obtained from the leaves of Agave sisalana, Per.
 
 "Ramie" shall mean the fiber extracted from the stem of Boehmeria nivea, Cau.
 
@@ -124,7 +124,7 @@ _Words Defined._ -The words used in this Act shall be taken in the sense indicat
 
 "Kenaf" shall mean the fiber, whether rotted or decorticated, obtained from a shrub known scientifically as Hibiscus annanibus.
 
-"Coir" shall mean the fiber obtained from the husk of coconut scientifically known as Cocos nucifera.1âшphi1 It is called "niog " in Tagalog and "lubi" in Visayan.
+"Coir" shall mean the fiber obtained from the husk of coconut scientifically known as Cocos nucifera. It is called "niog " in Tagalog and "lubi" in Visayan.
 
 "Kapok" shall mean the name of silky fiber obtained from the plant whose scientific name is Ceiba pentandra, known as "bubuy" in Tagalog and "duldul" in Visayan.
 

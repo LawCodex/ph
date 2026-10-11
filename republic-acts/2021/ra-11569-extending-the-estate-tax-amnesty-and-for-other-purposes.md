@@ -39,7 +39,7 @@ Section 6 of Republic Act No. 11213 is hereby amended to read as follows:
 
 ## Section 2
 
-_Implementing Rules and Regulations._ \- Within sixty (60) days from its effectivity, the Secretary of Finance shall, in coordination with the Commissioner of Internal Revenue, issue the necessary rules and regulations for the effective implementation of this Act.Ꮮαwρhi৷
+_Implementing Rules and Regulations._ \- Within sixty (60) days from its effectivity, the Secretary of Finance shall, in coordination with the Commissioner of Internal Revenue, issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 3
 

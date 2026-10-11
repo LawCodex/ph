@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Ligao Technical-Vocational High School in the Municipality of Ligao, Province of Albay, is hereby renamed as Ligao National High School.1a⍵⍴h!1
+The Ligao Technical-Vocational High School in the Municipality of Ligao, Province of Albay, is hereby renamed as Ligao National High School.
 
 ## Section 2
 

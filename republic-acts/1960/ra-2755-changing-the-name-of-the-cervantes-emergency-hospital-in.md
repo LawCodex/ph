@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Cervantes Emergency Hospital in the Municipality of Cervantes, Province of Ilocos Sur, is hereby changed to Bessang Pass Memorial Hospital.1âшphi1
+The name of the Cervantes Emergency Hospital in the Municipality of Cervantes, Province of Ilocos Sur, is hereby changed to Bessang Pass Memorial Hospital.
 
 ## Section 2
 

@@ -34,7 +34,7 @@ Section 1 of Republic Act No. 7163 is hereby amended to read as follows:
 
 ## Section 2
 
-_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines.1aшphi1
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved,
 

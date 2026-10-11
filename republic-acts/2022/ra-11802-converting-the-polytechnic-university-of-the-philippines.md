@@ -56,7 +56,7 @@ All parcels of land belonging to the government occupied by the PUP-Alfonso-Mara
 
 ## Section 7
 
-The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.ℒαwρhi৷
+The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.
 
 ## Section 8
 

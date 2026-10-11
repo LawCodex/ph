@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 All prizes and awards granted to athletes in local and international sports tournaments and competitions held in the Philippines or abroad and sanctioned by their respective national sports associations shall be exempt from income tax: _Provided,_ That such prizes and awards given to said athletes shall be deductible in full from the gross income of the donor: _Provided, further,_ That the donors of said prizes and awards shall be exempt from the payment of donor's tax.
 
-The benefits herein provided shall cover the XVIth Southeast Asian Games (SEA Games) held in Manila from November 25 to December 5, 1991.1âшphi1
+The benefits herein provided shall cover the XVIth Southeast Asian Games (SEA Games) held in Manila from November 25 to December 5, 1991.
 
 ## Section 2
 

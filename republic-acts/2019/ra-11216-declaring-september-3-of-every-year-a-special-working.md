@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-September 3 of every year is hereby declared a special working public holiday throughout the country, in commemoration of the surrender of the Japanese military forces led by General Tomoyuki Yamashita at the American High Commissioner’s Residence in Camp John Hay, Baguio City.1âwphi1
+September 3 of every year is hereby declared a special working public holiday throughout the country, in commemoration of the surrender of the Japanese military forces led by General Tomoyuki Yamashita at the American High Commissioner’s Residence in Camp John Hay, Baguio City.
 
 ## Section 2
 

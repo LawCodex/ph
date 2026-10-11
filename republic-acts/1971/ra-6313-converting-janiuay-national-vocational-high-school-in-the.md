@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The Janiuay National Vocational High School, in the Municipality of Janiuay, Province of Iloilo is hereby converted into a national comprehensive high school to be known as the Janiuay National Comprehensive High School. The Secretary of Education is hereby empowered to reorganize the said school accordingly.1âшphi1
+The Janiuay National Vocational High School, in the Municipality of Janiuay, Province of Iloilo is hereby converted into a national comprehensive high school to be known as the Janiuay National Comprehensive High School. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
 
 ## Section 2
 

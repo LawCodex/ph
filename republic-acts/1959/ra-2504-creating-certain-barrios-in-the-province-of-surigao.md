@@ -60,7 +60,7 @@ The sitios of Cagtenae, Cawayan, Hanagdong and Carihatag in the Municipality of 
 
 ## Section 10
 
-The sitio of Bito-on in the Municipality of Numacia, same province, is converted into a barrio of said municipality to be known as the barrio of Bito-on.£A⩊phi£
+The sitio of Bito-on in the Municipality of Numacia, same province, is converted into a barrio of said municipality to be known as the barrio of Bito-on.
 
 ## Section 11
 

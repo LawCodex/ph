@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall be located in the First Congressional District of Ilocos Norte and shall comprise the municipalities of Solsona, Dingras, Banna, Piddig, Carasi, Marcos and Nueva Era.ℒαwρhi৷
+The said district engineering office shall be located in the First Congressional District of Ilocos Norte and shall comprise the municipalities of Solsona, Dingras, Banna, Piddig, Carasi, Marcos and Nueva Era.
 
 ## Section 3
 

@@ -34,6 +34,6 @@ All appropriations heretofore authorized for the Calolbon Chest Center, sites, b
 
 ## Section 3
 
-This Act shall take effect upon its approval.Ꮮαwρhi৷
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

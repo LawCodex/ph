@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-_People’s Homesite and Housing Corporation taxes._ -The provision of law to the contrary notwithstanding, the People’s Homesite and Housing Corporation is hereby exempted from the payment of any and all fees and taxes of any kind, whether local of general, such as income and realty taxes, special assessments, customs duties, exchange tax, building fees and others.1âшphi1
+_People’s Homesite and Housing Corporation taxes._ -The provision of law to the contrary notwithstanding, the People’s Homesite and Housing Corporation is hereby exempted from the payment of any and all fees and taxes of any kind, whether local of general, such as income and realty taxes, special assessments, customs duties, exchange tax, building fees and others.
 
 ## Section 2
 

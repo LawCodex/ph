@@ -235,7 +235,7 @@ Section 14 of Republic Act No. 7600 is hereby renumbered and amended to read as 
 
 "In all cases, the fine imposed should take into consideration, among others, number of women employees, physical size of the establishment, and the average number of women who visit.
 
-"In addition, the Secretary of Health is hereby empowered to impose sanctions on health institution for the violation of this Act and the rules issued thereunder. Such sanctions may be in the form of reprimand or censure and in case of repeated willful violations, suspension of the permit to operate of the erring health institution.1avvphi1
+"In addition, the Secretary of Health is hereby empowered to impose sanctions on health institution for the violation of this Act and the rules issued thereunder. Such sanctions may be in the form of reprimand or censure and in case of repeated willful violations, suspension of the permit to operate of the erring health institution.
 
 "Heads, officials and employees of government health and non-health facilities, establishments and institutions who violate this Act shall further be subject to the following administrative penalties:
 

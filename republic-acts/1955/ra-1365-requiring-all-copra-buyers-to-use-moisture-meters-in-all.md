@@ -82,7 +82,7 @@ The Committee shall be convened within twenty days from the approval of this Act
 
 ## Section 15
 
-The Chairman of the Committee shall then cause the approved scale referred to in the preceding section to be published in three consecutive issues of the Official Gazette and in five newspapers of general circulation once a week for three consecutive weeks.1awp++i1 The expenses for such publication shall be borne by the Philippine Coconut Administration.
+The Chairman of the Committee shall then cause the approved scale referred to in the preceding section to be published in three consecutive issues of the Official Gazette and in five newspapers of general circulation once a week for three consecutive weeks. The expenses for such publication shall be borne by the Philippine Coconut Administration.
 
 ## Section 16
 

@@ -68,7 +68,7 @@ The grantee shall hold the national, provincial, city and municipal governments 
 
 ## Section 9
 
-No private property shall be taken for any purpose by the grantee without proper condemnation proceeding and just compensation paid and tendered therefor, and any authority to take and occupy land contained herein shall not apply to the taking, use or actual and necessary purpose, for which the franchise is granted.1aшphi1
+No private property shall be taken for any purpose by the grantee without proper condemnation proceeding and just compensation paid and tendered therefor, and any authority to take and occupy land contained herein shall not apply to the taking, use or actual and necessary purpose, for which the franchise is granted.
 
 ## Section 10
 

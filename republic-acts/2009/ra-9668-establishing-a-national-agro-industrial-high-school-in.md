@@ -34,7 +34,7 @@ _Establishment of a National Agro-Industrial High School._ \- There is hereby es
 
 ## Section 2
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Governor Felicisimo T. San Luis National Agro-Industrial High School, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Governor Felicisimo T. San Luis National Agro-Industrial High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

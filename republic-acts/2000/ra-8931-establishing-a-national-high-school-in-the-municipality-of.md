@@ -47,7 +47,7 @@ Approved,
 <td>(Sgd.) <b>MANUEL B. VILLAR JR.</b><br/>Speaker of the House of Representatives</td>
 </tr>
 <tr>
-<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on february 16, 2000 and June 8, 2000, respectively.<cite>1a⍵⍴h!1</cite></td>
+<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on february 16, 2000 and June 8, 2000, respectively.</td>
 </tr>
 <tr>
 <td>(Sgd.) <b>OSCAR G. YABES</b><br/>Secretary of the Senate</td>

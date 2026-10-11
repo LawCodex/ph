@@ -38,7 +38,7 @@ The Secretary of Education shall immediately include in the Department’s progr
 
 ## Section 3
 
-The Secretary of the Department of Education shall formulate the rules and regulations implementing the provisions of this Act.1avvphi1
+The Secretary of the Department of Education shall formulate the rules and regulations implementing the provisions of this Act.
 
 ## Section 4
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The former municipality of Quinapondan, Province of Samar, is hereby recreated.1â#x0448;phi1 Its territorial jurisdiction shall comprise all the territory included in the former municipality of Quinapondan before it was annexed or incorporated by virtue of former Philippine Commission Act Numbered Nine hundred and sixty, with the municipality of Balangiga, Province of Samar.
+The former municipality of Quinapondan, Province of Samar, is hereby recreated. Its territorial jurisdiction shall comprise all the territory included in the former municipality of Quinapondan before it was annexed or incorporated by virtue of former Philippine Commission Act Numbered Nine hundred and sixty, with the municipality of Balangiga, Province of Samar.
 
 ## Section 2
 

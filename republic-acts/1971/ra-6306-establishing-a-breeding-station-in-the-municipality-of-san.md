@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Animal Industry a breeding station in the Municipality of San Agustin, Province of Isabela, to be known as the Southern Isabela Breeding Station.1âшphi1
+There shall be established under the direct supervision of the Director of Animal Industry a breeding station in the Municipality of San Agustin, Province of Isabela, to be known as the Southern Isabela Breeding Station.
 
 ## Section 2
 

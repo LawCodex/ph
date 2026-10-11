@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-An extension office of the Maritime Industry Authority (MARINA) shall be created in Vigan City, Ilocos Sur.ℒαwρhi৷ The extension office shall provide services for the residents of the Province of Ilocos Sur and other nearby provinces.
+An extension office of the Maritime Industry Authority (MARINA) shall be created in Vigan City, Ilocos Sur. The extension office shall provide services for the residents of the Province of Ilocos Sur and other nearby provinces.
 
 ## Section 2
 

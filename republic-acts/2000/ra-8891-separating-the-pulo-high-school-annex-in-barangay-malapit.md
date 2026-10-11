@@ -39,7 +39,7 @@ All personnel, records and assets and liabilities of the Pulo High School Annex 
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Pulo High School Annex.(awÞhi( Thereafter, such sums as may be necessary for the continuous operations and maintenance of the Teodoro A. Dionisio National High School shall be included in the annual General Appropriations Act.
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Pulo High School Annex. Thereafter, such sums as may be necessary for the continuous operations and maintenance of the Teodoro A. Dionisio National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

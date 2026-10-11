@@ -52,7 +52,7 @@ Section 5 of Republic Act No. 8762 is hereby amended to read as follows:
 
 “The foreign retailer shall be required to maintain in the Philippines at all times the paid-up capital of Twenty-five million pesos (P25,000,000.00), unless the foreign retailer has notified the SEC or the DTI, whichever is appropriate, of its intention to repatriate its capital and cease operations in the Philippines. The actual use in Philippine operations of the minimum paid-up capital shall be monitored by the SEC, or by the DTI, whichever is appropriate.
 
-“Failure to maintain in the Philippines the paid-up capital required in the preceding paragraph, prior to notification of the SEC or the DTI, whichever is appropriate, shall subject the foreign retailer to penalties or restrictions on any future trading activities/business in the Philippines.ℒαwρhi৷
+“Failure to maintain in the Philippines the paid-up capital required in the preceding paragraph, prior to notification of the SEC or the DTI, whichever is appropriate, shall subject the foreign retailer to penalties or restrictions on any future trading activities/business in the Philippines.
 
 “For purposes of registration with the SEC or DTI, the foreign retailer shall submit a certification from the Bangko Sentral ng Pilipinas (BSP) of the inward remittance of its capital investment, or in lieu thereof, such other proof certifying that is capital investment is deposited and maintained in a bank in the Philippines.”
 
@@ -102,7 +102,7 @@ Sections 13, 14, and 15 of Republic Act No. 8762 are hereby renumbered as Sectio
 
 ## Section 11
 
-_Separability Clause._ – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain in full force and effect.ℒαwρhi৷
+_Separability Clause._ – If any provision of this Act is held invalid or unconstitutional, the other provisions not affected thereby shall remain in full force and effect.
 
 ## Section 12
 

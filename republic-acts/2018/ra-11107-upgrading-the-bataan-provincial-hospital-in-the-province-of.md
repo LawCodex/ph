@@ -43,7 +43,7 @@ The amount necessary for the upgrade, including the acquisition of additional me
 
 ## Section 4
 
-The Secretary of Health shall promulgate the necessary rules and regulations for the implementation of this Act within sixty (60) days from its effectivity.1âwphi1
+The Secretary of Health shall promulgate the necessary rules and regulations for the implementation of this Act within sixty (60) days from its effectivity.
 
 ## Section 5
 

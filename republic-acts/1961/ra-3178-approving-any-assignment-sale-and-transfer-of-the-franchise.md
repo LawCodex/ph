@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions prescribed in Section fifteen of Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Roman Baluyut to install, operate and maintain an electric light, heat and power system in the Municipality of Apalit, Province of Pampanga, under Act Numbered Thirty-eight hundred eighty, together with all the property and equipment acquired thereunder, in favor of Jose Valencia, Jr.1âшphi1
+Subject to the terms and conditions prescribed in Section fifteen of Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Roman Baluyut to install, operate and maintain an electric light, heat and power system in the Municipality of Apalit, Province of Pampanga, under Act Numbered Thirty-eight hundred eighty, together with all the property and equipment acquired thereunder, in favor of Jose Valencia, Jr.
 
 ## Section 2
 

@@ -36,7 +36,7 @@ The All-in-One-Service, Incorporated, in addition to the taxes imposed by the In
 
 ## Section 4
 
-This franchise is granted subject to the condition that it shall be subject to amendment, alteration, or repeal when the public interest so requires and shall not be understood as exclusive in character.1âшphi1
+This franchise is granted subject to the condition that it shall be subject to amendment, alteration, or repeal when the public interest so requires and shall not be understood as exclusive in character.
 
 ## Section 5
 

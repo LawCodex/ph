@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Ungale, Tucdao, and Inasuyan of the municipality of Caibiran, Province of Leyte, are hereby separated from said municipality and merged with the municipality of Kawayan, of the same province.1aшphi1
+The barrios of Ungale, Tucdao, and Inasuyan of the municipality of Caibiran, Province of Leyte, are hereby separated from said municipality and merged with the municipality of Kawayan, of the same province.
 
 ## Section 2
 

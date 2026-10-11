@@ -50,11 +50,17 @@ Section 12 of Republic Act No. 7279, otherwise known as the "Urban Development a
 
 "f) The occupants have resided on the said lands subject to the prohibitions provided in Section 30 of this Act."
 
-**SEC. 2._Separability Clause._** \- If any part or provision of this Act shall be held unconstitutional or invalid, other provision hereof that are not affected thereby shall continue to be in full force and effect.
+## SEC. 2
 
-**SEC. 3._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules, regulations, or parts thereof which are not consistent with this Act, are hereby repealed, amended or modified accordingly.
+_Separability Clause._ \- If any part or provision of this Act shall be held unconstitutional or invalid, other provision hereof that are not affected thereby shall continue to be in full force and effect.
 
-**SEC. 4._Effectivity._ ** \- This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.
+## SEC. 3
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules, regulations, or parts thereof which are not consistent with this Act, are hereby repealed, amended or modified accordingly.
+
+## SEC. 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.
 
 Approved,
 

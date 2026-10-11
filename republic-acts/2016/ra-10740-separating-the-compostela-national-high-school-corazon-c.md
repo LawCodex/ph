@@ -34,7 +34,7 @@ The Compostela National High School–Corazon C. Aquino High School Annex in Bar
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Compostela National High School–Corazon C. Aquino High School Annex are hereby transferred to and absorbed by the Corazon C. Aquino National High School.1âwphi1
+All personnel, assets, liabilities and records of the Compostela National High School–Corazon C. Aquino High School Annex are hereby transferred to and absorbed by the Corazon C. Aquino National High School.
 
 ## Section 3
 

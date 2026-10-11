@@ -50,7 +50,7 @@ Nothing in this Act shall be construed as to diminish existing maternity benefit
 
 ## Section 3
 
-All laws, executive orders, proclamations, presidential decrees, rules and regulations, and other issuances, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1âшphi1
+All laws, executive orders, proclamations, presidential decrees, rules and regulations, and other issuances, or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 4
 

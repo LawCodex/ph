@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Baguio General Hospital and Medical Center in Baguio City is hereby increased from four hundred (400) to five hundred (500).Ꮮαwρhi৷
+The bed capacity of the Baguio General Hospital and Medical Center in Baguio City is hereby increased from four hundred (400) to five hundred (500).
 
 ## Section 2
 

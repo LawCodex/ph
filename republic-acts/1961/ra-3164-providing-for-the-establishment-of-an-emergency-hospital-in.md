@@ -32,7 +32,7 @@ The Secretary of Health shall issue such rules and regulations as may be necessa
 
 ## Section 3
 
-The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two, including the purchase of equipment and for the administrative expenses.1awp++i1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two, including the purchase of equipment and for the administrative expenses. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
 
 ## Section 4
 

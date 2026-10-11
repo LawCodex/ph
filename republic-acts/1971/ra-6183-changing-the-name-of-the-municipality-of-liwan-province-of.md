@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Municipality of Liwan in the Province of Kalinga-Apayao is changed to the Municipality of Rizal.1âшphi1
+The name of the Municipality of Liwan in the Province of Kalinga-Apayao is changed to the Municipality of Rizal.
 
 ## Section 2
 

@@ -242,7 +242,7 @@ _Parity Clause._ – All other powers, functions and privileges, responsibilitie
 
 ## Section 25
 
-_Implementing Rules and Regulations._ – The Board, in consultation with the CHED, shall formulate the rules and regulations to fully implement the provisions of this Act.1âwphi1
+_Implementing Rules and Regulations._ – The Board, in consultation with the CHED, shall formulate the rules and regulations to fully implement the provisions of this Act.
 
 ## Section 26
 

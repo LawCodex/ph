@@ -66,7 +66,7 @@ _Delegated Authority of the Supreme Court to Adjust the Jurisdictional Amounts f
 
 ## Section 4
 
-The provisions of this Act shall apply prospectively to all civil cases filed in the second level courts and first level courts from the date of its effectivity thereof.ℒαwρhi৷
+The provisions of this Act shall apply prospectively to all civil cases filed in the second level courts and first level courts from the date of its effectivity thereof.
 
 ## Section 5
 

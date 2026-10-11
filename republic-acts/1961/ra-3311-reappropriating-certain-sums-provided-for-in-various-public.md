@@ -330,6 +330,6 @@ The sum appropriated under item (g), page 223, subparagraph 26 of _Title_ M, Sec
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted, without Executive approval, June 18, 1961.

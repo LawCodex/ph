@@ -36,6 +36,6 @@ The sum of two hundred thousand pesos is hereby appropriated, out of any funds i
 
 ## Section 4
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 19, 1971.

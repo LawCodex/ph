@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Sta. Ana Elementary School in Barangay Sta. Ana, Municipality of Escalante, Province of Negros Occidental, is hereby changed to Rosario C. Valdivia Elementary School.1âшphi1
+The name of the Sta. Ana Elementary School in Barangay Sta. Ana, Municipality of Escalante, Province of Negros Occidental, is hereby changed to Rosario C. Valdivia Elementary School.
 
 ## Section 2
 

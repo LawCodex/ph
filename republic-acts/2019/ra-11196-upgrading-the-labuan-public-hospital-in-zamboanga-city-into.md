@@ -38,7 +38,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 3
 
-\- The Department of Health shall, in coordination with the Department of Budget and Management and the Labuan General Hospital, determine the additional staff plantilla positions to be created pursuant to this Act.1âwphi1
+\- The Department of Health shall, in coordination with the Department of Budget and Management and the Labuan General Hospital, determine the additional staff plantilla positions to be created pursuant to this Act.
 
 ## Section 4
 

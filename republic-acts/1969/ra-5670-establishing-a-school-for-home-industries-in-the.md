@@ -46,7 +46,7 @@ e. Give training in the production and marketing of ceramics, and other handicra
 
 f. Render consultant service in the chemistry and technology side of ceramic and craft production.
 
-g. Give extension training in the barrios and other towns or service area of the province.1a⍵⍴h!1
+g. Give extension training in the barrios and other towns or service area of the province.
 
 ## Section 4
 

@@ -35,7 +35,7 @@ The architectural services and supervision in the construction of the hospital b
 
 ## Section 3
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction and establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven, including the purchase of a site.1avvphi1 Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of five hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction and establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven, including the purchase of a site. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -33,7 +33,7 @@ Section 86 of Republic Act No. 3445 is hereby deleted and a new Section 86 is he
 
 "SEC. 86. _Establishment of Division City Schools._ \- There shall be established under the supervision of the Department of Education (DepEd), a City Schools Division Office in the City of Canlaon which shall have jurisdiction over the school districts within the City of Canlaon and headed by a division superintendent who must posses the necessary qualifications required by the DepEd.
 
-"The staff complement for the City Schools Division Office of the City of Canlaon shall also possess the necessary qualifications required by the DepEd.ℒαwρhi৷
+"The staff complement for the City Schools Division Office of the City of Canlaon shall also possess the necessary qualifications required by the DepEd.
 
 "The salaries of the superintendent, supervisors, principals, teachers, nonteaching personnel and other operational expenses of the primary, intermediate high schools and other public schools in the city shall borne by the national government: _Provided,_ That the powers and duties of the local government, as contained in the Local Government Code in support of the schools, shall not be abridged, curtailed or diminished."
 

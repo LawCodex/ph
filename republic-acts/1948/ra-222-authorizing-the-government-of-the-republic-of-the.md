@@ -48,7 +48,7 @@ One per cent, if the interest charged is eight per cent;
 
 Three fourth per cent, if the interest charged is six per cent or more but less than eight per cent; and
 
-One fourth per cent, if the interest charged is less than six per cent.1aшphi1
+One fourth per cent, if the interest charged is less than six per cent.
 
 _Provided,_ However, That the above prescribed premiums shall be assumed by the lending institution concerned and shall not be shifted to the borrowing homebuilder.
 

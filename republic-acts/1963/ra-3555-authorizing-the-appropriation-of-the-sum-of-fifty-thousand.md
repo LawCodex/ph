@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of an additional building for the new Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, including the purchase of a site therefor.1âшphi1
+The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of an additional building for the new Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, including the purchase of a site therefor.
 
 ## Section 2
 

@@ -30,4 +30,4 @@ The First Public Works District in the Province of Bohol shall comprise the Muni
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, June 19, 1971.1âшphi1
+Enacted without Executive approval, June 19, 1971.

@@ -61,7 +61,7 @@ A new paragraph (e) is hereby inserted in Section 23 of Republic Act No. 8042, a
 
 ## Section 3
 
-_Appropriations._ -The Secretary of Social Welfare and Development shall include in the DSWD‘s programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.1âшphi1
+_Appropriations._ -The Secretary of Social Welfare and Development shall include in the DSWD‘s programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

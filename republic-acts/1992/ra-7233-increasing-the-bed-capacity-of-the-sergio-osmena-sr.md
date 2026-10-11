@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Sergio Osmeña, Sr., Municipal Hospital in the Municipality of Sergio Osmeña, Sr., Province of Zamboanga del Norte, is hereby increased from ten (10) to twenty-five (25) beds.1âшphi1
+The bed capacity of the Sergio Osmeña, Sr., Municipal Hospital in the Municipality of Sergio Osmeña, Sr., Province of Zamboanga del Norte, is hereby increased from ten (10) to twenty-five (25) beds.
 
 ## Section 2
 

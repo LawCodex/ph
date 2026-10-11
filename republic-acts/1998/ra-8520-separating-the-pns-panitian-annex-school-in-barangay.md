@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing PNS-Panitian Annex School in Barangay Panitian, Municipality of Sofronio Española, Province of Palawan, is hereby separated from the Palawan National School- Main and the same is hereby converted into a national high school to be known as the PNS-Panitian National High School.Ꮮαwρhi৷
+The existing PNS-Panitian Annex School in Barangay Panitian, Municipality of Sofronio Española, Province of Palawan, is hereby separated from the Palawan National School- Main and the same is hereby converted into a national high school to be known as the PNS-Panitian National High School.
 
 ## Section 2
 

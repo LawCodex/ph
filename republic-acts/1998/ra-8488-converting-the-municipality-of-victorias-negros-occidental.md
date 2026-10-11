@@ -351,7 +351,7 @@ _The Sangguniang Panlungsod._ – (a) The sangguniang panlungsod, the legislativ
 
 ### Section 11
 
-_Internal Rules of Procedure._ – (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.Ꮮαwρhi৷
+_Internal Rules of Procedure._ – (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.
 
 (b) The rules of procedure shall provide for the following:
 
@@ -959,7 +959,7 @@ _Suspension of Increase in Rates of Local Taxes._ – No increase in the rates o
 
 ### Section 49
 
-_Plebiscite._ – The City of Victorias shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by the qualified voters in a plebiscite to be conducted in the present Municipality of Victorias within sixty (60) days from the approval of this Act. The expenses for such plebiscite shall be borne by the Municipality of Victorias. The Commission on Elections shall conduct and supervise such plebiscite.Ꮮαwρhi৷
+_Plebiscite._ – The City of Victorias shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by the qualified voters in a plebiscite to be conducted in the present Municipality of Victorias within sixty (60) days from the approval of this Act. The expenses for such plebiscite shall be borne by the Municipality of Victorias. The Commission on Elections shall conduct and supervise such plebiscite.
 
 ### Section 50
 

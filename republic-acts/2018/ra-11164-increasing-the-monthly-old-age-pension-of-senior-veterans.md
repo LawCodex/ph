@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-For purposes of this Act, _Senior Veterans_ refer to the veterans of World War II, Korean and Vietnam wars.1âwphi1
+For purposes of this Act, _Senior Veterans_ refer to the veterans of World War II, Korean and Vietnam wars.
 
 ## Section 2
 

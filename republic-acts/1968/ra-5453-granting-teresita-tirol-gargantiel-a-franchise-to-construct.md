@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted to Teresita Tirol Gargantiel, herein referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Bayawan, Province of Negros Oriental, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to its neighboring municipalities, and to collect and charge a schedule of prices and rates for the ice and cold storage furnished.1avvphi1
+Subject to the conditions imposed by this Act, there is hereby granted to Teresita Tirol Gargantiel, herein referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Bayawan, Province of Negros Oriental, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to its neighboring municipalities, and to collect and charge a schedule of prices and rates for the ice and cold storage furnished.
 
 ## Section 2
 

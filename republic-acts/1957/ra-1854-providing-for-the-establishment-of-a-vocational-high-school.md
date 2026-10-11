@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Publ
 
 ## Section 2
 
-Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the Municipality of Guihulñgan of said province as may be necessary and convenient for the establishment of said high school.1âшphi1
+Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the Municipality of Guihulñgan of said province as may be necessary and convenient for the establishment of said high school.
 
 ## Section 3
 

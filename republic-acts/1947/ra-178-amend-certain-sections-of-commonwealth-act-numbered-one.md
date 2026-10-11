@@ -45,7 +45,7 @@ Section two, three, four, six, ten, and thirty-eight of Commonwealth Act Numbere
 
 "There is hereby created under the administrative supervision of the Secretary of Justice an office to be known as the Office of the People’s Counsel in the Public Service Commission. The People’s Counsel shall have two assistants and such number of employees as may be necessary to perform the functions hereinafter specified. The People’s Counsel and his assistants shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines. The employees of the Office of the People’s Counsel shall be appointed by the Secretary of Justice upon recommendation of the People’s Counsel.
 
-"The People’s Counsel and his assistants shall possess the qualifications of a provincial fiscal. The People’s Counsel shall receive compensation at the rate of seven thousand two hundred pesos per annum, and the First and Second Assistant People’s Counsels, at the rate of six thousand pesos per annum each.1â#x0448;phi1
+"The People’s Counsel and his assistants shall possess the qualifications of a provincial fiscal. The People’s Counsel shall receive compensation at the rate of seven thousand two hundred pesos per annum, and the First and Second Assistant People’s Counsels, at the rate of six thousand pesos per annum each.
 
 "The People’s Counsel, his assistants, and the employees of the Office of the People’s Counsel shall not, during their continuance in office, intervene directly or indirectly in the management or control of, or be financially interested directly or indirectly in, any public service as defined in this Act.
 

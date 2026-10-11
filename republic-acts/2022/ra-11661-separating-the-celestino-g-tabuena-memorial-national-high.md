@@ -36,7 +36,7 @@ All personnel, assets, liabilities and records of the Celestino G. Tabuena Memor
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Mercedes B. Peralta Senior High School, the initial funding of which shall be charged against the current year's appropriation of the Celestino G. Tabuena Memorial National High School - Mercedes B. Peralta Senior High School Extension.1aшphi1 Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Mercedes B. Peralta Senior High School, the initial funding of which shall be charged against the current year's appropriation of the Celestino G. Tabuena Memorial National High School - Mercedes B. Peralta Senior High School Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

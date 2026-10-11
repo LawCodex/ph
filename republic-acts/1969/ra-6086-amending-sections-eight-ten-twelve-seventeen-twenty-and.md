@@ -58,7 +58,7 @@ Section twelve of the same Act is hereby amended to read as follows:
 
 Section seventeen of the same Act is hereby amended to read as follows:
 
-"Section 17. _Quorum; per diems and Allowances._ —Four members of the Commission shall constitute a quorum for the transaction of business.1a⍵⍴h!1
+"Section 17. _Quorum; per diems and Allowances._ —Four members of the Commission shall constitute a quorum for the transaction of business.
 
 Until otherwise fixed by the Commission, the Chairman of the Commission shall receive a _per diem_ of one hundred and fifty pesos and the five commissioners and the Collector of Customs shall each receive a _per diem_ of not to exceed one hundred pesos, exclusive of travelling expenses, for each day of meeting actually attended by them: _Provided,_ That the meetings of the Commission shall not exceed four meetings a month."
 

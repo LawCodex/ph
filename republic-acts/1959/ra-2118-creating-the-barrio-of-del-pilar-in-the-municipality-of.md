@@ -24,6 +24,6 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Malaking Pook Ibaba is separated from the barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, and is constituted into a distinct and independent barrio of said municipality to be known as the barrio of Del Pilar.1aшphi1
+The sitio of Malaking Pook Ibaba is separated from the barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, and is constituted into a distinct and independent barrio of said municipality to be known as the barrio of Del Pilar.
 
 Approved: April 5, 1959.

@@ -33,7 +33,7 @@ The existing Land Transportation Office - Medellin Extension Office located in t
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall issue rules and regulations necessary for the effective implementation of this Act.1âwphi1
+The Secretary of the Department of Transportation shall issue rules and regulations necessary for the effective implementation of this Act.
 
 ## Section 3
 

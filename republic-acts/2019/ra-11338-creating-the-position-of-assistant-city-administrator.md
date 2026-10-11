@@ -71,7 +71,7 @@ Article VIII in the Charter of the City of Bayawan is hereby amended and two (2)
 
 "Sec. 51. _The City Registry of Deeds Office._ — (a) There shall be established in the City a city registry of deeds office, which shall be under the supervision and control of the Administrator of the Land Registration Authority, pursuant to the provision of Section 7 of Presidential Decree No. 1529, otherwise known as the Property Registration Decree.
 
-"(b) The City of Bayawan shall provide a suitable space or building for the office of the city register of deeds until such time as the same could be provided out of the national fund.1âшphi1
+"(b) The City of Bayawan shall provide a suitable space or building for the office of the city register of deeds until such time as the same could be provided out of the national fund.
 
 "(c) The Department of Budget and Management (DBM) is mandated to establish a full staff complement to support the registry of deeds until such time that the same shall be provided out of the national fund."
 

@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section sixteen of Republic Act Numbered Four thousand three hundred fifty-four is amended by adding thereto the following new subparagraph which shall read as follows:
 
-"(qq) To authorize the floating of bonds, issuance of certificates of indebtedness, to obtain loans from local and foreign entities for the purpose of financing self-liquidating projects, upon approval of the majority of the members of the Council and to provide for the manner of repayment of the said obligations by the city.1âшphi1
+"(qq) To authorize the floating of bonds, issuance of certificates of indebtedness, to obtain loans from local and foreign entities for the purpose of financing self-liquidating projects, upon approval of the majority of the members of the Council and to provide for the manner of repayment of the said obligations by the city.
 
 "Pursuant to Section one hundred twenty-eight of Republic Act Numbered Two hundred sixty-five, should the local government undertake any credit operation abroad, the opinion of the Monetary Board should be requested in writing on the monetary implications of the contemplated action and such foreign borrowings shall, pursuant to Public Act Numbered Sixty-one hundred forty-two and the Central Bank Circular No. 289, be passed upon and approved by the Central Bank."
 

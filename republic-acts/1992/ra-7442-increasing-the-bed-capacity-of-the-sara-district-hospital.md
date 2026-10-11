@@ -29,7 +29,7 @@ The Sara District Hospital in the Municipality of Sara, Province of Iloilo, is h
 
 ## Section 2
 
-The Secretary of Health shall determine the manner by which said hospital shall be operational.1âшphi1
+The Secretary of Health shall determine the manner by which said hospital shall be operational.
 
 ## Section 3
 

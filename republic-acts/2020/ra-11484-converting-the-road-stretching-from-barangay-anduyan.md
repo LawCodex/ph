@@ -1757,7 +1757,7 @@ From the point marked one (1) on the road located at coordinates 16 20'25.19" No
 <td>41</td>
 <td>E</td>
 <td>15.54</td>
-</tr><cite>ℒαwρhi৷</cite>
+</tr>
 <tr>
 <td>215</td>
 <td>N</td>

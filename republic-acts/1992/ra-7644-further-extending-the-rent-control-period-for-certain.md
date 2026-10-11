@@ -44,4 +44,4 @@ _Provided_ , _further_ , That the basis for the maximum increase herein authoriz
 
 This Act shall take effect on January 1, 1993 following its publication in at least two (2) newspapers of general circulation.
 
-Approved: **December 28, 1992**.lawphi1Ÿ
+Approved: **December 28, 1992**.

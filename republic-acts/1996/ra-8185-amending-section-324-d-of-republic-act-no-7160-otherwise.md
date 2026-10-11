@@ -39,7 +39,7 @@ Section 324 (d) of Republic Act No. 7160 is hereby amended to read as follows:
 
 ## Section 2
 
-The Oversight Committee on the Local Government Code, in coordination with concerned agencies, shall prepare and issue the implementing rules and regulations within thirty (30) days from the effectivity of this Act.1aшphi1
+The Oversight Committee on the Local Government Code, in coordination with concerned agencies, shall prepare and issue the implementing rules and regulations within thirty (30) days from the effectivity of this Act.
 
 ## Section 3
 

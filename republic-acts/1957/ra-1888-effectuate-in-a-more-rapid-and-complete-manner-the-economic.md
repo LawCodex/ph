@@ -74,7 +74,7 @@ The Commission shall have the following powers, functions, and duties:
 
 ## Section 5
 
-The Commission shall be the custodian and administrator and in charge of the disposition of public lands in the provinces and regions inhabited by the National Cultural Minorities reserved or which they hereafter be reserved by the President of the Philippines for settlement, townsites, roads, and the agricultural lands in said provinces and regions, which have been or may be surveyed and subdivided under Commonwealth Act Numbered Six hundred and ninety-one, as amended.1âшphi1
+The Commission shall be the custodian and administrator and in charge of the disposition of public lands in the provinces and regions inhabited by the National Cultural Minorities reserved or which they hereafter be reserved by the President of the Philippines for settlement, townsites, roads, and the agricultural lands in said provinces and regions, which have been or may be surveyed and subdivided under Commonwealth Act Numbered Six hundred and ninety-one, as amended.
 
 ## Section 6
 

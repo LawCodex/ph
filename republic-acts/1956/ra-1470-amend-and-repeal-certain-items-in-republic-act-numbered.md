@@ -117,4 +117,4 @@ Items eighty-eight to one hundred four, paragraph II, subsection h, for the Prov
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.

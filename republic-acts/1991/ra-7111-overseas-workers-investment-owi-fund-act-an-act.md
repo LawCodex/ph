@@ -25,15 +25,23 @@ AN ACT ESTABLISHING THE OVERSEAS WORKERS' INVESTMENT FUND TO PROVIDE INCENTIVES 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short Title._** – This Act shall be known as the **"_Overseas Workers' Investment (OWI) Fund Act._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is the policy of the State to protect and promote the welfare of Filipino overseas workers; to pioneer and develop innovative means to provide incentives; and to uplift the workers' families' living standards. It is likewise the policy of the State to reduce the foreign debt burden in order to better achieve sustained economic growth by way of tapping the unofficial and informal remittances of said workers.
+_Short Title._ – This Act shall be known as the **"_Overseas Workers' Investment (OWI) Fund Act._ "**
 
-**Section 3._Scope._** – This Act shall apply to all Filipino citizens overseas, who are workers duly registered with the Philippine Overseas Employment Administration (POEA) and/or the Commission on Filipino Overseas (CFO), and their beneficiaries in the Philippines: provided, that the additional benefits as enumerated in Section 8 of this Act shall not apply to Filipinos overseas, as defined in Section 2 of Batas Pambansa Blg. 79, who have already acquired immigrant status in their host countries: provided, further, that the participation of Filipinos overseas, as defined in Batas Pambansa Blg. 79, in the remittance programs under this Act shall be limited to the first two (2) years of operation of said programs effective from the date of publication of the implementing rules and regulations of this Act.
+## Section 2
+
+_Declaration of Policy._ – It is the policy of the State to protect and promote the welfare of Filipino overseas workers; to pioneer and develop innovative means to provide incentives; and to uplift the workers' families' living standards. It is likewise the policy of the State to reduce the foreign debt burden in order to better achieve sustained economic growth by way of tapping the unofficial and informal remittances of said workers.
+
+## Section 3
+
+_Scope._ – This Act shall apply to all Filipino citizens overseas, who are workers duly registered with the Philippine Overseas Employment Administration (POEA) and/or the Commission on Filipino Overseas (CFO), and their beneficiaries in the Philippines: provided, that the additional benefits as enumerated in Section 8 of this Act shall not apply to Filipinos overseas, as defined in Section 2 of Batas Pambansa Blg. 79, who have already acquired immigrant status in their host countries: provided, further, that the participation of Filipinos overseas, as defined in Batas Pambansa Blg. 79, in the remittance programs under this Act shall be limited to the first two (2) years of operation of said programs effective from the date of publication of the implementing rules and regulations of this Act.
 
 The participation of said overseas workers shall not exceed their total salaries or earnings for the period, counting from the effectivity of this Act.
 
-**Section 4._Overseas Workers' Investment Fund Board._** – There is hereby created the Overseas Workers' Investment (OWI) Fund Board, which is hereby vested with corporate powers in accordance with existing laws, to encourage the greater remittance of earnings of Filipino workers overseas and to safeguard and oversee the participation of said workers' remittances and savings in the Government's debt-reduction efforts and other productive undertakings. The Board shall be composed of the following as members:
+## Section 4
+
+_Overseas Workers' Investment Fund Board._ – There is hereby created the Overseas Workers' Investment (OWI) Fund Board, which is hereby vested with corporate powers in accordance with existing laws, to encourage the greater remittance of earnings of Filipino workers overseas and to safeguard and oversee the participation of said workers' remittances and savings in the Government's debt-reduction efforts and other productive undertakings. The Board shall be composed of the following as members:
 
 (1) The Secretary of the Department of Labor and Employment;
 
@@ -55,7 +63,9 @@ The Board shall within forty-five (45) days from the appointment of its members 
 
 The Board shall report to the President and to Congress the progress of its tasks and business on a semiannual basis.
 
-**Section 5._Powers/Functions of the OWI Fund Board._** – The OWI Fund Board shall have the following powers and functions:
+## Section 5
+
+_Powers/Functions of the OWI Fund Board._ – The OWI Fund Board shall have the following powers and functions:
 
 (1) To encourage the greater participation of Filipino overseas workers in official remittance schemes by way of:
 
@@ -95,7 +105,9 @@ The Board shall report to the President and to Congress the progress of its task
 
 (14) To adopt, amend or change its bylaws; to adopt, alter, or use a seal; to enter into contracts; to sue and be sued; and to exercise the general powers of a corporation.
 
-**Section 6._Debt Purchase Guidelines._** – In buying Philippine foreign debt papers pursuant to the debt-for-note scheme, the OWI Fund Board shall observe the following guidelines and standards:
+## Section 6
+
+_Debt Purchase Guidelines._ – In buying Philippine foreign debt papers pursuant to the debt-for-note scheme, the OWI Fund Board shall observe the following guidelines and standards:
 
 (1) Priority shall be given to Philippine foreign debt papers where the loan proceeds were actually utilized in projects, programs and balance of payments financing which benefited the Filipino people;
 
@@ -107,7 +119,9 @@ The Board shall report to the President and to Congress the progress of its task
 
 (5) Only remittances coursed through the nonfinancial entities and money couriers shall be utilized for debt conversion. Such remittances coursed through the financial institutions shall be used as loan and investment funds that will give priority to the needs and concerns of overseas workers and their families. Said loan and investment funds may also be utilized to finance the needs of small business enterprises: provided, that the workers' funds are one hundred percent (100%) guaranteed by the Government.
 
-**Section 7._Investment Instrument._** – The participatory debt reduction certificate (PDRC) shall be a negotiable government security guaranteed by the Republic of the Philippines to be issued in any of the following denominations: US$ 100, $200, $300, $400, $500, $1,000 and $2,000, redeemable in Philippine pesos at the full value of the Central Bank buying rate one (1) day prior to redemption. It shall automatically bear an interest rate which shall be reckoned based on the quarterly average of the London Interbank Offered Rates (LIBOR) plus one percent (1%), to be determined at the end of each quarter but payable at the end of each semester, and shall have a maturity of five (5) years from the date of issuance.
+## Section 7
+
+_Investment Instrument._ – The participatory debt reduction certificate (PDRC) shall be a negotiable government security guaranteed by the Republic of the Philippines to be issued in any of the following denominations: US$ 100, $200, $300, $400, $500, $1,000 and $2,000, redeemable in Philippine pesos at the full value of the Central Bank buying rate one (1) day prior to redemption. It shall automatically bear an interest rate which shall be reckoned based on the quarterly average of the London Interbank Offered Rates (LIBOR) plus one percent (1%), to be determined at the end of each quarter but payable at the end of each semester, and shall have a maturity of five (5) years from the date of issuance.
 
 The PDRC shall incorporate a tax-free premium over and above the face value of the same certificate, the percentage of which shall be fixed at one-half (1/2) of the numerical value of the discount of the purchased debt papers at the time of the remittance. The premium shall not earn interest.
 
@@ -117,7 +131,9 @@ The PDRCs shall be directly and immediately released/delivered to the beneficiar
 
 At the option of the remitting worker or his beneficiary in the Philippines, the PDRC may be exchanged for cash at face value at the official exchange rate with any of the accredited financial institutions, used as collateral for loans with concessional interest rates, sold to any investor, or kept to earn market interest rates.
 
-**Section 8._Additional Incentives._** – At the end of each calendar quarter, after providing for the settlement of all accounts payable and other obligations of the Fund and other charges of the Central Bank, the balance of the gains/proceeds in the OWI Fund shall be used in providing for the following, which shall accrue to the original holder:
+## Section 8
+
+_Additional Incentives._ – At the end of each calendar quarter, after providing for the settlement of all accounts payable and other obligations of the Fund and other charges of the Central Bank, the balance of the gains/proceeds in the OWI Fund shall be used in providing for the following, which shall accrue to the original holder:
 
 (1) Four-year scholarship grant in favor of a worker of any member of his family if said worker has remitted under the OWI Fund system Ten thousand dollars (US$10,000.00) worth of PDRC with a continuous two-year period: provided, that such grant shall conform to the set minimum academic standards of the school attended; that the grantee shall undergo six-month apprenticeship training before graduation; and that any remaining unused period of the four-year scholarship may be transferable to other qualified beneficiaries of said worker;
 
@@ -133,7 +149,9 @@ At the option of the remitting worker or his beneficiary in the Philippines, the
 
 The gains from debt conversion arrangements and profitable investments of the peso loan funds shall be the primary sources of funding for the incentives and benefits granted to the overseas workers, and of the investment operations of the OWI Fund programs, including the provision of reasonable returns to the other participants and the possible placements in investment ventures/opportunities with comparatively high returns and minimal risk.
 
-**Section 9._Coordinating Agencies._** – The following agencies of the Government shall provide complementary support services to the OWI Fund as follows:
+## Section 9
+
+_Coordinating Agencies._ – The following agencies of the Government shall provide complementary support services to the OWI Fund as follows:
 
 (1) The Central Bank (CB) shall formulate and implement the guidelines for a special debt-for-note conversion program exclusive to the OWI Fund;
 
@@ -151,7 +169,9 @@ The gains from debt conversion arrangements and profitable investments of the pe
 
 (d) Strengthening its linkages with accredited financial and other institutions.
 
-**Section 10._Contingency Measures._** – To ensure the continuity of the grant of premium and incentives to the overseas workers in cases of unavailability of debt papers in the international secondary market and the discount rate of Philippine debt paper falling to such levels that may impair the viability of the OWI Fund in the short run:
+## Section 10
+
+_Contingency Measures._ – To ensure the continuity of the grant of premium and incentives to the overseas workers in cases of unavailability of debt papers in the international secondary market and the discount rate of Philippine debt paper falling to such levels that may impair the viability of the OWI Fund in the short run:
 
 (1) The OWI Fund shall set aside five (5) percentage points of the discounts of the debt papers purchased as a reserve/contingency fund;
 
@@ -159,18 +179,28 @@ The gains from debt conversion arrangements and profitable investments of the pe
 
 (3) Congress may set aside an additional contingency incentives fund to encourage workers to remit their foreign exchange through accredited channels.
 
-**Section 11._Initial Funding._** – The Philippine National Bank (PNB), the Overseas Workers Welfare Administration (OWWA) and the other government financial institutions may place in trust with the OWI Fund a minimum amount of Two million dollars (US$2,000,000.00) each (or its peso equivalent) or provide the same in the form of a short-term loan to the OWI Fund which shall earn them the same interest as the yield on ninety-day treasury bills. This initial funding shall serve as standby fund.
+## Section 11
+
+_Initial Funding._ – The Philippine National Bank (PNB), the Overseas Workers Welfare Administration (OWWA) and the other government financial institutions may place in trust with the OWI Fund a minimum amount of Two million dollars (US$2,000,000.00) each (or its peso equivalent) or provide the same in the form of a short-term loan to the OWI Fund which shall earn them the same interest as the yield on ninety-day treasury bills. This initial funding shall serve as standby fund.
 
 In addition, the accredited financial institutions, money couriers, and other service participants in the remittance system shall be required to deposit in trust with the OWI Fund the equivalent of twenty percent (20%) of their projected quarterly remittance transactions under this Act which shall, likewise, earn them the same interest as the yield on ninety-day treasury bills.
 
-**Section 12._Program Period._** – The OWI Fund shall operate for not more than five (5) years from the date of publication of the implementing rules and regulations of this Act: provided, that this period may be extended by the President for a period of not exceeding three (3) years upon recommendation of the OWI Fund Board.
+## Section 12
+
+_Program Period._ – The OWI Fund shall operate for not more than five (5) years from the date of publication of the implementing rules and regulations of this Act: provided, that this period may be extended by the President for a period of not exceeding three (3) years upon recommendation of the OWI Fund Board.
 
 Upon termination of operations, the OWI Fund support organization and/or trustee shall nevertheless continue its functions for three (3) years after the termination of the remittance system for the purpose of prosecuting and defending suits by or against the OWI Fund and enabling it to settle and wind up its affairs, but not for the purpose of continuing the remittance, debt-for-note and other operations for which the Fund was established.
 
-**Section 13._Separability Clause._** – If any provision of this Act is declared unconstitutional, the other portions shall remain valid.
+## Section 13
 
-**Section 14._Repealing Clause._** – Any provision of law, decree, order, or rules and regulations inconsistent with the provisions of this Act is hereby repealed or modified accordingly.
+_Separability Clause._ – If any provision of this Act is declared unconstitutional, the other portions shall remain valid.
 
-**Section 15._Effectivity._** – This Act shall take effect upon its approval.
+## Section 14
+
+_Repealing Clause._ – Any provision of law, decree, order, or rules and regulations inconsistent with the provisions of this Act is hereby repealed or modified accordingly.
+
+## Section 15
+
+_Effectivity._ – This Act shall take effect upon its approval.
 
 Approved: **August 22, 1991**.

@@ -71,9 +71,7 @@ The term "gross receipts" means the total amount of money or its equivalent repr
 
 (c) _Determination of Tax._ \- The tax shall be computed by multiplying the total amount indicated in the official receipt by one-eleventh (1/11)."
 
-## Section. 2
-
-Section 109 of the same Code is hereby amended by rewording paragraph (l) and inserting additional paragraphs after (z) which shall now read as follows:
+**Section. 2.** Section 109 of the same Code is hereby amended by rewording paragraph (l) and inserting additional paragraphs after (z) which shall now read as follows:
 
 "SEC. 109. Exempt Transactions. - The following shall be exempt from the value-added tax.
 

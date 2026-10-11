@@ -975,7 +975,7 @@ c. The city veterinarian shall take charge of the Office of Veterinary Services,
 
 4\. Recommend to the sangguniang panlungsod and advise the city mayor on all other matters relative to veterinary services which will increase the number and improve the quality of livestock, poultry, and other domestic animals used for work or human consumption; and
 
-5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.1aшphi1
+5\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 47
 

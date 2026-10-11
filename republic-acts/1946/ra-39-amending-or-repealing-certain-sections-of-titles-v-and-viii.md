@@ -58,7 +58,7 @@ Section two hundred and fifty of Commonwealth Act Numbered Four hundred and sixt
 
 ## Section 5
 
-Sections two hundred and fifty-one to two hundred and fifty-four of Commonwealth Act Numbered Four hundred and sixty-six are hereby repealed.1âwphi1
+Sections two hundred and fifty-one to two hundred and fifty-four of Commonwealth Act Numbered Four hundred and sixty-six are hereby repealed.
 
 ## Section 6
 

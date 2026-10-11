@@ -43,7 +43,9 @@ Section 2 of Republic Act No. 7610, as amended, otherwise known as the "Special 
 
 "The best interests of children shall be the paramount consideration in all actions concerning them, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities, and legislative bodies, consistent with the principle of First Call for Children as enunciated in the United Nations Convention on the Rights of the Child. Every effort shall be exerted to promote the welfare of children and enhance their opportunities for a useful and happy life."
 
-**Section 2.__** Section 12 of the same Act, as amended, is hereby further amended to read as follows:
+## Section 2
+
+** Section 12 of the same Act, as amended, is hereby further amended to read as follows:
 
 "Sec. 2. _Employment of Children_ \- Children below fifteen (15) years of age shall not be employed except:
 

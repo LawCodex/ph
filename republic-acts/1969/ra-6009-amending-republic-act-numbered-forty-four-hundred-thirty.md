@@ -45,4 +45,4 @@ A new section is hereby inserted between Sections one and two of the same Act to
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

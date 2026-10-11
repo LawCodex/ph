@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities_ \- All personnel, assets, liabilities and r
 
 ## Section 3
 
-_Appropriations_ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the New Albay National High School, the initial funding of which shall be charged against the current year's appropriations of the Maragusan National High School- New Albay Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriation Act.1avvphi1
+_Appropriations_ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the New Albay National High School, the initial funding of which shall be charged against the current year's appropriations of the Maragusan National High School- New Albay Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriation Act.
 
 ## Section 4
 

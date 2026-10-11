@@ -388,7 +388,7 @@ The BAR shall allocate funds annually from its regular R&D funds to support rese
 
 All LGUs shall include in their investment plans, as part of the priority appropriations for local development fund, the funding support for the implementation of their respective provincial, city, municipal and barangay agricultural and fisheries mechanization programs in accordance with Republic Act No. 7160 and its implementing rules and regulations and the Department of the Interior and Local Government-Department of Budget and Management (DILG-DBM) Joint Memorandum Circular No. 1, Series of 2005.
 
-The CHED shall allocate funds from the Higher Education Development Fund necessary for the upgrading of agri-fisheries mechanization and engineering laboratory facilities of concerned SUCs, faculty training program and scholarships.1âwphi1
+The CHED shall allocate funds from the Higher Education Development Fund necessary for the upgrading of agri-fisheries mechanization and engineering laboratory facilities of concerned SUCs, faculty training program and scholarships.
 
 The TESDA shall likewise allocate funds from its annual appropriations necessary for the skills certification and training program for agri-fishery machinery technicians and operators.
 

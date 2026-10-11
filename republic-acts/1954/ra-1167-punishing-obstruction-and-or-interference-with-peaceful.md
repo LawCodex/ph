@@ -30,7 +30,7 @@ In the person who violates the provisions of this Act is a peace officer, he sha
 
 ## Section 2
 
-Any act or part of acts, rules and regulations or executive orders inconsistent with the provisions of this Act are hereby repealed.1âшphi1
+Any act or part of acts, rules and regulations or executive orders inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

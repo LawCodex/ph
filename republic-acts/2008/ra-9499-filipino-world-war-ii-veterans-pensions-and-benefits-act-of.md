@@ -29,25 +29,41 @@ AN ACT ALLOWING FILIPINO WORLD WAR II VETERANS TO CONTINUE RECEIVING PHILIPPINE 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**SECTION 1._Short Title._** \- This Act shall be known as the **"_Filipino World War II Veterans Pensions and Benefits Act of 2008._ "**
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It is the policy of the State to recognize and reward the courage and heroism of Filipino World War II veterans by granting them pensions and benefits even when similar pensions and benefits are already provided by the United States Government.
+_Short Title._ \- This Act shall be known as the **"_Filipino World War II Veterans Pensions and Benefits Act of 2008._ "**
 
-**SEC. 3._Amendment of Section 10 ofRepublic Act No. 6948, as Amended._** \- Section 10 of Republic Act No. 6948, as amended, is hereby further amended to read as follows:
+## SEC. 2
+
+_Declaration of Policy._ \- It is the policy of the State to recognize and reward the courage and heroism of Filipino World War II veterans by granting them pensions and benefits even when similar pensions and benefits are already provided by the United States Government.
+
+## SEC. 3
+
+_Amendment of Section 10 ofRepublic Act No. 6948, as Amended._ \- Section 10 of Republic Act No. 6948, as amended, is hereby further amended to read as follows:
 
 "SEC. 10. _Eligibility._ \- A veteran as defined in Section 2(a) of this Act who is at least sixty-five (65) years old shall be paid and old-age pension of Five thousand pesos (P5,000.00) monthly for life, unless he is actually receiving a similar pension for the same consideration from other government funds."
 
-**SEC. 4._Amendment of Section 11 ofRepublic Act No. 6948, as Amended._** \- Section 11 of Republic Act No. 6948, as amended, is hereby further amended to read as follows:
+## SEC. 4
+
+_Amendment of Section 11 ofRepublic Act No. 6948, as Amended._ \- Section 11 of Republic Act No. 6948, as amended, is hereby further amended to read as follows:
 
 "SEC. 11. _Pension of Surviving Spouse._ \- The surviving spouse of a veteran as defined in Section 2(a) of this Act shall, Regardless of age, be paid a pension of Five thousand pesos (P5,000,00) monthly until he/she remarries or dies, unless he/she is actually receiving a similar pension for the same consideration from other Philippine Government funds. This pension is separate and distinct from the death pension granted under Section 12 of this Act."
 
-**SEC. 5._Appropriation._** \- The funding to carry out this Act shall be included in the annual General Appropriations Act.
+## SEC. 5
 
-**SEC. 6._Repealing Clause._** \- All laws, decrees, orders, rules and regulations or other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Appropriation._ \- The funding to carry out this Act shall be included in the annual General Appropriations Act.
 
-**SEC. 7._Separability Clause._** \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provisions not affected thereby shall remain in force and effect.
+## SEC. 6
 
-**SEC. 8._Effectivity._** \- This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation in the Philippines.
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations or other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 7
+
+_Separability Clause._ \- If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provisions not affected thereby shall remain in force and effect.
+
+## SEC. 8
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation in the Philippines.
 
 Approved,
 

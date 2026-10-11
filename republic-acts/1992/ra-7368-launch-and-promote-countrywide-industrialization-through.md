@@ -165,7 +165,7 @@ _Annual Report of the Commission on Audit and the Management Board._ \- The avai
 
 ## Section 13
 
-_Penalties._ \- Any person who shall unlawfully and maliciously divert the financial assistance allocated under this Act or violate the provisions of Section 6 hereof shall, in addition to the penalties imposed under existing laws, be punished with imprisonment ranging from six (6) years to twelve (12) years and a fine of Fifty thousand pesos (P50,000.00).1âшphi1
+_Penalties._ \- Any person who shall unlawfully and maliciously divert the financial assistance allocated under this Act or violate the provisions of Section 6 hereof shall, in addition to the penalties imposed under existing laws, be punished with imprisonment ranging from six (6) years to twelve (12) years and a fine of Fifty thousand pesos (P50,000.00).
 
 Any public officer or employee who shall, on his own or in connivance with others, commit the acts mentioned under the preceding paragraph shall be punished with the maximum penalty imposed under this section in addition to perpetual disqualification from public office.
 

@@ -30,7 +30,7 @@ _Title of Act._ -This Act shall be known as the "Chemical Engineering Law."
 
 ### Section 2
 
-_Creation and Composition of Board._ -Within thirty days after approval of this Act, there shall be created a Board of Examiners for Chemical Engineers to be composed of three members possessing the qualifications prescribed in Section 4 of this Act, appointed by the Secretary of Public Works and Communications and one of whom is to be designated as chairman. The first Board of Examiners for Chemical Engineers to be created herein shall each be issued a new certificate of registration as chemical engineer in accordance with the provisions of this Act.1aшphi1
+_Creation and Composition of Board._ -Within thirty days after approval of this Act, there shall be created a Board of Examiners for Chemical Engineers to be composed of three members possessing the qualifications prescribed in Section 4 of this Act, appointed by the Secretary of Public Works and Communications and one of whom is to be designated as chairman. The first Board of Examiners for Chemical Engineers to be created herein shall each be issued a new certificate of registration as chemical engineer in accordance with the provisions of this Act.
 
 ### Section 3
 

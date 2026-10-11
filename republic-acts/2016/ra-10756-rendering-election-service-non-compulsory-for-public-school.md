@@ -124,7 +124,7 @@ _Election Offense._ – Any person who makes or causes the delay in the payment 
 
 ## SECTION 11
 
-_Establishment and Administration of a Trust Fund._ – The Commission shall establish a special trust fund for medical assistance, death benefits, legal assistance and indemnification as provided under this Act.1âwphi1 The trust fund shall not be used for proposes other than what are provided for by this Act.
+_Establishment and Administration of a Trust Fund._ – The Commission shall establish a special trust fund for medical assistance, death benefits, legal assistance and indemnification as provided under this Act. The trust fund shall not be used for proposes other than what are provided for by this Act.
 
 ## SECTION 12
 

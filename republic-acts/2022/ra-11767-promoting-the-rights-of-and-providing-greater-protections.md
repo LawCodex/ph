@@ -62,7 +62,7 @@ The presumption of natural-born status of a foundling may not be impugned in any
 
 _Administrative Adoption and Status of Legitimacy._ \- In the event that the biological parents cannot be identified and located, the foundling shall be declared legally available for adoption subject to existing laws, rules and regulations and taking into consideration the best interest of the child.
 
-The relevant provisions of Republic Act No. 11642, otherwise known as the "Domestic Administrative Adoption and Alternative Child Care Act", shall apply in the adoption of foundlings.ℒαwρhi৷
+The relevant provisions of Republic Act No. 11642, otherwise known as the "Domestic Administrative Adoption and Alternative Child Care Act", shall apply in the adoption of foundlings.
 
 Consistent with Section 41 of Republic Act No. 11642, once the adoption of the foundling is finalized, the adopted foundling shall be considered the legitimate child of the adopter for all intents and purposes and, as such, is entitled to all the rights and obligations provided by law to legitimate children born to them without discrimination of any kind. To this end, the adoptee is entitle to love, guidance, and support in keeping with the means of the family. The legitimate filiation that is created between the adopter and adopted foundling shall be extended to the adopter's parents, adopter's legitimate siblings, and legitimate descendants.
 
@@ -118,7 +118,7 @@ If the parentage of one foundling is established, and the foundling cannot acqui
 
 _Recovering Legal Custody and Restoring Parental Authority._ \- The biological parent/s or legal guardian of a foundling may petition the NACC to recover the legal custody and restore parental authority over the child: _Provided,_ That if the child was voluntarily committed, or if any of the following is pending with the NACC: (a) Petition for the issuance of Certificate Declaring a Child Legally Available for Adoption (CDCLAA), (b) Supervised trial custody, or (c) Petition for Adoption, the relevant provisions of Republic Act No. 11642 shall apply. In deciding all cases, the best interest of the child shall be the paramount consideration of the NACC.
 
-If the child is already adopted, all legal ties between the biological parents or legal guardian and the child are severed and the same shall be vested on the adopters.ℒαwρhi৷
+If the child is already adopted, all legal ties between the biological parents or legal guardian and the child are severed and the same shall be vested on the adopters.
 
 The NACC or the LSWDO shall provide necessary counseling and other necessary programs and services to the biological parents, and the necessary assistance to authorities when the biological parents of a foundling are identified and express the desire to reclaim or exercise parental authority over them.
 
@@ -196,7 +196,7 @@ _Implementing Rules and Regulations._ \- Within ninety (90) days from the approv
 
 _Transitory Provision._ \- All the benefits of this Act shall also apply yo foundlings duly registered as such during their childhood, but have reached the age of maturity without benefitting from adoption procedures: _Provided,_ That such foundling shall undergo the procedure and comply with the requirements outlined in the IRR within ten (10) years from its effectivity.
 
-Before the establishment of the NACC as provided under Section 56 of Republic Act No. 11642, the functions of the NACC relating to foundlings shall remain with the DSWD.ℒαwρhi৷ The functions of the RACCO shall, during the three (3)-year period, be performed by the DSWD field offices in coordination with the LSWDOs.
+Before the establishment of the NACC as provided under Section 56 of Republic Act No. 11642, the functions of the NACC relating to foundlings shall remain with the DSWD. The functions of the RACCO shall, during the three (3)-year period, be performed by the DSWD field offices in coordination with the LSWDOs.
 
 ### Section 23
 

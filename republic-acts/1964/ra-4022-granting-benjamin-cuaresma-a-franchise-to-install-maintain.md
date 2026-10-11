@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act and Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Benjamin Cuaresma for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Bambang, Province of Nueva Vizcaya.(awÞhi(
+Subject to the terms and conditions established in Act and Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Benjamin Cuaresma for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Bambang, Province of Nueva Vizcaya.
 
 ## Section 2
 

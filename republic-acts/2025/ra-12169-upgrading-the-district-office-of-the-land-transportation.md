@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in the Municipality 
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO Agoo District Office in the Province of La Union, the initial funding of which shall be charged against the current year's appropriation of the said office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO Agoo District Office in the Province of La Union, the initial funding of which shall be charged against the current year's appropriation of the said office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

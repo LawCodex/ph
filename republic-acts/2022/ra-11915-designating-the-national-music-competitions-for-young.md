@@ -126,7 +126,7 @@ _Memorandum of Agreement._ — Within thirty (30) days upon the effectivity of t
 
 ## Section 7
 
-_Appropriations._ — The amount necessary for the implementation of this Act shall be charged against the current year's budget of the NCCA (Proper).1a⍵⍴h!1 Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act, subject to existing budgeting, accounting and auditing rules and regulations.
+_Appropriations._ — The amount necessary for the implementation of this Act shall be charged against the current year's budget of the NCCA (Proper). Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act, subject to existing budgeting, accounting and auditing rules and regulations.
 
 ## Section 8
 

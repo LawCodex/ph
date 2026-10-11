@@ -37,7 +37,7 @@ The existing service facilities and professional health care services of the JBL
 
 ## Section 3
 
-The existing workforce of the JBLMGH shall also be correspondingly increased. The Department of Health, in coordination with the Department of Budget and Management and the Civil Service Commission, shall determine the additional plantilla positions to be created and filled up upon prior consultation with the JBLMGH.ℒαwρhi৷
+The existing workforce of the JBLMGH shall also be correspondingly increased. The Department of Health, in coordination with the Department of Budget and Management and the Civil Service Commission, shall determine the additional plantilla positions to be created and filled up upon prior consultation with the JBLMGH.
 
 ## Section 4
 

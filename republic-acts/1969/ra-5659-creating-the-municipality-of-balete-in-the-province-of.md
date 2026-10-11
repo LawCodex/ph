@@ -34,6 +34,6 @@ The first mayor, vice-mayor, and councilors of the new municipality shall be ele
 
 ## Section 3
 
-This Act shall take effect upon the qualification of the mayor, vice-mayor and councilors elected.1a⍵⍴h!1
+This Act shall take effect upon the qualification of the mayor, vice-mayor and councilors elected.
 
 Approved, June 21, 1969.

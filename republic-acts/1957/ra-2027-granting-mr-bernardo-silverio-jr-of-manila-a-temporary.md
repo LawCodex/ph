@@ -60,7 +60,7 @@ In the event of any competing individual, partnership or corporation receiving f
 
 ## Section 10
 
-Acceptance of this temporary permit shall be given in writing within six months after said approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the right and privilege herein granted.1âшphi1
+Acceptance of this temporary permit shall be given in writing within six months after said approval of this Act. When so accepted by the grantee and upon the approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the right and privilege herein granted.
 
 ## Section 11
 

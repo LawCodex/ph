@@ -37,7 +37,7 @@ The existing professional health care services and facilities of the BGHMC shall
 
 ## Section 4
 
-The existing workforce of the BGHMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.ℒαwρhi৷
+The existing workforce of the BGHMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
 
 ## Section 5
 

@@ -179,7 +179,7 @@ There shall be an administrative council consisting of the president of the Stat
 
 ## Section 15
 
-The Treasurer of the Republic of the Philippines shall be the ex officio Treasurer of the State College.Ꮮαwρhi৷
+The Treasurer of the Republic of the Philippines shall be the ex officio Treasurer of the State College.
 
 ## Section 16
 

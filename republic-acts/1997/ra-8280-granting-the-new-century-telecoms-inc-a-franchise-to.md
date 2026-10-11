@@ -68,7 +68,7 @@ c. Commence operations within five (5) years from the effectivity of this Act.
 
 ## Section 8
 
-_Acceptance and Compliance._ – Acceptance of this franchise shall be given in writing within sixty (60) days from the effectivity of this Act.1aшphi1 Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
+_Acceptance and Compliance._ – Acceptance of this franchise shall be given in writing within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 
 ## Section 9
 

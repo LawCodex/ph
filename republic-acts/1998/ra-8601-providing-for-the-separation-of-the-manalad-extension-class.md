@@ -39,7 +39,7 @@ The Secretary of Education, Culture and Sports shall issue such rules and regula
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Andulawan Barangay National High School-Manalad Extension Class. Thereafter, such sums as may be necessary for the operation and maintenance of the Manalad National High School shall be included in the annual General Appropriations Act.Ꮮαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Andulawan Barangay National High School-Manalad Extension Class. Thereafter, such sums as may be necessary for the operation and maintenance of the Manalad National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

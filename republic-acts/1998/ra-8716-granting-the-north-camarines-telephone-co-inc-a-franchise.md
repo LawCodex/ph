@@ -71,7 +71,7 @@ Acceptance and Compliance. — Acceptance of this franchise shall be given in wr
 
 ## Section 9
 
-_Bond._ — The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted.Ꮮαwρhi৷ If after five (5) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise _ipso facto_ revoked.
+_Bond._ — The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted. If after five (5) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise _ipso facto_ revoked.
 
 ## Section 10
 

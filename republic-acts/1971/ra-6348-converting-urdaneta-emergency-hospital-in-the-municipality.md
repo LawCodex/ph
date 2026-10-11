@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Urdaneta Emergency Hospital in the Municipality of Urdaneta, Province of Pangasinan, is hereby converted into a general hospital to be known as Urdaneta General Hospital.1âшphi1
+Urdaneta Emergency Hospital in the Municipality of Urdaneta, Province of Pangasinan, is hereby converted into a general hospital to be known as Urdaneta General Hospital.
 
 ## Section 2
 

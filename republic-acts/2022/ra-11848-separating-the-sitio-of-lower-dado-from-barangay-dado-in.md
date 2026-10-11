@@ -40,7 +40,7 @@ _Territorial Boundaries._ \- The territorial boundaries of Barangay Lower Dado a
 
 ## Section 3
 
-_Conduct and Supervision of Plebiscite._ – The plebiscite conducted and supervised by the Commission of Elections (COMELEC) pursuant to Provincial Ordinance No. 14, Series od 1991 of the Sangguniang Panlalawigan of the Province of North Cotabato, which ratified the creation of Barangay Lower Dado as proclaimed by the Plebiscite Board of Canvassers on November 29, 2017, shall serve as substantial compliance with the plebiscite requirement under Section 10 of the Local Government Code of 1991, as amended.ℒαwρhi৷
+_Conduct and Supervision of Plebiscite._ – The plebiscite conducted and supervised by the Commission of Elections (COMELEC) pursuant to Provincial Ordinance No. 14, Series od 1991 of the Sangguniang Panlalawigan of the Province of North Cotabato, which ratified the creation of Barangay Lower Dado as proclaimed by the Plebiscite Board of Canvassers on November 29, 2017, shall serve as substantial compliance with the plebiscite requirement under Section 10 of the Local Government Code of 1991, as amended.
 
 ## Section 4
 

@@ -33,7 +33,7 @@ The President of the Philippines, shall have the power and authority to permit t
 
 ## Section 3
 
-This permit shall continue to be in force during the time that the government has not established similar service at the places selected by the grantee.1a⍵⍴h!1
+This permit shall continue to be in force during the time that the government has not established similar service at the places selected by the grantee.
 
 ## Section 4
 

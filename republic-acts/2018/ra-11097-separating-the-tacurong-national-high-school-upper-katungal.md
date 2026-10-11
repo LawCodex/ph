@@ -33,11 +33,11 @@ The Tacurong National High School - Upper Katungal Annex in Barangay Upper Katun
 
 ## Section 2
 
-All personnel, assets, liabilities, and records of the Tacurong National High School - Upper Katungal Annex are hereby transferred to and absorbed by the Upper Katungal National High School.1avvphi1
+All personnel, assets, liabilities, and records of the Tacurong National High School - Upper Katungal Annex are hereby transferred to and absorbed by the Upper Katungal National High School.
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Upper Katungal National High School, the initial funding of which shall be charged against the current year's appropriation of the Tacurong National High School - Upper Katungal Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Upper Katungal National High School, the initial funding of which shall be charged against the current year's appropriation of the Tacurong National High School - Upper Katungal Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

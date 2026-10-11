@@ -44,7 +44,7 @@ _Responsibility to the Public._ \- The grantee shall provide adequate public ser
 
 ## Section 5
 
-_Right of Government._ \- A special right is hereby reserved to the President of the Philippines, in times of rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations of the grantee, to temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantees for the use of said stations, during the period when they shall be so operated.1aшphi1
+_Right of Government._ \- A special right is hereby reserved to the President of the Philippines, in times of rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations of the grantee, to temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantees for the use of said stations, during the period when they shall be so operated.
 
 ## Section 6
 

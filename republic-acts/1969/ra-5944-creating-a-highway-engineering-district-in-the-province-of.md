@@ -32,6 +32,6 @@ All existing laws or parts thereof, executive orders and administrative regulati
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, **June 21, 1969.**

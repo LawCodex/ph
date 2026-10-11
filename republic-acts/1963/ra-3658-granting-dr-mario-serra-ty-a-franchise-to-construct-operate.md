@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is granted to Dr. Mario Serra Ty, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in each of the municipalities of Tandag, Tago, Cagwait, Bayabas and Cortes, all in the Province of Surigao del Sur, and to sell ice therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is granted to Dr. Mario Serra Ty, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in each of the municipalities of Tandag, Tago, Cagwait, Bayabas and Cortes, all in the Province of Surigao del Sur, and to sell ice therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.
 
 ## Section 2
 

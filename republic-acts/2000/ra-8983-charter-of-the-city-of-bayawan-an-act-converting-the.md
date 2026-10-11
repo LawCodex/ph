@@ -463,7 +463,7 @@ _Approval of Ordinances._ -
 
 a. Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor. If the city mayor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
-b. The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.ℒαwρhi৷
+b. The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.
 
 ### Section 16
 
@@ -1249,7 +1249,7 @@ _Officials of the City of Bayawan._ \- The present elective officials of the Mun
 
 ### Section 54
 
-_Succession Clause._ \- The City of Bayawan shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Bayawan.ℒαwρhi৷
+_Succession Clause._ \- The City of Bayawan shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Bayawan.
 
 ### Section 55
 

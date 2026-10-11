@@ -249,7 +249,7 @@ _The Price Action Officer._ – Whenever the President deems it necessary, he ma
 
 4\. He shall establish linkages and coordinate with nongovernment or private organizations in the affected area to assist in the monitoring and implementation of price control therein; and
 
-5\. He shall exercise such other functions and duties as may be given to him by the President.1âшphi1
+5\. He shall exercise such other functions and duties as may be given to him by the President.
 
 ## Section 14
 

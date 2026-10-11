@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Tudela National High School Annex in Poblacion, Municipality of Tudela, Province of Misamis Occidental, is hereby separated from the Kolambutan Bajo National High School in Kolambutan Bajo, also in the Municipality of Tudela, and converted into an independent national comprehensive high school, to be known as the Tudela National Comprehensive High School.1aшphi1
+The Tudela National High School Annex in Poblacion, Municipality of Tudela, Province of Misamis Occidental, is hereby separated from the Kolambutan Bajo National High School in Kolambutan Bajo, also in the Municipality of Tudela, and converted into an independent national comprehensive high school, to be known as the Tudela National Comprehensive High School.
 
 ## Section 2
 

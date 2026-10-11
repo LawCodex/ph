@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Subsection (m) of section two of Act Numbered Twenty-eight hundred and thirty-two, as amended by Commonwealth Act Numbered Four hundred thirty-eight and Republic Act Numbered Eleven hundred forty-nine, is further amended to read as follows:
 
-"(m) When essential to the proper administration of its corporate affairs or necessary for the proper transaction of its business or to carry out the purposes for which it was organized, to contract indebtedness and issue bonds, subject to the approval of the Secretary of Finance.1âшphi1 The bonded indebtedness of the District, of all classes, shall not at any time exceed forty million pesos, and the issue thereof shall be subject to the conditions set forth in section five of this Act, as amended."
+"(m) When essential to the proper administration of its corporate affairs or necessary for the proper transaction of its business or to carry out the purposes for which it was organized, to contract indebtedness and issue bonds, subject to the approval of the Secretary of Finance. The bonded indebtedness of the District, of all classes, shall not at any time exceed forty million pesos, and the issue thereof shall be subject to the conditions set forth in section five of this Act, as amended."
 
 ## Section 2
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Eastern Visayas Science High School in Candahug, Palo, Leyte, shall be changed to Philippine Science High School-Eastern Visayas Campus.1aшphi1
+The name of the Eastern Visayas Science High School in Candahug, Palo, Leyte, shall be changed to Philippine Science High School-Eastern Visayas Campus.
 
 ## Section 2
 

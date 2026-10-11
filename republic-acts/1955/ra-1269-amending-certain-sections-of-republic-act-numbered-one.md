@@ -41,7 +41,7 @@ The last paragraph of section twelve of the same Act is amended to read as follo
 
 Section twenty-five of the same Act is amended to read as follows:
 
-"Sec. 25. _The City Attorney— His powers and duties._ — There shall be a City Attorney who shall be the chief of the Law Department of the city, a first assistant attorney who shall be the assistant chief, a second assistant city attorney, and two third assistant city attorneys, who shall discharge their duties under the general supervision of the Secretary of Justice.1âшphi1 The City Attorney shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:
+"Sec. 25. _The City Attorney— His powers and duties._ — There shall be a City Attorney who shall be the chief of the Law Department of the city, a first assistant attorney who shall be the assistant chief, a second assistant city attorney, and two third assistant city attorneys, who shall discharge their duties under the general supervision of the Secretary of Justice. The City Attorney shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:
 
 "(a) He shall represent the city in all civil cases wherein the city or any officer thereof, in his official capacity, is a party.
 

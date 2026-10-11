@@ -37,7 +37,7 @@ The first, second and third paragraphs of Section twenty-three of Commonwealth A
 
 "4. Police and Fire Department.
 
-"5. Department of Public Services.1âшphi1
+"5. Department of Public Services.
 
 "The board may from time to time make such re-adjustments of the duties of the several departments as the public interest may demand.
 
@@ -61,7 +61,7 @@ A new article and a new section to be known as Article VIII-A and Section sixty-
 
 "e. He shall have authority to charge, at rates to be fixed by the municipal board with the approval of the City Mayor, fees for public services and supplies furnished by his department to private parties.
 
-"f. He shall have authority to declare that any lot or ground within the City of Iloilo belonging to any person or corporation or to the National Government, or any branch or political subdivision thereof, is so low, excavated or walled, diked or dammed as to admit or cause the formation on the surface thereof of stagnant or foul water or that it is a nuisance or a menace to public health, unless filled in or its sanitary condition otherwise improved, and shall communicate same to the Mayor.1âшphi1
+"f. He shall have authority to declare that any lot or ground within the City of Iloilo belonging to any person or corporation or to the National Government, or any branch or political subdivision thereof, is so low, excavated or walled, diked or dammed as to admit or cause the formation on the surface thereof of stagnant or foul water or that it is a nuisance or a menace to public health, unless filled in or its sanitary condition otherwise improved, and shall communicate same to the Mayor.
 
 "g. He shall execute and enforce all laws, ordinances, and regulations relating to public services.
 

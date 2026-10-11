@@ -32,11 +32,11 @@ The funds and obligations and property of all kinds of the City of Legaspi shall
 
 ## Section 3
 
-Officials and employees of the City of Legaspi who may be separated from the service as a consequence of the provisions of this Act, shall receive a gratuity in an amount equivalent to one month’s salary for every year of service in the government of the said city, the same to be paid by the National Government.1âшphi1
+Officials and employees of the City of Legaspi who may be separated from the service as a consequence of the provisions of this Act, shall receive a gratuity in an amount equivalent to one month’s salary for every year of service in the government of the said city, the same to be paid by the National Government.
 
 ## Section 4
 
-The first mayor, vice-mayor, and the councilors of the municipality of Legaspi and the municipality of Daraga recreated herein shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and shall have qualified.1aшphi1
+The first mayor, vice-mayor, and the councilors of the municipality of Legaspi and the municipality of Daraga recreated herein shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and shall have qualified.
 
 ## Section 5
 

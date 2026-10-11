@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established a district office of the Land Transportation Office (LTO) in the City of Sipalay, Province of Negros Occidental.1âwphi1
+There shall be established a district office of the Land Transportation Office (LTO) in the City of Sipalay, Province of Negros Occidental.
 
 ## Section 2
 
@@ -41,7 +41,7 @@ The Secretary of the DOTr shall issue rules and regulations necessary for the ef
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

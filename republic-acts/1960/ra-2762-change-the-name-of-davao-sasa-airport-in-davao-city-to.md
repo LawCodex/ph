@@ -28,6 +28,6 @@ In recognition of the philanthropic acts of the late Don Francisco Bangoy, the n
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1960.

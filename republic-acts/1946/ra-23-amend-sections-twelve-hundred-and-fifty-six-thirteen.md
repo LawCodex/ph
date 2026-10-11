@@ -31,6 +31,6 @@ Section eight of Act Numbered Forty-one hundred and nine, as amended, is hereby 
 
 ## Section 2
 
-This Act shall take effect upon its approval.£á⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: September 25, 1946

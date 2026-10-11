@@ -65,6 +65,6 @@ All Acts, executive orders, administrative orders, rules and regulations or part
 
 ## Section 5
 
-_Effective Date._ — This Act shall take effect upon its approval.1a⍵⍴h!1
+_Effective Date._ — This Act shall take effect upon its approval.
 
 Enacted without executive approval, Aug. 4, 1969.

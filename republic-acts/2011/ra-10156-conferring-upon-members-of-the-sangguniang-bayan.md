@@ -39,7 +39,7 @@ _Coverage._ – This Act shall cover all members of the Sangguniang Bayan, Sangg
 
 ## Section 4
 
-_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations, issuances or any part thereof inconsistent with the provisions of this Act are hereby repealed or amended accordingly.1aшphi1
+_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations, issuances or any part thereof inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
 
 ## Section 5
 

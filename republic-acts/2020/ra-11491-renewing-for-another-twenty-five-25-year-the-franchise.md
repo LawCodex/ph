@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Nature and Scope of Franchise._ – Subject to the provisions of the Constitution and applicable laws, rules and regulations, the franchise granted to Crusaders Broadcasting System, Inc., hereunder referred to as the grantee, its successors or assignees, under Republic Act No. 8091, to construct, install, establish, operate, and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations. where frequencies and/or channels are still available for radio and/or television broadcasting, including digital television system, through microwave, satellite or whatever means, including the use of any new technologies in television and radio systerns, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations in the Philippines, is hereby renewed for another twenty- five (25) years from the effectivity of this Act.ℒαwρhi৷
+_Nature and Scope of Franchise._ – Subject to the provisions of the Constitution and applicable laws, rules and regulations, the franchise granted to Crusaders Broadcasting System, Inc., hereunder referred to as the grantee, its successors or assignees, under Republic Act No. 8091, to construct, install, establish, operate, and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations. where frequencies and/or channels are still available for radio and/or television broadcasting, including digital television system, through microwave, satellite or whatever means, including the use of any new technologies in television and radio systerns, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations in the Philippines, is hereby renewed for another twenty- five (25) years from the effectivity of this Act.
 
 ## Section 2
 
@@ -87,7 +87,7 @@ _Reportorial Requirement._ \- The grantee shall submit an annual report to the C
 
 The annual report shall include an update on the roll-out, development, operation and/or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.ℒαwρhi৷
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 

@@ -39,7 +39,7 @@ _Records of assets, liabilities , capital, income, etc._ -The grantee shall make
 
 ## Section 4
 
-_Record of amount of depreciation of depreciable property._ -The grantee shall record in its accounts at the end of each month the estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable properties which it shall submit to the Public Service Commission for approval, until such time as the Public Service Commission fixes the service lives and depreciation rate which the grantee shall be required to use thereafter.1aшphi1
+_Record of amount of depreciation of depreciable property._ -The grantee shall record in its accounts at the end of each month the estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable properties which it shall submit to the Public Service Commission for approval, until such time as the Public Service Commission fixes the service lives and depreciation rate which the grantee shall be required to use thereafter.
 
 ## Section 5
 
@@ -75,7 +75,7 @@ _Penal provision._ -Any public officer or employee found directly or indirectly 
 
 Any public officer or employee found directly or indirectly responsible for the violation of this section, or any such officer or employee who, having known such violation, fails to report the same to the justice of the peace, shall be punished with dismissal from the service and by imprisonment for not less than one year and not more than five years.
 
-Nothing in this section shall be construed to relieve or exempt the grantee from complying with the provisions of other laws relating to franchises.1âшphi1
+Nothing in this section shall be construed to relieve or exempt the grantee from complying with the provisions of other laws relating to franchises.
 
 ## Section 11
 

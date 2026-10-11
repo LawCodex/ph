@@ -28,7 +28,7 @@ There shall be established a pilot project for animal industry in the Municipali
 
 ## Section 2
 
-The Director of the Bureau of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1âшphi1
+The Director of the Bureau of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

@@ -326,7 +326,7 @@ _Salt Farmers Cooperatives and Associations._ \- The CDA shall assist in the for
 
 ## Section 20
 
-_Trade and Export Assistance._ \- The DTI and the DA shall assist and support local salt producers in the trade and exportation of their product.1aшphi1 They shall enhance the capabilities and global competitiveness of potential and exiting producers and exporters through export financing; business matching; provision of trade and market information; promotion of locally produced salt to local and international markets; organization of trade fairs and business missions; conduct of seminars, workshops, conferences and symposium on export-related subjects, including export documentation and procedures; product design and development; and market and product consultancy. The government shall give preference to locally produced salt in government purchases.
+_Trade and Export Assistance._ \- The DTI and the DA shall assist and support local salt producers in the trade and exportation of their product. They shall enhance the capabilities and global competitiveness of potential and exiting producers and exporters through export financing; business matching; provision of trade and market information; promotion of locally produced salt to local and international markets; organization of trade fairs and business missions; conduct of seminars, workshops, conferences and symposium on export-related subjects, including export documentation and procedures; product design and development; and market and product consultancy. The government shall give preference to locally produced salt in government purchases.
 
 ## Section 21
 
@@ -450,7 +450,7 @@ _Reporting._ \- The various departments and agencies specified in this Act shall
 
 ## Section 31
 
-_Congressional Oversight._ \- The COCAFM shall regularly exercise its oversight powers to ensure the full implementation of this Act.⌊aшΡhi⌊
+_Congressional Oversight._ \- The COCAFM shall regularly exercise its oversight powers to ensure the full implementation of this Act.
 
 ## Section 32
 

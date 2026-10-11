@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Department of Health, a
 
 ## Section 2
 
-The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1âшphi1
+The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

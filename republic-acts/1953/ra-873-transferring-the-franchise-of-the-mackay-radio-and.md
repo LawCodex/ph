@@ -37,7 +37,7 @@ That the rights, powers and privileges granted to the Mackay Radio and Telegraph
 
 ## Section 2
 
-That said Mackay Radio and Telegraph Company, the Delaware corporation, shall signify in writing its acceptance, as successor to the original grantee, of the franchise so transferred to it within three months after approval of this Act, and when so accepted the said Mackay Radio and Telegraph Company, the Delaware corporation, shall be confirmed in the exercise of the privileges granted by such franchise.1a⍵⍴h!1
+That said Mackay Radio and Telegraph Company, the Delaware corporation, shall signify in writing its acceptance, as successor to the original grantee, of the franchise so transferred to it within three months after approval of this Act, and when so accepted the said Mackay Radio and Telegraph Company, the Delaware corporation, shall be confirmed in the exercise of the privileges granted by such franchise.
 
 ## Section 3
 

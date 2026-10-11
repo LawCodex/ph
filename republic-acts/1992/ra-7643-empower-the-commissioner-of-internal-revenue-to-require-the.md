@@ -50,4 +50,4 @@ All laws, decrees, orders, rules and regulations, and other issuances inconsiste
 
 This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.
 
-Approved: **December 28, 1992**.lawphi1Ÿ
+Approved: **December 28, 1992**.

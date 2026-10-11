@@ -126,7 +126,7 @@ Powers and Functions of the Tatak Pinoy Council. - The TP Council shall serve as
 
 ## Section 6
 
-_Technical and Secretariat Support._ \- A Secretariat to the TP Council, herein referred to as the "TP Council Secretariat".1aшphi1 shall be established within the Department of Trade and Industry (DTI), to be headed by an Executive Director IV (Salary Grade 29), who shall be appointed by the President of the Philippines from a list of at least five (5) nominees from the TP Council.
+_Technical and Secretariat Support._ \- A Secretariat to the TP Council, herein referred to as the "TP Council Secretariat". shall be established within the Department of Trade and Industry (DTI), to be headed by an Executive Director IV (Salary Grade 29), who shall be appointed by the President of the Philippines from a list of at least five (5) nominees from the TP Council.
 
 The Executive Director IV shall be a person of proven integrity and good moral character, shall have relevant experience and practice in the fields of industry development, data-driven industrial policy, domestic and/or international trade, entrepreneurship, innovation, or any related field, and be a person of proven administrative proficiency and expertise in the area of management with a minimum of five (5) years experience in an executive leadership capacity.
 
@@ -232,7 +232,7 @@ _Domestic Preference in Government Procurement._ \- For a period of ten (10) yea
 
 (c) Where domestic, preference will result in inconsistencies with the Philippines' obligations under the international agreements; or
 
-(d) Other analogous circumstances.1aшphi1
+(d) Other analogous circumstances.
 
 After ten (10)-year period, the domestic preference provided herein shall be subject to the margin of preference to be determined by the TP Council which should not be lower than fifteen percent (15%): _Provided,_ That this period for domestic preference may be extended by Act of Congress.
 

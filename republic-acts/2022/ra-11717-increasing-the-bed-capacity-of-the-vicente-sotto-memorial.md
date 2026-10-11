@@ -38,7 +38,7 @@ The existing professionals health care services and facilities of the VSMMC are 
 
 ## Section 3
 
-The existing workforce of the VSMMC, which includes doctors, nurses, and support personnel, shall also be increased correspondingly.ℒαwρhi৷ The Secretary of the DOH shall, after consultation with the Chief of the VSMMC, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created and filled up.
+The existing workforce of the VSMMC, which includes doctors, nurses, and support personnel, shall also be increased correspondingly. The Secretary of the DOH shall, after consultation with the Chief of the VSMMC, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created and filled up.
 
 ## Section 4
 

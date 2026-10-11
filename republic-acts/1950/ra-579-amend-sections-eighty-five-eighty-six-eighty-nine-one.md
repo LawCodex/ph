@@ -75,7 +75,7 @@ Section eighty-six of Commonwealth Act Numbered Four hundred and sixty-six, as a
 
 "Twenty per centum of the amount by which the share exceeds five hundred thousand pesos and does not exceed one million pesos; and
 
-"Twenty-two per centum of the amount by which the share exceeds one million pesos.⚖ - ℒαɯρhi৷
+"Twenty-two per centum of the amount by which the share exceeds one million pesos.
 
 "Where the property is received for educational or charitable purposes, it shall be the duty of the person or persons in charge thereof to submit from time to time a report of the administration and use of the property to the Collector of Internal Revenue and within twenty days after demand therefor has been made by the said Collector.
 

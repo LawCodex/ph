@@ -225,7 +225,7 @@ a. Importation in commercial quantities of species of seeds that are being produ
 
 b. Exportation of rare species, varieties, lines and strains of plants from the country except for scientific or international exchange purposes which shall be determined by the Council; and
 
-c. Such other activities as the Council may deem fit to prohibit.1âшphi1
+c. Such other activities as the Council may deem fit to prohibit.
 
 ## Section 16
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Balading in the Municipality of Cuyo, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Balading.1avvphi1
+The sitio of Balading in the Municipality of Cuyo, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Balading.
 
 ## Section 2
 

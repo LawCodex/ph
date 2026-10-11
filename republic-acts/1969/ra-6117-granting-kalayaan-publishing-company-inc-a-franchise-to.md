@@ -76,6 +76,6 @@ This franchise shall not be interpreted as an exclusive grant of the privileges 
 
 ## Section 14
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

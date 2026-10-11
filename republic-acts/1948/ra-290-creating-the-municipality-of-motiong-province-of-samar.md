@@ -32,7 +32,7 @@ The municipal mayor, vice mayor and councilors of the new municipality shall be 
 
 ## Section 3
 
-The municipality herein established shall begin to exist on the date fixed in a proclamation to that effect by the President of the Philippines and upon the appointment and qualification of its members.1aшphi1
+The municipality herein established shall begin to exist on the date fixed in a proclamation to that effect by the President of the Philippines and upon the appointment and qualification of its members.
 
 ## Section 4
 

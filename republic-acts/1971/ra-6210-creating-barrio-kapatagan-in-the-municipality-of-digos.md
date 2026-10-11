@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Kapatagan in the Municipality of Digos, Province of Davao del Sur, is hereby converted into a distinct and independent barrio of said municipality to be known as the barrio of Kapatagan.1âшphi1
+The sitio of Kapatagan in the Municipality of Digos, Province of Davao del Sur, is hereby converted into a distinct and independent barrio of said municipality to be known as the barrio of Kapatagan.
 
 ## Section 2
 

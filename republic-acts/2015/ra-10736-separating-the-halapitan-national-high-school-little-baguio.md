@@ -57,7 +57,7 @@ Approved,
 </tr>
 </table>
 
-This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 19, 2014 and October 7, 2015, respectively.1âwphi1
+This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 19, 2014 and October 7, 2015, respectively.
 
 | (Sgd.) OSCAR G. YABES Secretary of the Senate | (Sgd.) MARILYN B. BARUA-YAP Secretary GeneralHouse of Representatives |
 |---|---|

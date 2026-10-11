@@ -56,11 +56,11 @@ The grantee, its successors or assigns, shall be subject to the corporation laws
 
 ## Section 9
 
-A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, calamity, disaster, or disturbance of peace or order to cause the closing of the grantee’s radio telephone stations or to authorize the temporary use or possession thereof by any department of the Government, upon just compensation.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, calamity, disaster, or disturbance of peace or order to cause the closing of the grantee’s radio telephone stations or to authorize the temporary use or possession thereof by any department of the Government, upon just compensation.
 
 ## Section 10
 
-This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant to the privilege herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant to the privilege herein provided for.
 
 ## Section 11
 

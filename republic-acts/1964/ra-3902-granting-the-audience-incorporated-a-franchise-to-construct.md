@@ -83,7 +83,7 @@ Wherever in this franchise the term "grantee" is used: it shall be held and unde
 
 ## Section 15
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 16
 

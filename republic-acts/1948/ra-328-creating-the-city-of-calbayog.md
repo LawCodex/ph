@@ -666,7 +666,7 @@ _Failure to enact an appropriation ordinance._ -Whenever the board fails to enac
 
 _Regular, auxiliary and acting judges of municipal courts._ -There shall be a municipal court for the City of Calbayog for which there shall be appointed a municipal judge and auxiliary municipal judge.
 
-The municipal judge may, upon proper application, be allowed a vacation of not more than thirty days every year with salary.1aшphi1 The auxiliary municipal judge shall discharge the duties in case of absence, incapacity or inability of the municipal judge until he assumes his post, or until a new judge shall have been appointed. During his incumbency the auxiliary municipal judge shall enjoy the powers, emoluments and privileges of the municipal judge who shall not receive any remuneration therefor except the salary to which he is entitled by reason of his vacation provided for in this Act.
+The municipal judge may, upon proper application, be allowed a vacation of not more than thirty days every year with salary. The auxiliary municipal judge shall discharge the duties in case of absence, incapacity or inability of the municipal judge until he assumes his post, or until a new judge shall have been appointed. During his incumbency the auxiliary municipal judge shall enjoy the powers, emoluments and privileges of the municipal judge who shall not receive any remuneration therefor except the salary to which he is entitled by reason of his vacation provided for in this Act.
 
 In case of absence, incapacity or inability, of both the municipal judge and the auxiliary municipal judge, the Secretary of Justice shall designate the justice of the peace of any of the adjoining municipalities to preside over the municipal court, and he shall hold the office temporarily until the regular incumbent or the auxiliary judge thereof shall have resumed office, or until another judge shall have been appointed in accordance with the provisions of this Act. The justice of the peace so designated shall receive his salary as justice of the peace plus seventy per cent of the salary of the municipal judge whose office he has temporarily assumed.
 
@@ -728,7 +728,7 @@ _Reports to the Mayor concerning schools—Construction and custody of school bu
 
 ### Section 88
 
-_The City Health Officer—His salary, powers and duties._ — There shall be in the City of Calbayog a city health officer.1aшphi1 He shall have a salary of not exceeding three thousand pesos per annum. The City Health Officer shall have the following general powers and duties:
+_The City Health Officer—His salary, powers and duties._ — There shall be in the City of Calbayog a city health officer. He shall have a salary of not exceeding three thousand pesos per annum. The City Health Officer shall have the following general powers and duties:
 
 (a) He shall have general supervision over the health and sanitary conditions of the city.
 

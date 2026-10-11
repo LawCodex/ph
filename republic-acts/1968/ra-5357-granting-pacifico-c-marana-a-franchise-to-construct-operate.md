@@ -41,7 +41,7 @@ The books, records, and accounts of the grantee shall, always be open to inspect
 
 ## Section 5
 
-This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates.1avvphi1 In consideration of the franchise hereby granted, the grantee shall pay quarterly into the municipal treasury a tax equivalent of two per centum of the gross earnings derived by the grantee from his operation under this franchise.
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates. In consideration of the franchise hereby granted, the grantee shall pay quarterly into the municipal treasury a tax equivalent of two per centum of the gross earnings derived by the grantee from his operation under this franchise.
 
 ## Section 6
 

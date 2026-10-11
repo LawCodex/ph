@@ -33,6 +33,6 @@ Section one of Republic Act Numbered Three hundred and sixty-six is amended to r
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

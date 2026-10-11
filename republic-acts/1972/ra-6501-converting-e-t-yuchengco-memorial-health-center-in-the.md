@@ -28,7 +28,7 @@ The E.T. Yuchengco Memorial Health Center in the Municipality of Bautista, Provi
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury otherwise appropriated, for the conversion, operation and Maintenance of said hospital during the fiscal year nineteen hundred seventy-three. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury otherwise appropriated, for the conversion, operation and Maintenance of said hospital during the fiscal year nineteen hundred seventy-three. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

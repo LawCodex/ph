@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Batac General Hospital in the Municipality of Batac, Province of IIocos Norte, is hereby increased from fifty beds to one hundred beds.1âшphi1
+The bed capacity of the Batac General Hospital in the Municipality of Batac, Province of IIocos Norte, is hereby increased from fifty beds to one hundred beds.
 
 ## Section 2
 

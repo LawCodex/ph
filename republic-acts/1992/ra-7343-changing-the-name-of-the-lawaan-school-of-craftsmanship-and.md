@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Lawaan School of Craftsmanship and Home Industries in Lawaan, Eastern Samar, is hereby changed to Lawaan National School of Craftsmanship and Home Industries.1âшphi1
+The name of the Lawaan School of Craftsmanship and Home Industries in Lawaan, Eastern Samar, is hereby changed to Lawaan National School of Craftsmanship and Home Industries.
 
 ## Section 2
 

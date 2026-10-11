@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The provisions of existing laws or ordinances to the contrary notwithstanding, the Ramon Magsaysay Award Foundation shall be exempt from the payment of all taxes, whether national or local, and from such fees and other charges as are or may be imposed by the Central Bank or other government entities.1âшphi1
+The provisions of existing laws or ordinances to the contrary notwithstanding, the Ramon Magsaysay Award Foundation shall be exempt from the payment of all taxes, whether national or local, and from such fees and other charges as are or may be imposed by the Central Bank or other government entities.
 
 ## Section 2
 

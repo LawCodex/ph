@@ -77,7 +77,7 @@ _Sale, Lease, Transfer, Grant of Usufruct,_ or A _ssignment of Franchise._ \- Th
 
 ## Section 12
 
-_Dispersal of Ownership._ \- In accordance with the constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) or a higher percentage that may hereafter be provided by law of its outstanding capital stock in any securities exchange in the Philippines within five (5) years from the commencement of its operations: _Provided,_ That in cases where public offer of shares is not applicable, the grantee shall apply other methods of encouraging public participation by citizens and corporations operating public utilities as allowed by law. Noncompliance therewith shall render the franchise _ipso facto_ revoked.1âwphi1
+_Dispersal of Ownership._ \- In accordance with the constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) or a higher percentage that may hereafter be provided by law of its outstanding capital stock in any securities exchange in the Philippines within five (5) years from the commencement of its operations: _Provided,_ That in cases where public offer of shares is not applicable, the grantee shall apply other methods of encouraging public participation by citizens and corporations operating public utilities as allowed by law. Noncompliance therewith shall render the franchise _ipso facto_ revoked.
 
 ## Section 13
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of Ziga Memorial Hospital in the Municipality of Tabaco, Province of Albay, hereby increased from twenty-five beds to fifty beds.1âшphi1
+The bed capacity of Ziga Memorial Hospital in the Municipality of Tabaco, Province of Albay, hereby increased from twenty-five beds to fifty beds.
 
 ## Section 2
 

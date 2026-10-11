@@ -37,7 +37,7 @@ The tenth paragraph of Section fifty-two of the same Act is further amended to r
 
 ## Section 3
 
-Such sums as may be necessary to carry out the purpose of this Act is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated.1avvphi1
+Such sums as may be necessary to carry out the purpose of this Act is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 4
 

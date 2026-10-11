@@ -33,7 +33,7 @@ The Department of Education, Culture and Sports shall cause the change of status
 
 ## Section 2
 
-The subject school shall be known as the Atimonan National Comprehensive High School.1a⍵⍴h!1
+The subject school shall be known as the Atimonan National Comprehensive High School.
 
 ## Section 3
 

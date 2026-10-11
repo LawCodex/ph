@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Batanes National High School – Mahatao Branch located in the Municipality of Mahatao, Province of Batanes, is hereby converted into an independent national high school to be known as the Mahatao National High School under the Department of Education, Culture and Sports.1aшphi1
+The Batanes National High School – Mahatao Branch located in the Municipality of Mahatao, Province of Batanes, is hereby converted into an independent national high school to be known as the Mahatao National High School under the Department of Education, Culture and Sports.
 
 ## Section 2
 

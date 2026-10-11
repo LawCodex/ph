@@ -42,7 +42,7 @@ _Power of the National Historical Commission of the Philippines._ – For this p
 
 ## Section 4
 
-_Appropriations._ – The Chairman of the NHCP shall immediately include in the Commission’s program the operationalization of the Sheikh Karimul Makhdum Mosque as a national historical landmark, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ – The Chairman of the NHCP shall immediately include in the Commission’s program the operationalization of the Sheikh Karimul Makhdum Mosque as a national historical landmark, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

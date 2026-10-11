@@ -48,7 +48,7 @@ In case of the death of an officer or employee entitled to the benefits of this 
 
 ## Section 7
 
-The three-months advance salary given pursuant to Administrative Order Numbered One hundred sixty-seven, dated December twelve, nineteen hundred and forty-one and Commonwealth Act Numbered Six hundred seventy-six, and the two months’ gratuity paid under Administrative Order Numbered Twenty-seven, dated December seven, nineteen hundred forty-five, and Executive Order Numbered Eighty-three, dated December twenty-four, nineteen hundred and forty-five, and any back pay received or to be received from the United States Government shall be deducted from the payment of the back pay.1aшphi1
+The three-months advance salary given pursuant to Administrative Order Numbered One hundred sixty-seven, dated December twelve, nineteen hundred and forty-one and Commonwealth Act Numbered Six hundred seventy-six, and the two months’ gratuity paid under Administrative Order Numbered Twenty-seven, dated December seven, nineteen hundred forty-five, and Executive Order Numbered Eighty-three, dated December twenty-four, nineteen hundred and forty-five, and any back pay received or to be received from the United States Government shall be deducted from the payment of the back pay.
 
 ## Section 8
 

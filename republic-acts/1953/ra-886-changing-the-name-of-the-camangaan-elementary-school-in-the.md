@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Camangaan Elementary School in the barrio 28, municipality of Laoag, Province of Ilocos Norte, is hereby changed to Plaridel Elementary School.1a⍵⍴h!1
+The name of the Camangaan Elementary School in the barrio 28, municipality of Laoag, Province of Ilocos Norte, is hereby changed to Plaridel Elementary School.
 
 ## Section 2
 

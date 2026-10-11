@@ -28,15 +28,25 @@ AN ACT SEPARATING THE CAA HIGH SCHOOL ANNEX IN BARANGAY BF INTERNATIONAL/CAA, LA
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Separation and Conversion into a National High School._** \- The CAA High School Annex in Barangay BF International/CAA, Las Piñas City is hereby separated from the Las Piñas National High School and converted into an independent national high school to be known as the CAA National High School.
+## SECTION 1
 
-**SEC. 2._Transfer of Assets and Liabilities._** \- All personnel, assets, liabilities and records of the CAA High School Annex are hereby transferred to and absorbed by the CAA National High School.
+_Separation and Conversion into a National High School._ \- The CAA High School Annex in Barangay BF International/CAA, Las Piñas City is hereby separated from the Las Piñas National High School and converted into an independent national high school to be known as the CAA National High School.
 
-**SEC. 3._Appropriations._** \- The Secretary of Education shall immediately include in the Department's program the operationalization of the CAA National High School, the initial funding of which shall be charged against the current year's appropriations of the Las Piñas National High School - CAA High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+## SEC. 2
 
-**SEC. 4._Implementation._** \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+_Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and records of the CAA High School Annex are hereby transferred to and absorbed by the CAA National High School.
 
-**SEC. 5._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+## SEC. 3
+
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the CAA National High School, the initial funding of which shall be charged against the current year's appropriations of the Las Piñas National High School - CAA High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+## SEC. 4
+
+_Implementation._ \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+## SEC. 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

@@ -33,7 +33,7 @@ The existing hospital facilities and professional health care services of the PG
 
 ## Section 3
 
-The amount necessary for the effective implementation of this Act shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The amount necessary for the effective implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

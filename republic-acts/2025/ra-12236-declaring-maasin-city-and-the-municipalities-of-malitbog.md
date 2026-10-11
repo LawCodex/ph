@@ -39,7 +39,7 @@ The DOT shall assist the Provincial Government of Southern Leyte in the implemen
 
 ## Section 4
 
-The funding for the implementation of this Act shall be included in the annual budget of the Provincial Government of Southern Leyte. The DOT may augment such allocation with internally generated funds.ℒαwρhi৷
+The funding for the implementation of this Act shall be included in the annual budget of the Provincial Government of Southern Leyte. The DOT may augment such allocation with internally generated funds.
 
 ## Section 5
 

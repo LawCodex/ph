@@ -28,7 +28,7 @@ The Nueva Ecija Provincial Hospital in the City of Cabanatuan is converted into 
 
 ## Section 2
 
-The bed capacity of the Center will be four hundred beds.1âшphi1
+The bed capacity of the Center will be four hundred beds.
 
 ## Section 3
 

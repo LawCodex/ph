@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Curva in the Municipality of Medellin, Province of Cebu, is converted into a barrio of said municipality to be known as the barrio of Curva.1avvphi1
+The sitio of Curva in the Municipality of Medellin, Province of Cebu, is converted into a barrio of said municipality to be known as the barrio of Curva.
 
 ## Section 2
 

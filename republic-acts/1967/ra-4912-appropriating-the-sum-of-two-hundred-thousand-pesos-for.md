@@ -35,7 +35,7 @@ The Philippine Government, through the Department of Foreign Affairs has accepte
 
 Participants to the course will be senior foreign service officers of some experience from the ministries of foreign affairs of the governments of the countries in the EROPA region, to study and analyze selected problems of foreign relations, with a view of attaining a deeper understanding of Asian affairs and the position of Asia in a community of nations, to provide the opportunity for improving knowledge and skills required by modern diplomacy and for broadening the outlook of foreign relations with a sense of development and to promote understanding among participants.
 
-On the basis of the experience gained in the conducting of the course, it is expected that a center for diplomatic training among countries in Asia will be established.1avvphi1
+On the basis of the experience gained in the conducting of the course, it is expected that a center for diplomatic training among countries in Asia will be established.
 
 The First Asian Foreign Service Course will be held in Manila and Baguio from August 4 to September 29, 1967. The Civil Service Commission has accepted the responsibility of providing the leadership for the conduct of the course, together with the Department of Foreign Affairs.
 

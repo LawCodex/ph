@@ -88,7 +88,7 @@ _Procedures in Filing a Complaint_ \-
 
 (c) After a full investigation shall have been made by the DTI, it shall issue its decision and findings not later than thirty (30) days from the receipt of the complaint.
 
-(d) Nothing herein shall be construed to limit or impair the rights and remedies of a consumer under any other law.1awp++i1
+(d) Nothing herein shall be construed to limit or impair the rights and remedies of a consumer under any other law.
 
 ## Section 6
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of twenty million pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of essential classroom supplies for free distribution to individual pupils in the public primary schools for the school year ending March, nineteen hundred and sixty-four.1âшphi1
+The sum of twenty million pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of essential classroom supplies for free distribution to individual pupils in the public primary schools for the school year ending March, nineteen hundred and sixty-four.
 
 ## Section 2
 

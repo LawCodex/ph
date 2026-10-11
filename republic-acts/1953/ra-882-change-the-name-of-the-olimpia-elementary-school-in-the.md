@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Olimpia Elementary School in the municipality of Makati, Province of Rizal, is hereby changed to Francisco Benitez Elementary School.1a⍵⍴h!1
+The name of the Olimpia Elementary School in the municipality of Makati, Province of Rizal, is hereby changed to Francisco Benitez Elementary School.
 
 ## Section 2
 

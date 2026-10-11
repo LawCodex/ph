@@ -34,7 +34,7 @@ _The Quezon Panitian National High School_ — Malatgao Extension in Barangay Ma
 
 ## SECTION 2
 
-All personnel, assets, liabilities and records of the Quezon Panitian National High School—Malatgao Extension are hereby transferred to and absorbed by the Malatgao National High School.1avvphi1
+All personnel, assets, liabilities and records of the Quezon Panitian National High School—Malatgao Extension are hereby transferred to and absorbed by the Malatgao National High School.
 
 ## SECTION 3
 

@@ -38,7 +38,7 @@ The last paragraph of Section eight of the same Act is amended to read as follow
 
 The first paragraph of Section thirty-one of the same Act is amended to read as follows:
 
-"Sec. 31. _The City Fiscal and assistant city fiscal— Their powers and duties._ -There shall be a city fiscal and an assistant city fiscal who shall discharge their duties under the general supervision of the Secretary of Justice.1âшphi1 The City Fiscal and assistant city fiscal shall receive a salary of five thousand one hundred pesos and three thousand six hundred pesos per annum, respectively. The City Fiscal shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:"
+"Sec. 31. _The City Fiscal and assistant city fiscal— Their powers and duties._ -There shall be a city fiscal and an assistant city fiscal who shall discharge their duties under the general supervision of the Secretary of Justice. The City Fiscal and assistant city fiscal shall receive a salary of five thousand one hundred pesos and three thousand six hundred pesos per annum, respectively. The City Fiscal shall be the chief legal adviser of the city and all offices and departments thereof. He shall have the following powers and duties:"
 
 ## Section 4
 

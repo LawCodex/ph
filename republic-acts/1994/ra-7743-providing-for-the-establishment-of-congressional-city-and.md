@@ -75,7 +75,7 @@ _Rules and Regulations._ \- Within sixty (60) days from the approval of this Act
 
 ## Section 10
 
-_Repealing Clause_. -All acts, presidential decrees, executive orders and issuances inconsistent with this Act are hereby repealed or amended accordingly.1a⍵⍴h!1
+_Repealing Clause_. -All acts, presidential decrees, executive orders and issuances inconsistent with this Act are hereby repealed or amended accordingly.
 
 ## Section 11
 

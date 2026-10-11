@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Malay Municipal Hospital in Barangay Balusbus, Municipality of Malay, Province of Aklan, is hereby expanded and upgraded from a ten-bed capacity municipal hospital to a twenty-five-bed capacity district hospital, to be known as the Malay District Hospital.1âшphi1
+The Malay Municipal Hospital in Barangay Balusbus, Municipality of Malay, Province of Aklan, is hereby expanded and upgraded from a ten-bed capacity municipal hospital to a twenty-five-bed capacity district hospital, to be known as the Malay District Hospital.
 
 ## Section 2
 

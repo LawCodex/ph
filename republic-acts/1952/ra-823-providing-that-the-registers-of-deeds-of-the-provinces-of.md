@@ -28,6 +28,6 @@ Any provision of existing law to the contrary notwithstanding, the registers of 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved, August 14, 1952.

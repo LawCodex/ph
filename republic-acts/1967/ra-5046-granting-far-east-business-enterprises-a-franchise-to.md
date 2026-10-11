@@ -29,7 +29,7 @@ There is hereby granted to Far East Business Enterprises, a single proprietorshi
 
 ## Section 2
 
-A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace or order, to take over or operate the said stations or to authorize the temporary use and operation thereof by any department of the Government upon due compensation to the grantee for the use of said stations during the period they shall be operated.1avvphi1
+A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace or order, to take over or operate the said stations or to authorize the temporary use and operation thereof by any department of the Government upon due compensation to the grantee for the use of said stations during the period they shall be operated.
 
 ## Section 3
 

@@ -152,7 +152,7 @@ _Who may Sue to Enforce the Provisions of this Act._ -In civil actions or procee
 
 In case two or more suits are instituted within the same jurisdiction based on the same cause or causes of action, the suits shall be consolidated before the branch of the court before whom the first suit was assigned and said court shall have exclusive jurisdiction to hear and decide said suits. Intervention shall also be allowed in conformity with the Rules of Court. It each case, the court shall make sure that the parties before it are duly represented and that all interests are adequately protected.
 
-Criminal actions may, likewise, be initiated by any Filipino citizen to enforce the provisions of this Act.1âшphi1
+Criminal actions may, likewise, be initiated by any Filipino citizen to enforce the provisions of this Act.
 
 ## Section 12
 

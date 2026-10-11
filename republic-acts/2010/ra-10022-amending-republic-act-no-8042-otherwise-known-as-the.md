@@ -133,7 +133,7 @@ Section 6 of Republic Act No. 8042, as amended, is hereby amended to read as fol
 
 "In the prosecution of offenses punishable under this section, the public prosecutors of the Department of Justice shall collaborate with the anti-illegal recruitment branch of the POEA and, in certain cases, allow the POEA lawyers to take the lead in the prosecution. The POEA lawyers who act as prosecutors in such cases shall be entitled to receive additional allowances as may be determined by the POEA Administrator.
 
-"The filing of an offense punishable under this Act shall be without prejudice to the filing of cases punishable under other existing laws, rules or regulations."1avvphi1
+"The filing of an offense punishable under this Act shall be without prejudice to the filing of cases punishable under other existing laws, rules or regulations."
 
 ## Section 6
 
@@ -1250,7 +1250,7 @@ _Formulation of Program._ The DOLE, OWWA, TESDA, and POEA shall, within sixty (6
 
 _Establishment of Migrant Workers and other Overseas Filipino Resource Center._
 
-A Migrant Workers and other Overseas Filipinos Resource Center shall be established in countries where there are large concentration of OFWs, as determined by the Secretary of Labor and Employment. It shall be established within the premises of the Philippine Embassy or the Consulate and be under the administrative jurisdiction of the Philippine Embassy.1avvphi1
+A Migrant Workers and other Overseas Filipinos Resource Center shall be established in countries where there are large concentration of OFWs, as determined by the Secretary of Labor and Employment. It shall be established within the premises of the Philippine Embassy or the Consulate and be under the administrative jurisdiction of the Philippine Embassy.
 
 When the Migrant Workers and other Overseas Filipinos Resource Center is established outside the premises of the Embassy or Consulate, the Department of Foreign Affairs shall exert its best effort to secure appropriate recognition from the receiving government in accordance with applicable laws and practices.
 

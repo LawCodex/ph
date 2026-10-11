@@ -34,7 +34,7 @@ There is hereby established an extension office under the supervision of the Reg
 
 ## Section 2
 
-The Land Transportation Franchising and Regulatory Board Regional Office, in coordination with the City Government of Puerto Princesa and the Provincial Government of Palawan, is hereby authorized to assist in the establishment and maintenance of such facilities and equipment as may be necessary to implement the intents and purpose of this Act. For this purpose, the Regional Land Transportation Franchising and Regulatory Board Region IV shall formulate such operating guidelines as shall be recommended by the Department of Transportation for proper implementation of the prescribed rules and regulations governing proceedings with any aspect involving public land transportation services in the Province of Palawan.ℒαwρhi৷
+The Land Transportation Franchising and Regulatory Board Regional Office, in coordination with the City Government of Puerto Princesa and the Provincial Government of Palawan, is hereby authorized to assist in the establishment and maintenance of such facilities and equipment as may be necessary to implement the intents and purpose of this Act. For this purpose, the Regional Land Transportation Franchising and Regulatory Board Region IV shall formulate such operating guidelines as shall be recommended by the Department of Transportation for proper implementation of the prescribed rules and regulations governing proceedings with any aspect involving public land transportation services in the Province of Palawan.
 
 ## Section 3
 

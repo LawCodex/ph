@@ -29,7 +29,7 @@ The bed capacity of Allen Emergency Hospital in the Municipality of Allen, Provi
 
 ## Section 2
 
-Additional sum necessary in accordance with the provisions of Republic Act Numbered Nineteen hundred thirty-nine is hereby authorized to be appropriated to carry out the purposes of this Act for the fiscal year nineteen hundred and sixty-five, in addition to its existing appropriations.1âшphi1 Thereafter, said sums shall be included in the annual General Appropriations Act.
+Additional sum necessary in accordance with the provisions of Republic Act Numbered Nineteen hundred thirty-nine is hereby authorized to be appropriated to carry out the purposes of this Act for the fiscal year nineteen hundred and sixty-five, in addition to its existing appropriations. Thereafter, said sums shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

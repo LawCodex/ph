@@ -24,7 +24,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-The name of the Urdaneta I Elementary School in Barangay Bendita, Municipality of Magallanes, Province of Cavite, is hereby changed to Bendita Elementary School.1âшphi1
+The name of the Urdaneta I Elementary School in Barangay Bendita, Municipality of Magallanes, Province of Cavite, is hereby changed to Bendita Elementary School.
 
 ## Section 2
 

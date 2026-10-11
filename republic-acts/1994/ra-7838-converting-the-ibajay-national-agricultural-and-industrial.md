@@ -57,7 +57,7 @@ All buildings, equipment, facilities and funds of, and all parcels of land of th
 
 ## Section 9
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Ibajay National Agricultural and Industrial School. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Ibajay National Agricultural and Industrial School. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 10
 

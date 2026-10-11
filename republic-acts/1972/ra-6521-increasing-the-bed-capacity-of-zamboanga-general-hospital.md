@@ -24,7 +24,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-The bed capacity of Zamboanga General Hospital in the City of Zamboanga, is hereby increased from one hundred fifty beds to two hundred.1âшphi1
+The bed capacity of Zamboanga General Hospital in the City of Zamboanga, is hereby increased from one hundred fifty beds to two hundred.
 
 ## Section 2
 

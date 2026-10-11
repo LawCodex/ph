@@ -33,7 +33,7 @@ If the grantee does not commence the manufacture and distribution of ice within 
 
 ## Section 3
 
-This franchise is granted subject to the provisions of the Constitution, and of Commonwealth Act Numbered One hundred forty-six, as amended, only insofar as rates are concerned.1avvphi1
+This franchise is granted subject to the provisions of the Constitution, and of Commonwealth Act Numbered One hundred forty-six, as amended, only insofar as rates are concerned.
 
 ## Section 4
 

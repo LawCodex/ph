@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Notwithstanding the provisions of section twenty-two (c) of Commonwealth Act Numbered One, as amended, and under such rules and regulations as the President of the Philippines may prescribe, the President, within the period of two years from the approval of this Act and upon recommendation of the Secretary of National Defense, is hereby authorized to appoint reserve officers into the regular force of the Armed Forces of the Philippines in grades above second lieutenant.1awp++i1
+Notwithstanding the provisions of section twenty-two (c) of Commonwealth Act Numbered One, as amended, and under such rules and regulations as the President of the Philippines may prescribe, the President, within the period of two years from the approval of this Act and upon recommendation of the Secretary of National Defense, is hereby authorized to appoint reserve officers into the regular force of the Armed Forces of the Philippines in grades above second lieutenant.
 
 ## Section 2
 

@@ -65,7 +65,7 @@ For each fiscal year thereafter, there is authorized to be appropriated to the S
 
 ## Section 5
 
-_Implementing Rules and Regulations._ — The SEC shall issue the necessary rules and regulations for the effective implementation of this Act.ᇈWᑭHIL
+_Implementing Rules and Regulations._ — The SEC shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 6
 

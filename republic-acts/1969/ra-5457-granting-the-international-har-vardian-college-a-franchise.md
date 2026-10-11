@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the provisions of the Constitu­tion, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, the International Harvardian College of Davao City is hereby granted a franchise to construct, maintain and operate for educational, cultural and commercial purposes a radio broad­casting station in the City of Davao and anywhere in Mindanao.1âшphi1
+Subject to the provisions of the Constitu­tion, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, the International Harvardian College of Davao City is hereby granted a franchise to construct, maintain and operate for educational, cultural and commercial purposes a radio broad­casting station in the City of Davao and anywhere in Mindanao.
 
 ## Section 2
 

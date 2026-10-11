@@ -34,7 +34,7 @@ Paragraphs (a) and (c) of Section four of Republic Act Numbered Forty-one hundre
 
 Section Sixty-one of Republic Act Numbered Forty-one hundred thirty-six, is hereby amended to read as follows:
 
-"Section 61. Disposal of Monies Collected.—Monies collected under the provisions of this Act shall be deposited in a special trust account in the National Treasury to constitute the Highway Special Fund, which shall be apportioned and expended in accordance with the provisions of the "Philippine Highway Act of 1953": _Provided,_ however, That the amount necessary to maintain and equip the Land Transportation Commission but not to exceed twenty per cent of the total collection during any one year, shall be set aside for the purpose."1âшphi1
+"Section 61. Disposal of Monies Collected.—Monies collected under the provisions of this Act shall be deposited in a special trust account in the National Treasury to constitute the Highway Special Fund, which shall be apportioned and expended in accordance with the provisions of the "Philippine Highway Act of 1953": _Provided,_ however, That the amount necessary to maintain and equip the Land Transportation Commission but not to exceed twenty per cent of the total collection during any one year, shall be set aside for the purpose."
 
 ## Section 3
 

@@ -32,7 +32,7 @@ The existing Albay Provincial Hospital in Legazpi City is hereby converted into 
 
 ## Section 2
 
-The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1aшphi1
+The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

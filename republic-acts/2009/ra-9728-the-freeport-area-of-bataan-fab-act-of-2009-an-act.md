@@ -74,7 +74,7 @@ _Imposition of a Tax Rate of Five Percent (5%) on Gross Income Earned._ \- No ta
 
 (b) One per centum (1%) to the Province of Bataan;
 
-(c) One per centum (1%) to the treasurer's office of the Municipality of Mariveles; and1avvphi1
+(c) One per centum (1%) to the treasurer's office of the Municipality of Mariveles; and
 
 (d) Two per centum (2%) to the Authority of the Freeport of Area of Bataan.
 
@@ -138,7 +138,7 @@ _Powers and Functions of the AFAB._ \- The AFAB shall have the following functio
 
 (k) To raise or borrow, within the limitation provided by law, adequate and necessary funds from local or foreign sources, to finance its projects and programs under this Act, and for that purpose, to Issue bonds, promissory notes, and other forms of securities, and to secure the same by a guarantee, pledge, mortgage, deed of trust, or an assignment of all or part of its property or assets;
 
-(I) To provide security for the F AB in coordination with the national and local governments.ten.lihpwal For this purpose, the AFAB may establish and maintain its security forces and firefighting capability or hire others to provide the same. In the event that an assistance of the military force is necessary, it shall not interfere in the internal affairs of the FAB except to provide the necessary security and defense, and their expenses shall be borne by the National Government;
+(I) To provide security for the F AB in coordination with the national and local governments. For this purpose, the AFAB may establish and maintain its security forces and firefighting capability or hire others to provide the same. In the event that an assistance of the military force is necessary, it shall not interfere in the internal affairs of the FAB except to provide the necessary security and defense, and their expenses shall be borne by the National Government;
 
 (m) To protect, preserve, maintain and develop the virgin forests, beaches, coral and coral reefs, and maintain ecological balance within the FAB. For this purpose, the rules and regulations of the Department of Environment and Natural Resources (DENR) and other government agencies involved in the above functions shall be implemented by the AFAB;
 

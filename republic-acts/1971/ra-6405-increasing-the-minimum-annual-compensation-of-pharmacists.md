@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one of Republic Act Numbered Four thousand six hundred fifty-seven is hereby amended to read as follows:
 
-"**Section 1.** Any provision of law to the contrary notwithstanding, all physicians, dentists, nurses and pharmacists employed on full time basis by the government or by semi-government institutions or by government-owned or controlled corporations in positions requiring the knowledge of medicine, dentistry, nursing or pharmacy, as the case may be, shall receive a minimum annual compensation of six thousand pesos, five thousand four hundred pesos, four thousand two hundred pesos and four thousand eight hundred pesos, respectively."1âшphi1
+"**Section 1.** Any provision of law to the contrary notwithstanding, all physicians, dentists, nurses and pharmacists employed on full time basis by the government or by semi-government institutions or by government-owned or controlled corporations in positions requiring the knowledge of medicine, dentistry, nursing or pharmacy, as the case may be, shall receive a minimum annual compensation of six thousand pesos, five thousand four hundred pesos, four thousand two hundred pesos and four thousand eight hundred pesos, respectively."
 
 ## Section 2
 

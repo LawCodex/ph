@@ -49,7 +49,7 @@ Article 254 of the same Act is also hereby amended to read as follows:
 
 "(b) Any person who shall wilfully and indiscriminately discharge any firearm or other device that may not have been designed as firearm, but can be functionally used as a firearm, shall suffer the penalty of arresto mayor in its maximum period, unless the facts of the case can be held to constitute any other offense for which a higher penalty is prescribed.
 
-"(c) If the person who commits the offense provided in this Article is a member of the military and military auxiliary agencies, or law enforcement agencies, authorized to bear firearms and such discharge is not in the performance of official duties, the penalty one degree higher than that prescribed above shall be imposed and the offender may be held administratively liable.1a⍵⍴h!1
+"(c) If the person who commits the offense provided in this Article is a member of the military and military auxiliary agencies, or law enforcement agencies, authorized to bear firearms and such discharge is not in the performance of official duties, the penalty one degree higher than that prescribed above shall be imposed and the offender may be held administratively liable.
 
 "In addition to the penalties imposed herein, any firearm license or permit issued in favor of the offender shall be summarily cancelled, and the offender shall be perpetually disqualified from being granted any firearm license or permit."
 

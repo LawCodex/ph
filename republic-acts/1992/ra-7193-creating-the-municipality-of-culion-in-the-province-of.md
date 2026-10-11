@@ -43,7 +43,7 @@ The land contained in all the above named islands in Section One is shown on C.G
 
 The Municipality of Culion shall begin to exist upon the ratification by the majority of the votes cast in a plebiscite to be conducted in the areas affected within One hundred eighty (180) days after approval of this Act.
 
-The Commission on Elections shall conduct and supervise the plebiscite. The expenses for such plebiscite shall be paid out of the appropriations provided for the Commission on Elections under the annual General Appropriations Act.1âшphi1
+The Commission on Elections shall conduct and supervise the plebiscite. The expenses for such plebiscite shall be paid out of the appropriations provided for the Commission on Elections under the annual General Appropriations Act.
 
 ## Section 4
 

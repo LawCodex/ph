@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Sitio Pili in the municipality of Despujols, Province of Romblon, is hereby converted into a barrio with the name of Dona Trinidad Roxas.1a⍵⍴h!1
+Sitio Pili in the municipality of Despujols, Province of Romblon, is hereby converted into a barrio with the name of Dona Trinidad Roxas.
 
 ## Section 2
 

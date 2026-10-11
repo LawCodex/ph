@@ -39,13 +39,21 @@ Section 199 of the National Internal Revenue Code of 1997, as amended by Republi
 
 "(e) Sale, barter or exchange of shares of stock listed and traded through the local stock exchange."
 
-**Section 2._Implementing Rules and Regulations._** \- The Secretary of Finance shall promulgate and publish the necessary rules and regulations for the effective enforcement of this Act.
+## Section 2
 
-**Section 3._Separability Clause._** \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
+_Implementing Rules and Regulations._ \- The Secretary of Finance shall promulgate and publish the necessary rules and regulations for the effective enforcement of this Act.
 
-**Section 4._Repealing Clause._** \- All laws, decrees, executive orders, rules and regulations or parts thereof, which are inconsistent with this Act, are hereby repealed, amended or modified accordingly.
+## Section 3
 
-**Section 5._Effectivity._** \- This Act shall take effect on March 20, 2009 or immediately upon the expiration of the five (5)-year exemption from the documentary stamp tax on the sale, barter or exchange of shares of stock listed and traded through the local stock exchange pursuant to Republic Act No. 9243.
+_Separability Clause._ \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
+
+## Section 4
+
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations or parts thereof, which are inconsistent with this Act, are hereby repealed, amended or modified accordingly.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect on March 20, 2009 or immediately upon the expiration of the five (5)-year exemption from the documentary stamp tax on the sale, barter or exchange of shares of stock listed and traded through the local stock exchange pursuant to Republic Act No. 9243.
 
 Approved,
 

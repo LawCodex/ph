@@ -126,7 +126,7 @@ _Electoral System._ \- The Bangsamoro Government shall adopt an electoral system
 
 ### Section 5
 
-_Civilian Government._ \- Governance in the Bangsamoro Autonomous Region shall be the responsibility of the duly elected civilian government.1âwphi1 Civilian authority is, at all times, supreme over the military.
+_Civilian Government._ \- Governance in the Bangsamoro Autonomous Region shall be the responsibility of the duly elected civilian government. Civilian authority is, at all times, supreme over the military.
 
 ### Section 6
 
@@ -582,7 +582,7 @@ _Presiding Officer._ \- The Speaker, Deputy Speaker, or any other person presidi
 
 _Rules of the Parliament._ \- The Parliament shall adopt its own rules for the conduct of its business.
 
-(a) Every bill passed by the Parliament shall embrace only one subject which shall be expressed in the title thereof.1âwphi1
+(a) Every bill passed by the Parliament shall embrace only one subject which shall be expressed in the title thereof.
 
 (b) No bill shall become a law in the Bangsamoro Autonomous Region unless it has passed three (3) readings on separate days and printed copies thereof in its final form have been distributed to members of the Parliament three (3) days before its passage, except when the Chief Minister certifies to the necessity of its immediate enactment to meet a public calamity or emergency.
 
@@ -662,7 +662,7 @@ The Bangsamoro Autonomous Region shall have three (3) subregions, namely: south 
 
 For purposes of this provision, the coverage of each subregion shall be determined by the Parliament.
 
-The Deputy Chief Ministers may each hold a cabinet position.1âwphi1
+The Deputy Chief Ministers may each hold a cabinet position.
 
 In case of death, permanent physical or mental incapacity removal from office , or resignation of the Chief Minister, the Deputy Chief Minister, more senior in age, shall act as the Chief Minister until the Parliament shall have elected a new Chief Minister. The election shall be held within thirty (30) days from the occurrence of the vacancy.
 

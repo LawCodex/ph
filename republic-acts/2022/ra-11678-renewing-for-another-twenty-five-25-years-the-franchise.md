@@ -76,7 +76,7 @@ _Right of Interconnection._ \- The Grantee is hereby authorized to connect or de
 
 ## Section 10
 
-_Mobile Number Portability._ \- The Grantee shall provide mobile number portability (MNP) and its implementing mechanism, including the required infrastructure and processes, and shall interconnect, directly or indirectly, with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees.ℒαwρhi৷ It shall not install network features, functions, or capabilities that will impede the implementation of a nationwide MNP system.
+_Mobile Number Portability._ \- The Grantee shall provide mobile number portability (MNP) and its implementing mechanism, including the required infrastructure and processes, and shall interconnect, directly or indirectly, with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees. It shall not install network features, functions, or capabilities that will impede the implementation of a nationwide MNP system.
 
 ## Section 11
 

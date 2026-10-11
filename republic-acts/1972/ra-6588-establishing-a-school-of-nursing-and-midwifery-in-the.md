@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a school of nursing and midwifery in the Provincial Hospital of Samar situated in Catbalogan, Province of Samar. Said school shall be under the supervision of the Director of Medical Services.1âшphi1
+There shall be established a school of nursing and midwifery in the Provincial Hospital of Samar situated in Catbalogan, Province of Samar. Said school shall be under the supervision of the Director of Medical Services.
 
 ## Section 2
 

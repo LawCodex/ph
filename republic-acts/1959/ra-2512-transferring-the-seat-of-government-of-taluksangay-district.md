@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The seat of government of Taluksangay District, City of Zamboanga, is hereby transferred from Taluksangay proper to Pasilmanta, Sakol Island.1âшphi1
+The seat of government of Taluksangay District, City of Zamboanga, is hereby transferred from Taluksangay proper to Pasilmanta, Sakol Island.
 
 ## Section 2
 

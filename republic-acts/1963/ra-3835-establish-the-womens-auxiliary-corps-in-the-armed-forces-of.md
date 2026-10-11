@@ -37,7 +37,7 @@ Any unmarried and without dependent female citizen of the Philippines, between t
 
 ## Section 4
 
-The names of all commissioned officers of the Women’s Auxiliary Corps shall be contained in separate Promotion Lists, which shall be known as the Women’s Auxiliary Corps Promotion Lists, similar to but separate and distinct from those prescribed by law and regulations for the other Major and Technical Services of the Armed Forces of the Philippines.1awp++i1 These officers of the Women’s Auxiliary Corps shall be promoted in the same manner as other commissioned officers of the Armed Forces of the Philippines. Enlisted women of the Corps shall likewise be promoted in the same manner as enlisted men of the Armed Forces of the Philippines.1âшphi1
+The names of all commissioned officers of the Women’s Auxiliary Corps shall be contained in separate Promotion Lists, which shall be known as the Women’s Auxiliary Corps Promotion Lists, similar to but separate and distinct from those prescribed by law and regulations for the other Major and Technical Services of the Armed Forces of the Philippines. These officers of the Women’s Auxiliary Corps shall be promoted in the same manner as other commissioned officers of the Armed Forces of the Philippines. Enlisted women of the Corps shall likewise be promoted in the same manner as enlisted men of the Armed Forces of the Philippines.
 
 ## Section 5
 

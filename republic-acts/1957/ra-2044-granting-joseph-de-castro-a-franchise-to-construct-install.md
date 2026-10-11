@@ -52,7 +52,7 @@ No private property shall be taken of any purpose by the grantee of this franchi
 
 ## Section 8
 
-The right to fix the maximum rates or charges to be charged by the grantee is reversed to the Government of the Philippines through the Public Service Commission or such other government agency as may hereafter be duly authorized.1âшphi1
+The right to fix the maximum rates or charges to be charged by the grantee is reversed to the Government of the Philippines through the Public Service Commission or such other government agency as may hereafter be duly authorized.
 
 ## Section 9
 

@@ -110,7 +110,7 @@ Section one hundred and ninety-three of Commonwealth Act Numbered Four hundred a
 
 "(q) Stockholders, dealers in securities, real estate brokers, real estate dealers, commercial brokers, customs brokers, and immigration brokers, one hundred fifty pesos.
 
-"(r) Owners of race tracks, for each day on which races are run on any track, five hundred pesos.1âwphi1
+"(r) Owners of race tracks, for each day on which races are run on any track, five hundred pesos.
 
 "(s) lending investors—
 

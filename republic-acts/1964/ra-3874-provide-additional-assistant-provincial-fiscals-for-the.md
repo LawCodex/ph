@@ -32,7 +32,7 @@ The provision of Section sixteen hundred seventy-four of the Administrative Code
 
 ## Section 2
 
-The five incumbent special counsels in the Province of Bulacan shall automatically fill the positions of the five additional assistant fiscals provided for in this Act in accordance with their seniority, without need of any new appointments.1awp++i1
+The five incumbent special counsels in the Province of Bulacan shall automatically fill the positions of the five additional assistant fiscals provided for in this Act in accordance with their seniority, without need of any new appointments.
 
 ## Section 3
 

@@ -278,6 +278,6 @@ Between item one hundred seventy-six and item one hundred seventy-seven, page si
 
 ## Section 14
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 16, 1956.

@@ -47,7 +47,7 @@ Accordingly, Section 14(e) and Section 30 of Batas Pambansa Blg. 129, otherwise 
 
 ## Section 5
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include, as may be determined on a priority basis, in the Court’s program the implementation of this Act. The funding therefor shall likewise he included in the annual General Appropriations Act. The funds necessary for the operation of the Courts herein created shall be appropriated and released only upon (the actual organization of the Courts and the appointment of its personnel.1âwphi1
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include, as may be determined on a priority basis, in the Court’s program the implementation of this Act. The funding therefor shall likewise he included in the annual General Appropriations Act. The funds necessary for the operation of the Courts herein created shall be appropriated and released only upon (the actual organization of the Courts and the appointment of its personnel.
 
 ## Section 6
 

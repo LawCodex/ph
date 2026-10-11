@@ -31,19 +31,29 @@ AMENDING FOR THE PURPOSE COMMONWEALTH ACT. NO. 63, AS AMENDED AND FOR OTHER PURP
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Short Title_** – this act shall be known as the "**Citizenship Retention and Re-acquisition Act of 2003**."
+## Section 1
 
-**Section 2._Declaration of Policy_** \- It is hereby declared the policy of the State that all Philippine citizens of another country shall be deemed not to have lost their Philippine citizenship under the conditions of this Act.
+_Short Title_ – this act shall be known as the "**Citizenship Retention and Re-acquisition Act of 2003**."
 
-**Section 3._Retention of Philippine Citizenship_** \- Any provision of law to the contrary notwithstanding, natural-born citizenship by reason of their naturalization as citizens of a foreign country are hereby deemed to have re-acquired Philippine citizenship upon taking the following oath of allegiance to the Republic:
+## Section 2
+
+_Declaration of Policy_ \- It is hereby declared the policy of the State that all Philippine citizens of another country shall be deemed not to have lost their Philippine citizenship under the conditions of this Act.
+
+## Section 3
+
+_Retention of Philippine Citizenship_ \- Any provision of law to the contrary notwithstanding, natural-born citizenship by reason of their naturalization as citizens of a foreign country are hereby deemed to have re-acquired Philippine citizenship upon taking the following oath of allegiance to the Republic:
 
 "I _____________________, solemny swear (or affrim) that I will support and defend the Constitution of the Republic of the Philippines and obey the laws and legal orders promulgated by the duly constituted authorities of the Philippines; and I hereby declare that I recognize and accept the supreme authority of the Philippines and will maintain true faith and allegiance thereto; and that I imposed this obligation upon myself voluntarily without mental reservation or purpose of evasion."
 
 Natural born citizens of the Philippines who, after the effectivity of this Act, become citizens of a foreign country shall retain their Philippine citizenship upon taking the aforesaid oath.
 
-**Section 4._Derivative Citizenship_** \- The unmarried child, whether legitimate, illegitimate or adopted, below eighteen (18) years of age, of those who re-acquire Philippine citizenship upon effectivity of this Act shall be deemed citizenship of the Philippines.
+## Section 4
 
-**Section 5._Civil and Political Rights and Liabilities_** \- Those who retain or re-acquire Philippine citizenship under this Act shall enjoy full civil and political rights and be subject to all attendant liabilities and responsibilities under existing laws of the Philippines and the following conditions:
+_Derivative Citizenship_ \- The unmarried child, whether legitimate, illegitimate or adopted, below eighteen (18) years of age, of those who re-acquire Philippine citizenship upon effectivity of this Act shall be deemed citizenship of the Philippines.
+
+## Section 5
+
+_Civil and Political Rights and Liabilities_ \- Those who retain or re-acquire Philippine citizenship under this Act shall enjoy full civil and political rights and be subject to all attendant liabilities and responsibilities under existing laws of the Philippines and the following conditions:
 
 (1) Those intending to exercise their right of surffrage must Meet the requirements under Section 1, Article V of the Constitution, Republic Act No. 9189, otherwise known as "The Overseas Absentee Voting Act of 2003" and other existing laws;
 
@@ -59,11 +69,17 @@ Natural born citizens of the Philippines who, after the effectivity of this Act,
 
 (b) are in active service as commissioned or non-commissioned officers in the armed forces of the country which they are naturalized citizens.
 
-**Section 6._Separability Clause_** \- If any section or provision of this Act is held unconstitutional or invalid, any other section or provision not affected thereby shall remain valid and effective.
+## Section 6
 
-**Section 7._Repealing Clause_** \- All laws, decrees, orders, rules and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause_ \- If any section or provision of this Act is held unconstitutional or invalid, any other section or provision not affected thereby shall remain valid and effective.
 
-**Section 8._Effectivity Clause_** – This Act shall take effect after fifteen (15) days following its publication in the _Official Gazette_ or two (2) newspaper of general circulation.
+## Section 7
+
+_Repealing Clause_ \- All laws, decrees, orders, rules and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 8
+
+_Effectivity Clause_ – This Act shall take effect after fifteen (15) days following its publication in the _Official Gazette_ or two (2) newspaper of general circulation.
 
 Approved,
 

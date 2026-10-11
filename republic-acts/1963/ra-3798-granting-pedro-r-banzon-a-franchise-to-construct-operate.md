@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is granted to Pedro R. Banzon in Barrio Liminangcong, Municipality of Taytay, Province of Palawan, a franchise to construct, operate and maintain an ice plant and to sell and distribute ice therein and to charge and collect a schedule of prices for the ice so furnished, which schedule of prices shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is granted to Pedro R. Banzon in Barrio Liminangcong, Municipality of Taytay, Province of Palawan, a franchise to construct, operate and maintain an ice plant and to sell and distribute ice therein and to charge and collect a schedule of prices for the ice so furnished, which schedule of prices shall at all times be subject to regulation by the Public Service Commission.
 
 ## Section 2
 
@@ -40,7 +40,7 @@ If the grantee shall not commence the manufacture of ice and supply cold storage
 
 ## Section 5
 
-This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates, and with the understanding and upon condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when public interest so requires.1âшphi1
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates, and with the understanding and upon condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when public interest so requires.
 
 ## Section 6
 

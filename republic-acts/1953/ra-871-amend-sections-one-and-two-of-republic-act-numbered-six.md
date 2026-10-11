@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section one of Republic Act Numbered Six hundred and one, as amended by Republic Act Numbered hundred and fourteen, is hereby amended to read as follows:
 
-"**Section 1.** Except as herein otherwise provided, there shall be assessed, collected, and paid a special excise tax of seventeen per centum on the value in Philippine peso of foreign exchange sold and/or authorized to be sold by the Central Bank of the Philippines or any of its agents until June thirtieth, nineteen hundred and fifty-four."1a⍵⍴h!1
+"**Section 1.** Except as herein otherwise provided, there shall be assessed, collected, and paid a special excise tax of seventeen per centum on the value in Philippine peso of foreign exchange sold and/or authorized to be sold by the Central Bank of the Philippines or any of its agents until June thirtieth, nineteen hundred and fifty-four."
 
 ## Section 2
 

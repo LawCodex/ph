@@ -28,7 +28,7 @@ There is hereby established an emergency hospital with a twenty-five-bed capacit
 
 ## Section 2
 
-The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the provisions of this Act.1awp++i1
+The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the provisions of this Act.
 
 ## Section 3
 

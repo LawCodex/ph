@@ -35,7 +35,7 @@ Notwithstanding any law, rules and regulations to the contrary, every married ma
 
 ## Section 3
 
-_Definition of Term._ – For purpose of this Act, Paternity Leave refers to the benefits granted to a married male employee allowing him not to report for work for seven (7) days but continues to earn the compensation therefor, on the condition that his spouse has delivered a child or suffered a miscarriage for purposes of enabling him to effectively lend support to his wife in her period of recovery and/or in the nursing of the newly-born child.1aшphi1
+_Definition of Term._ – For purpose of this Act, Paternity Leave refers to the benefits granted to a married male employee allowing him not to report for work for seven (7) days but continues to earn the compensation therefor, on the condition that his spouse has delivered a child or suffered a miscarriage for purposes of enabling him to effectively lend support to his wife in her period of recovery and/or in the nursing of the newly-born child.
 
 ## Section 4
 

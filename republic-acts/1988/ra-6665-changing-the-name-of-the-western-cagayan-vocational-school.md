@@ -24,7 +24,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-The Western Cagayan Vocational School the Municipality of Lasam, Province of Cagayan, is hereby renamed to Lasam National Agricultural School.1âшphi1
+The Western Cagayan Vocational School the Municipality of Lasam, Province of Cagayan, is hereby renamed to Lasam National Agricultural School.
 
 ## Section 2
 

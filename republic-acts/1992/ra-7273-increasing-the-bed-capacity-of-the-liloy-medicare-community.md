@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT INCREASING THE BED CAPACITY OF THE LILOY MEDICARE COMMUNITY HOSPITAL IN THE MUNICIPALITY OF LILOY, PROVINCE OF ZAMBOANGA DEL NORTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

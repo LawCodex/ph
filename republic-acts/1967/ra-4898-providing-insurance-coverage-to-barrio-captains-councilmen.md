@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Every barrio captain and councilman duly elected, and every barrio treasurer and barrio secretary duly appointed and qualified, under existing laws, but only while assuming their respective offices, are automatically covered by life, disability and accident insurance benefits herein provided which the Government Service Insurance Systems shall extend as it is hereby directed to extend.1avvphi1
+Every barrio captain and councilman duly elected, and every barrio treasurer and barrio secretary duly appointed and qualified, under existing laws, but only while assuming their respective offices, are automatically covered by life, disability and accident insurance benefits herein provided which the Government Service Insurance Systems shall extend as it is hereby directed to extend.
 
 ## Section 2
 

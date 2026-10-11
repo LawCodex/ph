@@ -30,7 +30,7 @@ The territory within the boundaries described in the next succeeding section in 
 
 The boundaries and limits of the territory of said municipality are established and defined as follows:
 
-On the North by latitude 8º 20º 00º, adjoining the municipalities of Katipunan, Dipolog and Dapitan; on the East by the Misamis Occidental-Zamboanga boundary; on the South by latitude 8º 0º 00º, adjoining the municipalities of Aurora, Pagadian, Margosatubig; on the West by longitude 123º 10º 00º, adjoining the municipalities of Sindangan, Labason and Kabasalan. The area of the municipality of Molave is approximately nine hundred square kilometers.1aшphi1
+On the North by latitude 8º 20º 00º, adjoining the municipalities of Katipunan, Dipolog and Dapitan; on the East by the Misamis Occidental-Zamboanga boundary; on the South by latitude 8º 0º 00º, adjoining the municipalities of Aurora, Pagadian, Margosatubig; on the West by longitude 123º 10º 00º, adjoining the municipalities of Sindangan, Labason and Kabasalan. The area of the municipality of Molave is approximately nine hundred square kilometers.
 
 ## Section 3
 

@@ -32,7 +32,7 @@ This franchise shall continue for a period of twenty-five years from the approva
 
 ## Section 3
 
-This franchise is likewise made upon the express condition that the grantee shall contribute to the public welfare, shall assist in the function of public information and education, shall conform to the ethics of honest enterprise, and shall not use his stations for dissemination of deliberately false information or willful misrepresentation, or of matters detrimental to public health or to incite, encourage or assist in subversive or treasonable acts.1âшphi1
+This franchise is likewise made upon the express condition that the grantee shall contribute to the public welfare, shall assist in the function of public information and education, shall conform to the ethics of honest enterprise, and shall not use his stations for dissemination of deliberately false information or willful misrepresentation, or of matters detrimental to public health or to incite, encourage or assist in subversive or treasonable acts.
 
 ## Section 4
 

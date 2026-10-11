@@ -31,7 +31,7 @@ The Malinta Annex of Valenzuela Municipal High School located in Barangay Malint
 
 ## Section 2
 
-All properties and assets presently pertaining or belonging to the Valenzuela Municipal High School Malinta Annex are hereby transferred to the newly created Malinta National High School.Ꮮαwρhi৷
+All properties and assets presently pertaining or belonging to the Valenzuela Municipal High School Malinta Annex are hereby transferred to the newly created Malinta National High School.
 
 ## Section 3
 

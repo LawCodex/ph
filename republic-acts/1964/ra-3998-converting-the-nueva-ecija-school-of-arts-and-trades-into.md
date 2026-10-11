@@ -33,7 +33,7 @@ The purpose of the college shall be to provide higher vocational, professional, 
 
 ## Section 3
 
-The head of the college shall be known as the President of Central Luzon Polytechnic College. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees.1âшphi1 The powers and duties of the president of the college, in addition to those provided in this Act, shall be those that usually pertain to the office of the president of the college.
+The head of the college shall be known as the President of Central Luzon Polytechnic College. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees. The powers and duties of the president of the college, in addition to those provided in this Act, shall be those that usually pertain to the office of the president of the college.
 
 ## Section 4
 

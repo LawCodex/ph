@@ -127,7 +127,7 @@ Thereafter, the expenses of the High School, for the purposes above-described, s
 
 ## Section 16
 
-If any provision of this Act or the application of such provision to any person or circumstance is held invalid, the remainder of this Act or the application of such provision to other persons or circumstances shall not be affected thereby.1âшphi1
+If any provision of this Act or the application of such provision to any person or circumstance is held invalid, the remainder of this Act or the application of such provision to other persons or circumstances shall not be affected thereby.
 
 ## Section 17
 

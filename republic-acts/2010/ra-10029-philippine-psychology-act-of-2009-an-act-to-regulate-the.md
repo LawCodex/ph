@@ -284,7 +284,7 @@ _Rights to Privilege Communication for Psychologists and Psychometricians._ \- A
 
 ### Section 31
 
-_Integration of the Profession._ \- The profession shall hereinafter be integrated by consolidating all practitioners into one (1) national organization of registered and licensed psychologists and psychometricians, which shall be recognized and accredited by the Board, subject to approval of the Commission. A psychologist or psychometrician duly registered and licensed by the Board and the Commission shall automatically become a member of said organization and shall receive the benefits and privileges, as well as be subject to all responsibilities and obligations, appurtenant thereto upon payment of the required fees and dues. Membership in the integrated organization shall not be a bar to membership in any other association of psychologists and/or psychometricians.1avvphi1
+_Integration of the Profession._ \- The profession shall hereinafter be integrated by consolidating all practitioners into one (1) national organization of registered and licensed psychologists and psychometricians, which shall be recognized and accredited by the Board, subject to approval of the Commission. A psychologist or psychometrician duly registered and licensed by the Board and the Commission shall automatically become a member of said organization and shall receive the benefits and privileges, as well as be subject to all responsibilities and obligations, appurtenant thereto upon payment of the required fees and dues. Membership in the integrated organization shall not be a bar to membership in any other association of psychologists and/or psychometricians.
 
 ### Section 32
 

@@ -32,7 +32,7 @@ There shall be established under the direct supervision of Department of Educati
 
 ## Section 2
 
-the Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.1aшphi1
+the Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

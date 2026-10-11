@@ -861,7 +861,7 @@ _No Demotion or Diminution of Salary._ \- Nothing in this Act shall be construed
 
 ## Section 19
 
-_No Undermining of Security of Tenure._ \- Nothing in this Act shall be construed to allow the transfer, except as _Provided_ herein or in case of temporary assignment, as public interest may require, of any prosecutor to any place or station or to undermine the security of tenure of incumbent prosecutors as provided in the laws. Such temporary assignment shall not exceed three (3) months without his or her written consent. No Provincial Prosecutor or City Prosecutor shall be detailed or assigned to another office or station, except in a concurrent capacity and with his or her written consent.lawphil
+_No Undermining of Security of Tenure._ \- Nothing in this Act shall be construed to allow the transfer, except as _Provided_ herein or in case of temporary assignment, as public interest may require, of any prosecutor to any place or station or to undermine the security of tenure of incumbent prosecutors as provided in the laws. Such temporary assignment shall not exceed three (3) months without his or her written consent. No Provincial Prosecutor or City Prosecutor shall be detailed or assigned to another office or station, except in a concurrent capacity and with his or her written consent.
 
 ## Section 20
 

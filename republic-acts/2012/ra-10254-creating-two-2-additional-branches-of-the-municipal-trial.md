@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Two (2) additional branches of the Municipal Trial Court in Cities with seats at Cagayan de Oro City, Province of Misamis Oriental are hereby created in the Tenth Judicial Region.
 
-The Supreme Court shall assign the branch number of the newly-created branches of the Municipal Trial Court in Cities in the Tenth Judicial Region.ℒαwρhi৷
+The Supreme Court shall assign the branch number of the newly-created branches of the Municipal Trial Court in Cities in the Tenth Judicial Region.
 
 ## Section 2
 

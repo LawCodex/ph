@@ -30,4 +30,4 @@ The name of the Municipality of Anao-aon in the Province of Surigao del Norte, i
 
 This Act shall take effect upon its approval.
 
-Approved, June 19, 1971.1âшphi1
+Approved, June 19, 1971.

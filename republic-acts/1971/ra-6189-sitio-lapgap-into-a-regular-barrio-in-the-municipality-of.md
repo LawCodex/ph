@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The sitio of Lapgap is hereby converted into a regular barrio in the Municipality of Maydolong, Province of Eastern Samar, to be known as Barrio Lapgap.1âшphi1
+The sitio of Lapgap is hereby converted into a regular barrio in the Municipality of Maydolong, Province of Eastern Samar, to be known as Barrio Lapgap.
 
 ## Section 2
 

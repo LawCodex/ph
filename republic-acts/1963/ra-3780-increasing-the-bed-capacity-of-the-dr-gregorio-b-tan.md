@@ -28,7 +28,7 @@ The bed capacity of the Dr. Gregorio B. Tan General Hospital in the Municipality
 
 ## Section 2
 
-The sum of one hundred fifty pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for the fiscal year nineteen hundred and sixty-four, in addition to its existing appropriations.1awp++i1 Thereafter, said sums shall be included in the annual General Appropriation Acts.
+The sum of one hundred fifty pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for the fiscal year nineteen hundred and sixty-four, in addition to its existing appropriations. Thereafter, said sums shall be included in the annual General Appropriation Acts.
 
 ## Section 3
 

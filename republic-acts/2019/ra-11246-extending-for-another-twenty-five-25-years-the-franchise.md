@@ -50,7 +50,7 @@ Public service time referred herein shall be equivalent to a maximum aggregate o
 
 ## Section 5
 
-_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.1âwphi1
+_Right of the Government._ \- The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
 
 A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
 
@@ -96,7 +96,7 @@ _Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to
 
 ## Section 16
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.1âwphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 17
 

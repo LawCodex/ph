@@ -32,4 +32,4 @@ The first paragraph of section one hundred eighty-nine of the National Internal 
 
 This Act shall take effect upon its approval
 
-Approved, August 14, 1952.1aшphi1
+Approved, August 14, 1952.

@@ -34,7 +34,9 @@ Section 2 of Republic Act No. 7721 is hereby amended to read as follows:
 
 "SEC. 2. _Modes of Entry. –_ The Monetary Board may authorize foreign banks to operate in the Philippine banking system through any one of the following" modes of entry: (i) by acquiring, purchasing or owning up to one hundred percent (100%) of the voting stock of an existing bank; (ii) by investing in up to one hundred percent (100%) of the voting stockof a new banking subsidiary incorporated under the laws of the Philippines; or (iii) by establishing branches with full banking authority."
 
-**Section 2. Section 3 of Republic Act No. 7721 is hereby amended to read as follows:**
+## Section 2
+
+Section 3 of Republic Act No. 7721 is hereby amended to read as follows:
 
 "SEC. 3. _Guidelines for Approval._ – In approving entry applications of foreign banks, the Monetary Board shall: (i) ensure geographic representation and complementation; (ii) consider strategic trade and investment relationships between the Philippines and the country of incorporation of the foreign bank; (iii) study the demonstrated capacity, global reputation for financial innovations and stability in a competitive environment of the applicant; (iv) see to it that reciprocity rights are enjoyed by Philippine banks in the applicant’s country; and (v) consider willingness to fully share their technology.
 
@@ -91,8 +93,6 @@ Section 12 of Republic Act No. 7721 is hereby amended to read as follows:
 Section 13 of Republic Act No. 7721 is hereby amended to read as follows:
 
 "SEC. 13. _Rule-Making Powers of the Monetary Board of the Bangko Sentral ng Pilipinas and Compliance Reports._ – The Monetary Board is hereby authorized to issue such rules and regulations as may be needed to implement "the provisions of this Act. On or before May 30 of each year, the Monetary Board shall file a written report to Congress and its respective Banks Committees, on the developments in the implementation of this Act. The implementing rules and regulations of this Act shall be published in at least two (2) newspapers of general circulation."
-
-1âwphi1
 
 ## Section 10
 

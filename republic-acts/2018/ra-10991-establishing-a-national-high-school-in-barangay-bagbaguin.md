@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Bagbaguin, Valenzuela City to be known as Bagbaguin National High School.1âwphi1
+There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Bagbaguin, Valenzuela City to be known as Bagbaguin National High School.
 
 ## Section 2
 

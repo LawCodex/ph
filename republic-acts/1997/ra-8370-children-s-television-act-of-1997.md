@@ -26,15 +26,21 @@ CHILDREN'S TELEVISION ACT OF 1997
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **_"Children's Television Act of 1997"_**.
+## Section 1
 
-**Section 2._Declaration of policy._** – The State recognizes the vital role of the youth in nation-building and shall promote and protect their physical, moral, spiritual, intellectual and social well-being by enhancing their over-all development, taking into account sectoral needs and conditions in the development of educational, cultural, recreational policies and programs addressed to them.
+_Title._ – This Act shall be known as the **_"Children's Television Act of 1997"_**.
+
+## Section 2
+
+_Declaration of policy._ – The State recognizes the vital role of the youth in nation-building and shall promote and protect their physical, moral, spiritual, intellectual and social well-being by enhancing their over-all development, taking into account sectoral needs and conditions in the development of educational, cultural, recreational policies and programs addressed to them.
 
 Likewise, the State recognizes the importance and impact of broadcast media, particularly television programs on the value formation and intellectual development of children and must take steps to support and protect children's interests by providing television programs that reflect their needs, concerns and interests without exploiting them.
 
 The State recognizes broadcasting as a form of mass communication guaranteed by the Constitution, the exercise of which is impressed with public interest, and which imposes upon the broadcast industry the social responsibility of ensuring that its activities serve the interest and welfare of the Filipino people.
 
-**Section 3._Definition of terms._** – For purposes of this Act, the following terms shall mean:
+## Section 3
+
+_Definition of terms._ – For purposes of this Act, the following terms shall mean:
 
 a) _Children_ – all persons below eighteen (18) years old;
 
@@ -44,7 +50,9 @@ c) _Child-friendly programs_ – refer to programs not specifically designed for
 
 d) _Child-viewing hours_ – hours which are considered to be appropriate for children to watch television taking into account other activities which are necessary or desirable for their balanced development.
 
-**Section 4._Establishment of a National Council for Children's Television._** – There is hereby established a National Council for Children's Television (NCCT), hereinafter referred to as the Council, which shall be attached to the Office of the President for purposes of administrative supervision.
+## Section 4
+
+_Establishment of a National Council for Children's Television._ – There is hereby established a National Council for Children's Television (NCCT), hereinafter referred to as the Council, which shall be attached to the Office of the President for purposes of administrative supervision.
 
 The Council shall be composed of five (5) members who shall be appointed by the President for a term of three (3) years: _Provided,_ That of the first appointees:
 
@@ -62,9 +70,13 @@ The members of the Council shall serve and continue to hold office until their s
 
 The ranks, emoluments and allowances of the members of the Council shall be in accordance with the Salary Standardization Law and other applicable laws.
 
-**Section 5._The Council Secretariat._** – The Council shall organize a secretariat to be headed by an Executive Director and with not more than twenty (20) personnel, as may be determined by the Council. The Council shall determine the secretariat's staffing pattern, determine the qualifications, duties, responsibilities and functions, as well as compensation for the positions to be created by the Council upon recommendation of the Executive Director subject to the National Compensation and Classification Plan and other existing Civil Service rules and regulations.
+## Section 5
 
-**Section 6._The Advisory Committee and its composition._** – There is hereby constituted an Advisory Committee which shall assist the Council in the formulation of national policies pertaining to children's broadcast programs and in monitoring its implementation. The Council and the Advisory Committee shall meet at least once every quarter of a year.
+_The Council Secretariat._ – The Council shall organize a secretariat to be headed by an Executive Director and with not more than twenty (20) personnel, as may be determined by the Council. The Council shall determine the secretariat's staffing pattern, determine the qualifications, duties, responsibilities and functions, as well as compensation for the positions to be created by the Council upon recommendation of the Executive Director subject to the National Compensation and Classification Plan and other existing Civil Service rules and regulations.
+
+## Section 6
+
+_The Advisory Committee and its composition._ – There is hereby constituted an Advisory Committee which shall assist the Council in the formulation of national policies pertaining to children's broadcast programs and in monitoring its implementation. The Council and the Advisory Committee shall meet at least once every quarter of a year.
 
 The members of the Advisory Committee shall be composed of the following:
 
@@ -84,7 +96,9 @@ g) a representative from the National Telecommunications Commission.
 
 Whenever any member of the Advisory Committee is unable to attend, he or she shall designate a representative to attend as his or her alternate.
 
-**Section 7._Functions of the Council._** – The Council shall have the following functions:
+## Section 7
+
+_Functions of the Council._ – The Council shall have the following functions:
 
 a) to formulate and recommend plans, policies and priorities for government and private sector (_i.e._ broadcasters, producers, advertisers) action towards the development of high quality locally-produced children's television programming, to meet the developmental and informational needs of children;
 
@@ -104,7 +118,9 @@ h) to recommend to Congress appropriate legislative measures which will grant in
 
 i) to act on complaints committed in violation of this Act with the goal of protecting children from the negative and harmful influences and to cause or initiate the prosecution of violators of this Act.
 
-**Section 8._Submission of comprehensive media program for children._** – Within one (1) year from the effectivity of this Act, the Council in consultation with the Advisory Committee shall submit to Congress a comprehensive development and protection program with the end in view of formulating policies on children's media programs, and recommending plans and priorities for government towards the promotion, development, production and broadcasting of developmentally -appropriate media programs for children. Likewise, it shall prescribe an appropriate set of criteria for evaluating programs with the end in view of establishing a Television Violence Rating Code.
+## Section 8
+
+_Submission of comprehensive media program for children._ – Within one (1) year from the effectivity of this Act, the Council in consultation with the Advisory Committee shall submit to Congress a comprehensive development and protection program with the end in view of formulating policies on children's media programs, and recommending plans and priorities for government towards the promotion, development, production and broadcasting of developmentally -appropriate media programs for children. Likewise, it shall prescribe an appropriate set of criteria for evaluating programs with the end in view of establishing a Television Violence Rating Code.
 
 Towards this end, the Council may consider internationally-accepted programs of action for children's television. More particularly, the Council shall be guided by the following standards herein to be known as _"The Charter of Children's Television"_ :
 
@@ -122,13 +138,21 @@ f) Sufficient funds must be made available to make these programs conform to the
 
 g) Government, production, distribution and funding organizations should recognize both the importance and vulnerability of indigenous children's television and the steps to support and protect it.
 
-**Section 9._Allotment of air time for educational children's programs._** – A minimum of fifteen percent (15%) of the daily total air time of each broadcasting network shall be allotted for child-friendly shows within the regular programming of all networks granted franchises or as a condition for renewal of broadcast licenses hereinafter, to be included as part of the network's responsibility of serving the public.
+## Section 9
 
-**Section 10._Implementing rules and regulations._** – The Council, in consultation with all appropriate government agencies and non-government organizations, shall issue the necessary rules and regulations for the implementation of this Act within ninety (90) days after its effectivity.
+_Allotment of air time for educational children's programs._ – A minimum of fifteen percent (15%) of the daily total air time of each broadcasting network shall be allotted for child-friendly shows within the regular programming of all networks granted franchises or as a condition for renewal of broadcast licenses hereinafter, to be included as part of the network's responsibility of serving the public.
 
-**Section 11._Penalty._** – In the exercise of its administrative function, the Council shall petition the proper government agencies and/or appropriate self-regulatory bodies to suspend, revoke or cancel the license to operate television stations found violating any provision of this Act and its implementing rules and regulations.
+## Section 10
 
-**Section 12._The National Endowment Fund for Children's Television._** – The creation of a National Endowment Fund for Children's Television, hereinafter referred to as the Fund, is created for the promotion of high standards of indigenous program development in children's television and media specifically intended for Filipino children. An amount of Thirty million pesos (P30,000,000) sourced from the income of the lotto operations of the Philippine Charity Sweepstakes Office (PCSO) and another Thirty million pesos (P30,000,000) from the gross income of the Philippine Gaming Corporation (PAGCOR) shall form part of the Fund.
+_Implementing rules and regulations._ – The Council, in consultation with all appropriate government agencies and non-government organizations, shall issue the necessary rules and regulations for the implementation of this Act within ninety (90) days after its effectivity.
+
+## Section 11
+
+_Penalty._ – In the exercise of its administrative function, the Council shall petition the proper government agencies and/or appropriate self-regulatory bodies to suspend, revoke or cancel the license to operate television stations found violating any provision of this Act and its implementing rules and regulations.
+
+## Section 12
+
+_The National Endowment Fund for Children's Television._ – The creation of a National Endowment Fund for Children's Television, hereinafter referred to as the Fund, is created for the promotion of high standards of indigenous program development in children's television and media specifically intended for Filipino children. An amount of Thirty million pesos (P30,000,000) sourced from the income of the lotto operations of the Philippine Charity Sweepstakes Office (PCSO) and another Thirty million pesos (P30,000,000) from the gross income of the Philippine Gaming Corporation (PAGCOR) shall form part of the Fund.
 
 a) The Fund shall be created for the purpose of developing and producing high quality television programs that are culturally-relevant and developmentally- appropriate for children.
 
@@ -142,12 +166,20 @@ e) Priority shall be given to independent producers and organizations or institu
 
 f) The Council is authorized to accept grants, contributions or donations from private corporations and international donors for the National Endowment Fund for Children's Television: _Provided_ , That such grants, contributions, or donations are exempted from donor's and donee's taxes: Provided, further, That these funds will be used strictly for the endowment fund.
 
-**Section 13._Appropriations._** – For the initial operating expenses of the Council, the amount of Five million pesos (P5,000,000) is hereby appropriated out of the funds of the National Treasury not otherwise appropriated. Thereafter, it shall submit to the Department of Budget and Management its proposed budget for inclusion in the General Appropriations Act, approved by Congress.
+## Section 13
 
-**Section 14._Separability clause._** – If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions thereof.
+_Appropriations._ – For the initial operating expenses of the Council, the amount of Five million pesos (P5,000,000) is hereby appropriated out of the funds of the National Treasury not otherwise appropriated. Thereafter, it shall submit to the Department of Budget and Management its proposed budget for inclusion in the General Appropriations Act, approved by Congress.
 
-**Section 15._Repealing clause._** – All laws, decrees, executive orders, presidential proclamations, rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## Section 14
 
-**Section 16._Effectivity clause._** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+_Separability clause._ – If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions thereof.
+
+## Section 15
+
+_Repealing clause._ – All laws, decrees, executive orders, presidential proclamations, rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 16
+
+_Effectivity clause._ – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 Approved: **October 28, 1997**

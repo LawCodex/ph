@@ -38,7 +38,7 @@ After the taking by Farrell Eldrian Wu of his Oath of Allegiance before an offic
 
 ## Section 3
 
-Upon registration of the Oath of Allegiance, the Bureau of Immigration shall forthwith issue Farrell Eldrian Wu’s certificate of naturalization.1âwphi1
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall forthwith issue Farrell Eldrian Wu’s certificate of naturalization.
 
 ## Section 4
 

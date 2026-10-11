@@ -93,21 +93,33 @@ In case of conflict between national and local laws with respect to the tax exem
 
 Business enterprises presently registered and granted with tax and duty incentives by the Clark Development Corporation (CDC) , Poro Point Management Corporation (PPMC) , JHMC, and Bataan Technological Park Incorporated (BTPI) , including such governing bodies, shall be entitled to the same incentives until the expiration of their contracts entered into prior to the effectivity of this Act.
 
-**SEC. 8._Administration, Implementation and Monitoring of Incentives._** – The governing authorities shall be responsible for the administration and implementation of the incentives granted to their respective registered enterprises. They shall submit to the Department of Finance (DOF) their respective annual tax expenditures based on the computed costs in terms of revenue forgone on the tax incentives granted to their registered enterprises. For proper monitoring, the DOF shall create a single database of all incentives provided by all these authorities. The DOF shall monitor and review the incentives granted and submit an annual report to the President.
+## SEC. 8
 
-**SEC. 9._Penal Provision._** –Any registered business enterprise found guilty of smuggling by final judgment, either as principal, accomplice or accessory shall be perpetually barred from doing business in any freeport and special economic zone, in addition to the penalties and sanctions imposed by existing laws.
+_Administration, Implementation and Monitoring of Incentives._ – The governing authorities shall be responsible for the administration and implementation of the incentives granted to their respective registered enterprises. They shall submit to the Department of Finance (DOF) their respective annual tax expenditures based on the computed costs in terms of revenue forgone on the tax incentives granted to their registered enterprises. For proper monitoring, the DOF shall create a single database of all incentives provided by all these authorities. The DOF shall monitor and review the incentives granted and submit an annual report to the President.
 
-**SEC. 10._Implementing Rules and Regulations._** – The DOF, in coordination with the PEZA, the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) , and in consultation with the Bases Conversion Development Authority (BCDA) , the SBMA, the CDC, the JHMC, the PPMC, and the BTPI, shall promulgate and publish the necessary rules and regulations for the effective implementation of this Act within two months from the date of effectivity of this Act.
+## SEC. 9
 
-**SEC. 11._Separability Clause._** – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+_Penal Provision._ –Any registered business enterprise found guilty of smuggling by final judgment, either as principal, accomplice or accessory shall be perpetually barred from doing business in any freeport and special economic zone, in addition to the penalties and sanctions imposed by existing laws.
 
-**SEC. 12._Repealing Clause._** – All laws, decrees, orders, proclamations, rules and regulations or other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## SEC. 10
+
+_Implementing Rules and Regulations._ – The DOF, in coordination with the PEZA, the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) , and in consultation with the Bases Conversion Development Authority (BCDA) , the SBMA, the CDC, the JHMC, the PPMC, and the BTPI, shall promulgate and publish the necessary rules and regulations for the effective implementation of this Act within two months from the date of effectivity of this Act.
+
+## SEC. 11
+
+_Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+
+## SEC. 12
+
+_Repealing Clause._ – All laws, decrees, orders, proclamations, rules and regulations or other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 The provision of Section 50 of Republic Act No. 7916, as amended, is hereby repealed.
 
 The provisions of Section 13(b) (3) of Republic Act No. 7227, as amended, with respect to public utilities engaged in the provision of electric power and telecommunications services are hereby repealed.
 
-**SEC. 13._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any two newspapers of general circulation, whichever comes earlier.
+## SEC. 13
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any two newspapers of general circulation, whichever comes earlier.
 
 Approved,
 

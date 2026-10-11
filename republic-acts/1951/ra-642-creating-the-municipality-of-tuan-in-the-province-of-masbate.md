@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Batuan, Burgos, Gibraltar, Costarica, Panisihan, and Matabao are separated from the municipality of San Fernando, Province of Masbate, and constituted into a new and regular municipality to be known as the municipality of Batuan in the same province.1a⍵⍴h!1
+The barrios of Batuan, Burgos, Gibraltar, Costarica, Panisihan, and Matabao are separated from the municipality of San Fernando, Province of Masbate, and constituted into a new and regular municipality to be known as the municipality of Batuan in the same province.
 
 ## Section 2
 

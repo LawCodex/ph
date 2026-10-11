@@ -28,7 +28,7 @@ The Lanao Provincial High School located in the City of Dansalan, Lanao, is here
 
 ## Section 2
 
-The Director of Public Schools is hereby empowered to organize said school. He may acquire, or cause to be acquired, a suitable site for said school, which may be private or public land situated within the Province of Lanao.1âшphi1
+The Director of Public Schools is hereby empowered to organize said school. He may acquire, or cause to be acquired, a suitable site for said school, which may be private or public land situated within the Province of Lanao.
 
 ## Section 3
 

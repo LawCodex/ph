@@ -40,7 +40,7 @@ There are hereby established a campus of the Nueva Ecija University of Science a
 
 The NEUST-Sto. Domingo Campus shall primarily provide short-term, technical-vocational, undergraduate, and graduate courses within its areas of competency and specialization, pursuant to its mandate, and according to its capabilities as the Board of Regents, hereinafter referred to as the Board, may deem necessary to carry out its objectives, and those which respond to the human resources development needs of the Province of Nueva Ecija and Region III.
 
-The NEUST-Sto. Domingo Campus is also mandated to undertake research and extension services, and to provide progressive leadership in these areas.ℒαwρhi৷
+The NEUST-Sto. Domingo Campus is also mandated to undertake research and extension services, and to provide progressive leadership in these areas.
 
 ## Section 4
 

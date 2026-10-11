@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios and sitios of Naga, Cubawang, Mamagon, Baus, Bongcaobangcao, Baga, Santa Clara Crossing, Lower Solitan, Upper Solitan, Solo, Tambanan, Botong, Batang, Cucotan, Lupa, Balono, Kaliantana, Andamio, Posaan, Cabong and Tipan in the Municipality of Kabasalan, Province of Zamboanga del Sur, are separated from said municipality and constituted into a distinct and independent municipality to be known as the Municipality of Naga, same province.1avvphi1 The seat of government of the new municipality shall be the present site of Barrio Naga.
+The barrios and sitios of Naga, Cubawang, Mamagon, Baus, Bongcaobangcao, Baga, Santa Clara Crossing, Lower Solitan, Upper Solitan, Solo, Tambanan, Botong, Batang, Cucotan, Lupa, Balono, Kaliantana, Andamio, Posaan, Cabong and Tipan in the Municipality of Kabasalan, Province of Zamboanga del Sur, are separated from said municipality and constituted into a distinct and independent municipality to be known as the Municipality of Naga, same province. The seat of government of the new municipality shall be the present site of Barrio Naga.
 
 ## Section 2
 

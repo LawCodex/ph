@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Rizal Memorial District Hospital in the City of Dapitan, Province of Zamboanga del Norte, is hereby converted to a tertiary hospital to be known as the Dr. Jose Rizal Memorial Hospital.1aшphi1
+The Rizal Memorial District Hospital in the City of Dapitan, Province of Zamboanga del Norte, is hereby converted to a tertiary hospital to be known as the Dr. Jose Rizal Memorial Hospital.
 
 ## Section 2
 

@@ -46,7 +46,7 @@ _Public Education and Awareness Program._ – To ensure the meaningful observanc
 
 ## Section 5
 
-_Interagency and Multisectoral Effort._ – The Department of Health (DOH), on the part of the national government, and the cities and municipalities, on the part of the local governments together with nongovernment and patients’ organizations, shall lead the implementation of comprehensive public education and awareness program on liver cancer and viral hepatitis through a collaborative interagency and multisectoral effort at all levels. It shall particularly ensure widespread and expeditious public information about the benefits of compulsory routine immunization for Hepatitis-B of all infants within twenty-four (24) hours after birth.1âwphi1
+_Interagency and Multisectoral Effort._ – The Department of Health (DOH), on the part of the national government, and the cities and municipalities, on the part of the local governments together with nongovernment and patients’ organizations, shall lead the implementation of comprehensive public education and awareness program on liver cancer and viral hepatitis through a collaborative interagency and multisectoral effort at all levels. It shall particularly ensure widespread and expeditious public information about the benefits of compulsory routine immunization for Hepatitis-B of all infants within twenty-four (24) hours after birth.
 
 ## Section 6
 

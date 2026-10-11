@@ -101,7 +101,7 @@ _Office of the Director General._ -The chief operating officer and principal rep
 
 ## Section 10
 
-_Coordination with Government Agencies._ \- Government agencies concerned shall coordinate with the Center and are hereby obligated to give economic information and such other assistance for taxation purposes, as well as to act on the applications submitted by investors on any problem concerning the setting up of business in the Philippines. For this purpose, all government agencies concerned with business documentation and processing shall henceforth detail their appropriate representatives to the Center: _Provided,_ That such government agencies shall provide for such detailed personnel's salaries and/or emoluments.1âшphi1
+_Coordination with Government Agencies._ \- Government agencies concerned shall coordinate with the Center and are hereby obligated to give economic information and such other assistance for taxation purposes, as well as to act on the applications submitted by investors on any problem concerning the setting up of business in the Philippines. For this purpose, all government agencies concerned with business documentation and processing shall henceforth detail their appropriate representatives to the Center: _Provided,_ That such government agencies shall provide for such detailed personnel's salaries and/or emoluments.
 
 Moreover, the Department of Foreign Affairs, through its commercial attaches worldwide, shall extend assistance to the Center by disseminating economic data properly released by the Center to the different countries concerned. The commercial attaches shall also furnish the Center with current and relevant economic data from other countries for circulation in the Philippines.
 

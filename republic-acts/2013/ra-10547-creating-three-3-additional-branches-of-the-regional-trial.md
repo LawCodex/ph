@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Three (3) additional Regional Trial Court branches for Puerto Princesa, Palawan, with seats thereat, are hereby created in the Fourth Judicial Region.1âwphi1
+Three (3) additional Regional Trial Court branches for Puerto Princesa, Palawan, with seats thereat, are hereby created in the Fourth Judicial Region.
 
 ## Section 2
 

@@ -41,7 +41,7 @@ Agency outsourcing requests or agreements by agencies, instrumentalities and/or 
 
 For FY 2020, the appropriations for infrastructure capital outlays, including those subsidy releases to GOCCs for infrastructure projects, shall be valid for obligation until December 31, 2021, while the completion of construction, inspection, and payment shall be made not later than December 31, 2021. On the other hand, appropriations for MOOE and other capital outlays item shall likewise be valid for obligation until December 31, 2021, while the delivery, inspection and payment shall be made not later than December 31, 2021.
 
-The DBM is authorized to issue the necessary guidelines for the effective implementation of the cash budgeting system.ℒαwρhi৷
+The DBM is authorized to issue the necessary guidelines for the effective implementation of the cash budgeting system.
 
 A report on these releases, obligations and disbursements shall be submitted to the
 Speaker of the House of Representatives, the President of the Senate of the Philippines, the House Committee on Appropriations and the Senate Committee on Finance, either in printed form or by way of electronic document."

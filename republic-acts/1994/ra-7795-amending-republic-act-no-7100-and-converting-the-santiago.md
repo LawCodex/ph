@@ -45,6 +45,6 @@ This Act hereby amends Republic Act No. 7100.
 
 ## Section 5
 
-This Act shall take effect immediately upon approval.1a⍵⍴h!1
+This Act shall take effect immediately upon approval.
 
 Lapsed into law on August 8, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

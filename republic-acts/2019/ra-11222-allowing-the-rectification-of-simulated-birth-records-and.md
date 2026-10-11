@@ -110,7 +110,7 @@ _Required Consent._ \- After being properly counseled and informed of the right 
 
 (c) The illegitimate daughters and sons, ten (10) years of age or over, of the adopter if living with said adopter and the latter’s spouse, if any; and
 
-(d) The spouse, if any, of the adoptee.1âwphi1
+(d) The spouse, if any, of the adoptee.
 
 ## ARTICLE IV — ADMINISTRATIVE ADOPTION PROCEDURE
 
@@ -170,7 +170,7 @@ _Socialized Fees._ \- The city or municipal SWDO, the Regional Director, and the
 
 _Confidentiality._ \- All petitions, documents, records, and papers relating to administrative adoption proceedings in the files of the city or municipal SWDOs, the DSWD central and field offices, or any other agency or institution participating in such proceedings shall be strictly confidential.
 
-The disclosure of any information shall be allowed only upon the written request of the adoptee or in the case of a minor adoptee, her or his guardian.1âwphi1
+The disclosure of any information shall be allowed only upon the written request of the adoptee or in the case of a minor adoptee, her or his guardian.
 
 ## ARTICLE V — EFFECTS OF ADMINISTRATIVE ADOPTION
 

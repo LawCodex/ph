@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The satellite office of the Land Transportation Office (LTO) located in the Municipality of San Jacinto, Ticao Island, Province of Masbate, is hereby converted into a regular district office.ℒαwρhi৷
+The satellite office of the Land Transportation Office (LTO) located in the Municipality of San Jacinto, Ticao Island, Province of Masbate, is hereby converted into a regular district office.
 
 ## Section 2
 

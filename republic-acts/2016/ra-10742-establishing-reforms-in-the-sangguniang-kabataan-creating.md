@@ -64,7 +64,7 @@ _Definition of Terms._ – For purposes of this Act, the following terms are her
 
 ### SECTION 4
 
-__Katipunan ng Kabataan. – There shall be in every barangay a Katipunan ng Kabataan to be composed of all citizens of the Philippines residing in the barangay for at least six (6) months, who are at least fifteen (15) but not more than thirty (30) years of age, and who are duly registered in the list of the Commission on Elections (COMELEC) and/or the records of the Sangguniang Kabataan secretary.
+Katipunan ng Kabataan. – There shall be in every barangay a Katipunan ng Kabataan to be composed of all citizens of the Philippines residing in the barangay for at least six (6) months, who are at least fifteen (15) but not more than thirty (30) years of age, and who are duly registered in the list of the Commission on Elections (COMELEC) and/or the records of the Sangguniang Kabataan secretary.
 
 ### SECTION 5
 
@@ -270,7 +270,7 @@ _Membership in the Sanggunian and Local Special Bodies._ – (a) The duly electe
 
 ### SECTION 23
 
-__Creation. – To ensure wide and multi-sectoral youth participation in local governance, there shall be in every province, city and municipality a Local Youth Development Council (LYDC) “which shall be called, Provincial Youth Development Council, City Youth Development Council and Municipal Youth Development Council, respectively. The LYDC shall be composed of representatives of youth and youth-serving organizations in the provincial, city, and municipal level. The LYDC shall assist the planning and execution of projects and programs of the Sangguniang Kabataan, and the Pederasyons in all levels.
+Creation. – To ensure wide and multi-sectoral youth participation in local governance, there shall be in every province, city and municipality a Local Youth Development Council (LYDC) “which shall be called, Provincial Youth Development Council, City Youth Development Council and Municipal Youth Development Council, respectively. The LYDC shall be composed of representatives of youth and youth-serving organizations in the provincial, city, and municipal level. The LYDC shall assist the planning and execution of projects and programs of the Sangguniang Kabataan, and the Pederasyons in all levels.
 
 ### SECTION 24
 
@@ -324,7 +324,7 @@ _Date of Election._ – The Sangguniang Kabataan elections shall be synchronized
 
 ### SECTION 33
 
-_Appropriations._ – The amount necessary to implement the provisions of this Act shall be included in the Annual General Appropriations Act.1âwphi1
+_Appropriations._ – The amount necessary to implement the provisions of this Act shall be included in the Annual General Appropriations Act.
 
 ### SECTION 34
 

@@ -328,7 +328,7 @@ Shared service facilities refer to machinery, equipment, tools, systems, accesso
 
 ### Section 12
 
-_Research and Development (R &D) and Innovation Support._ — Entities from the creative industries may avail of the research and development support program of the DOST that provides financial support to research projects addressing the industry needs through science and technology interventions, accelerating the transfer and commercialization of generated technologies, and strengthening the capability of human resources and institutions to undertake research and development. Research grants may be availed of by government research and academic institutions as well as local companies and startups, subject to the evaluation and approval of the DOST.ℒαwρhi৷
+_Research and Development (R &D) and Innovation Support._ — Entities from the creative industries may avail of the research and development support program of the DOST that provides financial support to research projects addressing the industry needs through science and technology interventions, accelerating the transfer and commercialization of generated technologies, and strengthening the capability of human resources and institutions to undertake research and development. Research grants may be availed of by government research and academic institutions as well as local companies and startups, subject to the evaluation and approval of the DOST.
 
 ### Section 13
 
@@ -426,7 +426,7 @@ _Mandatory Review._ — This Act shall be reviewed at least once every five (5) 
 
 ### Section 27
 
-_Appropriations._ — The amount necessary for the immediate implementation of this Act shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ — The amount necessary for the immediate implementation of this Act shall be included in the annual General Appropriations Act.
 
 ### Section 28
 

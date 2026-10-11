@@ -33,7 +33,7 @@ Grace Tan To shall take the Oath of Allegiance to the Republic of the Philippine
 
 ## Section 3
 
-Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Grace Tan To, who shall thereupon enter into the full enjoyment of Philippine citizenship.ℒαwρhi৷
+Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Grace Tan To, who shall thereupon enter into the full enjoyment of Philippine citizenship.
 
 ## Section 4
 

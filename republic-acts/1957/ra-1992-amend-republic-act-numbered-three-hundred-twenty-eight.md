@@ -30,7 +30,7 @@ The first paragraph of section thirteen of Republic Act Numbered Three hundred t
 
 ## Section 2
 
-Sections fourteen and fifteen of the same Act are repealed.1âшphi1
+Sections fourteen and fifteen of the same Act are repealed.
 
 ## Section 3
 

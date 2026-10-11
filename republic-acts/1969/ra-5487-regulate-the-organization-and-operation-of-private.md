@@ -44,7 +44,7 @@ _Who May Organize a Security or Watchman Agency._ Any Filipino citizen or a corp
 
 (3) Being addicted to the use of narcotic drug or drugs; and
 
-(4) Being a habitual drunkard.1awphil.net
+(4) Being a habitual drunkard.
 
 For purposes of this Act, elective or appointive government employees who may be called upon on account of the functions of their respective offices in the implementation and enforcement of the provisions of this Act and any person related to such government employees by affinity or consanguinity in the third civil degree shall not hold any interest, directly or indirectly in any security guard or watchman agency. (As amended by Pres. Decree No. 11.)
 
@@ -74,7 +74,7 @@ _Fees to be Paid and Bonds._ When all requisites for the issuance of the license
 
 (e) the individual private detective and/or watchman shall pay for Mayor's Permit, Health and/or Sanitary fee an amount not exceeding three pesos per annum and the agency shall pay the sum not exceeding ten pesos for the Mayor's Permit and Health and/or Sanitary fees; and
 
-(f) the Chief of the Philippine Constabulary or his duly authorized representative shall issue an appointment over his signature and affix the seal of his office, to each license and for each such appointment, the sum of one peso shall be paid.1awphil.net
+(f) the Chief of the Philippine Constabulary or his duly authorized representative shall issue an appointment over his signature and affix the seal of his office, to each license and for each such appointment, the sum of one peso shall be paid.
 
 The application shall further be accompanied by a bond issued by any competent or reputable surety or fidelity or insurance company duly accredited by the office of the Insurance Commissioner in the sum of not less than five thousand pesos nor more than ten thousand pesos in the discretion of the Chief, Philippine Constabulary, which bond shall answer for any valid and legal claim against the agency by its clients or employees: Provided, That licenses issued in the province of an authorized representative of the Chief of Constabulary is subject to review by the Chief of Constabulary.
 

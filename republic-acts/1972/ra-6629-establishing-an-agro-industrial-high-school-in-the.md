@@ -28,7 +28,7 @@ There shall be established, under the direct supervision of the Director of Voca
 
 ## Section 2
 
-The Director of Vocational Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.1âшphi1
+The Director of Vocational Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

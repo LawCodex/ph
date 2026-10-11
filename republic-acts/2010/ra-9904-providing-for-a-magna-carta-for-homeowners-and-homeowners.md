@@ -80,7 +80,7 @@ _Definition of Terms._ \- For purposes of this Act, the following terms shall me
 
 _Registration with the HLURB._ \- Every association of homeowners shall be required to register with the HLURB. This registration shall serve to grant juridical personality to all such associations that have not previously acquired the same by operation of the General Corporation Law or by any other general law.
 
-The procedure for registration shall be specifically provided for in the implementing rules and regulations to be promulgated by the HLURB pursuant to Section 28 of this Act.1avvphi1 Such procedure shall provide for an adjudicatory mechanism that will be observed in the event there is a dispute involving two (2) or more associations established within the same subdivision/village), community/area, or housing project seeking registration. In resolving this type of dispute, the HLURB shall take into account the date each association was legally established, the date of submission of its application for registration, the number of members, and other similar factors.
+The procedure for registration shall be specifically provided for in the implementing rules and regulations to be promulgated by the HLURB pursuant to Section 28 of this Act. Such procedure shall provide for an adjudicatory mechanism that will be observed in the event there is a dispute involving two (2) or more associations established within the same subdivision/village), community/area, or housing project seeking registration. In resolving this type of dispute, the HLURB shall take into account the date each association was legally established, the date of submission of its application for registration, the number of members, and other similar factors.
 
 The existence of associations previously registered with the Home Insurance Guarantee Corporation or the SEC shall be respected, and the said associations shall not be charged a penalty when they register with the HLURB after this Act takes effect.
 
@@ -336,7 +336,7 @@ _Penalties and Sanctions._ \- Any person who, intentionally or by gross negligen
 
 If the violation is committed by the association, the members, officers, directors or trustees of the association who have actually participated in, authorized, or ratified the prohibited act shall be held liable.
 
-If the violation is committed by the employees and agents who acted in gross violation of the provisions of this Act, the officers, directors or trustees, or incorporators of the association shall be jointly and severally liable with the offending employees, agents, and the association.1avvphi1
+If the violation is committed by the employees and agents who acted in gross violation of the provisions of this Act, the officers, directors or trustees, or incorporators of the association shall be jointly and severally liable with the offending employees, agents, and the association.
 
 ### Section 24
 

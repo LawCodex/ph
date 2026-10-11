@@ -40,7 +40,7 @@ The present Barangay Sawata referred to in Republic Act No. 9265, entitled “An
 
 The change of name of the subject municipality and barangay shall be effective upon ratification by the majority of the votes cast by qualified voters in separate plebiscites to be conducted and supervised by the Commission on Elections (COMELEC) in the present (1) Municipality of San Isidro, Province of Davao del Norte; and (2) Barangay Sawata, Municipality of San Isidro, Province of Davao del Norte.
 
-The expenses for both plebiscites shall be borne by the Municipality of San Isidro, Province of Davao del Norte.ℒαwρhi৷
+The expenses for both plebiscites shall be borne by the Municipality of San Isidro, Province of Davao del Norte.
 
 ## Section 4
 

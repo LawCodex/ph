@@ -54,7 +54,7 @@ _Management of Personnel, Assets and Records of the Campus._ \- A fifty (50)-hec
 
 ## Section 7
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.1aшphi1
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.
 
 ## Section 8
 

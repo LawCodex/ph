@@ -28,7 +28,7 @@ Any provision of law to the contrary notwithstanding, the Auditor General, upon 
 
 ## Section 2
 
-There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated such sums as may be necessary to settle legitimate obligations which may not have been paid by reason of the reversion provided in Section 1 hereof: _Provided,_ That this shall not be construed as an authority to revive claims already barred by prescription or disallowed by a final administrative or judicial determination.1âшphi1
+There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated such sums as may be necessary to settle legitimate obligations which may not have been paid by reason of the reversion provided in Section 1 hereof: _Provided,_ That this shall not be construed as an authority to revive claims already barred by prescription or disallowed by a final administrative or judicial determination.
 
 ## Section 3
 

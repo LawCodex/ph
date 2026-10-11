@@ -326,7 +326,7 @@ _Purposes._ \- The integrated national organization of optometrists shall promul
 
 ## Section 38
 
-_Membership Fees and Dues._ \- All members shall be subject to the payment of reasonable fees and dues for the effective discharge of the purposes of the integrated national organization.1aшphi1 An optometrist shall receive the benefits and privileges appurtenant to his membership only upon payment of the required membership fees and dues.
+_Membership Fees and Dues._ \- All members shall be subject to the payment of reasonable fees and dues for the effective discharge of the purposes of the integrated national organization. An optometrist shall receive the benefits and privileges appurtenant to his membership only upon payment of the required membership fees and dues.
 
 ## Section 39
 

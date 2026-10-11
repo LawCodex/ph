@@ -28,6 +28,6 @@ The name of the Municipality of San Pedro in the Province of Oriental Mindoro is
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

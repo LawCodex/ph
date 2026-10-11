@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Banilad Barrio School in the Municipality of Bacong, Province of Negros Oriental, is hereby changed to Nazario Tale Memorial School.1âшphi1
+The name of Banilad Barrio School in the Municipality of Bacong, Province of Negros Oriental, is hereby changed to Nazario Tale Memorial School.
 
 ## Section 2
 

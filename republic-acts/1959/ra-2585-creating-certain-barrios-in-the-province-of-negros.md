@@ -28,7 +28,7 @@ The sitios of Jerusalem, Macabal-ong, Manuyo, Campo Negros, Siwahon and Alimatoc
 
 ## Section 2
 
-The sitios of Bat-us and Punao and haciendas Refugio and Cubay in the Municipality of Calatrava, same province, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Refugio.1aшphi1
+The sitios of Bat-us and Punao and haciendas Refugio and Cubay in the Municipality of Calatrava, same province, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Refugio.
 
 ## Section 3
 

@@ -53,7 +53,7 @@ II. Maintenance and Other Operating Expenses
 
 ## Section 2
 
-Any unexpended amount of the sums herein appropriated after June thirty nineteen hundred and seventy-two shall automatically revert to the general funds of the Government.1âшphi1
+Any unexpended amount of the sums herein appropriated after June thirty nineteen hundred and seventy-two shall automatically revert to the general funds of the Government.
 
 ## Section 3
 

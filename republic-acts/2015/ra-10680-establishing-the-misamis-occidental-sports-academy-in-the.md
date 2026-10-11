@@ -40,11 +40,11 @@ The Provincial Government of Misamis Occidental, in coordination with the PSC, s
 
 ## Section 3
 
-The construction, establishment and operation of the Misamis Occidental Sports Academy shall be funded by the Provincial Government of Misamis Occidental and such funds as may be granted by the PSC or by the Office of the President.1âwphi1 In addition, grants and endowments may be obtained from local or foreign sources intended for sports development.
+The construction, establishment and operation of the Misamis Occidental Sports Academy shall be funded by the Provincial Government of Misamis Occidental and such funds as may be granted by the PSC or by the Office of the President. In addition, grants and endowments may be obtained from local or foreign sources intended for sports development.
 
 ## Section 4
 
-_Appropriations._ — The Secretary of Education shall immediately include in the Department’s programs the operation of the Misamis Occidental Sports Academy, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ — The Secretary of Education shall immediately include in the Department’s programs the operation of the Misamis Occidental Sports Academy, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

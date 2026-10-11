@@ -28,7 +28,7 @@ The barrio of Naawan is separated from the Municipality of Initao, Province of M
 
 ## Section 2
 
-The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President alone and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.1âшphi1
+The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President alone and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
 
 ## Section 3
 

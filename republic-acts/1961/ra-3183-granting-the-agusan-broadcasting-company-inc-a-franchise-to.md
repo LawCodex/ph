@@ -36,7 +36,7 @@ In the event of any competing individual, partnership or corporation receiving f
 
 ## Section 4
 
-(a) The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.1avvphi1
+(a) The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
 
 (b) The grantee shall further be liable to pay all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
 
@@ -62,7 +62,7 @@ Whenever in this franchise the term "grantee" is used, it shall be held and unde
 
 ## Section 10
 
-This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 11
 

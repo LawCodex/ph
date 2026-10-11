@@ -42,9 +42,13 @@ Section 140 of Republic Act No. 7160, otherwise known as "The Local Government C
 
 "(e) The proceeds from the amusement tax shall be shared equally by the province and the municipality where such amusement places are located."
 
-**Section 2._Repealing Clause._** \- All laws, executive orders, presidential decrees, ordinances, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Actt are hereby repealed, or modified accordingly.
+## Section 2
 
-**Section 5._Effectivity._** \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) national newspapers of general circulation.
+_Repealing Clause._ \- All laws, executive orders, presidential decrees, ordinances, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Actt are hereby repealed, or modified accordingly.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) national newspapers of general circulation.
 
 Approved,
 

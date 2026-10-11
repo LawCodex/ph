@@ -39,7 +39,7 @@ All personnel, records, assets and liabilities of the Liloan National High Schoo
 
 ## Section 4
 
-The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Liloan National High School - Carugdog Annex. Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Catalino M. Prado National High School shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Liloan National High School - Carugdog Annex. Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Catalino M. Prado National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

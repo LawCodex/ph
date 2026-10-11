@@ -331,7 +331,7 @@ _Powers and duties of heads of departments._ Each head of department of the city
 
 In case of absence or sickness, or inability to act for any other reason, of the head of one of the city departments, the officer next in charge of that department shall perform the duties of the head of the department concerned. In case of temporary vacancy, the officer next in charge performing the duties of the head of such department shall, during his incumbency in an acting capacity, receive the salary and other emoluments of the latter.
 
-In case of temporary disability of the department head and of the officer next in charge, the Mayor may temporarily designate any other officer in the service of the city to perform the duties of the head of such department until the return to duty of the department head or his assistant.1âшphi1
+In case of temporary disability of the department head and of the officer next in charge, the Mayor may temporarily designate any other officer in the service of the city to perform the duties of the head of such department until the return to duty of the department head or his assistant.
 
 ### Section 32
 

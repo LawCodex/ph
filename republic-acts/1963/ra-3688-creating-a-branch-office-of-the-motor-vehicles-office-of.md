@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby created a branch office of the Motor Vehicles Office of the Province of Ilocos Sur, with permanent station at the Municipality of Candon, which shall be under the immediate control and supervision of a deputy motor vehicle registrar to be appointed by the Secretary of Public Works and Communications.1awp++i1 The said deputy motor vehicle registrar shall receive the same salary as that provided for by the Wave and Position Classification Office for Motor Vehicle Registrar I and shall be assisted by such other personnel, likewise appointed by the Secretary of Public Works and Communications as may be necessary to carry out the duties appurtenant to the said branch office.
+There is hereby created a branch office of the Motor Vehicles Office of the Province of Ilocos Sur, with permanent station at the Municipality of Candon, which shall be under the immediate control and supervision of a deputy motor vehicle registrar to be appointed by the Secretary of Public Works and Communications. The said deputy motor vehicle registrar shall receive the same salary as that provided for by the Wave and Position Classification Office for Motor Vehicle Registrar I and shall be assisted by such other personnel, likewise appointed by the Secretary of Public Works and Communications as may be necessary to carry out the duties appurtenant to the said branch office.
 
 ## Section 2
 

@@ -88,7 +88,7 @@ _Power of Congress to Amend, Alter, Modify or Repeal, When._ \- The franchise he
 
 ## Section 13
 
-_Nonexclusive Nature of the Franchise._ \- This franchise shall not be interpreted to mean an exclusive grant of the privileges herein provided for.1aшphi1
+_Nonexclusive Nature of the Franchise._ \- This franchise shall not be interpreted to mean an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

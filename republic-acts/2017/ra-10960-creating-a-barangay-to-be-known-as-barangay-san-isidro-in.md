@@ -147,7 +147,7 @@ _Incumbent Barangay Officials._ \- The incumbent barangay officials of Barangay 
 
 ## Section 5
 
-_Public Infrastructure and Facilities._ \- All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.1âwphi1
+_Public Infrastructure and Facilities._ \- All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
 
 ## Section 6
 

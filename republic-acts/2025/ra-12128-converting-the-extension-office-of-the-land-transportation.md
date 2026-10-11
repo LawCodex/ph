@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing extension office of the Land Transportation Office (LTO) in the Municipality of Taal, Province of Batangas, is hereby covered into a regular district office to beknown as the Taal LTO District Office.ℒαwρhi৷
+The existing extension office of the Land Transportation Office (LTO) in the Municipality of Taal, Province of Batangas, is hereby covered into a regular district office to beknown as the Taal LTO District Office.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Dumalinao Proper, Bigong, Tigbao, Ticwas, Bulongating, Baguitan, Pantad, Napulan, Tagulo, Camanga, Margang, Sibucao, Tina, Guling, Miculong, Baga, Rebucon, and Mambilik, are hereby separated from the Municipality of Pagadian, Province of Zamboanga del Sur, and constituted into a municipality to be known as the Municipality of Dumalinao, with the seat of government at the site of the present Barrio of Dumalinao Proper.1avvphi11âшphi1
+The barrios of Dumalinao Proper, Bigong, Tigbao, Ticwas, Bulongating, Baguitan, Pantad, Napulan, Tagulo, Camanga, Margang, Sibucao, Tina, Guling, Miculong, Baga, Rebucon, and Mambilik, are hereby separated from the Municipality of Pagadian, Province of Zamboanga del Sur, and constituted into a municipality to be known as the Municipality of Dumalinao, with the seat of government at the site of the present Barrio of Dumalinao Proper.
 
 ## Section 2
 

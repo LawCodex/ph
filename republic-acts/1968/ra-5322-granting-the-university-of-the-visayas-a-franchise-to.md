@@ -45,7 +45,7 @@ The grantee's radio and television stations shall be so constructed and operated
 
 ## Section 6
 
-A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace and order, to cause the closing of said stations or to authorize the temporary use and operation thereof by any department of the government without compensating the grantee for their use during the period when they shall be so operated.1avvphi1
+A special right is reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace and order, to cause the closing of said stations or to authorize the temporary use and operation thereof by any department of the government without compensating the grantee for their use during the period when they shall be so operated.
 
 ## Section 7
 

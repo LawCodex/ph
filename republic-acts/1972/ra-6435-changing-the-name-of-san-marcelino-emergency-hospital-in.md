@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of San Marcelino Emergency Hospital in the Municipality of San Marcelino, Province of Zambales, is hereby changed to Mayor Leopoldo F. Rabanes Memorial Hospital.1âшphi1
+The name of San Marcelino Emergency Hospital in the Municipality of San Marcelino, Province of Zambales, is hereby changed to Mayor Leopoldo F. Rabanes Memorial Hospital.
 
 ## Section 2
 

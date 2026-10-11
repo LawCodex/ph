@@ -623,7 +623,7 @@ _Discriminatory Acts and Practices._ \- The following discriminatory acts and pr
 
 (i) _Act of Bullying._ \- Bullying in all forms, including name-calling, upon a person based on actual, perceived, or suspected HIV status, including bullying in social media and other online portals; and
 
-(j) Other similar or analogous discriminatory acts.1avvphi1
+(j) Other similar or analogous discriminatory acts.
 
 ### Section 50
 
@@ -649,7 +649,7 @@ The permit or license of the business entity and the accreditation of the HIV te
 
 (3) Five years and one (1) day to seven (7) years of imprisonment for any health professional, medical instructor, worker, employer, recruitment agency, insurance company, data encoder, and other custodian of any medical record, file, data, or test result who breaches confidentiality, and/or a fine of not less than Three hundred fifty thousand pesos (P350,000.00), but not more than Five hundred thousand pesos (P500,000.00), at the discretion of the court.
 
-These penalties are without prejudice to any administrative sanction or civil suit that may be bought against persons who violate confidentiality under this Act.1âwphi1
+These penalties are without prejudice to any administrative sanction or civil suit that may be bought against persons who violate confidentiality under this Act.
 
 (g) Any person who shall violate any of the provisions in Section 49 on discriminatory acts and practices shall, upon conviction, suffer the penalty of imprisonment of six (6) months to five (5) years, and/or a fine of not less than Fifty thousand pesos (P50,000.00), but not more than Five hundred thousand (P500,000.00), at the discretion of the court, and without prejudice to the imposition of administrative sanctions such as fines, suspension or revocation of business permit, business license or accreditation, and professional license; and
 
@@ -669,7 +669,7 @@ _Penalties Collected._ \- The penalties collected pursuant to this section shall
 
 ### Section 52
 
-_Appropriations._ The amount needed for the initial implementation of this Act shall be charged against the appropriations for the DOH.1âwphi1 Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+_Appropriations._ The amount needed for the initial implementation of this Act shall be charged against the appropriations for the DOH. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 The DBM, in coordination with the Department of Finance (DOF) and the DOH, and other relevant government agencies, shall consider the incidence of HIV and AIDS, in determining the annual appropriations for the implementation of thus Act in accordance with the AMTP. A separate budget item in the annual appropriations of the LGUs shall be allocated for their action plans specified in this Act.
 

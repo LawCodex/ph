@@ -164,7 +164,7 @@ iv. The adviser of the REIT;
 
 v. The property manager of the REIT;
 
-vi. A director, principal shareholder or principal officer of the sponsor/promoter of the REIT, REIT's fund manager or property manager, or associate of any such persons; and 1avvph!1
+vi. A director, principal shareholder or principal officer of the sponsor/promoter of the REIT, REIT's fund manager or property manager, or associate of any such persons; and
 
 vii. Related corporation to the REIT.
 
@@ -464,7 +464,7 @@ _Use of Registration Fees._ \- To carry out the purposes of this Act, the. Commi
 
 ### Section 22
 
-_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act; the Commission, in coordination with the Bangko Sentral ng Pilipinas (BSP) and the Department of Finance (DOF) and in consultation with other stakeholders such as the Philippine Stock Exchange and the real estate industry, shall promulgate the implementing rules and regulations of the provisions of this Act: _Provided,_ That the Commission, the BSP and the DOF may continue to issue separate regulations that will apply exclusively to the institutions under their, respective jurisdiction, consistent with the implementing rules and regulations: _Provided, further,_ That the Commissioner of the Bureau of Internal Revenue shall issue the lRR regarding all tax provisions of this Act (Tax Regulations), subject to the review of the Secretary of Finance, in accordance with Section 4 of the National Internal Revenue Code, as amended, after full and complete consultation with all concerned.1avvphi1
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act; the Commission, in coordination with the Bangko Sentral ng Pilipinas (BSP) and the Department of Finance (DOF) and in consultation with other stakeholders such as the Philippine Stock Exchange and the real estate industry, shall promulgate the implementing rules and regulations of the provisions of this Act: _Provided,_ That the Commission, the BSP and the DOF may continue to issue separate regulations that will apply exclusively to the institutions under their, respective jurisdiction, consistent with the implementing rules and regulations: _Provided, further,_ That the Commissioner of the Bureau of Internal Revenue shall issue the lRR regarding all tax provisions of this Act (Tax Regulations), subject to the review of the Secretary of Finance, in accordance with Section 4 of the National Internal Revenue Code, as amended, after full and complete consultation with all concerned.
 
 ### Section 23
 

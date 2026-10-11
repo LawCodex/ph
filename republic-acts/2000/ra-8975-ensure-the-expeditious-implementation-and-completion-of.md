@@ -46,7 +46,7 @@ _Prohibition on the Issuance of Temporary Restraining Orders, Preliminary Mandat
 
 (b) Bidding or awarding of contract/ project of the national government as defined under Section 2 hereof;
 
-(c) Commencement prosecution, execution, implementation, operation of any such contract or project;1awphil.net™
+(c) Commencement prosecution, execution, implementation, operation of any such contract or project;
 
 (d) Termination or rescission of any such contract/project; and
 

@@ -34,7 +34,7 @@ _Renaming of a National High School._ – The name of Canumay National High Scho
 
 ## Section 2
 
-_Location of the Main Campus._ – The main campus of the Canumay West National High School shall continue to remain in its present location in Barangay Canumay, City of Valenzuela.1âwphi1
+_Location of the Main Campus._ – The main campus of the Canumay West National High School shall continue to remain in its present location in Barangay Canumay, City of Valenzuela.
 
 ## Section 3
 

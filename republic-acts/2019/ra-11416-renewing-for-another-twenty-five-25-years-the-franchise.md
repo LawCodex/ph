@@ -58,7 +58,7 @@ _Term of Franchise._ — This franchise shall be in effect for a period of twent
 
 ## Section 7
 
-_Self-regulation by and Undertaking of the Grantee._ — The grantee shall not require any previous censorship of any speech, play, act, or scene, or other matter to be broadcast from its stations: Provided, That the grantee, during any broadcast, shall cut off from the air the speech, play, act, or scene, or other matter being broadcast if the tendency thereof is to propose anchor incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: Provided, further, That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.1âшphi1
+_Self-regulation by and Undertaking of the Grantee._ — The grantee shall not require any previous censorship of any speech, play, act, or scene, or other matter to be broadcast from its stations: Provided, That the grantee, during any broadcast, shall cut off from the air the speech, play, act, or scene, or other matter being broadcast if the tendency thereof is to propose anchor incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: Provided, further, That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 8
 

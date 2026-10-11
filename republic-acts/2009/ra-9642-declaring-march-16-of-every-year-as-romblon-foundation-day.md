@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-March 16 of every year is hereby declared as Romblon Foundation Day and a special nonworking public holiday in the Province of Romblon.1avvphi1
+March 16 of every year is hereby declared as Romblon Foundation Day and a special nonworking public holiday in the Province of Romblon.
 
 ## Section 2
 

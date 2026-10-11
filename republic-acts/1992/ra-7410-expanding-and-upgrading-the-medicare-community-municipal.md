@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Medicare Community (Municipal) Hospital in Lebak, Sultan Kudarat, is hereby expanded and upgrade from a fifteen-five-bed capacity district hospital, to be known as the Lebak District Hospital.1âшphi1
+The Medicare Community (Municipal) Hospital in Lebak, Sultan Kudarat, is hereby expanded and upgrade from a fifteen-five-bed capacity district hospital, to be known as the Lebak District Hospital.
 
 ## Section 2
 

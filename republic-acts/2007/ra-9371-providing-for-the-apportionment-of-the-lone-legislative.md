@@ -28,13 +28,21 @@ AN ACT PROVIDING FOR THE APPORTIONMENT OF THE LONE LEGISLATIVE DISTRICT OF THE C
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Legislative Districts._** \- The lone legislative district of the City of Cagayan de Oro is hereby apportioned to commence in the next national elections after the effectivity of this Act. Henceforth, barangays Bonbon, Bayabay, Kauswagan, Carmen, Patag, Bulua, Iponan, Baikingon, San Simon, Pagatpat, Canitoan, Balulang, Lumbia, Pagalungan, Tagpangi, Taglimao, Tuburan, Pigsag-an, Tumpagon, Bayanga, Mambuaya, Dansulihon, Tignapoloan and Bisigan shall comprise the first district while barangays Macabalan, Puntod, Consolacion, Camaman-an, Nazareth, Macansandig, Indahag, Lapasan, Gusa, Cugman, FS Catanico, Tablon, Agusan, Puerto, Bugo and Balubal and all urban barangays from Barangay 1 to Barangay 40 shall comprise the second district.
+## SECTION 1
 
-**SEC. 2._Rules and Regulations._** \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.
+_Legislative Districts._ \- The lone legislative district of the City of Cagayan de Oro is hereby apportioned to commence in the next national elections after the effectivity of this Act. Henceforth, barangays Bonbon, Bayabay, Kauswagan, Carmen, Patag, Bulua, Iponan, Baikingon, San Simon, Pagatpat, Canitoan, Balulang, Lumbia, Pagalungan, Tagpangi, Taglimao, Tuburan, Pigsag-an, Tumpagon, Bayanga, Mambuaya, Dansulihon, Tignapoloan and Bisigan shall comprise the first district while barangays Macabalan, Puntod, Consolacion, Camaman-an, Nazareth, Macansandig, Indahag, Lapasan, Gusa, Cugman, FS Catanico, Tablon, Agusan, Puerto, Bugo and Balubal and all urban barangays from Barangay 1 to Barangay 40 shall comprise the second district.
 
-**SEC. 3._Repealing Clause._** \- All other laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
+## SEC. 2
 
-**SEC. 4._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in at least two newspaper of general circulation.
+_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.
+
+## SEC. 3
+
+_Repealing Clause._ \- All other laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## SEC. 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two newspaper of general circulation.
 
 Approved,
 

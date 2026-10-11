@@ -144,7 +144,7 @@ _Protected Area Management Board (PAMB)._ \- Within ninety (90) days from the ef
 
 (g) Regional Directors of the following government agencies, namely: the Department of Agriculture (DA), the National Economic and Development Authority (NEDA), the Department of Science and Technology (DOST), the Philippine National Police (PNP), the Department of National Defense (DND), and the Department of Tourism (DOT);
 
-(h) Three (3) representatives from NGOs or people's organizations (POs) based in the Province of Iloilo, duly authorized both by the DENR and the provincial govenrment.ℒαwρhi৷ The NGOs or POs represented should have been in existence for at least five (5) years and must have a record of accomplishments in the field of protected area management;
+(h) Three (3) representatives from NGOs or people's organizations (POs) based in the Province of Iloilo, duly authorized both by the DENR and the provincial govenrment. The NGOs or POs represented should have been in existence for at least five (5) years and must have a record of accomplishments in the field of protected area management;
 
 (i) At least one (1) but not more than three (3) representatives from all the ICCs/IPs present in the area and recognized by the National Commission on Indigenous Peoples (NCIP);
 
@@ -224,7 +224,7 @@ The PAMB shall retain seventy-five percent (75%) of all revenues raised through 
 
 The fund may be augmented by grants, donations, endowment from various sources, domestic or foreign: _Provided,_ That the fund shall be deposited in full as a special account in the National Treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration, and management of the NIPAS and duly approved projects endorsed by the PAMB in accordance with existing accounting, budgeting, and auditing rules and regulations: _Provided,_ further, That the fund shall not be used to cover personal services expenditures.
 
-The LGUs shall continue to impose taxes and collect all other fees not enumerated herein which they have traditionally collected, such as fees for business permit applications, property taxes and rental fees of LGUs' facilities.7!ᕼdMᗄ7
+The LGUs shall continue to impose taxes and collect all other fees not enumerated herein which they have traditionally collected, such as fees for business permit applications, property taxes and rental fees of LGUs' facilities.
 
 ## ARTICLE IV — TRANSITORY AND MISCELLANEOUS PROVISIONS
 

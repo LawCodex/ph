@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Two (2) additional branches of the Regional Trial Court are hereby created, one each to be stationed in the Municipality of Isulan and Tacurong City, in the Province of Sultan Kudarat in the Twelfth Judicial Region.
 
-The Supreme Court shall assign the branch number of the newly created Regional Trial Court branches in the Twelfth Judicial Region.1âшphi1
+The Supreme Court shall assign the branch number of the newly created Regional Trial Court branches in the Twelfth Judicial Region.
 
 ## Section 2
 

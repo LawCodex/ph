@@ -42,6 +42,6 @@ Subsection (b) of section five of the same Executive Order is hereby amended to 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1954.

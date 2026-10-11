@@ -36,7 +36,7 @@ _. Short Title._ -This Act shall be known as the "Community-Based Monitoring Sys
 
 _Declaration of Policy._ -It is the policy of the State to free the people from poverty through policies that provide adequate social services, deliver a rising standard of living, promote full employment, and make available an improved quality of life for all.
 
-Pursuant to this policy, the State recognizes the need to adopt focused and specific measures that will ensure poverty reduction wherein citizens have access to social protection and welfare programs that address their minimum basic needs.1âшphi1 The State further recognizes that a system of public spending that warrants government allocation on areas and populace that are most wanting is necessary in lifting people out of poverty.
+Pursuant to this policy, the State recognizes the need to adopt focused and specific measures that will ensure poverty reduction wherein citizens have access to social protection and welfare programs that address their minimum basic needs. The State further recognizes that a system of public spending that warrants government allocation on areas and populace that are most wanting is necessary in lifting people out of poverty.
 
 Towards this end, the State shall adopt a community-based monitoring system which generates updated and disaggregated data necessary in targeting beneficiaries, conducting more comprehensive poverty analysis and needs prioritization, designing appropriate policies and interventions, and monitoring impact over time.
 

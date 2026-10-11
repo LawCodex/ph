@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Land Transportation Office (LTO) Main Office in Quezon City, a regular district office of the LTO in the City of Imus, Province of Cavite.ᇈWᑭHIL
+There shall be established, under the supervision of the Land Transportation Office (LTO) Main Office in Quezon City, a regular district office of the LTO in the City of Imus, Province of Cavite.
 
 ## Section 2
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Guisican Elementary School in Barangay Guisican, Municipality of Labo, Province of Camarines Norte, is hereby changed to Florence Elementary School.1a⍵⍴h!1
+The name of the Guisican Elementary School in Barangay Guisican, Municipality of Labo, Province of Camarines Norte, is hereby changed to Florence Elementary School.
 
 ## Section 2
 

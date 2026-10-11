@@ -45,6 +45,8 @@ Sec. 4 of Republic Act No. 8182 is hereby amended to read as follows:
 
 "The NEDA shall ensure that the ODA obtained shall be for previously identified national priority projects which are urgent or necessary. ODA shall not be accepted or utilized solely because of its availability, convenience, or accessibility."
 
-**Sec. 3._Effectivity._** — This Act shall take effect after five (5) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever date comes first.
+## Sec. 3
+
+_Effectivity._ — This Act shall take effect after five (5) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever date comes first.
 
 _Approved:_ February 26, 1998

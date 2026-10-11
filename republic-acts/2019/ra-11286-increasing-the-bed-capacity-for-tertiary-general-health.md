@@ -42,7 +42,7 @@ _Upgrade of Existing Professional Health Care Services._ -The existing workforce
 
 ## Section 4
 
-_Implementation._ -The increase in bed capacity for tertiary general hospital use of the Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium from two hundred (200) to eight hundred (800) beds, shall be implemented consistent with the development plan of the hospital.1âшphi1
+_Implementation._ -The increase in bed capacity for tertiary general hospital use of the Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium from two hundred (200) to eight hundred (800) beds, shall be implemented consistent with the development plan of the hospital.
 
 ## Section 5
 

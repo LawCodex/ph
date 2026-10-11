@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Granada-Murcia Road and Extension (Circumferential Road), a national road in Bacolod City, Negros Occidental, is hereby named as the Carlos Hilado Highway.1a⍵⍴h!1
+The Granada-Murcia Road and Extension (Circumferential Road), a national road in Bacolod City, Negros Occidental, is hereby named as the Carlos Hilado Highway.
 
 ## Section 2
 

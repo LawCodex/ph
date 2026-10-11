@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the Province of La Union is hereby constituted into two highway engineering districts.1âшphi1 The first highway engineering district shall comprise the First Representative District with main office in the Municipality of San Fernando, and the second highway engineering district shall comprise the Second Representative District with main office in the Municipality of Agoo.
+Any provision of law to the contrary notwithstanding, the Province of La Union is hereby constituted into two highway engineering districts. The first highway engineering district shall comprise the First Representative District with main office in the Municipality of San Fernando, and the second highway engineering district shall comprise the Second Representative District with main office in the Municipality of Agoo.
 
 ## Section 2
 

@@ -470,7 +470,7 @@ If the health care provider is a juridical person, its officers and employees or
 
 (1) Deliberately or through inexcusable negligence, fails or refuses to register employees regardless of their employment status, accurately and timely deduct contributions from the employee’s compensation or to accurately and timely remit or submit the report of the same to PhilHealth shall be punished with a fine of Fifty thousand pesos (₱50,000.00) for every violation per affected employee, or imprisonment of not less than six (6) months but not more than one (1) year, or both such fine and imprisonment, at the discretion of the court.
 
-Any employer or any officer authorized to collect contributions under this Act who, after collecting or deducting the monthly contributions from the employee’s compensation, fails or refuses for whatever reason to accurately and timely remit the contributions to PhilHealth within thirty (30) days from due date shall be presumed _prima facie_ to have misappropriated the same and is obligated to hold the same in trust for and in behalf of the employees and PhilHealth, and is immediately obligated to return or remit the amount.1âwphi1
+Any employer or any officer authorized to collect contributions under this Act who, after collecting or deducting the monthly contributions from the employee’s compensation, fails or refuses for whatever reason to accurately and timely remit the contributions to PhilHealth within thirty (30) days from due date shall be presumed _prima facie_ to have misappropriated the same and is obligated to hold the same in trust for and in behalf of the employees and PhilHealth, and is immediately obligated to return or remit the amount.
 
 If the employer is a juridical person, its officers and employees or other representatives found to be responsible, whether they acted negligently or with intent, or have directly or indirectly caused the commission of the violation, shall be liable.
 
@@ -518,7 +518,7 @@ _Transitory Provision._ -
 
 (a) Within thirty (30) days from the effectivity of this Act, the President of the Philippines shall appoint the new members of the Board and the President of PhilHealth. The existing board of directors shall serve in a hold-over capacity until a full and permanent board of directors of PhilHealth is constituted and functioning.
 
-(b) All officers and personnel of PhilHealth, except members of the Board who shall be governed by the first paragraph of this section, shall continue to perform their duties and responsibilities and receive their corresponding salaries and benefits. The approval of this Act shall not cause any demotion in rank or diminution of salary, benefits and other privileges of the incumbent personnel of PhilHealth: _Provided,_ That qualified officers and personnel may voluntarily elect for retirement or separation from service and shall be entitled to the benefits under existing laws.1âwphi1
+(b) All officers and personnel of PhilHealth, except members of the Board who shall be governed by the first paragraph of this section, shall continue to perform their duties and responsibilities and receive their corresponding salaries and benefits. The approval of this Act shall not cause any demotion in rank or diminution of salary, benefits and other privileges of the incumbent personnel of PhilHealth: _Provided,_ That qualified officers and personnel may voluntarily elect for retirement or separation from service and shall be entitled to the benefits under existing laws.
 
 (c) All affected officers and personnel of the PCSO shall be absorbed by the agency without demotion in rank or diminution of salary, benefits and other privileges: _Provided,_ That qualified officers and personnel of the agency may voluntarily elect for retirement or separation from service based on PCSO Board-approved Early Retirement Incentive Program (ERIP), utilizing internally-generated funds, or savings from its operating fund: _Provided, finally,_ That the retirement benefit package shall be reasonable and within the bounds of existing laws.
 
@@ -544,7 +544,7 @@ Nothing in this Act shall be construed to eliminate or in any way diminish Progr
 
 ### Section 43
 
-_Implementing Rules and Regulations (IRR)._ \- The DOH and the PhilHealth, in consultation and coordination with appropriate national government agencies, civil society organizations, nongovernment organizations, private sector representatives, and other stakeholders, shall promulgate the necessary rules and regulations for the effective implementation of this Act no later than one hundred eighty (180) days upon the effectivity of this Act.1avvphi1
+_Implementing Rules and Regulations (IRR)._ \- The DOH and the PhilHealth, in consultation and coordination with appropriate national government agencies, civil society organizations, nongovernment organizations, private sector representatives, and other stakeholders, shall promulgate the necessary rules and regulations for the effective implementation of this Act no later than one hundred eighty (180) days upon the effectivity of this Act.
 
 ### Section 44
 

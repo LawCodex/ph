@@ -48,7 +48,7 @@ j. Junior Geodetic Engineer, Information Editor, Supply Officer I, Statistician 
 
 ## Section 2
 
-Other existing positions in the Bureau of Mines not covered above, except casual and emergency positions, are hereby authorized an increase of six WAPCO ranges each.1âшphi1
+Other existing positions in the Bureau of Mines not covered above, except casual and emergency positions, are hereby authorized an increase of six WAPCO ranges each.
 
 ## Section 3
 

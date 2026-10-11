@@ -32,7 +32,7 @@ The President of the Philippines shall have the power and authority to permit th
 
 ## Section 3
 
-The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at places hereinabove stated, and subject to the condition that the grantee, its successors or assigns, shall start operation under said permit within one and a half years from the date of the approval of this Act.1a⍵⍴h!1
+The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at places hereinabove stated, and subject to the condition that the grantee, its successors or assigns, shall start operation under said permit within one and a half years from the date of the approval of this Act.
 
 ## Section 4
 

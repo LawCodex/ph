@@ -34,7 +34,7 @@ The Hulo Elementary School in Barangay Hulo, City of Mandaluyong is hereby conve
 
 ## SECTION 2
 
-All personnel, assets, liabilities and records of the Hulo Elementary School are hereby transferred to and absorbed by the Hulo Integrated School.1âwphi1
+All personnel, assets, liabilities and records of the Hulo Elementary School are hereby transferred to and absorbed by the Hulo Integrated School.
 
 ## SECTION 3
 

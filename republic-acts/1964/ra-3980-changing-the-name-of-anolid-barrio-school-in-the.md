@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Anolid Barrio School in the Municipality of Malasiqui, Province of Pangasinan, is hereby changed to Genaro Armas Memorial School.1âшphi1
+The name of Anolid Barrio School in the Municipality of Malasiqui, Province of Pangasinan, is hereby changed to Genaro Armas Memorial School.
 
 ## Section 2
 

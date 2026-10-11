@@ -32,7 +32,7 @@ The President of the Philippines, subject to such terms and conditions as he may
 
 ## Section 2
 
-The Director of Lands shall make the survey as soon as possible of the parcels of land which are authorized to be transferred by this Act.1aшphi1
+The Director of Lands shall make the survey as soon as possible of the parcels of land which are authorized to be transferred by this Act.
 
 ## Section 3
 

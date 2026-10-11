@@ -77,7 +77,7 @@ _Functions._ -The Commission shall:
 
 ## Section 8
 
-_Organizational Structure._ -Subject to the approval of the Department of Budget and Management (DBM), the Commission shall determine its organizational structure and staffing pattern, create offices, divisions, or emits as it may deem necessary, and appoint its officers and employees in accordance with civil service laws, rules and regulations.1âшphi1 The remuneration structure for the positions in the staffing pattern shall strictly conform to Republic Act No. 6758, otherwise known as the "Compensation and Position Classification Act of 1989".
+_Organizational Structure._ -Subject to the approval of the Department of Budget and Management (DBM), the Commission shall determine its organizational structure and staffing pattern, create offices, divisions, or emits as it may deem necessary, and appoint its officers and employees in accordance with civil service laws, rules and regulations. The remuneration structure for the positions in the staffing pattern shall strictly conform to Republic Act No. 6758, otherwise known as the "Compensation and Position Classification Act of 1989".
 
 ## Section 9
 

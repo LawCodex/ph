@@ -30,6 +30,6 @@ The first paragraph of Section seventy-five of Republic Act Numbered Fifty-two h
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Extension of the Franchise._ – The life of the franchise of the Catholic Bishops' Conference of the Philippines, Inc., (formerly the Catholic Welfare Organization) to construct, operate and maintain radio broadcasting and television stations in the Philippines under Republic Act No. 5172 is hereby extended to another twenty-five (25) years from August 4, 1992.1âшphi1
+_Extension of the Franchise._ – The life of the franchise of the Catholic Bishops' Conference of the Philippines, Inc., (formerly the Catholic Welfare Organization) to construct, operate and maintain radio broadcasting and television stations in the Philippines under Republic Act No. 5172 is hereby extended to another twenty-five (25) years from August 4, 1992.
 
 ## Section 2
 

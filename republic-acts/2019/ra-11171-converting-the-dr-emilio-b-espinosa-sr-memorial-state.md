@@ -256,7 +256,7 @@ _Parity Clause._ \- All other powers, functions and privileges, responsibilities
 
 ## Section 24
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the DEBESMSCAT.1awp++i1 Thereafter, such sums as may be necessary for the continued operation and maintenance of the University shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the DEBESMSCAT. Thereafter, such sums as may be necessary for the continued operation and maintenance of the University shall be included in the annual General Appropriations Act.
 
 ## Section 25
 

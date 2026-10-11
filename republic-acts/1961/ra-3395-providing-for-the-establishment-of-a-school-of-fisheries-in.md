@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby established, under the supervision of the Director of Public Schools, a school of fisheries in the Municipality of Milagros, Province of Masbate, to be known as the Milagros School of Fisheries.1awp++i1 The site of the said school shall be determined by the Municipal Council of the Municipality of Milagros, in consultation with the Director of Public Schools.
+There is hereby established, under the supervision of the Director of Public Schools, a school of fisheries in the Municipality of Milagros, Province of Masbate, to be known as the Milagros School of Fisheries. The site of the said school shall be determined by the Municipal Council of the Municipality of Milagros, in consultation with the Director of Public Schools.
 
 ## Section 2
 
@@ -32,6 +32,6 @@ The sum of two hundred thousand pesos is hereby authorized to be appropriated, o
 
 ## Section 3
 
-This Act shall take effect upon the date the funds herein authorized to be appropriated shall have been provided for.1avvphi1
+This Act shall take effect upon the date the funds herein authorized to be appropriated shall have been provided for.
 
 Approved: June 18, 1961.

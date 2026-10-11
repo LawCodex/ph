@@ -93,7 +93,7 @@ b. Individuals or non-governmental institutions establishing homes, residential 
 
 ## Section 6
 
-_Retirement Benefits. 1âшphi1_ — To the extent practicable and feasible, retirement benefits from both the Government and the private sectors shall be upgraded to be at par with the current scale enjoyed by those in actual service.
+_Retirement Benefits._ — To the extent practicable and feasible, retirement benefits from both the Government and the private sectors shall be upgraded to be at par with the current scale enjoyed by those in actual service.
 
 ## Section 7
 

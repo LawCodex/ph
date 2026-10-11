@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Surigao del Sur State University (SDSSU) in the Province of Surigao del Sur is hereby renamed as the North Eastern Mindanao State University (NEMSU).ℒαwρhi৷
+The Surigao del Sur State University (SDSSU) in the Province of Surigao del Sur is hereby renamed as the North Eastern Mindanao State University (NEMSU).
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Del Gallego, Province of Camarines Sur, to be known as Del Gallego Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Del Gallego, in consultation with the Director of Medical Services.1âшphi1
+There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Del Gallego, Province of Camarines Sur, to be known as Del Gallego Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Del Gallego, in consultation with the Director of Medical Services.
 
 ## Section 2
 

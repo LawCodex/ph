@@ -56,7 +56,7 @@ The original school site acquired for the former Zamboanga Normal School as well
 
 ## Section 7
 
-All provisions of law inconsistent with this Act are hereby repealed.1a⍵⍴h!1
+All provisions of law inconsistent with this Act are hereby repealed.
 
 ## Section 8
 

@@ -241,7 +241,7 @@ _Program Plans._ \- The Commission shall within three (3) months after having be
 
 ### Section 20
 
-_The National Endowment Fund for Culture and Arts._ \- A National Endowment Fund for Culture and Arts (the Fund) is hereby established exclusively for Philippine art and cultural programs, projects and activities all over the country.1âшphi1
+_The National Endowment Fund for Culture and Arts._ \- A National Endowment Fund for Culture and Arts (the Fund) is hereby established exclusively for Philippine art and cultural programs, projects and activities all over the country.
 
 a. The contribution to the Fund shall be the following:
 

@@ -42,7 +42,7 @@ _Governance._ \- The governance of the College shall be vested in the Board of R
 
 ## Section 4
 
-_Administration._ \- The administration of the College shall be vested in the Dean of the College insofar as may be authorized by its Board.1aшphi1
+_Administration._ \- The administration of the College shall be vested in the Dean of the College insofar as may be authorized by its Board.
 
 ## Section 5
 

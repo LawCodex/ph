@@ -45,7 +45,7 @@ The first paragraph of section two hundred and sixty of the National Internal Re
 
 "(h) When the amount paid for admission exceeds eighty-nine centavos but does not exceed ninety-nine centavos, eighteen centavos on each admission;
 
-"(i) When the amount paid for admission exceeds ninety-nine centavos the tax will be thirty per centum.1âшphi1
+"(i) When the amount paid for admission exceeds ninety-nine centavos the tax will be thirty per centum.
 
 "In the case of boxing exhibitions, there shall be collected from the proprietor, lessee, or operator an amusement tax at a rate equivalent to fifty per centum of the taxes prescribed in the preceding paragraph: _Provided,_ That no local government shall impose any tax in excess of five per centum: _Provided, further,_ That all laws and ordinances in contravention hereto are repealed."
 

@@ -33,7 +33,7 @@ The Alubijid National Comprehensive High School shall offer general secondary, v
 
 ## Section 3
 
-Immediately upon the conversion of the Alubijid Provincial High School into the Alubijid National Comprehensive High School, all assets and liabilities of the former shall be transferred, borne, shouldered, owned, and assumed by the latter: _Provided,_ That all teachers and/or employees now employed in the Alubijid Provincial High School shall be retained upon the conversion of the said school into the Alubijid National Comprehensive High School in accordance with or subject to the Civil Service Law or regulations applicable: _Provided, further,_ That immediately upon conversion all teachers and/or employees employed therein shall receive their salaries in accordance with the rates corresponding to their qualifications as provided for by the WAPCO.1âшphi1
+Immediately upon the conversion of the Alubijid Provincial High School into the Alubijid National Comprehensive High School, all assets and liabilities of the former shall be transferred, borne, shouldered, owned, and assumed by the latter: _Provided,_ That all teachers and/or employees now employed in the Alubijid Provincial High School shall be retained upon the conversion of the said school into the Alubijid National Comprehensive High School in accordance with or subject to the Civil Service Law or regulations applicable: _Provided, further,_ That immediately upon conversion all teachers and/or employees employed therein shall receive their salaries in accordance with the rates corresponding to their qualifications as provided for by the WAPCO.
 
 ## Section 4
 

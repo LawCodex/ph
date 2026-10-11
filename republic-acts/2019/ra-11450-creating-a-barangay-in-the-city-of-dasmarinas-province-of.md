@@ -402,7 +402,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Victoria Reyes shall continue to hold office until their successors shall have been elected and qualified.1âшphi1
+_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Victoria Reyes shall continue to hold office until their successors shall have been elected and qualified.
 
 ## Section 5
 

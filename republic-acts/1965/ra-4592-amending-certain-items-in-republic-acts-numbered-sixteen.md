@@ -73,6 +73,6 @@ Item 16, page 4, paragraph "A", Title A, Section one of Republic Act Numbered Ni
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1965.

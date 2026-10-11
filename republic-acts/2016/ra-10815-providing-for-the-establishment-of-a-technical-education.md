@@ -54,7 +54,7 @@ _School Site._ – The Rizal, Occidental Mindoro TESDA Training and Accreditatio
 
 _Administration._ – The Rizal, Occidental Mindoro TESDA Training and Accreditation Center shall be headed by a Technical-Vocational Administrator under the supervision of the TESDA. The Technical-Vocational Administrator shall be appointed by the TESDA Director-
 
-General in accordance with civil service rules and regulations and the qualification requirements of the TESDA.1âwphi1
+General in accordance with civil service rules and regulations and the qualification requirements of the TESDA.
 
 The Technical-Vocational Administrator shall render full-time services and shall be responsible for the administration and operation of the Rizal, Occidental Mindoro TESDA Training and Accreditation Center.
 

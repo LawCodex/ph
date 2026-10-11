@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be two school divisions in the Province of Quezon, one shall include all the municipalities of the Subprovince of Aurora, including the Municipal District of Dingalan. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Baler. The other division shall include all the rest of the municipalities of the province.1âшphi1 The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Lucena.1avvphi1
+There shall be two school divisions in the Province of Quezon, one shall include all the municipalities of the Subprovince of Aurora, including the Municipal District of Dingalan. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Baler. The other division shall include all the rest of the municipalities of the province. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Lucena.
 
 ## Section 2
 

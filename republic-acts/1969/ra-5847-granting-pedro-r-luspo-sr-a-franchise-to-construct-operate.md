@@ -76,7 +76,7 @@ This franchise shall continue for a period of twenty-five years from the approva
 
 ## Section 14
 
-In consideration of this franchise, the grantee shall pay a tax equivalent to five per cent of his gross income.1a⍵⍴h!1
+In consideration of this franchise, the grantee shall pay a tax equivalent to five per cent of his gross income.
 
 ## Section 15
 

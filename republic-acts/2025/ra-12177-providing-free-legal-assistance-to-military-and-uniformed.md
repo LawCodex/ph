@@ -41,7 +41,7 @@ _Definition of Terms._ \- As used in this Act:
 
 (a) Military and Uniformed Personnel (MUP) refers to officers, enlisted and uniformed personnel of the Armed Forces of the Philippines (AFP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (BJMP), Philippine Coast Guard (PCG), Bureau of Corrections (BuCor), Philippine National Police (PNP), and the Hydrography Branch of the National Mapping and Resource Information Authority (NAMRIA); and
 
-(b) Service-related Cases refer to civil, criminal, and administrative cases filed against the MUP for incidents related to or in connection with the discharge of their official functions or the performance of their duties.ℒαwρhi৷
+(b) Service-related Cases refer to civil, criminal, and administrative cases filed against the MUP for incidents related to or in connection with the discharge of their official functions or the performance of their duties.
 
 ## Section 4
 

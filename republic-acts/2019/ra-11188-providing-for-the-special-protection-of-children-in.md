@@ -276,7 +276,7 @@ Any person found guilty of committing any of the acts enumerated in subparagraph
 
 (5) False branding of children or labeling children as children involved in armed conflict; and
 
-(6) Arrest, arbitrary detention or unlawful prosecution of children allegedly associated with armed groups or government forces.1avvphi1
+(6) Arrest, arbitrary detention or unlawful prosecution of children allegedly associated with armed groups or government forces.
 
 Any person found guilty of committing any of the acts enumerated in subparagraphs (1), (2), (3), (4), (5) and (6) of paragraph (d) of this section shall suffer the penalty of imprisonment of not less than six (6) years but not more than twelve (12) years and a fine of not less than Five hundred thousand pesos (₱500,000.00) but not more than One million pesos (₱1,000,000.00).
 
@@ -306,7 +306,7 @@ _Nonprescription._ \- The crimes defined and penalized under this Act, their pro
 
 ### Section 13
 
-_Irrelevance of Official Capacity._ \- This Act shall appl}’ equally to all persons without any distinction based on official capacity.1âwphi1 In no case shall the official capacity exempt a person from criminal responsibility or constitute a ground for reduction of sentence.
+_Irrelevance of Official Capacity._ \- This Act shall appl}’ equally to all persons without any distinction based on official capacity. In no case shall the official capacity exempt a person from criminal responsibility or constitute a ground for reduction of sentence.
 
 ### Section 14
 

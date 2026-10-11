@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Zamboanga del Norte shall be constituted into two engineering districts.1âшphi1 The first and second district engineers’ offices shall be established in the municipalities of Dipolog and Liloy, respectively. The Secretary of Public Works and Communications is hereby authorized to fix the territory of each engineering district.
+Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Zamboanga del Norte shall be constituted into two engineering districts. The first and second district engineers’ offices shall be established in the municipalities of Dipolog and Liloy, respectively. The Secretary of Public Works and Communications is hereby authorized to fix the territory of each engineering district.
 
 Each engineering district shall have one highway district engineer who shall be appointed in accordance with existing laws.
 

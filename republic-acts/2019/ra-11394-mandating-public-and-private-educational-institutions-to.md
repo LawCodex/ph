@@ -40,7 +40,7 @@ The State recognizes the vital role of the youth in nation-building and shall pr
 
 It shall be obligatory for all educational institutions, both public and private, that make use of armchairs in the classroom to provide neutral desks to all students.
 
-Neutral desk shall mean a table or an armchair that is suitable for both right-handed and left-handed students.1âшphi1
+Neutral desk shall mean a table or an armchair that is suitable for both right-handed and left-handed students.
 
 These institutions shall provide neutral desks equivalent to ten percent (10%) of the student population within one (1) year from the effectivity of this Act. Henceforth, said institutions are mandated to provide neutral desks to all students.
 

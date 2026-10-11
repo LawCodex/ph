@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the First Representative District of Albay is hereby constituted into a separate highway engineering district to be known as the First Highway Engineering District of the Province of Albay. It shall have one highway district engineer who shall be appointed in accordance with existing laws.1âшphi1
+Any provision of law to the contrary notwithstanding, the First Representative District of Albay is hereby constituted into a separate highway engineering district to be known as the First Highway Engineering District of the Province of Albay. It shall have one highway district engineer who shall be appointed in accordance with existing laws.
 
 ## Section 2
 

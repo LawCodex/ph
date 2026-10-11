@@ -80,7 +80,7 @@ The body of instructors and professors of the college shall constitute the facul
 
 ## Section 10
 
-The Registrar, in addition to his regular duties, shall act as the Secretary of the College who shall be at the same time the Secretary of the Board of Trustees and shall keep such records of the college as may be designated by the Board.1a⍵⍴h!1
+The Registrar, in addition to his regular duties, shall act as the Secretary of the College who shall be at the same time the Secretary of the Board of Trustees and shall keep such records of the college as may be designated by the Board.
 
 ## Section 11
 

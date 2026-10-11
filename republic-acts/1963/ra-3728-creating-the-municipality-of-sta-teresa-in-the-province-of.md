@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Villa, Mission, Gungeg, Buyun Masi, Luga, Alocaa Este, Tuyo and Namunit in the Municipality of Buguey, Province of Cagayan, are separated from said municipality, constituted into a distinct and independent municipality to be known as the Municipality of Sta. Teresa, same province.1âшphi1 The seat of government of the new municipality shall be in the present site of the barrio of Namunit.
+The barrios of Villa, Mission, Gungeg, Buyun Masi, Luga, Alocaa Este, Tuyo and Namunit in the Municipality of Buguey, Province of Cagayan, are separated from said municipality, constituted into a distinct and independent municipality to be known as the Municipality of Sta. Teresa, same province. The seat of government of the new municipality shall be in the present site of the barrio of Namunit.
 
 ## Section 2
 

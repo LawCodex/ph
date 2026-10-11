@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Katipunan Natio
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Katipunan National High School – Basagan Annex are hereby transferred to and absorbed by the Basagan National High School.ℒαwρhi৷
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Katipunan National High School – Basagan Annex are hereby transferred to and absorbed by the Basagan National High School.
 
 ## Section 3
 

@@ -188,7 +188,7 @@ _Implementing Rules and Regulations._ \- The DILG, the DBM, the Commission on El
 
 ## Section 15
 
-_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the other provisions not affected thereby shall continue to be in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the other provisions not affected thereby shall continue to be in full force and effect.
 
 ## Section 16
 

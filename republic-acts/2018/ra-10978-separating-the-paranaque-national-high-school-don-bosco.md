@@ -37,7 +37,7 @@ All personnel, assets, liabilities and records of the Parañaque National High S
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Don Bosco National High School, the initial funding of which shall be charged against the current year's appropriation of the Parañaque National High School - Don Bosco Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Don Bosco National High School, the initial funding of which shall be charged against the current year's appropriation of the Parañaque National High School - Don Bosco Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -59,7 +59,7 @@ _Definition of Terms._ \- As used in this Act:
 
 (d) Practice of the agriculture profession refers to all activities, acts, services, or pursuits performed by registered agriculturists as herein prescribed or specified; and
 
-(e) Registered agriculturist refers to a person who has been issued a Certificate of Registration (COR) and Professional Identification Card (PIC) to practice the agriculture profession.ℒαwρhi৷
+(e) Registered agriculturist refers to a person who has been issued a Certificate of Registration (COR) and Professional Identification Card (PIC) to practice the agriculture profession.
 
 ## ARTICLE II — PROFESSIONAL REGULATORY BOARD OF AGRICULTURE
 

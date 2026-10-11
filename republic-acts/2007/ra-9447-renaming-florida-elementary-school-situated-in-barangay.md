@@ -28,13 +28,21 @@ AN ACT RENAMING FLORIDA ELEMENTARY SCHOOL SITUATED IN BARANGAY FLORIDA, BUTUAN C
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Renaming of School._** \- Florida Elementary School, a public elementary school situated in Barangay Florida, Butuan City, is hereby renamed and henceforth shall be known as Mariana L. Pineda Memorial Elementary School.
+## Section 1
 
-**Sec. 2._Repealing Clause._** \- All laws, decrees, executive orders and other administrative issuances and parts thereof which are inconsistent with the provision of this Act are hereby modified or superseded accordingly.
+_Renaming of School._ \- Florida Elementary School, a public elementary school situated in Barangay Florida, Butuan City, is hereby renamed and henceforth shall be known as Mariana L. Pineda Memorial Elementary School.
 
-**Sec. 3._Separability Clause._** \- If any clause, provision, paragraph or part hereof shall he declared unconstitutional or invalid, it shall not affect the remaining provisions of this Act.
+## Sec. 2
 
-**Sec. 4._Effectivity._** \- This Act shall take effect upon its approva1.
+_Repealing Clause._ \- All laws, decrees, executive orders and other administrative issuances and parts thereof which are inconsistent with the provision of this Act are hereby modified or superseded accordingly.
+
+## Sec. 3
+
+_Separability Clause._ \- If any clause, provision, paragraph or part hereof shall he declared unconstitutional or invalid, it shall not affect the remaining provisions of this Act.
+
+## Sec. 4
+
+_Effectivity._ \- This Act shall take effect upon its approva1.
 
 Approved,
 

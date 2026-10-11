@@ -85,7 +85,7 @@ The grantee shall not lease, transfer, grant the usufruct or sell or assign this
 
 ## Section 16
 
-This franchise shall not be interpreted to mean as an exclusive grant of the privilege herein provided for.1âшphi1
+This franchise shall not be interpreted to mean as an exclusive grant of the privilege herein provided for.
 
 ## Section 17
 

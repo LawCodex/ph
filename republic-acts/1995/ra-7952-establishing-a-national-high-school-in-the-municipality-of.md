@@ -32,7 +32,7 @@ There shall be established a national high school in the Municipality of Estanci
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulation as may be necessary out of the purposes of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue such rules and regulation as may be necessary out of the purposes of this Act.
 
 ## Section 3
 

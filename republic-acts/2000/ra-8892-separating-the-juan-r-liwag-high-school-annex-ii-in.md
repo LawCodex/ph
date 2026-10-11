@@ -35,7 +35,7 @@ The Department of Education, Culture and Sports shall issue such rules and regul
 
 ## Section 3
 
-All personnel, records, assets and liabilities of the Juan R. Liwag High School Annex II are hereby transferred to and absorbed by the Maruhat National High School.ℒαwρhi৷
+All personnel, records, assets and liabilities of the Juan R. Liwag High School Annex II are hereby transferred to and absorbed by the Maruhat National High School.
 
 ## Section 4
 

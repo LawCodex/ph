@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established an agro-industrial high school in the Municipality of Sta. Maria, Province of Bulacan, to be known as the Sta. Maria Agro-Industrial High School, which shall be under the supervision of the Department of Education, Culture and Sports.1aшphi1
+There shall be established an agro-industrial high school in the Municipality of Sta. Maria, Province of Bulacan, to be known as the Sta. Maria Agro-Industrial High School, which shall be under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

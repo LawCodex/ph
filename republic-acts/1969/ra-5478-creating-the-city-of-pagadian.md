@@ -810,7 +810,7 @@ _The Motor Vehicle Registrar._ —The City shall have a motor vehicle registrar 
 
 The Motor Vehicle Registrar of the Province of Zamboanga del Sur shall act as City Motor Vehicle Registrar ex-officio until such time when a regular city motor vehicle registrar of the City of Pagadian shall have been appointed and duly qualified.
 
-The Commissioner of the Land Transportation Commission shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines.1a⍵⍴h!1
+The Commissioner of the Land Transportation Commission shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines.
 
 ## Article XV.— Special Provisions
 

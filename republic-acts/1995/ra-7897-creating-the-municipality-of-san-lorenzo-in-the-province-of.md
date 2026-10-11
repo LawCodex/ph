@@ -84,7 +84,7 @@ the Municipality of San Lorenzo is described as follows:
 
 ## Section 3
 
-the Municipality of San Lorenzo shall acquire corporate existence upon ratification by a majority of the votes cast in a plebiscite to be conducted in the municipalities affected within ninety (90) days after approval of this Act. the Commission on Elections shall conduct and supervise the plebiscite. the expenses to be incurred for the said plebiscite shall be charged to provincial funds.1aшphi1
+the Municipality of San Lorenzo shall acquire corporate existence upon ratification by a majority of the votes cast in a plebiscite to be conducted in the municipalities affected within ninety (90) days after approval of this Act. the Commission on Elections shall conduct and supervise the plebiscite. the expenses to be incurred for the said plebiscite shall be charged to provincial funds.
 
 ## Section 4
 

@@ -36,7 +36,7 @@ a. Naphtha sought to be exempted has the following specifications:
 | Unsaturates, vol. % ......................................................... | trace to 1.0 |
 | Aromatics, vol. % ............................................................ | trace to 30 |
 
-b. It will be used directly and exclusively as feedstock or raw material and that, in the course of manufacture, its chemical structure is changed.1a⍵⍴h!1
+b. It will be used directly and exclusively as feedstock or raw material and that, in the course of manufacture, its chemical structure is changed.
 
 c. It will be stored separately and such, storage, shall be provided with facilities to measure or record the quantity of naphtha used as raw material or feedstock.
 
@@ -56,6 +56,6 @@ All existing laws, executive orders, and administrative rules and regulations or
 
 ## Section 5
 
-This Act shall be effective for a period of five years beginning January first, nineteen hundred sixty-five to December thirty-first, nineteen hundred sixty-nine.1a⍵⍴h!1
+This Act shall be effective for a period of five years beginning January first, nineteen hundred sixty-five to December thirty-first, nineteen hundred sixty-nine.
 
 Approved, June 18, 1964.

@@ -36,7 +36,7 @@ All the machinery, equipment and appurtenances to be used by the grantee shall b
 
 ## Section 4
 
-If the grantee shall not commence the manufacture of ice within two years from the approval of this Act, unless prevented by an act of God, _force majeure_ , martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.1âшphi1
+If the grantee shall not commence the manufacture of ice within two years from the approval of this Act, unless prevented by an act of God, _force majeure_ , martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
 
 ## Section 5
 

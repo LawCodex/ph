@@ -188,7 +188,7 @@ To be eligible for vocational rehabilitation a person must:
 
 (a) Be of work age.
 
-(b) Have a substantial job handicap in the form of physical or mental impairment.1awp++i1
+(b) Have a substantial job handicap in the form of physical or mental impairment.
 
 (c) Have a reasonably good chance of becoming employable or of getting more suitable job through rehabilitation services.
 

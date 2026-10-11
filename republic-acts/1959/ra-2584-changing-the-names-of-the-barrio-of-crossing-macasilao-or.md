@@ -28,7 +28,7 @@ The name of the barrio of Crossing Macasilao or Barrio Yonson in the Municipalit
 
 ## Section 2
 
-The name of the barrio of Binobongol in the Municipality of Escalante, same province, is changed to Barrio Magsaysay.1awp++i1
+The name of the barrio of Binobongol in the Municipality of Escalante, same province, is changed to Barrio Magsaysay.
 
 ## Section 3
 

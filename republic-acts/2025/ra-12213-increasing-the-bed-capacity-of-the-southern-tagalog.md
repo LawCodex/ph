@@ -45,7 +45,7 @@ The Secretary of Health shall immediately include in the Department's program th
 
 ## Section 6
 
-If any provision of this Act is declared unconstitutional, the remaining parts of provisions not affected shall remain in full force and effect.ℒαwρhi৷
+If any provision of this Act is declared unconstitutional, the remaining parts of provisions not affected shall remain in full force and effect.
 
 ## Section 7
 

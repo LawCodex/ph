@@ -30,6 +30,6 @@ Section two of Republic Act Numbered Three hundred fifty-eight is amended to rea
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 2, 1954.

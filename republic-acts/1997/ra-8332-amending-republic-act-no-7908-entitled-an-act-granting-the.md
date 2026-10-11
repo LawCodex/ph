@@ -46,7 +46,7 @@ Republic Act No. 7908 is hereby amended to read as follows:
 
 "**Section 6.** _Right of Government._ – A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations, transmitters, facilities or equipment of the grantee, to temporarily suspend the operation of any station, transmitter, facility or equipment in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations, transmitters, facilities or equipment during the period when the franchise shall be so operated.
 
-"The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.1aшphi1
+"The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.
 
 "**Section 7.** _Term of Franchise._ – This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked, in the event the grantee fails to comply with any of the following conditions:
 

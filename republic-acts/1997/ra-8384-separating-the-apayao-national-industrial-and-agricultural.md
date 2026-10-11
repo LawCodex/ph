@@ -36,7 +36,7 @@ The school shall offer secondary education proper, as well as vocational courses
 
 ## Section 3
 
-The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.1aшphi1
+The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 4
 

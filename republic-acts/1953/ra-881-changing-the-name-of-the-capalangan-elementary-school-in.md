@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Capalangan Elementary School in the municipality of Apalit, Province of Pampanga, is hereby changed to Macario Arnedo Elementary School.1a⍵⍴h!1
+The name of the Capalangan Elementary School in the municipality of Apalit, Province of Pampanga, is hereby changed to Macario Arnedo Elementary School.
 
 ## Section 2
 

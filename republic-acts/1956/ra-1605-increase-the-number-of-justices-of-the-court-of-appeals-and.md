@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section twenty-four of Republic Act Numbered Two hundred and ninety-six, as amended, is hereby further amended to read as follows:
 
-"Sec. 24. _The Court of Appeals._ -The Court of Appeals of the Philippines shall consist of a Presiding Justice and seventeen Associate Justices who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress.1awp++i1 The Presiding Justice of the Court of Appeals shall be so designated in his commission, and the other Justices of the Court shall have precedence according to the dates of their respective commissions, or when the commissions of two or more of them shall bear the same date, according to the order in which their commissions have been issued by the President of the Philippines.
+"Sec. 24. _The Court of Appeals._ -The Court of Appeals of the Philippines shall consist of a Presiding Justice and seventeen Associate Justices who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress. The Presiding Justice of the Court of Appeals shall be so designated in his commission, and the other Justices of the Court shall have precedence according to the dates of their respective commissions, or when the commissions of two or more of them shall bear the same date, according to the order in which their commissions have been issued by the President of the Philippines.
 
 "The Presiding Justice and the Associate Justices of the Court of Appeals shall not be removed from office except on impeachment upon the grounds and in the manner provided for in Article IX of the Constitution.
 

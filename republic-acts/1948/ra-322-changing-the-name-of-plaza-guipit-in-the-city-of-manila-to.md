@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-In order to perpetuate the memory of the greatest jurist this country has ever produced—that pure and erudite Titan of Philippine jurisprudence—the late first Chief Justice Cayetano Arellano, who, more than any other man in our history, made of the Supreme Court of the Philippines the torchlight and fountain-head of dignity, purity, and integrity in our judicial structure, the Plaza now called Guipit in the City of Manila shall henceforth to be known as Plaza Cayetano Arellano.1aшphi1
+In order to perpetuate the memory of the greatest jurist this country has ever produced—that pure and erudite Titan of Philippine jurisprudence—the late first Chief Justice Cayetano Arellano, who, more than any other man in our history, made of the Supreme Court of the Philippines the torchlight and fountain-head of dignity, purity, and integrity in our judicial structure, the Plaza now called Guipit in the City of Manila shall henceforth to be known as Plaza Cayetano Arellano.
 
 ## Section 2
 

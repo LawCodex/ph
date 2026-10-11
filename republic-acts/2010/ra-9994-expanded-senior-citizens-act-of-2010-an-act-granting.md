@@ -139,7 +139,7 @@ The senior citizens shall be entitled to the following:
 
 "(k) provision of express lanes for senior citizens in all commercial and government establishments; in the absence thereof, priority shall be given to them; and
 
-"(l) death benefit assistance of a minimum of Two thousand pesos (Php2, 000.00) shall be given to the nearest surviving relative of a deceased senior citizen which amount shall be subject to adjustments due to inflation in accordance with the guidelines to be issued by the DSWD.1avvphi1
+"(l) death benefit assistance of a minimum of Two thousand pesos (Php2, 000.00) shall be given to the nearest surviving relative of a deceased senior citizen which amount shall be subject to adjustments due to inflation in accordance with the guidelines to be issued by the DSWD.
 
 "In the availment of the privileges mentioned above, the senior citizen, or his/her duly authorized representative, may submit as proof of his/her entitled thereto any of the following:
 
@@ -556,11 +556,15 @@ _FUNERAL AND BURIAL SERVICES_ \- The beneficiary or any person who shall shoulde
 
 In cases where the senior citizen is also a person with disability (PWD) entitled to a 20% discount under his/her valid PWD identification card (ID), the senior citizen shall use either his/her OSCA-issued ID card or PWD ID card to avail of the 20% discount.
 
-**Article 10. TAX DEDUCTION** \- The establishment may claim the discounts provided herein as tax deductions based on the cost of the goods sold or services rendered: Provided. That the cost of the discount shall be allowed as deduction from the gross income for the same taxable year that the discount is granted: Provides, further, That the total amount of the claimed tax deduction net of VAT, if applicable, shall be included in their gross sales receipts for tax purposes and shall be subject to proper documentation and to the provisions of the National Internal Revenue Code (NIRC), as amended.
+## Article 10
+
+TAX DEDUCTION \- The establishment may claim the discounts provided herein as tax deductions based on the cost of the goods sold or services rendered: Provided. That the cost of the discount shall be allowed as deduction from the gross income for the same taxable year that the discount is granted: Provides, further, That the total amount of the claimed tax deduction net of VAT, if applicable, shall be included in their gross sales receipts for tax purposes and shall be subject to proper documentation and to the provisions of the National Internal Revenue Code (NIRC), as amended.
 
 For this purpose, the Department of Finance (DOF) through the Bureau of Internal Revenue (BIR) shall come up with the appropriate Revenue Regulations on the 20% senior citizens discount and VAT exemption within thirty (30) days from effectivity of these Rules.
 
-**Article 11. OTHER PRIVILEGES**
+## Article 11
+
+OTHER PRIVILEGES
 
 ## Section 1
 
@@ -598,7 +602,9 @@ _PRIVILEGES ON GRANTING SPECIAL DISCOUNTS IN SPECIAL PROGRAMS_ \- To the extent 
 
 _EXPRESS LANES PRIVILEGES_ \- Accessible express lanes for senior citizens shall be provided in all private, banking, commercial, and government establishments; in the absence thereof, priority shall be given to them.
 
-**Article 12. UTILITY DISCOUNTS**
+## Article 12
+
+UTILITY DISCOUNTS
 
 ## Section 1
 
@@ -647,7 +653,9 @@ Private entities that shall employ senior citizens as employees upon effectivity
 
 The DOLE, in coordination with other government agencies, such as, but not limited to, the DOST-Technology Resource Center (DOST-TRC) and the DTI, shall assess, design and implement training programs that will provide free of charge to senior citizens the appropriate skills development, livelihood training programs, and welfare or livelihood support.
 
-**Article 14. EDUCATION**
+## Article 14
+
+EDUCATION
 
 The Department of Education (DepEd), the DOST-TRC, the Technical Education and Skills Development Authority (TESDA), and the Commission on Higher Education (CHED), in consultation with non-governmental (NGOs) and people's organizations (POs) for senior citizens, shall institute a program that will ensure access of senior citizens to formal and non-formal education. They are to:
 
@@ -661,7 +669,9 @@ d) In coordination with OSCA and the City or Municipal Social Welfare and Develo
 
 e) Conduct continuing research and development program for the necessary and relevant education of the senior citizens.
 
-**Article 15. HEALTH**
+## Article 15
+
+HEALTH
 
 ## Section 1
 
@@ -693,7 +703,9 @@ h) Provision of accessible express lanes, or prioritization, in all health facil
 
 Provide technical assistance in coordination with DSWD, NGOs and other concerned agencies to local government units in the establishment of community based health rehabilitation programs.
 
-**Article 16. SOCIAL SERVICES**
+## Article 16
+
+SOCIAL SERVICES
 
 The DSWD, in cooperation with the OSCA and the local government units, non-governmental organizations and people'' organizations for senior citizens, shall develop and implement programs and social services for senior citizens. Local government units shall ensure that the developed programs and social services are provided. The components of these programs are:
 
@@ -707,7 +719,9 @@ d) Substitute family care in the form of residential care, group homes, or foste
 
 e) Inclusion of community-based settings as practicum for academic institutions and in the curriculum of caregiving and technical vocational schools.
 
-**Article 17. HOUSING**
+## Article 17
+
+HOUSING
 
 The national government shall include in its national shelter program the special housing needs of senior citizens, such as establishment of housing units for the elderly.
 
@@ -719,11 +733,15 @@ The Housing and Land Use Regulatory Board (HLURB) shall formulate housing rules 
 
 The housing program for the poor senior citizens which include the establishment/donation of group/foster homes for the neglected, abused and unattached or homeless senior citizens and those incapable of self-care including its management, maintenance and operations shall be established in accordance with EO 105, approving and directing the implementation of the program, "Provision of Group/Foster Home for Neglected, Abandoned, Abused, Unattached and Poor Older Persons and Persons with Disabilities" promulgated on May 16, 2002.
 
-**Article 18. ACCESS TO PUBLIC TRANSPORT**
+## Article 18
+
+ACCESS TO PUBLIC TRANSPORT
 
 The DOTC and its attached agencies and sectoral officers shall improve the implementation or programs to assist senior citizens to fully gain access in the use of public transport facilities. The minimum requirements and standards to make transportation facilities and utilities for public use accessible to senior citizens shall be developed to enhance the mobility of senior citizens. There shall be strict implementation of courtesy space and seats for the exclusive use of senior citizens in all transport system. As far as practicable, PUVs shall also strive to install safe lower stepping boards.
 
-**Article 19. INCENTIVE FOR FOSTER CARE**
+## Article 19
+
+INCENTIVE FOR FOSTER CARE
 
 The DILG through the local government units, in consultation with the DOF and the BIR which shall provide the necessary guidelines, shall provide incentives to persons or NGO institutions implementing foster care programs for senior citizens, as follows:
 
@@ -731,7 +749,9 @@ The DILG through the local government units, in consultation with the DOF and th
 
 (b) priority in the construction, or maintenance of provincial or municipal roads leading to the aforesaid home, residential community or retirement village.
 
-**Article 20. ADDITIONAL GOVERNMENT ASSISTANCE**
+## Article 20
+
+ADDITIONAL GOVERNMENT ASSISTANCE
 
 ## Section 1
 
@@ -855,7 +875,9 @@ c) posting notices and signages telling customers that availment of the 20% disc
 
 d) "limiting" of discountable drug and medicine purchases to certain weekdays only, such that senior citizens cannot avail of the 20% discount on other days, and e) restricting the purchase time or period for senior citizen discounts after a certain hour.
 
-**Article 23. Violations in Discounted Food Purchases** \- The following acts concerning food purchases are considered violative of the provisions of the Act and its Rules:
+## Article 23
+
+Violations in Discounted Food Purchases \- The following acts concerning food purchases are considered violative of the provisions of the Act and its Rules:
 
 a) Pegging a maximum amount of food purchase subject to 20% discount and the VAT exemption, and/ or posting of notice to that effect;
 
@@ -863,7 +885,9 @@ b) Refusal to grant the 20% discount and VAT exemption on take -out/ take home/ 
 
 c) Refusal to grant a 20% discount and VAT exemption on delivery orders it appearing that the purchases is for the exclusive use and enjoyment of senior citizens.
 
-**Article 24. PENALTIES** \- Any person who refuses to honor the senior citizen card or violates any provision of the Act and its Rules shall suffer the following penalties:
+## Article 24
+
+PENALTIES \- Any person who refuses to honor the senior citizen card or violates any provision of the Act and its Rules shall suffer the following penalties:
 
 ## Section 1
 

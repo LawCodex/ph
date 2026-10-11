@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Secretary of Education is hereby authorized to establish and maintain with the technical assistance of the United Nations Educational, Scientific, and Cultural Organization, a training center for community schools to be located at the Municipality of Bayambang, Province of Pangasinan.1âшphi1
+The Secretary of Education is hereby authorized to establish and maintain with the technical assistance of the United Nations Educational, Scientific, and Cultural Organization, a training center for community schools to be located at the Municipality of Bayambang, Province of Pangasinan.
 
 ## Section 2
 

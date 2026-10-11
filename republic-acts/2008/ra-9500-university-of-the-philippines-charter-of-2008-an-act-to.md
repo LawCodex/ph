@@ -28,13 +28,19 @@ AN ACT TO STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE NATIONAL UNIVERSIT
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**SECTION 1._Short Title._** \- This Act shall be known as the **"_University of the Philippines Charter of 2008._ "**
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- The University of the Philippines is hereby declared as the national university.
+_Short Title._ \- This Act shall be known as the **"_University of the Philippines Charter of 2008._ "**
+
+## SEC. 2
+
+_Declaration of Policy._ \- The University of the Philippines is hereby declared as the national university.
 
 The State shall promote, foster, nurture and protect the right of all citizens to accessible quality education. Toward this end, it is the policy of the State to strengthen the University of the Philippines as the national university.
 
-**SEC. 3._Purpose of the University._** \- As the national university, a public and secular institution of higher learning, and a community of scholars dedicated to the search for truth and knowledge as well as the development of future leaders, the University of the Philippines shall perform its unique and distinctive leadership in higher education and development. The University shall:
+## SEC. 3
+
+_Purpose of the University._ \- As the national university, a public and secular institution of higher learning, and a community of scholars dedicated to the search for truth and knowledge as well as the development of future leaders, the University of the Philippines shall perform its unique and distinctive leadership in higher education and development. The University shall:
 
 (a) Lead in setting academic standards and initiating innovations in teaching, research and faculty development in philosophy, the arts and humanities, the social sciences, professions and engineering, natural sciences, mathematics, and technology; and maintain centers of excellence in such disciplines and professions;
 
@@ -52,29 +58,47 @@ The State shall promote, foster, nurture and protect the right of all citizens t
 
 (h) Provide democratic governance in the University based on collegiality, representation, accountability, transparency and active participation of its constituents, and promote the holding of fora for students, faculty, research, extension and professional staff (REPS), staff, and alumni to discuss non-academic issues affecting the University.
 
-**SEC. 4._The University System._** \- The University of the Philippines is a university system and shall be composed of constituent universities established solely by its Board of Regents upon the recommendation of the President of the University. The University of the Philippines System is composed of its existing constituent universities, as follows: University of the Philippines Diliman; University of the Philippines Manila; University of the Philippines Los Baños; University of the Philippines Visayas; University of the Philippines Mindanao; University of the Philippines Baguio; University of the Philippines Open University; and those that may be created in the future. It is referred to in this law as the "National Univerity."
+## SEC. 4
 
-**SEC. 5._Academic Freedom._** \- The national university has the right and responsibility to exercise academic freedom.
+_The University System._ \- The University of the Philippines is a university system and shall be composed of constituent universities established solely by its Board of Regents upon the recommendation of the President of the University. The University of the Philippines System is composed of its existing constituent universities, as follows: University of the Philippines Diliman; University of the Philippines Manila; University of the Philippines Los Baños; University of the Philippines Visayas; University of the Philippines Mindanao; University of the Philippines Baguio; University of the Philippines Open University; and those that may be created in the future. It is referred to in this law as the "National Univerity."
 
-**SEC. 6._Academic Excellence._** \- The national university has the responsibility to maintain and enhance its high academic standards in the performance of its functions of instruction, research and extension, and public service.
+## SEC. 5
 
-**SEC. 7._Commitment to National Development._** \- The national university shall harness the expertise of the members of its community and other individuals to regularly study the state of the nation in relation to its quest for national development in the primary areas of politics and economics, among others, identify key concerns, formulate responsive policies regarding these concerns, and give advice and recommendations to Congress and the President of the Philippines.
+_Academic Freedom._ \- The national university has the right and responsibility to exercise academic freedom.
+
+## SEC. 6
+
+_Academic Excellence._ \- The national university has the responsibility to maintain and enhance its high academic standards in the performance of its functions of instruction, research and extension, and public service.
+
+## SEC. 7
+
+_Commitment to National Development._ \- The national university shall harness the expertise of the members of its community and other individuals to regularly study the state of the nation in relation to its quest for national development in the primary areas of politics and economics, among others, identify key concerns, formulate responsive policies regarding these concerns, and give advice and recommendations to Congress and the President of the Philippines.
 
 The Congress of the Republic of the Philippines, the Supreme Court and other lower courts, other government agencies and instrumentalities as well as any constitutional body may request the national university to conduct research or provide advice on any matter involving public policy. The budget for such research or request for advice shall come from the appropriation of these public agencies.
 
-**SEC. 8._Social Responsibility._** \- The national university is committed to serve the Filipino nation and humanity. While it carries out the obligation to pursue universal principles, it must relate its activities to the needs of the Filipino people and their aspirations for social progress and transformation. The national university may provide venues for student volunteerism.
+## SEC. 8
 
-**SEC. 9._Democratic Access._** \- The national university shall take affirmative steps which may take the form of an alternative and equitable admissions process to enhance the access of disadvantaged students, such as indigenous peoples, poor and deserving students, including but not limited to valedictorians and salutatorians of public high schools, and students from depressed areas, to its programs and services.
+_Social Responsibility._ \- The national university is committed to serve the Filipino nation and humanity. While it carries out the obligation to pursue universal principles, it must relate its activities to the needs of the Filipino people and their aspirations for social progress and transformation. The national university may provide venues for student volunteerism.
+
+## SEC. 9
+
+_Democratic Access._ \- The national university shall take affirmative steps which may take the form of an alternative and equitable admissions process to enhance the access of disadvantaged students, such as indigenous peoples, poor and deserving students, including but not limited to valedictorians and salutatorians of public high schools, and students from depressed areas, to its programs and services.
 
 No student shall be denied admission to the national university by reason solely of age, gender, nationality, religious belief, economic status, ethnicity, physical disability, or political opinion or affiliation.
 
 The national university recognizes the separation of Church and State. It shall guarantee religious freedom and shall not discriminate on the basis of religion.
 
-**SEC. 10._Sports._** \- The national university shall undertake and support comprehensive sports programs that promote physical education, uphold excellence and encourage competitive participation in sports activities, instill school identity and solidarity, cultivate pride, self-discipline and teamwork which serve as a foundation for fostering active participation in the national university, as well as in nation building.
+## SEC. 10
 
-**SEC. 11._Institutional Autonomy as the National University._** \- To provide greater flexibility, it shall be treated in a manner consistent with its institutional requirements as the national university by the service-wide agencies in the exercise of their respective jurisdiction. Taking into account national goals and priorities, it shall exclusively determine its teaching research and extension thrusts, plans, policies, programs and standard, and on the basis of such determination, the national university shall recommend its annual budget to the President of the Republic of the Philippines and Congress.
+_Sports._ \- The national university shall undertake and support comprehensive sports programs that promote physical education, uphold excellence and encourage competitive participation in sports activities, instill school identity and solidarity, cultivate pride, self-discipline and teamwork which serve as a foundation for fostering active participation in the national university, as well as in nation building.
 
-**SEC. 12._The Board of Regents._** \-
+## SEC. 11
+
+_Institutional Autonomy as the National University._ \- To provide greater flexibility, it shall be treated in a manner consistent with its institutional requirements as the national university by the service-wide agencies in the exercise of their respective jurisdiction. Taking into account national goals and priorities, it shall exclusively determine its teaching research and extension thrusts, plans, policies, programs and standard, and on the basis of such determination, the national university shall recommend its annual budget to the President of the Republic of the Philippines and Congress.
+
+## SEC. 12
+
+_The Board of Regents._ \-
 
 (1) Composition - The Governance of the national university is vested in a board of regents known as the ":Board of Regents of the University of the Philippines System," hereinafter referred to as the ":Board,": composed of:
 
@@ -106,7 +130,9 @@ A majority of all members of the Board holding office at the time the meeting is
 
 In no case shall any and all members of the Board appoint representatives to act on their behalf: _Provided_ , That the _ex-officio_ members of the Board coming from Congress may participate and vote through teleconferencing or equivalent verifiable means of communication.
 
-**SEC. 13._Powers and Duties of the Board of Regents._** \- The administration of the national university and the exercise of its corporate powers are vested in the Board of Regents.
+## SEC. 13
+
+_Powers and Duties of the Board of Regents._ \- The administration of the national university and the exercise of its corporate powers are vested in the Board of Regents.
 
 The Board shall exercise the following specific powers and duties:
 
@@ -156,15 +182,23 @@ If the national university, for reasons beyond its control, shall not be able to
 
 (u) To exercise such powers as may be proper and necessary to carry out the objectives of this Act.
 
-**SEC. 14._The President of the University._** \- The President of the University is the chief academic officer, head of the university faculty and the chief executive officer of the University. The President of the University shall exercise the powers specifically provided for in this Act, those determined by the Board, those which pertain to the office of the president of a university, and those which are related or necessary to its functions. The Board shall determine the compensation of the President of the University.
+## SEC. 14
+
+_The President of the University._ \- The President of the University is the chief academic officer, head of the university faculty and the chief executive officer of the University. The President of the University shall exercise the powers specifically provided for in this Act, those determined by the Board, those which pertain to the office of the president of a university, and those which are related or necessary to its functions. The Board shall determine the compensation of the President of the University.
 
 The President of the University shall be appointed by the Board and shall serve for a single term of six (6) years.
 
-**SEC. 15._The Secretary of the University and of the Board of Regents._** \- There shall be a Secretary of the University appointed by the Board, who shall also be the Secretary of the Board, and who shall keep such records, of the University as may be designated by the Board.
+## SEC. 15
 
-**SEC. 16._The University Council._** \- There shall be in each constituent university a University Council consisting of the Chancellor as Chairperson, and all faculty members in the constituent university holding the rank of assistant professor and higher as members.
+_The Secretary of the University and of the Board of Regents._ \- There shall be a Secretary of the University appointed by the Board, who shall also be the Secretary of the Board, and who shall keep such records, of the University as may be designated by the Board.
 
-**SEC. 17._Powers of the University Council._** \- The University Council shall be the highest academic body of each constituent university and shall exercise the following powers:
+## SEC. 16
+
+_The University Council._ \- There shall be in each constituent university a University Council consisting of the Chancellor as Chairperson, and all faculty members in the constituent university holding the rank of assistant professor and higher as members.
+
+## SEC. 17
+
+_Powers of the University Council._ \- The University Council shall be the highest academic body of each constituent university and shall exercise the following powers:
 
 (a) Fix the requirements for admission to any college or unit, graduation, and the grant of honors subject to the minimum system-wide requirements;
 
@@ -178,15 +212,23 @@ The President of the University shall be appointed by the Board and shall serve 
 
 (f) Adopt internal rules of procedure consistent with the provisions of this Act.
 
-**SEC. 18._The Chancellor of the Constituent University._** \- The Administration of each constituent university is vested in the Chancellor insofar as authorized by the Board and the President of the University. The Chancellor of the constituent university shall be elected by the Board upon nomination of the President of the University, following a process of consultation with the constituents of the constituent university based on standards and guidelines set by the Board. The Chancellor shall report to the President of the University, and shall perform the duties and functions elsewhere stated in this Act, and all the usual, necessary and related functions of the Office of the Chancellor, subject to the policies and rules prescribed by the Board. The Board shall determine the term and compensation of the Chancellor. If a Chancellor fails to complete his/her term, the President shall appoint an acting Chancellor while a search process is in progress. In no case shall the search and election of the next Chancellor be longer than sixty (60) calendar days from the date when the vacancy occurs.
+## SEC. 18
 
-**SEC. 19._The Faculty._** \- The teaching staff of each college shall constitute its faculty. The College Faculty shall be presided over by a Dean. The Dean shall be elected by the Board upon nomination of the President of the University and recommendation of the Chancellor of the constituent university, following a process of consultation with the constituents of the college based on standards and guidelines set by the Board.
+_The Chancellor of the Constituent University._ \- The Administration of each constituent university is vested in the Chancellor insofar as authorized by the Board and the President of the University. The Chancellor of the constituent university shall be elected by the Board upon nomination of the President of the University, following a process of consultation with the constituents of the constituent university based on standards and guidelines set by the Board. The Chancellor shall report to the President of the University, and shall perform the duties and functions elsewhere stated in this Act, and all the usual, necessary and related functions of the Office of the Chancellor, subject to the policies and rules prescribed by the Board. The Board shall determine the term and compensation of the Chancellor. If a Chancellor fails to complete his/her term, the President shall appoint an acting Chancellor while a search process is in progress. In no case shall the search and election of the next Chancellor be longer than sixty (60) calendar days from the date when the vacancy occurs.
+
+## SEC. 19
+
+_The Faculty._ \- The teaching staff of each college shall constitute its faculty. The College Faculty shall be presided over by a Dean. The Dean shall be elected by the Board upon nomination of the President of the University and recommendation of the Chancellor of the constituent university, following a process of consultation with the constituents of the college based on standards and guidelines set by the Board.
 
 If a Dean fails to complete his/her term, the Chancellor shall appoint an acting Dean while a search process is in progress. In no case shall the search and election of the next Dean be longer than sixty (60) calendar days from the date when the vacancy occurs.
 
-**SEC. 20._Appointment Requisites and Practice of Profession._** \- Faculty members, as well as research, extension and professional staff (REPS) of the national university, shall be exempt as such from any civil service examination or regulation as a requisite to appointment. The provisions of existing law to the contrary notwithstanding, licensing requirements for professional regulatory boards shall not affect appointments to faculty positions. In the appointment of faculty members, no religious test shall be applied, nor shall the religious or political opinions or affiliations of the faculty members of the national university be made subject of examination or inquiry.
+## SEC. 20
 
-**SEC. 21._Student Affairs._** \- (a) There shall be established in the national university the following student councils: for every college and degree-granting institute, a college or institute student council; and for every constituent university, a university student council; and for the University System, a general assembly of all student councils.
+_Appointment Requisites and Practice of Profession._ \- Faculty members, as well as research, extension and professional staff (REPS) of the national university, shall be exempt as such from any civil service examination or regulation as a requisite to appointment. The provisions of existing law to the contrary notwithstanding, licensing requirements for professional regulatory boards shall not affect appointments to faculty positions. In the appointment of faculty members, no religious test shall be applied, nor shall the religious or political opinions or affiliations of the faculty members of the national university be made subject of examination or inquiry.
+
+## SEC. 21
+
+_Student Affairs._ \- (a) There shall be established in the national university the following student councils: for every college and degree-granting institute, a college or institute student council; and for every constituent university, a university student council; and for the University System, a general assembly of all student councils.
 
 The student council shall be composed of elected students of a definite academic unit of the national university. Each member of the student council shall serve for a term of one (1) year, without prejudice to reelection.
 
@@ -194,7 +236,9 @@ The student council shall serve as the primary student body that shall advance t
 
 (b) Subject to due and comprehensive consultation with the students, there shall be a student publication established in every constituent unit and college to be funded by student fees. Freedom of expression and autonomy in all matters of editorial and fiscal policy shall be guaranteed especially in the selection of its editors and staff.
 
-**SEC. 22._Land Grants and Other Real Properties of the University._** \-
+## SEC. 22
+
+_Land Grants and Other Real Properties of the University._ \-
 
 (a) The State shall support the University of the Philippines System as the national university in the form of lump sum amount, through general appropriations and other financial benefits, and in kind, through land grants and donations and use of other real properties. To carry out the intent of these grants, income derived from the development of all land grants and real properties shall be used to further the end of the national university, as may be decided by the board;
 
@@ -208,7 +252,9 @@ The student council shall serve as the primary student body that shall advance t
 
 (f) Any plan to generate revenues and other sources from land grants and other real properties entrusted to the national university shall be consistent with the academic mission and orientation of the national university as well as protect it from undue influence and control of commercial interests: _Provided,_ That such programs, projects or mechanisms shall be approved by the Board subject to a transparent and democratic process of consultatim with the constituents of the national university: _Provided_ , _further_ , That funds generated from such programs, projects or mechanisms shall not be meant to replace, in part or in whole, the annual appropriations provided by the national government to the national university.
 
-**SEC. 23._Safeguards on Assets Disposition._** \- The preservation of the value of the assets of the national university shall be of primordial consideration.
+## SEC. 23
+
+_Safeguards on Assets Disposition._ \- The preservation of the value of the assets of the national university shall be of primordial consideration.
 
 The sale of any existing real property of the national university shall be prohibited: _Provided_ , That the Board may alienate real property donated after the effectivity of this Act if the terms of the donation specifically allow it.
 
@@ -228,9 +274,13 @@ This provision shall not apply to leases granted to faculty and staff as part of
 
 (e) If the contract or transaction involves an amount more than Fifty Million Pesos (P50,000,000.00), it shall be approved by three-fourths (3/4) of all the members of the Board: _Provided_ , That the splitting of contracts, which is by breaking up a contract into omaller quantities or amounts or dividiizg contract implementation into artificial or arbitrary phases or subcontracts for the purpose of circumventing this provision, shall not be allowed.
 
-**SEC. 24._Managenzent of Funds._** \- (a) There shall be an independent trust committee to be composed of the President of the University, as Chairperson, one (1) representative each nominated by the Bankers Association of the Philippines (BAP), the Investment Houses Association of the Philippines (IHAP), the Trust Officers Association of the Philippines (TOAP) and the Financial Executive Institute of the Philippines (FINEX). The members shall be entitled to a reasonable per diem as the Board may specify. (b) The independent trust committee shall recommend to the Board five (5) universal banks selected on a prudent basis which trust departments shall manage the corporate and other funds through trust agreements of the national university on a non- directed basis: _Provided_ , That any such agreement shall be for a period of not more than two (2) years. (c) The independent trust committee shall provide the Board with direction on appropriate investment objectives and permissible investments with the view to preserving the value of the funds while allowing the University to earn a reasonable return thereon.
+## SEC. 24
 
-**SEC. 25._Tax Exemptions._** \- The provisions of any general or special law to the contrary notwithstanding:
+_Managenzent of Funds._ \- (a) There shall be an independent trust committee to be composed of the President of the University, as Chairperson, one (1) representative each nominated by the Bankers Association of the Philippines (BAP), the Investment Houses Association of the Philippines (IHAP), the Trust Officers Association of the Philippines (TOAP) and the Financial Executive Institute of the Philippines (FINEX). The members shall be entitled to a reasonable per diem as the Board may specify. (b) The independent trust committee shall recommend to the Board five (5) universal banks selected on a prudent basis which trust departments shall manage the corporate and other funds through trust agreements of the national university on a non- directed basis: _Provided_ , That any such agreement shall be for a period of not more than two (2) years. (c) The independent trust committee shall provide the Board with direction on appropriate investment objectives and permissible investments with the view to preserving the value of the funds while allowing the University to earn a reasonable return thereon.
+
+## SEC. 25
+
+_Tax Exemptions._ \- The provisions of any general or special law to the contrary notwithstanding:
 
 (a) All revenues and assets of the University of the Philippines used for educational purposes or in support thereof shall be exempt from all taxes and duties;
 
@@ -242,21 +292,33 @@ This provision shall not apply to leases granted to faculty and staff as part of
 
 (e) All academic awards shall be exempt from taxes.
 
-**SEC. 26._Reportorial Requirements and Auditing of Accounts._** \- The national university shall submit an annual report to Congress containing the financial statements, statement of assets and liabilities, actual projected income from tuition fees and other revenue sources, contracts and investment entered into pursuant to Section 22 (c) hereof and programs of expenditure. All accounts and disbursements of the national university shall be audited by the Commission on Audit.
+## SEC. 26
 
-**SEC. 27._Rules of Construction._** \- No statutory or other issuances shall diminish the powers, rights, privileges and benefits accorded to the national university under this Act or enjoyed at present, by it under other issuances not otherwise modified or repealed under this Act, unless subsequent legislation expressly provides for their repeal, amendment or modification. Any case of doubt in the interpretation of any of the provisions of this Charter shall be resolved in favor of the academic freedom and fiscal autonomy of the University of the Philippines.
+_Reportorial Requirements and Auditing of Accounts._ \- The national university shall submit an annual report to Congress containing the financial statements, statement of assets and liabilities, actual projected income from tuition fees and other revenue sources, contracts and investment entered into pursuant to Section 22 (c) hereof and programs of expenditure. All accounts and disbursements of the national university shall be audited by the Commission on Audit.
 
-**SEC. 28._Appropriations._** \- The amount needed to carry out the implementation of this Act shall be charged against the lump sum appropriation of the current fiscal year and other internal funds of the national university. Thereafter, such lump sum representing the responsibility of the national government for the continued growth, operatian and maintenance of the national university shall be included in the annual General Appropriations Act (GAA).
+## SEC. 27
+
+_Rules of Construction._ \- No statutory or other issuances shall diminish the powers, rights, privileges and benefits accorded to the national university under this Act or enjoyed at present, by it under other issuances not otherwise modified or repealed under this Act, unless subsequent legislation expressly provides for their repeal, amendment or modification. Any case of doubt in the interpretation of any of the provisions of this Charter shall be resolved in favor of the academic freedom and fiscal autonomy of the University of the Philippines.
+
+## SEC. 28
+
+_Appropriations._ \- The amount needed to carry out the implementation of this Act shall be charged against the lump sum appropriation of the current fiscal year and other internal funds of the national university. Thereafter, such lump sum representing the responsibility of the national government for the continued growth, operatian and maintenance of the national university shall be included in the annual General Appropriations Act (GAA).
 
 The national university may use unexpended balances in any appropriation for purposes that the Board determines.
 
 In addition to the regular appropriations and increases for the university under the annual GAA, a centennial fund shall be appropriated in the amount of One Hundred Million Pesos (P100,000,000.00) per year for a period of five years, which shall likewise be included in the annual GAA.
 
-**SEC. 29._Separability Clause._** \- Should any provision herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act.
+## SEC. 29
 
-**SEC. 30._Repealing Clause._**. - Act No. 1870, as amended, and all laws, decrees, orders, rules, and regulations or other issuances or parts inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause._ \- Should any provision herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act.
 
-**SEC. 31._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any newspaper of general circulation in the Philippines.
+## SEC. 30
+
+_Repealing Clause._. - Act No. 1870, as amended, and all laws, decrees, orders, rules, and regulations or other issuances or parts inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 31
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in any newspaper of general circulation in the Philippines.
 
 Approved,
 

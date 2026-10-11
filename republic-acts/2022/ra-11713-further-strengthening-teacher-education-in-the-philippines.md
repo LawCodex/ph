@@ -308,7 +308,7 @@ Republic Act No. 7784, entitled "An Act to Strengthen Teacher Education in the P
 
 "**Section 16.** _Active Participation of Local Government Units._ \- Local government units shall include in their plans, programs, and projects the development and improvement of teacher education through the Teacher Education-COEs in their respective regions."
 
-"**Section 17.** _Institutionalizing the National Educators' Academy of the Philippines._ \- Pursuant to the State mandate to enhance the right of teachers to professional advancement and to protect and promote the right of all citizens to quality education, the NEAP is hereby institutionalized to provide quality professional development programs on teacher education to in-service teachers, school leaders, and other teaching-related personnel in all public and private basic education institutions. It shall employ a world-class approach to professional development that is based on strong evidence and research.ℒαwρhi৷
+"**Section 17.** _Institutionalizing the National Educators' Academy of the Philippines._ \- Pursuant to the State mandate to enhance the right of teachers to professional advancement and to protect and promote the right of all citizens to quality education, the NEAP is hereby institutionalized to provide quality professional development programs on teacher education to in-service teachers, school leaders, and other teaching-related personnel in all public and private basic education institutions. It shall employ a world-class approach to professional development that is based on strong evidence and research.
 
 "The NEAP shall be a component unit of the DepEd. It shall be headed by an Executive Director to be appointed by the President, upon the recommendation of the Secretary of the DepEd. "The Secretary of the DepEd shall establish the organizational structure of the NEAP, fix the staffing pattern, and determine the qualifications, functions, and compensation for the positions to be created."
 
@@ -338,7 +338,7 @@ Republic Act No. 7784, entitled "An Act to Strengthen Teacher Education in the P
 
 "(l) Manage the amount to be received from the DepEd's appropriated budget, which shall be necessary to carry out its objectives, functions, operation, improvement, programs, projects, and activities; and
 
-"(m) Exercise such other powers and functions as may be necessary to effectively implement the purpose and objectives of this Act.+3u.7!ydmb7
+"(m) Exercise such other powers and functions as may be necessary to effectively implement the purpose and objectives of this Act.
 
 "The NEAP shall provide access to professional development programs for private school teachers, school leaders, and other teaching-related personnel. It may extend scholarships and fellowships as may be deemed necessary."
 
@@ -352,7 +352,7 @@ Republic Act No. 7784, entitled "An Act to Strengthen Teacher Education in the P
 
 "(e) The existing personnel in the NEAP shall be transitioned to the organizational structure to be created by the Secretary of the DepEd. New items shall be created to augment the personnel complement of the NEAP, in coordination with the DBM.
 
-"(f) The recruitment, selection, and hiring of new personnel shall be in accordance with Civil Service Commission rules and regulations on personnel action.ℒαwρhi৷
+"(f) The recruitment, selection, and hiring of new personnel shall be in accordance with Civil Service Commission rules and regulations on personnel action.
 
 "**Section 20.** _Report to Congress._ \- The Council shall submit to Congress, on or before the fifteenth day of June of every year, its report on the status and progress of teacher education and teacher quality in the country, as well as its recommendations in promoting quality education through teacher education.
 

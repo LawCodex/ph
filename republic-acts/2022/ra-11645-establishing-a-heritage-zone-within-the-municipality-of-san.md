@@ -44,7 +44,7 @@ The preservation, protection, study, and promotion of the cultural and historica
 
 ## Section 3
 
-Within sixty (60) days from the effectivity of this Act, the DOT, in coordination with the Municipality of San Vicente, Ilocos Sur, the NCCA, and concerned cultural agencies of the government, shall promulgate the necessary rules and regulations for the proper implementation of this Act.1aшphi1
+Within sixty (60) days from the effectivity of this Act, the DOT, in coordination with the Municipality of San Vicente, Ilocos Sur, the NCCA, and concerned cultural agencies of the government, shall promulgate the necessary rules and regulations for the proper implementation of this Act.
 
 ## Section 4
 

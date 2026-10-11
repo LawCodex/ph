@@ -157,7 +157,7 @@ _Report to Congress._ \- The CHED shall submit to the President and to Congress 
 
 ## Section 13
 
-_Appropriations._ \- The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriation of the CHED.ℒαwρhi৷ Thereafter, such amount shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriation of the CHED. Thereafter, such amount shall be included in the annual General Appropriations Act.
 
 ## Section 14
 

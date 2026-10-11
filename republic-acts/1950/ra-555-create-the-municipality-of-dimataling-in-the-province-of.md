@@ -32,6 +32,6 @@ The elective officials of the new municipality shall be appointed by the Preside
 
 ## Section 3
 
-This Act shall take effect upon its approval.7!ᕼdMᗄ7
+This Act shall take effect upon its approval.
 
 Approved, June 17, 1950.

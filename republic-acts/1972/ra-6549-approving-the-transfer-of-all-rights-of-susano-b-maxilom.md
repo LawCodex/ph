@@ -28,6 +28,6 @@ The transfer of all the rights of Susano B. Maxilom, under Republic Act Numbered
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 26, 1972.

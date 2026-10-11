@@ -28,7 +28,7 @@ The Third Representative District of the Province of Batangas shall constitute o
 
 ## Section 2
 
-The superintendent of schools for the said division shall be appointed as now provided by law.1a⍵⍴h!1
+The superintendent of schools for the said division shall be appointed as now provided by law.
 
 ## Section 3
 

@@ -62,6 +62,6 @@ All laws or parts of any law, in conflict with, or contrary to, the provisions o
 
 ## Section 4
 
-This Act shall take effect after fifteen days from the date of its approval.1a⍵⍴h!1
+This Act shall take effect after fifteen days from the date of its approval.
 
 Approved, June 20, 1953.

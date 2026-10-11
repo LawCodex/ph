@@ -29,7 +29,7 @@ The bed capacity of the Albay Provincial Hospital in Legaspi City, Province of A
 
 ## Section 2
 
-The Secretary of Health is hereby empowered to reorganize said hospital accordingly.1âшphi1
+The Secretary of Health is hereby empowered to reorganize said hospital accordingly.
 
 ## Section 3
 

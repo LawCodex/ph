@@ -32,7 +32,7 @@ Upon recommendation of the Director of Medical Services, the President shall set
 
 ## Section 3
 
-The sum of seventy thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year ending June thirty, nineteen hundred and sixty-one. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.1âшphi1
+The sum of seventy thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year ending June thirty, nineteen hundred and sixty-one. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

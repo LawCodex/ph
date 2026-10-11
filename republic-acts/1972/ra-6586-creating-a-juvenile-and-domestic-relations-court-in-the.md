@@ -68,7 +68,7 @@ In case any child is adjudged to be 'dependent' or 'neglected' then such parents
 
 _Proceedings in other cases_.-In the hearing and disposition of cases other than that covered by the preceding section, the court shall be governed by the Rules of Court and the laws properly applicable in each particular case.
 
-In cases between husband and wife, and between parent and child, however, the hearings may be held, upon petition of any party, in chamber or with the exclusion of the public. All information obtained at such hearings shall be deemed privileged and confidential and shall not be divulged without approval of the court.1âшphi1
+In cases between husband and wife, and between parent and child, however, the hearings may be held, upon petition of any party, in chamber or with the exclusion of the public. All information obtained at such hearings shall be deemed privileged and confidential and shall not be divulged without approval of the court.
 
 ## Section 5
 

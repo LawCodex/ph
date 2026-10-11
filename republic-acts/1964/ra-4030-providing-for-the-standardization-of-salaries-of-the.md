@@ -75,6 +75,6 @@ In addition to such sums, as may have been provided in the current Appropriation
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 18, 1964.

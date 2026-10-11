@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in the Municipality of Concepcion, Province of Iloilo, to be known as the Concepcion National High School.Ꮮαwρhi৷
+There shall be established a national high school in the Municipality of Concepcion, Province of Iloilo, to be known as the Concepcion National High School.
 
 ## Section 2
 

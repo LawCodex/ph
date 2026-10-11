@@ -28,7 +28,7 @@ There shall be established, under the supervision of the Director of Vocational 
 
 ## Section 2
 
-The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.1a⍵⍴h!1
+The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

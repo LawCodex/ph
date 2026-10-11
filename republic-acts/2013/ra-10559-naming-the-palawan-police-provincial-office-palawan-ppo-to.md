@@ -38,7 +38,7 @@ The Philippine National Police shall issue the necessary rules, orders and circu
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in a national newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in a national newspaper of general circulation.
 
 Approved,
 

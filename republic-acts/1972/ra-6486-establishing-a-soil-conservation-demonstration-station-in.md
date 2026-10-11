@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representative; of the Philippines in C
 
 ## Section 1
 
-There is hereby established a soil conservation demonstration station in the City of Puerto Princesa to be known as Puerto Princesa Soil Conservation Demonstration Station. The said station shall be under the direct supervision of the Director of Soils, and shall be subject to the provisions of Republic Act Numbered Six hundred twenty-two.1âшphi1
+There is hereby established a soil conservation demonstration station in the City of Puerto Princesa to be known as Puerto Princesa Soil Conservation Demonstration Station. The said station shall be under the direct supervision of the Director of Soils, and shall be subject to the provisions of Republic Act Numbered Six hundred twenty-two.
 
 ## Section 2
 

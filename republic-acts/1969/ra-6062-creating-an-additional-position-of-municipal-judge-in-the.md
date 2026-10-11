@@ -34,6 +34,6 @@ Such sum as may be necessary to carry out the purpose of this Act, for the fisca
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

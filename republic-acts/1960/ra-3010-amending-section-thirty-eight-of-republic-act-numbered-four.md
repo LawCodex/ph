@@ -57,7 +57,7 @@ Section thirty-eight of Republic Act Numbered Four hundred nine, as amended by R
 
 ## Section 2
 
-All incumbent assistant fiscals of the City of Manila occupying positions affected by the preceding section at the time of the approval of this Act, shall continue to occupy their respective positions and receive the salary increase herein provided without the necessity of any new appointment.1âшphi1
+All incumbent assistant fiscals of the City of Manila occupying positions affected by the preceding section at the time of the approval of this Act, shall continue to occupy their respective positions and receive the salary increase herein provided without the necessity of any new appointment.
 
 Only those in paragraph (l) shall require appointments.
 

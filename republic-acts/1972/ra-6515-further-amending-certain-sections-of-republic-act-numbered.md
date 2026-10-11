@@ -39,4 +39,4 @@ Subparagraph (b) of Section five of the same Act is hereby amended to read as fo
 
 This Act shall take effect upon its approval.
 
-Approved, July 22, 1972.1âшphi1
+Approved, July 22, 1972.

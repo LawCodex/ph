@@ -71,7 +71,7 @@ There shall be in the said Bureau such safety experts and safety engineers and o
 
 ## Section 7
 
-The Secretary of Labor, with the approval of the President is hereby authorized to transfer from his Department and from the Bureau of Labor such divisions sections or portions thereof and their personnel, equipment, records, and appropriations which in his opinion are essential to the proper functioning of the Bureau of Industrial Safety.ℒαwρhi৷
+The Secretary of Labor, with the approval of the President is hereby authorized to transfer from his Department and from the Bureau of Labor such divisions sections or portions thereof and their personnel, equipment, records, and appropriations which in his opinion are essential to the proper functioning of the Bureau of Industrial Safety.
 
 ## Section 8
 

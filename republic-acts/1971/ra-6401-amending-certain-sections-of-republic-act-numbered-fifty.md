@@ -32,7 +32,7 @@ Section eleven of Republic Act Numbered Fifty-four hundred seventy-eight is amen
 
 Subsection (n) of Section twenty-one of the same Act is hereby amended to read as follows:
 
-"(n) To allow, if public interest and safety so require, the assistance of the Philippine Constabulary and other police agencies of the National Government in maintaining peace and order in the city.1âшphi1
+"(n) To allow, if public interest and safety so require, the assistance of the Philippine Constabulary and other police agencies of the National Government in maintaining peace and order in the city.
 
 ## Section 3
 

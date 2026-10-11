@@ -68,7 +68,7 @@ On or before the fifteenth day of June of each year, the Board of Trustees shall
 
 ## Section 7
 
-There shall be an Institute Council consisting of the President of the Institute and of all instructors and professors of the Institute. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the Institute, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be recipients of degrees.1awp++i1 Through its President or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+There shall be an Institute Council consisting of the President of the Institute and of all instructors and professors of the Institute. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the Institute, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be recipients of degrees. Through its President or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
 
 ## Section 8
 

@@ -44,7 +44,7 @@ In accord with the observance of International Students’ Day, and in recogniti
 
 ## Section 4
 
-An annual program of activities for the observance of National Students’ Day shall be prepared and implemented with the National Youth Commission (NYC) serving as the lead agency. The Department of Education and the Commission on Higher Education shall support the NYC in all efforts to facilitate and promote related activities to all public and private schools.1âшphi1
+An annual program of activities for the observance of National Students’ Day shall be prepared and implemented with the National Youth Commission (NYC) serving as the lead agency. The Department of Education and the Commission on Higher Education shall support the NYC in all efforts to facilitate and promote related activities to all public and private schools.
 
 All schools, colleges and universities are encouraged to extend their full support for exercises and activities launched by students during the observance of National Students’ Day.
 

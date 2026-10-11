@@ -97,7 +97,7 @@ Technical Assistance Section
 
 ## Section 2
 
-Upon the effectivity of this Act, the respective Judge and employee actually occupying any of the positions herein provided shall be entitled to the salary provided for said position without need of new appointment.1a⍵⍴h!1
+Upon the effectivity of this Act, the respective Judge and employee actually occupying any of the positions herein provided shall be entitled to the salary provided for said position without need of new appointment.
 
 ## Section 3
 

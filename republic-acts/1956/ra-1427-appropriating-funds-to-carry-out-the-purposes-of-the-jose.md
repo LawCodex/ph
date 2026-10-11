@@ -59,6 +59,6 @@ Said sum is to be placed at the disposal of the Jose Rizal National Centennial C
 
 ## Section 6
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 14, 1956.

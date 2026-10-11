@@ -30,7 +30,7 @@ Cities and municipalities are authorized to contract loans from the Reconstructi
 
 The homesites so acquired shall be subdivided into lots not exceeding five hundred square meters each and sold on a ten-year installment plan, at the same rate of interest paid by the city or municipality for the loan used in acquiring the said homesites, preference being given to Filipino bona fide occupants and to Filipino veterans, their widows, and their children.
 
-No such lot shall be sold to any person who already owns a residential lot, and any sale made to such person shall be void.1aшphi1
+No such lot shall be sold to any person who already owns a residential lot, and any sale made to such person shall be void.
 
 Before full payment of the homesite lot has been made, title therein shall remain vested in the city or municipality concerned: _Provided,_ That no such lot, before full payment thereof, shall be transferred, encumbered, or otherwise disposed of by the purchaser thereof without the consent of the Mayor.
 

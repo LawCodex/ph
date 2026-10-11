@@ -332,7 +332,9 @@ The Accredited Professional Organization shall implement the continuing professi
 
 ## ARTICLE VI — PENAL PROVISION AND ASSISTANCE OF LAW ENFORCEMENT AGENCIES
 
-**Section 35. Penal Provision.** \- The following shall be punished by a fine of not less than One hundred thousand pesos (P100,000.00) nor more than One million pesos (P1,000,000.00), or by imprisonment of not less than six (6) months nor more than six (6) years, or both, in the discretion of the court:
+### Section 35
+
+Penal Provision. \- The following shall be punished by a fine of not less than One hundred thousand pesos (P100,000.00) nor more than One million pesos (P1,000,000.00), or by imprisonment of not less than six (6) months nor more than six (6) years, or both, in the discretion of the court:
 
 (a) Any person who shall give any false or fraudulent statement to the Board to obtain a Certificate of Registration and/or Professional Identification Card as Professional Electronics Engineer, Electronics Engineer or Electronics Technician;
 

@@ -182,7 +182,7 @@ _The Administrative Council._ \- There shall be an Administrative Council consis
 
 _The Academic Council._ \- There shall be an Academic Council to be composed of the President of the University, who shall act as Chairperson and all academic staff with the rank of not lower than assistant professor, as members.
 
-The Academic Council shall have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students as well as for their graduation and the conferment of degrees, subject to review and/or approval by the Board through the President of the University.1avvphi1 It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board.
+The Academic Council shall have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students as well as for their graduation and the conferment of degrees, subject to review and/or approval by the Board through the President of the University. It shall have the disciplinary power over students of the University and shall formulate academic policies and rules and regulations on discipline, subject to the approval of the Board.
 
 ## Section 13
 
@@ -212,7 +212,7 @@ _Authority to Loan or Transfer Apparatus/Equipment/Supplies and Detail of Person
 
 ## Section 19
 
-_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Naval Institute of Technology and the Biliran National Agricultural College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a University shall be respected.1avvphil
+_Assets, Liabilities and Personnel._ \- All assets, real and personal, personnel and records of the Naval Institute of Technology and the Biliran National Agricultural College, as well as liabilities or obligations, are hereby transferred to the University. The positions, rights and security of tenure of faculty members and personnel therein employed under existing laws prior to the conversion into a University shall be respected.
 
 All parcels of land belonging to the government and occupied by the Naval Institute of Technology and the Biliran National Agricultural College are hereby declared to be property of the University and shall be titled under that name: _Provided,_ That should the University cease to exist or be abolished or should such parcels of land aforementioned be no longer needed by the University, the same shall revert to the LGUs concerned.
 

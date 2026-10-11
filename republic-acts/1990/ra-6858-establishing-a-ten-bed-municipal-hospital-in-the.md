@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Department of Health, a
 
 ## Section 2
 
-The Secretary of Health shall appoint such personnel as may be necessary to carry out the purpose of this Act: _Provided,_ That in no case shall there be less than two (2) attending doctors and no less than four (4) nurses appointed. One of the attending doctors shall be appointed Chief Doctor who shall also act as the administrator of the hospital.1âшphi1
+The Secretary of Health shall appoint such personnel as may be necessary to carry out the purpose of this Act: _Provided,_ That in no case shall there be less than two (2) attending doctors and no less than four (4) nurses appointed. One of the attending doctors shall be appointed Chief Doctor who shall also act as the administrator of the hospital.
 
 ## Section 3
 

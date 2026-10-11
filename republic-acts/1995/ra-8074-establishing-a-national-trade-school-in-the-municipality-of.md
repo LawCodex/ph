@@ -40,7 +40,7 @@ The Technical Education and Skills Development Authority (TESDA) shall issue suc
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 5
 

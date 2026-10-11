@@ -24,7 +24,7 @@ Be it enacted by the Senate and Bouse of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Animal Industry a pilot project for animal industry in the Municipality of Pila, Province of Laguna, to be known as the Pila Pilot Project.1âшphi1
+There shall be established under the direct supervision of the Director of Animal Industry a pilot project for animal industry in the Municipality of Pila, Province of Laguna, to be known as the Pila Pilot Project.
 
 ## Section 2
 

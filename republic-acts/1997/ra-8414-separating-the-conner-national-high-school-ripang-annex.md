@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Conner National High School - (Ripang Annex High School) in the Municipality of Conner, Province of Apayao, is hereby separated from the Conner National High School in the Municipality of Conner, and converted into a separate and independent national high school to be known as Conner Central National High School.1aшphi1
+The Conner National High School - (Ripang Annex High School) in the Municipality of Conner, Province of Apayao, is hereby separated from the Conner National High School in the Municipality of Conner, and converted into a separate and independent national high school to be known as Conner Central National High School.
 
 ## Section 2
 

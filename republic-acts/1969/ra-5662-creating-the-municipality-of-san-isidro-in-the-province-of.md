@@ -36,7 +36,7 @@ The first mayor, vice-mayor and councilors of the new municipality shall be elec
 
 ## Section 4
 
-Until otherwise provided by law, the new Municipality of San Isidro shall be considered a part of the second congressional district of the Province of Bohol.1a⍵⍴h!1
+Until otherwise provided by law, the new Municipality of San Isidro shall be considered a part of the second congressional district of the Province of Bohol.
 
 ## Section 5
 

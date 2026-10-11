@@ -28,7 +28,7 @@ The following sitios in the Municipality of Quezon, Province of Palawan, are con
 
 1\. The sitios of Punta Baja and Malabunga to be known as the barrio of Punta Baja; and
 
-2\. The sitios of Maasin and Iwahig to be known as the barrio of Maasin.1âшphi1
+2\. The sitios of Maasin and Iwahig to be known as the barrio of Maasin.
 
 ## Section 2
 

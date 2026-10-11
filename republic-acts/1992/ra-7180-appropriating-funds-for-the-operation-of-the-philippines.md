@@ -25,7 +25,7 @@ Be it enacted by the Senate and the House of Representatives of the Philippines 
 
 ## Section 1
 
-_Appropriation of Funds._ \- The following sums, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January one to December thirty-one, nineteen hundred and ninety-two, except where otherwise specifically provided herein:1âшphi1
+_Appropriation of Funds._ \- The following sums, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January one to December thirty-one, nineteen hundred and ninety-two, except where otherwise specifically provided herein:
 
 . . .
 

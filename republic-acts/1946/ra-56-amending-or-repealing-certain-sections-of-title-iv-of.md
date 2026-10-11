@@ -110,7 +110,7 @@ Section one hundred and thirty-eight of Commonwealth Act Numbered Four hundred a
 
 ## Section 8
 
-Section one hundred and thirty-nine of Commonwealth Act Numbered Four hundred and sixty-six is hereby repealed.1âwphi1
+Section one hundred and thirty-nine of Commonwealth Act Numbered Four hundred and sixty-six is hereby repealed.
 
 ## Section 9
 

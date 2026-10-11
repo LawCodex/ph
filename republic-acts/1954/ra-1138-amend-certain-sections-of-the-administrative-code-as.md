@@ -45,7 +45,7 @@ Sections one hundred ninety-two, one hundred ninety-two (b), and two hundred one
 
 "(c) For cities which are not provincial capitals, by the city attorney, assistant city attorney, city treasurer or assistant city treasurer;
 
-"(d) For provinces in general, by the provincial fiscal, assistant provincial fiscal, provincial treasurer, or assistant provincial treasurer.1âшphi1
+"(d) For provinces in general, by the provincial fiscal, assistant provincial fiscal, provincial treasurer, or assistant provincial treasurer.
 
 "In case of absence, disability or suspension of the register of deeds, without pay, or in case of vacancy in the position, the Secretary of Justice may, in his discretion, authorize the payment of an additional compensation to the official acting as register of deeds, such compensation, with his actual salary shall not exceed the salary authorized for the position thus filled by him."
 

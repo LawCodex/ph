@@ -34,7 +34,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 2
 
-\- All personnel, assets, liabilities, and records of the Sicsican National High School - Annex are hereby transferred to and absorbed by the Santa Monica National High School.1âwphi1
+\- All personnel, assets, liabilities, and records of the Sicsican National High School - Annex are hereby transferred to and absorbed by the Santa Monica National High School.
 
 ## Section 3
 

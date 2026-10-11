@@ -32,6 +32,6 @@ b. The sitio of San Felipe Bata in the barrio of San Felipe Matanda is converted
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

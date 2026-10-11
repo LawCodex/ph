@@ -28,7 +28,7 @@ The Calinog Puericulture Center in the Municipality of Calinog, Province of Iloi
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction of the necessary buildings and purchase of equipment.1âшphi1
+The sum of fifty thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the construction of the necessary buildings and purchase of equipment.
 
 ## Section 3
 

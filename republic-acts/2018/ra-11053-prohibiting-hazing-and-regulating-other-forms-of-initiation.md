@@ -75,7 +75,7 @@ Section 2 of the same Act is hereby amended to read as follows:
 
 "(g) The application shall be posted from the time of submission of the written notice to the school authorities or head of organization and shall only be removed from its posting three (3) days after the conduct of the initiation rites.
 
-"The school, fraternity, sorority, or organization shall provide for their respective bulletin boards for purposes of this section.1âwphi1
+"The school, fraternity, sorority, or organization shall provide for their respective bulletin boards for purposes of this section.
 
 "Guidelines for the approval or denial of the application to conduct initiation rites by a registered fraternity, sorority, organization shall be promulgated by the appropriate school official not later than sixty (60) days after the approval of this Act. The appropriate school authorities shall have the obligation to disapproved the application to conduct initiation rites that do not conform with any of the requirements of this section, and in unequivocal terms in a formal advice to the fraternity sorority, or organization concerned, taking into consideration the safety and security of participants in the activity.
 
@@ -179,7 +179,7 @@ A new section to be denominated as Section 12 is hereby inserted in the same Act
 
 ## Sec. 12
 
-_Nullity of Waiver and Consent._ \- Any form of approval, consent, or agreement, whether written or otherwise, or of an express waiver of the right to object to the initiation rite or proceeding which consists of hazing, as defined in this Act, made by a recruit, neophyte, or applicant prior to an initiation rite that involves inflicting physical or psychological suffering, harm, or injury, shall be void and without any binding effect on the parties.1âwphi1
+_Nullity of Waiver and Consent._ \- Any form of approval, consent, or agreement, whether written or otherwise, or of an express waiver of the right to object to the initiation rite or proceeding which consists of hazing, as defined in this Act, made by a recruit, neophyte, or applicant prior to an initiation rite that involves inflicting physical or psychological suffering, harm, or injury, shall be void and without any binding effect on the parties.
 
 "The defense that the recruit, neophyte, or applicant consented to being subjected to hazing shall not be available to persons prosecuted under this Act."
 

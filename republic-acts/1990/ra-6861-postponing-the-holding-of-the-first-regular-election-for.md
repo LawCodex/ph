@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section 1, Article XXI of Republic Act Numbered Sixty-seven hundred and sixty-six, as amended, is hereby further amended to read as follows:
 
-"**Section 1.** The first regular election for the Cordillera Governor, the Cordillera Deputy Governor and the Members of the Cordillera Assembly shall be held on the first Monday of March 1991. Their terms of office shall begin at noon of the last day of the month next following the proclamation of their election and shall end at noon of the thirty-first day of May 1993. The expenses for the conduct of the election shall be charged against the Contingent Fund; any deficiency shall be taken from the savings of the National Government. The Commission on Elections shall promulgate such rules and regulations as may be necessary for the conduct of said election."1âшphi1
+"**Section 1.** The first regular election for the Cordillera Governor, the Cordillera Deputy Governor and the Members of the Cordillera Assembly shall be held on the first Monday of March 1991. Their terms of office shall begin at noon of the last day of the month next following the proclamation of their election and shall end at noon of the thirty-first day of May 1993. The expenses for the conduct of the election shall be charged against the Contingent Fund; any deficiency shall be taken from the savings of the National Government. The Commission on Elections shall promulgate such rules and regulations as may be necessary for the conduct of said election."
 
 ## Section 2
 

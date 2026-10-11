@@ -44,13 +44,13 @@ The Ceramic Processing Plant shall have the following functions:
 
 ## Section 3
 
-The Ceramic Processing Plant shall be headed by a chief ceramic technologist and shall have such other personnel as may be necessary. They shall be appointed by the Commissioner of the National Institute of Science and Technology.1avvphi1
+The Ceramic Processing Plant shall be headed by a chief ceramic technologist and shall have such other personnel as may be necessary. They shall be appointed by the Commissioner of the National Institute of Science and Technology.
 
 The chief ceramic technologist shall be responsible for the effective and efficient operation of the Ceramic Processing Plant. He shall be under the operational direction and supervision of the Commissioner of the National Institute of Science and Technology.
 
 ## Section 4
 
-Interested parties desiring to be trained in ceramics at the Ceramics Unit of the Industrial Research Center National Institute of Science and Technology, may apply to the head of the Ceramic Processing Plant and, upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not exceeding three months and transportation expenses from and to their province.1âшphi1 The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.
+Interested parties desiring to be trained in ceramics at the Ceramics Unit of the Industrial Research Center National Institute of Science and Technology, may apply to the head of the Ceramic Processing Plant and, upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not exceeding three months and transportation expenses from and to their province. The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.
 
 ## Section 5
 

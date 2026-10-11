@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Patao Primary School in the barrio of Bawod, Municipality of Bantayan, Province of Cebu, is changed to Bawod Primary School.1âшphi1
+The name of the Patao Primary School in the barrio of Bawod, Municipality of Bantayan, Province of Cebu, is changed to Bawod Primary School.
 
 ## Section 2
 

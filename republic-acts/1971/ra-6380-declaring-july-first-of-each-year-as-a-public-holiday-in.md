@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-July first of each year is hereby declared a public holiday in the Provinces of Davao Oriental, Davao del Sur and Davao del Norte.1âшphi1
+July first of each year is hereby declared a public holiday in the Provinces of Davao Oriental, Davao del Sur and Davao del Norte.
 
 ## Section 2
 

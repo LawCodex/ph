@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Jones High School in the Province of Isabela is hereby converted into a rural high school, to be known as the Jones Rural High School.1âшphi1
+The Jones High School in the Province of Isabela is hereby converted into a rural high school, to be known as the Jones Rural High School.
 
 ## Section 2
 

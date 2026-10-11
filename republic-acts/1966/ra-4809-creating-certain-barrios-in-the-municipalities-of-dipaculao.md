@@ -33,7 +33,7 @@ The sitio of Dianed is hereby separated from Barrio Dinadiawan in the same munic
 
 ## Section 3
 
-The sitio of Lipit is hereby separated from Barrio Ipil in the same municipality, and is converted into a distinct and independent barrio to be known as Barrio Lipit.1avvphi1
+The sitio of Lipit is hereby separated from Barrio Ipil in the same municipality, and is converted into a distinct and independent barrio to be known as Barrio Lipit.
 
 ## Section 4
 
@@ -41,7 +41,7 @@ The sitio of Sapang Kawayan is hereby separated from Barrio Silay in the same mu
 
 ## Section 5
 
-The sitios of Dibay-abay, Diotorin, Salaysay, Dibulalan, Cultiv, Calipaket, Calapnit and Dibuwan in the Municipality of San Luis, same province, are hereby converted into a distinct and independent barrio to be known as Barrio Dibut.1avvphi1
+The sitios of Dibay-abay, Diotorin, Salaysay, Dibulalan, Cultiv, Calipaket, Calapnit and Dibuwan in the Municipality of San Luis, same province, are hereby converted into a distinct and independent barrio to be known as Barrio Dibut.
 
 ## Section 6
 

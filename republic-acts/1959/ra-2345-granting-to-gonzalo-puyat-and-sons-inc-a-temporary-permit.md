@@ -48,7 +48,7 @@ Under this permit, the Secretary of Public Works and Communications shall allot 
 
 ## Section 7
 
-No fees are chargeable, as, under this permit, the corporation shall engage in communications regarding its business only.1âшphi1
+No fees are chargeable, as, under this permit, the corporation shall engage in communications regarding its business only.
 
 ## Section 8
 

@@ -36,7 +36,7 @@ The Secretary of Education, Culture and Sports shall issue such rules and regula
 
 ## Section 3
 
-All personnel, assets, liabilities, and records of the Perez Quezon Academy are hereby transferred to and absorbed by the Perez National High School.1aшphi1
+All personnel, assets, liabilities, and records of the Perez Quezon Academy are hereby transferred to and absorbed by the Perez National High School.
 
 ## Section 4
 

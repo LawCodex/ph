@@ -55,13 +55,21 @@ Section 8 of Republic Act No. 9164 is hereby amended to read as follows:
 
 "The funds mentioned above may be augmented by an amount not exceeding ten percent (10%) of the sangguniang kabataan funds reserved pursuant to Section 532(c) of Republic Act No. 7160."
 
-**SEC. 5._Implementing Rules and Regulations._** \- The COMELEC shall promulgate such rules and regulations necessary to implement this Act.
+## SEC. 5
 
-**SEC. 6._Repealing Clause._** \- All laws, decrees, executive orders, and rules and regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed or modified accordingly.
+_Implementing Rules and Regulations._ \- The COMELEC shall promulgate such rules and regulations necessary to implement this Act.
 
-**SEC. 7._Separability Clause._** \- If, for any reason, any section or provision of this Act is held unconstitutional or invalid, the other sections or provisions hereof shall not be affected and thereby remain in full force and effect.
+## SEC. 6
 
-**SEC. 8._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.
+_Repealing Clause._ \- All laws, decrees, executive orders, and rules and regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed or modified accordingly.
+
+## SEC. 7
+
+_Separability Clause._ \- If, for any reason, any section or provision of this Act is held unconstitutional or invalid, the other sections or provisions hereof shall not be affected and thereby remain in full force and effect.
+
+## SEC. 8
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

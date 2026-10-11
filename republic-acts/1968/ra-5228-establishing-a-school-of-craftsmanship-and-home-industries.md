@@ -33,7 +33,7 @@ Subject to the approval of the Secretary of Education, the Director of Vocationa
 
 ## Section 3
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school, including the purchase of site, for fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school, including the purchase of site, for fiscal year nineteen hundred sixty-nine. Thereafter, such sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

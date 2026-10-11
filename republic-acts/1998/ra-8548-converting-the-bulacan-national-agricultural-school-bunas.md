@@ -143,7 +143,7 @@ The president shall be assisted by a vice president for academic affairs who sha
 
 In case of vacancy by reason of death, resignation, removal for cause or incapacity of the president to perform the functions of his office, the Board shall have the authority to designate an officer-in-charge pending the appointment of a new president.
 
-In case of vacancy in the office of the president as mentioned in the immediately preceding paragraph, his successor shall hold office for the unexpired term.Ꮮαwρhi৷
+In case of vacancy in the office of the president as mentioned in the immediately preceding paragraph, his successor shall hold office for the unexpired term.
 
 ## Section 8
 
@@ -169,7 +169,7 @@ _Academic Freedom._ \- Pursuant to paragraph 2, Section 5 of Article XIV of the 
 
 ## Section 13
 
-_Admission._ \- No student shall be denied admission to college by reasons of sex, nationality, religion, political affiliation or physical disability.Ꮮαwρhi৷
+_Admission._ \- No student shall be denied admission to college by reasons of sex, nationality, religion, political affiliation or physical disability.
 
 ## Section 14
 

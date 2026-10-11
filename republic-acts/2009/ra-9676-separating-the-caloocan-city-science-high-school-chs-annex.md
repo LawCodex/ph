@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-_Separation and Conversion into a Science High School._ — The Caloocan City Science High School - CHS Annex in Barangay Sixty-Two (62), City of Caloocan is hereby separated from the Caloocan High School (CHS) and converted into an independent science high school to be known as Caloocan City Science High School.ℒαwρhi৷
+_Separation and Conversion into a Science High School._ — The Caloocan City Science High School - CHS Annex in Barangay Sixty-Two (62), City of Caloocan is hereby separated from the Caloocan High School (CHS) and converted into an independent science high school to be known as Caloocan City Science High School.
 
 ## Section 2
 

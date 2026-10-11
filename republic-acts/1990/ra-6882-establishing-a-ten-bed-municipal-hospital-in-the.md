@@ -41,7 +41,7 @@ _Appropriations._ — The amount necessary to carry out the provisions of this A
 
 ## Section 5
 
-Before the Construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.1âшphi1
+Before the Construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
 
 ## Section 6
 

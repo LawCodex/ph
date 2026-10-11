@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in the City of Alami
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading of the LTO District Office in the City of Alaminos, Province of Pangasinan, the initial funding of which shall be charged against the current year's appropriations of the existing LTO district office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading of the LTO District Office in the City of Alaminos, Province of Pangasinan, the initial funding of which shall be charged against the current year's appropriations of the existing LTO district office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

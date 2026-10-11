@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established a trade high school in the Municipality of Balabagan, Province of Lanao del Sur.1âшphi1
+There shall be established a trade high school in the Municipality of Balabagan, Province of Lanao del Sur.
 
 ## Section 2
 

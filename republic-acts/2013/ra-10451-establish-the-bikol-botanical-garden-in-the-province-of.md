@@ -54,7 +54,7 @@ The Bikol Botanical Garden shall endeavor to maintain a system for the classific
 
 The provincial government of Camarines Sur shall, by purchase or expropriation or by grants from the national government or through donation from other governmental or private philanthropic sources, provide or arrange to provide the lands suitable for establishing the Bikol Botanical Garden and any satellite gardens referred to in this Act.
 
-The provincial government of Camarines Sur shall provide the necessary capital outlays and operating expenses required to maintain the botanical garden to be established under this Act.1âwphi1
+The provincial government of Camarines Sur shall provide the necessary capital outlays and operating expenses required to maintain the botanical garden to be established under this Act.
 
 ## Section 6
 

@@ -28,7 +28,7 @@ The Kabankalan Elementary School situated at Kabankalan, Negros Occidental, is h
 
 ## Section 2
 
-The Director of Public Schools shall effect the change immediately upon the approval in this Act.1âшphi1
+The Director of Public Schools shall effect the change immediately upon the approval in this Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Bunawan Agricultural High School in the Municipality of Bunawan, Province of Agusan, is hereby converted into a national agricultural college, to be known. as the Southern Agusan National Agricultural College under the administrative supervision of the Bureau of Vocational Education effective upon availability of funds.1âшphi1
+Bunawan Agricultural High School in the Municipality of Bunawan, Province of Agusan, is hereby converted into a national agricultural college, to be known. as the Southern Agusan National Agricultural College under the administrative supervision of the Bureau of Vocational Education effective upon availability of funds.
 
 ## Section 2
 

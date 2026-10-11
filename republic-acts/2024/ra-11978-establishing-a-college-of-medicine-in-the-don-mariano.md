@@ -108,7 +108,7 @@ _Implementing Rules and Regulations._ \- Within sixty (60) days from the approva
 
 ## Section 16
 
-_Separability Clause._ \- If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.1aшphi1
+_Separability Clause._ \- If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
 
 ## Section 17
 

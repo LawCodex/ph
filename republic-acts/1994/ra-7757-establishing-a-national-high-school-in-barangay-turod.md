@@ -33,7 +33,7 @@ There shall be established a national high school in Barangay Turod, Municipalit
 
 ## Section 2
 
-The Secretary of the Department of Education, Culture and Sports (DECS) shall issue such rules and regulations necessary to implement the provisions of this Act.1a⍵⍴h!1
+The Secretary of the Department of Education, Culture and Sports (DECS) shall issue such rules and regulations necessary to implement the provisions of this Act.
 
 ## Section 3
 

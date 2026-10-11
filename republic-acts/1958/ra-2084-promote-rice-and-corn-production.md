@@ -118,4 +118,4 @@ The Rice and Corn Coordinator shall render a yearly report to the President of t
 
 This Act shall take effect upon its approval.
 
-Approved, June 15, 1958.1a⍵⍴h!1
+Approved, June 15, 1958.

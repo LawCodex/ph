@@ -42,7 +42,7 @@ The amount necessary to carry out the initial implementation of this Act shall b
 
 ## Section 4
 
-Within sixty (60) days after the effectivity of this Act, the Commission on Higher Education and the SLSU shall promulgate the necessary rules and regulations to implement this Act.1aшphi1
+Within sixty (60) days after the effectivity of this Act, the Commission on Higher Education and the SLSU shall promulgate the necessary rules and regulations to implement this Act.
 
 ## Section 5
 

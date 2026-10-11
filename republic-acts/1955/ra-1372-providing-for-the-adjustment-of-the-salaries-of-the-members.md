@@ -109,7 +109,7 @@ The salaries as increased pursuant to the provisions of this Act shall be includ
 
 ## Section 4
 
-The Board of Trustees of the Philippine Normal je shall, upon the availability of funds, implement the provisions of this Act.1a⍵⍴h!1
+The Board of Trustees of the Philippine Normal je shall, upon the availability of funds, implement the provisions of this Act.
 
 ## Section 5
 

@@ -47,7 +47,7 @@ Section 14(c) of Batas Pambansa Blg. 129, otherwise known as “The Judiciary Re
 
 ## SECTION 5
 
-This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.
 
 Approved,
 

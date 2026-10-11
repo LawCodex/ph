@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Republic Act Numbered Five hundred seventy-three, otherwise known as the "Philippine Military Aid to the United Nations Act," is hereby amended by inserting a new section between sections ten and eleven thereof, to be designated as section ten-A, which shall read as follows:
 
-"Section 10-A. The provisions of any law to the contrary notwithstanding, Reserve Officers in the Philippine Expeditionary Force shall remain on active duty as long as the Philippines continues to maintain said force overseas, unless sooner relieved from such active duty or discharged by the President, or dismissed from the service pursuant to the approved sentence of a general, court-martial. All enlistments of enlisted men serving with the Philippine Expeditionary Force shall continue in force for a like period, unless sooner terminated by the President or pursuant to the approved sentence of a court-martial."1a⍵⍴h!1
+"Section 10-A. The provisions of any law to the contrary notwithstanding, Reserve Officers in the Philippine Expeditionary Force shall remain on active duty as long as the Philippines continues to maintain said force overseas, unless sooner relieved from such active duty or discharged by the President, or dismissed from the service pursuant to the approved sentence of a general, court-martial. All enlistments of enlisted men serving with the Philippine Expeditionary Force shall continue in force for a like period, unless sooner terminated by the President or pursuant to the approved sentence of a court-martial."
 
 ## Section 4
 

@@ -126,6 +126,6 @@ Section ten of the same Act is amended to read as follows:
 
 ## Section 11
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 13, 1958.

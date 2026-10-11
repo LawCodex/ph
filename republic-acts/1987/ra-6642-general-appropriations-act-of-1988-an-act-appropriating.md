@@ -147,7 +147,7 @@ _Donations_. Departments, bureaus, offices or agencies are authorized to accept 
 
 Cash proceeds shall be deposited with the National Treasury as a Special Account in the General Fund and shall be released only to the extent of actual receipts as certified by the Bureau of the Treasury and used or expended as specified by the donor, subject to Section 40 of P.D. No. 1177. The agency concerned shall submit to the Department of Budget and Management and to the Commission on Audit a quarterly report of the expenditures or disbursements of the amounts released.
 
-Contributions or gifts in kind intended for specified beneficiaries, but which are perishable in nature and would require storage or distribution expenditures of more than forty percent (40V.(awÞhi() of their current market value, may be sold at public auction. The proceeds derived therefrom shall be deposited in like manner as if they were in cash, and shall be used or expended as specified by the donor, subject to the conditions imposed by the donor and to Section 40 of P.D. No. 1177.
+Contributions or gifts in kind intended for specified beneficiaries, but which are perishable in nature and would require storage or distribution expenditures of more than forty percent (40V.) of their current market value, may be sold at public auction. The proceeds derived therefrom shall be deposited in like manner as if they were in cash, and shall be used or expended as specified by the donor, subject to the conditions imposed by the donor and to Section 40 of P.D. No. 1177.
 
 ## Section 8
 

@@ -32,7 +32,7 @@ The Amai Pakpak General Hospital located in Marawi City, Lanao del Sur, is hereb
 
 ## Section 2
 
-The Department of Health shall formulate the necessary guidelines for the operation of the said medical center.1aшphi1
+The Department of Health shall formulate the necessary guidelines for the operation of the said medical center.
 
 ## Section 3
 

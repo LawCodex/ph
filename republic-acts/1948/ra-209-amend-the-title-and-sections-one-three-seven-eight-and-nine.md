@@ -64,6 +64,6 @@ Section nine of Republic Act Numbered One hundred and thirty-six is hereby amend
 
 ## Section 7
 
-This Act shall take effect upon its approval.1awp++i1
+This Act shall take effect upon its approval.
 
 Approved: June 1, 1948.

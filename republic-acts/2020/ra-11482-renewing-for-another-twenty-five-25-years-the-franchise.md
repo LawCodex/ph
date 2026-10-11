@@ -71,7 +71,7 @@ _Warranty in Favor of the National and Local Governments._ \- The grantee shall 
 
 ## Section 9
 
-_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The grantee shall create employment opportunities and shall allow on-the-job trainings in their franchise operation: _Provided,_ That priority shall be accorded to the residents of the place where their principal office is located: _Provided,_ further, That the grantee shall follow the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances: _Provided,_ finally, That the employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to the Securities and Exchange Commission (SEC) annually.ℒαwρhi৷
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The grantee shall create employment opportunities and shall allow on-the-job trainings in their franchise operation: _Provided,_ That priority shall be accorded to the residents of the place where their principal office is located: _Provided,_ further, That the grantee shall follow the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances: _Provided,_ finally, That the employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to the Securities and Exchange Commission (SEC) annually.
 
 ## Section 10
 

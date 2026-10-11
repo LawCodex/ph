@@ -30,6 +30,6 @@ Item (aq), subparagraph (6), for the Province of Bataan, page two hundred fourte
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1960.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines m Co
 
 ## Section 1
 
-Subject to the provisions of the Constitutor and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Cauayan Electric Corporation, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to install, operate and maintain an electric light, heat and power system for the Purpose of generating and distributing electric light, heat and power for sale in the Municipality of Cauayan, Province of Isabela.1âшphi1
+Subject to the provisions of the Constitutor and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Cauayan Electric Corporation, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to install, operate and maintain an electric light, heat and power system for the Purpose of generating and distributing electric light, heat and power for sale in the Municipality of Cauayan, Province of Isabela.
 
 ## Section 2
 

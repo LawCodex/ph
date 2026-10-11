@@ -41,7 +41,7 @@ The grantee shall not engage in domestic business of telecommunications in the P
 
 ## Section 5
 
-A special right is hereby reserved to the President of the Republic of the Philippines in time of war, insurrection, public peril, emergency, or disturbance of peace and order, to cause the closing of the station or stations, or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.1âшphi1
+A special right is hereby reserved to the President of the Republic of the Philippines in time of war, insurrection, public peril, emergency, or disturbance of peace and order, to cause the closing of the station or stations, or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
 
 ## Section 6
 

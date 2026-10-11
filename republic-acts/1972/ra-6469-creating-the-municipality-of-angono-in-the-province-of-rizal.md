@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Angono, Province of Rizal, which was created by Executive Order Numbered One hundred fifty-eight dated the nineteenth day of August nineteen hundred thirty-eight of the President of the Philippines, being actually organized and existing on the date of the approval of this Act, is hereby created.1âшphi1
+The Municipality of Angono, Province of Rizal, which was created by Executive Order Numbered One hundred fifty-eight dated the nineteenth day of August nineteen hundred thirty-eight of the President of the Philippines, being actually organized and existing on the date of the approval of this Act, is hereby created.
 
 ## Section 2
 

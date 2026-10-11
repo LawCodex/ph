@@ -34,7 +34,7 @@ A four (4)-lane circumferential road that spans 14.3217 kilometers and commences
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act.1âwphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
 
 ## Section 3
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The municipal districts of Mambili, Bunawan, Libertad, Basa, Tudela, San Isidro, Santa Maria, Trento, Cuevas and San Salvacion, together with the Villages of San Marcos and San Ignacio in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of Bunawan, with the seat of government at the present site of the Municipal District of Bunawan. The said municipality shall be bounded in the North by Mandawiton and Mambogongon lakes and the Municipality of San Francisco, on the East by the Municipality of San Francisco and the Province of Surigao, of the South by the Province of Davao, and on the West by the municipal districts of Veruela, Sta. Josefa, Patrocinio and the village of San Gabriel.1âшphi1
+The municipal districts of Mambili, Bunawan, Libertad, Basa, Tudela, San Isidro, Santa Maria, Trento, Cuevas and San Salvacion, together with the Villages of San Marcos and San Ignacio in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of Bunawan, with the seat of government at the present site of the Municipal District of Bunawan. The said municipality shall be bounded in the North by Mandawiton and Mambogongon lakes and the Municipality of San Francisco, on the East by the Municipality of San Francisco and the Province of Surigao, of the South by the Province of Davao, and on the West by the municipal districts of Veruela, Sta. Josefa, Patrocinio and the village of San Gabriel.
 
 ## Section 2
 

@@ -41,7 +41,7 @@ Within sixty (60) days after the approval of this Act, the Secretary of Educatio
 
 ## Section 5
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.1aшphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

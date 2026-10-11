@@ -37,7 +37,7 @@ The site in Butuan City which will be vacated by the transfer of the Provincial 
 
 ## Section 3
 
-_Funding._ – An amount of One hundred million pesos (P100,000,000) is hereby authorized to be appropriated from the General Appropriations Act for the next five (5) years at Twenty million pesos (P20,000,000) per year: _Provided,_ That the first Twenty million pesos (P20,000,000) shall be appropriated from the General Appropriations Act of the current year to support the immediate transfer of the Provincial Capitol and Government Center.ℒαwρhi৷
+_Funding._ – An amount of One hundred million pesos (P100,000,000) is hereby authorized to be appropriated from the General Appropriations Act for the next five (5) years at Twenty million pesos (P20,000,000) per year: _Provided,_ That the first Twenty million pesos (P20,000,000) shall be appropriated from the General Appropriations Act of the current year to support the immediate transfer of the Provincial Capitol and Government Center.
 
 ## Section 4
 

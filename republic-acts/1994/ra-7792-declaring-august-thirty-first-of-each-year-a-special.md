@@ -33,6 +33,6 @@ In order to commemorate the birth anniversary of former President Ramon Magsaysa
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.1a⍵⍴h!1
+This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Lapsed into law on August 8, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

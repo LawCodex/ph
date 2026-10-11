@@ -37,6 +37,6 @@ Section five of Republic Act Numbered Three hundred fifty-seven is amended to re
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 13, 1958.

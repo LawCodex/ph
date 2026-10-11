@@ -303,7 +303,7 @@ The Cordillera Assembly shall convene once every year on the fourth Monday of Ap
 
 (B) The Cordillera Assembly may determine the rules of its proceedings, punish its Members for disorderly behavior, and, with the concurrence of two-thirds (2/3) of all its Members, suspend or expel a Member: Provided, That the period of suspension shall not exceed sixty (60) days.
 
-(C) The Cordillera Assembly shall keep a Journal of its proceedings, and from time to time publish the same, and the yeas and nays on any question shall, at the request of one-fifth (1/5) of the Members present, be entered in the Journal.lawphil.net
+(C) The Cordillera Assembly shall keep a Journal of its proceedings, and from time to time publish the same, and the yeas and nays on any question shall, at the request of one-fifth (1/5) of the Members present, be entered in the Journal.
 
 ### Section 11
 
@@ -379,7 +379,7 @@ The fiscal year of the Cordillera Autonomous Region shall cover the period April
 
 (B) No public money or property shall be appropriated, applied, paid or used directly or indirectly for the use, benefit or support of any sect, church, denomination, sectarian institution, or system of religion or for the use, benefit or support of any priest, preacher, minister, imam or other religious teacher or dignitary as such, except when such priest, preacher, minister, imam or dignitary is assigned to the regional police or government orphanage and rehabilitation centers or similar institutions.
 
-(C) All money collected on any regional tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general fund of the Regional Government.itc@alf
+(C) All money collected on any regional tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general fund of the Regional Government.
 
 ### Section 21
 

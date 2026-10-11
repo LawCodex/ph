@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-_Declaration of Policy.—_ It is hereby declared a national policy to develop and expand the metals industry of the country by maintaining close coordination with the private sector in putting up a non-profit research organization to provide both the government and the private sector with professional management and technical expertise on such vital activities for the development of the industry as training of engineers and technicians, information exchange, trade accreditation service, quality control and testing of metal products, research and business economics advisory services.1avvphi1
+_Declaration of Policy.—_ It is hereby declared a national policy to develop and expand the metals industry of the country by maintaining close coordination with the private sector in putting up a non-profit research organization to provide both the government and the private sector with professional management and technical expertise on such vital activities for the development of the industry as training of engineers and technicians, information exchange, trade accreditation service, quality control and testing of metal products, research and business economics advisory services.
 
 ## Section 2
 

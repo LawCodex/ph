@@ -40,7 +40,7 @@ The Provincial Government of La Union and the LUMC are hereby authorized to prov
 
 ## Section 4
 
-The Secretary of Health, shall include in the Department's program the subsidy support for the capital outlay requirements of the said medical center.1aшphi1
+The Secretary of Health, shall include in the Department's program the subsidy support for the capital outlay requirements of the said medical center.
 
 ## Section 5
 

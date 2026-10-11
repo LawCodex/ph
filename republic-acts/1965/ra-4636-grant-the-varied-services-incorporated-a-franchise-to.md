@@ -33,7 +33,7 @@ The grantee is hereby empowered to fix its service charges subject to the approv
 
 ## Section 3
 
-The Varied Services, Incorporated, in addition to the taxes imposed by the Internal Revenue Code, shall pay an additional annual tax at the rate of one percent on its net profit, the proceeds of which shall accrue to the National Government.1âшphi1
+The Varied Services, Incorporated, in addition to the taxes imposed by the Internal Revenue Code, shall pay an additional annual tax at the rate of one percent on its net profit, the proceeds of which shall accrue to the National Government.
 
 ## Section 4
 

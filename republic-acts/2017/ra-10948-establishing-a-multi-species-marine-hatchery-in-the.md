@@ -38,7 +38,7 @@ The BFAR-DA shall, within two (2) years after the construction of the multi-spec
 
 ## Section 3
 
-The Secretary of Agriculture shall include in the Department’s programs the establishment of the multi-species marine hatchery in the Municipality of Guinayangan, Province of Quezon, the funding of which shall be included in the annual General Appropriations Act.1âwphi1 The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
+The Secretary of Agriculture shall include in the Department’s programs the establishment of the multi-species marine hatchery in the Municipality of Guinayangan, Province of Quezon, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
 
 ## Section 4
 

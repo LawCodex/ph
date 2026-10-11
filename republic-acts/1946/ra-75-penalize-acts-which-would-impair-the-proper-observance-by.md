@@ -30,7 +30,7 @@ Any person, other than a diplomatic or consular officer or attaché, who shall a
 
 ## Section 3
 
-Any person, who with intent to deceive or mislead, within the jurisdiction of the Republic, wear any naval, military, police, or other official uniform, decoration, or regalia of any foreign State, nation or government with which the Republic of the Philippines is at peace, or any uniform, decoration or regalia so nearly resembling the same as to be calculated to deceive, unless such wearing thereof be authorized by such State, nation, or government, shall upon conviction, be punished by a fine not exceeding two hundred pesos or imprisonment not exceeding six months, or by both such fine and imprisonment.1awphil-itc-alf
+Any person, who with intent to deceive or mislead, within the jurisdiction of the Republic, wear any naval, military, police, or other official uniform, decoration, or regalia of any foreign State, nation or government with which the Republic of the Philippines is at peace, or any uniform, decoration or regalia so nearly resembling the same as to be calculated to deceive, unless such wearing thereof be authorized by such State, nation, or government, shall upon conviction, be punished by a fine not exceeding two hundred pesos or imprisonment not exceeding six months, or by both such fine and imprisonment.
 
 ## Section 4
 
@@ -46,7 +46,7 @@ Any person who assaults, strikes, wounds, imprisons or in any other manner offer
 
 ## Section 7
 
-The provisions of this Act shall be applicable only in case where the country of the diplomatic or consular representative adversely affected has provided for similar protection to duly accredited diplomatic or consular representatives of the Republic of the Philippines by prescribing like or similar penalties for like or similar offenses herein contained.itc-alf
+The provisions of this Act shall be applicable only in case where the country of the diplomatic or consular representative adversely affected has provided for similar protection to duly accredited diplomatic or consular representatives of the Republic of the Philippines by prescribing like or similar penalties for like or similar offenses herein contained.
 
 ## Section 8
 

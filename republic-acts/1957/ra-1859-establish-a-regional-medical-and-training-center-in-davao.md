@@ -44,7 +44,7 @@ The supervision and control of the Davao Regional Medical and Training Center is
 
 ## Section 6
 
-All Acts or parts of the Acts inconsistent herewith are hereby repealed or amended.1âшphi1
+All Acts or parts of the Acts inconsistent herewith are hereby repealed or amended.
 
 ## Section 7
 

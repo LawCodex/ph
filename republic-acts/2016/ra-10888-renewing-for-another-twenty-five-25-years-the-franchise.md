@@ -53,7 +53,7 @@ _Adoption of Provisions Not Inconsistent with this Act._ \- All other provisions
 
 ## Section 6
 
-_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.1âwphi1
+_Separability Clause._ \- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 7
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Cebu South Provincial High School is hereby converted into a national high school, to be known as the Cebu South National High School. Comprehensive curriculum which includes both academic and vocational courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.1avvphi1
+The Cebu South Provincial High School is hereby converted into a national high school, to be known as the Cebu South National High School. Comprehensive curriculum which includes both academic and vocational courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
 
 Upon organization of the Cebu South National High School, the assets, liabilities, personnel, equipment and records of the Cebu South Provincial High School shall stand transferred to the Cebu South National High School.
 

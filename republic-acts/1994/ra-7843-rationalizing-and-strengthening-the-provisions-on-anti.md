@@ -158,7 +158,7 @@ _Separability Clause_. - If, for any reason, any section or provision of this Ac
 
 ### Section 5
 
-_Repealing Clause_. - Section 301, Part 2, _Title_ II, Book I of the Tariff and Customs Code, as amended, Presidential Decree No. 1999, Executive Order No. 1073, and all other laws, orders, decrees, issuances, rules and regulations related to dumping which are inconsistent with this Act are hereby repealed or modified accordingly.1a⍵⍴h!1
+_Repealing Clause_. - Section 301, Part 2, _Title_ II, Book I of the Tariff and Customs Code, as amended, Presidential Decree No. 1999, Executive Order No. 1073, and all other laws, orders, decrees, issuances, rules and regulations related to dumping which are inconsistent with this Act are hereby repealed or modified accordingly.
 
 ### Section 6
 

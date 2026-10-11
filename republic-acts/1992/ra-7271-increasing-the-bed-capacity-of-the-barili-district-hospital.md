@@ -25,7 +25,7 @@ BBegun and held in Metro Manila on Monday, the twenty-second day of July, ninete
 
 AN ACT INCREASING THE BED CAPACITY OF THE BARILI DISTRICT HOSPITAL IN THE PROVINCE OF CEBU, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

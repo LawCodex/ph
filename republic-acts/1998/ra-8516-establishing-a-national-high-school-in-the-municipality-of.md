@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Banayoyo, Province of Ilocos Sur, to be known as the Banayoyo National High School.Ꮮαwρhi৷
+There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Banayoyo, Province of Ilocos Sur, to be known as the Banayoyo National High School.
 
 ## Section 2
 

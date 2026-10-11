@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Babatnon, Lanot, Lalawigan, Pinagdamhan, Hamoraon, Culasi, Tarum, Pambuhan, Masalong-salong, Hinipaan, Matoogtoog, Cayucyucan, Mambongalon, Manguisoc, Gaboc, Cariñgo Is., Quinapaquian Is., Apwao Is., Mercedes, Tanayagan, Tagontong and Catandonganon, are separated from the municipality of Daet, Province of Camarines Norte, and constituted into a new and separate municipality to be known as the municipality of Mercedes, Province of Camarines Norte.1aшphi1
+The barrios of Babatnon, Lanot, Lalawigan, Pinagdamhan, Hamoraon, Culasi, Tarum, Pambuhan, Masalong-salong, Hinipaan, Matoogtoog, Cayucyucan, Mambongalon, Manguisoc, Gaboc, Cariñgo Is., Quinapaquian Is., Apwao Is., Mercedes, Tanayagan, Tagontong and Catandonganon, are separated from the municipality of Daet, Province of Camarines Norte, and constituted into a new and separate municipality to be known as the municipality of Mercedes, Province of Camarines Norte.
 
 ## Section 2
 
@@ -36,6 +36,6 @@ The municipality herein established shall begin to exist on the date fixed in a 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1avvphi1
+This Act shall take effect upon its approval.
 
 Approved: July 26, 1948.

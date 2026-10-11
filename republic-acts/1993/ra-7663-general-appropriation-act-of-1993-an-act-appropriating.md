@@ -2340,7 +2340,7 @@ I have incorporated the annual budgets of the three corporations on pages 363-40
 
 V. CLOSING STATEMENT
 
-In closing, I would like to put on record my deep gratitude to the leadership of Congress, most especially to the House Committee on Appropriations and the Senate Committee on Finance for the timely passage and enactment of the General Appropriations Bill for CY 1994. While this was sometimes heatedly debated upon by all concerned, I observed that it was designed, molded and crafted with the welfare of the Filipino people and the national interest of our beloved Philippines in mind.1a⍵⍴h!1
+In closing, I would like to put on record my deep gratitude to the leadership of Congress, most especially to the House Committee on Appropriations and the Senate Committee on Finance for the timely passage and enactment of the General Appropriations Bill for CY 1994. While this was sometimes heatedly debated upon by all concerned, I observed that it was designed, molded and crafted with the welfare of the Filipino people and the national interest of our beloved Philippines in mind.
 
 This Bill has become Republic Act No. 7663.
 

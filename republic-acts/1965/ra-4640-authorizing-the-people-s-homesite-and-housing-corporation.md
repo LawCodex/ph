@@ -29,6 +29,6 @@ The People’s Homesite and Housing Corporation is hereby authorized to acquire 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 19, 1965.

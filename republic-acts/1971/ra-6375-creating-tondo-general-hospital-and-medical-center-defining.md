@@ -118,7 +118,7 @@ _Hospital trust funds._ —All funds and money not coming from the general fund 
 
 ## Section 11
 
-_Supervision by the Department of Health._ —The Tondo General Hospital and Medical Center shall be under the supervision of the Department of Health.1âшphi1
+_Supervision by the Department of Health._ —The Tondo General Hospital and Medical Center shall be under the supervision of the Department of Health.
 
 ## Section 12
 

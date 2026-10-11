@@ -30,7 +30,7 @@ _Declaration of policy._ -It is hereby declared to be the national policy during
 
 ## Section 2
 
-The Government is hereby authorized to sell at actual cost fertilizers to palay and corn producers and farmers.1âшphi1
+The Government is hereby authorized to sell at actual cost fertilizers to palay and corn producers and farmers.
 
 ## Section 3
 

@@ -30,7 +30,7 @@ Section one of Republic Act Numbered Nine hundred and thirty-eight is hereby ame
 
 ## Section 2
 
-Any law, executive order or parts thereof, inconsistent with the provisions of this Act are hereby repealed.1âшphi1
+Any law, executive order or parts thereof, inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-January 8 of every year is hereby declared a special working holiday in the Municipality of Pavia, Province of Iloilo, to be known as "Pavia Day", to commemorate its founding anniversary. Upon proclamation of the President January 8 of every year shall be a special non-working holiday in the Municipality of Pavia, Province of Iloilo.ℒαwρhi৷
+January 8 of every year is hereby declared a special working holiday in the Municipality of Pavia, Province of Iloilo, to be known as "Pavia Day", to commemorate its founding anniversary. Upon proclamation of the President January 8 of every year shall be a special non-working holiday in the Municipality of Pavia, Province of Iloilo.
 
 ## Section 2
 

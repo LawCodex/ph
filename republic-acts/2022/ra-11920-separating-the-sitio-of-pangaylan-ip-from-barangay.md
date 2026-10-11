@@ -50,7 +50,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Pangaylan-IP shall continue to hold office until such time that their successors have been duly elected and qualified.ℒαwρhi৷
+_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Pangaylan-IP shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

@@ -30,6 +30,6 @@ Section thirteen of Republic Act Numbered Sixty-one hundred thirty-two, otherwis
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, May 27, 1971.

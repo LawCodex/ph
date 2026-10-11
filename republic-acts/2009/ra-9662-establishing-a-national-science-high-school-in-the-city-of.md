@@ -34,7 +34,7 @@ _Establishment of a National Science High School._ \- There is hereby establishe
 
 ## Section 2
 
-_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the City of San Jose del Monte National Science High School, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the City of San Jose del Monte National Science High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

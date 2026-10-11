@@ -33,7 +33,7 @@ The Tublay School of Home Industries Extension in Barangay Tublay Central, Munic
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Tublay School of Home Industries Extension are hereby transferred to and absorbed by the Tublay National Trade High School.1âwphi1
+All personnel, assets, liabilities and records of the Tublay School of Home Industries Extension are hereby transferred to and absorbed by the Tublay National Trade High School.
 
 ## Section 3
 

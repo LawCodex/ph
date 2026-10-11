@@ -486,7 +486,7 @@ a. The city mayor may veto any ordinance of the sangguniang panlungsod on the gr
 
 b. The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, any public investment program or an ordinance directing the payment of money or creating liability. In such case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed enacted.
 
-c. The city mayor may veto an ordinance or resolution only once.ℒαwρhi৷ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+c. The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 17
 
@@ -1228,7 +1228,7 @@ _The City Jail Service._ —
 
 a. There shall be established and maintained in the City a secured, clean, adequately equipped and sanitary jail for the custody and safekeeping of prisoners, any fugitive from justice, or person detained awaiting investigation or trial and/or transfer to the national penitentiary, and/or violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
 
-b. The city jail service shall be headed by a city jail warden who must be a graduate of a four (4) -year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners.(awÞhi( Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
+b. The city jail service shall be headed by a city jail warden who must be a graduate of a four (4) -year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners. Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
 
 ### Section 49
 
@@ -1268,7 +1268,7 @@ _Succession Clause._ — The City of Masbate shall succeed to all the assets, pr
 
 ### Section 55
 
-_Election of Provincial Governor and Sangguniang Panlalawigan Members of the Province of Masbate._ — The qualified voters of the City of Masbate shall qualify to vote and run for any elective position in the elections for provincial governor, provincial vice governor, sangguniang panlalawigan members and other elective offices for the Province of Masbate.ℒαwρhi৷
+_Election of Provincial Governor and Sangguniang Panlalawigan Members of the Province of Masbate._ — The qualified voters of the City of Masbate shall qualify to vote and run for any elective position in the elections for provincial governor, provincial vice governor, sangguniang panlalawigan members and other elective offices for the Province of Masbate.
 
 ### Section 56
 
@@ -1280,7 +1280,7 @@ _Suspension of Increase in Rates of Local Taxes._ — No increase in the rates o
 
 ### Section 58
 
-_Representative District._ — Until otherwise provided by law, the City of Masbate shall continue to be a part of the Second Congressional District of Masbate Province.ℒαwρhi৷
+_Representative District._ — Until otherwise provided by law, the City of Masbate shall continue to be a part of the Second Congressional District of Masbate Province.
 
 ### Section 59
 

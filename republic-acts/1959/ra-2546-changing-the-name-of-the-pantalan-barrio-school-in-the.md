@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is changed to Tiburcio Betita Memorial School.1âшphi1
+The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is changed to Tiburcio Betita Memorial School.
 
 ## Section 2
 

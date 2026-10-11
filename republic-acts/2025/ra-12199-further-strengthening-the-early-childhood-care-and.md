@@ -259,7 +259,7 @@ _Financing ECCD Programs._ \- ECCD programs shall be financed through a combinat
 
 (a) _Financial and Technical Support._ \- The DILG, the DSWD, the DOH, the DepEd, the CHED, and the TESDA shall support the implementation of the ECCD System by providing financial and technical support packages to ECCD programs through adopting a program convergence budgeting approach to promote the efficient and effective allocation and management of fiscal resources for ECCD programs and services;
 
-(b) _Other Forms of Support for ECCD Programs._ \- LGUs shall support public ECCD programs in their respective localities.ℒαwρhi৷ Additional funds may be generated from intergovernmental donors and govenrment financial institutions to support the public programs including the urban poor.
+(b) _Other Forms of Support for ECCD Programs._ \- LGUs shall support public ECCD programs in their respective localities. Additional funds may be generated from intergovernmental donors and govenrment financial institutions to support the public programs including the urban poor.
 
 There shall be established a fund for an ECCD Program Contracting Scheme with accredited private service providers at the community levels.
 

@@ -119,9 +119,13 @@ _Repealability and Nonexclusivity Clause._ – This franchise shall be subject t
 
 _Reportorial Requirement._ – The grantee shall submit an annual report of finances and operations to the Congress of the Philippines."
 
-**Section 2._Extension/Renewal of Franchise._** – The term of the franchise granted under Republic Act No. 3247, as amended, is hereby extended/renewed for a period of twenty-five (25) years commencing on the date of expiration of Republic Act NO. 3247, as amended. This Franchise shall be deemed ipso facto revoked in the event that the grantee fails to operated continuously for two (2) years.
+### Section 2
 
-**Section 3._Effectivity Clause._** This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines.
+_Extension/Renewal of Franchise._ – The term of the franchise granted under Republic Act No. 3247, as amended, is hereby extended/renewed for a period of twenty-five (25) years commencing on the date of expiration of Republic Act NO. 3247, as amended. This Franchise shall be deemed ipso facto revoked in the event that the grantee fails to operated continuously for two (2) years.
+
+### Section 3
+
+_Effectivity Clause._ This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines.
 
 Approved,
 

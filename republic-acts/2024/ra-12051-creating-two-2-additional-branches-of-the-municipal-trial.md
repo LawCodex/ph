@@ -118,7 +118,7 @@ The MTCC in the City of Bacolod, Province of Bukidnon will have nine (9) branche
 </tr>
 </table>
 
-The Office of the Clerk of Court (OCC) shall be composed of twenty-three (23) personnel, unless modified as determined by the Supreme Court.ℒαwρhi৷
+The Office of the Clerk of Court (OCC) shall be composed of twenty-three (23) personnel, unless modified as determined by the Supreme Court.
 
 In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
 

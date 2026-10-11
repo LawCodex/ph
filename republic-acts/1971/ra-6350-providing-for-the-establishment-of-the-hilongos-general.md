@@ -40,7 +40,7 @@ The policy-determining power of the Hilongos General Hospital is vested in the S
 
 ## Section 5
 
-The Chief of the Hilongos General Hospital shall have authority to promulgate, with the approval of the Director of Medical Services, such rules and regulations not inconsistent with law as may be necessary to secure the efficient administration of the hospital and the proper enforcement of laws relating thereto.1âшphi1
+The Chief of the Hilongos General Hospital shall have authority to promulgate, with the approval of the Director of Medical Services, such rules and regulations not inconsistent with law as may be necessary to secure the efficient administration of the hospital and the proper enforcement of laws relating thereto.
 
 ## Section 6
 

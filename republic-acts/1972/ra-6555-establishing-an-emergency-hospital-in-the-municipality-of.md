@@ -32,7 +32,7 @@ This hospital shall have a bed capacity of not less than ten nor more than twent
 
 ## Section 3
 
-The Secretary of Health shall cause the establishment of this hospital, provide it with suitable table of organization of not more than twenty-five personnel and Promulgate rules and regulations for its maintenance and operation.1âшphi1
+The Secretary of Health shall cause the establishment of this hospital, provide it with suitable table of organization of not more than twenty-five personnel and Promulgate rules and regulations for its maintenance and operation.
 
 ## Section 4
 

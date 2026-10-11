@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Batad National High School and the Batad National Agricultural and Vocational High School are hereby merged and integrated into a polytechnic college to be known as the Batad Polytechnic College.1âшphi1
+The Batad National High School and the Batad National Agricultural and Vocational High School are hereby merged and integrated into a polytechnic college to be known as the Batad Polytechnic College.
 
 ## Section 2
 

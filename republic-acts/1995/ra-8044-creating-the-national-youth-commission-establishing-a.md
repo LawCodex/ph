@@ -226,7 +226,7 @@ _Advisory Council._ \- There shall be an Advisory Council which shall be compose
 
 The Council shall meet once every three (3) months, or as often as may be necessary, upon call of its chairman, advise and be consulted by the Commission on important matters relating to youth affairs, welfare and development.
 
-The Council may form task forces which shall convene between the meetings of the Council. The Commission shall provide the technical support and the secretariat required by the Council to function according to this Act.1aшphi1
+The Council may form task forces which shall convene between the meetings of the Council. The Commission shall provide the technical support and the secretariat required by the Council to function according to this Act.
 
 ## Section 15
 

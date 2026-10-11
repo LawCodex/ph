@@ -49,7 +49,7 @@ The Department of Education, Culture and Sports and the Commission on Higher Edu
 
 ## Section 3
 
-All laws, rules and ordinances inconsistent with this Act are hereby repealed or modified accordingly.1a⍵⍴h!1
+All laws, rules and ordinances inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 4
 

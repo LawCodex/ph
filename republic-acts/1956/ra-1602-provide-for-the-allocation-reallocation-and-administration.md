@@ -38,7 +38,7 @@ The duty-free quota on buttons of pearl or shell which is a Philippine article a
 
 ## Section 3
 
-The duty-free quotas on: (1) cigars (exclusive of cigarettes, cheroots of all kinds, and paper cigars and cigarettes including wrappers); (2) scrap tobacco, and stemmed and unstemmed filler tobacco described in paragraph 602 of the United States Tariff Act of 1930, as amended: and (3) coconut oil, which are Philippine articles as they are defined in subparagraph (f) of paragraph I of the Protocol to the Revised Agreement, and which may be entered, or withdrawn from warehouse, in the United States, for consumption, in calendar years 1956, 1957 and 1958 shall be allocated annually to manufacturers in the Philippines of articles of the class for which the corresponding quotas are established, and whose articles of such class were exported to the United States during any of the calendar years from 1947 to 1955, or to their successors in interest, in amounts equal to their highest volume of exportation but not less than two hundred fifty thousand pounds in the case of scrap and stemmed and unstemmed filler tobacco.1âшphi1
+The duty-free quotas on: (1) cigars (exclusive of cigarettes, cheroots of all kinds, and paper cigars and cigarettes including wrappers); (2) scrap tobacco, and stemmed and unstemmed filler tobacco described in paragraph 602 of the United States Tariff Act of 1930, as amended: and (3) coconut oil, which are Philippine articles as they are defined in subparagraph (f) of paragraph I of the Protocol to the Revised Agreement, and which may be entered, or withdrawn from warehouse, in the United States, for consumption, in calendar years 1956, 1957 and 1958 shall be allocated annually to manufacturers in the Philippines of articles of the class for which the corresponding quotas are established, and whose articles of such class were exported to the United States during any of the calendar years from 1947 to 1955, or to their successors in interest, in amounts equal to their highest volume of exportation but not less than two hundred fifty thousand pounds in the case of scrap and stemmed and unstemmed filler tobacco.
 
 ## Section 4
 
@@ -66,7 +66,7 @@ Regular quota holders given additional allotments from unallocated quotas who fo
 
 Within the first eight months of each calendar year, the holder of any allotment for that year for any of the quotas established under the preceding sections shall report to the proper office the amount of his allotment which he is or will be unable for any reason to export to the United States.
 
-The amount of allotments which, after being established by sufficient evidence, cannot be exported during the remainder of the calendar year shall be disposed of in such manner as will insure the fulfillment of the quota for that year.1avvphi1
+The amount of allotments which, after being established by sufficient evidence, cannot be exported during the remainder of the calendar year shall be disposed of in such manner as will insure the fulfillment of the quota for that year.
 
 Should any quota holder fail to submit the report required under this section or should any quota holder submit a falsified report, such quota holder shall permanently lose the right to his allotment and to any allotment thereafter.
 

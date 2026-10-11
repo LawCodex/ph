@@ -42,7 +42,7 @@ _Authority of the Civil Aeronautics Board._ — The grantee shall secure from th
 
 All aircraft used by the grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the Government of the Philippines. They shall be equipped w'ith radio communications, safety and other equipment, and shall be operated and maintained in accordance with the regulations and technical requirements of the CAAP or such other regulatory bodies the government may prescribe for this purpose.
 
-The grantee’s equipment and the operation of such equipment shall at all times be subject to inspection and regulation by the CAAP.1awp++i1 The grantee shall comply with the provisions of Republic Act Numbered Seven Hundred and Seventy-Six (R.A. No. 776), otherwise known as the "Civil Aeronautics Act of the Philippines", and the regulations promulgated thereunder from time to time.
+The grantee’s equipment and the operation of such equipment shall at all times be subject to inspection and regulation by the CAAP. The grantee shall comply with the provisions of Republic Act Numbered Seven Hundred and Seventy-Six (R.A. No. 776), otherwise known as the "Civil Aeronautics Act of the Philippines", and the regulations promulgated thereunder from time to time.
 
 ## Section 3
 

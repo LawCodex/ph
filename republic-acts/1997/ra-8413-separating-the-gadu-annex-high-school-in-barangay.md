@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Gadu Annex High School in Barangay Sampaguita, Municipality of Solana, Province of Cagayan shall, under the supervision of the Department of Education, Culture and Sports, be separated from the Gadu High School, in the same municipality and converted into an independent national high school, to be known as Sampaguita National High School.1aшphi1
+The Gadu Annex High School in Barangay Sampaguita, Municipality of Solana, Province of Cagayan shall, under the supervision of the Department of Education, Culture and Sports, be separated from the Gadu High School, in the same municipality and converted into an independent national high school, to be known as Sampaguita National High School.
 
 ## Section 2
 

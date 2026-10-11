@@ -74,7 +74,7 @@ The Secretary of Health or heads of other departments of the Government which em
 
 ## Section 4
 
-A nurse with professional qualifications higher than the standards required for the position to which she is appointed shall be given a higher rate of entrance salary than a nurse who merely meets the standards, provided she has passed the Board Examination for Nurses and possesses the necessary civil service eligibility.1a⍵⍴h!1
+A nurse with professional qualifications higher than the standards required for the position to which she is appointed shall be given a higher rate of entrance salary than a nurse who merely meets the standards, provided she has passed the Board Examination for Nurses and possesses the necessary civil service eligibility.
 
 ## Section 5
 

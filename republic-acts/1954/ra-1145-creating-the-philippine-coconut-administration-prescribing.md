@@ -88,7 +88,7 @@ _Administrative powers and duties of the Board of Administrators._ -The board of
 
 (d) To carry on the business of the PHILCOA as provided by law; and
 
-(e) To perform such other duties as may be assigned to it by the President of the Philippines.(awÞhi(
+(e) To perform such other duties as may be assigned to it by the President of the Philippines.
 
 ### Section 8
 
@@ -142,7 +142,7 @@ The functions of the Bureau of Commerce under Commerce Administrative Order Numb
 
 ### Section 16
 
-The Audit General shall appoint a representative who shall be the Auditor of the PHILCOA.1âшphi1 The number and salaries of the Auditor and such personnel as may be needed to assist him shall be determined by the Auditor General with the consent of the Board of Administrators. In case of disagreement, the matter shall be submitted to the President of the Philippines whose decision shall be final. Said salaries and other expenses of maintaining the Auditor’s office shall be paid by the PHILCOA.
+The Audit General shall appoint a representative who shall be the Auditor of the PHILCOA. The number and salaries of the Auditor and such personnel as may be needed to assist him shall be determined by the Auditor General with the consent of the Board of Administrators. In case of disagreement, the matter shall be submitted to the President of the Philippines whose decision shall be final. Said salaries and other expenses of maintaining the Auditor’s office shall be paid by the PHILCOA.
 
 ## Chapter IX — Miscellaneous Provisions
 

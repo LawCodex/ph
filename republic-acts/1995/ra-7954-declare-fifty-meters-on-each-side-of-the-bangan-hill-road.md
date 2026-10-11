@@ -48,7 +48,7 @@ Appropriations. - The amount necessary to carry out the provisions of this Act s
 
 ## Section 6
 
-_Repealing Clause._ \- All laws, orders, issuances, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.1aшphi1
+_Repealing Clause._ \- All laws, orders, issuances, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 7
 

@@ -24,11 +24,17 @@ AN ACT TO ESTABLISH NEW RATES OF BASE PAY OF MILITARY AND CIVILIAN PERSONNEL OF 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** — This Act shall be known as the **"_DND-AFP Base Pay Law of 1987._ "**
+## Section 1
 
-**Section 2._Coverage._** — This Act shall apply to all military personnel of the Armed Forces of the Philippines in the active service as well as any civilian employee covered under Section 4 hereof. Whenever grades are mentioned in this Act, the same shall mean also the equivalent Navy grades.
+_Title._ — This Act shall be known as the **"_DND-AFP Base Pay Law of 1987._ "**
 
-**Section 3._Pay Scale._** — The monthly base pay of the military personnel of the Armed Forces of the Philippines in the active service shall be as follows:
+## Section 2
+
+_Coverage._ — This Act shall apply to all military personnel of the Armed Forces of the Philippines in the active service as well as any civilian employee covered under Section 4 hereof. Whenever grades are mentioned in this Act, the same shall mean also the equivalent Navy grades.
+
+## Section 3
+
+_Pay Scale._ — The monthly base pay of the military personnel of the Armed Forces of the Philippines in the active service shall be as follows:
 
 | Grades | Monthly Basic Pay |
 |---|---|
@@ -56,10 +62,16 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 | Second Class Trainee | 700.00 |
 | Third Class Trainee | 600.00 |
 
-**Section 4._Civilian Employees._** — Effective January 1, 1988, all regular and permanent civilian employees of the Department of National Defense and the Armed Forces of the Philippines shall have a minimum base pay of one thousand pesos a month, subject to the rationalized compensation and position classification plan of the national government as may be established pursuant to the studies being conducted by the Department of Budget and Management which should be completed not later than March 31, 1988.
+## Section 4
 
-**Section 5._Funding Sources._** — The base pay adjustments authorized in this Act shall be funded from the Compensation and Organization Adjustment Fund, the Contingent Fund, and other savings under Executive Order No. 87, otherwise known as the General Appropriations Act for Fiscal Year 1987, or from any unappropriated funds of the National Treasury: provided, that the corresponding amount for the new salary rates will be included in the annual General Appropriations act for the AFP Budget for the succeeding years.
+_Civilian Employees._ — Effective January 1, 1988, all regular and permanent civilian employees of the Department of National Defense and the Armed Forces of the Philippines shall have a minimum base pay of one thousand pesos a month, subject to the rationalized compensation and position classification plan of the national government as may be established pursuant to the studies being conducted by the Department of Budget and Management which should be completed not later than March 31, 1988.
 
-**Section 6._Effectivity._** — Any law executive order, or presidential decree to the contrary notwithstanding, this Act except as provided in Section 4 hereof shall take effect on December 1, 1987, after publication thereof in at least two newspapers of general circulation.
+## Section 5
+
+_Funding Sources._ — The base pay adjustments authorized in this Act shall be funded from the Compensation and Organization Adjustment Fund, the Contingent Fund, and other savings under Executive Order No. 87, otherwise known as the General Appropriations Act for Fiscal Year 1987, or from any unappropriated funds of the National Treasury: provided, that the corresponding amount for the new salary rates will be included in the annual General Appropriations act for the AFP Budget for the succeeding years.
+
+## Section 6
+
+_Effectivity._ — Any law executive order, or presidential decree to the contrary notwithstanding, this Act except as provided in Section 4 hereof shall take effect on December 1, 1987, after publication thereof in at least two newspapers of general circulation.
 
 Approved: **November 26, 1987.**

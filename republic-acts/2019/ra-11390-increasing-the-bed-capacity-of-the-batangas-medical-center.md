@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The authorized bed capacity of the Batangas Medical Center (BatMC) in Batangas City, Province of Batangas is hereby increased from five hundred (500) beds to one thousand (1,000) beds.1âшphi1 The Secretary of Health shall implement the increase in bed capacity of the BatMC consistent with the five (5)-year development plan of the hospital.
+The authorized bed capacity of the Batangas Medical Center (BatMC) in Batangas City, Province of Batangas is hereby increased from five hundred (500) beds to one thousand (1,000) beds. The Secretary of Health shall implement the increase in bed capacity of the BatMC consistent with the five (5)-year development plan of the hospital.
 
 ## Section 2
 

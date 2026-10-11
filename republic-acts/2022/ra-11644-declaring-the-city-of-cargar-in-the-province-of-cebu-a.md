@@ -40,7 +40,7 @@ Toward this end, the promotion and preservation of the cultural and historical l
 
 ## Section 3
 
-The City of Carcar in the Province of Cebu is hereby declared a heritage zone as defined in Article II, Section 3(q) of Republic Act No. 10066, otherwise known as the “National Cultural Heritage Act of 2009”. As such, it shall be accorded priority development by the Department of Tourism (DOT), in coordination with the Provincial Government of Cebu, the City Government of Carcar, the National Commission for Culture and the Arts (NCCA) and its affiliated cultural agencies, and other concerned agencies of the government, and shall be subject to the rules and regulations governing the conservation and preservation of heritage zones.1aшphi1
+The City of Carcar in the Province of Cebu is hereby declared a heritage zone as defined in Article II, Section 3(q) of Republic Act No. 10066, otherwise known as the “National Cultural Heritage Act of 2009”. As such, it shall be accorded priority development by the Department of Tourism (DOT), in coordination with the Provincial Government of Cebu, the City Government of Carcar, the National Commission for Culture and the Arts (NCCA) and its affiliated cultural agencies, and other concerned agencies of the government, and shall be subject to the rules and regulations governing the conservation and preservation of heritage zones.
 
 ## Section 4
 

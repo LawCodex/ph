@@ -82,7 +82,7 @@ _Repealability and Nonexclusivity Clause._ \- This franchise shall be subject to
 
 ## Section 14
 
-_Reportorial Requirement._ \- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of the franchise and on its operations within sixty (60) days from the end of every year.1aшphi1
+_Reportorial Requirement._ \- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of the franchise and on its operations within sixty (60) days from the end of every year.
 
 ## Section 15
 

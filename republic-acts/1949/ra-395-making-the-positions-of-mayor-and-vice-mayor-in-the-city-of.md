@@ -29,6 +29,6 @@ The positions of mayor and vice-mayor of the City of Bacolod shall be elective, 
 
 ## Section 2
 
-This Act shall take effect on the next regular election for provincial and city officials.1âшphi1 All provisions of Commonwealth Act Numbered Three hundred and twenty-six as amended, known as the Charter of the City of Bacolod, inconsistent with the provisions of this Act, are hereby repealed.
+This Act shall take effect on the next regular election for provincial and city officials. All provisions of Commonwealth Act Numbered Three hundred and twenty-six as amended, known as the Charter of the City of Bacolod, inconsistent with the provisions of this Act, are hereby repealed.
 
 Approved: June 18, 1949.

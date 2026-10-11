@@ -38,7 +38,7 @@ The Secretary of Public Works and Highways shall include in the Department’s p
 
 ## Section 3
 
-_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in two (2) newspapers of general circulation.1âwphi1
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in two (2) newspapers of general circulation.
 
 Approved,
 

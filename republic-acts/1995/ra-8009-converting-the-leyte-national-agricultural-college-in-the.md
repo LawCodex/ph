@@ -40,7 +40,7 @@ It shall grant proficiency certificates in non-degree courses and diplomas to de
 
 ## Section 4
 
-The College shall be under the direct supervision of the Commission on Higher Education and shall be headed by a vocational college superintendent.1aшphi1
+The College shall be under the direct supervision of the Commission on Higher Education and shall be headed by a vocational college superintendent.
 
 ## Section 5
 

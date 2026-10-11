@@ -52,7 +52,7 @@ The grantee, its successors or assigns, shall hold the national, provincial city
 
 ## Section 8
 
-The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1âшphi1
+The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 9
 

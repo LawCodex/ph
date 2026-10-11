@@ -29,7 +29,7 @@ There shall be established under the supervision of the Commissioner of Fisherie
 
 ## Section 2
 
-The sum of fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-five.1âшphi1 Thereafter, the sum of thirty thousand pesos for the operation and maintenance of the said project shall be included in the annual General Appropriations Act.
+The sum of fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-five. Thereafter, the sum of thirty thousand pesos for the operation and maintenance of the said project shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

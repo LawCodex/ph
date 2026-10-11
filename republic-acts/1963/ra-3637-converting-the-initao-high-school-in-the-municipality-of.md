@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Initao High School in the Municipality of Initao, Province of Misamis Oriental, is hereby converted into a national school of fisheries to be known as the Misamis Oriental School of Fisheries.1âшphi1
+The Initao High School in the Municipality of Initao, Province of Misamis Oriental, is hereby converted into a national school of fisheries to be known as the Misamis Oriental School of Fisheries.
 
 ## Section 2
 

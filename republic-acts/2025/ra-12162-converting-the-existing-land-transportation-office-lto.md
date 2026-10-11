@@ -29,7 +29,7 @@ The existing Land Transportation Office (LTO) extension office in the Municipali
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO District Office in the Municipality of San Miguel, Second District, Province of Iloilo, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the regular LTO District Office in the Municipality of San Miguel, Second District, Province of Iloilo, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

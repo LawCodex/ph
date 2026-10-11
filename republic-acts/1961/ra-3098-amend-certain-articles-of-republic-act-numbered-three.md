@@ -140,7 +140,7 @@ Article one hundred four of the same Act is hereby amended to read as follows:
 
 Article one hundred ten of the same Act is hereby amended to read as follows:
 
-"Art. 110. _Rules and regulations regarding conservation of petroleum._ -Rules and regulations may be issued which shall require concessionaires to utilize in their exploration and exploitation operations the latest and most improved methods and devices to prevent waste in petroleum as well as to prevent oil, oil-field brine or other oil-field contamination from causing pollution or otherwise damaging streams, surface or underground water supply, and valuable mineral deposits.1awp++i1 The Secretary of Agriculture and Natural Resources may also issue orders which shall control the rate of production from any well in the interest of conservation of the petroleum resources so as to prevent waste, as elsewhere defined in this Act."
+"Art. 110. _Rules and regulations regarding conservation of petroleum._ -Rules and regulations may be issued which shall require concessionaires to utilize in their exploration and exploitation operations the latest and most improved methods and devices to prevent waste in petroleum as well as to prevent oil, oil-field brine or other oil-field contamination from causing pollution or otherwise damaging streams, surface or underground water supply, and valuable mineral deposits. The Secretary of Agriculture and Natural Resources may also issue orders which shall control the rate of production from any well in the interest of conservation of the petroleum resources so as to prevent waste, as elsewhere defined in this Act."
 
 ## Section 17
 

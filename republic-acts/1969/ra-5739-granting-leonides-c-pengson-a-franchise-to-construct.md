@@ -57,7 +57,7 @@ This franchise is granted subject to the provisions of Commonwealth Act Numbered
 
 ## Section 9
 
-In consideration of this franchise, the grantee shall pay a tax equivalent to five per cent (5%) of his gross income.1a⍵⍴h!1
+In consideration of this franchise, the grantee shall pay a tax equivalent to five per cent (5%) of his gross income.
 
 ## Section 10
 

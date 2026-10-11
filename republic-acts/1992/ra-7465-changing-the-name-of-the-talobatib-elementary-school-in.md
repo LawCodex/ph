@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Talobatib Elementary School in Barangay Talobatib, Municipality of Labo, Province of Camarines Norte, is hereby changed to Mababang Paaralan ng Claudio Villagen.1âшphi1
+The name of the Talobatib Elementary School in Barangay Talobatib, Municipality of Labo, Province of Camarines Norte, is hereby changed to Mababang Paaralan ng Claudio Villagen.
 
 ## Section 2
 

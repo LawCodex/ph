@@ -446,7 +446,7 @@ a. Electric plants with total installed generating capacity of any size and empl
 
 b. Industrial plants or factories, commercial establishments, or institutional buildings having a connected Kva load of any size and employing voltages of any standard rating - one (1) professional electrical engineer or one (1) registered electrical engineer. However, for connected loads up to five hundred kilovolt-amperes (500 Kva) and employing voltages up to six hundred volts (600 V) -one (1) registered master electrician;
 
-c. Watercrafts or electric locomotives with installed generating capacity up to the maximum size and voltage available for these units - one (1) professional electrital engineer or one (1) registered electrical engineer.1aшphi1 However, for generating capacities up to five hundred kilovolt-amperes/kilowatt (500 Kva/Kw) and employing voltages up to six hundred volts (600 V) - one (1) registered master electrician.
+c. Watercrafts or electric locomotives with installed generating capacity up to the maximum size and voltage available for these units - one (1) professional electrital engineer or one (1) registered electrical engineer. However, for generating capacities up to five hundred kilovolt-amperes/kilowatt (500 Kva/Kw) and employing voltages up to six hundred volts (600 V) - one (1) registered master electrician.
 
 _Provided, however,_ that in all the aforementioned cases, additional qualified personnel shall be employed to ensure safe operation and safeguard public welfare, life and property: _Provided, further,_ that when the operation requires more than one shift of personnel every twenty-four (24) hours, the minimum complement of qualified personnel shall be employed in each shift.
 

@@ -22,31 +22,49 @@ THE JUDICIARY ACT OF 1948
 
 ## CHAPTER I — General Provisions
 
-**Section 1._Title of Act._** \- This Act shall be known as the **Judiciary Act of 1948**.
+### Section 1
 
-**Section 2._Supreme Court, Court of Appeals and other courts._** \- The courts referred to in this Act are the Supreme Court, the Court of Appeals, the Courts of First Instance, the Municipal Courts and the Justice of the Peace Courts.
+_Title of Act._ \- This Act shall be known as the **Judiciary Act of 1948**.
 
-**Section 3._Special provision in oath of judges._** \- The oath of office of judges, including justices of the peace and judges of municipal courts, shall contain, in addition to the matters prescribed in section twenty-three of the Revised Administrative Code, a declaration to the effect that the affiant will administer justice without respect to person and do equal right to the poor and the rich.
+### Section 2
+
+_Supreme Court, Court of Appeals and other courts._ \- The courts referred to in this Act are the Supreme Court, the Court of Appeals, the Courts of First Instance, the Municipal Courts and the Justice of the Peace Courts.
+
+### Section 3
+
+_Special provision in oath of judges._ \- The oath of office of judges, including justices of the peace and judges of municipal courts, shall contain, in addition to the matters prescribed in section twenty-three of the Revised Administrative Code, a declaration to the effect that the affiant will administer justice without respect to person and do equal right to the poor and the rich.
 
 The oath of office of the justice of the peace and judge of a municipal court shall be the same in substance as that prescribed for a judge of first instance. Said oath shall be filed with the clerk of Court of First Instance in the province or city, as the case may be, and shall be there preserved.
 
-**Section 4._Preservation of oath of office of judge._** \- The oath of office of a judge shall be filed with the clerk of the court to which the affiant pertains and shall be entered upon its records. Where a judge is authorized by law to exercise his functions in more than one court, it shall suffice if his oath is recorded in the court where he has his official station.
+### Section 4
 
-**Section 5._Judge's certificate as to work completed._** \- District judges, judges-at-large, cadastral judges, judges of municipal courts, and justices of the peace shall certify on their applications for leave, and upon salary vouchers presented by them for payment, or upon the pay rolls upon which their salaries are paid, that all special proceedings, applications, petitions, motions, and all civil and criminal cases which have been under submission for decision or determination for a period of ninety days or more have been determined and decided on or before the date of making the certificate, and no leave shall be granted and no salary shall be paid without such certificate.
+_Preservation of oath of office of judge._ \- The oath of office of a judge shall be filed with the clerk of the court to which the affiant pertains and shall be entered upon its records. Where a judge is authorized by law to exercise his functions in more than one court, it shall suffice if his oath is recorded in the court where he has his official station.
+
+### Section 5
+
+_Judge's certificate as to work completed._ \- District judges, judges-at-large, cadastral judges, judges of municipal courts, and justices of the peace shall certify on their applications for leave, and upon salary vouchers presented by them for payment, or upon the pay rolls upon which their salaries are paid, that all special proceedings, applications, petitions, motions, and all civil and criminal cases which have been under submission for decision or determination for a period of ninety days or more have been determined and decided on or before the date of making the certificate, and no leave shall be granted and no salary shall be paid without such certificate.
 
 In case any special proceeding, application, petition, motion, civil or criminal case is resubmitted upon the voluntary application or consent in writing of all the parties to the case, cause, or proceeding, and not otherwise, the ninety days herein prescribed within which a decision should be made shall begin to run from the date of such resubmission.
 
-**Section 6._Disposition of moneys paid into court._** \- All moneys accruing to the Government in the Supreme Court, in the Court of Appeals, and in the Courts of First Instance, including fees, fines, forfeitures, costs, or other miscellaneous receipts, and all trust or depository funds paid into such courts shall be received by the corresponding clerk of court, and, in the absence of special provision, shall be paid by him into the National Treasury to the credit of the proper account or fund and under such regulations as shall be prescribed by the Auditor General.
+### Section 6
+
+_Disposition of moneys paid into court._ \- All moneys accruing to the Government in the Supreme Court, in the Court of Appeals, and in the Courts of First Instance, including fees, fines, forfeitures, costs, or other miscellaneous receipts, and all trust or depository funds paid into such courts shall be received by the corresponding clerk of court, and, in the absence of special provision, shall be paid by him into the National Treasury to the credit of the proper account or fund and under such regulations as shall be prescribed by the Auditor General.
 
 A clerk shall not receive money belonging to private parties except where the same is paid to him or into court by authority of law.
 
-**Section 7._Disbursement of funds for judiciary establishment._** \- Except as otherwise specially provided, national funds available for the judiciary establishment shall be disbursed by the disbursing officer of the Bureau of Justice.
+### Section 7
 
-**Section 8._Annual report of clerks of courts._** \- The clerk of the Supreme Court, the clerk of the Court of Appeals, and all clerks of Courts of First Instance shall make annual reports to the Solicitor General, of such scope and in such form as shall be by the latter prescribed, concerning the business done in their respective courts during the year.
+_Disbursement of funds for judiciary establishment._ \- Except as otherwise specially provided, national funds available for the judiciary establishment shall be disbursed by the disbursing officer of the Bureau of Justice.
+
+### Section 8
+
+_Annual report of clerks of courts._ \- The clerk of the Supreme Court, the clerk of the Court of Appeals, and all clerks of Courts of First Instance shall make annual reports to the Solicitor General, of such scope and in such form as shall be by the latter prescribed, concerning the business done in their respective courts during the year.
 
 ## CHAPTER II — Supreme Court
 
-**Section 9._The Supreme Court; quorum of the Court; designation of Justices of the Court of Appeals and District Judges to sit in the Supreme Court; number of Justices necessary to reach a decision._** \- The Supreme Court of the Philippines shall consist of a Chief Justice and ten Associate Justices, which shall sit in banc in the hearing and determination of all cases within its jurisdiction. The presence of six Justices shall be necessary to constitute a quorum except when the judgment of the lower court imposes the death penalty, in which case the presence of eight Justices shall be necessary to constitute a quorum. In the absence of a quorum, the Court shall stand ipso facto adjourned until such time as the requisite number shall be present, and a memorandum showing this fact shall be inserted by the clerk in the minutes of the court.
+### Section 9
+
+_The Supreme Court; quorum of the Court; designation of Justices of the Court of Appeals and District Judges to sit in the Supreme Court; number of Justices necessary to reach a decision._ \- The Supreme Court of the Philippines shall consist of a Chief Justice and ten Associate Justices, which shall sit in banc in the hearing and determination of all cases within its jurisdiction. The presence of six Justices shall be necessary to constitute a quorum except when the judgment of the lower court imposes the death penalty, in which case the presence of eight Justices shall be necessary to constitute a quorum. In the absence of a quorum, the Court shall stand ipso facto adjourned until such time as the requisite number shall be present, and a memorandum showing this fact shall be inserted by the clerk in the minutes of the court.
 
 If on account of illness, absence, or incapacity upon any of the grounds mentioned in Section one, Rule One hundred and twenty-six of the Rules of Court, of any of the Justices of the Supreme Court, or whenever, by reason of temporary disability of any Justice thereof or vacancies occurring therein, the requisite number of Justices necessary to constitute a quorum or to render a judgment in any given case, as heretofore provided, is not present, the President of the Philippines, upon the recommendation of the Chief Justice, may designate such number of Justices of the Court of Appeals or District Judges as may be necessary, to sit temporarily as Justices of the Supreme Court, in order to form a quorum, or until a judgment in said case is reached: Provided, however, That no Justice of the Court of Appeals or District Judge may be designated to act in any case in the decision of which he has taken part.
 
@@ -54,27 +72,43 @@ The concurrence of at least six Justices of the Court shall be necessary for the
 
 Whenever the judgment of the lower court imposes the death penalty, the case shall be determined by eight Justices of the Court. When eight Justices fail to reach a decision as herein provided, the penalty next lower in degree than the death shall be imposed.
 
-**Section 10._Place of holding sessions._** \- The Supreme Court shall hold its sessions in the City of Manila. Whenever the public interest so requires, it may hold its sessions in any other place within the Philippines.
+### Section 10
 
-**Section 11._Appointment of Justices of the Supreme Court._** \- The Chief Justice and the Associate Justice of the Supreme Court shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments. The Chief Justice of the Supreme Court shall be so designated in his commission; and the Associate Justice shall have precedence according to the dates of their respective commissions, or, when the commissions of two or more of them bear the same date, according to the order in which their commissions may have been issued by the President of the Philippines: Provided, however, That any member of the Supreme Court who has been reappointed to that Court after rendering service in any other branch of the Government shall retain the precedence to which he is entitled under his original appointment and his service in the Court shall, to all intents and purposes, be considered as continuous and uninterrupted.
+_Place of holding sessions._ \- The Supreme Court shall hold its sessions in the City of Manila. Whenever the public interest so requires, it may hold its sessions in any other place within the Philippines.
 
-**Section 12._Vacancy in office of Chief Justice._** \- In case of a vacancy in the office of Chief Justice of the Supreme Court or of his inability to perform the duties and powers of his office, they shall devolve upon the Associate Justice who is first in precedence, until such disability is removed, or another Chief Justice is appointed and duly qualified. This provision shall apply to every Associate Justice who succeeds to the office of Chief Justice.
+### Section 11
 
-**Section 13._Authority of Supreme Court over administration of its own affairs._** \- The Supreme Court shall have exclusive administrative control of all matters affecting the internal operations of the Court.
+_Appointment of Justices of the Supreme Court._ \- The Chief Justice and the Associate Justice of the Supreme Court shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments. The Chief Justice of the Supreme Court shall be so designated in his commission; and the Associate Justice shall have precedence according to the dates of their respective commissions, or, when the commissions of two or more of them bear the same date, according to the order in which their commissions may have been issued by the President of the Philippines: Provided, however, That any member of the Supreme Court who has been reappointed to that Court after rendering service in any other branch of the Government shall retain the precedence to which he is entitled under his original appointment and his service in the Court shall, to all intents and purposes, be considered as continuous and uninterrupted.
 
-**Section 14._Status of subordinates._** \- Except as regards the appointment and compensation of the Reporter, Clerk, and such private secretaries to the individual Justices as the Court may authorize, all subordinates and employees of the Supreme Court shall be governed by the provisions of the Civil Service Law; but the Court may, by resolution, remove any of them for cause.
+### Section 12
 
-**Section 15._Clerk of the Supreme Court; his appointment; his compensation; his bond._** \- The Supreme Court of the Philippines shall appoint a Clerk of Court who shall exercise powers and perform duties in regard to all matters within its jurisdiction, as are heretofore exercised and performed by the Clerk of the Supreme Court of the Philippines; and in the exercise of those powers and in the performance of those duties the Clerk shall be under the direction of the Court. No person may be appointed Clerk of the Supreme Court unless he has been engaged for five years or more in the practice of law, or has been clerk or deputy clerk of a court of record for the same period of time.
+_Vacancy in office of Chief Justice._ \- In case of a vacancy in the office of Chief Justice of the Supreme Court or of his inability to perform the duties and powers of his office, they shall devolve upon the Associate Justice who is first in precedence, until such disability is removed, or another Chief Justice is appointed and duly qualified. This provision shall apply to every Associate Justice who succeeds to the office of Chief Justice.
+
+### Section 13
+
+_Authority of Supreme Court over administration of its own affairs._ \- The Supreme Court shall have exclusive administrative control of all matters affecting the internal operations of the Court.
+
+### Section 14
+
+_Status of subordinates._ \- Except as regards the appointment and compensation of the Reporter, Clerk, and such private secretaries to the individual Justices as the Court may authorize, all subordinates and employees of the Supreme Court shall be governed by the provisions of the Civil Service Law; but the Court may, by resolution, remove any of them for cause.
+
+### Section 15
+
+_Clerk of the Supreme Court; his appointment; his compensation; his bond._ \- The Supreme Court of the Philippines shall appoint a Clerk of Court who shall exercise powers and perform duties in regard to all matters within its jurisdiction, as are heretofore exercised and performed by the Clerk of the Supreme Court of the Philippines; and in the exercise of those powers and in the performance of those duties the Clerk shall be under the direction of the Court. No person may be appointed Clerk of the Supreme Court unless he has been engaged for five years or more in the practice of law, or has been clerk or deputy clerk of a court of record for the same period of time.
 
 The clerk shall have the rank of a bureau director and shall receive an annual compensation of seven thousand and two hundred pesos. Before entering upon the discharge of the duties of his office, he shall file a bond in the amount of six thousand pesos, such bond to be approved by the Treasurer of the Philippines. The bond shall be kept in the Office of the Treasurer of the Philippines and entered in his books, the same being subject to inspection by interested parties.
 
 The Clerk of Court may require any of his deputies or assistants to give an adequate bond as security against loss by reason of any wrongdoings or gross negligence on the part of such deputies or assistants.
 
-**Section 16._Vacation period._** \- The regular sessions of the Supreme Court may, in the discretion of the Court, be suspended for the period beginning with the first of April and closing with the fifteenth of June of each year, which, in case of such suspension, shall be known as the Supreme Court vacation.
+### Section 16
+
+_Vacation period._ \- The regular sessions of the Supreme Court may, in the discretion of the Court, be suspended for the period beginning with the first of April and closing with the fifteenth of June of each year, which, in case of such suspension, shall be known as the Supreme Court vacation.
 
 During vacation at least one of the Justices, to be designated in such manner as the Court by resolution shall direct, shall remain on duty.
 
-**Section 17._Jurisdiction of the Supreme Court._** \- The Supreme Court shall have original jurisdiction over cases affecting ambassadors, other public ministers, and consuls; and original and exclusive jurisdiction in petitions for the issuance of writs of certiorari, prohibition and mandamus against the Court of Appeals.
+### Section 17
+
+_Jurisdiction of the Supreme Court._ \- The Supreme Court shall have original jurisdiction over cases affecting ambassadors, other public ministers, and consuls; and original and exclusive jurisdiction in petitions for the issuance of writs of certiorari, prohibition and mandamus against the Court of Appeals.
 
 In the following cases, the Supreme Court shall exercise original and concurrent jurisdiction with Court of First Instance:
 
@@ -100,83 +134,137 @@ The Supreme Court shall have exclusive jurisdiction to review, revise, reverse, 
 
 (6) All other cases in which only errors or questions of law are involved.
 
-**Section 18._Regular terms of Supreme Court._** \- The Supreme Court shall hold at Manila two regular terms for the hearing of cases, the first commencing on the second Monday of January and the second on the last Monday of June. Each regular term shall continue to and include the day before the opening of the next regular term. The Office of the Clerk of the Supreme Court shall always be open for the transaction of business, except upon lawful holidays, and the Court shall always be open for the transaction of such interlocutory business as may be done by a single member thereof.
+### Section 18
+
+_Regular terms of Supreme Court._ \- The Supreme Court shall hold at Manila two regular terms for the hearing of cases, the first commencing on the second Monday of January and the second on the last Monday of June. Each regular term shall continue to and include the day before the opening of the next regular term. The Office of the Clerk of the Supreme Court shall always be open for the transaction of business, except upon lawful holidays, and the Court shall always be open for the transaction of such interlocutory business as may be done by a single member thereof.
 
 The sessions of the Court for the hearing of cases shall be held on such days in the week, and for such length of time, as the Court by its rules may order.
 
-**Section 19._Preservation of order in Supreme Court._** \- The sheriff of the City of Manila or of the province where the Supreme Court may be in session shall, in person or by deputy, attend the sessions of the Supreme Court, enforce proper decorum in the court room, and preserve good order in its precincts. To this end he shall carry into effect the rules or orders of the Court made in this behalf, or of any judge thereof, and shall arrest any person there disturbing the court or violating the peace.
+### Section 19
 
-**Section 20._Service of process of Supreme Court._** \- Writs, processes, and orders of the Supreme Court, or of any justice thereof, shall be served or executed by the sheriff of the City of Manila or of the province where the Supreme Court may be in session, or by any officer having authority to execute the writs, processes, or orders of a Court of First Instance.
+_Preservation of order in Supreme Court._ \- The sheriff of the City of Manila or of the province where the Supreme Court may be in session shall, in person or by deputy, attend the sessions of the Supreme Court, enforce proper decorum in the court room, and preserve good order in its precincts. To this end he shall carry into effect the rules or orders of the Court made in this behalf, or of any judge thereof, and shall arrest any person there disturbing the court or violating the peace.
 
-**Section 21._Form of decisions_ \- _When opinion to be reported._** \- When a decision is rendered by the Supreme Court, a written opinion or memorandum exemplifying the ground and scope of the judgment of the court shall be filed with the Clerk of the Court and shall be by him recorded in an opinion book. When the Court shall deem a decision to be of sufficient importance to require publication, the Clerk shall furnish a certified copy thereof to the Reporter. Dissenting opinions shall be published when the justices writing such opinions shall so direct.
+### Section 20
 
-**Section 22._Preparation of opinions for publication._** \- The Reporter shall prepare and publish with each reported decision a concise synopsis of the facts necessary to a clear understanding of the case and shall state the names of counsel, and concisely the material and controverted points made, and the authority therein cited by them, and shall prefix to each case a syllabus, which shall be confined, as near as may be, to points of law decided by the Court on the facts of the case, without a recital therein of the facts.
+_Service of process of Supreme Court._ \- Writs, processes, and orders of the Supreme Court, or of any justice thereof, shall be served or executed by the sheriff of the City of Manila or of the province where the Supreme Court may be in session, or by any officer having authority to execute the writs, processes, or orders of a Court of First Instance.
 
-**Section 23._General make-up of volumes._** \- Each volume of the decisions of the Supreme Court shall contain a table of the cases reported and of the cases cited in the opinions and a full and alphabetical index of the subject matters of the volume prepared by the Reporter, shall contain not less than seven hundred and fifty pages of printed matter, shall be well printed, upon good paper, and well bound in the best law sheep substantially in the manner of the reports of the decisions of the Supreme Court of the United States, and shall be styled "Philippine Reports," and numbered consecutively, in the order of the volumes published.
+### Section 21
+
+_Form of decisions_ \- _When opinion to be reported._ \- When a decision is rendered by the Supreme Court, a written opinion or memorandum exemplifying the ground and scope of the judgment of the court shall be filed with the Clerk of the Court and shall be by him recorded in an opinion book. When the Court shall deem a decision to be of sufficient importance to require publication, the Clerk shall furnish a certified copy thereof to the Reporter. Dissenting opinions shall be published when the justices writing such opinions shall so direct.
+
+### Section 22
+
+_Preparation of opinions for publication._ \- The Reporter shall prepare and publish with each reported decision a concise synopsis of the facts necessary to a clear understanding of the case and shall state the names of counsel, and concisely the material and controverted points made, and the authority therein cited by them, and shall prefix to each case a syllabus, which shall be confined, as near as may be, to points of law decided by the Court on the facts of the case, without a recital therein of the facts.
+
+### Section 23
+
+_General make-up of volumes._ \- Each volume of the decisions of the Supreme Court shall contain a table of the cases reported and of the cases cited in the opinions and a full and alphabetical index of the subject matters of the volume prepared by the Reporter, shall contain not less than seven hundred and fifty pages of printed matter, shall be well printed, upon good paper, and well bound in the best law sheep substantially in the manner of the reports of the decisions of the Supreme Court of the United States, and shall be styled "Philippine Reports," and numbered consecutively, in the order of the volumes published.
 
 ## CHAPTER III — Court of Appeals
 
-**Section 24._The Court of Appeals._** \- The Court of Appeals of the Philippines shall consist of a Presiding Justice and fourteen Associate Justices who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress. The Presiding Justice of the Court of Appeals shall be so designated in his commission, and the other Justices of the Court shall have precedence according to the dates of their respective commissions, or when the commissions of two or more of them shall bear the same date, according to the order in which their commissions have been issued by the President of the Philippines.
+### Section 24
+
+_The Court of Appeals._ \- The Court of Appeals of the Philippines shall consist of a Presiding Justice and fourteen Associate Justices who shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments of the Congress. The Presiding Justice of the Court of Appeals shall be so designated in his commission, and the other Justices of the Court shall have precedence according to the dates of their respective commissions, or when the commissions of two or more of them shall bear the same date, according to the order in which their commissions have been issued by the President of the Philippines.
 
 The Presiding Justice and the Associate Justices of the Court of Appeals shall not be removed from office except on impeachment upon the grounds and in the manner provided for in Article IX of the Constitution.
 
 The Court of Appeals, shall, as a body, sit in banc, but it may sit in five divisions of three Justices each. The five divisions may sit at the same time.
 
-**Section 25._Presiding Justice to preside sessions of Court._** \- If the Presiding Justice is present in any session of the Court, whether in banc or in division, he shall preside. In his absence, the Associate Justice attending who is first in precedence in accordance with the preceding section of this Act, shall preside.
+### Section 25
 
-**Section 26._Vacancy in Office of Presiding Justice._** \- In case of a vacancy in the Office of Presiding Justice of the Court of Appeals, or in the event of his inability to perform the duties and powers of his office, they shall devolve upon the Associate Justice of the Court who is first in precedence, until such disability is removed, or another Presiding Justice is appointed and has qualified. This provision and the provision of the preceding section shall apply to every Associate Justice who succeeds to the office of the Presiding Justice.
+_Presiding Justice to preside sessions of Court._ \- If the Presiding Justice is present in any session of the Court, whether in banc or in division, he shall preside. In his absence, the Associate Justice attending who is first in precedence in accordance with the preceding section of this Act, shall preside.
 
-**Section 27._Designation of District Judges to sit in the Court of Appeals._** \- In case of vacancy in the office of any one of the Associate Justices of the Court of Appeals, or in the event that any one of said Associate Justices is absent, or disabled, or incapacitated for any reason, to perform the duties and powers of his office, the President of the Philippines, upon the recommendation of the Presiding Justice of the Court of Appeals, may designate a District Judge to sit temporarily in the Court of Appeals, until such disability is removed or the vacancy is permanently filled. However, no District Judge so appointed shall act in the Court of Appeals in any case in which his ruling or decision is the subject of review.
+### Section 26
 
-**Section 28._Qualifications and compensation of Justices of Court of Appeals._** \- The Justices of the Court of Appeals shall have the same qualifications as those provided in the Constitution for members of the Supreme Court. The Presiding Justice of the Court of Appeals shall receive an annual compensation of thirteen thousand pesos, and each Associate Justice, an annual compensation of twelve thousand pesos.
+_Vacancy in Office of Presiding Justice._ \- In case of a vacancy in the Office of Presiding Justice of the Court of Appeals, or in the event of his inability to perform the duties and powers of his office, they shall devolve upon the Associate Justice of the Court who is first in precedence, until such disability is removed, or another Presiding Justice is appointed and has qualified. This provision and the provision of the preceding section shall apply to every Associate Justice who succeeds to the office of the Presiding Justice.
 
-**Section 29._Jurisdiction of the Court of Appeals._** \- The Court of Appeals shall have exclusive appellate jurisdiction over all cases, actions, and proceedings not enumerated in section seventeen of this Act, properly brought to it from Courts of First Instance. The decision of the Court of Appeals in such cases shall be final: Provided, however, That the Supreme Court in its discretion may, in any case involving a question of law, upon petition of the party aggrieved by the decision and under rules and conditions that it may prescribe, require by certiorari that the said case be certified to it for review and determination, as if the case had been brought before it on appeal.
+### Section 27
 
-**Section 30._Original jurisdiction of the Court of Appeals._** \- The Court of Appeals shall have original jurisdiction to issue writs of mandamus, prohibition, injunction, certiorari, habeas corpus, and all other auxiliary writs and process in aid of its appellate jurisdiction.
+_Designation of District Judges to sit in the Court of Appeals._ \- In case of vacancy in the office of any one of the Associate Justices of the Court of Appeals, or in the event that any one of said Associate Justices is absent, or disabled, or incapacitated for any reason, to perform the duties and powers of his office, the President of the Philippines, upon the recommendation of the Presiding Justice of the Court of Appeals, may designate a District Judge to sit temporarily in the Court of Appeals, until such disability is removed or the vacancy is permanently filled. However, no District Judge so appointed shall act in the Court of Appeals in any case in which his ruling or decision is the subject of review.
 
-**Section 31._Transfer of cases from Supreme Court and Court of Appeals to proper court._** \- All cases which may be erroneously brought to the Supreme Court or to the Court of Appeals shall be sent to the proper court, which shall hear the same, as if it had originally been brought before it.
+### Section 28
 
-**Section 32._Place of holding sessions._** \- The Court of Appeals shall have its permanent office in the City of Manila. Upon the recommendation of the Secretary of Justice, with the certification of the Presiding Justice of the Court of Appeals and when public interest demands, the President of the Philippines may authorize any division or divisions of the Court to hold sessions periodically at such time and place outside the City of Manila as the President may determine, for the purpose of hearing and deciding cases originating from a specified group of judicial districts.
+_Qualifications and compensation of Justices of Court of Appeals._ \- The Justices of the Court of Appeals shall have the same qualifications as those provided in the Constitution for members of the Supreme Court. The Presiding Justice of the Court of Appeals shall receive an annual compensation of thirteen thousand pesos, and each Associate Justice, an annual compensation of twelve thousand pesos.
 
-**Section 33._Quorum of the Court._** \- Nine Justices of the Court of Appeals shall constitute a quorum for its sessions in banc; and three Justices shall constitute a quorum for the sessions of a division. In the absence of a quorum, the Court or the division shall stand ipso facto adjourned until such time as the requisite number shall be present, and a memorandum showing this fact shall be inserted by the clerk in the minutes of the Court. The affirmative vote of eight Justices is necessary to pass a resolution of the Court in banc. The unanimous vote of the three Justices of a division shall be necessary for the pronouncement of a judgment. In the event that the three Justices do not reach a unanimous vote, the Presiding Justice shall designate two Justices from among the other members of the Court to sit temporarily with them, forming a division of five Justices, and the concurrence of a majority of such division shall be necessary for the pronouncement of a judgment.
+### Section 29
+
+_Jurisdiction of the Court of Appeals._ \- The Court of Appeals shall have exclusive appellate jurisdiction over all cases, actions, and proceedings not enumerated in section seventeen of this Act, properly brought to it from Courts of First Instance. The decision of the Court of Appeals in such cases shall be final: Provided, however, That the Supreme Court in its discretion may, in any case involving a question of law, upon petition of the party aggrieved by the decision and under rules and conditions that it may prescribe, require by certiorari that the said case be certified to it for review and determination, as if the case had been brought before it on appeal.
+
+### Section 30
+
+_Original jurisdiction of the Court of Appeals._ \- The Court of Appeals shall have original jurisdiction to issue writs of mandamus, prohibition, injunction, certiorari, habeas corpus, and all other auxiliary writs and process in aid of its appellate jurisdiction.
+
+### Section 31
+
+_Transfer of cases from Supreme Court and Court of Appeals to proper court._ \- All cases which may be erroneously brought to the Supreme Court or to the Court of Appeals shall be sent to the proper court, which shall hear the same, as if it had originally been brought before it.
+
+### Section 32
+
+_Place of holding sessions._ \- The Court of Appeals shall have its permanent office in the City of Manila. Upon the recommendation of the Secretary of Justice, with the certification of the Presiding Justice of the Court of Appeals and when public interest demands, the President of the Philippines may authorize any division or divisions of the Court to hold sessions periodically at such time and place outside the City of Manila as the President may determine, for the purpose of hearing and deciding cases originating from a specified group of judicial districts.
+
+### Section 33
+
+_Quorum of the Court._ \- Nine Justices of the Court of Appeals shall constitute a quorum for its sessions in banc; and three Justices shall constitute a quorum for the sessions of a division. In the absence of a quorum, the Court or the division shall stand ipso facto adjourned until such time as the requisite number shall be present, and a memorandum showing this fact shall be inserted by the clerk in the minutes of the Court. The affirmative vote of eight Justices is necessary to pass a resolution of the Court in banc. The unanimous vote of the three Justices of a division shall be necessary for the pronouncement of a judgment. In the event that the three Justices do not reach a unanimous vote, the Presiding Justice shall designate two Justices from among the other members of the Court to sit temporarily with them, forming a division of five Justices, and the concurrence of a majority of such division shall be necessary for the pronouncement of a judgment.
 
 Every decision of the Court of Appeals shall continue complete findings of fact on all issues properly raised before it.
 
 All cases submitted to a division of the Court of Appeals for decision shall be decided or terminated therein within the term in which they were heard and submitted for decision: Provided, however, That when a case is complicated or otherwise attended with special circumstances which demand additional time for its study or consideration, the Court of Appeals, sitting in banc, may, upon petition of the division concerned, grant an additional period not exceeding three months for its disposition or termination.
 
-**Section 34._Distribution of cases between divisions._** \- All the cases of the Court of Appeals shall be allotted between the different divisions thereof for trial and decision. Whenever in any criminal case submitted to a division the said division should be of the opinion that the penalty of death or life imprisonment should be imposed, the said Court shall refrain from entering judgment thereon and shall forthwith certify the case to the Supreme Court for final determination, as if the case had been brought before it on appeal.
+### Section 34
 
-**Section 35._Power of the Court to adopt rules._** \- The Court of Appeals, sitting in banc, shall make proper orders or rules to govern the allotment of cases between the different divisions, the constitution of such divisions, the regular rotation of Justices between them, the filing of vacancies occurring therein, and other matters relating to the business of the Court; and these rules shall continue in force until repealed or altered by it or by the Supreme Court.
+_Distribution of cases between divisions._ \- All the cases of the Court of Appeals shall be allotted between the different divisions thereof for trial and decision. Whenever in any criminal case submitted to a division the said division should be of the opinion that the penalty of death or life imprisonment should be imposed, the said Court shall refrain from entering judgment thereon and shall forthwith certify the case to the Supreme Court for final determination, as if the case had been brought before it on appeal.
 
-**Section 36._Clerk of the Court of Appeals; his appointment; his compensation; his bond._** \- The Court of Appeals shall appoint a clerk of court, who shall exercise the same powers and perform the same duties in regard to all matters within its jurisdiction, as are exercised and performed by the clerk of the Supreme Court of the Philippines, insofar as the same may be applicable; and in the exercise of those powers and in the performance of those duties, the clerk shall be under the direction of the Court. No person may be appointed clerk of the Court of Appeals unless he has been engaged for five years or more in the practice of law, or has been clerk or deputy clerk of a court of record for the same period of time.
+### Section 35
+
+_Power of the Court to adopt rules._ \- The Court of Appeals, sitting in banc, shall make proper orders or rules to govern the allotment of cases between the different divisions, the constitution of such divisions, the regular rotation of Justices between them, the filing of vacancies occurring therein, and other matters relating to the business of the Court; and these rules shall continue in force until repealed or altered by it or by the Supreme Court.
+
+### Section 36
+
+_Clerk of the Court of Appeals; his appointment; his compensation; his bond._ \- The Court of Appeals shall appoint a clerk of court, who shall exercise the same powers and perform the same duties in regard to all matters within its jurisdiction, as are exercised and performed by the clerk of the Supreme Court of the Philippines, insofar as the same may be applicable; and in the exercise of those powers and in the performance of those duties, the clerk shall be under the direction of the Court. No person may be appointed clerk of the Court of Appeals unless he has been engaged for five years or more in the practice of law, or has been clerk or deputy clerk of a court of record for the same period of time.
 
 The clerk shall have the rank of a Bureau Director and shall receive an annual compensation of seven thousand two hundred pesos. Before entering upon the discharge of the duties of his office, he shall file a bond in the amount of six thousand pesos in the same manner and form as required of the clerk of the Supreme Court, such bond to be approved by the Treasurer of the Philippines. The bond shall be kept in the office of the Treasurer of the Philippines and entered in his books, the same being subject to inspection by interested parties.
 
 The clerk of court may require any of his deputies or assistants to give an adequate bond as security against loss by reason of any wrongdoing or gross negligence on the part of such deputy or assistant.
 
-**Section 37._Appointment by Court of Appeals of deputy clerks of Court and other officers._** \- The Court may appoint five deputy clerks of court, who shall have the same qualifications as those of the clerk of Court of Appeals, with an annual compensation of four thousand five hundred pesos for the first deputy, and three thousand nine hundred pesos and sixty for the other deputy clerks each, and other officers in such number and with such compensation as may be hereafter authorized.
+### Section 37
 
-**Section 38._Applicability of certain provisions of the Revised Administrative Code to Court of Appeals._** \- The provisions of sections ten, thirteen, fourteen, fifteen, seventeen, eighteen, nineteen, twenty-one, twenty-two, and sixty-six of this Act, and eighty-nine of the Revised Administrative Code, shall be applicable to the Court of Appeals, in so far as they may be of possible application.
+_Appointment by Court of Appeals of deputy clerks of Court and other officers._ \- The Court may appoint five deputy clerks of court, who shall have the same qualifications as those of the clerk of Court of Appeals, with an annual compensation of four thousand five hundred pesos for the first deputy, and three thousand nine hundred pesos and sixty for the other deputy clerks each, and other officers in such number and with such compensation as may be hereafter authorized.
+
+### Section 38
+
+_Applicability of certain provisions of the Revised Administrative Code to Court of Appeals._ \- The provisions of sections ten, thirteen, fourteen, fifteen, seventeen, eighteen, nineteen, twenty-one, twenty-two, and sixty-six of this Act, and eighty-nine of the Revised Administrative Code, shall be applicable to the Court of Appeals, in so far as they may be of possible application.
 
 ## CHAPTER IV — Courts of First Instance
 
-**Section 39._Courts of First Instance._** \- Courts of general original jurisdiction, known as Courts of First Instance, are organized and established throughout the Philippines in conformity with the provisions of this chapter.
+### Section 39
 
-**Section 40._Judges of First Instance._** \- The judicial function in Courts of First Instance shall be vested in District Judges, Judges-at-Large and Cadastral Judges, to be appointed and commissioned as hereinafter provided.
+_Courts of First Instance._ \- Courts of general original jurisdiction, known as Courts of First Instance, are organized and established throughout the Philippines in conformity with the provisions of this chapter.
 
-**Section 41._Limitation upon tenure of office._** \- District Judges, Judges-at-Large and Cadastral Judges shall be appointed to serve during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office, unless sooner removed in accordance with law.
+### Section 40
 
-**Section 42._Qualification and salary._** \- No person shall be appointed District Judge, Judge-at-Large and Cadastral Judge unless he has been five years a citizen of the Philippines and has practised law in the Philippines for a period of not less than five years or has held during a like period, within the Philippines, an office requiring admission to the practice of law in the Philippines as an indispensable requisite.
+_Judges of First Instance._ \- The judicial function in Courts of First Instance shall be vested in District Judges, Judges-at-Large and Cadastral Judges, to be appointed and commissioned as hereinafter provided.
+
+### Section 41
+
+_Limitation upon tenure of office._ \- District Judges, Judges-at-Large and Cadastral Judges shall be appointed to serve during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office, unless sooner removed in accordance with law.
+
+### Section 42
+
+_Qualification and salary._ \- No person shall be appointed District Judge, Judge-at-Large and Cadastral Judge unless he has been five years a citizen of the Philippines and has practised law in the Philippines for a period of not less than five years or has held during a like period, within the Philippines, an office requiring admission to the practice of law in the Philippines as an indispensable requisite.
 
 The District Judge shall receive a compensation at the rate of ten thousand pesos per annum, Judge-at-Large, at the rate of nine thousand pesos per annum, and Cadastral Judge, at the rate of eight thousand four hundred pesos per annum.
 
-**Section 43._Jurisdiction of Courts of First Instance._** \- The jurisdiction of the Courts of First Instance shall be of two kinds:
+### Section 43
+
+_Jurisdiction of Courts of First Instance._ \- The jurisdiction of the Courts of First Instance shall be of two kinds:
 
 (a) Original, and
 
 (b) Appellate.
 
-**Section 44._Original jurisdiction._** \- Courts of First Instance shall have original jurisdiction:
+### Section 44
+
+_Original jurisdiction._ \- Courts of First Instance shall have original jurisdiction:
 
 (a) In all civil actions in which the subject of the litigation is not capable of pecuniary estimation;
 
@@ -194,19 +282,29 @@ The District Judge shall receive a compensation at the rate of ten thousand peso
 
 (h) Said courts and their judges, or any of them, shall have the power to issue writs of injunction, mandamus, certiorari, prohibition, quo warranto and habeas corpus in their respective provinces and districts, in the manner provided in the Rules of Court.
 
-**Section 45._Appellate jurisdiction._** \- Courts of First Instance shall have appellate jurisdiction over all cases arising in municipal and justice of the peace courts, in their respective provinces.
+### Section 45
 
-**Section 46._Clerks and other subordinate employees of Courts of First Instance._** \- Clerks, deputy clerks, assistants, and other subordinate employees of Courts of First Instance shall, for administrative purposes, belong to the Department of Justice; but in the performance of their duties they shall be subject to the supervision of the Judges of the courts to which they respectively pertain.
+_Appellate jurisdiction._ \- Courts of First Instance shall have appellate jurisdiction over all cases arising in municipal and justice of the peace courts, in their respective provinces.
+
+### Section 46
+
+_Clerks and other subordinate employees of Courts of First Instance._ \- Clerks, deputy clerks, assistants, and other subordinate employees of Courts of First Instance shall, for administrative purposes, belong to the Department of Justice; but in the performance of their duties they shall be subject to the supervision of the Judges of the courts to which they respectively pertain.
 
 The clerks of Courts of First Instance shall be appointed by the President of the Philippines with the consent of the Commission on Appointments. No person shall be appointed clerk of court unless he is duly authorized to practice law in the Philippines: Provided, however, That this requirement shall not affect persons who, at the date of the approval of this Act, are holding the position of clerk of court, nor those who have previously qualified in the Civil Service examination for said position;
 
 The clerk of a Court of First Instance may, by special written deputization approved by the judge, authorize any suitable person to act as his special deputy and in such capacity to perform such functions as may be specified in the authority granted.
 
-**Section 47._Permanent station of clerk of court._** \- The permanent station of a clerk of court shall be at the provincial capital or at the permanent residence of the District Judge presiding in the court.
+### Section 47
 
-**Section 48._Provincial officer as ex-officio clerk of court._** \- When the Secretary of Justice shall deem such action advisable, he may direct that the duties of the clerk of court shall be performed by a provincial officer or employee as ex-officio clerk of court, in which case the salary of said employee or officer as clerk of court, ex-officio, shall be fixed by the provincial board and shall be equitably distributed by said board with the approval of the Secretary of Justice between the national government and the provincial government.
+_Permanent station of clerk of court._ \- The permanent station of a clerk of court shall be at the provincial capital or at the permanent residence of the District Judge presiding in the court.
 
-**Section 49._Judicial districts._** \- Judicial districts for Courts of First Instance in the Philippines are constituted as follows:
+### Section 48
+
+_Provincial officer as ex-officio clerk of court._ \- When the Secretary of Justice shall deem such action advisable, he may direct that the duties of the clerk of court shall be performed by a provincial officer or employee as ex-officio clerk of court, in which case the salary of said employee or officer as clerk of court, ex-officio, shall be fixed by the provincial board and shall be equitably distributed by said board with the approval of the Secretary of Justice between the national government and the provincial government.
+
+### Section 49
+
+_Judicial districts._ \- Judicial districts for Courts of First Instance in the Philippines are constituted as follows:
 
 The First Judicial District shall consist of the Provinces of Cagayan, Batanes, Isabela, and Nueva Vizcaya, and the Subprovince of Ifugao;
 
@@ -240,7 +338,9 @@ The Fifteenth Judicial District, of the Provinces of Surigao, Agusan, Oriental M
 
 The Sixteenth Judicial District, of the Province of Davao, the City of Davao, the Provinces of Cotabato and Occidental Misamis, the Province of Zamboanga and Zamboanga City, and the Province of Sulu.
 
-**Section 50._Judges of First Instance for Judicial Districts._** \- Four judges shall be commissioned for the First Judicial District. Two judges shall preside over the Courts of First Instance of Cagayan and Batanes, and shall be known as judges of the first and second branches thereof, respectively, the judge of the second branch to preside also over the Court of First Instance of Batanes; one judge shall preside over the Court of First Instance of Isabela; and one judge shall preside over the Court of First Instance of Nueva Vizcaya and the Subprovince of Ifugao.
+### Section 50
+
+_Judges of First Instance for Judicial Districts._ \- Four judges shall be commissioned for the First Judicial District. Two judges shall preside over the Courts of First Instance of Cagayan and Batanes, and shall be known as judges of the first and second branches thereof, respectively, the judge of the second branch to preside also over the Court of First Instance of Batanes; one judge shall preside over the Court of First Instance of Isabela; and one judge shall preside over the Court of First Instance of Nueva Vizcaya and the Subprovince of Ifugao.
 
 Four judges shall be commissioned for the Second Judicial District. One judge shall preside over the Court of First Instance of Ilocos Norte; one judge shall preside over the Courts of First Instance of Ilocos Sur and Abra; one judge shall preside over the Courts of First Instance of the City of Baguio and Mountain Province except the Subprovince of Ifugao; and another judge shall preside over the Court of First Instance of La Union.
 
@@ -272,9 +372,13 @@ Three judges shall be commissioned for the Fifteenth Judicial District. One judg
 
 Four judges shall be commissioned for the Sixteenth Judicial District. One judge shall preside over the Court of First Instance of Davao; one judge shall preside over the Court of First Instance of Cotabato; one judge shall preside over the Courts of First Instance of Occidental Misamis and Zamboanga Province; and one judge shall preside over the Court of First Instance of Zamboanga City and Sulu.
 
-**Section 51._Detail of judge to another district or province._** \- Whenever a judge stationed in any province or branch of a court in a province should certify to the Secretary of Justice that the condition of the docket in his court is such as to require the assistance of an additional judge, or when there is any vacancy in any court or branch of a court in a province, and there is no judge-at-large available to be assigned to said court, the Secretary of Justice may, in the interest of justice, and for a period of not more than three months, assign any judge of any other court or province within the same judicial district, whose docket permits his temporary absence from said court, to hold sessions in the court needing such assistance, or where such vacancy exists. No district judge shall be assigned to hold sessions in a province other than that to which he is appointed without the approval of the Supreme Court being first had and obtained.
+### Section 51
 
-**Section 52._Permanent stations of District Judges._** \- The permanent station of judges of the Sixth Judicial District shall be in the City of Manila.
+_Detail of judge to another district or province._ \- Whenever a judge stationed in any province or branch of a court in a province should certify to the Secretary of Justice that the condition of the docket in his court is such as to require the assistance of an additional judge, or when there is any vacancy in any court or branch of a court in a province, and there is no judge-at-large available to be assigned to said court, the Secretary of Justice may, in the interest of justice, and for a period of not more than three months, assign any judge of any other court or province within the same judicial district, whose docket permits his temporary absence from said court, to hold sessions in the court needing such assistance, or where such vacancy exists. No district judge shall be assigned to hold sessions in a province other than that to which he is appointed without the approval of the Supreme Court being first had and obtained.
+
+### Section 52
+
+_Permanent stations of District Judges._ \- The permanent station of judges of the Sixth Judicial District shall be in the City of Manila.
 
 In other judicial districts, the permanent stations of the Judges shall be as follows:
 
@@ -308,9 +412,13 @@ For the Fifteenth Judicial District, one judge shall be stationed in the municip
 
 For the Sixteenth Judicial District, one judge shall be stationed in the City of Davao, Province of Davao; one judge, in the municipality of Cotabato, Province of Cotabato; one judge, in the municipality of Oroquieta, Province of Occidental Misamis; and one judge, in the City of Zamboanga.
 
-**Section 53._Judges-at-Large and Cadastral Judges._** \- In addition to the District Judges mentioned in section forty-nine hereof there shall also be appointed eighteen Judges-at-large and fifteen Cadastral Judges who shall not be assigned permanently to any judicial district and who shall render duty in such district of province as may, from time to time, be designated by the Department Head.
+### Section 53
 
-**Section 54._Places and time of holding court._** \- For the Sixth Judicial District, court shall be held in the City of Manila. In other districts court shall be held at the capitals or places in which the respective judges are permanently stationed, except as hereinafter provided. Sessions of court shall be convened on all working days when there are cases ready for trial or other court business to be dispatched.
+_Judges-at-Large and Cadastral Judges._ \- In addition to the District Judges mentioned in section forty-nine hereof there shall also be appointed eighteen Judges-at-large and fifteen Cadastral Judges who shall not be assigned permanently to any judicial district and who shall render duty in such district of province as may, from time to time, be designated by the Department Head.
+
+### Section 54
+
+_Places and time of holding court._ \- For the Sixth Judicial District, court shall be held in the City of Manila. In other districts court shall be held at the capitals or places in which the respective judges are permanently stationed, except as hereinafter provided. Sessions of court shall be convened on all working days when there are cases ready for trial or other court business to be dispatched.
 
 In the following districts, court shall also be held at the places and times hereinbelow specified:
 
@@ -338,33 +446,57 @@ Sixteenth Judicial District: At Dipolog, Province of Zamboanga, terms of court s
 
 Notwithstanding the provisions of this section, whenever weather conditions, the condition of the roads or means of transportation, the number of cases or the interest of the administration of justice require it, the Secretary of Justice may advance or postpone the term of court or transfer the place of holding the same to another municipality within the same judicial district; and, in the land registration cases, to any other place more convenient to the parties.
 
-**Section 55._Duty of Judges to hold court at permanent station._** \- Judges shall hold court at the place of their permanent station, in the case of District Judges, and at the place wherein they may be detailed, in the case of Judges-at- Large and Cadastral Judges, not only during the period hereinabove fixed but also at any other time when there are cases ready for trial or other court business to be dispatched, if they are not engaged elsewhere.
+### Section 55
 
-**Section 56._Special terms of court._** \- When so directed by the Department Head, District Judges, Judges-at-Large and Cadastral Judges shall hold special terms of court at any time or in any municipality in their respective districts for the transactions of any judicial business.
+_Duty of Judges to hold court at permanent station._ \- Judges shall hold court at the place of their permanent station, in the case of District Judges, and at the place wherein they may be detailed, in the case of Judges-at- Large and Cadastral Judges, not only during the period hereinabove fixed but also at any other time when there are cases ready for trial or other court business to be dispatched, if they are not engaged elsewhere.
 
-**Section 57._Authority of District Judge to define territory appurtenant to courts._** \- When court is appointed to be held at more than one place in a district, the District Judge may, with the approval of the Department Head, define the territory over which the court held at a particular place shall exercise its authority, and cases arising in the territory thus defined shall be triable at such court accordingly. The power herein granted shall be exercised with a view to making the courts readily accessible to the people of the different parts of the districts and with a view to making the attendance of litigants and witnesses as inexpensive as possible.
+### Section 56
 
-**Section 58._Hours of daily sessions of the courts._** \- The hours for the daily session of Courts of First Instance shall be from nine to twelve in the morning, and from three to five in the afternoon, except on Saturdays, when a morning session only shall be required; but the judge may extend the hours of session whenever in his judgment it is proper to do so. The judge holding any court may also, in his discretion, order that but one session per day shall be held instead of two, at such hours as may be deem expedient for the convenience both of the court and the public; but the number of hours that the court shall be in session per day shall be not less than five.
+_Special terms of court._ \- When so directed by the Department Head, District Judges, Judges-at-Large and Cadastral Judges shall hold special terms of court at any time or in any municipality in their respective districts for the transactions of any judicial business.
 
-**Section 59._Clerk's duty to attend session and keep office hours._** \- Clerks of court shall be in attendance during the hours of session; and when not so in attendance upon the court they shall keep the same office hours as are prescribed for other Government employees.
+### Section 57
 
-**Section 60._Division of business among branches of court of Sixth District._** \- In the Court of First Instance of the Sixth District all business shall be equitably distributed among the judges of the ten branches in such manner as shall be agreed upon by the judges themselves.
+_Authority of District Judge to define territory appurtenant to courts._ \- When court is appointed to be held at more than one place in a district, the District Judge may, with the approval of the Department Head, define the territory over which the court held at a particular place shall exercise its authority, and cases arising in the territory thus defined shall be triable at such court accordingly. The power herein granted shall be exercised with a view to making the courts readily accessible to the people of the different parts of the districts and with a view to making the attendance of litigants and witnesses as inexpensive as possible.
+
+### Section 58
+
+_Hours of daily sessions of the courts._ \- The hours for the daily session of Courts of First Instance shall be from nine to twelve in the morning, and from three to five in the afternoon, except on Saturdays, when a morning session only shall be required; but the judge may extend the hours of session whenever in his judgment it is proper to do so. The judge holding any court may also, in his discretion, order that but one session per day shall be held instead of two, at such hours as may be deem expedient for the convenience both of the court and the public; but the number of hours that the court shall be in session per day shall be not less than five.
+
+### Section 59
+
+_Clerk's duty to attend session and keep office hours._ \- Clerks of court shall be in attendance during the hours of session; and when not so in attendance upon the court they shall keep the same office hours as are prescribed for other Government employees.
+
+### Section 60
+
+_Division of business among branches of court of Sixth District._ \- In the Court of First Instance of the Sixth District all business shall be equitably distributed among the judges of the ten branches in such manner as shall be agreed upon by the judges themselves.
 
 The District Judge of the Sixth Judicial District who acts as executive judge thereof shall have supervision over the General Land Registration Office.
 
 Nothing contained in this section and in section sixty-two shall be construed to prevent the temporary designation of judges to act in this district in accordance with section fifty.
 
-**Section 61._Authority of Court of First Instance of the Sixth Judicial District over administration of its own affairs._** \- The Court of First Instance of the Sixth Judicial District shall have the administrative control of all matters affecting the internal operations of the court. This administrative control shall be exercised by the court itself through the clerk of the court. In the administrative matters, the clerk of the court shall be under the direction of the court itself. The personnel of the office of the clerk of the Court of First Instance of the Sixth Judicial District shall consist of such officers and employees as may be provided by law. The subordinate employees of said office shall be appointed by the Secretary of Justice upon recommendation of the Chief of the office, the clerk of the court. The said clerk of the court shall receive an annual salary of five thousand one hundred pesos, and with all the employees of his office shall belong, for all purposes, to the Court of First Instance of the Sixth Judicial District.
+### Section 61
 
-**Section 62._Appointment and qualifications of clerks._** \- The clerk and deputy clerk of the Sixth Judicial District shall be appointed by the President of the Philippines upon the recommendation of the Secretary of Justice, with the consent of the Commission on Appointments. No person shall be eligible for appointment to either of these positions unless he is duly authorized to practice law in the Philippines.
+_Authority of Court of First Instance of the Sixth Judicial District over administration of its own affairs._ \- The Court of First Instance of the Sixth Judicial District shall have the administrative control of all matters affecting the internal operations of the court. This administrative control shall be exercised by the court itself through the clerk of the court. In the administrative matters, the clerk of the court shall be under the direction of the court itself. The personnel of the office of the clerk of the Court of First Instance of the Sixth Judicial District shall consist of such officers and employees as may be provided by law. The subordinate employees of said office shall be appointed by the Secretary of Justice upon recommendation of the Chief of the office, the clerk of the court. The said clerk of the court shall receive an annual salary of five thousand one hundred pesos, and with all the employees of his office shall belong, for all purposes, to the Court of First Instance of the Sixth Judicial District.
 
-**Section 63._Interchange of judges._** \- The judges of the several branches of the Court of First Instance for the Sixth District may, for their own convenience or the more expeditious accomplishments of business, sit, by interchange, by mutual agreement or by order of the Department Head, in other branches than those to which they severally pertain; and any action or proceeding in one branch may be sent to another branch for trial or determination.
+### Section 62
 
-**Section 64._Convocation of Judges for assistance of Judge hearing land registration matters._** \- In matters of special difficulty connected with the registration of land, any judge of the Sixth District concerned may, when he deems such course advisable or necessary, convoke the other nine judges of said court for the purpose of obtaining their advice and assistance. In such case the issue or issues to be decided shall be framed in writing by the said judge and shall be propounded for determination in joint session, with not fewer than three judges present. In case of a tie upon any issue, that view shall prevail which is maintained by the judge hearing the matter.
+_Appointment and qualifications of clerks._ \- The clerk and deputy clerk of the Sixth Judicial District shall be appointed by the President of the Philippines upon the recommendation of the Secretary of Justice, with the consent of the Commission on Appointments. No person shall be eligible for appointment to either of these positions unless he is duly authorized to practice law in the Philippines.
 
-**Section 65._Vacation of Courts of First Instance._** \- The yearly vacation of Courts of First Instance shall begin with the first of April and close with the first of June of each year.
+### Section 63
 
-**Section 66._Assignment of Judges to vacation duty._** \- During the month of January of each year, the Department Head shall issue an order naming the judges who are to remain on duty during the court vacation of that year; and consistently with the requirements of the judicial service, the assignments shall be so made that no judge shall be assigned to vacation duty, unless upon his own request, with greater frequency than once in three years.
+_Interchange of judges._ \- The judges of the several branches of the Court of First Instance for the Sixth District may, for their own convenience or the more expeditious accomplishments of business, sit, by interchange, by mutual agreement or by order of the Department Head, in other branches than those to which they severally pertain; and any action or proceeding in one branch may be sent to another branch for trial or determination.
+
+### Section 64
+
+_Convocation of Judges for assistance of Judge hearing land registration matters._ \- In matters of special difficulty connected with the registration of land, any judge of the Sixth District concerned may, when he deems such course advisable or necessary, convoke the other nine judges of said court for the purpose of obtaining their advice and assistance. In such case the issue or issues to be decided shall be framed in writing by the said judge and shall be propounded for determination in joint session, with not fewer than three judges present. In case of a tie upon any issue, that view shall prevail which is maintained by the judge hearing the matter.
+
+### Section 65
+
+_Vacation of Courts of First Instance._ \- The yearly vacation of Courts of First Instance shall begin with the first of April and close with the first of June of each year.
+
+### Section 66
+
+_Assignment of Judges to vacation duty._ \- During the month of January of each year, the Department Head shall issue an order naming the judges who are to remain on duty during the court vacation of that year; and consistently with the requirements of the judicial service, the assignments shall be so made that no judge shall be assigned to vacation duty, unless upon his own request, with greater frequency than once in three years.
 
 Such order shall specify, in the case of each judge assigned to vacation duty, the territory over which in addition to his own district his authority as vacation judge shall extend, and the assignments shall be so arranged that provisions will be made for the exercise of interlocutory jurisdiction, during vacation, in all parts of the Islands.
 
@@ -374,7 +506,9 @@ The Department Head may from time to time modify his order assigning the judges 
 
 A judge assigned to vacation duty shall not ordinarily be required to hold court during such vacation; but the Department Head may, when in his judgment the emergency shall require, direct any judge assigned to vacation duty to hold during the vacation a special term of court in any district.
 
-**Section 67._Proceedings for removal of Judges._** \- No District Judge, Judge-at-Large or Cadastral Judge shall be separated or removed from office by the President of the Philippines unless sufficient cause shall exist, in the judgment of the Supreme Court, involving serious misconduct or inefficiency, for the removal of said judge from office after the proper proceedings. The Supreme Court of the Philippines is authorized, upon its own motion, or upon information of the Secretary of Justice, to conduct an inquiry into the official or personal conduct of any judge appointed under the provisions of this law, and to adopt such rules of procedure in that regard as it may deem proper; and, after such judge shall have been heard in his own defense, the Supreme Court may recommend his removal to the President of the Philippines, who, if he deems that the public interests will be subserved thereby, shall thereupon make the appropriate order for such removal.
+### Section 67
+
+_Proceedings for removal of Judges._ \- No District Judge, Judge-at-Large or Cadastral Judge shall be separated or removed from office by the President of the Philippines unless sufficient cause shall exist, in the judgment of the Supreme Court, involving serious misconduct or inefficiency, for the removal of said judge from office after the proper proceedings. The Supreme Court of the Philippines is authorized, upon its own motion, or upon information of the Secretary of Justice, to conduct an inquiry into the official or personal conduct of any judge appointed under the provisions of this law, and to adopt such rules of procedure in that regard as it may deem proper; and, after such judge shall have been heard in his own defense, the Supreme Court may recommend his removal to the President of the Philippines, who, if he deems that the public interests will be subserved thereby, shall thereupon make the appropriate order for such removal.
 
 The President of the Philippines, upon recommendation of the Supreme Court, may temporarily suspend a judge pending proceedings under this section. In case the judge suspended is acquitted of the cause or causes that gave rise to the investigation, the President of the Philippines shall order the payment to him of the salary, or part thereof, which he did not receive during his suspension, from any available funds for expenses of the judiciary.
 
@@ -382,55 +516,85 @@ The cost and expenses incident to such investigations shall be paid from the fun
 
 ## CHAPTER V — Justices of the Peace and Judges of Municipal Courts
 
-**Section 68._Appointment and distribution of justices of the peace._** \- There shall be one justice of the peace and one auxiliary justice of the peace in each municipality and municipal district, and if the public interest shall so require, in any minor political division or unorganized territory in the Philippines, and such Judges of Municipal Courts in each chartered city as their respective charters provide.
+### Section 68
+
+_Appointment and distribution of justices of the peace._ \- There shall be one justice of the peace and one auxiliary justice of the peace in each municipality and municipal district, and if the public interest shall so require, in any minor political division or unorganized territory in the Philippines, and such Judges of Municipal Courts in each chartered city as their respective charters provide.
 
 Upon recommendation of the Department Head, the territorial jurisdiction of any justice and auxiliary justice of the peace may be made to extend over any number of municipalities, municipal districts, or other minor political division or places not included in the jurisdiction of a justice of the peace already appointed. As vacancies occur, if the proper administration of justice so demands and the Department Head so recommends, the President of the Philippines may group municipalities and municipal districts into circuit courts, and may appoint to each circuit court one justice of the peace and one auxiliary justice of the peace: Provided, however, That the capital of a province shall not be grouped with any other municipality except in fourth-or fifth-class provinces, or the Mountain Province and the specially organized provinces: Provided, further, That the Secretary of Justice may, upon the recommendation of the district judge concerned, designate the justice of the peace of the capital of a province or subprovince as clerk of court ex-officio of said province or subprovince. The justice of the peace of the capital of a province or subprovince so designated shall receive, in addition to his salary, fifty per centum of the salary fixed for the said clerk of court of the said province or subprovince.
 
-**Section 69._Jurisdiction of justice of the peace so affected by territorial changes._** \- When a new political division affecting the territorial jurisdiction of the justice of the peace is formed or the boundaries limiting the same are changed, the President of the Philippines may, in the absence of special provision, designate which of the justices and auxiliary justices within the territory affected by the change shall continue in office; and the powers of any others therein shall cease.
+### Section 69
 
-**Section 70._Tenure of office - Transfer from one municipality to another._** \- Justices of the peace having the requisite legal qualifications shall hold office during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office, unless sooner removed in accordance with law or unless his office be lawfully abolished or merged in the jurisdiction of another justice of the peace: Provided, That in case the public interest requires it, a justice of the peace of one municipality may be transferred to another.
+_Jurisdiction of justice of the peace so affected by territorial changes._ \- When a new political division affecting the territorial jurisdiction of the justice of the peace is formed or the boundaries limiting the same are changed, the President of the Philippines may, in the absence of special provision, designate which of the justices and auxiliary justices within the territory affected by the change shall continue in office; and the powers of any others therein shall cease.
 
-**Section 71._Qualifications for the office of Justice of the Peace._** \- No person shall be eligible to appointment as justice of the peace or auxiliary justice of the peace unless he is (1) at least twenty-three years of age; (2) a citizen of the Philippines; (3) of good moral character and has not been convicted of any felony; and (4) has been admitted by the Supreme Court to the practice of law.
+### Section 70
+
+_Tenure of office - Transfer from one municipality to another._ \- Justices of the peace having the requisite legal qualifications shall hold office during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office, unless sooner removed in accordance with law or unless his office be lawfully abolished or merged in the jurisdiction of another justice of the peace: Provided, That in case the public interest requires it, a justice of the peace of one municipality may be transferred to another.
+
+### Section 71
+
+_Qualifications for the office of Justice of the Peace._ \- No person shall be eligible to appointment as justice of the peace or auxiliary justice of the peace unless he is (1) at least twenty-three years of age; (2) a citizen of the Philippines; (3) of good moral character and has not been convicted of any felony; and (4) has been admitted by the Supreme Court to the practice of law.
 
 No person shall be appointed judge of the municipal court of any chartered city or justice of the peace of any provincial capital unless he shall have practiced law in the Philippines for a period of five years, or has held during a like period within the Philippines an office requiring admission to the practice of law in the Philippines as an indispensable requisite.
 
-**Section 72._Filling of vacancy in office of justice of the peace._** \- When a vacancy occurs in the office of any justice of the peace, except in provincial capitals and first-class municipalities, the district judge shall forward to the President of the Philippines a list of the names of persons qualified to fill said vacancy, accompanied by all the applications presented by persons desirous of appointment. The President of the Philippines, with the consent of the Commission on Appointments, shall make the respective appointments from said list: Provided, however, That he may also appoint to the position any qualified person not included in the list and not applicant for the place, without preferences of any kind, when he deems such course to be in the public interest.
+### Section 72
 
-**Section 73._Auxiliary justice - Qualifications and duties._** \- The auxiliary justice of the peace shall have the same qualifications and be subject to the same restrictions as the regular justice, and shall perform the duties of said office during any vacancy therein or in case of the absence of the regular justice from the municipality, or of his disability or disqualification, or in case of his death or resignation until the appointment and qualification of his successor, or in any cause whose immediate trial the regular justice shall certify to be specially urgent and which is unable to try by reason of actual engagement in another trial.
+_Filling of vacancy in office of justice of the peace._ \- When a vacancy occurs in the office of any justice of the peace, except in provincial capitals and first-class municipalities, the district judge shall forward to the President of the Philippines a list of the names of persons qualified to fill said vacancy, accompanied by all the applications presented by persons desirous of appointment. The President of the Philippines, with the consent of the Commission on Appointments, shall make the respective appointments from said list: Provided, however, That he may also appoint to the position any qualified person not included in the list and not applicant for the place, without preferences of any kind, when he deems such course to be in the public interest.
+
+### Section 73
+
+_Auxiliary justice - Qualifications and duties._ \- The auxiliary justice of the peace shall have the same qualifications and be subject to the same restrictions as the regular justice, and shall perform the duties of said office during any vacancy therein or in case of the absence of the regular justice from the municipality, or of his disability or disqualification, or in case of his death or resignation until the appointment and qualification of his successor, or in any cause whose immediate trial the regular justice shall certify to be specially urgent and which is unable to try by reason of actual engagement in another trial.
 
 In case there is no auxiliary justice of the peace to perform the duties of the regular justice in the case above mentioned, the district judge shall designate the nearest justice of the peace of the province to act as justice of the peace in such municipality, town, or place.
 
-**Section 74._Courtroom and supplies._** \- The municipalities and municipal districts to which a justice of the peace pertains shall provide him with a room in the tribunal, or elsewhere in the center of population, suitable for holding court and shall supply the necessary furniture, lights, and janitor service therefor, and shall also provide him with such of the printed laws in force in the Philippines as may be required for his official use. The similar expenses of maintaining the office of a justice of the peace appointed in unorganized territory shall be borne by the province.
+### Section 74
+
+_Courtroom and supplies._ \- The municipalities and municipal districts to which a justice of the peace pertains shall provide him with a room in the tribunal, or elsewhere in the center of population, suitable for holding court and shall supply the necessary furniture, lights, and janitor service therefor, and shall also provide him with such of the printed laws in force in the Philippines as may be required for his official use. The similar expenses of maintaining the office of a justice of the peace appointed in unorganized territory shall be borne by the province.
 
 Legal blanks and the dockets required by law, as well as the notarial seal to be used by the justice as ex-officio, notary public, shall be furnished by the Bureau of Justice.
 
-**Section 75._Clerks and employees of justice of the peace courts._** \- The municipal or justice of the peace courts of the several chartered cities and of the provincial capitals and first-class municipalities shall have such clerks of court and other employees as may be necessary at the expense of the said cities and municipalities.
+### Section 75
+
+_Clerks and employees of justice of the peace courts._ \- The municipal or justice of the peace courts of the several chartered cities and of the provincial capitals and first-class municipalities shall have such clerks of court and other employees as may be necessary at the expense of the said cities and municipalities.
 
 In other municipalities, the municipal councils may allow the justices of the peace one clerk each, at the expense of the respective municipalities, with a salary not to exceed seven hundred and twenty pesos per annum.
 
 With the exception of the clerks and employees of the Municipal Court of the City of Manila, all employees mentioned in this section shall be appointed by the respective justices of the peace.
 
-**Section 76._Miscellaneous powers of justice of the peace._** \- A justice of the peace shall have power anywhere within his territorial jurisdiction to solemnize marriages, authenticate merchant's books, administer oaths and take depositions and acknowledgment, and, in his capacity as ex-officio notary public, may perform any act within the competency of a notary public.
+### Section 76
 
-**Section 77._Attendance at court - Permission for justice to pursue other vocation._** \- A justice of the peace or auxiliary justice when acting as justice of the peace shall be present at least four hours on each business day in his office or at the place where his court is held; but he may, after office hours, with the permission of the district judge concerned, pursue any other vocation or hold other office or position.
+_Miscellaneous powers of justice of the peace._ \- A justice of the peace shall have power anywhere within his territorial jurisdiction to solemnize marriages, authenticate merchant's books, administer oaths and take depositions and acknowledgment, and, in his capacity as ex-officio notary public, may perform any act within the competency of a notary public.
+
+### Section 77
+
+_Attendance at court - Permission for justice to pursue other vocation._ \- A justice of the peace or auxiliary justice when acting as justice of the peace shall be present at least four hours on each business day in his office or at the place where his court is held; but he may, after office hours, with the permission of the district judge concerned, pursue any other vocation or hold other office or position.
 
 No justice or auxiliary justice may act as the attorney for any party to a cause commenced in his court or elsewhere except by special permission of the District Judge.
 
-**Section 78._Hearing of cause at place other than office of justice of the peace._** \- Upon written request of both parties to a cause, a justice of the peace may hear the same at any suitable place in his jurisdiction; and in such case his necessary travel expense from his official station to the place of trial, and upon return therefrom, not exceeding two and one-half pesos per day in all, may be taxed as costs, but if the trial of more than one of such cases is requested in a particular locality, he shall arrange to try them as nearly as possible at the same time and place and shall divide the travel expense among them proportionately to the time consumed in the trial of each case.
+### Section 78
 
-**Section 79._Service of process of justice of the peace._** \- The sheriff of the province shall serve or execute, or cause to be served and executed, all civil writs, processes, and orders issued by any justice of the peace in the province; and civil process, other than executions, may be served by any persons designated by the justice for the purpose. Criminal process issued by a justice of the peace shall be served or executed by the mayor of the municipality or other local political division, by means of the local police, or in the City of Manila by the members of its police department; but such process may also be served or executed with equal effect by the sheriff.
+_Hearing of cause at place other than office of justice of the peace._ \- Upon written request of both parties to a cause, a justice of the peace may hear the same at any suitable place in his jurisdiction; and in such case his necessary travel expense from his official station to the place of trial, and upon return therefrom, not exceeding two and one-half pesos per day in all, may be taxed as costs, but if the trial of more than one of such cases is requested in a particular locality, he shall arrange to try them as nearly as possible at the same time and place and shall divide the travel expense among them proportionately to the time consumed in the trial of each case.
+
+### Section 79
+
+_Service of process of justice of the peace._ \- The sheriff of the province shall serve or execute, or cause to be served and executed, all civil writs, processes, and orders issued by any justice of the peace in the province; and civil process, other than executions, may be served by any persons designated by the justice for the purpose. Criminal process issued by a justice of the peace shall be served or executed by the mayor of the municipality or other local political division, by means of the local police, or in the City of Manila by the members of its police department; but such process may also be served or executed with equal effect by the sheriff.
 
 Criminal process may be issued by a justice of the peace, to be served outside his province, when the district judge, or in his absence the provincial fiscal, shall certify that in his opinion the interest of justice requires such service.
 
-**Section 80._Seal of justice acting as notary public._** \- The use of a seal of office shall not be necessary to the authentication of any paper, document, or record signed by a justice of the peace or emanating from his office except when he acts as notary public ex-officio.
+### Section 80
 
-**Section 81._Appointment of Government officers as justices of the peace ex-officio._** \- When in the opinion of the President of the Philippines the public interest shall so require, he may appoint any qualified person in the government service to act in the capacity of justice of the peace ex-officio, without additional compensation, in any specially organized province. Such appointee shall have all the powers of a justice of the peace proper, with such territorial jurisdiction as shall be stated in the commission issued to the appointee, but such jurisdiction shall not extend to, or be hereafter exercised at any place within the jurisdiction of any appointed justice of the peace or auxiliary justice of the peace.
+_Seal of justice acting as notary public._ \- The use of a seal of office shall not be necessary to the authentication of any paper, document, or record signed by a justice of the peace or emanating from his office except when he acts as notary public ex-officio.
+
+### Section 81
+
+_Appointment of Government officers as justices of the peace ex-officio._ \- When in the opinion of the President of the Philippines the public interest shall so require, he may appoint any qualified person in the government service to act in the capacity of justice of the peace ex-officio, without additional compensation, in any specially organized province. Such appointee shall have all the powers of a justice of the peace proper, with such territorial jurisdiction as shall be stated in the commission issued to the appointee, but such jurisdiction shall not extend to, or be hereafter exercised at any place within the jurisdiction of any appointed justice of the peace or auxiliary justice of the peace.
 
 A person exercising the function of justice of the peace ex-officio in any municipal district may, in his discretion, transfer any case within his jurisdiction to the justice of the peace of the nearest organized municipality in the province.
 
 The President of the Philippines may, in his discretion, authorize a municipal district mayor who is an attorney-at- law to act as justice of the peace to try cases for violation of municipal ordinances within his district.
 
-**Section 82._Salaries of justices of the peace._** \- Except as provided in the next succeeding section, justices of the peace shall receive the following salaries per annum:
+### Section 82
+
+_Salaries of justices of the peace._ \- Except as provided in the next succeeding section, justices of the peace shall receive the following salaries per annum:
 
 (a) Of circuit courts, from two thousand forty to two thousand six hundred forty pesos each;
 
@@ -442,7 +606,9 @@ The President of the Philippines may, in his discretion, authorize a municipal d
 
 Provided, That the Secretary of Justice shall, with the approval of the President, fix the salary of each justice of the peace within the above limitations, taking into consideration, among other things, the number of cases docketed in his court and the accessibility and means of transportation available between the different municipalities under his jurisdiction: Provided, further, That when a justice of the peace is designated to act temporarily in one or more municipalities or districts in addition to his own municipality or district, he shall be entitled to the salary of his municipality or district, plus seventy-five per centum of the salary for each municipality or district in which he is temporarily designated to act; but in no case shall he be entitled to an aggregate salary of more than two thousand six hundred forty pesos per annum.
 
-**Section 83._Salaries of the judges of the municipal courts of chartered cities and of the justices of the peace in provincial capitals._** \- The annual salary of each of the judges of the municipal courts of the following chartered cities shall be:
+### Section 83
+
+_Salaries of the judges of the municipal courts of chartered cities and of the justices of the peace in provincial capitals._ \- The annual salary of each of the judges of the municipal courts of the following chartered cities shall be:
 
 (a) Of the City of Manila, six thousand pesos;
 
@@ -456,19 +622,27 @@ The annual salaries of the justices of the peace of the capitals of the province
 
 Of the justices of the peace of the capitals of the Provinces of Nueva Ecija, Pangasinan, and Rizal, four thousand pesos each; of the justices of the peace of the capitals of the Provinces of Bulacan, Laguna, La Union, Pampanga, Quezon, and Tarlac, three thousand six hundred pesos each; of the justices of the peace of the capitals of the Provinces of Albay, Bataan, Batangas, Camarines Sur, Capiz, Cotabato, Ilocos Norte, Ilocos Sur, Isabela, Leyte, Negros Oriental, and Nueva Vizcaya, three thousand pesos each; of the justices of the peace of the capitals of the other provinces organized under the Provincial Law, the capitals of the Provinces of Agusan, Batanes, Bukidnon, Cotabato, Lanao, Palawan, Mountain Province, and Sulu, two thousand four hundred pesos each; Provided, however, That for judicial purposes the municipality of Aparri, Province of Cagayan, and the municipality of Cervantes, Province of Ilocos Sur, shall be considered as provincial capitals and the respective justices of the peace thereof shall have the same qualifications required of, and shall have the jurisdiction as, under the law, may be exercised by the justices of the peace of provincial capitals and shall be paid an annual salary of two thousand four hundred pesos each: Provided, further, That the judge of the municipal court of a city which is at the same time the capital of a province shall be considered as the judge of the peace of the capital of such province.
 
-**Section 84._Payment of salaries of justices of the peace._** \- In order to facilitate the payment of the salaries of justices of the peace in the provinces, the treasurer of the respective political division concerned shall advance the same monthly out of any proper available funds in his possession and such advances will be reimbursed monthly from the national appropriation.
+### Section 84
 
-**Section 85._Compensation of auxiliary justices._** \- An auxiliary justice of the peace, when performing all the duties of a justice of the peace, shall receive the full compensation which would accrue to the office of justice. In cases where the justice of the peace, without ceasing to act as justice, shall certify any cause to the auxiliary justice for trial, the latter shall receive compensation in an amount equivalent to the fees accruing in such cause, which amount shall be deducted from the salary of the regular justice.
+_Payment of salaries of justices of the peace._ \- In order to facilitate the payment of the salaries of justices of the peace in the provinces, the treasurer of the respective political division concerned shall advance the same monthly out of any proper available funds in his possession and such advances will be reimbursed monthly from the national appropriation.
+
+### Section 85
+
+_Compensation of auxiliary justices._ \- An auxiliary justice of the peace, when performing all the duties of a justice of the peace, shall receive the full compensation which would accrue to the office of justice. In cases where the justice of the peace, without ceasing to act as justice, shall certify any cause to the auxiliary justice for trial, the latter shall receive compensation in an amount equivalent to the fees accruing in such cause, which amount shall be deducted from the salary of the regular justice.
 
 When the auxiliary justice acts as substitute for the regular justice while the latter is absent on official business, the compensation of the auxiliary justice shall not be deducted from the salary of the justice.
 
-**Section 86._Jurisdiction of justices of the peace and judges of municipal courts of chartered cities._** \- The jurisdiction of justices of the peace and judges of municipal courts of chartered cities shall consist of:
+### Section 86
+
+_Jurisdiction of justices of the peace and judges of municipal courts of chartered cities._ \- The jurisdiction of justices of the peace and judges of municipal courts of chartered cities shall consist of:
 
 (a) Original jurisdiction to try criminal cases in which the offense charged has been committed within their respective territorial jurisdictions; and
 
 (b) Original jurisdiction in civil actions arising in their respective municipalities and cities, and not exclusively cognizable by the Courts of First Instance.
 
-**Section 87._Original jurisdiction to try criminal cases._** \- Justices of the peace and judges of municipal courts of chartered cities shall have original jurisdiction over:
+### Section 87
+
+_Original jurisdiction to try criminal cases._ \- Justices of the peace and judges of municipal courts of chartered cities shall have original jurisdiction over:
 
 (a) All violations of municipal or city ordinances committed within their respective territorial jurisdictions;
 
@@ -496,35 +670,57 @@ Said justices of the peace and judges of municipal courts may also conduct preli
 
 Justices of the peace in the capitals of provinces may, by assignment of the respective district judge in each case, have like jurisdiction as the Court of First Instance to try parties charged with an offense committed within the province in which the penalty provided by law does not exceed imprisonment for two years and four months, or a fine of two thousand pesos, or both such imprisonment and fine, and, in the absence of the district judge, shall have like jurisdiction within the province as the Court of First Instance to hear applications for bail.
 
-**Section 88._Original jurisdiction in civil cases._** \- In all civil actions, including those mentioned in Rule 59 and 62 of the Rules of Court, arising in his municipality or city, and not exclusively cognizable by the Court of First Instance, the justice of the peace and the judge of a municipal court shall have exclusive original jurisdiction where the value of the subject-matter or amount of the demand does not exceed two thousand pesos, exclusive of interest and costs. In forcible entry and detainer proceedings, the justice of the peace or judge of the municipal court shall have original jurisdiction, but the said justice or judge may receive evidence upon the question of title therein, whatever may be the value of the property, solely for the purpose of determining the character and extent of possession and damages for detention. In forcible entry proceedings, he may grant preliminary injunctions, in accordance with the provisions of the Rules of Court, to prevent the defendant from committing further acts of dispossession against the plaintiff.
+### Section 88
+
+_Original jurisdiction in civil cases._ \- In all civil actions, including those mentioned in Rule 59 and 62 of the Rules of Court, arising in his municipality or city, and not exclusively cognizable by the Court of First Instance, the justice of the peace and the judge of a municipal court shall have exclusive original jurisdiction where the value of the subject-matter or amount of the demand does not exceed two thousand pesos, exclusive of interest and costs. In forcible entry and detainer proceedings, the justice of the peace or judge of the municipal court shall have original jurisdiction, but the said justice or judge may receive evidence upon the question of title therein, whatever may be the value of the property, solely for the purpose of determining the character and extent of possession and damages for detention. In forcible entry proceedings, he may grant preliminary injunctions, in accordance with the provisions of the Rules of Court, to prevent the defendant from committing further acts of dispossession against the plaintiff.
 
 The jurisdiction of a justice of the peace and judge of a municipal court shall not extend to civil actions in which the subject of litigation is not capable of pecuniary estimation, except in forcible entry and detainer cases; nor to those which involve the legality of any tax, impost, to assessment; nor to actions involving admiralty or maritime jurisdiction; nor to matters of probate, the appointment of guardians, trustees or receivers; nor to actions for annulment of marriages: Provided, however, That justices of the peace who are duly qualified members of the bar may, with the approval of the Secretary of Justice, be assigned by the respective district judge in each case to hear and determine cadastral or land registration cases covering lots where there is no controversy or opposition, or contested lots the value of which does not exceed two thousand pesos, such value to be ascertained by the affidavit of the claimant or by agreement of the respective claimants, if there are more than one, or from the corresponding declaration of real property.
 
 Justices of the peace in the capitals of provinces and subprovinces in the absence of the District Judge, Judge-at-Large or Cadastral Judge from the province may exercise within the province like interlocutory jurisdiction as the Court of First Instance, which shall be held to include the hearing of all motions for the appointment of a receiver, for temporary injunctions, and for all other orders of the court which are not final in their character and do not involve a decision of the case of its merits, and the hearing of petitions for a writ of habeas corpus.
 
-**Section 89._Traveling expenses of justices of the peace assigned to hear civil, cadastral and criminal cases._** \- Whenever a justice of the peace, upon assignment by the district judge, either hears and determines cadastral or land registration cases or exercises like jurisdiction as the Court of First Instance to try parties charged with an offense committed within the province in which the penalty provided by law does not exceed imprisonment for two years and four months, or a fine of two thousand pesos, or both such imprisonment and fine, he shall receive, in addition to his salary, during the time that he is acting by virtue of such assignment, a per diem not to exceed five pesos: Provided, however, That if said justice of the peace hears and determines cadastral or land registration cases elsewhere than in the municipality in which he exercises jurisdiction, upon the authority of the Secretary of Justice, he shall be paid, in addition to his necessary traveling expenses, a per diem not to exceed fifteen pesos to be fixed by the Secretary of Justice.
+### Section 89
 
-**Section 90._Jurisdiction to appoint guardians._** \- Justices of the peace and judges of municipal courts of chartered cities are empowered to appoint guardians or guardians ad litem for litigants in their courts who are incapacitated by being of minor age or mentally incapable.
+_Traveling expenses of justices of the peace assigned to hear civil, cadastral and criminal cases._ \- Whenever a justice of the peace, upon assignment by the district judge, either hears and determines cadastral or land registration cases or exercises like jurisdiction as the Court of First Instance to try parties charged with an offense committed within the province in which the penalty provided by law does not exceed imprisonment for two years and four months, or a fine of two thousand pesos, or both such imprisonment and fine, he shall receive, in addition to his salary, during the time that he is acting by virtue of such assignment, a per diem not to exceed five pesos: Provided, however, That if said justice of the peace hears and determines cadastral or land registration cases elsewhere than in the municipality in which he exercises jurisdiction, upon the authority of the Secretary of Justice, he shall be paid, in addition to his necessary traveling expenses, a per diem not to exceed fifteen pesos to be fixed by the Secretary of Justice.
 
-**Section 91._Incidental powers of justices of the peace and municipal courts._** \- The justice of the peace and municipal courts shall have power to administer oaths and to give certificates thereof; to issue summonses, writs, warrants, executions, and all other processes necessary to enforce their orders and judgments; to compel the attendance of witnesses; to punish contempts of court by fine or imprisonment, or both, within the limitation imposed by Rules of Court, and to require of any person arrested a bond for good behavior or to keep the peace, or for the further appearance of such person before a court of competent jurisdiction. But no such bond shall be accepted unless it be executed by the person in whose behalf it is made, with sufficient surety or sureties, to be approved by said court.
+### Section 90
 
-**Section 92._Fees collectible by justices of the peace._** \- No fees, compensation, or reward of any sort, except such as is expressly prescribed and allowed by law, shall be collected or received for any service rendered by a justice of the peace or by any officer or employee of his court.
+_Jurisdiction to appoint guardians._ \- Justices of the peace and judges of municipal courts of chartered cities are empowered to appoint guardians or guardians ad litem for litigants in their courts who are incapacitated by being of minor age or mentally incapable.
 
-**Section 93._Moneys paid into courts of justices of the peace - By whom to be received._** \- All moneys accruing to the Government in courts of justices of the peace, including fees, fines, forfeitures, costs, or other miscellaneous receipts, and all trust or depository funds paid into such courts shall be received by the deputy provincial treasurer, or in the City of Manila by the Collector of Internal Revenue, for disposition according to law.
+### Section 91
 
-**Section 94._Disposition of Government moneys derived from courts of justices of the peace._** \- Such of these moneys as accrue to the Government shall be turned over to the Collector of Internal Revenue, who shall have the administrative jurisdiction over such collections and shall pay the same into the National Treasury to the credit of the general funds of the National Government.
+_Incidental powers of justices of the peace and municipal courts._ \- The justice of the peace and municipal courts shall have power to administer oaths and to give certificates thereof; to issue summonses, writs, warrants, executions, and all other processes necessary to enforce their orders and judgments; to compel the attendance of witnesses; to punish contempts of court by fine or imprisonment, or both, within the limitation imposed by Rules of Court, and to require of any person arrested a bond for good behavior or to keep the peace, or for the further appearance of such person before a court of competent jurisdiction. But no such bond shall be accepted unless it be executed by the person in whose behalf it is made, with sufficient surety or sureties, to be approved by said court.
 
-**Section 95._Monthly report of justice of the peace._** \- On the first of the month each justice of the peace shall submit to the receiving officer, upon forms prescribed by the General Auditing Office, a detailed report of all official business transacted by him or in his court during the preceding month, such as marriages solemnized, actions begun, terminated, or pending in the court, together with an itemized statement of all fees and costs collected and for what service.
+### Section 92
 
-**Section 96._Supervision of District Judges over justices of the peace - Annual report of justice._** \- The District Judge shall at all times exercise a supervision over the justices of the peace within his district, and shall keep himself informed of the manner in which they perform their duties, by personal inspection whenever possible, from reports which he may require from them, from cases appealed to his court, and from all other available sources. In proper cases he shall advise and instruct them whenever requested, or when occasion arises, and such justices of the peace shall apply to him and not to the Secretary of Justice for advice and instruction, and any such inquiries received by the Secretary of Justice shall be referred by him to the district judge of the proper district.
+_Fees collectible by justices of the peace._ \- No fees, compensation, or reward of any sort, except such as is expressly prescribed and allowed by law, shall be collected or received for any service rendered by a justice of the peace or by any officer or employee of his court.
+
+### Section 93
+
+_Moneys paid into courts of justices of the peace - By whom to be received._ \- All moneys accruing to the Government in courts of justices of the peace, including fees, fines, forfeitures, costs, or other miscellaneous receipts, and all trust or depository funds paid into such courts shall be received by the deputy provincial treasurer, or in the City of Manila by the Collector of Internal Revenue, for disposition according to law.
+
+### Section 94
+
+_Disposition of Government moneys derived from courts of justices of the peace._ \- Such of these moneys as accrue to the Government shall be turned over to the Collector of Internal Revenue, who shall have the administrative jurisdiction over such collections and shall pay the same into the National Treasury to the credit of the general funds of the National Government.
+
+### Section 95
+
+_Monthly report of justice of the peace._ \- On the first of the month each justice of the peace shall submit to the receiving officer, upon forms prescribed by the General Auditing Office, a detailed report of all official business transacted by him or in his court during the preceding month, such as marriages solemnized, actions begun, terminated, or pending in the court, together with an itemized statement of all fees and costs collected and for what service.
+
+### Section 96
+
+_Supervision of District Judges over justices of the peace - Annual report of justice._ \- The District Judge shall at all times exercise a supervision over the justices of the peace within his district, and shall keep himself informed of the manner in which they perform their duties, by personal inspection whenever possible, from reports which he may require from them, from cases appealed to his court, and from all other available sources. In proper cases he shall advise and instruct them whenever requested, or when occasion arises, and such justices of the peace shall apply to him and not to the Secretary of Justice for advice and instruction, and any such inquiries received by the Secretary of Justice shall be referred by him to the district judge of the proper district.
 
 The justice of the peace shall, during the first five days of the year, forward to the District Judge a report concerning the business done in his court for the previous year, upon forms to be prescribed by the Secretary of Justice.
 
 Such report shall be filed in the office of the clerk of the Court of First Instance, and said District Judge of the district shall, with the assistance of said clerk, embody a summary of such reports for each province of his district together with other matters of interest and importance relative to the administration of justice therein, particularly with reference to justice of the peace courts, in a brief report, which he shall forward as soon as possible after the close of the fiscal year to the Department Head.
 
-**Section 97._Suspension and removal._** \- If at any time the District Judge has reason to believe that a justice of the peace is not performing his duties properly or if complaints are made which, if true, would indicate that the justice is unfit for the office, he shall make such investigation of the same as the circumstances may seem to him to warrant, and may, for good cause, reprimand the justice, or may recommend to the President of the Philippines his removal from office, or his removal and disqualification from holding office, and may suspend him from office pending action by the President of the Philippines. The President of the Philippines may, upon such recommendation or on his own motion, remove from office any justice of the peace or auxiliary justice of the peace.
+### Section 97
 
-**Section 98._Final disposition of dockets._** \- When a justice of the peace shall die or resign or shall be removed from office or shall remove from the jurisdiction to which he was appointed, or when his office shall in any way become vacant, such justice of the peace, or his legal representative in case of his death, shall, within ten days thereafter, deliver his docket, process, papers, books, and all records relating to his office to the justice appointed to fill the vacancy or to the auxiliary justice of the same locality.
+_Suspension and removal._ \- If at any time the District Judge has reason to believe that a justice of the peace is not performing his duties properly or if complaints are made which, if true, would indicate that the justice is unfit for the office, he shall make such investigation of the same as the circumstances may seem to him to warrant, and may, for good cause, reprimand the justice, or may recommend to the President of the Philippines his removal from office, or his removal and disqualification from holding office, and may suspend him from office pending action by the President of the Philippines. The President of the Philippines may, upon such recommendation or on his own motion, remove from office any justice of the peace or auxiliary justice of the peace.
+
+### Section 98
+
+_Final disposition of dockets._ \- When a justice of the peace shall die or resign or shall be removed from office or shall remove from the jurisdiction to which he was appointed, or when his office shall in any way become vacant, such justice of the peace, or his legal representative in case of his death, shall, within ten days thereafter, deliver his docket, process, papers, books, and all records relating to his office to the justice appointed to fill the vacancy or to the auxiliary justice of the same locality.
 
 Where the documents and records aforesaid are delivered into the custody of the auxiliary justice of the peace, it shall be his duty, during the time he shall perform the duties of the office, safely to keep the same and to certify copies thereof whenever lawfully demanded; and upon the appointment and qualification of a justice of the peace to fill the vacancy, the said auxiliary justice shall deliver all the documents and records pertaining to the office in question to the new justice of the peace.
 
@@ -532,10 +728,16 @@ When any violation of this section comes to the knowledge of the District Judge 
 
 ## CHAPTER VI — Transitory and Final Provisions
 
-**Section 99._Repeal of laws._** \- All laws and rules inconsistent with the provisions of this Act are hereby repealed.
+### Section 99
 
-**Section 100._Appropriation._** \- There is hereby appropriated from the general funds, not otherwise appropriated, the sum of three hundred five thousand five hundred thirteen pesos and thirty-three centavos to pay the salaries of the eleven district judges that are created in this Act together with their corresponding personnel and sundry expenses for the period from June first, nineteen hundred forty-eight to June thirtieth, nineteen hundred forty-nine.
+_Repeal of laws._ \- All laws and rules inconsistent with the provisions of this Act are hereby repealed.
 
-**Section 101._Date in which to take effect._** \- This Act shall take effect upon its approval.
+### Section 100
 
-Approved: **June 17, 1948** 1awphil@alf
+_Appropriation._ \- There is hereby appropriated from the general funds, not otherwise appropriated, the sum of three hundred five thousand five hundred thirteen pesos and thirty-three centavos to pay the salaries of the eleven district judges that are created in this Act together with their corresponding personnel and sundry expenses for the period from June first, nineteen hundred forty-eight to June thirtieth, nineteen hundred forty-nine.
+
+### Section 101
+
+_Date in which to take effect._ \- This Act shall take effect upon its approval.
+
+Approved: **June 17, 1948**

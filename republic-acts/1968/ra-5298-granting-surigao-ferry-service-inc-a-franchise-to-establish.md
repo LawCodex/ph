@@ -29,7 +29,7 @@ Subject to the condition established in this Act and the provisions of the Const
 
 ## Section 2
 
-Within ninety days after the acceptance of the franchise granted hereunder and in accordance with the conditions as herein stipulated, the grantee shall put in operation an adequate and efficient ferry service between the Municipality of Surigao and Nonoc Island, both in the Province of Surigao del Norte.1avvphi1 The ferryboats operated by the grantee and the equipment thereof shall meet the requirements prescribed by the Public Service Commission, and the grantee shall, whenever the Public Service Commission shall determine that public interest reasonably requires it, change or improve any of said ferryboats or the equipment thereof at its expense.
+Within ninety days after the acceptance of the franchise granted hereunder and in accordance with the conditions as herein stipulated, the grantee shall put in operation an adequate and efficient ferry service between the Municipality of Surigao and Nonoc Island, both in the Province of Surigao del Norte. The ferryboats operated by the grantee and the equipment thereof shall meet the requirements prescribed by the Public Service Commission, and the grantee shall, whenever the Public Service Commission shall determine that public interest reasonably requires it, change or improve any of said ferryboats or the equipment thereof at its expense.
 
 ## Section 3
 

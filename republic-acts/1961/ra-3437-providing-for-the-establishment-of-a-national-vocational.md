@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Public Schools, a national vocational high school in the Municipality of Allen, Province of Samar, to be known as the Balicuatro National Vocational High School. This school shall offer courses in secondary agriculture, trade and fishery.1avvphi1
+There shall be established, under the direct supervision of the Director of Public Schools, a national vocational high school in the Municipality of Allen, Province of Samar, to be known as the Balicuatro National Vocational High School. This school shall offer courses in secondary agriculture, trade and fishery.
 
 ## Section 2
 

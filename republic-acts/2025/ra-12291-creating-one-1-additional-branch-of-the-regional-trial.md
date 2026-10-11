@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 One (1) additional branch of the Regional Trial Court in the Eleventh Judicial Region is hereby created and stationed in the Municipality of Sulop, Province of Davao del Sur.
 
-The Supreme Court shall assign the branch number for the newly created branch of the Regional Trial Court.ℒαwρhi৷
+The Supreme Court shall assign the branch number for the newly created branch of the Regional Trial Court.
 
 ## Section 2
 

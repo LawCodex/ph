@@ -40,7 +40,7 @@ Section two hundred of Act Numbered Two thousand four hundred and twenty-seven, 
 
 "(c) Bonds and other evidences of debt of the Government of the Philippines or its political subdivisions authorized by law to issue bonds at the reasonable market value thereof.
 
-"(d) Bonds or other evidences of debt of government-owned or controlled corporations and entities, including the Central Bank.1aшphi1
+"(d) Bonds or other evidences of debt of government-owned or controlled corporations and entities, including the Central Bank.
 
 "(e) Bonds or other evidences of indebtedness of any solvent institution incorporated under the laws of the Philippines which has paid regular dividends upon its preferred or common stocks for not less than three years preceding the purchase of such bonds.
 

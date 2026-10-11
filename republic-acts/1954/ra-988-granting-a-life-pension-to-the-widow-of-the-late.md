@@ -32,6 +32,6 @@ The sum of two thousand four hundred pesos is hereby authorized to be appropriat
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 2, 1954.

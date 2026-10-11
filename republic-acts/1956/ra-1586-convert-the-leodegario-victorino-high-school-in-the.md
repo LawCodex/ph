@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Leodegario Victorino High School located in the Municipality of Marikina, Province of Rizal, is converted to an industrial school of arts and trades, to be known as the Marikina School of Arts and Trades.1awp++i1 The Secretary of Education is hereby empowered to reorganize said school accordingly.
+The Leodegario Victorino High School located in the Municipality of Marikina, Province of Rizal, is converted to an industrial school of arts and trades, to be known as the Marikina School of Arts and Trades. The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 2
 

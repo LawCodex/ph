@@ -64,7 +64,7 @@ _Self-regulation by and Undertaking of the Grantee._ — The grantee shall not r
 
 ## Section 8
 
-_Warranty in Favor of the National and Local Governments._ — The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents causing injury to persons or damage to properties during the construction or operation of the stations of the grantee.1âшphi1
+_Warranty in Favor of the National and Local Governments._ — The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents causing injury to persons or damage to properties during the construction or operation of the stations of the grantee.
 
 ## Section 9
 

@@ -33,7 +33,7 @@ The Camatagan National High School Annex at the poblacion of the Municipality of
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such orders, rules and circulars as may be necessary for the implementation of this Act.1a⍵⍴h!1
+The Secretary of Education, Culture and Sports shall issue such orders, rules and circulars as may be necessary for the implementation of this Act.
 
 ## Section 3
 

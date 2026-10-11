@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Lakewood National High School in the Municipality of Lakewood, Province of Zamboanga del Sur, is hereby converted into a college of arts and trades, to be known, as the Canuto M.S. Enerio College of Arts and Trades.Ꮮαwρhi৷
+The Lakewood National High School in the Municipality of Lakewood, Province of Zamboanga del Sur, is hereby converted into a college of arts and trades, to be known, as the Canuto M.S. Enerio College of Arts and Trades.
 
 ## Section 2
 

@@ -69,7 +69,7 @@ The technical description of Rizal is as follows:
 <td>E</td>
 <td>11.928</td>
 </tr>
-<tr><cite>1âwphi1</cite>
+<tr>
 <td>2-3</td>
 <td>S</td>
 <td>80</td>
@@ -1163,7 +1163,7 @@ _Internal Revenue Allotment Shares._ \- Barangay Rizal shall be entitled to Inte
 
 ## Section 7
 
-_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.1âwphi1
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

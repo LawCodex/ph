@@ -33,7 +33,7 @@ Any law, ordinance, administrative order, designation or identification shall be
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

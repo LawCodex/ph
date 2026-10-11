@@ -5147,7 +5147,7 @@ _Powers and Functions of the PAMB._ — The PAMB of Mt. Apo Natural Park, being 
 
 (m) Participate in the selection and designation process of the DENR in the appointment of the Protected Area Superintendent.
 
-The DENR, through the REDs, shall ensure that the PAMB acts within the scope of its powers and functions.ℒαwρhi৷ In case of conflict between administrative orders issued by the DENR pursuant to the NIPAS Act and other laws and resolutions issued by the PAMB, the DENR Secretary shall decide whether to apply the rule or withdraw its application.
+The DENR, through the REDs, shall ensure that the PAMB acts within the scope of its powers and functions. In case of conflict between administrative orders issued by the DENR pursuant to the NIPAS Act and other laws and resolutions issued by the PAMB, the DENR Secretary shall decide whether to apply the rule or withdraw its application.
 
 ### Section 10
 

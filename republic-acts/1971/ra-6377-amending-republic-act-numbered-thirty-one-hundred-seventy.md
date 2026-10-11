@@ -38,7 +38,7 @@ Section three of the same Act is hereby amended to read as follows:
 
 Section eight of the same Act is hereby amended to read as follows:
 
-"**Section 8.** The grantee, its successors or assigns, is authorized to operate its private fixed point-to-point and land-based and land mobile and coastal and maritime mobile radio stations in the medium frequency, high frequency and very high frequency that may be assigned to it by the Secretary of Public Works and Communications."1âшphi1
+"**Section 8.** The grantee, its successors or assigns, is authorized to operate its private fixed point-to-point and land-based and land mobile and coastal and maritime mobile radio stations in the medium frequency, high frequency and very high frequency that may be assigned to it by the Secretary of Public Works and Communications."
 
 ## Section 4
 

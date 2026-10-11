@@ -38,7 +38,7 @@ _Declaration of Policy._ \- It is the policy of the State to instill inclusivity
 
 ## Section 3
 
-_National Holiday._ \- Every seventh (7th) day of November is hereby declared as "Sheikh Karim'ul Makhdum Day", a special national working holiday in commemoration of the establishment of the first Philippine Mosque, and the introduction of Islam in the Philippines.ℒαwρhi৷
+_National Holiday._ \- Every seventh (7th) day of November is hereby declared as "Sheikh Karim'ul Makhdum Day", a special national working holiday in commemoration of the establishment of the first Philippine Mosque, and the introduction of Islam in the Philippines.
 
 ## Section 4
 

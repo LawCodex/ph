@@ -54,6 +54,6 @@ The first barrio officials of these new barrios shall be elected in accordance w
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Pulantubig Elementary School at Dumaguete City is changed to Ramon Magsaysay Memorial School.1awp++i1
+The name of Pulantubig Elementary School at Dumaguete City is changed to Ramon Magsaysay Memorial School.
 
 ## Section 2
 

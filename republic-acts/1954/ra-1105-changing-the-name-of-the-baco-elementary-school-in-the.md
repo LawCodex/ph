@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is changed to Benito Villar Memorial School.1âшphi1
+The name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is changed to Benito Villar Memorial School.
 
 ## Section 2
 

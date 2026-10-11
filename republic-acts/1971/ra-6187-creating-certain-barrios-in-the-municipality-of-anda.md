@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Biasong, Amontay, Estaca, Mahayahay, Kangkao, Lutao, Agso, Sawang, Dagohoy and Licong in the Municipality of Anda, Province of Bohol, are converted into barrios of said municipality, to be known as the barrios of Biasong, Mahayahay, Virgen del Rosario, Sto. Nino and Licong.1âшphi1
+The sitios of Biasong, Amontay, Estaca, Mahayahay, Kangkao, Lutao, Agso, Sawang, Dagohoy and Licong in the Municipality of Anda, Province of Bohol, are converted into barrios of said municipality, to be known as the barrios of Biasong, Mahayahay, Virgen del Rosario, Sto. Nino and Licong.
 
 ## Section 2
 

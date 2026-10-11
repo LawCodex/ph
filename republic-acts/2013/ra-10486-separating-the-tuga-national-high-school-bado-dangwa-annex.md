@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Tuga National H
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Tuga National High School – Bado Dangwa Annex are hereby transferred to and absorbed by the Bado Dangwa National High School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Tuga National High School – Bado Dangwa Annex are hereby transferred to and absorbed by the Bado Dangwa National High School.
 
 ## Section 3
 

@@ -41,7 +41,7 @@ If the grantee shall not commence the manufacture and distribution of ice or sup
 
 ## Section 5
 
-This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred and forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.1avvphi1
+This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred and forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration or repeal by the Congress of the Philippines when public interest so requires.
 
 ## Section 6
 

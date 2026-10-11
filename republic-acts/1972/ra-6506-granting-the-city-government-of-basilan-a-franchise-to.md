@@ -56,7 +56,7 @@ _Executive officer and Secretary of the Board_.—The Commissioner of Civil Serv
 
 ## Section 6
 
-_Removal of Board Members_.—The President of the Philippines may remove any member of the Board for neglect of duty or incompetency or for unprofessional or dishonorable conduct, after having given the member concerned an opportunity to defend himself in the proper administrative investigation.1âшphi1
+_Removal of Board Members_.—The President of the Philippines may remove any member of the Board for neglect of duty or incompetency or for unprofessional or dishonorable conduct, after having given the member concerned an opportunity to defend himself in the proper administrative investigation.
 
 ## Section 7
 
@@ -163,7 +163,7 @@ _Practice of Criminology defined_.—A person is deemed to be engaged in the pra
 
 4\. As correctional administrator, executive supervisor worker or officer in any correctional and penal institution.
 
-5\. As counselor, expert, adviser, researcher in any government or private agency on any aspects of criminal research or project involving the causes of crime, juvenile delinquency, treatment of offenders, police operations, law enforcement administration, scientific criminal investigation or public welfare administration.1âшphi1
+5\. As counselor, expert, adviser, researcher in any government or private agency on any aspects of criminal research or project involving the causes of crime, juvenile delinquency, treatment of offenders, police operations, law enforcement administration, scientific criminal investigation or public welfare administration.
 
 ## Section 24
 

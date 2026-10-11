@@ -29,7 +29,7 @@ The Dr. Catalino Gallego Nava Provincial Hospital in the Municipality of Jordan,
 
 ## Section 2
 
-The authorized bed capacity of the Dr. Catalino Gallego Nava Medical Center shall be increased from twenty-five (25) to two hundred (200) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Dr. Catalino Gallego Nava Medical Center, and submitted to the Department of Health.ℒαwρhi৷
+The authorized bed capacity of the Dr. Catalino Gallego Nava Medical Center shall be increased from twenty-five (25) to two hundred (200) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Dr. Catalino Gallego Nava Medical Center, and submitted to the Department of Health.
 
 ## Section 3
 

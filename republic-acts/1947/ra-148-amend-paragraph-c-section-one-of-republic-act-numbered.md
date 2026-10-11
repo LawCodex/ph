@@ -30,6 +30,6 @@ Paragraph C, section one of Republic Act Numbered Sixty-two is hereby amended to
 
 ## Section 2
 
-This Act shall take effect upon its approval.⌊aшΡhi⌊
+This Act shall take effect upon its approval.
 
 Approved: June 14, 1947.

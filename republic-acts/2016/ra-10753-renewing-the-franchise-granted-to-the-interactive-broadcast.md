@@ -84,7 +84,7 @@ _Reportorial Requirement._ – The grantee shall submit an annual report to the 
 
 ## SECTION 14
 
-_Penalty Clause._ – Failure to submit the annual report to Congress shall he penalized with a fine of five hundred pesos (P500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC.1awp++i1 ‘The collected funds shall accrue to the monitoring fund, of the NTC in line with its supervisory and regulatory functions. The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
+_Penalty Clause._ – Failure to submit the annual report to Congress shall he penalized with a fine of five hundred pesos (P500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC. ‘The collected funds shall accrue to the monitoring fund, of the NTC in line with its supervisory and regulatory functions. The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## SECTION 15
 

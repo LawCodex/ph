@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Cagayan Valley School of Arts and Trades in the Municipality of Tuguegarao, Province of Cagayan, is hereby converted into a college to be known as Cagayan Valley School of Arts and Trades which shall be under the supervision of the Director of Vocational Education. The said college shall offer, in addition to its present curriculum, such collegiate courses as the said Director may determine.£a⩊phi£
+The Cagayan Valley School of Arts and Trades in the Municipality of Tuguegarao, Province of Cagayan, is hereby converted into a college to be known as Cagayan Valley School of Arts and Trades which shall be under the supervision of the Director of Vocational Education. The said college shall offer, in addition to its present curriculum, such collegiate courses as the said Director may determine.
 
 ## Section 2
 

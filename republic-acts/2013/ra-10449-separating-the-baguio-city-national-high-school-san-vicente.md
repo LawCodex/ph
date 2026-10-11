@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Baguio City Nat
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Baguio City National High School – San Vicente Annex are hereby transferred to and absorbed by the San Vicente National High School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Baguio City National High School – San Vicente Annex are hereby transferred to and absorbed by the San Vicente National High School.
 
 ## Section 3
 

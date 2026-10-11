@@ -28,6 +28,6 @@ The barrios and sitios of Lalabuan, Barorao, Purakan, Baguiangan, Kalilangan, It
 
 ## Section 2
 
-This Act shall take effect as of March sixteen, nineteen hundred and sixty.1a⍵⍴h!1
+This Act shall take effect as of March sixteen, nineteen hundred and sixty.
 
 Approved, July 5, 1969.

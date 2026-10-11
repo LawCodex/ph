@@ -28,7 +28,7 @@ All corporations, agencies or instrumentalities owned or controlled by the Gover
 
 ## Section 2
 
-All acts or parts of acts which are inconsistent with the provisions of this Act are hereby repealed.1aшphi1
+All acts or parts of acts which are inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

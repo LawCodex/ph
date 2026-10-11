@@ -35,7 +35,7 @@ The Secretary of the Department of Education, Culture and Sports shall issue suc
 
 ## Section 3
 
-All personnel, records, assets and liabilities of the Pingad National High School - Namatec Annex are hereby transferred to and absorbed by the Namatec National High School.ℒαwρhi৷
+All personnel, records, assets and liabilities of the Pingad National High School - Namatec Annex are hereby transferred to and absorbed by the Namatec National High School.
 
 ## Section 4
 

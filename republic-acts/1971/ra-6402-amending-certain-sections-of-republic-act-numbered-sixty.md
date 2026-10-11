@@ -34,7 +34,7 @@ Section eighty-eight of the same Act is hereby amended to read as follows:
 
 "Section 88. _Regular and auxiliary judges of the city court._ —There shall be a city court for the City of Surigao Consisting of two branches for which shall be appointed and designated two city judges to be known as judges of the first and second branch thereof, and a City Auxiliary Judge.
 
-"The City Court shall have the same jurisdiction in civil and criminal cases and the same incidental powers as are at present conferred by law upon municipal courts such additional jurisdiction and powers as may hereafter be conferred upon them by law or after this charter.1âшphi1
+"The City Court shall have the same jurisdiction in civil and criminal cases and the same incidental powers as are at present conferred by law upon municipal courts such additional jurisdiction and powers as may hereafter be conferred upon them by law or after this charter.
 
 "The auxiliary City Judge shall discharge the duties in case of absence, incapacity, or inability of any of the City Judges until the latter reassumes his post. During his incumbency the Auxiliary City Judge shall enjoy the powers, emoluments and privileges of the City Judge."
 

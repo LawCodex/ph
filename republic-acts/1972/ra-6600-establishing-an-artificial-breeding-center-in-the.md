@@ -28,7 +28,7 @@ There is hereby established, under the supervision of the Bureau of Animal Indus
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office-laboratory building, animal sheds, equipment, supplies and materials and such other expenses as may be necessary to carry out the purposes of this Act.1âшphi1
+The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office-laboratory building, animal sheds, equipment, supplies and materials and such other expenses as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 

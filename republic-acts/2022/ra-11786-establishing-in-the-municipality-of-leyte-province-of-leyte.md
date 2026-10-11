@@ -64,7 +64,7 @@ All other powers, functions, privileges, responsibilities, and limitations under
 
 ## Section 10
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act.ᇈWᑭHIL
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act.
 
 ## Section 11
 

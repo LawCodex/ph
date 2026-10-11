@@ -46,7 +46,7 @@ g. P15,000,000 for the Presidential Assistant on Community Development, National
 
 In the implementation of Section one, the following rules shall be observed:
 
-a. That the term "spent and actually disbursed" for the purposes of Section one refers to the movement of cash from the Government to the final recipient;1âшphi1
+a. That the term "spent and actually disbursed" for the purposes of Section one refers to the movement of cash from the Government to the final recipient;
 
 b. That the relief extended with public funds or officially by government officials and personnel shall not bear any marking or identification attributing the same as coming from any public official or private individual;
 

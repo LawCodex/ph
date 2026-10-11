@@ -25,7 +25,7 @@ Be it enacted by the Senate and House Representatives of the Philippines in Cong
 
 ## Section 1
 
-The name of the Southern Islands Medical Center in the City of Cebu is hereby changed to Vicente Sotto Memorial Medical Center.1âшphi1
+The name of the Southern Islands Medical Center in the City of Cebu is hereby changed to Vicente Sotto Memorial Medical Center.
 
 ## Section 2
 

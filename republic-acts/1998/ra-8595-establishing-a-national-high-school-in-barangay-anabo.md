@@ -31,7 +31,7 @@ There shall be established a national high school in Barangay Anabo, Municipalit
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.Ꮮαwρhi৷
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
 
 ## Section 3
 

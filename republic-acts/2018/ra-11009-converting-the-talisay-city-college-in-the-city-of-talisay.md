@@ -51,11 +51,11 @@ Section 24 of Republic Act No. 10594 is hereby amended to read as follows:
 
 ## Section 3
 
-All laws, executive orders, decrees, instructions, rules and regulations contrary to or inconsistent with any provision of this Act are hereby amended, repealed or modified accordingly.1âwphi1
+All laws, executive orders, decrees, instructions, rules and regulations contrary to or inconsistent with any provision of this Act are hereby amended, repealed or modified accordingly.
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

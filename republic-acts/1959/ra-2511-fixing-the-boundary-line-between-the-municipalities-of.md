@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The boundary line between the municipalities of Allen and San Isidro, Province of Samar, shall be the center of the Mawo River up to the intersection of Mawo River and Igot River (San Ramon Creek), and from the center of the mount of Igot River to the intersection of Igot River and Binalabag Creek which runs eastward up to the boundary of the Municipality of San Jose.1âшphi1
+The boundary line between the municipalities of Allen and San Isidro, Province of Samar, shall be the center of the Mawo River up to the intersection of Mawo River and Igot River (San Ramon Creek), and from the center of the mount of Igot River to the intersection of Igot River and Binalabag Creek which runs eastward up to the boundary of the Municipality of San Jose.
 
 ## Section 2
 

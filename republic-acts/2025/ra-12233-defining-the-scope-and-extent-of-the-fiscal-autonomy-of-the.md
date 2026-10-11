@@ -83,7 +83,7 @@ _Salary and Personnel Administration._ \- The Supreme Court shall have the autho
 
 The DBM shall act on the request by the Supreme Court for the issuance of the Notice of Organization, Staffing, and Compensation Action (NOSCA) for newly created positions within one hundred twenty (120) days from receipt thereof. In case of failure by the DBM to act upon such request, the Supreme Court may take appropriate measures to address the matter, in accordance with the authority granted to it under this Act.
 
-The Supreme Court shall institute measures to provide sufficient, attractive, and competitive compensation for judicial and non-judicial personnel to ensure continuity and sustainability of service, and to support career development.ℒαwρhi৷
+The Supreme Court shall institute measures to provide sufficient, attractive, and competitive compensation for judicial and non-judicial personnel to ensure continuity and sustainability of service, and to support career development.
 
 ## Section 9
 

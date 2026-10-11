@@ -31,7 +31,7 @@ May 19 of every year is hereby declared as a special working holiday in the City
 
 ## Section 2
 
-This Act shall take effect immediately upon its approval.ℒαwρhi৷
+This Act shall take effect immediately upon its approval.
 
 Approved,
 

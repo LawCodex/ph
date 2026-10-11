@@ -39,7 +39,7 @@ The territorial jurisdiction of the Municipal Circuit Trial Court of Mabalacat a
 
 ## SECTION 3
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches in the Third Judicial Region.1âwphi1
+The Supreme Court shall assign the respective branch numbers for the newly created branches in the Third Judicial Region.
 
 ## SECTION 4
 

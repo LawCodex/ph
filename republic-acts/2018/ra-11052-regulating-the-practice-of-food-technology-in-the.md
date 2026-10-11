@@ -187,7 +187,7 @@ _Scope of Examination._ \- The licensure examination shall cover the following s
 
 (c) Quality Sensory Evaluation of Food Engineering;
 
-(d) Food Laws and Regulations.1âwphi1
+(d) Food Laws and Regulations.
 
 The Board may revise or exclude any of the above subjects and add new ones as may be called for by the requirements of the industry and the profession.
 
@@ -213,7 +213,7 @@ _Refusal to Register._ \- The Board shall not register ant successful examinee w
 
 _Registration Without Examination._ The PRC shall issued a certificate of registration and professional license to the Chairperson and members of the first Board of Food Technology and to person who, on the date of the technologists given by the Board. The same privilege shall be granted to a qualified applicant who shall apply for registration without taking the prescribed licensure examination and who is a holder of a Bachelor's Degree in Food Technology or allied fields in Nutrition, Agriculture, Biochemistry of Molecular Biology, Chemistry Fishery, Chemical Engineering, and who has been actively practicing the profession of food technology for a period of at least five (5) years immediately preceding the effectivity of this Act.
 
-A qualified applicant shall file the application in the form prescribed for the purpose not later than two (2) years form the date of the effectivity of this Act.1a\^/phi1
+A qualified applicant shall file the application in the form prescribed for the purpose not later than two (2) years form the date of the effectivity of this Act.
 
 ### Section 21
 

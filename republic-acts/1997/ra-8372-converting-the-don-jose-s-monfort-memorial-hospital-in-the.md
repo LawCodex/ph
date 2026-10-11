@@ -32,7 +32,7 @@ The Don Jose S. Monfort Memorial Hospital in the Municipality of Barotac Nuevo, 
 
 ## Section 2
 
-The said extension hospital shall serve as curative, teaching, training and medical research component of the Western Visayas Medical Center.1aшphi1
+The said extension hospital shall serve as curative, teaching, training and medical research component of the Western Visayas Medical Center.
 
 ## Section 3
 

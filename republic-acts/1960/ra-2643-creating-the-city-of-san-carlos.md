@@ -230,13 +230,19 @@ _Powers and duties of heads of departments._ -Each head of department of the cit
 
 In case of the absence or sickness, or inability to act for any other person, of the head of one of the city departments, the officer next in charge of that department shall act in his place with authority to sign all necessary papers, vouchers and requisitions and similar documents.
 
-**Section 19._A_** ppointment, removal and salaries of officials and employees. -The President of the Philippines shall appoint with the consent of the Commission on Appointments, the judge and auxiliary judge of the municipal court, the city treasurer, the city engineer, the city attorney, the city health officer, the chief of police and fire department, and other heads of such city departments as may be created. Said officers shall not be suspended or removed except in the manner and for causes provided by law.
+### Section 19
+
+_A_ ppointment, removal and salaries of officials and employees. -The President of the Philippines shall appoint with the consent of the Commission on Appointments, the judge and auxiliary judge of the municipal court, the city treasurer, the city engineer, the city attorney, the city health officer, the chief of police and fire department, and other heads of such city departments as may be created. Said officers shall not be suspended or removed except in the manner and for causes provided by law.
 
 All other officers and employees of the city whose appointments are not otherwise provided for by law shall be appointed by the mayor upon recommendation of the corresponding city department head in accordance with the Civil Service Law, and they shall be suspended or removed in accordance with said law.
 
-**Section 20._O_** fficers not to engage in certain transactions. -It shall be unlawful for any city officer, directly or indirectly, individually or as a member of a firm, to engage in any business transaction with the city, or with any of its authorized officials, boards, agents, or attorneys, whereby money is to be paid, directly or indirectly, out of the resources of the city to such person or firm; or to purchase any real estate or other property belonging to the city, or which shall be sold for taxes or assessments, or by virtue of legal process at the suit of the city; or to be surety for any person having a contract or doing business with the city, for the performance of which security may be required; or to be surety on the official bond of any officer of the city and shall not be financially interested in any transaction or contract in which the National Government or any instrumentality or subdivision thereof is an interested party.
+### Section 20
 
-**Section 21._S_** tatement of assets. -Before assuming office, every official and regular employee of the city government shall file in the office of the city attorney a sworn statement of his assets and property holdings.
+_O_ fficers not to engage in certain transactions. -It shall be unlawful for any city officer, directly or indirectly, individually or as a member of a firm, to engage in any business transaction with the city, or with any of its authorized officials, boards, agents, or attorneys, whereby money is to be paid, directly or indirectly, out of the resources of the city to such person or firm; or to purchase any real estate or other property belonging to the city, or which shall be sold for taxes or assessments, or by virtue of legal process at the suit of the city; or to be surety for any person having a contract or doing business with the city, for the performance of which security may be required; or to be surety on the official bond of any officer of the city and shall not be financially interested in any transaction or contract in which the National Government or any instrumentality or subdivision thereof is an interested party.
+
+### Section 21
+
+_S_ tatement of assets. -Before assuming office, every official and regular employee of the city government shall file in the office of the city attorney a sworn statement of his assets and property holdings.
 
 ## Article V — Finance Department
 

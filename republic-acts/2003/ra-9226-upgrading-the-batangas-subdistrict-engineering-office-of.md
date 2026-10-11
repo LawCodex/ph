@@ -42,7 +42,7 @@ The Secretary of the DPWH shall include in its program the funding requirements 
 
 ## SEC. 4
 
-This Act shall take effect upon its approval.1ªvvphï|.ñêt
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -40,7 +40,7 @@ All assets, whether fixed or movable, records and personnel, obligations and app
 
 ## Section 4
 
-the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 5
 

@@ -105,7 +105,7 @@ _General Telecommunications Policy Law._ -The grantee shall comply with and be s
 
 ## Section 18
 
-_Separability Clause_. - If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.1a⍵⍴h!1
+_Separability Clause_. - If any of the sections or provisions of this Act is held invalid, all the other provisions not affected thereby shall remain valid.
 
 ## Section 19
 

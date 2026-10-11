@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Dongallo’s Enterprises, Inc., its successors or assigns, is hereby granted a temporary permit to establish, maintain and operate private fixed point-to-point radiotelephone stations in Quezon City, and in other parts of the Philippines where it maintains or may hereafter maintain offices or establishments for the operation of its logging and sawmill business, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages to and from said stations, including its vehicles and boats.1avvphi1
+Dongallo’s Enterprises, Inc., its successors or assigns, is hereby granted a temporary permit to establish, maintain and operate private fixed point-to-point radiotelephone stations in Quezon City, and in other parts of the Philippines where it maintains or may hereafter maintain offices or establishments for the operation of its logging and sawmill business, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages to and from said stations, including its vehicles and boats.
 
 ## Section 2
 

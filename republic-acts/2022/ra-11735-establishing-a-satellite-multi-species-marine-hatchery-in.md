@@ -44,7 +44,7 @@ The Secretary of Agriculture shall include in the Department's programs the esta
 
 ## Section 4
 
-Within sixty (60) days from the approval of this Act, the Department of Agriculture and the NIPSC shall issue the rules and regulations on the establishment, supervision, operation, monitoring, and the eventual transfer of the management of the satellite multi-species marine hatchery to the NIPSC.ℒαwρhi৷
+Within sixty (60) days from the approval of this Act, the Department of Agriculture and the NIPSC shall issue the rules and regulations on the establishment, supervision, operation, monitoring, and the eventual transfer of the management of the satellite multi-species marine hatchery to the NIPSC.
 
 ## Section 5
 

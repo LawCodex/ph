@@ -53,7 +53,7 @@ The grantee shall be liable to pay the same taxes, unless exempted therefrom, on
 
 ## Section 8
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum shall accrue to the National Government and two per centum, to the municipalities where the franchise is being operated.1âшphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum shall accrue to the National Government and two per centum, to the municipalities where the franchise is being operated.
 
 ## Section 9
 

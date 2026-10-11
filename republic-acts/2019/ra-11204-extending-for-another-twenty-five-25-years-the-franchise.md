@@ -86,7 +86,7 @@ Section 19 of Republic Act No. 8196 is hereby amended to read as follows:
 
 ## Section 11
 
-_Fine_ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized with a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties it shall impose.1âwphi1
+_Fine_ \- Failure of the grantee to submit the requisite annual report to Congress shall be penalized with a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties it shall impose.
 
 ## Section 12
 

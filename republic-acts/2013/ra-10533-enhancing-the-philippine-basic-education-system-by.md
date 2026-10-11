@@ -148,7 +148,7 @@ The Oversight Committee shall be composed of five (5) members each from the Sena
 
 ## Section 14
 
-_Mandatory Evaluation and Review._ — By the end of School Year 2014-2015, the DepED shall conduct a mandatory review and submit a midterm report to Congress as to the status of implementation of the K to 12 program in terms of closing the following current shortages: (a) teachers; (b) classrooms; (c) textbooks; (d) seats; (e) toilets; and (f) other shortages that should be addressed.1âwphi1
+_Mandatory Evaluation and Review._ — By the end of School Year 2014-2015, the DepED shall conduct a mandatory review and submit a midterm report to Congress as to the status of implementation of the K to 12 program in terms of closing the following current shortages: (a) teachers; (b) classrooms; (c) textbooks; (d) seats; (e) toilets; and (f) other shortages that should be addressed.
 
 The DepED shall include among others, in this midterm report, the following key metrics of access to and quality of basic education: (a) participation rate; (b) retention rate; (c) National Achievement Test results; (d) completion rate; (e) teachers’ welfare and training profiles; (f) adequacy of funding requirements; and (g) other learning facilities including, but not limited to, computer and science laboratories, libraries and library hubs, and sports, music and arts.
 

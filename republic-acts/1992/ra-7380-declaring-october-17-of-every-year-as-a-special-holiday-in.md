@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the provisions of the Constitution and of laws, not inconsistent herewith, October 17, of every year is hereby declared a special holiday throughout the Province of Sorsogon in commemoration and celebration of the anniversary of its foundation as a local government unit.1âшphi1
+Subject to the provisions of the Constitution and of laws, not inconsistent herewith, October 17, of every year is hereby declared a special holiday throughout the Province of Sorsogon in commemoration and celebration of the anniversary of its foundation as a local government unit.
 
 ## Section 2
 

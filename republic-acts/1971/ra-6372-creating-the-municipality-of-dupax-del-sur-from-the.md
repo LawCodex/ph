@@ -114,7 +114,7 @@ thence S. 50 degrees 00'E., 5,500.00 m to point of beginning.
 
 ## Section 4
 
-The seat of government of Dupax del Norte shall be in the poblacion of Malasin; the seat of government of Dupax del Sur shall be in the poblacion of Dupax.1âшphi1
+The seat of government of Dupax del Norte shall be in the poblacion of Malasin; the seat of government of Dupax del Sur shall be in the poblacion of Dupax.
 
 ## Section 5
 

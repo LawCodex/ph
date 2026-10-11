@@ -90,7 +90,7 @@ The Chairman of the Board shall have the following duties and functions:
 
 (b) To execute or implement decisions of the Board, and to see to it that the educational policies approved by the Board are duly complied with and followed by all schools.
 
-(c) To perform all duties heretofore prescribed by law for the highest education officials of the land that are not inconsistent with the provisions of this Act.1âшphi1
+(c) To perform all duties heretofore prescribed by law for the highest education officials of the land that are not inconsistent with the provisions of this Act.
 
 (d) To perform such other duties as may be assigned by the Board.
 

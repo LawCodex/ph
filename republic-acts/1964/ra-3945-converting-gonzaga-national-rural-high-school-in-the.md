@@ -29,7 +29,7 @@ The Gonzaga National Rural High School in the Municipality of Gonzaga, Province 
 
 ## Section 2
 
-The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.(awÞhi(
+The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

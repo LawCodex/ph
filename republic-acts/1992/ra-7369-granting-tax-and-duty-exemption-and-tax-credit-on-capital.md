@@ -2690,7 +2690,7 @@ Paragraph (d), Article 39, Title III of the same Code, is likewise amended to re
 </tr>
 </table>
 
-:_Provided, however,_ That the National Economic and Development Authority may, upon due notice and public hearing, and in consultation with concerned government agencies, exclude any item from the foregoing list, subject to the condition that the machinery or equipment is being manufactured domestically in sufficient quantity, of comparable quality and at a reasonable price.1âшphi1
+:_Provided, however,_ That the National Economic and Development Authority may, upon due notice and public hearing, and in consultation with concerned government agencies, exclude any item from the foregoing list, subject to the condition that the machinery or equipment is being manufactured domestically in sufficient quantity, of comparable quality and at a reasonable price.
 
 ## Section 4
 

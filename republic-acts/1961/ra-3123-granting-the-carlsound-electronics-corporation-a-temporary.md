@@ -36,7 +36,7 @@ This temporary permit shall continue to be in force during the time that the Gov
 
 ## Section 4
 
-The grantee shall not engage in domestic business of telecommunications in the Philippine without further special assent of the Congress of the Philippines, it being understood that the purpose of this, temporary permit is to secure to the grantee the right to construct, establish install and operate said radio stations at such places within the Philippines as the interest of the grantee and of its trade and business may justify.1avvphi1
+The grantee shall not engage in domestic business of telecommunications in the Philippine without further special assent of the Congress of the Philippines, it being understood that the purpose of this, temporary permit is to secure to the grantee the right to construct, establish install and operate said radio stations at such places within the Philippines as the interest of the grantee and of its trade and business may justify.
 
 ## Section 5
 
@@ -64,7 +64,7 @@ A special right is hereby reserved to the President of the Philippines in time o
 
 ## Section 11
 
-This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This temporary permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 12
 

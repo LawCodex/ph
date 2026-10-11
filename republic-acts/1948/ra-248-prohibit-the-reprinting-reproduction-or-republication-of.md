@@ -28,7 +28,7 @@ The reprinting, reproduction or republication by any private person or entity of
 
 ## Section 2
 
-The Secretary of Education is hereby authorized to issue such rules and regulations as may be necessary to carry into effect the provisions of this Act.1aшphi1
+The Secretary of Education is hereby authorized to issue such rules and regulations as may be necessary to carry into effect the provisions of this Act.
 
 ## Section 3
 

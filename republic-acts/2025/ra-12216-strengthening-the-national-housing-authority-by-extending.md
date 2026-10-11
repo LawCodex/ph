@@ -334,7 +334,7 @@ The DHSUD shall ensure the translation of the KSA reorganization into operationa
 
 _Absorption or Separation from Service of Employees._ \- The existing employees of the Authority holding permanent appointments shall enjoy security of tenure and be given priority by the Authority in filling up the positions that may be created upon the approval of the new organizational staffing pattern. The formulation of the new organizational staffing pattern shall be completed within one (1) year after the effectivity of this Act and implemented within a period of six (6) months thereafter.
 
-Employees who opt to be separated from the service shall, within one (1) month from separation, receive separation benefits in accordance with existing laws. Those who are qualified may retire and be entitled to all the benefits provided under existing retirement laws.ℒαwρhi৷
+Employees who opt to be separated from the service shall, within one (1) month from separation, receive separation benefits in accordance with existing laws. Those who are qualified may retire and be entitled to all the benefits provided under existing retirement laws.
 
 ## Section 25
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Province of Western Samar is hereby changed to Samar.1a⍵⍴h!1
+The name of the Province of Western Samar is hereby changed to Samar.
 
 ## Section 2
 

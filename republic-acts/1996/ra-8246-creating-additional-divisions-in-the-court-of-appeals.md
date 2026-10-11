@@ -65,10 +65,16 @@ The Committee shall undertake a serious study as to the feasibility and desirabi
 
 The Supreme Court shall submit the findings and recommendation of this Committee to Congress one (1) year after the effectivity of this Act.
 
-**Section 8._Separability Clause._** – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
+## Section 8
 
-**Section 9._Repealing Clause._** – All laws, presidential decrees, letters of instruction executive orders, rules and regulations, or an part thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Separability Clause._ – If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
-**Section 10._Effectivity._** – This Act shall take effect after fifteen (15) days following its publication in two (2) newspapers of general circulation.
+## Section 9
+
+_Repealing Clause._ – All laws, presidential decrees, letters of instruction executive orders, rules and regulations, or an part thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 10
+
+_Effectivity._ – This Act shall take effect after fifteen (15) days following its publication in two (2) newspapers of general circulation.
 
 Approved: **December 30, 1996**

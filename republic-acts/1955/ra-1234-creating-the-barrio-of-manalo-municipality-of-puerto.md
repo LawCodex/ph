@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Materingen, Tandayag, Nasedoc, and Panlawagan are separated from the barrio of Maroyogon, Municipality of Puerto Princesa, Province of Palawan, and are constituted into a barrio of said municipality to be known as the barrio of Manalo.1âшphi1
+The sitios of Materingen, Tandayag, Nasedoc, and Panlawagan are separated from the barrio of Maroyogon, Municipality of Puerto Princesa, Province of Palawan, and are constituted into a barrio of said municipality to be known as the barrio of Manalo.
 
 ## Section 2
 

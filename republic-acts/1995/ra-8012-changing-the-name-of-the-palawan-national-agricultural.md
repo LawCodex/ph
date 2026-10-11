@@ -32,7 +32,7 @@ The present Palawan National Agricultural College in the Municipality of Aborlan
 
 ## Section 2
 
-The State Polytechnic College of Palawan is hereby authorized to continue offering its present collegiate courses and to offer other courses in arts, sciences and technology, and other related courses as the Board of Trustees of the state college may deem necessary to carry out its objectives: _Provided,_ That the courses to be offered are consistent with the goals for local, regional and national development.1aшphi1
+The State Polytechnic College of Palawan is hereby authorized to continue offering its present collegiate courses and to offer other courses in arts, sciences and technology, and other related courses as the Board of Trustees of the state college may deem necessary to carry out its objectives: _Provided,_ That the courses to be offered are consistent with the goals for local, regional and national development.
 
 ## Section 3
 

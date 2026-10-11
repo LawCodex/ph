@@ -38,7 +38,7 @@ The Secretary of the Department of Transportation shall immediately include in t
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in newspaper of general circulation.
 
 Approved,
 

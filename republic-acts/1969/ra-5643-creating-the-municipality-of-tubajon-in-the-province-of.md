@@ -28,7 +28,7 @@ The following territory is separated from the Municipality of Loreto, Province o
 
 "The territory starting from the Northwestern coastal shore at Loreto, at Lisub Cove, as point "A" following a straight line, Southwest toward Pili (Caracan) Hill at Barrio Mabini as Point "B"; then from Point "B" at Pili Hill following a straight line to Payao Point at Malinao Inlet as Point "C"; then Payao Point following the coast line Southward to Balwarto Point; then to Awing Point, the Municipal Boundary of the Municipality of Loreto, mother municipality of Tubaion, and the Municipality of Albor; then from Awing Point following the coast line Northward to Lisub Cove Point "A" point of the beginning. Said territory comprises the Barrios of San Vicente, Santa Cruz, Roxas. Mabini, Malinao, Navarro, and Imelda."
 
-The seat of government of the new Municipality of Tubajon shall be in the present site of Barrios San Vicente and Santa Cruz.1a⍵⍴h!1
+The seat of government of the new Municipality of Tubajon shall be in the present site of Barrios San Vicente and Santa Cruz.
 
 ## Section 2
 

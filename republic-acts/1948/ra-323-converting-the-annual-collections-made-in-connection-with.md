@@ -28,7 +28,7 @@ The annual collections made in connection with plant quarantine activities, such
 
 ## Section 2
 
-After five years from the approval of this Act, all the collections to be made from the plant quarantine activities shall revert to the National Treasury.1awp++i1
+After five years from the approval of this Act, all the collections to be made from the plant quarantine activities shall revert to the National Treasury.
 
 ## Section 3
 

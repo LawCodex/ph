@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-To commemorate the birth anniversary of the late President Carlos P. Garcia, November Four of every year is hereby declared as a special nonworking holiday in the Province of Bohol, and November Two to Six designated as Carlos P. Garcia Week in said province.1âшphi1
+To commemorate the birth anniversary of the late President Carlos P. Garcia, November Four of every year is hereby declared as a special nonworking holiday in the Province of Bohol, and November Two to Six designated as Carlos P. Garcia Week in said province.
 
 ## Section 2
 

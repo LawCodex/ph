@@ -56,7 +56,7 @@ _Implementing Rules and Regulations._ – Within thirty (30) days from the effec
 
 ## Section 7
 
-_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations inconsistent with any provision of this Act are hereby repealed, amended or modified accordingly.1aшphi1
+_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations inconsistent with any provision of this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 8
 

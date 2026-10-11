@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there is granted to each of the municipalities of Bindoy, Jimalalod and La Libertad, all in the Province of Negros Oriental, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within each of the said municipalities.£a⩊phi£
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there is granted to each of the municipalities of Bindoy, Jimalalod and La Libertad, all in the Province of Negros Oriental, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within each of the said municipalities.
 
 ## Section 2
 

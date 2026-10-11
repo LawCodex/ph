@@ -34,7 +34,7 @@ _Establishment ofa National High School._ \- There is hereby established, under 
 
 ## Section 2
 
-_Appropriations._ \- The secretary of Education shall immediately include in the Department’s program the operationalization of Abatan National High School, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Appropriations._ \- The secretary of Education shall immediately include in the Department’s program the operationalization of Abatan National High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -48,7 +48,7 @@ b. The Secretary of Public Works and Communications, on reasonable notice to the
 
 2\. whenever in his judgment the public interest of the Republic of the Philippines require that such frequencies or wave lengths should be use for other purposes than those of the grantee, either by the Government of the Philippines or by other individuals or corporations licensed by it; and
 
-3\. whenever in his judgment, for any reason the public interest of the Philippines so require.1a⍵⍴h!1
+3\. whenever in his judgment, for any reason the public interest of the Philippines so require.
 
 ## Section 6
 

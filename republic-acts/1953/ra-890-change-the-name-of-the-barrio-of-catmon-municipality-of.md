@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the barrio of Catmon in the municipality of Sibalom, Province of Antique, is hereby changed to Pajarito.1a⍵⍴h!1
+The name of the barrio of Catmon in the municipality of Sibalom, Province of Antique, is hereby changed to Pajarito.
 
 ## Section 2
 

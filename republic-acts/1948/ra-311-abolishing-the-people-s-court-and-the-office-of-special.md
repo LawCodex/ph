@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The People’s Court and the Office of Special Prosecutors, created by Commonwealth Act Numbered Six hundred and eighty-two, are hereby abolished.1aшphi1
+The People’s Court and the Office of Special Prosecutors, created by Commonwealth Act Numbered Six hundred and eighty-two, are hereby abolished.
 
 ## Section 2
 

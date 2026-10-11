@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section three of Republic Act Numbered Twenty-seven hundred and thirty-two is hereby amended to read as follows:
 
-"Sec. 3. The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of the said hospital during the fiscal year nineteen hundred and sixty-one: _Provided,_ That the sum of one hundred fifty thousand pesos shall be used for the construction of buildings.(awÞhi( Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act."
+"Sec. 3. The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of the said hospital during the fiscal year nineteen hundred and sixty-one: _Provided,_ That the sum of one hundred fifty thousand pesos shall be used for the construction of buildings. Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act."
 
 ## Section 2
 

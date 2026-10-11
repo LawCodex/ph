@@ -38,7 +38,7 @@ The grantee shall not engage in domestic business of telecommunications in the P
 
 ## Section 4
 
-No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee’s business only.1avvphi1
+No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee’s business only.
 
 ## Section 5
 
@@ -54,7 +54,7 @@ A special right is hereby reserved to the President of the Philippines in time o
 
 ## Section 8
 
-This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.1âшphi1
+This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 9
 

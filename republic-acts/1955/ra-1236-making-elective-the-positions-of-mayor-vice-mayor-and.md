@@ -59,7 +59,7 @@ Section twelve of the same Act, is amended to read as follows:
 
 "Sec. 12. _Qualifications, election, suspension, and removal of members of the Board._ -The members of
 
-the Board shall be qualified electors of the city. They shall be elected in the general elections for provincial and municipal officials and shall hold office for a term of four years.1awp++i1 The members of the Board shall be residents of the city for at least one year, and be not less than twenty-three years of age. The members-elect shall upon qualifying assume office on the date fixed in the Revised Election Code and hold office until their successors are elected and have qualified.
+the Board shall be qualified electors of the city. They shall be elected in the general elections for provincial and municipal officials and shall hold office for a term of four years. The members of the Board shall be residents of the city for at least one year, and be not less than twenty-three years of age. The members-elect shall upon qualifying assume office on the date fixed in the Revised Election Code and hold office until their successors are elected and have qualified.
 
 "The members of the Board may suspended or removed from office under the same circumstances, in the same manner, and with the same effect, as elective provincial officials.
 

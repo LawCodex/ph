@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 **AN ACT CREATING SIX ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL FOR THE PROVINCE OF ISABELA, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.**
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:.1a⍵⍴h!1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:.
 
 ## Section 1
 

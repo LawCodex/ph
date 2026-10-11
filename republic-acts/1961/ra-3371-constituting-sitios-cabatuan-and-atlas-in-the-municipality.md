@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, are hereby constituted into a barrio to be known as Barrio Talisay.1avvphi1
+Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, are hereby constituted into a barrio to be known as Barrio Talisay.
 
 ## Section 2
 

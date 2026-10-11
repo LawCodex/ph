@@ -29,7 +29,7 @@ The existing Land Transportation Office (LTO) Extension Office in the Municipali
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO Extension Office in the Municipality of San Pascual, Province of Batangas, the funding of which shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO Extension Office in the Municipality of San Pascual, Province of Batangas, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

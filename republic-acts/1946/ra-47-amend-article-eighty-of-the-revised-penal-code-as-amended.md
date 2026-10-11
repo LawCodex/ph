@@ -31,6 +31,6 @@ The first paragraph of article eighty of Act Numbered Thirty-eight hundred and f
 
 ## Section 2
 
-This Act shall take effect upon its approval.£á⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: October 3, 1946

@@ -34,7 +34,7 @@ Section seven, subsection (d) of Commonwealth Act Numbered One hundred and sixty
 
 "(3) A corporation organized under the laws of the Philippines, of which the directing head and at least two-thirds of the directors and managing officers are citizens of the Philippines; and of which at least sixty-six and two-thirds per cent of the voting interest of the corporation is owned absolutely and controlled exclusively by citizens of3the Philippines; or
 
-"(4) The Government of the Philippines or a political subdivision thereof.1â#x0448;phi1
+"(4) The Government of the Philippines or a political subdivision thereof.
 
 "_Provided,_ _However,_ That with the approval of the President of the Philippines, the Secretary of National Defense, upon the recommendation of the Director of Aeronautics, may allow the registration and issue permits for the operation of aircrafts owned by any person, corporation, or association for personal use only to Filipino citizens and to aliens whose countries allow reciprocal privilege to Filipino nationals."
 

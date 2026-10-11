@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Two (2) additional branches of the Municipal Trial Court in Cities to be stationed in Biñan City, Province of Laguna are hereby created in the Fourth Judicial Region.
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches of the Municipal Trial Court in Cities.1âшphi1
+The Supreme Court shall assign the respective branch numbers for the newly created branches of the Municipal Trial Court in Cities.
 
 ## Section 2
 

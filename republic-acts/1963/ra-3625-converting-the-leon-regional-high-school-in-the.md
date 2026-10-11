@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Leon Regional High School in the Municipality of Leon, Province of Iloilo, is hereby converted into a national agricultural high school and this school shall be located at Barrio Bucari, Municipality of Leon, Province of Iloilo.1âшphi1
+The Leon Regional High School in the Municipality of Leon, Province of Iloilo, is hereby converted into a national agricultural high school and this school shall be located at Barrio Bucari, Municipality of Leon, Province of Iloilo.
 
 ## Section 2
 

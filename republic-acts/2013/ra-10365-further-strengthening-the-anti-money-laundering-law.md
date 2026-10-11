@@ -247,7 +247,7 @@ Section 14 of the same Act, as amended, is hereby further amended to read as fol
 
 "(f) Imposition of Administrative Sanctions. The imposition of the administrative sanctions shall be without prejudice to the filing of criminal charges against the persons responsible for the violation.
 
-"After due notice and hearing, the AMLC shall, at its discretion, impose sanctions, including monetary penalties, warning or reprimand, upon any covered person, its directors, officers, employees or any other person for the violation of this Act, its implementing rules and regulations, or for failure or refusal to comply with AMLC orders, resolutions and other issuances. Such monetary penalties shall be in amounts as may be determined by the AMLC to be appropriate, which shall not be more than Five hundred thousand Philippine pesos (~~P~~ 500,000.00) per violation.1âwphi1
+"After due notice and hearing, the AMLC shall, at its discretion, impose sanctions, including monetary penalties, warning or reprimand, upon any covered person, its directors, officers, employees or any other person for the violation of this Act, its implementing rules and regulations, or for failure or refusal to comply with AMLC orders, resolutions and other issuances. Such monetary penalties shall be in amounts as may be determined by the AMLC to be appropriate, which shall not be more than Five hundred thousand Philippine pesos (~~P~~ 500,000.00) per violation.
 
 "The AMLC may promulgate rules on fines and penalties taking into consideration the attendant circumstances, such as the nature and gravity of the violation or irregularity.
 

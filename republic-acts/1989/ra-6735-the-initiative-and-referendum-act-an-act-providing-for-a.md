@@ -27,11 +27,17 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 I. — General Provisions
 
-**Section 1._Title._** — This Act shall be known as "**The Initiative and Referendum Act.** "
+## Section 1
 
-**Section 2._Statement of Policy._** — The power of the people under a system of initiative and referendum to directly propose, enact, approve or reject, in whole or in part, the Constitution, laws, ordinances, or resolutions passed by any legislative body upon compliance with the requirements of this Act is hereby affirmed, recognized and guaranteed.
+_Title._ — This Act shall be known as "**The Initiative and Referendum Act.** "
 
-**Section 3._Definition of Terms._** — For purposes of this Act, the following terms shall mean:
+## Section 2
+
+_Statement of Policy._ — The power of the people under a system of initiative and referendum to directly propose, enact, approve or reject, in whole or in part, the Constitution, laws, ordinances, or resolutions passed by any legislative body upon compliance with the requirements of this Act is hereby affirmed, recognized and guaranteed.
+
+## Section 3
+
+_Definition of Terms._ — For purposes of this Act, the following terms shall mean:
 
 (a) "Initiative" is the power of the people to propose amendments to the Constitution or to propose and enact legislations through an election called for the purpose.
 
@@ -63,9 +69,13 @@ c.2. Referendum on local law which refers to a petition to approve or reject a l
 
 (i) "Local executives" refers to the Provincial Governors, City or Municipal Mayors and Punong Barangay, as the case may be.
 
-**Section 4._Who may exercise._** — The power of initiative and referendum may be exercised by all registered voters of the country, autonomous regions, provinces, cities, municipalities and barangays.
+## Section 4
 
-**Section 5._Requirements._** — (a) To exercise the power of initiative or referendum, at least ten per centum (10%) of the total number of the registered voters, of which every legislative district is represented by at least three per centum (3%) of the registered voters thereof, shall sign a petition for the purpose and register the same with the Commission.
+_Who may exercise._ — The power of initiative and referendum may be exercised by all registered voters of the country, autonomous regions, provinces, cities, municipalities and barangays.
+
+## Section 5
+
+_Requirements._ — (a) To exercise the power of initiative or referendum, at least ten per centum (10%) of the total number of the registered voters, of which every legislative district is represented by at least three per centum (3%) of the registered voters thereof, shall sign a petition for the purpose and register the same with the Commission.
 
 (b) A petition for an initiative on the 1987 Constitution must have at least twelve per centum (12%) of the total number of registered voters as signatories, of which every legislative district must be represented by at least three per centum (3%) of the registered voters therein. Initiative on the Constitution may be exercised only after five (5) years from the ratification of the 1987 Constitution and only once every five (5) years thereafter.
 
@@ -89,9 +99,13 @@ c.6. an abstract or summary in not more than one hundred (100) words which shall
 
 (f) A referendum or initiative on a barangay resolution or ordinance is deemed validly initiated if signed by at least ten per centum (10%) of the registered voters in said barangay.
 
-**Section 6._Special Registration._** — The Commission on Election shall set a special registration day at least three (3) weeks before a scheduled initiative or referendum.
+## Section 6
 
-**Section 7._Verification of Signatures._** — The Election Registrar shall verify the signatures on the basis of the registry list of voters, voters' affidavits and voters identification cards used in the immediately preceding election.
+_Special Registration._ — The Commission on Election shall set a special registration day at least three (3) weeks before a scheduled initiative or referendum.
+
+## Section 7
+
+_Verification of Signatures._ — The Election Registrar shall verify the signatures on the basis of the registry list of voters, voters' affidavits and voters identification cards used in the immediately preceding election.
 
 II. — National Initiative and Referendum
 
@@ -101,7 +115,9 @@ _Conduct and Date of Initiative or Referendum._ — The Commission shall call an
 
 Within a period of thirty (30) days from receipt of the petition, the Commission shall, upon determining the sufficiency of the petition, publish the same in Filipino and English at least twice in newspapers of general and local circulation and set the date of the initiative or referendum which shall not be earlier than forty-five (45) days but not later than ninety (90) days from the determination by the Commission of the sufficiency of the petition.
 
-**Section 9._Effectivity of Initiative or Referendum Proposition._** — (a) The Proposition of the enactment, approval, amendment or rejection of a national law shall be submitted to and approved by a majority of the votes cast by all the registered voters of the Philippines.
+## Section 9
+
+_Effectivity of Initiative or Referendum Proposition._ — (a) The Proposition of the enactment, approval, amendment or rejection of a national law shall be submitted to and approved by a majority of the votes cast by all the registered voters of the Philippines.
 
 If, as certified to by the Commission, the proposition is approved by a majority of the votes cast, the national law proposed for enactment, approval, or amendment shall become effective fifteen (15) days following completion of its publication in the Official Gazette or in a newspaper of general circulation in the Philippines. If, as certified by the Commission, the proposition to reject a national law is approved by a majority of the votes cast, the said national law shall be deemed repealed and the repeal shall become effective fifteen (15) days following the completion of publication of the proposition and the certification by the Commission in the Official Gazette or in a newspaper of general circulation in the Philippines.
 
@@ -111,17 +127,23 @@ However, if the majority vote is not obtained, the national law sought to be rej
 
 (c) A national or local initiative proposition approved by majority of the votes cast in an election called for the purpose shall become effective fifteen (15) days after certification and proclamation by the Commission.
 
-**Section 10._Prohibited Measures._** — The following cannot be the subject of an initiative or referendum petition:
+## Section 10
+
+_Prohibited Measures._ — The following cannot be the subject of an initiative or referendum petition:
 
 (a) No petition embracing more than one (1) subject shall be submitted to the electorate; and
 
 (b) Statutes involving emergency measures, the enactment of which are specifically vested in Congress by the Constitution, cannot be subject to referendum until ninety (90) days after its effectivity.
 
-**Section 11._Indirect Initiative._** — Any duly accredited people's organization, as defined by law, may file a petition for indirect initiative with the House of Representatives, and other legislative bodies. The petition shall contain a summary of the chief purposes and contents of the bill that the organization proposes to be enacted into law by the legislature.
+## Section 11
+
+_Indirect Initiative._ — Any duly accredited people's organization, as defined by law, may file a petition for indirect initiative with the House of Representatives, and other legislative bodies. The petition shall contain a summary of the chief purposes and contents of the bill that the organization proposes to be enacted into law by the legislature.
 
 The procedure to be followed on the initiative bill shall be the same as the enactment of any legislative measure before the House of Representatives except that the said initiative bill shall have precedence over the pending legislative measures on the committee.
 
-**Section 12._Appeal._** — The decision of the Commission on the findings of the sufficiency or insufficiency of the petition for initiative or referendum may be appealed to the Supreme Court within thirty (30) days from notice thereof.
+## Section 12
+
+_Appeal._ — The decision of the Commission on the findings of the sufficiency or insufficiency of the petition for initiative or referendum may be appealed to the Supreme Court within thirty (30) days from notice thereof.
 
 III. — Local Initiative and Referendum
 
@@ -143,23 +165,33 @@ _Procedure in Local Initiative._ — (a) Not less than two thousand (2,000) regi
 
 (h) If the required number of the signatures is obtained, the Commission shall then set a date for the initiative at which the proposition shall be submitted to the registered voters in the local government unit concerned for their approval within ninety (90) days from the date of certification by the Commission, as provided in subsection (g) hereof, in case of autonomous regions, sixty (60) days in case of the provinces and cities, forty-five (45) days in case of municipalities, and thirty (30) days in case of barangays. The initiative shall then be held on the date set, after which the results thereof shall be certified and proclaimed by the Commission on Elections.
 
-**Section 14._Effectivity of Local Propositions._** — If the proposition is approved by a majority of the votes cast, it shall take effect fifteen (15) days after certification by the Commission as if affirmative action thereon had been made by the local legislative body and local executive concerned. If it fails to obtain said number of votes, the proposition is considered defeated.
+## Section 14
 
-**Section 15._Limitations on Local Initiatives._** — (a) The power of local initiative shall not be exercised more than once a year.
+_Effectivity of Local Propositions._ — If the proposition is approved by a majority of the votes cast, it shall take effect fifteen (15) days after certification by the Commission as if affirmative action thereon had been made by the local legislative body and local executive concerned. If it fails to obtain said number of votes, the proposition is considered defeated.
+
+## Section 15
+
+_Limitations on Local Initiatives._ — (a) The power of local initiative shall not be exercised more than once a year.
 
 (b) Initiative shall extend only to subjects or matters which are within the legal powers of the local legislative bodies to enact.
 
 (c) If at any time before the initiative is held, the local legislative body shall adopt in toto the proposition presented, the initiative shall be cancelled. However, those against such action may, if they so desire, apply for initiative in the manner herein provided.
 
-**Section 16._Limitations Upon Local Legislative Bodies._** — Any proposition or ordinance or resolution approved through the system of initiative and referendum as herein provided shall not be repealed, modified or amended, by the local legislative body concerned within six (6) months from the date therefrom, and may be amended, modified or repealed by the local legislative body within three (3) years thereafter by a vote of three-fourths (3/4) of all its members: Provided, however, that in case of barangays, the period shall be one (1) year after the expiration of the first six (6) months.
+## Section 16
 
-**Section 17._Local Referendum._** — Notwithstanding the provisions of Section 4 hereof, any local legislative body may submit to the registered voters of autonomous region, provinces, cities, municipalities and barangays for the approval or rejection, any ordinance or resolution duly enacted or approved.
+_Limitations Upon Local Legislative Bodies._ — Any proposition or ordinance or resolution approved through the system of initiative and referendum as herein provided shall not be repealed, modified or amended, by the local legislative body concerned within six (6) months from the date therefrom, and may be amended, modified or repealed by the local legislative body within three (3) years thereafter by a vote of three-fourths (3/4) of all its members: Provided, however, that in case of barangays, the period shall be one (1) year after the expiration of the first six (6) months.
+
+## Section 17
+
+_Local Referendum._ — Notwithstanding the provisions of Section 4 hereof, any local legislative body may submit to the registered voters of autonomous region, provinces, cities, municipalities and barangays for the approval or rejection, any ordinance or resolution duly enacted or approved.
 
 Said referendum shall be held under the control and direction of the Commission within sixty (60) days in case of provinces and cities, forty-five (45) days in case of municipalities and thirty (30) days in case of barangays.
 
 The Commission shall certify and proclaim the results of the said referendum.
 
-**Section 18._Authority of Courts._** — Nothing in this Act shall prevent or preclude the proper courts from declaring null and void any proposition approved pursuant to this Act for violation of the Constitution or want of capacity of the local legislative body to enact the said measure.
+## Section 18
+
+_Authority of Courts._ — Nothing in this Act shall prevent or preclude the proper courts from declaring null and void any proposition approved pursuant to this Act for violation of the Constitution or want of capacity of the local legislative body to enact the said measure.
 
 IV. — Final Provisions
 
@@ -167,12 +199,20 @@ IV. — Final Provisions
 
 _Applicability of the Omnibus Election Code._ — The Omnibus Election Code and other election laws, not inconsistent with the provisions of this Act, shall apply to all initiatives and referenda.
 
-**Section 20._Rules and Regulations._** — The Commission is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purposes of this Act.
+## Section 20
 
-**Section 21._Appropriations._** — The amount necessary to defray the cost of the initial implementation of this Act shall be charged against the Contingent Fund in the General Appropriations Act of the current year. Thereafter, such sums as may be necessary for the full implementation of this Act shall be included in the annual General Appropriations Act.
+_Rules and Regulations._ — The Commission is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purposes of this Act.
 
-**Section 22._Separability Clause._ **— If any part or provision of this Act is held invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective.
+## Section 21
 
-**Section 23._Effectivity._** — This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+_Appropriations._ — The amount necessary to defray the cost of the initial implementation of this Act shall be charged against the Contingent Fund in the General Appropriations Act of the current year. Thereafter, such sums as may be necessary for the full implementation of this Act shall be included in the annual General Appropriations Act.
+
+## Section 22
+
+_Separability Clause._ — If any part or provision of this Act is held invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective.
+
+## Section 23
+
+_Effectivity._ — This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
 
 Approved: **August 4, 1989**

@@ -120,7 +120,7 @@ Section 11 of Republic Act No. 10575 is amended to read as follows:
 
 ## Section 5
 
-_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Department of the Interior and Local Government and the Department of Justice shall, in coordination with the Civil Service Commission, National Police Commission, the PNP, the BFP, the BJMP, and BuCor, promulgate the rules and regulations necessary to implement this Act.ℒαwρhi৷
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Department of the Interior and Local Government and the Department of Justice shall, in coordination with the Civil Service Commission, National Police Commission, the PNP, the BFP, the BJMP, and BuCor, promulgate the rules and regulations necessary to implement this Act.
 
 ## Section 6
 

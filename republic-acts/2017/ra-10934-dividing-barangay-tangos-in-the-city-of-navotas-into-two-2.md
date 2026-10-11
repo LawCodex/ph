@@ -889,7 +889,7 @@ The expenses for such plebiscite shall be borne by the City of Navotas.
 
 ## Section 4
 
-_Special Election of Barangay Officials._ \- The first set of officials of the barangays created under Section 1 hereof shall be elected not later than ninety (90) days from approval by majority of the votes cast in a plebiscite held for the purpose.1awp++i1
+_Special Election of Barangay Officials._ \- The first set of officials of the barangays created under Section 1 hereof shall be elected not later than ninety (90) days from approval by majority of the votes cast in a plebiscite held for the purpose.
 
 The COMELEC shall conduct and supervise the special elections to be held in barangays Tangos North and Tangos South in the City of Navotas within sixty (60) days after the ratification of this Act in a plebiscite.
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Land Transportation (LTO) in the Municipality of Lamut, Province of Ifugao, is hereby upgraded into a Classs "C" district office.ℒαwρhi৷
+The Land Transportation (LTO) in the Municipality of Lamut, Province of Ifugao, is hereby upgraded into a Classs "C" district office.
 
 ## Section 2
 

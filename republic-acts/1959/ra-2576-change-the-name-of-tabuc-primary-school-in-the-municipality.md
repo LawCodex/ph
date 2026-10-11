@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-In recognition of the many acts of liberality and generosity offered by the late Jose Rotea for the establishment and development of the barrio school in Barrio Tabuc, Municipality of Tanjay, Province of Negros Oriental, the name of Tabuc Primary School is hereby changed to Jose Rotea Memorial School.1avvphi1
+In recognition of the many acts of liberality and generosity offered by the late Jose Rotea for the establishment and development of the barrio school in Barrio Tabuc, Municipality of Tanjay, Province of Negros Oriental, the name of Tabuc Primary School is hereby changed to Jose Rotea Memorial School.
 
 ## Section 2
 

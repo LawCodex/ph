@@ -28,6 +28,6 @@ There is hereby appropriated, out of the funds in the National Treasury not othe
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 2, 1954.

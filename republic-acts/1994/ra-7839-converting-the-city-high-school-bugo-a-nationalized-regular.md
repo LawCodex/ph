@@ -41,6 +41,6 @@ The amount necessary for the implementation of this Act shall be charged against
 
 ## Section 5
 
-This Act shall take effect immediately upon its approval.1a⍵⍴h!1
+This Act shall take effect immediately upon its approval.
 
 Approved, December 16, 1994.

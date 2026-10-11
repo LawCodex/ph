@@ -42,6 +42,6 @@ In addition to the present appropriations for said schools, the sum of three hun
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

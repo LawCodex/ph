@@ -35,7 +35,7 @@ One (1) additional Regional Trial Court branch for Bais City, Negros Oriental, w
 
 ## Section 2
 
-The Supreme Court shall assign the branch number for the newly created branch.1âwphi1
+The Supreme Court shall assign the branch number for the newly created branch.
 
 ## Section 3
 

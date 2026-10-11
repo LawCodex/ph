@@ -52,7 +52,7 @@ The Bureau shall compile agricultural data from agricultural attaches in the for
 
 ## Section 7
 
-The Bureau shall undertake economic researches and studies in agriculture relative to the economics of farm production, including farm organization and management; land economics and agricultural development; labor requirement, farm practices and mechanization; farm costs and returns; agricultural, investment, finance, credit, taxation, and all factors affecting the success or failure of the farm business; and also relative to the rural welfare and agricultural marketing, including prices, foreign trade, transportation, storage and warehousing, food supplies and consumption, farm labor and wages, farm incomes, farm population, rural organization, agricultural relations, laws and legislation.1âшphi1
+The Bureau shall undertake economic researches and studies in agriculture relative to the economics of farm production, including farm organization and management; land economics and agricultural development; labor requirement, farm practices and mechanization; farm costs and returns; agricultural, investment, finance, credit, taxation, and all factors affecting the success or failure of the farm business; and also relative to the rural welfare and agricultural marketing, including prices, foreign trade, transportation, storage and warehousing, food supplies and consumption, farm labor and wages, farm incomes, farm population, rural organization, agricultural relations, laws and legislation.
 
 ## Section 8
 
@@ -64,7 +64,7 @@ The Bureau shall make and publish periodical forecasts of the production for the
 
 ## Section 10
 
-The Bureau shall make and publish final annual estimates of agricultural production by crops, number of each kind of livestock, types of product, regions and provinces.1awp++i1 The Bureau shall also publish, upon completion, any of its studies in the form of reports, bulletins, pamphlets or other official publications.
+The Bureau shall make and publish final annual estimates of agricultural production by crops, number of each kind of livestock, types of product, regions and provinces. The Bureau shall also publish, upon completion, any of its studies in the form of reports, bulletins, pamphlets or other official publications.
 
 ## Section 11
 

@@ -35,11 +35,11 @@ The Secretary of the Department of Education, Culture and Sports shall issue suc
 
 ## Section 3
 
-All personnel, records, assets and liabilities of the Mountain Province General Comprehensive High School-Balili Annex are hereby transferred to and absorbed by the Albago National High School.ℒαwρhi৷
+All personnel, records, assets and liabilities of the Mountain Province General Comprehensive High School-Balili Annex are hereby transferred to and absorbed by the Albago National High School.
 
 ## Section 4
 
-The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Mountain Province General Comprehensive High School-Balili Annex.1aшphi1 Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Albago National High School shall be included in the annual General Appropriations Act.
+The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Mountain Province General Comprehensive High School-Balili Annex. Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Albago National High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

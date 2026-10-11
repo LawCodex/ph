@@ -79,7 +79,7 @@ _Separability Clause_. — If any of the sections or provisions of this Act is h
 
 ## Section 13
 
-_Repealability and Nonexclusivity Clauses._ — This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires. This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.1a⍵⍴h!1
+_Repealability and Nonexclusivity Clauses._ — This franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires. This franchise shall not be interpreted to mean as an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

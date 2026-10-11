@@ -149,7 +149,7 @@ The Treasurer of the Republic of the Philippines shall be the ex officio treasur
 
 ## Section 14
 
-No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the College: _Provided, however,_ That no member of the faculty shall teach for or against any particular church or religious sect.Ꮮαwρhi৷
+No religious opinion or affiliation shall be the matter of inquiry in the appointment of faculty members of the College: _Provided, however,_ That no member of the faculty shall teach for or against any particular church or religious sect.
 
 ## Section 15
 

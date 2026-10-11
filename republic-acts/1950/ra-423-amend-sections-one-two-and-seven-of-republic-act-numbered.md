@@ -36,7 +36,7 @@ Section two of the same Act is amended to read as follows:
 
 Section seven of the same Act is amended to read as follows:
 
-"Sec. 7. The authority herein granted to the President to regulate the volume of imports by quota or license or permit shall terminate on April thirty, nineteen hundred and fifty."1awphi1@alf
+"Sec. 7. The authority herein granted to the President to regulate the volume of imports by quota or license or permit shall terminate on April thirty, nineteen hundred and fifty."
 
 ## Section 4
 

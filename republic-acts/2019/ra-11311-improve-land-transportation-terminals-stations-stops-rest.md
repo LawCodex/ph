@@ -80,7 +80,7 @@ _Prohibition on Collection of Fees to Access Sanitary Facilities._ -It shall be 
 
 ## Section 6
 
-_Lactation Station._ -The owner, operator, or administrator of land transport terminals, stations, stops, rest areas, and RORO terminals shall establish at least one (1) lactation station which shall be separate from the sanitary facilities.1âшphi1 The lactation stations shall be clean and compliant with the applicable provisions under Republic Act No. 7600, as amended by Republic Act No. 10028, otherwise known as the "Expanded Breastfeeding Promotion Act of 2009" and its rules and regulations. The DOTr, in coordination with the Department of Health (DOH) and other relevant government agencies, shall conduct random ocular inspections to ensure that such establishments comply with this provision.
+_Lactation Station._ -The owner, operator, or administrator of land transport terminals, stations, stops, rest areas, and RORO terminals shall establish at least one (1) lactation station which shall be separate from the sanitary facilities. The lactation stations shall be clean and compliant with the applicable provisions under Republic Act No. 7600, as amended by Republic Act No. 10028, otherwise known as the "Expanded Breastfeeding Promotion Act of 2009" and its rules and regulations. The DOTr, in coordination with the Department of Health (DOH) and other relevant government agencies, shall conduct random ocular inspections to ensure that such establishments comply with this provision.
 
 ## Section 7
 

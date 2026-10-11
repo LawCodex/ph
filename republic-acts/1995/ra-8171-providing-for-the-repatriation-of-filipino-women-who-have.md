@@ -49,7 +49,7 @@ All laws, decrees, orders, rules and regulations, or parts thereof inconsistent 
 
 ## Section 4
 
-This Act shall take effect thirty (30) days after its publication in a newspaper of general circulation.1aшphi1
+This Act shall take effect thirty (30) days after its publication in a newspaper of general circulation.
 
 Approved,
 

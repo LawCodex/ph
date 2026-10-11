@@ -37,7 +37,7 @@ The Department of Public Works and Highways shall place appropriate markers alon
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
 
 Approved,
 

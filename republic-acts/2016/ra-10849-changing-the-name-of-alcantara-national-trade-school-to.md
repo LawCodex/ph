@@ -38,7 +38,7 @@ _Location of the Main Campus._ – The main campus of the Romblon National Insti
 
 ## SECTION 3
 
-_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the Official Gazette.1âwphi1
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
 
 Approved,
 

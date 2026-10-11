@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The name of Doña Maria D. Tan Memorial Hospital in Tangub City, Province of Misamis Occidental, is hereby changed to Ninoy Aquino Memorial Hospital.1âшphi1
+The name of Doña Maria D. Tan Memorial Hospital in Tangub City, Province of Misamis Occidental, is hereby changed to Ninoy Aquino Memorial Hospital.
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Batangas Provincial High School located at the City of Batangas is hereby converted into a national high school, to be known as Batangas National High School. Only academic courses shall be offered in said school.1âшphi1
+Batangas Provincial High School located at the City of Batangas is hereby converted into a national high school, to be known as Batangas National High School. Only academic courses shall be offered in said school.
 
 ## Section 2
 

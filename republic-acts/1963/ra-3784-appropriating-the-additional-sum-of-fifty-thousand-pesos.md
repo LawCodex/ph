@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the printing and publication in book form the speeches, messages, and other writings of the late President Manuel Luis Quezon.1âшphi1
+The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the printing and publication in book form the speeches, messages, and other writings of the late President Manuel Luis Quezon.
 
 ## Section 2
 

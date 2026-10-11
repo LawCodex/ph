@@ -55,7 +55,7 @@ _Corporate Powers of the City._ – The City constitutes a political body corpor
 
 ### Section 4
 
-_General Powers._ – The City shall have a common seal and may alter the same at pleasure.Ꮮαwρhi৷ It shall exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares subject to the provisions of the Constitution and existing laws; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interest of the City; to expropriate or condemn private property for public use; to contract and be contracted with; to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the City is involved or interested in and to exercise all the powers as are granted to corporations or as hereinafter granted.
+_General Powers._ – The City shall have a common seal and may alter the same at pleasure. It shall exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares subject to the provisions of the Constitution and existing laws; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interest of the City; to expropriate or condemn private property for public use; to contract and be contracted with; to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the City is involved or interested in and to exercise all the powers as are granted to corporations or as hereinafter granted.
 
 ### Section 5
 
@@ -443,7 +443,7 @@ _Veto Power of the City Mayor._ –
 
 (b) The city mayor shall have the power to veto any particular item or items of an appropriations ordinance or resolution adopting a local development plan, any public investment program or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed enacted.
 
-(c) The city mayor may veto an ordinance or resolution only once.Ꮮαwρhi৷ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+(c) The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 17
 

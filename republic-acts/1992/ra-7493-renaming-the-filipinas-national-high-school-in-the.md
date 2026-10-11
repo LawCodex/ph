@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Filipinas National High School located in the Municipality of San Nicolas, Province of Ilocos Norte, is hereby renamed as the San Nicolas National High School.1âшphi1
+The Filipinas National High School located in the Municipality of San Nicolas, Province of Ilocos Norte, is hereby renamed as the San Nicolas National High School.
 
 ## Section 2
 

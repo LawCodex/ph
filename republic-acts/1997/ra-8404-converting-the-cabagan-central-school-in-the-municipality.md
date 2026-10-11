@@ -42,7 +42,7 @@ The Department of Education, Culture and Sports shall prescribe the curriculum a
 
 ## Section 3
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Cabagan Central School. Thereafter, such sums as may be necessary for the operation and maintenance of the Cabagan Science Elementary School shall be included in the annual General Appropriations Act.1aшphi1
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Cabagan Central School. Thereafter, such sums as may be necessary for the operation and maintenance of the Cabagan Science Elementary School shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

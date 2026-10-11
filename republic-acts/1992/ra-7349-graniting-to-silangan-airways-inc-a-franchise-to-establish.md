@@ -91,7 +91,7 @@ _Interpretation of Franchise._ \- This franchise shall not be interpreted to mea
 
 ## Section 13
 
-_Sale, Lease, Transfer, Assignment, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise and the rights and privileges acquired thereunder to any person, firm, company, corporation, or legal entity, nor the controlling interest in the grantee be transferred to any such private person, firm, company, corporation or entity at a time the corporation is not in operation without the prior approval of the Congress of the Philippines.1âшphi1
+_Sale, Lease, Transfer, Assignment, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise and the rights and privileges acquired thereunder to any person, firm, company, corporation, or legal entity, nor the controlling interest in the grantee be transferred to any such private person, firm, company, corporation or entity at a time the corporation is not in operation without the prior approval of the Congress of the Philippines.
 
 Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this Act.
 

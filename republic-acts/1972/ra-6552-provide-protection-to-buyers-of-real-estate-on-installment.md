@@ -37,7 +37,7 @@ In all transactions or contracts involving the sale or financing of real estate 
 
 (b) If the contract is canceled, the seller shall refund to the buyer the cash surrender value of the payments on the property equivalent to fifty per cent of the total payments made, and, after five years of installments, an additional five per cent every year but not to exceed ninety per cent of the total payments made: Provided, That the actual cancellation of the contract shall take place after thirty days from receipt by the buyer of the notice of cancellation or the demand for rescission of the contract by a notarial act and upon full payment of the cash surrender value to the buyer.
 
-Down payments, deposits or options on the contract shall be included in the computation of the total number of installment payments made.lawphi1™
+Down payments, deposits or options on the contract shall be included in the computation of the total number of installment payments made.
 
 ## Section 4
 
@@ -59,7 +59,7 @@ Any stipulation in any contract hereafter entered into contrary to the provision
 
 ## Section 8
 
-If any provision of this Act is held invalid or unconstitutional, no other provision shall be affected thereby.lawphi1™
+If any provision of this Act is held invalid or unconstitutional, no other provision shall be affected thereby.
 
 ## Section 9
 

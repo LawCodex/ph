@@ -32,6 +32,6 @@ Section twenty-one hundred and seventy-six of the Revised Administrative Code of
 
 ## Section 2
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved, June 17, 1949.

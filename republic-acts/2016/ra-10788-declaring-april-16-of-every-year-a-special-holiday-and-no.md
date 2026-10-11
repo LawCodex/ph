@@ -34,7 +34,7 @@ April 16 of every year is hereby declared a special working holiday and no class
 
 ## Section 2
 
-For work performed on special working holiday an employee is entitled to his/her regular wage.ℒαwρhi৷
+For work performed on special working holiday an employee is entitled to his/her regular wage.
 
 ## Section 3
 

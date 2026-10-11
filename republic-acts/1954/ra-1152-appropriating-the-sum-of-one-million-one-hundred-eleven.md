@@ -58,6 +58,6 @@ Any portion of the appropriation herein appropriated remaining unexpended after 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 17, 1954.

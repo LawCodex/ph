@@ -85,7 +85,7 @@ _Filing of Application with the Commission._ — Within six (6) months after the
 
 ## Section 15
 
-_Warranty._ — The grantee shall hold the national, provincial, city and municipal governments harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the installation and operation of the telecommunications systems of the grantee.1a⍵⍴h!1
+_Warranty._ — The grantee shall hold the national, provincial, city and municipal governments harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the installation and operation of the telecommunications systems of the grantee.
 
 ## Section 16
 

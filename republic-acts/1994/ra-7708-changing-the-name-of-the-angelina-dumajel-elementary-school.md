@@ -33,7 +33,7 @@ The name of the Angelina Dumajel Elementary School in the Municipality of Kalawi
 
 ## Section 2
 
-This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.1a⍵⍴h!1
+This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

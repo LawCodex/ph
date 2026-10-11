@@ -37,7 +37,7 @@ All personnel, assets, liabilities, and records of the Kalbay National High Scho
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Meeliano S. Fontanares Sr. National High School, the initial funding of which shall be charged against the current year's appropriation of the Kalbay National High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Meeliano S. Fontanares Sr. National High School, the initial funding of which shall be charged against the current year's appropriation of the Kalbay National High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 
@@ -45,7 +45,7 @@ The Secretary of Education shall formulate the rules and regulations necessary t
 
 ## Section 5
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

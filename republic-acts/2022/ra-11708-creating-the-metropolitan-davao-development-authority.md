@@ -188,7 +188,7 @@ In case of grants, in cash or in kind, from foreign governments or their agencie
 
 The MDDA is likewise empowered to levy fines, and impose fees and charges for various services rendered.
 
-The Council shall undertake continuing negotiations among the member LGUs and GOCCs to commit annual financial contributions for the operations of the MDDA.1aшphi1
+The Council shall undertake continuing negotiations among the member LGUs and GOCCs to commit annual financial contributions for the operations of the MDDA.
 
 ## Section 15
 

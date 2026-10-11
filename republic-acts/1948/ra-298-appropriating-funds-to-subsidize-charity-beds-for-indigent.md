@@ -32,7 +32,7 @@ The amount of subsidy will be based on the number of beds that are allocated for
 
 ## Section 2
 
-For purposes of this Act, there is hereby appropriated the sum of one million pesos from the National Charity Sweepstakes Fund.1aшphi1
+For purposes of this Act, there is hereby appropriated the sum of one million pesos from the National Charity Sweepstakes Fund.
 
 ## Section 3
 

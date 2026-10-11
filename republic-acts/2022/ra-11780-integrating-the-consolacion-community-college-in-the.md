@@ -42,7 +42,7 @@ The PSU Main Campus, the PSU-Cuyo Campus (formerly Palawan College of Arts and T
 
 The PSU-CCRD External Campuses in the Province of Palawan and in the City of Puerto Princesa shall offer primarily provide short-term technical-vocational courses, undergraduate, and graduate degree programs within its competency and areas of specialization pursuant to its mandate and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, and those which respond to meet the human resource development needs of the Province of Palawan and the Mindoro, Marinduque, Romblon, and Palawan (MIMAROPA) Region.
 
-The PSU-CCRD External Campuses in the Province of Palawan and in the City of Puerto Princesa are also mandated to undertake research and extension services, and to provide progressive leadership in these areas.ℒαwρhi৷
+The PSU-CCRD External Campuses in the Province of Palawan and in the City of Puerto Princesa are also mandated to undertake research and extension services, and to provide progressive leadership in these areas.
 
 ## Section 4
 
@@ -60,7 +60,7 @@ All parcels of land belonging to the government occupied by the PSU-CCRD Externa
 
 ## Section 7
 
-The amount necessary to carry out the provisions of this Act shall be included in the Annual General Appropriations Act (GAA).ℒαwρhi৷
+The amount necessary to carry out the provisions of this Act shall be included in the Annual General Appropriations Act (GAA).
 
 The municipalities of Narra, Quezon, Brooke’s Point, Roxas, Taytay, Coron, Sofronio Espanola, Rizal, Bataraza, Balabac, Dumaran, San Vicente, Linapacan, Araceli, El Nido, and San Rafael shall provide the same financial support to the respective external campuses until such time that the amount necessary for the continued operation and maintenance of the campuses shall be included in the annual GAA.
 

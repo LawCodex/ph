@@ -42,7 +42,7 @@ The Secretary of Public Works and Highways shall immediately include in the Depa
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

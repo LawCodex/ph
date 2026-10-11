@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The Tumana Bridge in Barangay Tumana, City of Marikina shall hereafter be known as Gil Fernando Bridge.ℒαwρhi৷
+The Tumana Bridge in Barangay Tumana, City of Marikina shall hereafter be known as Gil Fernando Bridge.
 
 ## Section 2
 

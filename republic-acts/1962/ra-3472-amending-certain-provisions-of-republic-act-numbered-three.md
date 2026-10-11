@@ -45,6 +45,6 @@ Section 5 of Republic Act Numbered Three thousand eighty-nine is hereby amended 
 
 ## Section 4
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

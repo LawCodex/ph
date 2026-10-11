@@ -34,7 +34,7 @@ In the event that the grantee shall purchase and secure electric heat and power 
 
 ## Section 3
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum of which shall accrue to the National Government and two per centum to the municipal where the franchise is being operated.1avvphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, three per centum of which shall accrue to the National Government and two per centum to the municipal where the franchise is being operated.
 
 ## Section 4
 

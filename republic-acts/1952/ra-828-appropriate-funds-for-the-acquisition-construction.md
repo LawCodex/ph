@@ -160,7 +160,7 @@ The sum of one hundred ninety-six thousand four hundred pesos or so much thereof
 
 ## Section 3
 
-The balances of the funds appropriated in this act for personnel and sundry expenses remaining unexpended on June 30, 1953, shall be reverted to the unappropriated surplus of the General Fund in the National Treasury.1aшphi1
+The balances of the funds appropriated in this act for personnel and sundry expenses remaining unexpended on June 30, 1953, shall be reverted to the unappropriated surplus of the General Fund in the National Treasury.
 
 ## Section 4
 

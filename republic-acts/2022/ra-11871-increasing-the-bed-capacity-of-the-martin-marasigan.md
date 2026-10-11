@@ -38,7 +38,7 @@ The existing professional health care services and facilities of the MMMH are he
 
 ## Section 3
 
-The existing workforce of the MMMH, which includes doctors, nurses, and support personnel, shall also be increased correspondingly.ℒαwρhi৷
+The existing workforce of the MMMH, which includes doctors, nurses, and support personnel, shall also be increased correspondingly.
 
 ## Section 4
 

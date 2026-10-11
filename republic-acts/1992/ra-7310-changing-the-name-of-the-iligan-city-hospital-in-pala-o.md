@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Iligan City Hospital in Pala-o, Iligan City, Province of Lanao del Norte, is hereby changed to Gregorio T. Lluch, Sr., Memorial Hospital.1âшphi1
+The name of the Iligan City Hospital in Pala-o, Iligan City, Province of Lanao del Norte, is hereby changed to Gregorio T. Lluch, Sr., Memorial Hospital.
 
 ## Section 2
 

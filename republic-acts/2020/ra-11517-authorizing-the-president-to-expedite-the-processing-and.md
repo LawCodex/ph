@@ -51,8 +51,6 @@ _Power to Suspend or Remove._ \- Consistent with Article VII, Sections 1 and 17 
 
 _Separability Clause_ \- If any provision of this Act is declared unconstitutional or invalid, the provisions not affected thereby shall continue to be in full force and effect.
 
-ℒαwρhi৷
-
 ## Section 5
 
 _Repealing Clause._ \- All laws, decrees, orders, resolutions, instructions, rules and regulations, and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Currimao, Province of Ilocos Norte, to be known as the Currimao School of Fisheries.1avvphi1
+There shall be established, under the direct supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Currimao, Province of Ilocos Norte, to be known as the Currimao School of Fisheries.
 
 ## Section 2
 

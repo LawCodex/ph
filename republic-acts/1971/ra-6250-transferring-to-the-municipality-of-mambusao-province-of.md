@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The ownership and possession of Lots Nos. 195, 196, 343, 848, 849, 850, 894, 6147 and 6149 of the Cadastral Survey in the Municipality of Mambusao, Province of Capiz, which were previously donated to the Mambusao National Agricultural School by such municipality, are hereby transferred to the said municipality.1âшphi1
+The ownership and possession of Lots Nos. 195, 196, 343, 848, 849, 850, 894, 6147 and 6149 of the Cadastral Survey in the Municipality of Mambusao, Province of Capiz, which were previously donated to the Mambusao National Agricultural School by such municipality, are hereby transferred to the said municipality.
 
 ## Section 2
 

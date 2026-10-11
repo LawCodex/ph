@@ -50,6 +50,6 @@ _Repealing Clause._ \- Presidential Proclamation No. 843 and other laws, executi
 
 ## Section 5
 
-_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after the completion of its publication in at least two (2) newspapers of general circulation.1aшphi1
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after the completion of its publication in at least two (2) newspapers of general circulation.
 
 Lapsed into law on April 22, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

@@ -242,7 +242,7 @@ _Filing of Report._ \- On or before the fifteenth (15th) day of the second (2 nd
 
 ## Section 23
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the Governing Charter of the College.ℒαwρhi৷
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the Governing Charter of the College.
 
 ## Section 24
 
@@ -272,7 +272,7 @@ The following are the operational requirements for a college:
 
 (f) Relevant academic policies, systems and processes.
 
-The institution shall retain its status prior to the effectivity of this Act, unless in the meantime it is able to comply with the requirements provided herein, within a period not exceeding January 1, 2016.ℒαwρhi৷
+The institution shall retain its status prior to the effectivity of this Act, unless in the meantime it is able to comply with the requirements provided herein, within a period not exceeding January 1, 2016.
 
 ## Section 27
 

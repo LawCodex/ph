@@ -41,7 +41,7 @@ The physical and financial assets, liabilities, personnel, equipment, and record
 
 ## Section 5
 
-The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college, in addition to the present national appropriation of the said school for the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such necessary sums for the same purpose shall be included in the annual General Appropriations Act.
+The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college, in addition to the present national appropriation of the said school for the fiscal year nineteen hundred sixty-five. Thereafter, such necessary sums for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

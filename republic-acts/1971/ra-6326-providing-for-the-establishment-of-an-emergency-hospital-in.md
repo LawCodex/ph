@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established an emergency hospital in the Municipality of Llorente, Province of Eastern Samar, to be known as the Llorente Emergency Hospital, under the direct supervision of the Secretary of the Department of Health. Its bed capacity shall not be less than twenty-five nor more than fifty.1âшphi1
+There is hereby established an emergency hospital in the Municipality of Llorente, Province of Eastern Samar, to be known as the Llorente Emergency Hospital, under the direct supervision of the Secretary of the Department of Health. Its bed capacity shall not be less than twenty-five nor more than fifty.
 
 ## Section 2
 

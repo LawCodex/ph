@@ -32,7 +32,7 @@ The Bataan National School for Filipino Craftsman in Orani Bataan, is hereby con
 
 ## Section 2
 
-The School shall offer vocational and technical courses as may be authorized by the CHED, or by the body that now or hereafter may be created by law.1aшphi1
+The School shall offer vocational and technical courses as may be authorized by the CHED, or by the body that now or hereafter may be created by law.
 
 ## Section 3
 

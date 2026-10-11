@@ -40,7 +40,7 @@ To carry out the provisions of this Act, there is hereby authorized to be approp
 | g. One laborer................................................................................... | ₱l,476.00 |
 | h. Sundry expenses.......................................................................... | 3,000.00 |
 
-Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

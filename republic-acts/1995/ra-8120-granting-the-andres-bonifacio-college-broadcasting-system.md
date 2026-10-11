@@ -40,7 +40,7 @@ The franchise is likewise made upon the expressed condition that the grantee sha
 
 ## Section 4
 
-A special right is reserved to the government of the Republic of the Philippines, in times of war, rebellion, insurrection, public peril, or disturbance of peace and order to take over and operate the said stations or to authorize the temporary use and operation thereof by any department of the government upon due compensation to the grantee for the use of said stations during the period when they shall be so operated.1aшphi1
+A special right is reserved to the government of the Republic of the Philippines, in times of war, rebellion, insurrection, public peril, or disturbance of peace and order to take over and operate the said stations or to authorize the temporary use and operation thereof by any department of the government upon due compensation to the grantee for the use of said stations during the period when they shall be so operated.
 
 ## Section 5
 

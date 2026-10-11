@@ -30,7 +30,7 @@ Sections twenty-two hundred and ninety-five, twenty-two hundred and ninety-six a
 
 "Within the same period, the heads of the various offices in the municipal government shall submit to the mayor a statement of the proposed expenditures recommended by them for their respective offices during the ensuing fiscal year. Upon receiving the foregoing statements, the mayor shall prepare the municipal budget for the ensuing fiscal year. The said budget shall contain an estimate of receipts as submitted by the municipal treasurer and his proposed expenditures for the ensuing fiscal year.
 
-"The proposed expenditures for salaries and wages shall specify the number of positions, their respective designations, and the rates of salaries or wages.1awp++i1 In case a reduction of salaries and wages is necessary, such reduction shall be general in character, and the percentage thereof shall be uniform for similar rates of salaries and wages.
+"The proposed expenditures for salaries and wages shall specify the number of positions, their respective designations, and the rates of salaries or wages. In case a reduction of salaries and wages is necessary, such reduction shall be general in character, and the percentage thereof shall be uniform for similar rates of salaries and wages.
 
 "The mayor shall submit the said budget to the council not later than twenty days before the beginning of the fiscal year.
 

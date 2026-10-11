@@ -732,7 +732,7 @@ _Promulgation._ \- Within one (1) year from its initial meeting, the Board shall
 
 _Merger._ \- Within sixty (60) days from the promulgation of the implementing rules and regulations, all functions and assets of the Philippine Medical Care Commission shall be merged with those of the Corporation without need of conveyance, transfer or assignment. the PMCC shall thereafter cease to exit.
 
-The liabilities of the PMCC shall be treated in accordance with existing laws and pertinent rules and regulations.1aшphi1
+The liabilities of the PMCC shall be treated in accordance with existing laws and pertinent rules and regulations.
 
 To the greatest extent possible and in accordance with existing laws, all employees of the PMCC shall be absorbed by the Corporation.
 

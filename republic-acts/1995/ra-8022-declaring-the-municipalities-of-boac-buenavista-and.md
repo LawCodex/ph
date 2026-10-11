@@ -36,7 +36,7 @@ The Department of Tourism, in coordination with the Philippine Tourism Authority
 
 ## Section 3
 
-The Department of Tourism shall take immediate steps to implement said development plan and shall incorporate the same in its overall tourism development program for the ensuing calendar year.1aшphi1
+The Department of Tourism shall take immediate steps to implement said development plan and shall incorporate the same in its overall tourism development program for the ensuing calendar year.
 
 ## Section 4
 

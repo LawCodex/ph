@@ -154,7 +154,7 @@ _Exceptions for Investigative Requirements._ – Notwithstanding the immediately
 
 ## Section 13
 
-_Humanitarian Exemptions._ – The person whose property or funds have been frozen under the first paragraph of Section 11 may withdraw such sums as the court determines to be reasonably needed for monthly family needs and sustenance including the services of counsel and the family medical needs of such person.1âwphi1
+_Humanitarian Exemptions._ – The person whose property or funds have been frozen under the first paragraph of Section 11 may withdraw such sums as the court determines to be reasonably needed for monthly family needs and sustenance including the services of counsel and the family medical needs of such person.
 
 The person whose property or funds have been frozen under the third paragraph of Section 11 may withdraw such sums as the AMLC determines to be reasonably needed for monthly family needs including the services of counsel and the family medical needs of such person.
 

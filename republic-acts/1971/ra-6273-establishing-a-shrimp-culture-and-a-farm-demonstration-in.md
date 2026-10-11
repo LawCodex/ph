@@ -28,7 +28,7 @@ There shall be established and maintained under the supervision of the Philippin
 
 ## Section 2
 
-The sum of sixty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act for the fiscal year nineteen hundred and seventy. Thereafter, the necessary amount shall be included in the annual General Appropriations Act of each year.1âшphi1
+The sum of sixty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act for the fiscal year nineteen hundred and seventy. Thereafter, the necessary amount shall be included in the annual General Appropriations Act of each year.
 
 ## Section 3
 

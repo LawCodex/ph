@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall comprise the municipalities of Barcelona, Prieto Diaz, Gubat, Juban, Bulusan, Irosin, Sta. Magdalena, Matnog and Bulan.ℒαwρhi৷
+The said district engineering office shall comprise the municipalities of Barcelona, Prieto Diaz, Gubat, Juban, Bulusan, Irosin, Sta. Magdalena, Matnog and Bulan.
 
 ## Section 3
 

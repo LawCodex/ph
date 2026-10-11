@@ -29,7 +29,7 @@ The Sipocot National School of Arts and Trades located in the Municipality of Si
 
 ## Section 2
 
-The Institute shall primarily provide higher technological, professional and vocational training consistent with the goals for local, regional and national development. It shall also promote research and provide progressive leadership in the various disciplines and areas of specialization. The Institute shall offer undergraduate courses in the field of arts and trades education and such other courses as may be necessary to meet regional and national needs for trained manpower.1âшphi1
+The Institute shall primarily provide higher technological, professional and vocational training consistent with the goals for local, regional and national development. It shall also promote research and provide progressive leadership in the various disciplines and areas of specialization. The Institute shall offer undergraduate courses in the field of arts and trades education and such other courses as may be necessary to meet regional and national needs for trained manpower.
 
 ## Section 3
 

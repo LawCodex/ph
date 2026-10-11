@@ -38,7 +38,7 @@ The existing hospital facilities and professional health care services of the AR
 
 ## Section 3
 
-Upon prior consultation with the ARMMC, the Department of Health shall, in coordination with the Department of Budget and Management and the Civil Service Commission, determine the additional plantilla positions to be created and filled up in the workforce of the ARMMC.1âшphi1
+Upon prior consultation with the ARMMC, the Department of Health shall, in coordination with the Department of Budget and Management and the Civil Service Commission, determine the additional plantilla positions to be created and filled up in the workforce of the ARMMC.
 
 ## Section 4
 

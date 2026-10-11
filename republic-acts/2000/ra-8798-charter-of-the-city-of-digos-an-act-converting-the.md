@@ -459,7 +459,7 @@ _Approval of Ordinance._ -
 
 a. Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor. If the city mayor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
-b. The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.ℒαwρhi৷
+b. The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.
 
 ### Section 16
 
@@ -1227,7 +1227,7 @@ _The City Prosecution Service._ -
 
 a. There shall be established in the City a prosecution service to be headed by a city prosecutor and such number of assistant prosecutors as may be necessary, who shall be organizationally part of the Department of Justice, and under the supervision and control of the Secretary of Justice and whose qualifications, manner of appointment, rank, salary and benefits shall be governed by existing laws covering prosecutors in the Department of Justice.
 
-b. The city prosecutor shall handle the criminal prosecution in the municipal trial courts in the City as well as in the regional trial courts for criminal cases originating in the territory of the City, and shall render to or for the City such services as are required by law, ordinance or regulation of the Department of Justice.ᇈWᑭHIL
+b. The city prosecutor shall handle the criminal prosecution in the municipal trial courts in the City as well as in the regional trial courts for criminal cases originating in the territory of the City, and shall render to or for the City such services as are required by law, ordinance or regulation of the Department of Justice.
 
 c. The Secretary of Justice shall always assure the adequacy and quality of prosecution service in the City and for this purpose, shall, in the absence or lack or insufficiency in number of city assistant prosecutors as provided hereinabove, designate from among the assistant provincial prosecutors a sufficient number to perform and discharge the functions of the city prosecution service as provided hereinabove.
 

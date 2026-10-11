@@ -51,7 +51,7 @@ Four new sub-sections (n), (o), (p) and (q) are added to Section four of the sam
 
 "(n) To approve all conveyances of real property, whether registered or unregistered, situated in provinces inhabited by national cultural minorities according to the latest official population census, and/or real rights thereon where the conveyor or transferor is illiterate or, if literate, cannot understand the language of the instrument of conveyance or encumbrance.
 
-"(o) To authorize trial lawyers of the Commission to assist indigent members of the cultural minorities accused in criminal cases involving their landholdings.1âшphi1
+"(o) To authorize trial lawyers of the Commission to assist indigent members of the cultural minorities accused in criminal cases involving their landholdings.
 
 "(p) To authorize any proper personnel of the Commission to administer oaths in connection with investigations as the Commission may undertake in the discharge of its powers, functions and duties.
 

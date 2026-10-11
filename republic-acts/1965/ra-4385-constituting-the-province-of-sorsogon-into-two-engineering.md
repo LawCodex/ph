@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Sorsogon shall be constituted into two engineering districts.1âшphi1 The first district shall include the municipalities of Barcelona, Bulan, Bulusan, Gubat, Irosin, Matnog, Prieto-Diaz and Santa Magdalena, with office at the Municipality of Gubat, and the second district shall include the municipalities of Bacon, Casiguran, Castilla, Donsol, Juban, Magallanes, Pilar and Sorsogon.
+Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Sorsogon shall be constituted into two engineering districts. The first district shall include the municipalities of Barcelona, Bulan, Bulusan, Gubat, Irosin, Matnog, Prieto-Diaz and Santa Magdalena, with office at the Municipality of Gubat, and the second district shall include the municipalities of Bacon, Casiguran, Castilla, Donsol, Juban, Magallanes, Pilar and Sorsogon.
 
 Each engineering district shall have one highway district engineer, who shall be appointed in accordance with existing laws.
 

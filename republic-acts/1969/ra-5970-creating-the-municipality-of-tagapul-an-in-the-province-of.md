@@ -28,7 +28,7 @@ The Islands of Tagapul-an and Sibugay comprising the barrios of Sogod, Labang-Ba
 
 ## Section 2
 
-The first mayor, vice-mayor, and councilors of the new municipality shall be elected in the next general elections for local officials.1âшphi1
+The first mayor, vice-mayor, and councilors of the new municipality shall be elected in the next general elections for local officials.
 
 ## Section 3
 

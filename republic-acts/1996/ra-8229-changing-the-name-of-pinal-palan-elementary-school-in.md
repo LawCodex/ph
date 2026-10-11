@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in c
 
 ## Section 1
 
-The name of Pinalpalan Elementary School in Barangay Pinalpalan Municipality of Malita, Province of Davao del Sur, is changed to Juanito Doromal, Sr. Elementary School.1aшphi1
+The name of Pinalpalan Elementary School in Barangay Pinalpalan Municipality of Malita, Province of Davao del Sur, is changed to Juanito Doromal, Sr. Elementary School.
 
 ## Section 2
 

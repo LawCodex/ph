@@ -66,4 +66,4 @@ All laws inconsistent with this Act are hereby repealed or modified accordingly.
 
 This Act shall take effect upon its publication in two (2) national newspapers of general circulation.
 
-Approved: **December 9, 1992**.lawphi1Ÿ
+Approved: **December 9, 1992**.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines and 
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Narra, Province of Palawan, to be known as the Narra Municipal Hospital.1âшphi1
+There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Narra, Province of Palawan, to be known as the Narra Municipal Hospital.
 
 ## Section 2
 

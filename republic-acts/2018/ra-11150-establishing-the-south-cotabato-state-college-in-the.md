@@ -69,7 +69,7 @@ _The Governing Board._ \- The governing board of the College shall be the Board 
 
 The Board shall appoint the two (2) prominent citizens from among a list of at least five (5) qualified persons in the Province of South Cotabato, as recommended by the search committee to be constituted by the College President, in consultation with the Chairperson of the CHED and other members of the Board, based on the normal standards and qualifications for the position.
 
-The two (2) prominent citizens shall serve for a term of two (2) years from the date of appointment.1âwphi1
+The two (2) prominent citizens shall serve for a term of two (2) years from the date of appointment.
 
 ## Section 6
 
@@ -203,7 +203,7 @@ _Development Plan, Management Audit / Organizational/_ A _dministrative_ Ac _ade
 
 (b) Undergo a management audit in cooperation with the CHED; and
 
-(c) Accordingly set up its organizational, administrative, as well as academic structure, including the appointment of the College key officials.1avvphi1
+(c) Accordingly set up its organizational, administrative, as well as academic structure, including the appointment of the College key officials.
 
 ## Section 20
 
@@ -237,7 +237,7 @@ All grants, bequests, endowments, donations and contributions made to the Colleg
 
 ## Section 23
 
-A _ppropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.1âwphi1
+A _ppropriations._ \- The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 24
 

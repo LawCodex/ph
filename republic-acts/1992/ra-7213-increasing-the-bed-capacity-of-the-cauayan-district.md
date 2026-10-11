@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Cauayan District Hospital in Cauayan, Province of Isabela, is hereby increased from fifty (50) to one hundred (100) beds.1âшphi1
+The bed capacity of the Cauayan District Hospital in Cauayan, Province of Isabela, is hereby increased from fifty (50) to one hundred (100) beds.
 
 ## Section 2
 

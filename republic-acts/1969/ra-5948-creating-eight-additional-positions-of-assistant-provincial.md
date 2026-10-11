@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The provision of Section one thousand six hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Rizal, is further amended to read as follows:1âшphi1
+The provision of Section one thousand six hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Rizal, is further amended to read as follows:
 
 "Rizal, twenty-one assistant provincial fiscals;"
 

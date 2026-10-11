@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Notwithstanding the provisions of Executive Order No. 93 and Presidential Decree No. 1931, the tax and duty incentives previously enjoyed by the Veterans Federation of the Philippines under Republic Act Numbered Twenty-six hundred and forty are hereby restored: _Provided,_ That no dollar outflow shall in any manner be involved in the exchange of transaction.1âшphi1
+Notwithstanding the provisions of Executive Order No. 93 and Presidential Decree No. 1931, the tax and duty incentives previously enjoyed by the Veterans Federation of the Philippines under Republic Act Numbered Twenty-six hundred and forty are hereby restored: _Provided,_ That no dollar outflow shall in any manner be involved in the exchange of transaction.
 
 ## Section 2
 

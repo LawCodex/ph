@@ -225,7 +225,7 @@ _Campus Directors of the PSHS System Campuses._ \- Each PSHS campus shall have a
 
 The Campus Director shall be appointed by the Board, upon the recommendation of the Executive Director, for a term of six (6) years and may be reappointed for another term of six (6) years in accordance with the guidelines and qualifications set forth in the IRR of this Act, preferably holding an advanced degree in the field of STEM, and substantial experience in managing an educational institution.
 
-The Campus Director shall be allowed to complete the term of six (6) years even upon reaching the mandatory age of retirement but shall no longer be eligible for reappointment for another term.ℒαwρhi৷
+The Campus Director shall be allowed to complete the term of six (6) years even upon reaching the mandatory age of retirement but shall no longer be eligible for reappointment for another term.
 
 ## Section 14
 

@@ -119,7 +119,7 @@ The main offices, apiary, bee pasture development, demonstration and experimenta
 
 ## Section 11
 
-The amount of Twenty million pesos (P20,000,000.00) shall be appropriated from the Office of the President.1awphil.net
+The amount of Twenty million pesos (P20,000,000.00) shall be appropriated from the Office of the President.
 
 ## Section 12
 

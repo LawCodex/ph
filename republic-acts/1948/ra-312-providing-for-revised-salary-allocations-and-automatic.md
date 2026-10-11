@@ -50,7 +50,7 @@ The provisions of sections three and four of Commonwealth Act Numbered Four hund
 
 (A) A teacher with educational qualifications higher than the standards required for the position to which he is appointed be given a higher rate of entrance salary than a teacher who merely meets the standards, provided his civil service eligibility warrants a higher entrance salary for him.
 
-(B) An elementary-school principal or district supervisor who originally prepared himself for elementary work and who has obtained a B.S.E.Ꮮαwρhi৷ degree while in the service be given the same compensation as a secondary principal or a secondary supervisor, provided he possesses the civil service eligibility.
+(B) An elementary-school principal or district supervisor who originally prepared himself for elementary work and who has obtained a B.S.E. degree while in the service be given the same compensation as a secondary principal or a secondary supervisor, provided he possesses the civil service eligibility.
 
 (C) A classroom teacher who is a Normal graduate and who has obtained a B.S.E. degree while in the service be given the same compensation as a secondary teacher with the same college degree, provided he possesses the necessary civil service eligibility.
 

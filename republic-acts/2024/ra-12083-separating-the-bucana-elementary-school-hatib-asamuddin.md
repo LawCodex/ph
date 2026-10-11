@@ -36,7 +36,7 @@ All personnel, assets, liabilities and records of the Bucana Elementary School -
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Hatib Asamuddin Elementary School, the initial funding of which shall be charged against the current year's appropriation of the Bucana Elementary School - Hatib Asamuddin Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Hatib Asamuddin Elementary School, the initial funding of which shall be charged against the current year's appropriation of the Bucana Elementary School - Hatib Asamuddin Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

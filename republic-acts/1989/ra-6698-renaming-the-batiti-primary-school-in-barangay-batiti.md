@@ -29,7 +29,7 @@ The name of the Batiti Primary School in Barangay Batiti, Municipality of Concep
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The third paragraph of Section fifty of Republic Act Numbered two hundred ninety-six, otherwise known as "The Judiciary Act of 1948," as amended, is further amended to read as follows:
 
-"Twelve judges shall be commissioned for the Third Judicial District.1âшphi1 Ten judges shall preside over the Court of First Instance of Pangasinan and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh, eight, ninth, and tenth branches thereof, respectively. Two judges shall preside over the Court of First Instance of Zambales, and shall be known as Judges of the first and second branches thereof, respectively."
+"Twelve judges shall be commissioned for the Third Judicial District. Ten judges shall preside over the Court of First Instance of Pangasinan and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh, eight, ninth, and tenth branches thereof, respectively. Two judges shall preside over the Court of First Instance of Zambales, and shall be known as Judges of the first and second branches thereof, respectively."
 
 ## Section 2
 

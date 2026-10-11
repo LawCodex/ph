@@ -32,7 +32,7 @@ The status of the Eulogio Rodriguez, Sr. Memorial Hospital in the Municipality o
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 
@@ -40,7 +40,7 @@ The hospital as a medical center shall participate in the training of doctors in
 
 ## Section 4
 
-Henceforth, this hospital shall be named as 'Amang' Rodriguez Medical Center.1aшphi1
+Henceforth, this hospital shall be named as 'Amang' Rodriguez Medical Center.
 
 ## Section 5
 

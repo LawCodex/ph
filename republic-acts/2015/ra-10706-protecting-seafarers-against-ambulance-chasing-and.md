@@ -48,7 +48,7 @@ For purposes of this Act, fees referred to in this section shall mean the total 
 
 ## SECTION 5
 
-_Penalties._ — Any person who violates Section 3 of this Act shall be punished by a fine of not less than fifty thousand pesos (P50,000.00) but not more than one hundred thousand pesos (P100,000.00), or by imprisonment of one (1) year but not more than two (2) years, or both fine and imprisonment. The same penalties shall be imposed upon any person who shall be in collusion in the commission of the prohibited act in Section 3 hereof.1âwphi1
+_Penalties._ — Any person who violates Section 3 of this Act shall be punished by a fine of not less than fifty thousand pesos (P50,000.00) but not more than one hundred thousand pesos (P100,000.00), or by imprisonment of one (1) year but not more than two (2) years, or both fine and imprisonment. The same penalties shall be imposed upon any person who shall be in collusion in the commission of the prohibited act in Section 3 hereof.
 
 ## SECTION 6
 

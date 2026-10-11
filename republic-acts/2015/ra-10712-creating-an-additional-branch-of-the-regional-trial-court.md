@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## SECTION 1
 
-__An additional branch of the Regional Trial Court to be stationed in the City of Sorsogon, situated in the Province of Sorsogon, is hereby created in the Fifth Judicial Region. 1awp++i1
+__An additional branch of the Regional Trial Court to be stationed in the City of Sorsogon, situated in the Province of Sorsogon, is hereby created in the Fifth Judicial Region.
 
 ## SECTION 2
 

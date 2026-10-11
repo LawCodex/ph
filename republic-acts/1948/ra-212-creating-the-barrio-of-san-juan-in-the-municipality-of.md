@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of Nag-ilong and Lugay in the barrio of Mainaga, municipality of Mabini, Province of Batangas, are hereby segregated from the said barrio and constituted into an independent barrio to be known as the barrio of San Juan.1aшphi1
+The sitios of Nag-ilong and Lugay in the barrio of Mainaga, municipality of Mabini, Province of Batangas, are hereby segregated from the said barrio and constituted into an independent barrio to be known as the barrio of San Juan.
 
 ## Section 2
 

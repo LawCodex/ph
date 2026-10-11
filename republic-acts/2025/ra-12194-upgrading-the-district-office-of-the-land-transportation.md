@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) located in Ligao Cit
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of the LTO Ligao City District Office in the Province of Albay, the initial funding of which shall be charged against the current year's appropriation of the said office.ℒαwρhi৷ Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of the LTO Ligao City District Office in the Province of Albay, the initial funding of which shall be charged against the current year's appropriation of the said office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

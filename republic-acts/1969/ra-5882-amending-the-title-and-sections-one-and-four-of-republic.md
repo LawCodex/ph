@@ -47,6 +47,6 @@ Whenever the term "grantee" is used in republic Act Numbered Four thousand six h
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without executive approval, June 21, 1969.

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, is changed to Sombito Primary School.1âшphi1
+The name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, is changed to Sombito Primary School.
 
 ## Section 2
 

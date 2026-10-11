@@ -28,7 +28,7 @@ The South Provincial High School in the Municipality of Agoo, Province of La Uni
 
 ## Section 2
 
-Upon the organization of the Southern La Union National High School, the assets, liabilities, personnel, equipment and records of the South Provincial High School shall stand transferred to this new national high school.1âшphi1
+Upon the organization of the Southern La Union National High School, the assets, liabilities, personnel, equipment and records of the South Provincial High School shall stand transferred to this new national high school.
 
 ## Section 3
 

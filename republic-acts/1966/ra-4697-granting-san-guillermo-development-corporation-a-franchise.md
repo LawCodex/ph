@@ -30,7 +30,7 @@ Subject to the terms and conditions established in Act Numbered Thirty-six hundr
 
 ## Section 2
 
-In the event that the grantee should purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.1avvphi1
+In the event that the grantee should purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
 
 ## Section 3
 

@@ -34,7 +34,7 @@ The authorized bed capacity of the Rizal Medical Center (RMC) in Pasig City is h
 
 ## Section 2
 
-The existing medical equipment and facilities, its operating funds and construction of the needed infrastructure of the RMC are hereby upgraded to conform with and commensurate to the increase in bed capacity as provided in Section 1 hereof.1âwphi1
+The existing medical equipment and facilities, its operating funds and construction of the needed infrastructure of the RMC are hereby upgraded to conform with and commensurate to the increase in bed capacity as provided in Section 1 hereof.
 
 ## Section 3
 

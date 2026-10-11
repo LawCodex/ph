@@ -30,7 +30,7 @@ _Definition of terms._ The terms "carnapping", "motor vehicle", "defacing or tam
 
 "Carnapping" is the taking, with intent to gain, of a motor vehicle belonging to another without the latter's consent, or by means of violence against or intimidation of persons, or by using force upon things.
 
-"Motor vehicle" is any vehicle propelled by any power other than muscular power using the public highways, but excepting road rollers, trolley cars, street-sweepers, sprinklers, lawn mowers, bulldozers, graders, fork-lifts, amphibian trucks, and cranes if not used on public highways, vehicles, which run only on rails or tracks, and tractors, trailers and traction engines of all kinds used exclusively for agricultural purposes. Trailers having any number of wheels, when propelled or intended to be propelled by attachment to a motor vehicle, shall be classified as separate motor vehicle with no power rating.lawphi1™
+"Motor vehicle" is any vehicle propelled by any power other than muscular power using the public highways, but excepting road rollers, trolley cars, street-sweepers, sprinklers, lawn mowers, bulldozers, graders, fork-lifts, amphibian trucks, and cranes if not used on public highways, vehicles, which run only on rails or tracks, and tractors, trailers and traction engines of all kinds used exclusively for agricultural purposes. Trailers having any number of wheels, when propelled or intended to be propelled by attachment to a motor vehicle, shall be classified as separate motor vehicle with no power rating.
 
 "Defacing or tampering with" a serial number is the erasing, scratching, altering or changing of the original factory-inscribed serial number on the motor vehicle engine, engine block or chassis of any motor vehicle. Whenever any motor vehicle is found to have a serial number on its motor engine, engine block or chassis which is different from that which is listed in the records of the Bureau of Customs for motor vehicles imported into the Philippines, that motor vehicle shall be considered to have a defaced or tampered with serial number.
 
@@ -38,7 +38,7 @@ _Definition of terms._ The terms "carnapping", "motor vehicle", "defacing or tam
 
 "Body-building" is a job undertaken on a motor vehicle in order to replace its entire body with a new body.
 
-"Remodeling" is the introduction of some changes in the shape or form of the body of the motor vehicle.lawphi1™
+"Remodeling" is the introduction of some changes in the shape or form of the body of the motor vehicle.
 
 "Dismantling" is the tearing apart, piece by piece or part by part, of a motor vehicle.
 

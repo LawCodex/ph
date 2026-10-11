@@ -44,7 +44,7 @@ The grantee’s radio broadcasting and television stations shall not be put in a
 
 ## Section 6
 
-In the event of any competing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such terms or terms shall ipso facto become a part of the grantee as in the case of said competing individual, partnership or corporation.1âшphi1
+In the event of any competing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such terms or terms shall ipso facto become a part of the grantee as in the case of said competing individual, partnership or corporation.
 
 ## Section 7
 
@@ -82,7 +82,7 @@ Whenever in this franchise the term "grantee" is used, it shall be held and unde
 
 ## Section 15
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 16
 

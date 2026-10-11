@@ -54,7 +54,7 @@ _Amount of Amnesty Tax._ – A taxpayer who wishes to avail of the tax amnesty s
 
 ## Section 5
 
-_Schedule of Payment._ – The amnesty tax herein imposed shall be paid within two (2) months from the filing of the amnesty tax return. If the amnesty tax is not paid within the prescribed period, a surcharge equivalent to twenty-five percent (25%) of the unpaid amount shall be paid; otherwise, the application for tax amnesty shall be denied.1âшphi1
+_Schedule of Payment._ – The amnesty tax herein imposed shall be paid within two (2) months from the filing of the amnesty tax return. If the amnesty tax is not paid within the prescribed period, a surcharge equivalent to twenty-five percent (25%) of the unpaid amount shall be paid; otherwise, the application for tax amnesty shall be denied.
 
 ## Section 6
 

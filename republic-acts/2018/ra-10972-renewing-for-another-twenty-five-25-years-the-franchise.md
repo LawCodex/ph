@@ -76,7 +76,7 @@ _Term of Franchise._ \- This franchise shall be extended and in effect for a per
 
 ## Section 9
 
-_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act.1awp++i1 Refusal or failure to accept the franchise shall render the franchise void.
+_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Refusal or failure to accept the franchise shall render the franchise void.
 
 ## Section 10
 
@@ -90,7 +90,7 @@ _Right of Interconnection_ \- The grantee is hereby authorized to connect or dem
 
 ## Section 12
 
-_Mobile Number Portability._ \- The grantee shall provide mobile number portability (MNP).1âwphi1 It shall set up a mechanism for the purpose of implementing MNP. It shall interconnect directly or indirectly with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees. It shall not install network features, functions or capabilities that will impede the implementation of a nationwide MNP system. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees.
+_Mobile Number Portability._ \- The grantee shall provide mobile number portability (MNP). It shall set up a mechanism for the purpose of implementing MNP. It shall interconnect directly or indirectly with the infrastructure, facilities, systems, or equipment of other telecommunications franchise grantees. It shall not install network features, functions or capabilities that will impede the implementation of a nationwide MNP system. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other telecommunications franchise grantees.
 
 ## Section 13
 

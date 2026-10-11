@@ -60,7 +60,7 @@ Lot Description:
 | 8 - 9 | N. 69 deg. 10' W. | 143.90 m. |
 | 9 - 10 | N. 54 deg. 43' W. | 58.91 m. |
 | 10 - 11 | N. 60 deg. 26' E. | 4.28 m. |
-| 11 - 12 | N. 21 deg. 04' W. ℒαwρhi৷ | 83.43 m. |
+| 11 - 12 | N. 21 deg. 04' W. | 83.43 m. |
 | 12 - 13 | S. 88 deg. 42' W. | 31.41 m. |
 | 13 - 14 | N. 47 deg. 22' W. | 17.83 m. |
 | 14 - 15 | N. 12 deg. 42' W. | 18.73 m. |
@@ -106,7 +106,7 @@ _Conduct and Supervision of Plebiscite._ \- The plebiscite conducted and supervi
 
 ## Section 4
 
-_Incumbent Barangay Officials._ \- The incumbent elected barangay officials of Barangay FVR shall continue to hold office until such time that their successors have been duly elected and qualified.ℒαwρhi৷
+_Incumbent Barangay Officials._ \- The incumbent elected barangay officials of Barangay FVR shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 
@@ -118,7 +118,7 @@ _National Tax Allotment Shares._ \- Barangay FVR shall be entitled to National T
 
 ## Section 7
 
-_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby repealed or modified accordingly.ℒαwρhi৷
+_Repealing Clause._ \- All laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 8
 

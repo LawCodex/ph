@@ -110,7 +110,7 @@ _Compliance with TESDA Requirements._ \- The provisions of this Act notwithstand
 
 _Administration._ \- The Institute shall be headed by an Executive Director under the supervision of the TESDA, and appointed by the TESDA Director General in accordance with civil service rules and regulations and the qualification requirements and standards for such office.
 
-The School Superintendent shall render full-time service and shall be responsible for the administration and operation of the Institute.1âwphi1 The duties and responsibilities of the School Superintendent, including the appropriate compensation schedule, shall follow the position qualification standard of TESDA for such office, in consultation with the DBM.
+The School Superintendent shall render full-time service and shall be responsible for the administration and operation of the Institute. The duties and responsibilities of the School Superintendent, including the appropriate compensation schedule, shall follow the position qualification standard of TESDA for such office, in consultation with the DBM.
 
 As necessary and practicable, and subject to approval by the TESDA Director General, the School Superintendent herein appointed shall enter into mutual agreements with local-based, counterpart agencies or instrumentalities and persons, both private and government, for such assistance as may be necessary to effectively implement this Act.
 

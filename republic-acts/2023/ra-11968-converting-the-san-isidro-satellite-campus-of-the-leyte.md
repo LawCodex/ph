@@ -56,7 +56,7 @@ All parcels of land belonging to the government occupied by the LNU-San Isidro S
 
 ## Section 7
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.1aшphi1
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.
 
 ## Section 8
 

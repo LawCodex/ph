@@ -35,7 +35,7 @@ The grantee or its duly authorized agent may offer, take or arrange bets within 
 
 In order to maintain a clean, honest and orderly horse racing, the grantee shall provide mechanical and/or computerized devices, namely: a) photo patrol; b) automatic starter; c) electrical totalizator; d) photo finish devices; e) machine, directly connected to a computer in a display board, for the sale of daily double, "llave" forecast, and/or "quenella" tickets, including those sold from off track stations; f) facilities or devices for tattoo branding of horses for their proper identification; g) facilities, laboratories, and instruments for "test for drugs"; h) weighing machines and devices for measurement of horses; i) modern sound system and loud speakers; j) facilities that will bring safety, security, comfort and convenience to the public; k) modern intercommunication devices; and l) such other facilities, devices and instruments for a clean, honest and orderly horse racing, within three years from the approval of this Act. In case of failure to provide and install any of the above-mentioned equipment or facilities within the three-year period, the Games and Amusements Board shall forthwith suspend and prohibit the holding of races by the franchise, until such time as the said equipment or facilities are provided and installed.
 
-The Games and Amusements Board shall assign its auditors and/or inspectors to supervise and regulate the placing of bets, proper computation of dividends and the distribution of wager funds.1âшphi1
+The Games and Amusements Board shall assign its auditors and/or inspectors to supervise and regulate the placing of bets, proper computation of dividends and the distribution of wager funds.
 
 ## Section 4
 

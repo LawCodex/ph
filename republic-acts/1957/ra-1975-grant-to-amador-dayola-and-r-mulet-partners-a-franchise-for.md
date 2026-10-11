@@ -37,7 +37,7 @@ It is expressly provided that in the event the Government should desire to maint
 
 ## Section 4
 
-The public interest so requiring, Republic Act Numbered Six hundred nineteen is repealed.1âшphi1
+The public interest so requiring, Republic Act Numbered Six hundred nineteen is repealed.
 
 ## Section 5
 

@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._**—** The Tabuk Nation
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ — All personnel, assets, liabilities and records of the Tabuk National High School **—** Balong Annex are hereby transferred to and absorbed by the Balong National High School.1âwphi1
+_Transfer of Assets and Liabilities._ — All personnel, assets, liabilities and records of the Tabuk National High School **—** Balong Annex are hereby transferred to and absorbed by the Balong National High School.
 
 ## Section 3
 
@@ -42,7 +42,7 @@ _Appropriations. —_ The Secretary of Education shall immediately include in th
 
 ## Section 4
 
-_Implementation. —_ The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.1âwphi1
+_Implementation. —_ The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
 
 ## Section 5
 

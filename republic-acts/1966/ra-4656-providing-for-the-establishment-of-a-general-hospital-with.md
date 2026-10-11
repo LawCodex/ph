@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, a general hospital with a school of nursing and midwifery in the Municipality of Argao, Province of Cebu, to be known as Cebu South General Hospital. The bed capacity of this hospital shall be one hundred beds.1avvphi1
+There shall be established, under the direct supervision of the Director of Medical Services, a general hospital with a school of nursing and midwifery in the Municipality of Argao, Province of Cebu, to be known as Cebu South General Hospital. The bed capacity of this hospital shall be one hundred beds.
 
 ## Section 2
 

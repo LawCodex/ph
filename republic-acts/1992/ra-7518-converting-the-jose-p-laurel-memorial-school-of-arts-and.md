@@ -35,7 +35,9 @@ The Jose P. Laurel Memorial School of Arts and Trades in the Municipality of Mal
 
 The College shall primarily provide vocational, technical and professional instruction and training in applied arts and sciences as well as short-term vocational and technical courses. It shall also promote research, advanced studies and progressive leadership in the stated fields.
 
-**Section 3. 1âшphi1** The Jose P. Laurel Polytechnic College shall be headed by a vocational school superintendent who shall be appointed by the Secretary of the Department of Education, Culture and Sports.
+## Section 3
+
+The Jose P. Laurel Polytechnic College shall be headed by a vocational school superintendent who shall be appointed by the Secretary of the Department of Education, Culture and Sports.
 
 ## Section 4
 

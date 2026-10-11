@@ -35,11 +35,11 @@ All assets, personnel and properties such as buildings, sites and improvements t
 
 ## Section 3
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.ℒαwρhi৷
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
 
 ## Section 4
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Batanes Polytechnic College - Uyugan High School Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Batanes General Comprehensive High School shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Batanes Polytechnic College - Uyugan High School Annex. Thereafter, such sums as may be necessary for the operation and maintenance of the Batanes General Comprehensive High School shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

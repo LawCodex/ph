@@ -126,7 +126,7 @@ _Quorum._ \- A quorum of the Board of Trustees shall consist of a majority of al
 
 ## Section 9
 
-_Administration._ \- The administration of the College shall be vested in the president of the College who shall render full time service.1aшphi1
+_Administration._ \- The administration of the College shall be vested in the president of the College who shall render full time service.
 
 The president of the College shall be assisted by four directors: one director for instruction, one director for research, one director for extension and one director for finance and administration, who shall be appointed by the Board of Trustees upon the recommendation of the president of the College and whose compensation shall be fixed by the Board subject to the Revised Compensation and Position Classification System.
 

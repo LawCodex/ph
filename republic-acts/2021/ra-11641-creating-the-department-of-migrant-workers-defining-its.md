@@ -366,7 +366,7 @@ For purposes of the additional separation incentives, the actual monthly basic s
 
 ## Section 23
 
-_Transition Period._ – The transfer of functions, assets, funds, equipment, properties, transactions, and personnel of the affected agencies, and the formulation of the internal organic structure, staffing pattern, operating system, and revised budget of the Department, shall be completed within two (2) years from the effectivity of this Act: _Provided,_ That until new appointments and new staffing pattern shall have been issued, the existing personnel of all subsumed entities shall continue to assume their posts on holdover capacities until new appointments or a new staffing pattern shall have been issued: _Provided,_ further, That after the organization and rationalization process, the Department, in coordination with the DBM, shall determine and create new positions, the funding requirements of which shall not, exceed the equivalent cost of the positions subsumed.ℒαwρhi৷
+_Transition Period._ – The transfer of functions, assets, funds, equipment, properties, transactions, and personnel of the affected agencies, and the formulation of the internal organic structure, staffing pattern, operating system, and revised budget of the Department, shall be completed within two (2) years from the effectivity of this Act: _Provided,_ That until new appointments and new staffing pattern shall have been issued, the existing personnel of all subsumed entities shall continue to assume their posts on holdover capacities until new appointments or a new staffing pattern shall have been issued: _Provided,_ further, That after the organization and rationalization process, the Department, in coordination with the DBM, shall determine and create new positions, the funding requirements of which shall not, exceed the equivalent cost of the positions subsumed.
 
 A Transition Committee is hereby created which shall be composed of the Department of Migrant Workers Secretary, the Undersecretary for the Office of Migrant Workers Affairs of the DFA, the Administrator of the POEA, the Director of the ILAB of DOLE, the Director of the NRCO of OWWA, the Director of the National Maritime Polytechnic of DOLE and the Director of the Office of the Social Welfare Attaché of the DSWD.
 
@@ -421,7 +421,7 @@ _Mandatory Review by the Reorganization Commission._ – Five (5) years after th
 
 Five (5) years from the creation of this Department, the Commission may recommend the reorganization, consolidation, or abolition of the Department should circumstances prove that there is no more need for its existence. The relevance and practicality of maintaining the Department shall be reviewed every five (5) years after the five (5)-year mandatory review period. Indicators shall include, but shall not be limited to, number of decent jobs created., broader social protection coverage, more jobs options for women and cultural minorities, and less proportion of OFWs in high-risk and precarious occupations.
 
-The Commission shall include the secretaries of this Department, the DFA, the DOLE, the NEDA, and the DBM as members.ℒαwρhi৷
+The Commission shall include the secretaries of this Department, the DFA, the DOLE, the NEDA, and the DBM as members.
 
 ## Section 28
 

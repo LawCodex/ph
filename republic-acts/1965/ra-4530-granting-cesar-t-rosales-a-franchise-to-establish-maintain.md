@@ -49,7 +49,7 @@ The grantee, upon prior approval of the Congress of the Philippines, may sell, l
 
 ## Section 7
 
-The Public Service Commission shall have the power after a reasonable written notice to the grantee and a hearing of the interested parties, to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions hereof unless such failure shall have been directly and primarily caused by an act of God, force majeure, usurped right, uprising or other causes beyond the grantee’s control. Against such declaration of forfeiture by the Public Service Commission, the grantee may apply for the remedies provided in Sections thirty-four and thirty-six of the Public Service Act.1âшphi1 The remedy provided herein shall not be a bar to any other remedy provided by existing laws for the forfeiture of this franchise.
+The Public Service Commission shall have the power after a reasonable written notice to the grantee and a hearing of the interested parties, to declare the forfeiture of this franchise and all rights inherent in the same for failure on the part of the grantee to comply with any of the terms and conditions hereof unless such failure shall have been directly and primarily caused by an act of God, force majeure, usurped right, uprising or other causes beyond the grantee’s control. Against such declaration of forfeiture by the Public Service Commission, the grantee may apply for the remedies provided in Sections thirty-four and thirty-six of the Public Service Act. The remedy provided herein shall not be a bar to any other remedy provided by existing laws for the forfeiture of this franchise.
 
 ## Section 8
 

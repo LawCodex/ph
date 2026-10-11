@@ -41,7 +41,7 @@ All existing laws, decrees, and orders that are inconsistent and contrary with t
 
 ## Section 5
 
-Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.1âшphi1
+Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
 
 ## Section 6
 

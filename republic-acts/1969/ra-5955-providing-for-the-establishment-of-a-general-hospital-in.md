@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a general hospital in the Municipality of La Trinidad, Province of Benguet, to be known as Benguet General Hospital to serve particularly the new Province of Benguet.1âшphi1
+There shall be established a general hospital in the Municipality of La Trinidad, Province of Benguet, to be known as Benguet General Hospital to serve particularly the new Province of Benguet.
 
 ## Section 2
 

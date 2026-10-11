@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The ceramics plant in Barrio Binalayan, Municipality of Maripipi, Province of Leyte, under the National Institute of Science of Technology, is hereby transferred to Maripipi National Ceramics School.1âшphi1
+The ceramics plant in Barrio Binalayan, Municipality of Maripipi, Province of Leyte, under the National Institute of Science of Technology, is hereby transferred to Maripipi National Ceramics School.
 
 ## Section 2
 

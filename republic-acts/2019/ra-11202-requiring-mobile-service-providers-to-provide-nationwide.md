@@ -84,7 +84,7 @@ _Interpretation._ \- Any doubt in the interpretation of any provision of this Ac
 
 _Obligation of Public Telecommunications Entities (PTE)._ \- It shall be the obligation of every PTE to:
 
-(a) Provide nationwide MNP to all qualified subscribers completely free of charge.1awp++i1 In no case, under penalty of law as provided hereunder, shall the benefits of MNP to a subscriber who has decided to avail of MNP be delayed, withheld, refused, or otherwise not delivered within the period provided under this Act: _Provided,_ That a PTE shall change the type of subscription from postpaid to prepaid or vice versa, within twenty-four (24) hours from the time a subscriber submits the porting application: _Provided, further,_ That the number porting process for postpaid subscribers is separate from the approval process for a new mobile subscription plan from the recipient provider: _Provided, finally,_ That a subscriber shall be allowed to port the same number only after the lapse of sixty (60) days from the completion of the last porting process;
+(a) Provide nationwide MNP to all qualified subscribers completely free of charge. In no case, under penalty of law as provided hereunder, shall the benefits of MNP to a subscriber who has decided to avail of MNP be delayed, withheld, refused, or otherwise not delivered within the period provided under this Act: _Provided,_ That a PTE shall change the type of subscription from postpaid to prepaid or vice versa, within twenty-four (24) hours from the time a subscriber submits the porting application: _Provided, further,_ That the number porting process for postpaid subscribers is separate from the approval process for a new mobile subscription plan from the recipient provider: _Provided, finally,_ That a subscriber shall be allowed to port the same number only after the lapse of sixty (60) days from the completion of the last porting process;
 
 (b) Set up a mechanism for the implementation of MNP. It shall interconnect directly or indirectly with the infrastructure, facilities, systems, or equipment of other PTEs and not install network features, functions or capabilities that will impede the implementation of the nationwide MNP system;
 
@@ -126,7 +126,7 @@ _Administrative Fines and Penalties._ \- The National Telecommunications Commiss
 
 (a) A fine of Ten thousand pesos (₱10,000.00) where portability is not performed within the periods allowed under this Act, but delivered by the mobile service provider on or before the complaint under Section 11 hereof is filed, or delivered after and in accordance with agreements arrived at in mediation under Section 11 hereof.
 
-(b) A fine of not less than Forty thousand pesos (₱40,000.00) where MNP is unjustly refused even after mediation.1âwphi1
+(b) A fine of not less than Forty thousand pesos (₱40,000.00) where MNP is unjustly refused even after mediation.
 
 (c) A fine of not less than One hundred thousand pesos (₱100,000.00) up to Three hundred thousand pesos (₱300,000.00) for the second to the fourth instance where MNP is unjustly refused even after mediation.
 
@@ -134,7 +134,7 @@ _Administrative Fines and Penalties._ \- The National Telecommunications Commiss
 
 In case the mobile service provider is a VNO, and it is proven that it failed to comply with any of its obligations, including delay in the transmission of a porting application to its host PTE or unjust refusal to process an MNP application from its subscribers, the same penalties shall apply. In case it is proven that the host PTE delayed or unjustly refused to process a porting application transmitted by a VNO, the host PTE shall be solidarily liable for such offense and the same penalties shall apply.
 
-The NTC is also hereby authorized to award the subscriber damages not to exceed Forty thousand pesos (₱40,000.00).1âwphi1 The NTC shall impose and collect the appropriate fines from the mobile service providers who are in violation of this Act. The amount to be collected from the fines shall be remitted to the National Treasury.
+The NTC is also hereby authorized to award the subscriber damages not to exceed Forty thousand pesos (₱40,000.00). The NTC shall impose and collect the appropriate fines from the mobile service providers who are in violation of this Act. The amount to be collected from the fines shall be remitted to the National Treasury.
 
 ## Section 11
 

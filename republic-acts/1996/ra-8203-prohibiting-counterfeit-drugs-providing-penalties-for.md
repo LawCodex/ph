@@ -135,7 +135,7 @@ d. filing of an appropriate proceedings against the registered pharmacist with t
 
 e. filing of criminal charges against the violator(s), which can be instituted independently from the administrative case: _Provided,_ That the dismissal of the criminal case shall not lift the closure order, except when it is a dismissal on the merits or for lack of basis: _Provided, further_ , That the withdrawal of the private criminal complaint shall not be a ground for the dismissal of the administrative proceedings; and
 
-f. permanent disqualification of the person concerned, whether natural or juridical, from owning or operating an establishment engaged in any business activity under the supervision of the Bureau.1aшphi1
+f. permanent disqualification of the person concerned, whether natural or juridical, from owning or operating an establishment engaged in any business activity under the supervision of the Bureau.
 
 ## Section 8
 

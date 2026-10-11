@@ -41,7 +41,7 @@ Section one of Republic Act Numbered Two thousand seven hundred five, as amended
 
 "The qualifications for appointment to the position of chief of the legal staff and those of assistant chiefs, and their ranks, shall be the same as those prescribed for assistant solicitor general, and those for senior special attorneys and special attorneys, and their ranks, shall be the same as those prescribed for solicitors in the Office of the Solicitor General.
 
-"To the interest of greater efficiency in the discharge of the functions of the office, the Attorney General’s Legal Staff may, in the discretion of the Department Head, be organized into two divisions which shall be headed by the two assistant chiefs who shall be known as chief special attorneys and shall be assisted by the senior special attorneys and assistant chiefs of their respective divisions.1awp++i1 The members of the Legal Staff shall receive their salaries in accordance with the above revised salary scale, any provision of law to the contrary notwithstanding."
+"To the interest of greater efficiency in the discharge of the functions of the office, the Attorney General’s Legal Staff may, in the discretion of the Department Head, be organized into two divisions which shall be headed by the two assistant chiefs who shall be known as chief special attorneys and shall be assisted by the senior special attorneys and assistant chiefs of their respective divisions. The members of the Legal Staff shall receive their salaries in accordance with the above revised salary scale, any provision of law to the contrary notwithstanding."
 
 ## Section 2
 

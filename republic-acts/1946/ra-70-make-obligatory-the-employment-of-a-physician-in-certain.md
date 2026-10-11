@@ -38,6 +38,6 @@ Whenever the violation is committed by a corporation, association or partnership
 
 ## Section 4
 
-This Act shall take effect on the sixtieth day after its approval.1â#x0448;phi1
+This Act shall take effect on the sixtieth day after its approval.
 
 Approved: October 21, 1946.

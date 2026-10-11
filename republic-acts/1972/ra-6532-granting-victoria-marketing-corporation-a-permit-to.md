@@ -28,7 +28,7 @@ There is hereby granted to Victoria Marketing Corporation or its successors, a p
 
 ## Section 2
 
-The permit herein granted shall continue to be in force during the time that the grantee or its successors conducts its business or services at the places selected by the grantee, not to exceed twenty-five years from the date of the approval of this Act and is granted upon the express condition that the same shall be void unless the construction or installation of at least two radio stations be completed within two years from the date of the approval of this Act.1âшphi1
+The permit herein granted shall continue to be in force during the time that the grantee or its successors conducts its business or services at the places selected by the grantee, not to exceed twenty-five years from the date of the approval of this Act and is granted upon the express condition that the same shall be void unless the construction or installation of at least two radio stations be completed within two years from the date of the approval of this Act.
 
 ## Section 3
 

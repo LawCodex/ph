@@ -73,7 +73,7 @@ The grantee shall not lease, transfer, grant the use of, sell or assign this fra
 
 ## Section 13
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 14
 

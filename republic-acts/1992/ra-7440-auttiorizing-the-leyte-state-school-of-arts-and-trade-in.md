@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Leyte State School of Arts and Trade in the Municipality of Tanauan, Leyte, is hereby authorized to offer the courses leading to the degrees of Bachelor of Science in Civil Engineering, Mechanical Engineering and Electrical Engineering.1âшphi1
+The Leyte State School of Arts and Trade in the Municipality of Tanauan, Leyte, is hereby authorized to offer the courses leading to the degrees of Bachelor of Science in Civil Engineering, Mechanical Engineering and Electrical Engineering.
 
 ## Section 2
 

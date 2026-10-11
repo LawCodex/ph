@@ -37,7 +37,7 @@ The governor, vice-governor and members of the Provincial Board of the Subprovin
 
 ## Section 4
 
-The Member of the House of Representatives for the Province of Quirino shall be elected in the next Presidential elections: _Provided,_ That the present Representative for the Lone District of the Province of Nueva Vizcaya shall, during the term of office as representative, continue to represent the new Province of Quirino. The delegates to the Constitutional Convention for the Province of Nueva Vizcaya shall likewise represent the Province of Quirino.1âшphi1
+The Member of the House of Representatives for the Province of Quirino shall be elected in the next Presidential elections: _Provided,_ That the present Representative for the Lone District of the Province of Nueva Vizcaya shall, during the term of office as representative, continue to represent the new Province of Quirino. The delegates to the Constitutional Convention for the Province of Nueva Vizcaya shall likewise represent the Province of Quirino.
 
 ## Section 5
 

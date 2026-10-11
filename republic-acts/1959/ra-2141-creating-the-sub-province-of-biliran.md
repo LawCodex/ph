@@ -45,7 +45,7 @@ The Sub-province of Biliran shall be considered as a province for the purpose of
 
 ## Section 6
 
-The lieutenant-governor of the Sub-province of Biliran shall not be a member of the Provincial Board of Leyte.1âшphi1
+The lieutenant-governor of the Sub-province of Biliran shall not be a member of the Provincial Board of Leyte.
 
 ## Section 7
 

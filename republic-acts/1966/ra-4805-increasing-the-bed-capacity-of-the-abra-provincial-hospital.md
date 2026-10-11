@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of the Abra Provincial Hospital in the Municipality of Bangued, Province of Abra, is hereby increased to fifty beds.1avvphi1
+The bed capacity of the Abra Provincial Hospital in the Municipality of Bangued, Province of Abra, is hereby increased to fifty beds.
 
 ## Section 2
 

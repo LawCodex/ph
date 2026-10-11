@@ -37,7 +37,7 @@ Mountain Province shall comprise the Subprovince of Bontoc and the municipalitie
 
 ## Section 4
 
-The Province of Ifugao shall comprise the Subprovince of Ifugao and the municipalities of Banaue, Lagawe, Hungduan, Kiangan, Lamut, Mayaoyao and Potia.1avvphi1
+The Province of Ifugao shall comprise the Subprovince of Ifugao and the municipalities of Banaue, Lagawe, Hungduan, Kiangan, Lamut, Mayaoyao and Potia.
 
 ## Section 5
 

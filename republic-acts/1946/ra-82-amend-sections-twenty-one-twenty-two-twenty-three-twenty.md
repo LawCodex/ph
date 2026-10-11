@@ -143,7 +143,7 @@ Section thirty-four of Commonwealth Act Numbered Four hundred and sixty-six is h
 
 "(a) _Definitions._ — As used in this Title—
 
-"(1) _Capital assets._ — The term "capital assets" means property held by the taxpayer (whether or not connected with his trade of business), but does not include stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business, or property, used in the trade or business, of a character which is subject to the allowance for depreciation provided in subsection (f) of section thirty; or real property used in the trade or business of the taxpayer.1â#x0448;phi1
+"(1) _Capital assets._ — The term "capital assets" means property held by the taxpayer (whether or not connected with his trade of business), but does not include stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business, or property, used in the trade or business, of a character which is subject to the allowance for depreciation provided in subsection (f) of section thirty; or real property used in the trade or business of the taxpayer.
 
 "(2) _Net capital gain._ — The term "net capital gain" means the excess of the gains from sales or exchanges of capital assets over the losses from such sales or exchanges.
 
@@ -153,7 +153,7 @@ Section thirty-four of Commonwealth Act Numbered Four hundred and sixty-six is h
 
 "(1) 100 per centum if the capital asset has been held for not more than twelve months;
 
-"(2) 50 per centum if the capital asset has been held for not more than twelve months.1awp++i1
+"(2) 50 per centum if the capital asset has been held for not more than twelve months.
 
 "(c) _Limitation on capital losses._ — Losses from sales or exchanges of capital assets shall be allowed only to the extent of the gains from such sales or exchanges. If a bank or trust company incorporated under the laws of the Philippines, a substantial part of whose business is the receipt of deposits, sells any bond, debenture, note, or certificate or other evidence of indebtedness issued by any corporation (including one issued by a government or political subdivision thereof), with interest coupons or in registered form, any loss resulting from such sale shall not be subject to the foregoing limitation and shall not be included in determining the applicability of such limitation to other losses.
 

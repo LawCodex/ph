@@ -82,7 +82,7 @@ _Exemption._ \- Nothing contained in this Act, however, shall render it unlawful
 
 ## Section 7
 
-_Inadmissibility of Evidence._ \- Any record, photo or video, or copy thereof, obtained or secured by any person in violation of the preceding sections shall not be admissible in evidence in any judicial, quasi-judicial, legislative or administrative hearing or investigation.1avvphi1
+_Inadmissibility of Evidence._ \- Any record, photo or video, or copy thereof, obtained or secured by any person in violation of the preceding sections shall not be admissible in evidence in any judicial, quasi-judicial, legislative or administrative hearing or investigation.
 
 ## Section 8
 

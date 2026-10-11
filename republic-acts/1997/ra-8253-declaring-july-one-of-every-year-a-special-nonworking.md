@@ -32,7 +32,7 @@ July one is the charter day anniversary of the Municipality of Mahinog, Province
 
 ## Section 2
 
-July one of every year is hereby declared a special nonworking public holiday in the Municipality of Mahinog.1aшphi1
+July one of every year is hereby declared a special nonworking public holiday in the Municipality of Mahinog.
 
 ## Section 3
 

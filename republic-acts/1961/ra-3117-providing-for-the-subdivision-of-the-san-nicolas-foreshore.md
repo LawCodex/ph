@@ -39,7 +39,7 @@ All streets and alleys existing on the date of the approval of this Act within t
 
 ## Section 3
 
-The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eighty equal monthly installments, with an annual interest at the rate of four per centum on all the installments due and payable.1âшphi1 They may also pay the price in cash or more than one installment at one time.
+The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eighty equal monthly installments, with an annual interest at the rate of four per centum on all the installments due and payable. They may also pay the price in cash or more than one installment at one time.
 
 ## Section 4
 
@@ -67,7 +67,7 @@ The sum of four hundred thousand pesos is appropriated, out of any funds in the 
 
 ## Section 9
 
-All laws or parts of laws inconsistent with this Act are repealed or modified accordingly.1avvphi1
+All laws or parts of laws inconsistent with this Act are repealed or modified accordingly.
 
 ## Section 10
 

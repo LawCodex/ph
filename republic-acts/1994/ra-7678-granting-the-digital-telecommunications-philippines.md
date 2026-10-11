@@ -137,7 +137,7 @@ _Alteration or Repeal of Franchise._ — This franchise shall be subject to amen
 
 ## Section 20
 
-_Separability Clause_. — If any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions hereof shall continue to be in force as if the section or provision so declared unconstitutional had never been incorporated in this Act.1a⍵⍴h!1
+_Separability Clause_. — If any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions hereof shall continue to be in force as if the section or provision so declared unconstitutional had never been incorporated in this Act.
 
 ## Section 21
 

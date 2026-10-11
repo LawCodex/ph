@@ -94,7 +94,7 @@ _Duty of Collector of Customs to Report._ \- Within seven (7) days after the arr
 
 ## Section 10
 
-_Duty of Importers, Distributors and Sellers of Motor Vehicles to Keep Record of Stocks._ \- Any person engaged in the importation, distribution, and buying and selling of motor vehicles, motor vehicle engines, engine blocks, chassis or body shall keep a permanent record of one’s stocks, stating therein their type, make and serial numbers, and the names and addresses of the persons from whom they were acquired and the names and addresses of the persons to whom they are sold, and shall render accurately a monthly report of his/her transactions in motor vehicles to the LTO.1avvphi1
+_Duty of Importers, Distributors and Sellers of Motor Vehicles to Keep Record of Stocks._ \- Any person engaged in the importation, distribution, and buying and selling of motor vehicles, motor vehicle engines, engine blocks, chassis or body shall keep a permanent record of one’s stocks, stating therein their type, make and serial numbers, and the names and addresses of the persons from whom they were acquired and the names and addresses of the persons to whom they are sold, and shall render accurately a monthly report of his/her transactions in motor vehicles to the LTO.
 
 ## Section 11
 

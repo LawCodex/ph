@@ -32,7 +32,7 @@ The Ardent Spring in the Municipality of Mambajao, Province of Camiguin, shall h
 
 ## Section 2
 
-The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government, shall prepare the development plan and construct the appropriate facilities and infrastructure for the area, subject to set tourism standards: _Provided,_ That the development plan shall ensure the protection and preservation of the natural beauty and historical significance thereof.1aшphi1
+The Department of Tourism, in coordination with the Philippine Tourism Authority and other concerned agencies of the government, shall prepare the development plan and construct the appropriate facilities and infrastructure for the area, subject to set tourism standards: _Provided,_ That the development plan shall ensure the protection and preservation of the natural beauty and historical significance thereof.
 
 ## Section 3
 

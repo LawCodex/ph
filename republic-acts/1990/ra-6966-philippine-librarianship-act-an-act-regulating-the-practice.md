@@ -27,9 +27,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE I — TITLE
 
-**Section 1._Title._** – This Act shall be known as the **"_Philippine Librarianship Act._ "**
+### Section 1
 
-**Section 2._Definition of Terms._** – (a) _Librarian_ – A librarian is a bona fide holder of a certificate of registration issued by the Board for Librarians in accordance with this Act.
+_Title._ – This Act shall be known as the **"_Philippine Librarianship Act._ "**
+
+### Section 2
+
+_Definition of Terms._ – (a) _Librarian_ – A librarian is a bona fide holder of a certificate of registration issued by the Board for Librarians in accordance with this Act.
 
 (b) _Scope of the practice of librarianship_ – The practice of librarianship shall constitute in holding out oneself as skilled in the knowledge, art and science of the organization, dissemination, preservation and conservation of recorded information; the rendering, furnishing and contracting of professional services such as consultations and advice on the organization and management of libraries, data banks, research and information centers to clients on a fee basis or otherwise; the teaching of subjects in the library and information sciences; and the signing or authenticating for clients of documents or reports when called for.
 
@@ -37,9 +41,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE II — ORGANIZATION OF THE BOARD FOR LIBRARIANS
 
-**Section 3._Creation and Composition of the Board._** – Within sixty (60) days after this Act takes effect, there shall be created a Board for Librarians to be composed of a Chairman and two (2) members who shall be appointed by the President of the Philippines upon recommendation of the Professional Regulation Commission from among certified librarians of recognized standing in the Philippines representing the academic, public and special libraries as may be certified by the Philippine Librarians Association, Inc. and possessing the qualifications prescribed under Section 4 of this Act: provided, that the members of the first Board for Librarians appointed under this Act shall each be considered certified for the purpose thereof, and shall, upon payment of fees prescribed under the revised rates of the examination, registration and other fees, be issued a certificate of registration in accordance with the provisions of this Act.
+### Section 3
 
-**Section 4._Qualifications of Board Members._** – Each member of the Board must, at the time of his appointment, possess the following qualifications:
+_Creation and Composition of the Board._ – Within sixty (60) days after this Act takes effect, there shall be created a Board for Librarians to be composed of a Chairman and two (2) members who shall be appointed by the President of the Philippines upon recommendation of the Professional Regulation Commission from among certified librarians of recognized standing in the Philippines representing the academic, public and special libraries as may be certified by the Philippine Librarians Association, Inc. and possessing the qualifications prescribed under Section 4 of this Act: provided, that the members of the first Board for Librarians appointed under this Act shall each be considered certified for the purpose thereof, and shall, upon payment of fees prescribed under the revised rates of the examination, registration and other fees, be issued a certificate of registration in accordance with the provisions of this Act.
+
+### Section 4
+
+_Qualifications of Board Members._ – Each member of the Board must, at the time of his appointment, possess the following qualifications:
 
 (a) A citizen and resident of the Philippines;
 
@@ -57,7 +65,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (2) An incumbent officer of the Philippine Librarians Association, Inc.
 
-**Section 5._Functions and Duties of the Board._** – The Board shall have the following functions and duties:
+### Section 5
+
+_Functions and Duties of the Board._ – The Board shall have the following functions and duties:
 
 (a) To administer and promulgate rules and regulations necessary for carrying out the provisions of this Act in accordance with the charter of the Professional Regulation Commission;
 
@@ -79,23 +89,39 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (j) To discharge such other powers and duties as the Board may deem necessary for the practice of librarianship and the continued growth and development of libraries and library education in the Philippines.
 
-**Section 6._Term of Office._** – The Chairman and the members of the Board shall hold office for a term of three (3) years from the date they assume office, regardless of the nature of their appointment: provided, that the first appointees to the Board under this Act shall hold office on the following terms: one (1) member shall serve for one (1) year; one (1) member for two (2) years; and one (1) member for three (3) years. Vacancies shall be served for the unexpired term only. No person who has served for two (2) successive terms shall be eligible for reappointment until after the lapse of one (1) year. Appointment to fill an unexpired term is not to be considered as a complete term. They shall take oath before assuming office.
+### Section 6
 
-**Section 7._Executive Officer and Secretary of the Board._** – The Commissioner of the Professional Regulation Commission shall be the Executive Officer of the Board and shall conduct the examination given by it. The Secretary of the Professional Regulation Commission shall act as Secretary of the Board. All the records of the Board including examination papers, minutes of deliberation, and records of administrative proceedings and investigations shall be kept by the Professional Regulation Commission under the direct custody of the Secretary.
+_Term of Office._ – The Chairman and the members of the Board shall hold office for a term of three (3) years from the date they assume office, regardless of the nature of their appointment: provided, that the first appointees to the Board under this Act shall hold office on the following terms: one (1) member shall serve for one (1) year; one (1) member for two (2) years; and one (1) member for three (3) years. Vacancies shall be served for the unexpired term only. No person who has served for two (2) successive terms shall be eligible for reappointment until after the lapse of one (1) year. Appointment to fill an unexpired term is not to be considered as a complete term. They shall take oath before assuming office.
 
-**Section 8._Compensation of the Board._** – The Chairman and the members of the Board shall each receive as compensation per diems as determined by the Professional Regulation Commission for every Board meeting, the sum of twenty pesos (P20.00) for each applicant examined, and the sum of Ten pesos (P10.00) for every applicant granted a certificate of registration as librarian without examination. Any librarian in the service of the Republic of the Philippines appointed as member of the Board shall also receive compensation herein provided.
+### Section 7
 
-**Section 9._Removal of a Board Member._** – Any member of the Board may be removed by the President of the Philippines upon the recommendation of the Professional Regulation Commission for neglect of duty, incompetence, unprofessional, unethical, immoral or dishonorable conduct for commission or toleration of irregularities in the examination, after having been given the opportunity to defend himself in a proper administrative investigation.
+_Executive Officer and Secretary of the Board._ – The Commissioner of the Professional Regulation Commission shall be the Executive Officer of the Board and shall conduct the examination given by it. The Secretary of the Professional Regulation Commission shall act as Secretary of the Board. All the records of the Board including examination papers, minutes of deliberation, and records of administrative proceedings and investigations shall be kept by the Professional Regulation Commission under the direct custody of the Secretary.
 
-**Section 10._Annual Report._** – The Board, through the Professional Regulation Commission, shall submit at the end of each fiscal year an annual accomplishment report to the President of the Philippines and to Congress, including therein a detailed account of the proceedings of the Board during the year and embodying such recommendations as the Board may desire to take.
+### Section 8
+
+_Compensation of the Board._ – The Chairman and the members of the Board shall each receive as compensation per diems as determined by the Professional Regulation Commission for every Board meeting, the sum of twenty pesos (P20.00) for each applicant examined, and the sum of Ten pesos (P10.00) for every applicant granted a certificate of registration as librarian without examination. Any librarian in the service of the Republic of the Philippines appointed as member of the Board shall also receive compensation herein provided.
+
+### Section 9
+
+_Removal of a Board Member._ – Any member of the Board may be removed by the President of the Philippines upon the recommendation of the Professional Regulation Commission for neglect of duty, incompetence, unprofessional, unethical, immoral or dishonorable conduct for commission or toleration of irregularities in the examination, after having been given the opportunity to defend himself in a proper administrative investigation.
+
+### Section 10
+
+_Annual Report._ – The Board, through the Professional Regulation Commission, shall submit at the end of each fiscal year an annual accomplishment report to the President of the Philippines and to Congress, including therein a detailed account of the proceedings of the Board during the year and embodying such recommendations as the Board may desire to take.
 
 ## ARTICLE III — EXAMINATION AND CERTIFICATION
 
-**Section 11._Inhibition Against the Practice of Librarianship._** – Unless exempt from registration, no person shall practice or offer to practice librarianship in the Philippines or be appointed as a librarian to any position calling for a librarian and documentalist or information specialist working in a library, without having previously obtained a certificate of registration from the Board.
+### Section 11
 
-**Section 12._Examination Required._** – Except as otherwise specifically allowed under the provisions of this Act, all applicants for certification as librarians shall be required to undergo a written examination which shall be given annually in such places and dates as the Board may determine.
+_Inhibition Against the Practice of Librarianship._ – Unless exempt from registration, no person shall practice or offer to practice librarianship in the Philippines or be appointed as a librarian to any position calling for a librarian and documentalist or information specialist working in a library, without having previously obtained a certificate of registration from the Board.
 
-**Section 13._Qualifications of Applicants._** – In order to be admitted to the examination for librarians, an applicant must, at the time of filing of application thereof, meet the following qualifications:
+### Section 12
+
+_Examination Required._ – Except as otherwise specifically allowed under the provisions of this Act, all applicants for certification as librarians shall be required to undergo a written examination which shall be given annually in such places and dates as the Board may determine.
+
+### Section 13
+
+_Qualifications of Applicants._ – In order to be admitted to the examination for librarians, an applicant must, at the time of filing of application thereof, meet the following qualifications:
 
 (a) A citizen of the Philippines;
 
@@ -115,15 +141,25 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (5) Master of Arts in Library Science.
 
-**Section 14._Scope of Examination._** – The examination for librarianship shall consist of Category A, General Information Test and Category B, Professional Test consisting of: (1) selection and acquisition of library materials; (2) cataloguing and classification; (3) indexing and abstracting; (4) reference, bibliography and information services; (5) organization and management of libraries and information centers; (6) information technology; and (7) such other subjects which the Board may deem necessary.
+### Section 14
 
-**Section 15._Report of the Results of Examination._** – The Board shall, within ninety (90) days after the examination, report the ratings obtained by each candidate to the Professional Regulation Commission for approval and/or appropriate action.
+_Scope of Examination._ – The examination for librarianship shall consist of Category A, General Information Test and Category B, Professional Test consisting of: (1) selection and acquisition of library materials; (2) cataloguing and classification; (3) indexing and abstracting; (4) reference, bibliography and information services; (5) organization and management of libraries and information centers; (6) information technology; and (7) such other subjects which the Board may deem necessary.
 
-**Section 16._Repeaters._** – A candidate who falls in three (3) successive Board examination shall be disqualified from taking the fourth examination unless he submits evidence to the Board that he has taken a refresher course from a duly accredited school or its equivalent as determined by the Board.
+### Section 15
 
-**Section 17._Rules and Regulations._** – The Board shall adopt rules and regulations governing the examination and standards to be attained in them with the approval of the Professional Regulation Commission.
+_Report of the Results of Examination._ – The Board shall, within ninety (90) days after the examination, report the ratings obtained by each candidate to the Professional Regulation Commission for approval and/or appropriate action.
 
-**Section 18._Registration and Exception._** – Upon application and payment of the required fees, certificates of registration as librarian shall be issued without the necessity of licensure examination to qualified applicants who, on the date of the approval of this Act are:
+### Section 16
+
+_Repeaters._ – A candidate who falls in three (3) successive Board examination shall be disqualified from taking the fourth examination unless he submits evidence to the Board that he has taken a refresher course from a duly accredited school or its equivalent as determined by the Board.
+
+### Section 17
+
+_Rules and Regulations._ – The Board shall adopt rules and regulations governing the examination and standards to be attained in them with the approval of the Professional Regulation Commission.
+
+### Section 18
+
+_Registration and Exception._ – Upon application and payment of the required fees, certificates of registration as librarian shall be issued without the necessity of licensure examination to qualified applicants who, on the date of the approval of this Act are:
 
 (a) Librarian and supervising librarian eligibles and are holders of a bachelor's degree;
 
@@ -131,25 +167,39 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (c) First grade eligibles, or their equivalent, and are holders of a Master's Degree in Library and/or Information Science. Provided, that they shall be given three (3) years from the organization of the Board for Librarians within which to register and be included in the roster of professionals.
 
-**Section 19._Issuance of Certification._** – Certificates of registration as librarian shall be issued to an applicant who passed the examination upon payment of the required fees. Every certificate of registration shall show the full name of the registrant and serial number, and shall bear the signatures of the members of the Board for Librarians and the Commissioner of the Professional Regulation Commission, and duly authenticated with the official seal of the Board.
+### Section 19
+
+_Issuance of Certification._ – Certificates of registration as librarian shall be issued to an applicant who passed the examination upon payment of the required fees. Every certificate of registration shall show the full name of the registrant and serial number, and shall bear the signatures of the members of the Board for Librarians and the Commissioner of the Professional Regulation Commission, and duly authenticated with the official seal of the Board.
 
 The issuance of certificate of registration by the Board shall be evidence that the person named therein is entitled to practice librarianship in the Philippines with all the rights and privileges appertaining thereto.
 
-**Section 20._Fees for Examination and Registration._** – Applicants for examination for librarians shall pay an examination fee of Two hundred pesos (200.00). Successful applicants shall pay a registration fee of One hundred fifty pesos (150.00). All such fees shall be paid to the disbursing officer of the Professional Regulation Commission, and such officer shall pay from the receipts thereof all the authorized expenses of the Board, including the compensation of its Chairman and members.
+### Section 20
 
-**Section 21._Revocation and Suspension of Certificates._** – The Board shall have the power after due notice and hearing to revoke or suspend the certificate of registration of a librarian for any of the following causes: conviction by a court of competent jurisdiction of any criminal offense involving moral turpitude, unprofessional or dishonorable conduct, malpractice, incompetence, or serious ignorance or negligence in the practice of librarianship; or for any fund, deceit or falsification in obtaining a certificate of registration.
+_Fees for Examination and Registration._ – Applicants for examination for librarians shall pay an examination fee of Two hundred pesos (200.00). Successful applicants shall pay a registration fee of One hundred fifty pesos (150.00). All such fees shall be paid to the disbursing officer of the Professional Regulation Commission, and such officer shall pay from the receipts thereof all the authorized expenses of the Board, including the compensation of its Chairman and members.
 
-**Section 22._Reissuance of Revoked and Replacement of Lost Certificate._** – The Board may issue for reasons of equity and justice, upon proper application and submission of an affidavit of loss, another copy of the certificate of registration upon payment of the fee prescribed by the Professional Regulation Commission.
+### Section 21
+
+_Revocation and Suspension of Certificates._ – The Board shall have the power after due notice and hearing to revoke or suspend the certificate of registration of a librarian for any of the following causes: conviction by a court of competent jurisdiction of any criminal offense involving moral turpitude, unprofessional or dishonorable conduct, malpractice, incompetence, or serious ignorance or negligence in the practice of librarianship; or for any fund, deceit or falsification in obtaining a certificate of registration.
+
+### Section 22
+
+_Reissuance of Revoked and Replacement of Lost Certificate._ – The Board may issue for reasons of equity and justice, upon proper application and submission of an affidavit of loss, another copy of the certificate of registration upon payment of the fee prescribed by the Professional Regulation Commission.
 
 A new certificate of registration to replace any certificate lost, destroyed, or mutilated may be issued subject to the rules of the Board upon payment of Fifty pesos (P50.00).
 
-**Section 23._Certificate of Reciprocity._** – No foreign librarian shall be admitted to the examination, or be given a certificate of registration, or be entitled to any of the rights and privileges under this Act unless the country or state of which he is a subject or citizen permits Filipino librarians to practice within its territorial limits on the same basis as the subjects or citizens of such foreign country or state: provided, that the requirements for certification of librarians in said foreign state or country are substantially the same as those required and contemplated under this Act: provided, further, that the laws of such state or country grant the same privilege to Filipino librarians on the same basis as the subjects or citizens of such foreign state or country.
+### Section 23
 
-**Section 24._Roster of Librarians._** – A roster of librarians containing the names and addresses of certified librarians, dates of registration or issuance of certificates, and other date which in the opinion of the Board may appear pertinent. Copies of the roster shall also be provided the National Library, the Philippine Librarians Association, Inc. and the Civil Service Commission.
+_Certificate of Reciprocity._ – No foreign librarian shall be admitted to the examination, or be given a certificate of registration, or be entitled to any of the rights and privileges under this Act unless the country or state of which he is a subject or citizen permits Filipino librarians to practice within its territorial limits on the same basis as the subjects or citizens of such foreign country or state: provided, that the requirements for certification of librarians in said foreign state or country are substantially the same as those required and contemplated under this Act: provided, further, that the laws of such state or country grant the same privilege to Filipino librarians on the same basis as the subjects or citizens of such foreign state or country.
+
+### Section 24
+
+_Roster of Librarians._ – A roster of librarians containing the names and addresses of certified librarians, dates of registration or issuance of certificates, and other date which in the opinion of the Board may appear pertinent. Copies of the roster shall also be provided the National Library, the Philippine Librarians Association, Inc. and the Civil Service Commission.
 
 ## ARTICLE IV — PROVISIONS RELATIVE TO THE PRACTICE OF LIBRARIANSHIP
 
-**Section 25._Penal Provisions._** – The following shall be punishable by a fine of not less than Five hundred pesos (P500.00) nor more than Two thousand pesos (P2,000.00) or imprisonment of not less than one (1) month nor more than two (2) years, or both at the discretion of the court:
+### Section 25
+
+_Penal Provisions._ – The following shall be punishable by a fine of not less than Five hundred pesos (P500.00) nor more than Two thousand pesos (P2,000.00) or imprisonment of not less than one (1) month nor more than two (2) years, or both at the discretion of the court:
 
 (a) Any person who practices librarianship in the Philippines without being certified in accordance with the provision of this Act;
 
@@ -165,14 +215,24 @@ A new certificate of registration to replace any certificate lost, destroyed, or
 
 (g) Any person who violates any provisions of this Act.
 
-**Section 26._Appropriation._** – The savings from any item of appropriations of the Professional Regulation Commission shall be utilized for the initial implementation of this Act. Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+### Section 26
 
-**Section 27._Separability Clause._** – If, for any reason, any section or provision of this Act or the application of such section or provision to any person or circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.
+_Appropriation._ – The savings from any item of appropriations of the Professional Regulation Commission shall be utilized for the initial implementation of this Act. Thereafter, such amount as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
 
-**Section 28._Repealing Clause._** – All laws and parts of laws which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+### Section 27
 
-**Section 29._Transitory Provision._** – All incumbent librarians in both the public and private sector not otherwise certified as librarians by virtue of this Act shall be given six (6) years temporary certificates from the time the Board for Librarians is organized within to qualify as required of this Act and be included in the roster of professionals.
+_Separability Clause._ – If, for any reason, any section or provision of this Act or the application of such section or provision to any person or circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.
 
-**Section 30._Effectivity._** – This Act shall take effect upon its approval.
+### Section 28
+
+_Repealing Clause._ – All laws and parts of laws which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+### Section 29
+
+_Transitory Provision._ – All incumbent librarians in both the public and private sector not otherwise certified as librarians by virtue of this Act shall be given six (6) years temporary certificates from the time the Board for Librarians is organized within to qualify as required of this Act and be included in the roster of professionals.
+
+### Section 30
+
+_Effectivity._ – This Act shall take effect upon its approval.
 
 Approved: **September 19, 1990**

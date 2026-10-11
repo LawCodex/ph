@@ -52,7 +52,7 @@ Sections two, four, five, six and ten of Republic Act Numbered Thirty hundred ei
 
 "(k) ‘Mine producing gold as principal product’ refers to a mine where the receipt from whatever source from the sale of gold is more than fifty per cent of the total receipts; and
 
-"(l) ‘Mine producing gold as by-product’ refers to a mine where the receipts from whatever source from the sale of gold is fifty per cent or less of its total receipts.1avvphi1
+"(l) ‘Mine producing gold as by-product’ refers to a mine where the receipts from whatever source from the sale of gold is fifty per cent or less of its total receipts.
 
 "Sec. 4. _Gold producers qualified to receive assistance.—_ To be entitled to the assistance provided in this Act, a gold producer must sell to the Central Bank, and the Central Bank is hereby directed to purchase, its entire production of newly-mined gold, whether produced as principal product or as by-product, at the official price defined in Section 2(h) hereof. Should a gold producer sell his gold violation of this section at any time during a certain year, the entire production for that year shall not be entitled to assistance. Any assistance already given shall be refunded, and the manager or person in-charge of the mining corporation that sells its gold produce or part thereof in violation of this section shall, upon conviction, be punished by a fine of not more than ₱5,000 or an imprisonment of not more than two years or both in the discretion of the court. The Central Bank shall issue a receipt for all gold purchased by it under this Act, which receipt shall show the number of ounces of gold purchased.
 

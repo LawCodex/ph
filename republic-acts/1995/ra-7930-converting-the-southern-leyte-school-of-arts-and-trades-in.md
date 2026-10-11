@@ -128,7 +128,7 @@ Subsequent salary increases shall be approved by the Board of Trustees upon the 
 
 ## Section 16
 
-The Treasurer of the Philippines shall be the ex officio treasurer of the College and all accounts and expenses thereof shall be audited by the Commission on Audit or its duly authorized resident representative.1aшphi1
+The Treasurer of the Philippines shall be the ex officio treasurer of the College and all accounts and expenses thereof shall be audited by the Commission on Audit or its duly authorized resident representative.
 
 ## Section 17
 

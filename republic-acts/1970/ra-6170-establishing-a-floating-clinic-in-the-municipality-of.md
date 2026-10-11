@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Medical Services, a floating clinic in the Municipality of Bacacay in the Province of Albay.1âшphi1
+There shall be established under the direct supervision of the Director of Medical Services, a floating clinic in the Municipality of Bacacay in the Province of Albay.
 
 ## Section 2
 

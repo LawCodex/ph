@@ -29,7 +29,7 @@ August Thirty of every year is hereby declared a special nonworking holiday in t
 
 ## Section 2
 
-This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.1âшphi1
+This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

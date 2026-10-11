@@ -133,7 +133,7 @@ Any person who shall establish and operate a blood bank without securing any lic
 
 The Secretary, after due notice and hearing, may impose administrative sanctions such as, but not limited to fines, suspension, or revocation of license to operate a blood bank/center and to recommend the suspension or revocation of the license to practice the profession when applicable.
 
-The head of the blood bank and the necessary trained personnel under the head's direct supervision found responsible for dispensing, transfusing and failing to dispose, within fortyeight (48) hours, blood which have been proven contaminated with blood transfusion transmissible diseases shall be imprisoned for ten (10) years. This is without prejudice to the filing of criminal charges under the Revised Penal Code.1a⍵⍴h!1
+The head of the blood bank and the necessary trained personnel under the head's direct supervision found responsible for dispensing, transfusing and failing to dispose, within fortyeight (48) hours, blood which have been proven contaminated with blood transfusion transmissible diseases shall be imprisoned for ten (10) years. This is without prejudice to the filing of criminal charges under the Revised Penal Code.
 
 ## Section 13
 

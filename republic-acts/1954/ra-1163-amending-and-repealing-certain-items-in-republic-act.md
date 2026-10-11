@@ -31,7 +31,7 @@ Item 44(z) for the Province of Rizal, paragraph (e), title B, section one of Rep
 
 ## Section 2
 
-Items 2(ag) and 2(ah) for the Province of Rizal, paragraph (a), title H, section one of Republic Act Numbered Nine hundred twenty, are repealed.1âшphi1
+Items 2(ag) and 2(ah) for the Province of Rizal, paragraph (a), title H, section one of Republic Act Numbered Nine hundred twenty, are repealed.
 
 ## Section 3
 

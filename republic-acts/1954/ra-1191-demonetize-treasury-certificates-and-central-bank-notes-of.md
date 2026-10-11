@@ -30,11 +30,11 @@ Any provisions of law, rules and regulations to the contrary notwithstanding, th
 
 ## Section 2
 
-To carry out the purposes of this Act, the owners or holders of Treasury certificates and Central Bank notes, either individual persons, associations, corporations, or institutions, of the denominations of over one hundred pesos, are required to surrender them to the Central Bank of the Philippines within six months from the approval of this Act, and in exchange to receive from the Bank their equivalent amount in money in Treasury Certificates or Central Bank notes of smaller denominations.1âшphi1
+To carry out the purposes of this Act, the owners or holders of Treasury certificates and Central Bank notes, either individual persons, associations, corporations, or institutions, of the denominations of over one hundred pesos, are required to surrender them to the Central Bank of the Philippines within six months from the approval of this Act, and in exchange to receive from the Bank their equivalent amount in money in Treasury Certificates or Central Bank notes of smaller denominations.
 
 ## Section 3
 
-The Central Bank, through its monetary Board, shall promulgate the necessary rules and regulations to effect and facilitate the surrendering and replacing of said Treasury certificates and Central Bank notes to be demonetized, under the provisions of this Act. There shall be no question asked from the owners or holders as to the origin of said treasury certificates and bank notes and as to whether taxes were collected on them or not in the preceding years. Said paper money shall, in case where the owners or holders failed to include them in their corresponding tax returns, be included in their income tax returns and in other forms of taxes corresponding to the calendar year nineteen hundred and fifty-three without incurring any penalty.1âшphi1
+The Central Bank, through its monetary Board, shall promulgate the necessary rules and regulations to effect and facilitate the surrendering and replacing of said Treasury certificates and Central Bank notes to be demonetized, under the provisions of this Act. There shall be no question asked from the owners or holders as to the origin of said treasury certificates and bank notes and as to whether taxes were collected on them or not in the preceding years. Said paper money shall, in case where the owners or holders failed to include them in their corresponding tax returns, be included in their income tax returns and in other forms of taxes corresponding to the calendar year nineteen hundred and fifty-three without incurring any penalty.
 
 ## Section 4
 

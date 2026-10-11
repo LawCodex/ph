@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in Barangay Balawag, Municipality of Tabuk, Province of Kalinga to be known as the Balawag National High School.ℒαwρhi৷
+There shall be established a national high school in Barangay Balawag, Municipality of Tabuk, Province of Kalinga to be known as the Balawag National High School.
 
 ## Section 2
 

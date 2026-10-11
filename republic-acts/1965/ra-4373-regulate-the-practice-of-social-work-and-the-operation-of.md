@@ -75,7 +75,7 @@ _Term of Office.—_ The members of the Board shall hold office for a term of th
 
 ### Section 5
 
-_Executive Officer and Secretary of the Board.—_ The Commissioner of Civil Service shall be the Executive Officer of the Board and he shall conduct the examinations given by it according to the rules and regulations promulgated by the Board and approved by the President of the Philippines.1âшphi1 The members shall elect a Secretary among them, who shall take charge of the records. All the records of the Board, including examination papers, minutes of deliberations, and records of administrative proceedings and investigations shall be kept by the Civil Service Commission.
+_Executive Officer and Secretary of the Board.—_ The Commissioner of Civil Service shall be the Executive Officer of the Board and he shall conduct the examinations given by it according to the rules and regulations promulgated by the Board and approved by the President of the Philippines. The members shall elect a Secretary among them, who shall take charge of the records. All the records of the Board, including examination papers, minutes of deliberations, and records of administrative proceedings and investigations shall be kept by the Civil Service Commission.
 
 ### Section 6
 

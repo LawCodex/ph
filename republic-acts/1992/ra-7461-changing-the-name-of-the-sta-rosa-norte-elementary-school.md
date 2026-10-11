@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Sta. Rosa Norte Elementary School in Barangay Sta. Rosa Norte, Municipality of Jose Panganiban, Province of Camarines Norte, is hereby changed to Segundo Aguirre Elementary School.1âшphi1
+The name of the Sta. Rosa Norte Elementary School in Barangay Sta. Rosa Norte, Municipality of Jose Panganiban, Province of Camarines Norte, is hereby changed to Segundo Aguirre Elementary School.
 
 ## Section 2
 

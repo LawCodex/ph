@@ -93,7 +93,7 @@ The subordinate personnel under the direct supervision of the Department Financi
 
 ## Section 3
 
-The administrative head of the Department of Justice Library, which shall remain under the direction and supervision of the Chief Legal Counsel, shall be known as the Department Librarian and shall receive an annual salary of nine thousand six hundred pesos.1avvphi1 The library personnel and their annual salaries shall be as follows:
+The administrative head of the Department of Justice Library, which shall remain under the direction and supervision of the Chief Legal Counsel, shall be known as the Department Librarian and shall receive an annual salary of nine thousand six hundred pesos. The library personnel and their annual salaries shall be as follows:
 
 (a) One supervising legal researcher at eight thousand four hundred pesos;
 

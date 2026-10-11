@@ -39,7 +39,7 @@ Beginning at a point marked "1" on plan which is identified as MBM No. 7 cad. 28
 
 ## Section 3
 
-The seat of government of the new municipality shall be in Tibi-tibi, Barangay Sto. Nino, as aforementioned.1âшphi1
+The seat of government of the new municipality shall be in Tibi-tibi, Barangay Sto. Nino, as aforementioned.
 
 ## Section 4
 

@@ -29,7 +29,7 @@ The title of this Act shall be "Internal Auditing Act of 1962."
 
 ## Section 2
 
-There shall be created, organized and operated in all departments, bureaus and offices of the National Government, internal audit services which shall assist management to achieve an efficient and effective fiscal administration and performance of agency affairs and functions.1âшphi1
+There shall be created, organized and operated in all departments, bureaus and offices of the National Government, internal audit services which shall assist management to achieve an efficient and effective fiscal administration and performance of agency affairs and functions.
 
 ## Section 3
 
@@ -37,7 +37,7 @@ The Internal Audit Service shall be under the direct administrative supervision 
 
 ## Section 4
 
-The Auditor General shall be responsible for the promulgation and enforcement of general policies, rules and regulations on internal auditing. He shall coordinate and schedule the gradual installation of internal audit services in all departments, bureaus and offices in the National Government, and shall develop for execution, working plans and training programs to maintain continuously the effectiveness of these internal audit services.1awp++i1 The Internal Auditing Coordinating Staff of the General Auditing Office shall assist the Auditor General in the discharge of these responsibilities.
+The Auditor General shall be responsible for the promulgation and enforcement of general policies, rules and regulations on internal auditing. He shall coordinate and schedule the gradual installation of internal audit services in all departments, bureaus and offices in the National Government, and shall develop for execution, working plans and training programs to maintain continuously the effectiveness of these internal audit services. The Internal Auditing Coordinating Staff of the General Auditing Office shall assist the Auditor General in the discharge of these responsibilities.
 
 ## Section 5
 

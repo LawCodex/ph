@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-September 21 of every year is hereby declared a special working holiday in the City of Cebu and the entire Province of Cebu, including its highly urbanized and component cities, to be known as "Cebu Press Freedom Day".1âwphi1
+September 21 of every year is hereby declared a special working holiday in the City of Cebu and the entire Province of Cebu, including its highly urbanized and component cities, to be known as "Cebu Press Freedom Day".
 
 ## Section 2
 

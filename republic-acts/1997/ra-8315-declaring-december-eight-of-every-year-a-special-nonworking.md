@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-December eight of every year is hereby declared a special nonworking holiday in Angeles City in commemoration of its foundation day.1aшphi1
+December eight of every year is hereby declared a special nonworking holiday in Angeles City in commemoration of its foundation day.
 
 ## Section 2
 

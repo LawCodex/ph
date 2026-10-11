@@ -48,7 +48,7 @@ The ceramic processing plant shall have a chief who shall be known as the Chief 
 
 ## Section 4
 
-Persons desiring to be trained in ceramics at the Ceramics Unit of the Industrial Research Center, National Institute of Science and Technology, shall apply to the head of the Ceramic Processing Plant and upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not exceeding three months and transportation expenses from and to their province. The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.1âшphi1
+Persons desiring to be trained in ceramics at the Ceramics Unit of the Industrial Research Center, National Institute of Science and Technology, shall apply to the head of the Ceramic Processing Plant and upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not exceeding three months and transportation expenses from and to their province. The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.
 
 ## Section 5
 

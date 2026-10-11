@@ -28,6 +28,6 @@ Hereafter, Barrio Tiguis shall Toe known as Barrio Martinez; Barrio Cagcagan as 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

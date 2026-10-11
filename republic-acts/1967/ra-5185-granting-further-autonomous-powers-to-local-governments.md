@@ -105,7 +105,7 @@ _Filling of Elective Offices in Newly Classified Provinces, Cities, Municipaliti
 
 ## Section 11
 
-Actions of Provincial, Municipal and City Officials or Provincial Boards Declared Immediately Effective.1awphil@alf
+Actions of Provincial, Municipal and City Officials or Provincial Boards Declared Immediately Effective.
 
 I. The following actions of provincial officials or boards and councils, as provided for in the pertinent sections of the Revised Administrative Code shall take effect without the need of approval or direction from any official of the national government:
 

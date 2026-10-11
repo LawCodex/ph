@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Section nine of Republic Act Numbered Three hundred and forty is hereby amended by adding paragraph (e) which shall read as follows:
 
-"(e) Service rendered by him as civilian official or employee in the Government: _Provided,_ That he has rendered at least ten years of active service in the Armed Forces of the Philippines: _Provided,_ further, That if the period of his service as such civilian official or employee is longer than the period his military service, his service as civilian official or employee shall be credited only as equal to his military service."1a⍵⍴h!1
+"(e) Service rendered by him as civilian official or employee in the Government: _Provided,_ That he has rendered at least ten years of active service in the Armed Forces of the Philippines: _Provided,_ further, That if the period of his service as such civilian official or employee is longer than the period his military service, his service as civilian official or employee shall be credited only as equal to his military service."
 
 ## Section 2
 

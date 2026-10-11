@@ -38,7 +38,7 @@ _Transfer of Assets and Liabilities._ \- All personnel, assets, liabilities and 
 
 ## Section 3
 
-_Appropriations_ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Mayaon National High School, the initial funding of which shall be charged against the current year's appropriations of the Montevista National High School- Mayaon Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.1awphil
+_Appropriations_ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Mayaon National High School, the initial funding of which shall be charged against the current year's appropriations of the Montevista National High School- Mayaon Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

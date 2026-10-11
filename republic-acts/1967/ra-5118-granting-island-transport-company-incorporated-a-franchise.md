@@ -61,7 +61,7 @@ Whenever in this franchise the term "grantee" is used, it shall be held and unde
 
 ## Section 10
 
-This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean an exclusive grant of the privilege herein provided.1avvphi1
+This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted to mean an exclusive grant of the privilege herein provided.
 
 ## Section 11
 

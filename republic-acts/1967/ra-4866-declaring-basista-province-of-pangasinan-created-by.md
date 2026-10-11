@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The town of Basista, Province of Pangasinan, created by Executive Order Numbered Four hundred forty-six dated September five, nineteen hundred sixty-one, is hereby declared a duly constituted municipality as of the date it was created by said executive order.
 
-All elective officials of said town shall continue to hold office until their successors are elected and shall have qualified.1avvphi1
+All elective officials of said town shall continue to hold office until their successors are elected and shall have qualified.
 
 ## Section 2
 

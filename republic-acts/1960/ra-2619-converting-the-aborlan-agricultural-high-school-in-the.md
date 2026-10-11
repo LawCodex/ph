@@ -28,7 +28,7 @@ The Aborlan Agricultural High School in the Municipality of Aborlan, Province of
 
 ## Section 2
 
-The sum of one hundred thousand pesos in addition to what the school is now receiving from the National Government is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school during the fiscal year nineteen hundred and sixty-one. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos in addition to what the school is now receiving from the National Government is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school during the fiscal year nineteen hundred and sixty-one. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

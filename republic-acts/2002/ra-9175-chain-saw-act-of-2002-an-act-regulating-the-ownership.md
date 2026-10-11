@@ -32,7 +32,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 _Title._ \- This Act shall be known as the "Chain Saw Act of 2002".
 
-**Section 2.__** Declaration Policy. – It is the policy of the State consistent with the Constitution, to conserve, develop and protect the forest resources under sustainable management. Toward this end, the State shall pursue an aggressive forest protection program geared towards eliminating illegal logging and other forms of forest destruction which are being facilitated with the use of chain saws. The State shall therefore regulate the ownership, possession, sale, transfer, importation and/or use of chain saws to prevent them from being used in illegal logging or unauthorized clearing of forests.
+## Section 2
+
+** Declaration Policy. – It is the policy of the State consistent with the Constitution, to conserve, develop and protect the forest resources under sustainable management. Toward this end, the State shall pursue an aggressive forest protection program geared towards eliminating illegal logging and other forms of forest destruction which are being facilitated with the use of chain saws. The State shall therefore regulate the ownership, possession, sale, transfer, importation and/or use of chain saws to prevent them from being used in illegal logging or unauthorized clearing of forests.
 
 ## Section 3
 

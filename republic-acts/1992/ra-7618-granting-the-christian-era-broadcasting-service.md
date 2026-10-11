@@ -81,7 +81,7 @@ _Repealability and Non-exclusivity Clause._ – This franchise shall be subject 
 
 ## Section 14
 
-_General Broadcast Policy._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law that may hereafter be enacted.1âшphi1
+_General Broadcast Policy._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law that may hereafter be enacted.
 
 ## Section 15
 

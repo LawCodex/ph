@@ -44,7 +44,7 @@ Subparagraph (rr) of Section sixteen of the same Act is hereby repealed.
 
 Section twenty of the same Act is also amended to read as follows:
 
-"**Section 20.** _Appointment and removal of officials and employees_.-The President of the Philippines, with the consent of the Commission on Appointments, shall appoint the city judges and the auxiliary judges of the city; the city treasurer, the city engineer, the city fiscal and his assistants, the city health officer, and the city superintendent of schools. Said officers shall not be suspended nor removed except in the manner and for causes provided by law. Subject to the provisions of the Civil Service Law, the mayor, from a list of nominees recommended by the department head or chief of office concerned, shall appoint all other officers and employees paid out of city funds and they shall not be suspended or removed except in accordance with law."1âшphi1
+"**Section 20.** _Appointment and removal of officials and employees_.-The President of the Philippines, with the consent of the Commission on Appointments, shall appoint the city judges and the auxiliary judges of the city; the city treasurer, the city engineer, the city fiscal and his assistants, the city health officer, and the city superintendent of schools. Said officers shall not be suspended nor removed except in the manner and for causes provided by law. Subject to the provisions of the Civil Service Law, the mayor, from a list of nominees recommended by the department head or chief of office concerned, shall appoint all other officers and employees paid out of city funds and they shall not be suspended or removed except in accordance with law."
 
 ## Section 5
 

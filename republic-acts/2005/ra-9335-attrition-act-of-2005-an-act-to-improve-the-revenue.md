@@ -28,13 +28,21 @@ AN ACT TO IMPROVE THE REVENUE COLLECTION PERFORMANCE OF THE BUREAU OF INTERNAL R
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Short Title._** – This Act shall be known as the "**Attrition Act of 2005** ".
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is the policy of the State to optimize the revenue-generation capability and collection of the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) by providing for a system of rewards and sanctions through the creation of a Rewards and Incentives Fund and a Revenue Performance Evaluation Board in the above agencies for the purpose of encouraging their officials and employees to exceed their revenue targets.
+_Short Title._ – This Act shall be known as the "**Attrition Act of 2005** ".
 
-**Section 3._Coverage._** – The system of rewards, incentives and sanctions provided in this Act shall cover all officials and employees of the BIR and the BOC, regardless of employment status, with at least six months of service.
+## Section 2
 
-**Section 4._Rewards and Incentives Fund._** – A rewards and Incentives Fund, hereinafter referred to as the Fund, is hereby created, to be sourced from the collection of the BIR and the BOC in excess of their respective revenue targets of the year, as determined by the Development Budget and Coordinating Committee (DBCC), in the following percentages:
+_Declaration of Policy._ – It is the policy of the State to optimize the revenue-generation capability and collection of the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) by providing for a system of rewards and sanctions through the creation of a Rewards and Incentives Fund and a Revenue Performance Evaluation Board in the above agencies for the purpose of encouraging their officials and employees to exceed their revenue targets.
+
+## Section 3
+
+_Coverage._ – The system of rewards, incentives and sanctions provided in this Act shall cover all officials and employees of the BIR and the BOC, regardless of employment status, with at least six months of service.
+
+## Section 4
+
+_Rewards and Incentives Fund._ – A rewards and Incentives Fund, hereinafter referred to as the Fund, is hereby created, to be sourced from the collection of the BIR and the BOC in excess of their respective revenue targets of the year, as determined by the Development Budget and Coordinating Committee (DBCC), in the following percentages:
 
 | Excess of Collection of the Excess the Revenue Targets | Percent (%) of the Excess Collection to Accrue to the Fund |
 |---|---|
@@ -49,15 +57,21 @@ Any incentive under this Section shall be apportioned among the various units, o
 
 The fund shall be allocated, distributed or released by the Revenue Performance Evaluation Board in each agency, hereinafter created in Section 6 of this Act, in accordance with the rules and regulations issued by the same.
 
-**Section 5._Incentives to District Collection Offices._** – In the event that the BIR or the BOC fails to meet its revenue target by less than ten (10%), the revenue districts, in the case of the BIR, or the collection districts, in the case of the BOC, which exceed their respective allocations of the revenue target (allocated target), shall be entitled to rewards and incentives (district incentive) amounting to ten percent (10%) of the excess over its allocated target: _Provided, however,_ That the BIR revenue district or BOC collection office which deliberately foregoes any revenue collection in a given year as part of a scheme to avoid a higher allocated target for the subsequent year notwithstanding its having exceeded its allocated target: _Provided, further,_ That the allocated target of any such district shall have been reported to and validated by the DBCC as required in the immediately preceding section.
+## Section 5
+
+_Incentives to District Collection Offices._ – In the event that the BIR or the BOC fails to meet its revenue target by less than ten (10%), the revenue districts, in the case of the BIR, or the collection districts, in the case of the BOC, which exceed their respective allocations of the revenue target (allocated target), shall be entitled to rewards and incentives (district incentive) amounting to ten percent (10%) of the excess over its allocated target: _Provided, however,_ That the BIR revenue district or BOC collection office which deliberately foregoes any revenue collection in a given year as part of a scheme to avoid a higher allocated target for the subsequent year notwithstanding its having exceeded its allocated target: _Provided, further,_ That the allocated target of any such district shall have been reported to and validated by the DBCC as required in the immediately preceding section.
 
 The district reward shall be deemed automatically appropriated the year immediately following the year when the revenue collection target was exceeded and shall be released in the same fiscal year.
 
 The allocation, distribution and release of the district reward shall likewise be prescribed by the rules and regulations of the Revenue Performance Evaluation Board.
 
-**Section 6._Revenue Performance Evaluation Board._** – There is hereby created a Revenue Performance Evaluation Board in the BIR and the BOC, hereinafter referred to as the Board, each of which shall be composed of the Secretary of the Department of finance (DOF) or his/her Undersecretary as the Chairman; the Secretary of the Department of Budget and Management (DBM) or his/her Undersecretary; the Director General of the National Economic and Development Authority (NEDA) or his/her Deputy Director General; and as nonvoting members, the Commissioners of the BIR and the BOC, or their Deputy Commissioners; two representatives from the rank-and-file employees; and a representative from the officials, both of whom shall be duly nominated by their respective recognized organization.
+## Section 6
 
-**Section 7._Powers and Functions of the Board._** – the Board in the agency shall have the following powers and functions:
+_Revenue Performance Evaluation Board._ – There is hereby created a Revenue Performance Evaluation Board in the BIR and the BOC, hereinafter referred to as the Board, each of which shall be composed of the Secretary of the Department of finance (DOF) or his/her Undersecretary as the Chairman; the Secretary of the Department of Budget and Management (DBM) or his/her Undersecretary; the Director General of the National Economic and Development Authority (NEDA) or his/her Deputy Director General; and as nonvoting members, the Commissioners of the BIR and the BOC, or their Deputy Commissioners; two representatives from the rank-and-file employees; and a representative from the officials, both of whom shall be duly nominated by their respective recognized organization.
+
+## Section 7
+
+_Powers and Functions of the Board._ – the Board in the agency shall have the following powers and functions:
 
 (a) To prescribe the rules and guidelines for the allocation, distribution and release of the fund due to the agency as provided for in Sections 4 and 5 of this Act: _Provided_ , that the rewards under this Act may also take the form of nonmonetary benefits;
 
@@ -75,27 +89,43 @@ The allocation, distribution and release of the district reward shall likewise b
 
 (f) To submit as annual report to the Congress.
 
-**Section 8._Liability of Officials, Examiners and Employees of the BIR and the BOC._** – The officials, examiners, and employees of the Bureau of Internal Revenue and the Bureau of Customs who violate this Act or who are guilty of negligence, abuses or acts of malfeasance or misfeasance or fail to exercise extraordinary diligence in the performance of their duties shall be held liable for any loss or injury suffered by any business establishment or taxpayer as a result of such violation, negligence, abuse, malfeasance, misfeasance or failure to exercise extraordinary diligence.
+## Section 8
 
-**Section 9._Right to Appeal._** – An official or employee whose employment is terminated by virtue of the decision of the board may appeal to the Civil Service Commission (CSC) or the Office
+_Liability of Officials, Examiners and Employees of the BIR and the BOC._ – The officials, examiners, and employees of the Bureau of Internal Revenue and the Bureau of Customs who violate this Act or who are guilty of negligence, abuses or acts of malfeasance or misfeasance or fail to exercise extraordinary diligence in the performance of their duties shall be held liable for any loss or injury suffered by any business establishment or taxpayer as a result of such violation, negligence, abuse, malfeasance, misfeasance or failure to exercise extraordinary diligence.
+
+## Section 9
+
+_Right to Appeal._ – An official or employee whose employment is terminated by virtue of the decision of the board may appeal to the Civil Service Commission (CSC) or the Office
 
 of the President (OP), whichever is applicable, in accordance with pertinent laws, rules and regulations.
 
-**Section 10._Performance Report._** – The Commissioner of the BIR and the BOC shall regularly file a report with the Board stating therein the status of collection in their respective agencies, and in the event of a shortfall or surplus, the source of the shortfall or surplus, the personnel-in-charge of the unit, his/her explanation for the shortfall or surplus and his/her recommendation as to remedial course of action in cases of shortfall, and in the case of the year-end report the names of officers and employees who are recommended for termination or reward.
+## Section 10
+
+_Performance Report._ – The Commissioner of the BIR and the BOC shall regularly file a report with the Board stating therein the status of collection in their respective agencies, and in the event of a shortfall or surplus, the source of the shortfall or surplus, the personnel-in-charge of the unit, his/her explanation for the shortfall or surplus and his/her recommendation as to remedial course of action in cases of shortfall, and in the case of the year-end report the names of officers and employees who are recommended for termination or reward.
 
 The report shall be submitted semi-annually with the last to be annualized. A copy of the report shall be submitted to Congress within two months after the period ends.
 
 In the event of a shortfall in the national target, a separate report shall be submitted by the voting members of the Board to the Office of the President containing its evaluation of the performance of the Commissioner concerned on the basis of which the President may pursue a course of action consistent with the national interest. Said reports shall likewise be furnished to Congress.
 
-**Section 11._Rules and Regulations._** – The DOF, DBM, NEDA, BIR, BOC and CSC, shall jointly issue the rules and regulations of this Act within thirty (30) days after its effectivity.
+## Section 11
 
-**Section 12._Joint Congressional Oversight Committee._** – There is hereby created a Joint Congressional Oversight Committee composed of seven Members from the Senate and seven Members from the House of Representatives. The Members from the Senate shall be appointed by the Senate President, with at least two senators representing the minority. The Members from the House of Representatives shall be appointed by the Speaker with at least two members representing the minority. After the Oversight Committee will have approved the implementing rules and regulations (IRR) it shall thereafter become functus officio and therefore cease to exist.
+_Rules and Regulations._ – The DOF, DBM, NEDA, BIR, BOC and CSC, shall jointly issue the rules and regulations of this Act within thirty (30) days after its effectivity.
 
-**Section 13._Separability Clause._** – If any provision of this Act is declared invalid by a competent court, the remainder of this Act any provision not affected by such declaration of invalidity shall remain in force and effect.
+## Section 12
 
-**Section 14._Repealing Clause._** – All laws, presidential decrees, executive orders, other executive issuances, rules and regulations or parts thereof, including the provisions of Section 285 of Republic Act. No. 8424, which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+_Joint Congressional Oversight Committee._ – There is hereby created a Joint Congressional Oversight Committee composed of seven Members from the Senate and seven Members from the House of Representatives. The Members from the Senate shall be appointed by the Senate President, with at least two senators representing the minority. The Members from the House of Representatives shall be appointed by the Speaker with at least two members representing the minority. After the Oversight Committee will have approved the implementing rules and regulations (IRR) it shall thereafter become functus officio and therefore cease to exist.
 
-**Section 15._Effectivity._** – This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.
+## Section 13
+
+_Separability Clause._ – If any provision of this Act is declared invalid by a competent court, the remainder of this Act any provision not affected by such declaration of invalidity shall remain in force and effect.
+
+## Section 14
+
+_Repealing Clause._ – All laws, presidential decrees, executive orders, other executive issuances, rules and regulations or parts thereof, including the provisions of Section 285 of Republic Act. No. 8424, which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 15
+
+_Effectivity._ – This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.
 
 Approved,
 

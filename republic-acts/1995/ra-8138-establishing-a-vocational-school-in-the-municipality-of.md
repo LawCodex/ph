@@ -32,7 +32,7 @@ There shall be established a vocational school in the Municipality of Concepcion
 
 ## Section 2
 
-The school curriculum shall give emphasis on agriculture, vocational and technical training, science and technology education.1aшphi1
+The school curriculum shall give emphasis on agriculture, vocational and technical training, science and technology education.
 
 ## Section 3
 

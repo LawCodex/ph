@@ -29,7 +29,7 @@ The sitios and barrios of Aranguel, Culilang Pandan, Pinamihagan, Cadoulan, Quia
 
 ## Section 2
 
-One-half of the unpaid balance of the loan contracted by the municipality of Pilar for its waterworks, from the National Government shall be assume municipality of President Roxas.ℒαwρhi৷
+One-half of the unpaid balance of the loan contracted by the municipality of Pilar for its waterworks, from the National Government shall be assume municipality of President Roxas.
 
 ## Section 3
 

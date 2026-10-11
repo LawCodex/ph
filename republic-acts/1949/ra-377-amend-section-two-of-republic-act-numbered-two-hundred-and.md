@@ -33,6 +33,6 @@ Section two of Republic Act Numbered Two hundred and eighty-six is amended to re
 
 ## Section 2
 
-This Act shall take effect upon its approval.(awÞhi(
+This Act shall take effect upon its approval.
 
 Approved, June 14, 1949.

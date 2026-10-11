@@ -32,7 +32,7 @@ _Collection Districts and Ports of Entry thereof._ -For administrative purposes 
 
 ## Section 2
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the customs service at the Port of Puerto Princesa.1âшphi1
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the customs service at the Port of Puerto Princesa.
 
 ## Section 3
 

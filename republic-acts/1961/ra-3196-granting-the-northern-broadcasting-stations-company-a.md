@@ -52,13 +52,13 @@ The franchise hereby granted shall be subject to amendment, alteration, or repea
 
 ## Section 8
 
-The grantee shall be liable to pay the same taxes on its real state, buildings and personal property, exclusive of the franchise, as other persons, natural or juridical, are now or hereafter may be required by law to pay.1avvphi1
+The grantee shall be liable to pay the same taxes on its real state, buildings and personal property, exclusive of the franchise, as other persons, natural or juridical, are now or hereafter may be required by law to pay.
 
 The grantee shall further be liable to pay all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
 
 ## Section 9
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 10
 

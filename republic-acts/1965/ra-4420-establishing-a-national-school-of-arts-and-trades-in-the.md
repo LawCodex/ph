@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-A national school of arts and trades patterned after the former Philippine School of Arts and Trades (now Philippine College of Arts and Trades) is established in the Municipality of Calabanga, Province of Camarines Sur.1âшphi1 The school shall be under the supervision and control of the Department of Education and subject to the provisions of the School Law. Courses of secondary level shall be offered therein.
+A national school of arts and trades patterned after the former Philippine School of Arts and Trades (now Philippine College of Arts and Trades) is established in the Municipality of Calabanga, Province of Camarines Sur. The school shall be under the supervision and control of the Department of Education and subject to the provisions of the School Law. Courses of secondary level shall be offered therein.
 
 ## Section 2
 

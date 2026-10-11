@@ -131,7 +131,7 @@ _Separability Clause._ \- If any part or provision of this Act is declared inval
 
 ## Section 11
 
-_Repealing Clause._ All laws, decrees, orders, issuances, rules, and regulations or parts thereof that are inconsistent with this Act are hereby repealed or modified accordingly.ℒαwρhi৷
+_Repealing Clause._ All laws, decrees, orders, issuances, rules, and regulations or parts thereof that are inconsistent with this Act are hereby repealed or modified accordingly.
 
 ## Section 12
 

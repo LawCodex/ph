@@ -46,7 +46,7 @@ _Objectives._ \- This Act has the following objectives:
 
 (c) To facilitate access to quality TVET; and
 
-(d) To encourage the participation of industry and communities in competencies formation and upgrading towards a more competitive Filipino workforce.1âwphi1
+(d) To encourage the participation of industry and communities in competencies formation and upgrading towards a more competitive Filipino workforce.
 
 ### Section 4
 
@@ -124,7 +124,7 @@ STPs may be school-based, center-based, community-based, enterprise-based or web
 
 (d) The Human Resource Development Roadmaps; and
 
-(e) Other quantitative and qualitative studies to be determined necessary by the TEDSA Board in its selection of STPs.1âwphi1
+(e) Other quantitative and qualitative studies to be determined necessary by the TEDSA Board in its selection of STPs.
 
 _Provided,_ That the TESDA Board may, in its discretion, adopt additional bases to achieve the objectives of this Act.
 

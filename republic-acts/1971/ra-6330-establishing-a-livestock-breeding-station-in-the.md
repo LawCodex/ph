@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established under the direct supervision of the Director of Animal Industry, a livestock breeding station in the Municipality of Pozorrubio, Province of Pangasinan, which shall have under its jurisdiction the Municipalities of Binalonan, Manaoag, Pozorrubio, Sison, and San Manuel, Province of Pangasinan, and the Municipality of Rosario, in the Province of La Union.1âшphi1
+There shall be established under the direct supervision of the Director of Animal Industry, a livestock breeding station in the Municipality of Pozorrubio, Province of Pangasinan, which shall have under its jurisdiction the Municipalities of Binalonan, Manaoag, Pozorrubio, Sison, and San Manuel, Province of Pangasinan, and the Municipality of Rosario, in the Province of La Union.
 
 ## Section 2
 

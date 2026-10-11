@@ -42,7 +42,7 @@ There shall be established a Local Advisory Council that shall provide policy di
 
 ## Section 4
 
-The Center shall disperse fry and finger lings in public bodies of water in such intervals as may be recommended by the Local Advisory Council.1âшphi1 It may also sell such fry and fingerlings to individual or organized fish farmers at prevailing market prices.
+The Center shall disperse fry and finger lings in public bodies of water in such intervals as may be recommended by the Local Advisory Council. It may also sell such fry and fingerlings to individual or organized fish farmers at prevailing market prices.
 
 ## Section 5
 

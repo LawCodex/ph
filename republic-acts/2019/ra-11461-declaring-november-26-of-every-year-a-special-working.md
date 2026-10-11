@@ -34,7 +34,7 @@ November 26 of every year is hereby declared a special working holiday in the Ci
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.1âшphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

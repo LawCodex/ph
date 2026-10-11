@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Kalinga National High School-Ambato Tinglayan Annex in Barangay Ambato-Legleg, Municipality of Tinglayan, Province of Kalinga is hereby separated from the Kalinga National High School and converted into an independent national high school to be known as Tinglayan National High School.1âwphi1
+The Kalinga National High School-Ambato Tinglayan Annex in Barangay Ambato-Legleg, Municipality of Tinglayan, Province of Kalinga is hereby separated from the Kalinga National High School and converted into an independent national high school to be known as Tinglayan National High School.
 
 ## Section 2
 

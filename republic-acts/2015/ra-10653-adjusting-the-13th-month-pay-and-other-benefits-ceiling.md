@@ -55,7 +55,7 @@ _Implementing Rules and Regulations._ — The Secretary of Finance shall promulg
 
 ## Section 3
 
-_Repealing Clause._ — All laws, orders, issuances, circulars, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.1âwphi1
+_Repealing Clause._ — All laws, orders, issuances, circulars, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## Section 4
 

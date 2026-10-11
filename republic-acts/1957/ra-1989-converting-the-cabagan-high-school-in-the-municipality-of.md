@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Cabagan High School in the Municipality of Cabagan, Province of Isabela, is hereby converted into a national agricultural high school to be known as the Cabagan National Agricultural School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in said school.1âшphi1
+The Cabagan High School in the Municipality of Cabagan, Province of Isabela, is hereby converted into a national agricultural high school to be known as the Cabagan National Agricultural School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in said school.
 
 ## Section 2
 

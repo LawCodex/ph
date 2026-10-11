@@ -29,7 +29,7 @@ There shall be established and maintained, under the supervision of the Commissi
 
 ## Section 2
 
-The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act, during the fiscal year ending June thirtieth, nineteen hundred and sixty-five.1âшphi1 Thereafter, the amount of sixty thousand pesos to defray expenses for the operation and maintenance of the project shall be included in the General Appropriations Act of each year.
+The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act, during the fiscal year ending June thirtieth, nineteen hundred and sixty-five. Thereafter, the amount of sixty thousand pesos to defray expenses for the operation and maintenance of the project shall be included in the General Appropriations Act of each year.
 
 ## Section 3
 

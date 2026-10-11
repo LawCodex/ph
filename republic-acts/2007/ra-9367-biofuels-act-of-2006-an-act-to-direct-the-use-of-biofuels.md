@@ -28,9 +28,13 @@ AN ACT TO DIRECT THE USE OF BIOFUELS, ESTABLISHING FOR THIS PURPOSE THE BIOFUEL 
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**SECTION 1._Short Title_** \- This act shall be known as the "**_Biofuels Act of 2006_** ".
+## SECTION 1
 
-**SEC. 2._Declaration Policy_** \- It is hereby declared the policy of the State to reduce dependence on imported fuels with due regard to the protection of public health, the environment, and the natural ecosystems consistent with the country's sustainable economic growth that would expand opportunities for livelihood by mandating the use of biofuels as a measure to:
+_Short Title_ \- This act shall be known as the "**_Biofuels Act of 2006_** ".
+
+## SEC. 2
+
+_Declaration Policy_ \- It is hereby declared the policy of the State to reduce dependence on imported fuels with due regard to the protection of public health, the environment, and the natural ecosystems consistent with the country's sustainable economic growth that would expand opportunities for livelihood by mandating the use of biofuels as a measure to:
 
 a) Develop and utilize indigenous renewable and sustainable-sources clean energy sources to reduce dependence on imported oil.
 
@@ -40,7 +44,9 @@ c) increase rural employment and income; and
 
 d) Ensure the availability of alternative and renewable clean energy without any detriment to the natural ecosystem, biodiversity and food reserves of the country.
 
-**SEC. 3._Definition of terms_** \- As used in this act, the following term shall be taken to means as follows:
+## SEC. 3
+
+_Definition of terms_ \- As used in this act, the following term shall be taken to means as follows:
 
 a) _AFTA_ \- shall refer to the ASIAN free trade agreement initiated by the Association of South East Asian Nation;
 
@@ -94,9 +100,13 @@ y) _Renewable Energy Sources_ \- shall refer to energy sources that do not have 
 
 z) _WTO_ \- shall refer to the World Trade Organization.
 
-**SEC. 4._Phasing Out of the Use of Harmful Gasoline Additives and/or Oxygenates._** – Within six months from affectivity of this Act, the DOE, according to duly accepted international standards, shall gradually phase out the use of harmful gasoline additives such as, but not limited to MTBE
+## SEC. 4
 
-**SEC. 5._Mandatory Use of Biofuels._** – Pursuant to the above policy, it is hereby mandated that all liquid fuels for motors and engines sold in the Philippines shall contain locally-sourced biofuels components as follows:
+_Phasing Out of the Use of Harmful Gasoline Additives and/or Oxygenates._ – Within six months from affectivity of this Act, the DOE, according to duly accepted international standards, shall gradually phase out the use of harmful gasoline additives such as, but not limited to MTBE
+
+## SEC. 5
+
+_Mandatory Use of Biofuels._ – Pursuant to the above policy, it is hereby mandated that all liquid fuels for motors and engines sold in the Philippines shall contain locally-sourced biofuels components as follows:
 
 5.1 Within two years from the effectivity of this Act, at least five percent (5%) bioethanol shall comprise the annual total volume of gasoline fuel actually sold and distributed by each and every oil company in the country; subject to requirement that all bioethanol blended gasoline shall contain a minimum of five percent (5%) bioethanol fuel by volume _Provided_ , that ethanol blend conforms to PNS.
 
@@ -108,7 +118,9 @@ In the event of supply shortage of locally-produced bioethanol during the four�
 
 Within two years from the effectivity of this Act, the NBB created under this Act is empowered to determine the feasibility and thereafter recommend to DOE to mandate a minimum of two percent (2%) blend of biodiesel by volume which may be increased taking into account considerations including but not limited to domestic supply and availability of locally-sourced biodiesel component.
 
-**SEC. 6._Incentive Scheme_** – To encourage investments in the production, distribution and use of locally-produced biofuels at and above the minimum mandated blends, and without prejudice to enjoying applicable incentives and benefits under existing laws, rules and regulations, the following additional incentives are hereby provided under this Act.
+## SEC. 6
+
+_Incentive Scheme_ – To encourage investments in the production, distribution and use of locally-produced biofuels at and above the minimum mandated blends, and without prejudice to enjoying applicable incentives and benefits under existing laws, rules and regulations, the following additional incentives are hereby provided under this Act.
 
 a) Specific tax
 
@@ -126,7 +138,9 @@ d) Financial Assistance
 
 Government financial institutions, such as the Development Bank of the Philippines, Land Bank of the Philippines, Quedancor and other government institutions providing financial services shall, in accordance with and to the extent by the enabling provisions of their respective charters or applicable laws, accord high priority to extend financing to Filipino citizens or entities, at least sixty percent (60%) of the capital stock of which belongs to citizens of the Philippines that shall engage in activities involving production storage, handling and transport of biofuel feedstock, including the blending of biofuels with petroleum, as certified by the DOE.
 
-**SEC. 7._Powers and Functions of the DOE._** – In addition to its existing powers and functions, the DOE is hereby mandated to take appropriate and necessary actions to implement the provisions of this Act. In pursuance thereof, it shall within three months from effectivity of this Act:
+## SEC. 7
+
+_Powers and Functions of the DOE._ – In addition to its existing powers and functions, the DOE is hereby mandated to take appropriate and necessary actions to implement the provisions of this Act. In pursuance thereof, it shall within three months from effectivity of this Act:
 
 a) Formulate the implementing rules and regulations under Section 15 of this Act;
 
@@ -142,13 +156,17 @@ f) Stop the sale of biofuels and biofuel-blended gasoline and diesel that are no
 
 g) Conduct an information campaign to promote the use of biofuels
 
-**SEC. 8._Creation of the National Biofuel Board (NBB)_** – The National Biofuel Board is hereby created. It shall be composed of the Secretary of the DOE as chairman and the Secretaries of the DTI, DOST, DA, DOF, DOLE, and the Administrators of the PCA, and the SRA, as members.
+## SEC. 8
+
+_Creation of the National Biofuel Board (NBB)_ – The National Biofuel Board is hereby created. It shall be composed of the Secretary of the DOE as chairman and the Secretaries of the DTI, DOST, DA, DOF, DOLE, and the Administrators of the PCA, and the SRA, as members.
 
 The DOE Secretary, in his capacity as Chairperson, shall, within one month from the effectivity of this Act, convene the NBB.
 
 The Board shall by assisted by a Technical Secretariat attached to the Office of the Secretary of the DOE. It shall be headed by a Director to be appointed by the Board. The number of staff of the Technical Secretariat and the corresponding positions shall be determined by the Board, subject to approval by the Department of Budget and Management (DBM) and existing civil services rules and regulations.
 
-**SEC. 9._Powers and Functions of the NBB._** – The NBB shall have the following powers and functions:
+## SEC. 9
+
+_Powers and Functions of the NBB._ – The NBB shall have the following powers and functions:
 
 a) Monitor the implementation of, and evaluate for further expansion, the National Biofuel Program (NBP) prepares by the DOE pursuant to Section 7 (b) of this Act;
 
@@ -166,11 +184,15 @@ e) Recommend to DOE the use of biofuel–blends in air transport taking into acc
 
 f) Recommend specific actions to be executed by the DOE and other appropriate government agencies concerning the implementation of the NBP, including its economic, technical, environment, and social impact.
 
-**SEC. 10._Security of Domestic Sugar Supply._** \- Any provision of this Act to the contrary notwithstanding, the SRA, pursuant to its mandate, shall, at all times, ensures that the supply of sugar is sufficient to meet the domestic demand and that the price of sugar is stable.
+## SEC. 10
+
+_Security of Domestic Sugar Supply._ \- Any provision of this Act to the contrary notwithstanding, the SRA, pursuant to its mandate, shall, at all times, ensures that the supply of sugar is sufficient to meet the domestic demand and that the price of sugar is stable.
 
 To this end, the SRA shall recommend and the proper agencies shall undertake the importation of sugar whenever necessary and shall make appropriate adjustments to the minimum access volume parameters for sugar in the Tariff and Custom Code.
 
-**SEC. 11._Role of Government Agencies._** – To ensure the effective implementation of the NBP, concerned agencies shall perform the following functions:
+## SEC. 11
+
+_Role of Government Agencies._ – To ensure the effective implementation of the NBP, concerned agencies shall perform the following functions:
 
 a) The DOF shall monitor the production and importation of biofuels through the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) ;
 
@@ -198,7 +220,9 @@ f) The Tariff Commission, in coordination with the appropriate government agenci
 
 g) The local government units (LGU) shall assist the DOE in monitoring the distribution sale in use of biofuels and biofuel-blends
 
-**SEC. 12._Prohibited Acts._** The following acts shall be prohibited:
+## SEC. 12
+
+_Prohibited Acts._ The following acts shall be prohibited:
 
 a) Diversion of biofuels, whether locally produced or imported, to purposes other than those envisioned in this Act;
 
@@ -210,7 +234,9 @@ d) Noncompliance with the established guidelines of the PNS and DOE adopted for 
 
 e) False labeling of gasoline, diesel, biofuels and biofuel-blended gasoline and diesel.
 
-**SEC. 13._Penal Provisions._** \- Any person, who willfully aids or abets in the commission of a crime prohibited herein or who causes the commission of any such act by another shall be liable in the same manner as the principal.
+## SEC. 13
+
+_Penal Provisions._ \- Any person, who willfully aids or abets in the commission of a crime prohibited herein or who causes the commission of any such act by another shall be liable in the same manner as the principal.
 
 In the case of association, partnerships or corporations, the penalty shall be imposed on the partner, president, chief operating officer, chief executive officer, directors or officers, responsible for the violation.
 
@@ -220,23 +246,39 @@ In addition, the DOE shall confiscate any amount of such products that fail to c
 
 Further, the DOE is empowered to impose administrative fines and penalties for any violation of the provisions of this Act, implementing rules and regulations and other issuance relative to this Act.
 
-**SEC. 14._Appropriations._** \- Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the DOE. Thereafter, the fund necessary to carry out provisions of this Act shall be included in the annual General Appropriation Act.
+## SEC. 14
 
-**SEC. 15._Implementing Rules and Regulations (IRR) ._** \- The DOE, in consultation with the NBB, the stakeholders and the other agencies concerned, shall within three months from affectivity of this Act, promulgated the IRR of this Act: _Provided_ , That prior to its effectively, the draft of the IRR shall be posted at the DOE web site for at least one month, and shall be published in at least two newspapers of general circulation.
+_Appropriations._ \- Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the DOE. Thereafter, the fund necessary to carry out provisions of this Act shall be included in the annual General Appropriation Act.
 
-**SEC. 16._Congressional Oversight Committee._** \- Upon affectivity of this act, a Congressional Committee, hereinafter referred to as the Biofuels Oversight Committee, is hereby constituted. The biofuels oversight committee shall be compose of (14) members, with the Chairmen of the Committees on Energy of both House of Congress as co-chairmen. The Chairmen of the Committee on Agriculture and Trade and Industry shall be _ex officio_ members. An additional four members from each House, to be designated by the Senate President and Speaker of the House of Representatives, respectively. The minority shall be entitled to pro-rata representation but shall have at least one representative in the Biofuel Oversight Committee.
+## SEC. 15
 
-**SEC. 17._Benefits of Biofuel Workers._** \- This Act shall not in any way result in the forfeiture or diminution of existing benefits enjoyed by the sugar workers as prescribed under the R.A. No. 6982, or the Sugar Amelioration Act of 1991. In case sugarcane shall be used as feedstock.
+_Implementing Rules and Regulations (IRR) ._ \- The DOE, in consultation with the NBB, the stakeholders and the other agencies concerned, shall within three months from affectivity of this Act, promulgated the IRR of this Act: _Provided_ , That prior to its effectively, the draft of the IRR shall be posted at the DOE web site for at least one month, and shall be published in at least two newspapers of general circulation.
+
+## SEC. 16
+
+_Congressional Oversight Committee._ \- Upon affectivity of this act, a Congressional Committee, hereinafter referred to as the Biofuels Oversight Committee, is hereby constituted. The biofuels oversight committee shall be compose of (14) members, with the Chairmen of the Committees on Energy of both House of Congress as co-chairmen. The Chairmen of the Committee on Agriculture and Trade and Industry shall be _ex officio_ members. An additional four members from each House, to be designated by the Senate President and Speaker of the House of Representatives, respectively. The minority shall be entitled to pro-rata representation but shall have at least one representative in the Biofuel Oversight Committee.
+
+## SEC. 17
+
+_Benefits of Biofuel Workers._ \- This Act shall not in any way result in the forfeiture or diminution of existing benefits enjoyed by the sugar workers as prescribed under the R.A. No. 6982, or the Sugar Amelioration Act of 1991. In case sugarcane shall be used as feedstock.
 
 The NBB shall establish a mechanism similar to that provided under the Sugar Amelioration Act of 1991 for the benefit of other biofuel workers.
 
-**SEC. 18._Special Clause._** \- This act shall not be interpreted as prejudicial to clean development mechanism (CDM) projects that cause carbon dioxide (CO2) and greenhouse gasses (GHG) emission reductions by means of biofuel use.
+## SEC. 18
 
-**SEC. 19._Repealing Clause._** \- The provision of Section 148 (d) of R.A. No. 8424, otherwise known as Tax Reform Act. of 1997, and all other laws, presidential decrees or issuance, executive orders, presidential proclamations. rules and regulations or part thereof inconsistent with the provisions of this Act, are hereby repealed, modified or amended accordingly.
+_Special Clause._ \- This act shall not be interpreted as prejudicial to clean development mechanism (CDM) projects that cause carbon dioxide (CO2) and greenhouse gasses (GHG) emission reductions by means of biofuel use.
 
-**SEC. 20._Separability Clause._** \- If any provision of this Act is declared unconstitutional in the same shall not affect the validity and effectivity of the other provision hereof.
+## SEC. 19
 
-**SEC. 21._Effectivity._** \- This act shall effect fifteen (15) day after publication in at least two newspapers of general circulation.
+_Repealing Clause._ \- The provision of Section 148 (d) of R.A. No. 8424, otherwise known as Tax Reform Act. of 1997, and all other laws, presidential decrees or issuance, executive orders, presidential proclamations. rules and regulations or part thereof inconsistent with the provisions of this Act, are hereby repealed, modified or amended accordingly.
+
+## SEC. 20
+
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional in the same shall not affect the validity and effectivity of the other provision hereof.
+
+## SEC. 21
+
+_Effectivity._ \- This act shall effect fifteen (15) day after publication in at least two newspapers of general circulation.
 
 Approved,
 

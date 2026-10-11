@@ -40,7 +40,7 @@ There are hereby established a regular campus of the Nueva Ecija University of S
 
 The NEUST-Nampicuan Campus shall primarily provide short-term, technical-vocational, undergraduate, and graduate courses within their areas of competency and specialization, pursuant to their mandate, and according to their capabilities as the Board of Regents, hereinafter referred to as the Board, may deem necessary for the accomplishment of their objectives, and those which respond to the human resources development needs of the Province of Nueva Ecijan and Region III.
 
-The NEUST-Nampicuan Campus are also mandated to undertake research and extension services, and to provide progressive leadership in these areas.ℒαwρhi৷
+The NEUST-Nampicuan Campus are also mandated to undertake research and extension services, and to provide progressive leadership in these areas.
 
 ## Section 4
 

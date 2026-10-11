@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of Republic Act Numbered Twenty hundred and twenty-eight, the sale, transfer and assignment by the Plywood Industries, Inc., original grantee of the franchise granted under the said Act, entitled "An Act granting the Plywood Industries, Inc., a franchise to construct, maintain and operate point-to-point radio stations in the Philippines," to the Mindanao Plywood Corporation, is hereby approved.(awÞhi(
+Subject to the provisions of Republic Act Numbered Twenty hundred and twenty-eight, the sale, transfer and assignment by the Plywood Industries, Inc., original grantee of the franchise granted under the said Act, entitled "An Act granting the Plywood Industries, Inc., a franchise to construct, maintain and operate point-to-point radio stations in the Philippines," to the Mindanao Plywood Corporation, is hereby approved.
 
 ## Section 2
 

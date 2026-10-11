@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-March 2 of every year is hereby declared a special nonworking holiday in the Province of La Union to be known as "La Union Day", in commemoration of its founding anniversary.ℒαwρhi৷
+March 2 of every year is hereby declared a special nonworking holiday in the Province of La Union to be known as "La Union Day", in commemoration of its founding anniversary.
 
 ## Section 2
 

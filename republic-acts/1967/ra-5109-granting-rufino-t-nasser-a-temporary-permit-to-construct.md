@@ -57,7 +57,7 @@ The grantee shall not lease, transfer, grant the usufruct of, sell or assign thi
 
 ## Section 9
 
-The grantee shall file a bond in the amount of ten thousand pesos to warranty the full compliance with the fulfillment of the conditions under which the temporary permit is granted.1avvphi1 If after two years from the date of acceptance of this temporary permit, the grantee shall have fulfilled said conditions or soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+The grantee shall file a bond in the amount of ten thousand pesos to warranty the full compliance with the fulfillment of the conditions under which the temporary permit is granted. If after two years from the date of acceptance of this temporary permit, the grantee shall have fulfilled said conditions or soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 10
 

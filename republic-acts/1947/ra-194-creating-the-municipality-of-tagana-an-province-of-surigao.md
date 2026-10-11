@@ -32,6 +32,6 @@ Upon the approval of this Act, the President of the Philippines shall appoint th
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 22, 1947.

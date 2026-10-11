@@ -36,7 +36,7 @@ The Department of Health shall formulate the necessary guidelines for its operat
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 4
 

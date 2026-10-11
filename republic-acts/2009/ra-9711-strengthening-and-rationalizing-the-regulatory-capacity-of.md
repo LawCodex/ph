@@ -382,21 +382,37 @@ A new chapter XIV and three new sections, Sections 35, 36, and 37 shall be intro
 
 "SEC. 37. The FDA, with the approval of the Secretary, shall create organizational units which are deemed necessary to address emerging concerns and to be abreast with internationally acceptable standards. There shall be created additional plantilla positions to augment the human resource complement of the FDA, subject to existing rules and regulations."
 
-**Section 21._Appropriations._** \- The appropriations for the BFAD and the BHDT included in the budget of the DOH under the current General Appropriations Act shall be used to carry out the implementation of this Act. The appropriation may be augmented by the income which the agency is authorized to use under this Act. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
+## Section 21
 
-**Section 22._Implementing Rules and Regulatiorts._** \- The DOH shall promulgate, in consultation with the FDA, the implementing rules and regulations of this Act within one hundred twenty (120) days after the passage of this Act.
+_Appropriations._ \- The appropriations for the BFAD and the BHDT included in the budget of the DOH under the current General Appropriations Act shall be used to carry out the implementation of this Act. The appropriation may be augmented by the income which the agency is authorized to use under this Act. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual General Appropriations Act.
 
-**Section 23._Congressional Oversight Committee._** \- A Congressional Oversight Committee (COC) is hereby created composed of the Chairpersons of the Committees on Health and Appropriations of the House of Representatives and two (2) Members to be appointed by the Speaker, the Chairpersons of the Committees on Health and Finance of the Senate and two (2) Members to he appointed by the President of the Senate, to oversee the implementation of this Act for a period of five (5) years and to review the accomplishments and the utilization of income of the FDA. The secretariat of the COC shall be drawn from the existing personnel of the committees comprising the COC.
+## Section 22
 
-**Section 24._Transitory Provisions._** \- The BFAD Director and Deputy Director shall serve as FDA Director-General and Deputy Director-General for Field Regulatory Operations, respectively. The current officials and employees of the BFAD shall be transferred as far as practicable to the appropriate unit in the FDA as determined by the Director-General. The current officials and employees of the BHDT shall be transferred to the Center for Device Regulation, Radiation Health, and Research. The current regional food and drug regulatory officers and regional health physicists under the Centers for Health Development of the DOH shall be transferred as far as practicable to the appropriate unit in the FDA as determined by the Director-General. There shall be no demotion in ranks and positions and no diminution in salaries. benefits, allowances and emoluments of all BFAD, BHDT and indicated Center for Health and Development (CHD) personnel transferred to the FDA. All positions, powers, functions and duties together with the facilities, equipment, supplies, records, files, appropriations, and funds for these bureaus and the indicated CHD personnel shall be transferred to the FDA.
+_Implementing Rules and Regulatiorts._ \- The DOH shall promulgate, in consultation with the FDA, the implementing rules and regulations of this Act within one hundred twenty (120) days after the passage of this Act.
 
-**Section 25._Coverage._** \- This Act shall govern all health products: _Provided_ , That nothing in this Act shall be deemed to modify the sole and exclusive jurisdiction of other specialized agencies and special laws only insofar as the acts covered by these specialized agencies and laws, including, but not limited to, those covered by Republic Act No. 9211, Executive Order No. 245, Executive Order No. 18, and Presidential Decree No. 1468.
+## Section 23
 
-**Section 26._Separability Clause._** \- If any part, section or provision of this Act shall be declared invalid or unconstitutional, other provisions or parts thereof which are not affected thereby shall remain in full force and effect.
+_Congressional Oversight Committee._ \- A Congressional Oversight Committee (COC) is hereby created composed of the Chairpersons of the Committees on Health and Appropriations of the House of Representatives and two (2) Members to be appointed by the Speaker, the Chairpersons of the Committees on Health and Finance of the Senate and two (2) Members to he appointed by the President of the Senate, to oversee the implementation of this Act for a period of five (5) years and to review the accomplishments and the utilization of income of the FDA. The secretariat of the COC shall be drawn from the existing personnel of the committees comprising the COC.
 
-**Section 27._Repealing Clause._** \- Laws or part of laws, executive orders, circulars, regulations and memoranda inconsistent with this Act are hereby repealed or amended accordingly.
+## Section 24
 
-**Section 28._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of generhl circulation.
+_Transitory Provisions._ \- The BFAD Director and Deputy Director shall serve as FDA Director-General and Deputy Director-General for Field Regulatory Operations, respectively. The current officials and employees of the BFAD shall be transferred as far as practicable to the appropriate unit in the FDA as determined by the Director-General. The current officials and employees of the BHDT shall be transferred to the Center for Device Regulation, Radiation Health, and Research. The current regional food and drug regulatory officers and regional health physicists under the Centers for Health Development of the DOH shall be transferred as far as practicable to the appropriate unit in the FDA as determined by the Director-General. There shall be no demotion in ranks and positions and no diminution in salaries. benefits, allowances and emoluments of all BFAD, BHDT and indicated Center for Health and Development (CHD) personnel transferred to the FDA. All positions, powers, functions and duties together with the facilities, equipment, supplies, records, files, appropriations, and funds for these bureaus and the indicated CHD personnel shall be transferred to the FDA.
+
+## Section 25
+
+_Coverage._ \- This Act shall govern all health products: _Provided_ , That nothing in this Act shall be deemed to modify the sole and exclusive jurisdiction of other specialized agencies and special laws only insofar as the acts covered by these specialized agencies and laws, including, but not limited to, those covered by Republic Act No. 9211, Executive Order No. 245, Executive Order No. 18, and Presidential Decree No. 1468.
+
+## Section 26
+
+_Separability Clause._ \- If any part, section or provision of this Act shall be declared invalid or unconstitutional, other provisions or parts thereof which are not affected thereby shall remain in full force and effect.
+
+## Section 27
+
+_Repealing Clause._ \- Laws or part of laws, executive orders, circulars, regulations and memoranda inconsistent with this Act are hereby repealed or amended accordingly.
+
+## Section 28
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of generhl circulation.
 
 Approved,
 

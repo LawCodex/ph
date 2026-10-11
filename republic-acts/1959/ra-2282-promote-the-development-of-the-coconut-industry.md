@@ -38,7 +38,7 @@ A sinking fund shall be established in such a manner that the total annual contr
 
 ## Section 4
 
-The Coconut Financing Fund shall be a revolving fund and shall be used by the Development Bank of the Philippines solely to grant loans, with interest at the rate of two per cent annually, for financing capital requirements of coconut farmers and coconut cooperatives duly registered in the Securities and Exchange Commission.1âшphi1
+The Coconut Financing Fund shall be a revolving fund and shall be used by the Development Bank of the Philippines solely to grant loans, with interest at the rate of two per cent annually, for financing capital requirements of coconut farmers and coconut cooperatives duly registered in the Securities and Exchange Commission.
 
 The loans to coconut cooperatives shall be for providing initial capital thereof; for meeting the long-term need for the financing of replanting programs; for industrialization and standardization of coconut products, wastes and by-products; and for construction or acquisition of fixed assets; such as, warehouses, driers, moisture meters, and the like.
 

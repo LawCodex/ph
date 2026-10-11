@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, is hereby changed to Bansen Memorial School.1âшphi1
+The name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, is hereby changed to Bansen Memorial School.
 
 ## Section 2
 

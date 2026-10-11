@@ -40,6 +40,6 @@ To carry out the provisions of Republic Act Numbered Fifty-four hundred and thir
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved. August 4, 1969.

@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Poblacion Extension Class located in the Municipality of Cauayan, Negros Occidental, is hereby separated from the Guiljungan Barangay High School, and shall henceforth be known as the Cauayan National High School.Ꮮαwρhi৷
+The Poblacion Extension Class located in the Municipality of Cauayan, Negros Occidental, is hereby separated from the Guiljungan Barangay High School, and shall henceforth be known as the Cauayan National High School.
 
 ## Section 2
 

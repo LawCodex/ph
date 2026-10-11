@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of South Laminusa Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Saipudin Elementary School.1âшphi1
+The name of South Laminusa Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Saipudin Elementary School.
 
 ## Section 2
 

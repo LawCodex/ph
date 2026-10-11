@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Colonel Jaime C. Velasquez, of the Armed Forces of the Philippines, is authorized to accept the Legion of Merit (Officer Grade) conferred upon him by the United States Government, and to wear the corresponding insignia.1a⍵⍴h!1
+Colonel Jaime C. Velasquez, of the Armed Forces of the Philippines, is authorized to accept the Legion of Merit (Officer Grade) conferred upon him by the United States Government, and to wear the corresponding insignia.
 
 ## Section 2
 

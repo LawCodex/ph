@@ -41,7 +41,7 @@ Upon prior consultation with the Luis Hora Memorial Regional Hospital, the Depar
 
 ## Section 4
 
-The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the year following its enactment into law and thereafter.1âwphi1
+The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 5
 

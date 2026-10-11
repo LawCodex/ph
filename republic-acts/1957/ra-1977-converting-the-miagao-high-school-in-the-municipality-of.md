@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Miagao High School in the Municipality of Miagao, Province of Iloilo, is hereby converted into a national vocational school to be known as the Miagao Vocational School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.1âшphi1
+The Miagao High School in the Municipality of Miagao, Province of Iloilo, is hereby converted into a national vocational school to be known as the Miagao Vocational School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The extension office of the Land Transportation Office (LTO) in the Municipality
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of Class "C" LTO District Office in the Municipality of Bayambang, Province of Pangasinan, the initial funding of which shall be charged against current year's appropriation of the LTO Bayambang Extension Office. Thereafter, the funding shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of Class "C" LTO District Office in the Municipality of Bayambang, Province of Pangasinan, the initial funding of which shall be charged against current year's appropriation of the LTO Bayambang Extension Office. Thereafter, the funding shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

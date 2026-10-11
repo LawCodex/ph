@@ -77,7 +77,7 @@ _Term of the Franchise._ \- Unless sooner cancelled or revoked, this franchise s
 
 ## Section 12
 
-_Warranty in Favor of the National and Local Governments._ \- The Grantee shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents that cause injury to persons and damage to property during the construction, installation, operation, and maintenance of the distribution system of the Grantee.ℒαwρhi৷
+_Warranty in Favor of the National and Local Governments._ \- The Grantee shall hold the national, provincial, city and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents that cause injury to persons and damage to property during the construction, installation, operation, and maintenance of the distribution system of the Grantee.
 
 ## Section 13
 

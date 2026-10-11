@@ -36,7 +36,7 @@ Section one of the same Act is hereby amended to read as follows:
 
 ## Section 3
 
-Section two of the same Act is hereby amended to read as follows:1âшphi1
+Section two of the same Act is hereby amended to read as follows:
 
 "**Section 2.** The Director of Public Schools shall reorganize the School Division of the Province of Quezon into three school divisions commencing with the school year nineteen hundred sixty-seven to nineteen hundred sixty-eight, in accordance with the provisions of this Act."
 

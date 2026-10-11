@@ -36,7 +36,7 @@ _Short Title._ \- This Act shall be known as the **_"Philippine Sports Training 
 
 _Declaration of Policy._ \- It is the policy of the State to promote and develop sports in the country, to achieve excellence in international sports competitions, to ensure success in the country’s quest to achieve competitiveness in the Olympic Games and to promote international amity among nations. Pursuant thereto, the establishment and construction of a national sports training facility shall be a primary strategy to achieve the foregoing objectives.
 
-Furthermore, under Article XIV, Section 19 of the Philippine Constitution, the State shall promote physical education and encourage sports programs, league competitions, and amateur sports, including training for international competitions to foster self-discipline, teamwork, and excellence for the development of a healthy and alert citizenry.1avvphi1 To further this policy, the State shall establish and construct a state-of-the-art and highly scientific sports complex.
+Furthermore, under Article XIV, Section 19 of the Philippine Constitution, the State shall promote physical education and encourage sports programs, league competitions, and amateur sports, including training for international competitions to foster self-discipline, teamwork, and excellence for the development of a healthy and alert citizenry. To further this policy, the State shall establish and construct a state-of-the-art and highly scientific sports complex.
 
 ## Section 3
 
@@ -56,7 +56,7 @@ _Objectives of the Philippine Sports Training Center._ \- The objectives of the 
 
 (d) To host local and international competitions, if necessary; and
 
-(e) For any other purpose inherent and incidental for the purposes for which the PSTC was created.1âwphi1
+(e) For any other purpose inherent and incidental for the purposes for which the PSTC was created.
 
 ## Section 5
 
@@ -212,7 +212,7 @@ _Report to Congress._ \- The Chairman of the PSC shall submit a report to the Ch
 
 _Deputy Executive Director._ \- There shall be a Deputy Executive Director who shall be appointed or designated as such by the PSC Chairperson, and shall direct and supervise the day-to-day operations of the PSTC. The Deputy Executive Director must be a citizen of the Republic of the Philippines, of good moral character, a college graduate and has at least five (5) years experience in sports administration.
 
-The PSC Chairperson shall likewise appoint or designate other personnel to assist the Deputy Executive Director in the operations of the PSTC as deemed necessary.1âwphi1
+The PSC Chairperson shall likewise appoint or designate other personnel to assist the Deputy Executive Director in the operations of the PSTC as deemed necessary.
 
 ## Section 10
 

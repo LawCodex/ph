@@ -38,7 +38,7 @@ The Secretary of the Department of Transportation shall immediately include in t
 
 ## Section 3
 
-The Secretary of the Department of Transportation shall promulgate the necessary rules and regulations for the effective implementation of this Act.ℒαwρhi৷
+The Secretary of the Department of Transportation shall promulgate the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 4
 

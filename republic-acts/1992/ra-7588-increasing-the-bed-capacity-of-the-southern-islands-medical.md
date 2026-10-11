@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Southern Islands Medical Center is hereby increased from three hundred fifty (350) to four hundred (400) beds.1âшphi1
+The bed capacity of the Southern Islands Medical Center is hereby increased from three hundred fifty (350) to four hundred (400) beds.
 
 ## Section 2
 

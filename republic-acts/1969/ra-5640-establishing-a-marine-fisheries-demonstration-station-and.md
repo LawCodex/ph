@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established and maintained under the supervision of the Commissioner of Fisheries, a marine fisheries demonstration station and nursery in any suitable coastal barrio in the Municipality of Dapa, Siargao Island, Province of Surigao del Norte, to be known as the Siargao Fisheries Demonstration Station and Nursery.1a⍵⍴h!1
+There shall be established and maintained under the supervision of the Commissioner of Fisheries, a marine fisheries demonstration station and nursery in any suitable coastal barrio in the Municipality of Dapa, Siargao Island, Province of Surigao del Norte, to be known as the Siargao Fisheries Demonstration Station and Nursery.
 
 ## Section 2
 

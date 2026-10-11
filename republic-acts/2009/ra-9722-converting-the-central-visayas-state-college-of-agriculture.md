@@ -244,7 +244,7 @@ _Filing of Report._ \- On or before the fifteenth (15th) day of the second (2nd)
 
 ## Section 24
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the Governing Charter of the University.1avvphi1
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall be an integral part of this Act and shall serve as part of the Governing Charter of the University.
 
 ## Section 25
 

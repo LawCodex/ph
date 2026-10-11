@@ -42,6 +42,6 @@ The sum of fifty-one thousand pesos is hereby authorized to be appropriated, out
 
 ## Section 4
 
-This Act shall take effect upon its approval1a⍵⍴h!1.
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

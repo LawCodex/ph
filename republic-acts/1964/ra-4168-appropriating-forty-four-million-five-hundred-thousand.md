@@ -41,7 +41,7 @@ The Commission on Elections is hereby authorized to use such sums as may be nece
 
 ## Section 5
 
-Any provision of existing law to the contrary notwithstanding, the Commission on elections may authorize the payment of compensation from the appropriation authorized in this Act to its officials and employees, and those assigned thereto, except the Chairman and Members of the said Commission, for overtime services to be rendered on Saturdays, Sundays and holidays, or after twelve thirty o’clock post meridian during half day sessions and after five o’clock post meridian on regular working days, in connection with the registration of voters and the said elections, at rate to be fixed by the Commission on Elections which shall not exceed the rates of their regular monthly compensation. Such additional compensation shall not exceed, for any one month, the equivalent of one-half of their regular monthly compensation.1âшphi1
+Any provision of existing law to the contrary notwithstanding, the Commission on elections may authorize the payment of compensation from the appropriation authorized in this Act to its officials and employees, and those assigned thereto, except the Chairman and Members of the said Commission, for overtime services to be rendered on Saturdays, Sundays and holidays, or after twelve thirty o’clock post meridian during half day sessions and after five o’clock post meridian on regular working days, in connection with the registration of voters and the said elections, at rate to be fixed by the Commission on Elections which shall not exceed the rates of their regular monthly compensation. Such additional compensation shall not exceed, for any one month, the equivalent of one-half of their regular monthly compensation.
 
 ## Section 6
 

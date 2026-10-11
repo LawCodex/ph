@@ -123,7 +123,7 @@ _Powers and Duties of the Board._ \- The Board, in addition to its general power
 
 (y) To delegate any of its powers and duties provided to the President and other officials of the University, as it may deem appropriate, so as to expedite the administration of the affairs of the University; and
 
-(z) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University.1âwphi1
+(z) To promulgate rules and regulations as may be necessary to carry out the purposes and functions of the University.
 
 **Section 7 _._** Meetings of the Board. - The Board shall regularly convene once every quarter. However, the Chairperson of the Board may, upon three (3) days prior written notice, call a maximum of two (2) special meetings whenever necessary within the year.
 

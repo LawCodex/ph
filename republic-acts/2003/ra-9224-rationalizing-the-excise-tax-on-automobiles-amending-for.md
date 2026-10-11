@@ -83,13 +83,21 @@ _Provided._ That in the case of imported automobiles not for sale, the tax impos
 
 Automobiles used exclusively within the freeport zones shall be exempt from excise tax.
 
-**Section 2._Rules and Regulations_** \- The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue shall promulgated the necessary rules and regulation for the effective implementation of the provision of the provisions of this Act within thirty (30) days from the date of approval.
+## Section 2
 
-**Section 3._Separablitiy Clause_** \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
+_Rules and Regulations_ \- The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue shall promulgated the necessary rules and regulation for the effective implementation of the provision of the provisions of this Act within thirty (30) days from the date of approval.
 
-**Section 4._Repealing Clause_** \- All laws, decrees, executive order, letters of instruction, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly:
+## Section 3
 
-**Section 5._Effectivity Clause_** \- This Act shall take effect fifteen (15) days after the publication of the approved implementing ruled and regulations.
+_Separablitiy Clause_ \- If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
+
+## Section 4
+
+_Repealing Clause_ \- All laws, decrees, executive order, letters of instruction, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly:
+
+## Section 5
+
+_Effectivity Clause_ \- This Act shall take effect fifteen (15) days after the publication of the approved implementing ruled and regulations.
 
 Approved,
 

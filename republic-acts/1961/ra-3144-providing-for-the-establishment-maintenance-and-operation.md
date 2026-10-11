@@ -32,7 +32,7 @@ The Secretary of Health shall promulgate such rules and regulations as may be ne
 
 ## Section 3
 
-The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of said hospital: _Provided,_ That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available.1avvphi1 In subsequent years, the operation and maintenance of said hospital shall be financed in accordance with Republic Act Numbered Nineteen hundred and thirty-nine.
+The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of said hospital: _Provided,_ That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. In subsequent years, the operation and maintenance of said hospital shall be financed in accordance with Republic Act Numbered Nineteen hundred and thirty-nine.
 
 ## Section 4
 

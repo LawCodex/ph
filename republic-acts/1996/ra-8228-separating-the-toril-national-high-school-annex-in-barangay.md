@@ -35,7 +35,7 @@ The Department of Education, Culture and Sports shall issue such and regulations
 
 ## Section 3
 
-The amount necessary to can out the provisions of this Act shall be in eluded in the General Appropriations Act of the year following its enactment in law and thereafter.1aшphi1
+The amount necessary to can out the provisions of this Act shall be in eluded in the General Appropriations Act of the year following its enactment in law and thereafter.
 
 ## Section 4
 

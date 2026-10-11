@@ -43,7 +43,7 @@ The Chief Justice of the Supreme Court, in coordination with the Secretary of th
 
 ## SECTION 4
 
-Sections 14(a) and 29 of Batas Pambansa Blg. 129, otherwise known as “The Judiciary Reorganization Act of 1980”, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed, or modified accordingly.1âwphi1
+Sections 14(a) and 29 of Batas Pambansa Blg. 129, otherwise known as “The Judiciary Reorganization Act of 1980”, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed, or modified accordingly.
 
 ## SECTION 5
 

@@ -35,7 +35,7 @@ The Municipality of Esperanza will retain its present territory except the barri
 
 ## Section 3
 
-The Municipality of San Luis acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.1avvphi1
+The Municipality of San Luis acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
 
 ## Section 4
 

@@ -58,7 +58,7 @@ All parcels of land belonging to the government occupied by the DNSC-Carmen Camp
 
 ## Section 7
 
-The provisions of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act, and together shall serve as the governing charter of the College.ℒαwρhi৷
+The provisions of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act, and together shall serve as the governing charter of the College.
 
 ## Section 8
 

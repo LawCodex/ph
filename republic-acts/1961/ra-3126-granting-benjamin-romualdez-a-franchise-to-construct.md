@@ -44,7 +44,7 @@ A special right is reserved to the President of the Philippines in time of war, 
 
 ## Section 6
 
-The grantee, his successors or assigns, shall be liable to the percentage tax prescribed in Section one hundred ninety-one of the National Internal Revenue Code, which shall be in lieu of any and all taxes of any kind, nature or description, levied, established, or collected by any authority whatsoever, municipal, provincial or national, now or hereafter.1âшphi1
+The grantee, his successors or assigns, shall be liable to the percentage tax prescribed in Section one hundred ninety-one of the National Internal Revenue Code, which shall be in lieu of any and all taxes of any kind, nature or description, levied, established, or collected by any authority whatsoever, municipal, provincial or national, now or hereafter.
 
 ## Section 7
 
@@ -72,7 +72,7 @@ The grantee shall not require any previous censorship of any speech, play or oth
 
 ## Section 13
 
-This franchise shall not be interpreted as an exclusive grant of the privilege herein provided for.1avvphi1
+This franchise shall not be interpreted as an exclusive grant of the privilege herein provided for.
 
 ## Section 14
 

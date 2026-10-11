@@ -37,7 +37,7 @@ The Secretary of Education and Secretary of Commerce and Industry shall jointly 
 
 ## Section 4
 
-The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation, and maintenance of the station and school during the fiscal year nineteen hundred and sixty-five.1âшphi1 Thereafter, such sum as may be needed for the operation and maintenance of the station and school shall be included in the annual General Appropriations Act.
+The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation, and maintenance of the station and school during the fiscal year nineteen hundred and sixty-five. Thereafter, such sum as may be needed for the operation and maintenance of the station and school shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

@@ -29,7 +29,7 @@ The Hibao-an Elementary School in Barangay Hibao-an Sur, Mandurriao District, Il
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Hibao-an Elementary School are hereby transferred and absorbed by the Hibao-an Integrated School.£A⩊phi£
+All personnel, assets, liabilities and records of the Hibao-an Elementary School are hereby transferred and absorbed by the Hibao-an Integrated School.
 
 ## Section 3
 

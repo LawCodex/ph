@@ -88,7 +88,7 @@ All parcels of land belonging to the government to be occupied by the College sh
 
 _Duty and Tax Exemptions._ \- The importation by the College of medical books or publications, medical equipment or instruments which are for medical, laboratory, or scientific purposes shall, upon certification by the Commission on Higher Education (CHED), be exempt from customs duties in accordance with the provisions of Republic Act No. 10863, otherwise known as the "Customs Modernization and Tariff Act (CMTA)".
 
-All grants, bequests, endowments, donations, and contributions made to and used actually, directly, and exclusively for educational purposes by the College, shall be exempt from donor's tax and the same shall be considered as allowable deduction from gross income for purposes of computing the taxable income of the donor in accordance with the provisions of the National Internal Revenue Code of 1997, as amended.1aшphi1
+All grants, bequests, endowments, donations, and contributions made to and used actually, directly, and exclusively for educational purposes by the College, shall be exempt from donor's tax and the same shall be considered as allowable deduction from gross income for purposes of computing the taxable income of the donor in accordance with the provisions of the National Internal Revenue Code of 1997, as amended.
 
 ## Section 12
 

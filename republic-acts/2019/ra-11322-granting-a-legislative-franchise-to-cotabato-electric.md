@@ -48,7 +48,7 @@ _Excavation and Restoration Works._ -For the purpose of erecting and maintaining
 
 ## Section 5
 
-_Responsibility to the Public._ -The grantee shall supply electricity to its captive market in the least costly manner. In the interest of the public good and as far as feasible and whenever required by the ERC, the grantee shall modify, improve or change its facilities, poles, lines, systems, and equipment for the purpose of providing efficient and reliable service and reduced electricity costs.1âшphi1 The grantee shall charge reasonable and just power rates for its services to all types of consumers within its franchised areas.
+_Responsibility to the Public._ -The grantee shall supply electricity to its captive market in the least costly manner. In the interest of the public good and as far as feasible and whenever required by the ERC, the grantee shall modify, improve or change its facilities, poles, lines, systems, and equipment for the purpose of providing efficient and reliable service and reduced electricity costs. The grantee shall charge reasonable and just power rates for its services to all types of consumers within its franchised areas.
 
 The grantee shall have the obligation to provide open and nondiscriminatory access to its distribution system and services to any end user within its franchise area consistent with Republic Act No. 9136, otherwise known as the "Electric Power Industry Reform Act of 2001". The grantee shall not engage in any activity that will constitute an abuse of market power such as unfair trade practices, monopolistic schemes, and any other activities that will hinder competitiveness of business and industry.
 

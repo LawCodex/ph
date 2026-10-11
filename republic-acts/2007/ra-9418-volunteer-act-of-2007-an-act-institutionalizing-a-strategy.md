@@ -28,11 +28,17 @@ AN ACT INSTITUTIONALIZING A STRATEGY FOR RURAL DEVELOPMENT, STRENGTHENING VOLUNT
 
 _Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled_ :
 
-**SECTION 1._Title._** \- This Act shall be known and cited as the "**Volunteer Act of 2007** ".
+## SECTION 1
 
-**SEC. 2._Declaration of Policy._** \- It shall be the policy of the State to promote the participation of the various sectors of the Filipino society, and as necessary, international and foreign volunteer organizations in public and civic affairs, and adopt and strengthen the practice of volunteerism as a strategy in order to attain national development and international understanding. The inculcation of volunteerism as a way of life shall rekindle in every Filipino the time-honored tradition of bayanihan to foster social justice, solidarity and sustainable development.
+_Title._ \- This Act shall be known and cited as the "**Volunteer Act of 2007** ".
 
-**SEC. 3._Statement of Goals and Objectives._** – To carry out the foregoing policy, the government shall pursue the attainment of the following goals and objectives:
+## SEC. 2
+
+_Declaration of Policy._ \- It shall be the policy of the State to promote the participation of the various sectors of the Filipino society, and as necessary, international and foreign volunteer organizations in public and civic affairs, and adopt and strengthen the practice of volunteerism as a strategy in order to attain national development and international understanding. The inculcation of volunteerism as a way of life shall rekindle in every Filipino the time-honored tradition of bayanihan to foster social justice, solidarity and sustainable development.
+
+## SEC. 3
+
+_Statement of Goals and Objectives._ – To carry out the foregoing policy, the government shall pursue the attainment of the following goals and objectives:
 
 (a) To provide a policy framework on volunteerism that shall underscore the fundamental principles necessary to harness and harmonize the broad and diverse efforts of the voluntary sector in the country into an integrative and effective partnership for local and national development as well as international cooperation and understanding;
 
@@ -40,7 +46,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (c) To provide an effective institutional mechanism to strengthen the role of the Philippine National Volunteer Service Coordinating Agency (PNVSCA) to perform its mandates and to oversee the implementation of this Act.
 
-**SEC. 4._Definition of Terms._** – For purposes of this Act, the following shall mean:
+## SEC. 4
+
+_Definition of Terms._ – For purposes of this Act, the following shall mean:
 
 (a) "Volunteerism" refers to an act involving a wide range of activities, including traditional forms of mutual aid and developmental interventions that provides an enabling and empowering environment both on the part of the beneficiary receiving and the volunteer rendering the act, undertaken for reasons arising from sociodevelopmental, business or corporate orientation, commitment or conviction for the attainment of the public good and where monetary and other incentives or reward are not the primary motivating factors.
 
@@ -50,7 +58,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (d) "Voluntary sector" refers to those sectors of Philippine society that organizes themselves into volunteers to take advocacy and action primarily for local and national development as well as international cooperation and understanding.
 
-**SEC. 5._Role and Modalities of Volunteerism in the Private Sector._** –
+## SEC. 5
+
+_Role and Modalities of Volunteerism in the Private Sector._ –
 
 (a) Volunteerism in the academe includes, but is not limited to, provision of technical assistance and sharing of technology within the academic circle, target communities and other clienteles and the upgrading of the quality of education and curriculum methodologies while providing career enhancement and exposure to the volunteers;
 
@@ -58,13 +68,21 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (c) Volunteerism by not-for-profit organizations includes, but is not limited to, provision of complementary service delivery and human resource development in underserved communities as well as advocacy and articulation of the cause of the disadvantaged and vulnerable groups.
 
-**SEC. 6._Role and Modalities of Volunteerism by Foreign Volunteer Organizations._** – Volunteerism by foreign volunteer organizations includes, but is not limited to, provision of technical assistance not locally accessible in priority development areas within the framework of technical cooperation and socio cultural exchange.
+## SEC. 6
 
-**SEC. 7._Role of the Government._** – The government shall coordinate, facilitate and encourage the participation of the voluntary sector in the promotion, utilization and recognition of volunteerism in national development and international cooperation. This shall be achieved through the provision of enabling and conducive environment for volunteer work.
+_Role and Modalities of Volunteerism by Foreign Volunteer Organizations._ – Volunteerism by foreign volunteer organizations includes, but is not limited to, provision of technical assistance not locally accessible in priority development areas within the framework of technical cooperation and socio cultural exchange.
 
-**SEC. 8._The Philippine National Volunteer Service Coordinating Agency (PNVSCA) ._** – The PNVSCA created by Executive Order No. 134, as amended, shall undertake the implementation and execution of the provisions of this Act.
+## SEC. 7
 
-**SEC. 9._Mandates of the PNVSCA._** – The PNVSCA shall have the following functions:
+_Role of the Government._ – The government shall coordinate, facilitate and encourage the participation of the voluntary sector in the promotion, utilization and recognition of volunteerism in national development and international cooperation. This shall be achieved through the provision of enabling and conducive environment for volunteer work.
+
+## SEC. 8
+
+_The Philippine National Volunteer Service Coordinating Agency (PNVSCA) ._ – The PNVSCA created by Executive Order No. 134, as amended, shall undertake the implementation and execution of the provisions of this Act.
+
+## SEC. 9
+
+_Mandates of the PNVSCA._ – The PNVSCA shall have the following functions:
 
 (a) Review and formulate policies and guidelines concerning the national volunteer service program consistent with national development priorities;
 
@@ -82,7 +100,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 (h) Administer all the PNVSCA funds from all sources including foreign aid in accordance with accounting and auditing requirements. For this purpose, the executive director of the PNVSCA shall submit an organizational plan upon advice of the MultiSectoral Advisory Body to the Department of Budget and Management.
 
-**SEC. 10._The MultiSectoral Advisory Body (MSAB) ._** – To assist the PNVSCA, the Body created under Executive Order No. 635 shall be reconstituted with the following members:
+## SEC. 10
+
+_The MultiSectoral Advisory Body (MSAB) ._ – To assist the PNVSCA, the Body created under Executive Order No. 635 shall be reconstituted with the following members:
 
 (a) The National Economic and Development Authority (NEDA) ;
 
@@ -108,7 +128,9 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 The MSAB may call on representatives of other government agencies and/or the private sector to serve as resource person/s on volunteerism as the need arises.
 
-**SEC. 11._Functions of the MSAB._** – The MSAB shall have the following functions:
+## SEC. 11
+
+_Functions of the MSAB._ – The MSAB shall have the following functions:
 
 (a) Provide advice in the formulation of policies and guidelines for the national volunteer service program;
 
@@ -116,7 +138,9 @@ The MSAB may call on representatives of other government agencies and/or the pri
 
 (c) Serve as a forum to enhance and strengthen linkages between and among volunteer groups and communities.
 
-**SEC. 12._Special Provisions._** –
+## SEC. 12
+
+_Special Provisions._ –
 
 (a) Establishment of a National Volunteer Infrastructure and Forum. – The PNVSCA shall develop and establish a system of national registration and networking to improve coordination of volunteers and volunteer service organizations to widen horizon for sharing and complementing information, experiences and resources.
 
@@ -128,13 +152,21 @@ The MSAB may call on representatives of other government agencies and/or the pri
 
 (e) Visa Privileges for Foreign Volunteers. – Foreign volunteers approved for assignment by the PNVSCA as well as their legal dependents may be entitled to 47 (a) (2) visa with multiple entry privileges and corresponding exemption from visa and immigration fees and other related processing/application fees or charges. Foreign nationals already in the Philippines who have been approved for volunteer assignment by the PNVSCA may avail of the above visa category and privileges upon endorsement by the PNVSCA to the DOJ.
 
-**SEC. 13._Institutional Mechanism for Research, Documentation, Recognition and Modeling of Best Volunteer Practices._** – To carry out the purposes of this Act, an institutional mechanism shall be established, to be spearheaded and administered by the PNVSCA, for continuing research, documentation, recognition and modeling of best volunteer practices as an important component of implementing development programs and projects and undertaking humanitarian activities. For this purpose, the PNVSCA in consultation with any and all relevant government agencies, NGOs, private institutions and persons shall effect the setting up of the mechanism as well as determine all requirements and, or necessary acts to ensure its effective implementation.
+## SEC. 13
 
-**SEC. 14._Implementing Rules and Regulations._** – The PNVSCA, with advice from the MSAB, shall promulgate the rules and regulations to effectively implement the provisions of this Act.
+_Institutional Mechanism for Research, Documentation, Recognition and Modeling of Best Volunteer Practices._ – To carry out the purposes of this Act, an institutional mechanism shall be established, to be spearheaded and administered by the PNVSCA, for continuing research, documentation, recognition and modeling of best volunteer practices as an important component of implementing development programs and projects and undertaking humanitarian activities. For this purpose, the PNVSCA in consultation with any and all relevant government agencies, NGOs, private institutions and persons shall effect the setting up of the mechanism as well as determine all requirements and, or necessary acts to ensure its effective implementation.
 
-**SEC. 15._Repealing Clause._** – All laws, decrees, executive orders and rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act, including Section 12 of Executive Order No. 635 are hereby deemed repealed or modified accordingly.
+## SEC. 14
 
-**SEC. 16._Effectivity._** \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in at least two newspapers of general circulation.
+_Implementing Rules and Regulations._ – The PNVSCA, with advice from the MSAB, shall promulgate the rules and regulations to effectively implement the provisions of this Act.
+
+## SEC. 15
+
+_Repealing Clause._ – All laws, decrees, executive orders and rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act, including Section 12 of Executive Order No. 635 are hereby deemed repealed or modified accordingly.
+
+## SEC. 16
+
+_Effectivity._ \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in at least two newspapers of general circulation.
 
 Approved,
 

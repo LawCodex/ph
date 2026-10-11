@@ -39,7 +39,7 @@ Paragraph (A) of Section twenty-nine of the same Act, as amended, is further ame
 
 Section twenty-nine of the same Act, as amended is further amended by adding after paragraph _(h)_ thereof a new paragraph to be known as paragraph _(i)_ which shall read as follows:
 
-"_(i)_ " Twelve eighth assistant city fiscals, at nine hundred pesos less than that provided for the seventh assistant city fiscals in the next preceding paragraph."1âшphi1
+"_(i)_ " Twelve eighth assistant city fiscals, at nine hundred pesos less than that provided for the seventh assistant city fiscals in the next preceding paragraph."
 
 ## Section 4
 

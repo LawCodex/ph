@@ -543,7 +543,7 @@ Article 265 of the same Act is hereby amended to read as follows:
 
 "Art. 265. _Less serious physical injuries._ \- Any person who shall inflict upon another physical injuries not described in the preceding articles, but which shall incapacitate the offended party for labor for ten (10) days or more, or shall require medical assistance for the same period, shall be guilty of less serious physical injuries and shall suffer the penalty of _arresto mayor._
 
-"Whenever less serious physical injuries shall have been inflicted with the manifest intent to insult or offend the injured person, or under circumstances adding ignominy to the offense, in addition to the penalty of _arresto mayor_ , a fine not exceeding Fifty thousand pesos (₱50,000) shall be imposed.Ꮮαwρhi৷
+"Whenever less serious physical injuries shall have been inflicted with the manifest intent to insult or offend the injured person, or under circumstances adding ignominy to the offense, in addition to the penalty of _arresto mayor_ , a fine not exceeding Fifty thousand pesos (₱50,000) shall be imposed.
 
 "Any less serious physical injuries inflicted upon the offender’s parents, ascendants, guardians, curators, teachers, or persons of rank, or persons in authority, shall be punished by prisión correccional in its minimum and medium periods: _Provided,_ That in the case of persons in authority, the deed does not constitute the crime of assault upon such persons."
 
@@ -613,7 +613,7 @@ Article 278 of the same Act is hereby amended to read as follows:
 
 "4. Any ascendant, guardian, teacher or person entrusted in any capacity with the care of a child under sixteen (16) Years of age, who shall deliver such child gratuitously to any person following any of the callings enumerated in paragraph 2 hereof, or to any habitual vagrant or beggar.
 
-"If the delivery shall have been made in consideration of any price, compensation, or promise, the penalty shall in every case be imposed in its maximum period.1âwphi1
+"If the delivery shall have been made in consideration of any price, compensation, or promise, the penalty shall in every case be imposed in its maximum period.
 
 "In either case, the guardian or curator convicted shall also be removed from office as guardian or curator; and in the case of the parents of the child, they may be deprived, temporarily or perpetually, in the discretion of the court, of their parental authority.
 
@@ -955,7 +955,7 @@ Article 365 of the same Act, as amended by Republic Act No. 1790, is hereby furt
 
 "A fine not exceeding Forty thousand pesos (₱40.000) and censure shall be imposed upon any person, who, by simple imprudence or negligence, shall cause some wrong which, if done maliciously, would have constituted a light felony.
 
-"In the imposition of these penalties, the court shall exercise their sound discretion, without regard to the rules prescribed in Article 64.1âwphi1
+"In the imposition of these penalties, the court shall exercise their sound discretion, without regard to the rules prescribed in Article 64.
 
 "The provisions contained in this article shall not be applicable:
 
@@ -979,7 +979,7 @@ _Repealing Clause._ \- All laws, executive orders, or administrative orders, rul
 
 ## Section 100
 
-. _Retroactive Effect._ \- This Act shall have retroactive effect to the extent that it is favorable to the accused or person serving sentence by final judgment.1âwphi1
+. _Retroactive Effect._ \- This Act shall have retroactive effect to the extent that it is favorable to the accused or person serving sentence by final judgment.
 
 ## Section 101
 

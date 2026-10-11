@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Burgos, Baybay, Bitang, Sipan and San Mateo; and the sitios of Patag, Natin-ao and Mataub in the Municipality of Sapao, Province of Surigao del Norte, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Burgos, same province.1avvphi1 The seat of government of the new municipality shall be the present site of Barrio Burgos.
+Barrios Burgos, Baybay, Bitang, Sipan and San Mateo; and the sitios of Patag, Natin-ao and Mataub in the Municipality of Sapao, Province of Surigao del Norte, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Burgos, same province. The seat of government of the new municipality shall be the present site of Barrio Burgos.
 
 ## Section 2
 

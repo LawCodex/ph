@@ -30,7 +30,7 @@ Section fifty-eight of Act Numbered Four hundred ninety-six, known as the Land R
 
 ## Section 2
 
-All laws and regulations, or parts thereof inconsistent with the provisions of this Act, are hereby repealed.1âшphi1
+All laws and regulations, or parts thereof inconsistent with the provisions of this Act, are hereby repealed.
 
 ## Section 3
 

@@ -44,7 +44,7 @@ The construction, establishment and operation of the Sarangani Sports Training C
 
 ## Section 4
 
-The Chairman of the PSC shall immediately include in the Commission’s program the necessary funding requirements of the Sarangani Sports Training Center.1âwphi1
+The Chairman of the PSC shall immediately include in the Commission’s program the necessary funding requirements of the Sarangani Sports Training Center.
 
 ## Section 5
 

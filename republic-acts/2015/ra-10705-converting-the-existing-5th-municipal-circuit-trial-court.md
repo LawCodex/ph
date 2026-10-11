@@ -45,7 +45,7 @@ __The Chief Justice of the Supreme Court is hereby authorized to create new and 
 
 ## SECTION 4
 
-__The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include the funds necessary to fully operationalize the courts created by this Act in the Annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel. 1âwphi1
+__The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include the funds necessary to fully operationalize the courts created by this Act in the Annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
 
 ## SECTION 5
 

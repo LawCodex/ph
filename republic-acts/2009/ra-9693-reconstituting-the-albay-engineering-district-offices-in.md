@@ -34,9 +34,9 @@ The Albay District Engineering Offices, under the supervision of the Department 
 
 ## Section 2
 
-The Albay First District Engineering Office to be located in Tabaco City shall comprise the City of Tabaco and the municipalities of Tiwi, Malinao, Malilipot, Bacacay and Sto. Domingo. The existing district engineering office located in Legaspi City shall be known as the Albay Second District Engineering Office and shall comprise the City of Legaspi and the municipalities of Rapu-Rapu, Manito, Camalig and Daraga.ℒαwρhi৷
+The Albay First District Engineering Office to be located in Tabaco City shall comprise the City of Tabaco and the municipalities of Tiwi, Malinao, Malilipot, Bacacay and Sto. Domingo. The existing district engineering office located in Legaspi City shall be known as the Albay Second District Engineering Office and shall comprise the City of Legaspi and the municipalities of Rapu-Rapu, Manito, Camalig and Daraga.
 
-The Albay Third District Engineering Office located in Polangui shall comprise the City of Ligao and the municipalities of Guinobatan, Jovellar, Pio Duran, Oas, Polangui and Libon.ᇈWᑭHIL
+The Albay Third District Engineering Office located in Polangui shall comprise the City of Ligao and the municipalities of Guinobatan, Jovellar, Pio Duran, Oas, Polangui and Libon.
 
 ## Section 3
 

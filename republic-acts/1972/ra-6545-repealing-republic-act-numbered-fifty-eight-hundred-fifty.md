@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Republic Act Numbered Fifty-eight hundred fifty-five which amended Republic Act Numbered Forty-six hundred nineteen, entitled "An Act Granting Visayan Electric Company, Inc., a Franchise for Electric Light, Heat and Power System in the City of Dumaguete and in the Municipalities of Bacong, Dauin and Valencia, all in the Province of Oriental Negros," is hereby repealed and all the provisions of the said Republic Act Numbered Forty Six hundred nineteen are hereby revived.1âшphi1
+Republic Act Numbered Fifty-eight hundred fifty-five which amended Republic Act Numbered Forty-six hundred nineteen, entitled "An Act Granting Visayan Electric Company, Inc., a Franchise for Electric Light, Heat and Power System in the City of Dumaguete and in the Municipalities of Bacong, Dauin and Valencia, all in the Province of Oriental Negros," is hereby repealed and all the provisions of the said Republic Act Numbered Forty Six hundred nineteen are hereby revived.
 
 ## Section 2
 

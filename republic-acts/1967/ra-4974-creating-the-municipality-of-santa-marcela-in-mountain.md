@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Sipa Annex, San Antonio, Barocboc and Maleckeg in the Municipality of Luna; and Barrios Sipa, Marcela and Consuelo in the Municipality of Flora, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Santa Marcela, same province.1avvphi1 The seat of the municipal government shall be in Barrio Marcela.
+Barrios Sipa Annex, San Antonio, Barocboc and Maleckeg in the Municipality of Luna; and Barrios Sipa, Marcela and Consuelo in the Municipality of Flora, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Santa Marcela, same province. The seat of the municipal government shall be in Barrio Marcela.
 
 ## Section 2
 

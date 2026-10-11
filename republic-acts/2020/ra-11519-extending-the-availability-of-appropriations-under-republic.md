@@ -49,7 +49,7 @@ _Applicability to Local Government Units (LGUs) and the Government Financial Ins
 
 ## Section 5
 
-_Allotment Releases from the Standby Fund._ \- Appropriations covered by the standby fund as provided in Section 10 of the Bayanihan to Recover as One Act shall be available for release, obligation and disbrusement up to June 30, 2021, subject to the fulfillment of the conditionalities stipulated under the same section of the Bayanihan to Recover as One Act.ℒαwρhi৷
+_Allotment Releases from the Standby Fund._ \- Appropriations covered by the standby fund as provided in Section 10 of the Bayanihan to Recover as One Act shall be available for release, obligation and disbrusement up to June 30, 2021, subject to the fulfillment of the conditionalities stipulated under the same section of the Bayanihan to Recover as One Act.
 
 ## Section 6
 

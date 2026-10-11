@@ -106,7 +106,7 @@ _Exceptions._ \- It shall not be unlawful for an employer to set age limitations
 
 (c) The intent is to observe the terms of a bona fide employee retirement or a voluntary early retirement plan consistent with the purpose of this Act: _Provided,_ That such retirement or voluntary retirement plan is in accordance with the Labor Code, as amended, and other related laws; or
 
-(d) The action is duly certified by the Secretary of Labor and Employment in accordance with the purpose of this Act.1awp++i1
+(d) The action is duly certified by the Secretary of Labor and Employment in accordance with the purpose of this Act.
 
 ## Section 7
 
@@ -118,7 +118,7 @@ _Education and Research Programs._ \- The Department of Labor and Employment (DO
 
 (a) Conduct studies and researches on minimizing impediments to the employment of older persons, and furnish such information to employers, labor groups, and the general public; and
 
-(b) Promote programs, in coordination with public and private agencies, that will further enhance the knowledge and skills of every individual regardless of age.1âwphi1
+(b) Promote programs, in coordination with public and private agencies, that will further enhance the knowledge and skills of every individual regardless of age.
 
 ## Section 9
 

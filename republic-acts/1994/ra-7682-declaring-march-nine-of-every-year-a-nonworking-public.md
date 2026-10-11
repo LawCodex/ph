@@ -37,6 +37,6 @@ March nine of every year is hereby declared a special nonworking public holiday 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, February 23, 1994.

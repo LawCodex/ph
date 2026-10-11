@@ -92,7 +92,7 @@ Section 2 of Republic Act No. 7336 is hereby amended by adding eight new section
 
 "In the appointment of professors or instructors, no religious test shall be applied nor shall religious opinions of affiliations of the appointee be made a matter of examination or inquiry.
 
-"Section 2-H. There shall be a Secretary of the College, appointed by the Board of Trustees upon the recommendation of the President of the College.1aшphi1 He shall be the Secretary of the Board and also the Secretary of the College and shall keep such records of the College as may be determined by the Board of Trustees."
+"Section 2-H. There shall be a Secretary of the College, appointed by the Board of Trustees upon the recommendation of the President of the College. He shall be the Secretary of the Board and also the Secretary of the College and shall keep such records of the College as may be determined by the Board of Trustees."
 
 ## Section 2
 

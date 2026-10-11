@@ -44,6 +44,6 @@ Such sum as may be necessary for the same purpose in the subsequent years shall 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 17, 1972.

@@ -32,7 +32,7 @@ There shall be established, under the supervision of the Department of Education
 
 ## Section 2
 
-the Secretary of Education, Culture and Sports shall implement this Act so as to make the Panamao National High School in operation during the first school term after the effectivity of this Act.1aшphi1
+the Secretary of Education, Culture and Sports shall implement this Act so as to make the Panamao National High School in operation during the first school term after the effectivity of this Act.
 
 ## Section 3
 

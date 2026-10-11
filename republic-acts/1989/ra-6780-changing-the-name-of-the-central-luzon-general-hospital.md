@@ -33,7 +33,7 @@ The Secretary of Health is hereby directed to implement the provisions of this A
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

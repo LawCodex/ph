@@ -36,7 +36,7 @@ The names of the following barrios in the Municipality of Naval, Province of Ley
 
 5\. Barrio San Isidro to Barrio Locso-on; and
 
-6\. Barrio Sulphur Valley to Barrio Villa Caneja.1aшphi1
+6\. Barrio Sulphur Valley to Barrio Villa Caneja.
 
 ## Section 2
 

@@ -45,7 +45,7 @@ The Director of Lands, before making the sale of the property mentioned in Secti
 
 ## Section 3
 
-The selling price of each lot shall not be more than five pesos per square meter. The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eight equal monthly installments, with an annual interest at the rate of four per centum on all installments due and payable.1âшphi1 They may also pay the price in cash or more than one installment at one time.
+The selling price of each lot shall not be more than five pesos per square meter. The purchasers shall be allowed, with no down payment whatsoever, fifteen years from the date of purchase within which to pay the purchase price in one hundred eight equal monthly installments, with an annual interest at the rate of four per centum on all installments due and payable. They may also pay the price in cash or more than one installment at one time.
 
 ## Section 4
 

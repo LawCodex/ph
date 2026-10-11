@@ -50,7 +50,7 @@ Approved,
 | (Sgd.) FRANKLIN M. DRILON President of Senate | (Sgd.) MANUEL B. VILLAR JR. Speaker of the House of Representatives |
 |---|---|
 
-This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 15, 1999 and June 5, 2000, respectively.ℒαwρhi৷
+This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 15, 1999 and June 5, 2000, respectively.
 
 | (Sgd.) OSCAR G. YABES Secretary of Senate | (Sgd.) ROBERTO P. NAZARENO Secretary General House of Representatives |
 |---|---|

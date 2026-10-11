@@ -43,7 +43,7 @@ The amount necessary for the implementation of this Act shall be charged against
 
 ## Section 5
 
-This Act shall take effect upon its approval.Ꮮαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved,
 

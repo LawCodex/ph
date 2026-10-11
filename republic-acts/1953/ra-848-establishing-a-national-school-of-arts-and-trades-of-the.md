@@ -24,7 +24,7 @@ Be it enacted by the Senate and House or Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a national school of arts and trades of the Philippine School of Arts and Trades type, in the Province of Negros Occidental.1a⍵⍴h!1
+There is hereby established a national school of arts and trades of the Philippine School of Arts and Trades type, in the Province of Negros Occidental.
 
 ## Section 2
 

@@ -31,9 +31,13 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ### CHAPTER 1 — TITLE, POLICY AND DEFINITION OF TERMS
 
-**Section 1._Short Title and Scope._** \- This Act shall be known as the **"Juvenile Justice and Welfare Act of 2006."** It shall cover the different stages involving children at risk and children in conflict with the law from prevention to rehabilitation and reintegration.
+#### Section 1
 
-**SEC. 2._Declaration of State Policy._** \- The following State policies shall be observed at all times:
+_Short Title and Scope._ \- This Act shall be known as the **"Juvenile Justice and Welfare Act of 2006."** It shall cover the different stages involving children at risk and children in conflict with the law from prevention to rehabilitation and reintegration.
+
+#### SEC. 2
+
+_Declaration of State Policy._ \- The following State policies shall be observed at all times:
 
 (a) The State recognizes the vital role of children and youth in nation building and shall promote and protect their physical, moral, spiritual, intellectual and social well-being. It shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs.
 
@@ -47,9 +51,13 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 (f) The State shall apply the principles of restorative justice in all its laws, policies and programs applicable to children in conflict with the law.
 
-**SEC. 3._Liberal Construction of this Act._** \- In case of doubt, the interpretation of any of the provisions of this Act, including its implementing rules and regulations (IRRs), shall be construed liberally in favor of the child in conflict with the law.
+#### SEC. 3
 
-**SEC. 4._Definition of Terms._** \- The following terms as used in this Act shall be defined as follows:
+_Liberal Construction of this Act._ \- In case of doubt, the interpretation of any of the provisions of this Act, including its implementing rules and regulations (IRRs), shall be construed liberally in favor of the child in conflict with the law.
+
+#### SEC. 4
+
+_Definition of Terms._ \- The following terms as used in this Act shall be defined as follows:
 
 (a) "Bail" refers to the security given for the release of the person in custody of the law, furnished by him/her or a bondsman, to guarantee his/her appearance before any court. Bail may be given in the form of corporate security, property bond, cash deposit, or recognizance.
 
@@ -113,7 +121,9 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ### CHAPTER 2 — PRINCIPLES IN THE ADMINISTRATION OF JUVENILE JUSTICE AND WELFARE
 
-**SEC. 5._Rights of the Child in Conflict with the Law._** \- Every child in conflict with the law shall have the following rights, including but not limited to:
+#### SEC. 5
+
+_Rights of the Child in Conflict with the Law._ \- Every child in conflict with the law shall have the following rights, including but not limited to:
 
 (a) the right not to be subjected to torture or other cruel, inhuman or degrading treatment or punishment;
 
@@ -147,13 +157,17 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The State further adopts the provisions of the United Nations Standard Minimum Rules for the Administration of Juvenile Justice or "Beijing Rules", United Nations Guidelines for the Prevention of Juvenile Delinquency or the "Riyadh Guidelines", and the United Nations Rules for the Protection of Juveniles Deprived of Liberty.
 
-**SEC. 6._Minimum Age of Criminal Responsibility._** \- A child fifteen (15) years of age or under at the time of the commission of the offense shall be exempt from criminal liability. However, the child shall be subjected to an intervention program pursuant to Section 20 of this Act.
+#### SEC. 6
+
+_Minimum Age of Criminal Responsibility._ \- A child fifteen (15) years of age or under at the time of the commission of the offense shall be exempt from criminal liability. However, the child shall be subjected to an intervention program pursuant to Section 20 of this Act.
 
 A child above fifteen (15) years but below eighteen (18) years of age shall likewise be exempt from criminal liability and be subjected to an intervention program, unless he/she has acted with discernment, in which case, such child shall be subjected to the appropriate proceedings in accordance with this Act.
 
 The exemption from criminal liability herein established does not include exemption from civil liability, which shall be enforced in accordance with existing laws.
 
-**SEC. 7._Determination ofAge._** \- The child in conflict with the law shall enjoy the presumption of minority. He/She shall enjoy all the rights of a child in conflict with the law until he/she is proven to be eighteen (18) years old or older. The age of a child may be determined from the child's birth certificate, baptismal certificate or any other pertinent documents. In the absence of these documents, age may be based on information from the child himself/herself, testimonies of other persons, the physical appearance of the child and other relevant evidence. In case of doubt as to the age of the child, it shall be resolved in his/her favor.
+#### SEC. 7
+
+_Determination ofAge._ \- The child in conflict with the law shall enjoy the presumption of minority. He/She shall enjoy all the rights of a child in conflict with the law until he/she is proven to be eighteen (18) years old or older. The age of a child may be determined from the child's birth certificate, baptismal certificate or any other pertinent documents. In the absence of these documents, age may be based on information from the child himself/herself, testimonies of other persons, the physical appearance of the child and other relevant evidence. In case of doubt as to the age of the child, it shall be resolved in his/her favor.
 
 Any person contesting the age of the child in conflict with the law prior to the filing of the information in any appropriate court may file a case in a summary proceeding for the determination of age before the Family Court which shall decide the case within twenty-four (24) hours from receipt of the appropriate pleadings of all interested parties.
 
@@ -163,7 +177,9 @@ In all proceedings, law enforcement officers, prosecutors, judges and other gove
 
 ## TITLE II — STRUCTURES IN THE ADMINISTRATION OF JUVENILE JUSTICE AND WELFARE
 
-**SEC. 8._Juvenile Justice and Welfare Council (JJWC)._** \- A Juvenile Justice and Welfare Council (JJWC) is hereby created and attached to the Department of Justice and placed under its administrative supervision. The JJWC shall be chaired by an undersecretary of the Department of Social Welfare and Development. It shall ensure the effective implementation of this Act and coordination among the following agencies:
+#### SEC. 8
+
+_Juvenile Justice and Welfare Council (JJWC)._ \- A Juvenile Justice and Welfare Council (JJWC) is hereby created and attached to the Department of Justice and placed under its administrative supervision. The JJWC shall be chaired by an undersecretary of the Department of Social Welfare and Development. It shall ensure the effective implementation of this Act and coordination among the following agencies:
 
 (a) Council for the Welfare of Children (CWC);
 
@@ -213,7 +229,9 @@ The JJWC shall convene within fifteen (15) days from the effectivity of this Act
 
 The JJWC shall coordinate with the Office of the Court Administrator and the Philippine Judicial Academy to ensure the realization of its mandate and the proper discharge of its duties and functions, as herein provided.
 
-**SEC. 9._Duties and Functions of the JJWC._** \- The JJWC shall have the following duties and functions:
+#### SEC. 9
+
+_Duties and Functions of the JJWC._ \- The JJWC shall have the following duties and functions:
 
 (a) To oversee the implementation of this Act;
 
@@ -247,39 +265,59 @@ The JJWC shall set up a mechanism to ensure that children are involved in resear
 
 (k) To perform such other functions as may be necessary to implement the provisions of this Act.
 
-**SEC. 10._Policies and Procedures on Juvenile Justice and Welfare._** \- All government agencies enumerated in Section 8 shall, with the assistance of the JJWC and within one (1) year from the effectivity of this Act, draft policies and procedures consistent with the standards set in the law. These policies and procedures shall be modified accordingly in consultation with the JJWC upon the completion of the national juvenile intervention program as provided under Section 9 (d).
+#### SEC. 10
 
-**SEC. 11._Child Rights Center (CRC)._** \- The existing Child Rights Center of the Commission on Human Rights shall ensure that the status, rights and interests of children are upheld in accordance with the Constitution and international instruments on human rights. The CHR shall strengthen the monitoring of government compliance of all treaty obligations, including the timely and regular submission of reports before the treaty bodies, as well as the implementation and dissemination of recommendations and conclusions by government agencies as well as NGOs and civil society.
+_Policies and Procedures on Juvenile Justice and Welfare._ \- All government agencies enumerated in Section 8 shall, with the assistance of the JJWC and within one (1) year from the effectivity of this Act, draft policies and procedures consistent with the standards set in the law. These policies and procedures shall be modified accordingly in consultation with the JJWC upon the completion of the national juvenile intervention program as provided under Section 9 (d).
+
+#### SEC. 11
+
+_Child Rights Center (CRC)._ \- The existing Child Rights Center of the Commission on Human Rights shall ensure that the status, rights and interests of children are upheld in accordance with the Constitution and international instruments on human rights. The CHR shall strengthen the monitoring of government compliance of all treaty obligations, including the timely and regular submission of reports before the treaty bodies, as well as the implementation and dissemination of recommendations and conclusions by government agencies as well as NGOs and civil society.
 
 ## TITLE III — PREVENTION OF JUVENILE DELINQUENCY
 
 ### CHAPTER 1 — THE ROLE OF THE DIFFERENT SECTORS
 
-**SEC. 12._The Family._** \- The family shall be responsible for the primary nurturing and rearing of children which is critical in delinquency prevention. As far as practicable and in accordance with the procedures of this Act, a child in conflict with the law shall be maintained in his/her family.
+#### SEC. 12
 
-**SEC. 13._The Educational System._** \- Educational institutions shall work together with families, community organizations and agencies in the prevention of juvenile delinquency and in the rehabilitation and reintegration of child in conflict with the law. Schools shall provide adequate, necessary and individualized educational schemes for children manifesting difficult behavior and children in conflict with the law. In cases where children in conflict with the law are taken into custody or detained in rehabilitation centers, they should be provided the opportunity to continue learning under an alternative learning system with basic literacy program or non- formal education accreditation equivalency system.
+_The Family._ \- The family shall be responsible for the primary nurturing and rearing of children which is critical in delinquency prevention. As far as practicable and in accordance with the procedures of this Act, a child in conflict with the law shall be maintained in his/her family.
 
-**SEC. 14._The Role of the Mass Media._** \- The mass media shall play an active role in the promotion of child rights, and delinquency prevention by relaying consistent messages through a balanced approach. Media practitioners shall, therefore, have the duty to maintain the highest critical and professional standards in reporting and covering cases of children in conflict with the law. In all publicity concerning children, the best interest of the child should be the primordial and paramount concern. Any undue, inappropriate and sensationalized publicity of any case involving a child in conflict with the law is hereby declared a violation of the child's rights.
+#### SEC. 13
 
-**SEC. 15._Establishment and Strengthening of Local Councils for the Protection of Children._** \- Local Councils for the Protection of Children (LCPC) shall be established in all levels of local government, and where they have already been established, they shall be strengthened within one (1) year from the effectivity of this Act. Membership in the LCPC shall be chosen from among the responsible members of the community, including a representative from the youth sector, as well as representatives from government and private agencies concerned with the welfare of children.
+_The Educational System._ \- Educational institutions shall work together with families, community organizations and agencies in the prevention of juvenile delinquency and in the rehabilitation and reintegration of child in conflict with the law. Schools shall provide adequate, necessary and individualized educational schemes for children manifesting difficult behavior and children in conflict with the law. In cases where children in conflict with the law are taken into custody or detained in rehabilitation centers, they should be provided the opportunity to continue learning under an alternative learning system with basic literacy program or non- formal education accreditation equivalency system.
+
+#### SEC. 14
+
+_The Role of the Mass Media._ \- The mass media shall play an active role in the promotion of child rights, and delinquency prevention by relaying consistent messages through a balanced approach. Media practitioners shall, therefore, have the duty to maintain the highest critical and professional standards in reporting and covering cases of children in conflict with the law. In all publicity concerning children, the best interest of the child should be the primordial and paramount concern. Any undue, inappropriate and sensationalized publicity of any case involving a child in conflict with the law is hereby declared a violation of the child's rights.
+
+#### SEC. 15
+
+_Establishment and Strengthening of Local Councils for the Protection of Children._ \- Local Councils for the Protection of Children (LCPC) shall be established in all levels of local government, and where they have already been established, they shall be strengthened within one (1) year from the effectivity of this Act. Membership in the LCPC shall be chosen from among the responsible members of the community, including a representative from the youth sector, as well as representatives from government and private agencies concerned with the welfare of children.
 
 The local council shall serve as the primary agency to coordinate with and assist the LGU concerned for the adoption of a comprehensive plan on delinquency prevention, and to oversee its proper implementation.
 
 One percent (1%) of the internal revenue allotment of barangays, municipalities and cities shall be allocated for the strengthening and implementation of the programs of the LCPC: Provided, That the disbursement of the fund shall be made by the LGU concerned.
 
-**SEC. 16._Appointment of Local Social Welfare and Development Officer._** \- All LGUs shall appoint a duly licensed social worker as its local social welfare and development officer tasked to assist children in conflict with the law.
+#### SEC. 16
 
-**SEC. 17._The Sangguniang Kabataan._** \- The Sangguniang Kabataan (SK) shall coordinate with the LCPC in the formulation and implementation of juvenile intervention and diversion programs in the community.
+_Appointment of Local Social Welfare and Development Officer._ \- All LGUs shall appoint a duly licensed social worker as its local social welfare and development officer tasked to assist children in conflict with the law.
+
+#### SEC. 17
+
+_The Sangguniang Kabataan._ \- The Sangguniang Kabataan (SK) shall coordinate with the LCPC in the formulation and implementation of juvenile intervention and diversion programs in the community.
 
 ### CHAPTER 2 — COMPREHENSIVE JUVENILE INTERVENTION PROGRAM
 
-**SEC. 18._Development of a Comprehensive Juvenile Intervention Program._** \- A Comprehensive juvenile intervention program covering at least a 3-year period shall be instituted in LGUs from the barangay to the provincial level.
+#### SEC. 18
+
+_Development of a Comprehensive Juvenile Intervention Program._ \- A Comprehensive juvenile intervention program covering at least a 3-year period shall be instituted in LGUs from the barangay to the provincial level.
 
 The LGUs shall set aside an amount necessary to implement their respective juvenile intervention programs in their annual budget.
 
 The LGUs, in coordination with the LCPC, shall call on all sectors concerned, particularly the child-focused institutions, NGOs, people's organizations, educational institutions and government agencies involved in delinquency prevention to participate in the planning process and implementation of juvenile intervention programs. Such programs shall be implemented consistent with the national program formulated and designed by the JJWC. The implementation of the comprehensive juvenile intervention program shall be reviewed and assessed annually by the LGUs in coordination with the LCPC. Results of the assessment shall be submitted by the provincial and city governments to the JJWC not later than March 30 of every year.
 
-**SEC. 19._Community-based Programs on Juvenile Justice and Welfare._** \- Community-based programs on juvenile justice and welfare shall be instituted by the LGUs through the LCPC, school, youth organizations and other concerned agencies. The LGUs shall provide community-based services which respond to the special needs, problems, interests and concerns of children and which offer appropriate counseling and guidance to them and their families. These programs shall consist of three levels:
+#### SEC. 19
+
+_Community-based Programs on Juvenile Justice and Welfare._ \- Community-based programs on juvenile justice and welfare shall be instituted by the LGUs through the LCPC, school, youth organizations and other concerned agencies. The LGUs shall provide community-based services which respond to the special needs, problems, interests and concerns of children and which offer appropriate counseling and guidance to them and their families. These programs shall consist of three levels:
 
 (a) Primary intervention includes general measures to promote social justice and equal opportunity, which tackle perceived root causes of offending;
 
@@ -289,13 +327,17 @@ The LGUs, in coordination with the LCPC, shall call on all sectors concerned, pa
 
 ## TITLE IV — TREATMENT OF CHILDREN BELOW THE AGE OF CRIMINAL RESPONSIBILITY
 
-**SEC. 20._Children Below the Age of Criminal Responsibility._** \- If it has been determined that the child taken into custody is fifteen (15) years old or below, the authority which will have an initial contact with the child has the duty to immediately release the child to the custody of his/her parents or guardian, or in the absence thereof, the child's nearest relative. Said authority shall give notice to the local social welfare and development officer who will determine the appropriate programs in consultation with the child and to the person having custody over the child. If the parents, guardians or nearest relatives cannot be located, or if they refuse to take custody, the child may be released to any of the following: a duly registered nongovernmental or religious organization; a barangay official or a member of the Barangay Council for the Protection of Children (BCPC); a local social welfare and development officer; or when and where appropriate, the DSWD. If the child referred to herein has been found by the Local Social Welfare and Development Office to be abandoned, neglected or abused by his parents, or in the event that the parents will not comply with the prevention program, the proper petition for involuntary commitment shall be filed by the DSWD or the Local Social Welfare and Development Office pursuant to Presidential Decree No. 603, otherwise ,known as "The Child and Youth Welfare Code".
+#### SEC. 20
+
+_Children Below the Age of Criminal Responsibility._ \- If it has been determined that the child taken into custody is fifteen (15) years old or below, the authority which will have an initial contact with the child has the duty to immediately release the child to the custody of his/her parents or guardian, or in the absence thereof, the child's nearest relative. Said authority shall give notice to the local social welfare and development officer who will determine the appropriate programs in consultation with the child and to the person having custody over the child. If the parents, guardians or nearest relatives cannot be located, or if they refuse to take custody, the child may be released to any of the following: a duly registered nongovernmental or religious organization; a barangay official or a member of the Barangay Council for the Protection of Children (BCPC); a local social welfare and development officer; or when and where appropriate, the DSWD. If the child referred to herein has been found by the Local Social Welfare and Development Office to be abandoned, neglected or abused by his parents, or in the event that the parents will not comply with the prevention program, the proper petition for involuntary commitment shall be filed by the DSWD or the Local Social Welfare and Development Office pursuant to Presidential Decree No. 603, otherwise ,known as "The Child and Youth Welfare Code".
 
 ## TITLE V — JUVENILE JUSTICE AND WELFARE SYSTEM
 
 ### CHAPTER I — INITIAL CONTACT WITH THE CHILD
 
-**SEC. 21._Procedure for Taking the Child into Custody._** \- From the moment a child is taken into custody, the law enforcement officer shall:
+#### SEC. 21
+
+_Procedure for Taking the Child into Custody._ \- From the moment a child is taken into custody, the law enforcement officer shall:
 
 (a) Explain to the child in simple language and in a dialect that he/she can understand why he/she is being placed under custody and the offense that he/she allegedly committed;
 
@@ -331,7 +373,9 @@ The LGUs, in coordination with the LCPC, shall call on all sectors concerned, pa
 
 A child in conflict with the law shall only be searched by a law enforcement officer of the same gender and shall not be locked up in a detention cell.
 
-**SEC. 22._Duties During Initial Investigation._** \- The law enforcement officer shall, in his/her investigation, determine where the case involving the child in conflict with the law should be referred.
+#### SEC. 22
+
+_Duties During Initial Investigation._ \- The law enforcement officer shall, in his/her investigation, determine where the case involving the child in conflict with the law should be referred.
 
 The taking of the statement of the child shall be conducted in the presence of the following: (1) child's counsel of choice or in the absence thereof, a lawyer from the Public Attorney's Office; (2) the child's parents, guardian, or nearest relative, as the case may be; and (3) the local social welfare and development officer. In the absence of the child's parents, guardian, or nearest relative, and the local social welfare and development officer, the investigation shall be conducted in the presence of a representative of an NGO, religious group, or member of the BCPC.
 
@@ -343,7 +387,9 @@ After the initial investigation, the local social worker conducting the same may
 
 ### CHAPTER 2 — DIVERSION
 
-**SEC. 23._System of Diversion._** \- Children in conflict with the law shall undergo diversion programs without undergoing court proceedings subject to the conditions herein provided:
+#### SEC. 23
+
+_System of Diversion._ \- Children in conflict with the law shall undergo diversion programs without undergoing court proceedings subject to the conditions herein provided:
 
 (a) Where the imposable penalty for the crime committee is not more than six (6) years imprisonment, the law enforcement officer or Punong Barangay with the assistance of the local social welfare and development officer or other members of the LCPC shall conduct mediation, family conferencing and conciliation and, where appropriate, adopt indigenous modes of conflict resolution in accordance with the best interest of the child with a view to accomplishing the objectives of restorative justice and the formulation of a diversion program. The child and his/her family shall be present in these activities.
 
@@ -351,11 +397,17 @@ After the initial investigation, the local social worker conducting the same may
 
 (c) Where the imposable penalty for the crime committed exceeds six (6) years imprisonment, diversion measures may be resorted to only by the court.
 
-**SEC. 24._Stages Where Diversion May be Conducted._** \- Diversion may be conducted at the Katarungang Pambarangay, the police investigation or the inquest or preliminary investigation stage and at all 1evels and phases of the proceedings including judicial level.
+#### SEC. 24
 
-**SEC. 25._Conferencing, Mediation and Conciliation._** \- A child in conflict with law may undergo conferencing, mediation or conciliation outside the criminal justice system or prior to his entry into said system. A contract of diversion may be entered into during such conferencing, mediation or conciliation proceedings.
+_Stages Where Diversion May be Conducted._ \- Diversion may be conducted at the Katarungang Pambarangay, the police investigation or the inquest or preliminary investigation stage and at all 1evels and phases of the proceedings including judicial level.
 
-**SEC. 26._Contract of Diversion._** \- If during the conferencing, mediation or conciliation, the child voluntarily admits the commission of the act, a diversion program shall be developed when appropriate and desirable as determined under Section 30. Such admission shall not be used against the child in any subsequent judicial, quasi-judicial or administrative proceedings. The diversion program shall be effective and binding if accepted by the parties concerned. The acceptance shall be in writing and signed by the parties concerned and the appropriate authorities. The local social welfare and development officer shall supervise the implementation of the diversion program. The diversion proceedings shall be completed within forty-five (45) days. The period of prescription of the offense shall be suspended until the completion of the diversion proceedings but not to exceed forty-five (45) days.
+#### SEC. 25
+
+_Conferencing, Mediation and Conciliation._ \- A child in conflict with law may undergo conferencing, mediation or conciliation outside the criminal justice system or prior to his entry into said system. A contract of diversion may be entered into during such conferencing, mediation or conciliation proceedings.
+
+#### SEC. 26
+
+_Contract of Diversion._ \- If during the conferencing, mediation or conciliation, the child voluntarily admits the commission of the act, a diversion program shall be developed when appropriate and desirable as determined under Section 30. Such admission shall not be used against the child in any subsequent judicial, quasi-judicial or administrative proceedings. The diversion program shall be effective and binding if accepted by the parties concerned. The acceptance shall be in writing and signed by the parties concerned and the appropriate authorities. The local social welfare and development officer shall supervise the implementation of the diversion program. The diversion proceedings shall be completed within forty-five (45) days. The period of prescription of the offense shall be suspended until the completion of the diversion proceedings but not to exceed forty-five (45) days.
 
 The child shall present himself/herself to the competent authorities that imposed the diversion program at least once a month for reporting and evaluation of the effectiveness of the program.
 
@@ -363,11 +415,17 @@ Failure to comply with the terms and conditions of the contract of diversion, as
 
 The period of prescription of the offense shall be suspended during the effectivity of the diversion program, but not exceeding a period of two (2) years.
 
-**SEC. 27._Duty of the Punong Barangay When There is No Diversion._** \- If the offense does not fall under Section 23(a) and (b), or if the child, his/her parents or guardian does not consent to a diversion, the Punong Barangay handling the case shall, within three (3) days from determination of the absence of jurisdiction over the case or termination of the diversion proceedings, as the case may be, forward the records of the case of the child to the law enforcement officer, prosecutor or the appropriate court, as the case may be. Upon the issuance of the corresponding document, certifying to the fact that no agreement has been reached by the parties, the case shall be filed according to the regular process.
+#### SEC. 27
 
-**SEC. 28._Duty of the Law Enforcement Officer When There is No Diversion._** \- If the offense does not fall under Section 23(a) and (b), or if the child, his/her parents or guardian does not consent to a diversion, the Women and Children Protection Desk of the PNP, or other law enforcement officer handling the case of the child under custody, to the prosecutor or judge concerned for the conduct of inquest and/or preliminary investigation to determine whether or not the child should remain under custody and correspondingly charged in court. The document transmitting said records shall display the word "CHILD" in bold letters.
+_Duty of the Punong Barangay When There is No Diversion._ \- If the offense does not fall under Section 23(a) and (b), or if the child, his/her parents or guardian does not consent to a diversion, the Punong Barangay handling the case shall, within three (3) days from determination of the absence of jurisdiction over the case or termination of the diversion proceedings, as the case may be, forward the records of the case of the child to the law enforcement officer, prosecutor or the appropriate court, as the case may be. Upon the issuance of the corresponding document, certifying to the fact that no agreement has been reached by the parties, the case shall be filed according to the regular process.
 
-**SEC. 29._Factors in Determining Diversion Program._** \- In determining whether diversion is appropriate and desirable, the following factors shall be taken into consideration:
+#### SEC. 28
+
+_Duty of the Law Enforcement Officer When There is No Diversion._ \- If the offense does not fall under Section 23(a) and (b), or if the child, his/her parents or guardian does not consent to a diversion, the Women and Children Protection Desk of the PNP, or other law enforcement officer handling the case of the child under custody, to the prosecutor or judge concerned for the conduct of inquest and/or preliminary investigation to determine whether or not the child should remain under custody and correspondingly charged in court. The document transmitting said records shall display the word "CHILD" in bold letters.
+
+#### SEC. 29
+
+_Factors in Determining Diversion Program._ \- In determining whether diversion is appropriate and desirable, the following factors shall be taken into consideration:
 
 (a) The nature and circumstances of the offense charged;
 
@@ -385,7 +443,9 @@ The period of prescription of the offense shall be suspended during the effectiv
 
 (h) The best interest of the child.
 
-**SEC. 30._Formulation of the Diversion Program._** \- In formulating a diversion program, the individual characteristics and the peculiar circumstances of the child in conflict with the law shall be used to formulate an individualized treatment.
+#### SEC. 30
+
+_Formulation of the Diversion Program._ \- In formulating a diversion program, the individual characteristics and the peculiar circumstances of the child in conflict with the law shall be used to formulate an individualized treatment.
 
 The following factors shall be considered in formulating a diversion program for the child:
 
@@ -397,7 +457,9 @@ The following factors shall be considered in formulating a diversion program for
 
 (d) The availability of community-based programs for rehabilitation and reintegration of the child.
 
-**SEC. 31._Kinds of Diversion Programs._** \- The diversion program shall include adequate socio-cultural and psychological responses and services for the child. At the different stages where diversion may be resorted to, the following diversion programs may be agreed upon, such as, but not limited to:
+#### SEC. 31
+
+_Kinds of Diversion Programs._ \- The diversion program shall include adequate socio-cultural and psychological responses and services for the child. At the different stages where diversion may be resorted to, the following diversion programs may be agreed upon, such as, but not limited to:
 
 (a) At the level of the Punong Barangay:
 
@@ -447,9 +509,13 @@ The following factors shall be considered in formulating a diversion program for
 
 ### CHAPTER 3 — PROSECUTION
 
-**SEC. 32._Duty of the Prosecutor's Office._** \- There shall be a specially trained prosecutor to conduct inquest, preliminary investigation and prosecution of cases involving a child in conflict with the law. If there is an allegation of torture or ill-treatment of a child in conflict with the law during arrest or detention, it shall be the duty of the prosecutor to investigate the same.
+#### SEC. 32
 
-**SEC. 33._Preliminary Investigation and Filing of Information._** \- The prosecutor shall conduct a preliminary investigation in the following instances: (a) when the child in conflict with the law does not qualify for diversion: (b) when the child, his/her parents or guardian does not agree to diversion as specified in Sections 27 and 28; and (c) when considering the assessment and recommendation of the social worker, the prosecutor determines that diversion is not appropriate for the child in conflict with the law.
+_Duty of the Prosecutor's Office._ \- There shall be a specially trained prosecutor to conduct inquest, preliminary investigation and prosecution of cases involving a child in conflict with the law. If there is an allegation of torture or ill-treatment of a child in conflict with the law during arrest or detention, it shall be the duty of the prosecutor to investigate the same.
+
+#### SEC. 33
+
+_Preliminary Investigation and Filing of Information._ \- The prosecutor shall conduct a preliminary investigation in the following instances: (a) when the child in conflict with the law does not qualify for diversion: (b) when the child, his/her parents or guardian does not agree to diversion as specified in Sections 27 and 28; and (c) when considering the assessment and recommendation of the social worker, the prosecutor determines that diversion is not appropriate for the child in conflict with the law.
 
 Upon serving the subpoena and the affidavit of complaint, the prosecutor shall notify the Public Attorney's Office of such service, as well as the personal information, and place of detention of the child in conflict with the law.
 
@@ -457,9 +523,13 @@ Upon determination of probable cause by the prosecutor, the information against 
 
 ### CHAPTER 4 — COURT PROCEEDINGS
 
-**SEC. 34._Bail._** \- For purposes of recommending the amount of bail, the privileged mitigating circumstance of minority shall be considered.
+#### SEC. 34
 
-**SEC. 35._Release on Recognizance._** \- Where a child is detained, the court shall order:
+_Bail._ \- For purposes of recommending the amount of bail, the privileged mitigating circumstance of minority shall be considered.
+
+#### SEC. 35
+
+_Release on Recognizance._ \- Where a child is detained, the court shall order:
 
 (a) the release of the minor on recognizance to his/her parents and other suitable person;
 
@@ -469,33 +539,49 @@ Upon determination of probable cause by the prosecutor, the information against 
 
 The court shall not order the detention of a child in a jail pending trial or hearing of his/her case.
 
-**SEC. 36._Detention of the Child Pending Trial._** \- Children detained pending trial may be released on bail or recognizance as provided for under Sections 34 and 35 under this Act. In all other cases and whenever possible, detention pending trial may be replaced by alternative measures, such as close supervision, intensive care or placement with a family or in an educational setting or home. Institutionalization or detention of the child pending trial shall be used only as a measure of last resort and for the shortest possible period of time.
+#### SEC. 36
+
+_Detention of the Child Pending Trial._ \- Children detained pending trial may be released on bail or recognizance as provided for under Sections 34 and 35 under this Act. In all other cases and whenever possible, detention pending trial may be replaced by alternative measures, such as close supervision, intensive care or placement with a family or in an educational setting or home. Institutionalization or detention of the child pending trial shall be used only as a measure of last resort and for the shortest possible period of time.
 
 Whenever detention is necessary, a child will always be detained in youth detention homes established by local governments, pursuant to Section 8 of the Family Courts Act, in the city or municipality where the child resides.
 
 In the absence of a youth detention home, the child in conflict with the law may be committed to the care of the DSWD or a local rehabilitation center recognized by the government in the province, city or municipality within the jurisdiction of the court. The center or agency concerned shall be responsible for the child's appearance in court whenever required.
 
-**SEC. 37._Diversion Measures._** \- Where the maximum penalty imposed by law for the offense with which the child in conflict with the law is charged is imprisonment of not more than twelve (12) years, regardless of the fine or fine alone regardless of the amount, and before arraignment of the child in conflict with the law, the court shall determine whether or not diversion is appropriate.
+#### SEC. 37
 
-**SEC. 38._Automatic Suspension of Sentence._** \- Once the child who is under eighteen (18) years of age at the time of the commission of the offense is found guilty of the offense charged, the court shall determine and ascertain any civil liability which may have resulted from the offense committed. However, instead of pronouncing the judgment of conviction, the court shall place the child in conflict with the law under suspended sentence, without need of application: _Provided_ , _however_ , That suspension of sentence shall still be applied even if the juvenile is already eighteen years (18) of age or more at the time of the pronouncement of his/her guilt.
+_Diversion Measures._ \- Where the maximum penalty imposed by law for the offense with which the child in conflict with the law is charged is imprisonment of not more than twelve (12) years, regardless of the fine or fine alone regardless of the amount, and before arraignment of the child in conflict with the law, the court shall determine whether or not diversion is appropriate.
+
+#### SEC. 38
+
+_Automatic Suspension of Sentence._ \- Once the child who is under eighteen (18) years of age at the time of the commission of the offense is found guilty of the offense charged, the court shall determine and ascertain any civil liability which may have resulted from the offense committed. However, instead of pronouncing the judgment of conviction, the court shall place the child in conflict with the law under suspended sentence, without need of application: _Provided_ , _however_ , That suspension of sentence shall still be applied even if the juvenile is already eighteen years (18) of age or more at the time of the pronouncement of his/her guilt.
 
 Upon suspension of sentence and after considering the various chcumstances of the child, the court shall impose the appropriate disposition measures as provided in the Supreme Court Rule on Juveniles in Conflict with the Law.
 
-**SEC. 39._Discharge of the Child in Conflict with the Law._** \- Upon the recommendation of the social worker who has custody of the child, the court shall dismiss the case against the child whose sentence has been suspended and against whom disposition measures have been issued, and shall order the final discharge of the child if it finds that the objective of the disposition measures have been fulfilled.
+#### SEC. 39
+
+_Discharge of the Child in Conflict with the Law._ \- Upon the recommendation of the social worker who has custody of the child, the court shall dismiss the case against the child whose sentence has been suspended and against whom disposition measures have been issued, and shall order the final discharge of the child if it finds that the objective of the disposition measures have been fulfilled.
 
 The discharge of the child in conflict with the law shall not affect the civil liability resulting from the commission of the offense, which shall be enforced in accordance with law.
 
-**SEC. 40._Return of the Child in Conflict with the Law to Court._** \- If the court finds that the objective of the disposition measures imposed upon the child in conflict with the law have not been fulfilled, or if the child in conflict with the law has willfully failed to comply with the conditions of his/her disposition or rehabilitation program, the child in conflict with the law shall be brought before the court for execution of judgment.
+#### SEC. 40
+
+_Return of the Child in Conflict with the Law to Court._ \- If the court finds that the objective of the disposition measures imposed upon the child in conflict with the law have not been fulfilled, or if the child in conflict with the law has willfully failed to comply with the conditions of his/her disposition or rehabilitation program, the child in conflict with the law shall be brought before the court for execution of judgment.
 
 If said child in conflict with the law has reached eighteen (18) years of age while under suspended sentence, the court shall determine whether to discharge the child in accordance with this Act, to order execution of sentence, or to extend the suspended sentence for a certain specified period or until the child reaches the maximum age of twenty-one (21) years.
 
-**SEC. 41._Credit in Service of Sentence._** \- The child in conflict with the law shall be credited in the services of his/her sentence with the full time spent in actual commitment and detention under this Act.
+#### SEC. 41
 
-**SEC. 42._Probation as an Alternative to Imprisonment._** \- The court may, after it shall have convicted and sentenced a child in conflict with the law, and upon application at any time, place the child on probation in lieu of service of his/her sentence taking into account the best interest of the child. For this purpose, Section 4 of Presidential Decree No. 968, otherwise known as the "Probation Law of 1976", is hereby amended accordingly.
+_Credit in Service of Sentence._ \- The child in conflict with the law shall be credited in the services of his/her sentence with the full time spent in actual commitment and detention under this Act.
+
+#### SEC. 42
+
+_Probation as an Alternative to Imprisonment._ \- The court may, after it shall have convicted and sentenced a child in conflict with the law, and upon application at any time, place the child on probation in lieu of service of his/her sentence taking into account the best interest of the child. For this purpose, Section 4 of Presidential Decree No. 968, otherwise known as the "Probation Law of 1976", is hereby amended accordingly.
 
 ### CHAPTER 5 — CONFIDENTIALITY OF RECORDS AND PROCEEDINGS
 
-**SEC. 43._Confedentiality of Records and Proceedings._** \- All records and proceedings involving children in conflict with the law from initial contact until final disposition of the case shall be considered privileged and confidential. The public shall be excluded during the proceedings and the records shall not be disclosed directly or indirectly to anyone by any of the parties or the participants in the proceedings for any purpose whatsoever, except to determine if the child in conflict with the law may have his/hes sentence suspended or if he/she may be granted probation under the Probation Law, or to enforce the civil liability imposed in the criminal action.
+#### SEC. 43
+
+_Confedentiality of Records and Proceedings._ \- All records and proceedings involving children in conflict with the law from initial contact until final disposition of the case shall be considered privileged and confidential. The public shall be excluded during the proceedings and the records shall not be disclosed directly or indirectly to anyone by any of the parties or the participants in the proceedings for any purpose whatsoever, except to determine if the child in conflict with the law may have his/hes sentence suspended or if he/she may be granted probation under the Probation Law, or to enforce the civil liability imposed in the criminal action.
 
 The component authorities shall undertake all measures to protect this confidentiality of proceedings, including non-disclosure of records to the media, maintaining a separate police blotter for cases involving children in conflict with the law and adopting a system of coding to conceal material information which will lead to the child's identity. Records of a child in conflict with the law shall not be used in subsequent proceedings for cases involving the same offender as an adult, except when beneficial for the offender and upon his/her written consent.
 
@@ -503,29 +589,45 @@ A person who has been in conflict with the law as a child shall not be held unde
 
 ## TITLE VI — REHABILITATION AND REINTEGRATION
 
-**SEC. 44._Objective of Rehabilitation and Reintegration._** \- The objective of rehabilitation and reintegration of children in conflict with the law is to provide them with interventions, approaches and strategies that will enable them to improve their social functioning with the end goal of reintegration to their families and as productive members of their communities.
+#### SEC. 44
 
-**SEC. 45._Court Order Required._** \- No child shall be received in any rehabilitation or training facility without a valid order issued by the court after a hearing for the purpose. The details of this order shall be immediately entered in a register exclusively for children in conflict with the law. No child shall be admitted in any facility where there is no such register.
+_Objective of Rehabilitation and Reintegration._ \- The objective of rehabilitation and reintegration of children in conflict with the law is to provide them with interventions, approaches and strategies that will enable them to improve their social functioning with the end goal of reintegration to their families and as productive members of their communities.
+
+#### SEC. 45
+
+_Court Order Required._ \- No child shall be received in any rehabilitation or training facility without a valid order issued by the court after a hearing for the purpose. The details of this order shall be immediately entered in a register exclusively for children in conflict with the law. No child shall be admitted in any facility where there is no such register.
 
 **SEC. 46,_Separate Facilities from Adults._** \- In all rehabilitation or training facilities, it shall be mandatory that children shall be separated from adults unless they are members of the same family. Under no other circumstance shall a child in conflict with the law be placed in the same confinement as adults.
 
 The rehabilitation, training or confinement area of children in conflict with the law shall provide a home environment where children in conflict with the law can be provided with quality counseling and treatment.
 
-**SEC. 47._Female Children._** \- Female children in conflict with the law placed in an institution shall be given special attention as to their personal needs and problems. They shall be handled by female doctors, correction officers and social workers, and shall be accommodated separately from male children in conflict with the law.
+#### SEC. 47
 
-**SEC. 48._Gender-Sensitivity Training._** \- No personnel of rehabilitation and training facilities shall handle children in conflict with the law without having undergone gender sensitivity training.
+_Female Children._ \- Female children in conflict with the law placed in an institution shall be given special attention as to their personal needs and problems. They shall be handled by female doctors, correction officers and social workers, and shall be accommodated separately from male children in conflict with the law.
 
-**SEC. 49._Establishment of Youth Detention Homes._** \- The LGUs shall set aside an amount to build youth detention homes as mandated by the Family Courts Act. Youth detention homes may also be established by private and NGOs licensed and accredited by the DSWD, in consultation with the JJWC.
+#### SEC. 48
 
-**SEC. 50._Care and Maintenance of the Child in Conflict with the Law._** \- The expenses for the care and maintenance of a child in conflict with the law under institutional care shall be borne by his/her parents or those persons liable to support him/her: _Provided_ , That in case his/her parents or those persons liable to support him/her cannot pay all or part of said expenses, the municipality where the offense was committed shall pay one-third (1/3) of said expenses or part thereof; the province to which the municipality belongs shall pay one-third (1/3) and the remaining one-third (1/3) shall be borne by the national government. Chartered cities shall pay two-thirds (2/3) of said expenses; and in case a chartered city cannot pay said expenses, part of the internal revenue allotments applicable to the unpaid portion shall be withheld and applied to the settlement of said obligations: _Provided_ , _further_ , That in the event that the child in conflict with the law is not a resident of the municipality/city where the offense was committed, the court, upon its determination, may require the city/municipality where the child in conflict with the law resides to shoulder the cost.
+_Gender-Sensitivity Training._ \- No personnel of rehabilitation and training facilities shall handle children in conflict with the law without having undergone gender sensitivity training.
+
+#### SEC. 49
+
+_Establishment of Youth Detention Homes._ \- The LGUs shall set aside an amount to build youth detention homes as mandated by the Family Courts Act. Youth detention homes may also be established by private and NGOs licensed and accredited by the DSWD, in consultation with the JJWC.
+
+#### SEC. 50
+
+_Care and Maintenance of the Child in Conflict with the Law._ \- The expenses for the care and maintenance of a child in conflict with the law under institutional care shall be borne by his/her parents or those persons liable to support him/her: _Provided_ , That in case his/her parents or those persons liable to support him/her cannot pay all or part of said expenses, the municipality where the offense was committed shall pay one-third (1/3) of said expenses or part thereof; the province to which the municipality belongs shall pay one-third (1/3) and the remaining one-third (1/3) shall be borne by the national government. Chartered cities shall pay two-thirds (2/3) of said expenses; and in case a chartered city cannot pay said expenses, part of the internal revenue allotments applicable to the unpaid portion shall be withheld and applied to the settlement of said obligations: _Provided_ , _further_ , That in the event that the child in conflict with the law is not a resident of the municipality/city where the offense was committed, the court, upon its determination, may require the city/municipality where the child in conflict with the law resides to shoulder the cost.
 
 All city and provincial governments must exert effort for the immediate establishment of local detention homes for children in conflict with the law.
 
-**SEC. 51._Confinement of Convicted Children in Agricultural Camps and other Training Facilities._** \- A child
+#### SEC. 51
+
+_Confinement of Convicted Children in Agricultural Camps and other Training Facilities._ \- A child
 
 in conflict with the law may, after conviction and upon order of the court, be made to serve his/her sentence, in lieu of confinement in a regular penal institution, in an agricultural camp and other training facilities that may be established, maintained, supervised and controlled by the BUCOR, in coordination with the DSWD.
 
-**SEC. 52._Rehabilitation of Children in Conflict with the Law._** \- Children in conflict with the law, whose sentences are suspended may, upon order of the court, undergo any or a combination of disposition measures best suited to the rehabilitation and welfare of the child as provided in the Supreme Court Rule on Juveniles in Conflict with the Law.
+#### SEC. 52
+
+_Rehabilitation of Children in Conflict with the Law._ \- Children in conflict with the law, whose sentences are suspended may, upon order of the court, undergo any or a combination of disposition measures best suited to the rehabilitation and welfare of the child as provided in the Supreme Court Rule on Juveniles in Conflict with the Law.
 
 If the community-based rehabilitation is availed of by a child in conflict with the law, he/she shall be released to parents, guardians, relatives or any other responsible person in the community. Under the supervision and guidance of the local social welfare and development officer, and in coordination with his/her parents/guardian, the child in conflict with the law shall participate in community-based programs, which shall include, but not limited to:
 
@@ -553,9 +655,13 @@ Based on the progress of the youth in the community, a final report will be forw
 
 If the community-based programs are provided as diversion measures under Chapter II, Title V, the programs enumerated above shall be made available to the child in conflict with the law.
 
-**SEC. 53._Youth Rehabilitation Center._** \- The youth rehabilitation center shall provide 24-hour group care, treatment and rehabilitation services under the guidance of a trained staff where residents are cared for under a structured therapeutic environment with the end view of reintegrating them in their families and communities as socially functioning individuals. A quarterly report shall be submitted by the center to the proper court on the progress of the children in conflict with the law. Based on the progress of the youth in the center, a final report will be forwarded to the court for final disposition of the case. The DSWD shall establish youth rehabilitation centers in each region of the country.
+#### SEC. 53
 
-**SEC. 54._Objectives of Community Based Programs._** \- The objectives of community-based programs are as follows:
+_Youth Rehabilitation Center._ \- The youth rehabilitation center shall provide 24-hour group care, treatment and rehabilitation services under the guidance of a trained staff where residents are cared for under a structured therapeutic environment with the end view of reintegrating them in their families and communities as socially functioning individuals. A quarterly report shall be submitted by the center to the proper court on the progress of the children in conflict with the law. Based on the progress of the youth in the center, a final report will be forwarded to the court for final disposition of the case. The DSWD shall establish youth rehabilitation centers in each region of the country.
+
+#### SEC. 54
+
+_Objectives of Community Based Programs._ \- The objectives of community-based programs are as follows:
 
 (a) Prevent disruption in the education or means of livelihood of the child in conflict with the law in case he/she is studying, working or attending vocational learning institutions;
 
@@ -565,9 +671,13 @@ If the community-based programs are provided as diversion measures under Chapter
 
 (d) Minimize the stigma that attaches to the child in conflict with the law by preventing jail detention.
 
-**SEC. 55._Criteria of Community-Based Programs._** \- Every LGU shall establish community-based programs that will focus on the rehabilitation and reintegration of the child. All programs shall meet the criteria to be established by the JJWC which shall take into account the purpose of the program, the need for the consent of the child and his/her parents or legal guardians, and the participation of the child-centered agencies whether public or private.
+#### SEC. 55
 
-**SEC. 56._After-Care Support Services for Children in Conflict with the Law._** \- Children in conflict with the law whose cases have been dismissed by the proper court because of good behavior as per recommendation of the DSWD social worker and/or any accredited NGO youth rehabilitation center shall be provided after-care services by the local social welfare and development officer for a period of at least six (6) months. The service includes counseling and other community-based services designed to facilitate social reintegration, prevent re-offending and make the children productive members of the community.
+_Criteria of Community-Based Programs._ \- Every LGU shall establish community-based programs that will focus on the rehabilitation and reintegration of the child. All programs shall meet the criteria to be established by the JJWC which shall take into account the purpose of the program, the need for the consent of the child and his/her parents or legal guardians, and the participation of the child-centered agencies whether public or private.
+
+#### SEC. 56
+
+_After-Care Support Services for Children in Conflict with the Law._ \- Children in conflict with the law whose cases have been dismissed by the proper court because of good behavior as per recommendation of the DSWD social worker and/or any accredited NGO youth rehabilitation center shall be provided after-care services by the local social welfare and development officer for a period of at least six (6) months. The service includes counseling and other community-based services designed to facilitate social reintegration, prevent re-offending and make the children productive members of the community.
 
 ## TITLE VII — GENERAL PROVISIONS
 
@@ -599,33 +709,53 @@ If the community-based programs are provided as diversion measures under Chapter
 
 ### CHAPTER 4 — APPROPRIATION PROVISION
 
-**SEC. 63._Appropriations._** \- The amount necessary to carry out the initial implementation of this Act shall be charged to the Office of the President. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the succeeding General Appropriations Act.
+#### SEC. 63
+
+_Appropriations._ \- The amount necessary to carry out the initial implementation of this Act shall be charged to the Office of the President. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the succeeding General Appropriations Act.
 
 An initial amount of Fifty million pesos (P50,000,000.00) for the purpose of setting up the JJWC shall be taken from the proceeds of the Philippine Charity Sweepstakes Office.
 
 ## TITLE VIII — TRANSITORY PROVISIONS
 
-**SEC. 64._Children in Conflict with the Law Fifteen (15) Years Old and Below._** \- Upon effectivity of this Act, cases of children fifteen (15) years old and below at the time of the commission of the crime shall immediately be dismissed and the child shall be referred to the appropriate local social welfare and development officer. Such officer, upon thorough assessment of the child, shall determine whether to release the child to the custody of his/her parents, or refer the child to prevention programs as provided under this Act. Those with suspended sentences and undergoing rehabilitation at the youth rehabilitation center shall likewise be released, unless it is contrary to the best interest of the child.
+#### SEC. 64
 
-**SEC. 65._Children Detained Pending Dial._** \- If the child is detained pending trial, the Family Court shall also determine whether or not continued detention is necessary and, if not, determine appropriate alternatives for detention.
+_Children in Conflict with the Law Fifteen (15) Years Old and Below._ \- Upon effectivity of this Act, cases of children fifteen (15) years old and below at the time of the commission of the crime shall immediately be dismissed and the child shall be referred to the appropriate local social welfare and development officer. Such officer, upon thorough assessment of the child, shall determine whether to release the child to the custody of his/her parents, or refer the child to prevention programs as provided under this Act. Those with suspended sentences and undergoing rehabilitation at the youth rehabilitation center shall likewise be released, unless it is contrary to the best interest of the child.
+
+#### SEC. 65
+
+_Children Detained Pending Dial._ \- If the child is detained pending trial, the Family Court shall also determine whether or not continued detention is necessary and, if not, determine appropriate alternatives for detention.
 
 If detention is necessary and he/she is detained with adults, the court shall immediately order the transfer of the child to a youth detention home.
 
-**SEC. 66._Inventory of "Locked-up" and Detained Children in Conflict with the Law._** \- The PNP, the BJMP and the BUCOR are hereby directed to submit to the JJWC, within ninety (90) days from the effectivity of this Act, an inventory of all children in conflict with the law under their custody.
+#### SEC. 66
 
-**SEC. 67._Children Who Reach the Age of Eighteen (18) Years Pending Diversion and Court Proceedings._** \- If a child reaches the age of eighteen (18) years pending diversion and court proceedings, the appropriate diversion authority in consultation with the local social welfare and development officer or the Family Court in consultation with the Social Services and Counseling Division (SSCD) of the Supreme Court, as the case may be, shall determine the appropriate disposition. In case the appropriate court executes the judgment of conviction, and unless the child in conflict the law has already availed of probation under Presidential Decree No. 603 or other similar laws, the child may apply for probation if qualified under the provisions of the Probation Law.
+_Inventory of "Locked-up" and Detained Children in Conflict with the Law._ \- The PNP, the BJMP and the BUCOR are hereby directed to submit to the JJWC, within ninety (90) days from the effectivity of this Act, an inventory of all children in conflict with the law under their custody.
 
-**SEC. 68._Children Who Have Been Convicted and are Serving Sentence._** \- Persons who have been convicted and are serving sentence at the time of the effectivity of this Act, and who were below the age of eighteen (18) years at the time the commission of the offense for which they were convicted and are serving sentence, shall likewise benefit from the retroactive application of this Act. They shall be entitled to appropriate dispositions provided under this Act and their sentences shall be adjusted accordingly. They shall be immediately released if they are so qualified under this Act or other applicable law.
+#### SEC. 67
+
+_Children Who Reach the Age of Eighteen (18) Years Pending Diversion and Court Proceedings._ \- If a child reaches the age of eighteen (18) years pending diversion and court proceedings, the appropriate diversion authority in consultation with the local social welfare and development officer or the Family Court in consultation with the Social Services and Counseling Division (SSCD) of the Supreme Court, as the case may be, shall determine the appropriate disposition. In case the appropriate court executes the judgment of conviction, and unless the child in conflict the law has already availed of probation under Presidential Decree No. 603 or other similar laws, the child may apply for probation if qualified under the provisions of the Probation Law.
+
+#### SEC. 68
+
+_Children Who Have Been Convicted and are Serving Sentence._ \- Persons who have been convicted and are serving sentence at the time of the effectivity of this Act, and who were below the age of eighteen (18) years at the time the commission of the offense for which they were convicted and are serving sentence, shall likewise benefit from the retroactive application of this Act. They shall be entitled to appropriate dispositions provided under this Act and their sentences shall be adjusted accordingly. They shall be immediately released if they are so qualified under this Act or other applicable law.
 
 ## TITLE IX — FINAL PROVISIONS
 
-**SEC. 69._Rule Making Power._** \- The JJWC shall issue the IRRs for the implementation of the provisions of this act within ninety (90) days from the effectivity thereof.
+#### SEC. 69
 
-**SEC. 70._Separability Clause._** \- If, for any reason, any section or provision of this Act is declared unconstitutional or invalid by the Supreme Court, the other sections or provisions hereof not dfected by such declaration shall remain in force and effect.
+_Rule Making Power._ \- The JJWC shall issue the IRRs for the implementation of the provisions of this act within ninety (90) days from the effectivity thereof.
 
-**SEC. 71._Repealing Clause._** \- All existing laws, orders, decrees, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+#### SEC. 70
 
-**SEC. 72._Effectivity._** \- This Act shall take effect after fifteen (15) days from its publication in at least two (2) national newspapers of general circulation.
+_Separability Clause._ \- If, for any reason, any section or provision of this Act is declared unconstitutional or invalid by the Supreme Court, the other sections or provisions hereof not dfected by such declaration shall remain in force and effect.
+
+#### SEC. 71
+
+_Repealing Clause._ \- All existing laws, orders, decrees, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+#### SEC. 72
+
+_Effectivity._ \- This Act shall take effect after fifteen (15) days from its publication in at least two (2) national newspapers of general circulation.
 
 Approved,
 

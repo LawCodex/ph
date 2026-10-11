@@ -39,7 +39,7 @@ _Manner of Operations of Stations or Facilities._ \- The stations or facilities 
 
 _Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio and television spectrums without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
 
-In case of any violation of the provisions of this franchise, the NTC shall have the authority to revoke or suspend, after due process, permits or licenses it issued pursuant to the franchise. The NTC may recommend to the Congress of the Philippines the revocation of this franchise for any violation of its provision.ℒαwρhi৷
+In case of any violation of the provisions of this franchise, the NTC shall have the authority to revoke or suspend, after due process, permits or licenses it issued pursuant to the franchise. The NTC may recommend to the Congress of the Philippines the revocation of this franchise for any violation of its provision.
 
 ## Section 4
 
@@ -68,7 +68,7 @@ _Tax Provision._ \- Being part of the government, the grantee shall be exempt fr
 
 ## Section 9
 
-_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations, but if any such speech, play, act or scene, or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene, or other matter: _Provided,_ That the grantee, during any broadcast, shall cut off the airing of speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: _Provided,_ further, That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.ℒαwρhi৷
+_Self-regulation by and Undertaking of Grantee._ \- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations, but if any such speech, play, act or scene, or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene, or other matter: _Provided,_ That the grantee, during any broadcast, shall cut off the airing of speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: _Provided,_ further, That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
 
 ## Section 10
 

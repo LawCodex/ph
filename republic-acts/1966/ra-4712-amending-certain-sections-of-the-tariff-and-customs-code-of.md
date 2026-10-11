@@ -91,7 +91,7 @@ Sections thirty-six hundred three, thirty-six hundred four, thirty-six hundred f
 
 "Sec. 3607. Removal, breakage, alteration of marks. Any person who without authority, willfully removes, breaks, injuries, or defaces or alters any customs seal or other fastening or mark placed upon any vessel, vehicle on land, sea or air warehouse or package containing merchandise or baggage in bond or in customs custody, shall be punished with the penalty prescribed in Section thirty-six hundred six hereof.
 
-"Sec. 3608. Removing or repacking goods in warehouse. Any person who fraudulently conceals, removes, or repacks merchandise in any warehouse or fraudulently alters, defaces or obliterates any marks or numbers placed upon packages deposited in such warehouse, or shall aid or abet in any such acts or omission, shall be punished with the penalties prescribed in Section thirty-six hundred six hereof.1âшphi1
+"Sec. 3608. Removing or repacking goods in warehouse. Any person who fraudulently conceals, removes, or repacks merchandise in any warehouse or fraudulently alters, defaces or obliterates any marks or numbers placed upon packages deposited in such warehouse, or shall aid or abet in any such acts or omission, shall be punished with the penalties prescribed in Section thirty-six hundred six hereof.
 
 "Merchandise so concealed, removed, or repacked, or packages upon which any marks or numbers have been so altered, defaced or obliterated, or the value thereof, shall be forfeited to the government.
 

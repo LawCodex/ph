@@ -32,4 +32,4 @@ Item four of title M — Department of Health. - Special Purposes of section one
 
 This Act shall take effect on January 1, 1951.
 
-Approved: **February 17, 1951** 1awphil@alf
+Approved: **February 17, 1951**

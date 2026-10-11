@@ -36,6 +36,6 @@ To perpetuate his memory, the Taytay Bridge which links Tagbilaran City with Pan
 
 ## Section 3
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Lapsed into law on June 5, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

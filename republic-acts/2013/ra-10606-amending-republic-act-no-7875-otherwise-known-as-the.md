@@ -563,7 +563,7 @@ Section 44 of the same Act is hereby further amended to read as follows:
 
 "The Corporation may enumerate circumstances that will mitigate or aggravate the liability of the offender or erring health care provider, member or employer.
 
-"Despite the cessation of operation by a health care provider or termination of practice of an independent health care professional while the complaint is being heard, the proceeding against them shall continue until the resolution of the case.1avvphi1
+"Despite the cessation of operation by a health care provider or termination of practice of an independent health care professional while the complaint is being heard, the proceeding against them shall continue until the resolution of the case.
 
 "The dispositive part of the decision requiring payment of fines, reimbursement of paid claim or denial of payment shall be immediately executory."
 

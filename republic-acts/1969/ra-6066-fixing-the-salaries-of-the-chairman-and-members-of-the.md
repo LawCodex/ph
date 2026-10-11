@@ -36,6 +36,6 @@ All laws or parts thereof inconsistent with the provisions of this Act are hereb
 
 ## Section 4
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

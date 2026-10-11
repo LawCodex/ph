@@ -33,7 +33,7 @@ The South Superhighway stretching from Metro Manila to the Province of Laguna is
 
 ## Section 2
 
-All laws, decrees, orders and proclamations inconsistent herewith are hereby repealed.1âшphi1
+All laws, decrees, orders and proclamations inconsistent herewith are hereby repealed.
 
 ## Section 3
 

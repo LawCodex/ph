@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Butique National High School Annex in Barangay Butique, Municipality of Paracelis, Mountain Province, is hereby separated from the Paracelis National High School in the Municipality of Paracelis, Mountain Province, and converted into an independent national high school to be known as the Butique National High School.1a⍵⍴h!11a⍵⍴h!1
+The Butique National High School Annex in Barangay Butique, Municipality of Paracelis, Mountain Province, is hereby separated from the Paracelis National High School in the Municipality of Paracelis, Mountain Province, and converted into an independent national high school to be known as the Butique National High School.
 
 ## Section 2
 

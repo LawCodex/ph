@@ -1368,7 +1368,7 @@ He shall hold office for three (3) years, unless sooner removed, and shall recei
 
 (a) Ensure that the construction and repair of roads and highways funded by the national government shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the City and of the province; and
 
-(b) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices and provincial office.ᇈWᑭHIL
+(b) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices and provincial office.
 
 (5) Exercise such other powers and perform such other duties and functions as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
@@ -1552,7 +1552,7 @@ _The Sangguniang Panlungsod._ — The sangguniang panlungsod, the legislative bo
 
 ### Section 13
 
-_Internal Rules of Procedure._ — (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.1aшphi1
+_Internal Rules of Procedure._ — (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.
 
 (b) The rules of procedure shall provide for the following:
 
@@ -1626,7 +1626,7 @@ _Veto Power of the City Mayor._ —
 
 (b) The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, any public investment program or an ordinance directing the payment of money or creating liability. In such case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the sangguniang panlungsod overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed enacted.
 
-(c) The city mayor may veto an ordinance or resolution only once.⌊aшΡhi⌊ The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
+(c) The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
 ### Section 19
 
@@ -1800,7 +1800,7 @@ _The Assistant City Treasurer._ —
 
 (c) The assistant city treasurer shall receive such compensation, emoluments and allowances as maybe determined by law.
 
-(d) The assistant city treasurer shall assist the city treasurer and perform such other duties as the latter may assign him.ℒαwρhi৷ He shall have authority to administer oaths concerning notices and notifications to those delinquent in the payment of the real property tax and concerning official matters relating to the accounts of the city treasurer or otherwise arising from the offices of the city treasurer and the city assessor.
+(d) The assistant city treasurer shall assist the city treasurer and perform such other duties as the latter may assign him. He shall have authority to administer oaths concerning notices and notifications to those delinquent in the payment of the real property tax and concerning official matters relating to the accounts of the city treasurer or otherwise arising from the offices of the city treasurer and the city assessor.
 
 ### Section 30
 
@@ -2300,7 +2300,7 @@ _The City Population Officer._ —
 
 (A) The city population officer must be a citizen of the Philippines, a resident of the City of Sorsogon, of good moral character, a holder of a college degree preferably with specialized training in population development from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in the implementation of programs on population development or responsible parenthood for at least five (5) years immediately preceding the date of his appointment.
 
-(B) The city population officer shall receive such compensation, emoluments and allowances as maybe determined by law.ℒαwρhi৷
+(B) The city population officer shall receive such compensation, emoluments and allowances as maybe determined by law.
 
 (C) The city population officer shall take charge of the office of the population development, and shall:
 
@@ -2406,7 +2406,7 @@ The appointive officials and employees of the municipalities of Bacon and Sorsog
 
 ### Section 56
 
-_Succession Clause._ — The City of Sorsogon shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Sorsogon.ℒαwρhi৷
+_Succession Clause._ — The City of Sorsogon shall succeed to all the assets, properties, liabilities and obligations of the Municipality of Sorsogon.
 
 ### Section 57
 

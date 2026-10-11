@@ -35,7 +35,7 @@ The Judge Guillermo Eleazar Polytechnic College herein established shall offer f
 
 ## Section 3
 
-The existing high school shall be transferred to the jurisdiction and supervision of the Department of Education Culture and Sports: _Provided,_ That this high school shall be allowed to remain and operate within the campus of the college until it shall have been transferred to another location, or until its students shall have been accommodated in other public or private high schools; _Provided, further,_ That the college may operate a reasonably-sized laboratory school if it has a college of education.Ꮮαwρhi৷
+The existing high school shall be transferred to the jurisdiction and supervision of the Department of Education Culture and Sports: _Provided,_ That this high school shall be allowed to remain and operate within the campus of the college until it shall have been transferred to another location, or until its students shall have been accommodated in other public or private high schools; _Provided, further,_ That the college may operate a reasonably-sized laboratory school if it has a college of education.
 
 ## Section 4
 

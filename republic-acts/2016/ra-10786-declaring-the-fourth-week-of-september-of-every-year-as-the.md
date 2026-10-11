@@ -42,7 +42,7 @@ _Awareness Week._ — The fourth week of September of every year is hereby decla
 
 ## Section 4
 
-_Public Education and Awareness Program._ — To ensure a meaningful observance of the week as herein declared, a comprehensive public education and awareness program shall be undertaken to discuss the causes, consequences, diagnoses, treatments and prevention of thyroid cancer.ℒαwρhi৷
+_Public Education and Awareness Program._ — To ensure a meaningful observance of the week as herein declared, a comprehensive public education and awareness program shall be undertaken to discuss the causes, consequences, diagnoses, treatments and prevention of thyroid cancer.
 
 ## Section 5
 

@@ -84,7 +84,7 @@ There shall be a College Council consisting of the President of the College as p
 
 ## Section 9
 
-The body of professors and instructors of the College shall constitute the faculty of the College. In the appointment of professors or instructors of the College, no religious test shall be applied nor shall religious opinions or affiliations of the faculty of the College be made a matter of examination or inquiry: _Provided, however,_ That no professor or instructor in the College shall inculcate sectarian teachings, nor attempt either directly or indirectly, under penalty of dismissal by the Board of Trustees, to influence students attending the College for or against any particular church or religious sect.1âшphi1
+The body of professors and instructors of the College shall constitute the faculty of the College. In the appointment of professors or instructors of the College, no religious test shall be applied nor shall religious opinions or affiliations of the faculty of the College be made a matter of examination or inquiry: _Provided, however,_ That no professor or instructor in the College shall inculcate sectarian teachings, nor attempt either directly or indirectly, under penalty of dismissal by the Board of Trustees, to influence students attending the College for or against any particular church or religious sect.
 
 ## Section 10
 

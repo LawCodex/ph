@@ -62,7 +62,7 @@ _Separability Clause._ \- If any provision or part hereof is held invalid or unc
 
 ## Section 6
 
-_Repealing Clause._ \- Section 18 of Republic Act No. 8305 is hereby amended or modified accordingly.ℒαwρhi৷ Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+_Repealing Clause._ \- Section 18 of Republic Act No. 8305 is hereby amended or modified accordingly. Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
 
 ## Section 7
 

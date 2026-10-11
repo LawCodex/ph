@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be integrated in the intermediate and secondary curricula whether in public or private schools as well as in the nonformal, informal, and indigenous learning programs the ill effects of drug abuse, drug addiction, or drug dependency.1âшphi1
+There shall be integrated in the intermediate and secondary curricula whether in public or private schools as well as in the nonformal, informal, and indigenous learning programs the ill effects of drug abuse, drug addiction, or drug dependency.
 
 ## Section 2
 

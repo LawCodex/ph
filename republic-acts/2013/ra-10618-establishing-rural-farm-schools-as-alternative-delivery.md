@@ -120,7 +120,7 @@ _Tax Exemption._ – Any donation, contribution, bequest or grant which may be m
 
 ## Section 15
 
-_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the public rural farm schools, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+_Appropriations._ – The Secretary of Education shall immediately include in the Department’s program the operationalization of the public rural farm schools, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 16
 

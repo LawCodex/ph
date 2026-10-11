@@ -81,7 +81,7 @@ _Implementing Rules and Regulations._ \- Within ninety (90) days after the effec
 
 ## Section 10
 
-_Separability Clause._ \- If any provision or part of this Act is declared invalid or unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any provision or part of this Act is declared invalid or unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.
 
 ## Section 11
 

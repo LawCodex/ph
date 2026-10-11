@@ -32,7 +32,7 @@ The Director of Lands, in collaboration with the National Planning Commission, s
 
 ## Section 3
 
-The administration and disposition of the lots within the Mambukal Townsite shall be undertaken by the province, all provisions of existing law to the contrary notwithstanding.1avvphi1
+The administration and disposition of the lots within the Mambukal Townsite shall be undertaken by the province, all provisions of existing law to the contrary notwithstanding.
 
 ## Section 4
 

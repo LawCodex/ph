@@ -389,7 +389,7 @@ _Costs, fees, fines and forfeitures in city court.—_ There shall be taxed agai
 
 ## Section 30
 
-_No person sentenced by the city court to be confined without commitment.—_ No person shall be confined in prison by sentence of the city court until the warden or officer in charge of the prison shall receive a written commitment showing the offense for which the prisoner was tried, the date of the trial, the exact terms of the judgment or sentence, and the date of the order of the commitment.1âшphi1 The clerk shall, under seal of the court, issue such a commitment in each case of sentence to imprisonment.
+_No person sentenced by the city court to be confined without commitment.—_ No person shall be confined in prison by sentence of the city court until the warden or officer in charge of the prison shall receive a written commitment showing the offense for which the prisoner was tried, the date of the trial, the exact terms of the judgment or sentence, and the date of the order of the commitment. The clerk shall, under seal of the court, issue such a commitment in each case of sentence to imprisonment.
 
 ## Section 31
 

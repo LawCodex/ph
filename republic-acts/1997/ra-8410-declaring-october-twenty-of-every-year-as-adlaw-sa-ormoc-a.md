@@ -34,4 +34,4 @@ October 20 of every year is hereby declared as Adlaw sa Ormoc, a special nonwork
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on November 27, 1997 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on November 27, 1997 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

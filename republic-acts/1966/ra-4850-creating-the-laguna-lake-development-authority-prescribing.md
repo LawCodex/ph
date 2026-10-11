@@ -223,7 +223,7 @@ e. To do such other acts and perform such other functions as may be necessary to
 
 ### Section 26
 
-_Powers and Functions of the General Manager._ The General Manager shall be the chief executive of the Authority.1awp++i1 As such, he shall have the following powers and duties:
+_Powers and Functions of the General Manager._ The General Manager shall be the chief executive of the Authority. As such, he shall have the following powers and duties:
 
 a. Submit for consideration of the Board the policies and measures which he believes to be necessary to carry out the purposes and provisions of this Act;
 

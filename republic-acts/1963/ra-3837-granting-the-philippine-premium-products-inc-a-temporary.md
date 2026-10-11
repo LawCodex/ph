@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to the Philippine Premium Products, Inc., its successors or assigns, a permit to construct, establish, maintain and operate in the Philippines, at such places as the said corporation may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point radio stations for the reception and transmission and wireless messages on radiotelegraphy or radiotelephony, each station to be provided with radio transmitting apparatus and a radio receiving apparatus; each fixed point station to be further provided, according to its needs, with a suitable radio receiving and radio transmitting apparatus which shall enable the station to communicate with land and sea mobile stations located within a radius of not more than fifty kilometers of the fixed point station.1âшphi1
+There is hereby granted to the Philippine Premium Products, Inc., its successors or assigns, a permit to construct, establish, maintain and operate in the Philippines, at such places as the said corporation may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point radio stations for the reception and transmission and wireless messages on radiotelegraphy or radiotelephony, each station to be provided with radio transmitting apparatus and a radio receiving apparatus; each fixed point station to be further provided, according to its needs, with a suitable radio receiving and radio transmitting apparatus which shall enable the station to communicate with land and sea mobile stations located within a radius of not more than fifty kilometers of the fixed point station.
 
 ## Section 2
 
@@ -68,7 +68,7 @@ The grantee shall not lease, transfer, grant the use of, sell or assign this per
 
 ## Section 12
 
-This permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This permit shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 13
 

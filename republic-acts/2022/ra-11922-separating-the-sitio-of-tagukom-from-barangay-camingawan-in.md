@@ -56,7 +56,7 @@ _Conduct and Supervision of Plebiscite._ — The plebiscite conducted and superv
 
 ## Section 4
 
-_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Tagukon shall continue to hold office until such time that their successors have been duly elected and qualified.ᇈWᑭHIL
+_Incumbent Barangay Officials._ — The incumbent elected barangay officials of Barangay Tagukon shall continue to hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

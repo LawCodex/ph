@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Homonhon Provincial High School in Homonhon, Municipality of Guiuan, Province of Eastern Samar, is hereby changed to Homonhon High School.1âшphi1
+The name of the Homonhon Provincial High School in Homonhon, Municipality of Guiuan, Province of Eastern Samar, is hereby changed to Homonhon High School.
 
 ## Section 2
 

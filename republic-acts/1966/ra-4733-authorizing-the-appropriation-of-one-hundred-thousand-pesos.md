@@ -51,7 +51,7 @@ The Chief Ceramics Technician shall be responsible for the effective and efficie
 
 ## Section 4
 
-Interested parties desiring to be trained in ceramics at the ceramics unit of the Industrial Research Center, National Institute of Science and Technology, may apply to the head of the ceramics processing plant and, upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not more than three months and transportation expenses from and to their province.1avvphi1 The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.
+Interested parties desiring to be trained in ceramics at the ceramics unit of the Industrial Research Center, National Institute of Science and Technology, may apply to the head of the ceramics processing plant and, upon approval of their application by the Commissioner of the National Institute of Science and Technology, shall be given a daily allowance not exceeding five pesos for a period not more than three months and transportation expenses from and to their province. The number of trainees and their qualifications shall be determined by the Commissioner of said Institute.
 
 ## Section 5
 

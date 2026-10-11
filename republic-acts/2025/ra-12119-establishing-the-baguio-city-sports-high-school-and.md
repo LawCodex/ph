@@ -38,7 +38,7 @@ It shall establish, maintain, and support a comprehensive and integrated system 
 
 _Establishment of the Baguio City Sports High School._ \- There is hereby established in the City of Baguio a specialized public high school that shall offer sports-focused education, to be known as the Baguio City Sports High School, herein referred to as the School.
 
-The School shall be administered and supervised by the Department of Education (DepEd), in close coordination with the Philippine Sports Commission (PSC) and the National Academy Sports (NAS).ℒαwρhi৷
+The School shall be administered and supervised by the Department of Education (DepEd), in close coordination with the Philippine Sports Commission (PSC) and the National Academy Sports (NAS).
 
 It shall be administered and operated in accordance with the policies, guidelines, and criteria to be issued by the NAS System Board of Trustees, pursuant to Section 8(a) of Republic Act No. 11470, or the "The National Academy of Sports" law.
 

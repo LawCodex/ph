@@ -85,7 +85,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 13
 
-_Dispersal of Ownership._ \- In accordance with constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of a national broadcasting network. A "national broadcasting network" is hereby defined as one that operates three or more radio and/or television stations.Ꮮαwρhi৷ Non-compliance therewith shall render the franchise _ipso facto_ revoked.
+_Dispersal of Ownership._ \- In accordance with constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of a national broadcasting network. A "national broadcasting network" is hereby defined as one that operates three or more radio and/or television stations. Non-compliance therewith shall render the franchise _ipso facto_ revoked.
 
 ## Section 14
 

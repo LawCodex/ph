@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section fifty-three of the National Defense Act, as amended, is hereby further amended so as to read as follows:
 
-"Sec. 53. _Young men shall be required to register for (military) training and service in the Armed Forces of the Philippines—Philippine Army, Philippine Constabulary, Philippine Air Force, Philippine Navy, and separate Armed Forces of the Philippines units—_ in the calendar year in which they will attain twenty years of age.1âшphi1 The period of such training and service shall be for eighteen consecutive months. Each such person shall receive military training for a period of at least six months. After such training, he may be assigned for duty and service with elements of the Regular Force."
+"Sec. 53. _Young men shall be required to register for (military) training and service in the Armed Forces of the Philippines—Philippine Army, Philippine Constabulary, Philippine Air Force, Philippine Navy, and separate Armed Forces of the Philippines units—_ in the calendar year in which they will attain twenty years of age. The period of such training and service shall be for eighteen consecutive months. Each such person shall receive military training for a period of at least six months. After such training, he may be assigned for duty and service with elements of the Regular Force."
 
 ## Section 2
 

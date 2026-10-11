@@ -38,7 +38,7 @@ _Responsibility to the Public._ \- The grantee shall provide adequate public ser
 
 _Right of Government._ \- A special right is hereby reserved to the President of the Philippines, in times of rebellion, public peril calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the said stations, temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations during the period when they shall be so operated.
 
-The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn at any time, after due process.1aшphi1
+The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn at any time, after due process.
 
 ## Section 4
 

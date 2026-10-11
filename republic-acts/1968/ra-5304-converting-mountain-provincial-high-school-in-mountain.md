@@ -33,7 +33,7 @@ Upon organization of Mountain Province General Comprehensive High School, the as
 
 ## Section 3
 
-The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school in addition to its matriculation and tuition fees, and other revenues during the fiscal year nineteen hundred sixty-nine.1avvphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school in addition to its matriculation and tuition fees, and other revenues during the fiscal year nineteen hundred sixty-nine. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

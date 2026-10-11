@@ -34,6 +34,8 @@ Upon the recommendation of the Director of Public Schools, the President shall s
 
 The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year ending June thirty, nineteen hundred sixty. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
 
-**Section 4. Thi** s Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+## Section 4
+
+Thi s Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
 
 Approved: June 21, 1959.

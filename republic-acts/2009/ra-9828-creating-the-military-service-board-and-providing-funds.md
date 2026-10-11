@@ -76,7 +76,7 @@ _Resultant Benefits._ \- Any benefit under this Act shall be administered by the
 
 ## Section 12
 
-_Report to the President and Congress._ \- Within thirty (30) days after the expiration of its operations, the Board shall submit to the President and to Congress an accomplishment report detailing the number of claims acted upon and accounting for its funds.1avvphi1
+_Report to the President and Congress._ \- Within thirty (30) days after the expiration of its operations, the Board shall submit to the President and to Congress an accomplishment report detailing the number of claims acted upon and accounting for its funds.
 
 ## Section 13
 

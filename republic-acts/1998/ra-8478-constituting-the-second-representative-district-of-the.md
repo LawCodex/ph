@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the second representative district of the Province of Northern Samar, comprising the municipalities of Catubig, Gamay, Laoang, Lapinig, Las Navas, Mapanas, Palapag, Pambujan, San Roque and Silvino Lobos, is hereby constituted into a separate highway engineering district to be known as the Second Highway Engineering District of the Province of Northern Samar. It shall have the jurisdiction of the funds, and shall take charge in the implementation of public works projects for the municipalities comprised in the said engineering district only. It shall have one highway engineer to be appointed in accordance with existing laws and who shall have office in Gamay, Northern Samar.Ꮮαwρhi৷
+Any provision of law to the contrary notwithstanding, the second representative district of the Province of Northern Samar, comprising the municipalities of Catubig, Gamay, Laoang, Lapinig, Las Navas, Mapanas, Palapag, Pambujan, San Roque and Silvino Lobos, is hereby constituted into a separate highway engineering district to be known as the Second Highway Engineering District of the Province of Northern Samar. It shall have the jurisdiction of the funds, and shall take charge in the implementation of public works projects for the municipalities comprised in the said engineering district only. It shall have one highway engineer to be appointed in accordance with existing laws and who shall have office in Gamay, Northern Samar.
 
 ## Section 2
 

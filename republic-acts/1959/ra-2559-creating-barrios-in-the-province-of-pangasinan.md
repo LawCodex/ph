@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The following sitios in the Municipality of Labrador, Province of Pangasinan, are constituted into a barrio of the said municipality, as follows:
 
-Sitios of Tokoc, Polowen and the adjoining part of Barrio Bolo bordering Silag to Barrio Magsaysay.1âшphi1
+Sitios of Tokoc, Polowen and the adjoining part of Barrio Bolo bordering Silag to Barrio Magsaysay.
 
 ## Section 2
 

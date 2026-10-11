@@ -37,7 +37,7 @@ The head of the regional branch shall be a vice-president who, together with the
 
 ## Section 4
 
-The initial sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to be expended in the discretion of the Board of Trustees to carry out the purposes of this Act. For the succeeding four years, a similar amount is hereby authorized to be appropriated each year for the same purpose.1âшphi1 Thereafter, the necessary funds needed for the operation and maintenance of these regional branches of the Philippine Normal College shall be included in the annual General Appropriations Act.
+The initial sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to be expended in the discretion of the Board of Trustees to carry out the purposes of this Act. For the succeeding four years, a similar amount is hereby authorized to be appropriated each year for the same purpose. Thereafter, the necessary funds needed for the operation and maintenance of these regional branches of the Philippine Normal College shall be included in the annual General Appropriations Act.
 
 ## Section 5
 

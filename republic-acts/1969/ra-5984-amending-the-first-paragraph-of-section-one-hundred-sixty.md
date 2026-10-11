@@ -35,6 +35,6 @@ Such sum as may be needed in the adjustment of salaries herein involved shall be
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

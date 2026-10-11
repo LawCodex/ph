@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The seat of government of the Municipality of Salug, Province of Zamboanga del Norte, is transferred from the barrio of Mucas to the barrio of Salug.1avvphi1
+The seat of government of the Municipality of Salug, Province of Zamboanga del Norte, is transferred from the barrio of Mucas to the barrio of Salug.
 
 ## Section 2
 

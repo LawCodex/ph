@@ -34,6 +34,6 @@ The following sitios in the Municipality of Sergio Osmena, Sr., Province of Zamb
 
 ## Section 2
 
-THIS ACT SHALL TAKE EFFECT UPON ITS APPROVAL.1a⍵⍴h!1
+THIS ACT SHALL TAKE EFFECT UPON ITS APPROVAL.
 
 Approved, June 21, 1969.

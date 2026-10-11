@@ -32,7 +32,7 @@ The President of the Philippines shall have the power and authority to permit th
 
 ## Section 3
 
-This grant and concession shall continue for a period of twenty-five years from the date said stations shall be placed in operation and is made upon the express conditions that the same shall be void unless the construction of said stations shall be begun within two years from date of approval of this Act and be completed within four years from said date.1âшphi1
+This grant and concession shall continue for a period of twenty-five years from the date said stations shall be placed in operation and is made upon the express conditions that the same shall be void unless the construction of said stations shall be begun within two years from date of approval of this Act and be completed within four years from said date.
 
 ## Section 4
 

@@ -34,7 +34,7 @@ September 1 of every year is declared a special working holiday and no class day
 
 ## Section 2
 
-For work performed on a special working holiday, an employee is entitled to his/her regualr wage.ℒαwρhi৷
+For work performed on a special working holiday, an employee is entitled to his/her regualr wage.
 
 ## Section 3
 

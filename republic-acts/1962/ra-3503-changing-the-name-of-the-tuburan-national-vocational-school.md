@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, is hereby changed to Tuburan National School. General courses as well as vocational courses shall be offered in said school.1âшphi1
+The name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, is hereby changed to Tuburan National School. General courses as well as vocational courses shall be offered in said school.
 
 ## Section 2
 

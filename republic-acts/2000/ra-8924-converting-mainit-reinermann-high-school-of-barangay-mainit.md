@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Mainit-Reinermann High School of Barangay Mainit, Municipality of Nabunturan, Compostela Valley Province shall be converted into a national high school to be known as Mainit National High School under the supervision of the Department of Education, Culture and Sports (DECS).ℒαwρhi৷
+The Mainit-Reinermann High School of Barangay Mainit, Municipality of Nabunturan, Compostela Valley Province shall be converted into a national high school to be known as Mainit National High School under the supervision of the Department of Education, Culture and Sports (DECS).
 
 ## Section 2
 

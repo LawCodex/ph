@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the Province of Ilocos Sur is hereby constituted into two engineering districts.1awp++i1 The municipalities comprising the first and second congressional districts shall likewise comprise the first and second engineering districts thereof, respectively.
+Any provision of law to the contrary notwithstanding, the Province of Ilocos Sur is hereby constituted into two engineering districts. The municipalities comprising the first and second congressional districts shall likewise comprise the first and second engineering districts thereof, respectively.
 
 ## Section 2
 

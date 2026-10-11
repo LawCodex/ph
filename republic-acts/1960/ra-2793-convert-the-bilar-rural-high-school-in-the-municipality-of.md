@@ -28,7 +28,7 @@ The Bilar Rural High School located in the Municipality of Bilar, Province of Bo
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional appropriation to carry out the provisions of this Act.£a⩊phi£
+The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional appropriation to carry out the provisions of this Act.
 
 ## Section 3
 

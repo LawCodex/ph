@@ -32,7 +32,7 @@ The Barotac Nuevo National High School in the Municipality of Barotac Nuevo, Pro
 
 ## Section 2
 
-The school, in addition to its present secondary offerings, is hereby authorized to offer post secondary programs in agriculture, technology and engineering and teacher education, which are priority programs of the government schools as well as short-term technical and vocational courses, subject to the policies of the Department of Education, Culture and Sports.1aшphi1
+The school, in addition to its present secondary offerings, is hereby authorized to offer post secondary programs in agriculture, technology and engineering and teacher education, which are priority programs of the government schools as well as short-term technical and vocational courses, subject to the policies of the Department of Education, Culture and Sports.
 
 ## Section 3
 

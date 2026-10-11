@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Banga in the Municipality of Banga, Province of Aklan, is converted into a barrio of said municipality to be known as the barrio of Sibaliw. This barrio is bounded on the North by the Panatalian Creek, on the East by the old sitio cemetery, on the South by the boundary line of the Municipality of Balete, and on the West by the sitio of Badiangan in barrio Tarralba.1avvphi1
+The sitio of Banga in the Municipality of Banga, Province of Aklan, is converted into a barrio of said municipality to be known as the barrio of Sibaliw. This barrio is bounded on the North by the Panatalian Creek, on the East by the old sitio cemetery, on the South by the boundary line of the Municipality of Balete, and on the West by the sitio of Badiangan in barrio Tarralba.
 
 ## Section 2
 

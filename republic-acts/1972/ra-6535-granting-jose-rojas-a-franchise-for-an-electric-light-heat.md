@@ -45,7 +45,7 @@ In consideration of this franchise, the grantee shall pay a tax equivalent to fi
 
 ## Section 6
 
-The franchise herein granted shall be inoperative in the town of Mariveles and other areas being served by the present franchise holder, Mariveles Electric Company, Inc.1âшphi1
+The franchise herein granted shall be inoperative in the town of Mariveles and other areas being served by the present franchise holder, Mariveles Electric Company, Inc.
 
 ## Section 7
 

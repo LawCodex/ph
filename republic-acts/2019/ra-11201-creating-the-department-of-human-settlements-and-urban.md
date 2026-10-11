@@ -300,7 +300,7 @@ The person adjudged in direct contempt by the Adjudicator may appeal to the Comm
 
 (4) Complainant has no adequate remedy at law; and
 
-(5) Public officers charged with the duty to protect complainant’s property are unable or unwilling to furnish adequate protection.1avvphi1
+(5) Public officers charged with the duty to protect complainant’s property are unable or unwilling to furnish adequate protection.
 
 (e) To exercise such other powers as are implied, necessary, or incidental to carry out the express powers granted to the Commission.
 
@@ -376,7 +376,7 @@ Any reorganization, merger, streamlining, abolition or privatization of any atta
 
 ### Section 23
 
-_Housing One-Stop Processing Centers (HOPCs)._ \- The Department shall establish HOPCs in the regions, which shall centralize the processing and issuance of all required housing-related permits, clearances, and licenses in accordance with Executive Order No. 45, series of 2001, entitled "Prescribing Time Periods for Issuance of Housing Related Certifications, Clearances and Permits, and Imposing Sanctions for Failure’to Observe the Same": _Provided,_ That for the foregoing purpose, the respective ceilings for socialized, low cost/economic and middle-income housing shall be jointly determined by the Department and NEDA: _Provided, further,_ That at any time, but not more than once every two (2) years, such ceilings may be reviewed or revised to conform to prevailing economic conditions.1âwphi1
+_Housing One-Stop Processing Centers (HOPCs)._ \- The Department shall establish HOPCs in the regions, which shall centralize the processing and issuance of all required housing-related permits, clearances, and licenses in accordance with Executive Order No. 45, series of 2001, entitled "Prescribing Time Periods for Issuance of Housing Related Certifications, Clearances and Permits, and Imposing Sanctions for Failure’to Observe the Same": _Provided,_ That for the foregoing purpose, the respective ceilings for socialized, low cost/economic and middle-income housing shall be jointly determined by the Department and NEDA: _Provided, further,_ That at any time, but not more than once every two (2) years, such ceilings may be reviewed or revised to conform to prevailing economic conditions.
 
 All agencies involved in the issuance of said permits, clearances and licenses shall be represented in the HOPC and shall assign to HOPC regional centers personnel who shall be sufficiently authorized to process and issue the same.
 
@@ -412,7 +412,7 @@ _Transfer of Assets and Obligations._ \- The following dispositive actions shall
 
 (a) The assets, equipment, funds, records, and pertinent transactions of HUDCC and HLURB shall be transferred to the Department and the Commission; and
 
-(b) The Department and the Commission shall cause the creation of additional positions and augment their budget appropriations, as may be necessary.1âwphi1
+(b) The Department and the Commission shall cause the creation of additional positions and augment their budget appropriations, as may be necessary.
 
 ### Section 28
 
@@ -444,7 +444,7 @@ _Separability Clause._ \- If, for any reason, any portion or provision of this A
 
 ### Section 34
 
-_Repealing Clause._ \- Executive Order No. 90, s. 1986 and Executive Order No. 648, s. 1981, are hereby repealed.1âwphi1
+_Repealing Clause._ \- Executive Order No. 90, s. 1986 and Executive Order No. 648, s. 1981, are hereby repealed.
 
 All other laws, executive orders, proclamations, rules, regulations, and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby amended or modified accordingly.
 

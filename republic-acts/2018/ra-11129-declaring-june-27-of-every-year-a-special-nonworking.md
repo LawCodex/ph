@@ -29,7 +29,7 @@ _Be it enacted by the Senate and House of Representatives of the Philippine Cong
 
 ## Section 1
 
-June 27 of every year is hereby declared a special nonworking holiday in the City of El Salvador, Province of Misamis Oriental, in commemoration of its charter day anniversary, to be known as "Araw ng El Salvador".1âwphi1
+June 27 of every year is hereby declared a special nonworking holiday in the City of El Salvador, Province of Misamis Oriental, in commemoration of its charter day anniversary, to be known as "Araw ng El Salvador".
 
 ## Section 2
 

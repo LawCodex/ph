@@ -93,7 +93,7 @@ Beginning at a point marked "1" on plan, being S.56'E, 2384.43 from triangulatio
 | Thence N 38 deg. 35'E | 25.24 m. to point 55; |
 | Thence S 59 deg, 53'E | 188.84 m. to the point of beginning. Containing an area of Two Hundred Four Thousand Nine Hundred One (204,901) Square Meters. |
 
-All points referred to are indicated on the plan and marked on the ground as follows: Points 1, 2, 3, and 14, 15, 16, 19, 22, 24, 26, 31, 40, 42, 43, 44, 45, and 47, by P. S. Cyl. Conc. Mons.; points 6 and 12, by old P.L.S. Conc. Mons., point 30, by Cross on Cone. Wall; points 36 and 37, by Conc. Mons; points 38, 49, 50, and 51, by Conc. Posts; point 39, by Steel Pipe; point 48, by Wooden Post; points 52, 53, and 54, by old P. S. Cyl. Conc. Mons., and rest, by B. L. Cyl Conc. Mons.1âшphi1
+All points referred to are indicated on the plan and marked on the ground as follows: Points 1, 2, 3, and 14, 15, 16, 19, 22, 24, 26, 31, 40, 42, 43, 44, 45, and 47, by P. S. Cyl. Conc. Mons.; points 6 and 12, by old P.L.S. Conc. Mons., point 30, by Cross on Cone. Wall; points 36 and 37, by Conc. Mons; points 38, 49, 50, and 51, by Conc. Posts; point 39, by Steel Pipe; point 48, by Wooden Post; points 52, 53, and 54, by old P. S. Cyl. Conc. Mons., and rest, by B. L. Cyl Conc. Mons.
 
 Bearings true. Surveyed On March 1, 1965, to July 30, 1965, and approved on August 30, 1965.
 

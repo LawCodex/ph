@@ -31,7 +31,7 @@ The Iloilo National Agricultural School in the Municipality of Lambunao, Provinc
 
 (b) Four-year technical course leading to the degree of Bachelor of Science in Agriculture; and
 
-(c) Two-year technical agricultural course leading to the title of Associate in Agriculture.(awÞhi(
+(c) Two-year technical agricultural course leading to the title of Associate in Agriculture.
 
 ## Section 2
 

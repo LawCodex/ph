@@ -32,7 +32,7 @@ The Calapagan National High School in Barangay Calapagan, Lupon, Davao Oriental,
 
 ## Section 2
 
-The School shall, in addition to its present secondary school curricula, offer agricultural, technical and other vocational subjects.1aшphi1
+The School shall, in addition to its present secondary school curricula, offer agricultural, technical and other vocational subjects.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ Subject to the provisions of the Constitution, as well as of Act Numbered Thirty
 
 ## Section 2
 
-As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines, in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise.1avvphi1 If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines, in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise. If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 3
 
@@ -82,7 +82,7 @@ The grantee shall further be liable to pay all other taxes that may be imposed b
 
 ## Section 15
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 16
 

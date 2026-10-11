@@ -48,7 +48,7 @@ This franchise shall not take effect until the Secretary of Public Works and Com
 
 ## Section 7
 
-No fees shall be charged by the grantee in connection with this franchise, inasmuch as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.1âшphi1
+No fees shall be charged by the grantee in connection with this franchise, inasmuch as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.
 
 ## Section 8
 

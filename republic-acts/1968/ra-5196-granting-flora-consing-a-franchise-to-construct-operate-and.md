@@ -45,7 +45,7 @@ The books records and accounts of the grantee shall always be opened to inspecti
 
 ## Section 6
 
-This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred and forty-six as amended only with respect to the fixing of rates.1avvphi1 In consideration of the franchise hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for ice and cold storage sold under this franchise, three per centum of which shall accrue to the national government, and two per centum to the municipality or city where it is operating.
+This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred and forty-six as amended only with respect to the fixing of rates. In consideration of the franchise hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for ice and cold storage sold under this franchise, three per centum of which shall accrue to the national government, and two per centum to the municipality or city where it is operating.
 
 ## Section 7
 

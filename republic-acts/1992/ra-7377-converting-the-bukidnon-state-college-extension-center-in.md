@@ -41,7 +41,7 @@ The Surigao del Sur Polytechnic College shall be headed by a Vocational Superint
 
 ## Section 5
 
-The administrative and academic staff of the Surigao del Sur Polytechnic College shall be structured and organized as with other DECS-supervised colleges and with terms and salaries according to DECS' regulations or applicable laws.1âшphi1
+The administrative and academic staff of the Surigao del Sur Polytechnic College shall be structured and organized as with other DECS-supervised colleges and with terms and salaries according to DECS' regulations or applicable laws.
 
 ## Section 6
 

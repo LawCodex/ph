@@ -40,7 +40,7 @@ All personnel, records, assets, and liabilities of the Calimbajan Tina Barangay 
 
 ## Section 4
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1aшphi1
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 5
 

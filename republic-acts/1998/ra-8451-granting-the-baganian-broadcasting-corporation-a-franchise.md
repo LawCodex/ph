@@ -31,7 +31,7 @@ _Nature and Scope of Franchise._ – Subject to the provisions of the Constituti
 
 ## Section 2
 
-_Manner of Operation of Stations or Facilities._ – The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.Ꮮαwρhi৷
+_Manner of Operation of Stations or Facilities._ – The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
 
 ## Section 3
 
@@ -89,7 +89,7 @@ _Dispersal of Ownership._ – In accordance with constitutional provision to enc
 
 ## Section 14
 
-_General Broadcast Policy Law._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.Ꮮαwρhi৷
+_General Broadcast Policy Law._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.
 
 ## Section 15
 

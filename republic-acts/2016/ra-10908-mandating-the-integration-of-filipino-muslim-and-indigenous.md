@@ -42,7 +42,7 @@ _Key Content._ \- In the formulation of the curriculum for an inclusive and inte
 
 ## Section 4
 
-_Repealing Clause._ \- Any provision of law or regulation inconsistent herewith is hereby repealed, revoked or modified accordingly.1âwphi1
+_Repealing Clause._ \- Any provision of law or regulation inconsistent herewith is hereby repealed, revoked or modified accordingly.
 
 ## Section 5
 

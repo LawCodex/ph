@@ -29,7 +29,7 @@ The name of the Surigao del Sur Provincial Hospital in the Municipality of Tanda
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

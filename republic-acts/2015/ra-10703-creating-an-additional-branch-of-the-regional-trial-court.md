@@ -35,7 +35,7 @@ An additional branch of the Regional Trial Court to be stationed in the City of 
 
 ## SECTION 2
 
-The Supreme Court shall assign the branch number of the newly created branch of the Regional Trial Court in the Seventh Judicial Region.1âwphi1
+The Supreme Court shall assign the branch number of the newly created branch of the Regional Trial Court in the Seventh Judicial Region.
 
 ## SECTION 3
 

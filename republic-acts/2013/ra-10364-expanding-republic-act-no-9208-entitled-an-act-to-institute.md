@@ -456,7 +456,7 @@ A new Section 26-A is hereby inserted into Republic Act No. 9208, to read as fol
 
 Section 28 of Republic Act No. 9208 is hereby amended, to read as follows:
 
-"SEC. 28. _Funding. –_ The amount necessary to implement the provisions of this Act shall be charged against the current year’s appropriations of the Inter-Agency Council Against Trafficking under the budget of the DOJ and the appropriations of the other concerned departments. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act."1âwphi1
+"SEC. 28. _Funding. –_ The amount necessary to implement the provisions of this Act shall be charged against the current year’s appropriations of the Inter-Agency Council Against Trafficking under the budget of the DOJ and the appropriations of the other concerned departments. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act."
 
 ## Section 25
 

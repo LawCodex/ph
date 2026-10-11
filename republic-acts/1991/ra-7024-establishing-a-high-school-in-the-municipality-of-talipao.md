@@ -21,11 +21,11 @@ retrieved: 2026-10-12
 
 AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF TALIPAO, PROVINCE OF SULU, TO BE KNOWN AS THE TALIPAO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 
-There shall be established a high school in the Municipality of Talipao, Province of Sulu, to be known as the Talipao High School.1âшphi1
+There shall be established a high school in the Municipality of Talipao, Province of Sulu, to be known as the Talipao High School.
 
 ## Section 2
 

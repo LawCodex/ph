@@ -46,7 +46,7 @@ The Board of Trustees shall have the following powers and duties, in addition to
 
 (a) To receive and appropriate to the ends specified by law such sums of money as may be provided by law for the support of the college;
 
-(b) To confer the titles of Associate in Agriculture and Associate in Agricultural Education, and the degrees of Bachelor of Science in Agriculture, Bachelor of Science in Agricultural Education, Bachelor of Science in Home Economics, Master of Science and Master of Agricultural Education.1âшphi1
+(b) To confer the titles of Associate in Agriculture and Associate in Agricultural Education, and the degrees of Bachelor of Science in Agriculture, Bachelor of Science in Agricultural Education, Bachelor of Science in Home Economics, Master of Science and Master of Agricultural Education.
 
 (c) To appoint, on the recommendation of the President of the College, instructors, professors, lecturers, and other employees of the college; to fix their compensation, hours of service and such other duties and conditions as it may deem proper; to grant to them, in its discretion, leave of absence under such regulations as it may promulgate, any other provisions of law notwithstanding, and to remove them for cause after an investigation and hearing shall have had;
 
@@ -70,7 +70,7 @@ On or before the fifteenth day of June of each year, the Board of Trustees shall
 
 ## Section 8
 
-There shall be a College Council consisting of the President of the College, as presiding officer and all instructors and professors of the college, as members.1awp++i1 The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the college, as well as for graduation and the receiving of a title or a degree. The Council alone shall have the power to recommend students or others to be recipients of titles or degrees. Through its President or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+There shall be a College Council consisting of the President of the College, as presiding officer and all instructors and professors of the college, as members. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the college, as well as for graduation and the receiving of a title or a degree. The Council alone shall have the power to recommend students or others to be recipients of titles or degrees. Through its President or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
 
 ## Section 9
 

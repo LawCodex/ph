@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In commemoration of the birth anniversary of the first President of the Philippine National Red Cross Doña Aurora Aragon Quezon, and the foundation day of the Province of Aurora, February Nineteen of each year is hereby declared as a special nonworking holiday in the said province.1âшphi1
+In commemoration of the birth anniversary of the first President of the Philippine National Red Cross Doña Aurora Aragon Quezon, and the foundation day of the Province of Aurora, February Nineteen of each year is hereby declared as a special nonworking holiday in the said province.
 
 ## Section 2
 

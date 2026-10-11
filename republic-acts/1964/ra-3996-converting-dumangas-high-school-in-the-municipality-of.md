@@ -29,7 +29,7 @@ The Dumangas High School is hereby converted into a national high school, to be 
 
 ## Section 2
 
-Upon organization of the Dumangas General Comprehensive High School, the assets, liabilities, personnel, equipment and records of Dumangas High School shall stand transferred to Dumangas General Comprehensive High School.1âшphi1
+Upon organization of the Dumangas General Comprehensive High School, the assets, liabilities, personnel, equipment and records of Dumangas High School shall stand transferred to Dumangas General Comprehensive High School.
 
 ## Section 3
 

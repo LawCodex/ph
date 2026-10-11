@@ -104,7 +104,7 @@ _Definition of Terms._ — As used in this Act:
 
 (bb) Public Rural Infrastructure refers to infrastructure in rural communities such as highways, streets, bridges, tunnels, railways, railroads, transport systems, ports, airports, hydropower projects, canals, dams, irrigation, government buildings and housing projects, public schools, public hospitals, public health centers, public markets, slaughterhouses, warehouses, solid waste management, sewerage, flood control, drainage, dredging and other similar infrastructure projects;
 
-(cc) Registry System for Basic Sectors in Agriculture (RSBSA) refers to an electronic compilation of basic information on farmers, farmworkers, and fisherfolk.1a⍵⍴h!1 The database, which includes the profile of farmers, farmworkers and fisherfolk, and additional information such as farm parcels and fisheries, among others, is mainly used to help government planners and policymakers in formulating policies for agricultural development;
+(cc) Registry System for Basic Sectors in Agriculture (RSBSA) refers to an electronic compilation of basic information on farmers, farmworkers, and fisherfolk. The database, which includes the profile of farmers, farmworkers and fisherfolk, and additional information such as farm parcels and fisheries, among others, is mainly used to help government planners and policymakers in formulating policies for agricultural development;
 
 (dd) Rural Community refers to an area that is defined as such by the Philippine Statistics Authority (PSA);
 
@@ -162,7 +162,7 @@ _Provided,_ That the loans and investments that are counted as compliance are no
 
 The modes of compliance enumerated in this section shall be subject to review by the ACPC after implementation to determine whether these are adequate to support the financing requirements of rural communities and recommend to Congress for appropriate action.
 
-The BSP, the Department of Agriculture (DA) and the DAR may provide inputs to the review process in their capacity as members of the ACPC.1a⍵⍴h!1
+The BSP, the Department of Agriculture (DA) and the DAR may provide inputs to the review process in their capacity as members of the ACPC.
 
 Further, the BSP shall be authorized to identify other actions that may be considered as eligible modes of compliance with the mandatory credit to rural community beneficiaries.
 
@@ -178,7 +178,7 @@ _Penalty Clause._ — The BSP shall impose administrative sanctions and other pe
 
 _Special Fund._ — The Special Fund shall consist of penalties due from banks on their noncompliance or undercompliance with the mandatory agri-agra credit requirement under Republic Act No. 10000, collected after the effectivity of this Act, net of the five percent (5%) amount to be retained by the BSP and the twenty percent (20%) to be allocated as fund for agricultural- and fishery-related organizational- capacity- and institution-building programs and activities in accordance with Section 9 of this Act, and penalties collected under Section 9 of this Act.
 
-The annual penalties for noncompliance and undercompliance with the mandatory agri-agra credit that are collected by the BSP under this Act shall be remitted directly to the implementing agencies, within one (1) year and six (6) months from imposition of the same, for distribution in accordance with the provisions under Sections 9, 10 and 11 of this Act.ℒαwρhi৷
+The annual penalties for noncompliance and undercompliance with the mandatory agri-agra credit that are collected by the BSP under this Act shall be remitted directly to the implementing agencies, within one (1) year and six (6) months from imposition of the same, for distribution in accordance with the provisions under Sections 9, 10 and 11 of this Act.
 
 ## Section 11
 

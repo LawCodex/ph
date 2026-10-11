@@ -28,7 +28,7 @@ There is created an Agricultural Code Commission which shall be composed of a ch
 
 ## Section 2
 
-It shall be the duty of the said Commission to revise all the existing substantive and procedural laws and jurisprudence relative and/or pertinent to agriculture of the Philippines, and to codify the same in conformity with the economic needs and objectives, customs, traditions and idiosyncrasies of the Filipino people and with the progressive principles of the sciences of law and economics.1awp++i1 The Commission shall complete its work not later than two years from the date of approval of this Act, and shall submit to the President of the Philippines a report of the work undertaken by it together with the corresponding drafts of the code for submission to the Congress of the Philippines.
+It shall be the duty of the said Commission to revise all the existing substantive and procedural laws and jurisprudence relative and/or pertinent to agriculture of the Philippines, and to codify the same in conformity with the economic needs and objectives, customs, traditions and idiosyncrasies of the Filipino people and with the progressive principles of the sciences of law and economics. The Commission shall complete its work not later than two years from the date of approval of this Act, and shall submit to the President of the Philippines a report of the work undertaken by it together with the corresponding drafts of the code for submission to the Congress of the Philippines.
 
 ## Section 3
 
@@ -40,7 +40,7 @@ The Commission is empowered to call on any official or employee of any bureau, o
 
 ## Section 5
 
-Upon the completion of its work and the submission of its report, the Commission shall cease to exist and the services of the chairman and the members of the same and of all the employees working under it shall terminate. All records and documents and proceedings of the Commission shall be delivered to the National Library for preservation or disposition by the latter office according to law. The other properties of the Commission shall be disposed of in accordance with the Accounting Law and regulations.1avvphi1 T he unexpended balances of its appropriations shall revert to the unappropriated general fund in the National Treasury.
+Upon the completion of its work and the submission of its report, the Commission shall cease to exist and the services of the chairman and the members of the same and of all the employees working under it shall terminate. All records and documents and proceedings of the Commission shall be delivered to the National Library for preservation or disposition by the latter office according to law. The other properties of the Commission shall be disposed of in accordance with the Accounting Law and regulations. T he unexpended balances of its appropriations shall revert to the unappropriated general fund in the National Treasury.
 
 ## Section 6
 

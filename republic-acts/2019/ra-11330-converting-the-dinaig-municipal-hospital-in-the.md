@@ -38,7 +38,7 @@ The existing hospital facilities and professional health care services of the Da
 
 ## Section 3
 
-The Provincial Government of Maguindanao shall continue to provide funding for the Datu Odin Sinsuat District Hospital.1âшphi1 The Secretary of Health shall include in the Department‘s subsidy program, support for the capital outlay requirements of the said district hospital.
+The Provincial Government of Maguindanao shall continue to provide funding for the Datu Odin Sinsuat District Hospital. The Secretary of Health shall include in the Department‘s subsidy program, support for the capital outlay requirements of the said district hospital.
 
 ## Section 4
 

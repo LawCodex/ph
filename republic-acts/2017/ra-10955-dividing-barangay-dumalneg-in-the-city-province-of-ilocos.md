@@ -53,7 +53,7 @@ On the Southwest (SW), along fines 3 to 5, by Barangay Cabaritan;
 
 On the Northwest (NW), along lines 5 to 32, by Barangay Cabaritan; along lines 32-35. by Barangay Quibel; along fines 35-52, by Municipality of Bangui; along fines 52-72, by Bolo River;
 
-On the Northeast (NE), along lines 72-75, by Bolo River; along fine 75-76, by Municipality of Pagudpud; along fines 76-1, by Municipality of Adams.1âwphi1
+On the Northeast (NE), along lines 72-75, by Bolo River; along fine 75-76, by Municipality of Pagudpud; along fines 76-1, by Municipality of Adams.
 
 The technical description of Barangay Kalaw is as follows:
 
@@ -108,7 +108,7 @@ The technical description of Barangay Kalaw is as follows:
 <td>W</td>
 <td>496.64</td>
 <td></td>
-</tr><cite>1âwphi1</cite>
+</tr>
 <tr>
 <td>6-7</td>
 <td>N</td>

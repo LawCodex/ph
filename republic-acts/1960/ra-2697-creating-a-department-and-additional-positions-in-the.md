@@ -121,6 +121,6 @@ There is hereby appropriated, out of any funds in the National Treasury not othe
 
 ## Section 3
 
-This Act shall take effect on July 1, 1960.1a⍵⍴h!1
+This Act shall take effect on July 1, 1960.
 
 Approved, June 18, 1960.

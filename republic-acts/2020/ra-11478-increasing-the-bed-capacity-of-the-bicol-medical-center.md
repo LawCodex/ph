@@ -37,7 +37,7 @@ _Upgrade of Service Facilities._ \- The existing hospital facilities and profess
 
 ## Section 3
 
-_Increase in Personnel._ \- Upon consultation with the management of the BMC, the Secretary of Health shall, in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional plantilla positions to be created and filled up in the workforce of the BMC.ℒαwρhi৷
+_Increase in Personnel._ \- Upon consultation with the management of the BMC, the Secretary of Health shall, in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional plantilla positions to be created and filled up in the workforce of the BMC.
 
 ## Section 4
 

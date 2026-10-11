@@ -26,15 +26,21 @@ AN ACT CREATING THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH C
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short Title._** \- This Act shall be known as **the "_Traditional and Alternative Medicine Act (TAMA) of 1997._ "**
+### Section 1
+
+_Short Title._ \- This Act shall be known as **the "_Traditional and Alternative Medicine Act (TAMA) of 1997._ "**
 
 ## ARTICLE I — GUIDING PRINCIPLES
 
-**Section 2._Declaration of Policy._** \- It is hereby declared the policy of the State to improve the quality and delivery of health care services to the Filipino people through the development of traditional and alternative health care and its integration into the national health care delivery system.
+### Section 2
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to improve the quality and delivery of health care services to the Filipino people through the development of traditional and alternative health care and its integration into the national health care delivery system.
 
 It shall also be the policy of the State to seek a legally workable basis by which indigenous societies would own their knowledge of traditional medicine. When such knowledge is used by outsiders, the indigenous societies can require the permitted users to acknowledge its source and can demand a share of any financial return that may come from its authorized commercial use.
 
-**Section 3._Objectives._** \- The objectives of this Act are as follows:
+### Section 3
+
+_Objectives._ \- The objectives of this Act are as follows:
 
 (a) To encourage scientific research on and develop traditional and alternative health care systems that have direct impact on public health care;
 
@@ -52,7 +58,9 @@ It shall also be the policy of the State to seek a legally workable basis by whi
 
 ## ARTICLE II — DEFINITION OF TERMS
 
-**Section 4._Definition of Terms._** \- As used in this Act, the following terms shall mean:
+### Section 4
+
+_Definition of Terms._ \- As used in this Act, the following terms shall mean:
 
 (a) "_Traditional and alternative health care_ " - the sum total of knowledge, skills and practices on health care, other than those embodied in biomedicine, used in the prevention, diagnosis and elimination of physical or mental disorder.
 
@@ -76,9 +84,13 @@ Plant material includes juices, gums, fatty oils, essential oils, and other subs
 
 ## ARTICLE III — THE PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE
 
-**Section 5._Philippine Institute of Traditional and Alternative Health Care._** \- There is hereby established a body corporate to be known as the Philippine Institute of Traditional and Alternative Health Care, hereinafter referred to as the Institute. The Institute shall be attached to the Department of Health. Its principal flag office shall be in Metro Manila, but it may establish other branches or offices elsewhere in the Philippines as may be necessary or proper for the accomplishment of its purposes and objectives.
+### Section 5
 
-**Section 6._Powers and Functions._** \- In furtherance of its purposes and objectives, the Institute shall have the following powers and functions:
+_Philippine Institute of Traditional and Alternative Health Care._ \- There is hereby established a body corporate to be known as the Philippine Institute of Traditional and Alternative Health Care, hereinafter referred to as the Institute. The Institute shall be attached to the Department of Health. Its principal flag office shall be in Metro Manila, but it may establish other branches or offices elsewhere in the Philippines as may be necessary or proper for the accomplishment of its purposes and objectives.
+
+### Section 6
+
+_Powers and Functions._ \- In furtherance of its purposes and objectives, the Institute shall have the following powers and functions:
 
 (a) To plan and carry out research and development activities in the areas of traditional and alternative health care and its ultimate integration into the national health care delivery system;
 
@@ -120,7 +132,9 @@ Plant material includes juices, gums, fatty oils, essential oils, and other subs
 
 (t) To exercise such other powers and functions, and perform other acts as may be necessary, proper or incidental to the attainment of its purposes and objectives.
 
-**Section 7._Board of Trustees._** \- The corporate powers of the Institute shall be exercised, and all its business, activities and properties shall be controlled by a Board of Trustees, hereinafter referred to as the Board.
+### Section 7
+
+_Board of Trustees._ \- The corporate powers of the Institute shall be exercised, and all its business, activities and properties shall be controlled by a Board of Trustees, hereinafter referred to as the Board.
 
 (a) _Composition._ \- The Board shall be composed of the following:
 
@@ -162,7 +176,9 @@ Any member appointed to a vacancy shall serve only for the unexpired term of the
 
 (c) _Allowances and per diems._ \- The members of the Board shall receive a per them for every meeting actually attended subject to the pertinent budgetary laws, rules and regulations on compensation, honoraria and allowances.
 
-**Section 8._Powers and Functions of the Board._** \- The Board shall exercise the following powers and functions:
+### Section 8
+
+_Powers and Functions of the Board._ \- The Board shall exercise the following powers and functions:
 
 (a) To define and approve the programs, plans, policies, procedures and guidelines for the Institute in accordance with its purposes and objectives, and to control the management, operation and administration of the Institute;
 
@@ -178,11 +194,15 @@ Any member appointed to a vacancy shall serve only for the unexpired term of the
 
 (g) To exercise such other powers and functions and perform such other acts as may be necessary or proper for the attainment of the purposes and objectives of the Institute, or as may be delegated by the Secretary of Health.
 
-**Section 9._Director General and Other Officers._** \- The Institute shall be headed by a Director General who shall be appointed by the President of the Philippines upon recommendation of the Secretary of Health. The Director General shall have a term of six (6) years.
+### Section 9
+
+_Director General and Other Officers._ \- The Institute shall be headed by a Director General who shall be appointed by the President of the Philippines upon recommendation of the Secretary of Health. The Director General shall have a term of six (6) years.
 
 The Director General shall be assisted by such Deputy Director General(s) and program managers/coordinators as the Board may determine to carry out the purposes and objectives of this Act.
 
-**Section 10._Powers, Functions and Duties of the Director General._** \- The Director General shall have the following powers, functions and duties:
+### Section 10
+
+_Powers, Functions and Duties of the Director General._ \- The Director General shall have the following powers, functions and duties:
 
 (a) To exercise overall supervision and direction over the implementation of all research and development programs of the Institute, and to supervise and direct the management, operation and administration of the Institute;
 
@@ -196,25 +216,39 @@ The Director General shall be assisted by such Deputy Director General(s) and pr
 
 (f) To exercise such other powers and functions and perform such other duties as may be authorized by the Board.
 
-**Section 11._Government Agency Support and Coordination._** \- The Institute may, for the purpose of its research and development activities, obtain and secure the services of scholars, scientists and technical personnel of any unit of the Department of Health and other agencies of the Philippine Government. Such personnel may be paid honoraria as may be fixed and authorized by the Board following the usual government rules and regulations governing honoraria and allowances. The Institute shall also assist, cooperate and coordinate with other government agencies, such as the Bureau of Food and Drugs of the Department of Health and the Philippine Council for Health Research and Development of the Department of Science and Technology for the implementation of the purposes and objectives of this Act.
+### Section 11
+
+_Government Agency Support and Coordination._ \- The Institute may, for the purpose of its research and development activities, obtain and secure the services of scholars, scientists and technical personnel of any unit of the Department of Health and other agencies of the Philippine Government. Such personnel may be paid honoraria as may be fixed and authorized by the Board following the usual government rules and regulations governing honoraria and allowances. The Institute shall also assist, cooperate and coordinate with other government agencies, such as the Bureau of Food and Drugs of the Department of Health and the Philippine Council for Health Research and Development of the Department of Science and Technology for the implementation of the purposes and objectives of this Act.
 
 ## ARTICLE IV — PROMOTION OF TRADITIONAL AND ALTERNATIVE HEALTH CARE
 
-**Section 12._Traditional and Alternative Health Care Advocacy and Research Program._** \- The Institute shall promulgate a nationwide campaign to boost support for the realization of the objectives of this Act. It shall encourage the participation of non-government organizations in traditional and alternative health care and health-related projects. The Institute shall also formulate and implement a research program on the indigenous Philippine traditional health care practices performed by "traditional healers" using scientific research methodologies.
+### Section 12
 
-**Section 13._Standards for the Manufacture, Marketing and Quality Control of Traditional Medicine._** \- The Institute, in collaboration with the Bureau of Food and Drugs, shall formulate standards and guidelines for the manufacture, quality control and marketing of different traditional and alternative health care materials and products.
+_Traditional and Alternative Health Care Advocacy and Research Program._ \- The Institute shall promulgate a nationwide campaign to boost support for the realization of the objectives of this Act. It shall encourage the participation of non-government organizations in traditional and alternative health care and health-related projects. The Institute shall also formulate and implement a research program on the indigenous Philippine traditional health care practices performed by "traditional healers" using scientific research methodologies.
 
-**Section 14._Incentives for the Manufacturers of Traditional and Alternative Health Care Products._** \- Manufacturers of traditional and alternative health care products like herbal medicinal plants shall enjoy such exemptions, deductions and other tax incentives as may be provided for under the Omnibus Investment Code, as amended.
+### Section 13
 
-**Section 15._Traditional and Alternative Health Care Development Fund._** \- To implement the provisions of this Act, there is hereby created a Traditional and Alternative Health Care Development Fund which shall be used exclusively for the programs and projects of the Institute, in the amount of Fifty million pesos (P50,000,000,00) for the first year, Seventy-five million pesos (P75,000,000.00) for the second year, and One hundred million pesos (P100,000,000.00) for the third year from the earnings of Duty Free Philippines: Provided, That not more than fifteen percent (15%) of said fund shall be used for administrative costs of the Institute.
+_Standards for the Manufacture, Marketing and Quality Control of Traditional Medicine._ \- The Institute, in collaboration with the Bureau of Food and Drugs, shall formulate standards and guidelines for the manufacture, quality control and marketing of different traditional and alternative health care materials and products.
+
+### Section 14
+
+_Incentives for the Manufacturers of Traditional and Alternative Health Care Products._ \- Manufacturers of traditional and alternative health care products like herbal medicinal plants shall enjoy such exemptions, deductions and other tax incentives as may be provided for under the Omnibus Investment Code, as amended.
+
+### Section 15
+
+_Traditional and Alternative Health Care Development Fund._ \- To implement the provisions of this Act, there is hereby created a Traditional and Alternative Health Care Development Fund which shall be used exclusively for the programs and projects of the Institute, in the amount of Fifty million pesos (P50,000,000,00) for the first year, Seventy-five million pesos (P75,000,000.00) for the second year, and One hundred million pesos (P100,000,000.00) for the third year from the earnings of Duty Free Philippines: Provided, That not more than fifteen percent (15%) of said fund shall be used for administrative costs of the Institute.
 
 Thereafter, such amount as may be necessary to fund the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## ARTICLE V — TRANSITORY PROVISIONS
 
-**Section 16._Appointment of Board Members._** \- Within thirty (30) days from the date of effectivity of this Act, the President of the Philippines shall appoint the members of the Board as well as the Director General and Deputy Director General(s).
+### Section 16
 
-**Section 17._Transfer of Functions of the Traditional Medivine Unit._** \- Upon the establishment of the Institute, the functions, personnel and assets of the Traditional Medicine Unit and all the pharmaceutical and herbal processing plants of the Department of Health shall be transferred to the Institute without need of conveyance, transfer of assignment.
+_Appointment of Board Members._ \- Within thirty (30) days from the date of effectivity of this Act, the President of the Philippines shall appoint the members of the Board as well as the Director General and Deputy Director General(s).
+
+### Section 17
+
+_Transfer of Functions of the Traditional Medivine Unit._ \- Upon the establishment of the Institute, the functions, personnel and assets of the Traditional Medicine Unit and all the pharmaceutical and herbal processing plants of the Department of Health shall be transferred to the Institute without need of conveyance, transfer of assignment.
 
 For the year, during which this Act was approved, the unexpended portion of the budget of the offices, agencies and units merged shall be utilized for establishing the Institute and initiating its operations, including the formulation of the rules and regulations necessary for the implementation of this Act.
 
@@ -222,14 +256,24 @@ Incumbent officials and employees of the affected offices shall continue to exer
 
 ## ARTICLE VI — MISCELLANEOUS PROVISIONS
 
-**Section 18._Oversight Function._** \- The Institute shall submit to Congress an annual accomplishment report which shall include the status of its priority researches and operation. In the exercise of its oversight functions, Congress may inquire into the programs of the Institute.
+### Section 18
 
-**Section 19._Implementing Rules and Regulations._** \- Within thirty (30) days from the completion of their appointments, the Board shall convene and, in collaboration with the Department of Health - Traditional Medicine Unit, formulate the rules and regulations necessary for the implementation of this Act. Said rules and regulations shall be issued within one hundred eighty (180) days from the date of the Board's initial meeting and shall take effect upon publication in a newspaper of general circulation.
+_Oversight Function._ \- The Institute shall submit to Congress an annual accomplishment report which shall include the status of its priority researches and operation. In the exercise of its oversight functions, Congress may inquire into the programs of the Institute.
 
-**Section 20._Repealing Clause._** \- All laws, decrees, executive orders, and other laws including their implementing rules and regulations inconsistent with the provisions of this Act are hereby amended, repealed or modified accordingly.
+### Section 19
 
-**Section 21._Separability Clause._** \- If any provision of this Act is declared unconstitutional or invalid, other provisions thereof which are not affected thereby shall continue in full force and effect.
+_Implementing Rules and Regulations._ \- Within thirty (30) days from the completion of their appointments, the Board shall convene and, in collaboration with the Department of Health - Traditional Medicine Unit, formulate the rules and regulations necessary for the implementation of this Act. Said rules and regulations shall be issued within one hundred eighty (180) days from the date of the Board's initial meeting and shall take effect upon publication in a newspaper of general circulation.
 
-**Section 22._Effectivity._** \- This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+### Section 20
+
+_Repealing Clause._ \- All laws, decrees, executive orders, and other laws including their implementing rules and regulations inconsistent with the provisions of this Act are hereby amended, repealed or modified accordingly.
+
+### Section 21
+
+_Separability Clause._ \- If any provision of this Act is declared unconstitutional or invalid, other provisions thereof which are not affected thereby shall continue in full force and effect.
+
+### Section 22
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
 
 Approved: **December 9, 1997**

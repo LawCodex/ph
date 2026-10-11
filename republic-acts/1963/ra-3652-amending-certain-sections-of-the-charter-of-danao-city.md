@@ -128,7 +128,7 @@ Sections twenty-four and twenty-nine of the same Acts are hereby amended to read
 
 "(k) He shall supervise the laying of mains and connections for the purpose of supplying gas to the inhabitant of the city and district.
 
-"(l) He shall inspect and report upon the conditions of public property and public works whenever required by the Mayor or the Department of Public Works and Communications.1âшphi1
+"(l) He shall inspect and report upon the conditions of public property and public works whenever required by the Mayor or the Department of Public Works and Communications.
 
 "(m) He shall supervise and regulate the location and use of engines, boilers, forges, and other manufacture and heating appliances in accordance with law and ordinance relating thereto. He is authorized to charge fees, at rates to be fixed by the municipal board, for the sanitation and transportation services and supplies furnished by the department.
 

@@ -54,7 +54,7 @@ _Self-regulation by and Undertaking of Grantee._ \- The grantee shall not requir
 
 ## Section 7
 
-_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or entity, nor merge with any other corporation or entity without the prior approval of the Congress of the Philippines. Neither shall the controlling interest in the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is validly sold, transferred, or assigned shall be subject to all the same conditions, terms, restrictions, and limitations of this Act.1aшphi1
+_Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer, grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or entity, nor merge with any other corporation or entity without the prior approval of the Congress of the Philippines. Neither shall the controlling interest in the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is validly sold, transferred, or assigned shall be subject to all the same conditions, terms, restrictions, and limitations of this Act.
 
 ## Section 8
 

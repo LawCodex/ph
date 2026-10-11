@@ -230,7 +230,7 @@ _CHED Monitoring and Evaluation._ \- The CHED shall conduct regular monitoring a
 
 ## Section 22
 
-_Filing of Report._ \- On or before the fifteenth (15th) day of the second (2nd) month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the Chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.1awphil
+_Filing of Report._ \- On or before the fifteenth (15th) day of the second (2nd) month after the opening of the regular classes each year, the Board shall file with the Office of the President of the Philippines through the Chairperson of the CHED, and with both Houses of Congress a detailed report on the progress, conditions and needs of the University.
 
 ## Section 23
 

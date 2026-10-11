@@ -28,11 +28,17 @@ AN ACT CHANGING THE NAME OF BANGUI SCHOOL OF FISHERIES IN THE MUNICIPALITY OF BA
 
 Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:
 
-**Section 1._Renaming of School._** \- The name of Bangui School of Fisheries in the Municipality of Bangui, Province of Ilocos Norte is hereby changed to Bangui Institute of Technology.
+## Section 1
 
-**Sec. 2._Repealing Clause._** \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Renaming of School._ \- The name of Bangui School of Fisheries in the Municipality of Bangui, Province of Ilocos Norte is hereby changed to Bangui Institute of Technology.
 
-**Sec. 3._Effectivity._** \- This Act shall take effect upon its approval and after its publication in at least two newspapers of general circulation.
+## Sec. 2
+
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Sec. 3
+
+_Effectivity._ \- This Act shall take effect upon its approval and after its publication in at least two newspapers of general circulation.
 
 Approved,
 

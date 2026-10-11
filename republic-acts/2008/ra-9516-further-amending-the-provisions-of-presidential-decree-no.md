@@ -90,11 +90,17 @@ Insert a new Section 3-B, 3-C, 3-D, 4, 4-A, 4-B, 4-C, 4-D, 4-E, 4-E and 4-F in P
 
 "SEC. 4-F. _Cancellation of License._ \- Failure to comply with the provision of Section 4-C, 4-D and 4-E shall be sufficient cause for the cancellation of the license and the confiscation of all such chemicals or accessories, whether or not lawfully imported, purchased or possessed by the subject person or entity."
 
-**Sec. 4._Separability Clause._** \- If, for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other Sections or provisions thereof which are not affected thereby shall continue to be in full force and effect.
+## Sec. 4
 
-**Sec. 5._Repealing Clause._** \- All laws, decrees, orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+_Separability Clause._ \- If, for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other Sections or provisions thereof which are not affected thereby shall continue to be in full force and effect.
 
-**Sec. 6._Effecfivity._** \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
+## Sec. 5
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+## Sec. 6
+
+_Effecfivity._ \- This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation.
 
 Approved
 

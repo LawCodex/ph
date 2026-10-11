@@ -36,6 +36,6 @@ The sum of three million eight hundred seventy-three thousand pesos is hereby ap
 
 ## Section 4
 
-This Act shall take effect upon its approval.£a⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: June 15, 1954.

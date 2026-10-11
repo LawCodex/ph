@@ -28,7 +28,7 @@ It shall be unlawful for any person, corporation or association to enter or occu
 
 ## Section 2
 
-The criminal action for any violation of the provisions of this Act shall be instituted within one year from the time the cause of action arises.1a⍵⍴h!1
+The criminal action for any violation of the provisions of this Act shall be instituted within one year from the time the cause of action arises.
 
 ## Section 3
 

@@ -33,7 +33,7 @@ _Short Title._ \- This Act shall be referred to as the "Anti-electricity and Ele
 
 _Illegal Use of Electricity._ \- It is hereby declared unlawful for any person, whether natural or juridical, public or private, to:
 
-(a) Tap, make or cause to be made any connection with overhead lines, service drops, or other electric service wires, without previous authority or consent of the private electric utility or rural electric cooperative concerned;1awphil@alf
+(a) Tap, make or cause to be made any connection with overhead lines, service drops, or other electric service wires, without previous authority or consent of the private electric utility or rural electric cooperative concerned;
 
 (b) Tap, make or cause to be made any connection to the existing electric service facilities of any duly registered consumer without the latter's or the electric utility's consent or authority;
 
@@ -41,7 +41,7 @@ _Illegal Use of Electricity._ \- It is hereby declared unlawful for any person, 
 
 (d) Damage or destroy an electric meter, equipment, wire or conduit or allow any of them to be so damaged or destroyed as to interfere with the proper or accurate metering of electric current; and
 
-(e) Knowingly use or receive the direct benefit of electric service obtained through any of the acts mentioned in subsections (a), (b), (c), and (d) above.1awphil@alf
+(e) Knowingly use or receive the direct benefit of electric service obtained through any of the acts mentioned in subsections (a), (b), (c), and (d) above.
 
 ## Section 3
 
@@ -65,7 +65,7 @@ _Theft of Electric Power Transmission Lines and Materials._ \- (a) It is hereby 
 
 (4) Insulators made of porcelain or glass shell and designed to insulate the electrical conductors from steel towers or woodpoles; and
 
-(5) Various transmission line hardwares and materials made of aluminum alloy or malleable steel and designed to interconnect the towers, conductors, ground wires, and insulators mentioned in subparagraphs (1), (2), (3), and (4) above for the safe and reliable operation of the transmission lines.1awphil©
+(5) Various transmission line hardwares and materials made of aluminum alloy or malleable steel and designed to interconnect the towers, conductors, ground wires, and insulators mentioned in subparagraphs (1), (2), (3), and (4) above for the safe and reliable operation of the transmission lines.
 
 ## Section 4
 
@@ -199,4 +199,4 @@ _Repealing Clauses._ \- The provisions in Presidential Decree No. 401, as amende
 
 _Effectivity Clause._ \- This Act shall take effect thirty (30) days after its publication in the Official Gazette or in any two (2) national newspapers of general circulation.
 
-Approved: **December 8, 1994** lawphi1Ÿ
+Approved: **December 8, 1994**

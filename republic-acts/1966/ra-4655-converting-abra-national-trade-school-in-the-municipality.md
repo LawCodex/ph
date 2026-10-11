@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Abra National Trade School in the Municipality of Bangued, Province of Abra, is hereby converted into a national school of arts and trades to be known as the Abra School of Arts and Trades.1avvphi1 The said school shall be under the supervision of the Bureau of Vocational Education and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in said school.
+Abra National Trade School in the Municipality of Bangued, Province of Abra, is hereby converted into a national school of arts and trades to be known as the Abra School of Arts and Trades. The said school shall be under the supervision of the Bureau of Vocational Education and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in said school.
 
 ## Section 2
 

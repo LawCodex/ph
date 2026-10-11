@@ -44,7 +44,7 @@ _Section 29 of Republic Act No. 9280 is hereby amended to read as follows:_
 
 ## Section 3
 
-_Repealing Clause._ \- All laws, presidential decrees, executive orders, memorandum orders and other administrative orders, rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.1awph!1
+_Repealing Clause._ \- All laws, presidential decrees, executive orders, memorandum orders and other administrative orders, rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.
 
 ## Section 4
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The barrios of Silago, Hingatonga, Laguna, Kikilo, Bulac, Sap-ang, Awayon, and Balawagon, and the sitios of Combis, San Roque, Talaque, Malen and Mabadyang in the Municipality of Hinunangan, Province of Southern Leyte, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Silago, same province. The seat of government of the new municipality shall be in the present site of the barrio of Silago.1âшphi1
+The barrios of Silago, Hingatonga, Laguna, Kikilo, Bulac, Sap-ang, Awayon, and Balawagon, and the sitios of Combis, San Roque, Talaque, Malen and Mabadyang in the Municipality of Hinunangan, Province of Southern Leyte, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Silago, same province. The seat of government of the new municipality shall be in the present site of the barrio of Silago.
 
 The boundary line of the Municipality of Silago and the Municipality of Hinunangan shall be a straight line starting from a point immediately north of the center of the barrio of Ponlol passing through the summit of Mt. Nacolod to the intersection of this line with the Hinunangan-Libagon boundary line.
 

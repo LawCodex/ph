@@ -39,7 +39,7 @@ Section 26 of Republic Act No. 10585 is hereby amended to read as follows:
 
 ## Section 2
 
-This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

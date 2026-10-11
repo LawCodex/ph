@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the Province of Nueva Ecija is hereby constituted into two highway engineering districts.1avvphi1 The municipalities comprising the first and second representative districts shall likewise comprise the first and second highway engineering districts thereof respectively.
+Any provision of law to the contrary notwithstanding, the Province of Nueva Ecija is hereby constituted into two highway engineering districts. The municipalities comprising the first and second representative districts shall likewise comprise the first and second highway engineering districts thereof respectively.
 
 ## Section 2
 

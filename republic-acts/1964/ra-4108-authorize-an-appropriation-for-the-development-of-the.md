@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of fifteen million pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to be made available to the Mindanao State University at the rate of three million pesos annually beginning the fiscal year nineteen hundred and sixty-five, to support its development, including capital outlay for permanent improvements and for other purposes at the discretion of its Board of Regents: _Provided,_ That any amount of the said fifteen million pesos not released to the University after five years shall continue to be made available until the whole amount appropriated shall have been used by the University, any provision of law to the contrary notwithstanding.1âшphi1
+The sum of fifteen million pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to be made available to the Mindanao State University at the rate of three million pesos annually beginning the fiscal year nineteen hundred and sixty-five, to support its development, including capital outlay for permanent improvements and for other purposes at the discretion of its Board of Regents: _Provided,_ That any amount of the said fifteen million pesos not released to the University after five years shall continue to be made available until the whole amount appropriated shall have been used by the University, any provision of law to the contrary notwithstanding.
 
 ## Section 2
 

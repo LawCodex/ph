@@ -55,7 +55,7 @@ Subsection (a) of section forty-two of Commonwealth Act Numbered Six hundred thi
 
 "_Provided, furthermore,_ That all aliens admitted for temporary stay in the Philippines, who have been staying therein for more than six months, within sixty days from approval hereof, shall apply for and secure their certificates of residence which shall be surrendered to the immigration authorities prior to departure from the Philippines of the holders thereof.
 
-"_Provided, further still,_ That all aliens admitted to 'prearranged employment' under section nine (g) of this Act, but engaged exclusively in religious or educational work, shall be exempted from the payment of the monthly fee of ten pesos for every month of extension of temporary stay."1a⍵⍴h!1
+"_Provided, further still,_ That all aliens admitted to 'prearranged employment' under section nine (g) of this Act, but engaged exclusively in religious or educational work, shall be exempted from the payment of the monthly fee of ten pesos for every month of extension of temporary stay."
 
 ## Section 2
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Department of Health, a general hospital in Pasay City, to be known as Pasay City General Hospital, which shall be constructed on available government land in Pasay City.1âшphi1
+There shall be established, under the direct supervision of the Department of Health, a general hospital in Pasay City, to be known as Pasay City General Hospital, which shall be constructed on available government land in Pasay City.
 
 ## Section 2
 

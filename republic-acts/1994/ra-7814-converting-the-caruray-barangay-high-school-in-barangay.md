@@ -33,7 +33,7 @@ The existing barangay high school of Barangay Caruray, Municipality of San Vicen
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall promulgate the necessary rules and regulations for the effective implementation of this Act.1a⍵⍴h!1
+The Department of Education, Culture and Sports shall promulgate the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 3
 

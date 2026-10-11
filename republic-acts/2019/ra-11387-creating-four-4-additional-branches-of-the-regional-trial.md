@@ -33,7 +33,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Four (4) additional branches of the Regional Trial Court to be stationed in San Pablo City, Province of Laguna are hereby created in the Fourth Judicial Region.
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches of the Regional Trial Court.1âшphi1
+The Supreme Court shall assign the respective branch numbers for the newly created branches of the Regional Trial Court.
 
 ## Section 2
 

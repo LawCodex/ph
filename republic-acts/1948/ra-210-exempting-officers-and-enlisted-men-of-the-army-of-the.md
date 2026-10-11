@@ -28,7 +28,7 @@ The provisions of existing law to the contrary notwithstanding, officers and enl
 
 ## Section 2
 
-Any amount heretofore collected as income tax on income exempted under the provisions of this Act shall be refunded upon proper application to the Collector of Internal Revenue by the individual claiming exemption.1aшphi1
+Any amount heretofore collected as income tax on income exempted under the provisions of this Act shall be refunded upon proper application to the Collector of Internal Revenue by the individual claiming exemption.
 
 ## Section 3
 

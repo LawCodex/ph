@@ -40,7 +40,7 @@ The Secretary of Education shall immediately include in the Department's program
 
 ## Section 4
 
-The Secretary of Education shall issue rules and regulation necessary to carry out the purpose of this Act.ℒαwρhi৷
+The Secretary of Education shall issue rules and regulation necessary to carry out the purpose of this Act.
 
 ## Section 5
 

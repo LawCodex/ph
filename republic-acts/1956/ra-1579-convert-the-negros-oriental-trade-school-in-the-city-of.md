@@ -24,11 +24,11 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Negros Oriental Trade School in the City of Dumaguete is hereby converted into a regional school of arts and trades, to be known as the East Visayan School of Arts and Trades.1awp++i1 The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in the said school.
+The Negros Oriental Trade School in the City of Dumaguete is hereby converted into a regional school of arts and trades, to be known as the East Visayan School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in the said school.
 
 ## Section 2
 
-To carry out the intents and purposes of this Act, the sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year ending June thirtieth, nineteen hundred and fifty-seven.1avvphi1 Thereafter, the necessary sum for said purposes shall be included in the annual General Appropriations Acts.
+To carry out the intents and purposes of this Act, the sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year ending June thirtieth, nineteen hundred and fifty-seven. Thereafter, the necessary sum for said purposes shall be included in the annual General Appropriations Acts.
 
 ## Section 3
 

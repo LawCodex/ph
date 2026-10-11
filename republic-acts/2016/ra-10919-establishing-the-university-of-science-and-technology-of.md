@@ -58,7 +58,7 @@ _Definition of Terms._ \- As used in this Act:
 
 (i) Socialized scheme of tuition and other instructional fees refers to a scheme or pattern where the rate of tuition and instructional fees are collected on the basis of family income and/or socioeconomic status of the student, such that the less-economically privileged students shall pay lesser fees than students who are more financially able to afford the cost of formal education; and
 
-(j) Special trust fund refers to the total amount collected by the USTSP, either from the collection of fees and other charges from students or the collection from income-generating activities of the USTSP.1âwphi1
+(j) Special trust fund refers to the total amount collected by the USTSP, either from the collection of fees and other charges from students or the collection from income-generating activities of the USTSP.
 
 ## Section 4
 
@@ -372,7 +372,7 @@ _Nondiscrimination in Admission of Students._ \- No student shall be discriminat
 
 ## Section 48
 
-_Scholarship Program._ \- The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University or its extension campuses.1âwphi1
+_Scholarship Program._ \- The University shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University or its extension campuses.
 
 ## Section 49
 
@@ -394,7 +394,7 @@ _Appropriations._ \- The amount necessary to carry out the provisions of this Ac
 
 ## Section 52
 
-_Assets and Liabilities._ \- All assets and liabilities of the MUST and the MOSCAT shall be transferred to the University.1âwphi1
+_Assets and Liabilities._ \- All assets and liabilities of the MUST and the MOSCAT shall be transferred to the University.
 
 ## Section 53
 

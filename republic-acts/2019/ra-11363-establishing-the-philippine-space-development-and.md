@@ -156,7 +156,7 @@ _Composition._ -The PhilSA shall be an attached agency of the Office of the Pres
 
 ## Section 10
 
-_Director General of the PhilSA._ -The Director General shall have the rank and compensation of a Cabinet Secretary and shall be appointed by the President, subject to the confirmation by the Commission on Appointments.1âшphi1 The Director General shall have the following functions:
+_Director General of the PhilSA._ -The Director General shall have the rank and compensation of a Cabinet Secretary and shall be appointed by the President, subject to the confirmation by the Commission on Appointments. The Director General shall have the following functions:
 
 (a) Provide executive direction and supervision over the entire operations of the PhilSA and its attached units;
 

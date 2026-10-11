@@ -31,7 +31,7 @@ There shall be established, under the direct supervision of the Department of He
 
 ## Section 2
 
-The municipal hospital shall be administered by the corresponding chiefs of hospital to be appointed by the Secretary of Health and shall receive compensation in accordance with the rates prescribed by the Secretary of Health. With the approval of the Secretary of Health, the chiefs of hospital may allow subsistence quarters and laundry service, in kind, to physicians, nurses or employees of the said hospital, whenever such policy is deemed advisable in the interest of public service.1âшphi1
+The municipal hospital shall be administered by the corresponding chiefs of hospital to be appointed by the Secretary of Health and shall receive compensation in accordance with the rates prescribed by the Secretary of Health. With the approval of the Secretary of Health, the chiefs of hospital may allow subsistence quarters and laundry service, in kind, to physicians, nurses or employees of the said hospital, whenever such policy is deemed advisable in the interest of public service.
 
 ## Section 3
 

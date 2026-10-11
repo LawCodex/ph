@@ -48,7 +48,7 @@ _Appropriations._ \- The amount necessary to implement the provisions of this Ac
 
 ## Section 4
 
-_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the provisions not affected thereby shall remain in full force and effect.1aшphi1
+_Separability Clause._ \- If any provision of this Act is declared invalid or unconstitutional, the provisions not affected thereby shall remain in full force and effect.
 
 ## Section 5
 

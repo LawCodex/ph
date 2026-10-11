@@ -28,7 +28,7 @@ Civil service eligibility shall be permanent and shall have no time limit.
 
 ## Section 2
 
-Any provision of law, rule or regulation which is inconsistent with the provisions of this Act is repealed.£a⩊phi£
+Any provision of law, rule or regulation which is inconsistent with the provisions of this Act is repealed.
 
 ## Section 3
 

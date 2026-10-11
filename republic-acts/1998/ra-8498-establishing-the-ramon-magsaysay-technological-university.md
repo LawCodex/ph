@@ -157,7 +157,7 @@ There shall be an academic council with the President of the University as chair
 
 ## Section 11
 
-The Board shall appoint a secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He shall communicate to each member of the Board notice of meetings.Ꮮαwρhi৷
+The Board shall appoint a secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. He shall communicate to each member of the Board notice of meetings.
 
 ## Section 12
 
@@ -201,7 +201,7 @@ The operation of the institution as a university shall not begin until after thr
 
 ## Section 20
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Ramon Magsaysay Polytechnic College, the Western Luzon Agricultural College and the Candelaria School of Fisheries, except the sum needed to continue the operations of the existing high school.£a⩊phi£ Thereafter, at the end of the three (3)-year transition period, such sum as may be necessary for the continued operation and maintenance of the Ramon Magsaysay University shall be included in the annual General Appropriations Act.
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Ramon Magsaysay Polytechnic College, the Western Luzon Agricultural College and the Candelaria School of Fisheries, except the sum needed to continue the operations of the existing high school. Thereafter, at the end of the three (3)-year transition period, such sum as may be necessary for the continued operation and maintenance of the Ramon Magsaysay University shall be included in the annual General Appropriations Act.
 
 ## Section 21
 

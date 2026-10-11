@@ -35,7 +35,7 @@ The Davao Oriental First Engineering District shall assume jurisdiction over inf
 
 ## Section 3
 
-The Secretary of the Department of Public Works and Highways is hereby authorized to effect such rules, regulations and other issuances as may be necessary to ensure the effective implementation of the provisions of this Act.ℒαwρhi৷
+The Secretary of the Department of Public Works and Highways is hereby authorized to effect such rules, regulations and other issuances as may be necessary to ensure the effective implementation of the provisions of this Act.
 
 ## Section 4
 

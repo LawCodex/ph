@@ -324,7 +324,7 @@ _Penalties for Violations._ \- Any person who shall violate any of the provision
 
 ### Section 36
 
-_Funding._ \- The Chairperson of the Professional Regulation Commission shall include in the Commission's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+_Funding._ \- The Chairperson of the Professional Regulation Commission shall include in the Commission's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
 
 ### Section 37
 

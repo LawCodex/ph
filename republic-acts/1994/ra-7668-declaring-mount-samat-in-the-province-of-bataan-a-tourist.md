@@ -33,7 +33,7 @@ Mount Samat in the Province of Bataan is hereby declared a tourist spot that wil
 
 ## Section 2
 
-The Department of Tourism, in coordination with other government agencies concerned, shall prepare, within one year from the approval of this Act, a tourism development plan involving the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area.1a⍵⍴h!1
+The Department of Tourism, in coordination with other government agencies concerned, shall prepare, within one year from the approval of this Act, a tourism development plan involving the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall encourage tourism in the area.
 
 ## Section 3
 

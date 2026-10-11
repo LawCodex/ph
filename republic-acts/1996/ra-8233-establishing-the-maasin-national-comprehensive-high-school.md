@@ -31,7 +31,7 @@ There is hereby established the Maasin National Comprehensive High School in the
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports is hereby directed to take such measures as are necessary to establish the Maasin National Comprehensive High School.1aшphi1
+The Secretary of Education, Culture and Sports is hereby directed to take such measures as are necessary to establish the Maasin National Comprehensive High School.
 
 Section 3 The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 

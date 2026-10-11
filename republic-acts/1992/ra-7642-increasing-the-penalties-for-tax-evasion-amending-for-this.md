@@ -176,4 +176,4 @@ All laws, decrees, orders, rules and regulations, and other issuances inconsiste
 
 This Act shall take effect upon its approval.
 
-Approved: **December 28, 1992**.lawphi1Ÿ
+Approved: **December 28, 1992**.

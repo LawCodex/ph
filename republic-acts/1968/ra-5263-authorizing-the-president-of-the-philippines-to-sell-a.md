@@ -39,7 +39,7 @@ This conveyance is made for the exclusive purpose of enabling the Foundation to 
 
 The property shall not be leased but any spare in the building to be constructed therein may be leased:
 
-_Provided,_ That the proceeds from such lease shall be utilized for purposes for which the Foundation has been established.1avvphi1
+_Provided,_ That the proceeds from such lease shall be utilized for purposes for which the Foundation has been established.
 
 ## Section 4
 

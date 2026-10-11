@@ -35,7 +35,7 @@ The Secretary of Education, Culture and Sports shall issue the necessary rules, 
 
 ## Section 3
 
-All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Narra High School-Panacan Annex are hereby transferred to the Panacan National High School.1aшphi1
+All personnel, records, assets and properties including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Narra High School-Panacan Annex are hereby transferred to the Panacan National High School.
 
 ## Section 4
 

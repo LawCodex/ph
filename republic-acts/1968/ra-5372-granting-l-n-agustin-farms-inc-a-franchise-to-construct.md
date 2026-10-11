@@ -33,7 +33,7 @@ The President of the Philippines may permit, subject to such rules and regulatio
 
 ## Section 3
 
-Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Thirty-nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, as are applicable to radio broadcasting stations shall be applied.1avvphi1
+Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Thirty-nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, as are applicable to radio broadcasting stations shall be applied.
 
 ## Section 4
 

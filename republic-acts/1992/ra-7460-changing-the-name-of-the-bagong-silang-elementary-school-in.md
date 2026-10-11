@@ -23,7 +23,9 @@ AN ACT CHANGING THE NAME OF THE BAGONG SILANG ELEMENTARY SCHOOL IN BARANGAY BAGO
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1. 1âшphi1** The name of the Bagong Silang Elementary School in Barangay Bagong Silang, Municipality of Labo, Province of Camarines Norte, is hereby changed to Felix Asis Elementary School.
+## Section 1
+
+The name of the Bagong Silang Elementary School in Barangay Bagong Silang, Municipality of Labo, Province of Camarines Norte, is hereby changed to Felix Asis Elementary School.
 
 ## Section 2
 

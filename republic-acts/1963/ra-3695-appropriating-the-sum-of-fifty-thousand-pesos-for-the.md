@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the rehabilitation and/or reconstruction of the house where the late Claro M. Recto was born in the Municipality of Tiaong, Province of Quezon.1âшphi1
+The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the rehabilitation and/or reconstruction of the house where the late Claro M. Recto was born in the Municipality of Tiaong, Province of Quezon.
 
 ## Section 2
 

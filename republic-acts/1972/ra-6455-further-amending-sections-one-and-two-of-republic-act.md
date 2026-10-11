@@ -29,7 +29,7 @@ Section one of Republic Act Numbered Forty-one hundred fifty-three, as amended, 
 
 * * * * *
 
-"(e) Chief of Section, except non-technical section, under the specialized technical divisions in the central office and field division offices, Assistant District Engineers at twelve thousand six hundred pesos per annum Range 58, and chiefs of sections under the other divisions, in the central office and field division offices, Internal Audit Service, and non-technical sections of specialized technical divisions, at nine thousand six hundred pesos per annum.—range 53;".1âшphi1
+"(e) Chief of Section, except non-technical section, under the specialized technical divisions in the central office and field division offices, Assistant District Engineers at twelve thousand six hundred pesos per annum Range 58, and chiefs of sections under the other divisions, in the central office and field division offices, Internal Audit Service, and non-technical sections of specialized technical divisions, at nine thousand six hundred pesos per annum.—range 53;".
 
 "(h) * * * *
 

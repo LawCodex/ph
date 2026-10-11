@@ -101,7 +101,7 @@ _Sale, Lease, Transfer, Usufruct, etc._ \- The grantee shall not lease, transfer
 
 ## Section 16
 
-_Dispersal of Ownership._ \- In accordance with the constitutional provisions to encourage public participation in the public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within ten (10) years from the commencement of its operations.1aшphi1 Noncompliance therewith shall render the franchise _ipso facto_ revoked
+_Dispersal of Ownership._ \- In accordance with the constitutional provisions to encourage public participation in the public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within ten (10) years from the commencement of its operations. Noncompliance therewith shall render the franchise _ipso facto_ revoked
 
 ## Section 17
 

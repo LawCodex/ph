@@ -32,7 +32,7 @@ The first paragraph of section nineteen of Commonwealth Act Numbered Five hundre
 
 The first paragraph of section twenty-four of Commonwealth Act Numbered Five hundred and twenty is hereby amended to read as follows:
 
-"Sec. 24. The City Attorney and Assistant City Attorney—Their powers and duties.— The city attorney shall be the chief legal adviser of the city.£a⩊phi£ The city attorney and the assistant city attorney shall receive a salary of not exceeding four thousand two hundred pesos and two thousand four hundred pesos, respectively, per annum. The city attorney shall have the following powers and duties."
+"Sec. 24. The City Attorney and Assistant City Attorney—Their powers and duties.— The city attorney shall be the chief legal adviser of the city. The city attorney and the assistant city attorney shall receive a salary of not exceeding four thousand two hundred pesos and two thousand four hundred pesos, respectively, per annum. The city attorney shall have the following powers and duties."
 
 ## Section 3
 

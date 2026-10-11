@@ -48,7 +48,7 @@ The PUP-Caloocan City-North Campus shall be headed by a Campus Administrator who
 
 ## Section 5
 
-The establishment of the PUP-Caloocan City-North Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with, as duly prescribed by the Commission on Higher Education (CHED).ᇈWᑭHIL
+The establishment of the PUP-Caloocan City-North Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with, as duly prescribed by the Commission on Higher Education (CHED).
 
 ## Section 6
 

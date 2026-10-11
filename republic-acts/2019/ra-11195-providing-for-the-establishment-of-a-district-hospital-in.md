@@ -38,7 +38,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 3
 
-\- This act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.1âwphi1
+\- This act shall take effect fifteen (15) days after its publication in the _Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

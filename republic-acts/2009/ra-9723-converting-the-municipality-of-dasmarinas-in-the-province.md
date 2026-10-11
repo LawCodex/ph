@@ -1277,7 +1277,7 @@ _Election of Provincial Governor and Sangguniang Panlalawigan Members of the Pro
 
 ### Section 62
 
-_Jurisdiction of the Province of Cavite._ \- The City of Dasmariñas shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Cavite.1awphi1
+_Jurisdiction of the Province of Cavite._ \- The City of Dasmariñas shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Cavite.
 
 ### Section 63
 
@@ -1289,7 +1289,7 @@ _Legislative District._ \- The City of Dasmariñas shall have its own legislativ
 
 ### Section 65
 
-_Applicability of Laws._ \- The provisions of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and such laws as are applicable to component cities shall govern the City of Dasmariñas insofar as they are not inconsistent with the provisions of this Act.1avvphi1
+_Applicability of Laws._ \- The provisions of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and such laws as are applicable to component cities shall govern the City of Dasmariñas insofar as they are not inconsistent with the provisions of this Act.
 
 ### Section 66
 

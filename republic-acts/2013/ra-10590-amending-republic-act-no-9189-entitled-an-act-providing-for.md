@@ -194,7 +194,7 @@ Section 8 of the same Act is hereby renumbered as Section 12 and is amended to r
 
 "(c) Applicants who availed themselves of the 'Citizen Retention and Reacquisition Act' (Republic Act No. 9225) shall present the original or certified true copy of the order of approval of their application to retain or reacquire their Filipino citizenship issued by the post or their identification certificate issued by the Bureau of Immigration.
 
-"The Commission may also require, additional data to facilitate registration and recording.1âwphi1 No information other than those necessary to establish the identity and qualification of the applicant shall be required.
+"The Commission may also require, additional data to facilitate registration and recording. No information other than those necessary to establish the identity and qualification of the applicant shall be required.
 
 "All applications for registration and/or certification as an overseas voter shall be considered as applications to vote overseas. An overseas voter is presumed to be abroad until she/he applies for transfer of her/his registration records or requests that her/his name be cancelled from the NROV."
 

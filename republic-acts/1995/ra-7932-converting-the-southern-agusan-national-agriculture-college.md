@@ -168,7 +168,7 @@ All assets, fixed and movable, personnel and records of the Southern Agusan Nati
 
 ## Section 22
 
-All accounts and expenses of the College shall be audited by the Commission on Audit or its duly authorized representative.1aшphi1
+All accounts and expenses of the College shall be audited by the Commission on Audit or its duly authorized representative.
 
 ## Section 23
 

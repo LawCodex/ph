@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Quezon National School of Arts and Trades in the Municipality of Mauban, Province of Quezon, is hereby changed to Manuel S. Enverge Memorial College of Arts and Trades to honor and perpetuate the memory of the best known and most accomplished congressman produced by the province.1âшphi1
+The name of the Quezon National School of Arts and Trades in the Municipality of Mauban, Province of Quezon, is hereby changed to Manuel S. Enverge Memorial College of Arts and Trades to honor and perpetuate the memory of the best known and most accomplished congressman produced by the province.
 
 ## Section 2
 

@@ -71,7 +71,7 @@ On or before the fifteenth of June of each year, the board of trustees shall fil
 
 ## Section 8
 
-There shall be a college council consisting of the president of the college as presiding officer and of all instructors and professors of the college as members.1âшphi1 The council shall have the power to prescribe the curricula and rules of discipline of the college, subject to the approval of the board of trustees. It shall fix the requirements for admission to the college, as well as for graduation and the award of a title or a degree. The council shall also have the power to recommend students or other persons to be awarded titles or degree. Through the president, it shall have disciplinary power over the students within the limits prescribed by the rules and discipline approved by the board of trustees.
+There shall be a college council consisting of the president of the college as presiding officer and of all instructors and professors of the college as members. The council shall have the power to prescribe the curricula and rules of discipline of the college, subject to the approval of the board of trustees. It shall fix the requirements for admission to the college, as well as for graduation and the award of a title or a degree. The council shall also have the power to recommend students or other persons to be awarded titles or degree. Through the president, it shall have disciplinary power over the students within the limits prescribed by the rules and discipline approved by the board of trustees.
 
 ## Section 9
 

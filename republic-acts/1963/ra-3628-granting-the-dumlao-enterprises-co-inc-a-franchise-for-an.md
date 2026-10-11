@@ -33,7 +33,7 @@ In the event that the grantee shall purchase and secure from the National Power 
 
 ## Section 3
 
-The rate for the sale of electric light, heat and power shall always be subject to the regulation of the Public Service Commission.1âшphi1
+The rate for the sale of electric light, heat and power shall always be subject to the regulation of the Public Service Commission.
 
 ## Section 4
 

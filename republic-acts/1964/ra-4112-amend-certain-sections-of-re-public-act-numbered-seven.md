@@ -128,6 +128,6 @@ All Acts, Executive Orders, rules and regulations or parts thereof which are inc
 
 ### Section 10
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 20, 1964.

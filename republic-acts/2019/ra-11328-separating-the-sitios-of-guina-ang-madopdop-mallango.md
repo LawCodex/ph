@@ -392,7 +392,7 @@ The amount necessary for the conduct of such plebiscite shall be borne by the Ci
 
 ## Section 4
 
-_Barangay Officials._ -The first set of officials of Barangay Lacnog West shall be appointed by the Provincial Governor and shall hold office until such time that their successors have been duly elected and qualified.1âшphi1
+_Barangay Officials._ -The first set of officials of Barangay Lacnog West shall be appointed by the Provincial Governor and shall hold office until such time that their successors have been duly elected and qualified.
 
 ## Section 5
 

@@ -60,7 +60,7 @@ If the prohibited act is committed by a syndicate or committed on a large scale,
 
 The prohibited act is deemed committed by a syndicate if carried out by a group of three (3) or more persons conspiring or confederating with one another.
 
-The prohibited act is deemed committed on a large scale if committed against three (3) or more persons, individually or as a group.1âwphi1
+The prohibited act is deemed committed on a large scale if committed against three (3) or more persons, individually or as a group.
 
 Any person who has knowledge of the commission of the unlawful acts and profits from it, assists the offender to profit from it, without having participated therein, either as a principal or as an accomplice, shall be punished as an accessory to the offense committed and shall suffer the penalty of ten (10) years imprisonment and a fine of not less than one hundred thousand pesos (₱100,000.00) but not more than five hundred thousand pesos (₱500,000.00).
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby granted to Extraco Transportation Service and Shipping Agency, its successors or assigns, a permit to construct, operate and maintain in the Philippines, at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, land-based and land-mobile service radio stations for the re­ception and transmission of wireless messages, each to be provided with a radio receiving apparatus.1âшphi1
+There is hereby granted to Extraco Transportation Service and Shipping Agency, its successors or assigns, a permit to construct, operate and maintain in the Philippines, at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, land-based and land-mobile service radio stations for the re­ception and transmission of wireless messages, each to be provided with a radio receiving apparatus.
 
 ## Section 2
 

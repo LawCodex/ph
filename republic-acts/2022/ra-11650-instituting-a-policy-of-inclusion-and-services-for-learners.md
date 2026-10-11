@@ -456,7 +456,7 @@ The entitlement to such incentives shall be subject to the guidelines and minimu
 
 _Responsibility of Government Agencies._ \- For purposes of this Act, the different agencies shall have the following roles:
 
-(a) DepEd - The DepEd shall be the lead agency in the implementation of this Act and shall ensure that learners with disabilities are guaranteed their right of access to free public early and basic education services.ℒαwρhi৷
+(a) DepEd - The DepEd shall be the lead agency in the implementation of this Act and shall ensure that learners with disabilities are guaranteed their right of access to free public early and basic education services.
 
 (b) DOH - The DOH shall provide learners with disabilities with healthcare needs services such as child mental health service, health plans, oral health care, and family-to-family health information and education, advocacy organizations and other community organizations serving learners with disabilities and their families. It shall likewise coordinate with the ILRC for the services of Barangay Health Workers.
 
@@ -510,7 +510,7 @@ The DepEd shall likewise ensure the speedy and timely administrative resolution 
 
 ## Section 27
 
-_Public Information, Education and Communication._ \- A nationwide information dissemination campaign on the rights of learners with disabilities under this Act and other existing laws, prevention, early identification, assessment of a disabling condition and strategy intervention programs for learners with disabilities shall be intensified and jointly conducted by the DepEd and the Philippine Information Agency.ℒαwρhi৷
+_Public Information, Education and Communication._ \- A nationwide information dissemination campaign on the rights of learners with disabilities under this Act and other existing laws, prevention, early identification, assessment of a disabling condition and strategy intervention programs for learners with disabilities shall be intensified and jointly conducted by the DepEd and the Philippine Information Agency.
 
 All information dissemination campaign materials shall be in accessible formats which include, but not limited to, Braille, large-print format, electronic, non-print, or multimedia format.
 

@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in Laoag City, Provi
 
 ## Section 2
 
-The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of Class "A" LTO District Office in Laoag City, Province of Ilocos Norte, the initial funding of which hall be charged against the current year's appropriation of the LTO District Office.ℒαwρhi৷ Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Department's program the operationalization of Class "A" LTO District Office in Laoag City, Province of Ilocos Norte, the initial funding of which hall be charged against the current year's appropriation of the LTO District Office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -78,7 +78,7 @@ _Renewal/Extension of the Term of Franchise._ \- This franchise shall be for a t
 
 ## Section 3
 
-_Acceptance and Compliance._ \- Acceptance of the amendment and renewal/extension of the franchise shall be given in writing within sixty (60) days from the date of effectivity of this Act.lawphil.net
+_Acceptance and Compliance._ \- Acceptance of the amendment and renewal/extension of the franchise shall be given in writing within sixty (60) days from the date of effectivity of this Act.
 
 ## Section 4
 

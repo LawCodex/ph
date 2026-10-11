@@ -60,11 +60,9 @@ The Southwestern Tagalog Region is hereby established to be known as the MIMAROP
 
 2\. Puerto Princesa City.
 
-1âwphi1
-
 ## Section 4
 
-The same privileges under the rules and regulations covering the regions shall remain in force.1âwphi1
+The same privileges under the rules and regulations covering the regions shall remain in force.
 
 ## Section 5
 

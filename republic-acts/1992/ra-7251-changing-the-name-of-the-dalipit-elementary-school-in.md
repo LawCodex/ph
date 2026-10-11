@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT CHANGING THE NAME OF THE DALIPIT ELEMENTARY SCHOOL IN BARANGAY DALIPIT, MUNICIPALITY OF ALITAGTAG, PROVINCE OF BATANGAS, TO DOMINADOR-DALIPIT ELEMENTARY SCHOOL
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

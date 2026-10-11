@@ -29,7 +29,7 @@ Republic Acts Numbered Sixty-one hundred forty-five and Fifty-four hundred seven
 
 ## Section 2
 
-All provisions of existing laws, orders, decrees, rules and regulations inconsistent herewith are likewise repealed.1âшphi1
+All provisions of existing laws, orders, decrees, rules and regulations inconsistent herewith are likewise repealed.
 
 ## Section 3
 

@@ -47,7 +47,7 @@ The Supreme Court shall assign the additional branches of the Regional Trial Cou
 
 ## Section 3
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Departrnent of Justice, shall immediately include in the Court's program the operationalization of two (2) additional branches of the Regional Trial Court in Koronadal City and two (2) additional branches of the said Court in the Municipality of Surallah, all in the Province of South Cotabato, the funding of which shall be included in the annual General Appropriations Act.1avvphi1
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Departrnent of Justice, shall immediately include in the Court's program the operationalization of two (2) additional branches of the Regional Trial Court in Koronadal City and two (2) additional branches of the said Court in the Municipality of Surallah, all in the Province of South Cotabato, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, a national high school in Barangay 184, Zone 19, Maricaban, Pasay City to be known as President Corazon "Cory" C. Aquino National High School.1awp++i1
+There is hereby established, under the supervision of the Department of Education, a national high school in Barangay 184, Zone 19, Maricaban, Pasay City to be known as President Corazon "Cory" C. Aquino National High School.
 
 ## Section 2
 

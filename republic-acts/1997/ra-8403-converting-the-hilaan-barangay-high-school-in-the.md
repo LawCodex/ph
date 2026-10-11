@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Hilaan Barangay High School in the Municipality of Bontoc, Province of Southern Leyte, is hereby converted into a national high school, to be known as the Hilaan National High School.1aшphi1
+The Hilaan Barangay High School in the Municipality of Bontoc, Province of Southern Leyte, is hereby converted into a national high school, to be known as the Hilaan National High School.
 
 ## Section 2
 

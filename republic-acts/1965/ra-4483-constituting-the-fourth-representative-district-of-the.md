@@ -33,7 +33,7 @@ The superintendent of schools for the said division shall be the ex officio supe
 
 ## Section 3
 
-Such sums as may be necessary to carry out the purpose of this Act are hereby appropriated out of any funds in the National Treasury not otherwise appropriated, during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, such sums as may be needed for the same purpose shall be included in the annual General Appropriations Act.
+Such sums as may be necessary to carry out the purpose of this Act are hereby appropriated out of any funds in the National Treasury not otherwise appropriated, during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for the same purpose shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

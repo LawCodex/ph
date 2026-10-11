@@ -33,7 +33,7 @@ There is hereby established, under the supervision of the Department of Educatio
 
 ## Section 2
 
-The Secretary of Education shall immediately include in the Department’s program the operationalization of the Malabon City National Science and Mathematics High School, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Education shall immediately include in the Department’s program the operationalization of the Malabon City National Science and Mathematics High School, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 
@@ -41,7 +41,7 @@ The Secretary of Education shall formulate the rules and regulations implementin
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in newspaper of general circulation.
 
 Approved,
 

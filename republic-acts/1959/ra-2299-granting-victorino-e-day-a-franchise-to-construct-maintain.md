@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the provisions of the Constitution, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, Victorino E. Day is hereby granted a franchise to construct, maintain and operate for educational, cultural and commercial purposes and in the public interest, radio broadcasting stations in the City of Zamboanga.1aшphi1
+Subject to the provisions of the Constitution, as well as of Act Numbered Three thousand eight hundred forty-six, entitled "An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;" Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, Victorino E. Day is hereby granted a franchise to construct, maintain and operate for educational, cultural and commercial purposes and in the public interest, radio broadcasting stations in the City of Zamboanga.
 
 ## Section 2
 

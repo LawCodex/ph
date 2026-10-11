@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Tinambac Medicare Hospital in the Municipality of Tinambac, Province of Camarines Sur, is hereby expanded and upgraded from a fifteen-bed capacity medicare hospital into a twenty-five bed capacity district hospital, to be known as the Tinambac District Hospital.1âшphi1
+The Tinambac Medicare Hospital in the Municipality of Tinambac, Province of Camarines Sur, is hereby expanded and upgraded from a fifteen-bed capacity medicare hospital into a twenty-five bed capacity district hospital, to be known as the Tinambac District Hospital.
 
 ## Section 2
 

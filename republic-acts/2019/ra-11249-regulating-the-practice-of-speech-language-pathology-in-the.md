@@ -244,7 +244,7 @@ _Issuance of Special Temporary Permit._ \- Special temporary permits may be issu
 
 (b) A foreign speech language pathologist who is an internationally recognized expert or specialist in any branch of speech language pathology and whose services are essential for the advancement of speech language pathology in the Philippines; and
 
-(c) A foreign speech language pathologist to be engaged as professor, lecturer, or critic in fields essential to speech language pathology education in the Philippines.1avvphi1
+(c) A foreign speech language pathologist to be engaged as professor, lecturer, or critic in fields essential to speech language pathology education in the Philippines.
 
 The special temporary permit shall provide for the limitations and conditions for its issuance, which shall include the following: validity of the special temporary permit which shall be for a period of not more than one (1) year, but subject to renewal at the discretion of the Board; the branch or specialty of speech language pathology to practice or engage in; and the specific place of practice such as clinic, hospital, center, or school/college/university. The Board, subject to the approval by the Commission, shall prescribe the rules and regulations for the implementation of this particular section.
 
@@ -296,7 +296,7 @@ _Prohibited Acts._ \- No person shall:
 
 (c) Allow an unqualified person to advertise or to practice the profession by using one’s certificate of registration, professional identification card or special temporary permit; and
 
-(d) Use as one’s own the certificate of registration, professional identification card or special temporary permit of another.1âwphi1
+(d) Use as one’s own the certificate of registration, professional identification card or special temporary permit of another.
 
 ### Section 31
 

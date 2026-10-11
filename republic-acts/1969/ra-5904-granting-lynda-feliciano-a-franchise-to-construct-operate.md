@@ -35,7 +35,7 @@ The grantee shall manufacture and supply ice up to the limit of the capacity of 
 
 All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every aspect, and the grantee shall, whenever the Public Service
 
-Commission shall determine that public interest reasonably requires it, change or alter any of its apparatus and appurtenances at grantee's expense.1âшphi1
+Commission shall determine that public interest reasonably requires it, change or alter any of its apparatus and appurtenances at grantee's expense.
 
 ## Section 4
 

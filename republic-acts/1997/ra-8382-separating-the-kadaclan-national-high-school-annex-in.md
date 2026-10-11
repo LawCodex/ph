@@ -32,7 +32,7 @@ The Kadaclan National High School Annex in Barangay Kadaclan, Municipality of Ba
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue orders, rules and circulars as may be necessary for the implementation of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue orders, rules and circulars as may be necessary for the implementation of this Act.
 
 ## Section 3
 

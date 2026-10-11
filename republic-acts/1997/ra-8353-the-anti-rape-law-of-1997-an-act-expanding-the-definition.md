@@ -27,9 +27,13 @@ AN ACT EXPANDING THE DEFINITION OF THE CRIME OF RAPE, RECLASSIFYING THE SAME AS 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short Title._** \- This Act shall be known as **_"The Anti-Rape Law of 1997."_**
+## Section 1
 
-**Section 2._Rape as a Crime Against Persons._** \- The crime of rape shall hereafter be classified as a Crime Against Persons under Title Eight of Act No. 3815, as amended, otherwise known as the Revised Penal Code. Accordingly, there shall be incorporated into Title Eight of the same Code a new chapter to be known as Chapter Three on Rape, to read as follows:
+_Short Title._ \- This Act shall be known as **_"The Anti-Rape Law of 1997."_**
+
+## Section 2
+
+_Rape as a Crime Against Persons._ \- The crime of rape shall hereafter be classified as a Crime Against Persons under Title Eight of Act No. 3815, as amended, otherwise known as the Revised Penal Code. Accordingly, there shall be incorporated into Title Eight of the same Code a new chapter to be known as Chapter Three on Rape, to read as follows:
 
 "Chapter Three  
 "Rape
@@ -98,10 +102,16 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 "Article 266-D. _Presumptions._ \- Any physical overt act manifesting resistance against the act of rape in any degree from the offended party, or where the offended party is so situated as to render her/him incapable of giving valid consent, may be accepted as evidence in the prosecution of the acts punished under Article 266-A."
 
-**Section 3._Separability Clause._** \- If any part, Sec., or provision of this Act is declared invalid or unconstitutional, the other parts thereof not affected thereby shall remain valid.
+## Section 3
 
-**Section 4._Repealing Clause._** \- Article 336 of Act No. 3815, as amended, and all laws, acts, presidential decrees, executive orders, administrative orders, rules and regulations inconsistent with or contrary to the provisions of this Act are deemed amended, modified or repealed accordingly.
+_Separability Clause._ \- If any part, Sec., or provision of this Act is declared invalid or unconstitutional, the other parts thereof not affected thereby shall remain valid.
 
-**Section 5._Effectivity._** \- This Act shall take effect fifteen (15) days after completion of its publication in two (2) newspapers of general circulation.
+## Section 4
+
+_Repealing Clause._ \- Article 336 of Act No. 3815, as amended, and all laws, acts, presidential decrees, executive orders, administrative orders, rules and regulations inconsistent with or contrary to the provisions of this Act are deemed amended, modified or repealed accordingly.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after completion of its publication in two (2) newspapers of general circulation.
 
 Approved: **September 30, 1997**.

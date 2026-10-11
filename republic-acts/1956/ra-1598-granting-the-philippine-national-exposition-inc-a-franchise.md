@@ -50,7 +50,7 @@ Any provision of law to the contrary notwithstanding, no tax or fee, in addition
 
 ## Section 7
 
-Nothing in this Act shall be held or construed to authorize or permit the grantee to carry on, conduct, supervise, permit or suffer any gambling in any form whatsoever prohibited by law or ordinance of any political subdivision in the Philippines within the grounds of the national exposition and carnival herein authorized, except traditional games like bingo, wherein prizes in the form of merchandise or commodities and not money or cash shall be given.1avvphi1 The violation of this section shall operate automatically to forfeit the franchise granted in this Act.
+Nothing in this Act shall be held or construed to authorize or permit the grantee to carry on, conduct, supervise, permit or suffer any gambling in any form whatsoever prohibited by law or ordinance of any political subdivision in the Philippines within the grounds of the national exposition and carnival herein authorized, except traditional games like bingo, wherein prizes in the form of merchandise or commodities and not money or cash shall be given. The violation of this section shall operate automatically to forfeit the franchise granted in this Act.
 
 ## Section 8
 
@@ -58,9 +58,9 @@ The various bureaus and offices of the National Government, including corporatio
 
 ## Section 9
 
-The grantee shall keep an account of the gross receipts of the business transacted by it, and shall furnish to the Auditor General and the Treasurer of the City of Manila a copy each of such account. For the purpose of auditing accounts surrendered to the Auditor General and Treasurer of the City of Manila, all the books and accounts of the grantee, and duplicates thereof, shall be subject to the official inspection of the Auditor General or his authorized representatives.1awp++i1 The audit and approval of such accounts by the Auditor General shall be final and conclusive evidence as to the amount of said gross receipts, except that the grantee shall have the right to appeal to the courts of the Philippines under the terms and conditions provided in the laws of the Philippines.
+The grantee shall keep an account of the gross receipts of the business transacted by it, and shall furnish to the Auditor General and the Treasurer of the City of Manila a copy each of such account. For the purpose of auditing accounts surrendered to the Auditor General and Treasurer of the City of Manila, all the books and accounts of the grantee, and duplicates thereof, shall be subject to the official inspection of the Auditor General or his authorized representatives. The audit and approval of such accounts by the Auditor General shall be final and conclusive evidence as to the amount of said gross receipts, except that the grantee shall have the right to appeal to the courts of the Philippines under the terms and conditions provided in the laws of the Philippines.
 
-The words "gross receipts" are hereby defined as the total receipts obtained by the grantee from its operation under this franchise.1âшphi1
+The words "gross receipts" are hereby defined as the total receipts obtained by the grantee from its operation under this franchise.
 
 ## Section 10
 

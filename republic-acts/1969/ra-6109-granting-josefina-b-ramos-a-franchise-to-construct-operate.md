@@ -49,7 +49,7 @@ The books, records and accounts of the grantee shall always be open to the inspe
 
 ## Section 7
 
-In consideration of this franchise the grantee shall pay a tax equivalent to five per cent of her gross income.1a⍵⍴h!1
+In consideration of this franchise the grantee shall pay a tax equivalent to five per cent of her gross income.
 
 ## Section 8
 

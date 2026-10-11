@@ -34,13 +34,13 @@ In case of death of a retired member of the National Prosecution Service (NPS) o
 
 Members of the NPS shall include all prosecution in the Office of the Secretary of Justice, the Regional Prosecution Office and the offices of the Provincial and City Prosecutors.
 
-As used in this Act, “dependent” refers to a legitimate, illegitimate or legally adopted child who is chiefly dependent on the said deceased member of the NPS if such dependent is not more than twenty-one (21) years of age, unmarried and not gainfully employed, or if such dependent, regardless of age, is incapable of self-support because of any mental or physical defect or condition.7!ᕼdMᗄ7
+As used in this Act, “dependent” refers to a legitimate, illegitimate or legally adopted child who is chiefly dependent on the said deceased member of the NPS if such dependent is not more than twenty-one (21) years of age, unmarried and not gainfully employed, or if such dependent, regardless of age, is incapable of self-support because of any mental or physical defect or condition.
 
 The surviving legitimate spouse shall continue to receive during his or her lifetime said retirement benefits until such spouse remarries: _Provided,_ That the surviving spouse and dependent children shall each equally share the retirement benefits.
 
 ## Section 2
 
-The amount necessary for the immediate implementation of this Act shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The amount necessary for the immediate implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

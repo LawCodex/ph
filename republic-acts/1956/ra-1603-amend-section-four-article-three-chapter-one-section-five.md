@@ -33,7 +33,7 @@ Subsection (1) is hereby added to Section four, Article three, Chapter One, of A
 
 Subsection (f) is hereby added to section five, Article one, Chapter two, of Act Numbered Thirty-nine hundred and ninety-two, as amended, which reads as follows:
 
-"(f) _Report of Purchase or Acquisition of Motor Vehicles._ -Any person who purchases or acquires motor vehicles from tax-free persons, entities, or agencies in the Philippines, shall, within fifteen days from the purchase or acquisition thereof, render a report of his purchase or acquisition of the motor vehicle to the Chief, Motor Vehicles Office, stating the name and address of the person, entity, or agency from whom the motor vehicle was acquired, the date of purchase or acquisition, the manufacturer’s serial number and motor number, a brief description of the vehicle, whether or not the sales or compensating tax on the vehicle has already been paid, and such other information as the Chief, Motor Vehicles Office, may require.1âшphi1 The Collector of Internal Revenue shall be furnished with a copy of the said report within the same period. Failure to submit the report required in this section shall constitute an offense and shall be punished by a fine of not more than two hundred pesos or an imprisonment of not more than six months or both in the discretion of the court."
+"(f) _Report of Purchase or Acquisition of Motor Vehicles._ -Any person who purchases or acquires motor vehicles from tax-free persons, entities, or agencies in the Philippines, shall, within fifteen days from the purchase or acquisition thereof, render a report of his purchase or acquisition of the motor vehicle to the Chief, Motor Vehicles Office, stating the name and address of the person, entity, or agency from whom the motor vehicle was acquired, the date of purchase or acquisition, the manufacturer’s serial number and motor number, a brief description of the vehicle, whether or not the sales or compensating tax on the vehicle has already been paid, and such other information as the Chief, Motor Vehicles Office, may require. The Collector of Internal Revenue shall be furnished with a copy of the said report within the same period. Failure to submit the report required in this section shall constitute an offense and shall be punished by a fine of not more than two hundred pesos or an imprisonment of not more than six months or both in the discretion of the court."
 
 ## Section 3
 
@@ -49,7 +49,7 @@ Section 14, Article three, Chapter two, of Act Numbered Thirty-nine hundred and 
 
 "Upon recommendation of the Collector of Internal Revenue, on account of failure or refusal to pay internal revenue taxes, the Chief, Motor Vehicles may suspend the certificates of registration of the motor vehicles of common carriers and transportation contractors and require the surrender of the license plates within a period of sixty days.
 
-"After two such suspensions, the owner may be refused re-registration of the vehicle concerned for one year.1avvphi1
+"After two such suspensions, the owner may be refused re-registration of the vehicle concerned for one year.
 
 "The action of the Chief, Motor Vehicles Office, or his deputies under this section shall be communicated in writing to the owner of the motor vehicles."
 

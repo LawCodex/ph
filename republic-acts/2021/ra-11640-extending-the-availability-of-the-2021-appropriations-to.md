@@ -34,7 +34,7 @@ Section 62 of the General Appropriations Act of 2021 or Republic Act No. 11518 i
 
 “SEC. 62. Cash Budgeting System. Appropriations authorized in this Act, including budgetary support to GOCCs and financial assistance to LGUs, shall be available for release and obligation for the purpose specified, and under the same general and special provisions applicable thereto, until December 31, 2022, except for personnel services which shall be available for release, obligation and disbursement until December 31, 2021. On the other hand, appropriations for the statutory shares of LGUs shall be available for release, obligation and disbursement until appropriations are fully utilized and funds fully disbursed.
 
-“Likewise, contribution of infrastructure projects, delivery of goods and services, inspection and payment shall be made not later than December 31, 2022.ℒαwρhi৷
+“Likewise, contribution of infrastructure projects, delivery of goods and services, inspection and payment shall be made not later than December 31, 2022.
 
 “After the end of the validity period, all unreleased appropriations and unobligated allotments shall lapse, while unexpected or undisbursed funds shall revert to the unappropriated surplus of the General Fund in accordance with Section 28, Chapter 4, Book VI of E.O. No. 292 and shall not thereafter be available for expenditure except by subsequent legislative enactment. Departments, bureaus and offices of the National Government including constitutional offices enjoying fiscal autonomy, SUCs and GOCCs, shall strictly observe the validity of appropriations and the reversion of funds.
 

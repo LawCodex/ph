@@ -46,7 +46,7 @@ _Definition, of Terms._ -As used in this Act:
 
 (b) Green building refers to a building which, in its design, construction or operation, reduces or eliminates the negative impact on the climate and natural environment of a particular area and the country in general and can create positive impact. Green buildings preserve precious natural resources and improve the quality of life;
 
-(c) Green building technology refers to the technology or the application of processes which are environmentally responsible and resource-efficient throughout a building’s life cycle: from planning to design, construction, operation, maintenance, renovation and demolition. This requires close cooperation of the contractors, architects, engineers and the clients at all project stages.1âшphi1 The green building practice expands and complements the classical building design concerns of utility, economy, durability and comfort; and
+(c) Green building technology refers to the technology or the application of processes which are environmentally responsible and resource-efficient throughout a building’s life cycle: from planning to design, construction, operation, maintenance, renovation and demolition. This requires close cooperation of the contractors, architects, engineers and the clients at all project stages. The green building practice expands and complements the classical building design concerns of utility, economy, durability and comfort; and
 
 (d) High performance building refers to a form of green building with a singular focus on its energy performance and which integrates and optimizes all major high-performance building attributes, including energy efficiency, durability, life-cycle performance, and occupant productivity.
 

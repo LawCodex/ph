@@ -40,7 +40,7 @@ Excepting cases of force majeure and whenever weather conditions permit, the gra
 
 ## Section 4
 
-The grantee shall secure the prior approval of the Civil Aeronautics Board in determining its routes and rates for scheduled and non-scheduled passenger and/or freight services.1aшphi1
+The grantee shall secure the prior approval of the Civil Aeronautics Board in determining its routes and rates for scheduled and non-scheduled passenger and/or freight services.
 
 ## Section 5
 

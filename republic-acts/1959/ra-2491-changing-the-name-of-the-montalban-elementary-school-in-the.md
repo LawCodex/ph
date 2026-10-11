@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Montalban Elementary School in the Municipality of Montalban, Province of Rizal, is changed to E. Rodriguez, Jr., Elementary School.1âшphi1
+The name of the Montalban Elementary School in the Municipality of Montalban, Province of Rizal, is changed to E. Rodriguez, Jr., Elementary School.
 
 ## Section 2
 

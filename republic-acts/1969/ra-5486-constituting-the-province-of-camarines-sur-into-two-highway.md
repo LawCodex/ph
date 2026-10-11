@@ -40,6 +40,6 @@ Any provision of law, rule or regulation to the contrary notwithstanding the min
 
 ## Section 5
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

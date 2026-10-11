@@ -44,7 +44,7 @@ No fees shall be charged by the grantee as the radio stations that may be establ
 
 ## Section 6
 
-The actual operation of said private fixed point-to-point, private coastal, private aeronautical and land based and land-mobile radiotelephone stations shall not commence until after the Secretary of Public Works and Communication shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.1âшphi1
+The actual operation of said private fixed point-to-point, private coastal, private aeronautical and land based and land-mobile radiotelephone stations shall not commence until after the Secretary of Public Works and Communication shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 7
 
@@ -60,7 +60,7 @@ The grantee, its successors or assigns, shall be subject to the corporation laws
 
 ## Section 10
 
-A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace or order to cause the closing of the grantee’s radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon just compensation.1âшphi1
+A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace or order to cause the closing of the grantee’s radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon just compensation.
 
 ## Section 11
 

@@ -44,7 +44,7 @@ The incumbent Representatives of the First and Second Legislative Districts of t
 
 ## Section 3
 
-The Commission on Elections (COMELEC) shall issue the necessary rules and regulations to implement this Act.1aшphi1
+The Commission on Elections (COMELEC) shall issue the necessary rules and regulations to implement this Act.
 
 ## Section 4
 

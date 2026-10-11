@@ -34,7 +34,7 @@ The Malinta-Lagta Road which traverses Barangay Malinta in Masbate City and Bara
 
 ## Section 2
 
-The Secretary of the Department of Public Works and High ways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1avvphi1
+The Secretary of the Department of Public Works and High ways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

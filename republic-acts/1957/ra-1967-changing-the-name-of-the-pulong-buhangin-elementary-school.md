@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Pulong Buhangin Elementary School, barrio of Pulong Buhangin, Municipality of Sta. Maria, Province of Bulacan, is changed to Cornelia M. de Jesus Memorial School.1âшphi1
+The name of the Pulong Buhangin Elementary School, barrio of Pulong Buhangin, Municipality of Sta. Maria, Province of Bulacan, is changed to Cornelia M. de Jesus Memorial School.
 
 ## Section 2
 

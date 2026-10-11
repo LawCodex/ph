@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Director of Medical Ser
 
 ## Section 2
 
-The sum of one hundred twenty-five thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said emergency hospital during the fiscal year nineteen hundred and sixty-five.1âшphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+The sum of one hundred twenty-five thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said emergency hospital during the fiscal year nineteen hundred and sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -28,7 +28,7 @@ The Northern Isabela Hospital in the Municipality of Cabagan, Province of Isabel
 
 ## Section 2
 
-In addition to the appropriation for said hospital under existing law, the additional sum of four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act for the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+In addition to the appropriation for said hospital under existing law, the additional sum of four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act for the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

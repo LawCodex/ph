@@ -36,7 +36,7 @@ All national and provincial properties and/or equipment and records now being us
 
 ## Section 4
 
-For the purpose of giving effect to this Act, all the unexpended balances of the appropriation of the Second Highway Engineering District now under the control and administration of the ex-officio District Engineer and _ex-officio_ disbursing officer are hereby made available for the operation of the separate Second Highway Engineering District Office until June thirty, nineteen hundred and seventy. Thereafter, funds for the operation and maintenance of the separate Second Highway Engineering District shall be provided in the General Appropriations Act.1âшphi1
+For the purpose of giving effect to this Act, all the unexpended balances of the appropriation of the Second Highway Engineering District now under the control and administration of the ex-officio District Engineer and _ex-officio_ disbursing officer are hereby made available for the operation of the separate Second Highway Engineering District Office until June thirty, nineteen hundred and seventy. Thereafter, funds for the operation and maintenance of the separate Second Highway Engineering District shall be provided in the General Appropriations Act.
 
 ## Section 5
 

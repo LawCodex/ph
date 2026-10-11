@@ -28,6 +28,6 @@ The name of Agpangi Elementary School in the Municipality of Calatrava, Province
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 21, 1959.

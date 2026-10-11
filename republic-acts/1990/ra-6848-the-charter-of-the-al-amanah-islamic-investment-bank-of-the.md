@@ -34,27 +34,39 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 THE CHARTER OF THE AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES
 
-**Section 1._Title._** \- This Act shall be known as **"_The Charter of the Al-Amanah Islamic Investment Bank of the Philippines._ "**
+## Section 1
+
+_Title._ \- This Act shall be known as **"_The Charter of the Al-Amanah Islamic Investment Bank of the Philippines._ "**
 
 ESTABLISHMENT AND FUNCTIONS
 
-**Section 2._Name, Domicile and Place of Business._** \- There is hereby created the Al-Amanah Islamic Investment Bank of the Philippines, which shall be hereinafter called the Islamic Bank.ts principal domicile and place of business shall be in Zamboanga City. It may establish branches, agencies or other offices at such places in the Philippines or abroad subject to the laws, rules and regulations of the Central Bank.
+## Section 2
 
-**Section 3._Purpose and Basis._** \- The primary purpose of the Islamic Bank shall be to promote and accelerate the socio-economic development of the Autonomous Region by performing banking, financing and investment operations and to establish and participate in agricultural, commercial and industrial ventures based on the Islamic concept of banking.
+_Name, Domicile and Place of Business._ \- There is hereby created the Al-Amanah Islamic Investment Bank of the Philippines, which shall be hereinafter called the Islamic Bank.ts principal domicile and place of business shall be in Zamboanga City. It may establish branches, agencies or other offices at such places in the Philippines or abroad subject to the laws, rules and regulations of the Central Bank.
+
+## Section 3
+
+_Purpose and Basis._ \- The primary purpose of the Islamic Bank shall be to promote and accelerate the socio-economic development of the Autonomous Region by performing banking, financing and investment operations and to establish and participate in agricultural, commercial and industrial ventures based on the Islamic concept of banking.
 
 All business dealings and activities of the Islamic Bank shall be subject to the basic principles and rulings of Islamic Shari'a within the purview of the aforementioned declared policy. Any zakat or "ithe" paid by the Islamic Bank on behalf of its shareholders and depositors shall be its obligation to appropriate said zakat fund and to disburse it in legitimate channels to be ascertained first by the Shari'a Advisory Council.
 
-**Section 4._Shari'a Advisory Council._** \- There is hereby created a Shari'a Advisory Council of the Islamic Bank which shall be composed of not more than five (5) members, selected from among Islamic scholars and jurists of comparative law.
+## Section 4
+
+_Shari'a Advisory Council._ \- There is hereby created a Shari'a Advisory Council of the Islamic Bank which shall be composed of not more than five (5) members, selected from among Islamic scholars and jurists of comparative law.
 
 The members shall be elected at a general shareholders meeting of the Islamic Bank every three (3) years from a list of nominees prepared by the Board of Directors of the Islamic Bank. The Board is hereby authorized to select the members of the first Shari'a Advisory Council and to determine their remunerations.
 
-**Section 5._Functions of the Shari'a Advisory Council._** \- The functions of the Shari'a Advisory Council shall be to offer advice and undertake reviews pertaining to the application of the principles and rulings of the Islamic Shari'a to the Islamic Bank's transactions, but it shall not directly involve itself in the operations of the Bank.
+## Section 5
+
+_Functions of the Shari'a Advisory Council._ \- The functions of the Shari'a Advisory Council shall be to offer advice and undertake reviews pertaining to the application of the principles and rulings of the Islamic Shari'a to the Islamic Bank's transactions, but it shall not directly involve itself in the operations of the Bank.
 
 Any member of the Shari'a Advisory Council may be invited to sit in the regular or special meetings of the Board of Directors of the Islamic Bank to expound his views on matters of the Islamic Shari'a affecting a particular transaction but he shall not be entitled to vote on the question presented before the board meetings.
 
 CORPORATE POWERS
 
-**Section 6._Islamic Bank's Powers._** \- The Al-Amanah Islamic Investment Bank of the Philippines, upon its organization, shall be a body corporate and shall have the power:
+## Section 6
+
+_Islamic Bank's Powers._ \- The Al-Amanah Islamic Investment Bank of the Philippines, upon its organization, shall be a body corporate and shall have the power:
 
 (1) To prescribe its bylaws and its operating policies;
 
@@ -118,9 +130,13 @@ CORPORATE POWERS
 
 CAPITAL RESOURCES OF THE BANK
 
-**Section 7._Authorized Capital Stock._** \- The authorized capital stock of the Islamic Bank shall be One billion pesos (P1,000,000,000) divided into ten million par value shares of One hundred pesos each. All shares are nominative and indivisible. The subscription to and ownership of such shares, including the transfer thereof to third parties, shall be limited to persons and entities who subscribe to the concept of Islamic banking.
+## Section 7
 
-**Section 8._Classification of Shares:s Features._** \- The Islamic Bank's authorized capital stock shall have the following classifications and features in relation to its Islamic banking operation:
+_Authorized Capital Stock._ \- The authorized capital stock of the Islamic Bank shall be One billion pesos (P1,000,000,000) divided into ten million par value shares of One hundred pesos each. All shares are nominative and indivisible. The subscription to and ownership of such shares, including the transfer thereof to third parties, shall be limited to persons and entities who subscribe to the concept of Islamic banking.
+
+## Section 8
+
+_Classification of Shares:s Features._ \- The Islamic Bank's authorized capital stock shall have the following classifications and features in relation to its Islamic banking operation:
 
 (1) Series "A" shares shall comprise five million one hundred thousand shares equivalent to Five hundred ten million pesos (P510,000,000) to be made available for subscription by the present stockholders of the Philippine Amanah Bank namely: the National Government, and such other financial entities as it may designate.
 
@@ -134,7 +150,9 @@ The Islamic Bank is authorized to reacquire its common shares that are held priv
 
 The Islamic Bank may take the necessary steps to have its series "B" shares listed in any duly registered stock exchange.
 
-**Section 9._Board of Arbitration._** \- The Board of Directors, acting as an arbitrator, shall settle by the majority decision of its members any dispute between and among shareholders of the Islamic Bank, whether individuals or entities, where such dispute arises from their relations as shareholders in the Islamic Bank. The Board shall not be bound in this respect to the procedures of laws on civil and commercial pleadings, except in regard to the basic principles of due process.
+## Section 9
+
+_Board of Arbitration._ \- The Board of Directors, acting as an arbitrator, shall settle by the majority decision of its members any dispute between and among shareholders of the Islamic Bank, whether individuals or entities, where such dispute arises from their relations as shareholders in the Islamic Bank. The Board shall not be bound in this respect to the procedures of laws on civil and commercial pleadings, except in regard to the basic principles of due process.
 
 If the dispute is between the Islamic Bank and any of the investors or the shareholders, a Board of Arbitration shall settle such dispute.n this case, the Board of Arbitration, consisting of three (3) members, shall be formed by two (2) parties to the dispute within forty-five (45) days from receipt of written notice by either party to the dispute. The three (3) members shall be selected as follows: one (1) arbitrator from each party who shall then select a casting arbitrator as the third member of the board. The three (3) shall select one of them to preside over the Board of Arbitration. The selection by each party of its arbitrator shall be deemed as an acceptance of the arbitrator's decision and of its finality.
 
@@ -144,9 +162,13 @@ The Board of Arbitration shall meet at the Islamic Bank's principal office and s
 
 The Board of Arbitration's decision, shall in all cases, be final and executory.t shall be valid for execution in the same manner as final judgments are effected under Republic Act No. 876 otherwise known as the Arbitration Law.
 
-**Section 10._Incentives to Islamic Banking._** \- Subject to the provisions of Section 74 of the Central Bank Act, the provisions of the Omnibus Investment Code on the basic rights and guarantees of investors are made applicable to the commercial operations of the Islamic Bank in respect to repatriation or remittance of profits from investments, and to protection against nationalization, sequestrations, or expropriation proceedings. Any proceedings of judicial or administrative seizure may not be taken against the said property or investment except upon a final court judgment.
+## Section 10
 
-**Section 11._Grants and Donations._** \- The Islamic Bank shall accept grants, donations, endowments, and subsidies, or funds and/or property offered by individuals and organizations, who may earmark such grants for a specific purpose or for such other purposes beneficial to the Muslim communities, without prejudice to the general objectives of the Islamic Bank.
+_Incentives to Islamic Banking._ \- Subject to the provisions of Section 74 of the Central Bank Act, the provisions of the Omnibus Investment Code on the basic rights and guarantees of investors are made applicable to the commercial operations of the Islamic Bank in respect to repatriation or remittance of profits from investments, and to protection against nationalization, sequestrations, or expropriation proceedings. Any proceedings of judicial or administrative seizure may not be taken against the said property or investment except upon a final court judgment.
+
+## Section 11
+
+_Grants and Donations._ \- The Islamic Bank shall accept grants, donations, endowments, and subsidies, or funds and/or property offered by individuals and organizations, who may earmark such grants for a specific purpose or for such other purposes beneficial to the Muslim communities, without prejudice to the general objectives of the Islamic Bank.
 
 The financial statement and books of accounts of such funds shall be maintained separately but may be supplemented to the Islamic Bank's balance sheet.
 
@@ -154,7 +176,9 @@ Under special circumstances in which the Board of Directors considers it advisab
 
 PLACEMENTS AND INVESTMENTS OF FUNDS
 
-**Section 12._Non-Interest Bearing Placements._** \- The Islamic Bank is authorized to accept deposits from governments, banks, organizations or other entities and individuals from within the Philippines or abroad which shall form under any of the following non-interest bearing placements:
+## Section 12
+
+_Non-Interest Bearing Placements._ \- The Islamic Bank is authorized to accept deposits from governments, banks, organizations or other entities and individuals from within the Philippines or abroad which shall form under any of the following non-interest bearing placements:
 
 (1) Saving accounts
 
@@ -166,19 +190,29 @@ Any deposit received by the Islamic Bank without authorization to invest shall b
 
 All deposits received with authorization to invest for a given period of time shall form part of the general pool of placements allocated for investment portfolios of the Islamic Bank and may be added to its working capital to be invested in any special projects or in general areas of investments or commercial operations of the Bank.
 
-**Section 13._Investment of Funds._** \- The Islamic Bank shall have the capacity of agent or attorney and shall act with full authority on behalf of the group of depositors in general in investing their co-mingled deposits without prejudice to the following section and shall ensure a degree of liquidity to be determined by the Board of Directors to meet the current obligations of the Islamic Bank including drawings from savings accounts and current accounts: provided, that such degree of liquidity shall be subject to the reserve requirement as may be determined by the Central Bank. The Board of Directors shall determine the period for an investment participation account.nvestment of funds shall be undertaken by the Islamic Bank acting on behalf of the group of depositors or investors in selected areas of investment under such terms and conditions as the Board of Directors may determine by way of mudarabah or other forms of joint investment permitted by Islamic Shari'a principle.
+## Section 13
 
-**Section 14._Return on Investment Funds._** \- The depositors or investors in joint investment participation accounts shall be entitled to a portion of the return on investment according to the deposit balances and its period. The profits on participation account with authorization to invest in specific transaction shall be calculated on the same basis as on the capital funds invested as determined by the Board of Directors pursuant to Section 35 of this Act.
+_Investment of Funds._ \- The Islamic Bank shall have the capacity of agent or attorney and shall act with full authority on behalf of the group of depositors in general in investing their co-mingled deposits without prejudice to the following section and shall ensure a degree of liquidity to be determined by the Board of Directors to meet the current obligations of the Islamic Bank including drawings from savings accounts and current accounts: provided, that such degree of liquidity shall be subject to the reserve requirement as may be determined by the Central Bank. The Board of Directors shall determine the period for an investment participation account.nvestment of funds shall be undertaken by the Islamic Bank acting on behalf of the group of depositors or investors in selected areas of investment under such terms and conditions as the Board of Directors may determine by way of mudarabah or other forms of joint investment permitted by Islamic Shari'a principle.
 
-**Section 15._Allocation of Resources._** \- Any provision of law to the contrary notwithstanding, the Islamic Bank may allocate part of its own investable funds or of the deposits on hand to finance investment projects and carry on its Islamic banking business directly or indirectly under its own supervision. For this purpose, it may create and finance investment companies or affiliates which shall manage investment projects on behalf of and under the supervision of the Islamic Bank and for its own account.
+## Section 14
+
+_Return on Investment Funds._ \- The depositors or investors in joint investment participation accounts shall be entitled to a portion of the return on investment according to the deposit balances and its period. The profits on participation account with authorization to invest in specific transaction shall be calculated on the same basis as on the capital funds invested as determined by the Board of Directors pursuant to Section 35 of this Act.
+
+## Section 15
+
+_Allocation of Resources._ \- Any provision of law to the contrary notwithstanding, the Islamic Bank may allocate part of its own investable funds or of the deposits on hand to finance investment projects and carry on its Islamic banking business directly or indirectly under its own supervision. For this purpose, it may create and finance investment companies or affiliates which shall manage investment projects on behalf of and under the supervision of the Islamic Bank and for its own account.
 
 The Islamic Bank shall ascertain the viability and soundness of investment projects which it may directly supervise and those in which it may participate with part of its own funds, with the general pool of investors funds with authorization. The Islamic Bank shall have the right to inspect and supervise the projects which it shall finance or in which it is the majority shareholder. The original capital and related profits shall be remitted in the same currency it was originally contributed or in one of the convertible currencies, as the Board of Directors shall determine in accordance with this Charter.
 
 ISLAMIC BANK OPERATIONS IN GENERAL
 
-**Section 16._Authorized Banking Services._** \- The Islamic Bank shall exercise all the powers and perform all the services of a bank, except as otherwise prohibited by this Act: provided, that no transactions by any customer, company, corporation or firm with the said Islamic Bank shall be permitted for discounts by the Central Bank of the Philippines.
+## Section 16
 
-**Section 17._Authorized Commercial Operations._** \- Notwithstanding the provisions of any law to the contrary, the Islamic Bank is hereby authorized to operate an Investment House pursuant to Presidential Decree No. 129, as amended, and as a Venture Capital Corporation pursuant to Presidential Decree No. 1688 and, by virtue thereof, carry on the following types of commercial operations:
+_Authorized Banking Services._ \- The Islamic Bank shall exercise all the powers and perform all the services of a bank, except as otherwise prohibited by this Act: provided, that no transactions by any customer, company, corporation or firm with the said Islamic Bank shall be permitted for discounts by the Central Bank of the Philippines.
+
+## Section 17
+
+_Authorized Commercial Operations._ \- Notwithstanding the provisions of any law to the contrary, the Islamic Bank is hereby authorized to operate an Investment House pursuant to Presidential Decree No. 129, as amended, and as a Venture Capital Corporation pursuant to Presidential Decree No. 1688 and, by virtue thereof, carry on the following types of commercial operations:
 
 (1) The Islamic Bank may have a direct interest as a shareholder, partner, owner or any other capacity in any commercial, industrial, agricultural, real estate or development project under mudarabah form of partnership or musharaka joint venture agreement or by decreasing participation, or otherwise invest under any of the various contemporary Islamic financing techniques or modes of investment for profit sharing;
 
@@ -186,7 +220,9 @@ ISLAMIC BANK OPERATIONS IN GENERAL
 
 (3) The Islamic Bank may perform all business ventures and transactions as may be necessary to carry out the objectives of its charter within the framework of the Islamic Bank's financial capabilities and technical considerations prescribed by law and convention: provided, that these shall not involve any riba or other activities prohibited by the Islamic Shari'a principles.
 
-**Section 18._Employee Share Schemes._** \- The Board of Directors may adopt an employee profit sharing scheme under any of the following ways:
+## Section 18
+
+_Employee Share Schemes._ \- The Board of Directors may adopt an employee profit sharing scheme under any of the following ways:
 
 (1) Any arrangement under which the directors, officers and employees of the Islamic Bank receive in addition to their salaries and wages a share, fixed beforehand, in the profits realized by the Islamic Bank or by affiliate companies of the Islamic Bank to which the profit sharing scheme relates; and
 
@@ -196,7 +232,9 @@ No scheme shall be approved by the Board of Directors under this section unless 
 
 The Islamic Bank shall then constitute the trustees of an approved scheme, whose functions with respect to the common shares held by them are regulated by Chapter VII of the General Banking Act and other pertinent laws, and terms of which are embodied in a deed of instrument as the Board may require.
 
-**Section 19._Investment Ceilings; Business Limits._** \- The Islamic Bank shall observe the following investment ceilings and business limits in its operations:
+## Section 19
+
+_Investment Ceilings; Business Limits._ \- The Islamic Bank shall observe the following investment ceilings and business limits in its operations:
 
 (1) The aggregate credit facilities or any other liabilities of any customer of the Islamic Bank shall not exceed at all times fifteen per centum (15%) of the unimpaired capital and surplus of the Bank;
 
@@ -206,17 +244,27 @@ The Islamic Bank shall then constitute the trustees of an approved scheme, whose
 
 (4) The Islamic Bank shall not grant any credit facility to any person for the purpose of financing the acquisition of the holding of shares in any company, corporation or firm in excess of fifty percent (50%) of the appraised valued of the shares at the time the credit facility is granted.
 
-**Section 20._Loans to Directors, Officers or Employees Restrictions._** \- Subject to the limitations provided herein, the Islamic Bank may grant to any of its officers or employees a loan as provided under its scheme of service and, whenever the Islamic Bank is satisfied that special circumstances exist, a loan not exceeding at any one time an amount equivalent to six (6) months remuneration of each officer or employee on such terms and conditions as the Islamic Bank deem fit. The Islamic Bank shall not, directly or indirectly, grant an advance loan or credit facility to any of its directors, officers or employees, or any other person for whom any of them is a guarantor or in any manner to be an obligor for money granted by the Islamic Bank. No loan or credit facility shall be granted by the Islamic Bank to a company, corporation, partnership or firm wherein any member of the Board of Directors or auditors is a shareholder, partner, manager, agent or employee in any manner, except with the written approval of and by the unanimous vote of no less than two-thirds (2/3) of all the members of the Board of the Directors excluding the director concerned: provided, that the total liabilities to the Islamic Bank shall be limited to the director or auditor's outstanding deposits or the book value of his or her paid-in capital in the Islamic Bank. Any such approval shall be entered upon the records of the Islamic Bank and a copy of such entry shall be transmitted forthwith to the appropriate supervising department of the Central Bank of the Philippines.
+## Section 20
+
+_Loans to Directors, Officers or Employees Restrictions._ \- Subject to the limitations provided herein, the Islamic Bank may grant to any of its officers or employees a loan as provided under its scheme of service and, whenever the Islamic Bank is satisfied that special circumstances exist, a loan not exceeding at any one time an amount equivalent to six (6) months remuneration of each officer or employee on such terms and conditions as the Islamic Bank deem fit. The Islamic Bank shall not, directly or indirectly, grant an advance loan or credit facility to any of its directors, officers or employees, or any other person for whom any of them is a guarantor or in any manner to be an obligor for money granted by the Islamic Bank. No loan or credit facility shall be granted by the Islamic Bank to a company, corporation, partnership or firm wherein any member of the Board of Directors or auditors is a shareholder, partner, manager, agent or employee in any manner, except with the written approval of and by the unanimous vote of no less than two-thirds (2/3) of all the members of the Board of the Directors excluding the director concerned: provided, that the total liabilities to the Islamic Bank shall be limited to the director or auditor's outstanding deposits or the book value of his or her paid-in capital in the Islamic Bank. Any such approval shall be entered upon the records of the Islamic Bank and a copy of such entry shall be transmitted forthwith to the appropriate supervising department of the Central Bank of the Philippines.
 
 The office of any director, officer or auditor of the Islamic Bank who violates the provisions of this section shall automatically become vacant and the persons who acted in contravention thereof shall be subject to criminal prosecution and suffer the penalties provided by law.
 
-**Section 21._Special Cash Account._** \- The Islamic Bank shall open a special cash account with the Central Bank in which its liquid funds shall be deposited. Any transfer of funds from this account to the other accounts shall be made only upon prior consultation with the Islamic Bank.
+## Section 21
 
-**Section 22._Capital Funds Requirement._** \- The Islamic Bank shall maintain its combined capital accounts in proportion to its assets as prescribed by the Central Banking Act and subject to the rules and regulations of the Central Bank.
+_Special Cash Account._ \- The Islamic Bank shall open a special cash account with the Central Bank in which its liquid funds shall be deposited. Any transfer of funds from this account to the other accounts shall be made only upon prior consultation with the Islamic Bank.
 
-**Section 23._Investment Risk Fund._** \- The Islamic Bank shall maintain general reserves appropriations pursuant to the profit and loss distributions made under Section 35 of this Act. All amounts appropriated for the Investment Risk Fund out of the net profits of each year shall be invested for the benefit of the Islamic Bank only in safe non-interest-bearing transactions by authority of the Board of Directors.
+## Section 22
 
-**Section 24._Periodic Reports._** \- The Islamic Bank shall, in addition to periodic reports which may be required pursuant to the provisions of any other law, be required to submit to the Central Bank a report of any changes relating to the Islamic Bank's employee profit sharing scheme approved by the Board of Directors.
+_Capital Funds Requirement._ \- The Islamic Bank shall maintain its combined capital accounts in proportion to its assets as prescribed by the Central Banking Act and subject to the rules and regulations of the Central Bank.
+
+## Section 23
+
+_Investment Risk Fund._ \- The Islamic Bank shall maintain general reserves appropriations pursuant to the profit and loss distributions made under Section 35 of this Act. All amounts appropriated for the Investment Risk Fund out of the net profits of each year shall be invested for the benefit of the Islamic Bank only in safe non-interest-bearing transactions by authority of the Board of Directors.
+
+## Section 24
+
+_Periodic Reports._ \- The Islamic Bank shall, in addition to periodic reports which may be required pursuant to the provisions of any other law, be required to submit to the Central Bank a report of any changes relating to the Islamic Bank's employee profit sharing scheme approved by the Board of Directors.
 
 The Islamic Bank shall likewise make a report to the Central Bank whenever a change is about to take place in relation to the ownership or control of the Islamic Bank. The approval of the Monetary Board shall be required in the following changes:
 
@@ -226,19 +274,27 @@ The Islamic Bank shall likewise make a report to the Central Bank whenever a cha
 
 BANK MANAGEMENT AND GENERAL MEETING
 
-**Section 25._Board of Directors._** \- The Board of Directors composed of nine (9) members duly elected by the General Shareholders Meeting, as provided for in this Act, shall convene at the principal office once every three (3) months at the most upon due notice by the Chairman or, whenever the need arises, upon the request of three (3) members of the Board of Directors. The Board may convene outside the Islamic Bank's principal office as the members shall determine in the bylaws of the Islamic Bank.
+## Section 25
 
-**Section 26._Powers of the Board._** \- The Board of Directors shall have the broadest powers to manage the Islamic Bank, except such matters as are explicitly reserved for the general shareholders meeting. The Board shall adopt policy guidelines necessary to carry out effectively the provisions of this Charter as well as internal rules and regulations necessary for the conduct of its Islamic banking business and all matters related to personnel organization, office functions and salary administration.
+_Board of Directors._ \- The Board of Directors composed of nine (9) members duly elected by the General Shareholders Meeting, as provided for in this Act, shall convene at the principal office once every three (3) months at the most upon due notice by the Chairman or, whenever the need arises, upon the request of three (3) members of the Board of Directors. The Board may convene outside the Islamic Bank's principal office as the members shall determine in the bylaws of the Islamic Bank.
+
+## Section 26
+
+_Powers of the Board._ \- The Board of Directors shall have the broadest powers to manage the Islamic Bank, except such matters as are explicitly reserved for the general shareholders meeting. The Board shall adopt policy guidelines necessary to carry out effectively the provisions of this Charter as well as internal rules and regulations necessary for the conduct of its Islamic banking business and all matters related to personnel organization, office functions and salary administration.
 
 The Board of Directors shall have the power to appoint managers, authorize agents or legal representatives and shall vest them with signing authority on behalf of the Bank either severally or jointly in accordance with the operational procedures of the Bank.
 
 The Board shall cause the preparation of the Islamic Bank's balance sheet for each financial year within three (3) months at the latest from the end of each accounting period as well as the profit and loss statement according to accounting rules established and based on Islamic criteria. Copies of the audited annual balance sheet, profit and loss account, together with any note thereon, and the report of the auditor and the director's own report shall be provided to the shareholders before the date of the general meeting.
 
-**Section 27._Chief Executive Officer; Other Officers and Employees._** \- The Chief Executive Officer of the Islamic Bank shall be the Chairman who shall be chosen by the Board of Directors from among themselves. All other officers and employees of the Islamic Bank shall be appointed and removed by the Board upon recommendation of the Chief Executive Officer which shall not be subject to Civil Service Law.
+## Section 27
+
+_Chief Executive Officer; Other Officers and Employees._ \- The Chief Executive Officer of the Islamic Bank shall be the Chairman who shall be chosen by the Board of Directors from among themselves. All other officers and employees of the Islamic Bank shall be appointed and removed by the Board upon recommendation of the Chief Executive Officer which shall not be subject to Civil Service Law.
 
 The Chief Executive Officer of the Islamic Bank shall, among others, execute and administer the policies, measures, orders and resolutions approved by the Board of Directors.n particular, he shall have the power and duty: to execute all contracts in behalf of the Islamic Bank and to enter into all necessary obligations by this Charter required or permitted; to report weekly to the Board of Directors the main facts concerning the operations of the Islamic Bank during the proceeding week and suggest changes in policy or policies which will serve the best interest of the Islamic Bank.
 
-**Section 28._Business Development Office._** \- The Islamic Bank shall have a Business Development Office which shall be responsible for the following:
+## Section 28
+
+_Business Development Office._ \- The Islamic Bank shall have a Business Development Office which shall be responsible for the following:
 
 (1) To conduct periodic economic surveys and studies of the investment climate and opportunities in the Islamic Bank's sphere of operations and identify the viable projects which may be sponsored by the people of the Autonomous Region;
 
@@ -246,17 +302,25 @@ The Chief Executive Officer of the Islamic Bank shall, among others, execute and
 
 (3) To perform such other functions as may be directed by the Board of Directors.
 
-**Section 29._General Shareholders Meeting._** \- The general shareholders meeting shall convene annually at the latest within six (6) months following the end of the financial year of the Bank at the place, date and time fixed in the notice for the meeting. The attendance of shareholders representing at least sixty per centum (60%) of the capital of the Islamic Bank shall constitute a quorum to do business.
+## Section 29
 
-**Section 30._Purpose of General Meeting._** \- The general shareholders meeting shall convene purposely to hear the Board of Directors' report on the activities of the Islamic Bank, its financial condition, the auditor's report and to approve the balance sheet for the financial year ended and the profit and loss statement, to determine the portion of dividends to be distributed to the shareholders and the method of distribution, to appoint the auditors, and to elect the members of the Shari'a Advisory Council.
+_General Shareholders Meeting._ \- The general shareholders meeting shall convene annually at the latest within six (6) months following the end of the financial year of the Bank at the place, date and time fixed in the notice for the meeting. The attendance of shareholders representing at least sixty per centum (60%) of the capital of the Islamic Bank shall constitute a quorum to do business.
 
-**Section 31._Ordinary and Extraordinary Sessions._** \- The general shareholders meeting shall be presided over by the Chairman of the Board of Directors. All resolutions adopted by the general meeting in ordinary session assembled shall be taken by a vote of majority of the shareholders represented therein and in case of votes being equal, the Chairman shall cast his vote to break the tie. The resolutions of the general meeting adopted in accordance therewith shall be binding on all shareholders including those not in attendance or opposing the resolution.
+## Section 30
+
+_Purpose of General Meeting._ \- The general shareholders meeting shall convene purposely to hear the Board of Directors' report on the activities of the Islamic Bank, its financial condition, the auditor's report and to approve the balance sheet for the financial year ended and the profit and loss statement, to determine the portion of dividends to be distributed to the shareholders and the method of distribution, to appoint the auditors, and to elect the members of the Shari'a Advisory Council.
+
+## Section 31
+
+_Ordinary and Extraordinary Sessions._ \- The general shareholders meeting shall be presided over by the Chairman of the Board of Directors. All resolutions adopted by the general meeting in ordinary session assembled shall be taken by a vote of majority of the shareholders represented therein and in case of votes being equal, the Chairman shall cast his vote to break the tie. The resolutions of the general meeting adopted in accordance therewith shall be binding on all shareholders including those not in attendance or opposing the resolution.
 
 An extraordinary general meeting shall be required to pass resolutions related to the increase or decrease of capital of the Bank, the extension of its legal existence or matters affecting amendment of the Charter. Resolutions of the extraordinary general meeting shall be deemed adopted when a majority vote of at least sixty-six and two-thirds plus one per centum (66 & 2/3 + 1%) of the capital shares shall have been cast.
 
 In no case shall the general meeting resolve to modify the object of the Bank as an Islamic Investment Bank.
 
-**Section 32._Bank Auditor_ : _Reports._** \- Notwithstanding the provisions of any existing law to the contrary, the Islamic Bank is hereby authorized to appoint an external auditor approved by the general shareholders meeting whose qualification and remunerations shall be fixed by the Board of Directors. The external auditor appointed under this section shall assume his functions from the date of his appointment until the date of the next general shareholders meeting.n case a vacancy occurs at any time during the year for any reason, the Board of Directors shall immediately appoint a replacement.
+## Section 32
+
+_Bank Auditor_ : _Reports._ \- Notwithstanding the provisions of any existing law to the contrary, the Islamic Bank is hereby authorized to appoint an external auditor approved by the general shareholders meeting whose qualification and remunerations shall be fixed by the Board of Directors. The external auditor appointed under this section shall assume his functions from the date of his appointment until the date of the next general shareholders meeting.n case a vacancy occurs at any time during the year for any reason, the Board of Directors shall immediately appoint a replacement.
 
 The duties of the auditor shall be to conduct an audit of the accounts of the Bank and to make a report to the Board of Directors.
 
@@ -264,15 +328,21 @@ In the exercise of his auditing functions, all Bank books, accounts and document
 
 CONFIDENTIAL INFORMATION
 
-**Section 33._Confidential Information._** \- Banking transactions relating to all deposits of whatever nature are confidential and may not be examined, inquired or looked into by any person, government official, bureau or office except as provided in the preceding section, or upon written permission by the depositor, or in cases where the money deposited or the transaction concerned is the subject of a court order.
+## Section 33
+
+_Confidential Information._ \- Banking transactions relating to all deposits of whatever nature are confidential and may not be examined, inquired or looked into by any person, government official, bureau or office except as provided in the preceding section, or upon written permission by the depositor, or in cases where the money deposited or the transaction concerned is the subject of a court order.
 
 It shall be unlawful for any official or employee of the Islamic Bank or any person as may be designated by the Board of Director to examine or audit the books of the Bank to disclose or reveal to any person any confidential information except under the circumstances mentioned in the preceding paragraph.
 
 PROFIT AND LOSS POLICY
 
-**Section 34._Accounting Period._** \- The Financial Year of the Islamic Bank shall be based on the Gregorian calendar, but the corresponding Islamic Hijra date shall be mentioned on all correspondence, contracts, printed materials, forms and records of the Islamic Bank. The accounting period shall commence from the first day of January and close at the end of December each year.
+## Section 34
 
-**Section 35._Determination of Profits and Losses._** \- At the close of each financial year, the Islamic Bank shall determine the results of its operation, in the determination of which the portion of profits due to the Islamic Bank and the inventors shall be allocated pursuant to the provisions of this Act.
+_Accounting Period._ \- The Financial Year of the Islamic Bank shall be based on the Gregorian calendar, but the corresponding Islamic Hijra date shall be mentioned on all correspondence, contracts, printed materials, forms and records of the Islamic Bank. The accounting period shall commence from the first day of January and close at the end of December each year.
+
+## Section 35
+
+_Determination of Profits and Losses._ \- At the close of each financial year, the Islamic Bank shall determine the results of its operation, in the determination of which the portion of profits due to the Islamic Bank and the inventors shall be allocated pursuant to the provisions of this Act.
 
 The Board of Directors shall, after deducting the general and administrative expenses of the Bank and all its operating expenses including remunerations of the Board of Directors and the Shari'a Advisory Council, determine annually what part of the income shall be appropriated to reserves, investors and shareholders.
 
@@ -282,7 +352,9 @@ Allocation of joint investment profits shall be made after deducting an amount e
 
 Losses incurred, if any shall be deducted from the total profits realized for the financial year in which such losses are incurred but any excess of losses over the profits which have been actually realized during that year may be deducted from the Investment Risk Fund opened for covering the risks of investment: provided, that should the total profits realized in the year together with the reserves accumulated from previous year be insufficient to cover the losses incurred, the Islamic Bank shall carry out a comprehensive assessment to arrive at estimated profit and loss based on market rates, from operations which are financed by mudarabah funds and which have not reached the stage of final settlement by the end of the financial year.
 
-**Section 36._Sharing Between the Bank and the Investors._** \- Not later than the end of the first month of each financial year, the Board of Directors shall determine and publish the general percentages of profit to be allocated to the total funds participating in joint investments of the Islamic Bank.
+## Section 36
+
+_Sharing Between the Bank and the Investors._ \- Not later than the end of the first month of each financial year, the Board of Directors shall determine and publish the general percentages of profit to be allocated to the total funds participating in joint investments of the Islamic Bank.
 
 The Islamic Bank as a joint venturer (mudarib) shall be entitled to certain percentage after deducting the amount allotted to investors. The Bank shall likewise be entitled to a share in the profits of joint investments in proportion to its own invested funds.
 
@@ -290,7 +362,9 @@ For the purpose of calculating funds employed in financing operations priority s
 
 All zakat due the shareholder's capital and reserves represented by the pecuniary value of shares and the zakat due on the investor's funds or profits accruing to every depositor shall be paid to the zakat fund, subject to their instructions.
 
-**Section 37._Tax Exemption._** \- The Islamic Bank assets, profits distributions and all contracts, deeds documents and transactions related to the conduct of business of the Islamic Bank shall be exempted from all taxes under the National Internal Revenue Code to commence from the first taxable year, following its actual Islamic banking operation as certified by the Central Bank, to the extent as herein made allowable:
+## Section 37
+
+_Tax Exemption._ \- The Islamic Bank assets, profits distributions and all contracts, deeds documents and transactions related to the conduct of business of the Islamic Bank shall be exempted from all taxes under the National Internal Revenue Code to commence from the first taxable year, following its actual Islamic banking operation as certified by the Central Bank, to the extent as herein made allowable:
 
 (1) One hundred per centum (100%) for the first five (5) years; and
 
@@ -298,9 +372,13 @@ All zakat due the shareholder's capital and reserves represented by the pecuniar
 
 An investment in Islamic banking business to the extent of actual participation in profit and loss sharing scheme, paid in cash or property, shall be granted an exemption from all taxes under the National Internal Revenue Code, except income tax: provided, that an investment tax allowance shall be permitted as a deduction from taxable income under such transactions to the extent that the Islamic Bank pays out zakat on the income of investors capital and surplus reserves for the duration of the joint investment period.
 
-**Section 38._Exemption from Customs Duties._** \- Within the first five (5) years of operation of the Islamic Bank, all importations by the Bank of machinery, equipment, calculators and computers and accompanying spare parts, as may be necessary for its operation, shall be exempted from customs duties and compensating taxes payable thereon: provided, however, that same shall not be disposed of domestically unless payment is made of all duties thereof at the tariff rates and according to their condition at the time of disposal and upon compliance with all import and exchange procedures.
+## Section 38
 
-**Section 39._Non-Applicability of Selected Acts._** \- In order to achieve the international and domestic objectives of Islamic banking business, the provisions of the following acts and laws shall not apply to the Islamic Bank to the extent as herein rendered inoperative:
+_Exemption from Customs Duties._ \- Within the first five (5) years of operation of the Islamic Bank, all importations by the Bank of machinery, equipment, calculators and computers and accompanying spare parts, as may be necessary for its operation, shall be exempted from customs duties and compensating taxes payable thereon: provided, however, that same shall not be disposed of domestically unless payment is made of all duties thereof at the tariff rates and according to their condition at the time of disposal and upon compliance with all import and exchange procedures.
+
+## Section 39
+
+_Non-Applicability of Selected Acts._ \- In order to achieve the international and domestic objectives of Islamic banking business, the provisions of the following acts and laws shall not apply to the Islamic Bank to the extent as herein rendered inoperative:
 
 (1) The provisions of the Central Bank Act and the General Banking Act with particular reference to the determination of bank interest rates, loans and discounts, and any interest-bearing instruments or charge: provided, that nothing contained herein shall be construed to impair the powers of the Central Bank to supervise and regulate the activities of the Islamic Bank;
 
@@ -308,23 +386,33 @@ An investment in Islamic banking business to the extent of actual participation 
 
 (3) The provision of Republic Act Numbered Three thousand five hundred ninety-one, as amended, and all laws, regulating insurance companies: provided, however, that nothing contained herein shall preclude the Islamic Bank from the establishment of contemporary Islamic tafakul (solidarity services) free of riba premiums or interests.
 
-**Section 40._Employment of Foreign Nationals._** \- Subject to the provisions of Section 29 of Commonwealth Act No. 613, and the Anti-Dummy Law, as amended, the Islamic Bank may employ foreign nationals in supervisory, technical or advisory positions for a period not exceeding five (5) years extendible for limited periods upon the recommendation of the Governor of the Central Bank.
+## Section 40
+
+_Employment of Foreign Nationals._ \- Subject to the provisions of Section 29 of Commonwealth Act No. 613, and the Anti-Dummy Law, as amended, the Islamic Bank may employ foreign nationals in supervisory, technical or advisory positions for a period not exceeding five (5) years extendible for limited periods upon the recommendation of the Governor of the Central Bank.
 
 Foreign nationals under employment contract within the purview of this Act, their spouses and unmarried children under twenty-one (21) years of age, who are not excluded by Section 29 of Commonwealth Act No. 613, shall be permitted to enter and reside in the Philippines during the period of employment of such foreign nationals.
 
-**Section 41._Training of Technical Personnel._** \- The Islamic Bank shall promote and sponsor the training of technical personnel in the field of Islamic banking, finance and insurance. Towards this end, the Islamic Bank is hereby authorized to defray the costs of study, at home or abroad of outstanding employees of the Islamic Bank, of promising university graduates or of any other qualified persons who shall be determined by proper competitive examinations. The Board of Directors shall prescribe rules and regulations to govern the training program of the Islamic Bank.
+## Section 41
+
+_Training of Technical Personnel._ \- The Islamic Bank shall promote and sponsor the training of technical personnel in the field of Islamic banking, finance and insurance. Towards this end, the Islamic Bank is hereby authorized to defray the costs of study, at home or abroad of outstanding employees of the Islamic Bank, of promising university graduates or of any other qualified persons who shall be determined by proper competitive examinations. The Board of Directors shall prescribe rules and regulations to govern the training program of the Islamic Bank.
 
 LEGAL EXISTENCE
 
-**Section 42._Terms of Legal Existence._** \- The legal existence of the Islamic Bank shall be for a period of fifty (50) years, from and after the date of the approval of this Act, renewable upon resolution of the general shareholders meeting called for said purpose.
+## Section 42
+
+_Terms of Legal Existence._ \- The legal existence of the Islamic Bank shall be for a period of fifty (50) years, from and after the date of the approval of this Act, renewable upon resolution of the general shareholders meeting called for said purpose.
 
 At the expiration of the Islamic Bank's corporate existence or in the event of its dissolution before this date, the general shareholders meeting shall, upon the request of the Board of Directors, define the method of dissolution as provided for in its bylaws.
 
 GENERAL PROVISIONS
 
-**Section 43._Application of the Islamic Shari'a._** \- The Monetary Board of the Central Bank of the Philippines shall formulate the necessary rules and regulations to carry out the provisions of this Charter for the purpose of providing adequate credit facilities primarily to the people of the Autonomous Region, and supervise the operation of the Islamic Bank in accordance with the universal principle of the Islamic Shari'a.
+## Section 43
 
-**Section 44._Definition of Terms._** \- For the purposes of this Act, the following definition of terms is hereby adopted:
+_Application of the Islamic Shari'a._ \- The Monetary Board of the Central Bank of the Philippines shall formulate the necessary rules and regulations to carry out the provisions of this Charter for the purpose of providing adequate credit facilities primarily to the people of the Autonomous Region, and supervise the operation of the Islamic Bank in accordance with the universal principle of the Islamic Shari'a.
+
+## Section 44
+
+_Definition of Terms._ \- For the purposes of this Act, the following definition of terms is hereby adopted:
 
 (1) _Islamic Bank_ means the bank created under this Act;
 
@@ -350,32 +438,50 @@ GENERAL PROVISIONS
 
 PENALTIES
 
-**Section 45._Penalties for Violation._** \- Any director, officer, employee, auditor, or agent of the Islamic Bank who violates or permits the violation of any provision of this Act shall be punished by a fine not exceeding Ten thousand pesos (P10,000.00) or an imprisonment of not more than five (5) years, or both at the discretion of the court.
+## Section 45
+
+_Penalties for Violation._ \- Any director, officer, employee, auditor, or agent of the Islamic Bank who violates or permits the violation of any provision of this Act shall be punished by a fine not exceeding Ten thousand pesos (P10,000.00) or an imprisonment of not more than five (5) years, or both at the discretion of the court.
 
 TRANSITORY AND MISCELLANEOUS PROVISIONS
 
-**Section 46._Supervision and Regulation by the Central Bank._** \- The Islamic Bank shall be under the supervision and regulation of the Central Bank. All provisions of this Act, except those which pertain to the principles of Islamic Shari'a, shall be subject to all banking and pertinent laws of the Philippines and Central Bank Rules and Regulations which shall include proper safeguards to depositors and investors in the investments, partnerships, agencies and other operation of the bank.
+## Section 46
 
-**Section 47._Privatization._** \- Nothing in this Act shall be construed to preclude the Islamic Bank from privatizing its ownership. For this purpose, any limitation on the transfer of shares shall not be applicable with respect to the shareholdings of the National Government, Social Security System, Government Service Insurance System, Philippine National Bank and Development Bank of the Philippines.
+_Supervision and Regulation by the Central Bank._ \- The Islamic Bank shall be under the supervision and regulation of the Central Bank. All provisions of this Act, except those which pertain to the principles of Islamic Shari'a, shall be subject to all banking and pertinent laws of the Philippines and Central Bank Rules and Regulations which shall include proper safeguards to depositors and investors in the investments, partnerships, agencies and other operation of the bank.
 
-**Section 48._Transformation to Islamic Banking Business._** \- Upon approval of this Act, all the assets, liabilities and capital accounts of the Philippine Amanah Bank are hereby transferred to the Al-Amanah Islamic Investment Bank.
+## Section 47
+
+_Privatization._ \- Nothing in this Act shall be construed to preclude the Islamic Bank from privatizing its ownership. For this purpose, any limitation on the transfer of shares shall not be applicable with respect to the shareholdings of the National Government, Social Security System, Government Service Insurance System, Philippine National Bank and Development Bank of the Philippines.
+
+## Section 48
+
+_Transformation to Islamic Banking Business._ \- Upon approval of this Act, all the assets, liabilities and capital accounts of the Philippine Amanah Bank are hereby transferred to the Al-Amanah Islamic Investment Bank.
 
 Nothing in this Act be construed to preclude the Islamic Bank from transforming its investment portfolios, accounts or assets for the conduct of Islamic banking business.f, for any reason, such portfolios, accounts or assets granted under the authority of the Philippine Amanah Bank Charter are not eligible for this purpose, the same may be transferred, swapped, sold or otherwise disposed of in any manner deemed feasible following the effectivity of this Act.
 
-**Section 49._Reorganization of the Bank._** \- The Islamic Bank shall commence its reorganization within six (6) months from the date this Act takes effect. The present personnel complement of the Philippine Amanah Bank shall in the interim continue to discharge their respective functions. Officials and personnel whose services may be dispensed with as a result of this reorganization shall be paid the usual gratuities to which they may be entitled under the existing laws.
+## Section 49
 
-**Section 50._Statutory Articles of Incorporation._** \- This Act, upon its effectivity, shall be deemed accepted for all legal intents and purposes as the Statutory Articles of Incorporation of the Al-Amanah Islamic Investments Bank of the Philippines; and that notwithstanding the provisions of any existing law to the contrary, said Islamic Bank shall be deemed registered and duly authorized to do business and operate as an Islamic Bank as of the date of approval of this Act.
+_Reorganization of the Bank._ \- The Islamic Bank shall commence its reorganization within six (6) months from the date this Act takes effect. The present personnel complement of the Philippine Amanah Bank shall in the interim continue to discharge their respective functions. Officials and personnel whose services may be dispensed with as a result of this reorganization shall be paid the usual gratuities to which they may be entitled under the existing laws.
 
-**Section 51._By-laws._** \- Within sixty (60) days upon effectivity of this Act, the by-laws of the Islamic Bank for its organizational, functional and operational government and procedure shall be adopted by affirmative vote at the general shareholders meeting representing a majority of all subscribed capital stock entitled to vote, whether paid or unpaid, subject to certification by the Monetary Board pursuant to Section Ten of the General Banking Act.
+## Section 50
+
+_Statutory Articles of Incorporation._ \- This Act, upon its effectivity, shall be deemed accepted for all legal intents and purposes as the Statutory Articles of Incorporation of the Al-Amanah Islamic Investments Bank of the Philippines; and that notwithstanding the provisions of any existing law to the contrary, said Islamic Bank shall be deemed registered and duly authorized to do business and operate as an Islamic Bank as of the date of approval of this Act.
+
+## Section 51
+
+_By-laws._ \- Within sixty (60) days upon effectivity of this Act, the by-laws of the Islamic Bank for its organizational, functional and operational government and procedure shall be adopted by affirmative vote at the general shareholders meeting representing a majority of all subscribed capital stock entitled to vote, whether paid or unpaid, subject to certification by the Monetary Board pursuant to Section Ten of the General Banking Act.
 
 The by-laws, duly certified by the Monetary Board as aforesaid, shall be signed by the shareholders voting for them and shall be kept in the principal office of the Islamic Bank, subject to the inspection of the shareholders during office hours, and a copy thereof, duly certified by a majority of the directors and countersigned by the Corporate Secretary of the Islamic Bank, shall be filed and registered with the Securities and Exchange Commission.
 
-**Section 52._Repealing and Separability Clauses._** \- Presidential Decree No. 264, as amended by Presidential Decree No. 542, creating the Philippine Amanah Bank is hereby repealed.
+## Section 52
+
+_Repealing and Separability Clauses._ \- Presidential Decree No. 264, as amended by Presidential Decree No. 542, creating the Philippine Amanah Bank is hereby repealed.
 
 All acts, executive orders, administrative orders, proclamations, rules and regulations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
 
 If any provision or section of this Act or the application thereof to any person, association or circumstances is held invalid, the other pertinent provisions or section of this Act and their application to such person, association or circumstances shall not be affected thereby.
 
-**Section 53._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+## Section 53
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved: **January 26, 1990**.

@@ -44,7 +44,7 @@ The grantee, its successors or assigns, shall so construct, and operate its radi
 
 ## Section 6
 
-The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or person, caused by the construction or operation of its radio stations.1âшphi1
+The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or person, caused by the construction or operation of its radio stations.
 
 ## Section 7
 

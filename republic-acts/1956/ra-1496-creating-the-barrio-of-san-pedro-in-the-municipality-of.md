@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of San Pedro, Abanico and Tiniguiban, Municipality of Puerto Princesa, Province of Palawan, are constituted into a distinct and independent barrio of said municipality to be known as the Barrio of San Pedro.1âшphi1
+The sitios of San Pedro, Abanico and Tiniguiban, Municipality of Puerto Princesa, Province of Palawan, are constituted into a distinct and independent barrio of said municipality to be known as the Barrio of San Pedro.
 
 ## Section 2
 

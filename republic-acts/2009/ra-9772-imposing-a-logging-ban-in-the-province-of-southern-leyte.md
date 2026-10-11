@@ -42,7 +42,7 @@ The harvesting of planted species within tree plantations and the tree cutting a
 
 ## Section 4
 
-The Secretary of Environment and Natural Resources shall issue the necessary rules and regulations for the effective implementation of this Act.1avvphi1
+The Secretary of Environment and Natural Resources shall issue the necessary rules and regulations for the effective implementation of this Act.
 
 ## Section 5
 

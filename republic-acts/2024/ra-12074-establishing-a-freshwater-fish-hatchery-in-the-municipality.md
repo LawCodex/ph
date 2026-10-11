@@ -42,7 +42,7 @@ The Secretary of Agriculture shall include in the Department's programs the cond
 
 ## Section 4
 
-Within sixty (60) days from the effectivity of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the management of the freshwater fish hatchery to the local govenrment of Municipality of Talacogon.ℒαwρhi৷
+Within sixty (60) days from the effectivity of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the management of the freshwater fish hatchery to the local govenrment of Municipality of Talacogon.
 
 ## Section 5
 

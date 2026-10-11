@@ -31,7 +31,7 @@ The Bayabas Barangay High School of Barangay Bayabas, Municipality of Nabunturan
 
 ## Section 2
 
-The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.ℒαwρhi৷
+The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

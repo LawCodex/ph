@@ -118,7 +118,7 @@ _Submittal of quarterly reports._ -Gold producers shall each submit to the Board
 
 ## Section 11
 
-_Examination and inspection._ -The Head of the Board and his duly authorized representatives shall be vested with the authorities and prerogatives of the Director of Mines and his deputies as to inspection of mines property and plants, and examination of books of accounts and records of any gold producer who shall give the necessary facilities for such inspection and examination.1âшphi1
+_Examination and inspection._ -The Head of the Board and his duly authorized representatives shall be vested with the authorities and prerogatives of the Director of Mines and his deputies as to inspection of mines property and plants, and examination of books of accounts and records of any gold producer who shall give the necessary facilities for such inspection and examination.
 
 ## Section 12
 

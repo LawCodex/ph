@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Transport
 
 ## Section 2
 
-The LTO district office cater to the needs of the people from all the barangays of the municipalities of Calamba, Sapang Dalaga, Concepcion, Baliangao and Plaridel in the Province of Misamis Occidental and the Municipality of Rizal in the Province of Zamboanga del Norte.ℒαwρhi৷
+The LTO district office cater to the needs of the people from all the barangays of the municipalities of Calamba, Sapang Dalaga, Concepcion, Baliangao and Plaridel in the Province of Misamis Occidental and the Municipality of Rizal in the Province of Zamboanga del Norte.
 
 ## Section 3
 

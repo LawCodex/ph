@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Zamboanga City Regional School of Arts and Trades in Zamboanga City is hereby authorized to offer the teacher curriculum in industrial education beginning with the school year ending nineteen hundred sixty-two.1âшphi1
+The Zamboanga City Regional School of Arts and Trades in Zamboanga City is hereby authorized to offer the teacher curriculum in industrial education beginning with the school year ending nineteen hundred sixty-two.
 
 ## Section 2
 

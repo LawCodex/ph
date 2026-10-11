@@ -48,7 +48,7 @@ The different departments, agencies and subdivisions as well as government-owned
 
 ## Section 7
 
-The University of the Philippines may for the purpose of executive development obtain the service of professional or technical personnel of any agency of the Philippine Government to provide instruction, perform research, and such other activities as may be necessary. Such personnel may be given honorarium by the University of the Philippines upon recommendation of the head of the Academy, any law to the contrary notwithstanding.1âшphi1
+The University of the Philippines may for the purpose of executive development obtain the service of professional or technical personnel of any agency of the Philippine Government to provide instruction, perform research, and such other activities as may be necessary. Such personnel may be given honorarium by the University of the Philippines upon recommendation of the head of the Academy, any law to the contrary notwithstanding.
 
 ## Section 8
 

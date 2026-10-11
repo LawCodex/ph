@@ -29,7 +29,7 @@ There shall be established one experimental and breeding station under the super
 
 ## Section 2
 
-There is hereby created a Committee of three to be composed of the Director of Animal Industry, as Chairman, the Dean, Department of Animal Husbandry, College of Agriculture, University of the Philippines, and a representative of private experimental and breeding stations in the Philippines as members who shall be appointed by the President and duly confirmed by the Commission on Appointments.1âшphi1 The Committee shall study and designate the place in each province where such experimental and breeding stations shall be established, which place must have an area of not less than fifteen hectares, and must be owned by either the national or provincial government.
+There is hereby created a Committee of three to be composed of the Director of Animal Industry, as Chairman, the Dean, Department of Animal Husbandry, College of Agriculture, University of the Philippines, and a representative of private experimental and breeding stations in the Philippines as members who shall be appointed by the President and duly confirmed by the Commission on Appointments. The Committee shall study and designate the place in each province where such experimental and breeding stations shall be established, which place must have an area of not less than fifteen hectares, and must be owned by either the national or provincial government.
 
 ## Section 3
 

@@ -100,7 +100,7 @@ _Compliance with TESDA Requirements._ \- The provisions of this Act notwithstand
 
 _Administration._ \- The Institute shall be headed by a School Superintendent under the supervision of the TESDA and appointed by the TESDA Director General in accordance with civil service rules and regulations and the qualification requirements and standards for such office.
 
-The School Superintendent shall render full-time services and shall be responsible for the administration and operation of the Institute.1âwphi1
+The School Superintendent shall render full-time services and shall be responsible for the administration and operation of the Institute.
 
 The academic and administrative staff of the Institute shall be organized following the staffing pattern of the TESDA for such type of schools pursuant to existing laws, rules and regulations.
 

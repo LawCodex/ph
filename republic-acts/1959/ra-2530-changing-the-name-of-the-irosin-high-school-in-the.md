@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Irosin High School in the Municipality of Irosin Province of Sorsogon, is hereby changed to Gallanosa High School.(awÞhi(
+The name of the Irosin High School in the Municipality of Irosin Province of Sorsogon, is hereby changed to Gallanosa High School.
 
 ## Section 2
 

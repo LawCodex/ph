@@ -34,7 +34,7 @@ July 4 of every year is hereby declared a special working holiday and no class d
 
 ## Section 2
 
-For work performed on a special working holiday, an employee is entitled to his/her regular wage.ℒαwρhi৷
+For work performed on a special working holiday, an employee is entitled to his/her regular wage.
 
 ## Section 3
 

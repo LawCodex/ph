@@ -825,7 +825,7 @@ The city social welfare and development officer shall take charge of the social 
 
 ### Section 38
 
-_The City Environment and Natural Resources Officer._ \- The city environment and natural resources officer must be a citizen of the Philippines, a resident of the City of Novaliches, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environment and natural resources management, conservation, and utilization work for at least five (5) years immediately preceding the date of his appointment.Ꮮαwρhi৷
+_The City Environment and Natural Resources Officer._ \- The city environment and natural resources officer must be a citizen of the Philippines, a resident of the City of Novaliches, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environment and natural resources management, conservation, and utilization work for at least five (5) years immediately preceding the date of his appointment.
 
 The city environment and natural resources officer shall receive such compensation, emoluments and allowances as may be determined by law.
 

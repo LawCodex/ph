@@ -33,6 +33,6 @@ The present mayor, vice-mayor and councilors of the Municipal District of Dingal
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

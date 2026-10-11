@@ -32,9 +32,13 @@ _Be it enacted by the Senate and the House of Representatives of the Philippines
 
 This Act shall be known and cited as "**_The Mimbilisan Protected Landscape Act_** ".
 
-**SEC. 2._Declaration of Policy._** \- It is the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature. For this purpose, the State shall secure for the present and future generations of Filipinos the perpetual existence of all native plants and animals within the Mimbilisan Watershed in the municipalities of Balingoan and Talisayan, Province of Misamis Oriental, through its establishment as a component of the National Integrated Protected Areas System (NIPAS) under the category of protected landscape. The State shall likewise promote the participation of local communities in the management of the Mimbilisan Watershed and protect the way of life of the people living in and around the protected area.
+## SEC. 2
 
-**SEC. 3._Scope._** \- The boundaries of the Mimbilisan Protected Landscape are as follows: Tie Line: Point. 1 or Corner 1 on the map is S 37° W, approximately six thousand two hundred meters (6,200 m.) from the MBM of the Municipality of Talisayan, Misamis Oriental
+_Declaration of Policy._ \- It is the policy of the State to protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature. For this purpose, the State shall secure for the present and future generations of Filipinos the perpetual existence of all native plants and animals within the Mimbilisan Watershed in the municipalities of Balingoan and Talisayan, Province of Misamis Oriental, through its establishment as a component of the National Integrated Protected Areas System (NIPAS) under the category of protected landscape. The State shall likewise promote the participation of local communities in the management of the Mimbilisan Watershed and protect the way of life of the people living in and around the protected area.
+
+## SEC. 3
+
+_Scope._ \- The boundaries of the Mimbilisan Protected Landscape are as follows: Tie Line: Point. 1 or Corner 1 on the map is S 37° W, approximately six thousand two hundred meters (6,200 m.) from the MBM of the Municipality of Talisayan, Misamis Oriental
 
 | LINE | BEARING | DISTANCE |
 |---|---|---|
@@ -56,7 +60,9 @@ This Act shall be known and cited as "**_The Mimbilisan Protected Landscape Act_
 
 The total land area of the Mimbilisan Protected Landscape is six hundred sixty thousand square meters (660,000 sq.m.) or sixty-six hectares (66 has.) , more or less, located within the territory of Barangay Mapua, Municipality of Balingoan, Province of Misamis Oriental.
 
-**SEC. 4._Definition of Terms._** \- For purposes of this Act, the following terms shall be defined as follows:
+## SEC. 4
+
+_Definition of Terms._ \- For purposes of this Act, the following terms shall be defined as follows:
 
 (a) "_Biological diversity_ " or "_biodiversity_ " shall refer to the wealth of life forms found on earth, the millions of different plants, animals and microorganisms, the genes they contain and the intricate ecosystem they form.
 
@@ -86,9 +92,13 @@ The total land area of the Mimbilisan Protected Landscape is six hundred sixty t
 
 (n) "_Tenured migrants_ " shall refer to any person who has actually and continuously occupied an area for five years prior to the designation of the same as a PA in accordance with the provisions of Republic Act No. 7586 or the NIPAS Act and are solely dependent therein for subsistence.
 
-**SEC. 5._Management of the Mimbilisan Protected Landscape._** \- The management of the Mimbilisan Protected Landscape shall be vested in the PAMB as herein provided, which shall serve as the highest policy-making body for the PA. Through the PAMB, the management structure for the PA shall promote partnership, participation, cooperation and coordination with local communities and civil society organizations.
+## SEC. 5
 
-**SEC. 6._The Protected Area Management Board (PAMB) ._** \- The PAMB for the Mimbilisan Protected Landscape shall be composed of:
+_Management of the Mimbilisan Protected Landscape._ \- The management of the Mimbilisan Protected Landscape shall be vested in the PAMB as herein provided, which shall serve as the highest policy-making body for the PA. Through the PAMB, the management structure for the PA shall promote partnership, participation, cooperation and coordination with local communities and civil society organizations.
+
+## SEC. 6
+
+_The Protected Area Management Board (PAMB) ._ \- The PAMB for the Mimbilisan Protected Landscape shall be composed of:
 
 (a) The regional executive director (RED) of the DENR Region X, as chairman;
 
@@ -108,7 +118,9 @@ The total land area of the Mimbilisan Protected Landscape is six hundred sixty t
 
 Each member of the PAMB shall serve for a term of five years and shall be considered to represent and carry the vote of his/her sector in all matters. The members who represent government officials or agencies shall serve according to the term of office of their principal, unless sooner terminated by such officials.
 
-**SEC. 7._Powers and Functions of the PAMB._** \- The PAMB for the Mimbilisan Protected Landscape shall exercise the following powers and functions:
+## SEC. 7
+
+_Powers and Functions of the PAMB._ \- The PAMB for the Mimbilisan Protected Landscape shall exercise the following powers and functions:
 
 (a) Issue rules and regulations to implement the provisions of this Act and promote the policy declaration herein set forth;
 
@@ -132,7 +144,9 @@ The Secretary shall exercise authority over the PAMB to ensure that it exercises
 
 The local government units (LGUs) of the municipalities of Balingoan and Talisayan shall participate in the management of the PA through representation in the PAMB as provided under Section 6 hereof. The LGUs shall retain their power to adopt ordinances over the territory covered under this Act giving due consideration, however, to PA management objectives. If a conflict between LGU and PA management objectives remain unresolved within the PAMB, the Secretary shall resolve such issue with the concerned LGU.
 
-**SEC. 8._The Mimbilisan Protected Landscape Superintendent Office._** \- There is hereby established a Protected Area Superintendent's Office in charge of the management, protection and administration of the PA. The PASu shall be supported by the existing personnel of the DENR. The head of office shall be the chief operating officer of the Mimbilisan Protected Landscape or the PA and shall be accountable to the RED of the DENR-Region X and the PAMB.
+## SEC. 8
+
+_The Mimbilisan Protected Landscape Superintendent Office._ \- There is hereby established a Protected Area Superintendent's Office in charge of the management, protection and administration of the PA. The PASu shall be supported by the existing personnel of the DENR. The head of office shall be the chief operating officer of the Mimbilisan Protected Landscape or the PA and shall be accountable to the RED of the DENR-Region X and the PAMB.
 
 The PASu shall have the following powers and functions:
 
@@ -176,13 +190,19 @@ The zoning of the PA shall give primary consideration to cultural, economic and 
 
 The management plan shall be prepared in a language understandable in the area, plainly written and available for perusal anytime to the general public at the PASu Office.
 
-**SEC. 9._Existing Facilities Within the PA._** \- Existing facilities allowed to remain within the PA may be charged a reasonable fee by the PAMB, which shall be embodied in a memorandum of agreement to be entered into with the owner of the facility. All incomes derived from such fees shall accrue to the Mimbilisan Protected Area Fund established pursuant to this Act.
+## SEC. 9
+
+_Existing Facilities Within the PA._ \- Existing facilities allowed to remain within the PA may be charged a reasonable fee by the PAMB, which shall be embodied in a memorandum of agreement to be entered into with the owner of the facility. All incomes derived from such fees shall accrue to the Mimbilisan Protected Area Fund established pursuant to this Act.
 
 In setting the user fees on man-made facilities managed by private entities, the rates shall be determined by the private entity but shall be comparable to the fees charged for similar facilities in a PA. For all other facilities, the user fees therein shall be determined in consultation with the PAMB.
 
-**SEC. 10._Utilization of Non-renewable Resources._** \- Any exploration for and exploitation or utilization of non-renewable resources within the PA shall not be allowed. Energy projects, renewable or otherwise, shall be permitted only through an act of Congress: Provided, That exploitation of renewable energy up to three megawatts capacity shall be exempt from such requirement.
+## SEC. 10
 
-**SEC. 11._Prohibited Acts._** \- (a) The penalties prescribed for theft under Articles 309 and 310 of the Revised Penal Code shall be imposed upon any person found guilty of:
+_Utilization of Non-renewable Resources._ \- Any exploration for and exploitation or utilization of non-renewable resources within the PA shall not be allowed. Energy projects, renewable or otherwise, shall be permitted only through an act of Congress: Provided, That exploitation of renewable energy up to three megawatts capacity shall be exempt from such requirement.
+
+## SEC. 11
+
+_Prohibited Acts._ \- (a) The penalties prescribed for theft under Articles 309 and 310 of the Revised Penal Code shall be imposed upon any person found guilty of:
 
 (i) Hunting, destroying, trapping, disturbing or possessing anywhere within the PA of any wild plant or animal or products derived therefrom without a permit from the PAMB: Provided, That such permit shall only be given for scientific purposes necessary to promote PA management;
 
@@ -218,27 +238,43 @@ The LGU responsible for the arrest of a violator and the confiscation of materia
 
 The above prohibitions shall not include activities identified in the management plans and such other measures as are necessary for protection, preservation and PA management, which shall be undertaken by the PASu or other persons deputized by the PAMB. The certified customs and traditional practices of indigenous cultural communities are also allowable activities over which the above prohibitions shall not apply.
 
-**SEC. 12._Special Prosecutors._** \- Within thirty (30) days from the effectivity of this Act, the Department of Justice (DOJ) shall designate a special prosecutor to whom all cases of violation of laws, rules and regulations in the PA shall be assigned. Such special prosecutor shall coordinate with the PAMB and the PASu in the performance of his/her duties and assist in the training of wardens and rangers in arresting and prosecuting violators of this Act. The PAMB may appoint a special private prosecutor on a case-to-case basis to assist the public prosecutor.
+## SEC. 12
 
-**SEC. 13._The Mimbilisan Protected Area Fund._** \- There is hereby established a trust fund to be known as the Mimbilisan Protected Area Fund for purposes of financing projects for the PA. All income generated from the operation of the PA or the management of wild flora and fauna in the PA shall accrue to the fund. These income shall be derived from visitors/tourists fee, fees from permitted sale and export of flora and fauna and other resources from the PA, proceeds from registration and lease of multiple-use areas, including tourism concessions, contributions from industries and facilities directly benefiting from the PA; and such other fees and income derived from the operation of the PA.
+_Special Prosecutors._ \- Within thirty (30) days from the effectivity of this Act, the Department of Justice (DOJ) shall designate a special prosecutor to whom all cases of violation of laws, rules and regulations in the PA shall be assigned. Such special prosecutor shall coordinate with the PAMB and the PASu in the performance of his/her duties and assist in the training of wardens and rangers in arresting and prosecuting violators of this Act. The PAMB may appoint a special private prosecutor on a case-to-case basis to assist the public prosecutor.
+
+## SEC. 13
+
+_The Mimbilisan Protected Area Fund._ \- There is hereby established a trust fund to be known as the Mimbilisan Protected Area Fund for purposes of financing projects for the PA. All income generated from the operation of the PA or the management of wild flora and fauna in the PA shall accrue to the fund. These income shall be derived from visitors/tourists fee, fees from permitted sale and export of flora and fauna and other resources from the PA, proceeds from registration and lease of multiple-use areas, including tourism concessions, contributions from industries and facilities directly benefiting from the PA; and such other fees and income derived from the operation of the PA.
 
 The fund may be augmented by grants, donations, endowment from various sources, domestic or foreign, for purposes related to their functions: Provided, That the fund shall be deposited as a special account in the National Treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration and management of the system, and duly approved projects endorsed by the PAMB in accordance with existing accounting and budgeting rules and regulations: Provided, further, That the fund shall not be used to cover personal services expenditures.
 
 The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as business permits, property tax and rentals of LGU facilities. Furthermore, LGUs may charge add-ons to fees imposed by the PAMB: Provided, That such add-ons shall be determined based on the contribution of the LGUs in the maintenance and protection of the PA.
 
-**SEC. 14._Appropriations._** \- The Secretary of the DENR shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+## SEC. 14
 
-**SEC. 15._Construction._** \- The provisions of this Art shall be construed liberally in favor of the protection and rehabilitation of the Mimbilisan watershed and water resources and the conservation and restoration of biological diversity, taking into account the needs and interests of qualified tenured migrants, for present and future Filipino generations. The NIPAS Act shall have suppletory effect in the implementation of this Act.
+_Appropriations._ \- The Secretary of the DENR shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+## SEC. 15
+
+_Construction._ \- The provisions of this Art shall be construed liberally in favor of the protection and rehabilitation of the Mimbilisan watershed and water resources and the conservation and restoration of biological diversity, taking into account the needs and interests of qualified tenured migrants, for present and future Filipino generations. The NIPAS Act shall have suppletory effect in the implementation of this Act.
 
 This Act shall not be deemed to resolve or used as basis for the resolution of any existing boundary conflict between the municipalities of Balingoan and Talisayan.
 
-**SEC. 16._Transitory Provision._** \- In order to ensure the sustainability and integrity of the watershed and water resources, the recovery and restoration of biological diversity and to develop sustainable livelihood opportunities for tenured migrants, the DENR shall henceforth cease to issue concessions, licenses, permits, clearances, compliance documents or any other instrument that allows exploitation and utilization of resources within the PA until the management plan shall have been put into effect.
+## SEC. 16
 
-**SEC. 17._Separability Clause._** \- If any part or section of this Act is declared by the courts as unconstitutional, such declaration shall not affect the other parts or sections hereof.
+_Transitory Provision._ \- In order to ensure the sustainability and integrity of the watershed and water resources, the recovery and restoration of biological diversity and to develop sustainable livelihood opportunities for tenured migrants, the DENR shall henceforth cease to issue concessions, licenses, permits, clearances, compliance documents or any other instrument that allows exploitation and utilization of resources within the PA until the management plan shall have been put into effect.
 
-**SEC. 18._Repealing Clause._** \- All laws, rules and regulations inconsistent herewith are modified accordingly.
+## SEC. 17
 
-**SEC. 19._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation readily available in and around the scope specified herein. It shall likewise be posted in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three other places frequented by the public.
+_Separability Clause._ \- If any part or section of this Act is declared by the courts as unconstitutional, such declaration shall not affect the other parts or sections hereof.
+
+## SEC. 18
+
+_Repealing Clause._ \- All laws, rules and regulations inconsistent herewith are modified accordingly.
+
+## SEC. 19
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation readily available in and around the scope specified herein. It shall likewise be posted in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three other places frequented by the public.
 
 Approved,
 

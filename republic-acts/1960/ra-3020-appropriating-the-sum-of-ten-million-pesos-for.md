@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 The sum of ten million pesos, or so much thereof as may be necessary, is appropriated out of any funds in the National Treasury not otherwise appropriated, for the rehabilitation, construction or replacement of public buildings, including temporary and P.T.A. school buildings, roads, bridges, installation and other public services damaged by typhoons and floods in the fiscal years nineteen hundred fifty-nine-sixty and nineteen hundred sixty-sixty-one: _Provided,_ However, That of the above amount, five million pesos shall be expended in the Bicol provinces, including Masbate: And, _Provided, finally,_ That three million pesos of this five million shall be expended in Albay.
 
-Disbursements of the balance of five million pesos shall be made in accordance with certifications of the district engineers as verified by the Department of Public Works and Communications simultaneously on a pro rata basis of the damage suffered by the provinces and cities affected by said typhoons and floods.1âшphi1
+Disbursements of the balance of five million pesos shall be made in accordance with certifications of the district engineers as verified by the Department of Public Works and Communications simultaneously on a pro rata basis of the damage suffered by the provinces and cities affected by said typhoons and floods.
 
 ## Section 2
 

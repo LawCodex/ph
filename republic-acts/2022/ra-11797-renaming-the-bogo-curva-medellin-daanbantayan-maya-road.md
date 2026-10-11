@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Bogo-Curva-Medellin-Daanbantayan-Maya Road, stretching Barangay Don Pedro Rodriguez in the City of Bogo, traversing though Barangays Dayhagon, Don Virgilio Gonzales, Canhabagat, Tindog, Curva, Caputatan Sur, Caputatan Norte, Poblacion, Daanlungsod, Antipolo, Mahawak and Kawit in the Municipality of Medellin, Barangays Bakhawan, Paypay, Bitoon, Poblacion, Aguho, Tapilon up to Maya in the Municipality of Daanbantayan, all in the Province of Cebu, is hereby renamed as Juan Macaraeg Highway.ℒαwρhi৷
+The Bogo-Curva-Medellin-Daanbantayan-Maya Road, stretching Barangay Don Pedro Rodriguez in the City of Bogo, traversing though Barangays Dayhagon, Don Virgilio Gonzales, Canhabagat, Tindog, Curva, Caputatan Sur, Caputatan Norte, Poblacion, Daanlungsod, Antipolo, Mahawak and Kawit in the Municipality of Medellin, Barangays Bakhawan, Paypay, Bitoon, Poblacion, Aguho, Tapilon up to Maya in the Municipality of Daanbantayan, all in the Province of Cebu, is hereby renamed as Juan Macaraeg Highway.
 
 ## Section 2
 

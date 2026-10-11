@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-April 5 of every year is hereby declared a special working holiday in the Province of Pangasinan, in commemoration of its founding anniversary, to be known as the "Pangasinan Day". Upon proclamation of the President, April 5 of every year shall be a special nonworking holiday in the Province of Pangasinan.1âшphi1
+April 5 of every year is hereby declared a special working holiday in the Province of Pangasinan, in commemoration of its founding anniversary, to be known as the "Pangasinan Day". Upon proclamation of the President, April 5 of every year shall be a special nonworking holiday in the Province of Pangasinan.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The district office of the Land Transportation Office (LTO) in Candon City, Prov
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading into a Class "B" district office of the LTO District Office in Candon City, Province of Ilkocos Sur, the initial funding of which shall be charged the current year's appropriation of the existing LTO District Office in Candon City. Thereafter, the funding of which shall be included in the annual General Appropriations Acts.ℒαwρhi৷
+The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading into a Class "B" district office of the LTO District Office in Candon City, Province of Ilkocos Sur, the initial funding of which shall be charged the current year's appropriation of the existing LTO District Office in Candon City. Thereafter, the funding of which shall be included in the annual General Appropriations Acts.
 
 ## Section 3
 

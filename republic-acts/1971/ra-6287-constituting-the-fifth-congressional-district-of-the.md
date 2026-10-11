@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the Fifth Congressional District of the Province of Cebu is hereby constituted into a separate highway engineering district, to be known as the Fourth Highway Engineering District of the Province of Cebu, with principal office at the Municipality of Samboan, same province.1âшphi1
+Any provision of law to the contrary notwithstanding, the Fifth Congressional District of the Province of Cebu is hereby constituted into a separate highway engineering district, to be known as the Fourth Highway Engineering District of the Province of Cebu, with principal office at the Municipality of Samboan, same province.
 
 The district engineer for said engineering district shall be appointed in accordance with existing laws.
 

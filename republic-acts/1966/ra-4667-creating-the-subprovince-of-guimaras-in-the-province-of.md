@@ -56,7 +56,7 @@ The lieutenant-governor of the Subprovince of Guimaras shall not be a member of 
 
 ## Section 8
 
-The subprovince of Guimaras shall have one lieutenant-governor and one assistant lieutenant-governor.1avvphi1 The assistant lieutenant-governor shall take place and perform the duties and exercise the powers of the lieutenant-governor in case of absence, suspension, or other temporary incapacity of the latter.
+The subprovince of Guimaras shall have one lieutenant-governor and one assistant lieutenant-governor. The assistant lieutenant-governor shall take place and perform the duties and exercise the powers of the lieutenant-governor in case of absence, suspension, or other temporary incapacity of the latter.
 
 ## Section 9
 

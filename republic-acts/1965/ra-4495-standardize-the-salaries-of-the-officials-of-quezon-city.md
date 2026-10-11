@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The provisions of the Revised Charter of Quezon City, as amended, to the contrary notwithstanding, officials of the city shall receive the following annual compensation which shall be paid from the funds of the city:1âшphi1
+The provisions of the Revised Charter of Quezon City, as amended, to the contrary notwithstanding, officials of the city shall receive the following annual compensation which shall be paid from the funds of the city:
 
 | City Mayor. | P20,000.00 |
 |---|---|

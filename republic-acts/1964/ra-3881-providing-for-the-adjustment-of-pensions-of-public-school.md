@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, any public school teacher who, under the provisions of Act Numbered Three thousand fifty, as amended, and Commonwealth Act Numbered One hundred eighty-seven, is entitled to a monthly pension of not exceeding twenty pesos shall hereafter receive a monthly pension of sixty pesos; if he is entitled to a monthly pension of more than twenty pesos, such monthly pension shall be increased by forty pesos.1aшphi1
+Any provision of law to the contrary notwithstanding, any public school teacher who, under the provisions of Act Numbered Three thousand fifty, as amended, and Commonwealth Act Numbered One hundred eighty-seven, is entitled to a monthly pension of not exceeding twenty pesos shall hereafter receive a monthly pension of sixty pesos; if he is entitled to a monthly pension of more than twenty pesos, such monthly pension shall be increased by forty pesos.
 
 ## Section 2
 

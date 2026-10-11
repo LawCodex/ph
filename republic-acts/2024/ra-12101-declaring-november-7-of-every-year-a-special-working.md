@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-November 7 of every year is hereby declared a special working holiday in the Municipality of Cuenca, Province of Batangas to be known as "Cuenca Foundation Day:, in commemoration of its founding anniversary. Upon proclamation of the President, November 7 of every year shall be a special non-working holiday in the Municipality of Cuenca, Province of Batangas.ℒαwρhi৷
+November 7 of every year is hereby declared a special working holiday in the Municipality of Cuenca, Province of Batangas to be known as "Cuenca Foundation Day:, in commemoration of its founding anniversary. Upon proclamation of the President, November 7 of every year shall be a special non-working holiday in the Municipality of Cuenca, Province of Batangas.
 
 ## Section 2
 

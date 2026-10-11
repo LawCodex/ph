@@ -40,7 +40,7 @@ _Corporate Powers._ -The said Bank shall be a body corporate and shall have powe
 
 (e) To grant short and long-term loans against security or real estate, or a pledge on cottage industries products, or cottage industries machinery and/or equipment;
 
-(f) To issue bonds and other certificates of indebtedness against its credit secured by real estate but not in excess of ninety per cent (90%) thereof. Said bonds shall be exempt from any and all taxes levied or assessed by the government or any of its subdivisions.1awp++i1 The Board of Directors shall determine the interest rates, maturities and other requirements of the said obligations;
+(f) To issue bonds and other certificates of indebtedness against its credit secured by real estate but not in excess of ninety per cent (90%) thereof. Said bonds shall be exempt from any and all taxes levied or assessed by the government or any of its subdivisions. The Board of Directors shall determine the interest rates, maturities and other requirements of the said obligations;
 
 (g) To issue debentures with the approval of and under conditions and guarantees to be prescribed by the Central Bank; and
 
@@ -94,7 +94,7 @@ _Inspection of the Bank— Supervision and examination by the Central Bank of th
 
 ## Section 13
 
-_Acquisition and Disposal of Real Estate_ -Right to purchase, hold and dispose of real estate.— The Bank is hereby authorized to purchase and own such real estate as may be necessary for the purpose of carrying on its business and incidental to its operation of activities. It is also authorized to hold such real estate as it may find necessary to acquire in the collection of debts due to the said Bank or to its branches, but real estate acquired in the collection of debts shall be sold by said Bank within five years after date of its acquisition.1âшphi1
+_Acquisition and Disposal of Real Estate_ -Right to purchase, hold and dispose of real estate.— The Bank is hereby authorized to purchase and own such real estate as may be necessary for the purpose of carrying on its business and incidental to its operation of activities. It is also authorized to hold such real estate as it may find necessary to acquire in the collection of debts due to the said Bank or to its branches, but real estate acquired in the collection of debts shall be sold by said Bank within five years after date of its acquisition.
 
 ## Section 14
 

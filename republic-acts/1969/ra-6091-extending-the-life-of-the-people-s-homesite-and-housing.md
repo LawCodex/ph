@@ -28,6 +28,6 @@ In order to enable the People's Homesite and Housing Corporation to continue its
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, August 4, 1969.

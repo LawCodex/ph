@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Any provision of law to the contrary notwithstanding, the First Congressional District of the Province of Batangas, is hereby constituted into a separate engineering district to be known as the Western Batangas Highway Engineering District of the Province of Batangas, with principal office at the Municipality of Lemery, same province.1âшphi1
+Any provision of law to the contrary notwithstanding, the First Congressional District of the Province of Batangas, is hereby constituted into a separate engineering district to be known as the Western Batangas Highway Engineering District of the Province of Batangas, with principal office at the Municipality of Lemery, same province.
 
 ## Section 2
 

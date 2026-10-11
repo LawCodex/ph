@@ -21,7 +21,7 @@ retrieved: 2026-10-12
 
 AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF SAPIAN, PROVINCE OF CAPIZ, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE SAPIAN HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

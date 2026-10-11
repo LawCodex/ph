@@ -38,7 +38,7 @@ All the apparatus and appurtenances to be used by the grantee shall be modern, s
 
 ## Section 4
 
-If the grantee shall not commence the construction of her plant within two years from the approval of this Act, unless prevented by an Act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.1avvphi1
+If the grantee shall not commence the construction of her plant within two years from the approval of this Act, unless prevented by an Act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
 
 ## Section 5
 

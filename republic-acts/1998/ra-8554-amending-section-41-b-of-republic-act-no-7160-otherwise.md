@@ -35,7 +35,7 @@ The College, in addition to the present secondary education offered by the exist
 
 ## Section 3
 
-The College shall be under the administration and supervision of the Commission on Higher Education as a CHED supervised Higher Education Institution (CHEI).Ꮮαwρhi৷
+The College shall be under the administration and supervision of the Commission on Higher Education as a CHED supervised Higher Education Institution (CHEI).
 
 ## Section 4
 

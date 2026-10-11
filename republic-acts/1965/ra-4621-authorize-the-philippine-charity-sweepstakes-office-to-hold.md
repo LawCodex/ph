@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Philippine Charity Sweepstakes Office is hereby authorized to hold annually one special sweepstakes horse race, the whole proceeds of which shall, after deducting the payment of the prizes and expenses, be turned over to the Nutrition Foundation of the Philippines, Incorporated, for the support of its projects and programs in nutrition and the maintenance of its technical and administrative staffs including salaries, wages, travelling expenses, per diems, equipment, materials, supplies and all others that are essential to the needs of its services.1âшphi1
+The Philippine Charity Sweepstakes Office is hereby authorized to hold annually one special sweepstakes horse race, the whole proceeds of which shall, after deducting the payment of the prizes and expenses, be turned over to the Nutrition Foundation of the Philippines, Incorporated, for the support of its projects and programs in nutrition and the maintenance of its technical and administrative staffs including salaries, wages, travelling expenses, per diems, equipment, materials, supplies and all others that are essential to the needs of its services.
 
 ## Section 2
 

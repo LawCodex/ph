@@ -18,7 +18,7 @@ retrieved: 2026-10-12
 
 [ REPUBLIC ACT NO. 6369, August 16, 1971 ]
 
-AN ACT CREATING THE MUNICIPALITY OF DAMULOG IN THE PROVINCE OF BUKIDNON.1âшphi1
+AN ACT CREATING THE MUNICIPALITY OF DAMULOG IN THE PROVINCE OF BUKIDNON.
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 

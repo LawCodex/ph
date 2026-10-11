@@ -32,7 +32,7 @@ The Kimanait High School in Barangay Kimanait, Municipality of Pangantucan, Prov
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.1aшphi1
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

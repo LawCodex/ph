@@ -101,7 +101,7 @@ _Equality Clause._ – Any advantage, favor, privilege, exemption, or immunity g
 
 ## Section 18
 
-_Separability Clause._ – If any section or provision of this Act is held invalid, all other provisions not affected thereby shall remain valid.1âwphi1
+_Separability Clause._ – If any section or provision of this Act is held invalid, all other provisions not affected thereby shall remain valid.
 
 ## Section 19
 

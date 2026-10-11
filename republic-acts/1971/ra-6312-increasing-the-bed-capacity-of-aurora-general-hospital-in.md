@@ -28,7 +28,7 @@ The bed capacity of the Aurora General Hospital in the Municipality of Aurora, P
 
 ## Section 2
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, in addition to its existing appropriations, to carry out the provisions of this Act for the fiscal year nineteen hundred and seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, in addition to its existing appropriations, to carry out the provisions of this Act for the fiscal year nineteen hundred and seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

@@ -809,7 +809,7 @@ The city administrator shall take charge of the Office of the City Administrator
 
 ### Section 37
 
-_The City Legal Officer._ – The city legal officer must be a citizen of the Philippines, a resident of the City of Antipolo, of good moral character, and a member of the Philippine Bar. He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.Ꮮαwρhi৷
+_The City Legal Officer._ – The city legal officer must be a citizen of the Philippines, a resident of the City of Antipolo, of good moral character, and a member of the Philippine Bar. He must have practiced his profession for at least five (5) years immediately preceding the date of his appointment.
 
 The city legal officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -1013,7 +1013,7 @@ The city public safety officer shall take charge of the Public Safety Department
 
 (1) Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those relating to public safety which the city mayor is empowered to implement and which the sangguniang panlungsod is empowered to provide; and
 
-(2) Perform such other duties and functions and exercise such other powers as may be prescribed by law or ordinance.Ꮮαwρhi৷
+(2) Perform such other duties and functions and exercise such other powers as may be prescribed by law or ordinance.
 
 ## ARTICLE VIII. THE CITY FIRE STATION SERVICE AND THE CITY JAIL SERVICE
 

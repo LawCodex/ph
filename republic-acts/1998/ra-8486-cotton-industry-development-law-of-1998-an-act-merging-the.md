@@ -25,17 +25,25 @@ AN ACT MERGING THE PHILIPPINE COTTON CORPORATION AND THE COTTON RESEARCH AND DEV
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **_"Cotton Industry Development Law of 1998."_**
+## Section 1
 
-**Section 2._Declaration of principles and policy._** – Consistent with the priority placed by Government on developing the agricultural sector as the cornerstones of the Philippine economy, and cognizant of the potential contribution of cotton-growing to the nation, it is hereby declared a policy of the State to develop the cotton industry in the country to its fullest potential. In this connection, the State shall safeguard the interest of small cotton farmers.
+_Title._ – This Act shall be known as the **_"Cotton Industry Development Law of 1998."_**
+
+## Section 2
+
+_Declaration of principles and policy._ – Consistent with the priority placed by Government on developing the agricultural sector as the cornerstones of the Philippine economy, and cognizant of the potential contribution of cotton-growing to the nation, it is hereby declared a policy of the State to develop the cotton industry in the country to its fullest potential. In this connection, the State shall safeguard the interest of small cotton farmers.
 
 The State shall provide the necessary support to cotton industry development through appropriate services in cotton production, research, extension and training, financial assistance and other support services. It shall prescribe and strictly enforce regulations and quality control standards needed to safeguard cotton-growers.
 
 The State shall fully exploit the industry's potentials to increase the farmers' income, reduce imports of cotton lint and generate foreign exchange revenues.
 
-**Section 3._Merger of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI) into a Cotton Development Administration (CODA)._** – The PCC is hereby merged with the CRDI to form a single entity to be known as the Cotton Development Administration (CODA) to serve as the country's cotton development authority. The CODA shall be an attached agency of the Department of Agriculture.
+## Section 3
 
-**Section 4._Objectives._** – The CODA shall have the following objectives:
+_Merger of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI) into a Cotton Development Administration (CODA)._ – The PCC is hereby merged with the CRDI to form a single entity to be known as the Cotton Development Administration (CODA) to serve as the country's cotton development authority. The CODA shall be an attached agency of the Department of Agriculture.
+
+## Section 4
+
+_Objectives._ – The CODA shall have the following objectives:
 
 a. To improve the quality of life of Filipino farmers through cotton-growing in the areas suitable for the crop;
 
@@ -43,7 +51,9 @@ b. To safeguard the profitability of cotton farmers through their adoption of pr
 
 c. To ensure that cotton is planted only during the times prescribed and only in areas specifically identified as suitable for cotton-growing; and that only properly certified seed is used.
 
-**Section 5._Functions._** – The CODA shall have the following functions:
+## Section 5
+
+_Functions._ – The CODA shall have the following functions:
 
 a. To undertake research studies on all aspects of the industry, including pilot studies, and to ensure strong and effective linkages between research and extension;
 
@@ -77,7 +87,9 @@ o. To develop the export potentials of cotton; and
 
 p. In general, to undertake all other functions as may be necessary to ensure the success of the cotton industry and promote the interests of small cotton growers.
 
-**Section 6._Powers._** – The CODA shall have the following powers:
+## Section 6
+
+_Powers._ – The CODA shall have the following powers:
 
 1\. To administer and regulate the cotton industry in the Philippines;
 
@@ -97,7 +109,9 @@ p. In general, to undertake all other functions as may be necessary to ensure th
 
 9\. To undertake measures to ensure that small farmers receive a fair price for their produce.
 
-**Section 7._The Governing Board of the CODA._** – The CODA shall be governed by a Board, composed as follows:
+## Section 7
+
+_The Governing Board of the CODA._ – The CODA shall be governed by a Board, composed as follows:
 
 a. Secretary of Agriculture, as _ex-officio_ Chairman;
 
@@ -117,27 +131,43 @@ h. One (1) representative from among the ginners appointed by the President of t
 
 i. Three (3) representatives from the cotton farmers associations to be appointed by the President of the Philippines upon the recommendation of their respective confederations in Luzon, Visayas and Mindanao duly accredited by the CODA.
 
-**Section 8._Term of office of the members of the Governing Board._** – Unless sooner removed for cause by their respective associations, appointed members of the Governing Board shall hold office for a period of two (2) years from the date of their appointments.
+## Section 8
 
-**Section 9._Powers and functions of the Board._** – The Governing Board shall act as the policy making body of CODA to formulate policies, promulgate regulations and prescribe rules to attain CODA's purposes and objectives.
+_Term of office of the members of the Governing Board._ – Unless sooner removed for cause by their respective associations, appointed members of the Governing Board shall hold office for a period of two (2) years from the date of their appointments.
 
-**Section 10._Organization._** – An Administrator who shall be appointed by the President of the Philippines, upon the recommendation of the Secretary of Agriculture shall be the Chief Executive Officer of CODA. He shall be assisted by two (2) Deputy Administrators to be appointed by the President upon recommendation of the Secretary of Agriculture.
+## Section 9
+
+_Powers and functions of the Board._ – The Governing Board shall act as the policy making body of CODA to formulate policies, promulgate regulations and prescribe rules to attain CODA's purposes and objectives.
+
+## Section 10
+
+_Organization._ – An Administrator who shall be appointed by the President of the Philippines, upon the recommendation of the Secretary of Agriculture shall be the Chief Executive Officer of CODA. He shall be assisted by two (2) Deputy Administrators to be appointed by the President upon recommendation of the Secretary of Agriculture.
 
 The Board shall determine and create the organizational structure of CODA to achieve its objectives, and shall appoint all other officers of the CODA.
 
-**Section 11._Promulgation of rules and regulations._** – The Governing Board shall promulgate rules and regulations for the full implementation of this Act within ninety (90) days of its effectivity. Such rules and regulations shall take effect upon publication in a newspaper of general circulation and shall be amended by the Governing Board from time to time as it may deem appropriate.
+## Section 11
 
-**Section 12._Prohibited acts._** – The following acts are expressly prohibited:
+_Promulgation of rules and regulations._ – The Governing Board shall promulgate rules and regulations for the full implementation of this Act within ninety (90) days of its effectivity. Such rules and regulations shall take effect upon publication in a newspaper of general circulation and shall be amended by the Governing Board from time to time as it may deem appropriate.
+
+## Section 12
+
+_Prohibited acts._ – The following acts are expressly prohibited:
 
 (a) Planting of cotton at times other than those prescribed by CODA; and
 
 (b) Sale, distribution, and planting of cotton seeds not previously certified by the Bureau of Plant Industry.
 
-**Section 13._Authority to cut and burn._** – For the purpose of safeguarding the interest of other affected farmers and the long-term survival of the industry, the CODA, after thorough investigation and upon observance of due process, shall cut and burn all cotton planted outside the prescribed planting season or with seeds not previously certified by the Bureau of Plant Industry.
+## Section 13
 
-**Section 14._Dissolution of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI)._** – Subject to the provisions of existing laws, the PCC and the CRDI, are hereby dissolved. All functions, assets, liabilities, records, appropriation, properties, facilities and equipment of PCC and the CRDI are hereby transferred to CODA except those under the administration of the APT.
+_Authority to cut and burn._ – For the purpose of safeguarding the interest of other affected farmers and the long-term survival of the industry, the CODA, after thorough investigation and upon observance of due process, shall cut and burn all cotton planted outside the prescribed planting season or with seeds not previously certified by the Bureau of Plant Industry.
 
-**Section 15._Transitory provisions._** – Upon approval of this Act, the officers and employees of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI) shall continue to serve in a hold-over capacity, perform their respective duties and responsibilities, and receive the corresponding salaries and benefits, until a new staffing pattern shall have been approved by the Governing Board.
+## Section 14
+
+_Dissolution of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI)._ – Subject to the provisions of existing laws, the PCC and the CRDI, are hereby dissolved. All functions, assets, liabilities, records, appropriation, properties, facilities and equipment of PCC and the CRDI are hereby transferred to CODA except those under the administration of the APT.
+
+## Section 15
+
+_Transitory provisions._ – Upon approval of this Act, the officers and employees of the Philippine Cotton Corporation (PCC) and the Cotton Research and Development Institute (CRDI) shall continue to serve in a hold-over capacity, perform their respective duties and responsibilities, and receive the corresponding salaries and benefits, until a new staffing pattern shall have been approved by the Governing Board.
 
 The new position structure and staffing pattern of CODA shall be approved and implemented by the Governing Board within one hundred twenty (120) days from the approval of this Act, and the authorized positions created thereunder shall be filled with regular appointments by the Board or by the Administrator, as the case may be. Those incumbents whose positions are not included therein or are not reappointed shall be paid retirement or separation benefits equivalent to one and one-fourth (1¼) month basic salary for every year of their respective government service or the nearest equivalent fraction thereof favorable to them on the basis of the highest salary which they respectively received in the course of their employment in the government: _Provided_ , That in no case shall the benefit to be paid to any official or employee be less than Ten thousand pesos (P10,000.00): _Provided, further,_ That any official or employee who has previously been found guilty in an administrative proceeding and whose rank or salary has been reduced shall be paid on the basis of his last salary.
 
@@ -145,14 +175,24 @@ In addition to the benefits herein authorized, the covered officials and employe
 
 The application for retirement or voluntary separation shall be accepted unless the services of the applicant shall be deemed necessary.
 
-**Section 16._Appropriation._** – There is hereby authorized to be appropriated from the National Treasury not otherwise appropriated, the sums necessary to carry into effect the provisions of this Act: Provided, That thereafter, it shall be included in the General Appropriations Act.
+## Section 16
 
-**Section 17._Separability clause._** – If, for any reason, any Sec. or provision of this Act shall be held unconstitutional, other provisions hereof shall not be affected and shall remain in full force and effect.
+_Appropriation._ – There is hereby authorized to be appropriated from the National Treasury not otherwise appropriated, the sums necessary to carry into effect the provisions of this Act: Provided, That thereafter, it shall be included in the General Appropriations Act.
 
-**Section 18._Suppletory application of existing legislation._** – All existing legislation regarding the cotton industry, not inconsistent with this law shall have suppletory effect.
+## Section 17
 
-**Section 19._Repealing clause._** – All laws, issuances, decrees or parts thereof inconsistent with the provisions of this Act are hereby repealed.
+_Separability clause._ – If, for any reason, any Sec. or provision of this Act shall be held unconstitutional, other provisions hereof shall not be affected and shall remain in full force and effect.
 
-**Section 20._Effectivity clause._** – This Act shall take effect upon its approval.
+## Section 18
+
+_Suppletory application of existing legislation._ – All existing legislation regarding the cotton industry, not inconsistent with this law shall have suppletory effect.
+
+## Section 19
+
+_Repealing clause._ – All laws, issuances, decrees or parts thereof inconsistent with the provisions of this Act are hereby repealed.
+
+## Section 20
+
+_Effectivity clause._ – This Act shall take effect upon its approval.
 
 _Approved:_ **February 11, 1998**

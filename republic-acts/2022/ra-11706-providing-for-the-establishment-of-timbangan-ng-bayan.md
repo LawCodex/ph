@@ -45,7 +45,7 @@ Chapter II, Title III of Republic Act No. 7394, otherwise known as the "_Consume
 
 "These centers must have the necessary instruments for determining weights and measures, which shall be available, free of charge, to all persons who need to confirm the accuracy of the quantity or measurements of products purchased or about to be purchased.
 
-"The marker supervisor shall be in charge of the safekeeping and routine maintenance of the Timbangan ng Bayan instruments and shall be responsible for maintaining a record of every product found to be deficient in quantity or is substandard in dimension, as well as the establishment where the same was bought including the name/s of the proprietor/s or manager/s thereof. A certification duly issued by the marker supervisor or his/her authorized representative reflecting the contents of such record shall be prima facie evidence of a violation of Article 64 of this Act.ℒαwρhi৷
+"The marker supervisor shall be in charge of the safekeeping and routine maintenance of the Timbangan ng Bayan instruments and shall be responsible for maintaining a record of every product found to be deficient in quantity or is substandard in dimension, as well as the establishment where the same was bought including the name/s of the proprietor/s or manager/s thereof. A certification duly issued by the marker supervisor or his/her authorized representative reflecting the contents of such record shall be prima facie evidence of a violation of Article 64 of this Act.
 
 "The prohibited acts provided under Article 64 of this Act shall likewise apply to Timbangan ng Bayan instruments."
 
@@ -79,7 +79,7 @@ Chapter II, Title III of Republic Act No. 7394, otherwise known as the "_Consume
 
 ## Section 2
 
-_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Department of the Interior and Local Government and the Department of Trade and Industry shall, in coordination with the Union of Local Authorities of the Philippines, the League of Provinces of the Philippines, the League of Cities of the Philippines, the League of Municipalities of the Philippines, and other relevant government agencies and stakeholders, promulgate the rules and regulations to effectively implement the provisions of this Act.1aшphi1
+_Implementing Rules and Regulations._ \- Within ninety (90) days from the effectivity of this Act, the Department of the Interior and Local Government and the Department of Trade and Industry shall, in coordination with the Union of Local Authorities of the Philippines, the League of Provinces of the Philippines, the League of Cities of the Philippines, the League of Municipalities of the Philippines, and other relevant government agencies and stakeholders, promulgate the rules and regulations to effectively implement the provisions of this Act.
 
 ## Section 3
 

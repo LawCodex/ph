@@ -38,7 +38,7 @@ The PFDA, in coordination with the local government units concerned, shall formu
 
 ## Section 3
 
-The Secretary of Agriculture shall include in the Department’s programs the construction of said fish ports, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.1âwphi1
+The Secretary of Agriculture shall include in the Department’s programs the construction of said fish ports, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.
 
 ## Section 4
 

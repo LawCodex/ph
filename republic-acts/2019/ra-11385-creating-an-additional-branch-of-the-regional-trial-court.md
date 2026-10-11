@@ -37,7 +37,7 @@ The Supreme Court shall assign the respective branch numbers of the newly create
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of one (1) additional Regional Trial Court branch to be stationed in the Municipality of Bongabong and four (4) additional Municipal Trial Court branches to be stationed in the municipalities of Bansud, Bulalacao, Gloria, and Mansalay, all in the Province of Oriental Mindoro. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.1âшphi1
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of one (1) additional Regional Trial Court branch to be stationed in the Municipality of Bongabong and four (4) additional Municipal Trial Court branches to be stationed in the municipalities of Bansud, Bulalacao, Gloria, and Mansalay, all in the Province of Oriental Mindoro. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
 
 ## Section 3
 

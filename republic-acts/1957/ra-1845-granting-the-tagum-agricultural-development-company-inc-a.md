@@ -44,7 +44,7 @@ The grantee, its successors or assigns, shall so construct and operate its radio
 
 ## Section 6
 
-The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this temporary permit is granted.1âшphi1
+The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this temporary permit is granted.
 
 ## Section 7
 

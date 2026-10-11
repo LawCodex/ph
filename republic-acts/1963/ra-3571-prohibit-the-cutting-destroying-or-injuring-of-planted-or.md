@@ -36,7 +36,7 @@ The Committee shall coordinate with the Director of Parks and Wildlife in the be
 
 ## Section 3
 
-No cutting, destroying or injuring of planted or growing trees, flowering plants and shrubs or plants of scenic value along public roads, in plazas, parks, school premises or in any other public ground shall be permitted save when the cutting, destroying or injuring of same is necessary for public safety, or such pruning of same is necessary to enhance its beauty and only upon the recommendation of the committee mentioned in the preceding section, and upon the approval of the Director of Parks and Wildlife.1âшphi1 The cutting, destroying or pruning shall be under the supervision of the committee.
+No cutting, destroying or injuring of planted or growing trees, flowering plants and shrubs or plants of scenic value along public roads, in plazas, parks, school premises or in any other public ground shall be permitted save when the cutting, destroying or injuring of same is necessary for public safety, or such pruning of same is necessary to enhance its beauty and only upon the recommendation of the committee mentioned in the preceding section, and upon the approval of the Director of Parks and Wildlife. The cutting, destroying or pruning shall be under the supervision of the committee.
 
 ## Section 4
 

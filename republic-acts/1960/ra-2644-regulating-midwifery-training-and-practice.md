@@ -128,7 +128,7 @@ _Registration for Nurse-Midwife._ -Certificate of registration may be issued to 
 
 ### Section 21
 
-_Fees for Examination and Registration._ -Applicants for examination for the practice of midwifery shall pay an examination fee of thirty pesos. Successful applicants shall pay a registration fee of fifteen pesos.£a⩊phi£
+_Fees for Examination and Registration._ -Applicants for examination for the practice of midwifery shall pay an examination fee of thirty pesos. Successful applicants shall pay a registration fee of fifteen pesos.
 
 ### Section 22
 

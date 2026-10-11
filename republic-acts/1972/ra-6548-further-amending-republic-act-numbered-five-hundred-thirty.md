@@ -87,7 +87,7 @@ The same Act, as amended, is further amended by inserting between Articles XIV a
 
 "(d) Funds which may be received as aid from or through the National Government from time to time in support of the hospital or any of its programs or projects:
 
-"(e) All savings, unexpended balances and/or budgetary surpluses of the hospital derived from the sources mentioned in the preceding subparagraphs (a), (b), (c) and (d) of this section which shall, at the end of each fiscal year or after the completion of the specific program or project, accrue to a city general hospital development fund to he used, with the approval of the City Council, for additional operating expenses, including purchase of Equipment, improvement of existing hospital facilities, and obstruction and/or expansion of buildings.1âшphi1
+"(e) All savings, unexpended balances and/or budgetary surpluses of the hospital derived from the sources mentioned in the preceding subparagraphs (a), (b), (c) and (d) of this section which shall, at the end of each fiscal year or after the completion of the specific program or project, accrue to a city general hospital development fund to he used, with the approval of the City Council, for additional operating expenses, including purchase of Equipment, improvement of existing hospital facilities, and obstruction and/or expansion of buildings.
 
 ## Section 65-D
 

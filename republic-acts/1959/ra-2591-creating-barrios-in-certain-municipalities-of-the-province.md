@@ -44,7 +44,7 @@ The sitios of Bacjao, Cansomangcay, Guinmaayohan, Santa Rosa, Guinob-an and Bita
 
 ## Section 6
 
-The sitios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahanand Guinto-inan in the Municipality of Taft, same province, are converted into barrios of said municipality to be known as the barrios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahan and Guinto-inan, respectively.1âшphi1
+The sitios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahanand Guinto-inan in the Municipality of Taft, same province, are converted into barrios of said municipality to be known as the barrios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahan and Guinto-inan, respectively.
 
 ## Section 7
 

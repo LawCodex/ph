@@ -32,7 +32,7 @@ The existing Danawan Nationalized High School in Barangay Danawan, Municipality 
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall promulgate the necessary rules and regulations for the implementation of this Act.1aшphi1
+The Department of Education, Culture and Sports shall promulgate the necessary rules and regulations for the implementation of this Act.
 
 ## Section 3
 

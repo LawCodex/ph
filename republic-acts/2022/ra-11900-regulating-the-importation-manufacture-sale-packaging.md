@@ -142,7 +142,7 @@ It shall not be a defense for the person selling or distributing that he or she 
 
 ## Section 7
 
-_Proof-of-Age Verification._ — Retailers shall ensure that no individual below eighteen (18) years of age is allowed to purchase Vaporized Nicotine and Non-Nicotine Products, their devices, or Novel Tobacco Products. It shall be the responsibility of retailers to verify the age of buyers.1a⍵⍴h!1 For this purpose, the presentation of any valid government-issued identification card exhibiting the buyer's photograph and age or date of birth shall be required. Retailers shall ensure direct delivery only to individuals who must be eighteen (18) years old and above.
+_Proof-of-Age Verification._ — Retailers shall ensure that no individual below eighteen (18) years of age is allowed to purchase Vaporized Nicotine and Non-Nicotine Products, their devices, or Novel Tobacco Products. It shall be the responsibility of retailers to verify the age of buyers. For this purpose, the presentation of any valid government-issued identification card exhibiting the buyer's photograph and age or date of birth shall be required. Retailers shall ensure direct delivery only to individuals who must be eighteen (18) years old and above.
 
 ## Section 8
 
@@ -216,7 +216,7 @@ _Restrictions on Vaporized Nicotine and Non-Nicotine Product or Novel Tobacco Pr
 
 (h) No name, logo, or other indicia of a Vaporized Nicotine and Non-Nicotine Product or Novel Tobacco Product brand may appear on promotional merchandise or element of a brand-related marketing activity that is marketed to or likely to be used by minors such as, but not limited to, sports equipment, toys, dolls, video games, and food. The manufacturer or company must take all available measures to prevent third parties from using the company's brand names, logos, or other proprietary symbol on products that are directed toward minors; and
 
-(i) No Vaporized Nicotine and Non-Nicotine Product or Novel Tobacco Product advertisements may be placed on shopping bags.ℒαwρhi৷
+(i) No Vaporized Nicotine and Non-Nicotine Product or Novel Tobacco Product advertisements may be placed on shopping bags.
 
 ## Section 14
 

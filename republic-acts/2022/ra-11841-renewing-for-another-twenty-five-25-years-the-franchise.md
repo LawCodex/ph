@@ -52,7 +52,7 @@ _Responsibility to the Public._ \- The Grantee shall conform to the ethics of ho
 
 The Grantee shall operate and maintain all its stations, lines, cables, systems, and equipment for the transmission and reception of messages, signals, and pulses in a satisfactory manner at all times, and as far as economical and practicable, modify, improve, or change such stations, lines, cables, systems, and equipment to keep abreast with the advances in science and technology.
 
-The Grantee shall improve and extend its services in areas not yet served, and in hazard- and typhoon-prone areas that shall be determined by the National Disaster Risk Reduction and Management Council, or its legal successor, in coordination with the NTC.ℒαwρhi৷
+The Grantee shall improve and extend its services in areas not yet served, and in hazard- and typhoon-prone areas that shall be determined by the National Disaster Risk Reduction and Management Council, or its legal successor, in coordination with the NTC.
 
 The Grantee shall also improve and upgrade its equipment, facilities and services, in order to ensure effective compliance with the objectives of Republic Act No. 10639 or "The Free Mobile Disaster Alerts Act."
 
@@ -92,9 +92,9 @@ _Dispersal of Ownership._ \- In accordance with the constitutional provision to 
 
 ## Section 14
 
-_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and accept on-the-job trainees in the franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.ℒαwρhi৷
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and accept on-the-job trainees in the franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.
 
-The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission (SEC) annually.7!ᕼdMᗄ7
+The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission (SEC) annually.
 
 ## Section 15
 

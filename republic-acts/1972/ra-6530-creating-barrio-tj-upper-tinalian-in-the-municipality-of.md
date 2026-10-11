@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitio of Cabatangan in the Municipality of Abuyog, Province of Leyte, is hereby converted into a barrio to be known as Barrio TJ Upper Tinalian.1âшphi1
+The sitio of Cabatangan in the Municipality of Abuyog, Province of Leyte, is hereby converted into a barrio to be known as Barrio TJ Upper Tinalian.
 
 The proposed barrio shall be bounded as follows:
 

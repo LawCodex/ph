@@ -52,7 +52,7 @@ _Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) y
 
 ## Section 7
 
-_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing within sixty (60) days after approval of this Act.1aшphi1 The grantee shall construct, complete and operate a television or radio station within two (2) years from the date of its acceptance in writing of this franchise. Refusal or failure to accept the franchise or to operate within the prescribed period shall render the franchise void.
+_Acceptance and Compliance._ \- Acceptance of this franchise shall be given in writing within sixty (60) days after approval of this Act. The grantee shall construct, complete and operate a television or radio station within two (2) years from the date of its acceptance in writing of this franchise. Refusal or failure to accept the franchise or to operate within the prescribed period shall render the franchise void.
 
 ## Section 8
 

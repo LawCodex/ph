@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Araibo High School Annex of Barangay Araibo, Municipality of Pantukan, Compostela Valley Province shall be converted into and known as the Araibo National High School under the supervision of the Department of Education, Culture and Sports (DECS).ℒαwρhi৷
+The Araibo High School Annex of Barangay Araibo, Municipality of Pantukan, Compostela Valley Province shall be converted into and known as the Araibo National High School under the supervision of the Department of Education, Culture and Sports (DECS).
 
 ## Section 2
 

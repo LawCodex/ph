@@ -37,7 +37,7 @@ The sum of four hundred eleven thousand five hundred fifty-seven pesos and twelv
 <td>200,000.00</td>
 </tr>
 <tr>
-<td>3. For the purchase of furniture and Equipment</td><cite>1a⍵⍴h!1</cite>
+<td>3. For the purchase of furniture and Equipment</td>
 <td>1,000.00</td>
 </tr>
 <tr>

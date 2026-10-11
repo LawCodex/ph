@@ -20,7 +20,7 @@ retrieved: 2026-10-12
 
 AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF CAGAYAN DE TAWI-TAWI IN THE PROVINCE OF TAWI-TAWI TO MUNICIPALITY OF MAPUN
 
-Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled:1âшphi1
+Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled:
 
 ## Section 1
 

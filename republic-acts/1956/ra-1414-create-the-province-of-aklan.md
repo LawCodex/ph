@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Province of Aklan is hereby created to consist of the municipalities of Altavas, Balete, Batan, Banga, Buruanga, Ibajay, Kalibo, Lezo, Libacao, Madalag, Malay, Makato, Malinao, Nabas, New Washington, Numancia, and Tangalan, heretofore, being and forming a part of the present Province of Kalibo.1âшphi1
+The Province of Aklan is hereby created to consist of the municipalities of Altavas, Balete, Batan, Banga, Buruanga, Ibajay, Kalibo, Lezo, Libacao, Madalag, Malay, Makato, Malinao, Nabas, New Washington, Numancia, and Tangalan, heretofore, being and forming a part of the present Province of Kalibo.
 
 ## Section 2
 
@@ -32,7 +32,7 @@ The Capital of the Province of Aklan shall be the Municipality of Kalibo.
 
 ## Section 3
 
-Except as hereinafter provided, all provisions of law now or hereafter applicable to the regular provinces shall be applicable to the Province of Aklan.1avvphi1 The said Province of Aklan shall be within the jurisdiction of the Eleventh Judicial District.
+Except as hereinafter provided, all provisions of law now or hereafter applicable to the regular provinces shall be applicable to the Province of Aklan. The said Province of Aklan shall be within the jurisdiction of the Eleventh Judicial District.
 
 ## Section 4
 

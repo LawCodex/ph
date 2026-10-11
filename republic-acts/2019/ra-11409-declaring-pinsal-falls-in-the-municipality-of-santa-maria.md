@@ -96,7 +96,7 @@ Within one (1) year after the approval of this Act, the DOT, in coordination wit
 
 ## Section 4
 
-The DOT and its concerned attached agencies shall take immediate steps to implement the tourism development plan that will suit the natural characteristics of Pinsal Falls, and shall incorporate the same in its tourism development program for the ensuing calendar year.1âшphi1 It shall also include Pinsal Falls in all its national, regional and local promotion programs.
+The DOT and its concerned attached agencies shall take immediate steps to implement the tourism development plan that will suit the natural characteristics of Pinsal Falls, and shall incorporate the same in its tourism development program for the ensuing calendar year. It shall also include Pinsal Falls in all its national, regional and local promotion programs.
 
 ## Section 5
 

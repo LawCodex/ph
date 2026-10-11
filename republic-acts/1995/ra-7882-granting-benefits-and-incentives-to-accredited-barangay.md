@@ -64,7 +64,7 @@ c. _Training, Education and Career Enrichment Programs_ \- the DOH, in accordanc
 
 3\. scholarship benefits in the form of tuition fees in state colleges, to be granted to one child of every barangay health worker who will not be able to take advantage of the above programs; and
 
-4\. special training programs such as those on traditional medicine, disaster preparedness and other programs that address emergent community health problems and issues.1aшphi1
+4\. special training programs such as those on traditional medicine, disaster preparedness and other programs that address emergent community health problems and issues.
 
 d. _Civil Service Eligibility._ -A second grade eligibility shall be granted to barangay health workers who have rendered five (5) years continuous service as such: _Provided,_ That should the barangay health worker become a regular employee of the government, the total number of years served as barangay health worker shall be credited to his/her service in computing retirement benefits.
 

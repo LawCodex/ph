@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of San Antonio in the Municipality of Puerto Galera, Province of Oriental Mindoro, is converted into a barrio of said municipality to be known as the barrio of San Antonio.1âшphi1
+The sitio of San Antonio in the Municipality of Puerto Galera, Province of Oriental Mindoro, is converted into a barrio of said municipality to be known as the barrio of San Antonio.
 
 ## Section 2
 

@@ -845,7 +845,7 @@ d. Be in the frontline of the delivery of basic agricultural services, particula
 
 e. Recommend to the sangguniang panlungsod and advise the city mayor on all other matters related to agriculture and aquaculture which will improve the livelihood and living conditions of the inhabitants; and
 
-f. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.Ꮮαwρhi৷
+f. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 40
 
@@ -985,7 +985,7 @@ c. The city population officer shall take charge of the population department, a
 
 2\. Develop plans and strategies, and upon approval thereof by the city mayor, implement the same, particularly those which have to do with the integration of population development principles and methods in programs and projects which the city mayor is empowered to implement and which the sangguniang panlungsod is empowered to provide; and
 
-3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.Ꮮαwρhi৷
+3\. Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
 ### Section 48
 

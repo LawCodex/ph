@@ -32,7 +32,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 _Declaration of State Policy._ – Consistent with Section 13, Article II of the Philippine Constitution, the State recognize the vital role of the youth in nation-building and promotes and protects their physical, moral, spiritual, intellectual, and social well-being. In the pursuit of this policy, the State shall abolish all traditional and cultural practices and structures that perpetuate discrimination, abuse and exploitation of children such as the practice of child marriage.
 
-Further, the State recognizes the role of women in nation-building and shall therefore protect and promote their empowerment.ℒαwρhi৷ This entails the abolition of the unequal structures and practices the perpetuate discrimination and inequality.
+Further, the State recognizes the role of women in nation-building and shall therefore protect and promote their empowerment. This entails the abolition of the unequal structures and practices the perpetuate discrimination and inequality.
 
 The State affirms the human rights of children consistent with its obligations under (1) international conventions to which the Philippines is a State Party, including the (a) Universal Declaration of Human Rights; (b) Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages; (c) UN Convention on the Rights of the Child; (d) Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW); (e) Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography; and (f) Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children; and (2) domestic laws like Republic Act No. 7610, otherwise known as the “Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act.”
 
@@ -78,7 +78,7 @@ _Legal Effect of a Child Marriage._ – Child marriage is void ab initio, and th
 
 ## Section 7
 
-_Enabling Social Environment._ – To reinforce the prohibition and criminalization of child marriage, the government shall create an enabling social environment where the practice of child marriage shall not thrive, and for such purpose, the following policies shall be implemented, particularly for girls: (a) empowerment of children through the provision of information, skills and support networks; (b) enhancement of children’s access to and completion of quality education; (c) provision of economic support and incentives to children and their families; and (d) application of strategic interventions to influence and empower parents and community leaders to discourage and eradicate the practice of child marriage.ℒαwρhi৷
+_Enabling Social Environment._ – To reinforce the prohibition and criminalization of child marriage, the government shall create an enabling social environment where the practice of child marriage shall not thrive, and for such purpose, the following policies shall be implemented, particularly for girls: (a) empowerment of children through the provision of information, skills and support networks; (b) enhancement of children’s access to and completion of quality education; (c) provision of economic support and incentives to children and their families; and (d) application of strategic interventions to influence and empower parents and community leaders to discourage and eradicate the practice of child marriage.
 
 Culturally-appropriate and comprehensive programs and services shall be formulated by the Department of Social Welfare and Development (DSWD) in coordination with the government agencies identified in Section 8 of this Act as duty bearers and with concerned civil society organizations (CSOs) and nongovernment organizations (NGOs). This shall be made and initiated by the DSWD within six (6) months from the effectivity of this Act.
 
@@ -114,7 +114,7 @@ _Participation of Women, Girls, Youth Organizations, and Civil Society Organizat
 
 ## Section 10
 
-_Implementing Rules and Regulations._ – Within sixty (60) days from the effectivity of this Act, the DSWD as lead agency shall, in coordination with the DOH, the DepEd, the CWC, the NCMF, the NCIP, and one (1) representative each from CSOs representing women, children, Muslim Filipinos, and indigenous cultural communities/indigenous peoples, and in consultation with other concerned government agencies and stakeholders, promulgate rules and regulations to implement this Act.ℒαwρhi৷
+_Implementing Rules and Regulations._ – Within sixty (60) days from the effectivity of this Act, the DSWD as lead agency shall, in coordination with the DOH, the DepEd, the CWC, the NCMF, the NCIP, and one (1) representative each from CSOs representing women, children, Muslim Filipinos, and indigenous cultural communities/indigenous peoples, and in consultation with other concerned government agencies and stakeholders, promulgate rules and regulations to implement this Act.
 
 ## Section 11
 

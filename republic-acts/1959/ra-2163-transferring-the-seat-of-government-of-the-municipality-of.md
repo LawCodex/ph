@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The seat of government of the Municipality of Hagonoy, Province of Davao, is hereby transferred to the site of the barrio of Pawa.1aшphi1
+The seat of government of the Municipality of Hagonoy, Province of Davao, is hereby transferred to the site of the barrio of Pawa.
 
 ## Section 2
 

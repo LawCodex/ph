@@ -43,7 +43,7 @@ Section 450 of the Republic Act No. 7160, otherwise known as the Local Governmen
 
 "A municipality or a cluster of barangays with a locally generated average annual income, as certified by the Department of Finance, of at least Four hundred million pesos (P400,000,000.00) for the last two (2) consecutive years based on 2012 constant prices may also be converted into a component city if it has either a population of not less than one by the PSA or a contiguous territory of at least one hundred (100) square kilometers, as certified by the Land Management Bureau; _Provided,_ That three (3) years after the effectivity of this Act and every three (3) years thereafter, the threshold amount of Four hundred million pesos (P400,000,000.00) shall be increased by five percent (5%).
 
-"(b) The territorial jurisdiction of a newly-created city shall be properly identified by metes and bounds.ℒαwρhi৷ The requirement on land area shall not apply where the city proposed to be created is composed of one (1) or more islands. The territory need not be contiguous if it comprises two (2) or more islands.
+"(b) The territorial jurisdiction of a newly-created city shall be properly identified by metes and bounds. The requirement on land area shall not apply where the city proposed to be created is composed of one (1) or more islands. The territory need not be contiguous if it comprises two (2) or more islands.
 
 "(c) The average annual income shall include the income accruing to the general fund, exclusive of specific funds, transfers, and non-recurring income.
 

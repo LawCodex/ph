@@ -51,7 +51,7 @@ All personnel, assets, liabilities and records of the Batanes National High Scho
 
 ## Section 7
 
-The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Batanes National High School.ℒαwρhi৷ Thereafter, such sums as may be necessary for the operation and maintenance of the Batanes National Science High School shall be included in the General Appropriations Act.
+The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Batanes National High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Batanes National Science High School shall be included in the General Appropriations Act.
 
 ## Section 8
 

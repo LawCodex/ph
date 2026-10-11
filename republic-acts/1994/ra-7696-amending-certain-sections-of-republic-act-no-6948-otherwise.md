@@ -59,7 +59,7 @@ Section 5, _Title_ II of Republic Act No. 6948 is hereby amended to read as foll
 
 Section 9 of Republic Act No. 6948 is hereby repealed and Section 10 of Republic Act No. 6948 is hereby amended to read as follows:
 
-"Section 10. _Eligibility._ — A veteran as defined in Section 2(a) of this Act who is at least sixty-five (65) years old shall be paid an old-age pension of One thousand pesos (₱1,000.00) monthly for life, unless he is actually receiving a similar pension for the same consideration from other government funds or from the United Sates Government: _Provided,_ That in the succeeding years starting January, 1995, said One thousand pesos (₱1,000.00) monthly old-age pension shall be increased annually by not less than Five hundred pesos (1a⍵⍴h!1P500.00) per month until total old-age pension shall be at least Five thousand pesos (₱5,000.00) per month."
+"Section 10. _Eligibility._ — A veteran as defined in Section 2(a) of this Act who is at least sixty-five (65) years old shall be paid an old-age pension of One thousand pesos (₱1,000.00) monthly for life, unless he is actually receiving a similar pension for the same consideration from other government funds or from the United Sates Government: _Provided,_ That in the succeeding years starting January, 1995, said One thousand pesos (₱1,000.00) monthly old-age pension shall be increased annually by not less than Five hundred pesos (P500.00) per month until total old-age pension shall be at least Five thousand pesos (₱5,000.00) per month."
 
 ## Section 4
 
@@ -97,7 +97,7 @@ _Additional Benefits from Local Governments._ — Notwithstanding any existing l
 
 ## Section 10
 
-_Funding._ — Funds for the purpose of this Act shall be included in the annual general appropriations of the Department of National Defense and such funds required for the initial implementation of benefits adjusted or upgraded under this Act shall be taken from the available savings and funds of the National Government.1a⍵⍴h!1
+_Funding._ — Funds for the purpose of this Act shall be included in the annual general appropriations of the Department of National Defense and such funds required for the initial implementation of benefits adjusted or upgraded under this Act shall be taken from the available savings and funds of the National Government.
 
 ## Section 11
 

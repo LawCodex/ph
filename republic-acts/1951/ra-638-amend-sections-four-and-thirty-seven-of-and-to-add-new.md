@@ -67,7 +67,7 @@ The following new section is hereby added to Republic Act Numbered One hundred a
 
 "Whenever application is made for the registration of a trade-mark, trade-name, or service-mark which so resembles a mark or trade-name previously registered by another, or for the registration of which another had previously made application, as to be likely when applied to the goods or when used in connection with the business or services of the applicant to cause confusion or mistake or to deceive purchasers, the director may declare that an interference exists.
 
-"Upon the declaration of interference the director shall give notice to all parties and shall set the case for hearing to determine and decide the respective rights of registration.1a⍵⍴h!1
+"Upon the declaration of interference the director shall give notice to all parties and shall set the case for hearing to determine and decide the respective rights of registration.
 
 "In an interference proceeding the director may refuse to register any or all of several interfering marks or trade-names, or may register the mark or marks or trade-name or trade-names for the person or persons entitled thereto, as the rights of the parties may be established in the proceedings."
 

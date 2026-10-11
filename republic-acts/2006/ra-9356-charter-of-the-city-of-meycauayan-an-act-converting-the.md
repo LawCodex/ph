@@ -30,13 +30,19 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## ARTICLE I — GENERAL PROVISIONS
 
-**SECTION 1._Title._** \- This Act shall be known as the **"Charter of the City of Meycauayan."**
+### SECTION 1
 
-**SEC. 2._The City of Meycauayan._** \- The Municipality of Meycauayan shall be converted into a component city to be known as the City of Meycauayan, hereinafter referred to as the City, which shall comprise the present jurisdiction of the Municipality of Meycauayan, Province of Bulacan, over which it has jurisdiction, bounded on the southeast by the City of Caloocan, the Municipality of Valenzuela and Malinta Estate; on the southwest, by the Municipality of Obando; on the northwest, by the Municipality of Bulacan; and on the north, by the municipalities of Bocaue and Marilao, all in the Province of Bulacan.
+_Title._ \- This Act shall be known as the **"Charter of the City of Meycauayan."**
+
+### SEC. 2
+
+_The City of Meycauayan._ \- The Municipality of Meycauayan shall be converted into a component city to be known as the City of Meycauayan, hereinafter referred to as the City, which shall comprise the present jurisdiction of the Municipality of Meycauayan, Province of Bulacan, over which it has jurisdiction, bounded on the southeast by the City of Caloocan, the Municipality of Valenzuela and Malinta Estate; on the southwest, by the Municipality of Obando; on the northwest, by the Municipality of Bulacan; and on the north, by the municipalities of Bocaue and Marilao, all in the Province of Bulacan.
 
 The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of existing boundary disputes or cases involving questions of territorial jurisdiction between the City of Meycauayan and the adjoining local government units: Provided, however, That the territorial jurisdiction of the disputed area or areas shall remain with the local government unit which has existing administrative supervision over said area or areas until the final resolution of the case.
 
-**SEC. 3._Corporate Powers of the City._** \- The City constitutes a political body corporate and as such is endowed with the attributes of perpetual succession and possessed of the powers which pertain to a municipal corporation to be exercised in conformity with the provision of this Charter. The City shall have the following corporate powers:
+### SEC. 3
+
+_Corporate Powers of the City._ \- The City constitutes a political body corporate and as such is endowed with the attributes of perpetual succession and possessed of the powers which pertain to a municipal corporation to be exercised in conformity with the provision of this Charter. The City shall have the following corporate powers:
 
 (a) To have a continuous succession in its corporate name;
 
@@ -50,17 +56,25 @@ The foregoing provision shall be without prejudice to the resolution by the appr
 
 (f) To exercise such other powers, prerogatives or authority subject to the limitations provided in this Act or laws.
 
-**SEC. 4._General Powers._** \- The City shall have a common seal and may alter the same at pleasure. It sha.11 exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interests of the City; to expropriate or condemn private property for public use; to contract and be contracted with; to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the City is involved or interested in and to exercise all the powers as are granted to corporations or as hereinafter conferred.
+### SEC. 4
 
-**SEC. 5._Liability for Damages._** \- The City and its officials shall not be exempt from liability for death or injury to persons or damage to property.
+_General Powers._ \- The City shall have a common seal and may alter the same at pleasure. It sha.11 exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interests of the City; to expropriate or condemn private property for public use; to contract and be contracted with; to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the City is involved or interested in and to exercise all the powers as are granted to corporations or as hereinafter conferred.
 
-**SEC. 6._Jurisdiction of the City._** \- The jurisdiction of the City of Meycauayan, for police purposes only, shall be coextensive with its territorial jurisdiction and for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service.
+### SEC. 5
+
+_Liability for Damages._ \- The City and its officials shall not be exempt from liability for death or injury to persons or damage to property.
+
+### SEC. 6
+
+_Jurisdiction of the City._ \- The jurisdiction of the City of Meycauayan, for police purposes only, shall be coextensive with its territorial jurisdiction and for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service.
 
 The city court of the City of Meycauayan shall have concurrent jurisdiction with the city or municipal court of the adjoining municipalities or cities to try crimes and misdemeanors committed within said drainage area or within said spaces of One hundred meters (100 m.). The court first taking cognizance of such an offense shall have jurisdiction to try said cases to the exclusion of the other courts. The police force of several municipalities and cities concerned shall have concurrent jurisdiction with the police of the City for the maintenance of good order and the enforcement of ordinances throughout said zone, area or spaces shall be granted by the proper authorities of the city or municipality concerned, and the fees arising therefrom shall accrue to the treasury of the said city or municipality concerned and not to the City.
 
 ## ARTICLE II — CITY OFFICIALS IN GENERAL
 
-**SEC. 7._The Officials of the City of Meycauayan._** \- (a) There shall be in the City of Meycauayan a city mayor, a city vice mayor, sangguniang panlungsod members, a secretary to the sangguniang panlungsod, a city treasurer and an assistant city treasurer, a city assessor and an assistant city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city social welfare and development officer, a city veterinarian and a city general services officer;
+### SEC. 7
+
+_The Officials of the City of Meycauayan._ \- (a) There shall be in the City of Meycauayan a city mayor, a city vice mayor, sangguniang panlungsod members, a secretary to the sangguniang panlungsod, a city treasurer and an assistant city treasurer, a city assessor and an assistant city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city social welfare and development officer, a city veterinarian and a city general services officer;
 
 (b) In addition thereto, the city mayor may appoint an environment and natural resources officer, a city architect, a city information officer, a city cooperatives officer, a city population officer and a city agriculturist;
 
@@ -78,7 +92,9 @@ The city court of the City of Meycauayan shall have concurrent jurisdiction with
 
 ## ARTICLE III — THE CITY MAYOR AND VICE MAYOR
 
-**SEC. 8._The City Mayor._** \- The city mayor shall be the chief execu6ve of the City. He shall be elected at large by the qualified voters of the City. No person shall be eligible for the position of city mayor unless at the time of the election: he is at least twenty-three (23) years of age; an actual resident of the City for at least one year prior to his election; and a qualified voter therein. He shall hold office for three years, unless sooner removed, and shall receive a minimum monthly compensation corresponding to salary grade thirty (30) as prescribed under Republic Act No. 6758, otherwise known as the Salary Standardization Law, and the implementing guidelines issued pursuant thereto.
+### SEC. 8
+
+_The City Mayor._ \- The city mayor shall be the chief execu6ve of the City. He shall be elected at large by the qualified voters of the City. No person shall be eligible for the position of city mayor unless at the time of the election: he is at least twenty-three (23) years of age; an actual resident of the City for at least one year prior to his election; and a qualified voter therein. He shall hold office for three years, unless sooner removed, and shall receive a minimum monthly compensation corresponding to salary grade thirty (30) as prescribed under Republic Act No. 6758, otherwise known as the Salary Standardization Law, and the implementing guidelines issued pursuant thereto.
 
 The city mayor, as the chief executive of the city government, shall exercise such powers and perform such duties and functions as provided herein:
 
@@ -166,7 +182,9 @@ The city mayor, as the chief executive of the city government, shall exercise su
 
 (e) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 9._The City Vice Mayor._** \- There shall be a city vice mayor who shall be elected in the same manner as the city mayor and shall, at the time of his election, possess the same qualifications as the city mayor. He shall hold office for three years, unless sooner removed and shall receive a monthly compensation corresponding to salary grade twenty-six (26) as prescribed under the Salary Standardization Law and the implementing guidelines issued pursuant thereto.
+### SEC. 9
+
+_The City Vice Mayor._ \- There shall be a city vice mayor who shall be elected in the same manner as the city mayor and shall, at the time of his election, possess the same qualifications as the city mayor. He shall hold office for three years, unless sooner removed and shall receive a monthly compensation corresponding to salary grade twenty-six (26) as prescribed under the Salary Standardization Law and the implementing guidelines issued pursuant thereto.
 
 The city vice mayor shall:
 
@@ -182,13 +200,17 @@ The city vice mayor shall:
 
 ## ARTICLE IV — THE SANGGUNIANG PANLUNGSOD
 
-**SEC. 10._Composition._** \- (a) The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan and the sectoral representatives, as members.
+### SEC. 10
+
+_Composition._ \- (a) The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan and the sectoral representatives, as members.
 
 (b) In addition thereto, there shall be three sectoral representatives: one from the women; and, as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections, 0118 from the agricultural or industrial workers; and one from the other sectors, including the urban poor or disabled persons.
 
 (c) The regular members of the sangguniang pan1ungsod and the sectoral representatives shall be elected in the manner as may be provided for by 1aw.
 
-**SEC. 11._Powers, Duties, Functions and Compensation._** \- (a) The sangguniang panlungsod, as the legislative body of the City, shall enact ordinances, approve resolutions and appropriate funds for the general welfare of the City and its inhabitants pursuant to Section 16 of the Local Government Code and in the proper exercise of the corporate powers of the City as provided for under Section 22 of the Local Government Code, arid shall:
+### SEC. 11
+
+_Powers, Duties, Functions and Compensation._ \- (a) The sangguniang panlungsod, as the legislative body of the City, shall enact ordinances, approve resolutions and appropriate funds for the general welfare of the City and its inhabitants pursuant to Section 16 of the Local Government Code and in the proper exercise of the corporate powers of the City as provided for under Section 22 of the Local Government Code, arid shall:
 
 (1) Approve ordinances and pass resolutions necessary for an efficient and effective city government, and in this connection, shall:
 
@@ -332,7 +354,9 @@ Once approved, the contract covering the loans or other forms of indebtedness sh
 
 ## ARTICLE V — PROCESS OF LEGISLATION
 
-**SEC. 12._Internal Rules of Procedure._** \- (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.
+### SEC. 12
+
+_Internal Rules of Procedure._ \- (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the sangguniang panlungsod shall adopt or update its existing rules of procedure.
 
 (b) The rules of procedure shall provide for the following:
 
@@ -348,7 +372,9 @@ Once approved, the contract covering the loans or other forms of indebtedness sh
 
 (6) Such other rules as the sanggunian may adopt.
 
-**SEC. 13._Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members._** \- (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
+### SEC. 13
+
+_Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members._ \- (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
 
 (1) Ownership of stock or capital, or investment in the entity or firm to which the ordinance or resolution may apply; and
 
@@ -362,7 +388,9 @@ In the absence of a specific constitutional or statutory provision applicable to
 
 (2) Disclosure shall be made when a member takes a position or makes a privilege speech on a matter that may affect the business interest, financial connection or professional relationship described herein.
 
-**SEC. 14._Sessions._** \- (a) On the first day of the session immediately following the election of its members, the sangguniang panlungsod shall, by resolution, fix the day, time and place of its sessions. The minimum number of regular sessions shall be once a week for the sangguniang panlungsod.
+### SEC. 14
+
+_Sessions._ \- (a) On the first day of the session immediately following the election of its members, the sangguniang panlungsod shall, by resolution, fix the day, time and place of its sessions. The minimum number of regular sessions shall be once a week for the sangguniang panlungsod.
 
 (b) When the public interest so demands, special sessions may be called by the city mayor or by a majority of the members of the sanggunian.
 
@@ -374,17 +402,23 @@ Unless concurred in by two-thirds (2/3) vote of the sanggunian members present, 
 
 (e) The sangguniang panlungsod shall keep a journal and a record of its proceedings which may be published upon resolution of the majority of its members.
 
-**SEC. 15._Quorum._** \- (a) A majority of all the members of the sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
+### SEC. 15
+
+_Quorum._ \- (a) A majority of all the members of the sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
 
 (b) Where there is no quorum, the presiding officer may declare a recess until such time a quorum is constituted, or a majority of the members present may adjourn from day to day and may compel the immediate attendance of any member absent without justifiable cause by designating a member of the sanggunian, to be assisted by a member or members of the police force assigned in the territorial jurisdiction of the City of Meycauayan, to arrest the absent member and present him at the session.
 
 (c) If there is still no quorum despite the enforcement of the immediately preceding subsection, no business shall be transacted. The presiding officer, upon proper motion duly approved by the members present, shall then declare the session adjourned for lack of quorum.
 
-**SEC. 16._Approval of Ordinances._** \- (a) Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor. If the city mayor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+### SEC. 16
+
+_Approval of Ordinances._ \- (a) Every ordinance enacted by the sangguniang panlungsod shall be presented to the city mayor. If the city mayor approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the sanggunian, which may proceed to reconsider the same. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
 (b) The veto shall be communicated by the city mayor to the sanggunian within ten (10) days; otherwise, the ordinance shall be deemed approved as if he had signed it.
 
-**SEC. 17._Veto Power of the City Mayor._** \- (a) The city mayor may veto any ordinance of the sangguniang panlungsod on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons thereof in writing.
+### SEC. 17
+
+_Veto Power of the City Mayor._ \- (a) The city mayor may veto any ordinance of the sangguniang panlungsod on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons thereof in writing.
 
 (b) The city mayor shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan, any public investment program, or an ordinance directing the payment of money or creating liability. In such case, the veto shall not affect the item or items which are not objected to.
 
@@ -392,7 +426,9 @@ The vetoed item or items shall not take effect unless the sangguniang panlungsod
 
 (c) The city mayor may veto an ordinance or resolution only once. The sanggunian may override the veto of the city mayor by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the city mayor.
 
-**SEC. 18._Review of City Ordinances by the Sangguniang Panlalawigan._** \- (a) Within three days after approval, the secretary to the sangguniang panlungsod shall forward to the sangguniang panlalawigan for review, copies of approved ordinances and the resolutions approving the local development plans and public investment programs formulated by the local development councils.
+### SEC. 18
+
+_Review of City Ordinances by the Sangguniang Panlalawigan._ \- (a) Within three days after approval, the secretary to the sangguniang panlungsod shall forward to the sangguniang panlalawigan for review, copies of approved ordinances and the resolutions approving the local development plans and public investment programs formulated by the local development councils.
 
 (b) Within thirty (30) days after receipt of copies of such ordinances and resolutions, the sangguniang panlalawigan shall examine the documents or transmit them to the provincial attorney or the provincial prosecutor for prompt examination. The provincial attorney or the provincial prosecutor shall, within a period of ten (10) days from receipt of the documents, inform the sangguniang panlalawigan in writing of his comments or recommendations, which may be considered by the sangguniang panlalawigan in making its decision.
 
@@ -400,15 +436,21 @@ The vetoed item or items shall not take effect unless the sangguniang panlungsod
 
 (d) If no action has been taken by the sangguniang panlalawigan within thirty (30) days after submission of such an ordinance or resolution, the same shall be presumed consistent with law and therefore valid.
 
-**SEC. 19._Review of Barangay Ordinances by the Sangguniang Panlungsod._** \- (a) Within ten (10) days after its enactment, the sangguniang barangay shall furnish copies of all barangay ordinances to the sangguniang panlungsod for review as to whether the ordinance is consistent with law and city ordinances.
+### SEC. 19
+
+_Review of Barangay Ordinances by the Sangguniang Panlungsod._ \- (a) Within ten (10) days after its enactment, the sangguniang barangay shall furnish copies of all barangay ordinances to the sangguniang panlungsod for review as to whether the ordinance is consistent with law and city ordinances.
 
 (b) If the sangguniang panlungsod fails to take action on barangay ordinances within thirty (30) days from receipt thereof, the same shall be deemed approved.
 
 (c) If the sangguniang panlungsod finds the barangay ordinances inconsistent with law or city ordinances, the sangguniang panlungsod shall, within thirty (30) days from receipt thereof, return the same with its comments and recommendations to the sangguniang barangay c8ncerned for adjustment, amendment or modification; in which case, the effectivity of the barangay ordinance is suspended until such time as the revision called for is effected.
 
-**SEC. 20._Enforcement of Disapproved Ordinances or Resolutions._** \- Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program after the disapproval thereof shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
+### SEC. 20
 
-**SEC. 21._Effectivity of Ordinances or Resolutions._** \- (a) Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted in a bulletin board at the entrance of the City Hall of Meycauayan, and in at least two other conspicuous places in the City of Meycauayan not later than five days after approval thereof.
+_Enforcement of Disapproved Ordinances or Resolutions._ \- Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program after the disapproval thereof shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
+
+### SEC. 21
+
+_Effectivity of Ordinances or Resolutions._ \- (a) Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted in a bulletin board at the entrance of the City Hall of Meycauayan, and in at least two other conspicuous places in the City of Meycauayan not later than five days after approval thereof.
 
 (b) The secretary to the sangguniang panlungsod shall cause the posting of an ordinance or resolution in the bulletin board at the entrance of the city hall in at least two conspicuous places not later than five days after approval thereof.
 
@@ -418,7 +460,9 @@ The text of the ordinance or resolution shall be disseminated and posted in Fili
 
 ## ARTICLE VI — DISQUALIFICATION AND SUCCESSION OF ELECTIVE CITY OFFICIALS
 
-**SEC. 22._Disqualifications of Elective Public City Officials._** \- The following persons are disqualified from running for any elective position in the City:
+### SEC. 22
+
+_Disqualifications of Elective Public City Officials._ \- The following persons are disqualified from running for any elective position in the City:
 
 (a) Those sentenced by final judgment for an offense involving moral turpitude or an offense punishable by one year or more of imprisonment within five years after serving sentence;
 
@@ -434,7 +478,9 @@ The text of the ordinance or resolution shall be disseminated and posted in Fili
 
 (g) The insane or feeble-minded.
 
-**SEC. 23._Permanent Vacancy in the Offices of the City Mayor and City Vice Mayor._** \- (a) If a permanent vacancy occurs in the office of the city mayor, the city vice mayor concerned shall become the city mayor. If a permanent vacancy occurs in the office of the city vice mayor, the highest ranking sangguniang panlungsod member or, in case of his permanent incapacity, the second highest ranking sangguniang panlungsod member shall become the city vice mayor. If permanent vacancies occur in both the offices of the city mayor and the city vice mayor, the first and second highest ranking sangguniang panlungsod members, or in care of permanent incapacity of one or both of them, the next highest ranking sangguniang panlungsod member or members shall become the city mayor and city vice mayor, respectively. Subsequent vacancies in said offices shall be filled automatically by the other sanggunian members according to their ranking as defined herein.
+### SEC. 23
+
+_Permanent Vacancy in the Offices of the City Mayor and City Vice Mayor._ \- (a) If a permanent vacancy occurs in the office of the city mayor, the city vice mayor concerned shall become the city mayor. If a permanent vacancy occurs in the office of the city vice mayor, the highest ranking sangguniang panlungsod member or, in case of his permanent incapacity, the second highest ranking sangguniang panlungsod member shall become the city vice mayor. If permanent vacancies occur in both the offices of the city mayor and the city vice mayor, the first and second highest ranking sangguniang panlungsod members, or in care of permanent incapacity of one or both of them, the next highest ranking sangguniang panlungsod member or members shall become the city mayor and city vice mayor, respectively. Subsequent vacancies in said offices shall be filled automatically by the other sanggunian members according to their ranking as defined herein.
 
 (b) A tie between or among the highest ranking sangguniang panlungsod members shall be resolved by drawing of lots.
 
@@ -442,7 +488,9 @@ The text of the ordinance or resolution shall be disseminated and posted in Fili
 
 For purposes of this Act, a permanent vacancy arises when an elective local official fills a higher vacant office, refuses to assume office, fails to qualify, dies, is removed from office, voluntarily resigns or is otherwise permanently incapacitated to discharge the functions of his office, for purposes of succession as provided in this Act, ranking in the sanggunian shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in the City in the immediately preceding local election.
 
-**SEC. 24._Permanent Vacancies in the Sanggunian._** \- Permanent vacancies in the sangguniang panlungsod where automatic succession as provided above does not apply shall be filled by appointments in the following manner:
+### SEC. 24
+
+_Permanent Vacancies in the Sanggunian._ \- Permanent vacancies in the sangguniang panlungsod where automatic succession as provided above does not apply shall be filled by appointments in the following manner:
 
 (a) The President, through the Executive Secretary, shall make the aforesaid appointments;
 
@@ -452,7 +500,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (d) In case of vacancy in the representation of the youth and the barangay in the sangguniang panlungsod, said vacancy shall be filled automatically by the official next in rank of the organization concerned.
 
-**SEC. 25._Temporary Vacancy in the Office of the City Mayor._** \- (a) When the city mayor is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad and suspension from office, the city vice mayor or the highest ranking sangguniang panlungsod member shall automatically exercise the powers and perform the duties and functions of the city mayor, except the power to appoint, suspend or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
+### SEC. 25
+
+_Temporary Vacancy in the Office of the City Mayor._ \- (a) When the city mayor is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad and suspension from office, the city vice mayor or the highest ranking sangguniang panlungsod member shall automatically exercise the powers and perform the duties and functions of the city mayor, except the power to appoint, suspend or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
 
 (b) Said temporary incapacity shall terminate upon submission to the sangguniang panlungsod of a written declaration by the city mayor that he has reported back to office. In case where the temporary incapacity is due to legal cause, the city mayor shall also submit necessary documents showing the said legal causes no longer exist.
 
@@ -464,7 +514,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 ## ARTICLE VII — THE APPOINTIVE OFFICIALS OF THE CITY
 
-**SEC. 26._The Secretary of the Sangguniang Panlungsod._** \- (a) There shall be a secretary to the sangguniang panlungsod who shall be a career official with the rank and salary equal to a head of a department or office.
+### SEC. 26
+
+_The Secretary of the Sangguniang Panlungsod._ \- (a) There shall be a secretary to the sangguniang panlungsod who shall be a career official with the rank and salary equal to a head of a department or office.
 
 (b) No person shall be appointed secretary to the sangguniang panlungsod unless he is a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a degree preferably in law, commerce or public administration from a recognized college or university and a first grade civil service eligible or its equivalent.
 
@@ -492,7 +544,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (11) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 27._The City Treasurer._** \- (a) The city treasurer shall be appointed by the Secretary of Finance from a list of at least three ranking eligible recommendees of the city mayor, subject to the civil service law, rules and regulations.
+### SEC. 27
+
+_The City Treasurer._ \- (a) The city treasurer shall be appointed by the Secretary of Finance from a list of at least three ranking eligible recommendees of the city mayor, subject to the civil service law, rules and regulations.
 
 (b) The city treasurer shall be under the administrative supervision of the city mayor, to whom he shall report regularly on the tax collection efforts of the City.
 
@@ -514,7 +568,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 28._The Assistant City Treasurer._** -(a) The assistant city treasurer shall be appointed by the Secretary of Finance from a list of at least three ranking eligible recommendees of the city mayor, subject to civil service law, rules and regulations.
+### SEC. 28
+
+_The Assistant City Treasurer._ -(a) The assistant city treasurer shall be appointed by the Secretary of Finance from a list of at least three ranking eligible recommendees of the city mayor, subject to civil service law, rules and regulations.
 
 (b) No person shall be appointed assistant city. treasurer unless he is a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in commerce, public administration or law from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired at least five years experience in treasury or accounting.
 
@@ -522,7 +578,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (d) The assistant city treasurer shall assist the city treasurer and perform such other duties as the latter may assign him. He shall have authority to administer oaths concerning notices and notifications to those delinquent in the payment of the Teal property tax and concerning official matters relating to the accounts of the city treasurer or otherwise arising from the offices of the city treasurer and the city assessor.
 
-**SEC. 29._The City Assessor._** \- (a) The city assessor must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in real property assessment work or in any related field for at least five years immediately preceding the date of his appointment.
+### SEC. 29
+
+_The City Assessor._ \- (a) The city assessor must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in real property assessment work or in any related field for at least five years immediately preceding the date of his appointment.
 
 (b) The city assessor shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -550,13 +608,17 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (11) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 30._The Assistant City Assessor._** \- (a) The assistant city assessor must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in assessment or in any related field for at least three years immediately preceding the date of his appointment.
+### SEC. 30
+
+_The Assistant City Assessor._ \- (a) The assistant city assessor must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in assessment or in any related field for at least three years immediately preceding the date of his appointment.
 
 (b) The assistant city assessor shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (c) The assistant city assessor shall assist the city assessor and perform such other duties as the latter may assign to him. He shall have the authority to administer oaths and all declarations of all real property for purposes of assessment.
 
-**SEC. 31._The City Accountant._** \- (a) The city accountant must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least five years immediately preceding the date of his appointment.
+### SEC. 31
+
+_The City Accountant._ \- (a) The city accountant must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a certified public accountant. He must have acquired experience in the treasury or accounting service for at least five years immediately preceding the date of his appointment.
 
 (b) The city accountant shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -588,7 +650,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (13) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 32._The City Budget Officer._** \- (a) The city budget officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in accounting, economics, public administration or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in government budgeting or in any related field for at least five years immediately preceding the date of his appointment.
+### SEC. 32
+
+_The City Budget Officer._ \- (a) The city budget officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in accounting, economics, public administration or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in government budgeting or in any related field for at least five years immediately preceding the date of his appointment.
 
 (b) The city budget officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -612,7 +676,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (9) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 33._The City Urban Planning and Development Officer._** \- (a) The city urban planning and development officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in urban planning, development studies, economics, public administration or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in development planning or in any related field for at least five years immediately preceding the date of his appointment.
+### SEC. 33
+
+_The City Urban Planning and Development Officer._ \- (a) The city urban planning and development officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in urban planning, development studies, economics, public administration or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in development planning or in any related field for at least five years immediately preceding the date of his appointment.
 
 (b) The city urban planning and development officer shall receive such compensation, emoluments and allowances as may be determined bylaw.
 
@@ -636,7 +702,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (9) Perform such other functions and duties and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 34._The City Engineer._** \- (a) The city engineer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a licensed civil engineer. He must have acquired experience in the practice of his profession for at least five years immediately preceding the date of his appointment.
+### SEC. 34
+
+_The City Engineer._ \- (a) The city engineer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a licensed civil engineer. He must have acquired experience in the practice of his profession for at least five years immediately preceding the date of his appointment.
 
 (b) The city engineer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -652,7 +720,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (5) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 35._The City Health Officer._** \- (a) The city health officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a licensed medical practitioner. He must have acquired experience in the practice of his profession for at least five years immediately preceding the date of his appointment.
+### SEC. 35
+
+_The City Health Officer._ \- (a) The city health officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a licensed medical practitioner. He must have acquired experience in the practice of his profession for at least five years immediately preceding the date of his appointment.
 
 (b) The city health officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -686,7 +756,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 36._The City Civil Registrar._** \- (a) The city civil registrar must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in civil registry work for at least five years immediately preceding the date of his appointment.
+### SEC. 36
+
+_The City Civil Registrar._ \- (a) The city civil registrar must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in civil registry work for at least five years immediately preceding the date of his appointment.
 
 (b) The city civil registrar shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -714,7 +786,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (3) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 37._The City Administrator._** \- (a) The city administrator must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in public administration, law or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administrative work for at least five years immediately preceding the date of his appointment.
+### SEC. 37
+
+_The City Administrator._ \- (a) The city administrator must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in public administration, law or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in management and administrative work for at least five years immediately preceding the date of his appointment.
 
 (b) The term of the city administrator is coterminous with that of his appointing authority.
 
@@ -738,7 +812,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (5) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160 otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 38._The City Legal Officer._** \- (a) The city legal officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a member of the Philippine Bar. He must have practiced his profession for at least five years immediately preceding the date of his appointment. The term of the city legal officer shall be coterminous with that of his appointing authority.
+### SEC. 38
+
+_The City Legal Officer._ \- (a) The city legal officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a member of the Philippine Bar. He must have practiced his profession for at least five years immediately preceding the date of his appointment. The term of the city legal officer shall be coterminous with that of his appointing authority.
 
 (b) The city legal officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -770,7 +846,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160 otherwise known as the Local Government Code of 1991, an< those that are prescribed by law or ordinance.
 
-**SEC. 39._The City Social Welfare and Development Office._** \- (a) The city social welfare and development officer must be citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a duly licensed social worker or a holder of a college degree preferably in sociology or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five years immediately preceding the date of his appointment.
+### SEC. 39
+
+_The City Social Welfare and Development Office._ \- (a) The city social welfare and development officer must be citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a duly licensed social worker or a holder of a college degree preferably in sociology or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in the practice of social work for at least five years immediately preceding the date of his appointment.
 
 (b) The city social welfare and development officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -800,7 +878,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 40._The City Veterinarian._** \- (a) The city veterinarian must be a citizen of the Philippines, a resident of the City 0 Meycauayan, of good moral character and a licensed doctor 0 veterinary medicine. He must have practiced his profession for at least three years immediately preceding the date of his appointment.
+### SEC. 40
+
+_The City Veterinarian._ \- (a) The city veterinarian must be a citizen of the Philippines, a resident of the City 0 Meycauayan, of good moral character and a licensed doctor 0 veterinary medicine. He must have practiced his profession for at least three years immediately preceding the date of his appointment.
 
 (b) The city veterinarian shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -828,7 +908,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for other Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 41._The City General Services Officer._** \- (a) The city general services officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree in public administration, business administration. or management from, a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, sol]d waste disposal and general sanitation for at least three years immediately preceding the date of his appointment.
+### SEC. 41
+
+_The City General Services Officer._ \- (a) The city general services officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree in public administration, business administration. or management from, a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, sol]d waste disposal and general sanitation for at least three years immediately preceding the date of his appointment.
 
 (b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -862,7 +944,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 42._The City Environment and Natural Resources Officer._** \- (a) The city environment and natural resources officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environment and natural resources management, conservation and utilization work for at least five years immediately preceding the date of his appointment.
+### SEC. 42
+
+_The City Environment and Natural Resources Officer._ \- (a) The city environment and natural resources officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in environment and natural resources management, conservation and utilization work for at least five years immediately preceding the date of his appointment.
 
 (b) The city environment and natural resources officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -892,7 +976,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 43._The City Architect._** \- (a) The city architect must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a duly licensed architect. He must have practiced his profession for at least five years immediately preceding the date of his appointment.
+### SEC. 43
+
+_The City Architect._ \- (a) The city architect must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character and a duly licensed architect. He must have practiced his profession for at least five years immediately preceding the date of his appointment.
 
 (b) The city architect shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -916,7 +1002,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law and ordinance.
 
-**SEC. 44._The City Information and Community Relations Officer._** \- (a) The city information and community relations officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in journalism, mass communication or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in writing articles and research papers or writing for print, television, broadcast and other forms of mass media for at least five years immediately preceding the date of his appointment.
+### SEC. 44
+
+_The City Information and Community Relations Officer._ \- (a) The city information and community relations officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in journalism, mass communication or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in writing articles and research papers or writing for print, television, broadcast and other forms of mass media for at least five years immediately preceding the date of his appointment.
 
 (b) The city information and community relations officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -940,7 +1028,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 45._The City Cooperatives Officer._** \- (a) The city cooperatives officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in business administration with special training on cooperatives or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in cooperatives organization and management for at least five years immediately preceding the date of his appointment.
+### SEC. 45
+
+_The City Cooperatives Officer._ \- (a) The city cooperatives officer must be a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in business administration with special training on cooperatives or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have experience in cooperatives organization and management for at least five years immediately preceding the date of his appointment.
 
 (b) The city cooperatives officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -964,7 +1054,9 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 
 (6) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
 
-**SEC. 46._The City Population Officer._** \- (a) The cit} population officer must be a citizen of the Ph1lippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably with specialized training in population development from a recognized college or university and a first grade civil service eligible or its equivalent. HI must have experience in the implementation of programs OJ population development or responsible parenthood for at leas five years immediately preceding the date of his appointment.
+### SEC. 46
+
+_The City Population Officer._ \- (a) The cit} population officer must be a citizen of the Ph1lippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably with specialized training in population development from a recognized college or university and a first grade civil service eligible or its equivalent. HI must have experience in the implementation of programs OJ population development or responsible parenthood for at leas five years immediately preceding the date of his appointment.
 
 (b) The city population, officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -1017,19 +1109,27 @@ For purposes of this Act, a permanent vacancy arises when an elective local offi
 THE CITY FIRE STATION SERVICE, THE CITY JAIL SERVICE,  
 THE CITY SCHOOL DIVISION AND THE CITY PROSECUTION SERVICE
 
-**SEC. 48._The City Fire Station Service._** \- (a) There shall be established in the City at least one fire station with adequate personnel, fire fighting facilities and equipment, subject to the standards, rules and regulations that may be promulgated by the Department of the Interior and Local Government. The City shall provide the necessary land or site of the station.
+### SEC. 48
+
+_The City Fire Station Service._ \- (a) There shall be established in the City at least one fire station with adequate personnel, fire fighting facilities and equipment, subject to the standards, rules and regulations that may be promulgated by the Department of the Interior and Local Government. The City shall provide the necessary land or site of the station.
 
 (b) The city fire station shall be responsible for the provision of various emergency services such as rescue and evacuation of injured people at fire-related incidents and, in general, fire prevention and suppression measures to secure the safety of life and property of the citizenry.
 
-**SEC. 49._The City Jail Service._** \- (a) There shall be established and maintained in the City a secured, clean, adequately equipped and sanitary jail for the custody and safekeeping of prisoners, any fugitive from justice, or person detained awaiting investigation or trial, and/or violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
+### SEC. 49
+
+_The City Jail Service._ \- (a) There shall be established and maintained in the City a secured, clean, adequately equipped and sanitary jail for the custody and safekeeping of prisoners, any fugitive from justice, or person detained awaiting investigation or trial, and/or violent mentally ill person who endangers himself or the safety of others, duly certified as such by the proper medical health officer, pending the transfer to a mental institution.
 
 (b) The city jail service shall be headed by a city jail warden who must be a graduate of a four-year course in psychology, psychiatry, sociology, nursing, social work or criminology who shall assist in the immediate rehabilitation of individuals or detention of prisoners. Great care must be exercised so that human rights of these prisoners are respected and protected, and their spiritual and physical well-being are properly and promptly attended to.
 
-**SEC. 50._The City School Division._** \- (a) There shall be established and maintained by the Department of Education (DepEd) a city school division of the City of Meycauayan whose area of jurisdiction will cover all the school districts within the City; and
+### SEC. 50
+
+_The City School Division._ \- (a) There shall be established and maintained by the Department of Education (DepEd) a city school division of the City of Meycauayan whose area of jurisdiction will cover all the school districts within the City; and
 
 (b) The city school division shall be headed by a division superintendent who must possess the necessary qualifications required by the DepEd.
 
-**SEC. 51._The City Prosecution Service._** \- (a) There sha1 be established in the City a prosecution service to be headed b: a city prosecutor and such number of assistant prosecutors, a. may be necessary, who shall be organizationally part of the Department of Justice (DOJ), and under the supervision and control of the Secretary of Justice and whose qualification manner of appointment, rank, salary and benefits shall be governed by existing laws covering prosecutors in the DOJ.
+### SEC. 51
+
+_The City Prosecution Service._ \- (a) There sha1 be established in the City a prosecution service to be headed b: a city prosecutor and such number of assistant prosecutors, a. may be necessary, who shall be organizationally part of the Department of Justice (DOJ), and under the supervision and control of the Secretary of Justice and whose qualification manner of appointment, rank, salary and benefits shall be governed by existing laws covering prosecutors in the DOJ.
 
 (b) The city prosecutor shall handle the criminal prosecution in the municipal trial courts in the City as well as in the regional trial courts for criminal cases originating in the territory of the City, and shall render to or for the City such services as are required by law, ordinance or regulation of the DOJ.
 
@@ -1037,29 +1137,53 @@ THE CITY SCHOOL DIVISION AND THE CITY PROSECUTION SERVICE
 
 ## ARTICLE IX — TRANSITORY AND FINAL PROVISIONS
 
-**SEC. 52._Municipal Ordinances Existing at the Time of the Approval of this Act._** \- All municipal ordinances of the Municipality of Meycauayan existing at the time of the approval of this Act shall continue to be in force within the City of Meycauayan until the sangguniang panlungsod ordinance shall provide otherwise.
+### SEC. 52
 
-**SEC. 53._Plebiscite._** \- The City of Meycauayan shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by the qualified voters in a plebiscite to be conducted in the present Municipality of Meycauayan within sixty (60) days from the approval of this Act. The expenses for such plebiscite shall be borne by the Municipality of Meycauayan. The Commission on Elections shall conduct and supervise such plebiscite.
+_Municipal Ordinances Existing at the Time of the Approval of this Act._ \- All municipal ordinances of the Municipality of Meycauayan existing at the time of the approval of this Act shall continue to be in force within the City of Meycauayan until the sangguniang panlungsod ordinance shall provide otherwise.
 
-**SEC. 54._Officials of the City of Meycauayan._** \- The present elective officials of the Municipality of Meycauayan shall continue to exercise their powers and functions until such time that a new election is held and the duly elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Meycauayan shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the City Government of Meycauayan.
+### SEC. 53
 
-**SEC. 55._Succession Clause._** \- The City of Meycauayan shall succeed to all the assets, properties, liabilities and of obligations of the Municipality of Meycauayan.
+_Plebiscite._ \- The City of Meycauayan shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by the qualified voters in a plebiscite to be conducted in the present Municipality of Meycauayan within sixty (60) days from the approval of this Act. The expenses for such plebiscite shall be borne by the Municipality of Meycauayan. The Commission on Elections shall conduct and supervise such plebiscite.
 
-**SEC. 56._Election of Provincial Governor and Sangguniang Panlalawigan Members of the Province of Bulacan._** \- The qualified voters of the City of Meycauayan shall qualify to vote and run for any elective position in the elections for provincial governor, provincial vice governor, sangguniang panlalawigan members and other elective offices for the Province of Bulacan.
+### SEC. 54
 
-**SEC. 57._Jurisdiction of the Province of Bulacan._** \- The City of Meycauayan shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Bulacan.
+_Officials of the City of Meycauayan._ \- The present elective officials of the Municipality of Meycauayan shall continue to exercise their powers and functions until such time that a new election is held and the duly elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Meycauayan shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the City Government of Meycauayan.
 
-**SEC. 58._Suspension of Increase in Rates of Local Taxes._** \- No increase in the rates of local taxes shall be imposed by the City within the period of five years from its acquisition of corporate existence.
+### SEC. 55
 
-**SEC. 59._Representative District._** \- Until otherwise provided by law, the City of Meycauayan shall continue to be a part of the Fourth Congressional District of the Province of Bulacan.
+_Succession Clause._ \- The City of Meycauayan shall succeed to all the assets, properties, liabilities and of obligations of the Municipality of Meycauayan.
 
-**SEC. 60._Limitation._** \- Within three years from the approval of this Act, no new race track, jai-alai fronton, gambling casino or cockpit shall be licensed or allowed to operate in the City.
+### SEC. 56
 
-**SEC. 61._Reservation._** \- Nothing herein contained shall preclude the determination by the appropriate agency or forum of boundary disputes or cases involving questions of territorial jurisdiction between the City of Meycauayan and any of the adjoining local government units even after the effectivity of this Act.
+_Election of Provincial Governor and Sangguniang Panlalawigan Members of the Province of Bulacan._ \- The qualified voters of the City of Meycauayan shall qualify to vote and run for any elective position in the elections for provincial governor, provincial vice governor, sangguniang panlalawigan members and other elective offices for the Province of Bulacan.
 
-**SEC. 62._Separability Clause._** \- If, for any reason or reasons, any part or provision of this Charter shall be held unconstitutional, invalid or inconsistent with Republic Act No. 7160, otherwise known as the Local Government Code of 1991, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect. Moreover, in cases where this Charter is silent or unclear, the pertinent provisions of the Local Government Code shall govern, if so provided therein.
+### SEC. 57
 
-**SEC. 63._Effectivity._** \- This Act shall take effect upon its publication in at least two newspapers of general and local circulation.
+_Jurisdiction of the Province of Bulacan._ \- The City of Meycauayan shall, unless otherwise provided by law, continue to be under the jurisdiction of the Province of Bulacan.
+
+### SEC. 58
+
+_Suspension of Increase in Rates of Local Taxes._ \- No increase in the rates of local taxes shall be imposed by the City within the period of five years from its acquisition of corporate existence.
+
+### SEC. 59
+
+_Representative District._ \- Until otherwise provided by law, the City of Meycauayan shall continue to be a part of the Fourth Congressional District of the Province of Bulacan.
+
+### SEC. 60
+
+_Limitation._ \- Within three years from the approval of this Act, no new race track, jai-alai fronton, gambling casino or cockpit shall be licensed or allowed to operate in the City.
+
+### SEC. 61
+
+_Reservation._ \- Nothing herein contained shall preclude the determination by the appropriate agency or forum of boundary disputes or cases involving questions of territorial jurisdiction between the City of Meycauayan and any of the adjoining local government units even after the effectivity of this Act.
+
+### SEC. 62
+
+_Separability Clause._ \- If, for any reason or reasons, any part or provision of this Charter shall be held unconstitutional, invalid or inconsistent with Republic Act No. 7160, otherwise known as the Local Government Code of 1991, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect. Moreover, in cases where this Charter is silent or unclear, the pertinent provisions of the Local Government Code shall govern, if so provided therein.
+
+### SEC. 63
+
+_Effectivity._ \- This Act shall take effect upon its publication in at least two newspapers of general and local circulation.
 
 Approved,
 

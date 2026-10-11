@@ -29,7 +29,7 @@ There is hereby created a branch office of the Register of Deeds of Pangasinan, 
 
 ## Section 2
 
-The said branch office shall consist of one deputy register of deeds with a salary of four thousand four hundred four pesos per annum; one senior clerk with a salary of two thousand nine hundred fifty-two pesos per annum; one clerk II with a salary of two thousand six hundred seventy-six pesos per annum; one clerk I with a salary of two thousand four hundred twenty-four pesos per annum; one janitor-messenger with a salary of two thousand one hundred sixty pesos per annum and sundry expenses in the amount of ten thousand pesos.1avvphi1
+The said branch office shall consist of one deputy register of deeds with a salary of four thousand four hundred four pesos per annum; one senior clerk with a salary of two thousand nine hundred fifty-two pesos per annum; one clerk II with a salary of two thousand six hundred seventy-six pesos per annum; one clerk I with a salary of two thousand four hundred twenty-four pesos per annum; one janitor-messenger with a salary of two thousand one hundred sixty pesos per annum and sundry expenses in the amount of ten thousand pesos.
 
 ## Section 3
 

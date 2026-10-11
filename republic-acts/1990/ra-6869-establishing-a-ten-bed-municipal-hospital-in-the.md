@@ -29,7 +29,7 @@ There shall be established, under the supervision of the Department of Health, a
 
 ## Section 2
 
-The hospital shall be constructed in a site to be determined by the Sangguniang Bayan of the Municipality of Cortes, Province of Surigao del Sur, in consultation with the Office of the Secretary of Health.1âшphi1
+The hospital shall be constructed in a site to be determined by the Sangguniang Bayan of the Municipality of Cortes, Province of Surigao del Sur, in consultation with the Office of the Secretary of Health.
 
 ## Section 3
 

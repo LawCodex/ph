@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there is granted to the Estate of Alfredo R. Disini of the Municipality of Narvacan, Province of Ilocos Sur, for period of twenty-five years from the approval of this Act, the right, privilege and authority to install, operate and maintain electric light, heat and power system, for the purpose of generating and distributing electric light, heat and/or power in the Municipality of Narvacan, Province of Ilocos Sur.1âшphi1
+Subject to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there is granted to the Estate of Alfredo R. Disini of the Municipality of Narvacan, Province of Ilocos Sur, for period of twenty-five years from the approval of this Act, the right, privilege and authority to install, operate and maintain electric light, heat and power system, for the purpose of generating and distributing electric light, heat and/or power in the Municipality of Narvacan, Province of Ilocos Sur.
 
 ## Section 2
 

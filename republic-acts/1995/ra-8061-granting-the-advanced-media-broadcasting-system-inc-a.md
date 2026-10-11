@@ -52,7 +52,7 @@ _Term of Franchise._ \- This franchise shall be for a term of twenty-five (25) y
 
 ## Section 7
 
-_Acceptance and Compliance._ \- This franchise shall become effective upon acceptance in writing by the grantee. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act.1aшphi1 Nonacceptance shall render the franchise void.
+_Acceptance and Compliance._ \- This franchise shall become effective upon acceptance in writing by the grantee. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void.
 
 ## Section 8
 

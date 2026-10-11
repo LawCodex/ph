@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Abuyog General Hospital in the Municipality of Abuyog, Province of Leyte, is hereby changed to Octavio Traya, Sr., Memorial Hospital.1âшphi1
+The name of the Abuyog General Hospital in the Municipality of Abuyog, Province of Leyte, is hereby changed to Octavio Traya, Sr., Memorial Hospital.
 
 ## Section 2
 

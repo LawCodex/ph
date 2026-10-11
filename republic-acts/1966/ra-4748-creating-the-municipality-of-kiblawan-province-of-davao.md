@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios Bagumbayan, Paitan, Kiblawan, Kibungbung, Manual, New Sibonga, Maraga-a, Ihan, Bunot, Latian, Balasiao, Apik and Dapok in the Municipality of Sulop, Province of Davao, and Sitios Guminom, Cogon, Bakaka, Pukaliil, Gucamlot, Pulatana and Daan Mali of the same municipality are hereby separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Kiblawan, same province.1avvphi1 The seat of municipal government of the new municipality shall be in the present site of Barrio Kiblawan.
+Barrios Bagumbayan, Paitan, Kiblawan, Kibungbung, Manual, New Sibonga, Maraga-a, Ihan, Bunot, Latian, Balasiao, Apik and Dapok in the Municipality of Sulop, Province of Davao, and Sitios Guminom, Cogon, Bakaka, Pukaliil, Gucamlot, Pulatana and Daan Mali of the same municipality are hereby separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Kiblawan, same province. The seat of municipal government of the new municipality shall be in the present site of Barrio Kiblawan.
 
 ## Section 2
 

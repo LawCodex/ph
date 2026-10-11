@@ -38,7 +38,7 @@ Any person who fraudulently takes advantage of the provisions of this Act to avo
 
 The Secretary of Finance shall promulgate the necessary rules and regulations for the effective implementation of this Act. These rules shall include that the Foundation shall, whenever it makes any importation or exportation under this Act, inform the Bureau of Internal Revenue and Bureau of Customs immediately thereafter, furnishing further the said bureaus with a copy of any document covering the goods, indicating the quantity and the description thereof, also stating therein the probable use and disposition of said importation or exportation.
 
-Any officer or employee of the Foundation who violates any rule or regulation promulgated by the Secretary of Finance shall be punished by a fine not exceeding one thousand pesos.1âшphi1
+Any officer or employee of the Foundation who violates any rule or regulation promulgated by the Secretary of Finance shall be punished by a fine not exceeding one thousand pesos.
 
 The Secretary of Finance shall render an annual report, which shall contain the amount of taxes, duties and fees waived, and the articles or goods imported or exported, and the use and disposition thereof, and the gifts, bequests, donations or contributions received or granted by the Foundation under this Act during the preceding fiscal year to both presiding officers of Congress not later than twenty days after the opening of each regular session.
 

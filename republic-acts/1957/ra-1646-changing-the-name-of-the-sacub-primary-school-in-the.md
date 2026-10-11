@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Sacub Primary School in the Municipality of Bansalan, Province of Davao, shall hereafter be known as the Lanuro Primary School.1âшphi1
+The Sacub Primary School in the Municipality of Bansalan, Province of Davao, shall hereafter be known as the Lanuro Primary School.
 
 ## Section 2
 

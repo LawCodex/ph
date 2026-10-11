@@ -34,7 +34,7 @@ Section one of Republic Act Numbered Seventeen hundred eighty-four is hereby ame
 
 ## Sec. 1
 
--**A**. Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, Province of Samar, to undertake and carry out the reclamation by dredging, filling and/or by other means, any foreshore lands bordering the Municipality of Catbalogan, Province of Samar.1aшphi1
+-**A**. Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, Province of Samar, to undertake and carry out the reclamation by dredging, filling and/or by other means, any foreshore lands bordering the Municipality of Catbalogan, Province of Samar.
 
 ## Sec. 1
 

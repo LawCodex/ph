@@ -31,7 +31,7 @@ Section thirteen of Act Numbered Twenty-one hundred and fifty-two, as amended by
 
 "(a) By the municipal council, when the system affects one municipality alone.
 
-"(b) By the provincial board, when it affects two or more municipalities of a province.1aшphi1
+"(b) By the provincial board, when it affects two or more municipalities of a province.
 
 "(c) By the Director of Public Works, when it affects two or more provinces.
 

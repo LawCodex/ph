@@ -970,7 +970,7 @@ The transition period provided under Section 23 of Republic Act No. 11641 shall 
 
 ### Section 95
 
-_Creating Offices and Hiring Appropriate Personnel._ \- The DMW, MARINA, DOLE and other concerned government agencies, upon consultation with and approval of the DBM, shall create the necessary offices and hire appropriate personnel to ensure the effective implementation of this Act.(awÞhi(
+_Creating Offices and Hiring Appropriate Personnel._ \- The DMW, MARINA, DOLE and other concerned government agencies, upon consultation with and approval of the DBM, shall create the necessary offices and hire appropriate personnel to ensure the effective implementation of this Act.
 
 ### Section 96
 
@@ -978,7 +978,7 @@ _Appropriations._ The amount necessary to carry out the provisions of this Act i
 
 ### Section 97
 
-_Implementing Rules and Regulations._ \- The DMW and MARINA, as Chair and Vice-Chair respectively, in coordination with the DOLE, DOTr, CHED, DFA, DOH, Department of Finance (DOF), OWWA, PCG, BI, TESDA, PAO, Bureau of Internal Revenue (BIR), and other concerned agencies, and upon consultation with representatives from maritime industry stakeholders, recognized organizations, academe and training institutions, nongovernmental organizations (NGOs), civil society groups, and all relevant sectors, shall promulgate the necessary rules and regulations to implement the provisions of this Act within ninety (90) days after its effectivity.ℒαwρhi৷
+_Implementing Rules and Regulations._ \- The DMW and MARINA, as Chair and Vice-Chair respectively, in coordination with the DOLE, DOTr, CHED, DFA, DOH, Department of Finance (DOF), OWWA, PCG, BI, TESDA, PAO, Bureau of Internal Revenue (BIR), and other concerned agencies, and upon consultation with representatives from maritime industry stakeholders, recognized organizations, academe and training institutions, nongovernmental organizations (NGOs), civil society groups, and all relevant sectors, shall promulgate the necessary rules and regulations to implement the provisions of this Act within ninety (90) days after its effectivity.
 
 The DMW, pursuant to Section 3, paragraph (j) of Republic Act No. 11641, and Chapter II, Section 6, paragraph (v) of this Act, shall ensure that OFWs on board foreign registered commercial fishing vessels or vessels fishing in distant waters, serving as cruise ship personnel or as yacht crew, stationed on mobile offshore and drilling units in the high seas, and other persons similarly situated are given adequate protection under the relevant provisions of this Act and pertinent international agreements to which the Philippine is a party.
 

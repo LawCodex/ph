@@ -35,7 +35,7 @@ The school shall offer secondary education proper as well as secondary science c
 
 ## Section 3
 
-The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.ℒαwρhi৷
+The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 4
 

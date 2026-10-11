@@ -166,7 +166,7 @@ Section 7 of Republic Act No. 9003 is hereby amended to read as follows:
 
 "(j) Within one (1) year after the effectivity of the Extended Producer Responsibility Act of 2022, provide an assessment on the volume or footprint of other generated wastes, for priority inclusion in the EPR scheme.
 
-"The National Ecology Center shall be headed by the Assistant Director of the Bureau in his/her ex officio capacity.ℒαwρhi৷ The Assistant Director shall regularly submit reports as may be required by the NSWMC in its monthly meetings. The reports of the NEC shall be consolidated by the NSWMC Secretariat for submission to the NSWMC. The NEC shall maintain a multi-sectoral, multi-disciplinary pool of experts including those from the academe, inventors, practicing professionals, business and industry, youth, women, and other concerned sectors, who shall be screened according to qualifications set by the Commission.""
+"The National Ecology Center shall be headed by the Assistant Director of the Bureau in his/her ex officio capacity. The Assistant Director shall regularly submit reports as may be required by the NSWMC in its monthly meetings. The reports of the NEC shall be consolidated by the NSWMC Secretariat for submission to the NSWMC. The NEC shall maintain a multi-sectoral, multi-disciplinary pool of experts including those from the academe, inventors, practicing professionals, business and industry, youth, women, and other concerned sectors, who shall be screened according to qualifications set by the Commission.""
 
 ## Section 6
 
@@ -213,7 +213,7 @@ National Framework for All Types of Product Wastes
 
 "SEC. 44-B. _Obliged Enterprises under this Article._ — Product producers obliged to implement EPR under this Article shall refer to large enterprises that generate plastic packaging waste: _Provided,_ however, That micro, small and medium enterprises defined under Republic Act No. 9501 shall not be covered: _Provided,_ further, That in case the total value of assets of all enterprises carrying the same brand, label or trademark exceeds that of medium enterprises stated under Republic Act No. 9501, these enterprises shall be deemed obliged enterprises.
 
-"Notwithstanding the provisions of the immediately preceeding paragraph, micro, small, and medium enterprises are encouraged to practice EPR voluntarily, or be a part of the network of obliged enterprises or producer responsibility organizations practicing EPR.1a⍵⍴h!1
+"Notwithstanding the provisions of the immediately preceeding paragraph, micro, small, and medium enterprises are encouraged to practice EPR voluntarily, or be a part of the network of obliged enterprises or producer responsibility organizations practicing EPR.
 
 "SEC. 44-C. _Plastic Packaging Covered by EPR._ — For the purpose of Article 2 of Chapter III-A of this Act, plastic packaging shall refer to products utilized to carry, protect, or pack goods for transportation, distribution, and sale.
 

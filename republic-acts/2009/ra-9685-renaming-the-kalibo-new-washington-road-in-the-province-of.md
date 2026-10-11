@@ -34,7 +34,7 @@ The Kalibo - New Washington Road in the Province of Aklan shall hereinafter be k
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.ℒαwρhi৷
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

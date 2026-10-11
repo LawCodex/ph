@@ -34,6 +34,6 @@ In the event that the grantee shall purchase and secure from the National Power 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, August 4, 1969.

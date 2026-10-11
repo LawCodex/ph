@@ -35,7 +35,7 @@ To ensure a meaningful observance of this special working holiday as herein decl
 
 ## Section 2
 
-_Lead Agency._ \- Pursuant to the observance of the "National Tech-Voc Day", the annual program of activities and advocacy campaign shall be prepared and implemented with the Technical Education and Skills Development Authority (TESDA) and the Department of Education (DepED) as the lead agencies.1âwphi1
+_Lead Agency._ \- Pursuant to the observance of the "National Tech-Voc Day", the annual program of activities and advocacy campaign shall be prepared and implemented with the Technical Education and Skills Development Authority (TESDA) and the Department of Education (DepED) as the lead agencies.
 
 ## Section 3
 

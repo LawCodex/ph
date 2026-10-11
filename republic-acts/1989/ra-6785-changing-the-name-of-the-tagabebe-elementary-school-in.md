@@ -29,7 +29,7 @@ The Tagabebe Elementary School in Barangay Tagabebe, Municipality of Gov. Genero
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports is hereby empowered and directed to issue rules and regulations to carry out the purpose of this Act.1a⍵⍴h!1
+The Secretary of Education, Culture and Sports is hereby empowered and directed to issue rules and regulations to carry out the purpose of this Act.
 
 ## Section 3
 

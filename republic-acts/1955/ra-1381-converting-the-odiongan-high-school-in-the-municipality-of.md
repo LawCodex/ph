@@ -28,7 +28,7 @@ The Odiongan High School in the Municipality of Odiongan, Province of Romblon, i
 
 ## Section 2
 
-The sum of three hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during the fiscal year ending June thirty, nineteen hundred and fifty-six, including the purchase or expropriation of additional land for the use of the said school, and of equipment and supplies.1awp++i1 Thereafter, the necessary sum of its operation and maintenance shall be included in the annual General Appropriation Acts.
+The sum of three hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during the fiscal year ending June thirty, nineteen hundred and fifty-six, including the purchase or expropriation of additional land for the use of the said school, and of equipment and supplies. Thereafter, the necessary sum of its operation and maintenance shall be included in the annual General Appropriation Acts.
 
 ## Section 3
 

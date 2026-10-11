@@ -54,6 +54,6 @@ Section 9 of Republic Act No. 7978 is hereby amended to read as follows:
 
 ## Section 3
 
-This Act shall take effect within fifteen (15) days after its publication in a newspaper of general circulation in Metro Manila, Philippines.1aшphi1
+This Act shall take effect within fifteen (15) days after its publication in a newspaper of general circulation in Metro Manila, Philippines.
 
 Approved, Lapsed into law on June 6, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.

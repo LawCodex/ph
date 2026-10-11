@@ -34,7 +34,7 @@ Section two hundred and sixty-three of Commonwealth Act Numbered Four hundred an
 
 ## Section 2
 
-All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed.1â#x0448;phi1
+All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed.
 
 ## Section 3
 

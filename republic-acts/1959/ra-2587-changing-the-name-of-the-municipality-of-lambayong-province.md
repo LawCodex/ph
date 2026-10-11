@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipality of Lambayong in the Province of Cotabato is changed to Sultan Sa Barongis.1awp++i1
+The name of the Municipality of Lambayong in the Province of Cotabato is changed to Sultan Sa Barongis.
 
 ## Section 2
 

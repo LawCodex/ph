@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Calabagas Community School in the barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, is hereby changed to Orendain Community School.1âшphi1
+The name of the Calabagas Community School in the barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, is hereby changed to Orendain Community School.
 
 ## Section 2
 

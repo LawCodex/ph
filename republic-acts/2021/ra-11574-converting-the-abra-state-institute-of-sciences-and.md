@@ -157,7 +157,7 @@ The President of the University shall be assisted by a Vice President for Academ
 
 ## Section 9
 
-_The Secretary of the University._ – The Board shall appoint a Secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board.ℒαwρhi৷ The Secretary of the University shall serve upon each member of the Board the appropriate notice of board meetings.
+_The Secretary of the University._ – The Board shall appoint a Secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board. The Secretary of the University shall serve upon each member of the Board the appropriate notice of board meetings.
 
 ## Section 10
 
@@ -171,7 +171,7 @@ _The Administrative Council._ – There shall be an Administrative Council consi
 
 _The Academic Council._ – There shall be an Academic Council to be composed of the President of the University, who shall act as Chairperson, and all academic staff with the rank of at least an assistant professor, as members, which shall formulate academic policies.
 
-The Academic Council shall also have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board.1aшphi1 It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to the review and approval of the Board through the President of the University.
+The Academic Council shall also have the power to review and recommend the curricular offerings and rules of discipline of the University, subject to the approval of the Board. It shall fix the requirements for the admission of students, as well as for their graduation and conferment of degrees, subject to the review and approval of the Board through the President of the University.
 
 It shall exercise disciplinary power over the students of the University and shall issue rules and regulations on student discipline, subject to the approval of the Board.
 

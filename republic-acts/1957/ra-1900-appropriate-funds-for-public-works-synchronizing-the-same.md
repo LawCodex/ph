@@ -138,7 +138,7 @@ _Preference to local labor._ —In the execution and construction of community p
 
 ## Section 18
 
-_Use of excess funds in school building appropriations._ —Whenever any school building project is completed and a balance of appropriation remains, the district or city engineer as the case may be, may use such balance for the purchase or acquisition of essential school equipment or for any urgent improvement work within the school premises. The provisions of this section shall apply to appropriations under all Public Works Acts.1a⍵⍴h!1
+_Use of excess funds in school building appropriations._ —Whenever any school building project is completed and a balance of appropriation remains, the district or city engineer as the case may be, may use such balance for the purchase or acquisition of essential school equipment or for any urgent improvement work within the school premises. The provisions of this section shall apply to appropriations under all Public Works Acts.
 
 ## Section 19
 

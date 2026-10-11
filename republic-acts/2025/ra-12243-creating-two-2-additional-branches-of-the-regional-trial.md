@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Two (2) additional branches of the Regional Trial Court and two (2) additional branches of the Municipal Trial Court in Cities in the Eleventh Judicial Region are hereby created and stationed in the City of Mati, Province of Davao Oriental.
 
-The Supreme Court shall assign the respective branch numbers for the newly converted branches of the Regional Trial Court and Municipal Trial Court in Cities.ℒαwρhi৷
+The Supreme Court shall assign the respective branch numbers for the newly converted branches of the Regional Trial Court and Municipal Trial Court in Cities.
 
 ## Section 2
 

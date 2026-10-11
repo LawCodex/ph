@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Municipality of Lasam was declared an independent municipality by virtue of Republic Act No. 507 signed on June 13, 1950 by President Elpidio Quirino.1a⍵⍴h!1
+The Municipality of Lasam was declared an independent municipality by virtue of Republic Act No. 507 signed on June 13, 1950 by President Elpidio Quirino.
 
 ## Section 2
 

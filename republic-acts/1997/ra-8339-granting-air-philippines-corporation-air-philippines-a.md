@@ -38,7 +38,7 @@ The grantee shall have the right at its terminal and landing fields, as well as 
 
 _Civil Aeronautics Board._ – The grantee shall secure from the Civil Aeronautics Board the appropriate permits and licenses for its operations.
 
-All aircraft used by the grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the government of the Philippines.1aшphi1 They shall be equipped with radio communications, safety and other equipment and shall be operated and maintained in accordance with the regulations and technical requirements of the Air Transportation Office or such other regulatory bodies the government may prescribe for this purpose.
+All aircraft used by the grantee including their accessories and equipment shall at all times be airworthy and the crew members shall be licensed by the government of the Philippines. They shall be equipped with radio communications, safety and other equipment and shall be operated and maintained in accordance with the regulations and technical requirements of the Air Transportation Office or such other regulatory bodies the government may prescribe for this purpose.
 
 The grantee's equipment and the operation of such equipment shall at all times be subject to inspection and regulation by the Air Transportation Office.
 

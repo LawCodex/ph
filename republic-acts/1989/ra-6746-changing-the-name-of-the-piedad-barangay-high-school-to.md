@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Piedad Barangay High School in Davao City is hereby changed to Doña Carmen Denia City High School.1a⍵⍴h!1
+The name of the Piedad Barangay High School in Davao City is hereby changed to Doña Carmen Denia City High School.
 
 ## Section 2
 

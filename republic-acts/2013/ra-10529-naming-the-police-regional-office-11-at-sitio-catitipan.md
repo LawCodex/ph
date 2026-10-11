@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Police Regional Office 11 at Sitio Catitipan, Barangay Communal, Buhangin District, Davao City is hereby named as Camp Quintin M. Merecido.1âwphi1
+The Police Regional Office 11 at Sitio Catitipan, Barangay Communal, Buhangin District, Davao City is hereby named as Camp Quintin M. Merecido.
 
 ## Section 2
 

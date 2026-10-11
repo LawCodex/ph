@@ -67,7 +67,7 @@ _Bond._ \- The grantee shall file a bond issued in favor of the National Telecom
 
 ## Section 9
 
-_Tax Provisions._ \- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings, and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay the value-added tax under Republic Act No. 7716, as amended, on all gross receipts of its radio/television business transacted under this franchise: _Provided,_ That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72, unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.Ꮮαwρhi৷
+_Tax Provisions._ \- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings, and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay the value-added tax under Republic Act No. 7716, as amended, on all gross receipts of its radio/television business transacted under this franchise: _Provided,_ That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72, unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
 
 The grantee shall file the return with, and pay the taxes due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
 
@@ -85,7 +85,7 @@ _Sale, Lease, Transfer, Usufruct, Etc._ \- The grantee shall not lease, transfer
 
 ## Section 13
 
-_Dispersal of Ownership._ \- In accordance with the constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the statues of a national broadcasting network. A "national broadcasting network" is hereby defined as one that operates three or more radio and/or television stations. Noncompliance therewith shall render the franchise _ipso facto_ revoked.Ꮮαwρhi৷
+_Dispersal of Ownership._ \- In accordance with the constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirty percentum (30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the statues of a national broadcasting network. A "national broadcasting network" is hereby defined as one that operates three or more radio and/or television stations. Noncompliance therewith shall render the franchise _ipso facto_ revoked.
 
 ## Section 14
 

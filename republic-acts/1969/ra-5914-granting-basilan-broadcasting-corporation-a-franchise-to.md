@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the provisions of the Constitution and the provisions not inconsistent herewith of Act Numbered Three thousand eight hundred and forty-six, entitled "An Act providing for regulations of radio stations and radio communications in the Philippine Islands, and for other purposes," Commonwealth Act Numbered One hundred forty-six, otherwise known as the Public Service Act, and their amendments, and other applicable laws, there is hereby granted to Basilan Broadcasting Corporation, its Successors or assigns, and hereunder referred to as the "grantee," the right and privilege to construct, install, establish and operate in Mindanao, at such places as the grantee may select and the Secretary of Public Works Communications may approve, radio broadcasting stations in Mindanao.1âшphi1
+Subject to the provisions of the Constitution and the provisions not inconsistent herewith of Act Numbered Three thousand eight hundred and forty-six, entitled "An Act providing for regulations of radio stations and radio communications in the Philippine Islands, and for other purposes," Commonwealth Act Numbered One hundred forty-six, otherwise known as the Public Service Act, and their amendments, and other applicable laws, there is hereby granted to Basilan Broadcasting Corporation, its Successors or assigns, and hereunder referred to as the "grantee," the right and privilege to construct, install, establish and operate in Mindanao, at such places as the grantee may select and the Secretary of Public Works Communications may approve, radio broadcasting stations in Mindanao.
 
 ## Section 2
 

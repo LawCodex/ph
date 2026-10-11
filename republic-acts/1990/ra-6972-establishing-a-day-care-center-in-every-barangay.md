@@ -25,13 +25,19 @@ AN ACT ESTABLISHING A DAY CARE CENTER IN EVERY BARANGAY, INSTITUTING THEREIN A T
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Title._** – This Act shall be known as the **"_Barangay - Level Total Development and Protection of Children Act._ "**
+## Section 1
 
-**Section 2._Declaration of Policy._** – It is hereby declared to be the policy of the State to defend the right of the children to assistance, including proper care and nutrition, and to provide them with special protection against all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development.
+_Title._ – This Act shall be known as the **"_Barangay - Level Total Development and Protection of Children Act._ "**
+
+## Section 2
+
+_Declaration of Policy._ – It is hereby declared to be the policy of the State to defend the right of the children to assistance, including proper care and nutrition, and to provide them with special protection against all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development.
 
 Filipino children up to six (6) years of age deserve the best care and attention at the family and community levels. Towards this end, there is hereby established a day care center in every barangay with a total development and protection of children program as provided in this Act instituted in every barangay day care center.
 
-**Section 3._Program Framework._** – The total development and protection of children program for day care centers shall be provided for children up to six (6) years of age with the consent of parents: provided, however, that, in case of abused, neglected or exploited children, such consent shall not be required. The program shall include the following:
+## Section 3
+
+_Program Framework._ – The total development and protection of children program for day care centers shall be provided for children up to six (6) years of age with the consent of parents: provided, however, that, in case of abused, neglected or exploited children, such consent shall not be required. The program shall include the following:
 
 (a) Monitoring of registration of births and the completion of the immunization series for prevention of tuberculosis, diphtheria, tetanus, measles, poliomyelitis and such other diseases for which vaccines have been developed for administration to children up to six (6) years of age;
 
@@ -47,11 +53,15 @@ Filipino children up to six (6) years of age deserve the best care and attention
 
 (g) A support system and network of assistance from among the members of the barangay for the total development and protection of children.
 
-**Section 4._Implementing Agency._** – The program shall be implemented by the barangay.
+## Section 4
+
+_Implementing Agency._ – The program shall be implemented by the barangay.
 
 The sangguniang barangay may call upon private volunteers, who are responsible members of the community, and utilize them to assist in the care of children and provide consultative services for medical, educational, and other needs of the children.
 
-**Section 5._Functions of the Department of Social Welfare and Development._** – The Department shall:
+## Section 5
+
+_Functions of the Department of Social Welfare and Development._ – The Department shall:
 
 (a) Formulate the criteria for the selection, qualifications, and training accreditation of barangay day care workers and the standards for the implementation of the total development and protection of children program;
 
@@ -59,7 +69,9 @@ The sangguniang barangay may call upon private volunteers, who are responsible m
 
 (c) Protect and assist abused, neglected or exploited children and secure proper government assistance for said children.
 
-**Section 6._Funds for the Center, the Program and Day Care Workers._** – (a) The funds for the establishment, maintenance and operation of barangay day care centers shall be appropriated from the national budget and shall be included in the annual General Appropriations Act as part of the budget of the Department of Social Welfare and Development.
+## Section 6
+
+_Funds for the Center, the Program and Day Care Workers._ – (a) The funds for the establishment, maintenance and operation of barangay day care centers shall be appropriated from the national budget and shall be included in the annual General Appropriations Act as part of the budget of the Department of Social Welfare and Development.
 
 (b) The province, city or municipality concerned shall provide financial assistance for the establishment of every barangay day care center within their respective locality.
 
@@ -69,8 +81,12 @@ The sangguniang barangay may call upon private volunteers, who are responsible m
 
 (e) A portion of health programs available to the Philippines under official aid or official debt arrangements from foreign countries, the amount to be determined by the Office of the President, shall be extended in support of the day care centers.
 
-**Section 7._Repealing Clause._** – All laws, decrees, rules and regulations, and executive orders contrary to or inconsistent with this Act are hereby repealed or modified accordingly.
+## Section 7
 
-**Section 8._Effectivity._** – This Act shall take effect upon its approval and completion if its publication in at least two (2) national newspapers of general circulation.
+_Repealing Clause._ – All laws, decrees, rules and regulations, and executive orders contrary to or inconsistent with this Act are hereby repealed or modified accordingly.
+
+## Section 8
+
+_Effectivity._ – This Act shall take effect upon its approval and completion if its publication in at least two (2) national newspapers of general circulation.
 
 Approved: **November 23, 1990**

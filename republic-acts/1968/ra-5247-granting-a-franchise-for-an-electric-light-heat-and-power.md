@@ -38,7 +38,7 @@ The rates for the sale of electric light, heat and/or power shall always be subj
 
 ## Section 4
 
-In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise of which the two per centum shall accrue to the National Government and the other three per centum to the municipality where the franchise is being operated.1avvphi1
+In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise of which the two per centum shall accrue to the National Government and the other three per centum to the municipality where the franchise is being operated.
 
 ## Section 5
 

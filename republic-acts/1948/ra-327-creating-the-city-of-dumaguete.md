@@ -723,7 +723,7 @@ _The Bureau of Public Schools._ — The Director of Public Schools shall exercis
 
 A city school board of six members, two of whom shall be women and who shall serve without salary, shall be selected and removed in the same manner, and shall have the same powers and duties, as local school boards in the municipalities.
 
-The municipal board shall have the same powers in respect to the establishment of schools as are conferred by law on municipal councils.Ꮮαwρhi৷
+The municipal board shall have the same powers in respect to the establishment of schools as are conferred by law on municipal councils.
 
 ### Section 86
 

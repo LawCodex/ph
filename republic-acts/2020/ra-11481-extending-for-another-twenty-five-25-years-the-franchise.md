@@ -62,7 +62,7 @@ A special right is hereby reserved to the President of the Philippines, in times
 
 _Term of Franchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled.
 
-This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.ℒαwρhi৷
+This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.
 
 ## Section 7
 
@@ -90,7 +90,7 @@ _Reportorial Requirement._ \- The grantee shall submit an annual report to the C
 
 The annual report shall include an update on the roll­out, development, operation and/or expansion of business; audited financial statements; latest GIS officially submitted to the SEC, if applicable; certification of the NTC on the status of its permits and operations; and an update on the dispersal of ownership undertaking, if applicable.
 
-The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.ℒαwρhi৷
+The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 

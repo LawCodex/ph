@@ -33,7 +33,7 @@ _Manner of Operation of Stations or Facilities._ \- The stations or facilities o
 
 ## Section 3
 
-_Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the radio spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.1âшphi1
+_Prior Approval of the National Telecommunications Commission._ \- The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the radio spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
 
 ## Section 4
 

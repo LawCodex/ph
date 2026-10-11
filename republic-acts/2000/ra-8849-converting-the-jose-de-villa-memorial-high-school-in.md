@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Jose de Villa Memorial High School in Barangay Manguiring, Calabanga, Camarines Sur is hereby nationalized to be known as the Jose de Villa National High School.ℒαwρhi৷
+The Jose de Villa Memorial High School in Barangay Manguiring, Calabanga, Camarines Sur is hereby nationalized to be known as the Jose de Villa National High School.
 
 ## Section 2
 

@@ -31,7 +31,7 @@ There is hereby established a national high school in Barangay Tuburan, Pototan,
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports is hereby directed to take such measures as are necessary to establish the Jose Facultad Memorial National High School.ℒαwρhi৷
+The Secretary of Education, Culture and Sports is hereby directed to take such measures as are necessary to establish the Jose Facultad Memorial National High School.
 
 ## Section 3
 

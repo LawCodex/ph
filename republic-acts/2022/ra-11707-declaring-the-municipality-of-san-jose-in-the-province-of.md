@@ -34,7 +34,7 @@ _Short Title._ \- This Act shall be known as the **_“Egg Basket Act.”_**
 
 ## Section 2
 
-_Egg Basket of the Philippines._ \- The Municipality of San Jose in the Province of Batangas is hereby declared as the “Egg Basket of the Philippines” in recognition of the economic significance of its egg industry in both local and national levels.ℒαwρhi৷
+_Egg Basket of the Philippines._ \- The Municipality of San Jose in the Province of Batangas is hereby declared as the “Egg Basket of the Philippines” in recognition of the economic significance of its egg industry in both local and national levels.
 
 ## Section 3
 

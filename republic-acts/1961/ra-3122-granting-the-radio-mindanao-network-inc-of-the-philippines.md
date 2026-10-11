@@ -36,7 +36,7 @@ The grantee shall have the right to establish relay stations and private point-t
 
 ## Section 4
 
-As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines, in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise.1avvphi1 If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines, in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantee’s obligations hereunder during the first three years of the life of this franchise. If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
 
 ## Section 5
 
@@ -86,7 +86,7 @@ Wherever in this franchise the term "grantee" is used, it shall be held and unde
 
 ## Section 16
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 17
 

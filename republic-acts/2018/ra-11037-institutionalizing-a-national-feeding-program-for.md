@@ -51,7 +51,7 @@ _Definition of Terms._ \- As used in this Act, the following terms shall be unde
 
 ## Section 4
 
-_National FeedingProgram._ \- The National Feeding Program, hereinafter referred to as the Program, is hereby established to address undernutrition among Filipino children.1âwphi1
+_National FeedingProgram._ \- The National Feeding Program, hereinafter referred to as the Program, is hereby established to address undernutrition among Filipino children.
 
 The Program shall have the following components and coverage:
 
@@ -69,7 +69,7 @@ The Program shall have the following components and coverage:
 
 (g) Water, Sanitation, and Hygiene (WASH). - The NGAs, in coordination with the DOH and LGUs , shall establish and maintain water and sanitation facilities, promote good hygiene and safe food preparation in all of its component units especially in areas devoted for the preparation of fortified meals under the Program; and
 
-(h) Integrated Nutrition Education, Behavioral Transformation, and Social Mobilization.1âwphi1 \- The Program shall be complemented by a public health, nutrition, and values transformation campaign to promote a holistic and integrated approach to health and nutrition education. Orientation-training on the objectives and mechanics of the Program shall be held among the personnel of NGAS and LGUs concerned, parent volunteers and the parent-teachers associations (PTAs) to generate support for the Program. The NGAs concerned shall also endeavor to mobilize community organizations to continue nutrition education outside of the school.
+(h) Integrated Nutrition Education, Behavioral Transformation, and Social Mobilization. - The Program shall be complemented by a public health, nutrition, and values transformation campaign to promote a holistic and integrated approach to health and nutrition education. Orientation-training on the objectives and mechanics of the Program shall be held among the personnel of NGAS and LGUs concerned, parent volunteers and the parent-teachers associations (PTAs) to generate support for the Program. The NGAs concerned shall also endeavor to mobilize community organizations to continue nutrition education outside of the school.
 
 ## Section 5
 
@@ -95,7 +95,7 @@ _Private Sector Participation._ \- The NGAs shall encourage the participation of
 
 ## Section 9
 
-_Monitoring and Annual Report._ \- The NGAs, in coordination with the LGUs, the NNC and other stakeholders, shall regularly monitor, review and assess the impact and effectivity of the Program as well as ensure compliance with standards and guidelines of the Program for food safety, quality, accountability, community participation and the procurement and liquidation processes adopted. For this purpose, the NGAs shall prepare and submit an annual report on the status of the implementation of the Program to the Office of the President and both Houses of Congress.1awp++i1
+_Monitoring and Annual Report._ \- The NGAs, in coordination with the LGUs, the NNC and other stakeholders, shall regularly monitor, review and assess the impact and effectivity of the Program as well as ensure compliance with standards and guidelines of the Program for food safety, quality, accountability, community participation and the procurement and liquidation processes adopted. For this purpose, the NGAs shall prepare and submit an annual report on the status of the implementation of the Program to the Office of the President and both Houses of Congress.
 
 ## Section 10
 

@@ -30,7 +30,7 @@ The sum of ninety thousand pesos is hereby appropriated, out of any funds in the
 
 There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five hundred thousand pesos, to be paid as compensation for the death of, or injuries sustained by, persons in the course or as a result of a public demonstration, rally, protest march, assembly or mass action, subject to the following conditions:
 
-(a) That at the time of death or injury, the victim was not engaged in the commission of any unlawful acts; (b) That in case of death, the compensation shall be twelve thousand pesos; (c) That in case of injury, the compensation shall be the actual medical and hospitalization expenses incurred but in no case to exceed twelve thousand pesos; and (d) That compensation shall be allowed only if the victim had an annual income of less than six thousand pesos, as certified by the Bureau of Internal Revenue.1âшphi1
+(a) That at the time of death or injury, the victim was not engaged in the commission of any unlawful acts; (b) That in case of death, the compensation shall be twelve thousand pesos; (c) That in case of injury, the compensation shall be the actual medical and hospitalization expenses incurred but in no case to exceed twelve thousand pesos; and (d) That compensation shall be allowed only if the victim had an annual income of less than six thousand pesos, as certified by the Bureau of Internal Revenue.
 
 Claims for compensation provided in this Act shall be filed with and processed by the Department of Social Welfare.
 

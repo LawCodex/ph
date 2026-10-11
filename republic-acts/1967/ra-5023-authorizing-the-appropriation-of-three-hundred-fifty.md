@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section two of Republic Act Numbered Nine hundred three is hereby amended to read as follows:
 
-"Sec. 2. The sum of three hundred fifty thousand pesos for the operation and maintenance of the Bataan National School of Arts and Trades is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated.1avvphi1 Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act."
+"Sec. 2. The sum of three hundred fifty thousand pesos for the operation and maintenance of the Bataan National School of Arts and Trades is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act."
 
 ## Section 2
 

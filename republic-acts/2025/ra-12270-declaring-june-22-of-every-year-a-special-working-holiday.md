@@ -36,7 +36,7 @@ Approved,
 | (SGD.) FRANCIS "CHIZ" G. ESCUDERO President of the Senate | (SGD.) FERDINAND MARTIN G. ROMUALDEZ Speaker of the House of Representatives |
 |---|---|
 
-This Act, which originated in the House of Representatives, was passed by the House of Representatives on November 21, 2022, amended by the Senate of the Philippines on June 3, 2025 and which amendments were concurred in by the House of Representatives on June 10, 2025.ℒαwρhi৷
+This Act, which originated in the House of Representatives, was passed by the House of Representatives on November 21, 2022, amended by the Senate of the Philippines on June 3, 2025 and which amendments were concurred in by the House of Representatives on June 10, 2025.
 
 | (SGD.) RENATO N. BANTUG, JR. Secretary of the Senate | (SGD.) REGINALD S. VELASCO Secretary General House of Representatives |
 |---|---|

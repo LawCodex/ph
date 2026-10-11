@@ -33,7 +33,7 @@ The Extension Office of the Land Transportation Office (LTO) in the Municipality
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department’s program the operationalization of a Regular LTO District Office in the Municipality of Balayan, Batangas, the initial funding of which shall be charged against the current year’s appropriation of the Balayan LTO Extension Office located in the Municipality of Balayan, Batangas.1âwphi1 Thereafter, such sums as may be necessary for the continued operation of the Regular LTO District Office shall be included in the annual General Appropriations Act.
+The Secretary of the Department of Transportation shall immediately include in the Department’s program the operationalization of a Regular LTO District Office in the Municipality of Balayan, Batangas, the initial funding of which shall be charged against the current year’s appropriation of the Balayan LTO Extension Office located in the Municipality of Balayan, Batangas. Thereafter, such sums as may be necessary for the continued operation of the Regular LTO District Office shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

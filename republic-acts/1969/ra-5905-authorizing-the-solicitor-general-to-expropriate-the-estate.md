@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Solicitor General is hereby directed and authorized to expropriate, within six months from the approval of this Act, the Estate of Matute situated near the municipal building of the Municipality of Governor Generoso, Province of Davao Oriental, consisting of twenty hectares, more or less, and pay the price of the land with the taxes and licenses due to the Government from the said land. The land to be expropriated shall be used as a town-site of the said municipality: _Provided,_ That such lands which are not needed for public use shall be subdivided by the municipality into lots to be sold at cost to the residents thereof on installment within a period of not than ten years.1âшphi1
+The Solicitor General is hereby directed and authorized to expropriate, within six months from the approval of this Act, the Estate of Matute situated near the municipal building of the Municipality of Governor Generoso, Province of Davao Oriental, consisting of twenty hectares, more or less, and pay the price of the land with the taxes and licenses due to the Government from the said land. The land to be expropriated shall be used as a town-site of the said municipality: _Provided,_ That such lands which are not needed for public use shall be subdivided by the municipality into lots to be sold at cost to the residents thereof on installment within a period of not than ten years.
 
 ## Section 2
 

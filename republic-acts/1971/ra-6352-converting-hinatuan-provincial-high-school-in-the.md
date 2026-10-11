@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Hinatuan Provincial High School in the Municipality of Hinatuan, Province of Surigao del Sur, is hereby converted into a national comprehensive high school to be known as Hinatuan National Comprehensive High School.1âшphi1
+The Hinatuan Provincial High School in the Municipality of Hinatuan, Province of Surigao del Sur, is hereby converted into a national comprehensive high school to be known as Hinatuan National Comprehensive High School.
 
 ## Section 2
 

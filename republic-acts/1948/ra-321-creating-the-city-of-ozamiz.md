@@ -418,7 +418,7 @@ _Action when owner makes no returns, or is unknown, or ownership is in dispute o
 
 ### Section 33
 
-_Action in case estate has escaped taxation._ -If it shall come to the knowledge of the city assessor that any taxable real estate in the city has escaped listing, it shall be his duty to list and value the same at the time and in the manner provided in the next succeeding section and to charge against the owner thereof the taxes due for the current year and the last preceding one year, and the taxes thus assessed shall be legal and collectible by all the remedies herein provided, and if the failure of the city assessor to assess such taxes at the time when they should have been assessed was due to any fault or negligence on the part of the owner of such property, the penalties shall be added to such back taxes as though they had been assessed at the time when they should have been assessed.1aшphi1
+_Action in case estate has escaped taxation._ -If it shall come to the knowledge of the city assessor that any taxable real estate in the city has escaped listing, it shall be his duty to list and value the same at the time and in the manner provided in the next succeeding section and to charge against the owner thereof the taxes due for the current year and the last preceding one year, and the taxes thus assessed shall be legal and collectible by all the remedies herein provided, and if the failure of the city assessor to assess such taxes at the time when they should have been assessed was due to any fault or negligence on the part of the owner of such property, the penalties shall be added to such back taxes as though they had been assessed at the time when they should have been assessed.
 
 ### Section 34
 
@@ -739,7 +739,7 @@ _The City Health Officer—His salary, powers, and duties._ -There shall be in t
 
 (e) He shall make sanitary inspections and may be aided therein by such members of the police force of the city or the national police as shall be designated as a sanitary police by the chief of police or proper national police officer and such sanitary inspector as may be authorized by law.
 
-(f) He shall keep a civil register for the city and record there all births, marriages, and deaths with their respective dates.1aшphi1
+(f) He shall keep a civil register for the city and record there all births, marriages, and deaths with their respective dates.
 
 (g) He shall perform such other duties, not repugnant to law or ordinance, with reference to the health and sanitation of the city as the Director of Health shall direct.
 

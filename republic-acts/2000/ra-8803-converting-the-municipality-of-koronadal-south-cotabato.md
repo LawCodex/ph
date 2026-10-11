@@ -1249,7 +1249,7 @@ a. There shall be established in the City a prosecution service to be headed by 
 
 b. The city prosecutor shall handle the criminal prosecution in the municipal trial courts in the City as well as in the regional trial courts for criminal cases originating in the territory of the City, and shall render to or for the City such services as are required by law, ordinance or regulation of the Department of Justice.
 
-c. The Secretary of Justice shall always assure the adequacy and quality of prosecution service in the City and for this purpose, shall, in the absence or lack or insufficiency in number of city assistant prosecutors as provided hereinabove, designate from among the assistant provincial prosecutors a sufficient number to perform and discharge the functions of the city prosecution service as provided hereinabove.1aшphi1
+c. The Secretary of Justice shall always assure the adequacy and quality of prosecution service in the City and for this purpose, shall, in the absence or lack or insufficiency in number of city assistant prosecutors as provided hereinabove, designate from among the assistant provincial prosecutors a sufficient number to perform and discharge the functions of the city prosecution service as provided hereinabove.
 
 ## ARTICLE IX — TRANSITORY AND FINAL PROVISIONS
 
@@ -1263,7 +1263,7 @@ _Plebiscite._ — The City of Koronadal shall acquire corporate existence upon t
 
 ### Section 53
 
-_Officials of the City of Koronadal._ — The present elective officials of the Municipality of Koronadal shall continue to exercise their powers and functions until such a time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Koronadal shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the City Government of Koronadal.ℒαwρhi৷
+_Officials of the City of Koronadal._ — The present elective officials of the Municipality of Koronadal shall continue to exercise their powers and functions until such a time that a new election is held and the duly-elected officials shall have already qualified and assumed their offices. The appointive officials and employees of the Municipality of Koronadal shall likewise continue exercising their functions and duties and they shall be automatically absorbed by the City Government of Koronadal.
 
 ### Section 54
 

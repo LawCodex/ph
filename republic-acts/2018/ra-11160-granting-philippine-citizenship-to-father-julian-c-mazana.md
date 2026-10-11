@@ -33,7 +33,7 @@ Fr. Julian C. Mazana is hereby granted Philippine citizenship with all the right
 
 ## Section 2
 
-Fr. Julian C. Mazana shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.1avvphi1 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Fr. Julian C. Mazana shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

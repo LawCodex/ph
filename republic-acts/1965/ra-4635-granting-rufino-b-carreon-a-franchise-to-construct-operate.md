@@ -37,7 +37,7 @@ All the apparatus and appurtenances to be used by the grantee shall be modern, s
 
 ## Section 4
 
-If the grantee shall not commence the manufacture of ice in the place mentioned herein within one year from the approval of this Act, unless prevented by an Act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power, delay in the arrival of equipment in the country or any other cause beyond the grantee’s control, this franchise shall become null and void.1âшphi1
+If the grantee shall not commence the manufacture of ice in the place mentioned herein within one year from the approval of this Act, unless prevented by an Act of God, or force majeure, martial law, riot, civil commotion, usurpation by a military power, delay in the arrival of equipment in the country or any other cause beyond the grantee’s control, this franchise shall become null and void.
 
 ## Section 5
 

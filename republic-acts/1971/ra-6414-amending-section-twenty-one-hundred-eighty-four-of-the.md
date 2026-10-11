@@ -49,7 +49,7 @@ In municipalities of the first class that have obtained during the next precedin
 
 "In municipalities of the fourth class: for the Mayor, eight thousand four hundred pesos; for the municipal treasurer, seven thousand eight hundred pesos; for the municipal secretary and the chief of police, four thousand two hundred pesos; and for the chief of municipal fire department, three thousand six hundred pesos;
 
-"In municipalities of the fifth class: For the Mayor, seven thousand eight hundred pesos; for the municipal treasurer, six thousand nine hundred and sixty pesos; for the municipal secretary and the chief of police, three thousand nine hundred pesos; and for the chief of municipal fire department, three thousand three hundred and sixty pesos.1âшphi1
+"In municipalities of the fifth class: For the Mayor, seven thousand eight hundred pesos; for the municipal treasurer, six thousand nine hundred and sixty pesos; for the municipal secretary and the chief of police, three thousand nine hundred pesos; and for the chief of municipal fire department, three thousand three hundred and sixty pesos.
 
 "In municipalities of the sixth class: For the Mayor, seven thousand two hundred pesos; for the municipal treasurer, six thousand four hundred and eighty pesos; and for the municipal secretary and the chief of police, three thousand four hundred and eighty pesos;
 

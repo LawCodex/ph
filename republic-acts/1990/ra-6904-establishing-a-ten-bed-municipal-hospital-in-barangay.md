@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services of the Department of Health, a ten-bed municipal hospital in the area covered by the proposed new Municipality of Senator Benigno Aquino., Jr. (House Bill No. 78) to be located in Barangay Kulaman, Municipality of Bagumbayan, Province of Sultan Kudarat, to be known as the Senator Benigno Aquino, Jr. Municipal Hospital.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services of the Department of Health, a ten-bed municipal hospital in the area covered by the proposed new Municipality of Senator Benigno Aquino., Jr. (House Bill No. 78) to be located in Barangay Kulaman, Municipality of Bagumbayan, Province of Sultan Kudarat, to be known as the Senator Benigno Aquino, Jr. Municipal Hospital.
 
 ## Section 2
 

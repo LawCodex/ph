@@ -34,7 +34,7 @@ Mr. Mohamad Wassim Nanaa is hereby granted Philippine citizenship with all the r
 
 ## Section 2
 
-Mr. Mohamad Wassim Nanaa shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.1âwphi1 The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Mr. Mohamad Wassim Nanaa shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

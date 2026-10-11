@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a district office of the Land Transportation Office (LTO) in the Municipality of Ubay, Province of Bohol.ℒαwρhi৷
+There shall be established a district office of the Land Transportation Office (LTO) in the Municipality of Ubay, Province of Bohol.
 
 ## Section 2
 

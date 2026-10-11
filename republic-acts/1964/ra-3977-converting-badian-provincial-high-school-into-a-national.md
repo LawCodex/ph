@@ -31,7 +31,7 @@ Upon organization of Badian National High School, the assets, liabilities, perso
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four and nineteen hundred sixty-five.1âшphi1 Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
+The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four and nineteen hundred sixty-five. Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

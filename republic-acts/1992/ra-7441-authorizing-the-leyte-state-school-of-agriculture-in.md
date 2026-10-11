@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Leyte State School of Agriculture in Alangalang, Leyte, is hereby authorized to offer the Bachelor of Science in Agriculture and Bachelor of Science in Agri-business and other agriculture-related programs.1âшphi1
+The Leyte State School of Agriculture in Alangalang, Leyte, is hereby authorized to offer the Bachelor of Science in Agriculture and Bachelor of Science in Agri-business and other agriculture-related programs.
 
 ## Section 2
 

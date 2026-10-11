@@ -37,7 +37,7 @@ _Holdover._ \- The incumbent Representative of the present Second Legislative Di
 
 ## Section 3
 
-_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days after its effectivity.1avvphi1
+_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days after its effectivity.
 
 ## Section 4
 

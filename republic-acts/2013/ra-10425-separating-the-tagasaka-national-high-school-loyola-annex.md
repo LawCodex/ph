@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Separation and Conversion into an Independent National High School._ — The Tagasaka National High School — Loyola Annex in Barangay Loyola, Municipality of Hinatuan, Province of Surigao del Sur is hereby separated from the Tagasaka National High School and converted into an independent national high school to be known as Loyola National High School.1âwphi1
+_Separation and Conversion into an Independent National High School._ — The Tagasaka National High School — Loyola Annex in Barangay Loyola, Municipality of Hinatuan, Province of Surigao del Sur is hereby separated from the Tagasaka National High School and converted into an independent national high school to be known as Loyola National High School.
 
 ## Section 2
 

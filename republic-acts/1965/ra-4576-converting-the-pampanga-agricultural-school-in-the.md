@@ -49,7 +49,7 @@ B. Collegiate Courses:
 
 ## Section 2
 
-The head of this institution shall be known as the President of the Pampanga Agricultural College. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees, subject to the confirmation of the Commission on Appointments.1âшphi1 The powers and duties of the President of the College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of a college.
+The head of this institution shall be known as the President of the Pampanga Agricultural College. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees, subject to the confirmation of the Commission on Appointments. The powers and duties of the President of the College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of a college.
 
 ## Section 3
 
@@ -85,7 +85,7 @@ The council shall have the power to prescribe the curricula and rules of discipl
 
 ## Section 7
 
-The body of instructors and professors of the College shall constitute its faculty, with the President of the College as the presiding officer.1awp++i1 In the appointment of professors and instructors of the college, no religious test shall be applied, no shall the religious opinions of affiliations of the faculty be made a matter of examination or inquiry.
+The body of instructors and professors of the College shall constitute its faculty, with the President of the College as the presiding officer. In the appointment of professors and instructors of the college, no religious test shall be applied, no shall the religious opinions of affiliations of the faculty be made a matter of examination or inquiry.
 
 ## Section 8
 

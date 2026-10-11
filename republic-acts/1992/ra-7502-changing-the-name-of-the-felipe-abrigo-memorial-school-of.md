@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Felipe Abrigo Memorial School of Arts and Trades in Guiuan, Eastern Samar, is hereby changed to Felipe Abrigo Memorial College of Arts and Trades.⌊aшΡhi⌊
+The name of the Felipe Abrigo Memorial School of Arts and Trades in Guiuan, Eastern Samar, is hereby changed to Felipe Abrigo Memorial College of Arts and Trades.
 
 ## Section 2
 

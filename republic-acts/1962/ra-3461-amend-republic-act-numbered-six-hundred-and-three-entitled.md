@@ -89,7 +89,7 @@ The first paragraph of Section twenty-two of the same Act is hereby amended, to 
 
 The title and the first paragraph of Section twenty-four of the same Act are hereby amended, to read as follows:
 
-"Sec. 24. _The city fiscal and assistant city fiscals—their powers, duties and compensation._ -The city fiscal shall be the chief legal adviser of the city, and in the performance and discharge of his duties he shall be assisted by three assistant city fiscals—one first assistant city fiscal and two second assistant city fiscals.1awp++i1 The city fiscal shall receive a salary of six thousand nine hundred pesos per annum, the first assistant city fiscal shall receive a salary of four thousand two hundred pesos per annum, and the two second assistant city fiscals shall each receive a salary of three thousand pesos per annum. The city fiscal shall have the following powers and duties:"
+"Sec. 24. _The city fiscal and assistant city fiscals—their powers, duties and compensation._ -The city fiscal shall be the chief legal adviser of the city, and in the performance and discharge of his duties he shall be assisted by three assistant city fiscals—one first assistant city fiscal and two second assistant city fiscals. The city fiscal shall receive a salary of six thousand nine hundred pesos per annum, the first assistant city fiscal shall receive a salary of four thousand two hundred pesos per annum, and the two second assistant city fiscals shall each receive a salary of three thousand pesos per annum. The city fiscal shall have the following powers and duties:"
 
 ## Section 11
 
@@ -169,6 +169,6 @@ Subsection (g), Section fifteen of Republic Act Numbered Six Hundred and three i
 
 ## Section 23
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 16, 1962.

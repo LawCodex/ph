@@ -36,7 +36,7 @@ The President of the Philippines shall have the power and authority to permit th
 
 ## Section 4
 
-The grantee shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this franchise is to secure to the grantee the right to establish, operate and maintain fixed point-to-point, private coastal, land-based, aeronautical and land-mobile radio stations at places herein aforestated for no other purpose than to promote and subserve the trade and business interest of the grantee.1âшphi1
+The grantee shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this franchise is to secure to the grantee the right to establish, operate and maintain fixed point-to-point, private coastal, land-based, aeronautical and land-mobile radio stations at places herein aforestated for no other purpose than to promote and subserve the trade and business interest of the grantee.
 
 ## Section 5
 

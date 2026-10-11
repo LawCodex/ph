@@ -157,7 +157,7 @@ The President of the University shall be assisted by a Vice President for Academ
 
 ## Section 9
 
-_The Secretary of the University._ – The Board shall appoint a Secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board in addition to other duties and responsibilities.ᇈWᑭHIL The Secretary of the University shall serve upon each member of the Board the appropriate notice of Board meetings.
+_The Secretary of the University._ – The Board shall appoint a Secretary who shall serve as such for both the Board and the University and shall keep all records and proceedings of the Board in addition to other duties and responsibilities. The Secretary of the University shall serve upon each member of the Board the appropriate notice of Board meetings.
 
 ## Section 10
 

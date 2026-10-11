@@ -71,7 +71,7 @@ Sections fifty-five, fifty-seven, fifty-eight, fifty-nine and sixty of Republic 
 
 "Section 58. Term and extension thereof.-The term of the design patent shall be five years from the date of the grant thereof.
 
-"Before the expiration of the five-year term, upon payment of the required fee, or within a further time thereafter not to exceed six months upon payment of the surcharge, the owner of the design patent may apply for an extension for an additional five years.1a⍵⍴h!1 The application for extension must be accompanied by an affidavit showing that the design is in commercial or industrial use in the Philippines or satisfactorily explaining non-use. In a similar manner an extension for a third five-year period may be obtained.
+"Before the expiration of the five-year term, upon payment of the required fee, or within a further time thereafter not to exceed six months upon payment of the surcharge, the owner of the design patent may apply for an extension for an additional five years. The application for extension must be accompanied by an affidavit showing that the design is in commercial or industrial use in the Philippines or satisfactorily explaining non-use. In a similar manner an extension for a third five-year period may be obtained.
 
 "Section 59. Marking.-The Marking required by section forty-four, Chapter X, hereof, shall be 'Philippine Design Patent/ or appropriate abbreviation, and the number of the patent.
 

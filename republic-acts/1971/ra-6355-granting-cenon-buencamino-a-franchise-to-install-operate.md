@@ -33,7 +33,7 @@ In the event that the grantee shall purchase secure electric heat and power from
 
 ## Section 3
 
-All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee, whenever the Public Service Commission shall have determined that public interest reasonably requires it, shall change or alter any of its apparatus and appurtenances at grantee's expense.1âшphi1
+All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee, whenever the Public Service Commission shall have determined that public interest reasonably requires it, shall change or alter any of its apparatus and appurtenances at grantee's expense.
 
 ## Section 4
 

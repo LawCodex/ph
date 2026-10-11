@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Lumbang Elementary School in the Municipality of Cajidiocan, Province of Romblon, is hereby changed to Damaso Ramilo Memorial Elementary School.1âшphi1
+The name of the Lumbang Elementary School in the Municipality of Cajidiocan, Province of Romblon, is hereby changed to Damaso Ramilo Memorial Elementary School.
 
 ## Section 2
 

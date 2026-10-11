@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-June 30 of every year is hereby declared a special working holiday and no class day in schools in the City of Imus, Province of Cavite in a commemoration of its founding anniversary.ℒαwρhi৷
+June 30 of every year is hereby declared a special working holiday and no class day in schools in the City of Imus, Province of Cavite in a commemoration of its founding anniversary.
 
 ## Section 2
 

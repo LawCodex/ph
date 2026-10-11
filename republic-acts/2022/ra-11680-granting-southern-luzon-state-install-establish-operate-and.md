@@ -76,7 +76,7 @@ _Warranty in Favor of the National and Local Governments._ – The Grantee shall
 
 ## Section 9
 
-_Commitment to Provide and Promote the Creation of Employment Opportunities._ – The Grantee shall create employment opportunities and accept on-the-job trainees in its franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.ℒαwρhi৷
+_Commitment to Provide and Promote the Creation of Employment Opportunities._ – The Grantee shall create employment opportunities and accept on-the-job trainees in its franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided,_ further, That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.
 
 ## Section 10
 
@@ -92,7 +92,7 @@ The reportorial compliance certificate issued by Congress shall be required befo
 
 ## Section 12
 
-_Fine._ – Failure of the Grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC.ℒαwρhi৷ The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of the Treasury.
+_Fine._ – Failure of the Grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (P500.00) per working day of noncompliance to the NTC. The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of the Treasury.
 
 ## Section 13
 

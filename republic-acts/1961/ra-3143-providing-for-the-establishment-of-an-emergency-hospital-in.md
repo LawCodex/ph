@@ -32,7 +32,7 @@ In the event of any competing person, natural or juridical, receiving from the C
 
 ## Section 3
 
-A special right is hereby reserve to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of the said stations during the continuance of the national emergency.1avvphi1
+A special right is hereby reserve to the President of the Philippines in time of war, rebellion, public peril or other national emergency and when public safety requires, to cause the closing of the grantee’s radio station or stations to authorize the use or possession thereof by any department of the government without compensation to the grantee for the use of the said stations during the continuance of the national emergency.
 
 ## Section 4
 
@@ -62,7 +62,7 @@ The grantee shall further be liable to pay all other taxes that may be imposed b
 
 ## Section 10
 
-This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.1âшphi1
+This franchise shall not be interpreted as an exclusive grant of the privileges herein provided for.
 
 ## Section 11
 

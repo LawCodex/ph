@@ -87,7 +87,7 @@ _Penal Provisions._ -Any public officer or employee found directly or indirectly
 
 Any public officer or employee found directly or indirectly responsible for the violation of Section ten of this Act or any such officer or employee who, having known such violation, fails to report the same to the justice of the peace, shall punished with dismissal from the office and by imprisonment for not less than one year and not more than five years.
 
-Nothing in this section be construed to relieve or exempt the grantee from complying with the provisions of other laws relating to franchises.1âшphi1
+Nothing in this section be construed to relieve or exempt the grantee from complying with the provisions of other laws relating to franchises.
 
 ## Section 13
 

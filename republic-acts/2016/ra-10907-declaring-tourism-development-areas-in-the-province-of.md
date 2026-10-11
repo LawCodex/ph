@@ -130,7 +130,7 @@ The Council may call on other government agencies and offices to provide advice 
 
 (d) The Provincial Government of Camiguin shall provide a Secretariat for the Council, including the necessary expenses for the performance of its official functions and activities.
 
-(e) The functions of the Council shall be harmonized with the functions and responsibilities of the Protected Area Management Board (PAMB), the protected area superintendents and the regional ecotourism committee to avoid any overlap or conflict.1âwphi1
+(e) The functions of the Council shall be harmonized with the functions and responsibilities of the Protected Area Management Board (PAMB), the protected area superintendents and the regional ecotourism committee to avoid any overlap or conflict.
 
 ## Section 6
 

@@ -33,11 +33,11 @@ There shall be established a national high school in the Municipality of Dupax d
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.1a⍵⍴h!1
+The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 
-The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

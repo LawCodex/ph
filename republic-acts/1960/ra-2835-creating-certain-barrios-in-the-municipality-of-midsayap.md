@@ -40,7 +40,7 @@ The following sitios in the Municipality of Midsayap, Province of Cotabato, are 
 
 7\. Sitio Kamanal to Barrio Kamanal; and
 
-8\. Sitio Pacao to Barrio Pacao.1âшphi1
+8\. Sitio Pacao to Barrio Pacao.
 
 ## Section 2
 

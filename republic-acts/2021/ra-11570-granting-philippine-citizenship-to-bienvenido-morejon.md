@@ -33,7 +33,7 @@ Mr. Bienvenido Morejon Marañon is hereby granted Philippine citizenship with al
 
 ## Section 2
 
-Mr. Marañon shall take Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same.Ꮮαwρhi৷ The Oath of Allegiance shall be registered with the Bureau of Immigration.
+Mr. Marañon shall take Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
 
 ## Section 3
 

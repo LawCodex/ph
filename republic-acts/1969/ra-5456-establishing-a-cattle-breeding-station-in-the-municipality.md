@@ -28,7 +28,7 @@ There is hereby established a cattle breeding station in the Municipality of Bal
 
 ## Section 2
 
-The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.1âшphi1
+The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
 
 ## Section 3
 

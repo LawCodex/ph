@@ -58,7 +58,9 @@ The title of Republic Act No. 8996 is hereby amended to read as follows:
 
 "An Act Granting the End Time Mission Broadcasting Service, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain for Educational and Commercial Purposes Radio and Television Broadcasting Stations in the Philippines"
 
-**SEC. 6._Effectivity Clause._** -This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
+## SEC. 6
+
+_Effectivity Clause._ -This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two newspapers of general circulation in the Philippines.
 
 Approved,
 

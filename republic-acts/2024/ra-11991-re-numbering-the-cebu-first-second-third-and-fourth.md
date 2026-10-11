@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The current district engineering offices in the Province of Cebu shall be renumbered accordingly to conform and correspond, respectively, with the numbering of the four (4) legislative districts of the province.1aшphi1 Each district engineering office shall serve the cities and municipalities under the respective legislative district.
+The current district engineering offices in the Province of Cebu shall be renumbered accordingly to conform and correspond, respectively, with the numbering of the four (4) legislative districts of the province. Each district engineering office shall serve the cities and municipalities under the respective legislative district.
 
 ## Section 2
 

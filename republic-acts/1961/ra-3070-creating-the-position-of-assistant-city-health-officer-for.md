@@ -43,7 +43,7 @@ Sections twenty-five hundred forty-five-A and twenty-five hundred fifty-six of t
 
 "(g) Assistant city engineer, assistant city treasurer, and assistant city health officer, six thousand pesos each per annum.
 
-"Sec. 2556. _The city health officer._ -There shall be a city health officer who shall have charge of the health department. There shall be an assistant city health officer who shall help him in the performance of his duties.1awp++i1 The city health officer shall have the following general powers and duties:
+"Sec. 2556. _The city health officer._ -There shall be a city health officer who shall have charge of the health department. There shall be an assistant city health officer who shall help him in the performance of his duties. The city health officer shall have the following general powers and duties:
 
 "(a) He shall have general supervision and control over the health and sanitary condition of the city including the cleaning of crematories, cemeteries, stockyards, slaughterhouses, dog pounds, public toilets, markets, and the collection and disposal of garbage, refuse, the contents of the toilets, cesspools, and all other offensive and dangerous substances within the city;
 

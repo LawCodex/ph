@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a national high school in the Municipality of Tabuk, Province of Kalinga-Apayao, to be known as Tabuk National High School which shall be under the control and supervision of the Director of Public Schools. Academic, industrial and handicraft courses shall be offered in said school.1âшphi1
+There is hereby established a national high school in the Municipality of Tabuk, Province of Kalinga-Apayao, to be known as Tabuk National High School which shall be under the control and supervision of the Director of Public Schools. Academic, industrial and handicraft courses shall be offered in said school.
 
 ## Section 2
 

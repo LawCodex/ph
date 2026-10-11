@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Pampanga School of Arts and Trades in the Municipality of Bacolor, Province of Pampanga, is changed to Don Honorio Ventura Memorial School of Arts and Trades.1âшphi1
+The name of the Pampanga School of Arts and Trades in the Municipality of Bacolor, Province of Pampanga, is changed to Don Honorio Ventura Memorial School of Arts and Trades.
 
 ## Section 2
 

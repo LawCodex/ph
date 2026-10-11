@@ -46,7 +46,7 @@ The first paragraph of Section twenty-two of the same Act is amended to read as 
 
 The first paragraph of Section twenty-three of the same Act, as amended, is further amended to read as follows:
 
-"Sec. 23. _The City Attorney and Register of Deeds ex-officio— His powers and duties._ -The city attorney, who shall discharge his duties under the general supervision of the Secretary of Justice, shall be the chief legal adviser of the city. He shall act as city register of deeds ex-officio with an additional compensation of six hundred pesos per annum. There shall be an assistant city attorney who shall receive a salary of three thousand six hundred pesos per annum or in accordance with the provisions of existing laws.1awp++i1 The city attorney shall have the following powers and duties:"
+"Sec. 23. _The City Attorney and Register of Deeds ex-officio— His powers and duties._ -The city attorney, who shall discharge his duties under the general supervision of the Secretary of Justice, shall be the chief legal adviser of the city. He shall act as city register of deeds ex-officio with an additional compensation of six hundred pesos per annum. There shall be an assistant city attorney who shall receive a salary of three thousand six hundred pesos per annum or in accordance with the provisions of existing laws. The city attorney shall have the following powers and duties:"
 
 ## Section 5
 

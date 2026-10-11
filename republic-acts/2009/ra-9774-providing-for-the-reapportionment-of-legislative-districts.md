@@ -38,7 +38,7 @@ _Incumbent Representatives._ \- The incumbent representatives of the first and s
 
 ## Section 3
 
-_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act. SEC: 4. Repealing Clause. All laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.lawphil
+_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act. SEC: 4. Repealing Clause. All laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 5
 

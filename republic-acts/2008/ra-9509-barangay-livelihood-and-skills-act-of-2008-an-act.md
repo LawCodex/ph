@@ -30,7 +30,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 **Section 1 _. Title._ -** This Act shall be known as the **"_Barangay Livelihood and Skills Act of 2008_ "**.
 
-**Section 2._Declaration of Policy._** \- It is hereby declared a policy of the State to:
+## Section 2
+
+_Declaration of Policy._ \- It is hereby declared a policy of the State to:
 
 (a) give the highest priority to social reform and focus its intervention to poverty alleviation through rural empowerment;
 
@@ -40,7 +42,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) pursue rural development with social inclusion.
 
-**Section 3._Objectives._** \- Pursuant to the aforementioned policies, this Act shall have the following objectives:
+## Section 3
+
+_Objectives._ \- Pursuant to the aforementioned policies, this Act shall have the following objectives:
 
 (a) To promote and support the establishment and maintenance of livelihood and skills training centers in every fourth, fifth and sixth class municipalities;
 
@@ -52,9 +56,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (e) To prioritize rural areas with the highest poverty incidence in the provision of programs and services under this Act.
 
-**Section 4._Establishment of a Livelihood and Skills Training Center._** \- A livelihood and skills training center, hereinafter referred to as the "Center", shall be established in every fourth, fifth and sixth class municipalities: _Provided_ , That other municipalities shall be covered by this Act upon determination of the National Anti-Poverty Commission (NAPC), taking into account the municipality's population density and demographic status, poverty incidence, income class, level of economic development, employment and productivity levels, abundance of raw materials which have potential for commercial production, and the availability and accessibility of existing livelihood skills training programs and services.
+## Section 4
 
-**Section 5._Powers and Functions of the Center._** \- The Center shall provide educational and instructional activities designed to enhance the knowledge, skills and attitudes of intended beneficiaries and to better prepare them to engage in gainful employment and/or entrepreneurship. It shall have the following powers and functions:
+_Establishment of a Livelihood and Skills Training Center._ \- A livelihood and skills training center, hereinafter referred to as the "Center", shall be established in every fourth, fifth and sixth class municipalities: _Provided_ , That other municipalities shall be covered by this Act upon determination of the National Anti-Poverty Commission (NAPC), taking into account the municipality's population density and demographic status, poverty incidence, income class, level of economic development, employment and productivity levels, abundance of raw materials which have potential for commercial production, and the availability and accessibility of existing livelihood skills training programs and services.
+
+## Section 5
+
+_Powers and Functions of the Center._ \- The Center shall provide educational and instructional activities designed to enhance the knowledge, skills and attitudes of intended beneficiaries and to better prepare them to engage in gainful employment and/or entrepreneurship. It shall have the following powers and functions:
 
 (a) Conduct periodic training needs determination and skills mapping of barangays within their jurisdiction: _Provided_ , That the Center shall coordinate closely with the local development councils, the local planning offices and other national and local government offices to determine and orchestrate the livelihood training skills required by the rural barangays concerned;
 
@@ -74,7 +82,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (i) Ensure that the Center is networked with government efforts covering other aspects of livelihood development such as marketing and financing, under the livelihood development system.
 
-**Section 6._Creation of a Municipal Advisory Board._** \- The municipal governments shall be responsible for instituting and maintaining the Center with the assistance of a Municipal Advisory Board to be chaired by the municipal mayor and to be composed of the representatives from the following stakeholders:
+## Section 6
+
+_Creation of a Municipal Advisory Board._ \- The municipal governments shall be responsible for instituting and maintaining the Center with the assistance of a Municipal Advisory Board to be chaired by the municipal mayor and to be composed of the representatives from the following stakeholders:
 
 (a) Business organizations, chamber of commerce and cooperatives;
 
@@ -96,9 +106,13 @@ The following shall act as _ex officio_ members of the Municipal Advisory Board:
 
 (d) Provincial officer of the Technical Education and Skills Development Authority.
 
-**Section 7._Powers and Functions of the Municipal Advisory Board._** \- The Municipal Advisory Board, through the leadership of the municipal mayor, shall provide policy advice and direction to guide the development of plans, programs and activities of the Center. It shall also develop information, education and communication plan to promote the Center.
+## Section 7
 
-**Section 8._Program and Service._** \- The Center shall provide ivelihood and skills training services that will develop individual and/or collective knowledge, skills and attitudes of residents in communities, for the purpose of enhancing their capability to engage in more productive employment and/or entreprenuership. This includes, but shall not be limited to, trainings on:
+_Powers and Functions of the Municipal Advisory Board._ \- The Municipal Advisory Board, through the leadership of the municipal mayor, shall provide policy advice and direction to guide the development of plans, programs and activities of the Center. It shall also develop information, education and communication plan to promote the Center.
+
+## Section 8
+
+_Program and Service._ \- The Center shall provide ivelihood and skills training services that will develop individual and/or collective knowledge, skills and attitudes of residents in communities, for the purpose of enhancing their capability to engage in more productive employment and/or entreprenuership. This includes, but shall not be limited to, trainings on:
 
 (a) Development of practical skills for home-based, viable income generating projects such as backyard gardening, aquaculture and livestock raising, and other such endeavors that make use of the available resources within the community;
 
@@ -112,11 +126,15 @@ The following shall act as _ex officio_ members of the Municipal Advisory Board:
 
 (f) Sustainable development and environment-friendly livelihood technologies.
 
-**Section 9._Establishment of Satellite and Mobile Training Centers._** \- The Centers shall establish a satellite or mobile livelihood and skills training center in a barangay or a cluster of barangays where deemed necessary by the municipal mayor to ensure that the skills training to be provided reach the intended beneficiaries: _Provided_ , That the satellite or mobile centers shall provide the program and service of a Center as provided for under this Act.
+## Section 9
+
+_Establishment of Satellite and Mobile Training Centers._ \- The Centers shall establish a satellite or mobile livelihood and skills training center in a barangay or a cluster of barangays where deemed necessary by the municipal mayor to ensure that the skills training to be provided reach the intended beneficiaries: _Provided_ , That the satellite or mobile centers shall provide the program and service of a Center as provided for under this Act.
 
 Any private person, group, organization or business entity may sponsor the establishment, operation and/or maintenance of a satellite or mobile center in any barangay or cluster of barangays: _Provided_ , That the activities, programs and projects of the sponsored satellite center are consistent with the objectives of this Act and the priority training needs of the community as identified by the municipal livelihood and skills training center.
 
-**Section 10._Operation and Maintenance of Centers._** \- The Center and its satellites must be located in an area which is safe and accessible to the residents.
+## Section 10
+
+_Operation and Maintenance of Centers._ \- The Center and its satellites must be located in an area which is safe and accessible to the residents.
 
 (a) Maintenance - The municipal government shall ensure that the Centers are supported by appropriate network of organizational support systems and mechanisms, including human resource.
 
@@ -136,7 +154,9 @@ The municipal mayor shall determine the number of staff complement and appoint t
 
 (d) Funding - The municipal government shall set aside funds from any available local revenues in an amount deemed appropriate by the municipal officials concerned for the operation and maintenance of the Center and their satellite centers, if any.
 
-**Section 11._Role of the National Government._** \- The national government shall promote and guarantee the establishment of the Centers and assist local governments in instituting and maintaining such Centers and in ensuring the effectiveness of the services being provided.
+## Section 11
+
+_Role of the National Government._ \- The national government shall promote and guarantee the establishment of the Centers and assist local governments in instituting and maintaining such Centers and in ensuring the effectiveness of the services being provided.
 
 The National Anti-Poverty Commission (NAPC) shall adopt guidelines for identifying additional municipalities to be covered under this Act as provided for under Section 4.
 
@@ -144,13 +164,21 @@ The Department of the Interior and Local Government (DILG) and the Technical Edu
 
 All national government agencies that conduct or render community-based livelihood and skills training shall develop annual training programs specifically for the municipalities covered under this Act: _Provided_ , That said agencies shall allocate funding for such programs out of their annual appropriations: _Provided_ , _further_ , That the agencies shall coordinate with the Centers for the implementation of such programs and shall submit an annual accomplishment report on the same to the NAPC. The NAPC shall consolidate the submissions of the agencies and submit to Congress a consolidated accomplishment report and recommendations for the effective implementation of this Act.
 
-**Section 12._Donations._** \- The Center may receive donations or bequests of property or services which shall be utilized only for the implementation of the program. Such donations or bequests of property shall be covered by the provisions of the National Internal Revenue Code (NIRC) exempting such from taxes and other fees and/or procedures.
+## Section 12
 
-**Section 13._Repealing Clause._** \- Laws or part of laws, executive orders, circulars, regulations and memoranda inconsistent with this Act are hereby repealed or amended accordingly.
+_Donations._ \- The Center may receive donations or bequests of property or services which shall be utilized only for the implementation of the program. Such donations or bequests of property shall be covered by the provisions of the National Internal Revenue Code (NIRC) exempting such from taxes and other fees and/or procedures.
 
-**Section 14._Separability Clause._** \- If any provision of this Act shall be held invalid, the remaining provisions shall be given full force and effect as completely as if the provision held invalid had not been included herein.
+## Section 13
 
-**Section 15._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
+_Repealing Clause._ \- Laws or part of laws, executive orders, circulars, regulations and memoranda inconsistent with this Act are hereby repealed or amended accordingly.
+
+## Section 14
+
+_Separability Clause._ \- If any provision of this Act shall be held invalid, the remaining provisions shall be given full force and effect as completely as if the provision held invalid had not been included herein.
+
+## Section 15
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its complete publication in the _Official Gazette_ or in at least two (2) newspapers of general circulation.
 
 Approved
 

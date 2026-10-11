@@ -24,7 +24,7 @@ Be it enacted, by the Senate and House of Representatives of the Philippines in 
 
 ## Section 1
 
-There is hereby granted to Filipinas Bank and Trust Company, Inc., its successors and assigns, a temporary permit to construct, operate and maintain at such places within the Philippines where it operates its business, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based, land mobile, and coastal marine service radio stations for the reception and transmission of wireless messages to and from said stations, including fishing boats, by radiotelegraph or radiotelephone, each station to be provided with radio transmitting apparatus and a radio receiving apparatus.1âшphi1
+There is hereby granted to Filipinas Bank and Trust Company, Inc., its successors and assigns, a temporary permit to construct, operate and maintain at such places within the Philippines where it operates its business, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based, land mobile, and coastal marine service radio stations for the reception and transmission of wireless messages to and from said stations, including fishing boats, by radiotelegraph or radiotelephone, each station to be provided with radio transmitting apparatus and a radio receiving apparatus.
 
 ## Section 2
 

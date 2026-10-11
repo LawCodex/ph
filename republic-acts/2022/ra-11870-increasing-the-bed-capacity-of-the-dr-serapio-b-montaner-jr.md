@@ -38,7 +38,7 @@ The existing professional health care services and facilities of the Dr. Serapio
 
 ## Section 3
 
-The existing workforce of the Dr. Serapio B. Montaner, Jr. Memorial Hospital shall be increased correspondingly.1aшphi1 The Secretary of the DOH shall, after consultation with the Chief of Hospital of the Serapio B. Montaner, Jr. Memorial Hospital, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created and filled up.
+The existing workforce of the Dr. Serapio B. Montaner, Jr. Memorial Hospital shall be increased correspondingly. The Secretary of the DOH shall, after consultation with the Chief of Hospital of the Serapio B. Montaner, Jr. Memorial Hospital, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created and filled up.
 
 ## Section 4
 

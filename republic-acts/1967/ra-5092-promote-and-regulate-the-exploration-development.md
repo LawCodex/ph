@@ -117,7 +117,7 @@ No person shall acquire more than ten permits in the whole territory of the Phil
 
 ## Section 14
 
-_Rights conveyed under a permit._ — The permit conveys upon the holder thereof, his heirs and assigns, from the date of its granting and during its term and any extension thereof, the exclusive right to explore the block covered, to do geological and physical work, to conduct drilling operations, and to do such other work related to explorations or that has for its object the discovery of geothermal energy, natural gas or methane gas.1avvphi1 The actual production and utilization of any geothermal energy, natural gas or methane gas that may be discovered is not included in the right granted under a permit.
+_Rights conveyed under a permit._ — The permit conveys upon the holder thereof, his heirs and assigns, from the date of its granting and during its term and any extension thereof, the exclusive right to explore the block covered, to do geological and physical work, to conduct drilling operations, and to do such other work related to explorations or that has for its object the discovery of geothermal energy, natural gas or methane gas. The actual production and utilization of any geothermal energy, natural gas or methane gas that may be discovered is not included in the right granted under a permit.
 
 ## Section 15
 

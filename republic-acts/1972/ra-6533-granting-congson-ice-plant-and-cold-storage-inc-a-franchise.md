@@ -34,7 +34,7 @@ All the apparatus and appurtenances to be used by the grantee shall be modern, s
 
 ## Section 4
 
-If the grantee shall not commence the operation of the ice plant and cold storage facility within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.lawphi1™
+If the grantee shall not commence the operation of the ice plant and cold storage facility within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
 
 ## Section 5
 
@@ -50,7 +50,7 @@ In consideration of the franchise and rights hereby granted, the grantee shall p
 
 ## Section 8
 
-The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights and privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose without the approval of the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred or assigned shall be subject to the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.lawphi1.net
+The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights and privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose without the approval of the Congress of the Philippines first had. Any corporation to which this franchise may be sold, transferred or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this franchise is sold, transferred or assigned shall be subject to the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
 
 ## Section 9
 

@@ -32,6 +32,6 @@ The following sitios in the Municipality of Espiritu, Province of Ilocos Norte, 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

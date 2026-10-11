@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Maasin Elementary School In the municipality of Maasin, Province of Leyte, is changed to Tomas Oppus Elementary School.1a⍵⍴h!1
+The name of the Maasin Elementary School In the municipality of Maasin, Province of Leyte, is changed to Tomas Oppus Elementary School.
 
 ## Section 2
 

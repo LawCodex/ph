@@ -84,7 +84,7 @@ If any provision of this Act or the application thereof to any person or circums
 
 ## Section 9
 
-All other acts or parts of acts inconsistent with the provisions of this Act are hereby repealed to the extent of the inconsistency.1aшphi1
+All other acts or parts of acts inconsistent with the provisions of this Act are hereby repealed to the extent of the inconsistency.
 
 ## Section 10
 

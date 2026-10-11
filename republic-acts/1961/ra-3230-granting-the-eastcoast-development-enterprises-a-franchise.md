@@ -28,7 +28,7 @@ Subject to the provisions of the Constitution, as well as of Act Numbered Thirty
 
 ## Section 2
 
-Acceptance of this franchise shall be given in writing within six months after the approval of this Act. When so accepted by the grantee and upon approval of the bond by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.1avvphi1
+Acceptance of this franchise shall be given in writing within six months after the approval of this Act. When so accepted by the grantee and upon approval of the bond by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.
 
 ## Section 3
 

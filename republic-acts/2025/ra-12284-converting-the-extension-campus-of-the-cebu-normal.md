@@ -37,7 +37,7 @@ _General Mandate._ \- The CNU-Medellin Campus shall primarily provide undergradu
 
 ## Section 4
 
-_Supervision and Management._ \- The University President shall have overall supervision and management of the CNU-Medellin Campus.ℒαwρhi৷ The Campus shall be headed by a Campus Director who shall be appointed by the Board, subject to its guidelines, qualifications, and standards, and upon the recommendation of a Search Committee duly constituted for the purpose of selecting the Campus Director: _Provided,_ That pending submission of the report by the Search Committee duly constituted by the Board, the University President shall designate from among the faculty members or employees of the CNU to serve as the Officer-in-Charge Campus Director or in acting capacity subject to the confirmation by the Board and applicable policies of the Civil Service Commission: _Provided, however,_ That in order to ensure smooth transition, the incumbent designated Campus Director of the CNU-Medellin Campys, if qualified, shall serve as the first Campus Director, subject to the pertinent provisions of the University Code and Policies promulgated by the Board.
+_Supervision and Management._ \- The University President shall have overall supervision and management of the CNU-Medellin Campus. The Campus shall be headed by a Campus Director who shall be appointed by the Board, subject to its guidelines, qualifications, and standards, and upon the recommendation of a Search Committee duly constituted for the purpose of selecting the Campus Director: _Provided,_ That pending submission of the report by the Search Committee duly constituted by the Board, the University President shall designate from among the faculty members or employees of the CNU to serve as the Officer-in-Charge Campus Director or in acting capacity subject to the confirmation by the Board and applicable policies of the Civil Service Commission: _Provided, however,_ That in order to ensure smooth transition, the incumbent designated Campus Director of the CNU-Medellin Campys, if qualified, shall serve as the first Campus Director, subject to the pertinent provisions of the University Code and Policies promulgated by the Board.
 
 The Campus Director shall be assisted by a Dean who shall be appointed or designated with the duties and functions determined by the University President, subject to the confirmation by the Board.
 
@@ -53,7 +53,7 @@ All parcels of land belonging to the government occupied by the CNU-Medellin Cam
 
 ## Section 7
 
-_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.1äwphï1.ñët
+_Suppletory Application._ \- The provisions of Republic Act No. 8292, otherwise known as the "Higher Education Modernization Act of 1997", shall form part of this Act.
 
 ## Section 8
 

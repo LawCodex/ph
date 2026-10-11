@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-October thirty-one of every year is hereby declared a special nonworking public holiday in the Municipality of Dumangas, Province of Iloilo, to commemorate the birth anniversary of Colonel Quintin D. Salas, a Visayan revolutionary hero of the Philippine-American War who serves as an inspiration to the Filipinos especially the Visayan and youth of the land.1a⍵⍴h!1
+October thirty-one of every year is hereby declared a special nonworking public holiday in the Municipality of Dumangas, Province of Iloilo, to commemorate the birth anniversary of Colonel Quintin D. Salas, a Visayan revolutionary hero of the Philippine-American War who serves as an inspiration to the Filipinos especially the Visayan and youth of the land.
 
 ## Section 2
 

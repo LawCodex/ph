@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Bacon - Sawanga - Prieto Diaz Road in the City of Sorsogon and the Municipahty of Prieto Diaz, Province of Sorsogon is hereby converted into a national road.1avvphi1
+The Bacon - Sawanga - Prieto Diaz Road in the City of Sorsogon and the Municipahty of Prieto Diaz, Province of Sorsogon is hereby converted into a national road.
 
 ## Section 2
 

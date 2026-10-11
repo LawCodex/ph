@@ -116,7 +116,7 @@ There shall be a secretary of the State College who shall be appointed by the Bo
 
 ## Section 15
 
-The Treasurer of the Philippines shall be the ex officio treasurer of the State College and all accounts and expenses therefor shall be audited by the Commission on Audit or its duly authorized representatives and all disbursements shall be made in accordance with auditing rules and regulations.1aшphi1
+The Treasurer of the Philippines shall be the ex officio treasurer of the State College and all accounts and expenses therefor shall be audited by the Commission on Audit or its duly authorized representatives and all disbursements shall be made in accordance with auditing rules and regulations.
 
 ## Section 16
 

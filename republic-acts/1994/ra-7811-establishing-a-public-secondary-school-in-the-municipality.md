@@ -29,7 +29,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a public secondary school in Barangay San Antonio in the Municipality of Milaor, Province of Camarines Sur, to be known as the San Antonio National High School under the supervision of the Department of Education, Culture and Sports.1a⍵⍴h!1
+There shall be established a public secondary school in Barangay San Antonio in the Municipality of Milaor, Province of Camarines Sur, to be known as the San Antonio National High School under the supervision of the Department of Education, Culture and Sports.
 
 ## Section 2
 

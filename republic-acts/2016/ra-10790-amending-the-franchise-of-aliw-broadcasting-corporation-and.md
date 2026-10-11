@@ -80,7 +80,7 @@ _General Broadcast Policy Law._ — The grantee shall comply with and be subject
 
 ## Section 12
 
-_Reportorial Requirement._ — The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on its complaince with the term and conditions of the franchise and on its operations on or before April 30 of succeeding year. The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.ℒαwρhi৷
+_Reportorial Requirement._ — The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Senate, on its complaince with the term and conditions of the franchise and on its operations on or before April 30 of succeeding year. The reportorial compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.
 
 ## Section 13
 

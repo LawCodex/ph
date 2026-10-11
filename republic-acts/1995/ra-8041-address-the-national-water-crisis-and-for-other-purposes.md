@@ -146,7 +146,7 @@ _Issuance of Guidelines, Implementing Rules and Regulations._ \- Within one (1) 
 
 ## Section 13
 
-_Commission's Report._ \- The Commission shall submit a quarterly report to the President and to Congress on the implementation of this Act.1aшphi1
+_Commission's Report._ \- The Commission shall submit a quarterly report to the President and to Congress on the implementation of this Act.
 
 ## Section 14
 

@@ -37,7 +37,7 @@ The existing school building intended for the purpose shall be known as the Don 
 
 ## Section 3
 
-The amount necessary for its conversion and eventual operation shall be included in the annual appropriations of the Department of Education, Culture and Sports under the General Appropriations Act. Thereafter, the sum needed for its operation and maintenance shall be included in the annual General Appropriations Act.1a⍵⍴h!1
+The amount necessary for its conversion and eventual operation shall be included in the annual appropriations of the Department of Education, Culture and Sports under the General Appropriations Act. Thereafter, the sum needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

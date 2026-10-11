@@ -29,7 +29,7 @@ The extension office of the Land Transportation Office (LTO) located in the Muni
 
 ## Section 2
 
-The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the Municipality of Naic, Province of Cavite, the initial funding of which shall be charged against the current year's appropriation of the LTO Extension Office in the Municipality of Naic.ℒαwρhi৷ Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the Municipality of Naic, Province of Cavite, the initial funding of which shall be charged against the current year's appropriation of the LTO Extension Office in the Municipality of Naic. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

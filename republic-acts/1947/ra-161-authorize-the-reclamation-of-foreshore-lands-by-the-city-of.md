@@ -32,6 +32,6 @@ Any and all lands reclaimed as herein provided shall be the property of the City
 
 ## Section 3
 
-This Act shall take effect upon its approval.1â#x0448;phi1
+This Act shall take effect upon its approval.
 
 Approved: June 20, 1947.

@@ -90,7 +90,7 @@ When there is an excessive supply of imported or locally produced rice resulting
 
 Section 8 of Republic Act No. 8178, as amended by Republic Act No. 11203, is hereby further amended as follows:
 
-"**Section 11.** Maintenance and Disposal of Rice Buffer Stock. - The NFA shall, in accordance with rules, regulations, and procedures, maintain an optimal rice buffer stock to be sourced exclusively from local farmers.ℒαwρhi৷
+"**Section 11.** Maintenance and Disposal of Rice Buffer Stock. - The NFA shall, in accordance with rules, regulations, and procedures, maintain an optimal rice buffer stock to be sourced exclusively from local farmers.
 
 The NFA shall dispose of its rice buffer stock one (1) month before the aging period starts, following the first in, first out method.
 

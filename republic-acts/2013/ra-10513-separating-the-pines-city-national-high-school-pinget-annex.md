@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Pines City Nati
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Pines City National High School – Pinget Annex are hereby transferred to and absorbed by the Pinget National High School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Pines City National High School – Pinget Annex are hereby transferred to and absorbed by the Pinget National High School.
 
 ## Section 3
 

@@ -326,7 +326,7 @@ _Specific Responsibilities of the Department of Agriculture. –_ The DA shall b
 
 (h) The Sugar Regulatory Administration (SRA), for sugar cane production and marketing; and
 
-(i) The National Food Authority (NFA), for rice, corn and other grains.1âwphi1
+(i) The National Food Authority (NFA), for rice, corn and other grains.
 
 The Bureau of Agriculture and Fisheries Product Standards (BAFPS) shall develop food safety standards including those for organic agriculture. The BAFPS shall establish the mechanism for the development of science-based food safety standards for fresh plant, animal, fisheries and aquaculture foods and shall use the services of experts from the FSRA, other government agencies, academe and private sector.
 

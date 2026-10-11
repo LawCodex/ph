@@ -32,6 +32,6 @@ The President of the Philippines, shall, upon recommendation of the Secretary of
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âwphi1
+This Act shall take effect upon its approval.
 
 Approved: September 30, 1946

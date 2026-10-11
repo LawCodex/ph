@@ -193,7 +193,7 @@ _Scholarship Programs and Admission._ \- The ZDSSU shall provide a scholarship p
 
 _Loan or Transfer Supplies, Apparatuses, or Equipment, or Detail of Personnel of the ZDSSU._ \- Heads of national government agencies and instrumentalities may, upon the request of the Board through the President of the ZDSSU, loan or transfer supplies, apparatuses, or equipment, or detail personnel to the College: _Provided,_ That such loan, transfer or detail shall not be detrimental to public service.
 
-The personnel to be detailed to the ZDSSU shall perform such duties as required of them by the President of the ZDSSU and the time spent for such duties shall be counted as part of the detailed personnel's regular service.£A⩊phi£
+The personnel to be detailed to the ZDSSU shall perform such duties as required of them by the President of the ZDSSU and the time spent for such duties shall be counted as part of the detailed personnel's regular service.
 
 ## Section 19
 
@@ -247,7 +247,7 @@ _Filing of Report._ \- On or before the fifteenth (15th) day of the second (2nd)
 
 ## Section 24
 
-_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriation of the J.H. Cerilles State College.ℒαwρhi৷ Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+_Appropriations._ \- The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriation of the J.H. Cerilles State College. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 25
 

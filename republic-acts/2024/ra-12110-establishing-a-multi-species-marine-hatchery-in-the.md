@@ -33,7 +33,7 @@ There shall be established, under the supervision of the Bureau of Fisheries and
 
 Prior to the establishment of the multi-species marine hatchery, the DA-BFAR shall conduct a full-scale feasibility study in support of its construction to comply with the requirements of the Department of Budget and Management.
 
-Within three (3) years after the construction of the satellite multi-species marine hatchery, the DA-BFAR, through a memorandum of agreement, shall transfer the management of the same to the local government of the Municipality of Argao. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.ℒαwρhi৷
+Within three (3) years after the construction of the satellite multi-species marine hatchery, the DA-BFAR, through a memorandum of agreement, shall transfer the management of the same to the local government of the Municipality of Argao. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
 
 ## Section 3
 

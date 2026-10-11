@@ -1112,7 +1112,7 @@ _City Security Officer._ — (a) The City Security Officer must be a citizen of 
 
 (1) Develop and enforce an effective system of providing security services that ensures the protection and preservation of life, government properties, and assets; and
 
-(2) Coordinate and link with other government and nongovernment organizations on matters related to effective delivery of security and intelligence services.1a⍵⍴h!1
+(2) Coordinate and link with other government and nongovernment organizations on matters related to effective delivery of security and intelligence services.
 
 ### Section 63
 
@@ -1180,7 +1180,7 @@ _Municipal Ordinance Existing at the Time of the Approval of this Act._ — All 
 
 _Plebiscite._ — The City of Baliwag shall acquire corporate existence upon the ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the present Municipality of Baliwag within ninety (90) days from the approval of this Act.
 
-The Commission on Elections (COMELEC) shall conduct and supervise such plebiscite. The expenses for such plebiscite shall be borne by the Municipality of Baliwag.ℒαwρhi৷
+The Commission on Elections (COMELEC) shall conduct and supervise such plebiscite. The expenses for such plebiscite shall be borne by the Municipality of Baliwag.
 
 ### Section 70
 

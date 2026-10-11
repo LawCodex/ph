@@ -33,7 +33,7 @@ Protests regarding the appointment or assignment of classroom public - school te
 
 ## Section 2
 
-In the exercise of its disciplinary authority, the Secretary of Education, Culture and Sports shall impose the following administrative sanctions for any willful violation of this Act: (1) first violation - suspension of one (1) month without pay; (2) second violation - suspension of two (2) months without pay; and (3) third violation and subsequent violations hereof – suspension of six (6) months without pay.1aшphi1
+In the exercise of its disciplinary authority, the Secretary of Education, Culture and Sports shall impose the following administrative sanctions for any willful violation of this Act: (1) first violation - suspension of one (1) month without pay; (2) second violation - suspension of two (2) months without pay; and (3) third violation and subsequent violations hereof – suspension of six (6) months without pay.
 
 ## Section 3
 

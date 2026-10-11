@@ -43,13 +43,13 @@ _Retirement._ — The Labor Code of the Philippines is hereby further amended by
 
 ## Art. 302-A
 
-Retirement Age of Racehorse Jockeys. — A professional racehorse jockey who is duly licensed by the Philippine Racing Commission (PHILRACOM) shall be compulsorily retired upon reaching the age of fifty-fice (55) years and shall be entitled to all retirement benefits provided for under Article 302 of this Code: _Provided,_ That he shall pay additional premiums to the Social Security System (SSS) as may be prescribed in the implementing rules and regulations of this Act.ℒαwρhi৷
+Retirement Age of Racehorse Jockeys. — A professional racehorse jockey who is duly licensed by the Philippine Racing Commission (PHILRACOM) shall be compulsorily retired upon reaching the age of fifty-fice (55) years and shall be entitled to all retirement benefits provided for under Article 302 of this Code: _Provided,_ That he shall pay additional premiums to the Social Security System (SSS) as may be prescribed in the implementing rules and regulations of this Act.
 
 Nothing in this Article shall deprive any racehorse jockey of the benefits he is entitled to under existing laws, company policies or practices."
 
 ## Section 4
 
-_Implementation Rules and Regulations._ — The Department of Labor and Employment (DOLE), the SSS, and the PHILRACOM, in consultation with the New Philippine Jockeys Association, Inc. (NPJAI) shall promulgate the necessary rules and regulations for the effective implementation of this Act within thirty (30) days from its effectivity.ℒαwρhi৷
+_Implementation Rules and Regulations._ — The Department of Labor and Employment (DOLE), the SSS, and the PHILRACOM, in consultation with the New Philippine Jockeys Association, Inc. (NPJAI) shall promulgate the necessary rules and regulations for the effective implementation of this Act within thirty (30) days from its effectivity.
 
 ## Section 5
 

@@ -22,9 +22,13 @@ retrieved: 2026-10-12
 AN ACT TO ESTABLISH A MINIMUM WAGE LAW, AND FOR OTHER PURPOSES  
 (REPEALED BY PRESIDENTIAL DECREE NO. 442)
 
-**SECTION 1._Short title of Act._** \- This Act shall be known as the **Minimum Wage Law**.
+## SECTION 1
 
-**Section 2._Definitions._** \- As used in this Act -
+_Short title of Act._ \- This Act shall be known as the **Minimum Wage Law**.
+
+## Section 2
+
+_Definitions._ \- As used in this Act -
 
 (a) "Person" means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 
@@ -46,7 +50,9 @@ AN ACT TO ESTABLISH A MINIMUM WAGE LAW, AND FOR OTHER PURPOSES
 
 (j) "Farm enterprise" comprises all tracts of land, whether contiguous or not, under one management, located in a province and immediately adjacent provinces, on which any of the operations enumerated in section two (d) are carried on.
 
-**Section 3._Minimum wage._** \- (a) Every employer shall pay to each of his employees who is employed by an enterprise other than in agriculture wages at the rate of not less than -
+## Section 3
+
+_Minimum wage._ \- (a) Every employer shall pay to each of his employees who is employed by an enterprise other than in agriculture wages at the rate of not less than -
 
 (1) Four pesos a day on the effective date of this Act and thereafter, for employees of an establishment located in Manila or its environs;
 
@@ -72,7 +78,9 @@ AN ACT TO ESTABLISH A MINIMUM WAGE LAW, AND FOR OTHER PURPOSES
 
 (h) With respect to piece-work or contract work, on petition of an interested party, the Secretary of Labor shall use all available devices of investigation to determine whether the work is being compensated in compliance with this Act, and shall issue findings and orders in connection therewith.
 
-**Section 4._Wage investigation: Appointment of Wage Board._** \- (a) The Secretary of Labor shall have the power, and it shall be his duty upon petition of six more employees in any industry, to cause an investigation to be made of the wages being paid to the employees in such industry and their living conditions, to ascertain if any substantial number of such employees are receiving wages which are less than sufficient to maintain them in health, efficiency and general well-being. If, after such investigation, the Secretary of Labor is of the opinion that any substantial number of such employees are receiving such wages, he shall appoint the Wage Board to fix a minimum wage for such industry.
+## Section 4
+
+_Wage investigation: Appointment of Wage Board._ \- (a) The Secretary of Labor shall have the power, and it shall be his duty upon petition of six more employees in any industry, to cause an investigation to be made of the wages being paid to the employees in such industry and their living conditions, to ascertain if any substantial number of such employees are receiving wages which are less than sufficient to maintain them in health, efficiency and general well-being. If, after such investigation, the Secretary of Labor is of the opinion that any substantial number of such employees are receiving such wages, he shall appoint the Wage Board to fix a minimum wage for such industry.
 
 (b) A minimum wage to be established under this Act shall be as nearly adequate as is economically feasible to maintain the minimum standard of living necessary for the health, efficiency, and general well-being of employees. In the determination of a minimum wage, the Secretary of Labor and a Wage Board shall, among other relevant factors, consider the following:
 
@@ -90,7 +98,9 @@ AN ACT TO ESTABLISH A MINIMUM WAGE LAW, AND FOR OTHER PURPOSES
 
 (e) The Secretary may appoint a Wage Board for any industry, whether it is named in section three of this Act or not.
 
-**Section 5._Wage Board; Powers and duties: Recommendations._** \- (a) A Wage Board appointed under the provisions of this Act shall be composed of a member representing the public who shall act as chairman of the Board, two representatives of employees in the industry, and two representatives of the employers in the same industry. The representatives of the employees and employers shall be selected from nominations submitted by employees and employers, or organizations thereof, in such industry. Three members of a Wage Board shall constitute a quorum and its recommendations shall require a vote of not less than a majority of all its members. The members of a Wage Board shall not be entitled to compensations except to per diems not exceeding seven pesos for each day of actual attendance and shall be reimbursed for all necessary travelling expenses incurred in the performance of their duties. The chairman, if a government employee, shall not be entitled to any per diem.
+## Section 5
+
+_Wage Board; Powers and duties: Recommendations._ \- (a) A Wage Board appointed under the provisions of this Act shall be composed of a member representing the public who shall act as chairman of the Board, two representatives of employees in the industry, and two representatives of the employers in the same industry. The representatives of the employees and employers shall be selected from nominations submitted by employees and employers, or organizations thereof, in such industry. Three members of a Wage Board shall constitute a quorum and its recommendations shall require a vote of not less than a majority of all its members. The members of a Wage Board shall not be entitled to compensations except to per diems not exceeding seven pesos for each day of actual attendance and shall be reimbursed for all necessary travelling expenses incurred in the performance of their duties. The chairman, if a government employee, shall not be entitled to any per diem.
 
 (b) The Secretary of Labor shall present to a Wage Board all the evidence and information in his possession relating to the wages in the industry for which the Wage Board was appointed and all other information which he deems relevant to the establishment of a minimum wage for such industry and shall cause to be brought before the Board any witness when he deems material. A Wage Board may summon other witnesses or call upon the Secretary to furnish information to aid in its deliberations.
 
@@ -98,7 +108,9 @@ AN ACT TO ESTABLISH A MINIMUM WAGE LAW, AND FOR OTHER PURPOSES
 
 The Wage Board shall not recommend for any agricultural or non-agricultural industry a minimum wage of less than the prevailing wage obtaining on the effective date of this Act, and in no case less than the minimum wage rates set in section three of this Act. These wages may include minimum wages varying with localities, if in the judgment of the Board conditions make such local differentiation proper and necessary to effectuate the purpose of this Act and such differentiation does not give an undue competitive advantage to any locality; and may include terms and conditions relating to part-time employment and suitable treatment of other cases or classes of cases which, because of the nature and character of the employment, in the judgment of the Board, justify special treatment, including, in the case of persons employed as industrial homeworkers, the highest minimum rate which is economically feasible and which will not result in substantial curtailment of employment opportunities for such employees, and which shall not less than seventy-five per cent of the minimum wage rates established in section three of this Act. Home industries covered by this Act shall include apparel, embroidery, other needle trades, shoes, weaving, basketry, and other handicrafts. The Secretary may add specific home industries to the coverage of this Act by regulation, when he deems it necessary to further the purposes of this Act. If the report of the Wage Board is not submitted within thirty days, the Secretary of Labor may appoint a new Wage Board.
 
-**Section 6._Wage orders._** \- (a) Upon the filing of the Wage Board's report, the Secretary of Labor shall give notice to interested parties and conduct a public hearing thereon within fifteen days. On the basis of the Wage Board's report and recommendations and on the basis of the public hearing, the Secretary of Labor shall, within fifteen days after the termination of the hearing, approve or reject, but shall not modify, the minimum wages recommended by the Wage Board. If he rejects the minimum wages recommended by the Wage Board, he shall issue a statement of his reasons therefor, and shall submit the matter to the same Board shall be convened within fifteen days, and such Board shall submit its report and recommendations within thirty days after it has been convened, and in case of further disagreement between the Secretary and the Board, the decision of the Secretary shall prevail. If he approves the recommendation of the Wage Board, he shall, on the date of approval, issue a wage order prescribing the minimum wages to be paid to the employees in the industry. Due notice of any hearing provided for in this section shall be given by publication in such newspapers of general circulation and by such other means as the Secretary of Labor deems reasonably calculated to give general notice to interested parties. The procedure at the public hearings before the Secretary shall be consonant with due process of law. The rules of evidence applied by the courts in proceedings at law shall not strictly apply in any proceeding conducted by or before a Wage Board.
+## Section 6
+
+_Wage orders._ \- (a) Upon the filing of the Wage Board's report, the Secretary of Labor shall give notice to interested parties and conduct a public hearing thereon within fifteen days. On the basis of the Wage Board's report and recommendations and on the basis of the public hearing, the Secretary of Labor shall, within fifteen days after the termination of the hearing, approve or reject, but shall not modify, the minimum wages recommended by the Wage Board. If he rejects the minimum wages recommended by the Wage Board, he shall issue a statement of his reasons therefor, and shall submit the matter to the same Board shall be convened within fifteen days, and such Board shall submit its report and recommendations within thirty days after it has been convened, and in case of further disagreement between the Secretary and the Board, the decision of the Secretary shall prevail. If he approves the recommendation of the Wage Board, he shall, on the date of approval, issue a wage order prescribing the minimum wages to be paid to the employees in the industry. Due notice of any hearing provided for in this section shall be given by publication in such newspapers of general circulation and by such other means as the Secretary of Labor deems reasonably calculated to give general notice to interested parties. The procedure at the public hearings before the Secretary shall be consonant with due process of law. The rules of evidence applied by the courts in proceedings at law shall not strictly apply in any proceeding conducted by or before a Wage Board.
 
 (b) Orders issued under this section shall define the industry to which they shall apply and may include such administrative regulations as the Secretary of Labor finds necessary to carry out the purposes of this Act and of the orders. Except as provided in section nine the rates established by any minimum wage order shall apply alike to all employees regardless of age or sex.
 
@@ -106,17 +118,25 @@ The Wage Board shall not recommend for any agricultural or non-agricultural indu
 
 (d) No employer shall, after the effective date of a minimum wage order, pay an employee who is within the scope of the wage order, employed by him, wages at less than the amount prescribed in this Act or in such order, as the case may be.
 
-**Section 7._Right of review._** \- (a) Any person aggrieved by an order of the Secretary of Labor issued under this Act may obtain a review of such order in the Supreme Court by filing in such Court within fifteen days after the entry and publication of such order a written petition praying that the order of the Secretary of Labor be modified or set aside in whole or in part. The review by the Court shall be limited to questions of law, and findings of fact by the Secretary of Labor when supported by substantial evidence shall be conclusive. If the petitioner or appellant is an employee, wage earner, farmer, or laborer, he shall be exempted from filing appeal bond, and docketing fee and he can file typewritten pleadings in all cases.
+## Section 7
+
+_Right of review._ \- (a) Any person aggrieved by an order of the Secretary of Labor issued under this Act may obtain a review of such order in the Supreme Court by filing in such Court within fifteen days after the entry and publication of such order a written petition praying that the order of the Secretary of Labor be modified or set aside in whole or in part. The review by the Court shall be limited to questions of law, and findings of fact by the Secretary of Labor when supported by substantial evidence shall be conclusive. If the petitioner or appellant is an employee, wage earner, farmer, or laborer, he shall be exempted from filing appeal bond, and docketing fee and he can file typewritten pleadings in all cases.
 
 (b) The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the Court, operate as a stay of the order unless the person complaining of such order shall file in court an undertaking with a surety or sureties satisfactory to the Court for the payment to the employees affected by the order, in the event such order is affirmed, of the amount by which the compensation such employees are entitled to receive under the order exceeds the compensation they actually received while such stay is in effect.
 
-**Section 8._Oaths: Affidavits: Subpoena._** \- (a) The Secretary of Labor or the Chairman of the Wage Board shall have the power to administer oaths, to take or cause to be taken the deposition of witnesses and to require by subpoena the attendance and testimony of witnesses and the production of all books, records, and other evidence relative to any matter under investigation. In case of failure of any person to comply with a subpoena lawfully issued under this section or on the refusal of any witness to produce evidence or to testify to any matter regarding which he may be lawfully interrogated, it shall be the duty of the proper court of First Instance, upon application of the Secretary of Labor, or the Chairman of the Wage Board, to compel obedience by proceedings for contempt, as in the case of disobedience of the requirements of a subpoena issued by such court or a refusal to testify therein. The Secretary of Labor or the Chairman of the Wage Board shall have the power to certify to official acts.
+## Section 8
+
+_Oaths: Affidavits: Subpoena._ \- (a) The Secretary of Labor or the Chairman of the Wage Board shall have the power to administer oaths, to take or cause to be taken the deposition of witnesses and to require by subpoena the attendance and testimony of witnesses and the production of all books, records, and other evidence relative to any matter under investigation. In case of failure of any person to comply with a subpoena lawfully issued under this section or on the refusal of any witness to produce evidence or to testify to any matter regarding which he may be lawfully interrogated, it shall be the duty of the proper court of First Instance, upon application of the Secretary of Labor, or the Chairman of the Wage Board, to compel obedience by proceedings for contempt, as in the case of disobedience of the requirements of a subpoena issued by such court or a refusal to testify therein. The Secretary of Labor or the Chairman of the Wage Board shall have the power to certify to official acts.
 
 (b) No person shall be excused from attending and testifying or from producing books, papers, correspondence, memoranda, contracts, agreements, or other records and documents before the Secretary of Labor or a Wage Board, or in obedience to the subpoena of the Secretary of Labor or a Wage Board or in any cause or proceeding instituted under this Act, on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty for forfeiture; but no individual shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
-**Section 9._Learners or apprentices: Handicapped workers._** \- The Secretary of Labor and/or any of his authorized representatives, to the extent necessary to prevent curtailment of opportunities for their employment, shall, by regulations or by orders provide for (a) the employment of learners or apprentices under special certificates issued by the Secretary pursuant to such regulations, at wages which in no case shall be lower than 75 per cent of the applicable minimum, and subject to such limitations as to period, number, proportion, and length of service, which in no case shall be more than one year, as shall be prescribed in such certificates, and (b) the employment of individuals whose earning capacity is impaired by physical or mental deficiency or injury, at such wages, which in no case shall be lower than 50 per cent of the applicable minimum and for such period as shall be fixed in special certificates issued by the Secretary pursuant to such regulations: Provided, however, That the employment of learners or apprentices who are students or graduates of authorized nautical schools, in vessels of Philippine registry, may be permitted without compensation.
+## Section 9
 
-**Section 10._Direct payment of wages._** \- (a) Payment in legal tender:
+_Learners or apprentices: Handicapped workers._ \- The Secretary of Labor and/or any of his authorized representatives, to the extent necessary to prevent curtailment of opportunities for their employment, shall, by regulations or by orders provide for (a) the employment of learners or apprentices under special certificates issued by the Secretary pursuant to such regulations, at wages which in no case shall be lower than 75 per cent of the applicable minimum, and subject to such limitations as to period, number, proportion, and length of service, which in no case shall be more than one year, as shall be prescribed in such certificates, and (b) the employment of individuals whose earning capacity is impaired by physical or mental deficiency or injury, at such wages, which in no case shall be lower than 50 per cent of the applicable minimum and for such period as shall be fixed in special certificates issued by the Secretary pursuant to such regulations: Provided, however, That the employment of learners or apprentices who are students or graduates of authorized nautical schools, in vessels of Philippine registry, may be permitted without compensation.
+
+## Section 10
+
+_Direct payment of wages._ \- (a) Payment in legal tender:
 
 (1) Except as herein otherwise provided, wages payable in money shall be paid in legal tender of the Philippines, and it shall hereafter be unlawful to pay such wages in the form of promissory notes, vouchers, coupons, tokens or any other form alleged to represent legal tender;
 
@@ -178,7 +198,9 @@ The authorization to make such deductions shall be subject to the following cond
 
 (l) This section shall apply to all employees to whom a minimum wage applies under this Act, including those who are paid wages higher than the applicable minimum.
 
-**Section 11._Regulations and orders._** \- (a) The Secretary of Labor may make, issue, amend and rescind such regulations and orders as are necessary or appropriate to carry out the provisions of this Act. Such regulations or orders, and without limiting the generality of the foregoing, may define terms used in this Act and may include such terms and conditions, including the regulations of industrial home work or such other acts or practices, as the Secretary of Labor finds necessary or appropriate to carry out the purposes of the Act or Wage Order issued thereunder and to prevent the circumvention or evasion thereof and to safeguard the standards therein established, and may provide for the reasonable valuation of board, lodging or other similar services furnished by an employer to his employees.
+## Section 11
+
+_Regulations and orders._ \- (a) The Secretary of Labor may make, issue, amend and rescind such regulations and orders as are necessary or appropriate to carry out the provisions of this Act. Such regulations or orders, and without limiting the generality of the foregoing, may define terms used in this Act and may include such terms and conditions, including the regulations of industrial home work or such other acts or practices, as the Secretary of Labor finds necessary or appropriate to carry out the purposes of the Act or Wage Order issued thereunder and to prevent the circumvention or evasion thereof and to safeguard the standards therein established, and may provide for the reasonable valuation of board, lodging or other similar services furnished by an employer to his employees.
 
 (b) Regulations or orders of the Secretary which relate to industrial homework may restrict such work or may establish piece rates which shall yield to the average employee of an undertaking the minimum wage applicable to the industrial homeworkers involved.
 
@@ -188,7 +210,9 @@ The authorization to make such deductions shall be subject to the following cond
 
 (e) Regulations or orders issued pursuant to this section shall be subject to court review, in accordance with the same procedure as provided in section seven of this Act.
 
-**Section 12._Administration and enforcement._** \- (a) There is hereby created the Wage Administration Service, in the Department of Labor, under a Chief, who shall be compensated at the rate of seven thousand two hundred pesos per annum.
+## Section 12
+
+_Administration and enforcement._ \- (a) There is hereby created the Wage Administration Service, in the Department of Labor, under a Chief, who shall be compensated at the rate of seven thousand two hundred pesos per annum.
 
 (b) The Wage Claims Division of the Bureau of Labor is hereby abolished, and its functions transferred to the Wage Administration Service, together with the records, and equipments, and unexpected appropriation of that Division, and such personnel as the Secretary may direct.
 
@@ -204,11 +228,17 @@ The authorization to make such deductions shall be subject to the following cond
 
 (h) The Secretary of Labor or his authorized representatives shall for the purpose of examination have access to and the right to copy from such record, to question such employee and investigate such fact, condition, or matter as he may deem necessary or appropriate to determine whether any person has violated any provision of this Act or any wage order or regulation issued by the Secretary of Labor, or which may aid in the enforcement of the provisions of this Act and of the wage orders or regulations issued hereunder.
 
-**Section 13._Discrimination._** \- On and after the effective date of this Act it shall be unlawful for any person to discharge in any other manner to discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this Act, or has testified or is about to testify in any such proceeding, or has served or is about to serve on a Wage Board.
+## Section 13
 
-**Section 14._False reporting._** \- On and after the effective date of this Act it shall be unlawful for any person to make any statement, report, or record filed or kept pursuant to the provisions of this Act or of any regulation or order thereunder, knowing such statement, report or record to be false in a material respect.
+_Discrimination._ \- On and after the effective date of this Act it shall be unlawful for any person to discharge in any other manner to discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this Act, or has testified or is about to testify in any such proceeding, or has served or is about to serve on a Wage Board.
 
-**Section 15._Penalties and recovery of wage due under this Act._** \- (a) Any person who wilfully violates any of the provisions of this Act shall upon conviction thereof be subject to a fine of not more than two thousand pesos, or, upon second conviction, to imprisonment of not more than one year, or to both such fine and imprisonment, in the discretion of the court.
+## Section 14
+
+_False reporting._ \- On and after the effective date of this Act it shall be unlawful for any person to make any statement, report, or record filed or kept pursuant to the provisions of this Act or of any regulation or order thereunder, knowing such statement, report or record to be false in a material respect.
+
+## Section 15
+
+_Penalties and recovery of wage due under this Act._ \- (a) Any person who wilfully violates any of the provisions of this Act shall upon conviction thereof be subject to a fine of not more than two thousand pesos, or, upon second conviction, to imprisonment of not more than one year, or to both such fine and imprisonment, in the discretion of the court.
 
 (b) If any violation of this Act is committed by a corporation, trust, partnership or association, the manager or in his default, the person acting as such when the violation took place, shall be responsible. In the case of a government corporation, the managing head shall be made responsible, except when shown that the violation was due to an act or commission of some other person, over whom he had no control, in which case the latter shall be held responsible.
 
@@ -222,15 +252,21 @@ The authorization to make such deductions shall be subject to the following cond
 
 (g) In determining when an action is commenced under this section for the purposes of the statute of limitation, it shall be considered to be commenced in the case of any individual claimant on the date when the complaint is filed if he is specifically named as a party plaintiff in the complaint, or if his name did not so appear, on the subsequent date on which his name is added as a party plaintiff in such action.
 
-**Section 16._Jurisdiction of the courts._** \- (a) The Court of First Instance shall have jurisdiction to restrain violations of this act; action by the Secretary or by the employees affected to recover underpayment may be brought in any competent Court, which shall render its decision on such cases within fifteen days from the time the case has been submitted for decision; in appropriate instances, appeal from the decisions of these courts on any action under this Act shall be in accordance with applicable law.
+## Section 16
+
+_Jurisdiction of the courts._ \- (a) The Court of First Instance shall have jurisdiction to restrain violations of this act; action by the Secretary or by the employees affected to recover underpayment may be brought in any competent Court, which shall render its decision on such cases within fifteen days from the time the case has been submitted for decision; in appropriate instances, appeal from the decisions of these courts on any action under this Act shall be in accordance with applicable law.
 
 (b) In the event that a dispute case before the Court of Industrial Relations involves as the sole issue or as one of the issues a dispute as to minimum wages above the applicable statutory minimum, and the Secretary of Labor has issued no wage order for the industry or locality applicable to the enterprise, the Court of Industrial Relations may hear and decide such wage issue: Provided, however, That the Secretary of Labor shall not undertake to fix the minimum wage for an industry or branch thereof which involves only a single enterprise or a single employer.
 
 (c) Where the demands of minimum wages involve an actual strike, the matter shall be submitted to the Secretary of Labor, who shall attempt to secure a settlement between the parties through conciliation. Should the Secretary fail within fifteen days to effect said settlement, he shall indorse the matter together with other issues involved, to the Court of Industrial Relations which will acquire jurisdiction on the case including the minimum wages issue, and after a hearing where the views of the Secretary of Labor will be given, will decide the case in the same manner as provided in other cases. The decision shall be rendered by the court in banc within fifteen days after the case has been submitted for determination, and its finding of facts shall be conclusive if supported by substantial evidence, and shall be subject only to an appeal by certiorari.
 
-**Section 17._Statute of Limitation._** \- Any action commenced on or after the effective date of this Act enforce any cause of action under this Act may be commenced within three years after the cause of action accrued, and every such action shall be forever barred unless commenced within three years after the cause of action accrued.
+## Section 17
 
-**Section 18._Protection of the service._** \- (a) All persons appointed or assigned to work in the Government in the administration and enforcement of this Act shall be appointed and shall serve under the Civil Service rules and regulations.
+_Statute of Limitation._ \- Any action commenced on or after the effective date of this Act enforce any cause of action under this Act may be commenced within three years after the cause of action accrued, and every such action shall be forever barred unless commenced within three years after the cause of action accrued.
+
+## Section 18
+
+_Protection of the service._ \- (a) All persons appointed or assigned to work in the Government in the administration and enforcement of this Act shall be appointed and shall serve under the Civil Service rules and regulations.
 
 (b) No person engaged in the administration and enforcement of this Act, shall, during his tenure of office, be an employer, or an officer, representative, or agent of an employer or an employers' association, or of an association of employees, and no Communist may be appointed to or may hold such office, nor shall any person engaged in the administration and enforcement of this act as attorney or agent for parties to a labor dispute, or have any financial interest in such dispute.
 
@@ -238,18 +274,32 @@ The authorization to make such deductions shall be subject to the following cond
 
 (d) Any person engaged in the administration and enforcement of this Act who is found to have accepted any bribe from or on behalf of any party in interest under this Act shall be summarily dismissed, and criminal action shall be instituted against such person.
 
-**Section 19._Relations to other labor laws and practices._** \- Nothing in this Act shall deprive an employee of the right to seek fair wages, shorter working hours and better working conditions nor justify an employer in violating any other labor law applicable to his employees, in reducing the wage now paid to any of his employees in excess of the minimum wage established under this Act, or in reducing supplements furnished on the date of enactment.
+## Section 19
 
-**Section 20._Superseding of those provisions or terms of private agreement or contracts that are in contravention of the requirements of this Act._** \- No worker or organization of workers may voluntarily or otherwise, individually or collectively, waive any rights established under this Act, and no agreement or contract oral or written, to accept a lower wage or less than any other benefit required under this Act shall be valid.
+_Relations to other labor laws and practices._ \- Nothing in this Act shall deprive an employee of the right to seek fair wages, shorter working hours and better working conditions nor justify an employer in violating any other labor law applicable to his employees, in reducing the wage now paid to any of his employees in excess of the minimum wage established under this Act, or in reducing supplements furnished on the date of enactment.
 
-**Section 21._Report by the Secretary._** \- The Secretary of Labor shall submit annually in January a public report to the President and Congress covering his activities in the administration and enforcement of this Act during the preceding year and including such information, data, and recommendations for amendments or further legislation in connection with matters covered by this Act as he may find advisable.
+## Section 20
 
-**Section 22._Appropriation._** \- The sum of one hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated out of the unappropriated funds of the Philippine Treasury, for salaries, per diems, travelling expenses, purchase of materials and equipment and other necessary sundry expenses that may be incurred in carrying out the provisions of this Act. The expenses for succeeding fiscal years shall be provided in the current appropriations for such years.
+_Superseding of those provisions or terms of private agreement or contracts that are in contravention of the requirements of this Act._ \- No worker or organization of workers may voluntarily or otherwise, individually or collectively, waive any rights established under this Act, and no agreement or contract oral or written, to accept a lower wage or less than any other benefit required under this Act shall be valid.
 
-**Section 23._Repeal of inconsistent prior enactment._** \- Any provisions of law previously enacted on the subject matter of this Act that is inconsistent with any provisions of this Act is hereby repealed.
+## Section 21
 
-**Section 24._Separability._** \- If any provision of this Act or the application of such provision to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+_Report by the Secretary._ \- The Secretary of Labor shall submit annually in January a public report to the President and Congress covering his activities in the administration and enforcement of this Act during the preceding year and including such information, data, and recommendations for amendments or further legislation in connection with matters covered by this Act as he may find advisable.
 
-**Section 25._Effective date._** \- This Act shall take effect one hundred twenty days after its enactment, except that the appointment of personnel and preparations for administration and enforcement may take effect immediately upon its enactment.
+## Section 22
 
-Approved: **April 6, 1951** 1awphil@alf
+_Appropriation._ \- The sum of one hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated out of the unappropriated funds of the Philippine Treasury, for salaries, per diems, travelling expenses, purchase of materials and equipment and other necessary sundry expenses that may be incurred in carrying out the provisions of this Act. The expenses for succeeding fiscal years shall be provided in the current appropriations for such years.
+
+## Section 23
+
+_Repeal of inconsistent prior enactment._ \- Any provisions of law previously enacted on the subject matter of this Act that is inconsistent with any provisions of this Act is hereby repealed.
+
+## Section 24
+
+_Separability._ \- If any provision of this Act or the application of such provision to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## Section 25
+
+_Effective date._ \- This Act shall take effect one hundred twenty days after its enactment, except that the appointment of personnel and preparations for administration and enforcement may take effect immediately upon its enactment.
+
+Approved: **April 6, 1951**

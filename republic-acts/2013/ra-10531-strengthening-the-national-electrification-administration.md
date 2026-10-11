@@ -305,7 +305,7 @@ _Implementing Rules and Regulations._ – Within sixty (60) days from the effect
 
 ### Section 17
 
-_Separability Clause._ – If any provision of this Act is declared invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.1âwphi1
+_Separability Clause._ – If any provision of this Act is declared invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
 
 ### Section 18
 

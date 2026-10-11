@@ -252,7 +252,7 @@ In addition, the Secretary of the Department of Agriculture (DA) shall report to
 
 ## Section 24
 
-_Appropriations._ \- the appropriations of agencies, division, council and corporation, merged, abolished or transferred pursuant to this Act shall be turned over to the Authority.1aшphi1 Thereafter, such sums as may be necessary for its continued operation and maintenance shall be included in the annual General Appropriations Act.
+_Appropriations._ \- the appropriations of agencies, division, council and corporation, merged, abolished or transferred pursuant to this Act shall be turned over to the Authority. Thereafter, such sums as may be necessary for its continued operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 25
 

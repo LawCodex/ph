@@ -29,7 +29,7 @@ This Act shall be known as the Abaca and Other Fibers Development Program Act.
 
 ## Section 2
 
-It is hereby declared to be a national policy to rehabilitate and expand the abaca and other fibers industry of the country to maintain its world supremacy and the world demand for abaca and other Philippine fibers and their by-products, and to provide adequate measures to ensure permanent stability in the production and consumption of abaca and other fibers.1avvphi1
+It is hereby declared to be a national policy to rehabilitate and expand the abaca and other fibers industry of the country to maintain its world supremacy and the world demand for abaca and other Philippine fibers and their by-products, and to provide adequate measures to ensure permanent stability in the production and consumption of abaca and other fibers.
 
 ## Section 3
 

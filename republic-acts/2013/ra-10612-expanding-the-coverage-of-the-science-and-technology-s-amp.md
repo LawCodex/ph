@@ -164,7 +164,7 @@ In addition, the SEI is authorized to accept grants, contributions and/or donati
 
 ### Section 19
 
-_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and subsisting.1âwphi1
+_Separability Clause._ – If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and subsisting.
 
 ### Section 20
 

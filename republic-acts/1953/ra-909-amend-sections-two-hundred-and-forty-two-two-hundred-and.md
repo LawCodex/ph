@@ -48,7 +48,7 @@ Section two hundred and forty-three of Commonwealth Act Numbered Four hundred an
 
 ## Section 3
 
-Section two hundred and forty-four of Commonwealth Act Numbered Four hundred and sixty-six is repealed.1a⍵⍴h!1
+Section two hundred and forty-four of Commonwealth Act Numbered Four hundred and sixty-six is repealed.
 
 ## Section 4
 

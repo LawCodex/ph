@@ -195,7 +195,7 @@ Jurisdiction over DECS-supervised or chartered state-supported post-secondary de
 
 A transitory body is hereby created which shall be composed of the Secretary of Education, Culture and Sports (DECS), Chair of the Senate Committee on Education, Arts and Culture, Chair of the House Committee on Education and Culture, a representative each of the Association of Christian Schools and Colleges (ACSC), the Catholic Educational Association of the Philippines (CEAP), the Philippine Association of Colleges and Universities (PACU), the Philippine Association of Private Schools, Colleges and Universities (PAPSCU), the Philippine Association of State Universities and Colleges (PASUC), and the Philippine Association of Private Technical Institutions (PAPTI).
 
-The transitory body shall facilitate the complete and full operation of the Commission which shall not be later than three (3) months after the effectivity of this Act. It shall likewise, promulgate the rules and regulations necessary to effectively implement the smooth and orderly transfer to the Commission. The transition period not exceeding three (3) months shall commence from the approval of this Act.1âwphi1
+The transitory body shall facilitate the complete and full operation of the Commission which shall not be later than three (3) months after the effectivity of this Act. It shall likewise, promulgate the rules and regulations necessary to effectively implement the smooth and orderly transfer to the Commission. The transition period not exceeding three (3) months shall commence from the approval of this Act.
 
 ## Section 19
 

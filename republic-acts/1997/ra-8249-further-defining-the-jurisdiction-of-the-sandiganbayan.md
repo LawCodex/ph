@@ -101,21 +101,31 @@ Section 7 of the same decree is hereby further amended to read as follows:
 
 "Decisions and final orders ofthe Sandiganbyan shall be appealable to the Supreme Court by petition for review on certiorari raising pure questions of law in accordance with Rule 45 of the Rules of Court. Whenever, in any case decided by the Sandiganbayan, the penalty of reclusion perpetua, life imprisonment or death is imposed, the decision shall be appealable to the Supreme Court in the manner prescribed in the Rules of Court.
 
-"Judgments and orders of the Sandiganbayan shall be executed and enforced in the manner provided by law.1aшphi1
+"Judgments and orders of the Sandiganbayan shall be executed and enforced in the manner provided by law.
 
 "Decisions and final orders of other courts in cases cognizable by said courts under this decree as well as those rendered by them in the exercise of their appellate jurisdiction shall be appealable to, or be reviewable by, the Sandiganbayan in the manner provided by Rule 122 of the Rules of the Court.
 
 "In case, however, the imposed penalty by the Sandiganbayan or the regional trial court in the proper exercise of their respective jurisdictions, is death, review by the Supreme Court shall be automatic, whether or not accused files an appeal."
 
-**Section 6._Appropriations._** \- The amount necessary to carry out the initial implementation of this Act shall be charged against the current fiscal year appropriations of the Sandiganbayan. Thereafter, such sums as may be needed for its continued implementation shall be included in the annual General Appropriations Act.
+## Section 6
 
-**Section 7._Transitory Provision._** \- This Act shall apply to all cases pending in any court over which trial has not begun as of the approval hereof
+_Appropriations._ \- The amount necessary to carry out the initial implementation of this Act shall be charged against the current fiscal year appropriations of the Sandiganbayan. Thereafter, such sums as may be needed for its continued implementation shall be included in the annual General Appropriations Act.
 
-**Section 8._Separability of Provisions._** \- If for any reason any provision of this Act is declared unconstitutional or invalid, such parts or portions not affected thereby shall remain in full force and effect.
+## Section 7
 
-**Section 9._Repealing Clause._** \- All acts, decrees, general orders and circulars, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Transitory Provision._ \- This Act shall apply to all cases pending in any court over which trial has not begun as of the approval hereof
 
-**Section 10._Effectivity._** \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
+## Section 8
+
+_Separability of Provisions._ \- If for any reason any provision of this Act is declared unconstitutional or invalid, such parts or portions not affected thereby shall remain in full force and effect.
+
+## Section 9
+
+_Repealing Clause._ \- All acts, decrees, general orders and circulars, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 10
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
 
 Approved:
 

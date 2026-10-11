@@ -901,7 +901,7 @@ _The City Veterinarian._ – (a) The city veterinarian must be a citizen of the 
 
 ### Section 44
 
-_The City General Services Officer._ – (a) The city general services officer must be a citizen of the Philippines, a resident of the City of Malaybalay, of good moral character, a holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent.1aшphi1 He must have acquired experience in general services, including management of supply, property, solid waste disposal, and general sanitation for at least five (5) years immediately preceding the date of his appointment;
+_The City General Services Officer._ – (a) The city general services officer must be a citizen of the Philippines, a resident of the City of Malaybalay, of good moral character, a holder of a college degree in public administration, business administration or management from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in general services, including management of supply, property, solid waste disposal, and general sanitation for at least five (5) years immediately preceding the date of his appointment;
 
 (b) The city general services officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
@@ -923,7 +923,7 @@ _The City General Services Officer._ – (a) The city general services officer m
 
 ### Section 45
 
-_The City Fire Station Service._ – (a) There shall be established in the City at least one (1) fire station with adequate personnel, fire fighting facilities and equipment, subject to the standards, rules and regulations as may be promulgated by the Department of the Interior and Local Government.Ꮮαwρhi৷ The City shall provide the necessary land or site of the station.Ꮮαwρhi৷
+_The City Fire Station Service._ – (a) There shall be established in the City at least one (1) fire station with adequate personnel, fire fighting facilities and equipment, subject to the standards, rules and regulations as may be promulgated by the Department of the Interior and Local Government. The City shall provide the necessary land or site of the station.
 
 (b) The city fire station service shall be headed by a city fire marshal whose qualifications shall be as those provided for under Republic Act No. 6975, otherwise known as the Philippine National Police Law.
 

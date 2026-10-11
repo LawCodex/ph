@@ -243,7 +243,7 @@ _Separation or Retirement from the AFP._ \- Any officer or enlisted personnel wh
 
 (a) separated, if one has rendered less than twenty (20) years of satisfactory active duty and shall receive separation benefits pursuant to law, or
 
-(b) retired, if one has rendered at least twenty (20) years of satisfactory active duty and shall receive retirement benefits pursuant to law, unless the concerned service member is disqualified by law to receive such benefits.1aшphi1
+(b) retired, if one has rendered at least twenty (20) years of satisfactory active duty and shall receive retirement benefits pursuant to law, unless the concerned service member is disqualified by law to receive such benefits.
 
 ## TITLE V — PROCUREMENT OF OFFICERS/ENLISTED PERSONNEL — AND GRADE DISTRIBUTION
 

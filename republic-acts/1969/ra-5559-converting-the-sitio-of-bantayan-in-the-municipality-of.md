@@ -28,6 +28,6 @@ The sitio of Bantayan in the Municipality of Lingayen, Province of Pangasinan, i
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

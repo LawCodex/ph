@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the supervision of the Bureau of Hospitals, an emergency hospital in the Municipality of Pandan, Province of Antique, to be known as Northern Antique Emergency Hospital.1âшphi1
+There shall be established, under the supervision of the Bureau of Hospitals, an emergency hospital in the Municipality of Pandan, Province of Antique, to be known as Northern Antique Emergency Hospital.
 
 ## Section 2
 

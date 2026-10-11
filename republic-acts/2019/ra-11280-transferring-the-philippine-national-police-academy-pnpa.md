@@ -38,7 +38,7 @@ Within sixty (60) days from the effectivity of this Act, the Department of Publi
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.1âшphi1
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
 
 Approved,
 

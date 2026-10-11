@@ -299,7 +299,7 @@ _Provided, however,_ That the Professional Board Examination for Teachers (PBET)
 
 ### Section 32
 
-_Separability Clause_. - If, for any reason, any section or provision of this Act or the application of such section or provision to any person or circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.1a⍵⍴h!1
+_Separability Clause_. - If, for any reason, any section or provision of this Act or the application of such section or provision to any person or circumstance is declared unconstitutional or invalid, no other section or provision of this Act shall be affected thereby.
 
 ### Section 33
 

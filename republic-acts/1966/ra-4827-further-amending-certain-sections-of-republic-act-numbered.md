@@ -42,6 +42,6 @@ Whenever the words "municipal judge" and "municipal court" appear in Republic Ac
 
 ## Section 4
 
-This Act shall take effect upon its approval.1avvphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1966.

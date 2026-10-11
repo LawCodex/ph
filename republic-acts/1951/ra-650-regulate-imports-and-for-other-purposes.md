@@ -101,7 +101,7 @@ All import licenses issued to any importer who is not a producer shall contain t
 
 ## Section 14
 
-All applications for quota allocations and import licenses and all quota allocations and import licenses granted, as well as decisions, policies, rulings, orders and actions issued or taken under this Act shall be given wide publicity. 1a⍵⍴h!1The rules and regulations shall be published at least ten days before their respective dates of effectivity, giving all interested parties the opportunity within that time to present their views for consideration.
+All applications for quota allocations and import licenses and all quota allocations and import licenses granted, as well as decisions, policies, rulings, orders and actions issued or taken under this Act shall be given wide publicity. The rules and regulations shall be published at least ten days before their respective dates of effectivity, giving all interested parties the opportunity within that time to present their views for consideration.
 
 ## Section 15
 

@@ -27,25 +27,41 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE I — TITLE
 
-**Section 1._Title._** – This Act shall be known as the **"_Citizen Armed Forces of the Philippines Reservist Act._ "**
+### Section 1
+
+_Title._ – This Act shall be known as the **"_Citizen Armed Forces of the Philippines Reservist Act._ "**
 
 ## ARTICLE II — DECLARATION OF POLICY
 
-**Section 2._The Regular Force._** – It is the policy of the State to maintain a standing or regular military force in times of peace consonant to its adequate and actual needs for the security of the State but which can be rapidly expanded by the well-disciplined Citizen Forces in the event of war, invasion or rebellion.
+### Section 2
 
-**Section 3._The Security and Socioeconomic Development of the State._** – The Citizen Armed Force shall be provided maximum opportunity to participate in safeguarding the security of the State and in assisting in socioeconomic development.
+_The Regular Force._ – It is the policy of the State to maintain a standing or regular military force in times of peace consonant to its adequate and actual needs for the security of the State but which can be rapidly expanded by the well-disciplined Citizen Forces in the event of war, invasion or rebellion.
 
-**Section 4._The Call to Personal Military and Civil Service._** – The Citizen Armed Force shall be so organized, trained, developed and maintained as to ensure their readiness to immediately respond to the call to service.
+### Section 3
 
-**Section 5._The Public Awareness._** – The State shall promote and develop public support to and awareness of the important role of the Citizen Armed Force as protector of the people and the State.
+_The Security and Socioeconomic Development of the State._ – The Citizen Armed Force shall be provided maximum opportunity to participate in safeguarding the security of the State and in assisting in socioeconomic development.
 
-**Section 6._The Manpower of the Citizen Armed Force._** – The manpower objective of the Citizen Armed Force shall conform to projected and actual needs. It is not envisioned by the State to have a nation under arms, unless extremely necessary.
+### Section 4
+
+_The Call to Personal Military and Civil Service._ – The Citizen Armed Force shall be so organized, trained, developed and maintained as to ensure their readiness to immediately respond to the call to service.
+
+### Section 5
+
+_The Public Awareness._ – The State shall promote and develop public support to and awareness of the important role of the Citizen Armed Force as protector of the people and the State.
+
+### Section 6
+
+_The Manpower of the Citizen Armed Force._ – The manpower objective of the Citizen Armed Force shall conform to projected and actual needs. It is not envisioned by the State to have a nation under arms, unless extremely necessary.
 
 ## ARTICLE III — MISSION AND ORGANIZATION OF THE CITIZEN ARMED FORCE
 
-**Section 7._Mission._** – The mission of the Citizen Armed Force, alternately referred to as the Reserve Force, is to provide the base for the expansion of the Armed Forces of the Philippines in the event of war, invasion or rebellion; to assist in relief and rescue during disaster or calamities; to assist in socioeconomic development; and to assist in the operation and maintenance of essential government or private utilities in the furtherance of overall mission.
+### Section 7
 
-**Section 8._Organization._** – The Reserve Force shall be organized into five (5) components, namely:
+_Mission._ – The mission of the Citizen Armed Force, alternately referred to as the Reserve Force, is to provide the base for the expansion of the Armed Forces of the Philippines in the event of war, invasion or rebellion; to assist in relief and rescue during disaster or calamities; to assist in socioeconomic development; and to assist in the operation and maintenance of essential government or private utilities in the furtherance of overall mission.
+
+### Section 8
+
+_Organization._ – The Reserve Force shall be organized into five (5) components, namely:
 
 (1) The Army Reserve Component;
 
@@ -57,13 +73,19 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (5) The Affiliated Reserves.
 
-**Section 9._Organization of Reserve Components._** – The organization of each component of the Reserve Force and the manpower objective of each component shall be as prescribed by the Secretary of National Defense and approved by the President of the Philippines. The organization, structure, manning and equipment of reserve units shall conform to the organization of the regular force. Reserve units of a battalion type or equivalent shall be organized on a provincial basis, and reserve units of a brigade and division type or equivalent, on a regional basis. The organizational structure and manning of the affiliated reserve units shall be prescribed by the Secretary of National Defense and shall as much as possible conform to their existing civilian organization.
+### Section 9
 
-**Section 10._Affiliated Reserves._** – As the President shall approved upon recommendation of the Secretary of National Defense, certain private and government entities, corporations, establishments and organizations at the national, provincial and municipal levels which provide essential public services such as water, light, transportation and communications which are necessary to support the prosecution of national defense plans or to meet an emergency shall be organized as affiliated units of the Reserve Force. These affiliated units shall be constituted by appropriate orders to be issued by the Secretary of National Defense, given unit designations and assigned to the appropriate reserve components of the Armed Forces of the Philippines (AFP). The roster of the officials and employees of these affiliated units shall be included in the orders of constituting the units. These units shall be so utilized in times of war or emergency to ensure the continuous and uninterrupted provision of the essential services they are rendering.
+_Organization of Reserve Components._ – The organization of each component of the Reserve Force and the manpower objective of each component shall be as prescribed by the Secretary of National Defense and approved by the President of the Philippines. The organization, structure, manning and equipment of reserve units shall conform to the organization of the regular force. Reserve units of a battalion type or equivalent shall be organized on a provincial basis, and reserve units of a brigade and division type or equivalent, on a regional basis. The organizational structure and manning of the affiliated reserve units shall be prescribed by the Secretary of National Defense and shall as much as possible conform to their existing civilian organization.
+
+### Section 10
+
+_Affiliated Reserves._ – As the President shall approved upon recommendation of the Secretary of National Defense, certain private and government entities, corporations, establishments and organizations at the national, provincial and municipal levels which provide essential public services such as water, light, transportation and communications which are necessary to support the prosecution of national defense plans or to meet an emergency shall be organized as affiliated units of the Reserve Force. These affiliated units shall be constituted by appropriate orders to be issued by the Secretary of National Defense, given unit designations and assigned to the appropriate reserve components of the Armed Forces of the Philippines (AFP). The roster of the officials and employees of these affiliated units shall be included in the orders of constituting the units. These units shall be so utilized in times of war or emergency to ensure the continuous and uninterrupted provision of the essential services they are rendering.
 
 ## ARTICLE IV — DEFINITION OF CITIZEN SOLDIERS
 
-**Section 11._Citizen Soldiers._** – The citizen soldiers, alternately reserved to as reservists, who compose the Reserve Force are those reservists of the Armed Forces of the Philippines who are incorporated into the Reserve Force, as follows:
+### Section 11
+
+_Citizen Soldiers._ – The citizen soldiers, alternately reserved to as reservists, who compose the Reserve Force are those reservists of the Armed Forces of the Philippines who are incorporated into the Reserve Force, as follows:
 
 (1) Graduates of the Reserve Officers' Training Corps (ROTC) basic and advance courses who were issued orders as enlisted reservists or reserve officers or the AFP;
 
@@ -79,7 +101,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE V — CATEGORIZATION AND CLASSIFICATION OF CITIZEN SOLDIERS
 
-**Section 12._Categorization of Citizen Soldiers._** – There shall be three (3) categories of citizen soldiers of AFP reservists: the First Category Reserve, the Second Category Reserve, and the Third Category Reserve based on age.
+### Section 12
+
+_Categorization of Citizen Soldiers._ – There shall be three (3) categories of citizen soldiers of AFP reservists: the First Category Reserve, the Second Category Reserve, and the Third Category Reserve based on age.
 
 (1) First Category Reserve. - The First Category Reserve shall be composed of able-bodied reservists whose ages are between eighteen (18) years and thirty-five (35) years, inclusive.
 
@@ -87,7 +111,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (3) Third Category Reserve. - The Third Category Reserve shall be composed of the all able-bodied reservists who are above fifty-one (51) years of age.
 
-**Section 13._Classification of Reserve Force Units._** – Based on the categorization provided in Section 12 above, the Reserve Force units shall further be classified into the Ready Reserve, the Standby Reserve and the Retired Reserve based in their operational readiness for immediate deployment/utilization.
+### Section 13
+
+_Classification of Reserve Force Units._ – Based on the categorization provided in Section 12 above, the Reserve Force units shall further be classified into the Ready Reserve, the Standby Reserve and the Retired Reserve based in their operational readiness for immediate deployment/utilization.
 
 (1) Ready Reserve. - The Ready Reserve shall be composed of citizen soldiers belonging mostly to the First Category Reserve and others as provided in this Act who shall be organized, trained and maintained as mobilizable ready reserve subject to call at any time to augment the regular armed force of the AFP not only in times of war or national emergency but also to meet local emergencies arising from calamities, disasters and threats to peace, order, security and stability in any locality, including the need to provide assistance in relief and rescue work and other civil assistance activities.
 
@@ -115,9 +141,13 @@ The following citizen soldiers may be exempted from rendering service with said 
 
 ## ARTICLE VI — MANPOWER DEVELOPMENT
 
-**Section 14._Compulsory Military Registration and Training._** – All male citizens between the ages of eighteen (18) and twenty-five (25) years who are not reservists shall be required to register for military instruction. Registration shall take place in suitable registration places to be prescribed by the city or municipal government between the dates of April First and Seventh commencing one (1) year after the effectivity of this Act. Biennial registrations shall be held during the same period in succeeding years.
+### Section 14
 
-**Section 15._Exemption from Compulsory Military Training._** – The following are exempted from military training:
+_Compulsory Military Registration and Training._ – All male citizens between the ages of eighteen (18) and twenty-five (25) years who are not reservists shall be required to register for military instruction. Registration shall take place in suitable registration places to be prescribed by the city or municipal government between the dates of April First and Seventh commencing one (1) year after the effectivity of this Act. Biennial registrations shall be held during the same period in succeeding years.
+
+### Section 15
+
+_Exemption from Compulsory Military Training._ – The following are exempted from military training:
 
 (1) Members of the clergy of any religious order or sect, except if they volunteer;
 
@@ -127,9 +157,13 @@ The following citizen soldiers may be exempted from rendering service with said 
 
 (4) Licensed air and maritime pilots, navigators and merchant marine officers.
 
-**Section 16._Registering Officer._** – For the purpose of registration as provided for in Section 14 hereof, the city/municipal treasurers of chartered cities and municipalities are hereby designated as registering officers. The Secretary of National Defense shall prescribe and provide the forms to be used in registration and prescribe the procedures for the conduct and reporting of the results of the registration.
+### Section 16
 
-**Section 17._Persons Disqualified or Exempted from Registration._** – The following persons are disqualified by law from employment in government service:
+_Registering Officer._ – For the purpose of registration as provided for in Section 14 hereof, the city/municipal treasurers of chartered cities and municipalities are hereby designated as registering officers. The Secretary of National Defense shall prescribe and provide the forms to be used in registration and prescribe the procedures for the conduct and reporting of the results of the registration.
+
+### Section 17
+
+_Persons Disqualified or Exempted from Registration._ – The following persons are disqualified by law from employment in government service:
 
 (1) Persons who are disqualified by law from employment in government service;
 
@@ -143,9 +177,13 @@ The following citizen soldiers may be exempted from rendering service with said 
 
 (6) Those persons who are constituted as members of affiliated units for the duration of time that they hold such membership: provided, that upon the termination of their membership, they shall be subject to military training.
 
-**Section 18._Selection of Registrants for Compulsory Training._** – Registrants who are to undergo compulsory training as provided for in this Act shall be selected in the month of May every year by drawing of lots by a board of canvassers. The Secretary of National Defense shall prescribe the procedure for the selection of registrants.
+### Section 18
 
-**Section 19._Board of Canvassers._** – There is hereby created a board of canvassers, one (1) for each province and chartered city, for the purpose of selecting the registrants who will undergo compulsory military training as provided for in Section 18 hereof. The board shall be composed of the following:
+_Selection of Registrants for Compulsory Training._ – Registrants who are to undergo compulsory training as provided for in this Act shall be selected in the month of May every year by drawing of lots by a board of canvassers. The Secretary of National Defense shall prescribe the procedure for the selection of registrants.
+
+### Section 19
+
+_Board of Canvassers._ – There is hereby created a board of canvassers, one (1) for each province and chartered city, for the purpose of selecting the registrants who will undergo compulsory military training as provided for in Section 18 hereof. The board shall be composed of the following:
 
 (1) IN PROVINCES
 
@@ -161,17 +199,29 @@ The following citizen soldiers may be exempted from rendering service with said 
 | City Fiscal | Member |
 | Chief of Police | Member |
 
-**Section 20._Quota for Compulsory Training._** – The Secretary of National Defense shall furnish each provincial governor and city mayor with the quota of registrants for compulsory military training to be drawn from their respective province or chartered city. The quota for the province shall be broken down into municipal quotes.
+### Section 20
 
-**Section 21._Acceptance of Registrants Volunteering for Military Training._** – Registrants who are not selected for compulsory military training but who volunteer for such training may be accepted and allowed to undergo military training: provided, that said volunteers shall physically qualify for fitness after examination for training and shall be made to execute a written statement that they volunteered for training at their own will.
+_Quota for Compulsory Training._ – The Secretary of National Defense shall furnish each provincial governor and city mayor with the quota of registrants for compulsory military training to be drawn from their respective province or chartered city. The quota for the province shall be broken down into municipal quotes.
 
-**Section 22._Registration of Citizens Residing or Working Abroad._** – Filipino citizens residing or working abroad, when they become liable to register for reservists' training under this Act, shall register with the nearest diplomatic or consular office of the Republic of the Philippines which shall transmit the registrants' data to the Secretary of National Defense.
+### Section 21
 
-**Section 23._Notice to Selected Registrants._** – The board of canvassers shall cause the immediate and adequate publication of the names of the registrants who have been selected in accordance with Section 18 hereof and at once notify the registrants concerned to report to the acceptance board of the city or municipality where they reside. The board of canvassers shall furnish each acceptance board with the list of the registrants whose names were drawn.
+_Acceptance of Registrants Volunteering for Military Training._ – Registrants who are not selected for compulsory military training but who volunteer for such training may be accepted and allowed to undergo military training: provided, that said volunteers shall physically qualify for fitness after examination for training and shall be made to execute a written statement that they volunteered for training at their own will.
 
-**Section 24._Acceptance Board._** – There is hereby created an acceptance board in each municipality and chartered city which shall examine and classify registrants whose names have been referred to it by the board of canvassers and pass upon the registrants' fitness for training and application for deferment, if any. The decision of the board shall be by majority vote. The Secretary of National Defense shall prescribe the procedure for the operation of the acceptance board.
+### Section 22
 
-**Section 25._Composition of the Acceptance Board._** – The board shall be composed as follows:
+_Registration of Citizens Residing or Working Abroad._ – Filipino citizens residing or working abroad, when they become liable to register for reservists' training under this Act, shall register with the nearest diplomatic or consular office of the Republic of the Philippines which shall transmit the registrants' data to the Secretary of National Defense.
+
+### Section 23
+
+_Notice to Selected Registrants._ – The board of canvassers shall cause the immediate and adequate publication of the names of the registrants who have been selected in accordance with Section 18 hereof and at once notify the registrants concerned to report to the acceptance board of the city or municipality where they reside. The board of canvassers shall furnish each acceptance board with the list of the registrants whose names were drawn.
+
+### Section 24
+
+_Acceptance Board._ – There is hereby created an acceptance board in each municipality and chartered city which shall examine and classify registrants whose names have been referred to it by the board of canvassers and pass upon the registrants' fitness for training and application for deferment, if any. The decision of the board shall be by majority vote. The Secretary of National Defense shall prescribe the procedure for the operation of the acceptance board.
+
+### Section 25
+
+_Composition of the Acceptance Board._ – The board shall be composed as follows:
 
 (1) IN CHARTERED CITIES
 
@@ -215,7 +265,9 @@ The following citizen soldiers may be exempted from rendering service with said 
 </tr>
 </table>
 
-**Section 26._Classification of Selected Registrants._** – Registrants shall undergo physical examination to be conducted by the health officer. The acceptance board shall then classify them into the following categories:
+### Section 26
+
+_Classification of Selected Registrants._ – Registrants shall undergo physical examination to be conducted by the health officer. The acceptance board shall then classify them into the following categories:
 
 (1) Class A - Fit for unlimited service;
 
@@ -225,7 +277,9 @@ The following citizen soldiers may be exempted from rendering service with said 
 
 (4) Class D - Exempted for mental/physical reasons.
 
-**Section 27._Deferment from Training._** – The acceptance board, upon evaluation of the evidence to support application for deferment, may grant deferment on the following grounds and conditions:
+### Section 27
+
+_Deferment from Training._ – The acceptance board, upon evaluation of the evidence to support application for deferment, may grant deferment on the following grounds and conditions:
 
 (1) Individuals who are indispensable to the support of their dependent families may be granted deferments not exceeding two (2) years after which they shall be subject to training;
 
@@ -241,71 +295,125 @@ The following citizen soldiers may be exempted from rendering service with said 
 
 (7) Elected officials and presidential appointees whose appointments are passed upon by the Commission on Appointments, during their incumbency.
 
-**Section 28._Appeal from Decision of the Acceptance Board._** – Where the acceptance board denies the claim of an individual for deferment, he may within thirty (30) days after receipt of written notification by the board appeal his case in writing directly to the Secretary of National Defense. The Secretary of National Defense shall be accorded the right to enjoy the right to be heard by himself and counsel and to present evidence in his behalf. The decision of the Secretary of National Defense or his duly authorized representative shall be final.
+### Section 28
 
-**Section 29._Expenses of the Acceptance Board._** – The expenses incident to the operation of the acceptance board shall be borne by the Department of National Defense which shall include the funds thereforee in its annual appropriations. The nature and amount of such expenses shall be prescribed by the Secretary of National Defense. The members of the acceptance board shall not receive any salary or compensation for their services in the board. They shall be entitled to receive allowances as the Secretary of National Defense shall prescribed.
+_Appeal from Decision of the Acceptance Board._ – Where the acceptance board denies the claim of an individual for deferment, he may within thirty (30) days after receipt of written notification by the board appeal his case in writing directly to the Secretary of National Defense. The Secretary of National Defense shall be accorded the right to enjoy the right to be heard by himself and counsel and to present evidence in his behalf. The decision of the Secretary of National Defense or his duly authorized representative shall be final.
 
-**Section 30._Final Acceptance by the Board._** – The registrants who shall have been finally qualified and selected by the acceptance board shall be reported to the Secretary of National Defense. Those selected shall upon instruction report to the designated military camp of unit for training.
+### Section 29
 
-**Section 31._Procurement of Reservist Officers and Noncommissioned Officers for Affiliated Reserve Units._** – Key officers and employees of government of private entities, corporations, establishment and organizations which have affiliated units shall be encouraged to undergo military training to qualify them as reserve officers or noncommissioned officers. As such, they shall be assigned to key positions in the affiliated units where they are employed and called to active service with these units once they are activated.
+_Expenses of the Acceptance Board._ – The expenses incident to the operation of the acceptance board shall be borne by the Department of National Defense which shall include the funds thereforee in its annual appropriations. The nature and amount of such expenses shall be prescribed by the Secretary of National Defense. The members of the acceptance board shall not receive any salary or compensation for their services in the board. They shall be entitled to receive allowances as the Secretary of National Defense shall prescribed.
 
-**Section 32._Security of Tenure in Government or Private Employment While on Military Training._** – An employee in the Government including one in a government-owned or controlled corporation or private employment with monthly operating volume of not less then Three hundred thousand pesos (P300,000.00) and not less than twenty (20) employees who undergoes military training shall not be separated or terminated from such employment, shall not be considered as having forfeited his seniority status, if any, and shall continue to receive the salary he was receiving prior to his call to military training. In the case of private employment, payment of basic salary during such military training. In the case of private employment, payment of basic salary during such military training shall be in accordance with existing laws or with his company's policies on its employees on leave from his employment. Upon termination of his military training, he shall resume his former position or, if not practicable, he shall be assigned to a new position without diminution of his pay discharged from such training or service; otherwise, his record of dishonorable discharge from military training or service shall be taken into account as to whether or not he should be reinstated to his former employment.
+### Section 30
 
-**Section 33._Draftee Training and Service._** – As may be ordered by the President, male citizen between the ages of eighteen (18) and thirty-five (35) shall be called to training and active service for a period not to exceed twenty-four (24) months, broken down into training period of not more than six (6) months and an active service period of not more than eighteen (18) months. Registrants will be selected for draftee training and service in accordance with Sections 14 to 26 hereof. A draftee may volunteer and be accepted for an extension of active service of not more than twelve (12) consecutive months, after which his services as draftee shall be terminated. A draftee during the period of his active duty service to include the extension of such service is entitled to receive all the pay and allowances due his grade as received by any member of the regular force: provided, that, upon termination of his draftee service, he shall receive a separation gratuity of not less than one (1) month salary for every year of his service to include the period of six (6) months shall be considered a complete year for purposes of this gratuity
+_Final Acceptance by the Board._ – The registrants who shall have been finally qualified and selected by the acceptance board shall be reported to the Secretary of National Defense. Those selected shall upon instruction report to the designated military camp of unit for training.
 
-**Section 34._Retention for Maximum Hospitalization._** – A reservist/draftee who is injured or contracts a disease or sickness while undergoing training and service, not due to his intentional misconduct, willful failure or neglect, or vicious or immoral habits, shall be retained beyond the period of his reservist/draftee service with his consent for the necessary hospitalization and medical care until such time that he recovers, or is determined that further hospitalization will not improve his condition. During the period of hospitalization, he shall be entitled to subsistence allowances and hospitalization benefits as are available to the members of the regular force who are patients armed forces hospitals.
+### Section 31
+
+_Procurement of Reservist Officers and Noncommissioned Officers for Affiliated Reserve Units._ – Key officers and employees of government of private entities, corporations, establishment and organizations which have affiliated units shall be encouraged to undergo military training to qualify them as reserve officers or noncommissioned officers. As such, they shall be assigned to key positions in the affiliated units where they are employed and called to active service with these units once they are activated.
+
+### Section 32
+
+_Security of Tenure in Government or Private Employment While on Military Training._ – An employee in the Government including one in a government-owned or controlled corporation or private employment with monthly operating volume of not less then Three hundred thousand pesos (P300,000.00) and not less than twenty (20) employees who undergoes military training shall not be separated or terminated from such employment, shall not be considered as having forfeited his seniority status, if any, and shall continue to receive the salary he was receiving prior to his call to military training. In the case of private employment, payment of basic salary during such military training. In the case of private employment, payment of basic salary during such military training shall be in accordance with existing laws or with his company's policies on its employees on leave from his employment. Upon termination of his military training, he shall resume his former position or, if not practicable, he shall be assigned to a new position without diminution of his pay discharged from such training or service; otherwise, his record of dishonorable discharge from military training or service shall be taken into account as to whether or not he should be reinstated to his former employment.
+
+### Section 33
+
+_Draftee Training and Service._ – As may be ordered by the President, male citizen between the ages of eighteen (18) and thirty-five (35) shall be called to training and active service for a period not to exceed twenty-four (24) months, broken down into training period of not more than six (6) months and an active service period of not more than eighteen (18) months. Registrants will be selected for draftee training and service in accordance with Sections 14 to 26 hereof. A draftee may volunteer and be accepted for an extension of active service of not more than twelve (12) consecutive months, after which his services as draftee shall be terminated. A draftee during the period of his active duty service to include the extension of such service is entitled to receive all the pay and allowances due his grade as received by any member of the regular force: provided, that, upon termination of his draftee service, he shall receive a separation gratuity of not less than one (1) month salary for every year of his service to include the period of six (6) months shall be considered a complete year for purposes of this gratuity
+
+### Section 34
+
+_Retention for Maximum Hospitalization._ – A reservist/draftee who is injured or contracts a disease or sickness while undergoing training and service, not due to his intentional misconduct, willful failure or neglect, or vicious or immoral habits, shall be retained beyond the period of his reservist/draftee service with his consent for the necessary hospitalization and medical care until such time that he recovers, or is determined that further hospitalization will not improve his condition. During the period of hospitalization, he shall be entitled to subsistence allowances and hospitalization benefits as are available to the members of the regular force who are patients armed forces hospitals.
 
 ## ARTICLE VII — CITIZEN MILITARY TRAINING
 
-**Section 35._Basic Citizen Military Training._** – Registrants finally selected for military training pursuant to Section 30 shall undergo a basic military training for a period of not more than six (6) months. The Secretary of National Defense shall prescribe the course of instruction.
+### Section 35
+
+_Basic Citizen Military Training._ – Registrants finally selected for military training pursuant to Section 30 shall undergo a basic military training for a period of not more than six (6) months. The Secretary of National Defense shall prescribe the course of instruction.
 
 The course of instruction shall include, among others, subject on moral virtues, patriotism, discipline, support for and adherence to the Constitution, and respect for the right of civilians.
 
-**Section 36._Citizen Military Training._** – There shall be established in every province at least one (1) training center for the conduct of citizen military and reservist training with a minimum training capacity of one (1) infantry rifle company at a time. These training centers shall form part of the reserve component organization of the major services and shall be referred to as citizen military training centers.
+### Section 36
 
-**Section 37._Incorporation into Training._** – Upon reporting to their assigned training centers, the selected registrants shall be physically examined and if found fit for the service shall be inducted into service. Where a change of training center is necessary to provide the requisite training, the commanding officer of the training center shall be authorized to issue the necessary orders covering his transportation and provide the funds for the purpose: provided, that no registrant shall be transferred to a training center outside his province or designated training center except in the case of Philippine Navy and Philippine Air Force registrants if there are no air or naval training centers thereat.
+_Citizen Military Training._ – There shall be established in every province at least one (1) training center for the conduct of citizen military and reservist training with a minimum training capacity of one (1) infantry rifle company at a time. These training centers shall form part of the reserve component organization of the major services and shall be referred to as citizen military training centers.
 
-**Section 38._Reserve Officers' Training Corps (ROTC)._** – Military training for students enrolled in colleges, universities and similar institutions of learning is mandatory pursuant to the provisions of the National Defense Act and the 1987 Constitution.
+### Section 37
 
-**Section 39._Establishment of ROTC Units in Schools._** – At such colleges, universities and similar institutions of learning that request for the conduct of military training in their institutions, there shall be established and maintained Reserve Officers" Training Corps units as the Secretary of National Defense may approve, which shall conduct military training for the students of such institutions for the purpose of producing enlisted and officer reservists. The program of instruction shall be prescribed by the Secretary of National Defense and may include instruction to prepare female students for military service: provided, that, such course of instruction shall not exceed two (2) academic years in the case of enlisted reservists, and four (4) academic years in the case of officer reservists which shall include as necessary summer or probationary training of not more than sixty (60) consecutive days, The first two (2) years ROTC training, which is mandatory, shall hereafter be referred to as basic ROTC while the second (2) years after said basic ROTC, which is voluntary, shall hereafter be referred to as advance ROTC. The allocation of ROTC units to the various majors services of the AFP shall conform to the projected manpower needs of their respective reserve components.
+_Incorporation into Training._ – Upon reporting to their assigned training centers, the selected registrants shall be physically examined and if found fit for the service shall be inducted into service. Where a change of training center is necessary to provide the requisite training, the commanding officer of the training center shall be authorized to issue the necessary orders covering his transportation and provide the funds for the purpose: provided, that no registrant shall be transferred to a training center outside his province or designated training center except in the case of Philippine Navy and Philippine Air Force registrants if there are no air or naval training centers thereat.
 
-**Section 40._Acceptance for Advance ROTC._** – Students who volunteer for advance ROTC shall be screened by an ROTC acceptance board which is hereby created for the purpose, composed of the commandant of the ROTC unit, a representative of the school nominated by the school authorities, and a military physician. The student volunteer shall be physically examined for fitness for training and shall further be made to execute in writing a testament that he volunteered for training of his own volition. Where the student is below eighteen (18) years of age, he shall be required to obtain his parent's or guardian's consent. In the case of student volunteering for reserve officers' training, they shall further be subject to competition examination in order to select the best material. The students undergoing advance ROTC shall be referred to as advance ROTC cadets.
+### Section 38
 
-**Section 41._Organization and staffing of ROTC Units._** – The Secretary of National Defense shall prescribe the organization and staffing of ROTC units. Reserve officers in the active service as well as qualified enlisted and officer reservists in the inactive status shall be given priority to handle training instruction and to assist in the administration and shall be entitled to receive honoraria and other allowances as the Secretary of National Defense shall prescribe.
+_Reserve Officers' Training Corps (ROTC)._ – Military training for students enrolled in colleges, universities and similar institutions of learning is mandatory pursuant to the provisions of the National Defense Act and the 1987 Constitution.
 
-**Section 42._Funds for Maintenance and Operation of school ROTC Units._** – The funds for the establishment, maintenance and operation of ROTC units shall be provided for in the regular annual appropriations of the Armed Forces of the Philippines. Such appropriations shall provide for the full funding support for advance ROTC only. The school of the student may not be required to spend any amount for the establishment, operation and maintenance of ROTC training: provided, that the school requesting for such establishment shall provide the training ground and office facilities free of charge. The advance ROTC cadets shall each be provided free two (2) suits of fatigue uniform with headgear, belt and one (1) pair of combat boots for the duration of the training. However, those taking the basic ROTC are required to pay a reasonable ROTC fee, the amount to determined by the Secretary of National Defense in coordination with the school official concerned.
+### Section 39
 
-**Section 43._Scholarship Incentive for Advance ROTC Training._** – Students undergoing advance ROTC who belong to the upper five percent (5%) of their academic class shall be provided a tuition subsidy of fifty percent (50%) of their annual tuition for the period of their advance ROTC. the funds for this purpose shall be carried in the annual appropriations of the AFP. The Chief of Staff, AFP shall promulgated the guidelines for the implementation of this provision.
+_Establishment of ROTC Units in Schools._ – At such colleges, universities and similar institutions of learning that request for the conduct of military training in their institutions, there shall be established and maintained Reserve Officers" Training Corps units as the Secretary of National Defense may approve, which shall conduct military training for the students of such institutions for the purpose of producing enlisted and officer reservists. The program of instruction shall be prescribed by the Secretary of National Defense and may include instruction to prepare female students for military service: provided, that, such course of instruction shall not exceed two (2) academic years in the case of enlisted reservists, and four (4) academic years in the case of officer reservists which shall include as necessary summer or probationary training of not more than sixty (60) consecutive days, The first two (2) years ROTC training, which is mandatory, shall hereafter be referred to as basic ROTC while the second (2) years after said basic ROTC, which is voluntary, shall hereafter be referred to as advance ROTC. The allocation of ROTC units to the various majors services of the AFP shall conform to the projected manpower needs of their respective reserve components.
+
+### Section 40
+
+_Acceptance for Advance ROTC._ – Students who volunteer for advance ROTC shall be screened by an ROTC acceptance board which is hereby created for the purpose, composed of the commandant of the ROTC unit, a representative of the school nominated by the school authorities, and a military physician. The student volunteer shall be physically examined for fitness for training and shall further be made to execute in writing a testament that he volunteered for training of his own volition. Where the student is below eighteen (18) years of age, he shall be required to obtain his parent's or guardian's consent. In the case of student volunteering for reserve officers' training, they shall further be subject to competition examination in order to select the best material. The students undergoing advance ROTC shall be referred to as advance ROTC cadets.
+
+### Section 41
+
+_Organization and staffing of ROTC Units._ – The Secretary of National Defense shall prescribe the organization and staffing of ROTC units. Reserve officers in the active service as well as qualified enlisted and officer reservists in the inactive status shall be given priority to handle training instruction and to assist in the administration and shall be entitled to receive honoraria and other allowances as the Secretary of National Defense shall prescribe.
+
+### Section 42
+
+_Funds for Maintenance and Operation of school ROTC Units._ – The funds for the establishment, maintenance and operation of ROTC units shall be provided for in the regular annual appropriations of the Armed Forces of the Philippines. Such appropriations shall provide for the full funding support for advance ROTC only. The school of the student may not be required to spend any amount for the establishment, operation and maintenance of ROTC training: provided, that the school requesting for such establishment shall provide the training ground and office facilities free of charge. The advance ROTC cadets shall each be provided free two (2) suits of fatigue uniform with headgear, belt and one (1) pair of combat boots for the duration of the training. However, those taking the basic ROTC are required to pay a reasonable ROTC fee, the amount to determined by the Secretary of National Defense in coordination with the school official concerned.
+
+### Section 43
+
+_Scholarship Incentive for Advance ROTC Training._ – Students undergoing advance ROTC who belong to the upper five percent (5%) of their academic class shall be provided a tuition subsidy of fifty percent (50%) of their annual tuition for the period of their advance ROTC. the funds for this purpose shall be carried in the annual appropriations of the AFP. The Chief of Staff, AFP shall promulgated the guidelines for the implementation of this provision.
 
 ## ARTICLE VIII — INCORPORATION INTO RESERVED FORCE
 
-**Section 44._Elected Officials and Presidential Appointees._** – Elected official appointees may be commissioned in the Reserve Force subject to the existing AFP rules and regulations.
+### Section 44
 
-**Section 45._Award of Ranks and Assignments to Reserve Units of Graduates of ROTC._** – Graduates of basic ROTC shall be given a reserve enlisted rank and serial number and assigned to reserve units and mobilization centers in their provinces. The ranks to be awarded shall be from private to sergeant or its equivalent: provided, that the quota for noncommissioned officers shall not exceed five percent (5%) of the authorized strength of the unit to which the reservists shall be assigned after graduation: provided, further, that those to be awarded rank above private shall be chosen based on merit. Those who continue to the advance ROTC course shall continue to carry their enlisted rank until after their successful completion of advance ROTC.
+_Elected Officials and Presidential Appointees._ – Elected official appointees may be commissioned in the Reserve Force subject to the existing AFP rules and regulations.
 
-**Section 46._Disposition of Graduates of Advance ROTC._** – Those who successfully completed the advance ROTC course shall be recommended for commission in the reserve as second lieutenants and assigned to the reserve units and mobilization centers in their provinces. Those with manifest potential may be commissioned in the regular force as second lieutenants subject of the criteria for regular officers of this rank for that particular service. Those who fail to complete the course shall be conferred the enlisted rank of sergeant or its equivalent and similarly assigned to reserve units and mobilization centers. Probationary training as a requisite before commissionship shall be determined by the major service concerned based on technical skills, experiences or qualifications of the applicants.
+### Section 45
 
-**Section 47._Notification of reserve assignment._** – The reservists shall be notified in writing of his assignment to a reserve unit and a mobilization center. He shall be made to acknowledge receipt in writing of such notification.
+_Award of Ranks and Assignments to Reserve Units of Graduates of ROTC._ – Graduates of basic ROTC shall be given a reserve enlisted rank and serial number and assigned to reserve units and mobilization centers in their provinces. The ranks to be awarded shall be from private to sergeant or its equivalent: provided, that the quota for noncommissioned officers shall not exceed five percent (5%) of the authorized strength of the unit to which the reservists shall be assigned after graduation: provided, further, that those to be awarded rank above private shall be chosen based on merit. Those who continue to the advance ROTC course shall continue to carry their enlisted rank until after their successful completion of advance ROTC.
 
-**Section 48._Reservists Registry._** – The Armed Forces of the Philippines shall provide all city/municipal treasurers of chartered cities and municipalities of the list of those who have successfully completed military training, indicating therein, among others, the rank, serial number, reserve unit assignment and mobilization center. It shall be the duty of the local civil registrar to maintain and update the reservists registry.
+### Section 46
+
+_Disposition of Graduates of Advance ROTC._ – Those who successfully completed the advance ROTC course shall be recommended for commission in the reserve as second lieutenants and assigned to the reserve units and mobilization centers in their provinces. Those with manifest potential may be commissioned in the regular force as second lieutenants subject of the criteria for regular officers of this rank for that particular service. Those who fail to complete the course shall be conferred the enlisted rank of sergeant or its equivalent and similarly assigned to reserve units and mobilization centers. Probationary training as a requisite before commissionship shall be determined by the major service concerned based on technical skills, experiences or qualifications of the applicants.
+
+### Section 47
+
+_Notification of reserve assignment._ – The reservists shall be notified in writing of his assignment to a reserve unit and a mobilization center. He shall be made to acknowledge receipt in writing of such notification.
+
+### Section 48
+
+_Reservists Registry._ – The Armed Forces of the Philippines shall provide all city/municipal treasurers of chartered cities and municipalities of the list of those who have successfully completed military training, indicating therein, among others, the rank, serial number, reserve unit assignment and mobilization center. It shall be the duty of the local civil registrar to maintain and update the reservists registry.
 
 ## ARTICLE IX — MAINTENANCE, TRAINING AND ADMINISTRATION OF RESERVE FORCE
 
-**Section 49._Accounting of Reservists._** – All reservists, particularly those belonging to the Ready and Standby Reserves, shall be accounted for, their records and status updated and present whereabouts ascertained in order to ensure their readiness to the call to duty. As far as practicable, the services of the national and local reservists and veterans organizations will be tapped to assist in the accounting of reservists.
+### Section 49
 
-**Section 50._Organization for Maintenance and Administration of the Reserve Force._** – The major services shall be responsible for the administration, training, equipage and maintenance of their respective reserve components subject to the regulations to be prescribed by the Secretary of National Defense. In the General Headquarters, AFP and in each Major Service Headquarters, there shall be a staff division of the level of the principal coordinating staff which shall be dedicated to planning and policy formulation for the administration, development, organization, training, equipage, maintenance and utilization of their respective Reserve Force component. The Chief of Staff, AFP shall create an AFP Reserve Command within one (1) year from the effectivity of this Act. In the case of the major services, there shall further be a separate unit dedicated to the implementation of such plans and policies. In staffing the command structure of these units, preference shall be given to qualified reserve officers in the active service and integrates.
+_Accounting of Reservists._ – All reservists, particularly those belonging to the Ready and Standby Reserves, shall be accounted for, their records and status updated and present whereabouts ascertained in order to ensure their readiness to the call to duty. As far as practicable, the services of the national and local reservists and veterans organizations will be tapped to assist in the accounting of reservists.
 
-**Section 51._Training of Individual Reservists and Reserve Units._** – Maximum opportunity shall be afforded the reservists to update their skills through compulsory or voluntary training. Such training shall have for its principal purpose the enhancement of the readiness of the individual reservists and reserve units to respond to the call to service. To this end, there shall be two (2) types of training:
+### Section 50
+
+_Organization for Maintenance and Administration of the Reserve Force._ – The major services shall be responsible for the administration, training, equipage and maintenance of their respective reserve components subject to the regulations to be prescribed by the Secretary of National Defense. In the General Headquarters, AFP and in each Major Service Headquarters, there shall be a staff division of the level of the principal coordinating staff which shall be dedicated to planning and policy formulation for the administration, development, organization, training, equipage, maintenance and utilization of their respective Reserve Force component. The Chief of Staff, AFP shall create an AFP Reserve Command within one (1) year from the effectivity of this Act. In the case of the major services, there shall further be a separate unit dedicated to the implementation of such plans and policies. In staffing the command structure of these units, preference shall be given to qualified reserve officers in the active service and integrates.
+
+### Section 51
+
+_Training of Individual Reservists and Reserve Units._ – Maximum opportunity shall be afforded the reservists to update their skills through compulsory or voluntary training. Such training shall have for its principal purpose the enhancement of the readiness of the individual reservists and reserve units to respond to the call to service. To this end, there shall be two (2) types of training:
 
 (1) Compulsory training of not less than thirty (30) days but not more than sixty (60) days for reserve units and/or individual reservists in a given year preferably to First Category Reservists; and
 
 (2) Voluntary training subject to the capability of the AFP to provide training. Individual reservists, commissioned and noncommissioned officers shall be encouraged to undergo training on a voluntary basis to upgrade their proficiency with priority to the officers of the Standby Reserve units. The Secretary of National Defense shall prescribe the course of instruction for the aforementioned training. The services of qualified individual enlisted and officer reservists shall be utilized to the maximum in the conduct of ROTC and reservists' training.
 
-**Section 52._Reserve Officers' Nonresident Instruction._** – Each major service shall conduct on a continuing basis non-resident instruction for the purpose of maintaining and updating the proficiency of its reservist officers, particularly key officers of Ready Reserve units. Such instruction shall prepare these reserve officers to assume duties up to brigade command and staff or equivalent. The reserve officers undertaking such course shall be given priority for call to annual duty training or service with their units or with other AFP units. Successful completion of the nonresident course will be equivalent to having undertaken one (1) annual active duty training tour.
+### Section 52
 
-**Section 53._Active Duty Tour for Training of Reserve Officers._** – In order to improve their professional competence and leadership qualities reserve officers in the inactive status shall be called active duty for a period not exceeding two (2) years without extension: provided, that the quota for such active duty shall as far as practicable be proportionately distributed to the provinces and cities based on their reserve units, with priority to units of Ready Reserve I: provided, further, that ;the reserve officers called to active duty shall as far as practicable serve in the province of their reserve unit assignment. A reserve officer who has served his tour shall not be called again to active duty until after five (5) years, except in case of mobilization.
+_Reserve Officers' Nonresident Instruction._ – Each major service shall conduct on a continuing basis non-resident instruction for the purpose of maintaining and updating the proficiency of its reservist officers, particularly key officers of Ready Reserve units. Such instruction shall prepare these reserve officers to assume duties up to brigade command and staff or equivalent. The reserve officers undertaking such course shall be given priority for call to annual duty training or service with their units or with other AFP units. Successful completion of the nonresident course will be equivalent to having undertaken one (1) annual active duty training tour.
 
-**Section 54._Classification and Maintenance of Readiness of Reserve Units._** – Units which are composed of reservists of the Ready Reserve shall be classified as to degree of readiness to respond the call to the service, as follows:
+### Section 53
+
+_Active Duty Tour for Training of Reserve Officers._ – In order to improve their professional competence and leadership qualities reserve officers in the inactive status shall be called active duty for a period not exceeding two (2) years without extension: provided, that the quota for such active duty shall as far as practicable be proportionately distributed to the provinces and cities based on their reserve units, with priority to units of Ready Reserve I: provided, further, that ;the reserve officers called to active duty shall as far as practicable serve in the province of their reserve unit assignment. A reserve officer who has served his tour shall not be called again to active duty until after five (5) years, except in case of mobilization.
+
+### Section 54
+
+_Classification and Maintenance of Readiness of Reserve Units._ – Units which are composed of reservists of the Ready Reserve shall be classified as to degree of readiness to respond the call to the service, as follows:
 
 (1) Ready Reserve I . - Units classified as Ready Reserve I shall be maintained in a high degree of readiness as to be ready for operational employment in not more than seven (7) days after activation. The individual and crew served weapons and individual clothing and equipment shall be ready for distribution upon their activation. The whereabouts of their reservists shall be constantly ascertained. As necessary, these units shall carry an excess of twenty percent (20%) of their authorized personnel strength to compensate for those who may fail to report or be late in reporting for duty.
 
@@ -313,17 +421,27 @@ The course of instruction shall include, among others, subject on moral virtues,
 
 The Chief of Staff, AFP shall select and recommend to the Secretary of National Defense the reserve units under Ready Reserve I and Ready Reserve II: provided, that in areas threatened by insurgency, there shall be at least one (1) unit of infantry battalion strength under readiness status of Ready Reserve I.
 
-**Section 55._Mobilization Stock._** – The minimum essential individual and organizational equipment and supplies shall be procured, stored and maintained for selected Ready Reserve units to enhance rapid transition to readiness required for employment in the shortest possible time.
+### Section 55
 
-**Section 56._Training as Requisite for Promotion._** – Successful completion of training pursuant to Sections 51 and 52 hereof shall be a requisite for promotion in rank in the inactive status.
+_Mobilization Stock._ – The minimum essential individual and organizational equipment and supplies shall be procured, stored and maintained for selected Ready Reserve units to enhance rapid transition to readiness required for employment in the shortest possible time.
 
-**Section 57._Classification of Reserve Officers in the Inactive Status._** – There shall be only one (1) classification of reserve officers in the inactive status regardless of their source or nature of commission. Likewise, There shall be only one (1) seniority and lineal list for all reservist officers in the inactive status regardless of their source of commission, subject to the rules and regulations to be prescribed by the Secretary of National Defense.
+### Section 56
 
-**Section 58._Status of Reservist on Training._** – Reservist on compulsory training shall be subject to military law. They shall not receive pay but shall be entitled to allowances and burial benefits as provided by law. Reservists on voluntary training are also subject to military law but shall be entitled to allowances.
+_Training as Requisite for Promotion._ – Successful completion of training pursuant to Sections 51 and 52 hereof shall be a requisite for promotion in rank in the inactive status.
+
+### Section 57
+
+_Classification of Reserve Officers in the Inactive Status._ – There shall be only one (1) classification of reserve officers in the inactive status regardless of their source or nature of commission. Likewise, There shall be only one (1) seniority and lineal list for all reservist officers in the inactive status regardless of their source of commission, subject to the rules and regulations to be prescribed by the Secretary of National Defense.
+
+### Section 58
+
+_Status of Reservist on Training._ – Reservist on compulsory training shall be subject to military law. They shall not receive pay but shall be entitled to allowances and burial benefits as provided by law. Reservists on voluntary training are also subject to military law but shall be entitled to allowances.
 
 ## ARTICLE X — UTILIZATION OF THE RESERVE FORCE
 
-**Section 59._Mobilization._** – The utilization of the Reserve Force in times of emergency to meet threats to national security shall be through mobilization:
+### Section 59
+
+_Mobilization._ – The utilization of the Reserve Force in times of emergency to meet threats to national security shall be through mobilization:
 
 (1) Full Mobilization. - Full mobilization shall be through the joint act of Congress and the President. When full mobilization is ordered, all units of the Ready and Standby Reserves will be activated, the reservists constituting them are called to active duty, and the units activated are placed on operational readiness. All other reservist not assigned to any unit or those assigned to reserve pools shall be organized into replacement units;
 
@@ -331,13 +449,21 @@ The Chief of Staff, AFP shall select and recommend to the Secretary of National 
 
 (3) Selective Mobilization. - Selective mobilization shall be by authority of the President. Selective mobilization may be ordered to meet a local threat or emergency situation. When so ordered, only selected units of the Ready Reserve of the Localities involved are activated and the reservist assigned to them are called to active duty; or active auxiliary units are organized and volunteer reservists are called to active auxiliary service for the purpose, under such rules and regulations as the Secretary of national Defense may prescribed.
 
-**Section 60._Status of Reservists under Mobilization._** – An enlisted or officer reservist when called to active duty by virtue of mobilization shall receive all the pay and allowances, medical care, hospitalization and other privileges and benefits prescribed by law or regulations for officers and enlisted personnel of the regular force.
+### Section 60
 
-**Section 61._Mobilization Centers._** – There shall be established in each province as many mobilization centers as needs corresponding to the number and distribution of reservists in the province to which reservists will report when mobilization is ordered. The citizen military training center in the provinces established under this Act may also be used as mobilization centers. The location of these centers shall be given the widest public information by the local executives.
+_Status of Reservists under Mobilization._ – An enlisted or officer reservist when called to active duty by virtue of mobilization shall receive all the pay and allowances, medical care, hospitalization and other privileges and benefits prescribed by law or regulations for officers and enlisted personnel of the regular force.
 
-**Section 62._Demobilization._** – When the threat or emergency for which demobilization had been ordered has passed, the President shall order the demobilization of the reserve units activated and the reservists of such deactivated units shall be reverted to inactive status.
+### Section 61
 
-**Section 63._Auxiliary Service._** – For the purpose of helping maintain local peace and order, meeting local insurgency threat, assisting in rescue and relief operations during disasters and calamities, health welfare activities and participating in local socioeconomic development projects, the President may call upon the reservists in the affected or concerned localities to volunteer their services. Such volunteer services shall be referred to as auxiliary service and shall be two (2) types:
+_Mobilization Centers._ – There shall be established in each province as many mobilization centers as needs corresponding to the number and distribution of reservists in the province to which reservists will report when mobilization is ordered. The citizen military training center in the provinces established under this Act may also be used as mobilization centers. The location of these centers shall be given the widest public information by the local executives.
+
+### Section 62
+
+_Demobilization._ – When the threat or emergency for which demobilization had been ordered has passed, the President shall order the demobilization of the reserve units activated and the reservists of such deactivated units shall be reverted to inactive status.
+
+### Section 63
+
+_Auxiliary Service._ – For the purpose of helping maintain local peace and order, meeting local insurgency threat, assisting in rescue and relief operations during disasters and calamities, health welfare activities and participating in local socioeconomic development projects, the President may call upon the reservists in the affected or concerned localities to volunteer their services. Such volunteer services shall be referred to as auxiliary service and shall be two (2) types:
 
 (1) Civil Auxiliary Service. - Civil auxiliary service covers services rendered in helping maintain law and order, assisting in rescue operations, participating in socioeconomic development projects, delivery of health services and any other nonmilitary activity. Female reservists shall be given greater participation in this regard. Reservists serving under this category shall not be armed. Those who have licensed firearms may be granted permit to carry firearms only when they are actually performing duties in maintaining peace and order, provided adequate control measures are instituted by the proper authorities concerning the carrying and use of firearms. In no case shall the reservists be vested with police powers.
 
@@ -345,13 +471,19 @@ The Chief of Staff, AFP shall select and recommend to the Secretary of National 
 
 The Secretary of National Defense shall prescribe rules and regulations to implement this section in coordination with the Secretary of the Interior and Local Government.
 
-**Section 64._Status of Reservists on Auxiliary Service._** – A reservist performing auxiliary service shall not receive payment but shall be entitled to receive allowances and burial benefits as provided by law. With this consent, a reservist may continue to render such services without receiving the allowances due him. A reservist serving military auxiliary services is subject to military law; whereas, a reservist serving civil auxiliary service is not.
+### Section 64
 
-**Section 65._Women Reservists._** – Women shall have the right and duty to serve in AFP. The relevant standards for admission, training and commissioning of women shall be the same as those required for men, except for those essential adjustment in such standards required because of physiological differences between men and women.
+_Status of Reservists on Auxiliary Service._ – A reservist performing auxiliary service shall not receive payment but shall be entitled to receive allowances and burial benefits as provided by law. With this consent, a reservist may continue to render such services without receiving the allowances due him. A reservist serving military auxiliary services is subject to military law; whereas, a reservist serving civil auxiliary service is not.
+
+### Section 65
+
+_Women Reservists._ – Women shall have the right and duty to serve in AFP. The relevant standards for admission, training and commissioning of women shall be the same as those required for men, except for those essential adjustment in such standards required because of physiological differences between men and women.
 
 ## ARTICLE XI — FUNDING
 
-**Section 66._Funding._** – All funds previously appropriated for the administration, development and training of the reserve component of the AFP and which will subsequently and hereafter be appropriated for the purpose shall be used exclusively for the purpose shall be used exclusively for the purpose of implementing the provisions of this Act.
+### Section 66
+
+_Funding._ – All funds previously appropriated for the administration, development and training of the reserve component of the AFP and which will subsequently and hereafter be appropriated for the purpose shall be used exclusively for the purpose shall be used exclusively for the purpose of implementing the provisions of this Act.
 
 To sustain the efficient and effective administration, organization, training, maintenance and utilization of Ready Reserve units and keep them appropriately and adequately equipped an in a state of readiness, as well as provide for the adequate training of citizen soldiers or reservists, adequate funds for this purpose, as may be requested or recommended by the AFP, shall be appropriated and made available on a continuing basis.
 
@@ -359,18 +491,28 @@ The President shall utilize a portion of the Military Assistance Fund available 
 
 ## ARTICLE XII — TRANSITORY PROVISIONS
 
-**Section 67._Retention of ROTC Units in Colleges and Universities._** – ROTC units in college and universities shall continue with ROTC training in accordance with this Act.
+### Section 67
+
+_Retention of ROTC Units in Colleges and Universities._ – ROTC units in college and universities shall continue with ROTC training in accordance with this Act.
 
 ## ARTICLE XIII — PENALTIES
 
-**Section 68._Penalties._** – Failure of reservists to respond to the call to compulsory training or service shall be punishable in accordance with the Articles of War, and those convicted by a court martial shall be liable for imprisonment of not less than two (2) months to not more than twelve (12) months. Citizen who fail to register for compulsory military training or who after having selected to undergo such training or who after having selected to undergo such training and had been notified thereof fail to report for training shall, upon conviction by the civil court, be punishable and liable for imprisonment of not less than one (1) month to not more than three (3) months.
+### Section 68
 
-**Section 69._Failure to Provide Updated List of Registrants._** – Failure of registrars and canvassers to provide an updated listing of registrants under their responsibility shall, upon conviction by civil court, be punishable and liable for imprisonment of not less than one (1) month to not more than three (3) months under Sections 16 and 19 of this Act.
+_Penalties._ – Failure of reservists to respond to the call to compulsory training or service shall be punishable in accordance with the Articles of War, and those convicted by a court martial shall be liable for imprisonment of not less than two (2) months to not more than twelve (12) months. Citizen who fail to register for compulsory military training or who after having selected to undergo such training or who after having selected to undergo such training and had been notified thereof fail to report for training shall, upon conviction by the civil court, be punishable and liable for imprisonment of not less than one (1) month to not more than three (3) months.
+
+### Section 69
+
+_Failure to Provide Updated List of Registrants._ – Failure of registrars and canvassers to provide an updated listing of registrants under their responsibility shall, upon conviction by civil court, be punishable and liable for imprisonment of not less than one (1) month to not more than three (3) months under Sections 16 and 19 of this Act.
 
 ## ARTICLE XIV — RESCISSION AND EFFECTIVITY
 
-**Section 70._Repealing Clause._** – All laws, decrees, executive orders, rules and regulations which are inconsistent or in conflict with any provision of this Act are hereby repealed or amended.
+### Section 70
 
-**Section 71._Effectivity Clause._** – This Act shall take effect upon its approval.
+_Repealing Clause._ – All laws, decrees, executive orders, rules and regulations which are inconsistent or in conflict with any provision of this Act are hereby repealed or amended.
+
+### Section 71
+
+_Effectivity Clause._ – This Act shall take effect upon its approval.
 
 Approved: **June 27, 1991**.

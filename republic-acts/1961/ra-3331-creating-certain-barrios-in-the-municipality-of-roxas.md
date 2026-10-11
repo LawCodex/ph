@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitios of San Miguel, Arasan, New Cuyo, Salvacion and Narra in the Municipality of Roxas, Province of Palawan, are converted into barrios of said municipality, to be known as the barrios of San Miguel, Arasan, New Cuyo, Salvacion and Narra, respectively.1avvphi1
+The sitios of San Miguel, Arasan, New Cuyo, Salvacion and Narra in the Municipality of Roxas, Province of Palawan, are converted into barrios of said municipality, to be known as the barrios of San Miguel, Arasan, New Cuyo, Salvacion and Narra, respectively.
 
 ## Section 2
 

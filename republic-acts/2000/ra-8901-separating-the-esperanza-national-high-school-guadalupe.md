@@ -31,7 +31,7 @@ The Esperanza National High School -Guadalupe Annex at Guadalupe, Municipality o
 
 ## Section 2
 
-The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.ℒαwρhi৷
+The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
 
 ## Section 3
 

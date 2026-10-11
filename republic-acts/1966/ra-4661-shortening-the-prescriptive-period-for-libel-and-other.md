@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Article ninety of the Revised Penal Code is hereby amended to read as follows:
 
-"Art. 90. _Prescription of crimes.—_ Crimes punishable by death, reclusion perpetua or reclusion temporal shall prescribe in twenty years.1avvphi1
+"Art. 90. _Prescription of crimes.—_ Crimes punishable by death, reclusion perpetua or reclusion temporal shall prescribe in twenty years.
 
 "Crimes punishable by other afflictive penalties shall prescribe in fifteen years.
 

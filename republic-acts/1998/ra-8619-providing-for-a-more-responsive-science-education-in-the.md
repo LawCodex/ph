@@ -77,7 +77,7 @@ The same Act is hereby amended by adding a new section after Section 7 to be den
 
 Section 8 of the same Act is hereby amended to read as follows:
 
-"**Section 8.** The head of the school shall be known as the Director of PSHS-Camarines Sur Campus.£a⩊phi£ He shall be appointed by the chairman subject to the approval of the Board. His compensation shall be fixed by the Board of Trustees in accordance with existing compensation laws. He shall not be removed from his position except for cause. His functions, powers and duties in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the principal of a public high school."
+"**Section 8.** The head of the school shall be known as the Director of PSHS-Camarines Sur Campus. He shall be appointed by the chairman subject to the approval of the Board. His compensation shall be fixed by the Board of Trustees in accordance with existing compensation laws. He shall not be removed from his position except for cause. His functions, powers and duties in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the principal of a public high school."
 
 ## Section 6
 

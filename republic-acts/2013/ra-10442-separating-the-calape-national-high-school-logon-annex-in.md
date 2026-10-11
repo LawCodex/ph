@@ -34,7 +34,7 @@ _Separation and Conversion into a National High School._ – The Calape National
 
 ## Section 2
 
-_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Calape National High School – Logon Annex are hereby transferred to and absorbed by the Logon National High School.1âwphi1
+_Transfer of Assets and Liabilities._ – All personnel, assets, liabilities and records of the Calape National High School – Logon Annex are hereby transferred to and absorbed by the Logon National High School.
 
 ## Section 3
 

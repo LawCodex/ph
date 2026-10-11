@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established an emergency hospital in the Municipality of Kitcharao, Province of Agusan del Norte, to be known as the Kitcharao Emergency Hospital.1âшphi1
+There shall be established an emergency hospital in the Municipality of Kitcharao, Province of Agusan del Norte, to be known as the Kitcharao Emergency Hospital.
 
 ## Section 2
 

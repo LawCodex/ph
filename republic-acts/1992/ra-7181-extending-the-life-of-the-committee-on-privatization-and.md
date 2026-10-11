@@ -47,7 +47,7 @@ b. Assets for disposal shall not revert to previous owners who after final judgm
 
 c. Privatization of government assets classified as a strategic industry by the National Economic and Development Authority shall first be approved by the President of the Philippines.
 
-d. A minimum of ten (10) percent of the sale of assets in corporation form shall first be offered to small local investors including Filipino Overseas Workers and where practicable also in the sale of any physical asset.1âшphi1
+d. A minimum of ten (10) percent of the sale of assets in corporation form shall first be offered to small local investors including Filipino Overseas Workers and where practicable also in the sale of any physical asset.
 
 e. Sale of all assets shall be published in at least (3) national newspapers of general circulation for three (3) consecutive days: _Provided,_ That the first publication shall occur at least ten (10) days prior to the scheduled bidding date or date of negotiation.
 

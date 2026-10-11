@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-In order to honor the memory of the late Tomas Confesor as a model Filipino citizen and inspiration of our people, March Two of every year is hereby declared as a special working holiday in the whole province of Iloilo.1âшphi1
+In order to honor the memory of the late Tomas Confesor as a model Filipino citizen and inspiration of our people, March Two of every year is hereby declared as a special working holiday in the whole province of Iloilo.
 
 ## Section 2
 

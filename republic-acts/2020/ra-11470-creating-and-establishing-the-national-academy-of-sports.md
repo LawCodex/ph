@@ -153,7 +153,7 @@ _Treasurer of the NAS System._ \- There shall be a Treasurer of the NAS System w
 
 The Treasurer shall be appointed by the Executive Director, with the approval of the Board.
 
-All accounts and expenses of the NAS System shall be audited by the COA or its duly authorized representative.ℒαwρhi৷
+All accounts and expenses of the NAS System shall be audited by the COA or its duly authorized representative.
 
 ## Section 16
 
@@ -173,7 +173,7 @@ _Tax Deduction and Exemption of Donations and Contributions._ \- All grants, leg
 
 ## Section 19
 
-_Campuses._ \- The Board shall provide for policies for the organization of future regional nationally-funded high schools for sports.ℒαwρhi৷ The Board shall also provide for policies to enter into a memorandum of agreement with existing locally funded high schools for sports for consideration as extension campuses or branches of the NAS System. The extension campuses shall be organized in coordination with the concerned local government unit, the DepEd, and the PSC, and in consultation with the DBM.
+_Campuses._ \- The Board shall provide for policies for the organization of future regional nationally-funded high schools for sports. The Board shall also provide for policies to enter into a memorandum of agreement with existing locally funded high schools for sports for consideration as extension campuses or branches of the NAS System. The extension campuses shall be organized in coordination with the concerned local government unit, the DepEd, and the PSC, and in consultation with the DBM.
 
 ## Section 20
 

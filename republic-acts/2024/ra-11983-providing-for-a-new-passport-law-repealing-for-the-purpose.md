@@ -339,7 +339,7 @@ _Offenses and Penalties._ \- (a) Offenses relating to illegal withholding of pas
 
 (g) Syndicate or on a large scale. - The penalties provided for under this section shall be imposed in their maximum when the offenses are committed by a syndicate or on a large scale.
 
-The offense is deemed committed by a syndicate if carried out by a group of three (3) or more persons conspiring or confederating with one another.1aшphi1 It is deemed committed on a large scale if committed against three (3) or more persons, individually or as a group.
+The offense is deemed committed by a syndicate if carried out by a group of three (3) or more persons conspiring or confederating with one another. It is deemed committed on a large scale if committed against three (3) or more persons, individually or as a group.
 
 (h) Offender is a public official. - In addition to the penalties prescribed in this section, the offender shall be dismissed from service and shall suffer perpetual absolute disqualification to hold public office.
 

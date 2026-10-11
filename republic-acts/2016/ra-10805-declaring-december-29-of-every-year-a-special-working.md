@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-December 29 of every year is declared a special working holiday and no class day in schools in the Municipality of Leon, Province of Iloilo in honor of Captain Jose Calugas Sr. to be known as "Jose Calugas Day".ℒαwρhi৷
+December 29 of every year is declared a special working holiday and no class day in schools in the Municipality of Leon, Province of Iloilo in honor of Captain Jose Calugas Sr. to be known as "Jose Calugas Day".
 
 ## Section 2
 

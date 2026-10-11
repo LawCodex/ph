@@ -179,7 +179,7 @@ The impact evaluation report shall be submitted to Congress not later than six (
 
 ## Section 21
 
-_Appropriations._ The amount necessary for the implementation of this Act shall be charged against those authorized in the current appropriations of the DepEd. Thereafter, the amount necessary for its continuous implementation shall be included in the annual General Appropriations Act.ℒαwρhi৷
+_Appropriations._ The amount necessary for the implementation of this Act shall be charged against those authorized in the current appropriations of the DepEd. Thereafter, the amount necessary for its continuous implementation shall be included in the annual General Appropriations Act.
 
 The LGUs concerned may provide the necessary funds for the purpose charged against the SEF.
 

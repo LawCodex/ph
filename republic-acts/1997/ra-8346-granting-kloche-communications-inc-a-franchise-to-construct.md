@@ -40,7 +40,7 @@ _Authority of the National Telecommunications Commission._ – The grantee shall
 
 ## Section 4
 
-_Responsibility to the Public._ – The grantee shall conform to the ethics of honest enterprise and shall not use its stations for obscene or indecent transmission or for dissemination of deliberately false information or willful misrepresentation, or assist in subversive or treasonable acts.1aшphi1
+_Responsibility to the Public._ – The grantee shall conform to the ethics of honest enterprise and shall not use its stations for obscene or indecent transmission or for dissemination of deliberately false information or willful misrepresentation, or assist in subversive or treasonable acts.
 
 The grantee shall operate and maintain all its stations, lines, cables, systems and equipment for the transmission and reception of messages, signals and pulses in a satisfactory manner at all times, and as far as economical and practicable, modify, improve or change such stations, lines, cables, systems and equipment to keep abreast with the advances in science and technology.
 

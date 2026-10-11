@@ -41,7 +41,7 @@ The Secretary of Education is hereby further authorized to reorganize, on the re
 
 ## Section 5
 
-The sum of two hundred fifty thousand pesos or so much thereof as may be necessary to carry out the purposes of this Act is hereby appropriated out of any funds in the National Treasury, not otherwise appropriated.1avvphi1 Thereafter, the necessary amount to maintain the two school divisions as established and reorganized in accordance with this Act shall be included in the annual General Appropriations Act.
+The sum of two hundred fifty thousand pesos or so much thereof as may be necessary to carry out the purposes of this Act is hereby appropriated out of any funds in the National Treasury, not otherwise appropriated. Thereafter, the necessary amount to maintain the two school divisions as established and reorganized in accordance with this Act shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

@@ -31,7 +31,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Barangay San Isidro in the Municipality of Lupon, Province of Davao Oriental is hereby renamed as Barangay Ernesto D. Violan.ᇈWᑭHIL
+Barangay San Isidro in the Municipality of Lupon, Province of Davao Oriental is hereby renamed as Barangay Ernesto D. Violan.
 
 ## Section 2
 
@@ -41,7 +41,7 @@ The expenses for such plebiscite shall be borne by the Municipality of Lupon, Pr
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

@@ -292,7 +292,7 @@ _Separability Clause. —_ If, for any reason, any section or provision of this 
 
 ### Section 31
 
-_Repealing Clause. —_ All laws, decrees, executive orders, rules and regulations or parts thereof inconsistent with any of the provisions of this Act, including Section 63(b) of Republic Act No. 6657, as amended, otherwise known as the Comprehensive Agrarian Reform Law of 1988 and Section 40(a) of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby repealed, amended or modified accordingly.1âwphi1
+_Repealing Clause. —_ All laws, decrees, executive orders, rules and regulations or parts thereof inconsistent with any of the provisions of this Act, including Section 63(b) of Republic Act No. 6657, as amended, otherwise known as the Comprehensive Agrarian Reform Law of 1988 and Section 40(a) of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby repealed, amended or modified accordingly.
 
 ### Section 32
 

@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of Barrio Soledad in the Municipality of Binalbagan, Province of Negros Occidental, is hereby changed to Barrio Payao.1âшphi1
+The name of Barrio Soledad in the Municipality of Binalbagan, Province of Negros Occidental, is hereby changed to Barrio Payao.
 
 ## Section 2
 

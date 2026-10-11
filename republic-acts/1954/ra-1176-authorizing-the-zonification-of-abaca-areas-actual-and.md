@@ -54,7 +54,7 @@ The abaca planters in the zonified abaca zones shall organize themselves and for
 
 ## Section 7
 
-Such portion of the fiber inspection fees as may be collected from abaca fibers coming from the abaca zones for the control of abaca mosaic disease shall be expended by the association in that area under the supervision of the Director of Plant Industry: _Provided,_ However, That the owners of the plantations within the zonified ares under section two of this Act shall provide the mosaic control association through the Bureau of Plant Industry the necessary chemicals and laborers to be utilized in the campaign for the control of the mosaic disease, the aid facilities to depend upon the degree of infestation as may be determined by the Secretary of Agriculture and Natural Resources upon the recommendation of the Director of Plant Industry.1âшphi1
+Such portion of the fiber inspection fees as may be collected from abaca fibers coming from the abaca zones for the control of abaca mosaic disease shall be expended by the association in that area under the supervision of the Director of Plant Industry: _Provided,_ However, That the owners of the plantations within the zonified ares under section two of this Act shall provide the mosaic control association through the Bureau of Plant Industry the necessary chemicals and laborers to be utilized in the campaign for the control of the mosaic disease, the aid facilities to depend upon the degree of infestation as may be determined by the Secretary of Agriculture and Natural Resources upon the recommendation of the Director of Plant Industry.
 
 ## Section 8
 

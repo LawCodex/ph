@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Pototan High School in the Municipality of Pototan, Province of Iloilo, is hereby converted into a national vocational school to be known as the Pototan National Vocational School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.1âшphi1
+The Pototan High School in the Municipality of Pototan, Province of Iloilo, is hereby converted into a national vocational school to be known as the Pototan National Vocational School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
 
 ## Section 2
 

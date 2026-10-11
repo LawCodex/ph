@@ -34,7 +34,7 @@ There shall be established, under the supervision of the Department of Public Wo
 
 ## Section 2
 
-The said district engineering office shall comprise the cities of Lapu-Lapu and Mandaue and the municipalities of Consolacion and Cordova.7!ᕼdMᗄ7
+The said district engineering office shall comprise the cities of Lapu-Lapu and Mandaue and the municipalities of Consolacion and Cordova.
 
 ## Section 3
 

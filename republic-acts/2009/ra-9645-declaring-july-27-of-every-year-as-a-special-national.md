@@ -29,15 +29,25 @@ AN ACT DECLARING JULY 27 OF EVERY YEAR AS A SPECIAL NATIONAL WORKING HOLIDAY IN 
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Short Title._** \- This Act shall be known and cited as the "Commemoration of the Founding Anniversary of Iglesia ni Cristo Act".
+## Section 1
 
-**Section 2._Declaration of Policy._** \- It is the declared policy of the State to observe the founding anniversary of the Iglesia ni Cristo every 27th of July in recognition of its exemplary feat of leading its members towards spiritual enlightenment and good citizenry.
+_Short Title._ \- This Act shall be known and cited as the "Commemoration of the Founding Anniversary of Iglesia ni Cristo Act".
 
-**Section 3._National Holiday._** \- July 27 of every year is hereby declared as a special national working holiday in commemoration of the founding anniversary of the Iglesia ni Cristo in the Philippines.
+## Section 2
 
-**Section 4._Repealing Clause._** \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+_Declaration of Policy._ \- It is the declared policy of the State to observe the founding anniversary of the Iglesia ni Cristo every 27th of July in recognition of its exemplary feat of leading its members towards spiritual enlightenment and good citizenry.
 
-**Section 5._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+## Section 3
+
+_National Holiday._ \- July 27 of every year is hereby declared as a special national working holiday in commemoration of the founding anniversary of the Iglesia ni Cristo in the Philippines.
+
+## Section 4
+
+_Repealing Clause._ \- Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+## Section 5
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

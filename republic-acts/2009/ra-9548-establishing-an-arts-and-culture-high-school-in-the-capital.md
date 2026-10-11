@@ -28,13 +28,21 @@ AN ACT ESTABLISHING AN ARTS AND CULTURE HIGH SCHOOL IN THE CAPITAL TOWN OF PILI,
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Establishment of an Arts and Culture High School._** \- There is hereby established, under the supervision of the Department of Education, an arts and culture high school in the capital town of Pili, Province of Camarines Sur to be known as the Bikol High School for Arts and Culture.
+## Section 1
 
-**Section 2._Appropriations._** \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Bikol High School for Arts and Culture, the funding of which shall be included in the annual General Appropriations Act.
+_Establishment of an Arts and Culture High School._ \- There is hereby established, under the supervision of the Department of Education, an arts and culture high school in the capital town of Pili, Province of Camarines Sur to be known as the Bikol High School for Arts and Culture.
 
-**Section 3._Implementation._** \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+## Section 2
 
-**Section 4._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
+_Appropriations._ \- The Secretary of Education shall immediately include in the Department's program the operationalization of the Bikol High School for Arts and Culture, the funding of which shall be included in the annual General Appropriations Act.
+
+## Section 3
+
+_Implementation._ \- The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+## Section 4
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in the _Official Gazette._
 
 Approved,
 

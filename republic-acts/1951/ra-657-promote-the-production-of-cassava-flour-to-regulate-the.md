@@ -29,7 +29,7 @@ It is hereby declared to be in the interest of the country's economy and the dev
 
 ## Section 2
 
-For the purpose of carrying out the policy set forth in section one of this Act, the Price Stabilization Corporation is hereby authorized and directed to prescribe as a condition for the issuance of any license to import wheat flour from abroad that the importer shall buy cassava flour in such proportions, not to exceed thirty (30%) per centum of wheat flour by weight, as may be prescribed by the Administrator of Economic Coordination, and shall sell cassava flour and wheat flour in the same proportions.1a⍵⍴h!1
+For the purpose of carrying out the policy set forth in section one of this Act, the Price Stabilization Corporation is hereby authorized and directed to prescribe as a condition for the issuance of any license to import wheat flour from abroad that the importer shall buy cassava flour in such proportions, not to exceed thirty (30%) per centum of wheat flour by weight, as may be prescribed by the Administrator of Economic Coordination, and shall sell cassava flour and wheat flour in the same proportions.
 
 ## Section 3
 

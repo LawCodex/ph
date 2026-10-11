@@ -52,7 +52,7 @@ The Veterinary Examining Board shall consist of three reputable veterinarians ap
 
 ## Section 8
 
-It shall be the duty of the Veterinary Examining Board to examine the applications, diplomas, affidavits and proof of all applicants, and when satisfied of the genuineness of the same, it shall examine all applicants for examination and shall issue a license to each person successful passing the examination.1a⍵⍴h!1
+It shall be the duty of the Veterinary Examining Board to examine the applications, diplomas, affidavits and proof of all applicants, and when satisfied of the genuineness of the same, it shall examine all applicants for examination and shall issue a license to each person successful passing the examination.
 
 The Veterinary Examining Board may refuse to if or may suspend, or revoke any license for any one or any combination of the following causes:
 

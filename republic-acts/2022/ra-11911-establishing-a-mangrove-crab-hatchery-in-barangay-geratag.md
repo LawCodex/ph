@@ -40,7 +40,7 @@ Within two (2) years after the construction of the mangrove crab hatchery, the B
 
 ## Section 3
 
-The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of mangrove crab species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.⚖ - ℒαɯρhi৷
+The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of mangrove crab species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.
 
 ## Section 4
 

@@ -33,6 +33,6 @@ The Tunga Barangay High School in the Municipality of Tunga, Province of Leyte, 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved, May 19, 1994.

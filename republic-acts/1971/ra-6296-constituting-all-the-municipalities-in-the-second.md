@@ -28,7 +28,7 @@ Any provision of law to the contrary notwithstanding, the entire second congress
 
 ## Section 2
 
-The said public highways engineering district and public works engineering district shall each have a district engineer who shall be appointed in accordance with law.1âшphi1
+The said public highways engineering district and public works engineering district shall each have a district engineer who shall be appointed in accordance with law.
 
 ## Section 3
 

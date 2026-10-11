@@ -33,7 +33,7 @@ The Institute of Social Work and Community Development may, for the purpose of t
 
 ## Section 3
 
-In pursuance of its projects and activities in teaching, research and extension services, the Institute may avail itself of the other services, facilities, equipment and research materials of any government and/or private agencies or offices.1avvphi1 The Institute may likewise undertake joint or cooperative research and extension projects with other government and private agencies.
+In pursuance of its projects and activities in teaching, research and extension services, the Institute may avail itself of the other services, facilities, equipment and research materials of any government and/or private agencies or offices. The Institute may likewise undertake joint or cooperative research and extension projects with other government and private agencies.
 
 ## Section 4
 

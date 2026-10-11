@@ -33,7 +33,7 @@ For purposes of this Act, poor but deserving students refer to those whose paren
 
 Sixty per centum (60%) of said salary or wage shall be paid by the employer in cash and forty per centum (40%) by the Government in the form of a voucher which shall be applicable in the payment for his tuition fees and books in any educational institution for secondary, tertiary, vocational or technological education. The amount of the education voucher shall be paid by the Government to the educational institution concerned within thirty (30) days from its presentation to the officer or agency designated by the Secretary of Finance.
 
-The voucher shall not be transferable except when the payee thereof dies or for a justifiable cause stops in his duties in which case it can be transferred to his brothers or sisters. If there be none, the amount thereof shall be paid his heirs or to the payee himself, as the case may be.1âшphi1
+The voucher shall not be transferable except when the payee thereof dies or for a justifiable cause stops in his duties in which case it can be transferred to his brothers or sisters. If there be none, the amount thereof shall be paid his heirs or to the payee himself, as the case may be.
 
 ## Section 3
 

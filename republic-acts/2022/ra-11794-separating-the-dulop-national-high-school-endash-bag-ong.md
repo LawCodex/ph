@@ -34,7 +34,7 @@ The Dulop National High School - Bag-ong Valencia Extension in Barangay Bag-ong 
 
 ## Section 2
 
-All personnel, assets, liabilities and records of the Dulop National High School - Bag-ong Valencia Extension are hereby transferred to and absorbed by the Bag-ong Valencia Agricultural National High School.ℒαwρhi৷
+All personnel, assets, liabilities and records of the Dulop National High School - Bag-ong Valencia Extension are hereby transferred to and absorbed by the Bag-ong Valencia Agricultural National High School.
 
 ## Section 3
 

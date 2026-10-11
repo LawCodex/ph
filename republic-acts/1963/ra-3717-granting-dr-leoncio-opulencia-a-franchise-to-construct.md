@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is hereby granted to Dr. Leoncio Opulencia, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Tanauan, Province of Batangas, for the purpose of manufacturing and distributing ice and supplying cold storage within the Province of Batangas and the City of Lipa, and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is hereby granted to Dr. Leoncio Opulencia, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Tanauan, Province of Batangas, for the purpose of manufacturing and distributing ice and supplying cold storage within the Province of Batangas and the City of Lipa, and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission.
 
 ## Section 2
 

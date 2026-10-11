@@ -72,7 +72,7 @@ _Disclosure of Athletic Program Participation Rate and Financial Support._ \- Ea
 
 (k) The ratio of participants to coaches; and
 
-(l) The level of participation of National Sports Association (NSAs), including the number of athletes registered with the different NSAs.1avvphi1 The HEI shall be required to make available to the public the information outlets: online, via the website of the institution the local school paper; bulletin boards in campus premises; and other schemes to disseminate information.
+(l) The level of participation of National Sports Association (NSAs), including the number of athletes registered with the different NSAs. The HEI shall be required to make available to the public the information outlets: online, via the website of the institution the local school paper; bulletin boards in campus premises; and other schemes to disseminate information.
 
 ## Section 5
 

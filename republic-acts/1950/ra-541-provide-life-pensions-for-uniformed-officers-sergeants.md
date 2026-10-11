@@ -42,7 +42,7 @@ That for the purpose of this Act and to secure uniformity, the Department of the
 
 ## Section 5
 
-To carry out the purpose of this Act there shall be appropriated in the appropriation ordinance each year of the different Chartered Cities, beginning with the year of the approval of this Act, the sum of not less than five thousand pesos which shall be added to the total appropriation for the Police and Fire Departments and said sum shall be credited to item Police and Fire pension fund and said funds are hereby set aside for the payments of pension to the persons entitled to the benefits of this Act.ℒαwρhi৷
+To carry out the purpose of this Act there shall be appropriated in the appropriation ordinance each year of the different Chartered Cities, beginning with the year of the approval of this Act, the sum of not less than five thousand pesos which shall be added to the total appropriation for the Police and Fire Departments and said sum shall be credited to item Police and Fire pension fund and said funds are hereby set aside for the payments of pension to the persons entitled to the benefits of this Act.
 
 That for the City of Manila, however, the sum of not less than one hundred thousand pesos shall be added to the total appropriation for the Manila Police and Fire Departments and credited to the Manila Police and Fire pension fund.
 

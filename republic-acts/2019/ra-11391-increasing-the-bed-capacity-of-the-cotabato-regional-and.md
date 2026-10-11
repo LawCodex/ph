@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The authorized bed capacity of the Cotabato Regional and Medical Center (CRMC) in Cotabato City is hereby increased from four hundred (400) beds to six hundred (600) beds.1âшphi1 The Secretary of Health shall implement the increase in bed capacity of the CRMC consistent with the five (5)-year development plan of the hospital.
+The authorized bed capacity of the Cotabato Regional and Medical Center (CRMC) in Cotabato City is hereby increased from four hundred (400) beds to six hundred (600) beds. The Secretary of Health shall implement the increase in bed capacity of the CRMC consistent with the five (5)-year development plan of the hospital.
 
 ## Section 2
 

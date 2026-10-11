@@ -49,7 +49,7 @@ The grantee may sell, lease, grant, convey, assign, mortgage give in usufruct, o
 
 ## Section 7
 
-In consideration of this franchise the grantee shall pay a tax equivalent to five per cent of his gross income.1a⍵⍴h!1
+In consideration of this franchise the grantee shall pay a tax equivalent to five per cent of his gross income.
 
 ## Section 8
 

@@ -270,7 +270,7 @@ The applicants are given one (1) year after the approval and publication of the 
 
 #### Section 26
 
-_Roster of Fisheries Professionals._ — The Board, in coordination with the AIPO, shall prepare, update, and maintain a Roster of Fisheries Professionals.1âшphi1 The roster shall contain the names of fisheries professionals, their residence and office addresses, dates of registration or issuance of certificate, and other data which the Board may deem relevant.
+_Roster of Fisheries Professionals._ — The Board, in coordination with the AIPO, shall prepare, update, and maintain a Roster of Fisheries Professionals. The roster shall contain the names of fisheries professionals, their residence and office addresses, dates of registration or issuance of certificate, and other data which the Board may deem relevant.
 
 The roster shall be open to the public, copies of which shall be made available to any party subject to the guidelines which may be prescribed by the Commission.
 

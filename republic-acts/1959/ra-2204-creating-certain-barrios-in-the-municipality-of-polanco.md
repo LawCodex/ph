@@ -30,7 +30,7 @@ The following sitios in the Municipality of Polanco, Province of Zamboanga del N
 
 2\. The sitios of Magangon, Sianib B and Sialo to be known as the barrio of Magangon; and
 
-3\. The sitios of Lapayanbaba, Bolagoc, Tena-an, Gosa wan, Miasi, Lobayan, Dewacat, Galematok, Sekot and Lenabo to be known as the barrio of Lapayanbaba.1aшphi1
+3\. The sitios of Lapayanbaba, Bolagoc, Tena-an, Gosa wan, Miasi, Lobayan, Dewacat, Galematok, Sekot and Lenabo to be known as the barrio of Lapayanbaba.
 
 ## Section 2
 

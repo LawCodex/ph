@@ -39,7 +39,7 @@ Section 4 of Presidential Decree No. 968, as amended, is hereby further amended 
 
 “This notwithstanding, the accused shall lose the benefit of probation should he seek a review of the modified decision which already imposes a probationable penalty.
 
-“Probation may be granted whether the sentence imposes a term of imprisonment or a fine only. The filing of the application shall be deemed a waiver of the right to appeal.1âwphi1
+“Probation may be granted whether the sentence imposes a term of imprisonment or a fine only. The filing of the application shall be deemed a waiver of the right to appeal.
 
 “An order granting or denying probation shall not be appealable.”
 

@@ -84,8 +84,6 @@ Section seven of Act Numbered Twenty-two hundred and fifty-nine, commonly known 
 
 "Attest:
 
-1aшphi1
-
 "____________________________________
 Chief of the General Land Registration Office."
 

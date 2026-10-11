@@ -30,7 +30,7 @@ The following barrios are hereby created in the Municipality of Pambujan, Provin
 
 (2) Barrio Camangaran, consisting of the sitios of Geyaot, Balud and Colawingan; and
 
-(3) Barrio San Isidro, consisting of the sitios of Anis-lagan, Nabaye, Guenalomsan and Gebonawan.1âшphi1
+(3) Barrio San Isidro, consisting of the sitios of Anis-lagan, Nabaye, Guenalomsan and Gebonawan.
 
 ## Section 2
 

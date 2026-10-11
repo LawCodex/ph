@@ -28,6 +28,6 @@ The First Highway Engineering District in the Province of Bohol shall comprise t
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 19, 1971

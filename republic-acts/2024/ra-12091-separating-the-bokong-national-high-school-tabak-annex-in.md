@@ -36,7 +36,7 @@ All personnel, assets, liabilities, and records of the Bokong National High Scho
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Tabak National High School, the initial funding of which shall be charged against the current year's appropriation of the Bokong National High School - Tabak Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.ℒαwρhi৷
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Tabak National High School, the initial funding of which shall be charged against the current year's appropriation of the Bokong National High School - Tabak Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Bolusao Barangay High School in Bolusao, Lawaan, Eastern Samar, is hereby changed to Bolusao High School.1âшphi1
+The name of the Bolusao Barangay High School in Bolusao, Lawaan, Eastern Samar, is hereby changed to Bolusao High School.
 
 ## Section 2
 

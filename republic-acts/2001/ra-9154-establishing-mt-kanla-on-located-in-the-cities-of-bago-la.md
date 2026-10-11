@@ -73,7 +73,7 @@ The boundaries of the Mt. Kanla-on Natural Park are hereby described as follows:
 
 Beginning at a point marked "1" on the map which is marked on plan N.P. or P.B.M. No. 4 between Negros Occidental and Negros Oriental under Pontevedra Cadastre No. 60, B.L. Case No. 2 of Negros Oriental;
 
-| 1awphil.net | S 61º 40’ W | 277.22 m to point 2; |
+| | S 61º 40’ W | 277.22 m to point 2; |
 |---|---|---|
 | Thence, | S 61º 40’ W | 2,199.89 m to point 3; |
 | Thence, | N 19º 37’ E | 49.42 m to point 4; |
@@ -642,7 +642,7 @@ of beginning at plan NP or P.B.M. No. 4 between Negros Occidental and Negros Orr
 
 _Establishment of a Buffer Zone._ \- An area for the exploration development and utilization of geothermal energy resources as well as other exploration activities is hereby established as the buffer zone with the following technical description:
 
-Beginning at a point marked "1" on plan, being S 66º24'43.616"E, 2591.09 meters from PBM no 29, Bago City;lawphil
+Beginning at a point marked "1" on plan, being S 66º24'43.616"E, 2591.09 meters from PBM no 29, Bago City;
 
 | Thence, | N 00º 10´ 00.061˝ E | 256.43 meters to point 2; |
 |---|---|---|

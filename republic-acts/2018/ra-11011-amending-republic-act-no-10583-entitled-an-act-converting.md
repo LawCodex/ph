@@ -43,7 +43,7 @@ All laws, executive orders, decrees, instructions, rules and regulations contrar
 
 ## Section 3
 
-This Act shall take effect fifteen (15) days after its publication in th _e Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in th _e Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

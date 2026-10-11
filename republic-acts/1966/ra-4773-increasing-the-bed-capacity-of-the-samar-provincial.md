@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The bed capacity of Samar Provincial Hospital in the Municipality of Catbalogan, Province of Samar, is hereby increased to one hundred beds.1avvphi1
+The bed capacity of Samar Provincial Hospital in the Municipality of Catbalogan, Province of Samar, is hereby increased to one hundred beds.
 
 ## Section 2
 

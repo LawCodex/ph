@@ -113,7 +113,7 @@ _Additional Compensation._ Notwithstanding any provision of existing law to the 
 
 In the case of other teachers or school officials not engaged in actual classroom instruction, any work performed in excess of eight hours a day shall be paid an additional compensation of at least twenty-five per cent of their regular remuneration.
 
-The agencies utilizing the services of teachers shall pay the additional compensation required under this section.1âшphi1 Education authorities shall refuse to allow the rendition of services of teachers for other government agencies without the assurance that the teachers shall be paid the remuneration provided for under this section.
+The agencies utilizing the services of teachers shall pay the additional compensation required under this section. Education authorities shall refuse to allow the rendition of services of teachers for other government agencies without the assurance that the teachers shall be paid the remuneration provided for under this section.
 
 ## Section 15
 

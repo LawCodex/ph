@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Barrios New Corella, New Bohol, New Cortes, New Sambog, Del Pilar, Limba-an, Mesaoy, Camansi, Macgum, Sta. Cruz and Sitios Sawaon, San Roque, Caso-on, Maputi, Carcor, Sto. Niño, Viga, Casanngoy, Mandapa-an, New Anda, Dasing, Capatagan, Lunao, Cabidianan, Sambayon, Banglasan and Kanikid in the Municipality of Asuncion, Province of Davao, are separated from the said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of New Corella, same province.1avvphi1 The seat of government of the new municipality shall be in the present site of Barrio New Corella.
+Barrios New Corella, New Bohol, New Cortes, New Sambog, Del Pilar, Limba-an, Mesaoy, Camansi, Macgum, Sta. Cruz and Sitios Sawaon, San Roque, Caso-on, Maputi, Carcor, Sto. Niño, Viga, Casanngoy, Mandapa-an, New Anda, Dasing, Capatagan, Lunao, Cabidianan, Sambayon, Banglasan and Kanikid in the Municipality of Asuncion, Province of Davao, are separated from the said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of New Corella, same province. The seat of government of the new municipality shall be in the present site of Barrio New Corella.
 
 ## Section 2
 

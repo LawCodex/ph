@@ -401,7 +401,7 @@ _Definition of Terms._ \- For purposes of this Act, the following terms are defi
 
 (e) "By - products or Derivatives" mean any part taken or substance extracted from wildlife, in raw or in processed form. This includes stuffed animals and herbarium specimens.
 
-(f) "Collection or collecting" refers to the act of gathering or harvesting wildlife, its by-products or derivatives.1awph!1
+(f) "Collection or collecting" refers to the act of gathering or harvesting wildlife, its by-products or derivatives.
 
 (g) "Conservation" means sustainable utilization of wildlife, and/or maintenance, restoration and enhancement of the habitat.
 

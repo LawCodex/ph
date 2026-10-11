@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, is converted into a barrio of said municipality to be known as the barrio of Dunglayan.1awp++i1
+The sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, is converted into a barrio of said municipality to be known as the barrio of Dunglayan.
 
 ## Section 2
 

@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representative of the Philippines in Co
 
 ## Section 1
 
-The Department of Libton Street in the CIty of Naga, Province of Camarines Sur shall hereinafter be known as M.T. Villanueva Avenue.1avvphi1
+The Department of Libton Street in the CIty of Naga, Province of Camarines Sur shall hereinafter be known as M.T. Villanueva Avenue.
 
 ## Section 2
 

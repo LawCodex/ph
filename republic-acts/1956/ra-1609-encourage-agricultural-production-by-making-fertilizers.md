@@ -80,7 +80,7 @@ The ACCFA shall procure the fertilizers in the quantities and types which are re
 
 ## Section 7
 
-The representatives of the commodity corporations may demand at any time that a bidding be called by the committee herein created, for the purpose of assuring procurement and delivery of their respective fertilizer requirements on time.1a⍵⍴h!1
+The representatives of the commodity corporations may demand at any time that a bidding be called by the committee herein created, for the purpose of assuring procurement and delivery of their respective fertilizer requirements on time.
 
 ## Section 8
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the Anabo Elementary School in Barangay Anabo, Municipality of Lemery, Province of Iloilo, is hereby changed to Benjamin Aguilar Elementary School.1âшphi1
+The name of the Anabo Elementary School in Barangay Anabo, Municipality of Lemery, Province of Iloilo, is hereby changed to Benjamin Aguilar Elementary School.
 
 ## Section 2
 

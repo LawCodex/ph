@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-For the purpose of strengthening, promoting, coordinating, and expanding the programs of vocational education now being undertaken by the Bureau of Public Schools and for the purpose of enhancing the socio-economic program of the Philippines through the development of skilled manpower in agricultural, industrial and trade-technical, fishery and other vocational courses, there is hereby created a bureau to be known as the Bureau of Vocational Education under the Department of Education.1âшphi1
+For the purpose of strengthening, promoting, coordinating, and expanding the programs of vocational education now being undertaken by the Bureau of Public Schools and for the purpose of enhancing the socio-economic program of the Philippines through the development of skilled manpower in agricultural, industrial and trade-technical, fishery and other vocational courses, there is hereby created a bureau to be known as the Bureau of Vocational Education under the Department of Education.
 
 ## Section 2
 
@@ -44,7 +44,7 @@ The Director of Vocational Education shall, subject to the approval of the Secre
 
 ## Section 6
 
-The sum of thirty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the initial organization and operation of the Bureau of Vocational Education. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.1awp++i1 The expenditures allotted for the operation, administration, and supervision by the personnel of the vocational divisions such as supplies, materials, transportation and supervisory expenses taken from the lump sum appropriation for such services from the Bureau of Public Schools are hereby transferred to the Bureau of Vocational Education.
+The sum of thirty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the initial organization and operation of the Bureau of Vocational Education. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts. The expenditures allotted for the operation, administration, and supervision by the personnel of the vocational divisions such as supplies, materials, transportation and supervisory expenses taken from the lump sum appropriation for such services from the Bureau of Public Schools are hereby transferred to the Bureau of Vocational Education.
 
 ## Section 7
 

@@ -29,7 +29,7 @@ The name of the La Paz Elementary School situated in Barangay La Paz, Laoag City
 
 ## Section 2
 
-The Department of Education, Culture and Sports is hereby directed to promulgate and issue rules for the implementation of this Act.1âшphi1
+The Department of Education, Culture and Sports is hereby directed to promulgate and issue rules for the implementation of this Act.
 
 ## Section 3
 

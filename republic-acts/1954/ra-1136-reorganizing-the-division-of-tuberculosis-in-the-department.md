@@ -56,7 +56,7 @@ There is created the National Advisory Council on Tuberculosis to be composed of
 
 ## Section 4
 
-The FOA-PHILCUSA and WHO-UNICEF-assisted TB and BCTG units when they are ready to the turned over fully to the Government, all tuberculosis clinics supported by provincial or city agreements if the provinces and cities concerned agree, and all the TB public health activities of the Department of Health, Department of Education, and Social Welfare Administration are transferred to the Division of Tuberculosis as herein reorganized. The said Division is authorized and directed to receive, staff, and maintain any TB center or pavilion which the Philippine Tuberculosis Society may turn over voluntarily to the Division.1âшphi1
+The FOA-PHILCUSA and WHO-UNICEF-assisted TB and BCTG units when they are ready to the turned over fully to the Government, all tuberculosis clinics supported by provincial or city agreements if the provinces and cities concerned agree, and all the TB public health activities of the Department of Health, Department of Education, and Social Welfare Administration are transferred to the Division of Tuberculosis as herein reorganized. The said Division is authorized and directed to receive, staff, and maintain any TB center or pavilion which the Philippine Tuberculosis Society may turn over voluntarily to the Division.
 
 ## Section 5
 

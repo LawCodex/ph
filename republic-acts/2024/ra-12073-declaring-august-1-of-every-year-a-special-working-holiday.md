@@ -33,7 +33,7 @@ _Declaration of Policy._ \- The State recognizes the vital role of history in fo
 
 ## Section 3
 
-_Special Working Holiday._ \- August 1 of every year is hereby declared a special working holiday to be known as the "Araw ng Paglalathala at Pagtatanyag ng Kasarinlan ng Pilipinas", in commemoration of the promulgation of the declaration of Philippine Independent during the Bacoor Assembly in Bacoor, Cavite, on August1, 1898, which was subsequently ratified by the Malolos Congress as Acta Agosto Uno.ℒαwρhi৷
+_Special Working Holiday._ \- August 1 of every year is hereby declared a special working holiday to be known as the "Araw ng Paglalathala at Pagtatanyag ng Kasarinlan ng Pilipinas", in commemoration of the promulgation of the declaration of Philippine Independent during the Bacoor Assembly in Bacoor, Cavite, on August1, 1898, which was subsequently ratified by the Malolos Congress as Acta Agosto Uno.
 
 ## Section 4
 

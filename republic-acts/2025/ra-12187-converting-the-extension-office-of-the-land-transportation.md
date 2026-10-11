@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The extension office of the Land Transportation Office (LTO) in the Municipality of Trento, Province of Agusan del Sur, is hereby converted into a regular district office, to be known as the LTO District Office of Trento, Agusan del Sur.ℒαwρhi৷
+The extension office of the Land Transportation Office (LTO) in the Municipality of Trento, Province of Agusan del Sur, is hereby converted into a regular district office, to be known as the LTO District Office of Trento, Agusan del Sur.
 
 ## Section 2
 

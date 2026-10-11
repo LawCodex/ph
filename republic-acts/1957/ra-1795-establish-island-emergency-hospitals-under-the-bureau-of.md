@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby established, under the Bureau of Hospitals, island emergency hospitals in each of the following island municipalities: San Francisco, Camotes Island, and Bantayan, Bantayan Island, Province of Cebu; Buenavista, Guimaras Island, Province of Iloilo; Naval, Biliran Island, Province of Leyte; Tablas Island, Province of Romblon; and Dapa, Siargao Island, Province of Surigao, each of which shall be under the management and supervision of a chief who must be a physician of good repute, graduated from a medical college of recognized standing and has five years practice of medicine.1avvphi1 The Director of each said hospitals shall be appointed by the Secretary of Health upon the recommendation of the Director of Hospitals and shall have all the powers conferred generally on chiefs of Government hospitals.
+There is hereby established, under the Bureau of Hospitals, island emergency hospitals in each of the following island municipalities: San Francisco, Camotes Island, and Bantayan, Bantayan Island, Province of Cebu; Buenavista, Guimaras Island, Province of Iloilo; Naval, Biliran Island, Province of Leyte; Tablas Island, Province of Romblon; and Dapa, Siargao Island, Province of Surigao, each of which shall be under the management and supervision of a chief who must be a physician of good repute, graduated from a medical college of recognized standing and has five years practice of medicine. The Director of each said hospitals shall be appointed by the Secretary of Health upon the recommendation of the Director of Hospitals and shall have all the powers conferred generally on chiefs of Government hospitals.
 
 ## Section 2
 

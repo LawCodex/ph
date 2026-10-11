@@ -52,7 +52,7 @@ The grantee shall be liable to pay the same taxes, unless exempted therefrom, on
 
 ## Section 8
 
-Acceptance of this franchise shall be given in writing by the grantee within six months after the approval of this Act.1âшphi1 When so accepted, the grantee shall be empowered to exercise the privileges granted thereby.
+Acceptance of this franchise shall be given in writing by the grantee within six months after the approval of this Act. When so accepted, the grantee shall be empowered to exercise the privileges granted thereby.
 
 ## Section 9
 

@@ -70,7 +70,7 @@ The La Mesa Dam and Reservoir which was designed to be a complimentary facility 
 
 It shall be the duty of the grantee, its successors or assignees, whenever required to do so by the Regulatory Office or any authorized government agency, to modify, improve, and change the waterworks and sewerage system or facilities in a manner and extent as the technological improvements in the water supply and sewerage services shall render beneficial to consumers, and shall promote efficiency and environmental sustainability.
 
-The grantee shall promote water conservation and avoid water wastage. With the approval of the Regulatory Office and considering cost efficiencies, the grantee shall establish water impounding facilities, consider and undertake the recovery and appropriate reuse of wastewater, grey water, industrial water, and reclaimed water.1aшphi1 The grantee may adopt waste-to-energy or similar technology utilizing sludge waste from its wastewater facilities to promote energy efficiency in its operations.
+The grantee shall promote water conservation and avoid water wastage. With the approval of the Regulatory Office and considering cost efficiencies, the grantee shall establish water impounding facilities, consider and undertake the recovery and appropriate reuse of wastewater, grey water, industrial water, and reclaimed water. The grantee may adopt waste-to-energy or similar technology utilizing sludge waste from its wastewater facilities to promote energy efficiency in its operations.
 
 ## Section 5
 

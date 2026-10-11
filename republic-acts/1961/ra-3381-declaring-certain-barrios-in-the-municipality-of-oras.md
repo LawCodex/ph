@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The barrios of Pangodtan, Sabang, Gamot, Cabagakyan and Himamayo in the Municipality of Oras, Province of Samar are hereby declared as duly constituted barrios of said municipality.1avvphi1
+The barrios of Pangodtan, Sabang, Gamot, Cabagakyan and Himamayo in the Municipality of Oras, Province of Samar are hereby declared as duly constituted barrios of said municipality.
 
 ## Section 2
 

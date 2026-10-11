@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Doña Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, is hereby increased from one hundred (100) to one hundred twenty-five (125) beds.1âшphi1
+The bed capacity of the Doña Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, is hereby increased from one hundred (100) to one hundred twenty-five (125) beds.
 
 ## Section 2
 

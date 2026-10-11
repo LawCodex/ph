@@ -55,7 +55,7 @@ A special right is hereby reserved to the President of the Philippines in time o
 
 ## Section 8
 
-This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided.1avvphi1
+This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided.
 
 ## Section 9
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The longest street in Barrio San Isidro, Municipality of San Francisco, Province of Cebu, is hereby named Quirino Maningo Road.1avvphi1
+The longest street in Barrio San Isidro, Municipality of San Francisco, Province of Cebu, is hereby named Quirino Maningo Road.
 
 ## Section 2
 

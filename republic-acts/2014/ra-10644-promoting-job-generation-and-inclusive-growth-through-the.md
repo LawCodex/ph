@@ -188,7 +188,7 @@ _Separability Clause._ – If any provision of this Act shall be held unconstitu
 
 ## Section 15
 
-_Repealing Clause. –_ Section 4 of Republic Act No. 9178 is hereby repealed.1âwphi1 Sections 7-A and 7-B ofRepublic Act No. 6977, as amended by Republic Act No. 8289 and Republic Act No. 9501, are hereby amended. Section 12 of Republic Act No. 9178 is also hereby amended. All other existing laws, presidential decrees, executive orders, proclamations or administrative, regulations that are inconsistent with the provisions of this Act are hereby amended, modified or repealed accordingly.
+_Repealing Clause. –_ Section 4 of Republic Act No. 9178 is hereby repealed. Sections 7-A and 7-B ofRepublic Act No. 6977, as amended by Republic Act No. 8289 and Republic Act No. 9501, are hereby amended. Section 12 of Republic Act No. 9178 is also hereby amended. All other existing laws, presidential decrees, executive orders, proclamations or administrative, regulations that are inconsistent with the provisions of this Act are hereby amended, modified or repealed accordingly.
 
 ## Section 16
 

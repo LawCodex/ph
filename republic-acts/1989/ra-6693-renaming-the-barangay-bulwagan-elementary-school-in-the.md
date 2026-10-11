@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Barangay Bulwagan Elementary School locates in Barangay Bulwagan, Municipality of Hinoba-an, Province of Negros Occidental, is hereby renamed as the Paz Vda de Escanilla Elementary School.1a⍵⍴h!1
+The Barangay Bulwagan Elementary School locates in Barangay Bulwagan, Municipality of Hinoba-an, Province of Negros Occidental, is hereby renamed as the Paz Vda de Escanilla Elementary School.
 
 Approved,
 

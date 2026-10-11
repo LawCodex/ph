@@ -60,7 +60,7 @@ A new article and a new section, to be known as Article VIII-A and section forty
 
 "(b) He shall execute and enforce all laws, ordinance: and regulations relating to the public health.
 
-"(c) He shall recommend to the Municipal Board the passage of such ordinance as he may deem necessary for the preservation of the public health.⌊aшΡhi⌊
+"(c) He shall recommend to the Municipal Board the passage of such ordinance as he may deem necessary for the preservation of the public health.
 
 "(d) He shall cause to be prosecuted all violations of sanitary laws, ordinances, or regulations.
 

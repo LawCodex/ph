@@ -25,10 +25,16 @@ AN ACT APPROPRIATING THE SUM OF FOURTEEN BILLION FOUR HUNDRED FIFTY-FIVE MILLION
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Appropriation, Allotment and Release of Funds._** – The amount of Fourteen billion four hundred fifty-five million pesos (14,455,000,000) is hereby appropriated for the increased share in 1997 of local government units in the internal revenue taxes pursuant to Section 284 of Republic Act No. 7160, the Local Government Code of 1991, and shall be apportioned among the local government units in accordance with the formula prescribed in Section 285 thereof, after deducting the actual cost of devolution and the cost of city-funded hospitals as of December 31, 1992. Said internal revenue allotment shall be released directly by the Department of Budget and Management to the local government units concerned.
+## Section 1
 
-**Section 2._Use of Funds._** – The use of funds herein appropriated shall be in accordance with the provisions of the Local Government Code of 1991, Republic Act No. 7160.
+_Appropriation, Allotment and Release of Funds._ – The amount of Fourteen billion four hundred fifty-five million pesos (14,455,000,000) is hereby appropriated for the increased share in 1997 of local government units in the internal revenue taxes pursuant to Section 284 of Republic Act No. 7160, the Local Government Code of 1991, and shall be apportioned among the local government units in accordance with the formula prescribed in Section 285 thereof, after deducting the actual cost of devolution and the cost of city-funded hospitals as of December 31, 1992. Said internal revenue allotment shall be released directly by the Department of Budget and Management to the local government units concerned.
 
-**Section 3._Effectivity._** – This Act shall take effect on January 1, 1997.
+## Section 2
+
+_Use of Funds._ – The use of funds herein appropriated shall be in accordance with the provisions of the Local Government Code of 1991, Republic Act No. 7160.
+
+## Section 3
+
+_Effectivity._ – This Act shall take effect on January 1, 1997.
 
 Approved: **December 30, 1996.**

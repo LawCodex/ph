@@ -54,7 +54,7 @@ The historical areas in the City of Tabuk, herein, in the Province of Kalinga;
 
 The Padharao Lake and the historical Guina-ang Village in the Municipality of Pasil in the Province of Kalinga; and
 
-The Elephant Hill and the man-made lagoon in the Municipality of Rizal in the Province of Kalinga.1âwphi1
+The Elephant Hill and the man-made lagoon in the Municipality of Rizal in the Province of Kalinga.
 
 As such, it shall be accorded priority development by the Department of Tourism (DOT) and shall be subject to the rules and regulations governing tourism zones.
 

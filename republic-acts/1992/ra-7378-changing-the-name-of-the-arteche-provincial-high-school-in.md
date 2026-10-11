@@ -29,7 +29,7 @@ The name of the Arteche Provincial High School in the Municipality of Arteche, P
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

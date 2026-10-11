@@ -41,7 +41,7 @@ _Responsibility to the Public._ – The grantee shall provide reasonable public 
 
 ## Section 5
 
-_Right of Government._ \- The President of the Philippines, in times of rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, may temporarily take over and operate the stations of the grantee, temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or authorize the temporary use and operation thereof by any agency of the Government, upon due compensation to the grantee, for the use of said stations during the period when they shall be so operated.1âшphi1
+_Right of Government._ \- The President of the Philippines, in times of rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, may temporarily take over and operate the stations of the grantee, temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or authorize the temporary use and operation thereof by any agency of the Government, upon due compensation to the grantee, for the use of said stations during the period when they shall be so operated.
 
 ## Section 6
 

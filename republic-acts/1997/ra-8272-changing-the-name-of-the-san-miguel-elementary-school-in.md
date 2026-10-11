@@ -34,4 +34,4 @@ The name of the San Miguel Elementary School in Sto. Tomas, Batangas, is hereby 
 
 This Act shall take effect immediately upon its approval.
 
-Approved, Lapsed into law on March 3, 1997, without the signature of the President, In accordance with Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on March 3, 1997, without the signature of the President, In accordance with Article VI, Section 27 (1) of the Constitution.

@@ -27,9 +27,13 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## TITLE I. – GENERAL PROVISIONS
 
-**Article 1._Short Title._** – This Act shall be known as the "Consumer Act of the Philippines."
+#### Article 1
 
-**Article 2._Declaration of Basic Policy._** – It is the policy of the State to protect the interests of the consumer, promote his general welfare and to establish standards of conduct for business and industry. Towards this end, the State shall implement measures to achieve the following objectives:
+_Short Title._ – This Act shall be known as the "Consumer Act of the Philippines."
+
+#### Article 2
+
+_Declaration of Basic Policy._ – It is the policy of the State to protect the interests of the consumer, promote his general welfare and to establish standards of conduct for business and industry. Towards this end, the State shall implement measures to achieve the following objectives:
 
 a) protection against hazards to health and safety;
 
@@ -41,9 +45,13 @@ d) provision of adequate rights and means of redress; and
 
 e) involvement of consumer representatives in the formulation of social and economic policies.
 
-**Article 3._Construction._** – The best interest of the consumer shall be considered in the interpretation and implementation of the provisions of this Act, including its implementing rules and regulations.
+#### Article 3
 
-**Article 4._Definition of Terms._** – For purposes of this Act, the term:
+_Construction._ – The best interest of the consumer shall be considered in the interpretation and implementation of the provisions of this Act, including its implementing rules and regulations.
+
+#### Article 4
+
+_Definition of Terms._ – For purposes of this Act, the term:
 
 a) "_Advertisement_ " means the prepared and through any form of mass medium, subsequently applied, disseminated or circulated advertising matter.
 
@@ -241,7 +249,9 @@ bx) "_Trade name_ " or "_trademark_ " means a word or words, name, title, symbol
 
 ### CHAPTER I — CONSUMER PRODUCT QUALITY AND SAFETY
 
-**Article 5._Declaration of Policy._** – It shall be the duty of the State:
+#### Article 5
+
+_Declaration of Policy._ – It shall be the duty of the State:
 
 a) to develop and provide safety and quality standards for consumer products, including performance or use-oriented standards, codes of practice and methods of tests;
 
@@ -253,7 +263,9 @@ d) to undertake research on quality improvement of products and investigation in
 
 e) to assure the public of the consistency of standardized products.
 
-**Article 6._Implementing Agencies._** – The provisions of this Article and its implementing rules and regulations shall be enforced by:
+#### Article 6
+
+_Implementing Agencies._ – The provisions of this Article and its implementing rules and regulations shall be enforced by:
 
 a) the Department of Health with respect to food, drugs, cosmetics, devices and substances;
 
@@ -261,7 +273,9 @@ b) the Department of Agriculture with respect to products related to agriculture
 
 c) the Department of Trade and Industry with respect to other consumer products not specified above.
 
-**Article 7._Promulgation and Adoption of Consumer Product Standards._** – The concerned department shall establish consumer product quality and safety standards which shall consist of one or more of the following:
+#### Article 7
+
+_Promulgation and Adoption of Consumer Product Standards._ – The concerned department shall establish consumer product quality and safety standards which shall consist of one or more of the following:
 
 a) requirements to performance, composition, contents, design, construction, finish, packaging of a consumer product;
 
@@ -275,17 +289,25 @@ e) requirements that a consumer product be marked with or accompanied by clear a
 
 For this purpose, the concerned department shall adopt existing government domestic product quality and safety standards: Provided, That in the absence of such standards, the concerned department shall form specialized technical committees composed of equal number of representatives from each of the Government, business and consumer sectors to formulate, develop and purpose consumer product quality and safety standards. The said technical committees shall consult with the private sector, which may, motu proprio, develop its own quality and safety standards that shall be subject or agencies after public hearings have been conducted for that purpose; and shall likewise consider existing international standards recognized by the Philippine Government.
 
-**Article 8._Publication of Consumer Product Standards._** – The concerned departments shall, upon promulgation of the above standards, publish or cause the publication of the same in two (2) newspapers of general circulation at least once a week for a period of not less than one (1) month. It may likewise conduct an information campaign through other means deemed effective to ensure the proper guidance of consumers, businesses, industries and other sectors concerned.
+#### Article 8
 
-**Article 9._Effectivity of Rules._** – a) Each consumer product standard or safety rule shall specify the date such rule is to take effect, which shall not exceed ninety (90) days from the date promulgated unless the concerned department funds, for good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. After which, it shall no longer be legal to, or cause to, sell or distribute the consumer product not complying with the standards or rules.
+_Publication of Consumer Product Standards._ – The concerned departments shall, upon promulgation of the above standards, publish or cause the publication of the same in two (2) newspapers of general circulation at least once a week for a period of not less than one (1) month. It may likewise conduct an information campaign through other means deemed effective to ensure the proper guidance of consumers, businesses, industries and other sectors concerned.
+
+#### Article 9
+
+_Effectivity of Rules._ – a) Each consumer product standard or safety rule shall specify the date such rule is to take effect, which shall not exceed ninety (90) days from the date promulgated unless the concerned department funds, for good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. After which, it shall no longer be legal to, or cause to, sell or distribute the consumer product not complying with the standards or rules.
 
 b) The department may, by regulation, prohibit a manufacturer from stockpiling consumer products so as to prevent such manufacturer from circumventing the purposes of this paragraph. The term "stockpiling" means manufacturing or importing a product between the date of promulgation of its consumer product safety rule and its effective date, at a rate which is significantly greater than the rate at which such product was produced or imported during a base period as prescribed in the regulation under this paragraph, ending before the date of promulgation of consumer product safety rule.
 
-**Article 10._Injurious, Dangerous and Unsafe Products._** – Whenever the departments find, by their own initiative or by petition of a consumer, that a consumer product is found to be injurious, unsafe or dangerous, it shall, after due notice and hearing, make the appropriate order for its recall, prohibition or seizure from public sale or distribution: Provided, That, in the sound discretion of the department it may declare a consumer product to be imminently injurious, unsafe or dangerous, and order is immediate recall, ban or seizure from public sale or distribution, in which case, the seller, distributor, manufacturer or producer thereof shall be afforded a hearing within forty-eight (48) hours from such order.
+#### Article 10
+
+_Injurious, Dangerous and Unsafe Products._ – Whenever the departments find, by their own initiative or by petition of a consumer, that a consumer product is found to be injurious, unsafe or dangerous, it shall, after due notice and hearing, make the appropriate order for its recall, prohibition or seizure from public sale or distribution: Provided, That, in the sound discretion of the department it may declare a consumer product to be imminently injurious, unsafe or dangerous, and order is immediate recall, ban or seizure from public sale or distribution, in which case, the seller, distributor, manufacturer or producer thereof shall be afforded a hearing within forty-eight (48) hours from such order.
 
 The ban on the sale and distribution of a consumer product adjudged injurious, unsafe or dangerous, or imminently injurious, unsafe or dangerous under the preceding paragraph shall stay in force until such time that its safety can be assured or measures to ensure its safety have been established.
 
-**Article 11._Amendment and Revocation of Declaration of the Injurious, Unsafe or Dangerous Character of a Consumer Product._** – Any interested person may petition the appropriate department to commence a proceeding for the issuance of an amendment or revocation of a consumer product safety rule or an order declaring a consumer product injurious, dangerous and unsafe.
+#### Article 11
+
+_Amendment and Revocation of Declaration of the Injurious, Unsafe or Dangerous Character of a Consumer Product._ – Any interested person may petition the appropriate department to commence a proceeding for the issuance of an amendment or revocation of a consumer product safety rule or an order declaring a consumer product injurious, dangerous and unsafe.
 
 In case the department, upon petition by an interested party or its own initiative and after due notice and hearing, determines a consumer product to be substandard or materially defective, it shall so notify the manufacturer, distributor or seller thereof of such finding and order such manufacturer, distributor or seller to:
 
@@ -305,13 +327,21 @@ d) to pay the consumer reasonable damages as may be determined by the department
 
 The manufacturer, distributor or seller shall not charge a consumer who avails himself of the remedy as provided above of any expense and cost that may be incurred.
 
-**Article 12._Effectivity of Amendments and Revocation of Consumer Product Safety Rule._** – Any amendment or revocation of a consumer product safety rule made by the concerned department shall specify the date on which it shall take effect which shall not exceed ninety days from the date of amendment or revocation is published unless the concerned department finds, for a good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. The department shall promulgate the necessary rules for the issuance, amendment or revocation of any consumer product safety rule.
+#### Article 12
 
-**Article 13._New Products._** – The concerned department shall take measures to make a list of new consumer products and to cause the publication by the respective manufacturers or importers of such products a list thereof together with the descriptions in a newspaper of general circulation.
+_Effectivity of Amendments and Revocation of Consumer Product Safety Rule._ – Any amendment or revocation of a consumer product safety rule made by the concerned department shall specify the date on which it shall take effect which shall not exceed ninety days from the date of amendment or revocation is published unless the concerned department finds, for a good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. The department shall promulgate the necessary rules for the issuance, amendment or revocation of any consumer product safety rule.
 
-**Article 14._Certification of Conformity to Consumer Product Standards._** – The concerned department shall aim at having consumer product standards established for every consumer product so that consumer products shall be distributed in commerce only after inspection and certification of its quality and safety standards by the department. The manufacturer shall avail of the Philippine Standard Certification Mark which the department shall grant after determining the product's compliance with the relevant standard in accordance with the implementing rules and regulations.
+#### Article 13
 
-**Article 15._Imported Products._** –
+_New Products._ – The concerned department shall take measures to make a list of new consumer products and to cause the publication by the respective manufacturers or importers of such products a list thereof together with the descriptions in a newspaper of general circulation.
+
+#### Article 14
+
+_Certification of Conformity to Consumer Product Standards._ – The concerned department shall aim at having consumer product standards established for every consumer product so that consumer products shall be distributed in commerce only after inspection and certification of its quality and safety standards by the department. The manufacturer shall avail of the Philippine Standard Certification Mark which the department shall grant after determining the product's compliance with the relevant standard in accordance with the implementing rules and regulations.
+
+#### Article 15
+
+_Imported Products._ –
 
 a) Any consumer product offered for importation into the customs of the Philippine territory shall be refused admission if such product:
 
@@ -335,13 +365,17 @@ e) Imported consumer products not admitted must be exported, except that upon ap
 
 f) All expenses in connection with the destruction provided for in this Article, and all expenses in connection with the storage, cartage or labor with respect to any consumer product refused admission under this Article, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importation made by such owner or consignee.
 
-**Article 16._Consumer Products for Export._** – The preceding article on safety not apply to any consumer product if:
+#### Article 16
+
+_Consumer Products for Export._ – The preceding article on safety not apply to any consumer product if:
 
 a) it can be shown that such product is manufactured, sold or held for sale for export from the Philippines, or that such product was imported for export, unless such consumer product is in fact distributed in commerce for use in the Philippines; and
 
 b) such consumer product or the packaging thereof bears a stamp or label stating that such consumer product is intended for export and actually exported.
 
-**Article 17._Powers, functions and duties._** – In addition to their powers, functions and duties under existing laws, the concerned department shall have the following powers, functions and duties:
+#### Article 17
+
+_Powers, functions and duties._ – In addition to their powers, functions and duties under existing laws, the concerned department shall have the following powers, functions and duties:
 
 a) to administer and supervise the implementation of this Article and its implementing rules and regulations;
 
@@ -359,7 +393,9 @@ g) to accredit independent competent testing laboratories.
 
 PROHIBITED ACTS AND PENALTIES
 
-**Article 18._Prohibited Acts._** – It shall be unlawful for any person to:
+#### Article 18
+
+_Prohibited Acts._ – It shall be unlawful for any person to:
 
 a) manufacture for sale, offer for sale, distribute in commerce, or import into the Philippines any consumer product which is not in conformity with an applicable consumer product quality or safety standard promulgated in this Act;
 
@@ -371,7 +407,9 @@ d) fail to comply with an order issued under Article II relating to notification
 
 e) fail to comply with the rule prohibiting stockpiling.
 
-**Article 19._Penalties._** –
+#### Article 19
+
+_Penalties._ –
 
 a) Any person who shall violate any provision of Article 18 shall upon conviction, be subject to a fine of not less than One thousand pesos (P1,000.00) but not more than Ten thousand pesos (P10,000.00) or imprisonment of not less than two (2) months but not more than one (1) year, or both upon the discretion of the court. If the offender is an alien, he shall be deported after service of sentence and payment of fine without further deportation proceedings.
 
@@ -383,9 +421,13 @@ In case the violation is committed by, or in the interest of a foreign juridical
 
 ### CHAPTER II — FOOD, DRUGS, COSMETICS AND DEVICES
 
-**Article 20._Declaration of Policy._** – The State shall ensure safe and good quality of food, drugs, cosmetics and devices, and regulate their production, sale, distribution and advertisement to protect the health of the consumer.
+#### Article 20
 
-**Article 21._Implementing Agency._** – In the implementation of the foregoing policy, the State, through the Department of Health, hereby referred as the Department, shall, in accordance with the provisions of this Act:
+_Declaration of Policy._ – The State shall ensure safe and good quality of food, drugs, cosmetics and devices, and regulate their production, sale, distribution and advertisement to protect the health of the consumer.
+
+#### Article 21
+
+_Implementing Agency._ – In the implementation of the foregoing policy, the State, through the Department of Health, hereby referred as the Department, shall, in accordance with the provisions of this Act:
 
 a) establish standards and quality measures for food, drugs, devices and cosmetics;
 
@@ -395,9 +437,13 @@ c) adopt measures to ensure the rational use of drugs and devices, such as, but 
 
 d) strengthen the Bureau of Food and Drugs.
 
-**Article 22._Rules and Regulations on Definitions and Standards._** – Whenever in the judgment of the Department such action will promote honesty and fair dealing in the interest of consumers, it shall promulgate rules and regulations fixing and establishing a reasonable definition and standard of identity, a reasonable standard of quality and/or reasonable standard of fill of containers for food, drugs, cosmetics or devices.
+#### Article 22
 
-**Article 23._Adulterated Food._** – A food shall be deemed to be adulterated:
+_Rules and Regulations on Definitions and Standards._ – Whenever in the judgment of the Department such action will promote honesty and fair dealing in the interest of consumers, it shall promulgate rules and regulations fixing and establishing a reasonable definition and standard of identity, a reasonable standard of quality and/or reasonable standard of fill of containers for food, drugs, cosmetics or devices.
+
+#### Article 23
+
+_Adulterated Food._ – A food shall be deemed to be adulterated:
 
 a) 1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such food shall not be considered adulterated under this clause if the quantity of such substance does not ordinarily render it injurious to health;
 
@@ -429,27 +475,39 @@ e) if it is oleomargarine, margarine or butter and any of the raw materials used
 
 f) if it has not been prepared in accordance with current acceptable manufacturing practice established by the Department through regulations.
 
-**Article 24._Regulation of Unprocessed Food._** – The provincial, municipal and city governments shall regulate the preparation and sale of meat, fresh fruits, poultry, milk, fish, vegetables and other foodstuff for public consumption, pursuant to the Local Government Code.
+#### Article 24
 
-**Article 25._Tolerance for Poisonous Ingredients in Food._** – Any poisonous or deleterious substance added to any food shall be deemed to be unsafe, except when such substance is required or can not be avoided in its production or can not be avoided by good manufacturing practice. In such case, the Department shall promulgate regulations limiting the quantity therein in such extent as he finds necessary for the protection of public health, and any quantity exceeding the limits so fixed shall be deemed to be unsafe. In determining the quantity of such added substance to be tolerated in different articles of food, the Department shall take into account the extent to which the use of such article is required or can not be avoided in the production or manufacture of such articles and the other ways in which the consumer may be affected by the same or other poisonous or deleterious substance.
+_Regulation of Unprocessed Food._ – The provincial, municipal and city governments shall regulate the preparation and sale of meat, fresh fruits, poultry, milk, fish, vegetables and other foodstuff for public consumption, pursuant to the Local Government Code.
 
-**Article 26._Unsafe Food Additives, Exceptions for Conformity with Regulation._** – A food additive, with respect to any particular use or intended use, shall be deemed unsafe unless:
+#### Article 25
+
+_Tolerance for Poisonous Ingredients in Food._ – Any poisonous or deleterious substance added to any food shall be deemed to be unsafe, except when such substance is required or can not be avoided in its production or can not be avoided by good manufacturing practice. In such case, the Department shall promulgate regulations limiting the quantity therein in such extent as he finds necessary for the protection of public health, and any quantity exceeding the limits so fixed shall be deemed to be unsafe. In determining the quantity of such added substance to be tolerated in different articles of food, the Department shall take into account the extent to which the use of such article is required or can not be avoided in the production or manufacture of such articles and the other ways in which the consumer may be affected by the same or other poisonous or deleterious substance.
+
+#### Article 26
+
+_Unsafe Food Additives, Exceptions for Conformity with Regulation._ – A food additive, with respect to any particular use or intended use, shall be deemed unsafe unless:
 
 a) it and its use or intended use conforms to the terms of an exemption for being solely intended for investigational use by qualified experts; or
 
 b) it and its use or intended use is in conformity with a regulation issued by the Department prescribing the conditions under which such additives may be safely used.
 
-**Article 27._Petition for Regulation of Food Additive._** – Any person may, with respect to any intended use of a food additive, file with the Department a petition proposing the issuance of a regulation prescribing the conditions under which such additives may be safely used.
+#### Article 27
+
+_Petition for Regulation of Food Additive._ – Any person may, with respect to any intended use of a food additive, file with the Department a petition proposing the issuance of a regulation prescribing the conditions under which such additives may be safely used.
 
 The Department shall (1) establish a regulation prescribing, with respect to one or more proposed uses of the food additive involved, (i) the conditions under which a food additive may be safely used including, but not limited to, specifications as to the particular food, classes of food, in which such additive may be used, (ii) the maximum quantity which may be used, or permitted to remain in or on such food; (iii) the manner in which such additive may be added to or used in or on such food, and (iv) any directions or other labeling or packaging requirement for such additive deemed necessary to assure the safety of such use, and shall notify the petitioner of such order and the reasons for such action; or (2) deny the petition and notify the petitioner of and the reasons for such action.
 
 The Department may, at any time upon his own initiative, issue a regulation prescribing, with respect to any particular food additive, the conditions under which such additive may be safely used and the reasons thereof, and cause the publication of the same.
 
-**Article 28._Effectivity of Regulations._** – The regulations promulgated under the preceding articles shall take effect fifteen (15) days after its publication in a newspaper of general circulation but the Department may stay such effectivity if, after issuance of such order, a hearing is sought by any person adversely affected by such order.
+#### Article 28
+
+_Effectivity of Regulations._ – The regulations promulgated under the preceding articles shall take effect fifteen (15) days after its publication in a newspaper of general circulation but the Department may stay such effectivity if, after issuance of such order, a hearing is sought by any person adversely affected by such order.
 
 DRUGS AND DEVICES
 
-**Article 29._Adulterated Drugs and Devices._** – A drug or device shall be deemed to be adulterated:
+#### Article 29
+
+_Adulterated Drugs and Devices._ – A drug or device shall be deemed to be adulterated:
 
 a) 1) if it contains in whole or in part of any filthy, putrid, or decomposed substance which may affect its safety, efficacy or good quality; or (2) if it has been manufactured, prepared or held under unsanitary conditions whereby it may have been contaminated with dirt or filth or whereby it may have been rendered injurious to health; or (3) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (4) if it bears or contains any color other than a permissible one as determined by the Department, taking into consideration standards of safety, efficacy or good quality.
 
@@ -461,7 +519,9 @@ d) If a drug or device and any substance has been mixed or packed therewith, or 
 
 e) If the methods used in, or the facilities or controls used for its manufacture or holding do not conform to or are not operated or administered in conformity with current good manufacturing practice to assure that such drug meets the requirements of this Act as to safety, quality and efficacy, and has the identity and strength, and meets the quality and purity characteristics which it purports or is represented to possess.
 
-**Article 30._Exemption in Case of Drugs and Devices._** –
+#### Article 30
+
+_Exemption in Case of Drugs and Devices._ –
 
 a) The Department is hereby directed to promulgate regulations exempting from any labeling or packaging requirement of this Act drugs and devices which are, in accordance with the practice of the trade, to be processed, labeled or repacked in substantial quantities at establishments other than those where originally processes or packed, on conditions that such drugs and devices are not adulterated or mislabeled under the provisions of this Act upon removal from such processing, labeling or repacking establishment.
 
@@ -479,7 +539,9 @@ b) 1) Drugs intended for use by man which:
 
 4) A drug which is subject to sub-article (b) (1) of this Article shall be deemed to be mislabeled if any time prior to dispensing, its label fails to bear the statement "Caution: Should not be dispensed without prescription." A drug to which sub-article (b) (1) of this Article does not apply shall de deemed to be mislabeled it at any time prior to dispensing, its label bears the caution statement quoted in the preceding sentence.
 
-**Article 31._Licensing and Registration._** –
+#### Article 31
+
+_Licensing and Registration._ –
 
 a) No person shall manufacture, sell, offer for sale, import, export, distribute or transfer any drug or device, unless an application filed pursuant to sub-article (b) hereof is effective with respect to such drug or device.
 
@@ -499,13 +561,19 @@ h) No drug or device shall be manufactured, sold, offered for sale, imported, ex
 
 i) The Department shall promulgate a schedule of fees for the issuance of the certificate of product registration and license to operate provided for under this Article.
 
-**Article 32._Dangerous Drugs._** – The importation, distribution, manufacture, production, compounding, prescription, dispensing and sale of, and other lawful acts in connection with, dangerous drugs of such kind and quantity as may be deemed necessary according to the medical and research needs of the country and the determination of the quantity/quantities to be imported, manufactured and held in stock at any given time by an authorized importer, manufacturer or distributor of dangerous drugs shall be under the jurisdiction and authority of the Dangerous Drugs Board as provided for by existing laws and regulations.
+#### Article 32
 
-**Article 33._Banned or Restricted Drugs._** – Banned or severely restricted drugs for health and safety reasons in their country of origin shall be banned and confiscated or its uses severely restricted whichever is appropriate, by the Department. The Department shall monitor the presence in the market of such drugs and cause the maintenance and regular publications of an updated consolidated list thereof.
+_Dangerous Drugs._ – The importation, distribution, manufacture, production, compounding, prescription, dispensing and sale of, and other lawful acts in connection with, dangerous drugs of such kind and quantity as may be deemed necessary according to the medical and research needs of the country and the determination of the quantity/quantities to be imported, manufactured and held in stock at any given time by an authorized importer, manufacturer or distributor of dangerous drugs shall be under the jurisdiction and authority of the Dangerous Drugs Board as provided for by existing laws and regulations.
+
+#### Article 33
+
+_Banned or Restricted Drugs._ – Banned or severely restricted drugs for health and safety reasons in their country of origin shall be banned and confiscated or its uses severely restricted whichever is appropriate, by the Department. The Department shall monitor the presence in the market of such drugs and cause the maintenance and regular publications of an updated consolidated list thereof.
 
 CERTIFICATION OF DRUGS CONTAINING ANTIBIOTICS
 
-**Article 34._Certification of Certain Drugs._** –
+#### Article 34
+
+_Certification of Certain Drugs._ –
 
 a) The Department shall, by regulations, provide for the certification of batches of drugs composed wholly or partially of any kind of antibiotic. A batch of such drug shall be certified if such drug has such characteristics of identity, strength, quality and purity, as the Department prescribes in such regulations as necessary to insure adequately safety and efficacy of use and good quality, but shall not otherwise be certified. Prior to the effective date of such regulations the Department, in lieu of certification, shall issue a release for any batch which, in his judgment, may be released without risk as to the safety and efficacy of its use. Such release shall prescribe the date of its expiration and other conditions under which it shall cease to be effective as to such batch and as to portions thereof. For purposes of this Article and of Article 89 (j), the term "antibiotic drug" means any drug intended for use by man containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including the chemically synthesized equivalent of any such substance).
 
@@ -515,7 +583,9 @@ c) The Department shall promulgate regulations exempting from any requirement of
 
 COSMETICS
 
-**Article 35._Adulterated cosmetics._** – A cosmetic shall be deemed to be adulterated:
+#### Article 35
+
+_Adulterated cosmetics._ – A cosmetic shall be deemed to be adulterated:
 
 a) if it bears or contains any poisonous or deleterious substance which may render it injurious to users under the condition of use prescribed in the labeling thereof, or under the condition of use as are customary or usual: Provided, That this provision shall not apply to color additive hair dye, the label of which bears the following legend conspicuously displayed thereon: "Caution: this product contains ingredients which may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows; to do so may cause blindness" and labeling of which bears adequate directions for such preliminary testing. For purposes of this paragraph (e) the term "hair dye" shall not include eyelash dyes or eyebrow dyes.
 
@@ -529,7 +599,9 @@ e) if it is not a hair dye, and it bears or contains color additive other than w
 
 f) if any of its substances has been (1) mixed or packed therewith so as to reduce its quality or strength or (2) substituted wholly or in parts therefor.
 
-**Article 36._Factory Inspection._** –
+#### Article 36
+
+_Factory Inspection._ –
 
 a) For purposes of enforcement of this Article, officers or employees duly designated by the Department, upon presenting appropriate credentials to the owner, operator, or agent in charge, are authorized (1) to enter, at reasonable hours, any factory, warehouse or establishment in which food, drugs, devices or cosmetics are manufactured, processed, packed or held, for introduction into domestic commerce or are held after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, or cosmetics in domestic commerce; and (2) to inspect, in a reasonable manner, such factory, warehouse, or establishment or vehicle and all pertinent equipment, finished and unfinished materials, containers and labeling therein.
 
@@ -537,19 +609,27 @@ b) If the officer or employee making any such inspection of a factory, warehouse
 
 c) Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator or agent in charge.
 
-**Article 37._Provisional Permits._** – Whenever the Department finds, after investigation, that the sale or distribution in commerce of any class of food, cosmetics, drugs or devices, may be injurious to health, and that such injurious nature cannot be adequately determined after such articles have entered into domestic commerce, it shall promulgate regulations providing for the issuance, suspension and revocation of provisional permits, offer for sale or transfer of such classes of food, cosmetics, drugs or devices to manufacturers, processors or packers of the same in such locality to which shall be attached such conditions governing the manufacture, processing or packing of such consumer products for such temporary period of time as may be necessary to protect public health; and after the effective date of such regulations, and during such temporary period, no person shall, offer for sale or transfer any such food, cosmetics, drugs or devices unless such manufacturer, processor or packer holds such permit.
+#### Article 37
 
-**Article 38._Publicity and Publication._** –
+_Provisional Permits._ – Whenever the Department finds, after investigation, that the sale or distribution in commerce of any class of food, cosmetics, drugs or devices, may be injurious to health, and that such injurious nature cannot be adequately determined after such articles have entered into domestic commerce, it shall promulgate regulations providing for the issuance, suspension and revocation of provisional permits, offer for sale or transfer of such classes of food, cosmetics, drugs or devices to manufacturers, processors or packers of the same in such locality to which shall be attached such conditions governing the manufacture, processing or packing of such consumer products for such temporary period of time as may be necessary to protect public health; and after the effective date of such regulations, and during such temporary period, no person shall, offer for sale or transfer any such food, cosmetics, drugs or devices unless such manufacturer, processor or packer holds such permit.
+
+#### Article 38
+
+_Publicity and Publication._ –
 
 a) The Department my cause to be disseminated information regarding food, drugs, devices, or cosmetics in situations involving, in the opinion of the Department, imminent danger to health, or gross deception to the consumer. Nothing in this Article shall be construed to prohibit the Department from collecting, reporting, and illustrating the results of its investigations.
 
 b) The Department shall publish a Drug Reference Manual and Drug Bulletin to serve as reference by manufacturers, distributors, physicians, consumers and such other groups as may be deemed necessary. The Department is hereby authorized to sell the Drug Reference Manual at cost.
 
-**Article 39._Administrative Sanctions._** – In addition to the administrative sanctions provided for under Letter of Instructions No. 1223, the Department is hereby authorized to impose, after notice and hearing, administrative fines of not less than One thousand pesos (P1,000.00) nor more than Five thousand pesos (P5,000.00) for any violation of this Act.
+#### Article 39
+
+_Administrative Sanctions._ – In addition to the administrative sanctions provided for under Letter of Instructions No. 1223, the Department is hereby authorized to impose, after notice and hearing, administrative fines of not less than One thousand pesos (P1,000.00) nor more than Five thousand pesos (P5,000.00) for any violation of this Act.
 
 PROHIBITED ACTS AND PENALTIES
 
-**Article 40._Prohibited Acts._** – The following acts and the causing thereof are hereby prohibited:
+#### Article 40
+
+_Prohibited Acts._ – The following acts and the causing thereof are hereby prohibited:
 
 a) the manufacture, importation, exportation, sale, offering for sale, distribution or transfer of any food, drug, device or cosmetic that is adulterated or mislabeled;
 
@@ -577,7 +657,9 @@ l) the sale or offering for sale of any drug or device beyond its expiration or 
 
 m) the release for sale or distribution of a batch of drugs without batch certification when required under Article 34 hereof.
 
-**Article 41._Penalties._** –
+#### Article 41
+
+_Penalties._ –
 
 a) Any person who violates any of the provisions of Article 40 hereof shall, upon conviction, be subject to imprisonment of not less than one (1) year but not more than five (5) years, or a fine of not less than Five thousand pesos (P5,000.00) but not more than Ten thousand pesos (P10,000.00), or both such imprisonment and fine, in the discretion of the Court.
 
@@ -587,17 +669,25 @@ b) No person shall be subject to the penalties of sub-article (a) of this Articl
 
 ### CHAPTER III — HAZARDOUS SUBSTANCE
 
-**Article 42._Declaration of Policy._** – The State shall adopt measures designed to protect the consumer against substances other than food, drugs, cosmetics and devices that are hazardous to his health and safety.
+#### Article 42
 
-**Article 43._Implementing Agency._** – The Department of Health, hereby referred to as the Department, shall enforce the provisions of this Chapter.
+_Declaration of Policy._ – The State shall adopt measures designed to protect the consumer against substances other than food, drugs, cosmetics and devices that are hazardous to his health and safety.
 
-**Article 44._Regulations Declaring Hazardous Substances and Establishing Variations and Exemptions._** – The Department shall promulgate the rules and regulations governing the implementation of this Article.
+#### Article 43
+
+_Implementing Agency._ – The Department of Health, hereby referred to as the Department, shall enforce the provisions of this Chapter.
+
+#### Article 44
+
+_Regulations Declaring Hazardous Substances and Establishing Variations and Exemptions._ – The Department shall promulgate the rules and regulations governing the implementation of this Article.
 
 To resolve uncertainty as to the coverage of this Article, the Department may, by regulations, declare as hazardous any substance of mixture of substances which he finds meets the requirements of paragraph (ak), clause (1) (i) of Article 4.
 
 If the Department finds that for good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this Chapter is impracticable or is not necessary for the adequate protection of public health and safety, it shall promulgate regulations exempting such substances from these requirements to the extent he deems consistent with the objective of adequately safeguarding public health and safety, and any hazardous substance which does not bear a label in accordance with such regulations shall be deemed to be a mislabeled hazardous substance.
 
-**Article 45._Imports: Regulations on Imported Hazardous Substances._** –
+#### Article 45
+
+_Imports: Regulations on Imported Hazardous Substances._ –
 
 a) The Commissioner of Customs shall deliver to the Department, upon its request, samples of hazardous substances being imported or offered for import to the Philippines, giving notice thereof to the owner or consignee who may appear before the Department and exercise the right to make testimony. If it appears from the examination of such samples that such hazardous substance is a mislabeled hazardous substance or banned hazardous substance, then such hazardous substance shall be refused admission except as may be provided in an order issued by the Department authorizing delivery of the refused products or substance under the requirements imposed therein. The Commissioner of Customs shall cause the destruction of any hazardous substance refused admission unless such is exported, under regulations issued by the Commissioner within ninety (90) days from the date of notice of such refusal or within such additional time as may be fixed by him.
 
@@ -605,7 +695,9 @@ b) Pending decision on the admissibility of a hazardous substance being imported
 
 PROHIBITED ACTS AND PENALTIES
 
-**Article 46._Prohibited Acts._** – It shall be unlawful for any person to:
+#### Article 46
+
+_Prohibited Acts._ – It shall be unlawful for any person to:
 
 a) introduce or deliver for introduction into commerce of any mislabeled hazardous substance or banned hazardous substance;
 
@@ -617,7 +709,9 @@ d) give the guaranty or undertaking referred to in paragraph (b) of Article 93 a
 
 e) introduce or deliver for introduction into commerce or receive in commerce and subsequently deliver or preferred at cost or otherwise, or a hazardous substance in a refused food, drug, cosmetic or device container or in a container which, though not a reused container, is identifiable as a food, drug, cosmetic or device container by its labeling or by other identification. The use of a used food, drug, cosmetic or device container for a hazardous substance does not diminish the danger posed by the hazardous substance involved, therefore, such substance shall be deemed a mislabeled hazardous substance.
 
-**Article 47._Penalties, exception._** –
+#### Article 47
+
+_Penalties, exception._ –
 
 a) Any person who violates any of the provisions of Article 46 shall, upon conviction, be subject to a fine of not less than One thousand pesos (P1,000.00) or an imprisonment of not less than six (6) months but not more than five (5) years or both upon the discretion of the court.
 
@@ -627,13 +721,19 @@ b) No person shall be subject to the penalties of paragraph (a) of this Article 
 
 ### CHAPTER I — DECEPTIVE, UNFAIR AND UNCONSCIONABLE SALES ACTS OR PRACTICES
 
-**Article 48._Declaration of Policy._** – The State shall promote and encourage fair, honest and equitable relations among parties in consumer transactions and protect the consumer against deceptive, unfair and unconscionable sales acts or practices.
+#### Article 48
 
-**Article 49._Implementing Agency._** – The Department of Trade and Industry, hereby referred to as the Department, shall enforce the provisions of this Chapter.
+_Declaration of Policy._ – The State shall promote and encourage fair, honest and equitable relations among parties in consumer transactions and protect the consumer against deceptive, unfair and unconscionable sales acts or practices.
+
+#### Article 49
+
+_Implementing Agency._ – The Department of Trade and Industry, hereby referred to as the Department, shall enforce the provisions of this Chapter.
 
 REGULATION OF SALES ACTS AND PRACTICES
 
-**Article 50._Prohibition Against Deceptive Sales Acts or Practices._** – A deceptive act or practice by a seller or supplier in connection with a consumer transaction violates this Act whether it occurs before, during or after the transaction. An act or practice shall be deemed deceptive whenever the producer, manufacturer, supplier or seller, through concealment, false representation of fraudulent manipulation, induces a consumer to enter into a sales or lease transaction of any consumer product or service.
+#### Article 50
+
+_Prohibition Against Deceptive Sales Acts or Practices._ – A deceptive act or practice by a seller or supplier in connection with a consumer transaction violates this Act whether it occurs before, during or after the transaction. An act or practice shall be deemed deceptive whenever the producer, manufacturer, supplier or seller, through concealment, false representation of fraudulent manipulation, induces a consumer to enter into a sales or lease transaction of any consumer product or service.
 
 Without limiting the scope of the above paragraph, the act or practice of a seller or supplier is deceptive when it represents that:
 
@@ -657,9 +757,13 @@ i) the sales act or practice involves or does not involve a warranty, a disclaim
 
 j) the seller or supplier has a sponsorship, approval, or affiliation he does not have.
 
-**Article 51._Deceptive Sales Act or Practices By Regulation._** – The Department shall, after due notice and hearing, promulgate regulations declaring as deceptive any sales act, practice or technique which is a misrepresentation of facts other than these enumerated in Article 50.
+#### Article 51
 
-**Article 52._Unfair or Unconscionable Sales Act or Practice._** – An unfair or unconscionable sales act or practice by a seller or supplier in connection with a consumer transaction violates this Chapter whether it occurs before, during or after the consumer transaction. An act or practice shall be deemed unfair or unconscionable whenever the producer, manufacturer, distributor, supplier or seller, by taking advantage of the consumer's physical or mental infirmity, ignorance, illiteracy, lack of time or the general conditions of the environment or surroundings, induces the consumer to enter into a sales or lease transaction grossly inimical to the interests of the consumer or grossly one-sided in favor of the producer, manufacturer, distributor, supplier or seller.
+_Deceptive Sales Act or Practices By Regulation._ – The Department shall, after due notice and hearing, promulgate regulations declaring as deceptive any sales act, practice or technique which is a misrepresentation of facts other than these enumerated in Article 50.
+
+#### Article 52
+
+_Unfair or Unconscionable Sales Act or Practice._ – An unfair or unconscionable sales act or practice by a seller or supplier in connection with a consumer transaction violates this Chapter whether it occurs before, during or after the consumer transaction. An act or practice shall be deemed unfair or unconscionable whenever the producer, manufacturer, distributor, supplier or seller, by taking advantage of the consumer's physical or mental infirmity, ignorance, illiteracy, lack of time or the general conditions of the environment or surroundings, induces the consumer to enter into a sales or lease transaction grossly inimical to the interests of the consumer or grossly one-sided in favor of the producer, manufacturer, distributor, supplier or seller.
 
 In determining whether an act or practice is unfair and unconscionable, the following circumstances shall be considered:
 
@@ -673,17 +777,29 @@ d) that when the consumer was entered into, the seller or supplier was aware tha
 
 e) that the transaction that the seller or supplier induced the consumer to enter into was excessively one-sided in favor of the seller or supplier.
 
-**Article 53._Chain Distribution Plans or Pyramid Sales Schemes._** – Chain distribution plans or pyramid sales schemes shall not be employed in the sale of consumer products.
+#### Article 53
 
-**Article 54._Home Solicitation Sales._** – No business entity shall conduct any home solicitation sale of any consumer product or service without first obtaining a permit from the Department. Such permit may be denied suspended or revoked upon cause as provided in the rules and regulations promulgated by the Department, after due notice and hearing.
+_Chain Distribution Plans or Pyramid Sales Schemes._ – Chain distribution plans or pyramid sales schemes shall not be employed in the sale of consumer products.
 
-**Article 55._Home Solicitation Sales; When Conducted._** – Home solicitation sales may be conducted only between the hours of nine o'clock in the morning and seven o'clock in the evening of each working day: Provided, That solicitation sales may be made at a time other than the prescribed hours where the person solicited has previously agreed to the same.
+#### Article 54
 
-**Article 56._Home Solicitation Sales; by Whom Conducted._** – Home solicitation sales shall only be conducted by a person who has the proper identification and authority from his principal to make such solicitations.
+_Home Solicitation Sales._ – No business entity shall conduct any home solicitation sale of any consumer product or service without first obtaining a permit from the Department. Such permit may be denied suspended or revoked upon cause as provided in the rules and regulations promulgated by the Department, after due notice and hearing.
 
-**Article 57._Receipts for Home Solicitation Sales._** – Sales generated from home solicitation sales shall be properly receipted as per existing laws, rules and regulations on sale transactions.
+#### Article 55
 
-**Article 58._Prohibited Representations._** – A home solicitation sale shall not represent that:
+_Home Solicitation Sales; When Conducted._ – Home solicitation sales may be conducted only between the hours of nine o'clock in the morning and seven o'clock in the evening of each working day: Provided, That solicitation sales may be made at a time other than the prescribed hours where the person solicited has previously agreed to the same.
+
+#### Article 56
+
+_Home Solicitation Sales; by Whom Conducted._ – Home solicitation sales shall only be conducted by a person who has the proper identification and authority from his principal to make such solicitations.
+
+#### Article 57
+
+_Receipts for Home Solicitation Sales._ – Sales generated from home solicitation sales shall be properly receipted as per existing laws, rules and regulations on sale transactions.
+
+#### Article 58
+
+_Prohibited Representations._ – A home solicitation sale shall not represent that:
 
 a) the buyer has been specially selected;
 
@@ -691,9 +807,13 @@ b) a survey, test or research is being conducted; or
 
 c) the seller is making a special offer to a few persons only for a limited period of time.
 
-**Article 59._Referral Sales._** – Referral selling plans shall not be used in the sale of consumer products unless the seller executes in favor of the buyer a written undertaking that will grant a specified compensation or other benefit to said buyer in return for each and every transaction consummated by said seller with the persons referred by said buyer or for subsequent sales that said buyers has helped the seller enter into.
+#### Article 59
 
-**Article 60._Penalties._** –
+_Referral Sales._ – Referral selling plans shall not be used in the sale of consumer products unless the seller executes in favor of the buyer a written undertaking that will grant a specified compensation or other benefit to said buyer in return for each and every transaction consummated by said seller with the persons referred by said buyer or for subsequent sales that said buyers has helped the seller enter into.
+
+#### Article 60
+
+_Penalties._ –
 
 a) Any person who shall violate the provisions of Title III, Chapter I, shall upon conviction, be subject to a fine of not less than Five Hundred Pesos (P500.00) but not more than Ten Thousand Pesos (P10,000.00) or imprisonment of not less than five (5) months but not more than one (1) year or both, upon the discretion of the court.
 
@@ -701,17 +821,25 @@ b) In addition to the penalty provided for in paragraph (1), the court may grant
 
 ### CHAPTER II — REGULATION OF PRACTICES RELATIVE TO WEIGHTS AND MEASURES GENERAL PROVISION
 
-**Article 61._Implementing Agency._** – The provincial, city, or municipal treasurers shall strictly enforce the provisions of this Chapter, and its implementing rules and regulations: Provided, That, with respect to the use of the Metric System, it shall be enforced by the Department of Trade and Industry.
+#### Article 61
 
-**Article 62._Sealing and Testing of Instruments of Weights and Measure._** – All instruments for determining weights and measures in all consumer and consumer related transactions shall be tested, calibrated and sealed every six (6) months by the official sealer who shall be the provincial or city or municipal treasurer or his authorized representative upon payment of fees required under existing law: Provided, That all instruments of weights and measures shall continuously be inspected for compliance with the provisions of this Chapter.
+_Implementing Agency._ – The provincial, city, or municipal treasurers shall strictly enforce the provisions of this Chapter, and its implementing rules and regulations: Provided, That, with respect to the use of the Metric System, it shall be enforced by the Department of Trade and Industry.
 
-**Article 63._Use of Metric System._** – The system of weights and measures to be used for all products, commodities, materials, utilities, services and commercial transactions, in all contracts, deeds and other official and legal instruments and documents shall be the metric system, in accordance with existing laws and their implementing rules and regulations.
+#### Article 62
+
+_Sealing and Testing of Instruments of Weights and Measure._ – All instruments for determining weights and measures in all consumer and consumer related transactions shall be tested, calibrated and sealed every six (6) months by the official sealer who shall be the provincial or city or municipal treasurer or his authorized representative upon payment of fees required under existing law: Provided, That all instruments of weights and measures shall continuously be inspected for compliance with the provisions of this Chapter.
+
+#### Article 63
+
+_Use of Metric System._ – The system of weights and measures to be used for all products, commodities, materials, utilities, services and commercial transactions, in all contracts, deeds and other official and legal instruments and documents shall be the metric system, in accordance with existing laws and their implementing rules and regulations.
 
 The Department of Trade and Industry shall also adopt standard measurement for garments, shoes and other similar consumer products.
 
 PROHIBITED ACTS
 
-**Article 64._Fraudulent Practices Relative to Weights and Measures._** – The following acts relating to weights and measures are prohibited:
+#### Article 64
+
+_Fraudulent Practices Relative to Weights and Measures._ – The following acts relating to weights and measures are prohibited:
 
 a) for any person other than the official sealer or his duly authorized representative to place or attach an official tag, seal, sticker, mark, stamp, brand or other characteristic sign used to indicate that such instrument of weight and measure has officially been tested, calibrated, sealed or inspected;
 
@@ -739,7 +867,9 @@ l) for any person to procure the commission of any such offense abovementioned b
 
 Instruments officially sealed at some previous time which have remained unaltered and accurate and the seal or tag officially affixed thereto remains intact and in the same position and condition in which it was placed by the official sealer or his duly authorized representative shall, if presented for sealing, be sealed promptly on demand by the official sealer or his authorized representative without penalty except a surcharge fixed by law or regulation.
 
-**Article 65._Penalties._** –
+#### Article 65
+
+_Penalties._ –
 
 a) Any person who shall violate the provisions of paragraphs (a) to (f) and paragraph (l) of Article 64 or its implementing rules and regulations shall, upon conviction, be subject to a fine of not less than Two hundred pesos (P200.00) but not more than One thousand pesos (P1,000.00) or by imprisonment of not more than one (1) year or both upon the discretion of the court.
 
@@ -749,11 +879,17 @@ c) The owner-possessor or user of instrument of weights and measure enumerated i
 
 ### CHAPTER III — CONSUMER PRODUCT AND SERVICE WARRANTIES
 
-**Article 66._Implementing Agency._** – The Department of Trade and Industry, shall strictly enforce the provision of this Chapter and its implementing rules and regulations.
+#### Article 66
 
-**Article 67._Applicable Law on Warranties._** – The provisions of the Civil Code on conditions and warranties shall govern all contracts of sale with conditions and warranties.
+_Implementing Agency._ – The Department of Trade and Industry, shall strictly enforce the provision of this Chapter and its implementing rules and regulations.
 
-**Article 68._Additional Provisions on Warranties._** – In addition to the Civil Code provisions on sale with warranties, the following provisions shall govern the sale of consumer products with warranty:
+#### Article 67
+
+_Applicable Law on Warranties._ – The provisions of the Civil Code on conditions and warranties shall govern all contracts of sale with conditions and warranties.
+
+#### Article 68
+
+_Additional Provisions on Warranties._ – In addition to the Civil Code provisions on sale with warranties, the following provisions shall govern the sale of consumer products with warranty:
 
 a) Terms of express warranty. – Any seller or manufacturer who gives an express warranty shall:
 
@@ -805,17 +941,25 @@ f) Breach of warranties. – 1) In case of breach of express warranty, the consu
 
 2) In case of breach of implied warranty, the consumer may retain in the goods and recover damages, or reject the goods, cancel and contract and recover from the seller so much of the purchase price as has been paid, including damages.
 
-**Article 69._Warranties in Supply of Services._** –
+#### Article 69
+
+_Warranties in Supply of Services._ –
 
 a) In every contract for the supply of services to a consumer made by a seller in the course of a business, there is an implied warranty that the service will be rendered with due care and skill and that any material supplied in connection with such services will be reasonably fit for the purpose for which it is supplied.
 
 b) Where a seller supplies consumer services in the course of a business and the consumer, expressly or by implication, makes known to the seller the particular purpose for which the services are required, there is an implied warranty that the services supplied under the contract and any material supplied in connection therewith will be reasonably fit for that purpose or are of such a nature or quality that they might reasonably be expected to achieve that result, unless the circumstances show that the consumer does not rely or that it is unreasonable for him to rely, on the seller's skill or judgment.
 
-**Article 70._Professional Services._** – The provision of this Act on warranty shall not apply to professional services of certified public accountants, architects, engineers, lawyers, veterinarians, optometrists, pharmacists, nurses, nutritionists, dietitians, physical therapists, salesmen, medical and dental practitioners and other professionals engaged in their respective professional endeavors.
+#### Article 70
 
-**Article 71._Guaranty of Service Firms._** – Service firms shall guarantee workmanship and replacement of spare parts for a period not less than ninety (90) days which shall be indicated in the pertinent invoices.
+_Professional Services._ – The provision of this Act on warranty shall not apply to professional services of certified public accountants, architects, engineers, lawyers, veterinarians, optometrists, pharmacists, nurses, nutritionists, dietitians, physical therapists, salesmen, medical and dental practitioners and other professionals engaged in their respective professional endeavors.
 
-**Article 72._Prohibited Acts._** – The following acts are prohibited:
+#### Article 71
+
+_Guaranty of Service Firms._ – Service firms shall guarantee workmanship and replacement of spare parts for a period not less than ninety (90) days which shall be indicated in the pertinent invoices.
+
+#### Article 72
+
+_Prohibited Acts._ – The following acts are prohibited:
 
 a) refusal without any valid legal cause by the total manufacturer or any person obligated under the warranty or guarantee to honor a warranty or guarantee issued;
 
@@ -825,7 +969,9 @@ c) removal by any person of a product's warranty card for the purpose of evading
 
 d) any false representation in an advertisement as to the existence of a warranty or guarantee.
 
-**Article 73._Penalties._** –
+#### Article 73
+
+_Penalties._ –
 
 a) Any person who shall violate the provisions of Article 67 shall be subject to fine of not less than Five hundred pesos (P500.00) but not more than Five thousand pesos (P5,000.00) or an imprisonment of not less than three (3) months but not more than two (2) years or both upon the discretion of the court. A second conviction under this paragraph shall also carry with it the penalty or revocation of his business permit and license.
 
@@ -835,11 +981,17 @@ The imposition of any of the penalties herein provided is without prejudice to a
 
 ### CHAPTER IV — LABELING AND FAIR PACKAGING
 
-**Article 74._Declaration of Policy._** – The State shall enforce compulsory labeling, and fair packaging to enable the consumer to obtain accurate information as to the nature, quality and quantity of the contents of consumer products and to facilitate his comparison of the value of such products.
+#### Article 74
 
-**Article 75._Implementing Agency._** – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations: Provided, That with respect to food, drugs, cosmetics, devices and hazardous substances, it shall be enforced by the concerned department.
+_Declaration of Policy._ – The State shall enforce compulsory labeling, and fair packaging to enable the consumer to obtain accurate information as to the nature, quality and quantity of the contents of consumer products and to facilitate his comparison of the value of such products.
 
-**Article 76._Prohibited Acts on Labeling and Packaging._** – It shall be unlawful for any person, either as principal or agent, engaged in the labeling or packaging of any consumer product, to display or distribute or to cause to be displayed or distributed in commerce any consumer product whose package or label does not conform to the provisions of this Chapter.
+#### Article 75
+
+_Implementing Agency._ – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations: Provided, That with respect to food, drugs, cosmetics, devices and hazardous substances, it shall be enforced by the concerned department.
+
+#### Article 76
+
+_Prohibited Acts on Labeling and Packaging._ – It shall be unlawful for any person, either as principal or agent, engaged in the labeling or packaging of any consumer product, to display or distribute or to cause to be displayed or distributed in commerce any consumer product whose package or label does not conform to the provisions of this Chapter.
 
 The prohibition in this Chapter shall not apply to persons engaged in the business of wholesale or retail distributors of consumer products except to the extent that such persons:
 
@@ -849,7 +1001,9 @@ b) prescribe or specify by any means the manner in which such products are packa
 
 c) having knowledge, refuse to disclose the source of the mislabeled or mispackaged products.
 
-**Article 77._Minimum Labeling Requirements for Consumer Products._** – All consumer products domestically sold whether manufactured locally or imported shall indicate the following in their respective labels of packaging:
+#### Article 77
+
+_Minimum Labeling Requirements for Consumer Products._ – All consumer products domestically sold whether manufactured locally or imported shall indicate the following in their respective labels of packaging:
 
 a) its correct and registered trade name or brand name;
 
@@ -883,9 +1037,13 @@ Any word, statement or other information required by or under authority of the p
 
 The above requirements shall form an integral part of the label without danger of being erased or detached under ordinary handling of the product.
 
-**Article 78._Philippine Product Standard Mark._** – The label may contain the Philippine Product Standard Mark if it is certified to have passed the consumer product standard prescribed by the concerned department.
+#### Article 78
 
-**Article 79._Authority of the Concerned Department to Provide for Additional Labeling and Packaging Requirements._** – Whenever the concerned department determines that regulations containing requirements other than those prescribed in Article 77 hereof are necessary to prevent the deception of the consumer or to facilitate value comparisons as to any consumer product, it may issue such rules and regulations to:
+_Philippine Product Standard Mark._ – The label may contain the Philippine Product Standard Mark if it is certified to have passed the consumer product standard prescribed by the concerned department.
+
+#### Article 79
+
+_Authority of the Concerned Department to Provide for Additional Labeling and Packaging Requirements._ – Whenever the concerned department determines that regulations containing requirements other than those prescribed in Article 77 hereof are necessary to prevent the deception of the consumer or to facilitate value comparisons as to any consumer product, it may issue such rules and regulations to:
 
 a) establish and define standards for characterization of the size of a package enclosing any consumer product which may be used to supplement the label statement of net quality, of contents of packages containing such products but this clause shall not be construed as authorizing any limitation on the size, shape, weight, dimensions, or number of packages which may be used to enclose any product;
 
@@ -895,7 +1053,9 @@ c) prevent the nonfunctional slack-fill of packages containing consumer products
 
 For purposes of paragraph (c) of this Article, a package shall be deemed to be nonfunctionally slack-filled if it is filled to substantially less than its capacity for reasons other than (1) protection of the contents of such package, (2) the requirements of machines used for enclosing the contents in such package, or (3) inherent characteristics of package materials or construction being used.
 
-**Article 80._Special Packaging of Consumer Products for the Protection of Children._** – The concerned department may establish standards for the special packaging of any consumer product if it finds that:
+#### Article 80
+
+_Special Packaging of Consumer Products for the Protection of Children._ – The concerned department may establish standards for the special packaging of any consumer product if it finds that:
 
 a) the degree or nature of the hazard to children in the availability of such product, by reason of its packaging, is such that special packaging is required to protect children from serious personal injury or serious illness resulting from handling and use of such product; and
 
@@ -909,13 +1069,21 @@ b) the special packaging to be required by such standard is technically feasible
 
 4) the nature and use of consumer products.
 
-**Article 81._Price Tag Requirement._** – It shall be unlawful to offer any consumer product for retail sale to the public without an appropriate price tag, label or marking publicly displayed to indicate the price of each article and said products shall not be sold at a price higher than that stated therein and without discrimination to all buyers: Provided, That lumber sold, displayed or offered for sale to the public shall be tagged or labeled by indicating thereon the price and the corresponding official name of the wood: Provided, further, That if consumer products for sale are too small or the nature of which makes it impractical to place a price tag thereon price list placed at the nearest point where the products are displayed indicating the retail price of the same may suffice.
+#### Article 81
 
-**Article 82._Manner of Placing Price Tags._** – Price tags, labels or markings must be written clearly, indicating the price of the consumer product per unit in pesos and centavos.
+_Price Tag Requirement._ – It shall be unlawful to offer any consumer product for retail sale to the public without an appropriate price tag, label or marking publicly displayed to indicate the price of each article and said products shall not be sold at a price higher than that stated therein and without discrimination to all buyers: Provided, That lumber sold, displayed or offered for sale to the public shall be tagged or labeled by indicating thereon the price and the corresponding official name of the wood: Provided, further, That if consumer products for sale are too small or the nature of which makes it impractical to place a price tag thereon price list placed at the nearest point where the products are displayed indicating the retail price of the same may suffice.
 
-**Article 83._Regulations for Price Tag Placement._** – The concerned department shall prescribe rules and regulations for the visible placement of price tags for specific consumer products and services. There shall be no erasures or alterations of any sort of price tags, labels or markings.
+#### Article 82
 
-**Article 84._Additional Labeling Requirements for Food._** – The following additional labeling requirements shall be imposed by the concerned department for food:
+_Manner of Placing Price Tags._ – Price tags, labels or markings must be written clearly, indicating the price of the consumer product per unit in pesos and centavos.
+
+#### Article 83
+
+_Regulations for Price Tag Placement._ – The concerned department shall prescribe rules and regulations for the visible placement of price tags for specific consumer products and services. There shall be no erasures or alterations of any sort of price tags, labels or markings.
+
+#### Article 84
+
+_Additional Labeling Requirements for Food._ – The following additional labeling requirements shall be imposed by the concerned department for food:
 
 a) expiry or expiration date, where applicable;
 
@@ -927,7 +1095,9 @@ d) whether the ingredients use are natural or synthetic, as the case may be;
 
 e) such other labeling requirements as the concerned department may deem necessary and reasonable.
 
-**Article 85._Mislabeled Food._** – A food shall also be deemed mislabeled:
+#### Article 85
+
+_Mislabeled Food._ – A food shall also be deemed mislabeled:
 
 a) if its labeling or advertising is false or misleading in any way;
 
@@ -963,9 +1133,13 @@ j) if it purports to be or is represented for special dietary uses, unless its l
 
 k) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling, stating that fact: Provided, That to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the concerned department. The provisions of this paragraph or paragraphs (g) and (i) with respect to the artificial coloring shall not apply in the case of butter, cheese or ice cream.
 
-**Article 86._Labeling of Drugs._** – The Generics Act shall apply in the labeling of drugs.
+#### Article 86
 
-**Article 87._Additional Labeling Requirements for Cosmetics._** – The following additional requirements may be required for cosmetics:
+_Labeling of Drugs._ – The Generics Act shall apply in the labeling of drugs.
+
+#### Article 87
+
+_Additional Labeling Requirements for Cosmetics._ – The following additional requirements may be required for cosmetics:
 
 a) expiry or expiration date;
 
@@ -975,7 +1149,9 @@ c) precautions or contra-indications; and
 
 d) such other labeling requirements as the concerned department may deem necessary and reasonable.
 
-**Article 88._Special Labeling Requirements for Cosmetics._** – A cosmetic shall be deemed mislabeled:
+#### Article 88
+
+_Special Labeling Requirements for Cosmetics._ – A cosmetic shall be deemed mislabeled:
 
 a) if its labeling or advertising is false or misleading in any way;
 
@@ -987,7 +1163,9 @@ d) if its container is so made, formed or filled as to be misleading; or
 
 e) if its label does not state the common or usual name of its ingredients.
 
-**Article 89._Mislabeled Drugs and Devices._** – A drug or device shall be deemed to be mislabeled:
+#### Article 89
+
+_Mislabeled Drugs and Devices._ – A drug or device shall be deemed to be mislabeled:
 
 a) if its labeling is false or misleading in any way;
 
@@ -1019,9 +1197,13 @@ j) if it is, purports to be or is represented as a drug composed wholly or partl
 
 2) such certificate of release is in effect with respect to such drug: Provided, That this paragraph shall not apply to any drug or class of drugs exempted by regulations promulgated under Authority of this Act.
 
-**Article 90._Regulation-making Exemptions._** – The concerned department may promulgate regulations exempting from any labeling requirements of this Act food, cosmetics, drugs or devices which are, in accordance with the practice of trade, to be processed, labeled or repacked in substantial quantities at establishments other than those where originally processed, labeled or packed on condition that such food, cosmetics, drugs or devices are not adulterated or mislabeled under the provisions of this Act and other applicable laws upon approval from such processing, labeling and repacking establishments.
+#### Article 90
 
-**Article 91._Mislabeled Hazardous Substances._** – Hazardous substances shall be deemed mislabeled when:
+_Regulation-making Exemptions._ – The concerned department may promulgate regulations exempting from any labeling requirements of this Act food, cosmetics, drugs or devices which are, in accordance with the practice of trade, to be processed, labeled or repacked in substantial quantities at establishments other than those where originally processed, labeled or packed on condition that such food, cosmetics, drugs or devices are not adulterated or mislabeled under the provisions of this Act and other applicable laws upon approval from such processing, labeling and repacking establishments.
+
+#### Article 91
+
+_Mislabeled Hazardous Substances._ – Hazardous substances shall be deemed mislabeled when:
 
 a) having been intended or packaged in a form suitable for use in households, especially for children, the packaging or labeling of which is in violation of the special packaging regulations issued by the concerned department;
 
@@ -1051,9 +1233,13 @@ b) such substance fails to bear a label;
 
 2) on which any statement required under clause 1) of this paragraph is located prominently in bright red and orange color with a black symbol in contrast typography, layout or color with the other printed matters on the label.
 
-**Article 92._Exemptions._** – If the concerned department finds that for good or sufficient reasons, full compliance with the labeling requirements otherwise applicable under this Act is impracticable or is not necessary for the adequate protection of public health and safety, it shall promulgate regulations exempting such substances from these requirements to the extent it deems consistent with the objective of adequately safeguarding public health and safety, and any hazardous substance which does not bear a label in accordance with such regulations shall be deemed mislabeled hazardous substance.
+#### Article 92
 
-**Article 93._Grounds for Seizure and Condemnation of Mislabeled Hazardous Substances._** –
+_Exemptions._ – If the concerned department finds that for good or sufficient reasons, full compliance with the labeling requirements otherwise applicable under this Act is impracticable or is not necessary for the adequate protection of public health and safety, it shall promulgate regulations exempting such substances from these requirements to the extent it deems consistent with the objective of adequately safeguarding public health and safety, and any hazardous substance which does not bear a label in accordance with such regulations shall be deemed mislabeled hazardous substance.
+
+#### Article 93
+
+_Grounds for Seizure and Condemnation of Mislabeled Hazardous Substances._ –
 
 a) Any mislabeled hazardous substance when introduced into commerce or while held for sale shall be liable to be proceeded against and condemned upon order of the concerned department in accordance with existing procedure for seizure and condemnation of articles in commerce: Provided, That this Article shall not apply to a hazardous substance intended for export to any foreign country if:
 
@@ -1069,9 +1255,13 @@ b) any hazardous substance condemned under this Article shall after entry of ord
 
 c) all expenses in connection with the destruction provided for in paragraphs (a) and (b) of this Article and all expenses in connection with the storage and labor with respect to such hazardous substance shall be paid by the owner or consignee, and default in such payment shall constitute a lien against any importation by such owner or consignee.
 
-**Article 94._Labeling Requirements of Cigarettes._** – All cigarettes for sale or distribution within the country shall be contained in a package which shall bear the following statement or its equivalent in Filipino: "Warning" Cigarette Smoking is Dangerous to Your Health". Such statement shall be located in conspicuous place on every cigarette package and shall appear in conspicuous and legible type in contrast by typography, layout or color with other printed matter on the package. Any advertisement of cigarette shall contain the name warning as indicated in the label.
+#### Article 94
 
-**Article 95._Penalties._** –
+_Labeling Requirements of Cigarettes._ – All cigarettes for sale or distribution within the country shall be contained in a package which shall bear the following statement or its equivalent in Filipino: "Warning" Cigarette Smoking is Dangerous to Your Health". Such statement shall be located in conspicuous place on every cigarette package and shall appear in conspicuous and legible type in contrast by typography, layout or color with other printed matter on the package. Any advertisement of cigarette shall contain the name warning as indicated in the label.
+
+#### Article 95
+
+_Penalties._ –
 
 a) Any person who shall violate the provisions of Title III, Chapter IV of this Act, or its implementing rules and regulations, except Articles 81 to 83 of the same Chapter, shall be subject to a fine of not less than Five hundred pesos (P500.00) but not more than Twenty thousand pesos (P20,000.00) or imprisonment of not less than three (3) months but not more than two (2) years or both, at the discretion of the court: Provided, That, if the consumer product is one which is not a food, cosmetic, drug, device or hazardous substance, the penalty shall be a fine of not less than Two hundred pesos (P200.00) but not more than Five thousand pesos (P5,000.00) or imprisonment of not less than one (1) month but not more than one (1) year or both, at the discretion of the court.
 
@@ -1079,9 +1269,13 @@ b) Any person who violates the provisions of Article 81 to 83 for the first time
 
 ### CHAPTER V — LIABILITY FOR PRODUCT AND SERVICE
 
-**Article 96._Implementing Agency._** – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations.
+#### Article 96
 
-**Article 97._Liability for the Defective Products._** – Any Filipino or foreign manufacturer, producer, and any importer, shall be liable for redress, independently of fault, for damages caused to consumers by defects resulting from design, manufacture, construction, assembly and erection, formulas and handling and making up, presentation or packing of their products, as well as for the insufficient or inadequate information on the use and hazards thereof.
+_Implementing Agency._ – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations.
+
+#### Article 97
+
+_Liability for the Defective Products._ – Any Filipino or foreign manufacturer, producer, and any importer, shall be liable for redress, independently of fault, for damages caused to consumers by defects resulting from design, manufacture, construction, assembly and erection, formulas and handling and making up, presentation or packing of their products, as well as for the insufficient or inadequate information on the use and hazards thereof.
 
 A product is defective when it does not offer the safety rightfully expected of it, taking relevant circumstances into consideration, including but not limited to:
 
@@ -1101,7 +1295,9 @@ b) that although it did place the product on the market such product has no defe
 
 c) that the consumer or a third party is solely at fault.
 
-**Article 98._Liability of Tradesman or Seller._** – The tradesman/seller is likewise liable, pursuant to the preceding article when;
+#### Article 98
+
+_Liability of Tradesman or Seller._ – The tradesman/seller is likewise liable, pursuant to the preceding article when;
 
 a) it is not possible to identify the manufacturer, builder, producer or importer.
 
@@ -1109,7 +1305,9 @@ b) the product is supplied, without clear identification of the manufacturer, pr
 
 c) he does not adequately preserve perishable goods. The party making payment to the damaged party may exercise the right to recover a part of the whole of the payment made against the other responsible parties, in accordance with their part or responsibility in the cause of the damage effected.
 
-**Article 99._Liability for Defective Services._** – The service supplier is liable for redress, independently of fault, for damages caused to consumers by defects relating to the rendering of the services, as well as for insufficient or inadequate information on the fruition and hazards thereof.
+#### Article 99
+
+_Liability for Defective Services._ – The service supplier is liable for redress, independently of fault, for damages caused to consumers by defects relating to the rendering of the services, as well as for insufficient or inadequate information on the fruition and hazards thereof.
 
 The service is defective when it does not provide the safety the consumer may rightfully expect of it, taking the relevant circumstances into consideration, including but not limited to:
 
@@ -1127,7 +1325,9 @@ a) that there is no defect in the service rendered;
 
 b) that the consumer or third party is solely at fault.
 
-**Article 100._Liability for Product and Service Imperfection._** – The suppliers of durable or nondurable consumer products are jointly liable for imperfections in quality that render the products unfit or inadequate for consumption for which they are designed or decrease their value, and for those resulting from inconsistency with the information provided on the container, packaging, labels or publicity messages/advertisement, with due regard to the variations resulting from their nature, the consumer being able to demand replacement to the imperfect parts.
+#### Article 100
+
+_Liability for Product and Service Imperfection._ – The suppliers of durable or nondurable consumer products are jointly liable for imperfections in quality that render the products unfit or inadequate for consumption for which they are designed or decrease their value, and for those resulting from inconsistency with the information provided on the container, packaging, labels or publicity messages/advertisement, with due regard to the variations resulting from their nature, the consumer being able to demand replacement to the imperfect parts.
 
 If the imperfection is not corrected within thirty (30) days, the consumer may alternatively demand at his option:
 
@@ -1143,7 +1343,9 @@ The consumer may make immediate use of the alternatives under the second paragra
 
 If the consumer opts for the alternative under sub-paragraph (a) of the second paragraph of this Article, and replacement of the product is not possible, it may be replaced by another of a different kind, mark or model: Provided, That any difference in price may result thereof shall be supplemented or reimbursed by the party which caused the damage, without prejudice to the provisions of the second, third and fourth paragraphs of this Article.
 
-**Article 101._Liability for Product Quantity Imperfection._** – Suppliers are jointly liable for imperfections in the quantity of the product when, in due regard for variations inherent thereto, their net content is less than that indicated on the container, packaging, labeling or advertisement, the consumer having powers to demand, alternatively, at his own option:
+#### Article 101
+
+_Liability for Product Quantity Imperfection._ – Suppliers are jointly liable for imperfections in the quantity of the product when, in due regard for variations inherent thereto, their net content is less than that indicated on the container, packaging, labeling or advertisement, the consumer having powers to demand, alternatively, at his own option:
 
 a) the proportionate price
 
@@ -1157,7 +1359,9 @@ The provisions of the fifth paragraph of Article 99 shall apply to this Article.
 
 The immediate supplier shall be liable if the instrument used for weighing or measuring is not gauged in accordance with official standards.
 
-**Article 102._Liability for Service Quality Imperfection._** – The service supplier is liable for any quality imperfections that render the services improper for consumption or decrease their value, and for those resulting from inconsistency with the information contained in the offer or advertisement, the consumer being entitled to demand alternatively at his option:
+#### Article 102
+
+_Liability for Service Quality Imperfection._ – The service supplier is liable for any quality imperfections that render the services improper for consumption or decrease their value, and for those resulting from inconsistency with the information contained in the offer or advertisement, the consumer being entitled to demand alternatively at his option:
 
 a) the performance of the services, without any additional cost and when applicable;
 
@@ -1169,31 +1373,49 @@ Reperformance of services may be entrusted to duly qualified third parties, at t
 
 Improper services are those which prove to be inadequate for purposes reasonably expected of them and those that fail to meet the provisions of this Act regulating service rendering.
 
-**Article 103._Repair Service Obligation._** – When services are provided for the repair of any product, the supplier shall be considered implicitly bound to use adequate, new, original replacement parts, or those that maintain the manufacturer's technical specifications unless, otherwise authorized, as regards to the latter by the consumer.
+#### Article 103
 
-**Article 104._Ignorance of Quality Imperfection._** – The supplier's ignorance of the quality imperfections due to inadequacy of the products and services does not exempt him from any liability.
+_Repair Service Obligation._ – When services are provided for the repair of any product, the supplier shall be considered implicitly bound to use adequate, new, original replacement parts, or those that maintain the manufacturer's technical specifications unless, otherwise authorized, as regards to the latter by the consumer.
 
-**Article 105._Legal Guarantee of Adequacy._** – The legal guarantee of product or service adequacy does not require an express instrument or contractual exoneration of the supplier being forbidden.
+#### Article 104
 
-**Article 106._Prohibition in Contractual Stipulation._** – The stipulation in a contract of a clause preventing, exonerating or reducing the obligation to indemnify for damages effected, as provided for in this and in the preceding Articles, is hereby prohibited, if there is more than one person responsible for the cause of the damage, they shall be jointly liable for the redress established in the pertinent provisions of this Act. However, if the damage is caused by a component or part incorporated in the product or service, its manufacturer, builder or importer and the person who incorporated the component or part are jointly liable.
+_Ignorance of Quality Imperfection._ – The supplier's ignorance of the quality imperfections due to inadequacy of the products and services does not exempt him from any liability.
 
-**Article 107._Penalties._** – Any person who shall violate any provision of this Chapter or its implementing rules and regulations with respect to any consumer product which is not food, cosmetic, or hazardous substance shall upon conviction, be subject to a fine of not less than Five thousand pesos (P5,000.00) and by imprisonment of not more than one (1) year or both upon the discretion of the court.
+#### Article 105
+
+_Legal Guarantee of Adequacy._ – The legal guarantee of product or service adequacy does not require an express instrument or contractual exoneration of the supplier being forbidden.
+
+#### Article 106
+
+_Prohibition in Contractual Stipulation._ – The stipulation in a contract of a clause preventing, exonerating or reducing the obligation to indemnify for damages effected, as provided for in this and in the preceding Articles, is hereby prohibited, if there is more than one person responsible for the cause of the damage, they shall be jointly liable for the redress established in the pertinent provisions of this Act. However, if the damage is caused by a component or part incorporated in the product or service, its manufacturer, builder or importer and the person who incorporated the component or part are jointly liable.
+
+#### Article 107
+
+_Penalties._ – Any person who shall violate any provision of this Chapter or its implementing rules and regulations with respect to any consumer product which is not food, cosmetic, or hazardous substance shall upon conviction, be subject to a fine of not less than Five thousand pesos (P5,000.00) and by imprisonment of not more than one (1) year or both upon the discretion of the court.
 
 In case of juridical persons, the penalty shall be imposed upon its president, manager or head. If the offender is an alien, he shall, after payment of fine and service of sentence, be deported without further deportation proceedings.
 
 ### CHAPTER VI — ADVERTISING AND SALES PROMOTION
 
-**Article 108._Declaration of Policy._** – The State shall protect the consumer from misleading advertisements and fraudulent sales promotion practices.
+#### Article 108
 
-**Article 109._Implementing Agency._** – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations: Provided, That with respect to food, drugs, cosmetics, devices and hazardous substances, it shall be enforced by the Department of Health.
+_Declaration of Policy._ – The State shall protect the consumer from misleading advertisements and fraudulent sales promotion practices.
+
+#### Article 109
+
+_Implementing Agency._ – The Department of Trade and Industry shall enforce the provisions of this Chapter and its implementing rules and regulations: Provided, That with respect to food, drugs, cosmetics, devices and hazardous substances, it shall be enforced by the Department of Health.
 
 FALSE, DECEPTIVE AND MISLEADING ADVERTISEMENT
 
-**Article 110._False, Deceptive or Misleading Advertisement._** – It shall be unlawful for any person to disseminate or to cause the dissemination of any false, deceptive or misleading advertisement by Philippine mail or in commerce by print, radio, television, outdoor advertisement or other medium for the purpose of inducing or which is likely to induce directly or indirectly the purchase of consumer products or services.
+#### Article 110
+
+_False, Deceptive or Misleading Advertisement._ – It shall be unlawful for any person to disseminate or to cause the dissemination of any false, deceptive or misleading advertisement by Philippine mail or in commerce by print, radio, television, outdoor advertisement or other medium for the purpose of inducing or which is likely to induce directly or indirectly the purchase of consumer products or services.
 
 An advertisement shall be false, deceptive or misleading if it is not in conformity with the provisions of this Act or if it is misleading in a material respect. In determining whether any advertisement is false, deceptive or misleading, there shall be taken into account, among other things, not only representations made or any combination thereof, but also the extent to which the advertisement fails to reveal material facts in the light of such representations, or materials with respect to consequences which may result from the use or application of consumer products or services to which the advertisement relates under the conditions prescribed in said advertisement, or under such conditions as are customary or usual.
 
-**Article 111._Price Comparisons._** – Comparative price advertising by sellers of consumer products or services shall conform to the following conditions:
+#### Article 111
+
+_Price Comparisons._ – Comparative price advertising by sellers of consumer products or services shall conform to the following conditions:
 
 a) Where the comparison relates to a former price of the seller, the item compared shall either have been sold at that price within the ninety (90) days immediately preceding the date of the advertisement, or it shall have been offered for sale for at least four (4) weeks during such ninety-day period. If the comparison does not relate to an item sold or offered for sale during the ninety-day period, the date, time or seasonal period of such sale or offer shall be disclosed in the advertisement.
 
@@ -1201,7 +1423,9 @@ b) Where the comparison relates to a seller's future price, the future price sha
 
 c) Where the comparison relates to a competitor's price, the competitor's price shall relate to the consumer products or services advertised or sold in the ninety-day period and shall be representative of the prices similar consumer products or services are sold or advertised in the locality where the price comparison was made.
 
-**Article 112._Special Advertising Requirements for Food, Drug, Cosmetic, Device, or Hazardous Substance._** –
+#### Article 112
+
+_Special Advertising Requirements for Food, Drug, Cosmetic, Device, or Hazardous Substance._ –
 
 a) No claim in the advertisement may be made which is not contained in the label or approved by the concerned department.
 
@@ -1215,15 +1439,21 @@ e) Any businessman who is doubtful as to whether his advertisement relative to f
 
 f) No person shall advertise any food, drug, cosmetic, device, or hazardous substance unless such product is duly registered and approved by the concerned department for use in any advertisement.
 
-**Article 113._Credit Advertising._** – No advertisement to aid, promote, or assist, directly or indirectly, any extension of consumer credit may:
+#### Article 113
+
+_Credit Advertising._ – No advertisement to aid, promote, or assist, directly or indirectly, any extension of consumer credit may:
 
 a) state that a specific periodic consumer credit amount or installment amount can be arranged, unless the creditor usually and customarily arranges credit payment or installments for that period and in that amount; and
 
 b) state that a specified down payment is required in any extension of consumer credit, unless the creditor usually or customarily arranges down payment in that amount.
 
-**Article 114._Advertising of Open-end Credit Plan._** – In case of an open-end credit plan, the rate of interest and other material features of the plan shall be disclosed in the advertisement.
+#### Article 114
 
-**Article 115._Special Claims._** – Any advertisement which makes special claims shall:
+_Advertising of Open-end Credit Plan._ – In case of an open-end credit plan, the rate of interest and other material features of the plan shall be disclosed in the advertisement.
+
+#### Article 115
+
+_Special Claims._ – Any advertisement which makes special claims shall:
 
 a) substantiate such claims; and
 
@@ -1231,39 +1461,63 @@ b) properly use research result, scientific terms, statistics or quotations.
 
 PROMOTION OF SALES OF CONSUMER PRODUCTS AND SERVICES
 
-**Article 116._Permit to Conduct Promotion._** – No person shall conduct any sales campaigns, including beauty contest, national in character, sponsored and promoted by manufacturing enterprises without first securing a permit from the concerned department at least thirty (30) calendar days prior to the commencement thereof. Unless an objection or denial is received within fifteen (15) days from filing of the application, the same shall be deemed approved and the promotion campaign or activity may be conducted: Provided, That any sales promotion campaign using medical prescriptions or any part thereof or attachment thereto for raffles or a promise of reward shall not be allowed, nor a permit be issued thereof.
+#### Article 116
 
-**Article 117._Suspension of Publication or Dissemination of Information._** – The concerned department may, after due notice and hearing, suspend the publication and dissemination of any information accompanying a sales promotion campaign, if it finds the campaign to be in violation of the provisions of this Chapter or its implementing rules and regulations.
+_Permit to Conduct Promotion._ – No person shall conduct any sales campaigns, including beauty contest, national in character, sponsored and promoted by manufacturing enterprises without first securing a permit from the concerned department at least thirty (30) calendar days prior to the commencement thereof. Unless an objection or denial is received within fifteen (15) days from filing of the application, the same shall be deemed approved and the promotion campaign or activity may be conducted: Provided, That any sales promotion campaign using medical prescriptions or any part thereof or attachment thereto for raffles or a promise of reward shall not be allowed, nor a permit be issued thereof.
 
-**Article 118._Conduct of Sales Promotion._** – A sales promotion which is intended for broad consumer participation and utilizes mass media shall indicate the duration, commencement and termination of the promotion, the deadline for submission of entries and the governing criteria or procedure to be followed therein.
+#### Article 117
 
-**Article 119._Packaging of Products Under Promotion._** – The packaging of the products covered by the sales promotion shall not be tampered, neither shall any change in the product's package be affected without the authority of the sponsoring agency or the owner or manufacturer of the product.
+_Suspension of Publication or Dissemination of Information._ – The concerned department may, after due notice and hearing, suspend the publication and dissemination of any information accompanying a sales promotion campaign, if it finds the campaign to be in violation of the provisions of this Chapter or its implementing rules and regulations.
 
-**Article 120._Change in Starting and Termination Dates of Promotion._** – The concerned department shall be advised of any delay of starting dates or termination dates and details of any change in the conduct of a sales promotion. Any change in the termination dates shall be published in a newspaper of general circulation before the expiration of the original schedule or the termination date, whichever comes first.
+#### Article 118
 
-**Article 121._Determination of Winners._** – The winners in any sales promotion shall be determined at a definite time and place and shall be verified by a representative of the concerned department and the sponsor. Immediately after the winners are selected or determined, a list with their addresses and corresponding prizes shall be submitted to the concerned department. All winners shall be announced or published in the same manner that the sales promotion was announced or published: Provided, That publication in a newspaper of general circulation shall be done in a legible manner at least once, if the sales promotion is national in scope: Provided, further, That such announcement and publication shall be done not later than two (2) weeks after the determination of winners. In all cases where the amount of the price is Five hundred pesos (P500.00) or more, the winners shall also be notified in writing by registered mail or any communication wherein proof of notice or service can be verified.
+_Conduct of Sales Promotion._ – A sales promotion which is intended for broad consumer participation and utilizes mass media shall indicate the duration, commencement and termination of the promotion, the deadline for submission of entries and the governing criteria or procedure to be followed therein.
 
-**Article 122._Injunctive Relief ._** –
+#### Article 119
+
+_Packaging of Products Under Promotion._ – The packaging of the products covered by the sales promotion shall not be tampered, neither shall any change in the product's package be affected without the authority of the sponsoring agency or the owner or manufacturer of the product.
+
+#### Article 120
+
+_Change in Starting and Termination Dates of Promotion._ – The concerned department shall be advised of any delay of starting dates or termination dates and details of any change in the conduct of a sales promotion. Any change in the termination dates shall be published in a newspaper of general circulation before the expiration of the original schedule or the termination date, whichever comes first.
+
+#### Article 121
+
+_Determination of Winners._ – The winners in any sales promotion shall be determined at a definite time and place and shall be verified by a representative of the concerned department and the sponsor. Immediately after the winners are selected or determined, a list with their addresses and corresponding prizes shall be submitted to the concerned department. All winners shall be announced or published in the same manner that the sales promotion was announced or published: Provided, That publication in a newspaper of general circulation shall be done in a legible manner at least once, if the sales promotion is national in scope: Provided, further, That such announcement and publication shall be done not later than two (2) weeks after the determination of winners. In all cases where the amount of the price is Five hundred pesos (P500.00) or more, the winners shall also be notified in writing by registered mail or any communication wherein proof of notice or service can be verified.
+
+#### Article 122
+
+_Injunctive Relief ._ –
 
 a) Whenever the concerned department has the reason to believe (1) that any person, partnership or corporation is engaged in or is about to engage in the dissemination or the causing of dissemination of any advertisement in violation of Articles 110 to 115, and (2) that the enjoining thereof would be to the interest of the public, the concerned department shall direct the filing of a complaint in the court of competent jurisdiction, to enjoin the dissemination or the causing of the dissemination of such advertisement. Upon proper showing, a temporary injunction or restraining order shall be granted without bond. Any such complaint shall be filed in the locality in which the person, partnership or corporation resides or transacts business.
 
 b) Any person who may suffer loss, damage or injury due to a false, misleading or deceptive advertisement as defined in Article 4 may file a complaint with injunction in his own name with any court of competent jurisdiction to recover damages, cost of suit and reasonable attorney's fees.
 
-**Article 123._Penalties._** –
+#### Article 123
+
+_Penalties._ –
 
 a) any person, association, partnership or corporation who shall violate any of the provisions of Articles 110 to 115 shall, upon conviction, be subject to a fine of not less than Five Hundred Pesos (P500.00) but not more than Five thousand pesos (P5,000.00) or an imprisonment of not less than one (1) month but not more than (6) months or both upon the discretion of the court.
 
 b) Any violation of the provisions of Articles 116 to 121 shall, upon conviction, subject the offenders to a fine of not less than Two hundred pesos (P200.00) but not more than Six hundred pesos (P600.00) or an imprisonment of not less than one (1) month but not more than six (6) months or both upon the discretion of the court. If the violation was committed by a juridical person, the manager, representative, director, agent or employee of said juridical person responsible for the act shall be deported after service of sentence and payment of the fine without need for further deportation proceedings.
 
-**Article 124._Exemption from Penalties._** – No publisher, radio broadcast, television licensee or medium for the dissemination of advertising shall be liable, under this Chapter, by reason of dissemination by him of any false advertisement unless he refuses, on the request of appropriate authorities, to furnish the name and post office address of the manufacturer, packer, distributor seller or advertising agency. This exemption shall not apply however, to the manufacturer, packer, distributor or seller of the consumer product or service and the advertising agency responsible for the false and misleading advertising.
+#### Article 124
+
+_Exemption from Penalties._ – No publisher, radio broadcast, television licensee or medium for the dissemination of advertising shall be liable, under this Chapter, by reason of dissemination by him of any false advertisement unless he refuses, on the request of appropriate authorities, to furnish the name and post office address of the manufacturer, packer, distributor seller or advertising agency. This exemption shall not apply however, to the manufacturer, packer, distributor or seller of the consumer product or service and the advertising agency responsible for the false and misleading advertising.
 
 ### CHAPTER VII — REGULATION OF REPAIR AND SERVICE FIRMS
 
-**Article 125._Declaration of Policy._** – The State shall cause the accreditation of repair and service firms or establishments and their technical personnel in order to protect the interest of the consumers availing of their services.
+#### Article 125
 
-**Article 126._Implementing Agency._** – The Department of Trade and Industry, hereby referred to as the Department, shall enforce the provisions of this Chapter.
+_Declaration of Policy._ – The State shall cause the accreditation of repair and service firms or establishments and their technical personnel in order to protect the interest of the consumers availing of their services.
 
-**Article 127._Minimum Requirements for Accreditation._** – The following shall be the minimum requirements for accreditation or repair and service firms:
+#### Article 126
+
+_Implementing Agency._ – The Department of Trade and Industry, hereby referred to as the Department, shall enforce the provisions of this Chapter.
+
+#### Article 127
+
+_Minimum Requirements for Accreditation._ – The following shall be the minimum requirements for accreditation or repair and service firms:
 
 a) the duly registered business name, firm name or style of the firm;
 
@@ -1273,17 +1527,27 @@ c) number and skills of technical personnel; and
 
 d) required license for the repair or servicing of any consumer product as required by special laws.
 
-**Article 128._Accreditation of Repair and Service Firm._** – No person shall operate a repair and service firm or act as technical personnel therein without first being accredited by the Department.
+#### Article 128
 
-**Article 129._Certification of Accreditation._** – Upon compliance with the requirements for accreditation, the Department shall issue the corresponding certificate of accreditation. A separate certificate shall be required for each branch of an enterprise located in areas outside of the main office. However, with respect to repair and service centers of factory authorized representatives of franchised dealers, such centers may display a certified true copy of the certificate of accreditation of the parent company.
+_Accreditation of Repair and Service Firm._ – No person shall operate a repair and service firm or act as technical personnel therein without first being accredited by the Department.
 
-**Article 130._Suspension, Revocation or Cancellation of Certification of Accreditation._** – Any certificate of accreditation may be suspended, revoked or cancelled by the Department, for cause, after due notice and hearing.
+#### Article 129
+
+_Certification of Accreditation._ – Upon compliance with the requirements for accreditation, the Department shall issue the corresponding certificate of accreditation. A separate certificate shall be required for each branch of an enterprise located in areas outside of the main office. However, with respect to repair and service centers of factory authorized representatives of franchised dealers, such centers may display a certified true copy of the certificate of accreditation of the parent company.
+
+#### Article 130
+
+_Suspension, Revocation or Cancellation of Certification of Accreditation._ – Any certificate of accreditation may be suspended, revoked or cancelled by the Department, for cause, after due notice and hearing.
 
 ## TITLE IV. - CONSUMER CREDIT TRANSACTION
 
-**Article 131._Declaration of Policy._** – The State shall simplify, clarify and modernize the laws governing credit transactions and encourage the development of fair and economically sound consumer credit practices. To protect the consumer from lack of awareness of the true cost of credit to the user, the State shall assure the full disclosure of the true cost of credit.
+#### Article 131
 
-**Article 132._Determination of Finance Charges._** – Except as otherwise provided, the amount of the finance charges in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended and imposed directly or indirectly by the creditor as an accident to the extension of credit, including any of the following type of charges which are applicable:
+_Declaration of Policy._ – The State shall simplify, clarify and modernize the laws governing credit transactions and encourage the development of fair and economically sound consumer credit practices. To protect the consumer from lack of awareness of the true cost of credit to the user, the State shall assure the full disclosure of the true cost of credit.
+
+#### Article 132
+
+_Determination of Finance Charges._ – Except as otherwise provided, the amount of the finance charges in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended and imposed directly or indirectly by the creditor as an accident to the extension of credit, including any of the following type of charges which are applicable:
 
 a) interest or time price differential and any amount payable under point or other system of additional charges;
 
@@ -1295,17 +1559,29 @@ d) notarial fees, if any;
 
 e) premium or other charges for any guarantee or insurance protecting the creditor against the obligor's default or other credit loss. The implementing agency shall determine what items shall be exempted from the computation of the finance charges.
 
-**Article 133._Determination of Simple Annual Rate._** – The simple annual rate applicable to any extension of consumer credit shall be determined in accordance with the rules and regulations promulgated by the implementing agency.
+#### Article 133
 
-**Article 134._Delinquency Charges._** – With respect to a consumer credit transaction other than one pursuant to an open-end credit plan, the parties may agree to a delinquency charge on any installment not pain in full on or before the tenth day after its scheduled or deferred due date.
+_Determination of Simple Annual Rate._ – The simple annual rate applicable to any extension of consumer credit shall be determined in accordance with the rules and regulations promulgated by the implementing agency.
 
-**Article 135._Deferral Charges._** – The parties in a consumer credit transaction may at any time agree in writing to a deferral of all or part of one or more unpaid installments and the creditor may make and collect a charge which shall not exceed the rate previously disclosed pursuant to the provisions on disclosure. A deferral charge may be collected at the time it is assessed.
+#### Article 134
 
-**Article 136._Finance Charge on Refinancing._** – The parties may agree on a finance charge in an open-end credit plan based on the amount financed resulting from the refinancing or consolidation at a rate not exceeding that permitted by the rules promulgated by the implementing agency.
+_Delinquency Charges._ – With respect to a consumer credit transaction other than one pursuant to an open-end credit plan, the parties may agree to a delinquency charge on any installment not pain in full on or before the tenth day after its scheduled or deferred due date.
 
-**Article 137._Right to Prepay._** – The person to whom credit is extended may prepay in full or in part, at any time without penalty, the unpaid balance of any consumer credit transaction.
+#### Article 135
 
-**Article 138._Rebate on Prepayment._** – Upon prepayment in full of the unpaid balance of a precomputed consumer credit transaction, refinancing or consolidation, an amount not less than the unearned portion of the finance charge calculated according to this Article shall be rebated to the person to whom credit is extended.
+_Deferral Charges._ – The parties in a consumer credit transaction may at any time agree in writing to a deferral of all or part of one or more unpaid installments and the creditor may make and collect a charge which shall not exceed the rate previously disclosed pursuant to the provisions on disclosure. A deferral charge may be collected at the time it is assessed.
+
+#### Article 136
+
+_Finance Charge on Refinancing._ – The parties may agree on a finance charge in an open-end credit plan based on the amount financed resulting from the refinancing or consolidation at a rate not exceeding that permitted by the rules promulgated by the implementing agency.
+
+#### Article 137
+
+_Right to Prepay._ – The person to whom credit is extended may prepay in full or in part, at any time without penalty, the unpaid balance of any consumer credit transaction.
+
+#### Article 138
+
+_Rebate on Prepayment._ – Upon prepayment in full of the unpaid balance of a precomputed consumer credit transaction, refinancing or consolidation, an amount not less than the unearned portion of the finance charge calculated according to this Article shall be rebated to the person to whom credit is extended.
 
 The unearned portion of the precomputed finance charge on consumer transactions repayable in substantially equal successive installments shall be equal to at least that portion of finance charge which the sums of the installment balances of the obligation scheduled to be outstanding after the installment date nearest the date of prepayment bears to the sum of all installment balances originally scheduled to be outstanding under the obligation.
 
@@ -1313,11 +1589,15 @@ For the purpose of determining the installment date nearest the date of prepayme
 
 The implementing agency may promulgate and adopt rules and regulations with respect to other precomputed consumer credit transactions.
 
-**Article 139._General Requirements on Credit Cost Disclosure._** – Each creditor shall disclose, in accordance with the regulations of the implementing agency, to each person to whom consumer credit is extended, the disclosures required by this Act.
+#### Article 139
+
+_General Requirements on Credit Cost Disclosure._ – Each creditor shall disclose, in accordance with the regulations of the implementing agency, to each person to whom consumer credit is extended, the disclosures required by this Act.
 
 If there is more than one obligor, a creditor need not furnish a statement of information required under this Act to more than one of them.
 
-**Article 140._Credit Sale, Required Disclosures._** – Any creditor extending a consumer credit sale other than one pursuant to an open-end credit plan shall disclose in a statement to the extent applicable, the following information:
+#### Article 140
+
+_Credit Sale, Required Disclosures._ – Any creditor extending a consumer credit sale other than one pursuant to an open-end credit plan shall disclose in a statement to the extent applicable, the following information:
 
 a) the cash price or delivered price of the property or service to be acquired;
 
@@ -1337,7 +1617,9 @@ h) the number, amount and due dates or periods of payments scheduled to repay th
 
 i) the default, delinquency or similar charges payable in the event of late payments.
 
-**Article 141._Required Disclosure on Open-end Credit Plan._** – Before opening any account under an open-end consumer credit plan, the creditor shall disclose, to the extent applicable, the following information:
+#### Article 141
+
+_Required Disclosure on Open-end Credit Plan._ – Before opening any account under an open-end consumer credit plan, the creditor shall disclose, to the extent applicable, the following information:
 
 a) the conditions under which a finance charge may be imposed, including the time period, if any, within which any credit extended may be repaid without incurring a finance charge;
 
@@ -1351,7 +1633,9 @@ e) the conditions under which the creditor may impose a security lien and a desc
 
 The implementing agency shall prescribe regulations consistent with commonly accepted accounting standards to carry out the requirements of this Article.
 
-**Article 142._Required Disclosures on Consumer Loans Not Under Open-End Credit Plan._** – Any creditor extending a consumer loan or in a transaction which is neither a consumer credit sale nor under an open-end consumer credit plan shall disclose, to the extent applicable, the following information:
+#### Article 142
+
+_Required Disclosures on Consumer Loans Not Under Open-End Credit Plan._ – Any creditor extending a consumer loan or in a transaction which is neither a consumer credit sale nor under an open-end consumer credit plan shall disclose, to the extent applicable, the following information:
 
 a) the amount of credit of which the debtor will have the actual use, or which is or will be paid to him or for his account or to another person on his behalf;
 
@@ -1369,9 +1653,13 @@ g) the default, delinquency or similar charges payable in the event of late paym
 
 h) a description of any security interest held or to be held or to be retained or acquired by the creditor in connection with the extension of credit and a clear identification of the property to which the security interest relates.
 
-**Article 143._Form and Timing of Disclosure._** – All disclosures required under this Act shall be made clearly and conspicuously in writing before the transaction is consummated.
+#### Article 143
 
-**Article 144._Periodic Statement of Charges._** – The periodic statement transmitted by the creditor in connection with any extension of consumer credit other than under an open-end consumer credit plan, shall set forth the following information:
+_Form and Timing of Disclosure._ – All disclosures required under this Act shall be made clearly and conspicuously in writing before the transaction is consummated.
+
+#### Article 144
+
+_Periodic Statement of Charges._ – The periodic statement transmitted by the creditor in connection with any extension of consumer credit other than under an open-end consumer credit plan, shall set forth the following information:
 
 a) the simple annual rate;
 
@@ -1381,13 +1669,17 @@ c) the date by which, or the period (if any) within which payment must be made i
 
 d) method of determining the balance upon which the finance charge may be imposed.
 
-**Article 145._Exempted Transaction._** – The foregoing requirements on consumer credit transactions shall not apply to the following credit transactions:
+#### Article 145
+
+_Exempted Transaction._ – The foregoing requirements on consumer credit transactions shall not apply to the following credit transactions:
 
 a) those involving extension of credits for business or commercial purposes, or to the Government and governmental agencies and instrumentalities, juridical entities or to organizations;
 
 b) those in which the debtor is the one specifying the definite set of credit terms such as bank deposits, insurance contracts, sale of bonds or analogous transactions.
 
-**Article 146._Sale of Consumer Products On Installment Payment._** – In a consumer credit sale other than one pursuant to an open-end credit plan, the obligation of the consumer to whom credit is being extended shall be evidenced by a single instrument which shall include, in addition to the disclosures required by this act, the signature of the seller and the person to whom credit is extended, the date it was signed, a description of the property sold and a description of any property transferred as a trade-in. The instrument evidencing the credit shall contain a clear and conspicuous typewritten notice to the person to whom credit is being extended that:
+#### Article 146
+
+_Sale of Consumer Products On Installment Payment._ – In a consumer credit sale other than one pursuant to an open-end credit plan, the obligation of the consumer to whom credit is being extended shall be evidenced by a single instrument which shall include, in addition to the disclosures required by this act, the signature of the seller and the person to whom credit is extended, the date it was signed, a description of the property sold and a description of any property transferred as a trade-in. The instrument evidencing the credit shall contain a clear and conspicuous typewritten notice to the person to whom credit is being extended that:
 
 a) he should not sign the instrument if it contains any blank space;
 
@@ -1397,15 +1689,21 @@ c) he is entitled to an exact, true copy of the agreement.
 
 In cases where the instrument will be sold at a discount to a bank, financing company or other lender, the said transferee shall be subject to all claims and defenses which the debtor could assert against the seller of consumer products obtained hereto or with the proceeds thereof.
 
-**Article 147._Penalties._** – Any creditor who in connection with any credit transaction fails to disclose to any person any information in violation of this Chapter or the Implementing rules and regulations issued thereunder shall be liable to such person in the amount of One thousand pesos (P1,000.00) or in amount equal to twice the finance charge required by such creditor in connection with such transaction, whichever is greater, except that such liability shall not exceed Three thousand pesos (P3,000.00) for any credit transaction and actual damages with the non-disclosure of the required information. Action to recover such penalty may be brought by such person within one (1) year from the date of the occurrence of the violation in any court of competent jurisdiction.
+#### Article 147
+
+_Penalties._ – Any creditor who in connection with any credit transaction fails to disclose to any person any information in violation of this Chapter or the Implementing rules and regulations issued thereunder shall be liable to such person in the amount of One thousand pesos (P1,000.00) or in amount equal to twice the finance charge required by such creditor in connection with such transaction, whichever is greater, except that such liability shall not exceed Three thousand pesos (P3,000.00) for any credit transaction and actual damages with the non-disclosure of the required information. Action to recover such penalty may be brought by such person within one (1) year from the date of the occurrence of the violation in any court of competent jurisdiction.
 
 ## TITLE V. - THE NATIONAL CONSUMER AFFAIRS COUNCIL
 
 ### CHAPTER I — ESTABLISHMENT AND COMPOSITION
 
-**Article 148._National Consumer Affairs Council._** – To improve the management, coordination and effectiveness of consumer programs, a National Consumer Affairs Council is hereby created, hereinafter referred to as the "Council".
+#### Article 148
 
-**Article 149._Composition._** – The Council shall be composed of representatives from the following government agencies and non-government agencies:
+_National Consumer Affairs Council._ – To improve the management, coordination and effectiveness of consumer programs, a National Consumer Affairs Council is hereby created, hereinafter referred to as the "Council".
+
+#### Article 149
+
+_Composition._ – The Council shall be composed of representatives from the following government agencies and non-government agencies:
 
 a) Department of Trade and Industry;
 
@@ -1419,15 +1717,23 @@ e) four (4) representatives from consumer organizations of nationwide base to be
 
 f) two (2) representatives from business/industry sector to be chosen by the President from among the nominees submitted by the various business organizations.
 
-**Article 150._Chairman; Functions._** – The Council shall be headed and presided by a Chairman who shall be elected by the members from among themselves. He shall establish, with the concurrence of the Council, the policies, procedures and standards to govern the implementation and interpretation of the functions and duties of the Council.
+#### Article 150
 
-**Article 151._Per Diems of Members._** – The members of the Council shall be entitled to an allowance of Five hundred pesos (P500.00) per meeting actually attended but not more than Two thousand pesos (P2,000.00) a month.
+_Chairman; Functions._ – The Council shall be headed and presided by a Chairman who shall be elected by the members from among themselves. He shall establish, with the concurrence of the Council, the policies, procedures and standards to govern the implementation and interpretation of the functions and duties of the Council.
 
-**Article 152._The Secretariat._** – The Council shall appoint an Executive Director who shall assist the Chairman and act as Secretary of the Council. The Department of Trade and Industry shall provide the Secretariat which shall assist the Council in the effective performance of its functions.
+#### Article 151
+
+_Per Diems of Members._ – The members of the Council shall be entitled to an allowance of Five hundred pesos (P500.00) per meeting actually attended but not more than Two thousand pesos (P2,000.00) a month.
+
+#### Article 152
+
+_The Secretariat._ – The Council shall appoint an Executive Director who shall assist the Chairman and act as Secretary of the Council. The Department of Trade and Industry shall provide the Secretariat which shall assist the Council in the effective performance of its functions.
 
 ### CHAPTER II — POWERS AND FUNCTIONS
 
-**Article 153._Powers and Functions._** – The Council have the following powers and functions:
+#### Article 153
+
+_Powers and Functions._ – The Council have the following powers and functions:
 
 a) to rationalize and coordinate the functions of the agencies charged with consumer programs and enforcement of consumer related laws to the end that an effective, coordinated and integrated system of consumer protection, research and implementation and enforcement of such laws shall be achieved;
 
@@ -1449,7 +1755,9 @@ e) to undertake a continuing education and information campaign to provide the c
 
 5) such other matters of importance to the consumer's general well-being.
 
-**Article 154._Consumer Education in Schools._** – The Department of Education, Culture and Sports, with the cooperation and advice of the Council, shall develop and adopt a consumer education program which shall be integrated into existing curricula of all public and private schools from primary to secondary level.
+#### Article 154
+
+_Consumer Education in Schools._ – The Department of Education, Culture and Sports, with the cooperation and advice of the Council, shall develop and adopt a consumer education program which shall be integrated into existing curricula of all public and private schools from primary to secondary level.
 
 A continuing consumer education program for out-of-school youth and adults shall likewise be developed and undertaken.
 
@@ -1469,27 +1777,45 @@ b) consumer rights; and
 
 c) practical problems the consumer faces in daily life.
 
-**Article 155._Concerned Departments, Powers and Duties Under Existing Laws._** – The concerned departments shall continue to exercise the powers and duties provided to them under existing laws, unless repealed or modified accordingly.
+#### Article 155
 
-**Article 156._Consumer Participation._** – The Departments shall establish procedures for meaningful participation by consumers or consumer organizations in the development and review of department rules, policies and programs. Such procedures shall include provisions for a forum, where consumers can express their concerns and recommendations to decision makers. The departments shall exert efforts to inform consumers of pending proceedings where their participation is important.
+_Concerned Departments, Powers and Duties Under Existing Laws._ – The concerned departments shall continue to exercise the powers and duties provided to them under existing laws, unless repealed or modified accordingly.
 
-**Article 157._Advisory Services._** – The departments shall render advisory services upon request. The technical and legal assistance shall be made available to consumers and their organizations and to the general public.
+#### Article 156
 
-**Article 158._Consumer Program Reforms._** – Each concerned Department shall formulate and develop a consumer program consonant with the objectives of its charter or the applicable laws which program shall embody the standards set forth in Sections 156 and 157 of this Act. Copies of these program shall be furnished the Council. The Executive Director shall, among his other functions, monitor and coordinate the implementation by the concerned agencies of their respective consumer programs.
+_Consumer Participation._ – The Departments shall establish procedures for meaningful participation by consumers or consumer organizations in the development and review of department rules, policies and programs. Such procedures shall include provisions for a forum, where consumers can express their concerns and recommendations to decision makers. The departments shall exert efforts to inform consumers of pending proceedings where their participation is important.
+
+#### Article 157
+
+_Advisory Services._ – The departments shall render advisory services upon request. The technical and legal assistance shall be made available to consumers and their organizations and to the general public.
+
+#### Article 158
+
+_Consumer Program Reforms._ – Each concerned Department shall formulate and develop a consumer program consonant with the objectives of its charter or the applicable laws which program shall embody the standards set forth in Sections 156 and 157 of this Act. Copies of these program shall be furnished the Council. The Executive Director shall, among his other functions, monitor and coordinate the implementation by the concerned agencies of their respective consumer programs.
 
 After the close of the fiscal year, the Council shall submit to Congress and the Office of the President, a full report on the progress of the implementation of consumer programs.
 
 ### CHAPTER III — CONSUMER COMPLAINTS
 
-**Article 159._Consumer Complaints._** – The concerned department may commerce an investigation upon petition or upon letter-complaint from any consumer: Provided, That, upon a finding by the department of prima facie violation of any provisions of this Act or any rule or regulation promulgated under its authority, it may motu proprio or upon verified complaint commerce formal administrative action against any person who appears responsible therefor. The department shall establish procedures for systematically logging in, investigating and responding to consumer complaints into the development of consumer policies, rules and regulations, assuring as far as practicable simple and easy access on the part of the consumer to seek redress for his grievances.
+#### Article 159
 
-**Article 160._Consumer Arbitration Officers._** – The concerned Department Secretaries shall appoint as many qualified consumer arbitration officers as may be necessary for the effective and efficient protection of consumer rights: Provided, however, That there shall be not more than ten (10) consumer arbitration officers per province, including the National Capital Region.
+_Consumer Complaints._ – The concerned department may commerce an investigation upon petition or upon letter-complaint from any consumer: Provided, That, upon a finding by the department of prima facie violation of any provisions of this Act or any rule or regulation promulgated under its authority, it may motu proprio or upon verified complaint commerce formal administrative action against any person who appears responsible therefor. The department shall establish procedures for systematically logging in, investigating and responding to consumer complaints into the development of consumer policies, rules and regulations, assuring as far as practicable simple and easy access on the part of the consumer to seek redress for his grievances.
 
-**Article 161._Consumer Arbitration Officers; Qualifications._** – The consumer arbitration officer must be a college graduate with at least three (3) years experience in the field of consumer protection and shall be of good moral character.
+#### Article 160
 
-**Article 162._Arbitration Officers; Jurisdiction._** – The consumer arbitration officers shall have original and exclusive jurisdiction to mediate, conciliate, hear and adjudicate all consumer complaints, Provided, however, That this does not preclude the parties from pursuing the proper judicial action.
+_Consumer Arbitration Officers._ – The concerned Department Secretaries shall appoint as many qualified consumer arbitration officers as may be necessary for the effective and efficient protection of consumer rights: Provided, however, That there shall be not more than ten (10) consumer arbitration officers per province, including the National Capital Region.
 
-**Article 163._Investigation Procedure._** –
+#### Article 161
+
+_Consumer Arbitration Officers; Qualifications._ – The consumer arbitration officer must be a college graduate with at least three (3) years experience in the field of consumer protection and shall be of good moral character.
+
+#### Article 162
+
+_Arbitration Officers; Jurisdiction._ – The consumer arbitration officers shall have original and exclusive jurisdiction to mediate, conciliate, hear and adjudicate all consumer complaints, Provided, however, That this does not preclude the parties from pursuing the proper judicial action.
+
+#### Article 163
+
+_Investigation Procedure._ –
 
 a) The consumer arbitration officer shall conduct hearings on any complaint received by him or referred by the Council.
 
@@ -1505,7 +1831,9 @@ f) The Consumer arbitration officer may summon witnesses, administer oaths and a
 
 In hearing the complaint, the mediation officer shall use every and all reasonable means to ascertain the facts in each complaint speedily and objectively without regard to strict rules of evidence prevailing in suits before courts. The complaints shall be decided within fifteen (15) days from the time the investigation was terminated.
 
-**Article 164._Sanctions._** – After investigation, any of the following administrative penalties may be imposed even if not prayed for in the complaint:
+#### Article 164
+
+_Sanctions._ – After investigation, any of the following administrative penalties may be imposed even if not prayed for in the complaint:
 
 a) the issuance of a cease and desist order, Provided, however, That such order shall specify the acts that respondent shall cease and desist from and shall require him to submit a report of compliance therewith within a reasonable time;
 
@@ -1527,7 +1855,9 @@ d) condemnation and seizure of the consumer product found to be hazardous to hea
 
 e) the imposition of administrative fines in such amount as deemed reasonable by the Secretary, which shall in no case be less that Five hundred pesos (P500.00) nor more than Three hundred thousand pesos (P300,000.00) depending on the gravity of the offense, and an additional fine of not more than One thousand pesos (P1,000.00) or each day of continuing violation.
 
-**Article 165._Appeal from Orders._** – Any order, not interlocutory of the Consumer arbitration officer, becomes final and executory unless appealed to the Department Secretary concerned within fifteen (15) days from receipt of such order. An appeal may be entertained only on any of the following grounds:
+#### Article 165
+
+_Appeal from Orders._ – Any order, not interlocutory of the Consumer arbitration officer, becomes final and executory unless appealed to the Department Secretary concerned within fifteen (15) days from receipt of such order. An appeal may be entertained only on any of the following grounds:
 
 a) grave abuse of discretion;
 
@@ -1535,22 +1865,38 @@ b) the order is in excess of the jurisdiction or authority of the consumer arbit
 
 c) the order is not supported by the evidence or there is serious error in the findings of facts.
 
-**Article 166._Decision on Appeal._** – The Secretary shall decide the appeal within thirty (30) days from receipt thereof. The decision becomes final after fifteen (15) days from receipt thereof unless a petition for certiorari is filed with the proper court.
+#### Article 166
+
+_Decision on Appeal._ – The Secretary shall decide the appeal within thirty (30) days from receipt thereof. The decision becomes final after fifteen (15) days from receipt thereof unless a petition for certiorari is filed with the proper court.
 
 ## TITLE VI — TRANSITORY AND FINAL PROVISIONS
 
-**Article 167._Relation of the Act to Other Rights._** – The provisions of this Act shall apply notwithstanding any agreement to the contrary but shall not restrict, limit or derogate from any other rights or remedies of a consumer under any other law.
+#### Article 167
 
-**Article 168._Application of Laws Enacted Prior to the Act._** – All actions or claims accruing prior to the effectivity of this Act shall be determined in accordance with the acts, laws, decrees and regulations in force at the time of the accrual.
+_Relation of the Act to Other Rights._ – The provisions of this Act shall apply notwithstanding any agreement to the contrary but shall not restrict, limit or derogate from any other rights or remedies of a consumer under any other law.
 
-**Article 169._Prescription._** – All actions or claims accruing under the provisions of this Act and the rules and regulations issued pursuant thereto shall prescribe within two (2) years from the time the consumer transaction was consummated or the deceptive or unfair and unconscionable act or practice was committed and in case of hidden defects, from discovery thereof.
+#### Article 168
 
-**Article 170._Repealing Clause._** – All laws, executive orders, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed or amended accordingly.
+_Application of Laws Enacted Prior to the Act._ – All actions or claims accruing prior to the effectivity of this Act shall be determined in accordance with the acts, laws, decrees and regulations in force at the time of the accrual.
 
-**Article 171._Appropriations._** – For the initial operating expenses of the National Consumer Affairs Council, the sum of Two million pesos (P2,000,000.00) is hereby appropriated out of funds of the National Treasury not otherwise appropriated. Thereafter, such sums as may be necessary to carry out its purpose shall be included in the General Appropriations Act.
+#### Article 169
 
-**Article 172._Separability Clause._** – If for any reason any article or provision of this Act or any portion thereof or the application of such article, provision or portion thereof to any person, group or circumstance is declared invalid or unconstitutional, the remainder of this Act shall not be affected by such decision.
+_Prescription._ – All actions or claims accruing under the provisions of this Act and the rules and regulations issued pursuant thereto shall prescribe within two (2) years from the time the consumer transaction was consummated or the deceptive or unfair and unconscionable act or practice was committed and in case of hidden defects, from discovery thereof.
 
-**Article 173._Effectivity._** – This Act shall take effect thirty (30) days from the date of its publication in the Official Gazette.
+#### Article 170
 
-Approved: **April 13, 1992**.lawphi1Ÿ
+_Repealing Clause._ – All laws, executive orders, rules and regulations or parts thereof which are inconsistent with this Act are hereby repealed or amended accordingly.
+
+#### Article 171
+
+_Appropriations._ – For the initial operating expenses of the National Consumer Affairs Council, the sum of Two million pesos (P2,000,000.00) is hereby appropriated out of funds of the National Treasury not otherwise appropriated. Thereafter, such sums as may be necessary to carry out its purpose shall be included in the General Appropriations Act.
+
+#### Article 172
+
+_Separability Clause._ – If for any reason any article or provision of this Act or any portion thereof or the application of such article, provision or portion thereof to any person, group or circumstance is declared invalid or unconstitutional, the remainder of this Act shall not be affected by such decision.
+
+#### Article 173
+
+_Effectivity._ – This Act shall take effect thirty (30) days from the date of its publication in the Official Gazette.
+
+Approved: **April 13, 1992**.

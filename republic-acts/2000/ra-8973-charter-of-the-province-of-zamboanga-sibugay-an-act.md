@@ -1185,7 +1185,7 @@ _Commencement of Corporate Existence._ — The Province of Zamboanga Sibugay sha
 
 _Officials of the Province of Zamboanga del Sur._ —
 
-A. All elective and non-elective provincial and local government officials and employees of the present Province of Zamboanga del Sur, shall continue to serve their term of office, perform their duties and functions in the province, until the commencement of the corporate existence of the new province, as provided for in Section 9 of this Act.ℒαwρhi৷
+A. All elective and non-elective provincial and local government officials and employees of the present Province of Zamboanga del Sur, shall continue to serve their term of office, perform their duties and functions in the province, until the commencement of the corporate existence of the new province, as provided for in Section 9 of this Act.
 
 B. The three (3) incumbent Congressional Representatives of the present Province of Zamboanga del Sur shall continue to represent the three (3) existing legislative districts of the province until the expiration of their term of office.
 

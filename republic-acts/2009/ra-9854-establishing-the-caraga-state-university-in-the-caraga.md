@@ -140,7 +140,7 @@ If, for reasons beyond its control, the University shall not be able to pursue a
 
 (x) To privatize, where most advantageous to the University, the management of nonacademic services such as health, food, building or grounds or property maintenance and such other similar activities; and
 
-(y) To extend the term of the President of the University beyond the age of retirement but not beyond the age of seventy (70), whose performance has been unanimously rated by the Board as outstanding based on the guidelines, qualifications and/or standards Bet by the Board, after unanimous recommendation by the search committee.1awphi1
+(y) To extend the term of the President of the University beyond the age of retirement but not beyond the age of seventy (70), whose performance has been unanimously rated by the Board as outstanding based on the guidelines, qualifications and/or standards Bet by the Board, after unanimous recommendation by the search committee.
 
 ## Section 8
 
@@ -226,7 +226,7 @@ _Development Plan, Management Audit, Organizational! Administrative! Academic St
 
 (a) Submit a five (5) - year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to the DBM;
 
-(b) Undergo a management audit in cooperation with the CHED; and1awphi1
+(b) Undergo a management audit in cooperation with the CHED; and
 
 (c) Accordingly set up its organizational, administrative, as well as academic structure, including the appointment of the key officials of the University.
 

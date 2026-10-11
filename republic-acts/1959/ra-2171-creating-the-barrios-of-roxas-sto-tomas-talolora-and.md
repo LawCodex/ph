@@ -32,7 +32,7 @@ The following barrios are hereby created in the Municipality of Mondragon, Provi
 
 (3) Barrio Talolora, consisting of the sitios of Canamocan, Pamogha-an and Cancaturas; and
 
-(4) Barrio Salvacion, consisting of the sitios of Cagpanitan, Caghanadgong, Caragingay and Cagmanaba.1aшphi1
+(4) Barrio Salvacion, consisting of the sitios of Cagpanitan, Caghanadgong, Caragingay and Cagmanaba.
 
 ## Section 2
 

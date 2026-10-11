@@ -24,19 +24,33 @@ AN ACT PROVIDING BENEFITS FOR EARLY RETIREMENT AND VOLUNTARY SEPARATION FROM THE
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Declaration of Policy._** \- It is hereby declared the policy of the State to promote economy, efficiency and effectiveness in government operations, particularly in the delivery of essential public services. For this purpose, the State shall endeavor to streamline government functions and to maintain necessary positions through an appropriate retirement and voluntary separation scheme.
+## Section 1
 
-**Section 2._Coverage._** \- This Act shall cover all appointive officials and employees of the National Government, including government-owned or controlled corporations with original charters, as well as the personnel of all local government units. The benefits authorized under this Act shall apply to all regular, temporary, casual and emergency employees, regardless of age, who have rendered at least a total of two (2) consecutive years of government service as of the date of separation. Uniformed personnel of the Armed Forces of the Philippines including those of the PC-INP are excluded from the coverage of this Act.
+_Declaration of Policy._ \- It is hereby declared the policy of the State to promote economy, efficiency and effectiveness in government operations, particularly in the delivery of essential public services. For this purpose, the State shall endeavor to streamline government functions and to maintain necessary positions through an appropriate retirement and voluntary separation scheme.
 
-**Section 3._Early Retirement and Voluntary Separation Benefits._** \- All appointive government officials and employees included in the coverage hereof who voluntarily elect in writing to be retired or separated from the service and whose retirement has been approved under the provisions of this Act shall be paid retirement or separation benefits equivalent to one and one-fourth (1 1/4) month basic salary for every year of their respective government services or the nearest equivalent fraction thereof favorable to them on the basis of the highest salary which they respectively received in the course of their employment in the government: provided, that in no case shall the benefit to be paid to any appointive official or employee be less than Ten thousand pesos (P10,000): provided, further, that any appointive official or employee who has previously been found guilty in an administrative proceeding and whose rank or salary has been reduced shall be paid on the basis of his last salary.
+## Section 2
 
-**Section 4._Additional Benefits._** \- In addition to the benefits herein authorized, covered appointive officials and employees who retire or voluntarily elect to be separated from the service under this Act shall be entitled to the return of GSIS personal contributions pertaining to retirement only and the payment of the corresponding share of the government with interest earned pursuant to existing rules and regulations of the Government Service Insurance System. They shall likewise be entitled to the commutation of unused vacation and sick leaves in accordance with existing rules and regulations: provided, however, that should the government agency concerned lack the necessary funds for this, the same shall come from the appropriation to fund this Act: provided, further, that those who retire after rendering government service for thirty-one (31) years or more and avail themselves of the incentive benefits provided under this Act shall be entitled to an additional ten percent (10%) of the amount corresponding to what they will receive from the thirty-first year onward.
+_Coverage._ \- This Act shall cover all appointive officials and employees of the National Government, including government-owned or controlled corporations with original charters, as well as the personnel of all local government units. The benefits authorized under this Act shall apply to all regular, temporary, casual and emergency employees, regardless of age, who have rendered at least a total of two (2) consecutive years of government service as of the date of separation. Uniformed personnel of the Armed Forces of the Philippines including those of the PC-INP are excluded from the coverage of this Act.
 
-**Section 5._Exclusiveness of Benefits._** \- An appointive official or employee who retires or elects to be separated from the service under this Act shall not be eligible for optional retirement with gratuity under Republic Act Nos. 1616 and 4968 or with pension under Commonwealth Act. No. 186, as amended by Republic Act No. 660, or under Presidential Decree No. 1146, as amended, or vice-versa.
+## Section 3
 
-**Section 6._Abolition of Positions._** \- The positions vacated through the early retirement or separation of its incumbent shall be abolished unless the head of the office or agency, with the approval of the President in the case of the Executive Department, the Chief Justice in the case of the Judiciary, the Senate President or the Speaker of the House of Representatives in the case of Congress, the Chairman in the case of the Constitutional Commissions, certifies within the period of sixty (60) days from the time of approval or acceptance of the application for retirement or separation that the exigencies of the service require its retention.
+_Early Retirement and Voluntary Separation Benefits._ \- All appointive government officials and employees included in the coverage hereof who voluntarily elect in writing to be retired or separated from the service and whose retirement has been approved under the provisions of this Act shall be paid retirement or separation benefits equivalent to one and one-fourth (1 1/4) month basic salary for every year of their respective government services or the nearest equivalent fraction thereof favorable to them on the basis of the highest salary which they respectively received in the course of their employment in the government: provided, that in no case shall the benefit to be paid to any appointive official or employee be less than Ten thousand pesos (P10,000): provided, further, that any appointive official or employee who has previously been found guilty in an administrative proceeding and whose rank or salary has been reduced shall be paid on the basis of his last salary.
 
-**Section 7._Discretion of Agency Heads in Acceptance of Application for Early Retirement and Voluntary Separation._** \- No appointive official or employee shall be separated or retired under this Act unless his application for early retirement or voluntary separation shall have been accepted by the head of the government office or agency or by the chief executive officer of the government-owned or controlled corporation concerned as the case may be.
+## Section 4
+
+_Additional Benefits._ \- In addition to the benefits herein authorized, covered appointive officials and employees who retire or voluntarily elect to be separated from the service under this Act shall be entitled to the return of GSIS personal contributions pertaining to retirement only and the payment of the corresponding share of the government with interest earned pursuant to existing rules and regulations of the Government Service Insurance System. They shall likewise be entitled to the commutation of unused vacation and sick leaves in accordance with existing rules and regulations: provided, however, that should the government agency concerned lack the necessary funds for this, the same shall come from the appropriation to fund this Act: provided, further, that those who retire after rendering government service for thirty-one (31) years or more and avail themselves of the incentive benefits provided under this Act shall be entitled to an additional ten percent (10%) of the amount corresponding to what they will receive from the thirty-first year onward.
+
+## Section 5
+
+_Exclusiveness of Benefits._ \- An appointive official or employee who retires or elects to be separated from the service under this Act shall not be eligible for optional retirement with gratuity under Republic Act Nos. 1616 and 4968 or with pension under Commonwealth Act. No. 186, as amended by Republic Act No. 660, or under Presidential Decree No. 1146, as amended, or vice-versa.
+
+## Section 6
+
+_Abolition of Positions._ \- The positions vacated through the early retirement or separation of its incumbent shall be abolished unless the head of the office or agency, with the approval of the President in the case of the Executive Department, the Chief Justice in the case of the Judiciary, the Senate President or the Speaker of the House of Representatives in the case of Congress, the Chairman in the case of the Constitutional Commissions, certifies within the period of sixty (60) days from the time of approval or acceptance of the application for retirement or separation that the exigencies of the service require its retention.
+
+## Section 7
+
+_Discretion of Agency Heads in Acceptance of Application for Early Retirement and Voluntary Separation._ \- No appointive official or employee shall be separated or retired under this Act unless his application for early retirement or voluntary separation shall have been accepted by the head of the government office or agency or by the chief executive officer of the government-owned or controlled corporation concerned as the case may be.
 
 For purposes of this Act, "head of government office or agency" refers to the Secretary in the case of bureaus, divisions and other offices under a department; governor or mayor, as the case may be, in the case of local government units; the Chief of Justice in the case of the employees of the Judiciary; the Senate President or the Speaker of the House of Representatives, as the case may be, in the case of employees of the Legislature; the Chairman in the case of the Constitutional Commissions; and in the case of other offices not within the authority of those previously mentioned, their overall superior.
 
@@ -44,13 +58,19 @@ The application for early retirement or voluntary separation shall be accepted u
 
 The applications of those with criminal cases of grave nature committed in relation to their office shall be held in abeyance.
 
-**Section 8._Restriction on the Employment and Replacement of Retired or Separated Personnel._** \- Appointive officials and employees who are retired or separated under this Act shall not be eligible for appointment to, or employment in any branch, division, instrumentality or agency of the government, including government-owned or controlled corporations with original charters whether on a permanent, temporary, casual or emergency status within a period of five (5) years after separation unless they refund the benefits they received: provided, however, that those reemployed in the government shall be treated as new entrants insofar as GSIS coverage is concerned.
+## Section 8
+
+_Restriction on the Employment and Replacement of Retired or Separated Personnel._ \- Appointive officials and employees who are retired or separated under this Act shall not be eligible for appointment to, or employment in any branch, division, instrumentality or agency of the government, including government-owned or controlled corporations with original charters whether on a permanent, temporary, casual or emergency status within a period of five (5) years after separation unless they refund the benefits they received: provided, however, that those reemployed in the government shall be treated as new entrants insofar as GSIS coverage is concerned.
 
 Positions vacated but retained shall be filled by personnel chosen from among the most deserving employees in the agency concerned or from any other agency.
 
-**Section 9._Period of Applicability and Effectivity of the Incentive Benefits._** \- Applications for early retirement and voluntary separation benefits hereunder shall be entertained only if filed within a period of two (2) months from the issuance of the rules and regulations for the implementation of this Act pursuant to Section 13 hereof. The oldest employees who are the most senior in the service will be given priority in the payment of benefits.
+## Section 9
 
-**Section 10._Funding._** \- For national government employees, the sum of Three billion pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for payment of early retirement and separation incentive benefits authorized in this Act.
+_Period of Applicability and Effectivity of the Incentive Benefits._ \- Applications for early retirement and voluntary separation benefits hereunder shall be entertained only if filed within a period of two (2) months from the issuance of the rules and regulations for the implementation of this Act pursuant to Section 13 hereof. The oldest employees who are the most senior in the service will be given priority in the payment of benefits.
+
+## Section 10
+
+_Funding._ \- For national government employees, the sum of Three billion pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for payment of early retirement and separation incentive benefits authorized in this Act.
 
 For employees of government-owned or controlled corporations, the benefits herein granted shall be paid from the internal funds of the respective corporations.n no case shall the benefits paid to employees of government-owned or controlled corporations be less than the benefits granted by their existing corporate programs, if any.
 
@@ -60,11 +80,17 @@ Government-owned or controlled corporations and local government units which may
 
 The above provisions notwithstanding, all savings accruing from the abolition of positions pursuant hereto shall be earmarked and used exclusively for the payment of the benefits under this Act.
 
-**Section 11._Retroactive Charges._** \- Officials and employees who were previously separated from the government service not for cause but as a result of the reorganization pursuant to various executive orders authorizing government reorganization issued after the ratification of the 1987 Constitution shall be deemed covered and entitled to avail of the incentive benefits under this Act.
+## Section 11
 
-**Section 12._Penalties._** \- Any government official who compels an employee under any guise whatsoever to retire or be separated from government service by virtue of this Act or otherwise violates provisions hereof shall, upon conviction, be punished by a fine not exceeding One thousand pesos (P1,000), or by imprisonment not exceeding six (6) months or both such fine and imprisonment in the discretion of the court.
+_Retroactive Charges._ \- Officials and employees who were previously separated from the government service not for cause but as a result of the reorganization pursuant to various executive orders authorizing government reorganization issued after the ratification of the 1987 Constitution shall be deemed covered and entitled to avail of the incentive benefits under this Act.
 
-**Section 13._Implementing Rules and Regulations._** \- The implementing rules and regulations shall be issued within fifteen (15) days from the date of effectivity of this Act by the Department of Budget and Management, in consultation with the Civil Service Commission: provided, that any provision of law to the contrary notwithstanding, the only documents or supporting papers to be submitted by appointive officials and employees who wish to avail themselves of the benefits under this Act are the following:
+## Section 12
+
+_Penalties._ \- Any government official who compels an employee under any guise whatsoever to retire or be separated from government service by virtue of this Act or otherwise violates provisions hereof shall, upon conviction, be punished by a fine not exceeding One thousand pesos (P1,000), or by imprisonment not exceeding six (6) months or both such fine and imprisonment in the discretion of the court.
+
+## Section 13
+
+_Implementing Rules and Regulations._ \- The implementing rules and regulations shall be issued within fifteen (15) days from the date of effectivity of this Act by the Department of Budget and Management, in consultation with the Civil Service Commission: provided, that any provision of law to the contrary notwithstanding, the only documents or supporting papers to be submitted by appointive officials and employees who wish to avail themselves of the benefits under this Act are the following:
 
 (a) A duly approved application under oath for early retirement or voluntary separation in accordance with this Act, including a statement of the number of years of service in the government and the rate of the highest salary received.
 
@@ -72,12 +98,20 @@ The above provisions notwithstanding, all savings accruing from the abolition of
 
 (c) A simplified statement of assets and liabilities, net worth, and financial and business interests in the case of regular employees: provided, further, that the processing and actual payment of benefits to the appointive officials and employees concerned shall be completed within fifteen (15) days from the date of submission of all the foregoing documents.
 
-**Section 14._Compliance and Reporting._** \- Six (6) months from the effectivity of this Act, the Department of Budget and Management and the Civil Service Commission shall, on the basis of the reports of the various heads of government offices and agencies, render a report to Congress on the number of government employees affected, the type or nature of positions involved, the total amount spent and an evaluation thereof.
+## Section 14
 
-**Section 15._Repealing Clause._** \- All laws, rules and regulations or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+_Compliance and Reporting._ \- Six (6) months from the effectivity of this Act, the Department of Budget and Management and the Civil Service Commission shall, on the basis of the reports of the various heads of government offices and agencies, render a report to Congress on the number of government employees affected, the type or nature of positions involved, the total amount spent and an evaluation thereof.
 
-**Section 16._Separability Clause._** \- If any part, section or provision of this Act shall be held invalid or unconstitutional, no other part section or provision thereof shall be affected thereby.
+## Section 15
 
-**Section 17._Effectivity._** \- This Act shall take effect upon publication in two (2) newspapers of general circulation.
+_Repealing Clause._ \- All laws, rules and regulations or parts thereof, inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## Section 16
+
+_Separability Clause._ \- If any part, section or provision of this Act shall be held invalid or unconstitutional, no other part section or provision thereof shall be affected thereby.
+
+## Section 17
+
+_Effectivity._ \- This Act shall take effect upon publication in two (2) newspapers of general circulation.
 
 Approved: **December 2, 1988**

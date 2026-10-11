@@ -34,7 +34,7 @@ Commissioned service of the Bureau of Coast and Geodetic Survey.— (a) The comm
 
 _Appointment of commissioned officers._ -(a) The President shall appoint the commissioned officers of the Bureau of Coast and Geodetic Survey: _Provided,_ That, except as provided in paragraph (b) of this section, all original appointments shall be in the grade of ensign from among cadets who have qualifies in accordance with section 3 hereof; And _Provided, further,_ That all appointments and promotions to the rank of captain shall be made with the consent of the Commission on Appointments of the Congress.
 
-(b) The Director of the Coast and Geodetic Survey shall have at least the rank of Captain.1aшphi1 The Assistant Director shall have at least the rank of Commander. Both shall be appointed by the President, with the consent of the Commission on Appointments of the Congress, from the list of commissioned officers of the Coast and Geodetic Survey not below the rank of lieutenant commander and lieutenant, respectively.
+(b) The Director of the Coast and Geodetic Survey shall have at least the rank of Captain. The Assistant Director shall have at least the rank of Commander. Both shall be appointed by the President, with the consent of the Commission on Appointments of the Congress, from the list of commissioned officers of the Coast and Geodetic Survey not below the rank of lieutenant commander and lieutenant, respectively.
 
 (c) Any commissioned officer who received his commission under Executive Order No. 94, series of 1947, shall continue to hold his commission with all the rights and privileges due his grade as any other officer who receives his commission under Sections 2 (a) or 2 (b) of this Act.
 

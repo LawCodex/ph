@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Parañaque National High School – Marcelo Green Annex in Barangay Marcelo Green, Parañaque City, Metro Manila is hereby separated from the Parañaque National High School and converted in into an independent national high school to be known as the Marcelo Green National High School.ℒαwρhi৷
+The Parañaque National High School – Marcelo Green Annex in Barangay Marcelo Green, Parañaque City, Metro Manila is hereby separated from the Parañaque National High School and converted in into an independent national high school to be known as the Marcelo Green National High School.
 
 ## Section 2
 

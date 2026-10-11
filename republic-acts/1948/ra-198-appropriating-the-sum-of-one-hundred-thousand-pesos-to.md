@@ -28,4 +28,4 @@ The sum of one hundred thousand pesos, or so much thereof as may be necessary, i
 
 This Act shall take effect upon its approval.
 
-Approved:1awphi1Ÿ March 19, 1948
+Approved: March 19, 1948

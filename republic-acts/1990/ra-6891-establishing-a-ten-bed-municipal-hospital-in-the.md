@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Office of the Secretary of the Department of Health, a ten-bed municipal hospital in the Municipality of Dasol, Province of Pangasinan, to be known as the Dasol Municipal Hospital.1âшphi1
+There shall be established, under the direct supervision of the Office of the Secretary of the Department of Health, a ten-bed municipal hospital in the Municipality of Dasol, Province of Pangasinan, to be known as the Dasol Municipal Hospital.
 
 ## Section 2
 

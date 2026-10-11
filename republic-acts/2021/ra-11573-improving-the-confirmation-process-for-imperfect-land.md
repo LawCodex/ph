@@ -74,7 +74,7 @@ Section 14 of Presidential Decree No. 1529 is hereby amended to read as follows:
 
 “(1) Those who by themselves or through their predecessors-in-interest have been in open, continuous, exclusive and notorious possession and occupation of alienable and disposable lands of the public domain not covered by existing certificates of title or patents under a bona fide claim of ownership for at least twenty (20) years immediately preceding the filing of the application for confirmation of title except when prevented by war or force majeure. They shall be conclusively presumed to have performed all the conditions essential to a Government grant and shall be entitled to a certificate of title under this section.
 
-“(2) Those who have acquired ownership of private lands or abandoned riverbeds by right of accession or accretion under the provisions of existing laws.ℒαwρhi৷
+“(2) Those who have acquired ownership of private lands or abandoned riverbeds by right of accession or accretion under the provisions of existing laws.
 
 “(3) Those who have acquired ownership of land in any other manner provided for by law.
 

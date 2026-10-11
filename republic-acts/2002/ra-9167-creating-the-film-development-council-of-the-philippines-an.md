@@ -38,7 +38,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 To achieve this end, the State shall formulate and implement policies and programs to upgrade the art and craft of film making and encourage the production of films for commercial purposes, intended for public entertainment, that seek to enhance the quality of life, examine the human and social conditions and contribute to the dignity and nobility of the human spirit.
 
-**Section 2._Creation of the Film Development Council of the Philippines._** – To carry out the provisions of this Act, there is hereby created a Film Development Council of the Philippines, hereinafter referred to as the Council, under the Office of the President. The Film Development Foundation of the Philippines, Inc., (FDFPI) and the Film Rating Board (FRB), created under Executive Order No. 811, are hereby abolished.
+## Section 2
+
+_Creation of the Film Development Council of the Philippines._ – To carry out the provisions of this Act, there is hereby created a Film Development Council of the Philippines, hereinafter referred to as the Council, under the Office of the President. The Film Development Foundation of the Philippines, Inc., (FDFPI) and the Film Rating Board (FRB), created under Executive Order No. 811, are hereby abolished.
 
 ## Section 3
 
@@ -102,9 +104,13 @@ The three (3) regular members shall be as follows:
 
 **_Meetings._** \- The Council shall meet regularly at least once a month or as often as necessary at the call of the chairperson or a majority of the members. A majority of the members of the Board shall constitute a quorum to do business. The members of the Council shall be entitled to _honoraria_ based on existing government accounting and auditing rules and regulations.
 
-**Section 7._The Chairperson._** \- The Chairperson shall be the Chief Executive Officer and shall exercise overall administrative supervision to ensure the effective and efficient implementation of the policies laid down by the Council. The Chairperson shall have the same rank and salary of an Undersecretary of a Department as provided for in the Salary Standardization Law.
+## Section 7
 
-**Section 8._The Executive Director._ \- **The Chairperson shall be assisted by an Executive Director to be appointed by the council upon the recommendation of the Chairperson. The Executive Director shall have a salary comparable to that of equivalent rank under the Revised Compensation and Position Classification System and shall be coterminus with the Chairperson unless sooner removed for cause.
+_The Chairperson._ \- The Chairperson shall be the Chief Executive Officer and shall exercise overall administrative supervision to ensure the effective and efficient implementation of the policies laid down by the Council. The Chairperson shall have the same rank and salary of an Undersecretary of a Department as provided for in the Salary Standardization Law.
+
+## Section 8
+
+_The Executive Director._ \- The Chairperson shall be assisted by an Executive Director to be appointed by the council upon the recommendation of the Chairperson. The Executive Director shall have a salary comparable to that of equivalent rank under the Revised Compensation and Position Classification System and shall be coterminus with the Chairperson unless sooner removed for cause.
 
 ## Section 9
 
@@ -134,7 +140,9 @@ d. _Honorarium._ \- A Board member shall receive reasonable _honorarium_ for eac
 
 e. _Participation._ \- No member of the Board shall participate in the grading of a film in which he or she or any member of his or her family or any relative within the fourth degree of consanguinity or affinity shall have financial or any other interest: _Provided, further_ ; That such member shall disclose fully, at the time of his or her inhibition, the nature of his or her interest including actual or potential conflict of interest and the reasons for his or her inhibition.
 
-**Section 11._Cinema Evaluation System_**. - The Board shall formulate and establish a set of standards and criteria and procedures for the Cinema Evaluation System, subject to the approval of the Council, primarily based on but not limited to the following:
+## Section 11
+
+_Cinema Evaluation System_. - The Board shall formulate and establish a set of standards and criteria and procedures for the Cinema Evaluation System, subject to the approval of the Council, primarily based on but not limited to the following:
 
 a. Direction - which shall be deemed effective when the film's intentions are made clear and realized through the effective orchestration of all the film's elements;
 
@@ -152,7 +160,9 @@ g. Sound - which shall be deemed effective if dialogue, music, sound effects and
 
 h. Acting Performances - which shall be deemed effective if the performers play their characters truthfully and honestly in performance style to suit the film's intentions: _Provided_ , That in evaluating and grading a film, the Board shall look for excellence in the art and craft of film making in its totality, take into consideration scenes of the film in context, its manner of presentation and culture.
 
-**Section 12._Grading of Films._** \- The grading of films by the Cinema Evaluation Board shall be subject to the following provisions:
+## Section 12
+
+_Grading of Films._ \- The grading of films by the Cinema Evaluation Board shall be subject to the following provisions:
 
 (a) Pre-qualification procedures and requirements. - The Council shall prescribe pre-qualification procedures and requirements for application for grading: _Provided_ , That only films whose premiere screening shall be held in the Philippines, and those which have not had any previous theatrical release, free television broadcast, cable broadcast or video release in any commercial medium anywhere in the world shall be qualified for grading by the Board: _Provided, further_ , That the Board shall evaluate and grade only feature film that are intended for theatrical and other forms or exhibition that will charge admission fees and which are at least eighty (80) minutes in length and that the producer shall submit his/her film for grading at least seven (7) calendar days before its scheduled playdate.
 
@@ -174,7 +184,9 @@ a. Amusement tax reward. - A grade "A" or "B" film shall entitle its producer to
 
 2\. For grade "B" films. - 65% of the amusement tax collected on such films. The remaining thirty-five (35%) shall accrue to the funds of the Council.
 
-**Section 14._Amusement Tax Deduction and Remittances._** \- All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities in the Philippines pursuant to Section 140 of Republic Act. No. 7160 during the period the graded film is exhibited, shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted within thirty (30) days from the termination of the exhibition to the Council which shall reward the corresponding amusement tax to the producers of the graded film within fifteen (15) days from receipt thereof.
+## Section 14
+
+_Amusement Tax Deduction and Remittances._ \- All revenue from the amusement tax on the graded film which may otherwise accrue to the cities and municipalities in Metropolitan Manila and highly urbanized and independent component cities in the Philippines pursuant to Section 140 of Republic Act. No. 7160 during the period the graded film is exhibited, shall be deducted and withheld by the proprietors, operators or lessees of theaters or cinemas and remitted within thirty (30) days from the termination of the exhibition to the Council which shall reward the corresponding amusement tax to the producers of the graded film within fifteen (15) days from receipt thereof.
 
 Proprietors, operators and lessees of theaters or cinemas who fail to remit the amusement tax proceeds within the prescribed period shall be liable to a surcharge equivalent to five percent (5%) of the amount due for each month of delinquency which shall be paid to the Council.
 
@@ -216,15 +228,21 @@ _**Assistance from Other Government Agencies.**_ \- The Council may request any 
 
 **_Implementing Rules and Regulations._** \- The Film Development Council shall, within ninety (90) days after the approval of this Act, issue the necessary rules and regulations to implement the provisions hereto.
 
-**Section 20._Transitory Provision._** \- To provide continuity in the operations of the Council, the incumbent officials and employees of the FDFPI and the FRB shall, in a holdover capacity, continue to perform their respective duties and responsibilities and shall receive their corresponding salaries and benefits until such time that the organization of the Council shall have been completed. The transition period shall not exceed six (6) months after the effectivity of this Act.
+## Section 20
+
+_Transitory Provision._ \- To provide continuity in the operations of the Council, the incumbent officials and employees of the FDFPI and the FRB shall, in a holdover capacity, continue to perform their respective duties and responsibilities and shall receive their corresponding salaries and benefits until such time that the organization of the Council shall have been completed. The transition period shall not exceed six (6) months after the effectivity of this Act.
 
 All officials and employees of the FDFPI and FRB shall be deemed resigned from services upon the organization of the Council: _Provided,_ That the officials and employees who shall be laid off shall be given preferential treatment in appointments to new positions to which they may qualify under the new staffing pattern: _Provided, finally_ , That those who shall not be given new appointments shall be entitled to all compensation and benefits due them under existing laws.
 
-All books, assets, rights, privileges, records, obligations and liabilities of the FDFPI and the FRB are hereby transferred to the Council.ℒαwρhi৷
+All books, assets, rights, privileges, records, obligations and liabilities of the FDFPI and the FRB are hereby transferred to the Council.
 
-**Section 21._Annual Report._** \- The Council shall, within ninety (90) days after the end of every fiscal year, submit to the President and to Congress an annual report on its compliance with, or accomplishments under this Act, together with its plans and recommendations to improve and develop its capability to enforce the provisions of this Act, and a complete accounting of transactions with respect to any funds received under this Act.
+## Section 21
 
-**Section 22._Repealing Clause._** \- Executive Order No. 811 is hereby repealed. Executive Order 1051 and Section 140 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby amended accordingly.
+_Annual Report._ \- The Council shall, within ninety (90) days after the end of every fiscal year, submit to the President and to Congress an annual report on its compliance with, or accomplishments under this Act, together with its plans and recommendations to improve and develop its capability to enforce the provisions of this Act, and a complete accounting of transactions with respect to any funds received under this Act.
+
+## Section 22
+
+_Repealing Clause._ \- Executive Order No. 811 is hereby repealed. Executive Order 1051 and Section 140 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby amended accordingly.
 
 All other laws, decrees, orders issuances, rules and regulations which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
 
@@ -232,7 +250,9 @@ All other laws, decrees, orders issuances, rules and regulations which are incon
 
 **_Separability Clause._** \- If, for any reason, any provision of this Act, or any part thereof, is declared invalid or unconstitutional, all other sections or provisions not affected thereby shall remain in force and effect.
 
-**Section 24._Effectivity._** \- This Act shall take effect fifteen (15) days after publication in the _Official Gazette_ and two (2) newspapers of national circulation.
+## Section 24
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after publication in the _Official Gazette_ and two (2) newspapers of national circulation.
 
 Approved,
 

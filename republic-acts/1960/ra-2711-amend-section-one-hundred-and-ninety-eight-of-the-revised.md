@@ -61,7 +61,7 @@ _Registration of chattel mortgages and fees collectible in connection therewith.
 
 "(f) For recording each release of attachment, including the proper annotations, two pesos.
 
-"(g) For recording each sheriff’s return of sale, including the index and references, three pesos.1âшphi1
+"(g) For recording each sheriff’s return of sale, including the index and references, three pesos.
 
 "(h) For recording a power of attorney, appointment of judicial guardian, administrator, or trustee, or any other instrument in which a person is given power to act in behalf of another in connection with a mortgage, three pesos.
 

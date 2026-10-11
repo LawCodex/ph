@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The sitios of Singalat, Upper Katipa, Calog, Bulawan, Amparo, Bangkal, Mabas, and Tingkob in the barrio of Siloy, Municipality of Calamba, Province of Misamis Occidental, are separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Singalat.1âшphi1
+The sitios of Singalat, Upper Katipa, Calog, Bulawan, Amparo, Bangkal, Mabas, and Tingkob in the barrio of Siloy, Municipality of Calamba, Province of Misamis Occidental, are separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Singalat.
 
 ## Section 2
 

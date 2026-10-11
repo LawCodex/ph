@@ -28,6 +28,6 @@ The Secretary of Finance may designate officers and employees within the Departm
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 12, 1948.

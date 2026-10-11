@@ -39,7 +39,7 @@ Section thirteen of Commonwealth Act Numbered Three hundred twenty-six, otherwis
 
 ## Section 2
 
-The second paragraph of section nine of the same Act is repealed.1âшphi1
+The second paragraph of section nine of the same Act is repealed.
 
 ## Section 3
 

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Whenever the number of officers in the grade of Captain/Lieutenant (PN) in the Armed Forces of the Philippines exceeds at least ten percent (10%) of the number authorized by existing law, the President, upon the recommendation of the Secretary of National Defense, may declare as additional promotional vacancies to the grade of Major/Lieutenant Commander (PN) a number not to exceed thirty-three percent (33%) of the excess number of officers in the said grade of Captain/Lieutenant (PN).1âшphi1
+Whenever the number of officers in the grade of Captain/Lieutenant (PN) in the Armed Forces of the Philippines exceeds at least ten percent (10%) of the number authorized by existing law, the President, upon the recommendation of the Secretary of National Defense, may declare as additional promotional vacancies to the grade of Major/Lieutenant Commander (PN) a number not to exceed thirty-three percent (33%) of the excess number of officers in the said grade of Captain/Lieutenant (PN).
 
 ## Section 2
 

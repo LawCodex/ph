@@ -33,7 +33,7 @@ The Director of Vocational Education shall reorganize the said school accordingl
 
 ## Section 3
 
-The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five.1âшphi1 Thereafter, the sums necessary therefor shall be included in the annual General Appropriations Act.
+The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five. Thereafter, the sums necessary therefor shall be included in the annual General Appropriations Act.
 
 ## Section 4
 

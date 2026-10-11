@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established a district office of the Land Transportation Office (LTO) located in the Municipality of Liloan, Province of Cebu.ℒαwρhi৷
+There is hereby established a district office of the Land Transportation Office (LTO) located in the Municipality of Liloan, Province of Cebu.
 
 ## Section 2
 

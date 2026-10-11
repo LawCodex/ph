@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-Any amount received by a taxpayer from the Government of the United States or of the Philippines, or from any of their agencies and instrumentalities, for or on account of damages or losses suffered during the last war is hereby exempted from the payment of income tax and/or any other taxes to the Government of the Philippines; and any such tax heretofore collected thereon shall be credited, if such credit is requested, within one year from the approval of this Act.1aшphi1
+Any amount received by a taxpayer from the Government of the United States or of the Philippines, or from any of their agencies and instrumentalities, for or on account of damages or losses suffered during the last war is hereby exempted from the payment of income tax and/or any other taxes to the Government of the Philippines; and any such tax heretofore collected thereon shall be credited, if such credit is requested, within one year from the approval of this Act.
 
 ## Section 2
 

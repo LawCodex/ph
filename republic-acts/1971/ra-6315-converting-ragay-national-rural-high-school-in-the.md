@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Ragay National Rural High School in the Municipality of Ragay, Province of Camarmes Sur, is hereby converted into a national agricultural and fisheries school to be known as the Ragay National Agricultural and Fisheries School: _Provided, however,_ That only a general education curriculum with practical arts shall be offered in first and second years, and the vocational education curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as feasible, two-year post secondary technical courses. This school shall offer courses in modern fishing method, in addition to the courses now offered.1âшphi1
+Ragay National Rural High School in the Municipality of Ragay, Province of Camarmes Sur, is hereby converted into a national agricultural and fisheries school to be known as the Ragay National Agricultural and Fisheries School: _Provided, however,_ That only a general education curriculum with practical arts shall be offered in first and second years, and the vocational education curriculum shall be offered in the third and fourth years: _Provided, further,_ That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: _Provided, finally,_ That the school shall open, as soon as feasible, two-year post secondary technical courses. This school shall offer courses in modern fishing method, in addition to the courses now offered.
 
 ## Section 2
 

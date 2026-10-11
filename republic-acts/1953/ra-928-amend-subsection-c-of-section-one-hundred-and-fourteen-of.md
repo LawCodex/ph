@@ -79,7 +79,7 @@ Subsection "C" of section one hundred and fourteen of Act Numbered Four hundred 
 
 "(c) In the partition of an hereditary estate which is still in the name of the deceased, in which determinate properties are adjudicated to each heir, devisee or legatee, or to each group of heirs, devisee or legatees, the basis of the fees to be paid by each person or group, as the case may be, shall be the total current assessed value of the properties thus adjudicated to each person or group. In the case, however, of conjugal property, the basis of the fees for the registration of one-half thereof in the name of the surviving spouse shall be an amount equal to ten per centum of the total current assessed value of the properties adjudicated to said spouse.
 
-"(d) In the partition of real property held in common by several registered co-owners, the basis of the fees to be paid by each co-owner or group of co-owners shall be the total assessed value of the property taken by each co-owner or group.1a⍵⍴h!1
+"(d) In the partition of real property held in common by several registered co-owners, the basis of the fees to be paid by each co-owner or group of co-owners shall be the total assessed value of the property taken by each co-owner or group.
 
 "(e) In the sale, conveyance or transfer of two or more parcels of land in favor of two or more separate parties but executed in one single instrument, the basis shall be the total selling price paid by each party-buyer, or, in the case of lump sum consideration, such portion thereof as apportioned in accordance with the assessed value of the respective land acquired by each party-buyer.
 

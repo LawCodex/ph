@@ -40,7 +40,7 @@ _Coverage._ \- This grant of the cash allowance authorized in this Act shall cov
 
 ## Section 4
 
-_Teaching Allowance._ \- All public school teachers shall be granted a Teaching Allowance for the purchase of tangible or intangible teaching supplies and materials, the payment of incidental expenses, and the implementation or conduct of various learning delivery modalities in the total amount of Five thousand pesos (P5,000.00) per teacher for School Year 2024-2025; and Ten thousand pesos (P10,000.00) per teacher for School Year 2025-2026 and thereafter.1aшphi1
+_Teaching Allowance._ \- All public school teachers shall be granted a Teaching Allowance for the purchase of tangible or intangible teaching supplies and materials, the payment of incidental expenses, and the implementation or conduct of various learning delivery modalities in the total amount of Five thousand pesos (P5,000.00) per teacher for School Year 2024-2025; and Ten thousand pesos (P10,000.00) per teacher for School Year 2025-2026 and thereafter.
 
 The Teaching Allowance shall not be subject to income tax.
 

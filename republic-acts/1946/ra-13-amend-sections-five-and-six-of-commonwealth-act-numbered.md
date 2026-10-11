@@ -30,7 +30,7 @@ Sections five and six of Commonwealth Act Numbered Six hundred and seventy-two a
 
 "Sec. 6. The net profits of the Philippine National Bank shall be apportioned annually as follows:
 
-"(1) Fifty per centum to surplus until the latter shall equal fifty per centum of the capital stock of the Bank, and thereafter twenty-five per centum of said net profits until such surplus shall equal the capital stock.1awp++i1
+"(1) Fifty per centum to surplus until the latter shall equal fifty per centum of the capital stock of the Bank, and thereafter twenty-five per centum of said net profits until such surplus shall equal the capital stock.
 
 "(2) The rest of the net profits shall be paid by the Bank with the approval of the Bank Commissioner to the respective entities in proportion to their blocked deposit balances until the total amounts thereof shall have been fully covered and refunded.
 

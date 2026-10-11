@@ -54,6 +54,6 @@ _Application of the Civil Service Law._ —Nothing in this Act shall be construe
 
 ## Section 7
 
-_Effectivity_.—The Act shall take effect upon its approval.1a⍵⍴h!1
+_Effectivity_.—The Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

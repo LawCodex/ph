@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Abellana Vocational High School in the City of Cebu is hereby converted into a national vocational school to be known as the Abellana National Vocational School.1âшphi1
+The Abellana Vocational High School in the City of Cebu is hereby converted into a national vocational school to be known as the Abellana National Vocational School.
 
 ## Section 2
 

@@ -38,7 +38,7 @@ Sitio Pinangotoran of barrio San Juan to barrio Katipunan;
 
 Sitio Curba to Barrio Curba; and
 
-Sitio Km. 16 to Barrio Milagrosa.1avvphi1
+Sitio Km. 16 to Barrio Milagrosa.
 
 ## Section 3
 
@@ -98,7 +98,7 @@ Sitio Pago to Barrio Pago;
 
 Sitio Pasil to Barrio Pasil; and
 
-Sitio Solano to Barrio Solano.1âшphi1
+Sitio Solano to Barrio Solano.
 
 ## Section 4
 

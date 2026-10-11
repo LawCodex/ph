@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Ligao National High School Extension Classes, located in Barangay Binodegahan, Municipality of Pioduran, Province of Albay, is hereby separated from the Ligao National High School and converted into a national high school to be known as the Pioduran National High School.1aшphi1
+The Ligao National High School Extension Classes, located in Barangay Binodegahan, Municipality of Pioduran, Province of Albay, is hereby separated from the Ligao National High School and converted into a national high school to be known as the Pioduran National High School.
 
 ## Section 2
 

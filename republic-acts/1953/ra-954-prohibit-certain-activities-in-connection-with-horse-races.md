@@ -32,7 +32,7 @@ No person, race-track, racing club or any other entity duly licensed by the Game
 
 ## Section 3
 
-No person or group of persons shall fix a race for the purpose of insuring the winning of certain determined horse or horses.1a⍵⍴h!1
+No person or group of persons shall fix a race for the purpose of insuring the winning of certain determined horse or horses.
 
 ## Section 4
 

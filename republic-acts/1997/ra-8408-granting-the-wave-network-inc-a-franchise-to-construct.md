@@ -90,7 +90,7 @@ _Dispersal of Ownership._ – In accordance with the constitutional provision to
 
 ## Section 14
 
-_General Broadcast Policy Law._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.1aшphi1
+_General Broadcast Policy Law._ – The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.
 
 ## Section 15
 

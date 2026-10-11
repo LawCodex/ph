@@ -70,4 +70,4 @@ The title of the same Act is hereby amended to read as follows:
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, June 21, 1969.1a⍵⍴h!1
+Enacted without Executive approval, June 21, 1969.

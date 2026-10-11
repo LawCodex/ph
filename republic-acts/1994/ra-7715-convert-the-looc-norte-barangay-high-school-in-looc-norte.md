@@ -37,7 +37,7 @@ Upon organization of the Looc Norte National High School, all assets, liabilitie
 
 ## Section 3
 
-The Secretary of Education, Culture and Sports is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act, including the power to reorganize the school, revise its curriculum, and provide for its supervision.1a⍵⍴h!1
+The Secretary of Education, Culture and Sports is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act, including the power to reorganize the school, revise its curriculum, and provide for its supervision.
 
 ## Section 4
 

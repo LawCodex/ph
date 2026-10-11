@@ -76,6 +76,6 @@ Whenever in this Act the term "grantee" is used it shall be held and understood 
 
 ## Section 14
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Enacted without Executive approval, June 21, 1969.

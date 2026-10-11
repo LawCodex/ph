@@ -27,19 +27,27 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## ARTICLE I TITLE
 
-**Section 1._Title._** – This Act shall be known as the "_Philippine Nursing Act of 1991._ "
+### Section 1
+
+_Title._ – This Act shall be known as the "_Philippine Nursing Act of 1991._ "
 
 ## ARTICLE II DECLARATION OF POLICY
 
-**Section 2._Declaration of Policy._** – It is hereby declared the policy of the State to assume responsibility for the protection and improvement of the nursing profession by instituting measures that will result in relevant nursing education, and in humane working conditions, better career prospects and a dignified existence for our nurses.
+### Section 2
+
+_Declaration of Policy._ – It is hereby declared the policy of the State to assume responsibility for the protection and improvement of the nursing profession by instituting measures that will result in relevant nursing education, and in humane working conditions, better career prospects and a dignified existence for our nurses.
 
 The State hereby guarantee the delivery of basic health services through an adequate nursing personnel throughout the country.
 
 ## ARTICLE III ORGANIZATION OF THE BOARD OF NURSING
 
-**Section 3._Name and Composition of the Board._** – There shall be created a Board of Nursing to be composed of a Chairman and four (4) members who shall be appointed by the President from a list of twelve (12) nominees who are registered nurses of recognized standing in the Philippines and who possess the qualifications prescribed in Section 5 of this Act as certified by the accredited national nurses′ association to the Professional Regulation Commission.
+### Section 3
 
-**Section 4._Power and Duties of the Board._** – The Board shall have following powers, duties and functions:
+_Name and Composition of the Board._ – There shall be created a Board of Nursing to be composed of a Chairman and four (4) members who shall be appointed by the President from a list of twelve (12) nominees who are registered nurses of recognized standing in the Philippines and who possess the qualifications prescribed in Section 5 of this Act as certified by the accredited national nurses′ association to the Professional Regulation Commission.
+
+### Section 4
+
+_Power and Duties of the Board._ – The Board shall have following powers, duties and functions:
 
 (a) Supervise and regulate the practice of the nursing profession;
 
@@ -57,7 +65,9 @@ The State hereby guarantee the delivery of basic health services through an adeq
 
 (h) Promulgate decisions or adopt measures as may be necessary for the improvement of the nursing practice, for the advancement of the profession, and for the proper and full enforcement of this Act.
 
-**Section 5._Qualifications of Board Members._** – A member of the Board shall:
+### Section 5
+
+_Qualifications of Board Members._ – A member of the Board shall:
 
 (a) Be a citizen and resident of the Philippines;
 
@@ -71,15 +81,23 @@ The State hereby guarantee the delivery of basic health services through an adeq
 
 (f) Not have been convicted of any offense involving moral turpitude even if previously extended pardon by the President of the Philippines.
 
-**Section 6._Requirements Upon Qualification as Member of the Board of Nursing._** – Any person who qualifies as Chairman or member of the Board shall automatically resign from any teaching position in any school, college or university and/or review program for the local nursing board examinations or in any office or employment in the Government or any subdivision, agency or instrumentality thereof, including government-owned or controlled corporations or their subsidiaries. He shall not have any pecuniary interest in or administrative supervision over any institution offering basic nursing education programs, including review classes.
+### Section 6
 
-**Section 7._Term of Office._** – The Chairman and the members of the Board shall hold office for a term of three (3) years and until their successors shall have qualified: Provided, That a member of the Board may be reappointed for another term not exceeding three (3) years: Provided, further, That, in the event that only one (1) member of the Board is reappointed, he or she, by virtue of seniority, shall automatically become the Chairman of the new Board. However, in case two (2) or more members are reappointed, the best qualified among them, to be determined by all the members of the new Board, shall become the new Chairman of the Board: Provided, finally, That, in case all members of the old Board are reappointed or all members are new, all the members of the new Board shall determine the best qualified from among themselves who shall be recommended to the President of the Philippines to be the Chairman of the Board.
+_Requirements Upon Qualification as Member of the Board of Nursing._ – Any person who qualifies as Chairman or member of the Board shall automatically resign from any teaching position in any school, college or university and/or review program for the local nursing board examinations or in any office or employment in the Government or any subdivision, agency or instrumentality thereof, including government-owned or controlled corporations or their subsidiaries. He shall not have any pecuniary interest in or administrative supervision over any institution offering basic nursing education programs, including review classes.
+
+### Section 7
+
+_Term of Office._ – The Chairman and the members of the Board shall hold office for a term of three (3) years and until their successors shall have qualified: Provided, That a member of the Board may be reappointed for another term not exceeding three (3) years: Provided, further, That, in the event that only one (1) member of the Board is reappointed, he or she, by virtue of seniority, shall automatically become the Chairman of the new Board. However, in case two (2) or more members are reappointed, the best qualified among them, to be determined by all the members of the new Board, shall become the new Chairman of the Board: Provided, finally, That, in case all members of the old Board are reappointed or all members are new, all the members of the new Board shall determine the best qualified from among themselves who shall be recommended to the President of the Philippines to be the Chairman of the Board.
 
 Any vacancy in the Board occurring within the term of a member shall be filled for the unexpired portion of the term only. Each member of the Board shall take the proper oath of office prior to the performance of his or her duties.
 
-**Section 8._Compensation of Board Members._** – The Chairman and members of the Board shall receive as compensation an amount equal to that given the Chairman and members of other government boards situated under analogous circumstances.
+### Section 8
 
-**Section 9._Removal of Board Members._** – The President may remove any member of the Board on the following grounds after giving the member concerned an opportunity to defend himself or herself in a proper administrative investigation to be conducted under the supervision and control of the Department of Justice, upon instruction of the President:
+_Compensation of Board Members._ – The Chairman and members of the Board shall receive as compensation an amount equal to that given the Chairman and members of other government boards situated under analogous circumstances.
+
+### Section 9
+
+_Removal of Board Members._ – The President may remove any member of the Board on the following grounds after giving the member concerned an opportunity to defend himself or herself in a proper administrative investigation to be conducted under the supervision and control of the Department of Justice, upon instruction of the President:
 
 (a) Continued neglect of duty or incompetence;
 
@@ -87,13 +105,21 @@ Any vacancy in the Board occurring within the term of a member shall be filled f
 
 (c) Unprofessional or dishonorable conduct.
 
-**Section 10._Rules and Regulations._** – The Board shall promulgate such rules and regulations as may be necessary to carry out the provisions of this Act.
+### Section 10
 
-**Section 11._Records._** – All records of the Board of Nursing, including examination papers, minutes of deliberations, records of administrative cases and investigations, and examination results shall be kept by the Professional Regulation Commission under the direct custody of the person designated by the Chairman of the Commission. No record shall be removed, altered or examined without the prior authorization of the Board.
+_Rules and Regulations._ – The Board shall promulgate such rules and regulations as may be necessary to carry out the provisions of this Act.
 
-**Section 12._Examination Required._** – All applicants for license to practice nursing shall be required to pass written examination by the Board of Nursing.
+### Section 11
 
-**Section 13._Qualifications of Applicants._** – In order to be admitted to the examination for nurses, an applicant must, at the time of filing his or her application, establish to the satisfaction of the Board of Nursing that:
+_Records._ – All records of the Board of Nursing, including examination papers, minutes of deliberations, records of administrative cases and investigations, and examination results shall be kept by the Professional Regulation Commission under the direct custody of the person designated by the Chairman of the Commission. No record shall be removed, altered or examined without the prior authorization of the Board.
+
+### Section 12
+
+_Examination Required._ – All applicants for license to practice nursing shall be required to pass written examination by the Board of Nursing.
+
+### Section 13
+
+_Qualifications of Applicants._ – In order to be admitted to the examination for nurses, an applicant must, at the time of filing his or her application, establish to the satisfaction of the Board of Nursing that:
 
 (a) He or she is a citizen of the Philippines, or a citizen or subject of a country which permits Filipino nurses to practice within its territorial limits on the same basis as the subject or citizen of such country: Provided, That the requirements for the registration or licensing of nurses in said country are substantially the same as those prescribed in this Act;
 
@@ -103,27 +129,43 @@ Any vacancy in the Board occurring within the term of a member shall be filled f
 
 (d) He or she is a holder of bachelor′s degree in nursing from a college or university duly recognized by the proper government agency.
 
-**Section 14._Licensure Examination._** – The licensure examination for the practice of nursing in the Philippines shall by given by the Board not earlier than one (1) month but not later than two (2) months after the closing of the semester prescribed by the Department of Education, Culture and Sports. The examination shall be held in the City of Manila or in such places as may be decided by the Board subject to the approval of the Professional Regulation Commission.
+### Section 14
 
-**Section 15._Scope of Examination._** – The scope of the examination for the practice of nursing in the Philippines shall be determined by the Board. The Board shall take into consideration the objectives of the nursing curriculum, the broad areas of nursing, and other related disciplines and competencies in determining the subjects of examinations.
+_Licensure Examination._ – The licensure examination for the practice of nursing in the Philippines shall by given by the Board not earlier than one (1) month but not later than two (2) months after the closing of the semester prescribed by the Department of Education, Culture and Sports. The examination shall be held in the City of Manila or in such places as may be decided by the Board subject to the approval of the Professional Regulation Commission.
 
-**Section 16._Rating in the examination._** – In order to pass the examination, an examinee must obtain a general average rating of at least seventy-five percent (75%) with a rating of not below sixty percent (60%) in any subject. An examinee who obtains an average rating of seventy-five percent (75%) or higher but gets a rating below sixty percent (60%) in any given subject must take the examination again, but only in the subject or subjects where he or she rated below sixty percent (60%).
+### Section 15
+
+_Scope of Examination._ – The scope of the examination for the practice of nursing in the Philippines shall be determined by the Board. The Board shall take into consideration the objectives of the nursing curriculum, the broad areas of nursing, and other related disciplines and competencies in determining the subjects of examinations.
+
+### Section 16
+
+_Rating in the examination._ – In order to pass the examination, an examinee must obtain a general average rating of at least seventy-five percent (75%) with a rating of not below sixty percent (60%) in any subject. An examinee who obtains an average rating of seventy-five percent (75%) or higher but gets a rating below sixty percent (60%) in any given subject must take the examination again, but only in the subject or subjects where he or she rated below sixty percent (60%).
 
 In order to pass the succeeding examination an examinee must obtain a rating of at lest seventy-five percent (75%) in the subject or subjects repeated.
 
 An examinee who despite the third examination fails to obtain at least seventy-five percent (75%) in the subject or subjects repeated shall no longer be allowed to take the examination, unless he proves to the satisfaction of the Board that he/she has undergone a refresher course consisting in enrollment and passing in the regular fourth year subjects in a recognized nursing school.
 
-**Section 17._Issuance of Certificates._** – A certificate of registration as nurse shall be issued to any applicant who passes the examination upon payment of the prescribed fees. Every certificate of registration shall show the full name of the registrant, the serial number, the signature of the members of the Board, and the official seal of the Board.
+### Section 17
 
-**Section 18._Fees of Examination and Registration._** – Applicants for licensure examination and for registration shall pay the prescribed fees set by the Professional Regulation Commission.
+_Issuance of Certificates._ – A certificate of registration as nurse shall be issued to any applicant who passes the examination upon payment of the prescribed fees. Every certificate of registration shall show the full name of the registrant, the serial number, the signature of the members of the Board, and the official seal of the Board.
 
-**Section 19._Registration by Reciprocity._** – Certificates of registration may be issued without examination to nurses registered under the laws of any foreign state or country: Provided, That the requirements for the registration or licensing of nurses in said country are substantially the same as those prescribed under this Act: Provided, further, That the laws of such state or country grant the same privileges to registered nurses of the Philippines on the same basis as the subjects or citizens of such foreign state or country.
+### Section 18
 
-**Section 20._Non-issuance of Certificates in Certain Cases._** – No person convicted by final judgment of any criminal offense involving moral turpitude or any person guilty of immoral or dishonorable conduct shall be issued a certificate of registration.
+_Fees of Examination and Registration._ – Applicants for licensure examination and for registration shall pay the prescribed fees set by the Professional Regulation Commission.
+
+### Section 19
+
+_Registration by Reciprocity._ – Certificates of registration may be issued without examination to nurses registered under the laws of any foreign state or country: Provided, That the requirements for the registration or licensing of nurses in said country are substantially the same as those prescribed under this Act: Provided, further, That the laws of such state or country grant the same privileges to registered nurses of the Philippines on the same basis as the subjects or citizens of such foreign state or country.
+
+### Section 20
+
+_Non-issuance of Certificates in Certain Cases._ – No person convicted by final judgment of any criminal offense involving moral turpitude or any person guilty of immoral or dishonorable conduct shall be issued a certificate of registration.
 
 The Board shall furnish the applicant a written statement setting forth the reasons for its action which shall be incorporated in the records of the Board.
 
-**Section 21._Revocation and Suspension of Certificates._** – The Board shall have the power to revoke or suspend the certificate of registration of a nurse upon any of the following grounds:
+### Section 21
+
+_Revocation and Suspension of Certificates._ – The Board shall have the power to revoke or suspend the certificate of registration of a nurse upon any of the following grounds:
 
 (a) For any of the causes mentioned in the preceding section;
 
@@ -135,17 +177,27 @@ The Board shall furnish the applicant a written statement setting forth the reas
 
 (e) For the use of fraud, deceit, or false statements in obtaining a certificate of registration.
 
-**Section 22._Reissuance of Revoked Certificates and Replacement of Lost Certificates._** – The Board may, for reasons of equity and justice or when the cause for revocation has disappeared or has been cured and corrected, upon proper application therefor and the payment of the required fees, issue another copy of the certificate of registration.
+### Section 22
+
+_Reissuance of Revoked Certificates and Replacement of Lost Certificates._ – The Board may, for reasons of equity and justice or when the cause for revocation has disappeared or has been cured and corrected, upon proper application therefor and the payment of the required fees, issue another copy of the certificate of registration.
 
 ## ARTICLE IV NURSING EDUCATION
 
-**Section 23._General Entrance Requirements._** – Applicants desiring to enroll in a nursing course must belong to the upper forty percent (40%) of the graduating class of the general secondary course, as certified by the school.
+### Section 23
 
-**Section 24._Nursing Education Program._** – The nursing education program shall provide sound academic and professional foundation for the practice of nursing.
+_General Entrance Requirements._ – Applicants desiring to enroll in a nursing course must belong to the upper forty percent (40%) of the graduating class of the general secondary course, as certified by the school.
 
-**Section 25._Learning Experiences._** – The learning experiences required in a classroom, hospital, home, community or other health/welfare agency shall adhere strictly to specific requirements embodied in the prescribed curriculum for the nursing course and in the rules, policies, and standards of nursing education. Such learning experience shall not be less than six (6) units or its equivalent.
+### Section 24
 
-**Section 26._Qualifications of the Faculty._** – A member of the faculty in a college or school of nursing must:
+_Nursing Education Program._ – The nursing education program shall provide sound academic and professional foundation for the practice of nursing.
+
+### Section 25
+
+_Learning Experiences._ – The learning experiences required in a classroom, hospital, home, community or other health/welfare agency shall adhere strictly to specific requirements embodied in the prescribed curriculum for the nursing course and in the rules, policies, and standards of nursing education. Such learning experience shall not be less than six (6) units or its equivalent.
+
+### Section 26
+
+_Qualifications of the Faculty._ – A member of the faculty in a college or school of nursing must:
 
 (a) Be a Filipino citizen;
 
@@ -161,7 +213,9 @@ In addition to the aforementioned qualifications, the dean of a college or schoo
 
 ## ARTICLE V NURSING PRACTICE
 
-**Section 27._Scope of Nursing._** – A person shall be deemed to be practicing nursing within the meaning of this Act when he, for a fee, salary or other reward or compensation, singly or in collaboration with another, initiates and performs nursing services to individuals, families and communities in various stages of development towards the promotion of health, prevention of illness, restoration of health, and alleviation of suffering through:
+### Section 27
+
+_Scope of Nursing._ – A person shall be deemed to be practicing nursing within the meaning of this Act when he, for a fee, salary or other reward or compensation, singly or in collaboration with another, initiates and performs nursing services to individuals, families and communities in various stages of development towards the promotion of health, prevention of illness, restoration of health, and alleviation of suffering through:
 
 (a) Utilization of the nursing process, including assessment, planning, implementation and evaluation of nursing care. Nursing care includes, but not limited to, traditional and innovative approaches in self-executing nursing techniques and procedures, comfort measures, health teaching and administration of legal and written prescription for treatment therapies, medication and hypodermic intramuscular or intravenous injections: Provided, however, That, in the administration of intravenous injections, special training shall be required according to protocol established;
 
@@ -173,7 +227,9 @@ In addition to the aforementioned qualifications, the dean of a college or schoo
 
 (e) Undertaking nursing and health manpower development training and research and soliciting finances therefor, in cooperation with the appropriate government or private agency: Provided, however, That this provision shall not apply to nursing students who perform nursing functions under the direct supervision of qualified faculty.
 
-**Section 28._Qualifications of Nursing Service Administrator._** – A person occupying supervisory or managerial positions requiring knowledge of nursing must:
+### Section 28
+
+_Qualifications of Nursing Service Administrator._ – A person occupying supervisory or managerial positions requiring knowledge of nursing must:
 
 (a) Be a Filipino citizen or a former Filipino citizen who was has officially declared his/her intention to reacquire Filipino citizenship;
 
@@ -193,11 +249,15 @@ Provided, That a person occupying the position of chief nurse or director of nur
 
 ## ARTICLE VI HEALTH HUMAN RESOURCE DEVELOPMENT, PRODUCTION AND UTILIZATION
 
-**Section 29._Studies for Nursing Manpower Needs, Production, Utilization and Development._** – The Nursing Board shall undertake studies and initiate and/or cooperate with appropriate government or private agencies in the conduct of studies for health human resource production, utilization and development.
+### Section 29
+
+_Studies for Nursing Manpower Needs, Production, Utilization and Development._ – The Nursing Board shall undertake studies and initiate and/or cooperate with appropriate government or private agencies in the conduct of studies for health human resource production, utilization and development.
 
 ## ARTICLE VII PENAL AND MISCELLANEOUS PROVISIONS
 
-**Section 30._Prohibitions in the Practice of Nursing._** – A fine of not less than Ten thousand pesos (P10,000.00) nor more than Forty thousand pesos (P40,000.00) or imprisonment of not less than one (1) year nor more than six (6) years, or both, in the discretion of the court, shall be imposed upon:
+### Section 30
+
+_Prohibitions in the Practice of Nursing._ – A fine of not less than Ten thousand pesos (P10,000.00) nor more than Forty thousand pesos (P40,000.00) or imprisonment of not less than one (1) year nor more than six (6) years, or both, in the discretion of the court, shall be imposed upon:
 
 (a) Any person practicing nursing in the Philippines within the meaning of this Act:
 
@@ -217,14 +277,24 @@ Provided, That a person occupying the position of chief nurse or director of nur
 
 (c) Any person violating any provision of this Act.
 
-**Section 31._Standard Basic Pay._** – Based on current National Economic and Development Authority (NEDA) figures, the proper government office or agency shall fix a standard pay for all nurses working in either public or private health agencies. The same standard basic pay shall be increased periodically to cope with the increase in cost of living.
+### Section 31
 
-**Section 32._Enforcement of this Act._** – It shall be the duty of all duly constituted law-enforcement agencies and officers of national, provincial, city or municipal governments to enforce the provisions of this Act and to prosecute any person violating the same.
+_Standard Basic Pay._ – Based on current National Economic and Development Authority (NEDA) figures, the proper government office or agency shall fix a standard pay for all nurses working in either public or private health agencies. The same standard basic pay shall be increased periodically to cope with the increase in cost of living.
 
-**Section 33._Repealing Clause._** – All laws, decrees, orders, circulars, rules and regulations, and other issuances which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+### Section 32
 
-**Section 34._Separability Clause._** – If any part of this Act is declared unconstitutional, the remaining parts not affected thereby shall continue to be valid and operational.
+_Enforcement of this Act._ – It shall be the duty of all duly constituted law-enforcement agencies and officers of national, provincial, city or municipal governments to enforce the provisions of this Act and to prosecute any person violating the same.
 
-**Section 35._Effectivity._** – This Act shall take effect one (1) month after its publication in any newspaper of general circulation in the Philippines.
+### Section 33
+
+_Repealing Clause._ – All laws, decrees, orders, circulars, rules and regulations, and other issuances which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+### Section 34
+
+_Separability Clause._ – If any part of this Act is declared unconstitutional, the remaining parts not affected thereby shall continue to be valid and operational.
+
+### Section 35
+
+_Effectivity._ – This Act shall take effect one (1) month after its publication in any newspaper of general circulation in the Philippines.
 
 Approved: **November 21, 1991**

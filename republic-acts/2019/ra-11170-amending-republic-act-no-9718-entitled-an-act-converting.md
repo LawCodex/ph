@@ -76,7 +76,7 @@ _The Governing Board._ \- The governing Board of the University shall be the Boa
 
 \- Section 10 of Republic Act No. 9718 is hereby amended as follows:
 
-"Sec. 10 _Heads of University Campuses._ \- Campus Directors shall render full-time service.1âwphi1 They shall be appointed by the University President, subject to the guidelines, qualifications and standards set by the Board: _Provided,_ That the incumbent college administrators of the extension campuses shall serve as Campus Directors of their respective campuses."
+"Sec. 10 _Heads of University Campuses._ \- Campus Directors shall render full-time service. They shall be appointed by the University President, subject to the guidelines, qualifications and standards set by the Board: _Provided,_ That the incumbent college administrators of the extension campuses shall serve as Campus Directors of their respective campuses."
 
 ## Section 5
 

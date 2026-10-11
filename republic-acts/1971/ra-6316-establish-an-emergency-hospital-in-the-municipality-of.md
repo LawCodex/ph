@@ -28,7 +28,7 @@ There shall be established an emergency hospital in the Municipality of Pilar in
 
 ## Section 2
 
-The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.1âшphi1
+The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

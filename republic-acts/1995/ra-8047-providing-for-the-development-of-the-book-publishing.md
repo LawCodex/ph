@@ -266,7 +266,7 @@ _Appropriations._ \- For the initial operating expenses of the Board and the Sec
 
 ## Section 17
 
-_Transitory Provisions._ \- Within a period of one hundred eighty (180) days after the approval of this Act, the Board shall be constituted to start its operation.1aшphi1
+_Transitory Provisions._ \- Within a period of one hundred eighty (180) days after the approval of this Act, the Board shall be constituted to start its operation.
 
 All other government offices having functions similar to those of the Board shall then cease to perform such functions. These functions shall henceforth be deemed transferred to the Board.
 

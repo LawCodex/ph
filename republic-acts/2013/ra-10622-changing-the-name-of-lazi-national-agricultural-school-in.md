@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-_Renaming of a National Agricultural School._ 1âwphi1 – The name of Lazi National Agricultural School in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor is hereby changed to Lazi Technical Institute.
+_Renaming of a National Agricultural School._ – The name of Lazi National Agricultural School in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor is hereby changed to Lazi Technical Institute.
 
 ## Section 2
 

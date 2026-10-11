@@ -184,7 +184,7 @@ _The Secretary of the College._ \- The Board shall appoint a Secretary, who shal
 
 ## Section 14
 
-_The Treasurer of the College._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.1âwphi1
+_The Treasurer of the College._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.
 
 ## Section 15
 
@@ -242,7 +242,7 @@ _Compliance with CHED Requirements._ \- The provisions of this Act notwithstandi
 
 The CHED shall designate a panel of experts who shall prepare a recommendation to the Chairperson of the CHED, on whether the institution has complied with the requirements for the grant of college status based on CHED Memorandum Order No. 46, series of 2012.
 
-The institution shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements provided therein.1âwphi1
+The institution shall retain its status prior to the effectivity of this Act until it is able to comply with the requirements provided therein.
 
 ## Section 23
 

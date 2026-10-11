@@ -28,7 +28,7 @@ The name of Barangay Cobol in the Municipality of Batac, Province of Ilocos Nort
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 <table>
 <tr>

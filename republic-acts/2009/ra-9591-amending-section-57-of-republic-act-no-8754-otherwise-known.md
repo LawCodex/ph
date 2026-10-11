@@ -28,7 +28,9 @@ AN ACT AMENDING SECTION 57 OF REPUBLIC ACT NO. 8754, OTHERWISE KNOWN AS THE CHAR
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Legislative District._** \- Section 57 of Republic Act No. 8754, otherwise known as the Charter of the City of Malolos is hereby amended to read as follows:
+## Section 1
+
+_Legislative District._ \- Section 57 of Republic Act No. 8754, otherwise known as the Charter of the City of Malolos is hereby amended to read as follows:
 
 "SEC. 57. _Legislative District._ \- The City of Malolos shall have its own legislative district to commence in the next national election after the effectivity of this Act."
 
@@ -36,11 +38,17 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The incumbent representative of the First District of the Province of Bulacan shall continue to represent the City of Malolos until the new representative of the lone legislative district of the City of Malolos shall have been elected and qualified.
 
-**Section 3._Rules and Regulations._** \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.
+## Section 3
 
-**Section 4._Repealing Clause._** \- All laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
+_Rules and Regulations._ \- The Commission on Elections shall issue the necessary rules and regulations to implement this Act.
 
-**Section 5._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+## Section 4
+
+_Repealing Clause._ \- All laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+## Section 5
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

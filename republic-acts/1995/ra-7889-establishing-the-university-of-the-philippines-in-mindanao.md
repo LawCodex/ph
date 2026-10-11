@@ -46,7 +46,7 @@ the Board of Regents of the University of the Philippines shall have full author
 
 the University of the Philippines in Mindanao shall provide a special scholarship program and other affirmative action programs to assist poor but deserving muslims and other members of cultural communities to qualify for admission to the University.
 
-No student shall be denied admission to the University of the Philippines in Mindanao by reason of sex, religion, cultural or community affiliation or ethnic origin.1aшphi1
+No student shall be denied admission to the University of the Philippines in Mindanao by reason of sex, religion, cultural or community affiliation or ethnic origin.
 
 ## Section 6
 

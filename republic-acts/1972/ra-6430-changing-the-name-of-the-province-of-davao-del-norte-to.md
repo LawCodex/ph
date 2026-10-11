@@ -28,6 +28,6 @@ The name of the Province of Davao del Norte is changed to Province of Davao del 
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 17, 1972.

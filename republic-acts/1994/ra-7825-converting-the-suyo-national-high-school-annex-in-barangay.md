@@ -33,7 +33,7 @@ The Suyo National High School Annex in Barangay Suyo, Municipality of Sagada, Mo
 
 ## Section 2
 
-The Secretary of Education, Culture and Sports shall issue such orders, rules and circulars as may be necessary for the implementation of this Act.1a⍵⍴h!1
+The Secretary of Education, Culture and Sports shall issue such orders, rules and circulars as may be necessary for the implementation of this Act.
 
 ## Section 3
 

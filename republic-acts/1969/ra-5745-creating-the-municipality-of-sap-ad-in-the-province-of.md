@@ -36,7 +36,7 @@ S 26 deg.-OO min. E, Distance 2,000 meters to Baliliksa Peak, then
 
 S 53 deg.-lO min. E, Distance 10,000 meters to Karkum Peak then
 
-S 20 deg-10 min. E, Distance 2,100 meters to Inayawan Peak, then follow the course of Cabuyao river downstream, down to point "G" intersection of Cabuyao, Pansilan and Maranding rivers.1a⍵⍴h!1
+S 20 deg-10 min. E, Distance 2,100 meters to Inayawan Peak, then follow the course of Cabuyao river downstream, down to point "G" intersection of Cabuyao, Pansilan and Maranding rivers.
 
 S 25 deg.-15 min. E, (Approx. more or less) Intersection of Cabuyao, Marauding and Pansilan rivers to point "H", (Intersection of Cabayugan and Pansilan rivers), then
 

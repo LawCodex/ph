@@ -28,6 +28,6 @@ The name of the San Agustin Elementary School in the municipality of Naujan, Pro
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 15, 1954.

@@ -153,7 +153,7 @@ _The Secretary of the College._ \- The Board shall appoint a secretary who shall
 
 ## Section 9
 
-_The Treasurer of the Philippines._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.Ꮮαwρhi৷
+_The Treasurer of the Philippines._ \- The Treasurer of the Philippines shall be the ex officio treasurer of the College.
 
 ## Section 10
 

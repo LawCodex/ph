@@ -29,7 +29,7 @@ The name of the Nueva Ecija Provincial Hospital in San Jose City, Province of Nu
 
 ## Section 2
 
-This Act shall take effect upon its approval.1a⍵⍴h!1
+This Act shall take effect upon its approval.
 
 Approved,
 

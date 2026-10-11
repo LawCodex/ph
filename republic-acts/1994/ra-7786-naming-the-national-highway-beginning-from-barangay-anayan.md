@@ -35,4 +35,4 @@ The national highway beginning from Barangay Anayan in the Municipality of Pili 
 
 This Act shall take effect upon its approval.
 
-Lapsed into law on August 8, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.1a⍵⍴h!1
+Lapsed into law on August 8, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.

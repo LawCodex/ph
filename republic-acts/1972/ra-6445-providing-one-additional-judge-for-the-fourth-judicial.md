@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The fourth paragraph of Section fifty of Republic Act Numbered Two hundred ninety-six, known as the Judiciary Act of 1948, as amended, is further amended to read as follows:
 
-"Twelve judges shall be commissioned for the Fourth Judicial District. Eight judges shall preside over the Court of First Instance of Nueva Ecija and the Cities of Cabanatuan, San Jose, and Palayan and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh and eighth branches thereof, respectively; and four Judges shall preside over the Court of First Instance of Tarlac and shall be known as judges of the first, second, third and fourth branches thereof, respectively."1âшphi1
+"Twelve judges shall be commissioned for the Fourth Judicial District. Eight judges shall preside over the Court of First Instance of Nueva Ecija and the Cities of Cabanatuan, San Jose, and Palayan and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh and eighth branches thereof, respectively; and four Judges shall preside over the Court of First Instance of Tarlac and shall be known as judges of the first, second, third and fourth branches thereof, respectively."
 
 ## Section 2
 

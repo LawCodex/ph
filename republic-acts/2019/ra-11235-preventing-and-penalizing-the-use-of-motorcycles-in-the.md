@@ -70,7 +70,7 @@ The utilization of voluntary and aid labor from prisoners shall be among the req
 
 ## Section 6
 
-_Registry of Motorcycles._ \- The LTO shall maintain a registry of motorcycles in a database to facilitate information retrieval for official investigation and law enforcement purposes. The registry of motorcycle shall include, but not limited to the following information; name of motorcycle owner, motorcycle owners license number, motorcycle owners address and contact details, motorcycle identification number, motorcycle plate number, motorcycle body color, motorcycle brand/make. In the registry of motorcycles, the LTO shall observe at all times Republic Act No. 10173 or the "Data Privacy Act of 2012".1âwphi1
+_Registry of Motorcycles._ \- The LTO shall maintain a registry of motorcycles in a database to facilitate information retrieval for official investigation and law enforcement purposes. The registry of motorcycle shall include, but not limited to the following information; name of motorcycle owner, motorcycle owners license number, motorcycle owners address and contact details, motorcycle identification number, motorcycle plate number, motorcycle body color, motorcycle brand/make. In the registry of motorcycles, the LTO shall observe at all times Republic Act No. 10173 or the "Data Privacy Act of 2012".
 
 ## Section 7
 
@@ -92,7 +92,7 @@ _Use of a Motorcycle in the Commission of Crime._ \- If a motorcycle is used in 
 
 If a motorcycle is used in the commission of a crime constituting a less grave felony or light felony under Revised Penal Code or any other crime, or in the escape from the scene of such crime, regardless of the stage of commission whether attempted, frustrated, or consummated, the owner, driver, backrider or passenger who participated in the same shall be punished by _prision correccional_ to _prision mayor,_ as provided under the Revised Penal Code.
 
-If a seized motorcycle is used in the commission of a crime, the maximum penalty of the relevant crime or offense shall be imposed.1avvphi1
+If a seized motorcycle is used in the commission of a crime, the maximum penalty of the relevant crime or offense shall be imposed.
 
 If death or serious physical injuries, as defined under the Revised Penal Code, results from the unlawful use of a motorcycle in the commission of a crime, the penalty of _reclusion perpetua_ as provided under the Revised Penal Code shall be imposed.
 

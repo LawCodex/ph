@@ -40,8 +40,6 @@ Section 3 of the same Act is hereby amended to read as follows:
 
 "SEC. 3. The number of medical personnel, the budget for personnel services and maintenance and other operating expenses of the Northern Mindanao Medical Center shall correspondingly be increased. The Department of Health, in coordination with the Department of Budget and Management, shall determine the additional plantilla positions to be created pursuant to this Act."
 
-1âwphi1
-
 ## Section 3
 
 There is hereby added a new Section 4 to read as follows:

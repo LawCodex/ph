@@ -43,7 +43,7 @@ The grantee shall comply with the provisions of Republic Act Numbered Seven hund
 
 ## Section 3
 
-_Responsibility to the Public._ \- Excepting cases of force majeure and whenever weather conditions permit, the grantee shall maintain scheduled and/or nonscheduled and/or charter airtransport services between Manila and any and all points and places throughout the Philippines and between Manila and other countries at such frequencies as traffic needs may require: _Provided,however,_ That at least twenty-five percent (25%) of all its frequencies shall be for the domestic market.1âшphi1
+_Responsibility to the Public._ \- Excepting cases of force majeure and whenever weather conditions permit, the grantee shall maintain scheduled and/or nonscheduled and/or charter airtransport services between Manila and any and all points and places throughout the Philippines and between Manila and other countries at such frequencies as traffic needs may require: _Provided,however,_ That at least twenty-five percent (25%) of all its frequencies shall be for the domestic market.
 
 ## Section 4
 

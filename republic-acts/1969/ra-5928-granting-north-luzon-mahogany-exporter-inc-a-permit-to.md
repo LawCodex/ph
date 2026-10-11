@@ -28,7 +28,7 @@ There is hereby granted to North Luzon Mahogany Exporter, Inc., its successors o
 
 ## Section 2
 
-The permit herein granted shall continue to be in force during the time that the grantee, its successors or assigns, conducts its business or services at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of at least two radio stations be begun within two years from the date of the approval of this Act.1âшphi1
+The permit herein granted shall continue to be in force during the time that the grantee, its successors or assigns, conducts its business or services at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of at least two radio stations be begun within two years from the date of the approval of this Act.
 
 ## Section 3
 

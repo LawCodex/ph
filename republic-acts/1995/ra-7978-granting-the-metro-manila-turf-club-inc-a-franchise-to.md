@@ -74,7 +74,9 @@ The operator, manager or person in charge of horse races, within twenty (20) day
 
 The provision of any law to the contrary notwithstanding, the grantee is hereby authorized to hold horse races on two (2) days during the week as may be determined by the Philippine Racing Commission, and on all Saturdays, Sundays and official holidays of the year, excluding Thursdays and Fridays of the Holy Week, June 12th, and any holiday on which a national or local election is held. The grantee may also conduct races on the eve of any public holiday to start not earlier than five thirty o'clock in the afternoon, but not to exceed five (5) days a year.
 
-**Section 9. 1aшphi1** In consideration of the franchise and rights herein granted, the grantee shall pay to the National Treasury a franchise tax equal to twenty-five percent (25%) of its gross earnings, which is equivalent to the commissions/fees earned by the grantee out of total wager funds, allotted as follows:
+## Section 9
+
+In consideration of the franchise and rights herein granted, the grantee shall pay to the National Treasury a franchise tax equal to twenty-five percent (25%) of its gross earnings, which is equivalent to the commissions/fees earned by the grantee out of total wager funds, allotted as follows:
 
 (a) Five percent (5%) to the national government;
 

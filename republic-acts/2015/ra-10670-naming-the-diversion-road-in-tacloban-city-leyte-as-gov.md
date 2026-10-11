@@ -34,7 +34,7 @@ The diversion road in Tacloban City, Leyte shall hereinafter be known as **_Gov.
 
 ## Section 2
 
-The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.1âwphi1
+The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

@@ -32,4 +32,4 @@ Section four of Republic Act Numbered Three thousand five hundred thirty-four is
 
 This Act shall take effect upon its approval.
 
-Enacted without Executive approval, August 4, 1969.1a⍵⍴h!1
+Enacted without Executive approval, August 4, 1969.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The existing Land Transportation Office (LTO) district office in the Municipality of Dapa, Province of Siargao del Norte (LTO Dapa District Office) is hereby upgraded into a Class "C" LTO District Office and renamed as Siargao LTO District Office.ℒαwρhi৷
+The existing Land Transportation Office (LTO) district office in the Municipality of Dapa, Province of Siargao del Norte (LTO Dapa District Office) is hereby upgraded into a Class "C" LTO District Office and renamed as Siargao LTO District Office.
 
 ## Section 2
 

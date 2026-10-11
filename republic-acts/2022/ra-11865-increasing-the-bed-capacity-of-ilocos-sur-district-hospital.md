@@ -38,7 +38,7 @@ The existing professional health care services and facilities of the ISDHM are a
 
 ## Section 3
 
-The existing workforce of the ISDHM, which includes doctors, nurses and support personnel, shall also be increased correspondingly.7!ᕼdMᗄ7 The Secretary of the DOH shall, in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, and after consultation with the Chief of Hospital, determine the additional new positions to be created and filled up.
+The existing workforce of the ISDHM, which includes doctors, nurses and support personnel, shall also be increased correspondingly. The Secretary of the DOH shall, in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, and after consultation with the Chief of Hospital, determine the additional new positions to be created and filled up.
 
 ## Section 4
 

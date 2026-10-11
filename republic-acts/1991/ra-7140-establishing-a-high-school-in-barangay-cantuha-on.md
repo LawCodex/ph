@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a high school in Barangay Cantuha-on, Municipality of Palompon, Province of Leyte, to be known as the Cantuha-on High School.1âшphi1
+There shall be established a high school in Barangay Cantuha-on, Municipality of Palompon, Province of Leyte, to be known as the Cantuha-on High School.
 
 ## Section 2
 

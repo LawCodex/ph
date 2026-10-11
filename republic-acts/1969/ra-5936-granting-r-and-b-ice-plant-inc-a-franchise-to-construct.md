@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Subject to the conditions imposed by this Act, there is granted to R. and B. Ice Plant, Inc., its successors or assigns, for a period of twenty-five years after the approval of this Act, the right, privilege and authority to construct, maintain and operate ice plants and cold storage in the City of Manila and in the Province of Rizal, for the purpose of manufacturing ice and supplying cold storage and to sell and distribute the ice so manufactured and supply cold storage facilities in the said city and province and to collect a schedule of rates and prices for the ice so manufactured and for the cold storage so furnished which schedule of rates and prices shall at all times be subject to regulation by the Public Service Commission.1âшphi1
+Subject to the conditions imposed by this Act, there is granted to R. and B. Ice Plant, Inc., its successors or assigns, for a period of twenty-five years after the approval of this Act, the right, privilege and authority to construct, maintain and operate ice plants and cold storage in the City of Manila and in the Province of Rizal, for the purpose of manufacturing ice and supplying cold storage and to sell and distribute the ice so manufactured and supply cold storage facilities in the said city and province and to collect a schedule of rates and prices for the ice so manufactured and for the cold storage so furnished which schedule of rates and prices shall at all times be subject to regulation by the Public Service Commission.
 
 ## Section 2
 

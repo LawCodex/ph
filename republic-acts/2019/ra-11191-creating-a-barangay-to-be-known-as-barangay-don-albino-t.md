@@ -38,7 +38,7 @@ _Territorial Boundaries._ \- The territorial boundaries of Barangay Don Albino T
 
 Bounded on the Southwest (SW), Northwest (NW) and Northeast (NE) along lines 31-1 to 16 by Barangay Navarro Case 1, Socorro, Surigao del Norte;
 
-On the East (E) along lines 16 to 31 by the Pacific Ocean.1âwphi1
+On the East (E) along lines 16 to 31 by the Pacific Ocean.
 
 The technical description of Barangay Don Albino T. Taruc is as follows:
 
@@ -338,7 +338,7 @@ The technical description of Barangay Don Albino T. Taruc is as follows:
 </tr>
 </table>
 
-Containing an area of 409,944 square meters, more or less.1a\^/phi1
+Containing an area of 409,944 square meters, more or less.
 
 ## Section 3
 

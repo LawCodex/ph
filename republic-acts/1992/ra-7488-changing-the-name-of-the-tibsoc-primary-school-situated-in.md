@@ -29,6 +29,6 @@ The name of Tibsoc Primary School, situated in Barangay Tibsoc, Municipality of 
 
 ## Section 2
 
-This Act shall take effect upon its approval.LaW㏗iL
+This Act shall take effect upon its approval.
 
 Approved, May 5, 1992.

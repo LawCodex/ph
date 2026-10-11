@@ -27,13 +27,21 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-**Section 1._Short Title._** – This Act shall be known as the "Downstream Oil Industry Deregulation Act of 1998."
+### Section 1
 
-**Section 2._Declaration of Policy._** – It shall be the policy of the State to liberalize and deregulate the downstream oil industry in order to ensure a truly competitive market under a regime of fair prices, adequate and continuous supply of environmentally-clean and high-quality petroleum products. To this end, the State shall promote and encourage the entry of new participants in the downstream oil industry, and introduce adequate measures to ensure the attainment of these goals.
+_Short Title._ – This Act shall be known as the "Downstream Oil Industry Deregulation Act of 1998."
 
-**Section 3._Coverage._** –This Act shall apply to all persons or entities engaged in any and all activities of the domestic downstream oil industry, as well as persons or companies directly importing refined petroleum products for their own use.
+### Section 2
 
-**Section 4._Definition of Terms._** – For purposes of this Act, the following terms are hereinbelow defined:
+_Declaration of Policy._ – It shall be the policy of the State to liberalize and deregulate the downstream oil industry in order to ensure a truly competitive market under a regime of fair prices, adequate and continuous supply of environmentally-clean and high-quality petroleum products. To this end, the State shall promote and encourage the entry of new participants in the downstream oil industry, and introduce adequate measures to ensure the attainment of these goals.
+
+### Section 3
+
+_Coverage._ –This Act shall apply to all persons or entities engaged in any and all activities of the domestic downstream oil industry, as well as persons or companies directly importing refined petroleum products for their own use.
+
+### Section 4
+
+_Definition of Terms._ – For purposes of this Act, the following terms are hereinbelow defined:
 
 (a) _Basel Convention_ shall refer to the international accord which governs the trade or movement of hazardous and toxic wastes across borders;
 
@@ -71,17 +79,25 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## CHAPTER II — LIBERALIZATION OF THE DOWNSTREAM OIL INDUSTRY AND PROMOTION OF FREE COMPETITION
 
-**Section 5._Liberalization of the Industry._** – Any law to the contrary notwithstanding, any person or entity may import or purchase any quantity of crude oil and petroleum products from a foreign or domestic source, lease or own and operate refineries and other downstream oil facilities and market such crude oil and petroleum products either in a generic name or his or its own trade name, or use the same for his or its own requirement: _Provided,_ That any person who shall engage in any such activity shall give prior notice thereof to the DOE for monitoring purposes: _Provided, further,_ That such notice shall exempt such person or entity from securing certificates of quality, health and safety and environmental clearance from the proper governmental agencies: _Provided, furthermore,_ That such person or entity shall, for monitoring purposes, report to the DOE his or its every importation/exportation: _Provided, finally,_ That all oil importations shall be in accordance with the Basel Convention.
+### Section 5
 
-**Section 6._Tariff Treatment._** – (a) Any law to the contrary notwithstanding and starting with the effectivity of this Act, a single and uniform tariff duty shall be imposed and collected both on imported crude oil and imported refined petroleum products at the rate of three percent (3%): _Provided, however,_ That the President of the Philippines may, in the exercise of his powers, reduce such tariff rate when in his judgment such reduction is warranted, pursuant to Republic Act No. 1937, as amended, otherwise known as the _Tariff and Customs Code_ : _Provided, further,_ That beginning January 1, 2004 or upon implementation of the Uniform Tariff Program under the World Trade Organization and ASEAN Free Trade Area commitments, the tariff rate shall be automatically adjusted to the appropriate level notwithstanding the provisions under this Section.
+_Liberalization of the Industry._ – Any law to the contrary notwithstanding, any person or entity may import or purchase any quantity of crude oil and petroleum products from a foreign or domestic source, lease or own and operate refineries and other downstream oil facilities and market such crude oil and petroleum products either in a generic name or his or its own trade name, or use the same for his or its own requirement: _Provided,_ That any person who shall engage in any such activity shall give prior notice thereof to the DOE for monitoring purposes: _Provided, further,_ That such notice shall exempt such person or entity from securing certificates of quality, health and safety and environmental clearance from the proper governmental agencies: _Provided, furthermore,_ That such person or entity shall, for monitoring purposes, report to the DOE his or its every importation/exportation: _Provided, finally,_ That all oil importations shall be in accordance with the Basel Convention.
+
+### Section 6
+
+_Tariff Treatment._ – (a) Any law to the contrary notwithstanding and starting with the effectivity of this Act, a single and uniform tariff duty shall be imposed and collected both on imported crude oil and imported refined petroleum products at the rate of three percent (3%): _Provided, however,_ That the President of the Philippines may, in the exercise of his powers, reduce such tariff rate when in his judgment such reduction is warranted, pursuant to Republic Act No. 1937, as amended, otherwise known as the _Tariff and Customs Code_ : _Provided, further,_ That beginning January 1, 2004 or upon implementation of the Uniform Tariff Program under the World Trade Organization and ASEAN Free Trade Area commitments, the tariff rate shall be automatically adjusted to the appropriate level notwithstanding the provisions under this Section.
 
 (b) For as long as the National Power Corporation (NPC) enjoys exemptions from taxes and duties on petroleum products used for power generation, the exemption shall apply to purchases through the local refineries and to the importation of fuel oil and diesel.
 
-**Section 7._Promotion of Fair Trade Practices._** – The Department of Trade and Industry (DTI) and DOE shall take all measures to promote fair trade and prevent cartelization, monopolies, combinations in restraint of trade, and any unfair competition in the Industry as defined in Article 186 of the Revised Penal Code, and Articles 168 and 169 of Republic Act No. 8293, otherwise known as the "Intellectual Property Law". The DOE shall continue to encourage certain practices in the industry which continue to encourage certain practices in the Industry which serve the public interest and are intended to achieve efficiency and cost reduction, ensure continuous supply of petroleum products, and enhance environmental protection. These practices may include borrow-and-loan agreements, rationalized depot and manufacturing operations, hospitality agreements, joint tanker and pipeline utilization, and joint actions on spill control and fire prevention.
+### Section 7
+
+_Promotion of Fair Trade Practices._ – The Department of Trade and Industry (DTI) and DOE shall take all measures to promote fair trade and prevent cartelization, monopolies, combinations in restraint of trade, and any unfair competition in the Industry as defined in Article 186 of the Revised Penal Code, and Articles 168 and 169 of Republic Act No. 8293, otherwise known as the "Intellectual Property Law". The DOE shall continue to encourage certain practices in the industry which continue to encourage certain practices in the Industry which serve the public interest and are intended to achieve efficiency and cost reduction, ensure continuous supply of petroleum products, and enhance environmental protection. These practices may include borrow-and-loan agreements, rationalized depot and manufacturing operations, hospitality agreements, joint tanker and pipeline utilization, and joint actions on spill control and fire prevention.
 
 The DOE shall monitor the relationship between the oil companies (refiners and importers) and their dealers, haulers and LPG distributors to help ensure the observance of fair and equitable practices and to ensure the enforcement of existing contracts: _Provided,_ That the DOE shall conciliate and arbitrate any dispute that may arise with respect to the contractual relationship between the oil companies and the dealers, haulers and LPG distributors involving the dealers' mark-up, the freight rate in transporting petroleum products and the margins of LPG distributors for the protection of the public and to prevent ruinous competition: _Provided, further,_ That the arbitration award of the DOE shall be subject to judicial review under existing law.
 
-**Section 8._Program to Encourage the Entry of New Participants in the Industry._** – The DOE, the Department of Foreign Affairs (DFA) and the DTI shall jointly formulate and establish a program that will promote the entry of new participants in the Industry. Such program shall, among others, include a strategic international information campaign to be implemented through selected embassies and consular offices of the Philippines. This program shall commence implementation after three (3) months from the effectivity of this Act.
+### Section 8
+
+_Program to Encourage the Entry of New Participants in the Industry._ – The DOE, the Department of Foreign Affairs (DFA) and the DTI shall jointly formulate and establish a program that will promote the entry of new participants in the Industry. Such program shall, among others, include a strategic international information campaign to be implemented through selected embassies and consular offices of the Philippines. This program shall commence implementation after three (3) months from the effectivity of this Act.
 
 In this regard, the DOE shall provide a "Philippine Downstream Oil Industry Investment Guide" to new industry participants and prospective participants. This guide, shall, among others, contain:
 
@@ -93,7 +109,9 @@ In this regard, the DOE shall provide a "Philippine Downstream Oil Industry Inve
 
 (d) Such other information the DOE may deem necessary to promote the entry of new participants.
 
-**Section 9._Incentives for New Investments._** – To the extent applicable, persons with new investments as determined by the DOE and registered with the BOI in refining, storage, marketing and distribution of petroleum products, shall be extended the same incentives granted to BOI-registered enterprises engaged in a preferred area of investments pursuant to Executive Order No. 226, otherwise known as the "Omnibus Investments Code of 1987".
+### Section 9
+
+_Incentives for New Investments._ – To the extent applicable, persons with new investments as determined by the DOE and registered with the BOI in refining, storage, marketing and distribution of petroleum products, shall be extended the same incentives granted to BOI-registered enterprises engaged in a preferred area of investments pursuant to Executive Order No. 226, otherwise known as the "Omnibus Investments Code of 1987".
 
 Such incentives shall include:
 
@@ -119,7 +137,9 @@ Any provision of the law to the contrary notwithstanding, the said incentives ma
 
 For this purpose, the industry shall be included in the annual Investment Priorities Plan (IPP): _Provided,_ That nothing in herein contained shall preclude qualified persons or entities as provided under the "Omnibus Investments Code" from applying from or continue enjoying incentives and benefits under the said Code.
 
-**Section 10._Promotion of Retail Competition._** – To achieve the social and policy objective of fair prices, facilitate the attainment of a truly competitive product market in the retail level, the DOE shall promote and encourage by way of information dissemination, networking, and management/skills training, the active and direct participation of the private sector and cooperatives in the retailing of petroleum products through joint venture/supply agreements with new industry participants for the establishment and operation of gasoline stations: _Provided,_ That the training herein shall include LPG retailing.
+### Section 10
+
+_Promotion of Retail Competition._ – To achieve the social and policy objective of fair prices, facilitate the attainment of a truly competitive product market in the retail level, the DOE shall promote and encourage by way of information dissemination, networking, and management/skills training, the active and direct participation of the private sector and cooperatives in the retailing of petroleum products through joint venture/supply agreements with new industry participants for the establishment and operation of gasoline stations: _Provided,_ That the training herein shall include LPG retailing.
 
 To this end, the DOE shall, in accordance with the Technology and Livelihood Resource Center (TLRC) and Technical Education and Skills Development Authority (TESDA), coordinate with new industry participants and existing petroleum dealers' associations in the formulation and implementation of a two-fold program on management and skills training for the establishment, operation, and maintenance of gasoline stations.
 
@@ -131,7 +151,9 @@ Of this amount, two percent (2%) plus any additional funding shall be allocated 
 
 ## CHAPTER III — ANTI-TRUST SAFEGUARDS, OTHER PROHIBITED ACTS AND REMEDIES
 
-**Section 11._Anti-Trust Safeguards._** – To ensure fair competition and prevent cartels and monopolies in the Industry, the following acts are hereby prohibited:
+### Section 11
+
+_Anti-Trust Safeguards._ – To ensure fair competition and prevent cartels and monopolies in the Industry, the following acts are hereby prohibited:
 
 (a) _Cartelization_ which means any agreement, combination or concerted action by refiners, importers and/or dealers, or their representatives, to fix prices, restrict outputs or divide markets, either by products or by areas, or allocate markets, either by products or by areas, in restraint of trade or free competition, including any contractual stipulation which prescribes pricing levels and profit margins;
 
@@ -139,7 +161,9 @@ Of this amount, two percent (2%) plus any additional funding shall be allocated 
 
 Any person, including but not limited to the chief operating officer, chief executive officer or chief finance officer of the partnership, corporation or any entity involved, who is found guilty of any of the said prohibited acts shall suffer the penalty of three (3) to seven (7) years imprisonment, and a fine ranging from One million pesos (P 1,000,0000.00) to Two million pesos (P 2,000,000.00).
 
-**Section 12._Other Prohibited Acts._** – To ensure compliance with the provisions of this Act, the refusal to comply with any of the following shall likewise be prohibited:
+### Section 12
+
+_Other Prohibited Acts._ – To ensure compliance with the provisions of this Act, the refusal to comply with any of the following shall likewise be prohibited:
 
 (a) submission of any reportorial requirements;
 
@@ -151,7 +175,9 @@ Any person, including but not limited to the chief operating officer, chief exec
 
 Any person, including but not limited to the chief operating officer or chief executive officer of the partnership, corporation or any entity involved, who is found guilty of any of the said prohibited acts shall suffer the penalty of imprisonment for two (2) years and a fine ranging from Two hundred fifty thousand pesos (P 250,000.00) to Five hundred thousand pesos (P 500,000.00).
 
-**Section 13._Remedies._** – (a) Government Action. – Whenever it is determined by the Joint Task Force created under Section 14 (d) of this Act, there is a threatened or imminent or actual violation of Section 11 of this Act, it shall direct the provincial or city prosecutors having jurisdiction to institute an action to prevent or restrain such violation with the Regional Trial Court of the place where the defendants reside or has his place of business. Pending hearing of the complaint and before final judgment, the court may at any time issue a temporary restraining order or an injunction as shall be deemed just within the premises, under the same conditions and principles as injunctive relief is granted under the Rules of Court.
+### Section 13
+
+_Remedies._ – (a) Government Action. – Whenever it is determined by the Joint Task Force created under Section 14 (d) of this Act, there is a threatened or imminent or actual violation of Section 11 of this Act, it shall direct the provincial or city prosecutors having jurisdiction to institute an action to prevent or restrain such violation with the Regional Trial Court of the place where the defendants reside or has his place of business. Pending hearing of the complaint and before final judgment, the court may at any time issue a temporary restraining order or an injunction as shall be deemed just within the premises, under the same conditions and principles as injunctive relief is granted under the Rules of Court.
 
 Whenever it is determined by the Joint Task Force that the Government or any of its instrumentalities or agencies, including government-owned or –controlled corporations, shall suffer loss or damage in its business or property by reason of violation of Section 11 of this Act, such instrumentality, agency or corporation may file an action to recover damages and the costs of the suit with the Regional Trial Court which has jurisdiction as provided above.
 
@@ -159,7 +185,9 @@ Whenever it is determined by the Joint Task Force that the Government or any of 
 
 ## CHAPTER IV — POWERS AND FUNCTIONS OF THE DOE AND DOE SECRETARY
 
-**Section 14._Monitoring._** – (a) The DOE shall monitor and publish daily international crude oil prices, as well as follow the movements of domestic oil prices. It shall likewise monitor the quality of petroleum products and stop the operation of businesses involved in the sale of petroleum products which do not comply with the national standards of quality that are aligned with the national standards/protocols of quality. The Bureau of Product Standards of the DTI, together with the Department of Environment and Natural Resources (DENR), the DOE, the Department of Science and Technology (DOST), representatives of the fuel and automotive industries and the consumers, shall set the specifications for all types of fuel and fuel-related products to improve fuel composition for increased efficiency and reduced emissions. The BPS shall also specify the allowable content of additives in all types of fuels and fuel-related products.
+### Section 14
+
+_Monitoring._ – (a) The DOE shall monitor and publish daily international crude oil prices, as well as follow the movements of domestic oil prices. It shall likewise monitor the quality of petroleum products and stop the operation of businesses involved in the sale of petroleum products which do not comply with the national standards of quality that are aligned with the national standards/protocols of quality. The Bureau of Product Standards of the DTI, together with the Department of Environment and Natural Resources (DENR), the DOE, the Department of Science and Technology (DOST), representatives of the fuel and automotive industries and the consumers, shall set the specifications for all types of fuel and fuel-related products to improve fuel composition for increased efficiency and reduced emissions. The BPS shall also specify the allowable content of additives in all types of fuels and fuel-related products.
 
 (b) The DOE shall monitor the refining and manufacturing processes of local petroleum products to ensure that clean and safe (environment and worker-benign) technologies are applied. This shall also apply to the process of marketing local and imported petroleum products.
 
@@ -171,7 +199,9 @@ Upon the effectivity of this Act, the Secretaries of Energy and Justice shall jo
 
 (e) In times of national emergency, when the public interest so requires, the DOE may, during the emergency and under reasonable terms prescribed by it, temporarily take over or direct the operation of any person or entity engaged in the Industry.
 
-**Section 15._Additional Powers of the DOE Secretary._** – In connection with the enforcement of this Act, the DOE Secretary shall have the following powers:
+### Section 15
+
+_Additional Powers of the DOE Secretary._ – In connection with the enforcement of this Act, the DOE Secretary shall have the following powers:
 
 (a) To gather and compile appropriate information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person or entity in the Industry;
 
@@ -191,11 +221,17 @@ Upon the effectivity of this Act, the Secretaries of Energy and Justice shall jo
 
 ## CHAPTER V — TRANSITION PHASE
 
-**Section 16._Phases of Deregulation._** – In order to provide a smooth implementation of deregulation, the policy shift shall be done in two (2) phases: Phase I (Transition Phase) and Phase II (Full Deregulation Phase).
+### Section 16
 
-**Section 17._Buffer Fund._** – The President may, when the interest of the consumers so requires, taking into account the rise in the domestic prices of petroleum products, use the "Reserve Control Account" as a buffer fund in an amount not exceeding Two billion nine hundred million pesos (P 2,900,000,000.00) to cover increases in the prices of petroleum products, except premium gasoline, during the Transition Phase over the prices prevailing as of the date of the effectivity of this Act. The "Reserve Control Account" refers to a lump sum collation of reserve impositions deducted from the appropriations approved by Congress for the operation of the government and the implementation of projects and programs.
+_Phases of Deregulation._ – In order to provide a smooth implementation of deregulation, the policy shift shall be done in two (2) phases: Phase I (Transition Phase) and Phase II (Full Deregulation Phase).
 
-**Section 18._Automatic Oil Pricing Mechanism._** – To enable the domestic price of petroleum products to approximate and promptly reflect the prices of oil in the international market, an automatic pricing mechanism shall be established. To this end, the following laws are hereby amended:
+### Section 17
+
+_Buffer Fund._ – The President may, when the interest of the consumers so requires, taking into account the rise in the domestic prices of petroleum products, use the "Reserve Control Account" as a buffer fund in an amount not exceeding Two billion nine hundred million pesos (P 2,900,000,000.00) to cover increases in the prices of petroleum products, except premium gasoline, during the Transition Phase over the prices prevailing as of the date of the effectivity of this Act. The "Reserve Control Account" refers to a lump sum collation of reserve impositions deducted from the appropriations approved by Congress for the operation of the government and the implementation of projects and programs.
+
+### Section 18
+
+_Automatic Oil Pricing Mechanism._ – To enable the domestic price of petroleum products to approximate and promptly reflect the prices of oil in the international market, an automatic pricing mechanism shall be established. To this end, the following laws are hereby amended:
 
 (a) Paragraph (a), Section 8 of Republic Act No. 6173, as amended by Section 3 of Executive Order No. 172, to read as follows:
 
@@ -223,7 +259,9 @@ The Board shall, on the day of the effectivity of the aforesaid formula, publish
 
 ## CHAPTER VI — FULL DEREGULATION PHASE
 
-**Section 19._Start of Full Deregulation._** – Full deregulation of the Industry shall start five (5) months following the effectivity of this Act: _Provided, however,_ That when the public interest so requires, the President may accelerate the start of full deregulation upon the recommendation of the DOE and the Department of Finance when the prices of crude oil and petroleum products in the world market are declining and the value of the peso in relation to the US dollar is stable, taking into account the relevant trends and prospects: _Provided, further,_ That the foregoing provisions notwithstanding, the five (5)-month Transition Phase shall continue to apply to LPG, regular gasoline, and kerosene as socially-sensitive petroleum products and said petroleum products shall be covered by the automatic pricing mechanism during the said period.
+### Section 19
+
+_Start of Full Deregulation._ – Full deregulation of the Industry shall start five (5) months following the effectivity of this Act: _Provided, however,_ That when the public interest so requires, the President may accelerate the start of full deregulation upon the recommendation of the DOE and the Department of Finance when the prices of crude oil and petroleum products in the world market are declining and the value of the peso in relation to the US dollar is stable, taking into account the relevant trends and prospects: _Provided, further,_ That the foregoing provisions notwithstanding, the five (5)-month Transition Phase shall continue to apply to LPG, regular gasoline, and kerosene as socially-sensitive petroleum products and said petroleum products shall be covered by the automatic pricing mechanism during the said period.
 
 Upon the implementation of full deregulation as provided herein, the Transition Phase is deemed terminated and the following laws are repealed:
 
@@ -243,28 +281,48 @@ Upon the implementation of full deregulation as provided herein, the Transition 
 
 _Provided, however,_ That in case full deregulation is started by the President in exercise of the authority provided in this Section, the foregoing laws shall continue to be in force and effect with respect to LPG, regular gasoline and kerosene for the rest of the five (5)-month period.
 
-**Section 20._Jurisdiction on Pricing of Piped Gas._** – Section 3 of Executive Order No. 172, is hereby amended to read as follows:
+### Section 20
+
+_Jurisdiction on Pricing of Piped Gas._ – Section 3 of Executive Order No. 172, is hereby amended to read as follows:
 
 "_SEC. 3_. _Jurisdiction, Powers and Functions of the Board._ – The Board shall, upon proper notice and hearing, fix and regulate the rate of schedule or prices of piped gas to be charged by duly franchised gas companies which distribute gas by means of underground pipe system."
 
 ## CHAPTER VII FINAL PROVISIONS
 
-**Section 21._OPSF Balance._** – All outstanding claims against OPSF as of the effectivity of this Act, subject to the existing auditing rules and regulations of the Commission on Audit (COA), shall be considered as accounts payable of the National Government. For this purpose, and any law to the contrary notwithstanding, the reimbursement certificates issued by the DOE covering the said outstanding claims shall be honored and accepted by the Bureau of Customs and the Bureau of Internal Revenue as payment to the extent of ten percent (10%) per payment of the tariff duties and specific taxes from the creditor-claimants against the OPSF until such claims are settled in full: _Provided,_ That the reimbursement certificates shall not be transferable.
+### Section 21
 
-**Section 22._Initial Public Offering._** – In compliance with the constitutional mandate to encourage private enterprises to broaden their base of ownership and in recognition of the vital role of oil in the national economy, any person or entity engaged in the oil refinery business shall make a public offering through the stock exchange of at least ten percent (10%) of its common stock within a period of three (3) years from the effectivity of this Act or the commencement of its refinery operations: _Provided,_ That no single person or entity shall be allowed to own more than five percent (5%) of the stock offering: _Provided, further,_ That any crude oil refining company and any stockholder thereof shall not acquire, directly or indirectly, any share of stock offered by any other crude oil refining company pursuant to his Section: _Provided, finally,_ That any such company which made the requisite public offering before the effectivity of this Act shall be exempted from the requirement.
+_OPSF Balance._ – All outstanding claims against OPSF as of the effectivity of this Act, subject to the existing auditing rules and regulations of the Commission on Audit (COA), shall be considered as accounts payable of the National Government. For this purpose, and any law to the contrary notwithstanding, the reimbursement certificates issued by the DOE covering the said outstanding claims shall be honored and accepted by the Bureau of Customs and the Bureau of Internal Revenue as payment to the extent of ten percent (10%) per payment of the tariff duties and specific taxes from the creditor-claimants against the OPSF until such claims are settled in full: _Provided,_ That the reimbursement certificates shall not be transferable.
 
-**Section 23._Implementing Rules and Regulations._** – The DOE, in coordination with the Board, the DENR, DFA, Department of Labor and Employment (DOLE), Department of Health (DOH), DOF, DTI, National Economic and Development Authority (NEDA) and TLRC, shall formulate and issue the necessary implementing rules and regulations within sixty (60) days after the effectivity of this Act.
+### Section 22
 
-**Section 24._Penal Sanction._** – Any person who violates any of the provisions of this Act shall suffer the penalty of three (3) months to one (1) year imprisonment and a fine ranging from Fifty thousand pesos (P 50,000.00) to Three hundred thousand pesos (P 300,000.00).
+_Initial Public Offering._ – In compliance with the constitutional mandate to encourage private enterprises to broaden their base of ownership and in recognition of the vital role of oil in the national economy, any person or entity engaged in the oil refinery business shall make a public offering through the stock exchange of at least ten percent (10%) of its common stock within a period of three (3) years from the effectivity of this Act or the commencement of its refinery operations: _Provided,_ That no single person or entity shall be allowed to own more than five percent (5%) of the stock offering: _Provided, further,_ That any crude oil refining company and any stockholder thereof shall not acquire, directly or indirectly, any share of stock offered by any other crude oil refining company pursuant to his Section: _Provided, finally,_ That any such company which made the requisite public offering before the effectivity of this Act shall be exempted from the requirement.
 
-**Section 25._Public Information Campaign._** – The DOE, in coordination with the Board and the Philippine Information Agency (PIA), shall undertake an information campaign to educate the public on the deregulation program of the Industry.
+### Section 23
 
-**Section 26._Budgetary Appropriations._** – Such amount as may be necessary to effectively implement this Act shall be taken by the DOE form its annual appropriations, the DOE' Special Fund created under Section 8 of Presidential Decree No. 910, as amended, and such amount allocated under Section 10 of this Act.
+_Implementing Rules and Regulations._ – The DOE, in coordination with the Board, the DENR, DFA, Department of Labor and Employment (DOLE), Department of Health (DOH), DOF, DTI, National Economic and Development Authority (NEDA) and TLRC, shall formulate and issue the necessary implementing rules and regulations within sixty (60) days after the effectivity of this Act.
 
-**Section 27._Separability Clause._** – If, for any reason, any section or provision of this Act is declared unconstitutional or invalid, such parts not affected thereby shall remain in full force and effect.
+### Section 24
 
-**Section 28._Repealing Clause._** – All laws, Presidential decrees, executive orders, issuances, rules and regulations or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed or immediately modified accordingly.
+_Penal Sanction._ – Any person who violates any of the provisions of this Act shall suffer the penalty of three (3) months to one (1) year imprisonment and a fine ranging from Fifty thousand pesos (P 50,000.00) to Three hundred thousand pesos (P 300,000.00).
 
-**Section 29._Effectivity._** – This Act shall take effect upon its complete publication in at least two (2) national newspapers of general circulation.
+### Section 25
+
+_Public Information Campaign._ – The DOE, in coordination with the Board and the Philippine Information Agency (PIA), shall undertake an information campaign to educate the public on the deregulation program of the Industry.
+
+### Section 26
+
+_Budgetary Appropriations._ – Such amount as may be necessary to effectively implement this Act shall be taken by the DOE form its annual appropriations, the DOE' Special Fund created under Section 8 of Presidential Decree No. 910, as amended, and such amount allocated under Section 10 of this Act.
+
+### Section 27
+
+_Separability Clause._ – If, for any reason, any section or provision of this Act is declared unconstitutional or invalid, such parts not affected thereby shall remain in full force and effect.
+
+### Section 28
+
+_Repealing Clause._ – All laws, Presidential decrees, executive orders, issuances, rules and regulations or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed or immediately modified accordingly.
+
+### Section 29
+
+_Effectivity._ – This Act shall take effect upon its complete publication in at least two (2) national newspapers of general circulation.
 
 _Approved:_ **February 10, 1998**

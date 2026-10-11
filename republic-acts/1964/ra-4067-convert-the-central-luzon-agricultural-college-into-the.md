@@ -37,7 +37,7 @@ No student shall be denied admission to the university by reason of sex, nationa
 
 ## Section 4
 
-The head of the institution shall be known as the President of the University. He shall be elected and his compensation shall be fixed by the Board of Regents.1âшphi1 The powers and duties of the President of the University, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of the university.
+The head of the institution shall be known as the President of the University. He shall be elected and his compensation shall be fixed by the Board of Regents. The powers and duties of the President of the University, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of the university.
 
 ## Section 5
 

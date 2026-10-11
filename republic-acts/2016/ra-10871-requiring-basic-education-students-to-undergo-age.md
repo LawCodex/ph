@@ -42,7 +42,7 @@ Pursuant thereto, the State shall ensure that able-bodied citizens are equipped 
 
 _Basic Life Support for Basic Education Students._ \- It shall be the duty of all public and private basic education schools operating nationwide to provide their students with basic life support training through the use of psychomotor training in an age-appropriate manner. The instruction shall include programs which have been developed by the Philippine Heart Association (PHA) or Philippine National Red Cross (PNRC) using nationally-recognized, evidence-based guidelines for emergency cardiovascular care, and psychomotor training, to support the instruction. As far as practicable, basic education schools shall incorporate basic life support training as part of the schools’ comprehensive health and physical education curriculum.
 
-As used in this Act, psychomotor training refers to hands-on practice to support cognitive learning.1âwphi1
+As used in this Act, psychomotor training refers to hands-on practice to support cognitive learning.
 
 ## Section 4
 

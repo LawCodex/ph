@@ -107,7 +107,7 @@ x x x x x x x x x
 
 "For the Eleventh Judicial District, one judge shall be stationed in Roxas City and Romblon; and one judge, in the municipality of Calivo, Province of Capiz; and four judges, in the City of Iloilo; and one judge in the municipality of San Jose de Buenavista, Province of Antique.
 
-"For the Twelfth Judicial District, the judge shall be stationed in the City of Bacolod; and two judges, in the City of Dumaguete.1âшphi1
+"For the Twelfth Judicial District, the judge shall be stationed in the City of Bacolod; and two judges, in the City of Dumaguete.
 
 "For the Thirteenth Judicial District, the judge of the first branch of the Courts of First Instance of Samar shall be stationed in the municipality of Catbalogan, Province of Samar; the judge of the second branch, in the municipality of Borongan, same province; and the judge of the third branch, in the municipality of Laoag, same province; the judges of the first and second branches of the Courts of First Instance of Leyte shall be stationed in the City of Tacloban, the judge of the third branch, in the municipality of Maasin, Province of Leyte; the judge of the fourth branch, in the municipality of Baybay, same province; the judge of the fifth branch, in the City of Ormoc; and the judge of the sixth branch, in the municipality of Carigara, Leyte.
 

@@ -37,7 +37,7 @@ This Act shall not apply to the City of Manila and Quezon City.
 
 ## Section 4
 
-Such sums as may be necessary to carry out the purpose of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.1avvphi1
+Such sums as may be necessary to carry out the purpose of this Act is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 5
 

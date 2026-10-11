@@ -34,7 +34,7 @@ The main purpose of said college are to give general cultural education and to p
 
 ## Section 3
 
-The head of this institution shall be known as the President of the West Visayas State College. He shall be appointed by the President of the Philippines upon the recommendation of the Board of Trustees.1âшphi1 The powers and duties of the President of the West Visayas State College, in addition to those specially provided for in this Act, shall be those usually pertaining to the office of the president of a college.
+The head of this institution shall be known as the President of the West Visayas State College. He shall be appointed by the President of the Philippines upon the recommendation of the Board of Trustees. The powers and duties of the President of the West Visayas State College, in addition to those specially provided for in this Act, shall be those usually pertaining to the office of the president of a college.
 
 ## Section 4
 

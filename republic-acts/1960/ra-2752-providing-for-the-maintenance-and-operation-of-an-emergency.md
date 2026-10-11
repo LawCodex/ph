@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There shall be, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Valladolid, Province of Negros Occidental, to be known as the Central Negros Emergency Hospital. The site shall be determined by the Municipal Council of the Municipality of Valladolid in consultation with the Director of Medical Services.1âшphi1
+There shall be, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Valladolid, Province of Negros Occidental, to be known as the Central Negros Emergency Hospital. The site shall be determined by the Municipal Council of the Municipality of Valladolid in consultation with the Director of Medical Services.
 
 ## Section 2
 

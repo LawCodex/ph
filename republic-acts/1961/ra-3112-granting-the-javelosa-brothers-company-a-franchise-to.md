@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Subject to the conditions imposed by this Act, there is hereby granted to the Javelosa Brothers Company, herein referred to as the grantee, a franchise to construct, operate and maintain an ice plant in Mandurriao, lloilo City, for the purpose of manufacturing and distributing ice in said city and in the Province of lloilo, and to charge and collect a schedule of prices for the ice so sold, which schedule of prices shall at all times be subject to regulation by the Public Service Commission.
 
-Said grantee shall manufacture and supply ice up to the limit of the capacity of its plant.1a⍵⍴h!1
+Said grantee shall manufacture and supply ice up to the limit of the capacity of its plant.
 
 ## Section 2
 

@@ -255,7 +255,7 @@ _Filing of Report._ – On or before the fifteenth (15th) day of the second (2nd
 
 ## Section 23
 
-_Suppletory Application._ – The provision of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act and together shall serve as the governing charter of the BSAU.ℒαwρhi৷
+_Suppletory Application._ – The provision of Republic Act No. 8292, otherwise known as the “Higher Education Modernization Act of 1997”, shall form part of this Act and together shall serve as the governing charter of the BSAU.
 
 ## Section 24
 

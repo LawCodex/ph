@@ -901,7 +901,7 @@ _The City General Services Officer._ — (a) The city general services officer m
 
 ### Section 45
 
-_Municipal Ordinances Existing at the Time of the Approval of this Act._ — All municipal ordinances of the Municipality of Mandaluyong existing at the time of the approval of this Act shall continue to be in force within the City of Mandaluyong until the sangguniang panlungsod shall, by ordinance, provide otherwise.1a⍵⍴h!1
+_Municipal Ordinances Existing at the Time of the Approval of this Act._ — All municipal ordinances of the Municipality of Mandaluyong existing at the time of the approval of this Act shall continue to be in force within the City of Mandaluyong until the sangguniang panlungsod shall, by ordinance, provide otherwise.
 
 ### Section 46
 

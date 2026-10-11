@@ -38,6 +38,6 @@ Subsection (b) of section one hundred eighty-four of the same Act is hereby amen
 
 ## Section 3
 
-This Act shall take effect upon its approval, and shall be applicable to all existing contract of life or endowment insurance.1â#x0448;phi1
+This Act shall take effect upon its approval, and shall be applicable to all existing contract of life or endowment insurance.
 
 Approved: June 20, 1947.

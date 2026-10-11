@@ -43,7 +43,7 @@ MPD = [Adjusted Monthly Pension - Actual GSIS monthly Pension] x Adjustment Fact
 
 The adjusted monthly pension is equal to the product of the monthly salary of the active DFA personnel holding the same rank last held by the retiree, based on the updated salary schedule, multiplied by two and one-half percent (2.5%) and the retiree's recorded creditable service in teh DFA: _Provided,_ That for the first five (5) years of the implementation of this Act, the monthly salary corresponding to Salary Grade Step 1 of the fourth tranche of Republic Act No. 11466, also known as the "salary Standardization Law of 2019" shall serve as the basis for computing the adjusted monthly pension.
 
-(b) The DFA retirees who opted to retire under Republic Act No. 1616 shall receive a monthly gratuity benefit equivalent to not more than fifty percent (50%) of the MPD received by other DFA retirees who retired in the same year and held the same rank.ℒαwρhi৷
+(b) The DFA retirees who opted to retire under Republic Act No. 1616 shall receive a monthly gratuity benefit equivalent to not more than fifty percent (50%) of the MPD received by other DFA retirees who retired in the same year and held the same rank.
 
 The guidelines on the computation of the MPD shall be periodically reviewed by the DFA to ensure feasibility and sustainability and to prevent any adverse or negative impact on the government deficit, consistent with the provisions of Section 7 of this Act.
 

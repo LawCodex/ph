@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Apayao Institute of Science and Technology (Annex High School) in the Municipality of Flora, Province of Apayao, is hereby separated from the Apayao Institute of Science and Technology in the Municipality of Conner, and converted into a separate and independent national high school, to be known as Flora National High School.1aшphi1
+The Apayao Institute of Science and Technology (Annex High School) in the Municipality of Flora, Province of Apayao, is hereby separated from the Apayao Institute of Science and Technology in the Municipality of Conner, and converted into a separate and independent national high school, to be known as Flora National High School.
 
 ## Section 2
 

@@ -31,7 +31,7 @@ The seat of government of the new municipality shall be the present site of the 
 
 ## Section 2
 
-The Municipality of Siraway shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections of local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.1avvphi1
+The Municipality of Siraway shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections of local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
 
 ## Section 3
 

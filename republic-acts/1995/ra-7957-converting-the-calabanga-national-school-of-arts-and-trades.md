@@ -40,7 +40,7 @@ The College shall be under the administration and supervision of the chairperson
 
 ## Section 4
 
-All personnel, records and assets as well as liabilities of the Calabanga National School of Arts and Trades are hereby transferred to and absorbed by the Calabanga Polytechnic College.1aшphi1
+All personnel, records and assets as well as liabilities of the Calabanga National School of Arts and Trades are hereby transferred to and absorbed by the Calabanga Polytechnic College.
 
 ## Section 5
 

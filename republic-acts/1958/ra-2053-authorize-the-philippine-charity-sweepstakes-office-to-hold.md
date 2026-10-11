@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Philippine Charity Sweepstakes Office is authorized to hold annually a lottery, the whole proceeds of which shall after deducting the prices and expenses as provided for in Republic Act Numbered Eleven Hundred sixty-nine, as amended, be turned over to the Blood Bank for its support and maintenance: _Provided,_ That the proceeds from the first lottery under this Act shall the used exclusively for the construction of a blood bank building and the purchase of equipment and medicines.(awÞhi(
+The Philippine Charity Sweepstakes Office is authorized to hold annually a lottery, the whole proceeds of which shall after deducting the prices and expenses as provided for in Republic Act Numbered Eleven Hundred sixty-nine, as amended, be turned over to the Blood Bank for its support and maintenance: _Provided,_ That the proceeds from the first lottery under this Act shall the used exclusively for the construction of a blood bank building and the purchase of equipment and medicines.
 
 ## Section 2
 

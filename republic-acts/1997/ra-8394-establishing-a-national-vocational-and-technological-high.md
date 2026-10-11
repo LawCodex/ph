@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Department of Education, Culture and Sports, a national vocational and technological high school in Barangay Malasila, Municipality of Makilala, Province of North Cotabato, to be known as the Malasila National Vocational and Technological High School.1aшphi1
+There is hereby established, under the supervision of the Department of Education, Culture and Sports, a national vocational and technological high school in Barangay Malasila, Municipality of Makilala, Province of North Cotabato, to be known as the Malasila National Vocational and Technological High School.
 
 ## Section 2
 

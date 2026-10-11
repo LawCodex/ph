@@ -41,7 +41,7 @@ The first provincial governor, vice-governor and members of the Provincial Board
 
 ## Section 5
 
-The provinces of Cotabato and South Cotabato shall each have one representative in the House of Representatives.1avvphi1 The incumbent Member of the House of Representatives for the present Province of Cotabato shall continue to represent said province until the expiration of his term of office. The Member of the House of Representatives for the Province of South Cotabato shall be elected in a special election which shall be held simultaneously with the local elections in November, nineteen hundred sixty-seven, and the person elected as such member shall hold office until December thirty, nineteen hundred sixty-nine.
+The provinces of Cotabato and South Cotabato shall each have one representative in the House of Representatives. The incumbent Member of the House of Representatives for the present Province of Cotabato shall continue to represent said province until the expiration of his term of office. The Member of the House of Representatives for the Province of South Cotabato shall be elected in a special election which shall be held simultaneously with the local elections in November, nineteen hundred sixty-seven, and the person elected as such member shall hold office until December thirty, nineteen hundred sixty-nine.
 
 ## Section 6
 

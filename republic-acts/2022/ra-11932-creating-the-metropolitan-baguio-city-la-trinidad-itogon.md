@@ -42,7 +42,7 @@ The MBLISTTDA shall serve as the platform for the acceleration of the social, ec
 
 _Scope of MBLISTTDA Services._ — The MBLISTTDA shall provide services that shall take into consideration the needs of the population within the territory of the LGUs concerned. These services shall include the following:
 
-(a) Development Planning and Preparation of Medium- and Long-Term Development Plans.ℒαwρhi৷ — These shall cover evaluation and packaging of development projects; investments programming and coordination; and monitoring of program and project implementation;
+(a) Development Planning and Preparation of Medium- and Long-Term Development Plans. — These shall cover evaluation and packaging of development projects; investments programming and coordination; and monitoring of program and project implementation;
 
 (b) Urban Renewal, Land Use Planning, and Housing and Shelter. — These shall cover formulation, adoption and implementation of policies, standards, programs, and projects to rationalize and optimize urban land use, taking into consideration urban growth and expansion. These activities shall address the rehabilitation and development of identified areas and the development of shelter and housing facilities with provisions for necessary social services;
 
@@ -160,7 +160,7 @@ C. The Senior Manager for Finance and Administration shall perform the following
 
 _Institutional Linkages._ — The MBLISTTDA shall, in carrying out its functions, consult, coordinate, and work closely with the public and private institutions, accredited people's organizations and nongovernmental organizations operating in the MBLISTT area.
 
-The MBLISTTDA shall formulate a master plan to serve as the framework for the development of the MBLISTT area.1a⍵⍴h!1 It shall submit its development plans and investment programs to the NEDA for integration into the Medium-Term Philippine Development Plan (MTPDP) and Public Investment Program.
+The MBLISTTDA shall formulate a master plan to serve as the framework for the development of the MBLISTT area. It shall submit its development plans and investment programs to the NEDA for integration into the Medium-Term Philippine Development Plan (MTPDP) and Public Investment Program.
 
 The MBLISTTDA shall, in coordination with the NEDA and the Department of Finance (DOF), interface with foreign assistance agencies for purposes of obtaining financial support, grants, and donations in support of its programs and projects.
 

@@ -35,7 +35,7 @@ In addition to the vocational secondary curriculum, the Bacuag National Agro-Ind
 
 ## Section 3
 
-The Department of Education, Culture and Sports (DECS) shall promulgate the rules and regulations to implement the provisions of this Act in time for the opening of the next school term following its approval.ℒαwρhi৷
+The Department of Education, Culture and Sports (DECS) shall promulgate the rules and regulations to implement the provisions of this Act in time for the opening of the next school term following its approval.
 
 ## Section 4
 
@@ -43,7 +43,7 @@ The amount necessary to implement the provisions of this Act shall be charged ag
 
 ## Section 5
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved,
 

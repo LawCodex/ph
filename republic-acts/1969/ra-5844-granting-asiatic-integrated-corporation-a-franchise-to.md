@@ -83,7 +83,7 @@ The monthly rates for telephone having a metallic circuit within the limits of t
 
 ## Section 14
 
-The grantee shall not, without the previous and explicit approval of the Congress of the Philippines, directly or indirectly, transfer, sell or assign this franchise to any person, association, company or corporation or other mercantile or legal entity.1a⍵⍴h!1
+The grantee shall not, without the previous and explicit approval of the Congress of the Philippines, directly or indirectly, transfer, sell or assign this franchise to any person, association, company or corporation or other mercantile or legal entity.
 
 ## Section 15
 

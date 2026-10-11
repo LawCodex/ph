@@ -31,6 +31,6 @@ Section twelve of Republic Act Numbered Forty-nine hundred and sixty-eight which
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 21, 1969.

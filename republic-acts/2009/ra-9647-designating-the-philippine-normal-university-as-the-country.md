@@ -28,11 +28,17 @@ AN ACT DESIGNATING THE PHILIPPINE NORMAL UNIVERSITY AS THE COUNTRY'S NATIONAL CE
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
 
-**Section 1._Short Title._** \- This Act shall be known as the "Philippine Normal University Modernization Act of 2009".
+## Section 1
 
-**Section 2._Declaration of Policy._** \- It is hereby declared the policy of the State to give priority to the continuing professional training and development of all Filipino teachers and optimize potentials of the country's teaching force to increase access to, promote equity in, and improve the quality of basic and higher education. The State shall likewise give priority to studies education with emphasis on innovations and alternative systems and their utilization and application to teacher training and development.
+_Short Title._ \- This Act shall be known as the "Philippine Normal University Modernization Act of 2009".
 
-**Section 3._National Center for Teacher Education._** \- This Act designates the Philippine Normal University (PNU) as the National Center for Teacher Education. As such, the PNU, in addition to the powers and functions provided for in its charter, shall perform the following:
+## Section 2
+
+_Declaration of Policy._ \- It is hereby declared the policy of the State to give priority to the continuing professional training and development of all Filipino teachers and optimize potentials of the country's teaching force to increase access to, promote equity in, and improve the quality of basic and higher education. The State shall likewise give priority to studies education with emphasis on innovations and alternative systems and their utilization and application to teacher training and development.
+
+## Section 3
+
+_National Center for Teacher Education._ \- This Act designates the Philippine Normal University (PNU) as the National Center for Teacher Education. As such, the PNU, in addition to the powers and functions provided for in its charter, shall perform the following:
 
 (a) Provide technical support to the Department of Education (DepEd) and the Commission on Higher Education (CHED) in their programs and projects that chart policies and recommendations on teacher training, teacher education, continuing professional education of teachers and academic supervisors, and teacher education curricula;
 
@@ -42,7 +48,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) As may be directed by Congress, provide assistance to legislators in the design and analysis of legislative proposals concerning teacher training, teacher education, continuing professional education of teachers and academic supervisors, teacher education curricula, and other issues affecting teacher education.
 
-**Section 4._Teacher Education Standards Development._** \- As the National Center for Teacher Education, the PNU shall make an annual presentation to the DepEd, CHED, the House and Senate Committees on Education, and other education institutions on its proposed standards for teacher training, teacher education, continuing professional education of teachers and academic supervisors, and teacher education curricula. Such presentation shall be made available to the general public especially to teachers and academic supervisors, The presentation shall include but shall not be limited to the following:
+## Section 4
+
+_Teacher Education Standards Development._ \- As the National Center for Teacher Education, the PNU shall make an annual presentation to the DepEd, CHED, the House and Senate Committees on Education, and other education institutions on its proposed standards for teacher training, teacher education, continuing professional education of teachers and academic supervisors, and teacher education curricula. Such presentation shall be made available to the general public especially to teachers and academic supervisors, The presentation shall include but shall not be limited to the following:
 
 (a) Necessary competencies of teachers and academic supervisors in their various fields of specialization;
 
@@ -50,7 +58,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (c) Information and communication technology breakthroughs to assist the process of teaching and learning.
 
-**Section 5._Education Policy Research and Development._** \- As the National Center for Teacher Education, the PNU shall establish an Education Policy Research and Development Office which shall:
+## Section 5
+
+_Education Policy Research and Development._ \- As the National Center for Teacher Education, the PNU shall establish an Education Policy Research and Development Office which shall:
 
 (a) Establish and maintain a database of education policies and significant issues facing the country's education system as well as the education systems of other countries especially in the Asia Pacific region;
 
@@ -66,13 +76,17 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (g) Conduct periodic studies in aid of crafting responsive policies and programs on education.
 
-**Section 6._Philippine Normal University Modernization Program._** -The PNU shall prepare a modernization plan to fulfill its mandate as the National Center for Teacher Education, and to upgrade its capability to provide pre-service and in-service formation for our country's teachers.
+## Section 6
+
+_Philippine Normal University Modernization Program._ -The PNU shall prepare a modernization plan to fulfill its mandate as the National Center for Teacher Education, and to upgrade its capability to provide pre-service and in-service formation for our country's teachers.
 
 The modernization plan shall enhance curricular programs to make them relevant and responsive to the needs of society and address the educational needs of communities. The plan shall also include a program for staff development as well as for the upgrading of services, facilities and equipment in the University.
 
 The proposed modernization plan shall be submitted to the University's Board of Regents for their approval.
 
-**Section 7._Tax Exemptions._** \- The provisions of any general or special law to the contrary notwithstanding:
+## Section 7
+
+_Tax Exemptions._ \- The provisions of any general or special law to the contrary notwithstanding:
 
 (a) All revenues and assets of the PNU used actually, directly and exclusively for educational purposes or in support thereof shall be exempt from all taxes and duties;
 
@@ -84,17 +98,25 @@ The proposed modernization plan shall be submitted to the University's Board of 
 
 (e) All academic monetary awards shall be exempt from taxes.
 
-**Section 8._Appropriations._** \- The amount of Two Hundred Fifty Million Pesos (Php250,000,000) necessary to carry out the provisions of this Act is hereby appropriated entirely for capital outlay in addition to the current year's appropriations for the PNU.
+## Section 8
+
+_Appropriations._ \- The amount of Two Hundred Fifty Million Pesos (Php250,000,000) necessary to carry out the provisions of this Act is hereby appropriated entirely for capital outlay in addition to the current year's appropriations for the PNU.
 
 For the succeeding five (5) years, the amount of One Hundred Million Pesos (P100,000,000) shall be appropriated per year in addition to the annual appropriations for capital outlay of the PNU.
 
 Thereafter, the amount necessary to sustain the program shall be included in the annual appropriations of the PNU.
 
-**Section 9._Separability Clause._** \- If any part, section or provision of this Act is held invalid or unconstitutional, other provisions not affected thereby shall remain in full force and effect.
+## Section 9
 
-**Section 10._Repealing Clause._** \- All laws, decrees, orders, rules and regulations or other issuances inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+_Separability Clause._ \- If any part, section or provision of this Act is held invalid or unconstitutional, other provisions not affected thereby shall remain in full force and effect.
 
-**Section 11._Effectivity._** \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+## Section 10
+
+_Repealing Clause._ \- All laws, decrees, orders, rules and regulations or other issuances inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+## Section 11
+
+_Effectivity._ \- This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved
 

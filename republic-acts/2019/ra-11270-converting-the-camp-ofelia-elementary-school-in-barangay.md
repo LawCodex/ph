@@ -34,7 +34,7 @@ The Camp Ofelia Elementary School in Barangay Lintangan, Municipality of Sibuco,
 
 ## Section 2
 
-All personnel, assets, Liabilities, and records of the Camp Ofelia Elementary School are hereby transferred to and absorbed by the Lintangan Integrated School.1avvphi1
+All personnel, assets, Liabilities, and records of the Camp Ofelia Elementary School are hereby transferred to and absorbed by the Lintangan Integrated School.
 
 ## Section 3
 

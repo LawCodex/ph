@@ -27,7 +27,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Mapawa Barangay High School in Barangay Mapawa, Municipality of Maragusan, Province of Davao, is hereby nationalized, to be known as the Mapawa National High School.1aшphi1
+The Mapawa Barangay High School in Barangay Mapawa, Municipality of Maragusan, Province of Davao, is hereby nationalized, to be known as the Mapawa National High School.
 
 ## Section 2
 

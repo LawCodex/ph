@@ -28,7 +28,7 @@ The Bureau of Public Schools shall maintain a national agricultural school of se
 
 ## Section 2
 
-The Director of Public Schools is authorized to locate and acquire a suitable site for the school, which may be public or private lands situated in the said Municipality of Sta. Maria.1aшphi1
+The Director of Public Schools is authorized to locate and acquire a suitable site for the school, which may be public or private lands situated in the said Municipality of Sta. Maria.
 
 ## Section 3
 

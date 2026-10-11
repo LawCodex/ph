@@ -174,7 +174,7 @@ _Penalty for Violation by Recruitment/Manning Agency._ – Violation by a recrui
 
 ### SECTION 20
 
-__The OWWA Board of Trustees. – To carry out the purposes of this Act, the OWWA shall be directed and controlled by a Board of Trustees which shall act as its policy-making body. It shall be composed of the following members:
+The OWWA Board of Trustees. – To carry out the purposes of this Act, the OWWA shall be directed and controlled by a Board of Trustees which shall act as its policy-making body. It shall be composed of the following members:
 
 (a) Secretary of Labor and Employment, as Chairperson;
 
@@ -490,7 +490,7 @@ _Branch Accounting System; Financial Reports; Auditing Procedures; Annual Report
 
 The OWWA shall install sound internal control and monitoring systems and submit quarterly prescribed Financial Statements to the COA, such as income statement, balance sheet, and cash flow as prescribed in post auditing reports by the COA.
 
-The OWWA Secretariat shall submit a monthly fund utilization report to the Board, copies of which shall be made available to Congress.1âwphi1 It shall also submit an Annual Report on its overall performance for the previous year within the first sixty ‘ (60) days of the following year to the OWWA Board, the Congress and the President of the Philippines, through the DBM.
+The OWWA Secretariat shall submit a monthly fund utilization report to the Board, copies of which shall be made available to Congress. It shall also submit an Annual Report on its overall performance for the previous year within the first sixty ‘ (60) days of the following year to the OWWA Board, the Congress and the President of the Philippines, through the DBM.
 
 ### SECTION 52
 

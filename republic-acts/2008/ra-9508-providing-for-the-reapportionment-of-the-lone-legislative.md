@@ -28,13 +28,21 @@ AN ACT PROVIDING FOR THE REAPPORTIONMENT OF THE LONE LEGISLATIVE DISTRICT OF THE
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Legislative Districts._** \- The lone legislative district of the Province of Agusan del Sur is hereby reapportioned to commence in the next national elections after the effectivity of this Act. Henceforth, the City of Baguyan and the municipalities of Sibagat, Prosperidad, Talacogon, San Luis and Esperanza shall comprise the first legislative district while the municipalities of San Francisco, Rosario, Bunawan, Trento, Sta Josefa, Veruela, Loreto and La Paz shall comprise the second legislative district.
+## Section 1
 
-**Section 2._Rules and Regulation._** \- The Commission on Elections shall issue the necessary rules and regulation
+_Legislative Districts._ \- The lone legislative district of the Province of Agusan del Sur is hereby reapportioned to commence in the next national elections after the effectivity of this Act. Henceforth, the City of Baguyan and the municipalities of Sibagat, Prosperidad, Talacogon, San Luis and Esperanza shall comprise the first legislative district while the municipalities of San Francisco, Rosario, Bunawan, Trento, Sta Josefa, Veruela, Loreto and La Paz shall comprise the second legislative district.
 
-**Section 3._Repealing Clause._** \- All other laws, rules and regulations inconsistent with this Act are hereby repealed amended or modified accordingly
+## Section 2
 
-**Section 4._Effectivity._** \- . This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+_Rules and Regulation._ \- The Commission on Elections shall issue the necessary rules and regulation
+
+## Section 3
+
+_Repealing Clause._ \- All other laws, rules and regulations inconsistent with this Act are hereby repealed amended or modified accordingly
+
+## Section 4
+
+_Effectivity._ \- . This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
 
 Approved
 

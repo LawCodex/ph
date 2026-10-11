@@ -38,7 +38,7 @@ The Provincial Government of Davao Occidental shall manage the Lamidan Community
 
 ## Section 3
 
-The Provincial Government of Davao Occidental shall provide the necessary funds for the establishment of the Lamidan Community Hospital.+3u.7!ydmb7 The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the Lamidan Community Hospital.
+The Provincial Government of Davao Occidental shall provide the necessary funds for the establishment of the Lamidan Community Hospital. The Secretary of the DOH shall include in the Department’s subsidy program, support for the capital outlay requirements of the Lamidan Community Hospital.
 
 ## Section 4
 

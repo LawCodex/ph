@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby granted to Philippine Rural Reconstruction Movement, Inc., a temporary permit to construct, maintain and operate within the Philippines and/or at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radio telegraphy or radio telephony, each station to be provided with radio transmitting apparatus and radio receiving apparatus.1avvphi1 This temporary permit is granted upon the express condition that the same shall be void unless the construction or installation of at least one station be begun within three years from the date of approval of this Act.
+There is hereby granted to Philippine Rural Reconstruction Movement, Inc., a temporary permit to construct, maintain and operate within the Philippines and/or at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radio telegraphy or radio telephony, each station to be provided with radio transmitting apparatus and radio receiving apparatus. This temporary permit is granted upon the express condition that the same shall be void unless the construction or installation of at least one station be begun within three years from the date of approval of this Act.
 
 ## Section 2
 

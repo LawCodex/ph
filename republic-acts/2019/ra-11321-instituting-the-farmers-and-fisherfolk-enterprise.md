@@ -122,7 +122,7 @@ The DA shall tap the resources under the management of its attached agencies and
 
 ## Section 9
 
-_Local Councils for Farmers and Fisherfolk Enterprise Development._ — The Agriculture and Fishery Councils (AFCs) of the Philippine Council for Agriculture and Fisheries (PCAF) shall provide the mechanisms for private sector participation in the development processes at the regional, provincial, city/municipal levels.1âшphi1
+_Local Councils for Farmers and Fisherfolk Enterprise Development._ — The Agriculture and Fishery Councils (AFCs) of the Philippine Council for Agriculture and Fisheries (PCAF) shall provide the mechanisms for private sector participation in the development processes at the regional, provincial, city/municipal levels.
 
 ## Section 10
 

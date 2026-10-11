@@ -503,7 +503,7 @@ _No transfer of salary savings to the Government Service Insurance System._ —T
 
 ## Section 22
 
-_Reinsurance of government buildings to be equitably distributed among private insurance companies in the Philippines._ —In all cases where appropriations are provided in this Act for payment of premiums covering the insurance of government buildings with the Property Insurance Fund, reinsurance shall be equitably distributed among private insurance companies doing business in the Philippines at least sixty per cent of the capital stock of which are owned by citizens of the Philippines on uniform terms, conditions and rates of premiums.1a⍵⍴h!1
+_Reinsurance of government buildings to be equitably distributed among private insurance companies in the Philippines._ —In all cases where appropriations are provided in this Act for payment of premiums covering the insurance of government buildings with the Property Insurance Fund, reinsurance shall be equitably distributed among private insurance companies doing business in the Philippines at least sixty per cent of the capital stock of which are owned by citizens of the Philippines on uniform terms, conditions and rates of premiums.
 
 ## Section 23
 

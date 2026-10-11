@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-For a period of twenty years from the date of the approval of this Act, divorce among Moslems residing in non-Christian provinces shall be recognized and be governed by Moslem customs and practices.1âшphi1
+For a period of twenty years from the date of the approval of this Act, divorce among Moslems residing in non-Christian provinces shall be recognized and be governed by Moslem customs and practices.
 
 ## Section 2
 

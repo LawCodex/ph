@@ -72,7 +72,7 @@ The Secretary of Finance, upon recommendation of the Commissioner of Internal Re
 
 ## Section 5
 
-All laws, decrees, orders, rules and regulations, and other issuances inconsistent with this Act are hereby repealed or amended accordingly.1a⍵⍴h!1
+All laws, decrees, orders, rules and regulations, and other issuances inconsistent with this Act are hereby repealed or amended accordingly.
 
 ## Section 6
 

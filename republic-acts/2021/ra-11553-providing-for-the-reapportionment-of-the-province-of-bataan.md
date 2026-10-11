@@ -63,7 +63,7 @@ On the next national and local elections after the effectivity of this Act, the 
 
 ## Section 2
 
-The incumbent Representatives of the Province of Bataan shall continue to hold office until the new Representatives have been elected and qualified.Ꮮαwρhi৷
+The incumbent Representatives of the Province of Bataan shall continue to hold office until the new Representatives have been elected and qualified.
 
 ## Section 3
 

@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section eighty-four of Commonwealth Act Numbered Five hundred forty-seven, otherwise known as the Charter of the City of Cavite, is amended to read as follows:
 
-"Sec. 84. _The Bureau of Public Schools._ -The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines and the Division Superintendent of Schools for the Province of Cavite shall be ex officio Superintendent of Schools for the City of Cavite and as such he shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to the schools of their divisions. He shall receive an additional compensation of one thousand pesos per annum which shall be paid by the city.1awp++i1
+"Sec. 84. _The Bureau of Public Schools._ -The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines and the Division Superintendent of Schools for the Province of Cavite shall be ex officio Superintendent of Schools for the City of Cavite and as such he shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to the schools of their divisions. He shall receive an additional compensation of one thousand pesos per annum which shall be paid by the city.
 
 "A city school board of six members, two of whom shall be women and who shall serve without salary, shall be selected and removed in the same manner, and shall have the same powers and duties, as local school boards in municipalities.
 

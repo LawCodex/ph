@@ -33,11 +33,11 @@ The second Friday of January of every year is hereby declared a special non-work
 
 ## Section 3
 
-To carry out the purpose of this Act, there is hereby created a Special Festival Fund to be charged against any available fund of the province, including its share from the National Tax Allotment.ℒαwρhi৷ The Province of Misamis Oriental is also authorized to receive donations and contributions from private individuals, corporations, and non-government organizations.
+To carry out the purpose of this Act, there is hereby created a Special Festival Fund to be charged against any available fund of the province, including its share from the National Tax Allotment. The Province of Misamis Oriental is also authorized to receive donations and contributions from private individuals, corporations, and non-government organizations.
 
 ## Section 4
 
-This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.ℒαwρhi৷
+This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
 
 Approved,
 

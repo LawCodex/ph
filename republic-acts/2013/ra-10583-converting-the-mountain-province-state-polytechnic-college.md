@@ -44,7 +44,7 @@ _Academic Freedom and Institutional Autonomy._ – The University shall enjoy ac
 
 _Curricular Offerings._ – The University shall offer undergraduate and graduate courses in the fields of forestry and agriculture, teacher education, engineering and technology, arts, humanities, sciences and other degrees within its areas of specialization and according to its capabilities as the Board of Regents may deem necessary to carry out its objectives in order to meet the needs of Mountain Province and the Cordillera Administrative Region.
 
-The University shall maintain and operate a reasonably-sized laboratory school under its College of Education in the main campus.1âwphi1
+The University shall maintain and operate a reasonably-sized laboratory school under its College of Education in the main campus.
 
 ## Section 5
 

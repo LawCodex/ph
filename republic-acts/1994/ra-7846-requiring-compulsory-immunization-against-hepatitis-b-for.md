@@ -35,6 +35,6 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 ## Section 3
 
-This Act shall take effect upon its approval and completion of its publication in at least two (2) newspapers of general circulation.1a⍵⍴h!1
+This Act shall take effect upon its approval and completion of its publication in at least two (2) newspapers of general circulation.
 
 Approved, December 30, 1994.

@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Jesus M. Colmenares District Hospital in the Municipality of Balasan, Province of Iloilo, is hereby converted into a fifty-bed capacity district hospital, to be known as the Jesus M. Colmenares District Hospital.1âшphi1
+The Jesus M. Colmenares District Hospital in the Municipality of Balasan, Province of Iloilo, is hereby converted into a fifty-bed capacity district hospital, to be known as the Jesus M. Colmenares District Hospital.
 
 ## Section 2
 

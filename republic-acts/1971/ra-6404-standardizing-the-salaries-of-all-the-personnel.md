@@ -68,7 +68,7 @@ _Provided,_ That any new appointment to be issued for the positions stated in it
 
 ## Section 2
 
-Except those officials and employees to occupy the positions above-stated, by virtue of an original. appointment or a promotional appointment to a higher position where a new appointment has to be issued and approved by the authorities concerned, the incumbents actually holding the positions above-stated shall continue to occupy their respective positions and receive the adjusted salary rates as provided in this Act without the necessity of issuing a new appointment.1âшphi1
+Except those officials and employees to occupy the positions above-stated, by virtue of an original. appointment or a promotional appointment to a higher position where a new appointment has to be issued and approved by the authorities concerned, the incumbents actually holding the positions above-stated shall continue to occupy their respective positions and receive the adjusted salary rates as provided in this Act without the necessity of issuing a new appointment.
 
 ## Section 3
 

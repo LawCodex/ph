@@ -48,7 +48,7 @@ _Extension of the Period for Public Offering._ \- The three (3) year period for 
 
 ## Section 5
 
-_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.1aшphi1
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
 
 Approved,
 

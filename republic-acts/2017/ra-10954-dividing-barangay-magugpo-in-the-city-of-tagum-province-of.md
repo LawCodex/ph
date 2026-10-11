@@ -1295,7 +1295,7 @@ The technical description of Barangay Magugpo South is as follows:
 <td>26</td>
 <td>W</td>
 <td>144130</td>
-</tr><cite>1âwphi1</cite>
+</tr>
 <tr>
 <td>2</td>
 <td>3</td>
@@ -1418,7 +1418,7 @@ _Incumbent Barangay Officials._ \- The incumbent barangay officials of Barangay 
 
 ## Section 5
 
-_Public Infrastructure and Facilities._ \- All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangays.1âwphi1
+_Public Infrastructure and Facilities._ \- All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangays.
 
 ## Section 6
 

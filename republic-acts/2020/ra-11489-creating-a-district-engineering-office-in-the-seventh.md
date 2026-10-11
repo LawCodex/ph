@@ -33,7 +33,7 @@ A district engineering office is hereby created in the Seventh Legislative Distr
 
 ## Section 2
 
-The Seventh District Engineering Office shall serve the municipalities of Dumanjug, Ronda, Alcantara, Moalboal, Badian, Alegria, Malabuyoc and Ginatilan, all located in the Province of Cebu.ℒαwρhi৷
+The Seventh District Engineering Office shall serve the municipalities of Dumanjug, Ronda, Alcantara, Moalboal, Badian, Alegria, Malabuyoc and Ginatilan, all located in the Province of Cebu.
 
 ## Section 3
 

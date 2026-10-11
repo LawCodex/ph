@@ -48,7 +48,7 @@ _Elective Provincial Officials._ \- Should the majority of the voters favor the 
 
 In the same manner, elective positions vacated by the provincial officials of the other province (Isabela del Sur), if there will be any, shall be elected also in a special election to be held simultaneously within the period provided for in the next preceding paragraph: _Provided, however,_ That, notwithstanding the residency requirements, the incumbent elective officials of the present province shall continue to hold office until their successors shall have been duly elected and qualified.
 
-For purposes of synchronization, those who have been duly elected in the special election shall serve only the unexpired term from the last regular election.1aшphi1
+For purposes of synchronization, those who have been duly elected in the special election shall serve only the unexpired term from the last regular election.
 
 Nothing in this Act shall be construed as to diminish the rights of the elective public officials to qualify and run in the next succeeding elections.
 

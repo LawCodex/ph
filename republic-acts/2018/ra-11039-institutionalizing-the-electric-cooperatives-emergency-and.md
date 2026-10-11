@@ -117,7 +117,7 @@ _Powers and Functions of the National Electrification Administration (NEA)._ \- 
 
 (i) Ensure that the ECs' resiliency programs are feasible in accordance with sound management, economic, and engineering standards; and
 
-(j) Promulgate such rules and regulations as may be necessary to implement the objectives and provisions of this Act.1âwphi1
+(j) Promulgate such rules and regulations as may be necessary to implement the objectives and provisions of this Act.
 
 ### Section 7
 
@@ -137,7 +137,7 @@ The ECs shall likewise have the following additional responsibilities:
 
 (e) Submit reports as may be required by the NEA; and
 
-(f) Undertake all other activities necessary to implement the objectives and provisions of this Act.1âwphi1
+(f) Undertake all other activities necessary to implement the objectives and provisions of this Act.
 
 ### Section 8
 
@@ -169,7 +169,7 @@ _Reportorial Requirements._ \- The NEA shall take the necessary measures to ensu
 
 ### Section 13
 
-_Congressional Oversight._ \- Upon the effectivity of this Act, the JCPC shall exercise oversight functions over the implementation of this Act.1awp++i1
+_Congressional Oversight._ \- Upon the effectivity of this Act, the JCPC shall exercise oversight functions over the implementation of this Act.
 
 ### Section 14
 

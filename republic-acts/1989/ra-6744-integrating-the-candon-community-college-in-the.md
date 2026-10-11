@@ -29,7 +29,7 @@ The Candon Community College in the Municipality of Candon, Province of Ilocos S
 
 ## Section 2
 
-In addition to its present curricular offerings, the Candon Community College shall offer courses which are or may be offered by the University of Northern Philippines.1a⍵⍴h!1
+In addition to its present curricular offerings, the Candon Community College shall offer courses which are or may be offered by the University of Northern Philippines.
 
 ## Section 3
 
@@ -47,7 +47,7 @@ Approved,
 <td>(Sgd.)<b>RAMON V. MITRA</b><br/>Speaker of the House of Representatives</td>
 </tr>
 <tr>
-<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 6, 1988 and June 8, 1989, respectively.<cite>1a⍵⍴h!1</cite></td>
+<td colspan="2">This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 6, 1988 and June 8, 1989, respectively.</td>
 </tr>
 <tr>
 <td>(Sgd.)<b>EDWIN P. ACOBA</b><br/>Secretary of the Senate</td>

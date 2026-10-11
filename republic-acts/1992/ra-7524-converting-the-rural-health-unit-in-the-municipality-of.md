@@ -29,7 +29,7 @@ The rural health unit in the Municipality of Moncada, Province of Tarlac, is her
 
 ## Section 2
 
-The amount neccessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.1âшphi1
+The amount neccessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
 
 ## Section 3
 

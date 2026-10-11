@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Rizal Street in City Proper, Iloilo City is hereby converted into a national road under the supervision of the Department of Public Works and Highways.1âwphi1
+The Rizal Street in City Proper, Iloilo City is hereby converted into a national road under the supervision of the Department of Public Works and Highways.
 
 ## Section 2
 

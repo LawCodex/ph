@@ -39,7 +39,7 @@ _Records of assets, liabilities, capital, income, etc._ -The grantee shall make 
 
 ## Section 4
 
-_Record of amount of depreciation of depreciable property._ -The grantee shall record in its account at the end of each month estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in Section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable property which it shall submit to the Public Service Commission or its legal successor for approval, until such time as the Public Service Commission or its legal successor fixes the service lives and depreciation rates which the grantee shall be required to use thereafter.1âшphi1
+_Record of amount of depreciation of depreciable property._ -The grantee shall record in its account at the end of each month estimated amount of depreciation of every depreciable property for that month computed according to the straight-line method, as defined in Section five hereof. In estimating such accrued depreciation the grantee shall use its own judgment as to the estimated service lives and depreciation rates of its depreciable property which it shall submit to the Public Service Commission or its legal successor for approval, until such time as the Public Service Commission or its legal successor fixes the service lives and depreciation rates which the grantee shall be required to use thereafter.
 
 ## Section 5
 
@@ -59,7 +59,7 @@ _Limit of operating expenses, quality of service._ -The grantee shall abide by t
 
 ## Section 7
 
-_Power to borrow from government banking institutions._ -In order to finance its projects, the grantee is empowered to borrow from any financial institution or incur indebtedness in excess of its borrowing capacity, notwithstanding any provision of law to the contrary.1avvphi1
+_Power to borrow from government banking institutions._ -In order to finance its projects, the grantee is empowered to borrow from any financial institution or incur indebtedness in excess of its borrowing capacity, notwithstanding any provision of law to the contrary.
 
 ## Section 8
 

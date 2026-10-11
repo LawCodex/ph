@@ -32,7 +32,7 @@ The Director of Public Schools shall reorganize the School Division Office of th
 
 ## Section 3
 
-Such sums as may be necessary to carry out the purposes of this Act for the school year nineteen hundred sixty to nineteen hundred sixty-one is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent school years shall be included in the General Appropriations Act.1âшphi1
+Such sums as may be necessary to carry out the purposes of this Act for the school year nineteen hundred sixty to nineteen hundred sixty-one is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent school years shall be included in the General Appropriations Act.
 
 ## Section 4
 

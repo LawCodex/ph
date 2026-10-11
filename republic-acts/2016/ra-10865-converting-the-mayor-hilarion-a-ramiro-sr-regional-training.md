@@ -104,7 +104,7 @@ _Implementing Rules and Regulations_ (IRR). - Within ninety (90) days from the a
 
 ## Section 14
 
-_Separability Clause._ \- If any part or provision of this Act shall be held unconstitutional or invalid, other provisions which are not affected thereby shall continue to be in full force and effect.ℒαwρhi৷
+_Separability Clause._ \- If any part or provision of this Act shall be held unconstitutional or invalid, other provisions which are not affected thereby shall continue to be in full force and effect.
 
 ## Section 15
 

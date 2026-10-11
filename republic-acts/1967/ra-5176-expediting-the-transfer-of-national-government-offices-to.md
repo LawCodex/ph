@@ -45,7 +45,7 @@ No amount in the building fund account can be used for any purpose other than to
 
 ## Section 5
 
-Subject to existing rules and regulations, the Department upon recommendation of the Bureau of Building and Real Property Management is empowered to sell or lease through public biddings, such real property within its jurisdiction and/or administration that are not actually allocated for permanent use by the government or any of its agency or instrumentality including government-owned or controlled corporations.1avvphi1 In the case of sale of land and/or improvements thereon under this section or purchase of lots under section two hereof, the party vendor or the party vendee shall, as the case may be, be the Republic of the Philippines, represented by the Department.
+Subject to existing rules and regulations, the Department upon recommendation of the Bureau of Building and Real Property Management is empowered to sell or lease through public biddings, such real property within its jurisdiction and/or administration that are not actually allocated for permanent use by the government or any of its agency or instrumentality including government-owned or controlled corporations. In the case of sale of land and/or improvements thereon under this section or purchase of lots under section two hereof, the party vendor or the party vendee shall, as the case may be, be the Republic of the Philippines, represented by the Department.
 
 ## Section 6
 

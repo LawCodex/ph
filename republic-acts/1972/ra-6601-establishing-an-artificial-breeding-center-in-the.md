@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established, under the supervision of the Bureau of Animal Industry, an artificial breeding center in the Municipality of San Pedro, Province of Oriental Mindoro, at a site to be selected by the Director of Animal Industry through donation, to be known as the San Pedro Artificial Breeding Center.1âшphi1
+There is hereby established, under the supervision of the Bureau of Animal Industry, an artificial breeding center in the Municipality of San Pedro, Province of Oriental Mindoro, at a site to be selected by the Director of Animal Industry through donation, to be known as the San Pedro Artificial Breeding Center.
 
 ## Section 2
 

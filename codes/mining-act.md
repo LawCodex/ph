@@ -809,7 +809,7 @@ Any other violation of this Act and its implementing rules and regulations shall
 
 ### Section 111 — Fines
 
-The Secretary is authorized to charge fines for late or non-submission of reports in accordance with the implementing rules and regulations of this Act.1aшphi1
+The Secretary is authorized to charge fines for late or non-submission of reports in accordance with the implementing rules and regulations of this Act.
 
 ## CHAPTER XX — TRANSITORY AND MISCELLANEOUS PROVISIONS
 

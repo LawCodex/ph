@@ -33,7 +33,7 @@ In the event that the grantee shall purchase and secure from the National Power 
 
 ## Section 3
 
-This Act shall supersede Republic Act Numbered Thirteen hundred fifty-three, which latter Act is hereby repealed.1âшphi1
+This Act shall supersede Republic Act Numbered Thirteen hundred fifty-three, which latter Act is hereby repealed.
 
 ## Section 4
 

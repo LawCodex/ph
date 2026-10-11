@@ -29,6 +29,6 @@ The provisions of existing laws to the contrary notwithstanding, all persons, fi
 
 ## Section 2
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved, June 4, 1949.

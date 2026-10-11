@@ -84,7 +84,7 @@ _Definition of Terms._ -As used in this Act, the following terms are defined, as
 
 (l) Responsible Person refers to the parent or guardian in the qualified household-beneficiary;
 
-(m) Standardized Targeting System refers to a system for identifying who and where the poor households are through the generation of socioeconomic database of poor households that is adopted by national government agencies and implemented by the DSWD; and(n) Sustainable Livelihood Program refers to the livelihood and capability building program managed by the DSWD for the poor, vulnerable and marginalized families and individuals to help improve their socioeconomic conditions.1âшphi1 The one-time livelihood assistance is in the form of microenterprise development (MD) and employment facilitation (EF). The MD track provides microenterprise interventions to the poor or savings generation while the EF track provides interventions that facilitate employment.
+(m) Standardized Targeting System refers to a system for identifying who and where the poor households are through the generation of socioeconomic database of poor households that is adopted by national government agencies and implemented by the DSWD; and(n) Sustainable Livelihood Program refers to the livelihood and capability building program managed by the DSWD for the poor, vulnerable and marginalized families and individuals to help improve their socioeconomic conditions. The one-time livelihood assistance is in the form of microenterprise development (MD) and employment facilitation (EF). The MD track provides microenterprise interventions to the poor or savings generation while the EF track provides interventions that facilitate employment.
 
 ## Section 4
 

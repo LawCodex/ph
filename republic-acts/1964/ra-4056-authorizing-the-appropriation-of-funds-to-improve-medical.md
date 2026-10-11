@@ -45,7 +45,7 @@ For the purpose of this Act, there is hereby authorized to be appropriated the s
 
 ## Section 5
 
-All laws, rules and regulations, and orders inconsistent with this Act or any of its provisions are hereby repealed.£a⩊phi£
+All laws, rules and regulations, and orders inconsistent with this Act or any of its provisions are hereby repealed.
 
 ## Section 6
 

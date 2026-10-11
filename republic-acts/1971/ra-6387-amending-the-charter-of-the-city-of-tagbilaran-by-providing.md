@@ -26,7 +26,7 @@ Be it enacted by the Senate and House, of Representatives of the Philippines in 
 
 Section ninety-nine of Republic Act Numbered Forty-six hundred and sixty, known as the Charter of the City of Tagbilaran, is hereby amended to read as follows:
 
-"Section 99. _Engineering Funds._ —The engineering fund of the city shall be considered as city funds as well as all sums of money accruing to the city by virtue of any Public Works Act approved by Congress: _Provided, however,_ That the Highway Special Fund and other national funds accruing to the city which are intended for public improvements approved by the City Board shall be administered, programmed and disbursed by the Bureau of Public Highways or the Bureau of Public Works, as the case may be."1âшphi1
+"Section 99. _Engineering Funds._ —The engineering fund of the city shall be considered as city funds as well as all sums of money accruing to the city by virtue of any Public Works Act approved by Congress: _Provided, however,_ That the Highway Special Fund and other national funds accruing to the city which are intended for public improvements approved by the City Board shall be administered, programmed and disbursed by the Bureau of Public Highways or the Bureau of Public Works, as the case may be."
 
 ## Section 2
 

@@ -39,7 +39,7 @@ The Department of Education, Culture and Sports shall promulgate the necessary r
 
 ## Section 4
 
-This Act shall take effect immediately upon its approval.Ꮮαwρhi৷
+This Act shall take effect immediately upon its approval.
 
 Approved,
 

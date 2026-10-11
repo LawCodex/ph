@@ -384,7 +384,7 @@ Any person found guilty of committing the act stated in Section 17(c) shall be p
 
 Any person found guilty of committing the act stated in Section 17(d) shall suffer the penalty of dismissal and perpetual disqualification from public service.
 
-Any person found guilty of violating Section 18 shall suffer the penalty of dismissal and perpetual disqualification from public service.1âwphi1
+Any person found guilty of violating Section 18 shall suffer the penalty of dismissal and perpetual disqualification from public service.
 
 In cases of violation by the system operator and market operator of Section 17(a), (b), and (c), the ERC shall impose a fine of One hundred thousand pesos (₱100,000.00) for every day of delay.
 
@@ -408,7 +408,7 @@ In addition to its existing functions, the IPO is hereby mandated to:
 
 (b) Develop and implement the EVOSS in accordance with the provisions of this Act and as instructed by the EVOSS Steering Committee; and
 
-(c) Perform other functions that may be necessary for the effective implementation of this Act.1avvphi1
+(c) Perform other functions that may be necessary for the effective implementation of this Act.
 
 ### Section 23
 

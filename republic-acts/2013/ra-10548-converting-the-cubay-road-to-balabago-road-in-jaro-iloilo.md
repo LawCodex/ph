@@ -34,7 +34,7 @@ The Cubay Road to Balabago Road in Jaro, Iloilo City is hereby converted into a 
 
 ## Section 2
 
-The Secretary of Public Works and Highways shall include in the Department’s program the improvement, repair and maintenance of the said road, the funding of which shall be included in the annual General Appropriations Act.1âwphi1
+The Secretary of Public Works and Highways shall include in the Department’s program the improvement, repair and maintenance of the said road, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

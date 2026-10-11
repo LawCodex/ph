@@ -26,8 +26,6 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 Except the Cities of Manila, Baguio and Quezon City, chartered cities are classified according to their revenues as follows:
 
-1a⍵⍴h!1
-
 a. First Class: Those whose total annual revenue during the next preceding fiscal year amounts to one million pesos or more;
 
 b. Second Class: Those whose total annual revenue during the next preceding fiscal year amounts to seven hundred thousand pesos but less than one million pesos;

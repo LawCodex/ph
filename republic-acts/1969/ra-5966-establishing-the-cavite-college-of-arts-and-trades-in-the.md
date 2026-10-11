@@ -28,7 +28,7 @@ A national college of arts and trades, to be known as the Cavite College of Arts
 
 ## Section 2
 
-The sum of three hundred fifty thousand pesos for its establishment, operation and maintenance is hereby authorized to be appropriated during the fiscal year nineteen hundred and seventy. Such adequate sums as may be needed in subsequent years for its operation and maintenance yearly thereafter shall be included in the annual General Appropriations Act.1âшphi1
+The sum of three hundred fifty thousand pesos for its establishment, operation and maintenance is hereby authorized to be appropriated during the fiscal year nineteen hundred and seventy. Such adequate sums as may be needed in subsequent years for its operation and maintenance yearly thereafter shall be included in the annual General Appropriations Act.
 
 ## Section 3
 

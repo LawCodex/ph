@@ -32,6 +32,6 @@ The sum of fifty thousand pesos for its establishment and operation and maintena
 
 ## Section 3
 
-This Act shall take effect upon its approval.£a⩊phi£
+This Act shall take effect upon its approval.
 
 Approved: June 17, 1948.

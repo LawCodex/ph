@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-_Purpose; creation._ -For the purpose of developing the San Juanico Strait, which separates the Provinces of Samar, Leyte and Southern Leyte, there is hereby created a non-stock corporate body to be known as the San Juanico Strait Tourist Development Authority, hereinafter referred to as Authority, which shall have its principal office in Tacloban and a sub-office in Sta. Rita, Samar.1âшphi1
+_Purpose; creation._ -For the purpose of developing the San Juanico Strait, which separates the Provinces of Samar, Leyte and Southern Leyte, there is hereby created a non-stock corporate body to be known as the San Juanico Strait Tourist Development Authority, hereinafter referred to as Authority, which shall have its principal office in Tacloban and a sub-office in Sta. Rita, Samar.
 
 ## Section 2
 

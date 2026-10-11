@@ -33,7 +33,7 @@ Arayat National Park is hereby declared a tourist spot that will preserve and co
 
 ## Section 2
 
-The Department of Tourism, in coordination with other government agencies concerned, shall, within one (1) year from the approval of this Act, prepare a development plan involving the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall enhance tourism in the area.1a⍵⍴h!1
+The Department of Tourism, in coordination with other government agencies concerned, shall, within one (1) year from the approval of this Act, prepare a development plan involving the construction, installation and/or maintenance of such appropriate facilities and infrastructure as shall enhance tourism in the area.
 
 ## Section 3
 

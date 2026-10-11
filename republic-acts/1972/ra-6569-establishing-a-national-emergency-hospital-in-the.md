@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established, under the direct supervision of the Director of Medical Services, a national emergency hospital in the Municipality of Marihatag, Province of Surigao del Sur.1âшphi1
+There shall be established, under the direct supervision of the Director of Medical Services, a national emergency hospital in the Municipality of Marihatag, Province of Surigao del Sur.
 
 ## Section 2
 

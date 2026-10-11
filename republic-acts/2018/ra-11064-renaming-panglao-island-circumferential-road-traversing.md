@@ -33,7 +33,7 @@ In recognition of the remarkable achievements and contributions of the late Anos
 
 ## Section 2
 
-The Department of Public Works and Highways is hereby directed to implement of the provision of this Act. 1âwphi1
+The Department of Public Works and Highways is hereby directed to implement of the provision of this Act.
 
 ## Section 3
 

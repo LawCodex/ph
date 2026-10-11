@@ -32,7 +32,7 @@ The President of the Philippines shall have the power and authority to permit th
 
 ## Section 3
 
-This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, not to exceed twenty-five years from the date of the approval of this Act, and is granted upon the express condition that the same shall be void unless the construction of at least one of the said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.1âшphi1
+This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, not to exceed twenty-five years from the date of the approval of this Act, and is granted upon the express condition that the same shall be void unless the construction of at least one of the said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.
 
 ## Section 4
 

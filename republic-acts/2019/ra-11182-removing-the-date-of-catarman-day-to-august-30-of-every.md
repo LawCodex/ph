@@ -36,7 +36,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 2
 
-\- The Municipal Government of Catarman in the Province of Camiguin shall disseminate to oits component barangays _,_ as well as to the Provincial Government of Camiguin, through means it deems proper and expedient, the change of the date of Catarman Day, for proper coordination of activities.1âwphi1
+\- The Municipal Government of Catarman in the Province of Camiguin shall disseminate to oits component barangays _,_ as well as to the Provincial Government of Camiguin, through means it deems proper and expedient, the change of the date of Catarman Day, for proper coordination of activities.
 
 ## Section 3
 

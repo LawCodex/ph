@@ -92,7 +92,7 @@ _Term._ -This direct assistance shall be effective for a period of three years f
 
 ## Section 7
 
-_Board to carry out provisions of this Act._ -To implement the provisions of this Act, there is hereby created the Gold Mining Industry Assistance Board, hereinafter referred to as the Board, which shall be composed of the Governor of the Central Bank, as chairman, and the Director of Mines and three others, one of whom shall be representative of labor, to be appointed by the President of the Philippines with the consent of the Commission on Appointments, as members.1awp++i1 The board shall serve for a term of three years.
+_Board to carry out provisions of this Act._ -To implement the provisions of this Act, there is hereby created the Gold Mining Industry Assistance Board, hereinafter referred to as the Board, which shall be composed of the Governor of the Central Bank, as chairman, and the Director of Mines and three others, one of whom shall be representative of labor, to be appointed by the President of the Philippines with the consent of the Commission on Appointments, as members. The board shall serve for a term of three years.
 
 The presence of three members of the Board shall constitute a quorum for the exercise of its functions and the affirmative vote of at least three members shall be a valid and a binding act of the Board. In case the chairman is absent in any meeting, the members present shall elect a temporary chairman to preside over the meeting.
 
@@ -138,7 +138,7 @@ d. To inspect mine properties and plants and to examine books and records of the
 
 e. To do such other acts as may be necessary to carry out and implement the provisions of this Act.
 
-Orders, findings, awards, decisions, or resolutions of the Board may be appealed to the President of the Philippines, by filing a notice of appeal and a motion for reconsideration within fifteen days from notice.1avvphi1 The motion must state the grounds on which it is based and the reasons and arguments in support of such reconsideration. A party aggrieved by the decision of the President on the matter may have recourse to the ordinary courts of justice with original jurisdiction, by filing the proper action or proceeding within thirty days from notice.
+Orders, findings, awards, decisions, or resolutions of the Board may be appealed to the President of the Philippines, by filing a notice of appeal and a motion for reconsideration within fifteen days from notice. The motion must state the grounds on which it is based and the reasons and arguments in support of such reconsideration. A party aggrieved by the decision of the President on the matter may have recourse to the ordinary courts of justice with original jurisdiction, by filing the proper action or proceeding within thirty days from notice.
 
 ## Section 15
 

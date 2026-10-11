@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The bed capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, is hereby expanded and upgraded from fifty (50) to seventy-five (75) beds and upgrading it into a provincial hospital to be known as the Aparri Provincial Hospital.1âшphi1
+The bed capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, is hereby expanded and upgraded from fifty (50) to seventy-five (75) beds and upgrading it into a provincial hospital to be known as the Aparri Provincial Hospital.
 
 ## Section 2
 

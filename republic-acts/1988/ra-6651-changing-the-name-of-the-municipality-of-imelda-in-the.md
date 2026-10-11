@@ -28,7 +28,7 @@ The name of the Municipality of Imelda in the Province of Romblon is hereby chan
 
 ## Section 2
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved,
 

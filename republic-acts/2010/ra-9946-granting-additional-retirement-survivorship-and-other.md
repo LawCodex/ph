@@ -66,7 +66,7 @@ Two (2) new sections are hereby inserted in Republic Act No. 910, as amended, to
 
 ## Section 5
 
-The amount necessary for the initial implementation of this Act shall be charged against the current year's savings of the Judiciary. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.1avvphi1
+The amount necessary for the initial implementation of this Act shall be charged against the current year's savings of the Judiciary. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

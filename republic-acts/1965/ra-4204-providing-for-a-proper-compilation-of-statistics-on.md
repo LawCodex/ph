@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Section two of Republic Act Numbered One thousand eighty-two, as amended, is further amended by adding thereto a new subsection to read as follows:
 
-"(d) There shall be in each regional office of the Department of Health a regional epidemiologist and a statistician who shall be charged with the duties of compiling and evaluating statistics on disease intelligence.1âшphi1 The assistant provincial or assistant city health officers shall be in charge of the epidemiological and statistical functions within their respective jurisdiction, which shall be performed by a disease nomenclature clerk.
+"(d) There shall be in each regional office of the Department of Health a regional epidemiologist and a statistician who shall be charged with the duties of compiling and evaluating statistics on disease intelligence. The assistant provincial or assistant city health officers shall be in charge of the epidemiological and statistical functions within their respective jurisdiction, which shall be performed by a disease nomenclature clerk.
 
 "No person shall be appointed epidemiologist or statistician unless he is a holder of a bachelor’s degree conferred by a reputable school, college or university and has had at least two years experience in elementary statistical methods."
 

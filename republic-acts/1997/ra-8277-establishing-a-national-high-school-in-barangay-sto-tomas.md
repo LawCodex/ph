@@ -42,4 +42,4 @@ The amount necessary to carry out the provisions of this Act shall be included i
 
 This Act shall take effect upon its approval.
 
-Approved, Lapsed into law on April 10, 1997, without the signature of the President, in accordance Article VI, Section 27 (1) of the Constitution.1aшphi1
+Approved, Lapsed into law on April 10, 1997, without the signature of the President, in accordance Article VI, Section 27 (1) of the Constitution.

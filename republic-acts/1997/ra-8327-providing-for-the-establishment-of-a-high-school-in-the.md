@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There shall be established a national high school in the Municipality of Mapandan, Province of Pangasinan, to be known as the Mapandan National High School.1aшphi1
+There shall be established a national high school in the Municipality of Mapandan, Province of Pangasinan, to be known as the Mapandan National High School.
 
 ## Section 2
 

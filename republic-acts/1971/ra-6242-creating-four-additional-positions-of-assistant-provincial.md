@@ -35,6 +35,6 @@ There is hereby authorized to be appropriated, out of any funds in the National 
 
 ## Section 3
 
-This Act shall take effect upon its approval.1âшphi1
+This Act shall take effect upon its approval.
 
 Approved, June 19, 1971.

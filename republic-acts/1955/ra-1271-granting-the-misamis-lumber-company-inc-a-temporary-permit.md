@@ -40,7 +40,7 @@ The grantee, its successors or assigns, shall not engage in domestic business of
 
 ## Section 5
 
-The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.1âшphi1
+The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
 
 ## Section 6
 

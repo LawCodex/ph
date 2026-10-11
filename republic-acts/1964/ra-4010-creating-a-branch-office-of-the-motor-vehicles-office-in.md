@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby created a branch office of the Motor Vehicles Office of Mountain Province with permanent station at the Municipality of Tabuk, which shall be under the immediate control and supervision of a deputy motor vehicles registrar to be appointed by the Secretary of Public Works and Communications.1âшphi1 The said deputy motor vehicles registrar shall receive the same salary as that provided for by the Wage and Position Classification Office for motor vehicles registrar I and shall be assisted by such other personnel, likewise appointed by the Secretary of Public Works and Communications, as may be necessary to carry out the duties appurtenant to the said branch office.
+There is hereby created a branch office of the Motor Vehicles Office of Mountain Province with permanent station at the Municipality of Tabuk, which shall be under the immediate control and supervision of a deputy motor vehicles registrar to be appointed by the Secretary of Public Works and Communications. The said deputy motor vehicles registrar shall receive the same salary as that provided for by the Wage and Position Classification Office for motor vehicles registrar I and shall be assisted by such other personnel, likewise appointed by the Secretary of Public Works and Communications, as may be necessary to carry out the duties appurtenant to the said branch office.
 
 ## Section 2
 

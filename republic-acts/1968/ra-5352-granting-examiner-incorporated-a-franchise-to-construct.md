@@ -43,7 +43,7 @@ In the event of any competing individual, partnership, or corporation receiving 
 
 ## Section 5
 
-The grantee shall file a bond in the amount of fifty thousand pesos to guarantee the full compliance and fulfillment of the conditions under which this franchise is granted.1avvphi1 If after six years from the date of approval of this Act, grantee shall have fulfilled such conditions, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Government.
+The grantee shall file a bond in the amount of fifty thousand pesos to guarantee the full compliance and fulfillment of the conditions under which this franchise is granted. If after six years from the date of approval of this Act, grantee shall have fulfilled such conditions, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Government.
 
 ## Section 6
 

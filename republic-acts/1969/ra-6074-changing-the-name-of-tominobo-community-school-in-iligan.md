@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Hereafter, Tominobo Community School in Iligan City shall be known as Tomas Cabili Memorial Community School.1a⍵⍴h!1
+Hereafter, Tominobo Community School in Iligan City shall be known as Tomas Cabili Memorial Community School.
 
 ## Section 2
 

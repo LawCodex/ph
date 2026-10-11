@@ -31,7 +31,7 @@ Six (6) additional branch of the Regional Trial Court (RTC) in the Ninth Judicia
 
 (b) Five (5) regular RTCs.
 
-The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC.ℒαwρhi৷
+The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC.
 
 ## Section 2
 

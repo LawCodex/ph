@@ -28,7 +28,7 @@ Any provision of law to the contrary notwithstanding, the Province of La Union i
 
 ## Section 2
 
-Each engineering district shall have one district engineer who shall be appointed in accordance with existing laws.1âшphi1
+Each engineering district shall have one district engineer who shall be appointed in accordance with existing laws.
 
 ## Section 3
 

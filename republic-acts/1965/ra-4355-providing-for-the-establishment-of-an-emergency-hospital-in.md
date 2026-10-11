@@ -29,7 +29,7 @@ There shall be established under the supervision of the Department of Health an 
 
 ## Section 2
 
-The sum of two hundred pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-five, including the purchase of a site and hospital equipment.1âшphi1 Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act, in accordance with the provisions of Republic Act Numbered One thousand nine hundred thirty-nine.
+The sum of two hundred pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-five, including the purchase of a site and hospital equipment. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act, in accordance with the provisions of Republic Act Numbered One thousand nine hundred thirty-nine.
 
 ## Section 3
 

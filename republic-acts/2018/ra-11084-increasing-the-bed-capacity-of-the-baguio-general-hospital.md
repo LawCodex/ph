@@ -44,7 +44,7 @@ The increase in bed capacity of the BGHMC from five hundred (500) to eight hundr
 
 ## Section 5
 
-The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.1aшphi1
+The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
 
 ## Section 6
 

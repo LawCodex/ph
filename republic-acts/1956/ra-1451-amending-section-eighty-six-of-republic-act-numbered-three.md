@@ -30,6 +30,6 @@ Section eighty-six of Republic Act Numbered Three hundred twenty-eight, otherwis
 
 ## Section 2
 
-This Act shall take effect on July one, nineteen hundred fifty-two.1âшphi1
+This Act shall take effect on July one, nineteen hundred fifty-two.
 
 Approved: June 14, 1956.

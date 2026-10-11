@@ -189,7 +189,7 @@ _Scholarship Programs and Admission._ \- The ZSPSC shall provide a scholarship p
 
 _Loan or Transfer Supplies, Apparatuses, or Equipment, or Detail of Personnel of the ZSPSC._ \- Heads of national government agencies and instrumentalities may, upon the request of the Board through the President of the ZSPSC, loan or transfer supplies, apparatuses, or equipment, or detail personnel to the College: _Provided,_ That such loan, transfer or detail shall not be detrimental to public service.
 
-The personnel to be detailed to the College shall perform such duties as required of them by the President of the ZSPSC and the time spent for such duties shall be counted as part of the detailed personnel's regular service.ℒαwρhi৷
+The personnel to be detailed to the College shall perform such duties as required of them by the President of the ZSPSC and the time spent for such duties shall be counted as part of the detailed personnel's regular service.
 
 ## Section 18
 

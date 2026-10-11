@@ -200,7 +200,7 @@ There shall be established a fund for an ECCD Program Contracting Scheme with ac
 
 ## Section 13
 
-_Annual Report._ – The ECCD Council shall, at the close of each calendar year, submit annual physical and financial reports to Congress, giving a detailed account of its proceedings and accomplishments during the year, making recommendations for the adoption of measures that will improve the National ECCD System and ensuring achievement of universal coverage of ECCD benefits to all children from age zero (0) to four (4) years, within a period of five (5) years.1âwphi1
+_Annual Report._ – The ECCD Council shall, at the close of each calendar year, submit annual physical and financial reports to Congress, giving a detailed account of its proceedings and accomplishments during the year, making recommendations for the adoption of measures that will improve the National ECCD System and ensuring achievement of universal coverage of ECCD benefits to all children from age zero (0) to four (4) years, within a period of five (5) years.
 
 ## Section 14
 

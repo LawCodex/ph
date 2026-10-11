@@ -32,7 +32,7 @@ The Sigma National High School in the Municipality of Sigma, Province of Capiz, 
 
 ## Section 2
 
-The College shall offer general secondary curriculum, professional, technical and technological courses as may be determined by the Commission on Higher Education (CHED).1aшphi1
+The College shall offer general secondary curriculum, professional, technical and technological courses as may be determined by the Commission on Higher Education (CHED).
 
 ## Section 3
 

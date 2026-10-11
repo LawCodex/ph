@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Ilocos Norte School of Arts and Trades located in the City of Laoag, is hereby converted into a teacher-training institution to be known as the Ilocos Norte College of Arts and Trades effective upon availability of funds.1âшphi1
+The Ilocos Norte School of Arts and Trades located in the City of Laoag, is hereby converted into a teacher-training institution to be known as the Ilocos Norte College of Arts and Trades effective upon availability of funds.
 
 ## Section 2
 

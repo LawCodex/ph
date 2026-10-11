@@ -582,7 +582,7 @@ In the appointment herein mentioned, a nomination and a certificate of membershi
 
 3\. In case the permanent vacancy is caused by a sanggunian member who does not belong to any political party, the city mayor shall, upon recommendation of the Sangguniang Panlungsod, appoint a qualified person to fill the vacancy; and
 
-4\. In case of vacancy in the representation of the youth and the barangay in the Sangguniang Panlungsod, said vacancy shall be filled automatically by the official next in rank of the organization concerned.1aшphi1
+4\. In case of vacancy in the representation of the youth and the barangay in the Sangguniang Panlungsod, said vacancy shall be filled automatically by the official next in rank of the organization concerned.
 
 ### Section 21
 

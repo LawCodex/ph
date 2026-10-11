@@ -36,7 +36,7 @@ The College shall primarily give professional and technical training in the fiel
 
 ## Section 3
 
-The College shall be under the administrative and supervisory control of the Chairman of the Commission on Higher Education.1aшphi1
+The College shall be under the administrative and supervisory control of the Chairman of the Commission on Higher Education.
 
 ## Section 4
 

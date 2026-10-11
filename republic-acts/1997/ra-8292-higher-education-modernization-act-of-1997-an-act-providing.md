@@ -26,9 +26,13 @@ AN ACT PROVIDING FOR THE UNIFORM COMPOSITION AND POWERS OF THE GOVERNING BOARDS,
 
 Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
 
-**Section 1._Short title._** – This Act shall be known as the "_Higher Education Modernization Act of 1997._ "
+## Section 1
 
-**Section 2._Declaration of policy._** – It is the declared policy of the State to establish, maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people society. Towards this end, the composition of the governing boards of chartered state universities and colleges is hereby modified in order to:
+_Short title._ – This Act shall be known as the "_Higher Education Modernization Act of 1997._ "
+
+## Section 2
+
+_Declaration of policy._ – It is the declared policy of the State to establish, maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people society. Towards this end, the composition of the governing boards of chartered state universities and colleges is hereby modified in order to:
 
 (a) achieve a more coordinated and integrated system of higher education;
 
@@ -38,7 +42,9 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 (d) ensure the enjoyment of academic freedom as guaranteed by the Constitution.
 
-**Section 3._The Governing Boards; manner of appointment._** –
+## Section 3
+
+_The Governing Boards; manner of appointment._ –
 
 (a) _Composition_ – The governing body of state universities and colleges is hereby in the Board of Regents for universities and in the Board of Trustees for colleges which shall be composed of the following:
 
@@ -62,7 +68,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 The faculty and the student council shall be represented of their respective federations in multi-campus universities and colleges. The private sector representatives shall be appointed by the Board of Regents/Trustees upon recommendation of a duly constituted search committee.
 
-(b) _Term of office_ – The president of the faculty and alumni associations and the student regents or trustees shall sit in the board until expiration of their term of office in such capacities.1aшphi1
+(b) _Term of office_ – The president of the faculty and alumni associations and the student regents or trustees shall sit in the board until expiration of their term of office in such capacities.
 
 The prominent citizens shall serve for a term of two (2) years.
 
@@ -72,7 +78,9 @@ A majority of all members holding office shall constitute a quorum for board mee
 
 The members shall serve without compensation, but they shall be reimbursed for necessary expense incurred in their attendance of meetings of the Board or in connection with their official business authorities by resolution of the Board.
 
-**Section 4._Powers and duties of Governing Boards._** – The governing board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under Section 36 of Batas Pambansa Blg. 68 otherwise known as the Corporation Code of the Philippines;
+## Section 4
+
+_Powers and duties of Governing Boards._ – The governing board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under Section 36 of Batas Pambansa Blg. 68 otherwise known as the Corporation Code of the Philippines;
 
 (a) to enact rules and regulations not contrary to law as may be necessary to carry to carry out the purposes and functions of the university or college;
 
@@ -128,9 +136,13 @@ If, for reason of control, the university or college, shall not be able to pursu
 
 (x) to extend the term of the president of the college or university beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated as outstanding and upon unanimous recommendation by the search committee for the president of the institution concerned.
 
-**Section 5._Promulgation and implementation of policies._** – The governing boards shall promulgate and implement policies in accordance with the declared state policies on education and other pertinent provisions of the Philippine Constitution on education, science and technology, arts, culture and sports; as well as the policies, standards and thrusts of the CHED under Republic Acts No. 7722.
+## Section 5
 
-**Section 6._The Administration._** – The administration of the university or college shall be vested in the president of the university or college who shall render full-time service. He shall be appointed by the Board of Regents/Trustees, upon the recommendation of a duly constituted search committee. He shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That this provision shall not adversely affect the terms of the incumbents.
+_Promulgation and implementation of policies._ – The governing boards shall promulgate and implement policies in accordance with the declared state policies on education and other pertinent provisions of the Philippine Constitution on education, science and technology, arts, culture and sports; as well as the policies, standards and thrusts of the CHED under Republic Acts No. 7722.
+
+## Section 6
+
+_The Administration._ – The administration of the university or college shall be vested in the president of the university or college who shall render full-time service. He shall be appointed by the Board of Regents/Trustees, upon the recommendation of a duly constituted search committee. He shall have a term of four (4) years and shall be eligible for reappointment for another term: Provided, That this provision shall not adversely affect the terms of the incumbents.
 
 The president shall be assisted by a vice president for academic affairs who shall be appointed by the Board upon the former's recommendation without prejudice to the appointment of more than one vice president when so warranted.
 
@@ -138,30 +150,54 @@ In case of vacancy by reason of death, resignation, removal for cause or incapac
 
 In case of vacancy in the office of the president as mentioned in the immediately preceding paragraph, his successors shall hold office for the unexpired term.
 
-**Section 7._The Secretary of the University or College._** – The Board shall appoint a secretary who shall serve as such for both the Board and the university or college and shall keep all records and proceedings of the Board. He shall communicate to each member of the Board notice of meetings.
+## Section 7
 
-**Section 8._The Treasurer of the Philippines._** – The Treasurer of the Philippines shall be the ex-officio treasurer of the university or college. All accounts and expenses of the university or college shall be audited by the Commission on Audit or its duly authorized representative.
+_The Secretary of the University or College._ – The Board shall appoint a secretary who shall serve as such for both the Board and the university or college and shall keep all records and proceedings of the Board. He shall communicate to each member of the Board notice of meetings.
 
-**Section 9._Administrative Council._** – There shall be an administrative council consisting of the president of the university or college as Chairman, the vice president(s), deans, directors and other officials of equal rank as members, and whose duty is to review and recommend to the Board of Regents/Trustees policies governing the administration, management and development planning of the university or college for appropriate action.
+## Section 8
 
-**Section 10._Academic Council._** – There shall be an academic council with the president of the university or college as Chairman and all members of the instructional staff with the rank of not lower than assistant professor as members.
+_The Treasurer of the Philippines._ – The Treasurer of the Philippines shall be the ex-officio treasurer of the university or college. All accounts and expenses of the university or college shall be audited by the Commission on Audit or its duly authorized representative.
+
+## Section 9
+
+_Administrative Council._ – There shall be an administrative council consisting of the president of the university or college as Chairman, the vice president(s), deans, directors and other officials of equal rank as members, and whose duty is to review and recommend to the Board of Regents/Trustees policies governing the administration, management and development planning of the university or college for appropriate action.
+
+## Section 10
+
+_Academic Council._ – There shall be an academic council with the president of the university or college as Chairman and all members of the instructional staff with the rank of not lower than assistant professor as members.
 
 The academic council shall have the power to review and recommend the curricular offerings and rules of discipline of the university or college subject for appropriate action of the Board of Regents/Trustees. It shall fix the requirements for the admission of students as well as for graduation and the conferment of degrees subject to review and/or approval by the Board of Regents/Trustees through the president of the university or college.
 
-**Section 11._Academic freedom._** – Pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines, all institutions of higher learning, public or private, shall enjoy academic freedom and institutional autonomy.
+## Section 11
 
-**Section 12._Admission._** – No student shall be denied admission to any university or college by reasons of sex, nationality, religion, political affiliation, or physical disability.
+_Academic freedom._ – Pursuant to paragraph 2, Section 5 of Article XIV of the Constitution of the Republic of the Philippines, all institutions of higher learning, public or private, shall enjoy academic freedom and institutional autonomy.
 
-**Section 13._Exclusion clause._** – Except for the chairmanship of the Board, the provisions of this Act shall not affect the charter of the University of the Philippines System. Likewise, this Act shall not affect the charter of the Mindanao State University (MSU) except for the provision of this Act on chairmanship of the Board, and the membership of the Chairmen of the Congressional Committees on Education and Culture.
+## Section 12
 
-**Section 14._Filing of report._** – On or before the fifteenth (15th) day of the second month after the opening of regular classes each year, the president of the university or college shall file with the Office of the President of the Philippines through the Chairman of the CHED, and with the Senate and House of Representatives a detailed report on the progress, conditions and needs of the university or college.
+_Admission._ – No student shall be denied admission to any university or college by reasons of sex, nationality, religion, political affiliation, or physical disability.
 
-**Section 15._Implementation._** – The Chairman of the CHED is hereby directed to take such steps as are necessary for the immediate implementation of this Act.
+## Section 13
 
-**Section 16._Separability clause._** – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
+_Exclusion clause._ – Except for the chairmanship of the Board, the provisions of this Act shall not affect the charter of the University of the Philippines System. Likewise, this Act shall not affect the charter of the Mindanao State University (MSU) except for the provision of this Act on chairmanship of the Board, and the membership of the Chairmen of the Congressional Committees on Education and Culture.
 
-**Section 17._Repealing clause._** – All laws, presidential decrees, executive orders, letters of instruction and SUC charters contrary to or inconsistent with this Act are hereby repealed or amended accordingly.
+## Section 14
 
-**Section 18._Effectivity clause._** – This Act shall take effect upon its approval.
+_Filing of report._ – On or before the fifteenth (15th) day of the second month after the opening of regular classes each year, the president of the university or college shall file with the Office of the President of the Philippines through the Chairman of the CHED, and with the Senate and House of Representatives a detailed report on the progress, conditions and needs of the university or college.
+
+## Section 15
+
+_Implementation._ – The Chairman of the CHED is hereby directed to take such steps as are necessary for the immediate implementation of this Act.
+
+## Section 16
+
+_Separability clause._ – If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
+
+## Section 17
+
+_Repealing clause._ – All laws, presidential decrees, executive orders, letters of instruction and SUC charters contrary to or inconsistent with this Act are hereby repealed or amended accordingly.
+
+## Section 18
+
+_Effectivity clause._ – This Act shall take effect upon its approval.
 
 Approved: June 6, 1997

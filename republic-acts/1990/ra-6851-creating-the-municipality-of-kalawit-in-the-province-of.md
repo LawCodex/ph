@@ -57,7 +57,7 @@ The seat of the municipal government of the newly created Municipality of Kalawi
 
 ## Section 5
 
-The Commission on Elections shall conduct and supervise the plebiscite. The expenses in holding the plebiscite shall be taken out of the Contingent Fund under the current fiscal year appropriations.1âшphi1
+The Commission on Elections shall conduct and supervise the plebiscite. The expenses in holding the plebiscite shall be taken out of the Contingent Fund under the current fiscal year appropriations.
 
 ## Section 6
 

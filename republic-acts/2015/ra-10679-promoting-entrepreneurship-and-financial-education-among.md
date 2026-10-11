@@ -144,15 +144,13 @@ The Oversight Committee shall be composed of five (5) members each from the Sena
 
 A written report to the Senate and the House of Representatives, through the Oversight Committee, shall be submitted by the EEC annually, to include an implementation status report and an overall assessment of the standards, competencies, teaching methods, and mentoring programs.
 
-The Oversight Committee shall conduct a mandatory review of this Act every year from its approval.1âwphi1
+The Oversight Committee shall conduct a mandatory review of this Act every year from its approval.
 
 ## Section 9
 
 _National Program to Promote Youth Entrepreneurship Development._ – The MSMED Council shall develop a national program to promote youth entrepreneurship development. Using the following strategies, the MSMED Council shall:
 
 (a) Include in its MSMED Plan the development of a program and strategy for promoting youth entrepreneurship;
-
-1âwphi1
 
 (b) Be responsible for facilitating national programs to encourage youth entrepreneurship as part of a broader strategy to promote the viability and growth of enterprises in the country;
 

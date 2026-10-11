@@ -71,7 +71,7 @@ _Bond._ \- If the grantee is not yet operational, the grantee shall file a bond 
 
 ## Section 10
 
-_Right of Interconnection._ \- The grantee is hereby authorized to connect or demand connection of its telecommunications system to any other telecommunications systems installed, operated and maintained by any other duly authorized person or entity in the Philippines for the purpose of providing extended and improved telecommunications services to the public under such terms and conditions mutually agreed upon by the parties concerned and the same shall be subject to review or modification of the Commission.Ꮮαwρhi৷
+_Right of Interconnection._ \- The grantee is hereby authorized to connect or demand connection of its telecommunications system to any other telecommunications systems installed, operated and maintained by any other duly authorized person or entity in the Philippines for the purpose of providing extended and improved telecommunications services to the public under such terms and conditions mutually agreed upon by the parties concerned and the same shall be subject to review or modification of the Commission.
 
 ## Section 11
 

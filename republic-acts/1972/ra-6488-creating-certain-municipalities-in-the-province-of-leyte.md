@@ -30,7 +30,7 @@ The boundary line between the Municipality of Kawayan and the Municipality of Al
 
 ## Section 2
 
-The barrios of Cabucgayan, Balaquid, Bunga Pawican, and Talibong in the municipalities of Biliran and Caibiran, Province of Leyte, are separated from said municipalities, and constituted into a distinct and independent municipality to be known as the Municipality or Cabucgayan, same province. The seat of government of the new municipality shall be in the present site of the barrio of Cabucgayan.1âшphi1
+The barrios of Cabucgayan, Balaquid, Bunga Pawican, and Talibong in the municipalities of Biliran and Caibiran, Province of Leyte, are separated from said municipalities, and constituted into a distinct and independent municipality to be known as the Municipality or Cabucgayan, same province. The seat of government of the new municipality shall be in the present site of the barrio of Cabucgayan.
 
 The Municipality of Cabucgayan shall be bounded as follows:
 

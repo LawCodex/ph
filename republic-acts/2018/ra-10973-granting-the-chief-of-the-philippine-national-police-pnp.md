@@ -32,7 +32,7 @@ _Be it enacted by the Senate and House of Representatives of the_ _Philippines i
 
 A new Section 26-A shall be inserted after Section 26 of Republic Act No. 6975, which shall read as follows:
 
-"Section 26-A. _Subpoena Powers._ 1âwphi1 \- The Chief of the Philippine National Police (PNP) and the Director and the Deputy Director for Administration of the Criminal Investigation and Detection Group (CIDG), referred to as the Criminal Investigation Unit in Section 35(b)(4) of this Act, shall have the power to administer oath, and issue _subpoena_ and _subpoena duces tecum_ in relation to its investigation: Provided, That such powers shall be exercised solely by the aforementioned officials and may not be further delegated to any other person or office.
+"Section 26-A. _Subpoena Powers._ \- The Chief of the Philippine National Police (PNP) and the Director and the Deputy Director for Administration of the Criminal Investigation and Detection Group (CIDG), referred to as the Criminal Investigation Unit in Section 35(b)(4) of this Act, shall have the power to administer oath, and issue _subpoena_ and _subpoena duces tecum_ in relation to its investigation: Provided, That such powers shall be exercised solely by the aforementioned officials and may not be further delegated to any other person or office.
 
 "The subpoena shall state the nature and purpose of investigation, shall be directed to the person whose attendance is required, and in the case of a _subpoena duces tecum_ , it shall also contain a reasonable description of the books, documents, or things demanded which must be relevant to the investigation.
 

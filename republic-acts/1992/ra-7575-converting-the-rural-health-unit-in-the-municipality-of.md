@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The rural health unit in the Municipality of Sapang Dalaga, Province of Misamis Occidental, is hereby converted into a five-bed capacity health infirmary, to be known as the Sapang Dalaga Health Infirmary.1âшphi1
+The rural health unit in the Municipality of Sapang Dalaga, Province of Misamis Occidental, is hereby converted into a five-bed capacity health infirmary, to be known as the Sapang Dalaga Health Infirmary.
 
 ## Section 2
 

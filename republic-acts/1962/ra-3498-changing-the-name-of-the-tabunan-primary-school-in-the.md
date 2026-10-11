@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Tabunan Primary School in the Municipality of Bago, Province of Negros Occidental, is hereby changed to Ireneo Makilan Primary School.1âшphi1
+The name of the Tabunan Primary School in the Municipality of Bago, Province of Negros Occidental, is hereby changed to Ireneo Makilan Primary School.
 
 ## Section 2
 

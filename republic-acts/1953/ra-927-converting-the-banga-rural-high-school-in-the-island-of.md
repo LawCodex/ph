@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The Banga Rural High School located in the municipality of Banga, Province of Capiz, in the Island of Panay, is hereby converted to a national agricultural school of the Central Luzon Agricultural School type, to be known as the Panay National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.1a⍵⍴h!1
+The Banga Rural High School located in the municipality of Banga, Province of Capiz, in the Island of Panay, is hereby converted to a national agricultural school of the Central Luzon Agricultural School type, to be known as the Panay National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.
 
 ## Section 2
 

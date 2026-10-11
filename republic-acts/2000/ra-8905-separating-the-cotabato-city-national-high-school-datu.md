@@ -39,7 +39,7 @@ All personnel, records, assets and liabilities of the Cotabato City National Hig
 
 ## Section 4
 
-This Act shall take effect immediately upon its approval.ℒαwρhi৷
+This Act shall take effect immediately upon its approval.
 
 Approved, August 22, 2000.
 

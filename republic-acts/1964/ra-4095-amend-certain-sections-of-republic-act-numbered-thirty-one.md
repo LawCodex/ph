@@ -105,7 +105,7 @@ The first, third, and fourth paragraphs of Section four of the same Act are amen
 
 "Sec. 4. _Creation and composition of Board of Industries._ -For the purpose of carrying out the objectives of this Act, there is hereby created a Board of Industries, hereinafter referred to as the ‘Board’, to be composed of seven members, namely. the Chairman of the National Economic Council, the Secretary of Commerce and Industry, the Secretary of Agriculture and Natural Resources, the Secretary of Finance, the Chairman of the Joint-Legislative-Executive Tax Commission and two members from the private sector who shall be citizens of the Philippines, of good moral character and of recognized competence in the economics of finance, commerce and industry to be appointed by the President of the Philippines with the consent of the Commission of Appointments.
 
-"Four members of the Board shall constitute a quorum.1âшphi1
+"Four members of the Board shall constitute a quorum.
 
 "Members of the Board who are government officials shall serve without additional compensation. Private citizens who are appointed to sit in the Board shall receive a per diem of fifty pesos for each day of session of the Board actually attended by them. The Chairman, Vice-Chairman, Secretary and members of the Board shall, however, be allowed commutable traveling, representation and other necessary expenses."
 

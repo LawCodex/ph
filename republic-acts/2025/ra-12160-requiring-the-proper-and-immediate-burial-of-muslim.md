@@ -43,7 +43,7 @@ Within thirty (30) days after the death certificate has been duly prepared and c
 
 _Release and Shipment of Muslim Cadaver._ \- For burial purposes, in accordance with Islamic rites, Muslim cadavers shall be released within twenty-four (24) hours by the hospital, medical clinic, funeral parlor, morgue, custodial and prison facilities, or other similar facilities, or persons who are in actual care or custody of the cadaver.
 
-The cadaver shall be wrapped with white cloth and placed in an airtight, leak-proof cadaver bag or cadaver wooden box, and shall zipped or closed with tapes or bandage stripes.ℒαwρhi৷
+The cadaver shall be wrapped with white cloth and placed in an airtight, leak-proof cadaver bag or cadaver wooden box, and shall zipped or closed with tapes or bandage stripes.
 
 Non-payment of hospital bills, medical expenses, professional fees. cost of wrapping, or any other charges shall in no case be made as a reason to withhold the release and shipment of the cadaver. The concerned party may however execute a promissory note for the unpaid obligation, or any other existing payment scheme acceptable to the other party.
 

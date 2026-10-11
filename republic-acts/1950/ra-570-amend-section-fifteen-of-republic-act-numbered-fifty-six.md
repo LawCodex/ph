@@ -30,6 +30,6 @@ Section fifteen of Republic Act Numbered Fifty-six is hereby amended to read as 
 
 ## Section 2
 
-This Act shall take effect upon its approval.ℒαwρhi৷
+This Act shall take effect upon its approval.
 
 Approved, August 31, 1950.

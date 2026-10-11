@@ -66,7 +66,7 @@ A special right is hereby reserved to the President of the Philippines, in times
 
 ## Section 8
 
-_Term of Franchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled.1aшphi1 This franchise shall be deemed ipso facto revoked in the event the Grantee fails to operate continuously for two (2) years.
+_Term of Franchise._ \- This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the Grantee fails to operate continuously for two (2) years.
 
 ## Section 9
 
@@ -88,7 +88,7 @@ _Dispersal of Ownership._ \- In accordance with the constitutional provision to 
 
 _Commitment to Provide and Promote the Creation of Employment Opportunities._ \- The Grantee shall create employment opportunities and accept on-the-job trainees in the franchise operations: _Provided,_ That priority shall be accorded to the residents of the place where the principal office of the Grantee is located: _Provided, further,_ That the Grantee shall comply with the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances.
 
-The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission (SEC) annually.1aшphi1
+The employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission (SEC) annually.
 
 ## Section 14
 

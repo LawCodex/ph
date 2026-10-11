@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of twenty million pesos as additional appropriation for the "Counterpart Fund" constituted under Republic Act Numbered Six hundred and four, to be spent in accordance with the provision of said Act: _Provided,_ That this appropriation shall be available for expenditure until exhausted even after June thirty, nineteen hundred and fifty-four.1a⍵⍴h!1
+There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of twenty million pesos as additional appropriation for the "Counterpart Fund" constituted under Republic Act Numbered Six hundred and four, to be spent in accordance with the provision of said Act: _Provided,_ That this appropriation shall be available for expenditure until exhausted even after June thirty, nineteen hundred and fifty-four.
 
 ## Section 2
 

@@ -29,7 +29,7 @@ The Samar School of Arts and Trades in the Municipality of Catbalogan, Province 
 
 ## Section 2
 
-There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of two hundred thousand pesos to carry into effect the provisions of this Act.1awp++i1
+There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of two hundred thousand pesos to carry into effect the provisions of this Act.
 
 ## Section 3
 

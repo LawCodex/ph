@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-Father Pedro S. de Achutegui is hereby granted Philippine Citizenship with all the rights, privileges and prerogatives appurtenant thereto.1âшphi1
+Father Pedro S. de Achutegui is hereby granted Philippine Citizenship with all the rights, privileges and prerogatives appurtenant thereto.
 
 ## Section 2
 

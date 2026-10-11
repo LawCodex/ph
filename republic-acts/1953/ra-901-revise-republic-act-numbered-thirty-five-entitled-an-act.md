@@ -80,7 +80,7 @@ k. Other information necessary for the effective enforcement of this Act.
 
 No application for exemption, however, should be without attaching to the application a firm quotation the complete machineries and equipment needed for the factory, and statement under oath that the applicant is ready to place the order for said machineries and equipment within three months after the granting of the exemption.
 
-All applications shall be made upon forms duly prescribed by the Secretary of Finance for the purpose and shall be accomplished in quadruplicate and sworn to before a Notary Public.1a⍵⍴h!1
+All applications shall be made upon forms duly prescribed by the Secretary of Finance for the purpose and shall be accomplished in quadruplicate and sworn to before a Notary Public.
 
 ## Section 7
 

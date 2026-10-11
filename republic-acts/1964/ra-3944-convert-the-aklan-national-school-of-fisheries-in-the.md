@@ -31,7 +31,7 @@ The Aklan National School of Fisheries in the Municipality of New Washington, Pr
 
 (b) Four-year technical fishery course leading to the degree of Bachelor of Science in Fisheries; and
 
-(c) Two-year technical fishery course leading to the title of Associate in Fishery.£a⩊phi£
+(c) Two-year technical fishery course leading to the title of Associate in Fishery.
 
 ## Section 2
 

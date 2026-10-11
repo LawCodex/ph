@@ -32,7 +32,7 @@ and item 11, page 448 of Republic Act Numbered Nineteen hundred, to wit:
 
 "1. Cayam Primary School Building, Carcar ₱3,000.00,"
 
-totalling in the amount of seven thousand pesos are hereby reappropriated for the construction of a two-room barrio school building, Noel type, in Bolinawan, Carcar.1âшphi1
+totalling in the amount of seven thousand pesos are hereby reappropriated for the construction of a two-room barrio school building, Noel type, in Bolinawan, Carcar.
 
 ## Section 2
 

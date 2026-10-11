@@ -423,7 +423,7 @@ Those personnel whose positions are not included in the new staffing pattern app
 
 ## Section 35
 
-_Automatic Review._ \- Every five (5) years, after the effectivity of this Act, an independent review panel composed of three (3) persons appointed by the President shall review the performance of the Authority and shall make recommendations, based on its findings to the President and to both Houses of Congress.1a⍵⍴h!1
+_Automatic Review._ \- Every five (5) years, after the effectivity of this Act, an independent review panel composed of three (3) persons appointed by the President shall review the performance of the Authority and shall make recommendations, based on its findings to the President and to both Houses of Congress.
 
 ## Section 36
 

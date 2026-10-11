@@ -1052,7 +1052,7 @@ _The City Land Transportation Officer._ \- The city land transportation officer 
 
 The city land transportation officer shall receive such compensation, emoluments and allowances as may be determined by law.
 
-The city land transportation officer shall take charge of the land transportation office and shall perform such duties and functions and exercise such other powers as may be provided by law.1aшphi1
+The city land transportation officer shall take charge of the land transportation office and shall perform such duties and functions and exercise such other powers as may be provided by law.
 
 ## ARTICLE XIII — TRANSITORY AND FINAL PROVISIONS
 

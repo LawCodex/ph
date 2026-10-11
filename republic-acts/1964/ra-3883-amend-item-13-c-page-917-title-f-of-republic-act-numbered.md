@@ -31,6 +31,6 @@ Item (13-c), page 917, Title (f) of Republic Act Numbered Nineteen hundred is am
 
 ## Section 2
 
-This Act shall take effect upon its approval.1aшphi1
+This Act shall take effect upon its approval.
 
 Approved: June 18, 1964.

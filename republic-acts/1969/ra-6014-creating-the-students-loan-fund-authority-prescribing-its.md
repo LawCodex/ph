@@ -146,7 +146,7 @@ _Qualifications of Applicants._ — Any Filipino citizen who graduates from a du
 
 ## Section 14
 
-_Payment of Loan.—_ Any loan granted under this Act shall be paid by the student-debtor after he has finished the course or profession for which the proceeds of the loan was expended, and after a period of one year from the time he has acquired an employment: _Provided, however,_ That interest at the rate of 6% _per annum_ shall accrue on the total amount or the balance thereof, borrowed by the student-debtor upon employment.1a⍵⍴h!1
+_Payment of Loan.—_ Any loan granted under this Act shall be paid by the student-debtor after he has finished the course or profession for which the proceeds of the loan was expended, and after a period of one year from the time he has acquired an employment: _Provided, however,_ That interest at the rate of 6% _per annum_ shall accrue on the total amount or the balance thereof, borrowed by the student-debtor upon employment.
 
 ## Section 15
 

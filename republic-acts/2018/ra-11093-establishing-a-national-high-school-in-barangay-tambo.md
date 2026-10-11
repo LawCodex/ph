@@ -41,7 +41,7 @@ The Secretary of Education shall formulate the rules and regulations implementin
 
 ## Section 4
 
-This Act shall take effect fifteen (15) days after its publication in th _e Official Gazette_ or in a newspaper of general circulation.1âwphi1
+This Act shall take effect fifteen (15) days after its publication in th _e Official Gazette_ or in a newspaper of general circulation.
 
 Approved,
 

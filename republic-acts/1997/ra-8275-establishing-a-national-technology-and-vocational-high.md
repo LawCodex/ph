@@ -28,7 +28,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-There is hereby established under the supervision of the Department of Education, Culture and Sports, a national technology and vocational high school in Barangay Barong-Barong, Municipality of Brooke's Point, Province of Palawan, to be known as the Governor Alfredo Abueg, Sr. National Technology and Vocational Memorial High School. Its curriculum shall give emphasis on technology and vocational training education.1aшphi1
+There is hereby established under the supervision of the Department of Education, Culture and Sports, a national technology and vocational high school in Barangay Barong-Barong, Municipality of Brooke's Point, Province of Palawan, to be known as the Governor Alfredo Abueg, Sr. National Technology and Vocational Memorial High School. Its curriculum shall give emphasis on technology and vocational training education.
 
 ## Section 2
 

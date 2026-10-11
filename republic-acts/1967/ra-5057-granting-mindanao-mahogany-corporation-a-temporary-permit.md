@@ -49,7 +49,7 @@ The grantee shall hold the national, provincial, city and municipal governments 
 
 ## Section 7
 
-The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.1avvphi1
+The grantee shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
 
 ## Section 8
 

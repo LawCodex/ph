@@ -26,7 +26,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 Paragraph two of Reorganization Plan No. 13-A of the Department of Health , is amended to read as follows:
 
-"2. There shall be an administrative division, an inspection and sanitation division, a detention service division, and a vermin control division in the Bureau of Quarantine.1âшphi1 The Secretary of Health is hereby empowered to designate the respective sections of these divisions and to transfer appropriations and personnel from the field operations, quarantine services to the Bureau of Quarantine for the proper operation of the said bureau upon recommendation of the Director of Quarantine."
+"2. There shall be an administrative division, an inspection and sanitation division, a detention service division, and a vermin control division in the Bureau of Quarantine. The Secretary of Health is hereby empowered to designate the respective sections of these divisions and to transfer appropriations and personnel from the field operations, quarantine services to the Bureau of Quarantine for the proper operation of the said bureau upon recommendation of the Director of Quarantine."
 
 ## Section 2
 

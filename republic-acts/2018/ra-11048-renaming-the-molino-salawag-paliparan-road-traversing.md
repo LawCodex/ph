@@ -33,7 +33,7 @@ The Molino-Salawag-Paliparan Road, traversing barangay Talaba 4, Niog 3, Ligas 2
 
 ## Section 2
 
-The Department of Public Works and Highways shall place appropriate markers along the aforementioned national road and issue the necessary orders and circulars to implement the provision of this Act.1âwphi1
+The Department of Public Works and Highways shall place appropriate markers along the aforementioned national road and issue the necessary orders and circulars to implement the provision of this Act.
 
 ## Section 3
 

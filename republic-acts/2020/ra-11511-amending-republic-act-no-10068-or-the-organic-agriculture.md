@@ -389,7 +389,7 @@ Five percent (5%) for research and development;
 
 and
 
-Five percent (5%) for marketing and promotion.ℒαwρhi৷
+Five percent (5%) for marketing and promotion.
 
 x x x."
 

@@ -38,7 +38,7 @@ The existing hospital facilities and professional health care service of the Bil
 
 ## Section 3
 
-The Provincial Government of Biliran shall provide the necessary funds to support the increase in bed capacity of the Biliran Provincial Hospital and the corresponding upgrading of its facilities and services.1âwphi1 The Secretary of Health shall include in the Department's program, subsidy support for the capital outlay requirements of the said hospital.
+The Provincial Government of Biliran shall provide the necessary funds to support the increase in bed capacity of the Biliran Provincial Hospital and the corresponding upgrading of its facilities and services. The Secretary of Health shall include in the Department's program, subsidy support for the capital outlay requirements of the said hospital.
 
 ## Section 4
 

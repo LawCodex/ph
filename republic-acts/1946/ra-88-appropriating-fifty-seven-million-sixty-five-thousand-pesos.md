@@ -68,7 +68,7 @@ F. INVESTIGATIONS AND SURVEYS
 
 ## Section 2
 
-No amount appropriated in this Act shall be set up in the books of the General Auditing Office or otherwise made available for expenditure unless previously authorized by the President of the Philippines.1a⍵⍴h!1
+No amount appropriated in this Act shall be set up in the books of the General Auditing Office or otherwise made available for expenditure unless previously authorized by the President of the Philippines.
 
 ## Section 3
 

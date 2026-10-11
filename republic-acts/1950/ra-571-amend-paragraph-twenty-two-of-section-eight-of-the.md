@@ -30,7 +30,7 @@ Paragraph twenty-two of Section Eight of the Philippine Tariff Act of nineteen h
 
 "(a) Tars, pitches, and tar oils, not otherwise provided for; mineral oils, crude or refined (except gasoline, naphtha, and other similar products of distillation), including those of illumination, lubrication, fuel, or solvents, vaseline (except when compounded with other substances); axle grease of all kinds; asphaltums; carbolineum and similar compounds ; one hundred kilos, twenty-five cents.
 
-"_Provided,_ That no article classified under clause (a) of this paragraph shall pay a less rate of duty than ten per centum ad valorem.ℒαwρhi৷
+"_Provided,_ That no article classified under clause (a) of this paragraph shall pay a less rate of duty than ten per centum ad valorem.
 
 "_Provided,_ further, That no article classified under clause (b) of this paragraph shall pay a less rate of duty than twenty per centum ad valorem.
 

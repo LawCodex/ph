@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippines in C
 
 ## Section 1
 
-The name of the City of Olongapo, created by Republic Act Numbered Forty-six hundred forty-five, is hereby changed to President Magsaysay City.1âшphi1
+The name of the City of Olongapo, created by Republic Act Numbered Forty-six hundred forty-five, is hereby changed to President Magsaysay City.
 
 ## Section 2
 

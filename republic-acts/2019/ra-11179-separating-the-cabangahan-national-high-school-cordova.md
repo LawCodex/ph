@@ -30,7 +30,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-\- The Cabangahan National High School - Cordova National High School Extension in Barangay Day-as, Municipality of Cordova, Province of Cebu is hereby separated from the Cabangahan National High School and converted into an independent national high school to be known as Cordova National High School.1âwphi1
+\- The Cabangahan National High School - Cordova National High School Extension in Barangay Day-as, Municipality of Cordova, Province of Cebu is hereby separated from the Cabangahan National High School and converted into an independent national high school to be known as Cordova National High School.
 
 ## Section 2
 

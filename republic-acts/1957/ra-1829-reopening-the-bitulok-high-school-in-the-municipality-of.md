@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The Bitulok High School in the Municipality of Sabani, Province of Nueva Ecija, is reopened and converted into a national rural school to be known as the Sabani Estate Rural High School.1âшphi1
+The Bitulok High School in the Municipality of Sabani, Province of Nueva Ecija, is reopened and converted into a national rural school to be known as the Sabani Estate Rural High School.
 
 ## Section 2
 

@@ -36,13 +36,11 @@ It is the policy of the State, as enshrined in the "Enhanced Basic Education Act
 
 Notwithstanding the requirements set by the Department of Education (DepEd) and the Civil Service Commission (CSC), competent Home Economics graduates, as well as allied academic areas, shall be allowed to teach home economics subjects and home economics graduates, as well as allied academic areas, shall be allowed to teach home economics subjects in all public and private elementary and secondary educational institutions, respectively, and other duly recognized academic institutions. To this end, the DepEd and the CSC, in consultation with the Technical Education and Skills Development Authority (TESDA), shall jointly formulate the appropriate standards and guidelines, to include academix requirements and competencies to assess the qualifications of Home Economics for the technical-vocational subjects.
 
-1âwphi1
-
 Graduates of Home Economics shall be required to obtain a National Certificate Level 1 (NC1) and National Certificate Level2 (NC2) from the TESDA before they can teach technical-vocational subjects in secondary educational institutions.
 
 ## Section 3
 
-Graduates of Home Economics shall be required to take the Licensure Examination for Teacher (LET) within five (5) years from the date of hiring.1âwphi1 However, graduates who are willing to teach on part-time basis shall not be required to take the LET.
+Graduates of Home Economics shall be required to take the Licensure Examination for Teacher (LET) within five (5) years from the date of hiring. However, graduates who are willing to teach on part-time basis shall not be required to take the LET.
 
 ## Section 4
 

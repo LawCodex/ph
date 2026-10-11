@@ -52,7 +52,7 @@ The Budget Commission
 
 ## Section 4
 
-_The Budget Commission._ -There is hereby created an office to be known as the Budget Commission under the executive control and supervision of the President.1âшphi1 There shall be in the Commission a Budget Commissioner and a Deputy Budget Commissioner who shall be appointed by the President with the consent of the Commission on Appointments. The Deputy Budget Commissioner shall perform such duties as the Commissioner may designate, and during the absence or incapacity of the latter, shall act as Commissioner.
+_The Budget Commission._ -There is hereby created an office to be known as the Budget Commission under the executive control and supervision of the President. There shall be in the Commission a Budget Commissioner and a Deputy Budget Commissioner who shall be appointed by the President with the consent of the Commission on Appointments. The Deputy Budget Commissioner shall perform such duties as the Commissioner may designate, and during the absence or incapacity of the latter, shall act as Commissioner.
 
 ## Section 5
 
@@ -62,7 +62,7 @@ _Salaries._ -The Budget Commissioner shall receive a compensation of twelve thou
 
 _Functions and powers of the Commission._ -The functions and powers of the Commission shall be as follows:
 
-a. To prepare the Budget and other appropriation proposals under such policies as the President may adopt.1âшphi1 To this end, the Commissioner shall have authority to assemble, correlate, revise, reduce or increase the requests for appropriations of the different departments and agencies of the Government, and to see how their respective programs are related to each other and how they may be shaped into a harmonious program and fiscal policy for the executive branch as a whole.
+a. To prepare the Budget and other appropriation proposals under such policies as the President may adopt. To this end, the Commissioner shall have authority to assemble, correlate, revise, reduce or increase the requests for appropriations of the different departments and agencies of the Government, and to see how their respective programs are related to each other and how they may be shaped into a harmonious program and fiscal policy for the executive branch as a whole.
 
 b. The Budget Commission, when directed by the President, shall make a detailed study of the departments and establishments for the purpose of enabling the President to determine what changes, with a view to securing greater economy and efficiency in the conduct of the public service should be made in (1) the existing organization, activities and methods of business of such departments or establishments, (2) the appropriations therefor, (3) the assignment of particular activities to particular services, or (4) the regrouping of services. The results of such study shall be embodied in report or reports to the President, who may transmit to Congress such report or reports or any part thereof with his recommendations on the matters covered thereby.
 
@@ -134,7 +134,7 @@ _Balanced Budget._ -The ordinary income shall be used primarily to provide for t
 
 No appropriations for the current operations and capital outlays of the Government shall be proposed, unless the amount involved is covered by the ordinary income, or unless it be supported by a proposal creating an additional source of funds or revenue, sufficient to cover the same. Likewise, no appropriation for any other expenditures, the amount of which is not covered by the estimated income from the existing sources of revenues or available current surplus, may be proposed unless it be supported by a proposal creating an additional source of fund sufficient to cover the same.
 
-The proposals creating additional sources of funds shall be prepared in the form of revenue bills which shall be appended to the Budget.1âшphi1
+The proposals creating additional sources of funds shall be prepared in the form of revenue bills which shall be appended to the Budget.
 
 The provisions of this section shall not be constituted as impairing in any way the power of Congress to enact revenue and appropriation bills, nor the authority of the President to propose special revenue and appropriation bills after the submission of the budget.
 

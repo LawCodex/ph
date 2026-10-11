@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-There is hereby created a branch office of the Register of Deeds of Mountain Province in the Municipality of Tabuk, same province, which shall perform all the duties and functions of the register of deeds for the following municipalities: Tinglayan, Tanudan, Lubuagan, Balbalan, Tabuk, Pinukpuk, Conner, Kabugao, Bayag, Pudtol, Flora and Luna.(awÞhi(
+There is hereby created a branch office of the Register of Deeds of Mountain Province in the Municipality of Tabuk, same province, which shall perform all the duties and functions of the register of deeds for the following municipalities: Tinglayan, Tanudan, Lubuagan, Balbalan, Tabuk, Pinukpuk, Conner, Kabugao, Bayag, Pudtol, Flora and Luna.
 
 ## Section 2
 

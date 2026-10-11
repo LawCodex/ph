@@ -42,7 +42,7 @@ The Provincial Government of Bataan shall provide the necessary funds for the ma
 
 ## Section 4
 
-All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.ℒαwρhi৷
+All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
 
 ## Section 5
 

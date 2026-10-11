@@ -38,7 +38,7 @@ _Definition of Arnis._ \- Arnis, also known as Eskrima, Kali, Garrote and other 
 
 ## Section 3
 
-Arnis is hereby declared as the Philippine National Martial Art and Sport.lawphil The official adoption of arnis as the national martial art and sport shall be promulgated by inscribing the symbol of arnis in the official seal of the Philippine Sports Commission and by making it as the first sport competition to be played by participating teams on the first day in the annual Palarong Pambansa. The Philippine Sports Commission shall be the lead agency to implement the provisions of this Act.
+Arnis is hereby declared as the Philippine National Martial Art and Sport. The official adoption of arnis as the national martial art and sport shall be promulgated by inscribing the symbol of arnis in the official seal of the Philippine Sports Commission and by making it as the first sport competition to be played by participating teams on the first day in the annual Palarong Pambansa. The Philippine Sports Commission shall be the lead agency to implement the provisions of this Act.
 
 ## Section 4
 

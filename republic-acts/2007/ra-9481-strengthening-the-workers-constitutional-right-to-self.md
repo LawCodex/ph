@@ -139,11 +139,17 @@ A new provision, Article 258-A is hereby inserted into the Labor Code to read as
 
 "ART. 258-A. _Employer as Bystander._ \- In all cases, whether the petition for certification election is filed by an employer or a legitimate labor organization, the employer shall not be considered a party thereto with a concomitant right to oppose a petition for certification election. The employer's participation in such proceedings shall be limited to: (1) being notified or informed of petitions of such nature; and (2) submitting the list of employees during the pre-election conference should the Med-Arbiter act favorably on the petition."
 
-**SEC. 13._Separability Clause._** \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
+## SEC. 13
 
-**SEC. 14._Repealing Clause._** \- Presidential Decree No. 442, as amended, otherwise known as the Labor Code of the Philippines, and all other acts, laws, presidential issuances, rules and regulations are hereby repealed, modified or amended accordingly.
+_Separability Clause._ \- If any part, section or provision of this Act shall be held invalid or unconstitutional, the other provisions shall not be affected thereby.
 
-**SEC. 15._Effectivity Clause._** \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two newspapers of general circulation.
+## SEC. 14
+
+_Repealing Clause._ \- Presidential Decree No. 442, as amended, otherwise known as the Labor Code of the Philippines, and all other acts, laws, presidential issuances, rules and regulations are hereby repealed, modified or amended accordingly.
+
+## SEC. 15
+
+_Effectivity Clause._ \- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two newspapers of general circulation.
 
 Approved,
 

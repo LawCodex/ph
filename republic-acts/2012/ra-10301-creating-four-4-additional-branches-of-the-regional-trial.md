@@ -37,7 +37,7 @@ The Supreme Court shall assign the branch number of the newly-created branches o
 
 ## Section 2
 
-The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the four (4) additional branches of the Regional Trial Court to be stationed at Zamboanga City, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court(s) herein created shall be appropriated and released only upon the actual organization of the Court(s) and the appointment of its personnel.ℒαwρhi৷
+The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court’s program the operationalization of the four (4) additional branches of the Regional Trial Court to be stationed at Zamboanga City, the funding of which shall be included in the annual General Appropriations Act. The funds necessary for the operation of the Court(s) herein created shall be appropriated and released only upon the actual organization of the Court(s) and the appointment of its personnel.
 
 ## Section 3
 

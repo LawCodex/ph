@@ -54,7 +54,7 @@ The right is hereby reserved to the Government of the Philippines, through the P
 
 (a) The grantee shall be liable to pay the same taxes on its real estate, buildings, and personal property, exclusive of the temporary permit, as other persons or corporations are now or hereafter may be required by law to pay.
 
-(b) The grantee shall further be liable to pay all other taxes under the National Internal Revenue Code by reason of this franchise.1âшphi1
+(b) The grantee shall further be liable to pay all other taxes under the National Internal Revenue Code by reason of this franchise.
 
 ## Section 8
 

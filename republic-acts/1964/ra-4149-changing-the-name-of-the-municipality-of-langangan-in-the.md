@@ -25,7 +25,7 @@ Be it enacted by the Senate and House of Representatives of the Philippine Congr
 
 ## Section 1
 
-The name of the Municipality of Langangan in the Province of Cagayan, is hereby changed to Santa Praxedes.1âшphi1
+The name of the Municipality of Langangan in the Province of Cagayan, is hereby changed to Santa Praxedes.
 
 ## Section 2
 

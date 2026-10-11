@@ -23,7 +23,7 @@ AN ACT MAKING THE MUNICIPALITY OF MASINLOC, PROVINCE OF ZAMBALES, A PORT OF ENTR
 
 ## Section 1
 
-Section seven hundred one of Republic Act Numbered Nineteen hundred thirty-seven, known as the Tariff and Customs Code of the Philippines, is further amended to read as follows:lawphi1™
+Section seven hundred one of Republic Act Numbered Nineteen hundred thirty-seven, known as the Tariff and Customs Code of the Philippines, is further amended to read as follows:
 
 "Sec. 701. Collection Districts and Ports of Entry thereof. For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, San Jose, Maasin, Masao, Iligan City, Batangas, Surigao, Ozamis City, Cabugao, Virac, Batalay, Supang, Gaang, Dagupan City, Bislig, Catbalogan, Dadiangas, Mariveles and Masinloc."
 

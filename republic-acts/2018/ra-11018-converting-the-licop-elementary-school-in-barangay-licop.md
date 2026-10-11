@@ -37,7 +37,7 @@ All personnel, assets, liabilities, and records of the Licop Elementary School a
 
 ## Section 3
 
-The Secretary of Education shall immediately include in the Department's program the operationalization of the Licop Integrated School, the funding of which shall be included in the annual General Appropriations Act..1âwphi1
+The Secretary of Education shall immediately include in the Department's program the operationalization of the Licop Integrated School, the funding of which shall be included in the annual General Appropriations Act..
 
 ## Section 4
 

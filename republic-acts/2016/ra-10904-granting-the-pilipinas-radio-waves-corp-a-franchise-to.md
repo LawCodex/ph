@@ -38,7 +38,7 @@ _Manner of Operation of Stations or Facilities._ \- The stations or facilities o
 
 ## Section 3
 
-_Prior Approval of the National Telecommunications Commission (NTC)._ \- The grantee shall secure from the NTC the appropriate permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.1awp++i1
+_Prior Approval of the National Telecommunications Commission (NTC)._ \- The grantee shall secure from the NTC the appropriate permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
 
 ## Section 4
 
@@ -66,7 +66,7 @@ _Acceptance and Compliance._ \- Acceptance of this franchise shall be given in w
 
 ## Section 8
 
-_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shall determine, to guarantee compliance with and fulfillment of the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.1âwphi1
+_Bond._ \- The grantee shall file a bond with the NTC, in the amount that the NTC shall determine, to guarantee compliance with and fulfillment of the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
 
 ## Section 9
 

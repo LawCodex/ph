@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+html2text
+# also requires poppler-utils (pdftotext) for the few PDF-only instruments

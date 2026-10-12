@@ -1,0 +1,40 @@
+---
+title: "Act No. 2272 — An Act to Amend in Certain Respects Section Nine, as Amended, of Act Numbered Seven Hundred and Eighty-Seven, Entitled \"An Act Providing for the Organization and Government of the Moro Province,\" to Provide for the Employment of a Prosecuting Attorney and a Register of Deeds for the Moro Province, and for Other Purposes."
+identifier: "Act No. 2272"
+number: "2272"
+type: act
+jurisdiction: ph
+language: en
+date: 1913-03-03
+status: unknown
+source: "https://lawphil.net/statutes/acts/act1913/act_2272_1913.html"
+source_format: html
+note: "LawPhil text is headed 'as amended': it may incorporate later amendments rather than the as-enacted text"
+retrieved: 2026-10-12
+---
+
+# Act No. 2272
+
+**An Act to Amend in Certain Respects Section Nine, as Amended, of Act Numbered Seven Hundred and Eighty-Seven, Entitled "An Act Providing for the Organization and Government of the Moro Province," to Provide for the Employment of a Prosecuting Attorney and a Register of Deeds for the Moro Province, and for Other Purposes.**
+
+[ Act No. 2272, March 03, 1913 ]
+
+AN ACT TO AMEND IN CERTAIN RESPECTS SECTION NINE, AS AMENDED, OF ACT NUMBERED SEVEN HUNDRED AND EIGHTY-SEVEN, ENTITLED "AN ACT PROVIDING FOR THE ORGANIZATION AND GOVERNMENT OF THE MORO PROVINCE," TO PROVIDE FOR THE EMPLOYMENT OF A PROSECUTING ATTORNEY AND A REGISTER OF DEEDS FOR THE MORO PROVINCE, AND FOR OTHER PURPOSES.
+
+By authority of the United States, be it enacted by the Philippine Commission, that:
+
+## Section 1
+
+Section nine, as amended, of Act Numbered Seven hundred and eighty-seven of the Philippine Commission, entitled "An Act providing for the Organization and Government of the Moro Province," is hereby further amended so as to read as follows:
+
+"**Section 9.** The provincial attorney shall be the attorney Provincial attorney, and legal adviser of the provincial government and of each of its officers and of the legislative council hereinafter constituted and shall, when called upon by the council or any officer, furnish a written opinion on questions of law arising in the administration of the government. He shall represent the provincial government in all suits brought on its behalf or against it in the courts of the province or in the courts of any province or district. He shall be the legal adviser of the municipal authorities of any municipality organized in the province and shall, upon request, submit in writing his views upon any question properly arising in the discharge of the public duties of such officers or authorities. He shall represent each municipality of the province in all litigation pending for or against such municipality in any court therein, except in cases where the interests of the municipality and of the province are opposed, in cases where two municipalities are adverse parties to the same litigation, and in cases arising under Act Numbered Thirteen hundred and seventy-six, in all of which cases the municipality shall be obliged to employ special counsel. There shall be a prosecuting attorney for the Moro Province, who shall also be ex officio assistant attorney for the Moro Province, and who shall discharge his duties under the general supervision of the provincial attorney. He shall be appointed by the governor of the Moro Province subject to confirmation by the legislative council. He shall be a lawyer admitted to practice in the Supreme Court of the Philippine Islands, or in the Supreme Court of a state or territory of the United States, or of the District of Columbia. He shall receive such annual salary as may be fixed and provided for such officer in the appropriation acts of the legislative council. He shall represent the public in the prosecution of crime in any courts within the Moro Province, when the public interest requires it, and shall render such services as assistant attorney for the Moro Province as may be assigned to him by the attorney for the Moro Province. Before assuming office he shall take the oath of office prescribed for provincial officers in Act Numbered Eighty-three. The provincial attorney shall whenever in his opinion the public interest requires it, appear and take charge of prosecutions for the Government in any court within the province. During the temporary absence from duty of the prosecuting attorney for the Moro Province, or whenever for any reason such officer is disqualified to act therein in an official capacity, or in case of a vacancy in such office, or whenever, from any cause, such officer is unable to or does not appear in any criminal proceeding in any court in the province, the provincial governor, whenever it shall be impracticable for the provincial attorney to perform the duties of such prosecuting attorney, shall appoint a temporary prosecuting attorney who shall have the powers of such prosecuting attorney and shall serve in such capacity until his temporary employment shall be terminated by the provincial governor. For such service, such temporary prosecuting attorney shall receive such compensation, payable from provincial funds, as the provincial governor shall determine. The provincial attorney and the prosecuting attorney for the Moro Province are hereby empowered, virtute officii, to enter a nolle prosequi and thereby at once to stay the proceeding in any criminal action in any court in the Moro Province, at any stage in the proceeding prior to that wherein jeopardy attaches: _Provided, however,_ That this provision shall in no way be construed to repeal section thirty-eight of General Orders of the Military Government Numbered Fifty-eight, series of nineteen hundred. At The provincial attorney shall discharge his duties under the general supervision of the Attorney-General of the Insular Government, and the Attorney-General shall represent the provincial government in all suits for or against it which shall come before the Supreme Court, but if the Attorney-General deems it necessary he may require the provincial attorney to assist in the presentation of the cause before the Supreme Court. In every criminal case appealed to the Supreme Court from any court held in the Moro Province, the provincial attorney shall forthwith make a report to the Attorney-General explaining the questions of law and fact appearing therein and the conclusions of the court. The provincial attorney shall make an annual report to the Attorney-General of the Philippine Islands as to the conditions of public and private litigation in the courts throughout the province, and shall discharge such other duties as may be required by the legislative council."
+
+## Section 2
+
+There shall be a register of deeds for the Moro Province who shall be appointed by the governor of the Moro Province and shall receive such annual salary, payable from provincial funds, as may be fixed and provided for such officer in the appropriation acts of the legislative council. In case of the temporary absence or disability of the register of deeds or of a vacancy in such office, the governor of the Moro Province shall designate some provincial officer, or employee in the office of such register of deeds, to perform during such absence or disability or existence of such vacancy the duties of such officer as acting register of deeds. For such service as acting register of deeds, the person so designated shall be entitled to such additional compensation, payable from provincial funds, as the governor of the Moro Province shall approve and determine.
+
+## Section 3
+
+Sections twenty-one and twenty-two of Act Numbered Eight hundred and sixty-seven and Act Numbered Two thousand and sixty-eight of the Philippine Commission, and so much of sections four and five of Act Numbered Sixteen hundred and ninety-nine thereof as provides respectively that the attorney for the Moro Province shall serve as register of deeds, and that in case of vacancy in such office or absence or disability of such officer, the assistant attorney or treasurer of the Moro Province, as the case may be, shall so serve, are hereby repealed.
+
+Enacted, March 3, 1913.

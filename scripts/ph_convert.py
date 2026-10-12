@@ -66,7 +66,6 @@ CODES = [
     ("presidential", "1067", "water-code", "The Water Code of the Philippines"),
     ("presidential", "856", "code-on-sanitation", "Code on Sanitation of the Philippines"),
     ("presidential", "705", "revised-forestry-code", "Revised Forestry Code of the Philippines"),
-    ("presidential", "1096", "national-building-code", "National Building Code of the Philippines"),
     ("presidential", "1083", "code-of-muslim-personal-laws", "Code of Muslim Personal Laws of the Philippines"),
     ("republic", "8550", "fisheries-code", "The Philippine Fisheries Code of 1998"),
     ("republic", "8799", "securities-regulation-code", "The Securities Regulation Code"),
@@ -379,6 +378,7 @@ def build_document(md):
             out.append(payload)
     text = "\n\n".join(out)
     text = re.sub(r"(?<=\s)(?:__|\*\*\*\*|\*\*\s*\*\*)(?=\s)", "", text)
+    text = re.sub(r"(?<=[.;:,])(?:ITC)?©?lawphi[l1](?:&\d+;|\.net|@alf)?", "", text, flags=re.I)  # stray watermarks
     text = re.sub(r"[ ]{2,}(?=\S)", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     # remove stray LawPhil footer
@@ -388,7 +388,7 @@ def build_document(md):
 
 def pdf_to_text(path):
     try:
-        r = subprocess.run(["pdftotext", "-layout", "-enc", "UTF-8", path, "-"], capture_output=True, timeout=300)
+        r = subprocess.run(["pdftotext", "-enc", "UTF-8", path, "-"], capture_output=True, timeout=300)
         t = r.stdout.decode("utf-8", "replace")
     except Exception:
         return ""
@@ -484,7 +484,10 @@ def convert_series(mod, raw, outdir, stats, code_targets):
         if mod == "execord" and "1986-02-25" <= date <= "1987-07-26":
             meta["note"] = ("Issued by President Corazon C. Aquino in the exercise of legislative power "
                             "(Freedom Constitution, Art. II s.1; 1987 Constitution, Art. XVIII s.6)")
-        if "AS AMENDED" in body[:1500].upper():
+        if fmt == "pdf":
+            meta["note"] = ("No HTML text on LawPhil: extracted from the text layer of the PDF scan; "
+                            "OCR errors and column-order problems are likely")
+        elif "AS AMENDED" in body[:1500].upper():
             meta["note"] = ("LawPhil text is headed 'as amended': it may incorporate later amendments "
                             "rather than the as-enacted text")
         h1 = f"# {label}\n\n" + (f"**{desc}**\n\n" if desc else "")

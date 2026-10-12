@@ -1,0 +1,71 @@
+---
+title: "Act No. 128 — An Act Extending the Provisions of the Provincial Government Act to the Province of Misamis."
+identifier: "Act No. 128"
+number: "128"
+type: act
+jurisdiction: ph
+language: en
+date: 1901-05-15
+status: unknown
+source: "https://lawphil.net/statutes/acts/act1901/act_128_1901.html"
+source_format: html
+retrieved: 2026-10-12
+---
+
+# Act No. 128
+
+**An Act Extending the Provisions of the Provincial Government Act to the Province of Misamis.**
+
+[ Act No. 128, May 15, 1901 ]
+
+AN ACT EXTENDING THE PROVISIONS OF THE PROVINCIAL GOVERNMENT ACT TO THE PROVINCE OF MISAMIS.
+
+By authority of the President of the United States, be it enacted by the United States Philippine Commission, that:
+
+## Section 1
+
+All the provisions of an Act entitled "A general Act for the organization of provincial governments in the Philippine Islands," enacted February sixth, nineteen hundred and one, shall apply to and govern the establishment of a provincial government in that territory in the Island of Mindanao beginning at a point one mile west of the western boundary of the barrio of Naboros on a Point Balato on the north coast of Mindanao; thence running due south to the eighth parallel of latitude; thence east on the eighth parallel of latitude to the boundary as established under Spanish sovereignty between the commandancia of Butuan and the former Province of Misamis; thence north on said boundary to Punta Diuata; thence following the northern coast line of Mindanao to the point of beginning, and including therein the Island of Camiguin and small adjacent islands, to be known as the Province of Misamis, with such exceptions, modifications, and supplementary provisions as are hereinafter contained.
+
+## Section 2
+
+The compensation to be paid provincial officers of the Province of Misamis shall be at the following rate per year, money of the United States:
+
+For the provincial governor, one thousand seven hundred dollars;
+
+For the provincial secretary, one thousand two hundred dollars;
+
+For the provincial treasurer, two thousand three hundred dollars;
+
+For the provincial supervisor, one thousand eight hundred dollars;
+
+For the provincial fiscal, one thousand four hundred dollars.
+
+The salary of the provincial officers shall be payable monthly, so that one-twelfth of the annual salary shall be paid on the last day of each calendar month.
+
+Each provincial officer shall he allowed his necessary and actual traveling expenses, not exceeding two dollars and fifty cents per day, while absent from the capital of the province on official business. The allowance shall be made by the provincial board upon the certificate of the officer that the travel was necessary for the public business, and shall not be paid until the account, accompanied by the resolution of the board approving the same, shall be forwarded to the Insular Treasurer and by him approved.
+
+## Section 3
+
+The bond of the provincial treasurer shall be fourteen thousand dollars, until the first day of March, nineteen hundred and two, when, in view of the collection of the land tax, the Commission may require a new bond or an additional bond to cover the probable increase of the funds of which the provincial treasurer shall have custody at any one time. The bond to be given shall be conditioned to secure on the part of the provincial treasurer that he shall account for the internal-revenue collections coming into his hands as internal-revenue collector, the taxes collected by him for each municipality, for the province, and for the Central Government. The form of the bond shall be prescribed by the Insular Treasurer. If, upon the request of the Commission, the Military Governor shall detail any military officer to fill a provincial office, no bond shall be required of him and no salary shall be paid him until after July first, nineteen hundred and one.
+
+## Section 4
+
+The presidents or alcaldes of the municipalities of the province shall meet on the third Mondays in April and October to consider improvements needed in the province and for the provincial government, and to make recommendations to the provincial board. The convention shall be called together by the provincial secretary arid shall elect a chairman for each quarter's session. The provincial secretary shall act as secretary of the convention, and shall certify its recommendations to the provincial board.
+
+## Section 5
+
+The capital of the province shall be, as formerly, at the town of Cagayan.
+
+## Section 6
+
+The oaths of office may be administered to provincial officers by a member of the Commission, by the governor of the province, by any judicial officer having jurisdiction therein, and by any United States Army officer stationed in the province.
+
+## Section 7
+
+The jurisdiction conferred by this Act and the General Provincial Act upon the provincial officers, hereunder to be appointed, over the territory herein described as the Province of Misamis shall not extend to the government of members of non-Christian tribes living therein, who shall, notwithstanding this Act, be subject to the jurisdiction of the Departmental Government of the Island of Mindanao hereafter to be established. The police powers of the provincial government and of the municipalities established in the province under the Municipal Code as to non-Christian tribes shall be exercised only to prevent or prosecute breaches of the peace, or crimes by members of non-Christian tribes against Filipinos, citizens of the United States or foreigners, but shall not be exercised to maintain the peace or prevent crime between members of the non-Christian tribes.
+
+## Section 8
+
+This Act shall take effect on its passage.
+
+Enacted, May 15, 1901.

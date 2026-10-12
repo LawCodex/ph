@@ -58,7 +58,7 @@ Any provisions of existing laws to the contrary notwithstanding, the Commission 
 
 ## Section 5
 
-_Appropriations._ To implement the provisions of this Decree the amount of TWO MILLION SIX HUNDRED THOUSAND PESOS (P2,600,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.ITC©Lawphil
+_Appropriations._ To implement the provisions of this Decree the amount of TWO MILLION SIX HUNDRED THOUSAND PESOS (P2,600,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
 
 ## Section 6
 

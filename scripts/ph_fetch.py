@@ -140,7 +140,7 @@ def download(raw, url):
         return "404"
     if r.status_code != 200:
         return f"http{r.status_code}"
-    tmp = p + ".part"
+    tmp = f"{p}.{threading.get_ident()}.part"
     with open(tmp, "wb") as f:
         f.write(r.content)
     os.replace(tmp, p)
@@ -175,6 +175,7 @@ def main():
                 urls.append(row["_pdf"])
     if a.lists_only:
         return
+    urls = list(dict.fromkeys(urls))
     print(f"{len(urls)} documents to fetch", flush=True)
     stats = {}
     done = 0

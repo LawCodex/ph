@@ -175,7 +175,7 @@ Telecommunications entities may provide VAS, subject to the additional requireme
 
 _Mobile Radio Services._ \- In a local telephone exchange area, more than one duly enfranchised provider of mobile radio services, distinct and separate from the local exchange carrier, may be allowed to operate. However, such entities shall secure prior authority from the Commission and, in addition, comply with the conditions imposed on VAS and with the norms on radio frequency spectrum utilization.
 
-The operator of a mobile radio telephone system shall comply with its obligations to provide local exchange service in unserved and underserved areas in accordance with existing regulations. Failure to comply with this obligation within (3) years from the grant of the authority shall be a cause to cancel its authority or permit to operate a mobile radio telephone system.lawphil&159;
+The operator of a mobile radio telephone system shall comply with its obligations to provide local exchange service in unserved and underserved areas in accordance with existing regulations. Failure to comply with this obligation within (3) years from the grant of the authority shall be a cause to cancel its authority or permit to operate a mobile radio telephone system.
 
 ### Section 13
 

@@ -17,7 +17,19 @@ instrument. Part of [LawCodex](https://github.com/LawCodex).
 <!-- COUNTS -->
 | Category | Directory | Files |
 |---|---|---|
-| Constitutions (1987 in force; 1986, 1973, 1943, 1935, 1899 historical) | `constitution/` | 6 |
+| Constitutions (1987 in force; 1986 Freedom, 1973, 1943, 1935, 1899 Malolos — historical) | `constitution/` | 6 |
+| Main codes (copies, see below) | `codes/` | 27 |
+| Republic Acts (RA 1 – RA 12325, 1946–2026) | `republic-acts/` | 12,001 |
+| Commonwealth Acts (CA 1 – 733, 1935–1946) | `commonwealth-acts/` | 733 |
+| Batas Pambansa (BP 88 – 889, 1979–1986) | `batas-pambansa/` | 806 |
+| Presidential Decrees (PD 1 – 1913, 1972–1986) | `presidential-decrees/` | 1,696 |
+| Executive Orders (1901–2026) | `executive-orders/` | 5,782 |
+| Acts of the Philippine Commission / Legislature (Act 1 – 4275, 1900–1935) | `acts/` | 4,199 |
+| **Total** | | **25,250** |
+
+Numbers with letter suffixes (e.g. PD 1258-A, EO 124-B) are separate files. 16 instruments
+that exist on LawPhil only as PDF scans were converted from the PDF text layer (OCR quality is
+poor; flagged with a `note`).
 <!-- /COUNTS -->
 
 ## Structure
@@ -29,7 +41,7 @@ republic-acts/<year>/ra-<n>-<slug>.md        # Republic Acts, 1946–present (Co
 commonwealth-acts/<year>/ca-<n>-<slug>.md    # Commonwealth Acts, 1935–1946 (National Assembly / Congress)
 batas-pambansa/<year>/bp-<n>-<slug>.md       # Batas Pambansa, 1978–1985 (Interim / Regular Batasang Pambansa)
 presidential-decrees/<year>/pd-<n>-<slug>.md # Presidential Decrees, 1972–1986 (Marcos, martial law legislation)
-executive-orders/<year>/eo-<n>-<slug>.md     # Executive Orders, 1901–present
+executive-orders/<year>/eo-<n>-<slug>.md     # Executive Orders, 1901–present (all that LawPhil lists)
 acts/<year>/act-<n>-<slug>.md                # Acts of the Philippine Commission / Philippine Legislature, 1900–1935
 ```
 
@@ -41,7 +53,10 @@ The H1 is the official number, followed by the long title in bold. Divisions of 
 Part, Title, Chapter, Article, Section headings set as centred headings in the source) are mapped
 to Markdown headings in their order of rank; individual provisions ("Section 1.", "Article 1.",
 "Sec. 1.") become the deepest heading level, followed by their text. Tables are kept as Markdown
-tables when simple and as plain HTML otherwise.
+tables when simple and as plain HTML otherwise. LawPhil inserts anti-copying watermarks (e.g.
+`1awphi1`, `lawphil`) inside `<cite>` tags in the middle of sentences; these are removed during
+conversion. Page-level annotations by LawPhil (e.g. "Amended by RA 8533") are kept as they
+appear in the page.
 
 ### Codes
 
@@ -52,13 +67,23 @@ National Internal Revenue Code of 1997 (RA 8424, as enacted), Local Government C
 Revised Corporation Code (RA 11232), Intellectual Property Code (RA 8293), Customs Modernization
 and Tariff Act (RA 10863), Omnibus Election Code (BP 881), Child and Youth Welfare Code (PD 603),
 Insurance Code (PD 612; and RA 10607 amending it), Property Registration Decree (PD 1529),
-Water Code (PD 1067), Code on Sanitation (PD 856), Revised Forestry Code (PD 705), National
-Building Code (PD 1096), Code of Muslim Personal Laws (PD 1083), Fisheries Code (RA 8550),
+Water Code (PD 1067), Code on Sanitation (PD 856), Revised Forestry Code (PD 705), Code of Muslim Personal Laws (PD 1083), Fisheries Code (RA 8550),
 Securities Regulation Code (RA 8799), Cooperative Codes (RA 6938, RA 9520), Comprehensive Agrarian
 Reform Law (RA 6657), Agricultural Land Reform Code (RA 3844), Mining Act (RA 7942), and the Act
 on Crimes against International Humanitarian Law (RA 9851). The Code of Commerce of 1885
 (Spanish-era, extended to the Philippines in 1888) is not available as a statute page on LawPhil
-and is not included.
+and is not included; neither is the National Building Code (PD 1096), which LawPhil does not list.
+
+### Executive Orders and "force of law"
+
+All Executive Orders listed by LawPhil are included, from the American Governors-General (1901)
+to the present. Only some have the force of statute: those issued by President Corazon Aquino
+between 25 February 1986 and 26 July 1987 while she exercised legislative power (Freedom
+Constitution Art. II s.1; 1987 Constitution Art. XVIII s.6 — e.g. the Family Code, EO 209, and the
+Administrative Code, EO 292) carry a `note` saying so; certain Marcos-era EOs issued under
+Amendment No. 6 to the 1973 Constitution also have legislative force but are not flagged. The
+remaining EOs are executive issuances (administrative acts of the President). Users should not
+assume that every EO is legislation.
 
 ## Sources
 
@@ -93,7 +118,22 @@ and is not included.
   the Arellano Law Foundation.
 - LawPhil disclaims any warranty as to accuracy or completeness; so does LawCodex.
 
-## Not covered
+## Not covered / gaps
+
+- Instruments listed by LawPhil but with no text (HTML page missing — HTTP 404 — and no usable
+  PDF): 32 Republic Acts (e.g. RA 80, 135, 143, 156, 320, 12326 [image-only PDF]),
+  85 Batas Pambansa (BP 1–87 of 1978–79 and a few others have no text on LawPhil),
+  2 Presidential Decrees, 118 Executive Orders (mostly 1901–1913 and 1941), 80 Acts. The
+  full list is produced by `ph_convert.py` as `missing.tsv` in the raw directory.
+- Numbers not listed at all by LawPhil (approximate count of gaps in the numbering): ~300
+  Republic Acts (e.g. RA 427–436 and other short runs; many are private franchise or
+  citizenship acts), ~260 Presidential Decrees (and PD 1914–2036 of 1984–86, which LawPhil does
+  not list), ~140 Acts. The Official Gazette, which might fill some gaps, is behind a Cloudflare
+  bot challenge (see above).
+- Some LawPhil pages contain only a cross-reference or "The text of this statute is not
+  included in this publication" (e.g. some General Appropriations Acts); they are reproduced as is.
+- Where the source page has no "Section N." labels (e.g. some PDs numbered "1.", "2."), no
+  provision headings could be generated; the text is still complete.
 
 - Implementing Rules and Regulations (IRRs), vetoes and other non-statute entries that appear in
   LawPhil's Republic Acts listing (skipped).
